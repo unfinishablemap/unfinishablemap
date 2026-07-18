@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T16:19:40+00:00
+ai_modified: 2026-07-18T16:33:11+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T16:33:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Word count**: 4669 → 4669 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op: 7th deep review; re-selected only by a cosmetic wikilink bump)
+- **Notes**: Sole delta since 2026-06-24 comprehensive pass is commit 4684a83b1 converting "alien hand syndrome"→[[anarchic-hand-and-action-ownership|anarchic hand]] — cosmetic cross-link install, no content change. Verified: new wikilink target resolves; citations web-verified 2026-06-05 and unchanged; calibration spine (two-tier compound-signature, common-cause discount, restraint hedges) intact; Mode Three / Mode One engagement unchanged, no label leakage. Length 4669w (hard_warning) is a standing human/condense scope decision from the 06-24 pass — not re-flagged, no task minted. Advanced last_deep_review only; ai_modified left at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-18-clinical-dissociation-as-systematic-evidence]]
 
 ## 2026-07-18T16:19:40+00:00 - deep-review
 - **Status**: Success

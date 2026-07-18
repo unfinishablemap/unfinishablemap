@@ -47,7 +47,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-06-24T15:36:02+00:00
+last_deep_review: 2026-07-18T16:33:11+00:00
 coalesced_from:
   - "/topics/clinical-dissociation-as-systematic-evidence/"
   - "/topics/dissociative-states-as-intact-substrate-interface-evidence/"
