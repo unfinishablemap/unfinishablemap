@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T15:26:22.129760+00:00'
-session_count: 16391
-cycle_position: 11385
+last_updated: '2026-07-18T15:30:59.511230+00:00'
+session_count: 16392
+cycle_position: 11386
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T15:00:46.932689+00:00'
   optimistic-review: '2026-07-18T10:59:40.130914+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T15:26:22.129760+00:00'
+  deep-review: '2026-07-18T15:30:59.511230+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T11:49:04.249483+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 519
-  reviews_completed: 6584
+  reviews_completed: 6585
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-07-18'
-  outcome: success
 - task: tune-system
   type: tune-system
   date: '2026-07-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 - task: deep-review
@@ -1309,13 +1309,36 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 94
+  p2_tasks: 95
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T15:11:00+00:00'
-  last_replenishment_prev: '2026-07-18T14:40:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review concepts/kairos.md (interactive
+  last_replenishment: '2026-07-18T15:36:00+00:00'
+  last_replenishment_prev: '2026-07-18T15:11:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review concepts/the-agent-shaped-hole.md
+    (interactive /replenish-queue 2026-07-18T15:36, conservative exact-floor +1, ONE
+    mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
+    (open P2s: voids/aspect-perception-void + concepts/kairos, both prior floor-holders
+    not yet drained), == 3 re-verified after; FIFO-placed at bottom of Active so the
+    two older P2s drain first (queue-lifo-starvation). Source = staleness. **Target
+    HONESTLY framed — NOT a manufactured owed-web-verify** (see the 9 corrected false-owed
+    mints today incl. the kairos correction): the-agent-shaped-hole is the STALEST
+    ai_contribution=100 article (last_deep_review == ai_modified == 2026-06-03 = 44.5d
+    converged, git-untouched, ai_system claude-opus-4-8, ~2200w concepts-ok). Its citation
+    surface was ALREADY fully checked 06-03 (3 Map self-cites verified on disk + QBism
+    quote web-verified; pessimistic DeBrota/Fuchs/Schack author-sub already fixed) so
+    do NOT re-run web-verify. Genuine-but-thin yield = self-cite link-reciprocity after
+    44d source drift + QBism verbatim-quote spot-check + currency; expected metadata
+    no-op floor-holder (bump last_deep_review ONLY, hold ai_modified + ai_system). Sole
+    deep-review is the fresh-create stamp-setter so deep_review_over_reviews_converged
+    does not strongly bite (first re-review after 45d). AUTHORITATIVE cap check: topics
+    320/320, concepts 320/320, voids 100/100 ALL AT CAP; positions 8/80 < 10 audit
+    threshold + audited 2026-07-16. Other sources non-generative: chains + unconsumed-research
+    cap-blocked; orphaned_files 0; length offenders all veto/human-deferred; no applied-apex
+    gap. NO concurrent evolve_loop.py (pgrep clean). Replenish-at-floor alternation
+    (unfin_loop_steady_state), not a deadlock. Pruned the _1420 note to hold state-note
+    count at ~3.'
+  last_floor_restore_target_superseded_2026_07_18_1511: 'mint P2 deep-review concepts/kairos.md (interactive
     /replenish-queue 2026-07-18T15:11, conservative exact-floor +1, ONE mint). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write (open P2s: voids/formal-cognitive-limits
     + voids/aspect-perception-void, both prior floor-restore mints not yet drained;
@@ -1368,32 +1391,6 @@ queue_status:
     NO concurrent evolve_loop.py (pgrep empty); tree clean apart from pre-existing
     evolution-state.yaml edit. Replenish-at-floor alternation (unfin_loop_steady_state),
     not a deadlock. Pruned the 1334 note to hold state-note count at ~3.'
-  last_floor_restore_target_superseded_2026_07_18_1420: 'mint P2 deep-review voids/formal-cognitive-limits.md
-    (interactive /replenish-queue 2026-07-18T14:20, conservative exact-floor +1, ONE
-    mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
-    (open P2s: topics/hylomorphic-dualism-and-the-interaction-problem + concepts/content-vocabulary-as-derived-feature,
-    both prior floor-restore mints not yet drained; the three veto condense P2s parser-excluded;
-    pending P3s = 2 harvested research-topics + blocked human-length-decisions, none
-    count toward floor 3); == 3 re-verified live after (select_queue_task next-pick
-    = hylomorphic-dualism, FIFO correct). Source used = staleness / owed-web-verify
-    seam. TARGET = section-diversifying void (the two open P2s are a topic + a concept):
-    voids/formal-cognitive-limits.md, ai_system claude-opus-4-7 (older cohort, opus-4-8-exempt),
-    ai_contribution 100, last_deep_review == ai_modified == 2026-06-04T16:57:22 =
-    44d converged, git untouched since b99849db3 2026-06-04, and the largest genuinely-unverified
-    citation surface in the clean cohort = 18 metadata-precise math-logic references
-    (Godel 1931 / Turing 1936 / Rice 1953 / Chaitin / Penrose 1989+1994 / Lucas 1961
-    / Carroll 1895 / Hoel 2025 IAI-TV currency-risk / Clarke-Doane 2012 possible year-volume
-    mismatch) whose ONLY prior review is the 2026-06-04 fresh-create stamp-setter
-    (no standalone review file, never web-verified at publisher). NOT veto, NOT in
-    Vetoed bank, no open deep-review header. AUTHORITATIVE cap check check_section_caps:
-    topics 320/320, concepts 320/320, voids 100/100 ALL AT CAP (the 14:03 note = 281/270
-    headroom = STALE/WRONG, corrected); positions 8/80 only headroom but < 10 audit
-    threshold + audited 2026-07-16. Other sources non-generative: chains + unconsumed-research
-    cap-blocked; orphaned_files 0; length offenders all veto/human-deferred; no applied-apex
-    gap. NO concurrent evolve_loop.py (pgrep empty); tree clean apart from pre-existing
-    evolution-state.yaml edit; HEAD b73e83a2a. FIFO-placed at bottom of Active (L1446,
-    highest line) so the two older P2s drain first (queue-lifo-starvation). Replenish-at-floor
-    alternation (unfin_loop_steady_state), not a deadlock.'
   replenishment_source_counts:
     staleness: 1
   run_745_pickable_p0_p2: 3
