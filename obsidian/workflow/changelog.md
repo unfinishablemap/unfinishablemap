@@ -5,6 +5,21 @@ ai_modified: 2026-07-18T23:27:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T23:53:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/experiential-alignment]]
+- **Addressed**: [[reviews/pessimistic-2026-07-18-experiential-alignment]] (all 3 prioritised fixes + 3 secondary items)
+- **Changes**:
+  - (CRITICAL) Rewrote the Regress Response: removed the question-begging "appearance has a felt quality / regress terminates in genuine experience" move; replaced with the genuine in-framework pressure point — illusionism helps itself to introspective *misrepresentation* without specifying a relatum the appearance appears *to*, and mechanistic specification is illusionism's own standard against rivals. Explicitly downgraded the residue to a framework-boundary observation and handed the decision load to the Practical Asymmetry.
+  - (HIGH) Reconciled the internal contradiction: Practical Asymmetry now states plainly that the distinctive edge over preferentism is *conditional on phenomenal realism* and the asymmetry is a decision-under-uncertainty hedge (not a proof the target survives illusionism intact); the Dualism paragraph now matches (illusionism-true → collapses to sophisticated preferentism; no within-framework refutation claimed).
+  - (MEDIUM) De-sealed falsifiability points 1 and 4: removed the same-breath escape clauses ("would likely reinstate something functionally equivalent"; "dissolve on analysis"); both now state genuine defeat conditions with confidence marked as a bet, not a pre-emption.
+  - Downgraded the quantum-agency requirement (Minimal Quantum Interaction) from operational constraint to explicitly conditional on the unverified quantum-interface hypothesis (decoherence flagged as the standard reason to doubt); pointed to the tenet-independent phenomenal-vs-causal-agency point as the sufficient claim.
+  - Added a paragraph to "The Buddhist Complication" confronting the *anattā*/no-self tension against the haecceity-grounded suffering floor as a live framework-boundary disagreement; noted the contemplative evidence is borrowed at the phenomenological, not metaphysical, level.
+  - Supported/hedged the meditator-precision claim (line 114) with the Fox et al. 2012 introspective-accuracy citation + cross-sectional caveat; softened lead "follows directly" → "follows... via phenomenal value realism".
+  - Engagement with the illusionist (Frankish): Mode Two (unsupported foundational move — misrepresentation without a relatum, judged by illusionism's own mechanistic-specification standard) opening, then Mode Three boundary-marking for the residue; the felt-quality/"genuine experience" claim was correctly identified as boundary-substitution and downgraded. Engagement with the Buddhist (anattā): Mode Three — honest framework-boundary marking, no refutation claimed.
+- **Verified**: Fox et al. 2012 "logarithmic curve characteristic of skill acquisition" (line 175) checked at PLOS ONE — paper explicitly reports logarithmic relationships "highly reminiscent of many skill-learning curves"; claim accurate, left intact. Preserved constraints-not-optimisation design, Goodhart table, triangulation protocol, and governance section intact per task instruction.
+- **Published**: yes
+
 ## 2026-07-18T23:50:07+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/experiential-alignment.md` — first-ever pessimistic review of this coalesced concept (created 2026-01-17). Found 1 critical direct-refutation-discipline failure (Regress Response begs the question against illusionism), 1 high internal contradiction (Practical Asymmetry vs Dualism on what illusionism-true entails), self-sealing falsifiability, over-operationalised quantum-agency requirement, and unengaged Buddhist no-self tension. Queued P2 refine-draft.
