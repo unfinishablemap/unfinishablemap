@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-07-18T05:05:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ coalesced_from:
 
 Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a core duration of roughly 300-750 milliseconds, embedded in a broader experiential horizon of 2-3 seconds, within which succession, change, and persistence appear as unified wholes. Henri Bergson named this qualitative flow *durée*—lived time fundamentally different from the spatialized time of physics. [[william-james-consciousness|William James]] wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future.
 
-This temporal structure appears fundamental to what consciousness is, not merely how it happens to be implemented. For The Unfinishable Map's framework, temporal consciousness may be the phenomenological manifestation of consciousness's constitutive role in time—what quantum collapse feels like from within.
+This temporal structure appears fundamental to what consciousness is, not merely how it happens to be implemented. For The Unfinishable Map's framework, temporal consciousness may be the phenomenological manifestation of consciousness's constitutive role in time—what quantum collapse feels like from within. The claim is scoped to ordinary perceptual and agentive experience; whether a minimal or deepest layer might remain alert while lacking represented succession is the separate, level-distinct question [[non-temporal-consciousness]] takes up, and the two claims are reconciled there rather than in competition.
 
 ## The Specious Present
 

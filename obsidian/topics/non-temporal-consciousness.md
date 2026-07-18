@@ -4,9 +4,9 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-11T02:14:44+00:00
+ai_modified: 2026-07-18T05:05:10+00:00
 draft: false
-last_deep_review: 2026-07-11T02:14:44+00:00
+last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[temporal-consciousness-structure-and-agency]]"
@@ -46,6 +46,18 @@ Consciousness may not be fundamentally temporal. The Map's treatment of [[tempor
 
 "Non-temporal" carries two meanings here. Husserl's absolute flow is *metaphysically* non-temporal — it does not exist within the temporal order. Meditative timelessness is *phenomenologically* atemporal — experience lacks temporal markers while the meditator's brain continues operating in time. They converge: if the deepest level of consciousness is metaphysically non-temporal, accessing it should strip away phenomenal temporal structure. The metaphysical thesis offers one Map-compatible explanation of the phenomenological finding; representational and neurophenomenological explanations remain live.
 
+## Scope: Which Level the Claim Ranges Over [Open]
+
+The Map holds elsewhere that consciousness is "constitutively temporal" and "does not occur in durationless instants" ([[temporal-consciousness]], [[temporal-consciousness-structure-and-agency]]). That is not in tension with the negative claim defended here, because the two range over different levels. Five things must be kept apart so that a verdict about one does not silently settle another:
+
+- **Temporal content** — the succession, change, and duration an experience represents.
+- **Phenomenal organisation** — the retention–impression–protention form of ordinary experience.
+- **Functional and neural integration** — the brain's binding of successive states, which proceeds in time on every reading here.
+- **Diachronic subject identity** — whether one subject persists across moments.
+- **Metaphysical temporal location** — whether the constituting activity is itself *within* the objective temporal order.
+
+The sibling pages are scoped to ordinary human perceptual and agentive consciousness: at that level experience does require temporal integration, and its content and organisation are thoroughly temporal. Nothing below revises that. This article's load-bearing negative claim is pitched one level down — that a putative minimal or deepest layer may remain alert while lacking *represented succession* (the meditative datum). A third and more speculative move, developed under Husserl's absolute flow, hypothesises a constituting subjectivity standing outside objective time. Neural and functional integration stay temporal throughout; a genuine conflict with the sibling pages would arise only if their "constitutively temporal" were read as a claim about the minimal layer, which it is not.
+
 ## Husserl's Absolute Flow [Open]
 
 Edmund Husserl identified three levels of temporal constitution. Transcendent objects exist in world time. Immanent unities are experiences within time — hearing a melody, feeling pain. Beneath both lies what Husserl called the **absolute flow**: the consciousness that constitutes temporal experience without itself being temporal. Husserl himself described the conclusion as "shocking (when not initially even absurd)" — Hoerl (2013) takes that self-assessment as the starting point for understanding what Husserl was attempting.
@@ -61,6 +73,8 @@ Husserl's argument is phenomenological and theoretical. Frischhut (2026) provide
 This is distinct from ordinary time distortion. When absorbed in a task, time seems to speed up — but succession persists. In deep meditative states, succession itself reportedly ceases. The brain operates temporally throughout meditation; neural oscillations continue; yet the meditator reports experience stripped of temporal character. If atemporality is constitutive rather than merely representational, this puts pressure on identity claims between experience and temporal neural process.
 
 A representationalist can resist: the experience remains a temporal brain process whose *content* lacks temporal markers, as a visual experience of uniform darkness is a spatial brain process whose content lacks spatial differentiation. The non-temporal thesis requires the stronger reading — that what the meditator accesses is the non-temporal ground itself, not a temporal representation of timelessness. Husserl's regress argument supports this: if temporal experience must be constituted by something non-temporal, meditative states stripping away temporal constitution reveal the constituting activity directly.
+
+Whether that stronger reading is correct is not something the meditative data can settle. At the level of the report the two readings are observationally equivalent — an atemporal ground accessed directly and a temporally structured process representing an undifferentiated present predict the same first-person description, and there is no meditative observation that would occur under the one but not the other. The article's tilt toward the stronger reading therefore rests on the independent regress argument, not on the contemplative evidence. Against a representationalist who grants the phenomenology while resisting its metaphysical upgrade, that is a disagreement at the framework boundary, marked honestly as such rather than settled on the representationalist's own terms.
 
 A deeper objection cuts beneath the representationalist's. The constructivist tradition in religious studies — Katz (1978), Sharf (1995, 2000) — denies that meditative reports are *unmediated* phenomenological data at all. There are, Katz insists, "*no* pure (i.e., unmediated) experiences." Sharf reads Buddhist meditation reports as "the ritualization of experience… scripts for the performance of an eminently public religious drama." On this view, the Jhāna treatise does not record what the meditator finds; it instructs the meditator what to find, and convergence is the outcome the tradition was engineered to produce.
 

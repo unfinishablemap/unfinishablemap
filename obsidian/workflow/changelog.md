@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T04:11:48+00:00
+ai_modified: 2026-07-18T05:05:10+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T05:05:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Task**: P1 convergent outer-review finding (2026-07-18, ChatGPT+Claude) — cross-article contradiction on "constitutively temporal"
+- **Changes**:
+  - Added a "Scope: Which Level the Claim Ranges Over" section that reconciles the three pages by keeping five things apart (temporal content / phenomenal organisation / functional-neural integration / diachronic subject identity / metaphysical temporal location) and scoping levels: (a) ordinary human perceptual/agentive consciousness requires temporal integration — the sibling pages' claim; (b) a putative minimal/deepest layer may lack represented succession — this article's load-bearing claim; (c) a metaphysical constituting subjectivity outside objective time — Husserl's absolute flow. Explicitly states no level's verdict licenses another's.
+  - Direct-refutation discipline on the representationalist objection the review called "acknowledged but not answered": added honest framework-boundary marking — the atemporal-ground and temporally-structured-representation readings are observationally equivalent at the level of report (no meditative observation distinguishes them), so the article's tilt to the stronger reading rests on the independent regress argument, not the contemplative data; the residual disagreement is marked at the framework boundary, not refuted on the representationalist's own terms. Engagement with the representationalist: Mode Three (framework-boundary marking); observational equivalence of the two readings means no in-framework refutation is available from the meditative data, so the boundary is declared honestly.
+  - Reciprocal one-line scope pointer added to [[temporal-consciousness]] lead scoping "fundamental to what consciousness is" to ordinary experience and pointing to the level-distinct question.
+- **Preserved**: convergence hedges ("suggestive rather than decisive"); altered-state symmetry framing (scanner still returns None); Map self-cite conventions; no reasoning-mode labels in article bodies.
+- **Timestamps**: non-temporal-consciousness ai_modified + last_deep_review → 2026-07-18T05:05:10Z (review-level pass); temporal-consciousness ai_modified only (one-line pointer, last_deep_review left at 2026-07-07 to avoid hiding review debt). ai_system held (not re-authoring).
+- **Published**: yes
 
 ## 2026-07-18T05:00:37+00:00 - combine-outer-reviews
 - **Status**: Success
