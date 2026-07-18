@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T19:48:57+00:00
+ai_modified: 2026-07-18T20:08:16+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T20:08:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Word count**: 4996 → 4996 (one-word quote fix, length-neutral)
+- **Critical issues addressed**: 1 (in-quote sibling-citation infidelity: memory-channel quote read "and the shape" where live source reads "and a shape" — restored verbatim; apex-quote-staleness-by-source-drift channel, from the 2026-06-16 coalesce rewrite)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verify-not-grow: the 2026-07-16 refine's new null-results rule, Testability-Register split, and three preregisterable seam predictions verified — exemplary anti-slippage, likelihood-ratio-explicit; born-preserving trilemma horns (a)/(b) faithful; no label leakage)
+- **Citation web-verify**: apex carries 0 own inline citations; all 7 in-quote sibling citations re-grepped against current sources — 6 real-correct, 1 corrected (memory-channel); no superlatives
+- **Length note**: 4996/5000 apex hard threshold — soft_warning; no condensation (well-calibrated convergent-outer-review content); watch cross-link accretion
+- **Engagement modes** (editor-internal): sceptic — Mode One/Mixed (answered on own terms + boundary-marking); believer — Mode Three (honest concession); physicalist comparator in predictions — Mode Two (presses causal-completeness/screening-off standards the physicalist endorses)
+- **Output**: [[reviews/deep-review-2026-07-18-self-concealing-interface]]
 
 ## 2026-07-18T19:54:44+00:00 - deep-review
 - **Status**: Success
