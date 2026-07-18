@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T21:49:09.489473+00:00'
-session_count: 16459
-cycle_position: 11420
+last_updated: '2026-07-18T21:58:42.150460+00:00'
+session_count: 16460
+cycle_position: 11421
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T19:30:20.757769+00:00'
   optimistic-review: '2026-07-18T20:29:13.309668+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T21:49:09.489473+00:00'
+  deep-review: '2026-07-18T21:58:42.150460+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T21:15:00.448157+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6613
+  reviews_completed: 6614
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 - task: deep-review
@@ -1319,34 +1319,33 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T21:38:00+00:00'
-  last_replenishment_prev: '2026-07-18T21:20:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review concepts/egocentric-presentism.md
-    (interactive /replenish-queue 2026-07-18T21:38Z, conservative exact-floor +1,
+  last_replenishment: '2026-07-18T22:04:00+00:00'
+  last_replenishment_prev: '2026-07-18T21:38:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review topics/consciousness-as-perceptual-architect.md
+    (interactive /replenish-queue 2026-07-18T22:04Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
     == 2 (open P2s: concepts/content-specificity-of-mental-causation + concepts/collapse-and-time,
-    both near-no-op staleness floor-holders; the three #veto condense tasks correctly
-    selector-excluded), == 3 re-verified live after write. Eight-source audit re-confirms
-    exhaustion: chain empty (recent_tasks carry zero research/expand/cross-review
-    completions); unconsumed-research + gap blocked (topics 320/320 concepts 320/320
-    voids 100/100 all AT CAP, only positions 8/80 has room); staleness -- all 34 ai_modified>last_deep_review
-    candidates are git-verified COSMETIC sibling cross-link touches, no genuine own-body
-    drift (replenish-changed-since-review-delta-often-cosmetic-wikilink); length --
-    every hard/critical offender human-deferred (epistemology-of-convergence 6533w
-    STANDING HUMAN split), #veto (phenomenal-output 6904w), accept-as-survey (composition-question-rivals),
-    an index hub (apex-articles 10498w), or a positions register (split not condense);
-    orphans 0; positions audited 2026-07-12 (6d, not overdue) + just actively maintained
-    07-16/07-17, deliberate-friction says no new add. So a genuine owed-web-verify
-    deep-review is the lowest-risk highest-yield restorer. Target: egocentric-presentism.md
-    CREATED + same-day-reviewed 2026-06-17 (last_deep_review==ai_modified), NEVER
-    re-examined in 31d, only ONE standalone review, most citation-dense older-cohort
-    converged concept (~16 refs 2007-2025), large UNCHECKED verify surface (owed-web-verify-seam-deep-review-targeting
-    + fresh-create-defect-tail). Body 2061w OK (concepts soft 2500 / hard 3500) --
-    under ceiling, NOT a length decision. Remit: web-verify every cite at publisher
-    of record, verbatim-check named-thinker quotes, currency-sweep the 2025 cite,
-    evidential-status discipline on the Tenet-4 indexical-identity engine. aic 100,
-    ai_system opus-4-8. NOT vetoed, NOT open-duplicate, NOT session-touched. Overwrote
-    prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
+    both near-no-op staleness floor-holders; #veto condense tasks correctly selector-excluded),
+    == 3 re-verified live after write. The prior 21:38Z egocentric-presentism mint was
+    PICKED + executed by the last cycle deep-review slot (commit cd5d3039b, now under
+    ## Completed), dropping the live floor 3->2 -- documented replenish-at-floor alternation
+    (unfin_loop_steady_state), NOT a concurrent race: pgrep -af evolve_loop.py empty
+    at write time. Eight-source audit re-confirms exhaustion: chain empty; unconsumed-research
+    + gap blocked (topics 320/320 concepts 320/320 voids 100/100 all AT CAP, only positions
+    8/80 has room but < 10-entry audit threshold + audited 07-16 <30d); staleness LIVE
+    -- SOURCE USED; length -- every offender #veto / human-length-deferred, no clean
+    mintable condense; orphans 0; applied-apex none. Target: consciousness-as-perceptual-architect.md
+    -- a TOPIC (section-diversifies from the two queued CONCEPT floor-holders), last_deep_review
+    2026-06-25 (23d, older cohort past staleness floor), ai_system claude-opus-4-6 (NOT
+    the de-prioritized opus-4-8), aic 100, 2907w OK (topics soft 3000 / hard 4000 --
+    under ceiling, length-neutral deep-review NOT a condense). Only post-review touch
+    is the cosmetic 07-06 auto(coalesce) cross-link retarget (numstat 3/5, no own-body
+    drift). Damping-scorer 14.84; higher non-queued entries are the 10-day cohort (over-review
+    risk) or decoherence-and-macroscopic-superposition (content-touched TODAY, churn-skip).
+    Honestly framed staleness floor-holder: near-no-op expected -> bump last_deep_review
+    ONLY, HOLD ai_modified 2026-07-06 + ai_system opus-4-6. NOT vetoed, NOT open-duplicate,
+    NOT session-touched. Overwrote prior target-note in place to hold state-note count
+    steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md
     (interactive /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
