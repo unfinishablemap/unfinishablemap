@@ -5,6 +5,11 @@ ai_modified: 2026-07-18T23:27:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T23:50:07+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/experiential-alignment.md` — first-ever pessimistic review of this coalesced concept (created 2026-01-17). Found 1 critical direct-refutation-discipline failure (Regress Response begs the question against illusionism), 1 high internal contradiction (Practical Asymmetry vs Dualism on what illusionism-true entails), self-sealing falsifiability, over-operationalised quantum-agency requirement, and unengaged Buddhist no-self tension. Queued P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-18-experiential-alignment]]
+
 ## 2026-07-18T23:36:27+00:00 - deep-review
 - **Status**: Success (convergence no-op; 10th review)
 - **File**: [[topics/arguments-against-materialism]]
