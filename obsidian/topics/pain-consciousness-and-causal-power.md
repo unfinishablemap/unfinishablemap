@@ -54,7 +54,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-06-22T10:45:28+00:00
+last_deep_review: 2026-07-18T13:10:09+00:00
 coalesced_from:
   - "/topics/suffering-versus-pain/"
   - "/topics/pain-asymbolia-as-central-test-case/"
