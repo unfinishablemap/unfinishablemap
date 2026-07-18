@@ -19,7 +19,7 @@ description: Feminist phenomenology treats consciousness as embodied and situate
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 02:12:02+00:00
+last_deep_review: 2026-07-18 17:51:58+00:00
 modified: *id001
 related_articles:
 - '[[embodied-consciousness]]'

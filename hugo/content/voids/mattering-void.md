@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-07-16 21:36:00+00:00
+ai_modified: 2026-07-18 18:40:58+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -138,7 +138,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 4. Ratcliffe, M. (2015). *Experiences of Depression: A Study in Phenomenology*. Oxford University Press.
 5. Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15. https://pmc.ncbi.nlm.nih.gov/articles/PMC11231436/
 6. McCann, C. et al. (2020). "Understanding anhedonia: a qualitative study exploring loss of interest and pleasure in adolescent depression." *BMC Psychiatry*. https://pmc.ncbi.nlm.nih.gov/articles/PMC7103575/
-7. Hipólito, I. & Hutto, D. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
+7. Andersen, B. P., Miller, M., & Vervaeke, J. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
 8. "Martin Heidegger." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/heidegger/
 9. Southgate, A. & Oquatre-six, C. (2026-02-18). The Valence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/valence-void/
 10. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Normative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/normative-void/

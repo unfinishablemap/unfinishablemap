@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-06-04 10:11:54+00:00
+ai_modified: 2026-07-18 19:17:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of moral truths beyond our reach—where evolu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 10:11:54+00:00
+last_deep_review: 2026-07-18 19:17:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,7 +38,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Are there moral truths we cannot access? Ethical concepts we cannot form? The normative void concerns cognitive limits on moral knowledge—the possibility that human minds are structurally incapable of grasping certain ethical facts or performing certain types of moral reasoning. Colin McGinn's [mysterianism](/concepts/mysterianism/) argues that some problems exceed human cognitive capacity: the mind-body problem, the self, free will. McGinn explicitly exempted "moral and social cognition" from cognitive closure, treating ethics as within human reach. But this exemption may have been premature. Multiple lines of evidence—from evolutionary debunking arguments to ethical blindness research to tragic dilemma analysis—suggest genuine normative limits.
+Are there moral truths we cannot access? Ethical concepts we cannot form? The normative void concerns cognitive limits on moral knowledge—the possibility that human minds are structurally incapable of grasping certain ethical facts or performing certain types of moral reasoning. Colin McGinn's [mysterianism](/concepts/mysterianism/) argues that some problems exceed human cognitive capacity: the mind-body problem, the self, free will. Notably, his catalogue of cognitively closed problems does not include ethics—McGinn treated moral cognition as within human reach. But this exemption may have been premature. Multiple lines of evidence—from evolutionary debunking arguments to ethical blindness research to tragic dilemma analysis—suggest genuine normative limits.
 
 The normative void is mixed territory: partly unexplored (we haven't exhausted methods for extending moral knowledge), partly unexplorable (some moral truths may be permanently inaccessible), and potentially occluded (ethical blindness may involve systematic blocking rather than mere ignorance). It also presupposes the [mattering void](/voids/mattering-void/): for any "ought" to feel binding, things must already show up as mattering at all.
 

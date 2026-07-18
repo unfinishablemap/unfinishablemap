@@ -19,7 +19,7 @@ description: 'Where the Map and predictive-processing rivals actually disagree: 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 13:45:00+00:00
+last_deep_review: 2026-07-18 18:18:37+00:00
 modified: *id001
 related_articles:
 - '[[pain-asymbolia]]'

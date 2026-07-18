@@ -24,7 +24,7 @@ description: Five converging arguments against functionalism—from absent quali
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 00:03:46+00:00
+last_deep_review: 2026-07-18 19:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

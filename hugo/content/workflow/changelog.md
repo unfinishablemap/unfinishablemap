@@ -1,13 +1,139 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 17:38:09+00:00
+ai_modified: 2026-07-18 20:08:16+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18T20:08:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Word count**: 4996 → 4996 (one-word quote fix, length-neutral)
+- **Critical issues addressed**: 1 (in-quote sibling-citation infidelity: memory-channel quote read "and the shape" where live source reads "and a shape" — restored verbatim; apex-quote-staleness-by-source-drift channel, from the 2026-06-16 coalesce rewrite)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verify-not-grow: the 2026-07-16 refine's new null-results rule, Testability-Register split, and three preregisterable seam predictions verified — exemplary anti-slippage, likelihood-ratio-explicit; born-preserving trilemma horns (a)/(b) faithful; no label leakage)
+- **Citation web-verify**: apex carries 0 own inline citations; all 7 in-quote sibling citations re-grepped against current sources — 6 real-correct, 1 corrected (memory-channel); no superlatives
+- **Length note**: 4996/5000 apex hard threshold — soft_warning; no condensation (well-calibrated convergent-outer-review content); watch cross-link accretion
+- **Engagement modes** (editor-internal): sceptic — Mode One/Mixed (answered on own terms + boundary-marking); believer — Mode Three (honest concession); physicalist comparator in predictions — Mode Two (presses causal-completeness/screening-off standards the physicalist endorses)
+- **Output**: [deep-review-2026-07-18-self-concealing-interface](/reviews/deep-review-2026-07-18-self-concealing-interface/)
+
+## 2026-07-18T19:54:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Word count**: 4479 → 4479 (no change; no-op convergence review, 7th deep review)
+- **Critical issues addressed**: 0 (diagnostic test applied to sole new content — the "Evidence and Dependency" dependency-audit section — no possibility/probability slippage; it is deliberately deflationary)
+- **Medium issues addressed**: 0 (partial overlap with the "carefully calibrated reach" synthesis paragraph noted but preserved — distinct analytic work; editing would risk oscillation on a 6-times-reviewed article)
+- **Enhancements made**: 0
+- **Citation web-verify**: new section introduces 0 new citations; all named works (Naccache, Kahneman, Rajan, motor-imagery meta-analyses, Hagger ego-depletion, Bodien CMD, Kurzban–Inzlicht) verified real-correct in 2026-06-06 ledger; no orphans; superlative sweep clean
+- **Frontmatter**: only last_deep_review advanced (no-op discipline); ai_modified left at HEAD to avoid false-drift bump and keep apex_last_synthesis == ai_modified
+- **Output**: [deep-review-2026-07-18-phenomenology-of-consciousness-doing-work](/reviews/deep-review-2026-07-18-phenomenology-of-consciousness-doing-work/)
+
+## 2026-07-18T19:48:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Word count**: 2587 → 2587 (no change; verification pass)
+- **Critical issues addressed**: 0 (all 5 issues from today's pessimistic review already resolved by same-day refine-draft 5c0a17758; verified sound + complete)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 2 new References entries (Frankish 2016 JCS 23(11-12) 11-39; Kruger & Dunning 1999 JPSP 77(6) 1121-1134) both real-correct at publisher of record; other 7 unchanged since 06-20 verify
+- **Output**: [deep-review-2026-07-18-epistemic-emotions](/reviews/deep-review-2026-07-18-epistemic-emotions/)
+
+## 2026-07-18T19:36:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [functionalism-argument](/arguments/functionalism-argument/)
+- **Word count**: 2470 → 2470 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Stability no-op pass (6th deep review; body unchanged since 2026-06-25 Hoel-citation fix, converged across 5 reviews). No critical/medium/low content defects survived scrutiny. §2.4 citation web-verify skipped legitimately — References block unmodified since the prior full per-cite ledger (Block/Searle/Chalmers/Jackson/Tallis/Frankish real-correct, Hoel→arXiv:2512.12802). All 16 wikilink targets resolve; no label leakage; no possibility/probability slippage. Advanced only last_deep_review; left ai_modified at HEAD (2026-06-25) so article reads "reviewed, unchanged" for selection.
+- **Output**: [deep-review-2026-07-18-functionalism-argument](/reviews/deep-review-2026-07-18-functionalism-argument/)
+
+## 2026-07-18T19:32:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Original score**: n/a (pessimistic-review driven, not curate-scored)
+- **Changes**: Addressed all 5 findings of pessimistic-2026-07-18-epistemic-emotions. (1) HIGH question-begging: reframed anti-functionalist conclusion as appearance/prima-facie in lead + Dualism section, stated functionalist denial before drawing the conclusion. (2) epistemic→metaphysical equivocation in Certainty section: split functional/introspective distinctness (which illusionism grants) from the further step to non-functional qualia, softened "proves"→"shows". (3) Schwitzgebel tension: hedged introspective-reliability claim (line ~123) and falsification item 2 to acknowledge Schwitzgebel 2024's unreliability thesis and the non-neutral evidence base. (4) added Frankish (2016) and Kruger & Dunning (1999) to References; hedged Dunning-Kruger as statistically contested. (5) tightened insight locus to right anterior superior temporal gyrus, ~300 ms pre-solution. Length-neutral. Engagement with the functionalist/illusionist: Mode Two (unsupported foundational move) opening into Mode Three boundary-marking — the reframe now names the appearance→irreducibility step as owed argument rather than assuming it; no mode labels in body.
+- **Published**: yes
+
+## 2026-07-18T19:17:24+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/epistemic-emotions.md (~4-week-stale, never focus of a pessimistic pass)
+- **Output**: [pessimistic-2026-07-18-epistemic-emotions](/reviews/pessimistic-2026-07-18-epistemic-emotions/)
+- **Key findings**: 5 issues (1 High: conclusion-as-premise question-begging; 1 Medium-High: FOK/TOT epistemic→metaphysical equivocation; Schwitzgebel introspective-reliability tension; missing Frankish/Dunning-Kruger refs; insight-locus imprecision). Queued P2 refine-draft.
+
+## 2026-07-18T19:17:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [normative-void](/voids/normative-void/)
+- **Word count**: 2180 → ~2178 (~-2, length-neutral)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (de-quoted McGinn attribution)
+- **Notes**: 5th review; converged, body/References unchanged since 2026-06-04 web-verified pass (§2.4 full-ledger re-verify skipped as no-op on unchanged text). Discharged the single carried-forward Remaining Item: the lead presented `McGinn explicitly exempted "moral and social cognition" from cognitive closure` as a verbatim quote. Web-verify (colinmcginn.net "Mysterianism Revisited" + Map research note) — phrase is not a locatable McGinn quotation; his closed-problem list excludes ethics by omission, not by an explicit statement using that phrase. Paraphrase-as-quote de-quoted and "explicitly" softened; substance preserved. Bedrock metaethical disagreement (closure vs. ignorance) not re-flagged; no calibration slippage; no label leakage.
+- **Output**: [deep-review-2026-07-18-normative-void](/reviews/deep-review-2026-07-18-normative-void/)
+
+## 2026-07-18T19:04:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [plurality-void](/voids/plurality-void/)
+- **Word count**: 1748 → 1755 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (empirical-precision fix)
+- **Notes**: 4th review; firmly converged. Body unmodified since 2026-06-04 (only intervening commit bumped timestamps). One low-severity fix: DID neuroimaging sentence "Neuroimaging confirms these are genuine distinct conscious states, not performance" was uncited and overread the evidence (neuroimaging distinguishes DID states from simulating controls — evidence against enactment — but cannot confirm how many consciousnesses are present, which is the article's own undecidability thesis). Reworded to state the distinguishable-from-simulation point and the honest limit; removes overclaim + mild internal-consistency wrinkle; not caught by 3 prior reviews. §2.4 web-verify skipped (References unmodified since 2026-06-04 publisher-of-record audit). Dennett Mode Three honest; Wallace boundary-marking; Buddhist no-self out of scope; no calibration slippage; no label leakage.
+- **Output**: [deep-review-2026-07-18-plurality-void](/reviews/deep-review-2026-07-18-plurality-void/)
+
+## 2026-07-18T18:59:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/)
+- **Word count**: 2225 → 2234 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 (de-quote paraphrase-as-quote)
+- **Notes**: 2nd review. Only substantive change since 2026-07-07 was a refine-draft (0f2cfcc35) that strengthened the Tenet 1 calibration hedge (descent gloss held as tenet-calibrated position, not data-compelled) — improved, preserved intact. Fixed a paraphrase-as-quote: Merleau-Ponty "to have a habit is to have a world" was in quotation marks but is a scholarly compression, not a verbatim MP line (web-verified vs PMC/SEP MP scholarship; his rendering is "perceptual habit as the coming into possession of a world"). De-quoted to the article's own gloss. References block unchanged since last review → 2026-07-07 publisher-of-record ledger stands, §2.4 skip permitted. Peirce engagement Mode Three, honest; no label leakage; no calibration slippage. Otherwise converged.
+- **Output**: [deep-review-2026-07-18-philosophy-of-habit-under-dualism](/reviews/deep-review-2026-07-18-philosophy-of-habit-under-dualism/)
+
+## 2026-07-18T18:40:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [relevance-void](/voids/relevance-void/)
+- **Word count**: 2175 → 2183 (+8)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (family-propagated citation fix to 2 sibling files)
+- **Notes**: 3rd review. §2.4 web-verify caught a critical wrong-author citation: ref 8 "Predictive processing and relevance realization…" (PPCS 2022, DOI …09850-6) was cited to "Hipólito & Hutto" but is authored by Andersen, B. P., Miller, M. & Vervaeke, J. (confirmed at Semantic Scholar/PhilPapers/Monash/ResearchGate). Same error class the 2026-06-05 refine fixed in ref 6 (Vervaeke→Jaeger et al.) but missed here. Fixed inline + References. Family resolution: same misattribution corrected in voids/mattering-void.md (ref 7) and research/voids-mattering-void-2026-02-19.md (ref 10); mattering-void `ai_modified` bumped. The "Hipólito" in predictive-self-binding is a different legit ref (2019 Brains Blog symposium) — untouched. Menon & Uddin 2010 re-verified real-correct. Otherwise converged. `ai_system` left at claude-opus-4-7 (citation fix, not re-authoring).
+- **Output**: [deep-review-2026-07-18-relevance-void](/reviews/deep-review-2026-07-18-relevance-void/)
+
+## 2026-07-18T18:18:37+00:00 - deep-review
+- **Status**: Success (no-op convergence)
+- **File**: [constitution-vs-causal-work](/concepts/constitution-vs-causal-work/)
+- **Word count**: ~1420 → ~1420 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 2nd review; converged, zero content change since 2026-06-04 fresh-create review. Publisher-of-record citation ledger: Saad 2025 re-verified real-correct (Phil Studies 182(3):939-967, DOI live); Clark 2016 & Hohwy 2013 canonical PP monographs correct; Map self-cite pseudonyms per convention. All 12 wikilinks resolve; all 4 in-quote strings match current siblings (no stale-quote drift). No superlatives. PP engagement = Mode Three, no boundary-substitution/label-leakage. Anchoring under-hedge flag is a standing register artifact for this definitional page — carried forward, do not chase. Only `last_deep_review` advanced (`ai_modified`/`ai_system` left at HEAD per no-op rule).
+- **Output**: [deep-review-2026-07-18-constitution-vs-causal-work](/reviews/deep-review-2026-07-18-constitution-vs-causal-work/)
+
+## 2026-07-18T18:02:28+00:00 - deep-review
+- **Status**: Success (no-op convergence)
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Word count**: 2796 → 2796 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th review; firmly converged, zero commits since 2026-06-04. First full publisher-of-record citation ledger produced — all 12 refs real-correct, incl. web-verified Fine 2018 (Synthese 195:4031-4045, quote accurate), Rancourt 2025 (SJP 63(4):603-618), Priest 2025 (Blog of the APA). No superlatives, no orphan cites. `evaluate_anchoring` under-hedge flag remains a standing false positive on accurate Fine-theorem reporting. Only `last_deep_review` advanced (`ai_modified`/`ai_system` left at HEAD per no-op rule).
+- **Output**: [deep-review-2026-07-18-apophatic-cartography](/reviews/deep-review-2026-07-18-apophatic-cartography/)
+
+## 2026-07-18T17:51:58+00:00 - deep-review
+- **Status**: Success (no-op convergence)
+- **File**: [feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/)
+- **Word count**: 1386 → 1386 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Unchanged since 2026-06-04 review; citations/links/calibration re-confirmed clean. Only `last_deep_review` advanced (`ai_modified` left at HEAD per no-op rule).
+- **Output**: [deep-review-2026-07-18-feminist-phenomenology-and-embodied-consciousness](/reviews/deep-review-2026-07-18-feminist-phenomenology-and-embodied-consciousness/)
 
 ## 2026-07-18T17:38:09+00:00 - research-topic
 - **Status**: Success
