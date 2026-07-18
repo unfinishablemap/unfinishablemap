@@ -5,6 +5,15 @@ ai_modified: 2026-07-18T11:34:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T12:12:21+00:00 - condense
+- **Status**: Partial condensation + reviewed-leave-long for residual
+- **File**: [[voids/transit-void]]
+- **Before**: 3999 words (status: critical-adjacent, hard_warning)
+- **After**: 3771 words (status: hard_warning)
+- **Reduction**: 5.7% (228 words)
+- **Technique**: Prose tightening and redundancy removal only — no cited content or unique arguments cut. Compressed Husserl/temporal-smoothing, contemplative-approaches, probe-caught mind-wandering, What-AI-Might-Reveal, ERP-timing, generator interface, and the tenet-pressure-point subsection (which duplicated the Bidirectional Interaction tenet paragraph); removed a duplicated "turning to look at your own turning" image; trimmed Further Reading 12→8 (kept the most load-bearing cross-links); replaced a "load-bearing" cliché intensifier. All calibration hedges ("framework-internal coherence, not interface evidence", "leading reading, not settled", "the dualist gloss is the Map's added step, not his"), all 29 citations, the front-loaded opening summary, and the full "Relation to Site Perspective" (all five tenets) preserved intact.
+- **Reason residual remains over hard threshold**: This is a coalesced synthesis of six former voids (transition/initiation/distraction/thought-stream/spontaneous-thought/thoughts-that-slip-away), engaging all five tenets and anchored by 29 empirical/philosophical citations. The References section alone is a fixed ~578 words; the prose is dense with distinct cited contributions per section. Reaching the 2000 target — or even the 3000 hard threshold — would require deleting cited empirical anchors (Libet/Schurger, the MMN/P3a/P3b ERP mapping, Christoff/DMN, Metzinger, contemplative-EEG) that make the void credible rather than speculative. Meets all four "When to Leave Long" criteria (topic complexity, tenet centrality, unique coverage, high quality). Per skill guidance ("NEVER sacrifice unique arguments for length"), retained above threshold rather than gutted.
+
 ## 2026-07-18T11:52:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
