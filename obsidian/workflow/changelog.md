@@ -5,6 +5,12 @@ ai_modified: 2026-07-18T19:17:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T19:17:24+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/epistemic-emotions.md (~4-week-stale, never focus of a pessimistic pass)
+- **Output**: [[reviews/pessimistic-2026-07-18-epistemic-emotions]]
+- **Key findings**: 5 issues (1 High: conclusion-as-premise question-begging; 1 Medium-High: FOK/TOT epistemic→metaphysical equivocation; Schwitzgebel introspective-reliability tension; missing Frankish/Dunning-Kruger refs; insight-locus imprecision). Queued P2 refine-draft.
+
 ## 2026-07-18T19:17:24+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/normative-void]]
