@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T16:53:55.212111+00:00'
-session_count: 16406
-cycle_position: 11393
+last_updated: '2026-07-18T17:09:12.491872+00:00'
+session_count: 16407
+cycle_position: 11394
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T15:00:46.932689+00:00'
@@ -25,7 +25,7 @@ last_runs:
   refine-draft: '2026-07-18T15:05:33.385344+00:00'
   research-topic: '2026-07-18T11:36:41.976748+00:00'
   replenish-queue: '2026-07-18T16:51:30.679155+00:00'
-  condense: '2026-07-18T12:14:07.840167+00:00'
+  condense: '2026-07-18T17:09:12.491872+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-18T08:03:27.934573+00:00'
   literature-drift-review: '2026-07-14T06:25:17.065196+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-07-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-18'
+  outcome: success
+- task: condense
+  type: condense
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1313,34 +1313,33 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T16:49:00+00:00'
-  last_replenishment_prev: '2026-07-18T16:27:00+00:00'
-  last_floor_restore_target: 'mint P2 condense topics/argument-from-reason.md (interactive
-    /replenish-queue 2026-07-18T16:49, conservative exact-floor +1, ONE mint). AUTHORITATIVE
+  last_replenishment: '2026-07-18T17:12:00+00:00'
+  last_replenishment_prev: '2026-07-18T16:49:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review voids/recognition-void.md (interactive
+    /replenish-queue 2026-07-18T17:12, conservative exact-floor +1, ONE mint). AUTHORITATIVE
     count_p0_p2_tasks == 2 verified LIVE before write (open P2s: voids/apophatic-cartography
-    + concepts/constitution-vs-causal-work, prior floor-holders not yet drained),
-    == 3 re-verified live after; top-placed in Active. Source = length_analysis. FULL
-    generative-source audit this cycle confirmed genuine exhaustion, so a real hard-warning
-    length offender is the honest floor-restore rather than a speculative staleness/positions
-    mint: (chain) ZERO research/expand/cross-review completions in recent_tasks; (unconsumed
-    research + gap) topics/concepts/voids ALL AT CAP (320/320, 320/320, 100/100) so
-    no expand-topic admissible; (staleness/owed-web-verify) the >25d citation-dense
-    cohort checked — open-individualism, egocentric-presentism, training-contamination-confound,
-    feminist-phenomenology, co-optimization-reply, gaming-problem — are ALREADY publisher-of-record
-    web-verified or over-reviewed, and every content article now carries last_deep_review
-    (no fresh-create tail); (orphans) orphaned_files 0; (positions) 8/80, and the
-    only live dependency signal (the 2026-07-16 access-consciousness → workspace-signatures
-    narrowing) is ALREADY synced into P-AC4 (no-op). Target argument-from-reason 4684w
-    = 156% of the 3000 target, ~684w over the 4000 topics hard threshold; NOT in the
-    veto-churn set (unlike born-rule / epistemology-of-convergence), last content-add
-    2026-07-11 (7d ago, not same-session churn). CAUTION (refine-then-condense-same-session-churn
-    + condense-regresses-calibration-qualifiers): condensed 2026-06-05 then re-grew
-    via the 2026-07-11 deep-review that added the pessimistic-Finding-3 exclusion-self-application
-    content — PRESERVE that Finding-3 material, the Anscombe-reply boundary-substitution
-    repair, and all load-bearing calibration hedges; trim genuine redundancy / defer
-    subtopics to linked articles only. NO concurrent evolve_loop.py (pgrep clean).
-    Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock. Overwrote
-    the prior target-note in place to hold state-note count at 3 (evolution-state-floor-restore-note-bloat).'
+    + concepts/constitution-vs-causal-work; the argument-from-reason condense minted
+    at 16:49 was PICKED + completed this cycle and now sits below the Completed header,
+    so the live floor fell back to 2 — documented replenish-at-floor cadence), == 3
+    re-verified live after; top-placed in Active to defeat LIFO. Source = staleness
+    (genuine changed-since-review drift). FULL generative-source audit this cycle re-confirmed
+    genuine exhaustion: (chain) ZERO research/expand/cross-review completions in recent_tasks;
+    (unconsumed research + gap) topics/concepts/voids ALL AT CAP (320/320, 320/320,
+    100/100 live-counted) so no expand-topic admissible; (orphans) orphaned_files 0;
+    (length) every clean hard/critical offender human-deferred or accept-as-survey (qm-interpretations
+    DIVERTED-TO-HUMAN, ethics-of-possible-ai-consciousness NEEDS-HUMAN saturated, memory-channel
+    ACCEPT-AS-SURVEY x2, composition/meaning-of-life/phenomenal-output veto, born-rule/epistemology-of-convergence/clinical-dissociation/laws-and-dispositions
+    human-deferred, argument-from-reason just condensed today) — NO clean length offender.
+    So a genuine-drift verification deep-review is the honest floor-restore (alternate
+    to the length source). WHY GENUINE DRIFT not cosmetic cross-touch: git-diffed the
+    delta — last_deep_review 2026-06-04 but body substantively edited 2026-07-16 by
+    commit bbe99f44b, a CONVERGENT (ChatGPT+Claude) evidential-status demotion (convergence
+    "strengthens / stronger evidence" -> "bears on ... coherence of the Map self-image,
+    not independent confirmation; common-cause null"), UNVERIFIED because a refine bumps
+    ai_modified not last_deep_review. No open duplicate; 2475w soft_warning (length-safe).
+    NO concurrent evolve_loop.py assumed (interactive). Replenish-at-floor alternation
+    (unfin_loop_steady_state), not a deadlock. Overwrote the prior target-note in place
+    to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_superseded_2026_07_18_1611: 'mint P2 deep-review voids/apophatic-cartography.md
     (interactive /replenish-queue 2026-07-18T16:11, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
@@ -1438,7 +1437,7 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 745
+  last_replenishment_run: 746
   last_replenishment_mode: conservative
   run_740_pickable_p0_p2: 4
   run_740_note: 'run no.740 (2026-07-07T04:48Z, interactive /replenish-queue): FLOOR-RESTORING
