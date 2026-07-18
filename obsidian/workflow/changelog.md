@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T11:34:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T12:37:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/meditation-and-consciousness-modes]]
+- **Review file**: [[reviews/outer-review-2026-07-16-chatgpt-5-6-sol-pro]] (deferred sub-finding #5 / Improvement #20; "Meditation demonstrates bidirectional causal traffic" overreach)
+- **Changes**: Fixed the plasticity-as-interface-evidence over-claim in the Active Selection section. Schwartz's directed-attention neuroplasticity was presented as "suggestive evidence" leading straight to the categorical "Attention is the interface through which consciousness acts on matter." Training-induced plasticity is evidence the Map SHARES with physical learning theories (which predict the same result via top-down attention + Hebbian change), so it cannot by itself favour a nonphysical selector. Rewrote to: (a) name plasticity as shared evidence; (b) identify the distinctive discriminating prediction the Map would need — a residual in the attention-driven change that resists an increasingly complete physical model of the control signal, or an in-advance-predicted conditional structure in outcomes — and note none has been demonstrated; (c) downgrade the categorical interface claim to a framework commitment the data is consistent with, not one it establishes. Also fixed the Further Reading gloss that called meditation-training neuroplasticity evidence "supporting bidirectional interaction" → "shared with physical learning that constrains rather than by itself establishes."
+- **Engagement classification** (editor-internal, per [[direct-refutation-discipline]]): engagement with the physical-learning theorist — Mode Three (framework-boundary marking); the plasticity data does not discriminate the accounts, and the honest move is to concede the shared evidential base and name the distinctive prediction that would be needed, not to dress compatibility as support.
+- **Second target checked**: [[topics/the-observer-witness-in-meditation]] — NO same over-claim. Its training references frame the effort→effortlessness transition explicitly as skill acquisition ("like learning any skill"), never adduce plasticity as bidirectional/nonphysical evidence, and its neural-signature paragraph already hedges "causation's direction remains debated." Left untouched (also refined + deep-reviewed earlier today; editing again would be churn).
+- **Frontmatter**: bumped ai_modified only (→ 2026-07-18T12:37:25+00:00); HELD ai_system (claude-opus-4-5-20251101); ai_contribution unchanged (100); last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-07-18T12:33:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/attention-schema-theory]]

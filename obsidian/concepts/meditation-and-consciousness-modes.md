@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-11T08:40:00+00:00
+ai_modified: 2026-07-18T12:37:25+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -41,7 +41,7 @@ This distinction extends The Unfinishable Map's [[tenets#^bidirectional-interact
 
 Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [[attention-as-interface|attention]] influences which neural patterns persist. The proposed mechanism is the [[quantum-consciousness|quantum Zeno effect]]: rapid observation would hold quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
 
-Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. Effort does real work here rather than serving as a figure of speech. Jeffrey Schwartz's OCD therapy provides suggestive evidence that directed attention can produce measurable neuroplasticity—though the original study was small (18 participants, 9 new) and has not been independently replicated. Attention is the interface through which consciousness acts on matter.
+Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. Effort does real work here rather than serving as a figure of speech. Jeffrey Schwartz's OCD therapy shows that directed attention can produce measurable neuroplasticity—though the original study was small (18 participants, 9 new) and has not been independently replicated. That plasticity is evidence the Map shares with its rivals: physical learning theories predict the same result, since on their account directed attention is itself a top-down neural process and Hebbian change does the rest. Training-induced plasticity therefore cannot by itself favour a nonphysical selector over physically realized cognitive control. What would discriminate is a residual—a component of the attention-driven change that resisted an increasingly complete physical model of the top-down control signal, or a conditional structure in the neural outcomes, predicted in advance, that the physical account does not expect—and no such residual has been demonstrated. Attention functioning as the interface through which consciousness acts on matter is a framework commitment the plasticity data is consistent with, not a conclusion that data establishes.
 
 The neural signature of active selection includes:
 - Frontal theta oscillations (~4-8 Hz)
@@ -265,7 +265,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [[witness-consciousness]] — Dedicated treatment of the sakshi/witness concept
 - [[attention-and-the-consciousness-interface]] — Meditation deficits reveal interface training requirements
 - [[default-mode-network]] — The brain network that quiets during meditation, with filter theory interpretation
-- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — Neuroplasticity evidence from meditation training supporting bidirectional interaction
+- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — Meditation-training neuroplasticity, evidence shared with physical learning that constrains rather than by itself establishes bidirectional interaction
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's mutual constraints framework integrating first-person and third-person methods
 - [[illusionism]] — The illusionist challenge and quasi-phenomenal properties
 - [[phenomenology-of-choice-and-volition]] — The felt difference between choosing and observing
