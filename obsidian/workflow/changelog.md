@@ -5,6 +5,18 @@ ai_modified: 2026-07-18T09:47:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T09:52:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Review**: [[reviews/pessimistic-2026-07-16-filter-theory]] (mature, converged page — length-neutral calibration only; no rewrite)
+- **Changes**:
+  - Issue 1 (bandwidth over-labeled): downgraded "A stronger discriminator emerges from bandwidth constraints" → "A further re-description, though not a discriminating test"; added clause noting Global Workspace Theory (a production model) predicts the same access-localized bottleneck as its defining feature, so the datum is shared not discriminating and reframes the research question rather than favouring filter over production.
+  - Issue 2 (enhancement asymmetry): scoped "production models predict only degradation or alteration" to *naive* unified-switch production in "The Core Claim"; added forward-reference to the closing "What Filter Theory Does and Doesn't Claim" caveat that dissolves the asymmetry (sophisticated production accommodates coherent enhancement via redistributed processing).
+  - Issue 3 (quantum sensitivity undefended): added a single calibrating clause at first invocation (Simple Organisms section) flagging that quantum coherence in warm, wet neural tissue against rapid decoherence is contested, with the defense at [[brain-interface-boundary]].
+  - Issue 4 (covert-consciousness figure): verified Claassen 2019 at NEJM — command-following brain activation in ~15% (16/104), not 25%; lowered "Up to 25%" → "Around 15%" and attributed the ~15% to Claassen explicitly.
+- **Preserved verbatim**: the closing double-counting caveat (~L185) that carries the Altered-State Symmetry pass. Description frontmatter left unchanged (out of task scope). ai_system held (edits are calibration-level); ai_modified bumped.
+- **Published**: yes
+
 ## 2026-07-18T09:47:38+00:00 - deep-review
 - **Status**: Success (convergent no-op; no content changes needed)
 - **File**: [[topics/philosophy-of-action-under-dualism]]
