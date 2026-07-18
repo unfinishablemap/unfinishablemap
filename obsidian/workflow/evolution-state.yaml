@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T20:05:03.653100+00:00'
-session_count: 16441
-cycle_position: 11410
+last_updated: '2026-07-18T20:11:58.506750+00:00'
+session_count: 16442
+cycle_position: 11411
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T19:30:20.757769+00:00'
   optimistic-review: '2026-07-18T16:04:30.142602+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T19:57:27.802848+00:00'
+  deep-review: '2026-07-18T20:11:58.506750+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T16:53:55.212111+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6604
+  reviews_completed: 6605
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1313,36 +1313,31 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T20:00:00+00:00'
-  last_replenishment_prev: '2026-07-18T19:41:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review apex/self-concealing-interface.md
-    (interactive /replenish-queue 2026-07-18T20:00Z, conservative exact-floor +1,
-    ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks LIVE pre-count == 2 (open
-    P2s: topics/indian-philosophy-of-mind + concepts/control-theoretic-will, the 19:22
-    mint; the 19:41 apex/phenomenology-of-consciousness-doing-work mint was picked
-    + completed by a cycle slot and now sits below the Completed header, so the floor
-    fell back to 2 — documented replenish-at-floor cadence), == 3 re-verified live
-    after write. Full generative-source audit re-confirms exhaustion: (chain) recent_tasks
-    has ZERO research/expand/cross-review completions; (unconsumed research + gap)
-    topics 320/320 concepts 320/320 voids 100/100 all AT CAP so expand + unconsumed-research
-    blocked; (orphans) orphaned_files 0; (length) no clean mintable condense — criticals
-    are research notes (date-suffixed) / apex-articles index / positions registers
-    / epistemology-of-convergence STANDING HUMAN SPLIT / veto-tagged (composition-question-rivals,
-    meaning-of-life, phenomenal-output); (positions) 8/80 audited 2026-07-16 not overdue.
-    So a genuine-drift verification deep-review is the honest floor-restore. Target
-    self-concealing-interface is GENUINE DRIFT not a converged no-op: last_deep_review
-    2026-06-22T22:09 but commit f92041ee5 (2026-07-16 auto refine-draft, +23/−2 lines)
-    landed the CONVERGENT outer-review 2026-07-16 fix (ChatGPT+Claude+Gemini) reclassifying
-    null results as compatibility-not-evidence + adding seam-level predictions — a
-    refine bumps ai_modified not last_deep_review, so the calibration change is deep-review-UNVERIFIED
-    and prior convergence-damping is SUPERSEDED. SECTION-DIVERSIFIES (apex vs the
-    two topic/concept floor-holders). NOT open-queued, NOT vetoed (the veto hit is
-    a different topics article that merely CITES it). WARNING: 4996w apex, only 4w
-    under the 5000 hard ceiling — review MUST be length-NEUTRAL/trimming, no prose
-    added; on a no-op HOLD ai_system + keep apex_last_synthesis==ai_modified, move
-    only last_deep_review. Inserted at top of Active to defeat LIFO. No concurrent
-    evolve_loop.py (pgrep-confirmed none). Overwrote the prior target-note in place
-    to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
+  last_replenishment: '2026-07-18T20:15:00+00:00'
+  last_replenishment_prev: '2026-07-18T20:00:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review apex/post-decoherence-selection-programme.md
+    (interactive /replenish-queue 2026-07-18T20:15Z, conservative exact-floor +1,
+    ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
+    == 2 (open P2s: topics/indian-philosophy-of-mind [19:11] + concepts/control-theoretic-will
+    [19:22]; the 20:00 apex/self-concealing-interface mint was picked + completed
+    by a cycle deep-review slot [commit d3a196d77] and now sits below the Completed
+    header, so the floor fell 3→2 — documented replenish-at-floor cadence), == 3 re-verified
+    live after write. Eight-source audit re-confirms exhaustion: (chain) task_chains
+    empty, recent_tasks ZERO research/expand/cross-review; (unconsumed-research + gap)
+    topics 320/320 concepts 320/320 voids 100/100 all AT CAP; (orphans) orphaned_files
+    0; (length) no clean mintable condense — offenders veto-tagged / human-length-deferred;
+    (positions) 8/80 audited 2026-07-16 not overdue; (applied-apex) none. Target is
+    a GENUINE changed-since-review pick, NOT a converged no-op: last_deep_review 2026-06-22T15:39
+    but ai_modified 2026-07-13T04:36 — the 07-13 refine ("Split the timing-escape claim
+    by mechanism-variant") routed a PESSIMISTIC-REVIEW finding into the timing-escape
+    argument AFTER the review, so that mechanism-variant split is deep-review-UNVERIFIED.
+    SECTION-DIVERSIFIES (apex vs the two topic/concept floor-holders). ai_system claude-opus-4-6,
+    aic 100, 4722w apex (soft_warning, ~280w under the 5000 hard ceiling — keep review
+    LENGTH-NEUTRAL). NOT open-queued, NOT vetoed (the 3 Vetoed-section hits are cross-link
+    mentions inside UNRELATED tasks), NOT session-touched (last touch 07-13). FIFO-placed
+    at BOTTOM of Active to defeat LIFO. No concurrent evolve_loop.py (pgrep-confirmed
+    none). Overwrote the prior target-note in place to hold state-note count steady
+    (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_recognitionvoid_1712: 'mint P2 deep-review voids/recognition-void.md
     (interactive /replenish-queue 2026-07-18T17:12, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE count_p0_p2_tasks == 2 verified LIVE before write (open P2s:
