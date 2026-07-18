@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-17T16:35:09+00:00
+ai_modified: 2026-07-18T13:30:56+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -88,7 +88,7 @@ The double direction of fit in intentions-in-action is particularly telling. Whe
 
 **The functionalist reduction**: Functionalists can define direction of fit structurally: mind-to-world states are those revised in response to perceptual input; world-to-mind states are those that generate action. No phenomenal consciousness needed. This structural account captures the *relational asymmetry* between beliefs and desires. But it faces the same challenge that [[functionalism|functionalism]] faces generally: structure without qualitative character may be structure without genuine normativity. A thermostat revises its state in response to temperature (mind-to-world analogue) and activates heating to change the environment (world-to-mind analogue), yet nothing *ought* to be the case for the thermostat. If phenomenal consciousness is what converts structural asymmetry into genuine normative direction, the functional reduction leaves out what matters most.
 
-**The emotion problem**: Emotions complicate the framework. Fear of a bear involves mind-to-world fit (representing the bear as dangerous) and world-to-mind fit (motivating escape). Admiration involves representing something as excellent (mind-to-world) without clear desire to change anything. Undirected anxiety may lack propositional content entirely. These complex cases suggest that direction of fit is a spectrum or multidimensional phenomenon rather than a strict dichotomy.
+**The emotion problem**: [[emotion-and-dualism|Emotions]] complicate the framework. Fear of a bear involves mind-to-world fit (representing the bear as dangerous) and world-to-mind fit (motivating escape). Admiration involves representing something as excellent (mind-to-world) without clear desire to change anything. Undirected anxiety may lack propositional content entirely. These complex cases suggest that direction of fit is a spectrum or multidimensional phenomenon rather than a strict dichotomy.
 
 ## What Would Challenge This View?
 
@@ -119,6 +119,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [[cognitive-phenomenology]] — The phenomenal character of thought that may ground direction of fit
 - [[subjective-aim]] — Whitehead's process-metaphysics account of directedness toward "satisfaction," the world-to-mind fit of an occasion steering its own becoming
 - [[epiphenomenalism]] — The view that world-to-mind fit challenges
+- [[epistemic-emotions]] — Emotions such as curiosity and doubt whose mixed directedness sharpens the emotion problem
 
 ## References
 

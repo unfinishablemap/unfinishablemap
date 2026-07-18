@@ -5,6 +5,13 @@ ai_modified: 2026-07-18T13:24:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T13:30:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/direction-of-fit]]
+- **Original score**: n/a (link-only pass from optimistic-2026-07-17-directedness-dualism-cluster review)
+- **Changes**: Added [[emotion-and-dualism]] wikilink inline in the "emotion problem" section (wrapped existing "Emotions", length-neutral); added [[epistemic-emotions]] to Further Reading. Both targets grep-verified present (topics/emotion-and-dualism.md, concepts/epistemic-emotions.md), both absent from article before this pass. No prose added to the emotion cases; ai_system held (claude-opus-4-6).
+- **Published**: yes
+
 ## 2026-07-18T13:24:00+00:00 - tune-system
 - **Status**: Success (MINIMAL)
 - **Sessions analyzed**: 1 (current interactive /unfin-cycle loop)
