@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T13:19:50.925458+00:00'
-session_count: 16371
+last_updated: '2026-07-18T13:24:10.161828+00:00'
+session_count: 16372
 cycle_position: 11376
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -12,7 +12,7 @@ last_runs:
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
   deep-review: '2026-07-18T13:12:24.197295+00:00'
-  tune-system: '2026-07-17T00:23:50.450127+00:00'
+  tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T11:49:04.249483+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 519
-  reviews_completed: 6577
+  reviews_completed: 6578
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-18'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: check-tenets
   type: check-tenets
+  date: '2026-07-18'
+  outcome: success
+- task: tune-system
+  type: tune-system
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1311,13 +1311,39 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 92
-  p3_tasks: 12
+  p2_tasks: 93
+  p3_tasks: 11
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T12:51:14+00:00'
-  last_replenishment_prev: '2026-07-18T12:43:49+00:00'
-  last_floor_restore_target: 'promote P3 to P2 the phenomenology / first-person-methods
+  last_replenishment: '2026-07-18T13:27:27+00:00'
+  last_replenishment_prev: '2026-07-18T12:51:14+00:00'
+  last_floor_restore_target: 'promote P3 to P2 concepts/direction-of-fit.md cross-link
+    refine-draft (L59 direction-of-fit -> emotion-and-dualism / epistemic-emotions,
+    directedness cluster; interactive /replenish-queue 2026-07-18T13:27, exact-floor,
+    ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
+    == 2 verified LIVE before the promotion (the two open P2 floor-holder deep-reviews
+    measurement-problem Consistent-Histories verify + hylomorphic-dualism-and-the-interaction-problem);
+    == 3 after (re-verified live via count_p0_p2_tasks on the edited todo). The 12:51
+    phenomenology/first-person-methods cross-link promotion was consumed by a cycle
+    slot, dropping the floor back to 2. Restored by promoting the topmost of the two
+    remaining unblocked 2026-07-17 optimistic-review cross-link refine tasks (L59 direction-of-fit:
+    add emotion-and-dualism + epistemic-emotions wikilinks in the emotion-problem section;
+    link-only, length-neutral, grep-verified absent at generation) rather than minting
+    a no-op deep-review/condense -- these link-only P3s are the ones the loop P0-P2
+    picker never reaches (queue-lifo-starvation). L67 empirical-phenomena-mental-causation
+    Kim-exclusion link remains queued for the next floor drain. The four HUMAN LENGTH
+    DECISION refine-drafts (many-worlds-argument, quantum-biology-and-neural-consciousness,
+    quantum-consciousness, personal-identity) were deliberately NOT promoted -- promoting
+    them lets the loop auto-condense a flagship pending human decision (human-decision-task-mispicked-as-refine).
+    The two research-topic P3s (Bohmian equilibrium, synthetic minimal agents) were
+    NOT promoted -- their expand-topic chains are section-cap-blocked. Other sources
+    non-generative: topics + concepts + voids all AT CAP so expand+research chains
+    blocked; task_chains empty; positions 8/80 < 10 audit threshold + audited 2026-07-16
+    (<30d); orphaned_files 0; no applied-apex gap. NO concurrent evolve_loop.py (pgrep
+    empty). Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.
+    Pruned 4 stale floor-restore notes (1224, 2355, 0345, 0020) to curb state-note
+    bloat.'
+  last_floor_restore_target_superseded_2026_07_18_1251: 'promote P3 to P2 the phenomenology / first-person-methods
     cross-link refine-draft (L59; interactive /replenish-queue 2026-07-18T12:51, exact-floor,
     ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
     == 2 verified LIVE before the promotion (the two open P2 no-op floor-holder deep-reviews
@@ -1357,198 +1383,6 @@ queue_status:
     condense already consumed since 11:58; no applied-apex gap. NO concurrent evolve_loop
     (pgrep empty); tree clean except this session''s todo/state edits; HEAD 90be3d36f.
     Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.'
-  last_floor_restore_target_superseded_2026_07_18_1224: 'promote P3 to P2 concepts/meditation-and-consciousness-modes.md
-    refine-draft (interactive /replenish-queue 2026-07-18T12:24, exact-floor, ZERO
-    mints). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE via tools.evolution.task_selector
-    before the promotion (open P2s the two expected-no-op floor-holder deep-reviews
-    pain-consciousness-and-causal-power quote-fidelity plus measurement-problem Consistent-Histories
-    verify); == 3 after (re-verified live). Restored the floor by promoting the OLDEST
-    genuine actionable P3 rather than minting another no-op deep-review or condense,
-    following the 11:24 run precedent (unfin_loop_steady_state). TARGET is the deferred
-    sub-finding 5 from the 2026-07-16 ChatGPT empirical-precision sweep: identify
-    a distinctive nonphysical prediction the meditation plasticity data would confirm
-    that ordinary physical learning would not, before presenting neuroplasticity as
-    bidirectional interface evidence. Genuine substantive refine, cap-safe, length-safe
-    (3176w concepts, soft_warning, ~324w under the 3500 hard ceiling so a small or
-    length-neutral refine cannot breach). Other candidate early P3s NOT promotable:
-    many-worlds-argument blocked on standing human-length-decision; Bohmian research
-    chain blocked (concepts 320/320 at cap). Other 8 sources non-generative: topics
-    320/320 plus concepts 320/320 plus voids 100/100 all AT CAP so expand and research
-    chains blocked; positions 8/80 below the 10-entry audit threshold and audited
-    2026-07-16 under 30d; length offenders all hard_warning or veto or human-deferred,
-    transit-void condense already consumed by a cycle slot since 11:58; task_chains
-    empty; orphaned_files 0; no applied-apex gap. NO concurrent evolve_loop (pgrep
-    empty); tree clean except pre-session evolution-state bookkeeping; HEAD 84e350479.
-    Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.'
-  last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
-    replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
-    +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
-    LIVE before this single write (the two open P2 deep-reviews topics/the-binding-problem
-    [todo line 132] + topics/parsimony-case-for-interactionist-dualism [todo line
-    139]); == 3 after (post-mint count_p0_p2_tasks re-verified == 3, new task at todo.md
-    line 146 > 139, above the first done-check). Restores MIN_QUEUE floor 2->3 (replenish-at-floor
-    alternation, unfin_loop_steady_state; all content sections AT CAP so loop can
-    only cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent
-    evolve_loop (pgrep -af evolve_loop.py empty, sole hit this session own shell;
-    sole uncommitted diff pre-existing benign cycle_post bookkeeping); HEAD b9225827a.
-    FIFO-placed below the two open P2s (queue-lifo-starvation). YIELD = GENUINE changed-since-review
-    delta, git-verified NOT fabricated, and the session PREFERRED source: a real REFINE-then-CROSS-REVIEW
-    chain. TARGET concepts/combination-problem.md last_deep_review 2026-06-23T00:39:14
-    (~24d). AFTER that review, refine-draft commit 7ccc0c2be (2026-07-16T00:34:32
-    Verify James most-peculiar-puzzle quote) de-quoted a paraphrase-as-quote in the
-    lead: the article had attributed the direct quote most-peculiar-puzzle to William
-    James, and the refine corrected it to the paraphrase James identified this as
-    the central difficulty of the mind-dust theory (git show 7ccc0c2be confirms the
-    diff; last_deep_review still 06-23, so the corrected lead is unreviewed by any
-    deep-review). PRIMARY LENS = verbatim quote-fidelity on the James/panpsychism
-    cluster surface, because a SECOND probable defect is live and independently confirmable:
-    line 54 reads subjects seem shut-in-their-own-skin as James put it, the SAME James
-    phrasing the 2026-07-17 process-philosophy cycle-slot deep-review just corrected
-    to its-own-skin (singular) per the completed task at todo.md line 118; verify
-    line 54 against the primary James text and align to the sourced wording. Also
-    verify line 62 drops-of-experience on the Whitehead line and the pile-consciousness
-    coinage. Verify EACH quoted string at the PRIMARY publisher by literal exact-string
-    match (psychclassics.yorku.ca for James; NOT author+year metadata, NOT unfinishablemap.org
-    / aggregators = circular self-confirmation) -- this article sits in the panpsychism/combination/mind-dust
-    cluster that repeatedly fabricates James quotes (james-quotes-fabricated-in-mind-dust-cluster);
-    de-quote any paraphrase presented as a verbatim quote rather than deleting the
-    point; NEVER delete a real source on a false-negative broad-search miss (citation-verify-false-negative).
-    Secondary: first-ledger the named-thinker citation surface (Goff, Chalmers, Strawson,
-    Coleman, Seager, Nagel) 3-state (real / real-wrong-author-or-venue / fabricated);
-    the Kerskens and Perez 2022 entanglement-witness cite (line 157) drew a published
-    Comment+Reply disputing its interpretation -- keep it as a contestedness flag,
-    not a correction. Chosen as the session REFINE-then-CROSS-REVIEW preferred target
-    (does not top the pure staleness scorer, but the genuine post-review quote delta
-    plus the sibling-propagated line-54 defect justify it independently). older-model
-    cohort claude-opus-4-7, ai_contribution 100, created 2026-01-15, ai_modified 2026-07-16
-    (the James de-quote refine, a refine NOT a deep-review). 2653 body words = soft_warning
-    (concepts soft 2500 / hard 3500 / critical 5000, well under hard) -> deep-review,
-    length-neutral, NOT a condense or human-length-decision candidate. NOT session-touched
-    today (last content change 2026-07-16), NOT open-queued (grep-confirmed no other
-    open File header for this path), NOT vetoed. Standard hygiene: wikilinks resolve
-    LIVE + panpsychism-cluster reciprocate (panpsychism, russellian-monism, grain-mismatch,
-    unity-of-consciousness); tenet routing present kept framework-relative (Tenets
-    1 and 5 -- the combination problem CONSTRAINS panpsychism, does not ESTABLISH
-    dualism; no possibility-to-probability modal slide, condense-regresses-calibration-qualifiers);
-    no banned This-is-not-X-it-is-Y cliche and no over-use of load-bearing; EOF tool-tag
-    scan (eof-toolcall-tag-artifact); HOLD ai_system claude-opus-4-7 (do NOT flip
-    to reviewer model, deep-review-fork-over-attributes-ai-system); no-op after REAL
-    scrutiny bumps last_deep_review ONLY + reverts ai_modified to HEAD / real fix
-    bumps BOTH (deep-review-fork-bumps-ai-modified-on-noop); date -u stamps not future-dated;
-    do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
-    no padding). Pruned the drained agency_vs_passivity floor-restore note (its task
-    phenomenology-of-agency-vs-passivity was reviewed this session at HEAD b9225827a,
-    floor dropped 3->2) to keep exactly 3 keys -- the-binding-problem, parsimony-case,
-    combination-problem (bloat control, zero logic dep).'
-  last_floor_restore_note_2026_07_18_staleness_four_category_ontology_0345: 'Floor-restore
-    replenish 2026-07-18T0345Z (interactive agent /replenish-queue, conservative exact-floor
-    +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
-    LIVE before this single write (the two open P2 deep-reviews topics/the-psychophysical-control-law
-    [todo line 132] + topics/grain-mismatch-as-independent-evidence [todo line 139];
-    the RESOLVED/DONE done-check items and the ~11 open P3s + human-length-decision
-    tasks do NOT count toward the floor of 3); == 3 after (post-mint count_p0_p2_tasks
-    re-verified == 3, new task at todo.md line 146 > 139, above the first done-check
-    at line 153). Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state;
-    all content sections AT CAP so loop can only cycle reviews/condense/positions;
-    NOT empty-queue deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py
-    empty, sole hit this session own shell; sole uncommitted diff pre-existing benign
-    bookkeeping); HEAD a5cdb3ca0. FIFO-placed below the two open P2s (queue-lifo-starvation).
-    YIELD = the session PREFERRED seam (c): VERBATIM quote-fidelity on an article
-    that puts DIRECT sentence-quotes in a named thinker mouth, only ever metadata/attribution-checked,
-    never verbatim-checked (the discriminator per quote-fidelity-defects-survive-metadata-reviews
-    -- a complete citation ledger is orthogonal to whether the quoted sentences match
-    the source). TARGET concepts/four-category-ontology.md quotes E.J. Lowe directly
-    and repeatedly across canonical texts (Personal Agency 2008, The Four-Category
-    Ontology 2006, the 2013 Substance Causation chapter); load-bearing quotes include
-    strictly-speaking-no-event-causation, unmoved-movers-or-initiators-of-new-causal-chains,
-    the-will-as-a-spontaneous-power, a-foundation-for-natural-science, plus the Kistler
-    reconstruction phrases. last_deep_review 2026-07-06T23:16:54 was a METADATA pass
-    only; NO standalone review file (ls reviews empty) and NO outer-review coverage.
-    ai_system claude-opus-4-8, ai_contribution 100, 1881 body words = ok (~1619w under
-    the concepts 3500 hard ceiling -> length-neutral, NOT a condense/human-length-decision
-    candidate). NOT session-touched (last commit 2026-07-07, session 2026-07-18),
-    NOT open-queued, NOT vetoed, NOT in the de-select list, NOT deep-review-over-reviews-converged
-    (the verbatim surface was never scrutinised). PRIMARY LENS = verbatim-check EVERY
-    Lowe-attributed phrase at the PRIMARY publisher/text NOT author+year metadata
-    NOR unfinishablemap.org NOR an aggregator (self-confirmation is circular; aggregator
-    ratification can corrupt a correct quote with a fake page number); confirm each
-    quote is attributed to the RIGHT WORK (verbatim + right author but wrong work
-    is a known failure); de-quote any paraphrase-as-quote; a broad-search miss is
-    not a fabrication so use EXACT-STRING search before concluding anything is wrong;
-    also verify the Feser single-complete-substance phrasing is not mis-imported from
-    the sibling hylomorphic article. Standard hygiene: tenet routing present (Lowe
-    no-gap fact-causation staged as the foil for Tenet 2 Minimal Quantum Interaction,
-    kept framework-relative); preserve calibration hedges; no banned This-is-not-X-it-is-Y
-    cliche / no gratuitous load-bearing; EOF tool-tag scan; HOLD ai_system (do NOT
-    flip to reviewer model); no-op after REAL verbatim scrutiny bumps last_deep_review
-    ONLY + reverts ai_modified to HEAD / a real fix bumps BOTH; date -u stamps not
-    future-dated; do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly
-    satisfied, no padding). Pruned the drained parsimony_case floor-restore note (its
-    task topics/parsimony-case-for-interactionist-dualism is no longer an open P2
-    -- superseded by the current two floor tasks) to keep exactly 3 keys -- combination-problem,
-    panpsychisms-combination-problem, four-category-ontology (bloat control, zero
-    logic dep).'
-  last_floor_restore_note_2026_07_18_chain_panpsychisms_combination_problem_0020: 'Floor-restore
-    replenish 2026-07-18T0020Z (interactive agent /replenish-queue, conservative exact-floor
-    +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
-    LIVE before this single write (the two open P2 deep-reviews topics/parsimony-case-for-interactionist-dualism
-    [todo line 132] + concepts/combination-problem [todo line 139]); == 3 after (post-mint
-    count_p0_p2_tasks re-verified == 3, new task at todo.md line 146 > 139, above
-    the first done-check). Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation,
-    unfin_loop_steady_state; all content sections AT CAP so loop can only cycle reviews/condense/positions;
-    NOT empty-queue deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py
-    empty, sole hit this session own shell; sole uncommitted diff pre-existing benign
-    cycle_post bookkeeping); HEAD 5998f8d28. FIFO-placed below the two open P2s (queue-lifo-starvation).
-    YIELD = session PREFERRED source-type, git-corroborated NOT fabricated: a sibling-propagated
-    verbatim defect in the James mind-dust cluster (james-quotes-fabricated-in-mind-dust-cluster).
-    The 2026-07-17 process-philosophy cycle deep-review (commit 7c8635d90, per completed
-    todo.md line 118) corrected the James Principles-of-Psychology-1890 mind-stuff
-    quote to "shut in its own skin" (singular, referent each feeling). The plural
-    corruption "shut in their own skin" survives un-propagated at line 51 of TARGET
-    topics/panpsychisms-combination-problem.md: conscious states are "shut in their
-    own skin, windowless, ignorant of what the other feelings are and mean." TWO further
-    suspect strings on that line to verify: the tail "ignorant of what the other feelings
-    are and mean" and the quoted "101st feeling" (James wrote of a "hundred-and-first
-    feeling"; numeral form is a probable paraphrase-as-quote). last_deep_review 2026-07-09
-    but that pass (commit 345666442 auto-deep-review cycle) was a metadata NO-OP --
-    ai_modified stayed 2026-06-19 (< review date), body untouched -- so the 27 year-citations
-    + James quote were NEVER publisher-verified there; verbatim accuracy is orthogonal
-    to what a no-op cycle review checks (quote-fidelity-defects-survive-metadata-reviews).
-    PRIMARY LENS = verbatim quote-fidelity: verify EACH quoted string by literal exact-string
-    match at the PRIMARY publisher (psychclassics.yorku.ca, Principles of Psychology
-    1890, The Mind-Stuff Theory; NOT author+year metadata, NOT unfinishablemap.org
-    / aggregators = circular self-confirmation). If confirmed, align own-skin to the
-    sourced singular, verify/trim the ignorant tail, de-quote 101st-feeling if not
-    verbatim; de-quote paraphrase-as-quote rather than deleting the point; never delete
-    a real source on a false-negative broad-search miss (citation-verify-false-negative).
-    VERIFY-JOB not a presumed-broken assertion (replenish-asserted-concrete-defect-often-false):
-    an honest no-op after REAL scrutiny is acceptable and must be reported honestly,
-    NOT converted into a manufactured fix. Secondary: first-ledger the 27-cite named-thinker
-    surface 3-state (real / real-wrong-author-or-venue / fabricated, ai_citation_metadata_unreliable)
-    -- large unverified web-verify surface (owed-web-verify seam). NOT a same-file
-    pileup: the 07-16 individuation floor-restore targeted a DIFFERENT file (consciousness-and-the-metaphysics-of-individuation)
-    and the line-139 task covers the concept page concepts/combination-problem --
-    this covers the distinct topic page. current-cohort claude-opus-4-8, ai_contribution
-    100, created 2026-02-15, ai_modified 2026-06-19; 2779 body words = ok (topics
-    soft 3000 / hard 4000, length-safe) -> deep-review length-neutral, NOT a condense
-    or human-length-decision candidate. NOT session-touched today, NOT open-queued
-    (grep-confirmed every todo hit for this slug is a cross-link list in OTHER tasks
-    or a completed/relocated item, none an open File header for this path), NOT vetoed
-    (the Vetoed-region hit is an archived-strong-emergence-link cross-reference substring).
-    Standard hygiene: wikilinks resolve LIVE + panpsychism/combination-cluster reciprocate
-    (panpsychism, combination-problem, mereology-of-mind, consciousness-and-the-metaphysics-of-composition);
-    tenet routing present kept framework-relative (Tenets 1 and 5 -- the combination
-    problem CONSTRAINS panpsychism, does not ESTABLISH dualism; no possibility-to-probability
-    modal slide, condense-regresses-calibration-qualifiers); no banned This-is-not-X-it-is-Y
-    cliche and no over-use of load-bearing; EOF tool-tag scan (eof-toolcall-tag-artifact);
-    HOLD ai_system claude-opus-4-8 (do NOT flip to reviewer model, deep-review-fork-over-attributes-ai-system);
-    no-op after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to
-    HEAD / real fix bumps BOTH (deep-review-fork-bumps-ai-modified-on-noop); date
-    -u stamps not future-dated (fork-future-dates-frontmatter-timestamps); do NOT
-    flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding).
-    Pruned the drained the_binding_problem floor-restore note (its task reviewed this
-    session) to keep exactly 3 keys -- parsimony-case, combination-problem, panpsychisms-combination-problem
-    (bloat control, zero logic dep).'
   replenishment_source_counts:
     chain: 1
   run_739_pickable_p0_p2: 3
