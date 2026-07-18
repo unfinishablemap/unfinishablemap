@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-18 15:03:42+00:00
+ai_modified: 2026-07-18 15:22:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'Built through human-AI refinement: the fork''s most defensible cur
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 14:04:25+00:00
+last_deep_review: 2026-07-18 15:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Two consequences follow, both deflationary and both required. First, the test is
 
 ## Relation to Site Perspective
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This is the tenet the middle path serves best, and the reason it is the fork's default stance. It makes value causally relevant while adding zero new couplings to the physics—valence rides the single attentional channel the Map already posits, rather than requiring a second valence-to-collapse law the framework cannot specify. Among ways to keep value from being idle, this is the smallest interaction, which is what the tenet asks the Map to prefer.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This is the tenet the middle path serves best, and the reason it is the fork's default stance. It makes value causally relevant while adding zero new couplings to the physics—valence rides the single attentional channel the Map already posits, rather than requiring a second valence-to-collapse law the framework cannot specify. Among the Map's own routes to keeping value from being idle, this is the smallest interaction, which is what the tenet asks the Map to prefer—a strictly intra-fork minimality, since the physicalist rival of §"The Physicalist Rival" keeps value causally relevant with no interaction at all, and the parsimony win claimed here is over the value-sensitive horn's second coupling, not over that rival.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness still acts on the physical world, and valence contributes to that action—but through attention, not as the selection currency. The middle path gives Bidirectional Interaction real downward content while conceding that the *evaluative* dimension's contribution is mediated. Whether mediated contribution is enough to honour the tenet's spirit, or whether it leaves the interaction narrower than the tenet intends, is the open cost the non-epiphenomenality audit records.
 

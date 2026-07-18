@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 13:41:33+00:00
+ai_modified: 2026-07-18 16:06:06+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -14,7 +14,7 @@ description: Kairos names the felt structure of the right moment to act—a not-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 14:05:00+00:00
+last_deep_review: 2026-07-18 16:06:06+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
@@ -34,7 +34,7 @@ topics: []
 
 ## Chronos and Kairos: The Distinction
 
-The chronos/kairos distinction is ancient and well attested. *Chronos* is the measurable continuum—durations, sequences, the time a clock reads off. *Kairos* is the time that is *right for something*: the moment ripe for a decision, a move, a word. The etymology preserved in Greek usage ties kairos to archery and to weaving—the opening in the warp threads through which the shuttle must pass, and the instant at which a drawn arrow may be loosed with enough force to penetrate the target. The image is exact for the phenomenology: a window that is open for a bounded interval and then closes, and within which the act must fall to succeed.
+The chronos/kairos distinction is ancient and well attested. *Chronos* is the measurable continuum—durations, sequences, the time a clock reads off. *Kairos* is the time that is *right for something*: the moment ripe for a decision, a move, a word. The etymology preserved in Greek usage ties kairos to archery and to weaving—the opening in the warp threads through which the shuttle must pass, and the instant at which a drawn arrow may be loosed with enough force to penetrate the target (Sipiora & Baumlin, 2002). The image is exact for the phenomenology: a window that is open for a bounded interval and then closes, and within which the act must fall to succeed.
 
 What makes kairos a *phenomenological* category rather than merely a chronological fact is that the window is *experienced as* open. The skilled agent does not compute a time-to-contact and then issue a motor command at the computed instant; the rightness of the moment is felt, and the feeling and the action are not separable in experience. This is the feature the rest of this page tracks.
 
@@ -50,7 +50,7 @@ A timing window has phenomenal structure that unfolds in three phases. The Map's
 
 ## The Phenomenal Unity of Recognition and Action
 
-The load-bearing feature of the kairos moment is that it *resists decomposition into a decision followed by an execution*. The skilled performer does not first judge "now is the right time" and then separately initiate the act. The recognition of rightness and the action that consummates it are phenomenally unified—two faces of a single event in experience, not two events in sequence.
+The central feature of the kairos moment is that it *resists decomposition into a decision followed by an execution*. The skilled performer does not first judge "now is the right time" and then separately initiate the act. The recognition of rightness and the action that consummates it are phenomenally unified—two faces of a single event in experience, not two events in sequence.
 
 This unity is not a philosopher's stipulation; it has an empirical signature in the way skilled timing *degrades under explicit attention*. The Map's [treatment of the choking phenomenon](/topics/empirical-phenomena-mental-causation/) gathers the relevant findings. Beilock and Carr's explicit-monitoring theory (2001), building on Baumeister (1984), holds that pressure generates self-focus, self-focus triggers step-by-step monitoring of procedures that run better automatically, and the performer "reinvests" explicit control where it does harm. Highly skilled performers choke *more* than moderately skilled ones, because they have more automaticity to disrupt (Beilock & Carr, 2001); skills acquired implicitly are more robust under pressure (Masters, 1992). The disruption is what you would expect if the unified kairos moment is being forcibly split into a separate judgement and a separate execution: pulling the recognition apart from the action is exactly the intervention that breaks the timing.
 

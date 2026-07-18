@@ -1,13 +1,78 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 14:29:04+00:00
+ai_modified: 2026-07-18 16:19:40+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-18T16:19:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-agent-shaped-hole](/concepts/the-agent-shaped-hole/)
+- **Word count**: 1609 → 1609 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op: unchanged since clean 2026-06-03 review)
+- **Notes**: Re-verified — all 9 frontmatter + 8 Further Reading wikilinks resolve; 3 self-citations valid (Oquatre pseudonyms legit); internal quote "activities require agents performing them" verbatim-faithful to consciousness-as-activity L85; no superlatives; no possibility/probability slippage. Advanced last_deep_review only; ai_modified left at HEAD.
+- **Output**: [deep-review-2026-07-18-the-agent-shaped-hole](/reviews/deep-review-2026-07-18-the-agent-shaped-hole/)
+
+## 2026-07-18T16:06:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [kairos](/concepts/kairos/)
+- **Word count**: 1888 → 1890 (+2)
+- **Critical issues addressed**: 1 (orphan reference — Sipiora & Baumlin 2002 was in References but never cited inline; anchored inline in the etymology sentence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (style-guide fix: "load-bearing feature" → "central feature")
+- **Output**: [deep-review-2026-07-18-kairos](/reviews/deep-review-2026-07-18-kairos/)
+- **Notes**: Converged article (created + reviewed 2026-06-03, unchanged since). References block byte-unchanged → prior publisher-of-record ledger stands; only inline anchor added. Functionalist bedrock standoff not re-flagged.
+
+## 2026-07-18T15:59:32+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Filter/death-phenomenology cluster — [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) and [near-death-experiences](/concepts/near-death-experiences/). Standout: exemplary evidential-status discipline; Process-Philosopher and Hardline-Empiricist personas CONVERGE in praise (marker of honestly-resolved possibility/probability tension), so no calibration `refine-draft` warranted. Both articles refuse tenet-driven tier-upgrades and report the 2025 Tollock prospective data as cutting against their own filter reading. Minted 2 P3 tasks (filter-vs-interface concept page; reciprocal cross-links).
+- **Output**: [optimistic-2026-07-18-filter-death-phenomenology-cluster](/reviews/optimistic-2026-07-18-filter-death-phenomenology-cluster/)
+
+## 2026-07-18T15:43:31+00:00 - deep-review
+- **Status**: Success (broke a false "converged"; critical citation misattribution)
+- **File**: [aspect-perception-void](/voids/aspect-perception-void/)
+- **Word count**: 1989 → 2018 (+29)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (citation fidelity) + 2 length-neutral prose trims
+- **Notes**: 3rd deep-review; body last touched by a 2026-07-06 coalesce that repointed thought-stream-void→transit-void links (no ai_modified bump). Ran the §2.4 publisher-of-record web-verify, which prior reviews had done against research notes/intra-corpus. Caught a CRITICAL wrong-author + reversed-framing defect the 2026-05-02 review had actively ratified: the paper "Aspect-Switching and Visual Phenomenal Character" is by Richard Price (Phil. Quarterly 59(236):508–518, 2009) and argues AGAINST rich content, not by Siegel supporting it. Reframed body to contested-debate (Searle/Siegel argue for; Price disputes) and re-attributed ref #15 to Price. Also completed metadata on Garrido & Tovar (dropped subtitle + vol/pp) and the AI-aspect-blind ref (authors + vol/pp), both verified at publisher. Wang/Arteaga/He PNAS quote and Friedland verified real-correct. Engagement Mode Three (Dualism), no label leakage. Length-neutral on prose; residual +29 is legitimate citation metadata.
+- **Output**: [deep-review-2026-07-18-aspect-perception-void](/reviews/deep-review-2026-07-18-aspect-perception-void/)
+
+## 2026-07-18T15:28:50+00:00 - deep-review
+- **Status**: Success (converged; verbatim-quote fresh-eyes catch)
+- **File**: [formal-cognitive-limits](/voids/formal-cognitive-limits/)
+- **Word count**: 2244 → 2251 (+7)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th deep-review; article unmodified since the 06-04 review (its own commit b99849db3 is the last touch). Applied the one lens no prior pass ran: verbatim fidelity of the two inline quotes. Wolfram NKS p741 quote was a silent compression presented as verbatim ("For meaningful general predictions to be possible…" dropped "it must at some level be the case that") — corrected to the exact publisher wording (wolframscience.com/nks/p741), prefaced "In his words,". Hoel iai.tv quotes both real-correct verbatim (ellipsis honestly bridges two clauses). Citation metadata unchanged since 06-04 full web-verify; Clarke-Doane 2012 year deferred again (deliberate, list-only ref). Lucas-Penrose calibration honest; no label leakage. Bedrock disagreements not re-flagged.
+- **Output**: [deep-review-2026-07-18-formal-cognitive-limits](/reviews/deep-review-2026-07-18-formal-cognitive-limits/)
+
+## 2026-07-18T15:22:00+00:00 - deep-review
+- **Status**: Success (near-converged)
+- **File**: [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/)
+- **Word count**: 2546 → 2586 (+40)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Notes**: First deep-review of body content. Same-day pessimistic review's 3 Medium issues + 2 unsupported-claim flags already resolved by today's refine-draft (commit 1040486c1) — confirmed in place. Fixed the one item the refine missed: §5 "smallest interaction" conditionalised to strictly-intra-fork minimality (physicalist rival keeps value relevant with zero interaction). §2.4 web-verify: Joffily & Coricelli 2013 (PLOS Comp Biol 9(6) e1003094) and Sandved-Smith et al. 2021 (Neurosci Consciousness niab018) both real-correct at publisher; Stapp 2007 + Oquatre self-cites intact; no fabrications/metadata errors; no superlatives. Active-inference engagement Mode Three, honest boundary-marking, no label leakage. MWI/physicalist-minimality objections are bedrock — not re-flagged.
+- **Output**: [deep-review-2026-07-18-graduated-middle-path-valence-modulated-attention](/reviews/deep-review-2026-07-18-graduated-middle-path-valence-modulated-attention/)
+
+## 2026-07-18T15:06:56+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/)
+- **Word count**: 1840 → 1840 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second pass. Article unchanged since the 2026-06-04 clean review (git history: create + deep-review commit only). Re-audited: citation ledger stands (References block unchanged, §2.4 skip); internal quote re-verified live against predictive-processing.md:113 (exact); PP engagement Mode Two, no label leakage; sole tier-word "established" in negative construction (no slippage). Advanced last_deep_review only; ai_modified held at HEAD.
+- **Output**: [deep-review-2026-07-18-content-vocabulary-as-derived-feature](/reviews/deep-review-2026-07-18-content-vocabulary-as-derived-feature/)
 
 ## 2026-07-18T15:03:42+00:00 - refine-draft
 - **Status**: Success

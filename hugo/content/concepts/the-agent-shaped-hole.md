@@ -18,7 +18,7 @@ description: 'A recurring diagnostic: frameworks that make the conscious agent l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 12:30:00+00:00
+last_deep_review: 2026-07-18 16:19:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
