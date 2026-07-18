@@ -4,7 +4,7 @@ description: "Placebo effects and the choking phenomenon together form a two-sid
 created: 2026-02-02
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-06-27T03:31:59+00:00
+ai_modified: 2026-07-18T13:42:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,7 +156,7 @@ This is a framework-boundary disagreement rather than an in-framework refutation
 
 ## Agent Causation
 
-The conjunction fits [[agent-causation|agent-causal]] rather than event-causal models. Event causation treats mental causation as one event (a conscious state) causing another (a behaviour), where Kim's exclusion argument applies: if the physical events are sufficient, the mental are excluded.
+The conjunction fits [[agent-causation|agent-causal]] rather than event-causal models. Event causation treats mental causation as one event (a conscious state) causing another (a behaviour), where [[causal-exclusion-argument|Kim's exclusion argument]] applies: if the physical events are sufficient, the mental are excluded.
 
 Agent causation treats causation as a substance exercising powers. The placebo subject is not experiencing events that happen to correlate with neurochemical release — they are *expecting* relief, and that expecting has consequences; the skilled performer is *attending*, with consequences. The phenomenology of [[mental-effort|mental effort]] supports this: both feel like *doing*, not observing. Lowe argued that all causation is fundamentally substance causation; if so, the exclusion argument's event-causal framework does not apply. The phenomena themselves do no work against that argument — they raise the cost of denying mental causation but leave Kim's closure premise untouched; the metaphysical defeater is carried by agent causation plus [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], not by the data.
 

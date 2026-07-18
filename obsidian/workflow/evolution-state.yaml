@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T13:32:31.907963+00:00'
-session_count: 16374
+last_updated: '2026-07-18T13:41:38.767108+00:00'
+session_count: 16375
 cycle_position: 11377
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
   refine-draft: '2026-07-18T13:32:31.907963+00:00'
   research-topic: '2026-07-18T11:36:41.976748+00:00'
-  replenish-queue: '2026-07-18T13:30:19.419015+00:00'
+  replenish-queue: '2026-07-18T13:41:38.767108+00:00'
   condense: '2026-07-18T12:14:07.840167+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-18T08:03:27.934573+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-18'
-  outcome: success
 - task: condense
   type: condense
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1328,20 +1328,20 @@ queue_status:
     pre-designated as "queued for the next floor drain" — a concrete, length-neutral,
     grep-verify-first, single-article refine suggested by optimistic-2026-07-17-empirical-mental-causation
     (wrap "Kim''s exclusion argument" as a wikilink to concepts/causal-exclusion-argument),
-    rather than minting a no-op deep-review/condense; these link-only P3s are the ones
-    the loop P0-P2 picker never reaches (queue-lifo-starvation). The four HUMAN LENGTH
-    DECISION refine-drafts + the two research-topic P3s (Bohmian equilibrium, synthetic
-    minimal agents) were NOT promoted — the former let the loop auto-condense a flagship
-    pending human decision, the latter''s expand-topic chains are section-cap-blocked.
+    rather than minting a no-op deep-review/condense; these link-only P3s are the
+    ones the loop P0-P2 picker never reaches (queue-lifo-starvation). The four HUMAN
+    LENGTH DECISION refine-drafts + the two research-topic P3s (Bohmian equilibrium,
+    synthetic minimal agents) were NOT promoted — the former let the loop auto-condense
+    a flagship pending human decision, the latter''s expand-topic chains are section-cap-blocked.
     Other sources non-generative: topics 320/320 + concepts 320/320 + voids 100/100
-    all AT CAP so expand+research chains blocked; task_chains empty; positions 8/80 <
-    10 audit threshold + audited 2026-07-16 (<30d); orphaned_files 0; length offenders
+    all AT CAP so expand+research chains blocked; task_chains empty; positions 8/80
+    < 10 audit threshold + audited 2026-07-16 (<30d); orphaned_files 0; length offenders
     all review-files / apex-index / positions-domain / veto / human-deferred; no applied-apex
     gap. NO concurrent evolve_loop.py (pgrep empty). Replenish-at-floor alternation
-    (unfin_loop_steady_state), not a deadlock. Pruned the 1243 stale floor-restore note
-    to hold state-note count at ~3.'
-  last_floor_restore_target_superseded_2026_07_18_1327: 'promote P3 to P2 concepts/direction-of-fit.md cross-link
-    refine-draft (L59 direction-of-fit -> emotion-and-dualism / epistemic-emotions,
+    (unfin_loop_steady_state), not a deadlock. Pruned the 1243 stale floor-restore
+    note to hold state-note count at ~3.'
+  last_floor_restore_target_superseded_2026_07_18_1327: 'promote P3 to P2 concepts/direction-of-fit.md
+    cross-link refine-draft (L59 direction-of-fit -> emotion-and-dualism / epistemic-emotions,
     directedness cluster; interactive /replenish-queue 2026-07-18T13:27, exact-floor,
     ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
     == 2 verified LIVE before the promotion (the two open P2 floor-holder deep-reviews

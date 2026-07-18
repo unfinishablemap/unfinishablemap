@@ -5,6 +5,13 @@ ai_modified: 2026-07-18T13:24:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T13:42:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Original score**: n/a (link-only pass from optimistic-2026-07-17-empirical-mental-causation review)
+- **Changes**: Wrapped first "Kim's exclusion argument" mention (Agent Causation section) as [[causal-exclusion-argument|Kim's exclusion argument]]; target grep-verified present (concepts/causal-exclusion-argument.md), absent from article before pass. Word-neutral (wrapped existing phrase). Optional second link to framework-stage-calibration SKIPPED — concept does not exist (grep-verified). Article is 4147w, over 4000 hard ceiling, so no prose added. ai_system held.
+- **Published**: yes
+
 ## 2026-07-18T13:30:56+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/direction-of-fit]]
