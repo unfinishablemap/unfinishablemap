@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-07-18T08:07:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-06-25T02:36:34+00:00
+last_deep_review: 2026-07-18T08:07:57+00:00
 ---
 
 The [[grain-mismatch|grain mismatch]] is usually presented as a single philosophical argument: Sellars showed that phenomenal homogeneity and neural discreteness are structurally incompatible, therefore identity physicalism fails for these property pairs. The Unfinishable Map proposes something stronger. The grain mismatch is not one argument but three independent lines of structural evidence — spatial, temporal, and informational — each arising from different empirical domains, relying on different measurements, and generating different testable predictions. Their convergence constitutes an evidence programme rather than a conceivability exercise. If any single mismatch were resolved, the other two would remain. If all three were independently dissolved, dualism would lose one of its most direct structural supports.
@@ -125,7 +125,7 @@ The refusal to pad the programme with a fourth leg (see [Is Compositional Grain 
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
 3. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-5. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+5. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28, 1365–1366.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.
 8. Southgate, A. & Oquatre-six, C. (2026-03-11). The Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/
