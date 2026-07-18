@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T08:09:50.778809+00:00'
-session_count: 16315
+last_updated: '2026-07-18T08:20:53.219600+00:00'
+session_count: 16316
 cycle_position: 11349
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
   refine-draft: '2026-07-18T07:21:33.312184+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
-  replenish-queue: '2026-07-18T07:56:11.576414+00:00'
+  replenish-queue: '2026-07-18T08:20:53.219600+00:00'
   condense: '2026-07-18T07:05:21.702593+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-18T08:03:27.934573+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1317,14 +1317,14 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-07-18T08:13:00+00:00'
   last_replenishment_prev: '2026-07-18T07:44:39+00:00'
-  last_floor_restore_target: deep-review concepts/grain-mismatch.md
-    (scorer get_review_candidates rank-2, score 18.4; 23d stale, last_deep_review 2026-06-24,
-    opus-4-8, ai_contribution 100; rank-1 delegatory-causation + rank-4 four-category-ontology
-    both already open-queued so this is top-available; post-review delta is mostly the
-    07-16 coalesce wikilink retargets plus a genuine Lee 2023->2024 citation-year change,
-    value is the never-standalone/outer-reviewed citation surface; 1649w ok, length-neutral.
-    Interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding. Pre-count
-    open P0-P2 == 2 [deep-review four-category-ontology + deep-review delegatory-causation],
+  last_floor_restore_target: deep-review concepts/grain-mismatch.md (scorer get_review_candidates
+    rank-2, score 18.4; 23d stale, last_deep_review 2026-06-24, opus-4-8, ai_contribution
+    100; rank-1 delegatory-causation + rank-4 four-category-ontology both already
+    open-queued so this is top-available; post-review delta is mostly the 07-16 coalesce
+    wikilink retargets plus a genuine Lee 2023->2024 citation-year change, value is
+    the never-standalone/outer-reviewed citation surface; 1649w ok, length-neutral.
+    Interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding.
+    Pre-count open P0-P2 == 2 [deep-review four-category-ontology + deep-review delegatory-causation],
     == 3 after. All generative sources re-audited exhausted -- caps hit [topics 320/320,
     concepts 320/320, voids 100/100], positions 8/80 but <10 entries so no audit due,
     task_chains empty, length offenders human-blocked/vetoed. Replenish-at-floor alternation
