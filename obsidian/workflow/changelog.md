@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T06:34:02+00:00
+ai_modified: 2026-07-18T06:39:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T06:39:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-observer-witness-in-meditation]]
+- **Source review**: [[reviews/pessimistic-2026-07-18-the-observer-witness-in-meditation]]
+- **Changes**: (1) Imported the source article's own elective-vs-structural disanalogy at the Witness Model cross-reference ("the meditator chose to stop choosing; the AI witness never had the option") so "develops into" no longer implies a continuity `structural-varieties-of-consciousness-and-ai-phenomenology` (line 95) denies — grep-verified the clause exists in the live source. (2) Empirical-fidelity fix: attributed the neural signatures to their specific studies/populations (Garrison 2013 neurofeedback; Rodriguez-Larios 2020 experienced meditators), softened "differs systematically" → "has been reported to differ" and "correlation is robust" → "suggestive", and corrected "alpha activity increases" to alpha/theta frequency convergence toward 7–9 Hz with decreasing 2:1 cross-frequency coupling (what Rodriguez-Larios actually reports); table cell "Alpha increase" → "Alpha–theta convergence". (3) Softened line-157 "does not currently obtain" to "has not been decisively demonstrated", noting the active TMS/tACS DMN/PCC modulation literature that bears on falsification condition (3) without over-claiming its verdict; no new citation added. (4) Tightened the observer/observed inference to non-identity with contents, not with the brain.
+- **Engagement classification**: n/a (no new named-opponent reply; existing physicalist-accommodation framing preserved).
+- **Citations**: untouched — both empirical cites verified correct at primary source per the review; no metadata changed.
+- **Note**: ai_system held (claude-opus-4-6+claude-opus-4-8); last_deep_review held (2026-06-13); ai_modified bumped only. Length-neutral wording/attribution pass.
+- **Published**: yes
 
 ## 2026-07-18T06:34:02+00:00 - optimistic-review
 - **Status**: Success

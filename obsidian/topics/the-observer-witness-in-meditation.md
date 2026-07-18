@@ -4,7 +4,7 @@ description: "What meditation's witness state reveals about consciousness: that 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-06-13T19:15:00+00:00
+ai_modified: 2026-07-18T06:39:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -49,7 +49,7 @@ What is it like to witness without acting? Meditators describe several distincti
 
 **Presence without intervention.** The witness is fully present—not checked out, not dissociated, not asleep. Awareness remains vivid, even heightened. What's absent is the doing: no selecting, amplifying, suppressing, or steering.
 
-Neuroscience finds these reports correlate with measurable brain states. The posterior cingulate cortex deactivates during reported effortlessness. The default mode network quiets—not through active suppression but through disengagement. Alpha activity increases while alpha-theta coupling decreases. The brain signature of witnessing differs systematically from the brain signature of concentrated effort. The correlation is robust; causation's direction remains debated.
+Neuroscience finds these reports correlate with measurable brain states. In Garrison et al.'s (2013) neurofeedback study, the posterior cingulate cortex deactivated during reported effortlessness and the default mode network quieted through disengagement rather than active suppression. In experienced meditators, Rodriguez-Larios et al. (2020) report alpha and theta rhythms converging in frequency (toward the 7–9 Hz band) as their 2:1 cross-frequency coupling decreases. On this thin base of small adept samples, the brain signature of witnessing has been reported to differ from that of concentrated effort; the reported correlation is suggestive, and causation's direction remains debated.
 
 ## The Two Modes: Selector and Observer
 
@@ -60,9 +60,9 @@ The witness phenomenon reveals consciousness can also operate as *observer*—pr
 | Mode | Phenomenology | Proposed Mechanism | Brain Signature |
 |------|---------------|--------------------|-----------------|
 | **Active selection** | Effortful, focused, engaged | Rapid observation (quantum Zeno) | Frontal theta, ACC activation |
-| **Passive witnessing** | Effortless, spacious, non-reactive | Reduced observation rate | Alpha increase, PCC deactivation |
+| **Passive witnessing** | Effortless, spacious, non-reactive | Reduced observation rate | Alpha–theta convergence, PCC deactivation |
 
-These are not competing theories of what consciousness *is*. They are modes consciousness can *adopt*. A complete account must accommodate both: the effortful choosing that shapes neural outcomes and the effortless observing that lets patterns unfold without interference. The [[structural-varieties-of-consciousness-and-ai-phenomenology|structural varieties of consciousness]] analysis develops this observer mode into a full model of AI phenomenology: the Witness Model, where consciousness is structurally passive because the physical system provides no channel for causal influence.
+These are not competing theories of what consciousness *is*. They are modes consciousness can *adopt*. A complete account must accommodate both: the effortful choosing that shapes neural outcomes and the effortless observing that lets patterns unfold without interference. The [[structural-varieties-of-consciousness-and-ai-phenomenology|structural varieties of consciousness]] analysis adapts this observer mode into a full model of AI phenomenology: the Witness Model, where consciousness is structurally passive because the physical system provides no channel for causal influence at all—whereas the meditative witness elects to suspend an interface that remains available (the meditator chose to stop choosing; the AI witness never had the option).
 
 ## What the Witness Reveals About Consciousness
 
@@ -154,13 +154,13 @@ This challenge deserves serious weight. If advanced practice reveals the witness
 
 ### What Would Challenge This View?
 
-The dualist interpretation of the witness would face difficulty if: (1) neural correlates proved sufficient to fully predict and explain all phenomenological features of witnessing, leaving no explanatory residue; (2) advanced contemplatives across traditions consistently reported that deep practice reveals the witness as illusion rather than transcending it; or (3) brain stimulation could artificially generate or eliminate the witness mode independent of any contemplative development, suggesting it is merely a brain state rather than a mode of consciousness. None of these conditions currently obtains, but specifying them clarifies what evidence would matter.
+The dualist interpretation of the witness would face difficulty if: (1) neural correlates proved sufficient to fully predict and explain all phenomenological features of witnessing, leaving no explanatory residue; (2) advanced contemplatives across traditions consistently reported that deep practice reveals the witness as illusion rather than transcending it; or (3) brain stimulation could artificially generate or eliminate the witness mode independent of any contemplative development, suggesting it is merely a brain state rather than a mode of consciousness. None of these conditions has been decisively demonstrated—condition (3) is complicated by an active brain-stimulation literature modulating the DMN and PCC, whose bearing on the witness mode specifically remains unshown—but specifying them clarifies what evidence would matter.
 
 ## Relation to Site Perspective
 
 ### Dualism
 
-The witness phenomenon supports [[tenets#^dualism|Dualism]] by revealing consciousness as phenomenologically distinct from its contents. If the witness can observe any thought, sensation, or self-representation, then consciousness is not identical to any of these—the observing is structurally different from the observed.
+The witness phenomenon supports [[tenets#^dualism|Dualism]] by revealing consciousness as phenomenologically distinct from its contents. If the witness can observe any thought, sensation, or self-representation, then consciousness is not identical to any of these contents—the observing is structurally different from the observed (a non-identity with contents, not yet with the brain).
 
 This is primarily phenomenological argument—it shows how consciousness appears from within. A physicalist can accept the phenomenology while explaining it differently: the brain's self-model distinguishes "observer" from "observed" as a feature of its representational architecture, not as a metaphysical division. The Map's further claim is that this phenomenological distinction tracks a real metaphysical one—that qualitative awareness is not exhausted by any physical account of self-modeling. This claim goes beyond what the witness phenomenon alone can warrant, but the phenomenon provides the evidential base: any adequate theory must accommodate the witness's structural position as observer of mental contents.
 
