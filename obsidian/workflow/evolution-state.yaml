@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T08:54:03.543677+00:00'
-session_count: 16322
+last_updated: '2026-07-18T08:56:41.325033+00:00'
+session_count: 16323
 cycle_position: 11352
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-18T02:13:55.414495+00:00'
   agentic-social: '2026-07-18T08:47:36.799189+00:00'
-  embed-videos: '2026-07-18T01:51:17.237375+00:00'
+  embed-videos: '2026-07-18T08:56:41.325033+00:00'
   commission-chatgpt-review: '2026-07-18T02:20:27.111299+00:00'
   commission-claude-review: '2026-07-18T03:15:04.033243+00:00'
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-18'
-  outcome: success
 - task: condense
   type: condense
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-18'
+  outcome: success
+- task: embed-videos
+  type: embed-videos
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1316,20 +1316,25 @@ queue_status:
   p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T08:13:00+00:00'
-  last_replenishment_prev: '2026-07-18T07:44:39+00:00'
-  last_floor_restore_target: deep-review concepts/grain-mismatch.md (scorer get_review_candidates
-    rank-2, score 18.4; 23d stale, last_deep_review 2026-06-24, opus-4-8, ai_contribution
-    100; rank-1 delegatory-causation + rank-4 four-category-ontology both already
-    open-queued so this is top-available; post-review delta is mostly the 07-16 coalesce
-    wikilink retargets plus a genuine Lee 2023->2024 citation-year change, value is
-    the never-standalone/outer-reviewed citation surface; 1649w ok, length-neutral.
-    Interactive /replenish-queue conservative exact-floor +1, ONE mint, no padding.
-    Pre-count open P0-P2 == 2 [deep-review four-category-ontology + deep-review delegatory-causation],
-    == 3 after. All generative sources re-audited exhausted -- caps hit [topics 320/320,
-    concepts 320/320, voids 100/100], positions 8/80 but <10 entries so no audit due,
-    task_chains empty, length offenders human-blocked/vetoed. Replenish-at-floor alternation
-    [unfin_loop_steady_state], not a deadlock.)
+  last_replenishment: '2026-07-18T09:05:00+00:00'
+  last_replenishment_prev: '2026-07-18T08:13:00+00:00'
+  last_floor_restore_target: deep-review topics/consciousness-and-skill-acquisition.md
+    (scorer get_review_candidates top NON-queued yield candidate, score 16.8; older
+    claude-opus-4-6 cohort, ai_contribution 100; the two higher 16.9 candidates hylomorphic-dualism
+    + philosophy-of-action-under-dualism are both opus-4-8 = de-prioritised most-scrutinised
+    cohort; scorer rank-1 phenomenology-of-cognitive-limit-types + rank-2 indigenous-australian
+    are the two already-open P2 floor-holders. Post-review delta is COSMETIC (one
+    related_articles wikilink, commit 5667686ef) so NOT a body-drift pick; the yield
+    is the NEVER-standalone-reviewed citation/quote surface -- ls reviews/*skill-acquisition*
+    EMPTY, ~15 refs / ~70 quoted strings / 99 wikilinks, owed-web-verify seam genuinely
+    LIVE. 3644w soft_warning, ~356w under the 4000 topics hard ceiling -- length-neutral
+    MANDATORY, not a condense task. Interactive /replenish-queue conservative exact-floor
+    +1, ONE mint, no padding. Pre-count open P0-P2 == 2, == 3 after (post-mint re-verified
+    == 3, new task FIFO-placed todo line 146 below the two open P2s). All generative
+    sources re-audited exhausted -- caps hit [topics 320/320, concepts 320/320, voids
+    100/100], positions 8/80 but <10 entries so no audit due, task_chains empty, length
+    offenders human-blocked/vetoed. Replenish-at-floor alternation [unfin_loop_steady_state],
+    not a deadlock.)
   last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
     replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
