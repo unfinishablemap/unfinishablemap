@@ -6,6 +6,7 @@ modified: 2026-07-07
 human_modified:
 ai_modified: 2026-07-18T15:22:00+00:00
 draft: false
+anchoring_audit_exempt: true  # VERIFIED false-high 2026-07-18: calibrates STRUCTURALLY (deflationary lead, explicit live-hypothesis/not-a-finding + possibility-probability + physicalist-rival-reads-identical-evidence framing throughout); lexical hedge-counter blind. The 2 "strong assertions" are deflationary thesis-precision, not evidence over-claims. Refining to metric would over-hedge clean analytical prose into mush. See [[wanting-liking-anchoring-false-high]] class.
 topics:
   - "[[valence-and-conscious-selection]]"
   - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
