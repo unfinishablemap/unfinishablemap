@@ -5,6 +5,17 @@ ai_modified: 2026-07-18T11:34:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T12:33:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/attention-schema-theory]]
+- **Word count**: 3583 → 3484 (−99; hard_warning → soft_warning, back under the 3500 concepts hard ceiling)
+- **Critical issues addressed**: 0 (none found — content converged; tenth deep review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 8 length-neutral redundancy trims (verbatim "preserves what AST gets right" duplicate, AI-section haecceity/ASTOUND restatements, AIR-paragraph tail, second "what the schema represents" bullet list folded to prose, plus four closing-restatement merges)
+- **Note**: Cross-link accretion pass, not a content review. Only change since the exhaustive 2026-06-21 review was commit 8c18f3b98 (AIR-theory expand-topic) installing one disambiguation paragraph + Further Reading entry, which pushed the hub article over the hard ceiling. Length-neutral condense per [[hub-articles-accrete-crosslink-length]]. Citation ledger unchanged since 2026-06-21 (no cites added/modified) — §2.4 web-verify current, not re-run. Content converged; 90+-day cadence recommendation stands.
+- **Engagement modes (editor-internal)**: AST/Graziano — Mode Two (unsupported foundational move); Illusionism/Frankish/Dennett — Mode Two (Strawson turns "seeming" report against it); eliminativists/physicalists — Mode Three (framework-boundary, in Relation to Site). No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-18-attention-schema-theory]]
+
 ## 2026-07-18T12:12:21+00:00 - condense
 - **Status**: Partial condensation + reviewed-leave-long for residual
 - **File**: [[voids/transit-void]]

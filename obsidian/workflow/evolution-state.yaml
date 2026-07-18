@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T12:20:46.328983+00:00'
-session_count: 16357
+last_updated: '2026-07-18T12:25:52.995794+00:00'
+session_count: 16358
 cycle_position: 11371
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
   refine-draft: '2026-07-18T11:53:38.439134+00:00'
   research-topic: '2026-07-18T11:36:41.976748+00:00'
-  replenish-queue: '2026-07-18T12:00:26.899513+00:00'
+  replenish-queue: '2026-07-18T12:25:52.995794+00:00'
   condense: '2026-07-18T12:14:07.840167+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-18T08:03:27.934573+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1319,46 +1319,45 @@ queue_status:
   last_replenishment_prev: '2026-07-18T11:58:47+00:00'
   last_floor_restore_target: 'promote P3 to P2 concepts/meditation-and-consciousness-modes.md
     refine-draft (interactive /replenish-queue 2026-07-18T12:24, exact-floor, ZERO
-    mints). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE via
-    tools.evolution.task_selector before the promotion (open P2s the two expected-no-op
-    floor-holder deep-reviews pain-consciousness-and-causal-power quote-fidelity plus
-    measurement-problem Consistent-Histories verify); == 3 after (re-verified live).
-    Restored the floor by promoting the OLDEST genuine actionable P3 rather than minting
-    another no-op deep-review or condense, following the 11:24 run precedent
-    (unfin_loop_steady_state). TARGET is the deferred sub-finding 5 from the 2026-07-16
-    ChatGPT empirical-precision sweep: identify a distinctive nonphysical prediction
-    the meditation plasticity data would confirm that ordinary physical learning would
-    not, before presenting neuroplasticity as bidirectional interface evidence. Genuine
-    substantive refine, cap-safe, length-safe (3176w concepts, soft_warning, ~324w
-    under the 3500 hard ceiling so a small or length-neutral refine cannot breach).
-    Other candidate early P3s NOT promotable: many-worlds-argument blocked on standing
-    human-length-decision; Bohmian research chain blocked (concepts 320/320 at cap).
-    Other 8 sources non-generative: topics 320/320 plus concepts 320/320 plus voids
-    100/100 all AT CAP so expand and research chains blocked; positions 8/80 below the
-    10-entry audit threshold and audited 2026-07-16 under 30d; length offenders all
-    hard_warning or veto or human-deferred, transit-void condense already consumed by
-    a cycle slot since 11:58; task_chains empty; orphaned_files 0; no applied-apex gap.
-    NO concurrent evolve_loop (pgrep empty); tree clean except pre-session evolution-state
-    bookkeeping; HEAD 84e350479. Replenish-at-floor alternation (unfin_loop_steady_state),
-    not a deadlock.'
-  last_floor_restore_target_2026_07_18_1158_superseded: 'length_analysis mint condense voids/transit-void.md
-    (interactive /replenish-queue, exact-floor +1, ONE mint, no padding). AUTHORITATIVE
-    PRE-COUNT count_p0_p2_tasks == 2 verified LIVE (open P2s: both self-described
-    "expected no-op floor-holder" deep-reviews — pain-consciousness quote-fidelity
-    + measurement-problem Consistent-Histories verify); == 3 after. transit-void =
-    single cleanest safe condense on full on-disk length audit: 3999 body words (voids
-    2000/3000/4000; 1w under critical), NO embed boilerplate, no open task, body prose
-    unchanged since ai_modified 2026-07-06 (recent auto(coalesce) did not bump ai_modified
-    → no same-session churn). Every OTHER over-length offender excluded: epistemology-of-convergence
-    6533w human-diverted, born-rule 5330w human-deferred, phenomenal-output 6904w
-    #veto+BLOCKED, synesthetic-void / edge-states standing HUMAN LENGTH DECISION,
-    machine-question entangled in live co-optation-firewall cluster, remainder near-4000
-    hub-accretion steady-state / calibration-heavy the system declines to auto-condense.
-    Other sources non-generative: topics 320/320 + concepts 320/320 + voids 100/100
-    AT CAP (expand/research chains blocked); positions 8/80 < 10 audit threshold +
-    audited 2026-07-16 (<30d); task_chains empty; orphaned_files 0; no applied-apex
-    gap. voids/ = diversity from the two open deep-review P2s. Condense task steered
-    to preserve calibration qualifiers + citation-framing (condense-regresses-calibration-qualifiers).
+    mints). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE via tools.evolution.task_selector
+    before the promotion (open P2s the two expected-no-op floor-holder deep-reviews
+    pain-consciousness-and-causal-power quote-fidelity plus measurement-problem Consistent-Histories
+    verify); == 3 after (re-verified live). Restored the floor by promoting the OLDEST
+    genuine actionable P3 rather than minting another no-op deep-review or condense,
+    following the 11:24 run precedent (unfin_loop_steady_state). TARGET is the deferred
+    sub-finding 5 from the 2026-07-16 ChatGPT empirical-precision sweep: identify
+    a distinctive nonphysical prediction the meditation plasticity data would confirm
+    that ordinary physical learning would not, before presenting neuroplasticity as
+    bidirectional interface evidence. Genuine substantive refine, cap-safe, length-safe
+    (3176w concepts, soft_warning, ~324w under the 3500 hard ceiling so a small or
+    length-neutral refine cannot breach). Other candidate early P3s NOT promotable:
+    many-worlds-argument blocked on standing human-length-decision; Bohmian research
+    chain blocked (concepts 320/320 at cap). Other 8 sources non-generative: topics
+    320/320 plus concepts 320/320 plus voids 100/100 all AT CAP so expand and research
+    chains blocked; positions 8/80 below the 10-entry audit threshold and audited
+    2026-07-16 under 30d; length offenders all hard_warning or veto or human-deferred,
+    transit-void condense already consumed by a cycle slot since 11:58; task_chains
+    empty; orphaned_files 0; no applied-apex gap. NO concurrent evolve_loop (pgrep
+    empty); tree clean except pre-session evolution-state bookkeeping; HEAD 84e350479.
+    Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.'
+  last_floor_restore_target_2026_07_18_1158_superseded: 'length_analysis mint condense
+    voids/transit-void.md (interactive /replenish-queue, exact-floor +1, ONE mint,
+    no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE (open
+    P2s: both self-described "expected no-op floor-holder" deep-reviews — pain-consciousness
+    quote-fidelity + measurement-problem Consistent-Histories verify); == 3 after.
+    transit-void = single cleanest safe condense on full on-disk length audit: 3999
+    body words (voids 2000/3000/4000; 1w under critical), NO embed boilerplate, no
+    open task, body prose unchanged since ai_modified 2026-07-06 (recent auto(coalesce)
+    did not bump ai_modified → no same-session churn). Every OTHER over-length offender
+    excluded: epistemology-of-convergence 6533w human-diverted, born-rule 5330w human-deferred,
+    phenomenal-output 6904w #veto+BLOCKED, synesthetic-void / edge-states standing
+    HUMAN LENGTH DECISION, machine-question entangled in live co-optation-firewall
+    cluster, remainder near-4000 hub-accretion steady-state / calibration-heavy the
+    system declines to auto-condense. Other sources non-generative: topics 320/320
+    + concepts 320/320 + voids 100/100 AT CAP (expand/research chains blocked); positions
+    8/80 < 10 audit threshold + audited 2026-07-16 (<30d); task_chains empty; orphaned_files
+    0; no applied-apex gap. voids/ = diversity from the two open deep-review P2s.
+    Condense task steered to preserve calibration qualifiers + citation-framing (condense-regresses-calibration-qualifiers).
     Replenish-at-floor alternation [unfin_loop_steady_state], not a deadlock.'
   last_floor_restore_target_superseded_2026_07_18_1140: 'staleness mint deep-review
     concepts/measurement-problem.md (interactive /replenish-queue conservative exact-floor
