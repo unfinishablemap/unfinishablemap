@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T13:30:19.419015+00:00'
-session_count: 16373
-cycle_position: 11376
+last_updated: '2026-07-18T13:32:31.907963+00:00'
+session_count: 16374
+cycle_position: 11377
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T10:21:02.097101+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-18T02:20:27.111299+00:00'
   commission-claude-review: '2026-07-18T03:15:04.033243+00:00'
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
-  refine-draft: '2026-07-18T12:57:11.346797+00:00'
+  refine-draft: '2026-07-18T13:32:31.907963+00:00'
   research-topic: '2026-07-18T11:36:41.976748+00:00'
   replenish-queue: '2026-07-18T13:30:19.419015+00:00'
   condense: '2026-07-18T12:14:07.840167+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1311,13 +1311,36 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 93
-  p3_tasks: 11
+  p2_tasks: 94
+  p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T13:27:27+00:00'
-  last_replenishment_prev: '2026-07-18T12:51:14+00:00'
-  last_floor_restore_target: 'promote P3 to P2 concepts/direction-of-fit.md cross-link
+  last_replenishment: '2026-07-18T13:34:19+00:00'
+  last_replenishment_prev: '2026-07-18T13:27:27+00:00'
+  last_floor_restore_target: 'promote P3 to P2 topics/empirical-phenomena-mental-causation.md
+    Kim-exclusion cross-link refine-draft (interactive /replenish-queue 2026-07-18T13:34,
+    exact-floor, ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
+    == 2 verified LIVE before the promotion (the two open P2 floor-holder deep-reviews:
+    measurement-problem Consistent-Histories verify + hylomorphic-dualism-and-the-interaction-problem);
+    == 3 after (re-verified live via count_p0_p2_tasks on the edited todo). The 13:27
+    direction-of-fit promotion was consumed by a cycle slot, dropping the floor back
+    to 2. Restored by promoting the Kim-exclusion link task the 13:27 note explicitly
+    pre-designated as "queued for the next floor drain" — a concrete, length-neutral,
+    grep-verify-first, single-article refine suggested by optimistic-2026-07-17-empirical-mental-causation
+    (wrap "Kim''s exclusion argument" as a wikilink to concepts/causal-exclusion-argument),
+    rather than minting a no-op deep-review/condense; these link-only P3s are the ones
+    the loop P0-P2 picker never reaches (queue-lifo-starvation). The four HUMAN LENGTH
+    DECISION refine-drafts + the two research-topic P3s (Bohmian equilibrium, synthetic
+    minimal agents) were NOT promoted — the former let the loop auto-condense a flagship
+    pending human decision, the latter''s expand-topic chains are section-cap-blocked.
+    Other sources non-generative: topics 320/320 + concepts 320/320 + voids 100/100
+    all AT CAP so expand+research chains blocked; task_chains empty; positions 8/80 <
+    10 audit threshold + audited 2026-07-16 (<30d); orphaned_files 0; length offenders
+    all review-files / apex-index / positions-domain / veto / human-deferred; no applied-apex
+    gap. NO concurrent evolve_loop.py (pgrep empty). Replenish-at-floor alternation
+    (unfin_loop_steady_state), not a deadlock. Pruned the 1243 stale floor-restore note
+    to hold state-note count at ~3.'
+  last_floor_restore_target_superseded_2026_07_18_1327: 'promote P3 to P2 concepts/direction-of-fit.md cross-link
     refine-draft (L59 direction-of-fit -> emotion-and-dualism / epistemic-emotions,
     directedness cluster; interactive /replenish-queue 2026-07-18T13:27, exact-floor,
     ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
@@ -1364,25 +1387,6 @@ queue_status:
     steady-state; no applied-apex gap. NO concurrent evolve_loop.py (pgrep empty);
     tree clean except this session''s todo/state edits; HEAD a9cdacde8. Replenish-at-floor
     alternation (unfin_loop_steady_state), not a deadlock.'
-  last_floor_restore_target_superseded_2026_07_18_1243: 'promote P3 to P2 concepts/consistent-histories-interpretation.md
-    reciprocal cross-link ↔ post-decoherence-selection (interactive /replenish-queue
-    2026-07-18T12:43, exact-floor, ZERO mints). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks
-    == 2 verified LIVE via tools.evolution.task_selector before the promotion (open
-    P2s the two expected-no-op floor-holder deep-reviews pain-consciousness-and-causal-power
-    quote-fidelity + measurement-problem Consistent-Histories verify); == 3 after
-    (re-verified live). The 12:24 meditation-and-consciousness-modes promotion was
-    consumed by a cycle slot (commit 90be3d36f refine-draft) dropping the floor back
-    to 2. Restored by promoting the oldest genuine actionable P3 rather than minting
-    a no-op deep-review/condense: this + 3 sibling 2026-07-17 optimistic-review cross-link
-    tasks are the only unblocked P3s (length-neutral link-only integration the loop''s
-    P0-P2 picker never reaches, queue-lifo-starvation). Other 8 sources non-generative:
-    topics 320/320 + concepts 320/320 + voids 100/100 all AT CAP so expand+research
-    chains blocked; task_chains empty, recent_tasks ZERO research/expand/cross-review;
-    positions 8/80 < 10 audit threshold + audited 2026-07-16 (<30d); orphaned_files
-    0; length offenders all veto / human-deferred / near-ceiling steady-state, transit-void
-    condense already consumed since 11:58; no applied-apex gap. NO concurrent evolve_loop
-    (pgrep empty); tree clean except this session''s todo/state edits; HEAD 90be3d36f.
-    Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.'
   replenishment_source_counts:
     chain: 1
   run_739_pickable_p0_p2: 3
