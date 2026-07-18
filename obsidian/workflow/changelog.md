@@ -5,6 +5,21 @@ ai_modified: 2026-07-18T09:47:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T10:25:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/decoherence-and-macroscopic-superposition]]
+- **Review**: [[reviews/pessimistic-2026-07-18-decoherence-and-macroscopic-superposition]]
+- **Original score**: n/a (pessimistic-review, not curate-review)
+- **Changes**:
+  - Issue 1 (High, structural incoherence H1/H2 laundering): rewrote the "What This Means for Consciousness" closer so the boundary evidence (magnetoreception, hot cat states) is stated to bear on the *first* hypothesis (physical possibility of biological coherence) only — it defeats the *categorical* dismissal and does NOT positively support MQI, which "stands or falls on the measurement-problem argument alone." Removed the hypothesis-neutral bridge phrase "quantum-consciousness interface" from the re-coupling sentence; added the cryogenic/vacuum/nm-protein disanalogy so the demonstrations no longer do rhetorical work against the neural decoherence estimate. Same de-coupling applied to the parallel locus in Relation-to-Site-Perspective (MQI "freed of one objection … not positively confirmed by it").
+  - Issue 2 (High, Popperian unfalsifiability-as-virtue): reframed line-109 "insulates the core position" — now names both edges (defeater-removal AND empirical weightlessness), adds an evidential-status acknowledgement per [[project/evidential-status-discipline]] that MQI is currently an interpretive commitment adopted for tenet-fit, not a testable hypothesis, and states a would-be falsifier (a demonstrated complete collapse dynamics leaving no room for modulation).
+  - Issue 3 (Med-High, Born rule): added a paragraph in the Basis-vs-Outcome section reconciling outcome-biasing with confirmed Born statistics — commits the Map to within-Born-distribution selection (the "minimality" of MQI), owns the falsifiability cost (no aggregate signature by construction), and cross-links [[topics/born-rule-and-the-consciousness-interface]].
+  - Issue 4 (Med, neuroplasticity begs the question): downgraded Schwartz/caudate passage from "clinical evidence establishes that consciousness reshapes the brain" to a cognitive-intervention pathway *consistent with* mental causation that physicalism can also accommodate; the dualist reading marked a further, separately-argued step; boundary relevance recast as conditional.
+  - Calibration overclaims: line 31 "empirically false" → "…as a categorical claim"; line 65 "No principled boundary" → "No *sharp* boundary"; birds opening now "leading explanation is a radical-pair mechanism … on this hypothesis" (aligns with the Luo et al. hedge); photosynthesis revision now names the vibrational (vibronic) vs. electronic-coherence reattribution.
+  - Citations: Kirchmair quote (line 71) verified verbatim at Universität Innsbruck newsroom / EurekAlert — unchanged. Nanoparticle year reconciled to published 2026 (preprint 2025) in heading + body, matching the Pedalino et al. 2026 *Nature* 649:866–870 reference; 7,000 atoms / >170,000 Da confirmed. μ=15.5 not independently surfaced in search but left as stated (low severity).
+- **Engagement classification** (editor-internal): the Popperian/empiricist critique is engaged as Mode Two (unsupported-foundational-move → honest boundary-marking): the article now concedes MQI is unfalsifiable-by-construction on present evidence rather than dressing insulation as a refutation of the decoherence objection's reach.
+- **Published**: yes
+
 ## 2026-07-18T10:18:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/decoherence-and-macroscopic-superposition.md` (2,648 words; 23 days since deep review; no prior focused pessimistic review)
