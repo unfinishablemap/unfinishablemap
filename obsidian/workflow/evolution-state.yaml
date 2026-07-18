@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T16:08:15.016611+00:00'
-session_count: 16398
+last_updated: '2026-07-18T16:15:50.202588+00:00'
+session_count: 16399
 cycle_position: 11389
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
   refine-draft: '2026-07-18T15:05:33.385344+00:00'
   research-topic: '2026-07-18T11:36:41.976748+00:00'
-  replenish-queue: '2026-07-18T15:58:54.229988+00:00'
+  replenish-queue: '2026-07-18T16:15:50.202588+00:00'
   condense: '2026-07-18T12:14:07.840167+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-18T08:03:27.934573+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1316,10 +1316,10 @@ queue_status:
   last_floor_restore_target: 'mint P2 deep-review voids/apophatic-cartography.md (interactive
     /replenish-queue 2026-07-18T16:11, conservative exact-floor +1, ONE mint). AUTHORITATIVE
     PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write (open P2s: concepts/the-agent-shaped-hole
-    + concepts/articulability-of-q1, both prior floor-holders not yet drained), == 3
-    re-verified live after; FIFO-placed at bottom of Active so the two older P2s drain
-    first (queue-lifo-starvation). Source = staleness. **Target HONESTLY framed — this
-    one IS a REAL owed-web-verify, not manufactured:** voids/apophatic-cartography
+    + concepts/articulability-of-q1, both prior floor-holders not yet drained), ==
+    3 re-verified live after; FIFO-placed at bottom of Active so the two older P2s
+    drain first (queue-lifo-starvation). Source = staleness. **Target HONESTLY framed
+    — this one IS a REAL owed-web-verify, not manufactured:** voids/apophatic-cartography
     is the STALEST ai_contribution=100 article after the two queued holders (last_deep_review
     2026-06-04T00:00 = ~44d converged, git-untouched since 383ff4bf6, ai_system claude-opus-4-8,
     voids soft/hard 2000/3000). DISTINCT file from concepts/apophatic-cartography-four-criteria
@@ -1328,22 +1328,23 @@ queue_status:
     web-verified at publisher — the 06-04 review only date-plausibility-checked "References
     1-12 canonical", its parenthetical list STOPPED at Armour 2000 and has ZERO mention
     of Priest/Rancourt (grep-confirmed 0 hits). So the two 2025 cites — Priest 2025
-    "Wittgenstein and the Paradoxes at the Limits of Language" (Blog of the APA) + Rancourt
-    2025 "The Virtue of Ignorance" (Southern Journal of Philosophy) — plus McGinn 1989
-    Mind 98(391) / Chalmers 1995 JCS 2(3) / Levine 1983 / Fine 2018 Synthese 195 are
-    a genuinely UNCHECKED surface (owed-web-verify-seam-deep-review-targeting; owed-web-verify-task-false-never-verified-premise
-    does NOT apply — no prior Web-Verification section for this file). Scope: web-verify
-    the external list at publisher + verbatim-quote spot-check (Nagel/McGinn/Wittgenstein/Borges)
-    at primary text (not self-page) + stale-internal-channel/link-reciprocity on ~18
-    wikilinks + evidential-status-discipline calibration + length-neutral. Expected
-    outcome = probable real citation/link fix (bump BOTH last_deep_review + ai_modified);
-    if fully clean, bump last_deep_review ONLY + hold ai_modified/ai_system. AUTHORITATIVE
-    cap check: topics 320/320, concepts 320/320, voids 100/100 ALL AT CAP; positions
-    8/80 < 10 audit threshold + audited 2026-07-16. Other sources non-generative: chains
-    + unconsumed-research cap-blocked; orphaned_files 0; length offenders all veto/human-deferred;
-    no applied-apex gap. NO concurrent evolve_loop.py (pgrep clean). Replenish-at-floor
-    alternation (unfin_loop_steady_state), not a deadlock. Promoted the 1557 articulability
-    note to superseded; holding floor-restore-note count at 3 (evolution-state-floor-restore-note-bloat).'
+    "Wittgenstein and the Paradoxes at the Limits of Language" (Blog of the APA) +
+    Rancourt 2025 "The Virtue of Ignorance" (Southern Journal of Philosophy) — plus
+    McGinn 1989 Mind 98(391) / Chalmers 1995 JCS 2(3) / Levine 1983 / Fine 2018 Synthese
+    195 are a genuinely UNCHECKED surface (owed-web-verify-seam-deep-review-targeting;
+    owed-web-verify-task-false-never-verified-premise does NOT apply — no prior Web-Verification
+    section for this file). Scope: web-verify the external list at publisher + verbatim-quote
+    spot-check (Nagel/McGinn/Wittgenstein/Borges) at primary text (not self-page)
+    + stale-internal-channel/link-reciprocity on ~18 wikilinks + evidential-status-discipline
+    calibration + length-neutral. Expected outcome = probable real citation/link fix
+    (bump BOTH last_deep_review + ai_modified); if fully clean, bump last_deep_review
+    ONLY + hold ai_modified/ai_system. AUTHORITATIVE cap check: topics 320/320, concepts
+    320/320, voids 100/100 ALL AT CAP; positions 8/80 < 10 audit threshold + audited
+    2026-07-16. Other sources non-generative: chains + unconsumed-research cap-blocked;
+    orphaned_files 0; length offenders all veto/human-deferred; no applied-apex gap.
+    NO concurrent evolve_loop.py (pgrep clean). Replenish-at-floor alternation (unfin_loop_steady_state),
+    not a deadlock. Promoted the 1557 articulability note to superseded; holding floor-restore-note
+    count at 3 (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_superseded_2026_07_18_1557: 'mint P2 deep-review concepts/articulability-of-q1.md
     (interactive /replenish-queue 2026-07-18T15:57, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write

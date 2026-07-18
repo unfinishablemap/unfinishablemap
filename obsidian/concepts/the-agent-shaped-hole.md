@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-06-03T12:30:00+00:00
+last_deep_review: 2026-07-18T16:19:40+00:00
 ---
 
 An *agent-shaped hole* is the gap a framework leaves when it makes a conscious agent load-bearing in its foundations while declining to theorise what the agent is. The pattern recurs across otherwise unrelated frameworks: a position installs an agent—an observer, a performer, an evaluator—at the point where its central work gets done, treats that agent as primitive, and then stops, as though the agent's nature were someone else's problem. The Unfinishable Map names this recurring shape because the same diagnostic applies wherever it appears, and because the Map's own [[interactionist-dualism|interactionist dualism]] is, by design, a candidate filling for the hole. The concept is a *diagnostic*, not an argument: it identifies a cost that rival frameworks pay, not a proof that they must pay it to the Map's account in particular.
