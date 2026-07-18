@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T16:34:44.910503+00:00'
-session_count: 16403
-cycle_position: 11391
+last_updated: '2026-07-18T16:38:55.327894+00:00'
+session_count: 16404
+cycle_position: 11392
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T15:00:46.932689+00:00'
   optimistic-review: '2026-07-18T16:04:30.142602+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T16:34:44.910503+00:00'
+  deep-review: '2026-07-18T16:38:55.327894+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T11:49:04.249483+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 519
-  reviews_completed: 6590
+  reviews_completed: 6591
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-18'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 - task: deep-review
@@ -1313,37 +1313,34 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T16:27:00+00:00'
-  last_replenishment_prev: '2026-07-18T16:11:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review concepts/constitution-vs-causal-work.md
-    (interactive /replenish-queue 2026-07-18T16:27, conservative exact-floor +1, ONE
-    mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
-    (open P2s: concepts/articulability-of-q1 + voids/apophatic-cartography, both prior
-    floor-holders not yet drained; kairos + the-agent-shaped-hole DRAINED by cycle
-    slots since the 15:57/16:11 mints), == 3 re-verified live after; FIFO-placed at
-    bottom of Active so the two older P2s drain first (queue-lifo-starvation). Source
-    = staleness. **Target HONESTLY framed — NOT owed-web-verify:** constitution-vs-causal-work
-    is the stalest ai_contribution=100 article after the two queued holders (last_deep_review
-    == ai_modified == 2026-06-04T13:45 = ~44d converged, git-untouched since 6171f86d0,
-    ai_system claude-opus-4-8, 1566w concepts — well under soft 2500, no length issue).
-    Its single external cite (Saad 2025 Phil Studies 182(3):939-967 DOI 10.1007/s11098-025-02290-3)
-    was ALREADY verified EXACT at publisher in reviews/deep-review-2026-06-04-constitution-vs-causal-work.md,
-    so do NOT re-run web-verify (owed-web-verify-task-false-never-verified-premise).
-    GENUINE-BUT-THIN yield = stale-internal-channel: this dialectical-locus anchor
-    catalogues concepts/delegatory-causation as its "positive mechanism on the causal-work
-    side", and delegatory-causation was deep-reviewed TODAY 07-18 (Tenet-2 mechanism-tension
-    prose + hard-ceiling trim) — confirm the borrowed characterisation still tracks
-    the reworked sibling (apex-stale-internal-quote-channel). Scope: stale-internal-channel
-    re-grep + verbatim-quote spot-check + wikilink reciprocity + evidential-status-discipline
-    calibration + length-neutral. Expected outcome = metadata no-op → bump last_deep_review
-    ONLY + HOLD ai_modified/ai_system; a real stale-framing/link fix bumps BOTH. AUTHORITATIVE
-    cap check: topics 320/320, concepts 320/320, voids 100/100 ALL AT CAP; positions
-    8/80 < 10 audit threshold + audited 2026-07-16. Other sources non-generative:
-    chains + unconsumed-research cap-blocked; orphaned_files 0; length offenders all
-    veto/human-deferred; no applied-apex gap. NO concurrent evolve_loop.py (pgrep
-    clean). Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.
-    Demoted the 16:11 apophatic note to superseded + pruned the _1536 note to hold
-    state-note count at 3 (evolution-state-floor-restore-note-bloat).'
+  last_replenishment: '2026-07-18T16:49:00+00:00'
+  last_replenishment_prev: '2026-07-18T16:27:00+00:00'
+  last_floor_restore_target: 'mint P2 condense topics/argument-from-reason.md (interactive
+    /replenish-queue 2026-07-18T16:49, conservative exact-floor +1, ONE mint). AUTHORITATIVE
+    count_p0_p2_tasks == 2 verified LIVE before write (open P2s: voids/apophatic-cartography
+    + concepts/constitution-vs-causal-work, prior floor-holders not yet drained), ==
+    3 re-verified live after; top-placed in Active. Source = length_analysis. FULL
+    generative-source audit this cycle confirmed genuine exhaustion, so a real hard-warning
+    length offender is the honest floor-restore rather than a speculative staleness/positions
+    mint: (chain) ZERO research/expand/cross-review completions in recent_tasks; (unconsumed
+    research + gap) topics/concepts/voids ALL AT CAP (320/320, 320/320, 100/100) so
+    no expand-topic admissible; (staleness/owed-web-verify) the >25d citation-dense
+    cohort checked — open-individualism, egocentric-presentism, training-contamination-confound,
+    feminist-phenomenology, co-optimization-reply, gaming-problem — are ALREADY publisher-of-record
+    web-verified or over-reviewed, and every content article now carries last_deep_review
+    (no fresh-create tail); (orphans) orphaned_files 0; (positions) 8/80, and the only
+    live dependency signal (the 2026-07-16 access-consciousness → workspace-signatures
+    narrowing) is ALREADY synced into P-AC4 (no-op). Target argument-from-reason 4684w
+    = 156% of the 3000 target, ~684w over the 4000 topics hard threshold; NOT in the
+    veto-churn set (unlike born-rule / epistemology-of-convergence), last content-add
+    2026-07-11 (7d ago, not same-session churn). CAUTION (refine-then-condense-same-session-churn
+    + condense-regresses-calibration-qualifiers): condensed 2026-06-05 then re-grew
+    via the 2026-07-11 deep-review that added the pessimistic-Finding-3 exclusion-self-application
+    content — PRESERVE that Finding-3 material, the Anscombe-reply boundary-substitution
+    repair, and all load-bearing calibration hedges; trim genuine redundancy / defer
+    subtopics to linked articles only. NO concurrent evolve_loop.py (pgrep clean).
+    Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock. Overwrote
+    the prior target-note in place to hold state-note count at 3 (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_superseded_2026_07_18_1611: 'mint P2 deep-review voids/apophatic-cartography.md
     (interactive /replenish-queue 2026-07-18T16:11, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
@@ -1407,7 +1404,7 @@ queue_status:
     alternation (unfin_loop_steady_state), not a deadlock. Pruned the _1511 + _1440
     notes to hold state-note count at ~3.'
   replenishment_source_counts:
-    staleness: 1
+    length_analysis: 1
   run_745_pickable_p0_p2: 3
   run_739_pickable_p0_p2: 3
   run_738_pickable_p0_p2: 3
