@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-05-22
 human_modified: null
-ai_modified: 2026-06-21T13:06:48+00:00
+ai_modified: 2026-07-18T12:54:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,6 +58,7 @@ related_articles:
   - "[[phenomenology-of-conceptual-frameworks]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[consciousness-and-testimony]]"
+  - "[[structure-of-attention]]"
   - "[[consciousness-and-the-problem-of-induction]]"
   - "[[consciousness-and-mathematics]]"
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -248,6 +249,7 @@ None of these findings currently obtains in the strong form required.
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[phenomenology-of-mathematical-understanding]] — Cross-cultural phenomenology of insight
 - [[epistemology-of-limit-knowledge]] — PCT extended to second-order knowing: the phenomenology of encountering cognitive limits as partly constitutive of knowledge about them
+- [[structure-of-attention]] — The willed/instructed/exogenous architecture of attention that supplies the effortful-directing spine behind the work of inference
 
 ## References
 

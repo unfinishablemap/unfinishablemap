@@ -5,6 +5,14 @@ ai_modified: 2026-07-18T11:34:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T12:54:51+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/contentless-awareness-evidence]], [[concepts/introspection]], [[topics/structure-of-attention]], [[topics/phenomenology-of-intellectual-life]]
+- **Task**: Three reciprocal/missing cross-links suggested by [[reviews/optimistic-2026-07-17-phenomenology-first-person-methods]]. LINK-ONLY PASS — no prose added (all four articles at/near length ceiling). Each absence grep-confirmed before editing. Tenet 1 + Tenet 5.
+- **Changes**: (1) contentless-awareness-evidence.md ↔ introspection.md — reciprocal link installed both ways (frontmatter `related_articles`/`concepts` + a Further Reading bullet each). The contentless-awareness "every candidate datum is a report produced after the fact" argument is introspection's process/content + confabulation machinery applied to the sleep gap; introspection previously appeared only as plain text ("introspection-skepticism"), no wikilink. (2) structure-of-attention.md ↔ phenomenology-of-intellectual-life.md — reciprocal link installed both ways (frontmatter + Further Reading bullet each) over the shared willed-effort/mental-effort spine; no link existed either direction.
+- **Attribution**: `ai_system` held on all four files (link/metadata only); `ai_modified` bumped to session UTC.
+- **Published**: yes
+
 ## 2026-07-18T12:46:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/consistent-histories-interpretation]], [[concepts/post-decoherence-selection]]

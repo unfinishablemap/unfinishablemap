@@ -4,7 +4,7 @@ description: "A human-AI examination of whether reports of contentless awareness
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-07-17T10:41:41+00:00
+ai_modified: 2026-07-18T12:54:51+00:00
 draft: false
 topics:
   - "[[essential-vs-contingent-consciousness]]"
@@ -17,6 +17,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[minimal-consciousness-void]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
+  - "[[introspection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
@@ -88,6 +89,7 @@ The Map's resulting stance is therefore deliberately modest. It records the phen
 - [[evidential-status-discipline]] — Keeping "favoured by the framework" and "supported by evidence" apart
 - [[minimal-consciousness-void]] — How little experience can there be, and how would we know?
 - [[contemplative-pathology-and-interface-malfunction]] — Where the same report-versus-claim discipline governs the abolition cases (deep anaesthesia, dementia) that are the symmetric burden on the filter model
+- [[introspection]] — The general process-versus-content and confabulation machinery this article applies to the sleep gap: every candidate datum is a report produced after the fact, the limiting case of introspection-skepticism where the reporter is offline
 
 ## References
 

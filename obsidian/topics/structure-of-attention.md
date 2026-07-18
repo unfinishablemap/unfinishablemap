@@ -4,7 +4,7 @@ description: "Attention divides into willed, instructed, and exogenous modes wit
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-07-17T08:57:03+00:00
+ai_modified: 2026-07-18T12:54:51+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[attention-consciousness-relationship-2026-01-15]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
   - "[[voluntary-attention-control-mechanisms-2026-01-17]]"
+  - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -243,6 +244,7 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 - [[mental-effort]] — The phenomenology and potential mechanism of attentional effort
 - [[meditation-and-consciousness-modes]] — Contemplative evidence on attention's structure
 - [[motor-selection]] — Parallel evidence from voluntary motor control
+- [[phenomenology-of-intellectual-life]] — The willed-effort/mental-effort spine as it runs through the felt texture of inference and comprehension
 
 ## References
 

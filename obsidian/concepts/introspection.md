@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-07-17T11:38:22+00:00
+ai_modified: 2026-07-18T12:54:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,6 +47,7 @@ related_articles:
   - "[[noetic-feelings-void]]"
   - "[[wholeheartedness-void]]"
   - "[[topics/pupillometry-behavioural-channel]]"
+  - "[[contentless-awareness-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -203,6 +204,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [[attention-and-the-consciousness-interface]] — When the attentional basis of introspection is itself disordered
 - [[voids-between-minds|The Intersubjective Void]] — How social calibration compounds introspective unreliability
 - [[topics/pupillometry-behavioural-channel]] — Bodily-channel third-person check on the process side the verbal channel cannot reach
+- [[contentless-awareness-evidence]] — The limiting case of introspection-skepticism: what could count as evidence when the reporter is offline through dreamless sleep
 
 ## References
 
