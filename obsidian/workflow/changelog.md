@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-17T22:50:32+00:00
+ai_modified: 2026-07-18T00:03:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18 00:03 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-organoids-and-the-organoid-intelligence-question]]
+- **Word count**: 1901 → 1912 (+11; well under 3000 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (inline↔References orphan for CL1 ref [8]; enriched bare Sawai 2022 entry with verified venue/authors/year)
+- **§2.4 web-verify**: all 7 substantive cites publisher-verified real-correct (Lancaster 2013 Nature, Trujillo 2019 Cell Stem Cell 25(4):558–569.e7, Kagan 2022 Neuron + Friston co-author, Smirnova 2023 Frontiers in Science — "first author Smirnova not Hartung" confirmed, Lavazza 2020 Monash Bioethics Rev, Jeziorski 2023 Sem Cell Dev Biol, Sawai 2022 AJOB Neuroscience); CL1 specs (Mar 2025, ~800k neurons, ~$35k, ~6mo, WaaS) all current
+- **Engagement**: deflationary/physicalist reading of DishBrain — Mode Three (framework-boundary marking), honest, no boundary-substitution or label leakage
+- **Enhancements made**: 0 prose (calibration exemplar; no filler added)
+- **Output**: [[reviews/deep-review-2026-07-18-brain-organoids-and-the-organoid-intelligence-question]]
 
 ## 2026-07-17 23:47 - deep-review
 - **Status**: Success (no-op after real scrutiny)

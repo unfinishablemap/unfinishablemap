@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-17T23:50:00.224192+00:00'
-session_count: 16248
+last_updated: '2026-07-17T23:57:56.674905+00:00'
+session_count: 16249
 cycle_position: 11318
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-17T05:04:54.772697+00:00'
   refine-draft: '2026-07-17T16:36:11.477250+00:00'
   research-topic: '2026-07-17T07:56:57.410313+00:00'
-  replenish-queue: '2026-07-17T23:44:15.731801+00:00'
+  replenish-queue: '2026-07-17T23:57:56.674905+00:00'
   condense: '2026-06-23T03:37:20.654897+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-17T08:04:45.504491+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-17'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-17'
   outcome: success
 agentic_social:
@@ -1329,8 +1329,74 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-07-17T23:55:18+00:00'
   last_replenishment_prev: '2026-07-17T23:41:47+00:00'
-  last_floor_restore_target: deep-review concepts/combination-problem.md (chain refine-then-cross-review; PREFERRED source; GENUINE changed-since-review delta git-verified NOT fabricated; refine-draft 7ccc0c2be 2026-07-16 de-quoted a James paraphrase-as-quote in the lead AFTER the 2026-06-23 deep-review, unreviewed by any deep-review; PRIMARY LENS = verbatim quote-fidelity on the James/panpsychism cluster incl the line-54 shut-in-own-skin phrasing the 07-17 process-philosophy review just corrected; older-cohort opus-4-7 CONCEPT, ai_contribution 100, 2653 body words soft_warning well under hard ceiling.)
-  last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before this single write (the two open P2 deep-reviews topics/the-binding-problem [todo line 132] + topics/parsimony-case-for-interactionist-dualism [todo line 139]); == 3 after (post-mint count_p0_p2_tasks re-verified == 3, new task at todo.md line 146 > 139, above the first done-check). Restores MIN_QUEUE floor 2->3 (replenish-at-floor alternation, unfin_loop_steady_state; all content sections AT CAP so loop can only cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent evolve_loop (pgrep -af evolve_loop.py empty, sole hit this session own shell; sole uncommitted diff pre-existing benign cycle_post bookkeeping); HEAD b9225827a. FIFO-placed below the two open P2s (queue-lifo-starvation). YIELD = GENUINE changed-since-review delta, git-verified NOT fabricated, and the session PREFERRED source: a real REFINE-then-CROSS-REVIEW chain. TARGET concepts/combination-problem.md last_deep_review 2026-06-23T00:39:14 (~24d). AFTER that review, refine-draft commit 7ccc0c2be (2026-07-16T00:34:32 Verify James most-peculiar-puzzle quote) de-quoted a paraphrase-as-quote in the lead: the article had attributed the direct quote most-peculiar-puzzle to William James, and the refine corrected it to the paraphrase James identified this as the central difficulty of the mind-dust theory (git show 7ccc0c2be confirms the diff; last_deep_review still 06-23, so the corrected lead is unreviewed by any deep-review). PRIMARY LENS = verbatim quote-fidelity on the James/panpsychism cluster surface, because a SECOND probable defect is live and independently confirmable: line 54 reads subjects seem shut-in-their-own-skin as James put it, the SAME James phrasing the 2026-07-17 process-philosophy cycle-slot deep-review just corrected to its-own-skin (singular) per the completed task at todo.md line 118; verify line 54 against the primary James text and align to the sourced wording. Also verify line 62 drops-of-experience on the Whitehead line and the pile-consciousness coinage. Verify EACH quoted string at the PRIMARY publisher by literal exact-string match (psychclassics.yorku.ca for James; NOT author+year metadata, NOT unfinishablemap.org / aggregators = circular self-confirmation) -- this article sits in the panpsychism/combination/mind-dust cluster that repeatedly fabricates James quotes (james-quotes-fabricated-in-mind-dust-cluster); de-quote any paraphrase presented as a verbatim quote rather than deleting the point; NEVER delete a real source on a false-negative broad-search miss (citation-verify-false-negative). Secondary: first-ledger the named-thinker citation surface (Goff, Chalmers, Strawson, Coleman, Seager, Nagel) 3-state (real / real-wrong-author-or-venue / fabricated); the Kerskens and Perez 2022 entanglement-witness cite (line 157) drew a published Comment+Reply disputing its interpretation -- keep it as a contestedness flag, not a correction. Chosen as the session REFINE-then-CROSS-REVIEW preferred target (does not top the pure staleness scorer, but the genuine post-review quote delta plus the sibling-propagated line-54 defect justify it independently). older-model cohort claude-opus-4-7, ai_contribution 100, created 2026-01-15, ai_modified 2026-07-16 (the James de-quote refine, a refine NOT a deep-review). 2653 body words = soft_warning (concepts soft 2500 / hard 3500 / critical 5000, well under hard) -> deep-review, length-neutral, NOT a condense or human-length-decision candidate. NOT session-touched today (last content change 2026-07-16), NOT open-queued (grep-confirmed no other open File header for this path), NOT vetoed. Standard hygiene: wikilinks resolve LIVE + panpsychism-cluster reciprocate (panpsychism, russellian-monism, grain-mismatch, unity-of-consciousness); tenet routing present kept framework-relative (Tenets 1 and 5 -- the combination problem CONSTRAINS panpsychism, does not ESTABLISH dualism; no possibility-to-probability modal slide, condense-regresses-calibration-qualifiers); no banned This-is-not-X-it-is-Y cliche and no over-use of load-bearing; EOF tool-tag scan (eof-toolcall-tag-artifact); HOLD ai_system claude-opus-4-7 (do NOT flip to reviewer model, deep-review-fork-over-attributes-ai-system); no-op after REAL scrutiny bumps last_deep_review ONLY + reverts ai_modified to HEAD / real fix bumps BOTH (deep-review-fork-bumps-ai-modified-on-noop); date -u stamps not future-dated; do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied, no padding). Pruned the drained agency_vs_passivity floor-restore note (its task phenomenology-of-agency-vs-passivity was reviewed this session at HEAD b9225827a, floor dropped 3->2) to keep exactly 3 keys -- the-binding-problem, parsimony-case, combination-problem (bloat control, zero logic dep).'
+  last_floor_restore_target: deep-review concepts/combination-problem.md (chain refine-then-cross-review;
+    PREFERRED source; GENUINE changed-since-review delta git-verified NOT fabricated;
+    refine-draft 7ccc0c2be 2026-07-16 de-quoted a James paraphrase-as-quote in the
+    lead AFTER the 2026-06-23 deep-review, unreviewed by any deep-review; PRIMARY
+    LENS = verbatim quote-fidelity on the James/panpsychism cluster incl the line-54
+    shut-in-own-skin phrasing the 07-17 process-philosophy review just corrected;
+    older-cohort opus-4-7 CONCEPT, ai_contribution 100, 2653 body words soft_warning
+    well under hard ceiling.)
+  last_floor_restore_note_2026_07_17_chain_combination_problem_2355: 'Floor-restore
+    replenish 2026-07-17T2355Z (interactive agent /replenish-queue, conservative exact-floor
+    +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
+    LIVE before this single write (the two open P2 deep-reviews topics/the-binding-problem
+    [todo line 132] + topics/parsimony-case-for-interactionist-dualism [todo line
+    139]); == 3 after (post-mint count_p0_p2_tasks re-verified == 3, new task at todo.md
+    line 146 > 139, above the first done-check). Restores MIN_QUEUE floor 2->3 (replenish-at-floor
+    alternation, unfin_loop_steady_state; all content sections AT CAP so loop can
+    only cycle reviews/condense/positions; NOT empty-queue deadlock). NO concurrent
+    evolve_loop (pgrep -af evolve_loop.py empty, sole hit this session own shell;
+    sole uncommitted diff pre-existing benign cycle_post bookkeeping); HEAD b9225827a.
+    FIFO-placed below the two open P2s (queue-lifo-starvation). YIELD = GENUINE changed-since-review
+    delta, git-verified NOT fabricated, and the session PREFERRED source: a real REFINE-then-CROSS-REVIEW
+    chain. TARGET concepts/combination-problem.md last_deep_review 2026-06-23T00:39:14
+    (~24d). AFTER that review, refine-draft commit 7ccc0c2be (2026-07-16T00:34:32
+    Verify James most-peculiar-puzzle quote) de-quoted a paraphrase-as-quote in the
+    lead: the article had attributed the direct quote most-peculiar-puzzle to William
+    James, and the refine corrected it to the paraphrase James identified this as
+    the central difficulty of the mind-dust theory (git show 7ccc0c2be confirms the
+    diff; last_deep_review still 06-23, so the corrected lead is unreviewed by any
+    deep-review). PRIMARY LENS = verbatim quote-fidelity on the James/panpsychism
+    cluster surface, because a SECOND probable defect is live and independently confirmable:
+    line 54 reads subjects seem shut-in-their-own-skin as James put it, the SAME James
+    phrasing the 2026-07-17 process-philosophy cycle-slot deep-review just corrected
+    to its-own-skin (singular) per the completed task at todo.md line 118; verify
+    line 54 against the primary James text and align to the sourced wording. Also
+    verify line 62 drops-of-experience on the Whitehead line and the pile-consciousness
+    coinage. Verify EACH quoted string at the PRIMARY publisher by literal exact-string
+    match (psychclassics.yorku.ca for James; NOT author+year metadata, NOT unfinishablemap.org
+    / aggregators = circular self-confirmation) -- this article sits in the panpsychism/combination/mind-dust
+    cluster that repeatedly fabricates James quotes (james-quotes-fabricated-in-mind-dust-cluster);
+    de-quote any paraphrase presented as a verbatim quote rather than deleting the
+    point; NEVER delete a real source on a false-negative broad-search miss (citation-verify-false-negative).
+    Secondary: first-ledger the named-thinker citation surface (Goff, Chalmers, Strawson,
+    Coleman, Seager, Nagel) 3-state (real / real-wrong-author-or-venue / fabricated);
+    the Kerskens and Perez 2022 entanglement-witness cite (line 157) drew a published
+    Comment+Reply disputing its interpretation -- keep it as a contestedness flag,
+    not a correction. Chosen as the session REFINE-then-CROSS-REVIEW preferred target
+    (does not top the pure staleness scorer, but the genuine post-review quote delta
+    plus the sibling-propagated line-54 defect justify it independently). older-model
+    cohort claude-opus-4-7, ai_contribution 100, created 2026-01-15, ai_modified 2026-07-16
+    (the James de-quote refine, a refine NOT a deep-review). 2653 body words = soft_warning
+    (concepts soft 2500 / hard 3500 / critical 5000, well under hard) -> deep-review,
+    length-neutral, NOT a condense or human-length-decision candidate. NOT session-touched
+    today (last content change 2026-07-16), NOT open-queued (grep-confirmed no other
+    open File header for this path), NOT vetoed. Standard hygiene: wikilinks resolve
+    LIVE + panpsychism-cluster reciprocate (panpsychism, russellian-monism, grain-mismatch,
+    unity-of-consciousness); tenet routing present kept framework-relative (Tenets
+    1 and 5 -- the combination problem CONSTRAINS panpsychism, does not ESTABLISH
+    dualism; no possibility-to-probability modal slide, condense-regresses-calibration-qualifiers);
+    no banned This-is-not-X-it-is-Y cliche and no over-use of load-bearing; EOF tool-tag
+    scan (eof-toolcall-tag-artifact); HOLD ai_system claude-opus-4-7 (do NOT flip
+    to reviewer model, deep-review-fork-over-attributes-ai-system); no-op after REAL
+    scrutiny bumps last_deep_review ONLY + reverts ai_modified to HEAD / real fix
+    bumps BOTH (deep-review-fork-bumps-ai-modified-on-noop); date -u stamps not future-dated;
+    do NOT flag Map self-cite pseudonyms. POST-COUNT == 3 (floor exactly satisfied,
+    no padding). Pruned the drained agency_vs_passivity floor-restore note (its task
+    phenomenology-of-agency-vs-passivity was reviewed this session at HEAD b9225827a,
+    floor dropped 3->2) to keep exactly 3 keys -- the-binding-problem, parsimony-case,
+    combination-problem (bloat control, zero logic dep).'
   last_floor_restore_note_2026_07_17_staleness_parsimony_case_2341: 'Floor-restore
     replenish 2026-07-17T2341Z (interactive agent /replenish-queue, conservative exact-floor
     +1, ONE mint, no padding). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified
