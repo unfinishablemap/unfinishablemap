@@ -4,8 +4,8 @@ description: "Human+AI exploration of why the cognitive filter that selects what
 created: 2026-04-29
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
-last_deep_review: 2026-06-04T21:22:29+00:00
+ai_modified: 2026-07-18T18:40:58+00:00
+last_deep_review: 2026-07-18T18:40:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Independent intellectual traditions have arrived at strikingly similar pictures 
 
 **Vervaeke.** John Vervaeke and colleagues thematise *relevance realization* as a process "present in all organisms, from bacteria to humans" and characterise it as "fundamentally not computational" because "impredicative and co-constructive": the criteria of relevance are reshaped by the same process that applies them. The Map treats the strong non-computability claim as a hypothesis rather than an established result; computability claims of this kind are contested. Bracketed, the framing remains useful: it locates the same phenomenon the AI literature calls the frame problem and argues that consciousness is "enhanced relevance realization" called on for novel, complex, or ill-defined cases.
 
-**Friston and predictive processing.** The predictive-processing literature offers a mechanistic redescription. Friston's free-energy framework treats salience as *precision-weighted prediction error*: what counts as relevant is what violates expectations in suitably weighted ways. Hipólito and Hutto have argued that predictive processing and relevance realization may converge on a single solution to the frame problem. The framework does not dissolve the void — it relocates it. The generative model that sets the priors must come from somewhere, and the model is invisible to consciousness. We experience the prediction errors; we do not experience the precision-weighting.
+**Friston and predictive processing.** The predictive-processing literature offers a mechanistic redescription. Friston's free-energy framework treats salience as *precision-weighted prediction error*: what counts as relevant is what violates expectations in suitably weighted ways. Andersen, Miller, and Vervaeke have argued that predictive processing and relevance realization may converge on a single solution to the frame problem. The framework does not dissolve the void — it relocates it. The generative model that sets the priors must come from somewhere, and the model is invisible to consciousness. We experience the prediction errors; we do not experience the precision-weighting.
 
 **The salience network.** Neuroscientifically, the anterior insula and dorsal anterior cingulate cortex form a salience network that switches between default-mode and central-executive systems and tags events as biologically or cognitively relevant. Dysfunction is associated with schizophrenia, ADHD, and autism — disorders in which relevance fails without becoming introspectively accessible *as* filter failure. Patients experience the wrong things as relevant; they do not experience *the filtering going wrong*.
 
@@ -119,7 +119,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 5. Wheeler, M. (2008). "Cognition in context: Phenomenology, situated robotics and the frame problem." *International Journal of Philosophical Studies*, 16(3), 361–376.
 6. Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full
 7. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127–138. https://www.nature.com/articles/nrn2787
-8. Hipólito, I. & Hutto, D. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
+8. Andersen, B. P., Miller, M., & Vervaeke, J. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
 9. Menon, V. & Uddin, L. Q. (2010). "Saliency, switching, attention and control: a network model of insula function." *Brain Structure and Function*, 214(5–6), 655–667. https://pmc.ncbi.nlm.nih.gov/articles/PMC2899886/
 10. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 11. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Mattering Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mattering-void/

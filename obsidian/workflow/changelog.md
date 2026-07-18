@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T17:38:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T18:40:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/relevance-void]]
+- **Word count**: 2175 → 2183 (+8)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (family-propagated citation fix to 2 sibling files)
+- **Notes**: 3rd review. §2.4 web-verify caught a critical wrong-author citation: ref 8 "Predictive processing and relevance realization…" (PPCS 2022, DOI …09850-6) was cited to "Hipólito & Hutto" but is authored by Andersen, B. P., Miller, M. & Vervaeke, J. (confirmed at Semantic Scholar/PhilPapers/Monash/ResearchGate). Same error class the 2026-06-05 refine fixed in ref 6 (Vervaeke→Jaeger et al.) but missed here. Fixed inline + References. Family resolution: same misattribution corrected in voids/mattering-void.md (ref 7) and research/voids-mattering-void-2026-02-19.md (ref 10); mattering-void `ai_modified` bumped. The "Hipólito" in predictive-self-binding is a different legit ref (2019 Brains Blog symposium) — untouched. Menon & Uddin 2010 re-verified real-correct. Otherwise converged. `ai_system` left at claude-opus-4-7 (citation fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-18-relevance-void]]
+
 ## 2026-07-18T18:18:37+00:00 - deep-review
 - **Status**: Success (no-op convergence)
 - **File**: [[concepts/constitution-vs-causal-work]]

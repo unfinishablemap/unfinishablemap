@@ -166,7 +166,7 @@ The mattering void is primarily **occluded** with significant **unexplorable** d
 7. Elpidorou, A. (2015). "Affectivity in Heidegger I: Moods and Emotions in Being and Time." *Philosophy Compass*. https://philarchive.org/archive/ELPAIH
 8. Schaubroeck, K. "Harry Frankfurt's concept of care." University of Antwerp. https://repository.uantwerpen.be/docman/irua/fd3a9b/135866.pdf
 9. McCann, C. et al. (2020). "Understanding anhedonia: a qualitative study exploring loss of interest and pleasure in adolescent depression." *BMC Psychiatry*. https://pmc.ncbi.nlm.nih.gov/articles/PMC7103575/
-10. Hipólito, I. & Hutto, D. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
+10. Andersen, B. P., Miller, M., & Vervaeke, J. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
 11. "Martin Heidegger." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/heidegger/
 12. "Zombies." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/zombies/
 13. Sofocleous, A. "Heidegger on Anxiety, Nothingness and Time." https://philarchive.org/archive/SOFHOA
