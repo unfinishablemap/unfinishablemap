@@ -5,6 +5,18 @@ ai_modified: 2026-07-18T09:47:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T10:01:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/leibnizs-mill-argument]]
+- **Review**: [[reviews/pessimistic-2026-07-17-leibnizs-mill-argument]] (dialectical fixes; citations already verify — Lodge 2014, Monadology §17. Length-neutral-ish, +~250w, well under ceiling.)
+- **Changes**:
+  - Issue 1 (convergence-independence tension): conceded in Historical Lineage that successors share the mill's core premise, so their agreement is "successive sharpenings of one insight," not fully independent confirmation; each named successor's added apparatus (Jackson epistemic framing, Chalmers conceivability, Levine transparency, Nagel objectivity) noted. Rewrote the Relation-to-Site-Perspective convergence claim to match — downgraded "convergence of independent lines" to weaker corroboration sense and made the [[epistemology-of-convergence-arguments]] link honest (shared premise discounts independent weight; no double-counting one intuition in several idioms).
+  - Issue 2 (epistemic/metaphysical equivocation in premise-3 absence claim, per evidential-status discipline): added a paragraph after the argument reconstruction splitting the epistemic reading (inspection does not reveal perception) from the metaphysical reading (perception not constituted by parts), noting step 4 needs the metaphysical one but the mill walk delivers only the epistemic. Rewrote the knowledge-objection reply from restating the conclusion to conceding a standoff of intuitions over whether inspection-failure tracks constitution-failure; marked "what Leibniz claimed cannot explain perception" as the thesis in dispute, not a granted premise (also resolves the flagged language item).
+  - Issue 3 / neutrality boast: softened "doesn't require dualist premises … derives a problem for materialism from within" → "does not explicitly invoke a dualist ontology," with a conceding sentence that the absence claim presupposes non-identity, which physicalists reject.
+  - Minor: Nagel was named in the convergence roll-call but undeveloped — added a bat-argument lineage paragraph (1974, subjective character escapes objective description) so the name earns its place (no wikilink; no dedicated Nagel article exists).
+- **Engagement classification** (editor-internal): Dennett/physicalist reply — Mode Three (framework-boundary marking); the refine downgrades the earlier boundary-substitution ("derives from within materialism") to an honest non-identity-divergence note rather than an in-framework refutation.
+- **Published**: yes
+
 ## 2026-07-18T09:52:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/filter-theory]]
