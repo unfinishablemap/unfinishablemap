@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T21:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T22:06:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-specificity-of-mental-causation]]
+- **Word count**: 2114 → 2114 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; eighth review — only cosmetic cross-link deltas since the thorough 2026-06-26 web-verify pass)
+- **Web-verify**: §2.4 skipped legitimately — References block byte-identical since 2026-06-26; all ten cites already publisher-of-record verified clean. Three post-review cross-links (attention-as-interface, predictive-processing-and-dualism, teleosemantics) confirmed resolving. No body edits; advanced last_deep_review only, ai_modified left at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-18-content-specificity-of-mental-causation]]
+
 ## 2026-07-18T21:54:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/egocentric-presentism]]
