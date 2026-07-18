@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-21T00:00:00+00:00
+ai_modified: 2026-07-18T19:32:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ last_deep_review: 2026-06-20T00:00:00+00:00
 
 Epistemic emotions are feelings directed at knowledge itself—curiosity about what we don't know, certainty about what we think we know, doubt when beliefs falter, confusion when understanding fails, and the distinctive satisfaction of insight. These emotions evaluate our own cognitive states: they are consciousness monitoring its relationship to truth. Unlike emotions directed at the external world (fear of a threat, joy at good news), epistemic emotions concern our position as knowers.
 
-The phenomenology of epistemic emotions presents a challenge to functionalist accounts of mind. These feelings do causal work—curiosity drives inquiry, doubt triggers re-evaluation, the "feeling of knowing" guides memory retrieval—yet they have irreducible qualitative character. The sting of confusion differs phenomenally from the warmth of understanding, and this difference resists capture in purely functional terms.
+The phenomenology of epistemic emotions presents a challenge to functionalist accounts of mind. These feelings do causal work—curiosity drives inquiry, doubt triggers re-evaluation, the "feeling of knowing" guides memory retrieval—yet they *appear* to have qualitative character that resists purely functional description. The sting of confusion differs phenomenally from the warmth of understanding; the functionalist must either capture that difference or explain the appearance away. The Map argues the appearance is veridical, but the argument has to be earned rather than assumed.
 
 ## The Core Epistemic Emotions
 
@@ -58,9 +58,9 @@ Descartes made methodological doubt the foundation of philosophy, seeking belief
 
 Certainty is the phenomenal quality of confidence—the sense that a belief is correct. It operates across perceptual, inferential, and memory domains, each with distinct character though all share the felt sense of "being right."
 
-The "feeling of knowing" (FOK) demonstrates certainty's phenomenal reality most clearly. In FOK states, you feel certain you know something even when you cannot currently retrieve it. "I know I know this" has phenomenal character that accurately predicts future retrieval success—the feeling isn't merely functional but has qualitative character distinguishable from both uncertainty and active recall.
+The "feeling of knowing" (FOK) illustrates certainty's phenomenal profile most clearly. In FOK states, you feel certain you know something even when you cannot currently retrieve it. "I know I know this" is introspectively discriminable from both uncertainty and active recall, and accurately predicts future retrieval success. This establishes that the monitoring state is *functionally and introspectively* distinct—a fact the illusionist grants freely. Whether that distinctness reaches non-functional qualitative character is a further step, argued below rather than read off the dissociation.
 
-The tip-of-the-tongue (TOT) state combines certainty and failure: certain that you know the word, yet unable to produce it. This dissociation proves that the feeling of knowing is not identical to having knowledge—it is metacognitive monitoring with its own phenomenology.
+The tip-of-the-tongue (TOT) state combines certainty and failure: certain that you know the word, yet unable to produce it. This dissociation shows that the feeling of knowing is not identical to having knowledge—it is metacognitive monitoring with its own phenomenology. That much no functionalist disputes; the contested question is whether the phenomenology is exhausted by the monitoring function.
 
 ### Confusion: The Limits of Understanding
 
@@ -76,7 +76,7 @@ Predictive processing frameworks interpret surprise as the phenomenal correlate 
 
 ### Insight: The Aha Moment
 
-Insight—the "aha" experience—arrives suddenly with distinctive features: the solution appears whole, feels correct immediately (surprise coupled with certainty), is intrinsically pleasurable, and seems to come from "somewhere else." Kounios and Beeman's research identifies gamma-band activity in the right temporal lobe, distinct from analytical reasoning—yet the result appears in consciousness with distinctive phenomenal character. The [[phenomenology-of-intellectual-life]] provides detailed analysis of insight's three modes: the sudden click, the gradual warmth of grasping, and the illumination of the aha moment.
+Insight—the "aha" experience—arrives suddenly with distinctive features: the solution appears whole, feels correct immediately (surprise coupled with certainty), is intrinsically pleasurable, and seems to come from "somewhere else." Kounios and Beeman's research identifies a gamma burst over the right anterior superior temporal gyrus roughly 300 ms before the solution reaches awareness, distinct from analytical reasoning—yet the result appears in consciousness with distinctive phenomenal character. The [[phenomenology-of-intellectual-life]] provides detailed analysis of insight's three modes: the sudden click, the gradual warmth of grasping, and the illumination of the aha moment.
 
 For the Map's framework, insight is significant. If consciousness participates in neural selection, insight may represent consciousness recognising and selecting a solution that unconscious processing has prepared. The "aha" quality may be the subjective correlate of this selection event.
 
@@ -84,7 +84,7 @@ For the Map's framework, insight is significant. If consciousness participates i
 
 Epistemic emotions are [[metacognition|metacognitive]]—they concern cognitive states rather than the world directly. This creates a layered structure: first-order beliefs, second-order monitoring of those beliefs, and third-order affective responses to the monitoring (curiosity about gaps, discomfort at uncertainty). The redness of red is first-order; the feeling of certainty that you see red concerns your cognitive relationship to the percept.
 
-The layers dissociate. Blindsight patients perceive without metacognitive access; high confidence can accompany false beliefs (the Dunning-Kruger structure). Epistemic emotions track metacognitive monitoring, not first-order states directly.
+The layers dissociate. Blindsight patients perceive without metacognitive access; high confidence can accompany false beliefs (the Dunning-Kruger pattern, though its statistical basis is contested on regression-to-the-mean and autocorrelation grounds; Kruger & Dunning 1999). Epistemic emotions track metacognitive monitoring, not first-order states directly.
 
 ## The Phenomenal Reality of Epistemic Emotions
 
@@ -120,13 +120,13 @@ Contemplative traditions describe epistemic emotions with precision, having deve
 
 **[[witness-consciousness|Witness consciousness]]** observes epistemic emotions without identification: noticing curiosity arising without being curious. This reveals epistemic emotions as mental events rather than properties of the world.
 
-These contemplative reports suggest epistemic emotions have richer structure than casual introspection reveals, consistent with the claim that introspective reliability improves with practice.
+These contemplative reports suggest epistemic emotions have richer structure than casual introspection reveals. Whether training improves introspective *reliability* is contested: Schwitzgebel (2024) argues introspection is broadly unreliable and doubts that practice corrects it. This evidence base is therefore not neutral ground—it presupposes an introspective authority that illusionism disputes, and the Map should lean on it accordingly.
 
 ## Relation to Site Perspective
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism]] tenet receives direct support from epistemic emotions. These states have irreducible qualitative character—there is something it is like to be curious, to doubt, to understand. This phenomenology resists capture in purely functional terms. A complete functional specification of curiosity (information-seeking behaviour triggered by novelty, modulated by potential reward) leaves out the *feeling* of wanting to know.
+The [[tenets#^dualism|Dualism]] tenet draws support from epistemic emotions—support that must be argued for, not assumed. These states *appear* to have qualitative character: there is something it is like to be curious, to doubt, to understand. The functionalist denies that this appearance outruns function, holding that a complete functional specification of curiosity (information-seeking behaviour triggered by novelty, modulated by potential reward) captures everything real about it. The Map's claim is that such a specification leaves out the *feeling* of wanting to know—but this is the conclusion the appearance presses toward, not a premise the functionalist grants.
 
 The tip-of-the-tongue state exemplifies the gap. Functionally, it is a retrieval state where partial activation fails to reach threshold. Phenomenologically, it involves distinctive qualitative character—the frustrating sense of almost-having that no functional description captures. The existence of such states supports the claim that consciousness is not reducible to function.
 
@@ -158,7 +158,7 @@ Several findings would weaken the claim that epistemic emotions have irreducible
 
 **1. Perfect functional reduction.** A complete neuroscientific account that predicted all behaviour, all verbal reports, and all introspective judgments while showing why these exhaust the phenomenon. Currently, functional accounts specify what epistemic emotions *do* without capturing what they *are like*.
 
-**2. Trained introspectors report absence.** If experienced meditators consistently reported no phenomenal character beyond accompanying sensory states. Currently, contemplative reports affirm distinctive epistemic phenomenology.
+**2. Trained introspectors report absence.** If experienced meditators consistently reported no phenomenal character beyond accompanying sensory states. Currently, contemplative reports affirm distinctive epistemic phenomenology—though this falsifier treats trained introspection as authoritative, an authority Schwitzgebel (2024) contests, so it carries weight only for those who grant introspective reliability in the first place.
 
 **3. Dissociation of function and phenomenology.** Patients who behave as if curious without feeling curiosity would question the causal role of phenomenology. Current evidence suggests felt quality is integrated with function.
 
@@ -186,6 +186,8 @@ None of these conditions currently obtains.
 
 1. Arango-Muñoz, S. (2014). The nature of epistemic feelings. *Philosophical Psychology*, 27(2), 193-211.
 1. De Sousa, R. (2009). Epistemic feelings. *Mind and Matter*, 7(2), 139-161.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 1. Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
 1. Morton, A. (2010). Epistemic emotions. *The Oxford Handbook of Philosophy of Emotion*, 385-399.
 1. Meylan, A. (2014). Epistemic emotions: A natural kind? *Philosophical Inquiries*, 2(1), 173-190.

@@ -5,6 +5,13 @@ ai_modified: 2026-07-18T19:17:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T19:32:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epistemic-emotions]]
+- **Original score**: n/a (pessimistic-review driven, not curate-scored)
+- **Changes**: Addressed all 5 findings of pessimistic-2026-07-18-epistemic-emotions. (1) HIGH question-begging: reframed anti-functionalist conclusion as appearance/prima-facie in lead + Dualism section, stated functionalist denial before drawing the conclusion. (2) epistemic→metaphysical equivocation in Certainty section: split functional/introspective distinctness (which illusionism grants) from the further step to non-functional qualia, softened "proves"→"shows". (3) Schwitzgebel tension: hedged introspective-reliability claim (line ~123) and falsification item 2 to acknowledge Schwitzgebel 2024's unreliability thesis and the non-neutral evidence base. (4) added Frankish (2016) and Kruger & Dunning (1999) to References; hedged Dunning-Kruger as statistically contested. (5) tightened insight locus to right anterior superior temporal gyrus, ~300 ms pre-solution. Length-neutral. Engagement with the functionalist/illusionist: Mode Two (unsupported foundational move) opening into Mode Three boundary-marking — the reframe now names the appearance→irreducibility step as owed argument rather than assuming it; no mode labels in body.
+- **Published**: yes
+
 ## 2026-07-18T19:17:24+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/epistemic-emotions.md (~4-week-stale, never focus of a pessimistic pass)
