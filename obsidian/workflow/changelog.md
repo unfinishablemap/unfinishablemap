@@ -5,6 +5,14 @@ ai_modified: 2026-07-18T22:21:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T22:45:18+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/ai-as-introspection-control]]
+- **Changed sources**: 2 substantive (machine-question, anti-correlation-probes-for-ai-consciousness) of 6 flagged
+- **Word count**: ~3400 → 3968 (narrative prose)
+- **Notes**: Auto-selected stalest apex (baseline 2026-06-05). Integrated Birch's gaming problem (gameable-vs-ungameable affordance sorting) and J-space / Gurnee et al. 2026 (a realised control affordance; authors decline phenomenal verdicts) into the first falsifier. Installed the required Evidence-and-Dependency section (retrofit). Added refs 1 & 3, renumbered 1–11; added gaming-problem + deep-computational-markers cross-links. Trimmed one redundant tier-restatement. ai_system left at opus-4-7 (integration, not re-authoring).
+- **Review**: [[reviews/apex-evolve-2026-07-18-ai-as-introspection-control]]
+
 ## 2026-07-18T22:33:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-as-perceptual-architect]]
