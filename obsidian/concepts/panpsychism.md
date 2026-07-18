@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-15T22:18:32+00:00
+ai_modified: 2026-07-18T01:32:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-07-15T22:18:32+00:00
+last_deep_review: 2026-07-18T01:32:15+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -82,7 +82,7 @@ Panprotopsychism faces a potential "revenge" problem: if protophenomenal propert
 
 ## The Combination Problem
 
-But panpsychism faces its own challenge: if electrons have micro-experiences, how do they combine into unified human consciousness? This is the [[combination-problem|combination problem]]. William James called this "the most peculiar puzzle" of panpsychism. Conscious states seem "shut in their own skin"—my experience can't merge with yours to form a third experience. Why should electron-experiences combine into brain-experiences?
+But panpsychism faces its own challenge: if electrons have micro-experiences, how do they combine into unified human consciousness? This is the [[combination-problem|combination problem]]. William James pressed this combination difficulty as the central obstacle to the mind-dust theory in 1890. Each conscious state seems "shut in its own skin"—my experience can't merge with yours to form a third experience. Why should electron-experiences combine into brain-experiences?
 
 The combination problem has several variants:
 

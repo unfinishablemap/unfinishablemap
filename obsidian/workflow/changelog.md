@@ -5,6 +5,13 @@ ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 01:32 - refine-draft
+- **Status**: Success (2 James verbatim-quote fixes; mind-dust cluster)
+- **File**: [[concepts/panpsychism]]
+- **Original score**: n/a (targeted verify-job)
+- **Changes**: Line 85, two defects. (1) De-quoted FABRICATED verbatim "the most peculiar puzzle" — James does not use that phrase in the Mind-Stuff Theory chapter (already de-quoted in combination-problem, unity-of-consciousness, manyism); substance retained as attributed paraphrase: "William James pressed this combination difficulty as the central obstacle to the mind-dust theory in 1890." (2) Fixed pluralized pronoun corruption "Conscious states seem 'shut in their own skin'" → "Each conscious state seems 'shut in its own skin'", aligning to James's SINGULAR "shut in its own skin, windowless" (Principles 1890, "The Mind-Stuff Theory", p.160; referent = each feeling). No "101st"/"hundred-and-first feeling" numeral present. Framework-relative discipline preserved (combination problem CONSTRAINS panpsychism, does not establish dualism). Length-neutral. ai_system held at claude-opus-4-7 (correcting, not re-authoring); both ai_modified + last_deep_review bumped.
+- **Published**: yes
+
 ## 2026-07-18 01:16 - refine-draft
 - **Status**: Success (1 James verbatim-quote fix; targeted cluster propagation)
 - **File**: [[concepts/manyism]]
