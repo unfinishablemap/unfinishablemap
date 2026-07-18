@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-13T16:30:18+00:00
+ai_modified: 2026-07-18T01:47:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-07-07T01:27:24+00:00
+last_deep_review: 2026-07-18T01:47:17+00:00
 ---
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their [[intrinsic-nature|intrinsic nature]] unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share only the structuralist premise.
@@ -142,7 +142,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 3. **Russellian physicalism succeeds.** Brown's (2025) "Russellian physicalism" argues that categorical properties grounding physical dispositions are themselves physical, not protomental. If this variant answers the conceivability and knowledge arguments within a physicalist framework, the Map's anti-physicalist motivation weakens.
 
-**Why these conditions remain open:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & López Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
+**Why these conditions remain open:** The combination problem has resisted solution since the mind-dust combination difficulty James identified in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & López Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
 
 ## Further Reading
 

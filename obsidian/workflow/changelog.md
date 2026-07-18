@@ -5,6 +5,13 @@ ai_modified: 2026-07-18T00:46:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18 01:47 - refine-draft
+- **Status**: Success (1 James verbatim-quote fix; mind-dust cluster — LAST member)
+- **File**: [[concepts/russellian-monism]]
+- **Original score**: n/a (targeted verify-job)
+- **Changes**: Line 145, one defect. De-quoted FABRICATED verbatim "most peculiar puzzle" — exact-string search at PRIMARY publisher (psychclassics.yorku.ca prin6.htm, "The Mind-Stuff Theory") confirmed ABSENT this session; same fabrication already de-quoted in combination-problem, unity-of-consciousness, panpsychism. Substance retained as attributed paraphrase: "the combination problem has resisted solution since the mind-dust combination difficulty James identified in 1890" (combination problem IS genuinely James's; only the quotation was fabricated). Grep-confirmed the other cluster strings ("shut in their own skin"/"own skin", "101st"/"hundred-and-first feeling") are ABSENT from this file — no lurking defects. Framework-relative discipline preserved (combination problem CONSTRAINS Russellian monism/panpsychism, does not establish dualism). Kerskens/Warren/Khan decoherence-calibration hedges untouched (load-bearing). Length-neutral. ai_system held at claude-opus-4-8 (correcting, not re-authoring); both ai_modified + last_deep_review bumped.
+- **Published**: yes
+
 ## 2026-07-18 01:32 - refine-draft
 - **Status**: Success (2 James verbatim-quote fixes; mind-dust cluster)
 - **File**: [[concepts/panpsychism]]
