@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T13:41:38.767108+00:00'
-session_count: 16375
-cycle_position: 11377
+last_updated: '2026-07-18T13:43:39.945147+00:00'
+session_count: 16376
+cycle_position: 11378
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T10:21:02.097101+00:00'
@@ -1315,9 +1315,26 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T13:34:19+00:00'
-  last_replenishment_prev: '2026-07-18T13:27:27+00:00'
-  last_floor_restore_target: 'promote P3 to P2 topics/empirical-phenomena-mental-causation.md
+  last_replenishment: '2026-07-18T13:48:00+00:00'
+  last_replenishment_prev: '2026-07-18T13:34:19+00:00'
+  last_floor_restore_target: 'mint P2 deep-review topics/consciousness-and-neurodegenerative-disease.md
+    (interactive /replenish-queue 2026-07-18T13:48, conservative exact-floor +1, ONE
+    mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
+    (open P2s: measurement-problem Consistent-Histories verify + hylomorphic-dualism
+    13:04 floor-restore); == 3 after (re-verified live). Prior 13:34 Kim-exclusion promotion
+    drained by a cycle slot. Source used = staleness / owed-web-verify seam: scorer #2
+    (16.8), opus-4-6 older cohort, ai_contribution 100, 22d stale, ~55 clinical/empirical
+    refs, NO standalone review file + NO outer-review coverage -> citation surface never
+    independently web-verified; content itself converged (only delta since 06-26 review
+    is one cosmetic wikilink 07-07, cross-link-delta trap). Other sources non-generative:
+    topics 320/320 + concepts 320/320 + voids 100/100 AT CAP (expand+research chains
+    blocked); task_chains empty; positions 8/80 < 10 audit threshold (audited 2026-07-16);
+    orphaned_files 0; the two genuinely-critical length offenders (phenomenal-output-causal-machinery-dissociation,
+    epistemology-of-convergence-arguments) already veto / human-deferred, rest steady-state
+    flagships. NO concurrent evolve_loop.py (pgrep empty). Replenish-at-floor alternation
+    (unfin_loop_steady_state), not a deadlock. Pruned the 12:51 stale floor-restore note
+    to hold state-note count at ~3.'
+  last_floor_restore_target_superseded_2026_07_18_1334: 'promote P3 to P2 topics/empirical-phenomena-mental-causation.md
     Kim-exclusion cross-link refine-draft (interactive /replenish-queue 2026-07-18T13:34,
     exact-floor, ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
     == 2 verified LIVE before the promotion (the two open P2 floor-holder deep-reviews:
@@ -1366,27 +1383,6 @@ queue_status:
     empty). Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.
     Pruned 4 stale floor-restore notes (1224, 2355, 0345, 0020) to curb state-note
     bloat.'
-  last_floor_restore_target_superseded_2026_07_18_1251: 'promote P3 to P2 the phenomenology
-    / first-person-methods cross-link refine-draft (L59; interactive /replenish-queue
-    2026-07-18T12:51, exact-floor, ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
-    == 2 verified LIVE before the promotion (the two open P2 no-op floor-holder deep-reviews
-    pain-consciousness-and-causal-power quote-fidelity + measurement-problem Consistent-Histories
-    verify); == 3 after (re-verified live via a replace-simulation). The 12:43 consistent-histories
-    cross-link promotion was consumed by a cycle slot (HEAD advanced 90be3d36f→a9cdacde8),
-    dropping the floor back to 2. Restored by promoting the topmost of the three remaining
-    unblocked 2026-07-17 optimistic-review cross-link refine tasks (L59 phenomenology/first-person-methods:
-    3 reciprocal/missing links contentless-awareness-evidence↔introspection + structure-of-attention↔phenomenology-of-intellectual-life;
-    all link-only, length-neutral, grep-verified absent at generation) rather than
-    minting a no-op deep-review/condense — these link-only P3s are the ones the loop
-    P0-P2 picker never reaches (queue-lifo-starvation). L66 direction-of-fit + L74
-    empirical-phenomena-mental-causation remain queued for the next two floor drains.
-    Other 8 sources non-generative: topics 320/320 + concepts 320/320 + voids 100/100
-    all AT CAP so expand+research chains blocked; task_chains empty, recent_tasks
-    ZERO research/expand/cross-review; positions 8/80 < 10 audit threshold + audited
-    2026-07-16 (<30d); orphaned_files 0; length offenders all veto/human-deferred/near-ceiling
-    steady-state; no applied-apex gap. NO concurrent evolve_loop.py (pgrep empty);
-    tree clean except this session''s todo/state edits; HEAD a9cdacde8. Replenish-at-floor
-    alternation (unfin_loop_steady_state), not a deadlock.'
   replenishment_source_counts:
     chain: 1
   run_739_pickable_p0_p2: 3
