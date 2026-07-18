@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T12:35:35.237149+00:00'
-session_count: 16359
-cycle_position: 11372
+last_updated: '2026-07-18T12:39:24.534438+00:00'
+session_count: 16360
+cycle_position: 11373
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T10:21:02.097101+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-18T02:20:27.111299+00:00'
   commission-claude-review: '2026-07-18T03:15:04.033243+00:00'
   commission-gemini-review: '2026-07-18T04:20:22.796005+00:00'
-  refine-draft: '2026-07-18T11:53:38.439134+00:00'
+  refine-draft: '2026-07-18T12:39:24.534438+00:00'
   research-topic: '2026-07-18T11:36:41.976748+00:00'
   replenish-queue: '2026-07-18T12:25:52.995794+00:00'
   condense: '2026-07-18T12:14:07.840167+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-18'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1315,9 +1315,28 @@ queue_status:
   p3_tasks: 13
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T12:24:33+00:00'
-  last_replenishment_prev: '2026-07-18T11:58:47+00:00'
-  last_floor_restore_target: 'promote P3 to P2 concepts/meditation-and-consciousness-modes.md
+  last_replenishment: '2026-07-18T12:43:49+00:00'
+  last_replenishment_prev: '2026-07-18T12:24:33+00:00'
+  last_floor_restore_target: 'promote P3 to P2 concepts/consistent-histories-interpretation.md
+    reciprocal cross-link ↔ post-decoherence-selection (interactive /replenish-queue
+    2026-07-18T12:43, exact-floor, ZERO mints). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks
+    == 2 verified LIVE via tools.evolution.task_selector before the promotion (open
+    P2s the two expected-no-op floor-holder deep-reviews pain-consciousness-and-causal-power
+    quote-fidelity + measurement-problem Consistent-Histories verify); == 3 after
+    (re-verified live). The 12:24 meditation-and-consciousness-modes promotion was
+    consumed by a cycle slot (commit 90be3d36f refine-draft) dropping the floor back
+    to 2. Restored by promoting the oldest genuine actionable P3 rather than minting
+    a no-op deep-review/condense: this + 3 sibling 2026-07-17 optimistic-review cross-link
+    tasks are the only unblocked P3s (length-neutral link-only integration the loop''s
+    P0-P2 picker never reaches, queue-lifo-starvation). Other 8 sources non-generative:
+    topics 320/320 + concepts 320/320 + voids 100/100 all AT CAP so expand+research
+    chains blocked; task_chains empty, recent_tasks ZERO research/expand/cross-review;
+    positions 8/80 < 10 audit threshold + audited 2026-07-16 (<30d); orphaned_files
+    0; length offenders all veto / human-deferred / near-ceiling steady-state, transit-void
+    condense already consumed since 11:58; no applied-apex gap. NO concurrent evolve_loop
+    (pgrep empty); tree clean except this session''s todo/state edits; HEAD 90be3d36f.
+    Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock.'
+  last_floor_restore_target_superseded_2026_07_18_1224: 'promote P3 to P2 concepts/meditation-and-consciousness-modes.md
     refine-draft (interactive /replenish-queue 2026-07-18T12:24, exact-floor, ZERO
     mints). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE via tools.evolution.task_selector
     before the promotion (open P2s the two expected-no-op floor-holder deep-reviews
