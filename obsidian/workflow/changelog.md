@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T16:33:11+00:00
+ai_modified: 2026-07-18T16:36:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18T16:36:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/articulability-of-q1]]
+- **Word count**: 2785 → 2785 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Notes**: Converged article, byte-unchanged since the 2026-06-03 same-day deep review (`ai_modified` == `last_deep_review`); argument-forced pick, not a scored selection. One fidelity edit: "in Saad's words, only unobservable violations…" → "on Saad's account, …" — removed a verbatim-implying frame on an unquoted paraphrase (same defect-class the prior review fixed at line 38). §2.4 web-verify skipped per trigger (References unmodified; prior review carries full publisher-of-record ledger). Internal-quote channel re-verified against trumping-preemption.md (both quoted strings match line 62 verbatim; #costs-of-the-template anchor resolves). No calibration slippage, no bedrock re-flagging. Second prior deep-review — heavy convergence damping applies henceforth.
+- **Output**: [[reviews/deep-review-2026-07-18-articulability-of-q1]]
 
 ## 2026-07-18T16:33:11+00:00 - deep-review
 - **Status**: Success
