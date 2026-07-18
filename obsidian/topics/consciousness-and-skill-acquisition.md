@@ -64,7 +64,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-27T01:48:24+00:00
+last_deep_review: 2026-07-18T11:18:29+00:00
 coalesced_from:
   - "/topics/consciousness-and-skilled-performance/"
   - "/topics/consciousness-and-the-neuroscience-of-deliberate-practice/"
