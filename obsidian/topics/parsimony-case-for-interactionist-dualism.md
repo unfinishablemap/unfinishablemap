@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-06-20T16:11:57+00:00
+last_deep_review: 2026-07-18T00:35:17+00:00
 ---
 
 The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes a stronger, *dialectical* claim — one addressed to the physicalist who still trusts parsimony here. Granting that trust for the sake of argument, when all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] is at least as parsimonious as physicalism, and on two of three dimensions arguably more so.

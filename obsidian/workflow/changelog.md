@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T00:08:00+00:00
+ai_modified: 2026-07-18T00:35:17+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-18 00:35 - deep-review
+- **Status**: Success (no-op — refine→cross-review verification; Lycan fix CONFIRMED verbatim-correct)
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Word count**: 3642 → 3642 (0; length-neutral, under 4000 topics ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Primary lens**: verified the 2026-07-16 refine (db22e5c21) corrected the Lycan (2009) word-inside-quote defect onto TRUE verbatim. Exact string `As before, there is no evidence against that view; it only offends parsimony.` confirmed at primary source (newdualism.org AJP text, appears twice); "a very posterior reason" verbatim. Refine correctly de-quoted the paraphrased antecedent "dualism" and restored verbatim "that view" — NO new corruption ("fix that corrupts" pattern did not occur)
+- **§2.4 web-verify**: targeted — only the Lycan line changed since the 06-20 full ledger; two touched quotes re-verified INDEPENDENTLY at publisher (not unfinishablemap.org, not aggregators); Smart "severely criticized" = general characterisation (real-correct, unchanged); Churchland concession still carries 06-20 corrected non-quoted form; all other cites carried real-correct
+- **Stamps**: last_deep_review bumped 2026-07-18T00:35:17+00:00; ai_modified held at HEAD (refine's 2026-07-16T01:25:08); ai_system held (claude-opus-4-7)
+- **Output**: [[reviews/deep-review-2026-07-18-parsimony-case-for-interactionist-dualism]]
 
 ## 2026-07-18 00:08 - deep-review
 - **Status**: Success (no-op — convergence-confirmation floor-holder)
