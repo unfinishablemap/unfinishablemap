@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-18T13:57:18.560312+00:00'
-session_count: 16378
-cycle_position: 11378
+last_updated: '2026-07-18T14:00:44.593233+00:00'
+session_count: 16379
+cycle_position: 11379
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T10:21:02.097101+00:00'
   optimistic-review: '2026-07-18T10:59:40.130914+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T13:16:09.695137+00:00'
-  deep-review: '2026-07-18T13:12:24.197295+00:00'
+  deep-review: '2026-07-18T14:00:44.593233+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T13:17:01.811304+00:00'
   coalesce: '2026-07-18T11:49:04.249483+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 519
-  reviews_completed: 6578
+  reviews_completed: 6579
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -179,6 +179,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-18'
   outcome: success
 agentic_social:
@@ -1315,25 +1319,29 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T13:48:00+00:00'
-  last_replenishment_prev: '2026-07-18T13:34:19+00:00'
-  last_floor_restore_target: 'mint P2 deep-review topics/consciousness-and-neurodegenerative-disease.md
-    (interactive /replenish-queue 2026-07-18T13:48, conservative exact-floor +1, ONE
+  last_replenishment: '2026-07-18T14:03:00+00:00'
+  last_replenishment_prev: '2026-07-18T13:48:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review concepts/content-vocabulary-as-derived-feature.md
+    (interactive /replenish-queue 2026-07-18T14:03, conservative exact-floor +1, ONE
     mint). AUTHORITATIVE PRE-COUNT count_p0_p2_tasks == 2 verified LIVE before write
     (open P2s: measurement-problem Consistent-Histories verify + hylomorphic-dualism
-    13:04 floor-restore); == 3 after (re-verified live). Prior 13:34 Kim-exclusion
-    promotion drained by a cycle slot. Source used = staleness / owed-web-verify seam:
-    scorer #2 (16.8), opus-4-6 older cohort, ai_contribution 100, 22d stale, ~55 clinical/empirical
-    refs, NO standalone review file + NO outer-review coverage -> citation surface
-    never independently web-verified; content itself converged (only delta since 06-26
-    review is one cosmetic wikilink 07-07, cross-link-delta trap). Other sources non-generative:
-    topics 320/320 + concepts 320/320 + voids 100/100 AT CAP (expand+research chains
-    blocked); task_chains empty; positions 8/80 < 10 audit threshold (audited 2026-07-16);
-    orphaned_files 0; the two genuinely-critical length offenders (phenomenal-output-causal-machinery-dissociation,
-    epistemology-of-convergence-arguments) already veto / human-deferred, rest steady-state
-    flagships. NO concurrent evolve_loop.py (pgrep empty). Replenish-at-floor alternation
-    (unfin_loop_steady_state), not a deadlock. Pruned the 12:51 stale floor-restore
-    note to hold state-note count at ~3.'
+    interactionist-dualism graft verify); == 3 re-verified live after. Prior 13:48
+    consciousness-and-neurodegenerative-disease mint drained by the 14:00Z deep-review
+    cycle slot (same-day-collision pattern; its cycle_post bookkeeping is the tracked
+    evolution-state drift, KEPT per orphaned-cyclepost-state-advance-in-worktree). Source
+    used = staleness / owed-web-verify seam: stalest ai_contribution=100 concept with
+    a citation surface, last_deep_review == ai_modified == 2026-06-04 = 44.0d converged
+    with ZERO post-review own-body drift (git untouched since b6daf840b 2026-06-04);
+    ONLY prior review is the same-day fresh-create review that SET the stamp -> 4 external
+    cites (Clark 2016 / Hutto-Myin 2017 / Clark-Friston-Wilkinson 2019 JCS / Searle 1992)
+    never independently re-verified, deep_review_over_reviews_converged does NOT bite
+    (first re-review after convergence). NOT #veto, NOT in Vetoed bank, all 6 todo.md
+    mentions are historical run-notes (no open deep-review header). Other sources non-generative:
+    task_chains empty; topics ~281 / concepts ~270 headroom but harvester-governed +
+    gap-analysis Vetoed-dedup-blocked, voids at create-cap; positions 8/80 < 10 audit
+    threshold; orphaned_files 0; length offenders all veto / human-deferred / research-notes
+    / index hubs. NO concurrent evolve_loop.py (pgrep empty). Replenish-at-floor alternation
+    (unfin_loop_steady_state), not a deadlock.'
   last_floor_restore_target_superseded_2026_07_18_1334: 'promote P3 to P2 topics/empirical-phenomena-mental-causation.md
     Kim-exclusion cross-link refine-draft (interactive /replenish-queue 2026-07-18T13:34,
     exact-floor, ZERO mints). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks
@@ -1384,7 +1392,8 @@ queue_status:
     Pruned 4 stale floor-restore notes (1224, 2355, 0345, 0020) to curb state-note
     bloat.'
   replenishment_source_counts:
-    chain: 1
+    staleness: 1
+  run_745_pickable_p0_p2: 3
   run_739_pickable_p0_p2: 3
   run_738_pickable_p0_p2: 3
   run_737_pickable_p0_p2: 3
@@ -1417,8 +1426,8 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 744
-  last_replenishment_mode: standard
+  last_replenishment_run: 745
+  last_replenishment_mode: conservative
   run_740_pickable_p0_p2: 4
   run_740_note: 'run no.740 (2026-07-07T04:48Z, interactive /replenish-queue): FLOOR-RESTORING
     via 2 P3->P2 PROMOTIONS (not a mint). canonical count_p0_p2_tasks==2 pre-run (run
