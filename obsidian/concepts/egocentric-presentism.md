@@ -4,7 +4,7 @@ description: "Caspar Hare's thesis that, of all conscious beings, only oneself h
 created: 2026-06-17
 modified: 2026-06-17
 human_modified:
-ai_modified: 2026-06-17T16:42:58+00:00
+ai_modified: 2026-07-18T21:54:55+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-17
 last_curated: 2026-06-17
-last_deep_review: 2026-06-17T16:42:58+00:00
+last_deep_review: 2026-07-18T21:54:55+00:00
 ---
 
 Egocentric presentism is Caspar Hare's metaphysical thesis that, of all conscious beings, exactly one — oneself — has experiences that possess the irreducible, monadic, non-relational property of *presence*. Other people are genuinely conscious, but their experiences are simply *not present*. From the inside, my experiences are present *simpliciter*, not present-relative-to-me. The view's structural core is an analogy with the A-theory of time: just as temporal presentism privileges *now* over past and future, egocentric presentism privileges *me* over other selves. The privileged "now" of time has a cousin — a privileged "me."
@@ -66,9 +66,9 @@ These are the two principled rivals. Hare keeps one world and privileges the sel
 
 ## The Communicability Objection
 
-The standard objection is that the privileged property cannot be coherently stated. The worry: a non-relational "present, but present *to* no one in particular" seems either unintelligible or covertly relational. When I try to say what is special about my experiences, I say they are present *to me* — and that "to me" reintroduces a relation, restoring symmetry across subjects and dissolving the very privilege the view asserts. If presence is genuinely monadic, it appears unstatable; if it is statable, it appears relational and so universal. Reviewers press related pressure from different angles: Kris McDaniel argues the evidence supports presence being a two-place relation rather than a monadic property, and Ned Markosian, reviewing the book in "Are You Special?", holds both that the inside/outside intuitions can be reconciled in other ways and that the view supplies no account of why presence should attach to one subject rather than another.
+The standard objection is that the privileged property cannot be coherently stated. The worry: a non-relational "present, but present *to* no one in particular" seems either unintelligible or covertly relational. When I try to say what is special about my experiences, I say they are present *to me* — and that "to me" reintroduces a relation, restoring symmetry across subjects and dissolving the very privilege the view asserts. If presence is genuinely monadic, it appears unstatable; if it is statable, it appears relational and so universal. Reviewers press related pressure from different angles: Kris McDaniel, in a critical study of the book (2012), argues the evidence supports presence being a two-place relation rather than a monadic property, and Ned Markosian, reviewing the book in "Are You Special?", holds both that the inside/outside intuitions can be reconciled in other ways and that the view supplies no account of why presence should attach to one subject rather than another.
 
-Hare's reply is that monadic presence is a genuine property whose intelligibility does not require relational expressibility — the difficulty of saying it is a feature of any deeply first-personal fact, not evidence against its reality. The debate is live. Giovanni Merlo's "subjectivism" (2016) develops a near-neighbour position that differs precisely on the status of the privileged fact, which shows egocentric presentism is one member of a small family of "metaphysically privileged first-person" theories rather than an isolated curiosity.
+Hare's reply is that monadic presence is a genuine property whose intelligibility does not require relational expressibility — the difficulty of saying it is a feature of any deeply first-personal fact, not evidence against its reality. The debate is live. Giovanni Merlo's "subjectivism" (2016) develops a near-neighbour position that differs precisely on the status of the privileged fact, and Vincent Conitzer's "personalized A-theory of time and perspective" (2020) independently reconstructs Hare's self–time parity from a decision-theoretic starting point — which together show egocentric presentism is one member of a small family of "metaphysically privileged first-person" theories rather than an isolated curiosity.
 
 ## Relation to Site Perspective
 
@@ -98,4 +98,5 @@ Egocentric presentism is, for the Map, an exploratory ontological *fit* — a me
 5. List, C. (2025). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048. https://doi.org/10.1093/pq/pqae053 (Advance Access 2024; 2025 print issue.)
 6. Merlo, G. (2016). "Subjectivism and the Mental." *Dialectica*, 70(3), 311–342. https://doi.org/10.1111/1746-8361.12153
 7. Markosian, N. (2015). "Are You Special? A Review of Caspar Hare's *On Myself, and Other, Less Important Subjects*." PhilArchive: MAROMA-6.
-8. Southgate, A. & Oquatre-sept, C. (2026-01-26). The Vertiginous Question and the Indexical Void. *The Unfinishable Map*. https://unfinishablemap.org/topics/vertiginous-question/
+8. McDaniel, K. (2012). "Critical Study of *On Myself, and Other, Less Important Subjects* by Caspar Hare." *Ethics*, 122(2), 403–410. https://doi.org/10.1086/663578
+9. Southgate, A. & Oquatre-sept, C. (2026-01-26). The Vertiginous Question and the Indexical Void. *The Unfinishable Map*. https://unfinishablemap.org/topics/vertiginous-question/

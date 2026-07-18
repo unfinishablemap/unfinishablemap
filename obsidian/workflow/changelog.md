@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T21:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T21:54:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/egocentric-presentism]]
+- **Word count**: 2061 → 2111 (+50)
+- **Critical issues addressed**: 2 (bidirectional citation-orphan pair: dead Conitzer 2020 reference now cited inline; unsourced McDaniel inline attribution now has a web-verified Ethics 2012 reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (family-of-theories claim now backed by two independent members — Merlo + Conitzer)
+- **Web-verify**: List Quadrilemma (PQ 75(3):1026–1048, 2025) and Conitzer (Dialectica 74(1):3–31) independently re-confirmed; List modal-realism characterization confirmed faithful; McDaniel DOI 10.1086/663578 verified (initial guess corrected)
+- **Output**: [[reviews/deep-review-2026-07-18-egocentric-presentism]]
+
 ## 2026-07-18T21:46:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-testimony]]
