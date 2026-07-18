@@ -5,6 +5,16 @@ ai_modified: 2026-07-18T23:27:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-18T23:36:27+00:00 - deep-review
+- **Status**: Success (convergence no-op; 10th review)
+- **File**: [[topics/arguments-against-materialism]]
+- **Word count**: 2936 → 2936 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Only delta since 9th review (2026-06-21) was one cosmetic wikilink strip (`[[phenomenal-concepts-as-materialist-response|explain away the gap]]` → plaintext, coalesce commit a87034a9b; target was archived by that coalesce). Verified no broken reference introduced — live `[[phenomenal-concepts-strategy]]` link retained. All ~40 wikilink targets resolve to live files. §2.4 web-verify skipped by trigger rule (References byte-identical to 2026-06-21; prior per-cite ledger stands). Length at ceiling (2936/3000). Advanced only `last_deep_review`; left `ai_modified` at HEAD (2026-07-12) since no content changed.
+- **Output**: [[reviews/deep-review-2026-07-18-arguments-against-materialism]]
+
 ## 2026-07-18T23:27:42+00:00 - deep-review
 - **Status**: Success (convergence no-op; 11th review)
 - **File**: [[concepts/quantum-interpretations]]
