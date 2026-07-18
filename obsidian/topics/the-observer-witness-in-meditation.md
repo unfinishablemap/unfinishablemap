@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-06-13T19:15:00+00:00
+last_deep_review: 2026-07-18T06:50:18+00:00
 ---
 
 Meditation traditions across cultures report a distinctive experience: the capacity to witness mental contents without engaging with them. Thoughts arise, emotions surface, sensations flicker—and awareness observes without selecting, judging, or intervening. This observer-witness phenomenon poses a profound question for understanding consciousness: if awareness can exist without doing, what does this reveal about the relationship between consciousness and action?
