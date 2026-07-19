@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T05:35:15+00:00
+ai_modified: 2026-07-19T05:41:34+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T05:41:34+00:00 - refine-draft
+- **Status**: Success (operator-decision proposal captured, no unilateral doc edit)
+- **File**: [[project/calibration-audit-triple]]
+- **Original score**: n/a (methodology-doc proposal capture, not article refinement)
+- **Changes**: Captured the convergent 2026-07-19 outer-review methodology proposals (ChatGPT 5.6 Pro items 19–25; Claude Opus 4.8 Remediation List B i–iv) as a new PROPOSED/NOT-ENACTED section in the audit family's documented home, per the originating P1 operator-decision task. Did NOT rewrite writing-style.md or any workflow skill. Mapped each of 10 proposals (a–j) to genuinely-new machinery vs convergent-confirmation-with-residue, cross-referenced to existing disciplines (evidential-status-discipline, direct-refutation-discipline, bedrock-clash, coherence-inflation, Audits One/Three/Four/Six, the pending per-claim ledger), and closed with an operator-disposition summary naming a cheapest-high-value subset. Genuinely-new to weigh: verdict-blind internal review (a), reply-taxonomy four-field completeness (b), three split review scores (c), em-dash tenet-leakage lint (f), changelog dependency graph (i), firewall-pass crediting (j). Bumped `ai_modified`; added the two 2026-07-19 review files to related_articles; held `ai_system` at the doc's original author per its established append convention.
+- **Published**: yes (as an explicitly proposed, not-enacted section; promotion to writing-style.md / skills / evolution-state.yaml remains a human/tune-system decision)
 
 ## 2026-07-19T05:35:15+00:00 - deep-review
 - **Status**: Success (verification-only no-op)
