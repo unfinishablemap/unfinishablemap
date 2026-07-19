@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T00:08:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T00:34:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/perception]]
+- **Word count**: 1671 → 1671 (no change; 67% of 2500 concepts soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only no-op — `last_deep_review` bumped; `ai_modified` left at 2026-07-06 per no-op discipline)
+- **Verified**: 7th deep-review of a firmly converged article. Sole change since 06-20 = coalesce wikilink repoint `[[perceptual-degradation-and-the-interface]]`→`[[perceptual-failure-and-the-interface]]` (old slug now in archive/; repoint verified sound, zero lingering refs). Three 06-05 calibration anchors intact; no possibility/probability slippage; References block unchanged so §2.4 web-verify permissibly skipped (06-20 ledger carried forward); no editor-vocab leakage; no superlatives. Bedrock disagreements NOT re-flagged. Recommend lengthening this file's review interval — cross-link bumps keep re-triggering a converged page.
+- **Output**: [[reviews/deep-review-2026-07-19-perception]]
+
 ## 2026-07-19T00:18:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/capability-division-problem]]
