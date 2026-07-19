@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-18
 last_curated:
-last_deep_review: 2026-07-06T09:26:50+00:00
+last_deep_review: 2026-07-19T06:45:07+00:00
 ---
 
 The Unfinishable Map holds that consciousness selects among physically underdetermined neural outcomes, and that felt value—the badness of suffering, the goodness of relief—is what the selection tracks ([[valence-and-conscious-selection]]). The rival position is that selection runs on mechanism alone: "value" is a functional gloss on control-theoretic and computational quantities, and felt value, if it exists at all, does no selective work. The Map declines this rival. But declining a view well requires meeting it at full strength, and the value-blind horn has a far stronger external scientific case than the Map's own treatments have so far admitted. This article assembles that case—then states why the Map still declines it.
