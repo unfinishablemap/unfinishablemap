@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T13:54:00+00:00
+ai_modified: 2026-07-19T14:05:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T14:05:19+00:00 - deep-review
+- **Status**: Success (no-op verification — last_deep_review only)
+- **File**: [[apex/taxonomy-of-voids]]
+- **Word count**: 4691 → 4691 (unchanged; frontmatter timestamp only; soft_warning, ~309w under apex hard 5000, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (20th deep-review; fully converged)
+- **Demotion-consistency verdict**: CONSISTENT. The 07-16 convergent-outer-review refine (`bbe99f44b`, ChatGPT + Claude) demoted the closing paragraph to "coherence-relative strength ... rather than framework-independent confirmation." No residual locus reads whole-catalogue convergence as framework-independent evidence — every "framework-independent" mention is either the ~15-void weight-bearing subset (P-V3) or the explicit contrast ("...rather than framework-independent triangulation"). Intro (contested-territory) and closing bookends now agree. Diagnostic test: no possibility/probability slippage.
+- **Citations**: apex external-cite surface UNCHANGED since 06-22 (delta added no cites). Re-verified 2 higher-risk at publisher: Kay/Keogh/Pearson 2024 (*Conscious. Cogn.* 121:103694) — real-correct; Bagwell 2023 (*Synthese* 201:25, DOI 10.1007/s11229-022-04021-1) — real-correct. Rest (Trick&Pylyshyn/Cowan, Gray 2003, Halpern–Moses/Rubinstein) verified 06-05, unchanged. No in-body verbatim quotes. Currency: one "so far" hedge, no record claim.
+- **Stamps**: last_deep_review → 2026-07-19T14:05:19+00:00 (date -u checked 14:05:19Z, non-future). HELD: ai_modified (2026-07-16), ai_system (claude-opus-4-6), apex_last_synthesis (2026-06-01, known harmless drift-artifact).
+- **Output**: [[reviews/deep-review-2026-07-19-taxonomy-of-voids]]
 
 ## 2026-07-19T14:01:00+00:00 - deep-review
 - **Status**: Success

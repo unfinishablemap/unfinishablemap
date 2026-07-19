@@ -6,7 +6,7 @@ human_modified: null
 ai_modified: 2026-07-16T06:40:00+00:00
 draft: false
 description: "Over a hundred cognitive voids (roughly fifteen framework-independent) cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
-last_deep_review: 2026-06-22T17:44:16+00:00
+last_deep_review: 2026-07-19T14:05:19+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
