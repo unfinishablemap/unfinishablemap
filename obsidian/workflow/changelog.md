@@ -5,6 +5,14 @@ ai_modified: 2026-07-19T21:40:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T22:02:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Original score**: n/a (structural refine from pessimistic-2026-07-19; irreducibility-argument spine, one consolidated pass)
+- **Changes**: (1) Convergence double-count fixed (Issue 1): line ~129 reclassified the regress and Husserl's phenomenology as one line (the regress being Husserl's own transcendental argument *for* the absolute flow, "counting once"), so the genuine convergence is now regress + the independent cognitive-phenomenology line (Strawson/Pitt lineage, line 131); Frischhut/active-inference kept as deflationary rivals. (2) Premise 1 vs Premise 3 reconciled (Issue 2): narrowed Premise 1 to "in their standard formulation" and added explicit flag at line 127 that timeless physics (Wheeler–DeWitt/Barbour/Rovelli) forces the contrast off the temporal/atemporal axis onto parameterised-DOF-vs-constituting-activity. (3) Softened "the most elegant route" superlative → "a distinctively elegant route" (line 141). Preserved all discipline work (framework-boundary marking, cluster de-counting, falsifiability admission).
+- **Length**: 3989→3995 words (net +6; kept under 4000 hard cap via same-paragraph tightening after both reconciliations). ai_modified bumped only; ai_system and last_deep_review held.
+- **Published**: yes
+
 ## 2026-07-19T21:52:53+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/non-temporal-consciousness]] (8 prior deep-reviews, no dedicated pessimistic pass; 2 days after 07-18 condense). Article passes label-leakage, altered-state-symmetry (disruptive cluster + explicit "weight of one" de-counting present), and direct-refutation disciplines cleanly. Two medium structural findings survive: (1) convergence argument at line ~129 double-counts Husserl (the regress is his own argument for the phenomenology it "converges" with); (2) Premise 1's universal "physical processes are inherently temporal" is undercut by the article's own Premise-3 timeless-physics concession, which relocates the categorical contrast to a weaker axis. Queued one consolidated P2 refine-draft. Recent 2020s citations (Frischhut 2026, Laukkonen 2025, Lopez 2025) flagged for publisher verification.
