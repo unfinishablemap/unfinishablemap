@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T05:01:00+00:00
+ai_modified: 2026-07-19T05:24:39+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T05:24:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/chinese-room-argument]]
+- **Original score**: n/a (targeted fix from convergent 2026-07-19 outer reviews, items 9-10)
+- **Changes**:
+  - CONVERGENT (chatgpt + claude-opus-4-8): dropped Hofstadter "co-originator of the 'intuition pump' label" error. Verified: Dennett coined the term solo in his 1980 BBS reply to Searle ("The Milk of Human Intentionality," 3(3):428-430). Re-credited Hofstadter as Dennett's co-editor on *The Mind's I* (1981) and source of the "turn all the knobs" heuristic; noted Dennett's 1980 coinage inline.
+  - SEP date: verified at plato.stanford.edu — substantive revision Wed Oct 23, 2024. Updated in-text "(Cole 2023)"→"(Cole 2024)" and reference 5 (added "substantive revision October 23, 2024").
+  - Superlatives replaced with "prominent/influential" (no survey/named scholar cited): "widely regarded as the strongest reply"→"among the most influential replies"; "The sharpest counter"→"A prominent counter"; "strongest anti-Chinese-Room move on offer"→"among the most influential anti-Chinese-Room moves".
+  - Page pinpoints added to the four direct Searle 1980 quotations, verified against the BBS PDF by physical-page grep (page 1 = journal 417): formal-model insufficiency p. 422; biological-phenomenon coda p. 424; internalization + "begs the question" p. 419; robot-reply "adds nothing" p. 420.
+- **Published**: yes
 
 ## 2026-07-19T05:14:00+00:00 - pessimistic-review
 - **Status**: Success
