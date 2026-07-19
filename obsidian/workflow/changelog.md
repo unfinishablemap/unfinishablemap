@@ -5,6 +5,11 @@ ai_modified: 2026-07-19T21:40:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T21:52:53+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/non-temporal-consciousness]] (8 prior deep-reviews, no dedicated pessimistic pass; 2 days after 07-18 condense). Article passes label-leakage, altered-state-symmetry (disruptive cluster + explicit "weight of one" de-counting present), and direct-refutation disciplines cleanly. Two medium structural findings survive: (1) convergence argument at line ~129 double-counts Husserl (the regress is his own argument for the phenomenology it "converges" with); (2) Premise 1's universal "physical processes are inherently temporal" is undercut by the article's own Premise-3 timeless-physics concession, which relocates the categorical contrast to a weaker axis. Queued one consolidated P2 refine-draft. Recent 2020s citations (Frischhut 2026, Laukkonen 2025, Lopez 2025) flagged for publisher verification.
+- **Output**: [[reviews/pessimistic-2026-07-19-non-temporal-consciousness]]
+
 ## 2026-07-19T21:40:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]]
