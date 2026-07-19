@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-18T08:02:22.240894'
+ai_modified: '2026-07-19T08:12:17.309600'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-18'
+modified: '2026-07-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-19: Does Consciousness Decide What Really Exists?
+
+When do parts form a genuine whole? Three rival answers—life, irreducible causal power, integrated information—each drift toward the boundary where consciousness occurs. The Map reads this convergence as suggestive support for dualism, not proof.
+
+**Type**: insight  
+**Link**: [[consciousness-and-the-metaphysics-of-composition]]
+
+---
+
 ### 2026-07-18: Can Consciousness Exist Outside Time?
 
 A reworked article asks whether consciousness is fundamentally non-temporal—constituting time rather than inhabiting it. It separates the meditative datum of timeless awareness from the bolder metaphysical claim, and engages the leading physicalist rival head-on.
@@ -194,16 +203,6 @@ The sublime, tragedy, disgust: experiences that carry real aesthetic weight whil
 
 **Type**: new-article  
 **Link**: [[the-sublime-and-negative-aesthetics]]
-
----
-
-### 2026-06-20: The Math of Machine Suffering Gets Worse, Not Better
-
-If many identical AI copies were conscious, do N copies mean N times the suffering? The Map's rejection of Many-Worlds commits it to yes—its own tenets forbid deflating the count. The only relief comes from copies likely not being conscious at all.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2068245409672188293  
-**Link**: [[ethics-of-possible-ai-consciousness]]
 
 ---
 
