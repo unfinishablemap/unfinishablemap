@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T02:54:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T04:31:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/cross-modal-capability-division]]
+- **Word count**: 4917 → 4917 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Second review. Targeted the vestibular + thermal sections apex-evolve added 06-22 (article grew 3850→4917w, +8 new cites refs 12–19, +2 verbatim quotes not in prior ledger). All 8 new cites web-verified real-correct at publisher of record (Pfeiffer/Serino/Blanke 2014, de Vignemont 2024 SEP, Cento 2026, Blanke&Arzy 2005, Lopez/Lenggenhager/Blanke 2010, Laurens&Droulez 2007, Blanke 2012, Crucianelli&Ehrsson 2023); both new quotes exact; 19/19 reciprocity clean; no slippage — both new sections apply common-cause-null and name the physicalist rival. Length watch: 4917w is ~83w under apex hard cap (5000). `last_deep_review` bumped; `ai_modified` left at HEAD per no-op hygiene.
+- **Output**: [[reviews/deep-review-2026-07-19-cross-modal-capability-division]]
+
 ## 2026-07-19T04:25:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/basal-and-bioelectric-cognition]]
