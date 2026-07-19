@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T16:30:20.169016+00:00'
-session_count: 16657
-cycle_position: 11518
+last_updated: '2026-07-19T16:34:41.613689+00:00'
+session_count: 16658
+cycle_position: 11519
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T13:47:38.535356+00:00'
   optimistic-review: '2026-07-19T14:30:56.291203+00:00'
   check-tenets: '2026-07-19T02:59:54.066406+00:00'
   check-links: '2026-07-19T08:10:10.379695+00:00'
-  deep-review: '2026-07-19T16:11:32.334811+00:00'
+  deep-review: '2026-07-19T16:34:41.613689+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-19T08:11:07.028143+00:00'
   coalesce: '2026-07-19T15:09:06.976273+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 521
-  reviews_completed: 6694
+  reviews_completed: 6695
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1331,26 +1331,28 @@ queue_status:
   p3_tasks: 1
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T15:18:00+00:00'
-  last_replenishment_prev: '2026-07-19T13:29:59+00:00'
+  last_replenishment: '2026-07-19T16:40:00+00:00'
+  last_replenishment_prev: '2026-07-19T15:18:00+00:00'
   last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue
-    2026-07-19T15:18Z). AUTHORITATIVE pre-count count_p0_p2_tasks == 2 (the two open
-    floor-holders both minted 14:52Z: apex/medium-status-voids-in-cognition 37d +
-    concepts/philosophy-of-mind 38d; 3 veto condenses parser-excluded; P3 Bohmian
-    research + P3 HUMAN-LENGTH-DECISION blocks do not count). Below floor of 3 by
-    1 → ONE mint. No concurrent evolve_loop (pgrep empty); HEAD 01d0f7a9; tree clean
-    apart from pre-existing state deferred bookkeeping. All content sections at cap
-    (topics/concepts 320/320, voids 100/100) so no expand/research-topic chains; positions
-    8/80 slow-add + <10 audit threshold + audited <30d; orphaned_files 0; no applied-apex
-    gap; genuine 30d+ pure-staleness pool DRAINED (get_review_candidates shows only
-    the apex register-index apex-articles.md 82d, out of deep-review scope, beyond
-    the two queued holders). Chose apex/conjunction-coalesce.md: 28d review-gap (last_deep_review
-    2026-06-21) AND changed-since-review (ai_modified 2026-07-07, ~16d gap — positive
-    signal, not <15d churn). Body 5224w = apex hard_warning (~224w over 5000 hard,
-    well under 6500 critical) from hub cross-link accretion, so length-AWARE deep-review
-    that assesses condense-eligibility — NOT a blind condense of calibration-dense
-    prose. ai_contribution 100, ai_system claude-opus-4-8. Appended at BOTTOM so top-first
-    FIFO drains the two 14:52 holders first.'
+    2026-07-19T16:40Z). AUTHORITATIVE pre-count count_p0_p2_tasks == 2 (the two open
+    floor-holders above: apex/research-programme-decisions-under-the-map + concepts/intentionality;
+    3 veto condenses parser-excluded; P3 Bohmian research + P3 HUMAN-LENGTH-DECISION
+    blocks do not count). Below floor of 3 by 1 → ONE mint. No concurrent evolve_loop
+    (pgrep empty); HEAD 488cea0e0; tree carries only pre-existing state cycle_post
+    bookkeeping drift. All content sections at cap (topics/concepts 320/320, voids
+    100/100) so no expand/research-topic chains; positions 8/80 slow-add + <10 audit
+    threshold + audited 2026-07-17 <30d; orphaned_files 0; no applied-apex gap; length
+    offenders all research-notes / apex-index / positions-register / human-deferred /
+    veto (no clean condense). Genuine 30d+ staleness: composite get_review_candidates
+    de-prioritizes converged files, but RAW last_deep_review scan gives concepts/mind-arena
+    45d (opus-4-8 self-cite-ONLY, EXPLICITLY REJECTED by the 07-18 18:14+18:34 mints —
+    pure no-op) then voids/causal-interface 36d. Chose voids/causal-interface.md: oldest
+    opus-4-5-20251101 cohort (largest unchecked external-citation surface), git-converged
+    (last_deep_review == ai_modified 2026-06-13), real external refs (Libet 1985,
+    Nisbett & Wilson 1977, Wegner 2002, Horgan 2011, SEP) = genuine verify residual
+    not a self-cite no-op, 2190w voids soft_warning (length-neutral, not the driver),
+    Tenet 2/3, section-diverse (void vs queued apex+concept). ai_contribution 100.
+    Appended at BOTTOM so top-first FIFO drains the two older holders first.'
   replenishment_source_counts:
     staleness: 1
   run_758_pickable_p0_p2: 4
