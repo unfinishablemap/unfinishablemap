@@ -21,7 +21,7 @@ description: Several answers to the Special Composition Question cluster near th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 13:44:42+00:00
+last_deep_review: 2026-07-19 07:58:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

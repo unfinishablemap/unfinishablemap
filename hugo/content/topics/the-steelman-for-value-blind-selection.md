@@ -19,7 +19,7 @@ description: 'Built through human-AI refinement: the strongest external scientif
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 09:26:50+00:00
+last_deep_review: 2026-07-19 06:45:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

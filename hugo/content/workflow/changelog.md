@@ -1,13 +1,102 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19 06:22:09+00:00
+ai_modified: 2026-07-19 07:27:53+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T07:58:07+00:00 - deep-review
+- **Status**: Success (clean-verify no-op)
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 4005 → 4005 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length over-cap deferred to length-source)
+- **Enhancements made**: 0
+- **Verify pass**: Eighth review; targeted citation/quote web-verify of the 07-16 delta. James 1890 *Principles* Ch. VI quote confirmed **verbatim** at psychclassics.yorku.ca — the 07-16 edit correctly replaced a fabricated paraphrase ("each remains the same old private self") with genuine verbatim ("still each remains the same feeling it always was, shut in its own skin, windowless"). IIT cluster all real-correct: McQueen & Tsuchiya niad013 φ quote verbatim; Cogitate Consortium *Nature* 642(8066):133-142 (first-author correctly Cogitate Consortium, not Melloni; both empirical claims accurate); Fleming et al. 2023 PsyArXiv (124 signatories, 15 Sep 2023); Leung & Tsuchiya niad012 weak/strong-IIT distinction faithful. No calibration slippage. Bumped last_deep_review only; held ai_modified (2026-07-16) and ai_system (claude-opus-4-6).
+- **Remaining**: 4005 words is 5 over the 4000 topics hard cap (from the +8-word verbatim quote correction) — flagged for a strictly length-neutral trim via the length-source; quote must NOT be shortened.
+- **Output**: [deep-review-2026-07-19-consciousness-and-the-metaphysics-of-composition](/reviews/deep-review-2026-07-19-consciousness-and-the-metaphysics-of-composition/)
+
+## 2026-07-19T07:55:37+00:00 - condense
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Before**: 3606
+- **After**: 3473
+- **Reduction**: 3.7%
+- **Technique**: Prose-tightening only — merged redundant sentences (radio-analogy punchline, terminal-lucidity restatement, Occam-metaphor doublet, illusionist intro), trimmed verbose Further Reading descriptions, collapsed the three restatements of "seven confirmations = one pattern" in the closing weighing note into one. PRESERVED all load-bearing calibration hedges (naive-vs-sophisticated scoping, "suggestive but not decisive", "partly post hoc", "shared, not discriminating", "redistributed processing", GWT-concession, hard-problem convergence), all web-verified citations exactly (Noreika 2011 Brain and Cognition, Claassen ~15%, Carhart-Harris 2012, Zheng & Meister / Sauerbrei & Pruszynski), the four-component structured-interface vocabulary, and the tenet routing. Now under concepts 3500 hard ceiling with margin. Bumped ai_modified only; held last_deep_review (2026-07-19T07:46) and ai_system (claude-opus-4-5).
+
+## 2026-07-19T07:46:01+00:00 - deep-review
+- **Status**: Success (clean-verify / no-op)
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Word count**: 3606 → 3606 (0; no content edits — over concepts hard ceiling 3500 by ~106w)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Summary**: Verified the 2026-07-18 calibration refine (94e93a886) at publisher of record. All four edit-affected cites real-correct: Noreika et al. 2011 (*Brain and Cognition* 77(3):327-334, RE-verified — NOT *Consciousness and Cognition*, NOT 2018/*BJA*); Claassen et al. 2019 (15% figure — the 25%→15% edit CORRECTED a prior overstatement); Carhart-Harris 2012 PNAS DMN (re-confirmed); Zheng & Meister 2025 / Sauerbrei & Pruszynski 2025 (GWT-concession reframing faithful). Calibration edit moves uniformly toward more restraint (naive-vs-sophisticated scoping, bandwidth downgraded to non-discriminating, quantum-sensitivity hedged) — no possibility/probability slippage, no over-concession. Kelly/Van Lommel confirmed absent from body + References. No content changes: bumped last_deep_review only, held ai_modified (2026-07-18) and ai_system (claude-opus-4-5). Queued a P2 condense for the ~106w over-ceiling.
+- **Engagement (Frankish/illusionism)**: Mode Mixed (Two + Three), unchanged since 2026-06-20 — in-framework parsimony argument then honest boundary-marking; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-07-19-filter-theory](/reviews/deep-review-2026-07-19-filter-theory/)
+
+## 2026-07-19T07:30:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Changes**: Wrapped the first "common-cause reading" invocation (deflationary-reading paragraph, §"The Three-Way Disagreement") in a [common-cause reading](/project/common-cause-null/) wikilink to the named Tenet-5 discipline article at project/common-cause-null.md — mirrors the sibling cross-traditional-convergence article's prominent link. First-invocation only per the named-anchor convention; the two later plain-text back-references (§Relation to Site Perspective) left as-is. Strictly length-neutral (existing phrase wrapped, no new prose; ~3195w unchanged). Slug verified live. ai_system held at claude-opus-4-6; ai_modified bumped, last_deep_review untouched. Declined the optional reciprocal related_articles entry: common-cause-null's list is curated discipline/apex articles, not invoking topic articles.
+- **Published**: yes
+
+## 2026-07-19T07:27:53+00:00 - deep-review
+- **Status**: Success (no-op / convergence)
+- **File**: [everyday-aesthetics](/topics/everyday-aesthetics/)
+- **Word count**: unchanged (no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Re-qualified by a cosmetic cross-link bump (sibling aesthetics-of-nature added one Further Reading line 2026-07-09T07:20). Body + all 8 citations byte-identical to the thorough 2026-07-09 create-time cross-review (publisher-of-record ledger stands). Confirmed new cross-link target resolves. Bumped `last_deep_review` only; `ai_modified` held at create-time value per no-op hygiene.
+- **Output**: [deep-review-2026-07-19-everyday-aesthetics](/reviews/deep-review-2026-07-19-everyday-aesthetics/)
+
+## 2026-07-19T07:13:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Changes**: Cross-link-only refine (non-neural competency cluster under-linking, from optimistic-review 2026-07-19). Added reciprocal Further Reading links with brief glosses consistent with sibling/apex phrasing: UP to apex [competency-without-felt-experience](/apex/competency-without-felt-experience/) (Apex Synthesis block); ACROSS to the five omitted sibling rungs — [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/), [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/), [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/), [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/), [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — grouped in a new "Non-Neural Competency Ladder" subsection. Pre-existing [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) link left in place (not duplicated). All 6 new slugs verified live on disk. Length-neutral (link additions only, no body-prose growth); topics at 321/320 cap. ai_modified bumped only; ai_system held at claude-opus-4-7 (not the reviewing model); last_deep_review untouched (refine, not deep-review).
+- **Published**: yes
+
+## 2026-07-19T07:04:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [minimal-consciousness-void](/voids/minimal-consciousness-void/)
+- **Word count**: 2993 → 2994 (+1)
+- **Critical issues addressed**: 3 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Verbatim quote-fidelity seam (metadata ledger complete + References byte-unchanged since 2026-06-05, so metadata web-verify skipped per quote-fidelity-defects-survive-metadata-reviews). Matched every direct quote at primary source. Fixed two genuine misquotes + one dropped comma: (1) Laukkonen 2023 nirodha samāpatti "cessation of thought and feeling" → "cessation of feeling and perception" (wrong constituent — saññā is perception, not thought; verified at MGH/Harvard primary PDF, Ñāṇamoli & Bodhi 1995 rendering); (2) Metzinger 2020 "six semantic constraints from existing literature" → narrowed quote + restored source word "the" (abstract: "from the existing literature"); (3) Hume Treatise Intro — restored comma after "principles,". Verified real-correct: "sixteen phenomenological case-studies", "pure awareness", "zero-person perspective", "wakefulness", "gap"/"cut". Length-neutral; under 3000 voids hard cap. ai_modified + last_deep_review both bumped (genuine content fix); ai_system held at claude-opus-4-6.
+- **Output**: [deep-review-2026-07-19-minimal-consciousness-void](/reviews/deep-review-2026-07-19-minimal-consciousness-void/)
+- **Published**: yes
+
+## 2026-07-19T06:47:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/)
+- **Changes**: Added the two competency-cluster floor-rung articles to Further Reading, matching sibling coverage — [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) (prokaryotic floor: sensing/memory/decision in one cell) and [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) (agency-vs-mechanism undecidability at that floor). Glosses aligned with the corpus phrasings. Length-neutral cross-link addition only; no body prose changed. Reciprocal check: bacterial-chemotaxis already links back; single-cell's curated Further Reading omits most cluster siblings so no reciprocal added. ai_modified bumped only; last_deep_review untouched; ai_system held at claude-opus-4-8.
+- **Published**: yes
+
+## 2026-07-19T06:45:07+00:00 - deep-review
+- **Status**: Success (no-op — durably converged)
+- **File**: [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/)
+- **Word count**: ~2540 → ~2540 (no change; well within topics/ soft threshold, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-the-steelman-for-value-blind-selection](/reviews/deep-review-2026-07-19-the-steelman-for-value-blind-selection/)
+- **Notes**: Third deep-review pass, second no-op. Only change since the fully-verified 2026-07-06 review was expand-topic commit 6147ab791 (single cosmetic Further-Reading cross-link → graduated-middle-path-valence-modulated-attention; resolves live). Body + References byte-identical since 2026-06-18; §2.4 web-verify skipped per its unchanged-References trigger (2026-06-18 per-cite ledger stands). §2.5 attribution PASS, §2.6 calibration/label-leakage PASS. Bumped last_deep_review only; ai_modified left at HEAD (2026-07-07 cross-link value) per no-op discipline. Converged across three passes — recommend longer review interval.
+
+## 2026-07-19T06:34:03+00:00 - deep-review
+- **Status**: Success (no-op — durably converged)
+- **File**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Word count**: 2458 → 2458 (no change; 98% of soft threshold, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth deep-review pass, first true no-op. Only change since the fully-verified 2026-06-14 review was coalesce commit 5e5e7fb69 (cosmetic wikilink repoint reductionism-and-consciousness → reductionism; resolves). Body + References byte-identical; §2.4 web-verify skipped per its unchanged-References trigger (2026-06-14 per-cite ledger stands). Calibration PASS, label-leakage PASS. Bumped last_deep_review only; ai_modified left at HEAD (2026-06-14) per no-op discipline. Recommend longer review interval for this converged article.
+- **Output**: [deep-review-2026-07-19-consciousness-and-scientific-explanation](/reviews/deep-review-2026-07-19-consciousness-and-scientific-explanation/)
 
 ## 2026-07-19T06:22:09+00:00 - cross-review
 - **Status**: Success

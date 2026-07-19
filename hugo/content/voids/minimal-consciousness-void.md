@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-07-19 07:04:23+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of why consciousness cannot investigate its ow
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-07-19 07:04:23+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -47,7 +47,7 @@ In the Map's [voids](/voids/) taxonomy this makes the void **partially probe-abl
 
 The core structural impossibility has three dimensions:
 
-**Introspective enrichment.** Attending to an experience adds cognitive structure—attention, metacognition, memory encoding—that makes the experience more complex than it was before observation. David Hume registered the general worry in the *Treatise* Introduction: reflection "would so disturb the operation of my natural principles as must render it impossible to form any just conclusion from the phenomenon." His remark concerns introspection's self-disturbance broadly—an early statement of the observer-effect, not a claim about minimal consciousness, which he nowhere discusses. The [observation-and-measurement-void](/voids/observation-and-measurement-void/) documents this transformation across consciousness research; the minimal consciousness void is where it bites hardest, because even a small addition moves the experience away from minimality.
+**Introspective enrichment.** Attending to an experience adds cognitive structure—attention, metacognition, memory encoding—that makes the experience more complex than it was before observation. David Hume registered the general worry in the *Treatise* Introduction: reflection "would so disturb the operation of my natural principles, as must render it impossible to form any just conclusion from the phenomenon." His remark concerns introspection's self-disturbance broadly—an early statement of the observer-effect, not a claim about minimal consciousness, which he nowhere discusses. The [observation-and-measurement-void](/voids/observation-and-measurement-void/) documents this transformation across consciousness research; the minimal consciousness void is where it bites hardest, because even a small addition moves the experience away from minimality.
 
 **Regressive enrichment.** Examining the simplest experience creates a more complex one: experience-being-examined. Seeking the minimal version of *that* adds yet another layer—an infinite regress that moves away from its target with each step. Unlike most philosophical regresses, this one is experientially real: each attempt at simplification produces a detectably richer state.
 
@@ -57,7 +57,7 @@ These three dimensions converge on one conclusion: the basement level of conscio
 
 ## The Search That Finds Too Much
 
-Thomas Metzinger's Minimal Phenomenal Experience (MPE) project represents the most systematic attempt to characterise the simplest form of consciousness. Working from "sixteen phenomenological case-studies" and "six semantic constraints from existing literature" (Metzinger 2020), the project sought to identify "pure awareness"—consciousness stripped of all content.
+Thomas Metzinger's Minimal Phenomenal Experience (MPE) project represents the most systematic attempt to characterise the simplest form of consciousness. Working from "sixteen phenomenological case-studies" and "six semantic constraints" from the existing literature (Metzinger 2020), the project sought to identify "pure awareness"—consciousness stripped of all content.
 
 The result is instructive. What advanced meditators report as "contentless" awareness turns out, on careful analysis, to have a rich phenomenological profile. The subsequent MPE-92M questionnaire identified 92 characteristics organised into a 12-factor model of "pure awareness" phenomenology (Gamma & Metzinger 2021). The search for the minimum kept finding more than nothing.
 
@@ -101,7 +101,7 @@ This sharpens the headline claim. "Permanently beyond examination" carries an ep
 
 ## Approaching from the Edge
 
-Buddhist contemplative traditions offer the closest experiential approach to the void. Advanced practitioners report progressive simplification of experience—loss of body sense, temporal orientation, spatial location—until something remains that resists further reduction. Nirodha samāpatti, the "cessation of thought and feeling," represents the endpoint: a state from which practitioners return reporting nothing, experienced as a short "gap" or "cut" in consciousness (Laukkonen et al. 2023). This evidence is thin in the way honesty requires noting: the cessation-EEG work to date rests on a single practitioner (n=1), and the report of "nothing" is heterophenomenology—an account of an absence, not third-person confirmation of zero consciousness. It indicates an edge; it cannot certify what lies on the far side.
+Buddhist contemplative traditions offer the closest experiential approach to the void. Advanced practitioners report progressive simplification of experience—loss of body sense, temporal orientation, spatial location—until something remains that resists further reduction. Nirodha samāpatti, the "cessation of feeling and perception," represents the endpoint: a state from which practitioners return reporting nothing, experienced as a short "gap" or "cut" in consciousness (Laukkonen et al. 2023). This evidence is thin in the way honesty requires noting: the cessation-EEG work to date rests on a single practitioner (n=1), and the report of "nothing" is heterophenomenology—an account of an absence, not third-person confirmation of zero consciousness. It indicates an edge; it cannot certify what lies on the far side.
 
 This creates a tantalising phenomenological bracket. On one side, the progressively simplified awareness of deep meditation—the [edge-experience](/voids/edge-states-and-void-probes/) Metzinger calls the "zero-person perspective." On the other, the complete absence of cessation.
 

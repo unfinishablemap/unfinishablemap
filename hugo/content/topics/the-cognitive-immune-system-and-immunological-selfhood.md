@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-18 05:29:53+00:00
+ai_modified: 2026-07-19 06:47:24+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -78,6 +78,8 @@ The throughline of the non-neural competency cluster is a single decoupling: wha
 - [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — information processing without a nervous system
 - [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — a second brain that is not a seat of experience
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — behaviour at the lower bound of the nervous system
+- [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) — the prokaryotic floor: sensing, memory, and decision compressed into a single cell with no neurons
+- [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — one rung deeper at that floor: whether even the *agency* attribution can be told apart from complete mechanism, or whether the distinction is empirically undecidable
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — where function becomes purpose, and where it does not
 - [somatic-interface](/concepts/somatic-interface/) — bodily self-maintenance without a phenomenal locus
 

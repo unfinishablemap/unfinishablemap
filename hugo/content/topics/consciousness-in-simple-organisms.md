@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-17 08:41:11.527736+00:00
+ai_modified: 2026-07-19 07:13:52+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -277,6 +277,13 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity across species
 - [working-memory](/concepts/working-memory/) — The capacity expansion that enables consciousness-dependent cognition
 
+### The Non-Neural Competency Ladder
+- [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's bioelectric agency: engineering-grade competence without asserted experience
+- [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — The floor case: coordinated behaviour with zero neurons, where the competence-experience decoupling is starkest
+- [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/) — Learning, memory, and a functional "self" with zero neurons: the cluster's sharpest test of self-language
+- [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — The gut's "second brain" and the open question of where the interface localises
+- [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — The sibling non-neural rung: processing without a nervous system
+
 ### Skeptical Perspectives
 - [illusionism](/concepts/illusionism/) — The radical physicalist response and why the regress problem persists
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
@@ -288,6 +295,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 - [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/) — Evidence that consciousness contributes to intelligence
 
 ### Apex Synthesis
+- [competency-without-felt-experience](/apex/competency-without-felt-experience/) — The cross-node synthesis this survey feeds: the whole ladder from prokaryotes to engineered cortex, and why cognitive-grade competency and felt experience are separate axes
 - [minds-without-words](/apex/minds-without-words/) — Integrated perspective on non-linguistic consciousness from simple organisms to great apes
 
 ## References
