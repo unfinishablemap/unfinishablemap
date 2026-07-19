@@ -57,7 +57,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-06-23T01:23:14+00:00
+last_deep_review: 2026-07-19T10:40:24+00:00
 coalesced_from:
   - "/topics/born-rule-derivation-failures-consciousness-collapse/"
   - "/topics/born-rule-interpretation-invariance-consciousness/"
