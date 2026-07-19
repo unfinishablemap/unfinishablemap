@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T07:29:00.772840+00:00'
-session_count: 16562
-cycle_position: 11468
+last_updated: '2026-07-19T07:31:29.461448+00:00'
+session_count: 16563
+cycle_position: 11469
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T05:18:54.069774+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-19T02:06:55.755326+00:00'
   commission-claude-review: '2026-07-19T03:07:05.522929+00:00'
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
-  refine-draft: '2026-07-19T07:17:16.106087+00:00'
+  refine-draft: '2026-07-19T07:31:29.461448+00:00'
   research-topic: '2026-07-18T17:41:30.742015+00:00'
   replenish-queue: '2026-07-19T07:26:20.079220+00:00'
   condense: '2026-07-19T00:10:44.504035+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-07-19'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-19'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1342,26 +1342,30 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 5
   p3_tasks: 8
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-19T07:21:00+00:00'
-  last_replenishment_prev: '2026-07-19T07:10:00+00:00'
-  last_floor_restore_target: 'PROMOTE ONE research-topic P3->P2 (Synthetic minimal
-    agents / xenobots) by interactive /replenish-queue 2026-07-19T07:21Z. count_p0_p2_tasks==2
-    LIVE pre-count (open P2s: common-cause-null wikilink 06:52Z + transit-void condense
-    07:10Z; the third holder consciousness-in-simple-organisms drained via cycle refine-draft,
-    HEAD bad166923); MIN_QUEUE 3, unmet by 1; ==3 after. Conservative EXACT-floor
-    +1, ONE promotion, no mint, no padding. Chose promotion over a fresh mint: deep-review
-    staleness saturated, the one clean length offender (transit-void) already minted
-    07:10Z, other offenders veto/human-deferred/positions-governed; this drains a
-    harvest-vetted P3 the floor starves ([[p3-only-floor-preemption-starves]]). Documented
-    replenish-at-floor alternation ([[unfin_loop_steady_state]]). No concurrent evolve_loop.py.
-    Relocated to bottom of Active ([[queue-lifo-starvation]]); revert if a sibling/loop
-    double-restores this slot.'
+  loop_pickable_open: 5
+  last_replenishment: '2026-07-19T07:37:53+00:00'
+  last_replenishment_prev: '2026-07-19T07:21:00+00:00'
+  last_floor_restore_target: 'MINT 3 deep-review P2s (standard /replenish-queue 2026-07-19T07:37Z).
+    Pre-count count_p0_p2_tasks==2 LIVE (open P2s: transit-void condense 07:10Z +
+    synthetic-agents research, promoted 07:21Z); ==5 after. Used the REAL damping-aware
+    scorer tools.curate.deep_review.get_review_candidates ([[deep_review_over_reviews_converged]])
+    — NOT the naive staleness scan, which surfaced philosophy-of-mind (the most over-reviewed
+    converged hub, correctly ranked nowhere). Picked the 3 top-scored candidates whose
+    ai_modified > last_deep_review AND whose delta is SUBSTANTIVE, not the cosmetic-wikilink
+    false-yield ([[replenish-changed-since-review-delta-often-cosmetic-wikilink]]): filter-theory
+    (13.0, unverified Noreika 2018->2011/BJA->Brain-and-Cog venue swap + Carhart-Harris
+    2012 add + Claassen 25%->15%, [[owed-web-verify-seam-deep-review-targeting]]);
+    consciousness-and-the-metaphysics-of-composition (14.2, changed James 1890 quote
+    in the mind-dust cluster [[james-quotes-fabricated-in-mind-dust-cluster]]); marginal-organism-scope
+    (15.0, three new unreviewed empirical paragraphs from the fish/plant/bioelectric
+    cross-reviews). REJECTED interoceptive-consciousness (score 15.0) — its only post-review
+    delta is one cross-review wikilink, the cosmetic false-yield. Top-inserted into Active.
+    No concurrent evolve_loop.py.'
   replenishment_source_counts:
-    promotion: 1
+    staleness: 3
   run_749_pickable_p0_p2: 3
   run_748_pickable_p0_p2: 3
   run_746_pickable_p0_p2: 3
@@ -1398,13 +1402,14 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 755
+  last_replenishment_run: 756
+  run_756_pickable_p0_p2: 5
   run_755_pickable_p0_p2: 3
   run_754_pickable_p0_p2: 3
   run_753_pickable_p0_p2: 3
   run_752_pickable_p0_p2: 3
   run_751_pickable_p0_p2: 4
-  last_replenishment_mode: conservative
+  last_replenishment_mode: standard
   run_740_pickable_p0_p2: 4
   run_740_note: 'run no.740 (2026-07-07T04:48Z, interactive /replenish-queue): FLOOR-RESTORING
     via 2 P3->P2 PROMOTIONS (not a mint). canonical count_p0_p2_tasks==2 pre-run (run
