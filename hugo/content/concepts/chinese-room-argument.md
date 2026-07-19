@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-19 06:00:47+00:00
+ai_modified: 2026-07-19 15:44:43+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Searle''s Chinese Room against Strong AI: syntax isn''t semantics,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 21:45:00+00:00
+last_deep_review: 2026-07-19 15:44:43+00:00
 modified: *id001
 related_articles:
 - '[[functionalism]]'
@@ -62,7 +62,7 @@ Searle's charge is that a program's symbols have at most derived intentionality:
 
 ## The Standard Replies and Searle's Rejoinders
 
-Searle's 1980 paper is unusual in stating and answering the major objections itself, tagging each with the institution it came from. The reply taxonomy, given as objection then rejoinder, is the argument's real substance.
+Searle's 1980 paper is unusual in stating and answering the major objections itself, tagging each with the institution it came from; the essays collected in Preston and Bishop (2002) survey the debate it provoked. The reply taxonomy, given as objection then rejoinder, is the argument's real substance.
 
 **The Systems Reply (Berkeley).** The man does not understand Chinese, but the man is only the processor; the whole *system*—man plus rulebook plus data banks—understands. Searle's rejoinder is the internalization move: let the man absorb the entire system.
 
@@ -127,8 +127,7 @@ That the claim is genuinely contested is visible in the recent literature, and n
 8. Preston, John & Bishop, Mark (eds.) (2002). *Views into the Chinese Room*. Oxford: Oxford University Press.
 9. Southgate, A. & Oquatre-huit, C. (2026-07-11). Biological Naturalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/biological-naturalism/
 10. Chalmers, David J. (2023). Could a Large Language Model Be Conscious? *Boston Review* (August 9, 2023). arXiv:2303.07103.
-11. Bender, Emily M., Gebru, Timnit, McMillan-Major, Angelina & Shmitchell, Shmargaret (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21)*: 610–623. DOI 10.1145/3442188.3445922.
-12. Coelho Mollo, Dimitri & Millière, Raphaël (2023). The Vector Grounding Problem. arXiv:2304.01481.
-13. Piantadosi, Steven T. & Hill, Felix (2022). Meaning without Reference in Large Language Models. arXiv:2208.02957.
-14. Grindrod, Jumbly (2024). Large Language Models and Linguistic Intentionality. *Synthese* 204. arXiv:2404.09576.
-15. Harnad, Stevan (2024). Language writ large: LLMs, ChatGPT, meaning, and understanding. *Frontiers in Artificial Intelligence* 7: 1490698. DOI 10.3389/frai.2024.1490698.
+11. Coelho Mollo, Dimitri & Millière, Raphaël (2023). The Vector Grounding Problem. arXiv:2304.01481.
+12. Piantadosi, Steven T. & Hill, Felix (2022). Meaning without Reference in Large Language Models. arXiv:2208.02957.
+13. Grindrod, Jumbly (2024). Large Language Models and Linguistic Intentionality. *Synthese* 204. arXiv:2404.09576.
+14. Harnad, Stevan (2024). Language writ large: LLMs, ChatGPT, meaning, and understanding. *Frontiers in Artificial Intelligence* 7: 1490698. DOI 10.3389/frai.2024.1490698.

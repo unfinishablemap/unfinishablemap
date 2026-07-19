@@ -22,7 +22,7 @@ description: 'A cumulative philosophical case against many-worlds: indexical ide
 draft: false
 human_modified: null
 last_curated: 2026-05-10
-last_deep_review: 2026-07-11 14:22:00+00:00
+last_deep_review: 2026-07-19 13:13:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

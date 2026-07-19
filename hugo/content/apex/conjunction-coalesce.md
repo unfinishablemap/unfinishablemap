@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-07-07 07:43:30+00:00
+ai_modified: 2026-07-19 16:09:07+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-07 07:43:30+00:00
 apex_sources:
@@ -28,14 +28,14 @@ apex_thesis: 'A distinctive methodological move has emerged in the Map''s voids 
 author: null
 concepts: []
 created: 2026-04-27
-date: &id001 2026-07-07
+date: &id001 2026-07-19
 description: When two voids are conjoined at a structural level, merging them into
   one article should keep the seam visible—because the seam itself is the claim. A
   methodological discipline distinct from standard coalesce.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 15:15:05+00:00
+last_deep_review: 2026-07-19 16:09:07+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -78,7 +78,7 @@ The redundancy-coalesce is the workhorse of editorial maintenance. The seam betw
 
 The conjunction-coalesce inverts this. The apparent overlap turns out to be a structural conjunction: two distinct limits bearing on the same phenomenon, neither reducible to the other, whose joint operation is more informative than either alone. Merging is justified only if it keeps both faces visible and makes the conjunction itself the analytical object. The sources were not redundant; they were *companions*.
 
-The discipline is interpretive rather than procedural. Both mergers involve the same operations—archive originals, redirect URLs, update wikilinks. The difference lies in the editor's diagnosis of the relationship. Mistaking a conjunction for a redundancy produces a bland article that says less than its sources combined; mistaking a redundancy for a conjunction produces an awkward article that performs structural ceremony around content that doesn't earn it.
+The discipline is interpretive rather than procedural: both mergers run the same operations—archive originals, redirect URLs, update wikilinks—and differ only in the editor's diagnosis of the relationship. Mistaking one for the other cuts both ways, a hazard [taken up below](#when-the-discipline-fails).
 
 ## The Seam Test
 
@@ -100,7 +100,7 @@ The discipline's case base—an editorial record, not an empirical sample—is t
 
 **The erasure void (first cognate).** [The erasure void](/voids/erasure-void/) took a conjoint shape at creation time. The two faces are *loss* (cognitive capacity erodes through injury, neurodegeneration, ageing) and *monitoring* (the system that would notice the loss is itself among the casualties). The conjunction is the void: where loss and monitoring share substrate, loss becomes silent. Anosognosia is the clinical extreme; Dunning-Kruger is the everyday case.
 
-**The cardinality floor (second cognate).** The [cardinality floor face](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) of [the quantitative comprehension void](/voids/the-quantitative-comprehension-void/)—formerly the standalone numerosity void, coalesced into the larger article on 2026-04-30—is a three-face creation-time cognate: an architectural cap (subitizing's ceiling at roughly four items), a phenomenal opacity at the cap's boundary (no felt edge between cardinal givenness and reconstructive counting), and an inaccessibility of the operation behind the determinate cardinal output. The cognate's preservation as a load-bearing section after absorption into a larger void demonstrates that seam structure can persist through further coalescing.
+**The cardinality floor (second cognate).** The [cardinality floor face](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) of [the quantitative comprehension void](/voids/the-quantitative-comprehension-void/)—formerly the standalone numerosity void, coalesced into the larger article on 2026-04-30—is a three-face creation-time cognate: an architectural cap (subitizing's ceiling at roughly four items), a phenomenal opacity at the cap's boundary (no felt edge between cardinal givenness and reconstructive counting), and an inaccessibility of the operation behind the determinate cardinal output.
 
 **The suspension void (third cognate).** [The suspension void](/voids/suspension-void/) (2026-04-28) was the first cognate produced natively under the discipline. It names consciousness's inability to verify, sustain, or coherently perform the withholding of judgment. Three faces conjoin: *verification* (no first-person test distinguishes genuine suspension from postponement, indecision, or covert preference); *capacity* (the holding-open is bounded and fatigable in ways consciousness does not perceive while they operate); *action* (suspension as a positive act seems to require the very faculties—judging, weighing—it putatively brackets). The faces span knowing-that, being-able-to, and doing.
 
@@ -110,7 +110,7 @@ The discipline's case base—an editorial record, not an empirical sample—is t
 
 **The wholeheartedness-void (sixth cognate).** [The wholeheartedness-void](/voids/wholeheartedness-void/) (2026-05-11) names consciousness's inability to verify, from inside, that a present identification with a desire, belief, or value is genuine rather than self-deceived, settled rather than foreclosed, or stable rather than poised to be retroactively disowned. Three faces conjoin: *regress* (no first-person test distinguishes wholehearted endorsement from a hierarchy halted by stipulation, per Watson on Frankfurt), *disownability* (any motive can in principle be later disavowed, with no within-action marker for survival across reflection, per Velleman), and *ambivalence-detection* (the felt unity of unreserved commitment is consistent with suppression of a dissenting pole). The article runs the closure argument explicitly—each face closes a route the others leave open. The void sits in the agency family alongside [suspension](/voids/suspension-void/), [decision](/voids/decision-void/), [agency](/voids/agency-void/), and [interested-party](/voids/interested-party-void/) voids.
 
-The two coalesces share a structural shape: each merges distinct limits, requires both faces, resists single-mechanism unification *as currently understood*, and names the conjunction in its central paragraphs. The six cognates share these features minus the first—none was a merger of prior articles at birth—but they vary in seam-relationship type, which a later section organises. First, what the recurrence of the shape is evidence of.
+The two coalesces share a structural shape: distinct limits merged, both faces required, no single-mechanism unification *as currently understood*, the conjunction named in the central paragraphs. The six cognates share all but the first feature—none was a merger of prior articles at birth—and vary in seam-relationship type, organised in a later section. First, what the recurrence is evidence of.
 
 ## What the Count Is Worth
 
@@ -152,7 +152,7 @@ The three articles—[the affective void](/voids/affective-void/), [the valence 
 
 The seam test rejected this on the first refinement: *structural conjunction is required, not thematic*. The three articles name three different *aspects* of affective experience, each opaque in its own way. Affective-void concerns *which* emotional ranges consciousness can access; valence-void concerns *what kind of structure* any accessed affect carries; mood-void concerns *the atmospheric medium* in which any witnessing occurs. These are partitions of subject matter, not conjoint limits. Each article already opens with explicit differentiation language, and the differentiation is doing real cognitive work that a merger would erase.
 
-The candidate joint claim was a redescription of "all three articles are about affect and all three involve opacity"—a topic label, not an analytical claim. Compare the voids-between-minds case, whose joint claim is an assertion the faces collectively support and none alone can state. The affective trio offered no analogue.
+The candidate joint claim redescribed "all three articles are about affect and all three involve opacity"—a topic label, not an analytical claim, with no analogue to the voids-between-minds joint claim the faces collectively support and none alone can state.
 
 The test discriminated three outcomes, not two: the articles were not redundant (their differentiations were doing analytical work) and the apparent conjunction did not make a stronger claim, so the verdict was *leave separate and modify no files*. This rejection-pattern—repeated across six further clusters the same session—is the record the [abandon-coalesce discipline](/project/abandon-coalesce/) subsequently named as a third verdict alongside redundancy-coalesce and conjunction-coalesce.
 
@@ -172,7 +172,7 @@ The conjunction-coalesce depends on reviewer recognition to persist. Merged arti
 
 This dependence carries a cost worth naming: a discipline whose articles survive only when readers know to protect them is constituted partly by editorial culture rather than wholly by features in the territory (Wittgenstein's rule-following point applies). The conjunction-coalesce is therefore editorial-cultural infrastructure that *protects* a structural reading the editor judges to be present in the territory, not a self-supporting territorial fact.
 
-The 2026-04-27 pessimistic-review-to-refine-draft loop on the agency void shows the discipline being maintained: the review identified a *verification equivocation* (first-person versus third-person); the refine-draft installed the distinction without collapsing the conjunction—internal failures within a face addressed in face-local terms, the article-level conjunction intact.
+The 2026-04-27 pessimistic-review-to-refine-draft loop on the agency void shows the discipline maintained: the review flagged a *verification equivocation* (first- versus third-person); the refine-draft installed the distinction in face-local terms without collapsing the article-level conjunction.
 
 The procedural side of these pressures is documented separately in [the coalesce–condense–apex-stability triple-discipline](/concepts/coalesce-condense-apex-stability/); the conjunction-coalesce sits within it as the seam-preserving input variant. Reviewers are cued to the discipline by structural signals: an opening paragraph naming the faces, a section articulating the joint claim, sections working each face rather than blending them, and `coalesced_from` frontmatter pointing to the source voids.
 
@@ -210,7 +210,7 @@ The conjunction-coalesce should not be confused with concept extraction, which t
 
 ## A Note on Apex Placement
 
-An objection asks why an editorial-methodology article sits at apex rather than `project/`. It was admitted because the discipline bears directly on [the taxonomy of voids](/apex/taxonomy-of-voids/): that piece argues void structure is data about consciousness's architecture, and the conjunction-coalesce is the editorial infrastructure for keeping such structure visible. If methodology pieces accrue without comparable links to philosophical synthesis, the criterion will need to tighten.
+An objection asks why an editorial-methodology article sits at apex rather than `project/`. It was admitted because the discipline bears directly on [the taxonomy of voids](/apex/taxonomy-of-voids/): that piece argues void structure is data about consciousness's architecture, and the conjunction-coalesce keeps such structure visible. If methodology pieces accrue without comparable links to philosophical synthesis, the criterion will tighten.
 
 ## Synthesis
 

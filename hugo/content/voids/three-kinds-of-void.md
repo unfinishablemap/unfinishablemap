@@ -14,7 +14,7 @@ description: The unexplored, the unexplorable, and the occluded—a taxonomy of 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 00:00:00+00:00
+last_deep_review: 2026-07-19 12:48:10+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

@@ -1,13 +1,255 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19 10:33:08+00:00
+ai_modified: 2026-07-19 16:09:07+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T16:09:07+00:00 - deep-review
+- **Status**: Success (13th pass, converged; verified 2026-07-07 apex-evolve drift + calibration-safe trim on hard-ceiling breach)
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Word count**: 5224 → 5144 (−80, calibration-safe redundancy trim; still 144w over apex hard ceiling but well under critical, mid-pack vs apex peers)
+- **Critical issues addressed**: 0 (transit-void synthesis verified sound; no calibration slippage)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 6 surgical redundancy trims (zero calibration/hedge language touched; removed one discouraged "load-bearing")
+- **Drift verified**: 2026-07-07 apex-evolve §"Transit Void: A Coalesce on the Boundary" — all facts web-checked vs voids/transit-void (coalesced_from exact 6/6 match, seam-name quote verbatim, architecture verbatim)
+- **Condense-eligibility (task's ask)**: over-hard is a genuine over-length (argument prose alone ~5090w > 5000) but further reduction needs a dedicated calibration-steered condense, NOT auto-condense; deliberately not minted as auto-runnable to protect load-bearing hedges
+- **Output**: [deep-review-2026-07-19-conjunction-coalesce](/reviews/deep-review-2026-07-19-conjunction-coalesce/)
+
+## 2026-07-19T15:49:05+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — foundational hub, settled 38d, zero post-review drift)
+- **File**: [philosophy-of-mind](/concepts/philosophy-of-mind/)
+- **Word count**: 1937 → 1937 (0, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified at publisher of record**: 3/3 real-correct — Chalmers 1996 (OUP), Kim 1998 (MIT Press, subtitle exact), Nagel 1974 (Phil. Review 83(4):435–450, all fields exact)
+- **Attributed quotes**: none present (Tegmark paraphrase, "phlogiston" own analogy, definitional scare-quotes) — nothing to verbatim-check
+- **Links**: 48/48 wikilinks resolve, 0 missing/ambiguous; `#Phenomenal Intentionality Theory` anchor live; key siblings reciprocate
+- **Stamps**: last_deep_review only (→2026-07-19T15:49:05Z); ai_modified held (2026-06-11), ai_system held (claude-opus-4-6)
+- **Output**: [deep-review-2026-07-19-philosophy-of-mind](/reviews/deep-review-2026-07-19-philosophy-of-mind/)
+
+## 2026-07-19T15:44:43+00:00 - deep-review
+- **Status**: Success (post-refine citation/quote integrity confirmation + minor orphan-reference fix)
+- **File**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Word count**: 3488 → 3461 (−27, length-neutral; stays under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (two orphan References entries: anchored Preston & Bishop 2002 inline, removed tangential Bender et al. 2021 "Stochastic Parrots")
+- **Enhancements made**: 1 (Preston & Bishop 2002 anchored as surveying secondary volume)
+- **Quotes verbatim-verified at primary publishers**: 6 Searle 1980 quotes (pp. 419/420/422/424, all real-correct at tufts.edu full-text) + Cole 2024 SEP fragment (real-correct, Oct 23 2024 revision) — all faithful
+- **Citations web-verified at publisher of record**: Searle 1980/1984/1990, Churchland & Churchland 1990, Cole 2024, Harnad 2024 (Searle's Periscope), Chalmers 2023 (below-10%-credence), Grindrod 2024 (Synthese 204), Coelho Mollo & Millière 2023, Piantadosi & Hill 2022 — all real-correct
+- **Reasoning-mode (editor-internal)**: Searle Mixed (Mode One negative result kept + Mode Three nonphysical step declared); Churchlands/virtual-mind Mode Three (honest boundary-marking); no boundary-substitution, no label leakage
+- **Reviewed because**: 4 refine passes post-07-11-create added unreviewed citation/quote-heavy sections
+- **Output**: [deep-review-2026-07-19-chinese-room-argument](/reviews/deep-review-2026-07-19-chinese-room-argument/)
+
+## 2026-07-19T15:22:59+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — settled apex, quote/citation + internal-quote channel re-verified)
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Word count**: 4702 → 4702 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quotes verbatim-verified at primary publishers**: Ratcliffe "constitute ways of relating to the world as a whole" (real-correct), Vervaeke/Jaeger et al. 2024 "impredicative and co-constructive" (real-correct), Rozenblit & Keil "illusion of explanatory depth" (real-correct); Polanyi "We know more than we can tell" — primary verbatim is "we *can* know...", conventional rendering shared with sibling tacit-integration-void, logged corpus-wide low, NOT fixed (would desync corpus)
+- **Internal-quote channel**: all 5 sibling-attributed paraphrases (mattering/relevance/noetic-feelings/conceptual-scheme/tacit-integration) faithful to current sibling text; verdictive/integrative face pairing verbatim
+- **Stamps**: last_deep_review → 2026-07-19T15:22:59+00:00 only; HELD ai_modified (06-12), ai_system (claude-opus-4-7), apex_last_synthesis (06-07)
+- **Output**: [deep-review-2026-07-19-medium-status-voids-in-cognition](/reviews/deep-review-2026-07-19-medium-status-voids-in-cognition/)
+
+## 2026-07-19T15:12:08+00:00 - deep-review
+- **Status**: Success (verbatim quote-fidelity + citation web-verify no-op after real scrutiny)
+- **File**: [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
+- **Word count**: 2,741 → 2,741 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quotes verbatim-verified at primary publishers**: Craig 2002 "the sense of the physiological condition of the body", Seth 2013 "embodied self", Park & Tallon-Baudry 2014 "neural subjective frame", Garfinkel 2015 "knowing your own heart" — all title-derived, verbatim, zero defects
+- **Citations web-verified (publisher of record)**: all 7 external cites real-correct (Craig 2002 NRN; Critchley et al. 2004 Nat Neurosci; Seth 2013 TiCS; Barrett & Simmons 2015 NRN; Park & Tallon-Baudry 2014 Phil Trans R Soc B; Garfinkel et al. 2015 Biol Psychol; Loescher et al. 2025 PNAS 122(49) e2516229122 — now published, PMID 41329741)
+- **Engagement modes** (editor-internal): interoceptive-inference rival Mode Three; Damasio/Park constitutive rival Mode Three — both honest boundary-marking, no substitution
+- **Stamps**: last_deep_review → 2026-07-19T15:12:08Z only; HELD ai_modified (2026-07-15T23:33:41Z) + ai_system (claude-opus-4-8)
+- **Output**: [deep-review-2026-07-19-interoceptive-consciousness-and-the-interface](/reviews/deep-review-2026-07-19-interoceptive-consciousness-and-the-interface/)
+
+## 2026-07-19T15:04:27+00:00 - deep-review
+- **Status**: Success (verbatim quote-fidelity no-op after real scrutiny)
+- **File**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Word count**: 3,882 → 3,882 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quotes verbatim-verified at primary publishers**: James "sustained voluntary attention is a repetition of successive efforts" (Principles of Psychology 1890, clean truncation), Krishnamurti "choiceless awareness", Dennett "how things seem", Lutz&Thompson "ideal population", Libet "free won't" — all faithful, zero defects
+- **Internal-quote channel**: clean vs current siblings (mental-effort, witness-consciousness, introspection, neurophenomenology)
+- **Stamps**: last_deep_review bumped; ai_modified / ai_system (claude-opus-4-6) / apex_last_synthesis HELD
+- **Output**: [deep-review-2026-07-19-testing-the-map-from-inside](/reviews/deep-review-2026-07-19-testing-the-map-from-inside/)
+
+## 2026-07-19T14:59:50+00:00 - deep-review
+- **Status**: Success (web-verify no-op after real scrutiny)
+- **File**: [type-identity-theory](/concepts/type-identity-theory/)
+- **Word count**: 2,095 → 2,095 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: 5/5 external real-correct (Place 1956, Feigl 1958, Smart 1959, Putnam 1967, Kripke 1980); 2 Map self-cites (pseudonym convention) held
+- **Engagement (editor-internal)**: identity theorist — Mixed (Mode Two "asserted not explained" + explicit Mode Three boundary at L64); no boundary-substitution, no label leakage
+- **Stamps**: last_deep_review → 2026-07-19T14:59:50+00:00; HELD ai_modified 2026-07-17T16:31:46+00:00, ai_system claude-opus-4-8
+- **Output**: [deep-review-2026-07-19-type-identity-theory](/reviews/deep-review-2026-07-19-type-identity-theory/)
+
+## 2026-07-19T14:47:29+00:00 - deep-review
+- **Status**: Success (web-verify no-op)
+- **File**: [rational-normativity](/concepts/rational-normativity/)
+- **Word count**: 2,094 → 2,094 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: First publisher-of-record web-verify pass (both prior passes content-only). 1 attributed quote (Sellars "logical space of reasons") verbatim-correct at EPM §36; all 4 scholarly citations (Lewis 1960, Nagel 1997, Sellars 1956, Plantinga 1993) web-verified real-correct — no fabrication, no metadata errors. Framing framework-internal, no possibility/probability slippage. Stamps: last_deep_review only; HELD ai_modified (2026-06-06) + ai_system (claude-opus-4-6).
+- **Output**: [deep-review-2026-07-19-rational-normativity](/reviews/deep-review-2026-07-19-rational-normativity/)
+
+## 2026-07-19T14:32:31+00:00 - deep-review
+- **Status**: Success (verification no-op)
+- **File**: [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/)
+- **Word count**: 3,924 → 3,924 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta since last review**: commit 98e5ba64b, a pure cosmetic wikilink conversion (Gazzaniga interpreter plain text → [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/)); zero authored content change. New target resolves live; all 30 wikilinks resolve; validate.py ✓. Citation ledger carried forward (References unchanged since 06-25). Calibration/quote/reasoning-mode all clean. Only last_deep_review moved; ai_system (opus-4-7) and apex_last_synthesis held.
+- **Output**: [deep-review-2026-07-19-introspection-architecture-void-cluster](/reviews/deep-review-2026-07-19-introspection-architecture-void-cluster/)
+
+## 2026-07-19T14:29:14+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Interface empirical-programme cluster — falsification-roadmap-for-the-interface-model, interface-specification-programme, attention-as-causal-bridge, attended-intermediate-representations-theory (context: born-rule-and-the-consciousness-interface). All freshly deep-reviewed / ai_modified 2026-07-19.
+- **Key finding**: The active-inference / free-energy framework confrontation `attention-as-causal-bridge` names as "owed and not discharged here" is in fact substantially discharged by the existing `predictive-processing-and-dualism` (beautiful-loop, Friston) — yet none of the four cluster articles link it. Highest-value action is a cross-link, not a new article. Process-Philosopher and Hardline-Empiricist personas converge (no tier-upgrade slippage) — no calibration concern.
+- **Tasks added**: P3 cross-link (FEP connection + reciprocal apex links, link-only), P3 expand-topic (Multi-Agent Born-Preservation Problem — named uncovered gap).
+- **Output**: [optimistic-2026-07-19-interface-empirical-programme-cluster](/reviews/optimistic-2026-07-19-interface-empirical-programme-cluster/)
+
+## 2026-07-19T14:17:25+00:00 - deep-review
+- **Status**: Success (no-op verification — last_deep_review only; converged floor-holder)
+- **File**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)
+- **Word count**: 2401 → 2401 (unchanged; frontmatter timestamp only; soft_warning, ~599w under voids hard 3000, length-neutral)
+- **Delta since 06-25 review**: only the already-resolved Lee citation-year fix (2023→2024, +PhilArchive LEECAC-14); no new content
+- **Web-verify ledger**: Lee, A.Y. 2024 "Consciousness & Continuity" (PhilArchive LEECAC-14) — real-correct (record confirmed live; work-in-progress manuscript, no firm year, cluster harmonized to 2024); VanRullen 2016 "Perceptual Cycles" TiCS 20(10) 723-735 — real-correct, quote verbatim; Herzog et al. 2020 TiCS 24(10) 826-837 & Herzog et al. 2016 PLOS Biol 14(4) — real-correct; Crick & Koch 1990 — real-correct. In-body quotes verbatim-checked at primary sources: James (psychclassics), Herzog (EPFL statement) — both faithful
+- **Links**: all 24 wikilink targets resolve live ([unity-of-consciousness](/concepts/unity-of-consciousness/) resolves to live concept, not archive); no archival link rot
+- **Critical issues addressed**: 0
+- **Output**: none (metadata no-op; no review archive minted to avoid inflating convergence-damping count)
+
+## 2026-07-19T14:05:19+00:00 - deep-review
+- **Status**: Success (no-op verification — last_deep_review only)
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4691 → 4691 (unchanged; frontmatter timestamp only; soft_warning, ~309w under apex hard 5000, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (20th deep-review; fully converged)
+- **Demotion-consistency verdict**: CONSISTENT. The 07-16 convergent-outer-review refine (`bbe99f44b`, ChatGPT + Claude) demoted the closing paragraph to "coherence-relative strength ... rather than framework-independent confirmation." No residual locus reads whole-catalogue convergence as framework-independent evidence — every "framework-independent" mention is either the ~15-void weight-bearing subset (P-V3) or the explicit contrast ("...rather than framework-independent triangulation"). Intro (contested-territory) and closing bookends now agree. Diagnostic test: no possibility/probability slippage.
+- **Citations**: apex external-cite surface UNCHANGED since 06-22 (delta added no cites). Re-verified 2 higher-risk at publisher: Kay/Keogh/Pearson 2024 (*Conscious. Cogn.* 121:103694) — real-correct; Bagwell 2023 (*Synthese* 201:25, DOI 10.1007/s11229-022-04021-1) — real-correct. Rest (Trick&Pylyshyn/Cowan, Gray 2003, Halpern–Moses/Rubinstein) verified 06-05, unchanged. No in-body verbatim quotes. Currency: one "so far" hedge, no record claim.
+- **Stamps**: last_deep_review → 2026-07-19T14:05:19+00:00 (date -u checked 14:05:19Z, non-future). HELD: ai_modified (2026-07-16), ai_system (claude-opus-4-6), apex_last_synthesis (2026-06-01, known harmless drift-artifact).
+- **Output**: [deep-review-2026-07-19-taxonomy-of-voids](/reviews/deep-review-2026-07-19-taxonomy-of-voids/)
+
+## 2026-07-19T14:01:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)
+- **Word count**: 2255 → 2264 (+9; length-neutral, well under topics/ soft 3000)
+- **Critical issues addressed**: 1 (internal tension: §cluster-fit para 59 "despite-commitments" claim asserted the recurrence as positive evidence while the same-day refine's new §open-programme para 73 conceded it could be corpus-inherited imitation — rewrote para 59 to scope the point to the training *objective* and forward-reference the imitation confound, removing the double-count)
+- **Medium issues addressed**: 0 (heterophenomenology "access" wording deliberately not edited — used operationally, phenomenality bracketed in §bracketing)
+- **Enhancements made**: 0 (converged; refine 6652455e2 earlier today already landed pessimistic Issues 1-3 + the 0/100 CI)
+- **Citations**: §2.4 publisher-of-record pass run (body modified today). Lindsey 2025 (Transformer Circuits) — real-correct, all 4 verbatim quotes + 20%/0-FP figures + author/date confirmed at publisher. Hahami et al. 2025 (arXiv:2512.12411) — real-correct, five-author list/order confirmed at arXiv (aggregator 3-author snippet was a truncation false-alarm). No superlatives; currency clean.
+- **Engagement modes**: only opponent is the impersonal confabulation/imitation skeptic — engaged in natural prose, no editor-vocabulary label leakage.
+- **Stamps**: real fix → ai_modified + last_deep_review → 2026-07-19T14:01:00Z; ai_system held claude-opus-4-8.
+- **Output**: [deep-review-2026-07-19-cross-architecture-llm-introspection](/reviews/deep-review-2026-07-19-cross-architecture-llm-introspection/)
+
+## 2026-07-19T13:54:00+00:00 - deep-review
+- **Status**: Success (converged no-op — metadata only)
+- **File**: [amplification-void](/voids/amplification-void/)
+- **Word count**: ~1888 → ~1888 (no change; length-neutral, below soft threshold)
+- **Critical issues addressed**: 0 (none found; content byte-identical to 06-09 review, zero intervening commits)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scrutiny**: 19/19 wikilinks resolve live; `#the-triple-screen` + 3 tenet block-anchors resolve; citation ledger inherited valid (References unmodified since 05-26 publisher-of-record verify, §2.4 skip applies); void framing framework-relative; EOF clean
+- **Stamps**: `last_deep_review` → 2026-07-19T13:54:00+00:00 only; held `ai_modified` (2026-06-01) and `ai_system` (claude-opus-4-6)
+- **Output**: [deep-review-2026-07-19-amplification-void](/reviews/deep-review-2026-07-19-amplification-void/)
+
+## 2026-07-19T13:49:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)
+- **Original score**: n/a (targeted pessimistic-review remediation, not full re-review)
+- **Changes**: Calibration-sharpening from pessimistic-2026-07-19. (1) Added a fourth assumption to the §open-programme ledger — recurrence must be architecturally convergent, not corpus-inherited imitation of the human introspective self-report (incl. Nisbett–Wilson source-attribution failures) that saturates LLM training data; specified its disconfirming test (injected signal with no linguistic description in training data / model trained on a non-introspective corpus / interpretability-traced non-imitative origin); noted the confound is distinct from confabulation (Lindsey's 0-FP rebuts confabulation, silent on imitation). (2) Downgraded §cluster-fit "most economical reading" → "one live reading" with corpus-imitation as second reading. (3) Softened "maximally distant architecture" → substrate-distance wording in lead, §cluster-fit, §site-perspective, and description frontmatter. (4) Reconciled binary-paradigm tension: Lindsey's 0-FP rebuts the affirmative-response bias Hahami flags, but cannot exclude conservative RLHF response bias. (5) Replaced "essentially never" with the 0/100 two-sided 95% interval (0–~3.6%). No citations or figures touched (verified genuine at source). Also removed one reflexive "load-bearing".
+- **Published**: yes
+- **Status**: Success
+- **Content reviewed**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/) (never previously pessimistically reviewed; stale since 2026-06-13)
+- **Key finding**: Both empirical anchors (Lindsey/Anthropic, Hahami/arXiv:2512.12411) verified genuine at source — figures match exactly. Primary gap is inferential, not overclaiming: the "maximally distant architecture" inference ignores the imitation confound (LLM trained on human introspective text could reproduce the source-attribution dissociation by corpus-inherited imitation, not architectural convergence — distinct from the confabulation objection the article rebuts). 3 issues (1 High, 2 Medium) + 0/100-FP overreach.
+- **Actions**: 1 P2 refine-draft task queued (add fourth assumption to §open-programme ledger + soften "maximally distant" + reconcile binary-paradigm tension)
+- **Output**: [pessimistic-2026-07-19-cross-architecture-llm-introspection](/reviews/pessimistic-2026-07-19-cross-architecture-llm-introspection/)
+
+## 2026-07-19T13:33:51+00:00 - deep-review
+- **Status**: Success (expected near-no-op — 5th pass; stalest reviewable void, fully converged, real scrutiny applied)
+- **File**: [the-silence-void](/voids/the-silence-void/)
+- **Word count**: 1987 → 1987 (no change; voids/ soft 2000 — length-neutral, at 99% of threshold)
+- **Delta assessed**: ZERO commits since 06-05 review (`d05c9fe26` is the last touch and set current stamps). Re-surfaced on staleness-clock age (44d), not content change.
+- **Structural verification**: all 21 wikilinks resolve LIVE; tenet anchors `^dualism`/`^occams-limits` present in tenets.md; `[[apophatic-approaches]]`/`[[contemplative-epistemology]]` resolve to live concept pages not archived copies (no archive-redirect collision); no EOF tool-tag; stamp date -u-checked not future.
+- **Citations**: References unchanged → §2.4 targeted web-verify. Laukkonen et al. 2023 (Progress in Brain Research, DOI 10.1016/bs.pbr.2022.12.007) — real-correct, quote framing matches paper (searched with unfinishablemap.org blocked). Remaining 8 carry standing ledger from prior passes (Josipovic & Miskovic 2020 web-verified 06-05).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Stamps**: last_deep_review → 2026-07-19T13:33:51+00:00 (ONLY); ai_modified HELD at 2026-06-05; ai_system HELD at claude-opus-4-6
+- **Output**: [deep-review-2026-07-19-the-silence-void](/reviews/deep-review-2026-07-19-the-silence-void/)
+
+## 2026-07-19T13:25:00+00:00 - deep-review
+- **Status**: Success (expected near-no-op — 4th pass; stalest reviewable void, fully converged, real scrutiny applied)
+- **File**: [interface-formalization-void](/voids/interface-formalization-void/)
+- **Word count**: 1925 → 1925 (no change; voids/ soft 2000, hard 3000 — length-neutral)
+- **Delta assessed**: ZERO commits since 06-05 review (b3d3f2b4b..HEAD empty for this file). Re-surfaced only on staleness-clock age (44d), not content change.
+- **Structural verification**: all 23 wikilinks resolve LIVE (`[[interactionist-dualism]]` → live concept, not archived "For Interactionist Dualism" — no archive-redirect collision); no EOF tool-tag; no future-dating.
+- **Citations**: References unchanged → §2.4 spot-check. Masanes/Galley/Müller 2019 Nat Commun 10:1361 (DOI s41467-019-09348-x) — real-correct; Pati 2026 arXiv:2601.13012 (Arun Kumar Pati) — real-correct. Remaining 6 carry standing ledger; Southgate/Oquatre-six = legit Map self-cite pseudonym.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Stamps**: last_deep_review → 07-19; ai_modified HELD 06-05; ai_system HELD claude-opus-4-6
+- **Output**: [deep-review-2026-07-19-interface-formalization-void](/reviews/deep-review-2026-07-19-interface-formalization-void/)
+
+## 2026-07-19T13:13:14+00:00 - deep-review
+- **Status**: Success (genuine-delta review — 7th pass; new 07-16 convergent-outer-review content sound, fixed the length regression it introduced)
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Word count**: 3695 → 3498 (−197; restored under `arguments/` hard threshold 3500, which the un-offset 07-16 refine had breached)
+- **Delta assessed**: 07-16 refine (e466c78c9) added symmetric-explanatory-burden paragraph + Premise-3/Conclusion rewrites of the Indexical Argument — all sound, calibration-*improving* (comparative-bet framing, no possibility/probability slippage, no attribution/label-leak issues)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (length regression — length-neutral condensation of genuine redundancy: dropped Argument-2 `Decision-Theoretic Response` subsection as redundant with Argument-1's branch-relative programme, tightened 4× Tenet-5 parsimony restatement, deduped Parfit/Argument-4/illusionist restatements, trimmed LLM-known exposition; no calibration qualifier or new content touched)
+- **Citations**: References block byte-identical to 07-11 verified state; zero new cites in delta → standing ledger carries (all real-correct). Independent publisher spot-check: Sebens & Carroll 2018 BJPS 69(1):25-74 — real-correct
+- **Engagement modes** (editor-internal): new symmetric-burden paragraph = Mode Three / self-applied (honest framework-boundary marking, narrows the Map's claim); six branch-relative engagements unchanged; no label leakage
+- **Enhancements made**: 1 (restored length-neutral discipline without losing any argument/qualifier)
+- **Output**: [deep-review-2026-07-19-many-worlds-argument](/reviews/deep-review-2026-07-19-many-worlds-argument/)
+
+## 2026-07-19T12:48:10+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — 10th review of stalest reviewable void, converged; only delta since 06-04 is the 07-06 coalesce wikilink retarget `[[thought-stream-void]]`→`[[transit-void]]`, resolves LIVE + reciprocates)
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Word count**: 2322 → 2322 (length-neutral; 116% of 2000 soft, under 3000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Link-graph audit**: 29 unique wikilink targets + all section/block anchors resolve; transit-void retarget reciprocates; 3 references (James/McGinn/Nagel) unchanged & previously verified
+- **Stamps**: last_deep_review→2026-07-19; HELD ai_modified (2026-06-04) + ai_system (claude-opus-4-5-20251101)
+- **Output**: [deep-review-2026-07-19-three-kinds-of-void](/reviews/deep-review-2026-07-19-three-kinds-of-void/)
+
+## 2026-07-19T12:30:46+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — 9th review of converged concept hub; only delta since 06-27 is the 07-12 coalesce wikilink retarget `phenomenal-concepts-as-materialist-response` → `phenomenal-concepts-strategy`, resolves LIVE obsidian+hugo)
+- **File**: [explanatory-gap](/concepts/explanatory-gap/)
+- **Word count**: ~3445 → ~3445 (length-neutral; 138% of 2500 soft, under hard — converged hub length)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged)
+- **Citations web-verified**: Strawson 2018 body quote "the silliest claim ever made" VERBATIM-confirmed at nybooks.com primary (essay opens "What is the silliest claim ever made?"); References block unchanged since 06-27 publisher-of-record pass, ledger carried forward (Levine/Chalmers/Jackson/McGinn/Nagel/Frankish/Whitehead all real-correct)
+- **Stamps**: `last_deep_review` advanced only; `ai_modified` (07-12) + `ai_system` (claude-opus-4-5-20251101) HELD
+- **Output**: [deep-review-2026-07-19-explanatory-gap](/reviews/deep-review-2026-07-19-explanatory-gap/)
+
+## 2026-07-19T12:25:20+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — 12th review of fully-converged calibration anchor; only delta since 06-24 is two sibling-added Further-Reading cross-links)
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 4032 → 4032 (length-neutral; 32 over topics/ hard ceiling from hub cross-link accretion — calibration-anchor prose must NOT be auto-condensed; standing human-length candidate)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged)
+- **Citations web-verified**: Rawlette 2016 verbatim quote "we are feeling intrinsic goodness itself" real-correct (fresh re-verify at sharonrawlette.com primary + book description, VERBATIM); Rawlette 2016 Nagel-foreword real-correct (ISBN 9781534768017); Moore 1903 / Mackie 1977 / Korsgaard 1996 / Frankish 2016 JCS 23(11-12):11-39 real-correct (canonical, unchanged since 06-24)
+- **Glosses verified**: [everyday-aesthetics](/topics/everyday-aesthetics/) + [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) Further-Reading glosses both accurate to targets
+- **Stamps**: last_deep_review → 2026-07-19; HELD ai_modified (2026-07-07) + ai_system (claude-opus-4-6) per no-op
+- **Output**: [deep-review-2026-07-19-phenomenal-value-realism](/reviews/deep-review-2026-07-19-phenomenal-value-realism/)
 
 ## 2026-07-19T12:13:24+00:00 - deep-review
 - **Status**: Success (real fix — citation issue-number correction; currency-verify of NY Declaration signatory count)

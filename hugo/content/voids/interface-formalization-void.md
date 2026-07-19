@@ -17,7 +17,7 @@ description: Human+AI exploration of why the consciousness-physics interface res
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-07-19 13:22:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

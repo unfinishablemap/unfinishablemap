@@ -19,7 +19,7 @@ description: Rational normativity is the prescriptive dimension of reasoning —
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-06 00:00:00+00:00
+last_deep_review: 2026-07-19 14:47:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -37,7 +37,7 @@ description: Over a hundred cognitive voids (roughly fifteen framework-independe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 17:44:16+00:00
+last_deep_review: 2026-07-19 14:05:19+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

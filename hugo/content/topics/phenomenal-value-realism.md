@@ -29,7 +29,7 @@ description: Why value lives in conscious experience—not in preferences, socia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 08:56:09+00:00
+last_deep_review: 2026-07-19 12:25:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

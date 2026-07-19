@@ -3,6 +3,7 @@ ai_contribution: 100
 ai_generated_date: 2026-02-11
 ai_modified: 2026-07-19 09:45:54+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
+anchoring_audit_exempt: true
 author: null
 coalesced_from:
 - /topics/temporal-ontology-and-consciousness/

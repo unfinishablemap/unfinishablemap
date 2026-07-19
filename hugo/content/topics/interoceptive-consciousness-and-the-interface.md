@@ -16,7 +16,7 @@ description: 'Interoception completes the Map''s modality survey inward and brea
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 01:59:52+00:00
+last_deep_review: 2026-07-19 15:12:08+00:00
 modified: *id001
 related_articles:
 - '[[cross-modal-capability-division]]'
