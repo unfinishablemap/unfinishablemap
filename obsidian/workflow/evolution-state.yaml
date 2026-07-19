@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T01:18:53.362998+00:00'
-session_count: 16500
-cycle_position: 11439
+last_updated: '2026-07-19T01:23:03.241165+00:00'
+session_count: 16501
+cycle_position: 11440
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T23:52:48.978605+00:00'
   optimistic-review: '2026-07-19T00:53:27.010830+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T22:38:45.119700+00:00'
-  deep-review: '2026-07-19T01:18:53.362998+00:00'
+  deep-review: '2026-07-19T01:23:03.241165+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T22:39:49.688252+00:00'
   coalesce: '2026-07-18T21:15:00.448157+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6631
+  reviews_completed: 6632
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-18'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 - task: deep-review
@@ -1326,28 +1326,31 @@ queue_status:
   p2_tasks: 99
   p3_tasks: 10
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-19T01:10:00+00:00'
-  last_replenishment_prev: '2026-07-19T01:00:00+00:00'
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-19T01:30:00+00:00'
+  last_replenishment_prev: '2026-07-19T01:10:00+00:00'
   last_floor_restore_target: 'mint TWO P2 deep-reviews (interactive /replenish-queue
-    2026-07-19T00:42Z, floor-restore +1 buffer). AUTHORITATIVE count_p0_p2_tasks(todo)
-    LIVE pre-count == 2 (open P2s: the two prior near-no-op staleness floor-holders
-    delegatory-dualism + hard-problem-of-consciousness; the three #veto condenses
-    and all P3/HUMAN-LENGTH/blocked correctly excluded), == 4 re-verified live after
-    write. Eight-source audit re-confirms exhaustion of every OTHER source: chain
-    empty (recent_tasks zero research/expand/cross-review); unconsumed-research +
-    gap blocked (topics 320/320 concepts 320/320 voids 100/100 AT CAP, positions 8/80
-    < 10-entry audit threshold); length -- every genuine content offender #veto or
-    human-length-deferred; orphans 0; applied-apex none. Staleness SOURCE USED. Targets
-    (both clean: 0 active + 0 Vetoed-bank hits, converged 30d, ai_contribution 100,
-    under-ceiling so length-neutral, citation-dense for web-verify yield per owed-web-verify-seam-deep-review-targeting):
-    (1) topics/dopamine-and-the-unified-interface.md (last_deep_review 2026-06-19,
-    ~16 dated citations, 2722w); (2) topics/open-individualism-and-the-de-combination-problem.md
-    (last_deep_review 2026-06-19, ~11 dated citations, 2874w). Theme-diversify from
-    the two existing floor-holders. Avoided evolutionary-case-for-mental-causation
-    (3 Vetoed hits) and filter-theory (32 Vetoed hits) as over-churned. Expected partial
-    web-verify yield; close as near-no-op if citation ledger fully verifies. Overwrote
-    prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
+    2026-07-19T01:30Z, floor-restore +1 buffer). AUTHORITATIVE count_p0_p2_tasks(todo)
+    LIVE pre-count == 2 (open P2s: topics/co-optimization-reply-to-the-correlation-problem
+    + topics/quantum-immortality; three #veto condenses and all P3/HUMAN-LENGTH/blocked
+    correctly excluded), == 4 re-verified live after write. Eight-source audit re-confirms
+    exhaustion of every OTHER source: chain empty (recent_tasks zero research/expand/cross-review);
+    unconsumed-research + gap blocked (topics 320/320 concepts 320/320 voids 100/100
+    AT CAP, positions 8 register entries < 10-entry audit threshold, audited 2026-07-16
+    < 30d); length -- every genuine content offender #veto or human-length-deferred;
+    orphans 0; applied-apex none. Staleness SOURCE USED. Targets (both clean: 0 open
+    headers + 0 Vetoed-bank deep-review hits, ai_contribution 100, under HARD ceiling
+    so length-neutral, section+theme-diversifying from the two open topics/ floor-holders):
+    (1) apex/ai-as-introspection-control.md (get_review_candidates #1 standalone, score
+    53.75; last_deep_review 2026-06-05 = 44d; CHANGED-SINCE-REVIEW — substantive apex-evolve
+    edit 36454cad4 2026-07-18 22ins/14del unverified; 4520w soft_warning, ~480w under
+    apex 5000 hard); (2) voids/valence-void.md (last_deep_review 2026-06-05 = 44d;
+    2043w soft_warning, ~950w under voids 3000 hard; NOT session-touched, last touch
+    is the 06-05 review). Avoided concepts/discrimination-problem (26 Vetoed-bank hits,
+    over-churned), evolutionary-case-for-mental-causation, filter-theory, and near-ceiling
+    mutation-void (churn hazard). Expected partial web-verify yield; close as near-no-op
+    if the citation ledger fully verifies. Overwrote prior target-note in place to
+    hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md
     (interactive /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
@@ -1402,7 +1405,7 @@ queue_status:
     Replenish-at-floor alternation (unfin_loop_steady_state), not a deadlock. Overwrote
     the prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   replenishment_source_counts:
-    staleness: 1
+    staleness: 2
   run_748_pickable_p0_p2: 3
   run_746_pickable_p0_p2: 3
   run_745_pickable_p0_p2: 3
@@ -1438,7 +1441,8 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 750
+  last_replenishment_run: 751
+  run_751_pickable_p0_p2: 4
   run_749_pickable_p0_p2: 3
   last_replenishment_mode: conservative
   run_740_pickable_p0_p2: 4
