@@ -5,6 +5,18 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T09:27:44+00:00 - deep-review
+- **Status**: Success (converged no-op after full citation web-verify)
+- **File**: [[concepts/first-order-representationalism]]
+- **Word count**: ~1420 → ~1420 (no change; below concepts/ soft 2500)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 8 bibliographic cites + Harman transparency quote verified at publisher of record (Rutgers primary PDF, JSTOR, PhilPapers). Harman quote VERBATIM-correct ("the only features there to turn your attention to will be features of the presented tree" — exact substring, venue Phil. Perspectives 4:31–52 correct). Block 1990 (Phil. Perspectives 4:53–79) and Block 1996 (Phil. Issues 7:19–49) both real-correct. Prinz AIR-cousin framing (07-12 delta) tracks sibling article, no over-claim.
+- **Engagement mode**: Tye/Dretske/Harman — Mixed (unsupported-foundational-move + honest boundary-marking); no boundary-substitution, no label leakage.
+- **Stamps**: no body change → moved `last_deep_review` to 2026-07-19 only; held `ai_modified` (07-12T08:52) + `ai_system` (claude-opus-4-8) at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-19-first-order-representationalism]]
+
 ## 2026-07-19T09:13:30+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Synthetic minimal agents and the engineered competency-experience decoupling
