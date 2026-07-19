@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T21:02:39.912514+00:00'
-session_count: 16714
-cycle_position: 11545
+last_updated: '2026-07-19T21:12:23.171604+00:00'
+session_count: 16715
+cycle_position: 11546
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T18:15:14.218639+00:00'
   optimistic-review: '2026-07-19T19:00:16.474712+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-19T20:56:58.288547+00:00'
+  deep-review: '2026-07-19T21:12:23.171604+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T19:38:09.889191+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6718
+  reviews_completed: 6719
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1331,29 +1331,40 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T21:00:00+00:00'
-  last_replenishment_prev: '2026-07-19T20:52:00+00:00'
-  last_replenishment_run: 770
+  last_replenishment: '2026-07-19T21:20:00+00:00'
+  last_replenishment_prev: '2026-07-19T21:00:00+00:00'
+  last_replenishment_run: 771
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_764_note: 'run no.764 (2026-07-19T19:32Z, interactive /replenish-queue): SINGLE
-    floor-restoring staleness deep-review mint (voids/language-thought-boundary.md).
-    Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders topics/evolutionary-case-for-mental-causation
-    + voids/emergence-void); metaphor-void, the prior third holder, was consumed +
-    deep-reviewed by the live cycle (commit 5d3091e1c) since run 763, dropping the
-    count to 2. Below floor of 3. Eight-source audit LIVE: chains null; unconsumed-research
-    + gap BLOCKED (topics/concepts/voids all AT CAP; positions 8/80); staleness ==
-    ONLY live source; orphaned_files=0; length offenders all veto/human-deferred/research/apex-hub/positions;
-    positions 8<10 audit threshold (audited 2026-07-17); no applied-apex gap. Target
-    language-thought-boundary: 35d converged/byte-stable (ldr==ai_mod 2026-06-13T20:02),
-    primary opus-4-7 older cohort (real unchecked References surface, owed-web-verify
-    seam), ai_contribution 100, only 2 dedicated deep-reviews (neither a publisher
-    Web-Verify pass), NOT queued/vetoed/session-touched, ~2612w soft_warning (staleness-driven,
-    keep length-neutral). mind-arena (44d strict-oldest) rejected again: opus-4-8
-    de-prioritized + Map-self-cite-only no-op. Single mint (no +1 buffer) given genuine
-    source scarcity; documented replenish-at-floor alternation, NOT empty-queue deadlock.
-    Appended at BOTTOM (FIFO). No concurrent evolve_loop.py.'
+  run_771_note: 'run no.771 (2026-07-19T21:18Z, interactive /replenish-queue): SINGLE
+    floor-restoring staleness deep-review mint (voids/appetitive-void.md). Authoritative
+    pre-write count_p0_p2_tasks == 2 (open floor-holders topics/contemplative-pathology-and-interface-malfunction
+    [run 769] + topics/the-subject-object-distinction-as-philosophical-discovery [run
+    770]); run-768 mint topics/dopamine-and-the-unified-interface, the prior third holder,
+    was consumed + deep-reviewed by the in-process cycle (commit b1cbc8c7e, 21:12Z)
+    since run 770, dropping the count to 2. Below floor of 3. Eight-source audit LIVE:
+    chains null; unconsumed-research + gap BLOCKED (topics 320/320, concepts 320/320,
+    voids 100/100 all AT CAP; positions 8/80); staleness == ONLY live source; orphaned_files=0;
+    length offenders all veto/human-deferred/research/apex-hub/positions; positions
+    8<10 audit threshold (last positions-evolve 2026-07-17, <30d); no applied-apex gap.
+    Target appetitive-void: 31d converged/byte-stable (ldr==ai_mod 2026-06-18T11:25,
+    ZERO commits since a2a14a42a), opus-4-6 older cohort (NOT de-prioritized opus-4-8),
+    ai_contribution 100, 2123w voids soft_warning (length-safe), only 3 prior dedicated
+    deep-reviews == LEAST-reviewed eligible older-cohort member (fresh-eyes warranted,
+    not an over-review no-op). Owed-web-verify seam honestly EXHAUSTED for the clean
+    cohort (brain-computer-interfaces / discrimination-problem / evolutionary-case /
+    surprise-prediction-error / dopamine all on the do-NOT-re-mint verified park list);
+    the get_review_candidates top-5 (the-sublime + 4) are all opus-4-8 with COSMETIC
+    Further-Reading cross-link deltas == metadata no-op; the oldest opus-4-5 cohort (locality
+    7, epiphenomenalism 25, mind-brain-separation 6, temporal-structure 6, authentic-vs-inauthentic
+    6 reviews) all OVER-REVIEWED (convergence-damped, skipped). So strict-oldest least-reviewed
+    staleness with a PLAIN PROBABLE-NO-OP label (do NOT manufacture a defect). Distinct
+    cluster (appetitive/desire/motivation void) from both open holders. NOT queued/vetoed/session-touched.
+    Single mint (no +1 buffer) given genuine source scarcity; documented replenish-at-floor
+    alternation, NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No concurrent
+    evolve_loop.py (in-process cycle commits every ~3-4min; uncommitted evolution-state.yaml
+    delta is legitimate deferred cycle_post bookkeeping, KEPT).'
   run_768_note: 'run no.768 (2026-07-19T20:40Z, interactive /replenish-queue): SINGLE
     floor-restoring staleness deep-review mint (topics/dopamine-and-the-unified-interface.md).
     Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders voids/thrownness-void
