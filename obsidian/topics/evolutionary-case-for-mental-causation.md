@@ -6,7 +6,7 @@ modified: 2026-05-18
 human_modified: null
 ai_modified: 2026-06-17T21:48:51+00:00
 draft: false
-last_deep_review: 2026-06-17T21:48:51+00:00
+last_deep_review: 2026-07-19T20:15:52+00:00
 topics:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[hard-problem-of-consciousness]]"
