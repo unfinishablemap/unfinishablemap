@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-31
 last_curated: null
-last_deep_review: 2026-06-09T00:00:00+00:00
+last_deep_review: 2026-07-19T15:04:27+00:00
 
 apex_sources:
   - concepts/introspection

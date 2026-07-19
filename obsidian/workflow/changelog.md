@@ -5,6 +5,18 @@ ai_modified: 2026-07-19T14:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T15:04:27+00:00 - deep-review
+- **Status**: Success (verbatim quote-fidelity no-op after real scrutiny)
+- **File**: [[apex/testing-the-map-from-inside]]
+- **Word count**: 3,882 → 3,882 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quotes verbatim-verified at primary publishers**: James "sustained voluntary attention is a repetition of successive efforts" (Principles of Psychology 1890, clean truncation), Krishnamurti "choiceless awareness", Dennett "how things seem", Lutz&Thompson "ideal population", Libet "free won't" — all faithful, zero defects
+- **Internal-quote channel**: clean vs current siblings (mental-effort, witness-consciousness, introspection, neurophenomenology)
+- **Stamps**: last_deep_review bumped; ai_modified / ai_system (claude-opus-4-6) / apex_last_synthesis HELD
+- **Output**: [[reviews/deep-review-2026-07-19-testing-the-map-from-inside]]
+
 ## 2026-07-19T14:59:50+00:00 - deep-review
 - **Status**: Success (web-verify no-op after real scrutiny)
 - **File**: [[concepts/type-identity-theory]]
