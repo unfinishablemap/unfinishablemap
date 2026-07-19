@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T11:29:06.666949+00:00'
-session_count: 16605
-cycle_position: 11490
+last_updated: '2026-07-19T11:32:51.263394+00:00'
+session_count: 16606
+cycle_position: 11491
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T09:42:59.893331+00:00'
   optimistic-review: '2026-07-19T10:36:17.773312+00:00'
   check-tenets: '2026-07-19T02:59:54.066406+00:00'
   check-links: '2026-07-19T08:10:10.379695+00:00'
-  deep-review: '2026-07-19T11:23:11.573050+00:00'
+  deep-review: '2026-07-19T11:32:51.263394+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-19T08:11:07.028143+00:00'
   coalesce: '2026-07-19T11:16:55.660458+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 521
-  reviews_completed: 6670
+  reviews_completed: 6671
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1339,33 +1339,35 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4
+  p2_tasks: 3
   p3_tasks: 8
   needs_replenishment: false
-  loop_pickable_open: 4
-  last_replenishment: '2026-07-19T11:00:00+00:00'
-  last_replenishment_prev: '2026-07-19T10:12:00+00:00'
-  last_floor_restore_target: 'MINT 2 deep-review P2 (interactive /replenish-queue
-    2026-07-19T11:00Z, conservative). Live pre-count count_p0_p2_tasks==2 (open pickable
-    P2 floor-holders: agency-void deep-review + falsification-roadmap deep-review;
-    run 757 altered-states / steelmanning / born-rule floor-holders all DRAINED via
-    cycle slots since 10:12Z per recent_tasks); ==4 after. All content sections at
-    cap (topics 320/320, concepts 320/320, voids 100/100) so no expand/research-topic
-    chains; positions audit NOT due (last audit commit 200b4d373 dated 2026-07-12,
-    within 30d window, avoids the false-overdue trap). Targets picked for GENUINE
-    non-cosmetic owed-web-verify deltas postdating last deep-review: (1) apex/interface-specification-programme.md
-    last-reviewed 2026-06-22, the 2026-07-16 refine e416dce3d added missing sub-laws
-    plus the engineering-level qualification, unverified, Tenet-2 load-bearing; (2)
-    apex/attention-as-causal-bridge.md last-reviewed 2026-06-25, the 2026-07-16 refine
-    0d08423ca added a framework-level active-inference/PP rival section plus a Cogitate/Melloni
-    Nature citation sweep, unverified. REJECTED positions register scorers (score
-    103 but maintained via positions-evolve not deep-review, audit not due), apex-articles
-    index, hub-churn condenses (born-rule condensed a dozen times, re-accretes), and
-    human-parked flagship length decisions (epistemology-of-convergence, edge-states,
-    synesthetic-void, the 3 #veto condenses). Top-inserted at head of Active. No concurrent
-    evolve_loop.py at mint time.'
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-19T11:43:42+00:00'
+  last_replenishment_prev: '2026-07-19T11:00:00+00:00'
+  last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue
+    2026-07-19T11:43Z, conservative EXACT-floor, ONE mint no padding). Live pre-count
+    count_p0_p2_tasks==2 (open pickable P2 floor-holders: falsification-roadmap-for-the-interface-model
+    deep-review + apex/minds-without-words deep-review; the 3 veto condenses parser-excluded,
+    P3s + human-length-decision blocks do not count); ==3 after. All content sections
+    at cap (topics 320/320, concepts 320/320, voids 100/100) so no expand/research-topic
+    chains; positions 8/80 slow-add, audit not due (<30d). HONEST EXHAUSTION: the
+    topics+concepts staleness scorer top-12 is dry of genuine non-cosmetic older-cohort
+    deltas this cycle (manipulation-argument/wavefunction/source-vs-leeway/frankfurt
+    all web-verified 07-09 with cosmetic wikilink deltas; explanatory-gap 8th-review
+    do-not-re-review directive; phenomenal-value-realism 11th-review, qualia 16th-review
+    converged with publisher ledgers; intentionality over concepts hard ceiling; epistemological-limits
+    reviewed 07-06 inside the 14-day window; the fresh opus-4-8 cohort de-prioritized).
+    TARGET voids/three-kinds-of-void.md hand-selected over the scanner-blind voids
+    section (get_review_candidates scans only topics+concepts): stalest reviewable
+    void, last_deep_review 2026-06-04 (45d), oldest-cohort opus-4-5, 2322w soft_warning
+    length-safe, only post-review delta a cosmetic transit-void coalesce retarget
+    so an honest expected near-no-op floor-holder, section-diversifying from the topic+apex
+    opens. Appended at bottom of Active so FIFO drains the two older P2s first. No
+    concurrent evolve_loop.py at mint time; tree clean apart from pre-session state.yaml
+    deferred bookkeeping.'
   replenishment_source_counts:
-    staleness: 2
+    staleness: 1
   run_758_pickable_p0_p2: 4
   run_749_pickable_p0_p2: 3
   run_748_pickable_p0_p2: 3
