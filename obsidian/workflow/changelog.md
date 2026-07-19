@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T12:13:24+00:00 - deep-review
+- **Status**: Success (real fix — citation issue-number correction; currency-verify of NY Declaration signatory count)
+- **File**: [[apex/minds-without-words]]
+- **Word count**: 3866 → 3866 (length-neutral; apex soft threshold 4000)
+- **Critical issues addressed**: 1 (Andrews, Birch & Sebo 2025 *Science* issue number 6735 → 6736; Crossref DOI 10.1126/science.adp4990 confirms 387(6736):822–824)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; second review)
+- **Citations web-verified**: NY Declaration signatory count 605 real-correct (primary source "Signature count: 605", both declaration quotes verbatim); Gutfreund 2024 in-body quote real-correct (verbatim truncation, PMC11496166); Andrews/Birch/Sebo 2025 issue-number corrected; Cambridge Declaration 2012 + Nagel 1974 real-correct
+- **Stamps**: bumped ai_modified + last_deep_review; HELD ai_system (claude-opus-4-6) + apex_last_synthesis (05-19 known drift-artifact)
+- **Output**: [[reviews/deep-review-2026-07-19-minds-without-words]]
+
 ## 2026-07-19T11:58:00+00:00 - deep-review
 - **Status**: Success (real fix — publisher-verified framing correction; genuine 07-07/07-11 citation delta since 06-26 review)
 - **File**: [[topics/falsification-roadmap-for-the-interface-model]]
