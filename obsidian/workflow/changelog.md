@@ -5,6 +5,19 @@ ai_modified: 2026-07-19T15:12:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T15:49:05+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — foundational hub, settled 38d, zero post-review drift)
+- **File**: [[concepts/philosophy-of-mind]]
+- **Word count**: 1937 → 1937 (0, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified at publisher of record**: 3/3 real-correct — Chalmers 1996 (OUP), Kim 1998 (MIT Press, subtitle exact), Nagel 1974 (Phil. Review 83(4):435–450, all fields exact)
+- **Attributed quotes**: none present (Tegmark paraphrase, "phlogiston" own analogy, definitional scare-quotes) — nothing to verbatim-check
+- **Links**: 48/48 wikilinks resolve, 0 missing/ambiguous; `#Phenomenal Intentionality Theory` anchor live; key siblings reciprocate
+- **Stamps**: last_deep_review only (→2026-07-19T15:49:05Z); ai_modified held (2026-06-11), ai_system held (claude-opus-4-6)
+- **Output**: [[reviews/deep-review-2026-07-19-philosophy-of-mind]]
+
 ## 2026-07-19T15:44:43+00:00 - deep-review
 - **Status**: Success (post-refine citation/quote integrity confirmation + minor orphan-reference fix)
 - **File**: [[concepts/chinese-room-argument]]

@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-06-11T11:02:23+00:00
+last_deep_review: 2026-07-19T15:49:05+00:00
 ---
 
 Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation-and-downward-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — is widely regarded as one of the deepest unsolved problems in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
