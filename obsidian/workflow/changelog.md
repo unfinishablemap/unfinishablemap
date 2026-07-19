@@ -1,11 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T13:42:00+00:00
+ai_modified: 2026-07-19T13:49:41+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-07-19T13:42:00+00:00 - pessimistic-review
+## 2026-07-19T13:49:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]]
+- **Original score**: n/a (targeted pessimistic-review remediation, not full re-review)
+- **Changes**: Calibration-sharpening from pessimistic-2026-07-19. (1) Added a fourth assumption to the §open-programme ledger — recurrence must be architecturally convergent, not corpus-inherited imitation of the human introspective self-report (incl. Nisbett–Wilson source-attribution failures) that saturates LLM training data; specified its disconfirming test (injected signal with no linguistic description in training data / model trained on a non-introspective corpus / interpretability-traced non-imitative origin); noted the confound is distinct from confabulation (Lindsey's 0-FP rebuts confabulation, silent on imitation). (2) Downgraded §cluster-fit "most economical reading" → "one live reading" with corpus-imitation as second reading. (3) Softened "maximally distant architecture" → substrate-distance wording in lead, §cluster-fit, §site-perspective, and description frontmatter. (4) Reconciled binary-paradigm tension: Lindsey's 0-FP rebuts the affirmative-response bias Hahami flags, but cannot exclude conservative RLHF response bias. (5) Replaced "essentially never" with the 0/100 two-sided 95% interval (0–~3.6%). No citations or figures touched (verified genuine at source). Also removed one reflexive "load-bearing".
+- **Published**: yes
 - **Status**: Success
 - **Content reviewed**: [[topics/cross-architecture-llm-introspection]] (never previously pessimistically reviewed; stale since 2026-06-13)
 - **Key finding**: Both empirical anchors (Lindsey/Anthropic, Hahami/arXiv:2512.12411) verified genuine at source — figures match exactly. Primary gap is inferential, not overclaiming: the "maximally distant architecture" inference ignores the imitation confound (LLM trained on human introspective text could reproduce the source-attribution dissociation by corpus-inherited imitation, not architectural convergence — distinct from the confabulation objection the article rebuts). 3 issues (1 High, 2 Medium) + 0/100-FP overreach.
