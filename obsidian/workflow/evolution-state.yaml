@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T00:15:38.000898+00:00'
-session_count: 16489
-cycle_position: 11433
+last_updated: '2026-07-19T00:22:27.809005+00:00'
+session_count: 16490
+cycle_position: 11434
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T23:52:48.978605+00:00'
   optimistic-review: '2026-07-18T20:29:13.309668+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T22:38:45.119700+00:00'
-  deep-review: '2026-07-19T00:15:38.000898+00:00'
+  deep-review: '2026-07-19T00:22:27.809005+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T22:39:49.688252+00:00'
   coalesce: '2026-07-18T21:15:00.448157+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6625
+  reviews_completed: 6626
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-07-18'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-07-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: condense
   type: condense
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 - task: deep-review
@@ -1326,34 +1326,42 @@ queue_status:
   p3_tasks: 10
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-18T23:44:00+00:00'
-  last_replenishment_prev: '2026-07-18T23:31:00+00:00'
-  last_floor_restore_target: 'mint P2 deep-review voids/capability-division-problem.md
-    (interactive /replenish-queue 2026-07-18T23:44Z, conservative exact-floor +1,
-    ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(todo) LIVE pre-count ==
-    2 (open P2s: concepts/perception + topics/delegatory-dualism, both near-no-op
-    staleness floor-holders; the three #veto condenses -- composition-question-rivals,
-    meaning-of-life, phenomenal-output -- + P3/HUMAN-LENGTH/blocked correctly excluded),
-    == 3 after write. Documented replenish-at-floor alternation (unfin_loop_steady_state),
-    NOT a concurrent race. Eight-source audit re-confirms exhaustion: chain empty;
-    unconsumed-research + gap blocked (topics 320/320 concepts 320/320 voids 100/100
-    AT CAP, positions 8/80 < 10-entry audit threshold); staleness LIVE -- SOURCE USED;
-    length -- every genuine content offender #veto or human-length-deferred (epistemology-of-convergence
-    + born-rule DEFERRED-TO-HUMAN calibration anchors; synesthetic-void + edge-states
-    HUMAN LENGTH DECISION; phenomenal-output open #veto; transit-void just-condensed
-    07-18), positions files are structured registers not blind-condense targets; orphans
-    0; applied-apex none. Target: voids/capability-division-problem.md -- oldest-cohort
-    (claude-opus-4-6), highest-citation-surface (16 citation tokens) under-ceiling
-    staleness candidate (2879w soft_warning, no length action), aic 100, last_deep_review
-    2026-06-04 (44d). Owed-web-verify yield rationale (owed-web-verify-seam-deep-review-targeting):
-    the UNCHECKED 16-citation verify surface on the oldest cohort. ai_modified ==
-    last_deep_review, so NO changed-since-review delta -- the 07-06 coalesce touch
-    was a cosmetic 3-line cross-link only (replenish-changed-since-review-delta-often-cosmetic-wikilink),
-    NOT recent drift. Theme-diversifies from the two queued floor-holders (a concept
-    + a dualism topic). If citations verify clean, accepted near-no-op floor-holder
-    (deep_review_over_reviews_converged): bump last_deep_review ONLY, HOLD ai_modified
-    2026-06-04 + ai_system opus-4-6. NOT vetoed, NOT open-duplicate, NOT session-touched.
-    Overwrote prior target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
+  last_replenishment: '2026-07-19T00:30:00+00:00'
+  last_replenishment_prev: '2026-07-18T23:44:00+00:00'
+  last_floor_restore_target: 'mint P2 deep-review topics/hard-problem-of-consciousness.md
+    (interactive /replenish-queue 2026-07-19T00:30Z, conservative exact-floor +1, ONE
+    mint, no padding). AUTHORITATIVE count_p0_p2_tasks(todo) LIVE pre-count == 2 (open
+    P2s: concepts/perception + topics/delegatory-dualism, both near-no-op staleness
+    floor-holders; the three #veto condenses -- composition-question-rivals, meaning-of-life,
+    phenomenal-output -- + P3/HUMAN-LENGTH/blocked correctly excluded), == 3 re-verified
+    live after write. The prior third floor-holder voids/capability-division-problem
+    (minted 23:44Z) was drained by a cycle deep-review slot at 00:22Z (deferred cycle_post
+    bookkeeping seen in state: session 16490, deep-review last_run 00:22, capability-division
+    no longer in Active) -- documented replenish-at-floor alternation (unfin_loop_steady_state),
+    NOT a concurrent race; NO evolve_loop.py running. Eight-source audit re-confirms
+    exhaustion: chain empty; unconsumed-research + gap blocked (topics 320/320 concepts
+    320/320 voids 100/100 AT CAP, positions 8/80 < 10-entry audit threshold); staleness
+    LIVE -- SOURCE USED; length -- every genuine content offender #veto or human-length-deferred
+    (composition-question-rivals / meaning-of-life / phenomenal-output #veto; quantum-biology
+    / quantum-consciousness / personal-identity HUMAN LENGTH DECISION), and the scorer top
+    ranks are all blocked (10-12d just-reviewed over-review cohort; decoherence / near-death
+    / filter-theory session-touched today; consciousness-metaphysics-of-composition +
+    explanatory-gap + filter-theory OVER hard ceiling; comparing-quantum-consciousness-mechanisms
+    AT the 4000 ceiling edge); orphans 0; applied-apex none. Target: topics/hard-problem-of-consciousness.md
+    -- oldest CLEAN cohort candidate, last_deep_review 2026-06-20 (29d), ai_system opus-4-6
+    (older cohort), aic 100, 3454w under the 4000 topics hard ceiling (546w headroom,
+    strictly length-neutral), ~15-citation UNCHECKED verify surface (owed-web-verify-seam-deep-review-targeting).
+    All post-review commits are cosmetic cross-link retargets (a87034a9b 07-12 coalesce
+    2/2; c7f56a874 07-11 Searle-biological-naturalism cross-link 2/1; 7af293b4f 07-06
+    coalesce 1/1; 55195ba12 06-23 reciprocal inbound 2/2), NOT authored body drift
+    (replenish-changed-since-review-delta-often-cosmetic-wikilink). Theme-diversifies
+    from the two queued floor-holders (a perception concept + a free-will delegation
+    topic) -- this is the core hard-problem / explanatory-gap topic. Expected accepted
+    near-no-op floor-holder (deep_review_over_reviews_converged): bump last_deep_review
+    ONLY, HOLD ai_modified 2026-07-12 + ai_system opus-4-6. NOT vetoed (the 9 Vetoed-bank
+    hits are cross-reference mentions, not a vetoed deep-review of this file), NOT open-duplicate,
+    NOT session-touched (last touch 07-12). Overwrote prior target-note in place to hold
+    state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md
     (interactive /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
@@ -1444,7 +1452,7 @@ queue_status:
   run_710_pickable_p0_p2: 3
   run_709_pickable_p0_p2: 3
   run_708_pickable_p0_p2: 3
-  last_replenishment_run: 749
+  last_replenishment_run: 750
   run_749_pickable_p0_p2: 3
   last_replenishment_mode: conservative
   run_740_pickable_p0_p2: 4
