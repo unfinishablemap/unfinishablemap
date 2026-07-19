@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T06:45:07+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T07:04:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Word count**: 2993 → 2994 (+1)
+- **Critical issues addressed**: 3 (verbatim quote-fidelity)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Verbatim quote-fidelity seam (metadata ledger complete + References byte-unchanged since 2026-06-05, so metadata web-verify skipped per [[quote-fidelity-defects-survive-metadata-reviews]]). Matched every direct quote at primary source. Fixed two genuine misquotes + one dropped comma: (1) Laukkonen 2023 nirodha samāpatti "cessation of thought and feeling" → "cessation of feeling and perception" (wrong constituent — saññā is perception, not thought; verified at MGH/Harvard primary PDF, Ñāṇamoli & Bodhi 1995 rendering); (2) Metzinger 2020 "six semantic constraints from existing literature" → narrowed quote + restored source word "the" (abstract: "from the existing literature"); (3) Hume Treatise Intro — restored comma after "principles,". Verified real-correct: "sixteen phenomenological case-studies", "pure awareness", "zero-person perspective", "wakefulness", "gap"/"cut". Length-neutral; under 3000 voids hard cap. ai_modified + last_deep_review both bumped (genuine content fix); ai_system held at claude-opus-4-6.
+- **Output**: [[reviews/deep-review-2026-07-19-minimal-consciousness-void]]
+- **Published**: yes
+
 ## 2026-07-19T06:47:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
