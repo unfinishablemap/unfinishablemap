@@ -21,7 +21,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11
 last_curated:
-last_deep_review: 2026-07-11T01:09:30+00:00
+last_deep_review: 2026-07-19T22:23:03+00:00
 ---
 
 The phenomenal-sorites problem asks whether phenomenal consciousness is *ontically* vague: whether there could be a system for which there is no fact of the matter whether it is conscious **at all** — not merely how richly, but whether the lights are on in any degree. Build a continuum from a clearly conscious human to a clearly non-conscious object — an evolutionary series, a developmental gradient, one-neuron-at-a-time removal — and the sorites question follows: must every adjacent pair share consciousness-status, does a sharp cutoff fall somewhere, or do some middle cases have no determinate answer? The decisive fork is where any indeterminacy is located. It can sit in the **world** (ontic vagueness — reality is itself unsettled), in **language** (semantic vagueness — our concepts fail to pick out a unique fact), or in **knowledge** (epistemicism — a sharp fact exists but its location is unknowable). This concept keeps its focus on the first, hardest option: metaphysical indeterminacy of consciousness itself.
