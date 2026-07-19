@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-07-11T12:24:00+00:00
+ai_modified: 2026-07-19T18:16:17+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -46,7 +46,7 @@ related_articles:
   - "[[grain-mismatch-as-independent-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-09
 last_curated: null
 last_deep_review: 2026-07-11T12:24:00+00:00
@@ -63,7 +63,7 @@ embedded_videos:
     source: notebooklm/0085-01-bandwidth-of-consciousness
 ---
 
-Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a quantity Zheng and Meister call the "sifting number," which runs to 100 million to one against total neural processing (and roughly a million to one against sensory transduction). The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface, distinguishing what consciousness does from what the brain does, and arguably exposing why production models face a problem that [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] models appear to handle more naturally.
+Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second. Zheng and Meister call the *ratio* between total neural processing and this conscious throughput the "sifting number"—running to roughly 100 million to one (and roughly a million to one against sensory transduction). The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface, distinguishing what consciousness does from what the brain does—a datum both production and interface readings must account for, and which the [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] readings arguably accommodate with less strain.
 
 <details class="yt-embed" data-video-id="-ZzU5zvhghA">
 <summary>Video introduction</summary>
@@ -149,7 +149,7 @@ The bottleneck appears precisely where consciousness enters the picture—the br
 
 The [[filter-theory|filter model]] appears to handle the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck may be the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. On this reading the 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
-The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second where consciousness participates. On the filter model, this is what one would expect: the filter constrains consciousness specifically, not neural processing in general. The converse prediction also seems to hold: altered states involving loosened interface constraints might involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with expanded subjective richness (Carhart-Harris et al., 2014)—a pattern production models may struggle to explain but filter models seem to anticipate, though the entropy-richness correlation could admit production-side readings too.
+The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second where consciousness participates. On the filter model, this is what one would expect: the filter constrains consciousness specifically, not neural processing in general. The converse prediction also seems to hold: altered states involving loosened interface constraints might involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with expanded subjective richness (Carhart-Harris et al., 2014)—a pattern filter models seem to anticipate. The honest counterweight is the disruptive case: [[anaesthesia-and-the-consciousness-interface|anaesthesia]] and slow-wave sleep *reduce* neural entropy as consciousness fades, and there production reads the entropy-consciousness link straightforwardly—more entropy, more experience; less, less. The psychedelic finding cannot be cited as a clean filter-favourable datum while its disruptive mirror reads at least as naturally on production. The correlation is suggestive of the filter picture, not decisive between the models.
 
 ### The Outbound Side Suggests Selection
 
@@ -171,9 +171,11 @@ The bandwidth constraint applies per unit time, but effects accumulate—the bas
 
 The [[baseline-cognition|baseline cognition hypothesis]] attributes sophisticated cognition—tool use, social learning, spatial navigation—to unconscious systems operating at full neural bandwidth. What requires conscious bandwidth is *manipulation*: logical reasoning, counterfactual thinking, recursive language. Skills that begin as conscious processes become automatic with practice: expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity.
 
-## The Epiphenomenalism Test
+## Epiphenomenalism and the Conscious-Influence Premise
 
-The asymmetry poses a specific challenge to [[epiphenomenalism]]. If consciousness were epiphenomenal, the outbound "channel" would carry zero bits per second. There would be no consistent throughput ceiling, because epiphenomena have no throughput. The existence of a measurable, task-independent bandwidth—10 bits per second, not zero, not random—suggests consciousness is performing work. Mandik (2010) may reinforce this: introspecting motor control introduces a "doubling of tasks"—attending to controlling interferes with controlling—a pattern that seems most intelligible if conscious action operates through a narrow channel that cannot simultaneously carry action-selections and self-monitoring.
+Does the measured bandwidth bear on [[epiphenomenalism]]? Less than it can first appear. It is tempting to argue that an epiphenomenal consciousness would leave the outbound "channel" carrying zero bits, so that a measurable, task-independent ceiling shows consciousness performing work. But this misreads the epiphenomenalist, who attributes the full 10 bits per second to the neural report-and-decision subsystem, with consciousness a non-causal passenger. The measured bitrate is exactly what epiphenomenalism predicts too, and so carries no evidential traction against it. What the figure is *consistent with*—not what it establishes—is an efficacious-consciousness reading on which the same bits index *conscious* selection rather than merely *neural* selection.
+
+That identification is the crux, and it is an additional commitment the interface reading takes on rather than a result the measurement delivers. The ~10 bits/s is a *reportable-access* throughput—an epistemic, measurement quantity; reading it as *conscious causal influence*—a metaphysical quantity—requires the further premise that the reporting channel and the influencing channel are one and the same. The bandwidth data neither supply nor refute that premise. Mandik (2010) is suggestive here without settling it: introspecting motor control introduces a "doubling of tasks"—attending to controlling interferes with controlling—a pattern intelligible if conscious action operates through a narrow channel that cannot simultaneously carry action-selections and self-monitoring, though the same interference is describable in wholly neural terms.
 
 ## The Evolutionary Puzzle
 
@@ -203,7 +205,7 @@ Zheng and Meister's phrase—"the largest unexplained number in brain science"�
 
 **Interface capacity.** The Map's candidate is that the ceiling reflects the bandwidth of the mind-matter interface itself, predicting stability across species, training, and neural reorganisation. As above, this is compatible with the data but not uniquely forced by it.
 
-The number ~10 is a load-bearing empirical fact in search of a theory.
+The number ~10 is a central empirical fact in search of a theory.
 
 
 ## What Would Challenge This View

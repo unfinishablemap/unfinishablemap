@@ -5,6 +5,20 @@ ai_modified: 2026-07-19T17:48:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T18:16:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Changes**:
+  - HIGH: Reframed the "Epiphenomenalism Test" (now "Epiphenomenalism and the Conscious-Influence Premise"). Old text argued epiphenomenalism predicts a zero-bit outbound channel, so a measured 10 bits/s shows consciousness working — begging the question. The epiphenomenalist attributes the same 10 bits to the neural report subsystem, so the datum is fully expected on their view. Now framed as *consistent with* an efficacious-consciousness reading, carrying no traction against epiphenomenalism.
+  - MEDIUM: Fixed internal inconsistency in what "sifting number" denotes. Lede attached the term to the 10-bit *quantity*; line 100 attached it to the *ratio*. Verified at Zheng & Meister 2025 Neuron 113(2) / arXiv 2408.10234: the paper defines Sifting Number = sensory rate / behavioral throughput ≈ 10⁸ (a ratio), and "largest unexplained number in brain science" refers to that ratio. Lede was the erroneous locus; reconciled to the ratio.
+  - MEDIUM: Closed the epistemic→metaphysical slide at the epiphenomenalism/free-will cash-out — added a paragraph making explicit that identifying reportable-access throughput with conscious causal throughput is an additional commitment the interface reading takes on, not something the measurement delivers.
+  - MEDIUM: Balanced the one-sided psychedelic entropy evidence (§Filter Theory's Natural Fit). Added the disruptive cluster (anaesthesia, slow-wave sleep: entropy-down/consciousness-down), which production reads straightforwardly; removed "production models may struggle to explain." Mechanical altered-state symmetry gate does NOT fire (1 supportive item), so this is ordinary one-sidedness — added one counterweight clause + one wikilink, NOT the full three-move symmetry apparatus.
+  - LOW: Softened the lede's "production models face a problem" to a parity framing matching the body's verdict.
+  - LOW: Replaced decorative second "load-bearing" (§Why Ten Specifically) with "central"; kept the defensible one at line 182.
+- **Engagement classification** (editor-internal): epiphenomenalist — Mode Three (framework-boundary marking; the honest conclusion is that the bandwidth data do not discriminate between epiphenomenalism and efficacious consciousness, stated as such rather than dressed as refutation). No mode labels in article prose.
+- **Original score**: n/a (targeted pessimistic-review remediation)
+- **Published**: yes
+
 ## 2026-07-19T18:12:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/bandwidth-of-consciousness.md (last pessimistic review 2026-06-25; heavy filter framing). Found 1 High (question-begging Epiphenomenalism Test), 1 Medium internal inconsistency ("sifting number" denotes 10-bit quantity in lede vs ratio at line 100), plus epistemic→metaphysical slide, one-sided psychedelic entropy evidence, and lede/body tension. Mechanical altered-state symmetry audit did NOT fire (only 1 supportive-cluster item). Queued P2 refine-draft.
