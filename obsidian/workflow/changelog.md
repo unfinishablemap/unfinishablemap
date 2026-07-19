@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T14:17:25+00:00
+ai_modified: 2026-07-19T15:12:08+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T15:12:08+00:00 - deep-review
+- **Status**: Success (verbatim quote-fidelity + citation web-verify no-op after real scrutiny)
+- **File**: [[topics/interoceptive-consciousness-and-the-interface]]
+- **Word count**: 2,741 → 2,741 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quotes verbatim-verified at primary publishers**: Craig 2002 "the sense of the physiological condition of the body", Seth 2013 "embodied self", Park & Tallon-Baudry 2014 "neural subjective frame", Garfinkel 2015 "knowing your own heart" — all title-derived, verbatim, zero defects
+- **Citations web-verified (publisher of record)**: all 7 external cites real-correct (Craig 2002 NRN; Critchley et al. 2004 Nat Neurosci; Seth 2013 TiCS; Barrett & Simmons 2015 NRN; Park & Tallon-Baudry 2014 Phil Trans R Soc B; Garfinkel et al. 2015 Biol Psychol; Loescher et al. 2025 PNAS 122(49) e2516229122 — now published, PMID 41329741)
+- **Engagement modes** (editor-internal): interoceptive-inference rival Mode Three; Damasio/Park constitutive rival Mode Three — both honest boundary-marking, no substitution
+- **Stamps**: last_deep_review → 2026-07-19T15:12:08Z only; HELD ai_modified (2026-07-15T23:33:41Z) + ai_system (claude-opus-4-8)
+- **Output**: [[reviews/deep-review-2026-07-19-interoceptive-consciousness-and-the-interface]]
 
 ## 2026-07-19T15:04:27+00:00 - deep-review
 - **Status**: Success (verbatim quote-fidelity no-op after real scrutiny)
