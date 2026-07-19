@@ -5,7 +5,7 @@ created: 2026-06-19
 modified: 2026-06-19
 human_modified:
 ai_modified: 2026-07-09T07:15:52+00:00
-last_deep_review: 2026-07-08T14:01:45+00:00
+last_deep_review: 2026-07-19T21:24:53+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
