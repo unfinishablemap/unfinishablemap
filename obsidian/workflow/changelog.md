@@ -5,6 +5,19 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T11:07:26+00:00 - deep-review
+- **Status**: Success (real fix — orphan citation integrated; article otherwise converged + well-calibrated)
+- **File**: [[concepts/emergent-dualism]]
+- **Word count**: 2117 → ~2140 (+~23; concepts 85%→86% of 2500 soft — normal-improvement mode, below threshold)
+- **Critical issues addressed**: 1 (orphan reference — Hasker 2001 "Persons as Emergent Substances" was in References but never cited inline; integrated at the field-analogy paragraph as a faithful paraphrase, resolving the inline↔References cross-reference)
+- **Medium issues addressed**: 0 (Nagarjuna/Humean challenge to the UOC simple-subject premise is routed to [[unity-of-consciousness]] — not re-opened, avoids oscillation on a converged passage)
+- **Enhancements made**: 1
+- **Citations web-verified (publisher of record)**: 6 external cites, ALL real-correct. Hasker 1999 *The Emergent Self* (Cornell); Hasker 2001 (Corcoran ed., *Soul Body & Survival*, Cornell, pp.107-119 — abstract confirms field/magnet analogy); Hasker 2010 (Koons & Bealer, *Waning of Materialism*, OUP — commissurotomy framing matches); Rickabaugh 2018 (Loose/Menuge/Moreland, *Blackwell Companion to Substance Dualism*, Wiley ch.5); SEP "Emergent Properties" (O'Connor & Wong — paraphrase **verbatim-faithful** to the SEP Hasker sentence); Kim 2005 *Physicalism or Something Near Enough* (Princeton). No superlatives, no fabrications, no wrong-metadata. Map self-cites (Oquatre pseudonyms) legit — not stripped.
+- **Reasoning-mode**: engagement with Rickabaugh's constitution worry = honest burden/boundary-marking (concedes coupling *relocates* not *discharges* the burden); no boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage — dependence-vs-independence resolved "provisionally, in favour of coupling," case explicitly "argued, not asserted."
+- **Stamps**: bumped `ai_modified` + `last_deep_review` → 2026-07-19T11:07:26+00:00 (real content fix); HELD `ai_system` (claude-opus-4-8).
+- **Output**: [[reviews/deep-review-2026-07-19-emergent-dualism]]
+
 ## 2026-07-19T10:52:48+00:00 - deep-review
 - **Status**: Success (NO-OP — content unchanged; converged, new cite verifies clean)
 - **File**: [[apex/altered-states-as-interface-evidence]]
