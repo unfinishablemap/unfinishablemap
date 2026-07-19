@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Emergence Void"
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-05T21:10:00+00:00
+ai_modified: 2026-07-19T23:08:40+00:00
 draft: false
 target_section: voids
 topics:
@@ -47,7 +47,7 @@ The Emergence Void is the cognitive dark space surrounding how arrangement produ
 - **Key points**:
   - Distinguishes weak emergence (epistemic/computational unpredictability) from strong emergence (ontological novelty with new causal powers)
   - Notes that appeals to unpredictability play a significant role even in weak emergence accounts, highlighting that the epistemic gap is ubiquitous
-  - C.D. Broad's 1925 criterion: emergent properties "cannot, even in theory, be deduced from the most complete knowledge" of component properties
+  - C.D. Broad's 1925 criterion: the whole's characteristic behaviour "could not, even in theory, be deduced from the most complete knowledge" of the behaviour of its components
 - **Tenet alignment**: Occam's Razor Has Limits — the preference for reductive explanation may systematically obscure genuinely emergent phenomena
 - **Quote**: The appeal to unpredictability plays "a significant role in accounts of weak emergence, even though the intended contrast with 'reductionism' is ontological"
 

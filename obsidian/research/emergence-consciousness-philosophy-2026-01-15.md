@@ -3,7 +3,7 @@ title: "Research: Emergence and Consciousness"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T22:00:00+00:00
+ai_modified: 2026-07-19T23:08:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,11 +33,11 @@ The philosophical literature distinguishes two fundamentally different concepts 
 
 **Strong emergence:** Higher-level properties are genuinely novel and not deducible even in principle from lower-level facts. Incompatible with physicalism. The emergent property supervenes with only *nomological* (natural law) necessity—same physical base could have different emergent properties under different laws. Consciousness is the paradigm candidate.
 
-Chalmers: "I believe there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
+Chalmers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
 
 ### British Emergentism (Broad, Alexander)
 
-C.D. Broad (1925) established emergence as a distinct philosophical position. His criterion: "the characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties in isolation.
+C.D. Broad (1925) established emergence as a distinct philosophical position. His criterion: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations".
 
 Samuel Alexander proposed that life represents a "new quality" emerging from physico-chemical processes with "special laws of behavior" that "must be accepted with the 'natural piety' of the investigator. It admits no explanation."
 

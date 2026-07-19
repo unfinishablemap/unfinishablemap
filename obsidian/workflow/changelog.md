@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T21:40:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T23:08:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-strong-emergence-of-consciousness]]
+- **Word count**: 3960 → 3967 (+7, verbatim quote restoration)
+- **Critical issues addressed**: 1 (+2 in citation family)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Details**: 9th deep review of a converged article, targeted at the never-web-verified quote layer. Broad 1925 criterion was corrupted corpus-wide inside quotation marks ("characteristic properties...cannot" for Broad's actual "characteristic behaviour...could not...behaviour of its components", p. 59) — survived 8 prior reviews because all checks were intra-corpus ("cross-corpus consistent" ratified the shared corruption). Restored verbatim in 6 files: target, concepts/emergence, concepts/evolution-of-consciousness, voids/emergence-void, 2 research notes. Family resolution also caught two Chalmers 2006 quote defects in siblings: "I believe..." for verbatim "I think..." (evolution-of-consciousness + research note; verified against consc.net PDF), and a fabricated "the paradigm of a strongly emergent phenomenon" attribution in concepts/emergence (phrase absent from the paper) replaced with the verbatim "one clear case of a strongly emergent phenomenon". James 1890 "unintelligible" verbatim-verified faithful at psychclassics.yorku.ca. No argumentative prose re-litigated; all 2026-06-22 bedrock/stability rulings held. Duch engagement modes unchanged (literal-shadow: Mode One; identity-theoretic: Mode Three, declared bedrock).
+- **Output**: [[reviews/deep-review-2026-07-19-the-strong-emergence-of-consciousness]]
+
 ## 2026-07-19T23:03:08+00:00 - refine-draft
 - **Status**: Success (no-op — attribution check closed)
 - **File**: n/a (transcript ce5f1dbc-9a29-4756-b033-306f66d53b7d.jsonl, window 23:01:44–23:01:48 UTC)

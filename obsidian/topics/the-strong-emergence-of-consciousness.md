@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-22T13:14:14+00:00
+ai_modified: 2026-07-19T23:08:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-06-22T13:14:14+00:00
+last_deep_review: 2026-07-19T23:08:40+00:00
 coalesced_from:
   - "/topics/consciousness-and-strong-emergence/"
   - "/topics/consciousness-and-the-emergence-debate/"
@@ -78,7 +78,7 @@ The dispute is bedrock. If Duch's identity reading prevails, the Map's anti-redu
 
 If consciousness is strongly emergent, it possesses properties not deducible even in principle from physical facts. No amount of physical knowledge entails the existence of experience. The hard problem then marks an ontological boundary rather than a temporary gap.
 
-This is the position closest to the Map's, and the one it engages most intensively — with a single decisive amendment taken up below. Strong emergence says the universe contains real novelty: properties not implicit in the fundamental physical inventory but arising when matter organises in certain ways. C.D. Broad stated the criterion in 1925: emergent properties are those whose "characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties. David Chalmers offered the sharpest verdict — as his own considered judgement, not a result reductive science delivers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" (2006).
+This is the position closest to the Map's, and the one it engages most intensively — with a single decisive amendment taken up below. Strong emergence says the universe contains real novelty: properties not implicit in the fundamental physical inventory but arising when matter organises in certain ways. C.D. Broad stated the criterion in 1925: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations". David Chalmers offered the sharpest verdict — as his own considered judgement, not a result reductive science delivers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" (2006).
 
 Strong emergence demands a mechanism for [[mental-causation-and-downward-causation|downward causation]] — how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [[concepts/epiphenomenalism|epiphenomenal]]. The pull toward epiphenomenalism is so strong that [[the-epiphenomenalist-threat|most theories of consciousness collapse into it by default]] — genuine escape requires a positive causal mechanism. The Map provides one: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies.
 
