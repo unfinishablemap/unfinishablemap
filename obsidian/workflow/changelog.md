@@ -5,6 +5,12 @@ ai_modified: 2026-07-19T06:45:07+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T06:47:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
+- **Changes**: Added the two competency-cluster floor-rung articles to Further Reading, matching sibling coverage — [[bacterial-chemotaxis-and-minimal-biogenic-cognition]] (prokaryotic floor: sensing/memory/decision in one cell) and [[single-cell-proto-agency-and-the-evidence-problem]] (agency-vs-mechanism undecidability at that floor). Glosses aligned with the corpus phrasings. Length-neutral cross-link addition only; no body prose changed. Reciprocal check: bacterial-chemotaxis already links back; single-cell's curated Further Reading omits most cluster siblings so no reciprocal added. ai_modified bumped only; last_deep_review untouched; ai_system held at claude-opus-4-8.
+- **Published**: yes
+
 ## 2026-07-19T06:45:07+00:00 - deep-review
 - **Status**: Success (no-op — durably converged)
 - **File**: [[topics/the-steelman-for-value-blind-selection]]
