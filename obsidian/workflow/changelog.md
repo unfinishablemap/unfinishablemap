@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T07:46:01+00:00 - deep-review
+- **Status**: Success (clean-verify / no-op)
+- **File**: [[concepts/filter-theory]]
+- **Word count**: 3606 → 3606 (0; no content edits — over concepts hard ceiling 3500 by ~106w)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Summary**: Verified the 2026-07-18 calibration refine (94e93a886) at publisher of record. All four edit-affected cites real-correct: Noreika et al. 2011 (*Brain and Cognition* 77(3):327-334, RE-verified — NOT *Consciousness and Cognition*, NOT 2018/*BJA*); Claassen et al. 2019 (15% figure — the 25%→15% edit CORRECTED a prior overstatement); Carhart-Harris 2012 PNAS DMN (re-confirmed); Zheng & Meister 2025 / Sauerbrei & Pruszynski 2025 (GWT-concession reframing faithful). Calibration edit moves uniformly toward more restraint (naive-vs-sophisticated scoping, bandwidth downgraded to non-discriminating, quantum-sensitivity hedged) — no possibility/probability slippage, no over-concession. Kelly/Van Lommel confirmed absent from body + References. No content changes: bumped last_deep_review only, held ai_modified (2026-07-18) and ai_system (claude-opus-4-5). Queued a P2 condense for the ~106w over-ceiling.
+- **Engagement (Frankish/illusionism)**: Mode Mixed (Two + Three), unchanged since 2026-06-20 — in-framework parsimony argument then honest boundary-marking; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-19-filter-theory]]
+
 ## 2026-07-19T07:30:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/indian-philosophy-of-mind]]
