@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T17:48:41+00:00
+ai_modified: 2026-07-19T19:23:09+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T19:23:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/wavefunction-realism-vs-primitive-ontology]]
+- **Word count**: 1673 → 1673 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-19-wavefunction-realism-vs-primitive-ontology]]
+- **Notes**: 2nd deep review; convergence no-op. Sole delta since the 2026-07-09 thorough pass is a cosmetic markdown-link → [[wikilink]] conversion (auto(check-links), commit e1662c047) — no body or References change, so §2.4 web-verify skipped (prior 10-cite publisher-of-record ledger stands, all real-correct). Independent re-scan of attributions and physics (3N-space, separability restoration, GRWf/GRWm beables, nomological-Ψ Hamilton-Jacobi/Wheeler-DeWitt defenses) surfaces no error. RTSP calibration exemplary — congeniality/tension framing, no possibility/probability slippage, Tenet 5 declines dimension-parsimony. WF-realism/Everett/Tenet-4 is bedrock framework-boundary disagreement, already honestly hedged — not re-flagged. No named-opponent structure. `last_deep_review` bumped; `ai_modified`/`ai_system` held at HEAD per no-op discipline.
 
 ## 2026-07-19T19:14:02+00:00 - deep-review
 - **Status**: Success
