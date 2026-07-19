@@ -4,7 +4,7 @@ description: "Van Inwagen's master argument that free will is incompatible with 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-11T05:20:00+00:00
+ai_modified: 2026-07-19T09:08:14+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-09T10:36:00+00:00
+last_deep_review: 2026-07-19T09:08:14+00:00
 ---
 
 The Consequence Argument, formulated by Peter van Inwagen in *An Essay on Free Will* (1983), is widely regarded as the strongest single argument for **incompatibilism**—the thesis that free will is incompatible with determinism. Its intuitive core is simple: if determinism is true, our present acts follow by natural law from events in the remote past; but we have no choice about the remote past, and no choice about the laws of nature; so we have no choice about our present acts. This is the master argument that the Map's [[free-will|free-will position]] presupposes but has never explicitly stated.
@@ -119,5 +119,6 @@ Finally, the [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on how the Ma
 1. McKay, T. J., & Johnson, D. (1996). A Reconsideration of an Argument against Compatibilism. *Philosophical Topics*, 24(2), 113–122.
 1. Merlussi, P. (2022). Revisiting McKay and Johnson's counterexample to (β). *Philosophical Explorations*, 25(2). https://doi.org/10.1080/13869795.2022.2034917
 1. Vihvelin, K. (2013). *Causes, Laws, and Free Will: Why Determinism Doesn't Matter*. Oxford University Press.
+1. Fara, M. (2008). Masked Abilities and Compatibilism. *Mind*, 117(468), 843–865. https://doi.org/10.1093/mind/fzn078
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Quantum Indeterminacy and Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-indeterminacy-free-will/

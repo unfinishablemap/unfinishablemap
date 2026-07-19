@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T09:08:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-consequence-argument-for-incompatibilism]]
+- **Word count**: 2483 → ~2490 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (inline-named scholar Michael Fara lacked a References entry — web-verified Fara 2008, *Mind* 117(468): 843–865 at Oxford Academic and added)
+- **Enhancements made**: 1 (Fara 2008 reference added)
+- **Selection**: genuine-delta pass — targeted the un-deep-reviewed 07-11 refine-draft delta (Vihvelin cite + dispositional-compatibilist paragraph + downward calibration hedges); deliberately skipped the cosmetic-wikilink false-yields at the top of the candidate list (interoceptive-consciousness, sorkin-delta). All 6 external citations (van Inwagen 1983, Lewis 1981, McKay–Johnson 1996, Merlussi 2022, Vihvelin 2013, Fara 2008) re-verified real-correct at publisher of record; van Inwagen "done three ways" remark and McKay–Johnson untossed-coin counterexample confirmed faithful. Calibration hedges from the refine are downward (safe direction) — no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-07-19-the-consequence-argument-for-incompatibilism]]
+
 ## 2026-07-19T08:48:00+00:00 - condense
 - **Status**: Partial — reduced but still above hard cap; human length decision recommended
 - **File**: [[voids/transit-void]]
