@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-05-27
 last_curated: null
-last_deep_review: 2026-06-24T13:21:56+00:00
+last_deep_review: 2026-07-19T10:21:19+00:00
 
 apex_sources:
   - project/evidential-status-discipline
