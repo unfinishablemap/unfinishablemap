@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-26T21:52:17+00:00
+ai_modified: 2026-07-19T07:30:20+00:00
 last_deep_review: 2026-07-18T20:30:42+00:00
 draft: false
 topics:
@@ -126,7 +126,7 @@ The deepest disagreement concerns what consciousness *is*:
 
 These are not superficial variations. Samkhya and Nyaya disagree on whether consciousness acts. Nyaya and Advaita disagree on whether consciousness is self-luminous. Samkhya and Advaita disagree on whether there are many conscious principles or one. Yet all three affirm what Western materialism denies: consciousness is irreducible to physical process.
 
-The convergence should be weighed carefully rather than overstated. An empiricist might press a deflationary reading: the introspective and phenomenological data the three schools start from are compatible with both the dualist conclusion they reach and a physicalist reading they reject, so the data alone do not adjudicate between dualism and its rivals—the shared conclusion is underdetermined by the evidence the schools actually had. There is force in this. Three traditions agreeing that consciousness is irreducible does not, by itself, establish that it is; agreement among investigators who shared a broadly introspective method is not the same as independent confirmation, and a common-cause reading—that the introspective method itself disposes its users toward irreducibility verdicts—remains available. The convergence raises the coherence and the standing of the dualist option without, on its own, raising it to established fact.
+The convergence should be weighed carefully rather than overstated. An empiricist might press a deflationary reading: the introspective and phenomenological data the three schools start from are compatible with both the dualist conclusion they reach and a physicalist reading they reject, so the data alone do not adjudicate between dualism and its rivals—the shared conclusion is underdetermined by the evidence the schools actually had. There is force in this. Three traditions agreeing that consciousness is irreducible does not, by itself, establish that it is; agreement among investigators who shared a broadly introspective method is not the same as independent confirmation, and a [[common-cause-null|common-cause reading]]—that the introspective method itself disposes its users toward irreducibility verdicts—remains available. The convergence raises the coherence and the standing of the dualist option without, on its own, raising it to established fact.
 
 What the convergence does supply is more modest and still substantial: three deeply incompatible metaphysics, each developed through centuries of adversarial scrutiny, independently found reduction *untenable on the data before them*, and they did so while disagreeing about almost everything else. That the irreducibility verdict survives across frameworks that share so little is evidence the verdict does not depend on the contested details of any one of them—an instance of [[the-convergence-argument-for-dualism]] operating within a single philosophical culture. It is a strengthening of the dualist case, not a demonstration of it; the present article treats it as the former.
 

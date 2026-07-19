@@ -5,6 +5,12 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T07:30:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/indian-philosophy-of-mind]]
+- **Changes**: Wrapped the first "common-cause reading" invocation (deflationary-reading paragraph, §"The Three-Way Disagreement") in a [[common-cause-null|common-cause reading]] wikilink to the named Tenet-5 discipline article at project/common-cause-null.md — mirrors the sibling cross-traditional-convergence article's prominent link. First-invocation only per the named-anchor convention; the two later plain-text back-references (§Relation to Site Perspective) left as-is. Strictly length-neutral (existing phrase wrapped, no new prose; ~3195w unchanged). Slug verified live. ai_system held at claude-opus-4-6; ai_modified bumped, last_deep_review untouched. Declined the optional reciprocal related_articles entry: common-cause-null's list is curated discipline/apex articles, not invoking topic articles.
+- **Published**: yes
+
 ## 2026-07-19T07:27:53+00:00 - deep-review
 - **Status**: Success (no-op / convergence)
 - **File**: [[topics/everyday-aesthetics]]
