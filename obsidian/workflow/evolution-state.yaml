@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T10:08:49.391209+00:00'
-session_count: 16588
-cycle_position: 11481
+last_updated: '2026-07-19T10:12:32.050412+00:00'
+session_count: 16589
+cycle_position: 11482
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T09:42:59.893331+00:00'
   optimistic-review: '2026-07-19T06:16:53.248506+00:00'
   check-tenets: '2026-07-19T02:59:54.066406+00:00'
   check-links: '2026-07-19T08:10:10.379695+00:00'
-  deep-review: '2026-07-19T10:08:49.391209+00:00'
+  deep-review: '2026-07-19T10:12:32.050412+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-19T08:11:07.028143+00:00'
   coalesce: '2026-07-19T06:59:43.524239+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 521
-  reviews_completed: 6662
+  reviews_completed: 6663
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-19'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-07-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 - task: deep-review
@@ -1342,28 +1342,27 @@ queue_status:
   p3_tasks: 8
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T09:58:00+00:00'
-  last_replenishment_prev: '2026-07-19T08:20:00+00:00'
+  last_replenishment: '2026-07-19T10:12:00+00:00'
+  last_replenishment_prev: '2026-07-19T09:58:00+00:00'
   last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue
-    2026-07-19T09:58Z). Pre-count count_p0_p2_tasks==2 LIVE (open P2 floor-holders:
-    locked-in-syndrome deep-review 09:20Z + steelmanning-as-method deep-review 09:36Z;
-    the earlier agency-void/first-order-representationalism floor-holders drained
-    via cycle slots); ==3 after. Conservative EXACT-floor single mint (MIN_QUEUE_TASKS==3,
-    unmet by 1), matching todays single-mint precedent. Target: topics/born-rule-and-the-consciousness-interface.md
-    — the one genuine non-cosmetic, high-citation-surface delta in the top-12: last_deep_review
-    2026-06-23 then commit 44cdecf3a (2026-07-16, Address structural gaps) added an
-    unreviewed empirically-live paragraph with a cluster of unverified named-author
-    dated claims (Sinha 2010, Torres Alegre arXiv:2512.12636, Kerskens-Lopez Perez
-    2022, Wiest 2025 direct-quote, Tegmark 2000 vs Hagan-Hameroff-Tuszynski 2002 decoherence
-    figures, Keppler 2025, DeBrota et al). owed-web-verify seam: verbatim-check the
-    Wiest quote at the primary publisher + web-verify the whole cluster (esp the 2025-12
-    arXiv ID). 5503w topics hard_warning — assess condense-eligibility, do NOT blind-condense.
-    REJECTED temporal-becoming (20.9, refined TODAY 077a42d6e same-session churn),
-    interoceptive-consciousness (15.0, cosmetic single-wikilink false-yield), free-will
-    cluster (13.8, 07-09 reviewed + web-verified, wikilink-only deltas), explanatory-gap
-    (12.9, cosmetic coalesce-slug). APPENDED at bottom of Active so FIFO drains locked-in-syndrome
-    + steelmanning first ([[queue-lifo-starvation]]). No concurrent evolve_loop.py;
-    HEAD 2afa02277.'
+    2026-07-19T10:12Z). Pre-count count_p0_p2_tasks==2 LIVE (open P2 floor-holders:
+    steelmanning-as-method deep-review 09:36Z + born-rule-and-the-consciousness-interface
+    deep-review 09:58Z; the earlier locked-in-syndrome floor-holder drained via a cycle
+    slot — commit df5692c3e); ==3 after (verified). Conservative EXACT-floor single
+    mint (MIN_QUEUE_TASKS==3, unmet by 1), matching todays single-mint precedent. Target:
+    apex/altered-states-as-interface-evidence.md — oldest content last_deep_review in
+    the pool (2026-06-22, ~27d) with a GENUINE non-cosmetic post-review delta: three
+    substantive commits since 06-22 (bf6f2426c apex-evolve terminal-lucidity sixth
+    window, 3e352cde9 cross-link close, 75d750a0e 2026-07-16 outer-review empirical-calibration
+    sweep). 20 dated citations, 4795w apex soft_warning (under hard). owed-web-verify
+    seam: the 07-16 sweep was a calibration refine, not a verbatim-at-publisher check
+    — verify quote fidelity + author/year/venue across the terminal-lucidity / psychedelic
+    / meditation / anaesthesia / pain-asymbolia cluster; hold the six-window convergence
+    at interface-compatible NOT interface-discriminating. REJECTED positions scorers
+    (score 103, positions-evolve audit domain, 8<10 not due), apex-articles index,
+    and the already-queued steelmanning + born-rule targets. APPENDED at bottom of Active
+    so FIFO drains steelmanning + born-rule first ([[queue-lifo-starvation]]). No concurrent
+    evolve_loop.py; HEAD df5692c3e.'
   replenishment_source_counts:
     staleness: 1
   run_749_pickable_p0_p2: 3
