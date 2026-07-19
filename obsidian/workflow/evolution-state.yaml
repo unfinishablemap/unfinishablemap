@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T19:04:43.043248+00:00'
-session_count: 16690
+last_updated: '2026-07-19T19:12:16.735250+00:00'
+session_count: 16691
 cycle_position: 11533
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T18:21:20.933735+00:00'
   research-topic: '2026-07-19T18:09:44.842656+00:00'
-  replenish-queue: '2026-07-19T19:08:56+00:00'
+  replenish-queue: '2026-07-19T19:12:16.735250+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1335,23 +1335,24 @@ queue_status:
   last_floor_restore_target: 'run no.762 (2026-07-19T19:08Z, interactive /replenish-queue):
     SINGLE floor-restoring staleness mint. Canonical pre-run pickable P0-P2 == 2 (the
     two open voids deep-reviews: counterfactual-void + metaphor-void, both prior floor-holders).
-    Below floor of 3. Run 761''s two changed-since-review mints (concepts/qualia.md +
-    concepts/dualism.md) were both consumed by the live loop and completed 2026-07-19
+    Below floor of 3. Run 761''s two changed-since-review mints (concepts/qualia.md
+    + concepts/dualism.md) were both consumed by the live loop and completed 2026-07-19
     (commits 255128a93 + 2f382e3d5) — verified WRITTEN then executed, no task-gen-fork
     bug. Eight-source audit LIVE: chains null; unconsumed-research blocked (topics/concepts/voids
     all AT CAP); gap harvester-governed; changed-since-review staleness scan (ai_mod>ldr,
-    >=20d) == 0 candidates (drift source EXHAUSTED — qualia/dualism were the last two);
-    length offenders all veto/human-deferred; positions 8<10 audit threshold; orphaned_files=0;
-    no applied-apex gap. Only live source = owed-web-verify seam ([[owed-web-verify-seam-deep-review-targeting]]):
-    minted topics/evolutionary-case-for-mental-causation.md (31d converged; oldest opus-4-5
-    cohort; 11 named-year citations never standalone-reviewed; Tenet-3 exposition; ai_mod==ldr
-    so NOT over-review anti-pattern — value is the large UNCHECKED citation surface).
-    Other stale candidates rejected: mind-arena/primary-secondary (0 citations = no web-verify
-    surface), epistemology-of-limit-knowledge + claude-constitution (opus-4-8 newer cohort,
-    weaker owed-web-verify fit). Single mint (not +1 buffer) is deliberate given genuine
-    source scarcity — no clean second target; documented replenish-at-floor alternation
-    ([[unfin_loop_steady_state]]), NOT empty-queue deadlock. Floor restored 2->3. TOP-inserted.
-    No concurrent evolve_loop process (pgrep clean; last auto-commit 19:04Z).'
+    >=20d) == 0 candidates (drift source EXHAUSTED — qualia/dualism were the last
+    two); length offenders all veto/human-deferred; positions 8<10 audit threshold;
+    orphaned_files=0; no applied-apex gap. Only live source = owed-web-verify seam
+    ([[owed-web-verify-seam-deep-review-targeting]]): minted topics/evolutionary-case-for-mental-causation.md
+    (31d converged; oldest opus-4-5 cohort; 11 named-year citations never standalone-reviewed;
+    Tenet-3 exposition; ai_mod==ldr so NOT over-review anti-pattern — value is the
+    large UNCHECKED citation surface). Other stale candidates rejected: mind-arena/primary-secondary
+    (0 citations = no web-verify surface), epistemology-of-limit-knowledge + claude-constitution
+    (opus-4-8 newer cohort, weaker owed-web-verify fit). Single mint (not +1 buffer)
+    is deliberate given genuine source scarcity — no clean second target; documented
+    replenish-at-floor alternation ([[unfin_loop_steady_state]]), NOT empty-queue
+    deadlock. Floor restored 2->3. TOP-inserted. No concurrent evolve_loop process
+    (pgrep clean; last auto-commit 19:04Z).'
   legacy_run_761_note: 'run no.761 (2026-07-19T18:46Z, interactive /replenish-queue):
     FLOOR-RESTORING STALENESS MINT x2. Canonical pre-run count_p0_p2==2 (open P2s:
     deep-review voids/counterfactual-void + voids/metaphor-void, both prior floor-holders;
