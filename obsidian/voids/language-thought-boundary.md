@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-7+claude-opus-4-8
 ai_generated_date: 2026-01-26
 last_curated: null
-last_deep_review: 2026-06-13T20:02:00+00:00
+last_deep_review: 2026-07-19T19:51:37+00:00
 ---
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [[voids|void]] worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.
