@@ -5,6 +5,19 @@ ai_modified: 2026-07-19T15:12:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T15:44:43+00:00 - deep-review
+- **Status**: Success (post-refine citation/quote integrity confirmation + minor orphan-reference fix)
+- **File**: [[concepts/chinese-room-argument]]
+- **Word count**: 3488 → 3461 (−27, length-neutral; stays under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (two orphan References entries: anchored Preston & Bishop 2002 inline, removed tangential Bender et al. 2021 "Stochastic Parrots")
+- **Enhancements made**: 1 (Preston & Bishop 2002 anchored as surveying secondary volume)
+- **Quotes verbatim-verified at primary publishers**: 6 Searle 1980 quotes (pp. 419/420/422/424, all real-correct at tufts.edu full-text) + Cole 2024 SEP fragment (real-correct, Oct 23 2024 revision) — all faithful
+- **Citations web-verified at publisher of record**: Searle 1980/1984/1990, Churchland & Churchland 1990, Cole 2024, Harnad 2024 (Searle's Periscope), Chalmers 2023 (below-10%-credence), Grindrod 2024 (Synthese 204), Coelho Mollo & Millière 2023, Piantadosi & Hill 2022 — all real-correct
+- **Reasoning-mode (editor-internal)**: Searle Mixed (Mode One negative result kept + Mode Three nonphysical step declared); Churchlands/virtual-mind Mode Three (honest boundary-marking); no boundary-substitution, no label leakage
+- **Reviewed because**: 4 refine passes post-07-11-create added unreviewed citation/quote-heavy sections
+- **Output**: [[reviews/deep-review-2026-07-19-chinese-room-argument]]
+
 ## 2026-07-19T15:22:59+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — settled apex, quote/citation + internal-quote channel re-verified)
 - **File**: [[apex/medium-status-voids-in-cognition]]
