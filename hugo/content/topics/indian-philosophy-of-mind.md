@@ -24,7 +24,7 @@ description: Three rival Indian schools spent two millennia debating what consci
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 16:36:25+00:00
+last_deep_review: 2026-07-18 20:30:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

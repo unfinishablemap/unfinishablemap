@@ -165,5 +165,3 @@ None.
 - The sibling cites the monkey choking data as "Smoulder et al., 2021, 2024"; this concept article
   cites only the 2024 paper, which is correct for its single load-bearing claim — NOT an
   inconsistency to "fix."
-</content>
-</invoke>

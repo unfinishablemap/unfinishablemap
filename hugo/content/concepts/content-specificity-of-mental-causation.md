@@ -23,7 +23,7 @@ description: When consciousness causes physical effects, the specific meaning of
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 07:39:18+00:00
+last_deep_review: 2026-07-18 22:06:30+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'

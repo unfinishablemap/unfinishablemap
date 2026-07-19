@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-08 01:28:21+00:00
+ai_modified: 2026-07-18 23:23:15+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -171,6 +171,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that
 - [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — the basin edge expounded on its own terms: the deep tradition that shares the introspective architecture but never generates the irreducibility finding
 - [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) — a second organicist basin edge (teotl process-monism), the first Indigenous-Americas dissociation for this argument
 - [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/) — a second basin edge: the Kyoto School's non-dual absolute nothingness reads one datum the way the Map reads it as dualism, held under the same common-cause caveat
+- [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/) — the first Jewish-mystical basin edge: Lurianic emanationist monism, which inverts the cluster's usual outpouring into creation-by-withdrawal while still carving mind and matter as one attenuating substance rather than two
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)

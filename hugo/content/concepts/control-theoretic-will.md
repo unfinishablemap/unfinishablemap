@@ -21,7 +21,7 @@ description: Will as a low-bandwidth control signal—gating, stabilizing, and s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 15:32:02+00:00
+last_deep_review: 2026-07-18 20:45:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

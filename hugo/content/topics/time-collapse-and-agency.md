@@ -25,7 +25,7 @@ description: Free will, quantum collapse, and time's arrow interlink. If conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-23 01:51:36+00:00
+last_deep_review: 2026-07-18 20:55:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -30,7 +30,7 @@ description: Survey of quantum interpretations and their consciousness implicati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-23 05:51:21+00:00
+last_deep_review: 2026-07-18 23:27:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

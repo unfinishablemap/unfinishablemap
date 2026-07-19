@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-07-13 04:36:05+00:00
+ai_modified: 2026-07-18 21:02:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-06-22 15:39:58+00:00
+apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
 - concepts/post-decoherence-selection
 - topics/quantum-darwinism-and-consciousness
@@ -41,7 +41,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/oWWgbZPoD9Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 15:39:58+00:00
+last_deep_review: 2026-07-18 21:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -161,7 +161,7 @@ The five components assemble into a research programme with identified parts, co
 
 **The formal law.** The [Interface Specification Programme](/apex/interface-specification-programme/) seeks the psychophysical control law governing how consciousness operates at the interface. The post-decoherence selection programme adds a physics-side requirement: whatever selection principle consciousness applies must respect Born-rule statistics, operate within the pointer-state menu, and be consistent with quantum contextuality. These constraints narrow the space but do not yet determine the law. The empirical converse — what experimental programme would *foreclose* the strict selection-only realisation of these constraints — is catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), which specifies what *plural and convergent* negative evidence would shut the corridor reading by mechanism.
 
-The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: quantum Darwinism's menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. Calling them constraints rather than mechanisms is calibration to what the programme has actually produced; calling the programme "incomplete" is the same calibration in different words.
+The programme is incomplete. What makes it a programme rather than speculation is that the components constrain each other: quantum Darwinism's menu limits what contextuality must accommodate; contextuality constrains what the selection mechanism can do; the selection mechanism determines what stochastic amplification must bridge. Progress on any component restricts the others, creating a web of mutual constraint that drives toward specificity. That mutual constraint confers *internal* research-programme fertility—progress on one part sharpens the demands on the rest—not external evidential support: it is the same shared-framework architecture the opening flags as a common-cause artefact, so it grants the components no independent confirmation, only a live programme's forward pressure toward specificity. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) locates the programme at the *pre-Keplerian* stage: the components catalogued above—Zurek's einselection results, Kochen-Specker contextuality, weak-measurement boundary structure, the three-stage amplification chain—are Tycho-analogue measurements and constraint scaffolds, not Kepler-analogue laws. Calling them constraints rather than mechanisms is calibration to what the programme has actually produced. The pre-Keplerian label is not a blanket shield against counter-evidence, however: the amplification pathway's biophysical parameters—noise intensities, criticality margins, threshold sensitivities—are measurable with present techniques, and a finding that they cannot support the required twelve orders of amplification would count against the programme now rather than in a deferred future.
 
 ### Downstream Applied-Cost Note [Open]
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-09 04:44:29+00:00
+ai_modified: 2026-07-18 21:46:31+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Testimony requires consciousness to function yet cannot fully conve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 12:50:00+00:00
+last_deep_review: 2026-07-18 21:46:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,9 +93,9 @@ The materialist programme includes an implicit promise: that first-person testim
 
 Daniel Dennett's "heterophenomenology" attempted to dissolve this asymmetry by treating first-person reports as third-person data — verbal behaviours catalogued without assuming they are windows into subjective reality. But the Map's charge here requires care: heterophenomenology can grant that there are *report-emitting cognitive subjects* whose outputs are worth cataloguing without granting they are *phenomenally* conscious — and the second is what the asymmetry needs. So the honest point is not that the method covertly assumes phenomenal consciousness, but that its results underdetermine the question it brackets: cataloguing reports establishes the functional facts and leaves the phenomenal one untouched.
 
-Not all testimony appears to carry equal phenomenal weight. When an expert speaks within their domain, you may experience their words with a gravitation toward belief that exceeds what the bare propositional content would warrant from an unknown source — a felt relief when an authority validates what you suspected, or the distinctive pressure to revise when an expert disagrees, a pressure that may carry more phenomenal force than identical content from a non-expert.
+Not all testimony appears to carry equal phenomenal weight. When an expert speaks within their domain, you may experience their words with a gravitation toward belief that exceeds what the bare propositional content would warrant from an unknown source — a felt relief when an authority validates what you suspected, or the distinctive pressure to revise when an expert disagrees.
 
-The danger of testimonial authority may lie precisely in its phenomenal power: because expert testimony carries felt weight that can exceed its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades — partly for legitimate reasons (he lacked a viable mechanism), but possibly also because the felt authority of established figures discouraged serious engagement with the accumulating evidence. The [phenomenology of belief revision](/topics/phenomenology-of-intellectual-life/) suggests how hard it can be to resist this felt authority even when reasons for doubt are strong.
+The danger of testimonial authority may lie precisely in its phenomenal power: this felt weight can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades — partly for legitimate reasons (he lacked a viable mechanism), but possibly also because the felt authority of established figures discouraged serious engagement with the accumulating evidence. The [phenomenology of belief revision](/topics/phenomenology-of-intellectual-life/) suggests how hard it can be to resist this felt authority even when reasons for doubt are strong.
 
 ## Testimony Across the Intersubjective Void
 

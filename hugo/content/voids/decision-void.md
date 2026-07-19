@@ -17,7 +17,7 @@ description: The moment open weighing collapses into sealed choice is structural
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-12 23:04:17+00:00
+last_deep_review: 2026-07-18 21:16:31+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

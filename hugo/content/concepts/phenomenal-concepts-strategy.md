@@ -26,7 +26,7 @@ description: 'Physicalism''s best response to the explanatory gap: the puzzle is
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 12:45:58+00:00
+last_deep_review: 2026-07-18 23:11:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

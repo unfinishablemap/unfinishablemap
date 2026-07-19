@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-06-04 16:46:19+00:00
+ai_modified: 2026-07-19 00:18:39+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Interactionist dualism must specify which capabilities belong to th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 16:46:19+00:00
+last_deep_review: 2026-07-19 00:18:39+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[binding-void]]'
 - '[[interface-formalization-void]]'
 - '[[causal-interface]]'
+- '[[cross-modal-capability-division]]'
 - '[[evidential-status-discipline]]'
 title: The Capability Division Problem
 topics:
@@ -44,7 +45,7 @@ If dualism is true — if the mind is genuinely distinct from the brain — then
 
 Neuroscience has mapped extensive visual processing that proceeds without conscious awareness: subliminal stimuli activate feature extraction, categorisation, and even emotional evaluation before any phenomenal experience arises.
 
-[Blindsight](/concepts/blindsight/) sharpens the picture. Patients with damage to primary visual cortex discriminate stimuli they report not seeing — guessing orientation, colour, and motion direction far above chance, and reaching accurately toward objects they deny perceiving. Yet their performance is systematically limited: they fail detection tasks, cannot spontaneously report visual content, and lack ownership of their visual capacity (Derrien et al., 2022). Blindsight reveals what vision looks like when the brain operates alone.
+[Blindsight](/concepts/blindsight/) (Weiskrantz, 1986) sharpens the picture. Patients with damage to primary visual cortex discriminate stimuli they report not seeing — guessing orientation, colour, and motion direction far above chance, and reaching accurately toward objects they deny perceiving. Yet their performance is systematically limited: they fail detection tasks, cannot spontaneously report visual content, and lack ownership of their visual capacity (Derrien et al., 2022). Blindsight reveals what vision looks like when the brain operates alone.
 
 The two-streams hypothesis (Goodale & Milner, 1992) provides neuroanatomical grounding. The dorsal stream guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on awareness; the ventral stream handles object recognition and conscious perception. Patient DF, whose visual-form agnosia followed ventral-stream damage, could orient her hand to a mail slot she could not consciously perceive — dorsal intact, ventral impaired (Goodale, Milner, Jakobson & Carey, 1991). [Capability division in vision](/concepts/capability-division-in-vision/) examines the full evidence constraining where this boundary falls. The dissociation suggests visual capabilities fall into two classes: those that require consciousness and those that do not.
 
@@ -86,7 +87,7 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Audition.** [Hearing](/topics/auditory-consciousness-and-the-interface/) applies the same split to a modality stripped of vision's spatial scaffolding: frequency analysis, onset detection, and harmonic grouping deliver organised candidate streams (the brain-side capabilities of auditory scene analysis), while the experienced unity of hearing one sound appears as the mind-side contribution. The auditory case matters to the recurrence argument because the grouping cannot be read off a spatial layout — so the division is not an artefact of vision's spatial co-location, which would be the obvious deflationary explanation if vision were the only worked case. This is the closest the survey comes to a *non-trivial* recurrence rather than a template reapplied.
 
-In each domain, the same pattern emerges: the brain handles the computational, procedural, and automatic, while consciousness contributes phenomenal engagement, flexible deployment, and selectional guidance. The division is real but resists clean functional specification. The Map's proposed explanation — developed in the worked exhibit and §"The Void" below — is that the mind-side contribution transforms rather than supplements what the brain provides; this is a hypothesis the pattern motivates rather than a finding the pattern establishes.
+In each domain, the same pattern emerges: the brain handles the computational, procedural, and automatic, while consciousness contributes phenomenal engagement, flexible deployment, and selectional guidance. The [cross-modal synthesis](/apex/cross-modal-capability-division/) presses this recurrence further, arguing that what generalising across the exteroceptive senses establishes is not the bare recurrence of a division but an *asymmetry* — modality-specific brain-side machinery beneath a supramodal conscious/unconscious boundary — a regularity interoception then inverts inward rather than a universal law. The division is real but resists clean functional specification. The Map's proposed explanation — developed in the worked exhibit and §"The Void" below — is that the mind-side contribution transforms rather than supplements what the brain provides; this is a hypothesis the pattern motivates rather than a finding the pattern establishes.
 
 ## Worked Exhibit: The Rendering Dilemma
 
@@ -138,6 +139,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — The vision-specific case study applying this framework
 - [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/) — The division applied to hearing, where binding cannot rely on spatial layout
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as further dual-domain case studies
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The apex synthesis: what generalising the division across the senses actually establishes (a supramodal conscious boundary over modality-specific brain machinery)
 - [binding-void](/voids/binding-void/) — The perceptual binding problem as a void
 - [causal-interface](/voids/causal-interface/) — The mind-brain interface itself
 - [interface-formalization-void](/voids/interface-formalization-void/) — Why formalising the interface may be impossible

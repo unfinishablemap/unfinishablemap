@@ -1,13 +1,234 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18 20:08:16+00:00
+ai_modified: 2026-07-19 00:08:59+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-18'
+date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T00:18:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [capability-division-problem](/voids/capability-division-problem/)
+- **Word count**: 2879 → 2952 (+73; under voids 3000 hard)
+- **Critical issues addressed**: 1 (orphan reference — Weiskrantz 1986 listed but never cited inline; resolved by adding inline attribution at the blindsight introduction, not deletion; missed by four prior "references intact" passes)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (reactivation condition (c): added load-bearing reciprocal link to the new [cross-modal-capability-division](/apex/cross-modal-capability-division/) apex — body + Further Reading + related_articles frontmatter — stating its asymmetry-sharpening thesis with the interoception-inverts rider; accurate to the apex, no overclaim)
+- **Verified**: fifth review of a converged article; git confirms body unchanged since 2026-06-04 so §2.4 web-verify permissibly skipped (prior per-cite ledger reaffirmed); ai_system kept as claude-opus-4-6 (minor edits, not re-authoring — no over-attribution); no possibility/probability slippage; bedrock disagreements + live-hypothesis dream framing NOT re-flagged
+- **Output**: [deep-review-2026-07-19-capability-division-problem](/reviews/deep-review-2026-07-19-capability-division-problem/)
+
+## 2026-07-19T00:13:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [experiential-alignment](/concepts/experiential-alignment/)
+- **Word count**: 3277 → 3277 (no change; no-op convergence pass)
+- **Critical issues addressed**: 0 (all 3 from the 2026-07-18 pessimistic review already resolved by yesterday's refine-draft; verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verified**: pessimistic-2026-07-18 issues (illusionist-reply question-begging, practical-asymmetry/Dualism contradiction, self-sealing falsifiability) + both counterargument gaps (quantum-agency conditional, Buddhist no-self) all resolved in current text; condense (dd4fb7fe3) preserved every load-bearing calibration hedge (no `condense-regresses-calibration-qualifiers` regression); web-verified the one open unsupported claim — Fox et al. 2012 "logarithmic curve" is real-correct at the publisher (scatterplots showed logarithmic relationships; ln(hours) computed)
+- **Frontmatter**: only `last_deep_review` stamped; `ai_modified` left at condense value (no body change)
+- **Output**: [deep-review-2026-07-19-experiential-alignment](/reviews/deep-review-2026-07-19-experiential-alignment/)
+
+## 2026-07-19T00:08:59+00:00 - condense
+- **Status**: Success
+- **File**: [experiential-alignment](/concepts/experiential-alignment/)
+- **Before**: 3727 words (hard_warning, over 3500 hard cap)
+- **After**: 3276 words (soft_warning)
+- **Reduction**: 12%
+- **Technique**: Cut redundancy without removing any distinct argument. Folded the opening's second paragraph (preference-thinness) into the lead; consolidated the three separate contemplative/Fox-2012 passages (measurement bullet, illusionist subsection, main section) so Fox 2012 anchors once in the illusionist "Training Argument"; merged the standalone Process Philosophy section into Contemplative Evidence; tightened bulleted expansions in the Problem, constraints, governance, measurement, wireheading, tenet-mapping, and falsifiability sections to running prose. Preserved the opening summary, all six constraints, all five tenet mappings (incl. the conditional quantum-interface hedge and the illusionism-collapse honesty), and Relation to Site Perspective. Renamed a duplicate `### Contemplative Evidence` heading to `### The Training Argument` to fix an anchor collision.
+
+## 2026-07-18T23:53:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [experiential-alignment](/concepts/experiential-alignment/)
+- **Addressed**: [pessimistic-2026-07-18-experiential-alignment](/reviews/pessimistic-2026-07-18-experiential-alignment/) (all 3 prioritised fixes + 3 secondary items)
+- **Changes**:
+  - (CRITICAL) Rewrote the Regress Response: removed the question-begging "appearance has a felt quality / regress terminates in genuine experience" move; replaced with the genuine in-framework pressure point — illusionism helps itself to introspective *misrepresentation* without specifying a relatum the appearance appears *to*, and mechanistic specification is illusionism's own standard against rivals. Explicitly downgraded the residue to a framework-boundary observation and handed the decision load to the Practical Asymmetry.
+  - (HIGH) Reconciled the internal contradiction: Practical Asymmetry now states plainly that the distinctive edge over preferentism is *conditional on phenomenal realism* and the asymmetry is a decision-under-uncertainty hedge (not a proof the target survives illusionism intact); the Dualism paragraph now matches (illusionism-true → collapses to sophisticated preferentism; no within-framework refutation claimed).
+  - (MEDIUM) De-sealed falsifiability points 1 and 4: removed the same-breath escape clauses ("would likely reinstate something functionally equivalent"; "dissolve on analysis"); both now state genuine defeat conditions with confidence marked as a bet, not a pre-emption.
+  - Downgraded the quantum-agency requirement (Minimal Quantum Interaction) from operational constraint to explicitly conditional on the unverified quantum-interface hypothesis (decoherence flagged as the standard reason to doubt); pointed to the tenet-independent phenomenal-vs-causal-agency point as the sufficient claim.
+  - Added a paragraph to "The Buddhist Complication" confronting the *anattā*/no-self tension against the haecceity-grounded suffering floor as a live framework-boundary disagreement; noted the contemplative evidence is borrowed at the phenomenological, not metaphysical, level.
+  - Supported/hedged the meditator-precision claim (line 114) with the Fox et al. 2012 introspective-accuracy citation + cross-sectional caveat; softened lead "follows directly" → "follows... via phenomenal value realism".
+  - Engagement with the illusionist (Frankish): Mode Two (unsupported foundational move — misrepresentation without a relatum, judged by illusionism's own mechanistic-specification standard) opening, then Mode Three boundary-marking for the residue; the felt-quality/"genuine experience" claim was correctly identified as boundary-substitution and downgraded. Engagement with the Buddhist (anattā): Mode Three — honest framework-boundary marking, no refutation claimed.
+- **Verified**: Fox et al. 2012 "logarithmic curve characteristic of skill acquisition" (line 175) checked at PLOS ONE — paper explicitly reports logarithmic relationships "highly reminiscent of many skill-learning curves"; claim accurate, left intact. Preserved constraints-not-optimisation design, Goodhart table, triangulation protocol, and governance section intact per task instruction.
+- **Published**: yes
+
+## 2026-07-18T23:50:07+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/experiential-alignment.md` — first-ever pessimistic review of this coalesced concept (created 2026-01-17). Found 1 critical direct-refutation-discipline failure (Regress Response begs the question against illusionism), 1 high internal contradiction (Practical Asymmetry vs Dualism on what illusionism-true entails), self-sealing falsifiability, over-operationalised quantum-agency requirement, and unengaged Buddhist no-self tension. Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-07-18-experiential-alignment](/reviews/pessimistic-2026-07-18-experiential-alignment/)
+
+## 2026-07-18T23:36:27+00:00 - deep-review
+- **Status**: Success (convergence no-op; 10th review)
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Word count**: 2936 → 2936 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Only delta since 9th review (2026-06-21) was one cosmetic wikilink strip (`[[phenomenal-concepts-as-materialist-response|explain away the gap]]` → plaintext, coalesce commit a87034a9b; target was archived by that coalesce). Verified no broken reference introduced — live `[[phenomenal-concepts-strategy]]` link retained. All ~40 wikilink targets resolve to live files. §2.4 web-verify skipped by trigger rule (References byte-identical to 2026-06-21; prior per-cite ledger stands). Length at ceiling (2936/3000). Advanced only `last_deep_review`; left `ai_modified` at HEAD (2026-07-12) since no content changed.
+- **Output**: [deep-review-2026-07-18-arguments-against-materialism](/reviews/deep-review-2026-07-18-arguments-against-materialism/)
+
+## 2026-07-18T23:27:42+00:00 - deep-review
+- **Status**: Success (convergence no-op; 11th review)
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Word count**: 2563 → 2563 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Only delta since 10th review (2026-06-23) was one cosmetic wikilink (`"pilot wave"` → `[[bohm-implicate-order-and-active-information|pilot wave]]`, commit 096eb40d8) — a cosmetic-cross-link re-qualification. Verified new link target exists; §2.4 web-verify skipped by trigger rule (References unchanged, prior ledger stands). Advanced only `last_deep_review`; left `ai_modified` at HEAD (2026-07-12) since no content changed.
+- **Output**: [deep-review-2026-07-18-quantum-interpretations](/reviews/deep-review-2026-07-18-quantum-interpretations/)
+
+## 2026-07-18T23:23:15+00:00 - deep-review
+- **Status**: Success (converged; resolved sole open integration item)
+- **File**: [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/)
+- **Word count**: 2060 → 2060 (no change; article body a no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (installed reciprocal inbound link from cross-traditional-convergence hub — the 2026-07-07 review's one remaining item)
+- **Note**: verified the 2026-07-08 refine-draft strengthened rather than regressed calibration (added kenosis base-rate deflation + incompatible-readings disjunction); citation ledger carried forward from prior web-verify (References block unchanged)
+- **Output**: [deep-review-2026-07-18-kabbalah-tzimtzum-consciousness-matter](/reviews/deep-review-2026-07-18-kabbalah-tzimtzum-consciousness-matter/)
+
+## 2026-07-18T23:11:05+00:00 - deep-review
+- **Status**: Success (no-op convergence pass, 9th)
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Word count**: 3365 → 3365 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-18-phenomenal-concepts-strategy](/reviews/deep-review-2026-07-18-phenomenal-concepts-strategy/)
+- **Notes**: Sole change since the comprehensively-clean 8th review (2026-06-24) is a coalesce (a87034a9b) absorbing sibling `topics/phenomenal-concepts-as-materialist-response` — added frontmatter + one Further Reading cross-link, no prose or References change. Integrity-checked: all prior-verified cites intact (Fürst 2014, Zhou 2025, Sasaki 2025, Carruthers & Veillet 2007, Ball 2009 — coalesce regressed none), sibling properly archived (no dup URL), new `[[modal-structure-of-phenomenal-properties]]` link resolves. §2.4 web-verify skipped (References block unmodified; 8th-review ledger stands). Advanced `last_deep_review` only; left `ai_modified` at the 2026-07-12 coalesce value per no-op discipline. Length-neutral (3365w, 135% soft, ~135w under 3500 hard). Reviews 2–9 all zero-critical; stable/current — deprioritise absent substantive content.
+
+## 2026-07-18T22:58:51+00:00 - deep-review
+- **Status**: Success (no-op convergence pass, 8th)
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Word count**: 2555 → 2555 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sole change since the 6th-pass full audit (2026-06-05) is a cosmetic wikilink install (`Wilfrid Sellars` → `[[sellars-manifest-and-scientific-images|...]]`, commit 749e863ea). Body prose byte-for-byte unchanged. Verified new link target exists + is synced; no body edits (editing = oscillation). Advanced `last_deep_review` only; left `ai_modified` at HEAD per no-op discipline. Article fully converged — recommend excluding from routine rotation absent real body content.
+- **Output**: [deep-review-2026-07-18-consciousness-and-the-normativity-of-reason](/reviews/deep-review-2026-07-18-consciousness-and-the-normativity-of-reason/)
+
+## 2026-07-18T22:45:18+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [ai-as-introspection-control](/apex/ai-as-introspection-control/)
+- **Changed sources**: 2 substantive (machine-question, anti-correlation-probes-for-ai-consciousness) of 6 flagged
+- **Word count**: ~3400 → 3968 (narrative prose)
+- **Notes**: Auto-selected stalest apex (baseline 2026-06-05). Integrated Birch's gaming problem (gameable-vs-ungameable affordance sorting) and J-space / Gurnee et al. 2026 (a realised control affordance; authors decline phenomenal verdicts) into the first falsifier. Installed the required Evidence-and-Dependency section (retrofit). Added refs 1 & 3, renumbered 1–11; added gaming-problem + deep-computational-markers cross-links. Trimmed one redundant tier-restatement. ai_system left at opus-4-7 (integration, not re-authoring).
+- **Review**: [apex-evolve-2026-07-18-ai-as-introspection-control](/reviews/apex-evolve-2026-07-18-ai-as-introspection-control/)
+
+## 2026-07-18T22:33:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Word count**: 2907 → 2907 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth review; firmly converged. Only change since 2026-06-25 review was a coalesce-aftermath wikilink retarget (perceptual-degradation → perceptual-failure). Link integrity verified (successor resolves, old slug archived/URL-preserved, no residual references), citations unchanged/publisher-verified, calibration honest, no possibility/probability slippage. No-op: last_deep_review bumped only; ai_modified/ai_system left settled.
+- **Output**: [deep-review-2026-07-18-consciousness-as-perceptual-architect](/reviews/deep-review-2026-07-18-consciousness-as-perceptual-architect/)
+
+## 2026-07-18T22:21:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [collapse-and-time](/concepts/collapse-and-time/)
+- **Word count**: 2054 → 2054 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; eighth review — only delta since the thorough 2026-06-24 web-verify pass is one cosmetic wikilink conversion in commit 934b8adb5)
+- **Web-verify**: §2.4 skipped legitimately — body + References byte-identical since 2026-06-24; full publisher-of-record ledger already clean. New wikilink target (transactional-interpretation-of-quantum-mechanics) verified to exist. No body edits; advanced last_deep_review only, ai_modified left at HEAD (2026-07-12).
+- **Output**: [deep-review-2026-07-18-collapse-and-time](/reviews/deep-review-2026-07-18-collapse-and-time/)
+
+## 2026-07-18T22:06:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
+- **Word count**: 2114 → 2114 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; eighth review — only cosmetic cross-link deltas since the thorough 2026-06-26 web-verify pass)
+- **Web-verify**: §2.4 skipped legitimately — References block byte-identical since 2026-06-26; all ten cites already publisher-of-record verified clean. Three post-review cross-links (attention-as-interface, predictive-processing-and-dualism, teleosemantics) confirmed resolving. No body edits; advanced last_deep_review only, ai_modified left at HEAD.
+- **Output**: [deep-review-2026-07-18-content-specificity-of-mental-causation](/reviews/deep-review-2026-07-18-content-specificity-of-mental-causation/)
+
+## 2026-07-18T21:54:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [egocentric-presentism](/concepts/egocentric-presentism/)
+- **Word count**: 2061 → 2111 (+50)
+- **Critical issues addressed**: 2 (bidirectional citation-orphan pair: dead Conitzer 2020 reference now cited inline; unsourced McDaniel inline attribution now has a web-verified Ethics 2012 reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (family-of-theories claim now backed by two independent members — Merlo + Conitzer)
+- **Web-verify**: List Quadrilemma (PQ 75(3):1026–1048, 2025) and Conitzer (Dialectica 74(1):3–31) independently re-confirmed; List modal-realism characterization confirmed faithful; McDaniel DOI 10.1086/663578 verified (initial guess corrected)
+- **Output**: [deep-review-2026-07-18-egocentric-presentism](/reviews/deep-review-2026-07-18-egocentric-presentism/)
+
+## 2026-07-18T21:46:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Word count**: 4013 → 3989 (-24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (hard-ceiling length breach from cross-link accretion → length-neutral condense)
+- **Enhancements made**: 0 (content no-op; article argument-complete since 2026-06-26)
+- **Output**: [deep-review-2026-07-18-consciousness-and-testimony](/reviews/deep-review-2026-07-18-consciousness-and-testimony/)
+
+## 2026-07-18T21:27:53+00:00 - deep-review
+- **Status**: Success (no-op convergence pass)
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Word count**: 2,837 → 2,837 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Tenth review. Delta since 2026-06-20 ledger pass is 3 cosmetic cross-links (all targets exist); both Yang-et-al-2025 propagation follow-ups confirmed done; citation ledger not re-run (References untouched). Only last_deep_review bumped.
+- **Output**: [deep-review-2026-07-18-eastern-philosophy-consciousness](/reviews/deep-review-2026-07-18-eastern-philosophy-consciousness/)
+
+## 2026-07-18T21:16:31+00:00 - deep-review
+- **Status**: Success (no-op convergence pass)
+- **File**: [decision-void](/voids/decision-void/)
+- **Word count**: 2,979 → 2,979 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-18-decision-void](/reviews/deep-review-2026-07-18-decision-void/)
+- **Notes**: Body byte-identical to the 2026-06-12 deep-review's reviewed content — only intervening change (ff1b5a9c9) was a frontmatter-only ai_system attribution fix (opus-4-7 → opus-4-7+opus-4-8). Classic frontmatter-bump-requalifies-converged-article pattern; 3 prior reviews. §2.4 web-verify legitimately skipped (References block unmodified since the 06-12 full publisher-of-record ledger). Hedge reconciliation, Tenet 2/3 calibration, and reasoning-mode classification all unchanged and confirmed holding. Moved ONLY last_deep_review (→2026-07-18T21:16:31); left ai_modified at HEAD (2026-06-13) per no-op discipline. Seven bedrock disagreements remain catalogued; do not re-flag. Future frontmatter-only requalification should be treated as a no-op again.
+
+## 2026-07-18T21:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Word count**: 4,720 → 4,807 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Notes**: Seventh deep review, but justified: article modified after the 2026-06-22 pass by the 2026-07-13 pessimistic review + follow-on refine (commit 5abcbba24). Verified the refine closed pessimistic Issues 1 (timing-escape overclaim → split by mechanism-variant), 2 ("derived"→"motivated"), and 4 (Born-structural → conditional-on-peer-review). Addressed the two Medium findings the refine left OPEN: Issue 3 (mutual-constraint vs evidential-confirmation equivocation → one sentence marking mutual constraint as internal research-programme fertility, not external evidential support), and Issue 5 (falsifiability wholly outsourced to a sibling → named a concrete near-term falsifier in-body: amplification-pathway biophysical parameters are measurable now, a negative finding would count against the programme now). Citation web-verify (§2.4) appropriately scoped out — no new external cites since the 06-22 ledger; the 07-13 refine only made the existing Torres Alegre claim conditional, the 06-25 refine added an internal-wikilink-only note; superlative sweep empty. Engagement modes + calibration hedges unchanged and correct; no label leakage. `apex_last_synthesis` advanced to match `ai_modified` (drift-artifact pattern). Length 120% of soft, under hard ceiling — human length decision flagged, not auto-condensed (load-bearing calibration prose).
+- **Output**: [deep-review-2026-07-18-post-decoherence-selection-programme](/reviews/deep-review-2026-07-18-post-decoherence-selection-programme/)
+
+## 2026-07-18T20:55:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Word count**: 4,606 → 4,606 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Ninth deep review. No-op verdict. Whole delta since the thorough 2026-06-23 review (which carries a full per-cite web-verify ledger) is ONE cosmetic plain-text→wikilink conversion (`Dennett's multiple-drafts model` → `[[multiple-drafts-model|...]]`, commit 9bb8223d6). References block byte-identical → citation web-verify skipped per §2.4. New `[[multiple-drafts-model]]` target resolves to live file. No label leakage; reasoning-mode and calibration hedges unchanged and correct. Over topics hard ceiling (4606w, 154%) but that is a standing HUMAN editorial call — automated condense must NOT run unsupervised (over-ceiling content is load-bearing calibration + human-requested opponent engagements). Only `last_deep_review` advanced; `ai_modified` (2026-07-12) and `ai_system` (claude-opus-4-5) left at HEAD. Strong convergence-damping candidate (8 prior reviews).
+- **Output**: [deep-review-2026-07-18-time-collapse-and-agency](/reviews/deep-review-2026-07-18-time-collapse-and-agency/)
+
+## 2026-07-18T20:45:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Word count**: 2,497 → 2,497 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh deep review. No-op verdict. Article's own argument unchanged since 2026-05-31; only delta since 2026-06-26 review was three cosmetic Further-Reading cross-links ([anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/), [near-perfect-adaptation-and-control-theoretic-competency-without-experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/), [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/)) + one calibration-honest akrasia sentence in Open Questions, all installed by sibling cross-review chains. All three new targets resolve to live files; all six inline section anchors re-verified against current target headings. Citation web-verify skipped per §2.4 (References byte-identical to 2026-06-26 verified ledger). At 100% of soft threshold — length-neutral. Only `last_deep_review` advanced; `ai_modified` (2026-07-16) and `ai_system` (claude-opus-4-6) left at HEAD. Strong convergence-damping candidate (7 reviews).
+- **Output**: [deep-review-2026-07-18-control-theoretic-will](/reviews/deep-review-2026-07-18-control-theoretic-will/)
+
+## 2026-07-18T20:30:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Word count**: 3,161 → 3,161 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh review (6 deep + 1 pessimistic). No-op verdict. Prose byte-for-byte unchanged since 2026-05-27; only delta since 2026-06-26 review was two cosmetic cross-link additions ([jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/), [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)) installed by sibling automation — both new targets resolve to live files. Citation web-verify skipped per §2.4 (References unchanged since 2026-05-31 ledger). Only `last_deep_review` advanced; `ai_modified` left at HEAD (no body edit). Strong convergence-damping candidate.
+- **Output**: [deep-review-2026-07-18-indian-philosophy-of-mind](/reviews/deep-review-2026-07-18-indian-philosophy-of-mind/)
+
+## 2026-07-18T20:24:24+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: significance/epistemic cluster — [epistemic-emotions](/concepts/epistemic-emotions/), [mattering-void](/voids/mattering-void/), [relevance-void](/voids/relevance-void/), [normative-void](/voids/normative-void/) (all touched today). Strong, unusually well-calibrated cluster; Process Philosopher and Hardline Empiricist personas converge (no possibility/probability slippage — Vervaeke non-computability handled as hypothesis not result, tenet-as-evidence-upgrade praise-worthily declined). Main opportunity: reciprocal cross-link gap wiring epistemic-emotions into the relevance/mattering void neighbourhood (all four links grep-confirmed absent). One P3 refine-draft task minted.
+- **Output**: [optimistic-2026-07-18-significance-epistemic-cluster](/reviews/optimistic-2026-07-18-significance-epistemic-cluster/)
 
 ## 2026-07-18T20:08:16+00:00 - deep-review
 - **Status**: Success

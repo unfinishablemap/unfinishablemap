@@ -16,7 +16,7 @@ description: A hedged human-AI reading of Lurianic tzimtzum — divine self-with
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 22:35:56+00:00
+last_deep_review: 2026-07-18 23:23:15+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'

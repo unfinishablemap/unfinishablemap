@@ -38,7 +38,7 @@ description: Hindu, Buddhist, and Taoist traditions converge with dualism on con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 13:19:23+00:00
+last_deep_review: 2026-07-18 21:27:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
