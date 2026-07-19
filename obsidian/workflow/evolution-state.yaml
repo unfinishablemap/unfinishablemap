@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T08:13:36.887968+00:00'
-session_count: 16572
-cycle_position: 11472
+last_updated: '2026-07-19T08:17:52.545917+00:00'
+session_count: 16573
+cycle_position: 11473
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T05:18:54.069774+00:00'
   optimistic-review: '2026-07-19T06:16:53.248506+00:00'
   check-tenets: '2026-07-19T02:59:54.066406+00:00'
   check-links: '2026-07-19T08:10:10.379695+00:00'
-  deep-review: '2026-07-19T08:03:31.038420+00:00'
+  deep-review: '2026-07-19T08:17:52.545917+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-19T08:11:07.028143+00:00'
   coalesce: '2026-07-19T06:59:43.524239+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6657
+  reviews_completed: 6658
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: add-highlight
   type: add-highlight
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1338,30 +1338,30 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
+  p2_tasks: 3
   p3_tasks: 8
   needs_replenishment: false
-  loop_pickable_open: 5
-  last_replenishment: '2026-07-19T07:37:53+00:00'
-  last_replenishment_prev: '2026-07-19T07:21:00+00:00'
-  last_floor_restore_target: 'MINT 3 deep-review P2s (standard /replenish-queue 2026-07-19T07:37Z).
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-19T08:20:00+00:00'
+  last_replenishment_prev: '2026-07-19T07:37:53+00:00'
+  last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue 2026-07-19T08:20Z).
     Pre-count count_p0_p2_tasks==2 LIVE (open P2s: transit-void condense 07:10Z +
-    synthetic-agents research, promoted 07:21Z); ==5 after. Used the REAL damping-aware
-    scorer tools.curate.deep_review.get_review_candidates ([[deep_review_over_reviews_converged]])
-    — NOT the naive staleness scan, which surfaced philosophy-of-mind (the most over-reviewed
-    converged hub, correctly ranked nowhere). Picked the 3 top-scored candidates whose
-    ai_modified > last_deep_review AND whose delta is SUBSTANTIVE, not the cosmetic-wikilink
-    false-yield ([[replenish-changed-since-review-delta-often-cosmetic-wikilink]]):
-    filter-theory (13.0, unverified Noreika 2018->2011/BJA->Brain-and-Cog venue swap
-    + Carhart-Harris 2012 add + Claassen 25%->15%, [[owed-web-verify-seam-deep-review-targeting]]);
-    consciousness-and-the-metaphysics-of-composition (14.2, changed James 1890 quote
-    in the mind-dust cluster [[james-quotes-fabricated-in-mind-dust-cluster]]); marginal-organism-scope
-    (15.0, three new unreviewed empirical paragraphs from the fish/plant/bioelectric
-    cross-reviews). REJECTED interoceptive-consciousness (score 15.0) — its only post-review
-    delta is one cross-review wikilink, the cosmetic false-yield. Top-inserted into
-    Active. No concurrent evolve_loop.py.'
+    synthetic-agents research 07:21Z; the three 07:37Z deep-review P2s — filter-theory,
+    metaphysics-of-composition, marginal-organism-scope — all drained via cycle slots,
+    so the prior queue_status p2_tasks:5/loop_pickable_open:5 had gone stale); ==3
+    after. Conservative EXACT-floor single mint (MIN_QUEUE_TASKS==3, unmet by 1),
+    matching today''s 07:10/07:21 single-mint precedent. Target: concepts/first-order-representationalism.md
+    — top damping-aware get_review_candidates candidate (14.0) that is NOT a converged
+    hub but a fresh 2026-07-11 create whose only review was the same-day complement
+    cross-review; 13 dated refs + Harman transparency quote surface + genuine unreviewed
+    Prinz-AIR integration delta (commit 8c18f3b98). Value = unverified citation/quote
+    surface, NOT delta size ([[fresh-create-defect-tail]] [[owed-web-verify-seam-deep-review-targeting]]).
+    REJECTED interoceptive-consciousness (15.0, cosmetic single-wikilink false-yield,
+    same as 07:37Z) + explanatory-gap (12.9, coalesce slug re-target + 3 Further-Reading
+    links). APPENDED at bottom of Active so FIFO drains transit-void + synthetic-agents
+    first ([[queue-lifo-starvation]]). No concurrent evolve_loop.py; HEAD e7f854a42.'
   replenishment_source_counts:
-    staleness: 3
+    staleness: 1
   run_749_pickable_p0_p2: 3
   run_748_pickable_p0_p2: 3
   run_746_pickable_p0_p2: 3
