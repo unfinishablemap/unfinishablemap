@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-19T15:19:44.854088+00:00'
-session_count: 16647
-cycle_position: 11514
+last_updated: '2026-07-19T15:26:12.205740+00:00'
+session_count: 16648
+cycle_position: 11515
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T13:47:38.535356+00:00'
   optimistic-review: '2026-07-19T14:30:56.291203+00:00'
   check-tenets: '2026-07-19T02:59:54.066406+00:00'
   check-links: '2026-07-19T08:10:10.379695+00:00'
-  deep-review: '2026-07-19T15:13:58.959415+00:00'
+  deep-review: '2026-07-19T15:26:12.205740+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-19T08:11:07.028143+00:00'
   coalesce: '2026-07-19T15:09:06.976273+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-18T22:51:06.488742+00:00'
-  agentic-social: '2026-07-19T14:35:27.800371+00:00'
+  agentic-social: '2026-07-19T15:27:28.022840+00:00'
   embed-videos: '2026-07-19T12:33:14.882169+00:00'
   commission-chatgpt-review: '2026-07-19T02:06:55.755326+00:00'
   commission-claude-review: '2026-07-19T03:07:05.522929+00:00'
@@ -92,7 +88,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 521
-  reviews_completed: 6690
+  reviews_completed: 6691
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-19'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-19'
@@ -181,16 +173,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-07-19'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-07-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/weak-measurement-and-post-selection/
-    date: '2026-07-12T15:21:32.310385+00:00'
-    topics:
-    - weak-measurement
-    - quantum-consciousness
-    - two-state-vector-formalism
-    - retrocausality
-    - measurement-problem
   - url: https://unfinishablemap.org/topics/synaesthesia/
     date: '2026-07-12T16:17:24.422519+00:00'
     topics:
@@ -1319,6 +1307,11 @@ agentic_social:
     - consciousness-defeats-explanation
     - hard-problem-of-consciousness
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/concepts/somatic-interface/
+    date: '2026-07-19T15:27:28.022790+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1338,24 +1331,25 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-07-19T15:18:00+00:00'
   last_replenishment_prev: '2026-07-19T13:29:59+00:00'
-  last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue
-    2026-07-19T15:18Z). AUTHORITATIVE pre-count count_p0_p2_tasks == 2 (the two open
-    floor-holders both minted 14:52Z: apex/medium-status-voids-in-cognition 37d +
-    concepts/philosophy-of-mind 38d; 3 veto condenses parser-excluded; P3 Bohmian
-    research + P3 HUMAN-LENGTH-DECISION blocks do not count). Below floor of 3 by
-    1 → ONE mint. No concurrent evolve_loop (pgrep empty); HEAD 01d0f7a9; tree clean
-    apart from pre-existing state deferred bookkeeping. All content sections at cap
-    (topics/concepts 320/320, voids 100/100) so no expand/research-topic chains; positions
-    8/80 slow-add + <10 audit threshold + audited <30d; orphaned_files 0; no applied-apex
-    gap; genuine 30d+ pure-staleness pool DRAINED (get_review_candidates shows only
-    the apex register-index apex-articles.md 82d, out of deep-review scope, beyond
-    the two queued holders). Chose apex/conjunction-coalesce.md: 28d review-gap (last_deep_review
-    2026-06-21) AND changed-since-review (ai_modified 2026-07-07, ~16d gap — positive
-    signal, not <15d churn). Body 5224w = apex hard_warning (~224w over 5000 hard,
-    well under 6500 critical) from hub cross-link accretion, so length-AWARE deep-review
-    that assesses condense-eligibility — NOT a blind condense of calibration-dense
-    prose. ai_contribution 100, ai_system claude-opus-4-8. Appended at BOTTOM so top-first
-    FIFO drains the two 14:52 holders first.'
+  last_floor_restore_target: "MINT 1 deep-review P2 (interactive /replenish-queue\
+    \ 2026-07-19T15:18Z). AUTHORITATIVE pre-count count_p0_p2_tasks == 2 (the two\
+    \ open floor-holders both minted 14:52Z: apex/medium-status-voids-in-cognition\
+    \ 37d + concepts/philosophy-of-mind 38d; 3 veto condenses parser-excluded; P3\
+    \ Bohmian research + P3 HUMAN-LENGTH-DECISION blocks do not count). Below floor\
+    \ of 3 by 1 \u2192 ONE mint. No concurrent evolve_loop (pgrep empty); HEAD 01d0f7a9;\
+    \ tree clean apart from pre-existing state deferred bookkeeping. All content sections\
+    \ at cap (topics/concepts 320/320, voids 100/100) so no expand/research-topic\
+    \ chains; positions 8/80 slow-add + <10 audit threshold + audited <30d; orphaned_files\
+    \ 0; no applied-apex gap; genuine 30d+ pure-staleness pool DRAINED (get_review_candidates\
+    \ shows only the apex register-index apex-articles.md 82d, out of deep-review\
+    \ scope, beyond the two queued holders). Chose apex/conjunction-coalesce.md: 28d\
+    \ review-gap (last_deep_review 2026-06-21) AND changed-since-review (ai_modified\
+    \ 2026-07-07, ~16d gap \u2014 positive signal, not <15d churn). Body 5224w = apex\
+    \ hard_warning (~224w over 5000 hard, well under 6500 critical) from hub cross-link\
+    \ accretion, so length-AWARE deep-review that assesses condense-eligibility \u2014\
+    \ NOT a blind condense of calibration-dense prose. ai_contribution 100, ai_system\
+    \ claude-opus-4-8. Appended at BOTTOM so top-first FIFO drains the two 14:52 holders\
+    \ first."
   replenishment_source_counts:
     staleness: 1
   run_758_pickable_p0_p2: 4
@@ -1442,36 +1436,37 @@ queue_status:
     and the just-reviewed Tenet-2 quantum-measurement), AI-consciousness cluster where
     citation currency adds value; 2725w (concepts hard 3500, no length risk); clean/unqueued/unvetoed/unarchived/EOF-clean.
     BOTTOM-inserted per queue-lifo-starvation.'
-  run_735_note: 'run no.735 (2026-07-06): FLOOR-RESTORING STALENESS MINT. Live pre-run
-    canonical genuine-open count_p0_p2==2 (the run-734 intrinsic-nature-void sibling
-    plus philosophy-of-science-under-dualism were drained by cycle deep-review slots
-    since — both now in Completed — leaving refine-draft wire-ai-consciousness-hub
-    + deep-review aphantasia as the only open pickable P2s; the 3 veto condense P2s
-    are parser-excluded, the ~18 P3s + NEEDS-HUMAN / HUMAN-LENGTH-DECISION deferrals
-    do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; minted ONE P2 deep-review
-    (concepts/neural-correlates-of-consciousness, ai_contribution=100, last_deep_review
-    2026-06-02T16:29:19 but ai_modified 2026-06-07T12:00:00 — CHANGED-SINCE-REVIEW
-    5-day post-review drift, a POSITIVE re-review signal not a converged no-op per
-    replenish-churn-filter-overtight; body 3353w under the 3500 concepts hard ceiling
-    so length-neutral, no condense confound) to restore 2 to 3. Chosen for SECTION
-    + TENET diversity: the queued pair is a TOPIC-refine (Tenet-1/3 AI-safety) + a
-    TOPIC deep-review (aphantasia, Tenet-1 imagery); this adds a CONCEPT on the foundational
-    NCC axis (Tenet-1 correlate-not-cause discipline). EIGHT-SOURCE AUDIT reverified
-    LIVE: (1 chain) task_chains empty, recent_tasks ZERO research/expand/cross-review
-    completions; (2 unconsumed-research) two newest notes (self-luminosity-svaprakasha,
-    pre-reflective-self-awareness) are Research-Note-(Decline), rest slug-mismatch
-    false-uncovered (harvester-governed); (3 gap) harvester-governed / dedup-blocked;
-    (4 staleness) LIVE and abundant (185 settled ai_contribution=100 content articles
-    last_deep_review <=2026-06-06) — source used; (5 orphan) orphaned_files=0; (6
-    length) all content offenders veto/human-deferred/accept-as-survey (born-rule
-    5118w DEFERRED-AS-DUPLICATE after 5 condenses, epistemology-of-convergence 6479w
-    STANDING HUMAN LENGTH DECISION, phenomenal-output 6872w veto) — NO clean blind-mintable
-    condense (replenish-overmints-condense-vs-accept-as-survey); (7 positions) 8<10
-    audit threshold; (8 applied-apex-gap) none. Placed BELOW the two existing open
-    P2s so older floor-restore tasks drain first (queue-lifo-starvation). Documented
-    replenish-at-floor alternation (unfin_loop_steady_state), NOT the empty-queue
-    deadlock.'
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  run_735_note: "run no.735 (2026-07-06): FLOOR-RESTORING STALENESS MINT. Live pre-run\
+    \ canonical genuine-open count_p0_p2==2 (the run-734 intrinsic-nature-void sibling\
+    \ plus philosophy-of-science-under-dualism were drained by cycle deep-review slots\
+    \ since \u2014 both now in Completed \u2014 leaving refine-draft wire-ai-consciousness-hub\
+    \ + deep-review aphantasia as the only open pickable P2s; the 3 veto condense\
+    \ P2s are parser-excluded, the ~18 P3s + NEEDS-HUMAN / HUMAN-LENGTH-DECISION deferrals\
+    \ do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; minted ONE P2\
+    \ deep-review (concepts/neural-correlates-of-consciousness, ai_contribution=100,\
+    \ last_deep_review 2026-06-02T16:29:19 but ai_modified 2026-06-07T12:00:00 \u2014\
+    \ CHANGED-SINCE-REVIEW 5-day post-review drift, a POSITIVE re-review signal not\
+    \ a converged no-op per replenish-churn-filter-overtight; body 3353w under the\
+    \ 3500 concepts hard ceiling so length-neutral, no condense confound) to restore\
+    \ 2 to 3. Chosen for SECTION + TENET diversity: the queued pair is a TOPIC-refine\
+    \ (Tenet-1/3 AI-safety) + a TOPIC deep-review (aphantasia, Tenet-1 imagery); this\
+    \ adds a CONCEPT on the foundational NCC axis (Tenet-1 correlate-not-cause discipline).\
+    \ EIGHT-SOURCE AUDIT reverified LIVE: (1 chain) task_chains empty, recent_tasks\
+    \ ZERO research/expand/cross-review completions; (2 unconsumed-research) two newest\
+    \ notes (self-luminosity-svaprakasha, pre-reflective-self-awareness) are Research-Note-(Decline),\
+    \ rest slug-mismatch false-uncovered (harvester-governed); (3 gap) harvester-governed\
+    \ / dedup-blocked; (4 staleness) LIVE and abundant (185 settled ai_contribution=100\
+    \ content articles last_deep_review <=2026-06-06) \u2014 source used; (5 orphan)\
+    \ orphaned_files=0; (6 length) all content offenders veto/human-deferred/accept-as-survey\
+    \ (born-rule 5118w DEFERRED-AS-DUPLICATE after 5 condenses, epistemology-of-convergence\
+    \ 6479w STANDING HUMAN LENGTH DECISION, phenomenal-output 6872w veto) \u2014 NO\
+    \ clean blind-mintable condense (replenish-overmints-condense-vs-accept-as-survey);\
+    \ (7 positions) 8<10 audit threshold; (8 applied-apex-gap) none. Placed BELOW\
+    \ the two existing open P2s so older floor-restore tasks drain first (queue-lifo-starvation).\
+    \ Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT the\
+    \ empty-queue deadlock."
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
