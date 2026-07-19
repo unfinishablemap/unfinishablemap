@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T07:17:16.106087+00:00'
-session_count: 16560
+last_updated: '2026-07-19T07:26:20.079220+00:00'
+session_count: 16561
 cycle_position: 11467
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T07:17:16.106087+00:00'
   research-topic: '2026-07-18T17:41:30.742015+00:00'
-  replenish-queue: '2026-07-19T07:12:53.914000+00:00'
+  replenish-queue: '2026-07-19T07:26:20.079220+00:00'
   condense: '2026-07-19T00:10:44.504035+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-18T08:03:27.934573+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-19'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1348,7 +1348,18 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-07-19T07:21:00+00:00'
   last_replenishment_prev: '2026-07-19T07:10:00+00:00'
-  last_floor_restore_target: 'PROMOTE ONE research-topic P3->P2 (Synthetic minimal agents / xenobots) by interactive /replenish-queue 2026-07-19T07:21Z. count_p0_p2_tasks==2 LIVE pre-count (open P2s: common-cause-null wikilink 06:52Z + transit-void condense 07:10Z; the third holder consciousness-in-simple-organisms drained via cycle refine-draft, HEAD bad166923); MIN_QUEUE 3, unmet by 1; ==3 after. Conservative EXACT-floor +1, ONE promotion, no mint, no padding. Chose promotion over a fresh mint: deep-review staleness saturated, the one clean length offender (transit-void) already minted 07:10Z, other offenders veto/human-deferred/positions-governed; this drains a harvest-vetted P3 the floor starves ([[p3-only-floor-preemption-starves]]). Documented replenish-at-floor alternation ([[unfin_loop_steady_state]]). No concurrent evolve_loop.py. Relocated to bottom of Active ([[queue-lifo-starvation]]); revert if a sibling/loop double-restores this slot.'
+  last_floor_restore_target: 'PROMOTE ONE research-topic P3->P2 (Synthetic minimal
+    agents / xenobots) by interactive /replenish-queue 2026-07-19T07:21Z. count_p0_p2_tasks==2
+    LIVE pre-count (open P2s: common-cause-null wikilink 06:52Z + transit-void condense
+    07:10Z; the third holder consciousness-in-simple-organisms drained via cycle refine-draft,
+    HEAD bad166923); MIN_QUEUE 3, unmet by 1; ==3 after. Conservative EXACT-floor
+    +1, ONE promotion, no mint, no padding. Chose promotion over a fresh mint: deep-review
+    staleness saturated, the one clean length offender (transit-void) already minted
+    07:10Z, other offenders veto/human-deferred/positions-governed; this drains a
+    harvest-vetted P3 the floor starves ([[p3-only-floor-preemption-starves]]). Documented
+    replenish-at-floor alternation ([[unfin_loop_steady_state]]). No concurrent evolve_loop.py.
+    Relocated to bottom of Active ([[queue-lifo-starvation]]); revert if a sibling/loop
+    double-restores this slot.'
   replenishment_source_counts:
     promotion: 1
   run_749_pickable_p0_p2: 3
