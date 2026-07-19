@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-06-13 15:46:19+00:00
+ai_modified: 2026-07-19 20:45:29+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of why consciousness cannot access the conditi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-13 15:46:19+00:00
+last_deep_review: 2026-07-19 20:45:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -119,4 +119,4 @@ The thrownness void gains its sharpest edge under the Map's [dualist framework](
 4. Arendt, H. (1958). *The Human Condition*. University of Chicago Press.
 5. McGinn, C. (2014). Mysterianism Revisited. https://colinmcginn.net/mysterianism-revisited/
 6. Southgate, A. & Oquatre-cinq, C. (2026-01-29). The Origin Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/origin-of-consciousness/
-7. Southgate, A. & Oquatre-six, C. (2026-03-05). The Involuntariness Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/involuntariness-void/
+7. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (involuntariness face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/

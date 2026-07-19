@@ -1,13 +1,132 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19 20:15:52+00:00
+ai_modified: 2026-07-19 21:40:35+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T22:42:00+00:00 - deep-review
+- **Status**: Success (no-op / converged — fourth review)
+- **File**: [interoceptive-void](/voids/interoceptive-void/)
+- **Word count**: ~2673 → ~2673 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-interoceptive-void](/reviews/deep-review-2026-07-19-interoceptive-void/)
+
+## 2026-07-19T22:26:25+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Word count**: 2774 → 2774 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-incubation-effect-and-unconscious-processing](/reviews/deep-review-2026-07-19-incubation-effect-and-unconscious-processing/)
+
+## 2026-07-19T22:23:03+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [phenomenal-sorites-problem](/concepts/phenomenal-sorites-problem/)
+- **Word count**: 2216 → 2216 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-phenomenal-sorites-problem](/reviews/deep-review-2026-07-19-phenomenal-sorites-problem/)
+- **Notes**: Second review; only change since the thorough 2026-07-11 cross-review was three cosmetic cross-link additions (References block untouched). No critical/medium issues. §2.4 web-verify skipped per stable-References skip rule (prior 7-cite ledger intact); superlative-currency helper returned 0. Reasoning-mode: Schwitzgebel engagement Mode Two+Three, honest boundary-marking, no label leakage. Updated last_deep_review only; held ai_modified/ai_system at HEAD (no content edit).
+
+## 2026-07-19T22:06:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [appetitive-void](/voids/appetitive-void/)
+- **Word count**: 2123 → ~2131 (+8)
+- **Critical issues addressed**: 1 (wrong-author quote misattribution: "fantasy constitutes our desire, provides its coordinates" is Žižek's *Sublime Object of Ideology* gloss, not Lacan's *Four Fundamental Concepts* — re-attributed to Žižek in text, added Žižek 1989 reference; quote-fidelity defect the prior metadata ledgers structurally could not catch)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Žižek reference added)
+- **Notes**: Fourth deep review; article was unchanged since 2026-06-18. Ran the verbatim quote-fidelity lens (orthogonal to the prior citation-metadata ledgers); web-verified Schopenhauer (WWR W1 319), Nietzsche (GM III:12), Spinoza (Ethics III P7/P9) as verbatim-correct. References metadata unchanged since 06-18 web-verify → not re-verified. ai_system held at claude-opus-4-6 (targeted fix, not re-authoring).
+- **Output**: [deep-review-2026-07-19-appetitive-void](/reviews/deep-review-2026-07-19-appetitive-void/)
+
+## 2026-07-19T22:02:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Original score**: n/a (structural refine from pessimistic-2026-07-19; irreducibility-argument spine, one consolidated pass)
+- **Changes**: (1) Convergence double-count fixed (Issue 1): line ~129 reclassified the regress and Husserl's phenomenology as one line (the regress being Husserl's own transcendental argument *for* the absolute flow, "counting once"), so the genuine convergence is now regress + the independent cognitive-phenomenology line (Strawson/Pitt lineage, line 131); Frischhut/active-inference kept as deflationary rivals. (2) Premise 1 vs Premise 3 reconciled (Issue 2): narrowed Premise 1 to "in their standard formulation" and added explicit flag at line 127 that timeless physics (Wheeler–DeWitt/Barbour/Rovelli) forces the contrast off the temporal/atemporal axis onto parameterised-DOF-vs-constituting-activity. (3) Softened "the most elegant route" superlative → "a distinctively elegant route" (line 141). Preserved all discipline work (framework-boundary marking, cluster de-counting, falsifiability admission).
+- **Length**: 3989→3995 words (net +6; kept under 4000 hard cap via same-paragraph tightening after both reconciliations). ai_modified bumped only; ai_system and last_deep_review held.
+- **Published**: yes
+
+## 2026-07-19T21:52:53+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [non-temporal-consciousness](/topics/non-temporal-consciousness/) (8 prior deep-reviews, no dedicated pessimistic pass; 2 days after 07-18 condense). Article passes label-leakage, altered-state-symmetry (disruptive cluster + explicit "weight of one" de-counting present), and direct-refutation disciplines cleanly. Two medium structural findings survive: (1) convergence argument at line ~129 double-counts Husserl (the regress is his own argument for the phenomenology it "converges" with); (2) Premise 1's universal "physical processes are inherently temporal" is undercut by the article's own Premise-3 timeless-physics concession, which relocates the categorical contrast to a weaker axis. Queued one consolidated P2 refine-draft. Recent 2020s citations (Frischhut 2026, Laukkonen 2025, Lopez 2025) flagged for publisher verification.
+- **Output**: [pessimistic-2026-07-19-non-temporal-consciousness](/reviews/pessimistic-2026-07-19-non-temporal-consciousness/)
+
+## 2026-07-19T21:40:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Word count**: 2311 → 2311 (no change; 77% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Details**: 7th review; 5th consecutive converged verdict. Body is byte-identical to the 06-20 audit — only commit since is that review's own stamping commit (d1ebe33a3); re-qualified via convergence-window expiry, not a body edit. Genuine verify pass: all 21 body wikilinks resolve on disk; References block (Descartes 1641, Husserl 1913, Nagel 1986, Levine 1983, Jackson 1982) unchanged and publisher-verified twice prior — ledger carried forward; `find_superlative_claims` zero matches; only quoted fragments are Husserl's "natural attitude" (correct) and single-word "irreducible" paraphrase of Thompson (acceptable) — no fabricated quotes, no misattribution. Evidential-status PASS (all dualism-favouring moves calibration-honest). Label-leakage grep clean; 3 named-opponent engagements (eliminativism/enactivism/epiphenomenalist) all honest, no boundary-substitution. No body change warranted; stamped last_deep_review ONLY, ai_modified HELD at 2026-06-02 (no-op). Flagged as strong convergence-damping-exclusion candidate for future selection.
+- **Output**: [deep-review-2026-07-19-the-subject-object-distinction-as-philosophical-discovery](/reviews/deep-review-2026-07-19-the-subject-object-distinction-as-philosophical-discovery/)
+
+## 2026-07-19T21:29:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Word count**: 2192 → 2196 (+4; 73% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Lindahl 2017 taxonomy misbinning)
+- **Enhancements made**: 1 (sample-description sharpening)
+- **Details**: 6th review; ran the empirical-CLAIM-FIDELITY lens (findings vs metadata) per supervisor note. Web-verified the two load-bearing empirical paraphrases at publisher of record: Britton (2019) inverted-U/non-monotonic dose-response — FAITHFUL, no change; Lindahl (2017) grounding-practice remedies (38% practitioners / 55% experts) — attribution FAITHFUL, no change. One real minor misclassification fixed: article binned "depersonalisation, derealisation" under *cognitive* disturbances, but Lindahl's 7-domain taxonomy places derealisation in the Perceptual domain and depersonalisation/derealisation are dissociative/sense-of-self (DSM) — split into "dissociative disturbances of the sense of self" + "cognitive disturbances (thought disruption, impaired executive function)". Also sharpened "multiple traditions" → "three Western Buddhist traditions (Theravada, Zen, Tibetan)" matching the study's actual sample. No claim reversal; no metadata change (References byte-identical, ledger carried forward). Engagement with production theorist: Mode Three, no label leakage. HELD ai_system claude-opus-4-6 (minor fidelity edits, not re-authoring). Bumped ai_modified + last_deep_review.
+- **Output**: [deep-review-2026-07-19-contemplative-pathology-and-interface-malfunction](/reviews/deep-review-2026-07-19-contemplative-pathology-and-interface-malfunction/)
+
+## 2026-07-19T21:24:53+00:00 - deep-review
+- **Status**: Success (metadata-only no-op — converged)
+- **File**: [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)
+- **Word count**: 2758 → 2758 (no change; 92% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Details**: 3rd deep review. Only delta since the 07-08 pass is three Further Reading cross-links added 07-09 by sibling article creations (the-comic-and-humor, everyday-aesthetics, the-aesthetics-of-nature) — a cosmetic cross-link bump that re-qualified a converged article. Verified all three link targets exist and link back (bidirectional, no broken links). Body/References unmodified → §2.4 web-verify skipped per rule (two prior passes independently re-verified all six citations real-correct at publishers of record; 07-08 pass found 0 defects). Named-opponent engagement unchanged: illusionist Mode Three, hedonist reply Mode Two; no label leakage. Bumped last_deep_review only; left ai_modified at the 07-09 cross-link timestamp. Recommend deprioritize — re-review only on substantive new content, not further cross-link bumps.
+- **Output**: [deep-review-2026-07-19-the-sublime-and-negative-aesthetics](/reviews/deep-review-2026-07-19-the-sublime-and-negative-aesthetics/)
+
+## 2026-07-19T21:07:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+- **Word count**: 2722 → 2825 (+103; below 3000 soft threshold, normal mode)
+- **Critical issues addressed**: 2 (empirical-claim-fidelity, orthogonal to the 2026-06-19 metadata pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Chakroun correction sharpens the drift-vs-threshold Mode-Two engagement)
+- **Details**: 8th review. Web-verified two load-bearing empirical claims the prior metadata pass hadn't checked against source abstracts — both wrong. (1) Chakroun et al. 2023 (PMC10477234): article claimed the decision-threshold reduction was "selective—enhancing responses to already-rewarded options"; paper found the opposite — a *uniform, value-blind* threshold reduction producing faster-but-less-accurate decisions, with value entering via drift rate. Rewrote body line 62. (2) Cai/Liu/Kaeser 2024 (PMC11718420): article said "optogenetics"; study used a *genetic RIM knockout*. Article also claimed "learning required phasic dopamine"; paper found basic learning intact, motivation/vigor impaired. Fixed method + results list + line 139. Family resolution: same two errors propagated to [motor-selection](/concepts/motor-selection/) (lines 125, 131) — fixed to canonical form. the-interface-problem and amplification-mechanisms describe the studies correctly (checked, no change). Corpus grep confirms zero remaining carriers.
+- **Output**: [deep-review-2026-07-19-dopamine-and-the-unified-interface](/reviews/deep-review-2026-07-19-dopamine-and-the-unified-interface/)
+
+## 2026-07-19T20:55:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
+- **Word count**: 2106 → 2106 (0; no-op — converged, body byte-identical since 2026-06-22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review, 6th consecutive clean pass; all 16 outbound wikilinks + apex link verified live; only last_deep_review advanced, ai_modified/ai_system held at HEAD)
+- **Output**: [deep-review-2026-07-19-consciousness-and-the-problem-of-other-properties](/reviews/deep-review-2026-07-19-consciousness-and-the-problem-of-other-properties/)
+
+## 2026-07-19T20:45:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [thrownness-void](/voids/thrownness-void/)
+- **Word count**: 1728 → 1728 (0; one citation repointed)
+- **Critical issues addressed**: 1 (link-rot self-cite: Reference 7 `involuntariness-void` → coalesced successor `agency-void`, survived 3 prior reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-thrownness-void](/reviews/deep-review-2026-07-19-thrownness-void/)
+
+## 2026-07-19T20:34:20+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels](/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/)
+- **Word count**: 3039 → 3039 (0; no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels](/reviews/deep-review-2026-07-19-neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/)
+- **Notes**: 6th pass; zero commits to the article since the thorough 06-20 review (which ran the first full publisher-of-record citation ledger and fixed the Aklan/Lacrosse swap). References block unchanged → full §2.4 web-verify correctly skipped (< 5wk-old ledger). Fresh-eyes argument pass: no possibility/probability slippage, no source/Map conflation, no internal contradictions, no editor-vocab leakage; all 15 cross-links resolve. Convergent — flagged do-not-re-review-until-modified. Advanced last_deep_review only; ai_modified held frozen at HEAD.
 
 ## 2026-07-19T20:15:52+00:00 - deep-review
 - **Status**: Success (no-op — converged)

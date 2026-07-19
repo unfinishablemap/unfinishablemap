@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-22 21:13:27+00:00
+ai_modified: 2026-07-19 22:44:41+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI investigation of the body's partial opacity to the conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 21:13:27+00:00
+last_deep_review: 2026-07-19 22:42:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,7 +65,7 @@ Four lines of evidence map the void's shape.
 
 **Pathologies of dissociation.** Anxiety, depersonalisation, anorexia, and alexithymia each involve characteristic dissociations between actual interoceptive state and reported felt body. The void can deepen or distort under conditions that do not change the body itself — strong evidence that what is felt is partly construction, since the construction can fail while the substrate stays intact.
 
-The "There is no such thing as interoception" paper (Frontiers in Psychology 2025) supplies a methodological frame for these findings: interoception is not a unified sensory modality but a heterogeneous bundle of channels (cardiac, gastric, respiratory, thermal, chemoception, nociception) with different ascending pathways and very different accessibility profiles. The single label "interoception" obscures the structural variation that is itself the void's shape.
+The "There is no such thing as interoception" paper (Schoeller et al. 2025) supplies a methodological frame for these findings: interoception is not a unified sensory modality but a heterogeneous bundle of channels (cardiac, gastric, respiratory, thermal, chemoception, nociception) with different ascending pathways and very different accessibility profiles. The single label "interoception" obscures the structural variation that is itself the void's shape.
 
 ## Phenomenology of the Edge
 
@@ -132,7 +132,7 @@ The void has a complement on the access side. Where this article maps the *silen
 5. Azzalini, D., Rebollo, I., & Tallon-Baudry, C. (2019). Visceral signals shape brain dynamics and cognition. *Trends in Cognitive Sciences*, 23(6), 488–509. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30089-0
 6. Tsakiris, M., & De Preester, H. (eds.) (2018). *The Interoceptive Mind: From Homeostasis to Awareness*. Oxford University Press. https://academic.oup.com/book/9637
 7. Singer, J., & Damasio, A. (2025). The physiology of interoception and its adaptive role in consciousness. *Phil. Trans. R. Soc. B*, 380(1939), 20240305. https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0305
-8. There is no such thing as interoception. (2025). *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1488415/full
+8. Schoeller, F. A., Zhang, B., Garcia, T., & Reggente, N. (2025). There is no such thing as interoception. *Frontiers in Psychology*, 16, 1488415. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1488415/full
 9. What might interoceptive inference reveal about consciousness? *Review of Philosophy and Psychology*, 13. https://link.springer.com/article/10.1007/s13164-021-00580-3
 10. Cardiac interoception is enhanced in blind individuals. (2024). *Cerebral Cortex*, 34(8). https://academic.oup.com/cercor/article/34/8/bhae324/7734633
 11. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/

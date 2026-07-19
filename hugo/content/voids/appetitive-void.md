@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-06-18 11:25:04+00:00
+ai_modified: 2026-07-19 22:06:53+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of how desire structures cognition itself—no
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 11:25:04+00:00
+last_deep_review: 2026-07-19 22:06:53+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -71,7 +71,7 @@ Spinoza's conatus—the striving of each thing to persevere in being—is "nothi
 
 ### Lacan: Desire as Structure
 
-Lacan argues that desire is not a feature of consciousness but its *structure*: "fantasy constitutes our desire, provides its coordinates." The objet petit a—the perpetually missing object of desire—ensures wanting always misidentifies its target. We cannot know what we truly want, and this unknowing shapes everything we think we know. Where Schopenhauer's will is blind force and Spinoza's conatus is self-preserving essence, Lacan's desire operates through language itself—the symbolic order through which all knowledge is mediated is already appetitively organised.
+Lacan argues that desire is not a feature of consciousness but its *structure*, organised through fantasy—or, in Žižek's gloss on this Lacanian point, fantasy "constitutes our desire, provides its coordinates." The objet petit a—the perpetually missing object of desire—ensures wanting always misidentifies its target. We cannot know what we truly want, and this unknowing shapes everything we think we know. Where Schopenhauer's will is blind force and Spinoza's conatus is self-preserving essence, Lacan's desire operates through language itself—the symbolic order through which all knowledge is mediated is already appetitively organised.
 
 ### Predictive Processing: Desire as Default
 
@@ -139,8 +139,9 @@ The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and pr
 3. Nietzsche, F. (1886). *Beyond Good and Evil*. C.G. Naumann.
 4. Nietzsche, F. (1887). *On the Genealogy of Morality*. C.G. Naumann.
 5. Lacan, J. (1973). *The Four Fundamental Concepts of Psycho-Analysis*. Seuil.
-6. Siegel, S. (2017). *The Rationality of Perception*. Oxford University Press.
-7. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127-138.
-8. Kruglanski, A. W., Jasko, K., & Friston, K. (2020). "All Thinking is 'Wishful' Thinking." *Trends in Cognitive Sciences*, 24(6), 413-424.
-9. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
-10. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.
+6. Žižek, S. (1989). *The Sublime Object of Ideology*. Verso.
+7. Siegel, S. (2017). *The Rationality of Perception*. Oxford University Press.
+8. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127-138.
+9. Kruglanski, A. W., Jasko, K., & Friston, K. (2020). "All Thinking is 'Wishful' Thinking." *Trends in Cognitive Sciences*, 24(6), 413-424.
+10. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
+11. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.

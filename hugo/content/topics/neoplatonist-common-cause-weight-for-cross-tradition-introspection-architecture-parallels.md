@@ -15,7 +15,7 @@ description: Differentiated audit of Neoplatonist transmission as a common-cause
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 04:22:27+00:00
+last_deep_review: 2026-07-19 20:34:20+00:00
 modified: *id001
 related_articles:
 - '[[introspection-architecture-independence-scoring]]'

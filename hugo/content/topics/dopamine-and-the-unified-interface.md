@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-06-19 08:44:11+00:00
+ai_modified: 2026-07-19 21:07:43+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Dopamine serves both attention and motor systems because these syst
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-19 08:44:11+00:00
+last_deep_review: 2026-07-19 21:07:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ This dissociation is critical for understanding the interface:
 - **Dopamine sets threshold height**: Lower dopamine → higher threshold → harder to initiate
 - **The selection question remains**: What determines which of the competing options crosses threshold?
 
-If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and the human striatal dopamine study above (Chakroun et al. 2023) found that the threshold reduction was selective—enhancing responses to options already marked by reward rather than producing indiscriminate activation. The threshold effect favors marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
+In the drift-diffusion models fit to these data, threshold and value are separate parameters: the threshold sets how much evidence any option needs, while value enters through the *drift rate*—how fast evidence for a given option accumulates. Consistent with this separation, Chakroun et al. (2023) found that raising dopamine with L-DOPA lowered the decision threshold roughly uniformly, producing faster but *less* accurate responses rather than selectively favoring high-value options. What biases the race toward rewarded options is the learned-value signal carried by the drift rate—the same marking reflected in amphetamine preferentially speeding responses to previously rewarded options (Robbins & Everitt 2007). So dopamine sets the threshold and, through learned value, marks which options accumulate fastest—yet when two options are closely matched, the mechanism by which one finally wins is left to noise in these models. The Map proposes that this residual selection may be where consciousness operates.
 
 ### A Proposed Three-Layer Architecture
 
@@ -97,11 +97,11 @@ Dopamine neurons operate in two modes:
 
 **Phasic**: Rapid bursts encoding reward prediction errors. Sub-second precision. Marks specific events.
 
-The 2024 *Nature* study used optogenetics to selectively disrupt phasic dopamine while preserving tonic levels. Results:
+The 2024 *Nature* study used a genetic knockout—removing the release-site organizer protein RIM in dopamine neurons—to disrupt fast, action-potential-evoked dopamine release while baseline dopamine persisted. Results:
 
-- **Movement**: Required only tonic dopamine
-- **Reward-guided motivation**: Required phasic dopamine
-- **Learning from reward**: Required phasic dopamine
+- **Movement**: Required only baseline (tonic) dopamine; spontaneous movement was preserved
+- **Reward-guided motivation and performance vigor**: Required fast (phasic) dopamine dynamics
+- **Basic reward learning**: Relatively preserved, showing that fast dynamics are not the sole substrate of learning
 
 ### Interface Implications
 
@@ -138,7 +138,7 @@ This challenges simple threshold models but remains compatible with the unified 
 
 Consider the implications: dopamine-mediated learning determines which options exist, how they compete, and which have been marked as valuable through experience. The selection mechanism then operates on this learned landscape. Far from threatening the interface hypothesis, learning primacy clarifies the division of labor: dopamine builds and maintains the selection apparatus; something else—the Map proposes consciousness—performs the selection.
 
-The 2024 *Nature* study supports this interpretation: movement (selection execution) requires only tonic dopamine, while learning about what to select requires phasic signals. The selection capacity and the learning capacity are dissociable.
+The 2024 *Nature* study reinforces the division of labor: movement (selection execution) proceeds on baseline dopamine alone, while the reward-guided motivation that marks options as worth pursuing depends on fast dopamine dynamics. The capacity to execute a selection and the dopamine-dependent marking that guides it are dissociable.
 
 ## Theta Oscillations: The Timing Substrate
 

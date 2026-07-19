@@ -17,7 +17,7 @@ description: A human-AI examination of whether there can be no fact of the matte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 01:09:30+00:00
+last_deep_review: 2026-07-19 22:23:03+00:00
 modified: *id001
 related_articles:
 - '[[vagueness-void]]'

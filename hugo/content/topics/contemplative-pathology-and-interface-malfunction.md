@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-18 18:38:57+00:00
+ai_modified: 2026-07-19 21:29:16+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'When meditation destabilizes the consciousness-brain interface: da
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 18:38:57+00:00
+last_deep_review: 2026-07-19 21:29:16+00:00
 modified: *id001
 related_articles:
 - '[[attention-and-the-consciousness-interface]]'
@@ -38,7 +38,7 @@ Contemplative practice is, at its core, a deliberate intervention in the conscio
 
 ## The Dark Night and Related Phenomena
 
-The best-documented contemplative pathology is what Theravada Buddhism maps as the *dukkha nanas* — the "knowledges of suffering" — and what St John of the Cross (1585/1959) mapped as the "dark night of the soul" in Christian mysticism. Lindahl et al.'s 2017 mixed-methods study of meditation-related challenges documented a taxonomy of disturbances across practitioners from multiple traditions: perceptual anomalies (visual distortions, auditory hallucinations), affective disruptions (panic, terror, uncontrollable grief), somatic symptoms (involuntary movements, pain, temperature changes), and cognitive disturbances (depersonalisation, derealisation, thought disruption).
+The best-documented contemplative pathology is what Theravada Buddhism maps as the *dukkha nanas* — the "knowledges of suffering" — and what St John of the Cross (1585/1959) mapped as the "dark night of the soul" in Christian mysticism. Lindahl et al.'s 2017 mixed-methods study of meditation-related challenges documented a taxonomy of disturbances across practitioners from three Western Buddhist traditions (Theravada, Zen, and Tibetan): perceptual anomalies (visual distortions, auditory hallucinations), affective disruptions (panic, terror, uncontrollable grief), somatic symptoms (involuntary movements, pain, temperature changes), dissociative disturbances of the sense of self (depersonalisation, derealisation), and cognitive disturbances (thought disruption, impaired executive function).
 
 What distinguishes these from ordinary psychiatric symptoms is their context and trajectory. They emerge specifically during or after intensive contemplative practice. They often follow periods of significant meditative progress. And they map onto stages that contemplative traditions have catalogued for centuries.
 
