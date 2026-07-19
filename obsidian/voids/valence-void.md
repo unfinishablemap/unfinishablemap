@@ -6,7 +6,7 @@ modified: 2026-02-18
 human_modified:
 ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-07-19T02:22:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
