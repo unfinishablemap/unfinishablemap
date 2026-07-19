@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T01:41:36.877709+00:00'
-session_count: 16505
-cycle_position: 11442
+last_updated: '2026-07-19T01:46:54.077574+00:00'
+session_count: 16506
+cycle_position: 11443
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-18T23:52:48.978605+00:00'
   optimistic-review: '2026-07-19T00:53:27.010830+00:00'
   check-tenets: '2026-07-18T13:19:50.925458+00:00'
   check-links: '2026-07-18T22:38:45.119700+00:00'
-  deep-review: '2026-07-19T01:41:36.877709+00:00'
+  deep-review: '2026-07-19T01:46:54.077574+00:00'
   tune-system: '2026-07-18T13:24:10.161828+00:00'
   research-voids: '2026-07-18T22:39:49.688252+00:00'
   coalesce: '2026-07-19T01:36:36.751056+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 520
-  reviews_completed: 6633
+  reviews_completed: 6634
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 - task: deep-review
@@ -1333,31 +1333,32 @@ queue_status:
   p2_tasks: 99
   p3_tasks: 10
   needs_replenishment: false
-  loop_pickable_open: 4
-  last_replenishment: '2026-07-19T01:30:00+00:00'
-  last_replenishment_prev: '2026-07-19T01:10:00+00:00'
-  last_floor_restore_target: 'mint TWO P2 deep-reviews (interactive /replenish-queue
-    2026-07-19T01:30Z, floor-restore +1 buffer). AUTHORITATIVE count_p0_p2_tasks(todo)
-    LIVE pre-count == 2 (open P2s: topics/co-optimization-reply-to-the-correlation-problem
-    + topics/quantum-immortality; three #veto condenses and all P3/HUMAN-LENGTH/blocked
-    correctly excluded), == 4 re-verified live after write. Eight-source audit re-confirms
-    exhaustion of every OTHER source: chain empty (recent_tasks zero research/expand/cross-review);
-    unconsumed-research + gap blocked (topics 320/320 concepts 320/320 voids 100/100
-    AT CAP, positions 8 register entries < 10-entry audit threshold, audited 2026-07-16
-    < 30d); length -- every genuine content offender #veto or human-length-deferred;
-    orphans 0; applied-apex none. Staleness SOURCE USED. Targets (both clean: 0 open
-    headers + 0 Vetoed-bank deep-review hits, ai_contribution 100, under HARD ceiling
-    so length-neutral, section+theme-diversifying from the two open topics/ floor-holders):
-    (1) apex/ai-as-introspection-control.md (get_review_candidates #1 standalone,
-    score 53.75; last_deep_review 2026-06-05 = 44d; CHANGED-SINCE-REVIEW — substantive
-    apex-evolve edit 36454cad4 2026-07-18 22ins/14del unverified; 4520w soft_warning,
-    ~480w under apex 5000 hard); (2) voids/valence-void.md (last_deep_review 2026-06-05
-    = 44d; 2043w soft_warning, ~950w under voids 3000 hard; NOT session-touched, last
-    touch is the 06-05 review). Avoided concepts/discrimination-problem (26 Vetoed-bank
-    hits, over-churned), evolutionary-case-for-mental-causation, filter-theory, and
-    near-ceiling mutation-void (churn hazard). Expected partial web-verify yield;
-    close as near-no-op if the citation ledger fully verifies. Overwrote prior target-note
-    in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-19T02:00:00+00:00'
+  last_replenishment_prev: '2026-07-19T01:30:00+00:00'
+  last_floor_restore_target: 'mint ONE P2 deep-review (interactive /replenish-queue
+    2026-07-19T~02:00Z, conservative exact-floor, no padding). AUTHORITATIVE
+    count_p0_p2_tasks(content) LIVE pre-count == 2 (the two open P2 floor-holders:
+    apex/ai-as-introspection-control + voids/valence-void, this-session earlier mints;
+    #veto condenses + P3/HUMAN-LENGTH/blocked correctly excluded), == 3 re-verified
+    live after write. MIN_QUEUE_TASKS==3 unmet by 1 (expected replenish-at-floor
+    alternation, unfin_loop_steady_state). Eight-source audit re-confirms exhaustion
+    of every OTHER source: chain empty; unconsumed-research + gap BLOCKED (topics
+    320/320 concepts 320/320 voids 100/100 AT CAP); positions 8/80 slow-add, evolve
+    ran 2026-07-17 < any trigger; length -- every content offender is a dated research/
+    note, index hub, human-length-deferred flagship (epistemology-of-convergence),
+    or just-condensed-this-session (transit-void, refine-then-condense churn); orphans
+    0; applied-apex none. Staleness SOURCE USED. Target (clean: 0 open headers, the
+    only Vetoed-bank hits list it as a "builds on" DEPENDENCY of OTHER vetoed articles
+    not a deep-review veto; ai_contribution 100, ai_system claude-opus-4-6 de-prioritized
+    cohort, under HARD ceiling so length-neutral, cohort+section-diversifying from the
+    apex+void floor-holders): topics/phenomenology-of-deliberation-under-uncertainty.md
+    (last_deep_review==ai_modified==2026-06-09 = 40d, tied-oldest citation-bearing
+    gap, 5 sidecars not over-reviewed, 2813w OK ~1180w under topics 4000 hard, settled
+    NOT session-touched, git last touch 06-09 e0434fa62). Owed-web-verify seam:
+    verbatim/attribution across Sartre/Simon-1956 citation surface; expected near-no-op
+    floor-holder. No concurrent evolve_loop.py at write; HEAD 6a99ef541. Overwrote prior
+    target-note in place to hold state-note count steady (evolution-state-floor-restore-note-bloat).'
   last_floor_restore_target_decisionvoid_2037: 'mint P2 deep-review voids/decision-void.md
     (interactive /replenish-queue 2026-07-18T20:37Z, conservative exact-floor +1,
     ONE mint, no padding). AUTHORITATIVE count_p0_p2_tasks(content) LIVE pre-count
