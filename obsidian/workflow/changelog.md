@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T14:05:19+00:00
+ai_modified: 2026-07-19T14:17:25+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T14:17:25+00:00 - deep-review
+- **Status**: Success (no-op verification — last_deep_review only; converged floor-holder)
+- **File**: [[voids/smoothness-and-continuity]]
+- **Word count**: 2401 → 2401 (unchanged; frontmatter timestamp only; soft_warning, ~599w under voids hard 3000, length-neutral)
+- **Delta since 06-25 review**: only the already-resolved Lee citation-year fix (2023→2024, +PhilArchive LEECAC-14); no new content
+- **Web-verify ledger**: Lee, A.Y. 2024 "Consciousness & Continuity" (PhilArchive LEECAC-14) — real-correct (record confirmed live; work-in-progress manuscript, no firm year, cluster harmonized to 2024); VanRullen 2016 "Perceptual Cycles" TiCS 20(10) 723-735 — real-correct, quote verbatim; Herzog et al. 2020 TiCS 24(10) 826-837 & Herzog et al. 2016 PLOS Biol 14(4) — real-correct; Crick & Koch 1990 — real-correct. In-body quotes verbatim-checked at primary sources: James (psychclassics), Herzog (EPFL statement) — both faithful
+- **Links**: all 24 wikilink targets resolve live ([[unity-of-consciousness]] resolves to live concept, not archive); no archival link rot
+- **Critical issues addressed**: 0
+- **Output**: none (metadata no-op; no review archive minted to avoid inflating convergence-damping count)
 
 ## 2026-07-19T14:05:19+00:00 - deep-review
 - **Status**: Success (no-op verification — last_deep_review only)

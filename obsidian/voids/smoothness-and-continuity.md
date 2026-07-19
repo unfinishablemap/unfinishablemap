@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated: null
-last_deep_review: 2026-06-25T11:34:50+00:00
+last_deep_review: 2026-07-19T14:17:25+00:00
 coalesced_from:
   - "/voids/smoothness-problem/"
   - "/voids/continuity-void/"
