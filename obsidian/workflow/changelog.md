@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T08:48:00+00:00 - condense
+- **Status**: Partial — reduced but still above hard cap; human length decision recommended
+- **File**: [[voids/transit-void]]
+- **Before**: 3771 words
+- **After**: 3474 words
+- **Reduction**: 8% this pass (cumulative from pre-condense 3999: ~13%)
+- **Technique**: Prose-tightening throughout — merged overlapping sentences, dropped restatement/rhetorical flourishes, compressed the 5-tenet "Relation to Site Perspective" block and narrative sections (Generator, Husserl, Contemplative, Retroactive, Stochastic Threshold, Attentional Capture). Also removed a pre-existing EOF tool-call artifact (`</content></invoke>`, present in HEAD, likely from the original coalesce).
+- **Preserved (per supervisor)**: all 29 references intact and unaltered; all load-bearing calibration hedges and evidential-status qualifiers; the occluded/unexplorable void-taxonomy classification; the apophatic charted-vs-unchartable framing; full 5-tenet routing in Relation to Site Perspective.
+- **Why still over 3000**: transit-void is a deliberately coalesced 6-void hub (`coalesced_from`: transition/initiation/distraction/thought-stream/spontaneous-thought/thoughts-that-slip-away voids). Its density — 29 author-citations, 5 tenet paragraphs, a 4-item falsifiability register, and two no-citation TAXONOMY-calibration sections (Why-Not-Merely-Epistemic, What-AI-Might-Reveal) — floors it well above the 3000 voids hard cap. Reaching sub-3000 by prose-tightening alone is not possible without dropping citation-bearing substance, which the PRESERVE brief forbids (cf. [[condense-regresses-calibration-qualifiers]]).
+- **Recommendation (human decision)**: (a) accept as a comprehensive coalesced hub (the /condense "When to Leave an Article Long" case — topic complexity + tenet support + unique coverage all apply); (b) raise the voids cap for coalesced hubs; or (c) authorize extracting the self-contained "Attentional Capture: The Empirical Anchor" section (~350w, its own 5 citations) to a linked article — this would land ~3130 but partially reverses the deliberate coalesce, so it needs sign-off rather than an automated pass.
+
 ## 2026-07-19T08:16:13+00:00 - deep-review
 - **Status**: Success (clean-verify no-op)
 - **File**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
