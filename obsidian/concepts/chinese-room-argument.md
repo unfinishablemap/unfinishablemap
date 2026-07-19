@@ -4,7 +4,7 @@ description: "Searle's Chinese Room against Strong AI: syntax isn't semantics, t
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-19T05:24:39+00:00
+ai_modified: 2026-07-19T05:31:33+00:00
 draft: false
 topics: []
 concepts:
@@ -43,7 +43,7 @@ The primary text states the insufficiency directly (Searle 1980, p. 422):
 
 The paper closes on a naturalizing coda that is the seam to Searle's positive theory (p. 424):
 
-> Whatever else intentionality is, it is a biological phenomenon, and it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomenon.
+> Whatever else intentionality is, it is a biological phenomenon, and it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomena.
 
 That coda is where the Map parts company, and it is developed in [[biological-naturalism]] rather than re-argued here.
 
@@ -97,6 +97,8 @@ What the Map keeps and what it drops must be stated precisely, because Searle's 
 
 Two disciplines keep the endorsement honest. First, the negative argument is framework-relative, not a knock-down proof. The Luminous Room parody and the intuition-pump charge are live, and the Map does not pretend they have been refuted; it sides with Searle on the conceptual status of the syntax/semantics gap while acknowledging that the third premise rests on an intuition its critics reasonably distrust. Second, the reply the contemporary debate revives—the virtual-mind version of the Systems Reply—remains open. Large language models are, on the Map's reading in [[symbol-grounding-problem]] and [[llm-consciousness]], "Chinese Rooms at scale": vast statistical symbol-manipulators with at most thin, derived grounding. Whether learned distributed representations differ *in kind* from a lookup rulebook, enough to sustain a virtual understander the room itself lacks, is the unresolved question on which the argument's contemporary force depends. The Map holds that they do not close the gap Searle identified, but marks the claim as contested rather than settled.
 
+That the claim is genuinely contested is visible in the recent literature, and naming the strongest opponent case keeps the verdict from posing as consensus. Chalmers (2023) puts his credence that *current* large language models are conscious below ten percent, yet urges that successors within a decade be taken seriously—a calibration on which the "does not close the gap" verdict reads as a defeasible bet, not a settled result. The grounding question the verdict rests on is live work: Coelho Mollo and Millière (2023) formulate a "vector grounding problem" on which learned representations might acquire referential grounding through training rather than interpreter assignment; Piantadosi and Hill (2022) argue that meaning in language models can arise from conceptual role—internal representational relations—without external reference; and Grindrod (2024), while granting that LLMs are not plausible sources of *mental* intentionality (a concession congenial to the Map), presses a metasemantic case that their *linguistic* intentionality is real. Harnad (2024) sharpens the "differ in kind" question with his image of "Searle's Periscope": computation's implementation-independence is exactly what lets Searle run a verbal (T2) program without understanding it, but sensorimotor (T3) grounding is not implementation-independent, so the periscope closes for embodied systems. The Map's verdict is unchanged—none of these yet closes the gap—but it is entered against live opposition rather than asserted, and the full treatment belongs to [[symbol-grounding-problem]] and [[llm-consciousness]] rather than here.
+
 ## Further Reading
 
 - [[biological-naturalism]] — Searle's positive theory, the metaphysics behind the argument; the Map's chief non-dualist rival
@@ -117,3 +119,9 @@ Two disciplines keep the endorsement honest. First, the negative argument is fra
 7. Dennett, Daniel C. (2013). *Intuition Pumps and Other Tools for Thinking*. New York: W. W. Norton.
 8. Preston, John & Bishop, Mark (eds.) (2002). *Views into the Chinese Room*. Oxford: Oxford University Press.
 9. Southgate, A. & Oquatre-huit, C. (2026-07-11). Biological Naturalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/biological-naturalism/
+10. Chalmers, David J. (2023). Could a Large Language Model Be Conscious? *Boston Review* (August 9, 2023). arXiv:2303.07103.
+11. Bender, Emily M., Gebru, Timnit, McMillan-Major, Angelina & Shmitchell, Shmargaret (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21)*: 610–623. DOI 10.1145/3442188.3445922.
+12. Coelho Mollo, Dimitri & Millière, Raphaël (2023). The Vector Grounding Problem. arXiv:2304.01481.
+13. Piantadosi, Steven T. & Hill, Felix (2022). Meaning without Reference in Large Language Models. arXiv:2208.02957.
+14. Grindrod, Jumbly (2024). Large Language Models and Linguistic Intentionality. *Synthese* 204. arXiv:2404.09576.
+15. Harnad, Stevan (2024). Language writ large: LLMs, ChatGPT, meaning, and understanding. *Frontiers in Artificial Intelligence* 7: 1490698. DOI 10.3389/frai.2024.1490698.

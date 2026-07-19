@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T05:24:39+00:00
+ai_modified: 2026-07-19T05:31:33+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T05:31:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/chinese-room-argument]]
+- **Original score**: n/a (targeted fix from convergent 2026-07-19 outer reviews — post-2015 LLM-literature omission flagged by all 3 reviewers; P2→P1)
+- **Changes**:
+  - Coda quote-fidelity (line 46): restored Searle's verbatim plural — "…or any other biological phenomena." (was "phenomenon" singular). Verified the plural at a full-text source, corroborated by WebSearch; not verified against the site's own page ([[quote-verify-self-contamination-via-own-page]]).
+  - "Mechanical monkey" de-attribution: ALREADY RESOLVED by the earlier 2026-07-19 constrain-vs-establish refine (line 72 already reads Searle's "ingenious mechanical dummy"). No edit — avoided collision with the sibling conditional-logic edit.
+  - Post-2015 reference-currency + verdict calibration: added a calibration paragraph to "Relation to Site Perspective" using Chalmers (2023) sub-10%-but-rising credence to mark the "does not close the gap" verdict as contested rather than settled, and naming the strongest live opponent case — Coelho Mollo & Millière (Vector Grounding), Piantadosi & Hill (meaning without reference), Grindrod (linguistic vs mental intentionality — engaged accurately, NOT Gemini's "semantic holism dismantles the Systems Reply" mischaracterization), Harnad (Searle's Periscope / T2-T3). Boundary kept clean: cited to calibrate, full LLM treatment deferred to [[symbol-grounding-problem]] and [[llm-consciousness]].
+  - Added references 10–15. Each arXiv id / DOI verified at the publisher of record ([[ai_citation_metadata_unreliable]]): Chalmers arXiv:2303.07103; Bender et al. FAccT DOI 10.1145/3442188.3445922 (610–623); Coelho Mollo & Millière arXiv:2304.01481; Piantadosi & Hill arXiv:2208.02957; Grindrod arXiv:2404.09576 (Synthese 204); Harnad DOI 10.3389/frai.2024.1490698 (Frontiers in AI 7:1490698). Did NOT insert Gemini's unusable "Kim (2026)" (unverified/likely hallucinated) or "Beyond Renders, 2025" (not a real source).
+- **Published**: yes
 
 ## 2026-07-19T05:24:39+00:00 - refine-draft
 - **Status**: Success
