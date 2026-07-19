@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T21:38:40.989934+00:00'
-session_count: 16720
-cycle_position: 11548
+last_updated: '2026-07-19T21:42:02.929046+00:00'
+session_count: 16721
+cycle_position: 11549
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T18:15:14.218639+00:00'
   optimistic-review: '2026-07-19T19:00:16.474712+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-19T21:31:44.674218+00:00'
+  deep-review: '2026-07-19T21:42:02.929046+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T19:38:09.889191+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6721
+  reviews_completed: 6722
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1332,12 +1332,40 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T21:33:00+00:00'
-  last_replenishment_prev: '2026-07-19T21:20:00+00:00'
-  last_replenishment_run: 772
+  last_replenishment: '2026-07-19T21:46:00+00:00'
+  last_replenishment_prev: '2026-07-19T21:33:00+00:00'
+  last_replenishment_run: 773
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_773_note: 'run no.773 (2026-07-19T21:46Z, interactive /replenish-queue): SINGLE
+    floor-restoring staleness deep-review mint (voids/interoceptive-void.md). Authoritative
+    pre-write count_p0_p2_tasks == 2 (open floor-holders voids/appetitive-void [run
+    771] + topics/incubation-effect-and-unconscious-processing [run 772]); run-770 holder
+    topics/the-subject-object-distinction-as-philosophical-discovery was consumed +
+    deep-reviewed by the in-process cycle (commit 9aee5f1c9, 21:42Z) since run 772,
+    dropping the count to 2. Below floor of 3. Eight-source audit LIVE: chains null;
+    unconsumed-research + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100
+    all AT CAP; positions 8/80); staleness == ONLY live source; orphaned_files=0; length
+    offenders all veto/human-deferred/research/apex-hub/positions; positions 8<10 audit
+    threshold (last positions-evolve 2026-07-17, <30d); no applied-apex gap. Target
+    interoceptive-void: 27d converged (ldr==ai_modified 2026-06-22T21:13, opus-4-7 SINGLE
+    older cohort — HOLD), ai_contribution 100, 2676w voids soft_warning (length-safe),
+    only 3 dedicated deep-review sidecars == least-reviewed eligible older-cohort tier
+    (imagery-void skipped — its 2024/25 aphantasia cites were web-verified in the 06-20
+    update; the get_review_candidates top-5 all opus-4-8 cosmetic metadata no-ops; locality/epiphenomenalism/mind-brain-separation
+    over-reviewed; brain-computer-interfaces/infant-consciousness/discrimination-problem/evolutionary-case/surprise-prediction-error/dopamine
+    on do-NOT-re-mint verified park list). Only post-06-22 change is a single cosmetic
+    cross-link line from the 07-08 alexithymia expand (ai_modified NOT bumped) — converged.
+    Concrete owed-verify hook: `(Frontiers in Psychology 2025)` journal-name-as-author
+    imprecise cite + Azzalini/Tallon-Baudry 2019 empirical interoception cite (do NOT
+    assert fabricated without publisher check). Distinct cluster (interoception/bodily-signal
+    awareness) from both open holders (appetitive desire; incubation unconscious-processing).
+    NOT queued/vetoed/session-touched. Single mint (no +1 buffer) given genuine source
+    scarcity; documented replenish-at-floor alternation, NOT empty-queue deadlock. Appended
+    at BOTTOM (FIFO). No separate evolve_loop.py (in-process cycle commits every ~3-4min;
+    uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
+    KEPT).'
   run_772_note: 'run no.772 (2026-07-19T21:33Z, interactive /replenish-queue): SINGLE
     floor-restoring staleness deep-review mint (topics/incubation-effect-and-unconscious-processing.md).
     Authoritative pre-write open P0-P2 count == 2 (open floor-holders topics/the-subject-object-distinction-as-philosophical-discovery
@@ -1394,31 +1422,6 @@ queue_status:
     +1 buffer) given genuine source scarcity; documented replenish-at-floor alternation,
     NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No concurrent evolve_loop.py
     (in-process cycle commits every ~3-4min; uncommitted evolution-state.yaml delta
-    is legitimate deferred cycle_post bookkeeping, KEPT).'
-  run_768_note: 'run no.768 (2026-07-19T20:40Z, interactive /replenish-queue): SINGLE
-    floor-restoring staleness deep-review mint (topics/dopamine-and-the-unified-interface.md).
-    Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders voids/thrownness-void
-    [run 766] + topics/consciousness-and-the-problem-of-other-properties [run 767]);
-    run-765 mint neoplatonist-common-cause-weight, the prior third holder, was consumed
-    + deep-reviewed by the in-process cycle (commit 2602f8934, 20:35:50Z) since run
-    767, dropping the count to 2. Below floor of 3. Eight-source audit LIVE: chains
-    null; unconsumed-research + gap BLOCKED (topics 320/320, concepts 320/320, voids
-    100/100 all AT CAP; positions 8/80); staleness == ONLY live source; orphaned_files=0;
-    length offenders all veto/human-deferred/research/apex-hub/positions; positions
-    8<10 audit threshold (last positions-evolve 2026-07-17, <30d); no applied-apex
-    gap. Target dopamine-and-the-unified-interface: 30d converged/byte-stable (ldr==ai_mod
-    2026-06-19T08:44, ZERO commits since), opus-4-7 older cohort (NOT de-prioritized
-    opus-4-8), ai_contribution 100, 2722w status ok (length-safe), 13-entry dense
-    modern-neuroscience References surface with NO dedicated review sidecar in reviews/
-    == never standalone publisher-verified (genuine owed-web-verify seam, ledger-checked
-    TRUE not the false-never-verified premise). Chosen OVER the damping-scorer top
-    picks (the-sublime + 4 more) which are all opus-4-8 with COSMETIC Further-Reading
-    cross-link deltas (git-diff-verified) == metadata no-op. NOT queued/vetoed/session-touched.
-    Distinct cluster (dopamine/motor-selection) from both open floor-holders. Valence/motor-selection
-    cluster is anchoring-false-high prone: calibrate STRUCTURALLY, do NOT refine-to-metric.
-    Single mint (no +1 buffer) given genuine source scarcity; documented replenish-at-floor
-    alternation, NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No separate
-    evolve_loop.py (in-process cycle commits every ~3-4min; uncommitted state delta
     is legitimate deferred cycle_post bookkeeping, KEPT).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
