@@ -5,6 +5,18 @@ ai_modified: 2026-07-19T01:16:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T02:09:56+00:00 - deep-review
+- **Status**: Success (no-op content — converged; new citations publisher-verified)
+- **File**: [[apex/ai-as-introspection-control]]
+- **Word count**: 4517 → 4517 (0; length-neutral, incl. non-prose boilerplate; ~3968 narrative under 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op; body integrated one day prior by apex-evolve — avoided oscillation)
+- **Web-verify**: §2.4 pass on the two citations added 2026-07-18. Birch 2024 (*The Edge of Sentience*, OUP) — real-correct. Gurnee et al. 2026 (global workspace in language models, Anthropic/Transformer Circuits) — real, faithful to the cited landing page; article's J-space characterization held at the legibility/discriminator-design tier, no phenomenal slide. Older cites unchanged since 2026-06-05 exhaustive audit.
+- **Calibration**: No possibility/probability slippage; Evidence-and-Dependency tier labels honest. Engagement remains Mode Three (framework-boundary marking); no label leakage.
+- **Frontmatter**: only `last_deep_review` advanced (no-op); `ai_modified`/`ai_system`/`apex_last_synthesis` left at 2026-07-18 values.
+- **Output**: [[reviews/deep-review-2026-07-19-ai-as-introspection-control]]
+
 ## 2026-07-19T01:58:49+00:00 - deep-review
 - **Status**: Success (no-op content — converged; citation ledger completed)
 - **File**: [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
