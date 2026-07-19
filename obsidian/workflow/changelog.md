@@ -5,6 +5,12 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T09:38:22+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-and-the-ontology-of-temporal-becoming.md (old settled cohort, last reviewed 2026-06-25 as deep-review; no prior dedicated pessimistic pass)
+- **Findings**: 1 High (Price deflationary→realist inversion / epistemic→metaphysical equivocation, line 65) + 4 Medium (scope over-reach "more broadly"; near-tautological constitution premise; Wigner/Stapp over-stated as independent motivation; unhedged in-principle limit on computational creativity). Citations verified accurate — no fabrication. Queued P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming]]
+
 ## 2026-07-19T09:27:44+00:00 - deep-review
 - **Status**: Success (converged no-op after full citation web-verify)
 - **File**: [[concepts/first-order-representationalism]]
