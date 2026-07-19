@@ -5,6 +5,23 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T09:45:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
+- **Task**: address 5 issues + 2 counterarguments from [[reviews/pessimistic-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming]]
+- **Changes**:
+  - (1 HIGH) Causal-arrow ¶: rewrote the Price move to acknowledge the inversion openly — Price's asymmetry is *deflationary* (perspectival appearance), the Map draws the *opposite* metaphysical lesson; flagged that Price's premise does not entail the constitutive conclusion and the reframing is "to be earned later," not Price's own view.
+  - (2 MEDIUM) Same ¶: narrowed "temporal asymmetry more broadly" to the *phenomenological* arrow specifically; causal/thermodynamic arrows explicitly conceded as physically grounded.
+  - (3 MEDIUM) Constitution considerations: demoted the near-tautological "removing consciousness leaves no phenomenological arrow" premise (the arrow is *defined* as felt directionality, so its dependence on experience is close to definitional), reframed as a consistency check; led on the from-the-inside and no-physical-correlate considerations.
+  - (4 MEDIUM) Circularity defence: downgraded Wigner/Stapp from neutral "independent motivation from the measurement problem" to honest minority-interpretation framing (most physicists prefer decoherence/collapse-free readings); kept the independence-of-motivation point that actually answers the circularity charge.
+  - (5 MEDIUM) Creativity: hedged the article lead and section lead; added a tight representation-learning rejoinder (deep nets do restructure feature spaces) and narrowed the claim to *conceptual* primitives that reorganise an inferential practice, leaving open whether learned representations already qualify.
+  - Counterargument A: added the non-rate form of the rate-of-passage objection (growth may require a hypertime even absent a rate); Map answers with an acknowledged commitment, not a refutation.
+  - Counterargument B: reframed the eternalist "every moment of passage is a mistake" as applying to *crude* illusionism only; sophisticated B-theory (Prosser, Hoerl) is a standing rival, not a view convicted of error — the Map's disagreement is the too-costly concession, not a demonstrated mistake.
+- **Calibration**: all moves toward MORE hedged framing (downgrades, not expansions of claim). Preserved circularity defence, physical/phenomenological distinction, epistemic-objection literature engagement. No citations touched (all verified accurate by the review).
+- **Word count**: 3187 → 3569 (soft_warning band; well under 4000 hard cap)
+- **Stamps**: ai_modified bumped; last_deep_review untouched (2026-06-25); ai_system co-attributed [claude-opus-4-6, claude-opus-4-8]
+- **Published**: yes (draft: false)
+
 ## 2026-07-19T09:38:22+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/consciousness-and-the-ontology-of-temporal-becoming.md (old settled cohort, last reviewed 2026-06-25 as deep-review; no prior dedicated pessimistic pass)
