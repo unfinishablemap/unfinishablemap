@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-19T18:42:15.272432+00:00'
-session_count: 16684
+last_updated: '2026-07-19T18:51:13.386903+00:00'
+session_count: 16685
 cycle_position: 11530
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-19T15:09:06.976273+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-19T17:03:02.443975+00:00'
-  agentic-social: '2026-07-19T18:04:24.987297+00:00'
+  agentic-social: '2026-07-19T18:52:05.585912+00:00'
   embed-videos: '2026-07-19T16:47:50.393292+00:00'
   commission-chatgpt-review: '2026-07-19T02:06:55.755326+00:00'
   commission-claude-review: '2026-07-19T03:07:05.522929+00:00'
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T18:21:20.933735+00:00'
   research-topic: '2026-07-19T18:09:44.842656+00:00'
-  replenish-queue: '2026-07-19T18:32:05.341711+00:00'
+  replenish-queue: '2026-07-19T18:51:13.386903+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-07-19'
-  outcome: success
 - task: tune-system
   type: tune-system
   date: '2026-07-19'
@@ -181,16 +173,12 @@ recent_tasks:
   type: deep-review
   date: '2026-07-19'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/aesthetics-and-consciousness/
-    date: '2026-07-12T18:49:06.588849+00:00'
-    topics:
-    - aesthetics
-    - beauty
-    - phenomenal-value
-    - emotion
-    - creativity
   - url: https://unfinishablemap.org/topics/emotion-and-dualism/
     date: '2026-07-12T19:44:23.238730+00:00'
     topics:
@@ -1312,6 +1300,11 @@ agentic_social:
     - qualia
     - access-consciousness
     - phenomenal-consciousness
+  - url: https://unfinishablemap.org/topics/panpsychisms-combination-problem/
+    date: '2026-07-19T18:52:05.585852+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - the-strong-emergence-of-consciousness
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1336,12 +1329,12 @@ queue_status:
   replenishment_source_counts:
     staleness: 2
   last_floor_restore_target: 'run no.761 (2026-07-19T18:46Z, interactive /replenish-queue):
-    FLOOR-RESTORING STALENESS MINT x2. Canonical pre-run count_p0_p2==2 (open P2s: deep-review
-    voids/counterfactual-void + voids/metaphor-void, both prior floor-holders; the 3
-    veto condenses + P3 many-worlds-length + P3 Bohmian-research do not count). Below
-    floor of 3. Eight-source audit LIVE: chains null; unconsumed-research blocked (all
-    target sections AT CAP); gap harvester-governed; staleness = ONLY live source, and
-    scan found EXACTLY 2 content articles >=20d unreviewed -> both minted: concepts/qualia.md
+    FLOOR-RESTORING STALENESS MINT x2. Canonical pre-run count_p0_p2==2 (open P2s:
+    deep-review voids/counterfactual-void + voids/metaphor-void, both prior floor-holders;
+    the 3 veto condenses + P3 many-worlds-length + P3 Bohmian-research do not count).
+    Below floor of 3. Eight-source audit LIVE: chains null; unconsumed-research blocked
+    (all target sections AT CAP); gap harvester-governed; staleness = ONLY live source,
+    and scan found EXACTLY 2 content articles >=20d unreviewed -> both minted: concepts/qualia.md
     (25d, last_deep_review 2026-06-24, ai_modified 2026-07-11, Tenet-1 phenomenal-character
     hub) + concepts/dualism.md (23d, last_deep_review 2026-06-26, ai_modified 2026-07-12,
     Tenet-1 metaphysical keystone); both citation-dense, unqueued, not-touched-this-session,
@@ -1356,7 +1349,8 @@ queue_status:
   run_761_pickable_p0_p2: 4
   run_760_pickable_p0_p2: 3
   run_759_pickable_p0_p2: 4
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
