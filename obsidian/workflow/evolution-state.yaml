@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T19:12:16.735250+00:00'
-session_count: 16691
-cycle_position: 11533
+last_updated: '2026-07-19T19:15:40.801983+00:00'
+session_count: 16692
+cycle_position: 11534
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T18:15:14.218639+00:00'
   optimistic-review: '2026-07-19T19:00:16.474712+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-19T19:04:43.043248+00:00'
+  deep-review: '2026-07-19T19:15:40.801983+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T15:09:06.976273+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 522
-  reviews_completed: 6708
+  reviews_completed: 6709
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1326,9 +1326,9 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T19:08:56+00:00'
-  last_replenishment_prev: '2026-07-19T18:46:44+00:00'
-  last_replenishment_run: 762
+  last_replenishment: '2026-07-19T19:19:29+00:00'
+  last_replenishment_prev: '2026-07-19T19:08:56+00:00'
+  last_replenishment_run: 763
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
@@ -1371,9 +1371,26 @@ queue_status:
     Trimmed ~50 stale run_NNN_pickable trail + 3 stale run_NNN_note prose blocks (pure
     audit prose, zero logic dependence per tune_system_note_prune_2026_07_15; history
     in git).'
+  run_763_note: 'run no.763 (2026-07-19T19:19Z, interactive /replenish-queue): SINGLE
+    floor-restoring staleness deep-review mint (voids/emergence-void.md). Authoritative
+    pre-write count_p0_p2_tasks == 2 (open floor-holders topics/evolutionary-case-for-mental-causation
+    + voids/metaphor-void); counterfactual-void, the prior third holder, was consumed
+    + deep-reviewed by the live cycle (commit 26bb4e52e) since run 762, dropping the
+    count to 2. Below floor of 3. Eight-source audit LIVE: chains null; unconsumed-research
+    + gap BLOCKED (topics/concepts/voids all AT CAP; positions 8/80); staleness ==
+    ONLY live source; orphaned_files=0; length offenders all veto/human-deferred/research/apex-hub/positions;
+    positions 8<10 audit threshold (audited 2026-07-17); no applied-apex gap. Target
+    emergence-void: 34d converged/byte-stable (ldr==ai_mod 2026-06-14), pure opus-4-6
+    older cohort (largest unchecked external-citation surface, owed-web-verify seam),
+    ai_contribution 100, only 2 dedicated deep-reviews (other emergence-void commits
+    are cross-link integrations), NOT queued/vetoed/session-touched, 2068w soft_warning
+    (staleness-driven, keep length-neutral). mind-arena (44d strict-oldest) rejected
+    again: opus-4-8 de-prioritized + Map-self-cite-only no-op. Single mint (no +1
+    buffer) given genuine source scarcity; documented replenish-at-floor alternation,
+    NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No concurrent evolve_loop.py.'
+  run_763_pickable_p0_p2: 3
   run_762_pickable_p0_p2: 3
   run_761_pickable_p0_p2: 4
-  run_760_pickable_p0_p2: 3
   tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
     last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
     logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
