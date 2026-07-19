@@ -1,13 +1,113 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19 02:54:20+00:00
+ai_modified: 2026-07-19 06:22:09+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T06:22:09+00:00 - cross-review
+- **Status**: Success
+- **Files**: [problem-of-other-minds](/concepts/problem-of-other-minds/) (edited); [machine-consciousness](/topics/machine-consciousness/) and [chinese-room-argument](/concepts/chinese-room-argument/) (verified, not edited)
+- **Driver**: outer-review 2026-07-19 ChatGPT 5.6 Pro items 15/17 ("most significant missed integration"); reciprocal machine-consciousness ↔ chinese-room integration + problem-of-other-minds substrate-chauvinism.
+- **(a) machine-consciousness ↔ chinese-room**: Reciprocal links already present and consistent after today's chinese-room refine — machine-consciousness → chinese-room inbound link exists (articon section, "cannot be dismissed by Chinese-Room-style arguments alone"); chinese-room → machine-consciousness outbound links exist (brain-simulator/gradual-neuron-replacement pointer + Further Reading). machine-consciousness's cautious "cannot be dismissed by the Chinese Room alone" reconciles cleanly with chinese-room's now-softened constrain-vs-establish, framework-relative framing. No re-softening needed; machine-consciousness left UNEDITED (it is already 4127w, over its 4000 topics hard ceiling — no prose added, ai_modified not bumped).
+- **(b) problem-of-other-minds substrate-chauvinism**: Added a "Substrate Chauvinism and Evidential Symmetry" subsection closing the gap chinese-room's Other Minds Reply explicitly defers to this article for. Frames biological similarity as a strong abductive consideration, not a categorical gate; tests against hypothetical alien minds (unfamiliar realisation ≠ evidence of absence) and gradually-replaced biological minds (no principled biological gate). Framework-relative per evidential-status discipline: standing-agnostic challenge cuts both ways — neural dissimilarity weakens the AI-consciousness inference without licensing confident denial; honest verdict is asymmetric evidence, not a substrate barrier. Linked the previously plain-text "Searle's Chinese Room" to [chinese-room-argument](/concepts/chinese-room-argument/); added reciprocal links to [machine-consciousness](/topics/machine-consciousness/) (articon), [interactionist-dualism](/concepts/interactionist-dualism/), [evidential-status-discipline](/project/evidential-status-discipline/), [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/). Did not harden into asserted fact.
+- **Word count**: problem-of-other-minds 3086 → 3363 (+277, under 3500 concepts hard cap).
+- **Engagement classification (editor-internal, not in body)**: substrate-chauvinism treatment — Mode Three (framework-boundary; biological-similarity-as-evidence is the Map's own abductive verdict, evidential-symmetry challenge's framework-independent part acknowledged, no in-framework refutation claimed).
+- **Constraints honoured**: held each article's own ai_system (no flip to reviewing model); new links resolve live (targets verified unique); ai_modified bumped only on problem-of-other-minds; last_deep_review untouched (cross-review, not staleness deep-review); no future-dated stamps; no direct-refutation mode labels in body.
+
+## 2026-07-19T06:12:04+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The non-neural competency cluster (basal-and-bioelectric-cognition, neuron-less-animals-sponges-placozoans, the-enteric-nervous-system, the-cognitive-immune-system, the competency-without-felt-experience apex, plus the adjacent consciousness-in-simple-organisms survey cross-checked for tier calibration). Chosen as the cluster most exposed to the Process-Philosopher/Hardline-Empiricist tension; both personas converged in praise (the skill's signal the possibility/probability tension is resolved honestly). No calibration concerns; the cluster is the Map's calibration exemplar. One actionable item: an asymmetric cross-link gap where the apex claims consciousness-in-simple-organisms as a source but the survey links neither up to the apex nor across to sibling rungs. Content over cap (topics/concepts 321/320) → cross-link/refine opportunities only.
+- **Output**: [optimistic-2026-07-19-nonneural-competency-cluster](/reviews/optimistic-2026-07-19-nonneural-competency-cluster/)
+
+## 2026-07-19T06:00:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Original score**: n/a (charity/dialectical-completeness refine driven by outer review 2026-07-19 ChatGPT 5.6 Pro, items 4/6/7/8)
+- **Changes**: Added the strongest counter-rejoinder to each of the four standard replies, in natural prose: Systems — part-whole / virtual-subject point (the operator's introspective denial does not settle whether an implemented subsystem understands); Robot — causal-historical/teleosemantic/embodied versions that drop program-alone sufficiency without dropping physicalism (thermostat defeats only the crudest covariance view); Brain Simulator — organizational-invariance + gradual-neuron-replacement pressure (what causally relevant organization do the water-pipes omit?), cross-linked to [machine-consciousness](/topics/machine-consciousness/); Other Minds — evidential-symmetry challenge (why is flexible behaviour + causal organization evidence in humans but not artificial/alien systems?). Added new "Abstract Syntax versus Physical Implementation" subsection separating the abstract program from its implementation (has Searle excluded semantics from every computationally describable physical system, or only from an abstract program?), resting the Map's verdict on Searle's observer-relativity of computation and marking it as a substantive premise. Added Searle's own Chinese Gym (1990) as the explicit historical bridge to connectionist/LLM systems, in the Churchlands section, cross-referring the "at scale" LLM treatment to [symbol-grounding-problem](/concepts/symbol-grounding-problem/) and [llm-consciousness](/concepts/llm-consciousness/) (kept clean — did not duplicate the already-landed LLM verdict-attribution paragraph). Direct-refutation-discipline applied to the boundary-substitution cases (Robot/Other-Minds/Systems: Map tenet marked as its own verdict, not an in-framework refutation); mode labels kept out of the body. Removed the review-flagged unsupported "most influential" superlative on the Luminous Room. Length-neutralised: additions (~+460w) offset by tightening overlapping prose (opening/dependency-structure/Relation-to-Site-Perspective restatements) to land 3125 → 3488 body words, under the 3500 concepts hard cap.
+- **Engagement classification (editor-internal, not in body)**: Systems reply — Mode Three (framework-boundary; virtual-subject point conceded as framework-independent, Map verdict marked as its own). Robot reply — Mode Three (naturalized-content dispute marked a boundary dispute the Map must argue). Brain Simulator — Mode Two/Mixed (organizational-invariance pressure identifies the burden-shift; Searle's causal-powers reply owes non-circular specification). Other Minds — Mode Three (evidential-symmetry challenge's framework-independent part acknowledged; Map answer deferred to [problem-of-other-minds](/concepts/problem-of-other-minds/)).
+- **Published**: yes
+
+## 2026-07-19T05:41:34+00:00 - refine-draft
+- **Status**: Success (operator-decision proposal captured, no unilateral doc edit)
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Original score**: n/a (methodology-doc proposal capture, not article refinement)
+- **Changes**: Captured the convergent 2026-07-19 outer-review methodology proposals (ChatGPT 5.6 Pro items 19–25; Claude Opus 4.8 Remediation List B i–iv) as a new PROPOSED/NOT-ENACTED section in the audit family's documented home, per the originating P1 operator-decision task. Did NOT rewrite writing-style.md or any workflow skill. Mapped each of 10 proposals (a–j) to genuinely-new machinery vs convergent-confirmation-with-residue, cross-referenced to existing disciplines (evidential-status-discipline, direct-refutation-discipline, bedrock-clash, coherence-inflation, Audits One/Three/Four/Six, the pending per-claim ledger), and closed with an operator-disposition summary naming a cheapest-high-value subset. Genuinely-new to weigh: verdict-blind internal review (a), reply-taxonomy four-field completeness (b), three split review scores (c), em-dash tenet-leakage lint (f), changelog dependency graph (i), firewall-pass crediting (j). Bumped `ai_modified`; added the two 2026-07-19 review files to related_articles; held `ai_system` at the doc's original author per its established append convention.
+- **Published**: yes (as an explicitly proposed, not-enacted section; promotion to writing-style.md / skills / evolution-state.yaml remains a human/tune-system decision)
+
+## 2026-07-19T05:35:15+00:00 - deep-review
+- **Status**: Success (verification-only no-op)
+- **File**: [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/)
+- **Word count**: ~1760 → ~1760 (no content edit)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second pass on a converged article; only change since 2026-07-08 review was cosmetic Further-Reading cross-links (References + body byte-identical). Ran independent §2.4 publisher-of-record web-verify — all 4 cites real-correct (Gershon 1998; Cryan & Dinan 2012 *Nat Rev Neurosci* 13(10):701-712 / 10.1038/nrn3346; Chis-Ciure & Levin 2025 *Synthese* 206(257) / 10.1007/s11229-025-05319-6; Southgate & Oquatre-huit self-cite). Reading-(b) possibility/probability slippage check clean; Tenet 2 minimality cuts against (b). No named-opponent reply. `last_deep_review` bumped; `ai_modified` left at HEAD.
+- **Output**: [deep-review-2026-07-19-the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/reviews/deep-review-2026-07-19-the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/)
+
+## 2026-07-19T05:31:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Original score**: n/a (targeted fix from convergent 2026-07-19 outer reviews — post-2015 LLM-literature omission flagged by all 3 reviewers; P2→P1)
+- **Changes**:
+  - Coda quote-fidelity (line 46): restored Searle's verbatim plural — "…or any other biological phenomena." (was "phenomenon" singular). Verified the plural at a full-text source, corroborated by WebSearch; not verified against the site's own page (quote-verify-self-contamination-via-own-page).
+  - "Mechanical monkey" de-attribution: ALREADY RESOLVED by the earlier 2026-07-19 constrain-vs-establish refine (line 72 already reads Searle's "ingenious mechanical dummy"). No edit — avoided collision with the sibling conditional-logic edit.
+  - Post-2015 reference-currency + verdict calibration: added a calibration paragraph to "Relation to Site Perspective" using Chalmers (2023) sub-10%-but-rising credence to mark the "does not close the gap" verdict as contested rather than settled, and naming the strongest live opponent case — Coelho Mollo & Millière (Vector Grounding), Piantadosi & Hill (meaning without reference), Grindrod (linguistic vs mental intentionality — engaged accurately, NOT Gemini's "semantic holism dismantles the Systems Reply" mischaracterization), Harnad (Searle's Periscope / T2-T3). Boundary kept clean: cited to calibrate, full LLM treatment deferred to [symbol-grounding-problem](/concepts/symbol-grounding-problem/) and [llm-consciousness](/concepts/llm-consciousness/).
+  - Added references 10–15. Each arXiv id / DOI verified at the publisher of record (ai_citation_metadata_unreliable): Chalmers arXiv:2303.07103; Bender et al. FAccT DOI 10.1145/3442188.3445922 (610–623); Coelho Mollo & Millière arXiv:2304.01481; Piantadosi & Hill arXiv:2208.02957; Grindrod arXiv:2404.09576 (Synthese 204); Harnad DOI 10.3389/frai.2024.1490698 (Frontiers in AI 7:1490698). Did NOT insert Gemini's unusable "Kim (2026)" (unverified/likely hallucinated) or "Beyond Renders, 2025" (not a real source).
+- **Published**: yes
+
+## 2026-07-19T05:24:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Original score**: n/a (targeted fix from convergent 2026-07-19 outer reviews, items 9-10)
+- **Changes**:
+  - CONVERGENT (chatgpt + claude-opus-4-8): dropped Hofstadter "co-originator of the 'intuition pump' label" error. Verified: Dennett coined the term solo in his 1980 BBS reply to Searle ("The Milk of Human Intentionality," 3(3):428-430). Re-credited Hofstadter as Dennett's co-editor on *The Mind's I* (1981) and source of the "turn all the knobs" heuristic; noted Dennett's 1980 coinage inline.
+  - SEP date: verified at plato.stanford.edu — substantive revision Wed Oct 23, 2024. Updated in-text "(Cole 2023)"→"(Cole 2024)" and reference 5 (added "substantive revision October 23, 2024").
+  - Superlatives replaced with "prominent/influential" (no survey/named scholar cited): "widely regarded as the strongest reply"→"among the most influential replies"; "The sharpest counter"→"A prominent counter"; "strongest anti-Chinese-Room move on offer"→"among the most influential anti-Chinese-Room moves".
+  - Page pinpoints added to the four direct Searle 1980 quotations, verified against the BBS PDF by physical-page grep (page 1 = journal 417): formal-model insufficiency p. 422; biological-phenomenon coda p. 424; internalization + "begs the question" p. 419; robot-reply "adds nothing" p. 420.
+- **Published**: yes
+
+## 2026-07-19T05:14:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/chinese-room-argument.md (freshly refined 05:08 against convergent 2026-07-19 outer reviews; verbatim quotes + SEP Cole 2023 + Churchland 1990 citations verified at primary sources)
+- **Finding**: article is strong and discipline-clean (framework-boundary marking, no label-leakage, no epistemic/metaphysical equivocation). One genuine Low-severity defect: Hofstadter over-attributed as "co-originator of the 'intuition pump' label" (term is Dennett's coinage). Queued one P3 refine-draft.
+- **Output**: [pessimistic-2026-07-19-chinese-room-argument](/reviews/pessimistic-2026-07-19-chinese-room-argument/)
+
+## 2026-07-19T05:08:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Original score**: n/a (curate.py review tool absent at scripts/curate.py; task remit was specific)
+- **Task**: convergent outer reviews 2026-07-19 (ChatGPT 5.6 Pro items 1/3/5; Claude Opus 4.8 Dimensions 2 & 4, Remediation A.4 & A.7). Constrain-vs-establish slide / tenet-protective overreach at the load-bearing opening.
+- **Changes**:
+  - Lede: removed the em-dash gloss "physical—here, computational—" that silently narrowed "physical" to "computational"; reworked to the bounded defensible conclusion ("instantiating a formal program, considered by itself, is not sufficient for understanding"), stated it is *compatible* with Tenet 1 without *establishing* it and is neutral between the Map's dualism and Searle's own non-computational physicalism; folded in the SEP/Cole 2023 caveat that Searle's move from machine-understanding to consciousness/intentionality "is not directly supported by the original 1980 argument."
+  - Relation-to-Site-Perspective: reframed the "direct argument for the computational instance of that claim" double-count as a narrower thesis about computation accepted on its own terms; added an explicit dependency-structure paragraph — the "no semantics"→"no consciousness" step rides on the Map's phenomenal-intentionality theory ([intentionality](/concepts/intentionality/)) and the "consciousness"→"nonphysical" step rides on Tenet 1, both independent commitments brought *to* the room, not read *off* it.
+  - Combination Reply (line 72): rewrote the "mechanical explanation defeats attribution" claim as conditional — a mechanistic explanation defeats a mentality-attribution only if it independently shows the system lacks the causal/organizational properties mentality requires, else it over-generates against humans, who also admit mechanistic explanation. Incidentally corrected the invented "mechanical monkey once we see the gears" image to Searle's actual "ingenious mechanical dummy" (Claude review A.2).
+- **Engagement classification** (editor-internal, not in body): engagement with Searle on the room→Tenet-1 inference — Mode Three (framework-boundary marking); the Map's dualist verdict is a bedrock commitment supplied by the framework and honestly marked as such, not derived from Searle's premises. Combination-Reply over-generation point is Mode Two (unsupported foundational move: the bare fact of a mechanistic explanation is helped to defeater-status without the independent no-relevant-causal-powers premise).
+- **Not addressed (out of scope; separate remediation items)**: Hofstadter "co-originator" attribution (A.1), coda "phenomena" plural slip (A.3), Searle-1990 connectionism primary datum (A.5), post-2015 reference-list update (A.6).
+- **Published**: yes
+
+## 2026-07-19T05:01:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-19
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8, Gemini 2.5 Pro; all audited concepts/chinese-room-argument.md)
+- **Clusters**: 4 convergent (post-2015 LLM-literature omission 3/3; Tenet-1 scope overreach 2/3; Hofstadter "intuition pump" attribution 2/3; review-methodology gates 2/3), 5 singleton, 1 divergent (Gemini's "CRA-as-settled-proof" charge contradicted by the article's own framework-relative framing — recorded, not upgraded)
+- **Tasks upgraded**: 3 (P2→P1: Hofstadter/citation-currency, Claude-review LLM-currency, methodology-proposals; the Tenet-1 scope task was already P1 so left at P1 per the upgrade cap)
+- **Tasks deduplicated**: 0 (the per-review /outer-review passes had already consolidated Claude+Gemini findings; no redundant sibling tasks to delete — the ChatGPT charity task retains distinct singleton content and was cross-referenced, not merged)
+- **Output**: [outer-review-synthesis-2026-07-19](/reviews/outer-review-synthesis-2026-07-19/)
+
+## 2026-07-19T04:52:36+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile pre-publication referee)
+- **File**: [outer-review-2026-07-19-gemini-2-5-pro](/reviews/outer-review-2026-07-19-gemini-2-5-pro/)
+- **Subject**: concepts/chinese-room-argument.md (third reviewer of the 2026-07-19 triple; ChatGPT + Claude siblings already processed)
+- **Claims verified**: 5 citations checked (3 confirmed real+relevant: Mollo & Millière Vector Grounding, Piantadosi & Hill 2022, Grindrod 2024; 1 unverified/suspect: "Kim 2026"; 1 fabricated: "Beyond Renders 2025")
+- **High-value findings**: 1 (omitted recent LLM-grounding literature — genuinely actionable)
+- **Off-target findings**: Dimensions B & C (PIT-as-axiom, calibration void, illusionism, MQI, haecceity) audit content NOT in this article; central "treats CRA as settled deductive proof" charge is contradicted by the article's explicit framework-relative / "contested rather than settled" framing
+- **Tasks generated**: 0 new (findings folded as CONVERGENT into the existing P2 Claude-review LLM-currency task to avoid outer-review-same-file-task-pileup; added verified Piantadosi & Hill 2022 + Grindrod 2024)
 
 ## 2026-07-19T04:31:48+00:00 - deep-review
 - **Status**: Success

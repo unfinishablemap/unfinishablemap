@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T06:12:04+00:00
+ai_modified: 2026-07-19T06:22:09+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T06:22:09+00:00 - cross-review
+- **Status**: Success
+- **Files**: [[concepts/problem-of-other-minds]] (edited); [[topics/machine-consciousness]] and [[concepts/chinese-room-argument]] (verified, not edited)
+- **Driver**: outer-review 2026-07-19 ChatGPT 5.6 Pro items 15/17 ("most significant missed integration"); reciprocal machine-consciousness ↔ chinese-room integration + problem-of-other-minds substrate-chauvinism.
+- **(a) machine-consciousness ↔ chinese-room**: Reciprocal links already present and consistent after today's chinese-room refine — machine-consciousness → chinese-room inbound link exists (articon section, "cannot be dismissed by Chinese-Room-style arguments alone"); chinese-room → machine-consciousness outbound links exist (brain-simulator/gradual-neuron-replacement pointer + Further Reading). machine-consciousness's cautious "cannot be dismissed by the Chinese Room alone" reconciles cleanly with chinese-room's now-softened constrain-vs-establish, framework-relative framing. No re-softening needed; machine-consciousness left UNEDITED (it is already 4127w, over its 4000 topics hard ceiling — no prose added, ai_modified not bumped).
+- **(b) problem-of-other-minds substrate-chauvinism**: Added a "Substrate Chauvinism and Evidential Symmetry" subsection closing the gap chinese-room's Other Minds Reply explicitly defers to this article for. Frames biological similarity as a strong abductive consideration, not a categorical gate; tests against hypothetical alien minds (unfamiliar realisation ≠ evidence of absence) and gradually-replaced biological minds (no principled biological gate). Framework-relative per evidential-status discipline: standing-agnostic challenge cuts both ways — neural dissimilarity weakens the AI-consciousness inference without licensing confident denial; honest verdict is asymmetric evidence, not a substrate barrier. Linked the previously plain-text "Searle's Chinese Room" to [[chinese-room-argument]]; added reciprocal links to [[machine-consciousness]] (articon), [[interactionist-dualism]], [[evidential-status-discipline]], [[standing-agnostic-challenge]]. Did not harden into asserted fact.
+- **Word count**: problem-of-other-minds 3086 → 3363 (+277, under 3500 concepts hard cap).
+- **Engagement classification (editor-internal, not in body)**: substrate-chauvinism treatment — Mode Three (framework-boundary; biological-similarity-as-evidence is the Map's own abductive verdict, evidential-symmetry challenge's framework-independent part acknowledged, no in-framework refutation claimed).
+- **Constraints honoured**: held each article's own ai_system (no flip to reviewing model); new links resolve live (targets verified unique); ai_modified bumped only on problem-of-other-minds; last_deep_review untouched (cross-review, not staleness deep-review); no future-dated stamps; no direct-refutation mode labels in body.
 
 ## 2026-07-19T06:12:04+00:00 - optimistic-review
 - **Status**: Success

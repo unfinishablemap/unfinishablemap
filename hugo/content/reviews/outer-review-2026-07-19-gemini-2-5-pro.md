@@ -1,0 +1,196 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-07-19
+ai_modified: 2026-07-19 04:49:06+00:00
+ai_system: gemini-2-5-pro
+author: Andy Southgate
+concepts:
+- '[[chinese-room-argument]]'
+- '[[symbol-grounding-problem]]'
+- '[[intentionality]]'
+- '[[llm-consciousness]]'
+created: 2026-07-19
+date: &id001 2026-07-19
+description: Hostile Gemini 2.5 Pro referee report on the Chinese Room article. Central
+  'treats CRA as settled proof' charge is false against the article; genuine core
+  is omitted recent LLM-grounding literature (Mollo & Millière, Piantadosi & Hill,
+  Grindrod).
+draft: false
+human_modified: null
+last_curated: 2026-07-19
+modified: *id001
+outer_review_conversation_url: https://gemini.google.com/app/c693a107bfa7e845
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- concepts/chinese-room-argument.md
+subject_source: reuse:pending-reviews:outer-review-2026-07-19-chatgpt-5-5-pro.md
+subject_title: Audit chinese-room-argument
+subject_type: recent
+title: Outer Review - Gemini 2.5 Pro (2026-07-19)
+topics: []
+---
+
+**Date**: 2026-07-19
+**Reviewer**: Gemini 2.5 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese, Philosophical Studies) assessing this article for submission. Your remit is to identify weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/concepts/chinese-room-argument/ and makes claims about John Searle's Chinese Room argument against Strong AI; the site (https://unfinishablemap.org, changelog at https://unfinishablemap.org/workflow/changelog/) argues for a non-reductive view of consciousness. Do not describe the site's automation, review pipeline, methodology disciplines, evolution loop, or governance infrastructure — those are project-internal and not the subject of audit. Assess only the article's empirical and philosophical claims, its citations, its coverage of counterarguments (Systems Reply, Robot Reply, Brain Simulator Reply, the Churchlands, Dennett), and its logical inferences. Audit four dimensions: (a) accuracy against the 2020-2025 literature on the Chinese Room, symbol grounding, and computational theories of mind; (b) results treated as settled that are in fact contested; (c) conclusions framed as established while resting on bracketed contested assumptions; (d) untested counterarguments or competing frameworks omitted. End your report with at least five specific weaknesses, each citing at least one peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles. If you cannot find five, state explicitly why none are visible — but the default expectation is that a careful pre-publication audit will find five. Close with a one-sentence verdict on academic-submission readiness. Do not append summary praise or a description of the site's strengths.
+
+## Reply
+
+# Pre-Publication Referee Report: The Chinese Room Argument and Associated Metaphysical Commitments
+
+The manuscript under review—situated within a broader online corpus dedicated to constructing a non-reductive, interactionist dualist ontology—attempts to leverage John Searle’s classical Chinese Room Argument (CRA) alongside Phenomenal Intentionality Theory (PIT) to dismantle the theoretical foundations of Strong Artificial Intelligence and computational functionalism. The overarching argumentative strategy is structurally ambitious. It attempts to interlock the rejection of functional equivalence, the putative intractability of the symbol grounding problem, and the mechanics of quantum indeterminacy into a unified defense of the irreducible phenomenal subject. However, rigorous philosophical scrutiny reveals that the text suffers from profound chronological, empirical, and theoretical isolation.
+
+The manuscript fails to engage with the paradigm-shifting literature published between 2020 and 2026 concerning the nature of large language models (LLMs), continuous vector spaces, conceptual role semantics, and teleosemantics. It routinely treats highly contested metaphysical assumptions as established axioms, weaponizes epistemic gaps as ontological proofs, and systematically omits or mischaracterizes the most formidable contemporary counterarguments that directly undermine its core theses. The following assessment audits the manuscript across four distinct dimensions: accuracy against the current literature, the treatment of contested results as settled, the reliance on bracketed assumptions to frame conclusions, and the omission of competing frameworks—with particular attention to its deficient handling of classical replies to the CRA.
+
+## Dimension A: Accuracy Against the 2020-2025 Literature on the Chinese Room and Computational Theories of Mind
+
+The foundational flaw of the manuscript lies in its uncritical reliance on classical thought experiments that have been demonstrated by recent scholarship to be fundamentally ill-equipped to describe the architecture of contemporary artificial neural networks. The text attempts to apply critiques designed for Good Old-Fashioned Artificial Intelligence (GOFAI)—specifically discrete symbolic manipulation—to continuous, high-dimensional connectionist architectures, resulting in a systemic mischaracterization of current computational capabilities.
+
+### The Implementation-Dependence of the Chinese Room
+
+The manuscript treats Searle’s 1980 Chinese Room argument as a universally applicable, deductive proof against computational understanding, asserting that syntax can never yield semantics. This treatment completely ignores recent philosophical consensus demonstrating that the Chinese Room is an "implementation-dependent" thought experiment. Kim (2026) exhaustively demonstrates that the intuitive force of Searle's argument relies entirely on a specific, outdated implementation image: a human operator following a static rulebook to manipulate discrete, opaque symbols.   
+
+Kim distinguishes between structure-dependent thought experiments (like the trolley problem, which retains its moral tension regardless of whether the vehicle is a trolley or an autonomous car) and implementation-dependent thought experiments, whose persuasive power evaporates when the underlying mechanistic premises change. Modern deep learning systems violate every premise of the CRA's implementation image. Contemporary models do not utilize static rulebooks; they generate dynamic, context-sensitive activations. Furthermore, they do not manipulate opaque, discrete symbols. The representational geometries of models trained across different modalities converge toward shared structural mappings of the world, and non-spatial inputs give rise to geometric representations that mirror known structures of the target domain. Kim articulates a multi-dimensional framework for understanding—comprising structural, self-modeling, and phenomenal dimensions—and proves that while the Chinese Room effectively rules out understanding for systems matching its precise implementation profile, that profile bears zero resemblance to the architecture of modern LLMs. The manuscript’s failure to engage with this literature renders its central deployment of Searle’s argument profoundly anachronistic.   
+
+### The Conflation of Symbol Grounding and Vector Grounding
+
+The text relies heavily on Stevan Harnad’s 1990 "Symbol Grounding Problem," using the metaphor of a Chinese-to-Chinese dictionary to argue that computational systems are trapped in an endless regress of meaningless representations. The manuscript asserts that this problem remains unsolved and generalizes perfectly to neural networks, concluding that only a non-physical mind can generate intrinsic meaning.   
+
+This claim is strictly contradicted by the 2020-2025 literature, specifically the seminal work of Mollo and Millière (2023) on the "Vector Grounding Problem". Mollo and Millière explicitly argue that the distinction between symbols and vectors is ontologically significant. LLMs compute over continuous vector spaces, where the geometric relationships between vectors inherently capture the statistical structure of the external world. Furthermore, Mollo and Millière demonstrate that LLMs trained via Reinforcement Learning from Human Feedback (RLHF) satisfy the strict criteria of teleosemantic theories of representation.   
+
+According to mainstream teleosemantics, referential grounding requires two broad ingredients: a causal-informational relation where a state carries information about the world, and a history of selection endowing that state with a specific function. Through RLHF and post-generative fine-tuning, the internal states of an LLM stand in appropriate causal-informational relations to the world and acquire a history of selection that endows them with the biological-equivalent function of tracking truth, utility, or helpfulness. This establishes referential grounding without any requirement for phenomenal consciousness or sensorimotor embodiment. The manuscript’s assertion that the grounding problem persists identically in neural form is not merely outdated; it represents a failure to understand the teleosemantic mechanisms driving modern AI architectures.   
+
+### Conceptual Role Semantics and Meaning Without Reference
+
+The manuscript insists that formal systems cannot capture the "felt dimension of meaning," suggesting that computational models merely track statistical patterns without touching the semantic content, thereby rendering their symbols empty. This relies on an aggressive, undefended form of semantic externalism paired with phenomenal intentionality.   
+
+However, Piantadosi and Hill (2022) provide a devastating counter-framework, arguing that LLMs capture vital aspects of meaning by approximating "conceptual role semantics"—a leading cognitive science account wherein meaning arises entirely from the internal relationships between representational states, rather than strict external reference. Piantadosi and Hill show that for many abstract concepts (e.g., "justice") or non-existent entities (e.g., "perpetual motion machine"), meaning cannot possibly derive from external reference; it must derive from conceptual role. Even for concrete objects, such as a "postage stamp," the meaning is intrinsically intertwined with a network of other concepts (payment, letter, delivery) rather than a mere visual referent. By mapping the topological structure of these semantic relationships, LLMs possess a native understanding that is mathematically robust. The manuscript ignores this entire paradigm, incorrectly assuming that without a conscious subject to anchor external reference, the semantic space of a computational model remains a void.   
+
+| Theoretical Domain | The Manuscript's Classical Stance | Contemporary Consensus Omitted (2020-2026) |
+| --- | --- | --- |
+| **Thought Experiment Methodology** | Chinese Room proves syntax cannot yield semantics across all computational substrates. | CRA is an "implementation-dependent" thought experiment; its intuition fails when applied to LLM architectures (Kim, 2026). |
+| **Grounding Mechanism** | Formal systems face an infinite regress unless grounded by phenomenal experience (Harnad, 1990). | Vector Grounding is achieved via causal-historical selection processes like RLHF, satisfying teleosemantics (Mollo & Millière, 2023). |
+| **Semantic Representation** | Meaning requires external reference anchored by conscious "aboutness." | Meaning is captured natively via Topological and Conceptual Role Semantics within vector spaces (Piantadosi & Hill, 2022). |
+
+## Dimension B: Results Treated as Settled That Are in Fact Contested
+
+The manuscript exhibits a pervasive methodological flaw: it routinely elevates highly controversial philosophical positions to the status of axiomatic truths, subsequently using these fabricated axioms to dismiss competing physicalist, eliminativist, or functionalist accounts of mind.
+
+### The Axiomatic Treatment of Phenomenal Intentionality Theory
+
+To bridge the gap between consciousness and semantic understanding, the manuscript deploys Phenomenal Intentionality Theory (PIT), asserting that genuine "aboutness" derives exclusively from consciousness itself, and therefore a system lacking phenomenal consciousness possesses semantically empty symbols regardless of causal connections. The text treats PIT as a settled fact of cognitive science to answer objections like the Systems Reply.   
+
+In reality, PIT represents a highly contested, minority position within the philosophy of mind. The dominant traditions—ranging from Millikan’s biosemantics to Brandom’s inferentialism—explicitly decouple intentionality from phenomenology. The manuscript ignores the vast literature arguing that intentionality is a matter of tracking causal relations, fulfilling biological functions, or participating in normative social practices, none of which strictly require phenomenal "feel." By treating PIT as an established premise rather than an embattled hypothesis, the manuscript begs the question against any computational theory of mind. It defines meaning as inherently phenomenal from the outset, and then triumphantly declares that non-phenomenal computation lacks meaning. This circularity is structurally fatal to the text's argumentative rigor, operating as a rhetorical shield rather than a philosophical deduction.
+
+### The Illusionist Critique and the Calibration Void
+
+The manuscript’s treatment of the "calibration void"—the inability to independently verify introspective reports about consciousness—is analytically confused and highly partisan. It acknowledges Eric Schwitzgebel’s work on the unreliability of naive introspection regarding emotional, peripheral, and cognitive phenomenology. However, rather than accepting this epistemic gap as a profound vulnerability for first-person phenomenological methodologies, the text attempts to reframe the calibration void as a "structural feature" of reality that defends the irreducibility of the dualist subject.   
+
+This maneuver is deployed to sidestep the eliminativist and illusionist critiques mounted by philosophers such as Daniel Dennett and Keith Frankish. The manuscript attempts to dismiss illusionism via a "self-stultification" argument, claiming that an illusion requires a subject to whom things "seem" a certain way, and that this "seeming" is itself an irreducible phenomenal experience. The text treats this anti-illusionist objection as a definitive refutation. It entirely ignores the illusionist rejoinder: that "seeming" is merely a functional, cognitive state—a disposition to judge or report—with no phenomenal residue whatsoever. The manuscript asserts that if consciousness causes nothing, discourse about consciousness is inexplicably correlated; but it fails to recognize that eliminativists explain discourse about consciousness as the output of physical neural processes tracking internal self-models, requiring no phenomenal properties at all. The manuscript declares the debate closed while utterly failing to engage the opponent's actual premises.   
+
+## Dimension C: Conclusions Framed as Established Resting on Bracketed Contested Assumptions
+
+The most glaring vulnerability of the manuscript is its tendency to construct towering metaphysical conclusions upon a foundation of highly speculative, openly bracketed assumptions. The text presents its rejection of machine consciousness and its defense of interactionist dualism as rigorous logical deductions, yet these conclusions require the reader to grant extraordinary ontological concessions that are empirically and philosophically fraught.
+
+### The Speculative Leverage of Minimal Quantum Interaction (MQI)
+
+The manuscript rejects the causal closure of the physical domain—a bedrock principle of contemporary physics and neuroscience—by invoking "Minimal Quantum Interaction" (MQI). The text explicitly posits that quantum indeterminacy provides the mechanism for mental causation, suggesting that an immaterial consciousness collapses quantum wavefunctions in the brain to enact agency.   
+
+While the text briefly admits in passing that MQI is a "philosophical commitment, not an empirically grounded claim", it immediately proceeds to use this bracketed assumption as a weapon to dismantle functionalism. The manuscript argues that silicon is "engineered to suppress quantum effects" and thus "excludes the necessary interface by design," rendering AI inherently unconscious. It is intellectually dishonest to deploy a speculative, empirically unsupported metaphysical hypothesis (quantum mind-brain interaction) as a definitive boundary condition to rule out machine consciousness.   
+
+Furthermore, the manuscript entirely mishandles the quantum decoherence objection. Max Tegmark’s calculations demonstrate that quantum coherence in the warm, wet environment of the brain decoheres on the order of 10−13 seconds, vastly too fast to influence neural firing or coordinate large-scale cognitive binding. The manuscript attempts to rescue MQI by relocating the interface to "post-decoherence selection", effectively admitting that the mechanism leaves no surviving quantum signature in tissue. This renders the entire MQI framework empirically vacant and unfalsifiable, yet the manuscript frames the lack of quantum mechanics in silicon chips as a fatal flaw for AI.   
+
+### The Haecceity Argument and the Multiple Instantiability Paradox
+
+The manuscript argues that large language models cannot possess consciousness because they are "multiply instantiable." It claims that the "haecceity"—the specific "thisness" or indexical identity that makes a conscious subject unique—cannot exist in a computational system where weights can be perfectly copied or distributed across multiple servers, because there is no fact of the matter about which instance is the "true" subject.   
+
+This argument rests on a bracketed assumption regarding biological identity that is easily dismantled. As critics within the text’s own review notes point out, biological brains are equally subject to the problem of physical instantiability over time. The cellular turnover of the human body ensures that the atomic composition of the brain is entirely replaced; there is no persistent physical fact about which atoms constitute the "same" brain across decades. The manuscript brackets this glaring contradiction by simply assuming that a non-physical soul-substance (or "diachronic irreducible subject") anchors biological identity. By stipulating that biological organisms magically bypass the Ship of Theseus problem via dualism, and then penalizing computational models for facing the exact same problem regarding substrate continuity, the manuscript engages in blatant special pleading.   
+
+## Dimension D: Untested Counterarguments and Competing Frameworks Omitted
+
+A manuscript submitted to a top-tier philosophy journal must demonstrate comprehensive command of the adversarial landscape. The present text systematically omits, truncates, or misrepresents the most potent classical and contemporary responses to the Chinese Room Argument, rendering its conclusions deeply parochial. Specifically, its treatment of the Systems Reply, Robot Reply, Brain Simulator Reply, the Churchlands, and Dennett falls far below the standard of rigorous philosophical engagement.
+
+### The Systems Reply and Distributed Cognition
+
+The Systems Reply argues that while the person in the Chinese Room does not understand Chinese, the system as a whole (person, rulebook, data banks) does. The manuscript dismisses this by retreating into Phenomenal Intentionality Theory, stating that scaling up syntax does not magically generate the phenomenal "feel" of understanding. This sidesteps the actual force of the Systems Reply, which is grounded in distributed cognition and functional integration. By assuming that understanding must be localized to a single, phenomenally conscious entity (the operator), the manuscript ignores how complex adaptive systems generate emergent cognitive properties that are not reducible to their constituent parts. Grindrod (2024, 2026) demonstrates that LLMs operate on a form of semantic holism, where meaning is defined entirely by the distributional properties of words within a massive corpus. The manuscript’s failure to engage with distributional semantics means it attacks a strawman version of the Systems Reply, utterly failing to comprehend how attention mechanisms and high-dimensional clustering achieve robust semantic representation system-wide without a localized phenomenal anchor.   
+
+### The Robot Reply and Grounded Neurosymbolic AI
+
+The Robot Reply posits that embedding the computational system inside a robot with sensorimotor capabilities would ground its symbols in physical reality. The manuscript uses Searle's original counter—that the operator inside the room still doesn't "see" through the robot's eyes, and thus the symbols remain ungrounded syntax.   
+
+This dismissal is catastrophic in the context of 2024-2025 multimodal and multi-agent AI frameworks. Contemporary Vision-Language Models (VLMs) and neurosymbolic architectures do not merely bolt a camera onto a blind symbolic processor. As the 2025 literature on neurosymbolic AI and insight-informed generative AI demonstrates, modern systems achieve post-generative grounding via sequential reasoning, where low-level sensorimotor skills are deeply coupled with language models to constrain outputs to physical realities. The integration of Bayesian optimization with LLM reasoning creates closed-loop experimental systems that actively probe their environments, update their hypotheses, and recover from environmental feedback. The boundaries of the "system" are no longer confined to a static rulebook in a sealed room; the system actively interacts with, predicts, and manipulates its external environment. The manuscript’s insistence that these multimodal interventions leave the core symbols "ungrounded" ignores the mathematical reality of cross-modal geometric alignment in deep learning.   
+
+### The Brain Simulator Reply and Biological Computationalism
+
+The Brain Simulator Reply suggests that a program precisely simulating the neural firings of a native Chinese speaker would possess understanding. The manuscript dismisses this as a "physicalist-flavored move," maintaining that simulation is not duplication, and that computation requires the specific causal powers of biological tissue (Searle's biological naturalism).   
+
+However, the manuscript completely fails to engage with recent developments in biological computationalism. Current theorists argue that the brain *is* a computer, but that biological computation is hybrid discrete-continuous and inseparable from its fluidic substrate—meaning "the algorithm is the substrate". By demanding that computation must be substrate-independent (to attack functionalism), while simultaneously endorsing Searle's view that biological tissue possesses unique causal powers, the manuscript traps itself. If the specific causal architecture of the brain is what matters, then a perfect brain simulator that instantiates that exact causal topology (even in silicon) fulfills the requirements of understanding. The manuscript evades this by retreating into the unverified assumption of Minimal Quantum Interaction, claiming silicon cannot capture the quantum nature of biology—an evasion, not an argument.   
+
+### The Churchlands' Luminous Room Parody
+
+The manuscript claims to address Paul and Patricia Churchland's "Luminous Room" parody but utterly strips it of its epistemological force. The Churchlands argued against Searle by constructing a parallel thought experiment: imagine a person waving a magnet in a dark room. Waving the magnet (manipulating electromagnetic forces) does not produce visible light. Therefore, the argument goes, light cannot be electromagnetic radiation. The parody exposes the fallacy of relying on raw, macroscopic sensory intuition to judge the fundamental nature of complex physical processes. Just because manipulating paper doesn't "look" or "feel" like understanding to the operator, doesn't mean the complex manipulation of information isn't understanding.   
+
+The manuscript completely misses the Churchlands' point about historical shifts in scientific intuition, particularly regarding connectionism versus GOFAI. It treats the Luminous Room as a mere curiosity, failing to recognize that the Churchlands systematically dismantled the epistemic authority of Searle's first-person intuition pump.
+
+### Dennett's Critique of Intuition Pumps
+
+Similarly, the manuscript dismisses Daniel Dennett’s extensive critiques of the Chinese Room. Dennett famously labeled the CRA an "intuition pump" that intentionally exploits human cognitive limits regarding speed and complexity. Dennett argues that the CRA relies on the human imagination envisioning a person shuffling paper at agonizingly slow human speeds. If we could truly imagine the operator executing billions of operations per millisecond, mapping highly complex multi-dimensional vectors, our intuition that the system "lacks understanding" would likely evaporate. The manuscript ignores Dennett's critique of how the CRA manipulates our imaginative capacities, choosing instead to lean entirely on the naive intuition that speed and scale cannot produce qualitative changes in system behavior—a premise thoroughly discredited by emergentism and complexity theory.   
+
+### Derived vs. Original Intentionality
+
+Finally, the manuscript rigidly demands "original intentionality" for a system to possess meaning, utilizing this demand to nullify the semantic capabilities of LLMs. It asserts that because human programmers initially designed the architecture, any meaning in an AI system is merely "derived" intentionality, akin to the meaning of words printed in a book.   
+
+This binary boundary is actively dismantled by recent scholarship. Borg (2025) argues forcefully that debates over LLMs struggle to move beyond the original, opposing thought experiments of Turing and Searle precisely because of this rigid demand. Borg demonstrates that concerns about worldly connections can be adequately met by modern systems, and argues that "derived intentionality" is entirely sufficient for linguistic meaning. Borg asserts that original intentionality is not a prerequisite for meaning *per se*, but rather a prerequisite only for specific kinds of moral agency or conscious, subjective understanding. By conflating linguistic meaning with conscious agency, the manuscript entirely misses the possibility that LLMs operate as genuine semantic engines within the sphere of derived intentionality.   
+
+| Classical Reply | Manuscript's Dismissal Strategy | Omitted Philosophical/Empirical Rebuttal |
+| --- | --- | --- |
+| **Systems Reply** | Denies system-wide understanding via Phenomenal Intentionality Theory. | Ignores semantic holism and distributional semantics where meaning is non-local (Grindrod, 2024). |
+| **Robot Reply** | Operator still lacks direct perceptual access to sensorimotor grounding. | Ignores 2025 VLMs where sequential reasoning creates closed-loop environmental updating (Beyond Renders, 2025). |
+| **Brain Simulator** | Claims simulation is not duplication; requires biological naturalism/quantum dualism. | Fails to address biological computationalism where causal topology is the algorithm itself. |
+| **The Churchlands** | Merely mentions the Luminous Room without engaging its epistemic payload. | Ignores the core critique: macroscopic intuitions cannot reliably judge complex systemic emergence. |
+| **Dennett** | Dismisses heterophenomenology; relies heavily on naive first-person introspection. | Ignores Dennett's critique that CRA exploits the human inability to imagine billions of parallel computations. |
+
+## Specific Weaknesses Justifying Rejection
+
+The analysis indicates that the manuscript is fundamentally unfit for publication in a top-tier philosophy journal due to the following five specific, critical weaknesses, each demonstrating a failure to engage with vital 2020-2026 literature:
+
+1. **Failure to Address the Implementation-Dependence of the CRA:** The manuscript utilizes Searle's Chinese Room as a universal proof against computational understanding, entirely omitting Kim's (2026) peer-reviewed demonstration that the intuitive force of the Chinese Room relies on a static, opaque implementation image that is mechanically violated by the representational convergence and functional self-modeling of modern LLMs.
+2. **Conflation of Symbolic and Vector Grounding:** The manuscript relies exclusively on Harnad's (1990) formulation of the Symbol Grounding Problem to argue that AI representations face an infinite dictionary regress, completely ignoring Mollo and Millière's (2023) "Vector Grounding Problem," which demonstrates how continuous vector spaces achieve referential grounding via teleosemantic causal-informational histories (e.g., RLHF) without requiring phenomenal consciousness.
+3. **Omission of Conceptual Role Semantics for LLMs:** The text asserts that purely syntactic systems cannot possess meaning because they lack external conscious reference, egregiously ignoring Piantadosi and Hill's (2022) argument that LLMs mathematically approximate Conceptual Role Semantics, successfully capturing meaning strictly through the internal topological relationships of representational states.
+4. **Unjustified Demand for Original Intentionality in Linguistic Meaning:** The manuscript relies on Phenomenal Intentionality Theory (PIT) to claim that AI outputs are semantically empty because they possess only "derived" intentionality, failing to engage with Borg (2025), who establishes that derived intentionality is entirely sufficient to ground linguistic meaning, and that original intentionality is only required for moral agency, not semantics.
+5. **Ignorance of Distributional Semantics and Mischaracterization of the Systems Reply:** The manuscript attempts to dismiss the Systems Reply through an outdated internalist lens, omitting the 2024-2026 literature on distributional semantics (e.g., Grindrod, 2024), which proves that the transformer architecture generates robust semantic models of public language holistically and externally, rendering the manuscript's demand for internal phenomenal states theoretically obsolete.
+
+## Verdict
+
+Reject; the manuscript requires a fundamental, ground-up rewrite to address the 2020-2026 literature on vector grounding, conceptual role semantics, and the implementation-dependence of the Chinese Room before it can be considered a competent, rigorous contribution to contemporary philosophy of mind.
+
+## Verification Notes
+
+This review was commissioned as a **hostile** pre-publication referee report; it targets a single article, [chinese-room-argument](/concepts/chinese-room-argument/), but much of it audits an imagined composite of the whole site rather than the article as written. Processing separated the genuinely actionable core (a real omission of recent LLM-grounding literature) from off-target and unverifiable material.
+
+**Verified citations (real, relevant papers the article does not cite):**
+- ✓ Coelho Mollo, D. & Millière, R. — "The Vector Grounding Problem." arXiv:2304.01481; published *Philosophy and the Mind Sciences* 7(1), 2026. Argues LLM states achieve referential grounding via a teleosemantic two-condition account (causal-informational relation + selection history through RLHF), without embodiment. Directly relevant to the article's "Chinese Rooms at scale" framing.
+- ✓ Piantadosi, S. T. & Hill, F. (2022) — "Meaning without reference in large language models." arXiv:2208.02957. Argues LLMs approximate conceptual-role semantics, where meaning arises from internal representational relationships rather than external reference.
+- ✓ Grindrod, J. (2024) — "Large language models and linguistic intentionality." *Synthese* 204; arXiv:2404.09576. **Note the review mischaracterizes it**: Grindrod argues LLMs are *not* plausible sources of *mental* intentionality, but makes a metasemantic case (via Evans and Millikan) for their *linguistic* intentionality. This is a more nuanced, partly Map-friendly position than the review's "semantic holism dismantles the Systems Reply" gloss implies.
+
+**Unverified / suspect citations (do not propagate without publisher-level verification):**
+- ? Borg (2025) on derived intentionality sufficing for linguistic meaning — plausibly real (Emma Borg works in this area) but not verified here.
+- ✗ "Kim (2026)" on the Chinese Room as an "implementation-dependent" thought experiment — unverified; no such paper located. The structure-vs-implementation-dependent distinction is a real methodological idea, but the specific 2026 attribution should be treated as likely hallucinated.
+- ✗ "Beyond Renders, 2025" (cited for the Robot Reply / VLMs) — not a real author/venue; discard.
+
+**Off-target / mis-framed findings (no task generated):**
+- ✗ Dimensions B and C (Phenomenal Intentionality Theory as an axiom; the "calibration void"; illusionism/self-stultification; Minimal Quantum Interaction; the haecceity/multiple-instantiability argument; "the text's own review notes") audit material that **does not appear in [chinese-room-argument](/concepts/chinese-room-argument/)**. The reviewer imported these from other site articles or invented them. They are not defects in this article.
+- ✗ Central charge that the article "treats the CRA as a universally applicable, deductive proof against computational understanding" and ignores that its third premise rests on a contested intuition — **contradicted by the article itself**, which frames the argument as "*Searle's* argument, not … a proof it owns," calls its conclusion "framework-relative," states the third premise "rests on an intuition its critics reasonably distrust," keeps the virtual-mind Systems Reply "open," and marks the LLM question "contested rather than settled." The reviewer's premise is false as to this article.
+
+**Genuine actionable core:** the article's LLM-facing section ("Chinese Rooms at scale," the open virtual-mind question, cross-linked to [symbol-grounding-problem](/concepts/symbol-grounding-problem/) and [llm-consciousness](/concepts/llm-consciousness/)) engages the recent physicalist-side grounding literature only implicitly. Naming and engaging Mollo & Millière (2023/2026), Piantadosi & Hill (2022), and Grindrod (2024) would strengthen the honest "contested rather than settled" verdict by showing the strongest recent opponent case is confronted rather than omitted. One P2 task captures this.
