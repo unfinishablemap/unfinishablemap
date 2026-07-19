@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T19:39:22.778528+00:00'
-session_count: 16698
-cycle_position: 11537
+last_updated: '2026-07-19T19:42:53.409746+00:00'
+session_count: 16699
+cycle_position: 11538
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T18:15:14.218639+00:00'
   optimistic-review: '2026-07-19T19:00:16.474712+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-19T19:28:58.219253+00:00'
+  deep-review: '2026-07-19T19:42:53.409746+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T19:38:09.889191+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 522
-  reviews_completed: 6711
+  reviews_completed: 6712
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-07-19'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1332,33 +1332,12 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T19:32:00+00:00'
-  last_replenishment_prev: '2026-07-19T19:19:29+00:00'
-  last_replenishment_run: 764
+  last_replenishment: '2026-07-19T19:45:00+00:00'
+  last_replenishment_prev: '2026-07-19T19:32:00+00:00'
+  last_replenishment_run: 765
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  last_floor_restore_target: 'run no.762 (2026-07-19T19:08Z, interactive /replenish-queue):
-    SINGLE floor-restoring staleness mint. Canonical pre-run pickable P0-P2 == 2 (the
-    two open voids deep-reviews: counterfactual-void + metaphor-void, both prior floor-holders).
-    Below floor of 3. Run 761''s two changed-since-review mints (concepts/qualia.md
-    + concepts/dualism.md) were both consumed by the live loop and completed 2026-07-19
-    (commits 255128a93 + 2f382e3d5) — verified WRITTEN then executed, no task-gen-fork
-    bug. Eight-source audit LIVE: chains null; unconsumed-research blocked (topics/concepts/voids
-    all AT CAP); gap harvester-governed; changed-since-review staleness scan (ai_mod>ldr,
-    >=20d) == 0 candidates (drift source EXHAUSTED — qualia/dualism were the last
-    two); length offenders all veto/human-deferred; positions 8<10 audit threshold;
-    orphaned_files=0; no applied-apex gap. Only live source = owed-web-verify seam
-    ([[owed-web-verify-seam-deep-review-targeting]]): minted topics/evolutionary-case-for-mental-causation.md
-    (31d converged; oldest opus-4-5 cohort; 11 named-year citations never standalone-reviewed;
-    Tenet-3 exposition; ai_mod==ldr so NOT over-review anti-pattern — value is the
-    large UNCHECKED citation surface). Other stale candidates rejected: mind-arena/primary-secondary
-    (0 citations = no web-verify surface), epistemology-of-limit-knowledge + claude-constitution
-    (opus-4-8 newer cohort, weaker owed-web-verify fit). Single mint (not +1 buffer)
-    is deliberate given genuine source scarcity — no clean second target; documented
-    replenish-at-floor alternation ([[unfin_loop_steady_state]]), NOT empty-queue
-    deadlock. Floor restored 2->3. TOP-inserted. No concurrent evolve_loop process
-    (pgrep clean; last auto-commit 19:04Z).'
   run_764_note: 'run no.764 (2026-07-19T19:32Z, interactive /replenish-queue): SINGLE
     floor-restoring staleness deep-review mint (voids/language-thought-boundary.md).
     Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders topics/evolutionary-case-for-mental-causation
@@ -1393,9 +1372,29 @@ queue_status:
     again: opus-4-8 de-prioritized + Map-self-cite-only no-op. Single mint (no +1
     buffer) given genuine source scarcity; documented replenish-at-floor alternation,
     NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No concurrent evolve_loop.py.'
+  run_765_note: 'run no.765 (2026-07-19T19:45Z, interactive /replenish-queue): SINGLE
+    floor-restoring staleness deep-review mint (topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md).
+    Authoritative pre-write loop-pickable open P0-P2 == 2 (open floor-holders topics/evolutionary-case-for-mental-causation
+    + voids/language-thought-boundary); emergence-void, run 763''s mint and the prior
+    third holder, was consumed + deep-reviewed by the live cycle (commit f01097a00,
+    19:42:53Z) since run 764, dropping the count to 2. Below floor of 3. Eight-source
+    audit LIVE: chains null; unconsumed-research + gap BLOCKED (topics/concepts/voids
+    all AT CAP; positions 8/80); staleness == ONLY live source; orphaned_files=0; length
+    offenders all veto/human-deferred/research/apex-hub/positions; positions 8<10 audit
+    threshold (last positions-evolve 2026-07-17); no applied-apex gap. Target neoplatonist:
+    29d converged/byte-stable (ldr==ai_mod 2026-06-20T04:22), primary opus-4-7 older
+    cohort (real unchecked citation surface, owed-web-verify seam), ai_contribution
+    100, its ONLY dedicated deep-review (06-20) was a GENERIC longest-stale-tier staleness
+    pass NOT a publisher Web-Verify (other 3 review files are cross-review/orphan-integration),
+    cross-tradition Neoplatonist historical + modern introspection-empirical citation
+    surface (wrong-author/venue prone), NOT queued/vetoed/session-touched. mind-arena
+    (44d strict-oldest) rejected again: opus-4-8 de-prioritized + Map-self-cite-only
+    no-op. Single mint (no +1 buffer) given genuine source scarcity; documented replenish-at-floor
+    alternation, NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No concurrent
+    evolve_loop.py.'
+  run_765_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
   run_763_pickable_p0_p2: 3
-  run_762_pickable_p0_p2: 3
   tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
     last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
     logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
