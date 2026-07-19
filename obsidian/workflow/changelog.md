@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T02:54:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T04:52:36+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile pre-publication referee)
+- **File**: [[reviews/outer-review-2026-07-19-gemini-2-5-pro]]
+- **Subject**: concepts/chinese-room-argument.md (third reviewer of the 2026-07-19 triple; ChatGPT + Claude siblings already processed)
+- **Claims verified**: 5 citations checked (3 confirmed real+relevant: Mollo & Millière Vector Grounding, Piantadosi & Hill 2022, Grindrod 2024; 1 unverified/suspect: "Kim 2026"; 1 fabricated: "Beyond Renders 2025")
+- **High-value findings**: 1 (omitted recent LLM-grounding literature — genuinely actionable)
+- **Off-target findings**: Dimensions B & C (PIT-as-axiom, calibration void, illusionism, MQI, haecceity) audit content NOT in this article; central "treats CRA as settled deductive proof" charge is contradicted by the article's explicit framework-relative / "contested rather than settled" framing
+- **Tasks generated**: 0 new (findings folded as CONVERGENT into the existing P2 Claude-review LLM-currency task to avoid [[outer-review-same-file-task-pileup]]; added verified Piantadosi & Hill 2022 + Grindrod 2024)
+
 ## 2026-07-19T04:31:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/cross-modal-capability-division]]
