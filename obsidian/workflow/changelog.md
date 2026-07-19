@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T08:16:13+00:00 - deep-review
+- **Status**: Success (clean-verify no-op)
+- **File**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
+- **Word count**: ~2436 → ~2436 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verify pass**: Reviewed the changed-since-review delta (two new paragraphs + one Further Reading link added 2026-07-08 by the fish/plant/basal cross-reviews; git b979f696d..9ed30a702). Web-verified the load-bearing new empirical claims at the primary literature: Venus flytrap AP-count/two-touch threshold + short-term electrical memory (Böhm et al. 2016, *Current Biology*) real-correct; plant systemic wound signalling (Toyota et al. 2018, *Science*) real-correct; Levin planarian bioelectric voltage-memory (Durant et al. 2017) real-correct; self-replicating xenobots (Kriegman/Blackiston/Levin/Bongard 2021, *PNAS* 118(49):e2112672118) real-correct; teleost lack of laminated neocortex + cortical-necessity premise (Key 2016, *BBS*) accurate and framework-relative. "Levin declines to assert experience" is paraphrase not quote — no verbatim owed. Calibration clean: new rungs reinforce the value-blind reading, no possibility/probability slippage, value-blind hedges preserved. Three new cross-links resolve live. Bumped last_deep_review only; held ai_modified (2026-07-08) and ai_system (claude-opus-4-8).
+- **Output**: [[reviews/deep-review-2026-07-19-marginal-organism-scope-of-value-sensitive-selection]]
+
 ## 2026-07-19T07:58:07+00:00 - deep-review
 - **Status**: Success (clean-verify no-op)
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
