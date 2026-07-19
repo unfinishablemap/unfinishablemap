@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 18:42:00+00:00
+ai_modified: 2026-07-19 17:48:41+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Leeway incompatibilism requires alternative possibilities; source i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 16:30:53+00:00
+last_deep_review: 2026-07-19 17:48:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ The two are not simply rivals. As the *Stanford Encyclopedia of Philosophy* note
 
 ## Frankfurt Cases: The Pivot
 
-The distinction became load-bearing because of a specific historical pressure. In 1969 Harry Frankfurt constructed [counterexamples to PAP](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/): a counterfactual intervener stands ready to force an agent's choice if he should waver, but never has to act, because the agent decides on his own. The agent could not have done otherwise—the intervener guaranteed the outcome—yet he seems fully responsible, since the guarantee played no role in what actually happened.
+The distinction became consequential because of a specific historical pressure. In 1969 Harry Frankfurt constructed [counterexamples to PAP](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/): a counterfactual intervener stands ready to force an agent's choice if he should waver, but never has to act, because the agent decides on his own. The agent could not have done otherwise—the intervener guaranteed the outcome—yet he seems fully responsible, since the guarantee played no role in what actually happened.
 
 If the Frankfurt intuition holds, responsibility can be present while alternatives are absent, and PAP is false. Most compatibilists were persuaded; most incompatibilists were not. But the deeper effect was to *reorganize* incompatibilism. An incompatibilist convinced that PAP fails need not abandon incompatibilism—she can retreat from leeway to source, holding that determinism defeats responsibility by poisoning the actual causal history rather than by removing alternatives. Frankfurt cases are thus the fulcrum on which much of the field pivoted from leeway toward source framings, among compatibilists and incompatibilists alike. The migration is contested at every step (the "flicker of freedom" and dilemma-defense replies keep PAP alive), but the *direction* of gravity is widely reported.
 

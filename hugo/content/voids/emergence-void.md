@@ -19,7 +19,7 @@ description: Human+AI exploration of why no mind can grasp how arrangement produ
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-14 09:48:26+00:00
+last_deep_review: 2026-07-19 19:41:07+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

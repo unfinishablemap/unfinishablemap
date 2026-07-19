@@ -37,7 +37,7 @@ description: The intrinsic, subjective qualities of conscious experience—the r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 11:36:55+00:00
+last_deep_review: 2026-07-19 18:54:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

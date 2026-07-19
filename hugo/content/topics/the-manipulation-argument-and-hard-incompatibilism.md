@@ -18,7 +18,7 @@ description: Pereboom's four-case manipulation argument and hard incompatibilism
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 11:21:49+00:00
+last_deep_review: 2026-07-19 17:45:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

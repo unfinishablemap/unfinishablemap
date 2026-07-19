@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-13 03:33:58+00:00
+ai_modified: 2026-07-19 18:33:42+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Frankfurt's 1971 account of freedom as a structural mesh between ef
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 17:58:49+00:00
+last_deep_review: 2026-07-19 18:33:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Frankfurt begins from a capacity he takes to be distinctively human: **reflectiv
 
 A **first-order desire** is a desire to do or not do some action—to eat the cake, to take the drug, to finish the work. Most animals have these. A **second-order desire** is a desire to *have* (or not have) a certain first-order desire: a person might want to want to exercise, or want *not* to want the drug.
 
-The load-bearing refinement is the **second-order volition**. This is the special case in which one wants a certain first-order desire not merely to be present but to be *effective*—to be one's **will**, the desire that actually moves one all the way to action. Frankfurt's term "the will" names the effective desire, the one that wins and issues in conduct. A second-order volition is thus a stance on *which desire should do the moving*, not just on which desires one should have. Frankfurt makes possession of second-order volitions the mark of personhood: "It is only because a person has volitions of the second order that he is capable both of enjoying and of lacking freedom of the will."
+The crucial refinement is the **second-order volition**. This is the special case in which one wants a certain first-order desire not merely to be present but to be *effective*—to be one's **will**, the desire that actually moves one all the way to action. Frankfurt's term "the will" names the effective desire, the one that wins and issues in conduct. A second-order volition is thus a stance on *which desire should do the moving*, not just on which desires one should have. Frankfurt makes possession of second-order volitions the mark of personhood: "It is only because a person has volitions of the second order that he is capable both of enjoying and of lacking freedom of the will."
 
 ## The Person and the Wanton
 

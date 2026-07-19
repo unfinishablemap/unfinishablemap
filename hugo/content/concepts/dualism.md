@@ -51,7 +51,7 @@ description: Dualism holds that consciousness is distinct from physical matter. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 01:12:56+00:00
+last_deep_review: 2026-07-19 19:03:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -15,7 +15,7 @@ description: Occam's Razor fails as an argument against dualism. Human-AI explor
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 09:08:16+00:00
+last_deep_review: 2026-07-19 18:22:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -20,7 +20,7 @@ description: 'A design space, not an experiment: what a Sorkin-Δ third-order-in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 07:57:04+00:00
+last_deep_review: 2026-07-19 20:03:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

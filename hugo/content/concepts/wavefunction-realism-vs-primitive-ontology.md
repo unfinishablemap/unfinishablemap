@@ -13,7 +13,7 @@ description: Human-AI exploration of quantum foundations' deepest ontology dispu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 23:34:00+00:00
+last_deep_review: 2026-07-19 19:23:09+00:00
 modified: *id001
 related_articles: []
 title: Wavefunction Realism versus Primitive Ontology

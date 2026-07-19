@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-13 06:32:00+00:00
+ai_modified: 2026-07-19 17:17:43+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: 'The aboutness of mental states: why thoughts are directed at objec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 00:00:00+00:00
+last_deep_review: 2026-07-19 17:17:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,13 +128,13 @@ The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/
 
 PCT reinforces PIT with empirical evidence from [semantic memory](/concepts/semantic-memory/) research. The tip-of-the-tongue (TOT) state is revealing: you have the meaning without the phonological form. The semantic content is phenomenally present—you know what you mean—but the word won't come. This dissociation shows meaning has phenomenal character independent of linguistic expression.
 
-The feeling of knowing (FOK) extends this: you feel confident you know something before retrieving it. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about data you haven't accessed. These phenomena make visible what normally operates transparently: meaning has phenomenal character that becomes apparent when normal retrieval is disrupted.
+The feeling of knowing (FOK) extends this: you feel confident you know something before retrieving it. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about data you haven't accessed.
 
 ### Understanding as Phenomenal Binding
 
 Why does intentionality require phenomenal consciousness? The [consciousness and semantic understanding](/topics/phenomenology-of-intellectual-life/) analysis suggests a mechanistic answer: understanding complex content requires [*binding*](/concepts/binding-problem/) multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
 
-Consciousness appears required for such binding. The maintenance/manipulation distinction shows that merely holding information can be unconscious, but actively combining information into new structures requires conscious access. Semantic binding is manipulation—integrating elements into structured wholes. If binding requires consciousness, so does intentionality toward complex contents.
+Consciousness appears required for such binding. The maintenance/manipulation distinction shows that merely holding information can be unconscious, but actively combining information into new structures requires conscious access. Semantic binding is manipulation. If binding requires consciousness, so does intentionality toward complex contents.
 
 ## Original vs. Derived Intentionality
 
@@ -196,7 +196,7 @@ If Searle is right that syntax is insufficient for semantics, then computational
 
 PIT sharpens this: it's not merely that syntax is insufficient for semantics (Searle's negative point). The positive claim is that semantics requires phenomenal character. An LLM's outputs may function as meaningful utterances because they participate in a linguistic system created by minds, but this borrowed meaning differs from the LLM *understanding* what it says.
 
-LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. If PIT is correct, systems demonstrating apparent understanding but lacking phenomenal markers are mimicking intentionality rather than possessing it.
+LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. If PIT is correct, systems that display apparent understanding without these markers mimic intentionality rather than possess it.
 
 The Map's position: [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures because they lack whatever grounds original intentionality. Computational sophistication is not a path to aboutness.
 
@@ -204,7 +204,7 @@ The Map's position: [AI consciousness](/topics/ai-consciousness/) is unlikely gi
 
 Alfred North Whitehead's process philosophy offers a complementary perspective. For Whitehead, reality consists of "actual occasions"—momentary events of experience that "prehend" (grasp) other occasions. Prehension is Whitehead's technical term for a relation that includes but generalizes intentionality: every actual occasion takes up or references other occasions in constituting itself.
 
-**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is a sophisticated development of something omnipresent. **Objective immortality** ensures past occasions remain available for prehension, so thought about past events continues how experience always incorporates its predecessors. Process philosophy treats intentionality as an intensification of something pervasive rather than an anomaly requiring special explanation.
+**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is a sophisticated development of something omnipresent. **Objective immortality** ensures past occasions remain available for prehension. Process philosophy treats intentionality as an intensification of something pervasive rather than an anomaly requiring special explanation.
 
 ## What Would Challenge This View?
 

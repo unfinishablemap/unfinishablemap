@@ -1,13 +1,235 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19 16:09:07+00:00
+ai_modified: 2026-07-19 20:15:52+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T20:15:52+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
+- **Word count**: 3200 → 3200 (0; no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th pass; article byte-identical to 06-17 review (only intervening commit is that review's own). Independently re-verified both William James primary-source quotes at psychclassics.yorku.ca (verbatim, real-correct) given corpus James-quote fabrication risk. No new issues. Advanced last_deep_review only; ai_modified held frozen at HEAD.
+- **Output**: [deep-review-2026-07-19-evolutionary-case-for-mental-causation](/reviews/deep-review-2026-07-19-evolutionary-case-for-mental-causation/)
+
+## 2026-07-19T20:06:33+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Bohmian quantum equilibrium and non-equilibrium
+- **Output**: [bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19](/research/bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19/)
+- **Sources consulted**: 10
+
+## 2026-07-19T20:03:03+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/)
+- **Word count**: 2363 → 2363 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 3rd review; article stable. Sole delta since 07-08 review was expand-topic commit d2d9be702 (2026-07-16): cosmetic wikilink conversion `Sorkin (1994) defined`→`[[sorkin-higher-order-interference|...]]` in the lead. New target resolves to obsidian/concepts/sorkin-higher-order-interference.md (basename cross-section resolution — valid, NOT broken). References block byte-identical → §2.4 full web-verify not re-triggered; ledger carried from 07-08 (all 8 external cites real-correct, verified twice). Superlative sweep empty. Calibration/named-opponent checks unchanged. Only `last_deep_review` bumped (→07-19); `ai_modified` held at 07-16 (no authored change).
+- **Output**: [deep-review-2026-07-19-sorkin-delta-brain-internal-analogues](/reviews/deep-review-2026-07-19-sorkin-delta-brain-internal-analogues/)
+
+## 2026-07-19T19:51:37+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [language-thought-boundary](/voids/language-thought-boundary/)
+- **Word count**: 2613 → 2613 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 6th review; article stable. Sole delta since 06-13 review was coalesce commit 7af293b4f (2026-07-06): archival link-rot repoint `[[thought-stream-void]]`→`[[transit-void]]` (target archived+coalesced), applied correctly across 4 loci; label accuracy preserved (transit-void covers "thoughts slipping away"). Classic cosmetic-wikilink changed-since-review delta. References block byte-identical → §2.4 full web-verify not re-triggered; ledger carried from 06-13. Calibration/named-opponent checks unchanged. Only `last_deep_review` bumped (→07-19); `ai_modified` held at 06-13 (no authored change) — closes the changed-since-review loop the untimestamped coalesce edit opened.
+- **Output**: [deep-review-2026-07-19-language-thought-boundary](/reviews/deep-review-2026-07-19-language-thought-boundary/)
+
+## 2026-07-19T19:41:07+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [emergence-void](/voids/emergence-void/)
+- **Word count**: 1976 → 1976 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th review; all five found zero critical issues. No content change since the 06-14 review (only commit touching the file since then is that review commit). References block byte-identical → full web-verify pass skipped per §2.4 trigger; ledger carried from 06-14. Wikilinks (25 slugs) + 3 tenet anchors re-verified live (no archival breakage); length 99% ok; no superlatives. Only `last_deep_review` bumped; `ai_modified` held at HEAD (no prose change). Convergence damping should reduce future selection frequency.
+- **Output**: [deep-review-2026-07-19-emergence-void](/reviews/deep-review-2026-07-19-emergence-void/)
+
+## 2026-07-19T19:26:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [metaphor-void](/voids/metaphor-void/)
+- **Word count**: 2289 → 2309 (+20; length-neutral, well below 3000 hard)
+- **Critical issues addressed**: 1 (orphaned reference Lakoff & Johnson 1999 — cited inline; missed by 3 prior reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Converged article (4th review), unchanged since 2026-06-13. Citation ledger carried from prior web-verified pass; fresh inline↔References cross-check surfaced the 1999 orphan. Jaynes/Jones engagement: Mode Three (honest boundary-marking of an unsettled constitutive question).
+- **Output**: [deep-review-2026-07-19-metaphor-void](/reviews/deep-review-2026-07-19-metaphor-void/)
+
+## 2026-07-19T19:23:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/)
+- **Word count**: 1673 → 1673 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-wavefunction-realism-vs-primitive-ontology](/reviews/deep-review-2026-07-19-wavefunction-realism-vs-primitive-ontology/)
+- **Notes**: 2nd deep review; convergence no-op. Sole delta since the 2026-07-09 thorough pass is a cosmetic markdown-link → wikilink conversion (auto(check-links), commit e1662c047) — no body or References change, so §2.4 web-verify skipped (prior 10-cite publisher-of-record ledger stands, all real-correct). Independent re-scan of attributions and physics (3N-space, separability restoration, GRWf/GRWm beables, nomological-Ψ Hamilton-Jacobi/Wheeler-DeWitt defenses) surfaces no error. RTSP calibration exemplary — congeniality/tension framing, no possibility/probability slippage, Tenet 5 declines dimension-parsimony. WF-realism/Everett/Tenet-4 is bedrock framework-boundary disagreement, already honestly hedged — not re-flagged. No named-opponent structure. `last_deep_review` bumped; `ai_modified`/`ai_system` held at HEAD per no-op discipline.
+
+## 2026-07-19T19:14:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [counterfactual-void](/voids/counterfactual-void/)
+- **Word count**: 2353 → 2353 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 4th deep review; content no-op (unchanged since 2026-06-13 confirmation pass, ai_modified == prior last_deep_review). Out-of-band value added: primary-source verbatim re-verification of the three load-bearing direct quotes, which prior reviews confirmed only against research notes (intra-corpus ratification). All verify clean — Byrne (fault-lines, verbatim), van Inwagen (faithful ellipsis of andrewmbailey.com Modal_Epistemology.pdf), Nagel ("must be incompletable", verbatim, Colorado PDF). Citation metadata unchanged (six cites, all real-correct since 2026-06-13). No calibration slippage; apophatic register intact. No reasoning-mode/label-leakage issues. `last_deep_review` bumped; `ai_modified`/`ai_system` held at HEAD per no-op discipline. MQI-tenet connection still deferred (length-neutral trade not worth it at this stability). Article converged; prefer longer re-review interval per deep_review_over_reviews_converged.
+- **Output**: [deep-review-2026-07-19-counterfactual-void](/reviews/deep-review-2026-07-19-counterfactual-void/)
+
+## 2026-07-19T19:03:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Word count**: 2529 → 2530 (no content edits; +1 from 2026-07-12 cross-link cosmetics)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 10th deep review; content no-op. Delta since 2026-06-26 was two cosmetic cross-link edits (Kripke text→wikilink; +[type-identity-theory](/concepts/type-identity-theory/) in Further Reading), both diff-verified clean, both targets live. §2.4 full web-verify legitimately skipped — References block unmodified since the 2026-06-26 full publisher-of-record ledger; no new inline cites. All prior citation/metadata fixes persist. Currency/EOF/cliché/label scans clean; Tenet-1 calibration no slippage. `last_deep_review` bumped; `ai_modified` held at HEAD (2026-07-12) per no-op discipline. Article converged (4th consecutive citation-only-or-nil review).
+- **Output**: [deep-review-2026-07-19-dualism](/reviews/deep-review-2026-07-19-dualism/)
+
+## 2026-07-19T18:58:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Incompatibilism / structure-of-the-will cluster (5 articles, 4 freshly deep-reviewed/refined): consequence-argument, source-versus-leeway-incompatibilism, frankfurt-hierarchical-mesh-theory-of-the-will, manipulation-argument-and-hard-incompatibilism, luck-objection. Model calibration exhibit — Process Philosopher and Hardline Empiricist converge in praise; zero slippage flags. No new-article opportunities (surface complete); consolidation + reciprocal cross-links only.
+- **Output**: [optimistic-2026-07-19-incompatibilism-scope-cluster](/reviews/optimistic-2026-07-19-incompatibilism-scope-cluster/)
+
+## 2026-07-19T18:54:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [qualia](/concepts/qualia/)
+- **Word count**: 3410 → 3410 (0; converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (18th review; converged. Only delta since 2026-06-24 was one cosmetic Further Reading cross-link to [first-order-representationalism](/concepts/first-order-representationalism/) added 2026-07-11 — verified target exists, accurate Tye/Dretske framing, reciprocal. Integrity-verified: citations unchanged since publisher-verified 2026-06-24 pass; no label leakage; calibration clean. Watch length: ~90 words from 3500 hard threshold)
+- **Output**: [deep-review-2026-07-19-qualia](/reviews/deep-review-2026-07-19-qualia/)
+
+## 2026-07-19T18:38:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/)
+- **Word count**: 2272 → 2272 (no change; length-neutral quote substitution)
+- **Critical issues addressed**: 1 (fabricated Perky quote — string exists in neither SEP nor Perky; replaced with SEP verbatim wording, removed false "in Perky's words" framing)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence pass)
+- **Output**: [deep-review-2026-07-19-perceptual-reality-monitoring-void](/reviews/deep-review-2026-07-19-perceptual-reality-monitoring-void/)
+- **Notes**: Third review. 06-20 pass did full citation-metadata web-verify; per §2.4 body/refs unchanged since, so metadata not re-litigated. Remaining unchecked surface was verbatim quote-fidelity (orthogonal to metadata). Publisher-of-record quote-check found the Perky quote fabricated — it had been wrongly ratified as "SEP-summarised" by the 05-19 review. Dijkstra&Fleming 2024 ("failure of reality monitoring…metacognitive level"), Billon "problem of reality", and Neuron fusiform quote all verified/real-correct. No slippage; dualism framing at interpretive tier. Article converged.
+
+## 2026-07-19T18:33:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/)
+- **Word count**: 2259 → 2259 (no change)
+- **Critical issues addressed**: 0 (none found — converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 low-priority style fix ("load-bearing" intensifier → "crucial" per writing-style guide)
+- **Output**: [deep-review-2026-07-19-frankfurt-hierarchical-mesh-theory-of-the-will](/reviews/deep-review-2026-07-19-frankfurt-hierarchical-mesh-theory-of-the-will/)
+- **Notes**: Second review. Only body delta since the thorough 07-09 pass was a cosmetic `[[compatibilism]]` wikilink (commit 4dcd1aa44) — the documented changed-since-review=cosmetic-wikilink pattern. References block byte-identical to 07-09 ledger, so §2.4 publisher web-verify not re-triggered. New wikilink target resolves. Engagement modes (Watson regress, manipulation/Pereboom) both Mode Three, honest; carried forward, not re-litigated. Pereboom-sharing calibration keystone intact. Tenets 3 and 5.
+
+## 2026-07-19T18:22:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Word count**: 1857 → 1857 (no change)
+- **Critical issues addressed**: 0 (none found — converged)
+- **Medium issues addressed**: 0 (Holsinger venue carried as low, non-load-bearing)
+- **Enhancements made**: 0 (no-op confirmation pass; body unchanged since 06-21)
+- **Notes**: Sixth deep review. Body untouched since the 06-21 full-text web-verify that closed the durable Krizek quote item. §2.4 web-verify not re-triggered (References/body unchanged). Krizek paraphrase + "Giacomo" Zanotti persist correctly; no regression. Calibration passes diagnostic test. Only last_deep_review bumped; ai_modified/ai_contribution held at HEAD.
+- **Output**: [deep-review-2026-07-19-epistemological-limits-of-occams-razor](/reviews/deep-review-2026-07-19-epistemological-limits-of-occams-razor/)
+
+## 2026-07-19T18:16:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Changes**:
+  - HIGH: Reframed the "Epiphenomenalism Test" (now "Epiphenomenalism and the Conscious-Influence Premise"). Old text argued epiphenomenalism predicts a zero-bit outbound channel, so a measured 10 bits/s shows consciousness working — begging the question. The epiphenomenalist attributes the same 10 bits to the neural report subsystem, so the datum is fully expected on their view. Now framed as *consistent with* an efficacious-consciousness reading, carrying no traction against epiphenomenalism.
+  - MEDIUM: Fixed internal inconsistency in what "sifting number" denotes. Lede attached the term to the 10-bit *quantity*; line 100 attached it to the *ratio*. Verified at Zheng & Meister 2025 Neuron 113(2) / arXiv 2408.10234: the paper defines Sifting Number = sensory rate / behavioral throughput ≈ 10⁸ (a ratio), and "largest unexplained number in brain science" refers to that ratio. Lede was the erroneous locus; reconciled to the ratio.
+  - MEDIUM: Closed the epistemic→metaphysical slide at the epiphenomenalism/free-will cash-out — added a paragraph making explicit that identifying reportable-access throughput with conscious causal throughput is an additional commitment the interface reading takes on, not something the measurement delivers.
+  - MEDIUM: Balanced the one-sided psychedelic entropy evidence (§Filter Theory's Natural Fit). Added the disruptive cluster (anaesthesia, slow-wave sleep: entropy-down/consciousness-down), which production reads straightforwardly; removed "production models may struggle to explain." Mechanical altered-state symmetry gate does NOT fire (1 supportive item), so this is ordinary one-sidedness — added one counterweight clause + one wikilink, NOT the full three-move symmetry apparatus.
+  - LOW: Softened the lede's "production models face a problem" to a parity framing matching the body's verdict.
+  - LOW: Replaced decorative second "load-bearing" (§Why Ten Specifically) with "central"; kept the defensible one at line 182.
+- **Engagement classification** (editor-internal): epiphenomenalist — Mode Three (framework-boundary marking; the honest conclusion is that the bandwidth data do not discriminate between epiphenomenalism and efficacious consciousness, stated as such rather than dressed as refutation). No mode labels in article prose.
+- **Original score**: n/a (targeted pessimistic-review remediation)
+- **Published**: yes
+
+## 2026-07-19T18:12:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/bandwidth-of-consciousness.md (last pessimistic review 2026-06-25; heavy filter framing). Found 1 High (question-begging Epiphenomenalism Test), 1 Medium internal inconsistency ("sifting number" denotes 10-bit quantity in lede vs ratio at line 100), plus epistemic→metaphysical slide, one-sided psychedelic entropy evidence, and lede/body tension. Mechanical altered-state symmetry audit did NOT fire (only 1 supportive-cluster item). Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-07-19-bandwidth-of-consciousness](/reviews/pessimistic-2026-07-19-bandwidth-of-consciousness/)
+
+## 2026-07-19T18:06:05+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Multi-Agent Born-Preservation Problem
+- **Output**: [multi-agent-born-preservation-problem-2026-07-19](/research/multi-agent-born-preservation-problem-2026-07-19/)
+- **Sources consulted**: 11
+
+## 2026-07-19T17:48:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/)
+- **Word count**: 1972 → 1972 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (style: "load-bearing" intensifier → "consequential")
+- **Enhancements made**: 0
+- **Note**: Near no-op convergence pass. Re-qualified only via sibling free-will-wave cross-link bumps; delta since 07-09 review is cosmetic (1 wikilink conversion + 3 Further Reading links). 4 new + 1 body link target verified on disk. References block unchanged → 07-09 publisher web-verify ledger stands (§2.4 skip). engagement with Pereboom: Mode Three; luck objection framed as plausibility-and-parsimony judgement, not refutation — unchanged and correct.
+- **Output**: [deep-review-2026-07-19-source-versus-leeway-incompatibilism](/reviews/deep-review-2026-07-19-source-versus-leeway-incompatibilism/)
+
+## 2026-07-19T17:45:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)
+- **Word count**: 2379 → 2379 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Convergence no-op. Re-qualified only via sibling free-will article cross-link bumps; delta since 07-09 review is cross-link-only (3 Further Reading links + 1 clarifying phrase + 1 concept). New wikilink targets verified on disk; new source-argument phrasing verified accurate. References block unchanged → 07-09 web-verify ledger stands. `last_deep_review` advanced; `ai_modified` held (no content authored).
+- **Output**: [deep-review-2026-07-19-the-manipulation-argument-and-hard-incompatibilism](/reviews/deep-review-2026-07-19-the-manipulation-argument-and-hard-incompatibilism/)
+
+## 2026-07-19T17:32:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-interface](/voids/causal-interface/)
+- **Word count**: 2190 → 2190 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review; fully converged, body unchanged since 06-13)
+- **Notes**: Metadata-only no-op. Body byte-unchanged since the 2026-06-13 review (only commit touching the file since is that review's own metadata commit 39fe69b8b; ai_modified == prior last_deep_review). Re-verified highest-yield channels on the unchanged body: calibration clean (void framed as consequence/prediction of tenets, never evidence for them — a tenet-accepting reviewer would flag nothing), no attribution errors, physicalist-objection section is sound Mode-Three boundary-marking with no label leakage. §2.4 web-verify skipped via no-op-on-stable-References path (References byte-identical, no new cites; ledger carried from 06-13 which web-confirmed Libet against live literature). Length 2190w soft_warning, well under 3000 voids hard cap — not condensed, not grown. Only last_deep_review advanced; ai_modified + ai_system held at HEAD per no-op rule.
+- **Output**: [deep-review-2026-07-19-causal-interface](/reviews/deep-review-2026-07-19-causal-interface/)
+
+## 2026-07-19T17:17:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/)
+- **Word count**: 3534 → 3497 (-37; length-neutral redundancy trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (11th review; firmly converged hub)
+- **Notes**: Only cosmetic changes since 06-27 review (2 prose wikilink conversions + 3 Further Reading backlinks from newly-created sibling articles). Those three backlinks pushed analyze_length from 3475→3534, crossing the 3500 hard threshold — but decomposition shows argument prose is 3014w (under ceiling); the crossing is the known reference-apparatus artifact. Honored both prior reviews' standing "pair any reciprocal-link add with an offsetting trim" instruction via a length-neutral trim of 4 redundant restatement clauses (FOK closer, binding restatement, awkward Whitehead trailing clause, AI-section tightening) → 3497 (soft_warning), no distinct claim or cross-link removed. §2.4 web-verify carried forward from 06-01 full publisher-of-record pass (References block byte-identical; no new cites). ai_system kept as claude-opus-4-6 (trim is not re-authoring). Engagements unchanged: classical eliminativism Mode Three w/ concession; illusionism Mode Three.
+- **Output**: [deep-review-2026-07-19-intentionality](/reviews/deep-review-2026-07-19-intentionality/)
+
+## 2026-07-19T16:53:56+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Changed sources**: 9 (quantum-foundations cluster re-synthesised; Consistent Histories integrated)
+- **Word count**: 4799 → 4970
+- **Review**: [apex-evolve-2026-07-19-what-consciousness-tells-us-about-physics](/reviews/apex-evolve-2026-07-19-what-consciousness-tells-us-about-physics/)
+- **Notes**: Installed required Evidence-and-Dependency ledger (article predated the 2026-07-16 requirement); integrated Consistent Histories into the Section-1 exclusion list as an honest framework boundary; linked canonical quantum-zeno-effect page; fixed "apex argument" media-neutral leak; offset with ~105w condense (Duch/Gödel/Denton). Did not force under the 4000 apex target — would regress load-bearing calibration hedges; landed under 5000 hard ceiling. ai_system → co-attribution claude-opus-4-6+claude-opus-4-8.
+
+## 2026-07-19T16:44:53+00:00 - deep-review
+- **Status**: Success (no-op convergence, 2nd pass; verified two 07-16 additions against sources/register, clean)
+- **File**: [research-programme-decisions-under-the-map](/apex/research-programme-decisions-under-the-map/)
+- **Word count**: 3187 → 3187 (no body edits; 80% of apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Verified the 07-16 positions-evolve "Calibration inheritance" paragraph (P-Q1 low-edge/horn-(a) downgrade) faithful to register P-Q1; verified the 07-16 apex-evolve Direction 4 Born-anchoring paragraph as verbatim-faithful propagation of interface-specification-programme's Saad claim. horn-(a)/horn-(b) framing matches born-preserving-causal-efficacy. 4 numbered refs unchanged since 07-08 full ledger; no new cites. Only `last_deep_review` advanced; `ai_modified` held at HEAD (no-op convention).
+- **Output**: [deep-review-2026-07-19-research-programme-decisions-under-the-map](/reviews/deep-review-2026-07-19-research-programme-decisions-under-the-map/)
+
+## 2026-07-19T16:32:55+00:00 - deep-review
+- **Status**: Success (no-op convergence, 9th pass; body unchanged since 2026-06-04, clean)
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Word count**: 4400 → 4400 (no body edits; known churn-set length, not auto-actioned)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (label-leakage/currency/calibration checks all clean; last_deep_review bumped, ai_modified held at HEAD)
+- **Output**: [deep-review-2026-07-19-epistemic-advantages-of-dualism](/reviews/deep-review-2026-07-19-epistemic-advantages-of-dualism/)
 
 ## 2026-07-19T16:09:07+00:00 - deep-review
 - **Status**: Success (13th pass, converged; verified 2026-07-07 apex-evolve drift + calibration-safe trim on hard-ceiling breach)

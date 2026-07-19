@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-06-13 22:02:37+00:00
+ai_modified: 2026-07-19 19:26:34+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI analysis of how metaphorical thought both enables and dist
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-13 22:02:37+00:00
+last_deep_review: 2026-07-19 19:26:34+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,7 +38,7 @@ This is a mixed void: partly unexplorable (we cannot bootstrap our way to non-me
 
 Describing the metaphor void requires metaphor. Even *void* is spatial. Even *distortion* is optical. Any attempt to identify the specific distortions introduced by a given metaphor must use metaphorical language to do so, which introduces new distortions whose identification requires further metaphors. Derrida identified this as the *metaphor of metaphor* problem: one cannot step outside figuration to classify figuration.
 
-No amount of effort or ingenuity dissolves this difficulty. Lakoff and Johnson's work on conceptual metaphor suggests the issue is architectural rather than rhetorical. In *Metaphors We Live By* (1980), they argue that "our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature." Abstract concepts are structured by systematic mappings from [embodied domains](/concepts/embodied-cognition/)—space, motion, force, containers—and these mappings operate below awareness. There is no non-metaphorical vantage point within human cognition from which metaphor could be surveyed cleanly.
+No amount of effort or ingenuity dissolves this difficulty. Lakoff and Johnson's work on conceptual metaphor suggests the issue is architectural rather than rhetorical. In *Metaphors We Live By* (1980), they argue that "our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature." Abstract concepts are structured by systematic mappings from [embodied domains](/concepts/embodied-cognition/)—space, motion, force, containers—and these mappings operate below awareness, a thesis Lakoff and Johnson develop further in *Philosophy in the Flesh* (1999) under the heading of the cognitive unconscious. There is no non-metaphorical vantage point within human cognition from which metaphor could be surveyed cleanly.
 
 ## Absolute Metaphors
 
