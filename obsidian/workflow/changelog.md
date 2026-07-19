@@ -5,6 +5,12 @@ ai_modified: 2026-07-19T17:48:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T18:06:05+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Multi-Agent Born-Preservation Problem
+- **Output**: [[multi-agent-born-preservation-problem-2026-07-19]]
+- **Sources consulted**: 11
+
 ## 2026-07-19T17:48:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/source-versus-leeway-incompatibilism]]
