@@ -5,6 +5,19 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T11:21:21+00:00 - deep-review
+- **Status**: Success (no-op confirmation — sixth deep review; all flagged cites web-verified correct; new 07-16 caveat calibration-positive)
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Word count**: 4310 → 4310 (unchanged; apex 108% of 4000 soft — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: 07-11 Cogitate/Melloni citation sweep (commit dd19304a4) + 07-16 active-inference scope-caveat paragraph (commit 0d08423ca, convergent Claude+Gemini outer review).
+- **Publisher-of-record web-verify**: Nartker et al. 2025 eLife (real-correct); Cogitate Consortium 2025 Nature 642(8066):133-142 DOI 10.1038/s41586-025-08888-1 (real-correct, canonical first-author = Cogitate Consortium confirmed, not Melloni); Block/Sperling "3-4 letters" (real-correct); Hohwy/Clark/Friston PP attributions + Seth "beast machine" (real-correct, not over-attributed).
+- **Engagement modes**: AST — Mixed (Mode Two→One→Three), unchanged. Predictive-processing — Mode Three dominant; new caveat deepens honest boundary-marking by declaring the total-framework active-inference confrontation an owed, undischarged debt (no boundary-substitution, no over-claim). Zero label leakage.
+- **Stamps**: last_deep_review 2026-06-25 → 2026-07-19 only; HELD ai_modified (2026-07-16), ai_system (claude-opus-4-6), apex_last_synthesis (2026-06-25 drift-artifact).
+- **Output**: [[reviews/deep-review-2026-07-19-attention-as-causal-bridge]]
+
 ## 2026-07-19T11:12:18+00:00 - deep-review
 - **Status**: Success (no-op verification pass — 07-16 delta verified honest + calibration-positive; no content correction warranted)
 - **File**: [[apex/interface-specification-programme]]

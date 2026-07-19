@@ -5,7 +5,7 @@ created: 2026-02-14
 modified: 2026-05-19
 human_modified: null
 ai_modified: 2026-07-16T06:31:00+00:00
-last_deep_review: 2026-06-25T01:46:02+00:00
+last_deep_review: 2026-07-19T11:21:21+00:00
 draft: false
 topics:
   - "[[structure-of-attention]]"
