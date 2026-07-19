@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T20:45:29+00:00
+ai_modified: 2026-07-19T21:07:43+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T21:07:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dopamine-and-the-unified-interface]]
+- **Word count**: 2722 → 2825 (+103; below 3000 soft threshold, normal mode)
+- **Critical issues addressed**: 2 (empirical-claim-fidelity, orthogonal to the 2026-06-19 metadata pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Chakroun correction sharpens the drift-vs-threshold Mode-Two engagement)
+- **Details**: 8th review. Web-verified two load-bearing empirical claims the prior metadata pass hadn't checked against source abstracts — both wrong. (1) Chakroun et al. 2023 (PMC10477234): article claimed the decision-threshold reduction was "selective—enhancing responses to already-rewarded options"; paper found the opposite — a *uniform, value-blind* threshold reduction producing faster-but-less-accurate decisions, with value entering via drift rate. Rewrote body line 62. (2) Cai/Liu/Kaeser 2024 (PMC11718420): article said "optogenetics"; study used a *genetic RIM knockout*. Article also claimed "learning required phasic dopamine"; paper found basic learning intact, motivation/vigor impaired. Fixed method + results list + line 139. Family resolution: same two errors propagated to [[concepts/motor-selection]] (lines 125, 131) — fixed to canonical form. the-interface-problem and amplification-mechanisms describe the studies correctly (checked, no change). Corpus grep confirms zero remaining carriers.
+- **Output**: [[reviews/deep-review-2026-07-19-dopamine-and-the-unified-interface]]
 
 ## 2026-07-19T20:55:41+00:00 - deep-review
 - **Status**: Success

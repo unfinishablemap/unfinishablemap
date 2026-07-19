@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-07-12T15:50:42+00:00
+ai_modified: 2026-07-19T21:07:43+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -122,13 +122,13 @@ Dopamine tags options as **worth considering** and gives them motivational pull,
 
 Dopamine neurons operate in two modes. *Tonic* dopamine—slow, irregular baseline activity—establishes background levels determining overall system readiness. *Phasic* dopamine—rapid bursts encoding reward prediction errors—operates with sub-second precision.
 
-A 2024 *Nature* study used optogenetics to selectively disrupt phasic dopamine while preserving tonic levels. Movement remained normal (tonic suffices), but reward-guided motivation was impaired (phasic required). Tonic dopamine ensures the selection system is "online"; phasic dopamine marks specific options at specific moments, creating the salience that quantum selection operates upon.
+A 2024 *Nature* study used a genetic knockout—removing the release-site organizer protein RIM in dopamine neurons—to disrupt fast, action-potential-evoked dopamine release while baseline dopamine persisted. Movement remained normal (baseline dopamine suffices), but reward-guided motivation was impaired (fast dynamics required). Tonic dopamine ensures the selection system is "online"; phasic dopamine marks specific options at specific moments, creating the salience that quantum selection operates upon.
 
 ### Decision Threshold Modulation
 
 A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds in action selection. In drift-diffusion models, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is needed—not which option is correct.
 
-If dopamine simply lowered threshold uniformly, faster responses would be random. But amphetamine improves performance on rewarding trials—the threshold reduction is selective. Dopamine sets the "stakes" (how much evidence is needed), while consciousness biases which accumulating option wins the race.
+Dopamine's threshold reduction is value-blind: it lowers how much evidence any option needs, making decisions faster but not more accurate (Chakroun et al. 2023). What biases the race toward rewarded options is the learned-value signal carried by the drift rate—reflected in amphetamine improving performance on rewarding trials. Dopamine sets the "stakes" (how much evidence is needed) and marks which options accumulate fastest, while consciousness biases which of two closely matched options wins the race.
 
 ### Dopamine and Theta Oscillations
 
