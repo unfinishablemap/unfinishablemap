@@ -28,7 +28,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/FzC__kleatA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 13:07:16+00:00
+last_deep_review: 2026-07-19 03:17:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

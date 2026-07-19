@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 20:40:55+00:00
+ai_modified: 2026-07-19 01:44:48+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'A human-AI examination of the quantum-suicide reductio: why the im
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 17:07:42+00:00
+last_deep_review: 2026-07-19 01:44:48+00:00
 modified: *id001
 related_articles:
 - '[[death-and-consciousness]]'
@@ -35,7 +35,7 @@ The quantum-suicide survival argument claims that on the Many-Worlds Interpretat
 
 The thought experiment adapts Schrödinger's cat, taken from the cat's point of view. An observer sits before a device that measures a quantum observable—say, the spin of a particle—and fires a lethal mechanism on one outcome, doing nothing on the other. The experiment repeats. On the strong reading of MWI, every measurement splits the world: in some branches the observer dies, in others they survive. Since the observer can never experience a branch in which they are dead, every branch they *do* experience is one in which they survived. Run the trials long enough and, from the inside, the observer finds themselves improbably, unendingly alive.
 
-The survival argument was stated independently by two authors in 1988. Hans Moravec gave the earliest published version in *Mind Children*, in a section called "The Doomsday Device": from the first-person perspective, "you never experience the branch in which you die," so a doomsday device is subjectively survivable (the underlying idea is sometimes dated to 1987; the book is 1988). Bruno Marchal reached a structurally identical conclusion the same year from computationalist premises—if consciousness is computable and all computations are realized, subjective experience persists across surviving continuations. The Map notes that Marchal's route presupposes a functionalist theory of mind that the Map's [dualism](/concepts/interactionist-dualism/) does not grant, so his version may import a further commitment beyond MWI.
+The survival argument was stated independently by two authors in 1988. Hans Moravec gave the earliest published version in *Mind Children*, in a section called "The Doomsday Device": from the first-person perspective, one never experiences the branch in which one dies, so a doomsday device is subjectively survivable (the underlying idea is sometimes dated to 1987; the book is 1988). Bruno Marchal reached a structurally identical conclusion the same year from computationalist premises—if consciousness is computable and all computations are realized, subjective experience persists across surviving continuations. The Map notes that Marchal's route presupposes a functionalist theory of mind that the Map's [dualism](/concepts/interactionist-dualism/) does not grant, so his version may import a further commitment beyond MWI.
 
 Max Tegmark gave the canonical formalization in his 1998 paper "The Interpretation of Quantum Mechanics: Many Worlds or Many Words?" He framed quantum suicide as a *gedanken* experiment that would, in principle and first-person only, distinguish MWI from genuine-collapse interpretations that are otherwise empirically equivalent. Crucially, Tegmark specified **three conditions** the setup must meet for the argument to bite:
 

@@ -22,7 +22,7 @@ description: What it feels like to decide when outcomes are unknowable—the ver
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-09 19:52:57+00:00
+last_deep_review: 2026-07-19 02:39:19+00:00
 modified: *id001
 related_articles:
 - '[[authentic-vs-inauthentic-choice]]'

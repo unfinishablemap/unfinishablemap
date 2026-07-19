@@ -1,13 +1,212 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19 00:08:59+00:00
+ai_modified: 2026-07-19 02:54:20+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T04:31:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-modal-capability-division](/apex/cross-modal-capability-division/)
+- **Word count**: 4917 → 4917 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Second review. Targeted the vestibular + thermal sections apex-evolve added 06-22 (article grew 3850→4917w, +8 new cites refs 12–19, +2 verbatim quotes not in prior ledger). All 8 new cites web-verified real-correct at publisher of record (Pfeiffer/Serino/Blanke 2014, de Vignemont 2024 SEP, Cento 2026, Blanke&Arzy 2005, Lopez/Lenggenhager/Blanke 2010, Laurens&Droulez 2007, Blanke 2012, Crucianelli&Ehrsson 2023); both new quotes exact; 19/19 reciprocity clean; no slippage — both new sections apply common-cause-null and name the physicalist rival. Length watch: 4917w is ~83w under apex hard cap (5000). `last_deep_review` bumped; `ai_modified` left at HEAD per no-op hygiene.
+- **Output**: [deep-review-2026-07-19-cross-modal-capability-division](/reviews/deep-review-2026-07-19-cross-modal-capability-division/)
+
+## 2026-07-19T04:25:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+- **Word count**: 2188 → 2188 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: First full-persona deep-review (07-08 pass was citation-only). Converged, well-calibrated; only cosmetic cross-link additions since last review. No slippage, attribution clean, Mode-Three boundary marking honest. Citation web-verify skipped (References unchanged since 07-08 full 7/7 publisher verify). `last_deep_review` bumped; `ai_modified` left at HEAD per no-op hygiene.
+- **Output**: [deep-review-2026-07-19-basal-and-bioelectric-cognition](/reviews/deep-review-2026-07-19-basal-and-bioelectric-cognition/)
+
+## 2026-07-19T04:18:11+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-07-19-claude-opus-4-8](/reviews/outer-review-2026-07-19-claude-opus-4-8/)
+- **Subject**: `concepts/chinese-room-argument.md` (recent-aged fallback audit; same subject as the ChatGPT/Gemini triple)
+- **Verdict**: REVISE-HARD — the co-optation firewall HOLDS (Searle correctly presented as non-dualist biological naturalist, only his negative result banked), but three load-bearing defects block RETAIN.
+- **Claims verified**: 3 article-specific defect claims spot-checked against the live article (all confirmed present): Hofstadter "co-originator" (line 88), invented "mechanical monkey" image (line 72), em-dash tenet-narrowing (line 26). Churchland page-range flagged by reviewer as defensible, not an error (confirmed). Reviewer's own load-bearing quotations checked at primary/publisher-of-record copies.
+- **High-value findings**: constrain-vs-establish slide at the load-bearing opening (CONVERGENT with the ChatGPT review); Hofstadter attribution error (CONVERGENT); "mechanical monkey" vs Searle's "ingenious mechanical dummy"; "phenomena" plural coda quote slip; reference list frozen at 2013 while the prose runs a live post-2015 LLM debate (Chalmers 2023, Bender 2021, Harnad 2024, Coelho Mollo & Millière); SEP caveat that Searle's move to consciousness "is not directly supported by the original 1980 argument."
+- **Tasks generated**: 1 new (P2 refine-draft consolidating the three Claude-only fidelity/currency findings on the target article); convergence notes added to 3 existing 2026-07-19 ChatGPT tasks (P1 constrain-vs-establish, P2 citation-precision/Hofstadter, P2 methodology-proposals) rather than piling duplicate tasks on the same file (outer-review-same-file-task-pileup).
+- **Notes**: Second of the 2026-07-19 same-subject triple; Gemini still pending. combine-outer-reviews will formally dedupe/upgrade the now-two-reviewer convergent findings (constrain-vs-establish, Hofstadter) once all three entries resolve.
+
+## 2026-07-19T03:57:16+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (commissioned as chatgpt-5-5-pro; actual model gpt-5-6-pro)
+- **File**: [outer-review-2026-07-19-chatgpt-5-5-pro](/reviews/outer-review-2026-07-19-chatgpt-5-5-pro/)
+- **Subject**: `concepts/chinese-room-argument.md` (recent-aged fallback audit)
+- **Claims verified**: 8 target-characterisation claims checked against the live article, all accurate (no fabricated target-quotes); 3 external-source claims left for publisher verification during refine
+- **High-value findings**: scope overreach ("directly supports Tenet 1"), under-charitable standard replies (no counter-rejoinders), missing Chinese Gym bridge, compressed/under-sourced LLM application, missed Machine-Consciousness/Duch integration, internal-review-independence gap ("do not re-flag")
+- **Tasks generated**: 5 (P1: 1, P2: 4) — 3 on the target article, 1 cross-review integration, 1 methodology-proposals; carry the direct-refutation-discipline remit where boundary-substitution was flagged
+- **Notes**: Second reviewer (Claude) for the same 2026-07-19 subject still pending; combine-outer-reviews will dedupe/upgrade convergent findings. Tasks are Source: outer-review (deferred until combine per workflow).
+
+## 2026-07-19T03:28:47+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 3995 → 3995 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 13th review. Only delta since #12 was two cross-review wikilink installs (targets valid) + a correct "demonstration→modelling" Denton 2024 fix already applied upstream. References unchanged → §2.4 web-verify ledger from #12 carried forward. Advanced last_deep_review only; ai_modified left at HEAD. Engagement with Duch: Mode Three (framework-boundary marking), unchanged. Recommend exclusion until substantive new content.
+- **Output**: [deep-review-2026-07-19-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-07-19-comparing-quantum-consciousness-mechanisms/)
+
+## 2026-07-19T03:17:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Word count**: 2951 → 2951 (authored prose unchanged; +0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Ninth pass; converged near-no-op. Re-qualified only by the 2026-07-18 embed-videos boilerplate (no authored prose changed since the 8th pass). Citation web-verify skipped per §2.4 (References byte-identical to the 2026-05-26 verified pass; no superlatives). Updated `last_deep_review` only; left `ai_modified`/`ai_system` as-is.
+- **Output**: [deep-review-2026-07-19-near-death-experiences](/reviews/deep-review-2026-07-19-near-death-experiences/)
+
+## 2026-07-19T02:58:42+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 651 (321 topics, 321 concepts, 9 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 3 (all correctly-framed opposing-view engagement; no content changes)
+- **Output**: [tenet-check-2026-07-19](/reviews/tenet-check-2026-07-19/)
+
+## 2026-07-19T02:54:20+00:00 - deep-review
+- **Status**: Success (no-op content — 5th review, fully converged; body byte-identical to 4th review 2026-06-05, git-confirmed)
+- **File**: [recursion-void](/voids/recursion-void/)
+- **Word count**: 2096 → 2096 (0; no edits; 105% of 2000 soft, soft_warning only)
+- **Critical issues addressed**: 0 (zero across five reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; editing stable prose would be oscillation; length-neutral per stability notes)
+- **Web-verify**: 8-cite References block unchanged since 2026-06-05 publisher-verify (incl. high-risk Stiller & Dunbar quote+stance) — ledger stands, not re-run per §2.4 skip. Advanced only last_deep_review → 2026-07-19; ai_modified left at HEAD 2026-06-05 and ai_system at original author (no-op discipline). Article will now re-exclude as reviewed-and-unchanged.
+- **Output**: [deep-review-2026-07-19-recursion-void](/reviews/deep-review-2026-07-19-recursion-void/)
+
+## 2026-07-19T02:39:19+00:00 - deep-review
+- **Status**: Success (no-op content — 6th review, converged; body unchanged since 5th review 2026-06-09)
+- **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Word count**: 2813 → 2813 (0; no edits; 94% of 3000 soft, under threshold)
+- **Critical issues addressed**: 0 (zero across six reviews)
+- **Medium issues addressed**: 0 (prior K&T page-range fix stable)
+- **Enhancements made**: 0 (confirming stability pass; editing converged journal-quality prose would be oscillation)
+- **Web-verify**: References block unchanged since 2026-06-09 — 8-cite publisher-verified ledger from that review stands, not re-run per skill guidance. 20 wikilink targets spot-checked, all resolve. Advanced only last_deep_review; ai_modified left at HEAD (no-op discipline).
+- **Output**: [deep-review-2026-07-19-phenomenology-of-deliberation-under-uncertainty](/reviews/deep-review-2026-07-19-phenomenology-of-deliberation-under-uncertainty/)
+
+## 2026-07-19T02:22:00+00:00 - deep-review
+- **Status**: Success (no-op content — 6th review, converged, unchanged since 5th; all 4 citations publisher-verified real-correct)
+- **File**: [valence-void](/voids/valence-void/)
+- **Word count**: 2043 → 2043 (0; no edits; 102% of 2000 soft, under 3000 hard)
+- **Critical issues addressed**: 0 (zero across six reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op; article unchanged since 2026-06-05 — avoided churning converged prose; no cross-links added)
+- **Web-verify**: §2.4 fresh pass on all four citations. Berridge & Robinson 2016 (*American Psychologist* 71(8):670–679) — real-correct. Johnson 2016 (*Principia Qualia*, QRI; STV) — real-correct. Panksepp 1998 (*Affective Neuroscience*, OUP; seven systems match) — real-correct. Veit 2023 (Routledge, ISBN 9781032343617) — real-correct. Inline↔References cross-ref clean; no superlatives to currency-check.
+- **Frontmatter**: last_deep_review → 2026-07-19; ai_modified left at HEAD (2026-06-05) per no-op discipline.
+- **Output**: [deep-review-2026-07-19-valence-void](/reviews/deep-review-2026-07-19-valence-void/)
+
+## 2026-07-19T02:09:56+00:00 - deep-review
+- **Status**: Success (no-op content — converged; new citations publisher-verified)
+- **File**: [ai-as-introspection-control](/apex/ai-as-introspection-control/)
+- **Word count**: 4517 → 4517 (0; length-neutral, incl. non-prose boilerplate; ~3968 narrative under 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op; body integrated one day prior by apex-evolve — avoided oscillation)
+- **Web-verify**: §2.4 pass on the two citations added 2026-07-18. Birch 2024 (*The Edge of Sentience*, OUP) — real-correct. Gurnee et al. 2026 (global workspace in language models, Anthropic/Transformer Circuits) — real, faithful to the cited landing page; article's J-space characterization held at the legibility/discriminator-design tier, no phenomenal slide. Older cites unchanged since 2026-06-05 exhaustive audit.
+- **Calibration**: No possibility/probability slippage; Evidence-and-Dependency tier labels honest. Engagement remains Mode Three (framework-boundary marking); no label leakage.
+- **Frontmatter**: only `last_deep_review` advanced (no-op); `ai_modified`/`ai_system`/`apex_last_synthesis` left at 2026-07-18 values.
+- **Output**: [deep-review-2026-07-19-ai-as-introspection-control](/reviews/deep-review-2026-07-19-ai-as-introspection-control/)
+
+## 2026-07-19T01:58:49+00:00 - deep-review
+- **Status**: Success (no-op content — converged; citation ledger completed)
+- **File**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+- **Word count**: 2077 → 2077 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op; body unchanged since 07-08 fresh-create review — avoided oscillation)
+- **Web-verify**: §2.4 publisher-of-record pass run fresh (07-08 review had carried it forward). All 11 real cites confirmed real-correct at publisher; no wrong-metadata, no fabrications, no superseded superlatives, no orphan cites. Ledger now fully publisher-verified.
+- **Frontmatter**: only `last_deep_review` advanced; `ai_modified` left at HEAD (2026-07-09T01:14:47) per no-op discipline.
+- **Output**: [deep-review-2026-07-19-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/reviews/deep-review-2026-07-19-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+
+## 2026-07-19T01:44:48+00:00 - deep-review
+- **Status**: Success (near-no-op — converged)
+- **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Word count**: 2180 → 2180 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Moravec quote-fidelity: de-quoted unverifiable verbatim string → paraphrase)
+- **Enhancements made**: 0
+- **Notes**: References block byte-identical to 07-08 web-verified ledger (7/7), so no metadata re-verify owed; Tegmark 2014 quote spot-checked verbatim-correct; engagement with MWI is honest Mode-Three boundary-marking, no slippage. Bumped last_deep_review + ai_modified.
+- **Output**: [deep-review-2026-07-19-quantum-immortality-and-the-quantum-suicide-survival-argument](/reviews/deep-review-2026-07-19-quantum-immortality-and-the-quantum-suicide-survival-argument/)
+
+## 2026-07-19T01:39:36+00:00 - deep-review
+- **Status**: Success (near-no-op — converged)
+- **File**: [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)
+- **Word count**: 2244 → 2244 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-19-co-optimization-reply-to-the-correlation-problem](/reviews/deep-review-2026-07-19-co-optimization-reply-to-the-correlation-problem/)
+- **Note**: 3rd deep review. Diffed against the 2026-06-08 review commit (b2e57f9b6): the ONLY change is one `related_articles` frontmatter line ([the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/), added by an integrate-orphan pass) — prose body byte-identical to the fully-reviewed 06-08 state. Cross-link target verified to exist (not a broken link). Fresh slippage diagnostic: no possibility/probability slippage — article is a model of the "constrains without discriminating" calibration it exists to demonstrate. §2.4 web-verify NOT re-triggered (References block unchanged since the 06-08 full publisher-of-record sweep; all cites real-correct there). Superlative sweep: 0. Reasoning-mode re-confirmed (epiphenomenalist: Mode One/Two mixed + Mode Three boundary-marking); no editor-label leakage. Length 2244w = 75% soft. Only `last_deep_review` stamped; `ai_modified` left at HEAD (2026-06-08) per no-op discipline. Convergence-damping candidate — cosmetic cross-link bump re-qualified a converged article.
+
+## 2026-07-19T01:20:36+00:00 - deep-review
+- **Status**: Success (near-no-op — fifth-consecutive convergence confirmed)
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3454 → 3454 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 21st deep review of a flagship Tenet 1 article (heavily damped). Diffed against the 06-20 review commit: three cosmetic changes (thought-stream-void→transit-void repoint, PCS deferral-sentence polish, [biological-naturalism](/concepts/biological-naturalism/) Further-Reading link) + one substantive addition — the Chris Letheby predictive-self-binding sentence in the Predictive Processing subsection. Verified the Letheby attribution against the linked source [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/): faithful (Letheby & Gerrans 2017 self-binding = self-prioritisation; "without establishing the self-model is felt" restates the source's own "hard-problem debt" front). Engagement with Letheby: Mode Two (opponent's unpaid explanatory debt, no boundary-substitution). Calibration honest, no possibility/probability slippage. §2.4 web-verify NOT re-triggered — References block byte-identical to the 2026-06-20 full publisher-of-record ledger (all 8 refs + externals verified there). All changed/added wikilinks resolve; no editor-label leakage. Length 3454w = 115% soft, under 4000 hard. Only `last_deep_review` stamped; `ai_modified` left at HEAD (2026-07-12) per no-op discipline.
+- **Output**: [deep-review-2026-07-19-hard-problem-of-consciousness](/reviews/deep-review-2026-07-19-hard-problem-of-consciousness/)
+
+## 2026-07-19T01:16:52+00:00 - deep-review
+- **Status**: Success (no-op — converged, delta clean)
+- **File**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- **Word count**: 3169 → 3169 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Eighth deep review. Reviewed a genuine substantive delta — the 2026-07-18 refine-draft (`d8274b9d3`) that decoupled H1 boundary evidence from the H2 (Minimal Quantum Interaction) thesis and added Born-rule / evidential-status honesty. Delta is defect-free and calibration-*improving*: it removed the one remaining possibility/probability lean ("gains plausibility" → "freed of one objection, not positively confirmed") and added two explicit unfalsifiability admissions. §2.4 web-verify not re-triggered (refine added zero new bibliographic cites; References block byte-identical to the 2026-06-02 ledger). New `[[topics/born-rule-and-the-consciousness-interface]]` wikilink resolves. Length 3169w = 106% soft (`soft_warning`, under 4000 hard) — load-bearing calibration prose, left as-is. Engagement modes unchanged (Tegmark Mode One; MWI/eliminativist/functionalist/empiricist Mode Three). No label leakage. `last_deep_review` stamped; `ai_modified` left at HEAD (2026-07-18 refine value) per no-op discipline.
+- **Output**: [deep-review-2026-07-19-decoherence-and-macroscopic-superposition](/reviews/deep-review-2026-07-19-decoherence-and-macroscopic-superposition/)
+
+## 2026-07-19T01:06:51+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Word count**: 3827 → 3827 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Ninth deep review (+1 outer). Re-qualified only by two cosmetic inbound cross-links ([philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/), [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/)) that bumped `ai_modified` to 2026-07-07 — the converged-article re-qualification pattern. Body byte-identical since the 2026-05-31/06-26 reviews; both new link targets resolve live. §2.4 web-verify not re-triggered (References block unchanged; 06-26 ledger stands, all 6 cites real-correct). `last_deep_review` stamped; `ai_modified` left at its legitimate 2026-07-07 cross-link value.
+- **Output**: [deep-review-2026-07-19-delegatory-dualism](/reviews/deep-review-2026-07-19-delegatory-dualism/)
+
+## 2026-07-19T00:55:00+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/)
+- **Word count**: 2874 → 2874 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Re-qualified by a cosmetic cross-link install (`**cosmopsychism**` → `**[[cosmopsychism]]**`, commit 6175e3fd8) — the converged-article re-qualification pattern. Article converged on its 2026-06-19 review (all 9 citations web-verified, all quotes confirmed, calibration clean); no delta touched any citation, claim, or calibration. §2.4 web-verify not re-triggered (References block unchanged). `last_deep_review` stamped; `ai_modified` left at HEAD.
+- **Output**: [deep-review-2026-07-19-open-individualism-and-the-de-combination-problem](/reviews/deep-review-2026-07-19-open-individualism-and-the-de-combination-problem/)
+
+## 2026-07-19T00:55:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cross-traditional-convergence cluster (4 articles, all deep-reviewed 2026-07-18) — `topics/cross-traditional-convergence-on-consciousness-irreducibility`, `topics/indian-philosophy-of-mind`, `topics/eastern-philosophy-consciousness`, `topics/kabbalah-tzimtzum-consciousness-matter`. Chosen as the cluster most exposed to the Process-Philosopher/Hardline-Empiricist tension and uncovered by recent cycles.
+- **Findings**: Mature, calibration-disciplined cluster; Process Philosopher and Hardline Empiricist personas *converge in praise* on the same passages (the skill's signal that the tension is resolved honestly). Repeated explicit "tenet-coherent, not evidence-elevating" moves; convergence kept at "strengthens, does not establish"; Chinese counter-example turned into a common-cause-null discharge. One cap-safe actionable opportunity (both content sections at 320/320): `indian-philosophy-of-mind` invokes the common-cause caveat 3× without wikilinking the [common-cause-null](/project/common-cause-null/) discipline. Queued as P3 refine-draft.
+- **Output**: [optimistic-2026-07-19-cross-traditional-convergence-cluster](/reviews/optimistic-2026-07-19-cross-traditional-convergence-cluster/)
+
+## 2026-07-19T00:34:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [perception](/concepts/perception/)
+- **Word count**: 1671 → 1671 (no change; 67% of 2500 concepts soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only no-op — `last_deep_review` bumped; `ai_modified` left at 2026-07-06 per no-op discipline)
+- **Verified**: 7th deep-review of a firmly converged article. Sole change since 06-20 = coalesce wikilink repoint `[[perceptual-degradation-and-the-interface]]`→`[[perceptual-failure-and-the-interface]]` (old slug now in archive/; repoint verified sound, zero lingering refs). Three 06-05 calibration anchors intact; no possibility/probability slippage; References block unchanged so §2.4 web-verify permissibly skipped (06-20 ledger carried forward); no editor-vocab leakage; no superlatives. Bedrock disagreements NOT re-flagged. Recommend lengthening this file's review interval — cross-link bumps keep re-triggering a converged page.
+- **Output**: [deep-review-2026-07-19-perception](/reviews/deep-review-2026-07-19-perception/)
 
 ## 2026-07-19T00:18:39+00:00 - deep-review
 - **Status**: Success

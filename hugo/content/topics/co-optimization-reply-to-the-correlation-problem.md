@@ -18,7 +18,7 @@ description: 'Physicalism''s strongest answer to why valence tracks fitness: neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-08 00:00:00+00:00
+last_deep_review: 2026-07-19 01:39:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

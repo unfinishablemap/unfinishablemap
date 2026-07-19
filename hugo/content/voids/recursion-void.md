@@ -17,7 +17,7 @@ description: Human+AI exploration of why metacognitive depth is bounded—consci
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 04:13:50+00:00
+last_deep_review: 2026-07-19 02:54:20+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

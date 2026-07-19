@@ -13,7 +13,7 @@ description: Levin's xenobots and bioelectric memory show sophisticated agency w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 12:01:04+00:00
+last_deep_review: 2026-07-19 04:25:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

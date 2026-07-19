@@ -38,7 +38,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/IqGtnt0-gz0
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 20:16:22+00:00
+last_deep_review: 2026-07-19 02:09:56+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'

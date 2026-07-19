@@ -23,7 +23,7 @@ description: Human and AI exploration of perception as consciousness encounterin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 11:04:50+00:00
+last_deep_review: 2026-07-19 00:34:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

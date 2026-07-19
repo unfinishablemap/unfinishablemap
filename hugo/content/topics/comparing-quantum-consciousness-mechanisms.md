@@ -23,7 +23,7 @@ description: Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's nu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 06:54:07+00:00
+last_deep_review: 2026-07-19 03:28:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
