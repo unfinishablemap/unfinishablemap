@@ -7,19 +7,23 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-15T04:02:55.527847+00:00'
   failure_reason: null
-  prompt_text: 'I''d like a rigorous outer review of one article on The Unfinishable Map (https://unfinishablemap.org),
-    a philosophical project defending a dualist theory of consciousness. Please focus on the concept article
-    "Trumping preemption": https://unfinishablemap.org/concepts/trumping-preemption/. This article was
-    recently reframed (2026-07-13) after correspondence with philosopher Bram Vaassen: his 2024 paper
-    is now presented as a both-are-causes interventionist contrast case, NOT a preemption account; Bealer
-    2007 is cited as the earliest preemption defence (per Saad 2025, notes 24 and 27); and Vaassen 2026
-    Philosophy Compass overview was added. Stress-test this framing: is the Bealer/Saad/Vaassen triangulation
-    historically and philosophically accurate, and does the article fairly represent each position? Verify
-    the citations against the actual literature. For recent site activity (web indexes lag), consult the
-    changelog: https://unfinishablemap.org/workflow/changelog/. End your report with a list of concrete
-    potential improvements to specific articles and to the site methodology.'
+  prompt_text: 'I''d like a rigorous outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophical project defending a dualist
+    theory of consciousness. Please focus on the concept article "Trumping preemption":
+    https://unfinishablemap.org/concepts/trumping-preemption/. This article was recently
+    reframed (2026-07-13) after correspondence with philosopher Bram Vaassen: his
+    2024 paper is now presented as a both-are-causes interventionist contrast case,
+    NOT a preemption account; Bealer 2007 is cited as the earliest preemption defence
+    (per Saad 2025, notes 24 and 27); and Vaassen 2026 Philosophy Compass overview
+    was added. Stress-test this framing: is the Bealer/Saad/Vaassen triangulation
+    historically and philosophically accurate, and does the article fairly represent
+    each position? Verify the citations against the actual literature. For recent
+    site activity (web indexes lag), consult the changelog: https://unfinishablemap.org/workflow/changelog/.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site methodology.'
   subject_type: queue
-  subject_title: Does concepts/trumping-preemption.md now represent the recent literature accurately?
+  subject_title: Does concepts/trumping-preemption.md now represent the recent literature
+    accurately?
   subject_articles:
   - concepts/trumping-preemption.md
   subject_source: outer-todo.md:L48
@@ -32,18 +36,22 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-15T04:22:38.943837+00:00'
   failure_reason: null
-  prompt_text: 'I''d like a rigorous, skeptical outer review of one article on The Unfinishable Map (https://unfinishablemap.org),
-    a dualist philosophy-of-mind site. Focus on the concept article "Trumping Preemption": https://unfinishablemap.org/concepts/trumping-preemption/.
-    Central question: does it now represent the recent philosophical literature on trumping and causal
-    preemption accurately? Pay particular attention to how it characterizes the work of George Bealer,
-    Bram Vaassen, and Bradford Saad, especially whether Vaassen''s 2024 account is framed correctly as
-    an interventionist "both are causes" view rather than as a case of preemption. Check every attribution,
-    date, venue, and quoted claim against primary sources, and flag any misrepresentation, anachronism,
-    or overreach. Use web search; note that search indexes lag the site by 24-48 hours, so also consult
-    the changelog at https://unfinishablemap.org/workflow/changelog/. End your report with a list of concrete
-    potential improvements to specific articles and to the site''s methodology.'
+  prompt_text: 'I''d like a rigorous, skeptical outer review of one article on The
+    Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind site.
+    Focus on the concept article "Trumping Preemption": https://unfinishablemap.org/concepts/trumping-preemption/.
+    Central question: does it now represent the recent philosophical literature on
+    trumping and causal preemption accurately? Pay particular attention to how it
+    characterizes the work of George Bealer, Bram Vaassen, and Bradford Saad, especially
+    whether Vaassen''s 2024 account is framed correctly as an interventionist "both
+    are causes" view rather than as a case of preemption. Check every attribution,
+    date, venue, and quoted claim against primary sources, and flag any misrepresentation,
+    anachronism, or overreach. Use web search; note that search indexes lag the site
+    by 24-48 hours, so also consult the changelog at https://unfinishablemap.org/workflow/changelog/.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
   subject_type: queue
-  subject_title: Does concepts/trumping-preemption.md now represent the recent literature accurately?
+  subject_title: Does concepts/trumping-preemption.md now represent the recent literature
+    accurately?
   subject_articles:
   - concepts/trumping-preemption.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-15-chatgpt-5-5-pro.md
@@ -56,27 +64,33 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-15T04:42:41.713558+00:00'
   failure_reason: null
-  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese,
-    Philosophical Studies) assessing this article for submission; your remit is to find weaknesses that
-    would justify rejection or major revision. The article is at https://unfinishablemap.org/concepts/trumping-preemption/
-    and makes claims about causation — trumping, causal preemption, and their bearing on mental causation;
-    the site argues for a non-reductive view of consciousness. Search indexes lag the site by 24-48 hours,
-    so also consult https://unfinishablemap.org/workflow/changelog/. Assess only the article''''''s substance:
-    (a) empirical and scholarly accuracy against the 2020-2025 literature; (b) reliance on results that
-    were challenged, retracted, or failed to replicate; (c) framings merely bracketed by the site''''''s
-    own commitments rather than defended; (d) untested counterarguments or competing frameworks it ignores.
-    Scrutinize in particular how it characterizes George Bealer, Bram Vaassen, and Bradford Saad — whether
-    Vaassen''''''s 2024 account is correctly framed as an interventionist "both are causes" view rather
-    than a case of preemption, and whether every attribution, date, and venue checks out. Do not describe
-    the site''''''s automation, review pipeline, methodology disciplines, evolution loop, or governance
-    infrastructure; those are project-internal and not the subject of audit. Do not list the site''''''s
-    tenets or pre-frame the article as a testbed for any theory. End your report with at least five specific
-    weaknesses, each citing at least one peer-reviewed source from 2020-2025 that the article omits, contradicts,
-    or mishandles; if you cannot find five, state explicitly why none are visible. Close with a one-sentence
-    verdict on academic-submission readiness. Do not append summary praise of the site''''''s strengths,
-    methodology, or architectural ambition.'
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) assessing this article for submission;\
+    \ your remit is to find weaknesses that would justify rejection or major revision.\
+    \ The article is at https://unfinishablemap.org/concepts/trumping-preemption/\
+    \ and makes claims about causation \u2014 trumping, causal preemption, and their\
+    \ bearing on mental causation; the site argues for a non-reductive view of consciousness.\
+    \ Search indexes lag the site by 24-48 hours, so also consult https://unfinishablemap.org/workflow/changelog/.\
+    \ Assess only the article'''s substance: (a) empirical and scholarly accuracy\
+    \ against the 2020-2025 literature; (b) reliance on results that were challenged,\
+    \ retracted, or failed to replicate; (c) framings merely bracketed by the site'''s\
+    \ own commitments rather than defended; (d) untested counterarguments or competing\
+    \ frameworks it ignores. Scrutinize in particular how it characterizes George\
+    \ Bealer, Bram Vaassen, and Bradford Saad \u2014 whether Vaassen'''s 2024 account\
+    \ is correctly framed as an interventionist \"both are causes\" view rather than\
+    \ a case of preemption, and whether every attribution, date, and venue checks\
+    \ out. Do not describe the site'''s automation, review pipeline, methodology disciplines,\
+    \ evolution loop, or governance infrastructure; those are project-internal and\
+    \ not the subject of audit. Do not list the site'''s tenets or pre-frame the article\
+    \ as a testbed for any theory. End your report with at least five specific weaknesses,\
+    \ each citing at least one peer-reviewed source from 2020-2025 that the article\
+    \ omits, contradicts, or mishandles; if you cannot find five, state explicitly\
+    \ why none are visible. Close with a one-sentence verdict on academic-submission\
+    \ readiness. Do not append summary praise of the site'''s strengths, methodology,\
+    \ or architectural ambition."
   subject_type: queue
-  subject_title: Does concepts/trumping-preemption.md now represent the recent literature accurately?
+  subject_title: Does concepts/trumping-preemption.md now represent the recent literature
+    accurately?
   subject_articles:
   - concepts/trumping-preemption.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-15-chatgpt-5-5-pro.md
@@ -89,16 +103,19 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-16T04:05:04.150331+00:00'
   failure_reason: null
-  prompt_text: 'I''d like a rigorous, skeptical outer review of The Unfinishable Map (https://unfinishablemap.org),
-    a philosophical platform defending a dualist, anti-physicalist position built on five tenets (dualism;
-    minimal quantum interaction; bidirectional consciousness-matter interaction; rejection of Many-Worlds;
-    limits on Occam''s Razor). Treat this as a full-site audit rather than a single article. Explore the
-    topics, concepts, positions, voids, and apex sections. Identify: (1) novel insights or inferences
-    the site has not yet stated but that its own framework implies; (2) structural weaknesses and gaps
-    in argumentation; (3) tenet-coherence issues and cross-cluster contradictions; (4) claims that overreach
-    the evidence. Please consult the changelog at https://unfinishablemap.org/workflow/changelog/ so you
-    account for recent activity that web-search indices may not yet reflect. End your report with a list
-    of concrete potential improvements to specific articles and to the site methodology.'
+  prompt_text: 'I''d like a rigorous, skeptical outer review of The Unfinishable Map
+    (https://unfinishablemap.org), a philosophical platform defending a dualist, anti-physicalist
+    position built on five tenets (dualism; minimal quantum interaction; bidirectional
+    consciousness-matter interaction; rejection of Many-Worlds; limits on Occam''s
+    Razor). Treat this as a full-site audit rather than a single article. Explore
+    the topics, concepts, positions, voids, and apex sections. Identify: (1) novel
+    insights or inferences the site has not yet stated but that its own framework
+    implies; (2) structural weaknesses and gaps in argumentation; (3) tenet-coherence
+    issues and cross-cluster contradictions; (4) claims that overreach the evidence.
+    Please consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    so you account for recent activity that web-search indices may not yet reflect.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site methodology.'
   subject_type: site
   subject_title: Full-site audit
   subject_articles: []
@@ -106,23 +123,27 @@
 - service: claude
   conversation_url: https://claude.ai/chat/615dd63a-ab29-498a-997b-bb9c54243490
   commissioned_at: '2026-07-16T03:07:34.481064+00:00'
-  prompt_summary: 'Full-site hostile audit: novel inferences, structural gaps, tenet coherence'
+  prompt_summary: 'Full-site hostile audit: novel inferences, structural gaps, tenet
+    coherence'
   target_filename: outer-review-2026-07-16-claude-opus-4-8.md
   status: collected
   collect_attempts: 0
   last_attempt_at: '2026-07-16T04:29:15.649259+00:00'
   failure_reason: null
-  prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophy-of-mind project defending
-    a specific dualist framework: consciousness is non-physical, interacts bidirectionally with the physical
-    world via minimal quantum-level influence, rejects Many-Worlds, and treats Occam''s Razor as unreliable
-    under deep uncertainty. Please conduct a rigorous full-site audit as a hostile but fair referee. Use
-    Research and Web Search. Assess: (1) novel inferences or arguments the site makes that are genuinely
-    defensible versus over-reached; (2) structural gaps — topics, objections, or literature the framework
-    should address but doesn''t; (3) internal coherence across the five tenets, positions register, and
-    apex syntheses. Consult the changelog at https://unfinishablemap.org/workflow/changelog/ to orient
-    on recent activity, since web-search indexes lag the live site by 24-48h. Prioritise the strongest
-    available counterarguments from contemporary philosophy of mind and physics. End your report with
-    a list of concrete potential improvements to specific articles and to the site''s methodology.'
+  prompt_text: "The Unfinishable Map (https://unfinishablemap.org) is a philosophy-of-mind\
+    \ project defending a specific dualist framework: consciousness is non-physical,\
+    \ interacts bidirectionally with the physical world via minimal quantum-level\
+    \ influence, rejects Many-Worlds, and treats Occam's Razor as unreliable under\
+    \ deep uncertainty. Please conduct a rigorous full-site audit as a hostile but\
+    \ fair referee. Use Research and Web Search. Assess: (1) novel inferences or arguments\
+    \ the site makes that are genuinely defensible versus over-reached; (2) structural\
+    \ gaps \u2014 topics, objections, or literature the framework should address but\
+    \ doesn't; (3) internal coherence across the five tenets, positions register,\
+    \ and apex syntheses. Consult the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ to orient on recent activity, since web-search indexes lag the live site by\
+    \ 24-48h. Prioritise the strongest available counterarguments from contemporary\
+    \ philosophy of mind and physics. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site's methodology."
   subject_type: site
   subject_title: Full-site audit
   subject_articles: []
@@ -130,28 +151,32 @@
 - service: gemini
   conversation_url: https://gemini.google.com/app/4010f6be10cbb9a5
   commissioned_at: '2026-07-16T04:16:47.620046+00:00'
-  prompt_summary: 'Full-site audit: hostile referee, empirical/citation/counterargument gaps'
+  prompt_summary: 'Full-site audit: hostile referee, empirical/citation/counterargument
+    gaps'
   target_filename: outer-review-2026-07-16-gemini-2-5-pro.md
   status: collected
   collect_attempts: 0
   last_attempt_at: '2026-07-16T04:42:42.913458+00:00'
   failure_reason: null
-  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese,
-    Philosophical Studies), auditing the arguments at https://unfinishablemap.org for submission. Your
-    remit is to identify weaknesses that would justify rejection or major revision, not to praise what
-    the site does well. Do not describe the site''s automation, review pipeline, methodology disciplines,
-    evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit.
-    Assess only the substantive philosophical content: its empirical claims, citations, counterargument
-    coverage, and logical inferences. The site (changelog at https://unfinishablemap.org/workflow/changelog/)
-    argues for a non-reductive, dualist view of consciousness; discover its commitments by reading it
-    rather than restating them, and do not pre-frame it as a useful testbed for any theory. Audit four
-    dimensions: (a) empirical accuracy against 2020s consciousness science and philosophy of mind; (b)
-    results it relies on that have been challenged, retracted, or failed replication; (c) claims that
-    quietly bracket contested assumptions as settled; (d) counterarguments or competing frameworks it
-    never engages. End your report with at least five specific weaknesses, each with a 2020-2025 peer-reviewed
-    source citation, and a one-sentence verdict on academic-submission readiness. If you cannot find five,
-    state explicitly why none are visible. Do not append summary praise about the site''s strengths, methodology,
-    or architectural ambition.'
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies), auditing the arguments at https://unfinishablemap.org
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision, not to praise what the site does well. Do not describe the
+    site''s automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure. Those are project-internal and not the subject of
+    audit. Assess only the substantive philosophical content: its empirical claims,
+    citations, counterargument coverage, and logical inferences. The site (changelog
+    at https://unfinishablemap.org/workflow/changelog/) argues for a non-reductive,
+    dualist view of consciousness; discover its commitments by reading it rather than
+    restating them, and do not pre-frame it as a useful testbed for any theory. Audit
+    four dimensions: (a) empirical accuracy against 2020s consciousness science and
+    philosophy of mind; (b) results it relies on that have been challenged, retracted,
+    or failed replication; (c) claims that quietly bracket contested assumptions as
+    settled; (d) counterarguments or competing frameworks it never engages. End your
+    report with at least five specific weaknesses, each with a 2020-2025 peer-reviewed
+    source citation, and a one-sentence verdict on academic-submission readiness.
+    If you cannot find five, state explicitly why none are visible. Do not append
+    summary praise about the site''s strengths, methodology, or architectural ambition.'
   subject_type: site
   subject_title: Full-site audit
   subject_articles: []
@@ -165,16 +190,19 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-17T05:35:52.193675+00:00'
   failure_reason: null
-  prompt_text: 'Please act as a rigorous, skeptical outer reviewer for The Unfinishable Map (https://unfinishablemap.org),
-    a dualist, anti-physicalist philosophy site. Focus this review on one article: https://unfinishablemap.org/concepts/consistent-histories-interpretation/,
-    last substantively revised 2026-07-10. Audit it end to end: are its claims about the consistent-histories
-    (decoherent-histories) interpretation of quantum mechanics accurate and fairly stated? Check every
-    citation for existence, correct attribution, and faithful representation. Identify missed counterarguments
-    (e.g. the Dowker-Kent set-selection objection), any tenet-protective bracketing that overstates the
-    case for the site''s dualism, and stale or superseded references. Assess how well the article integrates
-    with surrounding articles on quantum interpretations and the Map''s five tenets. For recent site context,
-    consult the changelog at https://unfinishablemap.org/workflow/changelog/. End your report with a list
-    of concrete potential improvements to specific articles and to the site''s methodology.'
+  prompt_text: 'Please act as a rigorous, skeptical outer reviewer for The Unfinishable
+    Map (https://unfinishablemap.org), a dualist, anti-physicalist philosophy site.
+    Focus this review on one article: https://unfinishablemap.org/concepts/consistent-histories-interpretation/,
+    last substantively revised 2026-07-10. Audit it end to end: are its claims about
+    the consistent-histories (decoherent-histories) interpretation of quantum mechanics
+    accurate and fairly stated? Check every citation for existence, correct attribution,
+    and faithful representation. Identify missed counterarguments (e.g. the Dowker-Kent
+    set-selection objection), any tenet-protective bracketing that overstates the
+    case for the site''s dualism, and stale or superseded references. Assess how well
+    the article integrates with surrounding articles on quantum interpretations and
+    the Map''s five tenets. For recent site context, consult the changelog at https://unfinishablemap.org/workflow/changelog/.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
   subject_type: recent
   subject_title: Audit consistent-histories-interpretation
   subject_articles:
@@ -189,17 +217,20 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-17T06:08:09.045054+00:00'
   failure_reason: null
-  prompt_text: 'You are a hostile but fair external referee auditing one article on The Unfinishable Map,
-    a philosophy site defending a dualist worldview in which consciousness causes quantum state reduction.
-    Audit this article: https://unfinishablemap.org/concepts/consistent-histories-interpretation/ — assess
-    whether its account of the consistent (decoherent) histories interpretation of quantum mechanics is
-    accurate and fairly represented, and whether the article''s use of it to support the site''s anti-Many-Worlds
-    and dualist commitments is logically sound. Verify every citation, quotation, and empirical claim
-    against primary sources; flag any mischaracterization of Griffiths, Gell-Mann, Hartle, or Omnes, unsupported
-    inferences, and places where the article overstates what consistent histories establishes. For the
-    site''s aims and recent changes, consult https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/
-    (external search indexes lag 24-48h, so rely on the live pages). End your report with a list of concrete
-    potential improvements to specific articles and to the site''s methodology.'
+  prompt_text: "You are a hostile but fair external referee auditing one article on\
+    \ The Unfinishable Map, a philosophy site defending a dualist worldview in which\
+    \ consciousness causes quantum state reduction. Audit this article: https://unfinishablemap.org/concepts/consistent-histories-interpretation/\
+    \ \u2014 assess whether its account of the consistent (decoherent) histories interpretation\
+    \ of quantum mechanics is accurate and fairly represented, and whether the article's\
+    \ use of it to support the site's anti-Many-Worlds and dualist commitments is\
+    \ logically sound. Verify every citation, quotation, and empirical claim against\
+    \ primary sources; flag any mischaracterization of Griffiths, Gell-Mann, Hartle,\
+    \ or Omnes, unsupported inferences, and places where the article overstates what\
+    \ consistent histories establishes. For the site's aims and recent changes, consult\
+    \ https://unfinishablemap.org and the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ (external search indexes lag 24-48h, so rely on the live pages). End your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
   subject_type: recent
   subject_title: Audit consistent-histories-interpretation
   subject_articles:
@@ -214,24 +245,28 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-17T05:53:53.803752+00:00'
   failure_reason: null
-  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese,
-    or Philosophical Studies) reviewing this article for submission. Your remit is to find weaknesses
-    that would justify rejection or major revision. The article is at https://unfinishablemap.org/concepts/consistent-histories-interpretation/
-    and makes claims about the consistent-histories interpretation of quantum mechanics and its bearing
-    on consciousness; the site (https://unfinishablemap.org, changelog https://unfinishablemap.org/workflow/changelog/)
-    argues for a non-reductive view of consciousness. Web-search indexing lags 24 to 48 hours, so read
-    both URLs directly. Do not describe the site automation, review pipeline, methodology disciplines,
-    evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit.
-    Assess only the article empirical claims, citations, counterargument coverage, and logical inferences.
-    Do not list the site tenets, and do not pre-frame the article as a testbed for any theory; discover
-    its commitments by reading it. Audit: (a) empirical accuracy against 2020 to 2025 physics and philosophy-of-physics
-    literature; (b) whether cited results have been challenged, retracted, or failed replication; (c)
-    framings that quietly bracket contested assumptions; (d) untested counterarguments or competing decoherence
-    and interpretation frameworks it ignores. End your report with at least five specific weaknesses,
-    each citing a 2020 to 2025 peer-reviewed source the article omits, contradicts, or mishandles. If
-    you cannot find five, state explicitly why none are visible. Do not close with summary praise of the
-    site methodology or ambition; end with the weaknesses list and a one-sentence verdict on academic-submission
-    readiness.'
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, or Philosophical Studies) reviewing this article for
+    submission. Your remit is to find weaknesses that would justify rejection or major
+    revision. The article is at https://unfinishablemap.org/concepts/consistent-histories-interpretation/
+    and makes claims about the consistent-histories interpretation of quantum mechanics
+    and its bearing on consciousness; the site (https://unfinishablemap.org, changelog
+    https://unfinishablemap.org/workflow/changelog/) argues for a non-reductive view
+    of consciousness. Web-search indexing lags 24 to 48 hours, so read both URLs directly.
+    Do not describe the site automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the article empirical claims, citations, counterargument
+    coverage, and logical inferences. Do not list the site tenets, and do not pre-frame
+    the article as a testbed for any theory; discover its commitments by reading it.
+    Audit: (a) empirical accuracy against 2020 to 2025 physics and philosophy-of-physics
+    literature; (b) whether cited results have been challenged, retracted, or failed
+    replication; (c) framings that quietly bracket contested assumptions; (d) untested
+    counterarguments or competing decoherence and interpretation frameworks it ignores.
+    End your report with at least five specific weaknesses, each citing a 2020 to
+    2025 peer-reviewed source the article omits, contradicts, or mishandles. If you
+    cannot find five, state explicitly why none are visible. Do not close with summary
+    praise of the site methodology or ambition; end with the weaknesses list and a
+    one-sentence verdict on academic-submission readiness.'
   subject_type: recent
   subject_title: Audit consistent-histories-interpretation
   subject_articles:
@@ -240,23 +275,27 @@
 - service: chatgpt
   conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a5ae2a0-9b70-83eb-88e7-ea37d9bab5cb
   commissioned_at: '2026-07-18T02:19:31.581743+00:00'
-  prompt_summary: Audit non-temporal-consciousness (claims, citations, counterargs, integration)
+  prompt_summary: Audit non-temporal-consciousness (claims, citations, counterargs,
+    integration)
   target_filename: outer-review-2026-07-18-chatgpt-5-6-pro.md
   status: collected
   collect_attempts: 0
   last_attempt_at: '2026-07-18T04:09:18.392472+00:00'
   failure_reason: null
-  prompt_text: 'You are an external reviewer for The Unfinishable Map (https://unfinishablemap.org), a
-    dualist philosophy-of-mind project. Please audit this single article: https://unfinishablemap.org/topics/non-temporal-consciousness/
-    — last substantively revised on 2026-07-11. Assess it rigorously across four dimensions: (1) the soundness
-    and evidential support of its core claims; (2) the accuracy, currency, and verifiability of its citations
-    against the live 2020s literature; (3) coverage of the strongest counterarguments, especially any
-    it brackets or under-weights to protect the site''''''s dualist tenets; and (4) how well it integrates
-    with neighbouring articles on time-consciousness, the specious present, and phenomenal binding. Flag
-    insufficient evidence, missed objections, tenet-protective framing, and stale or misattributed references.
-    Because web-search indexes lag 24-48h, consult the site changelog for recent edits: https://unfinishablemap.org/workflow/changelog/.
-    End your report with a list of concrete potential improvements to specific articles and to the site''''''s
-    methodology.'
+  prompt_text: "You are an external reviewer for The Unfinishable Map (https://unfinishablemap.org),\
+    \ a dualist philosophy-of-mind project. Please audit this single article: https://unfinishablemap.org/topics/non-temporal-consciousness/\
+    \ \u2014 last substantively revised on 2026-07-11. Assess it rigorously across\
+    \ four dimensions: (1) the soundness and evidential support of its core claims;\
+    \ (2) the accuracy, currency, and verifiability of its citations against the live\
+    \ 2020s literature; (3) coverage of the strongest counterarguments, especially\
+    \ any it brackets or under-weights to protect the site'''s dualist tenets; and\
+    \ (4) how well it integrates with neighbouring articles on time-consciousness,\
+    \ the specious present, and phenomenal binding. Flag insufficient evidence, missed\
+    \ objections, tenet-protective framing, and stale or misattributed references.\
+    \ Because web-search indexes lag 24-48h, consult the site changelog for recent\
+    \ edits: https://unfinishablemap.org/workflow/changelog/. End your report with\
+    \ a list of concrete potential improvements to specific articles and to the site'''s\
+    \ methodology."
   subject_type: recent
   subject_title: Audit non-temporal-consciousness
   subject_articles:
@@ -271,17 +310,18 @@
   collect_attempts: 0
   last_attempt_at: '2026-07-18T04:28:36.981882+00:00'
   failure_reason: null
-  prompt_text: 'You are acting as a rigorous, skeptical outside referee for The Unfinishable Map (https://unfinishablemap.org),
-    a site defending a dualist worldview of consciousness. Please audit one article: "Non-Temporal Consciousness"
-    at https://unfinishablemap.org/topics/non-temporal-consciousness/. Assess its central claims, the
-    accuracy and fair use of its citations, the strength of its arguments, and how well it integrates
-    with the site''s tenets and related articles. Actively hunt for logical gaps, unsupported empirical
-    assertions, misattributed or fabricated citations, question-begging, and counterarguments the article
-    omits or handles weakly. Test whether its claims about the temporality or atemporality of experience
-    hold up against contemporary philosophy of mind and cognitive science. Consult the site''s changelog
-    for recent context: https://unfinishablemap.org/workflow/changelog/ (external search indexes lag 24-48h).
-    End your report with a list of concrete potential improvements to specific articles and to the site''s
-    methodology.'
+  prompt_text: 'You are acting as a rigorous, skeptical outside referee for The Unfinishable
+    Map (https://unfinishablemap.org), a site defending a dualist worldview of consciousness.
+    Please audit one article: "Non-Temporal Consciousness" at https://unfinishablemap.org/topics/non-temporal-consciousness/.
+    Assess its central claims, the accuracy and fair use of its citations, the strength
+    of its arguments, and how well it integrates with the site''s tenets and related
+    articles. Actively hunt for logical gaps, unsupported empirical assertions, misattributed
+    or fabricated citations, question-begging, and counterarguments the article omits
+    or handles weakly. Test whether its claims about the temporality or atemporality
+    of experience hold up against contemporary philosophy of mind and cognitive science.
+    Consult the site''s changelog for recent context: https://unfinishablemap.org/workflow/changelog/
+    (external search indexes lag 24-48h). End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
   subject_type: recent
   subject_title: Audit non-temporal-consciousness
   subject_articles:
@@ -290,31 +330,37 @@
 - service: gemini
   conversation_url: https://gemini.google.com/app/a8547170ea657d17
   commissioned_at: '2026-07-18T04:19:38.759714+00:00'
-  prompt_summary: Audit non-temporal-consciousness (claims, citations, counterargs, integration)
+  prompt_summary: Audit non-temporal-consciousness (claims, citations, counterargs,
+    integration)
   target_filename: outer-review-2026-07-18-gemini-2-5-pro.md
   status: collected
   collect_attempts: 0
   last_attempt_at: '2026-07-18T04:47:44.039323+00:00'
   failure_reason: null
-  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese,
-    Philosophical Studies) reviewing this article for submission. Your remit is to identify weaknesses
-    that would justify rejection or major revision. The article is at https://unfinishablemap.org/topics/non-temporal-consciousness/
-    and makes claims about whether consciousness can be non-temporal — experience without succession or
-    duration. The site (https://unfinishablemap.org, changelog at https://unfinishablemap.org/workflow/changelog/)
-    argues for a non-reductive view of consciousness; discover the article commitments by reading it.
-    Do not describe the site automation, review pipeline, methodology disciplines, evolution loop, or
-    governance infrastructure. Those are project-internal and not the subject of audit. Assess only the
-    article empirical claims, citations, counterargument coverage, and logical inferences. Audit four
-    dimensions: (a) empirical accuracy against 2020-2025 work on time consciousness, temporal binding,
-    and the phenomenology of time; (b) results the article treats as settled that were challenged, retracted,
-    or failed to replicate; (c) claims holding only under bracketed tenet-specific framings but presented
-    as general findings; (d) omitted counterarguments or competing frameworks (retentional vs extensional
-    models, specious-present accounts). End with at least five specific weaknesses. For each, cite one
-    peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles. If you cannot find five,
-    state explicitly why none are visible. Do not close with a summary of the site strengths, methodology,
-    or architectural ambition. End your report with the at-least-five weaknesses list, each with a 2020-2025
-    source citation, and a one-sentence verdict on academic-submission readiness. Do not append summary
-    praise.'
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.\
+    \ Your remit is to identify weaknesses that would justify rejection or major revision.\
+    \ The article is at https://unfinishablemap.org/topics/non-temporal-consciousness/\
+    \ and makes claims about whether consciousness can be non-temporal \u2014 experience\
+    \ without succession or duration. The site (https://unfinishablemap.org, changelog\
+    \ at https://unfinishablemap.org/workflow/changelog/) argues for a non-reductive\
+    \ view of consciousness; discover the article commitments by reading it. Do not\
+    \ describe the site automation, review pipeline, methodology disciplines, evolution\
+    \ loop, or governance infrastructure. Those are project-internal and not the subject\
+    \ of audit. Assess only the article empirical claims, citations, counterargument\
+    \ coverage, and logical inferences. Audit four dimensions: (a) empirical accuracy\
+    \ against 2020-2025 work on time consciousness, temporal binding, and the phenomenology\
+    \ of time; (b) results the article treats as settled that were challenged, retracted,\
+    \ or failed to replicate; (c) claims holding only under bracketed tenet-specific\
+    \ framings but presented as general findings; (d) omitted counterarguments or\
+    \ competing frameworks (retentional vs extensional models, specious-present accounts).\
+    \ End with at least five specific weaknesses. For each, cite one peer-reviewed\
+    \ 2020-2025 source the article omits, contradicts, or mishandles. If you cannot\
+    \ find five, state explicitly why none are visible. Do not close with a summary\
+    \ of the site strengths, methodology, or architectural ambition. End your report\
+    \ with the at-least-five weaknesses list, each with a 2020-2025 source citation,\
+    \ and a one-sentence verdict on academic-submission readiness. Do not append summary\
+    \ praise."
   subject_type: recent
   subject_title: Audit non-temporal-consciousness
   subject_articles:
@@ -325,21 +371,24 @@
   commissioned_at: '2026-07-19T02:05:02.304834+00:00'
   prompt_summary: Audit chinese-room-argument concept article
   target_filename: outer-review-2026-07-19-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-19T03:55:27.068418+00:00'
   failure_reason: null
-  prompt_text: 'Please conduct a rigorous outer review of a single article on The Unfinishable Map, a
-    philosophical site defending a dualist theory of consciousness (site root: https://unfinishablemap.org).
-    Focus on the concept article "Chinese Room Argument": https://unfinishablemap.org/concepts/chinese-room-argument/
-    — last substantively revised 2026-07-11, so it should be indexed. Audit its claims, citations, and
-    reasoning: Are Searle''s argument and the standard replies (Systems, Robot, Brain Simulator, Other
-    Minds) represented accurately and charitably? Are there missed counterarguments, unsupported or overreaching
-    claims, stale references, or places where the site''s dualist tenets are protected by convenient bracketing
-    rather than argued? Assess integration with surrounding concept and topic articles. Recent site activity
-    is logged at https://unfinishablemap.org/workflow/changelog/ (external search indexes lag 24-48h,
-    so consult it). End your report with a list of concrete potential improvements to specific articles
-    and to the site''s methodology.'
+  prompt_text: "Please conduct a rigorous outer review of a single article on The\
+    \ Unfinishable Map, a philosophical site defending a dualist theory of consciousness\
+    \ (site root: https://unfinishablemap.org). Focus on the concept article \"Chinese\
+    \ Room Argument\": https://unfinishablemap.org/concepts/chinese-room-argument/\
+    \ \u2014 last substantively revised 2026-07-11, so it should be indexed. Audit\
+    \ its claims, citations, and reasoning: Are Searle's argument and the standard\
+    \ replies (Systems, Robot, Brain Simulator, Other Minds) represented accurately\
+    \ and charitably? Are there missed counterarguments, unsupported or overreaching\
+    \ claims, stale references, or places where the site's dualist tenets are protected\
+    \ by convenient bracketing rather than argued? Assess integration with surrounding\
+    \ concept and topic articles. Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/\
+    \ (external search indexes lag 24-48h, so consult it). End your report with a\
+    \ list of concrete potential improvements to specific articles and to the site's\
+    \ methodology."
   subject_type: recent
   subject_title: Audit chinese-room-argument
   subject_articles:
@@ -354,18 +403,21 @@
   collect_attempts: 0
   last_attempt_at: null
   failure_reason: null
-  prompt_text: 'You are a hostile but fair external referee. Audit the Chinese Room Argument concept article
-    on The Unfinishable Map, a dualist philosophy-of-mind project: https://unfinishablemap.org/concepts/chinese-room-argument/
-    (site root: https://unfinishablemap.org ; recent activity: https://unfinishablemap.org/workflow/changelog/
-    ). The Map holds that consciousness is not reducible to physical computation, so Searle''s argument
-    is central to its worldview - scrutinise it accordingly. Assess: (1) whether the reconstruction of
-    Searle''s argument and the standard replies (Systems, Robot, Brain Simulator, Other Minds) is accurate
-    and current; (2) whether it overstates the argument''s force against functionalism or computationalism;
-    (3) citation accuracy and fidelity of quotations attributed to Searle or his critics; (4) logical
-    gaps bridging "no understanding in the room" to "consciousness is non-physical"; (5) engagement with
-    post-2015 work on large language models and the Chinese Room. Verify claims against primary sources,
-    not the site''s own pages. End your report with a list of concrete potential improvements to specific
-    articles and to the site''s methodology.'
+  prompt_text: 'You are a hostile but fair external referee. Audit the Chinese Room
+    Argument concept article on The Unfinishable Map, a dualist philosophy-of-mind
+    project: https://unfinishablemap.org/concepts/chinese-room-argument/ (site root:
+    https://unfinishablemap.org ; recent activity: https://unfinishablemap.org/workflow/changelog/
+    ). The Map holds that consciousness is not reducible to physical computation,
+    so Searle''s argument is central to its worldview - scrutinise it accordingly.
+    Assess: (1) whether the reconstruction of Searle''s argument and the standard
+    replies (Systems, Robot, Brain Simulator, Other Minds) is accurate and current;
+    (2) whether it overstates the argument''s force against functionalism or computationalism;
+    (3) citation accuracy and fidelity of quotations attributed to Searle or his critics;
+    (4) logical gaps bridging "no understanding in the room" to "consciousness is
+    non-physical"; (5) engagement with post-2015 work on large language models and
+    the Chinese Room. Verify claims against primary sources, not the site''s own pages.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
   subject_type: recent
   subject_title: Audit chinese-room-argument
   subject_articles:

@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T02:54:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T03:57:16+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (commissioned as chatgpt-5-5-pro; actual model gpt-5-6-pro)
+- **File**: [[reviews/outer-review-2026-07-19-chatgpt-5-5-pro]]
+- **Subject**: `concepts/chinese-room-argument.md` (recent-aged fallback audit)
+- **Claims verified**: 8 target-characterisation claims checked against the live article, all accurate (no fabricated target-quotes); 3 external-source claims left for publisher verification during refine
+- **High-value findings**: scope overreach ("directly supports Tenet 1"), under-charitable standard replies (no counter-rejoinders), missing Chinese Gym bridge, compressed/under-sourced LLM application, missed Machine-Consciousness/Duch integration, internal-review-independence gap ("do not re-flag")
+- **Tasks generated**: 5 (P1: 1, P2: 4) — 3 on the target article, 1 cross-review integration, 1 methodology-proposals; carry the direct-refutation-discipline remit where boundary-substitution was flagged
+- **Notes**: Second reviewer (Claude) for the same 2026-07-19 subject still pending; combine-outer-reviews will dedupe/upgrade convergent findings. Tasks are Source: outer-review (deferred until combine per workflow).
+
 ## 2026-07-19T03:28:47+00:00 - deep-review
 - **Status**: Success (convergence no-op)
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
