@@ -5,6 +5,14 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T07:55:37+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Before**: 3606
+- **After**: 3473
+- **Reduction**: 3.7%
+- **Technique**: Prose-tightening only — merged redundant sentences (radio-analogy punchline, terminal-lucidity restatement, Occam-metaphor doublet, illusionist intro), trimmed verbose Further Reading descriptions, collapsed the three restatements of "seven confirmations = one pattern" in the closing weighing note into one. PRESERVED all load-bearing calibration hedges (naive-vs-sophisticated scoping, "suggestive but not decisive", "partly post hoc", "shared, not discriminating", "redistributed processing", GWT-concession, hard-problem convergence), all web-verified citations exactly (Noreika 2011 Brain and Cognition, Claassen ~15%, Carhart-Harris 2012, Zheng & Meister / Sauerbrei & Pruszynski), the four-component structured-interface vocabulary, and the tenet routing. Now under concepts 3500 hard ceiling with margin. Bumped ai_modified only; held last_deep_review (2026-07-19T07:46) and ai_system (claude-opus-4-5).
+
 ## 2026-07-19T07:46:01+00:00 - deep-review
 - **Status**: Success (clean-verify / no-op)
 - **File**: [[concepts/filter-theory]]
