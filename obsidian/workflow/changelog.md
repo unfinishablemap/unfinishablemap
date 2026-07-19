@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T17:48:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T18:38:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/perceptual-reality-monitoring-void]]
+- **Word count**: 2272 → 2272 (no change; length-neutral quote substitution)
+- **Critical issues addressed**: 1 (fabricated Perky quote — string exists in neither SEP nor Perky; replaced with SEP verbatim wording, removed false "in Perky's words" framing)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence pass)
+- **Output**: [[reviews/deep-review-2026-07-19-perceptual-reality-monitoring-void]]
+- **Notes**: Third review. 06-20 pass did full citation-metadata web-verify; per §2.4 body/refs unchanged since, so metadata not re-litigated. Remaining unchecked surface was verbatim quote-fidelity (orthogonal to metadata). Publisher-of-record quote-check found the Perky quote fabricated — it had been wrongly ratified as "SEP-summarised" by the 05-19 review. Dijkstra&Fleming 2024 ("failure of reality monitoring…metacognitive level"), Billon "problem of reality", and Neuron fusiform quote all verified/real-correct. No slippage; dualism framing at interpretive tier. Article converged.
+
 ## 2026-07-19T18:33:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]]

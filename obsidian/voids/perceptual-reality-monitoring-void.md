@@ -4,8 +4,8 @@ description: "Human+AI exploration of the structural opacity around the operatio
 created: 2026-05-18
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-20T03:34:51+00:00
-last_deep_review: 2026-06-20T03:34:51+00:00
+ai_modified: 2026-07-19T18:38:12+00:00
+last_deep_review: 2026-07-19T18:38:12+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -47,7 +47,7 @@ Three converging empirical signatures make the void inescapable rather than mere
 
 ### The Perky Face
 
-In 1910, Cheves Perky asked subjects to fixate a point and visualise objects while, unbeknownst to them, a faint patch of coloured light was back-projected onto the same point. Subjects mistook the projected image for their own mental imagery, sometimes describing details that came from the projection — taking, in Perky's words, "the experimenter's slightly visible illuminated patch to be a product of their own imagination" (Perky 1910, as summarised in the *Stanford Encyclopedia of Philosophy* entry on mental imagery).
+In 1910, Cheves Perky asked subjects to fixate a point and visualise objects while, unbeknownst to them, a faint patch of coloured light was back-projected onto the same point. Subjects mistook the projected image for their own mental imagery, sometimes describing details that came from the projection — taking "what they 'saw' on the screen to be entirely the products of their imagination" (Perky 1910, as summarised in the *Stanford Encyclopedia of Philosophy* entry on mental imagery).
 
 Segal and Fusella's 1970 replication added two findings. The effect required relaxation induction — earlier replications had failed because subjects spontaneously noticed the projected stimulus, so the void requires a specific epistemic posture to manifest. The crossover was also modality-specific: visual imagery selectively impaired visual detection, auditory imagery selectively impaired auditory detection. The confusion is substrate-locked, not abstract.
 
