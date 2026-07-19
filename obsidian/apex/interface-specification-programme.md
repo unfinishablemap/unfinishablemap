@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-15
 last_curated: null
-last_deep_review: 2026-06-22T19:40:57+00:00
+last_deep_review: 2026-07-19T11:12:18+00:00
 
 apex_sources:
   - topics/the-psychophysical-control-law

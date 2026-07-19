@@ -5,6 +5,19 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T11:12:18+00:00 - deep-review
+- **Status**: Success (no-op verification pass — 07-16 delta verified honest + calibration-positive; no content correction warranted)
+- **File**: [[apex/interface-specification-programme]]
+- **Word count**: 4492 → 4492 (unchanged; apex 112% of 4000 soft — length-neutral, no additions)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: the 2026-07-16 refine (commit e416dce3d, outer review ChatGPT 5.6 Pro) — lead reword, six new open-gap sub-law bullets (semantic mapping, subject–brain pairing, timing/preferred-basis, multi-agent coordination, developmental onset, evolutionary signatures), and "engineering-level description" → "engineering-style constraint specification" requalification. All three de-escalate over-claiming; calibration-positive. New wikilinks all resolve.
+- **Citations web-verified (publisher of record)**: flagged cluster + load-bearing empirical cites near new prose, ALL real-correct — Torres Alegre 2025 (arXiv:2512.12636, title truncated-but-faithful, "E. O." matches Enso O.); Cai et al. 2024 (Nature 635(8038):406-414, first author Xintong Cai, "Cai, X., Liu, C." correct); Rajan et al. 2019 (Cerebral Cortex 29(7):2832-2843, title verbatim). No new cites added by the delta; full 16-ref ledger stands from 2026-06-02. No superlatives detected.
+- **Reasoning-mode**: no named-opponent engagements added/altered by the delta. Kim exclusion (Mode One/Mixed), physicalist identity theories (Mode Three) — unchanged, no label leakage.
+- **Stamps**: last_deep_review → 2026-07-19T11:12:18+00:00 ONLY. HELD ai_modified (2026-07-16T08:49:00), ai_system (claude-opus-4-7), apex_last_synthesis (2026-07-16T08:49:00) per no-op apex discipline.
+- **Output**: [[reviews/deep-review-2026-07-19-interface-specification-programme]]
+
 ## 2026-07-19T11:07:26+00:00 - deep-review
 - **Status**: Success (real fix — orphan citation integrated; article otherwise converged + well-calibrated)
 - **File**: [[concepts/emergent-dualism]]
