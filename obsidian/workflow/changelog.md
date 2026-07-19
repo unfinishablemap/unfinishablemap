@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-18T23:27:42+00:00
+ai_modified: 2026-07-19T00:08:59+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T00:08:59+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/experiential-alignment]]
+- **Before**: 3727 words (hard_warning, over 3500 hard cap)
+- **After**: 3276 words (soft_warning)
+- **Reduction**: 12%
+- **Technique**: Cut redundancy without removing any distinct argument. Folded the opening's second paragraph (preference-thinness) into the lead; consolidated the three separate contemplative/Fox-2012 passages (measurement bullet, illusionist subsection, main section) so Fox 2012 anchors once in the illusionist "Training Argument"; merged the standalone Process Philosophy section into Contemplative Evidence; tightened bulleted expansions in the Problem, constraints, governance, measurement, wireheading, tenet-mapping, and falsifiability sections to running prose. Preserved the opening summary, all six constraints, all five tenet mappings (incl. the conditional quantum-interface hedge and the illusionism-collapse honesty), and Relation to Site Perspective. Renamed a duplicate `### Contemplative Evidence` heading to `### The Training Argument` to fix an anchor collision.
 
 ## 2026-07-18T23:53:31+00:00 - refine-draft
 - **Status**: Success
