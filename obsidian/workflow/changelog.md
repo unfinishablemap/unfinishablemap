@@ -5,6 +5,19 @@ ai_modified: 2026-07-19T05:01:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T05:08:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/chinese-room-argument]]
+- **Original score**: n/a (curate.py review tool absent at scripts/curate.py; task remit was specific)
+- **Task**: convergent outer reviews 2026-07-19 (ChatGPT 5.6 Pro items 1/3/5; Claude Opus 4.8 Dimensions 2 & 4, Remediation A.4 & A.7). Constrain-vs-establish slide / tenet-protective overreach at the load-bearing opening.
+- **Changes**:
+  - Lede: removed the em-dash gloss "physical—here, computational—" that silently narrowed "physical" to "computational"; reworked to the bounded defensible conclusion ("instantiating a formal program, considered by itself, is not sufficient for understanding"), stated it is *compatible* with Tenet 1 without *establishing* it and is neutral between the Map's dualism and Searle's own non-computational physicalism; folded in the SEP/Cole 2023 caveat that Searle's move from machine-understanding to consciousness/intentionality "is not directly supported by the original 1980 argument."
+  - Relation-to-Site-Perspective: reframed the "direct argument for the computational instance of that claim" double-count as a narrower thesis about computation accepted on its own terms; added an explicit dependency-structure paragraph — the "no semantics"→"no consciousness" step rides on the Map's phenomenal-intentionality theory ([[intentionality]]) and the "consciousness"→"nonphysical" step rides on Tenet 1, both independent commitments brought *to* the room, not read *off* it.
+  - Combination Reply (line 72): rewrote the "mechanical explanation defeats attribution" claim as conditional — a mechanistic explanation defeats a mentality-attribution only if it independently shows the system lacks the causal/organizational properties mentality requires, else it over-generates against humans, who also admit mechanistic explanation. Incidentally corrected the invented "mechanical monkey once we see the gears" image to Searle's actual "ingenious mechanical dummy" (Claude review A.2).
+- **Engagement classification** (editor-internal, not in body): engagement with Searle on the room→Tenet-1 inference — Mode Three (framework-boundary marking); the Map's dualist verdict is a bedrock commitment supplied by the framework and honestly marked as such, not derived from Searle's premises. Combination-Reply over-generation point is Mode Two (unsupported foundational move: the bare fact of a mechanistic explanation is helped to defeater-status without the independent no-relevant-causal-powers premise).
+- **Not addressed (out of scope; separate remediation items)**: Hofstadter "co-originator" attribution (A.1), coda "phenomena" plural slip (A.3), Searle-1990 connectionism primary datum (A.5), post-2015 reference-list update (A.6).
+- **Published**: yes
+
 ## 2026-07-19T05:01:00+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-19
