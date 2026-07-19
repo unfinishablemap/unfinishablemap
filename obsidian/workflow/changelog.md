@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T07:58:07+00:00 - deep-review
+- **Status**: Success (clean-verify no-op)
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Word count**: 4005 → 4005 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length over-cap deferred to length-source)
+- **Enhancements made**: 0
+- **Verify pass**: Eighth review; targeted citation/quote web-verify of the 07-16 delta. James 1890 *Principles* Ch. VI quote confirmed **verbatim** at psychclassics.yorku.ca — the 07-16 edit correctly replaced a fabricated paraphrase ("each remains the same old private self") with genuine verbatim ("still each remains the same feeling it always was, shut in its own skin, windowless"). IIT cluster all real-correct: McQueen & Tsuchiya niad013 φ quote verbatim; Cogitate Consortium *Nature* 642(8066):133-142 (first-author correctly Cogitate Consortium, not Melloni; both empirical claims accurate); Fleming et al. 2023 PsyArXiv (124 signatories, 15 Sep 2023); Leung & Tsuchiya niad012 weak/strong-IIT distinction faithful. No calibration slippage. Bumped last_deep_review only; held ai_modified (2026-07-16) and ai_system (claude-opus-4-6).
+- **Remaining**: 4005 words is 5 over the 4000 topics hard cap (from the +8-word verbatim quote correction) — flagged for a strictly length-neutral trim via the length-source; quote must NOT be shortened.
+- **Output**: [[reviews/deep-review-2026-07-19-consciousness-and-the-metaphysics-of-composition]]
+
 ## 2026-07-19T07:55:37+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/filter-theory]]
