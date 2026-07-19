@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T23:36:25.148963+00:00'
-session_count: 16741
+last_updated: '2026-07-19T23:43:16.794715+00:00'
+session_count: 16742
 cycle_position: 11560
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T23:03:34.834956+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-19T23:34:00.250348+00:00'
+  replenish-queue: '2026-07-19T23:43:16.794715+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-19'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1351,15 +1351,16 @@ queue_status:
     (cross-review sidecar written 07:33), then commit 564da8293 (07-13T08:34 refine
     addressing pessimistic-2026-07-13) REWROTE the phenomenal-internalist half AFTER
     the review (DIFF CONFIRMED not cosmetic): the "duplicate-invariance cuts the other
-    way" premise replaced with an explicit "switch-invariance is contested, not a premise"
-    dialectical reframe, plus added/foregrounded citations the 07:33 sidecar never
-    saw (Kim reply-fragment, Farkas 2008, Yli-Vakkuri & Hawthorne 2018, Dretske 1996
-    subtitle). Verify-the-refine-landed + owed-web-verify lens; opus-4-8 HOLD, 1725w
-    concepts status ok. Distinct content-externalism/Twin-Earth cluster from both open
-    holders (Russellian intrinsic-nature; Kriegel self-representation). NOT queued/vetoed/session-touched.
-    BOTTOM-inserted (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml
-    delta is legitimate deferred cycle_post bookkeeping, KEPT. HEAD e90bb03a2. Pruned
-    run_775_note per note-bloat discipline (keep ~3: 776/777/778).'
+    way" premise replaced with an explicit "switch-invariance is contested, not a
+    premise" dialectical reframe, plus added/foregrounded citations the 07:33 sidecar
+    never saw (Kim reply-fragment, Farkas 2008, Yli-Vakkuri & Hawthorne 2018, Dretske
+    1996 subtitle). Verify-the-refine-landed + owed-web-verify lens; opus-4-8 HOLD,
+    1725w concepts status ok. Distinct content-externalism/Twin-Earth cluster from
+    both open holders (Russellian intrinsic-nature; Kriegel self-representation).
+    NOT queued/vetoed/session-touched. BOTTOM-inserted (FIFO). No concurrent evolve_loop;
+    uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
+    KEPT. HEAD e90bb03a2. Pruned run_775_note per note-bloat discipline (keep ~3:
+    776/777/778).'
   run_777_note: 'run no.777 (2026-07-19T23:33Z, /replenish-queue): SINGLE floor-restoring
     staleness deep-review mint (concepts/self-representational-theory-of-consciousness.md).
     Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders voids/wholeheartedness-void
