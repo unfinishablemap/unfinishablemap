@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T21:40:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T22:06:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/appetitive-void]]
+- **Word count**: 2123 → ~2131 (+8)
+- **Critical issues addressed**: 1 (wrong-author quote misattribution: "fantasy constitutes our desire, provides its coordinates" is Žižek's *Sublime Object of Ideology* gloss, not Lacan's *Four Fundamental Concepts* — re-attributed to Žižek in text, added Žižek 1989 reference; quote-fidelity defect the prior metadata ledgers structurally could not catch)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Žižek reference added)
+- **Notes**: Fourth deep review; article was unchanged since 2026-06-18. Ran the verbatim quote-fidelity lens (orthogonal to the prior citation-metadata ledgers); web-verified Schopenhauer (WWR W1 319), Nietzsche (GM III:12), Spinoza (Ethics III P7/P9) as verbatim-correct. References metadata unchanged since 06-18 web-verify → not re-verified. ai_system held at claude-opus-4-6 (targeted fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-19-appetitive-void]]
+
 ## 2026-07-19T22:02:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]
