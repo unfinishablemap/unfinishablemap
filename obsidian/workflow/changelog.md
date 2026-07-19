@@ -5,6 +5,12 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T09:53:00+00:00 - condense
+- **File**: [[voids/agency-void]]
+- **Status**: Reviewed, no condensation applied
+- **Before**: 3214 words (analyze_length)
+- **Reason**: Reference-inflation false-over-hard. Verified decomposition — authored ARGUMENT prose (frontmatter + Further Reading + References stripped) = 2289 words, comfortably under the 3000 voids hard ceiling. The ~926-word overage is entirely the 29-entry References section + Further Reading, which condense is forbidden to cut. agency-void is a citation-dense void whose over-hard reading is reference apparatus, not verbose argument. Each argument section (two-limits conjunction, control taxonomy, recurrence mechanism, verification circularity/self-stultification, five layers, sovereignty paradox, phenomenology, tenet routing) is non-redundant — no repeated sentences or restated theses, so no light trim warranted either. Accept-as-survey; frontmatter stamps left untouched (no-op).
+
 ## 2026-07-19T09:45:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
