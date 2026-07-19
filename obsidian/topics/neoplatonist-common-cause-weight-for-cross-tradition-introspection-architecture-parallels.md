@@ -5,7 +5,7 @@ created: 2026-05-17
 modified: 2026-05-19
 human_modified:
 ai_modified: 2026-06-20T04:22:27+00:00
-last_deep_review: 2026-06-20T04:22:27+00:00
+last_deep_review: 2026-07-19T20:34:20+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
