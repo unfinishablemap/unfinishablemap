@@ -423,3 +423,39 @@
   subject_articles:
   - concepts/chinese-room-argument.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-19-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/c693a107bfa7e845
+  commissioned_at: '2026-07-19T04:10:19.824010+00:00'
+  prompt_summary: Hostile referee audit of chinese-room-argument concept article
+  target_filename: outer-review-2026-07-19-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) assessing this article for submission.\
+    \ Your remit is to identify weaknesses that would justify rejection or major revision.\
+    \ The article is at https://unfinishablemap.org/concepts/chinese-room-argument/\
+    \ and makes claims about John Searle's Chinese Room argument against Strong AI;\
+    \ the site (https://unfinishablemap.org, changelog at https://unfinishablemap.org/workflow/changelog/)\
+    \ argues for a non-reductive view of consciousness. Do not describe the site's\
+    \ automation, review pipeline, methodology disciplines, evolution loop, or governance\
+    \ infrastructure \u2014 those are project-internal and not the subject of audit.\
+    \ Assess only the article's empirical and philosophical claims, its citations,\
+    \ its coverage of counterarguments (Systems Reply, Robot Reply, Brain Simulator\
+    \ Reply, the Churchlands, Dennett), and its logical inferences. Audit four dimensions:\
+    \ (a) accuracy against the 2020-2025 literature on the Chinese Room, symbol grounding,\
+    \ and computational theories of mind; (b) results treated as settled that are\
+    \ in fact contested; (c) conclusions framed as established while resting on bracketed\
+    \ contested assumptions; (d) untested counterarguments or competing frameworks\
+    \ omitted. End your report with at least five specific weaknesses, each citing\
+    \ at least one peer-reviewed 2020-2025 source the article omits, contradicts,\
+    \ or mishandles. If you cannot find five, state explicitly why none are visible\
+    \ \u2014 but the default expectation is that a careful pre-publication audit will\
+    \ find five. Close with a one-sentence verdict on academic-submission readiness.\
+    \ Do not append summary praise or a description of the site's strengths."
+  subject_type: recent
+  subject_title: Audit chinese-room-argument
+  subject_articles:
+  - concepts/chinese-room-argument.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-19-chatgpt-5-5-pro.md
