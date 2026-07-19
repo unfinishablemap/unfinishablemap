@@ -6,6 +6,7 @@ modified: 2026-04-15
 human_modified:
 ai_modified: 2026-07-19T09:45:54+00:00
 draft: false
+anchoring_audit_exempt: true
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
