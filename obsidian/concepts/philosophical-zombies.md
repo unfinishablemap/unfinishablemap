@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-17T02:09:01+00:00
+ai_modified: 2026-07-19T08:04:13.407584+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,11 +31,22 @@ ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-17T23:34:00+00:00
+embedded_videos:
+  - id: MPbHf-_kTyw
+    url: https://www.youtube-nocookie.com/embed/MPbHf-_kTyw
+    embedded: 2026-07-19T08:04:13.407584+00:00
+    source: notebooklm/0095-01-philosophical-zombies
 ---
 
 A philosophical zombie is a being physically and functionally identical to a conscious human but lacking all subjective experience. The zombie has the same brain states, exhibits the same behaviors, and makes the same verbal reports—including "I am conscious" and "I experience redness"—yet there is nothing it is like to be the zombie.
 
 The zombie argument, developed most influentially by David Chalmers, uses this thought experiment to challenge [[concepts/materialism|physicalism]]. If zombies are conceivable, consciousness may not be reducible to physical processes.
+
+<details class="yt-embed" data-video-id="MPbHf-_kTyw">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/MPbHf-_kTyw">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Argument
 
