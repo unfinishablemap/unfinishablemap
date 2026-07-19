@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T15:12:08+00:00
+ai_modified: 2026-07-19T16:09:07+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T16:09:07+00:00 - deep-review
+- **Status**: Success (13th pass, converged; verified 2026-07-07 apex-evolve drift + calibration-safe trim on hard-ceiling breach)
+- **File**: [[apex/conjunction-coalesce]]
+- **Word count**: 5224 → 5144 (−80, calibration-safe redundancy trim; still 144w over apex hard ceiling but well under critical, mid-pack vs apex peers)
+- **Critical issues addressed**: 0 (transit-void synthesis verified sound; no calibration slippage)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 6 surgical redundancy trims (zero calibration/hedge language touched; removed one discouraged "load-bearing")
+- **Drift verified**: 2026-07-07 apex-evolve §"Transit Void: A Coalesce on the Boundary" — all facts web-checked vs voids/transit-void (coalesced_from exact 6/6 match, seam-name quote verbatim, architecture verbatim)
+- **Condense-eligibility (task's ask)**: over-hard is a genuine over-length (argument prose alone ~5090w > 5000) but further reduction needs a dedicated calibration-steered condense, NOT auto-condense; deliberately not minted as auto-runnable to protect load-bearing hedges
+- **Output**: [[reviews/deep-review-2026-07-19-conjunction-coalesce]]
 
 ## 2026-07-19T15:49:05+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — foundational hub, settled 38d, zero post-review drift)
