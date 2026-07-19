@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-20T00:00:00+00:00
+last_deep_review: 2026-07-19T21:40:35+00:00
 ---
 
 The distinction between subject and object—between the one who experiences and what is experienced—strikes most people today as obvious. Of course there is a world out there and a mind in here perceiving it. But this separation was not always obvious. It had to be discovered, articulated, and defended, and that process of discovery is itself philosophically significant. The Unfinishable Map holds that the subject-object distinction is not a cultural artefact or linguistic habit but a genuine structural feature of reality—one whose discovery may rank among the most important in the history of thought, and whose implications remain, on the Map's reading, underappreciated.
