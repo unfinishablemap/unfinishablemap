@@ -5,6 +5,18 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T11:31:23+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — 4th review; supervisor-flagged cites all web-verified real-correct; single-cell gloss accurate; dualist hedges intact)
+- **File**: [[voids/agency-void]]
+- **Word count**: 3214 → 3214 (unchanged; bibliography-driven over-hard, prose under ceiling — no condense)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: transit-void link retarget (coalesce 07-06) + single-cell-proto-agency Further-Reading gloss (expand-topic 07-15); neither touched citation content.
+- **Citation web-verify**: Inzlicht & Schmeichel 2012 (PPS 7(5):450-463), Wegner 1994 (Psych Rev 101:34-52), Wegner & Wheatley 1999 (Am Psych 54:480-492), Beaman & Williams 2010 (BJP 101(4):637-653) — all real-correct at publisher of record.
+- **Stamps**: last_deep_review advanced to 2026-07-19; ai_modified held (07-15); ai_system held (claude-opus-4-7).
+- **Output**: [[reviews/deep-review-2026-07-19-agency-void]]
+
 ## 2026-07-19T11:21:21+00:00 - deep-review
 - **Status**: Success (no-op confirmation — sixth deep review; all flagged cites web-verified correct; new 07-16 caveat calibration-positive)
 - **File**: [[apex/attention-as-causal-bridge]]
