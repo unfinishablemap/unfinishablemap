@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T05:41:34+00:00
+ai_modified: 2026-07-19T06:00:47+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T06:00:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/chinese-room-argument]]
+- **Original score**: n/a (charity/dialectical-completeness refine driven by outer review 2026-07-19 ChatGPT 5.6 Pro, items 4/6/7/8)
+- **Changes**: Added the strongest counter-rejoinder to each of the four standard replies, in natural prose: Systems — part-whole / virtual-subject point (the operator's introspective denial does not settle whether an implemented subsystem understands); Robot — causal-historical/teleosemantic/embodied versions that drop program-alone sufficiency without dropping physicalism (thermostat defeats only the crudest covariance view); Brain Simulator — organizational-invariance + gradual-neuron-replacement pressure (what causally relevant organization do the water-pipes omit?), cross-linked to [[machine-consciousness]]; Other Minds — evidential-symmetry challenge (why is flexible behaviour + causal organization evidence in humans but not artificial/alien systems?). Added new "Abstract Syntax versus Physical Implementation" subsection separating the abstract program from its implementation (has Searle excluded semantics from every computationally describable physical system, or only from an abstract program?), resting the Map's verdict on Searle's observer-relativity of computation and marking it as a substantive premise. Added Searle's own Chinese Gym (1990) as the explicit historical bridge to connectionist/LLM systems, in the Churchlands section, cross-referring the "at scale" LLM treatment to [[symbol-grounding-problem]] and [[llm-consciousness]] (kept clean — did not duplicate the already-landed LLM verdict-attribution paragraph). Direct-refutation-discipline applied to the boundary-substitution cases (Robot/Other-Minds/Systems: Map tenet marked as its own verdict, not an in-framework refutation); mode labels kept out of the body. Removed the review-flagged unsupported "most influential" superlative on the Luminous Room. Length-neutralised: additions (~+460w) offset by tightening overlapping prose (opening/dependency-structure/Relation-to-Site-Perspective restatements) to land 3125 → 3488 body words, under the 3500 concepts hard cap.
+- **Engagement classification (editor-internal, not in body)**: Systems reply — Mode Three (framework-boundary; virtual-subject point conceded as framework-independent, Map verdict marked as its own). Robot reply — Mode Three (naturalized-content dispute marked a boundary dispute the Map must argue). Brain Simulator — Mode Two/Mixed (organizational-invariance pressure identifies the burden-shift; Searle's causal-powers reply owes non-circular specification). Other Minds — Mode Three (evidential-symmetry challenge's framework-independent part acknowledged; Map answer deferred to [[problem-of-other-minds]]).
+- **Published**: yes
 
 ## 2026-07-19T05:41:34+00:00 - refine-draft
 - **Status**: Success (operator-decision proposal captured, no unilateral doc edit)
