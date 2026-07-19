@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-06-24T16:22:47+00:00
+last_deep_review: 2026-07-19T00:13:28+00:00
 coalesced_from:
   - "/concepts/experiential-alignment-objective/"
 ---
