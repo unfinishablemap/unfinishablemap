@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T21:40:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T23:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/biological-naturalism]]
+- **Word count**: 2065 → 2072 (+7, citation anchoring)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Details**: Queue-task pass (P2 paraphrase-fidelity mint, EXPECT NO-OP). Delta since 07-11 review was two cosmetic Further Reading cross-links, but the fidelity lens surfaced three citation-surface defects: (1) Searle 2000 ARN was an orphan References entry — web-verified its abstract states theses 1–2 exactly and anchored it inline at the four-theses cite tuple; (2) the verbatim "a trivial consequence" quote sat under a (Searle 2004)-only section, implying the wrong work — pinned to Searle 1992, p. 122 (verbatim-attested across independent sources); (3) the Chinese Room parenthesis over-attributed Fodor's causal-connections reply to Haugeland (SEP places Haugeland with the Systems Reply) — re-attributed to "Fodor, among others". No prose re-litigated; 07-11 bedrock/stability rulings held. ai_system kept claude-opus-4-8 (targeted fixes, not re-authoring). Engagement modes unchanged (Kim: Mode Three; collapse charge: Mode Mixed).
+- **Output**: [[reviews/deep-review-2026-07-19-biological-naturalism]]
+
 ## 2026-07-19T23:08:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-strong-emergence-of-consciousness]]

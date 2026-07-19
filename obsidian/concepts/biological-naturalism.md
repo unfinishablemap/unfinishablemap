@@ -4,7 +4,7 @@ description: "Searle's biological naturalism—consciousness as caused-but-irred
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-13T03:51:30+00:00
+ai_modified: 2026-07-19T23:26:00+00:00
 draft: false
 topics: []
 concepts:
@@ -19,14 +19,14 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11
 last_curated:
-last_deep_review: 2026-07-11T18:54:00+00:00
+last_deep_review: 2026-07-19T23:26:00+00:00
 ---
 
 Biological naturalism is John Searle's theory that consciousness is a real, higher-level biological feature of the brain—*caused by* neuronal processes and *realized in* the brain as a system feature—that is **causally reducible but ontologically irreducible** to those processes. On Searle's account this dissolves the traditional mind-body problem: consciousness is a biological feature of the brain roughly the way digestion is a feature of the stomach, so there is no need to choose between dualism and materialism because the dichotomy that generates the problem is itself a Cartesian mistake. The Unfinishable Map treats biological naturalism as its most important *non-dualist* rival—the strongest attempt to keep subjectivity real and irreducible without accepting dualism—and argues, framework-relative to Searle's own commitments, that the position is unstable: it either collapses into property dualism in all but name, or leaves the [[hard-problem-of-consciousness|hard problem]] exactly where it found it.
 
 ## The Four Theses
 
-Searle states biological naturalism as four claims that he insists are mutually consistent (Searle 1992; 2004; 2007):
+Searle states biological naturalism as four claims that he insists are mutually consistent (Searle 1992; 2000; 2004; 2007):
 
 1. **Consciousness is caused by brain processes.** Lower-level neurobiological events—synaptic transmission, neuronal firing—cause conscious states. Nothing non-biological is required.
 
@@ -46,7 +46,7 @@ A **causal reduction** explains a phenomenon entirely in terms of the behavior o
 
 An **ontological reduction** goes further: it *redefines* the phenomenon in terms of its cause and discards the surface appearance as a mere subjective effect. Heat gets ontologically reduced to mean molecular kinetic energy; the *felt warmth* is relocated to the mind of the observer and dropped from the physics. Searle argues we could carry out this redefinitional move for consciousness too—but we *choose not to*, because with consciousness the first-person appearance *is* the subject matter. There is nothing to relocate to an observer, because the observer's appearances are the very thing under study. So consciousness is causally reducible but ontologically irreducible.
 
-Crucially, Searle treats this irreducibility as "a trivial consequence" of how reduction is defined, not as a deep metaphysical fact that would license dualism. On his telling, the irreducibility follows from a pragmatic decision about definitions rather than from consciousness being a different kind of thing.
+Crucially, Searle treats this irreducibility as "a trivial consequence" of the pragmatics of our definitional practices (Searle 1992, p. 122), not as a deep metaphysical fact that would license dualism. On his telling, the irreducibility follows from a pragmatic decision about definitions rather than from consciousness being a different kind of thing.
 
 ### The Liquidity Disanalogy
 
@@ -72,7 +72,7 @@ Searle's reply is that the trilemma never gets started for him: because consciou
 
 Biological naturalism is the positive theory underwriting Searle's more famous negative argument against Strong AI. The Chinese Room is the *anti-computationalist* application; biological naturalism is *why* Searle thinks the argument works. Because consciousness is a caused *biological* feature, running the right program is neither sufficient for nor constitutive of it—only systems with the appropriate *causal powers* (biological brains, or something causally equivalent to them) can be conscious. Syntax does not suffice for semantics or for phenomenality; you need whatever causal powers brains actually have.
 
-This concept page does not re-argue the [[chinese-room-argument|Chinese Room]], which is a distinct argument with its own critics (Fodor and Haugeland reply that environmental causal connections, not biochemistry, fix intentionality). The point here is only that the metaphysics of biological naturalism supplies the argument's premise: consciousness is substrate-specific because it is a biological cause-effect structure, not a substrate-neutral computation. For the Map's engagement with substrate questions, see [[machine-consciousness]].
+This concept page does not re-argue the [[chinese-room-argument|Chinese Room]], which is a distinct argument with its own critics (Fodor, among others, replies that the right causal connections to the world, not biochemistry, fix intentionality). The point here is only that the metaphysics of biological naturalism supplies the argument's premise: consciousness is substrate-specific because it is a biological cause-effect structure, not a substrate-neutral computation. For the Map's engagement with substrate questions, see [[machine-consciousness]].
 
 ## Relation to Site Perspective
 
