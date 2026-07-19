@@ -5,6 +5,12 @@ ai_modified: 2026-07-19T06:45:07+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T07:13:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Changes**: Cross-link-only refine (non-neural competency cluster under-linking, from optimistic-review 2026-07-19). Added reciprocal Further Reading links with brief glosses consistent with sibling/apex phrasing: UP to apex [[competency-without-felt-experience]] (Apex Synthesis block); ACROSS to the five omitted sibling rungs — [[basal-and-bioelectric-cognition]], [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]], [[the-cognitive-immune-system-and-immunological-selfhood]], [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]], [[plant-cognition-and-the-plant-neurobiology-debate]] — grouped in a new "Non-Neural Competency Ladder" subsection. Pre-existing [[bacterial-chemotaxis-and-minimal-biogenic-cognition]] link left in place (not duplicated). All 6 new slugs verified live on disk. Length-neutral (link additions only, no body-prose growth); topics at 321/320 cap. ai_modified bumped only; ai_system held at claude-opus-4-7 (not the reviewing model); last_deep_review untouched (refine, not deep-review).
+- **Published**: yes
+
 ## 2026-07-19T07:04:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/minimal-consciousness-void]]
