@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T10:52:48+00:00 - deep-review
+- **Status**: Success (NO-OP — content unchanged; converged, new cite verifies clean)
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Word count**: 4795 → 4795 (0; apex soft_warning 120% of 4000, ~205w under 5000 hard — length-neutral, no content added)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: terminal-lucidity sixth-window addition (06-25, `bf6f2426c` — new cite Tollock et al. 2025) + 07-16 empirical-calibration prose sweep (`75d750a0e`, ChatGPT 5.6 Pro; lead "structure not metaphysics" + "regional activity ≠ physical processing" caution). Publisher-of-record web-verify (Oxford Academic / PMC12761273): **Tollock et al. (2025) *Innovation in Aging* 9(Suppl_2) igaf122.2914 = real-correct** — author/year/venue/article-number/DOI exact; body stats 151 enrolled / 93 lucidity / 267 events / 4.1% terminal subtype all exact; direct quote "a network-level return of cognitive function despite severe dementia" **verbatim-confirmed**; "first prospective study" currency holds. 14 pre-existing refs byte-identical since 06-02 full ledger — carried real-correct, Konkoly 42/17 + Sepúlveda 801-809 spot-confirmed intact. Apex internal-quote channel CLEAN (no sibling verbatim quotes). Calibration PASS (terminal-lucidity window used *against* the filter reading — evidential-restraint exemplary). No named-opponent modes; no label leakage.
+- **Stamps**: moved `last_deep_review` → 2026-07-19T10:52:48+00:00 ONLY; HELD `ai_modified` (07-16), `ai_system` (claude-opus-4-7, not re-authored), `apex_last_synthesis` (06-25 drift artifact).
+- **Output**: [[reviews/deep-review-2026-07-19-altered-states-as-interface-evidence]]
+
 ## 2026-07-19T10:40:24+00:00 - deep-review
 - **Status**: Success (NO-OP — content unchanged; converged, all citations verify clean)
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]

@@ -43,7 +43,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-16
 last_curated: null
-last_deep_review: 2026-06-22T09:37:16+00:00
+last_deep_review: 2026-07-19T10:52:48+00:00
 
 apex_sources:
   - topics/psychedelics-and-the-filter-model
