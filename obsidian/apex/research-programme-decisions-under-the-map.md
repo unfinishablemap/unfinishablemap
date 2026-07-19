@@ -30,7 +30,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-16
 last_curated: null
-last_deep_review: 2026-07-08T09:13:51+00:00
+last_deep_review: 2026-07-19T16:44:53+00:00
 
 # Apex-specific fields
 apex_type: applied

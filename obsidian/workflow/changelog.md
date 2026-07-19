@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T16:32:55+00:00
+ai_modified: 2026-07-19T16:44:53+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T16:44:53+00:00 - deep-review
+- **Status**: Success (no-op convergence, 2nd pass; verified two 07-16 additions against sources/register, clean)
+- **File**: [[apex/research-programme-decisions-under-the-map]]
+- **Word count**: 3187 → 3187 (no body edits; 80% of apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Verified the 07-16 positions-evolve "Calibration inheritance" paragraph (P-Q1 low-edge/horn-(a) downgrade) faithful to register P-Q1; verified the 07-16 apex-evolve Direction 4 Born-anchoring paragraph as verbatim-faithful propagation of interface-specification-programme's Saad claim. horn-(a)/horn-(b) framing matches born-preserving-causal-efficacy. 4 numbered refs unchanged since 07-08 full ledger; no new cites. Only `last_deep_review` advanced; `ai_modified` held at HEAD (no-op convention).
+- **Output**: [[reviews/deep-review-2026-07-19-research-programme-decisions-under-the-map]]
 
 ## 2026-07-19T16:32:55+00:00 - deep-review
 - **Status**: Success (no-op convergence, 9th pass; body unchanged since 2026-06-04, clean)

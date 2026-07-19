@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T16:34:41.613689+00:00'
-session_count: 16658
+last_updated: '2026-07-19T16:41:55.092654+00:00'
+session_count: 16659
 cycle_position: 11519
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T13:52:50.366816+00:00'
   research-topic: '2026-07-19T09:18:22.378644+00:00'
-  replenish-queue: '2026-07-19T16:30:20.169016+00:00'
+  replenish-queue: '2026-07-19T16:41:55.092654+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1342,17 +1342,17 @@ queue_status:
     bookkeeping drift. All content sections at cap (topics/concepts 320/320, voids
     100/100) so no expand/research-topic chains; positions 8/80 slow-add + <10 audit
     threshold + audited 2026-07-17 <30d; orphaned_files 0; no applied-apex gap; length
-    offenders all research-notes / apex-index / positions-register / human-deferred /
-    veto (no clean condense). Genuine 30d+ staleness: composite get_review_candidates
+    offenders all research-notes / apex-index / positions-register / human-deferred
+    / veto (no clean condense). Genuine 30d+ staleness: composite get_review_candidates
     de-prioritizes converged files, but RAW last_deep_review scan gives concepts/mind-arena
-    45d (opus-4-8 self-cite-ONLY, EXPLICITLY REJECTED by the 07-18 18:14+18:34 mints —
-    pure no-op) then voids/causal-interface 36d. Chose voids/causal-interface.md: oldest
-    opus-4-5-20251101 cohort (largest unchecked external-citation surface), git-converged
-    (last_deep_review == ai_modified 2026-06-13), real external refs (Libet 1985,
-    Nisbett & Wilson 1977, Wegner 2002, Horgan 2011, SEP) = genuine verify residual
-    not a self-cite no-op, 2190w voids soft_warning (length-neutral, not the driver),
-    Tenet 2/3, section-diverse (void vs queued apex+concept). ai_contribution 100.
-    Appended at BOTTOM so top-first FIFO drains the two older holders first.'
+    45d (opus-4-8 self-cite-ONLY, EXPLICITLY REJECTED by the 07-18 18:14+18:34 mints
+    — pure no-op) then voids/causal-interface 36d. Chose voids/causal-interface.md:
+    oldest opus-4-5-20251101 cohort (largest unchecked external-citation surface),
+    git-converged (last_deep_review == ai_modified 2026-06-13), real external refs
+    (Libet 1985, Nisbett & Wilson 1977, Wegner 2002, Horgan 2011, SEP) = genuine verify
+    residual not a self-cite no-op, 2190w voids soft_warning (length-neutral, not
+    the driver), Tenet 2/3, section-diverse (void vs queued apex+concept). ai_contribution
+    100. Appended at BOTTOM so top-first FIFO drains the two older holders first.'
   replenishment_source_counts:
     staleness: 1
   run_758_pickable_p0_p2: 4
