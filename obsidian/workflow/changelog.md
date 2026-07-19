@@ -5,6 +5,13 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T09:13:30+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Synthetic minimal agents and the engineered competency-experience decoupling
+- **Output**: [[research/synthetic-minimal-agents-and-the-engineered-competency-experience-decoupling-2026-07-15]]
+- **Sources consulted**: 6 (anthrobots Advanced Science 2024/2025, JCVI-syn3.0 Science 2016, xenobot PNAS 2020/2021, Bongard self-modelling robot Science 2006, xenobotic-cognition Cognitive Systems Research 2024, Multiple Realizability of Sentience eNeuro 2023)
+- **Note**: ASSESS-FIRST — confirmed the harvester's gap is real. Evolved-organism/Levin-basal framing of the decoupling is well covered (basal-and-bioelectric, apex competency-without-felt-experience); the *engineered/designed-substrate* angle (anthrobots, minimal synthetic cells, self-modelling robots, designer's-eye epistemics, multiple-realizability rival) is not a dedicated node. Note stands alone (topics 320/320 cap-blocks expand-topic). Two philosophy sources abstract-only (403 on full text) — author/venue verification flagged as owed before any downstream citation.
+
 ## 2026-07-19T09:08:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-consequence-argument-for-incompatibilism]]
