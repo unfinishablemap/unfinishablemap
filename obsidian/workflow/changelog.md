@@ -5,6 +5,15 @@ ai_modified: 2026-07-19T21:40:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T22:26:25+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [[topics/incubation-effect-and-unconscious-processing]]
+- **Word count**: 2774 → 2774 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-19-incubation-effect-and-unconscious-processing]]
+
 ## 2026-07-19T22:23:03+00:00 - deep-review
 - **Status**: Success (no-op / converged)
 - **File**: [[concepts/phenomenal-sorites-problem]]
