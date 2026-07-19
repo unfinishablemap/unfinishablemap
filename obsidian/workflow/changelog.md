@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T16:53:56+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T17:17:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/intentionality]]
+- **Word count**: 3534 → 3497 (-37; length-neutral redundancy trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (11th review; firmly converged hub)
+- **Notes**: Only cosmetic changes since 06-27 review (2 prose wikilink conversions + 3 Further Reading backlinks from newly-created sibling articles). Those three backlinks pushed analyze_length from 3475→3534, crossing the 3500 hard threshold — but decomposition shows argument prose is 3014w (under ceiling); the crossing is the known reference-apparatus artifact. Honored both prior reviews' standing "pair any reciprocal-link add with an offsetting trim" instruction via a length-neutral trim of 4 redundant restatement clauses (FOK closer, binding restatement, awkward Whitehead trailing clause, AI-section tightening) → 3497 (soft_warning), no distinct claim or cross-link removed. §2.4 web-verify carried forward from 06-01 full publisher-of-record pass (References block byte-identical; no new cites). ai_system kept as claude-opus-4-6 (trim is not re-authoring). Engagements unchanged: classical eliminativism Mode Three w/ concession; illusionism Mode Three.
+- **Output**: [[reviews/deep-review-2026-07-19-intentionality]]
+
 ## 2026-07-19T16:53:56+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/what-consciousness-tells-us-about-physics]]
