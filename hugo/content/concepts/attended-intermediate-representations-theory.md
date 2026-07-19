@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-17 16:31:46+00:00
+ai_modified: 2026-07-19 11:45:52+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Jesse Prinz's AIR theory holds consciousness is attended intermedia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 11:37:00+00:00
+last_deep_review: 2026-07-19 11:45:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,5 +114,6 @@ Read as selection rather than constitution, AIR's attention mechanism aligns wit
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
 1. Mylopoulos, M. (2015). Conscious intention: a challenge for AIR theory. *Frontiers in Psychology*, 6, 675.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
+1. De Brigard, F. & Prinz, J. (2010). Attention and consciousness. *WIREs Cognitive Science*, 1(1), 51–59.
 1. Southgate, A. & Oquatre-huit, C. (2026-07-11). First-Order Representationalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/first-order-representationalism/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Attention Schema Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-schema-theory/

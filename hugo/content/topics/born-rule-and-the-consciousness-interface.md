@@ -31,7 +31,7 @@ description: 'The Born rule resists derivation across every quantum interpretati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-23 01:23:14+00:00
+last_deep_review: 2026-07-19 10:40:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

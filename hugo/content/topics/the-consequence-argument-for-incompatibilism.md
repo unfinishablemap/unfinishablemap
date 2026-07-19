@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-11 05:20:00+00:00
+ai_modified: 2026-07-19 09:08:14+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Van Inwagen's master argument that free will is incompatible with d
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 10:36:00+00:00
+last_deep_review: 2026-07-19 09:08:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,5 +122,6 @@ Finally, the [No Many Worlds](/tenets/#no-many-worlds) tenet bears on how the Ma
 1. McKay, T. J., & Johnson, D. (1996). A Reconsideration of an Argument against Compatibilism. *Philosophical Topics*, 24(2), 113–122.
 1. Merlussi, P. (2022). Revisiting McKay and Johnson's counterexample to (β). *Philosophical Explorations*, 25(2). https://doi.org/10.1080/13869795.2022.2034917
 1. Vihvelin, K. (2013). *Causes, Laws, and Free Will: Why Determinism Doesn't Matter*. Oxford University Press.
+1. Fara, M. (2008). Masked Abilities and Compatibilism. *Mind*, 117(468), 843–865. https://doi.org/10.1093/mind/fzn078
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Quantum Indeterminacy and Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-indeterminacy-free-will/

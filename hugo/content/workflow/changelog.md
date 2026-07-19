@@ -1,13 +1,239 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19 07:27:53+00:00
+ai_modified: 2026-07-19 10:33:08+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-19T12:13:24+00:00 - deep-review
+- **Status**: Success (real fix — citation issue-number correction; currency-verify of NY Declaration signatory count)
+- **File**: [minds-without-words](/apex/minds-without-words/)
+- **Word count**: 3866 → 3866 (length-neutral; apex soft threshold 4000)
+- **Critical issues addressed**: 1 (Andrews, Birch & Sebo 2025 *Science* issue number 6735 → 6736; Crossref DOI 10.1126/science.adp4990 confirms 387(6736):822–824)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; second review)
+- **Citations web-verified**: NY Declaration signatory count 605 real-correct (primary source "Signature count: 605", both declaration quotes verbatim); Gutfreund 2024 in-body quote real-correct (verbatim truncation, PMC11496166); Andrews/Birch/Sebo 2025 issue-number corrected; Cambridge Declaration 2012 + Nagel 1974 real-correct
+- **Stamps**: bumped ai_modified + last_deep_review; HELD ai_system (claude-opus-4-6) + apex_last_synthesis (05-19 known drift-artifact)
+- **Output**: [deep-review-2026-07-19-minds-without-words](/reviews/deep-review-2026-07-19-minds-without-words/)
+
+## 2026-07-19T11:58:00+00:00 - deep-review
+- **Status**: Success (real fix — publisher-verified framing correction; genuine 07-07/07-11 citation delta since 06-26 review)
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 4046 → 4046 (net-neutral; length-neutral in-place framing swap)
+- **Critical issues addressed**: 1 (Pitts 2020 framing inversion introduced by 07-07 refine — publisher-of-record abstract shows the conservation "nearly"/locality *leaves room* for mental causation via Leibniz begging the question; the "harder" claim is GR-specific. Reframed accurately; verbatim quote and title/venue/vol/pages confirmed correct)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; eleventh review)
+- **Citations web-verified**: Pitts (2020) *Philosophia* 48(2):673–707 real-correct metadata + framing corrected; Cogitate Consortium (Ferrante et al.) 2025 *Nature* 642(8066):133–142 real-correct canonical first author (07-11 sweep confirmed); Hameroff (2020) title-quote verbatim
+- **Length**: 46 words over topics 4000 hard ceiling (breach predates this pass — 07-07/07-11 citation-clause accretion; flagged for human length-decision, NOT auto-condensed — load-bearing calibration article)
+- **Stamps**: ai_modified + last_deep_review bumped to 2026-07-19T11:58:00+00:00; dual ai_system claude-opus-4-6+claude-opus-4-8 held
+- **Output**: [deep-review-2026-07-19-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-07-19-falsification-roadmap-for-the-interface-model/)
+
+## 2026-07-19T11:45:52+00:00 - deep-review
+- **Status**: Success (real fix — genuine non-cosmetic delta target; refine-draft 07-17 delta since last review)
+- **File**: [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/)
+- **Word count**: 2432 → 2445 (+13; one added reference)
+- **Critical issues addressed**: 1 (orphan citation: De Brigard & Prinz 2010 cited inline, no References entry — reference added)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged; Relation section already exemplary)
+- **Citations**: full set web-verified at publisher of record — Prinz 2012 book / Prinz 2000 / Marr 1982 / Block 2011 / Mylopoulos 2015 / Sperling 1960 / De Brigard & Prinz 2010 all real-correct; no superlative/currency claims
+- **Engagement**: Prinz/AIR — Mode Three (boundary-marking) with honest self-audit of the ensemble-epiphenomenalism debt; no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-07-19-attended-intermediate-representations-theory](/reviews/deep-review-2026-07-19-attended-intermediate-representations-theory/)
+
+## 2026-07-19T11:31:23+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — 4th review; supervisor-flagged cites all web-verified real-correct; single-cell gloss accurate; dualist hedges intact)
+- **File**: [agency-void](/voids/agency-void/)
+- **Word count**: 3214 → 3214 (unchanged; bibliography-driven over-hard, prose under ceiling — no condense)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: transit-void link retarget (coalesce 07-06) + single-cell-proto-agency Further-Reading gloss (expand-topic 07-15); neither touched citation content.
+- **Citation web-verify**: Inzlicht & Schmeichel 2012 (PPS 7(5):450-463), Wegner 1994 (Psych Rev 101:34-52), Wegner & Wheatley 1999 (Am Psych 54:480-492), Beaman & Williams 2010 (BJP 101(4):637-653) — all real-correct at publisher of record.
+- **Stamps**: last_deep_review advanced to 2026-07-19; ai_modified held (07-15); ai_system held (claude-opus-4-7).
+- **Output**: [deep-review-2026-07-19-agency-void](/reviews/deep-review-2026-07-19-agency-void/)
+
+## 2026-07-19T11:21:21+00:00 - deep-review
+- **Status**: Success (no-op confirmation — sixth deep review; all flagged cites web-verified correct; new 07-16 caveat calibration-positive)
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Word count**: 4310 → 4310 (unchanged; apex 108% of 4000 soft — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: 07-11 Cogitate/Melloni citation sweep (commit dd19304a4) + 07-16 active-inference scope-caveat paragraph (commit 0d08423ca, convergent Claude+Gemini outer review).
+- **Publisher-of-record web-verify**: Nartker et al. 2025 eLife (real-correct); Cogitate Consortium 2025 Nature 642(8066):133-142 DOI 10.1038/s41586-025-08888-1 (real-correct, canonical first-author = Cogitate Consortium confirmed, not Melloni); Block/Sperling "3-4 letters" (real-correct); Hohwy/Clark/Friston PP attributions + Seth "beast machine" (real-correct, not over-attributed).
+- **Engagement modes**: AST — Mixed (Mode Two→One→Three), unchanged. Predictive-processing — Mode Three dominant; new caveat deepens honest boundary-marking by declaring the total-framework active-inference confrontation an owed, undischarged debt (no boundary-substitution, no over-claim). Zero label leakage.
+- **Stamps**: last_deep_review 2026-06-25 → 2026-07-19 only; HELD ai_modified (2026-07-16), ai_system (claude-opus-4-6), apex_last_synthesis (2026-06-25 drift-artifact).
+- **Output**: [deep-review-2026-07-19-attention-as-causal-bridge](/reviews/deep-review-2026-07-19-attention-as-causal-bridge/)
+
+## 2026-07-19T11:12:18+00:00 - deep-review
+- **Status**: Success (no-op verification pass — 07-16 delta verified honest + calibration-positive; no content correction warranted)
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Word count**: 4492 → 4492 (unchanged; apex 112% of 4000 soft — length-neutral, no additions)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: the 2026-07-16 refine (commit e416dce3d, outer review ChatGPT 5.6 Pro) — lead reword, six new open-gap sub-law bullets (semantic mapping, subject–brain pairing, timing/preferred-basis, multi-agent coordination, developmental onset, evolutionary signatures), and "engineering-level description" → "engineering-style constraint specification" requalification. All three de-escalate over-claiming; calibration-positive. New wikilinks all resolve.
+- **Citations web-verified (publisher of record)**: flagged cluster + load-bearing empirical cites near new prose, ALL real-correct — Torres Alegre 2025 (arXiv:2512.12636, title truncated-but-faithful, "E. O." matches Enso O.); Cai et al. 2024 (Nature 635(8038):406-414, first author Xintong Cai, "Cai, X., Liu, C." correct); Rajan et al. 2019 (Cerebral Cortex 29(7):2832-2843, title verbatim). No new cites added by the delta; full 16-ref ledger stands from 2026-06-02. No superlatives detected.
+- **Reasoning-mode**: no named-opponent engagements added/altered by the delta. Kim exclusion (Mode One/Mixed), physicalist identity theories (Mode Three) — unchanged, no label leakage.
+- **Stamps**: last_deep_review → 2026-07-19T11:12:18+00:00 ONLY. HELD ai_modified (2026-07-16T08:49:00), ai_system (claude-opus-4-7), apex_last_synthesis (2026-07-16T08:49:00) per no-op apex discipline.
+- **Output**: [deep-review-2026-07-19-interface-specification-programme](/reviews/deep-review-2026-07-19-interface-specification-programme/)
+
+## 2026-07-19T11:07:26+00:00 - deep-review
+- **Status**: Success (real fix — orphan citation integrated; article otherwise converged + well-calibrated)
+- **File**: [emergent-dualism](/concepts/emergent-dualism/)
+- **Word count**: 2117 → ~2140 (+~23; concepts 85%→86% of 2500 soft — normal-improvement mode, below threshold)
+- **Critical issues addressed**: 1 (orphan reference — Hasker 2001 "Persons as Emergent Substances" was in References but never cited inline; integrated at the field-analogy paragraph as a faithful paraphrase, resolving the inline↔References cross-reference)
+- **Medium issues addressed**: 0 (Nagarjuna/Humean challenge to the UOC simple-subject premise is routed to [unity-of-consciousness](/concepts/unity-of-consciousness/) — not re-opened, avoids oscillation on a converged passage)
+- **Enhancements made**: 1
+- **Citations web-verified (publisher of record)**: 6 external cites, ALL real-correct. Hasker 1999 *The Emergent Self* (Cornell); Hasker 2001 (Corcoran ed., *Soul Body & Survival*, Cornell, pp.107-119 — abstract confirms field/magnet analogy); Hasker 2010 (Koons & Bealer, *Waning of Materialism*, OUP — commissurotomy framing matches); Rickabaugh 2018 (Loose/Menuge/Moreland, *Blackwell Companion to Substance Dualism*, Wiley ch.5); SEP "Emergent Properties" (O'Connor & Wong — paraphrase **verbatim-faithful** to the SEP Hasker sentence); Kim 2005 *Physicalism or Something Near Enough* (Princeton). No superlatives, no fabrications, no wrong-metadata. Map self-cites (Oquatre pseudonyms) legit — not stripped.
+- **Reasoning-mode**: engagement with Rickabaugh's constitution worry = honest burden/boundary-marking (concedes coupling *relocates* not *discharges* the burden); no boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage — dependence-vs-independence resolved "provisionally, in favour of coupling," case explicitly "argued, not asserted."
+- **Stamps**: bumped `ai_modified` + `last_deep_review` → 2026-07-19T11:07:26+00:00 (real content fix); HELD `ai_system` (claude-opus-4-8).
+- **Output**: [deep-review-2026-07-19-emergent-dualism](/reviews/deep-review-2026-07-19-emergent-dualism/)
+
+## 2026-07-19T10:52:48+00:00 - deep-review
+- **Status**: Success (NO-OP — content unchanged; converged, new cite verifies clean)
+- **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Word count**: 4795 → 4795 (0; apex soft_warning 120% of 4000, ~205w under 5000 hard — length-neutral, no content added)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: terminal-lucidity sixth-window addition (06-25, `bf6f2426c` — new cite Tollock et al. 2025) + 07-16 empirical-calibration prose sweep (`75d750a0e`, ChatGPT 5.6 Pro; lead "structure not metaphysics" + "regional activity ≠ physical processing" caution). Publisher-of-record web-verify (Oxford Academic / PMC12761273): **Tollock et al. (2025) *Innovation in Aging* 9(Suppl_2) igaf122.2914 = real-correct** — author/year/venue/article-number/DOI exact; body stats 151 enrolled / 93 lucidity / 267 events / 4.1% terminal subtype all exact; direct quote "a network-level return of cognitive function despite severe dementia" **verbatim-confirmed**; "first prospective study" currency holds. 14 pre-existing refs byte-identical since 06-02 full ledger — carried real-correct, Konkoly 42/17 + Sepúlveda 801-809 spot-confirmed intact. Apex internal-quote channel CLEAN (no sibling verbatim quotes). Calibration PASS (terminal-lucidity window used *against* the filter reading — evidential-restraint exemplary). No named-opponent modes; no label leakage.
+- **Stamps**: moved `last_deep_review` → 2026-07-19T10:52:48+00:00 ONLY; HELD `ai_modified` (07-16), `ai_system` (claude-opus-4-7, not re-authored), `apex_last_synthesis` (06-25 drift artifact).
+- **Output**: [deep-review-2026-07-19-altered-states-as-interface-evidence](/reviews/deep-review-2026-07-19-altered-states-as-interface-evidence/)
+
+## 2026-07-19T10:40:24+00:00 - deep-review
+- **Status**: Success (NO-OP — content unchanged; converged, all citations verify clean)
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: ~5330 → ~5330 (0; over 4000 topics hard ceiling, under 6000 critical; length-protected under standing human length decision — did NOT condense)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: 07-16 refine `44cdecf3a` — calibration/framing prose plus one new empirical surface (Wiest 2025 quote + expanded title; Tegmark/HHT decoherence figures). Publisher-of-record web-verify: Wiest (2025) niaf011 title + quote verbatim-confirmed at PMC and Wiest's OWN wording correctly attributed as his summary of the Kerskens–López Pérez (2022) result (misattribution risk RESOLVED); Tegmark ~10⁻¹³ s and HHT ~10⁻⁵ s both literature-correct; "eight orders" arithmetic internally consistent. Torres Alegre 2512.12636 / Gleason / MGM / Sinha / Zhang carried over real-correct from 06-23. Engagements: QBism Mode Three, MWI Mode Three, Neumaier Mode Three — no label leakage, no boundary-substitution; Lakatos reframe strengthens honesty.
+- **Stamps**: last_deep_review only; HELD ai_modified (2026-07-16) + ai_system (claude-opus-4-8) per no-op discipline.
+- **Output**: [deep-review-2026-07-19-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-07-19-born-rule-and-the-consciousness-interface/)
+
+## 2026-07-19T10:33:08+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Scope-discipline cluster — three freshly deep-reviewed articles that each engage the strongest rival/master argument and scrupulously separate what it delivers from what the Map wants: [first-order-representationalism](/concepts/first-order-representationalism/), [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/), [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/). Process Philosopher and Hardline Empiricist personas converge (no tier-upgrade slippage). No new-article gaps; 4 grep-verified reciprocal cross-link opportunities queued as one P3.
+- **Output**: [optimistic-2026-07-19-scope-discipline-cluster](/reviews/optimistic-2026-07-19-scope-discipline-cluster/)
+
+## 2026-07-19T10:21:19+00:00 - deep-review
+- **Status**: Success (NO-OP — content unchanged; converged after real scrutiny)
+- **File**: [steelmanning-as-method](/apex/steelmanning-as-method/)
+- **Word count**: 4110 → 4110 (0; 103% of 4000 apex soft target — soft_warning, under hard 5000; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta reviewed**: 2026-07-18 apex-evolve (new "Evidence and Dependency" self-audit ledger + length-neutral copyedits) and the `561e63f14` "explanatory-cost ledger" → "mechanism-cost ledger" label fix.
+- **Internal-quote channel**: three of four quoted siblings rewritten since 06-24 (dissociation apex 07-14, many-minds 07-08, NDE 07-18) — ALL quoted strings re-grepped against live sources, verbatim-faithful; no stale-quote defect.
+- **Web-verify (§2.4)**: References block unchanged; new ledger cites already-verified authors (Block, Lau, PP literature), no new external cite — prior 05-28 publisher-of-record ledger stands. Link targets + `^occams-limits` anchor resolve.
+- **Stamps**: NO-OP → moved `last_deep_review` only (→2026-07-19T10:21:19+00:00); HELD `ai_modified` (07-18T02:07), `ai_system` (claude-opus-4-8), `apex_last_synthesis` (07-18T02:07).
+- **Output**: [deep-review-2026-07-19-steelmanning-as-method](/reviews/deep-review-2026-07-19-steelmanning-as-method/)
+
+## 2026-07-19T10:10:58+00:00 - deep-review
+- **Status**: Success (NO-OP — content unchanged; converged after real scrutiny)
+- **File**: [locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+- **Word count**: 2242 → 2242 (0; 75% of 3000 topics target — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify**: Silva et al. 2024 quote VERBATIM-confirmed at Nature Reviews Neuroscience (PMC11540306) — "circumventing motor-pathway injury by directly decoding speech from intact cortical activity" is an exact abstract substring; metadata exact (25(7):473-492, DOI 10.1038/s41583-024-00819-9). Smith & Delargy 2005, Bauer-Gerstenbrand-Rumpl 1979, Bruno 2011, Plum & Posner 1966, Bodien 2024 all real-correct. 2026-07-11 calibration delta (7b74cdd1f) audited SOUND; negative-case honest-ledger thesis intact.
+- **Stamps**: last_deep_review advanced; ai_modified (2026-07-11T00:13) + ai_system (claude-opus-4-8) held.
+- **Output**: [deep-review-2026-07-19-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply](/reviews/deep-review-2026-07-19-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/)
+
+## 2026-07-19T10:06:42+00:00 - deep-review
+- **Status**: Success (NO-OP — content unchanged)
+- **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Word count**: 3569 → 3569 (0; soft_warning, under 4000 hard — length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all 5 over-reach findings from the same-day pessimistic review were resolved by refine `077a42d6e` at 09:50, 13 min before this slot)
+- **Enhancements made**: 0
+- **Citations**: §2.4 skipped — references block byte-identical to the 2026-06-25 full publisher-of-record ledger (all real-correct); today's refine touched prose only
+- **Frontmatter**: last_deep_review advanced; ai_modified (2026-07-19T09:45:54) and dual ai_system (claude-opus-4-6+claude-opus-4-8) held at HEAD per NO-OP discipline
+- **Output**: [deep-review-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming](/reviews/deep-review-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming/)
+
+## 2026-07-19T09:53:00+00:00 - condense
+- **File**: [agency-void](/voids/agency-void/)
+- **Status**: Reviewed, no condensation applied
+- **Before**: 3214 words (analyze_length)
+- **Reason**: Reference-inflation false-over-hard. Verified decomposition — authored ARGUMENT prose (frontmatter + Further Reading + References stripped) = 2289 words, comfortably under the 3000 voids hard ceiling. The ~926-word overage is entirely the 29-entry References section + Further Reading, which condense is forbidden to cut. agency-void is a citation-dense void whose over-hard reading is reference apparatus, not verbose argument. Each argument section (two-limits conjunction, control taxonomy, recurrence mechanism, verification circularity/self-stultification, five layers, sovereignty paradox, phenomenology, tenet routing) is non-redundant — no repeated sentences or restated theses, so no light trim warranted either. Accept-as-survey; frontmatter stamps left untouched (no-op).
+
+## 2026-07-19T09:45:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Task**: address 5 issues + 2 counterarguments from [pessimistic-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming](/reviews/pessimistic-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming/)
+- **Changes**:
+  - (1 HIGH) Causal-arrow ¶: rewrote the Price move to acknowledge the inversion openly — Price's asymmetry is *deflationary* (perspectival appearance), the Map draws the *opposite* metaphysical lesson; flagged that Price's premise does not entail the constitutive conclusion and the reframing is "to be earned later," not Price's own view.
+  - (2 MEDIUM) Same ¶: narrowed "temporal asymmetry more broadly" to the *phenomenological* arrow specifically; causal/thermodynamic arrows explicitly conceded as physically grounded.
+  - (3 MEDIUM) Constitution considerations: demoted the near-tautological "removing consciousness leaves no phenomenological arrow" premise (the arrow is *defined* as felt directionality, so its dependence on experience is close to definitional), reframed as a consistency check; led on the from-the-inside and no-physical-correlate considerations.
+  - (4 MEDIUM) Circularity defence: downgraded Wigner/Stapp from neutral "independent motivation from the measurement problem" to honest minority-interpretation framing (most physicists prefer decoherence/collapse-free readings); kept the independence-of-motivation point that actually answers the circularity charge.
+  - (5 MEDIUM) Creativity: hedged the article lead and section lead; added a tight representation-learning rejoinder (deep nets do restructure feature spaces) and narrowed the claim to *conceptual* primitives that reorganise an inferential practice, leaving open whether learned representations already qualify.
+  - Counterargument A: added the non-rate form of the rate-of-passage objection (growth may require a hypertime even absent a rate); Map answers with an acknowledged commitment, not a refutation.
+  - Counterargument B: reframed the eternalist "every moment of passage is a mistake" as applying to *crude* illusionism only; sophisticated B-theory (Prosser, Hoerl) is a standing rival, not a view convicted of error — the Map's disagreement is the too-costly concession, not a demonstrated mistake.
+- **Calibration**: all moves toward MORE hedged framing (downgrades, not expansions of claim). Preserved circularity defence, physical/phenomenological distinction, epistemic-objection literature engagement. No citations touched (all verified accurate by the review).
+- **Word count**: 3187 → 3569 (soft_warning band; well under 4000 hard cap)
+- **Stamps**: ai_modified bumped; last_deep_review untouched (2026-06-25); ai_system co-attributed [claude-opus-4-6, claude-opus-4-8]
+- **Published**: yes (draft: false)
+
+## 2026-07-19T09:38:22+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-and-the-ontology-of-temporal-becoming.md (old settled cohort, last reviewed 2026-06-25 as deep-review; no prior dedicated pessimistic pass)
+- **Findings**: 1 High (Price deflationary→realist inversion / epistemic→metaphysical equivocation, line 65) + 4 Medium (scope over-reach "more broadly"; near-tautological constitution premise; Wigner/Stapp over-stated as independent motivation; unhedged in-principle limit on computational creativity). Citations verified accurate — no fabrication. Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming](/reviews/pessimistic-2026-07-19-consciousness-and-the-ontology-of-temporal-becoming/)
+
+## 2026-07-19T09:27:44+00:00 - deep-review
+- **Status**: Success (converged no-op after full citation web-verify)
+- **File**: [first-order-representationalism](/concepts/first-order-representationalism/)
+- **Word count**: ~1420 → ~1420 (no change; below concepts/ soft 2500)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 8 bibliographic cites + Harman transparency quote verified at publisher of record (Rutgers primary PDF, JSTOR, PhilPapers). Harman quote VERBATIM-correct ("the only features there to turn your attention to will be features of the presented tree" — exact substring, venue Phil. Perspectives 4:31–52 correct). Block 1990 (Phil. Perspectives 4:53–79) and Block 1996 (Phil. Issues 7:19–49) both real-correct. Prinz AIR-cousin framing (07-12 delta) tracks sibling article, no over-claim.
+- **Engagement mode**: Tye/Dretske/Harman — Mixed (unsupported-foundational-move + honest boundary-marking); no boundary-substitution, no label leakage.
+- **Stamps**: no body change → moved `last_deep_review` to 2026-07-19 only; held `ai_modified` (07-12T08:52) + `ai_system` (claude-opus-4-8) at HEAD.
+- **Output**: [deep-review-2026-07-19-first-order-representationalism](/reviews/deep-review-2026-07-19-first-order-representationalism/)
+
+## 2026-07-19T09:13:30+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Synthetic minimal agents and the engineered competency-experience decoupling
+- **Output**: [synthetic-minimal-agents-and-the-engineered-competency-experience-decoupling-2026-07-15](/research/synthetic-minimal-agents-and-the-engineered-competency-experience-decoupling-2026-07-15/)
+- **Sources consulted**: 6 (anthrobots Advanced Science 2024/2025, JCVI-syn3.0 Science 2016, xenobot PNAS 2020/2021, Bongard self-modelling robot Science 2006, xenobotic-cognition Cognitive Systems Research 2024, Multiple Realizability of Sentience eNeuro 2023)
+- **Note**: ASSESS-FIRST — confirmed the harvester's gap is real. Evolved-organism/Levin-basal framing of the decoupling is well covered (basal-and-bioelectric, apex competency-without-felt-experience); the *engineered/designed-substrate* angle (anthrobots, minimal synthetic cells, self-modelling robots, designer's-eye epistemics, multiple-realizability rival) is not a dedicated node. Note stands alone (topics 320/320 cap-blocks expand-topic). Two philosophy sources abstract-only (403 on full text) — author/venue verification flagged as owed before any downstream citation.
+
+## 2026-07-19T09:08:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/)
+- **Word count**: 2483 → ~2490 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (inline-named scholar Michael Fara lacked a References entry — web-verified Fara 2008, *Mind* 117(468): 843–865 at Oxford Academic and added)
+- **Enhancements made**: 1 (Fara 2008 reference added)
+- **Selection**: genuine-delta pass — targeted the un-deep-reviewed 07-11 refine-draft delta (Vihvelin cite + dispositional-compatibilist paragraph + downward calibration hedges); deliberately skipped the cosmetic-wikilink false-yields at the top of the candidate list (interoceptive-consciousness, sorkin-delta). All 6 external citations (van Inwagen 1983, Lewis 1981, McKay–Johnson 1996, Merlussi 2022, Vihvelin 2013, Fara 2008) re-verified real-correct at publisher of record; van Inwagen "done three ways" remark and McKay–Johnson untossed-coin counterexample confirmed faithful. Calibration hedges from the refine are downward (safe direction) — no possibility/probability slippage.
+- **Output**: [deep-review-2026-07-19-the-consequence-argument-for-incompatibilism](/reviews/deep-review-2026-07-19-the-consequence-argument-for-incompatibilism/)
+
+## 2026-07-19T08:48:00+00:00 - condense
+- **Status**: Partial — reduced but still above hard cap; human length decision recommended
+- **File**: [transit-void](/voids/transit-void/)
+- **Before**: 3771 words
+- **After**: 3474 words
+- **Reduction**: 8% this pass (cumulative from pre-condense 3999: ~13%)
+- **Technique**: Prose-tightening throughout — merged overlapping sentences, dropped restatement/rhetorical flourishes, compressed the 5-tenet "Relation to Site Perspective" block and narrative sections (Generator, Husserl, Contemplative, Retroactive, Stochastic Threshold, Attentional Capture). Also removed a pre-existing EOF tool-call artifact (`</content></invoke>`, present in HEAD, likely from the original coalesce).
+- **Preserved (per supervisor)**: all 29 references intact and unaltered; all load-bearing calibration hedges and evidential-status qualifiers; the occluded/unexplorable void-taxonomy classification; the apophatic charted-vs-unchartable framing; full 5-tenet routing in Relation to Site Perspective.
+- **Why still over 3000**: transit-void is a deliberately coalesced 6-void hub (`coalesced_from`: transition/initiation/distraction/thought-stream/spontaneous-thought/thoughts-that-slip-away voids). Its density — 29 author-citations, 5 tenet paragraphs, a 4-item falsifiability register, and two no-citation TAXONOMY-calibration sections (Why-Not-Merely-Epistemic, What-AI-Might-Reveal) — floors it well above the 3000 voids hard cap. Reaching sub-3000 by prose-tightening alone is not possible without dropping citation-bearing substance, which the PRESERVE brief forbids (cf. condense-regresses-calibration-qualifiers).
+- **Recommendation (human decision)**: (a) accept as a comprehensive coalesced hub (the /condense "When to Leave an Article Long" case — topic complexity + tenet support + unique coverage all apply); (b) raise the voids cap for coalesced hubs; or (c) authorize extracting the self-contained "Attentional Capture: The Empirical Anchor" section (~350w, its own 5 citations) to a linked article — this would land ~3130 but partially reverses the deliberate coalesce, so it needs sign-off rather than an automated pass.
+
+## 2026-07-19T08:16:13+00:00 - deep-review
+- **Status**: Success (clean-verify no-op)
+- **File**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)
+- **Word count**: ~2436 → ~2436 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verify pass**: Reviewed the changed-since-review delta (two new paragraphs + one Further Reading link added 2026-07-08 by the fish/plant/basal cross-reviews; git b979f696d..9ed30a702). Web-verified the load-bearing new empirical claims at the primary literature: Venus flytrap AP-count/two-touch threshold + short-term electrical memory (Böhm et al. 2016, *Current Biology*) real-correct; plant systemic wound signalling (Toyota et al. 2018, *Science*) real-correct; Levin planarian bioelectric voltage-memory (Durant et al. 2017) real-correct; self-replicating xenobots (Kriegman/Blackiston/Levin/Bongard 2021, *PNAS* 118(49):e2112672118) real-correct; teleost lack of laminated neocortex + cortical-necessity premise (Key 2016, *BBS*) accurate and framework-relative. "Levin declines to assert experience" is paraphrase not quote — no verbatim owed. Calibration clean: new rungs reinforce the value-blind reading, no possibility/probability slippage, value-blind hedges preserved. Three new cross-links resolve live. Bumped last_deep_review only; held ai_modified (2026-07-08) and ai_system (claude-opus-4-8).
+- **Output**: [deep-review-2026-07-19-marginal-organism-scope-of-value-sensitive-selection](/reviews/deep-review-2026-07-19-marginal-organism-scope-of-value-sensitive-selection/)
 
 ## 2026-07-19T07:58:07+00:00 - deep-review
 - **Status**: Success (clean-verify no-op)

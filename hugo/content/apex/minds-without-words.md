@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-08 06:44:53+00:00
+ai_modified: 2026-07-19 12:13:24+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-19 21:00:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/NQWezvA_qcI
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-23 02:52:44+00:00
+last_deep_review: 2026-07-19 12:13:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -180,7 +180,7 @@ This apex article synthesises:
 
 ## References
 
-1. Andrews, K., Birch, J., & Sebo, J. (2025). Evaluating animal consciousness. *Science*, 387(6735), 822–824.
+1. Andrews, K., Birch, J., & Sebo, J. (2025). Evaluating animal consciousness. *Science*, 387(6736), 822–824.
 2. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805–819.
 3. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 4. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
