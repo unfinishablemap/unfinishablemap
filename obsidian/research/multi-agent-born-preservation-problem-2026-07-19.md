@@ -138,7 +138,7 @@ A fourth, Map-internal move worth flagging: **(d) single global experiencer.** I
 ### Is multi-agent preservation a fine-tuning "conspiracy"?
 - **Sides**: Fine-tuning critics (2502.07865; general superdeterminism-conspiracy objections) vs corridor defenders (the constraint is a lawlike psychophysical regularity, not a coincidence).
 - **Core disagreement**: Whether a law that makes N independent selectors jointly Born-consistent is explanatory or merely stipulated.
-- **State**: Open; connects to [[psychophysical-laws]] and the [[epiphenomenalist-threat]].
+- **State**: Open; connects to [[psychophysical-laws]] and [[the-epiphenomenalist-threat]].
 
 ### Whose selection is authoritative under nesting (Wigner's friend)?
 - **Sides**: Frauchiger-Renner (Q+S+C inconsistent) vs restricted-Born responses (Ollivier et al. 2024: observers about to be "cat-measured" can't use standard Born) vs relational/QBist (no cross-agent fact to be inconsistent about).
