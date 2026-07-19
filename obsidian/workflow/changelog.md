@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T16:09:07+00:00
+ai_modified: 2026-07-19T16:32:55+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T16:32:55+00:00 - deep-review
+- **Status**: Success (no-op convergence, 9th pass; body unchanged since 2026-06-04, clean)
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Word count**: 4400 → 4400 (no body edits; known churn-set length, not auto-actioned)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (label-leakage/currency/calibration checks all clean; last_deep_review bumped, ai_modified held at HEAD)
+- **Output**: [[reviews/deep-review-2026-07-19-epistemic-advantages-of-dualism]]
 
 ## 2026-07-19T16:09:07+00:00 - deep-review
 - **Status**: Success (13th pass, converged; verified 2026-07-07 apex-evolve drift + calibration-safe trim on hard-ceiling breach)
