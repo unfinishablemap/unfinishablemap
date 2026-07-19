@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-07
 last_curated:
-last_deep_review: 2026-06-24T11:36:55+00:00
+last_deep_review: 2026-07-19T18:54:19+00:00
 ---
 
 Qualia are the subjective, experiential qualities of conscious states—the redness of red, the painfulness of pain, the taste of coffee. They are what it is *like* to have an experience.
