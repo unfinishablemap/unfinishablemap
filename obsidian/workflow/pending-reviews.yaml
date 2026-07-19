@@ -399,9 +399,9 @@
   commissioned_at: '2026-07-19T03:05:33.459755+00:00'
   prompt_summary: Audit of the Chinese Room Argument concept article
   target_filename: outer-review-2026-07-19-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-19T04:16:08.671246+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile but fair external referee. Audit the Chinese Room
     Argument concept article on The Unfinishable Map, a dualist philosophy-of-mind

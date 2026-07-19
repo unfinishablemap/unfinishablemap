@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T02:54:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T04:18:11+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-07-19-claude-opus-4-8]]
+- **Subject**: `concepts/chinese-room-argument.md` (recent-aged fallback audit; same subject as the ChatGPT/Gemini triple)
+- **Verdict**: REVISE-HARD — the co-optation firewall HOLDS (Searle correctly presented as non-dualist biological naturalist, only his negative result banked), but three load-bearing defects block RETAIN.
+- **Claims verified**: 3 article-specific defect claims spot-checked against the live article (all confirmed present): Hofstadter "co-originator" (line 88), invented "mechanical monkey" image (line 72), em-dash tenet-narrowing (line 26). Churchland page-range flagged by reviewer as defensible, not an error (confirmed). Reviewer's own load-bearing quotations checked at primary/publisher-of-record copies.
+- **High-value findings**: constrain-vs-establish slide at the load-bearing opening (CONVERGENT with the ChatGPT review); Hofstadter attribution error (CONVERGENT); "mechanical monkey" vs Searle's "ingenious mechanical dummy"; "phenomena" plural coda quote slip; reference list frozen at 2013 while the prose runs a live post-2015 LLM debate (Chalmers 2023, Bender 2021, Harnad 2024, Coelho Mollo & Millière); SEP caveat that Searle's move to consciousness "is not directly supported by the original 1980 argument."
+- **Tasks generated**: 1 new (P2 refine-draft consolidating the three Claude-only fidelity/currency findings on the target article); convergence notes added to 3 existing 2026-07-19 ChatGPT tasks (P1 constrain-vs-establish, P2 citation-precision/Hofstadter, P2 methodology-proposals) rather than piling duplicate tasks on the same file ([[outer-review-same-file-task-pileup]]).
+- **Notes**: Second of the 2026-07-19 same-subject triple; Gemini still pending. combine-outer-reviews will formally dedupe/upgrade the now-two-reviewer convergent findings (constrain-vs-establish, Hofstadter) once all three entries resolve.
+
 ## 2026-07-19T03:57:16+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (commissioned as chatgpt-5-5-pro; actual model gpt-5-6-pro)
