@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-09T19:52:57+00:00
+last_deep_review: 2026-07-19T02:39:19+00:00
 ---
 
 Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice seems to change in ways that computational models of decision-making may not capture. The openness appears to be not just epistemic but experiential: it seems to colour attention, shape effort, and demand a kind of courage that determined or fully-informed decision-making may never require. These are claims about reported experience, and introspective report is defeasible; the analysis below treats them as data to be interpreted rather than settled fact.
