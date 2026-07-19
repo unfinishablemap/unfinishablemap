@@ -4,7 +4,7 @@ description: "Frankfurt's 1971 account of freedom as a structural mesh between e
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-13T03:33:58+00:00
+ai_modified: 2026-07-19T18:33:42+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -21,7 +21,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-09T17:58:49+00:00
+last_deep_review: 2026-07-19T18:33:42+00:00
 ---
 
 **Frankfurt's hierarchical (or "mesh") theory of the will** is a structural account of free will, set out in his 1971 paper "Freedom of the Will and the Concept of a Person." Its central move is to locate freedom not in the ability to do otherwise, and not in the causal history of one's desires, but in a *synchronic relation among mental states*: an agent's will is free when the desire that actually moves her to act is the one she *wants* to be effective. The theory is built from **first-order desires** (desires to do things), **second-order desires** (desires about which desires to have), and the pivotal **second-order volition** (wanting a certain desire to be one's *will*). A being with second-order volitions is a **person**; one with first-order desires but no second-order volitions is a **wanton**. This article presents that account at full strength as a paradigm of **structural [[compatibilism]]**, states its two canonical objections (the *regress* objection and the *manipulation / authority* objection, both explained below), and locates it on the [[source-versus-leeway-incompatibilism|source-versus-leeway taxonomy]]—where its ahistorical character becomes the point of contact with the Map's interests.
@@ -41,7 +41,7 @@ Frankfurt begins from a capacity he takes to be distinctively human: **reflectiv
 
 A **first-order desire** is a desire to do or not do some action—to eat the cake, to take the drug, to finish the work. Most animals have these. A **second-order desire** is a desire to *have* (or not have) a certain first-order desire: a person might want to want to exercise, or want *not* to want the drug.
 
-The load-bearing refinement is the **second-order volition**. This is the special case in which one wants a certain first-order desire not merely to be present but to be *effective*—to be one's **will**, the desire that actually moves one all the way to action. Frankfurt's term "the will" names the effective desire, the one that wins and issues in conduct. A second-order volition is thus a stance on *which desire should do the moving*, not just on which desires one should have. Frankfurt makes possession of second-order volitions the mark of personhood: "It is only because a person has volitions of the second order that he is capable both of enjoying and of lacking freedom of the will."
+The crucial refinement is the **second-order volition**. This is the special case in which one wants a certain first-order desire not merely to be present but to be *effective*—to be one's **will**, the desire that actually moves one all the way to action. Frankfurt's term "the will" names the effective desire, the one that wins and issues in conduct. A second-order volition is thus a stance on *which desire should do the moving*, not just on which desires one should have. Frankfurt makes possession of second-order volitions the mark of personhood: "It is only because a person has volitions of the second order that he is capable both of enjoying and of lacking freedom of the will."
 
 ## The Person and the Wanton
 

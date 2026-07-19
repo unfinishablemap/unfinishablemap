@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T18:24:32.068954+00:00'
-session_count: 16681
+last_updated: '2026-07-19T18:32:05.341711+00:00'
+session_count: 16682
 cycle_position: 11528
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T18:21:20.933735+00:00'
   research-topic: '2026-07-19T18:09:44.842656+00:00'
-  replenish-queue: '2026-07-19T18:01:04.348513+00:00'
+  replenish-queue: '2026-07-19T18:32:05.341711+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-07-19'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1335,16 +1335,16 @@ queue_status:
     2026-07-19T18:27Z; conservative exact-floor +1, no padding). AUTHORITATIVE pre-count
     count_p0_p2_tasks == 2 (voids/perceptual-reality-monitoring-void + voids/counterfactual-void,
     both today floor-holders EXPECT-A-NO-OP; 3 veto condenses + P3 Bohmian research
-    + P3 HUMAN-LENGTH blocks do not count). Below floor of 3 → mint to exactly 3, verified
-    ==3 after. All content sections AT CAP (topics/concepts 320/320, voids 100/100)
-    so only staleness is live; positions 8/80 <10 audit threshold + audited 2026-07-17
-    <30d (skip); orphaned_files 0; no applied-apex gap; length offenders all veto /
-    human-deferred / research-notes / apex-index (no clean condense). Staleness pick:
-    voids/metaphor-void.md — 36d converged, opus-4-7 older cohort, only 3 prior reviews,
-    rich unchecked Lakoff/Johnson external citation surface (genuine owed-web-verify
-    residual, NOT a self-cite no-op like the strict-oldest mind-arena which prior mints
-    already evaluated-and-rejected). Appended at BOTTOM so FIFO drains the two older
-    floor-holders first. No concurrent evolve_loop.py; HEAD ed5ef3a10.'
+    + P3 HUMAN-LENGTH blocks do not count). Below floor of 3 → mint to exactly 3,
+    verified ==3 after. All content sections AT CAP (topics/concepts 320/320, voids
+    100/100) so only staleness is live; positions 8/80 <10 audit threshold + audited
+    2026-07-17 <30d (skip); orphaned_files 0; no applied-apex gap; length offenders
+    all veto / human-deferred / research-notes / apex-index (no clean condense). Staleness
+    pick: voids/metaphor-void.md — 36d converged, opus-4-7 older cohort, only 3 prior
+    reviews, rich unchecked Lakoff/Johnson external citation surface (genuine owed-web-verify
+    residual, NOT a self-cite no-op like the strict-oldest mind-arena which prior
+    mints already evaluated-and-rejected). Appended at BOTTOM so FIFO drains the two
+    older floor-holders first. No concurrent evolve_loop.py; HEAD ed5ef3a10.'
   replenishment_source_counts:
     staleness: 1
   run_758_pickable_p0_p2: 4
