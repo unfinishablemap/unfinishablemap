@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-06-05T08:13:44+00:00
+last_deep_review: 2026-07-19T13:33:51+00:00
 ---
 
 The Unfinishable Map cannot map silence. Mapping is a cognitive activity—it requires categories, distinctions, language—and the silence void is the territory that opens only when cognition stops. Multiple contemplative traditions across centuries and cultures converge on a claim that should trouble any cartographic project: some truths are accessible only through the deliberate cessation of thought, and any attempt to articulate them destroys the conditions under which they are known. Rather than a mere absence, the silence void is a territory whose entry condition is the suspension of the very faculties that make mapping possible.
