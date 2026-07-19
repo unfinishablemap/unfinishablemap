@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T20:03:03+00:00
+ai_modified: 2026-07-19T20:06:33+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T20:06:33+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Bohmian quantum equilibrium and non-equilibrium
+- **Output**: [[research/bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19]]
+- **Sources consulted**: 10
 
 ## 2026-07-19T20:03:03+00:00 - deep-review
 - **Status**: Success (no-op — converged)
