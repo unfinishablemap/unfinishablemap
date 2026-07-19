@@ -5,6 +5,18 @@ ai_modified: 2026-07-19T15:12:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T15:22:59+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — settled apex, quote/citation + internal-quote channel re-verified)
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Word count**: 4702 → 4702 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Quotes verbatim-verified at primary publishers**: Ratcliffe "constitute ways of relating to the world as a whole" (real-correct), Vervaeke/Jaeger et al. 2024 "impredicative and co-constructive" (real-correct), Rozenblit & Keil "illusion of explanatory depth" (real-correct); Polanyi "We know more than we can tell" — primary verbatim is "we *can* know...", conventional rendering shared with sibling tacit-integration-void, logged corpus-wide low, NOT fixed (would desync corpus)
+- **Internal-quote channel**: all 5 sibling-attributed paraphrases (mattering/relevance/noetic-feelings/conceptual-scheme/tacit-integration) faithful to current sibling text; verdictive/integrative face pairing verbatim
+- **Stamps**: last_deep_review → 2026-07-19T15:22:59+00:00 only; HELD ai_modified (06-12), ai_system (claude-opus-4-7), apex_last_synthesis (06-07)
+- **Output**: [[reviews/deep-review-2026-07-19-medium-status-voids-in-cognition]]
+
 ## 2026-07-19T15:12:08+00:00 - deep-review
 - **Status**: Success (verbatim quote-fidelity + citation web-verify no-op after real scrutiny)
 - **File**: [[topics/interoceptive-consciousness-and-the-interface]]
