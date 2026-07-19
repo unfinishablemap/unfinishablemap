@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T17:48:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T19:03:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/dualism]]
+- **Word count**: 2529 → 2530 (no content edits; +1 from 2026-07-12 cross-link cosmetics)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 10th deep review; content no-op. Delta since 2026-06-26 was two cosmetic cross-link edits (Kripke text→wikilink; +[[type-identity-theory]] in Further Reading), both diff-verified clean, both targets live. §2.4 full web-verify legitimately skipped — References block unmodified since the 2026-06-26 full publisher-of-record ledger; no new inline cites. All prior citation/metadata fixes persist. Currency/EOF/cliché/label scans clean; Tenet-1 calibration no slippage. `last_deep_review` bumped; `ai_modified` held at HEAD (2026-07-12) per no-op discipline. Article converged (4th consecutive citation-only-or-nil review).
+- **Output**: [[reviews/deep-review-2026-07-19-dualism]]
+
 ## 2026-07-19T18:58:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Incompatibilism / structure-of-the-will cluster (5 articles, 4 freshly deep-reviewed/refined): consequence-argument, source-versus-leeway-incompatibilism, frankfurt-hierarchical-mesh-theory-of-the-will, manipulation-argument-and-hard-incompatibilism, luck-objection. Model calibration exhibit — Process Philosopher and Hardline Empiricist converge in praise; zero slippage flags. No new-article opportunities (surface complete); consolidation + reciprocal cross-links only.

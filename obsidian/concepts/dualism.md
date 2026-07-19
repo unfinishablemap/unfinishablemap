@@ -61,7 +61,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-26T01:12:56+00:00
+last_deep_review: 2026-07-19T19:03:13+00:00
 coalesced_from:
   - "/concepts/the-case-for-dualism/"
   - "/concepts/arguments-against-materialism/"
