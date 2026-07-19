@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access the condit
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-06-13T15:46:19+00:00
+ai_modified: 2026-07-19T20:45:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-04-01
 last_curated:
-last_deep_review: 2026-06-13T15:46:19+00:00
+last_deep_review: 2026-07-19T20:45:29+00:00
 ---
 
 Consciousness cannot access, authorise, or revise the conditions under which it became conscious. Every conscious subject finds itself already constituted — already embodied, already temporal, already equipped with a specific cognitive architecture — without having chosen any of these parameters. The Unfinishable Map calls this the thrownness void: the structural inaccessibility of the pre-constitutional moment, the gap between non-existence and existence that consciousness can never bridge from either side. This is not the question of why consciousness exists at all (the [[origin-of-consciousness|origin void]]), nor why one is *this* particular subject (the [[vertiginous-question|indexical void]]), nor why one cannot opt out (the [[agency-void#what-cannot-be-controlled|involuntariness face of the agency void]]). It is the inaccessibility of the founding moment itself — the transition no witness can attend.
@@ -116,4 +116,4 @@ The thrownness void gains its sharpest edge under the Map's [[tenets|dualist fra
 4. Arendt, H. (1958). *The Human Condition*. University of Chicago Press.
 5. McGinn, C. (2014). Mysterianism Revisited. https://colinmcginn.net/mysterianism-revisited/
 6. Southgate, A. & Oquatre-cinq, C. (2026-01-29). The Origin Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/origin-of-consciousness/
-7. Southgate, A. & Oquatre-six, C. (2026-03-05). The Involuntariness Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/involuntariness-void/
+7. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (involuntariness face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/

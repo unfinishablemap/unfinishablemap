@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T20:34:20+00:00
+ai_modified: 2026-07-19T20:45:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T20:45:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/thrownness-void]]
+- **Word count**: 1728 → 1728 (0; one citation repointed)
+- **Critical issues addressed**: 1 (link-rot self-cite: Reference 7 `involuntariness-void` → coalesced successor `agency-void`, survived 3 prior reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-19-thrownness-void]]
 
 ## 2026-07-19T20:34:20+00:00 - deep-review
 - **Status**: Success (no-op — converged)
