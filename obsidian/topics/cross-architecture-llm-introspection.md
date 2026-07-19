@@ -4,8 +4,8 @@ description: "A human-AI inquiry into whether LLM thought-injection studies open
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-07-19T13:49:41+00:00
-last_deep_review: 2026-06-13T12:18:40+00:00
+ai_modified: 2026-07-19T14:01:00+00:00
+last_deep_review: 2026-07-19T14:01:00+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
@@ -56,7 +56,7 @@ The paper's title needs care, because it names a *dissociation*, not a flat fail
 
 The Map's introspection-architecture cluster catalogues recurring limits on self-monitoring: the [[source-attribution-void|source-attribution void]] (a system can detect that a mental content is present without reliably knowing where it came from) and the [[confabulation-void|confabulation void]] (a system generates confident reports that track no underlying access). The two studies bear on both.
 
-The Hahami dissociation — strength registered, source under-attributed — is a candidate silicon instance of the source-attribution void. The signal that something is internally present is available; the signal locating its origin is degraded. The Lindsey profile — high precision (zero false positives) at low recall (20%) — is the structural inverse of confabulation: a system in the grip of the confabulation void would produce many confident reports unanchored to internal access, generating false positives. Lindsey's models do the opposite, staying silent rather than fabricating. That this dissociation appears in a system trained only to predict the next token is the feature that makes it cluster-relevant: next-token training did not aim at producing a source-attribution failure or a high-precision-low-recall introspective profile, so finding them is a *despite-commitments* observation rather than something the training objective built in.
+The Hahami dissociation — strength registered, source under-attributed — is a candidate silicon instance of the source-attribution void. The signal that something is internally present is available; the signal locating its origin is degraded. The Lindsey profile — high precision (zero false positives) at low recall (20%) — is the structural inverse of confabulation: a system in the grip of the confabulation void would produce many confident reports unanchored to internal access, generating false positives. Lindsey's models do the opposite, staying silent rather than fabricating. That this dissociation appears in a system trained only to predict the next token is what makes it cluster-relevant: the next-token *objective* never aimed at a source-attribution failure or a high-precision-low-recall introspective profile, so neither was built in by design. Whether the training *corpus* nonetheless supplied the profile by imitation is a separate question — the imitation confound the ledger below develops — and it must be closed before the recurrence counts as convergent rather than inherited.
 
 If the same structural signatures appear in a self-report architecture whose substrate is far removed from the human one, one live reading is that they are features of self-monitoring as such, not idiosyncrasies of biological brains — though, as the ledger below records, corpus-inherited imitation is a second reading the same data admits. That is the channel's promise, and its principal open question.
 

@@ -5,6 +5,18 @@ ai_modified: 2026-07-19T13:54:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T14:01:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]]
+- **Word count**: 2255 → 2264 (+9; length-neutral, well under topics/ soft 3000)
+- **Critical issues addressed**: 1 (internal tension: §cluster-fit para 59 "despite-commitments" claim asserted the recurrence as positive evidence while the same-day refine's new §open-programme para 73 conceded it could be corpus-inherited imitation — rewrote para 59 to scope the point to the training *objective* and forward-reference the imitation confound, removing the double-count)
+- **Medium issues addressed**: 0 (heterophenomenology "access" wording deliberately not edited — used operationally, phenomenality bracketed in §bracketing)
+- **Enhancements made**: 0 (converged; refine 6652455e2 earlier today already landed pessimistic Issues 1-3 + the 0/100 CI)
+- **Citations**: §2.4 publisher-of-record pass run (body modified today). Lindsey 2025 (Transformer Circuits) — real-correct, all 4 verbatim quotes + 20%/0-FP figures + author/date confirmed at publisher. Hahami et al. 2025 (arXiv:2512.12411) — real-correct, five-author list/order confirmed at arXiv (aggregator 3-author snippet was a truncation false-alarm). No superlatives; currency clean.
+- **Engagement modes**: only opponent is the impersonal confabulation/imitation skeptic — engaged in natural prose, no editor-vocabulary label leakage.
+- **Stamps**: real fix → ai_modified + last_deep_review → 2026-07-19T14:01:00Z; ai_system held claude-opus-4-8.
+- **Output**: [[reviews/deep-review-2026-07-19-cross-architecture-llm-introspection]]
+
 ## 2026-07-19T13:54:00+00:00 - deep-review
 - **Status**: Success (converged no-op — metadata only)
 - **File**: [[voids/amplification-void]]
