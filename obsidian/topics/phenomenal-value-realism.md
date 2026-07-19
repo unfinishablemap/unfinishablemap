@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-24T08:56:09+00:00
+last_deep_review: 2026-07-19T12:25:20+00:00
 coalesced_from:
   - "/topics/phenomenal-value-realism/"
   - "/topics/phenomenal-value-realism-development/"
