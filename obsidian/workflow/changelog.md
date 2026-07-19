@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T16:53:56+00:00
+ai_modified: 2026-07-19T17:45:22+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T17:45:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-manipulation-argument-and-hard-incompatibilism]]
+- **Word count**: 2379 → 2379 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Convergence no-op. Re-qualified only via sibling free-will article cross-link bumps; delta since 07-09 review is cross-link-only (3 Further Reading links + 1 clarifying phrase + 1 concept). New wikilink targets verified on disk; new source-argument phrasing verified accurate. References block unchanged → 07-09 web-verify ledger stands. `last_deep_review` advanced; `ai_modified` held (no content authored).
+- **Output**: [[reviews/deep-review-2026-07-19-the-manipulation-argument-and-hard-incompatibilism]]
 
 ## 2026-07-19T17:32:43+00:00 - deep-review
 - **Status**: Success

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T17:34:16.619574+00:00'
-session_count: 16671
+last_updated: '2026-07-19T17:43:22.198924+00:00'
+session_count: 16672
 cycle_position: 11522
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T13:52:50.366816+00:00'
   research-topic: '2026-07-19T09:18:22.378644+00:00'
-  replenish-queue: '2026-07-19T17:31:21.486490+00:00'
+  replenish-queue: '2026-07-19T17:43:22.198924+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1334,21 +1334,22 @@ queue_status:
     2026-07-19T17:38Z). Pre-count open P0-P2 == 2 (arguments/epistemological-limits-of-occams-razor
     + voids/perceptual-reality-monitoring-void; the 16:40 causal-interface mint plus
     the earlier intentionality/research-programme holders were consumed by cycle deep-review
-    slots since; 3 veto condenses + P3 Bohmian research + P3 HUMAN-LENGTH blocks do not
-    count). Below floor of 3 → mint to a healthy 5. All content sections at cap (topics/concepts
-    320/320, voids 100/100) so no expand/research-topic chains; positions 8/80 slow-add
-    + <10 audit threshold + audited 2026-07-17 <30d (skip, [[replenish-positions-audit-false-overdue]]);
+    slots since; 3 veto condenses + P3 Bohmian research + P3 HUMAN-LENGTH blocks do
+    not count). Below floor of 3 → mint to a healthy 5. All content sections at cap
+    (topics/concepts 320/320, voids 100/100) so no expand/research-topic chains; positions
+    8/80 slow-add + <10 audit threshold + audited 2026-07-17 <30d (skip, [[replenish-positions-audit-false-overdue]]);
     orphaned_files 0; no applied-apex gap; length offenders all veto / human-deferred
     / research-notes / apex-index (no clean condense). Staleness source: get_review_candidates
     top content picks (skipped the apex-articles.md index anomaly at 102.5 and what-consciousness
     which apex-evolve substantively re-curated 40min ago — let it settle). Chose the
     2026-07-09 opus-4-8 cohort — the-manipulation-argument-and-hard-incompatibilism
     (2515w), source-versus-leeway-incompatibilism (2039w), wavefunction-realism-vs-primitive-ontology
-    (1755w): each single-reviewed at creation, 10d settled, all comfortably under hard
-    ceilings (NOT length-entangled), citation surfaces never independently web-verified
-    in a standalone/outer review = genuine owed-web-verify residual, not self-cite no-ops.
-    Top-inserted per prior-run convention; the two older floor-holders remain pickable
-    via the cycle deep-review slot (get_review_candidates order, not queue position).'
+    (1755w): each single-reviewed at creation, 10d settled, all comfortably under
+    hard ceilings (NOT length-entangled), citation surfaces never independently web-verified
+    in a standalone/outer review = genuine owed-web-verify residual, not self-cite
+    no-ops. Top-inserted per prior-run convention; the two older floor-holders remain
+    pickable via the cycle deep-review slot (get_review_candidates order, not queue
+    position).'
   replenishment_source_counts:
     staleness: 3
   run_758_pickable_p0_p2: 4

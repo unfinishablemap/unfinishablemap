@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-09T11:21:49+00:00
+last_deep_review: 2026-07-19T17:45:22+00:00
 ---
 
 Derk Pereboom's **four-case manipulation argument** is the leading argument that moral responsibility is incompatible with determinism, and it is paired with a positive view—**hard incompatibilism**—that makes it the most dangerous opponent the Map's free-will program faces. The argument imagines Professor Plum committing the same murder in four scenarios that shade smoothly into one another: (1) a neuroscientist manipulates his reasoning in real time; (2) he was programmed at creation to reason this way; (3) he was rigorously determined by his upbringing; (4) he is simply a normally determined agent in a deterministic world. Plum meets every standard compatibilist condition in all four. If he is not responsible in Case 1, and no responsibility-relevant difference separates any case from the next, then he is not responsible in Case 4 either—so ordinary determinism defeats responsibility just as manipulation does. The danger to the Map is not the incompatibilist conclusion, which the Map [[the-consequence-argument-for-incompatibilism|already accepts]]. The danger is hard incompatibilism's second front: Pereboom argues the *libertarian* escape also fails, because indeterminism adds luck rather than control. The Map's reply—that its quantum interface is a genuine selection mechanism—is set out in the "Relation to Site Perspective" section below, and it is offered there as one contested answer, not a refutation. Pereboom's objection to libertarian control remains forceful and unresolved.
