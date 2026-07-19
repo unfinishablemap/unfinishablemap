@@ -4,7 +4,7 @@ description: "When meditation destabilizes the consciousness-brain interface: da
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-18T18:38:57+00:00
+ai_modified: 2026-07-19T21:29:16+00:00
 draft: false
 topics:
   - "[[contemplative-practice-as-philosophical-evidence]]"
@@ -29,14 +29,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-06-18T18:38:57+00:00
+last_deep_review: 2026-07-19T21:29:16+00:00
 ---
 
 Contemplative practice is, at its core, a deliberate intervention in the consciousness-brain interface. Meditation restructures attention, alters default-mode network activity, and reconfigures the channels through which consciousness acts on and receives information from the brain. When this restructuring goes well, it produces the states that [[contemplative-practice-as-philosophical-evidence|contemplative traditions report as evidence for consciousness]]: heightened clarity, expanded awareness, the emergence of [[witness-consciousness]] as a stable phenomenological finding. When it goes wrong, it produces something else entirely — contemplative pathology, a class of disturbances that arise not from neural disease but from the interface itself being pushed beyond its operating parameters.
 
 ## The Dark Night and Related Phenomena
 
-The best-documented contemplative pathology is what Theravada Buddhism maps as the *dukkha nanas* — the "knowledges of suffering" — and what St John of the Cross (1585/1959) mapped as the "dark night of the soul" in Christian mysticism. Lindahl et al.'s 2017 mixed-methods study of meditation-related challenges documented a taxonomy of disturbances across practitioners from multiple traditions: perceptual anomalies (visual distortions, auditory hallucinations), affective disruptions (panic, terror, uncontrollable grief), somatic symptoms (involuntary movements, pain, temperature changes), and cognitive disturbances (depersonalisation, derealisation, thought disruption).
+The best-documented contemplative pathology is what Theravada Buddhism maps as the *dukkha nanas* — the "knowledges of suffering" — and what St John of the Cross (1585/1959) mapped as the "dark night of the soul" in Christian mysticism. Lindahl et al.'s 2017 mixed-methods study of meditation-related challenges documented a taxonomy of disturbances across practitioners from three Western Buddhist traditions (Theravada, Zen, and Tibetan): perceptual anomalies (visual distortions, auditory hallucinations), affective disruptions (panic, terror, uncontrollable grief), somatic symptoms (involuntary movements, pain, temperature changes), dissociative disturbances of the sense of self (depersonalisation, derealisation), and cognitive disturbances (thought disruption, impaired executive function).
 
 What distinguishes these from ordinary psychiatric symptoms is their context and trajectory. They emerge specifically during or after intensive contemplative practice. They often follow periods of significant meditative progress. And they map onto stages that contemplative traditions have catalogued for centuries.
 

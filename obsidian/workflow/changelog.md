@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T21:24:53+00:00
+ai_modified: 2026-07-19T21:29:16+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T21:29:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/contemplative-pathology-and-interface-malfunction]]
+- **Word count**: 2192 → 2196 (+4; 73% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Lindahl 2017 taxonomy misbinning)
+- **Enhancements made**: 1 (sample-description sharpening)
+- **Details**: 6th review; ran the empirical-CLAIM-FIDELITY lens (findings vs metadata) per supervisor note. Web-verified the two load-bearing empirical paraphrases at publisher of record: Britton (2019) inverted-U/non-monotonic dose-response — FAITHFUL, no change; Lindahl (2017) grounding-practice remedies (38% practitioners / 55% experts) — attribution FAITHFUL, no change. One real minor misclassification fixed: article binned "depersonalisation, derealisation" under *cognitive* disturbances, but Lindahl's 7-domain taxonomy places derealisation in the Perceptual domain and depersonalisation/derealisation are dissociative/sense-of-self (DSM) — split into "dissociative disturbances of the sense of self" + "cognitive disturbances (thought disruption, impaired executive function)". Also sharpened "multiple traditions" → "three Western Buddhist traditions (Theravada, Zen, Tibetan)" matching the study's actual sample. No claim reversal; no metadata change (References byte-identical, ledger carried forward). Engagement with production theorist: Mode Three, no label leakage. HELD ai_system claude-opus-4-6 (minor fidelity edits, not re-authoring). Bumped ai_modified + last_deep_review.
+- **Output**: [[reviews/deep-review-2026-07-19-contemplative-pathology-and-interface-malfunction]]
 
 ## 2026-07-19T21:24:53+00:00 - deep-review
 - **Status**: Success (metadata-only no-op — converged)
