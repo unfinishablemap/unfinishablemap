@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T01:16:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T01:20:36+00:00 - deep-review
+- **Status**: Success (near-no-op — fifth-consecutive convergence confirmed)
+- **File**: [[topics/hard-problem-of-consciousness]]
+- **Word count**: 3454 → 3454 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 21st deep review of a flagship Tenet 1 article (heavily damped). Diffed against the 06-20 review commit: three cosmetic changes (thought-stream-void→transit-void repoint, PCS deferral-sentence polish, [[biological-naturalism]] Further-Reading link) + one substantive addition — the Chris Letheby predictive-self-binding sentence in the Predictive Processing subsection. Verified the Letheby attribution against the linked source [[predictive-self-binding-and-the-naturalist-challenge]]: faithful (Letheby & Gerrans 2017 self-binding = self-prioritisation; "without establishing the self-model is felt" restates the source's own "hard-problem debt" front). Engagement with Letheby: Mode Two (opponent's unpaid explanatory debt, no boundary-substitution). Calibration honest, no possibility/probability slippage. §2.4 web-verify NOT re-triggered — References block byte-identical to the 2026-06-20 full publisher-of-record ledger (all 8 refs + externals verified there). All changed/added wikilinks resolve; no editor-label leakage. Length 3454w = 115% soft, under 4000 hard. Only `last_deep_review` stamped; `ai_modified` left at HEAD (2026-07-12) per no-op discipline.
+- **Output**: [[reviews/deep-review-2026-07-19-hard-problem-of-consciousness]]
+
 ## 2026-07-19T01:16:52+00:00 - deep-review
 - **Status**: Success (no-op — converged, delta clean)
 - **File**: [[topics/decoherence-and-macroscopic-superposition]]
