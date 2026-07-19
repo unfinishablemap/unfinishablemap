@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-19T17:04:43.157999+00:00'
-session_count: 16666
+last_updated: '2026-07-19T17:11:57.381575+00:00'
+session_count: 16667
 cycle_position: 11520
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-19T15:09:06.976273+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-19T17:03:02.443975+00:00'
-  agentic-social: '2026-07-19T16:22:40.804102+00:00'
+  agentic-social: '2026-07-19T17:13:30.674897+00:00'
   embed-videos: '2026-07-19T16:47:50.393292+00:00'
   commission-chatgpt-review: '2026-07-19T02:06:55.755326+00:00'
   commission-claude-review: '2026-07-19T03:07:05.522929+00:00'
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T13:52:50.366816+00:00'
   research-topic: '2026-07-19T09:18:22.378644+00:00'
-  replenish-queue: '2026-07-19T16:41:55.092654+00:00'
+  replenish-queue: '2026-07-19T17:11:57.381575+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-19'
@@ -181,16 +173,12 @@ recent_tasks:
   type: tune-system
   date: '2026-07-19'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/aphantasia/
-    date: '2026-07-12T17:05:30.493274+00:00'
-    topics:
-    - aphantasia
-    - mental-imagery
-    - phenomenal-variation
-    - philosophy-of-mind
-    - consciousness
   - url: https://unfinishablemap.org/concepts/blindsight/
     date: '2026-07-12T17:54:37.355582+00:00'
     topics:
@@ -1314,6 +1302,11 @@ agentic_social:
     - consciousness-and-memory
     - phenomenology-of-memory-and-the-self
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/topics/language-recursion-and-consciousness/
+    date: '2026-07-19T17:13:30.674841+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1333,26 +1326,27 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-07-19T16:40:00+00:00'
   last_replenishment_prev: '2026-07-19T15:18:00+00:00'
-  last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue
-    2026-07-19T16:40Z). AUTHORITATIVE pre-count count_p0_p2_tasks == 2 (the two open
-    floor-holders above: apex/research-programme-decisions-under-the-map + concepts/intentionality;
-    3 veto condenses parser-excluded; P3 Bohmian research + P3 HUMAN-LENGTH-DECISION
-    blocks do not count). Below floor of 3 by 1 → ONE mint. No concurrent evolve_loop
-    (pgrep empty); HEAD 488cea0e0; tree carries only pre-existing state cycle_post
-    bookkeeping drift. All content sections at cap (topics/concepts 320/320, voids
-    100/100) so no expand/research-topic chains; positions 8/80 slow-add + <10 audit
-    threshold + audited 2026-07-17 <30d; orphaned_files 0; no applied-apex gap; length
-    offenders all research-notes / apex-index / positions-register / human-deferred
-    / veto (no clean condense). Genuine 30d+ staleness: composite get_review_candidates
-    de-prioritizes converged files, but RAW last_deep_review scan gives concepts/mind-arena
-    45d (opus-4-8 self-cite-ONLY, EXPLICITLY REJECTED by the 07-18 18:14+18:34 mints
-    — pure no-op) then voids/causal-interface 36d. Chose voids/causal-interface.md:
-    oldest opus-4-5-20251101 cohort (largest unchecked external-citation surface),
-    git-converged (last_deep_review == ai_modified 2026-06-13), real external refs
-    (Libet 1985, Nisbett & Wilson 1977, Wegner 2002, Horgan 2011, SEP) = genuine verify
-    residual not a self-cite no-op, 2190w voids soft_warning (length-neutral, not
-    the driver), Tenet 2/3, section-diverse (void vs queued apex+concept). ai_contribution
-    100. Appended at BOTTOM so top-first FIFO drains the two older holders first.'
+  last_floor_restore_target: "MINT 1 deep-review P2 (interactive /replenish-queue\
+    \ 2026-07-19T16:40Z). AUTHORITATIVE pre-count count_p0_p2_tasks == 2 (the two\
+    \ open floor-holders above: apex/research-programme-decisions-under-the-map +\
+    \ concepts/intentionality; 3 veto condenses parser-excluded; P3 Bohmian research\
+    \ + P3 HUMAN-LENGTH-DECISION blocks do not count). Below floor of 3 by 1 \u2192\
+    \ ONE mint. No concurrent evolve_loop (pgrep empty); HEAD 488cea0e0; tree carries\
+    \ only pre-existing state cycle_post bookkeeping drift. All content sections at\
+    \ cap (topics/concepts 320/320, voids 100/100) so no expand/research-topic chains;\
+    \ positions 8/80 slow-add + <10 audit threshold + audited 2026-07-17 <30d; orphaned_files\
+    \ 0; no applied-apex gap; length offenders all research-notes / apex-index / positions-register\
+    \ / human-deferred / veto (no clean condense). Genuine 30d+ staleness: composite\
+    \ get_review_candidates de-prioritizes converged files, but RAW last_deep_review\
+    \ scan gives concepts/mind-arena 45d (opus-4-8 self-cite-ONLY, EXPLICITLY REJECTED\
+    \ by the 07-18 18:14+18:34 mints \u2014 pure no-op) then voids/causal-interface\
+    \ 36d. Chose voids/causal-interface.md: oldest opus-4-5-20251101 cohort (largest\
+    \ unchecked external-citation surface), git-converged (last_deep_review == ai_modified\
+    \ 2026-06-13), real external refs (Libet 1985, Nisbett & Wilson 1977, Wegner 2002,\
+    \ Horgan 2011, SEP) = genuine verify residual not a self-cite no-op, 2190w voids\
+    \ soft_warning (length-neutral, not the driver), Tenet 2/3, section-diverse (void\
+    \ vs queued apex+concept). ai_contribution 100. Appended at BOTTOM so top-first\
+    \ FIFO drains the two older holders first."
   replenishment_source_counts:
     staleness: 1
   run_758_pickable_p0_p2: 4
@@ -1439,36 +1433,37 @@ queue_status:
     and the just-reviewed Tenet-2 quantum-measurement), AI-consciousness cluster where
     citation currency adds value; 2725w (concepts hard 3500, no length risk); clean/unqueued/unvetoed/unarchived/EOF-clean.
     BOTTOM-inserted per queue-lifo-starvation.'
-  run_735_note: 'run no.735 (2026-07-06): FLOOR-RESTORING STALENESS MINT. Live pre-run
-    canonical genuine-open count_p0_p2==2 (the run-734 intrinsic-nature-void sibling
-    plus philosophy-of-science-under-dualism were drained by cycle deep-review slots
-    since — both now in Completed — leaving refine-draft wire-ai-consciousness-hub
-    + deep-review aphantasia as the only open pickable P2s; the 3 veto condense P2s
-    are parser-excluded, the ~18 P3s + NEEDS-HUMAN / HUMAN-LENGTH-DECISION deferrals
-    do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; minted ONE P2 deep-review
-    (concepts/neural-correlates-of-consciousness, ai_contribution=100, last_deep_review
-    2026-06-02T16:29:19 but ai_modified 2026-06-07T12:00:00 — CHANGED-SINCE-REVIEW
-    5-day post-review drift, a POSITIVE re-review signal not a converged no-op per
-    replenish-churn-filter-overtight; body 3353w under the 3500 concepts hard ceiling
-    so length-neutral, no condense confound) to restore 2 to 3. Chosen for SECTION
-    + TENET diversity: the queued pair is a TOPIC-refine (Tenet-1/3 AI-safety) + a
-    TOPIC deep-review (aphantasia, Tenet-1 imagery); this adds a CONCEPT on the foundational
-    NCC axis (Tenet-1 correlate-not-cause discipline). EIGHT-SOURCE AUDIT reverified
-    LIVE: (1 chain) task_chains empty, recent_tasks ZERO research/expand/cross-review
-    completions; (2 unconsumed-research) two newest notes (self-luminosity-svaprakasha,
-    pre-reflective-self-awareness) are Research-Note-(Decline), rest slug-mismatch
-    false-uncovered (harvester-governed); (3 gap) harvester-governed / dedup-blocked;
-    (4 staleness) LIVE and abundant (185 settled ai_contribution=100 content articles
-    last_deep_review <=2026-06-06) — source used; (5 orphan) orphaned_files=0; (6
-    length) all content offenders veto/human-deferred/accept-as-survey (born-rule
-    5118w DEFERRED-AS-DUPLICATE after 5 condenses, epistemology-of-convergence 6479w
-    STANDING HUMAN LENGTH DECISION, phenomenal-output 6872w veto) — NO clean blind-mintable
-    condense (replenish-overmints-condense-vs-accept-as-survey); (7 positions) 8<10
-    audit threshold; (8 applied-apex-gap) none. Placed BELOW the two existing open
-    P2s so older floor-restore tasks drain first (queue-lifo-starvation). Documented
-    replenish-at-floor alternation (unfin_loop_steady_state), NOT the empty-queue
-    deadlock.'
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  run_735_note: "run no.735 (2026-07-06): FLOOR-RESTORING STALENESS MINT. Live pre-run\
+    \ canonical genuine-open count_p0_p2==2 (the run-734 intrinsic-nature-void sibling\
+    \ plus philosophy-of-science-under-dualism were drained by cycle deep-review slots\
+    \ since \u2014 both now in Completed \u2014 leaving refine-draft wire-ai-consciousness-hub\
+    \ + deep-review aphantasia as the only open pickable P2s; the 3 veto condense\
+    \ P2s are parser-excluded, the ~18 P3s + NEEDS-HUMAN / HUMAN-LENGTH-DECISION deferrals\
+    \ do not count toward the floor). MIN_QUEUE floor 3 unmet by 1; minted ONE P2\
+    \ deep-review (concepts/neural-correlates-of-consciousness, ai_contribution=100,\
+    \ last_deep_review 2026-06-02T16:29:19 but ai_modified 2026-06-07T12:00:00 \u2014\
+    \ CHANGED-SINCE-REVIEW 5-day post-review drift, a POSITIVE re-review signal not\
+    \ a converged no-op per replenish-churn-filter-overtight; body 3353w under the\
+    \ 3500 concepts hard ceiling so length-neutral, no condense confound) to restore\
+    \ 2 to 3. Chosen for SECTION + TENET diversity: the queued pair is a TOPIC-refine\
+    \ (Tenet-1/3 AI-safety) + a TOPIC deep-review (aphantasia, Tenet-1 imagery); this\
+    \ adds a CONCEPT on the foundational NCC axis (Tenet-1 correlate-not-cause discipline).\
+    \ EIGHT-SOURCE AUDIT reverified LIVE: (1 chain) task_chains empty, recent_tasks\
+    \ ZERO research/expand/cross-review completions; (2 unconsumed-research) two newest\
+    \ notes (self-luminosity-svaprakasha, pre-reflective-self-awareness) are Research-Note-(Decline),\
+    \ rest slug-mismatch false-uncovered (harvester-governed); (3 gap) harvester-governed\
+    \ / dedup-blocked; (4 staleness) LIVE and abundant (185 settled ai_contribution=100\
+    \ content articles last_deep_review <=2026-06-06) \u2014 source used; (5 orphan)\
+    \ orphaned_files=0; (6 length) all content offenders veto/human-deferred/accept-as-survey\
+    \ (born-rule 5118w DEFERRED-AS-DUPLICATE after 5 condenses, epistemology-of-convergence\
+    \ 6479w STANDING HUMAN LENGTH DECISION, phenomenal-output 6872w veto) \u2014 NO\
+    \ clean blind-mintable condense (replenish-overmints-condense-vs-accept-as-survey);\
+    \ (7 positions) 8<10 audit threshold; (8 applied-apex-gap) none. Placed BELOW\
+    \ the two existing open P2s so older floor-restore tasks drain first (queue-lifo-starvation).\
+    \ Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT the\
+    \ empty-queue deadlock."
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
