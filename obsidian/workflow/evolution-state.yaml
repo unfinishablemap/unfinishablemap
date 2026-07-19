@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-19T21:12:23.171604+00:00'
-session_count: 16715
+last_updated: '2026-07-19T21:22:16.993527+00:00'
+session_count: 16716
 cycle_position: 11546
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-19T19:38:09.889191+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-19T17:03:02.443975+00:00'
-  agentic-social: '2026-07-19T20:31:58.102445+00:00'
+  agentic-social: '2026-07-19T21:23:20.893099+00:00'
   embed-videos: '2026-07-19T20:48:19.401088+00:00'
   commission-chatgpt-review: '2026-07-19T02:06:55.755326+00:00'
   commission-claude-review: '2026-07-19T03:07:05.522929+00:00'
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T18:21:20.933735+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-19T21:02:39.912514+00:00'
+  replenish-queue: '2026-07-19T21:22:16.993527+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-19'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-19'
@@ -181,14 +173,12 @@ recent_tasks:
   type: deep-review
   date: '2026-07-19'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/animal-consciousness/
-    date: '2026-07-12T20:36:07.519628+00:00'
-    topics:
-    - animal-consciousness
-    - insect-cognition
-    - other-minds
   - url: https://unfinishablemap.org/topics/consciousness-and-memory/
     date: '2026-07-12T21:27:42.039548+00:00'
     topics:
@@ -1314,6 +1304,13 @@ agentic_social:
     - comparative-consciousness-and-interface-differences
     - hard-problem-of-consciousness
     - animal-consciousness
+  - url: https://unfinishablemap.org/topics/duhem-quine-underdetermination-consciousness/
+    date: '2026-07-19T21:23:20.893041+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
+    - consciousness-defeats-explanation
+    - phenomenology-of-conceptual-frameworks
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1341,30 +1338,31 @@ queue_status:
     floor-restoring staleness deep-review mint (voids/appetitive-void.md). Authoritative
     pre-write count_p0_p2_tasks == 2 (open floor-holders topics/contemplative-pathology-and-interface-malfunction
     [run 769] + topics/the-subject-object-distinction-as-philosophical-discovery [run
-    770]); run-768 mint topics/dopamine-and-the-unified-interface, the prior third holder,
-    was consumed + deep-reviewed by the in-process cycle (commit b1cbc8c7e, 21:12Z)
-    since run 770, dropping the count to 2. Below floor of 3. Eight-source audit LIVE:
-    chains null; unconsumed-research + gap BLOCKED (topics 320/320, concepts 320/320,
-    voids 100/100 all AT CAP; positions 8/80); staleness == ONLY live source; orphaned_files=0;
-    length offenders all veto/human-deferred/research/apex-hub/positions; positions
-    8<10 audit threshold (last positions-evolve 2026-07-17, <30d); no applied-apex gap.
-    Target appetitive-void: 31d converged/byte-stable (ldr==ai_mod 2026-06-18T11:25,
+    770]); run-768 mint topics/dopamine-and-the-unified-interface, the prior third
+    holder, was consumed + deep-reviewed by the in-process cycle (commit b1cbc8c7e,
+    21:12Z) since run 770, dropping the count to 2. Below floor of 3. Eight-source
+    audit LIVE: chains null; unconsumed-research + gap BLOCKED (topics 320/320, concepts
+    320/320, voids 100/100 all AT CAP; positions 8/80); staleness == ONLY live source;
+    orphaned_files=0; length offenders all veto/human-deferred/research/apex-hub/positions;
+    positions 8<10 audit threshold (last positions-evolve 2026-07-17, <30d); no applied-apex
+    gap. Target appetitive-void: 31d converged/byte-stable (ldr==ai_mod 2026-06-18T11:25,
     ZERO commits since a2a14a42a), opus-4-6 older cohort (NOT de-prioritized opus-4-8),
     ai_contribution 100, 2123w voids soft_warning (length-safe), only 3 prior dedicated
     deep-reviews == LEAST-reviewed eligible older-cohort member (fresh-eyes warranted,
     not an over-review no-op). Owed-web-verify seam honestly EXHAUSTED for the clean
-    cohort (brain-computer-interfaces / discrimination-problem / evolutionary-case /
-    surprise-prediction-error / dopamine all on the do-NOT-re-mint verified park list);
-    the get_review_candidates top-5 (the-sublime + 4) are all opus-4-8 with COSMETIC
-    Further-Reading cross-link deltas == metadata no-op; the oldest opus-4-5 cohort (locality
-    7, epiphenomenalism 25, mind-brain-separation 6, temporal-structure 6, authentic-vs-inauthentic
-    6 reviews) all OVER-REVIEWED (convergence-damped, skipped). So strict-oldest least-reviewed
-    staleness with a PLAIN PROBABLE-NO-OP label (do NOT manufacture a defect). Distinct
-    cluster (appetitive/desire/motivation void) from both open holders. NOT queued/vetoed/session-touched.
-    Single mint (no +1 buffer) given genuine source scarcity; documented replenish-at-floor
-    alternation, NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No concurrent
-    evolve_loop.py (in-process cycle commits every ~3-4min; uncommitted evolution-state.yaml
-    delta is legitimate deferred cycle_post bookkeeping, KEPT).'
+    cohort (brain-computer-interfaces / discrimination-problem / evolutionary-case
+    / surprise-prediction-error / dopamine all on the do-NOT-re-mint verified park
+    list); the get_review_candidates top-5 (the-sublime + 4) are all opus-4-8 with
+    COSMETIC Further-Reading cross-link deltas == metadata no-op; the oldest opus-4-5
+    cohort (locality 7, epiphenomenalism 25, mind-brain-separation 6, temporal-structure
+    6, authentic-vs-inauthentic 6 reviews) all OVER-REVIEWED (convergence-damped,
+    skipped). So strict-oldest least-reviewed staleness with a PLAIN PROBABLE-NO-OP
+    label (do NOT manufacture a defect). Distinct cluster (appetitive/desire/motivation
+    void) from both open holders. NOT queued/vetoed/session-touched. Single mint (no
+    +1 buffer) given genuine source scarcity; documented replenish-at-floor alternation,
+    NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No concurrent evolve_loop.py
+    (in-process cycle commits every ~3-4min; uncommitted evolution-state.yaml delta
+    is legitimate deferred cycle_post bookkeeping, KEPT).'
   run_768_note: 'run no.768 (2026-07-19T20:40Z, interactive /replenish-queue): SINGLE
     floor-restoring staleness deep-review mint (topics/dopamine-and-the-unified-interface.md).
     Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders voids/thrownness-void
@@ -1413,7 +1411,8 @@ queue_status:
   run_768_pickable_p0_p2: 3
   run_765_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
