@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T09:53:15.255974+00:00'
-session_count: 16586
+last_updated: '2026-07-19T10:02:39.426407+00:00'
+session_count: 16587
 cycle_position: 11480
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-19T04:11:17.626191+00:00'
   refine-draft: '2026-07-19T09:50:56.865704+00:00'
   research-topic: '2026-07-19T09:18:22.378644+00:00'
-  replenish-queue: '2026-07-19T09:37:50.928932+00:00'
+  replenish-queue: '2026-07-19T10:02:39.426407+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-07-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: condense
   type: condense
+  date: '2026-07-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1347,8 +1347,8 @@ queue_status:
   last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue
     2026-07-19T09:58Z). Pre-count count_p0_p2_tasks==2 LIVE (open P2 floor-holders:
     locked-in-syndrome deep-review 09:20Z + steelmanning-as-method deep-review 09:36Z;
-    the earlier agency-void/first-order-representationalism floor-holders drained via
-    cycle slots); ==3 after. Conservative EXACT-floor single mint (MIN_QUEUE_TASKS==3,
+    the earlier agency-void/first-order-representationalism floor-holders drained
+    via cycle slots); ==3 after. Conservative EXACT-floor single mint (MIN_QUEUE_TASKS==3,
     unmet by 1), matching todays single-mint precedent. Target: topics/born-rule-and-the-consciousness-interface.md
     — the one genuine non-cosmetic, high-citation-surface delta in the top-12: last_deep_review
     2026-06-23 then commit 44cdecf3a (2026-07-16, Address structural gaps) added an
@@ -1358,11 +1358,12 @@ queue_status:
     figures, Keppler 2025, DeBrota et al). owed-web-verify seam: verbatim-check the
     Wiest quote at the primary publisher + web-verify the whole cluster (esp the 2025-12
     arXiv ID). 5503w topics hard_warning — assess condense-eligibility, do NOT blind-condense.
-    REJECTED temporal-becoming (20.9, refined TODAY 077a42d6e same-session churn), interoceptive-consciousness
-    (15.0, cosmetic single-wikilink false-yield), free-will cluster (13.8, 07-09 reviewed
-    + web-verified, wikilink-only deltas), explanatory-gap (12.9, cosmetic coalesce-slug).
-    APPENDED at bottom of Active so FIFO drains locked-in-syndrome + steelmanning first
-    ([[queue-lifo-starvation]]). No concurrent evolve_loop.py; HEAD 2afa02277.'
+    REJECTED temporal-becoming (20.9, refined TODAY 077a42d6e same-session churn),
+    interoceptive-consciousness (15.0, cosmetic single-wikilink false-yield), free-will
+    cluster (13.8, 07-09 reviewed + web-verified, wikilink-only deltas), explanatory-gap
+    (12.9, cosmetic coalesce-slug). APPENDED at bottom of Active so FIFO drains locked-in-syndrome
+    + steelmanning first ([[queue-lifo-starvation]]). No concurrent evolve_loop.py;
+    HEAD 2afa02277.'
   replenishment_source_counts:
     staleness: 1
   run_749_pickable_p0_p2: 3
