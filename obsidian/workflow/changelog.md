@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T02:54:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T03:17:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Word count**: 2951 → 2951 (authored prose unchanged; +0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Ninth pass; converged near-no-op. Re-qualified only by the 2026-07-18 embed-videos boilerplate (no authored prose changed since the 8th pass). Citation web-verify skipped per §2.4 (References byte-identical to the 2026-05-26 verified pass; no superlatives). Updated `last_deep_review` only; left `ai_modified`/`ai_system` as-is.
+- **Output**: [[reviews/deep-review-2026-07-19-near-death-experiences]]
+
 ## 2026-07-19T02:58:42+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 651 (321 topics, 321 concepts, 9 positions)

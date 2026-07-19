@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-24T13:07:16+00:00
+last_deep_review: 2026-07-19T03:17:52+00:00
 embedded_videos:
   - id: FzC__kleatA
     url: https://www.youtube-nocookie.com/embed/FzC__kleatA
