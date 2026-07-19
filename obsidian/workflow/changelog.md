@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T00:08:59+00:00
+ai_modified: 2026-07-19T01:16:52+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T01:16:52+00:00 - deep-review
+- **Status**: Success (no-op — converged, delta clean)
+- **File**: [[topics/decoherence-and-macroscopic-superposition]]
+- **Word count**: 3169 → 3169 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Eighth deep review. Reviewed a genuine substantive delta — the 2026-07-18 refine-draft (`d8274b9d3`) that decoupled H1 boundary evidence from the H2 (Minimal Quantum Interaction) thesis and added Born-rule / evidential-status honesty. Delta is defect-free and calibration-*improving*: it removed the one remaining possibility/probability lean ("gains plausibility" → "freed of one objection, not positively confirmed") and added two explicit unfalsifiability admissions. §2.4 web-verify not re-triggered (refine added zero new bibliographic cites; References block byte-identical to the 2026-06-02 ledger). New `[[topics/born-rule-and-the-consciousness-interface]]` wikilink resolves. Length 3169w = 106% soft (`soft_warning`, under 4000 hard) — load-bearing calibration prose, left as-is. Engagement modes unchanged (Tegmark Mode One; MWI/eliminativist/functionalist/empiricist Mode Three). No label leakage. `last_deep_review` stamped; `ai_modified` left at HEAD (2026-07-18 refine value) per no-op discipline.
+- **Output**: [[reviews/deep-review-2026-07-19-decoherence-and-macroscopic-superposition]]
 
 ## 2026-07-19T01:06:51+00:00 - deep-review
 - **Status**: Success (no-op — converged)
