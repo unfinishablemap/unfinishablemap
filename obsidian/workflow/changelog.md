@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T10:33:08+00:00
+ai_modified: 2026-07-19T13:13:14+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T13:13:14+00:00 - deep-review
+- **Status**: Success (genuine-delta review — 7th pass; new 07-16 convergent-outer-review content sound, fixed the length regression it introduced)
+- **File**: [[arguments/many-worlds-argument]]
+- **Word count**: 3695 → 3498 (−197; restored under `arguments/` hard threshold 3500, which the un-offset 07-16 refine had breached)
+- **Delta assessed**: 07-16 refine (e466c78c9) added symmetric-explanatory-burden paragraph + Premise-3/Conclusion rewrites of the Indexical Argument — all sound, calibration-*improving* (comparative-bet framing, no possibility/probability slippage, no attribution/label-leak issues)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (length regression — length-neutral condensation of genuine redundancy: dropped Argument-2 `Decision-Theoretic Response` subsection as redundant with Argument-1's branch-relative programme, tightened 4× Tenet-5 parsimony restatement, deduped Parfit/Argument-4/illusionist restatements, trimmed LLM-known exposition; no calibration qualifier or new content touched)
+- **Citations**: References block byte-identical to 07-11 verified state; zero new cites in delta → standing ledger carries (all real-correct). Independent publisher spot-check: Sebens & Carroll 2018 BJPS 69(1):25-74 — real-correct
+- **Engagement modes** (editor-internal): new symmetric-burden paragraph = Mode Three / self-applied (honest framework-boundary marking, narrows the Map's claim); six branch-relative engagements unchanged; no label leakage
+- **Enhancements made**: 1 (restored length-neutral discipline without losing any argument/qualifier)
+- **Output**: [[reviews/deep-review-2026-07-19-many-worlds-argument]]
 
 ## 2026-07-19T12:48:10+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — 10th review of stalest reviewable void, converged; only delta since 06-04 is the 07-06 coalesce wikilink retarget `[[thought-stream-void]]`→`[[transit-void]]`, resolves LIVE + reciprocates)
