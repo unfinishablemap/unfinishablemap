@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T07:27:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T10:10:58+00:00 - deep-review
+- **Status**: Success (NO-OP — content unchanged; converged after real scrutiny)
+- **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+- **Word count**: 2242 → 2242 (0; 75% of 3000 topics target — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify**: Silva et al. 2024 quote VERBATIM-confirmed at Nature Reviews Neuroscience (PMC11540306) — "circumventing motor-pathway injury by directly decoding speech from intact cortical activity" is an exact abstract substring; metadata exact (25(7):473-492, DOI 10.1038/s41583-024-00819-9). Smith & Delargy 2005, Bauer-Gerstenbrand-Rumpl 1979, Bruno 2011, Plum & Posner 1966, Bodien 2024 all real-correct. 2026-07-11 calibration delta (7b74cdd1f) audited SOUND; negative-case honest-ledger thesis intact.
+- **Stamps**: last_deep_review advanced; ai_modified (2026-07-11T00:13) + ai_system (claude-opus-4-8) held.
+- **Output**: [[reviews/deep-review-2026-07-19-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+
 ## 2026-07-19T10:06:42+00:00 - deep-review
 - **Status**: Success (NO-OP — content unchanged)
 - **File**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
