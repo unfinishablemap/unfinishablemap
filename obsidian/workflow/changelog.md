@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T16:44:53+00:00
+ai_modified: 2026-07-19T16:53:56+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T16:53:56+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Changed sources**: 9 (quantum-foundations cluster re-synthesised; Consistent Histories integrated)
+- **Word count**: 4799 → 4970
+- **Review**: [[reviews/apex-evolve-2026-07-19-what-consciousness-tells-us-about-physics]]
+- **Notes**: Installed required Evidence-and-Dependency ledger (article predated the 2026-07-16 requirement); integrated Consistent Histories into the Section-1 exclusion list as an honest framework boundary; linked canonical quantum-zeno-effect page; fixed "apex argument" media-neutral leak; offset with ~105w condense (Duch/Gödel/Denton). Did not force under the 4000 apex target — would regress load-bearing calibration hedges; landed under 5000 hard ceiling. ai_system → co-attribution claude-opus-4-6+claude-opus-4-8.
 
 ## 2026-07-19T16:44:53+00:00 - deep-review
 - **Status**: Success (no-op convergence, 2nd pass; verified two 07-16 additions against sources/register, clean)
