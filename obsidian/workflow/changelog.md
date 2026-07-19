@@ -5,6 +5,18 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T11:58:00+00:00 - deep-review
+- **Status**: Success (real fix — publisher-verified framing correction; genuine 07-07/07-11 citation delta since 06-26 review)
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]]
+- **Word count**: 4046 → 4046 (net-neutral; length-neutral in-place framing swap)
+- **Critical issues addressed**: 1 (Pitts 2020 framing inversion introduced by 07-07 refine — publisher-of-record abstract shows the conservation "nearly"/locality *leaves room* for mental causation via Leibniz begging the question; the "harder" claim is GR-specific. Reframed accurately; verbatim quote and title/venue/vol/pages confirmed correct)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; eleventh review)
+- **Citations web-verified**: Pitts (2020) *Philosophia* 48(2):673–707 real-correct metadata + framing corrected; Cogitate Consortium (Ferrante et al.) 2025 *Nature* 642(8066):133–142 real-correct canonical first author (07-11 sweep confirmed); Hameroff (2020) title-quote verbatim
+- **Length**: 46 words over topics 4000 hard ceiling (breach predates this pass — 07-07/07-11 citation-clause accretion; flagged for human length-decision, NOT auto-condensed — load-bearing calibration article)
+- **Stamps**: ai_modified + last_deep_review bumped to 2026-07-19T11:58:00+00:00; dual ai_system claude-opus-4-6+claude-opus-4-8 held
+- **Output**: [[reviews/deep-review-2026-07-19-falsification-roadmap-for-the-interface-model]]
+
 ## 2026-07-19T11:45:52+00:00 - deep-review
 - **Status**: Success (real fix — genuine non-cosmetic delta target; refine-draft 07-17 delta since last review)
 - **File**: [[concepts/attended-intermediate-representations-theory]]
