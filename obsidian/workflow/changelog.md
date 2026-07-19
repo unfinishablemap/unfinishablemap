@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T00:08:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T00:18:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Word count**: 2879 → 2952 (+73; under voids 3000 hard)
+- **Critical issues addressed**: 1 (orphan reference — Weiskrantz 1986 listed but never cited inline; resolved by adding inline attribution at the blindsight introduction, not deletion; missed by four prior "references intact" passes)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (reactivation condition (c): added load-bearing reciprocal link to the new [[cross-modal-capability-division]] apex — body + Further Reading + related_articles frontmatter — stating its asymmetry-sharpening thesis with the interoception-inverts rider; accurate to the apex, no overclaim)
+- **Verified**: fifth review of a converged article; git confirms body unchanged since 2026-06-04 so §2.4 web-verify permissibly skipped (prior per-cite ledger reaffirmed); ai_system kept as claude-opus-4-6 (minor edits, not re-authoring — no over-attribution); no possibility/probability slippage; bedrock disagreements + live-hypothesis dream framing NOT re-flagged
+- **Output**: [[reviews/deep-review-2026-07-19-capability-division-problem]]
+
 ## 2026-07-19T00:13:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/experiential-alignment]]
