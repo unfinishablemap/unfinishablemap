@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T18:21:20.933735+00:00'
-session_count: 16680
-cycle_position: 11527
+last_updated: '2026-07-19T18:24:32.068954+00:00'
+session_count: 16681
+cycle_position: 11528
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T18:15:14.218639+00:00'
   optimistic-review: '2026-07-19T14:30:56.291203+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-19T17:50:20.640810+00:00'
+  deep-review: '2026-07-19T18:24:32.068954+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T15:09:06.976273+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 522
-  reviews_completed: 6702
+  reviews_completed: 6703
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-19'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1325,34 +1325,28 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
+  p2_tasks: 3
   p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 5
-  last_replenishment: '2026-07-19T17:38:53+00:00'
-  last_replenishment_prev: '2026-07-19T16:40:00+00:00'
-  last_floor_restore_target: 'MINT 3 deep-review P2 (interactive /replenish-queue
-    2026-07-19T17:38Z). Pre-count open P0-P2 == 2 (arguments/epistemological-limits-of-occams-razor
-    + voids/perceptual-reality-monitoring-void; the 16:40 causal-interface mint plus
-    the earlier intentionality/research-programme holders were consumed by cycle deep-review
-    slots since; 3 veto condenses + P3 Bohmian research + P3 HUMAN-LENGTH blocks do
-    not count). Below floor of 3 → mint to a healthy 5. All content sections at cap
-    (topics/concepts 320/320, voids 100/100) so no expand/research-topic chains; positions
-    8/80 slow-add + <10 audit threshold + audited 2026-07-17 <30d (skip, [[replenish-positions-audit-false-overdue]]);
-    orphaned_files 0; no applied-apex gap; length offenders all veto / human-deferred
-    / research-notes / apex-index (no clean condense). Staleness source: get_review_candidates
-    top content picks (skipped the apex-articles.md index anomaly at 102.5 and what-consciousness
-    which apex-evolve substantively re-curated 40min ago — let it settle). Chose the
-    2026-07-09 opus-4-8 cohort — the-manipulation-argument-and-hard-incompatibilism
-    (2515w), source-versus-leeway-incompatibilism (2039w), wavefunction-realism-vs-primitive-ontology
-    (1755w): each single-reviewed at creation, 10d settled, all comfortably under
-    hard ceilings (NOT length-entangled), citation surfaces never independently web-verified
-    in a standalone/outer review = genuine owed-web-verify residual, not self-cite
-    no-ops. Top-inserted per prior-run convention; the two older floor-holders remain
-    pickable via the cycle deep-review slot (get_review_candidates order, not queue
-    position).'
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-19T18:27:35+00:00'
+  last_replenishment_prev: '2026-07-19T17:38:53+00:00'
+  last_floor_restore_target: 'MINT 1 deep-review P2 (interactive /replenish-queue
+    2026-07-19T18:27Z; conservative exact-floor +1, no padding). AUTHORITATIVE pre-count
+    count_p0_p2_tasks == 2 (voids/perceptual-reality-monitoring-void + voids/counterfactual-void,
+    both today floor-holders EXPECT-A-NO-OP; 3 veto condenses + P3 Bohmian research
+    + P3 HUMAN-LENGTH blocks do not count). Below floor of 3 → mint to exactly 3, verified
+    ==3 after. All content sections AT CAP (topics/concepts 320/320, voids 100/100)
+    so only staleness is live; positions 8/80 <10 audit threshold + audited 2026-07-17
+    <30d (skip); orphaned_files 0; no applied-apex gap; length offenders all veto /
+    human-deferred / research-notes / apex-index (no clean condense). Staleness pick:
+    voids/metaphor-void.md — 36d converged, opus-4-7 older cohort, only 3 prior reviews,
+    rich unchecked Lakoff/Johnson external citation surface (genuine owed-web-verify
+    residual, NOT a self-cite no-op like the strict-oldest mind-arena which prior mints
+    already evaluated-and-rejected). Appended at BOTTOM so FIFO drains the two older
+    floor-holders first. No concurrent evolve_loop.py; HEAD ed5ef3a10.'
   replenishment_source_counts:
-    staleness: 3
+    staleness: 1
   run_758_pickable_p0_p2: 4
   run_749_pickable_p0_p2: 3
   run_748_pickable_p0_p2: 3
