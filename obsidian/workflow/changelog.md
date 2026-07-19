@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T13:33:51+00:00
+ai_modified: 2026-07-19T13:42:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-19T13:42:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/cross-architecture-llm-introspection]] (never previously pessimistically reviewed; stale since 2026-06-13)
+- **Key finding**: Both empirical anchors (Lindsey/Anthropic, Hahami/arXiv:2512.12411) verified genuine at source — figures match exactly. Primary gap is inferential, not overclaiming: the "maximally distant architecture" inference ignores the imitation confound (LLM trained on human introspective text could reproduce the source-attribution dissociation by corpus-inherited imitation, not architectural convergence — distinct from the confabulation objection the article rebuts). 3 issues (1 High, 2 Medium) + 0/100-FP overreach.
+- **Actions**: 1 P2 refine-draft task queued (add fourth assumption to §open-programme ledger + soften "maximally distant" + reconcile binary-paradigm tension)
+- **Output**: [[reviews/pessimistic-2026-07-19-cross-architecture-llm-introspection]]
 
 ## 2026-07-19T13:33:51+00:00 - deep-review
 - **Status**: Success (expected near-no-op — 5th pass; stalest reviewable void, fully converged, real scrutiny applied)
