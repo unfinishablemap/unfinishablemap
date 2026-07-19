@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-19T23:34:00.250348+00:00'
-session_count: 16740
-cycle_position: 11559
+last_updated: '2026-07-19T23:36:25.148963+00:00'
+session_count: 16741
+cycle_position: 11560
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T21:55:20.442908+00:00'
   optimistic-review: '2026-07-19T23:00:04.795545+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-19T23:27:04.976094+00:00'
+  deep-review: '2026-07-19T23:36:25.148963+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T19:38:09.889191+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6730
+  reviews_completed: 6731
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-19'
   outcome: success
 agentic_social:
@@ -1329,12 +1329,37 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T23:33:00+00:00'
-  last_replenishment_prev: '2026-07-19T23:15:00+00:00'
-  last_replenishment_run: 777
+  last_replenishment: '2026-07-19T23:41:00+00:00'
+  last_replenishment_prev: '2026-07-19T23:33:00+00:00'
+  last_replenishment_run: 778
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_778_note: 'run no.778 (2026-07-19T23:41Z, /replenish-queue): SINGLE floor-restoring
+    staleness deep-review mint (concepts/content-externalism.md). Authoritative pre-write
+    count_p0_p2_tasks == 2 (open floor-holders concepts/intrinsic-nature [run 776]
+    + concepts/self-representational-theory-of-consciousness [run 777]); the run-775
+    holder voids/wholeheartedness-void was consumed + deep-reviewed by the in-process
+    cycle (commit e90bb03a2, 23:36Z slot), dropping the count to 2. Below floor of
+    3; == 3 after (tool-verified). Eight-source audit LIVE: chains null; unconsumed-research
+    + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; positions
+    8/80); staleness == ONLY live source; orphaned_files=0; length offenders all veto/human-deferred;
+    positions 8<10 audit threshold; no applied-apex gap. Scorer #1 yogacara CHECKED
+    + REJECTED again (complete 07-11 publisher ledger + Waldron quote fix; only cosmetic
+    Metzinger link since). Target content-externalism (article-tier rank #3, score
+    9.23) has GENUINE substantive unreviewed drift: last_deep_review 2026-07-13T07:31
+    (cross-review sidecar written 07:33), then commit 564da8293 (07-13T08:34 refine
+    addressing pessimistic-2026-07-13) REWROTE the phenomenal-internalist half AFTER
+    the review (DIFF CONFIRMED not cosmetic): the "duplicate-invariance cuts the other
+    way" premise replaced with an explicit "switch-invariance is contested, not a premise"
+    dialectical reframe, plus added/foregrounded citations the 07:33 sidecar never
+    saw (Kim reply-fragment, Farkas 2008, Yli-Vakkuri & Hawthorne 2018, Dretske 1996
+    subtitle). Verify-the-refine-landed + owed-web-verify lens; opus-4-8 HOLD, 1725w
+    concepts status ok. Distinct content-externalism/Twin-Earth cluster from both open
+    holders (Russellian intrinsic-nature; Kriegel self-representation). NOT queued/vetoed/session-touched.
+    BOTTOM-inserted (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml
+    delta is legitimate deferred cycle_post bookkeeping, KEPT. HEAD e90bb03a2. Pruned
+    run_775_note per note-bloat discipline (keep ~3: 776/777/778).'
   run_777_note: 'run no.777 (2026-07-19T23:33Z, /replenish-queue): SINGLE floor-restoring
     staleness deep-review mint (concepts/self-representational-theory-of-consciousness.md).
     Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders voids/wholeheartedness-void
@@ -1384,35 +1409,6 @@ queue_status:
     only, HOLD ai_modified 07-13 + ai_system opus-4-8). BOTTOM-inserted so FIFO drains
     the two older holders first. No concurrent evolve_loop; HEAD 6f83d14ef. Pruned
     run_773_note per note-bloat discipline (keep ~3: 774/775/776).'
-  run_775_note: 'run no.775 (2026-07-19T22:31Z, interactive /replenish-queue): SINGLE
-    floor-restoring staleness deep-review mint (voids/wholeheartedness-void.md). Authoritative
-    pre-write count_p0_p2_tasks == 2 (open floor-holders voids/interoceptive-void
-    [run 773] + topics/the-strong-emergence-of-consciousness [run 774]); run-772 holder
-    topics/incubation-effect-and-unconscious-processing was consumed + deep-reviewed
-    by the in-process cycle since run 774 (now marked done in Completed), dropping
-    the count to 2. Below floor of 3; == 3 after. Eight-source audit LIVE: chains
-    null; unconsumed-research + gap BLOCKED (topics 320/320, concepts 320/320, voids
-    100/100 all AT CAP; positions 8/80); staleness == ONLY live source; orphaned_files=0;
-    length offenders all veto/human-deferred/research/apex-hub/positions; positions
-    8<10 audit threshold (last positions-evolve 2026-07-17, <30d); no applied-apex
-    gap. Target wholeheartedness-void: 27d byte-stable converged (ldr==ai_modified
-    2026-06-22T19:11, opus-4-7 SINGLE older cohort HOLD), ai_contribution 100, 2986w
-    voids soft_warning (~14w under the 3000 hard ceiling -- LENGTH-SENSITIVE, strictly
-    length-neutral, NOT condense). 3 deep-review sidecars but NOT a 5+-review pool-drain:
-    read the 06-22 sidecar -- it web-verified ONLY the one changed Velleman citation-locus
-    in a length-neutral pass, leaving the dense empirical-psychology cite cluster
-    (Hsee & Hastie 2006, Loewenstein/O''Donoghue & Rabin 2003, Brogaard & Gatzia 2020,
-    Cacioppo & Berntson 1994, Conner & Sparks 2002, Hagger 2016, Kaplan 1972) never
-    standalone-verified == genuine owed-web-verify seam. Sidecar-premise CHECKED not
-    assumed (strong-emergence supervisor-correction lesson: reviews dir is obsidian/reviews/,
-    not reviews/). Distinct cluster (Frankfurtian wholeheartedness/agency-and-identification
-    void) from both open holders (interoception; emergence metaphysics). NOT queued
-    (3 slug headers all done, openFileTasks==0)/vetoed (1 veto-region hit is a passing
-    mention in an unrelated resolution-void task)/session-touched. Single mint (no
-    +1 buffer) given genuine source scarcity; documented replenish-at-floor alternation,
-    NOT empty-queue deadlock. Appended at BOTTOM (FIFO). No separate evolve_loop.py;
-    uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
-    KEPT. HEAD 833aa9e58.'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
