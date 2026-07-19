@@ -5,6 +5,16 @@ ai_modified: 2026-07-19T14:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T14:32:31+00:00 - deep-review
+- **Status**: Success (verification no-op)
+- **File**: [[apex/introspection-architecture-void-cluster]]
+- **Word count**: 3,924 → 3,924 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Delta since last review**: commit 98e5ba64b, a pure cosmetic wikilink conversion (Gazzaniga interpreter plain text → [[interpreter-module-narrative-construction-unity]]); zero authored content change. New target resolves live; all 30 wikilinks resolve; validate.py ✓. Citation ledger carried forward (References unchanged since 06-25). Calibration/quote/reasoning-mode all clean. Only last_deep_review moved; ai_system (opus-4-7) and apex_last_synthesis held.
+- **Output**: [[reviews/deep-review-2026-07-19-introspection-architecture-void-cluster]]
+
 ## 2026-07-19T14:29:14+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Interface empirical-programme cluster — falsification-roadmap-for-the-interface-model, interface-specification-programme, attention-as-causal-bridge, attended-intermediate-representations-theory (context: born-rule-and-the-consciousness-interface). All freshly deep-reviewed / ai_modified 2026-07-19.
