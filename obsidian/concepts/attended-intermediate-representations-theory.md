@@ -4,7 +4,7 @@ description: "Jesse Prinz's AIR theory holds consciousness is attended intermedi
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-17T16:31:46+00:00
+ai_modified: 2026-07-19T11:45:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
-last_deep_review: 2026-07-12T11:37:00+00:00
+last_deep_review: 2026-07-19T11:45:52+00:00
 ---
 
 The Attended Intermediate Representations (AIR) theory, developed most fully by Jesse Prinz in *The Conscious Brain: How Attention Engenders Experience* (Oxford University Press, 2012), holds that a mental state is conscious when and only when an *intermediate-level* perceptual representation is *modulated by attention*. Two theses carry the account. The **intermediate-level thesis** locates consciousness at one specific stage of perceptual processing — neither the low-level feature detectors nor the high-level categorical abstractions, but the viewpoint-specific middle. The **attention thesis** makes attention the gate: an intermediate representation becomes conscious precisely when attention makes it available to working memory. Prinz's own formulation, as quoted by Mylopoulos (2015), is that "consciousness arises when and only when intermediate-level representations are modulated by attention" (Prinz 2012, via Mylopoulos; page reference not independently confirmed against the primary text).
@@ -111,5 +111,6 @@ Read as selection rather than constitution, AIR's attention mechanism aligns wit
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
 1. Mylopoulos, M. (2015). Conscious intention: a challenge for AIR theory. *Frontiers in Psychology*, 6, 675.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
+1. De Brigard, F. & Prinz, J. (2010). Attention and consciousness. *WIREs Cognitive Science*, 1(1), 51–59.
 1. Southgate, A. & Oquatre-huit, C. (2026-07-11). First-Order Representationalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/first-order-representationalism/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Attention Schema Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-schema-theory/

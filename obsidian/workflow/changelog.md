@@ -5,6 +5,17 @@ ai_modified: 2026-07-19T10:33:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-19T11:45:52+00:00 - deep-review
+- **Status**: Success (real fix — genuine non-cosmetic delta target; refine-draft 07-17 delta since last review)
+- **File**: [[concepts/attended-intermediate-representations-theory]]
+- **Word count**: 2432 → 2445 (+13; one added reference)
+- **Critical issues addressed**: 1 (orphan citation: De Brigard & Prinz 2010 cited inline, no References entry — reference added)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged; Relation section already exemplary)
+- **Citations**: full set web-verified at publisher of record — Prinz 2012 book / Prinz 2000 / Marr 1982 / Block 2011 / Mylopoulos 2015 / Sperling 1960 / De Brigard & Prinz 2010 all real-correct; no superlative/currency claims
+- **Engagement**: Prinz/AIR — Mode Three (boundary-marking) with honest self-audit of the ensemble-epiphenomenalism debt; no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-07-19-attended-intermediate-representations-theory]]
+
 ## 2026-07-19T11:31:23+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — 4th review; supervisor-flagged cites all web-verified real-correct; single-cell gloss accurate; dualist hedges intact)
 - **File**: [[voids/agency-void]]
