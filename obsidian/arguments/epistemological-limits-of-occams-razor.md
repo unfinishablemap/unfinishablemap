@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-06-21T09:08:16+00:00
+last_deep_review: 2026-07-19T18:22:37+00:00
 ---
 
 Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [[interactionist-dualism|dualism]]. [[concepts/materialism|Physicalism]] posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. [[parsimony-epistemology|Parsimony epistemology]]—the study of when and why simplicity tracks truth—shows that parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
