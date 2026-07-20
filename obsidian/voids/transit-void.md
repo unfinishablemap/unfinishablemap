@@ -4,8 +4,8 @@ description: "Consciousness cannot witness its own crossings—state transitions
 created: 2026-01-13
 modified: 2026-07-06
 human_modified: null
-ai_modified: 2026-07-19T08:48:00+00:00
-last_deep_review: 2026-07-06T16:29:04+00:00
+ai_modified: 2026-07-20T01:47:17+00:00
+last_deep_review: 2026-07-20T01:47:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -212,7 +212,7 @@ The transit void sits within a family of related voids: the [[agency-void#the-ve
 9. Gallagher, S. (2012). Multiple aspects in the sense of agency. *New Ideas in Psychology*, 30(1), 15–31.
 10. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
 11. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Trans. J. B. Brough. Kluwer.
-12. Eldridge, P. (2020). The act of forgetting: Husserl on the constitution of the absent past. *Continental Philosophy Review*, 53, 331–349.
+12. Eldridge, P. (2020). The act of forgetting: Husserl on the constitution of the absent past. *Continental Philosophy Review*, 53(4), 401–417.
 13. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3–4), 229–269.
 14. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 15. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.

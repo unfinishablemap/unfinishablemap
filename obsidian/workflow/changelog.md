@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T01:47:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/transit-void]]
+- **Word count**: 3474 → 3474 (0; 174% of 2000 voids soft target, status hard_warning — condensation deferred, see below)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th pass; first since the 2026-07-06 coalesce merged thought-stream-void (+ spontaneous-thought-void, thoughts-that-slip-away) in, plus two same-day condenses. Genuinely modified — real review. Frame expanded "Two Faces" → three faces (state transitions / act onsets / thought stream) — coherent genus expansion, NOT re-split. §2.4 web-verify of the new coalesce citations caught **Eldridge 2020 wrong page range** (331–349 → 53(4), 401–417; verified at Springer DOI 10.1007/s11007-020-09501-0) — real-wrong-metadata, fixed in place. Other new cites verified real-correct (Killingsworth&Gilbert 2010 Science 330:932 / 46.9%; Christoff 2016 NRN 17(11):718–731; Irving 2016 Phil Studies 173:547–571; NIH 2019 MCH REM-forgetting faithful; Petitmengin 2006). Inline↔Refs: all 29 cited, no orphans. Calibration PASS (tenet section retains 2026-06-10 "compatible with / framework-internal, not interface evidence"). Engagements: Frankish Mode One/Two (self-refutation, no boundary-substitution); Dennett Mode Three; no label leakage. Length over hard ceiling but condensation DEFERRED — 2 condense passes already ran 2026-07-19; coalesce hub under critical (4000); avoid same-week churn. Length-neutral pass.
+- **Output**: [[reviews/deep-review-2026-07-20-transit-void]]
+
 ## 2026-07-20T01:35:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/competency-without-felt-experience]]
