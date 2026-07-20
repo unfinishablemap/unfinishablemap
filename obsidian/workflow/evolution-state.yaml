@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-20T00:27:32.697134+00:00'
-session_count: 16752
-cycle_position: 11565
+last_updated: '2026-07-20T00:32:28.835986+00:00'
+session_count: 16753
+cycle_position: 11566
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T21:55:20.442908+00:00'
   optimistic-review: '2026-07-19T23:00:04.795545+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-20T00:15:33.224324+00:00'
+  deep-review: '2026-07-20T00:32:28.835986+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T23:46:16.626135+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-19T20:31:58.679747+00:00'
+last_git_push: '2026-07-20T00:32:29.177100+00:00'
 last_tweet_date: '2026-07-19'
 content_stats:
   total_files: 297
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6735
+  reviews_completed: 6736
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-07-19'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-20'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-20'
   outcome: success
 agentic_social:
@@ -1331,12 +1331,41 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-20T00:25:00+00:00'
-  last_replenishment_prev: '2026-07-19T23:55:00+00:00'
-  last_replenishment_run: 780
+  last_replenishment: '2026-07-20T00:38:00+00:00'
+  last_replenishment_prev: '2026-07-20T00:25:00+00:00'
+  last_replenishment_run: 781
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_781_note: 'run no.781 (2026-07-20T00:38Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/occasionalism.md.
+    Authoritative pre-write count_p0_p2_tasks == 2 (open holders apex/born-preserving-causal-efficacy
+    [run] + concepts/causal-exclusion-argument [run 780]); below floor 3, == 3 after (tool-verified,
+    post-write recount == 3). Eight-source audit LIVE: chains/unconsumed-research/gap
+    all BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP); orphaned_files=0;
+    length offenders all veto/human-deferred/positions-governed; positions AUDIT ran
+    2026-07-12 (<30d, not due), no pending add/update; no applied-apex gap. Staleness
+    scorer leaders teleosemantics (10.8) + cosmopsychism (9.2) re-REJECTED as already
+    Publisher-of-Record-ledgered (runs 779/780 stand); causal-exclusion (9.2) already
+    the open holder; memory-channel-interface-evidence 07-16 delta is a single cosmetic
+    [[hemispherectomy]] wikilink over a 07-12 full quote-fidelity+currency review (over-review);
+    consciousness-and-the-phenomenology-of-translation CONVERGENCE-LOCKED by its 06-20
+    per-cite ledger (do-not-re-verify, byte-stable) — a false never-verified mint avoided
+    ([[owed-web-verify-task-false-never-verified-premise]]). TARGET has GENUINE substantive
+    unreviewed drift: last_deep_review 2026-07-14T01:09 (fresh-create cross-review), then
+    commit e3165ab5c (07-14T22:35 refine "Fix Fechner double-aspect misattribution")
+    REWROTE the pre-established-harmony / psychophysical-parallelism family paragraph
+    with a fresh named-thinker attribution surface (Leibniz two-clocks trichotomy, Spinoza
+    dual-aspect, Fechner double-aspect identity, Wundt methodological-posit) + a bi-aspectual-ontology
+    cross-link — never deep-reviewed (verify-the-refine-landed + attribution-fidelity
+    lens). opus-4-8 (current cohort but NOT converged no-op churn — real unreviewed content
+    delta), HOLD ai_system; 2274w concepts = ok, strictly length-neutral. Distinct interaction-problem/parallelism/divine-causation
+    cluster from both Tenet-2-quantum / Kim-exclusion holders. NOT queued (sole occasionalism
+    File** hit is a ✓-done islamic-sufi task''s cross-link context; count==2 confirms)/vetoed
+    (grep "VETOED" is a substring in another note about the #veto condenses)/session-touched
+    (git log --since 2026-07-17 empty). BOTTOM-inserted (FIFO). No concurrent evolve_loop;
+    uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
+    KEPT. HEAD 8e189c68f. Pruned run_778_note per note-bloat discipline (keep ~3: 779/780/781).'
   run_780_note: 'run no.780 (2026-07-20T00:25Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/causal-exclusion-argument.md.
     Authoritative pre-write count_p0_p2_tasks == 2 (open holders concepts/quantum-zeno-effect
@@ -1385,32 +1414,6 @@ queue_status:
     last loop action was time-triggered agentic-social, floor left genuinely unmet);
     uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
     KEPT. Pruned run_776_note per note-bloat discipline (keep ~3: 777/778/779).'
-  run_778_note: 'run no.778 (2026-07-19T23:41Z, /replenish-queue): SINGLE floor-restoring
-    staleness deep-review mint (concepts/content-externalism.md). Authoritative pre-write
-    count_p0_p2_tasks == 2 (open floor-holders concepts/intrinsic-nature [run 776]
-    + concepts/self-representational-theory-of-consciousness [run 777]); the run-775
-    holder voids/wholeheartedness-void was consumed + deep-reviewed by the in-process
-    cycle (commit e90bb03a2, 23:36Z slot), dropping the count to 2. Below floor of
-    3; == 3 after (tool-verified). Eight-source audit LIVE: chains null; unconsumed-research
-    + gap BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP; positions
-    8/80); staleness == ONLY live source; orphaned_files=0; length offenders all veto/human-deferred;
-    positions 8<10 audit threshold; no applied-apex gap. Scorer #1 yogacara CHECKED
-    + REJECTED again (complete 07-11 publisher ledger + Waldron quote fix; only cosmetic
-    Metzinger link since). Target content-externalism (article-tier rank #3, score
-    9.23) has GENUINE substantive unreviewed drift: last_deep_review 2026-07-13T07:31
-    (cross-review sidecar written 07:33), then commit 564da8293 (07-13T08:34 refine
-    addressing pessimistic-2026-07-13) REWROTE the phenomenal-internalist half AFTER
-    the review (DIFF CONFIRMED not cosmetic): the "duplicate-invariance cuts the other
-    way" premise replaced with an explicit "switch-invariance is contested, not a
-    premise" dialectical reframe, plus added/foregrounded citations the 07:33 sidecar
-    never saw (Kim reply-fragment, Farkas 2008, Yli-Vakkuri & Hawthorne 2018, Dretske
-    1996 subtitle). Verify-the-refine-landed + owed-web-verify lens; opus-4-8 HOLD,
-    1725w concepts status ok. Distinct content-externalism/Twin-Earth cluster from
-    both open holders (Russellian intrinsic-nature; Kriegel self-representation).
-    NOT queued/vetoed/session-touched. BOTTOM-inserted (FIFO). No concurrent evolve_loop;
-    uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
-    KEPT. HEAD e90bb03a2. Pruned run_775_note per note-bloat discipline (keep ~3:
-    776/777/778).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
