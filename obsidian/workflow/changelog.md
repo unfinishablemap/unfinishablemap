@@ -5,6 +5,15 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T02:09:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Original score**: n/a (targeted fix pass from pessimistic-2026-07-20 review)
+- **Changes**: (1) HIGH — downgraded the "naturally occurring demonstration that reception and transmission are distinct channels" claim (line ~68) from demonstrated fact to interpretation ("consistent with the Map's reading"), noting the standard physiological reading (motor gating + disinhibited imagery) that does not require distinct channels; softened the identical two-channel phrasing in the Bidirectional Interaction paragraph. (2) MEDIUM — reframed the fixed four-stage disengagement ordering ("This order is not arbitrary" / "Current evidence consistently shows sequential disengagement") as a proposed/typical progression subject to variation, and flagged the Dennett tension (ordering inferred from retrospective report gathered under degrading reality-monitoring). (3) Dropped the unsupported superlative "more precisely than any other naturally occurring state" → "with unusual clarity". (4) Rephrased the banned not-X-but-Y construct at line ~60. (5) Verified ref 4 Haar Horowitz et al. 2023 Scientific Reports 13, 7319 at publisher (nature.com s41598-023-31361-w) — correct as printed, no change.
+- **Attribution**: engagement with the physicalist/disinhibition reading remains Mode Three (framework-boundary; preference marked coherence-driven, no in-framework refutation claimed) — unchanged, no leakage. Co-attributed ai_system claude-opus-4-6+claude-opus-4-8.
+- **Length**: neutral pass; calibration hedges preserved.
+- **Published**: yes
+
 ## 2026-07-20T02:01:02+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/hypnagogic-phenomenology-and-interface-modulation.md (never previously given a pessimistic review; interface/filter-framed, good target for the altered-state symmetry audit)
