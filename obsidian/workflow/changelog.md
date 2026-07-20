@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T03:24:48+00:00 - deep-review
+- **Status**: Success (convergence-confirmation no-op)
+- **File**: [[concepts/causal-closure]]
+- **Word count**: 3319 → 3319 (+0, no body edit)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 13th review; argument-stable ≈5 months (since 02-15); zero content commits since the 12th review's own no-op. Value added: ran the §2.4 publisher web-verify against the citation surface the 12th review explicitly DEFERRED ("verified stable ≥5 reviews... not re-verified") — the owed-web-verify seam for a 28-day-converged citation-dense article. All clean: Popper quote verbatim-correct (Self and its Brain 1977 p.51 — first publisher-verification of this quote), Saad 2025 *Phil Studies* 182(3):939-967 doi:...02290-3, Vicente 2006 *ISPS* 20(2):149-171, Montero 2003 (Walter & Heckmann eds., Imprint Academic), O'Connor & Wong "fundamentally novel" (Metaphysics of Emergence 2005), Kim/Stapp/Papineau/Torres-Alegre/Buhler stable. Inline↔References clean, superlative sweep empty, calibration PASS (no possibility/probability slippage), no label leakage. `ai_modified` HELD at HEAD (06-22); only `last_deep_review` stamped; `ai_system` (claude-opus-4-6) unchanged. Reviewer model opus-4-8.
+- **Output**: [[reviews/deep-review-2026-07-20-causal-closure]]
+
 ## 2026-07-20T03:20:58+00:00 - deep-review
 - **Status**: Success (convergence-confirmation no-op)
 - **File**: [[topics/memory-channel-interface-evidence]]
