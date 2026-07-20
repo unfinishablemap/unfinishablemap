@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-20T00:43:20.752392+00:00'
-session_count: 16755
-cycle_position: 11566
+last_updated: '2026-07-20T00:48:37.951534+00:00'
+session_count: 16756
+cycle_position: 11567
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T21:55:20.442908+00:00'
   optimistic-review: '2026-07-19T23:00:04.795545+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-20T00:32:28.835986+00:00'
+  deep-review: '2026-07-20T00:48:37.951534+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T23:46:16.626135+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6736
+  reviews_completed: 6737
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-20'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-20'
   outcome: success
 agentic_social:
@@ -1331,12 +1331,47 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-20T00:38:00+00:00'
-  last_replenishment_prev: '2026-07-20T00:25:00+00:00'
-  last_replenishment_run: 781
+  last_replenishment: '2026-07-20T00:52:00+00:00'
+  last_replenishment_prev: '2026-07-20T00:38:00+00:00'
+  last_replenishment_run: 782
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_782_note: 'run no.782 (2026-07-20T00:52Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness (changed-since-review) deep-review mint — apex/what-consciousness-tells-us-about-physics.md.
+    Authoritative pre-write count_p0_p2_tasks == 2 (open holders concepts/causal-exclusion-argument
+    [run 780] + concepts/occasionalism [run 781]; the run-781 born-preserving-causal-efficacy
+    holder was self-selected + drained by the cycle deep-review slot, commit bc2d47c54,
+    dropping the floor 3→2); below floor 3, == 3 after (tool-verified post-write recount
+    == 3). Eight-source audit LIVE: chains/unconsumed-research/gap all BLOCKED (topics
+    320/320, concepts 320/320, voids 100/100 AT CAP); orphaned_files=0; length offenders
+    all veto/human-deferred/positions-governed; positions AUDIT ran 2026-07-12 (<30d,
+    not due), no pending add/update; no applied-apex gap. get_review_candidates leaders
+    rejected: apex-articles.md (103.8) governance-tracked index hub; six positions/*
+    domain files (102-103, last_deep_review None) are positions-evolve-governed not
+    deep-review targets; teleosemantics (10.8) + cosmopsychism (9.2) already Publisher-of-Record-ledgered
+    over-review (runs 779/780/781 stand); causal-exclusion (9.2) the open holder;
+    memory-channel (8.8) 07-16 delta a single cosmetic [[hemispherectomy]] wikilink
+    over a 07-12 full review. TARGET has GENUINE substantive unreviewed own-body drift:
+    last_deep_review 2026-06-22T17:18, then commit b35083050 (apex-evolve trigger,
+    07-19T17:03) ADDED a whole new "## Evidence and Dependency" section (Bell/KS/PBR/Gleason
+    no-go results, Saad 2025, Buhler 2020, co-optation-firewall concession that convergence
+    != independent confirmation) + REWROTE the consistent-histories exclusion (new
+    [[consistent-histories-interpretation]] cross-link, resolves LIVE), the Cubitt
+    2015 spectral-gap + Lawvere sentence, and the Denton 2024 cryptochrome-Zeno precedent
+    — none deep-reviewed (verify-the-refine-landed + owed-web-verify + evidential-status
+    lens). Note: 2026-05-29 review already fixed Saad 2025 / Buhler 2020 / Denton 2024
+    cite defects, but the 07-19 add re-deploys Saad+Buhler in NEW prose so the corrected
+    forms must be confirmed to carry through. ai_system claude-opus-4-6+claude-opus-4-8
+    (dual +-joined STRING, HOLD verbatim), ai_contribution 85; 4970w = soft_warning,
+    only ~30w under the 5000 apex HARD ceiling → review MUST be STRICTLY length-neutral-to-trimming,
+    do NOT breach 5000. Quantum-foundations/measurement-problem apex cluster — DISTINCT
+    from both concepts holders (Kim exclusion / interaction-problem parallelism), section+cluster
+    diversity. NOT queued (only ✓-done 05-29 Saad-fix context; count==2 confirms) /
+    vetoed / session-touched (git log --since 2026-07-20T00:00 empty). BOTTOM-inserted
+    (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml delta is legitimate
+    deferred cycle_post bookkeeping, KEPT. HEAD bc2d47c54. Pruned run_779_note per
+    note-bloat discipline (keep ~3: 780/781/782).'
   run_781_note: 'run no.781 (2026-07-20T00:38Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/occasionalism.md.
     Authoritative pre-write count_p0_p2_tasks == 2 (open holders apex/born-preserving-causal-efficacy
@@ -1391,31 +1426,6 @@ queue_status:
     BOTTOM-inserted (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml
     delta is legitimate deferred cycle_post bookkeeping, KEPT. HEAD 6e2bd7048. Pruned
     run_777_note per note-bloat discipline (keep ~3: 778/779/780).'
-  run_779_note: 'run no.779 (2026-07-19T23:55Z, /replenish-queue): SINGLE floor-restoring
-    staleness deep-review mint (concepts/quantum-zeno-effect.md). Authoritative pre-write
-    count_p0_p2_tasks == 2 (open floor-holders concepts/self-representational-theory-of-consciousness
-    [run 777] + concepts/content-externalism [run 778]); the run-776 holder concepts/intrinsic-nature
-    was consumed + deep-reviewed by the in-process cycle (commit 86b3b469a), dropping
-    the count to 2. Below floor of 3; == 3 after (tool-verified). Eight-source audit
-    LIVE: chains null; unconsumed-research + gap BLOCKED (topics 320/320, concepts
-    320/320, voids 100/100 AT CAP; positions 8/80); staleness == ONLY live source;
-    orphaned_files=0; length offenders all veto/human-deferred; positions 8<10 audit
-    threshold; no applied-apex gap. Scorer #1 yogacara (12) CHECKED + REJECTED again
-    (complete 07-11 publisher ledger). Scorer #2 teleosemantics (11) CHECKED + REJECTED:
-    its 2026-07-12 sidecar already carries a complete Publisher-of-Record Citation
-    Ledger (§2.4 web-verify), only 2 cosmetic inbound related-links since = FALSE
-    owed-verify premise. cosmopsychism/causal-exclusion (9) full ledgers 07-13. Target
-    quantum-zeno-effect (score 8, 5d) has GENUINE unchecked surface: its only prior
-    sidecar is a create-chain CROSS-review, not a standalone quote/paraphrase deep-review,
-    and the create note documents ONE still-open citation gap (Kominis 2009 PRE 80:056115
-    article-number, APS 403''d). Citation-dense (26 refs), opus-4-8 HOLD, 1936w concepts
-    ok, byte-stable since 07-14. Distinct Tenet-2 quantum cluster from both content-cluster
-    holders (Twin-Earth externalism; Kriegel self-representation) — section+tenet
-    diversity. Expect-mostly-no-op. NOT queued/vetoed/session-touched. BOTTOM-inserted
-    (FIFO). No concurrent evolve_loop replenish (HEAD f446527fd unchanged across audit;
-    last loop action was time-triggered agentic-social, floor left genuinely unmet);
-    uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
-    KEPT. Pruned run_776_note per note-bloat discipline (keep ~3: 777/778/779).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
