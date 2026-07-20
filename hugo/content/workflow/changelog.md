@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-20T11:18:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [infant-consciousness](/voids/infant-consciousness/)
+- **Word count**: 1892 → 1933 (+41)
+- **Critical issues addressed**: 1 (wrong-work quote attribution: the "source of their mental experience is a representation of a past event" quote was mis-attributed to Tulving 1985; it is verbatim Bauer 2015, developmental claim from Perner & Ruffman 1995 — split citations correctly, added Perner & Ruffman 1995 to References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (properly sourced the ~age-4-6 autonoetic-onset claim that was riding on the misattribution)
+- **Note**: converged 3-prior-review void, body unchanged since 2026-06-18; ran verbatim quote-fidelity at primary sources (the lens prior metadata-only reviews had not exercised) and it surfaced the wrong-work attribution. Vygotsky, Gopnik, Tulving-trichotomy, Petanjek quotes/cites re-verified real-correct.
+- **Output**: [deep-review-2026-07-20-infant-consciousness](/reviews/deep-review-2026-07-20-infant-consciousness/)
+
+## 2026-07-20T10:17:31+00:00 - positions-evolve
+- **Status**: Success (verification + date refresh)
+- **Mode**: update
+- **File**: [voids-as-evidence](/positions/voids-as-evidence/) (P-V1, P-V2, P-V3)
+- **Trigger**: verify the 2026-07-16 multi-axis calibration migration (commit 4a5863952) — P-V1 external-evidence grade B, P-V3 grade C, both never-reviewed since assignment
+- **Web-verify**: Reichenbach–Salmon–Sober common-cause principle attribution confirmed at primary/reference literature (Reichenbach *The Direction of Time* 1956 screening-off formulation; Salmon 1984 elaboration; Sober engagement incl. Venetian-sea-levels counterexample; SEP physics-Rpcc). Correctly stated and correctly applied — the Map uses it in the conservative *discounting* direction (common-cause null), which is robust to the fact that PCC's universal validity is contested. Not over-read.
+- **Calibration check**: grade B (P-V1) / grade C (P-V3) NOT inflated — low-to-moderate banding and common-cause-null discount framing preserved intact.
+- **Migration-integrity check**: "Substantive claims, statuses, dependencies unchanged" HOLDS — diff of P-V1/P-V2/P-V3 Asserts/Depends/Argued-in vs pre-migration shows only Confidence→Calibration line replacement plus the new schema paragraph.
+- **Edit applied**: refreshed stale per-position "Last reviewed" 2026-06-08 → 2026-07-20 on P-V1/P-V2/P-V3; bumped ai_modified. Held ai_system (actual value **claude-opus-4-8**; the mint note's "claude-opus-4-6" premise was false — git history shows opus-4-8 since creation 2026-06-08).
+- **Cross-links**: `^calibration-schema` anchor in [methodology-and-calibration](/positions/methodology-and-calibration/) confirmed present; deep-links resolve.
+- **Cascade**: none — no confidence-band shift; downstream P-V2/P-V3 depend on P-V1 but P-V1's substance is unchanged.
+
 ## 2026-07-20T05:29:40+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (commissioned as GPT-5.5 Pro; claude.ai served gpt-5-6-pro)
