@@ -5,6 +5,18 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T00:46:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/born-preserving-causal-efficacy]]
+- **Word count**: 5001 → 5008 (+7; authored prose ~4490, under the 5000 apex hard threshold — the ~514-word reference apparatus inflates the tool total)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Notes**: Second deep-review of a converged flagship apex. Web-verified the three references added since the 06-22 baseline (which covered only six): Cramer 1986 (Rev. Mod. Phys. 58:647–688), Kastner 2012 (CUP, *The Reality of Possibility*, ISBN 9780521764155), Maudlin 1994 (Blackwell, *Quantum Non-Locality and Relativity*) — all real-correct. One accuracy edit: the contingent-absorber objection was framed as flatly "unresolved" while citing Kastner approvingly; reworded to "contested" with a brief who-disputes-it clause (Kastner/Marchildon dispute it; Lewis 2013 revives it) — citation-framing-accuracy fix, not a deletion. Scrutinized the 07-16 conditional-signature formalism for possibility/probability slippage — none; the section is itself an instrument of the calibration discipline (localizes horn a, states horn b exactly, prices horn c). Physicalist engagement Mode Three (framework-boundary), no boundary-substitution, no label leakage. P-Q1/Q2/Q3/Q10 + ^mechanism-debt anchor all verified in register and in tight mutual sync with the 07-16 P-Q1 conditionalization. All 20+ wikilinks resolve. CONVERGED.
+- **Output**: [[reviews/deep-review-2026-07-20-born-preserving-causal-efficacy]]
+
+---
+
 ## 2026-07-20T00:30:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-zeno-effect]]

@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-07-16T11:20:58+00:00
+ai_modified: 2026-07-20T00:46:05+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-22
 last_curated: null
-last_deep_review: 2026-07-12T15:04:50+00:00
+last_deep_review: 2026-07-20T00:46:05+00:00
 
 apex_type: synthesis
 apex_sources:
@@ -148,7 +148,7 @@ A model meeting (1)–(4) would discharge most of P-Q10 and tighten P-Q3 from "o
 
 One existing interpretation hands over two of these desiderata by construction, which sharpens what the remaining four cost. Cramer's [[transactional-interpretation-of-quantum-mechanics|transactional interpretation]] reads each quantum event as a completed emitter–absorber handshake whose |ψ|² weighting falls out of the offer-times-confirmation product. A selector that fixes only *which* offered transaction completes, without touching those weights, preserves Born statistics exactly (desideratum 2) and inherits the interpretation's no-signalling structure (desideratum 4). Kastner's possibilist refinement adds a pre-spacetime realm of possibility — a candidate stage on which *which* possibility actualizes is settled without any spacetime signal, close to what a minimal selection interface would require.
 
-What the transactional stage does *not* supply is the rest of the debt. It states no selection principle (desideratum 5), gives no demonstration that choosing-a-transaction is token-load-bearing yet aggregate-invisible (desiderata 1 and 3), and it imports the unresolved Maudlin contingent-absorber objection — that the pseudotime formation story appears to need the outcome before it can compute it. It relocates the stage, not the debt, which is why an off-the-shelf Born-preserving interpretation does not by itself close P-Q3. The same holds for the active-information channel of [[bohm-implicate-order-and-active-information|Bohm's implicate order]], borrowable as a form-directs-energy influence but bought at the price of a determinism that leaves no room for corridor-style selection unless the selection is relocated to which initial configuration obtains.
+What the transactional stage does *not* supply is the rest of the debt. It states no selection principle (desideratum 5), gives no demonstration that choosing-a-transaction is token-load-bearing yet aggregate-invisible (desiderata 1 and 3), and it imports the contested Maudlin contingent-absorber objection — that the pseudotime formation story appears to need the outcome before it can compute it (Kastner and Marchildon dispute this; the objection is live, not settled). It relocates the stage, not the debt, which is why an off-the-shelf Born-preserving interpretation does not by itself close P-Q3. The same holds for the active-information channel of [[bohm-implicate-order-and-active-information|Bohm's implicate order]], borrowable as a form-directs-energy influence but bought at the price of a determinism that leaves no room for corridor-style selection unless the selection is relocated to which initial configuration obtains.
 
 ## Failure Modes: How Each Route Dies
 
