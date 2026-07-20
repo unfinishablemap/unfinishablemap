@@ -4,7 +4,7 @@ description: "Jaegwon Kim's causal exclusion argument stated canonically: the in
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-15T10:41:00+00:00
+ai_modified: 2026-07-20T00:57:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
 last_curated:
-last_deep_review: 2026-07-13T22:39:02+00:00
+last_deep_review: 2026-07-20T00:57:23+00:00
 ---
 
 Jaegwon Kim's causal exclusion argument (also called the "supervenience argument" or the "master argument") is the central contemporary challenge to any view on which mental properties are both distinct from physical properties and causally efficacious. It is the objection [[objections-to-interactionism|interactionist dualism]] must answer. The argument is not [[galilean-exclusion|Galilean exclusion]] (the methodological removal of secondary qualities from physics) and not the Map's own [[overdetermination-dissolution-under-selection-only-interactionism|overdetermination-dissolution]] move — it is the specific claim that a distinct mental cause is either redundant or forces implausible double-causation. This page states the argument canonically: the inconsistent set of premises, the supervenience machinery that tightens it, the mainstream responses literature, and the three routes an interactionist can take. The Map's own answer is developed elsewhere and cross-linked below; the value here is the neutral anatomy.
@@ -70,7 +70,7 @@ Three response families are standard, summarized here before the Map's own optio
 Against the inconsistent set, an interactionist committed to genuine mental efficacy must reject at least one premise. Three routes are available.
 
 1. **Deny closure (premise 2).** Straightforward interactionism holds the physical is not causally complete; mind injects influence. The cost is apparent friction with conservation laws and the empirical success of physics. A softer variant denies only *observational* closure (Saad) — physics is complete for what experiments detect, not absolutely; see [[completeness-in-physics-under-dualism]] and the [[causal-closure-debate-historical-survey|history of the closure debate]].
-2. **Accept systematic overdetermination (reject premise 5).** Some dualists bite this bullet, arguing that the supervenience dependence between mental and physical makes the overdetermination benign, unlike the coincidental firing-squad case. This is the two-cause co-causation family — counterfactual dualism (Kroedel) and interventionist co-causation (Vaassen), rooted in the lawful-overdetermination lineage (Mills, Lowe) — developed in [[interventionist-and-counterfactual-dualism]].
+2. **Reject premise 5 (the two-cause route).** Some dualists hold that experience and its physical base are *both* genuine causes, denying only that the overlap is the coincidental, firing-squad kind. This is the two-cause co-causation family — counterfactual dualism (Kroedel), interventionist co-causation (Vaassen), and the older lawful-overdetermination lineage (Mills, Lowe) — developed in [[interventionist-and-counterfactual-dualism]]. The route divides on *how* it rejects premise 5. The overdeterminist branch accepts the overdetermination and argues a supervenience-lawful convergence makes it benign — Mills defends this directly, and Kroedel offers it as one of two options. Vaassen's interventionist branch answers differently: because difference-making is not energy competition, experience and base are both causes without generating the double-sufficient-cause overlap premise 5 targets, so on its own terms there is no overdetermination to excuse.
 3. **Locate the mental cause where physics is genuinely insufficient.** The Map's preferred route denies premise 2's *sufficiency* at a specific joint rather than everywhere. At quantum indeterminacies, physics fixes probabilities but not which outcome actualizes, so there is no *sufficient* physical cause of the specific outcome for a mental cause to be redundant to. There is nothing to exclude because the exclusion principle's "screening-off" premise presupposes a sufficient physical cause that, at that joint, does not exist. The [[delegatory-causation|delegatory-preemption]] reply is a complementary, quantum-independent option: only one cause operates over the preempted causal subset.
 
 ## Relation to Site Perspective

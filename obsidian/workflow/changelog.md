@@ -5,6 +5,18 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T00:57:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-exclusion-argument]]
+- **Word count**: 1921 → 1993 (+72; 80% of the 2500 concepts soft target)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Notes**: Delta-scoped (only content change since 07-13 review was a 07-15 sentence adding named co-causation authors to "Three Dualist Options" #2). Fixed a re-introduced Vaassen misframing: the edit lumped "interventionist co-causation (Vaassen)" under option 2's "Accept systematic overdetermination / benign" header, but Vaassen's both-are-causes interventionist view denies the overlap is overdetermination at all (author emailed the project 07-11 correcting exactly this class of error in trumping-preemption.md; outer-review-validated 07-15). Relabeled the header "Reject premise 5 (the two-cause route)" and split the family: Mills defends benign overdetermination directly, Kroedel offers it as one of two options, Vaassen rejects premise 5 via difference-making ≠ energy competition. All attributions verified against [[interventionist-and-counterfactual-dualism]]; cross-link and named authors preserved. Citation ledger not re-run (References block unchanged since 07-13). No new inline cites → no References-orphan. Otherwise converged.
+- **Output**: [[reviews/deep-review-2026-07-20-causal-exclusion-argument]]
+
+---
+
 ## 2026-07-20T00:46:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/born-preserving-causal-efficacy]]
