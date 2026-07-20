@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T03:20:58+00:00 - deep-review
+- **Status**: Success (convergence-confirmation no-op)
+- **File**: [[topics/memory-channel-interface-evidence]]
+- **Word count**: ~4300 → ~4300 (+0, no body edit)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Re-surfaced (score 9) only because a cosmetic text→wikilink conversion of "Hemispherectomy" (§100, commit e97cf64cb, 07-16) bumped `ai_modified` past the 07-12 review — the [[replenish-changed-since-review-delta-often-cosmetic-wikilink]] pattern. References block unchanged, no citation touched, so §2.4's cosmetic-cross-link exemption applied and the publisher web-verify pass was correctly skipped (metadata already publisher-clean ×3 audits: 06-04/06-05/06-16; quote-fidelity fixed 07-12; no currency drift). Non-web checks clean: Wheeler/Stuss/Tulving "subjective time" quote fix intact, zero label leakage, no calibration slippage (tenet-accepting reviewer would not flag), all required sections present. Length watch-item (~4300w hard_warning) carried as ACCEPT-AS-SURVEY. `ai_modified` HELD at HEAD; only `last_deep_review` stamped; `ai_system` unchanged.
+- **Output**: [[reviews/deep-review-2026-07-20-memory-channel-interface-evidence]]
+
 ## 2026-07-20T02:56:44+00:00 - deep-review
 - **Status**: Success (convergence-confirmation no-op)
 - **File**: [[topics/consciousness-and-integrated-information]]
