@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review: 2026-07-06T18:42:42+00:00
+last_deep_review: 2026-07-20T23:46:10+00:00
 embedded_videos:
   - id: yEbLx3KMclc
     url: https://www.youtube-nocookie.com/embed/yEbLx3KMclc

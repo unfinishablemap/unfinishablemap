@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T23:46:10+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [[topics/invertebrate-consciousness-as-interface-test]]
+- **Word count**: 2777 → 2777 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 5th-pass deeply-converged article (selection score 13 under damping). Body byte-stable since the 2026-06-02 publisher-of-record citation baseline except one currency bump (NYD signatory count 599→605 in the 07-08 cycle commit). Web-verified that one time-varying claim at the live NYU declaration page: "Signature count: 605" — matches exactly, current. All fixed citations re-confirmed 07-06 on the byte-identical body; not re-litigated (convergence discipline). Calibration PASS (no possibility/probability slippage); reasoning-modes clean (Feinberg-Mallatt Mode Three, Birch reframe, no label leakage); banned-construct scan clean. No-op discipline: advanced only `last_deep_review`; held `ai_modified` (2026-07-08) and `ai_system` (claude-opus-4-7).
+- **Output**: [[reviews/deep-review-2026-07-20-invertebrate-consciousness-as-interface-test]]
+
 ## 2026-07-20T13:46:42+00:00 - deep-review
 - **Status**: Success (no-op / converged)
 - **File**: [[concepts/phenomenology-of-choice-and-volition]]
