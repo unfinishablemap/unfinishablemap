@@ -1,1 +1,25 @@
-[]
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a5d82a9-154c-83ed-b84a-487aa8561487
+  commissioned_at: '2026-07-20T02:06:54.726625+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structural/tenet coherence,
+    contradictions'
+  target_filename: outer-review-2026-07-20-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are commissioned to perform a rigorous outer review of The Unfinishable
+    Map (https://unfinishablemap.org), a philosophical research site defending a dualist,
+    quantum-interactionist account of consciousness. Analyse the site as a whole and
+    identify: (1) novel insights or inferences that follow from the site''s own commitments
+    but that it has not yet stated; (2) structural weaknesses in how clusters of articles
+    fit together; (3) tenet-coherence issues where content strains against the five
+    foundational tenets; and (4) cross-cluster contradictions where different articles
+    hold incompatible positions. Before finalising, consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    so you register recent activity that web-search indices have not yet picked up
+    (their index lag is 24-48 hours). End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
