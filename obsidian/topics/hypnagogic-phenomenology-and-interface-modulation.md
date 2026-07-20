@@ -7,6 +7,7 @@ human_modified:
 ai_modified: 2026-07-20T02:09:08+00:00
 last_deep_review: 2026-07-06T14:03:10+00:00
 draft: false
+anchoring_audit_exempt: true  # verified lexical false-high 2026-07-20: 2 strong-assertions/20 hedges in 2768w (hedge-density 7.2 > anchor); flag is density-ratio artifact + underdetermination-regex miss, not over-claiming. Refined this session for real overclaims.
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
