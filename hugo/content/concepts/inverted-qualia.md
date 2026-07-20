@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-15 10:13:31+00:00
+ai_modified: 2026-07-20 18:45:13.773287+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,11 @@ date: &id001 2026-04-18
 description: What if your red looks like my green? Functionally identical beings could
   differ in experience—proving function doesn't fix phenomenology.
 draft: false
+embedded_videos:
+- embedded: 2026-07-20 18:45:13.773287+00:00
+  id: 2yj-XtcEMHk
+  source: notebooklm/0096-01-inverted-qualia
+  url: https://www.youtube-nocookie.com/embed/2yj-XtcEMHk
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 10:13:31+00:00
@@ -38,6 +43,12 @@ topics:
 The inverted spectrum thought experiment asks: what if your experience of red is qualitatively identical to my experience of green? Two people might perceive the same objects, respond identically to color tests, and agree on all color terms—yet experience the world in systematically different ways. Where you see a warm red sunset, I might see something that, were you to experience it, you'd call a cool green glow.
 
 Raised by Locke (1689) and developed into a rigorous argument against [functionalism](/concepts/functionalism/) by Block and Fodor (1972), the scenario survived sophisticated reformulation by Shoemaker (1982). If functionally identical beings can differ in their [qualia](/concepts/qualia/), then qualia aren't determined by functional organization. Something beyond function matters to the character of experience.
+
+<details class="yt-embed" data-video-id="2yj-XtcEMHk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/2yj-XtcEMHk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Core Scenario
 
