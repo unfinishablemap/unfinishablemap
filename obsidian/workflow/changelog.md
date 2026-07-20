@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T11:18:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/infant-consciousness]]
+- **Word count**: 1892 → 1933 (+41)
+- **Critical issues addressed**: 1 (wrong-work quote attribution: the "source of their mental experience is a representation of a past event" quote was mis-attributed to Tulving 1985; it is verbatim Bauer 2015, developmental claim from Perner & Ruffman 1995 — split citations correctly, added Perner & Ruffman 1995 to References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (properly sourced the ~age-4-6 autonoetic-onset claim that was riding on the misattribution)
+- **Note**: converged 3-prior-review void, body unchanged since 2026-06-18; ran verbatim quote-fidelity at primary sources (the lens prior metadata-only reviews had not exercised) and it surfaced the wrong-work attribution. Vygotsky, Gopnik, Tulving-trichotomy, Petanjek quotes/cites re-verified real-correct.
+- **Output**: [[reviews/deep-review-2026-07-20-infant-consciousness]]
+
 ## 2026-07-20T10:17:31+00:00 - positions-evolve
 - **Status**: Success (verification + date refresh)
 - **Mode**: update

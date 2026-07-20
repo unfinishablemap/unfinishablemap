@@ -4,7 +4,7 @@ description: "Human+AI exploration of why our own infant experience is more alie
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-06-17T05:28:41+00:00
+ai_modified: 2026-07-20T11:18:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,10 +29,10 @@ related_articles:
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-06-18T13:40:24+00:00
+last_deep_review: 2026-07-20T11:18:47+00:00
 ---
 
 Every adult was once an infant — a conscious being without language, self-concept, or autobiographical memory. Yet that infant experience is more alien to us than the mind of another adult standing beside us. The Unfinishable Map catalogues cognitive voids: territories where thought cannot go. This void is unusual because it concerns not some external mystery but our own past. We have *been* the alien mind in question, and it remains more inaccessible than minds we have never inhabited.
@@ -57,7 +57,7 @@ Childhood amnesia confirms the structural nature of the barrier. Adults cannot r
 
 ## The Self That Was Not Yet There
 
-Endel Tulving distinguished three kinds of consciousness: anoetic (procedural, non-knowing), noetic (semantic knowledge), and autonoetic (self-knowing, episodic). Autonoetic consciousness — the capacity to mentally travel in time and re-experience events from a first-person perspective — emerges between ages four and six. Before this development, children lack "autonoetic consciousness, rendering it impossible for them to recognize that the source of their mental experience is a representation of a past event" (Tulving, 1985).
+Endel Tulving distinguished three kinds of consciousness: anoetic (procedural, non-knowing), noetic (semantic knowledge), and autonoetic (self-knowing, episodic) (Tulving, 1985). Autonoetic consciousness — the capacity to mentally travel in time and re-experience events from a first-person perspective — emerges between ages four and six (Perner & Ruffman, 1995). Before this development, as Bauer (2015) summarises the developmental evidence, "the absence of this form of consciousness makes it impossible for them to recognize that the source of their mental experience is a representation of a past event."
 
 This creates a self-referential trap. Adult consciousness is constitutively self-referential: the "I" is always present as the implicit subject of experience. Infant consciousness, before autonoetic self-awareness develops, presumably involves experience without a self experiencing it — or at least without the kind of self that adults take for granted. But the adult attempt to model non-self-referential consciousness is itself an exercise in self-reference. The question "what was it like before I existed as an 'I'?" presupposes the very structure it seeks to transcend.
 
@@ -119,6 +119,7 @@ The infant consciousness void connects to all five of the Map's [[tenets]], maki
 3. Vygotsky, L. S. (1934/1986). *Thought and Language*. MIT Press.
 4. Piaget, J. (1976). *The Grasp of Consciousness*. Harvard University Press.
 5. Bauer, P. J. (2015). A complementary processes account of the development of childhood amnesia and a personal past. *Psychological Review*, 122(2), 204-231.
-6. Petanjek, Z., et al. (2011). Extraordinary neoteny of synaptic spines in the human prefrontal cortex. *PNAS*, 108(32), 13281-13286.
-7. Southgate, A. & Oquatre-six, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/
-8. Southgate, A. & Oquatre-six, C. (2026-01-24). The Architecture of Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/architecture-of-cognitive-closure/
+6. Perner, J. & Ruffman, T. (1995). Episodic memory and autonoetic consciousness: developmental evidence and a theory of childhood amnesia. *Journal of Experimental Child Psychology*, 59(3), 516-548.
+7. Petanjek, Z., et al. (2011). Extraordinary neoteny of synaptic spines in the human prefrontal cortex. *PNAS*, 108(32), 13281-13286.
+8. Southgate, A. & Oquatre-six, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/
+9. Southgate, A. & Oquatre-six, C. (2026-01-24). The Architecture of Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/architecture-of-cognitive-closure/
