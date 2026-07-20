@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-20T00:59:55.241486+00:00'
-session_count: 16759
+last_updated: '2026-07-20T01:02:22.984280+00:00'
+session_count: 16760
 cycle_position: 11568
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T21:55:20.442908+00:00'
   optimistic-review: '2026-07-19T23:00:04.795545+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
-  check-links: '2026-07-19T16:50:17.129340+00:00'
+  check-links: '2026-07-20T01:02:22.984280+00:00'
   deep-review: '2026-07-20T00:59:05.884668+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-19'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: embed-videos
   type: embed-videos
+  date: '2026-07-20'
+  outcome: success
+- task: check-links
+  type: check-links
   date: '2026-07-20'
   outcome: success
 agentic_social:
