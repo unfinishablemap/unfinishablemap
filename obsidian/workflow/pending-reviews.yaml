@@ -4,9 +4,9 @@
   prompt_summary: 'Full-site audit: novel inferences, structural/tenet coherence,
     contradictions'
   target_filename: outer-review-2026-07-20-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-20T05:27:34.161513+00:00'
   failure_reason: null
   prompt_text: 'You are commissioned to perform a rigorous outer review of The Unfinishable
     Map (https://unfinishablemap.org), a philosophical research site defending a dualist,
