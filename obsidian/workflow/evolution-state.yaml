@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-20T03:26:51.980593+00:00'
-session_count: 16792
+last_updated: '2026-07-20T03:51:18.327947+00:00'
+session_count: 16793
 cycle_position: 11584
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -29,7 +29,7 @@ last_runs:
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-19T08:13:36.887968+00:00'
   literature-drift-review: '2026-07-14T06:25:17.065196+00:00'
-  collect-chatgpt-review: '2026-07-19T04:01:00.889386+00:00'
+  collect-chatgpt-review: '2026-07-20T03:51:18.327947+00:00'
   collect-claude-review: '2026-07-19T04:23:21.039228+00:00'
   combine-outer-reviews: '2026-07-19T05:04:10.773931+00:00'
   collect-gemini-review: '2026-07-19T04:54:20.434901+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-07-20'
-  outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-07-20'
@@ -181,6 +177,10 @@ recent_tasks:
   type: deep-review
   date: '2026-07-20'
   outcome: success
+- task: collect-chatgpt-review
+  type: collect-chatgpt-review
+  date: '2026-07-20'
+  outcome: failed
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/idealism/
