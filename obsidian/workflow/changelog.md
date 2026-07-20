@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T01:22:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Word count**: 4970 → 4973 (+3; 124% of 4000 apex soft target, ~27 under 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (consistent-histories characterisation tightened to match concept article's single-world-realist reading — CH lacks a selector, not the actual history)
+- **Enhancements made**: 0 (genuine-drift verification of unverified 2026-07-19 apex-evolve edit)
+- **Notes**: 7th consecutive pass (converged). Verified the new "Evidence and Dependency" section is calibrated clean (anti-slippage dependency disclosure, not redundant with Triple Screen); consistent-histories addition Mode Three; citation canon LOCKED (References unmodified, no new cites); Duch engagement Mode Three, no boundary-substitution; label-leakage clean. Standing human length-decision item elevated (next apex-evolve growth breaches hard threshold).
+- **Output**: [[reviews/deep-review-2026-07-20-what-consciousness-tells-us-about-physics]]
+
 ## 2026-07-20T01:11:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/occasionalism]]

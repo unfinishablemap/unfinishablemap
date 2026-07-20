@@ -4,8 +4,8 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-07-19T16:53:56+00:00
-last_deep_review: 2026-06-22T17:18:00+00:00
+ai_modified: 2026-07-20T01:22:52+00:00
+last_deep_review: 2026-07-20T01:22:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ Taking the Map's five tenets as constraints, we can derive what physics *must* l
 
 From [[tenets#^no-many-worlds|No Many Worlds]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: the wavefunction does not merely appear to collapse—it actually does, and one outcome is genuinely selected from among possibilities. All-branches-real interpretations are excluded because they eliminate the selection that makes consciousness causally relevant.
 
-This rules out Many-Worlds, decoherence-only accounts, and any interpretation where collapse is merely apparent or perspectival—including the [[consistent-histories-interpretation|consistent-histories]] programme, which assigns a single history stochastically with no collapse and no selector, denying any fact about *which* history becomes actual. That denial is exactly the selection the reverse inference requires, so the disagreement is a framework boundary, not a test the interpretation fails.
+This rules out Many-Worlds, decoherence-only accounts, and any interpretation where collapse is merely apparent or perspectival—including the [[consistent-histories-interpretation|consistent-histories]] programme, which realises a single history by Born-rule chance with no collapse and no selector for *which* one, holding that no selector is needed. That absent selection is exactly what the reverse inference requires, so the disagreement is a framework boundary, not a test the interpretation fails.
 
 ### 2. Physics Must Be Genuinely Open at Measurement
 
