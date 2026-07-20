@@ -5,6 +5,17 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T02:12:20+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[topics/split-brain-consciousness]]
+- **Word count**: 3483 → 3483 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Detail**: Tenth deep review. Audited the sole post-07-07 delta — the 2026-07-18 new paragraph citing Schechter & Bayne (2021) on unity-of-agency vs unity-of-experience against the Pinto (2017) resilience reading, plus new References entry #10. Citation web-verified **real-correct** at publisher of record (PubMed 34371067 / ScienceDirect S0028393221002402; *Neuropsychologia* 160, 107987, doi:10.1016/j.neuropsychologia.2021.107987; Schechter & Bayne 2021). Attribution faithful (agency/experience conception distinction + "open question" thesis confirmed against abstract); calibration honest (concedes underdetermination at the experience level — tightens rather than inflates evidential register); no inverse-mush; new inline cite has matching References entry (no orphan). Length 3483w (soft_warning, ~520w under 4000 hard) — length-watch flagged for next additive edit. `last_deep_review` advanced; `ai_modified` held at 2026-07-18 HEAD (no-op discipline).
+- **Reasoning mode (editor-internal)**: illusionism engagement Mixed (Mode One→Two→Three), functionalism Mode Three — unchanged, no leakage.
+- **Output**: [[reviews/deep-review-2026-07-20-split-brain-consciousness]]
+
 ## 2026-07-20T02:09:08+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
