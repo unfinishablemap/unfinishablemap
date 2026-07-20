@@ -16,7 +16,7 @@ description: From inside, consciousness cannot verify that a present identificat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 19:11:38+00:00
+last_deep_review: 2026-07-19 23:34:59+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

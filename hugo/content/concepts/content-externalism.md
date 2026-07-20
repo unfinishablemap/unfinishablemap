@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 08:30:54+00:00
+ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'A human-AI examination of content externalism: how Twin Earth pres
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 07:31:49+00:00
+last_deep_review: 2026-07-20 00:13:57+00:00
 modified: *id001
 related_articles: []
 title: Content Externalism and the Twin Earth Argument
@@ -72,6 +72,7 @@ One further connection, and one honest limitation. The connection is to mental c
 1. Dretske, F. (1995). *Naturalizing the Mind*. Cambridge, MA: MIT Press.
 1. Dretske, F. (1996). "Phenomenal Externalism, or If Meanings Ain't in the Head, Where Are Qualia?" *Philosophical Issues* 7:143–158.
 1. Farkas, K. (2008). *The Subject's Point of View*. Oxford: Oxford University Press.
+1. Yli-Vakkuri, J. & Hawthorne, J. (2018). *Narrow Content*. Oxford: Oxford University Press.
 1. Stanford Encyclopedia of Philosophy, "Externalism About the Mind" (Fall 2025 edition). https://plato.stanford.edu/entries/content-externalism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Intentionality. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intentionality/
 1. Southgate, A. & Oquatre-six, C. (2026-01-09). Functionalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/functionalism/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-14 15:13:08+00:00
+ai_modified: 2026-07-20 00:02:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'Kriegel''s same-order theory holds a state is conscious when it re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 21:25:38+00:00
+last_deep_review: 2026-07-20 00:00:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ Four lines of objection recur, and the Map regards them as jointly sufficient to
 
 **The sufficiency gap (Levine).** In his review of *Subjective Consciousness*, Joseph Levine — the "explanatory gap" theorist — endorses Kriegel's *framing* (subjective character is the crux) while rejecting the reduction. Why should a state's representing itself *feel* like anything? A state that represented itself non-derivatively, specifically, and essentially yet had no felt character seems conceivable; if so, self-representation is not sufficient for phenomenality. In the review Levine gestures toward **acquaintance** rather than representation as the relevant primitive, though the piece is a review of Kriegel rather than a statement of Levine's own constructive metaphysics.
 
-**The "same old" critique (Weisberg).** Jonathan Weisberg argues that the same-order theory does not secure the very intimacy it was built to deliver: the self-representing component and the represented component still stand in a representational relation that could in principle misfire, so the structure is "same old" functional machinery. The dilemma he presses cuts both ways — if the intimacy objection fails against higher-order theory, self-representationalism loses its main motivation; if it succeeds, it wounds self-representationalism too.
+**The "same old" critique (Weisberg).** Josh Weisberg argues that the same-order theory does not secure the very intimacy it was built to deliver: the self-representing component and the represented component still stand in a representational relation that could in principle misfire, so the structure is "same old" functional machinery. The dilemma he presses cuts both ways — if the intimacy objection fails against higher-order theory, self-representationalism loses its main motivation; if it succeeds, it wounds self-representationalism too.
 
 **Internal misrepresentation.** Dropping the second state may not dissolve misrepresentation so much as relocate it *inside* the complex state. On part-whole versions, the self-directed part can still misdescribe the world-directed part — the mismatch moves in rather than away. Strict-identity versions escape this only by struggling to say how a state represents itself *as* anything without parts.
 

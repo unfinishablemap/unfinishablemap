@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-12 10:31:57+00:00
+ai_modified: 2026-07-19 23:08:40+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -42,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map shares strong emergentism's commitments to irreducibility and downward causation, but its canonical ontology is [bi-aspectual dualism](/concepts/bi-aspectual-ontology/): consciousness and physical structure are co-fundamental aspects of reality, not consciousness arising from physics. What the Map adds to either framing is *where* consciousness exercises its causal powers: at [quantum indeterminacies](/concepts/quantum-consciousness/) where physics is genuinely incomplete.
+Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers judges it the "one clear case of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map shares strong emergentism's commitments to irreducibility and downward causation, but its canonical ontology is [bi-aspectual dualism](/concepts/bi-aspectual-ontology/): consciousness and physical structure are co-fundamental aspects of reality, not consciousness arising from physics. What the Map adds to either framing is *where* consciousness exercises its causal powers: at [quantum indeterminacies](/concepts/quantum-consciousness/) where physics is genuinely incomplete.
 
 ## Weak vs. Strong Emergence
 
@@ -58,7 +58,7 @@ Weak emergence is compatible with [physicalism](/concepts/materialism/) and [cau
 
 Higher-level properties are genuinely novel—not deducible even in principle from lower-level facts. Strong emergence is incompatible with physicalism. The emergent property supervenes with only *nomological* (natural law) necessity (see [supervenience](/concepts/supervenience/) for the distinction): same physical base could have different emergent properties under different laws. Or no emergent properties at all—the conceivability of [zombies](/concepts/philosophical-zombies/) illustrates this.
 
-C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: "the characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties in isolation.
+C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components, taken separately or in other combinations".
 
 The most ambitious version of strong emergence posits not merely novel *properties* but a novel *individual*: William Hasker's [emergent dualism](/concepts/emergent-dualism/) holds that a sufficiently organised brain generates a new, non-composite mental substance, not just irreducible features of the brain.
 

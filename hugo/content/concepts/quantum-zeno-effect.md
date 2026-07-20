@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-07-14 17:11:46+00:00
+ai_modified: 2026-07-20 00:30:22+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: The quantum Zeno effect—frequent measurement freezing quantum evo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 13:39:00+00:00
+last_deep_review: 2026-07-20 00:30:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,9 +104,11 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 1. Itano, W.M., Heinzen, D.J., Bollinger, J.J., & Wineland, D.J. (1991). Reply to "Comment on 'Quantum Zeno effect'." *Physical Review A*, 43(9), 5168–5169. https://doi.org/10.1103/PhysRevA.43.5168
 1. Kaulakys, B., & Gontis, V. (1997). Quantum anti-Zeno effect. *Physical Review A*, 56(2), 1131–1137. https://doi.org/10.1103/PhysRevA.56.1131
 1. Fischer, M.C., Gutiérrez-Medina, B., & Raizen, M.G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87(4), 040402. https://doi.org/10.1103/PhysRevLett.87.040402
-1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*. arXiv:0806.0739.
+1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*, 80(5), 056115. https://doi.org/10.1103/PhysRevE.80.056115. arXiv:0806.0739.
 1. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D.R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206. https://doi.org/10.1103/PhysRevE.61.4194
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106(11), 4219–4224. https://doi.org/10.1073/pnas.0806273106
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Stapp's Quantum Mind Model. *The Unfinishable Map*. https://unfinishablemap.org/concepts/stapp-quantum-mind/
 1. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/

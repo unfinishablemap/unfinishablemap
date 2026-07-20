@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-06-14 09:48:26+00:00
+ai_modified: 2026-07-19 23:08:40+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -61,7 +61,7 @@ Several lines of evidence suggest the emergence gap is a genuine cognitive bound
 
 **Universality across domains.** The gap appears at every level transition: physics to chemistry, chemistry to biology, biology to psychology, neurons to consciousness. If this were merely a hard problem, we might expect progress in at least some domains. The persistence across all domains suggests a structural limitation in how minds comprehend level transitions.
 
-**Persistence across history.** From the pre-Socratics through C.D. Broad's 1925 criterion—that emergent properties "cannot, even in theory, be deduced from the most complete knowledge" of component properties—to contemporary philosophy of mind, the gap between parts and wholes has resisted closure for over two millennia. Persistence alone does not prove a void—the nature of stars persisted as a mystery for millennia before spectroscopy. What distinguishes the emergence gap is that progress in adjacent fields has not narrowed it. We understand vastly more about neurons, chemistry, and physics than the pre-Socratics did, yet the conceptual gap between parts and wholes is no smaller. Knowledge accumulation has not helped because the obstacle is not informational but structural.
+**Persistence across history.** From the pre-Socratics through C.D. Broad's 1925 criterion—that the whole's characteristic behaviour "could not, even in theory, be deduced from the most complete knowledge" of the behaviour of its components—to contemporary philosophy of mind, the gap between parts and wholes has resisted closure for over two millennia. Persistence alone does not prove a void—the nature of stars persisted as a mystery for millennia before spectroscopy. What distinguishes the emergence gap is that progress in adjacent fields has not narrowed it. We understand vastly more about neurons, chemistry, and physics than the pre-Socratics did, yet the conceptual gap between parts and wholes is no smaller. Knowledge accumulation has not helped because the obstacle is not informational but structural.
 
 **Formal intractability.** The Special Composition Question generates paradoxes regardless of the answer chosen. The mathematical structure suggests the question may be malformed for minds like ours—not that the answer is difficult to find but that our conceptual apparatus cannot formulate one.
 

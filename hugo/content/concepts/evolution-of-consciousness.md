@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-10 17:39:02+00:00
+ai_modified: 2026-07-19 23:08:40+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -116,9 +116,9 @@ This is precisely the hard problem restated in evolutionary terms. The Map's ans
 
 Materialist accounts of consciousness face a specific difficulty with evolution: they must explain how phenomenal experience emerges from physical processes that previously lacked it. This isn't just a gap in current knowledge—it may be a principled impossibility.
 
-The [strong emergence](/concepts/emergence/#strong-vs-weak-emergence) required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: "the characteristic properties of the whole cannot, even in theory, be deduced from the most complete knowledge" of components. If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
+The [strong emergence](/concepts/emergence/#strong-vs-weak-emergence) required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components". If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
 
-Chalmers: "I believe there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
+Chalmers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
 
 For materialists, this is a problem. Strong emergence looks like magic—new properties appearing without explanation from components that lack them. Either consciousness gradually emerges (but what are partial qualia?), or it suddenly appears at some threshold (but why that threshold?).
 
