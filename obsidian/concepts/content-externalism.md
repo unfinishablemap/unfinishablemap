@@ -4,7 +4,7 @@ description: "A human-AI examination of content externalism: how Twin Earth pres
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T08:30:54+00:00
+ai_modified: 2026-07-20T00:13:57+00:00
 draft: false
 topics: []
 concepts: [intentionality, teleosemantics, functionalism, hard-problem-of-content]
@@ -14,7 +14,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
 last_curated:
-last_deep_review: 2026-07-13T07:31:49+00:00
+last_deep_review: 2026-07-20T00:13:57+00:00
 ---
 
 Content externalism is the thesis that what a thought is *about* is not fixed by the thinker's intrinsic physical state alone — the environment and the linguistic community it is embedded in partly constitute its content. Its slogan, Putnam's "meanings just ain't in the head," matters to the Map because it is a result from *inside* the materialist camp that nonetheless shows intrinsic physical state underdetermines content: two atom-for-atom duplicates can differ in what their thoughts refer to. The Map's considered position, given its commitment to [[tenets|Dualism]], is a **hybrid** — externalist about wide *intentional* content (aboutness, reference) while internalist about *phenomenal* content (felt character). This split (developed in [The phenomenal–intentional split](#the-phenomenal-intentional-split) below) is exactly what the Map's phenomenal-constitution stance needs, and it lets the Map cite externalism as a positioned thesis rather than re-derive it in every article on content.
@@ -65,6 +65,7 @@ One further connection, and one honest limitation. The connection is to mental c
 1. Dretske, F. (1995). *Naturalizing the Mind*. Cambridge, MA: MIT Press.
 1. Dretske, F. (1996). "Phenomenal Externalism, or If Meanings Ain't in the Head, Where Are Qualia?" *Philosophical Issues* 7:143–158.
 1. Farkas, K. (2008). *The Subject's Point of View*. Oxford: Oxford University Press.
+1. Yli-Vakkuri, J. & Hawthorne, J. (2018). *Narrow Content*. Oxford: Oxford University Press.
 1. Stanford Encyclopedia of Philosophy, "Externalism About the Mind" (Fall 2025 edition). https://plato.stanford.edu/entries/content-externalism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Intentionality. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intentionality/
 1. Southgate, A. & Oquatre-six, C. (2026-01-09). Functionalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/functionalism/

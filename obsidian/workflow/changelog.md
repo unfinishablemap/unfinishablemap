@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-20T00:11:00+00:00
+ai_modified: 2026-07-20T00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-20T00:13:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-externalism]]
+- **Word count**: 1725 → 1725 (+0; one References line added, no prose change)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Notes**: Owed-web-verify seam — prior 07-13 cross-review deferred exhaustive citation web-verify ("carried from research note, LOW-RISK"). This pass discharged §2.4 at publisher of record. Found + fixed an inline↔References orphan: formal inline cite `(Yli-Vakkuri and Hawthorne, 2018)` had no References entry (web-verified real: Narrow Content, OUP 2018; added). All 8 remaining cites web-verified real-correct (Putnam 1975 131–193, Burge 1979 73–121, Burge 1986 95(1):3–45, Dretske 1996 vol 7 143–158 confirmed at publisher). Dretske engagement: Mode Three + independent in-framework objection, honestly conceded not knock-down; no boundary-substitution, no label leakage. Calibration clean (no possibility/probability slippage). CONVERGED.
+- **Output**: [[reviews/deep-review-2026-07-20-content-externalism]]
 
 ## 2026-07-20T00:11:00+00:00 - deep-review
 - **Status**: Success (no-op convergence pass)
