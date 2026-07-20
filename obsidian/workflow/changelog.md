@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T01:32:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/teleosemantics]]
+- **Word count**: ~2469 → ~2469 (0; 99% of 2500 concepts soft target, status ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op)
+- **Notes**: 2nd pass. Only delta since thorough 2026-07-12 review = two Further Reading cross-links added by sibling expand-topic forks (conceptual-role-semantics, content-externalism) + ai_modified bump — the "changed-since-review = cosmetic wikilink" pattern. Body/argument/References unchanged, so §2.4 web-verify legitimately skipped (prior full per-cite ledger stands, all real-correct). All 9 Further Reading links resolve incl. the two new ones; label-leak grep clean; superlative scan empty; dissent still calibrated Mode-Three boundary marking. No content edit. last_deep_review advanced; ai_modified HELD at 2026-07-13 (no-op) to avoid false re-qualification.
+- **Output**: [[reviews/deep-review-2026-07-20-teleosemantics]]
+
 ## 2026-07-20T01:22:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/what-consciousness-tells-us-about-physics]]

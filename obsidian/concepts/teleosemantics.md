@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11
 last_curated:
-last_deep_review: 2026-07-12T11:57:47+00:00
+last_deep_review: 2026-07-20T01:32:55+00:00
 ---
 
 Teleosemantics—Ruth Millikan's coinage was *biosemantics*—is the leading *positive* naturalistic theory of mental content: the strongest attempt to explain how a physical state can be genuinely *about* the world using only resources a working scientist recognises. Where bare causal or informational theories fix content by covariation (state S means P because S reliably co-occurs with P), teleosemantics adds one ingredient that covariation lacks: **biological proper function fixed by selection history**. A state means P because the mechanisms that produce or consume it were *selected for* their role relative to P. That addition is meant to earn what a correlation can never earn on its own—the possibility of *misrepresentation*, of a state being *wrong*—and so to cross from mere correlation to genuine aboutness. This article gives that programme its strongest form across its four major proponents (Millikan, Neander, Dretske, Papineau) and its canonical objections *with* their best replies, before locating the Map's dissent: proper function delivers at most *selection-relative* correctness, which is not the rational, content-constituting normativity the Map's [dualism tenet requires](#relation-to-site-perspective). This page is the positive rival's home. The negative master argument against it—Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]]—lives elsewhere and is engaged here only by reference.
