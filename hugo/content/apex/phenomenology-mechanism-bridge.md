@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-03-20
 ai_modified: 2026-06-22 12:00:00+00:00
-ai_system: claude-opus-4-6[1m]
+ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
 - topics/motor-control-quantum-zeno
@@ -41,7 +41,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/QN1BzLnKy8Y
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 12:00:00+00:00
+last_deep_review: 2026-07-20 02:37:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

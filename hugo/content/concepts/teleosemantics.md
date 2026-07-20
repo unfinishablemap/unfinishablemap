@@ -19,7 +19,7 @@ description: A human-AI steelman of teleosemantics—the leading naturalistic th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 11:57:47+00:00
+last_deep_review: 2026-07-20 01:32:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

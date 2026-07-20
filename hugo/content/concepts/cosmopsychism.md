@@ -16,7 +16,7 @@ description: 'Cosmopsychism is priority-monist panpsychism: the cosmos as the on
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 07:49:25+00:00
+last_deep_review: 2026-07-20 02:23:32+00:00
 modified: *id001
 related_articles:
 - open-individualism-and-the-de-combination-problem

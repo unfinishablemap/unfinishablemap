@@ -18,7 +18,7 @@ description: Occasionalism makes God the sole true cause, dissolving mind-body i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 01:09:36+00:00
+last_deep_review: 2026-07-20 01:11:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

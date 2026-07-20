@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-07-19 16:53:56+00:00
+ai_modified: 2026-07-20 01:22:52+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-07-19 16:53:56+00:00
 apex_sources:
@@ -48,7 +48,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/rwOc9oy8OEk
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 17:18:00+00:00
+last_deep_review: 2026-07-20 01:22:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ Taking the Map's five tenets as constraints, we can derive what physics *must* l
 
 From [No Many Worlds](/tenets/#no-many-worlds) and [Bidirectional Interaction](/tenets/#bidirectional-interaction): the wavefunction does not merely appear to collapse—it actually does, and one outcome is genuinely selected from among possibilities. All-branches-real interpretations are excluded because they eliminate the selection that makes consciousness causally relevant.
 
-This rules out Many-Worlds, decoherence-only accounts, and any interpretation where collapse is merely apparent or perspectival—including the [consistent-histories](/concepts/consistent-histories-interpretation/) programme, which assigns a single history stochastically with no collapse and no selector, denying any fact about *which* history becomes actual. That denial is exactly the selection the reverse inference requires, so the disagreement is a framework boundary, not a test the interpretation fails.
+This rules out Many-Worlds, decoherence-only accounts, and any interpretation where collapse is merely apparent or perspectival—including the [consistent-histories](/concepts/consistent-histories-interpretation/) programme, which realises a single history by Born-rule chance with no collapse and no selector for *which* one, holding that no selector is needed. That absent selection is exactly what the reverse inference requires, so the disagreement is a framework boundary, not a test the interpretation fails.
 
 ### 2. Physics Must Be Genuinely Open at Measurement
 

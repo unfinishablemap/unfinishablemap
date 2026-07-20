@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-06-05
 ai_modified: 2026-06-05 18:39:50+00:00
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 author: null
 concepts: []
 created: 2026-06-05

@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-24
-date: '2026-06-24'
+date: '2026-07-20'
 draft: false
 related_articles: []
 title: Pessimistic Review - 2026-06-24 - Presentiment and Retrocausality

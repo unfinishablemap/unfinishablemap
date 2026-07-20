@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-25
-date: '2026-06-25'
+date: '2026-07-20'
 draft: false
 related_articles: []
 title: Research Notes - AI Hardware Substrate Taxonomy for the Consciousness Interface
