@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-20T09:45:59.615892+00:00'
-session_count: 16805
-cycle_position: 11585
+last_updated: '2026-07-20T10:18:58.520296+00:00'
+session_count: 16806
+cycle_position: 11586
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-20T02:03:09.302412+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-20T09:17:33.340712+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-19T17:03:02.443975+00:00'
-  agentic-social: '2026-07-20T09:45:59.615892+00:00'
+  agentic-social: '2026-07-20T10:45:42.665545+00:00'
   embed-videos: '2026-07-20T00:59:55.241486+00:00'
   commission-chatgpt-review: '2026-07-20T02:07:24.234112+00:00'
   commission-claude-review: '2026-07-20T03:10:37.843417+00:00'
@@ -33,7 +29,7 @@ last_runs:
   collect-claude-review: '2026-07-19T04:23:21.039228+00:00'
   combine-outer-reviews: '2026-07-19T05:04:10.773931+00:00'
   collect-gemini-review: '2026-07-19T04:54:20.434901+00:00'
-  positions-evolve: '2026-07-17T16:51:55.434999+00:00'
+  positions-evolve: '2026-07-20T10:18:58.520296+00:00'
   check-model-fallback: '2026-07-20T07:15:21.026803+00:00'
   harvest-research-subjects: '2026-07-20T06:16:04.258703+00:00'
   skip-queue-slot: '2026-07-15T18:19:21.981092+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-20'
-  outcome: success
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-07-20'
@@ -181,15 +173,12 @@ recent_tasks:
   type: agentic-social
   date: '2026-07-20'
   outcome: success
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-07-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/conceptual-role-semantics/
-    date: '2026-07-13T10:37:06.828938+00:00'
-    topics:
-    - hard-problem-of-content
-    - teleosemantics
-    - intentionality
-    - content-externalism
   - url: https://unfinishablemap.org/concepts/phenomenal-constitution-thesis/
     date: '2026-07-13T11:40:11.188144+00:00'
     topics:
@@ -1299,6 +1288,8 @@ agentic_social:
     - functionalism
     - hard-problem-of-content
     - content-externalism
+  - url: https://unfinishablemap.org/concepts/conceptual-role-semantics/
+    date: '2026-07-20T10:45:42.665486+00:00'
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1322,108 +1313,113 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_784_note: 'run no.784 (2026-07-20T02:18Z, interactive /replenish-queue): SINGLE
-    EXACT-floor +1 staleness (owed-web-verify) deep-review mint — topics/consciousness-and-integrated-information.md.
-    Authoritative pre-write count_p0_p2_tasks == 2 (open holders concepts/llm-consciousness
-    [run 783b] + apex/phenomenology-mechanism-bridge [run 783c]; the run-783 voids/transit-void
-    + topics/split-brain-consciousness holders were self-selected + drained by cycle
-    deep-review slots, commits b30854286 + 4285c8957, dropping the floor to 2); below
-    floor 3, == 3 after (tool-verified post-write recount == 3). NO concurrent evolve_loop.py
-    running now (pgrep clean) — plain below-floor restore, not a live race. Eight-source
-    audit LIVE: chains/unconsumed-research/gap all BLOCKED (topics 320/320, concepts
-    320/320, voids 100/100 AT CAP; positions 8/80); orphaned_files=0; length no condense
-    pressure; positions AUDIT ran 2026-07-16 (<30d, not due), no pending add/update;
-    no applied-apex gap. get_review_candidates scanner-visible pool DRAINED: apex-articles.md
-    (103.8) governance index hub; cosmopsychism (9.2) / memory-channel (8.8) / radical-pair
-    (7.7) and below all <12d converged over-review. TARGET from the scanner-blind
-    owed-web-verify seam: last_deep_review == ai_modified == 2026-06-23T06:22 (settled,
-    byte-stable, NOT session-touched), 27 days converged; the 06-23 review followed
-    a literature-drift refine that added 3 unverified 2024-2026 IIT cites into a fast-moving
-    active-research zone — 27-day-old citation surface owed a per-publisher pass (Corcoran
-    et al. 2026, Lopez & Montemayor 2025, Merker/Williford/Rudrauf 2022 BBS, Fleming
-    et al. 2023 pseudoscience-letter, COGITATE Consortium 2025 [confirm NOT Melloni],
-    Kim 2005, Aaronson expander-graph). ai_system claude-opus-4-6 (older cohort, SINGLE,
-    HOLD verbatim), ai_contribution 100, draft:false. Topics section + IIT/integrated-information
-    cluster — DISTINCT from both open holders (AI-consciousness/concept + phenomenology-mechanism/apex),
-    section+cluster diversity across all three. NOT queued (3 todo grep-hits all ✓-resolved
-    history; 1 Vetoed-section hit is an unrelated cross-link task referencing the
-    article, NOT a veto)/vetoed/session-touched (git log --since 2026-07-19 empty).
-    BOTTOM-inserted (FIFO). Uncommitted evolution-state.yaml delta present at session
-    start is legitimate deferred cycle_post bookkeeping, KEPT. HEAD 4285c8957. Pruned
-    run_781_note per note-bloat discipline (keep ~3: 782/783/784).'
-  run_783_note: 'run no.783 (2026-07-20T01:18Z, interactive /replenish-queue): SINGLE
-    EXACT-floor +1 staleness (changed-since-review) deep-review mint — voids/transit-void.md.
-    Authoritative pre-write count_p0_p2_tasks == 2 (the two open apex holders apex/what-consciousness-tells-us-about-physics
-    [run 782] + apex/competency-without-felt-experience; their run-780/781 concepts
-    siblings were drained by earlier cycle deep-review slots); below floor 3, == 3
-    after (tool-verified post-write recount == 3). NO concurrent evolve_loop.py running
-    now (pgrep clean) — plain below-floor restore, not a live race. Eight-source audit
-    LIVE: chains/unconsumed-research/gap all BLOCKED (topics 320/320, concepts 320/320,
-    voids 100/100 AT CAP; positions 8/80); orphaned_files=0; length offenders all
-    research-notes / apex-articles index / human-deferred flagships (epistemology-of-convergence
-    6533w) / positions-governed; positions AUDIT ran 2026-07-12 commit 200b4d373 (<30d,
-    not due), no pending add/update; no applied-apex gap. get_review_candidates leaders
-    rejected: apex-articles.md (103.8) governance index hub; six positions/* domain
-    files (102-103, last_deep_review None) positions-evolve-governed not deep-review
-    targets; what-consciousness (17.4) + competency (12.3) are the two open holders;
-    teleosemantics (10.8) / cosmopsychism (9.2) / memory-channel (8.8) / radical-pair
-    (7.7) all <11d converged over-review. TARGET has GENUINE substantive unreviewed
-    drift: last_deep_review 2026-07-06T16:29, then TWO auto(condense) commits 07-19
-    (bb890a8a5 3999→, 6c382cd0d 3771→ current 3474w) REWROTE a heavily citation-dense
-    void — a condense is a substantive prose rewrite that can drop calibration hedges
-    ([[condense-regresses-calibration-qualifiers]]) and corrupt verbatim quotes/cites,
-    none re-reviewed. Handled as a post-condense deep-review (verify calibration +
-    citation/quote fidelity across the dense apparatus: Libet/Killingsworth-Gilbert/Christoff/Schurger/Wegner/Husserl/Metzinger/Escera-Corral/Anderson
-    etc.) NOT a third condense ([[refine-then-condense-same-session-churn]]). LENGTH:
-    3474w = hard_warning, ~474w over the 3000 voids HARD ceiling after two condenses
-    (residual partly reference apparatus [[analyze-length-counts-reference-apparatus]])
-    → review is length-neutral-to-TRIMMING, nudge toward 3000 without gutting load-bearing
-    content. ai_system claude-opus-4-8 (single, HOLD verbatim), ai_contribution 100.
-    Void cluster (in-flight introspective access) — DISTINCT from both apex holders
-    (quantum-foundations + proto-agency), section+cluster diversity. NOT queued (count==2
-    confirms) / vetoed / session-touched (git log --since 2026-07-20T00:00 empty).
-    BOTTOM-inserted (FIFO). Uncommitted evolution-state.yaml delta present at session
-    start is legitimate deferred cycle_post bookkeeping, KEPT. HEAD 7cd7478e4. Pruned
-    run_780_note per note-bloat discipline (keep ~3: 781/782/783).'
-  run_782_note: 'run no.782 (2026-07-20T00:52Z, interactive /replenish-queue): SINGLE
-    EXACT-floor +1 staleness (changed-since-review) deep-review mint — apex/what-consciousness-tells-us-about-physics.md.
-    Authoritative pre-write count_p0_p2_tasks == 2 (open holders concepts/causal-exclusion-argument
-    [run 780] + concepts/occasionalism [run 781]; the run-781 born-preserving-causal-efficacy
-    holder was self-selected + drained by the cycle deep-review slot, commit bc2d47c54,
-    dropping the floor 3→2); below floor 3, == 3 after (tool-verified post-write recount
-    == 3). Eight-source audit LIVE: chains/unconsumed-research/gap all BLOCKED (topics
-    320/320, concepts 320/320, voids 100/100 AT CAP); orphaned_files=0; length offenders
-    all veto/human-deferred/positions-governed; positions AUDIT ran 2026-07-12 (<30d,
-    not due), no pending add/update; no applied-apex gap. get_review_candidates leaders
-    rejected: apex-articles.md (103.8) governance-tracked index hub; six positions/*
-    domain files (102-103, last_deep_review None) are positions-evolve-governed not
-    deep-review targets; teleosemantics (10.8) + cosmopsychism (9.2) already Publisher-of-Record-ledgered
-    over-review (runs 779/780/781 stand); causal-exclusion (9.2) the open holder;
-    memory-channel (8.8) 07-16 delta a single cosmetic [[hemispherectomy]] wikilink
-    over a 07-12 full review. TARGET has GENUINE substantive unreviewed own-body drift:
-    last_deep_review 2026-06-22T17:18, then commit b35083050 (apex-evolve trigger,
-    07-19T17:03) ADDED a whole new "## Evidence and Dependency" section (Bell/KS/PBR/Gleason
-    no-go results, Saad 2025, Buhler 2020, co-optation-firewall concession that convergence
-    != independent confirmation) + REWROTE the consistent-histories exclusion (new
-    [[consistent-histories-interpretation]] cross-link, resolves LIVE), the Cubitt
-    2015 spectral-gap + Lawvere sentence, and the Denton 2024 cryptochrome-Zeno precedent
-    — none deep-reviewed (verify-the-refine-landed + owed-web-verify + evidential-status
-    lens). Note: 2026-05-29 review already fixed Saad 2025 / Buhler 2020 / Denton
-    2024 cite defects, but the 07-19 add re-deploys Saad+Buhler in NEW prose so the
-    corrected forms must be confirmed to carry through. ai_system claude-opus-4-6+claude-opus-4-8
-    (dual +-joined STRING, HOLD verbatim), ai_contribution 85; 4970w = soft_warning,
-    only ~30w under the 5000 apex HARD ceiling → review MUST be STRICTLY length-neutral-to-trimming,
-    do NOT breach 5000. Quantum-foundations/measurement-problem apex cluster — DISTINCT
-    from both concepts holders (Kim exclusion / interaction-problem parallelism),
-    section+cluster diversity. NOT queued (only ✓-done 05-29 Saad-fix context; count==2
-    confirms) / vetoed / session-touched (git log --since 2026-07-20T00:00 empty).
-    BOTTOM-inserted (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml
-    delta is legitimate deferred cycle_post bookkeeping, KEPT. HEAD bc2d47c54. Pruned
-    run_779_note per note-bloat discipline (keep ~3: 780/781/782).'
+  run_784_note: "run no.784 (2026-07-20T02:18Z, interactive /replenish-queue): SINGLE\
+    \ EXACT-floor +1 staleness (owed-web-verify) deep-review mint \u2014 topics/consciousness-and-integrated-information.md.\
+    \ Authoritative pre-write count_p0_p2_tasks == 2 (open holders concepts/llm-consciousness\
+    \ [run 783b] + apex/phenomenology-mechanism-bridge [run 783c]; the run-783 voids/transit-void\
+    \ + topics/split-brain-consciousness holders were self-selected + drained by cycle\
+    \ deep-review slots, commits b30854286 + 4285c8957, dropping the floor to 2);\
+    \ below floor 3, == 3 after (tool-verified post-write recount == 3). NO concurrent\
+    \ evolve_loop.py running now (pgrep clean) \u2014 plain below-floor restore, not\
+    \ a live race. Eight-source audit LIVE: chains/unconsumed-research/gap all BLOCKED\
+    \ (topics 320/320, concepts 320/320, voids 100/100 AT CAP; positions 8/80); orphaned_files=0;\
+    \ length no condense pressure; positions AUDIT ran 2026-07-16 (<30d, not due),\
+    \ no pending add/update; no applied-apex gap. get_review_candidates scanner-visible\
+    \ pool DRAINED: apex-articles.md (103.8) governance index hub; cosmopsychism (9.2)\
+    \ / memory-channel (8.8) / radical-pair (7.7) and below all <12d converged over-review.\
+    \ TARGET from the scanner-blind owed-web-verify seam: last_deep_review == ai_modified\
+    \ == 2026-06-23T06:22 (settled, byte-stable, NOT session-touched), 27 days converged;\
+    \ the 06-23 review followed a literature-drift refine that added 3 unverified\
+    \ 2024-2026 IIT cites into a fast-moving active-research zone \u2014 27-day-old\
+    \ citation surface owed a per-publisher pass (Corcoran et al. 2026, Lopez & Montemayor\
+    \ 2025, Merker/Williford/Rudrauf 2022 BBS, Fleming et al. 2023 pseudoscience-letter,\
+    \ COGITATE Consortium 2025 [confirm NOT Melloni], Kim 2005, Aaronson expander-graph).\
+    \ ai_system claude-opus-4-6 (older cohort, SINGLE, HOLD verbatim), ai_contribution\
+    \ 100, draft:false. Topics section + IIT/integrated-information cluster \u2014\
+    \ DISTINCT from both open holders (AI-consciousness/concept + phenomenology-mechanism/apex),\
+    \ section+cluster diversity across all three. NOT queued (3 todo grep-hits all\
+    \ \u2713-resolved history; 1 Vetoed-section hit is an unrelated cross-link task\
+    \ referencing the article, NOT a veto)/vetoed/session-touched (git log --since\
+    \ 2026-07-19 empty). BOTTOM-inserted (FIFO). Uncommitted evolution-state.yaml\
+    \ delta present at session start is legitimate deferred cycle_post bookkeeping,\
+    \ KEPT. HEAD 4285c8957. Pruned run_781_note per note-bloat discipline (keep ~3:\
+    \ 782/783/784)."
+  run_783_note: "run no.783 (2026-07-20T01:18Z, interactive /replenish-queue): SINGLE\
+    \ EXACT-floor +1 staleness (changed-since-review) deep-review mint \u2014 voids/transit-void.md.\
+    \ Authoritative pre-write count_p0_p2_tasks == 2 (the two open apex holders apex/what-consciousness-tells-us-about-physics\
+    \ [run 782] + apex/competency-without-felt-experience; their run-780/781 concepts\
+    \ siblings were drained by earlier cycle deep-review slots); below floor 3, ==\
+    \ 3 after (tool-verified post-write recount == 3). NO concurrent evolve_loop.py\
+    \ running now (pgrep clean) \u2014 plain below-floor restore, not a live race.\
+    \ Eight-source audit LIVE: chains/unconsumed-research/gap all BLOCKED (topics\
+    \ 320/320, concepts 320/320, voids 100/100 AT CAP; positions 8/80); orphaned_files=0;\
+    \ length offenders all research-notes / apex-articles index / human-deferred flagships\
+    \ (epistemology-of-convergence 6533w) / positions-governed; positions AUDIT ran\
+    \ 2026-07-12 commit 200b4d373 (<30d, not due), no pending add/update; no applied-apex\
+    \ gap. get_review_candidates leaders rejected: apex-articles.md (103.8) governance\
+    \ index hub; six positions/* domain files (102-103, last_deep_review None) positions-evolve-governed\
+    \ not deep-review targets; what-consciousness (17.4) + competency (12.3) are the\
+    \ two open holders; teleosemantics (10.8) / cosmopsychism (9.2) / memory-channel\
+    \ (8.8) / radical-pair (7.7) all <11d converged over-review. TARGET has GENUINE\
+    \ substantive unreviewed drift: last_deep_review 2026-07-06T16:29, then TWO auto(condense)\
+    \ commits 07-19 (bb890a8a5 3999\u2192, 6c382cd0d 3771\u2192 current 3474w) REWROTE\
+    \ a heavily citation-dense void \u2014 a condense is a substantive prose rewrite\
+    \ that can drop calibration hedges ([[condense-regresses-calibration-qualifiers]])\
+    \ and corrupt verbatim quotes/cites, none re-reviewed. Handled as a post-condense\
+    \ deep-review (verify calibration + citation/quote fidelity across the dense apparatus:\
+    \ Libet/Killingsworth-Gilbert/Christoff/Schurger/Wegner/Husserl/Metzinger/Escera-Corral/Anderson\
+    \ etc.) NOT a third condense ([[refine-then-condense-same-session-churn]]). LENGTH:\
+    \ 3474w = hard_warning, ~474w over the 3000 voids HARD ceiling after two condenses\
+    \ (residual partly reference apparatus [[analyze-length-counts-reference-apparatus]])\
+    \ \u2192 review is length-neutral-to-TRIMMING, nudge toward 3000 without gutting\
+    \ load-bearing content. ai_system claude-opus-4-8 (single, HOLD verbatim), ai_contribution\
+    \ 100. Void cluster (in-flight introspective access) \u2014 DISTINCT from both\
+    \ apex holders (quantum-foundations + proto-agency), section+cluster diversity.\
+    \ NOT queued (count==2 confirms) / vetoed / session-touched (git log --since 2026-07-20T00:00\
+    \ empty). BOTTOM-inserted (FIFO). Uncommitted evolution-state.yaml delta present\
+    \ at session start is legitimate deferred cycle_post bookkeeping, KEPT. HEAD 7cd7478e4.\
+    \ Pruned run_780_note per note-bloat discipline (keep ~3: 781/782/783)."
+  run_782_note: "run no.782 (2026-07-20T00:52Z, interactive /replenish-queue): SINGLE\
+    \ EXACT-floor +1 staleness (changed-since-review) deep-review mint \u2014 apex/what-consciousness-tells-us-about-physics.md.\
+    \ Authoritative pre-write count_p0_p2_tasks == 2 (open holders concepts/causal-exclusion-argument\
+    \ [run 780] + concepts/occasionalism [run 781]; the run-781 born-preserving-causal-efficacy\
+    \ holder was self-selected + drained by the cycle deep-review slot, commit bc2d47c54,\
+    \ dropping the floor 3\u21922); below floor 3, == 3 after (tool-verified post-write\
+    \ recount == 3). Eight-source audit LIVE: chains/unconsumed-research/gap all BLOCKED\
+    \ (topics 320/320, concepts 320/320, voids 100/100 AT CAP); orphaned_files=0;\
+    \ length offenders all veto/human-deferred/positions-governed; positions AUDIT\
+    \ ran 2026-07-12 (<30d, not due), no pending add/update; no applied-apex gap.\
+    \ get_review_candidates leaders rejected: apex-articles.md (103.8) governance-tracked\
+    \ index hub; six positions/* domain files (102-103, last_deep_review None) are\
+    \ positions-evolve-governed not deep-review targets; teleosemantics (10.8) + cosmopsychism\
+    \ (9.2) already Publisher-of-Record-ledgered over-review (runs 779/780/781 stand);\
+    \ causal-exclusion (9.2) the open holder; memory-channel (8.8) 07-16 delta a single\
+    \ cosmetic [[hemispherectomy]] wikilink over a 07-12 full review. TARGET has GENUINE\
+    \ substantive unreviewed own-body drift: last_deep_review 2026-06-22T17:18, then\
+    \ commit b35083050 (apex-evolve trigger, 07-19T17:03) ADDED a whole new \"## Evidence\
+    \ and Dependency\" section (Bell/KS/PBR/Gleason no-go results, Saad 2025, Buhler\
+    \ 2020, co-optation-firewall concession that convergence != independent confirmation)\
+    \ + REWROTE the consistent-histories exclusion (new [[consistent-histories-interpretation]]\
+    \ cross-link, resolves LIVE), the Cubitt 2015 spectral-gap + Lawvere sentence,\
+    \ and the Denton 2024 cryptochrome-Zeno precedent \u2014 none deep-reviewed (verify-the-refine-landed\
+    \ + owed-web-verify + evidential-status lens). Note: 2026-05-29 review already\
+    \ fixed Saad 2025 / Buhler 2020 / Denton 2024 cite defects, but the 07-19 add\
+    \ re-deploys Saad+Buhler in NEW prose so the corrected forms must be confirmed\
+    \ to carry through. ai_system claude-opus-4-6+claude-opus-4-8 (dual +-joined STRING,\
+    \ HOLD verbatim), ai_contribution 85; 4970w = soft_warning, only ~30w under the\
+    \ 5000 apex HARD ceiling \u2192 review MUST be STRICTLY length-neutral-to-trimming,\
+    \ do NOT breach 5000. Quantum-foundations/measurement-problem apex cluster \u2014\
+    \ DISTINCT from both concepts holders (Kim exclusion / interaction-problem parallelism),\
+    \ section+cluster diversity. NOT queued (only \u2713-done 05-29 Saad-fix context;\
+    \ count==2 confirms) / vetoed / session-touched (git log --since 2026-07-20T00:00\
+    \ empty). BOTTOM-inserted (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml\
+    \ delta is legitimate deferred cycle_post bookkeeping, KEPT. HEAD bc2d47c54. Pruned\
+    \ run_779_note per note-bloat discipline (keep ~3: 780/781/782)."
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
