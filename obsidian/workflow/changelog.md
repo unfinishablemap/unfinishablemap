@@ -5,6 +5,18 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T10:17:31+00:00 - positions-evolve
+- **Status**: Success (verification + date refresh)
+- **Mode**: update
+- **File**: [[positions/voids-as-evidence]] (P-V1, P-V2, P-V3)
+- **Trigger**: verify the 2026-07-16 multi-axis calibration migration (commit 4a5863952) — P-V1 external-evidence grade B, P-V3 grade C, both never-reviewed since assignment
+- **Web-verify**: Reichenbach–Salmon–Sober common-cause principle attribution confirmed at primary/reference literature (Reichenbach *The Direction of Time* 1956 screening-off formulation; Salmon 1984 elaboration; Sober engagement incl. Venetian-sea-levels counterexample; SEP physics-Rpcc). Correctly stated and correctly applied — the Map uses it in the conservative *discounting* direction (common-cause null), which is robust to the fact that PCC's universal validity is contested. Not over-read.
+- **Calibration check**: grade B (P-V1) / grade C (P-V3) NOT inflated — low-to-moderate banding and common-cause-null discount framing preserved intact.
+- **Migration-integrity check**: "Substantive claims, statuses, dependencies unchanged" HOLDS — diff of P-V1/P-V2/P-V3 Asserts/Depends/Argued-in vs pre-migration shows only Confidence→Calibration line replacement plus the new schema paragraph.
+- **Edit applied**: refreshed stale per-position "Last reviewed" 2026-06-08 → 2026-07-20 on P-V1/P-V2/P-V3; bumped ai_modified. Held ai_system (actual value **claude-opus-4-8**; the mint note's "claude-opus-4-6" premise was false — git history shows opus-4-8 since creation 2026-06-08).
+- **Cross-links**: `^calibration-schema` anchor in [[positions/methodology-and-calibration]] confirmed present; deep-links resolve.
+- **Cascade**: none — no confidence-band shift; downstream P-V2/P-V3 depend on P-V1 but P-V1's substance is unchanged.
+
 ## 2026-07-20T05:29:40+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (commissioned as GPT-5.5 Pro; claude.ai served gpt-5-6-pro)

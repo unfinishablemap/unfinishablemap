@@ -4,7 +4,7 @@ description: "The Map's positions on what the cognitive-void catalogue evidentia
 created: 2026-06-08
 modified: 2026-06-08
 human_modified: 2026-06-08
-ai_modified: 2026-07-16T07:48:00+00:00
+ai_modified: 2026-07-20T10:17:31+00:00
 last_deep_review: 2026-06-16T06:36:00+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ These positions cover what the Map currently holds about the *evidential* status
 - **Depends on**: Tenet 5; the [[project/common-cause-null|common-cause null]]; Countermeasure 15 in [[project/coherence-inflation-countermeasures]]; the selection-effect worry
 - **Argued in**: [[apex/taxonomy-of-voids]], [[voids/what-voids-reveal]], [[project/common-cause-null]]
 - **Would shift if**: a distinguishing test (cross-species, cross-cultural, or patient-population) showed the void pattern discriminates the Map from rivals rather than merely being compatible with it — which would *upgrade* this toward independent support; or the structured-clustering signal were shown to be a pure artefact of curation, which would downgrade it further.
-- **Last reviewed**: 2026-06-08
+- **Last reviewed**: 2026-07-20
 
 ## P-V2: A tenet that removes a defeater does not thereby upgrade void evidence
 
@@ -52,7 +52,7 @@ These positions cover what the Map currently holds about the *evidential* status
 - **Depends on**: P-V1; [[project/evidential-status-discipline]]; the four-origin-class void audit in [[apex/taxonomy-of-voids]]
 - **Argued in**: [[apex/taxonomy-of-voids]], [[voids/what-voids-reveal]], [[project/coherence-inflation-countermeasures]]
 - **Would shift if**: a principled account showed that defeater-removal can, under specified conditions, legitimately raise an independence score; or the origin-class partition (framework-independent / dualism-specific / tenet-generated / method-generated) were shown to be unprincipled.
-- **Last reviewed**: 2026-06-08
+- **Last reviewed**: 2026-07-20
 
 ## P-V3: Framework-independent voids carry cumulative weight that the rest of the catalogue does not
 
@@ -62,4 +62,4 @@ These positions cover what the Map currently holds about the *evidential* status
 - **Depends on**: P-V1; P-V2; the framework-independent void list in [[voids/voids]] (≈15 voids); the as-yet-unmet independent-grading condition
 - **Argued in**: [[apex/taxonomy-of-voids]], [[voids/what-voids-reveal]]
 - **Would shift if**: independent grading of the cluster's independence scores confirmed (or disconfirmed) the despite-commitments reading; or a distinguishing empirical test moved the framework-independent subset from "cumulative within architecture" to "discriminating between frameworks."
-- **Last reviewed**: 2026-06-08
+- **Last reviewed**: 2026-07-20
