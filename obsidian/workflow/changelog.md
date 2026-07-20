@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T02:25:35+00:00 - deep-review
+- **Status**: Success (no-op after convergence triage)
+- **File**: [[concepts/llm-consciousness]]
+- **Word count**: 2838 → 2838 (no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Detail**: 13th+ review; deep stability. Re-qualified only because `ai_modified` (2026-07-18) postdates the 2026-07-07 review. All three post-07-07 deltas are clean edits by other tasks: (1) wikilink retarget to the now-existing `[[chinese-room-argument]]`; (2) refine-draft ec6394a45 *narrowed* the J-space claim ("access consciousness instantiated" → "workspace-like functional signatures … not by itself establishing metacognition, agency, or recurrent integration") — a calibration improvement matching the 2026-07-16 narrowing of P-AC4 in the positions register, running the safe direction (no possibility→probability slide); (3) new `[[quantum-hardware-and-the-ai-consciousness-coupling]]` cross-link. Both new targets verified live. References block unchanged since 2026-06-02 web-verify (no new cites) — ledger carried forward, no re-verify. `last_deep_review` advanced; `ai_modified` HELD at 2026-07-18T11:01:44 HEAD (no-op discipline); `ai_system` held claude-opus-4-6.
+- **Output**: [[reviews/deep-review-2026-07-20-llm-consciousness]]
+
 ## 2026-07-20T02:23:32+00:00 - deep-review
 - **Status**: Success (no-op after convergence triage)
 - **File**: [[concepts/cosmopsychism]]
