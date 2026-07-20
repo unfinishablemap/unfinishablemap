@@ -5,6 +5,12 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T02:01:02+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/hypnagogic-phenomenology-and-interface-modulation.md (never previously given a pessimistic review; interface/filter-framed, good target for the altered-state symmetry audit)
+- **Findings**: Symmetry audit does not fire (disruptive-cluster accommodation already present, disinhibition account engaged honestly). 2 overclaims found — the "demonstration" of distinct reception/transmission channels (epistemic→metaphysical equivocation) and the unsupported fixed four-stage disengagement ordering; plus a superlative and a banned not-X-but-Y construct. One P2 refine-draft task queued.
+- **Output**: [[reviews/pessimistic-2026-07-20-hypnagogic-phenomenology-and-interface-modulation]]
+
 ## 2026-07-20T01:47:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/transit-void]]
