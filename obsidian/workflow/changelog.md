@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T02:56:44+00:00 - deep-review
+- **Status**: Success (convergence-confirmation no-op)
+- **File**: [[topics/consciousness-and-integrated-information]]
+- **Word count**: 3998 → 3998 (+0)
+- **Critical issues addressed**: 0 (sixth consecutive no-critical-issue review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Article unchanged since 2026-06-23 review. Spent the pass on the deferred work: first rigorous publisher-of-record web-verification of the 14 pre-existing citations (prior reviews verified only the three 2024-2026 additions). Directly verified Coslett & Saffran 1991 (*Brain* 114(4):1523-1545), Tegmark 2000 (*Phys Rev E* 61(4):4194-4206), Fisher 2015 (*Ann Phys* 362:593-602), and the Aaronson "unboundedly more conscious than humans" quote (faithful verbatim substring) — all real-correct. COGITATE 2025 correctly attributed to the Consortium, not Melloni et al. Length-neutral (2w under hard ceiling); `ai_modified` NOT bumped (no content change), only `last_deep_review` stamped.
+- **Output**: [[reviews/deep-review-2026-07-20-consciousness-and-integrated-information]]
+
 ## 2026-07-20T02:52:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Substrate / machine-consciousness cluster — concepts/ai-hardware-substrate-taxonomy, concepts/llm-consciousness, apex/competency-without-felt-experience, concepts/cosmopsychism (all freshly deep-reviewed 07-20, not covered by the five 07-19 optimistic clusters). Process-Philosopher and Hardline-Empiricist personas CONVERGE on the competency apex (tenet-coherent, not evidence-elevating; no calibration flag). Verified reciprocal cross-link gap (competency apex <-> substrate taxonomy, both cite Kagan 2022, 0 links each way). Queued 1 refine-draft + 1 positions-evolve P3 (both actionable under section caps).

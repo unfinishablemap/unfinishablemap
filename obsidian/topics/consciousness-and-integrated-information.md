@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-06-23T06:22:55+00:00
+last_deep_review: 2026-07-20T02:56:44+00:00
 coalesced_from:
   - "/topics/integrated-information-theory-critique/"
   - "/topics/consciousness-and-information-integration-beyond-iit/"
