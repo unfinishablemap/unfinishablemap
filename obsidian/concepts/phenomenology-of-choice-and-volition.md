@@ -48,7 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-22
 last_curated:
-last_deep_review: 2026-07-06T12:30:55+00:00
+last_deep_review: 2026-07-20T13:46:42+00:00
 coalesced_from:
   - "/concepts/phenomenology-of-choice/"
   - "/concepts/phenomenology-of-volition/"

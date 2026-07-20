@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T13:46:42+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Word count**: 2498 → 2498 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 7th-pass converged article; re-qualified only because a 2026-07-16 cosmetic wikilink conversion (anarchic-hand → wikilink) bumped `ai_modified`. Body/references unchanged since the 2026-06-01 full publisher audit. No-op discipline: advanced only `last_deep_review`; held `ai_modified` (2026-07-16) and `ai_system` (claude-opus-4-6). Ran a targeted empirical-claim-fidelity spot-check (highest-yield lens): Desmurget et al. 2009 dissociation and Brass & Haggard 2007/2008 dFMC "whether"/veto claim both live-verified real-correct at publisher of record. Engagement with Wegner/illusionism: Mode One (defective on its own terms), no label leakage. Recommend deferring next deep-review unless body substantively changes.
+- **Output**: [[reviews/deep-review-2026-07-20-phenomenology-of-choice-and-volition]]
+
 ## 2026-07-20T11:18:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/infant-consciousness]]
