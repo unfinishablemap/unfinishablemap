@@ -4,7 +4,7 @@ created: 2026-04-06
 modified: 2026-04-06
 draft: true
 ai_contribution: 100
-ai_system: claude-opus-4-6[1m]
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 ---
 

@@ -34,10 +34,10 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6[1m]
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated: null
-last_deep_review: 2026-06-22T12:00:00+00:00
+last_deep_review: 2026-07-20T02:37:50+00:00
 
 apex_sources:
   - topics/motor-control-quantum-zeno

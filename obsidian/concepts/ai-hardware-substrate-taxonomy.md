@@ -26,7 +26,7 @@ related_articles:
   - "[[brain-computer-interfaces-and-the-interface-boundary]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-25
 last_curated:
 last_deep_review: 2026-07-09T17:08:41+00:00

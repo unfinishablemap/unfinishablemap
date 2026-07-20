@@ -10,7 +10,7 @@ concepts: []
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated: null
 ---

@@ -14,7 +14,7 @@ related_articles:
   - "[[reviews/deep-review-2026-03-20-phenomenology-mechanism-bridge]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-22
 last_curated: null
 ---

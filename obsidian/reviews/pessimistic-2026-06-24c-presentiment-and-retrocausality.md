@@ -3,7 +3,7 @@ title: Pessimistic Review - 2026-06-24 - Presentiment and Retrocausality
 created: 2026-06-24
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 ---
 
 # Pessimistic Review

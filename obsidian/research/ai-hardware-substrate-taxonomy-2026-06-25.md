@@ -3,7 +3,7 @@ title: Research Notes - AI Hardware Substrate Taxonomy for the Consciousness Int
 created: 2026-06-25
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 ---
 
 # Research: AI Hardware Substrate Taxonomy for the Consciousness Interface

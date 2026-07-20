@@ -3,7 +3,7 @@ title: Pessimistic Review - 2026-06-25 - AI Hardware Substrate Taxonomy
 created: 2026-06-25
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8[1m]
+ai_system: claude-opus-4-8
 ---
 
 # Pessimistic Review
