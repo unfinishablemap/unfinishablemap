@@ -4,7 +4,7 @@ description: "The quantum Zeno effect—frequent measurement freezing quantum ev
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-07-14T17:11:46+00:00
+ai_modified: 2026-07-20T00:30:22+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-14
 last_curated:
-last_deep_review: 2026-07-14T13:39:00+00:00
+last_deep_review: 2026-07-20T00:30:22+00:00
 ---
 
 The quantum Zeno effect is the suppression of a quantum system's evolution by frequent measurement: in the limit of continuous observation, an unstable system is "frozen" in its initial state and cannot evolve away from it. Named after Zeno's arrow paradox—the arrow that, observed at every instant, never appears to move—the effect was proved as a theorem by Misra and Sudarshan (1977) and first demonstrated experimentally in trapped ions by Itano and colleagues (1990). It is real physics, not a formal curiosity. The Unfinishable Map's interest in the effect is specific and separable from that physics: Henry Stapp's quantum-mind program proposes that consciousness holds neural states stable by rapid "observation," a candidate channel for the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. This page is the canonical account of the mechanism itself. Its application to motor selection lives in [[motor-control-quantum-zeno]]; its status as a mind-brain proposal (explained below under [The Neural Proposal](#the-neural-proposal)) remains undemonstrated.
@@ -102,9 +102,11 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 1. Itano, W.M., Heinzen, D.J., Bollinger, J.J., & Wineland, D.J. (1991). Reply to "Comment on 'Quantum Zeno effect'." *Physical Review A*, 43(9), 5168–5169. https://doi.org/10.1103/PhysRevA.43.5168
 1. Kaulakys, B., & Gontis, V. (1997). Quantum anti-Zeno effect. *Physical Review A*, 56(2), 1131–1137. https://doi.org/10.1103/PhysRevA.56.1131
 1. Fischer, M.C., Gutiérrez-Medina, B., & Raizen, M.G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87(4), 040402. https://doi.org/10.1103/PhysRevLett.87.040402
-1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*. arXiv:0806.0739.
+1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*, 80(5), 056115. https://doi.org/10.1103/PhysRevE.80.056115. arXiv:0806.0739.
 1. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D.R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206. https://doi.org/10.1103/PhysRevE.61.4194
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106(11), 4219–4224. https://doi.org/10.1073/pnas.0806273106
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Stapp's Quantum Mind Model. *The Unfinishable Map*. https://unfinishablemap.org/concepts/stapp-quantum-mind/
 1. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
