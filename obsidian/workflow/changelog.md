@@ -5,6 +5,16 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-20T01:35:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/competency-without-felt-experience]]
+- **Word count**: 3264 → 3264 (0; 82% of 4000 apex soft target, status ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op)
+- **Notes**: 3rd pass. Only delta since thorough 2026-07-11 deep review = one cross-link clause added 2026-07-16 by the single-cell-proto-agency cross-review — the "changed-since-review = cosmetic wikilink" pattern. Verified the one new clause: wikilink resolves; paraphrase faithful to companion thesis (companion L60/L62 "not empirically tractable" + "no residual behaviour for proto-choice"); no attribution drift / no possibility-probability slippage. References block byte-identical since 07-11 (all 8 cites publisher-verified then), so §2.4 web-verify legitimately skipped. Calibration guards (framework-generated-convergence discount, consistent-with-vs-points-toward) intact. Converged — corroborated by 2026-07-19 optimistic cluster review. last_deep_review advanced; ai_modified HELD at 2026-07-16 (no-op) to avoid false re-qualification.
+- **Output**: [[reviews/deep-review-2026-07-20-competency-without-felt-experience]]
+
 ## 2026-07-20T01:32:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/teleosemantics]]
