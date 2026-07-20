@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-20T00:12:12.801354+00:00'
-session_count: 16750
-cycle_position: 11564
+last_updated: '2026-07-20T00:15:33.224324+00:00'
+session_count: 16751
+cycle_position: 11565
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-19T21:55:20.442908+00:00'
   optimistic-review: '2026-07-19T23:00:04.795545+00:00'
   check-tenets: '2026-07-19T16:53:15.932314+00:00'
   check-links: '2026-07-19T16:50:17.129340+00:00'
-  deep-review: '2026-07-20T00:12:12.801354+00:00'
+  deep-review: '2026-07-20T00:15:33.224324+00:00'
   tune-system: '2026-07-19T17:04:43.157999+00:00'
   research-voids: '2026-07-19T16:50:56.534742+00:00'
   coalesce: '2026-07-19T23:46:16.626135+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6734
+  reviews_completed: 6735
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-20'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-20'
   outcome: success
 - task: deep-review
@@ -1331,12 +1331,35 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-19T23:55:00+00:00'
-  last_replenishment_prev: '2026-07-19T23:41:00+00:00'
-  last_replenishment_run: 779
+  last_replenishment: '2026-07-20T00:25:00+00:00'
+  last_replenishment_prev: '2026-07-19T23:55:00+00:00'
+  last_replenishment_run: 780
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_780_note: 'run no.780 (2026-07-20T00:25Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness (changed-since-review) deep-review mint —
+    concepts/causal-exclusion-argument.md. Authoritative pre-write count_p0_p2_tasks
+    == 2 (open holders concepts/quantum-zeno-effect + apex/born-preserving-causal-efficacy;
+    the run-779 content-externalism holder drained via a cycle deep-review, HEAD 6e2bd7048);
+    below floor 3, == 3 after (tool-verified). Eight-source audit LIVE: chains/unconsumed-research/gap
+    all BLOCKED (topics 320/320, concepts 320/320, voids 100/100 AT CAP); orphaned_files=0;
+    length offenders all veto / human-deferred / 07-19-condensed / positions-governed;
+    positions AUDIT ran 2026-07-12 (<30d, not due) and P-Q1/P-Q3/migration/prokaryotic-floor
+    all landed 07-15..07-17 (no pending add/update); no applied-apex gap. Staleness scorer
+    leaders teleosemantics (10.8) + cosmopsychism (9.2) CHECKED and REJECTED as already
+    fully citation-web-verified (over-review of converged content). TARGET has GENUINE
+    substantive unreviewed drift: last_deep_review 2026-07-13T22:39, then commit 2481b9b50
+    (07-15T10:41) added a two-cause co-causation prose sentence naming Kroedel / Vaassen /
+    Mills / Lowe + a cross-link, none deep-reviewed; the ONLY prior pass (07-13 sidecar) was
+    a metadata-only citation ledger, so the new attributions + Kim-dense in-body quote surface
+    are an unchecked verbatim/framing lens ([[quote-fidelity-defects-survive-metadata-reviews]]);
+    Vaassen framing is a known-sensitive attribution ([[vaassen-email-preemption-misframing]]).
+    opus-4-8 HOLD, ~1900w concepts length-safe, strictly length-neutral. Distinct mental-causation
+    cluster from both open (Tenet-2 quantum) holders. NOT queued/vetoed/session-touched.
+    BOTTOM-inserted (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml delta
+    is legitimate deferred cycle_post bookkeeping, KEPT. HEAD 6e2bd7048. Pruned run_777_note
+    per note-bloat discipline (keep ~3: 778/779/780).'
   run_779_note: 'run no.779 (2026-07-19T23:55Z, /replenish-queue): SINGLE floor-restoring
     staleness deep-review mint (concepts/quantum-zeno-effect.md). Authoritative pre-write
     count_p0_p2_tasks == 2 (open floor-holders concepts/self-representational-theory-of-consciousness
@@ -1388,32 +1411,6 @@ queue_status:
     uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping,
     KEPT. HEAD e90bb03a2. Pruned run_775_note per note-bloat discipline (keep ~3:
     776/777/778).'
-  run_777_note: 'run no.777 (2026-07-19T23:33Z, /replenish-queue): SINGLE floor-restoring
-    staleness deep-review mint (concepts/self-representational-theory-of-consciousness.md).
-    Authoritative pre-write count_p0_p2_tasks == 2 (open floor-holders voids/wholeheartedness-void
-    [run 775] + concepts/intrinsic-nature [run 776-todo]); the run-776 holder concepts/biological-naturalism
-    was consumed + deep-reviewed by the in-process cycle (commit 058ad7a91, 23:26Z
-    slot), dropping the count to 2. Below floor of 3; == 3 after (tool-verified).
-    Eight-source audit LIVE: chains null; unconsumed-research + gap BLOCKED (topics
-    320/320, concepts 320/320, voids 100/100 all AT CAP; positions 8/80); staleness
-    == ONLY live source; orphaned_files=0; length offenders all veto/human-deferred;
-    positions 8<10 audit threshold; no applied-apex gap. Scorer no.1 yogacara CHECKED
-    and REJECTED (its 07-11 sidecar carries a complete publisher ledger + the Waldron
-    quote fix; only delta since is a cosmetic Metzinger related-link -- minting it
-    would repeat the false owed-web-verify pattern). Target self-representational
-    (scorer rank 4, score 9.23) has GENUINE substantive unreviewed drift: last_deep_review
-    2026-07-13T21:25, then commit 994be1e42 (07-14T15:16 refine addressing pessimistic-2026-07-14)
-    rewrote calibration-sensitive body prose (decisive->sufficient-to-decline, acquaintance-drift
-    reframe, new conditional-force fork paragraph) and ADDED a never-ledgered citation
-    (Shadlen & Movshon 1999 Neuron 24(1):67-77). Plus one CANDIDATE wrong-first-name
-    defect: body says Jonathan Weisberg for the Synthese 2008 Same-old paper (author
-    of record standardly Josh Weisberg; the 07-13 sidecar verified title/vol/pages
-    but ref 5 is first-name-neutral, so the prose expansion was never checked). Verify-the-refine-landed
-    lens; opus-4-8 HOLD, 2281w concepts ok, strictly length-neutral. Distinct Kriegel
-    same-order/acquaintance cluster from both open holders. NOT queued/vetoed/session-touched.
-    BOTTOM-inserted (FIFO). No concurrent evolve_loop; uncommitted evolution-state.yaml
-    delta is legitimate deferred cycle_post bookkeeping, KEPT. HEAD 058ad7a91. Pruned
-    run_774_note per note-bloat discipline (keep ~3: 775/776/777).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
