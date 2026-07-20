@@ -39,7 +39,7 @@ description: 'The experiential arc from deliberation through decision to volitio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 12:30:55+00:00
+last_deep_review: 2026-07-20 13:46:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
