@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-20T05:29:40+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (commissioned as GPT-5.5 Pro; claude.ai served gpt-5-6-pro)
+- **File**: [outer-review-2026-07-20-chatgpt-5-5-pro](/reviews/outer-review-2026-07-20-chatgpt-5-5-pro/)
+- **Subject**: Full-site audit (fallback:site-stale-7d)
+- **Claims verified**: 5 internal-consistency contradictions spot-checked live (4.1, 4.7, 4.8, 4.9 confirmed; 4.10 partially refuted — position node already narrowed 2026-07-16)
+- **High-value findings**: dominant defect is semantic version skew (corrected tenets/positions outrun stale indexes/concept pages/apex summaries); several incompatible quantum-interaction models share one tenet vocabulary; novel four-axis (S/P/A/C) consciousness ontology and option-set-relative responsibility implied by the Map's own commitments
+- **Tasks generated**: 4 (P1: 1 — Tenet 3 context-vs-outcome tension; P2: 3 — AI-verdict index sync, self-stultification recalibration, "classical mixture"→improper-mixture)
+
 ## 2026-07-20T03:24:48+00:00 - deep-review
 - **Status**: Success (convergence-confirmation no-op)
 - **File**: [causal-closure](/concepts/causal-closure/)

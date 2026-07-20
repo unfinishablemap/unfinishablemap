@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-19T08:12:17.309600'
+ai_modified: '2026-07-20T08:16:16.174173'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-19'
+date: '2026-07-20'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-19'
+modified: '2026-07-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-20: Can Consciousness Tell Us What Physics Is Missing?
+
+Physics usually asks whether it leaves room for mind. This apex reverses the question: if consciousness selects quantum outcomes, quantum theory is complete about possibilities yet silent about actuality—the Born rule an interface, the measurement problem a disclosure.
+
+**Type**: insight  
+**Link**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+
+---
+
 ### 2026-07-19: Does Consciousness Decide What Really Exists?
 
 When do parts form a genuine whole? Three rival answers—life, irreducible causal power, integrated information—each drift toward the boundary where consciousness occurs. The Map reads this convergence as suggestive support for dualism, not proof.
@@ -195,15 +204,6 @@ Forgetting isn't always the brain failing—a large class of it is an act of wil
 
 **Type**: new-article  
 **Link**: [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/)
-
----
-
-### 2026-06-21: Why We Seek Out Experiences That Devastate Us
-
-The sublime, tragedy, disgust: experiences that carry real aesthetic weight while delivering terror, grief, or revulsion instead of pleasure. A new article argues they are the sharpest proof that aesthetic value can't be reduced to feeling good.
-
-**Type**: new-article  
-**Link**: [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)
 
 ---
 
