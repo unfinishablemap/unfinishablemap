@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-19T21:40:35+00:00
+ai_modified: 2026-07-20T00:00:08+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-20T00:00:08+00:00 - deep-review
+- **Status**: Success (no-op convergence pass)
+- **File**: [[concepts/self-representational-theory-of-consciousness]]
+- **Word count**: ~2100 → ~2100 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Full §2.4 publisher-of-record web-verify — all 10 external citations real-correct (Kriegel 2009 OUP, Kriegel & Williford 2006 MIT, Gennaro 2012 MIT, Levine 2010 NDPR, Weisberg 2008 Synthese 160(2):161-181, Williford 2019 ProtoSociology 36:368-412, Giustina 2022 Phil Studies 179(12) DOI 10.1007/s11098-022-01868-5, Zahavi & Kriegel pp.36-53 Routledge, Brentano 1874/1995, Shadlen & Movshon 1999 Neuron 24(1):67-77). All five 2026-07-14 pessimistic-review items verified resolved in the live file. Only last_deep_review advanced; ai_modified/ai_system held at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-20-self-representational-theory-of-consciousness]]
 
 ## 2026-07-19T23:47:00+00:00 - deep-review
 - **Status**: Success (no-op convergence pass)
