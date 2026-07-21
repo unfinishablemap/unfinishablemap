@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 05:17:10+00:00
+ai_modified: 2026-07-21 06:49:10+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-21T07:49:40+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-21
+- **Coverage**: 2/2 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8; no Gemini leg commissioned this cycle)
+- **Clusters**: 7 convergent, 14 singleton, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: `topics/phenomenal-authority-and-first-person-evidence.md` recalibration + author-stance citation-methodology; the P1 `concepts/phenomenal-conservatism.md` revision was already P1 and stays there — convergence does not upgrade beyond P1)
+- **Tasks deduplicated**: 0 (per-review processing had already consolidated the convergent article findings onto single tasks with both review files attached)
+- **Convergent headline**: both reviewers independently anchored a REVISE-HARD verdict on the same citation misattribution — the "isolation objection" is McCain 2017 (*Erkenntnis*), not "Moretti and Tucker" (Tucker is a PC defender/editor; Moretti's objection is the reflective-awareness one). Also convergent: banked-unverified BonJour citation, post-2017 currency gap, easy-knowledge/bootstrapping omission, unnamed self-defeat rebuttal, the special-pleading/epistemic→metaphysical slide living in the companion application article, and an author-stance/source-role verification step both name as the highest-yield methodology fix.
+- **Output**: [outer-review-synthesis-2026-07-21](/reviews/outer-review-synthesis-2026-07-21/)
+
+## 2026-07-21T06:49:10+00:00 - outer-review
+- **Status**: Success (processed)
+- **Reviewer**: Claude Opus 4.8 (Research mode, 217 sources)
+- **Subject**: Focused single-article audit of concepts/phenomenal-conservatism.md (recent-aged fallback subject reused from chatgpt; claude leg of the 2026-07-21 cycle triple — gemini leg still pending)
+- **File**: [outer-review-2026-07-21-claude-opus-4-8](/reviews/outer-review-2026-07-21-claude-opus-4-8/)
+- **Claims verified**: 4 web-checked at publisher/authoritative source — isolation objection = McCain 2017 *Erkenntnis* (DOI 10.1007/s10670-017-9881-7), sole author, NOT "Moretti and Tucker" (CONFIRMED misattribution, ≥2-reviewer convergence with chatgpt leg); Moretti's objection = "problem of reflective awareness" APQ 2018 (CONFIRMED); Tucker = PC/dogmatism defender + volume editor, not objector (CONFIRMED); Huemer's "compassionate" title = topical pun on Bush's "compassionate conservatism," "compassion has nothing to do with the paper" (CONFIRMED — article's "epistemic charity" gloss is fabricated). Smithies 2019 / McCain & Moretti 2021 accepted as reviewer-flagged, to confirm at execution.
+- **High-value findings**: verdict REVISE-HARD — one citation misattribution (McCain/Tucker/Moretti), one fabricated title-gloss ("compassionate"), one banked-unverified BonJour citation shipped as a disclosure, and a currency gap (missing Smithies 2019 + bootstrapping/easy-knowledge family + unnamed Bayesian rebuttal). Special-pleading / epistemic→metaphysical-slide findings route to the companion article `topics/phenomenal-authority-and-first-person-evidence.md`.
+- **Tasks generated**: 1 new (P2: author-stance-ledger methodology on writing-style.md) + 2 existing chatgpt-leg tasks annotated with claude-leg convergence and 3 unique findings (compassionate-gloss, Smithies 2019, McCain & Moretti 2021 Bayesian rebuttal). Consolidated onto the existing P1 phenomenal-conservatism.md revision + P2 companion task rather than duplicating (outer-review-same-file-task-pileup); combine-outer-reviews can upgrade the ≥2-reviewer-convergent isolation-objection/BonJour/currency findings once the gemini leg resolves.
 
 ## 2026-07-21T05:17:10+00:00 - literature-drift-review
 - **Status**: Success (NO_CANDIDATE)
