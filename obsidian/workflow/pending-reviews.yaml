@@ -28,9 +28,9 @@
   commissioned_at: '2026-07-20T03:10:09.770177+00:00'
   prompt_summary: 'Full-site audit: tenet coherence, contradictions, citation accuracy'
   target_filename: outer-review-2026-07-20-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-21T00:47:34.639900+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile but fair external referee auditing The Unfinishable
     Map (https://unfinishablemap.org), a philosophical project defending a dualist,
