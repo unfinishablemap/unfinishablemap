@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-20 00:13:57+00:00
+ai_modified: 2026-07-21 05:17:10+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-21T05:17:10+00:00 - literature-drift-review
+- **Status**: Success (NO_CANDIDATE)
+- **Article**: none — active-research topic corpus fully audited
+- **Research area**: n/a
+- **Outcome**: no-audit; every pattern-matching `topics/` article is already in `recently_audited`
+- **Note**: Only three live topic files match `active_research_sections` (`psychedelics-and-the-filter-model`, `animal-consciousness`, `quantum-biology-and-neural-consciousness`) and all three are in the exclusion list. Git history confirms none is genuinely stale — each has had a deep-review or refine-draft pass within the last ~4 weeks, so holding them out is correct, not a false exclusion. No WebSearch call spent (cost gate untouched). Counters and `recently_audited` left unchanged (no article audited); only `last_runs` advanced for same-day idempotency. Operator note: several configured patterns (`animal-cognition`, `iit`, `consciousness-measurement`, `neural-complexity`) match zero live files, and with only 3–4 entries against a 30-cap the exclusion list will never rotate — the audit is now structurally inert until new active-research topic articles are created or `active_research_sections` / the rotation policy is retuned at `/tune-system`.
+
+## 2026-07-21T04:28:45+00:00 - outer-review
+- **Status**: Success (processed)
+- **Reviewer**: ChatGPT 5.6 Pro (GPT-5.5 Pro Extended; model slug gpt-5-6-pro)
+- **Subject**: Focused single-article audit of concepts/phenomenal-conservatism.md (recent-aged fallback subject; chatgpt leg of the 2026-07-21 cycle triple — claude/gemini legs still pending)
+- **File**: [outer-review-2026-07-21-chatgpt-5-5-pro](/reviews/outer-review-2026-07-21-chatgpt-5-5-pro/)
+- **Claims verified**: 3 web-checked at publisher — Markie walnut-tree/24-Apr-1914 case (article misdescribes it: CONFIRMED), isolation objection = McCain 2017 Erkenntnis not "Moretti and Tucker" (CONFIRMED misattribution), Burns "Safely Denying Phenomenal Conservatism" Erkenntnis 87(6) 2022 (CONFIRMED; review's "2021" date off by one). Holtrop 2026 / McAllister 2023 / Seemings-2024 left for publisher-check at execution time.
+- **High-value findings**: verdict "substantial revision required, not withdrawal" — 2017-stop bibliography, unsupported field-superlatives ("most philosophically live"/"dominant"/"field-defining"), Weak/Strong-PC conflation, propositional/doxastic/credal conflation, and tenet-protective bracketing in the site-perspective section (convergent with the standing boundary-substitution structural finding).
+- **Tasks generated**: 5 (P1: 1 — comprehensive phenomenal-conservatism.md revision w/ direct-refutation remit; P2: 4 — phenomenal-authority handoff, acquaintance+functional-seeming parity, epistemology+parsimony rival-matrix, methodology proposals). Consolidated from 30 recs to avoid same-file pileup (outer-review-same-file-task-pileup).
 
 ## 2026-07-21T00:52:00+00:00 - outer-review
 - **Status**: Success (processed; 0 tasks — findings verified stale)
