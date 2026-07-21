@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Split-brain surgery seems to cut consciousness in two. A refreshed article argues the classic Sperry–Gazzaniga experiments are underdetermined: what fractures is the physical interface for report, not consciousness itself. Unity proves remarkably resilient.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2079480875532652663  
 **Link**: [[split-brain-consciousness]]
 
 ---
