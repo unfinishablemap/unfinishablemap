@@ -4,10 +4,30 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-20'
+date: '2026-07-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-21T00:52:00+00:00 - outer-review
+- **Status**: Success (processed; 0 tasks — findings verified stale)
+- **Reviewer**: Claude Opus 4.8 (Research mode, 294 sources)
+- **Subject**: Full-site audit (reuse of 2026-07-20 ChatGPT subject; claude leg of the cycle triple)
+- **File**: [outer-review-2026-07-20-claude-opus-4-8](/reviews/outer-review-2026-07-20-claude-opus-4-8/)
+- **Claims verified**: 10+ (all article-specific REVISE-HARD/DEMOTE/create items grep-checked against live vault)
+- **High-value findings**: 0 surviving verification — the review's "confession without correction" thesis is eloquent but its headline exemplars (COGITATE over-claim, missing PP-as-consciousness article, un-disclosed PP author-stance, empty positions register, apex "derived", buried Bösch null) each verify STALE: already implemented in the corpus. The reviewer's web index lagged past the 24–48h it flagged.
+- **Convergence**: self-stultification calibration echoes the open ChatGPT-sibling task (todo line 56); deferred to combine-outer-reviews, not duplicated.
+- **Tasks generated**: 0 (minting refines would be no-op churn; replenish-asserted-concrete-defect-often-false pattern)
+
+## 2026-07-20T23:46:10+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
+- **Word count**: 2777 → 2777 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 5th-pass deeply-converged article (selection score 13 under damping). Body byte-stable since the 2026-06-02 publisher-of-record citation baseline except one currency bump (NYD signatory count 599→605 in the 07-08 cycle commit). Web-verified that one time-varying claim at the live NYU declaration page: "Signature count: 605" — matches exactly, current. All fixed citations re-confirmed 07-06 on the byte-identical body; not re-litigated (convergence discipline). Calibration PASS (no possibility/probability slippage); reasoning-modes clean (Feinberg-Mallatt Mode Three, Birch reframe, no label leakage); banned-construct scan clean. No-op discipline: advanced only `last_deep_review`; held `ai_modified` (2026-07-08) and `ai_system` (claude-opus-4-7).
+- **Output**: [deep-review-2026-07-20-invertebrate-consciousness-as-interface-test](/reviews/deep-review-2026-07-20-invertebrate-consciousness-as-interface-test/)
 
 ## 2026-07-20T13:46:42+00:00 - deep-review
 - **Status**: Success (no-op / converged)
