@@ -5,6 +5,19 @@ ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T16:45:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-steelman-for-process-monism]]
+- **Trigger**: pessimistic-2026-07-21-the-steelman-for-process-monism.md, Issues 1–3. Length-neutral recalibration; citations verified clean by the review and left untouched.
+- **Changes**:
+  - Issue 1 (Medium; High for cross-corpus consistency): scoped the underdetermination claim from unrestricted ("no further datum would settle the matter"; "evidence both sides share") to the level it actually holds — the hard-problem gap / founding axioms. Added the interface caveat in §Where the disagreement actually sits: the [[tenets#^minimal-quantum-interaction|quantum-opening]] interface and [[direction-dependent-discriminating-test-design|discriminating-test designs]] separate dualism from *physicalism* but not from a process monism that can re-describe any interface datum in process terms. Removes the collision with Tenets 2–3 and the empirical programme without weakening the framework-boundary honesty. Second occurrence in §Irreducibility scoped in parallel.
+  - Issue 2 (Low–Medium): aligned "suggests it tracks something" → "suggests it is not a parochial artifact of one school's idiosyncrasy" (the non-idiosyncrasy reading used in cross-traditional-convergence-on-consciousness-irreducibility.md), removing the latent double standard about what convergence buys.
+  - Issue 3 (Low–Medium): added one sentence in the Buddhist boundary-marking giving the Map's reason for retaining a persisting subject against *anattā* — Tenet 4 treats indexical identity as a datum given in the having of experience, endorsed on independent grounds ([[agent-causation]]) while conceding per Tenet 5 that its meaningfulness is a posited claim, not a neutral datum. Boundary now marked *with* the Map's stake shown.
+- **Engagement classification (editor-internal)**: Buddhist/anattā wing — Mode Three (framework-boundary marking); the added sentence shows the Map's stake without claiming in-framework refutation, preserving the honest boundary-marking the review credited.
+- **Frontmatter**: bumped ai_modified only (2026-06-18 → 2026-07-21); held ai_system (claude-opus-4-8) and last_deep_review per task.
+- **Original score**: not re-scored (targeted review-driven fixes)
+- **Published**: yes
+
 ## 2026-07-21T14:16:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/writing-style]]
