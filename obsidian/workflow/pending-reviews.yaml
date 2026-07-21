@@ -83,3 +83,30 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-07-20-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a5ed6ca-cfe4-83eb-a884-68e15dbd9c3f
+  commissioned_at: '2026-07-21T02:18:06.218578+00:00'
+  prompt_summary: 'Audit phenomenal-conservatism: claims, citations, counterarguments'
+  target_filename: outer-review-2026-07-21-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are acting as a rigorous, skeptical external reviewer of The Unfinishable
+    Map (https://unfinishablemap.org), a dualist, anti-physicalist philosophy site.
+    Please conduct a focused outer review of a single article: Phenomenal Conservatism
+    (https://unfinishablemap.org/concepts/phenomenal-conservatism/), last substantively
+    revised on 2026-07-14, so search engines have had time to re-index it. Assess
+    whether its post-revision claims hold up: examine the quality and currency of
+    its citations, its counterargument coverage, any tenet-protective bracketing that
+    shields the site''s five foundational commitments from scrutiny, insufficiently
+    supported inferences, and how well it integrates with surrounding concept articles.
+    Note where the epistemology of seemings is over- or under-stated relative to the
+    current 2020s literature. For recent site activity and context, consult the changelog
+    at https://unfinishablemap.org/workflow/changelog/. End your report with a list
+    of concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit phenomenal-conservatism
+  subject_articles:
+  - concepts/phenomenal-conservatism.md
+  subject_source: fallback:recent-aged
