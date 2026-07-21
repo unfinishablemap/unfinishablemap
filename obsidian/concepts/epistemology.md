@@ -4,7 +4,7 @@ description: "How we know what we know about consciousness—and why the standar
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-07-13T23:37:00+00:00
+ai_modified: 2026-07-21T20:17:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ The Map argues that epistemological assumptions do more to determine conclusions
 
 ## Epistemology and the Consciousness Debate
 
-Standard epistemology distinguishes three broad questions: What can we know? How do we justify our beliefs? What are the limits of human understanding? In most domains of inquiry, these questions operate in the background. Physics does not need to pause and ask whether observation is a valid method before measuring particle masses. But consciousness is different. The object of study — subjective experience — is accessible only from the first person, yet the dominant epistemological framework in analytic philosophy privileges third-person evidence. This creates a structural tension that runs through every major debate in philosophy of mind.
+Standard epistemology distinguishes three broad questions: What can we know? How do we justify our beliefs? What are the limits of human understanding? In most domains of inquiry, these questions operate in the background. Physics does not need to pause and ask whether observation is a valid method before measuring particle masses. But consciousness is different. The object of study — subjective experience — is accessible only from the first person, yet a methodological preference for third-person evidence has shaped much of analytic philosophy of mind. This creates a structural tension that runs through every major debate in philosophy of mind.
 
 The [[explanatory-gap]] is fundamentally an epistemological observation: physical descriptions, however complete, do not entail phenomenal descriptions. Whether this gap reflects a genuine ontological divide (as [[dualism]] holds) or merely a limitation in our current concepts (as Type-B physicalists — those who accept the explanatory gap but deny it signals an ontological divide — argue) depends on prior epistemological commitments about what counts as adequate explanation. The [[knowledge-argument]] makes the point vivid: Mary knows all physical facts about colour vision yet learns something genuinely new upon seeing red. If physical knowledge is not exhaustive knowledge, then the epistemological assumptions of physicalism are too narrow.
 
@@ -64,11 +64,13 @@ The [[phenomenal-authority-and-first-person-evidence|epistemology of first-perso
 
 Several epistemological commitments function as hidden premises in the consciousness debate, shaping conclusions more than the evidence does:
 
-**The parsimony assumption.** The most common argument against dualism is that physicalism is simpler. [[Parsimony-epistemology]] argues that this argument fails: parsimony lacks epistemic warrant in metaphysical domains, "simplicity" fragments into contradictory dimensions, and the preconditions for parsimony's reliable application all fail simultaneously in the consciousness domain. The assumption that simpler ontologies are more likely true is an epistemological commitment, not a finding — and one that has repeatedly failed in the history of science.
+**The parsimony assumption.** A standard argument against dualism is that physicalism is simpler. [[Parsimony-epistemology]] argues that this argument fails: parsimony lacks epistemic warrant in metaphysical domains, "simplicity" fragments into contradictory dimensions, and the preconditions for parsimony's reliable application all fail simultaneously in the consciousness domain. The assumption that simpler ontologies are more likely true is an epistemological commitment, not a finding — and one that has repeatedly failed in the history of science.
 
 **The causal closure assumption.** The premise that every physical event has a sufficient physical cause is treated as an empirical discovery but functions as a methodological stipulation. It determines in advance that non-physical causation is impossible, ruling out [[interactionist-dualism]] before evidence is examined. Whether causal closure holds at quantum indeterminacies — where physics does not determine outcomes — is precisely the point at issue.
 
 **The publicity assumption.** The insistence that legitimate evidence must be publicly accessible privileges third-person methods and marginalises first-person data. This assumption is defensible in domains where the objects of study are publicly observable. It is question-begging when applied to consciousness, whose defining feature is private accessibility. As the [[knowledge-argument]] shows, restricting evidence to publicly available physical facts may exclude genuine knowledge.
+
+These assumptions are not held uniformly across the physicalist field, and the differences matter for calibrating the disagreement. Eliminativism and illusionism deny there is first-person phenomenal data of the relevant kind, so for them the publicity and parsimony assumptions do genuine work. The stronger physicalist positions — reductive phenomenal realism, phenomenal-concept strategies, representationalism, and nonreductive physicalism — accept the first-person data as genuine and contest instead the Map's specification of its content and its metaphysical implications. Against these opponents the disagreement is not about whether first-person evidence counts but about what it establishes; framing physicalism as uniformly discounting the data mistakes the weaker opponent for the whole field.
 
 ## Epistemology Under Dualism
 

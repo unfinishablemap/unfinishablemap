@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-06-21T14:40:13+00:00
+ai_modified: 2026-07-21T20:17:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ coalesced_from:
   - "/topics/limits-of-parsimony-in-consciousness-science/"
 ---
 
-Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. As a branch of [[epistemology]], it asks what justifies preferring simpler explanations. The Unfinishable Map treats this as a foundational concept because the most common objection to [[dualism]] — that [[concepts/materialism|physicalism]] is simpler — depends entirely on parsimony having epistemic warrant in the consciousness domain. Multiple independent analyses converge on the conclusion that it has no such warrant there: all three preconditions for its application fail simultaneously, and parsimony's own defenders have acknowledged its limitations. For the full case, see [[epistemological-limits-of-occams-razor]]; for the cognitive dimension, see [[epistemological-limits-occams-razor|The Parsimony Void]].
+Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. As a branch of [[epistemology]], it asks what justifies preferring simpler explanations. The Unfinishable Map treats this as a foundational concept because a standard objection to [[dualism]] — that [[concepts/materialism|physicalism]] is simpler — depends entirely on parsimony having epistemic warrant in the consciousness domain. Multiple independent analyses converge on the conclusion that it has no such warrant there: all three preconditions for its application fail simultaneously, and parsimony's own defenders have acknowledged its limitations. For the full case, see [[epistemological-limits-of-occams-razor]]; for the cognitive dimension, see [[epistemological-limits-occams-razor|The Parsimony Void]].
 
 ## What Parsimony Epistemology Studies
 
@@ -159,7 +159,7 @@ Each condition is an active research programme. The argument is conditional on t
 
 The Map's fifth tenet — [[tenets#^occams-limits|Occam's Razor Has Limits]] — is grounded directly in parsimony epistemology. The tenet does not reject parsimony wholesale; it identifies the conditions under which parsimony loses epistemic force and argues that the consciousness debate satisfies them. [[composition-question-rivals#metaontological-deflationism|Metaontological deflationism]] is the limiting case of distrusting simplicity-as-tiebreaker — dissolving the existence dispute as shallow rather than merely preferring the leaner ontology — a move the fifth tenet resists where consciousness is at stake.
 
-The most common objection to [[interactionist-dualism]] is parsimony-based: physicalism posits fewer substance types, therefore prefer it. That argument requires three assumptions — that ontological parsimony is the relevant dimension, that the theories explain consciousness equally well, and that scientific parsimony transfers to metaphysical theory choice — each of which fails under scrutiny, and each of which has been conceded in part by materialists themselves.
+One standard objection to [[interactionist-dualism]] is parsimony-based: physicalism posits fewer substance types, therefore prefer it. Parsimony is not the whole of the physicalist case, and not every physicalist position rests on it. Eliminativism and illusionism dispute that there is first-person phenomenal data of the relevant kind to explain; reductive phenomenal realism, phenomenal-concept strategies, representationalism, and nonreductive physicalism accept the first-person data as genuine and contest instead the Map's specification of its content and metaphysical implications. The parsimony argument engages only the part of that field which grants the data and then reaches for simplicity as a tie-breaker. Even there it requires three assumptions — that ontological parsimony is the relevant dimension, that the theories explain consciousness equally well, and that scientific parsimony transfers to metaphysical theory choice — each of which fails under scrutiny, and each of which has been conceded in part by materialists themselves.
 
 When the preconditions for applying a principle are unmet, invoking it is a category error. The question must be settled on other grounds: explanatory power, phenomenological evidence, the [[knowledge-argument|knowledge argument]], [[philosophical-zombies|conceivability arguments]], and the coherence of the broader theoretical framework. On those grounds, the Map argues, dualism prevails — and when parsimony *is* correctly applied across all its dimensions, it [[parsimony-case-for-interactionist-dualism|actually favours interactionist dualism]].
 

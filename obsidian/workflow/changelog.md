@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T20:17:15+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/epistemology]], [[concepts/parsimony-epistemology]]
+- **Source**: outer review 2026-07-21 (ChatGPT 5.5 Pro), rec 21 (recurring opponent-parity finding). GREP-VERIFIED all flagged phrasings live before editing.
+- **Changes (epistemology)**: Removed two unsupported superlatives — "the dominant epistemological framework in analytic philosophy privileges third-person evidence" → "a methodological preference for third-person evidence has shaped much of analytic philosophy of mind"; "The most common argument against dualism is that physicalism is simpler" → "A standard argument…". Added a paragraph after the three hidden-assumption block installing the rival matrix: eliminativism/illusionism deny there is first-person data of the relevant kind (so publicity/parsimony assumptions do genuine work against them), whereas the stronger positions — reductive phenomenal realism, phenomenal-concept strategies, representationalism, nonreductive physicalism — accept the first-person data and contest instead the Map's specification of its content and metaphysical implications; framing physicalism as uniformly discounting the data mistakes the weaker opponent for the whole field.
+- **Changes (parsimony-epistemology)**: Removed two "most common objection" superlatives (→ "a standard objection" / "One standard objection…"), neither backed by a corpus/survey. Expanded the Relation-to-Site-Perspective opening into the rival matrix: parsimony is not the whole physicalist case; eliminativism/illusionism dispute the data while reductive phenomenal realism, phenomenal-concept strategies, representationalism, and nonreductive physicalism accept it and contest interpretation; the parsimony argument engages only the data-granting part of the field.
+- **Preserved**: filter/anti-parsimony conclusions and all calibration hedges intact; no argument weakened, only opponent caricature replaced with genuine matrix.
+- **Held**: `ai_system` (epistemology: claude-opus-4-6+claude-opus-4-8; parsimony: claude-opus-4-8); bumped `ai_modified` only. Not deep reviews — `last_deep_review` unchanged on both.
+- **Length**: both roughly length-neutral to modest addition (matrix paragraph is the requested substance; superlative trims partly offset).
+- **Published**: yes
+
 ## 2026-07-21T18:48:23+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/phenomenal-acquaintance]], [[concepts/functional-seeming]]
