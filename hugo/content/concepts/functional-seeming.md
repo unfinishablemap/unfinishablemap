@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-06-22 23:15:05+00:00
+ai_modified: 2026-07-21 18:48:23+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[self-stultification-as-master-argument]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[primary-secondary-quality-boundary]]'
+- '[[phenomenal-conservatism]]'
 title: Functional Seeming
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +83,12 @@ Frankish's framework requires a gap between a state's self-representation and it
 
 This is not the bare regress objection, which Frankish's functional account does address. It is a deeper problem about self-representation specifically: whether the access/interpretation distinction survives when the accessed state and the interpreting state are one and the same.
 
+## The Epistemic-Seeming Mirror
+
+Functional seeming has a mirror image in epistemology, where a "seeming" is the basic unit of justification. On Michael Huemer's [phenomenal conservatism](/concepts/phenomenal-conservatism/) (PC), if it seems to a subject that P then, absent defeaters, the subject has prima facie justification for believing P. The reciprocal question the two concepts pose to each other is whether that justificatory seeming must itself be phenomenal. Huemer's own construal says it must: he marks a genuine seeming by a distinctive phenomenal "forcefulness"—an appearance's felt pushing of its content as true—and it is that presentational force, not a bare disposition to judge, that separates a seeming from a belief and does the justifying.
+
+Frankish's functional analysis denies exactly this: the seeming *of* phenomenality, he holds, need involve no phenomenal force at all. The two positions collide over the same states. PC's answer to the functional analysis is that a purely functional disposition to judge "I am conscious" cannot confer the justification a seeming confers, because it lacks the appearance-as-true that gives seemings their evidential grip—a disposition to believe P is not yet evidence for P. If functional seeming genuinely carries no phenomenal force, it is not a seeming in Huemer's justificatory sense, and the illusionist still owes an account of why introspective judgement tracks anything; if instead the illusionist restores felt force to keep the appearance compelling, the regress functional seeming was built to escape reopens. The [phenomenal-conservatism](/concepts/phenomenal-conservatism/) article joins this disagreement from the epistemology side.
+
 ## Relation to Site Perspective
 
 Functional seeming challenges the Map's [Dualism](/tenets/#dualism) tenet directly. If seeming reduces to functional dispositions, there is nothing non-physical left to explain—the [explanatory gap](/concepts/explanatory-gap/) is an artefact of introspective misrepresentation rather than a genuine ontological boundary. It equally threatens the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: if conscious experience is exhausted by functional roles, there is no phenomenal agent to exert causal influence on physical processes—the phenomenology of trying, attending, and deciding would be mere appearance with no work left to do.
@@ -101,6 +108,7 @@ The Map treats functional seeming as the strongest version of illusionism and en
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that reveals functional seeming's limits
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and why functional facts leave something out
 - [introspection](/concepts/introspection/) — The faculty functional seeming claims is systematically unreliable
+- [phenomenal-conservatism](/concepts/phenomenal-conservatism/) — The epistemology of seemings, which contests whether a justificatory seeming must be phenomenal
 
 ## References
 

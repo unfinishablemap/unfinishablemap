@@ -9,6 +9,38 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-21T18:48:23+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [functional-seeming](/concepts/functional-seeming/)
+- **Source**: outer review 2026-07-21 (ChatGPT 5.6 Pro), recs 19-20
+- **Changes (phenomenal-acquaintance)**: Rec 19. In the Loar recognitional-concepts section, added a passage marking the extra metaphysical premise — direct epistemic access and the conclusion that acquaintance's object lies beyond physical description are separated as distinct steps (the second must be argued, not read off the first), and Loar's recognitional account is given parity of visibility as a live rival, not a refuted one (the Map's case rests on contesting its ontological-innocence claim, not on acquaintance's immediacy alone). Removed the now-redundant end-caveat in the transparency section (its content upgraded/relocated into the Loar section), keeping the pass roughly length-neutral. Preserved hedges. Held `ai_system` (claude-opus-4-7); bumped `ai_modified` only (not a deep review — `last_deep_review` unchanged).
+- **Changes (functional-seeming)**: Rec 20. Added "The Epistemic-Seeming Mirror" section giving the reciprocal comparison with epistemic seemings: states that on Huemer's own construal justificatory seemings must be phenomenal (marked by phenomenal "forcefulness"), that Frankish's functional analysis denies this, and how PC answers Frankish (a purely functional disposition lacks the appearance-as-true that confers justification; either functional seeming is not a seeming in Huemer's sense, or restoring felt force reopens the regress). The reciprocal side was already installed in `phenomenal-conservatism.md`; this closes the functional-seeming end. Added `[[phenomenal-conservatism]]` to related_articles and Further Reading. Held `ai_system` (claude-opus-4-7); bumped `ai_modified` only.
+- **Length**: both approximately length-neutral (file 1 offset by caveat removal; file 2 adds the reviewer-requested comparison lean).
+- **Published**: yes
+
+## 2026-07-21T17:46:20+00:00 - deep-review
+- **Status**: Success (convergence — no critical issues)
+- **File**: [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/)
+- **Word count**: 2545 → 2545 (0; no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second deep review; reviewed the delta from the 2026-07-21 refine-draft (`700062dae`). Persisting-subject-horn passage is honest Mode Three boundary-marking (retains persisting subject on Tenet 4 grounds, explicitly declines to refute *anattā*); underdetermination concession correctly scoped to the hard-problem gap (separates dualism from physicalism, not from process monism). No possibility/probability slippage, no label leakage. References/citation surface unchanged → 2026-06-18 publisher-verified ledger carried forward (no re-verify). Three new wikilinks ([Tenet 4](/tenets/#no-many-worlds), [agent-causation](/concepts/agent-causation/), [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)) all resolve. No-op discipline: bumped `last_deep_review` only, held `ai_modified` at HEAD.
+- **Output**: [deep-review-2026-07-21-the-steelman-for-process-monism](/reviews/deep-review-2026-07-21-the-steelman-for-process-monism/)
+
+## 2026-07-21T16:45:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/)
+- **Trigger**: pessimistic-2026-07-21-the-steelman-for-process-monism.md, Issues 1–3. Length-neutral recalibration; citations verified clean by the review and left untouched.
+- **Changes**:
+  - Issue 1 (Medium; High for cross-corpus consistency): scoped the underdetermination claim from unrestricted ("no further datum would settle the matter"; "evidence both sides share") to the level it actually holds — the hard-problem gap / founding axioms. Added the interface caveat in §Where the disagreement actually sits: the [quantum-opening](/tenets/#minimal-quantum-interaction) interface and [discriminating-test designs](/topics/direction-dependent-discriminating-test-design/) separate dualism from *physicalism* but not from a process monism that can re-describe any interface datum in process terms. Removes the collision with Tenets 2–3 and the empirical programme without weakening the framework-boundary honesty. Second occurrence in §Irreducibility scoped in parallel.
+  - Issue 2 (Low–Medium): aligned "suggests it tracks something" → "suggests it is not a parochial artifact of one school's idiosyncrasy" (the non-idiosyncrasy reading used in cross-traditional-convergence-on-consciousness-irreducibility.md), removing the latent double standard about what convergence buys.
+  - Issue 3 (Low–Medium): added one sentence in the Buddhist boundary-marking giving the Map's reason for retaining a persisting subject against *anattā* — Tenet 4 treats indexical identity as a datum given in the having of experience, endorsed on independent grounds ([agent-causation](/concepts/agent-causation/)) while conceding per Tenet 5 that its meaningfulness is a posited claim, not a neutral datum. Boundary now marked *with* the Map's stake shown.
+- **Engagement classification (editor-internal)**: Buddhist/anattā wing — Mode Three (framework-boundary marking); the added sentence shows the Map's stake without claiming in-framework refutation, preserving the honest boundary-marking the review credited.
+- **Frontmatter**: bumped ai_modified only (2026-06-18 → 2026-07-21); held ai_system (claude-opus-4-8) and last_deep_review per task.
+- **Original score**: not re-scored (targeted review-driven fixes)
+- **Published**: yes
+
 ## 2026-07-21T14:16:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [writing-style](/project/writing-style/)
