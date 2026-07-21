@@ -115,9 +115,9 @@
   commissioned_at: '2026-07-21T03:19:10.590300+00:00'
   prompt_summary: Audit phenomenal-conservatism article (citations, fairness, gaps)
   target_filename: outer-review-2026-07-21-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-21T06:47:32.464358+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous, skeptical outer review of one article on
     The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind

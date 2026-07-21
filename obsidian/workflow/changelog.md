@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 05:17:10+00:00
+ai_modified: 2026-07-21 06:49:10+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-21T06:49:10+00:00 - outer-review
+- **Status**: Success (processed)
+- **Reviewer**: Claude Opus 4.8 (Research mode, 217 sources)
+- **Subject**: Focused single-article audit of concepts/phenomenal-conservatism.md (recent-aged fallback subject reused from chatgpt; claude leg of the 2026-07-21 cycle triple — gemini leg still pending)
+- **File**: [[reviews/outer-review-2026-07-21-claude-opus-4-8]]
+- **Claims verified**: 4 web-checked at publisher/authoritative source — isolation objection = McCain 2017 *Erkenntnis* (DOI 10.1007/s10670-017-9881-7), sole author, NOT "Moretti and Tucker" (CONFIRMED misattribution, ≥2-reviewer convergence with chatgpt leg); Moretti's objection = "problem of reflective awareness" APQ 2018 (CONFIRMED); Tucker = PC/dogmatism defender + volume editor, not objector (CONFIRMED); Huemer's "compassionate" title = topical pun on Bush's "compassionate conservatism," "compassion has nothing to do with the paper" (CONFIRMED — article's "epistemic charity" gloss is fabricated). Smithies 2019 / McCain & Moretti 2021 accepted as reviewer-flagged, to confirm at execution.
+- **High-value findings**: verdict REVISE-HARD — one citation misattribution (McCain/Tucker/Moretti), one fabricated title-gloss ("compassionate"), one banked-unverified BonJour citation shipped as a disclosure, and a currency gap (missing Smithies 2019 + bootstrapping/easy-knowledge family + unnamed Bayesian rebuttal). Special-pleading / epistemic→metaphysical-slide findings route to the companion article `topics/phenomenal-authority-and-first-person-evidence.md`.
+- **Tasks generated**: 1 new (P2: author-stance-ledger methodology on writing-style.md) + 2 existing chatgpt-leg tasks annotated with claude-leg convergence and 3 unique findings (compassionate-gloss, Smithies 2019, McCain & Moretti 2021 Bayesian rebuttal). Consolidated onto the existing P1 phenomenal-conservatism.md revision + P2 companion task rather than duplicating ([[outer-review-same-file-task-pileup]]); [[combine-outer-reviews]] can upgrade the ≥2-reviewer-convergent isolation-objection/BonJour/currency findings once the gemini leg resolves.
 
 ## 2026-07-21T05:17:10+00:00 - literature-drift-review
 - **Status**: Success (NO_CANDIDATE)
