@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 11:18:44+00:00
+ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-21T12:17:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Trigger**: convergent outer reviews 2026-07-21 (2/2: ChatGPT 5.6 Pro §8 + Claude Opus 4.8 §4/§5), P1 (upgraded P2→P1 by /combine-outer-reviews); see [[reviews/outer-review-synthesis-2026-07-21]] finding 6. Both reviewers independently located the asymmetric-deployment special pleading + the epistemic→metaphysical slide in this companion application article.
+- **Changes** (recalibration, length-neutral in spirit — net ~+180 words of concession prose; no argument deleted):
+  - **(16) Incorrigibility→dualism inference weakened** (Rorty's Dilemma section). Was: "if phenomenal experience is genuinely incorrigible, then phenomenal states possess an epistemic property no physical state has … the moderate must explain how a physical state acquires an epistemic property no physical description in any other domain possesses." Now names the leap as an unsupported foundational move and installs the identity-theorist reply: a physical state can be known incorrigibly under a first-person mode while its neurological description stays revisable under another — one referent, two modes; epistemic asymmetry ≠ ontological difference. The Map now presses the explanatory demand (why a first-person mode confers incorrigibility) rather than reading ontology off epistemology.
+  - **(17) Heterophenomenology reframed** (Methodological Implications). Was: "This neutrality presupposes that no epistemically distinctive first-person access exists — the very question at issue." Now: a rival *policy* about what a public inquiry may infer from first-person authority, not a denial that distinctive access exists; the Map's quarrel is with the policy (itself a substantive bet).
+  - **(18) Training argument downgraded** (Relation to Site Perspective → Bidirectional Interaction). Was "itself evidence for bidirectional interaction: if consciousness were epiphenomenal, deliberate attentional training should not produce measurable improvements." Now *compatible with* (not discriminating evidence for) bidirectional interaction; explicitly concedes the common-cause reply and cross-references the Tenet 3 page's own concession (removing a defeater ≠ upgrading the dualist reading). Removed the "epiphenomenalist must reject apodictic evidence … causal closure has no apodictic warrant" claim that recharacterized the physicalist's seeming asymmetrically.
+  - **Symmetry acknowledgment added** (Phenomenal Conservatism section) closing the asymmetric-deployment loophole per Claude §4 / Slide-audit rec: because PC is a generality thesis, the naturalist's own seemings (causal closure, method-completeness) earn the same prima facie justification; the Map's asymmetry is argued (defeater-security + explanatory-gap), not read off PC, and where unargued PC leaves the seemings on a par.
+- **Engagement classifications** (editor-internal; not in article body):
+  - identity theorist (incorrigibility): Mode Two→Three — article previously helped itself to an ontological conclusion the epistemic premise did not earn; fix names the unsupported foundational move and marks the residual as an honest framework-boundary disagreement, not a refutation.
+  - Dennett / heterophenomenology: Mode Three — framework-boundary; the Map's disagreement is with the rival policy, noted honestly, not a refutation of Dennett inside his own framework.
+  - epiphenomenalist (training): Mode Three — concedes the common-cause reply; downgrades to compatible-with and marks the boundary honestly.
+- **Frontmatter**: `ai_modified` bumped only; `ai_system` HELD (claude-opus-4-7); `ai_contribution` unchanged (100); no `last_deep_review` change.
+- **Published**: yes
 
 ## 2026-07-21T11:18:44+00:00 - refine-draft
 - **Status**: Success
