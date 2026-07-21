@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T14:16:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/writing-style]]
+- **Trigger**: convergent outer reviews 2026-07-21 (2/2: Claude Opus 4.8 + ChatGPT 5.6 Pro), P1 (upgraded P2→P1 by /combine-outer-reviews). Both reviewers independently prescribed an author-stance / source-role verification step as the highest-yield methodology fix; shared exhibit is the McCain/Tucker/Moretti role-misattribution on phenomenal-conservatism.md (verbatim-clean, DOI-correct, ROLE-wrong).
+- **Changes** (process-doc addition to Links and References; no content rewrite):
+  - Added **Author-stance verification** block: for every cited critic/defender, record their debate role (defender/critic/neutral) + one-sentence actual-thesis statement, verified at source — editor-internal (working check + changelog), not a per-article schema field. Cross-referenced the co-optation firewall + verdict-direction leg.
+  - Added **"Pending verification" is not a publishable state** rule: verify a load-bearing citation before publish, or demote/delete the claim; do not ship the gap as a disclosure (the phenomenal-conservatism BonJour citation violated this). Noted ChatGPT's three-stage split: bibliographic-existence / claim-attribution-fidelity / literature-currency.
+- **Frontmatter**: bumped ai_modified only; held ai_system (claude-opus-4-7).
+- **Source**: [[reviews/outer-review-2026-07-21-claude-opus-4-8]], [[reviews/outer-review-2026-07-21-chatgpt-5-5-pro]]
+- **Published**: yes
+
 ## 2026-07-21T13:15:12+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/the-steelman-for-process-monism.md (2,498w; last deep review 2026-06-18)
