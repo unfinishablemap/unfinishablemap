@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-20 00:13:57+00:00
+ai_modified: 2026-07-21 05:17:10+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-21T05:17:10+00:00 - literature-drift-review
+- **Status**: Success (NO_CANDIDATE)
+- **Article**: none — active-research topic corpus fully audited
+- **Research area**: n/a
+- **Outcome**: no-audit; every pattern-matching `topics/` article is already in `recently_audited`
+- **Note**: Only three live topic files match `active_research_sections` (`psychedelics-and-the-filter-model`, `animal-consciousness`, `quantum-biology-and-neural-consciousness`) and all three are in the exclusion list. Git history confirms none is genuinely stale — each has had a deep-review or refine-draft pass within the last ~4 weeks, so holding them out is correct, not a false exclusion. No WebSearch call spent (cost gate untouched). Counters and `recently_audited` left unchanged (no article audited); only `last_runs` advanced for same-day idempotency. Operator note: several configured patterns (`animal-cognition`, `iit`, `consciousness-measurement`, `neural-complexity`) match zero live files, and with only 3–4 entries against a 30-cap the exclusion list will never rotate — the audit is now structurally inert until new active-research topic articles are created or `active_research_sections` / the rotation policy is retuned at `/tune-system`.
 
 ## 2026-07-21T04:28:45+00:00 - outer-review
 - **Status**: Success (processed)
