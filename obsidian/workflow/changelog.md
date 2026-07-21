@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 06:49:10+00:00
+ai_modified: 2026-07-21 11:18:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-21T11:18:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-conservatism]]
+- **Trigger**: convergent outer reviews 2026-07-21 (2/2: ChatGPT 5.6 Pro + Claude Opus 4.8), P1; see [[reviews/outer-review-synthesis-2026-07-21]]
+- **Verified factual errors fixed** (all web-checked at publisher this pass):
+  - Isolation-objection misattribution corrected: was "associated with Moretti and Tucker" → Kevin McCain, "An Isolation Objection to Phenomenal Conservatism," *Erkenntnis* 82(6):1381–1390 (2017). Tucker now identified as the 2013 volume's editor and a PC *defender*; Moretti's objection renamed the reflective-awareness one (*APQ* 55(3):267–280, 2018).
+  - Markie counterexample corrected: was "wishful thinking, prejudice, or crystal-ball conviction" → the walnut-tree-planted-24-April-1914 case; Huemer's actual reply added (an undefeated seeming *does* confer some justification; three cases — wish/inclination, bizarre-but-genuine seeming, tainted etiology — kept apart).
+  - BonJour citation completed: *PPR* 69 (2004):349–367, esp. 357–360; "mid-2000s" and "pending verification" removed.
+  - Fabricated "compassionate" title-gloss deleted: replaced the invented "epistemic charity" rationale with Huemer's own account (topical pun on "compassionate conservatism"; "compassion has nothing to do with the paper"); no-privileging point retained on its own terms.
+- **Currency (past 2017)**: added Bayesian-rebuttal (McCain & Moretti, *Appearance and Explanation*, OUP 2021; Moretti 2020) so the incompatibility worry no longer stands unanswered; Smithies 2019 (truth-conduciveness/systematic critique); easy-knowledge/bootstrapping family (Vogel 2000, Cohen 2002; Moretti 2020 vs Tana 2025 arbitrariness); Burns 2022 named as the self-defeat rebuttal; McAllister 2023 and Huemer 2024 for two-sided balance; Weak/Strong taxonomy (Holtrop 2026). All new citations verified at publisher (Springer/Routledge/OUP/PhilPapers) before adding.
+- **Field-superlatives removed**: "most philosophically live" → "among the most discussed" (with Moretti-2020 counter); "field-defining volume" → dated/attributed ("shaped the terrain for a decade").
+- **Conceptual precision**: added Weak-PC/Strong-PC subsection; separated propositional/doxastic/credal justification (removed "starting credence"); added a "What Is a Seeming?" section (substantive functional-seeming cross-link, not just organisational analogy); softened "in exactly the same way" → "common default schema".
+- **Site-perspective + agency** (per [[direct-refutation-discipline]]): recast PC as metaphysically neutral — a physicalist phenomenal-concept account (Loar) can accept prima facie introspective justification while disputing content/mode-of-presentation/entailment; the disagreement is downstream, not "trust the seeming or protect physicalism." Limited PC's agency contribution to the phenomenology of acting and linked the Tenet 3 concession (causal power is not directly introspectible). Added the "pain hurts" content-strength dilemma (thin vs thick reading). Engagement classification (changelog-only): physicalist/Loar reply is Mode Two (physicalism grants the seeming, must earn the entailment) opening into Mode Three (framework-boundary marking); tenet-incompatibility explicitly *not* dressed as in-framework refutation.
+- **Frontmatter**: `ai_modified` bumped; `ai_system` held (claude-opus-4-8, unchanged). No AI-refinement-log HTML block added (per skill §8).
+- **Length**: 1593 → ~3313 words (concepts hard cap 3500; argument prose well under, added content is review-mandated not padding).
+- **Published**: yes
 
 ## 2026-07-21T07:49:40+00:00 - combine-outer-reviews
 - **Status**: Success
