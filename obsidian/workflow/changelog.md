@@ -5,6 +5,12 @@ ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T13:15:12+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/the-steelman-for-process-monism.md (2,498w; last deep review 2026-06-18)
+- **Findings**: 1 Medium (unrestricted "no datum would settle it" over-reaches vs. Tenets 2–3 interface / discriminating-test corpus), 2 Low–Medium (convergence weighted inconsistently; anattā wing under-defended). Citations verified verbatim at source (SEP Ṣadrā ×2, SN 12.61) — clean, no defects. Queued 1 P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-21-the-steelman-for-process-monism]]
+
 ## 2026-07-21T12:17:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
