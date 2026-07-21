@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T17:46:20+00:00 - deep-review
+- **Status**: Success (convergence — no critical issues)
+- **File**: [[topics/the-steelman-for-process-monism]]
+- **Word count**: 2545 → 2545 (0; no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second deep review; reviewed the delta from the 2026-07-21 refine-draft (`700062dae`). Persisting-subject-horn passage is honest Mode Three boundary-marking (retains persisting subject on Tenet 4 grounds, explicitly declines to refute *anattā*); underdetermination concession correctly scoped to the hard-problem gap (separates dualism from physicalism, not from process monism). No possibility/probability slippage, no label leakage. References/citation surface unchanged → 2026-06-18 publisher-verified ledger carried forward (no re-verify). Three new wikilinks ([[tenets#^no-many-worlds|Tenet 4]], [[agent-causation]], [[direction-dependent-discriminating-test-design]]) all resolve. No-op discipline: bumped `last_deep_review` only, held `ai_modified` at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-21-the-steelman-for-process-monism]]
+
 ## 2026-07-21T16:45:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-steelman-for-process-monism]]
