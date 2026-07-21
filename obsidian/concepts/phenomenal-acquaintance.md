@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-09
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-07-16T00:05:00+00:00
+ai_modified: 2026-07-21T18:48:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,6 +95,8 @@ Brian Loar's strongest version of the strategy holds that phenomenal concepts ar
 
 This is the core of *non-reductive physicalism*—the dominant position in contemporary philosophy of mind, which accepts that acquaintance is real and epistemically distinctive but denies it requires substance dualism. The dualist response must therefore go beyond establishing that acquaintance is real. Chalmers presses the point: if the directness of phenomenal concepts is physically explicable, a [[philosophical-zombies|zombie]] would have it too—and would face the same apparent gap. But a zombie, lacking acquaintance, would face no genuine gap. If Loar replies that zombies are inconceivable—that phenomenal concepts cannot exist without genuine phenomenal states—he concedes that phenomenal concepts depend on acquaintance for their character, which is what the acquaintance theorist claims.
 
+Loar's defender can nonetheless hold the line, and marking where the disagreement actually lies is essential to keeping the Map's argument honest. Conceding that phenomenal concepts require phenomenal states is ontologically innocent if those states are themselves physical. The dispute then turns not on whether acquaintance is real and epistemically distinctive—Loar grants both—but on a further premise: that phenomenal character is intrinsic and non-structural, and so falls outside what any physical description can specify. Direct epistemic access and the conclusion that its object lies beyond physical description are therefore separate steps. The second carries the dualist result, and it must be argued rather than read off the first. The recognitional account remains a live rival, not a refuted one; the Map's case rests on contesting its ontological-innocence claim, not on the immediacy of acquaintance alone.
+
 ## Acquaintance as Pre-Conceptual
 
 Acquaintance has a pre-conceptual dimension explored in [[acquaintance-void|the acquaintance void]]. Acquaintance with a shade of blue precedes and grounds the concept BLUE. McDowell attempted to rescue conceptualism through demonstrative concepts ("that shade"), but as Sean Kelly argues, demonstratives require re-identification capacity—if you cannot reliably re-identify the shade tomorrow, you never formed a genuine concept. Experience outstrips conceptual capture.
@@ -136,8 +138,6 @@ Higher-order thought theories (Rosenthal, Brown) raise a deeper challenge. On th
 The acquaintance theorist's reply: higher-order theories face their own dilemma. If the higher-order representation faithfully represents the first-order state's qualitative character, then qualitative character must be present in the first-order state—and acquaintance occurs there, with the higher-order representation merely noticing it. If instead the higher-order representation *creates* qualitative character absent from the first-order state, then consciousness is constituted by a representation misrepresenting its target—an account that struggles to explain why introspective reports track genuine qualities so reliably.
 
 Representationalists raise a different challenge. If introspection is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not intrinsic qualities of experience. [[phenomenal-transparency-opacity-spectrum|Transparency]] is real as a phenomenological datum. The dualist response: transparency presupposes acquaintance. The reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness.
-
-A further caveat: acquaintance with pain positions you to know *what pain is like*, not to determine its ontological status. The step from "I am acquainted with this quality" to "this quality is non-physical" requires philosophical argument, not mere acquaintance.
 
 ## Relation to Site Perspective
 

@@ -5,6 +5,15 @@ ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T18:48:23+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/phenomenal-acquaintance]], [[concepts/functional-seeming]]
+- **Source**: outer review 2026-07-21 (ChatGPT 5.6 Pro), recs 19-20
+- **Changes (phenomenal-acquaintance)**: Rec 19. In the Loar recognitional-concepts section, added a passage marking the extra metaphysical premise — direct epistemic access and the conclusion that acquaintance's object lies beyond physical description are separated as distinct steps (the second must be argued, not read off the first), and Loar's recognitional account is given parity of visibility as a live rival, not a refuted one (the Map's case rests on contesting its ontological-innocence claim, not on acquaintance's immediacy alone). Removed the now-redundant end-caveat in the transparency section (its content upgraded/relocated into the Loar section), keeping the pass roughly length-neutral. Preserved hedges. Held `ai_system` (claude-opus-4-7); bumped `ai_modified` only (not a deep review — `last_deep_review` unchanged).
+- **Changes (functional-seeming)**: Rec 20. Added "The Epistemic-Seeming Mirror" section giving the reciprocal comparison with epistemic seemings: states that on Huemer's own construal justificatory seemings must be phenomenal (marked by phenomenal "forcefulness"), that Frankish's functional analysis denies this, and how PC answers Frankish (a purely functional disposition lacks the appearance-as-true that confers justification; either functional seeming is not a seeming in Huemer's sense, or restoring felt force reopens the regress). The reciprocal side was already installed in `phenomenal-conservatism.md`; this closes the functional-seeming end. Added `[[phenomenal-conservatism]]` to related_articles and Further Reading. Held `ai_system` (claude-opus-4-7); bumped `ai_modified` only.
+- **Length**: both approximately length-neutral (file 1 offset by caveat removal; file 2 adds the reviewer-requested comparison lean).
+- **Published**: yes
+
 ## 2026-07-21T17:46:20+00:00 - deep-review
 - **Status**: Success (convergence — no critical issues)
 - **File**: [[topics/the-steelman-for-process-monism]]
