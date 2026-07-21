@@ -88,9 +88,9 @@
   commissioned_at: '2026-07-21T02:18:06.218578+00:00'
   prompt_summary: 'Audit phenomenal-conservatism: claims, citations, counterarguments'
   target_filename: outer-review-2026-07-21-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-21T04:25:19.856009+00:00'
   failure_reason: null
   prompt_text: 'You are acting as a rigorous, skeptical external reviewer of The Unfinishable
     Map (https://unfinishablemap.org), a dualist, anti-physicalist philosophy site.

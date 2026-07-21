@@ -5,6 +5,15 @@ ai_modified: 2026-07-20 00:13:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T04:28:45+00:00 - outer-review
+- **Status**: Success (processed)
+- **Reviewer**: ChatGPT 5.6 Pro (GPT-5.5 Pro Extended; model slug gpt-5-6-pro)
+- **Subject**: Focused single-article audit of concepts/phenomenal-conservatism.md (recent-aged fallback subject; chatgpt leg of the 2026-07-21 cycle triple — claude/gemini legs still pending)
+- **File**: [[reviews/outer-review-2026-07-21-chatgpt-5-5-pro]]
+- **Claims verified**: 3 web-checked at publisher — Markie walnut-tree/24-Apr-1914 case (article misdescribes it: CONFIRMED), isolation objection = McCain 2017 Erkenntnis not "Moretti and Tucker" (CONFIRMED misattribution), Burns "Safely Denying Phenomenal Conservatism" Erkenntnis 87(6) 2022 (CONFIRMED; review's "2021" date off by one). Holtrop 2026 / McAllister 2023 / Seemings-2024 left for publisher-check at execution time.
+- **High-value findings**: verdict "substantial revision required, not withdrawal" — 2017-stop bibliography, unsupported field-superlatives ("most philosophically live"/"dominant"/"field-defining"), Weak/Strong-PC conflation, propositional/doxastic/credal conflation, and tenet-protective bracketing in the site-perspective section (convergent with the standing boundary-substitution structural finding).
+- **Tasks generated**: 5 (P1: 1 — comprehensive phenomenal-conservatism.md revision w/ direct-refutation remit; P2: 4 — phenomenal-authority handoff, acquaintance+functional-seeming parity, epistemology+parsimony rival-matrix, methodology proposals). Consolidated from 30 recs to avoid same-file pileup ([[outer-review-same-file-task-pileup]]).
+
 ## 2026-07-21T00:52:00+00:00 - outer-review
 - **Status**: Success (processed; 0 tasks — findings verified stale)
 - **Reviewer**: Claude Opus 4.8 (Research mode, 294 sources)
