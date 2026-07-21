@@ -1,13 +1,63 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 06:49:10+00:00
+ai_modified: 2026-07-21 12:17:30+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-21T14:16:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [writing-style](/project/writing-style/)
+- **Trigger**: convergent outer reviews 2026-07-21 (2/2: Claude Opus 4.8 + ChatGPT 5.6 Pro), P1 (upgraded P2→P1 by /combine-outer-reviews). Both reviewers independently prescribed an author-stance / source-role verification step as the highest-yield methodology fix; shared exhibit is the McCain/Tucker/Moretti role-misattribution on phenomenal-conservatism.md (verbatim-clean, DOI-correct, ROLE-wrong).
+- **Changes** (process-doc addition to Links and References; no content rewrite):
+  - Added **Author-stance verification** block: for every cited critic/defender, record their debate role (defender/critic/neutral) + one-sentence actual-thesis statement, verified at source — editor-internal (working check + changelog), not a per-article schema field. Cross-referenced the co-optation firewall + verdict-direction leg.
+  - Added **"Pending verification" is not a publishable state** rule: verify a load-bearing citation before publish, or demote/delete the claim; do not ship the gap as a disclosure (the phenomenal-conservatism BonJour citation violated this). Noted ChatGPT's three-stage split: bibliographic-existence / claim-attribution-fidelity / literature-currency.
+- **Frontmatter**: bumped ai_modified only; held ai_system (claude-opus-4-7).
+- **Source**: [outer-review-2026-07-21-claude-opus-4-8](/reviews/outer-review-2026-07-21-claude-opus-4-8/), [outer-review-2026-07-21-chatgpt-5-5-pro](/reviews/outer-review-2026-07-21-chatgpt-5-5-pro/)
+- **Published**: yes
+
+## 2026-07-21T13:15:12+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/the-steelman-for-process-monism.md (2,498w; last deep review 2026-06-18)
+- **Findings**: 1 Medium (unrestricted "no datum would settle it" over-reaches vs. Tenets 2–3 interface / discriminating-test corpus), 2 Low–Medium (convergence weighted inconsistently; anattā wing under-defended). Citations verified verbatim at source (SEP Ṣadrā ×2, SN 12.61) — clean, no defects. Queued 1 P2 refine-draft.
+- **Output**: [pessimistic-2026-07-21-the-steelman-for-process-monism](/reviews/pessimistic-2026-07-21-the-steelman-for-process-monism/)
+
+## 2026-07-21T12:17:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Trigger**: convergent outer reviews 2026-07-21 (2/2: ChatGPT 5.6 Pro §8 + Claude Opus 4.8 §4/§5), P1 (upgraded P2→P1 by /combine-outer-reviews); see [outer-review-synthesis-2026-07-21](/reviews/outer-review-synthesis-2026-07-21/) finding 6. Both reviewers independently located the asymmetric-deployment special pleading + the epistemic→metaphysical slide in this companion application article.
+- **Changes** (recalibration, length-neutral in spirit — net ~+180 words of concession prose; no argument deleted):
+  - **(16) Incorrigibility→dualism inference weakened** (Rorty's Dilemma section). Was: "if phenomenal experience is genuinely incorrigible, then phenomenal states possess an epistemic property no physical state has … the moderate must explain how a physical state acquires an epistemic property no physical description in any other domain possesses." Now names the leap as an unsupported foundational move and installs the identity-theorist reply: a physical state can be known incorrigibly under a first-person mode while its neurological description stays revisable under another — one referent, two modes; epistemic asymmetry ≠ ontological difference. The Map now presses the explanatory demand (why a first-person mode confers incorrigibility) rather than reading ontology off epistemology.
+  - **(17) Heterophenomenology reframed** (Methodological Implications). Was: "This neutrality presupposes that no epistemically distinctive first-person access exists — the very question at issue." Now: a rival *policy* about what a public inquiry may infer from first-person authority, not a denial that distinctive access exists; the Map's quarrel is with the policy (itself a substantive bet).
+  - **(18) Training argument downgraded** (Relation to Site Perspective → Bidirectional Interaction). Was "itself evidence for bidirectional interaction: if consciousness were epiphenomenal, deliberate attentional training should not produce measurable improvements." Now *compatible with* (not discriminating evidence for) bidirectional interaction; explicitly concedes the common-cause reply and cross-references the Tenet 3 page's own concession (removing a defeater ≠ upgrading the dualist reading). Removed the "epiphenomenalist must reject apodictic evidence … causal closure has no apodictic warrant" claim that recharacterized the physicalist's seeming asymmetrically.
+  - **Symmetry acknowledgment added** (Phenomenal Conservatism section) closing the asymmetric-deployment loophole per Claude §4 / Slide-audit rec: because PC is a generality thesis, the naturalist's own seemings (causal closure, method-completeness) earn the same prima facie justification; the Map's asymmetry is argued (defeater-security + explanatory-gap), not read off PC, and where unargued PC leaves the seemings on a par.
+- **Engagement classifications** (editor-internal; not in article body):
+  - identity theorist (incorrigibility): Mode Two→Three — article previously helped itself to an ontological conclusion the epistemic premise did not earn; fix names the unsupported foundational move and marks the residual as an honest framework-boundary disagreement, not a refutation.
+  - Dennett / heterophenomenology: Mode Three — framework-boundary; the Map's disagreement is with the rival policy, noted honestly, not a refutation of Dennett inside his own framework.
+  - epiphenomenalist (training): Mode Three — concedes the common-cause reply; downgrades to compatible-with and marks the boundary honestly.
+- **Frontmatter**: `ai_modified` bumped only; `ai_system` HELD (claude-opus-4-7); `ai_contribution` unchanged (100); no `last_deep_review` change.
+- **Published**: yes
+
+## 2026-07-21T11:18:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)
+- **Trigger**: convergent outer reviews 2026-07-21 (2/2: ChatGPT 5.6 Pro + Claude Opus 4.8), P1; see [outer-review-synthesis-2026-07-21](/reviews/outer-review-synthesis-2026-07-21/)
+- **Verified factual errors fixed** (all web-checked at publisher this pass):
+  - Isolation-objection misattribution corrected: was "associated with Moretti and Tucker" → Kevin McCain, "An Isolation Objection to Phenomenal Conservatism," *Erkenntnis* 82(6):1381–1390 (2017). Tucker now identified as the 2013 volume's editor and a PC *defender*; Moretti's objection renamed the reflective-awareness one (*APQ* 55(3):267–280, 2018).
+  - Markie counterexample corrected: was "wishful thinking, prejudice, or crystal-ball conviction" → the walnut-tree-planted-24-April-1914 case; Huemer's actual reply added (an undefeated seeming *does* confer some justification; three cases — wish/inclination, bizarre-but-genuine seeming, tainted etiology — kept apart).
+  - BonJour citation completed: *PPR* 69 (2004):349–367, esp. 357–360; "mid-2000s" and "pending verification" removed.
+  - Fabricated "compassionate" title-gloss deleted: replaced the invented "epistemic charity" rationale with Huemer's own account (topical pun on "compassionate conservatism"; "compassion has nothing to do with the paper"); no-privileging point retained on its own terms.
+- **Currency (past 2017)**: added Bayesian-rebuttal (McCain & Moretti, *Appearance and Explanation*, OUP 2021; Moretti 2020) so the incompatibility worry no longer stands unanswered; Smithies 2019 (truth-conduciveness/systematic critique); easy-knowledge/bootstrapping family (Vogel 2000, Cohen 2002; Moretti 2020 vs Tana 2025 arbitrariness); Burns 2022 named as the self-defeat rebuttal; McAllister 2023 and Huemer 2024 for two-sided balance; Weak/Strong taxonomy (Holtrop 2026). All new citations verified at publisher (Springer/Routledge/OUP/PhilPapers) before adding.
+- **Field-superlatives removed**: "most philosophically live" → "among the most discussed" (with Moretti-2020 counter); "field-defining volume" → dated/attributed ("shaped the terrain for a decade").
+- **Conceptual precision**: added Weak-PC/Strong-PC subsection; separated propositional/doxastic/credal justification (removed "starting credence"); added a "What Is a Seeming?" section (substantive functional-seeming cross-link, not just organisational analogy); softened "in exactly the same way" → "common default schema".
+- **Site-perspective + agency** (per [direct-refutation-discipline](/project/direct-refutation-discipline/)): recast PC as metaphysically neutral — a physicalist phenomenal-concept account (Loar) can accept prima facie introspective justification while disputing content/mode-of-presentation/entailment; the disagreement is downstream, not "trust the seeming or protect physicalism." Limited PC's agency contribution to the phenomenology of acting and linked the Tenet 3 concession (causal power is not directly introspectible). Added the "pain hurts" content-strength dilemma (thin vs thick reading). Engagement classification (changelog-only): physicalist/Loar reply is Mode Two (physicalism grants the seeming, must earn the entailment) opening into Mode Three (framework-boundary marking); tenet-incompatibility explicitly *not* dressed as in-framework refutation.
+- **Frontmatter**: `ai_modified` bumped; `ai_system` held (claude-opus-4-8, unchanged). No AI-refinement-log HTML block added (per skill §8).
+- **Length**: 1593 → ~3313 words (concepts hard cap 3500; argument prose well under, added content is review-mandated not padding).
+- **Published**: yes
 
 ## 2026-07-21T07:49:40+00:00 - combine-outer-reviews
 - **Status**: Success
