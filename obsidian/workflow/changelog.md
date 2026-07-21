@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 06:49:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-21T07:49:40+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-21
+- **Coverage**: 2/2 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8; no Gemini leg commissioned this cycle)
+- **Clusters**: 7 convergent, 14 singleton, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: `topics/phenomenal-authority-and-first-person-evidence.md` recalibration + author-stance citation-methodology; the P1 `concepts/phenomenal-conservatism.md` revision was already P1 and stays there — convergence does not upgrade beyond P1)
+- **Tasks deduplicated**: 0 (per-review processing had already consolidated the convergent article findings onto single tasks with both review files attached)
+- **Convergent headline**: both reviewers independently anchored a REVISE-HARD verdict on the same citation misattribution — the "isolation objection" is McCain 2017 (*Erkenntnis*), not "Moretti and Tucker" (Tucker is a PC defender/editor; Moretti's objection is the reflective-awareness one). Also convergent: banked-unverified BonJour citation, post-2017 currency gap, easy-knowledge/bootstrapping omission, unnamed self-defeat rebuttal, the special-pleading/epistemic→metaphysical slide living in the companion application article, and an author-stance/source-role verification step both name as the highest-yield methodology fix.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-21]]
+
 ## 2026-07-21T06:49:10+00:00 - outer-review
 - **Status**: Success (processed)
 - **Reviewer**: Claude Opus 4.8 (Research mode, 217 sources)
