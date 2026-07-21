@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 12:17:30+00:00
+ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-21T22:48:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Task**: Documentation/guidance-only capture of outer-review 2026-07-21 (ChatGPT 5.6 Pro) methodology recs 22–30
+- **Changes**: Added "Proposed: Staged Citation Verification, Concept-Page Freshness, Concept→Application Handoff Audit, Convergence-Lock Register Scoping, Opponent-Parity Convergence Gate (pending human ratification — 2026-07-21 outer-review)" section, following the established 2026-06-26 / 2026-07-19 capture convention. Mapped each rec to its existing-discipline home and marked genuinely-new residue vs convergent confirmation vs article-content guidance: (a) staged three-part citation-verification record (rec 23, residue = staged record over Audit Four b / author-stance check / Audit One); (b) concept-page freshness (rec 24, rides Audit One + scope extension + since-last-review query); (c) source-role/author-direction scope-extension to philosophy concepts (rec 25); (d) concept→application lexical-escalation trigger (recs 26–27, sharpens Audit Three + inferential firewall); (e) convergence-lock register scoping (rec 28 — TOP PICK, failure-grounded, pairs with 2026-07-19 item (g)); (f) opponent-parity gate + human sign-off (recs 29–30, rides strongest-physicalist-rival gate; 30 is a human-authority cadence call); (g) felt-agency background-commitment localisation (rec 22, article-content guidance → background-commitments). NO code, cadence, or skill changes enacted — all items recorded as PROPOSED pending operator ratification per the task's operator-decision framing.
+- **Published**: yes
 
 ## 2026-07-21T21:15:00+00:00 - optimistic-review
 - **Status**: Success
