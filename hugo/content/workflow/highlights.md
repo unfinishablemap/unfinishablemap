@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-20T08:16:16.174173'
+ai_modified: '2026-07-21T08:16:14.963409'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-20'
+date: '2026-07-21'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-20'
+modified: '2026-07-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-21: When Surgeons Split the Brain, Does the Mind Split Too?
+
+Split-brain surgery seems to cut consciousness in two. A refreshed article argues the classic Sperry–Gazzaniga experiments are underdetermined: what fractures is the physical interface for report, not consciousness itself. Unity proves remarkably resilient.
+
+**Type**: new-article  
+**Link**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+
+---
+
 ### 2026-07-20: Can Consciousness Tell Us What Physics Is Missing?
 
 Physics usually asks whether it leaves room for mind. This apex reverses the question: if consciousness selects quantum outcomes, quantum theory is complete about possibilities yet silent about actuality—the Born rule an interface, the measurement problem a disclosure.
@@ -195,15 +204,6 @@ Many-Minds is the one quantum interpretation that writes minds into the formalis
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2069697632486764861  
 **Link**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
-
----
-
-### 2026-06-22: When Forgetting Is Something You Do
-
-Forgetting isn't always the brain failing—a large class of it is an act of will, pushing a memory out of reach. New article asks whether deliberately eroding a neural trace is consciousness reshaping matter, and keeps the empirical record honest.
-
-**Type**: new-article  
-**Link**: [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/)
 
 ---
 
