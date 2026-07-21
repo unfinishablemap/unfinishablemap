@@ -110,3 +110,29 @@
   subject_articles:
   - concepts/phenomenal-conservatism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/b1fa24ce-e69a-4fd9-bf18-d4408d49080c
+  commissioned_at: '2026-07-21T03:19:10.590300+00:00'
+  prompt_summary: Audit phenomenal-conservatism article (citations, fairness, gaps)
+  target_filename: outer-review-2026-07-21-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous, skeptical outer review of one article on
+    The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind
+    project. Target: the article on phenomenal conservatism at https://unfinishablemap.org/concepts/phenomenal-conservatism/.
+    For recent site activity and context, consult the changelog at https://unfinishablemap.org/workflow/changelog/.
+    Act as a hostile referee. Evaluate: (1) the accuracy and fidelity of every citation,
+    quotation, and attributed claim, verifying against primary sources; (2) whether
+    the article''s characterization of phenomenal conservatism (Huemer and its critics)
+    is fair and current; (3) logical gaps, unsupported inferences, and the strength
+    of counterarguments the article omits or under-answers; (4) how well the argument
+    coheres with the site''s dualist commitments without special pleading. Flag anything
+    fabricated, anachronistic, or misframed. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit phenomenal-conservatism
+  subject_articles:
+  - concepts/phenomenal-conservatism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-21-chatgpt-5-5-pro.md
