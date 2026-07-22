@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism providing 
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-06-22T13:46:24+00:00
+ai_modified: 2026-07-22T13:15:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ Several lines of evidence have emerged since 2022, though all remain preliminary
 
 Kerskens and López Pérez (2022) developed a novel MRI protocol designed to detect quantum entanglement in the human brain. They observed a signal mimicking heartbeat-evoked potentials that appeared only during waking consciousness—it disappeared when subjects fell asleep. The fidelity of this putative entanglement signal correlated with short-term memory performance.
 
-Warren (2023) challenged the interpretation but offered no alternative classical account of the observed signal. Independent replication has not yet been published.
+Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no account of why such a signal would track sleep versus waking. That residual gap, not the absence of any classical mechanism, is what keeps the entanglement reading contested rather than refuted. The dispute is unresolved and unreplicated, and independent replication has not yet been published.
 
 ### Microtubule-Stabilising Drug Study
 

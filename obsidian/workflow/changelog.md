@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T13:15:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/entanglement-binding-hypothesis]]
+- **Trigger**: Outer review 2026-07-20 (Gemini 2.5 Pro, full-site audit) — verified internal inconsistency + factual error. Line 60 stated Warren (2023) "offered no alternative classical account of the observed signal," contradicting the flagship `topics/quantum-biology-and-neural-consciousness.md:87` (Warren DID offer iZQC/iMQC classical account) and the careful framing in `topics/quantum-holism-and-phenomenal-unity.md:148`.
+- **Changes**: Rewrote the Warren sentence to match the flagship: acknowledges Warren's intermolecular zero-/multiple-quantum coherence (iZQC/iMQC) classical mechanism from ordinary magnetic-dipole couplings among water protons, then makes the narrower defensible point that this account does not by itself explain why the signal tracks sleep vs waking. Kept the "contested rather than refuted / unresolved and unreplicated" calibration; did not concede the entanglement reading.
+- **Length**: neutral (one sentence expanded to acknowledge the mechanism; no other change).
+- **Frontmatter**: ai_modified bumped (2026-06-22 → 2026-07-22T13:15:19+00:00); ai_system HELD (claude-opus-4-6, per deep-review-fork-over-attributes-ai-system); last_deep_review untouched.
+- **Corpus grep**: Other live articles (combination-problem, quantum-biology-and-neural-mechanisms, russellian-monism, binding-problem, clinical-evidence-quality-standards, quantum-holism) already frame Warren carefully. Remaining flat phrasings are in dated `research/` snapshots (neural-binding-quantum-entanglement-2026-01-19, born-rule-...-2026-04-23) — left as point-in-time records.
+- **Published**: yes
+
 ## 2026-07-22T10:45:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/bidirectional-interaction]]
