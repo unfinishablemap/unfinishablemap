@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-07-14T15:28:00+00:00
+ai_modified: 2026-07-22T17:16:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ These lines are independent—pharmacological evidence does not depend on direct
 
 ## Why This Matters for Consciousness
 
-The connection runs through the [[measurement-problem]]. Physics provides probabilities but is silent on what determines which outcome becomes actual; the Map's position is that consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [[conservation-laws-and-mental-causation|conservation laws]]—[[forward-in-time-conscious-selection|non-retrocausal conscious selection]], the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. The Map's most developed account is [[apex/post-decoherence-selection-programme|the post-decoherence selection programme]], where consciousness biases which outcome emerges from the classical mixture *after* decoherence completes—a route not requiring sustained coherence at neural timescales. This is the substrate side of the [[topics/consciousness-and-integrated-information#integration-as-selective-activity|integration-as-activity]] view: integration is something consciousness *does*. Quantum biology bears on this substrate question unevenly across Tenet 2's three sub-readings, which the next section allocates explicitly.
+The connection runs through the [[measurement-problem]]. Physics provides probabilities but is silent on what determines which outcome becomes actual; the Map's position is that consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [[conservation-laws-and-mental-causation|conservation laws]]—[[forward-in-time-conscious-selection|non-retrocausal conscious selection]], the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. The Map's most developed account is [[apex/post-decoherence-selection-programme|the post-decoherence selection programme]], where consciousness biases which outcome becomes actual from the improper reduced-state mixture *after* decoherence completes—a route not requiring sustained coherence at neural timescales. This is the substrate side of the [[topics/consciousness-and-integrated-information#integration-as-selective-activity|integration-as-activity]] view: integration is something consciousness *does*. Quantum biology bears on this substrate question unevenly across Tenet 2's three sub-readings, which the next section allocates explicitly.
 
 ## The Calibration Table
 

@@ -5,6 +5,14 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T17:16:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]] (+ 6 corpus-wide)
+- **Original score**: n/a (targeted terminology fix from outer review 2026-07-20 ChatGPT 5.6 Pro, finding 4.7)
+- **Changes**: Replaced the post-decoherence "classical mixture" phrasing with "improper reduced-state mixture" across the corpus, matching the framing in [[apex/post-decoherence-selection-programme]] (improper mixture does not license the conclusion that a definite outcome already obtains — d'Espagnat 1976). In `tenets/tenets.md` (l.68 Minimal Quantum Interaction, l.88 Bidirectional Interaction) and `concepts/von-neumann-wigner-interpretation.md` also made explicit that outcome selection is an *additional actualisation postulate*, not a pick from a pre-existing classical menu of already-definite alternatives. Corpus sweep of the same category-error phrasing also fixed: `topics/consciousness-and-integrated-information`, `project/mechanism-cost-ledger`, `apex/self-concealing-interface`, `topics/hylomorphic-dualism-and-the-interaction-problem`, `topics/quantum-biology-and-neural-consciousness`, `topics/decoherence-and-macroscopic-superposition`. Left legitimate distinct usages untouched: `forward-in-time-conscious-selection` (Stapp/Zeno — no superposition to project onto) and `brain-internal-born-rule-testing` (classical mixtures as statistical foil).
+- **Attribution**: bumped ai_modified on all 8 files; HELD ai_system on each (terminology fix, not re-authoring). Length-neutral.
+- **Published**: yes
+
 ## 2026-07-22T16:17:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/entanglement-binding-hypothesis]]
