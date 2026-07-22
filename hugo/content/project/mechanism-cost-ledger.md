@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-05-27 22:03:08+00:00
+ai_modified: 2026-07-22 17:16:52+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -90,7 +90,7 @@ The two also differ in what they protect against. The cartography guards against
 
 ### Post-decoherence selection
 
-The Map's most-endorsed mechanism. **Mechanism named:** consciousness biasing which definite outcome emerges from the classical mixture left after decoherence completes. **Additional commitments:** a real actualisation event at which selection can occur; a conservation-respecting amplification pathway from quantum-scale selection to macroscopic outcome. **Empirical exposure:** the amplification gap — whether single-outcome amplification signatures are detectable in principle — is the live contestable commitment; it does *not* inherit the decoherence-timescale dispute, which is the mechanism's chief selling point over coherence-requiring rivals. **Leaner neighbour:** bare interactionism with no specified selection locus owes less but buys no timing answer; post-decoherence selection buys escape from the timescale objection. **Tenet-5 status:** the ontological cost (positing a real selection event) is partly parsimony-discountable; the empirical cost (the undetected amplification signature) survives Tenet 5 entirely and must not be discharged by citing it. The entry is honest because it concedes the second cost rather than folding it into the first.
+The Map's most-endorsed mechanism. **Mechanism named:** consciousness biasing which outcome becomes actual from the improper reduced-state mixture left after decoherence completes. **Additional commitments:** a real actualisation event at which selection can occur; a conservation-respecting amplification pathway from quantum-scale selection to macroscopic outcome. **Empirical exposure:** the amplification gap — whether single-outcome amplification signatures are detectable in principle — is the live contestable commitment; it does *not* inherit the decoherence-timescale dispute, which is the mechanism's chief selling point over coherence-requiring rivals. **Leaner neighbour:** bare interactionism with no specified selection locus owes less but buys no timing answer; post-decoherence selection buys escape from the timescale objection. **Tenet-5 status:** the ontological cost (positing a real selection event) is partly parsimony-discountable; the empirical cost (the undetected amplification signature) survives Tenet 5 entirely and must not be discharged by citing it. The entry is honest because it concedes the second cost rather than folding it into the first.
 
 ### Orch OR microtubule coherence
 

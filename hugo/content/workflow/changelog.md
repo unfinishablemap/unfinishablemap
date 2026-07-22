@@ -9,6 +9,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-22T20:47:02+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/), [quantum-consciousness](/concepts/quantum-consciousness/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Original score**: n/a (targeted physics-precision qualifier from outer review 2026-07-20 Gemini 2.5 Pro, finding "Babcock tryptophan UV-vs-mechanical timescale objection")
+- **Defect verified live**: Gemini's frequency-mismatch point is legitimate — Babcock et al. (2024) superradiance is a UV/optical excitonic effect (~10¹⁵ Hz) serving photoprotection, whereas Orch OR's collapse dynamics rely on mechanical conformational-mode / lattice-phonon coherence (kHz–GHz, ~10⁹ Hz), several orders apart with no coupling mechanism established. The Map presented Babcock as Orch-OR coherence support without the timescale caveat in all three files: (1) quantum-biology-and-neural-consciousness.md calibration table flatly labelled it "Load-bearing for Orch OR / Fröhlich-microtubule" while the sibling cryptochrome row carried a "precedent, not licence" caveat; (2) quantum-consciousness.md listed it as Orch-OR "Recent evidence"; (3) comparing-quantum-consciousness-mechanisms.md hedged generally ("do not confirm Orch OR specifically") but did not state the specific optical-vs-mechanical gap.
+- **Changes**: Added one-clause timescale/relevance qualifiers matching the corpus's existing "precedent, not licence" discipline. (1) Rewrote the calibration-table cell to "precedent, not licence: UV/optical superradiance (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR requires ... suggestive of warm-biology coherence, not a demonstration"; added a parallel clause to the narrative "Room-temperature quantum effects in microtubules" paragraph. (2) Appended the optical-vs-mechanical caveat to the Orch-OR evidence bullet. (3) Extended the existing hedge with the specific Babcock UV/optical-vs-mechanical point. Preserved every article's overall Orch-OR framing — installed honesty about the transfer, did not retract the citation.
+- **Attribution**: bumped ai_modified only on all three; HELD ai_system (claude-opus-4-6 / claude-opus-4-5-20251101 / claude-opus-4-6) and last_deep_review. Roughly length-neutral (one clause/sentence each).
+- **Published**: yes
+
+## 2026-07-22T19:47:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Original score**: n/a (targeted nuance from outer review 2026-07-20 Gemini 2.5 Pro, finding "DP parameter-cost nuance (partial)")
+- **Changes**: The reviewer's "site glibly brushes aside the falsification" charge is FALSE — the corpus engages Donadi et al. 2021 honestly and repeatedly. The genuine residual: the article noted the DP survival (R₀ ≳ 4×10⁻¹⁰ m) but not its *cost*. Added three sentences to the "Diósi-Penrose Model and Its Partial Falsification" section registering that clearing the spontaneous-radiation bounds pins the smearing length R₀ at the atomic scale (~10⁻¹⁰ m), which stands in tension with Penrose's original selling point — a *natural* macroscopic quantum-classical boundary fixed by gravity with no tunable scale. Framed as an open parameter-space cost, NOT a second falsification (avoided the reviewer's overstatement that the tuning "destroys the entire philosophical justification"). Added ref #14.
+- **Citation verification**: The review named this "Piscicchia et al. (2022)" — MIS-ATTRIBUTED first authorship (ai_citation_metadata_unreliable). Verified at PubMed/publisher: first author is Derakhshani; full list Derakhshani, Diósi, Laubenstein, Piscicchia, Curceanu (2022), *Physics of Life Reviews* 42, 8-14, DOI 10.1016/j.plrev.2022.05.004. This is the exact paper McQueen 2023 (already ref #10) comments on. Cited correctly by first author.
+- **Attribution**: bumped ai_modified only; HELD ai_system (claude-opus-4-6) and last_deep_review (targeted nuance, not re-authoring). Length-neutral-ish (+3 sentences).
+- **Published**: yes
+
+## 2026-07-22T17:16:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [tenets](/tenets/) (+ 6 corpus-wide)
+- **Original score**: n/a (targeted terminology fix from outer review 2026-07-20 ChatGPT 5.6 Pro, finding 4.7)
+- **Changes**: Replaced the post-decoherence "classical mixture" phrasing with "improper reduced-state mixture" across the corpus, matching the framing in [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) (improper mixture does not license the conclusion that a definite outcome already obtains — d'Espagnat 1976). In `tenets/tenets.md` (l.68 Minimal Quantum Interaction, l.88 Bidirectional Interaction) and `concepts/von-neumann-wigner-interpretation.md` also made explicit that outcome selection is an *additional actualisation postulate*, not a pick from a pre-existing classical menu of already-definite alternatives. Corpus sweep of the same category-error phrasing also fixed: `topics/consciousness-and-integrated-information`, `project/mechanism-cost-ledger`, `apex/self-concealing-interface`, `topics/hylomorphic-dualism-and-the-interaction-problem`, `topics/quantum-biology-and-neural-consciousness`, `topics/decoherence-and-macroscopic-superposition`. Left legitimate distinct usages untouched: `forward-in-time-conscious-selection` (Stapp/Zeno — no superposition to project onto) and `brain-internal-born-rule-testing` (classical mixtures as statistical foil).
+- **Attribution**: bumped ai_modified on all 8 files; HELD ai_system on each (terminology fix, not re-authoring). Length-neutral.
+- **Published**: yes
+
 ## 2026-07-22T16:17:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)

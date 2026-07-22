@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-07-18 10:25:20+00:00
+ai_modified: 2026-07-22 17:16:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -119,7 +119,7 @@ The demonstrations that quantum effects can operate in warm biological systems (
 
 Even if decoherence were complete and instantaneous, a conceptual opening for consciousness remains.
 
-Decoherence selects the *basis* in which a system becomes classical—why we observe positions rather than momentum superpositions, for instance. But decoherence does not select which *outcome* within that basis becomes actual. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this picture: Zurek's framework shows how environmental redundancy makes pointer states objectively accessible to independent observers, yet the outcome gap persists. After decoherence and environmental amplification have done their work, physics describes a classical mixture: the particle is *either* here *or* there, with definite probabilities, but something must determine which.
+Decoherence selects the *basis* in which a system becomes classical—why we observe positions rather than momentum superpositions, for instance. But decoherence does not select which *outcome* within that basis becomes actual. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this picture: Zurek's framework shows how environmental redundancy makes pointer states objectively accessible to independent observers, yet the outcome gap persists. After decoherence and environmental amplification have done their work, physics describes an improper reduced-state mixture: it looks *as if* the particle is *either* here *or* there with definite probabilities, but nothing in the formalism makes an outcome definite, and something must determine which.
 
 This is the [measurement-problem](/concepts/measurement-problem/), and it persists regardless of how fast or complete decoherence is. The Map's perspective holds that consciousness could act at this point—not by maintaining coherent superpositions against decoherence, but by biasing which outcome becomes actual when quantum indeterminacy resolves.
 
