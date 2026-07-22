@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-07-14T15:33:28+00:00
+ai_modified: 2026-07-22T20:47:02+00:00
 last_deep_review: 2026-07-19T03:28:47+00:00
 draft: false
 topics:
@@ -71,7 +71,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 **Tenet alignment: Mixed.** Supports [[tenets#^dualism|Dualism]] (Penrose's Gödelian argument), [[tenets#^bidirectional-interaction|Bidirectional Interaction]], and [[tenets#^no-many-worlds|No Many Worlds]]. But it sits uneasily with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] — demanding macroscopic quantum coherence, and Penrose's proto-conscious OR events imply panpsychism the Map does not endorse.
 
-**Empirical status: Growing but contested.** Circumstantial support from microtubule-stabilising epothilone B delaying [[anaesthesia-and-the-consciousness-interface|anaesthesia]] (Khan et al. 2024), room-temperature tryptophan superradiance (Babcock et al. 2024), a computationally predicted (613 ± 8) THz collective tubulin oscillation peak whose disruption by anaesthetics tracks clinical potency (Craddock et al. 2017, *Scientific Reports* — a molecular-dynamics / quantum-chemistry result reviewed in Wiest 2025), and integration with Friston's active inference framework (Wiest & Puniani 2025). The Craddock prediction is a computational signature awaiting direct experimental verification rather than an observation awaiting replication. These lines establish microtubule relevance to consciousness but do not confirm Orch OR specifically.
+**Empirical status: Growing but contested.** Circumstantial support from microtubule-stabilising epothilone B delaying [[anaesthesia-and-the-consciousness-interface|anaesthesia]] (Khan et al. 2024), room-temperature tryptophan superradiance (Babcock et al. 2024), a computationally predicted (613 ± 8) THz collective tubulin oscillation peak whose disruption by anaesthetics tracks clinical potency (Craddock et al. 2017, *Scientific Reports* — a molecular-dynamics / quantum-chemistry result reviewed in Wiest 2025), and integration with Friston's active inference framework (Wiest & Puniani 2025). The Craddock prediction is a computational signature awaiting direct experimental verification rather than an observation awaiting replication. These lines establish microtubule relevance to consciousness but do not confirm Orch OR specifically—and the Babcock superradiance in particular is a UV/optical effect (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's dynamics require, so it is suggestive precedent rather than a demonstration of the mechanism.
 
 **Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2021) have ruled out the simplest Diósi-Penrose model — the parameter space is shrinking. Emerging NV-centre diamond quantum sensors may enable direct in vivo measurement. See [[penrose-gravity-induced-collapse-empirical-prospects|Penrose Gravity-Induced Collapse and Empirical Prospects]] for the full experimental landscape.
 

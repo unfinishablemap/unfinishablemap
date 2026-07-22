@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-07-22T17:16:52+00:00
+ai_modified: 2026-07-22T20:47:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ The most-cited pharmacological line linking quantum effects to consciousness com
 
 ## Direct Measurements in Neural Components
 
-**Room-temperature quantum effects in microtubules.** Babcock et al. (2024) demonstrated ultraviolet superradiance—a collective quantum phenomenon—in tubulin tryptophan networks at physiological temperatures.
+**Room-temperature quantum effects in microtubules.** Babcock et al. (2024) demonstrated ultraviolet superradiance—a collective quantum phenomenon—in tubulin tryptophan networks at physiological temperatures. This is an optical/electronic effect (~10¹⁵ Hz), not the mechanical conformational-mode coherence Orch OR's collapse dynamics require, so it is suggestive precedent for warm-biology coherence rather than a demonstration of the microtubule mechanism itself.
 
 **Brain entanglement signatures.** Kerskens and López Pérez (2022) detected MRI signals in conscious subjects consistent with entangled proton spins, which disappeared during sleep and correlated with working memory. Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no classical account of why the signal tracks sleep versus waking. The dispute is unresolved and unreplicated.
 
@@ -134,7 +134,7 @@ The table specifies which Tenet 2 sub-reading each piece of evidence actually be
 |---|---|---|---|
 | Cryptochrome / radical-pair magnetoreception (Denton 2024, Luo 2025) | Precedent, not licence: transferring a specialised photoactivated retinal sensor's coherence to deep-brain non-photonic structures is an unearned leap absent in-vivo neural-coherence evidence | Warm biology can host quantum function | Orthogonal; corridor needs no neural coherence |
 | Enzyme tunnelling and photosynthetic coherence | Background precedent for any pre-decoherence proposal; not load-bearing for a specific neural mechanism | Yes | Orthogonal |
-| UV superradiance in microtubule tryptophan networks (Babcock 2024) | Load-bearing for Orch OR / Fröhlich-microtubule | Yes; corridor does not depend on microtubule coherence | Orthogonal |
+| UV superradiance in microtubule tryptophan networks (Babcock 2024) | Precedent, not licence: Babcock's effect is UV/optical superradiance (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, and no coupling between the two regimes is established — suggestive of warm-biology coherence, not a demonstration of the Orch OR / Fröhlich-microtubule mechanism | Yes; corridor does not depend on microtubule coherence | Orthogonal |
 | Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz prediction (Craddock 2017) | Load-bearing for Orch OR–style proposals: anaesthesia tracks microtubule quantum disruption | Anaesthesia engages *some* substrate, compatible with a post-decoherence interface | Orthogonal at the Born-rule layer; at most ancillary substrate evidence |
 | Posner-molecule lithium isotope effects (Fisher 2015; Esmaeilpour 2025) | Load-bearing for Fisher's nuclear-spin pre-decoherence proposal | Nuclear-spin coherence is one substrate a post-decoherence interface could use | Orthogonal |
 | Kerskens & López Pérez brain-entanglement MRI (2022); Warren 2023 critique; twin EEG (Escolà-Gascón 2025) | Load-bearing for any proposal predicting macroscopic neural entanglement, if replications hold | At most; post-decoherence path needs no macroscopic entanglement | Orthogonal; corridor's programme is [[brain-internal-born-rule-testing]] |

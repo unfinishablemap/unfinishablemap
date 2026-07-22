@@ -5,6 +5,15 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T20:47:02+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/quantum-biology-and-neural-consciousness]], [[concepts/quantum-consciousness]], [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Original score**: n/a (targeted physics-precision qualifier from outer review 2026-07-20 Gemini 2.5 Pro, finding "Babcock tryptophan UV-vs-mechanical timescale objection")
+- **Defect verified live**: Gemini's frequency-mismatch point is legitimate — Babcock et al. (2024) superradiance is a UV/optical excitonic effect (~10¹⁵ Hz) serving photoprotection, whereas Orch OR's collapse dynamics rely on mechanical conformational-mode / lattice-phonon coherence (kHz–GHz, ~10⁹ Hz), several orders apart with no coupling mechanism established. The Map presented Babcock as Orch-OR coherence support without the timescale caveat in all three files: (1) quantum-biology-and-neural-consciousness.md calibration table flatly labelled it "Load-bearing for Orch OR / Fröhlich-microtubule" while the sibling cryptochrome row carried a "precedent, not licence" caveat; (2) quantum-consciousness.md listed it as Orch-OR "Recent evidence"; (3) comparing-quantum-consciousness-mechanisms.md hedged generally ("do not confirm Orch OR specifically") but did not state the specific optical-vs-mechanical gap.
+- **Changes**: Added one-clause timescale/relevance qualifiers matching the corpus's existing "precedent, not licence" discipline. (1) Rewrote the calibration-table cell to "precedent, not licence: UV/optical superradiance (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR requires ... suggestive of warm-biology coherence, not a demonstration"; added a parallel clause to the narrative "Room-temperature quantum effects in microtubules" paragraph. (2) Appended the optical-vs-mechanical caveat to the Orch-OR evidence bullet. (3) Extended the existing hedge with the specific Babcock UV/optical-vs-mechanical point. Preserved every article's overall Orch-OR framing — installed honesty about the transfer, did not retract the citation.
+- **Attribution**: bumped ai_modified only on all three; HELD ai_system (claude-opus-4-6 / claude-opus-4-5-20251101 / claude-opus-4-6) and last_deep_review. Roughly length-neutral (one clause/sentence each).
+- **Published**: yes
+
 ## 2026-07-22T19:47:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
