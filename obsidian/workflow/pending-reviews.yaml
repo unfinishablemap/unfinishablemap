@@ -136,3 +136,29 @@
   subject_articles:
   - concepts/phenomenal-conservatism.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-21-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a602879-6f08-83ed-a1a8-085818506233
+  commissioned_at: '2026-07-22T02:18:54.826838+00:00'
+  prompt_summary: Audit lived-objectified-body-distinction (GPT-5.6 Sol Pro)
+  target_filename: outer-review-2026-07-22-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous outer review of an article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind project: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
+    - last substantively revised 2026-07-15. The site''s recent activity log is at
+    https://unfinishablemap.org/workflow/changelog/ (web indexes lag 24-48h, so consult
+    it for current context). Audit the article''s claims, citations, and reasoning.
+    Are its uses of phenomenological sources (Husserl, Merleau-Ponty, the Leib/Korper
+    distinction) accurate and verbatim where quoted? Where does it lean on insufficient
+    evidence or skip live counterarguments - for instance enactivist or predictive-processing
+    objections to a sharp lived/objectified split? Does it bracket difficulties in
+    a tenet-protective way, or rest on stale references? Assess how well it integrates
+    with surrounding concept and topic articles. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit lived-objectified-body-distinction
+  subject_articles:
+  - concepts/lived-objectified-body-distinction.md
+  subject_source: fallback:recent-aged
