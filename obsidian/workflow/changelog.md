@@ -5,6 +5,15 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T19:47:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
+- **Original score**: n/a (targeted nuance from outer review 2026-07-20 Gemini 2.5 Pro, finding "DP parameter-cost nuance (partial)")
+- **Changes**: The reviewer's "site glibly brushes aside the falsification" charge is FALSE — the corpus engages Donadi et al. 2021 honestly and repeatedly. The genuine residual: the article noted the DP survival (R₀ ≳ 4×10⁻¹⁰ m) but not its *cost*. Added three sentences to the "Diósi-Penrose Model and Its Partial Falsification" section registering that clearing the spontaneous-radiation bounds pins the smearing length R₀ at the atomic scale (~10⁻¹⁰ m), which stands in tension with Penrose's original selling point — a *natural* macroscopic quantum-classical boundary fixed by gravity with no tunable scale. Framed as an open parameter-space cost, NOT a second falsification (avoided the reviewer's overstatement that the tuning "destroys the entire philosophical justification"). Added ref #14.
+- **Citation verification**: The review named this "Piscicchia et al. (2022)" — MIS-ATTRIBUTED first authorship (ai_citation_metadata_unreliable). Verified at PubMed/publisher: first author is Derakhshani; full list Derakhshani, Diósi, Laubenstein, Piscicchia, Curceanu (2022), *Physics of Life Reviews* 42, 8-14, DOI 10.1016/j.plrev.2022.05.004. This is the exact paper McQueen 2023 (already ref #10) comments on. Cited correctly by first author.
+- **Attribution**: bumped ai_modified only; HELD ai_system (claude-opus-4-6) and last_deep_review (targeted nuance, not re-authoring). Length-neutral-ish (+3 sentences).
+- **Published**: yes
+
 ## 2026-07-22T17:16:52+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[tenets/tenets]] (+ 6 corpus-wide)
