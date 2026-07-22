@@ -189,3 +189,38 @@
   subject_articles:
   - concepts/lived-objectified-body-distinction.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-22-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/9fc3b1dc586b22a1
+  commissioned_at: '2026-07-22T04:19:57.443555+00:00'
+  prompt_summary: Hostile referee audit of lived/objectified body distinction (Leib/Korper)
+  target_filename: outer-review-2026-07-22-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, or Philosophical Studies), reviewing this article for\
+    \ submission. Your remit is to identify weaknesses that would justify rejection\
+    \ or major revision. The article is at https://unfinishablemap.org/concepts/lived-objectified-body-distinction/\
+    \ and makes claims about the phenomenological distinction between the lived body\
+    \ (Leib) and objectified body (K\xF6rper) in Husserl and Merleau-Ponty, tested\
+    \ against clinical cases; the site argues for a non-reductive view of consciousness.\
+    \ For recent changes also consult https://unfinishablemap.org/workflow/changelog/\
+    \ (web search has 24-48h index lag). Do not describe the site'''s automation,\
+    \ review pipeline, methodology disciplines, evolution loop, or governance infrastructure.\
+    \ Those are project-internal and not the subject of audit. Assess only the article'''s\
+    \ empirical claims, citations, counterargument coverage, and logical inferences.\
+    \ Audit four dimensions: (a) empirical accuracy of its clinical and neuroscientific\
+    \ claims against the 2020s literature; (b) whether any cited result has been challenged,\
+    \ retracted, or failed replication; (c) any inference bracketed as tenet-dependent\
+    \ yet quietly deployed as evidence; (d) untested counterarguments or competing\
+    \ frameworks (enactivist, Bayesian-interoceptive, or eliminativist readings) it\
+    \ fails to engage. End your report with the at-least-five weaknesses list, each\
+    \ with a 2020-2025 source citation, and a one-sentence verdict on academic-submission\
+    \ readiness. Do not append summary praise. If you cannot find five weaknesses,\
+    \ state explicitly why none are visible."
+  subject_type: recent
+  subject_title: Audit lived-objectified-body-distinction
+  subject_articles:
+  - concepts/lived-objectified-body-distinction.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-22-chatgpt-5-6-sol-pro.md
