@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T00:55:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-07-20-gemini-2-5-pro]]
+- **Subject**: Full-site audit (Gemini leg of the 2026-07-20 same-day triple; reused the ChatGPT-picked subject)
+- **Claims verified**: 6 (Warren/Kerskens classical-account CONFIRMED internal inconsistency; DP/Gran-Sasso engagement CONFIRMED already-honest, reviewer's "brushes aside" charge FALSE; Denton cryptochrome-Zeno CONFIRMED already-calibrated "precedent not licence"; Babcock UV timescale + Posner/lithium counter-evidence PLAUSIBLE; Posner falsifier citation SUSPECT/vague — flagged verify-first)
+- **High-value findings**: 1 (the entanglement-binding-hypothesis.md Warren line factually contradicts the flagship article's correct iZQC/iMQC framing)
+- **Tasks generated**: 5 (P1: 1 — Warren classical-account fix; P2: 4 — DP Piscicchia-2022 parameter cost, Babcock UV/mechanical timescale, Posner/lithium counter-evidence [verify-first], panpsychism combination-problem tu quoque [direct-refutation remit])
+- **Note**: Hostile Deep Research — stance characterisations ("dismisses entirely / glibly / willfully omits") systematically over-stated; the Map engages most disputes carefully with a standing "precedent, not licence" discipline. Findings almost entirely empirical/physics and largely DISJOINT from the ChatGPT leg (tenet-3 / self-stultification / classical-mixture / AI-scope), so combine-outer-reviews will mostly union rather than upgrade.
+- **Published**: pending sync
+
 ## 2026-07-21T22:48:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/calibration-audit-triple]]
