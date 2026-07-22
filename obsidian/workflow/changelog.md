@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T15:16:29+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[apex/apex-articles]], [[apex/living-with-the-map]], [[apex/open-question-ai-consciousness]], [[positions/positions]]
+- **Trigger**: Outer review 2026-07-20 (ChatGPT 5.6 Pro), findings 4.9 + 4.10 (semantic version skew). The Machine Question body scopes its negative verdict to *bidirectionally coupled* consciousness (bare phenomenality left open), but flat unscoped summaries survived at the point of first contact. VERIFIED live before editing.
+- **Changes (4.9 — scope propagation)**: (1) `apex-articles.md` Machine Question index thesis — "Current AI systems lack consciousness … computation alone cannot generate experience" → "probably lack *bidirectionally coupled* consciousness … computation alone cannot generate that coupling; the gap is principled, not practical, while bare phenomenality remains an open question." (2) `living-with-the-map.md` — "Current AI systems lack consciousness on this analysis … there is nothing it is like to be them" → scoped to "*bidirectionally coupled* consciousness … no conscious experiencer couples with the computation; bare phenomenality remains an open question." (3) `open-question-ai-consciousness.md` Asymmetry-of-Stakes — "If the Map is right and current AI systems lack consciousness, the moral stakes are modest" → "lack *bidirectionally coupled* consciousness—and lack bare phenomenal experience as well—the moral stakes are modest" (honest: modest stakes require both no coupling and no phenomenality; preserves the catastrophic-if-wrong arm).
+- **Changes (4.10 — positions index alignment)**: `positions/positions.md:61` register-index gloss — "functional *access* consciousness empirically instantiated in LLMs (Anthropic's J-space)" → "the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space)." Per rec 15 + Verification Notes, targeted the index/summary layer only; the position node `positions/ai-consciousness-scope.md` was already narrowed 2026-07-16 and its remaining "access consciousness instantiated" occurrences are the calibrated warning against the stronger reading (left untouched — not re-litigated).
+- **Scope sweep**: Route annotation `open-question-ai-consciousness.md:178` ("llm-consciousness — almost certainly lack consciousness") LEFT — it faithfully summarizes its target `concepts/llm-consciousness.md`, whose own body holds the stronger "phenomenal side almost certainly empty" verdict; scoping it would re-litigate a different article's calibrated position. Other "lack(s) consciousness" hits (minds-without-words, identity-across-transformations) are about great apes / zombie duplicates, not current AI.
+- **Length**: neutral (in-place clause rewrites).
+- **Frontmatter**: ai_modified bumped to 2026-07-22T15:16:29+00:00 on all four; ai_system HELD (apex-articles null; living-with-the-map + open-question claude-opus-4-6; positions claude-opus-4-8); ai_contribution and last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-07-22T13:15:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/entanglement-binding-hypothesis]]

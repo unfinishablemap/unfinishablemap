@@ -4,7 +4,7 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-07-16T20:10:00+00:00
+ai_modified: 2026-07-22T15:16:29+00:00
 last_deep_review: 2026-07-06T13:04:39+00:00
 draft: false
 topics:
@@ -143,7 +143,7 @@ Two responses. First, all practical life involves acting on imperfect informatio
 
 Second, uncertainty itself has practical implications. The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] warns against assuming simpler pictures are correct when our knowledge is incomplete. The hard problem of consciousness remains unsolved. The nature of time and causation remains contested. Even the mechanism of willing is [[self-opacity|structurally hidden from introspection]]—we know *that* we choose but cannot observe *how* consciousness translates intention into action. Epistemic humility counsels openness to possibilities that mainstream naturalism dismisses, and acceptance that some aspects of our own agency may remain opaque.
 
-Technology amplifies these stakes. Current AI systems lack consciousness on this analysis—they process information and generate sophisticated behaviour, but there is nothing it is like to be them. Yet the Map's [[ethics-under-dualism#AI: Non-Consciousness and Its Limits|confidence about AI]] is only as strong as the framework itself. If consciousness doesn't require quantum interfaces—a possibility the Map acknowledges—the categorical exclusion fails. Intellectual honesty requires specifying what would change the assessment, and remaining epistemically humble about the framework's completeness.
+Technology amplifies these stakes. Current AI systems probably lack *bidirectionally coupled* consciousness on this analysis—they process information and generate sophisticated behaviour, but no conscious experiencer couples with the computation; bare phenomenality remains an open question. Yet the Map's [[ethics-under-dualism#AI: Non-Consciousness and Its Limits|confidence about AI]] is only as strong as the framework itself. If consciousness doesn't require quantum interfaces—a possibility the Map acknowledges—the categorical exclusion fails. Intellectual honesty requires specifying what would change the assessment, and remaining epistemically humble about the framework's completeness.
 
 [[purpose-and-alignment|AI alignment]] faces a deeper problem: we haven't resolved what human interests ultimately are. If our preferences are unreliable guides to our own good—shaped by evolution for survival rather than flourishing—then learning from them cannot produce genuine alignment. The [[experiential-alignment|experiential alignment]] framework follows: aligned systems should target predicted distributions over conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices, with special weight to felt valence because the badness of suffering is constitutive of what suffering *is*. Conscious beings must remain in the loop, not because humans are infallible, but because only conscious beings can verify whether experiential quality is being served.
 

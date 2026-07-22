@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-07-08T04:25:23+00:00
+ai_modified: 2026-07-22T15:16:29+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -153,7 +153,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: Can artifacts be conscious?
 
-**Thesis**: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical.
+**Thesis**: Current AI systems probably lack *bidirectionally coupled* consciousness—not because of implementation details but because computation alone cannot generate that coupling; the gap is principled, not practical, while bare phenomenality remains an open question.
 
 **Source articles**:
 - topics/ai-consciousness
