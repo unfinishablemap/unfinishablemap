@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T16:17:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/entanglement-binding-hypothesis]]
+- **Word count**: 2513 → 2513 (+0; length-neutral, References line only)
+- **Critical issues addressed**: 1 (Warren-2023 orphan inline citation — web-verified at IOPscience/ADS and added as References #12, doi:10.1088/2399-6528/acc4a8)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (seventh review; converged — diff-scoped to two post-baseline changes; both confirmed correct calibration-conservative refines)
+- **Notes**: 2026-07-22 refine's Warren iZQC/iMQC claim web-verified accurate. Saxena 2020 reverse-orphan deferred (background ref, no churn). ai_system left claude-opus-4-6 (not re-authored). Engagement modes unchanged (Georgiev = Mode One; no label leakage).
+- **Output**: [[reviews/deep-review-2026-07-22-entanglement-binding-hypothesis]]
+
 ## 2026-07-22T15:16:29+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[apex/apex-articles]], [[apex/living-with-the-map]], [[apex/open-question-ai-consciousness]], [[positions/positions]]
