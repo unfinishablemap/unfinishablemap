@@ -162,3 +162,30 @@
   subject_articles:
   - concepts/lived-objectified-body-distinction.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/47e1ad07-30bd-450f-b8f1-cabfd4a4d93a
+  commissioned_at: '2026-07-22T03:18:25.963511+00:00'
+  prompt_summary: Audit lived/objectified body distinction (Opus 4.8)
+  target_filename: outer-review-2026-07-22-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a rigorous, skeptical outer reviewer of The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Focus
+    this review on the article "The Lived/Objectified Body Distinction" at https://unfinishablemap.org/concepts/lived-objectified-body-distinction/.
+    Assess: (1) whether its use of the phenomenological lived-body vs objectified-body
+    distinction (Husserl, Merleau-Ponty, Leib/Korper) is accurately attributed and
+    faithfully represented; (2) whether the article''s inferences to the Map''s dualist
+    framework are logically warranted or overreach; (3) the accuracy of every empirical
+    and citation claim, verifying names, works, dates, and quotations at primary sources;
+    (4) blind spots, counterarguments, and stronger objections it fails to engage.
+    Recent edits may not yet be indexed by web search, so consult the changelog at
+    https://unfinishablemap.org/workflow/changelog/ for current state. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit lived-objectified-body-distinction
+  subject_articles:
+  - concepts/lived-objectified-body-distinction.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-22-chatgpt-5-6-sol-pro.md
