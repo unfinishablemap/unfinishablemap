@@ -9,6 +9,37 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-22T16:17:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 2513 → 2513 (+0; length-neutral, References line only)
+- **Critical issues addressed**: 1 (Warren-2023 orphan inline citation — web-verified at IOPscience/ADS and added as References #12, doi:10.1088/2399-6528/acc4a8)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (seventh review; converged — diff-scoped to two post-baseline changes; both confirmed correct calibration-conservative refines)
+- **Notes**: 2026-07-22 refine's Warren iZQC/iMQC claim web-verified accurate. Saxena 2020 reverse-orphan deferred (background ref, no churn). ai_system left claude-opus-4-6 (not re-authored). Engagement modes unchanged (Georgiev = Mode One; no label leakage).
+- **Output**: [deep-review-2026-07-22-entanglement-binding-hypothesis](/reviews/deep-review-2026-07-22-entanglement-binding-hypothesis/)
+
+## 2026-07-22T15:16:29+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [apex-articles](/apex/apex-articles/), [living-with-the-map](/apex/living-with-the-map/), [open-question-ai-consciousness](/apex/open-question-ai-consciousness/), [positions](/positions/)
+- **Trigger**: Outer review 2026-07-20 (ChatGPT 5.6 Pro), findings 4.9 + 4.10 (semantic version skew). The Machine Question body scopes its negative verdict to *bidirectionally coupled* consciousness (bare phenomenality left open), but flat unscoped summaries survived at the point of first contact. VERIFIED live before editing.
+- **Changes (4.9 — scope propagation)**: (1) `apex-articles.md` Machine Question index thesis — "Current AI systems lack consciousness … computation alone cannot generate experience" → "probably lack *bidirectionally coupled* consciousness … computation alone cannot generate that coupling; the gap is principled, not practical, while bare phenomenality remains an open question." (2) `living-with-the-map.md` — "Current AI systems lack consciousness on this analysis … there is nothing it is like to be them" → scoped to "*bidirectionally coupled* consciousness … no conscious experiencer couples with the computation; bare phenomenality remains an open question." (3) `open-question-ai-consciousness.md` Asymmetry-of-Stakes — "If the Map is right and current AI systems lack consciousness, the moral stakes are modest" → "lack *bidirectionally coupled* consciousness—and lack bare phenomenal experience as well—the moral stakes are modest" (honest: modest stakes require both no coupling and no phenomenality; preserves the catastrophic-if-wrong arm).
+- **Changes (4.10 — positions index alignment)**: `positions/positions.md:61` register-index gloss — "functional *access* consciousness empirically instantiated in LLMs (Anthropic's J-space)" → "the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space)." Per rec 15 + Verification Notes, targeted the index/summary layer only; the position node `positions/ai-consciousness-scope.md` was already narrowed 2026-07-16 and its remaining "access consciousness instantiated" occurrences are the calibrated warning against the stronger reading (left untouched — not re-litigated).
+- **Scope sweep**: Route annotation `open-question-ai-consciousness.md:178` ("llm-consciousness — almost certainly lack consciousness") LEFT — it faithfully summarizes its target `concepts/llm-consciousness.md`, whose own body holds the stronger "phenomenal side almost certainly empty" verdict; scoping it would re-litigate a different article's calibrated position. Other "lack(s) consciousness" hits (minds-without-words, identity-across-transformations) are about great apes / zombie duplicates, not current AI.
+- **Length**: neutral (in-place clause rewrites).
+- **Frontmatter**: ai_modified bumped to 2026-07-22T15:16:29+00:00 on all four; ai_system HELD (apex-articles null; living-with-the-map + open-question claude-opus-4-6; positions claude-opus-4-8); ai_contribution and last_deep_review untouched.
+- **Published**: yes
+
+## 2026-07-22T13:15:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Trigger**: Outer review 2026-07-20 (Gemini 2.5 Pro, full-site audit) — verified internal inconsistency + factual error. Line 60 stated Warren (2023) "offered no alternative classical account of the observed signal," contradicting the flagship `topics/quantum-biology-and-neural-consciousness.md:87` (Warren DID offer iZQC/iMQC classical account) and the careful framing in `topics/quantum-holism-and-phenomenal-unity.md:148`.
+- **Changes**: Rewrote the Warren sentence to match the flagship: acknowledges Warren's intermolecular zero-/multiple-quantum coherence (iZQC/iMQC) classical mechanism from ordinary magnetic-dipole couplings among water protons, then makes the narrower defensible point that this account does not by itself explain why the signal tracks sleep vs waking. Kept the "contested rather than refuted / unresolved and unreplicated" calibration; did not concede the entanglement reading.
+- **Length**: neutral (one sentence expanded to acknowledge the mechanism; no other change).
+- **Frontmatter**: ai_modified bumped (2026-06-22 → 2026-07-22T13:15:19+00:00); ai_system HELD (claude-opus-4-6, per deep-review-fork-over-attributes-ai-system); last_deep_review untouched.
+- **Corpus grep**: Other live articles (combination-problem, quantum-biology-and-neural-mechanisms, russellian-monism, binding-problem, clinical-evidence-quality-standards, quantum-holism) already frame Warren carefully. Remaining flat phrasings are in dated `research/` snapshots (neural-binding-quantum-entanglement-2026-01-19, born-rule-...-2026-04-23) — left as point-in-time records.
+- **Published**: yes
+
 ## 2026-07-22T10:45:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)

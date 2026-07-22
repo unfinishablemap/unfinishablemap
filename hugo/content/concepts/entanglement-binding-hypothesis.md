@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-06-22 13:46:24+00:00
+ai_modified: 2026-07-22 16:17:55+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Quantum entanglement may be the only physical mechanism providing g
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 13:46:24+00:00
+last_deep_review: 2026-07-22 16:17:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Several lines of evidence have emerged since 2022, though all remain preliminary
 
 Kerskens and López Pérez (2022) developed a novel MRI protocol designed to detect quantum entanglement in the human brain. They observed a signal mimicking heartbeat-evoked potentials that appeared only during waking consciousness—it disappeared when subjects fell asleep. The fidelity of this putative entanglement signal correlated with short-term memory performance.
 
-Warren (2023) challenged the interpretation but offered no alternative classical account of the observed signal. Independent replication has not yet been published.
+Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no account of why such a signal would track sleep versus waking. That residual gap, not the absence of any classical mechanism, is what keeps the entanglement reading contested rather than refuted. The dispute is unresolved and unreplicated, and independent replication has not yet been published.
 
 ### Microtubule-Stabilising Drug Study
 
@@ -136,7 +136,8 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 9. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 10. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
 11. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-12. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-13. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-14. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-15. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+12. Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
+13. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+14. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+15. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+16. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/

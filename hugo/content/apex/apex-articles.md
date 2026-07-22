@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-07-08 04:25:23+00:00
+ai_modified: 2026-07-22 15:16:29+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -155,7 +155,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: Can artifacts be conscious?
 
-**Thesis**: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical.
+**Thesis**: Current AI systems probably lack *bidirectionally coupled* consciousness—not because of implementation details but because computation alone cannot generate that coupling; the gap is principled, not practical, while bare phenomenality remains an open question.
 
 **Source articles**:
 - topics/ai-consciousness
