@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T21:47:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Original score**: n/a (verify-first citation task from outer review 2026-07-20 Gemini 2.5 Pro, finding "Omission of Falsifying Lithium Isotope Data" — flagged CITATION SUSPECT because the reviewer's own attribution was vague/self-contradictory)
+- **Verification (falsifier CONFIRMED REAL at publisher)**: The reviewer's counter-study exists and is quoted accurately. Bukhteeva, Rahman, Kendall, Duncan, Quadrilatero, Pavlov, Gingras & Leonenko (2024), *Frontiers in Physiology* 15:1354091 (PMC11036541, DOI 10.3389/fphys.2024.1354091) — abstract states "no differentiation in the Ca2+ efflux between the two Li+ isotopes was observed" via NCLX; verbatim conclusion "we observed no Li+ isotope differentiation for Ca2+ efflux in mitochondria via NCLX but found a Li+ isotope fractionation during Li+ uptake." (Note: the reviewer's inline byline "Esmaeilpour, Mielke, et al." was WRONG — that is the 2025 *synaptic* preprint the site already cites; the NCLX paper is the Bukhteeva/Gingras/Leonenko group, overlapping lab. The vague-attribution red flag was justified but the underlying source is genuine.)
+- **Balance check (not a clean falsification)**: The reviewer cherry-picked one null from a body of work by the same Waterloo/Gingras/Leonenko lab that overall shows lithium-isotope effects at other calcium-handling loci — (a) isotope fractionation during mitochondrial Li uptake (preferential 6Li, same 2024 paper); (b) isotope-dependent effects on amorphous calcium-phosphate cluster size distribution and mitochondrial calcium capacity (Rahman/Kendall et al. 2023, *Front. Physiol.* PMC10540846: "7Li acted more potently than 6Li on calcium capacity, yet 6Li was more effective at delaying permeability transition"; the central calcium of a Posner cluster can be replaced by two Li ions). So the NCLX-efflux null constrains one proposed route, it does not dismantle the Posner mechanism.
+- **Changes**: Added one balanced sentence to the "Lithium isotope effects" paragraph noting the downstream calcium-signalling step faces contrary biochemical evidence (Bukhteeva et al. 2024 NCLX null), immediately qualified by the same group's uptake-fractionation and calcium-phosphate-cluster isotope effects — "the biochemical picture is genuinely mixed, not a clean falsification." Added reference #23 (Bukhteeva et al. 2024). Empirical-status honesty, not capitulation: original conclusion preserved.
+- **Attribution**: bumped ai_modified only; HELD ai_system (claude-opus-4-6), ai_contribution (100), last_deep_review. Length-neutral (one sentence + one reference).
+- **Published**: yes
+
 ## 2026-07-22T20:47:02+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/quantum-biology-and-neural-consciousness]], [[concepts/quantum-consciousness]], [[topics/comparing-quantum-consciousness-mechanisms]]
