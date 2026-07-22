@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T01:47:27+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-20
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Clusters**: 3 convergent (1 actionable, 2 recorded-only already-addressed), 8 singleton
+- **Tasks upgraded**: 1 (P2→P1: self-stultification recalibration in concepts/bidirectional-interaction.md, flagged by chatgpt+claude)
+- **Tasks deduplicated**: 0 (Claude minted 0 tasks — all its framework findings verified stale; the convergent cluster had a single ChatGPT-side task to which Claude explicitly deferred)
+- **Note**: Unusually disjoint triple by prompt design (ChatGPT=version-skew, Claude=framework-referee, Gemini=empirical-physics-referee). Two framework-level convergences (Born-rule bias-without-deviation dilemma; corrections-don't-propagate methodology theme) recorded as already-engaged — no re-task; the matching 2026-07-19 methodology operator-decision task is already complete.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-20]]
+- **Published**: pending sync
+
 ## 2026-07-22T00:55:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
