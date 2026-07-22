@@ -4,7 +4,7 @@ description: "Open individualism says there is numerically one subject; the de-c
 created: 2026-06-19
 modified: 2026-06-19
 human_modified:
-ai_modified: 2026-06-19T22:13:14+00:00
+ai_modified: 2026-07-22T22:15:01.537057+00:00
 last_deep_review: 2026-07-19T00:55:00+00:00
 draft: false
 topics:
@@ -29,11 +29,22 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-19
 last_curated:
+embedded_videos:
+  - id: cBZilesNMDI
+    url: https://www.youtube-nocookie.com/embed/cBZilesNMDI
+    embedded: 2026-07-22T22:15:01.537057+00:00
+    source: notebooklm/0098-01-open-individualism-and-the-de-combination-problem
 ---
 
 Two ideas in the philosophy of consciousness are routinely run together because both involve "one subject and many"—but they are different claims answering different questions. **Open individualism** is a thesis about *identity*: there is numerically only one subject of experience, who is everyone, and the apparent separation between persons is an illusion of perspective. **The de-combination problem** is a *grounding* problem facing **cosmopsychism**: if one cosmos-sized conscious subject is fundamental, in virtue of what does it ground or fragment into the many "little" subjects we observe? The first is a positive metaphysical position; the second is a difficulty a position must answer. They are cousins, not twins—they meet because any one-subject metaphysics owes an account of the appearance of many, but conflating them obscures both.
 
 This article disambiguates the two, develops each with its primary literature, and shows where they connect. The Unfinishable Map declines both—but for distinct reasons, and the distinction matters. Open individualism is a *rival the Map rejects* on indexical and haecceity grounds. The de-combination problem is a *cost the Map's rivals pay and the Map structurally avoids*, because interactionist dualism posits neither micro-experience nor a single cosmic field, so there is nothing to combine or de-combine. The Map pays the [[interactionist-dualism|interaction problem]] instead.
+
+<details class="yt-embed" data-video-id="cBZilesNMDI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/cBZilesNMDI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Open Individualism: One Subject, Appearing as Many
 
