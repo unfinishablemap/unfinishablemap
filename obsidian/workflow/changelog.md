@@ -5,6 +5,13 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T07:15:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Source review**: [[reviews/outer-review-2026-07-20-chatgpt-5-5-pro]] finding 4.1 (VERIFIED live)
+- **Changes**: Resolved the intra-page tension between the Bidirectional Interaction Definition (line 88) and the Minimal Quantum Interaction discussion (line 102). The Definition previously listed "(c) a Process-1 / context-selection alternative" among "three candidate paths [that] fit the requirement" while making "none of them definitional," yet the later section commits the tenet to outcome-selection and states a Process-1-only relocation "would weaken this tenet." Reframed the Definition: the tenet now commits to outcome-selection as the *kind* of how, with (a) pre-decoherence and (b) post-decoherence as the two non-definitional outcome-selection variants, and (c) context-selection presented as a named *weaker fallback the Map has registered but not adopted* — consistent with line 102's language. Length-neutral (~+25 words); preserved the bias-without-deviation calibration and framework-boundary honesty; no line-102 change needed. Frontmatter: ai_modified bumped, ai_system held (claude-opus-4-7).
+- **Published**: yes
+
 ## 2026-07-22T06:42:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro
