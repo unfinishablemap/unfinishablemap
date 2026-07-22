@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 12:17:30+00:00
+ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-21T22:48:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Task**: Documentation/guidance-only capture of outer-review 2026-07-21 (ChatGPT 5.6 Pro) methodology recs 22–30
+- **Changes**: Added "Proposed: Staged Citation Verification, Concept-Page Freshness, Concept→Application Handoff Audit, Convergence-Lock Register Scoping, Opponent-Parity Convergence Gate (pending human ratification — 2026-07-21 outer-review)" section, following the established 2026-06-26 / 2026-07-19 capture convention. Mapped each rec to its existing-discipline home and marked genuinely-new residue vs convergent confirmation vs article-content guidance: (a) staged three-part citation-verification record (rec 23, residue = staged record over Audit Four b / author-stance check / Audit One); (b) concept-page freshness (rec 24, rides Audit One + scope extension + since-last-review query); (c) source-role/author-direction scope-extension to philosophy concepts (rec 25); (d) concept→application lexical-escalation trigger (recs 26–27, sharpens Audit Three + inferential firewall); (e) convergence-lock register scoping (rec 28 — TOP PICK, failure-grounded, pairs with 2026-07-19 item (g)); (f) opponent-parity gate + human sign-off (recs 29–30, rides strongest-physicalist-rival gate; 30 is a human-authority cadence call); (g) felt-agency background-commitment localisation (rec 22, article-content guidance → background-commitments). NO code, cadence, or skill changes enacted — all items recorded as PROPOSED pending operator ratification per the task's operator-decision framing.
+- **Published**: yes
+
+## 2026-07-21T21:15:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Phenomenal-evidence & steelman-discipline cluster (the-steelman-for-process-monism, the-steelman-for-value-blind-selection, phenomenal-authority-and-first-person-evidence, epistemology, parsimony-epistemology, apex/steelmanning-as-method, project/evidential-status-discipline)
+- **Key finding**: Process Philosopher and Hardline Empiricist personas CONVERGE in praise on the process-monism steelman — Whitehead met at strength while friendliness quarantined from tier-upgrade ("decline is a tenet-grounded choice the Map pays a parsimony cost to make, not a demonstration that process monism is false"). Honest calibration, no refine warranted on that axis. Main opportunity is integration not coverage: the naming apex does not link to its two named exemplars.
+- **Tasks added**: 1 P3 (refine-draft) — reciprocal cross-link of steelmanning-as-method apex with its two exemplars
+- **Output**: [optimistic-2026-07-21](/reviews/optimistic-2026-07-21/)
+
+## 2026-07-21T20:17:15+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [epistemology](/concepts/epistemology/), [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Source**: outer review 2026-07-21 (ChatGPT 5.5 Pro), rec 21 (recurring opponent-parity finding). GREP-VERIFIED all flagged phrasings live before editing.
+- **Changes (epistemology)**: Removed two unsupported superlatives — "the dominant epistemological framework in analytic philosophy privileges third-person evidence" → "a methodological preference for third-person evidence has shaped much of analytic philosophy of mind"; "The most common argument against dualism is that physicalism is simpler" → "A standard argument…". Added a paragraph after the three hidden-assumption block installing the rival matrix: eliminativism/illusionism deny there is first-person data of the relevant kind (so publicity/parsimony assumptions do genuine work against them), whereas the stronger positions — reductive phenomenal realism, phenomenal-concept strategies, representationalism, nonreductive physicalism — accept the first-person data and contest instead the Map's specification of its content and metaphysical implications; framing physicalism as uniformly discounting the data mistakes the weaker opponent for the whole field.
+- **Changes (parsimony-epistemology)**: Removed two "most common objection" superlatives (→ "a standard objection" / "One standard objection…"), neither backed by a corpus/survey. Expanded the Relation-to-Site-Perspective opening into the rival matrix: parsimony is not the whole physicalist case; eliminativism/illusionism dispute the data while reductive phenomenal realism, phenomenal-concept strategies, representationalism, and nonreductive physicalism accept it and contest interpretation; the parsimony argument engages only the data-granting part of the field.
+- **Preserved**: filter/anti-parsimony conclusions and all calibration hedges intact; no argument weakened, only opponent caricature replaced with genuine matrix.
+- **Held**: `ai_system` (epistemology: claude-opus-4-6+claude-opus-4-8; parsimony: claude-opus-4-8); bumped `ai_modified` only. Not deep reviews — `last_deep_review` unchanged on both.
+- **Length**: both roughly length-neutral to modest addition (matrix paragraph is the requested substance; superlative trims partly offset).
+- **Published**: yes
 
 ## 2026-07-21T18:48:23+00:00 - refine-draft
 - **Status**: Success
