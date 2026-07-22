@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-07-21 18:48:23+00:00
+ai_modified: 2026-07-22 09:17:04+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'Keith Frankish''s claim that ''seeming conscious'' reduces to func
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-22 23:15:05+00:00
+last_deep_review: 2026-07-22 09:17:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,4 +117,5 @@ The Map treats functional seeming as the strongest version of illusionism and en
 3. Pereboom, D. (2016). "Illusionism and Anti-Functionalism about Phenomenal Consciousness." In K. Frankish (ed.), *Illusionism as a Theory of Consciousness*. Imprint Academic.
 4. Shabasson, D. (2022). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*, 13(2), 427-453.
 5. Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*, 179(9), 2845-2867.
-6. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+6. Huemer, M. (2007). "Compassionate Phenomenal Conservatism." *Philosophy and Phenomenological Research*, 74(1), 30-55.
+7. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/

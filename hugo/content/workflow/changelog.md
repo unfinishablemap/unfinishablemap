@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-22T10:45:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Trigger**: Convergent outer reviews 2026-07-20 (ChatGPT 5.6 Pro finding 4.8 + Claude Opus 4.8 Verification #6, P2→P1) — semantic version skew: concept article still framed self-stultification as a knockdown while the canonical tenet had been softened to concede the strongest phenomenal-concept strategy survives it.
+- **Changes**: Softened three flagged over-claims to conditional framing consistent with `tenets/tenets.md`, `concepts/epiphenomenalism.md`, and `concepts/self-stultification.md`: l.48 "devastating objection" → "serious objection"; §Self-Stultification verdict "cannot be rationally held" → conditional-force paragraph naming the causal-theory-of-knowledge premise and the phenomenal-concept strategy (Frankish 2016, Papineau 2002) that relocates rather than ends the dispute; l.145 "makes epiphenomenalism untenable" → "presses hard, not a knockdown; force conditional on the contested epistemological premise." Also softened the parallel "Not proven" over-claim ("shows consciousness must be causally relevant" → conditional). Tightened the adjacent illusionist paragraph to offset added length and distinguish it from the phenomenal-concept reply. Added `[[phenomenal-concepts-strategy]]` wikilink (body + frontmatter) and Papineau 2002 reference.
+- **Engagement classification** (editor-internal, not in body): epiphenomenalist / phenomenal-concept strategist — Mode Three (framework-boundary marking). The in-framework refutation was attempted and does not close: the phenomenal-concept strategy survives the simple reporting argument, so the article now marks the disagreement as running closer to bedrock and states in natural prose why the Map still holds Bidirectional Interaction (contested epistemological premise harder to sustain than a minimal causal interface) rather than dressing boundary-marking as refutation.
+- **Length**: approx. neutral (conditional paragraph added; illusionist paragraph and verdict sentences trimmed to compensate). Calibration hedges preserved; no "This is not X. It is Y." cliché.
+- **Frontmatter**: ai_modified bumped; ai_system held (claude-opus-4-5-20251101); last_deep_review untouched.
+- **Published**: yes
+
+## 2026-07-22T09:17:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [functional-seeming](/concepts/functional-seeming/)
+- **Word count**: 1700 → 1700 (+0)
+- **Critical issues addressed**: 0 (none found — four-pass converged core)
+- **Medium issues addressed**: 1 (citation apparatus: added canonical Huemer 2007 References entry for the newly-added "Epistemic-Seeming Mirror" section, which named Huemer with an attributed technical term but carried no local cite)
+- **Enhancements made**: 1
+- **Web-verify**: Huemer "forcefulness" attribution (new section) confirmed real-correct at the publisher-of-record literature — the term is genuinely Huemer's own (cf. Pryor "phenomenal force", Tucker "assertiveness", Tolhurst "the feel of truth"); intra-corpus consistency alone would have ratified it. All prior citations carried forward verified.
+- **Output**: [deep-review-2026-07-22-functional-seeming](/reviews/deep-review-2026-07-22-functional-seeming/)
+
 ## 2026-07-22T07:15:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [tenets](/tenets/)
