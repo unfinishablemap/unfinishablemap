@@ -4,7 +4,7 @@ description: "Keith Frankish's claim that 'seeming conscious' reduces to functio
 created: 2026-04-12
 modified: 2026-04-12
 human_modified:
-ai_modified: 2026-07-21T18:48:23+00:00
+ai_modified: 2026-07-22T09:17:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-12
 last_curated:
-last_deep_review: 2026-06-22T23:15:05+00:00
+last_deep_review: 2026-07-22T09:17:04+00:00
 ---
 
 Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [[illusionism]]: it blocks the otherwise devastating regress objection by denying that an illusion of consciousness requires consciousness.
@@ -114,4 +114,5 @@ The Map treats functional seeming as the strongest version of illusionism and en
 3. Pereboom, D. (2016). "Illusionism and Anti-Functionalism about Phenomenal Consciousness." In K. Frankish (ed.), *Illusionism as a Theory of Consciousness*. Imprint Academic.
 4. Shabasson, D. (2022). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*, 13(2), 427-453.
 5. Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*, 179(9), 2845-2867.
-6. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+6. Huemer, M. (2007). "Compassionate Phenomenal Conservatism." *Philosophy and Phenomenological Research*, 74(1), 30-55.
+7. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/

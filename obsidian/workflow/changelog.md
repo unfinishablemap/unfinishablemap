@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-22T09:17:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/functional-seeming]]
+- **Word count**: 1700 → 1700 (+0)
+- **Critical issues addressed**: 0 (none found — four-pass converged core)
+- **Medium issues addressed**: 1 (citation apparatus: added canonical Huemer 2007 References entry for the newly-added "Epistemic-Seeming Mirror" section, which named Huemer with an attributed technical term but carried no local cite)
+- **Enhancements made**: 1
+- **Web-verify**: Huemer "forcefulness" attribution (new section) confirmed real-correct at the publisher-of-record literature — the term is genuinely Huemer's own (cf. Pryor "phenomenal force", Tucker "assertiveness", Tolhurst "the feel of truth"); intra-corpus consistency alone would have ratified it. All prior citations carried forward verified.
+- **Output**: [[reviews/deep-review-2026-07-22-functional-seeming]]
+
 ## 2026-07-22T07:15:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[tenets/tenets]]
