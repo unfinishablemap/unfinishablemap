@@ -141,9 +141,9 @@
   commissioned_at: '2026-07-22T02:18:54.826838+00:00'
   prompt_summary: Audit lived-objectified-body-distinction (GPT-5.6 Sol Pro)
   target_filename: outer-review-2026-07-22-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-22T06:25:11.253642+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous outer review of an article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy-of-mind project: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
