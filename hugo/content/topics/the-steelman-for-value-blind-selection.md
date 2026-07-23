@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-07-07 13:21:32+00:00
+ai_modified: 2026-07-23 18:15:29+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -23,6 +23,7 @@ last_deep_review: 2026-07-19 06:45:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[apex/steelmanning-as-method]]'
 - '[[consciousness-value-connection]]'
 - '[[marginal-organism-scope-of-value-sensitive-selection]]'
 - '[[co-optimization-reply-to-the-correlation-problem]]'
@@ -38,7 +39,7 @@ topics:
 
 The Unfinishable Map holds that consciousness selects among physically underdetermined neural outcomes, and that felt value—the badness of suffering, the goodness of relief—is what the selection tracks ([valence-and-conscious-selection](/topics/valence-and-conscious-selection/)). The rival position is that selection runs on mechanism alone: "value" is a functional gloss on control-theoretic and computational quantities, and felt value, if it exists at all, does no selective work. The Map declines this rival. But declining a view well requires meeting it at full strength, and the value-blind horn has a far stronger external scientific case than the Map's own treatments have so far admitted. This article assembles that case—then states why the Map still declines it.
 
-The honesty stake is explicit. The parent fork article argues for value-blindness from *internal* parsimony: value-blind selection needs only one mental-to-physical coupling, so by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) it is the horn to beat. That is a real argument, but it is the Map arguing with itself. A 2026 review warned that the value-blind side, developed only from the Map's own preferences, "is at risk of being a strawman by attrition." The cure is to marshal the *rival's* evidence: a mature, multi-disciplinary research programme on which mechanism is genuinely sufficient. Steelmanning that programme—arguing the case against the more-parsimonious rival rather than assuming it—is precisely the discipline [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits) demands, and it is the work this article does.
+The honesty stake is explicit. The parent fork article argues for value-blindness from *internal* parsimony: value-blind selection needs only one mental-to-physical coupling, so by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) it is the horn to beat. That is a real argument, but it is the Map arguing with itself. A 2026 review warned that the value-blind side, developed only from the Map's own preferences, "is at risk of being a strawman by attrition." The cure is to marshal the *rival's* evidence: a mature, multi-disciplinary research programme on which mechanism is genuinely sufficient. Steelmanning that programme—arguing the case against the more-parsimonious rival rather than assuming it—is precisely the discipline [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits) demands, and it is the work this article does. That build-then-decline structure is the procedure [steelmanning-as-method](/apex/steelmanning-as-method/) names and audits; the apex cites this article as its empirical worked exhibit (moves one through three), the twin of [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/)'s metaphysical case.
 
 ## The Mechanism-Sufficiency Thesis
 
@@ -106,6 +107,7 @@ The value of stating the rival this fully is exactly that it converts the Map's 
 
 ## Further Reading
 
+- [steelmanning-as-method](/apex/steelmanning-as-method/) — The method this article instances: build the strongest unified rival, grant the absorption, isolate the residue; cites this article as its empirical worked exhibit
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — The parent fork: value-blind versus value-sensitive selection, argued from internal parsimony
 - [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) — The Berridge dissociation and where affective value resides
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position the illusionist strand most directly opposes

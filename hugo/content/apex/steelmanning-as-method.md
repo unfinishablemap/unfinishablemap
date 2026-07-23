@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-07-18 02:07:00+00:00
+ai_modified: 2026-07-23 18:15:29+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-18 02:07:00+00:00
 apex_sources:
@@ -56,6 +56,8 @@ related_articles:
 - '[[agency-void]]'
 - '[[discrimination-problem]]'
 - '[[topics/many-minds-interpretation]]'
+- '[[topics/the-steelman-for-process-monism]]'
+- '[[topics/the-steelman-for-value-blind-selection]]'
 - '[[concepts/simulation-theory-of-memory]]'
 - '[[concepts/near-death-experiences]]'
 title: 'Steelmanning as Method: Building the Rival Before the Residue'
@@ -124,6 +126,8 @@ The dissociation apex is the cleanest all-four-moves exhibit, but the method is 
 
 At the topic and concept tier, [mental effort](/concepts/mental-effort/) ledgers the Inzlicht/Kurzban opportunity-cost models as *materialist absorption stories, not witnesses for the dualist reading* — move one and move four together on a single concept page. The [agency void](/voids/agency-void/) runs the residue-isolation on the first-person side, granting that the felt sense of agency is constructed and then locating what the construction-story cannot close.
 
+Two articles wear the method in their titles and run moves one through three end to end. [The steelman for process monism](/topics/the-steelman-for-process-monism/) builds the strongest unified rival in its own vocabulary — process monism assembled across Whitehead's actual occasions, Ṣadrā's substantial motion, and Buddhist dependent origination (move one) — grants that the rival is *more parsimonious and more unified* than the Map's own framework and dissolves rather than relocates the hard problem (move two), and isolates the residue as a declared bedrock disagreement over what to take as given, gradation versus irreducibility, rather than a refutation (move three). [The steelman for value-blind selection](/topics/the-steelman-for-value-blind-selection/) does the same for an *empirical* rival, marshalling five convergent research strands into a single mechanism-sufficiency thesis, conceding it the phylogenetic default, and locating the residue at the illusionism-and-hard-problem seam the rival cannot close from inside its own commitments. These are the method's paired canonical exhibits — one metaphysical, one empirical — each declining a rival it grants is more economical, which is exactly the [Tenet 5](/tenets/#occams-limits) discipline the method serves: argue the decline, do not assert it. Their comparative modesty on move four (neither runs a large convergence count to audit downward) is the tell that moves one through three are separable from the count-audit and portable on their own.
+
 ## Single-Move Exhibits Across Domains
 
 Where the dissociation apex performs all four moves at once, a cluster of shorter articles each performs *one* move with textbook clarity — across domains far enough apart that the method's generality, not a single case's idiosyncrasy, is what they jointly demonstrate. Each grants the rival's mechanism in full and contests only its eliminative gloss; each frames the result as accommodation rather than proof.
@@ -166,6 +170,8 @@ This synthesis draws its method from the catalogue's methodology layer and its w
 - [Phenomenal Output and Causal Machinery](/apex/phenomenal-output-causal-machinery-dissociation/) — the cleanest all-four-moves exhibit (the "Strongest Materialist Reading" section and the seven→five-or-six downward audit)
 - [The Moral Architecture of Consciousness](/apex/moral-architecture-of-consciousness/) — the downward audit applied to a four-pillar unity argument
 - [The Phenomenology-Mechanism Bridge](/apex/phenomenology-mechanism-bridge/) — the artifact-of-method rival built before the chain is claimed
+- [The Steelman for Process Monism](/topics/the-steelman-for-process-monism/) — the metaphysical moves-one-through-three exhibit: the more-parsimonious unified rival built, granted, and declined at bedrock
+- [The Steelman for Value-Blind Selection](/topics/the-steelman-for-value-blind-selection/) — the empirical moves-one-through-three exhibit: five research strands assembled into one mechanism-sufficiency rival, then declined at the illusionism seam
 - [The Many-Minds Interpretation](/topics/many-minds-interpretation/) — a single-move exhibit of move one: the unified rival defeated on the indexical axis, not parsimony
 - [The Simulation Theory of Memory](/concepts/simulation-theory-of-memory/) — a single-move exhibit of move three: residue inherited from the rival's own admitted discrimination problem
 - [Near-Death Experiences](/concepts/near-death-experiences/) — a single-move exhibit of move four: the home team's own evidence audited from three confirmations down to one pattern

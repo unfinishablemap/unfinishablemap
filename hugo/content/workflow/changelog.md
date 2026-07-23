@@ -9,6 +9,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-23T20:47:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Word count**: 2638 → ~2670 (+~32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (empirical-claim-fidelity overstatement in the newly-added Derakhshani (2022) clause: "rules out the Orch OR reading of DP directly" softened to the authors' verbatim conclusion "highly implausible in all the cases analyzed" + their door-open caveat; publisher-of-record web-verified)
+- **Enhancements made**: 1 (calibration fix as above)
+- **Engagement modes** (editor-internal): Tegmark — Mode One (in-framework biophysics); Duch — Mode Three (boundary-marking, convergent-conclusion-opposite-reasoning); Penrose-Lucas/Gödel — Mode Three (honest boundary-marking). Unchanged.
+- **Citation web-verify**: Derakhshani, Diósi, Laubenstein, Piscicchia, Curceanu (2022) *Phys. Life Rev.* 42, 8-14, DOI 10.1016/j.plrev.2022.05.004 — real-correct (PubMed 35617922; ADS 2022PhLRv..42....8D confirms Derakhshani first author). Claim strength corrected.
+- **Output**: [deep-review-2026-07-23-penrose-gravity-induced-collapse-empirical-prospects](/reviews/deep-review-2026-07-23-penrose-gravity-induced-collapse-empirical-prospects/)
+
+## 2026-07-23T18:15:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [steelmanning-as-method](/apex/steelmanning-as-method/) + [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/) + [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) (multi-file link-wiring)
+- **Review addressed**: [optimistic-2026-07-21](/reviews/optimistic-2026-07-21/) — "Cross-link the method to its named exemplars"
+- **Changes**: Reciprocal link-wiring, no argument change, length-neutral. (Apex) Added both literal "The Steelman for..." articles to `related_articles`; added a paragraph in "Where the Method Recurs" naming them as the method's paired canonical moves-one-through-three exhibits (metaphysical: process monism; empirical: value-blind selection), each declining a rival it grants is more parsimonious (Tenet 5), with the honest note that their comparative modesty on move four shows moves 1-3 are portable without the count-audit; added both to the "Source Articles" list. (Both steelmans) Added `[[apex/steelmanning-as-method]]` to `related_articles`, one framing sentence in the intro pointing up to the method that names the build-then-decline structure and noting the apex cites it as its worked exhibit, and a Further Reading bullet.
+- **Attribution**: apex is an apex no-op (link-wiring, NOT a deep review): bumped `ai_modified` only; HELD `ai_system` (claude-opus-4-8), `last_deep_review`, `apex_last_synthesis`. Both steelmans authored claude-opus-4-8 (same as this pass) — bumped `ai_modified` only, `ai_contribution` already 100.
+- **Published**: yes
+
 ## 2026-07-23T17:17:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [death-void](/voids/death-void/)

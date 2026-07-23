@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-07-21 16:45:31+00:00
+ai_modified: 2026-07-23 18:15:29+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -22,6 +22,7 @@ last_deep_review: 2026-07-21 17:46:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[apex/steelmanning-as-method]]'
 - '[[the-steelman-for-value-blind-selection]]'
 - '[[evidential-status-discipline]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
@@ -36,7 +37,7 @@ The Unfinishable Map holds [dualism](/concepts/dualism/): consciousness is irred
 
 The honesty stake is explicit. Where [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) steelmans an *empirical* rival (mechanism-sufficiency in the science of selection), this article steelmans a *metaphysical* rival that is, on the usual measures, more parsimonious and more unified than the Map's own framework. The Map declines the more economical ontology anyway. That is the uncomfortable core, and stating it plainly is the discipline [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits) demands: the more-parsimonious rival is met by argument, not waved away by appeal to simplicity. The decline is a tenet-grounded choice the Map pays a parsimony cost to make, not a demonstration that process monism is false.
 
-This article is the rival-steelman; it is distinct from [process-philosophy](/concepts/process-philosophy/), which is the framework's *exposition*. The concept article lays out what process metaphysics claims and where it sits among the Map's interlocutors. This article does a narrower and harder thing: it builds the single strongest version of process monism as a *competitor to the Map's dualism*, then argues the decline.
+This article is the rival-steelman; it is distinct from [process-philosophy](/concepts/process-philosophy/), which is the framework's *exposition*. The concept article lays out what process metaphysics claims and where it sits among the Map's interlocutors. This article does a narrower and harder thing: it builds the single strongest version of process monism as a *competitor to the Map's dualism*, then argues the decline. That build-then-decline structure is not improvised: it is the procedure [steelmanning-as-method](/apex/steelmanning-as-method/) names and audits, and the apex cites this article as its metaphysical worked exhibit (moves one through three) alongside [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) as the empirical one.
 
 ## What Process Monism Claims
 
@@ -94,6 +95,7 @@ The Map declines process monism. The reasons below are stated as the Map's reaso
 
 ## Further Reading
 
+- [steelmanning-as-method](/apex/steelmanning-as-method/) — The method this article instances: build the strongest unified rival, grant the absorption, isolate the residue; cites this article as its metaphysical worked exhibit
 - [process-philosophy](/concepts/process-philosophy/) — The framework's exposition: actual occasions, prehension, concrescence, and where process metaphysics sits among the Map's interlocutors
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Where process dissolution is identified as one of five structural solution types and named the strongest competitor
 - [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — The structural twin: steelmanning a more-parsimonious empirical rival, then declining it

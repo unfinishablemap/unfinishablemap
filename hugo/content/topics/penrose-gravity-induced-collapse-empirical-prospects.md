@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-07-22 19:47:07+00:00
+ai_modified: 2026-07-23 20:47:55+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Penrose argues spacetime instability causes quantum collapse—a te
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-23 00:00:00+00:00
+last_deep_review: 2026-07-23 20:47:55+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
@@ -47,7 +47,7 @@ This parameter matters because it determines the model's experimental prediction
 
 In 2022, the Majorana Demonstrator experiment at the Sanford Underground Research Facility confirmed and strengthened these exclusions using a larger detector array. As Sandro Donadi observed, "it is always possible to rescue any model"—but the question is whether indefinite modification yields genuine understanding.
 
-The modified DP model with R₀ as a free parameter survives current bounds when R₀ ≳ 4 × 10⁻¹⁰ m. Whether a model requiring a free parameter still counts as "Penrose's proposal" or has become a different theory is itself a question worth asking. The loss is structural rather than aesthetic: the parameter-free virtue—collapse derived purely from gravitational self-energy with no tunable scale—was the original argument's distinguishing claim, and a fitted R₀ is exactly the kind of phenomenological knob Penrose's setup originally avoided. Derakhshani, Diósi, Laubenstein, Piscicchia, and Curceanu (2022) sharpen the cost: clearing the spontaneous-radiation bounds pins the smearing length R₀ at the atomic scale (~10⁻¹⁰ m), and at that separation their analysis rules out the Orch OR reading of DP directly. A regularisation length tuned to atomic dimensions to survive Gran Sasso stands in tension with the model's original selling point—the *natural* macroscopic quantum-classical boundary, fixed by gravity alone with no adjustable scale, that the instability argument above advertises. The surviving DP region therefore buys empirical viability at the price of that natural-threshold rationale: an open cost, not a second falsification. The core physical insight remains: spacetime geometry may not tolerate indefinite superposition. But the dialectical position has weakened.
+The modified DP model with R₀ as a free parameter survives current bounds when R₀ ≳ 4 × 10⁻¹⁰ m. Whether a model requiring a free parameter still counts as "Penrose's proposal" or has become a different theory is itself a question worth asking. The loss is structural rather than aesthetic: the parameter-free virtue—collapse derived purely from gravitational self-energy with no tunable scale—was the original argument's distinguishing claim, and a fitted R₀ is exactly the kind of phenomenological knob Penrose's setup originally avoided. Derakhshani, Diósi, Laubenstein, Piscicchia, and Curceanu (2022) sharpen the cost: clearing the spontaneous-radiation bounds pins the smearing length R₀ at the atomic scale (~10⁻¹⁰ m), and at that separation their analysis finds the Orch OR reading of DP "highly implausible in all the cases analyzed." The authors themselves note that further-modified collapse models could leave the door open, so this is a sharp constraint on the simplest DP–Orch OR pairing rather than a categorical exclusion. A regularisation length tuned to atomic dimensions to survive Gran Sasso stands in tension with the model's original selling point—the *natural* macroscopic quantum-classical boundary, fixed by gravity alone with no adjustable scale, that the instability argument above advertises. The surviving DP region therefore buys empirical viability at the price of that natural-threshold rationale: an open cost, not a second falsification. The core physical insight remains: spacetime geometry may not tolerate indefinite superposition. But the dialectical position has weakened.
 
 McQueen (2023) argues the DP falsification does not apply to Orch OR at all, since the experiments targeted generic gravitational collapse in bulk matter rather than the biologically orchestrated process Penrose and Hameroff propose. This is structurally a rescue of the kind Donadi flagged: the falsifying conditions are relocated to a regime current experiments cannot reach. Testing whether the distinction itself holds would require collapse experiments specifically targeting biological microtubule networks, a target the [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) discusses. If the distinction holds, the fate of the DP model and the fate of Orch OR separate: the physics-level prediction (spontaneous radiation from generic collapse) can fail while the biology-level claim (orchestrated collapse in microtubules) remains untested by current experiments.
 
