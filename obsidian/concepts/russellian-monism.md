@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-18T01:47:17+00:00
+ai_modified: 2026-07-23T12:49:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ Adam Pautz (2015, 2017) argues that Russellian monism requires the same "swarm o
 
 ### The Instability Argument
 
-Brian Cutter (2019) presses further: Russellian monism is not merely equivalent to dualism but *unstable* between physicalism and dualism. The same epistemic arguments that motivate rejecting physicalism—the conceivability of [[philosophical-zombies|zombies]], the knowledge argument—apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). "Russellian monism does not offer a comfortable resting place—one must turn back or else march on to dualism." The Map embraces the stable endpoint.
+Brian Cutter (2019) presses further: Russellian monism is not merely equivalent to dualism but *unstable* between physicalism and dualism. The same epistemic arguments that motivate rejecting physicalism—the conceivability of [[philosophical-zombies|zombies]], the knowledge argument—apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). "Russellian monism does not offer a comfortable resting place. One must turn back or else march on to dualism." The Map embraces the stable endpoint.
 
 ### The Epiphenomenalism Return
 
