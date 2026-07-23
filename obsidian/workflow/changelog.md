@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T11:46:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/von-neumann-wigner-interpretation]]
+- **Word count**: 2847 → 2847 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op convergence pass; 6th deep review, 6th no-critical-issues verdict)
+- **Notes**: Sole delta since review 5 (2026-06-26) is a sound outer-review terminology precision fix ("classical mixture" → "improper reduced-state mixture… an additional actualisation postulate", commit d454b20c2); verified sound. Citations byte-identical to fully web-verified set; ledger carried forward. Updated last_deep_review only (ai_modified/ai_system left at the outer-review edit).
+- **Output**: [[reviews/deep-review-2026-07-23-von-neumann-wigner-interpretation]]
+
 ## 2026-07-23T10:45:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/disguised-property-dualism]]
