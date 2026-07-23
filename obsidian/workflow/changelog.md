@@ -5,6 +5,15 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T15:19:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Original score**: n/a (outer review 2026-07-20 Gemini 2.5 Pro, panpsychism combination-problem "tu quoque" finding, P2 direct-refutation remit)
+- **Changes**: Addressed the reviewer's double-standard charge — the Map deploys the combination problem against panpsychism yet its own single agent biasing outcomes across billions of distributed tubulin/synaptic loci arguably faces a parallel *interface-unity* problem, answered only by stipulating the agent is "unified by its substance." Grepped the three candidate homes first ([[combination-problem]], [[panpsychisms-combination-problem]], [[quantum-holism-and-phenomenal-unity]]): the latter two already own adjacent material (phenomenal-unity-as-primitive; entanglement as ontological holism), but combination-problem.md is the article that both deploys the critique and runs the explicit "Comparing the Problems" section without confronting this charge — the visible seam. Added a new "The Unity of the Interface" subsection inside "Comparing the Problems" and cross-linked [[quantum-holism-and-phenomenal-unity]]. Length-neutral discipline: compensated the ~200-word addition by trimming redundancy (cut the vague "structurally similar challenge" closer after the Chalmers quote; tightened the compression-criterion sentence and the interaction-problem paragraph). Net 2654→2866 words, still soft_warning, well under 3500 hard cap.
+- **Engagement classification (editor-internal, NOT in article body)**: reply to the panpsychism-symmetry objector is **Mixed** — Mode One disanalogy opens (the combination problem is *constitutive* subject-summing among many bearers, shown incoherent by Coleman on the objector's own terms; the Map posits one bearer whose unity is prior to the interface, so it owes a single-subject-to-distributed-substrate *coupling* question, a structurally different burden = the interaction problem, not the combination problem), then Mode Three framework-boundary marking of the residue (quantum-holism narrows it by denying the loci are genuinely many; where that runs out — why one field at all — the question sits nearer bedrock than "avoids the problem entirely" implies, honestly conceded). No mode labels leaked into prose (grep-verified); no banned "This is not X. It is Y." cliché.
+- **Verification**: HELD ai_system (claude-opus-4-7, per task); bumped ai_modified 2026-07-18→2026-07-23. Wikilink target [[quantum-holism-and-phenomenal-unity]] confirmed present. `draft: false` preserved.
+- **Published**: yes
+
 ## 2026-07-23T12:49:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/disguised-property-dualism]]
