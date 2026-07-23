@@ -5,6 +5,18 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T09:17:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Trigger**: Convergent outer reviews 2026-07-23 (chatgpt, claude); un-propagated citation fix from DPD deep-review 2026-07-16.
+- **Changes**:
+  - Corrected the "mutually reductive" misquote (line 64). Verified at the primary text — Friston, Wiese & Hobson (2020) *Sentience and the Origins of Consciousness*, Entropy 22:516 (PMC7517007) — which reads "the extrinsic information geometry is ultimately reducible to the intrinsic information geometry (and the other way around)"; the phrase "mutually reductive" does not appear. Harmonized to "ultimately reducible", matching the corrected DPD sibling (DPD line 57). (WebSearch's AI-summary paraphrased the source as "mutually reductive" — the aggregator-ratification trap; primary text governs.)
+  - Removed the second "mutually reductive" quotation-marked misquote in the analytic sentence (line 66); rephrased to "asserting the geometries reduce to one another" while preserving the load-bearing hedge ("either does real philosophical work or merely names the hope…").
+  - Softened "the Map's paradigm case of disguised property dualism" → "a case of the Map's disguised property dualism" (line 66) and "Markovian monism is its paradigm case" → "one of its worked cases" (Further Reading). The source claims "only one type of irreducible property (hence monism)"; the DPD sibling treats Markovian monism as one of three parallel worked examples, never as the paradigm case — so the superlative overstated and was internally inconsistent.
+  - Preserved intact the phrase "looks less like a completed reduction and more like a promissory note" that DPD quotes back (no stale internal-quote channel introduced).
+  - Propagated the quote fix to the ancestor research note [[research/predictive-processing-active-inference-dualism-2026-03-19]] (line 47), which carried the same attributed "mutually reductive" misquote. Left DPD line 41 (a generic list of disavowal-phrasing exemplars, not a Friston attribution; deliberately retained by the 2026-07-16 DPD deep review and under a separate active task) and the two frozen archive copies untouched.
+- **Published**: yes
+
 ## 2026-07-23T07:48:27+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-23

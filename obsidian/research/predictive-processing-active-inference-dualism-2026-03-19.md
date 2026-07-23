@@ -44,7 +44,7 @@ Active inference — the action-oriented extension of predictive processing unde
   - All systems possessing a Markov blanket have properties relevant to consciousness
   - Dual information geometry: extrinsic (beliefs about world) and intrinsic (information about own future states)
   - Extrinsic geometry potentially accounts for "mental" properties or "qualia"
-  - But both interpretations are "mutually reductive" — hence monism, not dualism
+  - But each geometry is "ultimately reducible" to the other — hence monism, not dualism
   - Self-evidencing: anything that exists must model the world relative to its own viability
 - **Tenet alignment**: Conflicts with Tenet 1 (Dualism) — Friston explicitly rejects Cartesian dualism in favor of monism. However, the "dual information geometry" concession is interesting: acknowledging two irreducible descriptions while insisting they reduce to one ontology looks more like a promissory note than a completed reduction
 - **Quote**: Self-organizing systems model the world as if saying not "I think, therefore I am" but "I am, therefore my model is viable"
