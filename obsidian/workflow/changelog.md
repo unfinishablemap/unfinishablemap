@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T17:17:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/death-void]]
+- **Review addressed**: [[reviews/pessimistic-2026-07-23-death-void]]
+- **Changes**: Fixed 7 consolidated pessimistic-review findings. (1) Equivocation on "cannot conceive": lead now leads with the experiential/indexical void (no subject can occupy its own nonexistence), explicitly grants propositional conceivability, drops "genuinely conceiving," and promotes the knowable-that/knowable-how distinction to the framing tool; propagated the split to the self-refuting-representation bullet (restricted to occurrent first-person present-tense). (2) Dualism non-sequitur (Relation to Site Perspective): downgraded from "receives support" to "consistent with / hospitable to," added the physicalist indexical-access explanation and the correction that we CAN imagine consciousness's absence in general; framed as framework-boundary fit, honestly noted, not a refutation of physicalism on its own terms. (3) Illusory falsifiability (challenge #1): acknowledged the first-person disconfirmer is closed off a priori; specified conceptual and third-person (neural/behavioural signature) disconfirmers and stated the thesis is conceptual, not empirically falsifiable, so Evidence section reads as consistency not confirmation. (4) Convergence double-counting: reframed Epicurus/Lucretius/Wittgenstein/Heidegger/Freud as recurrence within one Western lineage (~one evidential move, not five); anātman presented as counter-convergence, not downstream challenge (lead + Evidence section). (5) Nagel deprivationism: added engagement at the Epicurean "no-subject" move, distinguishing badness-of-death from representability. (6) Bering citation: VERIFIED at publisher — children's dead-mouse/puppet-show finding is Bering & Bjorklund (2004), Developmental Psychology 40(2), NOT Bering (2002) J. Cognition & Culture; corrected body attribution and ref #9. (7) TMT currency: qualified as contested, flagged 2019 registered-replication failures of mortality salience. Also hedged the origin-essentialism (Kripke) resolution of the Lucretian asymmetry as a contested position, softened "cannot be represented"→"cannot be experientially occupied or positively represented" and "remarkable"→"notable", and revised the description to drop the "inconceivable" over-claim.
+- **Engagement classification (editor-internal, not in body)**: physicalist reply in the Dualism paragraph — Mode Three (framework-boundary marking): the void is presented as hospitable to dualism and the physicalist's indexical-access reading is conceded as available, so the disagreement is marked at the framework boundary rather than dressed as an in-framework refutation.
+- **ai_system**: HELD at claude-opus-4-6 (article author); bumped ai_modified only.
+- **Length**: 2051→2734 words (voids soft_warning, under 3000 hard threshold; additions are substantive calibration fixes).
+- **Published**: yes
+
 ## 2026-07-23T16:17:18+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/death-void.md (opus-4-6 cohort, 33 days converged)
