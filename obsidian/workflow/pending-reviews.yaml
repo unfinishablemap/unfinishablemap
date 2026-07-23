@@ -167,9 +167,9 @@
   commissioned_at: '2026-07-22T03:18:25.963511+00:00'
   prompt_summary: Audit lived/objectified body distinction (Opus 4.8)
   target_filename: outer-review-2026-07-22-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-23T01:47:26.210807+00:00'
   failure_reason: null
   prompt_text: 'Please act as a rigorous, skeptical outer reviewer of The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Focus

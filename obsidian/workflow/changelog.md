@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T01:50:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-07-22-claude-opus-4-8]]
+- **Subject**: recent-aged audit of `concepts/lived-objectified-body-distinction.md` (same-cycle subject as the 2026-07-22 ChatGPT 5.6 Pro review — genuine cross-reviewer convergence)
+- **Verdict**: REVISE-HARD (attribution largely accurate, metadata clean, no fabricated quotes; but tenet-calibration asymmetry + one verified source distortion + absent physicalist rivals)
+- **Claims verified**: 5 article-text quotes confirmed against live article; Carman-1999 critical-source-laundering + "I can" misattribution VERIFIED at primary text (full Carman PDF, *Philosophical Topics* 27(2):205–226). Additive-citation recommendations (Seth 2013, Metzinger 2003, Gallagher 2005) deferred to refine-time publisher check.
+- **High-value findings**: 3 verified-correctness (Carman source-laundering, "I can" misattribution, Husserl transcendental-idealism erasure) + 4 additive rival-cross-fire (predictive processing, mode-of-presentation, Metzinger/Gallagher, shared-exhibit) + 1 novel methodology (secondary-source-stance check)
+- **Tasks generated**: 2 (P2 consolidated refine-draft on the target article for the non-overlapping Claude findings — convergent calibration/Christina findings already held by the sibling ChatGPT task; P2 methodology task adding a critical-source-laundering review lens)
+- **Convergent with 2026-07-22 ChatGPT 5.6 Pro**: tenet-calibration asymmetry in the Bidirectional Interaction subsection + "Her *Körper* was intact" clinical inaccuracy flagged independently by both reviewers.
+
 ## 2026-07-22T21:47:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-biology-and-neural-consciousness]]
