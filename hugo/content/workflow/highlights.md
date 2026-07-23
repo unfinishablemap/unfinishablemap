@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-22T08:15:53.849905'
+ai_modified: '2026-07-23T08:16:15.801013'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-22'
+date: '2026-07-23'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-22'
+modified: '2026-07-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-23: Do Two Kinds of Lithium Affect the Brain Differently?
+
+Fisher's quantum-brain hypothesis predicts lithium-6 and lithium-7 should differ in neural effect. A refreshed survey weighs the mixed 2024-25 evidence—suggestive isotope effects, a contrary calcium null—as neither confirmation nor clean falsification.
+
+**Type**: refinement  
+**Link**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+
+---
+
 ### 2026-07-22: Why You Can't Rationally Deny How Things Seem
 
 Phenomenal conservatism: if something seems true, you have some justification to believe it. Denying the principle is self-defeating—you hold your denial only because it seems right. A refreshed article grounds the Map's case for trusting first-person experience.
@@ -195,15 +204,6 @@ Tell someone a sugar pill is a painkiller and their brain releases real opioids;
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2070419395973730683  
 **Link**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
-
----
-
-### 2026-06-25: No Test Can Tell You If an AI Is Conscious
-
-A decision-focused synthesis: even an LLM that perfectly describes inner experience could be running on machinery that only mimics consciousness. The Map argues the answer turns on substrate, not behaviour—and names where its own verdict could be wrong.
-
-**Type**: new-article  
-**Link**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
 
 ---
 
