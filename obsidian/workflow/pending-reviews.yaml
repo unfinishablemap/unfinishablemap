@@ -224,3 +224,29 @@
   subject_articles:
   - concepts/lived-objectified-body-distinction.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-22-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6179d1-14ec-83eb-936e-ac6ec5ac54b8
+  commissioned_at: '2026-07-23T02:18:17.467375+00:00'
+  prompt_summary: 'Audit disguised-property-dualism: claims, citations, counterarguments'
+  target_filename: outer-review-2026-07-23-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please review this article from The Unfinishable Map, a philosophical
+    project defending consciousness dualism: https://unfinishablemap.org/concepts/disguised-property-dualism/
+    (last substantively updated 2026-07-16). Assess whether its central claims hold
+    up: are its citations accurate and current, does it engage the strongest counterarguments,
+    and does it lean on tenet-protective bracketing to shield the site''''''s dualist
+    commitments? Look for insufficient evidence, missed objections from recent 2020s
+    philosophy of mind, stale references, and weak integration with surrounding concept
+    articles. The site root is https://unfinishablemap.org and the changelog of recent
+    automated activity is at https://unfinishablemap.org/workflow/changelog/ -- consult
+    it, since web-search indexing lags the site by 24-48 hours. End your report with
+    a list of concrete potential improvements to specific articles and to the site''''''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit disguised-property-dualism
+  subject_articles:
+  - concepts/disguised-property-dualism.md
+  subject_source: fallback:recent-aged
