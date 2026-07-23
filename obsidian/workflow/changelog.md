@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T20:47:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
+- **Word count**: 2638 → ~2670 (+~32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (empirical-claim-fidelity overstatement in the newly-added Derakhshani (2022) clause: "rules out the Orch OR reading of DP directly" softened to the authors' verbatim conclusion "highly implausible in all the cases analyzed" + their door-open caveat; publisher-of-record web-verified)
+- **Enhancements made**: 1 (calibration fix as above)
+- **Engagement modes** (editor-internal): Tegmark — Mode One (in-framework biophysics); Duch — Mode Three (boundary-marking, convergent-conclusion-opposite-reasoning); Penrose-Lucas/Gödel — Mode Three (honest boundary-marking). Unchanged.
+- **Citation web-verify**: Derakhshani, Diósi, Laubenstein, Piscicchia, Curceanu (2022) *Phys. Life Rev.* 42, 8-14, DOI 10.1016/j.plrev.2022.05.004 — real-correct (PubMed 35617922; ADS 2022PhLRv..42....8D confirms Derakhshani first author). Claim strength corrected.
+- **Output**: [[reviews/deep-review-2026-07-23-penrose-gravity-induced-collapse-empirical-prospects]]
+
 ## 2026-07-23T18:15:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/steelmanning-as-method]] + [[topics/the-steelman-for-process-monism]] + [[topics/the-steelman-for-value-blind-selection]] (multi-file link-wiring)
