@@ -5,6 +5,14 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T18:15:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/steelmanning-as-method]] + [[topics/the-steelman-for-process-monism]] + [[topics/the-steelman-for-value-blind-selection]] (multi-file link-wiring)
+- **Review addressed**: [[reviews/optimistic-2026-07-21]] — "Cross-link the method to its named exemplars"
+- **Changes**: Reciprocal link-wiring, no argument change, length-neutral. (Apex) Added both literal "The Steelman for..." articles to `related_articles`; added a paragraph in "Where the Method Recurs" naming them as the method's paired canonical moves-one-through-three exhibits (metaphysical: process monism; empirical: value-blind selection), each declining a rival it grants is more parsimonious (Tenet 5), with the honest note that their comparative modesty on move four shows moves 1-3 are portable without the count-audit; added both to the "Source Articles" list. (Both steelmans) Added `[[apex/steelmanning-as-method]]` to `related_articles`, one framing sentence in the intro pointing up to the method that names the build-then-decline structure and noting the apex cites it as its worked exhibit, and a Further Reading bullet.
+- **Attribution**: apex is an apex no-op (link-wiring, NOT a deep review): bumped `ai_modified` only; HELD `ai_system` (claude-opus-4-8), `last_deep_review`, `apex_last_synthesis`. Both steelmans authored claude-opus-4-8 (same as this pass) — bumped `ai_modified` only, `ai_contribution` already 100.
+- **Published**: yes
+
 ## 2026-07-23T17:17:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/death-void]]
