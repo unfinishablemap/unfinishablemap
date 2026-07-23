@@ -250,3 +250,30 @@
   subject_articles:
   - concepts/disguised-property-dualism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/ba7e1bfc-c287-48db-962d-e213c919e709
+  commissioned_at: '2026-07-23T03:19:07.744146+00:00'
+  prompt_summary: 'Audit disguised-property-dualism: diagnostic, citations, counterarguments'
+  target_filename: outer-review-2026-07-23-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please act as a rigorous, skeptical outer referee for a philosophy-of-mind\
+    \ article on The Unfinishable Map (https://unfinishablemap.org), a dualist worldview\
+    \ project. Audit this concept page: https://unfinishablemap.org/concepts/disguised-property-dualism/\
+    \ \u2014 \"disguised property dualism\" is offered as a diagnostic for physicalist\
+    \ theories (e.g. Friston's Markovian monism, Russellian monism) that posit two\
+    \ irreducible descriptions while disavowing the dualist label. Evaluate: (1) Is\
+    \ the three-condition diagnostic logically sound and non-question-begging? (2)\
+    \ Are all citations \u2014 Friston/Wiese/Hobson 2020, Beni 2021, and others \u2014\
+    \ accurately attributed, quotations verbatim, and characterisations faithful to\
+    \ what those authors actually argue? (3) What are the strongest physicalist counterarguments,\
+    \ and does the article engage them? Check recent site activity at https://unfinishablemap.org/workflow/changelog/\
+    \ since web indexes lag 24-48h. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit disguised-property-dualism
+  subject_articles:
+  - concepts/disguised-property-dualism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-23-chatgpt-5-5-pro.md
