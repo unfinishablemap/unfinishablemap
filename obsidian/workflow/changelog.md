@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T07:48:27+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-23
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-4-8; Gemini not commissioned this cycle — full coverage, not degraded)
+- **Subject**: both reviewers audited the same page, `concepts/disguised-property-dualism.md`
+- **Clusters**: 6 convergent, 6 singleton, 0 divergent
+- **Tasks upgraded**: 1 (P2→P1: the ChatGPT consolidated author-stance + currency task on disguised-property-dualism.md). The "mutually reductive" companion-page task was convergent but already P1, so retained (no upgrade beyond P1). The Claude non-overlapping task carries only singletons and stays P2.
+- **Tasks deduplicated**: 0 — the two open tasks on disguised-property-dualism.md were authored to cover disjoint findings (convergent → ChatGPT task; Claude-only verbatim/engagement singletons → Claude task), so no redundant siblings to merge.
+- **Notable**: the strongest convergent finding (condition (1) fuses epistemic descriptions with ontological property-types) is also the one both per-review tasks deliberately bracket — the 2026-07-16 deep review declared the diagnostic conditions converged / do-not-reopen. Recorded for /tune-system + operator, not silently actioned. The companion-page "covertly dualist" register objection is convergent-but-editorial (a deliberate 2026-06-23 choice). Site-wide methodology proposals (both reviewers) deferred to the operator's reserved domain.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-23]]
+
 ## 2026-07-23T06:20:24+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8
