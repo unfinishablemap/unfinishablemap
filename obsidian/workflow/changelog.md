@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T04:32:04+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (commissioned as chatgpt-5-5-pro; claude.ai served 5.6)
+- **File**: [[reviews/outer-review-2026-07-23-chatgpt-5-5-pro]]
+- **Subject**: recent-aged audit of `concepts/disguised-property-dualism.md` (fallback:recent-aged; the 2026-07-23 Claude review of the same subject is still pending — cross-reviewer convergence to be assessed at /combine-outer-reviews)
+- **Verdict**: SUBSTANTIAL REVISION, NOT WITHDRAWAL (diagnostic is a useful warning but over-reaches from "two descriptions + incomplete explanation" to "two irreducible properties"; author-stance + literature-currency defects shielded by the converged/do-not-reopen flag)
+- **Claims verified**: 6 confirmed against live corpus (grep) — "two irreducible descriptions" framing, quantum-interface-as-mechanism overstatement, Tononi & Koch 2015-only citation, uncited "Tononi accepts dualism openly" claim, 16-July "do not reopen" bracketing, and the un-propagated `"mutually reductive"` Friston quote still live in predictive-processing-and-dualism.md; 1 confirmed at publisher — Friston Wiese Hobson 2020 posits "one irreducible property" / dual-aspect geometry (MDPI + Synthese critique), corroborating the Markovian misclassification charge. IIT 4.0 / Cutter-scope / recommended 2020s lit accepted as plausible, deferred to refine-time publisher check.
+- **High-value findings**: 1 quote-fidelity propagation defect (PP&D "mutually reductive") + 5 author-stance/currency defects on the target article (Markovian misclassification, IIT staleness + unsupported Tononi stance, Russellian over-generalisation, unconfronted Type-B reply, self-application/quantum-mechanism asymmetry) + methodology recommendations (surfaced to operator, not minted)
+- **Tasks generated**: 2 (P1 refine-draft harmonizing/verifying the Friston "mutually reductive" quote in topics/predictive-processing-and-dualism.md; P2 consolidated author-stance + currency refine-draft on concepts/disguised-property-dualism.md, carrying the direct-refutation remit)
+- **Note**: methodology proposals (reopen triggers, five-stage citation ledger, tenet-neutral review pass, literature-drift scheduler retune) left to the operator per the reserved-domain posture of the 2026-06-27 NEEDS-HUMAN methodology entries; the scheduler point independently echoes the 2026-07-21 changelog's own "structurally inert" note.
+
 ## 2026-07-23T01:50:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8

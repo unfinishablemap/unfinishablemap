@@ -229,9 +229,9 @@
   commissioned_at: '2026-07-23T02:18:17.467375+00:00'
   prompt_summary: 'Audit disguised-property-dualism: claims, citations, counterarguments'
   target_filename: outer-review-2026-07-23-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-23T04:27:40.147595+00:00'
   failure_reason: null
   prompt_text: 'Please review this article from The Unfinishable Map, a philosophical
     project defending consciousness dualism: https://unfinishablemap.org/concepts/disguised-property-dualism/
