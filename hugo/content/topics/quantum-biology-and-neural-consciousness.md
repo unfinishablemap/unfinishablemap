@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-22 20:47:02+00:00
+ai_modified: 2026-07-22 21:47:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -89,7 +89,7 @@ The most-cited pharmacological line linking quantum effects to consciousness com
 **Brain entanglement signatures.** Kerskens and López Pérez (2022) detected MRI signals in conscious subjects consistent with entangled proton spins, which disappeared during sleep and correlated with working memory. Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no classical account of why the signal tracks sleep versus waking. The dispute is unresolved and unreplicated.
 
 
-**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "a large and opposite effect on synaptic transmission" between the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity, but unreplicated.
+**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "a large and opposite effect on synaptic transmission" between the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity, but unreplicated. The downstream calcium-signalling step Fisher's mechanism relies on also faces contrary biochemical evidence: Bukhteeva et al. (2024) found no lithium-isotope differentiation in mitochondrial calcium efflux through the sodium/calcium/lithium exchanger (NCLX), though the same group reports isotope fractionation during lithium uptake and isotope-dependent effects on the amorphous calcium-phosphate clusters themselves—so the biochemical picture is genuinely mixed, not a clean falsification.
 
 **Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG to probe quantum effects on cognition (Escolà-Gascón, 2025); qubit entanglement in stimulus configurations explained 13.5% of accuracy variance. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement is unwarranted as stated.
 
@@ -240,3 +240,4 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 20. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 21. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 22. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
+23. Bukhteeva, I., Rahman, F. A., Kendall, B., Duncan, R. E., Quadrilatero, J., Pavlov, E. V., Gingras, M. J. P., & Leonenko, Z. (2024). Effects of lithium isotopes on sodium/lithium co-transport and calcium efflux through the sodium/calcium/lithium exchanger in mitochondria. *Frontiers in Physiology*, 15, 1354091. https://doi.org/10.3389/fphys.2024.1354091

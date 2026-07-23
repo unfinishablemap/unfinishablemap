@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-06-26 04:03:00+00:00
+ai_modified: 2026-07-22 22:15:01.537057+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -12,6 +12,11 @@ date: &id001 2026-04-18
 description: Human+AI exploration of the cognitive void opened by choices whose outcomes
   cannot be evaluated from the perspective in which the choice must be made.
 draft: false
+embedded_videos:
+- embedded: 2026-07-22 22:15:01.537057+00:00
+  id: hrQA1KqbVZo
+  source: notebooklm/0097-01-transformative-experience-void
+  url: https://www.youtube-nocookie.com/embed/hrQA1KqbVZo
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 04:03:00+00:00
@@ -35,6 +40,12 @@ topics: []
 Some choices cannot be rationally deliberated in the ordinary sense because the outcome's value is structurally inaccessible from the perspective in which the choice must be made. Becoming a parent, undergoing profound religious conversion, losing a loved one, emigrating, facing a terminal diagnosis — these are choices where the pre-transformation self lacks phenomenal access to what the post-transformation self will know, and the post-transformation self cannot retroactively validate the choice for the agent who no longer exists in the same form. The void is doubly sealed: neither temporal stage of the subject can occupy the other's standpoint. This makes transformative experience the place where The Unfinishable Map's voids framework touches ordinary lived existence most directly.
 
 The philosopher L. A. Paul has developed the most influential contemporary account of this void. Paul argues that certain experiences are both *epistemically transformative* (one cannot know what they are like in advance) and *personally transformative* (preferences, values, and self-conception shift in ways that change who the decider is). Together these features break the presuppositions of standard decision theory. The Map takes Paul's framework as a case where cognitive voids are lived thresholds humans must navigate without the epistemic resources orthodox rationality assumes.
+
+<details class="yt-embed" data-video-id="hrQA1KqbVZo">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/hrQA1KqbVZo">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Paul's Two-Part Framework
 
