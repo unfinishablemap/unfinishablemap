@@ -255,9 +255,9 @@
   commissioned_at: '2026-07-23T03:19:07.744146+00:00'
   prompt_summary: 'Audit disguised-property-dualism: diagnostic, citations, counterarguments'
   target_filename: outer-review-2026-07-23-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-23T06:17:46.644151+00:00'
   failure_reason: null
   prompt_text: "Please act as a rigorous, skeptical outer referee for a philosophy-of-mind\
     \ article on The Unfinishable Map (https://unfinishablemap.org), a dualist worldview\

@@ -5,6 +5,17 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T06:20:24+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-07-23-claude-opus-4-8]]
+- **Subject**: recent-aged audit of `concepts/disguised-property-dualism.md` (reuse: same subject as the 2026-07-23 ChatGPT 5.6 Pro review — real cross-reviewer convergence, to be synthesised at /combine-outer-reviews)
+- **Verdict**: REVISE-HARD (diagnostic legitimate and should be retained; clean metadata, no fabrication — but condition (1) equivocates epistemic/ontological, Friston et al. co-opted toward a reading their paper forecloses, and three quotation-fidelity slips)
+- **Claims verified**: 5 confirmed against live corpus (grep) — Pautz "exactly the same swarm" boundary-inflation (intensifier inside quote marks at DPD:61, outside in both sibling articles), Cutter em-dash sentence-fusion (two-sentence period form preserved in reflexive-methodology:69), Friston "qualia" gloss stance-inversion (DPD:57), "mutually reductive" still live on PP&D:64 (already ChatGPT-P1), "covertly dualist" on PP&D:46 (verified a *deliberate* 2026-06-23 register choice, not an oversight). Friston reductive-materialism/dual-aspect and Beni neutral-monism claims accepted as plausible (consistent with sibling ChatGPT publisher check), deferred to refine-time verification.
+- **High-value findings**: 2 NEW non-overlapping citation-fidelity defects not caught by the sibling ChatGPT review (Pautz quote-boundary inflation; Cutter sentence-fusion) + Friston qualia-gloss stance-inversion + a neutral-monism/dual-aspect engagement gap distinct from ChatGPT's Type-B item. Convergent findings (mutually-reductive, Markovian misclassification, IIT staleness, Cutter scope, self-application, beautiful-loop) NOT re-minted.
+- **Tasks generated**: 1 (P2 consolidated non-overlapping refine-draft on concepts/disguised-property-dualism.md, carrying the direct-refutation remit for the neutral-monism engagement gap)
+- **Note**: The reviewer's structural "split condition (1)" rewrite and its "covertly dualist" register objection are marked contested and out of scope (the 2026-07-16 deep review converged the diagnostic conditions; the companion-page register was a deliberate 2026-06-23 choice) — left for /combine-outer-reviews + /tune-system. The 5 site-wide methodology proposals (descriptions-vs-properties firewall, author-stance conclusion-reversal field, concept→companion register propagation, secondary-source provenance tagging, monist-rejoinder gate) are heavier standing-infrastructure, deferred per the 2026-07-22 precedent rather than minted.
+
 ## 2026-07-23T04:32:04+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (commissioned as chatgpt-5-5-pro; claude.ai served 5.6)
