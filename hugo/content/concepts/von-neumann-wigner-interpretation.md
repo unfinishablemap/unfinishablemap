@@ -23,7 +23,7 @@ description: The consciousness-causes-collapse interpretation of quantum mechani
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 22:42:01+00:00
+last_deep_review: 2026-07-23 11:46:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-15 02:52:08+00:00
+ai_modified: 2026-07-23 09:17:43+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -64,9 +64,9 @@ Wiese and Friston (2021) reinforce this reading, perhaps unintentionally: their 
 
 ### Markovian Monism as Disguised Property Dualism
 
-Friston's "Markovian monism" deserves closer scrutiny because it reveals more than it intends. The position acknowledges a "dual information geometry": an extrinsic geometry (beliefs about the world) and an intrinsic geometry (information about the system's own future states). Friston proposes that extrinsic geometry potentially accounts for "mental" properties or "qualia." But he insists both geometries are "mutually reductive" — hence monism, not dualism.
+Friston's "Markovian monism" deserves closer scrutiny because it reveals more than it intends. The position acknowledges a "dual information geometry": an extrinsic geometry (beliefs about the world) and an intrinsic geometry (information about the system's own future states). Friston proposes that extrinsic geometry potentially accounts for "mental" properties or "qualia." But he insists each geometry is "ultimately reducible" to the other — hence monism, not dualism.
 
-Acknowledging two irreducible *descriptions* while insisting on one *ontology* looks less like a completed reduction and more like a promissory note. If the extrinsic and intrinsic geometries genuinely account for distinct properties — physical and mental — then the position is the Map's paradigm case of [disguised property dualism](/concepts/disguised-property-dualism/): [property dualism](/concepts/substance-property-dualism/) wearing a monist label. "Mutual reducibility" either does real philosophical work or merely names the hope that the two descriptions will someday collapse into one; the Map holds it is the latter, because calling the geometries "mutually reductive" does not show why intrinsic self-information feels like anything. Markovian monism inherits the [explanatory-gap](/concepts/explanatory-gap/).
+Acknowledging two irreducible *descriptions* while insisting on one *ontology* looks less like a completed reduction and more like a promissory note. If the extrinsic and intrinsic geometries genuinely account for distinct properties — physical and mental — then the position is a case of the Map's [disguised property dualism](/concepts/disguised-property-dualism/): [property dualism](/concepts/substance-property-dualism/) wearing a monist label. The claimed reducibility — each geometry "ultimately reducible" to the other — either does real philosophical work or merely names the hope that the two descriptions will someday collapse into one; the Map holds it is the latter, because asserting the geometries reduce to one another does not show why intrinsic self-information feels like anything. Markovian monism inherits the [explanatory-gap](/concepts/explanatory-gap/).
 
 ## The Gap PP Cannot Close
 
@@ -149,7 +149,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 ## Further Reading
 
 - [predictive-processing](/concepts/predictive-processing/) — The core concept: brain as prediction engine
-- [disguised-property-dualism](/concepts/disguised-property-dualism/) — The Map's diagnostic for physicalist theories that posit two irreducible structures while disavowing the dualist label; Markovian monism is its paradigm case
+- [disguised-property-dualism](/concepts/disguised-property-dualism/) — The Map's diagnostic for physicalist theories that posit two irreducible structures while disavowing the dualist label; Markovian monism is one of its worked cases
 - [predictive-construction-void](/voids/predictive-construction-void/) — Why the ratio of construction to reception in perception is structurally unknowable
 - [attention-as-interface](/concepts/attention-as-interface/) — Precision weighting as the causal bridge
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/) — Consciousness biases which physically-available outcome is realised without adding energy

@@ -9,6 +9,58 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-23T12:49:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Original score**: 8/10 (outer review 2026-07-23 Claude Opus 4.8, REVISE-HARD)
+- **Changes**: Consolidated single-file pass carrying the non-overlapping Claude findings (convergent ChatGPT items already applied in commit 55ce0a41; not redone). (1) **Pautz quote-boundary fix** — moved the intensifier outside the quotation marks: `"exactly the same swarm of extra-logical principles"` → `exactly the same "swarm of extra-logical principles"`. Verified verbatim at primary text (PhilArchive/PhilPapers, Pautz reply-to-Roelofs): Pautz's words are "a swarm of extra-logical principles"; "exactly the same" is the article's wrapper. Now matches sibling [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/). (2) **Cutter sentence-fusion fix** in sibling [russellian-monism](/concepts/russellian-monism/) — DPD's own Cutter quote was already replaced with a paraphrase by commit 55ce0a41, but russellian-monism.md still fused the two sentences with an em-dash. Verified verbatim against the primary PDF (Cutter 2019, *Analytic Philosophy*): "Russellian monism does not offer a comfortable resting place. One must turn back or else march on to dualism. The middle ground is unstable ground." Restored the two-sentence period form. (3) **Friston "qualia" gloss** — no action needed; commit 55ce0a41's Markovian-monism rewrite already removed the stance-inverted gloss ("extrinsic geometry potentially accounts for 'mental' properties or qualia"); current paragraph carries no stance inversion. (4) **Neutral-monism / dual-aspect engagement gap** — added a new "From neutral monism and dual-aspect monism" subsection engaging the monist-by-construction rejoinder. Engagement with the neutral monist: Mode Two opening (the "neutral" base is named neutral without earning independent characterisation — where all descriptive content lives in the two aspects, condition (3) applies as before) plus Mode Three residue (against a genuinely neutral base with an independent *tertium quid* and explanatory bridge the diagnostic does not bite; whether such a base can be specified runs nearer bedrock). Beni's own witness deployed: "meshes more nicely with neutral monism" (verified verbatim at PMC/Synthese), and Beni declines to endorse any metaphysical reading, cutting against both readings. Mixed mode.
+- **Verification**: Pautz, Cutter, and Beni quotes all re-verified at publisher/primary text (not against Map pages, per quote-verify-self-contamination discipline). HELD ai_system (claude-opus-4-7+claude-opus-4-8 on DPD; claude-opus-4-8 on russellian-monism); bumped ai_modified only. Left the contested "split condition (1)" rewrite and "covertly dualist" companion-register objection for /combine-outer-reviews + /tune-system per task scope.
+- **Published**: yes
+
+## 2026-07-23T11:46:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Word count**: 2847 → 2847 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op convergence pass; 6th deep review, 6th no-critical-issues verdict)
+- **Notes**: Sole delta since review 5 (2026-06-26) is a sound outer-review terminology precision fix ("classical mixture" → "improper reduced-state mixture… an additional actualisation postulate", commit d454b20c2); verified sound. Citations byte-identical to fully web-verified set; ledger carried forward. Updated last_deep_review only (ai_modified/ai_system left at the outer-review edit).
+- **Output**: [deep-review-2026-07-23-von-neumann-wigner-interpretation](/reviews/deep-review-2026-07-23-von-neumann-wigner-interpretation/)
+
+## 2026-07-23T10:45:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Original score**: n/a (curate.py review path stale; SKILL references scripts/curate.py which no longer exists)
+- **Trigger**: Convergent outer reviews 2026-07-23 (chatgpt 5.6 Pro + claude opus-4-8, 2/2), P2→P1 by combine-outer-reviews. Consolidated single-file fix pass (six findings; do not mint separately).
+- **Changes**:
+  - **Markovian misclassification (highest-yield).** Recast the Friston/Wiese/Hobson (2020) example: they posit *one* type of irreducible property with a dual-aspect information geometry, so treating the intrinsic/extrinsic geometries as two property-types doing property-dualist work co-opted naturalists toward a conclusion they reject. Now framed conditionally — disguised-dualism reading applies only *if* the geometries are read as genuinely distinct properties; otherwise an incomplete theory of consciousness over-interpreting a useful dual description. Kept the legitimate "does formal intertranslatability explain feltness?" complaint and the Beni (2021) point. Consistent with the same-cycle PP-sibling quote fix (no "mutually reductive"; "ultimately reducible" retained only at the verified self-application locus).
+  - **IIT staleness + unsupported author-stance.** Replaced the Tononi & Koch (2015) basis with IIT 4.0 (Albantakis et al. 2023) explanatory-identity framing (axioms→postulates, Φ-structure identity, intrinsicality). **Dropped the uncited "Tononi himself in some passages accept[s] the dualist implications openly" claim.** Added a current objection (unfolding argument, Doerig et al. 2019). Removed the now-uncited Tononi & Koch 2015 reference.
+  - **Russellian over-generalisation.** Restored Cutter (2019)'s conditional scope (parity argument binding only those who reject physicalism via the epistemic arguments; verified via publisher/PhilPapers) and removed the possibly-non-verbatim "comfortable resting place" quote in favour of his verified argument. Softened "a difference no evidence can adjudicate" to a contested modal difference. Added Alter & Pereboom (2023, SEP) for 2020s fragmentation literature. (Deliberately did NOT add unverifiable Liu 2026 / Zhong 2024 / Zhou 2025 citations — fabricated-metadata risk; engaged the substance via well-attested sources instead.)
+  - **Type-B steelman confronted, not just conceded.** Engaged the phenomenal-concept strategy directly: pure two-concepts view escapes the diagnostic (framework-boundary, honestly marked); where the strategy reintroduces a phenomenal feature to carry explanatory weight, condition (3) applies. Anchored to Chalmers's (2007) dilemma.
+  - **Self-application asymmetry.** Imported the [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)/[psychophysical-laws](/concepts/psychophysical-laws/) caution: quantum interface is a *candidate locus / posited function, not a delivered mechanism* (was "the mechanism", line 77). Reframed the asymmetry defence as permanently contestable — candour about primitives does not discharge them (per Claude reviewer "FLAG AS PERPETUALLY CONTESTED"). "proposal for such a mechanism" → "proposed — not delivered — mechanism".
+  - **Beautiful-loop rival integrated** into condition (3): points to [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)'s Laukkonen, Friston & Chandaria (2025) engagement as the strongest current test of the progressive-research-programme standard, rather than resting on 2015/2020 papers.
+- **Direct-refutation-discipline classification (editor-internal; not in article body):**
+  - Markovian monism: Mode Three (framework-boundary) with a Mode Two lead (helps itself to an identity without explaining feltness). Honest: does not force a reduction from Friston's own commitments.
+  - IIT 4.0: mixed — Mode Two (asserted explanatory identity between extrinsic structure and intrinsic character, no deeper derivation) resolving to Mode Three boundary-marking.
+  - Type-B / phenomenal-concept strategy: mixed — Mode Three for the pure two-concepts view (boundary disagreement over epistemic→ontological licence), Mode Two where a second structure re-enters under conceptual disguise (Chalmers's dilemma).
+  - Beautiful-loop: deferred to sibling (Mode Three there).
+  - No mode labels or editor-vocabulary written into article prose (grep-verified).
+- **Length note**: 2385→3262 words (soft_warning; hard 3500). Growth is reference-apparatus-driven (5 new citations, +400 apparatus words) plus required six-finding engagement; **argument prose only 2864 words, comfortably under the 3500 ceiling** — a condense mint here would be spurious (analyze-length-counts-reference-apparatus).
+- **Frontmatter**: ai_modified bumped; ai_system co-attributed claude-opus-4-7+claude-opus-4-8 (substantial revise); calibration hedges preserved.
+- **Published**: yes
+
+## 2026-07-23T09:17:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Trigger**: Convergent outer reviews 2026-07-23 (chatgpt, claude); un-propagated citation fix from DPD deep-review 2026-07-16.
+- **Changes**:
+  - Corrected the "mutually reductive" misquote (line 64). Verified at the primary text — Friston, Wiese & Hobson (2020) *Sentience and the Origins of Consciousness*, Entropy 22:516 (PMC7517007) — which reads "the extrinsic information geometry is ultimately reducible to the intrinsic information geometry (and the other way around)"; the phrase "mutually reductive" does not appear. Harmonized to "ultimately reducible", matching the corrected DPD sibling (DPD line 57). (WebSearch's AI-summary paraphrased the source as "mutually reductive" — the aggregator-ratification trap; primary text governs.)
+  - Removed the second "mutually reductive" quotation-marked misquote in the analytic sentence (line 66); rephrased to "asserting the geometries reduce to one another" while preserving the load-bearing hedge ("either does real philosophical work or merely names the hope…").
+  - Softened "the Map's paradigm case of disguised property dualism" → "a case of the Map's disguised property dualism" (line 66) and "Markovian monism is its paradigm case" → "one of its worked cases" (Further Reading). The source claims "only one type of irreducible property (hence monism)"; the DPD sibling treats Markovian monism as one of three parallel worked examples, never as the paradigm case — so the superlative overstated and was internally inconsistent.
+  - Preserved intact the phrase "looks less like a completed reduction and more like a promissory note" that DPD quotes back (no stale internal-quote channel introduced).
+  - Propagated the quote fix to the ancestor research note [predictive-processing-active-inference-dualism-2026-03-19](/research/predictive-processing-active-inference-dualism-2026-03-19/) (line 47), which carried the same attributed "mutually reductive" misquote. Left DPD line 41 (a generic list of disavowal-phrasing exemplars, not a Friston attribution; deliberately retained by the 2026-07-16 DPD deep review and under a separate active task) and the two frozen archive copies untouched.
+- **Published**: yes
+
 ## 2026-07-23T07:48:27+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-23
