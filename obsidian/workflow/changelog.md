@@ -5,6 +5,28 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-23T10:45:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/disguised-property-dualism]]
+- **Original score**: n/a (curate.py review path stale; SKILL references scripts/curate.py which no longer exists)
+- **Trigger**: Convergent outer reviews 2026-07-23 (chatgpt 5.6 Pro + claude opus-4-8, 2/2), P2→P1 by combine-outer-reviews. Consolidated single-file fix pass (six findings; do not mint separately).
+- **Changes**:
+  - **Markovian misclassification (highest-yield).** Recast the Friston/Wiese/Hobson (2020) example: they posit *one* type of irreducible property with a dual-aspect information geometry, so treating the intrinsic/extrinsic geometries as two property-types doing property-dualist work co-opted naturalists toward a conclusion they reject. Now framed conditionally — disguised-dualism reading applies only *if* the geometries are read as genuinely distinct properties; otherwise an incomplete theory of consciousness over-interpreting a useful dual description. Kept the legitimate "does formal intertranslatability explain feltness?" complaint and the Beni (2021) point. Consistent with the same-cycle PP-sibling quote fix (no "mutually reductive"; "ultimately reducible" retained only at the verified self-application locus).
+  - **IIT staleness + unsupported author-stance.** Replaced the Tononi & Koch (2015) basis with IIT 4.0 (Albantakis et al. 2023) explanatory-identity framing (axioms→postulates, Φ-structure identity, intrinsicality). **Dropped the uncited "Tononi himself in some passages accept[s] the dualist implications openly" claim.** Added a current objection (unfolding argument, Doerig et al. 2019). Removed the now-uncited Tononi & Koch 2015 reference.
+  - **Russellian over-generalisation.** Restored Cutter (2019)'s conditional scope (parity argument binding only those who reject physicalism via the epistemic arguments; verified via publisher/PhilPapers) and removed the possibly-non-verbatim "comfortable resting place" quote in favour of his verified argument. Softened "a difference no evidence can adjudicate" to a contested modal difference. Added Alter & Pereboom (2023, SEP) for 2020s fragmentation literature. (Deliberately did NOT add unverifiable Liu 2026 / Zhong 2024 / Zhou 2025 citations — fabricated-metadata risk; engaged the substance via well-attested sources instead.)
+  - **Type-B steelman confronted, not just conceded.** Engaged the phenomenal-concept strategy directly: pure two-concepts view escapes the diagnostic (framework-boundary, honestly marked); where the strategy reintroduces a phenomenal feature to carry explanatory weight, condition (3) applies. Anchored to Chalmers's (2007) dilemma.
+  - **Self-application asymmetry.** Imported the [[bi-aspectual-ontology]]/[[psychophysical-laws]] caution: quantum interface is a *candidate locus / posited function, not a delivered mechanism* (was "the mechanism", line 77). Reframed the asymmetry defence as permanently contestable — candour about primitives does not discharge them (per Claude reviewer "FLAG AS PERPETUALLY CONTESTED"). "proposal for such a mechanism" → "proposed — not delivered — mechanism".
+  - **Beautiful-loop rival integrated** into condition (3): points to [[predictive-processing-and-dualism]]'s Laukkonen, Friston & Chandaria (2025) engagement as the strongest current test of the progressive-research-programme standard, rather than resting on 2015/2020 papers.
+- **Direct-refutation-discipline classification (editor-internal; not in article body):**
+  - Markovian monism: Mode Three (framework-boundary) with a Mode Two lead (helps itself to an identity without explaining feltness). Honest: does not force a reduction from Friston's own commitments.
+  - IIT 4.0: mixed — Mode Two (asserted explanatory identity between extrinsic structure and intrinsic character, no deeper derivation) resolving to Mode Three boundary-marking.
+  - Type-B / phenomenal-concept strategy: mixed — Mode Three for the pure two-concepts view (boundary disagreement over epistemic→ontological licence), Mode Two where a second structure re-enters under conceptual disguise (Chalmers's dilemma).
+  - Beautiful-loop: deferred to sibling (Mode Three there).
+  - No mode labels or editor-vocabulary written into article prose (grep-verified).
+- **Length note**: 2385→3262 words (soft_warning; hard 3500). Growth is reference-apparatus-driven (5 new citations, +400 apparatus words) plus required six-finding engagement; **argument prose only 2864 words, comfortably under the 3500 ceiling** — a condense mint here would be spurious ([[analyze-length-counts-reference-apparatus]]).
+- **Frontmatter**: ai_modified bumped; ai_system co-attributed claude-opus-4-7+claude-opus-4-8 (substantial revise); calibration hedges preserved.
+- **Published**: yes
+
 ## 2026-07-23T09:17:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/predictive-processing-and-dualism]]
