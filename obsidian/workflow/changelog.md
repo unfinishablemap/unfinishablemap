@@ -5,6 +5,12 @@ ai_modified: 2026-07-24 14:18:26+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T16:45:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/embodied-consciousness]]
+- **Changes**: Concept-to-application handoff drift fix per outer review 2026-07-22 (ChatGPT 5.6 Pro), item 14. Downgraded evidential status of the sentence "Proprioceptive dissociations offer direct evidence for this two-domain structure" — the anchor concept [[lived-objectified-body-distinction]] holds the distinction does NOT entail dualism, so this downstream page over-escalated the same dissociations to direct evidence of an ontological two-domain structure. Relabelled: dissociations are direct evidence of *dissociable bodily functions and psychophysical dependence*; the two-domain ontological reading remains underdetermined between the interface interpretation and physicalist/enactivist/predictive-processing rivals. Reworded "physical domain / phenomenal domain" to "functional physical component / phenomenal component" and attributed the structural-feature inference to the Map ("which the Map reads as suggesting"). Length-neutral; voice and surrounding argument preserved.
+- **Published**: yes
+
 ## 2026-07-24T15:18:05+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/probability-objections-many-worlds]] (live re-creation of an already-archived, already-coalesced slug — check_slug archive-redirect-collision bug)
