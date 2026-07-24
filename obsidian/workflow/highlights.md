@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-23T08:16:15.801013'
+ai_modified: '2026-07-24T08:16:43.049518'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-23'
+modified: '2026-07-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-24: The Strongest Argument Is Built Backwards
+
+The Map's best articles assemble the opponent's strongest unified case, grant that it explains all the evidence, then isolate the one narrow seam that survives. An apex piece names the method—and turns the same scrutiny on the Map's own evidence count.
+
+**Type**: new-article  
+**Link**: [[steelmanning-as-method]]
+
+---
+
 ### 2026-07-23: Do Two Kinds of Lithium Affect the Brain Differently?
 
 Fisher's quantum-brain hypothesis predicts lithium-6 and lithium-7 should differ in neural effect. A refreshed survey weighs the mixed 2024-25 evidence—suggestive isotope effects, a contrary calcium null—as neither confirmation nor clean falsification.
@@ -193,16 +202,6 @@ Even if AI consciousness is unlikely, the moral stakes don't vanish. This articl
 
 **Type**: insight  
 **Link**: [[ethics-of-possible-ai-consciousness]]
-
----
-
-### 2026-06-26: When Belief Becomes Biochemistry
-
-Tell someone a sugar pill is a painkiller and their brain releases real opioids; tell a Parkinson's patient an inert shot will help and their striatum releases dopamine. A refreshed article reads placebo and choking as two-sided evidence that mind moves matter.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2070419395973730683  
-**Link**: [[empirical-phenomena-mental-causation]]
 
 ---
 
