@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T01:18:06+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-22
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 4.8, Gemini 2.5 Pro; all audited `concepts/lived-objectified-body-distinction.md`)
+- **Clusters**: 5 convergent (1 at 3/3 — absent predictive-processing/interoceptive rival; 4 at 2/3 — tenet-calibration slide, Christina "Körper intact" inaccuracy, Carman-1999 source-laundering, Husserl causal-vs-constitutive), 1 already-mitigated 3/3 (Merleau-Ponty co-optation, recorded only), 3 singleton, 1 divergent (ChatGPT vs Claude on the phantom-limb R&H-1998 currency)
+- **Tasks upgraded**: 1 (P2→P1: the consolidated anchor refine on `lived-objectified-body-distinction.md`)
+- **Tasks deduplicated**: 1 (merged the ChatGPT + Claude same-file anchor tasks into one P1 pass, [[outer-review-same-file-task-pileup]]; both review files recorded)
+- **Note**: Gemini ran in hostile-referee mode and substantially misattributed the article ([[outer-review-fabricates-target-quotes]]); only its predictive-processing-omission finding survived verification, and it converges with the other two reviewers.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-22]]
+
 ## 2026-07-24T00:20:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
