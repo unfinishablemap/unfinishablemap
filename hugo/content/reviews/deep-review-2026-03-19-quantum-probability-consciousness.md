@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-19
 **Article**: [Quantum Probability and Consciousness](/concepts/quantum-probability-consciousness/)
 **Previous review**: [2026-03-17](/reviews/deep-review-2026-03-17-quantum-probability-consciousness/)
-**Cross-review context**: Cross-review in light of [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (created/updated 2026-03-18)
+**Cross-review context**: Cross-review in light of [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) (created/updated 2026-03-18)
 
 ## Pessimistic Analysis Summary
 
@@ -66,13 +66,13 @@ None identified. All factual claims attributed with citations.
 - Consistent with reverse inference apex (verified 2026-03-17 review)
 
 ### Enhancements Made
-- Added inline cross-link to [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) in MWI section with brief four-objection taxonomy mention
+- Added inline cross-link to [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) in MWI section with brief four-objection taxonomy mention
 - Added probability-objections-many-worlds to Further Reading
 - Added probability-objections-many-worlds to concepts frontmatter
 - Minor prose tightening in Objective Chance and Epistemic Limitations sections to maintain length neutrality
 
 ### Cross-links Added
-- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (inline, frontmatter, Further Reading)
+- [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) (inline, frontmatter, Further Reading)
 
 ## Word Count
 - Before: 2538 words (102% of 2500 soft threshold)

@@ -215,7 +215,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - [haecceity](/concepts/haecceity/) — The metaphysics of "thisness" that MWI cannot accommodate
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Parallel problems with identity reductionism
 - [binding-problem](/concepts/binding-problem/) — The unity of consciousness that branching threatens
-- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Four probability and decision-theory objections in detail
+- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — The probability crisis in full: the four objections and three recovery strategies
 - [The Many-Minds Interpretation](/topics/many-minds-interpretation/) — Why adding minds to Everett (Albert-Loewer, Lockwood) fails on indexical identity for the same reason MWI does
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The positive case for the alternative
 

@@ -46,7 +46,7 @@ Engagements unchanged from prior reviews; re-confirmed against current body:
 - **Kim** — Mode One (premise of sufficient physical causation defeated on Kim's own acceptance of QM at the token grain).
 - **Bohmian** — Mode Three (explicit boundary: "machinery does not get traction" in a fully realised pilot-wave reading).
 - **Phenomenal-concept strategy (Loar/Papineau/Frankish)** — Mixed (in-framework cost: reliability-of-reports ≠ causation-of-behaviour; plus Mode-Three tenet-grounds decline of the user-illusion reading).
-- **MWI** — Mode Three (Tenet 4 boundary; routes to [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)).
+- **MWI** — Mode Three (Tenet 4 boundary; routes to [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/)).
 - **Popperian** — Mode Three (owns direct unfalsifiability of the central claim; relocates falsifiability onto supporting commitments).
 
 No label leakage: scan for `direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-*`, `Engagement classification:`, `**Evidential status:**` returns clean in body.

@@ -820,7 +820,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-29 01:37 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: Probability and decision-theory objections to Many Worlds
-- **Reason**: Topic is comprehensively covered by existing articles: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (topics, coalesced) and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (concepts). Both based on [the same research note](/research/probability-decision-theory-against-many-worlds-2026-03-04/). No distinct angle remaining for a new article.
+- **Reason**: Topic is comprehensively covered by existing articles: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (topics, coalesced) and [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) (concepts). Both based on [the same research note](/research/probability-decision-theory-against-many-worlds-2026-03-04/). No distinct angle remaining for a new article.
 - **Action**: Marked todo task as complete
 
 ---

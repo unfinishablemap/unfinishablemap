@@ -32,7 +32,6 @@ related_articles:
 - '[[quantum-probability-consciousness]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[born-rule-and-the-consciousness-interface]]'
-- '[[probability-objections-many-worlds]]'
 - '[[many-worlds-argument]]'
 - '[[falsification-roadmap-for-the-interface-model]]'
 - '[[von-neumann-wigner-interpretation]]'
@@ -107,7 +106,7 @@ A deeper structural problem cuts across all three strategies: well-defined branc
 
 Pointed at the first person, this same measure problem produces the [quantum-suicide survival argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/): without a compulsory measure-weighted decision theory, MWI cannot rule out an observer's expectation of surviving any lethal quantum experiment indefinitely—a reductio almost everyone, its own architects included, treats as exposing a defect in naive branch self-location rather than a genuine prediction.
 
-MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it. Whether that derivation can succeed remains contested rather than closed—Wallace, Saunders, Sebens, and Carroll regard the decision-theoretic and self-locating programmes as live, and the Map's position is not that MWI *cannot* recover the Born rule but that the recoveries it has produced depend on identity and probability principles the Map rejects (branching indifference, and the cross-branch personal-identity relation examined above). The [broader pattern of Born rule derivation failures](/topics/born-rule-and-the-consciousness-interface/) and the [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) across every major framework suggest the rule may encode something about the consciousness-physics interface that no interpretation extracts from physics alone. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies, with which objections land in-framework and which mark the framework boundary, and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for a concise catalogue of the four distinct probability objections.
+MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it. Whether that derivation can succeed remains contested rather than closed—Wallace, Saunders, Sebens, and Carroll regard the decision-theoretic and self-locating programmes as live, and the Map's position is not that MWI *cannot* recover the Born rule but that the recoveries it has produced depend on identity and probability principles the Map rejects (branching indifference, and the cross-branch personal-identity relation examined above). The [broader pattern of Born rule derivation failures](/topics/born-rule-and-the-consciousness-interface/) and the [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) across every major framework suggest the rule may encode something about the consciousness-physics interface that no interpretation extracts from physics alone. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies, including a concise catalogue of the four distinct probability objections and which of them land in-framework versus marking the framework boundary.
 
 ### 4. The Preferred Basis Problem
 
@@ -209,7 +208,6 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - [tenets](/tenets/) — The foundational commitment against MWI
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it doesn't help MWI
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Full survey of MWI's probability crisis with all three recovery strategies
-- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Concise catalogue of the four distinct probability objections
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why Born rule derivation failures point toward consciousness-collapse
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability connects to consciousness across interpretations
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why self-locating knowledge creates problems for branching interpretations

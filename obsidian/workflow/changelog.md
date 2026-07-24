@@ -5,6 +5,15 @@ ai_modified: 2026-07-24 14:18:26+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T15:18:05+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/probability-objections-many-worlds]] (live re-creation of an already-archived, already-coalesced slug — check_slug archive-redirect-collision bug)
+- **Target**: [[topics/probability-problem-in-many-worlds]] (existing extended treatment; concept was a strict subset)
+- **Archived**: [[archive/concepts/probability-objections-many-worlds]] (current reviewed body written over the stale 2026-03-05 archive; superseded_by → topic)
+- **Merged content**: Added the concept's one unique insight — a concrete worked branch-counting example (amplitudes 0.95/0.31 → 90% Born vs 50% counting) — to the topic's branch-counting section. All other concept content already present in the topic.
+- **References to review**: none — repointed all 4 live inbound references inline (arguments/many-worlds-argument, concepts/quantum-probability-consciousness, concepts/many-worlds, concepts/type-token-causation)
+- **Note**: concepts/ 320→319, freeing one slot under the cap.
+
 ## 2026-07-24T14:18:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phantom-limb-phenomena]]

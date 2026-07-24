@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-16b
 # Pessimistic Review
 
 **Date**: 2026-04-16
-**Content reviewed**: [concepts/interface-friction.md](/concepts/interface-friction/), [concepts/probability-objections-many-worlds.md](/concepts/probability-objections-many-worlds/), [concepts/physical-completeness.md](/concepts/physical-completeness/)
+**Content reviewed**: [concepts/interface-friction.md](/concepts/interface-friction/), [concepts/probability-objections-many-worlds.md](/topics/probability-problem-in-many-worlds/), [concepts/physical-completeness.md](/concepts/physical-completeness/)
 
 ## Executive Summary
 
@@ -77,7 +77,7 @@ The branch-counting problem is the strongest objection, but the article's treatm
 - **Recommendation**: Define "structural" precisely and acknowledge the possibility that future physics might expand what counts as structural description. The current framing makes the gap seem necessary when it may be contingent on current physics.
 
 ### Issue 3: Probability Objections Understates Counterarguments
-- **File**: [concepts/probability-objections-many-worlds.md](/concepts/probability-objections-many-worlds/)
+- **File**: [concepts/probability-objections-many-worlds.md](/topics/probability-problem-in-many-worlds/)
 - **Location**: "The Circularity Objection" and "The Pattern of Failure" sections
 - **Problem**: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* are acknowledged in one sentence. The article also dismisses Sebens and Carroll (2018) and Zurek (2005) without engaging their actual arguments. For an article claiming to catalogue objections, the asymmetric treatment of responses undermines credibility.
 - **Severity**: Medium

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-18
 **Article**: [The Probability Problem in Many Worlds](/topics/probability-problem-in-many-worlds/)
 **Previous review**: [2026-03-05](/reviews/deep-review-2026-03-05b-probability-problem-in-many-worlds/) (fourth review)
-**Context**: Review considering newly created [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) concept page insights
+**Context**: Review considering newly created [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) concept page insights
 
 ## Pessimistic Analysis Summary
 
@@ -28,8 +28,8 @@ topics: []
 
 ### Medium Issues Found
 - **AI refinement log**: HTML comment (lines 183-194) with "should be removed after human review" still present from 2026-03-15 refinement. Resolution: Removed.
-- **Missing cross-link**: New concept page [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) links to [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/), a natural companion this article lacked. Resolution: Added to Further Reading.
-- **Concept page not in frontmatter**: New concept [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (created 2026-03-18) not listed in `concepts` field. Resolution: Added.
+- **Missing cross-link**: New concept page [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) links to [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/), a natural companion this article lacked. Resolution: Added to Further Reading.
+- **Concept page not in frontmatter**: New concept [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) (created 2026-03-18) not listed in `concepts` field. Resolution: Added.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. No new substantive issues. The article has been reviewed four times; all previous critical fixes hold. Bedrock philosophical disagreements (MWI defenders finding the framing unsatisfying, functionalists objecting to the betting-frequency distinction) are documented in prior stability notes and remain as expected.
@@ -51,7 +51,7 @@ None. All factual claims attributed with citations.
 ### Enhancements Made
 - Removed stale AI refinement log comment
 - Added cross-link to [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) in Further Reading
-- Added [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) to concepts frontmatter
+- Added [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) to concepts frontmatter
 
 ### Cross-links Added
 - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) (Further Reading)
@@ -68,7 +68,7 @@ None. Article has reached definitive stability.
 
 - All stability notes from previous reviews carry forward unchanged
 - This is the fourth deep review. The article has been stable since the third review (2026-03-05b). The 2026-03-15 refinement (Short 2023 addition) was well-executed and integrated cleanly.
-- The new concept page [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (created 2026-03-18) provides a clean four-objection taxonomy that complements rather than duplicates this article's extended treatment. The relationship is now properly established via frontmatter and cross-links.
+- The new concept page [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) (created 2026-03-18) provides a clean four-objection taxonomy that complements rather than duplicates this article's extended treatment. The relationship is now properly established via frontmatter and cross-links.
 - MWI defenders will always find this article's framing unsatisfying — bedrock disagreement per No Many Worlds tenet, not a flaw to fix.
 - The betting-frequency distinction (Albert 2010) will remain contested by functionalists who reject the distinction — this is a philosophical commitment, not an error.
 - Future reviews should only be triggered if the article is substantively modified or related articles change in ways that create inconsistency.

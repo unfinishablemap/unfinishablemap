@@ -52,12 +52,12 @@ All attributions verified in 2026-03-02 review. No content changes since then. P
 - All five tenets addressed substantively in Relation to Site Perspective
 
 ### Enhancements Made
-- Added [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) cross-link in "How Interpretations Handle Probability" section
-- Added [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) to Further Reading (Interpretations and Physics subsection)
-- Added [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) to frontmatter concepts list
+- Added [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) cross-link in "How Interpretations Handle Probability" section
+- Added [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) to Further Reading (Interpretations and Physics subsection)
+- Added [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) to frontmatter concepts list
 
 ### Cross-links Added
-- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — connects to new taxonomy of MWI probability objections
+- [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) — connects to new taxonomy of MWI probability objections
 
 ## Length Management
 

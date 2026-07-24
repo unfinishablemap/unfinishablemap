@@ -19,7 +19,7 @@ title: Optimistic Review - 2026-04-22
 - [voids/meta-epistemology-of-limits.md](/voids/meta-epistemology-of-limits/) (refined 2026-04-21T20:38)
 - [voids/source-attribution-void.md](/voids/source-attribution-void/) (new, 2026-04-21T19:38)
 - [voids/ineffable-encounter-void.md](/voids/ineffable-encounter-void/) (refined 2026-04-21T16:38)
-- [concepts/probability-objections-many-worlds.md](/concepts/probability-objections-many-worlds/) (polished 2026-04-21T21:40)
+- [concepts/probability-objections-many-worlds.md](/topics/probability-problem-in-many-worlds/) (polished 2026-04-21T21:40)
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ McGinn's *permanent mysterianism* finds a more structured elaboration in [voids/
 - **Notable quote**: *"The ineffable encounter occurs within active consciousness—thought continues—but exceeds what that thought can capture or evaluate."* (line 126)
 - **Why it works**: The article distinguishes the ineffable encounter from ordinary emotion, from the silence void, and from the aesthetic void with three clean moves — treating it not as "vague numinous stuff" but as a *specific* structural limit with characteristic phenomenology and empirical anchoring (awe research at lines 105-107). The Harrison and Loui 2014 frisson data at line 111 gives the article a bodily anchor that keeps it from drifting into pure introspection.
 
-### [concepts/probability-objections-many-worlds.md](/concepts/probability-objections-many-worlds/)
+### [concepts/probability-objections-many-worlds.md](/topics/probability-problem-in-many-worlds/)
 
 - **Strongest point**: The "Convergence of Strategies—and Their Common Difficulty" section at lines 78-90. Three recovery programmes (Sebens-Carroll self-locating uncertainty, Zurek envariance, Deutsch-Wallace decision theory) are given their strongest readings, and then the *common* structural difficulty — that each smuggles in Born-rule weighting at some load-bearing step — is named. This is the charitable-and-precise move: not "MWI is wrong" but "the three most sophisticated derivation attempts face the same specific difficulty, which is not the kind of difficulty incremental technical progress resolves."
 - **Notable quote**: *"A theory in which all quantum outcomes are actual lacks the raw materials for genuine probability: there is no space of unrealised possibilities for probabilities to range over."* (line 90)
@@ -178,7 +178,7 @@ McGinn's *permanent mysterianism* finds a more structured elaboration in [voids/
 | [voids/meta-epistemology-of-limits.md](/voids/meta-epistemology-of-limits/) | [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/) | The meta-epistemology article's treatment of the Münchhausen structure of starting points bears directly on the taxonomy's claim that parsimony-based arguments cannot decide among quadrants. The two articles should cross-reference. |
 | [voids/source-attribution-void.md](/voids/source-attribution-void/) | [voids/interface-formalization-void.md](/voids/interface-formalization-void/) | Already linked in related_articles. The Bidirectional Interaction paragraph at lines 105-107 could cite interface-formalization-void.md directly in the body, as it makes essentially the same argument about phenomenal markerlessness. |
 | [voids/three-kinds-of-void.md](/voids/three-kinds-of-void/) | [voids/source-attribution-void.md](/voids/source-attribution-void/) | The source-attribution void is one of the cleanest cases of a mixed-type void (unexplorable architecturally, occluded inferentially) and should be cited in the "Between the Categories" section. |
-| [concepts/probability-objections-many-worlds.md](/concepts/probability-objections-many-worlds/) | [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/) | Indirect but worth noting: the probability objections to MWI constrain what a dualist who accepts real collapse can say; this bears on which quadrants the No Many Worlds tenet opens or forecloses. |
+| [concepts/probability-objections-many-worlds.md](/topics/probability-problem-in-many-worlds/) | [topics/four-quadrant-dualism-taxonomy.md](/topics/four-quadrant-dualism-taxonomy/) | Indirect but worth noting: the probability objections to MWI constrain what a dualist who accepts real collapse can say; this bears on which quadrants the No Many Worlds tenet opens or forecloses. |
 
 ## New Concept Pages Needed
 

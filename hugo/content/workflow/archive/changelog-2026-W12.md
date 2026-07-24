@@ -3774,7 +3774,7 @@ topics: []
 ## 2026-03-19 14:22 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Probability and decision-theory objections to many worlds
-- **Reason**: Content already exists in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (coalesced ~3000-word topics article covering incoherence, decision theory, circularity, branch-counting, self-locating uncertainty, envariance) and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (concept catalogue of four objections). Both based on same research note. No new article created.
+- **Reason**: Content already exists in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (coalesced ~3000-word topics article covering incoherence, decision theory, circularity, branch-counting, self-locating uncertainty, envariance) and [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) (concept catalogue of four objections). Both based on same research note. No new article created.
 
 ---
 
@@ -5584,7 +5584,7 @@ topics: []
 ## 2026-03-18T12:37:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Probability and decision-theory objections to many worlds
-- **Output**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Output**: [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/)
 - **Word count**: 1402
 - **Based on research**: yes, [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
 

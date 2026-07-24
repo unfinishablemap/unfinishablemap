@@ -22,7 +22,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-interpretations]]"
   - "[[prebiotic-collapse]]"
-  - "[[probability-objections-many-worlds]]"
+  - "[[probability-problem-in-many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
@@ -74,7 +74,7 @@ QBism's core difficulty is the agent problem: it makes agents foundational witho
 
 ### Self-Location Measure (Many-Worlds)
 
-In many-worlds, all outcomes occur in different branches; probability is reinterpreted as a measure on branches. The [[probability-problem-in-many-worlds|full analysis]] shows that all three major recovery strategies—decision theory, self-locating uncertainty, and envariance—face independent objections, and a circularity (Born rule → decoherence → branches → probability → Born rule) undermines the programme. The [[probability-objections-many-worlds|four distinct probability objections]]—incoherence, circularity, branch-counting failure, and the betting-frequency gap—remain unresolved after seven decades.
+In many-worlds, all outcomes occur in different branches; probability is reinterpreted as a measure on branches. The [[probability-problem-in-many-worlds|full analysis]] shows that all three major recovery strategies—decision theory, self-locating uncertainty, and envariance—face independent objections, and a circularity (Born rule → decoherence → branches → probability → Born rule) undermines the programme. The four distinct probability objections—incoherence, circularity, branch-counting failure, and the betting-frequency gap—remain unresolved after seven decades.
 
 More fundamentally, MWI treats indexical identity as derivative from branch structure. But "why am I experiencing *this* branch?" seems meaningful, and MWI's resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules—presuppose the centred subject the question asks after, so it stays open rather than answered.
 
@@ -188,7 +188,7 @@ The question of quantum probability's nature connects to all five tenets:
 - [[quantum-interpretations]] - Survey of QM interpretations
 - [[mind-matter-interface]] - How consciousness meets physics
 - [[haecceity]] - The quality of primitive thisness
-- [[probability-objections-many-worlds]] - Four distinct objections to probability in MWI
+- [[probability-problem-in-many-worlds]] - The four distinct objections to probability in MWI, in full
 - [[quantum-consciousness]] - Mechanisms for consciousness-quantum interaction
 - [[stapp-quantum-mind]] - Henry Stapp's quantum Zeno mechanism
 - [[decoherence]] - The quantum coherence challenge

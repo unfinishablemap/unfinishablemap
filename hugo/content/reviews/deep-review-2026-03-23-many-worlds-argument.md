@@ -60,7 +60,7 @@ All counterarguments remain well-addressed from previous reviews:
   3. [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — No Many Worlds tenet in Relation to Site Perspective
   4. [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — No Many Worlds tenet discussion
   5. [self-reference-paradox](/concepts/self-reference-paradox/) — Indexical identity as self-reference question
-  6. [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Further Reading cross-reference
+  6. [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) — Further Reading cross-reference
 
 ### Cross-links Added
 - Outbound: `[[probability-objections-many-worlds]]` in Further Reading

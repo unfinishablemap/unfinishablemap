@@ -37,7 +37,7 @@ None. The prior pessimistic review's two High-severity issues (Bohmian counter-e
 
 ### Medium Issues Found
 
-- **MWI rejection conflates ontological and indexical demands** (was line 108): The sentence "The Map's rejection of Many-Worlds is largely the demand that token outcomes be metaphysically real" reads as an *ontological* demand, but MWI over-satisfies ontological token reality (every outcome is real in some branch). The Map's actual demand is *indexical singularity* — that this outcome occurs and others do not. The prior pessimistic review's Counterargument 2 recommended this disambiguation. *Resolution applied*: Rewrote the sentence to specify indexical singularity, distinguish it from the ontological demand MWI exceeds, and cross-link to [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for the branch-counting Bayesianism engagement.
+- **MWI rejection conflates ontological and indexical demands** (was line 108): The sentence "The Map's rejection of Many-Worlds is largely the demand that token outcomes be metaphysically real" reads as an *ontological* demand, but MWI over-satisfies ontological token reality (every outcome is real in some branch). The Map's actual demand is *indexical singularity* — that this outcome occurs and others do not. The prior pessimistic review's Counterargument 2 recommended this disambiguation. *Resolution applied*: Rewrote the sentence to specify indexical singularity, distinguish it from the ontological demand MWI exceeds, and cross-link to [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) for the branch-counting Bayesianism engagement.
 
 ### Low Issues Found
 
@@ -63,7 +63,7 @@ Per [direct-refutation-discipline](/project/direct-refutation-discipline/), each
 - **Engagement with Kim**: Mode One — the article argues that Kim's premise of sufficient physical causation is "a type-level premise dressed in token-level grammar" and is defeated by quantum indeterminacy at the token grain. This is an internal-to-Kim argument: Kim accepts quantum mechanics; the article shows the premise fails on Kim's own ontological commitments.
 - **Engagement with Bohmian mechanics**: Mode Three — explicit framework-boundary marking. The article states the argument is "strictly conditional on either non-determinism or this Bohmian epistemic-accessibility move." No claim to refute Bohm; honest declaration that the framework's machinery does not get traction in a fully realised pilot-wave reading.
 - **Engagement with phenomenal-concept strategy (Loar/Papineau/Frankish)**: Mixed. The article offers (a) an in-framework cost — the strategy delivers reliability for *reports* but not mental causation of *behaviour*; (b) a Mode-Three boundary — the strategy reads introspective access as user-illusion, a position the Map declines on tenet grounds rather than refutes inside the strategy's own framework.
-- **Engagement with MWI**: Mode Three — boundary at Tenet 4. The article notes its dependence on Tenet 4 and points outward to [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for the load-bearing engagement.
+- **Engagement with MWI**: Mode Three — boundary at Tenet 4. The article notes its dependence on Tenet 4 and points outward to [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) for the load-bearing engagement.
 - **Engagement with Popperian unfalsifiability charge**: Mode Three — boundary. The article admits the central claim is directly unfalsifiable by construction and relocates falsifiability onto supporting empirical commitments. This is honest boundary-marking, not refutation.
 
 No editor-vocabulary label leakage found in article prose. Verified absence of `direct-refutation-feasible`, `unsupported-jump callout`, `bedrock-perimeter`, `mode-mixed`, `Engagement classification:`, bold-headed `**Evidential status:**` callouts, or `per [[direct-refutation-discipline]]` meta-commentary.
@@ -90,7 +90,7 @@ Per the deep-review skill's calibration-error discipline: the article makes clai
 
 ### Cross-links Added
 
-- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — for MWI branch-counting Bayesianism engagement.
+- [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) — for MWI branch-counting Bayesianism engagement.
 - [Tenet 5](/tenets/#occams-razor-limits) — for the parsimony brake.
 
 ## Remaining Items
