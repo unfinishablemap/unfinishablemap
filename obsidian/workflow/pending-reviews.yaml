@@ -277,3 +277,30 @@
   subject_articles:
   - concepts/disguised-property-dualism.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-23-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a62cb4f-e204-83eb-a5b1-dbba6f7ae4d9
+  commissioned_at: '2026-07-24T02:18:10.368836+00:00'
+  prompt_summary: Audit volitional-control article (recent-aged)
+  target_filename: outer-review-2026-07-24-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct an outer review of a single article on The Unfinishable\
+    \ Map, a philosophical site defending a dualist theory of consciousness. Focus\
+    \ on this article: https://unfinishablemap.org/topics/volitional-control/ \u2014\
+    \ last substantively revised on 2026-07-17. Assess whether its claims about volitional\
+    \ control hold up: is the evidence sufficient, are counterarguments fairly represented,\
+    \ are citations accurate and current against the 2020s literature, and does it\
+    \ integrate coherently with surrounding articles? Watch especially for tenet-protective\
+    \ bracketing, where inconvenient objections are set aside rather than answered,\
+    \ and for stale or misattributed references. Use web search; the site root is\
+    \ https://unfinishablemap.org and the recent-activity changelog is at https://unfinishablemap.org/workflow/changelog/\
+    \ (external indexes lag 24-48h, so consult the changelog for the latest state).\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology.\n"
+  subject_type: recent
+  subject_title: Audit volitional-control
+  subject_articles:
+  - topics/volitional-control.md
+  subject_source: fallback:recent-aged
