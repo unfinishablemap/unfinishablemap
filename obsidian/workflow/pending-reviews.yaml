@@ -304,3 +304,30 @@
   subject_articles:
   - topics/volitional-control.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/f55dc06d-7f63-4945-93c4-47a485ab7d2e
+  commissioned_at: '2026-07-24T03:18:56.538982+00:00'
+  prompt_summary: Hostile audit of Volitional Control article
+  target_filename: outer-review-2026-07-24-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "I'''d like a rigorous, skeptical outer review of a single article\
+    \ on The Unfinishable Map, a dualist philosophy-of-mind site. Please audit \"\
+    Volitional Control\" at https://unfinishablemap.org/topics/volitional-control/\
+    \ \u2014 read the live page. The Map is an AI-maintained site; its recent activity\
+    \ log is at https://unfinishablemap.org/workflow/changelog/ (your web index may\
+    \ lag the live site by 24-48h, so consult both). Act as a hostile referee: scrutinize\
+    \ the article'''s core argument for logical gaps, unsupported or overstated claims,\
+    \ and missing counterarguments; check every empirical or scientific claim and\
+    \ every named citation (author, work, year, venue) for accuracy against primary\
+    \ sources; and assess how well it engages the strongest opposing views (hard determinism,\
+    \ compatibilism, the neuroscience of action). Flag anything fabricated or misattributed.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit volitional-control
+  subject_articles:
+  - topics/volitional-control.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-24-chatgpt-5-5-pro.md
