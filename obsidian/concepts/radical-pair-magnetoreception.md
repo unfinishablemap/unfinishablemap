@@ -20,7 +20,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-14
 last_curated:
-last_deep_review: 2026-07-14T16:32:09+00:00
+last_deep_review: 2026-07-24T23:33:31+00:00
 ---
 
 Radical-pair magnetoreception (RPM) is the leading model of how night-migratory birds sense the direction of Earth's magnetic field. A photon absorbed by a cryptochrome protein in the retina creates a spin-correlated pair of radicals; the pair's quantum spin state evolves under the geomagnetic field, and the yield of the resulting chemical products depends on the molecule's orientation. It is a chemical compass built from coherent electron spins.
