@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T00:20:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-07-22-gemini-2-5-pro]]
+- **Subject**: `concepts/lived-objectified-body-distinction.md` (recent-aged audit; third of the 2026-07-22 same-cycle triple, reusing the ChatGPT-picked subject)
+- **Claims verified**: 12+ specific attributions grep-checked against the live article
+- **Verdict on the review**: Substantially misrepresents the article. The review audits an imagined composite that folds in linked-neighbour content (`phantom-limb-phenomena`, `somatic-interface`, locked-in-syndrome) plus invention. Confirmed absent from the article: somatoparaphrenia, depersonalization/DPD, Makin persistent-representation model (case-insensitive hit was "sense-**makin**g"), Gallagher agency/ownership, Kral 2022, Silva 2024, Huemer, "honest ledger", "Common-Cause-Null Audit", "candidate body-models", "Tenet-3 posit". Dimensions A/B/D are largely built on conditions the article never discusses. Citation metadata unreliable (weakness #1 cites a cerebellum/ASD paper for a phantom-limb claim).
+- **High-value findings**: 1 (genuine, convergent) — the calibration section engages enactivism/functionalism/phenomenology-proper but not the predictive-processing / interoceptive active-inference reading (Seth/Tsakiris/Friston) or illusionism (Metzinger) by name.
+- **Tasks generated**: 0 — the one actionable finding is already covered by BOTH same-cycle sibling tasks (ChatGPT 5.6 Pro task references PP rivals + direct-refutation remit; Claude Opus 4.8 task item 4 adds interoceptive/predictive-inference engagement, item 6 adds Metzinger self-model). Minting a third refine on one file would be the [[outer-review-same-file-task-pileup]] anti-pattern. Convergence flagged for /combine-outer-reviews to upgrade priority.
+
 ## 2026-07-23T20:47:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]

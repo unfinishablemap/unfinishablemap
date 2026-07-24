@@ -194,9 +194,9 @@
   commissioned_at: '2026-07-22T04:19:57.443555+00:00'
   prompt_summary: Hostile referee audit of lived/objectified body distinction (Leib/Korper)
   target_filename: outer-review-2026-07-22-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-24T00:18:54.018432+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (Mind, Synthese, or Philosophical Studies), reviewing this article for\
