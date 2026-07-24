@@ -5,6 +5,23 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T10:17:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/lived-objectified-body-distinction]]
+- **Source**: Consolidated outer-review fixes from [[reviews/outer-review-synthesis-2026-07-22]] (3/3-reviewer convergence; merged ChatGPT + Claude anchor tasks, single pass per [[outer-review-same-file-task-pileup]])
+- **Changes**:
+  - **(3/3) Absent predictive-processing rival** — added a named "Predictive processing and interoceptive active inference" engagement in "What the Distinction Does Not Establish": interoceptive-vs-exteroceptive inference (Seth 2013; Tsakiris, Friston named) as a fully-physicalist reading of the lived/objectified asymmetry, plus Metzinger's transparent self-model (illusionist key). Cross-linked [[predictive-processing]] and [[self-model-theory-of-subjectivity]].
+  - **(2/3) Bidirectional-Interaction evidence-label drift** — recalibrated the tenet subsection from "supports" / "not mere correlation" to the honest consistent-with / bears-on register; the reshaping data are neutral between the interface reading and a physicalist self-model account; extended coherence-only marking to parity with the Dualism subsection.
+  - **(2/3) Christina clinical inaccuracy** — replaced "Her *Körper* was intact" with an accurate deafferentation description (large-fibre sensory afferents destroyed; a third-person-describable physical lesion; motor/cognition preserved); "polyneuropathy… entirely" → Sacks's "acute polyneuritis"/"almost total".
+  - **(2/3) Carman-1999 critical-source-laundering** — re-framed Carman as a *critic* of the touch-primacy reading ("radical, if discreet, departure"; "fundamental misunderstanding"; Merleau-Ponty "does not assign… the founding significance it has on Husserl's account"), and corrected the "*Ich kann*"/"I can" attribution: Carman quotes it as *Husserl's* (Cartesian Meditations), not Merleau-Ponty's break. (Page-level quotes verified at primary PDF by the Claude reviewer.)
+  - **(2/3) Husserl anti-naturalism** — relabelled from causal to *constitutive/transcendental* (Ideen II §64, "absoluteness of spirit"); noted Husserlian irreducibility is transcendental-idealist, not dualist, and cannot be silently transferred to the interface reading.
+  - Added shared-exhibit calibration caveat (Christina / Sacks's leg / phantom limb are shared collateral across the embodiment cluster, not independent convergent evidence).
+- **Engagement classification** (editor-internal, not in body): predictive-processing / Metzinger rivals — Mode Three (framework-boundary disagreement, honestly marked, no in-framework refutation claimed).
+- **Citations verified at publisher**: Seth 2013 *TiCS* 17(11):565–573 (DOI 10.1016/j.tics.2013.09.007, PubMed 24126130); Metzinger, *Being No One*, MIT Press 2003. Both added to References.
+- **ai_system**: held at claude-opus-4-7 (not flipped to reviewer model); ai_modified bumped only.
+- **Length**: ~2100w → ~2600w, well under the concepts ceiling; calibration hedges preserved.
+- **Published**: yes
+
 ## 2026-07-24T07:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Quantum-consciousness-mechanisms cluster (comparing-quantum-consciousness-mechanisms, penrose-gravity-induced-collapse-empirical-prospects, quantum-biology-and-neural-consciousness, entanglement-binding-hypothesis; recently-modified 07-22/23 cohort)
