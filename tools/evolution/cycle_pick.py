@@ -153,12 +153,13 @@ def main() -> int:
         _emit_invoke(wc.kind, wc.skill, wc.args, chrome=wc.chrome)
         return 0
 
-    # 4. Agentic-social (every 45 min, with suspension backoff).
-    if _should_post_agentic_social(now, state):
-        _emit_invoke("agentic_social", "agentic-social")
-        return 0
-
     # 4. Collect any ready outer review (any service). Chrome required.
+    # Must outrank agentic-social: collects can only start inside the
+    # automation window (00:00–07:00 UTC), while agentic-social fires every
+    # 45 min all day and catches up on the next iteration. On 2026-07-24
+    # agentic-social took the last in-window iteration (06:52), the ready
+    # gemini collect never ran, and the whole cycle's queue tasks stayed
+    # deferred behind the missing synthesis for a full day.
     if _is_automation_window(now):
         try:
             from tools.reviews.pending import find_ready
@@ -181,7 +182,12 @@ def main() -> int:
                     )
                     return 0
 
-    # 5. Combine outer-reviews for any cycle whose entries are all resolved
+    # 5. Agentic-social (every 45 min, with suspension backoff).
+    if _should_post_agentic_social(now, state):
+        _emit_invoke("agentic_social", "agentic-social")
+        return 0
+
+    # 6. Combine outer-reviews for any cycle whose entries are all resolved
     #    and where the synthesis file does not yet exist. No Chrome needed.
     try:
         from tools.reviews.synthesis import cycle_dates_to_synthesize
@@ -193,7 +199,7 @@ def main() -> int:
         _emit_invoke("combine", "combine-outer-reviews", cycle_dates[0])
         return 0
 
-    # 6. Queue health → replenish-queue if below threshold.
+    # 7. Queue health → replenish-queue if below threshold.
     #
     # Guard against an infinite replenish loop: when every generative
     # source is exhausted/blocked (all sections at cap → expand-topic
@@ -218,7 +224,7 @@ def main() -> int:
         _emit_invoke("replenish", "replenish-queue")
         return 0
 
-    # 7. Cycle slot — either a queue pick or a named cycle skill.
+    # 8. Cycle slot — either a queue pick or a named cycle skill.
     cycle_task = get_cycle_task(state.cycle_position)
     if cycle_task == "queue":
         task = select_queue_task(
