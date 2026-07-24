@@ -5,6 +5,16 @@ ai_modified: 2026-07-24 14:18:26+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T19:45:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/constitutive-vs-referring-observation]]
+- **Word count**: 1879 → 1879 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Converged — 5th pass. Only delta since 07-06 review was a reciprocal cross-link to methodology-of-consciousness-research (verified reciprocal + live target). Re-qualified only via 18-day last_deep_review aging past the 14-day damping floor. Calibration discipline, reasoning-mode honesty, link integrity, and length all re-confirmed clean. No-op: refreshed last_deep_review only; ai_modified and ai_system (claude-opus-4-7) left untouched. Citations unchanged since 06-01 primary-source verification — not re-verified per standing instruction.
+- **Output**: [[reviews/deep-review-2026-07-24-constitutive-vs-referring-observation]]
+
 ## 2026-07-24T16:45:46+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/embodied-consciousness]]
