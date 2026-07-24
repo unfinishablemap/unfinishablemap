@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Verify ai_system attribution after model-fallback event (2026-07-24)
 - **Type**: refine-draft
-- **Notes**: Transcript 13d6d463-b5e5-4aca-94c1-b30d18a592fc.jsonl shows 66x claude-opus-4-8 message(s) alongside the primary model between 2026-07-24T20:46:58.306000+00:00 and 2026-07-24T22:01:18.303000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-07-24
-
-### P2: Verify ai_system attribution after model-fallback event (2026-07-24)
-- **Type**: refine-draft
 - **Notes**: Transcript agent-aebbe4dc69a3a4a40.jsonl shows 19x claude-opus-4-8 message(s) alongside the primary model between 2026-07-24T20:45:15.151000+00:00 and 2026-07-24T20:46:54.407000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 - **Source**: check-model-fallback
 - **Generated**: 2026-07-24
@@ -1502,6 +1496,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-24: Verify ai_system attribution after model-fallback event (2026-07-24)
+- **Type**: refine-draft
+- **Notes**: Transcript 13d6d463-b5e5-4aca-94c1-b30d18a592fc.jsonl shows 66x claude-opus-4-8 message(s) alongside the primary model between 2026-07-24T20:46:58.306000+00:00 and 2026-07-24T22:01:18.303000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-07-24: Address pessimistic-review findings in concepts/multi-mind-collapse-problem.md
 - **Type**: refine-draft
