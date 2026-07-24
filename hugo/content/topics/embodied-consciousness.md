@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-07-12 19:50:36+00:00
+ai_modified: 2026-07-24 16:45:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -124,7 +124,7 @@ This reframes each of the 4E dimensions:
 | **Enacted** | Cognition is bodily action | Consciousness acts through bodily engagement |
 | **Extended** | Mind extends into tools | The interface extends into tools |
 
-Proprioceptive dissociations offer direct evidence for this two-domain structure. The [body's sensing channels](/concepts/somatic-interface/) decompose into a physical domain (receptor signals, body schema) and a phenomenal domain (felt embodiment, body image) that are empirically separable—patients can lose the felt sense of inhabiting a body while retaining motor function, or preserve vivid bodily presence after the physical receptor channel is severed. This [dual-domain pattern](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) recurs across proprioception, spatial imagination, and memory, suggesting the interface is a structural feature of how consciousness meets matter.
+Proprioceptive dissociations offer direct evidence for *dissociable bodily functions and their psychophysical dependence*; the further reading of that dissociation as a two-domain ontological structure remains underdetermined between the interface interpretation and its physicalist, enactivist, and predictive-processing rivals. The [body's sensing channels](/concepts/somatic-interface/) decompose into a functional physical component (receptor signals, body schema) and a phenomenal component (felt embodiment, body image) that are empirically separable—patients can lose the felt sense of inhabiting a body while retaining motor function, or preserve vivid bodily presence after the physical receptor channel is severed. This [dual-domain pattern](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) recurs across proprioception, spatial imagination, and memory, which the Map reads as suggesting the interface is a structural feature of how consciousness meets matter.
 
 ## Bodily Absence and Skill Acquisition
 
