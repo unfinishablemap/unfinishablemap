@@ -5,6 +5,16 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T06:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-07-24-claude-opus-4-8]]
+- **Subject**: `topics/volitional-control.md` (recent-aged; same subject as the same-day ChatGPT review — CONVERGENT, Gemini still pending; combine-outer-reviews will consolidate later)
+- **Verdict**: REVISE-HARD — citations all real and metadata-accurate (a departure from the site's fabrication baseline), but a systemic **co-optation firewall failure**: physicalist/anti-dualist authors (Sjöberg, Schurger/Dehaene, Mele, Nahmias, Frith, Haggard, Gallagher/Zahavi) marshalled toward an interactionist-dualist conclusion each rejects; active inference (the strongest physicalist rival) entirely absent.
+- **Claims verified**: 8 (2 at publisher: Sjöberg-2024 is genuinely anti-dualist, "dualism… out of fashion… half a century" / Libet "irrelevant" ✓ PMC11224596; Braun-2021 headline is "largely consistent with the original Libet experiment," so the article's uncertainty-only quote is omission-of-context ✓; 6 against the live article: converge-against-epiphenomenalism lead, Sjöberg dualist deployment, Blakemore-1998 tickle-cite gap, "cannot be rationally held" hard form, active-inference + compatibilism absent — all confirmed present/absent in the file)
+- **High-value findings**: 5 (systemic author-stance co-optation; missing active-inference rival / evidential-independence failure; Braun cherry-pick; compatibilism unengaged; reportability version-skew)
+- **Tasks generated**: 0 new; findings folded into the existing same-subject 2026-07-24 tasks to avoid same-file pileup ([[outer-review-same-file-task-pileup]]): CONVERGENT items (Sjöberg, dissolution-overclaim, reportability) reinforced + 4 additive findings (G co-optation, H active-inference, I Braun, J compatibilism) added to the volitional-control P1; 3 Claude methodology proposals (co-optation-density, non-Claude stance routing, version-skew linter) folded into the methodology P2.
+
 ## 2026-07-24T05:30:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (commissioned as 5-5-pro; actually ran on gpt-5-6-pro)

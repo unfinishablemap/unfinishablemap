@@ -309,9 +309,9 @@
   commissioned_at: '2026-07-24T03:18:56.538982+00:00'
   prompt_summary: Hostile audit of Volitional Control article
   target_filename: outer-review-2026-07-24-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-24T06:17:32.881786+00:00'
   failure_reason: null
   prompt_text: "I'''d like a rigorous, skeptical outer review of a single article\
     \ on The Unfinishable Map, a dualist philosophy-of-mind site. Please audit \"\
