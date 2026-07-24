@@ -5,6 +5,15 @@ ai_modified: 2026-07-21 22:48:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T05:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (commissioned as 5-5-pro; actually ran on gpt-5-6-pro)
+- **File**: [[reviews/outer-review-2026-07-24-chatgpt-5-5-pro]]
+- **Subject**: `topics/volitional-control.md` (recent-aged; Claude + Gemini same-subject reviews still pending — combine-outer-reviews will consolidate later)
+- **Claims verified**: 4 (2 at publisher: Rajan-2019 theta ~500ms/"relative to instructed" not ~300ms/"absent" ✓; Sjöberg-2024 is a 3-page *Brain* essay not an "independent-confirmation analysis" ✓; 2 against article: Blakemore-1998 healthy-study→uncited schizophrenia self-tickle claim ✓; "dissolution/dismantled" overclaim vs the article's own line-112 calibration ✓)
+- **High-value findings**: 6 (Rajan fidelity, Sjöberg genre, Blakemore gap, overclaiming lead vs calibrated body, stale sense-of-agency literature, reportability desync with bidirectional-interaction)
+- **Tasks generated**: 3 (P1: 1 consolidated same-file refine on volitional-control; P2: 2 — Libet-verdict calibration propagation across the volition cluster, methodology proposals)
+
 ## 2026-07-24T01:18:06+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-22

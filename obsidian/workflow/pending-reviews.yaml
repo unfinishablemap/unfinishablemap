@@ -282,9 +282,9 @@
   commissioned_at: '2026-07-24T02:18:10.368836+00:00'
   prompt_summary: Audit volitional-control article (recent-aged)
   target_filename: outer-review-2026-07-24-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-24T05:26:26.817820+00:00'
   failure_reason: null
   prompt_text: "Please conduct an outer review of a single article on The Unfinishable\
     \ Map, a philosophical site defending a dualist theory of consciousness. Focus\
