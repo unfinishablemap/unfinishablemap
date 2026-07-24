@@ -5,6 +5,16 @@ ai_modified: 2026-07-24 21:34:04+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T22:49:03+00:00 - deep-review
+- **Status**: Success (no-op after verification)
+- **File**: [[concepts/phenomenal-conservatism]]
+- **Word count**: 3313 → 3313 (0) — soft-warning (133% of 2500 concepts/ soft, under 3500 hard; inflated by 22-entry References + 7-item Further Reading apparatus, argument prose under ceiling; length-neutral, no trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Substantive value**: full publisher-of-record web-verify of the citation surface — the 07-21 outer-review revision (commit b74af832b) roughly doubled the References to 22 entries, none of which was in the 07-14 ledger. All 22 cites verified real-correct at publisher (Burns 2022, Smithies 2019, McCain 2017, Moretti 2018, BonJour 2004, Holtrop 2026, Tana 2025, Huemer 2024, Vogel 2000, Cohen 2002, McAllister 2023, McCain & Moretti 2021, Moretti 2020, McCain/Stapleford/Steup 2023, + carried 07-14 cohort). Markie walnut-tree factual detail (planted 24 April 1914) verified. Attribution checks (Tucker-as-defender, McCain-isolation-author, Moretti-reflective-awareness, McCain & Moretti as Bayesian reconcilers) all correct. No slippage, no label leakage (survey exposition, not opponent refutation). Only cosmetic residue: Tana title drops "Here?" — left as-is.
+- **Output**: [[reviews/deep-review-2026-07-24-phenomenal-conservatism]]
+
 ## 2026-07-24T22:16:37+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: No-Many-Worlds / Tenet-4 cohort (07-24 edits) — multi-mind-collapse-problem, probability-problem-in-many-worlds, quantum-probability-consciousness, many-worlds. Distinct from the morning quantum-consciousness-mechanisms cluster.
