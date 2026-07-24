@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-21 22:48:53+00:00
+ai_modified: 2026-07-24 11:16:42+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-24T11:16:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/evidential-status-discipline]]
+- **Source**: Methodology-fix 4 from [[reviews/outer-review-2026-07-22-claude-opus-4-8]] (the single novel methodology proposal; heavier standing-infrastructure ideas — per-tenet calibration-parity lens, mandatory rival cross-fire, shared-exhibit ledger, substance-vs-property burden tracker — deferred to /combine-outer-reviews and /tune-system, not minted speculatively).
+- **Changes**: Added an "Extension to secondary commentators (2026-07-22)" paragraph to the Author-Stance-Direction Check subsection. The existing stance-direction gate triggers only on *out-of-camp* (naturalist/physicalist) primary sources; the Carman-1999 case is the variety that trigger misses — a secondary commentator cited approvingly, metadata-clean, no quotation to fabricate (paraphrased), yet whose overall stance toward the marshalled claim is oppositional (*critical-source-laundering*). The extension lifts the author-stance verification from out-of-camp primary figures to every secondary/commentator source cited approvingly: state the commentator's own verdict on the claim in one line before citing him as complementary; a critic recast as complement must be recast to carry the critique. Includes the term-misattribution sub-check (Carman's "*Ich kann*" is Husserl's, not Merleau-Ponty's). Editor-internal; article body carries only the honest recasting.
+- **Chosen home**: `evidential-status-discipline.md` over `writing-style.md` — the task framed the lens as extending "the co-optation firewall," whose entire machinery (source-role table 4th column, inferential co-optation firewall, author-stance-direction gate) lives in this file. Tighter fit than the writing-style guide.
+- **Published**: yes
 
 ## 2026-07-24T10:17:51+00:00 - refine-draft
 - **Status**: Success
