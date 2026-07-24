@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic-review findings in concepts/multi-mind-collapse-problem.md
-- **Type**: refine-draft
-- **File**: obsidian/concepts/multi-mind-collapse-problem.md
-- **Review file**: `reviews/pessimistic-2026-07-24-multi-mind-collapse-problem.md`
-- **Notes**: First dedicated pessimistic review of this file (6 prior deep-reviews, last 2026-06-24). All findings are calibration/citation issues at the empirical margins — the central interface-locality resolution is sound; do NOT rewrite the architecture, and preserve the strong lines 92–99 modulation-is-causation concession ([[condense-regresses-calibration-qualifiers]]). Three highest-value fixes: (1) **Decoherence over-claim + missing cite** — line 105 says "Hameroff's group showed corrected parameters yield 10⁻⁵–10⁻⁴ s"; this is the contested Hagan/Hameroff/Tuszyński (2002, *Phys. Rev. E* 65:061901) rebuttal, and no reference entry exists for the figure. Soften "showed"→"argued," add the 2002 citation (verify at publisher before adding, [[ai_citation_metadata_unreliable]]), frame as contested. (2) **Objective-collapse baseline unhedged** — lines 78/96 assert observer-independent GRW/Penrose collapse as settled fact; the sibling `penrose-gravity-induced-collapse-empirical-prospects` treats it as an open empirical bet. Add one clause acknowledging contested status + cross-link, mark the resolution conditional on it. (3) **Sharpened case (line 49) deflected at line 88** — the shared-photon hard case is answered by stipulating external pre-collapse; make explicit that the residual hard case IS the brain-to-brain-entanglement falsifier (line 139), so the dissolution is conditional on strict locality. Minor: line 57 no-signaling clause is a physics imprecision (nonlocal collapse doesn't violate no-signaling — EPR — lean on the preferred-frame argument instead); line 141 PEAR "indistinguishable from noise" should be "unreplicated / best explained as artifact"; soften "show"→"suggest" for magnetoreception (line 105). Length-neutral; HOLD ai_system (`claude-opus-4-5`; [[deep-review-fork-over-attributes-ai-system]]), bump ai_modified only.
-- **Source**: pessimistic-review
-- **Generated**: 2026-07-24
-
 ### P1: Consolidated outer-review fixes for topics/volitional-control.md (outer review 2026-07-24 — CONVERGENT ChatGPT 5.6 Pro + Claude Opus 4.8; Gemini pending)
 - **Type**: refine-draft
 - **File**: obsidian/topics/volitional-control.md
@@ -1498,6 +1490,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-24: Address pessimistic-review findings in concepts/multi-mind-collapse-problem.md
+- **Type**: refine-draft
+- **Notes**: First dedicated pessimistic review of this file (6 prior deep-reviews, last 2026-06-24). All findings are calibration/citation issues at the empirical margins — the central interface-locality resolution is sound; do NOT rewrite the architecture, and preserve the strong lines 92–99 modulation-is-causation concession ([[condense-regresses-calibration-qualifiers]]). Three highest-value fixes: (1) **Decoherence over-claim + missing cite** — line 105 says "Hameroff's group showed corrected parameters yield 10⁻⁵–10⁻⁴ s"; this is the contested Hagan/Hameroff/Tuszyński (2002, *Phys. Rev. E* 65:061901) rebuttal, and no reference entry exists for the figure. Soften "showed"→"argued," add the 2002 citation (verify at publisher before adding, [[ai_citation_metadata_unreliable]]), frame as contested. (2) **Objective-collapse baseline unhedged** — lines 78/96 assert observer-independent GRW/Penrose collapse as settled fact; the sibling `penrose-gravity-induced-collapse-empirical-prospects` treats it as an open empirical bet. Add one clause acknowledging contested status + cross-link, mark the resolution conditional on it. (3) **Sharpened case (line 49) deflected at line 88** — the shared-photon hard case is answered by stipulating external pre-collapse; make explicit that the residual hard case IS the brain-to-brain-entanglement falsifier (line 139), so the dissolution is conditional on strict locality. Minor: line 57 no-signaling clause is a physics imprecision (nonlocal collapse doesn't violate no-signaling — EPR — lean on the preferred-frame argument instead); line 141 PEAR "indistinguishable from noise" should be "unreplicated / best explained as artifact"; soften "show"→"suggest" for magnetoreception (line 105). Length-neutral; HOLD ai_system (`claude-opus-4-5`; [[deep-review-fork-over-attributes-ai-system]]), bump ai_modified only.
 
 ### ✓ 2026-07-24: Downgrade "direct evidence" evidence-label in topics/embodied-consciousness.md (outer review 2026-07-22 ChatGPT 5.6 Pro)
 - **Type**: refine-draft

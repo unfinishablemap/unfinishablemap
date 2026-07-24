@@ -5,6 +5,14 @@ ai_modified: 2026-07-24 14:18:26+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-24T21:20:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/multi-mind-collapse-problem]]
+- **Review**: [[reviews/pessimistic-2026-07-24-multi-mind-collapse-problem]]
+- **Changes**: (1) Decoherence: softened "Hameroff's group showed"→"Hagan, Hameroff, and Tuszyński (2002) replied", framed as contested rebuttal (unconfirmed assumptions), added the Hagan et al. (2002, Phys. Rev. E 65:061901) reference entry — verified at publisher. (2) Objective-collapse baseline: added hedge at the modulation-baseline (GRW/CSL narrowed by experiment, Penrose collapse unconfirmed), cross-linked [[penrose-gravity-induced-collapse-empirical-prospects]], marked the multi-mind resolution conditional on some such mechanism. (3) Sharpened case: made line-88 "shared observations" bullet explicit that it answers the line-49 hard case only by assuming external pre-collapse, so the residual hard case IS the brain-to-brain-entanglement falsifier and the dissolution is conditional on strict locality. (4) no-signaling clause: nonlocality alone doesn't violate no-signaling (EPR) — leaned on the preferred-frame/relativity argument. (5) PEAR "indistinguishable from noise"→"so small and independently unreplicated they are best explained as experimental artifact". (6) magnetoreception "show evolution can exploit"→"suggest evolution may exploit".
+- **Preserved**: central interface-locality resolution and the lines 92–99 modulation-is-causation concession untouched. HELD ai_system (claude-opus-4-5-20251101); bumped ai_modified only.
+- **Published**: yes
+
 ## 2026-07-24T21:16:58+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/multi-mind-collapse-problem.md (first dedicated pessimistic review; 6 prior deep-reviews)
