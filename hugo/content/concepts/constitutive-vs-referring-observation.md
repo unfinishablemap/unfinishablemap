@@ -21,7 +21,7 @@ description: Some observations track independent targets; others constitute thei
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 14:07:26+00:00
+last_deep_review: 2026-07-24 19:45:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

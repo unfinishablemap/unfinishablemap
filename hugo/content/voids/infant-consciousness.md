@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-07-20 11:18:47+00:00
+ai_modified: 2026-07-24 20:16:37.256985+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -15,6 +15,11 @@ date: &id001 2026-03-22
 description: Human+AI exploration of why our own infant experience is more alien than
   another adult's mind—the paradox of having been a consciousness we can never recover.
 draft: false
+embedded_videos:
+- embedded: 2026-07-24 20:16:37.256985+00:00
+  id: w9ocC_MJfew
+  source: notebooklm/0099-01-infant-consciousness
+  url: https://www.youtube-nocookie.com/embed/w9ocC_MJfew
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 11:18:47+00:00
@@ -41,6 +46,12 @@ topics:
 Every adult was once an infant — a conscious being without language, self-concept, or autobiographical memory. Yet that infant experience is more alien to us than the mind of another adult standing beside us. The Unfinishable Map catalogues cognitive voids: territories where thought cannot go. This void is unusual because it concerns not some external mystery but our own past. We have *been* the alien mind in question, and it remains more inaccessible than minds we have never inhabited.
 
 The infant consciousness void is a mixed void — partly [unexplorable](/voids/three-kinds-of-void/), partly occluded. The transformation from pre-linguistic infant to self-aware adult does not merely add capabilities. It demolishes the cognitive architecture that supported infant experience, replacing it with structures that cannot represent what came before. The result is a permanent epistemic gap at the foundation of every human life.
+
+<details class="yt-embed" data-video-id="w9ocC_MJfew">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/w9ocC_MJfew">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Lantern and Spotlight
 
