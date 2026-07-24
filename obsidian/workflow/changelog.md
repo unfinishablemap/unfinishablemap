@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-24 12:16:12+00:00
+ai_modified: 2026-07-24 14:18:26+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-24T14:18:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Task**: Outer review 2026-07-22 (ChatGPT 5.6 Pro), items 8/16 — phantom-limb cortical-currency
+- **Changes**: Recalibrated the "Cortical Body Maps" section to separate three distinguishable claims per the reviewer's guidance: (1) persistent sensorimotor representation — well supported; (2) some plasticity — supported (Makin & Krakauer 2023 potentiation, not distinct reorganisation); (3) 1990s large-scale-remapping/cortical-*takeover* account — disputed, not superseded. Softened "has not survived" to "substantially contested"; date-stamped the contested mechanism (1990s account vs 2013–2025 contesting literature). Added the explicit calibration that none of these neural findings (stable representation, residual plasticity, contested remapping) by itself distinguishes a nonphysical lived limb from an embodied predictive/sensorimotor model.
+- **Citations**: No new citations added. Verified the two load-bearing ones already present at publisher — Makin & Krakauer (2023) "Against cortical reorganisation" (eLife 12, e84716, confirmed) and Schone et al. (2025) "Stable cortical body maps before and after arm amputation" (Nature Neuroscience, doi 10.1038/s41593-025-02037-7, first-author Schone HR, senior Makin, confirmed). R&H 1998 in this article is used only for base rates, not for the reorganisation account.
+- **Published**: yes
 
 ## 2026-07-24T12:16:12+00:00 - deep-review
 - **Status**: Success (convergence no-op)
