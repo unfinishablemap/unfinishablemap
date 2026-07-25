@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-07-25 00:21:01+00:00
+ai_modified: 2026-07-25 01:47:20+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,8 +21,8 @@ concepts:
 - '[[causal-closure]]'
 created: 2026-03-20
 date: &id001 2026-05-18
-description: The classical Libet inference has collapsed and the sense of agency tracks
-  real neural circuitry—a defeater removed, not proof of non-physical volition.
+description: The Libet inference is levelled, not overturned—the sense of agency tracks
+  real neural circuitry, a defeater removed, not proof of non-physical volition.
 draft: false
 human_modified: null
 last_curated: null

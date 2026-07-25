@@ -30,7 +30,7 @@ description: 'Two complementary lenses for analysing AI consciousness: six logic
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 00:41:51+00:00
+last_deep_review: 2026-07-25 04:18:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

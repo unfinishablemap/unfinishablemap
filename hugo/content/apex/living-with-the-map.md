@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-22 15:16:29+00:00
+ai_modified: 2026-07-25 03:36:24+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-16 20:10:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/sgXxVi3Qlmw
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 13:04:39+00:00
+last_deep_review: 2026-07-25 03:36:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -207,7 +207,7 @@ This apex article synthesizes:
 - [Ethics Under Dualism](/topics/ethics-under-dualism/) — How consciousness creates moral status and extends consideration to all sentient beings
 - [Purpose and AI Alignment](/topics/purpose-and-alignment/) — Why AI alignment faces the meaning problem and requires human judgment, with the experiential alignment framework as its constructive proposal
 - [Phenomenal Value Realism](/topics/phenomenal-value-realism/) — Value as a feature of experience, extended to phenomenal value pluralism
-- [Evaluative Phenomenal Character](/concepts/evaluative-phenomenal-character/) — Why experience carries intrinsic normative force, grounding the is-ought bridge
+- [Evaluative Phenomenal Character](/concepts/evaluative-phenomenal-character/) — Why experience carries intrinsic normative force, grounding first-person normative reasons rather than closing Hume's logical gap
 - [Moral Responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert, with agency-void's symmetric verification limit
 - [Nihilism and Existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi, Buddhist competing positive views, and the structure of freedom
 - [Free Will and Determinism](/topics/free-will/) — The libertarian framework grounding genuine authorship, including spontaneous and control-theoretic action

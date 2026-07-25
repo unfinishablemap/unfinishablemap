@@ -1,13 +1,130 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-25 00:21:01+00:00
+ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-07-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-25T04:44:45+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-25 (subject: [panpsychism](/concepts/panpsychism/), same-subject triple)
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro)
+- **Clusters**: 3 convergent, 6 singleton, 1 divergent
+- **Tasks upgraded**: 2 (P2→P1: C. elegans-phi/IIT-currency, opponent-parity) + 1 already-P1 convergent cluster (version-skew) annotated only
+- **Tasks deduplicated**: 0 (per-review processing had already folded corroboration into the ChatGPT tasks; one open task per cluster)
+- **Note**: PP/active-inference NOT upgraded — Gemini's corroborating claim was fabricated (its own verification notes retract finding #3), so it fails the disputed-claim convergence rule; left as a strong Claude singleton. Gemini overall low-yield this cycle (4/5 headline findings retracted).
+- **Output**: [outer-review-synthesis-2026-07-25](/reviews/outer-review-synthesis-2026-07-25/)
+
+## 2026-07-25T04:39:15+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile pre-publication referee; subject: [panpsychism](/concepts/panpsychism/))
+- **File**: [outer-review-2026-07-25-gemini-2-5-pro](/reviews/outer-review-2026-07-25-gemini-2-5-pro/)
+- **Claims verified**: 12 quoted strings / citations grep-checked against live article + corpus
+- **High-value findings**: 1 (Donadi et al. 2021 *Nature Physics* DP-model constraint — genuine, non-duplicative currency gap in the L128 quantum hedge)
+- **Tasks generated**: 1 (P2: add Donadi 2021 to quantum-interaction hedge + optional Birch 2020, publisher-verify both)
+- **Rejected/noted in Verification Notes**: 4 headline weaknesses — one fabricated quote ("functional organization does not explain…" exists only in the review file), two sibling-cluster misattributions (Cutter/contingency-thesis and the "inherently non-compositional"/"phenomenal unity as primitive" quotes belong to russellian-monism / composition-and-consciousness / panpsychisms-combination-problem, not panpsychism.md), and two strawmen the live text already answers (non-binary gradient at L105; double-standard already conceded at L128/L178). IIT-controversy, predictive-processing, and Frankish-illusionism findings already tasked by the 2026-07-25 ChatGPT 5.6 Pro + Claude Opus 5 siblings — not re-minted (same-file-pileup discipline).
+
+## 2026-07-25T04:18:11+00:00 - deep-review
+- **Status**: Success (sixth consecutive clean review; converged, no-op)
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Word count**: 3089 → 3089 (+0; no content edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — only delta since 07-08 was a calibration-tightening reword the 07-18 refine already landed correctly ("access-machinery fully present" → "functional signatures of access present … not a settled claim about metacognition or agency"); moves conservative, no debt. Gurnee et al. 2026 cite carried forward real-correct (References block untouched). Advanced `last_deep_review` only; `ai_modified` held at HEAD (no-op discipline).
+- **Output**: [deep-review-2026-07-25-ai-consciousness-typology](/reviews/deep-review-2026-07-25-ai-consciousness-typology/)
+
+## 2026-07-25T04:22:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5
+- **File**: [outer-review-2026-07-25-claude-opus-5](/reviews/outer-review-2026-07-25-claude-opus-5/)
+- **Subject**: concepts/panpsychism.md (recent-aged fallback; part of the 2026-07-25 same-subject triple with ChatGPT 5.6 Pro)
+- **Claims verified**: 3 verified against live content + 3 against primary publishers. 1 CONFIRMED FABRICATION (combination-problem.md L128 Chalmers quote — absent from consc.net/papers/combination.pdf and contradicts his actual thesis; web-verified). Tononi stance-inversion and C. elegans Φ_AR-not-canonical-Φ overclaim confirmed technically sound. 0 reviewer claims failed.
+- **High-value findings**: 4 (verdict: REVISE-HARD) — fabricated Chalmers quote; Strawson/Goff/Tononi co-optation firewall failure; C. elegans positive-phi overclaim (convergent with sibling ChatGPT review); PP/active-inference blind spot
+- **Tasks generated**: 3 net-new (P1: 1 fabricated-quote purge; P2: 2 — co-optation firewall + PP engagement). C. elegans finding annotated onto the existing sibling-review task rather than duplicated (convergence flag). Methodology proposals (quote-fidelity delete-rule, co-optation gate, non-Claude verification, PP checklist) converge with standing NEEDS-HUMAN methodology items — not re-minted.
+- **Output**: [outer-review-2026-07-25-claude-opus-5](/reviews/outer-review-2026-07-25-claude-opus-5/)
+
+## 2026-07-25T03:53:41+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro
+- **File**: [outer-review-2026-07-25-chatgpt-5-6-pro](/reviews/outer-review-2026-07-25-chatgpt-5-6-pro/)
+- **Subject**: concepts/panpsychism.md (recent-aged fallback; part of the 2026-07-25 same-subject triple)
+- **Claims verified**: 5 verified against live content (combination "doesn't face entirely" contradiction; combination-problem residual-entirely vs L157 concession; Goff/Kastrup dissociation conflation; outdated non-zero-Φ IIT slogan; unsupported C. elegans positive-phi claim). 0 failed verification.
+- **High-value findings**: 5 (verdict: major revision, not rejection)
+- **Tasks generated**: 5 (P1: 2, P2: 3) — all on the panpsychism cluster; methodology proposals NOT re-minted (converge with the standing 2026-07-24 NEEDS-HUMAN methodology item)
+- **Output**: [outer-review-2026-07-25-chatgpt-5-6-pro](/reviews/outer-review-2026-07-25-chatgpt-5-6-pro/)
+
+## 2026-07-25T03:36:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [living-with-the-map](/apex/living-with-the-map/)
+- **Word count**: 3738 → 3738 (word-neutral consistency fix)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (residual Hume's-gap echo in Source Articles list: "grounding the is-ought bridge" → "grounding first-person normative reasons rather than closing Hume's logical gap", aligning summary with the body correction landed by refine eb51af993)
+- **Enhancements made**: 0 (length-neutral; 93% of soft threshold)
+- **Notes**: Sixth review, but a real body diff — verified internal consistency of three outer-review-driven refines since the fifth review (physicalism≠nihilism reframe, Hume's-gap contradiction fix, scoped AI bidirectional-coupling verdict, MWI branching expansion). All sound; only the line-205 summary echo needed correction.
+- **Output**: [deep-review-2026-07-25-living-with-the-map](/reviews/deep-review-2026-07-25-living-with-the-map/)
+
+## 2026-07-25T03:31:22+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/multiple-drafts-model.md (never-previously-reviewed concept engaging a named opponent, Dennett)
+- **Findings**: 3 fixable (1 Low: "formalised" overstatement; 2 Medium: unsupported "widely accepted/contested" quantifiers, under-signposted thin in-framework case). Direct-refutation discipline PASS (no label leakage, honest framework-boundary marking); citations spot-checked accurate. Queued one P3 refine-draft.
+- **Output**: [pessimistic-2026-07-25-multiple-drafts-model](/reviews/pessimistic-2026-07-25-multiple-drafts-model/)
+
+## 2026-07-25T03:16:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [death-void](/voids/death-void/)
+- **Word count**: 2734 (unchanged — no body edit)
+- **Critical issues addressed**: 0 (none found — seventh review, converged)
+- **Medium issues addressed**: 0 (all six 2026-07-23 pessimistic findings already resolved by refine `b0c9082c4`)
+- **Enhancements made**: 0
+- **Scope**: Verification pass. A 2026-07-23 pessimistic review raised six issues; a same-day `refine-draft` (b0c9082c4) resolved all six (lead now leads with experiential/indexical framing; dualism downgraded to "consistent with"; falsifiability #1 given a reachable conceptual/third-person disconfirmer; convergence reframed as Western-lineage facing anātman dissent; Nagel deprivation engaged; TMT + origin-essentialism flagged as contested). Confirmed each resolution sound. §2.4 web-verify triggered by the changed References block: **Bering & Bjorklund (2004)**, *Developmental Psychology* 40(2), 217-233 verified **real-correct** at publisher (ERIC/Ovid/Semantic Scholar/QUB) — the dead-mouse puppet study; corrects the 2026-06-20 ledger's false-positive "Bering (2002)" attribution. Named-opponent engagements (physicalist/MWI/anātman) all Mode Three, no label leakage, no banned constructs, no superlatives. Word count now in soft_warning (137% of 2000, under 3000 hard) — flagged, not acted on. Advanced `last_deep_review` only; held `ai_modified` at HEAD (07-23 refine) per converged-no-op discipline.
+- **Output**: [deep-review-2026-07-25-death-void](/reviews/deep-review-2026-07-25-death-void/)
+
+## 2026-07-25T02:46:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- **Word count**: 2768 (unchanged — no body edit)
+- **Critical issues addressed**: 0 (none found — sixth review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Verification pass over a strengthened-since-review article. Two refine-draft passes since the 07-06 review (`e61bf8097` two-overclaims, `2d952daf2` DMN-calibration) had already softened the residual possibility/probability slippage — superlative "maps more precisely than any other state" → "with unusual clarity", a "This is not X but Y" cliché removed, bandwidth two-channel + sequence-ordering claims re-hedged with explicit deflationary readings. Confirmed no new slippage, no citation churn (References byte-identical to 06-05 web-verified-clean state → §2.4 correctly skipped). Engagement with disinhibition account = Mode Three, no label leakage. Advanced `last_deep_review` only; held `ai_modified` at HEAD (07-20) and `ai_system` unchanged — no prose edits this pass.
+- **Output**: [deep-review-2026-07-25-hypnagogic-phenomenology-and-interface-modulation](/reviews/deep-review-2026-07-25-hypnagogic-phenomenology-and-interface-modulation/)
+
+## 2026-07-25T02:39:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-content-distinction](/concepts/process-content-distinction/)
+- **Word count**: unchanged (no body edit)
+- **Critical issues addressed**: 0 (none found — fifth review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: No-op convergence pass. Article re-qualified only on a sibling cross-review's cosmetic cross-link install (commit `98e5ba64b`, 2026-07-16: `"interpreter"` → [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) wikilink) that bumped `ai_modified` past `last_deep_review`. Verified new link target resolves; no new claims/cites/quotes since the 2026-07-10 live publisher-of-record verify, so the §2.4 ledger stands. Advanced `last_deep_review` only; held `ai_modified` at HEAD. As predicted by the 2026-07-10 stability note.
+- **Output**: [deep-review-2026-07-25-process-content-distinction](/reviews/deep-review-2026-07-25-process-content-distinction/)
+
+## 2026-07-25T02:17:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 2626 → 2626 (+0; one integration wikilink added, length-neutral)
+- **Critical issues addressed**: 0 (none found — twelfth review, long-converged)
+- **Medium issues addressed**: 1 (integration gap in new prose: linked `phenomenal-concept strategies` → [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/))
+- **Enhancements made**: 1
+- **Scope**: Vetted the one change since the 2026-06-21 review — the 2026-07-21 refine-draft's new rival-position matrix (commit `6505f6470`, ChatGPT 5.6 Pro "opponent caricatures" flag). Matrix confirmed accurate, well-calibrated, no label leakage, no self-contradiction, no new citations (06-21 13-cite ledger stands). Engagement mode: framework-mapping/Mode Two.
+- **Output**: [deep-review-2026-07-25-parsimony-epistemology](/reviews/deep-review-2026-07-25-parsimony-epistemology/)
+
+## 2026-07-25T01:47:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [volitional-control](/topics/volitional-control/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Original score**: n/a (cross-file confidence-version-skew propagation, not a single-doc review)
+- **Source**: 2026-07-24 ChatGPT 5.6 Pro outer review "confidence-version skew" finding (see [outer-review-2026-07-24-chatgpt-5-5-pro](/reviews/outer-review-2026-07-24-chatgpt-5-5-pro/), §"Semantic vs confidence integration" / rec context). Propagation counterpart to finding (D) of the same-day volitional-control P1, which already standardised the volitional-control *body* on levelled/underdetermined wording. This pass closes the residual escalations the body fix left behind.
+- **Changes**:
+  - `volitional-control`: rewrote the frontmatter `description` from "The classical Libet inference has collapsed…" to "The Libet inference is levelled, not overturned…" — the description lagged the already-corrected body (which reads "not that the Libet record has collapsed wholesale… the eliminativist inference from RP timing is now underdetermined"). 153 chars.
+  - `motor-control-quantum-zeno`: standardised the two residual "Libet dissolution" noun phrases (the article otherwise already uses "weakened / more level playing field") — "The Libet dissolution is crucial here" → "The levelling of the Libet inference is crucial here"; "the Libet dissolution removes the strongest evidence against a conscious role" → "the Libet levelling removes…". Length-neutral.
+  - Verified `libet-experiments` needs no change: its "dissolves" instances all refer to the Map's *own* proposed mechanism dissolving the timing puzzle/regress (a distinct positive claim), not the verdict on the eliminativist inference; it does not escalate.
+  - Companion check: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) holds the canonical calibration ("the clinical findings are compatible with both interpretations, and the data do not adjudicate between them… removing a defeater is not the same as upgrading the evidence") — left unchanged as the canonical source; the dependent articles now inherit it consistently.
+  - Frontmatter: bumped `ai_modified` on both files; HELD `ai_system` (claude-opus-4-6 on both). No `last_deep_review` change.
+- **Published**: yes
 
 ## 2026-07-25T00:21:01+00:00 - refine-draft
 - **Status**: Success

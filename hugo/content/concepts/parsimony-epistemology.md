@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-07-21 20:17:15+00:00
+ai_modified: 2026-07-25 02:17:13+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Why Occam's Razor lacks epistemic warrant in the consciousness deba
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 14:40:13+00:00
+last_deep_review: 2026-07-25 02:17:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ Each condition is an active research programme. The argument is conditional on t
 
 The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — is grounded directly in parsimony epistemology. The tenet does not reject parsimony wholesale; it identifies the conditions under which parsimony loses epistemic force and argues that the consciousness debate satisfies them. [Metaontological deflationism](/concepts/composition-question-rivals/#metaontological-deflationism) is the limiting case of distrusting simplicity-as-tiebreaker — dissolving the existence dispute as shallow rather than merely preferring the leaner ontology — a move the fifth tenet resists where consciousness is at stake.
 
-One standard objection to [interactionist-dualism](/concepts/interactionist-dualism/) is parsimony-based: physicalism posits fewer substance types, therefore prefer it. Parsimony is not the whole of the physicalist case, and not every physicalist position rests on it. Eliminativism and illusionism dispute that there is first-person phenomenal data of the relevant kind to explain; reductive phenomenal realism, phenomenal-concept strategies, representationalism, and nonreductive physicalism accept the first-person data as genuine and contest instead the Map's specification of its content and metaphysical implications. The parsimony argument engages only the part of that field which grants the data and then reaches for simplicity as a tie-breaker. Even there it requires three assumptions — that ontological parsimony is the relevant dimension, that the theories explain consciousness equally well, and that scientific parsimony transfers to metaphysical theory choice — each of which fails under scrutiny, and each of which has been conceded in part by materialists themselves.
+One standard objection to [interactionist-dualism](/concepts/interactionist-dualism/) is parsimony-based: physicalism posits fewer substance types, therefore prefer it. Parsimony is not the whole of the physicalist case, and not every physicalist position rests on it. Eliminativism and illusionism dispute that there is first-person phenomenal data of the relevant kind to explain; reductive phenomenal realism, [phenomenal-concept strategies](/concepts/phenomenal-concepts-strategy/), representationalism, and nonreductive physicalism accept the first-person data as genuine and contest instead the Map's specification of its content and metaphysical implications. The parsimony argument engages only the part of that field which grants the data and then reaches for simplicity as a tie-breaker. Even there it requires three assumptions — that ontological parsimony is the relevant dimension, that the theories explain consciousness equally well, and that scientific parsimony transfers to metaphysical theory choice — each of which fails under scrutiny, and each of which has been conceded in part by materialists themselves.
 
 When the preconditions for applying a principle are unmet, invoking it is a category error. The question must be settled on other grounds: explanatory power, phenomenological evidence, the [knowledge argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), and the coherence of the broader theoretical framework. On those grounds, the Map argues, dualism prevails — and when parsimony *is* correctly applied across all its dimensions, it [actually favours interactionist dualism](/topics/parsimony-case-for-interactionist-dualism/).
 
