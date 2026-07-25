@@ -73,14 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-25
 
-### P2: Neighbour semantic sync flagged by 2026-07-25 panpsychism audit (combination-problem residual "entirely", russellian-monism, universal-coupling-response, prebiotic-collapse)
-- **Type**: cross-review
-- **File**: obsidian/concepts/combination-problem.md
-- **Review file**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`
-- **Notes**: From outer review 2026-07-25 (ChatGPT 5.6 Pro). The 23 July interface-unity concession landed in `concepts/combination-problem.md` L157 but the same file still asserts the Map "avoids the problem/combination entirely" at L3 (description), L36, L132 and L189 — an internal contradiction; qualify these to match the L157 bedrock framing. Then propagate the corrected framing to the neighbours the audit flags: (a) [[russellian-monism]] — replace "complete sidestep / stable endpoint" language with a comparative ledger covering subject summing, pairing, interface unity, causal efficacy and psychophysical law; (b) [[universal-coupling-response]] — reconcile "coupling without arbitrary thresholds" with its own claim that some systems (e.g. C. elegans) may fall below an architectural threshold; define architectural adequacy operationally and state what would falsify it; (c) [[prebiotic-collapse]] — add a reciprocal warning that panpsychism does not by itself entail consciousness-caused collapse, linking back to the corrected panpsychism discussion. Length-neutral on each hub.
-- **Source**: outer-review
-- **Generated**: 2026-07-25
-
 ### P2: panpsychism.md — co-optation firewall: disclose the enlisted authors' anti-substance-dualism and correct the Tononi stance
 - **Type**: refine-draft
 - **File**: obsidian/concepts/panpsychism.md
@@ -1525,6 +1517,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-25: Neighbour semantic sync flagged by 2026-07-25 panpsychism audit (combination-problem residual "entirely", russellian-monism, universal-coupling-response, prebiotic-collapse)
+- **Type**: cross-review
+- **Notes**: From outer review 2026-07-25 (ChatGPT 5.6 Pro). The 23 July interface-unity concession landed in `concepts/combination-problem.md` L157 but the same file still asserts the Map "avoids the problem/combination entirely" at L3 (description), L36, L132 and L189 — an internal contradiction; qualify these to match the L157 bedrock framing. Then propagate the corrected framing to the neighbours the audit flags: (a) [[russellian-monism]] — replace "complete sidestep / stable endpoint" language with a comparative ledger covering subject summing, pairing, interface unity, causal efficacy and psychophysical law; (b) [[universal-coupling-response]] — reconcile "coupling without arbitrary thresholds" with its own claim that some systems (e.g. C. elegans) may fall below an architectural threshold; define architectural adequacy operationally and state what would falsify it; (c) [[prebiotic-collapse]] — add a reciprocal warning that panpsychism does not by itself entail consciousness-caused collapse, linking back to the corrected panpsychism discussion. Length-neutral on each hub.
 
 ### ✓ 2026-07-25: panpsychism.md — add Donadi et al. (2021) empirical constraint to the quantum-interaction hedge (+ optional Birch 2020 currency)
 - **Type**: refine-draft

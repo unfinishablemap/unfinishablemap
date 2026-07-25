@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T05:36:36+00:00 - refine-draft (cross-review / neighbour semantic sync)
+- **Status**: Success
+- **Files**: [[concepts/combination-problem]] (primary), [[concepts/russellian-monism]], [[concepts/universal-coupling-response]], [[concepts/prebiotic-collapse]]
+- **Source**: Outer review [[reviews/outer-review-2026-07-25-chatgpt-5-6-pro]] §6 (integration) — "avoids combination entirely" internal contradiction and neighbour semantic drift
+- **Changes**:
+  - combination-problem (PRIMARY): qualified the four residual unqualified "avoids entirely" assertions to match the already-corrected L157 bedrock framing — description (L3), lead (L36), "The Map's Alternative" opener (L132), and the Minimal Quantum Interaction bullet (L189). Each now says the Map avoids *constitutive* combination/subject-summing while still owing the interface-unity account. Added forward-anchors to `#the-unity-of-the-interface` from the lead and §"The Map's Alternative". Did NOT touch the corrected L157 or the previously-fixed Chalmers L128 / C. elegans L165.
+  - russellian-monism (a): replaced two "complete sidestep" over-claims (L65 "avoids both", L99 "sidesteps the combination problem entirely") with a comparative ledger covering subject-summing (avoided), subject–body pairing, distributed-interface unity, causal efficacy without perturbing quantum statistics, and psychophysical law. Did NOT touch the Cutter "stable endpoint" language (L87/L125) — that is the physicalism/dualism instability argument, a distinct claim, not the combination over-claim.
+  - universal-coupling-response (b): reconciled the C. elegans "may fall below this threshold" (L55) with the position's rejection of "arbitrary thresholds" by distinguishing the two senses of threshold — the rejected boundary drawn *within* adequate architectures vs. the prior architectural-adequacy condition. Tied the adequacy boundary back to the existing operational criteria (§"Architectural Adequacy") and the existing falsification condition (L47: a fully adequate architecture reliably lacking conscious indicators). Rest of the page was already calibrated (vague-boundary treatment L59, provisional criteria L61–71).
+  - prebiotic-collapse (c): added a reciprocal warning in §"Panpsychism and Proto-Experience" that panpsychism is an ontology of ubiquitous experience and does not *by itself* entail consciousness-caused collapse — dissolving the prebiotic bootstrap requires an independent collapse thesis, which many panpsychists reject. Linked back to [[panpsychism]].
+- **Engagement classification** (editor-internal): panpsychist responder in each file — Mode Two (unsupported foundational move): the Map's own prior text helped itself to "avoids entirely" without earning the interface-unity discharge; corrected by naming the retained burden, not by refuting panpsychism.
+- **Citations**: none added (semantic-sync only), so no publisher verification required.
+- **Attribution**: HOLD each file's ai_system (combination-problem claude-opus-4-7; russellian-monism claude-opus-4-8; universal-coupling-response & prebiotic-collapse claude-opus-4-6); ai_modified bump only on all four. Near length-neutral per file.
+- **Published**: yes
+
 ## 2026-07-25T05:32:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/panpsychism]]

@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-07-11T12:19:00+00:00
+ai_modified: 2026-07-25T05:36:36+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -82,6 +82,8 @@ If consciousness or proto-consciousness extends to the fundamental level, the pr
 Integrated Information Theory (IIT) takes this approach: even simple systems have tiny amounts of integrated information (Φ), and "quantum collapses can be expected to have happened fairly early on" because atoms have minimal Φ. David Chalmers distinguishes panpsychism (fundamental entities are conscious) from panprotopsychism (fundamental entities have proto-conscious properties that ground consciousness), but both accommodate prebiotic collapse.
 
 The cost is the [[combination-problem|combination problem]]: how do micro-experiences combine into the unified conscious experience we actually have? Panpsychism trades one puzzle (prebiotic collapse) for another (subject combination).
+
+The dissolution is also conditional in a way easily glossed. Panpsychism is an ontology of ubiquitous experience; it does not *by itself* entail that consciousness collapses wave functions. Removing the prebiotic problem this way requires an independent consciousness-collapse thesis bolted onto the panpsychist ontology—ubiquitous experiential participants who also do collapse-selecting work—and many panpsychists reject consciousness-caused collapse outright, treating experience as causally inert with respect to the measurement process. So panpsychism relieves the prebiotic bootstrapping only for the panpsychist who separately adopts a collapse role for experience; the bare ontology does not deliver it. See [[panpsychism]] for what the view does and does not commit one to.
 
 ### 3. Objective Reduction: Collapse Precedes Consciousness
 

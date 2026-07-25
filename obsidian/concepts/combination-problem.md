@@ -1,6 +1,6 @@
 ---
 title: "The Combination Problem"
-description: "If electrons have micro-experiences, how do billions combine into unified human consciousness? This problem for panpsychism remains unsolved. Interactionism avoids it entirely."
+description: "If electrons have micro-experiences, how do billions combine into unified human consciousness? This problem for panpsychism remains unsolved. Interactionism avoids constitutive subject-summing but still owes interface unity."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
@@ -30,10 +30,10 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T00:46:24+00:00
-ai_modified: 2026-07-25T05:18:47+00:00
+ai_modified: 2026-07-25T05:36:36+00:00
 ---
 
-The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
+The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the *constitutive* form of the problem by denying that matter has micro-experiences in the first place—though, as [the discussion of interface unity below](#the-unity-of-the-interface) concedes, it still owes an account of how one subject unifies a spatially distributed interface.
 
 ## The Problem Stated
 
@@ -129,7 +129,7 @@ Chalmers, still defending constitutive Russellian panpsychism, grants that "it i
 
 ## The Map's Alternative
 
-The Map's [[interactionist-dualism|interactionist framework]] avoids the combination problem entirely.
+The Map's [[interactionist-dualism|interactionist framework]] avoids the *constitutive* combination problem, though not every question of interface unity—as [the section on interface unity below](#the-unity-of-the-interface) makes explicit.
 
 On this view, matter does not have micro-experiences. Consciousness is not ubiquitous but *distinct*—a separate ontological category that interacts with matter rather than constituting it. There's no need to explain how micro-experiences combine because there are no micro-experiences.
 
@@ -186,7 +186,7 @@ The combination problem strengthens the case for the Map's framework:
 
 **Dualism**: If both physicalism (hard problem) and panpsychism (combination problem) face intractable challenges, interactionist dualism may offer a cleaner ontology.
 
-**Minimal Quantum Interaction**: the Map's framework avoids combination entirely. Consciousness doesn't arise from parts—it interfaces with matter at quantum indeterminacies, providing a locus for interaction even if the detailed mechanism remains unspecified.
+**Minimal Quantum Interaction**: the Map's framework avoids *constitutive* combination. Consciousness doesn't arise from parts—it interfaces with matter at quantum indeterminacies, providing a locus for interaction even if the detailed mechanism, and the unity of that distributed interface, remain unspecified.
 
 **Occam's Razor Has Limits**: The combination problem exemplifies the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Panpsychism seemed simpler than dualism (one kind of stuff), but its combination problem proves no less difficult than dualism's interaction problem.
 

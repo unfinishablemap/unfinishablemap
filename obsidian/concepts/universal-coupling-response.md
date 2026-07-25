@@ -4,7 +4,7 @@ description: "The dualist position that consciousness couples with all physical 
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-31T18:16:44+00:00
+ai_modified: 2026-07-25T05:36:36+00:00
 draft: false
 topics:
   - "[[invertebrate-consciousness-as-interface-test]]"
@@ -52,7 +52,7 @@ The universal coupling response approaches but does not reach panpsychism. The d
 
 [[panpsychism|Panpsychism]]—in its standard form—holds that consciousness or proto-consciousness is a fundamental feature of all matter. An electron has some form of experience. A thermostat has some form of experience. Consciousness is intrinsic to the physical, requiring no particular organisation.
 
-Universal coupling requires organisation. A nervous system with sufficient integration, hierarchical processing, and systemic coordination provides the physical conditions for interface. *C. elegans* with 302 neurons may fall below this threshold (Feinberg & Mallatt, 2016). A rock certainly does. The coupling mechanism needs something to couple *with*—quantum indeterminacies in neural tissue, on the Map's account—and unorganised matter does not provide it.
+Universal coupling requires organisation. A nervous system with sufficient integration, hierarchical processing, and systemic coordination provides the physical conditions for interface. *C. elegans* with 302 neurons may fall below the architectural-adequacy condition (Feinberg & Mallatt, 2016). A rock certainly does. This is not the "arbitrary threshold" universal coupling rejects: the rejected boundary is one drawn *within* adequate-looking architectures, sorting some coupling and some not; the adequacy condition is the prior question of whether the architecture supports an interface at all. Universal coupling denies a threshold among adequate systems while affirming that adequacy is itself required—and, as the falsification condition above states, a fully adequate architecture that reliably showed no indicator of consciousness would count against it. The coupling mechanism needs something to couple *with*—quantum indeterminacies in neural tissue, on the Map's account—and unorganised matter does not provide it.
 
 This distinction has consequences. Panpsychism faces the combination problem: how do micro-experiences in individual particles combine into the unified consciousness of a human mind? Universal coupling faces no combination problem because it does not posit micro-experiences. Consciousness does not bubble up from constituents. It couples with the system as a whole when that system reaches adequate architectural complexity.
 
