@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T09:10:00+00:00 - deep-review
+- **Status**: Success (7th review, converged; length-neutral maintenance trim)
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Word count**: 3541 → 3497 (-44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral trim only)
+- **Note**: Only change since the 6th review (2026-07-07) was two Further Reading cross-link bullets — `[[self-model-theory-of-subjectivity]]` (added by the SMT expand-topic 2026-07-11) and `[[self-representational-theory-of-consciousness]]` (added by its cross-review 2026-07-13). Both targets resolve; glosses verified accurate against target descriptions. The bullets pushed the article 41 words over the 3500 concepts hard threshold (3498→3541), so per the hub-cross-link-accretion pattern I removed equivalent genuine redundancy (conditional-preference restatement in Testability; duplicated anti-bundle sentence in Diachronic Identity; one tightened falsifier sentence; minor gloss trim), keeping both valuable links. No argument or calibration qualifier removed. References block byte-identical to 2026-05-27 ledger; §2.4 trigger not re-met; find_superlative_claims=0. Held ai_system at claude-opus-4-7 (minor trim, not re-authoring). No slippage, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-25-self-and-self-consciousness]]
+
 ## 2026-07-25T08:47:51+00:00 - deep-review
 - **Status**: Success (no-op — 6th review, converged; all drift since 2026-07-09 was correction-landing + cross-link installs, no new claims)
 - **File**: [[concepts/quantum-biology-and-neural-mechanisms]]

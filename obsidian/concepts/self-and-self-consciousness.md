@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-07-13T21:25:38+00:00
+ai_modified: 2026-07-25T09:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-01
 last_curated:
-last_deep_review: 2026-07-07T15:58:16+00:00
+last_deep_review: 2026-07-25T09:10:00+00:00
 coalesced_from:
   - "/concepts/self-and-consciousness/"
   - "/concepts/self-consciousness/"
@@ -86,7 +86,7 @@ A fourth dimension cuts across all layers: [[self-opacity|the unobservable self]
 
 Within the minimal-self layer, two further phenomenal features must be distinguished. [[mine-ness|Mine-ness]] is the for-me character by which experience presents as belonging to a subject. The sense of agency is the further character by which a thought or action presents as initiated by that subject. Shaun Gallagher (2000, 2012) draws the distinction from clinical phenomenology: schizophrenic thought insertion preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else), whereas depersonalisation can disrupt ownership while leaving agency intact (actions feel mine to initiate but the experiential field as a whole feels alien).
 
-Most of this article's claims about "for-me-ness" and "first-personal givenness" sit at the *mine-ness* layer rather than the agency layer. Ego-dissolution evidence concerns mine-ness; the bidirectional-interaction argument concerns agency; the indexical-identity argument concerns mine-ness as the phenomenal anchor and haecceity as its diachronic correlate. Keeping the distinction visible matters because the falsifying scenario for the Map's reading of one feature is not the falsifying scenario for the other: a body of cases in which content and mine-ness co-vary perfectly would defeat the mine-ness reading without touching the agency reading, and vice versa. The architecture is one of phenomenal feature decomposition, not a metaphysical commitment about how many subjects there are — the [[evidential-status-discipline]] applies symmetrically to both layers.
+Most of this article's claims about "for-me-ness" and "first-personal givenness" sit at the *mine-ness* layer rather than the agency layer. Ego-dissolution evidence concerns mine-ness; the bidirectional-interaction argument concerns agency; the indexical-identity argument concerns mine-ness as the phenomenal anchor and haecceity as its diachronic correlate. The distinction matters because the falsifying scenario for one feature is not the falsifying scenario for the other: cases in which content and mine-ness co-vary perfectly would defeat the mine-ness reading without touching the agency reading, and vice versa. The architecture is one of phenomenal feature decomposition, not a metaphysical commitment about how many subjects there are — the [[evidential-status-discipline]] applies symmetrically to both layers.
 
 ## Pre-Reflective and Reflective Self-Consciousness
 
@@ -172,7 +172,7 @@ The Map distinguishes three positions on what connects conscious moments:
 
 1. **Substance persistence** (classical dualism): a soul-substance endures unchanged. Buddhist analysis dismantles this — nothing requires an unchanging core.
 2. **Mere causal succession** (Abhidharma reductionism): only momentary states exist, making the indexical "I" a fiction.
-3. **Diachronic irreducibility** (the Map's position): the non-physical subject persists through qualitative change without being an unchanging substance — as an organism remains numerically the same while every cell is replaced. The non-physical subject is not constituted by its momentary properties and so is not destroyed by their change.
+3. **Diachronic irreducibility** (the Map's position): the non-physical subject persists through qualitative change without being an unchanging substance — as an organism remains numerically the same while every cell is replaced.
 
 What persists is not a property or pattern but the bare particular whose for-me-ness makes each moment *this* subject's experience. The Map acknowledges it cannot fully explain *what constitutes* this identity — it is treated as primitive.
 
@@ -182,7 +182,7 @@ Self-consciousness generates a **meta-hard problem**: the [[hard-problem-of-cons
 
 The [[binding-problem|binding problem]] asks how unified experience arises from distributed neural processing. Phenomenal unity and first-person perspective may be two aspects of the same phenomenon — every conscious experience is unified *for* someone. If the brain does not produce consciousness, the problem inverts: consciousness has intrinsic unity, and the brain provides informational content it binds ([[minimal-consciousness|minimal consciousness]]).
 
-The minimal self thesis has limited empirical testability: testing requires reports, but reports presuppose a reporter. The Map does not treat Zahavi as the last word, only as the best current framing — the one that coheres with the Map's broader commitments in a way Metzinger's cannot.
+The minimal self thesis has limited empirical testability: testing requires reports, but reports presuppose a reporter. The Map does not treat Zahavi as the last word, only as the best current framing.
 
 ## Relation to Site Perspective
 
@@ -207,7 +207,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 - [[indexical-knowledge-and-identity]] — Why "I," "here," "now" resist impersonal translation
 - [[phenomenal-authority-and-first-person-evidence]] — Husserl's evidence taxonomy
 - [[self-model-theory-of-subjectivity]] — Metzinger's SMT, the representationalist no-self account this minimal-self view is the realist foil to
-- [[self-representational-theory-of-consciousness]] — Kriegel's reductive same-order option sitting between Zahavi's non-representational pre-reflective self-awareness and the eliminativists; the Map credits its structural analysis while siding with Zahavi
+- [[self-representational-theory-of-consciousness]] — Kriegel's reductive same-order option between Zahavi's pre-reflective self-awareness and the eliminativists; the Map credits its structural analysis but sides with Zahavi
 - [[haecceity]] — The diachronic thisness the Map adds to Zahavi's synchronic account
 - [[self-construction-constructor]] — Apex synthesis where Henrich's reflection-model circularity becomes the general argument that the constructor cannot be the last construction: every attempt to build the subject from non-self-conscious parts smuggles the subject back in
 

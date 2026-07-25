@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T08:49:30.399549+00:00'
-session_count: 17121
+last_updated: '2026-07-25T09:07:53.570855+00:00'
+session_count: 17122
 cycle_position: 11689
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T06:39:17.166027+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T08:37:36.587322+00:00'
+  replenish-queue: '2026-07-25T09:07:53.570855+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1231,7 +1231,45 @@ queue_status:
     queued (parse_tasks 0 active/vetoed target) / vetoed / session-touched (git --since
     2026-07-25T00:00 empty; last touch 07-12). EOF clean, no [1m] artifact. BOTTOM-inserted
     (FIFO). Pruned run_795_note per note-bloat discipline (keep ~3: 796/797/798).'
-  run_799_note: 'run no.799 (2026-07-25T09:05Z, interactive /replenish-queue): SINGLE exact-floor +1 staleness deep-review mint concepts/timing-gap-problem.md. Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 self-and-self-consciousness run-797 + P2 quantum-indeterminacy-free-will run-798); queue dropped 3->2 since run-798 as the loop-less local cycle deep-review slot completed run-796''s holder concepts/quantum-biology-and-neural-mechanisms. Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; mint parsed DEEP_REVIEW with Type+File lines, heading L1512). No evolve_loop/cycle process (pgrep clean); only uncommitted delta is the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH standing human decision epistemology-of-convergence-arguments.md untouched; positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: both content holders already queued; higher-scored distinct candidates self-minimal (12.86, opus-4-6, thin ~10-cite surface + selfhood-overlap w/ holder) / cross-traditional (12.86, over-reviewed + touched 07-18) / musical-understanding (12.8, opus-4-8 DE-PRIORITIZED-newest) / generalised-probabilistic-theories (12.31, opus-4-8 newest + reviewed 07-16 9d) passed over; chose timing-gap-problem (11.61, 19d) on the established discriminator -- SIZE of unchecked verify surface: older opus-4-6 cohort with the largest EMPIRICAL/currency-sensitive quantum-timing citation apparatus among distinct candidates (~17 year-cites / 10 numbered refs: Denton 2024 Nat Commun 15:10823, Fisher 2015 Ann Phys 362, Swift 2018 PCCP 20(18), Tegmark 2000 PRE 61(4), Hameroff-Penrose 2014 PLR 11(1), Hagan 2002 PRE 65(6), Libet 1983 Brain 106(3), Thura-Cisek 2014 Neuron 81(6), Rajan 2019 Cereb Cortex 29(7), Perry 2025 SSRN preprint). Post-review 07-06->07-14 delta is a REAL content change (07-14 refine-draft fixed the Zeno observation-count arithmetic, commit 86220acfd) so staleness AND changed-surface warrants both hold. LENGTH: analyze_length 1509w status ok (concepts hard 3500) = LENGTH-NEUTRAL deep-review, NOT a condense. Lenses: citation-metadata at publisher (NOT own page), empirical-claim fidelity (neural-timing windows 280/300/550ms, Fisher->Swift coherence-bound revision, Tegmark decoherence timescale), currency (fast QB record; Perry 2025 preprint re-verify), verbatim quote-fidelity, citation-framing (Tegmark/Hagan decoherence-skeptics not co-opted); PRESERVE the already-correct L70 Denton/Kominis ''modelled not demonstrated / not first'' calibration -- do NOT re-inflate. ai_system claude-opus-4-6 (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. CONCEPTS / quantum-consciousness-mechanism / decoherence-timing cluster -- DISTINCT from both holders. NOT queued (parse_tasks 0 active/vetoed target; grep hits are cross-link/integration-chain notes-prose) / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-14). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_796_note per note-bloat discipline (keep ~3: 797/798/799).'
+  run_799_note: 'run no.799 (2026-07-25T09:05Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 staleness deep-review mint concepts/timing-gap-problem.md. Authoritative
+    pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 self-and-self-consciousness
+    run-797 + P2 quantum-indeterminacy-free-will run-798); queue dropped 3->2 since
+    run-798 as the loop-less local cycle deep-review slot completed run-796''s holder
+    concepts/quantum-biology-and-neural-mechanisms. Below floor 3, == 3 after (tool-verified
+    post-write count_p0_p2 == 3; mint parsed DEEP_REVIEW with Type+File lines, heading
+    L1512). No evolve_loop/cycle process (pgrep clean); only uncommitted delta is
+    the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit:
+    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
+    100/100, positions 8/80); orphaned_files=0; LENGTH standing human decision epistemology-of-convergence-arguments.md
+    untouched; positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d);
+    no applied-apex gap. TARGET: both content holders already queued; higher-scored
+    distinct candidates self-minimal (12.86, opus-4-6, thin ~10-cite surface + selfhood-overlap
+    w/ holder) / cross-traditional (12.86, over-reviewed + touched 07-18) / musical-understanding
+    (12.8, opus-4-8 DE-PRIORITIZED-newest) / generalised-probabilistic-theories (12.31,
+    opus-4-8 newest + reviewed 07-16 9d) passed over; chose timing-gap-problem (11.61,
+    19d) on the established discriminator -- SIZE of unchecked verify surface: older
+    opus-4-6 cohort with the largest EMPIRICAL/currency-sensitive quantum-timing citation
+    apparatus among distinct candidates (~17 year-cites / 10 numbered refs: Denton
+    2024 Nat Commun 15:10823, Fisher 2015 Ann Phys 362, Swift 2018 PCCP 20(18), Tegmark
+    2000 PRE 61(4), Hameroff-Penrose 2014 PLR 11(1), Hagan 2002 PRE 65(6), Libet 1983
+    Brain 106(3), Thura-Cisek 2014 Neuron 81(6), Rajan 2019 Cereb Cortex 29(7), Perry
+    2025 SSRN preprint). Post-review 07-06->07-14 delta is a REAL content change (07-14
+    refine-draft fixed the Zeno observation-count arithmetic, commit 86220acfd) so
+    staleness AND changed-surface warrants both hold. LENGTH: analyze_length 1509w
+    status ok (concepts hard 3500) = LENGTH-NEUTRAL deep-review, NOT a condense. Lenses:
+    citation-metadata at publisher (NOT own page), empirical-claim fidelity (neural-timing
+    windows 280/300/550ms, Fisher->Swift coherence-bound revision, Tegmark decoherence
+    timescale), currency (fast QB record; Perry 2025 preprint re-verify), verbatim
+    quote-fidelity, citation-framing (Tegmark/Hagan decoherence-skeptics not co-opted);
+    PRESERVE the already-correct L70 Denton/Kominis ''modelled not demonstrated /
+    not first'' calibration -- do NOT re-inflate. ai_system claude-opus-4-6 (SINGLE
+    older cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. CONCEPTS
+    / quantum-consciousness-mechanism / decoherence-timing cluster -- DISTINCT from
+    both holders. NOT queued (parse_tasks 0 active/vetoed target; grep hits are cross-link/integration-chain
+    notes-prose) / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last
+    touch 07-14). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_796_note
+    per note-bloat discipline (keep ~3: 797/798/799).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
