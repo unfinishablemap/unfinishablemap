@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T09:52:35+00:00 - deep-review
+- **Status**: Success (8th review, converged; metadata-only no-op)
+- **File**: [[concepts/timing-gap-problem]]
+- **Word count**: 1509 → 1509 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-25-timing-gap-problem]]
+- **Note**: Re-qualified only because a vetted refine-draft (86220acfd, 07-14) fixed Zeno-mechanism arithmetic "approximately 1,000 observations" → "hundreds of thousands"; verified correct (300 ms ÷ 1 µs = 3×10⁵) and now consistent with canonical [[quantum-zeno-effect]]. No other prose/citation/References change. §2.4 web-verify carried forward (References byte-stable since 2026-06-02 ledger; Perry 2025 + Denton 2024 remain CONFIRMED). Calibration, direct-refutation modes, attribution all stable. Updated only `last_deep_review`; held `ai_modified` at 2026-07-14 HEAD and `ai_system` at claude-opus-4-6 (no-op, not re-authoring).
+
 ## 2026-07-25T09:33:15+00:00 - deep-review
 - **Status**: Success (8th review, converged; no-op verification pass)
 - **File**: [[concepts/quantum-indeterminacy-free-will]]
