@@ -5,6 +5,14 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T17:32:00+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Positions touched**: P-Q1, P-Q2, P-Q7, P-Q10 in positions/quantum-interface.md
+- **Operation**: Addressed the three concrete pessimistic-2026-07-25 findings. (1) Issue 1 — P-Q1 Asserts: disambiguated decoherence/collapse ontology; "post-decoherence" now explicitly names selection's *timing relative to decoherence* (improper mixture, not already-singular outcomes) and states that under Tenet 4 the selection *is* the effective single-branch reduction. (2) Issue 2 — P-Q2 Depends-on and P-Q7 Calibration/Asserts/Depends-on: surfaced Torres Alegre 2025's unrefereed-preprint status (arXiv:2512.12636) and softened "supported by" → "compatible with / consistent with", scoping it as a no-signalling *safety*/compatibility result doing no work *for* the interface over rivals; grade held at C (no C-minus band) but explicitly compatibility-conditional. (3) Issue 3 — P-Q10 "Would shift if": added the joint-unsatisfiability *Failure* branch (demote P-Q1, push P-Q3 to epiphenomenalism horn) the roadmap body already described.
+- **Calibration**: no credence/centrality/grade-band changes; all edits sharpen wording and surface caveats. Last reviewed bumped to 2026-07-25 on P-Q1/P-Q2/P-Q7/P-Q10.
+- **Cascade**: none — no position's Depends-on line was retired or repointed; downstream dependents (P-Q3, P-Q9) unaffected in substance. Two counterarguments from the review (preferred-mechanism-least-exposed; indexical-resolution-imports-contested-subject) left as marked counterarguments, not register defects.
+- **Source**: [[reviews/pessimistic-2026-07-25-quantum-interface]]
+
 ## 2026-07-25T17:15:09+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: positions/quantum-interface.md (Quantum Interface register, P-Q1–P-Q10; never previously reviewed, no deep-review)

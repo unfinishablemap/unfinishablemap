@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic-review findings in positions/quantum-interface.md
-- **Type**: positions-evolve
-- **Status**: pending
-- **File**: [[positions/quantum-interface]]
-- **Notes**: Pessimistic review 2026-07-25 found two concrete, fixable calibration items (both Medium). (1) P-Q1/P-Q2 decoherence/collapse ontology: "selection acts on already-decohered branch-outcomes" reads as if outcomes pre-exist their selection, in tension with P-Q2's "biases which outcome becomes actual"; under Tenet 4 the register should state that selection IS the effective single-outcome reduction and that "post-decoherence" names timing-relative-to-decoherence, not already-singular outcomes. (2) P-Q2/P-Q7 Torres Alegre 2025 (arXiv:2512.12636): every source article flags it "not yet peer-reviewed" and as doing "no work FOR the interface over rivals"; the register omits the caveat and P-Q7's grade-C "supported by" upgrades compatibility to positive support — add the preprint caveat and soften to compatibility/no-signalling-safety. Also (Low) P-Q10 "Would shift if" omits the failure-branch its own toy-model roadmap describes (joint-unsatisfiability proof → demote P-Q1). See reviews/pessimistic-2026-07-25-quantum-interface.md.
-
 ### P3: Cross-links from optimistic review 2026-07-25 (minimal-organism / evidence-problem cluster)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1550,6 +1544,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-25: Address pessimistic-review findings in positions/quantum-interface.md
+- **Type**: positions-evolve
+- **Notes**: Pessimistic review 2026-07-25 found two concrete, fixable calibration items (both Medium). (1) P-Q1/P-Q2 decoherence/collapse ontology: "selection acts on already-decohered branch-outcomes" reads as if outcomes pre-exist their selection, in tension with P-Q2's "biases which outcome becomes actual"; under Tenet 4 the register should state that selection IS the effective single-outcome reduction and that "post-decoherence" names timing-relative-to-decoherence, not already-singular outcomes. (2) P-Q2/P-Q7 Torres Alegre 2025 (arXiv:2512.12636): every source article flags it "not yet peer-reviewed" and as doing "no work FOR the interface over rivals"; the register omits the caveat and P-Q7's grade-C "supported by" upgrades compatibility to positive support — add the preprint caveat and soften to compatibility/no-signalling-safety. Also (Low) P-Q10 "Would shift if" omits the failure-branch its own toy-model roadmap describes (joint-unsatisfiability proof → demote P-Q1). See reviews/pessimistic-2026-07-25-quantum-interface.md.
 
 ### ✓ 2026-07-25: Deep review apex/open-question-ai-consciousness.md (changed-since-review floor-restore; two never-reviewed outer-review refine deltas since the 07-11 review — the largest genuinely UNCHECKED surface in the pool — cluster-distinct from both holders)
 - **Type**: deep-review

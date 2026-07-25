@@ -1,5 +1,9 @@
-last_updated: '2026-07-25T17:19:58.068099+00:00'
-session_count: 17188
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-25T17:21:25.532788+00:00'
+session_count: 17189
 cycle_position: 11718
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-25T13:04:53.914709+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-25T17:21:07.872679+00:00'
+  agentic-social: '2026-07-25T17:21:25.532788+00:00'
   embed-videos: '2026-07-25T15:07:21.134844+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
@@ -97,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -175,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: pessimistic-review
   type: pessimistic-review
+  date: '2026-07-25'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1182,47 +1186,47 @@ queue_status:
     EOF clean (Zhang 2026 arXiv ref), no [1m] artifact. BOTTOM-inserted (FIFO). Full
     reasoning in the todo task Notes. Pruned run_811_note per note-bloat discipline
     (keep ~3: 815/816/817).'
-  run_818_note: "run no.818 (2026-07-25T~16:56Z, interactive /replenish-queue): SINGLE\
-    \ exact-floor +1 changed-since-review deep-review mint topics/quantum-neural-timing-constraints.md.\
-    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2\
-    \ open-question-ai-consciousness run-816 + P2 probability-problem-in-many-worlds\
-    \ run-817); queue dropped 3->2 since run-817 as the loop-less local cycle deep-review\
-    \ slot completed run-815 holder topics/neural-implementation-specifics.md. Below\
-    \ floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parses\
-    \ TaskType.DEEP_REVIEW with Type+File lines). No evolve_loop/unfin-cycle process\
-    \ (pgrep clean); HEAD 4c9552372; only uncommitted state delta is pre-existing\
-    \ deferred cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap\
-    \ BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;\
-    \ LENGTH human-decision tasks already queued P3; positions 8<10 audit threshold\
-    \ + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET (Source\
-    \ 4 changed-since-review): among the length-safe + cohort-distinct pool, quantum-neural-timing-constraints\
-    \ (score 8.24) wins on genuinely-unchecked surface. The 07-10 review was a generic\
-    \ cycle deep-review and the 07-16 commit is a COALESCE (auto(coalesce): cycle\
-    \ -- NOT a deep-review) that ADDED a substantive never-deep-reviewed timing-window/decoherence-compatibility\
-    \ paragraph carrying empirical claims (200-550ms windows; gamma ~25ms; theta ~500ms)\
-    \ atop a 35-ref quantum-biology citation apparatus (Tegmark 2000, Hagan 2002,\
-    \ Denton 2024 seams). Coalesce hides review debt (coalesce-hides-review-debt-and-regresses-fixes),\
-    \ so this content is UNVERIFIED by deep-review. 8 sidecars = heavy, but legitimate\
-    \ pool-drain on the real dated coalesce delta + citation-dense surface (run-814/816\
-    \ precedent). ai_system claude-opus-4-5-20251101 SINGLE cohort -- FULLY distinct\
-    \ from both holders (opus-4-6; opus-4-6+opus-4-8), a clean attribution win. Cluster\
-    \ distinct (quantum-neural decoherence-timing vs AI-consciousness + MWI/Born-rule).\
-    \ Alternatives lost: cognitive-immune (10.77) reviewed 07-18 too-recent; eliminative-materialism\
-    \ (10.00) 39w hard-margin length-risky + converged 2-day delta; consistent-histories\
-    \ (10.00) reviewed 07-17 converged; neural-correlates (9.73) SATURATED 9-sidecar\
-    \ ledger + cosmetic-wikilink delta; higher-order-theories (9.03) HOT cite cluster\
-    \ already fully swept in its 07-11 owed-web-verify review; introspection/phenomenal-authority/qm-interpretations/machine-consciousness/personal-identity\
-    \ all hard_warning length-BLOCKED. LENGTH: analyze_length 2659w OK, ~1341w under\
-    \ topics hard 4000 -- comfortably length-safe verification pass, do NOT pad. SEAM:\
-    \ verify the 07-16 coalesce empirical-timing paragraph + the 35-ref quantum-biology\
-    \ apparatus (metadata/quote/empirical-claim fidelity) at PRIMARY publisher not\
-    \ own page; KEEP Denton 2024 modelled/computational NOT first/demonstrated; currency-sweep\
-    \ decoherence-time superlatives; preserve Tenet-2 evidential-status hedges. ai_contribution\
-    \ 100, draft:false. NOT queued (todo hits are \u2713-completed 05-26 cross-link\
-    \ installs + other-task Notes) / vetoed / session-touched (git --since 2026-07-25T00:00\
-    \ empty; last touch 07-16). EOF clean (Thura & Cisek 2014 Neuron ref), no [1m]\
-    \ artifact. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned\
-    \ run_815_note per note-bloat discipline (keep ~3: 816/817/818)."
+  run_818_note: 'run no.818 (2026-07-25T~16:56Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint topics/quantum-neural-timing-constraints.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 open-question-ai-consciousness
+    run-816 + P2 probability-problem-in-many-worlds run-817); queue dropped 3->2 since
+    run-817 as the loop-less local cycle deep-review slot completed run-815 holder
+    topics/neural-implementation-specifics.md. Below floor 3, == 3 after (tool-verified
+    post-write count_p0_p2 == 3; new mint parses TaskType.DEEP_REVIEW with Type+File
+    lines). No evolve_loop/unfin-cycle process (pgrep clean); HEAD 4c9552372; only
+    uncommitted state delta is pre-existing deferred cycle_post bookkeeping -- KEEP.
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
+    319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH human-decision
+    tasks already queued P3; positions 8<10 audit threshold + last positions-evolve
+    2026-07-20 (<30d); no applied-apex gap. TARGET (Source 4 changed-since-review):
+    among the length-safe + cohort-distinct pool, quantum-neural-timing-constraints
+    (score 8.24) wins on genuinely-unchecked surface. The 07-10 review was a generic
+    cycle deep-review and the 07-16 commit is a COALESCE (auto(coalesce): cycle --
+    NOT a deep-review) that ADDED a substantive never-deep-reviewed timing-window/decoherence-compatibility
+    paragraph carrying empirical claims (200-550ms windows; gamma ~25ms; theta ~500ms)
+    atop a 35-ref quantum-biology citation apparatus (Tegmark 2000, Hagan 2002, Denton
+    2024 seams). Coalesce hides review debt (coalesce-hides-review-debt-and-regresses-fixes),
+    so this content is UNVERIFIED by deep-review. 8 sidecars = heavy, but legitimate
+    pool-drain on the real dated coalesce delta + citation-dense surface (run-814/816
+    precedent). ai_system claude-opus-4-5-20251101 SINGLE cohort -- FULLY distinct
+    from both holders (opus-4-6; opus-4-6+opus-4-8), a clean attribution win. Cluster
+    distinct (quantum-neural decoherence-timing vs AI-consciousness + MWI/Born-rule).
+    Alternatives lost: cognitive-immune (10.77) reviewed 07-18 too-recent; eliminative-materialism
+    (10.00) 39w hard-margin length-risky + converged 2-day delta; consistent-histories
+    (10.00) reviewed 07-17 converged; neural-correlates (9.73) SATURATED 9-sidecar
+    ledger + cosmetic-wikilink delta; higher-order-theories (9.03) HOT cite cluster
+    already fully swept in its 07-11 owed-web-verify review; introspection/phenomenal-authority/qm-interpretations/machine-consciousness/personal-identity
+    all hard_warning length-BLOCKED. LENGTH: analyze_length 2659w OK, ~1341w under
+    topics hard 4000 -- comfortably length-safe verification pass, do NOT pad. SEAM:
+    verify the 07-16 coalesce empirical-timing paragraph + the 35-ref quantum-biology
+    apparatus (metadata/quote/empirical-claim fidelity) at PRIMARY publisher not own
+    page; KEEP Denton 2024 modelled/computational NOT first/demonstrated; currency-sweep
+    decoherence-time superlatives; preserve Tenet-2 evidential-status hedges. ai_contribution
+    100, draft:false. NOT queued (todo hits are ✓-completed 05-26 cross-link installs
+    + other-task Notes) / vetoed / session-touched (git --since 2026-07-25T00:00 empty;
+    last touch 07-16). EOF clean (Thura & Cisek 2014 Neuron ref), no [1m] artifact.
+    BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_815_note
+    per note-bloat discipline (keep ~3: 816/817/818).'
   run_819_note: 'run no.819 (2026-07-25T~17:10Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint apex/consciousness-and-agency.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 probability-problem-in-many-worlds
@@ -1275,8 +1279,7 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
-    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
-    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
-    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
-    \ most-recent."
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
+    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
+    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
+    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
