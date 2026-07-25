@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T07:04:33.870539+00:00'
-session_count: 17107
+last_updated: '2026-07-25T07:21:25.452471+00:00'
+session_count: 17108
 cycle_position: 11684
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T06:39:17.166027+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T06:55:41.716090+00:00'
+  replenish-queue: '2026-07-25T07:21:25.452471+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1173,26 +1173,26 @@ queue_status:
     concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the
     STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched; positions
     8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: get_review_candidates top scores are apex-articles.md governance hub
-    + positions/ register files (via positions-evolve). Both content holders already
+    gap. TARGET: get_review_candidates top scores are apex-articles.md governance
+    hub + positions/ register files (via positions-evolve). Both content holders already
     queued; chose consciousness-disruption (12.73, 14d) on the established discriminator
     — SIZE of unchecked verify surface: ties fewest sidecars (5), older claude-opus-4-6
     cohort, LARGEST unchecked clinical citation surface (~15 inline year-cites / ~17
-    refs incl currency-sensitive Bodien NEJM 2024 CMD, Hu Nat-Neurosci 2023 KCC2, Mashour
-    Neuron 2024, Sarasso Curr-Biol 2015 PCI). Post-review delta cosmetic (hemispherectomy
+    refs incl currency-sensitive Bodien NEJM 2024 CMD, Hu Nat-Neurosci 2023 KCC2,
+    Mashour Neuron 2024, Sarasso Curr-Biol 2015 PCI). Post-review delta cosmetic (hemispherectomy
     wikilink + landed Cogitate/Melloni sweep) so a STALENESS pick justified by unverified
     surface not change. NOTE the article reads analyze_length 4002w hard_warning (topics
     hard 4000) — a 2-WORD reference-apparatus breach (~17 refs), NOT argument bloat:
     annotated LENGTH-NEUTRAL deep-review, do NOT convert to condense. Lenses: citation-metadata
-    at publisher (NOT own page), empirical-claim fidelity (CMD prevalence / PCI / KCC2
-    mechanism), currency, verbatim quote-fidelity, citation-framing (Mashour, Koch/Tononi
-    as IIT proponents). ai_system claude-opus-4-6 (SINGLE older cohort, HOLD verbatim
-    on no-op), ai_contribution 100, draft:false. TOPICS / consciousness-disruption /
-    clinical-anaesthesia-coma-DoC cluster — DISTINCT from both holders. NOT queued (parse_tasks
-    zero active target; the 2 slug hits are the holders'' notes prose + an L237 harvest
-    research-note mention) / vetoed / session-touched (git --since 2026-07-25T00:00
-    empty; last touch 07-16). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned
-    run_791_note per note-bloat discipline (keep ~3: 792/793/794).'
+    at publisher (NOT own page), empirical-claim fidelity (CMD prevalence / PCI /
+    KCC2 mechanism), currency, verbatim quote-fidelity, citation-framing (Mashour,
+    Koch/Tononi as IIT proponents). ai_system claude-opus-4-6 (SINGLE older cohort,
+    HOLD verbatim on no-op), ai_contribution 100, draft:false. TOPICS / consciousness-disruption
+    / clinical-anaesthesia-coma-DoC cluster — DISTINCT from both holders. NOT queued
+    (parse_tasks zero active target; the 2 slug hits are the holders'' notes prose
+    + an L237 harvest research-note mention) / vetoed / session-touched (git --since
+    2026-07-25T00:00 empty; last touch 07-16). EOF clean, no [1m] artifact. BOTTOM-inserted
+    (FIFO). Pruned run_791_note per note-bloat discipline (keep ~3: 792/793/794).'
   run_793_note: 'run no.793 (2026-07-25T06:52Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness deep-review mint — topics/history-of-the-interaction-problem.md.
     Authoritative pre-write count_p0_p2_tasks == 2 (holders: P2 transformative-experience-void
