@@ -5,6 +5,15 @@ ai_modified: 2026-07-24 21:34:04+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T00:15:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-24
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-4-8, gemini-2-5-pro; all audited topics/volitional-control.md)
+- **Clusters**: 9 convergent (3 flagged by all three reviewers, 6 by two), 6 singleton, 0 divergent (1 Gemini charge excluded as disputed-by-own-verification)
+- **Tasks upgraded**: 1 (P2→P1: methodology-proposals task; the article-level convergent task was already at the P1 ceiling from the per-review passes)
+- **Tasks deduplicated**: 0 (per-review /outer-review had already consolidated all three reviewers into one P1 refine-draft task on volitional-control.md per [[outer-review-same-file-task-pileup]])
+- **Output**: [[reviews/outer-review-synthesis-2026-07-24]]
+
 ## 2026-07-25T00:08:39+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
