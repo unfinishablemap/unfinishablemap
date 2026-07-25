@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-links from optimistic review 2026-07-25 (empirical-testing / falsifiability cluster)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: topics/testing-consciousness-collapse.md
+- **Notes**: Suggested by optimistic review 2026-07-25 (empirical-testing / falsifiability cluster). Link-only, reciprocal-gap fixes — grep-verify each absent before adding (all confirmed absent at review time, 0 hits). The four cluster articles form two reciprocally-linked sub-pairs (timing↔mechanism, collapse-testing↔Born-rule) with ZERO links bridging them, despite sharing the Tegmark decoherence-timescale objection, the confound of embodiment, and the anaesthesia / Neven et al. 2024 test channels. (1) [[topics/testing-consciousness-collapse]] ↔ [[topics/quantum-neural-timing-constraints]] — reciprocal add to `related_articles`; both develop the Tegmark 10⁻¹³ s objection + the post-decoherence-selection reply (testing's "Decoherence Timescale Objection" section is the inbound anchor). (2) [[topics/neural-implementation-specifics]] ↔ [[topics/testing-consciousness-collapse]] — reciprocal add; neural-impl's "Crucial Experiments" (isotope substitution, anaesthesia, Neven substrate-perturbation) ARE testing's Tier 2 menu at mechanism resolution. (3) [[topics/brain-internal-born-rule-testing]] → add [[neural-implementation-specifics]] to Further Reading — corridor article names mechanism candidates whose evidential ranking lives in neural-impl. Length-neutral; no new-article mints (topics at cap 321/320). Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-07-25-empirical-testing-cluster]].
+- **Source**: optimistic-review (2026-07-25 empirical-testing-cluster)
+- **Generated**: 2026-07-25
+
 ### P3: Cross-links from optimistic review 2026-07-25 (minimal-organism / evidence-problem cluster)
 - **Type**: refine-draft
 - **Status**: pending

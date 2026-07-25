@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T18:31:43.360936+00:00'
-session_count: 17198
+last_updated: '2026-07-25T18:39:07.342824+00:00'
+session_count: 17199
 cycle_position: 11723
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T18:13:37.050849+00:00'
+  replenish-queue: '2026-07-25T18:39:07.342824+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1199,46 +1199,46 @@ queue_status:
     since run-820 as a loop-less local cycle deep-review slot drained an older holder
     (last_runs deep-review 18:19Z, recent_tasks top = deep-review). Below floor 3,
     == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parses TaskType.DEEP_REVIEW
-    with Type+File lines). No evolve_loop/unfin-cycle process (pgrep clean); HEAD d0128a114;
-    only uncommitted state delta is pre-existing deferred cycle_post bookkeeping --
-    KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    with Type+File lines). No evolve_loop/unfin-cycle process (pgrep clean); HEAD
+    d0128a114; only uncommitted state delta is pre-existing deferred cycle_post bookkeeping
+    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
     concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH human-decision
     tasks already queued P3 + #veto condenses parser-excluded; positions 8<10 audit
     threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. TARGET
     (Source 4 changed-since-review): meditation-and-consciousness-modes (score 8.24,
     d14) wins on a GENUINE substantive post-review delta. last_deep_review 07-11 (full
-    3-state contemplative-neuroscience web-verify); the ONE own-body change since is
-    commit 90be3d36f (07-18 refine-draft) that reworked the Schwartz OCD/neuroplasticity
+    3-state contemplative-neuroscience web-verify); the ONE own-body change since
+    is commit 90be3d36f (07-18 refine-draft) that reworked the Schwartz OCD/neuroplasticity
     passage from over-claim ("shows"/"Attention IS the interface") to a hedged shared-evidence
     framing + a new residual-discriminator argument + "consistent-with-not-established-by"
-    calibration -- diff-CONFIRMED substantive not cosmetic-wikilink, UNVERIFIED by any
-    deep-review. IMPORTANT: the sibling conscious-vs-unconscious holder Notes (run earlier
-    today) dismissed this file as "web-verified 07-11 confirmed no-op" -- STALE dismissal,
-    it missed the 07-18 refine (wrongly read "last touch 07-11"); this file DOES carry
-    a real unverified surface. Alternatives lost: agent-causation (opus-4-6, fully
-    cohort-distinct) has ONLY a cosmetic 07-12 text->[[emergent-dualism]] wikilink delta
-    + 12 sidecars = no-op target; eliminative-materialism 39w-under-hard length-risky
-    + converged; consistent-histories reviewed 07-17 converged; machine-consciousness
+    calibration -- diff-CONFIRMED substantive not cosmetic-wikilink, UNVERIFIED by
+    any deep-review. IMPORTANT: the sibling conscious-vs-unconscious holder Notes
+    (run earlier today) dismissed this file as "web-verified 07-11 confirmed no-op"
+    -- STALE dismissal, it missed the 07-18 refine (wrongly read "last touch 07-11");
+    this file DOES carry a real unverified surface. Alternatives lost: agent-causation
+    (opus-4-6, fully cohort-distinct) has ONLY a cosmetic 07-12 text->[[emergent-dualism]]
+    wikilink delta + 12 sidecars = no-op target; eliminative-materialism 39w-under-hard
+    length-risky + converged; consistent-histories reviewed 07-17 converged; machine-consciousness
     (sonnet-4-5 fully-distinct) 4127w OVER topics hard length-BLOCKED; introspection/phenomenal-authority/qm-interpretations
     hard_warning length-BLOCKED; neural-correlates 9-sidecar cosmetic. COHORT+SECTION
     CAVEAT (soft, accepted): opus-4-5 + concepts/ overlaps the conscious-vs-unconscious
     holder; accepted because cohort/section-distinctness is subordinate to unchecked-surface
-    yield and the only fully-distinct length-safe alternative (agent-causation) is a
-    cosmetic no-op. Cluster contemplative/attention-neuroplasticity/bidirectional-interaction
+    yield and the only fully-distinct length-safe alternative (agent-causation) is
+    a cosmetic no-op. Cluster contemplative/attention-neuroplasticity/bidirectional-interaction
     distinct from both holders. LENGTH: analyze_length 3296w soft_warning, ~204w under
-    concepts hard 3500 -- length-safe verification pass, do NOT pad, do NOT strip the
-    newly-installed calibration hedges. SEAM: confirm the 07-18 reworked Schwartz passage
-    is internally sound + Tenet-3 framework-relative; empirical-claim fidelity on the
-    Schwartz OCD claim (18 participants, 9 new) at PRIMARY source not own page; citation-metadata
-    on Stapp 2007 Mindful Universe (NOT 2005 QID paper) / Gupta 1998 / Schwartz & Begley
-    2002. ai_system claude-opus-4-5-20251101 SINGLE (HOLD on no-op; do NOT flip to reviewer
-    model or YAML list), ai_contribution 100, draft:false. NOT queued (0 open ### P
-    header names the slug; todo hits are other tasks Notes mentioning it as cross-link
-    border / rejected alternative) / vetoed (Vetoed-section strings are cross-link mentions
-    in a DIFFERENT article condense note) / session-touched (git --since 2026-07-25T00:00
-    empty; last touch 07-18). EOF clean (Schwartz & Begley 2002 ref), no [1m] artifact.
-    BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_818_note
-    per note-bloat discipline (keep ~3: 819/820/821).'
+    concepts hard 3500 -- length-safe verification pass, do NOT pad, do NOT strip
+    the newly-installed calibration hedges. SEAM: confirm the 07-18 reworked Schwartz
+    passage is internally sound + Tenet-3 framework-relative; empirical-claim fidelity
+    on the Schwartz OCD claim (18 participants, 9 new) at PRIMARY source not own page;
+    citation-metadata on Stapp 2007 Mindful Universe (NOT 2005 QID paper) / Gupta
+    1998 / Schwartz & Begley 2002. ai_system claude-opus-4-5-20251101 SINGLE (HOLD
+    on no-op; do NOT flip to reviewer model or YAML list), ai_contribution 100, draft:false.
+    NOT queued (0 open ### P header names the slug; todo hits are other tasks Notes
+    mentioning it as cross-link border / rejected alternative) / vetoed (Vetoed-section
+    strings are cross-link mentions in a DIFFERENT article condense note) / session-touched
+    (git --since 2026-07-25T00:00 empty; last touch 07-18). EOF clean (Schwartz &
+    Begley 2002 ref), no [1m] artifact. BOTTOM-inserted (FIFO). Full reasoning in
+    the todo task Notes. Pruned run_818_note per note-bloat discipline (keep ~3: 819/820/821).'
   run_819_note: 'run no.819 (2026-07-25T~17:10Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint apex/consciousness-and-agency.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 probability-problem-in-many-worlds
