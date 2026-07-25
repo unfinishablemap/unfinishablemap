@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T13:17:45.122315+00:00'
-session_count: 17156
+last_updated: '2026-07-25T13:24:42.340216+00:00'
+session_count: 17157
 cycle_position: 11706
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T12:54:46.854675+00:00'
+  replenish-queue: '2026-07-25T13:24:42.340216+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1158,18 +1158,19 @@ queue_status:
     staleness: 1
   run_810_note: 'run no.810 (2026-07-25T~13:25Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint topics/testing-consciousness-collapse.md.
-    Authoritative pre-write count_p0_p2_tasks(parse_tasks(todo)) == 2 (holders P2 objections-to-interactionism
-    run-808 + P2 self-reference-paradox run-809); queue dropped 3->2 since run-809
-    as the loop-less local cycle deep-review slot completed run-807 holder concepts/zombie-master-argument.md
-    (HEAD 4044a2b49 auto(deep-review)). Below floor 3, == 3 after (tool-verified post-write
-    count_p0_p2 == 3; new mint parsed deep-review with Type+File lines). No evolve_loop/cycle
-    process (pgrep clean); only uncommitted state delta is the pre-existing deferred
-    cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH human-decision tasks already queued P3; positions 8<10 audit threshold + last
-    positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates
-    higher un-queued scorers all fail a filter -- attention-and-the-consciousness-interface
-    (11.20, 4011w) + mental-causation (10.97, 3550w over concepts hard) + introspection-architecture
+    Authoritative pre-write count_p0_p2_tasks(parse_tasks(todo)) == 2 (holders P2
+    objections-to-interactionism run-808 + P2 self-reference-paradox run-809); queue
+    dropped 3->2 since run-809 as the loop-less local cycle deep-review slot completed
+    run-807 holder concepts/zombie-master-argument.md (HEAD 4044a2b49 auto(deep-review)).
+    Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint
+    parsed deep-review with Type+File lines). No evolve_loop/cycle process (pgrep
+    clean); only uncommitted state delta is the pre-existing deferred cycle_post bookkeeping
+    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH human-decision
+    tasks already queued P3; positions 8<10 audit threshold + last positions-evolve
+    2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates higher un-queued
+    scorers all fail a filter -- attention-and-the-consciousness-interface (11.20,
+    4011w) + mental-causation (10.97, 3550w over concepts hard) + introspection-architecture
     (9.73, 4072w) hard_warning length-risky; cognitive-immune (10.77) reviewed 07-18
     (7d) + consistent-histories (10.00) reviewed 07-17 (8d, quantum-redundant) too-recent;
     brain-internal-born-rule (10.71) soft 3907w ~93w under topics hard; global-workspace/neural-implementation/higher-order
@@ -1182,17 +1183,18 @@ queue_status:
     formal-incompleteness/self-reference). The 07-08 ai_modified is an auto(deep-review)
     cross-review cross-link touch (commit a605cbb6a, did NOT bump last_deep_review)
     NOT own-body drift -> pure Source-4 staleness pick, expected converged near-no-op
-    -- do NOT manufacture a defect. SEAM: citation-dense empirical Wigner-friend / collapse-test
-    surface is the highest-yield orthogonal channel -- verify verbatim quote-fidelity
-    + empirical-claim fidelity at primary publisher not own page for Proietti et al.
-    2019, Bong et al. 2020 (Local Friendliness), Tegmark 2000, Neven et al. 2024, Steane
-    2025, Kremnizer & Ranchin 2015; currency-sweep "no experiment has yet" superlatives
-    vs 2024-2026 literature; keep collapse-test proposals framed PROPOSED/MODELLED not
-    demonstrated. ai_system claude-opus-4-6 (SINGLE cohort, HOLD verbatim on no-op),
-    ai_contribution 100, draft:false. NOT queued (only done 07-06 heading L5077) / vetoed
-    (grep hits are floor-restore note prose) / session-touched (git --since 2026-07-25T00:00
-    empty; last touch 07-08). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned
-    run_807_note per note-bloat discipline (keep ~3: 808/809/810).'
+    -- do NOT manufacture a defect. SEAM: citation-dense empirical Wigner-friend /
+    collapse-test surface is the highest-yield orthogonal channel -- verify verbatim
+    quote-fidelity + empirical-claim fidelity at primary publisher not own page for
+    Proietti et al. 2019, Bong et al. 2020 (Local Friendliness), Tegmark 2000, Neven
+    et al. 2024, Steane 2025, Kremnizer & Ranchin 2015; currency-sweep "no experiment
+    has yet" superlatives vs 2024-2026 literature; keep collapse-test proposals framed
+    PROPOSED/MODELLED not demonstrated. ai_system claude-opus-4-6 (SINGLE cohort,
+    HOLD verbatim on no-op), ai_contribution 100, draft:false. NOT queued (only done
+    07-06 heading L5077) / vetoed (grep hits are floor-restore note prose) / session-touched
+    (git --since 2026-07-25T00:00 empty; last touch 07-08). EOF clean, no [1m] artifact.
+    BOTTOM-inserted (FIFO). Pruned run_807_note per note-bloat discipline (keep ~3:
+    808/809/810).'
   run_809_note: 'run no.809 (2026-07-25T~12:55Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint concepts/self-reference-paradox.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 zombie-master-argument
