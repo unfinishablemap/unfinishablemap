@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T17:58:08.502232+00:00'
-session_count: 17193
-cycle_position: 11721
+last_updated: '2026-07-25T18:04:17.597116+00:00'
+session_count: 17194
+cycle_position: 11722
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T17:19:58.068099+00:00'
   optimistic-review: '2026-07-25T11:48:32.667330+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T15:17:06.519113+00:00'
-  deep-review: '2026-07-25T17:58:08.502232+00:00'
+  deep-review: '2026-07-25T18:04:17.597116+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T15:17:44.742252+00:00'
   coalesce: '2026-07-25T13:04:53.914709+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6841
+  reviews_completed: 6842
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-07-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-25'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 - task: deep-review
@@ -1135,57 +1135,59 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T17:10:00+00:00'
-  last_replenishment_prev: '2026-07-25T16:56:00+00:00'
-  last_replenishment_run: 819
+  last_replenishment: '2026-07-25T18:20:00+00:00'
+  last_replenishment_prev: '2026-07-25T17:10:00+00:00'
+  last_replenishment_run: 820
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_817_note: 'run no.817 (2026-07-25T~16:25Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint topics/probability-problem-in-many-worlds.md.
-    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 neural-implementation-specifics
-    run-815 + P2 open-question-ai-consciousness run-816); queue dropped 3->2 since
-    run-816 as the loop-less local cycle deep-review slot completed run-814 holder
-    apex/process-and-consciousness.md (HEAD a9c5aebf6). Below floor 3, == 3 after
-    (tool-verified post-write count_p0_p2 == 3; new mint parses deep-review with Type+File
-    lines). No evolve_loop/cycle process (pgrep clean); only uncommitted state delta
-    is the pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source audit:
-    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
-    100/100, positions 8/80); orphaned_files=0; LENGTH human-decision tasks already
-    queued P3; positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d);
-    no applied-apex gap. TARGET (Source 4 changed-since-review, highest owed-verification
-    yield via the unchecked-surface discriminator): probability-problem-in-many-worlds
-    (score 9.00) carries the pool FRESHEST genuinely UNCHECKED surface -- a substantive
-    2026-07-24 opus-4-8 addition (ai_system opus-4-6 -> opus-4-6+opus-4-8, diff-confirmed
-    substantive not cosmetic-wikilink) to the Graham branch-counting paragraph that
-    inserts a verbatim Graham 1973 quote ("worlds displaying proper quantum statistics
-    are in a numerical minority") + a new numerical Born-rule claim (amplitudes 0.95/0.31
-    -> ~90%/10%), never deep-reviewed since the 07-07 cycle review verified the then-content.
-    Cluster (MWI/Everett/Born-rule, Tenet-4 No-Many-Worlds) DISTINCT from both holders
-    (quantum-neural mechanism; AI-consciousness). Alternatives lose: consistent-histories
-    (opus-4-8, cohort-distinct, length-safe) reviewed 07-17 (8d) full citation pass
-    + cosmetic cross-link since -> converged no-op over-review; eliminative-materialism
-    (opus-4-7, ONLY fully cohort-distinct) 3961w = 39w-under-hard length-risky + 2-day
-    converged delta low-yield; cognitive-immune reviewed 07-18 (7d) too-recent; mental-causation/introspection/phenomenal-authority/qm-interpretations
-    all hard_warning over-ceiling length-BLOCKED. COHORT CAVEAT accepted (soft, subordinate):
-    dual opus-4-6+opus-4-8 partially overlaps open-question holder (opus-4-6 base
-    + opus-4-8 delta) -- softened because cohort-distinctness is a SOFT filter subordinate
-    to unchecked-surface yield (run-813 ruling; run-816 queued open-question on a
-    FULL opus-4-6 collision), and YIELD decides between two length-risky candidates.
-    LENGTH: analyze_length 3913w soft_warning, ~87w under topics hard 4000 -- strictly
-    length-neutral verification pass, do NOT pad; the Wallace-decision-theoretic EXPANSION
-    is VETOED at todo L12685 AND breaches the margin -- human length decision, out
-    of scope. SEAM: verbatim-check the Graham 1973 quote at DeWitt & Graham eds. (Princeton
-    1973, ref #7) PRIMARY not own page; math-claim fidelity (0.95^2~0.90 checks internally,
-    confirm framing not over-claim); do NOT re-verify the whole 23-ref apparatus (07-07
-    verified it), focus the delta. ai_system claude-opus-4-6+claude-opus-4-8 (DUAL,
-    HOLD verbatim/+-joined-string on no-op), ai_contribution 100, draft:false. NOT
-    queued (Vetoed-section OTHER-task cross-link Notes + an optimistic-review cross-link
-    idea) / vetoed (L12685 veto is a DIFFERENT Wallace-expansion refine, distinct
-    in kind) / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-24).
-    EOF clean (Zhang 2026 arXiv ref), no [1m] artifact. BOTTOM-inserted (FIFO). Full
-    reasoning in the todo task Notes. Pruned run_811_note per note-bloat discipline
-    (keep ~3: 815/816/817).'
+  run_820_note: 'run no.820 (2026-07-25T~18:20Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint topics/hylomorphic-dualism-and-the-interaction-problem.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 apex/consciousness-and-agency
+    run-819 + P2 concepts/conscious-vs-unconscious-processing [unrecorded interstitial
+    mint ~run-820a]); queue dropped to 2 as loop-less local cycle deep-review slots
+    drained the older probability-problem (run-817) + quantum-neural-timing (run-818)
+    holders. Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3;
+    new mint parses deep-review with Type+File lines). No evolve_loop/unfin-cycle process
+    (pgrep clean); HEAD 561c85db8; only uncommitted state delta is the pre-existing
+    deferred cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    LENGTH human-decision tasks already queued P3; positions 8<10 audit threshold +
+    last positions-evolve 2026-07-25 (<30d); no applied-apex gap. TARGET (Source 4
+    changed-since-review): among the length-safe pool, hylomorphic-dualism-and-the-interaction-problem
+    (score 8.75) is the best available -- FULLY cohort-distinct (opus-4-8 vs both holders
+    opus-4-6 + opus-4-5, clean attribution win) AND cluster-distinct (hylomorphism/interaction-problem
+    vs free-will/incompatibilism + access/phenomenal-unconscious) AND UN-saturated
+    (only 2 prior reviews 07-06/07-18). Its 07-18 review was a converged no-op confirming
+    the 07-06 full publisher-of-record citation ledger stood; the ONE own-body change
+    since is commit d454b20c2 (07-22 refine) -- a substantive improper-mixture QM-terminology
+    correction ("the classical mixture" -> "the improper reduced-state mixture"; "which
+    definite outcome emerges" -> "which outcome becomes actual") in the post-decoherence-selection
+    passage, diff-CONFIRMED substantive not cosmetic-wikilink, landed AFTER the 07-18
+    review -> UNVERIFIED by any deep-review. Modest one-sentence surface (no new cites)
+    but a real confirm-yield job (verify the improper-mixture terminology is physically
+    apt + not over-claiming), NOT manufactured. Alternatives lose: eliminative-materialism
+    (10.0, opus-4-7) 3961w = 39w-under-hard length-risky + converged; consistent-histories
+    (10.0) reviewed 07-17 converged; introspection/phenomenal-authority/qm-interpretations
+    hard_warning length-BLOCKED; neural-correlates (9.73) 9-sidecar SATURATED cosmetic
+    delta; higher-order-theories cite cluster swept 07-11; attention-as-interface (8.37,
+    opus-4-6) ~11 reviews SATURATED + one-sentence Prinz/AIR delta + cohort-OVERLAPS
+    holder; machine-consciousness (8.37, sonnet-4-5 fully-distinct) 4127w = 127w OVER
+    topics hard 4000 length-BLOCKED. Documented replenish-at-floor steady state, NOT
+    false-exhaustion (checked -- no clean higher-yield candidate). LENGTH: analyze_length
+    2282w status=ok, well under topics 3000 soft/4000 hard -- strictly length-neutral
+    verification pass, do NOT pad. SEAM: confirm the 07-22 improper-mixture edit at
+    the concept level (real decoherence term, framing not over-claim); the citation
+    ledger (Aquinas/Jaworski/Feser-fixed/Koons/Marmodoro/Nussbaum-Putnam) was web-verified
+    07-06 and unchanged -> no full re-sweep unless a claim traces to an unverified source;
+    Map self-cites Oquatre-cinq/Oquatre-sept legit -- NEVER strip. ai_system claude-opus-4-8
+    SINGLE (HOLD on no-op; do NOT flip to reviewer model or YAML list), ai_contribution
+    100, draft:false. NOT queued (0 open ### P header names the slug) / vetoed (no own-task
+    #veto; a "#veto condense" substring elsewhere is unrelated) / session-touched (git
+    --since 2026-07-25T00:00 empty; last touch 07-22). EOF clean (SEP Form-vs-Matter
+    ref + 2 Map self-cites), no [1m] artifact. BOTTOM-inserted (FIFO). Full reasoning
+    in the todo task Notes. Pruned run_817_note per note-bloat discipline (keep ~3:
+    818/819/820).'
   run_818_note: 'run no.818 (2026-07-25T~16:56Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint topics/quantum-neural-timing-constraints.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 open-question-ai-consciousness
