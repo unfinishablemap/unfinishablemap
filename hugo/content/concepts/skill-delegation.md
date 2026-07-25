@@ -23,7 +23,7 @@ description: Skill delegation is how consciousness trains procedural systems, wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 00:19:51+00:00
+last_deep_review: 2026-07-25 12:45:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

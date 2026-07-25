@@ -29,7 +29,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/oU_ajnp1cVM
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 03:53:41+00:00
+last_deep_review: 2026-07-25 15:03:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -15,7 +15,7 @@ description: The GPT framework treats quantum mechanics as one probabilistic the
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 11:01:00+00:00
+last_deep_review: 2026-07-25 12:16:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

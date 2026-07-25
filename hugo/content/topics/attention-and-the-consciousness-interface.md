@@ -40,7 +40,7 @@ description: 'A comprehensive treatment of attention as consciousness''s interfa
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 00:34:00+00:00
+last_deep_review: 2026-07-25 13:46:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

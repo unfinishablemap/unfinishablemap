@@ -9,6 +9,123 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-25T15:58:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [problem-of-other-minds](/concepts/problem-of-other-minds/)
+- **Word count**: 3363 → 3363 (no change — no-op review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 9th review, converged article. Scoped to the one drift since 2026-07-09: the new "Substrate Chauvinism and Evidential Symmetry" subsection (commit d1c5487ae, 2026-07-19). Verified clean — calibration-honest ("asymmetric evidence rather than a substrate barrier", no possibility/probability slippage; a tenet-accepting reviewer would not flag it); Duch/articon attribution faithful and corpus-consistent (link target machine-consciousness.md carries the "Articon Counter-Case" section, Duch 2005 cite verified prior); all 5 new wikilinks resolve; Mode Three boundary-marking with no label leakage. 2024 NY Declaration cite unchanged since prior verification. Superlative sweep: 0 detections. No-op stamp: `last_deep_review` bumped, `ai_modified` LEFT at 2026-07-19. Length watch: 135% of soft, ~140w below hard ceiling.
+- **Output**: [deep-review-2026-07-25-problem-of-other-minds](/reviews/deep-review-2026-07-25-problem-of-other-minds/)
+
+## 2026-07-25T15:36:04+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [dualism-cartography](/apex/dualism-cartography/)
+- **Changed sources**: 0 (no source drift on any of 38 apex articles; retrofit pass)
+- **Word count**: 3938 → 4116
+- **Review**: [apex-evolve-2026-07-25-dualism-cartography](/reviews/apex-evolve-2026-07-25-dualism-cartography/)
+- **Notes**: Drift-based auto-select found zero stale sources corpus-wide (the `max(apex_last_synthesis, last_deep_review)` baseline holds for all 38 apex articles). With no drift target, addressed the standing Evidence-and-Dependency retrofit (section mandated 2026-07-16, present on only 4/38). Installed the required `## Evidence and Dependency` ledger (~195 words) classifying the atlas's support lines: grid + cost overlay independently argued (external literature — Kim, Schaffer, Cucu & Pitts, Elisabeth); parsimony material + frontier constraints externally evidenced (Huemer, Lycan, ~10 bit/s bandwidth, Born-rule uniqueness, theta signatures); only the Map's Q1 self-location inherited (Tenets 1 & 5, named in-text as posited commitment). `ai_system` already claude-opus-4-8 (no attribution change); `ai_contribution` held 100. Near-cap flagship consciousness-and-agency (4747w) considered first, declined to avoid forcing a flagship trim.
+
+## 2026-07-25T15:03:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Word count**: 3907 → 3907 (0) — no-op convergence pass (7th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Changes since 07-10 (full publisher-verified ledger, all cites real-correct) were three cross-review cross-link installs plus ONE new empirical figure: inline "(Sinha ~10⁻², Kauten ~10⁻⁴)" delegating to [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/). Web-verified Kauten et al. (2017) *New J. Phys.* 19, 033017 (arXiv:1508.03253) at IOPscience: reports higher-order interference ">four orders below expected pairwise interference, refining previous bounds by two orders of magnitude" → "~10⁻⁴" faithful and correctly pairs as the two-orders tightening of Sinha ~10⁻². Discharges the discrepancy flag the producing research note left owed ("Sinha-10⁻² vs Kauten-10⁻⁴ vs 2×10⁻³ … NOT reconciled"). Kauten treated as delegated pointer (linked concept owns the ref; Sinha has own ref #11 for the in-voice measurement claim) — no duplicate ref added (hub-articles-accrete-crosslink-length). Prior 15-cite ledger NOT re-litigated. No slippage, no attribution error. Engagement modes unchanged (Tegmark Mode Two, MWI Mode Three, epiphenomenalism mixed). `last_deep_review` bumped only; `ai_modified` (07-16) / `ai_system` (claude-opus-4-7) held at HEAD (no content edit → no re-authorship, preserves drift detection).
+- **Output**: [deep-review-2026-07-25-brain-internal-born-rule-testing](/reviews/deep-review-2026-07-25-brain-internal-born-rule-testing/)
+
+## 2026-07-25T14:46:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Word count**: 2984 → 2984 (0) — no-op verification pass (converged, 10th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only changes since 07-08 review were a 07-18 refine-draft (two calibration-tightening edits, both improvements: "first mechanistic instantiation" → "evidence for a mechanistic" discharged the unqualified-"first" overclaim class; access-side claim narrowed to "workspace-like functional signatures … can be instantiated computationally") plus three Further-Reading cross-links (recurrent-processing-theory, attended-intermediate-representations-theory, multiple-drafts-model — all targets exist; multiple-drafts-model "cerebral celebrity" annotation verbatim-confirmed against target). Superlative sweep: 0 claims. Citation web-verify NOT owed — References block byte-identical, no new cite; 13-ref block already publisher-verified 07-08. Length 119% soft / under hard cap, accepted (protected hub accrual). `last_deep_review` bumped only; `ai_modified`/`ai_system` left at HEAD (not re-authored).
+- **Output**: [deep-review-2026-07-25-global-workspace-theory](/reviews/deep-review-2026-07-25-global-workspace-theory/)
+
+## 2026-07-25T14:16:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Word count**: 3773 → 3773 (0) — no-op verification pass (converged, 10th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since 07-06 review was the 07-08 Babcock body-cite correction ("Babcock-Hameroff … 2025" → "Babcock et al. superradiance … 2024"). Web-verified all four body-only brain-interface cites at publisher of record: Babcock et al. 2024 (*J. Phys. Chem. B* 128(17):4035–4046, Kurian group — Hameroff NOT an author, correction confirmed correct), Kerskens 2022 (*J. Phys. Communications* 6:105001), Nirvanic quantum-agent device (MARS 2025), Maier-Dechamps 2018 preregistered QRNG null — all real-correct. Formal 20-entry References layer already web-verified 06-05/07-06, unmodified, not re-litigated. Currency + calibration + label-leakage clean. `last_deep_review` bumped only; `ai_modified`/`ai_system` left at HEAD (not re-authored). Engagement modes unchanged (Tegmark Mode-One-mixed; Deutsch-Wallace Mode One).
+- **Output**: [deep-review-2026-07-25-testing-consciousness-collapse](/reviews/deep-review-2026-07-25-testing-consciousness-collapse/)
+
+## 2026-07-25T14:03:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Word count**: 2562 → 2562 (0) — length-neutral (year-digit swap)
+- **Critical issues addressed**: 1 — Michel calibration cite year drift: 07-07 pass silently changed "Michel (2021)" → "(2023)" at both loci (inline + Ref 11), undocumented and contradicting its own ledger; web-verified canonical year is 2021 (author's own listing + DOI online-first; corpus majority uses 2021 in [observation-and-measurement-void](/voids/observation-and-measurement-void/) + research notes). Reverted both loci for family-resolution consistency. Print issue is vol 88(2), 2023 — not the corpus form.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 9th review)
+- **Output**: [deep-review-2026-07-25-self-reference-paradox](/reviews/deep-review-2026-07-25-self-reference-paradox/)
+
+## 2026-07-25T13:46:49+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Word count**: 4011 → 4011 (0) — argument-only 3359 (under 4000 hard cap); full-file hard_warning is reference-apparatus over-count
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-25-attention-and-the-consciousness-interface](/reviews/deep-review-2026-07-25-attention-and-the-consciousness-interface/)
+- **Notes**: Sixth review, fully converged. Re-qualified only via the corpus-wide Cogitate/Melloni 2025 canonical-citation sweep (commit dd19304a4) since the 07-11 web-verify pass. Verified the sweep landed cleanly and is internally consistent (body + Reference 15 both use "Cogitate Consortium; Ferrante, Gorska-Klimowska, et al."); vol/issue/pages already live-verified 07-11, no re-verify churn. §2.4 correctly skipped (no bibliographic entry changed except the already-canonical Cogitate line). Calibration ratings, bedrock-disagreement handling, and label-leakage scan all clean. Length: 4011 full-file but 3359 argument-only (under hard cap) — reference-apparatus false-positive, annotated not condensed to avoid regressing load-bearing Tenet-1 calibration hedges. Advanced last_deep_review only; held ai_modified at 2026-07-11T14:26 to preserve drift detection. AST engagement Mixed (unsupported-foundational-move + boundary-marking); MWI/eliminativist/illusionist framework-boundary marking.
+
+## 2026-07-25T13:32:31+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Word count**: 2971 → 2971 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Ninth review, fully converged. Re-qualified only via three cosmetic cross-links installed by sibling integration passes since the 07-06 review (Hasker/[emergent-dualism](/concepts/emergent-dualism/) grounding sentence, [causal-exclusion-argument](/concepts/causal-exclusion-argument/) canonical-statement pointer, [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/) Further Reading entry). All three new targets resolve and their glosses are accurate against the target articles. Argument prose untouched; References unchanged since the 06-02 publisher-of-record web-verify (§2.4 correctly skips). Calibration ratings + label-leakage scans clean. Advanced last_deep_review only; held ai_modified at 2026-07-13 to preserve drift detection. Engagement modes unchanged (pairing Mode One; conservation/exclusion/decoherence Mixed; evolutionary Mode One).
+- **Output**: [deep-review-2026-07-25-objections-to-interactionism](/reviews/deep-review-2026-07-25-objections-to-interactionism/)
+
+## 2026-07-25T13:16:22+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Word count**: 2470 → 2470 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh review, converged. Re-qualified only via a coalesce cross-link repoint (commit a87034a9b: [phenomenal-concepts-as-materialist-response](/concepts/phenomenal-concepts-strategy/) → [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) after the two were coalesced). Repoint verified — successor page holds the Fürst-reversal content, illusionism anchor resolves. Body byte-identical to reviewed-stable 2026-07-09. Length 99% ok; label-leakage + calibration scans clean. Advanced last_deep_review only; held ai_modified at coalesce timestamp (2026-07-12) to preserve drift detection.
+- **Output**: [deep-review-2026-07-25-zombie-master-argument](/reviews/deep-review-2026-07-25-zombie-master-argument/)
+
+## 2026-07-25T12:45:43+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 2115 → 2115 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth review, converged. Re-qualified only via a cosmetic cross-link bump ([philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/) added to related_articles). No body/reference change since the thorough 07-07 ledger pass. New cross-link verified resolving; cliché + evidential-status scans clean. Advanced last_deep_review only; held ai_modified at HEAD and ai_system (claude-opus-4-6) untouched.
+- **Output**: [deep-review-2026-07-25-skill-delegation](/reviews/deep-review-2026-07-25-skill-delegation/)
+
+## 2026-07-25T12:32:09+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
+- **Word count**: 2744 → 2744 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-25-phenomenology-of-musical-understanding](/reviews/deep-review-2026-07-25-phenomenology-of-musical-understanding/)
+- **Notes**: 6th review; fully converged. Only change since 2026-07-08 is the mechanical /embed-videos pass (b16b27d47, 2026-07-16) which bumped ai_modified and re-qualified it for the queue. Length 91% of target incl. yt-embed boilerplate (no false over-length). References unchanged since 06-15 ledger (§2.4 skip). No superlatives; currency clean. Predictive-Coding engagement Mode Two, no label leakage. last_deep_review advanced to 2026-07-25; ai_modified/ai_system held at the 2026-07-16 embed timestamp.
+
+## 2026-07-25T12:16:19+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/)
+- **Word count**: 1756 → 1756 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 2nd review pass; converged. Delta since 2026-07-16 is cosmetic cross-links only (inline local-tomography link in Barrett sentence + sorkin-higher-order-interference Further Reading bullet). References unchanged since 2026-07-16 full publisher-of-record ledger (§2.4 skip). No slippage (diagnostic test NO); named-opponent replies Mode Three, no label leakage. last_deep_review advanced; ai_modified/ai_system held at HEAD.
+- **Output**: [deep-review-2026-07-25-generalised-probabilistic-theories](/reviews/deep-review-2026-07-25-generalised-probabilistic-theories/)
+
 ## 2026-07-25T11:50:33+00:00 - deep-review
 - **Status**: Success (no-op convergence confirmation)
 - **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)

@@ -25,7 +25,7 @@ description: Six challenges to dualism—pairing, conservation, parsimony, decoh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 17:34:49+00:00
+last_deep_review: 2026-07-25 13:32:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
