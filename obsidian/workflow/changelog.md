@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T14:46:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Word count**: 2984 → 2984 (0) — no-op verification pass (converged, 10th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only changes since 07-08 review were a 07-18 refine-draft (two calibration-tightening edits, both improvements: "first mechanistic instantiation" → "evidence for a mechanistic" discharged the unqualified-"first" overclaim class; access-side claim narrowed to "workspace-like functional signatures … can be instantiated computationally") plus three Further-Reading cross-links (recurrent-processing-theory, attended-intermediate-representations-theory, multiple-drafts-model — all targets exist; multiple-drafts-model "cerebral celebrity" annotation verbatim-confirmed against target). Superlative sweep: 0 claims. Citation web-verify NOT owed — References block byte-identical, no new cite; 13-ref block already publisher-verified 07-08. Length 119% soft / under hard cap, accepted (protected hub accrual). `last_deep_review` bumped only; `ai_modified`/`ai_system` left at HEAD (not re-authored).
+- **Output**: [[reviews/deep-review-2026-07-25-global-workspace-theory]]
+
 ## 2026-07-25T14:16:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/testing-consciousness-collapse]]
