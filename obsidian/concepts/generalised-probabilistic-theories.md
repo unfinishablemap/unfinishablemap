@@ -20,7 +20,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-16
 last_curated:
-last_deep_review: 2026-07-16T11:01:00+00:00
+last_deep_review: 2026-07-25T12:16:19+00:00
 ---
 
 A **generalised probabilistic theory** (GPT) is an operational framework in which any physical theory — classical probability, quantum mechanics, and a continuum of exotic alternatives — is specified by three ingredients: a set of states, a set of measurements, and a rule pairing them to yield probabilities. Quantum mechanics is one point in this landscape; classical theory is another; still others describe worlds that have never been observed. This is the neutral, school-independent definition every camp accepts.

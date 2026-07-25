@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T12:16:19+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [[concepts/generalised-probabilistic-theories]]
+- **Word count**: 1756 → 1756 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 2nd review pass; converged. Delta since 2026-07-16 is cosmetic cross-links only (inline local-tomography link in Barrett sentence + sorkin-higher-order-interference Further Reading bullet). References unchanged since 2026-07-16 full publisher-of-record ledger (§2.4 skip). No slippage (diagnostic test NO); named-opponent replies Mode Three, no label leakage. last_deep_review advanced; ai_modified/ai_system held at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-25-generalised-probabilistic-theories]]
+
 ## 2026-07-25T11:50:33+00:00 - deep-review
 - **Status**: Success (no-op convergence confirmation)
 - **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]
