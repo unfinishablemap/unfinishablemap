@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T20:28:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Word count**: 2859 → 2859 (0; citation-metadata fix, length-neutral)
+- **Critical issues addressed**: 1 (Bandyopadhyay/Sahu APL reference — real-wrong-metadata: wrong author/year/volume/article-number; corrected to Sahu et al. 2013, APL 102(12) 123701, DOI 10.1063/1.4793995, and inline reconciled to "Sahu et al. (2013)")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (14th review; converged). §2.4 publisher-of-record pass over cites not in the 07-07 ledger: Khan 2024 (eNeuro, ENEURO.0291-24.2024) real-correct; Fisher 2015 (Ann Phys 362:593) real-correct; Bandyopadhyay→Sahu APL fixed. 07-17 refine's Claim-3 interpretation-scoping is a calibration improvement, not re-litigated. Family-resolution note: sibling Sahu et al. 2014 Sci Rep 4:7303 (timing articles) is a distinct, correct citation — no propagation. Engagement modes unchanged (Tegmark = Mode One; others Mode Three). ai_modified + last_deep_review bumped (real edit); ai_system HELD at claude-opus-4-6 (metadata fix, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-25-decoherence]]
+
 ## 2026-07-25T20:04:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/higher-order-theories]]
