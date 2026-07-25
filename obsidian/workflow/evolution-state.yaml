@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T07:02:08.069253+00:00'
-session_count: 17106
-cycle_position: 11683
+last_updated: '2026-07-25T07:04:33.870539+00:00'
+session_count: 17107
+cycle_position: 11684
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T03:34:27.674311+00:00'
   optimistic-review: '2026-07-25T05:22:53.229441+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T01:04:00.276647+00:00'
-  deep-review: '2026-07-25T06:50:09.598595+00:00'
+  deep-review: '2026-07-25T07:04:33.870539+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T01:04:31.927102+00:00'
   coalesce: '2026-07-25T06:19:03.582291+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6805
+  reviews_completed: 6806
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-07-25'
-  outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1152,12 +1152,47 @@ queue_status:
   p3_tasks: 5
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T06:52:00+00:00'
-  last_replenishment_prev: '2026-07-25T06:42:51+00:00'
-  last_replenishment_run: 793
+  last_replenishment: '2026-07-25T07:10:00+00:00'
+  last_replenishment_prev: '2026-07-25T06:52:00+00:00'
+  last_replenishment_run: 794
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_794_note: 'run no.794 (2026-07-25T07:10Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — topics/consciousness-disruption-and-the-mind-brain-interface.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
+    P2 transformative-experience-void L1491 [run-791] + P2 history-of-the-interaction-problem
+    L1506 [run-793]). Queue dropped 3->2 since run-793 as the loop-less local cycle
+    picked+completed run-792''s holder single-cell-proto-agency (marked DONE-BY-CYCLE-SLOT
+    L1499, cycle deep-review slot self-selected 07:03) alongside the interventionist
+    deep-review (HEAD b596be09c auto(deep-review): cycle). Below floor 3, == 3 after
+    (tool-verified post-write count_p0_p2 == 3; new mint parsed deep-review with Type+File
+    lines present). No evolve_loop/cycle process (pgrep clean); HEAD b596be09c; only
+    uncommitted delta the pre-existing deferred cycle_post state bookkeeping (KEEP).
+    Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the
+    STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched; positions
+    8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
+    gap. TARGET: get_review_candidates top scores are apex-articles.md governance hub
+    + positions/ register files (via positions-evolve). Both content holders already
+    queued; chose consciousness-disruption (12.73, 14d) on the established discriminator
+    — SIZE of unchecked verify surface: ties fewest sidecars (5), older claude-opus-4-6
+    cohort, LARGEST unchecked clinical citation surface (~15 inline year-cites / ~17
+    refs incl currency-sensitive Bodien NEJM 2024 CMD, Hu Nat-Neurosci 2023 KCC2, Mashour
+    Neuron 2024, Sarasso Curr-Biol 2015 PCI). Post-review delta cosmetic (hemispherectomy
+    wikilink + landed Cogitate/Melloni sweep) so a STALENESS pick justified by unverified
+    surface not change. NOTE the article reads analyze_length 4002w hard_warning (topics
+    hard 4000) — a 2-WORD reference-apparatus breach (~17 refs), NOT argument bloat:
+    annotated LENGTH-NEUTRAL deep-review, do NOT convert to condense. Lenses: citation-metadata
+    at publisher (NOT own page), empirical-claim fidelity (CMD prevalence / PCI / KCC2
+    mechanism), currency, verbatim quote-fidelity, citation-framing (Mashour, Koch/Tononi
+    as IIT proponents). ai_system claude-opus-4-6 (SINGLE older cohort, HOLD verbatim
+    on no-op), ai_contribution 100, draft:false. TOPICS / consciousness-disruption /
+    clinical-anaesthesia-coma-DoC cluster — DISTINCT from both holders. NOT queued (parse_tasks
+    zero active target; the 2 slug hits are the holders'' notes prose + an L237 harvest
+    research-note mention) / vetoed / session-touched (git --since 2026-07-25T00:00
+    empty; last touch 07-16). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned
+    run_791_note per note-bloat discipline (keep ~3: 792/793/794).'
   run_793_note: 'run no.793 (2026-07-25T06:52Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness deep-review mint — topics/history-of-the-interaction-problem.md.
     Authoritative pre-write count_p0_p2_tasks == 2 (holders: P2 transformative-experience-void
@@ -1226,43 +1261,6 @@ queue_status:
     / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-16).
     EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_789_note per note-bloat
     discipline (keep ~3: 790/791/792).'
-  run_791_note: 'run no.791 (2026-07-25T06:09Z, interactive /replenish-queue): SINGLE
-    EXACT-floor +1 staleness deep-review mint — voids/transformative-experience-void.md.
-    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
-    P2 refine "panpsychism.md — engage predictive processing" L76 [leftover from today''s
-    coordinated panpsychism pass] + P2 "Deep review interventionist-and-counterfactual-dualism"
-    L1493 [run-790 mint]). Queue dropped 3->2 since run-790 as the loop completed
-    the two older holders (living-with-the-map + ai-consciousness-typology) while
-    panpsychism-engage-PP surfaced as one new counted holder. Below floor 3, == 3
-    after (tool-verified post-write count_p0_p2 == 3; new mint parsed as deep-review
-    with Type+File lines present per replenish-mints-task-missing-type-line). No evolve_loop
-    process (pgrep clean); HEAD f4786e984; only uncommitted delta the pre-existing
-    evolution-state.yaml deferred cycle_post bookkeeping (KEEP). Eight-source audit
-    LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
-    voids 100/100, positions 8/80); orphaned_files=0; LENGTH the one article offender
-    epistemology-of-convergence-arguments.md (6533w >6000 crit) is a STANDING HUMAN
-    LENGTH DECISION in ## Blocked Tasks — NOT re-litigated (target here 2721w void
-    under 3000 hard, length-neutral); positions 8<10 audit threshold + last positions-evolve
-    2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates top scores
-    are apex-articles.md governance hub (110) + positions/ register files (107-109,
-    via positions-evolve not deep-review); interventionist (13.8) is already the L1493
-    holder; the remaining 12.7-12.9 content candidates (the-self-minimal / cross-traditional
-    / consciousness-disruption) carry ONLY cosmetic cross-review wikilink deltas (diff-verified
-    consciousness-disruption 07-16 = bare hemispherectomy wikilink conversion, 07-11
-    Cogitate/Melloni citation fix already landed). Chose transformative-experience-void
-    (30.5, top genuine content candidate): last_deep_review 2026-06-26 = 29d (30d-due
-    tomorrow), ai_contribution 100, only post-review delta embed-videos boilerplate,
-    but REAL unverified surface — quotes L. A. Paul verbatim (2014/2015 authenticity-constraint)
-    + cites Pettigrew/Harman/Jackson, none verbatim-checked in ~29d. Lenses: verbatim
-    quote-fidelity at primary text (NOT via own page), citation-metadata at publisher,
-    currency ("most influential" superlative), empirical-claim fidelity on adaptation
-    paraphrase. ai_system claude-opus-4-7 (SINGLE older cohort, HOLD verbatim), draft:false.
-    VOIDS / transformative-experience cluster — DISTINCT from both holders (panpsychism
-    concepts/combination + interventionist topics/causation). NOT queued (all transformative-experience
-    heading hits checkmark-completed; parse_tasks zero active target) / vetoed / session-touched
-    (git --since 2026-07-25T00:00 empty; last touch 07-22 embed). EOF clean (Southgate
-    & Oquatre-sept self-cite pseudonyms — do NOT strip), no [1m] artifact. BOTTOM-inserted
-    (FIFO). Pruned run_788_note per note-bloat discipline (keep ~3: 789/790/791).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
