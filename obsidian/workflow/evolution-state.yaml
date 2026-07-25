@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T22:54:31.575030+00:00'
-session_count: 17232
-cycle_position: 11737
+last_updated: '2026-07-25T22:57:57.529017+00:00'
+session_count: 17233
+cycle_position: 11738
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T17:19:58.068099+00:00'
   optimistic-review: '2026-07-25T18:48:24.882802+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-25T15:17:06.519113+00:00'
-  deep-review: '2026-07-25T22:19:09.048527+00:00'
+  deep-review: '2026-07-25T22:57:57.529017+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T15:17:44.742252+00:00'
   coalesce: '2026-07-25T20:03:26.813102+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T22:54:31.575030+00:00'
+  replenish-queue: '2026-07-25T23:00:31.575030+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6857
+  reviews_completed: 6858
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1132,42 +1132,12 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T22:40:00+00:00'
-  last_replenishment_prev: '2026-07-25T22:10:00+00:00'
-  last_replenishment_run: 829
+  last_replenishment: '2026-07-25T23:00:00+00:00'
+  last_replenishment_prev: '2026-07-25T22:40:00+00:00'
+  last_replenishment_run: 830
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_827_note: 'run no.827 (2026-07-25T21:43Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/attention-as-interface.md.
-    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 binding-problem opus-4-6
-    + P2 neural-correlates opus-4-5 from runs 826/prior; the run-825 emergence + run-824
-    temporal-consciousness holders drained by loop-less local cycle deep-review slots,
-    last_runs deep-review 21:26Z); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
-    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 80bd7c175; only
-    uncommitted delta the pre-existing deferred cycle_post state bookkeeping -- KEEP.
-    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
-    319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
-    already queued P3 + #veto condenses parser-excluded; positions 8<10 audit threshold
-    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
-    TARGET: attention-as-interface (opus-4-6, concepts, soft_warning 3150w ~350w under
-    3500 hard, ldr 07-07). GENUINE open surface: cross-review commit 5d34dedfe (07-12,
-    target = attended-intermediate-representations-theory) collaterally inserted a
-    NEW never-deep-reviewed Prinz AIR sentence here -- "attention *constitutive* (AIR)
-    vs *selection* (interface hypothesis)" -- a real named-attribution philosophical
-    claim, NOT the cosmetic-wikilink failure mode. SEAM: verify Prinz AIR = constitutive
-    attribution is accurate + the AIR-vs-interface contrast is fair per evidential-status-discipline
-    + cross-page coherence with the AIR sibling article. Length-safe pool re-audited:
-    top candidates were index/positions files (wrong task type -- positions-evolve)
-    or the five hard_warning OVER-length topics (introspection/phenomenal-authority/qm-interp/machine-consciousness/personal-identity
-    length-BLOCKED); dualism-cartography session-touched-today; agent-causation DIFF-confirmed
-    cosmetic [[emergent-dualism]] wikilink no-op. Cohort opus-4-6 overlaps the binding-problem
-    holder (soft caveat -- ALL length-safe genuine-surface candidates are opus-4-6,
-    so full cohort-distinctness unachievable; neural-correlates is the only opus-4-5).
-    NARROW scope -- 11 prior reviews, CONVERGED; verify ONLY the 07-12 Prinz sentence,
-    do NOT re-sweep the citation ledger, strictly length-neutral, HOLD ai_system claude-opus-4-6
-    SINGLE. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned
-    run_824_note per note-bloat discipline (keep ~3: 825/826/827).'
   run_828_note: 'run no.828 (2026-07-25T22:10Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/agent-causation.md.
     Pre-write count_p0_p2_tasks(content) == 2 (holders P2 neural-correlates opus-4-5
@@ -1245,6 +1215,41 @@ queue_status:
     8ab815227 inserts; HOLD ai_system claude-opus-4-6 SINGLE. BOTTOM-inserted (FIFO).
     Full reasoning in the todo task Notes. Pruned run_826_note per note-bloat discipline
     (keep ~3: 827/828/829).'
+  run_830_note: 'run no.830 (2026-07-25T23:00Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint topics/argument-from-reason.md.
+    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 agent-causation opus-4-6
+    run-828 + P2 metacognition opus-4-6 run-829; the run-827 attention-as-interface
+    holder drained by a loop-less local cycle deep-review slot, commit 1cea89515 = HEAD,
+    last_runs deep-review 22:57Z); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 1cea89515; only uncommitted
+    delta the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source
+    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already
+    queued P3 + #veto condenses parser-excluded; positions 8<10 audit threshold + last
+    positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
+    TARGET: argument-from-reason (sonnet-4-5, topics, soft_warning 3978w ~22w under
+    4000 hard, ldr 07-11T16:42). POOL-BREAK: unlike runs 827/828/829 (all forced onto
+    opus-4-6/concepts picks), this target is FULLY cohort+section-distinct from both
+    holders. GENUINE delta: commit 0c0839032 (07-18 17:09) CONDENSED the article 4684w->3978w
+    (~684w authored-prose removed) AFTER the 07-11 review and NO deep-review ran since
+    (git log 0c0839032..HEAD -- file EMPTY) -- the condensed body has never been deep-reviewed,
+    a substantive surface unlike the run''s cosmetic-wikilink no-ops. Alternatives lost:
+    self-representational (opus-4-8/concepts) = FALSE positive, ai_modified 07-20T00:02
+    is 2min after its own 07-20T00:00 review (same-commit artifact, REJECTED); the-steelman-for-process-monism
+    (opus-4-8/topics) delta = reciprocal cross-link add a63bf29ee (cosmetic, REJECTED);
+    evolution-of-consciousness = 07-19-verified quote fixes (no-op); functionalism =
+    cosmetic wikilink (no-op); open-individualism = 07-19 web-verified over-review trap;
+    dualism-cartography (opus-4-8/apex) SESSION-TOUCHED TODAY by apex-evolve 15:36 (churn-excluded);
+    five top get_review_candidates topics length-BLOCKED over hard ceiling. SEAM: condense-fidelity
+    -- verify the 07-18 condense preserved the four cautioned targets (Finding-3 exclusion-self-application,
+    Anscombe boundary-substitution, evidential-status-discipline framing, load-bearing
+    calibration hedges) per condense-regresses-calibration-qualifiers; plus verbatim-check
+    the shared Sellars EPM ''logical space of reasons'' quote at primary text if present.
+    LENGTH strictly neutral + TIGHT (22w headroom; a restore that would breach 4000w
+    DIVERTS to human length decision, not exceed). HOLD ai_system claude-sonnet-4-5-20250929
+    SINGLE. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_827_note
+    per note-bloat discipline (keep ~3: 828/829/830).'
+
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
