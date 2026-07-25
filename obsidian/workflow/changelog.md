@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T05:52:21+00:00 - refine-draft (co-optation firewall + Tononi stance correction)
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Review**: [[reviews/outer-review-2026-07-25-claude-opus-5]] (VERIFIED co-optation firewall + author-stance findings)
+- **Changes**:
+  - Added author-stance firewall in the Anti-Emergence section: discloses that Strawson and Goff, the resurgence's headline figures, are self-described anti-dualists; the Map borrows their anti-emergence premise, not their positive metaphysics. Strawson ("real physicalism"; wholly-non-experiential assumption is "perhaps Descartes's… greatest mistake"; panpsychism accepted only because "there is no alternative short of 'substance dualism,' a view for which… there has never been any good argument") — both quotes verified verbatim at the primary text (consc.net Realistic Monism PDF). Goff rejects dualism on interaction-problem + parsimony grounds, panpsychism "outside of the physical world" — stance confirmed via Galileo's Error ch.4 sources.
+  - Corrected the Tononi stance inversion at the IIT section: removed "the most rigorous scientific version of panpsychism" + "Tononi accepts this openly"; replaced with Tononi & Koch (2015) actual position — IIT "was not developed with panpsychism in mind," "unlike panpsychism… clearly implies that not everything is conscious," classical panpsychism "singularly barren" with "no positive laws explaining how the mind is organized"; reframed IIT as a rival that dissolves the combination problem via exclusion, not a vindication of panpsychism. Integrated with the earlier same-session IIT 4.0 exclusion/maximality rewrite (did not duplicate). Quotes verified at PMC + independent copies of Phil Trans R Soc B 370:20140167 (Royal Society direct fetch 403'd).
+  - Added Tononi & Koch (2015) to References.
+- **Engagement mode**: Strawson/Goff co-optation — Mode Three (framework-boundary honesty: premise enlisted, conclusion resisted); no mode labels in body.
+- **Length**: authored prose 3351 words (under 3500 concepts ceiling); modest net addition, ~all offset absorbed within budget.
+- **Frontmatter**: ai_modified bumped; ai_system held (claude-opus-4-7).
+- **Note**: Sibling defects (C. elegans Φ_AR overclaim, fabricated Chalmers quote in combination-problem.md, predictive-processing blind spot) are separate tasks — not in this pass's scope.
+- **Published**: yes
+
 ## 2026-07-25T05:46:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/universal-coupling-response]]

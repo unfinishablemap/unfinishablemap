@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-25T05:32:41+00:00
+ai_modified: 2026-07-25T05:52:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,6 +51,8 @@ Panpsychism's central motivation is negative: standard physicalism fails. The [[
 How does consciousness arise from unconscious matter? Panpsychists argue it can't—at least not intelligibly. Galen Strawson puts it sharply: "Emergence can't be brute." If consciousness emerges from the non-conscious, there should be some explanation of the transition. But none seems possible: physical descriptions are third-person, consciousness first-person, and the gap appears unbridgeable. A Dennettian response holds that experiential-from-non-experiential emergence is perfectly intelligible once we stop treating first-person intuitions as metaphysical data—just as liquidity emerges from non-liquid molecules. Panpsychists and dualists find this deflationary move unsatisfying, but it is a serious position.
 
 The Map agrees with the panpsychist diagnosis. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes precisely because the explanatory gap cannot be closed—it isn't the sort of thing that emerges from arrangements of unconscious matter.
+
+One disclosure is owed here. Strawson and Goff, the resurgence's headline figures, are both self-described anti-dualists, and the Map borrows their anti-emergence premise—not their positive metaphysics. Strawson frames his own view as "real physicalism" and calls the assumption that the physical is wholly non-experiential "perhaps Descartes's… greatest mistake," accepting panpsychism only because "there is no alternative short of 'substance dualism,' a view for which… there has never been any good argument." Goff likewise rejects dualism outright, on interaction-problem and parsimony grounds, marketing panpsychism as avoiding any consciousness "outside of the physical world." Where they read the impossibility of emergence as entailing a physicalist monism, the Map reads it as pointing toward interactionist dualism—enlisting their premise while resisting their conclusion.
 
 ## The Panpsychist Solution
 
@@ -151,9 +153,9 @@ The Map's interactionist framework avoids both *constitutive* combination (consc
 
 ## Integrated Information Theory: A Scientific Panpsychism?
 
-[[integrated-information-theory|Integrated Information Theory]] (IIT), developed by neuroscientist Giulio Tononi and now in its 4.0 formulation (2023), is the most rigorous scientific version of panpsychism. IIT identifies consciousness with integrated information (Φ). Its exclusion postulate matters here: consciousness belongs only to a *maximal complex*—a set of elements forming a local maximum of Φ—so a merely overlapping candidate system is excluded, and positive Φ alone does not make every overlapping subsystem a distinct conscious subject.
+[[integrated-information-theory|Integrated Information Theory]] (IIT), developed by neuroscientist Giulio Tononi and now in its 4.0 formulation (2023), is often taken as a scientific version of panpsychism—though, as we will see, Tononi resists the identification. IIT identifies consciousness with integrated information (Φ). Its exclusion postulate matters here: consciousness belongs only to a *maximal complex*—a set of elements forming a local maximum of Φ—so a merely overlapping candidate system is excluded, and positive Φ alone does not make every overlapping subsystem a distinct conscious subject.
 
-IIT still implies a graded panpsychism: even a simple maximal complex has minimal Φ, hence minimal experience. Tononi accepts this openly, and IIT supplies what traditional panpsychism lacks—a mathematical measure and testable predictions about which systems are conscious. (The 2025 Cogitate Consortium adversarial collaboration between IIT and global-workspace theory tested neither panpsychism nor the exclusion postulate, though its mixed results sharpened debate over IIT's standing.)
+IIT does imply a graded distribution of experience—even a simple maximal complex has minimal Φ, hence minimal experience—which invites a panpsychist reading. But Tononi and Koch (2015) explicitly distance the theory from it: IIT "was not developed with panpsychism in mind," and "unlike panpsychism," it "clearly implies that not everything is conscious"—feed-forward networks and mere aggregates carry zero Φ. They judge classical panpsychism "singularly barren," with "no positive laws explaining how the mind is organized," and present IIT instead as a *rival* that dissolves rather than inherits the combination problem: by the exclusion postulate, interacting complexes never sum into a further conscious aggregate. What IIT supplies that traditional panpsychism lacks is a mathematical measure and testable predictions about which systems are conscious. (The 2025 Cogitate Consortium adversarial collaboration between IIT and global-workspace theory tested neither panpsychism nor the exclusion postulate, though its mixed results sharpened debate over IIT's standing.)
 
 However, IIT faces its own version of the combination problem: it remains unclear why integration should produce unified experience rather than merely integrated information processing. The Φ measure quantifies integration but doesn't explain why integration feels like anything.
 
@@ -222,4 +224,5 @@ But the Map thinks interactionist dualism offers a cleaner solution: consciousne
 1. Nagel, T. (2012). *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*. Oxford University Press.
 1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+1. Tononi, G., & Koch, C. (2015). Consciousness: Here, There and Everywhere? *Philosophical Transactions of the Royal Society B*, 370(1668), 20140167. https://doi.org/10.1098/rstb.2014.0167
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
