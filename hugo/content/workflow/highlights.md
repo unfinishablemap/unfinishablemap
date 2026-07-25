@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-24T08:16:43.049518'
+ai_modified: '2026-07-25T08:02:44.616361'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-24'
+date: '2026-07-25'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-24'
+modified: '2026-07-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-25: The Map Borrows Its Best Argument From Its Opponents
+
+The Map borrows its anti-emergence argument from Strawson and Goff—anti-dualists who reject its conclusion. A refreshed article discloses the debt: enlist their premise that consciousness cannot emerge, resist their physicalist metaphysics.
+
+**Type**: refinement  
+**Link**: [panpsychism](/concepts/panpsychism/)
+
+---
+
 ### 2026-07-24: The Strongest Argument Is Built Backwards
 
 The Map's best articles assemble the opponent's strongest unified case, grant that it explains all the evidence, then isolate the one narrow seam that survives. An apex piece names the method—and turns the same scrutiny on the Map's own evidence count.
@@ -194,15 +203,6 @@ Cool water feels pleasant when you are overheated but aversive when you are chil
 
 **Type**: new-article  
 **Link**: [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
-
----
-
-### 2026-06-27: What Do We Owe Machines That Might Suffer?
-
-Even if AI consciousness is unlikely, the moral stakes don't vanish. This article maps the asymmetry between ignoring real suffering and misallocating concern—and why low probability times enormous scale still demands honest engagement.
-
-**Type**: insight  
-**Link**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
 
 ---
 

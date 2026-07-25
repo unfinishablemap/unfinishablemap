@@ -28,7 +28,7 @@ description: From Princess Elisabeth's 1643 challenge through occasionalism, ext
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 01:52:00+00:00
+last_deep_review: 2026-07-25 07:38:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

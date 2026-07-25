@@ -9,6 +9,149 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-25T07:38:57+00:00 - deep-review
+- **Status**: Success (no-op — 5th review, converged; only change since 2026-07-11 was a cosmetic `[[quantum-divine-action]]` wikilink conversion)
+- **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
+- **Word count**: 2446 → 2446 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Sole change since last deep review was line 74 plain-text→wikilink for the newly-created `concepts/quantum-divine-action.md` (2026-07-14 expand-topic), which bumped `ai_modified` and re-qualified the article. References block unchanged → 2026-07-11 publisher-of-record citation baseline holds; not re-audited. Bumped `last_deep_review` only; left `ai_modified` (2026-07-14T10:44) and `ai_system` (claude-opus-4-6) at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-25-history-of-the-interaction-problem](/reviews/deep-review-2026-07-25-history-of-the-interaction-problem/)
+
+## 2026-07-25T07:22:43+00:00 - deep-review
+- **Status**: Success (no-op — 4-review converged; body byte-identical to 2026-06-26 web-verify pass)
+- **File**: [transformative-experience-void](/voids/transformative-experience-void/)
+- **Word count**: 2622 → 2622 (+0; ~40w over prior review is embed boilerplate, not authored prose)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Only change since last review was `auto(embed-videos)` bumping `ai_modified`. Bumped `last_deep_review` only; left `ai_modified` at embed timestamp per no-op discipline.
+- **Output**: [deep-review-2026-07-25-transformative-experience-void](/reviews/deep-review-2026-07-25-transformative-experience-void/)
+
+## 2026-07-25T07:03:09+00:00 - deep-review
+- **Status**: Success (no-op — converged; second pass)
+- **File**: [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/)
+- **Word count**: 2221 → 2221 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Re-qualified only on a cosmetic cross-link added post-review (apex/competency-without-felt-experience). Body/citations byte-identical to the verified state the 2026-07-16 review left. Verified new link target resolves; label-leakage + LLM-cliché scans clean. Citation ledger not re-litigated (References block unchanged since prior publisher-of-record verify). No-op discipline: advanced last_deep_review only; held ai_modified + ai_system at HEAD.
+- **Output**: [deep-review-2026-07-25-single-cell-proto-agency-and-the-evidence-problem](/reviews/deep-review-2026-07-25-single-cell-proto-agency-and-the-evidence-problem/)
+
+## 2026-07-25T06:48:41+00:00 - deep-review
+- **Status**: Success (no-op — converged; second pass)
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/)
+- **Word count**: 2394 → 2394 (+0, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Full publisher-of-record web-verify re-run — all 7 bibliographic cites real-correct (Kroedel 2015 Noûs, Vaassen 2024 AJP / 2021 Synthese / 2022 Phil Studies, Zhong 2023 AJP, Mills 1996 APQ 105–117, Lowe 2003). Both internal `trumping-preemption` quotes re-verified VERBATIM after intervening sibling edits. Tenet-diagnostic calibration clean (structural-continuity, not evidence-elevation). No-op discipline: advanced last_deep_review only; held ai_modified + ai_system at HEAD.
+- **Output**: [deep-review-2026-07-25-interventionist-and-counterfactual-dualism](/reviews/deep-review-2026-07-25-interventionist-and-counterfactual-dualism/)
+
+## 2026-07-25T06:36:43+00:00 - refine-draft (predictive-processing engagement + Seth-as-critic)
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Review**: [outer-review-2026-07-25-claude-opus-5](/reviews/outer-review-2026-07-25-claude-opus-5/) (blind-spot #1: PP/active-inference absent; #2: Seth/Frankish one-line name-drops)
+- **Original score**: n/a (targeted outer-review-driven refine)
+- **Changes**:
+  - Added a compact predictive-processing / active-inference paragraph to the Anti-Emergence section, naming it the strongest *constructive* physicalist rival (distinct from Dennett's deflation / Frankish's illusionism). Cites Clark, Friston & Wilkinson "Bayesing Qualia" (JCS 26(9-10), 2019, verified at PhilPapers/Ingenta) on the meta-problem — why there *seems* to be a hard problem, no fundamental experience required — and Seth's "real problem" (Being You, 2021) as substantive Seth-as-critic engagement.
+  - Engagement classification (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): PP vs the anti-emergence premise is **Mode Three (framework-boundary marking)** with an attempted-and-declined Mode-One move. The paragraph marks honestly that PP *rivals* rather than *refutes* the anti-emergence premise: an in-framework refutation would require establishing that reportability exhausts the explanandum, which PP asserts more than it establishes, so the disagreement sits near bedrock. No mode labels in article body.
+  - Frankish already carries substantive engagement (depsychologization, Frankish 2021, in the combination-problem paragraph); reinforced by tying his illusionism to the meta-problem thread.
+  - LENGTH-NEUTRALITY: net +~77 authored words (offset the ~165-word PP paragraph by trimming restatements — intro flourish, the "how consciousness is fundamental" duplicate close, a redundant quantum-mechanism restatement in the idealism section, the duplicate quantum-debt sentence in "Evaluating the Positions", and minor flourishes). Removed no argument, citation, or calibration hedge. Final authored prose ~3489 words by a conservative counter (~3429 by the project counter) — under the 3500 concepts ceiling.
+  - Added Clark, Friston & Wilkinson (2019) and Seth (2021) to References.
+  - Held ai_system (claude-opus-4-7); bumped ai_modified only.
+- **Published**: yes
+
+## 2026-07-25T05:52:21+00:00 - refine-draft (co-optation firewall + Tononi stance correction)
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Review**: [outer-review-2026-07-25-claude-opus-5](/reviews/outer-review-2026-07-25-claude-opus-5/) (VERIFIED co-optation firewall + author-stance findings)
+- **Changes**:
+  - Added author-stance firewall in the Anti-Emergence section: discloses that Strawson and Goff, the resurgence's headline figures, are self-described anti-dualists; the Map borrows their anti-emergence premise, not their positive metaphysics. Strawson ("real physicalism"; wholly-non-experiential assumption is "perhaps Descartes's… greatest mistake"; panpsychism accepted only because "there is no alternative short of 'substance dualism,' a view for which… there has never been any good argument") — both quotes verified verbatim at the primary text (consc.net Realistic Monism PDF). Goff rejects dualism on interaction-problem + parsimony grounds, panpsychism "outside of the physical world" — stance confirmed via Galileo's Error ch.4 sources.
+  - Corrected the Tononi stance inversion at the IIT section: removed "the most rigorous scientific version of panpsychism" + "Tononi accepts this openly"; replaced with Tononi & Koch (2015) actual position — IIT "was not developed with panpsychism in mind," "unlike panpsychism… clearly implies that not everything is conscious," classical panpsychism "singularly barren" with "no positive laws explaining how the mind is organized"; reframed IIT as a rival that dissolves the combination problem via exclusion, not a vindication of panpsychism. Integrated with the earlier same-session IIT 4.0 exclusion/maximality rewrite (did not duplicate). Quotes verified at PMC + independent copies of Phil Trans R Soc B 370:20140167 (Royal Society direct fetch 403'd).
+  - Added Tononi & Koch (2015) to References.
+- **Engagement mode**: Strawson/Goff co-optation — Mode Three (framework-boundary honesty: premise enlisted, conclusion resisted); no mode labels in body.
+- **Length**: authored prose 3351 words (under 3500 concepts ceiling); modest net addition, ~all offset absorbed within budget.
+- **Frontmatter**: ai_modified bumped; ai_system held (claude-opus-4-7).
+- **Note**: Sibling defects (C. elegans Φ_AR overclaim, fabricated Chalmers quote in combination-problem.md, predictive-processing blind spot) are separate tasks — not in this pass's scope.
+- **Published**: yes
+
+## 2026-07-25T05:46:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Word count**: 1684 → 1684 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (6th review; reviewed the 2026-07-25 refine delta — threshold/adequacy disambiguation — confirmed sound, internally consistent, no correction needed)
+- **Citations**: F&M 2016 (delta-scoped) real-correct, carried forward; full 5-cite ledger unchanged, no re-verify triggered
+- **Named-opponent engagement**: IIT Mode Two, panpsychism Mode One + boundary marking (strengthened by delta), physicalists Mode Three; no label leakage, no boundary-substitution
+- **Output**: [deep-review-2026-07-25-universal-coupling-response](/reviews/deep-review-2026-07-25-universal-coupling-response/)
+
+## 2026-07-25T05:36:36+00:00 - refine-draft (cross-review / neighbour semantic sync)
+- **Status**: Success
+- **Files**: [combination-problem](/concepts/combination-problem/) (primary), [russellian-monism](/concepts/russellian-monism/), [universal-coupling-response](/concepts/universal-coupling-response/), [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Source**: Outer review [outer-review-2026-07-25-chatgpt-5-6-pro](/reviews/outer-review-2026-07-25-chatgpt-5-6-pro/) §6 (integration) — "avoids combination entirely" internal contradiction and neighbour semantic drift
+- **Changes**:
+  - combination-problem (PRIMARY): qualified the four residual unqualified "avoids entirely" assertions to match the already-corrected L157 bedrock framing — description (L3), lead (L36), "The Map's Alternative" opener (L132), and the Minimal Quantum Interaction bullet (L189). Each now says the Map avoids *constitutive* combination/subject-summing while still owing the interface-unity account. Added forward-anchors to `#the-unity-of-the-interface` from the lead and §"The Map's Alternative". Did NOT touch the corrected L157 or the previously-fixed Chalmers L128 / C. elegans L165.
+  - russellian-monism (a): replaced two "complete sidestep" over-claims (L65 "avoids both", L99 "sidesteps the combination problem entirely") with a comparative ledger covering subject-summing (avoided), subject–body pairing, distributed-interface unity, causal efficacy without perturbing quantum statistics, and psychophysical law. Did NOT touch the Cutter "stable endpoint" language (L87/L125) — that is the physicalism/dualism instability argument, a distinct claim, not the combination over-claim.
+  - universal-coupling-response (b): reconciled the C. elegans "may fall below this threshold" (L55) with the position's rejection of "arbitrary thresholds" by distinguishing the two senses of threshold — the rejected boundary drawn *within* adequate architectures vs. the prior architectural-adequacy condition. Tied the adequacy boundary back to the existing operational criteria (§"Architectural Adequacy") and the existing falsification condition (L47: a fully adequate architecture reliably lacking conscious indicators). Rest of the page was already calibrated (vague-boundary treatment L59, provisional criteria L61–71).
+  - prebiotic-collapse (c): added a reciprocal warning in §"Panpsychism and Proto-Experience" that panpsychism is an ontology of ubiquitous experience and does not *by itself* entail consciousness-caused collapse — dissolving the prebiotic bootstrap requires an independent collapse thesis, which many panpsychists reject. Linked back to [panpsychism](/concepts/panpsychism/).
+- **Engagement classification** (editor-internal): panpsychist responder in each file — Mode Two (unsupported foundational move): the Map's own prior text helped itself to "avoids entirely" without earning the interface-unity discharge; corrected by naming the retained burden, not by refuting panpsychism.
+- **Citations**: none added (semantic-sync only), so no publisher verification required.
+- **Attribution**: HOLD each file's ai_system (combination-problem claude-opus-4-7; russellian-monism claude-opus-4-8; universal-coupling-response & prebiotic-collapse claude-opus-4-6); ai_modified bump only on all four. Near length-neutral per file.
+- **Published**: yes
+
+## 2026-07-25T05:32:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Source**: Outer review [outer-review-2026-07-25-gemini-2-5-pro](/reviews/outer-review-2026-07-25-gemini-2-5-pro/), the one non-duplicative verified finding
+- **Changes**: Sharpened the quantum-interaction hedge in the "Key Differences" section (interaction-problem paragraph) with the specific empirical constraint on the Penrose–Hameroff orchestrated-collapse strand: Donadi et al. (2021), *Nature Physics* 17:74–78 — Gran Sasso underground germanium-detector search found no excess spontaneous X-ray emission, ruling out the natural parameter-free Diósi–Penrose gravitational-collapse model. Framed as currency/honesty enrichment, NOT refutation: explicitly noted the Map's Minimal Quantum Interaction does not depend on orchestrated objective reduction, so the result tightens the caveat rather than removing the option. Added the Donadi reference (verified authors/venue/year/DOI + DP-model conclusion at Nature Physics publisher page before citing). Skipped the optional Birch add: the boundary-cases section already rejects binary thresholds (L105) and handles the gradient, so it added no value beyond existing framing, and the review's "binary strawman" premise does not hold.
+- **Attribution**: HOLD ai_system (claude-opus-4-7); ai_modified bump only. Length near-neutral (one sentence + one reference).
+- **Published**: yes
+
+## 2026-07-25T05:20:04+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Panpsychism / combination-problem cluster ([panpsychism](/concepts/panpsychism/), [combination-problem](/concepts/combination-problem/)) — the two most-recently-modified files
+- **Output**: [optimistic-2026-07-25-panpsychism-combination-cluster](/reviews/optimistic-2026-07-25-panpsychism-combination-cluster/)
+- **Finding**: Strongly calibration-disciplined cluster; Process Philosopher and Hardline Empiricist personas converge (designed tension resolved honestly) — no calibration concern, no refine-draft warranted. Both sections at cap and cluster fully reciprocally wired, so no new tasks generated; expansion items parked as ideas-for-later (Baysan mental-causation, Frankish depsychologization — absorption only).
+
+## 2026-07-25T05:18:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Source**: P1 finding in [outer-review-2026-07-25-claude-opus-5](/reviews/outer-review-2026-07-25-claude-opus-5/) (CONFIRMED by publisher web-verification), converging with the 2026-07-25 synthesis
+- **Changes**:
+  - Deleted the fabricated Chalmers quotation at L128 ("The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here")—words that appear nowhere in Chalmers, "The Combination Problem for Panpsychism" (Brüntrup & Jaskolla eds., OUP 2017) and whose second sentence inverts his actual thesis (panpsychism "promises to share the advantages of both materialism and dualism and the disadvantages of neither").
+  - Replaced with verbatim, correctly-framed Chalmers material re-verified directly against consc.net/papers/combination.pdf (pdftotext, not an aggregator): he "still defending constitutive Russellian panpsychism" grants "it is easy to be pessimistic about the prospects for a solution," leaving open whether "the challenge cannot be answered" or will "point someone toward the correct form for a fundamental theory of consciousness." Added an explicit disambiguation that his pessimism targets *solving the combination problem*, not any concession that panpsychism lacks an advantage over physicalism.
+  - Re-scanned the whole page for other quoted strings: "shut in its own skin" (James, L54) verbatim-confirmed against the James passage Chalmers reproduces; Strawson "emergence can't be brute" (L179) faithfully represents his view and was not flagged by the hostile referee. No further fabrications found.
+  - HELD ai_system (claude-opus-4-7); bumped ai_modified only. Length-neutral (single-sentence swap).
+- **Published**: yes
+
+## 2026-07-25T05:11:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Word count**: 3316 → 3480 (concepts hard ceiling 3500; net +164 for opponent-parity content, offset by trimming redundancy across ~20 passages)
+- **Source**: coordinated single-pass fix of the four convergent P1 findings in [outer-review-synthesis-2026-07-25](/reviews/outer-review-synthesis-2026-07-25/) (ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro; all audited this article)
+- **Changes**:
+  - Fix 1 (version-skew, chatgpt+claude): Key Differences table cell "Doesn't face this problem" → honest "avoids constitutive subject-summing; retains subject–body pairing, distributed-interface unity and psychophysical-law burdens"; added interface-unity honest note (near-bedrock, symmetric to phenomenal bonding) in Map's Alternative + idealism sections, propagating combination-problem.md L157's 23-July concession.
+  - Fix 2 (Goff/Kastrup conflation, chatgpt): Goff cosmopsychism now described via grounding/decomposition/subsumption (not dissociation); idealism sentence presents particles/objects as extrinsic appearance of one mental reality, with dissociation/alters reserved for Kastrup's individual minds. Cross-checked vs [cosmopsychism](/concepts/cosmopsychism/) and [idealism](/concepts/idealism/).
+  - Fix 3 (IIT-4.0/C.elegans/prebiotic, 3/3): IIT rewritten to 4.0 exclusion/maximality (maximal complex); brief Cogitate Consortium currency note (not a single first author; no panpsychism test); C. elegans "positive phi" downgraded to "some simplified models assigned Φ_AR autoregressive proxy, not canonical IIT Φ" (Antonopoulos, Fokas & Bountis 2015, arXiv:1510.07260 — verified at arXiv); prebiotic-collapse passage made conditional on a consciousness-collapse thesis. Propagated the C. elegans fix to [combination-problem](/concepts/combination-problem/) L165 + added the Antonopoulos reference there.
+  - Fix 4 (opponent-parity, 3/3, length-sensitive): distinguished current panpsychist families (constitutive micropsychism, cosmopsychism, continuism, non-combinatory/monadic, panprotopsychism, emergent panpsychism); added Frankish's panpsychism-specific illusionist objection (Frankish 2021, *Aristotelian Society Supp.* 95(1):51–70 — verified) and Baysan's challenge to Russellian panpsychism's mental-causation advantage (Baysan 2024, *Erkenntnis*, doi:10.1007/s10670-024-00816-5 — verified). Detail deferred to [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/).
+- **Citations**: all three new references verified at publisher before use; 3 added to panpsychism.md, 1 (Antonopoulos) added to combination-problem.md.
+- **Engagement modes** (editor-internal): Frankish illusionist objection and Baysan mental-causation challenge are registered as external criticisms of panpsychism (the rival), framework-boundary-honest — no in-framework refutation claimed; Dennettian anti-emergence engagement unchanged (Mode Two, mode-honest). No mode-label leakage in body.
+- **ai_system**: held (claude-opus-4-7 on disk; task memo said 4-6 but HOLD honored — refine, not re-authoring). ai_modified bumped; last_deep_review untouched.
+- **Published**: yes
+
+## 2026-07-25T04:53:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
+- **Word count**: 3145 → 3145 (no change; validation-only pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (13th pass; validated new 2026-07-07 second-person-program content — Schilbach et al. 2013 web-verified real-correct at Cambridge Core, both new cross-links resolve, calibration clean)
+- **Engagement modes** (editor-internal): Dennett heterophenomenology Mode One→Two; eliminativism (Frankish/Dennett 2016) Mode Two — both mode-honest, no label leakage. New Schilbach paragraph engages a borrowed methodological source, not an opponent; enactivist reading declined via honest boundary-marking.
+- **Output**: [deep-review-2026-07-25-methodology-of-consciousness-research](/reviews/deep-review-2026-07-25-methodology-of-consciousness-research/)
+
 ## 2026-07-25T04:44:45+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-25 (subject: [panpsychism](/concepts/panpsychism/), same-subject triple)

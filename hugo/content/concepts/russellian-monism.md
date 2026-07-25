@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-23 12:49:49+00:00
+ai_modified: 2026-07-25 05:36:36+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -65,7 +65,7 @@ David Chalmers distinguishes *panprotopsychism*: quiddities might be non-phenome
 
 Both variants face the [combination problem](/concepts/combination-problem/): how do micro-experiences or proto-experiences combine into unified macro-consciousness? The problem spans subject combination (how many micro-subjects become one macro-subject), quality combination (how simple micro-phenomenal properties yield rich qualitative experience), and structure combination (how phenomenal structure tracks neural structure).
 
-Proposed solutions remain inadequate. Goff's "phenomenal bonding"—a primitive relation combining experiences—names the problem rather than solving it. His later move to *cosmopsychism* (the universe as a whole is conscious, individuals as aspects) merely reverses the difficulty: Miller (2018) argues the "decombination problem" is structurally equivalent to the combination problem. The Map avoids both: individual conscious subjects are fundamental, not composed of micro-subjects or differentiated from a cosmic subject.
+Proposed solutions remain inadequate. Goff's "phenomenal bonding"—a primitive relation combining experiences—names the problem rather than solving it. His later move to *cosmopsychism* (the universe as a whole is conscious, individuals as aspects) merely reverses the difficulty: Miller (2018) argues the "decombination problem" is structurally equivalent to the combination problem. The Map avoids the *constitutive* form of both: individual conscious subjects are fundamental, neither composed of micro-subjects nor differentiated from a cosmic subject. What it does not thereby escape—how an already-unified subject couples to a distributed physical interface—is a pairing-and-unity burden the [combination problem](/concepts/combination-problem/) article treats as parallel to, not dissolved by, this move.
 
 ## A Family of Incompatible Proposals
 
@@ -99,7 +99,7 @@ If Russellian monism inherits dualism's costs under a different name, the Map's 
 
 **Clearer ontology**: The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: its aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) adds that "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
 
-**Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [substance dualism](/concepts/substance-property-dualism/) sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
+**Avoids constitutive combination**: By positing unified mental subjects rather than combinations of micro-subjects, [substance dualism](/concepts/substance-property-dualism/) sidesteps subject-summing—there is no question of how many experiences become one, since the unified subject is fundamental. What it does not sidestep is the parallel ledger the [combination problem](/concepts/combination-problem/) article now makes explicit: an already-unified subject must still be paired with one particular body, couple as one agent across a spatially distributed neural interface, remain causally efficacious there without perturbing quantum statistics, and do so under some psychophysical law. These burdens are structurally analogous to—not identical with—the summing problem; the Map trades constitutive combination for subject–substrate pairing and interface unity rather than escaping every unity question.
 
 **Interaction mechanism**: the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) gives consciousness genuine causal work—selecting among undetermined quantum outcomes—rather than claiming it *grounds* physical dispositions (which the contingency thesis undermines). Russellian monism claims consciousness is already integrated but doesn't specify *how* the integration works in physical terms.
 

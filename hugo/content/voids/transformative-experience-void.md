@@ -19,7 +19,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/hrQA1KqbVZo
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 04:03:00+00:00
+last_deep_review: 2026-07-25 07:22:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
