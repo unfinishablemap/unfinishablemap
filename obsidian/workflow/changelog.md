@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T19:15:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/hylomorphic-dualism-and-the-interaction-problem]]
+- **Word count**: 2282 → 2282 (0; no-op convergence pass, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (3rd review; only delta since 2nd was a corpus-wide 07-20-outer-review QM-terminology fix "classical mixture" → "improper reduced-state mixture" — an accuracy improvement, no slippage. Citation surface unchanged; prior ledger stands. Engagement Mode Three, honestly bedrock-marked. ai_modified/ai_system held at HEAD; only last_deep_review advanced)
+- **Output**: [[reviews/deep-review-2026-07-25-hylomorphic-dualism-and-the-interaction-problem]]
+
 ## 2026-07-25T18:48:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/conscious-vs-unconscious-processing]]
