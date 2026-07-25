@@ -49,7 +49,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated: null
-last_deep_review: 2026-07-11T08:19:00+00:00
+last_deep_review: 2026-07-25T23:42:36+00:00
 coalesced_from:
   - "/concepts/metacognition/"
   - "/concepts/metarepresentation/"
