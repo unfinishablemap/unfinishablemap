@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T18:02:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-neural-timing-constraints]]
+- **Word count**: 2657 → 2657 (0; convergence no-op pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (9th review; prose byte-stable since the 4th, citations twice publisher-verified)
+- **Notes**: Re-qualified only via coalesce commit 53b5e5da1 (07-16) that repointed one wikilink `[[neural-refresh-rates]]` → `[[neural-refresh-rates-and-the-smoothness-problem|neural refresh rates]]` — correct (old target archived, content merged; bare-slug resolves live). Body otherwise byte-identical. §2.4 web-verify not re-run (References unchanged; twice-verified clean 06-06 & 07-10). All wikilinks resolve; no label leakage. Engagement with Tegmark = Mode Three + Mode-One-adjacent Hagan recalculation. `ai_modified` left at HEAD (07-16 coalesce); only `last_deep_review` advanced. `ai_system` untouched (no content change).
+- **Output**: [[reviews/deep-review-2026-07-25-quantum-neural-timing-constraints]]
+
 ## 2026-07-25T17:57:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
