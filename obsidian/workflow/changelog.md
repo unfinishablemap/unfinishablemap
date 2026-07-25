@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T04:53:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/methodology-of-consciousness-research]]
+- **Word count**: 3145 → 3145 (no change; validation-only pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (13th pass; validated new 2026-07-07 second-person-program content — Schilbach et al. 2013 web-verified real-correct at Cambridge Core, both new cross-links resolve, calibration clean)
+- **Engagement modes** (editor-internal): Dennett heterophenomenology Mode One→Two; eliminativism (Frankish/Dennett 2016) Mode Two — both mode-honest, no label leakage. New Schilbach paragraph engages a borrowed methodological source, not an opponent; enactivist reading declined via honest boundary-marking.
+- **Output**: [[reviews/deep-review-2026-07-25-methodology-of-consciousness-research]]
+
 ## 2026-07-25T04:44:45+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-25 (subject: [[concepts/panpsychism]], same-subject triple)
