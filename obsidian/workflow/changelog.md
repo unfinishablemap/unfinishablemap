@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T09:23:32+00:00 - deep-review
+- **Status**: Success (8th review, converged; no-op verification pass)
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
+- **Word count**: 3104 → 3104 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Re-qualified only because a cosmetic cross-link bumped `ai_modified` to 2026-07-16. Sole delta since the 07-06 no-op pass is one wikilink at line 71 (`confabulated` → `[[interpreter-module-narrative-construction-unity|confabulated]]`, commit 98e5ba64b); target verified live. No prose/argument/citation/References change. All four substantiality arguments remain correctly hedged (06-01 unobservability slippage fix holds). §2.4 web-verify legitimately skipped (References byte-stable since 06-01 ledger); find_superlative_claims=0. Updated only `last_deep_review`; held `ai_modified` at 07-16 HEAD and `ai_system` at claude-opus-4-6 (no-op, not re-authoring). No slippage, no label leakage.
+- **Output**: [[reviews/deep-review-2026-07-25-the-self-minimal-narrative-and-substantial]]
+
 ## 2026-07-25T09:10:00+00:00 - deep-review
 - **Status**: Success (7th review, converged; length-neutral maintenance trim)
 - **File**: [[concepts/self-and-self-consciousness]]

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T09:13:39.533185+00:00'
-session_count: 17123
+last_updated: '2026-07-25T09:22:21.258188+00:00'
+session_count: 17124
 cycle_position: 11690
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T06:39:17.166027+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T09:07:53.570855+00:00'
+  replenish-queue: '2026-07-25T09:22:21.258188+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1176,25 +1176,25 @@ queue_status:
     (12.8, opus-4-8 DE-PRIORITIZED-newest) / generalised-probabilistic-theories (12.31,
     opus-4-8 newest + reviewed 07-16 9d) passed over; chose curated-mind (11.61, 19d)
     on the established discriminator — SIZE of unchecked verify surface: older claude-opus-4-6
-    cohort, last_deep_review 2026-07-06, largest distinct-pool citation apparatus (~19
-    year-cites / 10 numbered refs) — Botvinick&Cohen 1998 Nature rubber-hand, Ramachandran&Hirstein
-    1998 Brain, Ramachandran&Rogers-Ramachandran 1996 Proc R Soc B, Carter 2005 Curr
-    Biol rivalry, Goldstone 1998, Clark 2013 BBS, Bartlett 1932, Fodor 1983 — never
-    re-verified since the 07-06 review; file 19d fully-converged (last touch 07-06)
-    so STALENESS pick justified by unverified surface not change. LENGTH: analyze_length
-    2799w status ok (topics hard 4000) = LENGTH-NEUTRAL deep-review, NOT a condense.
-    Lenses: citation-metadata at publisher (NOT own page), empirical-claim fidelity
-    (rubber-hand, meditator rivalry-dominance, mirror-therapy phantom-limb, Bartlett
-    schema-reconstruction), verbatim quote-fidelity, citation-framing (Fodor modularity
-    / Clark predictive-processing for positions they hold), currency; ref-10 Southgate
-    & Oquatre-six is a LEGIT Map self-cite pseudonym — do NOT strip. ai_system claude-opus-4-6
-    (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false.
-    TOPICS / curated-mind / dualist-perception cluster — DISTINCT from both holders
-    (quantum-indeterminacy-free-will concepts/free-will opus-4-5; timing-gap-problem
-    concepts/quantum-timing opus-4-6). NOT queued (parse_tasks 0 active/vetoed target)
-    / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-06).
-    EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_797_note per note-bloat
-    discipline (keep ~3: 798/799/800).'
+    cohort, last_deep_review 2026-07-06, largest distinct-pool citation apparatus
+    (~19 year-cites / 10 numbered refs) — Botvinick&Cohen 1998 Nature rubber-hand,
+    Ramachandran&Hirstein 1998 Brain, Ramachandran&Rogers-Ramachandran 1996 Proc R
+    Soc B, Carter 2005 Curr Biol rivalry, Goldstone 1998, Clark 2013 BBS, Bartlett
+    1932, Fodor 1983 — never re-verified since the 07-06 review; file 19d fully-converged
+    (last touch 07-06) so STALENESS pick justified by unverified surface not change.
+    LENGTH: analyze_length 2799w status ok (topics hard 4000) = LENGTH-NEUTRAL deep-review,
+    NOT a condense. Lenses: citation-metadata at publisher (NOT own page), empirical-claim
+    fidelity (rubber-hand, meditator rivalry-dominance, mirror-therapy phantom-limb,
+    Bartlett schema-reconstruction), verbatim quote-fidelity, citation-framing (Fodor
+    modularity / Clark predictive-processing for positions they hold), currency; ref-10
+    Southgate & Oquatre-six is a LEGIT Map self-cite pseudonym — do NOT strip. ai_system
+    claude-opus-4-6 (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution
+    100, draft:false. TOPICS / curated-mind / dualist-perception cluster — DISTINCT
+    from both holders (quantum-indeterminacy-free-will concepts/free-will opus-4-5;
+    timing-gap-problem concepts/quantum-timing opus-4-6). NOT queued (parse_tasks
+    0 active/vetoed target) / vetoed / session-touched (git --since 2026-07-25T00:00
+    empty; last touch 07-06). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO).
+    Pruned run_797_note per note-bloat discipline (keep ~3: 798/799/800).'
   run_798_note: 'run no.798 (2026-07-25T08:35Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint concepts/quantum-indeterminacy-free-will.md.
     Authoritative pre-write parse_tasks P0-P2 open == 2 (holders P2 quantum-biology-and-neural-mechanisms
