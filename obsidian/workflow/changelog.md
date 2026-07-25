@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-25 03:16:59+00:00
+ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-25T22:03:20+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 650 (321 topics, 320 concepts, 9 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (steelman cluster + illusionism-gloss cluster, both correctly framed)
+- **Output**: [[reviews/tenet-check-2026-07-25]]
 
 ## 2026-07-25T21:49:23+00:00 - deep-review
 - **Status**: Success
