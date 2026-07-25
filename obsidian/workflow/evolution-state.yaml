@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-25T21:07:59.610963+00:00'
-session_count: 17218
-cycle_position: 11733
+last_updated: '2026-07-25T21:10:38.717274+00:00'
+session_count: 17219
+cycle_position: 11734
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T17:19:58.068099+00:00'
   optimistic-review: '2026-07-25T18:48:24.882802+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T15:17:06.519113+00:00'
-  deep-review: '2026-07-25T20:50:05.123498+00:00'
+  deep-review: '2026-07-25T21:10:38.717274+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T15:17:44.742252+00:00'
   coalesce: '2026-07-25T20:03:26.813102+00:00'
@@ -92,7 +88,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6852
+  reviews_completed: 6853
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-07-25'
@@ -179,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1134,8 +1130,8 @@ tune_system_history:
     old_value: 93 keys (602KB)
     new_value: 3 keys (399KB)
     date: '2026-07-15'
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
-      unbounded per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
+      per-replenish growth bloated every YAML parse.
   report: reviews/system-tune-2026-07-15.md
 queue_status:
   p0_tasks: 0
@@ -1144,117 +1140,85 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T20:38:00+00:00'
-  last_replenishment_prev: '2026-07-25T20:22:24+00:00'
-  last_replenishment_run: 825
+  last_replenishment: '2026-07-25T21:18:00+00:00'
+  last_replenishment_prev: '2026-07-25T20:38:00+00:00'
+  last_replenishment_run: 826
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_821_note: 'run no.821 (2026-07-25T~18:36Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/meditation-and-consciousness-modes.md.
-    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 conscious-vs-unconscious-processing
-    + P2 hylomorphic-dualism-and-the-interaction-problem run-820); queue dropped 3->2
-    since run-820 as a loop-less local cycle deep-review slot drained an older holder
-    (last_runs deep-review 18:19Z, recent_tasks top = deep-review). Below floor 3,
-    == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parses TaskType.DEEP_REVIEW
-    with Type+File lines). No evolve_loop/unfin-cycle process (pgrep clean); HEAD
-    d0128a114; only uncommitted state delta is pre-existing deferred cycle_post bookkeeping
-    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
-    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH human-decision
-    tasks already queued P3 + #veto condenses parser-excluded; positions 8<10 audit
-    threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. TARGET
-    (Source 4 changed-since-review): meditation-and-consciousness-modes (score 8.24,
-    d14) wins on a GENUINE substantive post-review delta. last_deep_review 07-11 (full
-    3-state contemplative-neuroscience web-verify); the ONE own-body change since
-    is commit 90be3d36f (07-18 refine-draft) that reworked the Schwartz OCD/neuroplasticity
-    passage from over-claim ("shows"/"Attention IS the interface") to a hedged shared-evidence
-    framing + a new residual-discriminator argument + "consistent-with-not-established-by"
-    calibration -- diff-CONFIRMED substantive not cosmetic-wikilink, UNVERIFIED by
-    any deep-review. IMPORTANT: the sibling conscious-vs-unconscious holder Notes
-    (run earlier today) dismissed this file as "web-verified 07-11 confirmed no-op"
-    -- STALE dismissal, it missed the 07-18 refine (wrongly read "last touch 07-11");
-    this file DOES carry a real unverified surface. Alternatives lost: agent-causation
-    (opus-4-6, fully cohort-distinct) has ONLY a cosmetic 07-12 text->[[emergent-dualism]]
-    wikilink delta + 12 sidecars = no-op target; eliminative-materialism 39w-under-hard
-    length-risky + converged; consistent-histories reviewed 07-17 converged; machine-consciousness
-    (sonnet-4-5 fully-distinct) 4127w OVER topics hard length-BLOCKED; introspection/phenomenal-authority/qm-interpretations
-    hard_warning length-BLOCKED; neural-correlates 9-sidecar cosmetic. COHORT+SECTION
-    CAVEAT (soft, accepted): opus-4-5 + concepts/ overlaps the conscious-vs-unconscious
-    holder; accepted because cohort/section-distinctness is subordinate to unchecked-surface
-    yield and the only fully-distinct length-safe alternative (agent-causation) is
-    a cosmetic no-op. Cluster contemplative/attention-neuroplasticity/bidirectional-interaction
-    distinct from both holders. LENGTH: analyze_length 3296w soft_warning, ~204w under
-    concepts hard 3500 -- length-safe verification pass, do NOT pad, do NOT strip
-    the newly-installed calibration hedges. SEAM: confirm the 07-18 reworked Schwartz
-    passage is internally sound + Tenet-3 framework-relative; empirical-claim fidelity
-    on the Schwartz OCD claim (18 participants, 9 new) at PRIMARY source not own page;
-    citation-metadata on Stapp 2007 Mindful Universe (NOT 2005 QID paper) / Gupta
-    1998 / Schwartz & Begley 2002. ai_system claude-opus-4-5-20251101 SINGLE (HOLD
-    on no-op; do NOT flip to reviewer model or YAML list), ai_contribution 100, draft:false.
-    NOT queued (0 open ### P header names the slug; todo hits are other tasks Notes
-    mentioning it as cross-link border / rejected alternative) / vetoed (Vetoed-section
-    strings are cross-link mentions in a DIFFERENT article condense note) / session-touched
-    (git --since 2026-07-25T00:00 empty; last touch 07-18). EOF clean (Schwartz &
-    Begley 2002 ref), no [1m] artifact. BOTTOM-inserted (FIFO). Full reasoning in
-    the todo task Notes. Pruned run_818_note per note-bloat discipline (keep ~3: 819/820/821).'
-  run_824_note: 'run no.824 (2026-07-25T20:22Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/temporal-consciousness.md.
-    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 decoherence opus-4-6
-    + P2 epistemology opus-4-6+opus-4-8; higher-order-theories holder drained by a
-    loop-less local cycle deep-review slot, last_runs deep-review 20:06Z); == 3 post-write
-    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). No evolve_loop/unfin-cycle
-    (pgrep clean); HEAD 44fbcc3e9; only uncommitted delta the pre-existing deferred
-    cycle_post state bookkeeping — KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length human-decisions already queued P3 + #veto condenses parser-excluded; positions
-    8<10 audit threshold + last positions-evolve 2026-07-25; no applied-apex gap.
-    Source 4 (changed-since-review) TARGET: temporal-consciousness — GENUINE 07-18
-    refine-draft (9ffd993d2) scoping the Tenet-load-bearing constitutive-role-in-time
-    / quantum-collapse claim + cross-page reconcile with non-temporal-consciousness;
-    unverified by any deep-review of this file AND (unlike evolution-of-consciousness,
-    excluded as an already-verified Broad+Chalmers quote-sweep no-op per both prior
-    mints) added by a REFINE not a deep-review so genuinely open. Length-safe 2983w
-    soft_warning (~517w under concepts 3500 hard). Cohort opus-4-6 overlaps decoherence
-    holder (soft caveat, subordinate to unchecked-surface yield; distinct-cohort alternatives
-    are no-ops/length-blocked); cluster (specious-present/durée/retention-protention)
-    distinct from both holders. NARROW conceptual/cross-page seam — do NOT re-sweep
-    the 28-sidecar James/Bergson/Husserl ledger, do NOT re-inflate the scoping hedge,
-    strictly length-neutral. BOTTOM-inserted (FIFO). Full reasoning in the todo task
-    Notes. Pruned run_819_note per note-bloat discipline (keep ~3: 820/821/824).'
-  run_825_note: 'run no.825 (2026-07-25T20:38Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/emergence.md. Pre-write
-    count_p0_p2_tasks(load_todo()) == 2 (holders P2 epistemology opus-4-6+opus-4-8
-    + P2 temporal-consciousness opus-4-6; decoherence holder drained by a loop-less
-    local cycle deep-review slot, last_runs deep-review 20:32Z, recent_tasks top =
-    deep-review); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File).
-    No evolve_loop/unfin-cycle (pgrep clean); HEAD 34a42658f; only uncommitted delta
-    the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit:
-    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
-    100/100, positions 8/80); orphaned_files=0; length human-decisions already queued
-    P3 + #veto condenses parser-excluded; positions 8<10 audit threshold + last positions-evolve
-    2026-07-25; no applied-apex gap. Source 4 (changed-since-review) TARGET: emergence
-    (opus-4-5, FULLY cohort-distinct from both holders, concepts, 2926w soft_warning
-    ~574w under 3500 hard). GENUINE but MODEST surface: the two Chalmers 2006 / Broad
-    1925 quote corrections in the body were applied+verified BY deep-review commit
-    6f83d14ef (strong-emergence sweep, same sweep that made evolution-of-consciousness
-    a no-op) -> NOT open; the genuinely-new never-reviewed surface is the William
-    Hasker emergent-dualism sentence added by cross-review acb28d8f4 (07-12) + its
-    [[emergent-dualism]] cross-link, which evolution-of-consciousness did NOT receive.
-    SEAM: verify Hasker characterisation (The Emergent Self 1999, emergent individual/substance)
-    + cross-page coherence with emergent-dualism.md; first-review-of-this-file verbatim
-    glance at the collaterally-set Chalmers one-clear-case / Broad quotes at PRIMARY
-    source (expect confirm). Alternatives lost: consistent-histories/agent-causation/functionalism
-    cosmetic-wikilink no-ops; metacognition zero-delta; evolution-of-consciousness
-    verified-sweep no-op; introspection/phenomenal-authority/qm-interp/machine-consciousness/personal-identity/quantum-consciousness/bandwidth/simple-organisms/prebiotic
-    length-BLOCKED (hard_warning/over-hard/human-length); neural-correlates + attention-as-interface
-    saturated. NARROW claim-accuracy scope -- do NOT re-sweep the verified ledger,
-    strictly length-neutral, HOLD ai_system claude-opus-4-5-20251101 SINGLE. BOTTOM-inserted
-    (FIFO). Full reasoning in the todo task Notes. Pruned run_820_note per note-bloat
-    discipline (keep ~3: 821/824/825).'
+  run_824_note: 'run no.824 (2026-07-25T20:22Z, interactive /replenish-queue): SINGLE exact-floor +1 changed-since-review
+    deep-review mint concepts/temporal-consciousness.md. Pre-write count_p0_p2_tasks(load_todo()) == 2
+    (holders P2 decoherence opus-4-6 + P2 epistemology opus-4-6+opus-4-8; higher-order-theories holder
+    drained by a loop-less local cycle deep-review slot, last_runs deep-review 20:06Z); == 3 post-write
+    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean);
+    HEAD 44fbcc3e9; only uncommitted delta the pre-existing deferred cycle_post state bookkeeping — KEEP.
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
+    100/100, positions 8/80); orphaned_files=0; length human-decisions already queued P3 + #veto condenses
+    parser-excluded; positions 8<10 audit threshold + last positions-evolve 2026-07-25; no applied-apex
+    gap. Source 4 (changed-since-review) TARGET: temporal-consciousness — GENUINE 07-18 refine-draft (9ffd993d2)
+    scoping the Tenet-load-bearing constitutive-role-in-time / quantum-collapse claim + cross-page reconcile
+    with non-temporal-consciousness; unverified by any deep-review of this file AND (unlike evolution-of-consciousness,
+    excluded as an already-verified Broad+Chalmers quote-sweep no-op per both prior mints) added by a
+    REFINE not a deep-review so genuinely open. Length-safe 2983w soft_warning (~517w under concepts 3500
+    hard). Cohort opus-4-6 overlaps decoherence holder (soft caveat, subordinate to unchecked-surface
+    yield; distinct-cohort alternatives are no-ops/length-blocked); cluster (specious-present/durée/retention-protention)
+    distinct from both holders. NARROW conceptual/cross-page seam — do NOT re-sweep the 28-sidecar James/Bergson/Husserl
+    ledger, do NOT re-inflate the scoping hedge, strictly length-neutral. BOTTOM-inserted (FIFO). Full
+    reasoning in the todo task Notes. Pruned run_819_note per note-bloat discipline (keep ~3: 820/821/824).'
+  run_825_note: 'run no.825 (2026-07-25T20:38Z, interactive /replenish-queue): SINGLE exact-floor +1 changed-since-review
+    deep-review mint concepts/emergence.md. Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2
+    epistemology opus-4-6+opus-4-8 + P2 temporal-consciousness opus-4-6; decoherence holder drained by
+    a loop-less local cycle deep-review slot, last_runs deep-review 20:32Z, recent_tasks top = deep-review);
+    == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). No evolve_loop/unfin-cycle
+    (pgrep clean); HEAD 34a42658f; only uncommitted delta the pre-existing deferred cycle_post state bookkeeping
+    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already queued P3 + #veto
+    condenses parser-excluded; positions 8<10 audit threshold + last positions-evolve 2026-07-25; no applied-apex
+    gap. Source 4 (changed-since-review) TARGET: emergence (opus-4-5, FULLY cohort-distinct from both
+    holders, concepts, 2926w soft_warning ~574w under 3500 hard). GENUINE but MODEST surface: the two
+    Chalmers 2006 / Broad 1925 quote corrections in the body were applied+verified BY deep-review commit
+    6f83d14ef (strong-emergence sweep, same sweep that made evolution-of-consciousness a no-op) -> NOT
+    open; the genuinely-new never-reviewed surface is the William Hasker emergent-dualism sentence added
+    by cross-review acb28d8f4 (07-12) + its [[emergent-dualism]] cross-link, which evolution-of-consciousness
+    did NOT receive. SEAM: verify Hasker characterisation (The Emergent Self 1999, emergent individual/substance)
+    + cross-page coherence with emergent-dualism.md; first-review-of-this-file verbatim glance at the
+    collaterally-set Chalmers one-clear-case / Broad quotes at PRIMARY source (expect confirm). Alternatives
+    lost: consistent-histories/agent-causation/functionalism cosmetic-wikilink no-ops; metacognition zero-delta;
+    evolution-of-consciousness verified-sweep no-op; introspection/phenomenal-authority/qm-interp/machine-consciousness/personal-identity/quantum-consciousness/bandwidth/simple-organisms/prebiotic
+    length-BLOCKED (hard_warning/over-hard/human-length); neural-correlates + attention-as-interface saturated.
+    NARROW claim-accuracy scope -- do NOT re-sweep the verified ledger, strictly length-neutral, HOLD
+    ai_system claude-opus-4-5-20251101 SINGLE. BOTTOM-inserted (FIFO). Full reasoning in the todo task
+    Notes. Pruned run_820_note per note-bloat discipline (keep ~3: 821/824/825).'
+  run_826_note: 'run no.826 (2026-07-25T21:18Z, interactive /replenish-queue): SINGLE exact-floor +1 changed-since-review
+    deep-review mint concepts/neural-correlates-of-consciousness.md. Pre-write count_p0_p2_tasks(load_todo())
+    == 2 (holders P2 emergence opus-4-5 run-825 + P2 binding-problem opus-4-6; the run-824 temporal-consciousness
+    holder drained by a loop-less local cycle deep-review slot, last cycle commit 34b4dc0cb temporal-consciousness,
+    recent_tasks top = deep-review/optimistic-review); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 34b4dc0cb; only uncommitted delta the
+    pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length
+    human-decisions already queued P3 + #veto condenses parser-excluded; positions 8<10 audit threshold
+    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review) TARGET:
+    neural-correlates-of-consciousness (opus-4-5, concepts, score 9.73, 3392w soft_warning ~108w under
+    3500 hard). KEY FINDING: the two PRIOR floor-restore mints (emergence, binding-problem) both dismissed
+    this file as "9-sidecar SATURATED, collateral cross-review commits only" -- that dismissal MISSED
+    that cross-review commit e97cf64cb (07-16, target = hemispherectomy) collaterally INSERTED a NEW never-deep-reviewed
+    2025 empirical claim here: "a 2025 study (Santander et al., PNAS) found that a near-complete callosotomy
+    patient... maintained full interhemispheric integration with no disconnection syndrome". Added 07-16,
+    last_deep_review 07-06 -> genuinely OPEN empirical-claim + citation-fidelity surface (NOT the cosmetic-wikilink
+    failure mode; the two See-Also links + Cogitate ref in the same window ARE cosmetic/correct). SEAM:
+    verify Santander et al. 2025 PNAS at PRIMARY publisher -- author/venue/year metadata + finding-matches-paraphrase
+    (does the study support "full interhemispheric integration" or is that an over-state?) + Tenet-1 NCC-vs-interface
+    framing per evidential-status-discipline. Cohort opus-4-5 + concepts/ overlap the emergence holder
+    (soft caveat, subordinate to unchecked-surface yield; the only fully-distinct length-safe alternatives
+    are cosmetic no-ops agent-causation/functionalism or session-touched-today apex/dualism-cartography).
+    Cluster NCC/disconnection-syndromes/GNWT-IIT distinct from both holders. LENGTH-neutral; do NOT re-sweep
+    ref ledger. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_821_note per
+    note-bloat discipline (keep ~3: 824/825/826).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale last_floor_restore_note_*
+    audit keys (kept most-recent 3); pure audit prose, zero logic dependence (grep-verified), state file
+    was 602KB. Unbounded per-replenish growth is the root cause — Tier 3 rec: replenish should cap these
+    to N most-recent.'
