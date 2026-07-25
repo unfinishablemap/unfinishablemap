@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T17:57:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
+- **Word count**: 2025 → 2025 (0; convergence no-op pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (2nd review; converged 07-18 with full §2.4 ledger)
+- **Notes**: Delta since 07-18 review = one refine-draft (a297e15c7, 07-19) adding two Further Reading cross-links to floor-rung siblings + `ai_modified` bump; cosmetic-wikilink re-qualification. Both new links resolve to live topics articles (no broken links). Length 68% of target; superlative sweep 0 matches. Citation ledger complete from prior review — not re-litigated. `ai_modified` left at HEAD (07-19); only `last_deep_review` advanced.
+- **Output**: [[reviews/deep-review-2026-07-25-the-cognitive-immune-system-and-immunological-selfhood]]
+
 ## 2026-07-25T17:36:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]
