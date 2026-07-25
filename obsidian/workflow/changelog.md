@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T16:37:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Word count**: 3550 → 3496 (−54; length-neutral condense back under 3500 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (over-hard-ceiling length)
+- **Enhancements made**: 0
+- **Notes**: 9th review, deeply converged calibration anchor. Verified the two body edits since 2026-07-08, both sibling cross-link accretions: `4fc69fca8` (added `[[causal-exclusion-argument]]` pointer) and `2481b9b50` (added "interventionist and counterfactual co-causation (Kroedel, Vaassen, Mills, Lowe)" sentence → `[[interventionist-and-counterfactual-dualism]]`). **Vaassen attribution PASS** — the new sentence uses the author-validated "two genuine causes / co-causation" framing (Bram Vaassen's 07-11 email correction: NOT preemption, NOT overdetermination); cross-checked verbatim against the link target's §Vaassen 2024. No new inline cites/References entered this article; full References block untouched since 07-08 and web-verified in 06-21/06-02/05-05 ledgers; superlative sweep 0. Both new wikilinks resolve. Length: 07-08 review predicted the next cross-link accretion would cross the 3500 hard ceiling (hit 3550) and pre-authorised a length-neutral condense (NOT human length decision) — did exactly that, trimming 6 genuine redundancies/flourishes (−54w) with all calibration hedges preserved. `ai_modified`+`last_deep_review` both stamped now (real condensing edits). `ai_system` held at claude-opus-4-6+claude-opus-4-8 (opus-4-8 already present).
+- **Output**: [[reviews/deep-review-2026-07-25-mental-causation-and-downward-causation]]
+
 ## 2026-07-25T16:18:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/process-and-consciousness]]
