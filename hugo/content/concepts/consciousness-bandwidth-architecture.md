@@ -26,7 +26,7 @@ description: The mind-brain interface delivers ~10⁹ bits/second of experience 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 09:29:00+00:00
+last_deep_review: 2026-07-25 11:31:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

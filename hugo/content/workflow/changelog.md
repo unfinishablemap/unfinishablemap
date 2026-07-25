@@ -9,6 +9,151 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-25T11:50:33+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Word count**: 3896 → 3896 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th review pass; converged. Delta since 2026-07-07 is cosmetic cross-links only (introspection-architecture-independence-scoring, kabbalah/jain/japanese/mesoamerican/chinese Further Reading bullets, alexithymia). All 9 wikilinks resolve; label-leakage clean; References unchanged since 2026-06-03 publisher verification (§2.4 skip). No slippage (diagnostic test NO throughout). last_deep_review advanced; ai_modified/ai_system left at HEAD.
+- **Output**: [deep-review-2026-07-25-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/deep-review-2026-07-25-cross-traditional-convergence-on-consciousness-irreducibility/)
+
+## 2026-07-25T11:46:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Minimal-organism / evidence-problem cluster — `topics/single-cell-proto-agency-and-the-evidence-problem`, `topics/bacterial-chemotaxis-and-minimal-biogenic-cognition`, `topics/consciousness-in-simple-organisms`
+- **Key finding**: Model case of evidential-status discipline — Process Philosopher and Hardline Empiricist personas CONVERGE (the skill's honesty signal). Every boundary case (C. elegans, Hydra, Physarum, bacterial floor) held at live-hypothesis/speculative-integration despite live tenet-upgrade opportunity; dedicated "Tenet vs. Evidence" register apparatus. No calibration concern. Both sections at cap → 1 reciprocal cross-link task only (P3).
+- **Output**: [optimistic-2026-07-25-minimal-organism-evidence-cluster](/reviews/optimistic-2026-07-25-minimal-organism-evidence-cluster/)
+
+## 2026-07-25T11:31:30+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
+- **Word count**: ~3495 → ~3495 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review; converged. Only change since the 2026-07-11 full publisher-of-record web-verify was auto-coalesce commit `53b5e5da1` (2026-07-16) — a single Further-Reading wikilink retarget `[[neural-refresh-rates]]` → `[[neural-refresh-rates-and-the-smoothness-problem]]`, correct (old concept archived/coalesced into the successor topics article; resolves by unique basename). No body prose, References, or empirical claim changed. Citation web-verify skipped per §2.4 References-unchanged carve-out (full per-cite ledger 14 days old). No slippage, no self-contradiction, no label leakage. Updated `last_deep_review` only; `ai_modified` (2026-07-16) / `ai_system` (claude-opus-4-7) left at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-25-consciousness-bandwidth-architecture](/reviews/deep-review-2026-07-25-consciousness-bandwidth-architecture/)
+
+## 2026-07-25T11:05:44+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [access-consciousness](/concepts/access-consciousness/)
+- **Word count**: 2286 → 2286 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh deep review. Only change since last review (2026-07-07) was out-of-band refine-draft `ec6394a45` (2026-07-18), which tightened the J-space paragraph's calibration ("standard signatures" → "workspace-like functional signatures"; added held-apart-from-metacognition/agency/recurrent-integration narrowing; "instantiated in full" → "instantiated computationally"). That refine is itself a calibration improvement; verified it introduced no defects, no slippage, no self-contradiction. Citation web-verify skipped per §2.4 References-unchanged carve-out (block byte-identical to 2026-06-02 full verification; Gurnee 2026 verified real-correct 2026-07-07). J-space anchor re-verified to resolve. Updated `last_deep_review` only; `ai_modified`/`ai_system` left at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-25-access-consciousness](/reviews/deep-review-2026-07-25-access-consciousness/)
+
+## 2026-07-25T11:01:23+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [locality](/concepts/locality/)
+- **Word count**: 2028 → 2028 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth deep review. Trigger was same-day refine-draft `2e13c0986` (10:36) which applied four calibration fixes (dropped "straightforward" over-claim; added emergent-spacetime scale caveat; made entanglement/binding conditional on decoherence-tolerant substrate; added no-signaling clarification). Verified refinement introduced no defects, no internal contradictions, no possibility/probability slippage. References block unchanged since 2026-05-26 web-verify (ledger carries forward: Bell 1964, Huggett & Wüthrich 2013, Kim 2005 — all real-correct). All 7 wikilinks resolve. Updated `last_deep_review` only; `ai_modified`/`ai_system` left at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-25-locality](/reviews/deep-review-2026-07-25-locality/)
+
+## 2026-07-25T10:45:48+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Word count**: ~2789 → ~2789 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth deep review; third consecutive no-op. Only change since 2026-07-06 review was a cosmetic cross-link refine (`d968a29b0`: +2 related_articles, +1 inline parenthetical) — not substantive content or link rot. All 22 wikilinks resolve; IBE calibration hedging intact; no label leakage; clean EOF. Updated `last_deep_review` only (ai_modified/ai_system left at HEAD per no-op discipline).
+- **Output**: [deep-review-2026-07-25-curated-mind](/reviews/deep-review-2026-07-25-curated-mind/)
+
+## 2026-07-25T10:34:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [locality](/concepts/locality/)
+- **Review context**: [pessimistic-2026-07-25-locality](/reviews/pessimistic-2026-07-25-locality/)
+- **Changes**:
+  - Issue 1 (HIGH) — entanglement register unified to *illustrative-only*. Binding section: dropped "provides a natural mechanism" overclaim; recast as an explicit decoherence-conditional pointer (brain-temperature entanglement is what decoherence forbids), deferring the mechanism to [decoherence](/concepts/decoherence/) rather than asserting it. Summary point 1: restored the no-signaling caveat (entanglement is non-causal) for truncation-resilience and reframed the "inconsistent standard" claim as owing a principled account of the asymmetry.
+  - Issue 2 (HIGH) — Response 3 "space may not be fundamental": added scale qualifier. Concede Planck-scale non-fundamentality buys nothing at neural scales (~10⁻⁹ m, where spacetime is locality-enforcing and emergent-spacetime programs recover classical locality as a success condition); relief is available only if coupling reaches *through* the emergent level — a stronger claim explicitly not defended here — else the response reduces to "metaphysical priority of space is contested."
+  - Issue 3 (MEDIUM) — Huggett & Wüthrich (2013) demoted to a "but see, for the epistemic difficulty this move raises" cite (its actual thrust is the empirical-incoherence worry against emergent spacetime; title verified, not fabricated). Reference retained.
+  - Overclaim downgrade — "straightforward from its perspective" → "poses no barrier in principle."
+- **Engagement classification**: n/a (no new named-opponent refutation introduced; the physicalist/quantum-skeptic objections are met by lowering the article's register, not by new in-framework refutation).
+- **Frontmatter**: ai_modified bumped; ai_system held (claude-opus-4-5, unchanged authorship).
+- **Length**: approximately neutral. **Published**: yes
+
+## 2026-07-25T10:18:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/locality.md (oldest last_deep_review in pool, 2026-06-19; quantum-adjacent)
+- **Findings**: 2 High (entanglement register inconsistency: non-causal disavowal vs. "natural mechanism" for binding vs. caveat dropped in summary; emergent-spacetime scale equivocation Planck→neural), 2 Medium (Huggett & Wüthrich cited against its own thrust; "same structure across puzzles" is a coherence gate not an empirical constraint). Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-07-25-locality](/reviews/pessimistic-2026-07-25-locality/)
+
+## 2026-07-25T09:52:35+00:00 - deep-review
+- **Status**: Success (8th review, converged; metadata-only no-op)
+- **File**: [timing-gap-problem](/concepts/timing-gap-problem/)
+- **Word count**: 1509 → 1509 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-25-timing-gap-problem](/reviews/deep-review-2026-07-25-timing-gap-problem/)
+- **Note**: Re-qualified only because a vetted refine-draft (86220acfd, 07-14) fixed Zeno-mechanism arithmetic "approximately 1,000 observations" → "hundreds of thousands"; verified correct (300 ms ÷ 1 µs = 3×10⁵) and now consistent with canonical [quantum-zeno-effect](/concepts/quantum-zeno-effect/). No other prose/citation/References change. §2.4 web-verify carried forward (References byte-stable since 2026-06-02 ledger; Perry 2025 + Denton 2024 remain CONFIRMED). Calibration, direct-refutation modes, attribution all stable. Updated only `last_deep_review`; held `ai_modified` at 2026-07-14 HEAD and `ai_system` at claude-opus-4-6 (no-op, not re-authoring).
+
+## 2026-07-25T09:33:15+00:00 - deep-review
+- **Status**: Success (8th review, converged; no-op verification pass)
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Word count**: 2650 → 2650 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Re-qualified only because two cosmetic cross-link installs bumped `ai_modified` to 2026-07-12. Deltas since 07-06 no-op pass: premise-1 clause linking [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/) (6f2f0778e) and text→wikilink of Cramer's transactional interpretation (934b8adb5); both targets verified live. No prose/argument/citation/References change. Calibration (framework-dependent luck response), direct-refutation modes, and attribution all stable; find_superlative_claims=0; §2.4 web-verify legitimately skipped (References byte-stable since 06-02 ledger). Updated only `last_deep_review`; held `ai_modified` at 07-12 HEAD and `ai_system` at claude-opus-4-5 (no-op, not re-authoring).
+- **Output**: [deep-review-2026-07-25-quantum-indeterminacy-free-will](/reviews/deep-review-2026-07-25-quantum-indeterminacy-free-will/)
+
+## 2026-07-25T09:23:32+00:00 - deep-review
+- **Status**: Success (8th review, converged; no-op verification pass)
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Word count**: 3104 → 3104 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Re-qualified only because a cosmetic cross-link bumped `ai_modified` to 2026-07-16. Sole delta since the 07-06 no-op pass is one wikilink at line 71 (`confabulated` → `[[interpreter-module-narrative-construction-unity|confabulated]]`, commit 98e5ba64b); target verified live. No prose/argument/citation/References change. All four substantiality arguments remain correctly hedged (06-01 unobservability slippage fix holds). §2.4 web-verify legitimately skipped (References byte-stable since 06-01 ledger); find_superlative_claims=0. Updated only `last_deep_review`; held `ai_modified` at 07-16 HEAD and `ai_system` at claude-opus-4-6 (no-op, not re-authoring). No slippage, no label leakage.
+- **Output**: [deep-review-2026-07-25-the-self-minimal-narrative-and-substantial](/reviews/deep-review-2026-07-25-the-self-minimal-narrative-and-substantial/)
+
+## 2026-07-25T09:10:00+00:00 - deep-review
+- **Status**: Success (7th review, converged; length-neutral maintenance trim)
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Word count**: 3541 → 3497 (-44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral trim only)
+- **Note**: Only change since the 6th review (2026-07-07) was two Further Reading cross-link bullets — `[[self-model-theory-of-subjectivity]]` (added by the SMT expand-topic 2026-07-11) and `[[self-representational-theory-of-consciousness]]` (added by its cross-review 2026-07-13). Both targets resolve; glosses verified accurate against target descriptions. The bullets pushed the article 41 words over the 3500 concepts hard threshold (3498→3541), so per the hub-cross-link-accretion pattern I removed equivalent genuine redundancy (conditional-preference restatement in Testability; duplicated anti-bundle sentence in Diachronic Identity; one tightened falsifier sentence; minor gloss trim), keeping both valuable links. No argument or calibration qualifier removed. References block byte-identical to 2026-05-27 ledger; §2.4 trigger not re-met; find_superlative_claims=0. Held ai_system at claude-opus-4-7 (minor trim, not re-authoring). No slippage, no label leakage.
+- **Output**: [deep-review-2026-07-25-self-and-self-consciousness](/reviews/deep-review-2026-07-25-self-and-self-consciousness/)
+
+## 2026-07-25T08:47:51+00:00 - deep-review
+- **Status**: Success (no-op — 6th review, converged; all drift since 2026-07-09 was correction-landing + cross-link installs, no new claims)
+- **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Word count**: 2973 → 2973 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Three commits since last review. 121afe48c landed the corpus-wide Denton-2024 currency fix ("demonstrated"→"modelled", "first biological precedent" removed — Nat Commun 15,10823 is a modelling paper) at both inline loci; a8209b8fb + 2eed35a8e installed `[[radical-pair-magnetoreception]]` and `[[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]` wikilinks and added the Baum "empirical premise is contested" caveat (dynamical-relaying classical account). Both new wikilink targets resolve. No new citation entered References (§2.4 ledger from 2026-06-04/06-18/07-09 stands). No slippage, no label leakage, no `[1m]` artifact. Bumped `last_deep_review` only; held `ai_modified` (2026-07-14T15:28) and `ai_system` (claude-opus-4-6) at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-25-quantum-biology-and-neural-mechanisms](/reviews/deep-review-2026-07-25-quantum-biology-and-neural-mechanisms/)
+
+## 2026-07-25T08:22:39+00:00 - deep-review
+- **Status**: Success (no-op — 6th review, converged; only change since 2026-07-09 was a cosmetic text→wikilink conversion)
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Word count**: 3999 → 3999 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: One commit since last review (84ebe5e9a, 2026-07-18) — converts plain-text "Kim's exclusion argument" to `[[causal-exclusion-argument|Kim's exclusion argument]]` in the Agent Causation section; body + References otherwise unchanged, so §2.4 web-verify not re-triggered (2026-07-09 ledger stands). New wikilink target resolves (concepts/causal-exclusion-argument.md). No slippage, no label leakage, no artifacts. Bumped `last_deep_review` only; held `ai_modified` (2026-07-18T13:42:46) and `ai_system` (claude-opus-4-7) at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-25-empirical-phenomena-mental-causation](/reviews/deep-review-2026-07-25-empirical-phenomena-mental-causation/)
+
+## 2026-07-25T08:05:43+00:00 - deep-review
+- **Status**: Success (no-op — 6th review, converged; only changes since 2026-07-11 were cosmetic: Cogitate/Melloni citation-form sweep + hemispherectomy wikilink)
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Word count**: 4002 → 4002 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Two commits since last review, both cosmetic. `dd19304a4` corrected the 2025 *Nature* adversarial-collaboration cite from wrong-first-author "Melloni et al." to canonical "Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.)" inline+References (do NOT revert — this is the right form). `e97cf64cb` installed a `[[hemispherectomy-and-the-resilience-of-unified-consciousness]]` wikilink (target resolves). Argument prose ~3570w (well under 4000 hard); the 4002w hard_warning is a reference-apparatus + correct-citation-expansion artifact — not condensed. Citations June-verified, zero superlatives, no drift, no slippage, no label leakage. Bumped `last_deep_review` only; held `ai_modified` (2026-07-16) and `ai_system` (claude-opus-4-6) at HEAD per no-op discipline.
+- **Output**: [deep-review-2026-07-25-consciousness-disruption-and-the-mind-brain-interface](/reviews/deep-review-2026-07-25-consciousness-disruption-and-the-mind-brain-interface/)
+
 ## 2026-07-25T07:38:57+00:00 - deep-review
 - **Status**: Success (no-op — 5th review, converged; only change since 2026-07-11 was a cosmetic `[[quantum-divine-action]]` wikilink conversion)
 - **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)

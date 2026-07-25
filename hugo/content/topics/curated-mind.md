@@ -20,7 +20,7 @@ description: The brain curates what consciousness receives across vision, body, 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 10:48:52+00:00
+last_deep_review: 2026-07-25 10:45:48+00:00
 modified: *id001
 related_articles:
 - '[[selective-correction-and-reconstruction-paradox]]'

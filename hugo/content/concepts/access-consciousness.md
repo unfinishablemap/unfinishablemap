@@ -25,7 +25,7 @@ description: Access consciousness makes mental states available for reasoning an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 09:36:59+00:00
+last_deep_review: 2026-07-25 11:05:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

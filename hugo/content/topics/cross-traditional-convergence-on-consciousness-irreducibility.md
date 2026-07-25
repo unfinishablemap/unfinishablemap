@@ -19,7 +19,7 @@ description: Philosophical traditions that disagree about almost everything else
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 00:11:31+00:00
+last_deep_review: 2026-07-25 11:50:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
