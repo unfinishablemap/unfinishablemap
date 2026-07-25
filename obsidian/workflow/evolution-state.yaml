@@ -1,5 +1,9 @@
-last_updated: '2026-07-25T07:52:37.918878+00:00'
-session_count: 17112
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-25T07:53:46.867698+00:00'
+session_count: 17113
 cycle_position: 11686
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-25T06:19:03.582291+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-22T23:46:20.484231+00:00'
-  agentic-social: '2026-07-25T07:53:29.175080+00:00'
+  agentic-social: '2026-07-25T07:53:46.867698+00:00'
   embed-videos: '2026-07-25T00:47:11.924379+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
@@ -37,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-25T04:47:44.577095+00:00'
+last_git_push: '2026-07-25T08:03:02.668915+00:00'
 last_tweet_date: '2026-07-24'
 content_stats:
   total_files: 297
@@ -97,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-07-25'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-25'
@@ -175,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1154,128 +1158,123 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_795_note: "run no.795 (2026-07-25T07:36Z, interactive /replenish-queue): SINGLE\
-    \ EXACT-floor +1 staleness deep-review mint \u2014 topics/empirical-phenomena-mental-causation.md.\
-    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:\
-    \ P2 history-of-the-interaction-problem L1499 [run-793] + P2 consciousness-disruption-and-the-mind-brain-interface\
-    \ L1506 [run-794]). Queue dropped 3->2 since run-794 as the loop-less local cycle\
-    \ deep-review slot picked+completed run-791's holder voids/transformative-experience-void\
-    \ (HEAD 566b7c2af auto(deep-review), 29d-stale L. A. Paul citation surface). Below\
-    \ floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed\
-    \ deep-review with Type+File lines present, heading L1513). No evolve_loop/cycle\
-    \ process (pgrep clean); HEAD 566b7c2af; only uncommitted delta is the pre-existing\
-    \ deferred cycle_post state bookkeeping from the transformative-experience-void\
-    \ deep-review (session 17109 / cycle 11685 / deep-review last_run 07:23:52 / reviews_completed\
-    \ 6807 / recent_tasks reorder \u2014 KEEP per orphaned-cyclepost-state-advance-in-worktree).\
-    \ Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,\
-    \ concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the\
-    \ STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched;\
-    \ positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no\
-    \ applied-apex gap. TARGET: get_review_candidates top scores are apex-articles.md\
-    \ governance hub + positions/ register files (via positions-evolve). Higher-scored\
-    \ topics candidates the-self-minimal (12.86, 6 sidecars) / cross-traditional-convergence\
-    \ (12.86, 8 sidecars = over-reviewed) / musical-understanding (12.8, opus-4-8\
-    \ DE-PRIORITIZED-newest) passed over; chose empirical-phenomena-mental-causation\
-    \ (12.0, 15d) on the established discriminator \u2014 SIZE of unchecked verify\
-    \ surface: FEWEST sidecars (5), older claude-opus-4-7 cohort, and the pool's LARGEST\
-    \ unchecked EMPIRICAL citation surface (~47 inline year-cites on placebo-effect\
-    \ + choking-under-pressure studies never re-verified since the 07-09 review).\
-    \ Post-review delta (07-09->07-18) cosmetic only (commit 84ebe5e9a linked the\
-    \ two Kim's-exclusion mentions to the concept page) so a STALENESS pick justified\
-    \ by unverified surface not by change. LENGTH: analyze_length 3999w soft_warning,\
-    \ ONE word under topics 4000 hard ceiling = effectively AT-CEILING: LENGTH-NEUTRAL\
-    \ deep-review, do NOT pad, NOT a condense. Lenses: empirical-claim fidelity (placebo/choking\
-    \ paraphrases match what studies FOUND), citation-metadata at publisher (NOT own\
-    \ page), currency, verbatim quote-fidelity, citation-framing. ai_system claude-opus-4-7\
-    \ (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false.\
-    \ TOPICS / mental-causation / empirical-placebo-choking cluster \u2014 DISTINCT\
-    \ from both holders. NOT queued (parse_tasks zero active target; the ~32 slug\
-    \ hits are 30 completed/blocked notes-prose + 2 vetoed-task prose mentions as\
-    \ a source/example) / vetoed / session-touched (git --since 2026-07-25T00:00 empty;\
-    \ last touch 07-18). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned\
-    \ run_792_note per note-bloat discipline (keep ~3: 793/794/795)."
-  run_794_note: "run no.794 (2026-07-25T07:10Z, interactive /replenish-queue): SINGLE\
-    \ EXACT-floor +1 staleness deep-review mint \u2014 topics/consciousness-disruption-and-the-mind-brain-interface.md.\
-    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:\
-    \ P2 transformative-experience-void L1491 [run-791] + P2 history-of-the-interaction-problem\
-    \ L1506 [run-793]). Queue dropped 3->2 since run-793 as the loop-less local cycle\
-    \ picked+completed run-792's holder single-cell-proto-agency (marked DONE-BY-CYCLE-SLOT\
-    \ L1499, cycle deep-review slot self-selected 07:03) alongside the interventionist\
-    \ deep-review (HEAD b596be09c auto(deep-review): cycle). Below floor 3, == 3 after\
-    \ (tool-verified post-write count_p0_p2 == 3; new mint parsed deep-review with\
-    \ Type+File lines present). No evolve_loop/cycle process (pgrep clean); HEAD b596be09c;\
-    \ only uncommitted delta the pre-existing deferred cycle_post state bookkeeping\
-    \ (KEEP). Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics\
-    \ 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;\
-    \ LENGTH the STANDING HUMAN DECISION epistemology-of-convergence-arguments.md\
-    \ untouched; positions 8<10 audit threshold + last positions-evolve 2026-07-20\
-    \ (<30d); no applied-apex gap. TARGET: get_review_candidates top scores are apex-articles.md\
-    \ governance hub + positions/ register files (via positions-evolve). Both content\
-    \ holders already queued; chose consciousness-disruption (12.73, 14d) on the established\
-    \ discriminator \u2014 SIZE of unchecked verify surface: ties fewest sidecars\
-    \ (5), older claude-opus-4-6 cohort, LARGEST unchecked clinical citation surface\
-    \ (~15 inline year-cites / ~17 refs incl currency-sensitive Bodien NEJM 2024 CMD,\
-    \ Hu Nat-Neurosci 2023 KCC2, Mashour Neuron 2024, Sarasso Curr-Biol 2015 PCI).\
-    \ Post-review delta cosmetic (hemispherectomy wikilink + landed Cogitate/Melloni\
-    \ sweep) so a STALENESS pick justified by unverified surface not change. NOTE\
-    \ the article reads analyze_length 4002w hard_warning (topics hard 4000) \u2014\
-    \ a 2-WORD reference-apparatus breach (~17 refs), NOT argument bloat: annotated\
-    \ LENGTH-NEUTRAL deep-review, do NOT convert to condense. Lenses: citation-metadata\
-    \ at publisher (NOT own page), empirical-claim fidelity (CMD prevalence / PCI\
-    \ / KCC2 mechanism), currency, verbatim quote-fidelity, citation-framing (Mashour,\
-    \ Koch/Tononi as IIT proponents). ai_system claude-opus-4-6 (SINGLE older cohort,\
-    \ HOLD verbatim on no-op), ai_contribution 100, draft:false. TOPICS / consciousness-disruption\
-    \ / clinical-anaesthesia-coma-DoC cluster \u2014 DISTINCT from both holders. NOT\
-    \ queued (parse_tasks zero active target; the 2 slug hits are the holders' notes\
-    \ prose + an L237 harvest research-note mention) / vetoed / session-touched (git\
-    \ --since 2026-07-25T00:00 empty; last touch 07-16). EOF clean, no [1m] artifact.\
-    \ BOTTOM-inserted (FIFO). Pruned run_791_note per note-bloat discipline (keep\
-    \ ~3: 792/793/794)."
-  run_796_note: "run no.796 (2026-07-25T07:49Z, interactive /replenish-queue): SINGLE\
-    \ EXACT-floor +1 staleness deep-review mint \u2014 concepts/quantum-biology-and-neural-mechanisms.md.\
-    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:\
-    \ P2 consciousness-disruption-and-the-mind-brain-interface L1498 [run-794] + P2\
-    \ empirical-phenomena-mental-causation L1505 [run-795]). Queue dropped 3->2 since\
-    \ run-795 as the loop-less local cycle deep-review slot picked+completed run-793's\
-    \ holder topics/history-of-the-interaction-problem (HEAD 8a3285e29 auto(deep-review),\
-    \ now checkmark-completed in Blocked/Completed). Below floor 3, == 3 after (tool-verified\
-    \ post-write count_p0_p2 == 3; new mint parsed DEEP_REVIEW with Type+File lines\
-    \ present, heading L1512). No evolve_loop/cycle process (pgrep clean); HEAD 8a3285e29;\
-    \ only uncommitted delta is the pre-existing deferred cycle_post state bookkeeping\
-    \ from the history-of-the-interaction-problem deep-review (session 17110->17111\
-    \ / cycle 11685->11686 / deep-review last_run 07:40:46 / reviews_completed 6807->6808\
-    \ / recent_tasks reorder \u2014 KEEP per orphaned-cyclepost-state-advance-in-worktree).\
-    \ Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,\
-    \ concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the\
-    \ STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched;\
-    \ positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no\
-    \ applied-apex gap. TARGET: both content holders already queued; higher-scored\
-    \ topics candidates self-minimal (12.86) / cross-traditional (12.86, over-reviewed)\
-    \ / musical-understanding (12.8, opus-4-8 DE-PRIORITIZED-newest) passed over;\
-    \ chose quantum-biology-and-neural-mechanisms (12.0, 15d) on the established discriminator\
-    \ \u2014 SIZE of unchecked verify surface: largest unchecked EMPIRICAL quantum-biology\
-    \ citation surface (~68 year-cites / ~41 ref lines incl currency-sensitive Wiest\
-    \ 2025 niaf011 + Baum 2024 PhilArchive), older claude-opus-4-6 cohort, fewest\
-    \ review-mentions (39) among the citation-dense pool. Post-review 07-09->07-14\
-    \ delta cosmetic wikilink only so STALENESS pick justified by unverified surface\
-    \ not change. LENGTH: analyze_length 2973w soft_warning, concepts hard 3500 =\
-    \ UNDER ceiling: LENGTH-NEUTRAL deep-review, NOT a condense. Lenses: empirical-claim\
-    \ fidelity (photosynthetic coherence / cryptochrome radical-pair / tunnelling\
-    \ \u2014 modelled vs demonstrated), citation-metadata at publisher (NOT own page),\
-    \ currency (fast-moving QB record), verbatim quote-fidelity, citation-framing\
-    \ / PRESERVE the L142 Baum zero-lag-synchrony hedge (already correctly contested\
-    \ \u2014 do NOT re-inflate to bald classical-CANNOT). ai_system claude-opus-4-6\
-    \ (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false.\
-    \ CONCEPTS / quantum-biology / physical-mechanism cluster \u2014 DISTINCT from\
-    \ both topics holders. NOT queued (parse_tasks zero active/vetoed target) / vetoed\
-    \ / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-14). EOF\
-    \ clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_793_note per note-bloat\
-    \ discipline (keep ~3: 794/795/796)."
+  run_795_note: 'run no.795 (2026-07-25T07:36Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — topics/empirical-phenomena-mental-causation.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
+    P2 history-of-the-interaction-problem L1499 [run-793] + P2 consciousness-disruption-and-the-mind-brain-interface
+    L1506 [run-794]). Queue dropped 3->2 since run-794 as the loop-less local cycle
+    deep-review slot picked+completed run-791''s holder voids/transformative-experience-void
+    (HEAD 566b7c2af auto(deep-review), 29d-stale L. A. Paul citation surface). Below
+    floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed
+    deep-review with Type+File lines present, heading L1513). No evolve_loop/cycle
+    process (pgrep clean); HEAD 566b7c2af; only uncommitted delta is the pre-existing
+    deferred cycle_post state bookkeeping from the transformative-experience-void
+    deep-review (session 17109 / cycle 11685 / deep-review last_run 07:23:52 / reviews_completed
+    6807 / recent_tasks reorder — KEEP per orphaned-cyclepost-state-advance-in-worktree).
+    Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the
+    STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched; positions
+    8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
+    gap. TARGET: get_review_candidates top scores are apex-articles.md governance
+    hub + positions/ register files (via positions-evolve). Higher-scored topics candidates
+    the-self-minimal (12.86, 6 sidecars) / cross-traditional-convergence (12.86, 8
+    sidecars = over-reviewed) / musical-understanding (12.8, opus-4-8 DE-PRIORITIZED-newest)
+    passed over; chose empirical-phenomena-mental-causation (12.0, 15d) on the established
+    discriminator — SIZE of unchecked verify surface: FEWEST sidecars (5), older claude-opus-4-7
+    cohort, and the pool''s LARGEST unchecked EMPIRICAL citation surface (~47 inline
+    year-cites on placebo-effect + choking-under-pressure studies never re-verified
+    since the 07-09 review). Post-review delta (07-09->07-18) cosmetic only (commit
+    84ebe5e9a linked the two Kim''s-exclusion mentions to the concept page) so a STALENESS
+    pick justified by unverified surface not by change. LENGTH: analyze_length 3999w
+    soft_warning, ONE word under topics 4000 hard ceiling = effectively AT-CEILING:
+    LENGTH-NEUTRAL deep-review, do NOT pad, NOT a condense. Lenses: empirical-claim
+    fidelity (placebo/choking paraphrases match what studies FOUND), citation-metadata
+    at publisher (NOT own page), currency, verbatim quote-fidelity, citation-framing.
+    ai_system claude-opus-4-7 (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution
+    100, draft:false. TOPICS / mental-causation / empirical-placebo-choking cluster
+    — DISTINCT from both holders. NOT queued (parse_tasks zero active target; the
+    ~32 slug hits are 30 completed/blocked notes-prose + 2 vetoed-task prose mentions
+    as a source/example) / vetoed / session-touched (git --since 2026-07-25T00:00
+    empty; last touch 07-18). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO).
+    Pruned run_792_note per note-bloat discipline (keep ~3: 793/794/795).'
+  run_794_note: 'run no.794 (2026-07-25T07:10Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — topics/consciousness-disruption-and-the-mind-brain-interface.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
+    P2 transformative-experience-void L1491 [run-791] + P2 history-of-the-interaction-problem
+    L1506 [run-793]). Queue dropped 3->2 since run-793 as the loop-less local cycle
+    picked+completed run-792''s holder single-cell-proto-agency (marked DONE-BY-CYCLE-SLOT
+    L1499, cycle deep-review slot self-selected 07:03) alongside the interventionist
+    deep-review (HEAD b596be09c auto(deep-review): cycle). Below floor 3, == 3 after
+    (tool-verified post-write count_p0_p2 == 3; new mint parsed deep-review with Type+File
+    lines present). No evolve_loop/cycle process (pgrep clean); HEAD b596be09c; only
+    uncommitted delta the pre-existing deferred cycle_post state bookkeeping (KEEP).
+    Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the
+    STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched; positions
+    8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
+    gap. TARGET: get_review_candidates top scores are apex-articles.md governance
+    hub + positions/ register files (via positions-evolve). Both content holders already
+    queued; chose consciousness-disruption (12.73, 14d) on the established discriminator
+    — SIZE of unchecked verify surface: ties fewest sidecars (5), older claude-opus-4-6
+    cohort, LARGEST unchecked clinical citation surface (~15 inline year-cites / ~17
+    refs incl currency-sensitive Bodien NEJM 2024 CMD, Hu Nat-Neurosci 2023 KCC2,
+    Mashour Neuron 2024, Sarasso Curr-Biol 2015 PCI). Post-review delta cosmetic (hemispherectomy
+    wikilink + landed Cogitate/Melloni sweep) so a STALENESS pick justified by unverified
+    surface not change. NOTE the article reads analyze_length 4002w hard_warning (topics
+    hard 4000) — a 2-WORD reference-apparatus breach (~17 refs), NOT argument bloat:
+    annotated LENGTH-NEUTRAL deep-review, do NOT convert to condense. Lenses: citation-metadata
+    at publisher (NOT own page), empirical-claim fidelity (CMD prevalence / PCI /
+    KCC2 mechanism), currency, verbatim quote-fidelity, citation-framing (Mashour,
+    Koch/Tononi as IIT proponents). ai_system claude-opus-4-6 (SINGLE older cohort,
+    HOLD verbatim on no-op), ai_contribution 100, draft:false. TOPICS / consciousness-disruption
+    / clinical-anaesthesia-coma-DoC cluster — DISTINCT from both holders. NOT queued
+    (parse_tasks zero active target; the 2 slug hits are the holders'' notes prose
+    + an L237 harvest research-note mention) / vetoed / session-touched (git --since
+    2026-07-25T00:00 empty; last touch 07-16). EOF clean, no [1m] artifact. BOTTOM-inserted
+    (FIFO). Pruned run_791_note per note-bloat discipline (keep ~3: 792/793/794).'
+  run_796_note: 'run no.796 (2026-07-25T07:49Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — concepts/quantum-biology-and-neural-mechanisms.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
+    P2 consciousness-disruption-and-the-mind-brain-interface L1498 [run-794] + P2
+    empirical-phenomena-mental-causation L1505 [run-795]). Queue dropped 3->2 since
+    run-795 as the loop-less local cycle deep-review slot picked+completed run-793''s
+    holder topics/history-of-the-interaction-problem (HEAD 8a3285e29 auto(deep-review),
+    now checkmark-completed in Blocked/Completed). Below floor 3, == 3 after (tool-verified
+    post-write count_p0_p2 == 3; new mint parsed DEEP_REVIEW with Type+File lines
+    present, heading L1512). No evolve_loop/cycle process (pgrep clean); HEAD 8a3285e29;
+    only uncommitted delta is the pre-existing deferred cycle_post state bookkeeping
+    from the history-of-the-interaction-problem deep-review (session 17110->17111
+    / cycle 11685->11686 / deep-review last_run 07:40:46 / reviews_completed 6807->6808
+    / recent_tasks reorder — KEEP per orphaned-cyclepost-state-advance-in-worktree).
+    Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the
+    STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched; positions
+    8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
+    gap. TARGET: both content holders already queued; higher-scored topics candidates
+    self-minimal (12.86) / cross-traditional (12.86, over-reviewed) / musical-understanding
+    (12.8, opus-4-8 DE-PRIORITIZED-newest) passed over; chose quantum-biology-and-neural-mechanisms
+    (12.0, 15d) on the established discriminator — SIZE of unchecked verify surface:
+    largest unchecked EMPIRICAL quantum-biology citation surface (~68 year-cites /
+    ~41 ref lines incl currency-sensitive Wiest 2025 niaf011 + Baum 2024 PhilArchive),
+    older claude-opus-4-6 cohort, fewest review-mentions (39) among the citation-dense
+    pool. Post-review 07-09->07-14 delta cosmetic wikilink only so STALENESS pick
+    justified by unverified surface not change. LENGTH: analyze_length 2973w soft_warning,
+    concepts hard 3500 = UNDER ceiling: LENGTH-NEUTRAL deep-review, NOT a condense.
+    Lenses: empirical-claim fidelity (photosynthetic coherence / cryptochrome radical-pair
+    / tunnelling — modelled vs demonstrated), citation-metadata at publisher (NOT
+    own page), currency (fast-moving QB record), verbatim quote-fidelity, citation-framing
+    / PRESERVE the L142 Baum zero-lag-synchrony hedge (already correctly contested
+    — do NOT re-inflate to bald classical-CANNOT). ai_system claude-opus-4-6 (SINGLE
+    older cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. CONCEPTS
+    / quantum-biology / physical-mechanism cluster — DISTINCT from both topics holders.
+    NOT queued (parse_tasks zero active/vetoed target) / vetoed / session-touched
+    (git --since 2026-07-25T00:00 empty; last touch 07-14). EOF clean, no [1m] artifact.
+    BOTTOM-inserted (FIFO). Pruned run_793_note per note-bloat discipline (keep ~3:
+    794/795/796).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
-    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
-    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
-    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
-    \ most-recent."
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
+    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
+    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
+    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
