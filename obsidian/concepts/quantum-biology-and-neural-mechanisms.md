@@ -47,7 +47,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: 2026-07-09T15:13:44+00:00
+last_deep_review: 2026-07-25T08:47:51+00:00
 coalesced_from:
   - "/concepts/quantum-biology/"
   - "/concepts/quantum-neural-mechanisms-and-coherence/"

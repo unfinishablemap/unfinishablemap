@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T08:47:51+00:00 - deep-review
+- **Status**: Success (no-op — 6th review, converged; all drift since 2026-07-09 was correction-landing + cross-link installs, no new claims)
+- **File**: [[concepts/quantum-biology-and-neural-mechanisms]]
+- **Word count**: 2973 → 2973 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Three commits since last review. 121afe48c landed the corpus-wide Denton-2024 currency fix ("demonstrated"→"modelled", "first biological precedent" removed — Nat Commun 15,10823 is a modelling paper) at both inline loci; a8209b8fb + 2eed35a8e installed `[[radical-pair-magnetoreception]]` and `[[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]` wikilinks and added the Baum "empirical premise is contested" caveat (dynamical-relaying classical account). Both new wikilink targets resolve. No new citation entered References (§2.4 ledger from 2026-06-04/06-18/07-09 stands). No slippage, no label leakage, no `[1m]` artifact. Bumped `last_deep_review` only; held `ai_modified` (2026-07-14T15:28) and `ai_system` (claude-opus-4-6) at HEAD per no-op discipline.
+- **Output**: [[reviews/deep-review-2026-07-25-quantum-biology-and-neural-mechanisms]]
+
 ## 2026-07-25T08:22:39+00:00 - deep-review
 - **Status**: Success (no-op — 6th review, converged; only change since 2026-07-09 was a cosmetic text→wikilink conversion)
 - **File**: [[topics/empirical-phenomena-mental-causation]]
