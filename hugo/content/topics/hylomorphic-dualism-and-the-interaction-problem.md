@@ -16,7 +16,7 @@ description: 'A human-AI examination of hylomorphism as a serious rival to the M
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 14:29:04+00:00
+last_deep_review: 2026-07-25 19:15:40+00:00
 modified: *id001
 related_articles:
 - '[[russellian-monism-versus-bi-aspectual-dualism]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-07-24 15:18:05+00:00
+ai_modified: 2026-07-25 17:39:21+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/Dr6q2X4A5Xc
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 00:49:35+00:00
+last_deep_review: 2026-07-25 17:36:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Wallace (2012) responds that decoherence is a structural feature of unitary evol
 
 If all branches are equally real, the most natural probability measure is branch-counting: equal probability to each branch regardless of amplitude.
 
-Graham (1973) showed this yields the wrong statistics. When a system branches into outcomes with unequal amplitudes, branch-counting assigns equal weight to each while the Born rule weights by amplitude-squared; Graham demonstrated that "worlds displaying proper quantum statistics are in a numerical minority" under branch-counting. A concrete case makes the divergence vivid: for a two-outcome measurement with amplitudes 0.95 and 0.31, the Born rule assigns roughly 90% to the first outcome, whereas naive branch-counting assigns 50%—so over repeated trials branch-counting predicts most observers record near-equal frequencies, contradicting every quantum experiment ever performed.
+Graham (1973) showed this yields the wrong statistics. When a system branches into outcomes with unequal amplitudes, branch-counting assigns equal weight to each while the Born rule weights by amplitude-squared; Graham demonstrated that worlds displaying proper quantum statistics are in a numerical minority under branch-counting. A concrete case makes the divergence vivid: for a two-outcome measurement with amplitudes 0.95 and 0.31, the Born rule assigns roughly 90% to the first outcome, whereas naive branch-counting assigns 50%—so over repeated trials branch-counting predicts most observers record near-equal frequencies, contradicting every quantum experiment ever performed.
 
 Saunders (2021) revisited branch-counting, proposing a *state-dependent* rule that recovers Born-rule statistics by defining branch ratios through decoherent histories theory rather than naive equal-weight counting. But this concedes the central point: naive branch-counting—the most natural measure—fails, and recovering the Born rule requires a counting rule that already encodes amplitude information: branch-counting in name, the Born rule in substance.
 

@@ -14,7 +14,7 @@ description: The immune system learns, remembers, and tells self from non-self w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 05:29:53+00:00
+last_deep_review: 2026-07-25 17:57:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

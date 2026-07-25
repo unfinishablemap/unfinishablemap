@@ -25,7 +25,7 @@ description: Mental states become conscious when we become aware of them. HOT ex
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 09:56:00+00:00
+last_deep_review: 2026-07-25 20:04:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

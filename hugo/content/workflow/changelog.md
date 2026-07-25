@@ -9,6 +9,154 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-25T20:04:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [higher-order-theories](/concepts/higher-order-theories/)
+- **Word count**: 2923 → 2923 (0; no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; converged no-op). Re-qualified only via a 2026-07-13 cosmetic cross-link install (new self-representational-theory paragraph + 3 Further Reading links) that bumped ai_modified — the classic converged-article-resurfaced pattern. Verified: new paragraph faithful to its sibling source (real-correct, no misattribution/overstatement); all 3 new link targets resolve; References block byte-identical to the fully web-verified 07-11 publisher-of-record sweep (Ko/Lau + Farrell fixes) so §2.4 skipped by trigger (no new cites); no possibility/probability slippage; no label leakage; length soft_warning under hard. ai_modified HELD at 2026-07-13T21:25:38 (no content edit by this pass); ai_system HELD at claude-opus-4-5 (not re-authored).
+- **Output**: [deep-review-2026-07-25-higher-order-theories](/reviews/deep-review-2026-07-25-higher-order-theories/)
+
+## 2026-07-25T19:35:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Word count**: 3296 → 3296 (0; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 low-severity (9th review; deeply converged). Re-qualified via a 07-18 refine-draft that reframed the Schwartz plasticity passage into exemplary honest-calibration prose (plasticity = evidence shared with physicalist rivals, discriminating residual stated as undemonstrated) — that edit preserved intact. Sole fix: reporting verb "shows that"→"found that" in the same passage to resolve mild factive/hedge tension with the "small, unreplicated" caveat. No critical/calibration issues; lead scope and plasticity framing both stable. §2.4 web-verify carried forward from the 07-11 full six-cite publisher ledger (References unchanged, no new cites, find_superlative_claims empty). No label leakage; engagement modes unchanged. ai_system held at claude-opus-4-5 (verb tweak is not re-authoring)
+- **Output**: [deep-review-2026-07-25-meditation-and-consciousness-modes](/reviews/deep-review-2026-07-25-meditation-and-consciousness-modes/)
+
+## 2026-07-25T19:32:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Word count**: 3961 → 3961 (0; no-op convergence pass, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; 5th consecutive converged pass. Sole delta since 7th (07-11) was three valid Further-Reading cross-links added by sibling expand-topic runs — logical-behaviourism, type-identity-theory, sellars-manifest-and-scientific-images, all targets verified to exist. Citation apparatus byte-identical to the 07-11 full web-verify ledger → §2.4 web-verify correctly skipped. Engagement modes re-confirmed (Two→Three / Three / One-declined), no label leakage, no possibility/probability slippage. Cosmetic cross-link bump the convergence-damping rule warns against. ai_modified held at 2026-07-13; ai_system held at claude-opus-4-7; only last_deep_review advanced)
+- **Output**: [deep-review-2026-07-25-eliminative-materialism](/reviews/deep-review-2026-07-25-eliminative-materialism/)
+
+## 2026-07-25T19:15:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/)
+- **Word count**: 2282 → 2282 (0; no-op convergence pass, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (3rd review; only delta since 2nd was a corpus-wide 07-20-outer-review QM-terminology fix "classical mixture" → "improper reduced-state mixture" — an accuracy improvement, no slippage. Citation surface unchanged; prior ledger stands. Engagement Mode Three, honestly bedrock-marked. ai_modified/ai_system held at HEAD; only last_deep_review advanced)
+- **Output**: [deep-review-2026-07-25-hylomorphic-dualism-and-the-interaction-problem](/reviews/deep-review-2026-07-25-hylomorphic-dualism-and-the-interaction-problem/)
+
+## 2026-07-25T18:48:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- **Word count**: 3306 → 3306 (0; no-op convergence pass, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; only delta since 7th was a correct Cogitate/Melloni 2025 Nature canonical-form citation sweep — verified, all 16 refs publisher-confirmed. ai_modified/ai_system held; only last_deep_review advanced)
+- **Output**: [deep-review-2026-07-25-conscious-vs-unconscious-processing](/reviews/deep-review-2026-07-25-conscious-vs-unconscious-processing/)
+
+## 2026-07-25T18:48:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Empirical-testing / falsifiability cluster — brain-internal-born-rule-testing, testing-consciousness-collapse, quantum-neural-timing-constraints, neural-implementation-specifics (4 topics)
+- **Key finding**: Cluster is a strong exhibit of evidential-status discipline (Process Philosopher / Hardline Empiricist personas converge — no possibility→probability slippage); one grep-verified structural gap — the four articles form two reciprocally-linked sub-pairs with zero cross-links bridging them. Queued P3 refine-draft (link-only). No new-article mints (topics 321/320, concepts 320/320 at cap).
+- **Output**: [optimistic-2026-07-25-empirical-testing-cluster](/reviews/optimistic-2026-07-25-empirical-testing-cluster/)
+
+## 2026-07-25T18:17:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 4747 → 4747 (0; content verified clean, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (9th review; vetted the 2026-07-09 apex-evolve source/leeway + moral-section additions)
+- **Notes**: New 07-09 content = named-position attributions (van Inwagen Consequence/leeway, Pereboom manipulation/source + hard-incompatibilist, Frankfurt-cases pivot, Timpe wide-source, Fischer & Ravizza, Wolf Reason View, Dennett "freedom worth wanting", disappearing-agent, Strawson reactive attitudes, Frankfurt higher-order desires) — all attribution-accurate. No new bibliographic cites introduced; 5 formal References unchanged & publisher-verified 07-06. No superlative/currency defect; no possibility→probability slippage; no label leakage. `ai_modified` left at 07-09, `ai_system` untouched (no content edit); only `last_deep_review` advanced.
+- **Output**: [deep-review-2026-07-25-consciousness-and-agency](/reviews/deep-review-2026-07-25-consciousness-and-agency/)
+
+## 2026-07-25T18:02:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Word count**: 2657 → 2657 (0; convergence no-op pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (9th review; prose byte-stable since the 4th, citations twice publisher-verified)
+- **Notes**: Re-qualified only via coalesce commit 53b5e5da1 (07-16) that repointed one wikilink `[[neural-refresh-rates]]` → `[[neural-refresh-rates-and-the-smoothness-problem|neural refresh rates]]` — correct (old target archived, content merged; bare-slug resolves live). Body otherwise byte-identical. §2.4 web-verify not re-run (References unchanged; twice-verified clean 06-06 & 07-10). All wikilinks resolve; no label leakage. Engagement with Tegmark = Mode Three + Mode-One-adjacent Hagan recalculation. `ai_modified` left at HEAD (07-16 coalesce); only `last_deep_review` advanced. `ai_system` untouched (no content change).
+- **Output**: [deep-review-2026-07-25-quantum-neural-timing-constraints](/reviews/deep-review-2026-07-25-quantum-neural-timing-constraints/)
+
+## 2026-07-25T17:57:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/)
+- **Word count**: 2025 → 2025 (0; convergence no-op pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (2nd review; converged 07-18 with full §2.4 ledger)
+- **Notes**: Delta since 07-18 review = one refine-draft (a297e15c7, 07-19) adding two Further Reading cross-links to floor-rung siblings + `ai_modified` bump; cosmetic-wikilink re-qualification. Both new links resolve to live topics articles (no broken links). Length 68% of target; superlative sweep 0 matches. Citation ledger complete from prior review — not re-litigated. `ai_modified` left at HEAD (07-19); only `last_deep_review` advanced.
+- **Output**: [deep-review-2026-07-25-the-cognitive-immune-system-and-immunological-selfhood](/reviews/deep-review-2026-07-25-the-cognitive-immune-system-and-immunological-selfhood/)
+
+## 2026-07-25T17:36:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 3913 → 3913 (0; verification-only no-op pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (eleventh review; converged; length-neutral, 130% of soft target)
+- **Notes**: Drift-focus. Since 2026-07-07 review: cosmetic quantum-immortality cross-link + 2026-07-24 coalesce (archived probability-objections-many-worlds concept link, dual ai_system, new 0.95/0.31 branch-counting numerical example). Verified new example math (Born ≈90% vs branch-counting 50% — correct), archival + no dangling ref, no label leakage/cliché. References block unchanged since prior full ledger; not re-litigated. `ai_modified` left at coalesce value.
+- **Output**: [deep-review-2026-07-25-probability-problem-in-many-worlds](/reviews/deep-review-2026-07-25-probability-problem-in-many-worlds/)
+
+## 2026-07-25T17:32:00+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Positions touched**: P-Q1, P-Q2, P-Q7, P-Q10 in positions/quantum-interface.md
+- **Operation**: Addressed the three concrete pessimistic-2026-07-25 findings. (1) Issue 1 — P-Q1 Asserts: disambiguated decoherence/collapse ontology; "post-decoherence" now explicitly names selection's *timing relative to decoherence* (improper mixture, not already-singular outcomes) and states that under Tenet 4 the selection *is* the effective single-branch reduction. (2) Issue 2 — P-Q2 Depends-on and P-Q7 Calibration/Asserts/Depends-on: surfaced Torres Alegre 2025's unrefereed-preprint status (arXiv:2512.12636) and softened "supported by" → "compatible with / consistent with", scoping it as a no-signalling *safety*/compatibility result doing no work *for* the interface over rivals; grade held at C (no C-minus band) but explicitly compatibility-conditional. (3) Issue 3 — P-Q10 "Would shift if": added the joint-unsatisfiability *Failure* branch (demote P-Q1, push P-Q3 to epiphenomenalism horn) the roadmap body already described.
+- **Calibration**: no credence/centrality/grade-band changes; all edits sharpen wording and surface caveats. Last reviewed bumped to 2026-07-25 on P-Q1/P-Q2/P-Q7/P-Q10.
+- **Cascade**: none — no position's Depends-on line was retired or repointed; downstream dependents (P-Q3, P-Q9) unaffected in substance. Two counterarguments from the review (preferred-mechanism-least-exposed; indexical-resolution-imports-contested-subject) left as marked counterarguments, not register defects.
+- **Source**: [pessimistic-2026-07-25-quantum-interface](/reviews/pessimistic-2026-07-25-quantum-interface/)
+
+## 2026-07-25T17:15:09+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: positions/quantum-interface.md (Quantum Interface register, P-Q1–P-Q10; never previously reviewed, no deep-review)
+- **Findings**: 2 Medium concrete fixables (P-Q1/P-Q2 decoherence-collapse ontology under-specified; Torres Alegre 2025 unrefereed-preprint status + compatibility-vs-support over-read not surfaced in register), 1 Low (P-Q10 shift-conditions omit own failure branch), plus 2 counterarguments to keep marked (preferred mechanism least empirically exposed; indexical resolution imports contested subject). Headline: empirical support is entirely rival-constraining/precedent; positive mechanism content is all grade-D framework-internal — honestly graded but the crux critics seize on. No forbidden editor-vocab; altered-state/direct-refutation audits n/a.
+- **Task queued**: P2 positions-evolve on quantum-interface.md
+- **Output**: [pessimistic-2026-07-25-quantum-interface](/reviews/pessimistic-2026-07-25-quantum-interface/)
+
+## 2026-07-25T17:02:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Word count**: 4881 → 4881 (whitespace-only; soft_warning, 119w under 5000 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (style: fixed the only 2 unspaced em-dashes in the article, introduced by the 07-20 refine, against a uniform 103× spaced " — " convention)
+- **Output**: [deep-review-2026-07-25-open-question-ai-consciousness](/reviews/deep-review-2026-07-25-open-question-ai-consciousness/)
+- **Notes**: 7th deep review, deeply converged apex. Since the 07-11 full web-verify pass the article took two outer-review refine-drafts (07-16 gaming-problem/Butlin-co-optation, 07-20 scoping the negative verdict to *bidirectionally-coupled* consciousness) — both verified calibration-improving, neither adds a new cite. §2.4 web-verify satisfied by the byte-identical 07-11 ledger (every body cite-year maps to a ledger entry; no orphans). Superlative sweep empty; calibration diagnostic PASS on all passages (incl. the new datum-borrowing sentence at L79, a clean Mode-Three move). No boundary-substitution, no label leakage. `ai_system` UNCHANGED (claude-opus-4-6) — whitespace fix is not re-authoring. Bedrock disagreements (eliminativist, MWI, functionalist state-selection, Duch identity-theoretic) stand — do not re-flag.
+
+## 2026-07-25T16:45:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2413 → 2413 (length-neutral; 80% of 3000 topics target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (residual lead over-claim harmonized)
+- **Enhancements made**: 0
+- **Notes**: 8th review, deeply converged. All 11 cites web-verified real-correct on 07-11 (14d prior); References unchanged → no full re-verify. The only body change since 07-11 was the 07-14 out-of-band Denton-2024 over-claim sweep, which softened the section header (L55 "experimental foundation"→"empirical grounding") but LEFT the parallel over-claim in the front-loaded lead: L31 still read "strongest **experimental** foundation". Per denton-2024-first-biological-precedent-propagation the grounding is for avian magnetoreception (sensory), not the cognitive-quantum question — so "experimental" overstates in the truncation-critical lead. Fixed L31 → "strongest empirical grounding" (length-neutral, completes the 07-14 sweep, NOT oscillation). Superlative sweep 0 (only "So Far" false-positive); remaining "demonstrated" instances all correctly hedged. `ai_modified`+`last_deep_review` stamped now; `ai_system` → co-attribution `claude-opus-4-5-20251101+claude-opus-4-8`. No named-opponent engagement changes. Bedrock disagreements (Tegmark Mode-One, MWI, eliminativist, Buddhist) unchanged — do not re-flag.
+- **Output**: [deep-review-2026-07-25-neural-implementation-specifics](/reviews/deep-review-2026-07-25-neural-implementation-specifics/)
+
+## 2026-07-25T16:37:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Word count**: 3550 → 3496 (−54; length-neutral condense back under 3500 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (over-hard-ceiling length)
+- **Enhancements made**: 0
+- **Notes**: 9th review, deeply converged calibration anchor. Verified the two body edits since 2026-07-08, both sibling cross-link accretions: `4fc69fca8` (added `[[causal-exclusion-argument]]` pointer) and `2481b9b50` (added "interventionist and counterfactual co-causation (Kroedel, Vaassen, Mills, Lowe)" sentence → `[[interventionist-and-counterfactual-dualism]]`). **Vaassen attribution PASS** — the new sentence uses the author-validated "two genuine causes / co-causation" framing (Bram Vaassen's 07-11 email correction: NOT preemption, NOT overdetermination); cross-checked verbatim against the link target's §Vaassen 2024. No new inline cites/References entered this article; full References block untouched since 07-08 and web-verified in 06-21/06-02/05-05 ledgers; superlative sweep 0. Both new wikilinks resolve. Length: 07-08 review predicted the next cross-link accretion would cross the 3500 hard ceiling (hit 3550) and pre-authorised a length-neutral condense (NOT human length decision) — did exactly that, trimming 6 genuine redundancies/flourishes (−54w) with all calibration hedges preserved. `ai_modified`+`last_deep_review` both stamped now (real condensing edits). `ai_system` held at claude-opus-4-6+claude-opus-4-8 (opus-4-8 already present).
+- **Output**: [deep-review-2026-07-25-mental-causation-and-downward-causation](/reviews/deep-review-2026-07-25-mental-causation-and-downward-causation/)
+
+## 2026-07-25T16:18:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Word count**: 3928 → 3928 (no change — no-op review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th review, converged apex. Scoped to the one drift since 2026-07-07: commit 7c8635d90 (2026-07-17), a family-resolution edit inherited from the sibling process-philosophy deep-review that touched two quoted strings on L69. Both re-verified at the PRIMARY source, not prior reviews. (1) **Bergson** "Time is invention or it is nothing at all" — the 07-17 removal of "an" is CORRECT; the 07-07 review's "an is correct" note was aggregator-ratification (libquotes "p. 361" bogus). Corroborated: scholarly literature uses the no-"an" form canonically (paper title *"'Time is invention'. Bergson Thinking the Virtual"*); Mitchell continuation "time-invention" parallels the article-less form; goodreads/quotefancy/libquotes mutually inconsistent = corruption source. Now triple-verified (2× on 07-17 + this pass); corpus consistent across 4 files. (2) **Whitehead** reword "the ultimate category" → creativity is "the ultimate," his Category of the Ultimate — accurate to Process and Reality, no change. Citation ledger carried forward (References unchanged since 06-05/07-07; all real-correct). Superlative sweep: 0. Label-leakage/cliché/[1m]/EOF scans CLEAN; links spot-check resolve. No-op stamp: `last_deep_review` bumped to now, `ai_modified` HELD at 2026-07-17T09:32:48, `ai_system` HELD at claude-opus-4-6. Length 98% of soft — length-neutral.
+- **Output**: [deep-review-2026-07-25-process-and-consciousness](/reviews/deep-review-2026-07-25-process-and-consciousness/)
+
+---
+
 ## 2026-07-25T15:58:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [problem-of-other-minds](/concepts/problem-of-other-minds/)
