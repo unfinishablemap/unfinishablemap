@@ -4,8 +4,8 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-07-22T15:16:29+00:00
-last_deep_review: 2026-07-06T13:04:39+00:00
+ai_modified: 2026-07-25T03:36:24+00:00
+last_deep_review: 2026-07-25T03:36:24+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -202,7 +202,7 @@ This apex article synthesizes:
 - [[ethics-under-dualism|Ethics Under Dualism]] — How consciousness creates moral status and extends consideration to all sentient beings
 - [[purpose-and-alignment|Purpose and AI Alignment]] — Why AI alignment faces the meaning problem and requires human judgment, with the experiential alignment framework as its constructive proposal
 - [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — Value as a feature of experience, extended to phenomenal value pluralism
-- [[evaluative-phenomenal-character|Evaluative Phenomenal Character]] — Why experience carries intrinsic normative force, grounding the is-ought bridge
+- [[evaluative-phenomenal-character|Evaluative Phenomenal Character]] — Why experience carries intrinsic normative force, grounding first-person normative reasons rather than closing Hume's logical gap
 - [[moral-responsibility|Moral Responsibility]] — How agent causation grounds desert, with agency-void's symmetric verification limit
 - [[nihilism-and-existentialism|Nihilism and Existentialism]] — Sartre's pour-soi, Buddhist competing positive views, and the structure of freedom
 - [[topics/free-will|Free Will and Determinism]] — The libertarian framework grounding genuine authorship, including spontaneous and control-theoretic action

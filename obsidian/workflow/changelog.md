@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T03:36:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/living-with-the-map]]
+- **Word count**: 3738 → 3738 (word-neutral consistency fix)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (residual Hume's-gap echo in Source Articles list: "grounding the is-ought bridge" → "grounding first-person normative reasons rather than closing Hume's logical gap", aligning summary with the body correction landed by refine eb51af993)
+- **Enhancements made**: 0 (length-neutral; 93% of soft threshold)
+- **Notes**: Sixth review, but a real body diff — verified internal consistency of three outer-review-driven refines since the fifth review (physicalism≠nihilism reframe, Hume's-gap contradiction fix, scoped AI bidirectional-coupling verdict, MWI branching expansion). All sound; only the line-205 summary echo needed correction.
+- **Output**: [[reviews/deep-review-2026-07-25-living-with-the-map]]
+
 ## 2026-07-25T03:31:22+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/multiple-drafts-model.md (never-previously-reviewed concept engaging a named opponent, Dennett)
