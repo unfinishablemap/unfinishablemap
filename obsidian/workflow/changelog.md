@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-24 21:34:04+00:00
+ai_modified: 2026-07-25 00:21:01+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-25T00:21:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/volitional-control]]
+- **Original score**: ~6/10 (well-written and now bibliographically clean, but flagged REVISE-HARD / Major-revision / Reject by the 2026-07-24 outer-review triple for systematic overclaim, author-stance co-optation, and stale literature)
+- **Source**: 2026-07-24 same-subject outer-review triple (ChatGPT 5.6 Pro + Claude Opus 4.8 + Gemini 2.5 Pro) via [[reviews/outer-review-synthesis-2026-07-24]]. Single consolidated pass, all findings on one file (no per-item split).
+- **Changes**:
+  - CONVERGENT (all-three): added a new "Predictive Processing: The Strongest Physicalist Rival" section engaging active inference (Friston/Clark/Hohwy/Seth) as the decisive omission — concedes the comparator model relied on throughout is itself physicalist and predicts the dissociation/binding/stimulation/plasticity data with no non-physical remainder; located the Map's opening at the hard-problem boundary (feltness stipulated not derived) and marked the empirical equivalence honestly. Cross-links [[predictive-processing-and-dualism]].
+  - CONVERGENT (all-three): removed compatibility-counted-as-confirmation across lead, Braun paragraph, and site-perspective section; reframed lead/description from "converge against epiphenomenalism" to "defeater removed, not proof of non-physical volition"; retitled Libet section (Dissolution → Reassessing); softened "collectively dismantled/dissolution" to "levelled / underdetermined".
+  - CONVERGENT (all-three): Sjöberg 2024 relabelled from "analysis / independent confirmation" to *Brain* essay reflecting on a prior cohort; disclosed Sjöberg's own anti-dualist stance; narrowed to "reported effort survived impairment of an SMA-linked execution gateway"; folded in Bala et al. 2025 SMA-proper/pre-SMA executive-deficit dissociation and the phenomenology-dissociates-from-capacity reading.
+  - VERIFIED-at-publisher fixes: (A) Rajan 2019 — "greater in willed than instructed, relative increase, from ~500 ms"; dropped "absent"/"automatic"/"~300 ms". (B) Sjöberg genre/independence (above). (C) Blakemore self-tickle — added Blakemore, Smith, Steel, Johnstone & Frith (2000, *Psychological Medicine* 30(5):1131–1139, verified at Cambridge Core), narrowed to reduced sensory attenuation in the auditory-hallucination/passivity symptom groups.
+  - Added Gavenas, Schurger & Maoz (2025) probe-paradigm with parity framing (cuts against both readings). Restored Braun's "largely consistent with Libet" headline. Desmurget PPC reframed as theory-neutral (refutes motor-output-detection, not physicalism; PPC multiplexes; n=7). Brass–Haggard dFMC downgraded from "exerts top-down inhibition" to correlational fMRI candidate correlate. Intentional-binding downgraded (post-2020 construct-validity; own second disconfirmer marked live). Neuroplasticity: removed the invalid epiphenomenalist counterfactual (common-cause model); added one-line acknowledgement that classical experience-dependent plasticity fully accounts for the OCD data (the sanctioned residue — Quantum-Zeno "vacuous" charge NOT imported, per synthesis).
+  - Reportability argument harmonised with the softened flagship: "cannot be rationally held" → conditional "serious objection", naming the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] and cross-linking [[concepts/bidirectional-interaction]].
+  - References: added Bala 2025, Blakemore 2000, Gavenas 2025 (renumbered 25→28).
+- **Engagement classification** (editor-internal, not in article body per [[direct-refutation-discipline]]): active inference — Mode Two + Mode Three (identifies the unearned foundational move — feltness stipulated not derived from prediction-error minimisation — then marks present-data empirical equivalence as a framework-boundary residue, not a refutation). Veto regress objection — Mode Two (causal closure named as the disputed premise the objection helps itself to) with an explicit Mode Three concession that this reframes rather than empirically refutes. Wegner/reportability — Mode Three (downgraded to conditional; phenomenal-concept reply named honestly). No boundary-substitution introduced; no mode labels in prose.
+- **Held**: ai_system claude-opus-4-6 (not flipped to a reviewer's model); last_deep_review unchanged (this is a claim-currency refine, not a deep review); calibration paragraph at former line 112 preserved intact.
+- **Excluded**: Gemini's Quantum-Zeno "scientifically vacuous / question-begging" charge (disputed by its own verification; not over-conceded).
+- **Length note**: authored prose grew ~2860 → ~4500 words (full-body count_words ~5250, between topics hard 4000 and critical 6000; partly reference-apparatus inflation). Growth is load-bearing — 9 convergent clusters + a mandated new rival section — so NOT queuing an immediate condense (would be refine-then-condense churn); flagged here for a future length-neutral pass if it drifts toward critical.
+- **Published**: yes
 
 ## 2026-07-25T00:15:00+00:00 - combine-outer-reviews
 - **Status**: Success
