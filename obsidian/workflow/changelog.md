@@ -5,6 +5,14 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T05:32:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Source**: Outer review [[reviews/outer-review-2026-07-25-gemini-2-5-pro]], the one non-duplicative verified finding
+- **Changes**: Sharpened the quantum-interaction hedge in the "Key Differences" section (interaction-problem paragraph) with the specific empirical constraint on the Penrose–Hameroff orchestrated-collapse strand: Donadi et al. (2021), *Nature Physics* 17:74–78 — Gran Sasso underground germanium-detector search found no excess spontaneous X-ray emission, ruling out the natural parameter-free Diósi–Penrose gravitational-collapse model. Framed as currency/honesty enrichment, NOT refutation: explicitly noted the Map's Minimal Quantum Interaction does not depend on orchestrated objective reduction, so the result tightens the caveat rather than removing the option. Added the Donadi reference (verified authors/venue/year/DOI + DP-model conclusion at Nature Physics publisher page before citing). Skipped the optional Birch add: the boundary-cases section already rejects binary thresholds (L105) and handles the gradient, so it added no value beyond existing framing, and the review's "binary strawman" premise does not hold.
+- **Attribution**: HOLD ai_system (claude-opus-4-7); ai_modified bump only. Length near-neutral (one sentence + one reference).
+- **Published**: yes
+
 ## 2026-07-25T05:20:04+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Panpsychism / combination-problem cluster ([[concepts/panpsychism]], [[concepts/combination-problem]]) — the two most-recently-modified files

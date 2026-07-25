@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-25T05:11:23+00:00
+ai_modified: 2026-07-25T05:32:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,7 +127,7 @@ This trades *constitutive* combination for the interaction problem. Matter has n
 | Combination problem | Must explain how micro-experiences combine | Avoids constitutive subject-summing; retains subject–body pairing, distributed-interface unity, and psychophysical-law burdens |
 | Interaction problem | Doesn't face this (no separate substances) | Must explain how distinct substances interact |
 
-The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map's proposed response appeals to quantum indeterminacy: consciousness might bias outcomes that physics leaves undetermined, so no physical law would be violated. Drawing on Stapp's quantum Zeno approach and Penrose-Hameroff's orchestrated collapse, the proposal remains speculative—it faces the decoherence objection (superpositions in warm tissue collapse in femtoseconds, while neural processes operate at milliseconds) and lacks experimental support. It is a research programme, not an established result. Parsimony favours panpsychism here: one kind of stuff with two aspects is simpler than two substances requiring a novel interaction mechanism—a cost the Map accepts (see [[tenets#^occams-limits|Occam's Razor Has Limits]]) rather than understates.
+The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map's proposed response appeals to quantum indeterminacy: consciousness might bias outcomes that physics leaves undetermined, so no physical law would be violated. Drawing on Stapp's quantum Zeno approach and Penrose-Hameroff's orchestrated collapse, the proposal remains speculative—it faces the decoherence objection (superpositions in warm tissue collapse in femtoseconds, while neural processes operate at milliseconds) and lacks experimental support. The natural, parameter-free Diósi–Penrose gravitational-collapse model underlying the orchestrated-collapse strand has itself been experimentally constrained: an underground germanium-detector search at Gran Sasso found no excess spontaneous X-ray emission and ruled out that parameter-free version (Donadi et al. 2021). This bears on the Penrose–Hameroff mechanism specifically, not on the Map's Minimal Quantum Interaction, which does not depend on orchestrated objective reduction—so the result tightens the honesty of the caveat rather than removing the option. It is a research programme, not an established result. Parsimony favours panpsychism here: one kind of stuff with two aspects is simpler than two substances requiring a novel interaction mechanism—a cost the Map accepts (see [[tenets#^occams-limits|Occam's Razor Has Limits]]) rather than understates.
 
 ## What Panpsychism Gets Right
 
@@ -215,6 +215,7 @@ But the Map thinks interactionist dualism offers a cleaner solution: consciousne
 1. Antonopoulos, C. G., Fokas, A. S., & Bountis, T. (2015). Dynamical Complexity in the C. elegans Neural Network. arXiv:1510.07260.
 1. Baysan, U. (2024). Does Panpsychism Explain Mental Causation? *Erkenntnis*. https://doi.org/10.1007/s10670-024-00816-5
 1. Chalmers, D. (2015). Panpsychism and Panprotopsychism. In *Consciousness in the Physical World*. Oxford University Press.
+1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74–78. https://doi.org/10.1038/s41567-020-1008-4
 1. Frankish, K. (2021). Panpsychism and the Depsychologization of Consciousness. *Aristotelian Society Supplementary Volume*, 95(1), 51–70.
 1. Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon.
 1. Nagel, T. (1979). Panpsychism. In *Mortal Questions*. Cambridge University Press.
