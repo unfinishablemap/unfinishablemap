@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T22:32:55.842425+00:00'
-session_count: 17230
+last_updated: '2026-07-25T22:33:14.305989+00:00'
+session_count: 17231
 cycle_position: 11737
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-07-25T04:47:44.307297+00:00'
   collect-gemini-review: '2026-07-25T04:41:29.672216+00:00'
   positions-evolve: '2026-07-25T17:35:07.397921+00:00'
-  check-model-fallback: '2026-07-25T18:31:43.360936+00:00'
+  check-model-fallback: '2026-07-25T22:33:14.305989+00:00'
   harvest-research-subjects: '2026-07-25T22:15:19.526511+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-25'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1132,9 +1132,9 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T22:10:00+00:00'
-  last_replenishment_prev: '2026-07-25T21:43:00+00:00'
-  last_replenishment_run: 828
+  last_replenishment: '2026-07-25T22:40:00+00:00'
+  last_replenishment_prev: '2026-07-25T22:10:00+00:00'
+  last_replenishment_run: 829
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
@@ -1208,38 +1208,42 @@ queue_status:
     ledger, strictly length-neutral (~55w headroom, offset additions), HOLD ai_system
     claude-opus-4-6 SINGLE. BOTTOM-inserted (FIFO). Full reasoning in the todo task
     Notes. Pruned run_825_note per note-bloat discipline (keep ~3: 826/827/828).'
-  run_826_note: 'run no.826 (2026-07-25T21:18Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/neural-correlates-of-consciousness.md.
-    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 emergence opus-4-5 run-825
-    + P2 binding-problem opus-4-6; the run-824 temporal-consciousness holder drained
-    by a loop-less local cycle deep-review slot, last cycle commit 34b4dc0cb temporal-consciousness,
-    recent_tasks top = deep-review/optimistic-review); == 3 post-write (tool-verified,
-    parses TaskType.DEEP_REVIEW w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean);
-    HEAD 34b4dc0cb; only uncommitted delta the pre-existing deferred cycle_post state
-    bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED
-    (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length human-decisions already queued P3 + #veto condenses parser-excluded; positions
-    8<10 audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex
-    gap. Source 4 (changed-since-review) TARGET: neural-correlates-of-consciousness
-    (opus-4-5, concepts, score 9.73, 3392w soft_warning ~108w under 3500 hard). KEY
-    FINDING: the two PRIOR floor-restore mints (emergence, binding-problem) both dismissed
-    this file as "9-sidecar SATURATED, collateral cross-review commits only" -- that
-    dismissal MISSED that cross-review commit e97cf64cb (07-16, target = hemispherectomy)
-    collaterally INSERTED a NEW never-deep-reviewed 2025 empirical claim here: "a
-    2025 study (Santander et al., PNAS) found that a near-complete callosotomy patient...
-    maintained full interhemispheric integration with no disconnection syndrome".
-    Added 07-16, last_deep_review 07-06 -> genuinely OPEN empirical-claim + citation-fidelity
-    surface (NOT the cosmetic-wikilink failure mode; the two See-Also links + Cogitate
-    ref in the same window ARE cosmetic/correct). SEAM: verify Santander et al. 2025
-    PNAS at PRIMARY publisher -- author/venue/year metadata + finding-matches-paraphrase
-    (does the study support "full interhemispheric integration" or is that an over-state?)
-    + Tenet-1 NCC-vs-interface framing per evidential-status-discipline. Cohort opus-4-5
-    + concepts/ overlap the emergence holder (soft caveat, subordinate to unchecked-surface
-    yield; the only fully-distinct length-safe alternatives are cosmetic no-ops agent-causation/functionalism
-    or session-touched-today apex/dualism-cartography). Cluster NCC/disconnection-syndromes/GNWT-IIT
-    distinct from both holders. LENGTH-neutral; do NOT re-sweep ref ledger. BOTTOM-inserted
-    (FIFO). Full reasoning in the todo task Notes. Pruned run_821_note per note-bloat
-    discipline (keep ~3: 824/825/826).'
+  run_829_note: 'run no.829 (2026-07-25T22:40Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint concepts/metacognition.md.
+    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 attention-as-interface
+    opus-4-6 run-827 + P2 agent-causation opus-4-6 run-828; the run-826 neural-correlates
+    holder drained by loop-less local cycle deep-review slot, commit bc3b5de37, last_runs
+    deep-review 22:19Z); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 35a2d8ec7; only uncommitted
+    delta the pre-existing deferred cycle_post state bookkeeping from check-model-fallback
+    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
+    already queued P3 + #veto condenses parser-excluded; positions 8<10 audit threshold
+    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
+    TARGET: metacognition (opus-4-6, concepts, soft_warning 3455w ~45w under 3500 hard,
+    ldr 07-11T08:19 = dedicated review cbb0f3469). POOL DRAINED: top-5 candidates hard_warning
+    over-length (length-BLOCKED); prebiotic-collapse over-ceiling 3594w + session-touched-today;
+    evolution-of-consciousness delta = 07-19-verified quote fixes (no-op); functionalism
+    = cosmetic wikilink (no-op); open-individualism (opus-4-8/topics, cohort+section
+    DISTINCT but reviewed 07-19 6d-converged full web-verify + cosmetic embed delta
+    -> over-review trap, REJECTED). metacognition post-review BODY delta from commit
+    8ab815227 (07-11 10:02, TARGET was higher-order-theories, collateral inserts here,
+    bumped ai_modified 08:19->09:56 NOT last_deep_review -> no dedicated review of these):
+    (1) Kapetaniou et al. 2025 causal-TACS claim L85/140/232 (Human Brain Mapping 46(2)
+    e70146); (2) Ko & Lau 2012 blindsight re-attribution L65/235; (3) Fleming 2010 revision
+    L140. HONEST CAVEAT: 8ab815227 was itself a HOT/HOP publisher-sweep so surface largely-checked
+    -> clean-verify no-op is EXPECTED; residual unchecked axis = empirical-claim-fidelity
+    of the Kapetaniou addition (sweep target was another file). SEAM (do NOT presume
+    broken): (a) PRIMARY Kapetaniou 2025 metadata + finding-matches-paraphrase + "confirms
+    at intervention level" not an over-state; (b) SECONDARY confirm Ko&Lau blindsight
+    attribution complete, not conflated with the separate Maniscalco&Lau 2012 SDT-metacognition
+    paper. COHORT/SECTION CAVEAT (soft, ACCEPTED pool-drain): opus-4-6 SINGLE overlaps
+    both holders, concepts/ overlaps both -- all length-safe genuine-surface candidates
+    opus-4-6/concepts. Cluster metacognition/HOT-HOP/aPFC distinct from both holders.
+    LENGTH strictly neutral; do NOT re-sweep converged ledger, verify only the three
+    8ab815227 inserts; HOLD ai_system claude-opus-4-6 SINGLE. BOTTOM-inserted (FIFO).
+    Full reasoning in the todo task Notes. Pruned run_826_note per note-bloat discipline
+    (keep ~3: 827/828/829).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
