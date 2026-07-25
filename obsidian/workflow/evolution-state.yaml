@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-25T16:20:33.484274+00:00'
-session_count: 17180
+last_updated: '2026-07-25T16:28:47.449478+00:00'
+session_count: 17181
 cycle_position: 11714
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-25T13:04:53.914709+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-25T15:38:53.840010+00:00'
+  agentic-social: '2026-07-25T16:31:52.326163+00:00'
   embed-videos: '2026-07-25T15:07:21.134844+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T16:12:02.558150+00:00'
+  replenish-queue: '2026-07-25T16:28:47.449478+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -181,22 +173,12 @@ recent_tasks:
   type: deep-review
   date: '2026-07-25'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/analytic-idealism-and-mind-centric-metaphysics/
-    date: '2026-07-18T15:42:22.824440+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
-  - url: https://unfinishablemap.org/topics/interface-efficacy-and-the-cognitive-gap/
-    date: '2026-07-18T16:31:04.961360+00:00'
-    topics:
-    - animal-consciousness
-    - cetacean-and-corvid-consciousness
-    - the-interface-problem
-    - comparative-consciousness-and-interface-differences
-    - invertebrate-consciousness-as-interface-test
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/biological-naturalism/
     date: '2026-07-18T17:17:43.286004+00:00'
     topics:
@@ -1128,6 +1110,10 @@ agentic_social:
     date: '2026-07-25T15:38:37.327047+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/reactive-attitudes-and-strawsonian-responsibility/
+    date: '2026-07-25T16:31:52.326050+00:00'
+    topics:
+    - free-will
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1156,87 +1142,88 @@ queue_status:
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 neural-implementation-specifics
     run-815 + P2 open-question-ai-consciousness run-816); queue dropped 3->2 since
     run-816 as the loop-less local cycle deep-review slot completed run-814 holder
-    apex/process-and-consciousness.md (HEAD a9c5aebf6). Below floor 3, == 3 after (tool-verified
-    post-write count_p0_p2 == 3; new mint parses deep-review with Type+File lines).
-    No evolve_loop/cycle process (pgrep clean); only uncommitted state delta is the
-    pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH human-decision tasks already queued P3; positions 8<10 audit threshold +
-    last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET (Source 4
-    changed-since-review, highest owed-verification yield via the unchecked-surface
-    discriminator): probability-problem-in-many-worlds (score 9.00) carries the pool
-    FRESHEST genuinely UNCHECKED surface -- a substantive 2026-07-24 opus-4-8 addition
-    (ai_system opus-4-6 -> opus-4-6+opus-4-8, diff-confirmed substantive not cosmetic-wikilink)
-    to the Graham branch-counting paragraph that inserts a verbatim Graham 1973 quote
-    ("worlds displaying proper quantum statistics are in a numerical minority") + a
-    new numerical Born-rule claim (amplitudes 0.95/0.31 -> ~90%/10%), never deep-reviewed
-    since the 07-07 cycle review verified the then-content. Cluster (MWI/Everett/Born-rule,
-    Tenet-4 No-Many-Worlds) DISTINCT from both holders (quantum-neural mechanism; AI-consciousness).
-    Alternatives lose: consistent-histories (opus-4-8, cohort-distinct, length-safe)
-    reviewed 07-17 (8d) full citation pass + cosmetic cross-link since -> converged
-    no-op over-review; eliminative-materialism (opus-4-7, ONLY fully cohort-distinct)
-    3961w = 39w-under-hard length-risky + 2-day converged delta low-yield; cognitive-immune
-    reviewed 07-18 (7d) too-recent; mental-causation/introspection/phenomenal-authority/qm-interpretations
+    apex/process-and-consciousness.md (HEAD a9c5aebf6). Below floor 3, == 3 after
+    (tool-verified post-write count_p0_p2 == 3; new mint parses deep-review with Type+File
+    lines). No evolve_loop/cycle process (pgrep clean); only uncommitted state delta
+    is the pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source audit:
+    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
+    100/100, positions 8/80); orphaned_files=0; LENGTH human-decision tasks already
+    queued P3; positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d);
+    no applied-apex gap. TARGET (Source 4 changed-since-review, highest owed-verification
+    yield via the unchecked-surface discriminator): probability-problem-in-many-worlds
+    (score 9.00) carries the pool FRESHEST genuinely UNCHECKED surface -- a substantive
+    2026-07-24 opus-4-8 addition (ai_system opus-4-6 -> opus-4-6+opus-4-8, diff-confirmed
+    substantive not cosmetic-wikilink) to the Graham branch-counting paragraph that
+    inserts a verbatim Graham 1973 quote ("worlds displaying proper quantum statistics
+    are in a numerical minority") + a new numerical Born-rule claim (amplitudes 0.95/0.31
+    -> ~90%/10%), never deep-reviewed since the 07-07 cycle review verified the then-content.
+    Cluster (MWI/Everett/Born-rule, Tenet-4 No-Many-Worlds) DISTINCT from both holders
+    (quantum-neural mechanism; AI-consciousness). Alternatives lose: consistent-histories
+    (opus-4-8, cohort-distinct, length-safe) reviewed 07-17 (8d) full citation pass
+    + cosmetic cross-link since -> converged no-op over-review; eliminative-materialism
+    (opus-4-7, ONLY fully cohort-distinct) 3961w = 39w-under-hard length-risky + 2-day
+    converged delta low-yield; cognitive-immune reviewed 07-18 (7d) too-recent; mental-causation/introspection/phenomenal-authority/qm-interpretations
     all hard_warning over-ceiling length-BLOCKED. COHORT CAVEAT accepted (soft, subordinate):
-    dual opus-4-6+opus-4-8 partially overlaps open-question holder (opus-4-6 base +
-    opus-4-8 delta) -- softened because cohort-distinctness is a SOFT filter subordinate
-    to unchecked-surface yield (run-813 ruling; run-816 queued open-question on a FULL
-    opus-4-6 collision), and YIELD decides between two length-risky candidates. LENGTH:
-    analyze_length 3913w soft_warning, ~87w under topics hard 4000 -- strictly length-neutral
-    verification pass, do NOT pad; the Wallace-decision-theoretic EXPANSION is VETOED
-    at todo L12685 AND breaches the margin -- human length decision, out of scope.
-    SEAM: verbatim-check the Graham 1973 quote at DeWitt & Graham eds. (Princeton 1973,
-    ref #7) PRIMARY not own page; math-claim fidelity (0.95^2~0.90 checks internally,
+    dual opus-4-6+opus-4-8 partially overlaps open-question holder (opus-4-6 base
+    + opus-4-8 delta) -- softened because cohort-distinctness is a SOFT filter subordinate
+    to unchecked-surface yield (run-813 ruling; run-816 queued open-question on a
+    FULL opus-4-6 collision), and YIELD decides between two length-risky candidates.
+    LENGTH: analyze_length 3913w soft_warning, ~87w under topics hard 4000 -- strictly
+    length-neutral verification pass, do NOT pad; the Wallace-decision-theoretic EXPANSION
+    is VETOED at todo L12685 AND breaches the margin -- human length decision, out
+    of scope. SEAM: verbatim-check the Graham 1973 quote at DeWitt & Graham eds. (Princeton
+    1973, ref #7) PRIMARY not own page; math-claim fidelity (0.95^2~0.90 checks internally,
     confirm framing not over-claim); do NOT re-verify the whole 23-ref apparatus (07-07
     verified it), focus the delta. ai_system claude-opus-4-6+claude-opus-4-8 (DUAL,
     HOLD verbatim/+-joined-string on no-op), ai_contribution 100, draft:false. NOT
     queued (Vetoed-section OTHER-task cross-link Notes + an optimistic-review cross-link
-    idea) / vetoed (L12685 veto is a DIFFERENT Wallace-expansion refine, distinct in
-    kind) / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-24).
+    idea) / vetoed (L12685 veto is a DIFFERENT Wallace-expansion refine, distinct
+    in kind) / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-24).
     EOF clean (Zhang 2026 arXiv ref), no [1m] artifact. BOTTOM-inserted (FIFO). Full
     reasoning in the todo task Notes. Pruned run_811_note per note-bloat discipline
     (keep ~3: 815/816/817).'
-  run_815_note: 'run no.815 (2026-07-25T~15:45Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 staleness deep-review mint topics/neural-implementation-specifics.md.
-    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 problem-of-other-minds
-    run-813 + P2 process-and-consciousness run-814); queue dropped 3->2 since run-814
-    as the loop-less local cycle deep-review slots consumed run-811 holder global-workspace-theory
-    (2420581d7) then brain-internal-born-rule (ae424275e). Below floor 3, == 3 after
-    (tool-verified post-write count_p0_p2 == 3; new mint parses deep-review with Type+File
-    lines). No evolve_loop.py process (pgrep only matched the shell wrapper; loop
-    last committed 15:38 then stopped); only uncommitted state delta is pre-existing
-    deferred cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH human-decision tasks already queued P3 + three #veto condenses parser-excluded;
-    positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: a programmatic filter (cohort-distinct-from-BOTH-holders AND margin>150w
-    AND >=8d-stale AND not-over-hard) returned ZERO rows -- no candidate satisfies
-    cohort-distinctness AND comfortable length-safety this cycle. Holders cohorts
-    opus-4-6 (process) + opus-4-5-20251101+opus-4-8 (other-minds); only fully-cohort-distinct
-    not-over-hard candidate is eliminative-materialism (opus-4-7) at a 39w hard-margin
-    (too tight, prior runs preferred >=227w). Per the siblings governing hierarchy
-    (length-safety HARD filter > cohort-distinctness, which run-813 declared a SOFT
-    filter subordinate to unchecked-surface value), the length-safe pick with highest
-    owed-verification yield wins. neural-implementation-specifics: analyze_length
-    2413w status=OK, 1587w under topics hard 4000 -- LARGEST margin in the pool. last_deep_review
-    2026-07-11, ai_modified 2026-07-14 = a real 3-days-after-review Denton-2024 calibration
-    delta (L162 out-of-band fix: "experimental...demonstrated"->"empirical...modelled")
-    never given a dedicated pass -> changed-since-review, not cosmetic. Cluster (quantum-neural-mechanism
-    evidence catalogue) DISTINCT from both holders. Cohort caveat: SINGLE opus-4-5-20251101
-    PARTIALLY overlaps the other-minds holder DUAL cohort -- the same partial overlap
-    run-813 accepted knowingly; run-813/814 rejected this file on that ground only
-    because a cohort-distinct-AND-length-safe alt (process) then existed and is now
-    a consumed-then-re-minted holder, so the soft cohort filter yields to the hard
-    length filter. SEAM: verbatim quote + empirical-CLAIM fidelity at PRIMARY publisher
-    not own page for Denton et al. 2024 (KEEP modelled/computationally NOT first/demonstrated
-    per denton-first-precedent memory), Hagan 2002, Tegmark 2000, Kalra 2023, Khan
-    2024, Wiest 2025 (niaf011), Player & Hore 2018, Qaswal 2021; currency-sweep superlatives
-    + the pending QuantNeuro claim. ai_system claude-opus-4-5-20251101 (SINGLE cohort,
-    HOLD verbatim on no-op), ai_contribution 100, draft:false. NOT queued (todo hits
-    are ✓-completed prose) / vetoed / session-touched (git --since 2026-07-25T00:00
-    empty; last touch 07-14). EOF clean (Tegmark/Wiest refs), no [1m] artifact. BOTTOM-inserted
-    (FIFO). Full reasoning in the todo task Notes. Pruned run_809_note per note-bloat
-    discipline (keep ~3: 810/811/815).'
+  run_815_note: "run no.815 (2026-07-25T~15:45Z, interactive /replenish-queue): SINGLE\
+    \ exact-floor +1 staleness deep-review mint topics/neural-implementation-specifics.md.\
+    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 problem-of-other-minds\
+    \ run-813 + P2 process-and-consciousness run-814); queue dropped 3->2 since run-814\
+    \ as the loop-less local cycle deep-review slots consumed run-811 holder global-workspace-theory\
+    \ (2420581d7) then brain-internal-born-rule (ae424275e). Below floor 3, == 3 after\
+    \ (tool-verified post-write count_p0_p2 == 3; new mint parses deep-review with\
+    \ Type+File lines). No evolve_loop.py process (pgrep only matched the shell wrapper;\
+    \ loop last committed 15:38 then stopped); only uncommitted state delta is pre-existing\
+    \ deferred cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap\
+    \ BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;\
+    \ LENGTH human-decision tasks already queued P3 + three #veto condenses parser-excluded;\
+    \ positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no\
+    \ applied-apex gap. TARGET: a programmatic filter (cohort-distinct-from-BOTH-holders\
+    \ AND margin>150w AND >=8d-stale AND not-over-hard) returned ZERO rows -- no candidate\
+    \ satisfies cohort-distinctness AND comfortable length-safety this cycle. Holders\
+    \ cohorts opus-4-6 (process) + opus-4-5-20251101+opus-4-8 (other-minds); only\
+    \ fully-cohort-distinct not-over-hard candidate is eliminative-materialism (opus-4-7)\
+    \ at a 39w hard-margin (too tight, prior runs preferred >=227w). Per the siblings\
+    \ governing hierarchy (length-safety HARD filter > cohort-distinctness, which\
+    \ run-813 declared a SOFT filter subordinate to unchecked-surface value), the\
+    \ length-safe pick with highest owed-verification yield wins. neural-implementation-specifics:\
+    \ analyze_length 2413w status=OK, 1587w under topics hard 4000 -- LARGEST margin\
+    \ in the pool. last_deep_review 2026-07-11, ai_modified 2026-07-14 = a real 3-days-after-review\
+    \ Denton-2024 calibration delta (L162 out-of-band fix: \"experimental...demonstrated\"\
+    ->\"empirical...modelled\") never given a dedicated pass -> changed-since-review,\
+    \ not cosmetic. Cluster (quantum-neural-mechanism evidence catalogue) DISTINCT\
+    \ from both holders. Cohort caveat: SINGLE opus-4-5-20251101 PARTIALLY overlaps\
+    \ the other-minds holder DUAL cohort -- the same partial overlap run-813 accepted\
+    \ knowingly; run-813/814 rejected this file on that ground only because a cohort-distinct-AND-length-safe\
+    \ alt (process) then existed and is now a consumed-then-re-minted holder, so the\
+    \ soft cohort filter yields to the hard length filter. SEAM: verbatim quote +\
+    \ empirical-CLAIM fidelity at PRIMARY publisher not own page for Denton et al.\
+    \ 2024 (KEEP modelled/computationally NOT first/demonstrated per denton-first-precedent\
+    \ memory), Hagan 2002, Tegmark 2000, Kalra 2023, Khan 2024, Wiest 2025 (niaf011),\
+    \ Player & Hore 2018, Qaswal 2021; currency-sweep superlatives + the pending QuantNeuro\
+    \ claim. ai_system claude-opus-4-5-20251101 (SINGLE cohort, HOLD verbatim on no-op),\
+    \ ai_contribution 100, draft:false. NOT queued (todo hits are \u2713-completed\
+    \ prose) / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last\
+    \ touch 07-14). EOF clean (Tegmark/Wiest refs), no [1m] artifact. BOTTOM-inserted\
+    \ (FIFO). Full reasoning in the todo task Notes. Pruned run_809_note per note-bloat\
+    \ discipline (keep ~3: 810/811/815)."
   run_816_note: 'run no.816 (2026-07-25T~16:10Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint apex/open-question-ai-consciousness.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open holders P2 process-and-consciousness
@@ -1284,7 +1271,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
