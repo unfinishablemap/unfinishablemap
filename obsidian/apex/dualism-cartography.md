@@ -3,7 +3,7 @@ title: "Dualism Cartography"
 created: 2026-06-03
 modified: 2026-06-03
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-07-25T15:36:04+00:00
 draft: false
 topics:
   - "[[dualism]]"
@@ -43,7 +43,7 @@ apex_sources:
   - topics/the-interface-problem
   - concepts/conservation-laws-and-mental-causation
   - voids/interface-formalization-void
-apex_last_synthesis: 2026-06-03T15:40:00+00:00
+apex_last_synthesis: 2026-07-25T15:36:04+00:00
 apex_thesis: "A cluster of the Map's articles together forms a coordinated map of dualist positions and the distinct mechanism debts each one owes—a cartography that locates the Map's own region without claiming to adjudicate which position is correct."
 ---
 
@@ -127,6 +127,10 @@ Laid end to end, the cluster does something none of its members does alone: it t
 What unifies these into a single methodology is the refusal that runs through all of them: *map, do not adjudicate*. The grid does not argue any quadrant is correct. The overlay surfaces relative debts "without converting per-cell lightness on the chosen battery into endorsement." The parsimony case removes a barrier without installing dualism. The Map's region is marked as a posited commitment, its debts as costs rather than proofs. This coordinated restraint is not timidity; it is what makes the atlas usable. A reader who rejects the tenets can still use the grid to see that the conservation objection is thickness-sensitive, that Q2 and Q4 dualists owe non-overlapping bills, that the interface debt is cell-specific. A reader who accepts the tenets gets, in addition, a precise account of which region they have committed to and what it will cost to inhabit. Cartography serves both because it claims less than advocacy would—and, in claiming less, charts more.
 
 The atlas also names its own genre. The cell-by-cell cost reading instantiates a generalisable [[mechanism-costs-cartography|mechanism-costs cartography]]: take a prior locating taxonomy, expose every cell to a fixed battery of the questions the cells' critics press hardest, and read off cell-relative debts without converting any cell's lighter bill into endorsement. Dualism is the inaugural domain; the same discipline could chart theories of personal identity, or laws of nature, against their own fixed batteries. That the Map can name the method it is using, and bind future deployments to the same non-adjudicative rules, is part of what distinguishes this cartography from the hand-waving that has historically stood in for a map of the dualist terrain.
+
+## Evidence and Dependency
+
+Most of what this atlas delivers holds independently of the Map's commitments. The grid — two orthogonal thickness axes crossing the relation-kind axis — is a classificatory result a reader can accept while rejecting every tenet; its warrant is the demonstrable orthogonality (Nida-Rümelin and Descartes share a Chalmers type yet differ in mind-thickness), not the framework. The cost overlay is likewise independently argued: the three debts are pressed by the external literature — Kim's exclusion argument, Schaffer's trumping preemption, the conservation objection (Cucu and Pitts), Elisabeth's interface challenge — and read off each cell's own commitments. The parsimony reasoning rests on externally evidenced material (Huemer's survey, the historical record of false simpler theories, Lycan's concession), though the use the piece makes of it is inherited from Tenet 5. The frontier's constraints are externally evidenced (the ~10 bit/s bandwidth, Born-rule uniqueness, theta-band willed-attention signatures) while their interpretation stays open. Only the Map's *self-location* near Q1 is inherited — from Tenets 1 and 5, and named in-text as a posited commitment rather than a cartographic result.
 
 ## Relation to Site Perspective
 

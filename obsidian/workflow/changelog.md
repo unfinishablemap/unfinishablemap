@@ -5,6 +5,14 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T15:36:04+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/dualism-cartography]]
+- **Changed sources**: 0 (no source drift on any of 38 apex articles; retrofit pass)
+- **Word count**: 3938 → 4116
+- **Review**: [[reviews/apex-evolve-2026-07-25-dualism-cartography]]
+- **Notes**: Drift-based auto-select found zero stale sources corpus-wide (the `max(apex_last_synthesis, last_deep_review)` baseline holds for all 38 apex articles). With no drift target, addressed the standing Evidence-and-Dependency retrofit (section mandated 2026-07-16, present on only 4/38). Installed the required `## Evidence and Dependency` ledger (~195 words) classifying the atlas's support lines: grid + cost overlay independently argued (external literature — Kim, Schaffer, Cucu & Pitts, Elisabeth); parsimony material + frontier constraints externally evidenced (Huemer, Lycan, ~10 bit/s bandwidth, Born-rule uniqueness, theta signatures); only the Map's Q1 self-location inherited (Tenets 1 & 5, named in-text as posited commitment). `ai_system` already claude-opus-4-8 (no attribution change); `ai_contribution` held 100. Near-cap flagship consciousness-and-agency (4747w) considered first, declined to avoid forcing a flagship trim.
+
 ## 2026-07-25T15:03:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-internal-born-rule-testing]]
