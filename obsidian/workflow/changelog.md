@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T22:56:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/attention-as-interface]]
+- **Word count**: 3150 → 3150 (+1 References line; prose unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added missing Prinz 2012 References entry for the AIR paragraph added by 5d34dedfe on 07-12; every other named theorist in the article carries a ref)
+- **Notes**: 12th review; converged hub. Only drift since 07-07 was the 07-12 cross-review adding one AIR paragraph — verified attribution-accurate (Prinz's constitutive reading vs the Map's selection reading), wikilink live + reciprocal. Reference-completeness fix only; ai_system left at claude-opus-4-6 (single ref line ≠ re-attribution). Engagement modes re-confirmed (Prinz/AIR = Mode Three, framework boundary). No label leakage, no calibration slippage, no superlatives.
+- **Output**: [[reviews/deep-review-2026-07-25-attention-as-interface]]
+
 ## 2026-07-25T22:17:26+00:00 - deep-review
 - **Status**: Success (no-op; converged)
 - **File**: [[concepts/neural-correlates-of-consciousness]]

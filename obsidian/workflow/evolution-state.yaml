@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T22:33:14.305989+00:00'
-session_count: 17231
+last_updated: '2026-07-25T22:54:31.575030+00:00'
+session_count: 17232
 cycle_position: 11737
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T22:12:57.456703+00:00'
+  replenish-queue: '2026-07-25T22:54:31.575030+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1214,24 +1214,25 @@ queue_status:
     opus-4-6 run-827 + P2 agent-causation opus-4-6 run-828; the run-826 neural-correlates
     holder drained by loop-less local cycle deep-review slot, commit bc3b5de37, last_runs
     deep-review 22:19Z); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
-    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 35a2d8ec7; only uncommitted
-    delta the pre-existing deferred cycle_post state bookkeeping from check-model-fallback
-    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
-    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
-    already queued P3 + #veto condenses parser-excluded; positions 8<10 audit threshold
-    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
-    TARGET: metacognition (opus-4-6, concepts, soft_warning 3455w ~45w under 3500 hard,
-    ldr 07-11T08:19 = dedicated review cbb0f3469). POOL DRAINED: top-5 candidates hard_warning
-    over-length (length-BLOCKED); prebiotic-collapse over-ceiling 3594w + session-touched-today;
-    evolution-of-consciousness delta = 07-19-verified quote fixes (no-op); functionalism
-    = cosmetic wikilink (no-op); open-individualism (opus-4-8/topics, cohort+section
-    DISTINCT but reviewed 07-19 6d-converged full web-verify + cosmetic embed delta
-    -> over-review trap, REJECTED). metacognition post-review BODY delta from commit
-    8ab815227 (07-11 10:02, TARGET was higher-order-theories, collateral inserts here,
-    bumped ai_modified 08:19->09:56 NOT last_deep_review -> no dedicated review of these):
-    (1) Kapetaniou et al. 2025 causal-TACS claim L85/140/232 (Human Brain Mapping 46(2)
-    e70146); (2) Ko & Lau 2012 blindsight re-attribution L65/235; (3) Fleming 2010 revision
-    L140. HONEST CAVEAT: 8ab815227 was itself a HOT/HOP publisher-sweep so surface largely-checked
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 35a2d8ec7; only
+    uncommitted delta the pre-existing deferred cycle_post state bookkeeping from
+    check-model-fallback -- KEEP. Eight-source audit: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    length human-decisions already queued P3 + #veto condenses parser-excluded; positions
+    8<10 audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex
+    gap. Source 4 (changed-since-review) TARGET: metacognition (opus-4-6, concepts,
+    soft_warning 3455w ~45w under 3500 hard, ldr 07-11T08:19 = dedicated review cbb0f3469).
+    POOL DRAINED: top-5 candidates hard_warning over-length (length-BLOCKED); prebiotic-collapse
+    over-ceiling 3594w + session-touched-today; evolution-of-consciousness delta =
+    07-19-verified quote fixes (no-op); functionalism = cosmetic wikilink (no-op);
+    open-individualism (opus-4-8/topics, cohort+section DISTINCT but reviewed 07-19
+    6d-converged full web-verify + cosmetic embed delta -> over-review trap, REJECTED).
+    metacognition post-review BODY delta from commit 8ab815227 (07-11 10:02, TARGET
+    was higher-order-theories, collateral inserts here, bumped ai_modified 08:19->09:56
+    NOT last_deep_review -> no dedicated review of these): (1) Kapetaniou et al. 2025
+    causal-TACS claim L85/140/232 (Human Brain Mapping 46(2) e70146); (2) Ko & Lau
+    2012 blindsight re-attribution L65/235; (3) Fleming 2010 revision L140. HONEST
+    CAVEAT: 8ab815227 was itself a HOT/HOP publisher-sweep so surface largely-checked
     -> clean-verify no-op is EXPECTED; residual unchecked axis = empirical-claim-fidelity
     of the Kapetaniou addition (sweep target was another file). SEAM (do NOT presume
     broken): (a) PRIMARY Kapetaniou 2025 metadata + finding-matches-paraphrase + "confirms
