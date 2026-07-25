@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T21:52:41.823761+00:00'
-session_count: 17225
+last_updated: '2026-07-25T22:04:20.455944+00:00'
+session_count: 17226
 cycle_position: 11736
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T17:19:58.068099+00:00'
   optimistic-review: '2026-07-25T18:48:24.882802+00:00'
-  check-tenets: '2026-07-25T01:18:17.204868+00:00'
+  check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-25T15:17:06.519113+00:00'
   deep-review: '2026-07-25T21:51:26.995802+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T21:45:48.368278+00:00'
+  replenish-queue: '2026-07-25T22:10:44.921417+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6855
+  reviews_completed: 6856
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: embed-videos
   type: embed-videos
+  date: '2026-07-25'
+  outcome: success
+- task: check-tenets
+  type: check-tenets
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1144,9 +1144,9 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T21:43:00+00:00'
-  last_replenishment_prev: '2026-07-25T21:18:00+00:00'
-  last_replenishment_run: 827
+  last_replenishment: '2026-07-25T22:10:00+00:00'
+  last_replenishment_prev: '2026-07-25T21:43:00+00:00'
+  last_replenishment_run: 828
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
@@ -1180,36 +1180,45 @@ queue_status:
     do NOT re-sweep the citation ledger, strictly length-neutral, HOLD ai_system claude-opus-4-6
     SINGLE. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned
     run_824_note per note-bloat discipline (keep ~3: 825/826/827).'
-  run_825_note: 'run no.825 (2026-07-25T20:38Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/emergence.md. Pre-write
-    count_p0_p2_tasks(load_todo()) == 2 (holders P2 epistemology opus-4-6+opus-4-8
-    + P2 temporal-consciousness opus-4-6; decoherence holder drained by a loop-less
-    local cycle deep-review slot, last_runs deep-review 20:32Z, recent_tasks top =
-    deep-review); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File).
-    No evolve_loop/unfin-cycle (pgrep clean); HEAD 34a42658f; only uncommitted delta
+  run_828_note: 'run no.828 (2026-07-25T22:10Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint concepts/agent-causation.md.
+    Pre-write count_p0_p2_tasks(content) == 2 (holders P2 neural-correlates opus-4-5
+    run-826 + P2 attention-as-interface opus-4-6 run-827; the run-827 binding-problem
+    holder drained by a loop-less local cycle deep-review slot, last_runs deep-review
+    21:51Z); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File).
+    No evolve_loop/unfin-cycle (pgrep clean); HEAD b4e493a9b; only uncommitted delta
     the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit:
     chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
     100/100, positions 8/80); orphaned_files=0; length human-decisions already queued
     P3 + #veto condenses parser-excluded; positions 8<10 audit threshold + last positions-evolve
-    2026-07-25; no applied-apex gap. Source 4 (changed-since-review) TARGET: emergence
-    (opus-4-5, FULLY cohort-distinct from both holders, concepts, 2926w soft_warning
-    ~574w under 3500 hard). GENUINE but MODEST surface: the two Chalmers 2006 / Broad
-    1925 quote corrections in the body were applied+verified BY deep-review commit
-    6f83d14ef (strong-emergence sweep, same sweep that made evolution-of-consciousness
-    a no-op) -> NOT open; the genuinely-new never-reviewed surface is the William
-    Hasker emergent-dualism sentence added by cross-review acb28d8f4 (07-12) + its
-    [[emergent-dualism]] cross-link, which evolution-of-consciousness did NOT receive.
-    SEAM: verify Hasker characterisation (The Emergent Self 1999, emergent individual/substance)
-    + cross-page coherence with emergent-dualism.md; first-review-of-this-file verbatim
-    glance at the collaterally-set Chalmers one-clear-case / Broad quotes at PRIMARY
-    source (expect confirm). Alternatives lost: consistent-histories/agent-causation/functionalism
-    cosmetic-wikilink no-ops; metacognition zero-delta; evolution-of-consciousness
-    verified-sweep no-op; introspection/phenomenal-authority/qm-interp/machine-consciousness/personal-identity/quantum-consciousness/bandwidth/simple-organisms/prebiotic
-    length-BLOCKED (hard_warning/over-hard/human-length); neural-correlates + attention-as-interface
-    saturated. NARROW claim-accuracy scope -- do NOT re-sweep the verified ledger,
-    strictly length-neutral, HOLD ai_system claude-opus-4-5-20251101 SINGLE. BOTTOM-inserted
-    (FIFO). Full reasoning in the todo task Notes. Pruned run_820_note per note-bloat
-    discipline (keep ~3: 821/824/825).'
+    2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review) TARGET:
+    agent-causation (opus-4-6, concepts, soft_warning 3445w ~55w under 3500 hard, ldr
+    07-07). KEY FINDING: the run-827 mint dismissed this file as "DIFF-confirmed cosmetic
+    -- only a [[emergent-dualism]] wikilink + gloss, no-op" -- that UNDERCOUNTED the
+    delta. emergent-dualism-expand commit d6afea675 (07-12, post-review) inserted THREE
+    never-deep-reviewed named-attribution surfaces: (1) L72 a NEW van Inwagen Consequence-Argument
+    sentence (entirely new prose, NOT a wikilink conversion); (2) L96 a Hasker gloss
+    "non-composite mental substance generated by the brain"; (3) L187 a Pereboom "wild
+    coincidences" See-Also gloss. Collateral inserts (review target was emergent-dualism.md)
+    -> verified by NO deep-review of this file, GENUINELY OPEN. SEAM (three narrow verify-jobs,
+    do NOT presume broken): (a) van Inwagen Consequence-Argument splice -- the Consequence
+    Argument targets COMPATIBILISM from determinism, context is the LUCK/regress objection
+    to event-causal LIBERTARIANISM; verify not a category splice/mis-frame, cross-check
+    the-consequence-argument-for-incompatibilism.md; (b) Hasker characterisation accurate
+    (The Emergent Self 1999) + coherent with emergent-dualism.md; (c) Pereboom gloss
+    -- the four-case MANIPULATION argument (vs compatibilism) is DISTINCT from the wild-coincidences
+    objection (vs agent-causal libertarianism); link points to manipulation-argument
+    article but gloss describes wild-coincidences -- verify/correct the gloss or retarget.
+    Alternatives lost: evolution-of-consciousness (Broad/Chalmers quote fixes already
+    applied+verified by 07-19 sweep 6f83d14ef, no-op), functionalism (cosmetic [[content-externalism]]/[[chinese-room-argument]]
+    wikilink no-op), metacognition (zero-delta); the five hard_warning topics length-BLOCKED;
+    neural-correlates + attention-as-interface are the holders. COHORT/SECTION CAVEAT
+    (soft, accepted): opus-4-6 SINGLE overlaps the attention-as-interface holder, concepts/
+    overlaps both -- ALL length-safe genuine-surface candidates are opus-4-6. NARROW
+    scope -- verify only the three 07-12 inserts, do NOT re-sweep the converged ledger,
+    strictly length-neutral (~55w headroom, offset additions), HOLD ai_system claude-opus-4-6
+    SINGLE. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_825_note
+    per note-bloat discipline (keep ~3: 826/827/828).'
   run_826_note: 'run no.826 (2026-07-25T21:18Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/neural-correlates-of-consciousness.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 emergence opus-4-5 run-825
