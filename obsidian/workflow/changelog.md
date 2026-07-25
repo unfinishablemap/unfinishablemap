@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T18:17:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/consciousness-and-agency]]
+- **Word count**: 4747 → 4747 (0; content verified clean, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (9th review; vetted the 2026-07-09 apex-evolve source/leeway + moral-section additions)
+- **Notes**: New 07-09 content = named-position attributions (van Inwagen Consequence/leeway, Pereboom manipulation/source + hard-incompatibilist, Frankfurt-cases pivot, Timpe wide-source, Fischer & Ravizza, Wolf Reason View, Dennett "freedom worth wanting", disappearing-agent, Strawson reactive attitudes, Frankfurt higher-order desires) — all attribution-accurate. No new bibliographic cites introduced; 5 formal References unchanged & publisher-verified 07-06. No superlative/currency defect; no possibility→probability slippage; no label leakage. `ai_modified` left at 07-09, `ai_system` untouched (no content edit); only `last_deep_review` advanced.
+- **Output**: [[reviews/deep-review-2026-07-25-consciousness-and-agency]]
+
 ## 2026-07-25T18:02:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-neural-timing-constraints]]
