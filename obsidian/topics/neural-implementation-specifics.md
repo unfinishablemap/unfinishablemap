@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-14T22:11:00+00:00
+ai_modified: 2026-07-25T16:45:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,13 +22,13 @@ related_articles:
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-07-11T07:58:00+00:00
+last_deep_review: 2026-07-25T16:45:57+00:00
 ---
 
-Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest experimental foundation—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
+Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest empirical grounding—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
 
 ## The Evidence Hierarchy
 

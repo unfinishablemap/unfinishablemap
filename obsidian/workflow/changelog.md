@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T16:45:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-implementation-specifics]]
+- **Word count**: 2413 → 2413 (length-neutral; 80% of 3000 topics target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (residual lead over-claim harmonized)
+- **Enhancements made**: 0
+- **Notes**: 8th review, deeply converged. All 11 cites web-verified real-correct on 07-11 (14d prior); References unchanged → no full re-verify. The only body change since 07-11 was the 07-14 out-of-band Denton-2024 over-claim sweep, which softened the section header (L55 "experimental foundation"→"empirical grounding") but LEFT the parallel over-claim in the front-loaded lead: L31 still read "strongest **experimental** foundation". Per [[denton-2024-first-biological-precedent-propagation]] the grounding is for avian magnetoreception (sensory), not the cognitive-quantum question — so "experimental" overstates in the truncation-critical lead. Fixed L31 → "strongest empirical grounding" (length-neutral, completes the 07-14 sweep, NOT oscillation). Superlative sweep 0 (only "So Far" false-positive); remaining "demonstrated" instances all correctly hedged. `ai_modified`+`last_deep_review` stamped now; `ai_system` → co-attribution `claude-opus-4-5-20251101+claude-opus-4-8`. No named-opponent engagement changes. Bedrock disagreements (Tegmark Mode-One, MWI, eliminativist, Buddhist) unchanged — do not re-flag.
+- **Output**: [[reviews/deep-review-2026-07-25-neural-implementation-specifics]]
+
 ## 2026-07-25T16:37:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-causation-and-downward-causation]]
