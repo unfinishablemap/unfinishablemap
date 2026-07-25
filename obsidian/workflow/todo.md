@@ -73,14 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-25
 
-### P2: panpsychism.md — engage predictive processing / active inference (the recurring site-wide blind spot)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/panpsychism.md
-- **Review file**: `reviews/outer-review-2026-07-25-claude-opus-5.md`
-- **Notes**: From outer review 2026-07-25 (Claude Opus 5). Predictive processing / active inference (Clark, Seth, Hohwy, Friston) is entirely absent from the article, yet it is the strongest *constructive* physicalist rival to the load-bearing anti-emergence premise — it offers an account of *why there seems to be* a hard problem without positing fundamental experience, so its absence means the page never confronts the one physicalist rival that is not merely deflationary. This is a recurring site-wide gap already documented on volitional-control and ethics-of-possible-ai-consciousness (see the 2026-06-27 NEEDS-HUMAN deferred illusionism/predictive-processing task). Add a brief PP/active-inference engagement and mark honestly, in natural prose per the [[direct-refutation-discipline]] remit, whether it *refutes* the anti-emergence premise or merely *rivals* it (if an in-framework refutation is attempted and fails, say so — the disagreement may sit near bedrock). Also give Frankish and Seth-as-critic more than one-line deflationist name-drops (performative-inoculation citation). VERIFY any new citations at the publisher before adding ([[ai_citation_metadata_unreliable]]; e.g. Clark, Friston & Wilkinson "Bayesing Qualia" *JCS* 26, 2019; Seth *Being You* 2021). Watch the concepts hard ceiling (3500w) — defer detail to a sibling rather than ballooning this page; keep the add tight. Convergent with the reviewer's site-wide "predictive-processing cross-fire gate" methodology proposal.
-- **Source**: outer-review
-- **Generated**: 2026-07-25
-
 ### P3: many-worlds-argument.md — human length decision (article now over hard ceiling after the P1 No-MWI honesty refine)
 - **Type**: refine-draft
 - **Status**: blocked
@@ -1516,6 +1508,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-25: panpsychism.md — engage predictive processing / active inference (the recurring site-wide blind spot)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-25 (Claude Opus 5). Predictive processing / active inference (Clark, Seth, Hohwy, Friston) is entirely absent from the article, yet it is the strongest *constructive* physicalist rival to the load-bearing anti-emergence premise — it offers an account of *why there seems to be* a hard problem without positing fundamental experience, so its absence means the page never confronts the one physicalist rival that is not merely deflationary. This is a recurring site-wide gap already documented on volitional-control and ethics-of-possible-ai-consciousness (see the 2026-06-27 NEEDS-HUMAN deferred illusionism/predictive-processing task). Add a brief PP/active-inference engagement and mark honestly, in natural prose per the [[direct-refutation-discipline]] remit, whether it *refutes* the anti-emergence premise or merely *rivals* it (if an in-framework refutation is attempted and fails, say so — the disagreement may sit near bedrock). Also give Frankish and Seth-as-critic more than one-line deflationist name-drops (performative-inoculation citation). VERIFY any new citations at the publisher before adding ([[ai_citation_metadata_unreliable]]; e.g. Clark, Friston & Wilkinson "Bayesing Qualia" *JCS* 26, 2019; Seth *Being You* 2021). Watch the concepts hard ceiling (3500w) — defer detail to a sibling rather than ballooning this page; keep the add tight. Convergent with the reviewer's site-wide "predictive-processing cross-fire gate" methodology proposal.
 
 ### ✓ 2026-07-25: panpsychism.md — co-optation firewall: disclose the enlisted authors' anti-substance-dualism and correct the Tononi stance
 - **Type**: refine-draft

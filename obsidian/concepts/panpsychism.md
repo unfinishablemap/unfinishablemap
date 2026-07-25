@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-25T05:52:21+00:00
+ai_modified: 2026-07-25T06:36:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,13 +42,15 @@ last_deep_review: 2026-07-18T01:32:15+00:00
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
 
-The Unfinishable Map shares panpsychism's core insight—consciousness cannot emerge from wholly non-conscious matter—but reaches a different conclusion. Where panpsychism says consciousness *is* matter's intrinsic nature, the Map maintains consciousness and matter are distinct but interacting. Understanding both the agreements and disagreements clarifies what's at stake.
+The Unfinishable Map shares panpsychism's core insight—consciousness cannot emerge from wholly non-conscious matter—but reaches a different conclusion. Where panpsychism says consciousness *is* matter's intrinsic nature, the Map maintains consciousness and matter are distinct but interacting.
 
 ## The Anti-Emergence Argument
 
 Panpsychism's central motivation is negative: standard physicalism fails. The [[hard-problem-of-consciousness|hard problem]] argues that no amount of physical description—however complete—explains why there's something it's like to be a brain. Physical properties describe structure and function; consciousness is what structure and function are *for* someone. Not everyone accepts this framing—deflationists like Dennett and illusionists like Frankish argue that the "hard problem" inflates first-person intuitions into a metaphysical barrier, and that consciousness may be real without being what we naively think it is. Panpsychism (and the Map) depend on taking the hard problem seriously—a substantive commitment, not a settled fact.
 
 How does consciousness arise from unconscious matter? Panpsychists argue it can't—at least not intelligibly. Galen Strawson puts it sharply: "Emergence can't be brute." If consciousness emerges from the non-conscious, there should be some explanation of the transition. But none seems possible: physical descriptions are third-person, consciousness first-person, and the gap appears unbridgeable. A Dennettian response holds that experiential-from-non-experiential emergence is perfectly intelligible once we stop treating first-person intuitions as metaphysical data—just as liquidity emerges from non-liquid molecules. Panpsychists and dualists find this deflationary move unsatisfying, but it is a serious position.
+
+Predictive processing and active inference (Clark, Seth, Hohwy, Friston) supply the strongest *constructive* physicalist rival—the constructive cousin of Frankish's illusionism rather than Dennett's bare deflation. Treating the brain as a hierarchical prediction engine, Clark, Friston and Wilkinson's "Bayesing qualia" (2019) targets the *meta-problem*—why there *seems* to be a hard problem—arguing the felt gap is itself an inference the system draws about its own mid-level representations, needing no fundamental experience. Anil Seth's "real problem" (Seth 2021) likewise recasts the task as explaining, predicting and controlling phenomenal properties rather than confronting a metaphysical residue. This rival cuts both ways: if the *appearance* of a gap is all that needs explaining, predictive processing dissolves the premise the Map and panpsychism share; if experience itself—not merely the disposition to report it—is the explanandum, it relocates the gap rather than closing it. That question sits near bedrock, and predictive processing asserts more than it establishes that reports exhaust the explanandum—so on the Map's reading it rivals the anti-emergence premise without refuting it.
 
 The Map agrees with the panpsychist diagnosis. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes precisely because the explanatory gap cannot be closed—it isn't the sort of thing that emerges from arrangements of unconscious matter.
 
@@ -139,8 +141,6 @@ Despite disagreeing on the solution, the Map affirms panpsychism's key insights:
 
 2. **Physicalism fails, the hard problem is real, and consciousness must be taken seriously**: No physical description captures what consciousness is; the hard problem is not dissolved by functionalism or eliminativism; and experience is not an illusion or "just" information processing.
 
-The disagreement is about *how* consciousness is fundamental—as the intrinsic nature of all matter, or as a distinct category that interacts with matter.
-
 ## Analytic Idealism: An Alternative to Panpsychism
 
 [[idealism|Analytic idealism]], developed by Bernardo Kastrup, is another anti-physicalist alternative sharing panpsychism's rejection of emergence but reaching a different conclusion. (For a systematic comparison of panpsychism, idealism, [[cosmopsychism]], and dual-aspect monism, see [[analytic-idealism-and-mind-centric-metaphysics|the mind-centric metaphysics survey]].) Where panpsychism says every particle has micro-experience, idealism says there is one universal consciousness whose extrinsic appearance is the physical world—particles and objects included—rather than a population of subjects; individual minds are its dissociated *alters*, on the analogy of dissociative identity disorder.
@@ -149,7 +149,7 @@ Idealism claims to solve the combination problem by inverting it: rather than as
 
 This puts panpsychism in a difficult position: if the combination problem is as hard as the hard problem it was meant to solve, and idealism avoids it, why not accept idealism? The panpsychist might respond that dissociation at cosmic scale is equally mysterious—DID involves a brain already functioning as a unified system, so applying it to universal consciousness is a large extrapolation.
 
-The Map's interactionist framework avoids both *constitutive* combination (consciousness doesn't emerge from micro-experiences) and the dissociation problem (individual consciousnesses are genuinely distinct, not fragments of a cosmic mind), though it still owes the interface-unity account noted above. But this comes at the cost of the interaction problem—a challenge the Map proposes to address through quantum indeterminacy, though this mechanism remains speculative and faces significant objections (see [[#key-differences|Key Differences]] for details).
+The Map's interactionist framework avoids the dissociation problem (individual consciousnesses are genuinely distinct, not fragments of a cosmic mind) as well as *constitutive* combination, though it still owes the interface-unity account noted above. But this comes at the cost of the interaction problem (see [[#key-differences|Key Differences]]).
 
 ## Integrated Information Theory: A Scientific Panpsychism?
 
@@ -175,7 +175,7 @@ Panpsychism is difficult to test directly, though not uniquely so—every fundam
 
 ## Evaluating the Positions
 
-The choice between panpsychism and interactionist dualism turns on which problem seems more tractable: combination or interaction. Each view buys relief from one challenge at the price of the other. The Map's quantum indeterminacy proposal is one attempt to discharge the interaction debt, but it remains speculative, facing the same demand for empirical evidence any interaction mechanism must meet.
+The choice between panpsychism and interactionist dualism turns on which problem seems more tractable: combination or interaction, each view buying relief from one challenge at the price of the other.
 
 The decision also depends on which intuitions seem more reliable: that rocks have no experience at all, or that genuinely distinct substances can interact.
 
@@ -185,9 +185,9 @@ The [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]] adds a second axis
 
 The Map's framework is closer to dualism than panpsychism, yet the two share more than either shares with physicalism. The [[tenets|tenets]] establish consciousness as irreducible and causally efficacious—claims panpsychism largely endorses.
 
-If forced to choose between panpsychism and standard physicalism, the Map would choose panpsychism: consciousness *is* fundamental and the hard problem *is* insoluble by physicalist means. Panpsychism sees this clearly.
+If forced to choose between panpsychism and standard physicalism, the Map would choose panpsychism: consciousness *is* fundamental and the hard problem *is* insoluble by physicalist means.
 
-But the Map thinks interactionist dualism offers a cleaner solution: consciousness influences matter without being identical to it, the quantum level may provide room for this influence without violating physics (an open research question, not a settled answer), and the framework need not attribute experience to fundamental particles.
+But the Map thinks interactionist dualism offers a cleaner solution: consciousness influences matter without being identical to it, the quantum level may provide room for this influence without violating physics (an open research question), and the framework need not attribute experience to fundamental particles.
 
 ## Further Reading
 
@@ -217,12 +217,14 @@ But the Map thinks interactionist dualism offers a cleaner solution: consciousne
 1. Antonopoulos, C. G., Fokas, A. S., & Bountis, T. (2015). Dynamical Complexity in the C. elegans Neural Network. arXiv:1510.07260.
 1. Baysan, U. (2024). Does Panpsychism Explain Mental Causation? *Erkenntnis*. https://doi.org/10.1007/s10670-024-00816-5
 1. Chalmers, D. (2015). Panpsychism and Panprotopsychism. In *Consciousness in the Physical World*. Oxford University Press.
+1. Clark, A., Friston, K., & Wilkinson, S. (2019). Bayesing Qualia: Consciousness as Inference, Not Raw Datum. *Journal of Consciousness Studies*, 26(9-10), 19-33.
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74–78. https://doi.org/10.1038/s41567-020-1008-4
 1. Frankish, K. (2021). Panpsychism and the Depsychologization of Consciousness. *Aristotelian Society Supplementary Volume*, 95(1), 51–70.
 1. Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon.
 1. Nagel, T. (1979). Panpsychism. In *Mortal Questions*. Cambridge University Press.
 1. Nagel, T. (2012). *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*. Oxford University Press.
 1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
+1. Seth, A. (2021). *Being You: A New Science of Consciousness*. Faber & Faber.
 1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 1. Tononi, G., & Koch, C. (2015). Consciousness: Here, There and Everywhere? *Philosophical Transactions of the Royal Society B*, 370(1668), 20140167. https://doi.org/10.1098/rstb.2014.0167
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

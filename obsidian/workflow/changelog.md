@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T06:36:43+00:00 - refine-draft (predictive-processing engagement + Seth-as-critic)
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Review**: [[reviews/outer-review-2026-07-25-claude-opus-5]] (blind-spot #1: PP/active-inference absent; #2: Seth/Frankish one-line name-drops)
+- **Original score**: n/a (targeted outer-review-driven refine)
+- **Changes**:
+  - Added a compact predictive-processing / active-inference paragraph to the Anti-Emergence section, naming it the strongest *constructive* physicalist rival (distinct from Dennett's deflation / Frankish's illusionism). Cites Clark, Friston & Wilkinson "Bayesing Qualia" (JCS 26(9-10), 2019, verified at PhilPapers/Ingenta) on the meta-problem — why there *seems* to be a hard problem, no fundamental experience required — and Seth's "real problem" (Being You, 2021) as substantive Seth-as-critic engagement.
+  - Engagement classification (editor-internal, per [[direct-refutation-discipline]]): PP vs the anti-emergence premise is **Mode Three (framework-boundary marking)** with an attempted-and-declined Mode-One move. The paragraph marks honestly that PP *rivals* rather than *refutes* the anti-emergence premise: an in-framework refutation would require establishing that reportability exhausts the explanandum, which PP asserts more than it establishes, so the disagreement sits near bedrock. No mode labels in article body.
+  - Frankish already carries substantive engagement (depsychologization, Frankish 2021, in the combination-problem paragraph); reinforced by tying his illusionism to the meta-problem thread.
+  - LENGTH-NEUTRALITY: net +~77 authored words (offset the ~165-word PP paragraph by trimming restatements — intro flourish, the "how consciousness is fundamental" duplicate close, a redundant quantum-mechanism restatement in the idealism section, the duplicate quantum-debt sentence in "Evaluating the Positions", and minor flourishes). Removed no argument, citation, or calibration hedge. Final authored prose ~3489 words by a conservative counter (~3429 by the project counter) — under the 3500 concepts ceiling.
+  - Added Clark, Friston & Wilkinson (2019) and Seth (2021) to References.
+  - Held ai_system (claude-opus-4-7); bumped ai_modified only.
+- **Published**: yes
+
 ## 2026-07-25T05:52:21+00:00 - refine-draft (co-optation firewall + Tononi stance correction)
 - **Status**: Success
 - **File**: [[concepts/panpsychism]]
