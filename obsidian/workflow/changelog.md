@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T14:03:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-reference-paradox]]
+- **Word count**: 2562 → 2562 (0) — length-neutral (year-digit swap)
+- **Critical issues addressed**: 1 — Michel calibration cite year drift: 07-07 pass silently changed "Michel (2021)" → "(2023)" at both loci (inline + Ref 11), undocumented and contradicting its own ledger; web-verified canonical year is 2021 (author's own listing + DOI online-first; corpus majority uses 2021 in [[voids/observation-and-measurement-void]] + research notes). Reverted both loci for family-resolution consistency. Print issue is vol 88(2), 2023 — not the corpus form.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 9th review)
+- **Output**: [[reviews/deep-review-2026-07-25-self-reference-paradox]]
+
 ## 2026-07-25T13:46:49+00:00 - deep-review
 - **Status**: Success (no-op convergence confirmation)
 - **File**: [[topics/attention-and-the-consciousness-interface]]
