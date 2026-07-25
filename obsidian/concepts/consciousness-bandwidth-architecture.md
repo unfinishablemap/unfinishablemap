@@ -6,7 +6,7 @@ modified: 2026-05-26
 human_modified: null
 ai_modified: 2026-07-16T13:04:22+00:00
 draft: false
-last_deep_review: 2026-07-11T09:29:00+00:00
+last_deep_review: 2026-07-25T11:31:30+00:00
 topics:
   - "[[bandwidth-of-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
