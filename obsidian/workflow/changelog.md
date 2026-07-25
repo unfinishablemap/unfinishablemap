@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T23:17:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Word count**: 3445 → 3445 (no prose change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op)
+- **Output**: [[reviews/deep-review-2026-07-25-agent-causation]]
+- **Notes**: 9th deep review; converged hub concept. Only drift since 07-07 review was four verified-faithful cross-link installs to newly-created agency-cluster articles: van Inwagen Consequence Argument back-cite (Agent-vs-Event §), emergent-dualism link + gloss (Major Defenders §, near-verbatim to target), and two Further-Reading entries (event-causal-libertarianism, manipulation-argument — the latter's "wild coincidences" prong confirmed at target §51/53/69). No new citations (07-07 publisher-of-record ledger stands), 0 superlatives, calibration register unchanged, no editor-vocab leakage. Reasoning modes unchanged (Kim: Mode Two; Mele luck: Mode One; MWI: Mode Three). Length 3445 = 138% of 2500 soft, below 3500 hard — accreted-cross-link watch item, a crossing of 3500 is a human length decision. No-op discipline: only last_deep_review advanced (07-07→07-25); ai_modified held at HEAD 07-12T09:26:06 ([[deep-review-fork-bumps-ai-modified-on-noop]]).
+
 ## 2026-07-25T23:13:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/introspection-architecture-independence-scoring]]
