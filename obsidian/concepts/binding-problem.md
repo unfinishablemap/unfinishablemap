@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-07-18T00:57:00+00:00
+ai_modified: 2026-07-25T21:49:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,10 +52,10 @@ related_articles:
   - "[[quantum-biology-and-neural-mechanisms]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-07-11T17:23:45+00:00
+last_deep_review: 2026-07-25T21:49:23+00:00
 coalesced_from:
   - "/concepts/phenomenal-binding/"
   - "/concepts/phenomenal-unity/"
@@ -104,7 +104,7 @@ Researchers acknowledge this gap explicitly: phenomenology and neural integratio
 
 ### The Zero-Lag Synchrony Problem
 
-Baum's Quantum Binding Argument identifies a specific empirical problem: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. Some propose thalamic pacemakers as a classical explanation, but entrainment typically produces near-zero lag (within a few milliseconds) rather than the sub-millisecond precision observed. This argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024); for the peer-reviewed classical account of zero-lag synchrony and a calibrated assessment, see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]].
+Baum's Quantum Binding Argument frames a specific puzzle: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) can lock into near-zero phase lag even though neural transmission across that distance takes tens of milliseconds. Baum argues that classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. This premise is contested rather than established: mainstream classical neuroscience accounts for zero-lag synchrony through *dynamical relaying*, in which two distant populations reciprocally coupled to a shared cortico-cortical or thalamo-cortical hub self-organize into zero-lag synchrony despite long delays, because the hub redistributes the conduction delays symmetrically. Baum's argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024); for the peer-reviewed classical account of zero-lag synchrony and a calibrated assessment of what it does and does not license, see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]].
 
 For the full philosophical argument that this structural failure is in principle, not merely a gap in current knowledge, see [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]].
 
@@ -166,7 +166,7 @@ Experimental work has moved from theoretical possibility toward direct support:
 - **Microtubule-anesthesia link (Khan et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & López Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
 - **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was challenged by Hagan et al. (2002), who derived 10⁻⁵ to 10⁻⁴ seconds—but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn, so the dispute is live rather than settled either way. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
-- **Relativistic constraint (Baum, 2024):** Zero-lag gamma synchrony cannot arise classically without violating relativistic causality, pointing toward quantum non-locality.
+- **Relativistic constraint (Baum, 2024):** Baum argues that zero-lag gamma synchrony cannot arise classically without violating relativistic causality, which he reads as pointing toward quantum non-locality. The inference is contested—classical dynamical-relaying models reproduce zero-lag synchrony despite long conduction delays—so this is a live argument rather than settled evidence (see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]).
 
 None of this proves quantum unity generates phenomenal unity. But three converging lines—pharmacological predictions confirmed, imaging signatures detected, classical mechanisms physically constrained—shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns." The broader [[testing-consciousness-collapse|experimental landscape for consciousness-collapse]] surveys where these and related predictions stand.
 

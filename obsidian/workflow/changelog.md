@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T21:49:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/binding-problem]]
+- **Word count**: ~3070 → 3140 (+~70; load-bearing calibration content, well under concepts hard 3500)
+- **Critical issues addressed**: 1 (Baum "classical cannot achieve zero-lag synchrony" over-claim asserted as fact at two loci — §Zero-Lag Synchrony Problem and §Experimental Evidence bullet; reframed as Baum's *contested* premise with the classical dynamical-relaying rebuttal (Vicente 2008 / Viriyopase 2012) stated inline, matching the corpus's own calibrated sibling [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]. The 07-18 edit had added a pointer to the sibling but left the own-voice assertions standing.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (22nd review; converged). Web-verified the one citation changed since the 07-11 full ledger: Revonsuo 1999 (Cons. Cogn. 8(2):173-185, doi:10.1006/ccog.1999.0393 — DOI resolves to Elsevier PII S1053810099903938) — the 07-18 change 2006→1999 is a faithful correction, marked real-correct. Reasoning-mode engagements unchanged (illusionist Mode One+Two; eliminativist/MWI/Buddhist Mode Three bedrock, not re-flagged). ai_system co-attributed claude-opus-4-6+claude-opus-4-8.
+- **Output**: [[reviews/deep-review-2026-07-25-binding-problem]]
+
 ## 2026-07-25T21:24:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/emergence]]
