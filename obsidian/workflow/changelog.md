@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T17:02:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/open-question-ai-consciousness]]
+- **Word count**: 4881 → 4881 (whitespace-only; soft_warning, 119w under 5000 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (style: fixed the only 2 unspaced em-dashes in the article, introduced by the 07-20 refine, against a uniform 103× spaced " — " convention)
+- **Output**: [[reviews/deep-review-2026-07-25-open-question-ai-consciousness]]
+- **Notes**: 7th deep review, deeply converged apex. Since the 07-11 full web-verify pass the article took two outer-review refine-drafts (07-16 gaming-problem/Butlin-co-optation, 07-20 scoping the negative verdict to *bidirectionally-coupled* consciousness) — both verified calibration-improving, neither adds a new cite. §2.4 web-verify satisfied by the byte-identical 07-11 ledger (every body cite-year maps to a ledger entry; no orphans). Superlative sweep empty; calibration diagnostic PASS on all passages (incl. the new datum-borrowing sentence at L79, a clean Mode-Three move). No boundary-substitution, no label leakage. `ai_system` UNCHANGED (claude-opus-4-6) — whitespace fix is not re-authoring. Bedrock disagreements (eliminativist, MWI, functionalist state-selection, Duch identity-theoretic) stand — do not re-flag.
+
 ## 2026-07-25T16:45:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neural-implementation-specifics]]
