@@ -1,5 +1,9 @@
-last_updated: '2026-07-25T06:55:41.716090+00:00'
-session_count: 17105
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-25T07:02:08.069253+00:00'
+session_count: 17106
 cycle_position: 11683
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-25T06:19:03.582291+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-22T23:46:20.484231+00:00'
-  agentic-social: '2026-07-25T07:01:57.088906+00:00'
+  agentic-social: '2026-07-25T07:02:08.069253+00:00'
   embed-videos: '2026-07-25T00:47:11.924379+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
@@ -97,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-07-25'
@@ -175,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1154,120 +1158,115 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_793_note: "run no.793 (2026-07-25T06:52Z, interactive /replenish-queue): SINGLE\
-    \ EXACT-floor +1 staleness deep-review mint \u2014 topics/history-of-the-interaction-problem.md.\
-    \ Authoritative pre-write count_p0_p2_tasks == 2 (holders: P2 transformative-experience-void\
-    \ L1491 run-791 + P2 single-cell-proto-agency L1498 run-792). Queue dropped 3->2\
-    \ since run-792 as the local (loop-less) cycle picked+completed run-790's holder\
-    \ interventionist-and-counterfactual-dualism (HEAD 1f412116e auto(deep-review)).\
-    \ Below floor 3, == 3 after (tool-verified post-write == 3; new mint parsed deep-review\
-    \ with Type+File lines present). No evolve_loop/cycle process (pgrep clean); HEAD\
-    \ 1f412116e; only uncommitted delta the pre-existing deferred cycle_post state\
-    \ bookkeeping (KEEP). Eight-source audit LIVE: chains/unconsumed-research/gap\
-    \ BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;\
-    \ LENGTH epistemology-of-convergence-arguments.md STANDING HUMAN DECISION in ##\
-    \ Blocked (target 2446w topics ok, length-neutral); positions 8<10 audit threshold\
-    \ + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates\
-    \ top scores are apex-articles.md governance hub + positions/ register files (via\
-    \ positions-evolve). Candidate #0 single-cell already L1498 holder; transformative-experience-void\
-    \ already L1491 holder. Chose history-of-the-interaction-problem (12.73, 14d):\
-    \ the FEWEST review sidecars in the top cohort (4 vs self-minimal 6 / cross-traditional\
-    \ 7 over-reviewed / musical 5 / consciousness-disruption 5), older claude-opus-4-6\
-    \ cohort, the pool's largest citation-dense historical survey (22 year-citations,\
-    \ ~36 refs = biggest UNCHECKED verify surface). Post-review 07-11->07-14 delta\
-    \ is cosmetic cross-review wikilink conversions only (quantum-divine-action, logical-behaviourism),\
-    \ so a STALENESS pick justified by unverified surface not by a change. Lenses:\
-    \ verbatim quote-fidelity (Elisabeth of Bohemia quote at primary text NOT self-page),\
-    \ citation-metadata at publisher, citation-framing (historical figures framed\
-    \ for the position they held), currency. ai_system claude-opus-4-6 (SINGLE older\
-    \ cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. TOPICS /\
-    \ history-of-interaction / causal-closure cluster \u2014 DISTINCT from both holders.\
-    \ NOT queued (3 grep-hit headings all checkmark-completed 07-11/06-05/05-26) /\
-    \ vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-14).\
-    \ EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_790_note per\
-    \ note-bloat discipline (keep ~3: 791/792/793)."
-  run_792_note: "run no.792 (2026-07-25T06:42Z, interactive /replenish-queue): SINGLE\
-    \ EXACT-floor +1 staleness deep-review mint \u2014 topics/single-cell-proto-agency-and-the-evidence-problem.md.\
-    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:\
-    \ P2 \"Deep review interventionist-and-counterfactual-dualism\" L1485 [run-790]\
-    \ + P2 \"Deep review transformative-experience-void\" L1499 [run-791]). Queue\
-    \ dropped 3->2 since run-791 as the loop picked+completed run-791's other holder,\
-    \ the P2 refine panpsychism.md engage-predictive-processing (HEAD 792eecf72 auto(refine-draft)).\
-    \ Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint\
-    \ parsed deep-review with Type+File lines present per replenish-mints-task-missing-type-line).\
-    \ No evolve_loop process (pgrep clean); HEAD 792eecf72; only uncommitted state\
-    \ delta is the pre-existing deferred cycle_post bookkeeping from that refine (KEEP\
-    \ per orphaned-cyclepost-state-advance-in-worktree). Eight-source audit LIVE:\
-    \ chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids\
-    \ 100/100, positions 8/80); orphaned_files=0; LENGTH offender epistemology-of-convergence-arguments.md\
-    \ is a STANDING HUMAN LENGTH DECISION in ## Blocked (target 2221w topics ok, length-neutral);\
-    \ positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no\
-    \ applied-apex gap. TARGET: get_review_candidates top scores are apex-articles.md\
-    \ governance hub (110) + positions/ register files (107-109, via positions-evolve\
-    \ not deep-review); the two 13.8 content candidates are interventionist (already\
-    \ L1485 holder) and single-cell-proto-agency (the top UN-QUEUED distinct candidate);\
-    \ transformative-experience-void (30.5) already L1499 holder; the 12.7-12.9 candidates\
-    \ carry cosmetic cross-review wikilink deltas only. Chose single-cell (13.8):\
-    \ last_deep_review 2026-07-16 (9d), ai_contribution 100, only 1 prior review sidecar\
-    \ (NOT over-reviewed), post-review delta a single cosmetic cross-review wikilink\
-    \ (commit b40485f6a) so this is a STALENESS pick justified by an unverified surface\
-    \ \u2014 9 external citations (Robinson/EMBO 2024, Keegstra/eLife, Sneddon+Yi/PNAS,\
-    \ Watson/Biological-Theory, MacDermott/arXiv-NeurIPS, Birch-Ginsburg-Jablonka,\
-    \ Brancazio, Lyon) checked only once at 07-16 creation + 2 Map self-cite pseudonyms\
-    \ (Oquatre-huit/sept \u2014 do NOT strip). Lenses: citation-metadata at publisher\
-    \ (NOT via own page), verbatim quote-fidelity on the Robinson dissenting-opinion\
-    \ title, empirical-claim fidelity on the chemotaxis/perfect-adaptation/UAL paraphrases,\
-    \ currency. ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim), draft:false.\
-    \ TOPICS / single-cell / minimal-biogenic-cognition cluster \u2014 DISTINCT from\
-    \ both holders (interventionist topics/causation + transformative-experience voids).\
-    \ NOT queued (parse_tasks zero active target; 26 grep hits are completed/prose)\
-    \ / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-16).\
-    \ EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_789_note per\
-    \ note-bloat discipline (keep ~3: 790/791/792)."
-  run_791_note: "run no.791 (2026-07-25T06:09Z, interactive /replenish-queue): SINGLE\
-    \ EXACT-floor +1 staleness deep-review mint \u2014 voids/transformative-experience-void.md.\
-    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:\
-    \ P2 refine \"panpsychism.md \u2014 engage predictive processing\" L76 [leftover\
-    \ from today's coordinated panpsychism pass] + P2 \"Deep review interventionist-and-counterfactual-dualism\"\
-    \ L1493 [run-790 mint]). Queue dropped 3->2 since run-790 as the loop completed\
-    \ the two older holders (living-with-the-map + ai-consciousness-typology) while\
-    \ panpsychism-engage-PP surfaced as one new counted holder. Below floor 3, ==\
-    \ 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed as deep-review\
-    \ with Type+File lines present per replenish-mints-task-missing-type-line). No\
-    \ evolve_loop process (pgrep clean); HEAD f4786e984; only uncommitted delta the\
-    \ pre-existing evolution-state.yaml deferred cycle_post bookkeeping (KEEP). Eight-source\
-    \ audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts\
-    \ 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the one article\
-    \ offender epistemology-of-convergence-arguments.md (6533w >6000 crit) is a STANDING\
-    \ HUMAN LENGTH DECISION in ## Blocked Tasks \u2014 NOT re-litigated (target here\
-    \ 2721w void under 3000 hard, length-neutral); positions 8<10 audit threshold\
-    \ + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates\
-    \ top scores are apex-articles.md governance hub (110) + positions/ register files\
-    \ (107-109, via positions-evolve not deep-review); interventionist (13.8) is already\
-    \ the L1493 holder; the remaining 12.7-12.9 content candidates (the-self-minimal\
-    \ / cross-traditional / consciousness-disruption) carry ONLY cosmetic cross-review\
-    \ wikilink deltas (diff-verified consciousness-disruption 07-16 = bare hemispherectomy\
-    \ wikilink conversion, 07-11 Cogitate/Melloni citation fix already landed). Chose\
-    \ transformative-experience-void (30.5, top genuine content candidate): last_deep_review\
-    \ 2026-06-26 = 29d (30d-due tomorrow), ai_contribution 100, only post-review delta\
-    \ embed-videos boilerplate, but REAL unverified surface \u2014 quotes L. A. Paul\
-    \ verbatim (2014/2015 authenticity-constraint) + cites Pettigrew/Harman/Jackson,\
-    \ none verbatim-checked in ~29d. Lenses: verbatim quote-fidelity at primary text\
-    \ (NOT via own page), citation-metadata at publisher, currency (\"most influential\"\
-    \ superlative), empirical-claim fidelity on adaptation paraphrase. ai_system claude-opus-4-7\
-    \ (SINGLE older cohort, HOLD verbatim), draft:false. VOIDS / transformative-experience\
-    \ cluster \u2014 DISTINCT from both holders (panpsychism concepts/combination\
-    \ + interventionist topics/causation). NOT queued (all transformative-experience\
-    \ heading hits checkmark-completed; parse_tasks zero active target) / vetoed /\
-    \ session-touched (git --since 2026-07-25T00:00 empty; last touch 07-22 embed).\
-    \ EOF clean (Southgate & Oquatre-sept self-cite pseudonyms \u2014 do NOT strip),\
-    \ no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_788_note per note-bloat\
-    \ discipline (keep ~3: 789/790/791)."
+  run_793_note: 'run no.793 (2026-07-25T06:52Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — topics/history-of-the-interaction-problem.md.
+    Authoritative pre-write count_p0_p2_tasks == 2 (holders: P2 transformative-experience-void
+    L1491 run-791 + P2 single-cell-proto-agency L1498 run-792). Queue dropped 3->2
+    since run-792 as the local (loop-less) cycle picked+completed run-790''s holder
+    interventionist-and-counterfactual-dualism (HEAD 1f412116e auto(deep-review)).
+    Below floor 3, == 3 after (tool-verified post-write == 3; new mint parsed deep-review
+    with Type+File lines present). No evolve_loop/cycle process (pgrep clean); HEAD
+    1f412116e; only uncommitted delta the pre-existing deferred cycle_post state bookkeeping
+    (KEEP). Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics
+    320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH
+    epistemology-of-convergence-arguments.md STANDING HUMAN DECISION in ## Blocked
+    (target 2446w topics ok, length-neutral); positions 8<10 audit threshold + last
+    positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates
+    top scores are apex-articles.md governance hub + positions/ register files (via
+    positions-evolve). Candidate #0 single-cell already L1498 holder; transformative-experience-void
+    already L1491 holder. Chose history-of-the-interaction-problem (12.73, 14d): the
+    FEWEST review sidecars in the top cohort (4 vs self-minimal 6 / cross-traditional
+    7 over-reviewed / musical 5 / consciousness-disruption 5), older claude-opus-4-6
+    cohort, the pool''s largest citation-dense historical survey (22 year-citations,
+    ~36 refs = biggest UNCHECKED verify surface). Post-review 07-11->07-14 delta is
+    cosmetic cross-review wikilink conversions only (quantum-divine-action, logical-behaviourism),
+    so a STALENESS pick justified by unverified surface not by a change. Lenses: verbatim
+    quote-fidelity (Elisabeth of Bohemia quote at primary text NOT self-page), citation-metadata
+    at publisher, citation-framing (historical figures framed for the position they
+    held), currency. ai_system claude-opus-4-6 (SINGLE older cohort, HOLD verbatim
+    on no-op), ai_contribution 100, draft:false. TOPICS / history-of-interaction /
+    causal-closure cluster — DISTINCT from both holders. NOT queued (3 grep-hit headings
+    all checkmark-completed 07-11/06-05/05-26) / vetoed / session-touched (git --since
+    2026-07-25T00:00 empty; last touch 07-14). EOF clean, no [1m] artifact. BOTTOM-inserted
+    (FIFO). Pruned run_790_note per note-bloat discipline (keep ~3: 791/792/793).'
+  run_792_note: 'run no.792 (2026-07-25T06:42Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — topics/single-cell-proto-agency-and-the-evidence-problem.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
+    P2 "Deep review interventionist-and-counterfactual-dualism" L1485 [run-790] +
+    P2 "Deep review transformative-experience-void" L1499 [run-791]). Queue dropped
+    3->2 since run-791 as the loop picked+completed run-791''s other holder, the P2
+    refine panpsychism.md engage-predictive-processing (HEAD 792eecf72 auto(refine-draft)).
+    Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint
+    parsed deep-review with Type+File lines present per replenish-mints-task-missing-type-line).
+    No evolve_loop process (pgrep clean); HEAD 792eecf72; only uncommitted state delta
+    is the pre-existing deferred cycle_post bookkeeping from that refine (KEEP per
+    orphaned-cyclepost-state-advance-in-worktree). Eight-source audit LIVE: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    LENGTH offender epistemology-of-convergence-arguments.md is a STANDING HUMAN LENGTH
+    DECISION in ## Blocked (target 2221w topics ok, length-neutral); positions 8<10
+    audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex gap.
+    TARGET: get_review_candidates top scores are apex-articles.md governance hub (110)
+    + positions/ register files (107-109, via positions-evolve not deep-review); the
+    two 13.8 content candidates are interventionist (already L1485 holder) and single-cell-proto-agency
+    (the top UN-QUEUED distinct candidate); transformative-experience-void (30.5)
+    already L1499 holder; the 12.7-12.9 candidates carry cosmetic cross-review wikilink
+    deltas only. Chose single-cell (13.8): last_deep_review 2026-07-16 (9d), ai_contribution
+    100, only 1 prior review sidecar (NOT over-reviewed), post-review delta a single
+    cosmetic cross-review wikilink (commit b40485f6a) so this is a STALENESS pick
+    justified by an unverified surface — 9 external citations (Robinson/EMBO 2024,
+    Keegstra/eLife, Sneddon+Yi/PNAS, Watson/Biological-Theory, MacDermott/arXiv-NeurIPS,
+    Birch-Ginsburg-Jablonka, Brancazio, Lyon) checked only once at 07-16 creation
+    + 2 Map self-cite pseudonyms (Oquatre-huit/sept — do NOT strip). Lenses: citation-metadata
+    at publisher (NOT via own page), verbatim quote-fidelity on the Robinson dissenting-opinion
+    title, empirical-claim fidelity on the chemotaxis/perfect-adaptation/UAL paraphrases,
+    currency. ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim), draft:false.
+    TOPICS / single-cell / minimal-biogenic-cognition cluster — DISTINCT from both
+    holders (interventionist topics/causation + transformative-experience voids).
+    NOT queued (parse_tasks zero active target; 26 grep hits are completed/prose)
+    / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-16).
+    EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_789_note per note-bloat
+    discipline (keep ~3: 790/791/792).'
+  run_791_note: 'run no.791 (2026-07-25T06:09Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — voids/transformative-experience-void.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
+    P2 refine "panpsychism.md — engage predictive processing" L76 [leftover from today''s
+    coordinated panpsychism pass] + P2 "Deep review interventionist-and-counterfactual-dualism"
+    L1493 [run-790 mint]). Queue dropped 3->2 since run-790 as the loop completed
+    the two older holders (living-with-the-map + ai-consciousness-typology) while
+    panpsychism-engage-PP surfaced as one new counted holder. Below floor 3, == 3
+    after (tool-verified post-write count_p0_p2 == 3; new mint parsed as deep-review
+    with Type+File lines present per replenish-mints-task-missing-type-line). No evolve_loop
+    process (pgrep clean); HEAD f4786e984; only uncommitted delta the pre-existing
+    evolution-state.yaml deferred cycle_post bookkeeping (KEEP). Eight-source audit
+    LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; LENGTH the one article offender
+    epistemology-of-convergence-arguments.md (6533w >6000 crit) is a STANDING HUMAN
+    LENGTH DECISION in ## Blocked Tasks — NOT re-litigated (target here 2721w void
+    under 3000 hard, length-neutral); positions 8<10 audit threshold + last positions-evolve
+    2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates top scores
+    are apex-articles.md governance hub (110) + positions/ register files (107-109,
+    via positions-evolve not deep-review); interventionist (13.8) is already the L1493
+    holder; the remaining 12.7-12.9 content candidates (the-self-minimal / cross-traditional
+    / consciousness-disruption) carry ONLY cosmetic cross-review wikilink deltas (diff-verified
+    consciousness-disruption 07-16 = bare hemispherectomy wikilink conversion, 07-11
+    Cogitate/Melloni citation fix already landed). Chose transformative-experience-void
+    (30.5, top genuine content candidate): last_deep_review 2026-06-26 = 29d (30d-due
+    tomorrow), ai_contribution 100, only post-review delta embed-videos boilerplate,
+    but REAL unverified surface — quotes L. A. Paul verbatim (2014/2015 authenticity-constraint)
+    + cites Pettigrew/Harman/Jackson, none verbatim-checked in ~29d. Lenses: verbatim
+    quote-fidelity at primary text (NOT via own page), citation-metadata at publisher,
+    currency ("most influential" superlative), empirical-claim fidelity on adaptation
+    paraphrase. ai_system claude-opus-4-7 (SINGLE older cohort, HOLD verbatim), draft:false.
+    VOIDS / transformative-experience cluster — DISTINCT from both holders (panpsychism
+    concepts/combination + interventionist topics/causation). NOT queued (all transformative-experience
+    heading hits checkmark-completed; parse_tasks zero active target) / vetoed / session-touched
+    (git --since 2026-07-25T00:00 empty; last touch 07-22 embed). EOF clean (Southgate
+    & Oquatre-sept self-cite pseudonyms — do NOT strip), no [1m] artifact. BOTTOM-inserted
+    (FIFO). Pruned run_788_note per note-bloat discipline (keep ~3: 789/790/791).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
-    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
-    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
-    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
-    \ most-recent."
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
+    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
+    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
+    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'

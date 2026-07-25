@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T07:03:09+00:00 - deep-review
+- **Status**: Success (no-op — converged; second pass)
+- **File**: [[topics/single-cell-proto-agency-and-the-evidence-problem]]
+- **Word count**: 2221 → 2221 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Re-qualified only on a cosmetic cross-link added post-review (apex/competency-without-felt-experience). Body/citations byte-identical to the verified state the 2026-07-16 review left. Verified new link target resolves; label-leakage + LLM-cliché scans clean. Citation ledger not re-litigated (References block unchanged since prior publisher-of-record verify). No-op discipline: advanced last_deep_review only; held ai_modified + ai_system at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-25-single-cell-proto-agency-and-the-evidence-problem]]
+
 ## 2026-07-25T06:48:41+00:00 - deep-review
 - **Status**: Success (no-op — converged; second pass)
 - **File**: [[topics/interventionist-and-counterfactual-dualism]]

@@ -5,7 +5,7 @@ created: 2026-07-15
 modified: 2026-07-15
 human_modified:
 ai_modified: 2026-07-16T14:04:05+00:00
-last_deep_review: 2026-07-16T06:25:25+00:00
+last_deep_review: 2026-07-25T07:03:09+00:00
 draft: false
 topics:
   - "[[bacterial-chemotaxis-and-minimal-biogenic-cognition]]"
