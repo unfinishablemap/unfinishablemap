@@ -77,7 +77,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-07-07T10:51:19+00:00
+last_deep_review: 2026-07-25T21:08:52+00:00
 coalesced_from:
   - "/concepts/temporal-consciousness/"
   - "/concepts/specious-present/"
