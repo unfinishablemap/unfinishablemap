@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T13:33:46.197163+00:00'
-session_count: 17158
+last_updated: '2026-07-25T13:40:15.383141+00:00'
+session_count: 17159
 cycle_position: 11707
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T13:35:00+00:00'
+  replenish-queue: '2026-07-25T13:40:15.383141+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1161,43 +1161,45 @@ queue_status:
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 self-reference-paradox
     run-809 + P2 testing-consciousness-collapse run-810); queue dropped 3->2 since
     run-810 as the loop-less local cycle deep-review slot completed run-808 holder
-    concepts/objections-to-interactionism.md (now done). Below floor 3, == 3 after (tool-verified
-    post-write count_p0_p2 == 3; new mint parsed deep-review with Type+File lines).
-    No evolve_loop/cycle process (pgrep clean); only uncommitted state delta is the
-    pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH human-decision tasks already queued P3; positions 8<10 audit threshold +
-    last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates
-    higher un-queued scorers all fail a filter -- attention (11.20, 4011w) + mental-causation
-    (10.97, 3550w over concepts hard) + introspection-architecture (9.73, 4072w) hard_warning
-    length-risky; cognitive-immune (10.77) reviewed 07-18 (7d) + consistent-histories
-    (10.00) reviewed 07-17 (8d) too-recent; brain-internal-born-rule (10.71) soft ~93w
-    under topics hard; the two length-safe 9.73 picks (self-reference-paradox, testing-consciousness-collapse)
-    are the current holders; neural-correlates (9.73, 3392w) ~108w under concepts hard
-    length-risky; probability-problem-in-many-worlds (9.03) ~87w under topics hard +
-    opus-4-6 cohort collides with testing-collapse holder + quantum-redundant; phenomenal-authority
-    (9.03, 4441w) OVER hard length-blocked. global-workspace-theory (9.19) is the highest-scoring
-    un-queued candidate passing every filter: length-safe (analyze_length 2984w soft_warning,
-    516w under concepts hard 3500), 17d stale (last_deep_review 2026-07-08), SINGLE
-    opus-4-5-20251101 cohort DISTINCT from both holders (opus-4-7 / opus-4-6), access-consciousness/workspace
-    cluster distinct from both holders. Rejected in run-810 ONLY for sharing the opus-4-5-20251101
+    concepts/objections-to-interactionism.md (now done). Below floor 3, == 3 after
+    (tool-verified post-write count_p0_p2 == 3; new mint parsed deep-review with Type+File
+    lines). No evolve_loop/cycle process (pgrep clean); only uncommitted state delta
+    is the pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source audit:
+    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
+    100/100, positions 8/80); orphaned_files=0; LENGTH human-decision tasks already
+    queued P3; positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d);
+    no applied-apex gap. TARGET: get_review_candidates higher un-queued scorers all
+    fail a filter -- attention (11.20, 4011w) + mental-causation (10.97, 3550w over
+    concepts hard) + introspection-architecture (9.73, 4072w) hard_warning length-risky;
+    cognitive-immune (10.77) reviewed 07-18 (7d) + consistent-histories (10.00) reviewed
+    07-17 (8d) too-recent; brain-internal-born-rule (10.71) soft ~93w under topics
+    hard; the two length-safe 9.73 picks (self-reference-paradox, testing-consciousness-collapse)
+    are the current holders; neural-correlates (9.73, 3392w) ~108w under concepts
+    hard length-risky; probability-problem-in-many-worlds (9.03) ~87w under topics
+    hard + opus-4-6 cohort collides with testing-collapse holder + quantum-redundant;
+    phenomenal-authority (9.03, 4441w) OVER hard length-blocked. global-workspace-theory
+    (9.19) is the highest-scoring un-queued candidate passing every filter: length-safe
+    (analyze_length 2984w soft_warning, 516w under concepts hard 3500), 17d stale
+    (last_deep_review 2026-07-08), SINGLE opus-4-5-20251101 cohort DISTINCT from both
+    holders (opus-4-7 / opus-4-6), access-consciousness/workspace cluster distinct
+    from both holders. Rejected in run-810 ONLY for sharing the opus-4-5-20251101
     cohort with the then-holder objections-to-interactionism -- now consumed, so the
     collision is gone. NOT a pure age no-op: the 07-18 ai_modified is a real post-review
     delta (auto(refine-draft) ec6394a45 narrowed "access consciousness instantiated
     in full" to workspace-signatures framing across the AI-consciousness concept pages,
     did NOT bump last_deep_review) -- verify that narrowing reads consistently. SEAM:
-    verify verbatim quote-fidelity + empirical-claim fidelity at primary publisher not
-    own page for Baars, Dehaene & Changeux (global neuronal workspace / ignition), the
-    Cogitate adversarial-collaboration GWT-vs-IIT result (attribute to Cogitate Consortium
-    NOT "Melloni et al."), and the new Gurnee et al. 2026 Anthropic "Verbalizable Representations
-    Form a Global Workspace in LLMs" (Transformer Circuits, 2026-07-06) -- verify the
-    LLM-workspace claim is not over-read into machine-consciousness; currency-sweep any
-    superlatives vs 2024-2026 literature. ai_system claude-opus-4-5-20251101 (SINGLE
-    cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. NOT queued (all
-    ### global-workspace headings are done) / vetoed (grep hits are floor-restore note
-    prose) / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-18).
-    EOF clean (Gurnee 2026 ref), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_808_note
-    per note-bloat discipline (keep ~3: 809/810/811).'
+    verify verbatim quote-fidelity + empirical-claim fidelity at primary publisher
+    not own page for Baars, Dehaene & Changeux (global neuronal workspace / ignition),
+    the Cogitate adversarial-collaboration GWT-vs-IIT result (attribute to Cogitate
+    Consortium NOT "Melloni et al."), and the new Gurnee et al. 2026 Anthropic "Verbalizable
+    Representations Form a Global Workspace in LLMs" (Transformer Circuits, 2026-07-06)
+    -- verify the LLM-workspace claim is not over-read into machine-consciousness;
+    currency-sweep any superlatives vs 2024-2026 literature. ai_system claude-opus-4-5-20251101
+    (SINGLE cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. NOT
+    queued (all ### global-workspace headings are done) / vetoed (grep hits are floor-restore
+    note prose) / session-touched (git --since 2026-07-25T00:00 empty; last touch
+    07-18). EOF clean (Gurnee 2026 ref), no [1m] artifact. BOTTOM-inserted (FIFO).
+    Pruned run_808_note per note-bloat discipline (keep ~3: 809/810/811).'
   run_810_note: 'run no.810 (2026-07-25T~13:25Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint topics/testing-consciousness-collapse.md.
     Authoritative pre-write count_p0_p2_tasks(parse_tasks(todo)) == 2 (holders P2

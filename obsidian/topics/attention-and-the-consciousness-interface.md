@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-07-11T00:34:00+00:00
+last_deep_review: 2026-07-25T13:46:49+00:00
 coalesced_from:
   - "/topics/attention-as-selection-interface/"
   - "/topics/attention-consciousness-dissociation/"

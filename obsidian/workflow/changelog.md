@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T13:46:49+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Word count**: 4011 → 4011 (0) — argument-only 3359 (under 4000 hard cap); full-file hard_warning is reference-apparatus over-count
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-25-attention-and-the-consciousness-interface]]
+- **Notes**: Sixth review, fully converged. Re-qualified only via the corpus-wide Cogitate/Melloni 2025 canonical-citation sweep (commit dd19304a4) since the 07-11 web-verify pass. Verified the sweep landed cleanly and is internally consistent (body + Reference 15 both use "Cogitate Consortium; Ferrante, Gorska-Klimowska, et al."); vol/issue/pages already live-verified 07-11, no re-verify churn. §2.4 correctly skipped (no bibliographic entry changed except the already-canonical Cogitate line). Calibration ratings, bedrock-disagreement handling, and label-leakage scan all clean. Length: 4011 full-file but 3359 argument-only (under hard cap) — reference-apparatus false-positive, annotated not condensed to avoid regressing load-bearing Tenet-1 calibration hedges. Advanced last_deep_review only; held ai_modified at 2026-07-11T14:26 to preserve drift detection. AST engagement Mixed (unsupported-foundational-move + boundary-marking); MWI/eliminativist/illusionist framework-boundary marking.
+
 ## 2026-07-25T13:32:31+00:00 - deep-review
 - **Status**: Success (no-op convergence confirmation)
 - **File**: [[concepts/objections-to-interactionism]]
