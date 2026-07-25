@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T05:53:50.677798+00:00'
-session_count: 17097
+last_updated: '2026-07-25T06:12:28.109290+00:00'
+session_count: 17098
 cycle_position: 11680
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T05:53:50.677798+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T03:24:47.252923+00:00'
+  replenish-queue: '2026-07-25T06:12:28.109290+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1158,24 +1158,25 @@ queue_status:
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
     P2 refine "panpsychism.md — engage predictive processing" L76 [leftover from today''s
     coordinated panpsychism pass] + P2 "Deep review interventionist-and-counterfactual-dualism"
-    L1493 [run-790 mint]). Queue dropped 3->2 since run-790 as the loop completed the
-    two older holders (living-with-the-map + ai-consciousness-typology) while panpsychism-engage-PP
-    surfaced as one new counted holder. Below floor 3, == 3 after (tool-verified post-write
-    count_p0_p2 == 3; new mint parsed as deep-review with Type+File lines present per
-    replenish-mints-task-missing-type-line). No evolve_loop process (pgrep clean); HEAD
-    f4786e984; only uncommitted delta the pre-existing evolution-state.yaml deferred
-    cycle_post bookkeeping (KEEP). Eight-source audit LIVE: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH the one article offender epistemology-of-convergence-arguments.md (6533w >6000
-    crit) is a STANDING HUMAN LENGTH DECISION in ## Blocked Tasks — NOT re-litigated
-    (target here 2721w void under 3000 hard, length-neutral); positions 8<10 audit threshold
-    + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates
-    top scores are apex-articles.md governance hub (110) + positions/ register files
-    (107-109, via positions-evolve not deep-review); interventionist (13.8) is already
-    the L1493 holder; the remaining 12.7-12.9 content candidates (the-self-minimal /
-    cross-traditional / consciousness-disruption) carry ONLY cosmetic cross-review wikilink
-    deltas (diff-verified consciousness-disruption 07-16 = bare hemispherectomy wikilink
-    conversion, 07-11 Cogitate/Melloni citation fix already landed). Chose transformative-experience-void
+    L1493 [run-790 mint]). Queue dropped 3->2 since run-790 as the loop completed
+    the two older holders (living-with-the-map + ai-consciousness-typology) while
+    panpsychism-engage-PP surfaced as one new counted holder. Below floor 3, == 3
+    after (tool-verified post-write count_p0_p2 == 3; new mint parsed as deep-review
+    with Type+File lines present per replenish-mints-task-missing-type-line). No evolve_loop
+    process (pgrep clean); HEAD f4786e984; only uncommitted delta the pre-existing
+    evolution-state.yaml deferred cycle_post bookkeeping (KEEP). Eight-source audit
+    LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; LENGTH the one article offender
+    epistemology-of-convergence-arguments.md (6533w >6000 crit) is a STANDING HUMAN
+    LENGTH DECISION in ## Blocked Tasks — NOT re-litigated (target here 2721w void
+    under 3000 hard, length-neutral); positions 8<10 audit threshold + last positions-evolve
+    2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates top scores
+    are apex-articles.md governance hub (110) + positions/ register files (107-109,
+    via positions-evolve not deep-review); interventionist (13.8) is already the L1493
+    holder; the remaining 12.7-12.9 content candidates (the-self-minimal / cross-traditional
+    / consciousness-disruption) carry ONLY cosmetic cross-review wikilink deltas (diff-verified
+    consciousness-disruption 07-16 = bare hemispherectomy wikilink conversion, 07-11
+    Cogitate/Melloni citation fix already landed). Chose transformative-experience-void
     (30.5, top genuine content candidate): last_deep_review 2026-06-26 = 29d (30d-due
     tomorrow), ai_contribution 100, only post-review delta embed-videos boilerplate,
     but REAL unverified surface — quotes L. A. Paul verbatim (2014/2015 authenticity-constraint)
