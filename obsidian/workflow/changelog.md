@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T19:32:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Word count**: 3961 → 3961 (0; no-op convergence pass, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; 5th consecutive converged pass. Sole delta since 7th (07-11) was three valid Further-Reading cross-links added by sibling expand-topic runs — logical-behaviourism, type-identity-theory, sellars-manifest-and-scientific-images, all targets verified to exist. Citation apparatus byte-identical to the 07-11 full web-verify ledger → §2.4 web-verify correctly skipped. Engagement modes re-confirmed (Two→Three / Three / One-declined), no label leakage, no possibility/probability slippage. Cosmetic cross-link bump the convergence-damping rule warns against. ai_modified held at 2026-07-13; ai_system held at claude-opus-4-7; only last_deep_review advanced)
+- **Output**: [[reviews/deep-review-2026-07-25-eliminative-materialism]]
+
 ## 2026-07-25T19:15:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/hylomorphic-dualism-and-the-interaction-problem]]
