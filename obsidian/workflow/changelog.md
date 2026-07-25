@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T15:58:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/problem-of-other-minds]]
+- **Word count**: 3363 → 3363 (no change — no-op review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 9th review, converged article. Scoped to the one drift since 2026-07-09: the new "Substrate Chauvinism and Evidential Symmetry" subsection (commit d1c5487ae, 2026-07-19). Verified clean — calibration-honest ("asymmetric evidence rather than a substrate barrier", no possibility/probability slippage; a tenet-accepting reviewer would not flag it); Duch/articon attribution faithful and corpus-consistent (link target machine-consciousness.md carries the "Articon Counter-Case" section, Duch 2005 cite verified prior); all 5 new wikilinks resolve; Mode Three boundary-marking with no label leakage. 2024 NY Declaration cite unchanged since prior verification. Superlative sweep: 0 detections. No-op stamp: `last_deep_review` bumped, `ai_modified` LEFT at 2026-07-19. Length watch: 135% of soft, ~140w below hard ceiling.
+- **Output**: [[reviews/deep-review-2026-07-25-problem-of-other-minds]]
+
 ## 2026-07-25T15:36:04+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/dualism-cartography]]
