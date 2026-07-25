@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-07-09T14:03:39+00:00
+last_deep_review: 2026-07-25T13:16:22+00:00
 ---
 
 The Unfinishable Map treats the [[philosophical-zombies|zombie argument]] not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that every major physicalist response maps onto denying a specific step in the argument's logical chain, and that each denial carries distinctive costs. (Chalmers develops this taxonomy primarily in terms of Type-A and Type-B responses; the treatment here adds a third category for completeness — see the [[#Type-Q Physicalism: Deny Non-Entailment|Type-Q section]] for a note on nomenclature.)
