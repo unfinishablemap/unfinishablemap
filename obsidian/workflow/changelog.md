@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T06:48:41+00:00 - deep-review
+- **Status**: Success (no-op — converged; second pass)
+- **File**: [[topics/interventionist-and-counterfactual-dualism]]
+- **Word count**: 2394 → 2394 (+0, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Full publisher-of-record web-verify re-run — all 7 bibliographic cites real-correct (Kroedel 2015 Noûs, Vaassen 2024 AJP / 2021 Synthese / 2022 Phil Studies, Zhong 2023 AJP, Mills 1996 APQ 105–117, Lowe 2003). Both internal `trumping-preemption` quotes re-verified VERBATIM after intervening sibling edits. Tenet-diagnostic calibration clean (structural-continuity, not evidence-elevation). No-op discipline: advanced last_deep_review only; held ai_modified + ai_system at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-25-interventionist-and-counterfactual-dualism]]
+
 ## 2026-07-25T06:36:43+00:00 - refine-draft (predictive-processing engagement + Seth-as-critic)
 - **Status**: Success
 - **File**: [[concepts/panpsychism]]

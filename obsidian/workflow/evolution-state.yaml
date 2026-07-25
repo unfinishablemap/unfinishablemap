@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T06:39:17.166027+00:00'
-session_count: 17102
+last_updated: '2026-07-25T06:45:59.821415+00:00'
+session_count: 17103
 cycle_position: 11682
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T06:39:17.166027+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T06:12:28.109290+00:00'
+  replenish-queue: '2026-07-25T06:45:59.821415+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-07-25'
-  outcome: success
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1156,39 +1156,40 @@ queue_status:
   run_792_note: 'run no.792 (2026-07-25T06:42Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness deep-review mint — topics/single-cell-proto-agency-and-the-evidence-problem.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
-    P2 "Deep review interventionist-and-counterfactual-dualism" L1485 [run-790] + P2
-    "Deep review transformative-experience-void" L1499 [run-791]). Queue dropped 3->2
-    since run-791 as the loop picked+completed run-791''s other holder, the P2 refine
-    panpsychism.md engage-predictive-processing (HEAD 792eecf72 auto(refine-draft)).
-    Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed
-    deep-review with Type+File lines present per replenish-mints-task-missing-type-line).
+    P2 "Deep review interventionist-and-counterfactual-dualism" L1485 [run-790] +
+    P2 "Deep review transformative-experience-void" L1499 [run-791]). Queue dropped
+    3->2 since run-791 as the loop picked+completed run-791''s other holder, the P2
+    refine panpsychism.md engage-predictive-processing (HEAD 792eecf72 auto(refine-draft)).
+    Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint
+    parsed deep-review with Type+File lines present per replenish-mints-task-missing-type-line).
     No evolve_loop process (pgrep clean); HEAD 792eecf72; only uncommitted state delta
-    is the pre-existing deferred cycle_post bookkeeping from that refine (KEEP per orphaned-cyclepost-state-advance-in-worktree).
-    Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,
-    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH offender
-    epistemology-of-convergence-arguments.md is a STANDING HUMAN LENGTH DECISION in
-    ## Blocked (target 2221w topics ok, length-neutral); positions 8<10 audit threshold
-    + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates
-    top scores are apex-articles.md governance hub (110) + positions/ register files
-    (107-109, via positions-evolve not deep-review); the two 13.8 content candidates
-    are interventionist (already L1485 holder) and single-cell-proto-agency (the top
-    UN-QUEUED distinct candidate); transformative-experience-void (30.5) already L1499
-    holder; the 12.7-12.9 candidates carry cosmetic cross-review wikilink deltas only.
-    Chose single-cell (13.8): last_deep_review 2026-07-16 (9d), ai_contribution 100,
-    only 1 prior review sidecar (NOT over-reviewed), post-review delta a single cosmetic
-    cross-review wikilink (commit b40485f6a) so this is a STALENESS pick justified by
-    an unverified surface — 9 external citations (Robinson/EMBO 2024, Keegstra/eLife,
-    Sneddon+Yi/PNAS, Watson/Biological-Theory, MacDermott/arXiv-NeurIPS, Birch-Ginsburg-Jablonka,
-    Brancazio, Lyon) checked only once at 07-16 creation + 2 Map self-cite pseudonyms
-    (Oquatre-huit/sept — do NOT strip). Lenses: citation-metadata at publisher (NOT
-    via own page), verbatim quote-fidelity on the Robinson dissenting-opinion title,
-    empirical-claim fidelity on the chemotaxis/perfect-adaptation/UAL paraphrases, currency.
-    ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim), draft:false. TOPICS
-    / single-cell / minimal-biogenic-cognition cluster — DISTINCT from both holders
-    (interventionist topics/causation + transformative-experience voids). NOT queued
-    (parse_tasks zero active target; 26 grep hits are completed/prose) / vetoed / session-touched
-    (git --since 2026-07-25T00:00 empty; last touch 07-16). EOF clean, no [1m] artifact.
-    BOTTOM-inserted (FIFO). Pruned run_789_note per note-bloat discipline (keep ~3: 790/791/792).'
+    is the pre-existing deferred cycle_post bookkeeping from that refine (KEEP per
+    orphaned-cyclepost-state-advance-in-worktree). Eight-source audit LIVE: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    LENGTH offender epistemology-of-convergence-arguments.md is a STANDING HUMAN LENGTH
+    DECISION in ## Blocked (target 2221w topics ok, length-neutral); positions 8<10
+    audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex gap.
+    TARGET: get_review_candidates top scores are apex-articles.md governance hub (110)
+    + positions/ register files (107-109, via positions-evolve not deep-review); the
+    two 13.8 content candidates are interventionist (already L1485 holder) and single-cell-proto-agency
+    (the top UN-QUEUED distinct candidate); transformative-experience-void (30.5)
+    already L1499 holder; the 12.7-12.9 candidates carry cosmetic cross-review wikilink
+    deltas only. Chose single-cell (13.8): last_deep_review 2026-07-16 (9d), ai_contribution
+    100, only 1 prior review sidecar (NOT over-reviewed), post-review delta a single
+    cosmetic cross-review wikilink (commit b40485f6a) so this is a STALENESS pick
+    justified by an unverified surface — 9 external citations (Robinson/EMBO 2024,
+    Keegstra/eLife, Sneddon+Yi/PNAS, Watson/Biological-Theory, MacDermott/arXiv-NeurIPS,
+    Birch-Ginsburg-Jablonka, Brancazio, Lyon) checked only once at 07-16 creation
+    + 2 Map self-cite pseudonyms (Oquatre-huit/sept — do NOT strip). Lenses: citation-metadata
+    at publisher (NOT via own page), verbatim quote-fidelity on the Robinson dissenting-opinion
+    title, empirical-claim fidelity on the chemotaxis/perfect-adaptation/UAL paraphrases,
+    currency. ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim), draft:false.
+    TOPICS / single-cell / minimal-biogenic-cognition cluster — DISTINCT from both
+    holders (interventionist topics/causation + transformative-experience voids).
+    NOT queued (parse_tasks zero active target; 26 grep hits are completed/prose)
+    / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-16).
+    EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_789_note per note-bloat
+    discipline (keep ~3: 790/791/792).'
   run_791_note: 'run no.791 (2026-07-25T06:09Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness deep-review mint — voids/transformative-experience-void.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:

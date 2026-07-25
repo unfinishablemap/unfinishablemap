@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-15
 last_curated:
-last_deep_review: 2026-07-15T10:54:00+00:00
+last_deep_review: 2026-07-25T06:48:41+00:00
 ---
 
 Interventionist and counterfactual dualism names the Map's single most important live rival to its own preferred structure for mental causation. Where the Map favours the closure-preserving [[trumping-preemption|trumping]] route — one authoritative cause, no trajectory change — this rival family holds that a non-physical experience and its physical base are *both* genuine causes of behaviour, standing alongside one another rather than one being selected over the other by an authority law. Its members share a single structural commitment: **two causes, not one**. The exclusion worry that motivates trumping is answered not by decoupling authority from sufficiency, but by showing that causation is difference-making (or counterfactual dependence), which a systematic mind–body law can supply without the resulting overlap counting as the "bad", coincidental kind of overdetermination.
