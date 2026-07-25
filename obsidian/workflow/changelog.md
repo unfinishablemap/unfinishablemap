@@ -5,6 +5,15 @@ ai_modified: 2026-07-24 21:34:04+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T00:08:39+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-07-24-gemini-2-5-pro]]
+- **Subject**: topics/volitional-control.md (hostile referee report; third reviewer of the 2026-07-24 same-subject triple)
+- **Claims verified**: 2 (both real, accurately described — Gavenas/Schurger/Maoz 2025 *Imaging Neuroscience* probe paradigm; Bala et al. 2025 *Frontiers in Human Neuroscience* SMA executive deficits)
+- **High-value findings**: 3 actionable (Gavenas 2025 probe-paradigm omission; SMA-proper/pre-SMA dissociation + Bala 2025 executive-deficit literature; predictive-processing/active-inference untested rival — now converged across all 3 reviewers). 2 overstated (article already hedges Schwartz/quantum-Zeno and already concedes the phenomenology-vs-causation gap at line 112).
+- **Tasks generated**: 0 new — folded findings (K/L/M) into the existing same-subject P1 consolidated task per [[outer-review-same-file-task-pileup]] (task instructed "keep ONE task on this file, do NOT split"; updated header to CONVERGENT-across-all-three and added the Gemini review file to its Review-file list)
+
 ## 2026-07-24T23:33:31+00:00 - deep-review
 - **Status**: Success (no-op after verification)
 - **File**: [[concepts/radical-pair-magnetoreception]]
