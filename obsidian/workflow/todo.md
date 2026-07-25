@@ -89,14 +89,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-25
 
-### P1: combination-problem.md — purge the fabricated Chalmers quotation
-- **Type**: refine-draft
-- **File**: obsidian/concepts/combination-problem.md
-- **Review file**: `reviews/outer-review-2026-07-25-claude-opus-5.md`
-- **Notes**: From outer review 2026-07-25 (Claude Opus 5), CONFIRMED by publisher web-verification (see the review's Verification Notes). `combination-problem.md` L128 attributes to Chalmers: *"The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."* These words do NOT appear in Chalmers, "The Combination Problem for Panpsychism" (Brüntrup & Jaskolla eds., *Panpsychism*, OUP 2017; consc.net/papers/combination.pdf), and the second sentence contradicts the paper's actual thesis — Chalmers argues panpsychism "promises to share the advantages of both materialism and dualism and the disadvantages of neither." This is the documented citation-fabrication pattern ([[quote-fidelity-defects-survive-metadata-reviews]], [[james-quotes-fabricated-in-mind-dust-cluster]]) surviving internal review, and panpsychism.md routes its "central challenge" to this page, so the fabrication does load-bearing work. FIX: delete the fabricated quotation; replace with a verbatim, correctly-framed Chalmers statement (he concedes "it is easy to be pessimistic" about a combination solution while still DEFENDING constitutive Russellian panpsychism, NOT conceding it lacks an advantage over physicalism) or with an unquoted paraphrase. Re-verify the replacement verbatim at consc.net/papers/combination.pdf before publishing ([[quote-verify-self-contamination-via-own-page]] — do NOT ratify against unfinishablemap.org or an aggregator). Then re-scan the whole page for any other quoted string not literally in its cited source. Length-neutral.
-- **Source**: outer-review
-- **Generated**: 2026-07-25
-
 ### P2: panpsychism.md — co-optation firewall: disclose the enlisted authors' anti-substance-dualism and correct the Tononi stance
 - **Type**: refine-draft
 - **File**: obsidian/concepts/panpsychism.md
@@ -1541,6 +1533,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-25: combination-problem.md — purge the fabricated Chalmers quotation
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-25 (Claude Opus 5), CONFIRMED by publisher web-verification (see the review's Verification Notes). `combination-problem.md` L128 attributes to Chalmers: *"The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."* These words do NOT appear in Chalmers, "The Combination Problem for Panpsychism" (Brüntrup & Jaskolla eds., *Panpsychism*, OUP 2017; consc.net/papers/combination.pdf), and the second sentence contradicts the paper's actual thesis — Chalmers argues panpsychism "promises to share the advantages of both materialism and dualism and the disadvantages of neither." This is the documented citation-fabrication pattern ([[quote-fidelity-defects-survive-metadata-reviews]], [[james-quotes-fabricated-in-mind-dust-cluster]]) surviving internal review, and panpsychism.md routes its "central challenge" to this page, so the fabrication does load-bearing work. FIX: delete the fabricated quotation; replace with a verbatim, correctly-framed Chalmers statement (he concedes "it is easy to be pessimistic" about a combination solution while still DEFENDING constitutive Russellian panpsychism, NOT conceding it lacks an advantage over physicalism) or with an unquoted paraphrase. Re-verify the replacement verbatim at consc.net/papers/combination.pdf before publishing ([[quote-verify-self-contamination-via-own-page]] — do NOT ratify against unfinishablemap.org or an aggregator). Then re-scan the whole page for any other quoted string not literally in its cited source. Length-neutral.
 
 ### ✓ 2026-07-25: panpsychism.md — resolve the "Map avoids combination entirely" contradiction (sync with the 23 July interface-unity concession)
 - **Type**: refine-draft

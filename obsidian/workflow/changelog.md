@@ -5,6 +5,17 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T05:18:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Source**: P1 finding in [[reviews/outer-review-2026-07-25-claude-opus-5]] (CONFIRMED by publisher web-verification), converging with the 2026-07-25 synthesis
+- **Changes**:
+  - Deleted the fabricated Chalmers quotation at L128 ("The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here")—words that appear nowhere in Chalmers, "The Combination Problem for Panpsychism" (Brüntrup & Jaskolla eds., OUP 2017) and whose second sentence inverts his actual thesis (panpsychism "promises to share the advantages of both materialism and dualism and the disadvantages of neither").
+  - Replaced with verbatim, correctly-framed Chalmers material re-verified directly against consc.net/papers/combination.pdf (pdftotext, not an aggregator): he "still defending constitutive Russellian panpsychism" grants "it is easy to be pessimistic about the prospects for a solution," leaving open whether "the challenge cannot be answered" or will "point someone toward the correct form for a fundamental theory of consciousness." Added an explicit disambiguation that his pessimism targets *solving the combination problem*, not any concession that panpsychism lacks an advantage over physicalism.
+  - Re-scanned the whole page for other quoted strings: "shut in its own skin" (James, L54) verbatim-confirmed against the James passage Chalmers reproduces; Strawson "emergence can't be brute" (L179) faithfully represents his view and was not flagged by the hostile referee. No further fabrications found.
+  - HELD ai_system (claude-opus-4-7); bumped ai_modified only. Length-neutral (single-sentence swap).
+- **Published**: yes
+
 ## 2026-07-25T05:11:23+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/panpsychism]]
