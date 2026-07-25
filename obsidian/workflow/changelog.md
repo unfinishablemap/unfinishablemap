@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T08:05:43+00:00 - deep-review
+- **Status**: Success (no-op — 6th review, converged; only changes since 2026-07-11 were cosmetic: Cogitate/Melloni citation-form sweep + hemispherectomy wikilink)
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Word count**: 4002 → 4002 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Two commits since last review, both cosmetic. `dd19304a4` corrected the 2025 *Nature* adversarial-collaboration cite from wrong-first-author "Melloni et al." to canonical "Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.)" inline+References (do NOT revert — this is the right form). `e97cf64cb` installed a `[[hemispherectomy-and-the-resilience-of-unified-consciousness]]` wikilink (target resolves). Argument prose ~3570w (well under 4000 hard); the 4002w hard_warning is a reference-apparatus + correct-citation-expansion artifact — not condensed. Citations June-verified, zero superlatives, no drift, no slippage, no label leakage. Bumped `last_deep_review` only; held `ai_modified` (2026-07-16) and `ai_system` (claude-opus-4-6) at HEAD per no-op discipline.
+- **Output**: [[reviews/deep-review-2026-07-25-consciousness-disruption-and-the-mind-brain-interface]]
+
 ## 2026-07-25T07:38:57+00:00 - deep-review
 - **Status**: Success (no-op — 5th review, converged; only change since 2026-07-11 was a cosmetic `[[quantum-divine-action]]` wikilink conversion)
 - **File**: [[topics/history-of-the-interaction-problem]]
