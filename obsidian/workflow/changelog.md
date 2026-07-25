@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T21:24:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/emergence]]
+- **Word count**: 2926 → 2926 (0; no-op verify after web-verifying the two quote changes since the 07-07 clean pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (12th review). Two changes since 07-07: `acb28d8f4` (07-12) added a Hasker/[[emergent-dualism]] cross-link sentence (target exists, sound); `6f83d14ef` (07-19) reformulated BOTH marquee quotes as a cross-corpus family-resolution. Web-verified at publisher of record: Chalmers 2006 "one clear case of a strongly emergent phenomenon" VERBATIM (consc.net/papers/emergence.pdf) — the edit FIXED a prior non-verbatim rendering ("the paradigm of..."); Broad 1925 "characteristic behaviour of the whole could not, even in theory, be deduced... taken separately or in other combinations" VERBATIM (Mind and Its Place in Nature; SEP-confirmed), truncated at a natural point. References block byte-identical, §2.4 ledger carried from 07-07. No calibration slippage, no from-below reintroduction, no leakage artifacts. NO-OP: only last_deep_review stamped; ai_modified (2026-07-19T23:08:40) + ai_system (claude-opus-4-5) HELD at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-25-emergence]]
+
 ## 2026-07-25T21:08:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/temporal-consciousness]]
