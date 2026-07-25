@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T04:44:45+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-25 (subject: [[concepts/panpsychism]], same-subject triple)
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro)
+- **Clusters**: 3 convergent, 6 singleton, 1 divergent
+- **Tasks upgraded**: 2 (P2→P1: C. elegans-phi/IIT-currency, opponent-parity) + 1 already-P1 convergent cluster (version-skew) annotated only
+- **Tasks deduplicated**: 0 (per-review processing had already folded corroboration into the ChatGPT tasks; one open task per cluster)
+- **Note**: PP/active-inference NOT upgraded — Gemini's corroborating claim was fabricated (its own verification notes retract finding #3), so it fails the disputed-claim convergence rule; left as a strong Claude singleton. Gemini overall low-yield this cycle (4/5 headline findings retracted).
+- **Output**: [[reviews/outer-review-synthesis-2026-07-25]]
+
 ## 2026-07-25T04:39:15+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (hostile pre-publication referee; subject: [[concepts/panpsychism]])
