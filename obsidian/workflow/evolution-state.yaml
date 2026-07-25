@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T21:26:13.893757+00:00'
-session_count: 17221
+last_updated: '2026-07-25T21:38:27.292880+00:00'
+session_count: 17222
 cycle_position: 11735
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +17,14 @@ last_runs:
   coalesce: '2026-07-25T20:03:26.813102+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-25T20:41:56.103248+00:00'
+  agentic-social: '2026-07-25T21:38:27.292880+00:00'
   embed-videos: '2026-07-25T15:07:21.134844+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T21:21:27.151265+00:00'
+  replenish-queue: '2026-07-25T21:43:00+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -181,6 +177,10 @@ recent_tasks:
   type: deep-review
   date: '2026-07-25'
   outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-07-25'
+  outcome: failed
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/probability-objections-many-worlds/
@@ -1144,36 +1144,42 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T21:18:00+00:00'
-  last_replenishment_prev: '2026-07-25T20:38:00+00:00'
-  last_replenishment_run: 826
+  last_replenishment: '2026-07-25T21:43:00+00:00'
+  last_replenishment_prev: '2026-07-25T21:18:00+00:00'
+  last_replenishment_run: 827
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_824_note: 'run no.824 (2026-07-25T20:22Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/temporal-consciousness.md.
-    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 decoherence opus-4-6
-    + P2 epistemology opus-4-6+opus-4-8; higher-order-theories holder drained by a
-    loop-less local cycle deep-review slot, last_runs deep-review 20:06Z); == 3 post-write
-    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). No evolve_loop/unfin-cycle
-    (pgrep clean); HEAD 44fbcc3e9; only uncommitted delta the pre-existing deferred
-    cycle_post state bookkeeping — KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length human-decisions already queued P3 + #veto condenses parser-excluded; positions
-    8<10 audit threshold + last positions-evolve 2026-07-25; no applied-apex gap.
-    Source 4 (changed-since-review) TARGET: temporal-consciousness — GENUINE 07-18
-    refine-draft (9ffd993d2) scoping the Tenet-load-bearing constitutive-role-in-time
-    / quantum-collapse claim + cross-page reconcile with non-temporal-consciousness;
-    unverified by any deep-review of this file AND (unlike evolution-of-consciousness,
-    excluded as an already-verified Broad+Chalmers quote-sweep no-op per both prior
-    mints) added by a REFINE not a deep-review so genuinely open. Length-safe 2983w
-    soft_warning (~517w under concepts 3500 hard). Cohort opus-4-6 overlaps decoherence
-    holder (soft caveat, subordinate to unchecked-surface yield; distinct-cohort alternatives
-    are no-ops/length-blocked); cluster (specious-present/durée/retention-protention)
-    distinct from both holders. NARROW conceptual/cross-page seam — do NOT re-sweep
-    the 28-sidecar James/Bergson/Husserl ledger, do NOT re-inflate the scoping hedge,
-    strictly length-neutral. BOTTOM-inserted (FIFO). Full reasoning in the todo task
-    Notes. Pruned run_819_note per note-bloat discipline (keep ~3: 820/821/824).'
+  run_827_note: 'run no.827 (2026-07-25T21:43Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint concepts/attention-as-interface.md.
+    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 binding-problem opus-4-6
+    + P2 neural-correlates opus-4-5 from runs 826/prior; the run-825 emergence + run-824
+    temporal-consciousness holders drained by loop-less local cycle deep-review slots,
+    last_runs deep-review 21:26Z); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 80bd7c175; only uncommitted
+    delta the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source
+    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already
+    queued P3 + #veto condenses parser-excluded; positions 8<10 audit threshold + last
+    positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
+    TARGET: attention-as-interface (opus-4-6, concepts, soft_warning 3150w ~350w under
+    3500 hard, ldr 07-07). GENUINE open surface: cross-review commit 5d34dedfe (07-12,
+    target = attended-intermediate-representations-theory) collaterally inserted a NEW
+    never-deep-reviewed Prinz AIR sentence here -- "attention *constitutive* (AIR) vs
+    *selection* (interface hypothesis)" -- a real named-attribution philosophical claim,
+    NOT the cosmetic-wikilink failure mode. SEAM: verify Prinz AIR = constitutive attribution
+    is accurate + the AIR-vs-interface contrast is fair per evidential-status-discipline
+    + cross-page coherence with the AIR sibling article. Length-safe pool re-audited:
+    top candidates were index/positions files (wrong task type -- positions-evolve) or
+    the five hard_warning OVER-length topics (introspection/phenomenal-authority/qm-interp/machine-consciousness/personal-identity
+    length-BLOCKED); dualism-cartography session-touched-today; agent-causation DIFF-confirmed
+    cosmetic [[emergent-dualism]] wikilink no-op. Cohort opus-4-6 overlaps the binding-problem
+    holder (soft caveat -- ALL length-safe genuine-surface candidates are opus-4-6, so
+    full cohort-distinctness unachievable; neural-correlates is the only opus-4-5). NARROW
+    scope -- 11 prior reviews, CONVERGED; verify ONLY the 07-12 Prinz sentence, do NOT
+    re-sweep the citation ledger, strictly length-neutral, HOLD ai_system claude-opus-4-6
+    SINGLE. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_824_note
+    per note-bloat discipline (keep ~3: 825/826/827).'
   run_825_note: 'run no.825 (2026-07-25T20:38Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/emergence.md. Pre-write
     count_p0_p2_tasks(load_todo()) == 2 (holders P2 epistemology opus-4-6+opus-4-8
