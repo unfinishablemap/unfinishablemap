@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-25T11:51:49.516122+00:00'
-session_count: 17145
+last_updated: '2026-07-25T12:09:35.438249+00:00'
+session_count: 17146
 cycle_position: 11701
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-25T06:19:03.582291+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-22T23:46:20.484231+00:00'
-  agentic-social: '2026-07-25T11:24:41.834005+00:00'
+  agentic-social: '2026-07-25T12:11:07.524064+00:00'
   embed-videos: '2026-07-25T08:31:32.066650+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T12:07:34+00:00'
+  replenish-queue: '2026-07-25T12:09:35.438249+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -41,7 +37,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-25T08:03:02.668915+00:00'
+last_git_push: '2026-07-25T12:09:35.707864+00:00'
 last_tweet_date: '2026-07-25'
 content_stats:
   total_files: 297
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1126,6 +1122,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/topics/phenomenology-of-deliberation-under-uncertainty/
+    date: '2026-07-25T12:11:07.524002+00:00'
+    topics:
+    - topics/free-will
+    - phenomenology-of-intellectual-life
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1149,80 +1150,83 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_806_note: 'run no.806 (2026-07-25T~11:55Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 staleness deep-review mint concepts/skill-delegation.md. Authoritative
-    pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 generalised-probabilistic-theories
-    run-804 + P2 phenomenology-of-musical-understanding run-805); queue dropped 3->2
-    since run-805 as the loop-less local cycle deep-review slot completed run-803''s
-    holder topics/cross-traditional-convergence-on-consciousness-irreducibility (HEAD
-    2a52197d6 auto(deep-review)). Below floor 3, == 3 after (tool-verified post-write
-    count_p0_p2 == 3; new mint parsed deep-review with Type+File lines). No evolve_loop/cycle
-    process (pgrep clean); only uncommitted state delta is the pre-existing deferred
-    cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH standing human decision epistemology-of-convergence-arguments.md untouched;
-    positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: get_review_candidates top real-article scorers generalised-probabilistic
-    (13.85) + musical-understanding (12.80) are the two queued holders; skill-delegation
-    (11.61) is the top UN-QUEUED distinct real article. The lower-sidecar options are
-    EXCLUDED as too-recent same-day re-reviews: cognitive-immune (1 sc) deep-reviewed
-    07-18 (7d); consistent-histories (2 sc) 07-17 (8d) AND quantum-cluster-redundant
-    with queued generalised-probabilistic; the higher-surface attention / mental-causation
-    / introspection are length-over-ceiling (hard_warning) so a deep-review risks growing
-    them. skill-delegation = oldest-cohort opus-4-6 (7-ref apparatus predates the later
-    citation-hygiene sweeps), stalest un-queued at last_deep_review 2026-07-07 (18d),
-    delegatory-causation cluster DISTINCT from both holders. analyze_length 2115w status
-    ok (concepts hard 3500) -- LENGTH-SAFE, NOT a condense. Pool-drain 5+-sidecar floor-restore
-    is ACCEPTABLE (deep_review_over_reviews_converged) -- do NOT manufacture a defect;
-    thin 7-ref surface so short pass, highest-yield orthogonal seam is verbatim quote-fidelity
-    + empirical/exegetical-claim fidelity (survive metadata reviews) verified at primary
-    publisher not own page. ai_system claude-opus-4-6 (SINGLE cohort, HOLD verbatim
-    on no-op), ai_contribution 100, draft:false. NOT queued (only ✓-completed 06-01/07-07
-    headings; L1510 hit is run-804 Notes prose) / vetoed (none) / session-touched (git
-    --since 2026-07-25T00:00 empty; last touch 07-07). BOTTOM-inserted (FIFO). Pruned
-    run_803_note per note-bloat discipline (keep ~3: 804/805/806).'
-  run_805_note: 'run no.805 (2026-07-25T~11:40Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 staleness deep-review mint topics/phenomenology-of-musical-understanding.md.
-    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 cross-traditional-convergence
-    run-803 + P2 generalised-probabilistic-theories run-804); queue dropped 3->2 since
-    run-804 as the loop-less local cycle deep-review slot completed run-802''s holder
-    concepts/consciousness-bandwidth-architecture (HEAD 6b8918b33 auto(deep-review)).
-    Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint
-    parsed deep-review with Type+File lines, heading L1513). No evolve_loop/cycle
-    process (pgrep clean); only uncommitted state delta is the pre-existing deferred
-    cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH standing human decision epistemology-of-convergence-arguments.md untouched;
-    positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: get_review_candidates top scorers are apex-articles.md (110, index)
-    + positions/ register files (107-109, positions-evolve not deep-review); the two
-    higher real-article scores generalised-probabilistic (13.85) + cross-traditional
-    (12.86) are the two holders already queued. Chose phenomenology-of-musical-understanding
-    (12.80, top UN-QUEUED distinct real article) on the sidecar+freshness discriminator:
-    the lower-sidecar alternatives are WORSE picks -- cognitive-immune-system (1 sidecar)
-    deep-reviewed 07-18 (7d, too recent); consistent-histories (2 sidecars) deep-reviewed
-    07-17 (8d, too recent) AND quantum-cluster-redundant with the queued generalised-probabilistic;
-    all other high scorers over-reviewed 7-10 sidecars and/or hard_warning (attention-and-the-consciousness-interface
-    5 sc + 4011w hw; zombie-master 7; skill-delegation 7; mental-causation 7 + hw;
-    process-and-consciousness 10). musical-understanding is the STALEST un-queued
-    (last_deep_review 2026-07-08, 17d), 5 sidecars are routine MONTHLY staleness passes
-    (02/03/04/06/07) NOT a saturated verbatim ledger; only post-review delta is 07-16
-    auto(embed-videos) -- a video embed, not authored prose -- so a pure STALENESS
-    pick (Source 4). SCOPE: the 05-31 deep-review web-verified all 4 music-cognition
-    EMPIRICAL cites clean (Fritz 2009, Huron 2006, Koelsch 2014, Vuust 2022) -- do
-    NOT re-verify. GENUINELY-UNCHECKED SEAM = verbatim quote-fidelity on the phenomenology
-    + aesthetics classic-texts the empirical pass never touched: Bergson (duree),
-    Husserl (internal time), James (specious present -- fabrication-prone channel,
-    match at psychclassics.yorku.ca), Scruton/Levinson/Kivy/Davies aesthetics refs
-    -- verify at publisher not own page. LENGTH: analyze_length 2744w status ok (topics
-    soft 3000 / hard 4000) -- genuinely LENGTH-SAFE, NOT a condense. ai_system claude-opus-4-8
-    (SINGLE cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. TOPICS
-    / aesthetics-and-temporal-phenomenology cluster -- DISTINCT from both holders
-    (cross-traditional non-Western; generalised-probabilistic quantum-foundations).
-    NOT queued (0 active headings target it; hits are the ✓-completed 05-31 deep-review
-    + a different article''s note) / vetoed (no #veto) / session-touched (git --since
-    2026-07-25T00:00 empty; last touch 07-16). EOF clean, no [1m] artifact. BOTTOM-inserted
-    (FIFO). Pruned run_802_note per note-bloat discipline (keep ~3: 803/804/805).'
+  run_806_note: "run no.806 (2026-07-25T~11:55Z, interactive /replenish-queue): SINGLE\
+    \ exact-floor +1 staleness deep-review mint concepts/skill-delegation.md. Authoritative\
+    \ pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 generalised-probabilistic-theories\
+    \ run-804 + P2 phenomenology-of-musical-understanding run-805); queue dropped\
+    \ 3->2 since run-805 as the loop-less local cycle deep-review slot completed run-803's\
+    \ holder topics/cross-traditional-convergence-on-consciousness-irreducibility\
+    \ (HEAD 2a52197d6 auto(deep-review)). Below floor 3, == 3 after (tool-verified\
+    \ post-write count_p0_p2 == 3; new mint parsed deep-review with Type+File lines).\
+    \ No evolve_loop/cycle process (pgrep clean); only uncommitted state delta is\
+    \ the pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source audit:\
+    \ chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids\
+    \ 100/100, positions 8/80); orphaned_files=0; LENGTH standing human decision epistemology-of-convergence-arguments.md\
+    \ untouched; positions 8<10 audit threshold + last positions-evolve 2026-07-20\
+    \ (<30d); no applied-apex gap. TARGET: get_review_candidates top real-article\
+    \ scorers generalised-probabilistic (13.85) + musical-understanding (12.80) are\
+    \ the two queued holders; skill-delegation (11.61) is the top UN-QUEUED distinct\
+    \ real article. The lower-sidecar options are EXCLUDED as too-recent same-day\
+    \ re-reviews: cognitive-immune (1 sc) deep-reviewed 07-18 (7d); consistent-histories\
+    \ (2 sc) 07-17 (8d) AND quantum-cluster-redundant with queued generalised-probabilistic;\
+    \ the higher-surface attention / mental-causation / introspection are length-over-ceiling\
+    \ (hard_warning) so a deep-review risks growing them. skill-delegation = oldest-cohort\
+    \ opus-4-6 (7-ref apparatus predates the later citation-hygiene sweeps), stalest\
+    \ un-queued at last_deep_review 2026-07-07 (18d), delegatory-causation cluster\
+    \ DISTINCT from both holders. analyze_length 2115w status ok (concepts hard 3500)\
+    \ -- LENGTH-SAFE, NOT a condense. Pool-drain 5+-sidecar floor-restore is ACCEPTABLE\
+    \ (deep_review_over_reviews_converged) -- do NOT manufacture a defect; thin 7-ref\
+    \ surface so short pass, highest-yield orthogonal seam is verbatim quote-fidelity\
+    \ + empirical/exegetical-claim fidelity (survive metadata reviews) verified at\
+    \ primary publisher not own page. ai_system claude-opus-4-6 (SINGLE cohort, HOLD\
+    \ verbatim on no-op), ai_contribution 100, draft:false. NOT queued (only \u2713\
+    -completed 06-01/07-07 headings; L1510 hit is run-804 Notes prose) / vetoed (none)\
+    \ / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-07). BOTTOM-inserted\
+    \ (FIFO). Pruned run_803_note per note-bloat discipline (keep ~3: 804/805/806)."
+  run_805_note: "run no.805 (2026-07-25T~11:40Z, interactive /replenish-queue): SINGLE\
+    \ exact-floor +1 staleness deep-review mint topics/phenomenology-of-musical-understanding.md.\
+    \ Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 cross-traditional-convergence\
+    \ run-803 + P2 generalised-probabilistic-theories run-804); queue dropped 3->2\
+    \ since run-804 as the loop-less local cycle deep-review slot completed run-802's\
+    \ holder concepts/consciousness-bandwidth-architecture (HEAD 6b8918b33 auto(deep-review)).\
+    \ Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint\
+    \ parsed deep-review with Type+File lines, heading L1513). No evolve_loop/cycle\
+    \ process (pgrep clean); only uncommitted state delta is the pre-existing deferred\
+    \ cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap\
+    \ BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;\
+    \ LENGTH standing human decision epistemology-of-convergence-arguments.md untouched;\
+    \ positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no\
+    \ applied-apex gap. TARGET: get_review_candidates top scorers are apex-articles.md\
+    \ (110, index) + positions/ register files (107-109, positions-evolve not deep-review);\
+    \ the two higher real-article scores generalised-probabilistic (13.85) + cross-traditional\
+    \ (12.86) are the two holders already queued. Chose phenomenology-of-musical-understanding\
+    \ (12.80, top UN-QUEUED distinct real article) on the sidecar+freshness discriminator:\
+    \ the lower-sidecar alternatives are WORSE picks -- cognitive-immune-system (1\
+    \ sidecar) deep-reviewed 07-18 (7d, too recent); consistent-histories (2 sidecars)\
+    \ deep-reviewed 07-17 (8d, too recent) AND quantum-cluster-redundant with the\
+    \ queued generalised-probabilistic; all other high scorers over-reviewed 7-10\
+    \ sidecars and/or hard_warning (attention-and-the-consciousness-interface 5 sc\
+    \ + 4011w hw; zombie-master 7; skill-delegation 7; mental-causation 7 + hw; process-and-consciousness\
+    \ 10). musical-understanding is the STALEST un-queued (last_deep_review 2026-07-08,\
+    \ 17d), 5 sidecars are routine MONTHLY staleness passes (02/03/04/06/07) NOT a\
+    \ saturated verbatim ledger; only post-review delta is 07-16 auto(embed-videos)\
+    \ -- a video embed, not authored prose -- so a pure STALENESS pick (Source 4).\
+    \ SCOPE: the 05-31 deep-review web-verified all 4 music-cognition EMPIRICAL cites\
+    \ clean (Fritz 2009, Huron 2006, Koelsch 2014, Vuust 2022) -- do NOT re-verify.\
+    \ GENUINELY-UNCHECKED SEAM = verbatim quote-fidelity on the phenomenology + aesthetics\
+    \ classic-texts the empirical pass never touched: Bergson (duree), Husserl (internal\
+    \ time), James (specious present -- fabrication-prone channel, match at psychclassics.yorku.ca),\
+    \ Scruton/Levinson/Kivy/Davies aesthetics refs -- verify at publisher not own\
+    \ page. LENGTH: analyze_length 2744w status ok (topics soft 3000 / hard 4000)\
+    \ -- genuinely LENGTH-SAFE, NOT a condense. ai_system claude-opus-4-8 (SINGLE\
+    \ cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. TOPICS /\
+    \ aesthetics-and-temporal-phenomenology cluster -- DISTINCT from both holders\
+    \ (cross-traditional non-Western; generalised-probabilistic quantum-foundations).\
+    \ NOT queued (0 active headings target it; hits are the \u2713-completed 05-31\
+    \ deep-review + a different article's note) / vetoed (no #veto) / session-touched\
+    \ (git --since 2026-07-25T00:00 empty; last touch 07-16). EOF clean, no [1m] artifact.\
+    \ BOTTOM-inserted (FIFO). Pruned run_802_note per note-bloat discipline (keep\
+    \ ~3: 803/804/805)."
   run_804_note: 'run no.804 (2026-07-25T11:20Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint concepts/generalised-probabilistic-theories.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) / parse_tasks P0-P2 open
@@ -1269,7 +1273,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
