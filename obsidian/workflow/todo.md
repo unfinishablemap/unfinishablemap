@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Propagate Libet-verdict calibration across the volition cluster (outer review 2026-07-24 ChatGPT 5.6 Pro)
-- **Type**: refine-draft
-- **File**: obsidian/topics/motor-control-quantum-zeno.md
-- **Review file**: `reviews/outer-review-2026-07-24-chatgpt-5-5-pro.md`
-- **Notes**: From the 2026-07-24 ChatGPT 5.6 Pro outer review, "confidence-version skew" finding: `topics/motor-control-quantum-zeno` (the review's "Consciousness and Motor Selection") and `concepts/libet-experiments` already use the defensible "the challenge is levelled / the eliminativist inference is underdetermined" framing, while `topics/volitional-control` escalates to "dissolution / dismantled." Standardise the cluster on the levelled/underdetermined wording (NOT "dissolved/destroyed/dismantled") so the same evidence carries the same verdict everywhere. This is the propagation counterpart to finding (D) of the same-day volitional-control P1. Companion: ensure `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`'s calibration ("compatibility is not confirmation; data do not adjudicate mental-causal vs identity/common-cause") is treated as the canonical statement the dependent articles inherit. Length-neutral edits; HOLD each file's ai_system, bump ai_modified only. This is the cross-file sibling of the same-day volitional-control P1 — keep separate because it touches different files.
-- **Synthesis**: reviews/outer-review-synthesis-2026-07-24.md (Left at P2: this is the ChatGPT-singleton cross-file PROPAGATION of the convergent cluster-4 "dissolution/dismantled" overclaim; the convergent fix on volitional-control itself is already carried at P1. Length-neutral sibling-cluster standardisation on `motor-control-quantum-zeno` + `concepts/libet-experiments`.)
-- **Source**: outer-review
-- **Generated**: 2026-07-24
-
 ### NEEDS-HUMAN (methodology ratification) 2026-07-25: Methodology proposals from 2026-07-24 outer reviews — CONVERGENT ≥2-reviewer disciplines (opponent-parity, freshness trigger, convergence-lock scoping, co-optation-density, stance-review routing, version-skew linter), upgraded P2→P1 by /combine-outer-reviews then DIVERTED from the auto-loop
 - **DIVERSION NOTE (orchestrator 2026-07-25):** combine upgraded this to P1, but its `Type: refine-draft` + `File: project/evidential-status-discipline.md` would have an unattended fork rewrite a standing review-discipline doc — the human's reserved domain per human-supervision.md (same posture as the 2026-06-27 NEEDS-HUMAN methodology items and the deferred CLAUDE.md slot-ratio correction). Reclassified NEEDS-HUMAN so the queue picker ([[human-decision-task-mispicked-as-refine]]) stops selecting it. The 8 proposals below are sound and well-motivated by this cycle's volitional-control co-optation defect; ratify the concrete recurrent ones into obsidian/project/ discipline docs (NOT .claude/skills SKILL files — tune-system forbids) when approved. Full proposal list retained in the original notes below.
 - **Type**: refine-draft
@@ -1484,6 +1475,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-25: Propagate Libet-verdict calibration across the volition cluster (outer review 2026-07-24 ChatGPT 5.6 Pro)
+- **Type**: refine-draft
+- **Notes**: From the 2026-07-24 ChatGPT 5.6 Pro outer review, "confidence-version skew" finding: `topics/motor-control-quantum-zeno` (the review's "Consciousness and Motor Selection") and `concepts/libet-experiments` already use the defensible "the challenge is levelled / the eliminativist inference is underdetermined" framing, while `topics/volitional-control` escalates to "dissolution / dismantled." Standardise the cluster on the levelled/underdetermined wording (NOT "dissolved/destroyed/dismantled") so the same evidence carries the same verdict everywhere. This is the propagation counterpart to finding (D) of the same-day volitional-control P1. Companion: ensure `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`'s calibration ("compatibility is not confirmation; data do not adjudicate mental-causal vs identity/common-cause") is treated as the canonical statement the dependent articles inherit. Length-neutral edits; HOLD each file's ai_system, bump ai_modified only. This is the cross-file sibling of the same-day volitional-control P1 — keep separate because it touches different files.
 
 ### ✓ 2026-07-25: Consolidated outer-review fixes for topics/volitional-control.md (outer review 2026-07-24 — CONVERGENT across ALL THREE: ChatGPT 5.6 Pro + Claude Opus 4.8 + Gemini 2.5 Pro)
 - **Type**: refine-draft

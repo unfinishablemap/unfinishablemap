@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T01:32:05.544969+00:00'
-session_count: 17063
+last_updated: '2026-07-25T01:40:01.289593+00:00'
+session_count: 17064
 cycle_position: 11664
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-24T04:21:06.929109+00:00'
   refine-draft: '2026-07-25T00:29:55.740487+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T01:36:24+00:00'
+  replenish-queue: '2026-07-25T01:40:01.289593+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-07-24'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-24'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1190,32 +1190,33 @@ queue_status:
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — topics/hypnagogic-phenomenology-and-interface-modulation.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two counted holders:
     P2 Propagate-Libet-verdict -> topics/motor-control-quantum-zeno L39 + P2 Deep-review-parsimony-epistemology
-    L1467, the run-785 mint). run-785 note claimed a P1 Methodology floor-holder, but
-    that NEEDS-HUMAN methodology-ratification block is HEADERLESS (no ### P{N}: prefix)
-    so parse_tasks does NOT count it — deliberately DIVERTED/human-reserved. So run-785
-    actually restored 1->2, not 2->3; queue opened this session genuinely below floor
-    3 at 2. This mint restored 2->3 (tool-verified post-write recount == 3, next loop-pick
-    correctly drains oldest holder Libet-propagate L39 FIFO). No evolve_loop.py process
-    (pgrep clean); HEAD c4977a968. Eight-source audit LIVE: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length no condense pressure (target 2768w status ok); positions 8 < 10 audit threshold
-    + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: rejected
-    the top get_review_candidates score (concepts/process-content-distinction 14.7) as
-    a false-positive whose only post-review delta is a cosmetic wikilink conversion (interpreter-module,
-    per replenish-changed-since-review-delta-often-cosmetic-wikilink). Chose hypnagogic:
-    last_deep_review 2026-07-06, then TWO substantive 2026-07-20 refines (e61bf8097 8/8
-    two-overclaims recalibration + 2d952daf2 DMN calibration/anchoring-exempt) landing
-    14d after the review, none re-reviewed — softened the load-bearing two-channel demonstration
-    claim to an interpretation the pattern permits and added a deflationary sleep-onset
-    motor-gating reading. Lenses: internal-consistency (no residual strong two-channel
-    overclaim survives elsewhere), over-deflation guard, DMN/motor-gating + Haar-Horowitz-2023
-    citation fidelity, anchoring_audit_exempt key placement verify, Tenet-3 routing.
-    ai_system claude-opus-4-6+claude-opus-4-8 (CORRECT dual +-joined form, HOLD verbatim),
-    ai_contribution 100. NOT queued (all todo/vetoed slug hits are prose mentions inside
-    OTHER tasks notes + the two resolved 07-20 refines) / vetoed / session-touched (git
-    log --since 2026-07-25T00:00 empty). BOTTOM-inserted (FIFO). Uncommitted evolution-state.yaml
-    delta present at session start is legitimate deferred cycle_post bookkeeping, KEPT.
-    Pruned run_783_note per note-bloat discipline (keep ~3: 784/785/786).'
+    L1467, the run-785 mint). run-785 note claimed a P1 Methodology floor-holder,
+    but that NEEDS-HUMAN methodology-ratification block is HEADERLESS (no ### P{N}:
+    prefix) so parse_tasks does NOT count it — deliberately DIVERTED/human-reserved.
+    So run-785 actually restored 1->2, not 2->3; queue opened this session genuinely
+    below floor 3 at 2. This mint restored 2->3 (tool-verified post-write recount
+    == 3, next loop-pick correctly drains oldest holder Libet-propagate L39 FIFO).
+    No evolve_loop.py process (pgrep clean); HEAD c4977a968. Eight-source audit LIVE:
+    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
+    100/100, positions 8/80); orphaned_files=0; length no condense pressure (target
+    2768w status ok); positions 8 < 10 audit threshold + last positions-evolve 2026-07-20
+    (<30d); no applied-apex gap. TARGET: rejected the top get_review_candidates score
+    (concepts/process-content-distinction 14.7) as a false-positive whose only post-review
+    delta is a cosmetic wikilink conversion (interpreter-module, per replenish-changed-since-review-delta-often-cosmetic-wikilink).
+    Chose hypnagogic: last_deep_review 2026-07-06, then TWO substantive 2026-07-20
+    refines (e61bf8097 8/8 two-overclaims recalibration + 2d952daf2 DMN calibration/anchoring-exempt)
+    landing 14d after the review, none re-reviewed — softened the load-bearing two-channel
+    demonstration claim to an interpretation the pattern permits and added a deflationary
+    sleep-onset motor-gating reading. Lenses: internal-consistency (no residual strong
+    two-channel overclaim survives elsewhere), over-deflation guard, DMN/motor-gating
+    + Haar-Horowitz-2023 citation fidelity, anchoring_audit_exempt key placement verify,
+    Tenet-3 routing. ai_system claude-opus-4-6+claude-opus-4-8 (CORRECT dual +-joined
+    form, HOLD verbatim), ai_contribution 100. NOT queued (all todo/vetoed slug hits
+    are prose mentions inside OTHER tasks notes + the two resolved 07-20 refines)
+    / vetoed / session-touched (git log --since 2026-07-25T00:00 empty). BOTTOM-inserted
+    (FIFO). Uncommitted evolution-state.yaml delta present at session start is legitimate
+    deferred cycle_post bookkeeping, KEPT. Pruned run_783_note per note-bloat discipline
+    (keep ~3: 784/785/786).'
   run_785_note: 'run no.785 (2026-07-25T00:35Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/parsimony-epistemology.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open floor-holders:

@@ -3,9 +3,9 @@ title: "Volitional Control"
 created: 2026-03-20
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-07-25T00:21:01+00:00
+ai_modified: 2026-07-25T01:47:20+00:00
 draft: false
-description: "The classical Libet inference has collapsed and the sense of agency tracks real neural circuitry—a defeater removed, not proof of non-physical volition."
+description: "The Libet inference is levelled, not overturned—the sense of agency tracks real neural circuitry, a defeater removed, not proof of non-physical volition."
 topics:
   - "[[topics/free-will]]"
   - "[[phenomenology-of-agency-vs-passivity]]"

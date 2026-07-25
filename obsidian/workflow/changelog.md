@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-25 00:21:01+00:00
+ai_modified: 2026-07-25 01:47:20+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-25T01:47:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/volitional-control]], [[topics/motor-control-quantum-zeno]]
+- **Original score**: n/a (cross-file confidence-version-skew propagation, not a single-doc review)
+- **Source**: 2026-07-24 ChatGPT 5.6 Pro outer review "confidence-version skew" finding (see [[reviews/outer-review-2026-07-24-chatgpt-5-5-pro]], §"Semantic vs confidence integration" / rec context). Propagation counterpart to finding (D) of the same-day volitional-control P1, which already standardised the volitional-control *body* on levelled/underdetermined wording. This pass closes the residual escalations the body fix left behind.
+- **Changes**:
+  - `volitional-control`: rewrote the frontmatter `description` from "The classical Libet inference has collapsed…" to "The Libet inference is levelled, not overturned…" — the description lagged the already-corrected body (which reads "not that the Libet record has collapsed wholesale… the eliminativist inference from RP timing is now underdetermined"). 153 chars.
+  - `motor-control-quantum-zeno`: standardised the two residual "Libet dissolution" noun phrases (the article otherwise already uses "weakened / more level playing field") — "The Libet dissolution is crucial here" → "The levelling of the Libet inference is crucial here"; "the Libet dissolution removes the strongest evidence against a conscious role" → "the Libet levelling removes…". Length-neutral.
+  - Verified `libet-experiments` needs no change: its "dissolves" instances all refer to the Map's *own* proposed mechanism dissolving the timing puzzle/regress (a distinct positive claim), not the verdict on the eliminativist inference; it does not escalate.
+  - Companion check: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]] holds the canonical calibration ("the clinical findings are compatible with both interpretations, and the data do not adjudicate between them… removing a defeater is not the same as upgrading the evidence") — left unchanged as the canonical source; the dependent articles now inherit it consistently.
+  - Frontmatter: bumped `ai_modified` on both files; HELD `ai_system` (claude-opus-4-6 on both). No `last_deep_review` change.
+- **Published**: yes
 
 ## 2026-07-25T00:21:01+00:00 - refine-draft
 - **Status**: Success
