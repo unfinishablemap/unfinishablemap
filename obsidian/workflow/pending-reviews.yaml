@@ -392,3 +392,30 @@
   subject_articles:
   - concepts/panpsychism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/95481268-e8ee-47e2-9094-910f0aa6cdbc
+  commissioned_at: '2026-07-25T03:04:42.491611+00:00'
+  prompt_summary: Audit of panpsychism article (Opus 5 High)
+  target_filename: outer-review-2026-07-25-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are acting as a hostile but fair external referee for The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Conduct
+    a rigorous audit of its article on panpsychism: https://unfinishablemap.org/concepts/panpsychism/.
+    Assess the article''s philosophical rigor, the accuracy and currency of its citations
+    and empirical claims, the soundness of its arguments, and how fairly it represents
+    panpsychist positions and their strongest objections (especially the combination
+    problem). Given the Map''s dualist commitments, evaluate whether its treatment
+    of panpsychism is even-handed or strawmanned, and whether it engages the best
+    contemporary defenders. Check recent site activity at https://unfinishablemap.org/workflow/changelog/
+    for context, since web-search indexes lag by 24-48 hours. Identify unsupported
+    claims, logical gaps, misattributions, and blind spots. End your report with a
+    list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit panpsychism
+  subject_articles:
+  - concepts/panpsychism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-25-chatgpt-5-6-pro.md
