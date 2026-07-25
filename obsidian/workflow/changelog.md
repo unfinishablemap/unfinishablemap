@@ -5,6 +5,12 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T10:18:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/locality.md (oldest last_deep_review in pool, 2026-06-19; quantum-adjacent)
+- **Findings**: 2 High (entanglement register inconsistency: non-causal disavowal vs. "natural mechanism" for binding vs. caveat dropped in summary; emergent-spacetime scale equivocation Planck→neural), 2 Medium (Huggett & Wüthrich cited against its own thrust; "same structure across puzzles" is a coherence gate not an empirical constraint). Queued P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-25-locality]]
+
 ## 2026-07-25T09:52:35+00:00 - deep-review
 - **Status**: Success (8th review, converged; metadata-only no-op)
 - **File**: [[concepts/timing-gap-problem]]
