@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T16:18:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/process-and-consciousness]]
+- **Word count**: 3928 → 3928 (no change — no-op review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 7th review, converged apex. Scoped to the one drift since 2026-07-07: commit 7c8635d90 (2026-07-17), a family-resolution edit inherited from the sibling process-philosophy deep-review that touched two quoted strings on L69. Both re-verified at the PRIMARY source, not prior reviews. (1) **Bergson** "Time is invention or it is nothing at all" — the 07-17 removal of "an" is CORRECT; the 07-07 review's "an is correct" note was aggregator-ratification (libquotes "p. 361" bogus). Corroborated: scholarly literature uses the no-"an" form canonically (paper title *"'Time is invention'. Bergson Thinking the Virtual"*); Mitchell continuation "time-invention" parallels the article-less form; goodreads/quotefancy/libquotes mutually inconsistent = corruption source. Now triple-verified (2× on 07-17 + this pass); corpus consistent across 4 files. (2) **Whitehead** reword "the ultimate category" → creativity is "the ultimate," his Category of the Ultimate — accurate to Process and Reality, no change. Citation ledger carried forward (References unchanged since 06-05/07-07; all real-correct). Superlative sweep: 0. Label-leakage/cliché/[1m]/EOF scans CLEAN; links spot-check resolve. No-op stamp: `last_deep_review` bumped to now, `ai_modified` HELD at 2026-07-17T09:32:48, `ai_system` HELD at claude-opus-4-6. Length 98% of soft — length-neutral.
+- **Output**: [[reviews/deep-review-2026-07-25-process-and-consciousness]]
+
+---
+
 ## 2026-07-25T15:58:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/problem-of-other-minds]]
