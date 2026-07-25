@@ -30,7 +30,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T00:46:24+00:00
-ai_modified: 2026-07-23T15:19:38+00:00
+ai_modified: 2026-07-25T05:11:23+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -162,7 +162,7 @@ Can we test which problem is more tractable? Several lines of evidence bear on t
 
 **Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & López Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness, though the interpretation is contested—Warren (2023) argued the same signals are explicable by classical intermolecular multiple-quantum coherence, with no entanglement required, and the authors replied; the finding is unreplicated. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [[entanglement-binding-hypothesis|entanglement binding hypothesis]] explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
 
-**Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
+**Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—some simplified *models* of the 302-neuron nematode have been assigned positive integrated-information-related measures (an autoregressive proxy Φ_AR, not the canonical IIT Φ, which has never been computed for the worm; Antonopoulos, Fokas & Bountis 2015), yet the animal fails behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 
 **Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Khan et al. 2024) support quantum mechanisms for consciousness, again without implicating micro-experience combination.
 
@@ -217,6 +217,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 
 ## References
 
+1. Antonopoulos, C. G., Fokas, A. S., & Bountis, T. (2015). Dynamical Complexity in the C. elegans Neural Network. arXiv:1510.07260.
 1. Chalmers, D.J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 1. Coleman, S. (2014). The Real Combination Problem. *Erkenntnis*, 79, 19-44.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.

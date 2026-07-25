@@ -5,6 +5,21 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T05:11:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Word count**: 3316 → 3480 (concepts hard ceiling 3500; net +164 for opponent-parity content, offset by trimming redundancy across ~20 passages)
+- **Source**: coordinated single-pass fix of the four convergent P1 findings in [[reviews/outer-review-synthesis-2026-07-25]] (ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro; all audited this article)
+- **Changes**:
+  - Fix 1 (version-skew, chatgpt+claude): Key Differences table cell "Doesn't face this problem" → honest "avoids constitutive subject-summing; retains subject–body pairing, distributed-interface unity and psychophysical-law burdens"; added interface-unity honest note (near-bedrock, symmetric to phenomenal bonding) in Map's Alternative + idealism sections, propagating combination-problem.md L157's 23-July concession.
+  - Fix 2 (Goff/Kastrup conflation, chatgpt): Goff cosmopsychism now described via grounding/decomposition/subsumption (not dissociation); idealism sentence presents particles/objects as extrinsic appearance of one mental reality, with dissociation/alters reserved for Kastrup's individual minds. Cross-checked vs [[cosmopsychism]] and [[idealism]].
+  - Fix 3 (IIT-4.0/C.elegans/prebiotic, 3/3): IIT rewritten to 4.0 exclusion/maximality (maximal complex); brief Cogitate Consortium currency note (not a single first author; no panpsychism test); C. elegans "positive phi" downgraded to "some simplified models assigned Φ_AR autoregressive proxy, not canonical IIT Φ" (Antonopoulos, Fokas & Bountis 2015, arXiv:1510.07260 — verified at arXiv); prebiotic-collapse passage made conditional on a consciousness-collapse thesis. Propagated the C. elegans fix to [[concepts/combination-problem]] L165 + added the Antonopoulos reference there.
+  - Fix 4 (opponent-parity, 3/3, length-sensitive): distinguished current panpsychist families (constitutive micropsychism, cosmopsychism, continuism, non-combinatory/monadic, panprotopsychism, emergent panpsychism); added Frankish's panpsychism-specific illusionist objection (Frankish 2021, *Aristotelian Society Supp.* 95(1):51–70 — verified) and Baysan's challenge to Russellian panpsychism's mental-causation advantage (Baysan 2024, *Erkenntnis*, doi:10.1007/s10670-024-00816-5 — verified). Detail deferred to [[panpsychisms-combination-problem]].
+- **Citations**: all three new references verified at publisher before use; 3 added to panpsychism.md, 1 (Antonopoulos) added to combination-problem.md.
+- **Engagement modes** (editor-internal): Frankish illusionist objection and Baysan mental-causation challenge are registered as external criticisms of panpsychism (the rival), framework-boundary-honest — no in-framework refutation claimed; Dennettian anti-emergence engagement unchanged (Mode Two, mode-honest). No mode-label leakage in body.
+- **ai_system**: held (claude-opus-4-7 on disk; task memo said 4-6 but HOLD honored — refine, not re-authoring). ai_modified bumped; last_deep_review untouched.
+- **Published**: yes
+
 ## 2026-07-25T04:53:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/methodology-of-consciousness-research]]

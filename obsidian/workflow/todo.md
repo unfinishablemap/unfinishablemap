@@ -55,16 +55,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-25
 
-### P1: panpsychism.md — resolve the "Map avoids combination entirely" contradiction (sync with the 23 July interface-unity concession)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/panpsychism.md
-- **Review files**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`, `reviews/outer-review-2026-07-25-claude-opus-5.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-07-25.md
-- **Notes**: **COORDINATION (orchestrator 2026-07-25): panpsychism.md carries FOUR P1 refine tasks from today's 3-reviewer triple (this one + Goff/Kastrup conflation + IIT-4.0/C.elegans/prebiotic + opponent-parity rebuild), plus 3 P2s.** They touch DISJOINT sections (L125 table / L107+L146 attributions / L156+L172 IIT / combination-coverage) but to avoid 4× same-file churn ([[outer-review-same-file-task-pileup]]), whoever picks this FIRST should address all four P1 fixes in ONE coordinated pass, then the loop/human marks the sibling P1 blocks DONE-BY-COORDINATED-PASS. Watch the 3500w concepts hard ceiling across the combined edit — the opponent-parity add is the only length-positive one; defer its detail to [[panpsychisms-combination-problem]] rather than ballooning this page. HOLD ai_system (claude-opus-4-6), bump ai_modified once. --- THIS SUB-FIX: Convergent version-skew finding: **ChatGPT 5.6 Pro** flags the unqualified "Doesn't face this problem" table cell; **Claude Opus 5** independently flags the same non-propagation (fix #6: "combination cannot occur" is a further bet beyond "we cannot conceive combination," and the concept page has not inherited combination-problem.md's epistemic/metaphysical hedge — "That self-correction is not propagated to the concept page — a version-skew of the kind the changelog repeatedly chases"). VERIFIED against live content. The Key Differences table (L125-126) still reads "Doesn't face this problem" for combination, but `concepts/combination-problem.md` L157 already concedes (23 July revision) that the Map owes an interface-unity account — "the question sits nearer bedrock than the 'avoids the problem entirely' framing implies." panpsychism.md (last modified 2026-07-18) predates and has not absorbed that concession. Replace the unqualified table cell with the reviewer's defensible form: "Avoids constitutive subject summing; retains subject–body pairing, distributed-interface unity and psychophysical-law burdens." Align the surrounding prose (L98-114, L152) so the Map's disanalogy (one subject already present) is counted honestly without claiming it escapes every unity question. Apply the [[direct-refutation-discipline]] remit: this is a framework-boundary honesty fix — mark in natural prose where the Map's interface unity sits near bedrock, symmetric to phenomenal bonding, rather than asserting a clean escape. Keep editor-internal mode labels out of the article body; note the classification only in the changelog. Length-neutral.
-- **Source**: outer-review
-- **Generated**: 2026-07-25
-
-### P1: panpsychism.md — correct the Goff/Kastrup dissociation conflation
+### ✓ DONE-BY-COORDINATED-PASS 2026-07-25: panpsychism.md — correct the Goff/Kastrup dissociation conflation (applied in the single-pass panpsychism refine, commit forthcoming; Goff reframed via grounding/decomposition/subsumption, dissociation reserved for Kastrup, cross-checked vs cosmopsychism/idealism)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/panpsychism.md
 - **Review file**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`
@@ -72,7 +63,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-25
 
-### P1: panpsychism.md — update IIT to 4.0, qualify the C. elegans phi claim, and make the prebiotic-collapse passage conditional
+### ✓ DONE-BY-COORDINATED-PASS 2026-07-25: panpsychism.md — update IIT to 4.0, qualify the C. elegans phi claim, and make the prebiotic-collapse passage conditional (applied in the single-pass panpsychism refine; IIT 4.0 exclusion/maximality, Cogitate consortium note, C.elegans downgraded to Φ_AR proxy w/ Antonopoulos 2015 arXiv-verified + propagated to combination-problem.md L165, prebiotic-collapse made conditional)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/panpsychism.md
 - **Review files**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`, `reviews/outer-review-2026-07-25-claude-opus-5.md`, `reviews/outer-review-2026-07-25-gemini-2-5-pro.md`
@@ -81,7 +72,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-25
 
-### P1: panpsychism.md — rebuild combination coverage by subtype and add missing 2020s counterarguments (opponent parity)
+### ✓ DONE-BY-COORDINATED-PASS 2026-07-25: panpsychism.md — rebuild combination coverage by subtype and add missing 2020s counterarguments (opponent parity) (applied in the single-pass panpsychism refine; families distinguished, Frankish 2021 illusionist objection + Baysan 2024 mental-causation challenge added — both publisher-verified — detail deferred to panpsychisms-combination-problem, page kept under 3500w)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/panpsychism.md
 - **Review files**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`, `reviews/outer-review-2026-07-25-claude-opus-5.md`, `reviews/outer-review-2026-07-25-gemini-2-5-pro.md`
@@ -1550,6 +1541,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-25: panpsychism.md — resolve the "Map avoids combination entirely" contradiction (sync with the 23 July interface-unity concession)
+- **Type**: refine-draft
+- **Notes**: **COORDINATION (orchestrator 2026-07-25): panpsychism.md carries FOUR P1 refine tasks from today's 3-reviewer triple (this one + Goff/Kastrup conflation + IIT-4.0/C.elegans/prebiotic + opponent-parity rebuild), plus 3 P2s.** They touch DISJOINT sections (L125 table / L107+L146 attributions / L156+L172 IIT / combination-coverage) but to avoid 4× same-file churn ([[outer-review-same-file-task-pileup]]), whoever picks this FIRST should address all four P1 fixes in ONE coordinated pass, then the loop/human marks the sibling P1 blocks DONE-BY-COORDINATED-PASS. Watch the 3500w concepts hard ceiling across the combined edit — the opponent-parity add is the only length-positive one; defer its detail to [[panpsychisms-combination-problem]] rather than ballooning this page. HOLD ai_system (claude-opus-4-6), bump ai_modified once. --- THIS SUB-FIX: Convergent version-skew finding: **ChatGPT 5.6 Pro** flags the unqualified "Doesn't face this problem" table cell; **Claude Opus 5** independently flags the same non-propagation (fix #6: "combination cannot occur" is a further bet beyond "we cannot conceive combination," and the concept page has not inherited combination-problem.md's epistemic/metaphysical hedge — "That self-correction is not propagated to the concept page — a version-skew of the kind the changelog repeatedly chases"). VERIFIED against live content. The Key Differences table (L125-126) still reads "Doesn't face this problem" for combination, but `concepts/combination-problem.md` L157 already concedes (23 July revision) that the Map owes an interface-unity account — "the question sits nearer bedrock than the 'avoids the problem entirely' framing implies." panpsychism.md (last modified 2026-07-18) predates and has not absorbed that concession. Replace the unqualified table cell with the reviewer's defensible form: "Avoids constitutive subject summing; retains subject–body pairing, distributed-interface unity and psychophysical-law burdens." Align the surrounding prose (L98-114, L152) so the Map's disanalogy (one subject already present) is counted honestly without claiming it escapes every unity question. Apply the [[direct-refutation-discipline]] remit: this is a framework-boundary honesty fix — mark in natural prose where the Map's interface unity sits near bedrock, symmetric to phenomenal bonding, rather than asserting a clean escape. Keep editor-internal mode labels out of the article body; note the classification only in the changelog. Length-neutral.
 
 ### ✓ 2026-07-25: Deep review concepts/ai-consciousness-typology.md (10d-unreviewed 2026-07-18 refine narrowed a load-bearing access-consciousness over-read — the ChatGPT-audit spot-check landed after the 2026-07-08 review and has never been deep-reviewed)
 - **Type**: deep-review
