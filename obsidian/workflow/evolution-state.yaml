@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T12:41:27.953363+00:00'
-session_count: 17151
-cycle_position: 11703
+last_updated: '2026-07-25T12:46:54.831593+00:00'
+session_count: 17152
+cycle_position: 11704
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T10:19:56.892067+00:00'
   optimistic-review: '2026-07-25T11:48:32.667330+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T01:04:00.276647+00:00'
-  deep-review: '2026-07-25T12:35:00.261304+00:00'
+  deep-review: '2026-07-25T12:46:54.831593+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T01:04:31.927102+00:00'
   coalesce: '2026-07-25T06:19:03.582291+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6824
+  reviews_completed: 6825
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-25'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1148,45 +1148,49 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T12:40:00+00:00'
-  last_replenishment_prev: '2026-07-25T12:19:00+00:00'
-  last_replenishment_run: 808
+  last_replenishment: '2026-07-25T12:55:00+00:00'
+  last_replenishment_prev: '2026-07-25T12:40:00+00:00'
+  last_replenishment_run: 809
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_806_note: 'run no.806 (2026-07-25T~11:55Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 staleness deep-review mint concepts/skill-delegation.md. Authoritative
-    pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 generalised-probabilistic-theories
-    run-804 + P2 phenomenology-of-musical-understanding run-805); queue dropped 3->2
-    since run-805 as the loop-less local cycle deep-review slot completed run-803''s
-    holder topics/cross-traditional-convergence-on-consciousness-irreducibility (HEAD
-    2a52197d6 auto(deep-review)). Below floor 3, == 3 after (tool-verified post-write
-    count_p0_p2 == 3; new mint parsed deep-review with Type+File lines). No evolve_loop/cycle
-    process (pgrep clean); only uncommitted state delta is the pre-existing deferred
-    cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH standing human decision epistemology-of-convergence-arguments.md untouched;
-    positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: get_review_candidates top real-article scorers generalised-probabilistic
-    (13.85) + musical-understanding (12.80) are the two queued holders; skill-delegation
-    (11.61) is the top UN-QUEUED distinct real article. The lower-sidecar options
-    are EXCLUDED as too-recent same-day re-reviews: cognitive-immune (1 sc) deep-reviewed
-    07-18 (7d); consistent-histories (2 sc) 07-17 (8d) AND quantum-cluster-redundant
-    with queued generalised-probabilistic; the higher-surface attention / mental-causation
-    / introspection are length-over-ceiling (hard_warning) so a deep-review risks
-    growing them. skill-delegation = oldest-cohort opus-4-6 (7-ref apparatus predates
-    the later citation-hygiene sweeps), stalest un-queued at last_deep_review 2026-07-07
-    (18d), delegatory-causation cluster DISTINCT from both holders. analyze_length
-    2115w status ok (concepts hard 3500) -- LENGTH-SAFE, NOT a condense. Pool-drain
-    5+-sidecar floor-restore is ACCEPTABLE (deep_review_over_reviews_converged) --
-    do NOT manufacture a defect; thin 7-ref surface so short pass, highest-yield orthogonal
-    seam is verbatim quote-fidelity + empirical/exegetical-claim fidelity (survive
-    metadata reviews) verified at primary publisher not own page. ai_system claude-opus-4-6
-    (SINGLE cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. NOT
-    queued (only ✓-completed 06-01/07-07 headings; L1510 hit is run-804 Notes prose)
-    / vetoed (none) / session-touched (git --since 2026-07-25T00:00 empty; last touch
-    07-07). BOTTOM-inserted (FIFO). Pruned run_803_note per note-bloat discipline
-    (keep ~3: 804/805/806).'
+  run_809_note: 'run no.809 (2026-07-25T~12:55Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 staleness deep-review mint concepts/self-reference-paradox.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 zombie-master-argument
+    run-807 + P2 objections-to-interactionism run-808); queue dropped 3->2 since run-808
+    as the loop-less local cycle deep-review slot completed run-806 holder concepts/skill-delegation.md.
+    Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed
+    deep-review with Type+File lines, L1534). No evolve_loop/cycle process (pgrep clean);
+    only uncommitted state delta is the pre-existing deferred cycle_post bookkeeping
+    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH standing
+    human decision epistemology-of-convergence-arguments.md untouched; positions 8<10
+    audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex gap.
+    TARGET: past the two queued holders, higher scorers rejected -- process-and-consciousness
+    (12.86) over-reviewed apex 0-refs converged; attention (11.20) + mental-causation
+    (10.97) hard_warning length-risky; cognitive-immune (10.77) reviewed 07-18 (7d);
+    brain-internal-born-rule (10.71) soft near topics-hard; consciousness-and-agency
+    (10.59) apex soft 4747w length-risky; consistent-histories (10.00) reviewed 07-17
+    (8d) + quantum-redundant. self-reference-paradox (9.73) is the highest-scoring un-queued
+    candidate passing every filter with the largest length margin of its 9.73 tier:
+    length-safe (analyze_length 2562w soft_warning, ~938w under concepts hard 3500,
+    length-neutral pass), 18d stale (last_deep_review 2026-07-07, well past the 7-8d
+    too-recent bar), opus-4-7 cohort (distinct from both holders opus-4-6/opus-4-5),
+    self-reference/formal-incompleteness/instrument-object-identity cluster distinct
+    from both holders. ai_modified == last_deep_review (both 07-07) -> ZERO post-review
+    drift, pure age-staleness Source-4 pick, accepted converged pool-drain floor-restore
+    -- do NOT manufacture a defect. SEAM: verbatim quote-fidelity + exegetical-claim
+    fidelity at primary publisher not own page -- verify Wittgenstein Tractatus 5.63-5.641,
+    Hume Treatise I.IV.VI, Godel 1931, Lawvere 1969, Lucas 1961 (Philosophy 36(137):112-127),
+    Nisbett & Wilson 1977, Schwitzgebel 2008, Michel 2023; keep the Lucas/Penrose Godelian
+    anti-mechanism argument engaged as CONTESTED (not established by the Map), keep the
+    weak/strong/irrecoverably-conditioned trichotomy consistent with the void-taxonomy
+    anchors. ai_system claude-opus-4-7 (SINGLE cohort, HOLD verbatim on no-op), ai_contribution
+    100, draft:false. NOT queued (only done 07-07/06-01 headings + unrelated Notes prose)
+    / vetoed (grep hit is prose in an unrelated expand task) / session-touched (git --since
+    2026-07-25T00:00 empty; last touch 07-07). EOF clean (Predictive Construction Void
+    self-cite), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_806_note per note-bloat
+    discipline (keep ~3: 807/808/809).'
   run_808_note: 'run no.808 (2026-07-25T~12:40Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint concepts/objections-to-interactionism.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 skill-delegation
