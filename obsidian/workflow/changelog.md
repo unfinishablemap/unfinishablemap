@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T09:33:15+00:00 - deep-review
+- **Status**: Success (8th review, converged; no-op verification pass)
+- **File**: [[concepts/quantum-indeterminacy-free-will]]
+- **Word count**: 2650 → 2650 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Re-qualified only because two cosmetic cross-link installs bumped `ai_modified` to 2026-07-12. Deltas since 07-06 no-op pass: premise-1 clause linking [[the-consequence-argument-for-incompatibilism]] (6f2f0778e) and text→wikilink of Cramer's transactional interpretation (934b8adb5); both targets verified live. No prose/argument/citation/References change. Calibration (framework-dependent luck response), direct-refutation modes, and attribution all stable; find_superlative_claims=0; §2.4 web-verify legitimately skipped (References byte-stable since 06-02 ledger). Updated only `last_deep_review`; held `ai_modified` at 07-12 HEAD and `ai_system` at claude-opus-4-5 (no-op, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-25-quantum-indeterminacy-free-will]]
+
 ## 2026-07-25T09:23:32+00:00 - deep-review
 - **Status**: Success (8th review, converged; no-op verification pass)
 - **File**: [[topics/the-self-minimal-narrative-and-substantial]]
