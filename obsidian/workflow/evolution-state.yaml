@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T12:17:43.520128+00:00'
-session_count: 17148
+last_updated: '2026-07-25T12:23:56.468603+00:00'
+session_count: 17149
 cycle_position: 11702
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T12:09:35.438249+00:00'
+  replenish-queue: '2026-07-25T12:23:56.468603+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1229,7 +1229,42 @@ queue_status:
     + a different article''s note) / vetoed (no #veto) / session-touched (git --since
     2026-07-25T00:00 empty; last touch 07-16). EOF clean, no [1m] artifact. BOTTOM-inserted
     (FIFO). Pruned run_802_note per note-bloat discipline (keep ~3: 803/804/805).'
-  run_807_note: 'run no.807 (2026-07-25T~12:19Z, interactive /replenish-queue): SINGLE exact-floor +1 staleness deep-review mint concepts/zombie-master-argument.md. Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 phenomenology-of-musical-understanding run-805 + P2 skill-delegation run-806); queue dropped 3->2 since run-806 as the loop-less local cycle deep-review slot completed run-804 holder concepts/generalised-probabilistic-theories.md (HEAD 5fe4f6ced chore-close over f75791b98 auto(deep-review)). Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed deep-review with Type+File lines). No evolve_loop/cycle process (pgrep clean); only uncommitted state delta is the pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH standing human decision epistemology-of-convergence-arguments.md untouched; positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates top real-article scorers musical-understanding (12.80) + skill-delegation (11.61) are the two queued holders. Descending un-queued distinct candidates against the discriminator: attention-and-the-consciousness-interface (11.2, 4011w) + mental-causation (10.97, 3550w) are hard_warning (deep-review risks growing over-ceiling) REJECT; cognitive-immune (10.77) deep-reviewed 07-18 (7d) REJECT; brain-internal-born-rule-testing (10.71) soft_warning 3907w only ~93w under topics hard 4000 (length-risky) REJECT. zombie-master-argument (10.71) is the highest-scoring un-queued candidate passing every filter: length-ok (analyze_length 2470w, concepts hard 3500), last_deep_review 2026-07-09 (16d), oldest-cohort opus-4-6 (ref apparatus predates the citation-hygiene sweeps), zombie/conceivability/illusionism cluster DISTINCT from both holders (aesthetics; delegatory-causation). The 07-12 ai_modified is an auto(coalesce) cross-link touch (HEAD a87034a9b) NOT own-body drift -- pure Source-4 staleness pick. SEAM: multiply metadata-reviewed (07-08/06-02/05-21/05-20 all done) so highest-yield orthogonal seam is verbatim quote-fidelity + exegetical-claim fidelity (survive metadata reviews) -- match Chalmers/Frankish/Dennett/Levine quotes at primary publisher not own page; confirm Type-A illusionism treatment signals 2020s liveness of the Frankish/Dennett programme; honour evidential-status-discipline (conceivability->possibility at live-hypothesis tier). ai_system claude-opus-4-6 (SINGLE cohort, HOLD verbatim on no-op), ai_contribution 100, draft:false. NOT queued (only done 07-08/06-02/05-21/05-20 headings; L1510 hit is run-804 Notes prose) / vetoed (none) / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-12). EOF clean (Levine 1983 ref), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_804_note per note-bloat discipline (keep ~3: 805/806/807).'
+  run_807_note: 'run no.807 (2026-07-25T~12:19Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 staleness deep-review mint concepts/zombie-master-argument.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 phenomenology-of-musical-understanding
+    run-805 + P2 skill-delegation run-806); queue dropped 3->2 since run-806 as the
+    loop-less local cycle deep-review slot completed run-804 holder concepts/generalised-probabilistic-theories.md
+    (HEAD 5fe4f6ced chore-close over f75791b98 auto(deep-review)). Below floor 3,
+    == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed deep-review
+    with Type+File lines). No evolve_loop/cycle process (pgrep clean); only uncommitted
+    state delta is the pre-existing deferred cycle_post bookkeeping -- KEEP. Eight-source
+    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; LENGTH standing human decision
+    epistemology-of-convergence-arguments.md untouched; positions 8<10 audit threshold
+    + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates
+    top real-article scorers musical-understanding (12.80) + skill-delegation (11.61)
+    are the two queued holders. Descending un-queued distinct candidates against the
+    discriminator: attention-and-the-consciousness-interface (11.2, 4011w) + mental-causation
+    (10.97, 3550w) are hard_warning (deep-review risks growing over-ceiling) REJECT;
+    cognitive-immune (10.77) deep-reviewed 07-18 (7d) REJECT; brain-internal-born-rule-testing
+    (10.71) soft_warning 3907w only ~93w under topics hard 4000 (length-risky) REJECT.
+    zombie-master-argument (10.71) is the highest-scoring un-queued candidate passing
+    every filter: length-ok (analyze_length 2470w, concepts hard 3500), last_deep_review
+    2026-07-09 (16d), oldest-cohort opus-4-6 (ref apparatus predates the citation-hygiene
+    sweeps), zombie/conceivability/illusionism cluster DISTINCT from both holders
+    (aesthetics; delegatory-causation). The 07-12 ai_modified is an auto(coalesce)
+    cross-link touch (HEAD a87034a9b) NOT own-body drift -- pure Source-4 staleness
+    pick. SEAM: multiply metadata-reviewed (07-08/06-02/05-21/05-20 all done) so highest-yield
+    orthogonal seam is verbatim quote-fidelity + exegetical-claim fidelity (survive
+    metadata reviews) -- match Chalmers/Frankish/Dennett/Levine quotes at primary
+    publisher not own page; confirm Type-A illusionism treatment signals 2020s liveness
+    of the Frankish/Dennett programme; honour evidential-status-discipline (conceivability->possibility
+    at live-hypothesis tier). ai_system claude-opus-4-6 (SINGLE cohort, HOLD verbatim
+    on no-op), ai_contribution 100, draft:false. NOT queued (only done 07-08/06-02/05-21/05-20
+    headings; L1510 hit is run-804 Notes prose) / vetoed (none) / session-touched
+    (git --since 2026-07-25T00:00 empty; last touch 07-12). EOF clean (Levine 1983
+    ref), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_804_note per note-bloat
+    discipline (keep ~3: 805/806/807).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
