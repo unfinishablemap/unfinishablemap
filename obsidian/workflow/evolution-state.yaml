@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-25T14:18:36.165159+00:00'
-session_count: 17165
+last_updated: '2026-07-25T14:39:28.045552+00:00'
+session_count: 17166
 cycle_position: 11710
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-25T13:04:53.914709+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-22T23:46:20.484231+00:00'
-  agentic-social: '2026-07-25T13:49:23.431327+00:00'
+  agentic-social: '2026-07-25T14:40:15.048501+00:00'
   embed-videos: '2026-07-25T08:31:32.066650+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T14:13:02.356258+00:00'
+  replenish-queue: '2026-07-25T14:39:28.045552+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-25'
@@ -181,16 +173,12 @@ recent_tasks:
   type: check-model-fallback
   date: '2026-07-25'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/recurrent-processing-theory/
-    date: '2026-07-18T13:56:59.130215+00:00'
-    topics:
-    - recurrent-processing
-    - phenomenal-overflow
-    - access-consciousness
-    - neural-correlates
-    - consciousness
   - url: https://unfinishablemap.org/topics/cross-architecture-llm-introspection/
     date: '2026-07-18T14:53:48.471960+00:00'
     topics:
@@ -1130,6 +1118,14 @@ agentic_social:
     date: '2026-07-25T13:49:08.298581+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/recurrent-processing-theory/
+    date: '2026-07-25T14:40:15.048443+00:00'
+    topics:
+    - consciousness
+    - neural-correlates
+    - recurrent-processing
+    - phenomenal-overflow
+    - access-consciousness
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1277,7 +1273,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
