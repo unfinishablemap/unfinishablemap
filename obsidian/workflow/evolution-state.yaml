@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T07:23:52.829410+00:00'
-session_count: 17109
+last_updated: '2026-07-25T07:38:08.772966+00:00'
+session_count: 17110
 cycle_position: 11685
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T06:39:17.166027+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T07:21:25.452471+00:00'
+  replenish-queue: '2026-07-25T07:38:08.772966+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1168,15 +1168,15 @@ queue_status:
     floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parsed
     deep-review with Type+File lines present, heading L1513). No evolve_loop/cycle
     process (pgrep clean); HEAD 566b7c2af; only uncommitted delta is the pre-existing
-    deferred cycle_post state bookkeeping from the transformative-experience-void deep-review
-    (session 17109 / cycle 11685 / deep-review last_run 07:23:52 / reviews_completed
+    deferred cycle_post state bookkeeping from the transformative-experience-void
+    deep-review (session 17109 / cycle 11685 / deep-review last_run 07:23:52 / reviews_completed
     6807 / recent_tasks reorder — KEEP per orphaned-cyclepost-state-advance-in-worktree).
     Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320,
     concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the
     STANDING HUMAN DECISION epistemology-of-convergence-arguments.md untouched; positions
     8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: get_review_candidates top scores are apex-articles.md governance hub
-    + positions/ register files (via positions-evolve). Higher-scored topics candidates
+    gap. TARGET: get_review_candidates top scores are apex-articles.md governance
+    hub + positions/ register files (via positions-evolve). Higher-scored topics candidates
     the-self-minimal (12.86, 6 sidecars) / cross-traditional-convergence (12.86, 8
     sidecars = over-reviewed) / musical-understanding (12.8, opus-4-8 DE-PRIORITIZED-newest)
     passed over; chose empirical-phenomena-mental-causation (12.0, 15d) on the established
@@ -1192,11 +1192,11 @@ queue_status:
     at publisher (NOT own page), currency, verbatim quote-fidelity, citation-framing.
     ai_system claude-opus-4-7 (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution
     100, draft:false. TOPICS / mental-causation / empirical-placebo-choking cluster
-    — DISTINCT from both holders. NOT queued (parse_tasks zero active target; the ~32
-    slug hits are 30 completed/blocked notes-prose + 2 vetoed-task prose mentions as
-    a source/example) / vetoed / session-touched (git --since 2026-07-25T00:00 empty;
-    last touch 07-18). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_792_note
-    per note-bloat discipline (keep ~3: 793/794/795).'
+    — DISTINCT from both holders. NOT queued (parse_tasks zero active target; the
+    ~32 slug hits are 30 completed/blocked notes-prose + 2 vetoed-task prose mentions
+    as a source/example) / vetoed / session-touched (git --since 2026-07-25T00:00
+    empty; last touch 07-18). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO).
+    Pruned run_792_note per note-bloat discipline (keep ~3: 793/794/795).'
   run_794_note: 'run no.794 (2026-07-25T07:10Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness deep-review mint — topics/consciousness-disruption-and-the-mind-brain-interface.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:

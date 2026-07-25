@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-07-11T01:52:00+00:00
+last_deep_review: 2026-07-25T07:38:57+00:00
 coalesced_from:
   - "/topics/history-of-interactionist-dualism/"
   - "/topics/princess-elizabeths-challenge/"
