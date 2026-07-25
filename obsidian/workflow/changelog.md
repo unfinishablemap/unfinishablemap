@@ -5,6 +5,12 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T03:31:22+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/multiple-drafts-model.md (never-previously-reviewed concept engaging a named opponent, Dennett)
+- **Findings**: 3 fixable (1 Low: "formalised" overstatement; 2 Medium: unsupported "widely accepted/contested" quantifiers, under-signposted thin in-framework case). Direct-refutation discipline PASS (no label leakage, honest framework-boundary marking); citations spot-checked accurate. Queued one P3 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-25-multiple-drafts-model]]
+
 ## 2026-07-25T03:16:59+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/death-void]]

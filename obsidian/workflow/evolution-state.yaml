@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T03:18:50.172841+00:00'
-session_count: 17077
+last_updated: '2026-07-25T03:24:47.252923+00:00'
+session_count: 17078
 cycle_position: 11669
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-24T04:21:06.929109+00:00'
   refine-draft: '2026-07-25T01:48:58.521375+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T02:53:35.611437+00:00'
+  replenish-queue: '2026-07-25T03:24:47.252923+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-25'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1189,20 +1189,20 @@ queue_status:
     Born-preserving, so continuity with the Vaassen/Kroedel/Mills-Lowe co-causation
     family is axis-restricted). Later 07-16 commit 8dd43fe0d is frontmatter-only (added
     anchoring_audit_exempt:true, NO body change). Lenses: internal-consistency (sweep
-    for residual UN-qualified "Tenet 2 leans co-causation"/flat difference-making claim
-    surviving in lead/headers/Relation-to-Site contradicting the new axis-restriction),
-    over-deflation guard, citation-framing (Vaassen AJP 2024 — the author emailed a
-    prior Map entry MISFRAMED his preemption argument, verify no re-misframing; verbatim
-    trumping-preemption in-quote fragment still matches current sibling), Tenet-2/3
-    routing. ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim), ai_contribution
-    100, anchoring_audit_exempt:true (verified false-high, do NOT refine to lexical
-    metric). TOPICS / causation-cluster / interactionist-dualism — DISTINCT from both
-    holders (living-with-the-map apex/Tenets-in-practice + ai-consciousness-typology
+    for residual UN-qualified "Tenet 2 leans co-causation"/flat difference-making
+    claim surviving in lead/headers/Relation-to-Site contradicting the new axis-restriction),
+    over-deflation guard, citation-framing (Vaassen AJP 2024 — the author emailed
+    a prior Map entry MISFRAMED his preemption argument, verify no re-misframing;
+    verbatim trumping-preemption in-quote fragment still matches current sibling),
+    Tenet-2/3 routing. ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim),
+    ai_contribution 100, anchoring_audit_exempt:true (verified false-high, do NOT
+    refine to lexical metric). TOPICS / causation-cluster / interactionist-dualism
+    — DISTINCT from both holders (living-with-the-map apex/Tenets-in-practice + ai-consciousness-typology
     concepts/AI-consciousness). NOT queued (all slug heading hits ✓-completed; parse_tasks
     zero active target) / vetoed / session-touched (git --since 2026-07-25T00:00 empty;
-    last touch 07-16). EOF clean (Southgate & Oquatre-sept self-cite pseudonyms — do
-    NOT strip), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_787_note per note-bloat
-    discipline (keep ~3: 788/789/790).'
+    last touch 07-16). EOF clean (Southgate & Oquatre-sept self-cite pseudonyms —
+    do NOT strip), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_787_note per
+    note-bloat discipline (keep ~3: 788/789/790).'
   run_789_note: 'run no.789 (2026-07-25T02:52Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/ai-consciousness-typology.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:

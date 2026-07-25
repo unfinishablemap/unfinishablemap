@@ -1477,6 +1477,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness (floor-restore)
 - **Generated**: 2026-07-25
 
+### P3: Address pessimistic-review findings in concepts/multiple-drafts-model.md
+- **Type**: refine-draft
+- **File**: obsidian/concepts/multiple-drafts-model.md
+- **Notes**: Pessimistic review 2026-07-25 (first-ever review of this never-reviewed article; strong overall — direct-refutation discipline PASS, citations spot-checked accurate). Three fixable items, all length-neutral: (1) §The Objection Split — unsupported sociological quantifiers "widely accepted / widely contested" (cite or soften to common-ground-across-theories; the named critics Chalmers/Block/Strawson already appear two sentences later — cross-reference or fold). (2) Lead — "formalised with Marcel Kinsbourne" overstates; MDM is not a formal model → "developed and defended". (3) One-clause signpost that the verificationism objection is the Map's ONLY genuine in-framework lever against MDM and that the narrator argument is (correctly, per the article's own admission) framework-boundary — sharpens the honest structure already present, does NOT weaken. Optional: populate empty `related_articles: []` from the four body-linked concepts. Do NOT manufacture defects; these are the concrete ones. See pessimistic-2026-07-25-multiple-drafts-model.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-07-25
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
