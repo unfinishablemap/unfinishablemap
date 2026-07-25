@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T14:16:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Word count**: 3773 → 3773 (0) — no-op verification pass (converged, 10th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since 07-06 review was the 07-08 Babcock body-cite correction ("Babcock-Hameroff … 2025" → "Babcock et al. superradiance … 2024"). Web-verified all four body-only brain-interface cites at publisher of record: Babcock et al. 2024 (*J. Phys. Chem. B* 128(17):4035–4046, Kurian group — Hameroff NOT an author, correction confirmed correct), Kerskens 2022 (*J. Phys. Communications* 6:105001), Nirvanic quantum-agent device (MARS 2025), Maier-Dechamps 2018 preregistered QRNG null — all real-correct. Formal 20-entry References layer already web-verified 06-05/07-06, unmodified, not re-litigated. Currency + calibration + label-leakage clean. `last_deep_review` bumped only; `ai_modified`/`ai_system` left at HEAD (not re-authored). Engagement modes unchanged (Tegmark Mode-One-mixed; Deutsch-Wallace Mode One).
+- **Output**: [[reviews/deep-review-2026-07-25-testing-consciousness-collapse]]
+
 ## 2026-07-25T14:03:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-reference-paradox]]
