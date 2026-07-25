@@ -4,7 +4,7 @@ description: "AI-assisted analysis of the locality objection to dualist mind-mat
 created: 2026-01-07
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-19T18:06:23+00:00
+ai_modified: 2026-07-25T10:34:21+00:00
 draft: false
 topics: []
 last_deep_review: 2026-06-19T18:06:23+00:00
@@ -67,7 +67,7 @@ The [[brain-interface-boundary]] article develops this further: neural systems m
 The mind side of dualism could include:
 - Structure sufficient to engage with distributed physical events
 - Intrinsic organisation that maps onto neural patterns
-- Complexity that makes "coordinating billions of sites" straightforward from its perspective
+- Complexity that poses no barrier in principle to "coordinating billions of sites"
 
 We should not import materialist assumptions about simplicity into our conception of what consciousness might be.
 
@@ -79,7 +79,7 @@ What would constrain the posit? Genuine mental structure, if it exists, should b
 
 The locality objection presupposes that space is fundamentally real and that all causation must respect spatial constraints. Both assumptions face independent philosophical challenges.
 
-**Space may not be fundamental.** Several approaches in contemporary physics—loop quantum gravity, certain interpretations of the holographic principle—treat spacetime as emergent from more basic non-spatial structure (Huggett & Wüthrich, 2013). If spatial relations are derived rather than fundamental, then insisting that mind-matter interaction respect spatial locality imposes a constraint that may not apply at the deeper level where causation operates.
+**Space may not be fundamental.** Several approaches in contemporary physics—loop quantum gravity, certain interpretations of the holographic principle—treat spacetime as emergent from more basic non-spatial structure (for the epistemic difficulty this move itself raises, see Huggett & Wüthrich, 2013). If spatial relations are derived rather than fundamental, insisting that mind-matter interaction respect spatial locality might impose a constraint that does not hold at the deeper level where causation operates. This buys nothing at neural scales on its own: at ~10⁻⁹ m spacetime is not merely present but locality-enforcing to extraordinary experimental precision, and emergent-spacetime programs recover exactly that classical locality at accessible scales as a success condition. The relief is available only if psychophysical coupling is claimed to reach *through* the emergent level rather than acting at the classical scale where locality holds—a stronger claim not defended here. Absent it, this response reduces to the more modest point that the metaphysical priority of space is contested.
 
 **Causation need not be spatial.** Mathematical, logical, and modal relationships are causally relevant (laws of nature constrain what happens) without being spatially located. The dualist proposes that consciousness is another non-spatial factor that shapes physical outcomes. The burden is on the objector to show why consciousness specifically must obey spatial constraints that other non-spatial influences (abstract structure, nomological necessity) arguably do not.
 
@@ -91,7 +91,7 @@ The [[binding-problem|binding problem]] asks how distributed neural activity pro
 
 But the same point applies: the mind side of dualism can have whatever structure it needs. If consciousness is unified (as it phenomenologically appears), then it may engage with distributed physical events *as* a unified process. The puzzle of how distributed physics yields unified experience is the hard problem—it exists regardless of whether quantum selection occurs.
 
-Indeed, quantum entanglement may *help* with binding rather than hinder it. If neural quantum events are entangled, they constitute a single holistic state rather than billions of independent decisions. The quantum framework doesn't merely tolerate coordination—it provides a natural mechanism for it.
+Quantum entanglement might bear on binding rather than worsening it. *If* a decoherence-tolerant substrate exists at neural scales—an open and contested question deferred to [[decoherence]]—then entangled neural events would constitute a single holistic state rather than billions of independent decisions, so the framework would not need to treat those sites as independent. That *if* carries all the weight: brain-temperature entanglement across distributed sites is exactly what decoherence is standardly taken to forbid, so this is a conditional pointer to where the argument would have to be made, not a mechanism claimed here.
 
 Quantum selection doesn't make binding harder; binding is already hard. The question is whether we have any reason to think quantum selection is *additionally* problematic. Given the responses above, we don't. The Map's more developed treatment of what consciousness does at the quantum level—selecting within an already-prepared space of outcomes rather than reaching out to coordinate independent sites—appears in [[born-rule-and-the-consciousness-interface|the corridor reading of the Born rule]]; on that picture the "billions of sites" framing already mistakes the structure of the interaction.
 
@@ -101,7 +101,7 @@ The Unfinishable Map's [[tenets]] commit to bidirectional interaction: conscious
 
 The responses here don't *prove* that consciousness coordinates quantum events across the brain. They show that:
 
-1. **The objection applies an inconsistent standard.** Physics itself contains non-local correlations (entanglement) that resist spatially local explanation. Demanding strict locality from a non-physical cause while tolerating physical non-locality is not principled.
+1. **The objection applies an inconsistent standard.** Physics itself contains non-local correlations (entanglement) that resist spatially local explanation—though these are non-causal, carrying no signal (the no-signaling theorem). Demanding strict locality from a non-physical cause while tolerating physical non-locality still needs a principled account of the asymmetry.
 
 2. **The objection assumes too little.** Dualism permits rich structure in the non-physical. A complex mind engaging with complex matter is no more puzzling than complex matter engaging with complex matter.
 

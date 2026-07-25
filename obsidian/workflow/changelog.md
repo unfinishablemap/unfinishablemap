@@ -5,6 +5,19 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T10:34:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/locality]]
+- **Review context**: [[reviews/pessimistic-2026-07-25-locality]]
+- **Changes**:
+  - Issue 1 (HIGH) — entanglement register unified to *illustrative-only*. Binding section: dropped "provides a natural mechanism" overclaim; recast as an explicit decoherence-conditional pointer (brain-temperature entanglement is what decoherence forbids), deferring the mechanism to [[decoherence]] rather than asserting it. Summary point 1: restored the no-signaling caveat (entanglement is non-causal) for truncation-resilience and reframed the "inconsistent standard" claim as owing a principled account of the asymmetry.
+  - Issue 2 (HIGH) — Response 3 "space may not be fundamental": added scale qualifier. Concede Planck-scale non-fundamentality buys nothing at neural scales (~10⁻⁹ m, where spacetime is locality-enforcing and emergent-spacetime programs recover classical locality as a success condition); relief is available only if coupling reaches *through* the emergent level — a stronger claim explicitly not defended here — else the response reduces to "metaphysical priority of space is contested."
+  - Issue 3 (MEDIUM) — Huggett & Wüthrich (2013) demoted to a "but see, for the epistemic difficulty this move raises" cite (its actual thrust is the empirical-incoherence worry against emergent spacetime; title verified, not fabricated). Reference retained.
+  - Overclaim downgrade — "straightforward from its perspective" → "poses no barrier in principle."
+- **Engagement classification**: n/a (no new named-opponent refutation introduced; the physicalist/quantum-skeptic objections are met by lowering the article's register, not by new in-framework refutation).
+- **Frontmatter**: ai_modified bumped; ai_system held (claude-opus-4-5, unchanged authorship).
+- **Length**: approximately neutral. **Published**: yes
+
 ## 2026-07-25T10:18:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/locality.md (oldest last_deep_review in pool, 2026-06-19; quantum-adjacent)

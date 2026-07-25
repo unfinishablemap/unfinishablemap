@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix locality.md entanglement-register + emergent-spacetime scale equivocation
-- **Type**: refine-draft
-- **File**: obsidian/concepts/locality.md
-- **Notes**: Pessimistic review 2026-07-25 found three surviving weaknesses past the article's own hedging. (1) HIGH — entanglement is correctly disavowed as non-causal (line 47) but then re-recruited as "a natural mechanism" for binding (line 94) and re-inflated without the no-signaling caveat in summary point 1 (line 104); pick one register and restore the caveat in the summary. (2) HIGH — Response 3 "space may not be fundamental" (lines 82/86) commits a scale equivocation: Planck-scale non-fundamentality is used to relax a locality constraint that is robustly enforced at neural scales (~10^-9 m); add the scale qualifier or downgrade the claim. (3) MEDIUM — Huggett & Wüthrich 2013 is a paper problematizing emergent spacetime (empirical-incoherence worry), cited as if it supports the move; demote to a "but see" cite or engage it. Also downgrade "provides a natural mechanism" / "straightforward from its perspective" overclaims. See pessimistic-2026-07-25-locality.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-07-25
-
 ### NEEDS-HUMAN (methodology ratification) 2026-07-25: Methodology proposals from 2026-07-24 outer reviews — CONVERGENT ≥2-reviewer disciplines (opponent-parity, freshness trigger, convergence-lock scoping, co-optation-density, stance-review routing, version-skew linter), upgraded P2→P1 by /combine-outer-reviews then DIVERTED from the auto-loop
 - **DIVERSION NOTE (orchestrator 2026-07-25):** combine upgraded this to P1, but its `Type: refine-draft` + `File: project/evidential-status-discipline.md` would have an unattended fork rewrite a standing review-discipline doc — the human's reserved domain per human-supervision.md (same posture as the 2026-06-27 NEEDS-HUMAN methodology items and the deferred CLAUDE.md slot-ratio correction). Reclassified NEEDS-HUMAN so the queue picker ([[human-decision-task-mispicked-as-refine]]) stops selecting it. The 8 proposals below are sound and well-motivated by this cycle's volitional-control co-optation defect; ratify the concrete recurrent ones into obsidian/project/ discipline docs (NOT .claude/skills SKILL files — tune-system forbids) when approved. Full proposal list retained in the original notes below.
 - **Type**: refine-draft
@@ -1529,6 +1522,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-25: Fix locality.md entanglement-register + emergent-spacetime scale equivocation
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-07-25 found three surviving weaknesses past the article's own hedging. (1) HIGH — entanglement is correctly disavowed as non-causal (line 47) but then re-recruited as "a natural mechanism" for binding (line 94) and re-inflated without the no-signaling caveat in summary point 1 (line 104); pick one register and restore the caveat in the summary. (2) HIGH — Response 3 "space may not be fundamental" (lines 82/86) commits a scale equivocation: Planck-scale non-fundamentality is used to relax a locality constraint that is robustly enforced at neural scales (~10^-9 m); add the scale qualifier or downgrade the claim. (3) MEDIUM — Huggett & Wüthrich 2013 is a paper problematizing emergent spacetime (empirical-incoherence worry), cited as if it supports the move; demote to a "but see" cite or engage it. Also downgrade "provides a natural mechanism" / "straightforward from its perspective" overclaims. See pessimistic-2026-07-25-locality.md
 
 ### ✓ 2026-07-25: Deep review concepts/timing-gap-problem.md (staleness floor-restore; older opus-4-6 concept carrying the largest unchecked EMPIRICAL/currency-sensitive quantum-timing citation surface among distinct candidates — verify Denton 2024 / Fisher 2015 / Swift 2018 / Perry 2025-preprint / neural-timing windows at publishers)
 - **Type**: deep-review

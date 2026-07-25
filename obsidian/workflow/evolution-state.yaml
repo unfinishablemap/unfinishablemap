@@ -1,5 +1,9 @@
-last_updated: '2026-07-25T10:19:56.892067+00:00'
-session_count: 17133
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-25T10:33:08.776021+00:00'
+session_count: 17134
 cycle_position: 11694
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-25T06:19:03.582291+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-22T23:46:20.484231+00:00'
-  agentic-social: '2026-07-25T10:32:50.445323+00:00'
+  agentic-social: '2026-07-25T10:33:08.776021+00:00'
   embed-videos: '2026-07-25T08:31:32.066650+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
@@ -97,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -175,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: pessimistic-review
   type: pessimistic-review
+  date: '2026-07-25'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1146,46 +1150,45 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_800_note: "run no.800 (2026-07-25T09:18Z, interactive /replenish-queue): SINGLE\
-    \ exact-floor +1 staleness deep-review mint topics/curated-mind.md. Authoritative\
-    \ pre-write count_p0_p2_tasks(load_todo()) / parse_tasks P0-P2 open == 2 (holders\
-    \ P2 quantum-indeterminacy-free-will run-798 L1499 + P2 timing-gap-problem run-799\
-    \ L1506); queue dropped 3->2 since run-799 as the loop-less local cycle deep-review\
-    \ slot completed run-797s holder concepts/self-and-self-consciousness (HEAD 76729b78b\
-    \ auto(deep-review)). Below floor 3, == 3 after (tool-verified post-write count_p0_p2\
-    \ == 3; new mint parsed deep-review with Type+File lines, heading L1512). No evolve_loop/cycle\
-    \ process (pgrep clean); only uncommitted state delta is the pre-existing deferred\
-    \ cycle_post bookkeeping from the self-and-self-consciousness deep-review \u2014\
-    \ KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,\
-    \ concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the\
-    \ standing human decision epistemology-of-convergence-arguments.md untouched;\
-    \ positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no\
-    \ applied-apex gap. TARGET: both content holders already queued; higher-scored\
-    \ distinct candidates self-minimal (12.86, opus-4-6 thin ~10-cite surface + selfhood-overlap\
-    \ w/ just-completed holder) / cross-traditional (12.86, over-reviewed + touched\
-    \ 07-18) / musical-understanding (12.8, opus-4-8 DE-PRIORITIZED-newest) / generalised-probabilistic-theories\
-    \ (12.31, opus-4-8 newest + reviewed 07-16 9d) passed over; chose curated-mind\
-    \ (11.61, 19d) on the established discriminator \u2014 SIZE of unchecked verify\
-    \ surface: older claude-opus-4-6 cohort, last_deep_review 2026-07-06, largest\
-    \ distinct-pool citation apparatus (~19 year-cites / 10 numbered refs) \u2014\
-    \ Botvinick&Cohen 1998 Nature rubber-hand, Ramachandran&Hirstein 1998 Brain, Ramachandran&Rogers-Ramachandran\
-    \ 1996 Proc R Soc B, Carter 2005 Curr Biol rivalry, Goldstone 1998, Clark 2013\
-    \ BBS, Bartlett 1932, Fodor 1983 \u2014 never re-verified since the 07-06 review;\
-    \ file 19d fully-converged (last touch 07-06) so STALENESS pick justified by unverified\
-    \ surface not change. LENGTH: analyze_length 2799w status ok (topics hard 4000)\
-    \ = LENGTH-NEUTRAL deep-review, NOT a condense. Lenses: citation-metadata at publisher\
-    \ (NOT own page), empirical-claim fidelity (rubber-hand, meditator rivalry-dominance,\
-    \ mirror-therapy phantom-limb, Bartlett schema-reconstruction), verbatim quote-fidelity,\
-    \ citation-framing (Fodor modularity / Clark predictive-processing for positions\
-    \ they hold), currency; ref-10 Southgate & Oquatre-six is a LEGIT Map self-cite\
-    \ pseudonym \u2014 do NOT strip. ai_system claude-opus-4-6 (SINGLE older cohort,\
-    \ HOLD verbatim on no-op), ai_contribution 100, draft:false. TOPICS / curated-mind\
-    \ / dualist-perception cluster \u2014 DISTINCT from both holders (quantum-indeterminacy-free-will\
-    \ concepts/free-will opus-4-5; timing-gap-problem concepts/quantum-timing opus-4-6).\
-    \ NOT queued (parse_tasks 0 active/vetoed target) / vetoed / session-touched (git\
-    \ --since 2026-07-25T00:00 empty; last touch 07-06). EOF clean, no [1m] artifact.\
-    \ BOTTOM-inserted (FIFO). Pruned run_797_note per note-bloat discipline (keep\
-    \ ~3: 798/799/800)."
+  run_800_note: 'run no.800 (2026-07-25T09:18Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 staleness deep-review mint topics/curated-mind.md. Authoritative
+    pre-write count_p0_p2_tasks(load_todo()) / parse_tasks P0-P2 open == 2 (holders
+    P2 quantum-indeterminacy-free-will run-798 L1499 + P2 timing-gap-problem run-799
+    L1506); queue dropped 3->2 since run-799 as the loop-less local cycle deep-review
+    slot completed run-797s holder concepts/self-and-self-consciousness (HEAD 76729b78b
+    auto(deep-review)). Below floor 3, == 3 after (tool-verified post-write count_p0_p2
+    == 3; new mint parsed deep-review with Type+File lines, heading L1512). No evolve_loop/cycle
+    process (pgrep clean); only uncommitted state delta is the pre-existing deferred
+    cycle_post bookkeeping from the self-and-self-consciousness deep-review — KEEP.
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
+    319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH the standing
+    human decision epistemology-of-convergence-arguments.md untouched; positions 8<10
+    audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex gap.
+    TARGET: both content holders already queued; higher-scored distinct candidates
+    self-minimal (12.86, opus-4-6 thin ~10-cite surface + selfhood-overlap w/ just-completed
+    holder) / cross-traditional (12.86, over-reviewed + touched 07-18) / musical-understanding
+    (12.8, opus-4-8 DE-PRIORITIZED-newest) / generalised-probabilistic-theories (12.31,
+    opus-4-8 newest + reviewed 07-16 9d) passed over; chose curated-mind (11.61, 19d)
+    on the established discriminator — SIZE of unchecked verify surface: older claude-opus-4-6
+    cohort, last_deep_review 2026-07-06, largest distinct-pool citation apparatus
+    (~19 year-cites / 10 numbered refs) — Botvinick&Cohen 1998 Nature rubber-hand,
+    Ramachandran&Hirstein 1998 Brain, Ramachandran&Rogers-Ramachandran 1996 Proc R
+    Soc B, Carter 2005 Curr Biol rivalry, Goldstone 1998, Clark 2013 BBS, Bartlett
+    1932, Fodor 1983 — never re-verified since the 07-06 review; file 19d fully-converged
+    (last touch 07-06) so STALENESS pick justified by unverified surface not change.
+    LENGTH: analyze_length 2799w status ok (topics hard 4000) = LENGTH-NEUTRAL deep-review,
+    NOT a condense. Lenses: citation-metadata at publisher (NOT own page), empirical-claim
+    fidelity (rubber-hand, meditator rivalry-dominance, mirror-therapy phantom-limb,
+    Bartlett schema-reconstruction), verbatim quote-fidelity, citation-framing (Fodor
+    modularity / Clark predictive-processing for positions they hold), currency; ref-10
+    Southgate & Oquatre-six is a LEGIT Map self-cite pseudonym — do NOT strip. ai_system
+    claude-opus-4-6 (SINGLE older cohort, HOLD verbatim on no-op), ai_contribution
+    100, draft:false. TOPICS / curated-mind / dualist-perception cluster — DISTINCT
+    from both holders (quantum-indeterminacy-free-will concepts/free-will opus-4-5;
+    timing-gap-problem concepts/quantum-timing opus-4-6). NOT queued (parse_tasks
+    0 active/vetoed target) / vetoed / session-touched (git --since 2026-07-25T00:00
+    empty; last touch 07-06). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO).
+    Pruned run_797_note per note-bloat discipline (keep ~3: 798/799/800).'
   run_801_note: 'run no.801 (2026-07-25T09:49Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint concepts/access-consciousness.md. Authoritative
     pre-write count_p0_p2_tasks(load_todo()) / parse_tasks P0-P2 open == 2 (holders
@@ -1276,8 +1279,7 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
-    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
-    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
-    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
-    \ most-recent."
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
+    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
+    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
+    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
