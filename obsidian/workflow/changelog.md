@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 01:47:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T02:17:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/parsimony-epistemology]]
+- **Word count**: 2626 → 2626 (+0; one integration wikilink added, length-neutral)
+- **Critical issues addressed**: 0 (none found — twelfth review, long-converged)
+- **Medium issues addressed**: 1 (integration gap in new prose: linked `phenomenal-concept strategies` → [[phenomenal-concepts-strategy]])
+- **Enhancements made**: 1
+- **Scope**: Vetted the one change since the 2026-06-21 review — the 2026-07-21 refine-draft's new rival-position matrix (commit `6505f6470`, ChatGPT 5.6 Pro "opponent caricatures" flag). Matrix confirmed accurate, well-calibrated, no label leakage, no self-contradiction, no new citations (06-21 13-cite ledger stands). Engagement mode: framework-mapping/Mode Two.
+- **Output**: [[reviews/deep-review-2026-07-25-parsimony-epistemology]]
+
 ## 2026-07-25T01:47:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/volitional-control]], [[topics/motor-control-quantum-zeno]]
