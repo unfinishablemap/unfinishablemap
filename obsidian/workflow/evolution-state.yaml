@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T03:06:27.774550+00:00'
-session_count: 17076
-cycle_position: 11668
+last_updated: '2026-07-25T03:18:50.172841+00:00'
+session_count: 17077
+cycle_position: 11669
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-24T21:19:25.887399+00:00'
   optimistic-review: '2026-07-24T22:19:51.984122+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T01:04:00.276647+00:00'
-  deep-review: '2026-07-25T02:48:01.719350+00:00'
+  deep-review: '2026-07-25T03:18:50.172841+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T01:04:31.927102+00:00'
   coalesce: '2026-07-24T23:03:43.189830+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6793
+  reviews_completed: 6794
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-07-25'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1154,12 +1154,55 @@ queue_status:
   p3_tasks: 4
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T02:52:00+00:00'
-  last_replenishment_prev: '2026-07-25T02:36:51+00:00'
-  last_replenishment_run: 789
+  last_replenishment: '2026-07-25T03:23:00+00:00'
+  last_replenishment_prev: '2026-07-25T02:52:00+00:00'
+  last_replenishment_run: 790
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_790_note: 'run no.790 (2026-07-25T03:23Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness (changed-since-review) deep-review mint — topics/interventionist-and-counterfactual-dualism.md.
+    Authoritative pre-write parse_tasks(...)[''active''] P0-P2 pending == 2 (two open
+    floor-holders: P2 Deep-review living-with-the-map L1458 [run-788] + P2 Deep-review
+    ai-consciousness-typology L1465 [run-789]). Queue dropped 3->2 since run-789 because
+    the loop picked+completed the FIFO-oldest holder death-void (run-787 mint, auto(deep-review)
+    HEAD 40e4fcddd). Below floor 3, == 3 after (tool-verified post-write parse_tasks
+    P0-P2 == 3, new mint parsed deep-review with Type+File lines present). No evolve_loop
+    process (pgrep clean); HEAD 40e4fcddd; only uncommitted delta the pre-existing
+    evolution-state.yaml deferred cycle_post bookkeeping (KEEP). Eight-source audit
+    LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; LENGTH the one article offender
+    epistemology-of-convergence-arguments.md (6533w >6000 crit) is a STANDING HUMAN
+    LENGTH DECISION in ## Blocked Tasks — NOT re-litigated (target 2394w topics ok,
+    length-neutral); positions 8<10 audit threshold + last positions-evolve 2026-07-20
+    (<30d); no applied-apex gap. TARGET: get_review_candidates top scores are apex-articles.md
+    governance hub (110) + positions/ register files (108/107, via positions-evolve
+    not deep-review). Of genuine unqueued content candidates transformative-experience-void
+    (29.5 embed-only cosmetic), methodology-of-consciousness-research (14.4 converged
+    link-wiring), self-minimal/cross-traditional (cosmetic wikilink) all weaker no-op
+    risks. Chose interventionist-and-counterfactual-dualism (13.8): last_deep_review
+    2026-07-15T10:54, then refine 974aa5483 (2026-07-15T13:23, selection-only-channel
+    cross-review finding) landed AFTER the same-day review, unreviewed — REWROTE the
+    pivotal discriminating claim "Tenet 2 is the discriminating tenet — and it too
+    leans co-causation" with a load-bearing per-trial-vs-ensemble difference-making
+    distinction (strict selection-only reading = per-trial difference-making yet ensemble
+    Born-preserving, so continuity with the Vaassen/Kroedel/Mills-Lowe co-causation
+    family is axis-restricted). Later 07-16 commit 8dd43fe0d is frontmatter-only (added
+    anchoring_audit_exempt:true, NO body change). Lenses: internal-consistency (sweep
+    for residual UN-qualified "Tenet 2 leans co-causation"/flat difference-making claim
+    surviving in lead/headers/Relation-to-Site contradicting the new axis-restriction),
+    over-deflation guard, citation-framing (Vaassen AJP 2024 — the author emailed a
+    prior Map entry MISFRAMED his preemption argument, verify no re-misframing; verbatim
+    trumping-preemption in-quote fragment still matches current sibling), Tenet-2/3
+    routing. ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim), ai_contribution
+    100, anchoring_audit_exempt:true (verified false-high, do NOT refine to lexical
+    metric). TOPICS / causation-cluster / interactionist-dualism — DISTINCT from both
+    holders (living-with-the-map apex/Tenets-in-practice + ai-consciousness-typology
+    concepts/AI-consciousness). NOT queued (all slug heading hits ✓-completed; parse_tasks
+    zero active target) / vetoed / session-touched (git --since 2026-07-25T00:00 empty;
+    last touch 07-16). EOF clean (Southgate & Oquatre-sept self-cite pseudonyms — do
+    NOT strip), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_787_note per note-bloat
+    discipline (keep ~3: 788/789/790).'
   run_789_note: 'run no.789 (2026-07-25T02:52Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/ai-consciousness-typology.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
@@ -1240,42 +1283,6 @@ queue_status:
     hits checkmark-completed) / vetoed / session-touched (git --since 2026-07-25T00:00
     empty). BOTTOM-inserted (FIFO). Pruned run_785_note per note-bloat discipline
     (keep ~3: 786/787/788).'
-  run_787_note: 'run no.787 (2026-07-25T01:50Z, interactive /replenish-queue): SINGLE
-    EXACT-floor +1 staleness (changed-since-review) deep-review mint — voids/death-void.md.
-    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open holders:
-    P2 Deep-review parsimony-epistemology L1459 [run-785] + P2 Deep-review hypnagogic
-    L1466 [run-786]). The queue dropped 3->2 this iteration because the loop just
-    picked and completed the FIFO-oldest holder "Propagate Libet-verdict calibration"
-    -> topics/motor-control-quantum-zeno (HEAD 3727291b0b47, auto(refine-draft) 01:48:58Z).
-    Below floor 3, == 3 after (tool-verified post-write recount == 3, next loop-pick
-    correctly drains oldest holder parsimony L1459 FIFO). No evolve_loop.py process
-    (pgrep clean). Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED
-    (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length no condense pressure (death-void ~1400w authored << 3000 voids hard); positions
-    8 < 10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: scanner top is the apex-articles governance hub (110, not a target)
-    + positions/ register files (108/107, maintained via positions-evolve not deep-review).
-    Of genuine unqueued content candidates, transformative-experience-void (29.5)
-    has only an embed-videos trigger since 06-26 (cosmetic) and methodology-of-consciousness-research
-    (14.4) is 18d-converged cross-link wiring — both weaker. Chose death-void (25.0):
-    last_deep_review 2026-06-20, then refine b0c9082c4 (2026-07-23T17:22, from the
-    07-23 pessimistic review) landed 33d AFTER the review, unreviewed — downgraded
-    a LOAD-BEARING Dualism claim ("receives support … distinctive ontological status"
-    -> "consistent with … hospitable to, not a proof") and repaired the tenet non-sequitur
-    with the physicalist indexical-access rival reading. That refine addressed only
-    items (1)-(2) of a 7-item pessimistic review; items (3)-(7) [illusory-falsifiability,
-    convergence double-count, Nagel deprivationism, Bering citation verify, TMT currency]
-    may remain. Lenses: internal-consistency vs residual strong claims, over-deflation
-    guard, citation-verify the Bering cite (l.92 — likely Bering & Bjorklund 2004
-    Dev Psych 40(2) NOT Bering 2002 J Cog&Culture 2(4), verify at publisher), TMT
-    mortality-salience currency, evidential-tier discipline, Tenet-4/Tenet-5 routing.
-    ai_system claude-opus-4-6 (SINGLE, older cohort, HOLD verbatim). Void section
-    / death-mortality-indexical cluster — DISTINCT from both holders (parsimony concepts/Tenet-5
-    + hypnagogic topics/sleep-onset). NOT queued (07-23 pessimistic task L1519 is
-    ✓-resolved by b0c9082c4; other grep-hits L6750/L12701 old completed reviews +
-    L1605 unrelated infant-consciousness floor-note prose mention) / vetoed / session-touched
-    (git log --since 2026-07-25T00:00 empty; last touch 07-23). BOTTOM-inserted (FIFO).
-    Pruned run_784_note per note-bloat discipline (keep ~3: 785/786/787).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
