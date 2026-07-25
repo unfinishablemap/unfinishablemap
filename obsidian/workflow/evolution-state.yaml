@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T17:05:57.419533+00:00'
-session_count: 17186
+last_updated: '2026-07-25T17:13:37.688372+00:00'
+session_count: 17187
 cycle_position: 11717
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T17:00:04.473378+00:00'
+  replenish-queue: '2026-07-25T17:13:37.688372+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1234,9 +1234,9 @@ queue_status:
     run-818 as the loop-less local cycle deep-review slot completed run-816 holder
     apex/open-question-ai-consciousness.md (last_runs deep-review 17:05Z). Below floor
     3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint parses TaskType.DEEP_REVIEW
-    with Type+File lines). No evolve_loop/unfin-cycle process (pgrep clean); HEAD e632fca30;
-    only uncommitted state delta is pre-existing deferred cycle_post bookkeeping --
-    KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    with Type+File lines). No evolve_loop/unfin-cycle process (pgrep clean); HEAD
+    e632fca30; only uncommitted state delta is pre-existing deferred cycle_post bookkeeping
+    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
     concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH human-decision
     tasks already queued P3; positions 8<10 audit threshold + last positions-evolve
     2026-07-20 (<30d); no applied-apex gap. TARGET (Source 4 changed-since-review):
@@ -1244,38 +1244,38 @@ queue_status:
     candidate and OUT-scores both holders (probability 9.00, quantum-neural-timing
     8.24). last_deep_review 2026-07-06 (18d) verified the then-content; the 2026-07-09
     apex-evolve (commit 2982f58c2) ADDED a substantive, never-deep-reviewed incompatibilism
-    paragraph -- Van Inwagen Consequence Argument (leeway), Pereboom manipulation argument
-    (source), Frankfurt cases as pivot, Timpe wide-source location -- diff-confirmed
-    substantive not cosmetic. Higher-scored entries excluded: dualism-cartography (11.25)
-    session-touched TODAY (15:37 apex-evolve); cognitive-immune (10.77) reviewed 07-18
-    (7d) too-recent; apex-articles.md (110) governance index not a review target. Length-safe
-    alternatives lost: machine-consciousness (8.37, sonnet-4-5 FULLY-distinct, genuine
-    07-12 grain-dispute rewrite) 4127w = 127w OVER topics hard 4000 -> hard_warning
+    paragraph -- Van Inwagen Consequence Argument (leeway), Pereboom manipulation
+    argument (source), Frankfurt cases as pivot, Timpe wide-source location -- diff-confirmed
+    substantive not cosmetic. Higher-scored entries excluded: dualism-cartography
+    (11.25) session-touched TODAY (15:37 apex-evolve); cognitive-immune (10.77) reviewed
+    07-18 (7d) too-recent; apex-articles.md (110) governance index not a review target.
+    Length-safe alternatives lost: machine-consciousness (8.37, sonnet-4-5 FULLY-distinct,
+    genuine 07-12 grain-dispute rewrite) 4127w = 127w OVER topics hard 4000 -> hard_warning
     length-BLOCKED; personal-identity standing human-length-decision; eliminative-materialism
     39w-under-hard length-risky + converged; consistent-histories reviewed 07-17 converged;
     introspection/phenomenal-authority/qm-interpretations hard_warning length-BLOCKED;
     neural-correlates saturated 9-sidecar cosmetic delta; higher-order-theories cite
     cluster swept 07-11. COHORT CAVEAT accepted (soft, subordinate): SINGLE claude-opus-4-6
-    partially overlaps probability holder base (opus-4-6+opus-4-8) -- softened per run-813/816
-    ruling (cohort-distinctness subordinate to unchecked-surface yield); the only FULLY-distinct
-    alternative (machine-consciousness sonnet-4-5) is length-BLOCKED. Cluster distinct
-    (free-will/agent-causation/incompatibilism vs MWI/Born-rule + decoherence-timing).
-    LENGTH: analyze_length 4747w soft_warning, ~253w under apex hard 5000 -- strictly
-    length-neutral verification pass, do NOT pad. SEAM: verify the 07-09 incompatibilism
-    attributions (Van Inwagen 1983, Pereboom 2001/2014, Timpe wide-source, Frankfurt
-    1969, Fischer & Ravizza 1998, Wolf Reason View, Kane 2024, Lowe/O''Connor substance
-    causation, Whitehead) + the decoherence-paragraph empirical cites (Tegmark 2000
-    ~10^-13s; Babcock 2024 lab-only NOT in-brain; Khan 2024 behavioural NOT coherence;
-    Denton modelled NOT first) at PRIMARY publisher not own page; keep libertarian
-    agent-causation framework-relative + preserve Compatibilist-Symmetry concession
-    + evidential hedges. APEX (apex_last_synthesis 2026-07-09): real fix bumps last_deep_review+ai_modified
-    length-neutrally HOLD ai_system claude-opus-4-6 + als; no-op -> last_deep_review
-    ONLY, HOLD ai_modified (2026-07-09) + ai_system + als. ai_contribution 100, draft:false.
-    NOT queued (hits are completed 07-06/07-07 tasks + cross-link Notes) / vetoed /
-    session-touched (git --since 2026-07-25T00:00 empty; last touch 07-09). EOF clean
-    (incompatibilism-landscape See-Also bullet), no [1m] artifact. BOTTOM-inserted (FIFO).
-    Full reasoning in the todo task Notes. Pruned run_816_note per note-bloat discipline
-    (keep ~3: 817/818/819).'
+    partially overlaps probability holder base (opus-4-6+opus-4-8) -- softened per
+    run-813/816 ruling (cohort-distinctness subordinate to unchecked-surface yield);
+    the only FULLY-distinct alternative (machine-consciousness sonnet-4-5) is length-BLOCKED.
+    Cluster distinct (free-will/agent-causation/incompatibilism vs MWI/Born-rule +
+    decoherence-timing). LENGTH: analyze_length 4747w soft_warning, ~253w under apex
+    hard 5000 -- strictly length-neutral verification pass, do NOT pad. SEAM: verify
+    the 07-09 incompatibilism attributions (Van Inwagen 1983, Pereboom 2001/2014,
+    Timpe wide-source, Frankfurt 1969, Fischer & Ravizza 1998, Wolf Reason View, Kane
+    2024, Lowe/O''Connor substance causation, Whitehead) + the decoherence-paragraph
+    empirical cites (Tegmark 2000 ~10^-13s; Babcock 2024 lab-only NOT in-brain; Khan
+    2024 behavioural NOT coherence; Denton modelled NOT first) at PRIMARY publisher
+    not own page; keep libertarian agent-causation framework-relative + preserve Compatibilist-Symmetry
+    concession + evidential hedges. APEX (apex_last_synthesis 2026-07-09): real fix
+    bumps last_deep_review+ai_modified length-neutrally HOLD ai_system claude-opus-4-6
+    + als; no-op -> last_deep_review ONLY, HOLD ai_modified (2026-07-09) + ai_system
+    + als. ai_contribution 100, draft:false. NOT queued (hits are completed 07-06/07-07
+    tasks + cross-link Notes) / vetoed / session-touched (git --since 2026-07-25T00:00
+    empty; last touch 07-09). EOF clean (incompatibilism-landscape See-Also bullet),
+    no [1m] artifact. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes.
+    Pruned run_816_note per note-bloat discipline (keep ~3: 817/818/819).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3

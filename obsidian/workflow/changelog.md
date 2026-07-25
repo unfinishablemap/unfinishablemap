@@ -5,6 +5,13 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T17:15:09+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: positions/quantum-interface.md (Quantum Interface register, P-Q1–P-Q10; never previously reviewed, no deep-review)
+- **Findings**: 2 Medium concrete fixables (P-Q1/P-Q2 decoherence-collapse ontology under-specified; Torres Alegre 2025 unrefereed-preprint status + compatibility-vs-support over-read not surfaced in register), 1 Low (P-Q10 shift-conditions omit own failure branch), plus 2 counterarguments to keep marked (preferred mechanism least empirically exposed; indexical resolution imports contested subject). Headline: empirical support is entirely rival-constraining/precedent; positive mechanism content is all grade-D framework-internal — honestly graded but the crux critics seize on. No forbidden editor-vocab; altered-state/direct-refutation audits n/a.
+- **Task queued**: P2 positions-evolve on quantum-interface.md
+- **Output**: [[reviews/pessimistic-2026-07-25-quantum-interface]]
+
 ## 2026-07-25T17:02:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/open-question-ai-consciousness]]
