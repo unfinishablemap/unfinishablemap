@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T15:03:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Word count**: 3907 → 3907 (0) — no-op convergence pass (7th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Changes since 07-10 (full publisher-verified ledger, all cites real-correct) were three cross-review cross-link installs plus ONE new empirical figure: inline "(Sinha ~10⁻², Kauten ~10⁻⁴)" delegating to [[concepts/sorkin-higher-order-interference]]. Web-verified Kauten et al. (2017) *New J. Phys.* 19, 033017 (arXiv:1508.03253) at IOPscience: reports higher-order interference ">four orders below expected pairwise interference, refining previous bounds by two orders of magnitude" → "~10⁻⁴" faithful and correctly pairs as the two-orders tightening of Sinha ~10⁻². Discharges the discrepancy flag the producing research note left owed ("Sinha-10⁻² vs Kauten-10⁻⁴ vs 2×10⁻³ … NOT reconciled"). Kauten treated as delegated pointer (linked concept owns the ref; Sinha has own ref #11 for the in-voice measurement claim) — no duplicate ref added ([[hub-articles-accrete-crosslink-length]]). Prior 15-cite ledger NOT re-litigated. No slippage, no attribution error. Engagement modes unchanged (Tegmark Mode Two, MWI Mode Three, epiphenomenalism mixed). `last_deep_review` bumped only; `ai_modified` (07-16) / `ai_system` (claude-opus-4-7) held at HEAD (no content edit → no re-authorship, preserves drift detection).
+- **Output**: [[reviews/deep-review-2026-07-25-brain-internal-born-rule-testing]]
+
 ## 2026-07-25T14:46:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/global-workspace-theory]]
