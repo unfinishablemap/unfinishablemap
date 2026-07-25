@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T08:22:39+00:00 - deep-review
+- **Status**: Success (no-op — 6th review, converged; only change since 2026-07-09 was a cosmetic text→wikilink conversion)
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Word count**: 3999 → 3999 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: One commit since last review (84ebe5e9a, 2026-07-18) — converts plain-text "Kim's exclusion argument" to `[[causal-exclusion-argument|Kim's exclusion argument]]` in the Agent Causation section; body + References otherwise unchanged, so §2.4 web-verify not re-triggered (2026-07-09 ledger stands). New wikilink target resolves (concepts/causal-exclusion-argument.md). No slippage, no label leakage, no artifacts. Bumped `last_deep_review` only; held `ai_modified` (2026-07-18T13:42:46) and `ai_system` (claude-opus-4-7) at HEAD per no-op discipline.
+- **Output**: [[reviews/deep-review-2026-07-25-empirical-phenomena-mental-causation]]
+
 ## 2026-07-25T08:05:43+00:00 - deep-review
 - **Status**: Success (no-op — 6th review, converged; only changes since 2026-07-11 were cosmetic: Cogitate/Melloni citation-form sweep + hemispherectomy wikilink)
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
