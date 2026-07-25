@@ -1,13 +1,102 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-24 14:18:26+00:00
+ai_modified: 2026-07-25 00:21:01+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-24'
+date: '2026-07-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-25T00:21:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [volitional-control](/topics/volitional-control/)
+- **Original score**: ~6/10 (well-written and now bibliographically clean, but flagged REVISE-HARD / Major-revision / Reject by the 2026-07-24 outer-review triple for systematic overclaim, author-stance co-optation, and stale literature)
+- **Source**: 2026-07-24 same-subject outer-review triple (ChatGPT 5.6 Pro + Claude Opus 4.8 + Gemini 2.5 Pro) via [outer-review-synthesis-2026-07-24](/reviews/outer-review-synthesis-2026-07-24/). Single consolidated pass, all findings on one file (no per-item split).
+- **Changes**:
+  - CONVERGENT (all-three): added a new "Predictive Processing: The Strongest Physicalist Rival" section engaging active inference (Friston/Clark/Hohwy/Seth) as the decisive omission — concedes the comparator model relied on throughout is itself physicalist and predicts the dissociation/binding/stimulation/plasticity data with no non-physical remainder; located the Map's opening at the hard-problem boundary (feltness stipulated not derived) and marked the empirical equivalence honestly. Cross-links [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/).
+  - CONVERGENT (all-three): removed compatibility-counted-as-confirmation across lead, Braun paragraph, and site-perspective section; reframed lead/description from "converge against epiphenomenalism" to "defeater removed, not proof of non-physical volition"; retitled Libet section (Dissolution → Reassessing); softened "collectively dismantled/dissolution" to "levelled / underdetermined".
+  - CONVERGENT (all-three): Sjöberg 2024 relabelled from "analysis / independent confirmation" to *Brain* essay reflecting on a prior cohort; disclosed Sjöberg's own anti-dualist stance; narrowed to "reported effort survived impairment of an SMA-linked execution gateway"; folded in Bala et al. 2025 SMA-proper/pre-SMA executive-deficit dissociation and the phenomenology-dissociates-from-capacity reading.
+  - VERIFIED-at-publisher fixes: (A) Rajan 2019 — "greater in willed than instructed, relative increase, from ~500 ms"; dropped "absent"/"automatic"/"~300 ms". (B) Sjöberg genre/independence (above). (C) Blakemore self-tickle — added Blakemore, Smith, Steel, Johnstone & Frith (2000, *Psychological Medicine* 30(5):1131–1139, verified at Cambridge Core), narrowed to reduced sensory attenuation in the auditory-hallucination/passivity symptom groups.
+  - Added Gavenas, Schurger & Maoz (2025) probe-paradigm with parity framing (cuts against both readings). Restored Braun's "largely consistent with Libet" headline. Desmurget PPC reframed as theory-neutral (refutes motor-output-detection, not physicalism; PPC multiplexes; n=7). Brass–Haggard dFMC downgraded from "exerts top-down inhibition" to correlational fMRI candidate correlate. Intentional-binding downgraded (post-2020 construct-validity; own second disconfirmer marked live). Neuroplasticity: removed the invalid epiphenomenalist counterfactual (common-cause model); added one-line acknowledgement that classical experience-dependent plasticity fully accounts for the OCD data (the sanctioned residue — Quantum-Zeno "vacuous" charge NOT imported, per synthesis).
+  - Reportability argument harmonised with the softened flagship: "cannot be rationally held" → conditional "serious objection", naming the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) and cross-linking [bidirectional-interaction](/concepts/bidirectional-interaction/).
+  - References: added Bala 2025, Blakemore 2000, Gavenas 2025 (renumbered 25→28).
+- **Engagement classification** (editor-internal, not in article body per [direct-refutation-discipline](/project/direct-refutation-discipline/)): active inference — Mode Two + Mode Three (identifies the unearned foundational move — feltness stipulated not derived from prediction-error minimisation — then marks present-data empirical equivalence as a framework-boundary residue, not a refutation). Veto regress objection — Mode Two (causal closure named as the disputed premise the objection helps itself to) with an explicit Mode Three concession that this reframes rather than empirically refutes. Wegner/reportability — Mode Three (downgraded to conditional; phenomenal-concept reply named honestly). No boundary-substitution introduced; no mode labels in prose.
+- **Held**: ai_system claude-opus-4-6 (not flipped to a reviewer's model); last_deep_review unchanged (this is a claim-currency refine, not a deep review); calibration paragraph at former line 112 preserved intact.
+- **Excluded**: Gemini's Quantum-Zeno "scientifically vacuous / question-begging" charge (disputed by its own verification; not over-conceded).
+- **Length note**: authored prose grew ~2860 → ~4500 words (full-body count_words ~5250, between topics hard 4000 and critical 6000; partly reference-apparatus inflation). Growth is load-bearing — 9 convergent clusters + a mandated new rival section — so NOT queuing an immediate condense (would be refine-then-condense churn); flagged here for a future length-neutral pass if it drifts toward critical.
+- **Published**: yes
+
+## 2026-07-25T00:15:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-24
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-4-8, gemini-2-5-pro; all audited topics/volitional-control.md)
+- **Clusters**: 9 convergent (3 flagged by all three reviewers, 6 by two), 6 singleton, 0 divergent (1 Gemini charge excluded as disputed-by-own-verification)
+- **Tasks upgraded**: 1 (P2→P1: methodology-proposals task; the article-level convergent task was already at the P1 ceiling from the per-review passes)
+- **Tasks deduplicated**: 0 (per-review /outer-review had already consolidated all three reviewers into one P1 refine-draft task on volitional-control.md per outer-review-same-file-task-pileup)
+- **Output**: [outer-review-synthesis-2026-07-24](/reviews/outer-review-synthesis-2026-07-24/)
+
+## 2026-07-25T00:08:39+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-07-24-gemini-2-5-pro](/reviews/outer-review-2026-07-24-gemini-2-5-pro/)
+- **Subject**: topics/volitional-control.md (hostile referee report; third reviewer of the 2026-07-24 same-subject triple)
+- **Claims verified**: 2 (both real, accurately described — Gavenas/Schurger/Maoz 2025 *Imaging Neuroscience* probe paradigm; Bala et al. 2025 *Frontiers in Human Neuroscience* SMA executive deficits)
+- **High-value findings**: 3 actionable (Gavenas 2025 probe-paradigm omission; SMA-proper/pre-SMA dissociation + Bala 2025 executive-deficit literature; predictive-processing/active-inference untested rival — now converged across all 3 reviewers). 2 overstated (article already hedges Schwartz/quantum-Zeno and already concedes the phenomenology-vs-causation gap at line 112).
+- **Tasks generated**: 0 new — folded findings (K/L/M) into the existing same-subject P1 consolidated task per outer-review-same-file-task-pileup (task instructed "keep ONE task on this file, do NOT split"; updated header to CONVERGENT-across-all-three and added the Gemini review file to its Review-file list)
+
+## 2026-07-24T23:33:31+00:00 - deep-review
+- **Status**: Success (no-op after verification)
+- **File**: [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/)
+- **Word count**: 1720 → 1720 (0) — ok (69% of 2500 concepts/ soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Substantive value**: re-qualified only because a post-review frontmatter link-population commit (03449f167) bumped ai_modified past the 07-14 last_deep_review; body prose + References byte-identical to the 07-14 clean review, so §2.4 web-verify trigger unmet (prior full ledger of 10 cites stands). Verified all six newly-populated frontmatter wikilink targets resolve (quantum-biology-and-neural-consciousness, quantum-zeno-effect, quantum-biology-and-neural-mechanisms, decoherence, tenets, evolutionary-case-for-quantum-neural-effects). Timescale figures ("tens of microseconds"/"two orders") and Denton-2024/Kominis Zeno double-calibration intact. No [1m] artifact. Updated last_deep_review only; ai_modified/ai_system held at HEAD (no body change).
+- **Output**: [deep-review-2026-07-24-radical-pair-magnetoreception](/reviews/deep-review-2026-07-24-radical-pair-magnetoreception/)
+
+## 2026-07-24T22:49:03+00:00 - deep-review
+- **Status**: Success (no-op after verification)
+- **File**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)
+- **Word count**: 3313 → 3313 (0) — soft-warning (133% of 2500 concepts/ soft, under 3500 hard; inflated by 22-entry References + 7-item Further Reading apparatus, argument prose under ceiling; length-neutral, no trim)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Substantive value**: full publisher-of-record web-verify of the citation surface — the 07-21 outer-review revision (commit b74af832b) roughly doubled the References to 22 entries, none of which was in the 07-14 ledger. All 22 cites verified real-correct at publisher (Burns 2022, Smithies 2019, McCain 2017, Moretti 2018, BonJour 2004, Holtrop 2026, Tana 2025, Huemer 2024, Vogel 2000, Cohen 2002, McAllister 2023, McCain & Moretti 2021, Moretti 2020, McCain/Stapleford/Steup 2023, + carried 07-14 cohort). Markie walnut-tree factual detail (planted 24 April 1914) verified. Attribution checks (Tucker-as-defender, McCain-isolation-author, Moretti-reflective-awareness, McCain & Moretti as Bayesian reconcilers) all correct. No slippage, no label leakage (survey exposition, not opponent refutation). Only cosmetic residue: Tana title drops "Here?" — left as-is.
+- **Output**: [deep-review-2026-07-24-phenomenal-conservatism](/reviews/deep-review-2026-07-24-phenomenal-conservatism/)
+
+## 2026-07-24T22:16:37+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: No-Many-Worlds / Tenet-4 cohort (07-24 edits) — multi-mind-collapse-problem, probability-problem-in-many-worlds, quantum-probability-consciousness, many-worlds. Distinct from the morning quantum-consciousness-mechanisms cluster.
+- **Findings**: Cluster is calibration-disciplined; Process Philosopher and Hardline Empiricist converge in praise (in-framework vs framework-boundary distinction held rigorously; parsimony refused in both directions; tenet-as-evidence-upgrade praise-worthily declined). No calibration concern, no refine corrective. Minted one P3 refine-draft: four reciprocal cross-links wiring the interface/selection articles to the probability-crisis article.
+- **Output**: [optimistic-2026-07-24-many-worlds-probability-cluster](/reviews/optimistic-2026-07-24-many-worlds-probability-cluster/)
+
+## 2026-07-24T21:34:04+00:00 - deep-review
+- **Status**: Success (no-op after verification)
+- **File**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
+- **Word count**: 2795 → 2795 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all four empirical-margin items were fixed hours earlier by the same-day [pessimistic](/reviews/pessimistic-2026-07-24-multi-mind-collapse-problem/)→refine-draft sequence; this pass verified those fixes landed cleanly and introduced no new defects)
+- **Enhancements made**: 0
+- **Citation web-verify**: References delta (newly-added Hagan, Hameroff & Tuszyński 2002, Phys. Rev. E 65:061901) verified real-correct at publisher of record; other 9 cites unchanged from 2026-06-24 real-correct ledger. New wikilink [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) resolves live, no archive collision. No superlatives, no label leakage, no EOF artifact.
+- **Reasoning-mode**: physicalist modulation-vs-causation Mode One→Mixed (honest); RQM Mode Three (boundary-marking). No boundary-substitution, no leakage.
+- **Frontmatter**: advanced last_deep_review→2026-07-24T21:34:04+00:00; left ai_modified at refine's 21:20:48 (no body change); ai_system untouched.
+- **Output**: [deep-review-2026-07-24-multi-mind-collapse-problem](/reviews/deep-review-2026-07-24-multi-mind-collapse-problem/)
+
+## 2026-07-24T21:20:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
+- **Review**: [pessimistic-2026-07-24-multi-mind-collapse-problem](/reviews/pessimistic-2026-07-24-multi-mind-collapse-problem/)
+- **Changes**: (1) Decoherence: softened "Hameroff's group showed"→"Hagan, Hameroff, and Tuszyński (2002) replied", framed as contested rebuttal (unconfirmed assumptions), added the Hagan et al. (2002, Phys. Rev. E 65:061901) reference entry — verified at publisher. (2) Objective-collapse baseline: added hedge at the modulation-baseline (GRW/CSL narrowed by experiment, Penrose collapse unconfirmed), cross-linked [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/), marked the multi-mind resolution conditional on some such mechanism. (3) Sharpened case: made line-88 "shared observations" bullet explicit that it answers the line-49 hard case only by assuming external pre-collapse, so the residual hard case IS the brain-to-brain-entanglement falsifier and the dissolution is conditional on strict locality. (4) no-signaling clause: nonlocality alone doesn't violate no-signaling (EPR) — leaned on the preferred-frame/relativity argument. (5) PEAR "indistinguishable from noise"→"so small and independently unreplicated they are best explained as experimental artifact". (6) magnetoreception "show evolution can exploit"→"suggest evolution may exploit".
+- **Preserved**: central interface-locality resolution and the lines 92–99 modulation-is-causation concession untouched. HELD ai_system (claude-opus-4-5-20251101); bumped ai_modified only.
+- **Published**: yes
+
+## 2026-07-24T21:16:58+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/multi-mind-collapse-problem.md (first dedicated pessimistic review; 6 prior deep-reviews)
+- **Output**: [pessimistic-2026-07-24-multi-mind-collapse-problem](/reviews/pessimistic-2026-07-24-multi-mind-collapse-problem/)
+- **Notes**: 4 issues (3 Medium, 1 Low–Medium), all calibration/citation at empirical margins — central resolution sound. Highest-value: contested Hagan-2002 decoherence recalculation stated as fact with no cite; objective-collapse baseline unhedged vs sibling Penrose-prospects article; line-49 sharpened case deflected at line 88. Minor no-signaling/PEAR/magnetoreception language flags. No label-leakage, no boundary-substitution, altered-state-symmetry gate not met. Queued one P2 refine-draft.
 
 ## 2026-07-24T20:45:09+00:00 - deep-review
 - **Status**: Success

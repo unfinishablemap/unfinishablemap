@@ -17,7 +17,7 @@ description: Michael Huemer's phenomenal conservatism as epistemology—seemings
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 00:23:00+00:00
+last_deep_review: 2026-07-24 22:49:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
