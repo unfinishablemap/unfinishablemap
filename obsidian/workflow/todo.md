@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reconcile zombie-evolution argument with the Map's interactionism in consciousness-evolution-and-biology
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: topics/consciousness-evolution-and-biology.md
+- **Notes**: Pessimistic review 2026-07-25 found one high-severity internal tension plus two medium issues (all additive, not a rewrite — preserve the strong trichotomy frame, tenet section, and verified citations). (1) HIGH: the "Zombie Intuition Applied to Evolution" section (lines 72–78) stages the zombie-evolution puzzle as broadly forceful ("selection cannot distinguish the conscious version from the zombie") while the Map holds consciousness biases quantum outcomes (lines 100, 144) — under interactionism a physical duplicate cannot lack consciousness (or the biasing is screened off toward epiphenomenalism), so the puzzle bites materialism, not the Map. Reframe the zombie section as a reductio against function-exhausts-fitness materialism and cross-link causal-closure / the-epiphenomenalist-threat for the screening-off worry. (2) MEDIUM falsifiability + epistemic/metaphysical equivocation: line 144 "Biology's inability to find consciousness ... is exactly what minimal interaction predicts" books undetectability as confirmation; downgrade to "consistent with," state falsification conditions, signpost evolutionary-case-for-quantum-neural-effects. (3) MEDIUM: line 78 magnetoreception/tunnelling analogy imports feasibility without naming the decoherence objection — add an acknowledging clause + link quantum-neural-timing-constraints. Minor: attribute etiological theory to Wright/Millikan/Neander (Godfrey-Smith 1994 is a modern-history variant); hedge "illusion problem is at least as hard as the hard problem" as the Map's contention. Length-neutral. Tenet alignment: Tenets 1–3. See [[reviews/pessimistic-2026-07-25-consciousness-evolution-and-biology]].
+- **Source**: pessimistic-review (2026-07-25 consciousness-evolution-and-biology)
+
 ### P3: Cross-links from optimistic review 2026-07-25 (empirical-testing / falsifiability cluster)
 - **Type**: refine-draft
 - **Status**: pending

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T23:44:44.297642+00:00'
-session_count: 17239
+last_updated: '2026-07-25T23:54:22.513450+00:00'
+session_count: 17240
 cycle_position: 11741
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T23:39:59.860419+00:00'
+  replenish-queue: '2026-07-25T23:54:22.513450+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1154,40 +1154,42 @@ queue_status:
     positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
     TARGET: many-worlds (opus-4-6, concepts, soft_warning 3492w, only 8w under 3500
     hard, ldr 2026-07-11T03:38 = BODY-DRIFT review a0063f3e9). This is the file run-831
-    explicitly RESERVED as 2nd-best behind interactionist-dualism because opus-4-6 then
-    overlapped the metacognition holder; that holder has now drained so the opus-4-6
+    explicitly RESERVED as 2nd-best behind interactionist-dualism because opus-4-6
+    then overlapped the metacognition holder; that holder has now drained so the opus-4-6
     cohort is clear and many-worlds is the natural next distinct pick (DISTINCT from
     both holders sonnet-4-5 + opus-4-5; concepts overlaps interactionist-dualism only).
     GENUINE delta: commit 7d9e1b03b (2026-07-16 08:09, auto refine-draft, No-MWI cluster
-    follow-up from the CONVERGENT ChatGPT+Claude+Gemini No-MWI refine) reconciled two
-    remaining "no resources" over-claim loci, REWRITING a quoted No-MWI tenet passage
-    ("provides no resources" -> "framework''s own resources ... presuppose the very
-    centred subject ... stays open rather than answered") AFTER the 07-11 review, and
-    NO deep-review ran since (git log 7d9e1b03b..HEAD -- file shows only the 07-24 coalesce
-    cross-link cleanup 112b81e9f, cosmetic). POOL this run: top get_review_candidates
-    are the two holders or hard_warning over-length topics/concepts (length-BLOCKED);
-    the recurring length-safe no-ops verified AGAIN -- free-will (opus-4-5/topics) delta
-    = cosmetic compatibilism/anarchic-hand wikilink conversions ONLY (git diff 45dc83b37..HEAD
-    confirmed, REJECTED); evolution-of-consciousness delta = 07-19 Broad/Chalmers quote
-    fixes the strong-emergence review file L73 EXPLICITLY parked as near-no-op (REJECTED);
-    functionalism = cosmetic cross-link adds (REJECTED); open-individualism/self-representational
-    = own-review+embed only, no delta (REJECTED); steelman-process-monism = reciprocal
-    cross-link (REJECTED); dualism-cartography session-touched-today by apex-evolve 15:36
-    (churn-excluded). SEAM (do NOT presume broken; clean-verify no-op after REAL scrutiny
-    ACCEPTABLE): (a) PRIMARY internal-quote fidelity -- verify the reconciled No-MWI
-    quote matches the CURRENT tenets.md ^no-many-worlds rationale VERBATIM (sibling-quote
-    channel drifts when source rewritten); (b) confirm the two-loci over-claim reconciliation
+    follow-up from the CONVERGENT ChatGPT+Claude+Gemini No-MWI refine) reconciled
+    two remaining "no resources" over-claim loci, REWRITING a quoted No-MWI tenet
+    passage ("provides no resources" -> "framework''s own resources ... presuppose
+    the very centred subject ... stays open rather than answered") AFTER the 07-11
+    review, and NO deep-review ran since (git log 7d9e1b03b..HEAD -- file shows only
+    the 07-24 coalesce cross-link cleanup 112b81e9f, cosmetic). POOL this run: top
+    get_review_candidates are the two holders or hard_warning over-length topics/concepts
+    (length-BLOCKED); the recurring length-safe no-ops verified AGAIN -- free-will
+    (opus-4-5/topics) delta = cosmetic compatibilism/anarchic-hand wikilink conversions
+    ONLY (git diff 45dc83b37..HEAD confirmed, REJECTED); evolution-of-consciousness
+    delta = 07-19 Broad/Chalmers quote fixes the strong-emergence review file L73
+    EXPLICITLY parked as near-no-op (REJECTED); functionalism = cosmetic cross-link
+    adds (REJECTED); open-individualism/self-representational = own-review+embed only,
+    no delta (REJECTED); steelman-process-monism = reciprocal cross-link (REJECTED);
+    dualism-cartography session-touched-today by apex-evolve 15:36 (churn-excluded).
+    SEAM (do NOT presume broken; clean-verify no-op after REAL scrutiny ACCEPTABLE):
+    (a) PRIMARY internal-quote fidelity -- verify the reconciled No-MWI quote matches
+    the CURRENT tenets.md ^no-many-worlds rationale VERBATIM (sibling-quote channel
+    drifts when source rewritten); (b) confirm the two-loci over-claim reconciliation
     is COMPLETE (grep residual bald "no resources"), both loci now framework-relative
     not hardened "MWI cannot"; (c) the 07-24 coalesce removed the [[probability-objections-many-worlds]]
     cross-link -- that article IS archived (archive/concepts/), removal legit; confirm
     prose fold-in accurate + no dangling wikilink; (d) Wallace/Saunders/Sebens/Carroll
-    Born-rule-programme sentence stays framework-relative, preserve the "not that MWI
-    cannot recover" hedge. LENGTH strictly neutral + VERY TIGHT (8w headroom; a restore
-    that would breach 3500w DIVERTS to human length decision, not exceed). SCOPE NARROW:
-    verify ONLY the 7d9e1b03b reconciliation + archival cross-link cleanup, do NOT re-sweep
-    the converged ledger or the 07-11-reviewed quantum-suicide/Many-Minds passages.
-    HOLD ai_system claude-opus-4-6 SINGLE. BOTTOM-inserted (FIFO). Full reasoning in
-    the todo task Notes. Pruned run_829_note per note-bloat discipline (keep ~3: 830/831/832).'
+    Born-rule-programme sentence stays framework-relative, preserve the "not that
+    MWI cannot recover" hedge. LENGTH strictly neutral + VERY TIGHT (8w headroom;
+    a restore that would breach 3500w DIVERTS to human length decision, not exceed).
+    SCOPE NARROW: verify ONLY the 7d9e1b03b reconciliation + archival cross-link cleanup,
+    do NOT re-sweep the converged ledger or the 07-11-reviewed quantum-suicide/Many-Minds
+    passages. HOLD ai_system claude-opus-4-6 SINGLE. BOTTOM-inserted (FIFO). Full
+    reasoning in the todo task Notes. Pruned run_829_note per note-bloat discipline
+    (keep ~3: 830/831/832).'
   run_830_note: 'run no.830 (2026-07-25T23:00Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint topics/argument-from-reason.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 agent-causation opus-4-6

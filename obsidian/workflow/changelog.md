@@ -5,6 +5,12 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T23:56:48+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-evolution-and-biology]] (oldest content article; never given a dedicated pessimistic pass)
+- **Findings**: 1 high (zombie-evolution argument in tension with Map's interactionism), 2 medium (falsifiability gap in minimal-quantum-interaction claim; unaddressed decoherence objection behind magnetoreception analogy), plus minor attribution/hedge notes. Discipline audits clean (no label leakage; altered-state Audit Two N/A; citations verified accurate). Queued 1 P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-25-consciousness-evolution-and-biology]]
+
 ## 2026-07-25T23:42:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/metacognition]]
