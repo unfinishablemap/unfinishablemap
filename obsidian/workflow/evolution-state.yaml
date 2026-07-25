@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-25T11:07:18.035021+00:00'
-session_count: 17139
+last_updated: '2026-07-25T11:23:21.583935+00:00'
+session_count: 17140
 cycle_position: 11698
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-25T06:19:03.582291+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-22T23:46:20.484231+00:00'
-  agentic-social: '2026-07-25T10:33:08.776021+00:00'
+  agentic-social: '2026-07-25T11:24:30.526659+00:00'
   embed-videos: '2026-07-25T08:31:32.066650+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-25T10:36:00.075358+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T10:54:54.900050+00:00'
+  replenish-queue: '2026-07-25T11:23:21.583935+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -181,14 +173,12 @@ recent_tasks:
   type: deep-review
   date: '2026-07-25'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
-    date: '2026-07-18T11:16:57.206858+00:00'
-    topics:
-    - methodology
-    - consciousness
-    - intersubjectivity
   - url: https://unfinishablemap.org/concepts/bohm-implicate-order-and-active-information/
     date: '2026-07-18T12:20:30.507207+00:00'
     topics:
@@ -1127,6 +1117,11 @@ agentic_social:
     - no-self
     - buddhism
     - substrate-continuity
+  - url: https://unfinishablemap.org/apex/interface-specification-programme/
+    date: '2026-07-25T11:24:30.526586+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1251,8 +1246,8 @@ queue_status:
     run-803); queue dropped 3->2 since run-803 as the loop-less local cycle deep-review
     slot completed run-801s holder concepts/access-consciousness (HEAD fc8abcf46 auto(deep-review)).
     Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint
-    parsed deep-review with Type+File lines). No evolve_loop/cycle process (pgrep clean);
-    only uncommitted state delta is the pre-existing deferred cycle_post bookkeeping
+    parsed deep-review with Type+File lines). No evolve_loop/cycle process (pgrep
+    clean); only uncommitted state delta is the pre-existing deferred cycle_post bookkeeping
     from the access-consciousness deep-review -- KEEP. Eight-source audit: chains/unconsumed-research/gap
     BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
     LENGTH standing human decision epistemology-of-convergence-arguments.md untouched;
@@ -1264,33 +1259,34 @@ queue_status:
     UN-QUEUED distinct real article) on the REFINED discriminator -- SIZE of the genuinely
     UNCHECKED verify surface, using review-sidecar count as the how-checked proxy:
     it carries only 1 prior review sidecar (9-ref References block verified once at
-    07-16 creation), whereas the higher-raw-ref older-cohort alternatives are all over-reviewed/converged
-    (attention-and-the-consciousness-interface 28 refs but 5 sidecars AND 4011w hard_warning;
-    zombie-master-argument 7; skill-delegation 7; mental-causation 7 + hard_warning;
-    process-and-consciousness apex 10). Other 1-sidecar option cognitive-immune-system
-    reviewed 07-18 (7d) + lower score. opus-4-8, last_deep_review 2026-07-16 (9d) --
-    recent, so clean-verify no-op is ACCEPTABLE, do NOT manufacture a defect. Prior
-    runs 801-803 passed it over only because access-consciousness/bandwidth/cross-traditional
+    07-16 creation), whereas the higher-raw-ref older-cohort alternatives are all
+    over-reviewed/converged (attention-and-the-consciousness-interface 28 refs but
+    5 sidecars AND 4011w hard_warning; zombie-master-argument 7; skill-delegation
+    7; mental-causation 7 + hard_warning; process-and-consciousness apex 10). Other
+    1-sidecar option cognitive-immune-system reviewed 07-18 (7d) + lower score. opus-4-8,
+    last_deep_review 2026-07-16 (9d) -- recent, so clean-verify no-op is ACCEPTABLE,
+    do NOT manufacture a defect. Prior runs 801-803 passed it over only because access-consciousness/bandwidth/cross-traditional
     (larger surfaces) were stronger -- now consumed/queued. LENGTH: analyze_length
     1756w status ok (concepts hard 3500) -- genuinely LENGTH-SAFE deep-review, NOT
     a condense. Lenses: citation-metadata at publisher (NOT own page; ref 7 Torres
-    Alegre 2025 arXiv:2512.12636 Born-rule-from-steering -- confirm ID resolves + not
-    yet published/withdrawn; Hardy/Barrett/Chiribella-DAriano-Perinotti GPT axioms),
+    Alegre 2025 arXiv:2512.12636 Born-rule-from-steering -- confirm ID resolves +
+    not yet published/withdrawn; Hardy/Barrett/Chiribella-DAriano-Perinotti GPT axioms),
     formal/empirical-claim fidelity (Born-rule derivation match), verbatim quote-fidelity,
     citation-framing (physics sources for positions they hold; preserve GPT-to-interface
-    evidential hedges), currency; refs 8-9 Southgate & Oquatre-sept/huit are LEGIT Map
-    self-cite pseudonyms -- do NOT strip. ai_system claude-opus-4-8 (SINGLE cohort,
+    evidential hedges), currency; refs 8-9 Southgate & Oquatre-sept/huit are LEGIT
+    Map self-cite pseudonyms -- do NOT strip. ai_system claude-opus-4-8 (SINGLE cohort,
     HOLD verbatim on no-op), ai_contribution 100, draft:false. CONCEPTS / quantum-foundations
     / GPT cluster -- DISTINCT from both holders (bandwidth concepts/interface-architecture
     opus-4-7; cross-traditional topics/non-Western opus-4-7). NOT queued (parse_tasks
     0 active/vetoed target) / vetoed / session-touched (git --since 2026-07-25T00:00
-    empty; clean working tree). EOF clean (ends on ref-9 Southgate & Oquatre-huit self-cite),
-    no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_801_note per note-bloat discipline
-    (keep ~3: 802/803/804).'
+    empty; clean working tree). EOF clean (ends on ref-9 Southgate & Oquatre-huit
+    self-cite), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_801_note per
+    note-bloat discipline (keep ~3: 802/803/804).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
