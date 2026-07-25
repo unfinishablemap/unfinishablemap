@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T19:35:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/meditation-and-consciousness-modes]]
+- **Word count**: 3296 → 3296 (0; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 low-severity (9th review; deeply converged). Re-qualified via a 07-18 refine-draft that reframed the Schwartz plasticity passage into exemplary honest-calibration prose (plasticity = evidence shared with physicalist rivals, discriminating residual stated as undemonstrated) — that edit preserved intact. Sole fix: reporting verb "shows that"→"found that" in the same passage to resolve mild factive/hedge tension with the "small, unreplicated" caveat. No critical/calibration issues; lead scope and plasticity framing both stable. §2.4 web-verify carried forward from the 07-11 full six-cite publisher ledger (References unchanged, no new cites, find_superlative_claims empty). No label leakage; engagement modes unchanged. ai_system held at claude-opus-4-5 (verb tweak is not re-authoring)
+- **Output**: [[reviews/deep-review-2026-07-25-meditation-and-consciousness-modes]]
+
 ## 2026-07-25T19:32:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/eliminative-materialism]]

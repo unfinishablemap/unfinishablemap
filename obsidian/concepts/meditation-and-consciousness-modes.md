@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-18T12:37:25+00:00
+ai_modified: 2026-07-25T19:35:30+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -25,10 +25,10 @@ related_articles:
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-07-11T08:40:00+00:00
+last_deep_review: 2026-07-25T19:35:30+00:00
 ---
 
 Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [[mental-effort|mental effort]]. In another mode—passive witnessing—consciousness observes without intervening, allowing mental contents to arise and pass without selection. Meditation traditions have discovered and cultivated both modes, and converging neuroscientific evidence associates each with distinguishable neural correlates—though it establishes that meditative states differ neurally from rest and effortful cognition rather than delivering a clean double-dissociation of the two.
@@ -41,7 +41,7 @@ This distinction extends The Unfinishable Map's [[tenets#^bidirectional-interact
 
 Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [[attention-as-interface|attention]] influences which neural patterns persist. The proposed mechanism is the [[quantum-consciousness|quantum Zeno effect]]: rapid observation would hold quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
 
-Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. Effort does real work here rather than serving as a figure of speech. Jeffrey Schwartz's OCD therapy shows that directed attention can produce measurable neuroplasticity—though the original study was small (18 participants, 9 new) and has not been independently replicated. That plasticity is evidence the Map shares with its rivals: physical learning theories predict the same result, since on their account directed attention is itself a top-down neural process and Hebbian change does the rest. Training-induced plasticity therefore cannot by itself favour a nonphysical selector over physically realized cognitive control. What would discriminate is a residual—a component of the attention-driven change that resisted an increasingly complete physical model of the top-down control signal, or a conditional structure in the neural outcomes, predicted in advance, that the physical account does not expect—and no such residual has been demonstrated. Attention functioning as the interface through which consciousness acts on matter is a framework commitment the plasticity data is consistent with, not a conclusion that data establishes.
+Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. Effort does real work here rather than serving as a figure of speech. Jeffrey Schwartz's OCD therapy found that directed attention can produce measurable neuroplasticity—though the original study was small (18 participants, 9 new) and has not been independently replicated. That plasticity is evidence the Map shares with its rivals: physical learning theories predict the same result, since on their account directed attention is itself a top-down neural process and Hebbian change does the rest. Training-induced plasticity therefore cannot by itself favour a nonphysical selector over physically realized cognitive control. What would discriminate is a residual—a component of the attention-driven change that resisted an increasingly complete physical model of the top-down control signal, or a conditional structure in the neural outcomes, predicted in advance, that the physical account does not expect—and no such residual has been demonstrated. Attention functioning as the interface through which consciousness acts on matter is a framework commitment the plasticity data is consistent with, not a conclusion that data establishes.
 
 The neural signature of active selection includes:
 - Frontal theta oscillations (~4-8 Hz)
