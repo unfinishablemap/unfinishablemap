@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T06:45:59.821415+00:00'
-session_count: 17103
-cycle_position: 11682
+last_updated: '2026-07-25T06:50:09.598595+00:00'
+session_count: 17104
+cycle_position: 11683
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T03:34:27.674311+00:00'
   optimistic-review: '2026-07-25T05:22:53.229441+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T01:04:00.276647+00:00'
-  deep-review: '2026-07-25T05:47:55.825184+00:00'
+  deep-review: '2026-07-25T06:50:09.598595+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T01:04:31.927102+00:00'
   coalesce: '2026-07-25T06:19:03.582291+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6804
+  reviews_completed: 6805
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-07-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1147,12 +1147,43 @@ queue_status:
   p3_tasks: 5
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T06:42:51+00:00'
-  last_replenishment_prev: '2026-07-25T06:09:00+00:00'
-  last_replenishment_run: 792
+  last_replenishment: '2026-07-25T06:52:00+00:00'
+  last_replenishment_prev: '2026-07-25T06:42:51+00:00'
+  last_replenishment_run: 793
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_793_note: 'run no.793 (2026-07-25T06:52Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness deep-review mint — topics/history-of-the-interaction-problem.md.
+    Authoritative pre-write count_p0_p2_tasks == 2 (holders: P2 transformative-experience-void
+    L1491 run-791 + P2 single-cell-proto-agency L1498 run-792). Queue dropped 3->2
+    since run-792 as the local (loop-less) cycle picked+completed run-790''s holder
+    interventionist-and-counterfactual-dualism (HEAD 1f412116e auto(deep-review)).
+    Below floor 3, == 3 after (tool-verified post-write == 3; new mint parsed deep-review
+    with Type+File lines present). No evolve_loop/cycle process (pgrep clean); HEAD
+    1f412116e; only uncommitted delta the pre-existing deferred cycle_post state bookkeeping
+    (KEEP). Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics
+    320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; LENGTH
+    epistemology-of-convergence-arguments.md STANDING HUMAN DECISION in ## Blocked (target
+    2446w topics ok, length-neutral); positions 8<10 audit threshold + last positions-evolve
+    2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates top scores
+    are apex-articles.md governance hub + positions/ register files (via positions-evolve).
+    Candidate #0 single-cell already L1498 holder; transformative-experience-void already
+    L1491 holder. Chose history-of-the-interaction-problem (12.73, 14d): the FEWEST
+    review sidecars in the top cohort (4 vs self-minimal 6 / cross-traditional 7 over-reviewed
+    / musical 5 / consciousness-disruption 5), older claude-opus-4-6 cohort, the pool''s
+    largest citation-dense historical survey (22 year-citations, ~36 refs = biggest
+    UNCHECKED verify surface). Post-review 07-11->07-14 delta is cosmetic cross-review
+    wikilink conversions only (quantum-divine-action, logical-behaviourism), so a STALENESS
+    pick justified by unverified surface not by a change. Lenses: verbatim quote-fidelity
+    (Elisabeth of Bohemia quote at primary text NOT self-page), citation-metadata at
+    publisher, citation-framing (historical figures framed for the position they held),
+    currency. ai_system claude-opus-4-6 (SINGLE older cohort, HOLD verbatim on no-op),
+    ai_contribution 100, draft:false. TOPICS / history-of-interaction / causal-closure
+    cluster — DISTINCT from both holders. NOT queued (3 grep-hit headings all checkmark-completed
+    07-11/06-05/05-26) / vetoed / session-touched (git --since 2026-07-25T00:00 empty;
+    last touch 07-14). EOF clean, no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_790_note
+    per note-bloat discipline (keep ~3: 791/792/793).'
   run_792_note: 'run no.792 (2026-07-25T06:42Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness deep-review mint — topics/single-cell-proto-agency-and-the-evidence-problem.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
@@ -1227,49 +1258,6 @@ queue_status:
     (git --since 2026-07-25T00:00 empty; last touch 07-22 embed). EOF clean (Southgate
     & Oquatre-sept self-cite pseudonyms — do NOT strip), no [1m] artifact. BOTTOM-inserted
     (FIFO). Pruned run_788_note per note-bloat discipline (keep ~3: 789/790/791).'
-  run_790_note: 'run no.790 (2026-07-25T03:23Z, interactive /replenish-queue): SINGLE
-    EXACT-floor +1 staleness (changed-since-review) deep-review mint — topics/interventionist-and-counterfactual-dualism.md.
-    Authoritative pre-write parse_tasks(...)[''active''] P0-P2 pending == 2 (two open
-    floor-holders: P2 Deep-review living-with-the-map L1458 [run-788] + P2 Deep-review
-    ai-consciousness-typology L1465 [run-789]). Queue dropped 3->2 since run-789 because
-    the loop picked+completed the FIFO-oldest holder death-void (run-787 mint, auto(deep-review)
-    HEAD 40e4fcddd). Below floor 3, == 3 after (tool-verified post-write parse_tasks
-    P0-P2 == 3, new mint parsed deep-review with Type+File lines present). No evolve_loop
-    process (pgrep clean); HEAD 40e4fcddd; only uncommitted delta the pre-existing
-    evolution-state.yaml deferred cycle_post bookkeeping (KEEP). Eight-source audit
-    LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
-    voids 100/100, positions 8/80); orphaned_files=0; LENGTH the one article offender
-    epistemology-of-convergence-arguments.md (6533w >6000 crit) is a STANDING HUMAN
-    LENGTH DECISION in ## Blocked Tasks — NOT re-litigated (target 2394w topics ok,
-    length-neutral); positions 8<10 audit threshold + last positions-evolve 2026-07-20
-    (<30d); no applied-apex gap. TARGET: get_review_candidates top scores are apex-articles.md
-    governance hub (110) + positions/ register files (108/107, via positions-evolve
-    not deep-review). Of genuine unqueued content candidates transformative-experience-void
-    (29.5 embed-only cosmetic), methodology-of-consciousness-research (14.4 converged
-    link-wiring), self-minimal/cross-traditional (cosmetic wikilink) all weaker no-op
-    risks. Chose interventionist-and-counterfactual-dualism (13.8): last_deep_review
-    2026-07-15T10:54, then refine 974aa5483 (2026-07-15T13:23, selection-only-channel
-    cross-review finding) landed AFTER the same-day review, unreviewed — REWROTE the
-    pivotal discriminating claim "Tenet 2 is the discriminating tenet — and it too
-    leans co-causation" with a load-bearing per-trial-vs-ensemble difference-making
-    distinction (strict selection-only reading = per-trial difference-making yet ensemble
-    Born-preserving, so continuity with the Vaassen/Kroedel/Mills-Lowe co-causation
-    family is axis-restricted). Later 07-16 commit 8dd43fe0d is frontmatter-only (added
-    anchoring_audit_exempt:true, NO body change). Lenses: internal-consistency (sweep
-    for residual UN-qualified "Tenet 2 leans co-causation"/flat difference-making
-    claim surviving in lead/headers/Relation-to-Site contradicting the new axis-restriction),
-    over-deflation guard, citation-framing (Vaassen AJP 2024 — the author emailed
-    a prior Map entry MISFRAMED his preemption argument, verify no re-misframing;
-    verbatim trumping-preemption in-quote fragment still matches current sibling),
-    Tenet-2/3 routing. ai_system claude-opus-4-8 (SINGLE same-cohort, HOLD verbatim),
-    ai_contribution 100, anchoring_audit_exempt:true (verified false-high, do NOT
-    refine to lexical metric). TOPICS / causation-cluster / interactionist-dualism
-    — DISTINCT from both holders (living-with-the-map apex/Tenets-in-practice + ai-consciousness-typology
-    concepts/AI-consciousness). NOT queued (all slug heading hits ✓-completed; parse_tasks
-    zero active target) / vetoed / session-touched (git --since 2026-07-25T00:00 empty;
-    last touch 07-16). EOF clean (Southgate & Oquatre-sept self-cite pseudonyms —
-    do NOT strip), no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_787_note per
-    note-bloat discipline (keep ~3: 788/789/790).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
