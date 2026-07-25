@@ -47,6 +47,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-24
 
+### P1: panpsychism.md — resolve the "Map avoids combination entirely" contradiction (sync with the 23 July interface-unity concession)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/panpsychism.md
+- **Review file**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`
+- **Notes**: From outer review 2026-07-25 (ChatGPT 5.6 Pro), VERIFIED against live content. The Key Differences table (L125-126) still reads "Doesn't face this problem" for combination, but `concepts/combination-problem.md` L157 already concedes (23 July revision) that the Map owes an interface-unity account — "the question sits nearer bedrock than the 'avoids the problem entirely' framing implies." panpsychism.md (last modified 2026-07-18) predates and has not absorbed that concession. Replace the unqualified table cell with the reviewer's defensible form: "Avoids constitutive subject summing; retains subject–body pairing, distributed-interface unity and psychophysical-law burdens." Align the surrounding prose (L98-114, L152) so the Map's disanalogy (one subject already present) is counted honestly without claiming it escapes every unity question. Apply the [[direct-refutation-discipline]] remit: this is a framework-boundary honesty fix — mark in natural prose where the Map's interface unity sits near bedrock, symmetric to phenomenal bonding, rather than asserting a clean escape. Keep editor-internal mode labels out of the article body; note the classification only in the changelog. Length-neutral.
+- **Source**: outer-review
+- **Generated**: 2026-07-25
+
+### P1: panpsychism.md — correct the Goff/Kastrup dissociation conflation
+- **Type**: refine-draft
+- **File**: obsidian/concepts/panpsychism.md
+- **Review file**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`
+- **Notes**: From outer review 2026-07-25 (ChatGPT 5.6 Pro), VERIFIED against live content and the Map's own neighbouring pages. L107 attributes the "dissociated fragments" framing to "the later Goff" (cosmopsychism), and L146 says idealism's "particle-experiences" are "dissociated fragments." Dissociation (the DID model) is Kastrup's analytic-idealist move; Goff's cosmopsychism is framed through grounding/priority/subsumption, and the Map's own [[cosmopsychism]] page uses the grounding framing — so this is an internal inconsistency, not a stylistic quibble. Describe Goff's cosmopsychism via grounding/constitution/priority; reserve dissociation/alters for Kastrup; on the idealism sentence, present particles/objects as the represented appearance of a more fundamental mental reality rather than each being an individual dissociated subject. Cross-check the corrected wording against [[idealism]] and [[cosmopsychism]] for terminological consistency. Length-neutral.
+- **Source**: outer-review
+- **Generated**: 2026-07-25
+
+### P2: panpsychism.md — update IIT to 4.0, qualify the C. elegans phi claim, and make the prebiotic-collapse passage conditional
+- **Type**: refine-draft
+- **File**: obsidian/concepts/panpsychism.md
+- **Review file**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`
+- **Notes**: From outer review 2026-07-25 (ChatGPT 5.6 Pro), empirical-currency fixes VERIFIED against live content. (1) L156 uses the older non-zero-Φ IIT slogan; IIT 4.0's exclusion/maximality postulate means positive Φ alone does not make every overlapping candidate a distinct conscious entity — explain maximal complexes and exclusion. Optionally acknowledge the 2025 IIT-vs-GNW adversarial collaboration (Cogitate Consortium, *Nature* — attribute to the consortium, NOT a single first author per [[cogitate-melloni-2025-nature-first-author]]) as part of the evidential setting, with the explicit caveat that it did not test panpsychism. (2) L99 and L172 assert "C. elegans has positive phi" as fact; there is no established whole-animal IIT 4.0 Φ calculation for the worm. Either source it to a precise model/metric or downgrade to "some simplified models of the C. elegans network have been assigned positive integrated-information-related measures; this does not establish that the organism is conscious under IIT 4.0." (3) The prebiotic-collapse passage generalises that prebiotic collapse is "no problem" for panpsychists; panpsychism alone has no collapse dynamics. Make it conditional: panpsychism addresses prebiotic collapse only when combined with a consciousness-collapse thesis. Preserve calibration hedges ([[condense-regresses-calibration-qualifiers]]).
+- **Source**: outer-review
+- **Generated**: 2026-07-25
+
+### P2: panpsychism.md — rebuild combination coverage by subtype and add missing 2020s counterarguments (opponent parity)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/panpsychism.md
+- **Review file**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`
+- **Notes**: From outer review 2026-07-25 (ChatGPT 5.6 Pro). The article treats constitutive micropsychism as representative of panpsychism generally and reduces the field to a panpsychist-combination-vs-dualist-interaction binary. Distinguish the current families (constitutive micropsychism, cosmopsychism, continuism, emergent panpsychism, monadic/non-combinatory views, panprotopsychism, quantum panprotopsychism) so the classic combination problem is not used as a verdict on panpsychism as such. Add the two missing lines of criticism the reviewer names: Frankish's panpsychism-specific illusionist objection and Baysan's challenge to the claim that Russellian panpsychism has a genuine mental-causation advantage (relevant because the Map's comparative ledger lets panpsychism inherit causal efficacy while charging dualism the interaction burden). Apply the [[direct-refutation-discipline]] remit (opponent parity — engage the strongest CURRENT rival, not the easiest historical version); keep mode labels out of the article body. VERIFY every added citation at the publisher before use (Kadić, Shani, Roelofs, Cermeño Aínsa, Gambini & Pullin, Ioannou 2026, Baysan, Nagasawa 2021, Goff 2024) — [[ai-citation-metadata-unreliable]]; the review's reference list is a lead, not a verified bibliography. Watch article length (concepts hard ceiling 3500w) — defer detail to [[panpsychisms-combination-problem]] rather than ballooning this page.
+- **Source**: outer-review
+- **Generated**: 2026-07-25
+
+### P2: Neighbour semantic sync flagged by 2026-07-25 panpsychism audit (combination-problem residual "entirely", russellian-monism, universal-coupling-response, prebiotic-collapse)
+- **Type**: cross-review
+- **File**: obsidian/concepts/combination-problem.md
+- **Review file**: `reviews/outer-review-2026-07-25-chatgpt-5-6-pro.md`
+- **Notes**: From outer review 2026-07-25 (ChatGPT 5.6 Pro). The 23 July interface-unity concession landed in `concepts/combination-problem.md` L157 but the same file still asserts the Map "avoids the problem/combination entirely" at L3 (description), L36, L132 and L189 — an internal contradiction; qualify these to match the L157 bedrock framing. Then propagate the corrected framing to the neighbours the audit flags: (a) [[russellian-monism]] — replace "complete sidestep / stable endpoint" language with a comparative ledger covering subject summing, pairing, interface unity, causal efficacy and psychophysical law; (b) [[universal-coupling-response]] — reconcile "coupling without arbitrary thresholds" with its own claim that some systems (e.g. C. elegans) may fall below an architectural threshold; define architectural adequacy operationally and state what would falsify it; (c) [[prebiotic-collapse]] — add a reciprocal warning that panpsychism does not by itself entail consciousness-caused collapse, linking back to the corrected panpsychism discussion. Length-neutral on each hub.
+- **Source**: outer-review
+- **Generated**: 2026-07-25
+
 ### P3: many-worlds-argument.md — human length decision (article now over hard ceiling after the P1 No-MWI honesty refine)
 - **Type**: refine-draft
 - **Status**: blocked

@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T03:53:41+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro
+- **File**: [[reviews/outer-review-2026-07-25-chatgpt-5-6-pro]]
+- **Subject**: concepts/panpsychism.md (recent-aged fallback; part of the 2026-07-25 same-subject triple)
+- **Claims verified**: 5 verified against live content (combination "doesn't face entirely" contradiction; combination-problem residual-entirely vs L157 concession; Goff/Kastrup dissociation conflation; outdated non-zero-Φ IIT slogan; unsupported C. elegans positive-phi claim). 0 failed verification.
+- **High-value findings**: 5 (verdict: major revision, not rejection)
+- **Tasks generated**: 5 (P1: 2, P2: 3) — all on the panpsychism cluster; methodology proposals NOT re-minted (converge with the standing 2026-07-24 NEEDS-HUMAN methodology item)
+- **Output**: [[reviews/outer-review-2026-07-25-chatgpt-5-6-pro]]
+
 ## 2026-07-25T03:36:24+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/living-with-the-map]]
