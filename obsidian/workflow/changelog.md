@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T11:01:23+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [[concepts/locality]]
+- **Word count**: 2028 → 2028 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth deep review. Trigger was same-day refine-draft `2e13c0986` (10:36) which applied four calibration fixes (dropped "straightforward" over-claim; added emergent-spacetime scale caveat; made entanglement/binding conditional on decoherence-tolerant substrate; added no-signaling clarification). Verified refinement introduced no defects, no internal contradictions, no possibility/probability slippage. References block unchanged since 2026-05-26 web-verify (ledger carries forward: Bell 1964, Huggett & Wüthrich 2013, Kim 2005 — all real-correct). All 7 wikilinks resolve. Updated `last_deep_review` only; `ai_modified`/`ai_system` left at HEAD per no-op discipline.
+- **Output**: [[reviews/deep-review-2026-07-25-locality]]
+
 ## 2026-07-25T10:45:48+00:00 - deep-review
 - **Status**: Success (no-op convergence confirmation)
 - **File**: [[topics/curated-mind]]

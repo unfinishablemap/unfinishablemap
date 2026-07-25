@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-07-25T10:34:21+00:00
 draft: false
 topics: []
-last_deep_review: 2026-06-19T18:06:23+00:00
+last_deep_review: 2026-07-25T11:01:23+00:00
 concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
