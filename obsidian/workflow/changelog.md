@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T04:22:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5
+- **File**: [[reviews/outer-review-2026-07-25-claude-opus-5]]
+- **Subject**: concepts/panpsychism.md (recent-aged fallback; part of the 2026-07-25 same-subject triple with ChatGPT 5.6 Pro)
+- **Claims verified**: 3 verified against live content + 3 against primary publishers. 1 CONFIRMED FABRICATION (combination-problem.md L128 Chalmers quote — absent from consc.net/papers/combination.pdf and contradicts his actual thesis; web-verified). Tononi stance-inversion and C. elegans Φ_AR-not-canonical-Φ overclaim confirmed technically sound. 0 reviewer claims failed.
+- **High-value findings**: 4 (verdict: REVISE-HARD) — fabricated Chalmers quote; Strawson/Goff/Tononi co-optation firewall failure; C. elegans positive-phi overclaim (convergent with sibling ChatGPT review); PP/active-inference blind spot
+- **Tasks generated**: 3 net-new (P1: 1 fabricated-quote purge; P2: 2 — co-optation firewall + PP engagement). C. elegans finding annotated onto the existing sibling-review task rather than duplicated (convergence flag). Methodology proposals (quote-fidelity delete-rule, co-optation gate, non-Claude verification, PP checklist) converge with standing NEEDS-HUMAN methodology items — not re-minted.
+- **Output**: [[reviews/outer-review-2026-07-25-claude-opus-5]]
+
 ## 2026-07-25T03:53:41+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro

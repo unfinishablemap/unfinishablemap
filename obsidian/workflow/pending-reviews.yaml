@@ -397,9 +397,9 @@
   commissioned_at: '2026-07-25T03:04:42.491611+00:00'
   prompt_summary: Audit of panpsychism article (Opus 5 High)
   target_filename: outer-review-2026-07-25-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-25T04:09:10.070038+00:00'
   failure_reason: null
   prompt_text: 'You are acting as a hostile but fair external referee for The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Conduct
