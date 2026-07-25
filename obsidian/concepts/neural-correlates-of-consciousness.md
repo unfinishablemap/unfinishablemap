@@ -45,7 +45,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-07-06T22:03:17+00:00
+last_deep_review: 2026-07-25T22:17:26+00:00
 ---
 
 Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] is fully compatible with NCC findings.

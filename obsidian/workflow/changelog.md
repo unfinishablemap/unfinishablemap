@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T22:17:26+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Word count**: 3392 → 3392 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 10th review. Only changes since the 9th (2026-07-06) review were cosmetic cross-links — one text→wikilink conversion (hemispherectomy) and two Further Reading entries (recurrent-processing-theory, attended-intermediate-representations-theory); all three targets verified live. No new claims or citations. Bumped last_deep_review only; ai_modified/ai_system left at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-25-neural-correlates-of-consciousness]]
+
 ## 2026-07-25T22:03:20+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 650 (321 topics, 320 concepts, 9 positions)
