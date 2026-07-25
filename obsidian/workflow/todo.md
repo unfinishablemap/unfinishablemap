@@ -47,6 +47,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-24
 
+### P2: panpsychism.md — add Donadi et al. (2021) empirical constraint to the quantum-interaction hedge (+ optional Birch 2020 currency)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/panpsychism.md
+- **Review file**: `reviews/outer-review-2026-07-25-gemini-2-5-pro.md`
+- **Notes**: From outer review 2026-07-25 (Gemini 2.5 Pro), the ONE non-duplicative finding after verification (the review's other four headline weaknesses were fabricated quotes, sibling-cluster misattributions, strawmen the live text already answers, or already tasked by the 2026-07-25 ChatGPT/Claude siblings — see the review's Verification Notes). The quantum-interaction hedge (L128) already flags decoherence, "lacks experimental support," and "research programme, not an established result," but cites the Penrose–Hameroff orchestrated-collapse strand without noting that the natural, parameter-free Diósi–Penrose gravitational-collapse model was experimentally constrained by Donadi et al. (2021), *Nature Physics* 17:74–78 (Gran Sasso underground germanium detector; no excess spontaneous X-ray emission). Add a single clause/sentence acknowledging this specific empirical constraint to sharpen the existing caveat. This is a CURRENCY enrichment, NOT a refutation: the Map's Minimal Quantum Interaction does not depend on Orch-OR (Penrose–Hameroff is cited as one of several ideas), so frame it as tightening the honesty of the hedge, not conceding the mechanism. **VERIFY the Donadi citation (authors, venue, year, and the DP-model conclusion) at the publisher before adding** ([[ai-citation-metadata-unreliable]]). Optional, low-weight secondary add: the boundary-cases section (L97-105) could cite Birch et al. (2020)'s multidimensional animal-consciousness framework — but the review's venue ("*Biological Reviews*") is likely WRONG (the widely cited Birch, Schnell & Clayton "Dimensions of Animal Consciousness" is *Trends in Cognitive Sciences* 2020); verify author list and venue at the publisher, and skip if it does not add value beyond the existing gradient framing (the article already explicitly rejects binary thresholds at L105, so do NOT adopt the review's "binary strawman" premise). Length-neutral; preserve all existing calibration hedges ([[condense-regresses-calibration-qualifiers]]).
+- **Source**: outer-review
+- **Generated**: 2026-07-25
+
 ### P1: panpsychism.md — resolve the "Map avoids combination entirely" contradiction (sync with the 23 July interface-unity concession)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/panpsychism.md

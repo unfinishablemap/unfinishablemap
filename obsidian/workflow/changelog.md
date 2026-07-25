@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T04:39:15+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile pre-publication referee; subject: [[concepts/panpsychism]])
+- **File**: [[reviews/outer-review-2026-07-25-gemini-2-5-pro]]
+- **Claims verified**: 12 quoted strings / citations grep-checked against live article + corpus
+- **High-value findings**: 1 (Donadi et al. 2021 *Nature Physics* DP-model constraint — genuine, non-duplicative currency gap in the L128 quantum hedge)
+- **Tasks generated**: 1 (P2: add Donadi 2021 to quantum-interaction hedge + optional Birch 2020, publisher-verify both)
+- **Rejected/noted in Verification Notes**: 4 headline weaknesses — one fabricated quote ("functional organization does not explain…" exists only in the review file), two sibling-cluster misattributions (Cutter/contingency-thesis and the "inherently non-compositional"/"phenomenal unity as primitive" quotes belong to russellian-monism / composition-and-consciousness / panpsychisms-combination-problem, not panpsychism.md), and two strawmen the live text already answers (non-binary gradient at L105; double-standard already conceded at L128/L178). IIT-controversy, predictive-processing, and Frankish-illusionism findings already tasked by the 2026-07-25 ChatGPT 5.6 Pro + Claude Opus 5 siblings — not re-minted (same-file-pileup discipline).
+
 ## 2026-07-25T04:18:11+00:00 - deep-review
 - **Status**: Success (sixth consecutive clean review; converged, no-op)
 - **File**: [[concepts/ai-consciousness-typology]]
