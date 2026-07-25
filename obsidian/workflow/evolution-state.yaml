@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T02:40:41.333589+00:00'
-session_count: 17072
-cycle_position: 11667
+last_updated: '2026-07-25T02:48:01.719350+00:00'
+session_count: 17073
+cycle_position: 11668
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-24T21:19:25.887399+00:00'
   optimistic-review: '2026-07-24T22:19:51.984122+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T01:04:00.276647+00:00'
-  deep-review: '2026-07-25T02:40:41.333589+00:00'
+  deep-review: '2026-07-25T02:48:01.719350+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T01:04:31.927102+00:00'
   coalesce: '2026-07-24T23:03:43.189830+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6792
+  reviews_completed: 6793
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-07-25'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-25'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 - task: deep-review
@@ -1156,12 +1156,56 @@ queue_status:
   p3_tasks: 4
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T02:36:51+00:00'
-  last_replenishment_prev: '2026-07-25T01:50:00+00:00'
-  last_replenishment_run: 788
+  last_replenishment: '2026-07-25T02:52:00+00:00'
+  last_replenishment_prev: '2026-07-25T02:36:51+00:00'
+  last_replenishment_run: 789
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_789_note: 'run no.789 (2026-07-25T02:52Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/ai-consciousness-typology.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open floor-holders:
+    P2 Deep-review death-void L1458 [run-787] + P2 Deep-review living-with-the-map L1465
+    [run-788]). Queue dropped 3->2 since run-788 because the loop picked+completed the
+    FIFO-oldest holder hypnagogic-phenomenology (run-786 mint, auto(deep-review) 02:48Z,
+    HEAD 378f98ce6). Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3,
+    the new mint parsed with Type+File lines present per replenish-mints-task-missing-type-line).
+    No evolve_loop.py process (pgrep clean, only own count-shell self-match); HEAD 378f98ce6;
+    only uncommitted delta the pre-existing evolution-state.yaml deferred cycle_post
+    bookkeeping (KEEP). Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED
+    (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    LENGTH (Source 6) the one article offender epistemology-of-convergence-arguments.md
+    (6533w >6000 crit) is a STANDING HUMAN LENGTH DECISION in ## Blocked Tasks — NOT
+    re-litigated (human-decision-task-mispicked-as-refine); positions 8<10 audit threshold
+    + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET: get_review_candidates
+    top scores are apex-articles.md governance hub (110) + positions/ register files
+    (108/107, via positions-evolve not deep-review). Of genuine unqueued content candidates,
+    methodology-of-consciousness-research (14.4) is 18d-converged cross-link wiring and
+    the-self-minimal / cross-traditional deltas are cross-review link-wiring (cosmetic
+    replenish-changed-since-review-delta-often-cosmetic-wikilink). Chose ai-consciousness-typology
+    (13.6): last_deep_review 2026-07-08T00:41, then refine ec6394a45 (2026-07-18T11:01,
+    the ✓-completed spot-check of the 07-16 ChatGPT 5.6 Pro AI-consciousness audit follow-up,
+    todo L2258) landed 10d after, unreviewed — softened a LOAD-BEARING access over-read
+    ("what the workspace demonstrably instantiates (access)" / "fully present" -> "the
+    workspace-like functional signatures of access are present ... not a settled claim
+    about metacognition or agency"), tracking the positions/ai-consciousness-scope P-AC4
+    reframe. Lenses: internal-consistency (no residual "instantiated in full"/"fully present"
+    strong-access claim survives elsewhere — refine touched only the J-space para; sibling
+    sweep flagged parallel over-reads in llm-consciousness/access-consciousness/global-workspace-theory
+    so a 2nd locus here is live), over-deflation guard, citation-verify Gurnee et al.
+    2026 "Verbalizable Representations Form a Global Workspace in Language Models" (Transformer
+    Circuits Thread/Anthropic 2026-07-06, 16 authors) + the verbatim "widely debated"
+    fragment at publisher (fresh-create-defect-tail — sibling Gurnee reviews each found
+    a real defect), no author-enlistment past their no-phenomenal-position, evidential-tier
+    null-default, Tenet-1 routing. ai_system claude-opus-4-7 (SINGLE older cohort, HOLD
+    verbatim), ai_contribution 100, 3089w concepts soft_warning (~411w under 3500 hard,
+    length-NEUTRAL, NOT condense). CONCEPTS / AI-consciousness cluster — DISTINCT from
+    both holders (death-void voids/mortality-indexical + living-with-the-map apex/Tenets-in-practice-meaning-value).
+    NOT queued (all ai-consciousness-typology hits ✓-completed; parse_tasks zero active
+    target) / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch
+    07-18). EOF clean (Southgate & Oquatre-six self-cite pseudonyms — do NOT strip),
+    no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_786_note per note-bloat discipline
+    (keep ~3: 787/788/789).'
   run_788_note: 'run no.788 (2026-07-25T02:36Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — apex/living-with-the-map.md.
     Authoritative pre-write parse_tasks P0-P2 pending == 2 (two open floor-holders:
@@ -1234,37 +1278,6 @@ queue_status:
     L1605 unrelated infant-consciousness floor-note prose mention) / vetoed / session-touched
     (git log --since 2026-07-25T00:00 empty; last touch 07-23). BOTTOM-inserted (FIFO).
     Pruned run_784_note per note-bloat discipline (keep ~3: 785/786/787).'
-  run_786_note: 'run no.786 (2026-07-25T01:36Z, interactive /replenish-queue): SINGLE
-    EXACT-floor +1 staleness (changed-since-review) deep-review mint — topics/hypnagogic-phenomenology-and-interface-modulation.md.
-    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two counted holders:
-    P2 Propagate-Libet-verdict -> topics/motor-control-quantum-zeno L39 + P2 Deep-review-parsimony-epistemology
-    L1467, the run-785 mint). run-785 note claimed a P1 Methodology floor-holder,
-    but that NEEDS-HUMAN methodology-ratification block is HEADERLESS (no ### P{N}:
-    prefix) so parse_tasks does NOT count it — deliberately DIVERTED/human-reserved.
-    So run-785 actually restored 1->2, not 2->3; queue opened this session genuinely
-    below floor 3 at 2. This mint restored 2->3 (tool-verified post-write recount
-    == 3, next loop-pick correctly drains oldest holder Libet-propagate L39 FIFO).
-    No evolve_loop.py process (pgrep clean); HEAD c4977a968. Eight-source audit LIVE:
-    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
-    100/100, positions 8/80); orphaned_files=0; length no condense pressure (target
-    2768w status ok); positions 8 < 10 audit threshold + last positions-evolve 2026-07-20
-    (<30d); no applied-apex gap. TARGET: rejected the top get_review_candidates score
-    (concepts/process-content-distinction 14.7) as a false-positive whose only post-review
-    delta is a cosmetic wikilink conversion (interpreter-module, per replenish-changed-since-review-delta-often-cosmetic-wikilink).
-    Chose hypnagogic: last_deep_review 2026-07-06, then TWO substantive 2026-07-20
-    refines (e61bf8097 8/8 two-overclaims recalibration + 2d952daf2 DMN calibration/anchoring-exempt)
-    landing 14d after the review, none re-reviewed — softened the load-bearing two-channel
-    demonstration claim to an interpretation the pattern permits and added a deflationary
-    sleep-onset motor-gating reading. Lenses: internal-consistency (no residual strong
-    two-channel overclaim survives elsewhere), over-deflation guard, DMN/motor-gating
-    + Haar-Horowitz-2023 citation fidelity, anchoring_audit_exempt key placement verify,
-    Tenet-3 routing. ai_system claude-opus-4-6+claude-opus-4-8 (CORRECT dual +-joined
-    form, HOLD verbatim), ai_contribution 100. NOT queued (all todo/vetoed slug hits
-    are prose mentions inside OTHER tasks notes + the two resolved 07-20 refines)
-    / vetoed / session-touched (git log --since 2026-07-25T00:00 empty). BOTTOM-inserted
-    (FIFO). Uncommitted evolution-state.yaml delta present at session start is legitimate
-    deferred cycle_post bookkeeping, KEPT. Pruned run_783_note per note-bloat discipline
-    (keep ~3: 784/785/786).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
