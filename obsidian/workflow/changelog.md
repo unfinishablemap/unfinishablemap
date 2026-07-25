@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 03:16:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-25T18:48:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Word count**: 3306 → 3306 (0; no-op convergence pass, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; only delta since 7th was a correct Cogitate/Melloni 2025 Nature canonical-form citation sweep — verified, all 16 refs publisher-confirmed. ai_modified/ai_system held; only last_deep_review advanced)
+- **Output**: [[reviews/deep-review-2026-07-25-conscious-vs-unconscious-processing]]
+
 ## 2026-07-25T18:48:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Empirical-testing / falsifiability cluster — brain-internal-born-rule-testing, testing-consciousness-collapse, quantum-neural-timing-constraints, neural-implementation-specifics (4 topics)
