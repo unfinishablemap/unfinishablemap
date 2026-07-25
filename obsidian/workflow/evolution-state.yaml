@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T02:20:07.587496+00:00'
-session_count: 17070
+last_updated: '2026-07-25T02:38:30.907685+00:00'
+session_count: 17071
 cycle_position: 11666
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-24T04:21:06.929109+00:00'
   refine-draft: '2026-07-25T01:48:58.521375+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-25T01:54:32.851508+00:00'
+  replenish-queue: '2026-07-25T02:38:30.907685+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-07-24'
-  outcome: success
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1177,26 +1177,27 @@ queue_status:
     >6000 critical; 5918w authored prose) is a STANDING HUMAN LENGTH DECISION parked
     in ## Blocked Tasks (Needs Human) — four prior auto-condenses failed, excess is
     load-bearing Tenet-5 calibration, recommended action human SPLIT not a 5th condense;
-    NOT re-litigated (human-decision-task-mispicked-as-refine). Other length hits are
-    research notes / apex-articles governance hub / positions files (not condense targets).
-    TARGET: get_review_candidates top scores are apex-articles.md (110, governance hub)
-    + positions/ register files (108/107, via positions-evolve not deep-review). Of
-    genuine unqueued content candidates, transformative-experience-void (29.5, embed-videos-only
-    cosmetic since 06-26) and methodology-of-consciousness-research (14.4, 18d-converged
-    cross-link wiring) are weaker no-op risks. Chose living-with-the-map (14.4): last_deep_review
-    2026-07-06T13:04, then THREE unreviewed outer-review refines landing 10-16d after
-    — 335cb4f4b (07-16 physicalism-is-not-nihilism), eb51af993 (07-16 Hume''s-gap contradiction
-    fix, caught one the same-day refine MISSED), 6636e2783 (07-22 AI-consciousness scoped-bidirectional-coupling
-    verdict). Lenses: patch-coherence/internal-consistency (no residual flat AI-lacks-consciousness
+    NOT re-litigated (human-decision-task-mispicked-as-refine). Other length hits
+    are research notes / apex-articles governance hub / positions files (not condense
+    targets). TARGET: get_review_candidates top scores are apex-articles.md (110,
+    governance hub) + positions/ register files (108/107, via positions-evolve not
+    deep-review). Of genuine unqueued content candidates, transformative-experience-void
+    (29.5, embed-videos-only cosmetic since 06-26) and methodology-of-consciousness-research
+    (14.4, 18d-converged cross-link wiring) are weaker no-op risks. Chose living-with-the-map
+    (14.4): last_deep_review 2026-07-06T13:04, then THREE unreviewed outer-review
+    refines landing 10-16d after — 335cb4f4b (07-16 physicalism-is-not-nihilism),
+    eb51af993 (07-16 Hume''s-gap contradiction fix, caught one the same-day refine
+    MISSED), 6636e2783 (07-22 AI-consciousness scoped-bidirectional-coupling verdict).
+    Lenses: patch-coherence/internal-consistency (no residual flat AI-lacks-consciousness
     or Hume''s-gap-closing claim survives), over-deflation guard, apex stale internal-quote
     channel (re-grep in-quote strings vs current siblings), Tenet-routing across all
     five. ai_system claude-opus-4-6 (SINGLE older cohort, HOLD verbatim), ai_contribution
-    100, 3738w status ok (length-neutral, NOT condense). APEX / Tenets-in-practice /
-    meaning-value cluster — DISTINCT from both holders (hypnagogic topics/sleep-onset
+    100, 3738w status ok (length-neutral, NOT condense). APEX / Tenets-in-practice
+    / meaning-value cluster — DISTINCT from both holders (hypnagogic topics/sleep-onset
     + death-void voids/mortality-indexical). NOT queued (all living-with-the-map heading
     hits checkmark-completed) / vetoed / session-touched (git --since 2026-07-25T00:00
-    empty). BOTTOM-inserted (FIFO). Pruned run_785_note per note-bloat discipline (keep
-    ~3: 786/787/788).'
+    empty). BOTTOM-inserted (FIFO). Pruned run_785_note per note-bloat discipline
+    (keep ~3: 786/787/788).'
   run_787_note: 'run no.787 (2026-07-25T01:50Z, interactive /replenish-queue): SINGLE
     EXACT-floor +1 staleness (changed-since-review) deep-review mint — voids/death-void.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (two open holders:

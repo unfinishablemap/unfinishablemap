@@ -5,7 +5,7 @@ created: 2026-05-19
 modified: 2026-05-19
 human_modified:
 ai_modified: 2026-07-16T13:46:56+00:00
-last_deep_review: 2026-07-10T02:03:00+00:00
+last_deep_review: 2026-07-25T02:39:35+00:00
 draft: false
 topics:
   - "[[phenomenal-authority-and-first-person-evidence]]"
