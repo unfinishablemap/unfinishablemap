@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T11:04:35.307442+00:00'
-session_count: 17138
-cycle_position: 11697
+last_updated: '2026-07-25T11:07:18.035021+00:00'
+session_count: 17139
+cycle_position: 11698
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T10:19:56.892067+00:00'
   optimistic-review: '2026-07-25T05:22:53.229441+00:00'
   check-tenets: '2026-07-25T01:18:17.204868+00:00'
   check-links: '2026-07-25T01:04:00.276647+00:00'
-  deep-review: '2026-07-25T11:04:35.307442+00:00'
+  deep-review: '2026-07-25T11:07:18.035021+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T01:04:31.927102+00:00'
   coalesce: '2026-07-25T06:19:03.582291+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6818
+  reviews_completed: 6819
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-25'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-25'
   outcome: success
 - task: deep-review
@@ -1144,54 +1144,12 @@ queue_status:
   p3_tasks: 5
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-25T10:50:00+00:00'
-  last_replenishment_prev: '2026-07-25T10:04:51+00:00'
-  last_replenishment_run: 803
+  last_replenishment: '2026-07-25T11:20:00+00:00'
+  last_replenishment_prev: '2026-07-25T10:50:00+00:00'
+  last_replenishment_run: 804
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_801_note: 'run no.801 (2026-07-25T09:49Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 staleness deep-review mint concepts/access-consciousness.md. Authoritative
-    pre-write count_p0_p2_tasks(load_todo()) / parse_tasks P0-P2 open == 2 (holders
-    P2 timing-gap-problem run-799 L1499 + P2 curated-mind run-800 L1506); queue dropped
-    3->2 since run-800 as the loop-less local cycle deep-review slot completed run-798s
-    holder concepts/quantum-indeterminacy-free-will (HEAD 87bca129d auto(deep-review),
-    last_deep_review now 2026-07-25T09:33Z). Below floor 3, == 3 after (tool-verified
-    post-write count_p0_p2 == 3; new mint parsed deep-review with Type+File lines,
-    heading L1512). No evolve_loop/cycle process (pgrep clean); only uncommitted state
-    delta is the pre-existing deferred cycle_post bookkeeping from the quantum-indeterminacy-free-will
-    deep-review -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED
-    (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    LENGTH standing human decision epistemology-of-convergence-arguments.md untouched;
-    positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
-    gap. TARGET: both content holders already queued; higher-scored distinct candidates
-    cross-traditional (12.86, opus-4-7 over-reviewed + touched 07-18) / musical-understanding
-    (12.8, opus-4-8 DE-PRIORITIZED-newest) / generalised-probabilistic-theories (12.31,
-    opus-4-8 newest + reviewed 07-16 9d) / skill-delegation (11.61, opus-4-6 thinner
-    ~12-cite/7-ref) passed over; chose access-consciousness (11.61, 18d) on the established
-    discriminator -- SIZE of unchecked verify surface: the OLDEST cohort in the pool
-    claude-opus-4-5-20251101 (= longest-unverified) with the largest distinct-pool
-    citation apparatus (~26 year-cites / 10 numbered refs: Block 1995 BBS 18:227-247
-    canonical-NOT-227-287, Block 2011 TiCS, Baars 1988, Cohen&Dennett 2011 TiCS, Dehaene&Changeux
-    2011 Neuron, Nartker 2025 eLife, Streicher 2025 Neurosci Consciousness, Gurnee
-    2026 Anthropic workspace paper, Tegmark 2000 PRE). Post-review 07-18 delta is
-    a REAL content change (commit ec6394a45 refine narrowed access consciousness instantiated
-    in full to workspace-signatures framing, deep-review-UNVERIFIED since 07-07) so
-    staleness AND changed-surface warrants hold. LENGTH: analyze_length 2286w status
-    ok (concepts hard 3500) = LENGTH-NEUTRAL deep-review, NOT a condense. Lenses:
-    citation-metadata at publisher (NOT own page; Block 227-247 do-not-re-inflate;
-    Gurnee workspace do-not-over-read-as-phenomenal), empirical-claim fidelity (Sperling/overflow,
-    Nartker inattentional-blindness, Streicher unconscious-fMRI, Dehaene ignition),
-    verbatim quote-fidelity, citation-framing (Cohen&Dennett anti-overflow / Dehaene
-    GWT for positions they hold; PRESERVE access/phenomenal split + evidential-status
-    hedge), currency. ai_system claude-opus-4-5-20251101 (SINGLE older cohort, HOLD
-    verbatim on no-op), ai_contribution 100, draft:false. CONCEPTS / access-vs-phenomenal
-    taxonomy cluster -- DISTINCT from both holders (timing-gap-problem quantum-timing
-    opus-4-6; curated-mind dualist-perception opus-4-6). NOT queued (parse_tasks 0
-    active/vetoed target; grep hits are completed tasks + cross-link notes-prose)
-    / vetoed / session-touched (git --since 2026-07-25T00:00 empty; last touch 07-18).
-    EOF clean (ends on Tegmark 2000 ref), no [1m] artifact. BOTTOM-inserted (FIFO).
-    Pruned run_798_note per note-bloat discipline (keep ~3: 799/800/801).'
   run_802_note: 'run no.802 (2026-07-25T10:04Z, interactive /replenish-queue): SINGLE
     exact-floor +1 staleness deep-review mint concepts/consciousness-bandwidth-architecture.md.
     Authoritative pre-write count_p0_p2_tasks(load_todo()) / parse_tasks P0-P2 open
@@ -1286,6 +1244,49 @@ queue_status:
     EOF clean (ends on ref-9 Southgate & Oquatre-six self-cite), no [1m] artifact.
     BOTTOM-inserted (FIFO). Pruned run_800_note per note-bloat discipline (keep ~3:
     801/802/803).'
+  run_804_note: 'run no.804 (2026-07-25T11:20Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 staleness deep-review mint concepts/generalised-probabilistic-theories.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) / parse_tasks P0-P2 open
+    == 2 (holders P2 consciousness-bandwidth-architecture run-802 + P2 cross-traditional-convergence
+    run-803); queue dropped 3->2 since run-803 as the loop-less local cycle deep-review
+    slot completed run-801s holder concepts/access-consciousness (HEAD fc8abcf46 auto(deep-review)).
+    Below floor 3, == 3 after (tool-verified post-write count_p0_p2 == 3; new mint
+    parsed deep-review with Type+File lines). No evolve_loop/cycle process (pgrep clean);
+    only uncommitted state delta is the pre-existing deferred cycle_post bookkeeping
+    from the access-consciousness deep-review -- KEEP. Eight-source audit: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    LENGTH standing human decision epistemology-of-convergence-arguments.md untouched;
+    positions 8<10 audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex
+    gap. TARGET: get_review_candidates top scorers are apex-articles.md (110, index)
+    + positions/ register files (107-109, positions-evolve not deep-review); the two
+    higher real-article scores bandwidth (14.74) + cross-traditional (12.86) are the
+    two holders already queued. Chose generalised-probabilistic-theories (13.85, top
+    UN-QUEUED distinct real article) on the REFINED discriminator -- SIZE of the genuinely
+    UNCHECKED verify surface, using review-sidecar count as the how-checked proxy:
+    it carries only 1 prior review sidecar (9-ref References block verified once at
+    07-16 creation), whereas the higher-raw-ref older-cohort alternatives are all over-reviewed/converged
+    (attention-and-the-consciousness-interface 28 refs but 5 sidecars AND 4011w hard_warning;
+    zombie-master-argument 7; skill-delegation 7; mental-causation 7 + hard_warning;
+    process-and-consciousness apex 10). Other 1-sidecar option cognitive-immune-system
+    reviewed 07-18 (7d) + lower score. opus-4-8, last_deep_review 2026-07-16 (9d) --
+    recent, so clean-verify no-op is ACCEPTABLE, do NOT manufacture a defect. Prior
+    runs 801-803 passed it over only because access-consciousness/bandwidth/cross-traditional
+    (larger surfaces) were stronger -- now consumed/queued. LENGTH: analyze_length
+    1756w status ok (concepts hard 3500) -- genuinely LENGTH-SAFE deep-review, NOT
+    a condense. Lenses: citation-metadata at publisher (NOT own page; ref 7 Torres
+    Alegre 2025 arXiv:2512.12636 Born-rule-from-steering -- confirm ID resolves + not
+    yet published/withdrawn; Hardy/Barrett/Chiribella-DAriano-Perinotti GPT axioms),
+    formal/empirical-claim fidelity (Born-rule derivation match), verbatim quote-fidelity,
+    citation-framing (physics sources for positions they hold; preserve GPT-to-interface
+    evidential hedges), currency; refs 8-9 Southgate & Oquatre-sept/huit are LEGIT Map
+    self-cite pseudonyms -- do NOT strip. ai_system claude-opus-4-8 (SINGLE cohort,
+    HOLD verbatim on no-op), ai_contribution 100, draft:false. CONCEPTS / quantum-foundations
+    / GPT cluster -- DISTINCT from both holders (bandwidth concepts/interface-architecture
+    opus-4-7; cross-traditional topics/non-Western opus-4-7). NOT queued (parse_tasks
+    0 active/vetoed target) / vetoed / session-touched (git --since 2026-07-25T00:00
+    empty; clean working tree). EOF clean (ends on ref-9 Southgate & Oquatre-huit self-cite),
+    no [1m] artifact. BOTTOM-inserted (FIFO). Pruned run_801_note per note-bloat discipline
+    (keep ~3: 802/803/804).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
