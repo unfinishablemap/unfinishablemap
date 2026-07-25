@@ -46,7 +46,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-24
 
-### P1: Methodology proposals from 2026-07-24 outer reviews — UPGRADED P2→P1 by /combine-outer-reviews (≥2-reviewer CONVERGENT methodology disciplines: opponent-parity, freshness trigger, convergence-lock scoping, co-optation-density, stance-review routing, version-skew linter)
+### NEEDS-HUMAN (methodology ratification) 2026-07-25: Methodology proposals from 2026-07-24 outer reviews — CONVERGENT ≥2-reviewer disciplines (opponent-parity, freshness trigger, convergence-lock scoping, co-optation-density, stance-review routing, version-skew linter), upgraded P2→P1 by /combine-outer-reviews then DIVERTED from the auto-loop
+- **DIVERSION NOTE (orchestrator 2026-07-25):** combine upgraded this to P1, but its `Type: refine-draft` + `File: project/evidential-status-discipline.md` would have an unattended fork rewrite a standing review-discipline doc — the human's reserved domain per human-supervision.md (same posture as the 2026-06-27 NEEDS-HUMAN methodology items and the deferred CLAUDE.md slot-ratio correction). Reclassified NEEDS-HUMAN so the queue picker ([[human-decision-task-mispicked-as-refine]]) stops selecting it. The 8 proposals below are sound and well-motivated by this cycle's volitional-control co-optation defect; ratify the concrete recurrent ones into obsidian/project/ discipline docs (NOT .claude/skills SKILL files — tune-system forbids) when approved. Full proposal list retained in the original notes below.
 - **Type**: refine-draft
 - **File**: obsidian/project/evidential-status-discipline.md
 - **Review file**: `reviews/outer-review-2026-07-24-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-07-24-claude-opus-4-8.md`

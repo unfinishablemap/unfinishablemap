@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-25T00:31:15.368833+00:00'
-session_count: 17055
+last_updated: '2026-07-25T00:38:47.567207+00:00'
+session_count: 17056
 cycle_position: 11663
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-24T04:21:06.929109+00:00'
   refine-draft: '2026-07-25T00:29:55.740487+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-20T03:05:52.845713+00:00'
+  replenish-queue: '2026-07-25T00:38:47.567207+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-24T08:17:31.557966+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-24'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-24'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-25'
   outcome: success
 agentic_social:
@@ -1221,7 +1221,35 @@ queue_status:
     BOTTOM-inserted (FIFO). Uncommitted evolution-state.yaml delta present at session
     start is legitimate deferred cycle_post bookkeeping, KEPT. HEAD 7cd7478e4. Pruned
     run_780_note per note-bloat discipline (keep ~3: 781/782/783).'
-  run_785_note: 'run no.785 (2026-07-25T00:35Z, interactive /replenish-queue): SINGLE EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/parsimony-epistemology.md. Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open floor-holders: P2 Propagate-Libet-verdict -> topics/motor-control-quantum-zeno + P1 Methodology-proposals -> project/evidential-status-discipline; three #veto condenses parser-excluded, four HUMAN-LENGTH-DECISION P3s do not count); below floor 3, == 3 after (tool-verified post-write recount == 3). No real uv run python evolve_loop.py process (sole pgrep hit was this session own count shell self-matching the string). Eight-source audit LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80 — no undefined-concept gap with an unconsumed research note); orphaned_files=0; length no condense pressure on target (under 3500 concepts hard); positions 8 entries < 10-entry audit threshold + last positions-evolve 2026-07-20 (<30d); no applied-apex gap. TARGET has GENUINE substantive unreviewed drift: last_deep_review 2026-06-21T14:40 (34d, >30d stale), then refine 6505f6470 (2026-07-21T20:17, ChatGPT 5.6 Pro rival-position-matrix outer-review fix) REWROTE the Relation-to-Site-Perspective (new rival matrix), ADDED inline Chalmers 1996 + Tononi 2004, SOFTENED the Smart severely-criticized/SEP attribution, RESTRUCTURED the Lycan 2009 quote, and CHANGED the Anderson reference (2002->2001, vol/pp/title) — none deep-reviewed. Lenses: verify CHANGED Anderson 2001 metadata at publisher, verbatim quote-fidelity on restructured Lycan + softened Smart/SEP at primary text, rival-matrix framing accuracy, Tenet-5 routing. ai_system claude-opus-4-8 (single, HOLD verbatim), ai_contribution 100, draft:false. Concepts / parsimony-Occam / Tenet-5 cluster — distinct from both floor-holders (volition topic + methodology project doc). NOT queued (all todo slug hits ✓-resolved history; HAS-VETO grep hit is the word vetoed in note prose, not a #veto tag) / vetoed / session-touched (git log --since 2026-07-25T00:00 empty). BOTTOM-inserted (FIFO). Uncommitted evolution-state.yaml delta at session start is legitimate deferred cycle_post bookkeeping, KEPT. HEAD ae3f14cbf. Pruned run_782_note per note-bloat discipline (keep ~3: 783/784/785).'
+  run_785_note: 'run no.785 (2026-07-25T00:35Z, interactive /replenish-queue): SINGLE
+    EXACT-floor +1 staleness (changed-since-review) deep-review mint — concepts/parsimony-epistemology.md.
+    Authoritative pre-write count_p0_p2_tasks(load_todo()) == 2 (open floor-holders:
+    P2 Propagate-Libet-verdict -> topics/motor-control-quantum-zeno + P1 Methodology-proposals
+    -> project/evidential-status-discipline; three #veto condenses parser-excluded,
+    four HUMAN-LENGTH-DECISION P3s do not count); below floor 3, == 3 after (tool-verified
+    post-write recount == 3). No real uv run python evolve_loop.py process (sole pgrep
+    hit was this session own count shell self-matching the string). Eight-source audit
+    LIVE: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80 — no undefined-concept gap with an unconsumed research
+    note); orphaned_files=0; length no condense pressure on target (under 3500 concepts
+    hard); positions 8 entries < 10-entry audit threshold + last positions-evolve
+    2026-07-20 (<30d); no applied-apex gap. TARGET has GENUINE substantive unreviewed
+    drift: last_deep_review 2026-06-21T14:40 (34d, >30d stale), then refine 6505f6470
+    (2026-07-21T20:17, ChatGPT 5.6 Pro rival-position-matrix outer-review fix) REWROTE
+    the Relation-to-Site-Perspective (new rival matrix), ADDED inline Chalmers 1996
+    + Tononi 2004, SOFTENED the Smart severely-criticized/SEP attribution, RESTRUCTURED
+    the Lycan 2009 quote, and CHANGED the Anderson reference (2002->2001, vol/pp/title)
+    — none deep-reviewed. Lenses: verify CHANGED Anderson 2001 metadata at publisher,
+    verbatim quote-fidelity on restructured Lycan + softened Smart/SEP at primary
+    text, rival-matrix framing accuracy, Tenet-5 routing. ai_system claude-opus-4-8
+    (single, HOLD verbatim), ai_contribution 100, draft:false. Concepts / parsimony-Occam
+    / Tenet-5 cluster — distinct from both floor-holders (volition topic + methodology
+    project doc). NOT queued (all todo slug hits ✓-resolved history; HAS-VETO grep
+    hit is the word vetoed in note prose, not a #veto tag) / vetoed / session-touched
+    (git log --since 2026-07-25T00:00 empty). BOTTOM-inserted (FIFO). Uncommitted
+    evolution-state.yaml delta at session start is legitimate deferred cycle_post
+    bookkeeping, KEPT. HEAD ae3f14cbf. Pruned run_782_note per note-bloat discipline
+    (keep ~3: 783/784/785).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
