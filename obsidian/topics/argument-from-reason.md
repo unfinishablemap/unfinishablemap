@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-07-18T17:07:22+00:00
+ai_modified: 2026-07-26T12:31:45+00:00
 draft: false
 last_deep_review: 2026-07-26T00:06:51+00:00
 topics:
@@ -184,6 +184,7 @@ The deeper question is whether *any* system—biological or artificial, however 
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] - Why evaluative phenomenal character—the felt authority of reasons—resists reduction
 - [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] - Davidson's token-physicalism and the property-epiphenomenalism charge against it
 - [[sellars-manifest-and-scientific-images]] - Sellars' space of reasons: the framework in which the rational-causation worry is posed
+- [[metacognition]] - Standing back to select which reasons to affirm: the metarepresentational capacity the rational agent exercises
 
 ## References
 

@@ -5,6 +5,13 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T12:31:45+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/metacognition]], [[topics/argument-from-reason]]
+- **Source**: optimistic review 2026-07-26 (mental-causation/rational-agency cluster reciprocal cross-links)
+- **Changes**: LINK-ONLY, strictly length-neutral. (1) metacognition related_articles (block-style) ← added [[argument-from-reason]] AND [[agent-causation]] (choosing-as-metarepresentation / self-as-object sections describe the standing-back-and-selecting both articles make load-bearing). (2) argument-from-reason Further Reading list ← added reciprocal [[metacognition]] (matched existing "- [[slug]] - desc" style). All three targets (argument-from-reason, agent-causation, metacognition) grep-verified resolving to live articles; all links grep-verified absent before add. ai_modified bumped on both; ai_system held (cross-link, not re-authoring). No argument bodies touched.
+- **Published**: yes
+
 ## 2026-07-26T12:06:11+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/indexical-identity-quantum-measurement]], [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]

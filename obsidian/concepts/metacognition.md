@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-11T09:56:00+00:00
+ai_modified: 2026-07-26T12:31:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,6 +44,8 @@ related_articles:
   - "[[consciousness-interface-development]]"
   - "[[anti-correlated-metacognitive-signal]]"
   - "[[cross-species-behavioural-confidence-proxy-tests]]"
+  - "[[argument-from-reason]]"
+  - "[[agent-causation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

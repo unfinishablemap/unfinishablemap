@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T12:15:48.549365+00:00'
-session_count: 17339
+last_updated: '2026-07-26T12:20:54.762374+00:00'
+session_count: 17340
 cycle_position: 11785
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T12:07:07.598034+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T12:04:38.509310+00:00'
+  replenish-queue: '2026-07-26T12:20:54.762374+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1146,35 +1146,36 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     optimistic-review-crosslink-promote: 1
-  run_855_note: 'run no.855 (2026-07-26T12:18Z, /replenish-queue): NO new mint -- PROMOTED
-    an existing P3 refine-draft cross-link task to P2 to restore the floor (exact-floor
-    +1, highest-yield restore available, mirroring runs 852/853/854). Target: "Cross-links
-    from optimistic review 2026-07-26 (mental-causation / rational-agency cluster)"
-    (Type refine-draft, File concepts/metacognition.md present, parses TaskType.REFINE_DRAFT).
+  run_855_note: 'run no.855 (2026-07-26T12:18Z, /replenish-queue): NO new mint --
+    PROMOTED an existing P3 refine-draft cross-link task to P2 to restore the floor
+    (exact-floor +1, highest-yield restore available, mirroring runs 852/853/854).
+    Target: "Cross-links from optimistic review 2026-07-26 (mental-causation / rational-agency
+    cluster)" (Type refine-draft, File concepts/metacognition.md present, parses TaskType.REFINE_DRAFT).
     Pre-edit count_p0_p2_tasks == 2 (tool-run, LIVE on disk, uv env); == 3 post-edit
     (tool-verified). Floor MIN_QUEUE_TASKS==3. The run-854 promoted holder (indexical-identity
-    / No-MWI cross-links) drained via a loop-less slot -- now committed 4f9a330fb (auto(refine-draft)
-    ... indexical-identity / No-MWI cluster), so live floor fell 3->2: documented replenish-at-floor
-    alternation [[unfin_loop_steady_state]] [[p3-only-floor-preemption-starves]], not
-    a deadlock. This was the sibling cross-link P3 that run-854 explicitly reserved
+    / No-MWI cross-links) drained via a loop-less slot -- now committed 4f9a330fb
+    (auto(refine-draft) ... indexical-identity / No-MWI cluster), so live floor fell
+    3->2: documented replenish-at-floor alternation [[unfin_loop_steady_state]] [[p3-only-floor-preemption-starves]],
+    not a deadlock. This was the sibling cross-link P3 that run-854 explicitly reserved
     for the next floor restore. Remaining pickable P0-P2 holders: P2 quantum-probability-consciousness
-    deep-review (run-850) + P2 relational-quantum-mechanics deep-review (run-851), both
-    likely near-no-ops; the promoted task sits at top of file order so the loop picks
-    it FIRST (highest-yield first, anti-LIFO [[queue-lifo-starvation]]). No evolve_loop/unfin-cycle
-    (pgrep clean); HEAD d594805aa; pre-existing uncommitted evolution-state.yaml delta
-    is legitimate deferred agentic-social/coalesce cycle_post bookkeeping -- KEEP [[orphaned-cyclepost-state-advance-in-worktree]].
-    WHY PROMOTE NOT MINT: eight-source audit BLOCKED -- chains/unconsumed-research/gap
-    all capped (topics 320/320, voids 100/100 at cap; concepts 319/320 but pipeline
-    drained -- last expand-topic 2026-07-16, last research-topic 2026-07-19, no concrete
-    gap candidate; positions 8/80 but <10 audit threshold + last positions-evolve 2026-07-25
+    deep-review (run-850) + P2 relational-quantum-mechanics deep-review (run-851),
+    both likely near-no-ops; the promoted task sits at top of file order so the loop
+    picks it FIRST (highest-yield first, anti-LIFO [[queue-lifo-starvation]]). No
+    evolve_loop/unfin-cycle (pgrep clean); HEAD d594805aa; pre-existing uncommitted
+    evolution-state.yaml delta is legitimate deferred agentic-social/coalesce cycle_post
+    bookkeeping -- KEEP [[orphaned-cyclepost-state-advance-in-worktree]]. WHY PROMOTE
+    NOT MINT: eight-source audit BLOCKED -- chains/unconsumed-research/gap all capped
+    (topics 320/320, voids 100/100 at cap; concepts 319/320 but pipeline drained --
+    last expand-topic 2026-07-16, last research-topic 2026-07-19, no concrete gap
+    candidate; positions 8/80 but <10 audit threshold + last positions-evolve 2026-07-25
     <30d); orphaned_files==0; length NO safe fresh condense candidate (flagship condense
     tasks all #veto-parked pending human length decision); no applied-apex gap; Source-4
-    changed-since-review/staleness DRAINED per runs 851-854. The promoted task is strictly
-    higher-yield: 3 CONCRETE, grep-verified-absent (0 hits: metacognition.md related_articles
-    lacks argument-from-reason + agent-causation; topics/argument-from-reason.md lacks
-    metacognition; all 3 target files confirmed present -- argument-from-reason resolves
-    to topics/ via bare slug), length-neutral reciprocal cross-links (link-only, cannot
-    misfire into flagship condensation) on the Map''s Dualism + Bidirectional-Interaction
+    changed-since-review/staleness DRAINED per runs 851-854. The promoted task is
+    strictly higher-yield: 3 CONCRETE, grep-verified-absent (0 hits: metacognition.md
+    related_articles lacks argument-from-reason + agent-causation; topics/argument-from-reason.md
+    lacks metacognition; all 3 target files confirmed present -- argument-from-reason
+    resolves to topics/ via bare slug), length-neutral reciprocal cross-links (link-only,
+    cannot misfire into flagship condensation) on the Map''s Dualism + Bidirectional-Interaction
     tenets (1+3). Full reasoning in the todo task Notes. Pruned run_852_note per note-bloat
     discipline (keep ~3: 853/854/855).'
   run_854_note: 'run no.854 (2026-07-26T12:03Z, /replenish-queue): NO new mint — PROMOTED
