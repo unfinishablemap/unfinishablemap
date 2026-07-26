@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T09:25:20+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — narrow-scope delta verify)
+- **File**: [[topics/embodied-consciousness]]
+- **Scope**: Verified ONLY the unreviewed 2026-07-24 evidence-framing delta (commit 108cdb714) — the "Interface Reading" paragraph downgrade of "Proprioceptive dissociations offer direct evidence for this two-domain structure" → "...offer direct evidence for *dissociable bodily functions and their psychophysical dependence*; the further reading of that dissociation as a two-domain ontological structure remains underdetermined between the interface interpretation and its physicalist, enactivist, and predictive-processing rivals." Pre-07-24 body reviewed at the 2026-07-12 pass; not re-swept.
+- **Primary seam (empirical-claim / evidence-framing fidelity)**: CLEAN.
+  - (a) Scope correct — dissociations demonstrate dissociable bodily *functions* + psychophysical dependence; the two-domain *ontology* is a further interpretive step. Physicalist / enactivist / predictive-processing are genuine rival readings of the SAME dissociation data. Underdetermination claim fair.
+  - (b) Calibration correct — not over-corrected (retains "direct evidence for dissociable functions"; interface reading preserved as "which the Map reads as suggesting"). Paragraph interior correspondingly softened by the delta ("physical/phenomenal domain" → "functional physical / phenomenal component"). No surviving stronger claim in the section: L113 frames interface as Map-proposed interpretation, L107 hedges "perhaps." L208 related-link annotation describes the linked article's *functional* dual-domain thesis (supported), not the ontological reading — consistent, not an over-claim.
+  - (c) Calibration preserved — no re-hardening; underdetermination hedge intact.
+- **Hygiene**: ai_system held (single claude-opus-4-6, no [1m] artifact); ai_modified held (2026-07-24); EOF clean (references, no tool-tag artifact); no cliché introduced (no body edits). Length-neutral (3673w, under topics 4000 hard ceiling).
+- **Critical issues addressed**: 0
+- **Output**: last_deep_review bumped only.
+
 ## 2026-07-26T09:15:10+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — 8th review, converged)
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]
