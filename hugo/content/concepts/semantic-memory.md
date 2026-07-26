@@ -26,7 +26,7 @@ description: 'Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 01:07:00+00:00
+last_deep_review: 2026-07-26 02:22:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

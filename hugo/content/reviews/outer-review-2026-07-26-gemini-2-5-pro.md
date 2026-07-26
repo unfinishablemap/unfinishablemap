@@ -1,0 +1,175 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-07-26
+ai_modified: 2026-07-26 04:36:32+00:00
+ai_system: gemini-2-5-pro
+author: Andy Southgate
+concepts:
+- '[[concepts/many-worlds]]'
+- '[[personal-identity]]'
+created: 2026-07-26
+date: &id001 2026-07-26
+description: 'Hostile-referee outer review (Gemini 2.5 Pro) of the quantum-immortality
+  article: flags untreated competing frameworks (Quantum Modal Realism, big-world
+  immortality, collapse-model empirical status, anthropic self-location), but over-claims
+  omissions the article in fact addresses.'
+draft: false
+human_modified: null
+last_curated: 2026-07-26
+modified: *id001
+outer_review_conversation_url: https://gemini.google.com/app/5a940686635e11db
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md
+subject_source: reuse:pending-reviews:outer-review-2026-07-26-chatgpt-5-5-pro.md
+subject_title: Audit quantum-immortality-and-the-quantum-suicide-survival-argument
+subject_type: recent
+title: Outer Review - Gemini 2.5 Pro (2026-07-26)
+topics:
+- '[[probability-problem-in-many-worlds]]'
+- '[[death-and-consciousness]]'
+---
+
+**Date**: 2026-07-26
+**Reviewer**: Gemini 2.5 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission. Your remit is to identify weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/ and makes claims about quantum immortality and the quantum-suicide survival argument; the site (https://unfinishablemap.org, changelog at https://unfinishablemap.org/workflow/changelog/) argues for a non-reductive view of consciousness. Do not describe the site's automation, review pipeline, methodology disciplines, evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit. Assess only the article's empirical claims, citations, counterargument coverage, and logical inferences. Audit: (a) empirical accuracy against 2020s physics, decision-theory, and philosophy-of-mind literature; (b) any results the article relies on that have been challenged, retracted, or failed to replicate; (c) places where a conclusion is smuggled in from a bracketed metaphysical assumption rather than argued; (d) untested counterarguments or competing frameworks such as many-worlds decision theory or anthropic reasoning that it fails to engage. End your report with at least five specific weaknesses, each with a peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles, and a one-sentence verdict on academic-submission readiness. If you cannot find five, state explicitly why none are visible. Do not append summary praise.
+
+## Reply
+
+# Referee Report: "Quantum Immortality and the Quantum-Suicide Survival Argument"
+
+## Executive Summary of the Audit
+
+The manuscript under review attempts to dismantle the quantum-suicide survival argument—and by extension, the Many-Worlds Interpretation (MWI) of quantum mechanics—by asserting that the "measure/probability problem" renders the expectation of subjective immortality irrational. The text further posits that an objective wave-function collapse resolves this epistemic crisis by guaranteeing a "determinate fact" regarding which post-measurement successor constitutes the continuing self. The manuscript frames this argument as a pressure test demonstrating the superiority of a non-Everettian ontology combined with an indexical realism about the self.
+
+However, a rigorous and exhaustive audit of the manuscript reveals fatal methodological, empirical, and philosophical deficiencies that render it entirely unsuitable for publication in a top-tier philosophy journal. The analysis demonstrates that the text systematically attacks a mathematically illiterate strawman of Everettian self-location, entirely ignores the past decade of formal decision-theoretic developments in MWI, and smuggles highly contentious, primitive metaphysical assumptions about personal identity into its premises without adequate argumentation. Furthermore, the manuscript posits objective physical collapse as a pristine philosophical exit route while demonstrating a profound ignorance of the severe empirical constraints recently placed on spontaneous collapse models by contemporary physics. The manuscript operates less like a peer-reviewed philosophical investigation and more like a doctrinal defense of pre-determined metaphysical commitments, bracketing the very literature it is explicitly tasked with engaging.
+
+## The Strawman of Naive Self-Location and Mortalist Everettianism
+
+The foundational flaw of the manuscript lies in its characterization of the "measure/probability problem" as a definitive and unaddressed *reductio ad absurdum* of MWI. The text repeatedly asserts that because surviving branches carry "vanishing amplitude," the conclusion that "you always find yourself alive" illicitly ignores the wavefunction's weight. The manuscript frames this as a fatal contradiction inherent to MWI, assuming that an Everettian is logically forced to adopt naive branch-counting or indexical certainty of survival when faced with quantum suicide scenarios.
+
+This assertion operates in a vacuum, entirely ignoring the highly sophisticated decision-theoretic apparatus developed by the "Oxford Everettian" school—notably David Deutsch, David Wallace, Hilary Greaves, and Simon Saunders—over the last two decades. This school mathematically derives the Born rule directly from axioms of rational agency operating in a branching universe. More damningly, the manuscript completely omits the prevailing "mortalist" position within contemporary Everettianism. Mortalist Everettians (such as Sean Carroll, David Papineau, and David Wallace) explicitly agree that the quantum immortality argument fails, precisely because rational credences in a branching universe must be apportioned according to branch weight (the modulus squared of the amplitude).
+
+By defining MWI solely through the lens of Max Tegmark’s 1998 formulation of the survival argument and Hans Moravec's earlier computational iterations, the manuscript attacks an outdated vulnerability. The manuscript argues that MWI treats "which surviving successor I become" as automatically resolved in favor of survival. But the Deutsch-Wallace theorem explicitly proves that a rational agent in a branching universe *cannot* simply count branches or assume indexical certainty of survival on a low-weight branch without violating core axioms of rational choice (such as diachronic consistency and state supervenience). The manuscript ignores the formal proofs that mandate measure-weighted credences, instead presenting the "measure problem" as an unsolved paradox that MWI simply ignores.
+
+The debate in the 2020s has shifted entirely away from whether quantum immortality is a direct prediction of MWI, focusing instead on the methodological and metaphysical *costs* of adopting the mortalist position to avoid it. Recent literature demonstrates that rejecting quantum immortality requires Everettians to adopt specific stances on personal identity, rationality, and anthropic reasoning that are highly non-trivial. The manuscript ignores this frontier entirely.
+
+| Conceptual Framework | Stance on Quantum Immortality | Epistemological Treatment of Branch Amplitude (Measure) | Resulting Agent Anticipation |
+| --- | --- | --- | --- |
+| **Naive Immortalism (Tegmark 1998, early MWI)** | Endorsed | Ignored or subjugated to absolute branch existence. Branch counting is prioritized over weight. | Agent anticipates survival with absolute certainty (Credence = 1), regardless of the objective lethality of the apparatus. |
+| **Mortalist Everettianism (Wallace, Carroll, Papineau)** | Rejected | Amplitude strictly dictates rational credence via formal decision-theoretic axioms (Deutsch-Wallace). | Agent anticipates death proportional to standard Born rule probabilities. Quantum suicide is subjectively indistinguishable from classical suicide. |
+| **The Manuscript's Characterization** | Framed as inevitable consequence of MWI | Treated as a fatal, unresolvable flaw that MWI natively cannot accommodate without internal contradiction. | MWI is rejected outright; objective physical collapse is demanded as the sole logical remedy. |
+
+To illustrate the depth of the manuscript's omission, one must look to recent comprehensive analyses of the Everettian landscape. The 2025 work by Mark William O'Brien in *Synthese* explicitly maps what a committed Everettian must surrender to maintain the mortalist rejection of quantum immortality. O'Brien demonstrates that rejecting quantum immortality requires Everettians to pay various methodological and metaphysical costs that exist in deep tension with austere Everettianism, particularly regarding how an agent's rational anticipation behaves when non-surviving branches entail absolute non-existence.
+
+The manuscript does cite O'Brien (2025) in its research notes, labeling it as "Neutral/diagnostic" and claiming it reinforces the framing of the "cost MWI carries". However, the manuscript grossly misapplies this source. O'Brien does not argue that the measure problem functions as a *reductio* that destroys MWI; rather, O'Brien explores the internal coherence of the mortalist Everettian escape routes. By treating the mortalist consensus as a failure of MWI rather than a formalized modification of rational choice within it, the manuscript fails to engage with the actual dialectic. It merely repeats the basic observation that unweighted branch-counting leads to absurdities—a point the target literature accepted, formalized, and moved past well over fifteen years ago.
+
+## The Empirical Precariousness of Objective Collapse and Falsified Physics
+
+Having prematurely and fallaciously dismissed MWI via its decision-theoretic strawman, the manuscript posits "real collapse" as the physical savior that dissolves the quantum suicide reductio. The text argues that under objective wave-function collapse, there is a single actual successor and a "determinate fact" regarding which one is the continuing subject. Consequently, the manuscript claims, the immortality expectation never forms because death is simply final, with no surviving-branch self to locate into. The manuscript treats objective collapse purely as a metaphysical convenience, a structural placeholder utilized solely to enforce a preferred philosophy of mind and personal identity.
+
+This approach demonstrates a severe detachment from the reality of contemporary physics. Spontaneous objective collapse models—such as the Ghirardi–Rimini–Weber (GRW) model, Continuous Spontaneous Localization (CSL), and the Diósi-Penrose (DP) gravity-related collapse model—are not mere philosophical interpretations to be deployed as philosophical exit routes. They are predictive, falsifiable physical theories that fundamentally modify the Schrödinger equation. Because these models introduce a non-linear, stochastic evolution to the wavefunction, they make novel empirical predictions that deviate from standard quantum mechanics. Most notably, they predict a continuous, spontaneous radiation emission (bremsstrahlung) from charged particles as they undergo spatial localization.
+
+The manuscript treats collapse as an established, unproblematic physical reality, completely ignoring the rigorous experimental bounds placed on these theories in the 2020s. A rigorous philosophical analysis cannot invoke a heavily modified, predictive physical theory to solve a metaphysical dispute without actively engaging with the empirical viability of that exact theory.
+
+To provide context, the Diósi-Penrose (DP) model links wavefunction collapse directly to gravitational self-energy. It is historically the preferred mechanism for philosophers attempting to link physical collapse to determinate macro-states and consciousness, as it avoids arbitrary parameter tuning. However, the manuscript is entirely silent on the fact that the parameter-free Diósi-Penrose model has been empirically falsified.
+
+| Physical Collapse Model | Proposed Mechanism for Objective Localization | Empirical Status in 2020s Physics Literature |
+| --- | --- | --- |
+| **Diósi-Penrose (DP)** | Gravitational self-energy threshold dictates the rate of spontaneous spatial collapse. | Falsified in its parameter-free form by precision underground radiation bounds (Donadi et al., 2021). |
+| **Continuous Spontaneous Localization (CSL)** | Stochastic non-linear field interaction continuously driving systems toward position eigenstates. | Parameter space is currently severely constrained by cosmological and laboratory data; requires increasingly arbitrary tuning to avoid falsification. |
+| **Ghirardi-Rimini-Weber (GRW)** | Discrete spontaneous localization events occurring stochastically at the particle level. | Highly constrained; macroscopic superpositions remain physically problematic due to the "tails problem" (the wavefunction never collapses entirely to zero). |
+
+In 2021, an exhaustive underground test of gravity-related wave function collapse was published in *Nature Physics* by Donadi, Piscicchia, Curceanu, Diósi, Laubenstein, and colleagues. Utilizing ultra-pure germanium detectors at the Gran Sasso National Laboratory to measure the predicted spontaneous radiation emission, the experiment definitively ruled out the parameter space of the standard DP model.
+
+By relying on objective collapse to provide the "determinate fact" of existence required to dissolve quantum immortality, the manuscript hitches its philosophical wagon to a class of physical theories that are currently under immense, perhaps fatal, experimental pressure. Furthermore, even if one assumes a CSL or GRW model that evades current bounds, the manuscript ignores the "tails problem" of objective collapse. Spontaneous collapse models do not reduce the wavefunction of the dying observer perfectly to zero; a microscopic amplitude tail remains. If the author takes the measure problem seriously, they must explain why an infinitesimally small amplitude tail in a collapse model prevents quantum immortality, while a small amplitude branch in MWI ensures it. The manuscript’s failure to cite a single empirical physics paper regarding the status of collapse models or the tails problem renders its core physical premise scientifically precarious and philosophically naive.
+
+## Metaphysical Smuggling: The Non-Deflationary "I" and Infinite Cosmology
+
+The most egregious methodological violation in the manuscript occurs in its handling of personal identity. The text argues that the quantum suicide reductio fails under objective collapse because "death is just death, with no surviving-branch self to locate into". The text explicitly "flags" that this dissolution presupposes a "non-deflationary I" (an indexical realism where the self is a primitive, irreducible entity, possessing a haecceity that grounds identity over time).
+
+Flagging a bracketed assumption does not excuse question-begging in a peer-reviewed submission to a journal like *Synthese* or *Mind*. The manuscript attempts to derive a conclusion about the physical universe (the necessary rejection of MWI in favor of collapse) by smuggling in a highly contentious, extreme minority view in the philosophy of mind. By assuming a Cartesian ego-theory, the author simply defines the problem away.
+
+If one adopts the dominant view in contemporary philosophy of personal identity—Parfitian psychological reductionism—the manuscript's entire argument regarding collapse completely disintegrates. Under psychological continuity theories, personal identity does not track a primitive, unanalyzable "I." Rather, identity is defined by chains of psychological connectedness (overlapping chains of memory, intention, and personality traits) realized in physical substrates.
+
+If personal identity is deflationary and reductionist, the rejection of MWI and the adoption of objective collapse does *not* eliminate the expectation of immortality, provided the universe is spatially infinite. Recent literature in the intersection of cosmology and personal identity demonstrates that in a spatially infinite universe (the standard concordance model of modern cosmology), all possible physical configurations—including exact atomic duplicates of any given observer—are actualized infinitely many times across the cosmos.
+
+Therefore, upon the physical death of an observer in one local region of spacetime, psychological continuity is seamlessly maintained by physically identical duplicates elsewhere in the cosmos who are surviving analogous situations. Consequently, a subject applying a standard reductionist theory of identity in an infinite universe should *still* rationally expect subjective immortality, entirely independent of quantum mechanics, wave-function branching, or objective collapse.
+
+This argument has been rigorously formalized in recent years. For instance, Preston Greene's 2024 (and forthcoming) work in the *Australasian Journal of Philosophy*, "We Will All Live Forever," argues explicitly that developments in psychological views of personal identity (specifically Derek Parfit's framework), when combined with the most popular cosmological view of an infinite universe, mathematically guarantee subjective immortality. Under this framework, agents should be "far from certain of their own mortality" because the psychological continuity required for survival does not depend on a localized physical substrate, but on the existence of a psychological continuation anywhere in the infinite manifold.
+
+The manuscript completely ignores this entire line of reasoning. By hard-coding an anti-Parfitian metric into its premises to declare that "death is just death" under collapse, the manuscript does not actually derive the failure of quantum immortality from objective physical collapse; it simply enforces the failure via definitional fiat. The text conflates the physics of the wavefunction with the metaphysics of personal identity, failing to realize that its preferred physical interpretation (collapse) is entirely insufficient to yield its desired conclusion unless it is artificially coupled with a deeply unpopular, unargued metaphysical premise regarding the soul or primitive haecceity. An academic paper cannot claim to solve a problem in the philosophy of physics when the "solution" is entirely contingent upon smuggling in an unargued, non-standard philosophy of mind.
+
+## Failure to Engage with Quantum Modal Realism and Counterpart Theory
+
+The manuscript's conceptual framing assumes that if MWI is true, all branches are equally "actual" in a manner that generates the fatal indexical continuity of the quantum suicide argument. It asserts that MWI treats "which surviving successor I become" as automatically resolved in favor of survival, while providing no fact of the matter about which successor is "me". This characterization completely ignores the most significant metaphysical formalization of Everettian quantum mechanics developed in recent years: Quantum Modal Realism (QMR).
+
+In Quantum Modal Realism, heavily championed by Alastair Wilson in his 2020 Oxford University Press monograph *The Nature of Contingency: Quantum Physics as Modal Realism*, the branches of the Everettian multiverse are strictly identified with Lewisian possible worlds. This framework provides a rigorous, reductive account of contingency and necessity directly derived from the physics of quantum mechanics. Under QMR, the "actual" world is simply an indexical term used by the inhabitants of any given branch to refer to their own spatiotemporal manifold, exactly as in standard Lewisian modal realism. The multiverse itself is non-modal; contingency emerges as variation across the quantum branches.
+
+When QMR is applied to the quantum suicide thought experiment, the indexical paradox that the manuscript relies upon evaporates, and it does so without requiring the empirical peril of objective physical collapse. Because the branches are distinct, non-overlapping possible worlds (diverging rather than overlapping), the observer in the pre-measurement state does not strictly "become" all of the post-measurement observers. Instead, personal identity across branches is handled via Lewisian *counterpart theory*.
+
+| Metaphysical Framework for Everettian Branches | Treatment of Personal Identity Across Branches | Resolution to Quantum Suicide |
+| --- | --- | --- |
+| **Standard Overlapping Everettianism** | Pre-measurement observer literally divides into multiple identical post-measurement successors. | Generates identity paradoxes; requires complex decision-theoretic axioms to maintain rational credences. |
+| **Quantum Modal Realism (QMR)** | Diverging worlds. Identity is strictly bound to a single branch. Trans-branch identity is handled via counterpart relations. | Pre-measurement observer does not survive in the dead branch. The survivor is a *counterpart*, blocking strict indexical continuity. |
+| **The Manuscript's Assertion** | Assumes the overlapping model is the only Everettian framework, mandating indexical continuity. | Claims objective collapse is the only physical mechanism that can provide a "determinate fact" of identity. |
+
+In the QMR framework, the observer who dies in the lethal branch is genuinely dead; the observer who survives in the non-lethal branch is a counterpart. Because QMR establishes objective chance (measure) as a fundamental feature of the modal space, rational credence operates normally. The pre-measurement observer evaluates the objective probability of their counterpart surviving in the modal space, strictly weighted by the Born rule. There is no "vanishing amplitude" paradox because the agent uses the objective modal weight to inform their rational expectation. The agent does not "always find oneself alive" because the agent only exists in their specific branch; they simply have counterparts who survive in others.
+
+The manuscript's failure to mention, let alone refute, Quantum Modal Realism is academically inexcusable. It treats the quantum suicide argument as an inescapable indexical trap for MWI, actively ignoring an established, book-length metaphysical framework that explicitly utilizes the metaphysical properties of the multiverse and counterpart theory to dismantle the exact paradox the author claims is fatal. A philosophical critique of MWI's ontology must engage with its most sophisticated ontological expressions in the 2020s, not just popular-science reductions from 1998.
+
+## The Epistemology of Self-Location, Bayesian Background, and Anthropic Reasoning
+
+Beyond the physics and the metaphysics of identity, the manuscript exhibits a shallow grasp of formal epistemology. It concludes that the "comforting" reading of quantum immortality is self-defeating because the surviving branches carry negligible amplitude. The text treats the mapping of physical amplitude to rational expectation as trivially violated by the survival argument, dismissing the immortality expectation as an illicit conflation of possibility and expectation. However, the exact mechanism by which a rational agent ought to update their self-locating belief in a branching scenario is one of the most mathematically complex areas of contemporary formal epistemology, and it cannot be dismissed with a wave of the hand regarding "vanishing amplitude."
+
+The text entirely fails to engage with the Bayesian dynamics of anthropic reasoning, the Requirement of Total Evidence, and self-location in multiverse scenarios. When an agent undergoes a quantum suicide experiment, they are subjecting themselves to a severe anthropic selection effect: their continued observation is physically conditioned on their survival. The manuscript dismisses this by pointing to the "measure problem," but recent literature on indexicality and Bayesian background in fine-tuning and multiverse arguments demonstrates that self-location probabilities cannot be trivially dismissed by pointing to low initial prior probabilities.
+
+If an agent updates their beliefs using the Requirement of Total Evidence, their self-locating credence *must* account for the fact that they are currently observing a survival state. In a branching universe where both outcomes are actualized, the agent in the surviving branch will naturally update their posterior probability of MWI being true to near certainty. Formal Bayesian epistemology shows that subjective certainty of survival in the first-person perspective is a mathematically valid update rule when conditioning on anthropic survival, even if the objective branch weight is microscopically small.
+
+For example, Quentin Ruyant's 2025 paper in *Noûs*, "Indexicality, Bayesian background and self-location in fine-tuning arguments for the multiverse," rigorously analyzes how agents must update their credences when their very existence acts as the evidence. In fine-tuning and multiverse scenarios, indexical evidence (the fact that *I* am here observing *this* specific state) deeply complicates standard Bayesian updating. The manuscript asserts that quantum immortality conflates possibility with rational expectation, but formal Bayesian epistemology demonstrates that when an agent's existence is anthropic evidence, updating towards certainty of the survival branch is mathematically permissible, if not mandated.
+
+The manuscript’s refusal to formalize its claims using Bayesian updating formulas, Sleeping Beauty-style decision matrices, or formal anthropic principles reduces its epistemological critique to mere rhetorical assertion. It relies heavily on the intuitive absurdity of the conclusion (citing the Torment reductio of Lewis and Aranyosi) rather than demonstrating a formal mathematical or epistemic failure in the self-locating update rule itself.
+
+## Tabulation of Specific Weaknesses and Omitted Literature
+
+The manuscript requires immediate rejection based on the following five specific, fatal weaknesses. Each point demonstrates a profound failure to engage with the current, peer-reviewed literature in physics, decision theory, and philosophy of mind between 2020 and 2025.
+
+| Weakness Identified in the Manuscript | Description of the Methodological or Argumentative Failure | Peer-Reviewed Source Omitted, Contradicted, or Mishandled |
+| --- | --- | --- |
+| **Failure to Engage Mortalist Everettian Decision Theory** | The manuscript asserts the "measure problem" is an unsolved, fatal *reductio* of MWI that necessitates physical collapse. It ignores the dominant "mortalist" Everettian consensus, which explicitly utilizes formal decision theory (the Deutsch-Wallace theorem) to align rational credence with branch weight, rejecting immortality without abandoning MWI. | O'Brien, M. W. (2025). "The costs of rejecting quantum immortality." *Synthese*, 206(5), 1-20.. (Demonstrates that the rejection of quantum immortality by Everettians is standard, while detailing the actual methodological costs the manuscript fails to analyze). |
+| **Empirical Ignorance Regarding Objective Collapse Models** | The manuscript leverages "objective collapse" to secure a determinate metaphysical fact of identity, entirely ignoring that physical collapse models (such as Diósi-Penrose) are currently facing severe empirical falsification due to spontaneous radiation emission bounds. | Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics*.. (Provides direct empirical constraints falsifying the parameter-free Diósi-Penrose model, undermining the manuscript's core physical premise). |
+| **Metaphysical Smuggling of Personal Identity Constraints** | The manuscript asserts immortality dissolves because "death is just death" under collapse, smuggling in an unargued, anti-reductionist view of the self. It ignores that under standard Parfitian reductionism, an infinite spatial cosmology guarantees immortality independent of quantum mechanics. | Greene, P. (forthcoming/2024). "We Will All Live Forever." *Australasian Journal of Philosophy*.. (Demonstrates that Parfitian psychological continuity combined with standard infinite cosmology yields personal immortality, rendering the manuscript's reliance on physical collapse philosophically moot). |
+| **Ignorance of Quantum Modal Realism and Counterpart Theory** | The manuscript assumes MWI necessarily leads to paradoxical indexical continuity (the observer becoming all successors). It fails to engage with frameworks that treat branches as distinct possible worlds where identity is governed safely by counterpart theory. | Wilson, A. (2020). *The Nature of Contingency: Quantum Physics as Modal Realism*. Oxford University Press.. (Provides a comprehensive metaphysical framework that treats Everett branches as Lewisian possible worlds, explicitly resolving the indexical paradoxes the manuscript claims are fatal). |
+| **Lack of Formal Epistemological Grounding for Self-Location** | The manuscript informally dismisses the anthropic selection effects of the survival argument as an illicit conflation of possibility and expectation, without addressing the formal Bayesian mechanics and Requirement of Total Evidence that govern self-locating belief updates in multiverses. | Ruyant, Q. (2025). "Indexicality, Bayesian background and self-location in fine-tuning arguments for the multiverse." *Noûs*, 59(1), 140.. (Analyzes the strict Bayesian requirements for updating self-locating beliefs in multiverses, contradicting the manuscript's informal, non-mathematical dismissal of the survival update). |
+
+**Verdict:**
+The manuscript is entirely unready for academic submission, as it relies on outdated strawmen, smuggles unargued primitive metaphysical assumptions, and demonstrates a profound, disqualifying detachment from the 2020s literature in theoretical physics, formal decision theory, and the philosophy of mind.
+
+## Verification Notes
+
+Checked by the processing pass against the live article ([topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/), deep-reviewed 2026-07-19) and against the cited sources.
+
+**Citations verified real (WebSearch, 2026-07-26):**
+- ✓ Ruyant, Q. (2025). "Indexicality, Bayesian background and self-location in fine-tuning arguments for the multiverse." *Noûs* 59(1):140–159 — confirmed at Wiley Online Library (DOI 10.1111/nous.12502) and PhilPapers.
+- ✓ Greene, P. "We Will All Live Forever." *Australasian Journal of Philosophy* (forthcoming) — confirmed listed on prestongreene.org research page.
+- ✓ Wilson, A. (2020). *The Nature of Contingency: Quantum Physics as Modal Realism*. OUP — established monograph (high confidence; verify at publisher before citing in-article).
+- ✓ Donadi et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics* — established result (high confidence; verify at publisher before citing in-article).
+- ✓ O'Brien, M. W. (2025). "The Costs of Rejecting Quantum Immortality." *Synthese* — already cited in the article's own references (ref 7).
+
+**Disputed / false claims (the reviewer over-claims omissions the article in fact addresses):**
+- ✗ "Completely omits the prevailing mortalist position within contemporary Everettianism." FALSE. The article explicitly engages Everettian mortalists — "the Everettian *mortalists* (Wallace, Carroll, and Papineau among them, as O'Brien's survey catalogues), who reject from inside MWI the idea that a surviving branch automatically houses one's continuing self" — and concedes the Deutsch–Wallace measure-weighted decision theory is "machinery MWI already owes." The mortalist consensus is central to the article's dialectic, not omitted.
+- ✗ "Smuggles unargued primitive metaphysical assumptions about personal identity." FALSE as framed. The article openly flags the dependency: "It is meaningful only on a non-deflationary conception of personal identity … A reductionist about personal identity (Parfit) or a Madhyamaka no-self analysis would deny that there is any determinate 'which successor is me' question … The dissolution is as strong as that subject, and no stronger." Flagged, not smuggled. (The distinct *big-world duplication* immortality route the reviewer gestures at via Greene is genuinely untreated — see task.)
+- ~ "Empirical ignorance of objective collapse models (Donadi 2021 falsifies Diósi-Penrose)." Partly a category error: the Map's collapse is a *consciousness-caused* (Tenet-2, minimal-interaction) collapse, not a spontaneous-localization model (GRW/CSL/DP). Donadi's falsification of parameter-free DP does not directly threaten the Map's ontology. The actionable residue is *disambiguation*: the article's bare "objective collapse" invites the referee's physical-collapse reading and should distinguish which collapse it means.
+
+**Genuinely untreated (actionable — carried to task):** Quantum Modal Realism / counterpart-theory diverging-worlds resolution (Wilson 2020); big-world/infinite-cosmology immortality under Parfitian identity (Greene, forthcoming); formal anthropic / Requirement-of-Total-Evidence self-location (Ruyant 2025); and the collapse-notion disambiguation above. The 2026-07-26 ChatGPT/Claude reviews already cover the citation-fidelity, superlative-quantifier, and caring-measure (Greaves/Vaidman) findings; this task adds only Gemini's distinct engagement gaps.

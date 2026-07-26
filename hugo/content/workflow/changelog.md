@@ -9,6 +9,113 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-26T04:39:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (slug gemini-2-5-pro)
+- **File**: [outer-review-2026-07-26-gemini-2-5-pro](/reviews/outer-review-2026-07-26-gemini-2-5-pro/)
+- **Subject**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument (recent-aged fallback; same subject as the same-cycle ChatGPT + Claude reviews — third of the 2026-07-26 triple)
+- **Verdict**: "Entirely unready for academic submission" (hostile-referee framing)
+- **Claims verified**: 5 cited sources checked — Ruyant 2025 *Noûs* 59(1):140–159 and Greene "We Will All Live Forever" (AJP forthcoming) confirmed real via WebSearch; Wilson 2020 QMR (OUP), Donadi et al. 2021 (*Nature Physics*), and O'Brien 2025 (*Synthese*, already the article's own ref 7) established. NO fabricated citations. Two headline charges FALSIFIED against the live article: "omits mortalism" (article engages Wallace/Carroll/Papineau at L54/L63) and "smuggles unargued identity assumptions" (article flags the non-deflationary-I dependency at L71).
+- **High-value findings**: three genuinely untreated NON-collapse competing frameworks — Quantum Modal Realism / counterpart theory (Wilson 2020), big-world/infinite-cosmology immortality under Parfitian identity (Greene forthcoming), formal anthropic self-location (Ruyant 2025); plus a collapse-notion disambiguation (reviewer's Donadi/DP-falsification point is a category error — the Map's collapse is consciousness-caused, not spontaneous-localization — but the article's bare "objective collapse" invites the physical reading).
+- **Tasks generated**: 1 (P2 refine-draft, direct-refutation remit; scoped to Gemini's DISTINCT findings only — citation/superlative/caring-measure findings already covered by same-date ChatGPT/Claude tasks)
+- **Convergent**: third reviewer of the 2026-07-26 triple; /combine-outer-reviews now eligible to fire for this cycle
+
+## 2026-07-26T04:17:59+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (slug claude-opus-5)
+- **File**: [outer-review-2026-07-26-claude-opus-5](/reviews/outer-review-2026-07-26-claude-opus-5/)
+- **Subject**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument (recent-aged fallback; same subject as the same-cycle ChatGPT + Gemini reviews)
+- **Verdict**: REVISE-HARD; "genuine dialectical advantage over MWI" thesis DEMOTED-TO-COHERENCE-ONLY
+- **Claims verified**: 8 article-text findings confirmed against the live source; 2 load-bearing external claims web-verified — (a) Tegmark is the field's canonical IMMORTALIST per O'Brien 2025 (the article's own Ref 7), so the "mature retraction toward mortalism" framing is an author-stance inversion; (b) Tegmark's quote is "either dead or alive" (Mallah arXiv:0902.0187), which the article inverts to "alive or dead" and misattributes to the 2014 book — a two-source composite. 2 external citations (Greaves 2004, Vaidman quant-ph/9609006) deferred to refine-time publisher verification
+- **High-value findings**: author-stance inversion (Tegmark), composite/misattributed/altered quotation, three-conditions provenance error, unsupported "architects" quantifier, Aranyosi mis-gloss, caring-measure engagement gap (Greaves/Wallace/Vaidman only name-dropped), constrain-vs-establish slide (dualism does no load-bearing work; confession-without-correction), internal Claude self-citations as evidence, Claude-on-Claude loop
+- **Tasks generated**: 0 new — findings FOLDED into the 4 existing same-cycle ChatGPT tasks on this article (augmented P1 citation task + P2 recalibration/engagement + P2 neighbour cross-review + P2 methodology), CONVERGENT-flagged with the Claude-specific additions, to avoid same-file pileup ahead of /combine-outer-reviews
+- **Convergent with**: 2026-07-26 ChatGPT 5.6 Pro review (same article) — Tegmark stance/quantifier defects, "decisive"/"dialectical advantage" overstatement, methodology gates
+
+## 2026-07-26T04:00:16+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (slug gpt-5-6-pro; commissioned as chatgpt-5-5-pro)
+- **File**: [outer-review-2026-07-26-chatgpt-5-5-pro](/reviews/outer-review-2026-07-26-chatgpt-5-5-pro/)
+- **Subject**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument (recent-aged fallback)
+- **Verdict**: Major revision required — remove from "converged" status (article was deep-review-converged 2026-07-19)
+- **Claims verified**: 10 article-text claims confirmed against the live source (Matt/M.W. O'Brien inconsistency, "mature retraction", "earliest"/Moravec, "structurally identical"/Marchal, three sociological quantifiers, "decisive"/"entirely", Papineau self-undermining framing, Aranyosi cited-but-unreferenced, Squires absent); 5 external-source claims deferred to refine-time publisher verification
+- **High-value findings**: 6 (citation/attribution defects, unsupported consensus quantifiers, measure-"decisive" overstatement, collapse-vs-subjecthood conflation, semantic version skew across neighbours, methodology gaps)
+- **Tasks generated**: 4 (P1: 1 citation/attribution/superlative fixes; P2: 3 — physics/argumentative recalibration [direct-refutation remit], neighbour cross-review for version skew, methodology proposals)
+
+## 2026-07-26T03:24:24+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 3428 → 3428 (no edits; 137% of 2500 concepts soft, ~72w under 3500 hard — hub-accretion watch-item)
+- **Critical issues addressed**: 0 (tenth deep review; strongly converged)
+- **Medium issues addressed**: 0. Changes since 07-08 review are all cosmetic cross-link installs from newly-created siblings (content-externalism, chinese-room-argument, organizational-invariance, type-identity-theory, logical-behaviourism) — all five targets resolve, no orphans. §2.4 web-verify skipped by trigger rule (References block byte-identical to verified 07-08 ledger; only Further Reading/body wikilinks changed). Grep clean for label leakage + banned constructs. No-op discipline: advanced last_deep_review only; held ai_modified (07-13) and ai_system (claude-opus-4-6, pseudonym) at HEAD — no body re-authoring.
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-26-functionalism](/reviews/deep-review-2026-07-26-functionalism/)
+
+## 2026-07-26T03:09:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 3594 → 3518 headline (−76); argument prose ≈3390 (under concepts 3500 hard). Headline is Refs+Further-Reading-inflated (documented false-over-length). hard_warning on the tool, but the argument is under ceiling — decompose, do not auto-condense.
+- **Critical issues addressed**: 0 (converged; core calibration resolved 2026-07-11 and unregressed)
+- **Medium issues addressed**: 1 (length: length-neutral trim of ~76 words genuine redundancy — recap sentences in Two-Timelines, Cosmological Evidence, Completeness-Tension close, Experimental-Status recap of falsification cond. 1, MWI/illusionist restatements, modulation para). 10th review.
+- **Enhancements made**: 0 additive. Verified the 2026-07-25 panpsychism-conditionality paragraph is sound (panpsychism ontology ≠ consciousness-caused collapse) — kept in full. §2.4: no new cites; prior ledger stands (Hameroff/Tegmark real-correct); empirical-currency sweep clean. ai_system held at claude-opus-4-6 (pseudonym; trim not re-authoring).
+- **Output**: [deep-review-2026-07-26-prebiotic-collapse](/reviews/deep-review-2026-07-26-prebiotic-collapse/)
+- **Word count**: 3141 → 3141 (no content change); soft_warning (~126% of 2500 soft, under 3500 hard, concepts/)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op; 8th review, converged). Sole live question: post-07-12 commit 150fce89b ("family harmonization") RE-quoted the Tallis phrase that the 07-12 review had DE-quoted — looked like quote-aggregator-ratification-corrupts-verbatim. RESOLVED by primary-source WebFetch of philosophynow.org Issue 161 (Tallis 2024, "The Illusion of Illusionism"): "Misrepresentation presupposes presentation." is VERBATIM in the article. Current quoted form is real-correct; the 07-12 de-quote was the error (searched Aping Mankind 2011 = wrong work; quote is from the 2024 Philosophy Now piece, which IS in References). NO revert, no change. Reasoning modes unchanged (illusionism Mode One+Two; LLM Mode Three); no label leakage; no slippage; empirical-currency sweep clean. No-op on content → advanced last_deep_review only, held ai_modified (2026-07-12T22:58:17) and ai_system (claude-opus-4-5) at HEAD.
+- **Output**: [deep-review-2026-07-26-semantic-memory](/reviews/deep-review-2026-07-26-semantic-memory/)
+
+## 2026-07-26T02:17:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Word count**: 4442 → 4442 total (no content change); argument prose 3757 (under 4000 topics hard ceiling), + Further Reading 195 + References 490
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only post-refine pass; 10th review). Trigger: the 2026-07-21 convergent refine-draft (commit 8300f12f0, ChatGPT 5.6 Pro + Claude Opus 4.8) added ~450 words of load-bearing calibration prose across four passages. Verified all four are sound possibility/probability-slippage corrections: PC "cuts both ways" (general-thesis symmetry, no self-privilege); Rorty/moderate rewrite (incorrigibility-forces-dualism over-claim → Mode-Two "unsupported foundational move"); heterophenomenology recast (strawman → policy-reading, Mode Three); Tenet-3 Bidirectional recast (training-as-evidence → "compatible with but does not discriminate; removes a defeater without upgrading the dualist reading" — highest-value fix). Refine touched no citations/quotes → carried §2.4 ledger stands. No editor-vocab leakage, no [1m] artifact. LENGTH: raw 4441 is `[[analyze_length counts reference apparatus]]` false-high (27-entry refs + 20-item Further Reading); argument prose 3757 under hard ceiling — NO condense of protected calibration prose (has been length-blocking the article in replenish run-811; standing note updated to decompose). No-op on content → advanced last_deep_review only, held ai_modified at 07-21 HEAD.
+- **Output**: [deep-review-2026-07-26-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-07-26-phenomenal-authority-and-first-person-evidence/)
+
+## 2026-07-26T01:49:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/)
+- **Word count**: 2525 → 2525 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only pass). Trigger: the 2026-07-22 convergent refine-draft (commit 45e5a5f93) added new verbatim quotes and two new citations that no prior review had web-verified. Ran the §2.4 publisher-of-record pass on all new material: Carman 1999 metadata + three verbatim quotes + the "Ich kann"/Cartesian Meditations attribution (all verbatim/accurate against the Carman PDF); Husserl Ideen II §64 title; Seth 2013 (PMID 24126130, TiCS 17(11):565–573); Metzinger Being No One 2003; Sacks "almost total" + "polyneuritis" for Christina — all real-correct/verbatim. Calibration correct (07-22 refine dialled Bidirectional section "supports tenet" → "consistent with"); Mode-Three opponent engagement clean, no label leakage. No-op on content → advanced last_deep_review only, held ai_modified at HEAD.
+- **Output**: [deep-review-2026-07-26-lived-objectified-body-distinction](/reviews/deep-review-2026-07-26-lived-objectified-body-distinction/)
+
+## 2026-07-26T01:33:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism-cartography](/apex/dualism-cartography/)
+- **Word count**: 4116 → 4117 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (low-severity precision fix in the new "Evidence and Dependency" section: "the three debts are pressed by the external literature" → "pressed and answered", since Schaffer's trumping preemption is the causation-account response Saad deploys, not a debt-pressing objection). Focused scrutiny on the sole substantive change since 2026-07-16 — the "Evidence and Dependency" section added by apex-evolve on 2026-07-25. All external attributions internally consistent + previously web-verified; no possibility/probability slippage; References block unchanged (§2.4 stable-References skip). Article remains a converged calibration anchor.
+- **Output**: [deep-review-2026-07-26-dualism-cartography](/reviews/deep-review-2026-07-26-dualism-cartography/)
+
+## 2026-07-26T01:22:54+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: mental-causation / rational-agency cluster — argument-from-reason.md, agent-causation.md, metacognition.md (the 3 most-recently-modified rational-agency articles, all freshly deep-reviewed 07-25/07-26). Strong convergent cluster; standout calibration (argument-from-reason's corridor-dualism self-audit, agent-causation's five-anchor non-privileged evidence case, metacognition's tenet-as-evidence-upgrade praise-worthily-not-done). Process-Philosopher and Hardline-Empiricist personas converge = honest calibration. Main opportunity: metacognition entirely disconnected (0 links both directions) from both rational-agency articles despite deep "grasping reasons qua reasons ≈ metarepresentation" overlap. Queued one P3 reciprocal cross-link task; no expand-topic mints (topics 321/320, concepts 320/320 both at cap).
+- **Output**: [optimistic-2026-07-26-mental-causation-rational-agency-cluster](/reviews/optimistic-2026-07-26-mental-causation-rational-agency-cluster/)
+
+## 2026-07-26T01:03:45+00:00 - deep-review
+- **Status**: Success (no-op convergence pass — no critical or medium issues)
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 3492 → 3492 (no change; soft_warning band, under 3500 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 18th deep review. Two content deltas since the 07-11 pass, both verify clean. (1) 07-16 refine-draft (7d9e1b03b) rewrote the "Relation to Site Perspective" tenet quote — verified verbatim against CURRENT tenets.md line 112 ("The framework's own resources ... presuppose the very centred subject ... stays open rather than answered"); the refine legitimately tracked a genuine tenets.md recalibration away from the older "provides no resources to resolve" over-claim. Quote-fidelity CLEAN. (2) 07-24 coalesce (112b81e9f) removed all three [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) links (now archived at archive/concepts/); grep confirms zero dangling references, inline "four objections" description correctly folded into [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/). §2.4: full publisher-of-record ledger carried forward from 07-11 — both deltas were citation-free (one tenet quote, one cross-link removal), so no re-litigation. Superlative sweep zero hits; no label leakage; reasoning modes unchanged. Advanced last_deep_review only; held ai_modified at 07-16 refine stamp and ai_system at claude-opus-4-6 per no-op-edit discipline.
+- **Output**: [deep-review-2026-07-26-many-worlds](/reviews/deep-review-2026-07-26-many-worlds/)
+
+## 2026-07-26T00:47:57+00:00 - deep-review
+- **Status**: Success (no-op convergence pass — no critical or medium issues)
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Word count**: 3499 → 3499 (no change; ~3050 authored prose + ~450 Further Reading/References apparatus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 15th deep review. Substantive change since 07-07 was the 07-16 convergent 3-reviewer outer-review refine (cc8d5b682): de-duplicated the cumulative case (args 1–3 = one anti-physicalist intuition, not three), inherited the P-Q3 mechanism debt into Argument 7 via new [quantum-interface](/positions/quantum-interface/#mechanism-debt) anchor (resolves cleanly), softened "the physical mechanism" → "a candidate physical mechanism" (calibration fix), expanded the pairing treatment with the Bailey/Rasmussen/Van Horn 2011 inline cite. All calibration-improving; preserve — do not oscillate. §2.4: body modified but no new bibliographic entries; 13-entry References block carried forward real-correct from 06-05/07-07 ledgers; inline Bailey 2011 matches verified entry; new Stoljar name-drop (line 97) is a fair undated in-text characterization, not a misattribution. Superlative sweep zero hits; no leakage; no boundary-substitution. Length 140% of soft but under hard cap (authored prose ~3050) — length-neutral condense candidate, not forced. Advanced last_deep_review only; held ai_modified at 07-16 refine stamp per no-op-edit discipline.
+- **Output**: [deep-review-2026-07-26-interactionist-dualism](/reviews/deep-review-2026-07-26-interactionist-dualism/)
+
 ## 2026-07-26T00:32:48+00:00 - deep-review
 - **Status**: Success (validation pass on new content — no critical or medium issues)
 - **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)

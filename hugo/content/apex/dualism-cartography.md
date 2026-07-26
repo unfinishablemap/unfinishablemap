@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-07-25 15:36:04+00:00
+ai_modified: 2026-07-26 01:33:32+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
@@ -28,7 +28,7 @@ description: A coordinated map of dualist positions and their per-cell mechanism
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 01:06:12+00:00
+last_deep_review: 2026-07-26 01:33:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ The atlas also names its own genre. The cell-by-cell cost reading instantiates a
 
 ## Evidence and Dependency
 
-Most of what this atlas delivers holds independently of the Map's commitments. The grid — two orthogonal thickness axes crossing the relation-kind axis — is a classificatory result a reader can accept while rejecting every tenet; its warrant is the demonstrable orthogonality (Nida-Rümelin and Descartes share a Chalmers type yet differ in mind-thickness), not the framework. The cost overlay is likewise independently argued: the three debts are pressed by the external literature — Kim's exclusion argument, Schaffer's trumping preemption, the conservation objection (Cucu and Pitts), Elisabeth's interface challenge — and read off each cell's own commitments. The parsimony reasoning rests on externally evidenced material (Huemer's survey, the historical record of false simpler theories, Lycan's concession), though the use the piece makes of it is inherited from Tenet 5. The frontier's constraints are externally evidenced (the ~10 bit/s bandwidth, Born-rule uniqueness, theta-band willed-attention signatures) while their interpretation stays open. Only the Map's *self-location* near Q1 is inherited — from Tenets 1 and 5, and named in-text as a posited commitment rather than a cartographic result.
+Most of what this atlas delivers holds independently of the Map's commitments. The grid — two orthogonal thickness axes crossing the relation-kind axis — is a classificatory result a reader can accept while rejecting every tenet; its warrant is the demonstrable orthogonality (Nida-Rümelin and Descartes share a Chalmers type yet differ in mind-thickness), not the framework. The cost overlay is likewise independently argued: the three debts are pressed and answered in the external literature — Kim's exclusion argument, Schaffer's trumping preemption, the conservation objection (Cucu and Pitts), Elisabeth's interface challenge — and read off each cell's own commitments. The parsimony reasoning rests on externally evidenced material (Huemer's survey, the historical record of false simpler theories, Lycan's concession), though the use the piece makes of it is inherited from Tenet 5. The frontier's constraints are externally evidenced (the ~10 bit/s bandwidth, Born-rule uniqueness, theta-band willed-attention signatures) while their interpretation stays open. Only the Map's *self-location* near Q1 is inherited — from Tenets 1 and 5, and named in-text as a posited commitment rather than a cartographic result.
 
 ## Relation to Site Perspective
 

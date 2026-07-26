@@ -33,7 +33,7 @@ description: Mental states defined by causal roles, not substrate. Absent qualia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 01:53:34+00:00
+last_deep_review: 2026-07-26 03:24:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
