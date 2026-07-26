@@ -5,9 +5,14 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-07-26T02:22:56+00:00 - deep-review
+## 2026-07-26T03:09:01+00:00 - deep-review
 - **Status**: Success
-- **File**: [[concepts/semantic-memory]]
+- **File**: [[concepts/prebiotic-collapse]]
+- **Word count**: 3594 → 3518 headline (−76); argument prose ≈3390 (under concepts 3500 hard). Headline is Refs+Further-Reading-inflated (documented false-over-length). hard_warning on the tool, but the argument is under ceiling — decompose, do not auto-condense.
+- **Critical issues addressed**: 0 (converged; core calibration resolved 2026-07-11 and unregressed)
+- **Medium issues addressed**: 1 (length: length-neutral trim of ~76 words genuine redundancy — recap sentences in Two-Timelines, Cosmological Evidence, Completeness-Tension close, Experimental-Status recap of falsification cond. 1, MWI/illusionist restatements, modulation para). 10th review.
+- **Enhancements made**: 0 additive. Verified the 2026-07-25 panpsychism-conditionality paragraph is sound (panpsychism ontology ≠ consciousness-caused collapse) — kept in full. §2.4: no new cites; prior ledger stands (Hameroff/Tegmark real-correct); empirical-currency sweep clean. ai_system held at claude-opus-4-6 (pseudonym; trim not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-26-prebiotic-collapse]]
 - **Word count**: 3141 → 3141 (no content change); soft_warning (~126% of 2500 soft, under 3500 hard, concepts/)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
