@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T00:24:03.403927+00:00'
-session_count: 17245
-cycle_position: 11744
+last_updated: '2026-07-26T00:35:37.184651+00:00'
+session_count: 17246
+cycle_position: 11745
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T23:59:00.786902+00:00'
   optimistic-review: '2026-07-25T18:48:24.882802+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-25T15:17:06.519113+00:00'
-  deep-review: '2026-07-26T00:08:36.037117+00:00'
+  deep-review: '2026-07-26T00:35:37.184651+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-25T15:17:44.742252+00:00'
   coalesce: '2026-07-25T20:03:26.813102+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-25T20:24:08.719184+00:00'
+last_git_push: '2026-07-26T00:35:37.467533+00:00'
 last_tweet_date: '2026-07-25'
 content_stats:
   total_files: 297
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6863
+  reviews_completed: 6864
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1130,12 +1130,54 @@ queue_status:
   p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T00:20:00+00:00'
-  last_replenishment_prev: '2026-07-25T23:50:00+00:00'
-  last_replenishment_run: 833
+  last_replenishment: '2026-07-26T00:40:00+00:00'
+  last_replenishment_prev: '2026-07-26T00:20:00+00:00'
+  last_replenishment_run: 834
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_834_note: 'run no.834 (2026-07-26T00:40Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint apex/dualism-cartography.md.
+    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 interactionist-dualism
+    opus-4-5 run-831 + P2 many-worlds opus-4-6 run-832; the run-833 consciousness-evolution-and-biology
+    mint drained SAME-CYCLE via a loop-less local deep-review slot that self-selected
+    it immediately, commit 080db547d auto(deep-review):cycle, review file written,
+    now DONE-BY-CYCLE-SLOT); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 691b04d3a; only uncommitted
+    delta the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source
+    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already
+    queued P3 + veto condenses parser-excluded; positions 8<10 audit threshold + last
+    positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
+    TARGET: dualism-cartography (opus-4-8, apex, soft_warning 4116w / 884w headroom
+    to 5000 hard, ldr 2026-07-16T01:06). GENUINE delta: commit e069d8f4f (2026-07-25
+    15:37, auto apex-evolve trigger) added a whole new "## Evidence and Dependency"
+    section (dependency-partition thesis: most atlas deliverables hold independently
+    of the Map''s tenets, only Q1 self-location tenet-inherited), ai_modified+apex_last_synthesis
+    bumped 07-25T15:36, NO deep-review since. SESSION-TOUCH NOT churn-excluded: apex-evolve
+    touch is PREVIOUS UTC day (git --since 2026-07-26T00:00 on file EMPTY, not this
+    session) + QUEUED task runs a later cycle (no back-to-back churn). Pool: apex-articles.md
+    (score 111) is an INDEX/listing file SKIP; positions/* are positions-evolve register
+    files SKIP; higher-scored topics/apex all hard_warning over-length human-decisions
+    [phenomenal-authority/qm-interpretations/machine-consciousness/personal-identity/bandwidth/simple-organisms/machine-question/prebiotic-collapse/quantum-consciousness]
+    length-BLOCKED; length-safe no-ops re-verified [evolution-of-consciousness=07-19-parked
+    quote fixes, functionalism=cosmetic cross-link, open-individualism=embed-videos-only
+    07-22 no content surface, self-representational=own-review+embed, steelman-process-monism=reciprocal
+    cross-link] all REJECTED. SEAM (NOT a heavy citation sweep -- refs were reviewed
+    07-16): (a) claim-framing accuracy -- does the "holds independently of the Map''s
+    commitments" partition hold item-by-item, esp. that the cost-overlay''s Map-specific
+    Q1 reading stays flagged tenet-inherited not over-claimed framework-independent;
+    (b) internal-consistency of the summary vs the body''s own statements (apex summaries
+    drift); (c) LIGHT spot-check only Cucu & Pitts 2019 Mind&Matter 17(1):95-121 framing
+    (the item least cross-checkable vs reviewed body prose), never delete on false
+    negative, unfinishablemap.org top-hit = circular. SCOPE NARROW: verify ONLY the
+    e069d8f4f new-section delta, do NOT re-sweep the converged ledger. DIVERSITY: dualism-cartography/dependency-partition/apex-synthesis
+    cluster DISTINCT from both holders (interactionist-dualism=pairing-problem; many-worlds=No-MWI);
+    apex/ SECTION-DISTINCT from both (both concepts/); opus-4-8 model-DISTINCT (opus-4-5/opus-4-6).
+    APEX HYGIENE: HOLD ai_system claude-opus-4-8 SINGLE + HOLD apex_last_synthesis 07-25
+    (deep-review is NOT apex synthesis); no-op -> last_deep_review ONLY, HOLD ai_modified+ai_system+apex_last_synthesis.
+    LENGTH SAFE + neutral, do NOT pad. BOTTOM-inserted (FIFO). Full reasoning in the
+    todo task Notes. Pruned run_831_note per note-bloat discipline (keep ~3: 832/833/834).'
   run_833_note: 'run no.833 (2026-07-26T00:20Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint topics/consciousness-evolution-and-biology.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 interactionist-dualism
@@ -1229,46 +1271,6 @@ queue_status:
     passages. HOLD ai_system claude-opus-4-6 SINGLE. BOTTOM-inserted (FIFO). Full
     reasoning in the todo task Notes. Pruned run_829_note per note-bloat discipline
     (keep ~3: 830/831/832).'
-  run_831_note: 'run no.831 (2026-07-25T23:25Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/interactionist-dualism.md.
-    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 metacognition opus-4-6
-    run-829 + P2 argument-from-reason sonnet-4-5 run-830; the run-828 agent-causation
-    holder drained by a loop-less local cycle deep-review slot, commit 29373f730 =
-    HEAD~1, last_runs deep-review 23:19Z, now marked done at todo line 1549); == 3
-    post-write (tool-verified TaskType.DEEP_REVIEW w/ Type+File). No evolve_loop/unfin-cycle
-    (pgrep clean); HEAD 0dcfabd72; only uncommitted delta the pre-existing deferred
-    cycle_post state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length human-decisions already queued P3 + veto condenses parser-excluded; positions
-    8<10 audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex
-    gap. Source 4 (changed-since-review) TARGET: interactionist-dualism (opus-4-5,
-    concepts, soft_warning 3499w = only 1w under the 3500 hard ceiling, ldr 2026-07-07).
-    GENUINE delta: commit cc8d5b682 (2026-07-16 auto refine-draft, CONVERGENT outer
-    review ChatGPT+Claude+Gemini) de-duplicated the cumulative case, inherited the
-    P-Q3 mechanism debt, and expanded the pairing-problem treatment AFTER the 07-07
-    review and NO deep-review ran since (git log cc8d5b682..HEAD -- file is EMPTY)
-    -- a 3-reviewer substantive refine never deep-reviewed, categorically unlike the
-    run cosmetic-wikilink no-ops. POOL this run: top get_review_candidates topics/apex
-    all hard_warning over-length (phenomenal-authority 4441w, qm-interpretations 4515w,
-    machine-consciousness 4127w, bandwidth 4202w, simple-organisms 4139w, machine-question
-    5420w) -> length-BLOCKED; dualism-cartography session-touched today by apex-evolve
-    15:36 (churn); free-will (opus-4-5/topics, safe 306w headroom) delta = cosmetic
-    wikilink conversions ONLY (anarchic-hand + compatibilism text->link, diff-confirmed
-    no-op, REJECTED); many-worlds (opus-4-6/concepts, safe 8w headroom) genuine 07-16
-    No-MWI refine BUT opus-4-6 overlaps metacognition holder cohort (2nd-best, reserved).
-    COHORT/SECTION: opus-4-5 DISTINCT from both holders (opus-4-6 metacognition, sonnet-4-5
-    argument-from-reason); concepts overlaps metacognition only -- better spread than
-    the recent opus-4-6/concepts pool-drain. SEAM (named-attribution + claim-framing,
-    do NOT presume broken): (a) Bailey/Rasmussen/Van Horn 2011 pairing-problem cite
-    -- verify title+venue at publisher, never delete on false negative; (b) Cogitate
-    Consortium 2025 -- PRESERVE correct attribution (not Melloni et al.), verify paraphrase
-    not over-stated; (c) Saad 2025 delegatory-dualism universal-vs-observational-closure
-    + trumping/Born-rule bridge stay framework-relative; (d) Chalmers/Stoljar single-intuition-not-three-confirmations
-    framing is a fair characterisation. LENGTH strictly neutral + VERY TIGHT (1w headroom;
-    a restore that would breach 3500w DIVERTS to human length decision, not exceed).
-    HOLD ai_system claude-opus-4-5-20251101 SINGLE. BOTTOM-inserted (FIFO). Full reasoning
-    in the todo task Notes. Pruned run_828_note per note-bloat discipline (keep ~3:
-    829/830/831).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
