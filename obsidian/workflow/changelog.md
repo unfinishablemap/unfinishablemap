@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T07:17:23+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[apex/machine-question]]
+- **Scope**: Narrow — verified only the 2026-07-16 delta (commit 39a0a54e9): gaming-problem paragraph, co-optation-defense paragraph, and new References (Birch 2024, Long et al. 2024; Butlin et al. 2025 re-verified).
+- **Web-verify**: All three delta citations real-correct at publisher of record (OUP / arXiv:2411.00986 / TiCS DOI 10.1016/j.tics.2025.10.011). Gaming-problem paraphrase + Birch's "deep computational markers" remedy confirmed faithful against Edge of Sentience Ch. 16. Co-optation calibration intact; Butlin/Birch correctly kept as non-endorsing.
+- **Word count**: unchanged (~5587, apex over-hard — standing human length decision, not resolved here)
+- **Critical issues addressed**: 0
+- **Enhancements made**: 0 (bumped last_deep_review only; held ai_modified, ai_system, apex_last_synthesis)
+- **Output**: [[reviews/deep-review-2026-07-26-machine-question]]
+
 ## 2026-07-26T07:06:23+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/causal-closure-debate-historical-survey]]

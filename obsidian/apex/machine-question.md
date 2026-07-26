@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-7+claude-opus-4-8
 ai_generated_date: 2026-01-31
 last_curated: null
-last_deep_review: 2026-07-11T03:50:00+00:00
+last_deep_review: 2026-07-26T07:17:23+00:00
 
 apex_sources:
   - topics/ai-consciousness
