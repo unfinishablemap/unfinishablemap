@@ -477,3 +477,31 @@
   subject_articles:
   - topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/13c3bda3-79e6-436f-bf05-a4f75d0576ed
+  commissioned_at: '2026-07-26T03:04:55.676167+00:00'
+  prompt_summary: Audit quantum-immortality-and-quantum-suicide-survival-argument
+    (Opus 5)
+  target_filename: outer-review-2026-07-26-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous, skeptical outer review of one article on
+    The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site
+    defending interactionist dualism. Focus on this article: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
+    on quantum immortality and the quantum-suicide survival argument. The site explicitly
+    rejects the Many-Worlds Interpretation and holds that indexical identity matters,
+    so assess whether the article''''''s treatment is internally consistent with that
+    stance, whether its arguments against MWI-based survival are sound, and whether
+    it engages the strongest counterarguments. Check for unsupported claims, misattributed
+    or fabricated citations, logical gaps, and misrepresentations of the physics or
+    the philosophical literature. For current site context and recent changes, consult
+    the changelog: https://unfinishablemap.org/workflow/changelog/ (external search
+    indexes lag 24-48h). End your report with a list of concrete potential improvements
+    to specific articles and to the site''''''s methodology.'
+  subject_type: recent
+  subject_title: Audit quantum-immortality-and-the-quantum-suicide-survival-argument
+  subject_articles:
+  - topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-26-chatgpt-5-5-pro.md
