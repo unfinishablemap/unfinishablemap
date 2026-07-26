@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T10:45:31+00:00 - deep-review
+- **Status**: Success (no-op — narrow-scope cross-reference verification)
+- **File**: [[topics/the-steelman-for-process-monism]]
+- **Scope**: Only change since last_deep_review 2026-07-21 is commit a63bf29ee (2026-07-23), a reciprocal cross-link into apex/steelmanning-as-method (related_articles entry + one intro sentence + Further Reading entry). Converged body not re-swept.
+- **Cross-reference coherence**: (a) apex/steelmanning-as-method genuinely cites this article as "the metaphysical moves-one-through-three exhibit" and the-steelman-for-value-blind-selection as "the empirical" one (apex L120, L164–165) — the article's framing restates the apex faithfully, does not overstate; (b) both wikilinks resolve to live articles; (c) build-then-decline framing accurate (build Whitehead/Ṣadrā/Buddhist → grant absorption → isolate residue as bedrock gradation-vs-irreducibility disagreement).
+- **Checks**: length 2607w ok (topics soft 3000, neutral); ANSI/EOF artifacts clean; no possibility/probability slippage introduced; process-monism decline remains honest bedrock-boundary marking.
+- **Word count**: 2607 → 2607 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-26-the-steelman-for-process-monism]]
+
 ## 2026-07-26T10:33:21+00:00 - deep-review
 - **Status**: Success (no-op — converged article re-qualified by /embed-videos bump)
 - **File**: [[topics/open-individualism-and-the-de-combination-problem]]
