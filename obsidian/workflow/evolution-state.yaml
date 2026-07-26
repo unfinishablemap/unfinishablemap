@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T13:51:34.296444+00:00'
-session_count: 17352
+last_updated: '2026-07-26T14:08:40.835732+00:00'
+session_count: 17353
 cycle_position: 11790
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T12:32:54.923093+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T13:45:52.952693+00:00'
+  replenish-queue: '2026-07-26T14:08:40.835732+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1149,15 +1149,15 @@ queue_status:
   replenishment_source_counts:
     staleness: 1
   run_859_note: 'run no.859 (2026-07-26T14:05Z, interactive /replenish-queue): MINTED
-    one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks ==
-    2 pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1.
-    The run-858 mint (consciousness-in-simple-organisms deep-review) has since been
-    consumed and the sole remaining genuine pickable P2 was embodied-cognition (fresh
-    refine from today''s pessimistic review) + relational-quantum-mechanics (documented
-    CONVERGED near-no-op pool-drain). WHY THIS MINT IS NON-CHURN: eight-source audit
-    re-run INDEPENDENTLY from live disk. Source-4 get_review_candidates top scorers
-    ALL disqualified: multiple-drafts-model (score 26, ai_modified 11:11Z TODAY) +
-    indexical-knowledge-and-identity (8.1, ai_modified 05:23Z TODAY) = same-session
+    one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks
+    == 2 pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by
+    1. The run-858 mint (consciousness-in-simple-organisms deep-review) has since
+    been consumed and the sole remaining genuine pickable P2 was embodied-cognition
+    (fresh refine from today''s pessimistic review) + relational-quantum-mechanics
+    (documented CONVERGED near-no-op pool-drain). WHY THIS MINT IS NON-CHURN: eight-source
+    audit re-run INDEPENDENTLY from live disk. Source-4 get_review_candidates top
+    scorers ALL disqualified: multiple-drafts-model (score 26, ai_modified 11:11Z
+    TODAY) + indexical-knowledge-and-identity (8.1, ai_modified 05:23Z TODAY) = same-session
     near-no-op [[refine-then-condense-same-session-churn]]; self-representational-theory-of-consciousness
     (7.5) last_deep_review 07-20 = 6d converged; personal-identity (8.8) + free-will
     (2.7) are parked HUMAN-LENGTH-DECISION articles that must NOT auto-loop [[human-decision-task-mispicked-as-refine]];
@@ -1165,21 +1165,22 @@ queue_status:
     deep-review instead via the [[owed-web-verify-seam-deep-review-targeting]] lens
     (orthogonal to the get_review_candidates convergence score): older-cohort (last_deep_review
     2026-06-20, 36d converged), citation-dense (~41 author/year markers, Hutto/Myin,
-    Thompson, Varela, Di Paolo, Gallagher still-unverified surface), body 2462w = status
-    ok (topics hard 4000) so ZERO length-decision entanglement, and its apparatus has
-    KNOWN fragility (wrong-author Meyer & Brancazio caught here 06-20) = high verification
-    yield. Steered verbatim-verify-at-publisher / 3-state-metadata / empirical-fidelity
-    / length-neutral / no-op-if-clean. Parses TaskType.DEEP_REVIEW, File present, count
-    == 3 post-edit (tool-verified), top-pickable (LIFO-defeated by top insert [[queue-lifo-starvation]]).
-    Other sources exhausted: chains = 07-19 research / 07-16 expand stale + threaded
-    + topics/voids at cap; unconsumed-research harvester-owned (last 10:30Z); gap =
-    topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot) no concrete candidate;
-    positions 8/80 <10 audit threshold + last positions-evolve 07-25 <30d; orphaned_files==0;
-    length human-deferred/veto-parked; no applied-apex gap. Did NOT mint a 2nd to floor=3+1:
-    no other non-churn candidate, a 3rd near-no-op purely for the number is exactly
-    the make-work [[deep_review_over_reviews_converged]] warns against. No evolve_loop/unfin-cycle
-    running (pgrep clean) so no active stall; pre-existing uncommitted evolution-state.yaml
-    delta is legitimate deferred agentic-social cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
+    Thompson, Varela, Di Paolo, Gallagher still-unverified surface), body 2462w =
+    status ok (topics hard 4000) so ZERO length-decision entanglement, and its apparatus
+    has KNOWN fragility (wrong-author Meyer & Brancazio caught here 06-20) = high
+    verification yield. Steered verbatim-verify-at-publisher / 3-state-metadata /
+    empirical-fidelity / length-neutral / no-op-if-clean. Parses TaskType.DEEP_REVIEW,
+    File present, count == 3 post-edit (tool-verified), top-pickable (LIFO-defeated
+    by top insert [[queue-lifo-starvation]]). Other sources exhausted: chains = 07-19
+    research / 07-16 expand stale + threaded + topics/voids at cap; unconsumed-research
+    harvester-owned (last 10:30Z); gap = topics 320/320 + voids 100/100 at cap, concepts
+    319/320 (1 slot) no concrete candidate; positions 8/80 <10 audit threshold + last
+    positions-evolve 07-25 <30d; orphaned_files==0; length human-deferred/veto-parked;
+    no applied-apex gap. Did NOT mint a 2nd to floor=3+1: no other non-churn candidate,
+    a 3rd near-no-op purely for the number is exactly the make-work [[deep_review_over_reviews_converged]]
+    warns against. No evolve_loop/unfin-cycle running (pgrep clean) so no active stall;
+    pre-existing uncommitted evolution-state.yaml delta is legitimate deferred agentic-social
+    cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
     Pruned run_856_note per note-bloat discipline (keep ~3: 857/858/859) [[evolution-state-floor-restore-note-bloat]].'
   run_858_note: 'run no.858 (2026-07-26T13:23Z, interactive /replenish-queue): MINTED
     one genuine deep-review to restore the floor (1 -> 2). This BREAKS the run-855/856/857

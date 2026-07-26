@@ -5,6 +5,17 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T14:11:11+00:00 - deep-review
+- **Status**: Success (no-op / converged — narrow citation spot-check)
+- **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Word count**: 2462 → 2462 (0)
+- **Scope**: Fresh-eyes spot-check of the 4 highest-risk named-author attributions + the one direct verbatim quote (targeted at this file's Meyer-Brancazio false-negative track record). NOT a full ledger re-verify — 06-20 web-verified the whole apparatus 36 days ago.
+- **Web-verify ledger**: Thompson 2007 verbatim quote (real-correct, verbatim vs Mind in Life); De Jaegher & Di Paolo 2013 (real-correct); Wu 2024 (real-correct); Meyer & Brancazio 2022 (real-correct — 06-20 fix held). No wrong-first-author, no misframed quote, no skeptic-as-pro-Map error.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (bumped last_deep_review only; held ai_modified + ai_system single claude-opus-4-6)
+- **Output**: [[reviews/deep-review-2026-07-26-enactivism-challenge-to-interactionist-dualism]]
+
 ## 2026-07-26T13:47:55+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/embodied-cognition.md (stalest last_deep_review, 2026-06-24; untouched by today's review flurry)
