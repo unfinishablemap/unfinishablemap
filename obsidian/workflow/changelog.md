@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T01:49:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/lived-objectified-body-distinction]]
+- **Word count**: 2525 → 2525 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only pass). Trigger: the 2026-07-22 convergent refine-draft (commit 45e5a5f93) added new verbatim quotes and two new citations that no prior review had web-verified. Ran the §2.4 publisher-of-record pass on all new material: Carman 1999 metadata + three verbatim quotes + the "Ich kann"/Cartesian Meditations attribution (all verbatim/accurate against the Carman PDF); Husserl Ideen II §64 title; Seth 2013 (PMID 24126130, TiCS 17(11):565–573); Metzinger Being No One 2003; Sacks "almost total" + "polyneuritis" for Christina — all real-correct/verbatim. Calibration correct (07-22 refine dialled Bidirectional section "supports tenet" → "consistent with"); Mode-Three opponent engagement clean, no label leakage. No-op on content → advanced last_deep_review only, held ai_modified at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-26-lived-objectified-body-distinction]]
+
 ## 2026-07-26T01:33:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/dualism-cartography]]
