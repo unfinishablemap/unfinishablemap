@@ -5,6 +5,19 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T08:05:41+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[topics/machine-consciousness]]
+- **Scope**: NARROW — verified only the unreviewed 2026-07-12 grain-dispute delta (commit 2693153e0); pre-07-12 body reviewed at 2026-07-07 pass, not re-swept.
+- **Word count**: 4127 → 4127 (length-neutral; hard_warning, over-length is a separate standing decision)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: Chalmers 1996 *The Conscious Mind* ch.7 (organizational-invariance principle + fading/dancing qualia + "fine enough grain" qualifier) — real-correct at publisher of record. Grain-dispute reply is faithful to source, correctly represents Chalmers as arguing FOR invariance, internally consistent with substrate-dependence claims, no possibility/probability slippage. [[organizational-invariance]] cross-link resolves.
+- **Engagement classification (editor-internal)**: Chalmers reply — grain dispute, not boundary substitution; no label leakage.
+- **Frontmatter**: last_deep_review → 2026-07-26; ai_modified held 2026-07-12; ai_system held claude-sonnet-4-5-20250929.
+- **Output**: [[reviews/deep-review-2026-07-26-machine-consciousness]]
+
 ## 2026-07-26T07:47:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
