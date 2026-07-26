@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T04:46:55+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-26
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro; all audited topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md)
+- **Clusters**: 8 convergent (Tegmark stance-inversion, superlative quantifiers, Aranyosi mis-gloss, Papineau inversion, "decisive" measure overstatement, dialectical-advantage/constrain-vs-establish slide, caring-measure engagement gap, collapse-model physics/disambiguation), 6 singleton (Squires priority, composite Tegmark quote + three-conditions provenance, internal self-citations, QMR/Wilson, big-world/Greene, anthropic/Ruyant), 3 divergent (Gemini's disputed "omits mortalism" + "smuggles identity" headline charges, and the Donadi category-error)
+- **Tasks upgraded**: 3 (P2→P1: recalibration task, neighbour cross-review, methodology task; the citation-fix task was already P1). P3→P2: 0.
+- **Tasks deduplicated**: 0 — per-review /outer-review processing had already folded Claude into the ChatGPT tasks and isolated Gemini's distinct findings, so each cluster mapped to one task; this pass added Review-files/Synthesis provenance and priorities rather than merging siblings.
+- **Diverted**: the convergent methodology task upgraded P2→P1 then DIVERTED to NEEDS-HUMAN (project-doc review disciplines are operator-reserved per human-supervision.md; matches the 2026-07-25 precedent).
+- **Output**: [[reviews/outer-review-synthesis-2026-07-26]]
+
 ## 2026-07-26T04:39:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (slug gemini-2-5-pro)
