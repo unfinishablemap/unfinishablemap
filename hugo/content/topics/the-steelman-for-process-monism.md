@@ -18,7 +18,7 @@ description: 'Built through human-AI refinement: the strongest unified-process o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-21 17:46:20+00:00
+last_deep_review: 2026-07-26 10:45:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

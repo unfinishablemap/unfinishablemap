@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-07-16 13:04:22+00:00
+ai_modified: 2026-07-26 11:32:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-neural-timing-constraints-2026-01-24]]'
 - '[[decoherence-and-macroscopic-superposition]]'
+- '[[testing-consciousness-collapse]]'
 title: Quantum Neural Timing Constraints
 topics:
 - '[[hard-problem-of-consciousness]]'

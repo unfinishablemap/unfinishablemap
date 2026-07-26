@@ -28,7 +28,7 @@ description: The body shapes how consciousness engages matter without producing 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 19:50:36+00:00
+last_deep_review: 2026-07-26 09:25:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

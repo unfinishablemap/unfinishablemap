@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-25 16:45:57+00:00
+ai_modified: 2026-07-26 11:32:34+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 concepts:
@@ -25,6 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
+- '[[testing-consciousness-collapse]]'
 title: Neural Implementation Specifics
 topics:
 - '[[hard-problem-of-consciousness]]'

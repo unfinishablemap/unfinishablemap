@@ -9,6 +9,151 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-26T11:45:36+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/), [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/)
+- **Source**: optimistic review 2026-07-25 (minimal-organism/evidence-problem cluster — reciprocal cross-links)
+- **Changes**: LINK-ONLY, strictly length-neutral. related_articles: single-cell ← added [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/) (consciousness-in-simple-organisms names single-cell as the challenge's sharpest instance, yet single-cell never linked it) + [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/) (register consistency — single-cell was the only cluster member unanchored to the canonical five-tier node); standing-agnostic-challenge ← added reciprocal [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/). Optional body wikilink to standing-agnostic-challenge SKIPPED — single-cell contains no existing phrase naming the Standing Agnostic Challenge, so no clean anchor (task permits skip). All 3 links grep-verified absent before add; all targets confirmed resolving to live articles. Block-style wikilink convention preserved. ai_modified bumped on both; ai_system held (cross-link, not re-authoring).
+- **Published**: yes
+
+## 2026-07-26T11:32:34+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [neural-implementation-specifics](/topics/neural-implementation-specifics/), [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Source**: optimistic review 2026-07-25 (empirical-testing/falsifiability cluster — reciprocal cross-links bridging the two sub-pairs)
+- **Changes**: LINK-ONLY, strictly length-neutral (topics AT cap 321/320). Reciprocal related_articles: testing↔quantum-neural-timing-constraints (shared Tegmark 10⁻¹³ s decoherence objection + post-decoherence-selection reply); neural-implementation-specifics↔testing (neural-impl Crucial Experiments = testing Tier 2 menu at mechanism resolution). One-directional: added [neural-implementation-specifics](/topics/neural-implementation-specifics/) to born-rule Further Reading (evidential ranking of mechanism candidates). All targets grep-verified absent before add and confirmed to resolve to live articles. Block-style wikilink convention preserved. ai_modified bumped; ai_system held (cross-link, not re-authoring).
+- **Published**: yes
+
+## 2026-07-26T11:11:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [multiple-drafts-model](/concepts/multiple-drafts-model/)
+- **Source**: pessimistic-2026-07-25-multiple-drafts-model.md (first-ever review; strong overall — three fixable, length-neutral items)
+- **Changes**:
+  - §The Objection Split: replaced bald sociological quantifiers ("widely accepted" / "widely contested") with common-ground-across-theories framing ("common ground shared across theories of consciousness, materialist and dualist alike" / "where the disagreement concentrates"); the named critics Chalmers/Block/Strawson remain two sentences later as the concrete instance.
+  - Lead: "formalised with Marcel Kinsbourne" → "developed and defended with Marcel Kinsbourne" (Dennett & Kinsbourne 1992 "Time and the observer", BBS 15(2):183–201 — verified against ref L68 — articulated MDM but did not formalize it mathematically).
+  - Added one-clause signpost marking the verificationism objection as the Map's one genuinely in-framework lever against MDM (§Where the Map parts company) and, by contrast, the narrator argument as framework-boundary (§deeper structural point). Sharpens the honest structure already present; the Map's own admission that the narrator argument is framework-boundary is preserved and reinforced, not re-hardened.
+  - Populated empty `related_articles: []` with the four body-linked concepts (heterophenomenology, illusionism, global-workspace-theory, unity-of-consciousness).
+- **Length**: strictly neutral (softenings/rewordings + one short signpost clause)
+- **Published**: yes
+- **Status**: Success (no-op — narrow-scope cross-reference verification)
+- **File**: [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/)
+- **Scope**: Only change since last_deep_review 2026-07-21 is commit a63bf29ee (2026-07-23), a reciprocal cross-link into apex/steelmanning-as-method (related_articles entry + one intro sentence + Further Reading entry). Converged body not re-swept.
+- **Cross-reference coherence**: (a) apex/steelmanning-as-method genuinely cites this article as "the metaphysical moves-one-through-three exhibit" and the-steelman-for-value-blind-selection as "the empirical" one (apex L120, L164–165) — the article's framing restates the apex faithfully, does not overstate; (b) both wikilinks resolve to live articles; (c) build-then-decline framing accurate (build Whitehead/Ṣadrā/Buddhist → grant absorption → isolate residue as bedrock gradation-vs-irreducibility disagreement).
+- **Checks**: length 2607w ok (topics soft 3000, neutral); ANSI/EOF artifacts clean; no possibility/probability slippage introduced; process-monism decline remains honest bedrock-boundary marking.
+- **Word count**: 2607 → 2607 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-26-the-steelman-for-process-monism](/reviews/deep-review-2026-07-26-the-steelman-for-process-monism/)
+
+## 2026-07-26T10:33:21+00:00 - deep-review
+- **Status**: Success (no-op — converged article re-qualified by /embed-videos bump)
+- **File**: [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/)
+- **Scope**: Only change since last_deep_review 2026-07-19 is the /embed-videos pass (commit 734c5f3b1, 2026-07-22 — added `<details>` video block + `embedded_videos` frontmatter). No body prose, citation, claim, or calibration changed. §2.4 web-verify not re-triggered (unmodified References block); the 2026-06-19 ledger (all 9 citations real-correct at publisher of record) stands.
+- **Checks**: length 2914w ok (embed boilerplate did not cross 3000 soft); editor-vocab leakage clean; ANSI/EOF artifacts clean; open-individualism rejection = honest Mode Three framework-boundary marking, no boundary substitution; no possibility/probability slippage.
+- **Word count**: 2914 → 2914 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-26-open-individualism-and-the-de-combination-problem](/reviews/deep-review-2026-07-26-open-individualism-and-the-de-combination-problem/)
+- **Note**: `last_deep_review` stamped 2026-07-26; `ai_modified` left at HEAD (2026-07-22, embed-videos edit — not re-attributed to this no-op).
+
+## 2026-07-26T10:10:01+00:00 - deep-review
+- **Status**: Success (no-op — narrow-scope citation web-verify; delta cite verified real+faithful)
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Scope**: Verified ONLY the delta since last_deep_review 2026-07-12 — commit ceb84d6b6 (2026-07-16, Gemini outer-review refine) added the extracranial-biophoton-contested paragraph plus reference 14. Converged body NOT re-swept.
+- **Web-verify ledger**: Salari, V., Seshan, V., Rishabh, R., Oblak, D., & Simon, C. (2026). "Revisiting claims of extracranial biophoton detection from the human brain." bioRxiv 10.64898/2026.03.27.714599 (posted 31 Mar 2026) / arXiv:2603.26630 (v1 27 Mar 2026, v2 26 May 2026) — state: **real-correct**. Title, all five authors, arXiv ID, and 31-March bioRxiv date all confirmed at arxiv.org + biorxiv.org (not via any unfinishablemap.org echo). Article paraphrase faithful: paper argues reported extracranial UPE signals are dominated by background/ambient light rather than genuine cortical emission (short wavelengths absorbed by scalp/skull, long wavelengths outside standard photomultiplier detection range → scalp-level not cortical emission). No overreach.
+- **Word count**: 2435 → 2435 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: last_deep_review bumped to 2026-07-26; ai_modified HELD at 2026-07-16T10:23:29 and ai_system HELD at single claude-opus-4-6 (no content change).
+- **Output**: [deep-review-2026-07-26-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-07-26-experimental-consciousness-science-2025-2026/)
+
+## 2026-07-26T09:50:00+00:00 - deep-review
+- **Status**: Success (holistic coherence check across three same-day refines; one redundancy trim)
+- **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Scope**: Coherence-only pass over the three 2026-07-26 refines landed since last_deep_review 2026-07-19 (f235821e7 citation/attribution/superlative; 7c239979b recalibrate physics + separate theses; 64b40e727 engage non-collapse frameworks). Citations NOT re-verified, recalibration NOT re-litigated (per scope). Length-neutral / net-negative mandate near the 4000 topics hard ceiling.
+- **Word count**: 3911 → 3901 (−10)
+- **(a) Internal consistency**: CLEAN. New QMR/diverging-worlds para explicitly refines (not contradicts) the branch-relative-indexicality framing — states the hidden-premise diagnosis "assumes overlapping-worlds Everettianism," offers Wilson's diverging-worlds as a distinct route. All cross-links resolve; no dangling/half-updated references.
+- **(a) Redundancy**: trimmed one genuine pure restatement — line-69 tail "underscoring again that the verdict is not proprietary to collapse" (signposted "again," restated its own sentence). The other four "not proprietary / single-outcome-reachable" loci are distinct routes (Everettian-mortalist, diverging-worlds, physicalist, demotion) — cumulative argument, preserved.
+- **(b) Framing coherence**: CLEAN. Three calibration layers (conditional-not-decisive measure reply; death-is-death/physicalist-reachable demotion; non-deflationary-I dependency) stack without contradiction; no refine re-hardened what another softened.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (redundancy trim)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-26-quantum-immortality-and-the-quantum-suicide-survival-argument](/reviews/deep-review-2026-07-26-quantum-immortality-and-the-quantum-suicide-survival-argument/)
+
+## 2026-07-26T09:25:20+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — narrow-scope delta verify)
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Scope**: Verified ONLY the unreviewed 2026-07-24 evidence-framing delta (commit 108cdb714) — the "Interface Reading" paragraph downgrade of "Proprioceptive dissociations offer direct evidence for this two-domain structure" → "...offer direct evidence for *dissociable bodily functions and their psychophysical dependence*; the further reading of that dissociation as a two-domain ontological structure remains underdetermined between the interface interpretation and its physicalist, enactivist, and predictive-processing rivals." Pre-07-24 body reviewed at the 2026-07-12 pass; not re-swept.
+- **Primary seam (empirical-claim / evidence-framing fidelity)**: CLEAN.
+  - (a) Scope correct — dissociations demonstrate dissociable bodily *functions* + psychophysical dependence; the two-domain *ontology* is a further interpretive step. Physicalist / enactivist / predictive-processing are genuine rival readings of the SAME dissociation data. Underdetermination claim fair.
+  - (b) Calibration correct — not over-corrected (retains "direct evidence for dissociable functions"; interface reading preserved as "which the Map reads as suggesting"). Paragraph interior correspondingly softened by the delta ("physical/phenomenal domain" → "functional physical / phenomenal component"). No surviving stronger claim in the section: L113 frames interface as Map-proposed interpretation, L107 hedges "perhaps." L208 related-link annotation describes the linked article's *functional* dual-domain thesis (supported), not the ontological reading — consistent, not an over-claim.
+  - (c) Calibration preserved — no re-hardening; underdetermination hedge intact.
+- **Hygiene**: ai_system held (single claude-opus-4-6, no [1m] artifact); ai_modified held (2026-07-24); EOF clean (references, no tool-tag artifact); no cliché introduced (no body edits). Length-neutral (3673w, under topics 4000 hard ceiling).
+- **Critical issues addressed**: 0
+- **Output**: last_deep_review bumped only.
+
+## 2026-07-26T09:15:10+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — 8th review, converged)
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Scope**: Re-qualified only via an `ai_modified` bump from cross-review commit 4684a83b1 (2026-07-16), which added one new cross-link sentence. Web-verify budget spent solely on that new bibliographic content; rest of the ledger carried forward publisher-of-record stable.
+- **Web-verify ledger (new content only)**:
+  - Marchetti, C. & Della Sala, S. (1998), "Disentangling the alien and anarchic hand," *Cognitive Neuropsychiatry* 3(3), 191–207, doi:10.1080/135468098396143 — state: real-correct. Verified at publisher of record (Taylor & Francis). Attribution direction faithful: *anarchic hand* = disowned-action frontal sign (anterior callosal/SMA); *alien hand* = disowned-limb non-belonging feeling (posterior, partial hemisomatognosia). Matches source and dedicated article ref #1.
+- **Empirical-currency sweep**: `find_superlative_claims` EMPTY.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (one low terminology-vernacular item noted, left as-is to avoid churn; already disambiguated in-text)
+- **Enhancements made**: 0
+- **Word count**: 3269 → 3269 (0)
+- **Frontmatter**: `last_deep_review` bumped only; `ai_modified` (2026-07-16) and `ai_system` (claude-opus-4-6) held.
+- **Output**: [deep-review-2026-07-26-neurological-dissociations-as-interface-architecture](/reviews/deep-review-2026-07-26-neurological-dissociations-as-interface-architecture/)
+
+## 2026-07-26T08:48:51+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Scope**: NARROW quote-fidelity — re-verified the two verbatim quotes silently altered by cross-file edit 6f83d14ef (2026-07-19, deep-review of the-strong-emergence-of-consciousness.md) at their PRIMARY texts. Converged body not re-swept. Length-safe (3357w, under concepts 4000 hard).
+- **Web-verify ledger**:
+  - Broad, C.D. (1925), *The Mind and Its Place in Nature*, p.59 — state: real-correct. "the characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components" verified verbatim (Huemer full-text reproduction + corroborating scholarly source). The 2026-07-19 edit FIXED the pre-edit error ("properties…cannot" → "behaviour…could not"). Attribution correct.
+  - Chalmers, D. (2006), "Strong and Weak Emergence" — state: real-correct. "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" verified verbatim against author's own posted PDF (consc.net/papers/emergence.pdf, "My own view is that the answer to this question is yes. I think there is exactly one clear case..."). The 2026-07-19 edit FIXED the pre-edit error ("I believe" → "I think"). A WebSearch "I believe" hit was discounted as query-parroting. Attribution to the 2006 chapter correct.
+- **Word count**: 3357 → 3357 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **No-op hygiene**: both quotes correct as-is → bumped last_deep_review only; HELD ai_modified (2026-07-19T23:08:40+00:00) and ai_system (claude-opus-4-5-20251101).
+- **Output**: [deep-review-2026-07-26-evolution-of-consciousness](/reviews/deep-review-2026-07-26-evolution-of-consciousness/)
+
+## 2026-07-26T08:33:15+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Scope**: NARROW — verified only the two unreviewed deltas since 2026-07-07: (1) Babcock 2024 UV-vs-mechanical timescale objection (commit 860e5b95a); (2) confirmed the Denton 2024 cryptochrome cite reads calibrated ("modelled…computational evidence", commit 121afe48c). Converged body not re-swept.
+- **Web-verify ledger**:
+  - Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *J. Phys. Chem. B* 128(17), 4035-4046 — state: real-correct (DOI 10.1021/acs.jpcb.3c07936 confirmed at ACS/arXiv 2302.01469; author list, year, venue, volume/issue/pages all exact).
+  - Frequency/framing check: paper is theoretical + experimental (analysis predicts enhanced fluorescence quantum yield "confirmed by our experiments") at physiological temperature, so "demonstrates quantum collective behaviour in warm biological architectures" is warranted (NOT a Denton-style overclaim). Superradiance is UV/optical/electronic (UV ~280 nm → ~1.07×10¹⁵ Hz), distinct from the mechanical conformational-mode regime Orch OR collapse dynamics require — the added caveat's order-of-magnitude separation is accurate. "Suggestive precedent rather than a demonstration of the mechanism" is fairly calibrated in both directions; preserved unchanged.
+  - Denton et al. 2024 (Nat. Commun. 15, 10823) — already calibrated in this file (lines 90, 128, 253); reads correct, not re-touched. Remaining Denton overclaim loci are a separate open task in other files.
+- **Word count**: unchanged (standing human length decision; length-neutral, not touched)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: last_deep_review bumped 2026-07-07 → 2026-07-26; ai_modified + ai_system held (genuine no-op)
+
+## 2026-07-26T08:25:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Indexical-identity / No-Many-Worlds (Tenet 4) cluster — indexical-knowledge-and-identity, haecceity, indexical-identity-quantum-measurement, quantum-immortality-and-the-quantum-suicide-survival-argument, many-worlds (survey context: qm-interpretations-beyond-many-worlds). Standout: Process Philosopher and Hardline Empiricist personas converge (tension resolved honestly) on the quantum-immortality article's self-demotion and haecceity's process-haecceitism — tenet-as-evidence-upgrade praise-worthily NOT done. One verified reciprocal cross-link gap (quantum-immortality ↔ indexical-identity-quantum-measurement); no new articles (sections at cap).
+- **Output**: [optimistic-2026-07-26-indexical-identity-no-mwi-cluster](/reviews/optimistic-2026-07-26-indexical-identity-no-mwi-cluster/)
+
+## 2026-07-26T08:05:41+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Scope**: NARROW — verified only the unreviewed 2026-07-12 grain-dispute delta (commit 2693153e0); pre-07-12 body reviewed at 2026-07-07 pass, not re-swept.
+- **Word count**: 4127 → 4127 (length-neutral; hard_warning, over-length is a separate standing decision)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: Chalmers 1996 *The Conscious Mind* ch.7 (organizational-invariance principle + fading/dancing qualia + "fine enough grain" qualifier) — real-correct at publisher of record. Grain-dispute reply is faithful to source, correctly represents Chalmers as arguing FOR invariance, internally consistent with substrate-dependence claims, no possibility/probability slippage. [organizational-invariance](/concepts/organizational-invariance/) cross-link resolves.
+- **Engagement classification (editor-internal)**: Chalmers reply — grain dispute, not boundary substitution; no label leakage.
+- **Frontmatter**: last_deep_review → 2026-07-26; ai_modified held 2026-07-12; ai_system held claude-sonnet-4-5-20250929.
+- **Output**: [deep-review-2026-07-26-machine-consciousness](/reviews/deep-review-2026-07-26-machine-consciousness/)
+
 ## 2026-07-26T07:47:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-07-16 14:04:05+00:00
+ai_modified: 2026-07-26 11:45:36+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,6 +19,8 @@ last_deep_review: 2026-07-25 07:03:09+00:00
 modified: *id001
 related_articles:
 - '[[agency-void]]'
+- '[[standing-agnostic-challenge]]'
+- '[[birch-edge-of-sentience-and-the-five-tier-scale]]'
 title: Single-Cell Proto-Agency and the Evidence Problem
 topics:
 - '[[bacterial-chemotaxis-and-minimal-biogenic-cognition]]'

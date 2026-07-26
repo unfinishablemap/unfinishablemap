@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-08 09:13:51+00:00
+ai_modified: 2026-07-26 11:32:34+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -50,6 +50,8 @@ related_articles:
 - '[[testability-ledger]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[brain-internal-born-rule-testing]]'
+- '[[quantum-neural-timing-constraints]]'
+- '[[neural-implementation-specifics]]'
 - '[[the-reverse-inference]]'
 title: 'Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward'
 topics:

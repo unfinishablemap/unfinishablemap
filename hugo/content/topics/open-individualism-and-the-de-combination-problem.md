@@ -24,7 +24,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/cBZilesNMDI
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 00:55:00+00:00
+last_deep_review: 2026-07-26 10:33:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
