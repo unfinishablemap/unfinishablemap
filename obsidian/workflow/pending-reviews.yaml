@@ -456,9 +456,9 @@
   commissioned_at: '2026-07-26T02:04:51.950769+00:00'
   prompt_summary: Audit quantum-immortality-and-quantum-suicide-survival-argument
   target_filename: outer-review-2026-07-26-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-26T03:57:08.459547+00:00'
   failure_reason: null
   prompt_text: Please conduct a careful outer review of one article on The Unfinishable
     Map, a philosophical site defending a dualist, consciousness-causal position.

@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T04:00:16+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (slug gpt-5-6-pro; commissioned as chatgpt-5-5-pro)
+- **File**: [[reviews/outer-review-2026-07-26-chatgpt-5-5-pro]]
+- **Subject**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument (recent-aged fallback)
+- **Verdict**: Major revision required — remove from "converged" status (article was deep-review-converged 2026-07-19)
+- **Claims verified**: 10 article-text claims confirmed against the live source (Matt/M.W. O'Brien inconsistency, "mature retraction", "earliest"/Moravec, "structurally identical"/Marchal, three sociological quantifiers, "decisive"/"entirely", Papineau self-undermining framing, Aranyosi cited-but-unreferenced, Squires absent); 5 external-source claims deferred to refine-time publisher verification
+- **High-value findings**: 6 (citation/attribution defects, unsupported consensus quantifiers, measure-"decisive" overstatement, collapse-vs-subjecthood conflation, semantic version skew across neighbours, methodology gaps)
+- **Tasks generated**: 4 (P1: 1 citation/attribution/superlative fixes; P2: 3 — physics/argumentative recalibration [direct-refutation remit], neighbour cross-review for version skew, methodology proposals)
+
 ## 2026-07-26T03:24:24+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[concepts/functionalism]]
