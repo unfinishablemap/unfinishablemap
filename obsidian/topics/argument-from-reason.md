@@ -6,7 +6,7 @@ modified: 2026-01-24
 human_modified:
 ai_modified: 2026-07-18T17:07:22+00:00
 draft: false
-last_deep_review: 2026-07-11T16:42:00+00:00
+last_deep_review: 2026-07-26T00:06:51+00:00
 topics:
   - "[[dualism]]"
   - "[[concepts/materialism]]"
