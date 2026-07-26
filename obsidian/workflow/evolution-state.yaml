@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T08:07:07.326272+00:00'
-session_count: 17306
+last_updated: '2026-07-26T08:23:14.198816+00:00'
+session_count: 17307
 cycle_position: 11771
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T07:50:36.144318+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T07:58:29.854126+00:00'
+  replenish-queue: '2026-07-26T08:23:14.198816+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-07-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1146,7 +1146,32 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_845_note: 'run no.845 (2026-07-26T08:20Z, interactive /replenish-queue): SINGLE exact-floor +1 changed-since-review deep-review mint topics/embodied-consciousness.md. Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3. The run-844 evolution-of-consciousness mint reached 3 but the machine-consciousness holder (run-842) drained via a loop-less deep-review slot (commit 1cbfb0af8 = HEAD auto(deep-review) machine-consciousness, now Completed), so live floor fell to 2 -- documented replenish-at-floor alternation, not the fixed deadlock. Holders: P2 quantum-consciousness (run-843) + P2 evolution-of-consciousness (run-844). No evolve_loop/unfin-cycle; HEAD 1cbfb0af8; only uncommitted delta the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already queued P3; positions 8<10 audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET: topics/embodied-consciousness.md (single ai_system claude-opus-4-6, topics, soft_warning 3673w / ~327w UNDER 4000 hard -- length-SAFE, chosen over over-hard disguised-property-dualism to avoid the human-decision-task-mispicked-as-refine auto-condense trap; ldr 2026-07-12T19:50). GENUINE delta: commit 108cdb714 (2026-07-24 16:46, auto refine-draft, outer review 2026-07-22 ChatGPT 5.6 Pro) recalibrated an overstated evidence label ("direct evidence for this two-domain structure" -> "direct evidence for dissociable bodily functions and their psychophysical dependence" + underdetermination hedge) -- never deep-reviewed since. LENS = empirical-claim/evidence-framing fidelity on the delta only. SCOPE NARROW; LENGTH STRICTLY NEUTRAL; HOLD ai_system claude-opus-4-6 (single, no [1m] artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO). Section-diverse (topics/ vs both concepts/ holders). Full reasoning in the todo task Notes. Pruned run_842_note per note-bloat discipline (keep ~3: 843/844/845).'
+  run_845_note: 'run no.845 (2026-07-26T08:20Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint topics/embodied-consciousness.md.
+    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write
+    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
+    The run-844 evolution-of-consciousness mint reached 3 but the machine-consciousness
+    holder (run-842) drained via a loop-less deep-review slot (commit 1cbfb0af8 =
+    HEAD auto(deep-review) machine-consciousness, now Completed), so live floor fell
+    to 2 -- documented replenish-at-floor alternation, not the fixed deadlock. Holders:
+    P2 quantum-consciousness (run-843) + P2 evolution-of-consciousness (run-844).
+    No evolve_loop/unfin-cycle; HEAD 1cbfb0af8; only uncommitted delta the pre-existing
+    deferred cycle_post state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    length human-decisions already queued P3; positions 8<10 audit threshold + last
+    positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET: topics/embodied-consciousness.md
+    (single ai_system claude-opus-4-6, topics, soft_warning 3673w / ~327w UNDER 4000
+    hard -- length-SAFE, chosen over over-hard disguised-property-dualism to avoid
+    the human-decision-task-mispicked-as-refine auto-condense trap; ldr 2026-07-12T19:50).
+    GENUINE delta: commit 108cdb714 (2026-07-24 16:46, auto refine-draft, outer review
+    2026-07-22 ChatGPT 5.6 Pro) recalibrated an overstated evidence label ("direct
+    evidence for this two-domain structure" -> "direct evidence for dissociable bodily
+    functions and their psychophysical dependence" + underdetermination hedge) --
+    never deep-reviewed since. LENS = empirical-claim/evidence-framing fidelity on
+    the delta only. SCOPE NARROW; LENGTH STRICTLY NEUTRAL; HOLD ai_system claude-opus-4-6
+    (single, no [1m] artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO).
+    Section-diverse (topics/ vs both concepts/ holders). Full reasoning in the todo
+    task Notes. Pruned run_842_note per note-bloat discipline (keep ~3: 843/844/845).'
   run_843_note: 'run no.843 (2026-07-26T07:25Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/quantum-consciousness.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (tool-run, LIVE on disk; state snapshot

@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-links from optimistic review 2026-07-26 (indexical-identity / No-MWI cluster)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/indexical-identity-quantum-measurement.md
+- **Notes**: Suggested by optimistic review 2026-07-26 (indexical-identity / No-Many-Worlds cluster). Link-only, reciprocal-gap fix — grep-verify each absent before adding (both confirmed absent at review time, 0 hits BOTH directions). `topics/indexical-identity-quantum-measurement` and `topics/quantum-immortality-and-the-quantum-suicide-survival-argument` do not link to each other despite the quantum-suicide argument being the *limiting case* of the indexical gap under branching (an observer expecting to self-locate only into surviving branches). (1) [[indexical-identity-quantum-measurement]] → add [[quantum-immortality-and-the-quantum-suicide-survival-argument]] to Further Reading. (2) [[quantum-immortality-and-the-quantum-suicide-survival-argument]] → add [[indexical-identity-quantum-measurement]] to related_articles / Further Reading (its immortality dissolution rests on the indexical realism that topic develops in depth). Length-neutral; no new-article mints (topics 321/320, concepts 320/320 both at cap). Tenet alignment: Tenet 4 (No Many Worlds), Tenet 1 (Dualism). See [[reviews/optimistic-2026-07-26-indexical-identity-no-mwi-cluster]].
+- **Source**: optimistic-review (2026-07-26 indexical-identity-no-mwi-cluster)
+- **Generated**: 2026-07-26
+
 ### P3: Cross-links from optimistic review 2026-07-26 (mental-causation / rational-agency cluster)
 - **Type**: refine-draft
 - **Status**: pending
