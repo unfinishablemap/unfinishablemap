@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T18:38:03.202143+00:00'
-session_count: 17368
+last_updated: '2026-07-26T18:53:03.156997+00:00'
+session_count: 17369
 cycle_position: 11797
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T17:36:00.471665+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T18:26:56.602077+00:00'
+  replenish-queue: '2026-07-26T18:53:03.156997+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1139,9 +1139,9 @@ queue_status:
     slot (commit 475b660c6 = HEAD auto(deep-review) mutation-void), dropping the live
     floor 3 -> 2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
     NOT deadlock. The two remaining open floor-holders: topics/embodied-consciousness
-    deep-review (run-862, wrong-work Dreyfus) + topics/brain-specialness-boundary deep-review
-    (run-863, owed-web-verify), both open. EIGHT-SOURCE AUDIT re-run from live disk:
-    (chain) recent_tasks all deep-review/refine/replenish/agentic-social/harvest/check-model-fallback,
+    deep-review (run-862, wrong-work Dreyfus) + topics/brain-specialness-boundary
+    deep-review (run-863, owed-web-verify), both open. EIGHT-SOURCE AUDIT re-run from
+    live disk: (chain) recent_tasks all deep-review/refine/replenish/agentic-social/harvest/check-model-fallback,
     no un-followed research->expand->cross-review. (unconsumed-research) harvester-owned.
     (gap/caps) topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot, no
     concrete driver), positions 8/80. (staleness) get_review_candidates scans only
@@ -1157,8 +1157,8 @@ queue_status:
     sweep (deliberately NOT framed owed-web-verify -- grep-confirmed the 2026-06-20
     review carries a complete "## Citation Verification (publisher of record)" per-cite
     ledger; all 12 refs + all verbatim quotes were publisher-verified through 06-02
-    and the new Chang et al. 2025 Current Biology cite full-tuple-verified 06-20, so
-    the bibliographic + quote surface is DONE, [[owed-web-verify-task-false-never-verified-premise]]
+    and the new Chang et al. 2025 Current Biology cite full-tuple-verified 06-20,
+    so the bibliographic + quote surface is DONE, [[owed-web-verify-task-false-never-verified-premise]]
     avoided). Older cohort (opus-4-7), last_deep_review == ai_modified == 2026-06-20
     (36d = OLDEST-reviewed length-safe void, no post-review drift, no same-session
     churn), 2771w soft_warning (229w under the 3000 voids hard ceiling -> length-safe).
@@ -1166,15 +1166,15 @@ queue_status:
     neuroscience is fast-moving (5 cites from 2024, 5 from 2025) and the last currency
     look was 36d ago -- steered to ONE WebSearch for post-06-20 developments, bump
     last_deep_review ONLY if nothing new (EXPECTED no-op), add/verify one cite length-neutrally
-    at publisher-of-record if a superseding result exists; do NOT re-litigate the standing
-    citation/quote ledger, do NOT re-expand the three-face void body. HOLD single-cohort
-    ai_system opus-4-7. Parses TaskType.DEEP_REVIEW, File present, count == 3 post-edit
-    (tool-verified), BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]). Did NOT
-    mint a 2nd to floor=3+1 [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle
+    at publisher-of-record if a superseding result exists; do NOT re-litigate the
+    standing citation/quote ledger, do NOT re-expand the three-face void body. HOLD
+    single-cohort ai_system opus-4-7. Parses TaskType.DEEP_REVIEW, File present, count
+    == 3 post-edit (tool-verified), BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]).
+    Did NOT mint a 2nd to floor=3+1 [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle
     running (pgrep clean apart from this session''s own shell self-match); pre-existing
     uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping
-    -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_861_note per
-    note-bloat discipline (keep ~3: 862/863/864) [[evolution-state-floor-restore-note-bloat]].'
+    -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_861_note
+    per note-bloat discipline (keep ~3: 862/863/864) [[evolution-state-floor-restore-note-bloat]].'
   run_863_note: 'run no.863 (2026-07-26T18:25Z, interactive /replenish-queue): MINTED
     one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks
     == 2 pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by

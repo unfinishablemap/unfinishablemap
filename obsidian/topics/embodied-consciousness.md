@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-07-24T16:45:46+00:00
+ai_modified: 2026-07-26T18:56:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review: 2026-07-26T09:25:20+00:00
+last_deep_review: 2026-07-26T18:54:52+00:00
 coalesced_from:
   - "/topics/embodied-consciousness-and-the-interface/"
   - "/topics/phenomenology-of-embodiment-under-dualism/"
@@ -221,7 +221,7 @@ The interface reading would face serious difficulty if:
 ## References
 
 1. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
-1. Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
+1. Dreyfus, H. L., & Dreyfus, S. E. (1986). *Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
 1. Gallagher, S. (2005). *How the Body Shapes the Mind*. Oxford University Press.
 1. Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Husserl, E. (1952/1989). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*. Kluwer.
