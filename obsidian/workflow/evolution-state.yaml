@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T10:08:41.117082+00:00'
-session_count: 17321
-cycle_position: 11778
+last_updated: '2026-07-26T10:11:21.024573+00:00'
+session_count: 17322
+cycle_position: 11779
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T06:52:57.103734+00:00'
   optimistic-review: '2026-07-26T08:27:32.764210+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T09:52:47.250137+00:00'
+  deep-review: '2026-07-26T10:11:21.024573+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T09:47:52.377728+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6887
+  reviews_completed: 6888
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1145,12 +1145,49 @@ queue_status:
   p3_tasks: 7
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T10:07:02+00:00'
-  last_replenishment_prev: '2026-07-26T09:08:13+00:00'
-  last_replenishment_run: 850
+  last_replenishment: '2026-07-26T10:24:14+00:00'
+  last_replenishment_prev: '2026-07-26T10:07:02+00:00'
+  last_replenishment_run: 851
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_851_note: 'run no.851 (2026-07-26T10:24Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 mint concepts/relational-quantum-mechanics.md — FIRST owed-web-verify
+    / quote-fidelity mint after the changed-since-review pool exhausted. Pre-write count_p0_p2_tasks(todo)
+    == 2 (tool-run, LIVE on disk, uv env); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). Floor MIN_QUEUE_TASKS==3. The run-850 quantum-probability mint reached
+    3 but the run-848 experimental-consciousness-science holder drained via a loop-less
+    deep-review slot since (commit ae1306b95 = HEAD auto(deep-review) experimental-consciousness-science,
+    now Completed), so live floor fell to 2 — documented replenish-at-floor alternation,
+    not a deadlock. Holders: P2 the-steelman-for-process-monism (run-849) + P2 quantum-probability-consciousness
+    (run-850). No evolve_loop/unfin-cycle (pgrep clean); HEAD ae1306b95; only uncommitted
+    delta the pre-existing deferred cycle_post state bookkeeping — KEEP. Eight-source
+    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
+    voids 100/100, positions 8/80); orphaned_files=0; length NO safe fresh condense
+    candidate; positions 8<10 audit threshold + last positions-evolve 2026-07-25 (<30d);
+    no applied-apex gap. Source 4 CHANGED-SINCE-REVIEW EXHAUSTED — run-850 took the
+    last fresh un-disqualified candidate; every remaining scored candidate disqualified:
+    open-individualism embed-boilerplate-only, personal-identity cosmetic-wikilink+over-hard,
+    consciousness-in-simple-organisms cosmetic-cross-link+over-hard, indexical-knowledge
+    07-26 refine already publisher-verified in the completed quantum-immortality neighbour
+    (verified: O''Brien-2025/Sebens-Carroll-2018/Friederich-Dawid carried w/ full DOIs
+    in HEAD~2 349248427; runs 847/848/850 exclusion CONFIRMED), self-representational
+    own-07-20-review converged. SHIFTED to owed-web-verify seam: relational-quantum-mechanics
+    is FULLY CONVERGED (ldr==ai_modified 2026-06-24, 32d, only commit since = fa1027969
+    the review that set the ldr) older-cohort claude-opus-4-6 quote-dense concept whose
+    06-24 citation-METADATA pass never literally verified in-body ATTRIBUTED QUOTES.
+    LENS = verbatim quote-fidelity + citation-framing on the attributed external quotes
+    ONLY: (a) Rovelli "There is nothing subjective, idealistic, or mentalistic, in RQM."
+    literal-string at primary publisher (not via Map echo); (b) CPL / Adlam-Rovelli-2023
+    framing not over-claimed; (c) Nagel "view from nowhere"/Dennett/Frankish attributions.
+    SCOPE NARROW (argument body converged, do NOT re-sweep/expand); LENGTH STRICTLY
+    NEUTRAL (2977w soft_warning, ~523w under 3500 hard); HOLD ai_system claude-opus-4-6
+    (single, no [1m] artifact, do NOT flip to reviewer model). Section concepts/ shares
+    section+quantum theme with the quantum-probability holder — soft-diversity compromise
+    accepted (quote-fidelity YIELD is primary discriminator once changed-since-review
+    drained; most CONCRETE identified verbatim surface in older-cohort pool). BOTTOM-inserted
+    (FIFO). Full reasoning in the todo task Notes. Pruned run_846_note per note-bloat
+    discipline (keep ~3: 847/850/851).'
   run_850_note: 'run no.850 (2026-07-26T10:07Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/quantum-probability-consciousness.md.
     Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk, uv env); == 3
@@ -1184,38 +1221,6 @@ queue_status:
     (sole concepts/ holder vs both topics/ holders); cohort opus-4-5 distinct. Full
     reasoning in the todo task Notes. Pruned run_845_note per note-bloat discipline
     (keep ~3: 846/847/850).'
-  run_846_note: 'run no.846 (2026-07-26T08:39Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint topics/neurological-dissociations-as-interface-architecture.md.
-    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write
-    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
-    The run-845 embodied-consciousness mint reached 3 but the quantum-consciousness
-    holder (run-843) drained via a deep-review slot since, so live floor fell to 2
-    -- documented replenish-at-floor alternation, not the fixed deadlock. Holders:
-    P2 evolution-of-consciousness (run-844) + P2 embodied-consciousness (run-845).
-    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
-    319/320, voids 100/100, positions 8/80); orphaned_files=0; length has NO safe
-    candidate (born-rule/synesthetic-void human-deferred, epistemology-of-convergence
-    accept-as-survey, rest research/index/register); positions 8<10 audit threshold
-    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET
-    validated vs get_review_candidates (this file #1-scored at 9.03, NOT one of the
-    two queued holders). Single ai_system claude-opus-4-6 (OLDER cohort), topics,
-    soft_warning 3269w / ~731w UNDER 4000 hard -- length-SAFE; ldr 2026-07-12T08:16,
-    ai_modified 2026-07-16T12:07. GENUINE delta: commit 4684a83b1 (auto deep-review
-    cross-review of anarchic-hand-and-action-ownership) added a sourced anarchic-vs-alien-hand
-    terminological sentence attributed to "Marchetti and Della Sala''s now-standard
-    distinction" -- a citation-bearing claim added AFTER the 07-12 review and never
-    deep-verified (more than a bare cross-link wikilink). NOT same-session churn (last
-    touch 07-16, git --since 2026-07-26T00:00 EMPTY). LENS = citation/claim-framing
-    fidelity on the delta only (verify Marchetti & Della Sala 1998 at publisher; confirm
-    the added line does not upgrade FND clinical evidence into an establishing dualism
-    argument; confirm anarchic/alien terminology now consistent across the two articles).
-    SCOPE NARROW (25-cite ledger already web-checked 07-12 commit 6516e03bd -- do
-    NOT re-sweep). LENGTH STRICTLY NEUTRAL. DIVERSITY: clinical-dissociation/FND/interface-architecture
-    cluster distinct from both holders (evolution-of-consciousness=concepts/emergence;
-    embodied-consciousness=topics/proprioception); cohort opus-4-6 distinct. HOLD
-    ai_system claude-opus-4-6 (single, do NOT flip to reviewer model, no [1m] artifact).
-    BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_843_note
-    per note-bloat discipline (keep ~3: 844/845/846).'
   run_847_note: 'run no.847 (2026-07-26T09:08Z, interactive /replenish-queue): SINGLE
     exact-floor +1 verify-the-refine-landed deep-review mint topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md.
     Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write
