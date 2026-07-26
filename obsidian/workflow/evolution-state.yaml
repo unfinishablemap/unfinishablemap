@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T09:47:52.377728+00:00'
-session_count: 17319
-cycle_position: 11777
+last_updated: '2026-07-26T09:52:47.250137+00:00'
+session_count: 17320
+cycle_position: 11778
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T06:52:57.103734+00:00'
   optimistic-review: '2026-07-26T08:27:32.764210+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T09:26:21.795598+00:00'
+  deep-review: '2026-07-26T09:52:47.250137+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T09:47:52.377728+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6886
+  reviews_completed: 6887
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1145,38 +1145,45 @@ queue_status:
   p3_tasks: 7
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T09:08:13+00:00'
-  last_replenishment_prev: '2026-07-26T08:39:54+00:00'
-  last_replenishment_run: 847
+  last_replenishment: '2026-07-26T10:07:02+00:00'
+  last_replenishment_prev: '2026-07-26T09:08:13+00:00'
+  last_replenishment_run: 850
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_845_note: 'run no.845 (2026-07-26T08:20Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint topics/embodied-consciousness.md.
-    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write
+  run_850_note: 'run no.850 (2026-07-26T10:07Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint concepts/quantum-probability-consciousness.md.
+    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk, uv env); == 3 post-write
     (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
-    The run-844 evolution-of-consciousness mint reached 3 but the machine-consciousness
-    holder (run-842) drained via a loop-less deep-review slot (commit 1cbfb0af8 =
-    HEAD auto(deep-review) machine-consciousness, now Completed), so live floor fell
-    to 2 -- documented replenish-at-floor alternation, not the fixed deadlock. Holders:
-    P2 quantum-consciousness (run-843) + P2 evolution-of-consciousness (run-844).
-    No evolve_loop/unfin-cycle; HEAD 1cbfb0af8; only uncommitted delta the pre-existing
-    deferred cycle_post state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length human-decisions already queued P3; positions 8<10 audit threshold + last
-    positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET: topics/embodied-consciousness.md
-    (single ai_system claude-opus-4-6, topics, soft_warning 3673w / ~327w UNDER 4000
-    hard -- length-SAFE, chosen over over-hard disguised-property-dualism to avoid
-    the human-decision-task-mispicked-as-refine auto-condense trap; ldr 2026-07-12T19:50).
-    GENUINE delta: commit 108cdb714 (2026-07-24 16:46, auto refine-draft, outer review
-    2026-07-22 ChatGPT 5.6 Pro) recalibrated an overstated evidence label ("direct
-    evidence for this two-domain structure" -> "direct evidence for dissociable bodily
-    functions and their psychophysical dependence" + underdetermination hedge) --
-    never deep-reviewed since. LENS = empirical-claim/evidence-framing fidelity on
-    the delta only. SCOPE NARROW; LENGTH STRICTLY NEUTRAL; HOLD ai_system claude-opus-4-6
-    (single, no [1m] artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO).
-    Section-diverse (topics/ vs both concepts/ holders). Full reasoning in the todo
-    task Notes. Pruned run_842_note per note-bloat discipline (keep ~3: 843/844/845).'
+    The run-847 quantum-immortality mint drained via a loop-less deep-review slot (commit
+    349248427 = HEAD auto(deep-review) quantum-immortality, now Completed), so live
+    floor fell to 2 -- documented replenish-at-floor alternation, not a deadlock. Holders:
+    P2 experimental-consciousness-science-2025-2026 (run-848) + P2 the-steelman-for-process-monism
+    (run-849). No evolve_loop/unfin-cycle (ps clean); HEAD 349248427; only uncommitted
+    delta the pre-existing deferred cycle_post state bookkeeping from the quantum-immortality
+    deep-review -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED
+    (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    length NO safe fresh candidate (offenders veto-tagged/human-deferred/register/research);
+    positions 8<10 audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex
+    gap. Source 4 TARGET: concepts/quantum-probability-consciousness.md (single ai_system
+    claude-opus-4-5-20251101 OLDER cohort, concepts, get_review scorer 7.57 = highest
+    FRESH un-disqualified candidate, soft_warning 2793w / ~707w UNDER 3500 hard --
+    length-SAFE; ldr 2026-07-12T09:45, ai_modified 2026-07-16T08:08). TWO unreviewed
+    deltas: (i) commit 7d9e1b03b (2026-07-16 refine, No-MWI CONVERGENT cluster) recalibrated
+    a substantive over-claim ("MWI provides no resources" -> "MWI''s resources ... presuppose
+    the centred subject ... so it stays open rather than answered") -- NOT cosmetic;
+    (ii) commit 112b81e9f (2026-07-24 coalesce) repointed the section cross-reference
+    [[probability-objections-many-worlds]] (now archived) -> [[probability-problem-in-many-worlds]]
+    (live topics/, absorbed the objections article) -- the paragraph''s enumerated
+    three-strategy/four-objection content-claims now need re-verification vs the merged
+    target (apex-stale-internal-quote-channel class, NOT a bare cosmetic wikilink).
+    LENS = argument-framing fidelity (i) + cross-reference coherence (ii) on the two
+    deltas ONLY. SCOPE NARROW (pre-07-12 body + 8-review ledger converged, do NOT re-sweep);
+    LENGTH STRICTLY NEUTRAL; HOLD ai_system claude-opus-4-5-20251101 (single, no [1m]
+    artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO). Section-diverse
+    (sole concepts/ holder vs both topics/ holders); cohort opus-4-5 distinct. Full
+    reasoning in the todo task Notes. Pruned run_845_note per note-bloat discipline
+    (keep ~3: 846/847/850).'
   run_846_note: 'run no.846 (2026-07-26T08:39Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint topics/neurological-dissociations-as-interface-architecture.md.
     Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write
