@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T10:47:27.141756+00:00'
-session_count: 17328
+last_updated: '2026-07-26T11:10:22.416438+00:00'
+session_count: 17329
 cycle_position: 11781
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T07:50:36.144318+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T10:28:46.859793+00:00'
+  replenish-queue: '2026-07-26T11:10:22.416438+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1144,8 +1144,8 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     pessimistic-review-promote: 1
-  run_852_note: 'run no.852 (2026-07-26T10:49Z, interactive /replenish-queue): NO new
-    mint — PROMOTED an existing P3 refine-draft to P2 to restore the floor (exact-floor
+  run_852_note: 'run no.852 (2026-07-26T10:49Z, interactive /replenish-queue): NO
+    new mint — PROMOTED an existing P3 refine-draft to P2 to restore the floor (exact-floor
     +1, highest-yield restore available). Target: "Address pessimistic-review findings
     in concepts/multiple-drafts-model.md" (Type refine-draft, File present, tool-parses
     TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks(open(todo).read()) == 2 (tool-run,
@@ -1157,14 +1157,14 @@ queue_status:
     (run-850) + P2 relational-quantum-mechanics (run-851). No evolve_loop/unfin-cycle
     (pgrep clean); HEAD d131f63d3; only uncommitted delta the pre-existing deferred
     cycle_post state bookkeeping — KEEP [[orphaned-cyclepost-state-advance-in-worktree]].
-    WHY PROMOTE NOT MINT: changed-since-review staleness pool drained + every top get_review_candidates
-    scorer disqualified (personal-identity 8.37 HUMAN-LENGTH-DECISION + over-hard DIVERT;
-    consciousness-in-simple-organisms 8.11 over-hard + cosmetic; indexical-knowledge
-    8.11 07-26 additions already publisher-verified; quantum-probability 7.57 = run-850
-    holder; self-representational 7.50 own-07-20 standalone deep-review converged).
-    A third consecutive owed-web-verify quote-fidelity mint would be another converged
-    near-no-op (run-851 relational-quantum-mechanics was itself premise-corrected to
-    a fast no-op — older-converged pool''s genuine unchecked external-quote surface
+    WHY PROMOTE NOT MINT: changed-since-review staleness pool drained + every top
+    get_review_candidates scorer disqualified (personal-identity 8.37 HUMAN-LENGTH-DECISION
+    + over-hard DIVERT; consciousness-in-simple-organisms 8.11 over-hard + cosmetic;
+    indexical-knowledge 8.11 07-26 additions already publisher-verified; quantum-probability
+    7.57 = run-850 holder; self-representational 7.50 own-07-20 standalone deep-review
+    converged). A third consecutive owed-web-verify quote-fidelity mint would be another
+    converged near-no-op (run-851 relational-quantum-mechanics was itself premise-corrected
+    to a fast no-op — older-converged pool''s genuine unchecked external-quote surface
     is thin, mostly reference-list titles the 06-2x citation ledgers already covered).
     The promoted P3 is strictly higher-yield: three CONCRETE, grep-verified-present,
     length-neutral defects (widely-accepted/contested quantifiers L46, formalised-with-Kinsbourne
@@ -1175,9 +1175,9 @@ queue_status:
     Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
     319/320, voids 100/100, positions 8/80); orphaned_files==0; length NO safe fresh
     condense candidate; positions 8<10 audit threshold + last positions-evolve 2026-07-25
-    (<30d); no applied-apex gap. Promoted task sits above both deep-review holders in
-    file order → picked first (highest-yield first). Full reasoning in the todo task
-    Notes. Pruned run_847_note per note-bloat discipline (keep ~3: 850/851/852).'
+    (<30d); no applied-apex gap. Promoted task sits above both deep-review holders
+    in file order → picked first (highest-yield first). Full reasoning in the todo
+    task Notes. Pruned run_847_note per note-bloat discipline (keep ~3: 850/851/852).'
   run_851_note: 'run no.851 (2026-07-26T10:24Z, interactive /replenish-queue): SINGLE
     exact-floor +1 mint concepts/relational-quantum-mechanics.md — FIRST owed-web-verify
     / quote-fidelity mint after the changed-since-review pool exhausted. Pre-write

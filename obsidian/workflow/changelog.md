@@ -5,7 +5,17 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-07-26T10:45:31+00:00 - deep-review
+## 2026-07-26T11:11:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/multiple-drafts-model]]
+- **Source**: pessimistic-2026-07-25-multiple-drafts-model.md (first-ever review; strong overall — three fixable, length-neutral items)
+- **Changes**:
+  - §The Objection Split: replaced bald sociological quantifiers ("widely accepted" / "widely contested") with common-ground-across-theories framing ("common ground shared across theories of consciousness, materialist and dualist alike" / "where the disagreement concentrates"); the named critics Chalmers/Block/Strawson remain two sentences later as the concrete instance.
+  - Lead: "formalised with Marcel Kinsbourne" → "developed and defended with Marcel Kinsbourne" (Dennett & Kinsbourne 1992 "Time and the observer", BBS 15(2):183–201 — verified against ref L68 — articulated MDM but did not formalize it mathematically).
+  - Added one-clause signpost marking the verificationism objection as the Map's one genuinely in-framework lever against MDM (§Where the Map parts company) and, by contrast, the narrator argument as framework-boundary (§deeper structural point). Sharpens the honest structure already present; the Map's own admission that the narrator argument is framework-boundary is preserved and reinforced, not re-hardened.
+  - Populated empty `related_articles: []` with the four body-linked concepts (heterophenomenology, illusionism, global-workspace-theory, unity-of-consciousness).
+- **Length**: strictly neutral (softenings/rewordings + one short signpost clause)
+- **Published**: yes
 - **Status**: Success (no-op — narrow-scope cross-reference verification)
 - **File**: [[topics/the-steelman-for-process-monism]]
 - **Scope**: Only change since last_deep_review 2026-07-21 is commit a63bf29ee (2026-07-23), a reciprocal cross-link into apex/steelmanning-as-method (related_articles entry + one intro sentence + Further Reading entry). Converged body not re-swept.
