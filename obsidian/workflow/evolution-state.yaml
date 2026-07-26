@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T13:03:54.839117+00:00'
-session_count: 17346
-cycle_position: 11787
+last_updated: '2026-07-26T13:18:46.811917+00:00'
+session_count: 17347
+cycle_position: 11788
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T06:52:57.103734+00:00'
   optimistic-review: '2026-07-26T08:27:32.764210+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T12:47:28.426998+00:00'
+  deep-review: '2026-07-26T13:18:46.811917+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T09:47:52.377728+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6891
+  reviews_completed: 6892
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1140,12 +1140,52 @@ queue_status:
   p3_tasks: 4
   needs_replenishment: false
   loop_pickable_open: 2
-  last_replenishment: '2026-07-26T12:51:35+00:00'
-  last_replenishment_prev: '2026-07-26T12:39:00+00:00'
-  last_replenishment_run: 857
+  last_replenishment: '2026-07-26T13:23:37+00:00'
+  last_replenishment_prev: '2026-07-26T12:51:35+00:00'
+  last_replenishment_run: 858
   last_replenishment_mode: standard
   replenishment_source_counts:
-    decline-no-safe-restorer: 1
+    staleness: 1
+  run_858_note: 'run no.858 (2026-07-26T13:23Z, interactive /replenish-queue): MINTED
+    one genuine deep-review to restore the floor (1 -> 2). This BREAKS the run-855/856/857
+    decline streak because the queue state materially changed: the genuine P2 that
+    justified those declines (quantum-probability-consciousness deep-review, a top-5
+    get_review_candidates scorer) DRAINED via a loop-less slot -- committed 5700ad3de
+    -- so live count_p0_p2_tasks fell 2 -> 1 (tool-run, LIVE on disk, uv env), and
+    the sole remaining P2 (relational-quantum-mechanics) is flagged in its own note
+    as an expected CONVERGED no-op pool-drain. Queue thus held effectively ZERO genuine
+    pickable work at floor 1, MIN_QUEUE_TASKS==3. NO SAFE P3 TO PROMOTE (the four remaining
+    open P3s are all HUMAN-LENGTH-DECISION refines -- many-worlds-argument, quantum-biology-and-neural-consciousness,
+    quantum-consciousness, personal-identity -- which must NOT enter the auto-loop
+    [[human-decision-task-mispicked-as-refine]]). WHY THIS MINT IS NON-CHURN, not the
+    make-work prior runs refused: minted topics/consciousness-in-simple-organisms.md
+    deep-review (parses TaskType.DEEP_REVIEW, File present, count == 2 post-edit, tool-verified).
+    It is the ONLY non-churn deep-review candidate -- eight-source audit re-run INDEPENDENTLY:
+    chains = 07-19 research / 07-16 expand both stale + threaded + topics/voids at
+    cap; unconsumed-research = newest research notes old (03-19, 06-25, 02-05), harvester-owned
+    (last 10:30Z, next ~16:30Z feeds research-topic fuel); gap = topics 320/320 + voids
+    100/100 at cap, concepts 319/320 (1 slot) no concrete candidate + pipeline drained
+    (last expand-topic 07-16); positions 8/80 <10 audit threshold + last positions-evolve
+    07-25 <30d; orphaned_files==0; length human-deferred/veto-parked; no applied-apex
+    gap. Source-4 get_review_candidates: top real-article hits DISQUALIFIED -- multiple-drafts-model
+    (score 26) refined 11:11Z TODAY, indexical-knowledge-and-identity refined 05:23Z
+    TODAY = same-session near-no-ops [[refine-then-condense-same-session-churn]]; self-representational-theory-of-consciousness
+    deep-reviewed 6d ago (07-20) = converged; the score~110 group are positions/ register
+    files (positions-evolve territory) + apex-articles.md index. consciousness-in-simple-organisms
+    (score 8.1): last_deep_review 07-11 (15d), last touch 07-19 cosmetic cross-link
+    (NOT session-touched), 4270 words / 19 citation-year markers = genuine UNCHECKED
+    citation+empirical surface per [[owed-web-verify-seam-deep-review-targeting]] (orthogonal
+    to convergence -- prior runs dismissed it on a staleness/cosmetic lens, but its
+    biology citations were never web-verified). Steered length-neutral, verify-at-publisher,
+    no-op-if-clean. Did NOT mint a SECOND task to reach floor=3: no other non-churn
+    candidate exists (all others session-touched-today or <7d-reviewed), and a 3rd
+    near-no-op purely to hit the number would be exactly the converged make-work worse
+    than a decline [[deep_review_over_reviews_converged]]. Floor at 2 with one genuine
+    fresh deep-review + the 16:30Z harvester feeding research-topic fuel = restored
+    functioning queue [[unfin_loop_steady_state]]. No evolve_loop/unfin-cycle running
+    (pgrep clean) so no active stall; HEAD 5700ad3de; pre-existing uncommitted evolution-state.yaml
+    delta is legitimate deferred deep-review cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
+    Pruned run_855_note per note-bloat discipline (keep ~3: 856/857/858).'
   run_857_note: 'run no.857 (2026-07-26T12:51Z, interactive /replenish-queue): NO
     mint AND no promote -- DECLINED, same posture as run 856 eight minutes earlier;
     queue structure unchanged since. count_p0_p2_tasks == 2 (tool-run, LIVE on disk,
@@ -1222,38 +1262,6 @@ queue_status:
     uncommitted evolution-state.yaml delta is legitimate deferred refine cycle_post
     bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_853_note
     per note-bloat discipline (keep ~3: 854/855/856).'
-  run_855_note: 'run no.855 (2026-07-26T12:18Z, /replenish-queue): NO new mint --
-    PROMOTED an existing P3 refine-draft cross-link task to P2 to restore the floor
-    (exact-floor +1, highest-yield restore available, mirroring runs 852/853/854).
-    Target: "Cross-links from optimistic review 2026-07-26 (mental-causation / rational-agency
-    cluster)" (Type refine-draft, File concepts/metacognition.md present, parses TaskType.REFINE_DRAFT).
-    Pre-edit count_p0_p2_tasks == 2 (tool-run, LIVE on disk, uv env); == 3 post-edit
-    (tool-verified). Floor MIN_QUEUE_TASKS==3. The run-854 promoted holder (indexical-identity
-    / No-MWI cross-links) drained via a loop-less slot -- now committed 4f9a330fb
-    (auto(refine-draft) ... indexical-identity / No-MWI cluster), so live floor fell
-    3->2: documented replenish-at-floor alternation [[unfin_loop_steady_state]] [[p3-only-floor-preemption-starves]],
-    not a deadlock. This was the sibling cross-link P3 that run-854 explicitly reserved
-    for the next floor restore. Remaining pickable P0-P2 holders: P2 quantum-probability-consciousness
-    deep-review (run-850) + P2 relational-quantum-mechanics deep-review (run-851),
-    both likely near-no-ops; the promoted task sits at top of file order so the loop
-    picks it FIRST (highest-yield first, anti-LIFO [[queue-lifo-starvation]]). No
-    evolve_loop/unfin-cycle (pgrep clean); HEAD d594805aa; pre-existing uncommitted
-    evolution-state.yaml delta is legitimate deferred agentic-social/coalesce cycle_post
-    bookkeeping -- KEEP [[orphaned-cyclepost-state-advance-in-worktree]]. WHY PROMOTE
-    NOT MINT: eight-source audit BLOCKED -- chains/unconsumed-research/gap all capped
-    (topics 320/320, voids 100/100 at cap; concepts 319/320 but pipeline drained --
-    last expand-topic 2026-07-16, last research-topic 2026-07-19, no concrete gap
-    candidate; positions 8/80 but <10 audit threshold + last positions-evolve 2026-07-25
-    <30d); orphaned_files==0; length NO safe fresh condense candidate (flagship condense
-    tasks all #veto-parked pending human length decision); no applied-apex gap; Source-4
-    changed-since-review/staleness DRAINED per runs 851-854. The promoted task is
-    strictly higher-yield: 3 CONCRETE, grep-verified-absent (0 hits: metacognition.md
-    related_articles lacks argument-from-reason + agent-causation; topics/argument-from-reason.md
-    lacks metacognition; all 3 target files confirmed present -- argument-from-reason
-    resolves to topics/ via bare slug), length-neutral reciprocal cross-links (link-only,
-    cannot misfire into flagship condensation) on the Map''s Dualism + Bidirectional-Interaction
-    tenets (1+3). Full reasoning in the todo task Notes. Pruned run_852_note per note-bloat
-    discipline (keep ~3: 853/854/855).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
