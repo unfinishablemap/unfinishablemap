@@ -5,6 +5,17 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T04:17:59+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (slug claude-opus-5)
+- **File**: [[reviews/outer-review-2026-07-26-claude-opus-5]]
+- **Subject**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument (recent-aged fallback; same subject as the same-cycle ChatGPT + Gemini reviews)
+- **Verdict**: REVISE-HARD; "genuine dialectical advantage over MWI" thesis DEMOTED-TO-COHERENCE-ONLY
+- **Claims verified**: 8 article-text findings confirmed against the live source; 2 load-bearing external claims web-verified — (a) Tegmark is the field's canonical IMMORTALIST per O'Brien 2025 (the article's own Ref 7), so the "mature retraction toward mortalism" framing is an author-stance inversion; (b) Tegmark's quote is "either dead or alive" (Mallah arXiv:0902.0187), which the article inverts to "alive or dead" and misattributes to the 2014 book — a two-source composite. 2 external citations (Greaves 2004, Vaidman quant-ph/9609006) deferred to refine-time publisher verification
+- **High-value findings**: author-stance inversion (Tegmark), composite/misattributed/altered quotation, three-conditions provenance error, unsupported "architects" quantifier, Aranyosi mis-gloss, caring-measure engagement gap (Greaves/Wallace/Vaidman only name-dropped), constrain-vs-establish slide (dualism does no load-bearing work; confession-without-correction), internal Claude self-citations as evidence, Claude-on-Claude loop
+- **Tasks generated**: 0 new — findings FOLDED into the 4 existing same-cycle ChatGPT tasks on this article (augmented P1 citation task + P2 recalibration/engagement + P2 neighbour cross-review + P2 methodology), CONVERGENT-flagged with the Claude-specific additions, to avoid same-file pileup ahead of /combine-outer-reviews
+- **Convergent with**: 2026-07-26 ChatGPT 5.6 Pro review (same article) — Tegmark stance/quantifier defects, "decisive"/"dialectical advantage" overstatement, methodology gates
+
 ## 2026-07-26T04:00:16+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (slug gpt-5-6-pro; commissioned as chatgpt-5-5-pro)
