@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T12:32:54.923093+00:00'
-session_count: 17341
+last_updated: '2026-07-26T12:41:35.539944+00:00'
+session_count: 17342
 cycle_position: 11786
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T12:32:54.923093+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T12:39:00+00:00'
+  replenish-queue: '2026-07-26T12:41:35.539944+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1146,37 +1146,37 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     decline-no-safe-restorer: 1
-  run_856_note: 'run no.856 (2026-07-26T12:39Z, interactive /replenish-queue): NO mint
-    AND no promote -- DECLINED this cycle. The run-855 promoted holder (mental-causation
+  run_856_note: 'run no.856 (2026-07-26T12:39Z, interactive /replenish-queue): NO
+    mint AND no promote -- DECLINED this cycle. The run-855 promoted holder (mental-causation
     / rational-agency cross-links) drained via a loop-less slot -- committed ec22b645e
     (auto(refine-draft) ...), so live floor fell 3->2. count_p0_p2_tasks == 2 (tool-run,
     LIVE on disk, uv env). Floor MIN_QUEUE_TASKS==3, unmet by 1. WHY DECLINE not restore:
-    (1) NO SAFE P3 TO PROMOTE -- unlike runs 852-855, the only remaining open P3s are
-    4 HUMAN-LENGTH-DECISION refine tasks (many-worlds-argument, quantum-biology-and-neural-consciousness,
+    (1) NO SAFE P3 TO PROMOTE -- unlike runs 852-855, the only remaining open P3s
+    are 4 HUMAN-LENGTH-DECISION refine tasks (many-worlds-argument, quantum-biology-and-neural-consciousness,
     quantum-consciousness, personal-identity) which must NOT enter the auto-loop ([[human-decision-task-mispicked-as-refine]]);
-    the fresh optimistic-review cross-link P3 batch that runs 852-855 promoted is fully
-    drained. (2) NO GENUINE MINT -- eight-source audit re-run INDEPENDENTLY (not trusting
-    prior notes): chains = two 2026-07-19 research notes (multi-agent-born-preservation,
+    the fresh optimistic-review cross-link P3 batch that runs 852-855 promoted is
+    fully drained. (2) NO GENUINE MINT -- eight-source audit re-run INDEPENDENTLY
+    (not trusting prior notes): chains = two 2026-07-19 research notes (multi-agent-born-preservation,
     bohmian-quantum-equilibrium) already THREADED across live articles (born-rule-and-the-consciousness-interface,
     qm-interpretations-beyond-many-worlds, forward-in-time-vs-time-symmetric-selection,
     selection-criterion-problem) [[replenish-unconsumed-research-dedup-misses-threaded-content]]
     + topics at cap; unconsumed-research = same, harvester-owned (harvest-research-subjects
     every 6h, last 10:30Z, next ~16:30Z feeds research-topic queue fuel independently);
-    gap = topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot) but no concrete
-    candidate; staleness/deep-review DRAINED -- get_review_candidates top real-article
-    hits all disqualified: standing-agnostic-challenge (ai_modified 11:45Z TODAY, cosmetic
-    cross-link), multiple-drafts-model (refined 11:13Z TODAY addressing pessimistic
-    findings = near-no-op if reviewed 1.5h later), indexical-knowledge-and-identity
+    gap = topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot) but no
+    concrete candidate; staleness/deep-review DRAINED -- get_review_candidates top
+    real-article hits all disqualified: standing-agnostic-challenge (ai_modified 11:45Z
+    TODAY, cosmetic cross-link), multiple-drafts-model (refined 11:13Z TODAY addressing
+    pessimistic findings = near-no-op if reviewed 1.5h later), indexical-knowledge-and-identity
     (refined 05:29Z TODAY), consciousness-in-simple-organisms (07-19 cosmetic cross-link);
     the score~110 group are positions/ register files (agency-and-will, consciousness-scope,
     value-in-selection, individuation-and-subjecthood, methodology-and-calibration,
-    ai-consciousness-scope, voids-as-evidence) = positions-evolve territory, 8/80 <10
-    audit threshold + last positions-evolve 2026-07-25 <30d, plus apex-articles.md index;
-    orphaned_files==0; length = 89 hard/critical warnings but every real-article offender
-    human-deferred/veto-parked (epistemology-of-convergence-arguments 6533w = STANDING
-    HUMAN LENGTH DECISION in Blocked, 5 prior condenses failed, load-bearing calibration,
-    recommend SPLIT); no applied-apex gap. A 3rd near-no-op deep-review purely to hit
-    floor=3 would be converged-content make-work churn ([[deep_review_over_reviews_converged]],
+    ai-consciousness-scope, voids-as-evidence) = positions-evolve territory, 8/80
+    <10 audit threshold + last positions-evolve 2026-07-25 <30d, plus apex-articles.md
+    index; orphaned_files==0; length = 89 hard/critical warnings but every real-article
+    offender human-deferred/veto-parked (epistemology-of-convergence-arguments 6533w
+    = STANDING HUMAN LENGTH DECISION in Blocked, 5 prior condenses failed, load-bearing
+    calibration, recommend SPLIT); no applied-apex gap. A 3rd near-no-op deep-review
+    purely to hit floor=3 would be converged-content make-work churn ([[deep_review_over_reviews_converged]],
     [[refine-then-condense-same-session-churn]]) -- worse than a documented decline.
     Floor at 2 with two genuinely-pickable P2 deep-reviews (quantum-probability-consciousness,
     relational-quantum-mechanics) remaining + the 6h harvester feeding research-topic

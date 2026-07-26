@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-24
 last_curated:
-last_deep_review: 2026-06-24T22:55:17+00:00
+last_deep_review: 2026-07-26T12:46:09+00:00
 ---
 
 **The Standing Agnostic Challenge** (Yoram Gutfreund, 2024): no behavioural or neural evidence can distinguish cognition accompanied by felt experience from cognition without it. The presence and the absence of felt subjective experience are equally consistent with the same third-person data. The challenge is *standing* because it re-applies to every new marker offered as a consciousness indicator and is discharged by none of them — and it cuts both ways, blocking the verification of consciousness and the verification of its absence alike. This page is the Map's canonical statement of that constraint; articles across the corpus link here rather than reconstruct it.
