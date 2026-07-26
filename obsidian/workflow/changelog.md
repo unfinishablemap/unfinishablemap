@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T20:49:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/motor-selection]]
+- **Word count**: 3348 → 3348 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 8th review, verification-only convergence pass. Verified 3 sibling-propagated deltas since the 06-20 review (all from b1cbc8c7e / dopamine-and-the-unified-interface deep-review): Cai/Kaeser 2024 RIM-knockout method (web-verified real-correct at nature.com/PMC11718420), Chakroun 2023 value-blind threshold (publisher-verified by sibling 07-19; coherent locally), Tallis 2024 issue 159→161 (web-verified correct, Philosophy Now #161 pp.58-59 — not in sibling ledger). No body edits; only last_deep_review advanced (ai_modified held at HEAD per no-op discipline). No critical/medium/low issues; convergence firm.
+- **Output**: [[reviews/deep-review-2026-07-26-motor-selection]]
+
 ## 2026-07-26T20:22:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-phenomenology-and-altered-experience]]
