@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-07-08T17:26:08+00:00
+ai_modified: 2026-07-26T05:23:37+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-13
 last_curated:
 last_deep_review: 2026-07-11T02:48:00+00:00
@@ -130,9 +130,9 @@ The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet finds these accounts u
 
 **The phenomenological mismatch**: You will experience one definite sequence of outcomes, not multiple incompatible ones. The felt reality of anticipating one future suggests an indexical fact that many-worlds cannot accommodate.
 
-The starkest test of these accounts is the [[quantum-immortality-and-the-quantum-suicide-survival-argument|quantum-suicide survival argument]]. If pre-measurement survival is genuine self-locating uncertainty over branch successors, an observer facing a lethal quantum trigger should expect to find themselves, indefinitely, only in branches where they survived. Almost everyone treats that conclusion as a reductio—which is exactly what the self-locating framework predicts when the missing fact (which successor is *me*) is one the indexical realist insists is real.
+The starkest test of these accounts is the [[quantum-immortality-and-the-quantum-suicide-survival-argument|quantum-suicide survival argument]]. If pre-measurement survival is genuine self-locating uncertainty over branch successors, an observer facing a lethal quantum trigger should expect to find themselves, indefinitely, only in branches where they survived. Contemporary Everettians are in fact divided over this conclusion—O'Brien's 2025 survey classes the field as split between immortalists (Tegmark) and mortalists (Carroll, Papineau, Wallace)—but most contemporary mortalist Everettians read it as a reductio, which is exactly what the self-locating framework predicts when the missing fact (which successor is *me*) is one the indexical realist insists is real.
 
-Friederich and Dawid show that attempts to derive the Born rule from self-locating uncertainty (as in Sebens and Carroll's approach) rely on principles that tacitly assume what they're meant to prove. Self-locating uncertainty makes sense when there's a fact you don't know; in many-worlds, the supposed fact doesn't exist.
+Sebens and Carroll try to derive Born-weighted self-locating credence from an epistemic-separability principle; Friederich and Dawid reply that the principle can only be motivated by the Born rule it is meant to yield, so the derivation assumes what it sets out to prove. Self-locating uncertainty is well-defined when there is a fact one does not yet know. The Map's judgement is that many-worlds supplies no such fact for the belief "I am in this branch" to track—every successor is equally you—so the proposal fails by the Map's primitive-subject standard. That is a verdict that the branch-relative ontology offers no adequate indexical fact, not the stronger metaphysical claim that no such fact could exist at all.
 
 ## Relation to Site Perspective
 
@@ -168,5 +168,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [[tenets]] ac
 1. Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
 1. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. O'Brien, M. W. (2025). "The Costs of Rejecting Quantum Immortality." *Synthese*, 206:221. (Classifies Everettians as divided between immortalists and mortalists.)
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.
+1. Sebens, C. T. & Carroll, S. M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.

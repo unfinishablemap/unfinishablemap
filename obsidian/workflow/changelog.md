@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T05:23:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Trigger**: Cross-review neighbour propagation of the convergent 2026-07-26 outer reviews (synthesis [[reviews/outer-review-synthesis-2026-07-26]]). The neighbour quantum-immortality article was recalibrated for these same two defects; this pass carries the fix to the concept article that repeats them.
+- **Original score**: not re-scored (targeted calibration pass, two loci)
+- **Changes**:
+  - Fix 1 (unsupported consensus quantifier): replaced "Almost everyone treats that conclusion as a reductio" with a calibrated statement that contemporary Everettians are divided — O'Brien (2025) classes the field as split between immortalists (Tegmark) and mortalists (Carroll, Papineau, Wallace) — and that most contemporary *mortalist* Everettians read it as a reductio. No longer asserts a universal.
+  - Fix 2 (one-sided critique + categorical ontology claim): presented Sebens–Carroll (the positive ESP derivation) and Friederich–Dawid (the critique) symmetrically rather than only the critic; and distinguished the Map's actual verdict — "the branch-relative ontology offers no adequate indexical fact by the Map's primitive-subject standard" — from the stronger, previously-stated "the supposed fact doesn't exist" (no such fact could exist at all). Substantive Map position preserved.
+  - Added two references verified at primary publisher before citing: O'Brien 2025 (Synthese 206:221, link.springer.com/article/10.1007/s11229-025-05304-z) and Sebens & Carroll 2018 (BJPS 69(1)); Friederich & Dawid 2022 critique also re-verified at BJPS (academic.oup.com axaa002). No verification via any unfinishablemap.org echo.
+  - Tenet routing, calibration hedges, and overall argument left intact; length-neutral.
+- **Published**: yes
+
 ## 2026-07-26T05:09:56+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
