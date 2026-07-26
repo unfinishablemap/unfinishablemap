@@ -5,6 +5,12 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T13:47:55+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/embodied-cognition.md (stalest last_deep_review, 2026-06-24; untouched by today's review flurry)
+- **Findings**: 2 medium issues + 2 unsupported-claim/citation defects. (1) causal-vs-phenomenal grounding equivocation in the AI-grounding section; (2) "something it is like to perform expertly" asserted as fact; (3) five-stage Dreyfus model mis-cited to Dreyfus 1992 instead of Dreyfus & Dreyfus 1986; (4) Baumeister/Beilock over-attributed a "neural-functional" framing. No label leakage, no cliché constructions, no altered-state symmetry violation; strong falsifiability + premise-honesty. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-07-26-embodied-cognition]]
+
 ## 2026-07-26T13:33:01+00:00 - deep-review
 - **Status**: Success (no-op / converged)
 - **File**: [[topics/consciousness-in-simple-organisms]]
