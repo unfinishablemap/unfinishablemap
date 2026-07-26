@@ -5,7 +5,7 @@ created: 2026-06-19
 modified: 2026-06-19
 human_modified:
 ai_modified: 2026-07-22T22:15:01.537057+00:00
-last_deep_review: 2026-07-19T00:55:00+00:00
+last_deep_review: 2026-07-26T10:33:21+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-individuation]]"

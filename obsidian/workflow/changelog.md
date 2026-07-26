@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T10:33:21+00:00 - deep-review
+- **Status**: Success (no-op — converged article re-qualified by /embed-videos bump)
+- **File**: [[topics/open-individualism-and-the-de-combination-problem]]
+- **Scope**: Only change since last_deep_review 2026-07-19 is the /embed-videos pass (commit 734c5f3b1, 2026-07-22 — added `<details>` video block + `embedded_videos` frontmatter). No body prose, citation, claim, or calibration changed. §2.4 web-verify not re-triggered (unmodified References block); the 2026-06-19 ledger (all 9 citations real-correct at publisher of record) stands.
+- **Checks**: length 2914w ok (embed boilerplate did not cross 3000 soft); editor-vocab leakage clean; ANSI/EOF artifacts clean; open-individualism rejection = honest Mode Three framework-boundary marking, no boundary substitution; no possibility/probability slippage.
+- **Word count**: 2914 → 2914 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-26-open-individualism-and-the-de-combination-problem]]
+- **Note**: `last_deep_review` stamped 2026-07-26; `ai_modified` left at HEAD (2026-07-22, embed-videos edit — not re-attributed to this no-op).
+
 ## 2026-07-26T10:10:01+00:00 - deep-review
 - **Status**: Success (no-op — narrow-scope citation web-verify; delta cite verified real+faithful)
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]
