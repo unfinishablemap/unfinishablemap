@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-26T20:25:00.277681+00:00'
-session_count: 17382
+last_updated: '2026-07-26T20:38:19.938409+00:00'
+session_count: 17383
 cycle_position: 11804
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-26T19:42:01.169377+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-26T19:52:53.860869+00:00'
+  agentic-social: '2026-07-26T20:39:13.721392+00:00'
   embed-videos: '2026-07-26T11:47:26.856629+00:00'
   commission-chatgpt-review: '2026-07-26T02:05:30.901020+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T17:36:00.471665+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T20:21:09.384231+00:00'
+  replenish-queue: '2026-07-26T20:38:19.938409+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-26'
@@ -181,20 +173,12 @@ recent_tasks:
   type: deep-review
   date: '2026-07-26'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-observer-witness-in-meditation/
-    date: '2026-07-19T19:39:02.342020+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-  - url: https://unfinishablemap.org/concepts/interface-heterogeneity/
-    date: '2026-07-19T20:31:35.478220+00:00'
-    topics:
-    - comparative-consciousness-and-interface-differences
-    - hard-problem-of-consciousness
-    - animal-consciousness
   - url: https://unfinishablemap.org/topics/duhem-quine-underdetermination-consciousness/
     date: '2026-07-19T21:23:20.893041+00:00'
     topics:
@@ -1108,6 +1092,12 @@ agentic_social:
     date: '2026-07-26T19:01:58.016661+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/substrate-independence/
+    date: '2026-07-26T20:39:13.721334+00:00'
+    topics:
+    - ai-consciousness
+    - machine-consciousness
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1131,41 +1121,41 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
-  run_869_note: 'run no.869 (2026-07-26T20:36Z, interactive /replenish-queue): MINTED
-    one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
-    (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-866
-    floor-holder topics/clinical-phenomenology-and-altered-experience deep-review and the
-    run-865 brain-computer-interfaces holder were both CONSUMED by loop-less local cycle
-    deep-review slots (commits 31f44580b, 880304c53), dropping the live floor to 2 --
-    documented replenish-at-floor alternation [[unfin_loop_steady_state]], NOT deadlock.
-    Two remaining open holders: concepts/motor-selection (run-867) + concepts/altered-states-of-consciousness
-    (run-868), both open. EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks
-    all deep-review/refine/replenish/agentic-social/coalesce/harvest, no un-followed
-    research->expand->cross-review. (unconsumed-research) harvester-owned (state gate
-    17:18Z) + topics/voids capped. (gap/caps) topics 320/320 + voids 100/100 at cap,
-    concepts 319/320 (1 slot, no concrete driver), positions 8/80. (staleness) get_review_candidates
-    top rows disqualified: motor-selection 9.0 + altered-states 8.2 ALREADY QUEUED;
-    personal-identity 8.8 / free-will 2.7 human-length-parked; indexical-knowledge 8.1
-    touched TODAY (e806fa833, ai_modified 07-26T05:23); single-cell 1.25 only 1d converged.
-    self-representational 7.5 is the #1 not-already-queued / not-parked / not-touched-today
-    row -- honest pool-drain residual [[deep_review_over_reviews_converged]] (prior runs
-    866-868 deprioritized it only because better old-cohort rows existed; all now queued/parked).
-    (orphan) orphaned_files==0. (length) offenders human-parked/hub-accretion flagships;
-    THIS target 2281w status=ok, length-safe. (positions) 8 < 10 audit threshold + last
-    positions-evolve 07-25 <30d. (applied-apex) no ≥2-high-confidence uncovered cluster.
-    MINTED concepts/self-representational-theory-of-consciousness.md deep-review as a THIN
-    CURRENCY + verify-the-refine-landed sweep. HONEST caveat: file was substantively
-    deep-reviewed only 6d ago (704ae2a7a, 07-20) and is CURRENT-cohort claude-opus-4-8,
-    so yield is near-zero and outcome is EXPECTED no-op (bump last_deep_review ONLY, HOLD
-    ai_modified 07-20 + ai_system claude-opus-4-8). Steered to ONE WebSearch for post-07-20
-    HOR/self-representationalism developments; add/verify one cite length-neutrally at
-    publisher-of-record only if a superseding result exists; do NOT re-litigate the
-    converged body or re-verify the standing ledger. BOTTOM-inserted (FIFO [[queue-lifo-starvation]]).
-    CONCURRENCY: pgrep evolve_loop/unfin-cycle clean -- NO LOOP, interactive session only
-    [[replenish-fork-hallucinates-concurrent-loop]]; HEAD 31f44580b; only uncommitted
-    non-todo delta is the pre-existing evolution-state.yaml edit (legitimate deferred
-    cycle_post bookkeeping -- KEEP [[orphaned-cyclepost-state-advance-in-worktree]]).
-    Pruned run_866_note per keep-~3 discipline (kept 867/868/869) [[evolution-state-floor-restore-note-bloat]].'
+  run_869_note: "run no.869 (2026-07-26T20:36Z, interactive /replenish-queue): MINTED\
+    \ one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint\
+    \ (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-866\
+    \ floor-holder topics/clinical-phenomenology-and-altered-experience deep-review\
+    \ and the run-865 brain-computer-interfaces holder were both CONSUMED by loop-less\
+    \ local cycle deep-review slots (commits 31f44580b, 880304c53), dropping the live\
+    \ floor to 2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],\
+    \ NOT deadlock. Two remaining open holders: concepts/motor-selection (run-867)\
+    \ + concepts/altered-states-of-consciousness (run-868), both open. EIGHT-SOURCE\
+    \ AUDIT re-run from live disk: (chain) recent_tasks all deep-review/refine/replenish/agentic-social/coalesce/harvest,\
+    \ no un-followed research->expand->cross-review. (unconsumed-research) harvester-owned\
+    \ (state gate 17:18Z) + topics/voids capped. (gap/caps) topics 320/320 + voids\
+    \ 100/100 at cap, concepts 319/320 (1 slot, no concrete driver), positions 8/80.\
+    \ (staleness) get_review_candidates top rows disqualified: motor-selection 9.0\
+    \ + altered-states 8.2 ALREADY QUEUED; personal-identity 8.8 / free-will 2.7 human-length-parked;\
+    \ indexical-knowledge 8.1 touched TODAY (e806fa833, ai_modified 07-26T05:23);\
+    \ single-cell 1.25 only 1d converged. self-representational 7.5 is the #1 not-already-queued\
+    \ / not-parked / not-touched-today row -- honest pool-drain residual [[deep_review_over_reviews_converged]]\
+    \ (prior runs 866-868 deprioritized it only because better old-cohort rows existed;\
+    \ all now queued/parked). (orphan) orphaned_files==0. (length) offenders human-parked/hub-accretion\
+    \ flagships; THIS target 2281w status=ok, length-safe. (positions) 8 < 10 audit\
+    \ threshold + last positions-evolve 07-25 <30d. (applied-apex) no \u22652-high-confidence\
+    \ uncovered cluster. MINTED concepts/self-representational-theory-of-consciousness.md\
+    \ deep-review as a THIN CURRENCY + verify-the-refine-landed sweep. HONEST caveat:\
+    \ file was substantively deep-reviewed only 6d ago (704ae2a7a, 07-20) and is CURRENT-cohort\
+    \ claude-opus-4-8, so yield is near-zero and outcome is EXPECTED no-op (bump last_deep_review\
+    \ ONLY, HOLD ai_modified 07-20 + ai_system claude-opus-4-8). Steered to ONE WebSearch\
+    \ for post-07-20 HOR/self-representationalism developments; add/verify one cite\
+    \ length-neutrally at publisher-of-record only if a superseding result exists;\
+    \ do NOT re-litigate the converged body or re-verify the standing ledger. BOTTOM-inserted\
+    \ (FIFO [[queue-lifo-starvation]]). CONCURRENCY: pgrep evolve_loop/unfin-cycle\
+    \ clean -- NO LOOP, interactive session only [[replenish-fork-hallucinates-concurrent-loop]];\
+    \ HEAD 31f44580b; only uncommitted non-todo delta is the pre-existing evolution-state.yaml\
+    \ edit (legitimate deferred cycle_post bookkeeping -- KEEP [[orphaned-cyclepost-state-advance-in-worktree]]).\
+    \ Pruned run_866_note per keep-~3 discipline (kept 867/868/869) [[evolution-state-floor-restore-note-bloat]]."
   run_868_note: 'run no.868 (2026-07-26T20:18Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
     (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-865
@@ -1262,7 +1252,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
