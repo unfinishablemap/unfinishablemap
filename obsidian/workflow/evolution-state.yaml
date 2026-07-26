@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-26T12:04:38.509310+00:00'
-session_count: 17337
-cycle_position: 11784
+last_updated: '2026-07-26T12:07:07.598034+00:00'
+session_count: 17338
+cycle_position: 11785
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T06:52:57.103734+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-26T09:47:52.377728+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-26T11:22:54.175235+00:00'
+  agentic-social: '2026-07-26T12:15:31.737587+00:00'
   embed-videos: '2026-07-26T11:47:26.856629+00:00'
   commission-chatgpt-review: '2026-07-26T02:05:30.901020+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
-  refine-draft: '2026-07-26T11:46:41.839078+00:00'
+  refine-draft: '2026-07-26T12:07:07.598034+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-26T12:04:38.509310+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-26'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-26'
@@ -181,12 +173,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-07-26'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/access-consciousness/
-    date: '2026-07-19T12:10:25.644236+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/many-minds-interpretation/
     date: '2026-07-19T12:57:02.304615+00:00'
     topics:
@@ -1121,6 +1113,12 @@ agentic_social:
     topics:
     - four-quadrant-dualism-taxonomy
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/primary-secondary-quality-boundary/
+    date: '2026-07-26T12:15:31.737524+00:00'
+    topics:
+    - emergence-as-universal-hard-problem
+    - methodology-of-consciousness-research
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1144,104 +1142,109 @@ queue_status:
   last_replenishment_mode: standard
   replenishment_source_counts:
     optimistic-review-crosslink-promote: 1
-  run_854_note: 'run no.854 (2026-07-26T12:03Z, /replenish-queue): NO new mint — PROMOTED
-    an existing P3 refine-draft cross-link task to P2 to restore the floor (exact-floor
-    +1, highest-yield restore available, mirroring runs 852/853). Target: "Cross-links
-    from optimistic review 2026-07-26 (indexical-identity / No-MWI cluster)" (Type
-    refine-draft, File topics/indexical-identity-quantum-measurement.md present, parses
-    TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks == 2 (tool-run, LIVE on disk,
-    uv env); == 3 post-edit (tool-verified). Floor MIN_QUEUE_TASKS==3. The run-853
-    promoted holder (testing-consciousness-collapse empirical-testing/falsifiability
-    cross-links) drained via a loop-less slot since 11:19Z, so live floor fell 3->2:
-    documented replenish-at-floor alternation [[unfin_loop_steady_state]] [[p3-only-floor-preemption-starves]],
-    not a deadlock. Remaining pickable P0-P2 holders: P2 quantum-probability-consciousness
-    deep-review (run-850) + P2 relational-quantum-mechanics deep-review (run-851),
-    both likely near-no-ops. No evolve_loop/unfin-cycle (pgrep clean); HEAD e5de6a50b;
-    only uncommitted delta the pre-existing evolution-state.yaml edit. WHY PROMOTE
-    NOT MINT: eight-source audit BLOCKED — chains/unconsumed-research/gap all capped
-    (topics 320/320, concepts 319/320, voids 100/100 at/over cap; positions 8/80 but
-    <10 audit threshold + last positions-evolve 2026-07-25 <30d); orphaned_files==0;
-    length NO safe fresh condense candidate (flagship condense tasks all #veto-parked
-    pending human length decision); no applied-apex gap; Source-4 changed-since-review/staleness
-    DRAINED per runs 851-853. The promoted task is strictly higher-yield: 2 CONCRETE,
-    grep-verified-absent (0 hits BOTH directions, both files confirmed present), length-neutral
-    reciprocal cross-links (link-only, cannot misfire into flagship condensation)
-    between indexical-identity-quantum-measurement <-> quantum-immortality-and-the-quantum-suicide-survival-argument;
-    on the Map''s signature No-MWI + Dualism tenets (4+1); topmost of the fresh 2026-07-26
-    optimistic-review cross-link batch (anti-LIFO [[queue-lifo-starvation]]), picked
-    before the two lower no-op deep-review holders (highest-yield first). One sibling
-    cross-link P3 remains (metacognition / rational-agency cluster, L48) for the next
-    floor restore. Full reasoning in the todo task Notes. Pruned run_851_note per
-    note-bloat discipline (keep ~3: 852/853/854).'
-  run_853_note: 'run no.853 (2026-07-26T11:19Z, interactive /replenish-queue): NO
-    new mint — PROMOTED an existing P3 refine-draft cross-link task to P2 to restore
-    the floor (exact-floor +1, highest-yield restore available, mirroring run-852).
-    Target: "Cross-links from optimistic review 2026-07-25 (empirical-testing / falsifiability
-    cluster)" (Type refine-draft, File topics/testing-consciousness-collapse.md present,
-    tool-parses TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks(open(todo).read())
-    == 2 (tool-run, LIVE on disk, uv env); == 3 post-edit (tool-verified). Floor MIN_QUEUE_TASKS==3.
-    The run-852 promoted holder (multiple-drafts-model pessimistic-review refine)
-    drained via a loop-less slot since 10:49Z — now Completed (todo L~1588, ✓ 2026-07-26),
-    so live floor fell 3→2: documented replenish-at-floor alternation [[unfin_loop_steady_state]]
-    [[p3-only-floor-preemption-starves]], not a deadlock. Holders below: P2 quantum-probability-consciousness
-    (run-850) + P2 relational-quantum-mechanics (run-851), both likely no-ops. No
-    evolve_loop/unfin-cycle (pgrep clean); HEAD 14b72e215; only uncommitted delta
-    the pre-existing deferred cycle_post state bookkeeping — KEEP [[orphaned-cyclepost-state-advance-in-worktree]].
-    WHY PROMOTE NOT MINT: eight-source audit BLOCKED — chains/unconsumed-research/gap
-    all capped (topics 321/320, concepts 320/320, voids 100/100 all at/over cap; positions
-    8/80 but <10 audit threshold + last positions-evolve 2026-07-25 <30d); orphaned_files==0;
-    length NO safe fresh condense candidate (flagship condense tasks all #veto-parked
-    pending human length decision); no applied-apex gap. Source-4 changed-since-review/staleness
-    DRAINED — get_review_candidates top-7 all disqualified or already queued: multiple-drafts-model
-    26.0 (JUST refined today = near-no-op), personal-identity 8.84 (HUMAN-LENGTH-DECISION
-    + over-hard, DIVERT), consciousness-in-simple-organisms 8.11 (over-hard + cosmetic),
-    indexical-knowledge 8.11 (07-26 additions already publisher-verified), quantum-probability
-    7.57 (= run-850 holder), self-representational 7.50 (own-07-20 standalone deep-review
-    converged). The promoted task is strictly higher-yield: 3 CONCRETE, grep-verified-absent,
-    length-neutral reciprocal cross-links (link-only, cannot misfire into flagship
-    condensation), oldest of the fresh optimistic-review batch (anti-LIFO [[queue-lifo-starvation]]),
-    on the Map''s signature quantum-interaction tenets (2+3). Sits near top of file
-    order → picked before the two lower no-op deep-review holders (highest-yield first).
-    Full reasoning in the todo task Notes. Pruned run_850_note per note-bloat discipline
-    (keep ~3: 851/852/853).'
-  run_852_note: 'run no.852 (2026-07-26T10:49Z, interactive /replenish-queue): NO
-    new mint — PROMOTED an existing P3 refine-draft to P2 to restore the floor (exact-floor
-    +1, highest-yield restore available). Target: "Address pessimistic-review findings
-    in concepts/multiple-drafts-model.md" (Type refine-draft, File present, tool-parses
-    TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks(open(todo).read()) == 2 (tool-run,
-    LIVE on disk, uv env); == 3 post-edit (tool-verified). Floor MIN_QUEUE_TASKS==3.
-    The run-849 the-steelman-for-process-monism holder drained via a loop-less deep-review
-    slot since run-851 (commit 799d88155 = auto(deep-review) the-steelman-for-process-monism,
-    now Completed), so live floor fell to 2 — documented replenish-at-floor alternation
-    [[unfin_loop_steady_state]], not a deadlock. Holders below: P2 quantum-probability-consciousness
-    (run-850) + P2 relational-quantum-mechanics (run-851). No evolve_loop/unfin-cycle
-    (pgrep clean); HEAD d131f63d3; only uncommitted delta the pre-existing deferred
-    cycle_post state bookkeeping — KEEP [[orphaned-cyclepost-state-advance-in-worktree]].
-    WHY PROMOTE NOT MINT: changed-since-review staleness pool drained + every top
-    get_review_candidates scorer disqualified (personal-identity 8.37 HUMAN-LENGTH-DECISION
-    + over-hard DIVERT; consciousness-in-simple-organisms 8.11 over-hard + cosmetic;
-    indexical-knowledge 8.11 07-26 additions already publisher-verified; quantum-probability
-    7.57 = run-850 holder; self-representational 7.50 own-07-20 standalone deep-review
-    converged). A third consecutive owed-web-verify quote-fidelity mint would be another
-    converged near-no-op (run-851 relational-quantum-mechanics was itself premise-corrected
-    to a fast no-op — older-converged pool''s genuine unchecked external-quote surface
-    is thin, mostly reference-list titles the 06-2x citation ledgers already covered).
-    The promoted P3 is strictly higher-yield: three CONCRETE, grep-verified-present,
-    length-neutral defects (widely-accepted/contested quantifiers L46, formalised-with-Kinsbourne
-    overstatement L20, verificationism signpost) from a real pessimistic-review file
-    on a never-standalone-refined article (ai_modified==ldr==2026-07-12, no commit
-    since — 07-25 findings wholly unaddressed; the 07-12 deep-review commit 180ad4b6c
-    actioned a DIFFERENT earlier issue). Defects author-sourced not replenish-asserted.
-    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
-    319/320, voids 100/100, positions 8/80); orphaned_files==0; length NO safe fresh
-    condense candidate; positions 8<10 audit threshold + last positions-evolve 2026-07-25
-    (<30d); no applied-apex gap. Promoted task sits above both deep-review holders
-    in file order → picked first (highest-yield first). Full reasoning in the todo
-    task Notes. Pruned run_847_note per note-bloat discipline (keep ~3: 850/851/852).'
+  run_854_note: "run no.854 (2026-07-26T12:03Z, /replenish-queue): NO new mint \u2014\
+    \ PROMOTED an existing P3 refine-draft cross-link task to P2 to restore the floor\
+    \ (exact-floor +1, highest-yield restore available, mirroring runs 852/853). Target:\
+    \ \"Cross-links from optimistic review 2026-07-26 (indexical-identity / No-MWI\
+    \ cluster)\" (Type refine-draft, File topics/indexical-identity-quantum-measurement.md\
+    \ present, parses TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks == 2 (tool-run,\
+    \ LIVE on disk, uv env); == 3 post-edit (tool-verified). Floor MIN_QUEUE_TASKS==3.\
+    \ The run-853 promoted holder (testing-consciousness-collapse empirical-testing/falsifiability\
+    \ cross-links) drained via a loop-less slot since 11:19Z, so live floor fell 3->2:\
+    \ documented replenish-at-floor alternation [[unfin_loop_steady_state]] [[p3-only-floor-preemption-starves]],\
+    \ not a deadlock. Remaining pickable P0-P2 holders: P2 quantum-probability-consciousness\
+    \ deep-review (run-850) + P2 relational-quantum-mechanics deep-review (run-851),\
+    \ both likely near-no-ops. No evolve_loop/unfin-cycle (pgrep clean); HEAD e5de6a50b;\
+    \ only uncommitted delta the pre-existing evolution-state.yaml edit. WHY PROMOTE\
+    \ NOT MINT: eight-source audit BLOCKED \u2014 chains/unconsumed-research/gap all\
+    \ capped (topics 320/320, concepts 319/320, voids 100/100 at/over cap; positions\
+    \ 8/80 but <10 audit threshold + last positions-evolve 2026-07-25 <30d); orphaned_files==0;\
+    \ length NO safe fresh condense candidate (flagship condense tasks all #veto-parked\
+    \ pending human length decision); no applied-apex gap; Source-4 changed-since-review/staleness\
+    \ DRAINED per runs 851-853. The promoted task is strictly higher-yield: 2 CONCRETE,\
+    \ grep-verified-absent (0 hits BOTH directions, both files confirmed present),\
+    \ length-neutral reciprocal cross-links (link-only, cannot misfire into flagship\
+    \ condensation) between indexical-identity-quantum-measurement <-> quantum-immortality-and-the-quantum-suicide-survival-argument;\
+    \ on the Map's signature No-MWI + Dualism tenets (4+1); topmost of the fresh 2026-07-26\
+    \ optimistic-review cross-link batch (anti-LIFO [[queue-lifo-starvation]]), picked\
+    \ before the two lower no-op deep-review holders (highest-yield first). One sibling\
+    \ cross-link P3 remains (metacognition / rational-agency cluster, L48) for the\
+    \ next floor restore. Full reasoning in the todo task Notes. Pruned run_851_note\
+    \ per note-bloat discipline (keep ~3: 852/853/854)."
+  run_853_note: "run no.853 (2026-07-26T11:19Z, interactive /replenish-queue): NO\
+    \ new mint \u2014 PROMOTED an existing P3 refine-draft cross-link task to P2 to\
+    \ restore the floor (exact-floor +1, highest-yield restore available, mirroring\
+    \ run-852). Target: \"Cross-links from optimistic review 2026-07-25 (empirical-testing\
+    \ / falsifiability cluster)\" (Type refine-draft, File topics/testing-consciousness-collapse.md\
+    \ present, tool-parses TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks(open(todo).read())\
+    \ == 2 (tool-run, LIVE on disk, uv env); == 3 post-edit (tool-verified). Floor\
+    \ MIN_QUEUE_TASKS==3. The run-852 promoted holder (multiple-drafts-model pessimistic-review\
+    \ refine) drained via a loop-less slot since 10:49Z \u2014 now Completed (todo\
+    \ L~1588, \u2713 2026-07-26), so live floor fell 3\u21922: documented replenish-at-floor\
+    \ alternation [[unfin_loop_steady_state]] [[p3-only-floor-preemption-starves]],\
+    \ not a deadlock. Holders below: P2 quantum-probability-consciousness (run-850)\
+    \ + P2 relational-quantum-mechanics (run-851), both likely no-ops. No evolve_loop/unfin-cycle\
+    \ (pgrep clean); HEAD 14b72e215; only uncommitted delta the pre-existing deferred\
+    \ cycle_post state bookkeeping \u2014 KEEP [[orphaned-cyclepost-state-advance-in-worktree]].\
+    \ WHY PROMOTE NOT MINT: eight-source audit BLOCKED \u2014 chains/unconsumed-research/gap\
+    \ all capped (topics 321/320, concepts 320/320, voids 100/100 all at/over cap;\
+    \ positions 8/80 but <10 audit threshold + last positions-evolve 2026-07-25 <30d);\
+    \ orphaned_files==0; length NO safe fresh condense candidate (flagship condense\
+    \ tasks all #veto-parked pending human length decision); no applied-apex gap.\
+    \ Source-4 changed-since-review/staleness DRAINED \u2014 get_review_candidates\
+    \ top-7 all disqualified or already queued: multiple-drafts-model 26.0 (JUST refined\
+    \ today = near-no-op), personal-identity 8.84 (HUMAN-LENGTH-DECISION + over-hard,\
+    \ DIVERT), consciousness-in-simple-organisms 8.11 (over-hard + cosmetic), indexical-knowledge\
+    \ 8.11 (07-26 additions already publisher-verified), quantum-probability 7.57\
+    \ (= run-850 holder), self-representational 7.50 (own-07-20 standalone deep-review\
+    \ converged). The promoted task is strictly higher-yield: 3 CONCRETE, grep-verified-absent,\
+    \ length-neutral reciprocal cross-links (link-only, cannot misfire into flagship\
+    \ condensation), oldest of the fresh optimistic-review batch (anti-LIFO [[queue-lifo-starvation]]),\
+    \ on the Map's signature quantum-interaction tenets (2+3). Sits near top of file\
+    \ order \u2192 picked before the two lower no-op deep-review holders (highest-yield\
+    \ first). Full reasoning in the todo task Notes. Pruned run_850_note per note-bloat\
+    \ discipline (keep ~3: 851/852/853)."
+  run_852_note: "run no.852 (2026-07-26T10:49Z, interactive /replenish-queue): NO\
+    \ new mint \u2014 PROMOTED an existing P3 refine-draft to P2 to restore the floor\
+    \ (exact-floor +1, highest-yield restore available). Target: \"Address pessimistic-review\
+    \ findings in concepts/multiple-drafts-model.md\" (Type refine-draft, File present,\
+    \ tool-parses TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks(open(todo).read())\
+    \ == 2 (tool-run, LIVE on disk, uv env); == 3 post-edit (tool-verified). Floor\
+    \ MIN_QUEUE_TASKS==3. The run-849 the-steelman-for-process-monism holder drained\
+    \ via a loop-less deep-review slot since run-851 (commit 799d88155 = auto(deep-review)\
+    \ the-steelman-for-process-monism, now Completed), so live floor fell to 2 \u2014\
+    \ documented replenish-at-floor alternation [[unfin_loop_steady_state]], not a\
+    \ deadlock. Holders below: P2 quantum-probability-consciousness (run-850) + P2\
+    \ relational-quantum-mechanics (run-851). No evolve_loop/unfin-cycle (pgrep clean);\
+    \ HEAD d131f63d3; only uncommitted delta the pre-existing deferred cycle_post\
+    \ state bookkeeping \u2014 KEEP [[orphaned-cyclepost-state-advance-in-worktree]].\
+    \ WHY PROMOTE NOT MINT: changed-since-review staleness pool drained + every top\
+    \ get_review_candidates scorer disqualified (personal-identity 8.37 HUMAN-LENGTH-DECISION\
+    \ + over-hard DIVERT; consciousness-in-simple-organisms 8.11 over-hard + cosmetic;\
+    \ indexical-knowledge 8.11 07-26 additions already publisher-verified; quantum-probability\
+    \ 7.57 = run-850 holder; self-representational 7.50 own-07-20 standalone deep-review\
+    \ converged). A third consecutive owed-web-verify quote-fidelity mint would be\
+    \ another converged near-no-op (run-851 relational-quantum-mechanics was itself\
+    \ premise-corrected to a fast no-op \u2014 older-converged pool's genuine unchecked\
+    \ external-quote surface is thin, mostly reference-list titles the 06-2x citation\
+    \ ledgers already covered). The promoted P3 is strictly higher-yield: three CONCRETE,\
+    \ grep-verified-present, length-neutral defects (widely-accepted/contested quantifiers\
+    \ L46, formalised-with-Kinsbourne overstatement L20, verificationism signpost)\
+    \ from a real pessimistic-review file on a never-standalone-refined article (ai_modified==ldr==2026-07-12,\
+    \ no commit since \u2014 07-25 findings wholly unaddressed; the 07-12 deep-review\
+    \ commit 180ad4b6c actioned a DIFFERENT earlier issue). Defects author-sourced\
+    \ not replenish-asserted. Eight-source audit: chains/unconsumed-research/gap BLOCKED\
+    \ (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files==0;\
+    \ length NO safe fresh condense candidate; positions 8<10 audit threshold + last\
+    \ positions-evolve 2026-07-25 (<30d); no applied-apex gap. Promoted task sits\
+    \ above both deep-review holders in file order \u2192 picked first (highest-yield\
+    \ first). Full reasoning in the todo task Notes. Pruned run_847_note per note-bloat\
+    \ discipline (keep ~3: 850/851/852)."
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
