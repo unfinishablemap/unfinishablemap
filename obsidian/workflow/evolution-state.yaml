@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T20:39:35.541721+00:00'
-session_count: 17384
-cycle_position: 11804
+last_updated: '2026-07-26T20:50:42.004846+00:00'
+session_count: 17385
+cycle_position: 11805
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T13:50:19.497896+00:00'
   optimistic-review: '2026-07-26T18:35:19.533509+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T20:25:00.277681+00:00'
+  deep-review: '2026-07-26T20:50:42.004846+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T19:42:01.169377+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6906
+  reviews_completed: 6907
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1119,12 +1119,45 @@ queue_status:
   p3_tasks: 5
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T20:36:00+00:00'
-  last_replenishment_prev: '2026-07-26T20:18:00+00:00'
-  last_replenishment_run: 869
+  last_replenishment: '2026-07-26T20:57:00+00:00'
+  last_replenishment_prev: '2026-07-26T20:36:00+00:00'
+  last_replenishment_run: 870
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_870_note: 'run no.870 (2026-07-26T20:57Z, interactive /replenish-queue): MINTED
+    one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
+    (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-867
+    holder concepts/motor-selection was CONSUMED by a loop-less local cycle deep-review
+    slot (commit 5d4e19088 = HEAD, currency no-op), dropping the live floor 3 -> 2 --
+    documented replenish-at-floor alternation [[unfin_loop_steady_state]], NOT deadlock.
+    Two open holders remain: altered-states (run-868) + self-representational (run-869),
+    both open. EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks all
+    deep-review/refine/replenish/agentic-social/optimistic/coalesce, no un-followed
+    research->expand->cross-review. (unconsumed-research) harvester-owned (17:18Z) +
+    topics/voids capped. (gap/caps) topics 320/320 + voids 100/100 at cap, concepts
+    319/320 (1 slot, no concrete driver), positions 8/80. (staleness) THIS PICK, but
+    DEPARTED from the recent currency-no-op pattern: get_review_candidates top rows all
+    disqualified (apex-articles + positions/* = hub/register not deep-review targets;
+    personal-identity 8.8 human-length-parked; altered-states 8.2 + self-representational
+    7.5 already queued; indexical-knowledge 8.1 + indexical-identity-quantum 6.1 touched
+    TODAY; free-will 2.7 flagship). Both live-area older-cohort rows (birch-edge 4x,
+    measurement-standards 7x) OVER-REVIEWED + birch has an open refine task. Applied the
+    owed-web-verify UNCHECKED-SURFACE discriminator [[owed-web-verify-seam-deep-review-targeting]]:
+    MINTED topics/chemosensory-consciousness-and-the-interface deep-review as a GENUINE
+    citation-verify pass (NOT a no-op) -- 1 prior review sidecar (06-24 creation), ~20
+    numbered citations verified only that once, content converged 32d (ai_modified ==
+    last_deep_review == 06-24), opus-4-8 single cohort, 2335w status=ok length-safe. This
+    is the fresh-create defect-tail profile [[fresh-create-defect-tail]] -- real expected
+    yield. (orphan) orphaned_files==0. (length) offenders veto/human-parked. (positions)
+    8 < 10 audit threshold + last positions-evolve 07-25 <30d. (applied-apex) no gap.
+    Steered to web-verify each of ~20 refs at publisher of record (venue/vol/pages/DOI/
+    first-author), preserve the two Map self-cite pseudonyms [[fabricated-map-self-cite-pseudonym-false-alarm]],
+    length-neutral. BOTTOM-inserted (FIFO [[queue-lifo-starvation]]). CONCURRENCY: pgrep
+    evolve_loop/unfin-cycle clean -- NO LOOP, interactive only [[replenish-fork-hallucinates-concurrent-loop]];
+    HEAD 5d4e19088; only uncommitted non-todo delta is the pre-existing evolution-state.yaml
+    edit (legitimate deferred cycle_post bookkeeping -- KEEP [[orphaned-cyclepost-state-advance-in-worktree]]).
+    Pruned run_867_note per keep-~3 discipline (kept 868/869/870) [[evolution-state-floor-restore-note-bloat]].'
   run_869_note: 'run no.869 (2026-07-26T20:36Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
     (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-866
@@ -1206,53 +1239,6 @@ queue_status:
     self-match); pre-existing uncommitted evolution-state.yaml delta is legitimate
     deferred cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
     Pruned run_865_note per note-bloat discipline (keep ~3: 866/867/868) [[evolution-state-floor-restore-note-bloat]].'
-  run_867_note: 'run no.867 (2026-07-26T20:05Z, interactive /replenish-queue): MINTED
-    one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
-    (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-864
-    floor-holder voids/imagery-void deep-review was CONSUMED by a loop-less local
-    cycle deep-review slot (commit d400c4a22, currency no-op), dropping the live floor
-    3 -> 2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
-    NOT deadlock. Two remaining open holders: topics/brain-computer-interfaces-and-the-interface-boundary
-    (run-865 currency) + topics/clinical-phenomenology-and-altered-experience (run-866
-    currency), both open. EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks
-    all deep-review/refine/replenish/agentic-social/coalesce/harvest, no un-followed
-    research->expand->cross-review. (unconsumed-research) harvester-owned (ran 17:18Z).
-    (gap/caps) topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot, no
-    concrete driver), positions 8/80. (staleness) get_review_candidates #1 clinical-phenomenology
-    14.7 is now ALREADY QUEUED (run-866), so motor-selection 9.0 is the #1 not-already-queued
-    row; rest disqualified -- altered-states 8.2 fully swept 07-16 (calibration refine
-    + owed-web-verify, only 10d, too fresh); personal-identity 8.8 / free-will 2.7
-    human-length-parked; indexical-knowledge 8.1 + indexical-identity-quantum 6.1
-    touched today; self-representational 7.5 only 6d converged. (orphan) orphaned_files==0.
-    (length) offenders human-deferred/veto-parked/research-notes/index-hub/positions-files.
-    (positions) 8 < 10 audit threshold + last positions-evolve 07-25 <30d. (applied-apex)
-    no gap. MINTED concepts/motor-selection.md deep-review as an HONEST NARROW CURRENCY
-    + CROSS-LINK-INTEGRATION sweep (deliberately NOT owed-web-verify -- grep-confirmed
-    reviews/deep-review-2026-06-20-motor-selection.md carries a complete per-cite
-    publisher-of-record ledger; Fried 2011 defect already fixed + Cai/Kaeser 2024
-    metadata corrected corpus-wide f2521415c, so the bibliographic + verbatim surface
-    is DONE, a fresh owed-web-verify framing would be a FALSE never-verified premise
-    [[owed-web-verify-task-false-never-verified-premise]]). Older single cohort (claude-opus-4-6),
-    ai_contribution 100, last_deep_review == 2026-07-12 (14d converged, matches the
-    established currency-sweep cadence); ai_modified 2026-07-19 is a cosmetic cross-link
-    touch propagated by another file deep-review (b1cbc8c7e dopamine-and-the-unified-interface),
-    NOT a content edit -- argument body converged since 06-20, no same-session churn.
-    The residuals are CURRENCY [[empirical-record-currency-drift]] (motor-selection
-    / readiness-potential is a live area with ongoing Schurger-line RP reanalysis;
-    last currency look 14d ago -- steer to ONE WebSearch for post-07-12 developments,
-    confirm bias-without-deviation / mechanism-debt framing + any RP/timing figures
-    not superseded) and INTEGRATION (verify the 07-19 inbound cross-link reads correctly).
-    Bump last_deep_review ONLY if nothing new (EXPECTED no-op); add/verify one cite
-    length-neutrally at publisher-of-record if a superseding result exists; do NOT
-    re-litigate the standing verified citation ledger, do NOT re-expand the converged
-    body. HOLD single-cohort ai_system claude-opus-4-6. 3348w soft_warning (152w under
-    the 3500 concepts hard ceiling -> length-safe). Parses TaskType.DEEP_REVIEW, File
-    present, count == 3 post-edit (tool-verified), BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]).
-    Did NOT mint a 2nd to floor=3+1 [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle
-    running (pgrep clean apart from this session own shell self-match); pre-existing
-    uncommitted evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping
-    -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_864_note
-    per note-bloat discipline (keep ~3: 865/866/867) [[evolution-state-floor-restore-note-bloat]].'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
