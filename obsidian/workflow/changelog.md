@@ -5,6 +5,17 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T04:39:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (slug gemini-2-5-pro)
+- **File**: [[reviews/outer-review-2026-07-26-gemini-2-5-pro]]
+- **Subject**: topics/quantum-immortality-and-the-quantum-suicide-survival-argument (recent-aged fallback; same subject as the same-cycle ChatGPT + Claude reviews — third of the 2026-07-26 triple)
+- **Verdict**: "Entirely unready for academic submission" (hostile-referee framing)
+- **Claims verified**: 5 cited sources checked — Ruyant 2025 *Noûs* 59(1):140–159 and Greene "We Will All Live Forever" (AJP forthcoming) confirmed real via WebSearch; Wilson 2020 QMR (OUP), Donadi et al. 2021 (*Nature Physics*), and O'Brien 2025 (*Synthese*, already the article's own ref 7) established. NO fabricated citations. Two headline charges FALSIFIED against the live article: "omits mortalism" (article engages Wallace/Carroll/Papineau at L54/L63) and "smuggles unargued identity assumptions" (article flags the non-deflationary-I dependency at L71).
+- **High-value findings**: three genuinely untreated NON-collapse competing frameworks — Quantum Modal Realism / counterpart theory (Wilson 2020), big-world/infinite-cosmology immortality under Parfitian identity (Greene forthcoming), formal anthropic self-location (Ruyant 2025); plus a collapse-notion disambiguation (reviewer's Donadi/DP-falsification point is a category error — the Map's collapse is consciousness-caused, not spontaneous-localization — but the article's bare "objective collapse" invites the physical reading).
+- **Tasks generated**: 1 (P2 refine-draft, direct-refutation remit; scoped to Gemini's DISTINCT findings only — citation/superlative/caring-measure findings already covered by same-date ChatGPT/Claude tasks)
+- **Convergent**: third reviewer of the 2026-07-26 triple; /combine-outer-reviews now eligible to fire for this cycle
+
 ## 2026-07-26T04:17:59+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5 (slug claude-opus-5)
