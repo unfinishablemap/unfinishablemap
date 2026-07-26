@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T18:19:56.146464+00:00'
-session_count: 17365
+last_updated: '2026-07-26T18:26:56.602077+00:00'
+session_count: 17366
 cycle_position: 11795
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T17:36:00.471665+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T18:10:45.441083+00:00'
+  replenish-queue: '2026-07-26T18:26:56.602077+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1133,45 +1133,45 @@ queue_status:
   replenishment_source_counts:
     staleness: 1
   run_863_note: 'run no.863 (2026-07-26T18:25Z, interactive /replenish-queue): MINTED
-    one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2
-    pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The
-    run-862 floor-holder lucid-dreaming-and-dualist-rendering deep-review was CONSUMED
-    by a loop-less local cycle deep-review slot (commit 0d232002f = HEAD), dropping the
-    live floor 3 -> 2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
-    NOT deadlock. The two remaining floor-holders: voids/mutation-void deep-review (run-861)
-    + topics/embodied-consciousness deep-review (run-862, wrong-work Dreyfus), both open.
-    EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks all deep-review/refine/replenish/agentic-social/harvest,
-    no un-followed research->expand->cross-review. (unconsumed-research) harvester-owned.
-    (gap/caps) topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot, no concrete
-    driver), positions 8/80. (staleness) get_review_candidates top real-article scorers
-    all disqualified: embodied-cognition (16.0) refined TODAY 8d5f16101 = same-session +
-    concept sibling of open holder; clinical-phenomenology (14.7) already owed-web-verified
-    07-12 1a737873f; altered-states (8.2) owed-web-verified 1af4876b7 + swept 07-16;
-    indexical-identity-quantum-measurement (6.1) ai_modified TODAY = same-session churn;
-    personal-identity/free-will human-length-parked; self-representational-theory 6d
-    converged; single-cell-proto-agency refined today. Changed-since-review pool EXHAUSTED
-    -> owed-web-verify seam [[owed-web-verify-seam-deep-review-targeting]]. (orphan)
-    orphaned_files==0. (length) offenders human-deferred/veto-parked/research-notes/index-hub/positions-files.
+    one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks
+    == 2 pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by
+    1. The run-862 floor-holder lucid-dreaming-and-dualist-rendering deep-review was
+    CONSUMED by a loop-less local cycle deep-review slot (commit 0d232002f = HEAD),
+    dropping the live floor 3 -> 2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
+    NOT deadlock. The two remaining floor-holders: voids/mutation-void deep-review
+    (run-861) + topics/embodied-consciousness deep-review (run-862, wrong-work Dreyfus),
+    both open. EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks all
+    deep-review/refine/replenish/agentic-social/harvest, no un-followed research->expand->cross-review.
+    (unconsumed-research) harvester-owned. (gap/caps) topics 320/320 + voids 100/100
+    at cap, concepts 319/320 (1 slot, no concrete driver), positions 8/80. (staleness)
+    get_review_candidates top real-article scorers all disqualified: embodied-cognition
+    (16.0) refined TODAY 8d5f16101 = same-session + concept sibling of open holder;
+    clinical-phenomenology (14.7) already owed-web-verified 07-12 1a737873f; altered-states
+    (8.2) owed-web-verified 1af4876b7 + swept 07-16; indexical-identity-quantum-measurement
+    (6.1) ai_modified TODAY = same-session churn; personal-identity/free-will human-length-parked;
+    self-representational-theory 6d converged; single-cell-proto-agency refined today.
+    Changed-since-review pool EXHAUSTED -> owed-web-verify seam [[owed-web-verify-seam-deep-review-targeting]].
+    (orphan) orphaned_files==0. (length) offenders human-deferred/veto-parked/research-notes/index-hub/positions-files.
     (positions) 8 < 10 audit threshold + last positions-evolve 07-25 <30d. (applied-apex)
     no gap. MINTED topics/brain-specialness-boundary.md deep-review via the owed-web-verify
     lens: older cohort (claude-opus-4-5), last_deep_review 2026-06-22 (34d converged),
-    ai_modified 2026-06-19 (no same-session churn), 3828w soft_warning (172w under the
-    4000 topics hard ceiling -> length-SAFE). Fragile parapsychology citation apparatus
-    BROADENED by refine b3d07404f (Bösch 2006 Psych Bulletin 132(4) 497-523 + "380 RNG
-    studies", Maier 2018 Frontiers 9:379 "evidence against micro-PK", Jahn & Dunne 2005
-    JSE, Tegmark 2000 Phys Rev E, Georgiev 2015 IJMPB, Chalmers & McQueen 2022 OUP) plus
-    inline PEAR "1979-2007" / "effect sizes ~0.0001-0.001" stats -- "fresh refine cites"
-    = highest-yield owed-web-verify class; a Stapp misquote was already caught here
-    (0a29a3248) = DEMONSTRATED fragile surface; the 06-19 done-task fixed CLAIM OVERSTATEMENT
-    not bibliographic metadata (orthogonal [[quote-fidelity-defects-survive-metadata-reviews]]),
-    so publisher-verify is genuinely OWED. Steered verify-at-publisher-of-record / claim-reversal-check
-    / narrow-metadata-scope / length-neutral / no-op-if-clean / HOLD single-cohort ai_system.
-    Parses TaskType.DEEP_REVIEW, File present, count == 3 post-edit (tool-verified),
-    BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]). Did NOT mint a 2nd to floor=3+1
-    [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle running (pgrep clean);
-    pre-existing uncommitted evolution-state.yaml delta is legitimate deferred cycle_post
-    bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_860_note
-    per note-bloat discipline (keep ~3: 861/862/863) [[evolution-state-floor-restore-note-bloat]].'
+    ai_modified 2026-06-19 (no same-session churn), 3828w soft_warning (172w under
+    the 4000 topics hard ceiling -> length-SAFE). Fragile parapsychology citation
+    apparatus BROADENED by refine b3d07404f (Bösch 2006 Psych Bulletin 132(4) 497-523
+    + "380 RNG studies", Maier 2018 Frontiers 9:379 "evidence against micro-PK", Jahn
+    & Dunne 2005 JSE, Tegmark 2000 Phys Rev E, Georgiev 2015 IJMPB, Chalmers & McQueen
+    2022 OUP) plus inline PEAR "1979-2007" / "effect sizes ~0.0001-0.001" stats --
+    "fresh refine cites" = highest-yield owed-web-verify class; a Stapp misquote was
+    already caught here (0a29a3248) = DEMONSTRATED fragile surface; the 06-19 done-task
+    fixed CLAIM OVERSTATEMENT not bibliographic metadata (orthogonal [[quote-fidelity-defects-survive-metadata-reviews]]),
+    so publisher-verify is genuinely OWED. Steered verify-at-publisher-of-record /
+    claim-reversal-check / narrow-metadata-scope / length-neutral / no-op-if-clean
+    / HOLD single-cohort ai_system. Parses TaskType.DEEP_REVIEW, File present, count
+    == 3 post-edit (tool-verified), BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]).
+    Did NOT mint a 2nd to floor=3+1 [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle
+    running (pgrep clean); pre-existing uncommitted evolution-state.yaml delta is
+    legitimate deferred cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
+    Pruned run_860_note per note-bloat discipline (keep ~3: 861/862/863) [[evolution-state-floor-restore-note-bloat]].'
   run_862_note: 'run no.862 (2026-07-26T18:05Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
     (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-861
