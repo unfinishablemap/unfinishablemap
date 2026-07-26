@@ -5,6 +5,14 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T22:22:03+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/self-construction-constructor]]
+- **Changed sources**: 7 (staleness score 238, highest across apex; recomputed on true last-modified signal)
+- **Word count**: 3517 → 3811
+- **Summary**: Retrofitted the required Evidence and Dependency section; integrated two new self-cluster siblings ([[concepts/self-model-theory-of-subjectivity|Metzinger SMT]], [[topics/predictive-self-binding-and-the-naturalist-challenge|Letheby self-fictionalism]]) as cross-links reinforcing the evidential-status discipline; added both to apex_sources + Source Articles. Source edits themselves were near-no-op deep-reviews; the material change was new rivals entering the cluster.
+- **Review**: [[reviews/apex-evolve-2026-07-26-self-construction-constructor]]
+
 ## 2026-07-26T21:16:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-representational-theory-of-consciousness]]
