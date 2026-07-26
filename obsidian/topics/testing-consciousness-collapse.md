@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-07-08T09:13:51+00:00
+ai_modified: 2026-07-26T11:32:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,8 @@ related_articles:
   - "[[testability-ledger]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[brain-internal-born-rule-testing]]"
+  - "[[quantum-neural-timing-constraints]]"
+  - "[[neural-implementation-specifics]]"
   - "[[the-reverse-inference]]"
 ai_contribution: 100
 author:

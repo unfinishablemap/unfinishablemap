@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-25T16:45:57+00:00
+ai_modified: 2026-07-26T11:32:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
+  - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8

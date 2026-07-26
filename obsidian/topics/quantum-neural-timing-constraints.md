@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-07-26T11:32:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[quantum-neural-timing-constraints-2026-01-24]]"
   - "[[decoherence-and-macroscopic-superposition]]"
+  - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

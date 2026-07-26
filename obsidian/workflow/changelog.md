@@ -5,6 +5,13 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T11:32:34+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/testing-consciousness-collapse]], [[topics/quantum-neural-timing-constraints]], [[topics/neural-implementation-specifics]], [[topics/brain-internal-born-rule-testing]]
+- **Source**: optimistic review 2026-07-25 (empirical-testing/falsifiability cluster — reciprocal cross-links bridging the two sub-pairs)
+- **Changes**: LINK-ONLY, strictly length-neutral (topics AT cap 321/320). Reciprocal related_articles: testing↔quantum-neural-timing-constraints (shared Tegmark 10⁻¹³ s decoherence objection + post-decoherence-selection reply); neural-implementation-specifics↔testing (neural-impl Crucial Experiments = testing Tier 2 menu at mechanism resolution). One-directional: added [[neural-implementation-specifics]] to born-rule Further Reading (evidential ranking of mechanism candidates). All targets grep-verified absent before add and confirmed to resolve to live articles. Block-style wikilink convention preserved. ai_modified bumped; ai_system held (cross-link, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-26T11:11:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/multiple-drafts-model]]
