@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T14:21:28.328279+00:00'
-session_count: 17354
+last_updated: '2026-07-26T17:15:51.209029+00:00'
+session_count: 17355
 cycle_position: 11791
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T12:32:54.923093+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T14:08:40.835732+00:00'
+  replenish-queue: '2026-07-26T17:15:51.209029+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-26T12:04:38.789431+00:00'
+last_git_push: '2026-07-26T17:15:51.807394+00:00'
 last_tweet_date: '2026-07-26'
 content_stats:
   total_files: 297
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-26'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1164,26 +1164,26 @@ queue_status:
     ALL disqualified: multiple-drafts-model (26) + indexical-knowledge-and-identity
     (8.1) + single-cell-proto-agency (1.2) refined TODAY = same-session near-no-ops
     [[refine-then-condense-same-session-churn]]; self-representational-theory (7.5)
-    deep-reviewed 07-20 = 6d converged; personal-identity (8.8) + free-will (2.7) HUMAN-LENGTH-parked
-    / cosmetic-delta [[human-decision-task-mispicked-as-refine]]. Changed-since-review
-    pool EXHAUSTED -> owed-web-verify / quote-fidelity seam [[owed-web-verify-seam-deep-review-targeting]].
+    deep-reviewed 07-20 = 6d converged; personal-identity (8.8) + free-will (2.7)
+    HUMAN-LENGTH-parked / cosmetic-delta [[human-decision-task-mispicked-as-refine]].
+    Changed-since-review pool EXHAUSTED -> owed-web-verify / quote-fidelity seam [[owed-web-verify-seam-deep-review-targeting]].
     (orphan) orphaned_files==0. (length) all offenders human-deferred/veto-parked/research-notes/index-hub/positions-files.
     (positions) 8 < 10 audit threshold + last positions-evolve 07-25 <30d. (applied-apex)
-    no gap. MINTED topics/lucid-dreaming-and-dualist-rendering.md deep-review via the
-    owed-web-verify lens: older-cohort (opus-4-6, last_deep_review 2026-06-21 = 35d,
-    the OLDEST length-safe older-cohort converged article), citation-dense with named-theorist
-    verbatim quotes (Metzinger/Hobson/Voss/Baird/LaBerge/Dresler) + empirical dream-science
-    stats, and a DEMONSTRATED false-negative track record (a real Bilzer & Monzel 2025
-    -> "Fazekas et al." wrong-author propagation was caught in this exact dream cluster,
-    commit c6ebca1d9) = high verify yield; body 3292w = soft_warning, under topics
-    4000 hard so ZERO length-decision entanglement. Steered verbatim-verify-at-publisher
-    / empirical-fidelity / narrow-quote-scope / length-neutral / no-op-if-clean. Parses
-    TaskType.DEEP_REVIEW, File present, count == 3 post-edit (tool-verified), BOTTOM-inserted
-    (LIFO-defeat [[queue-lifo-starvation]]). Did NOT mint a 2nd to floor=3+1: a 3rd
-    near-no-op purely for the number is the make-work [[deep_review_over_reviews_converged]]
-    warns against. No evolve_loop/unfin-cycle running (pgrep clean) so no active stall;
-    pre-existing uncommitted evolution-state.yaml delta is legitimate deferred agentic-social
-    cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
+    no gap. MINTED topics/lucid-dreaming-and-dualist-rendering.md deep-review via
+    the owed-web-verify lens: older-cohort (opus-4-6, last_deep_review 2026-06-21
+    = 35d, the OLDEST length-safe older-cohort converged article), citation-dense
+    with named-theorist verbatim quotes (Metzinger/Hobson/Voss/Baird/LaBerge/Dresler)
+    + empirical dream-science stats, and a DEMONSTRATED false-negative track record
+    (a real Bilzer & Monzel 2025 -> "Fazekas et al." wrong-author propagation was
+    caught in this exact dream cluster, commit c6ebca1d9) = high verify yield; body
+    3292w = soft_warning, under topics 4000 hard so ZERO length-decision entanglement.
+    Steered verbatim-verify-at-publisher / empirical-fidelity / narrow-quote-scope
+    / length-neutral / no-op-if-clean. Parses TaskType.DEEP_REVIEW, File present,
+    count == 3 post-edit (tool-verified), BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]).
+    Did NOT mint a 2nd to floor=3+1: a 3rd near-no-op purely for the number is the
+    make-work [[deep_review_over_reviews_converged]] warns against. No evolve_loop/unfin-cycle
+    running (pgrep clean) so no active stall; pre-existing uncommitted evolution-state.yaml
+    delta is legitimate deferred agentic-social cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
     Pruned run_857_note per note-bloat discipline (keep ~3: 858/859/860) [[evolution-state-floor-restore-note-bloat]].'
   run_859_note: 'run no.859 (2026-07-26T14:05Z, interactive /replenish-queue): MINTED
     one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks
