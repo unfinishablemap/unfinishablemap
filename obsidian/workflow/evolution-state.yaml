@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T08:50:17.984221+00:00'
-session_count: 17312
+last_updated: '2026-07-26T09:13:08.755966+00:00'
+session_count: 17313
 cycle_position: 11774
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T07:50:36.144318+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T08:41:51.432394+00:00'
+  replenish-queue: '2026-07-26T09:13:08.755966+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1241,13 +1241,13 @@ queue_status:
     a holistic verify-the-refine-landed on a 3-refine integration is REAL work, not
     a redundant re-review (the distinguishing test). LENS = internal-coherence/verify-the-refine-landed
     on the 3-refine delta ONLY (do the recalibrations cohere + not re-harden softened
-    hedges; verify O''Brien/Greaves/Vaidman attributions in-context at publisher; constrain-vs-establish
-    check). SCOPE NARROW (pre-07-19 body + ledger converged, do NOT re-sweep). LENGTH
-    STRICTLY NEUTRAL (tight, ~89w under hard). DIVERSITY: 3rd topics/ holder (soft-diversity
-    compromise, exact-floor pool drained). HOLD ai_system claude-opus-4-8 (single,
-    do NOT flip to reviewer model, no [1m] artifact). BOTTOM-inserted (FIFO). Full
-    reasoning in the todo task Notes. Pruned run_844_note per note-bloat discipline
-    (keep ~3: 845/846/847).'
+    hedges; verify O''Brien/Greaves/Vaidman attributions in-context at publisher;
+    constrain-vs-establish check). SCOPE NARROW (pre-07-19 body + ledger converged,
+    do NOT re-sweep). LENGTH STRICTLY NEUTRAL (tight, ~89w under hard). DIVERSITY:
+    3rd topics/ holder (soft-diversity compromise, exact-floor pool drained). HOLD
+    ai_system claude-opus-4-8 (single, do NOT flip to reviewer model, no [1m] artifact).
+    BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_844_note
+    per note-bloat discipline (keep ~3: 845/846/847).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3

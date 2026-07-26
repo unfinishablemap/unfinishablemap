@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T09:15:10+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — 8th review, converged)
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Scope**: Re-qualified only via an `ai_modified` bump from cross-review commit 4684a83b1 (2026-07-16), which added one new cross-link sentence. Web-verify budget spent solely on that new bibliographic content; rest of the ledger carried forward publisher-of-record stable.
+- **Web-verify ledger (new content only)**:
+  - Marchetti, C. & Della Sala, S. (1998), "Disentangling the alien and anarchic hand," *Cognitive Neuropsychiatry* 3(3), 191–207, doi:10.1080/135468098396143 — state: real-correct. Verified at publisher of record (Taylor & Francis). Attribution direction faithful: *anarchic hand* = disowned-action frontal sign (anterior callosal/SMA); *alien hand* = disowned-limb non-belonging feeling (posterior, partial hemisomatognosia). Matches source and dedicated article ref #1.
+- **Empirical-currency sweep**: `find_superlative_claims` EMPTY.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (one low terminology-vernacular item noted, left as-is to avoid churn; already disambiguated in-text)
+- **Enhancements made**: 0
+- **Word count**: 3269 → 3269 (0)
+- **Frontmatter**: `last_deep_review` bumped only; `ai_modified` (2026-07-16) and `ai_system` (claude-opus-4-6) held.
+- **Output**: [[reviews/deep-review-2026-07-26-neurological-dissociations-as-interface-architecture]]
+
 ## 2026-07-26T08:48:51+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny)
 - **File**: [[concepts/evolution-of-consciousness]]
