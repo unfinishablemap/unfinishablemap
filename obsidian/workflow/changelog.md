@@ -5,6 +5,31 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T04:58:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Trigger**: Convergent outer reviews 2026-07-26 (ChatGPT 5.6 Pro + Claude Opus 5), synthesis [[reviews/outer-review-synthesis-2026-07-26]]. P1 citation/attribution/superlative bundle. (The "decisive"/dialectical-advantage recalibration + caring-measure engagement is a SEPARATE staged P1 task — left untouched here.)
+- **Primary-source verification (all at publisher, not via unfinishablemap.org echoes)**:
+  - O'Brien first name = **Mark William O'Brien** (Synthese 206:221; Springer/PhilPapers/PhilSci) — was "Matt". Fixed.
+  - Aranyosi, *Should We Fear Quantum Torment?* (*Ratio* 25(3), 2012, DOI 10.1111/j.1467-9329.2012.00540.x): argues a conclusion **"much more reassuring" than Lewis** — a CRITIC of the torment corollary, not a developer. Was absent from References + mischaracterized. Fixed + added.
+  - Papineau 2004 (AJP 82(1):153–169) **defends** the Everettian (Lewis's difficulties "insubstantial"); pre-measurement-uncertainty argument is **Peter J. Lewis (2007)**, SHPMP 38(1):1–14. Disentangled; Papineau inversion reversed; P. J. Lewis added.
+  - Squires, *The Mystery of the Quantum World* 1st ed. **1986**, predates Moravec 1988. "Earliest" priority softened; Squires added.
+  - Tegmark 1998 (arXiv:quant-ph/9709032): presents the experiment as a first-person discriminator ("you will experimentally convince yourself that the MWI is correct, but you can never convince anyone else"); **no** numbered three-condition list (conditions implicit in apparatus; perception timescale "say 10⁻² seconds"). Numbered list is post-1998 (c.2004 note / 2014 book). Provenance corrected.
+  - Tegmark "binary thing" quote: verified via Mallah arXiv:0902.0187 reproducing Tegmark's **c.2004 website note** — wording is **"dead or alive"** (article had it inverted to "alive or dead") and it is NOT from *Our Mathematical Universe* (2014). Composite/misattributed quote replaced with correctly-sourced verbatim clause + paraphrase.
+- **Changes**:
+  - "Almost no one, including its own architects" → calibrated immortalist/mortalist division (Tegmark vs Carroll/Wallace/Papineau).
+  - "mature retraction" of Tegmark → scope-restriction to ordinary deaths; states he remains an idealized-case immortalist (O'Brien 2025).
+  - Composite Tegmark quote corrected: "dead or alive", c.2004 website note (via Mallah 2009), not the 2014 book.
+  - Three-conditions provenance: 1998 embeds ingredients implicitly; explicit numbered list is post-1998.
+  - "The consensus among physicists and philosophers of physics" and "a conclusion almost everyone agrees is absurd" → calibrated "most … who engage it" claims.
+  - Aranyosi corrected to critic; Papineau inversion reversed; Peter J. Lewis (2007) attributed the pre-measurement-uncertainty argument; dropped unsupported "David Lewis's only work" biographical claim.
+  - Moravec "earliest" softened; Squires 1986 priority added; Marchal "structurally identical" → "computationally analogous".
+  - References: added Squires, Mallah, Peter J. Lewis, Aranyosi; Papineau page range 153–169; Tegmark quote re-sourced; Refs 8–9 (internal Map siblings) split out under an "Internal cross-links … not as independent support" heading.
+- **Engagement classification (Papineau, editor-internal)**: Mode Three (framework-boundary) — the fix is attributive, not a refutation of Papineau; his physicalist mortalism is reported as reaching the same no-continuing-self verdict from inside MWI.
+- **Length**: ~neutral (prose expansions offset by dropped biographical claim; +4 reference entries).
+- **Map conditional argument**: intact — no deletions of the dissolution move; corrections/qualifications only.
+- **Published**: yes
+
 ## 2026-07-26T04:51:22+00:00 - deep-review
 - **Status**: Success (CONVERGED NO-OP, ninth deep-review)
 - **File**: [[topics/qm-interpretations-beyond-many-worlds]]
