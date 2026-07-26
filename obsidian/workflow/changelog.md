@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T18:15:07+00:00 - deep-review
+- **Status**: Success (1 critical citation fix)
+- **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
+- **Word count**: 3292 → ~3305 (+13; added 2014 reference, length-neutral otherwise; soft_warning, under hard)
+- **Critical issues addressed**: 1 — verbatim quote cited to wrong work. The "innate virtual reality generator... generative or predictive model of the world" quote is verbatim from Hobson, Hong & Friston (2014) *Frontiers in Psychology* 5:1133 (confirmed at PMC4191565), NOT the cited Hobson (2009) *Nature Reviews Neuroscience* protoconsciousness paper. Re-attributed quote to 2014, added the reference, kept 2009 for the protoconsciousness theory it names. Survived 7 prior reviews (they verified 2009 is a real paper but never that the quote came from it). The article's own source research note already had the 2014 attribution — the error was introduced in synthesis.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction)
+- **Quote-verify ledger**: Hobson VR-generator — wrong-work (fixed → 2014); Revonsuo 2000 — real-correct; Baird 2019 — real-correct; Metzinger 2009 — real-correct (unchanged since prior web-verify)
+- **Slippage check**: applied diagnostic test; no possibility/probability slippage; 2026-05-29 calibration left intact (no re-tightening)
+- **Note**: 8th review; body unchanged since 06-21; re-review only because file passed explicitly. Highest-yield remaining channel (verbatim quote-fidelity at primary text) exhausted this pass.
+- **Output**: [[reviews/deep-review-2026-07-26-lucid-dreaming-and-dualist-rendering]]
+
 ## 2026-07-26T17:51:02+00:00 - deep-review
 - **Status**: Success (convergence confirmed, no-op)
 - **File**: [[concepts/relational-quantum-mechanics]]

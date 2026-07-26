@@ -4,7 +4,7 @@ description: "Lucid dreaming reveals that consciousness renders phenomenal world
 created: 2026-03-09
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-21T05:48:20+00:00
+ai_modified: 2026-07-26T18:15:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-06-21T05:48:20+00:00
+last_deep_review: 2026-07-26T18:15:07+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-as-capability-evidence/"
   - "/topics/lucid-dreaming-and-mind-side-rendering/"
@@ -57,7 +57,7 @@ Leading physicalist dream researchers — Hobson, Metzinger, Revonsuo — conver
 
 Three influential research programmes converge on the same phenomenological claim while drawing physicalist conclusions.
 
-Hobson's protoconsciousness theory holds that "the brain is genetically endowed with an innate virtual reality generator that — through experience-dependent plasticity — becomes a generative or predictive model of the world" (Hobson, 2009). Dreaming maintains the brain's readiness for adaptive interaction by running the world-model offline.
+Hobson's active-inference account of dreaming holds that "the brain is genetically endowed with an innate virtual reality generator that — through experience-dependent plasticity — becomes a generative or predictive model of the world" (Hobson, Hong, & Friston, 2014). On his earlier protoconsciousness theory (Hobson, 2009), dreaming maintains the brain's readiness for adaptive interaction by running the world-model offline.
 
 Metzinger takes the point further: "What we call waking life is a form of online dreaming" (Metzinger, 2009). Waking perception differs from dreaming only by being constrained by sensory feedback. The underlying process — consciousness constructing a model of reality — is the same in both states.
 
@@ -161,6 +161,7 @@ The Konkoly et al. (2026) study adds further pressure. In a small but suggestive
 1. Baird, B., Mota-Rolim, S. A., & Dresler, M. (2019). The cognitive neuroscience of lucid dreaming. *Neuroscience & Biobehavioral Reviews*, 100, 305-323.
 1. Bilzer, M., & Monzel, M. (2025). The phenomenology of offline perception: Multisensory profiles of voluntary mental imagery and dream imagery. *Vision*, 9(2), 37.
 1. Hobson, J. A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.
+1. Hobson, J. A., Hong, C. C.-H., & Friston, K. J. (2014). Virtual reality and consciousness inference in dreaming. *Frontiers in Psychology*, 5, 1133.
 1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
 1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 1. Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. Basic Books.
