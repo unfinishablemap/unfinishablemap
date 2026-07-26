@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T19:23:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Word count**: 3597 → 3494 (−103)
+- **Critical issues addressed**: 0 (the two critical-type items from today's pessimistic review were already remediated by refine-draft `8d5f16101`; verified landed)
+- **Medium issues addressed**: 1 (criterion-1 internal tension — the one pessimistic-review "Counterargument to Address" the refine-draft did not touch)
+- **Enhancements made**: 1 (criterion-1 rewritten to "Phenomenological categories prove dispensable" — concedes predictive parity is not the falsifier, relocates it to eliminability; resolves the tension with the choking concession at L103)
+- **Length**: over-ceiling on entry (refine-draft `8d5f16101` inflated 3498→3597, 97 over the 3500 concepts HARD ceiling); §4.5 condensation applied → 3494 (6 under). Cut redundancy only (withdrawal/re-engagement dynamic was stated 5×; grounding paragraph + "Amplification Connection" carried the reversible bloat). No calibration hedge stripped.
+- **§2.4 web-verify**: one changed ref web-verified — Dreyfus & Dreyfus (1986) *Mind over Machine* confirmed as the source of the five-stage skill model (refine-draft's fix from the mis-cited *What Computers Still Can't Do* 1992 is correct). All other cites carried forward from the 06-24/06-22 verified ledgers. No superlatives; no inline↔ref orphans.
+- **Engagement modes (editor-internal)**: Baumeister/Beilock choking Mode Three; Nāgārjuna Mode One+Three (mixed). No label leakage, no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-07-26-embodied-cognition]]
+
 ## 2026-07-26T18:54:52+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — converged, re-passed explicitly ~9.5h after today's 09:25 delta-verify)
 - **File**: [[topics/embodied-consciousness]]
