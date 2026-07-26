@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T19:28:53.537729+00:00'
-session_count: 17374
+last_updated: '2026-07-26T19:37:54.773880+00:00'
+session_count: 17375
 cycle_position: 11800
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T17:36:00.471665+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T19:34:00+00:00'
+  replenish-queue: '2026-07-26T19:37:54.773880+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-26'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1139,11 +1139,12 @@ queue_status:
     dropping the live floor 3 -> 2 -- documented replenish-at-floor alternation [[unfin_loop_steady_state]],
     NOT deadlock. Two remaining open holders: voids/imagery-void (run-864 currency)
     + topics/brain-computer-interfaces-and-the-interface-boundary (run-865 currency),
-    both open. EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks all deep-review/refine/replenish/agentic-social/harvest/check-model-fallback,
-    no un-followed research->expand->cross-review. (unconsumed-research) harvester-owned
-    (ran 17:18Z). (gap/caps) topics 320/320 + voids 100/100 at cap, concepts 319/320
-    (1 slot, no concrete driver), positions 8/80. (staleness) the two genuinely-old
-    length-safe rows are ALREADY QUEUED (imagery-void 06-20 run-864; brain-computer-interfaces
+    both open. EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks all
+    deep-review/refine/replenish/agentic-social/harvest/check-model-fallback, no un-followed
+    research->expand->cross-review. (unconsumed-research) harvester-owned (ran 17:18Z).
+    (gap/caps) topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot, no
+    concrete driver), positions 8/80. (staleness) the two genuinely-old length-safe
+    rows are ALREADY QUEUED (imagery-void 06-20 run-864; brain-computer-interfaces
     06-19 run-865); of the rest, clinical-phenomenology 14.7 is the #1 not-already-queued
     topic/concept; motor-selection 9.0 has a COMPLETE publisher ledger (do NOT re-mint
     owed-web-verify [[owed-web-verify-task-false-never-verified-premise]]); altered-states
@@ -1159,22 +1160,23 @@ queue_status:
     ai_contribution 100, last_deep_review == 2026-07-12 (14d converged), ai_modified
     2026-07-16 (only a cosmetic anarchic-hand cross-link since 4684a83b1 -- no same-session
     churn). FRESHER pick than the 34-37d run-863/864/865 cohort -- flagged honestly:
-    the older-cohort pool is DRAINED (its two members ARE the current run-864/865 holders),
-    so #1-not-already-queued is the honest floor-restorer [[deep_review_over_reviews_converged]].
+    the older-cohort pool is DRAINED (its two members ARE the current run-864/865
+    holders), so #1-not-already-queued is the honest floor-restorer [[deep_review_over_reviews_converged]].
     3521w soft_warning (479w under the 4000 topics hard ceiling -> length-safe). The
     ONE genuine residual is CURRENCY [[empirical-record-currency-drift]]: clinical
     phenomenology of altered experience (ipseity disturbance / DPDR / psychosis-onset)
     is a live 2024-2026 research area, last currency look 14d ago -- steered to ONE
     WebSearch for post-07-12 developments, bump last_deep_review ONLY if nothing new
-    (EXPECTED no-op), add/verify one cite length-neutrally at publisher-of-record if
-    a superseding result exists; do NOT re-litigate the standing verified citation/verbatim
+    (EXPECTED no-op), add/verify one cite length-neutrally at publisher-of-record
+    if a superseding result exists; do NOT re-litigate the standing verified citation/verbatim
     ledger, do NOT re-expand the converged body. HOLD single-cohort ai_system claude-opus-4-6.
     Parses TaskType.DEEP_REVIEW, File present, count == 3 post-edit (tool-verified),
-    BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]). Did NOT mint a 2nd to floor=3+1
-    [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle running (pgrep
-    clean apart from this session own shell self-match); pre-existing uncommitted evolution-state.yaml
-    delta is legitimate deferred cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
-    Pruned run_863_note per note-bloat discipline (keep ~3: 864/865/866) [[evolution-state-floor-restore-note-bloat]].'
+    BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]). Did NOT mint a 2nd to
+    floor=3+1 [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle running
+    (pgrep clean apart from this session own shell self-match); pre-existing uncommitted
+    evolution-state.yaml delta is legitimate deferred cycle_post bookkeeping -- KEPT
+    [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_863_note per note-bloat
+    discipline (keep ~3: 864/865/866) [[evolution-state-floor-restore-note-bloat]].'
   run_865_note: 'run no.865 (2026-07-26T19:08Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
     (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-862
