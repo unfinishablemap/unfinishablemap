@@ -4,7 +4,7 @@ description: "A human-AI examination of the quantum-suicide reductio: why the im
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-26T09:50:00+00:00
+ai_modified: 2026-07-26T12:06:11+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -18,6 +18,7 @@ related_articles:
   - "[[probability-problem-in-many-worlds]]"
   - "[[personal-identity]]"
   - "[[haecceity]]"
+  - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8

@@ -5,6 +5,13 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T12:06:11+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/indexical-identity-quantum-measurement]], [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Source**: optimistic review 2026-07-26 (reciprocal cross-link)
+- **Changes**: LINK-ONLY, strictly length-neutral. related_articles (block-style, frontmatter only): indexical-identity-quantum-measurement ← added [[quantum-immortality-and-the-quantum-suicide-survival-argument]]; quantum-immortality-and-the-quantum-suicide-survival-argument ← added reciprocal [[indexical-identity-quantum-measurement]]. Quantum-immortality is at a tight ~3901w ceiling, so frontmatter-only edit — no prose touched. Both links grep-verified absent before add; both targets confirmed resolving to live articles. ai_modified bumped on both; ai_system held (cross-link, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-26T11:45:36+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/single-cell-proto-agency-and-the-evidence-problem]], [[concepts/standing-agnostic-challenge]]

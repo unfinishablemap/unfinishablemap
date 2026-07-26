@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-07-26T06:19:34+00:00
+ai_modified: 2026-07-26T12:06:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
+  - "[[quantum-immortality-and-the-quantum-suicide-survival-argument]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
