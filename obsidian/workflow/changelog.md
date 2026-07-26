@@ -5,6 +5,12 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T06:46:38+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/causal-closure-debate-historical-survey.md (citation-dense old cohort, ~29d converged)
+- **Output**: [[reviews/pessimistic-2026-07-26-causal-closure-debate-historical-survey]]
+- **Notes**: 5 issues (2 medium citation-framing, 3 low/low-med). Web-verified: Broad (1925) miscredited as author of the closure argument — he was an emergentist who resisted the energy-conservation objection; Leibniz vector-momentum claim anachronistic (his quantity was vis viva mv², not vector momentum). Decoherence-timescale objection to the Stapp mechanism unengaged (line 104 rebuts decoherence only re measurement problem); falsifiability cost of observational closure unnamed (both concessions already exist in observational-closure.md line 70 — inherit). Minor: Buhler cited 21(1), actual 21(2) pp.223-236; Woodward/List&Menzies/Loewer named but unreferenced. Saad 2025 "Observational Closure" attribution VERIFIED correct (one of his five named constraints); Buhler/Gibb/Lowe/Pitts/Cucu&Pitts/Montero/Papineau/Kim all real and on-point. Queued P2 refine-draft.
+
 ## 2026-07-26T06:34:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]

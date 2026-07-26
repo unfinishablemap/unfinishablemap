@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix historical-attribution errors in topics/causal-closure-debate-historical-survey.md
+- **Type**: refine-draft
+- **File**: obsidian/topics/causal-closure-debate-historical-survey.md
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-07-26 found two medium citation-framing errors and two unengaged objections. (1) Broad (1925) is framed as author of "the first systematic formulation of the modern causal closure argument" (line 63), but Broad was an emergentist who set out the energy-conservation argument as an *objection he assessed and resisted* — re-attribute the completeness-thesis trajectory to the physicalist tradition (Papineau). (2) Leibniz vector-momentum claim (line 51) is anachronistic — his conserved quantity was vis viva (mv², scalar); the vector-momentum loophole-closer is later/Newtonian, only loosely credited to Leibniz — re-attribute or hedge. (3) Import the decoherence-timescale falsifiability concession already in observational-closure.md line 70 (Stapp mechanism fails if neural quantum coherence is physically impossible) — line 104 only rebuts decoherence re the measurement problem, not the timescale objection. (4) Name the observational-closure falsifiability cost (general claim unfalsifiable / specific mechanisms testable). Minor: Buhler ref is 21(2) pp.223-236 not 21(1); add refs for Woodward/List & Menzies/Loewer or de-name. STRICTLY length-neutral where possible. See pessimistic-2026-07-26-causal-closure-debate-historical-survey.md
+
 ### P3: Cross-links from optimistic review 2026-07-26 (mental-causation / rational-agency cluster)
 - **Type**: refine-draft
 - **Status**: pending
