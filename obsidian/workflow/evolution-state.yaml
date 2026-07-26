@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T08:27:32.764210+00:00'
-session_count: 17308
-cycle_position: 11772
+last_updated: '2026-07-26T08:34:27.084424+00:00'
+session_count: 17309
+cycle_position: 11773
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T06:52:57.103734+00:00'
   optimistic-review: '2026-07-26T08:27:32.764210+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T08:07:07.326272+00:00'
+  deep-review: '2026-07-26T08:34:27.084424+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T02:49:18.162073+00:00'
@@ -105,10 +105,6 @@ recent_tasks:
   type: deep-review
   date: '2026-07-26'
   outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1140,9 +1140,9 @@ queue_status:
   p3_tasks: 7
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T08:20:43+00:00'
-  last_replenishment_prev: '2026-07-26T07:56:08+00:00'
-  last_replenishment_run: 845
+  last_replenishment: '2026-07-26T08:39:54+00:00'
+  last_replenishment_prev: '2026-07-26T08:20:43+00:00'
+  last_replenishment_run: 846
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
@@ -1172,49 +1172,37 @@ queue_status:
     (single, no [1m] artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO).
     Section-diverse (topics/ vs both concepts/ holders). Full reasoning in the todo
     task Notes. Pruned run_842_note per note-bloat discipline (keep ~3: 843/844/845).'
-  run_843_note: 'run no.843 (2026-07-26T07:25Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint concepts/quantum-consciousness.md.
-    Pre-write count_p0_p2_tasks(load_todo()) == 2 (tool-run, LIVE on disk; state snapshot
-    p2_tasks:3 was stale -- the run-841 machine-question holder drained via a loop-less
-    local deep-review slot, commit c885cb12f = HEAD auto(deep-review) machine-question,
-    now checkmark in Completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
-    w/ Type+File). Floor MIN_QUEUE_TASKS==3. Holders: P2 quantum-immortality (Gemini
-    outer-review refine-draft) + P2 machine-consciousness (sonnet-4-5, run-842). No
-    evolve_loop/unfin-cycle (ps -eo pid,cmd grep clean); HEAD c885cb12f; only uncommitted
-    delta the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source
-    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
-    voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already
-    queued P3 (quantum-consciousness ITSELF has the L240 P3 BLOCKED human-length-decision
-    -- this deep-review is length-NEUTRAL and mints no new length task); positions
-    8<10 audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex
-    gap. POOL STATE: length-safe genuine-delta pool EXHAUSTED -- higher scorers are
-    index/register pages (apex-articles, positions/*) or no-op/churn: causal-closure
-    (23.20) refined 10min pre-run (dde3a3cf9, stale-ldr artifact = same-session churn),
-    open-individualism=embed-videos no-op, personal-identity+simple-organisms=single
-    cross-link wikilinks, indexical-knowledge refined TODAY 05:23 in the quantum-immortality
-    sweep. Source 4 TARGET: quantum-consciousness (claude-opus-4-5-20251101 single,
-    concepts, scorer 6.55, hard_warning 3579w / ~79w over 3500, well under 5000 critical,
-    ldr 2026-07-07T09:54). GENUINE delta: commit 860e5b95a (2026-07-22, refine outer-review
-    2026-07-20 Gemini) added engagement with the UV-vs-mechanical timescale objection
-    to Babcock et al. 2024 tryptophan-network UV superradiance -- NEW cite + empirical
-    frequency claims (~10^15 Hz optical vs kHz-GHz mechanical; "suggestive precedent
-    not a demonstration") -- plus 121afe48c (07-12 Denton 2024 cryptochrome quantum-Zeno
-    currency cite); the 07-14 cluster cross-review 96e337831 PREDATES the Babcock
-    refine and never scrutinised it, ldr still 07-07. LENS = CITATION-FIDELITY (verify
-    Babcock 2024 + Denton 2024 at publisher, NOT via Map echo; Denton framed MODELLED
-    not first/experimental) + EMPIRICAL/CLAIM-FIDELITY (paraphrase matches Babcock
-    finding) + CLAIM-FRAMING (preserve the optical-not-mechanical calibration; do
-    NOT re-harden either way; watch quantum-binding-Baum classical-impossibility overclaim
-    pattern). SCOPE NARROW: verify ONLY the 860e5b95a + 121afe48c deltas + immediate
-    paragraphs; do NOT re-sweep the converged article or its reference ledger. LENGTH
-    STRICTLY NEUTRAL (over-hard ~79w): trim-or-hold, never breach; do NOT auto-condense
-    -- over-length is the SEPARATE standing L240 P3 human decision. DIVERSITY: quantum-biology-mechanism/Tenet-2
-    cluster DISTINCT from both holders (quantum-immortality=qm-foundations/identity;
-    machine-consciousness=substrate-independence); concepts/ SECTION-distinct from
-    both topics/ holders -- strictly good spread. HOLD ai_system claude-opus-4-5-20251101
-    (single, do NOT flip to reviewer model, no [1m] artifact). BOTTOM-inserted (FIFO).
-    Full reasoning in the todo task Notes. Pruned run_840_note per note-bloat discipline
-    (keep ~3: 841/842/843).'
+  run_846_note: 'run no.846 (2026-07-26T08:39Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint topics/neurological-dissociations-as-interface-architecture.md.
+    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write
+    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
+    The run-845 embodied-consciousness mint reached 3 but the quantum-consciousness
+    holder (run-843) drained via a deep-review slot since, so live floor fell to 2
+    -- documented replenish-at-floor alternation, not the fixed deadlock. Holders:
+    P2 evolution-of-consciousness (run-844) + P2 embodied-consciousness (run-845).
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
+    319/320, voids 100/100, positions 8/80); orphaned_files=0; length has NO safe candidate
+    (born-rule/synesthetic-void human-deferred, epistemology-of-convergence accept-as-survey,
+    rest research/index/register); positions 8<10 audit threshold + last positions-evolve
+    2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET validated vs get_review_candidates
+    (this file #1-scored at 9.03, NOT one of the two queued holders). Single ai_system
+    claude-opus-4-6 (OLDER cohort), topics, soft_warning 3269w / ~731w UNDER 4000 hard
+    -- length-SAFE; ldr 2026-07-12T08:16, ai_modified 2026-07-16T12:07. GENUINE delta:
+    commit 4684a83b1 (auto deep-review cross-review of anarchic-hand-and-action-ownership)
+    added a sourced anarchic-vs-alien-hand terminological sentence attributed to "Marchetti
+    and Della Sala''s now-standard distinction" -- a citation-bearing claim added AFTER
+    the 07-12 review and never deep-verified (more than a bare cross-link wikilink).
+    NOT same-session churn (last touch 07-16, git --since 2026-07-26T00:00 EMPTY).
+    LENS = citation/claim-framing fidelity on the delta only (verify Marchetti & Della
+    Sala 1998 at publisher; confirm the added line does not upgrade FND clinical evidence
+    into an establishing dualism argument; confirm anarchic/alien terminology now consistent
+    across the two articles). SCOPE NARROW (25-cite ledger already web-checked 07-12
+    commit 6516e03bd -- do NOT re-sweep). LENGTH STRICTLY NEUTRAL. DIVERSITY: clinical-dissociation/FND/interface-architecture
+    cluster distinct from both holders (evolution-of-consciousness=concepts/emergence;
+    embodied-consciousness=topics/proprioception); cohort opus-4-6 distinct. HOLD ai_system
+    claude-opus-4-6 (single, do NOT flip to reviewer model, no [1m] artifact). BOTTOM-inserted
+    (FIFO). Full reasoning in the todo task Notes. Pruned run_843_note per note-bloat
+    discipline (keep ~3: 844/845/846).'
   run_844_note: 'run no.844 (2026-07-26T07:56Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/evolution-of-consciousness.md.
     Pre-write count_p0_p2_tasks == 2 (tool-run, LIVE on disk; state snapshot p2_tasks:3
