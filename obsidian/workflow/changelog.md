@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T06:04:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/haecceity]]
+- **Word count**: 2748 → 2748 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Tenth deep review; converged. Sole delta since the ninth review (2026-07-06) was refine-draft `b437b23e7`'s single-sentence calibration fix — evaluated this pass and confirmed a net improvement (relativises an over-strong objective-adequacy claim to the Map's primitive-subject standard; a tenet-accepting reviewer would not flag the revised claim). Integrity sweeps (label-leakage, EOF-artifact, `[[n,k,d]]` collision, `ai_system` `[1m]`) all clean. §2.4 web-verify legitimately skipped: References block byte-identical to the fully-verified 2026-06-02 ledger. No superlative claims. Only `last_deep_review` bumped; `ai_modified` + dual `ai_system` left as set by refine-draft (no content edit this pass). Engagement modes: Wallace/Greaves Mode Two, Tallis illusionism Mode Two, anti-haecceitism parsimony Mode Three — no boundary-substitution. Recommend continued deprioritisation.
+- **Output**: [[reviews/deep-review-2026-07-26-haecceity]]
+
 ## 2026-07-26T05:31:14+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/haecceity]]
