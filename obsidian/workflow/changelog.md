@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T13:33:01+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Word count**: 4270 → 4270 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: NARROW fresh-eyes citation spot-check (07-11 already ran a full publisher-verify ledger + caught the Bhattacharjee→Hanson wrong-author defect; do not re-verify whole ledger). Spot-checked 4 highest-risk specialist biology cites at publisher of record for a lurking Hanson-class false-negative (wrong-first-author / dropped-words / currency-drift): Becerra et al. 2023 (IJPR 16(2), 87-104), Chittka et al. 2025 (Phil Trans R Soc B 380(1939), rstb.2024.0302), Godfrey-Smith 2024 (JOCN 36(8), 1660-1666), Sims 2024 (CUP *Slime Mould and Philosophy*) — all real-correct. No defect. Length held strictly neutral (article over the 4000 topics hard ceiling but that is a separate concern, not resolved here). No-op: last_deep_review bumped only; ai_modified (2026-07-19) + ai_system (single opus-4-7) held.
+- **Output**: [[reviews/deep-review-2026-07-26-consciousness-in-simple-organisms]]
+
 ## 2026-07-26T13:17:16+00:00 - deep-review
 - **Status**: Success (no-op / converged)
 - **File**: [[concepts/quantum-probability-consciousness]]
