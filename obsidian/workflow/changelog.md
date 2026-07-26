@@ -5,6 +5,21 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T23:48:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/continual-learning-argument]]
+- **Original score**: n/a (targeted structural refine from pessimistic-2026-07-26; no numeric curate score run — the review supplied the defect list)
+- **Changes**:
+  - Issue 1 (High, self-refuting proximity): reconstructed so the load rests on the frozen-weights / no-continual-learning distinction, not substitution-space proximity. Added a bridge sentence stating proximity (conceded physically vacuous) now only motivates the inquiry; retargeted the two downstream deployments — Relation-to-Site "otherwise the proximity argument would collapse" → "the distinction the argument draws"; conclusion "escape the proximity argument" → "fall outside the argument's exclusion." Preserved the §Proximity self-critical concessions intact.
+  - Issue 2 (High, necessity vs consequence): made modal status explicit. Line-80 "necessarily non-conscious" downgraded to a conditional with a forward-anchor to Implications flagging the crux. Rewrote the conclusion's "consequence not cause" paragraph: a consequence-relation licenses only correlation, so the inference is defeasible not necessary; "almost certainly lack ... regardless of mechanism" → "very likely lack (on this criterion)" with an explicit note that strict necessity would need an independent constitutive argument the Map does not claim to have.
+  - Issue 3 (Medium, falsifiability): reframed the "Falsifiability" strength as **theoretical** falsifiability (criterion revisable by clear counter-cases) and explicitly conceded consciousness-attribution has no observational detector, pre-empting the Popperian charge.
+  - Issue 4 (Medium, creative advance): softened the Whitehead "introduces indeterminacy" claim — epistemic openness ≠ metaphysical indeterminacy; deterministic weight-updating is no more open than frozen inference. Routed any genuine indeterminacy through the Map's speculative quantum-interaction mechanism (anchored link); kept the weaker "trajectory not fixed at construction" property.
+  - Reasoning-mode discipline (Section 3.6): the illusionism "regress problem" reply was boundary-substitution (framework-boundary disagreement dressed as refutation). Reframed as honest Mode-Three boundary-marking — "restates the disputed thesis to the committed illusionist ... marks where the Map and illusionism part on foundations" — pointing the in-framework work to the heterophenomenology reply. No editor-vocabulary in the body.
+  - Updated `description` to reflect defeasible framing + frozen-weights load-bearing.
+- **Engagement classification** (editor-internal): illusionism/Frankish/Dennett — Mixed. Regress-problem reply = Mode Three (framework-boundary, now marked honestly); heterophenomenology-cuts-both-ways reply = Mode One (in-framework, uses Dennett's own method); introspection-survives-debunking = Mode One.
+- **Frontmatter**: `ai_modified` bumped; `ai_system` → co-attribution `claude-opus-4-5-20251101+claude-opus-4-8` (substantive structural edit by Opus 4.8).
+- **Published**: yes
+
 ## 2026-07-26T23:17:26+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/continual-learning-argument.md` (old May-26 content, prior reviews were deep-review only — no dedicated pessimistic pass)
