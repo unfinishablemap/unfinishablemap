@@ -5,6 +5,28 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T05:09:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Trigger**: Convergent outer reviews 2026-07-26 (3/3: ChatGPT 5.6 Pro + Claude Opus 5 + Gemini 2.5 Pro), synthesis [[reviews/outer-review-synthesis-2026-07-26]]. Structural/argumentative-layer P1 (staged AFTER the already-landed P1 citation-fix). Companion to that citation bundle; this pass carries the "decisive"/dialectical-advantage recalibration + caring-measure engagement.
+- **Primary-source verification (at publisher before citing)**:
+  - Greaves, H. (2004), *Understanding Deutsch's probability in a deterministic multiverse*, SHPMP 35(3):423–456, arXiv:quant-ph/0312136 — verified (PhilSci/PhilPapers/Semantic Scholar). Origin of the caring-coefficients account ("everything needed from probability without recourse to indeterminism, ignorance, primitive identity over time or subjective uncertainty"). Added + engaged.
+  - Vaidman, L. (1996), *On Schizophrenic Experiences of the Neutron…*, arXiv:quant-ph/9609006 (pub. 1998, *Int. Studies in the Philosophy of Science* 12(3):245–261) — verified at arXiv; introduces the "measure of existence of a world". The article's "decisive" measure objection now ATTRIBUTED to Vaidman.
+  - Sebens & Carroll 2018 (BJPS 69(1):25–74) and Friederich & Dawid 2022 (BJPS 73(3):711–721) reused from the publisher-verified sibling [[probability-problem-in-many-worlds]] refs; Wallace 2012 (*The Emergent Multiverse*, OUP) likewise.
+- **Changes (map to synthesis findings a–f)**:
+  - (a) "the decisive objection" (lead + measure §) → "decisive only conditional on Born-weighted anticipation"; named the disputed bridge premise (whether first-person anticipation must be Born-weighted vs conditioned on there-being-a-future-experience); resolved the internal inconsistency with the "probability programme unresolved" admission. Matches sibling calibration.
+  - (b) "sidesteps the measure problem entirely" → narrowed to the Everettian branch-self-location version; added GRW/CSL retain own stochastic law + probability measure, are NOT empirically equivalent to unitary QM, and face the tails problem.
+  - (c) amplitude/weight conflation fixed: Born weight ∝ *squared* amplitude ("amplitude falls by 1/√2 while its Born weight halves"); dropped "share of the wavefunction's total weight".
+  - (d) Marchal "structurally identical" → "computationally analogous" — already landed in the prior citation-fix; verified present.
+  - (e) collapse supplies outcome exclusivity but NOT diachronic identity: new "What collapse supplies, and what it does not" paragraph separating the Tenets page's two posits (numerically determinate subject vs objective single-outcome actualization) and stating the continuity rule explicitly (persist into the single actual successor standing in consciousness-/causal-continuity; unique because collapse removed the rival; none in the lethal outcome). Reconciles with [[personal-identity]] fission verdict.
+  - (f) added the Map-specific consciousness-causal pressure test (external trigger amplified + objectively reduced pre-neural-processing; modulation neural-local + Born-constrained per Tenet 2 → cannot bias a distal lethal device) and the finite-vs-indefinite-survival distinction (independent objection to the strongest immortality claim).
+  - "genuine dialectical advantage" DEMOTED (was confession-without-correction per Claude Dimension 5): stated plainly that the anti-immortality conclusion is available to a single-world physicalist (objective collapse + non-reductionist persons) and so does NOT establish dualism; residue is explanatory-route difference + a bedrock framework-boundary disagreement. Constitutional-attractor opener ("sharpest illustration … most visible work") reframed to "illustration, not corroboration".
+  - Caring-measure reply (Greaves/Wallace) upgraded from name-drop/performative-inoculation to stated-and-contested: it defeats the immortality inference from INSIDE MWI without collapse or dualism (this is what shrinks the Map's advantage).
+- **Engagement classification (editor-internal, direct-refutation-discipline)**: caring-measure / Everettian immortalist — **Mode One attempted** (the caring-measure account is a successful in-framework Everettian defeat of the immortality inference; the Map grants it) with a **Mode Three residue** (whether care-across-successors substitutes for a determinate first-person continuant is bedrock at the framework boundary; the anti-immortality conclusion needs no dualism). No mode labels in prose; verified clean.
+- **Length**: 2636 → 3582 words (soft_warning; under 4000 hard). Six review-mandated substantive additions; partially offset by trimming the dissolution-paragraph tail and the "How This Differs" attractor language. Not fully length-neutral — full offset would require cutting mandated calibration.
+- **Map conditional argument**: intact — dissolution move preserved; corrections/qualifications/demotion only, no retraction.
+- **Published**: yes
+
 ## 2026-07-26T04:58:36+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
