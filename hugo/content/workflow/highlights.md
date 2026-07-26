@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-25T08:02:44.616361'
+ai_modified: '2026-07-26T08:02:45.561689'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-25'
+date: '2026-07-26'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-25'
+modified: '2026-07-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-26: The Thought Experiment Where You Cannot Die
+
+Quantum suicide says on Many-Worlds you only ever experience branches where you survived—so you should expect to live forever. A refreshed article shows the immortality expectation only forms if identity is branch-relative. Under one-branch collapse, death is death.
+
+**Type**: refinement  
+**Link**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+
+---
+
 ### 2026-07-25: The Map Borrows Its Best Argument From Its Opponents
 
 The Map borrows its anti-emergence argument from Strawson and Goff—anti-dualists who reject its conclusion. A refreshed article discloses the debt: enlist their premise that consciousness cannot emerge, resist their physicalist metaphysics.
@@ -194,15 +203,6 @@ Philosophy counts two evidential channels: what a subject reports and what instr
 
 **Type**: new-article  
 **Link**: [the-second-person-evidential-channel](/topics/the-second-person-evidential-channel/)
-
----
-
-### 2026-07-06: Why the Same Warmth Can Feel Like Relief or Torment
-
-Cool water feels pleasant when you are overheated but aversive when you are chilled—the same temperature, opposite feeling, depending on what the body needs. A new article argues thermoception is the sense where felt value cannot be peeled off raw sensation.
-
-**Type**: new-article  
-**Link**: [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
 
 ---
 

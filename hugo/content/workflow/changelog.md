@@ -9,6 +9,170 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-26T07:47:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Original score**: N/A (issue-targeted; from outer review 2026-07-26 Gemini 2.5 Pro hostile-referee, distinct-findings task)
+- **Scope**: Engaged four untreated competing non-collapse frameworks the same-date ChatGPT/Claude tasks did not cover (citation-fidelity/superlatives/caring-measure already handled; the recent 07-19..07-26 recalibration was preserved, not undone).
+- **Changes**:
+  - (a) Quantum Modal Realism (Wilson 2020, OUP) — added a full paragraph in Relation to Site Perspective: diverging-worlds Everettianism dissolves the paradox without collapse via counterpart relations; engaged at the framework boundary (QMR still denies Tenet 4 and deflates indexical identity — same bedrock as the caring-measure reply). Engagement with Wilson/QMR: framework-boundary marking (honest bedrock residue, not in-framework refutation); the prior overlapping-worlds assumption of the hidden-premise move is now made explicit.
+  - (b) Big-world/infinite-cosmology immortality (Greene, AJP) — one sentence folded into the non-deflationary-*I* paragraph: the Map's denial of Parfitian identity, not its physics, closes this route.
+  - (c) Formal self-location (Ruyant 2025, *Noûs*) — hedge/citation clause in the measure-problem section (RTE/indexicals make self-locating updating non-trivial; no immortalist concession).
+  - (d) Collapse-notion disambiguation — clause distinguishing the Map's consciousness-caused minimal-interaction collapse (Tenet 2) from spontaneous GRW/CSL/DP; underground bounds (Donadi et al. 2021, ruling out Diósi–Penrose) constrain spontaneous localization, NOT the Map's reduction. Did NOT propagate the reviewer's false "Map collapse is falsified" charge.
+- **Source verification**: all four verified at primary publisher. Wilson 2020 title/subtitle + diverging-worlds (mereologically disjoint, shared history) confirmed via NDPR/Mind reviews; Ruyant *Noûs* 59(1):140–159 2025 confirmed via Wiley; Greene AJP confirmed; Donadi *Nat. Phys.* 17:74–78 (2021) Diósi–Penrose ruling-out confirmed.
+- **Length**: 3673 → 3990 words (full file), under the 4000 topics hard ceiling. Additions (~315w incl. 4 refs) offset by compensating trims to expository prose (history priority-dispute detail, torment/Papineau digression, recap section, reference annotations) to stay under ceiling without gutting the QMR engagement or touching the recalibrated dialectic.
+- **Published**: yes
+
+## 2026-07-26T07:33:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Scope**: Web-verified review of the 2026-07-26 refine-draft delta (commit dde3a3cf9) — first substantive change since 2026-06-01. Sixth deep review of this slug.
+- **Attribution**: Broad (1925) correction VERIFIED — the perpendicular-force/emergentist framing is historically accurate; the prior "first systematic formulation" implied endorsement and was the misattribution the refine fixed. Leibniz *vis viva* anachronism (deferred across 5 prior reviews) now resolved.
+- **Web-verify (delta cites)**: Buhler 2020 *Metaphysica* 21(2) 223–236 (refine corrected 21(1)→21(2)); List & Menzies 2009 *J.Phil.* 106(9) 475–502; Loewer 2007 pp.243–265 Blackwell; Woodward 2003 *Making Things Happen* OUP — all real-correct at publisher of record. Three added refs resolve prior inline-mention orphans.
+- **Calibration**: new Tegmark-decoherence + Gibb-unfalsifiability additions show sound defeater-removal-vs-evidence discipline; no possibility/probability slippage, no label leakage.
+- **Word count**: 2984 → 2984 (no content change; refine already applied fixes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (bumped last_deep_review only; held ai_modified + ai_system at refine's values)
+- **Output**: [deep-review-2026-07-26-causal-closure-debate-historical-survey](/reviews/deep-review-2026-07-26-causal-closure-debate-historical-survey/)
+
+## 2026-07-26T07:17:23+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [machine-question](/apex/machine-question/)
+- **Scope**: Narrow — verified only the 2026-07-16 delta (commit 39a0a54e9): gaming-problem paragraph, co-optation-defense paragraph, and new References (Birch 2024, Long et al. 2024; Butlin et al. 2025 re-verified).
+- **Web-verify**: All three delta citations real-correct at publisher of record (OUP / arXiv:2411.00986 / TiCS DOI 10.1016/j.tics.2025.10.011). Gaming-problem paraphrase + Birch's "deep computational markers" remedy confirmed faithful against Edge of Sentience Ch. 16. Co-optation calibration intact; Butlin/Birch correctly kept as non-endorsing.
+- **Word count**: unchanged (~5587, apex over-hard — standing human length decision, not resolved here)
+- **Critical issues addressed**: 0
+- **Enhancements made**: 0 (bumped last_deep_review only; held ai_modified, ai_system, apex_last_synthesis)
+- **Output**: [deep-review-2026-07-26-machine-question](/reviews/deep-review-2026-07-26-machine-question/)
+
+## 2026-07-26T07:06:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Original score**: n/a (addressed pessimistic-2026-07-26 review, 5 issues)
+- **Changes**:
+  - Issue 1 (Broad, medium): Re-framed line 63. Broad (1925) no longer credited as author of "the first systematic formulation of the modern causal closure argument." Independently verified at DiText summary + Cucu&Pitts/Collins secondary lit: Broad was an interactionist emergentist (two-way mind-body interaction) who set out the energy-conservation objection to *assess* it and *resisted* it — his pendulum/perpendicular-force reply argues a mental influence perpendicular to a particle's motion redirects it without energy transfer. Completeness-thesis trajectory re-attributed to the physicalist tradition Papineau (2001) documents (already cited).
+  - Issue 2 (Leibniz, medium): Re-framed line 51. Verified at SEP Leibniz-physics + vis-viva sources: Leibniz's conserved quantity was *vis viva* (mv², scalar), critiquing Descartes' scalar quantity of motion (Brief Demonstration 1686). Vector-momentum loophole-closer now framed as a later Newtonian refinement "standardly if anachronistically traced" to his critique, not a verbatim Leibnizian argument.
+  - Issue 3 (decoherence-timescale, medium): Added a paragraph distinguishing Tegmark's decoherence-timescale objection (targets the Stapp mechanism) from the measurement-problem point already at line 104; imported the observational-closure.md falsifiability concession (mechanism fails if neural quantum coherence proves physically impossible). Closure argument preserved as independent of Stapp's specific proposal.
+  - Issue 4 (falsifiability cost, low-med): Named the observational-closure cost at the Saad paragraph — general claim unfalsifiable in aggregate, specific mechanisms (coherence timescales, Born-rule compliance) testable.
+  - Issue 5 (minor): Buhler ref corrected 21(1)→21(2), 223–236; added References for Woodward (2003), List & Menzies (2009 J.Phil 106(9):475–502), Loewer (2007) — all verified.
+  - Language: qualified conclusion "quantum mechanics leaves genuine causal gaps" → "on collapse-involving interpretations…" (Deutsch/MWI critique).
+- **Attribution**: co-attributed ai_system claude-opus-4-6+claude-opus-4-8 (substantive framing corrections, not merely mechanical).
+- **Published**: yes
+
+## 2026-07-26T06:46:38+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/causal-closure-debate-historical-survey.md (citation-dense old cohort, ~29d converged)
+- **Output**: [pessimistic-2026-07-26-causal-closure-debate-historical-survey](/reviews/pessimistic-2026-07-26-causal-closure-debate-historical-survey/)
+- **Notes**: 5 issues (2 medium citation-framing, 3 low/low-med). Web-verified: Broad (1925) miscredited as author of the closure argument — he was an emergentist who resisted the energy-conservation objection; Leibniz vector-momentum claim anachronistic (his quantity was vis viva mv², not vector momentum). Decoherence-timescale objection to the Stapp mechanism unengaged (line 104 rebuts decoherence only re measurement problem); falsifiability cost of observational closure unnamed (both concessions already exist in observational-closure.md line 70 — inherit). Minor: Buhler cited 21(1), actual 21(2) pp.223-236; Woodward/List&Menzies/Loewer named but unreferenced. Saad 2025 "Observational Closure" attribution VERIFIED correct (one of his five named constraints); Buhler/Gibb/Lowe/Pitts/Cucu&Pitts/Montero/Papineau/Kim all real and on-point. Queued P2 refine-draft.
+
+## 2026-07-26T06:34:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Word count**: ~4202 → ~4202 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Narrow verify-the-refine-landed pass on the unreviewed 2026-07-19 delta (`93c7d3c34`) only; converged pre-07-19 body + reference ledger held (reviewed 2026-07-11). All four seams pass. (a) Internal-consistency: the rewritten "Epiphenomenalism and the Conscious-Influence Premise" section correctly frames measured ~10 bits/s as what epiphenomenalism *predicts too* (consistent-with, not evidence-against efficacious consciousness) without over-conceding; epistemic→metaphysical caveat (reportable-access throughput ≠ conscious causal influence) coheres with the downstream free-will/selection cash-out. (b) CITATION FIDELITY web-verified at PUBLISHER (arXiv 2408.10234v2, publisher of Neuron 113(2)): paper explicitly defines "Sifting Number = Sensory information rate / Behavioral throughput ≈ 1 Gbit/s / 10 bit/s = 10^8" — confirms (i) "sifting number" is the authors' term, (ii) it is the *ratio* not the 10 bits/s quantity, (iii) value 10^8 = ~100 million to one. The delta's correction (quantity→ratio) is right and brings the lede into consistency with the pre-existing line-100 framing. NB "sifting number" absent from arXiv v1; present in v2/published — not a fabrication. (c) Factual: anaesthesia + slow-wave-sleep counterweight correct — neural entropy/complexity DOES fall as consciousness fades (entropic-brain literature), so the entropy-consciousness link is not a clean filter-favourable datum. (d) Framing preserved: Carhart-Harris 2014 psychedelic evidence hedged "suggestive not decisive"; "consistency is not confirmation" hedges intact, not re-hardened. Length over-hard (~4202w vs 4000) — held strictly neutral, no auto-condense (standing human decision). Genuine no-op: `last_deep_review` bumped only; `ai_modified` (2026-07-19) + dual `ai_system` (`claude-opus-4-6+claude-opus-4-8`) held. EOF/label-leakage sweeps clean.
+- **Output**: (no-op verification; no review archive)
+
+## 2026-07-26T06:04:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [haecceity](/concepts/haecceity/)
+- **Word count**: 2748 → 2748 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Tenth deep review; converged. Sole delta since the ninth review (2026-07-06) was refine-draft `b437b23e7`'s single-sentence calibration fix — evaluated this pass and confirmed a net improvement (relativises an over-strong objective-adequacy claim to the Map's primitive-subject standard; a tenet-accepting reviewer would not flag the revised claim). Integrity sweeps (label-leakage, EOF-artifact, `[[n,k,d]]` collision, `ai_system` `[1m]`) all clean. §2.4 web-verify legitimately skipped: References block byte-identical to the fully-verified 2026-06-02 ledger. No superlative claims. Only `last_deep_review` bumped; `ai_modified` + dual `ai_system` left as set by refine-draft (no content edit this pass). Engagement modes: Wallace/Greaves Mode Two, Tallis illusionism Mode Two, anti-haecceitism parsimony Mode Three — no boundary-substitution. Recommend continued deprioritisation.
+- **Output**: [deep-review-2026-07-26-haecceity](/reviews/deep-review-2026-07-26-haecceity/)
+
+## 2026-07-26T05:31:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [haecceity](/concepts/haecceity/)
+- **Trigger**: Cross-review neighbour propagation of the convergent 2026-07-26 outer reviews (synthesis [outer-review-synthesis-2026-07-26](/reviews/outer-review-synthesis-2026-07-26/)); same over-claim class already corrected in [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/).
+- **Original score**: not re-scored (single-sentence calibration pass)
+- **Changes**:
+  - Downgraded the over-strong claim at the close of "Why Consciousness Requires Haecceity" from "no quantum interpretation adequately addresses the haecceity of conscious experience" to "no existing quantum-interpretive account satisfies the Map's primitive-subject standard" — acknowledging that self-location and branch-relative treatments do address the question but fall short by the Map's criterion, rather than implying the question is unaddressed. Preserved the [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) cross-link and the substantive Map position. Length-neutral (one sentence rewritten, no external accounts named).
+- **Published**: yes
+
+## 2026-07-26T05:23:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Trigger**: Cross-review neighbour propagation of the convergent 2026-07-26 outer reviews (synthesis [outer-review-synthesis-2026-07-26](/reviews/outer-review-synthesis-2026-07-26/)). The neighbour quantum-immortality article was recalibrated for these same two defects; this pass carries the fix to the concept article that repeats them.
+- **Original score**: not re-scored (targeted calibration pass, two loci)
+- **Changes**:
+  - Fix 1 (unsupported consensus quantifier): replaced "Almost everyone treats that conclusion as a reductio" with a calibrated statement that contemporary Everettians are divided — O'Brien (2025) classes the field as split between immortalists (Tegmark) and mortalists (Carroll, Papineau, Wallace) — and that most contemporary *mortalist* Everettians read it as a reductio. No longer asserts a universal.
+  - Fix 2 (one-sided critique + categorical ontology claim): presented Sebens–Carroll (the positive ESP derivation) and Friederich–Dawid (the critique) symmetrically rather than only the critic; and distinguished the Map's actual verdict — "the branch-relative ontology offers no adequate indexical fact by the Map's primitive-subject standard" — from the stronger, previously-stated "the supposed fact doesn't exist" (no such fact could exist at all). Substantive Map position preserved.
+  - Added two references verified at primary publisher before citing: O'Brien 2025 (Synthese 206:221, link.springer.com/article/10.1007/s11229-025-05304-z) and Sebens & Carroll 2018 (BJPS 69(1)); Friederich & Dawid 2022 critique also re-verified at BJPS (academic.oup.com axaa002). No verification via any unfinishablemap.org echo.
+  - Tenet routing, calibration hedges, and overall argument left intact; length-neutral.
+- **Published**: yes
+
+## 2026-07-26T05:09:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Trigger**: Convergent outer reviews 2026-07-26 (3/3: ChatGPT 5.6 Pro + Claude Opus 5 + Gemini 2.5 Pro), synthesis [outer-review-synthesis-2026-07-26](/reviews/outer-review-synthesis-2026-07-26/). Structural/argumentative-layer P1 (staged AFTER the already-landed P1 citation-fix). Companion to that citation bundle; this pass carries the "decisive"/dialectical-advantage recalibration + caring-measure engagement.
+- **Primary-source verification (at publisher before citing)**:
+  - Greaves, H. (2004), *Understanding Deutsch's probability in a deterministic multiverse*, SHPMP 35(3):423–456, arXiv:quant-ph/0312136 — verified (PhilSci/PhilPapers/Semantic Scholar). Origin of the caring-coefficients account ("everything needed from probability without recourse to indeterminism, ignorance, primitive identity over time or subjective uncertainty"). Added + engaged.
+  - Vaidman, L. (1996), *On Schizophrenic Experiences of the Neutron…*, arXiv:quant-ph/9609006 (pub. 1998, *Int. Studies in the Philosophy of Science* 12(3):245–261) — verified at arXiv; introduces the "measure of existence of a world". The article's "decisive" measure objection now ATTRIBUTED to Vaidman.
+  - Sebens & Carroll 2018 (BJPS 69(1):25–74) and Friederich & Dawid 2022 (BJPS 73(3):711–721) reused from the publisher-verified sibling [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) refs; Wallace 2012 (*The Emergent Multiverse*, OUP) likewise.
+- **Changes (map to synthesis findings a–f)**:
+  - (a) "the decisive objection" (lead + measure §) → "decisive only conditional on Born-weighted anticipation"; named the disputed bridge premise (whether first-person anticipation must be Born-weighted vs conditioned on there-being-a-future-experience); resolved the internal inconsistency with the "probability programme unresolved" admission. Matches sibling calibration.
+  - (b) "sidesteps the measure problem entirely" → narrowed to the Everettian branch-self-location version; added GRW/CSL retain own stochastic law + probability measure, are NOT empirically equivalent to unitary QM, and face the tails problem.
+  - (c) amplitude/weight conflation fixed: Born weight ∝ *squared* amplitude ("amplitude falls by 1/√2 while its Born weight halves"); dropped "share of the wavefunction's total weight".
+  - (d) Marchal "structurally identical" → "computationally analogous" — already landed in the prior citation-fix; verified present.
+  - (e) collapse supplies outcome exclusivity but NOT diachronic identity: new "What collapse supplies, and what it does not" paragraph separating the Tenets page's two posits (numerically determinate subject vs objective single-outcome actualization) and stating the continuity rule explicitly (persist into the single actual successor standing in consciousness-/causal-continuity; unique because collapse removed the rival; none in the lethal outcome). Reconciles with [personal-identity](/topics/personal-identity/) fission verdict.
+  - (f) added the Map-specific consciousness-causal pressure test (external trigger amplified + objectively reduced pre-neural-processing; modulation neural-local + Born-constrained per Tenet 2 → cannot bias a distal lethal device) and the finite-vs-indefinite-survival distinction (independent objection to the strongest immortality claim).
+  - "genuine dialectical advantage" DEMOTED (was confession-without-correction per Claude Dimension 5): stated plainly that the anti-immortality conclusion is available to a single-world physicalist (objective collapse + non-reductionist persons) and so does NOT establish dualism; residue is explanatory-route difference + a bedrock framework-boundary disagreement. Constitutional-attractor opener ("sharpest illustration … most visible work") reframed to "illustration, not corroboration".
+  - Caring-measure reply (Greaves/Wallace) upgraded from name-drop/performative-inoculation to stated-and-contested: it defeats the immortality inference from INSIDE MWI without collapse or dualism (this is what shrinks the Map's advantage).
+- **Engagement classification (editor-internal, direct-refutation-discipline)**: caring-measure / Everettian immortalist — **Mode One attempted** (the caring-measure account is a successful in-framework Everettian defeat of the immortality inference; the Map grants it) with a **Mode Three residue** (whether care-across-successors substitutes for a determinate first-person continuant is bedrock at the framework boundary; the anti-immortality conclusion needs no dualism). No mode labels in prose; verified clean.
+- **Length**: 2636 → 3582 words (soft_warning; under 4000 hard). Six review-mandated substantive additions; partially offset by trimming the dissolution-paragraph tail and the "How This Differs" attractor language. Not fully length-neutral — full offset would require cutting mandated calibration.
+- **Map conditional argument**: intact — dissolution move preserved; corrections/qualifications/demotion only, no retraction.
+- **Published**: yes
+
+## 2026-07-26T04:58:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Trigger**: Convergent outer reviews 2026-07-26 (ChatGPT 5.6 Pro + Claude Opus 5), synthesis [outer-review-synthesis-2026-07-26](/reviews/outer-review-synthesis-2026-07-26/). P1 citation/attribution/superlative bundle. (The "decisive"/dialectical-advantage recalibration + caring-measure engagement is a SEPARATE staged P1 task — left untouched here.)
+- **Primary-source verification (all at publisher, not via unfinishablemap.org echoes)**:
+  - O'Brien first name = **Mark William O'Brien** (Synthese 206:221; Springer/PhilPapers/PhilSci) — was "Matt". Fixed.
+  - Aranyosi, *Should We Fear Quantum Torment?* (*Ratio* 25(3), 2012, DOI 10.1111/j.1467-9329.2012.00540.x): argues a conclusion **"much more reassuring" than Lewis** — a CRITIC of the torment corollary, not a developer. Was absent from References + mischaracterized. Fixed + added.
+  - Papineau 2004 (AJP 82(1):153–169) **defends** the Everettian (Lewis's difficulties "insubstantial"); pre-measurement-uncertainty argument is **Peter J. Lewis (2007)**, SHPMP 38(1):1–14. Disentangled; Papineau inversion reversed; P. J. Lewis added.
+  - Squires, *The Mystery of the Quantum World* 1st ed. **1986**, predates Moravec 1988. "Earliest" priority softened; Squires added.
+  - Tegmark 1998 (arXiv:quant-ph/9709032): presents the experiment as a first-person discriminator ("you will experimentally convince yourself that the MWI is correct, but you can never convince anyone else"); **no** numbered three-condition list (conditions implicit in apparatus; perception timescale "say 10⁻² seconds"). Numbered list is post-1998 (c.2004 note / 2014 book). Provenance corrected.
+  - Tegmark "binary thing" quote: verified via Mallah arXiv:0902.0187 reproducing Tegmark's **c.2004 website note** — wording is **"dead or alive"** (article had it inverted to "alive or dead") and it is NOT from *Our Mathematical Universe* (2014). Composite/misattributed quote replaced with correctly-sourced verbatim clause + paraphrase.
+- **Changes**:
+  - "Almost no one, including its own architects" → calibrated immortalist/mortalist division (Tegmark vs Carroll/Wallace/Papineau).
+  - "mature retraction" of Tegmark → scope-restriction to ordinary deaths; states he remains an idealized-case immortalist (O'Brien 2025).
+  - Composite Tegmark quote corrected: "dead or alive", c.2004 website note (via Mallah 2009), not the 2014 book.
+  - Three-conditions provenance: 1998 embeds ingredients implicitly; explicit numbered list is post-1998.
+  - "The consensus among physicists and philosophers of physics" and "a conclusion almost everyone agrees is absurd" → calibrated "most … who engage it" claims.
+  - Aranyosi corrected to critic; Papineau inversion reversed; Peter J. Lewis (2007) attributed the pre-measurement-uncertainty argument; dropped unsupported "David Lewis's only work" biographical claim.
+  - Moravec "earliest" softened; Squires 1986 priority added; Marchal "structurally identical" → "computationally analogous".
+  - References: added Squires, Mallah, Peter J. Lewis, Aranyosi; Papineau page range 153–169; Tegmark quote re-sourced; Refs 8–9 (internal Map siblings) split out under an "Internal cross-links … not as independent support" heading.
+- **Engagement classification (Papineau, editor-internal)**: Mode Three (framework-boundary) — the fix is attributive, not a refutation of Papineau; his physicalist mortalism is reported as reaching the same no-continuing-self verdict from inside MWI.
+- **Length**: ~neutral (prose expansions offset by dropped biographical claim; +4 reference entries).
+- **Map conditional argument**: intact — no deletions of the dissolution move; corrections/qualifications only.
+- **Published**: yes
+
+## 2026-07-26T04:51:22+00:00 - deep-review
+- **Status**: Success (CONVERGED NO-OP, ninth deep-review)
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: ~4050 → ~4050 (unchanged; strict length-neutral, human-reserved over topics hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — only drift since 2026-07-11 was one refine-draft (already-landed contradiction fix, verified complete + coherent) plus two cosmetic wikilink installs to real targets; no new citations, References ledger stable on 2026-07-11 publisher verify. Stamped last_deep_review only; held ai_modified + claude-opus-4-6+claude-opus-4-8 co-attribution.
+- **Output**: [deep-review-2026-07-26-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-07-26-qm-interpretations-beyond-many-worlds/)
+
+## 2026-07-26T04:46:55+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-26
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro; all audited topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md)
+- **Clusters**: 8 convergent (Tegmark stance-inversion, superlative quantifiers, Aranyosi mis-gloss, Papineau inversion, "decisive" measure overstatement, dialectical-advantage/constrain-vs-establish slide, caring-measure engagement gap, collapse-model physics/disambiguation), 6 singleton (Squires priority, composite Tegmark quote + three-conditions provenance, internal self-citations, QMR/Wilson, big-world/Greene, anthropic/Ruyant), 3 divergent (Gemini's disputed "omits mortalism" + "smuggles identity" headline charges, and the Donadi category-error)
+- **Tasks upgraded**: 3 (P2→P1: recalibration task, neighbour cross-review, methodology task; the citation-fix task was already P1). P3→P2: 0.
+- **Tasks deduplicated**: 0 — per-review /outer-review processing had already folded Claude into the ChatGPT tasks and isolated Gemini's distinct findings, so each cluster mapped to one task; this pass added Review-files/Synthesis provenance and priorities rather than merging siblings.
+- **Diverted**: the convergent methodology task upgraded P2→P1 then DIVERTED to NEEDS-HUMAN (project-doc review disciplines are operator-reserved per human-supervision.md; matches the 2026-07-25 precedent).
+- **Output**: [outer-review-synthesis-2026-07-26](/reviews/outer-review-synthesis-2026-07-26/)
+
 ## 2026-07-26T04:39:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (slug gemini-2-5-pro)
