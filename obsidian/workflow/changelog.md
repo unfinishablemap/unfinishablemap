@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T02:17:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Word count**: 4442 → 4442 total (no content change); argument prose 3757 (under 4000 topics hard ceiling), + Further Reading 195 + References 490
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification-only post-refine pass; 10th review). Trigger: the 2026-07-21 convergent refine-draft (commit 8300f12f0, ChatGPT 5.6 Pro + Claude Opus 4.8) added ~450 words of load-bearing calibration prose across four passages. Verified all four are sound possibility/probability-slippage corrections: PC "cuts both ways" (general-thesis symmetry, no self-privilege); Rorty/moderate rewrite (incorrigibility-forces-dualism over-claim → Mode-Two "unsupported foundational move"); heterophenomenology recast (strawman → policy-reading, Mode Three); Tenet-3 Bidirectional recast (training-as-evidence → "compatible with but does not discriminate; removes a defeater without upgrading the dualist reading" — highest-value fix). Refine touched no citations/quotes → carried §2.4 ledger stands. No editor-vocab leakage, no [1m] artifact. LENGTH: raw 4441 is `[[analyze_length counts reference apparatus]]` false-high (27-entry refs + 20-item Further Reading); argument prose 3757 under hard ceiling — NO condense of protected calibration prose (has been length-blocking the article in replenish run-811; standing note updated to decompose). No-op on content → advanced last_deep_review only, held ai_modified at 07-21 HEAD.
+- **Output**: [[reviews/deep-review-2026-07-26-phenomenal-authority-and-first-person-evidence]]
+
 ## 2026-07-26T01:49:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/lived-objectified-body-distinction]]

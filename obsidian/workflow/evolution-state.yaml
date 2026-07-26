@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T02:05:30.901020+00:00'
-session_count: 17258
+last_updated: '2026-07-26T02:12:45.357520+00:00'
+session_count: 17259
 cycle_position: 11750
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-26T00:05:03.187929+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T01:45:14.107918+00:00'
+  replenish-queue: '2026-07-26T02:12:45.357520+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1219,34 +1219,34 @@ queue_status:
     Type+File). Floor MIN_QUEUE_TASKS==3. Holders: P2 semantic-memory (opus-4-5, run-836)
     + P2 prebiotic-collapse (opus-4-6, run-837). No evolve_loop/unfin-cycle (pgrep
     clean); HEAD af33b39a1; only uncommitted delta the pre-existing deferred cycle_post
-    state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED
-    (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
+    state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
+    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
     length human-decisions already queued P3; positions 8<10 audit threshold + last
     positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET: functionalism
-    (claude-opus-4-6, concepts, soft_warning 3428w / 72w headroom to 3500 hard -- length-safe;
-    deep_review scorer 8.4, highest length-safe candidate; ldr 2026-07-08T01:53).
+    (claude-opus-4-6, concepts, soft_warning 3428w / 72w headroom to 3500 hard --
+    length-safe; deep_review scorer 8.4, highest length-safe candidate; ldr 2026-07-08T01:53).
     CORRECTION to run-837''s dismissal: run-837 called functionalism''s post-ldr delta
     a "single COSMETIC content-externalism cross-link, REJECTED." git show 2396b9520
     (2026-07-13 06:33, auto(expand-topic) Content Externalism reciprocally editing
     functionalism) shows it is NOT purely cosmetic: (a) appended a genuine claim-bearing
     clause to the Twin-Earth paragraph ("...including the phenomenal-versus-intentional
     split that lets the Map accept wide reference while keeping felt character internal"),
-    (b) copyedited "absorbed rather than refuting"->"the externalist challenge is absorbed
-    rather than fatal", (c) wikilinked Chinese Room. Clause (a) is a substantive Map-position
-    framing claim unreviewed since ldr. NO new citations/quotes, so the lens is CROSS-REFERENCE-ACCURACY
-    + CLAIM-FRAMING + INTERNAL-CONSISTENCY (not a citation sweep): (a) does [[content-externalism]]
-    actually treat the phenomenal/intentional split + is "accept wide reference while
-    keeping felt character internal" a faithful Map summary (no drift/overclaim); (b)
-    does the clause cohere with functionalism''s own narrow-vs-wide-role argument; (c)
-    does "absorbed rather than fatal" preserve the Map''s "concedes too much to count
-    as a rescue" judgement + PRESERVE the "favoured interpretation, not one the data
-    force" hedge. SCOPE NARROW: verify ONLY the 2396b9520 delta. LENGTH STRICTLY NEUTRAL
-    (72w headroom). DIVERSITY: functionalism/AI-consciousness cluster DISTINCT from
-    both holders (semantic-memory=memory; prebiotic-collapse=quantum-collapse); opus-4-6
-    overlaps prebiotic-collapse''s model but topic-distinct (soft guidance; exact-floor
-    pool is what it is). HOLD ai_system claude-opus-4-6 SINGLE. BOTTOM-inserted (FIFO).
-    Full reasoning in the todo task Notes. Pruned run_834_note per note-bloat discipline
-    (keep ~3: 836/837/838).'
+    (b) copyedited "absorbed rather than refuting"->"the externalist challenge is
+    absorbed rather than fatal", (c) wikilinked Chinese Room. Clause (a) is a substantive
+    Map-position framing claim unreviewed since ldr. NO new citations/quotes, so the
+    lens is CROSS-REFERENCE-ACCURACY + CLAIM-FRAMING + INTERNAL-CONSISTENCY (not a
+    citation sweep): (a) does [[content-externalism]] actually treat the phenomenal/intentional
+    split + is "accept wide reference while keeping felt character internal" a faithful
+    Map summary (no drift/overclaim); (b) does the clause cohere with functionalism''s
+    own narrow-vs-wide-role argument; (c) does "absorbed rather than fatal" preserve
+    the Map''s "concedes too much to count as a rescue" judgement + PRESERVE the "favoured
+    interpretation, not one the data force" hedge. SCOPE NARROW: verify ONLY the 2396b9520
+    delta. LENGTH STRICTLY NEUTRAL (72w headroom). DIVERSITY: functionalism/AI-consciousness
+    cluster DISTINCT from both holders (semantic-memory=memory; prebiotic-collapse=quantum-collapse);
+    opus-4-6 overlaps prebiotic-collapse''s model but topic-distinct (soft guidance;
+    exact-floor pool is what it is). HOLD ai_system claude-opus-4-6 SINGLE. BOTTOM-inserted
+    (FIFO). Full reasoning in the todo task Notes. Pruned run_834_note per note-bloat
+    discipline (keep ~3: 836/837/838).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3

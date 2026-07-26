@@ -68,7 +68,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-07-11T11:10:00+00:00
+last_deep_review: 2026-07-26T02:17:48+00:00
 coalesced_from:
   - "/topics/phenomenal-conservatism-and-introspective-evidence/"
   - "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"
