@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T00:01:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Original score**: mature/well-cited (pessimistic review 2026-07-25; additive fixes, not a rewrite)
+- **Changes**:
+  - HIGH: Reframed "The Zombie Intuition Applied to Evolution" as a reductio against function-exhausts-fitness materialism (not a free-standing puzzle for everyone). Added a paragraph reconciling with the Map's interactionism — a causally-efficacious consciousness means a behaviourally-matched zombie is not a physical duplicate, so selection *can* reach the difference; noted the symmetric cost (owes a quantum-interface mechanism; must not be causally screened off toward epiphenomenalism). Cross-linked [[causal-closure]] and [[the-epiphenomenalist-threat]].
+  - MEDIUM (falsifiability): Downgraded "is exactly what minimal interaction predicts" → "is consistent with … though consistency is not confirmation"; stated falsification conditions (a fully classical account of the amplification capacities; null results in the quantum-neural-effects programme); signposted [[evolutionary-case-for-quantum-neural-effects]].
+  - MEDIUM (decoherence): Added an acknowledging clause to the magnetoreception/tunnelling analogy noting those precedents exploit narrowly protected coherences and the neural-scale case is contested on decoherence grounds; linked [[quantum-neural-timing-constraints]].
+  - Minor: Attributed the etiological theory to its canonical origin (Wright 1973; Millikan/Neander selected-effects accounts) with Godfrey-Smith 1994 as the modern-history variant; added Wright (1973) to References. Hedged "the illusion problem is at least as hard as the hard problem" as the Map's contention.
+- **Engagement classification**: reply to the materialist/physicalist over the zombie-evolution puzzle — Mode Two (unsupported foundational move): the reframing turns on materialism helping itself to "function exhausts fitness" without earning it; boundary-marking (Mode Three) supplies the residue — the Map's escape is bought at the acknowledged cost of an unproven quantum interface, noted honestly rather than as a refutation.
+- **Published**: yes
+
 ## 2026-07-25T23:56:48+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/consciousness-evolution-and-biology]] (oldest content article; never given a dedicated pessimistic pass)

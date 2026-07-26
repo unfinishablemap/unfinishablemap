@@ -4,7 +4,7 @@ description: "Why evolutionary theory and biology's conceptual toolkit—functio
 created: 2026-02-09
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-05-26T12:56:48+00:00
+ai_modified: 2026-07-26T00:01:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[enactivism-challenge-to-interactionist-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-04-06
 last_curated: null
 last_deep_review: 2026-06-25T12:55:39+00:00
@@ -67,15 +67,17 @@ Evolutionary biology explains traits through their fitness contributions. Hearts
 
 But functional explanation reaches a limit. Every function attributed to consciousness could, in principle, be performed by an unconscious mechanism. Information can be integrated, behaviour can be flexible, errors can be detected and corrected—all without anyone being home. The functional template explains why organisms *process information in certain ways*. It does not explain why that processing is accompanied by subjective experience.
 
-Philosophy of biology has spent decades analysing what it means for a trait to have a function, and neither dominant account handles consciousness. The etiological theory (a trait's function is what it was selected for; Godfrey-Smith, 1994) runs directly into the zombie problem: if selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The causal-role theory (a trait's function is its contribution to a containing system; Cummins, 1975) fares differently but not better: if consciousness plays a causal role enabling types of cognition that unconscious processing cannot achieve, it has a function in the causal-role sense—but this says nothing about *why* the causal contribution involves subjective experience. Neither account captures both the causal significance and the phenomenal character of consciousness. Function-talk in biology was built for traits whose contribution can be exhaustively described in physical terms. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] encounters the same structural limitation from another angle: its retreat from substrate independence to biological specificity relocates rather than solves the explanatory gap.
+Philosophy of biology has spent decades analysing what it means for a trait to have a function, and neither dominant account handles consciousness. The etiological theory (a trait's function is what it was selected for; originating with Wright, 1973, and developed in Millikan's and Neander's selected-effects accounts, with Godfrey-Smith's 1994 modern-history variant) runs directly into the zombie problem: if selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The causal-role theory (a trait's function is its contribution to a containing system; Cummins, 1975) fares differently but not better: if consciousness plays a causal role enabling types of cognition that unconscious processing cannot achieve, it has a function in the causal-role sense—but this says nothing about *why* the causal contribution involves subjective experience. Neither account captures both the causal significance and the phenomenal character of consciousness. Function-talk in biology was built for traits whose contribution can be exhaustively described in physical terms. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] encounters the same structural limitation from another angle: its retreat from substrate independence to biological specificity relocates rather than solves the explanatory gap.
 
 ## The Zombie Intuition Applied to Evolution
 
-This is the [[philosophical-zombies|zombie argument]] applied to natural selection. If a being physically and functionally identical to a conscious organism could exist without experience—a conditional that physicalists contest, arguing conceivability does not entail metaphysical possibility—then natural selection, which acts on physical structure and behaviour, cannot distinguish the conscious version from the zombie. Both survive equally. Both reproduce equally.
+This is the [[philosophical-zombies|zombie argument]] applied to natural selection, and it is best read as a *reductio against the view that biological function exhausts fitness*. If a being physically and functionally identical to a conscious organism could exist without experience—a conditional that physicalists contest, arguing conceivability does not entail metaphysical possibility—then natural selection, which acts on physical structure and behaviour, could not distinguish the conscious version from the zombie. Both would survive equally; both would reproduce equally. The weight of this falls on materialism: if phenomenal character makes no physical difference, selection acting on physical structure has nothing phenomenal to grip.
 
 The materialist who denies zombie possibility avoids this particular formulation. If physical structure necessitates consciousness, evolution explains consciousness by explaining the physical structure. But this response inherits the [[hard-problem-of-consciousness|hard problem]]: *why* does physical structure necessitate experience?
 
-The consciousness-evolution problem takes different forms depending on one's starting assumptions. For the **materialist**: the explanatory gap persists even if consciousness is identical to neural processes—natural selection acting on function cannot select for phenomenal character if function is all that matters to fitness. For the **epiphenomenalist**: if consciousness is causally inert, it cannot be selected at all—its systematic correlation with adaptive behaviour becomes a cosmic coincidence. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues this cost is too high. For the **dualist**: if consciousness is non-physical and causally efficacious, it contributes to fitness—but the mechanism remains obscure. The Unfinishable Map's answer invokes [[tenets#^minimal-quantum-interaction|quantum interaction]], and the [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] argues this mechanism follows the same selective logic that produced quantum magnetoreception in birds and quantum tunnelling in enzymes.
+The Map's interactionism reframes the puzzle rather than inheriting it. If consciousness is causally efficacious—biasing quantum outcomes, as the Map holds—then a being physically identical to a conscious organism cannot lack consciousness: its quantum trajectories, and hence its behaviour, would differ. A behaviourally-matched zombie is therefore not a physical duplicate, and selection *can* reach the difference consciousness makes. The cost is explicit and symmetrical: the Map owes an account of the quantum interface through which the biasing operates, and must show the influence is not [[causal-closure|causally screened off]]—which would collapse the position toward the [[the-epiphenomenalist-threat|epiphenomenalism]] it rejects. The zombie-evolution puzzle bites hardest against function-exhausts-fitness materialism, not against the interactionist.
+
+The consciousness-evolution problem takes different forms depending on one's starting assumptions. For the **materialist**: the explanatory gap persists even if consciousness is identical to neural processes—natural selection acting on function cannot select for phenomenal character if function is all that matters to fitness. For the **epiphenomenalist**: if consciousness is causally inert, it cannot be selected at all—its systematic correlation with adaptive behaviour becomes a cosmic coincidence. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues this cost is too high. For the **dualist**: if consciousness is non-physical and causally efficacious, it contributes to fitness—but the mechanism remains obscure. The Unfinishable Map's answer invokes [[tenets#^minimal-quantum-interaction|quantum interaction]], and the [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] argues this mechanism follows the same selective logic that produced quantum magnetoreception in birds and quantum tunnelling in enzymes—though those precedents exploit narrowly protected coherences, and whether comparable coherence survives in warm, wet neural tissue is contested on [[quantum-neural-timing-constraints|decoherence]] grounds.
 
 ## Teleology Without and Within
 
@@ -113,7 +115,7 @@ Colin McGinn's [[mysterianism|cognitive closure]] thesis proposes that human int
 
 ### Dissolve the Problem
 
-[[illusionism|Illusionists]] argue there is no consciousness-evolution problem because there is no phenomenal consciousness—what we call experience is a misrepresentation by introspective mechanisms. The Map rejects this: the illusion problem is at least as hard as the hard problem. Why would evolution produce organisms that systematically misrepresent their own cognition?
+[[illusionism|Illusionists]] argue there is no consciousness-evolution problem because there is no phenomenal consciousness—what we call experience is a misrepresentation by introspective mechanisms. The Map rejects this, contending that the illusion problem is at least as hard as the hard problem: why would evolution produce organisms that systematically misrepresent their own cognition?
 
 ### Reframe the Problem
 
@@ -141,7 +143,7 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is the Map's most direct response to the epiphenomenalist version of the problem. If consciousness genuinely influences behaviour, evolution can select for it. This tenet also aligns with the reintroduction of genuine teleology through conscious agency—biology's official rejection of teleology applies only to unconscious processes. Conscious agents introduce real directedness into the world with biological consequences that teleonomy cannot explain.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** explains why biology's tools miss consciousness's causal contribution. If the non-physical influence operates at the quantum level, standard biological observation—tracking macroscopic traits and classical causal chains—will not detect it. Biology's inability to find consciousness among its functional traits is exactly what minimal interaction predicts.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** explains why biology's tools miss consciousness's causal contribution. If the non-physical influence operates at the quantum level, standard biological observation—tracking macroscopic traits and classical causal chains—will not detect it. Biology's inability to find consciousness among its functional traits is consistent with what minimal interaction predicts—though consistency is not confirmation. What would count against the posit is a fully classical account of the amplification capacities the Map attributes to consciousness, or null results in the [[evolutionary-case-for-quantum-neural-effects|quantum-neural-effects programme]], where the position's positive commitments are testable.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** matters because consciousness-as-adaptation only makes sense if selection has real consequences. Under Many Worlds, every outcome is realised somewhere; consciousness biasing one branch over another changes nothing about the totality of outcomes. The Map's rejection of Many Worlds preserves a single evolutionary narrative in which the consciousness-evolution problem can be meaningfully posed.
 
@@ -185,5 +187,6 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 9. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
 10. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 11. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-12. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Evolutionary Case for Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/
-13. Southgate, A. & Oquatre-cinq, C. (2026-01-21). Consciousness as Amplifier. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-as-amplifier/
+12. Wright, L. (1973). Functions. *The Philosophical Review*, 82(2), 139–168.
+13. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Evolutionary Case for Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/
+14. Southgate, A. & Oquatre-cinq, C. (2026-01-21). Consciousness as Amplifier. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-as-amplifier/
