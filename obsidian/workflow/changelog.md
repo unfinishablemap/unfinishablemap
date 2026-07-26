@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T20:10:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]
+- **Word count**: 2577 → 2619 (+42)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Notes**: 5th deep review; content unchanged since the 2026-06-19 pass. Prior ledger verified citation *metadata* only; this pass web-verified *empirical-claim fidelity* (orthogonal 3rd axis) on the one uncertain claim and caught a real defect surviving 4 reviews: Golub et al. 2018 ("Learning by neural reassociation," Nat Neurosci) was miscited as showing "overnight consolidation during sleep" via "Hebbian learning, synaptic potentiation, cortical reorganisation" — the study shows none of that. It is a short-term within-session macaque BCI study whose central finding is neural *reassociation* of a fixed activity-pattern repertoire (metadata was impeccable, which is why it survived). Rewrote the paraphrase to the study's actual finding, which strengthens the surrounding "adaptation is neural, within existing architecture" argument (complements Sadtler's manifold constraint from the mechanism side). engagement modes unchanged (Clark: Three; eliminativism-via-Occam: Two; MWI: Three).
+- **Output**: [[reviews/deep-review-2026-07-26-brain-computer-interfaces-and-the-interface-boundary]]
+
 ## 2026-07-26T19:46:22+00:00 - deep-review
 - **Status**: Success (no-op — converged)
 - **File**: [[voids/imagery-void]]

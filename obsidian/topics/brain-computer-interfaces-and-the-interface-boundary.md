@@ -4,7 +4,7 @@ description: "BCIs test whether conscious control can extend beyond the brain's 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-06-19T15:20:09+00:00
+ai_modified: 2026-07-26T20:10:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,10 +26,10 @@ related_articles:
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-06-19T15:20:09+00:00
+last_deep_review: 2026-07-26T20:10:20+00:00
 embedded_videos:
   - id: ck-t_T5Tqd4
     url: https://www.youtube-nocookie.com/embed/ck-t_T5Tqd4
@@ -65,7 +65,7 @@ The most important finding from BCI research is *where* adaptation happens. When
 
 Sadtler et al. (2014) demonstrated this directly. They studied which neural activity patterns BCI users could learn to produce and which they could not. Users quickly learned patterns that fell within the "intrinsic manifold"—the space of activity patterns their neural population naturally produces. Patterns outside this manifold were far harder or impossible to learn. The brain doesn't rewire arbitrarily; it learns within its existing connectivity structure.
 
-Golub et al. (2018) showed that BCI learning follows the same consolidation trajectory as natural motor learning: initial rapid improvement, gradual refinement, and overnight consolidation during sleep. The same neural plasticity mechanisms—Hebbian learning, synaptic potentiation, cortical reorganisation—underwrite both natural and BCI motor skill.
+Golub et al. (2018) traced *how* that within-manifold learning happens over a single session. Rather than generating novel activity patterns, animals drew on a fixed repertoire of patterns their motor cortex already produced and re-associated them with new movements—a strategy the authors call neural reassociation. On these short timescales the brain reuses the activity it can already generate rather than rewiring to order, reinforcing Sadtler's constraint from the mechanism side: BCI skill is built within the brain's existing neural architecture, not bolted onto the device.
 
 This matters for the Map's framework. Consciousness isn't reaching into the computer. Consciousness is doing what it always does—[[consciousness-selecting-neural-patterns|selecting among competing neural patterns]] through the [[attention-and-the-consciousness-interface|attention-motor selection interface]]—and the computer happens to be reading those patterns and acting on them. The interface boundary hasn't moved. The decoder has been placed *inside* the boundary, reading signals that consciousness was already producing.
 
