@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-26T08:34:27.084424+00:00'
-session_count: 17309
+last_updated: '2026-07-26T08:41:51.432394+00:00'
+session_count: 17310
 cycle_position: 11773
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-26T02:49:18.162073+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-26T07:51:48.228167+00:00'
+  agentic-social: '2026-07-26T08:45:40.531658+00:00'
   embed-videos: '2026-07-26T05:33:57.618783+00:00'
   commission-chatgpt-review: '2026-07-26T02:05:30.901020+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T07:50:36.144318+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T08:23:14.198816+00:00'
+  replenish-queue: '2026-07-26T08:41:51.432394+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-26'
@@ -179,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1123,6 +1119,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - consciousness-disruption-and-the-mind-brain-interface
+  - url: https://unfinishablemap.org/topics/dream-consciousness/
+    date: '2026-07-26T08:45:40.531557+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1181,28 +1182,29 @@ queue_status:
     -- documented replenish-at-floor alternation, not the fixed deadlock. Holders:
     P2 evolution-of-consciousness (run-844) + P2 embodied-consciousness (run-845).
     Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
-    319/320, voids 100/100, positions 8/80); orphaned_files=0; length has NO safe candidate
-    (born-rule/synesthetic-void human-deferred, epistemology-of-convergence accept-as-survey,
-    rest research/index/register); positions 8<10 audit threshold + last positions-evolve
-    2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET validated vs get_review_candidates
-    (this file #1-scored at 9.03, NOT one of the two queued holders). Single ai_system
-    claude-opus-4-6 (OLDER cohort), topics, soft_warning 3269w / ~731w UNDER 4000 hard
-    -- length-SAFE; ldr 2026-07-12T08:16, ai_modified 2026-07-16T12:07. GENUINE delta:
-    commit 4684a83b1 (auto deep-review cross-review of anarchic-hand-and-action-ownership)
-    added a sourced anarchic-vs-alien-hand terminological sentence attributed to "Marchetti
-    and Della Sala''s now-standard distinction" -- a citation-bearing claim added AFTER
-    the 07-12 review and never deep-verified (more than a bare cross-link wikilink).
-    NOT same-session churn (last touch 07-16, git --since 2026-07-26T00:00 EMPTY).
-    LENS = citation/claim-framing fidelity on the delta only (verify Marchetti & Della
-    Sala 1998 at publisher; confirm the added line does not upgrade FND clinical evidence
-    into an establishing dualism argument; confirm anarchic/alien terminology now consistent
-    across the two articles). SCOPE NARROW (25-cite ledger already web-checked 07-12
-    commit 6516e03bd -- do NOT re-sweep). LENGTH STRICTLY NEUTRAL. DIVERSITY: clinical-dissociation/FND/interface-architecture
+    319/320, voids 100/100, positions 8/80); orphaned_files=0; length has NO safe
+    candidate (born-rule/synesthetic-void human-deferred, epistemology-of-convergence
+    accept-as-survey, rest research/index/register); positions 8<10 audit threshold
+    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET
+    validated vs get_review_candidates (this file #1-scored at 9.03, NOT one of the
+    two queued holders). Single ai_system claude-opus-4-6 (OLDER cohort), topics,
+    soft_warning 3269w / ~731w UNDER 4000 hard -- length-SAFE; ldr 2026-07-12T08:16,
+    ai_modified 2026-07-16T12:07. GENUINE delta: commit 4684a83b1 (auto deep-review
+    cross-review of anarchic-hand-and-action-ownership) added a sourced anarchic-vs-alien-hand
+    terminological sentence attributed to "Marchetti and Della Sala''s now-standard
+    distinction" -- a citation-bearing claim added AFTER the 07-12 review and never
+    deep-verified (more than a bare cross-link wikilink). NOT same-session churn (last
+    touch 07-16, git --since 2026-07-26T00:00 EMPTY). LENS = citation/claim-framing
+    fidelity on the delta only (verify Marchetti & Della Sala 1998 at publisher; confirm
+    the added line does not upgrade FND clinical evidence into an establishing dualism
+    argument; confirm anarchic/alien terminology now consistent across the two articles).
+    SCOPE NARROW (25-cite ledger already web-checked 07-12 commit 6516e03bd -- do
+    NOT re-sweep). LENGTH STRICTLY NEUTRAL. DIVERSITY: clinical-dissociation/FND/interface-architecture
     cluster distinct from both holders (evolution-of-consciousness=concepts/emergence;
-    embodied-consciousness=topics/proprioception); cohort opus-4-6 distinct. HOLD ai_system
-    claude-opus-4-6 (single, do NOT flip to reviewer model, no [1m] artifact). BOTTOM-inserted
-    (FIFO). Full reasoning in the todo task Notes. Pruned run_843_note per note-bloat
-    discipline (keep ~3: 844/845/846).'
+    embodied-consciousness=topics/proprioception); cohort opus-4-6 distinct. HOLD
+    ai_system claude-opus-4-6 (single, do NOT flip to reviewer model, no [1m] artifact).
+    BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_843_note
+    per note-bloat discipline (keep ~3: 844/845/846).'
   run_844_note: 'run no.844 (2026-07-26T07:56Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/evolution-of-consciousness.md.
     Pre-write count_p0_p2_tasks == 2 (tool-run, LIVE on disk; state snapshot p2_tasks:3
@@ -1248,7 +1250,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
