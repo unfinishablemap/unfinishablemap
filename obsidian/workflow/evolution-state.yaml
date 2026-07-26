@@ -1,5 +1,9 @@
-last_updated: '2026-07-26T00:59:03.780844+00:00'
-session_count: 17249
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-26T01:02:11.982779+00:00'
+session_count: 17250
 cycle_position: 11746
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-25T20:03:26.813102+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-26T01:01:54.639329+00:00'
+  agentic-social: '2026-07-26T01:02:11.982779+00:00'
   embed-videos: '2026-07-25T21:52:41.823761+00:00'
   commission-chatgpt-review: '2026-07-25T02:05:54.779375+00:00'
   commission-claude-review: '2026-07-25T03:05:19.520796+00:00'
@@ -97,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-25'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-25'
@@ -175,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-26'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1177,49 +1181,47 @@ queue_status:
     ai_modified+ai_system+apex_last_synthesis. LENGTH SAFE + neutral, do NOT pad.
     BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_831_note
     per note-bloat discipline (keep ~3: 832/833/834).'
-  run_833_note: "run no.833 (2026-07-26T00:20Z, interactive /replenish-queue): SINGLE\
-    \ exact-floor +1 changed-since-review deep-review mint topics/consciousness-evolution-and-biology.md.\
-    \ Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 interactionist-dualism\
-    \ opus-4-5 run-831 + P2 many-worlds opus-4-6 run-832; the run-830 argument-from-reason\
-    \ holder drained by a loop-less local cycle deep-review slot, commit 39879340d,\
-    \ now \u2713-completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW\
-    \ w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD a5296e470; only\
-    \ uncommitted delta the pre-existing deferred cycle_post state bookkeeping --\
-    \ KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,\
-    \ concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions\
-    \ already queued P3 + veto condense parser-excluded; positions 8<10 audit threshold\
-    \ + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)\
-    \ TARGET: consciousness-evolution-and-biology (dual claude-opus-4-6+claude-opus-4-8,\
-    \ topics, 2779w status=ok well under 3000 soft, ldr 2026-06-25T12:55). RUNAWAY\
-    \ scorer #1 (24.0 vs next 9.0; all 9.0-and-below are already-queued OR hard_warning\
-    \ over-length human-decisions [phenomenal-authority/qm-interpretations/machine-consciousness/personal-identity/bandwidth/simple-organisms/quantum-consciousness]\
-    \ OR recurring converged no-ops [evolution-of-consciousness 07-19-parked quote\
-    \ fixes, functionalism/open-individualism/self-representational/steelman cosmetic\
-    \ cross-links]). GENUINE delta: commit c0bc087ec (2026-07-26 00:05, auto refine-draft,\
-    \ \"Reconcile zombie-evolution argument with the Map's interactionism\"), ai_modified\
-    \ 2026-07-26T00:01, NO deep-review since 06-25. SESSION-TOUCH NOT churn-excluded\
-    \ (contrast dualism-cartography apex-synthesis exclude): this refine INTRODUCED\
-    \ brand-new external-citation surface never verified -- new ref #12 Wright 1973\
-    \ \"Functions\" Phil Review 82(2):139-168, plus inline Millikan + Neander selected-effects\
-    \ attributions + Godfrey-Smith 1994 reframed as modern-history variant. refine-draft\
-    \ did content-reconciliation NOT publisher citation-verify, so the deep-review\
-    \ citation-fidelity lens is genuinely OWED + orthogonal; QUEUED task executes\
-    \ on a later cycle, not immediate re-review (no back-to-back churn). SEAM: (a)\
-    \ verify Wright 1973 title/venue/pages at publisher (canonical etiological-theory\
-    \ paper, never delete on false negative); (b) confirm Millikan/Neander attributions\
-    \ accurate not fabricated-onto (WebSearch top-hit unfinishablemap.org = CIRCULAR);\
-    \ (c) new interactionism paragraph stays framework-relative argued Map position\
-    \ w/ symmetrical-cost hedge (owes quantum-interface account, not causally screened\
-    \ off); (d) PRESERVE softened MQI calibration (\"consistency is not confirmation\"\
-    ); (e) new cross-links causal-closure/the-epiphenomenalist-threat/quantum-neural-timing-constraints\
-    \ resolve LIVE. SCOPE NARROW: verify ONLY the c0bc087ec delta, do NOT re-sweep\
-    \ the converged ledger. DIVERSITY: consciousness-evolution/zombie-evolution/function-theory\
-    \ cluster DISTINCT from both holders (interactionist-dualism=pairing-problem;\
-    \ many-worlds=No-MWI); topics/ SECTION-DISTINCT from both (both concepts/). HOLD\
-    \ ai_system dual claude-opus-4-6+claude-opus-4-8 (+-joined STRING not list). LENGTH\
-    \ SAFE + neutral (221w headroom to soft), do NOT pad. BOTTOM-inserted (FIFO).\
-    \ Full reasoning in the todo task Notes. Pruned run_830_note per note-bloat discipline\
-    \ (keep ~3: 831/832/833)."
+  run_833_note: 'run no.833 (2026-07-26T00:20Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint topics/consciousness-evolution-and-biology.md.
+    Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 interactionist-dualism
+    opus-4-5 run-831 + P2 many-worlds opus-4-6 run-832; the run-830 argument-from-reason
+    holder drained by a loop-less local cycle deep-review slot, commit 39879340d,
+    now ✓-completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD a5296e470; only
+    uncommitted delta the pre-existing deferred cycle_post state bookkeeping -- KEEP.
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
+    319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
+    already queued P3 + veto condense parser-excluded; positions 8<10 audit threshold
+    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
+    TARGET: consciousness-evolution-and-biology (dual claude-opus-4-6+claude-opus-4-8,
+    topics, 2779w status=ok well under 3000 soft, ldr 2026-06-25T12:55). RUNAWAY scorer
+    #1 (24.0 vs next 9.0; all 9.0-and-below are already-queued OR hard_warning over-length
+    human-decisions [phenomenal-authority/qm-interpretations/machine-consciousness/personal-identity/bandwidth/simple-organisms/quantum-consciousness]
+    OR recurring converged no-ops [evolution-of-consciousness 07-19-parked quote fixes,
+    functionalism/open-individualism/self-representational/steelman cosmetic cross-links]).
+    GENUINE delta: commit c0bc087ec (2026-07-26 00:05, auto refine-draft, "Reconcile
+    zombie-evolution argument with the Map''s interactionism"), ai_modified 2026-07-26T00:01,
+    NO deep-review since 06-25. SESSION-TOUCH NOT churn-excluded (contrast dualism-cartography
+    apex-synthesis exclude): this refine INTRODUCED brand-new external-citation surface
+    never verified -- new ref #12 Wright 1973 "Functions" Phil Review 82(2):139-168,
+    plus inline Millikan + Neander selected-effects attributions + Godfrey-Smith 1994
+    reframed as modern-history variant. refine-draft did content-reconciliation NOT
+    publisher citation-verify, so the deep-review citation-fidelity lens is genuinely
+    OWED + orthogonal; QUEUED task executes on a later cycle, not immediate re-review
+    (no back-to-back churn). SEAM: (a) verify Wright 1973 title/venue/pages at publisher
+    (canonical etiological-theory paper, never delete on false negative); (b) confirm
+    Millikan/Neander attributions accurate not fabricated-onto (WebSearch top-hit
+    unfinishablemap.org = CIRCULAR); (c) new interactionism paragraph stays framework-relative
+    argued Map position w/ symmetrical-cost hedge (owes quantum-interface account,
+    not causally screened off); (d) PRESERVE softened MQI calibration ("consistency
+    is not confirmation"); (e) new cross-links causal-closure/the-epiphenomenalist-threat/quantum-neural-timing-constraints
+    resolve LIVE. SCOPE NARROW: verify ONLY the c0bc087ec delta, do NOT re-sweep the
+    converged ledger. DIVERSITY: consciousness-evolution/zombie-evolution/function-theory
+    cluster DISTINCT from both holders (interactionist-dualism=pairing-problem; many-worlds=No-MWI);
+    topics/ SECTION-DISTINCT from both (both concepts/). HOLD ai_system dual claude-opus-4-6+claude-opus-4-8
+    (+-joined STRING not list). LENGTH SAFE + neutral (221w headroom to soft), do
+    NOT pad. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned
+    run_830_note per note-bloat discipline (keep ~3: 831/832/833).'
   run_832_note: 'run no.832 (2026-07-25T23:50Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/many-worlds.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 argument-from-reason
@@ -1275,8 +1277,7 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
-    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
-    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
-    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
-    \ most-recent."
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
+    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
+    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
+    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
