@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-06-02T18:39:02+00:00
+ai_modified: 2026-07-26T05:31:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[identity-across-transformations]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-06T19:14:25+00:00
@@ -75,7 +75,7 @@ The answer cannot be purely qualitative. By hypothesis, you and your zombie twin
 
 This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences. Benj Hellie called this "the [[vertiginous-question|vertiginous question]]"—why, of all conscious beings, am *I* this one? The question is vertiginous because it seems unanswerable yet undeniably meaningful.
 
-This haecceitistic dimension of consciousness extends to the quantum domain. If the [[measurement-problem]] asks why definite outcomes occur rather than superpositions, the indexical question asks: given that a definite outcome occurs, why does *this* particular consciousness experience *this* particular result? The indexical gap—examined in depth in [[indexical-identity-quantum-measurement]]—reveals that no quantum interpretation adequately addresses the haecceity of conscious experience.
+This haecceitistic dimension of consciousness extends to the quantum domain. If the [[measurement-problem]] asks why definite outcomes occur rather than superpositions, the indexical question asks: given that a definite outcome occurs, why does *this* particular consciousness experience *this* particular result? The indexical gap—examined in depth in [[indexical-identity-quantum-measurement]]—reveals that no existing quantum-interpretive account satisfies the Map's primitive-subject standard for the haecceity of conscious experience—self-location and branch-relative treatments address the question, but the Map judges them to fall short of that standard.
 
 ## The Map's Indexical Emphasis
 

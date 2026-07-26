@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T05:31:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/haecceity]]
+- **Trigger**: Cross-review neighbour propagation of the convergent 2026-07-26 outer reviews (synthesis [[reviews/outer-review-synthesis-2026-07-26]]); same over-claim class already corrected in [[concepts/indexical-knowledge-and-identity]].
+- **Original score**: not re-scored (single-sentence calibration pass)
+- **Changes**:
+  - Downgraded the over-strong claim at the close of "Why Consciousness Requires Haecceity" from "no quantum interpretation adequately addresses the haecceity of conscious experience" to "no existing quantum-interpretive account satisfies the Map's primitive-subject standard" — acknowledging that self-location and branch-relative treatments do address the question but fall short by the Map's criterion, rather than implying the question is unaddressed. Preserved the [[indexical-identity-quantum-measurement]] cross-link and the substantive Map position. Length-neutral (one sentence rewritten, no external accounts named).
+- **Published**: yes
+
 ## 2026-07-26T05:23:37+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/indexical-knowledge-and-identity]]
