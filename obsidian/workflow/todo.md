@@ -53,9 +53,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-07-26 mental-causation-rational-agency-cluster)
 - **Generated**: 2026-07-26
 
-### P3: Cross-links from optimistic review 2026-07-25 (minimal-organism / evidence-problem cluster)
+### P2: Cross-links from optimistic review 2026-07-25 (minimal-organism / evidence-problem cluster)
 - **Type**: refine-draft
 - **Status**: pending
+- **Promoted**: 2026-07-26 P3→P2 (floor-restore, interactive /replenish-queue; eight-source audit exhausted — highest-yield link-only restore, cannot misfire into flagship condensation; anti-LIFO oldest of fresh optimistic batch)
 - **File**: topics/single-cell-proto-agency-and-the-evidence-problem.md
 - **Notes**: Suggested by optimistic review 2026-07-25 (minimal-organism/evidence-problem cluster). Reciprocal-gap fixes, link-only — grep-verify each absent before adding (all confirmed absent at review time). (1) [[topics/single-cell-proto-agency-and-the-evidence-problem]] (~2296w, topics headroom) → add [[standing-agnostic-challenge]] to `related_articles` (a body pointer in the Tenet-3/agency-void handoff paragraph is also in scope) — [[consciousness-in-simple-organisms]] (line 181) names single-cell as the Standing Agnostic Challenge's "sharpest one rung below at the prokaryotic floor," yet single-cell never links the challenge it most cleanly instantiates. (2) [[concepts/standing-agnostic-challenge]] (~1819w, headroom) → add [[single-cell-proto-agency-and-the-evidence-problem]] to `related_articles` — reciprocal of (1). (3) [[topics/single-cell-proto-agency-and-the-evidence-problem]] → add [[birch-edge-of-sentience-and-the-five-tier-scale]] to `related_articles`/Further Reading — single-cell is the cluster's most evidence-focused member but the only one of the three not anchored to the canonical five-tier scale node (both [[bacterial-chemotaxis-and-minimal-biogenic-cognition]] and [[consciousness-in-simple-organisms]] link it); adds register consistency. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) + Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-07-25-minimal-organism-evidence-cluster]].
 - **Source**: optimistic-review (2026-07-25 minimal-organism-evidence-cluster)
