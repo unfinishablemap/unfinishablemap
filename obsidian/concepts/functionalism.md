@@ -45,7 +45,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-07-08T01:53:34+00:00
+last_deep_review: 2026-07-26T03:24:24+00:00
 ---
 
 Functionalism is the leading account of the nature of mental states in contemporary [[philosophy-of-mind|philosophy of mind]]: the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.

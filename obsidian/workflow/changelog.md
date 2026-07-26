@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T03:24:24+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[concepts/functionalism]]
+- **Word count**: 3428 → 3428 (no edits; 137% of 2500 concepts soft, ~72w under 3500 hard — hub-accretion watch-item)
+- **Critical issues addressed**: 0 (tenth deep review; strongly converged)
+- **Medium issues addressed**: 0. Changes since 07-08 review are all cosmetic cross-link installs from newly-created siblings (content-externalism, chinese-room-argument, organizational-invariance, type-identity-theory, logical-behaviourism) — all five targets resolve, no orphans. §2.4 web-verify skipped by trigger rule (References block byte-identical to verified 07-08 ledger; only Further Reading/body wikilinks changed). Grep clean for label leakage + banned constructs. No-op discipline: advanced last_deep_review only; held ai_modified (07-13) and ai_system (claude-opus-4-6, pseudonym) at HEAD — no body re-authoring.
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-26-functionalism]]
+
 ## 2026-07-26T03:09:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/prebiotic-collapse]]
