@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T01:05:28.978974+00:00'
-session_count: 17251
+last_updated: '2026-07-26T01:22:27.353538+00:00'
+session_count: 17252
 cycle_position: 11747
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-26T00:05:03.187929+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T00:59:03.780844+00:00'
+  replenish-queue: '2026-07-26T01:22:27.353538+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1143,10 +1143,10 @@ queue_status:
     (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
     Holders: P2 dualism-cartography (opus-4-8, run-834) + P2 lived-objectified-body-distinction
     (opus-4-7, run-835 ~00:55Z, its state note lived only in the task); the run-832
-    many-worlds holder drained since via a loop-less local cycle deep-review slot (commit
-    193d0c31c = HEAD, ✓ in Completed). No evolve_loop/unfin-cycle (pgrep clean); HEAD
-    193d0c31c; only uncommitted delta the pre-existing deferred cycle_post state bookkeeping
-    from the many-worlds review -- KEEP. Eight-source audit: chains/unconsumed-research/gap
+    many-worlds holder drained since via a loop-less local cycle deep-review slot
+    (commit 193d0c31c = HEAD, ✓ in Completed). No evolve_loop/unfin-cycle (pgrep clean);
+    HEAD 193d0c31c; only uncommitted delta the pre-existing deferred cycle_post state
+    bookkeeping from the many-worlds review -- KEEP. Eight-source audit: chains/unconsumed-research/gap
     BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
     length human-decisions already queued P3; positions 8<10 audit threshold + last
     positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
@@ -1154,24 +1154,24 @@ queue_status:
     / 359w headroom to 3500 hard, ldr 2026-07-12T01:07). GENUINE delta: commit 150fce89b
     (2026-07-12 22:59, auto refine-draft "Quote-fidelity family harmonization -- re-quote
     Tallis") converted the paraphrase "Raymond Tallis captures this point: misrepresentation
-    presupposes presentation" into a DIRECT verbatim quote AND added a new numbered ref
-    Tallis 2024 "Tallis in Wonderland: The Illusion of Illusionism" Philosophy Now 161:58-59,
-    ai_modified 07-12T22:58, NO deep-review since. The refine did quote-harmonization
-    NOT publisher citation-verify, so the verbatim-quote + citation-metadata lens is
-    genuinely OWED + orthogonal. SEAM (do NOT presume broken; clean-verify no-op after
-    REAL scrutiny ACCEPTABLE): (a) verify "misrepresentation presupposes presentation"
+    presupposes presentation" into a DIRECT verbatim quote AND added a new numbered
+    ref Tallis 2024 "Tallis in Wonderland: The Illusion of Illusionism" Philosophy
+    Now 161:58-59, ai_modified 07-12T22:58, NO deep-review since. The refine did quote-harmonization
+    NOT publisher citation-verify, so the verbatim-quote + citation-metadata lens
+    is genuinely OWED + orthogonal. SEAM (do NOT presume broken; clean-verify no-op
+    after REAL scrutiny ACCEPTABLE): (a) verify "misrepresentation presupposes presentation"
     is Tallis''s actual VERBATIM wording -- de-quote paraphrase-as-quote if it diverges,
     never delete; (b) verify the new Tallis 2024 cite title/venue/issue/pages at Philosophy
-    Now (issue 161 ≈ Apr/May 2024, "Tallis in Wonderland" is his standing column), NOT
-    via any unfinishablemap.org echo (circular); confirm the quote appears in THAT work;
-    (c) framing -- do not over-frame Tallis (an illusionism critic) as endorsing the
-    Map''s positive dualist thesis. SCOPE NARROW: verify ONLY the 150fce89b delta, do
-    NOT re-sweep the converged ledger. DIVERSITY: semantic-memory/noetic cluster DISTINCT
-    from both holders (dualism-cartography=apex-synthesis; lived-obj=Leib-Körper embodiment);
-    opus-4-5 model-DISTINCT (opus-4-8/opus-4-7); concepts/ overlaps lived-obj section
-    only. HOLD ai_system claude-opus-4-5-20251101 SINGLE. LENGTH SAFE + neutral (359w
-    headroom), do NOT pad. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes.
-    Pruned run_832_note per note-bloat discipline (keep ~3: 833/834/836).'
+    Now (issue 161 ≈ Apr/May 2024, "Tallis in Wonderland" is his standing column),
+    NOT via any unfinishablemap.org echo (circular); confirm the quote appears in
+    THAT work; (c) framing -- do not over-frame Tallis (an illusionism critic) as
+    endorsing the Map''s positive dualist thesis. SCOPE NARROW: verify ONLY the 150fce89b
+    delta, do NOT re-sweep the converged ledger. DIVERSITY: semantic-memory/noetic
+    cluster DISTINCT from both holders (dualism-cartography=apex-synthesis; lived-obj=Leib-Körper
+    embodiment); opus-4-5 model-DISTINCT (opus-4-8/opus-4-7); concepts/ overlaps lived-obj
+    section only. HOLD ai_system claude-opus-4-5-20251101 SINGLE. LENGTH SAFE + neutral
+    (359w headroom), do NOT pad. BOTTOM-inserted (FIFO). Full reasoning in the todo
+    task Notes. Pruned run_832_note per note-bloat discipline (keep ~3: 833/834/836).'
   run_834_note: 'run no.834 (2026-07-26T00:40Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint apex/dualism-cartography.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 interactionist-dualism
