@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Cross-links from optimistic review 2026-07-26 (mental-causation / rational-agency cluster)
+### P2: Cross-links from optimistic review 2026-07-26 (mental-causation / rational-agency cluster)
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: concepts/metacognition.md
+- **File**: obsidian/concepts/metacognition.md
 - **Notes**: Suggested by optimistic review 2026-07-26 (mental-causation / rational-agency cluster). Link-only, reciprocal-gap fixes — grep-verify each absent before adding (all confirmed absent at review time, 0 hits both directions). `metacognition.md` is entirely disconnected from the two rational-agency articles it conceptually centres on, despite the "grasping reasons *qua* reasons" (argument-from-reason) / "representing representations *as* representations" (metacognition) overlap and a shared `phenomenology-of-choice-and-volition` hub. (1) [[concepts/metacognition]] → add [[argument-from-reason]] and [[agent-causation]] to `related_articles` — metacognition's "choosing-as-metarepresentation" and self-as-object sections describe the standing-back-and-selecting that both articles make load-bearing; the productive *tension* (metacognition: metarepresentation is a *tool* consciousness uses; argument-from-reason: grasping reasons *requires* consciousness) strengthens both. (2) [[argument-from-reason]] → add [[metacognition]] to Further Reading — reciprocal of (1); its PIT/aboutness material and metacognition's metarepresentation-threshold are two views of one joint. Length-neutral; no new-article mints (topics 321/320, concepts 320/320 both at cap). Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-07-26-mental-causation-rational-agency-cluster]].
 - **Source**: optimistic-review (2026-07-26 mental-causation-rational-agency-cluster)
 - **Generated**: 2026-07-26
