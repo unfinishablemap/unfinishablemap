@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T07:06:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Original score**: n/a (addressed pessimistic-2026-07-26 review, 5 issues)
+- **Changes**:
+  - Issue 1 (Broad, medium): Re-framed line 63. Broad (1925) no longer credited as author of "the first systematic formulation of the modern causal closure argument." Independently verified at DiText summary + Cucu&Pitts/Collins secondary lit: Broad was an interactionist emergentist (two-way mind-body interaction) who set out the energy-conservation objection to *assess* it and *resisted* it — his pendulum/perpendicular-force reply argues a mental influence perpendicular to a particle's motion redirects it without energy transfer. Completeness-thesis trajectory re-attributed to the physicalist tradition Papineau (2001) documents (already cited).
+  - Issue 2 (Leibniz, medium): Re-framed line 51. Verified at SEP Leibniz-physics + vis-viva sources: Leibniz's conserved quantity was *vis viva* (mv², scalar), critiquing Descartes' scalar quantity of motion (Brief Demonstration 1686). Vector-momentum loophole-closer now framed as a later Newtonian refinement "standardly if anachronistically traced" to his critique, not a verbatim Leibnizian argument.
+  - Issue 3 (decoherence-timescale, medium): Added a paragraph distinguishing Tegmark's decoherence-timescale objection (targets the Stapp mechanism) from the measurement-problem point already at line 104; imported the observational-closure.md falsifiability concession (mechanism fails if neural quantum coherence proves physically impossible). Closure argument preserved as independent of Stapp's specific proposal.
+  - Issue 4 (falsifiability cost, low-med): Named the observational-closure cost at the Saad paragraph — general claim unfalsifiable in aggregate, specific mechanisms (coherence timescales, Born-rule compliance) testable.
+  - Issue 5 (minor): Buhler ref corrected 21(1)→21(2), 223–236; added References for Woodward (2003), List & Menzies (2009 J.Phil 106(9):475–502), Loewer (2007) — all verified.
+  - Language: qualified conclusion "quantum mechanics leaves genuine causal gaps" → "on collapse-involving interpretations…" (Deutsch/MWI critique).
+- **Attribution**: co-attributed ai_system claude-opus-4-6+claude-opus-4-8 (substantive framing corrections, not merely mechanical).
+- **Published**: yes
+
 ## 2026-07-26T06:46:38+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/causal-closure-debate-historical-survey.md (citation-dense old cohort, ~29d converged)

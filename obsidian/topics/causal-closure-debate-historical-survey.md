@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-07-26T07:06:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[the-strong-emergence-of-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-19
 last_curated:
 last_deep_review: 2026-06-27T02:31:17+00:00
@@ -48,9 +48,9 @@ The philosophical significance lies less in Descartes' answer than in Elisabeth'
 
 ## Leibniz and the Closure of the Loophole
 
-Leibniz saw a vulnerability in Descartes' directional manoeuvre. In his *Discourse on Metaphysics* (1686) and subsequent writings, Leibniz argued that conservation applies to direction as well as speed — what we now call momentum is a vector quantity. If total momentum is conserved in both magnitude and direction, mind cannot redirect bodily motion without violating conservation.
+Leibniz saw a vulnerability in Descartes' directional manoeuvre. In his *Discourse on Metaphysics* (1686) and the *Brief Demonstration* (1686), he argued that Descartes had misidentified the conserved quantity: what nature conserves is *vis viva* (mv², the ancestor of kinetic energy), not the scalar quantity of motion, and Descartes had wrongly treated that quantity as indifferent to direction. The vector-momentum principle that fully closes the directional loophole — total momentum conserved in magnitude *and* direction, so mind cannot redirect bodily motion without violating conservation — is a later, Newtonian refinement, standardly if anachronistically traced back to this critique.
 
-This was an intellectual move of lasting consequence. Leibniz's response elevated a physics claim — conservation of a particular quantity — into a constraint on the metaphysics of mind. The inference pattern would recur for centuries: identify a conserved quantity, then argue that non-physical causation would violate it.
+The response elevated a physics claim — conservation of a particular quantity — into a constraint on the metaphysics of mind, and the inference pattern would recur for centuries: identify a conserved quantity, then argue that non-physical causation would violate it.
 
 Leibniz himself drew a radical conclusion: pre-established harmony, where mind and body never interact at all but run in parallel like synchronised clocks. The cost of accepting the conservation argument at face value was giving up on interaction entirely — a result most dualists, and the Map, regard as too high.
 
@@ -60,7 +60,7 @@ Helmholtz's *On the Conservation of Force* (1847) established energy conservatio
 
 By the 1870s, figures like Tyndall and Huxley were drawing explicitly materialist conclusions. Huxley's famous "conscious automaton" thesis (1874) treated consciousness as [[concepts/epiphenomenalism|epiphenomenal]] — a by-product of brain processes with no causal power. The argument relied implicitly on causal closure: if physics accounts for everything the brain does, consciousness has nothing left to do.
 
-C.D. Broad, in *The Mind and Its Place in Nature* (1925), later made the conservation argument fully explicit: if energy conservation holds universally, and mental causation would require energy transfer, then mental causation is impossible. This was the first systematic formulation of what would become the modern causal closure argument — the capstone of a trajectory that had been implicit in Huxley and Tyndall's materialist conclusions decades earlier.
+C.D. Broad, in *The Mind and Its Place in Nature* (1925), stated the conservation objection in its sharpest form: if energy conservation holds universally, and mental causation would require energy transfer, then mental causation is impossible. Broad set the argument out in order to *assess* it, not to endorse it. An emergentist who defended two-way mind-body interaction, he resisted the objection — arguing that a mental influence acting perpendicular to a particle's motion could redirect it without transferring energy. The hardening of this objection into a systematic completeness thesis belongs to the physicalist tradition Papineau (2001) documents, not to Broad, whose careful statement of the argument was later mistaken for its endorsement.
 
 Yet as [[conservation-laws-and-mental-causation]] argues, the argument from energy conservation to causal closure appears to contain a gap. Conservation is *local and conditional* — derived from spatial symmetries via Noether's theorem — so presupposing its universal application to brain processes arguably assumes what the argument needs to establish. A cause that *selects among* energetically equivalent outcomes need not inject energy at all.
 
@@ -103,7 +103,9 @@ More broadly, on standard (non-hidden-variable, single-world) readings, quantum 
 
 The response that "decoherence restores effective classicality" does not address the relevant gap. [[decoherence|Decoherence]] selects preferred bases and suppresses interference, but it does not explain why one outcome rather than another becomes actual. The measurement problem remains unsolved, and on collapse-involving readings it marks exactly where causal closure is not secured.
 
-Sophie Gibb (2010) reinforces the physics-based challenge from within the philosophy of physics. Conservation laws, she argues, do not establish causal completeness of the physical domain. The derivation of conservation from spatial symmetries (Noether's theorem) does not entail that no non-physical influences exist — it entails only that physics is invariant under certain transformations. Bradford Saad's distinction between [[observational-closure|observational and universal closure]] provides the framework: physics supports observational closure (no *detectable* violations) but not universal closure (no violations *anywhere*). The empirical evidence underdetermines the metaphysics.
+A separate decoherence worry targets the Map's positive proposal rather than the closure gap. If superpositions in warm neural tissue collapse too fast for consciousness to select among them (Tegmark's objection), Stapp's mechanism has no indeterminacy left to exploit. The Map takes this as a bounded, testable commitment: as [[observational-closure]] concedes, the mechanism is falsifiable and would fail if neural quantum coherence proves physically impossible. The closure argument itself does not rest on it — it turns on the interpretation-dependence of collapse, whether or not Stapp's specific proposal survives.
+
+Sophie Gibb (2010) reinforces the physics-based challenge from within the philosophy of physics. Conservation laws, she argues, do not establish causal completeness of the physical domain. The derivation of conservation from spatial symmetries (Noether's theorem) does not entail that no non-physical influences exist — it entails only that physics is invariant under certain transformations. Bradford Saad's distinction between [[observational-closure|observational and universal closure]] provides the framework: physics supports observational closure (no *detectable* violations) but not universal closure (no violations *anywhere*). The empirical evidence underdetermines the metaphysics. This carries an acknowledged cost: the general claim that *some* mental causation occurs leaves no detectable trace in aggregate and is, to that extent, unfalsifiable — while *specific* mechanisms (neural coherence timescales, Born-rule compliance) remain testable. The interaction hides in the statistics; the mechanisms that would implement it do not.
 
 ## An Empirical Claim Hardened into an Axiom
 
@@ -119,7 +121,7 @@ The Map rejects universal causal closure while respecting observational closure.
 
 The historical survey coheres with the Map's position through [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]]. The apparent simplicity of causal closure — one domain, one kind of cause — arguably reflects the same pattern that made geocentrism, continuous matter, and deterministic physics seem simpler than the truth. On this reading an empirical assumption was elevated to a metaphysical axiom because it simplified the picture rather than because the evidence compelled it — though the survey offers this as the more plausible reading of the history, not as a demonstration that closure is false.
 
-The Map does not claim that rejecting causal closure is simple. It claims that the arguments for closure are weaker than commonly assumed, that quantum mechanics leaves genuine causal gaps, and that consciousness — the one thing we know most directly — is a plausible candidate for filling those gaps. The debate is not settled. But the history shows it was never as one-sided as textbooks suggest.
+The Map does not claim that rejecting causal closure is simple. It claims that the arguments for closure are weaker than commonly assumed, that on collapse-involving interpretations quantum mechanics leaves genuine causal gaps, and that consciousness — the one thing we know most directly — is a plausible candidate for filling those gaps. The debate is not settled. But the history shows it was never as one-sided as textbooks suggest.
 
 ## Further Reading
 
@@ -136,16 +138,19 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 
 ## References
 
-1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(1). doi:10.1515/mp-2019-0026
+1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(2), 223–236. doi:10.1515/mp-2019-0026
 2. Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95–121.
 3. Gibb, S.C. (2010). "Closure Principles and the Laws of Conservation of Energy and Momentum." *Dialectica*, 64(3), 363–384.
 4. Kim, J. (1993). *Supervenience and Mind: Selected Philosophical Essays*. Cambridge University Press.
 5. Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
-6. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
-7. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
-8. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-9. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
-10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
-11. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-12. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-13. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+6. List, C. & Menzies, P. (2009). "Nonreductive Physicalism and the Limits of the Exclusion Principle." *Journal of Philosophy*, 106(9), 475–502.
+7. Loewer, B. (2007). "Mental Causation, or Something Near Enough." In B.P. McLaughlin & J.D. Cohen (Eds.), *Contemporary Debates in Philosophy of Mind* (pp. 243–265). Blackwell.
+8. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
+9. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
+10. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+11. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
+12. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
+13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+14. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
+15. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+16. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
