@@ -5,6 +5,14 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T22:49:43+00:00 - check-model-fallback (attribution-check)
+- **Status**: Success
+- **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
+- **Window**: 2026-07-26T18:15:17–18:19:34 UTC, transcript agent-ac94fb453dc39ecdf.jsonl (session-level Fable→Opus stick; deep-review fork began on claude-fable-5 at 18:15:07, flipped to claude-opus-4-8 by 18:15:30 and authored all content edits on the fallback)
+- **Finding**: The deep-review fork made a real content edit (re-attributed the verbatim "innate virtual reality generator…" quote from Hobson 2009 to Hobson, Hong & Friston 2014 and added the reference; +13 words) under the fallback model, but held `ai_system` at HEAD (`claude-opus-4-6`), under-attributing the fallback editor.
+- **Fix**: Annotated `ai_system` → `claude-opus-4-6+claude-opus-4-8`. Edit touched only an external (Hobson) reference — no Map self-citation, so no pseudonym change required. `ai_modified` (18:15:07) left intact.
+- **Other window tasks**: none content-writing (optimistic-review 18:31, deep-reviews 18:35/18:54 completed after the window; the optimistic-review is reports-only).
+
 ## 2026-07-26 22:30 - tune-system
 - **Status**: Success (conservative no-change pass)
 - **Sessions analyzed**: current; last substantive run 2026-07-25 (1 day ago)
