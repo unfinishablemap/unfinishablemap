@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T07:47:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Original score**: N/A (issue-targeted; from outer review 2026-07-26 Gemini 2.5 Pro hostile-referee, distinct-findings task)
+- **Scope**: Engaged four untreated competing non-collapse frameworks the same-date ChatGPT/Claude tasks did not cover (citation-fidelity/superlatives/caring-measure already handled; the recent 07-19..07-26 recalibration was preserved, not undone).
+- **Changes**:
+  - (a) Quantum Modal Realism (Wilson 2020, OUP) — added a full paragraph in Relation to Site Perspective: diverging-worlds Everettianism dissolves the paradox without collapse via counterpart relations; engaged at the framework boundary (QMR still denies Tenet 4 and deflates indexical identity — same bedrock as the caring-measure reply). Engagement with Wilson/QMR: framework-boundary marking (honest bedrock residue, not in-framework refutation); the prior overlapping-worlds assumption of the hidden-premise move is now made explicit.
+  - (b) Big-world/infinite-cosmology immortality (Greene, AJP) — one sentence folded into the non-deflationary-*I* paragraph: the Map's denial of Parfitian identity, not its physics, closes this route.
+  - (c) Formal self-location (Ruyant 2025, *Noûs*) — hedge/citation clause in the measure-problem section (RTE/indexicals make self-locating updating non-trivial; no immortalist concession).
+  - (d) Collapse-notion disambiguation — clause distinguishing the Map's consciousness-caused minimal-interaction collapse (Tenet 2) from spontaneous GRW/CSL/DP; underground bounds (Donadi et al. 2021, ruling out Diósi–Penrose) constrain spontaneous localization, NOT the Map's reduction. Did NOT propagate the reviewer's false "Map collapse is falsified" charge.
+- **Source verification**: all four verified at primary publisher. Wilson 2020 title/subtitle + diverging-worlds (mereologically disjoint, shared history) confirmed via NDPR/Mind reviews; Ruyant *Noûs* 59(1):140–159 2025 confirmed via Wiley; Greene AJP confirmed; Donadi *Nat. Phys.* 17:74–78 (2021) Diósi–Penrose ruling-out confirmed.
+- **Length**: 3673 → 3990 words (full file), under the 4000 topics hard ceiling. Additions (~315w incl. 4 refs) offset by compensating trims to expository prose (history priority-dispute detail, torment/Papineau digression, recap section, reference annotations) to stay under ceiling without gutting the QMR engagement or touching the recalibrated dialectic.
+- **Published**: yes
+
 ## 2026-07-26T07:33:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/causal-closure-debate-historical-survey]]
