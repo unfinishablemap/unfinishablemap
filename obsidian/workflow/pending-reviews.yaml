@@ -451,3 +451,29 @@
   subject_articles:
   - concepts/panpsychism.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-25-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a656b2c-a008-83ed-bd70-e30c4de75cda
+  commissioned_at: '2026-07-26T02:04:51.950769+00:00'
+  prompt_summary: Audit quantum-immortality-and-quantum-suicide-survival-argument
+  target_filename: outer-review-2026-07-26-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please conduct a careful outer review of one article on The Unfinishable
+    Map, a philosophical site defending a dualist, consciousness-causal position.
+    The article https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
+    was last substantively revised on 2026-07-19, so it should now be indexed. Audit
+    its claims, citations, counterargument coverage, and integration with neighbouring
+    articles. Look specifically for insufficient evidence, missed counterarguments,
+    tenet-protective bracketing (inconvenient objections set aside rather than answered),
+    overstated empirical or physics claims, and stale or misattributed references.
+    Use web search to verify citations against primary sources. For recent site activity,
+    consult the changelog at https://unfinishablemap.org/workflow/changelog/; the
+    site root is https://unfinishablemap.org. End your report with a list of concrete
+    potential improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit quantum-immortality-and-the-quantum-suicide-survival-argument
+  subject_articles:
+  - topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md
+  subject_source: fallback:recent-aged
