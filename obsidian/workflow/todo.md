@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Resolve modal-status gaps in continual-learning-argument.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/continual-learning-argument.md
+- **Notes**: Pessimistic review 2026-07-26 found two High-severity structural issues. (1) SELF-REFUTING PROXIMITY: §"The Proximity Argument" concedes the substitution-space proximity claim is "only formal, not in any sense that matters for physical construction" and physically as unrealisable as a brain lookup-table, yet the Whitehead + Relation-to-Site + conclusion sections keep deploying proximity as if sound. Reconstruct so the load rests on the frozen-weights/no-continual-learning point (line 78 already signals this) and demote proximity to motivation. (2) NECESSITY vs CONSEQUENCE: line 80 needs "continual learning is necessary for consciousness" but line 176 states it is "a *consequence* of consciousness rather than its *cause* ... regardless of what mechanism produces the correlation" — a correlation cannot ground a necessity/"almost certainly lack" conclusion. Make modal status explicit: either downgrade the conclusion to a defeasible inference (drop "necessarily", line 80) or supply an independent constitutive-necessity argument. Also (Medium): falsifiability claimed (line 90) but "might be conscious" is not observationally checkable — reframe as theoretical not empirical falsifiability; Whitehead "creative advance" (line 124) conflates epistemic openness with metaphysical indeterminacy — soften or route through the quantum speculation. Length-neutral / net-neutral; preserve the article's existing self-critical hedges. See pessimistic-2026-07-26-continual-learning-argument.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-07-26
+
 ### P3: Reciprocal cross-link — embodied-cognition -> multiple-drafts-model
 - **Type**: integrate-orphan
 - **Status**: pending
