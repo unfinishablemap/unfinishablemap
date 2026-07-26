@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-26 06:19:34+00:00
+ai_modified: 2026-07-26 12:06:11+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[quantum-immortality-and-the-quantum-suicide-survival-argument]]'
 title: Indexical Identity and Quantum Measurement
 topics:
 - '[[hard-problem-of-consciousness]]'

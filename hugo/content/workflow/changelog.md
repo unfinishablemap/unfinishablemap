@@ -9,6 +9,67 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-26T14:11:11+00:00 - deep-review
+- **Status**: Success (no-op / converged — narrow citation spot-check)
+- **File**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
+- **Word count**: 2462 → 2462 (0)
+- **Scope**: Fresh-eyes spot-check of the 4 highest-risk named-author attributions + the one direct verbatim quote (targeted at this file's Meyer-Brancazio false-negative track record). NOT a full ledger re-verify — 06-20 web-verified the whole apparatus 36 days ago.
+- **Web-verify ledger**: Thompson 2007 verbatim quote (real-correct, verbatim vs Mind in Life); De Jaegher & Di Paolo 2013 (real-correct); Wu 2024 (real-correct); Meyer & Brancazio 2022 (real-correct — 06-20 fix held). No wrong-first-author, no misframed quote, no skeptic-as-pro-Map error.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (bumped last_deep_review only; held ai_modified + ai_system single claude-opus-4-6)
+- **Output**: [deep-review-2026-07-26-enactivism-challenge-to-interactionist-dualism](/reviews/deep-review-2026-07-26-enactivism-challenge-to-interactionist-dualism/)
+
+## 2026-07-26T13:47:55+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/embodied-cognition.md (stalest last_deep_review, 2026-06-24; untouched by today's review flurry)
+- **Findings**: 2 medium issues + 2 unsupported-claim/citation defects. (1) causal-vs-phenomenal grounding equivocation in the AI-grounding section; (2) "something it is like to perform expertly" asserted as fact; (3) five-stage Dreyfus model mis-cited to Dreyfus 1992 instead of Dreyfus & Dreyfus 1986; (4) Baumeister/Beilock over-attributed a "neural-functional" framing. No label leakage, no cliché constructions, no altered-state symmetry violation; strong falsifiability + premise-honesty. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-07-26-embodied-cognition](/reviews/pessimistic-2026-07-26-embodied-cognition/)
+
+## 2026-07-26T13:33:01+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Word count**: 4270 → 4270 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: NARROW fresh-eyes citation spot-check (07-11 already ran a full publisher-verify ledger + caught the Bhattacharjee→Hanson wrong-author defect; do not re-verify whole ledger). Spot-checked 4 highest-risk specialist biology cites at publisher of record for a lurking Hanson-class false-negative (wrong-first-author / dropped-words / currency-drift): Becerra et al. 2023 (IJPR 16(2), 87-104), Chittka et al. 2025 (Phil Trans R Soc B 380(1939), rstb.2024.0302), Godfrey-Smith 2024 (JOCN 36(8), 1660-1666), Sims 2024 (CUP *Slime Mould and Philosophy*) — all real-correct. No defect. Length held strictly neutral (article over the 4000 topics hard ceiling but that is a separate concern, not resolved here). No-op: last_deep_review bumped only; ai_modified (2026-07-19) + ai_system (single opus-4-7) held.
+- **Output**: [deep-review-2026-07-26-consciousness-in-simple-organisms](/reviews/deep-review-2026-07-26-consciousness-in-simple-organisms/)
+
+## 2026-07-26T13:17:16+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Word count**: 2793 → 2793 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: NARROW — verified two deltas since last_deep_review (2026-07-12). (i) commit 7d9e1b03b "no resources"→calibrated indexical form: coheres + sound (over-claim→calibrated, "stays open" not refutation; not slippage). (ii) commit 112b81e9f coalesce wikilink repoint [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/)→[probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/): resolves (target in topics/, single basename); three-strategy + four-objection counts still accurate against merged target; de-link hygiene correct. No-op — last_deep_review bumped only; ai_modified (2026-07-16) + ai_system (single opus-4-5) held.
+- **Output**: [deep-review-2026-07-26-quantum-probability-consciousness](/reviews/deep-review-2026-07-26-quantum-probability-consciousness/)
+
+## 2026-07-26T12:46:09+00:00 - deep-review
+- **Status**: Success (no-op / converged)
+- **File**: [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/)
+- **Word count**: 1739 → 1739 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Body + References byte-identical since thorough 2026-06-24 review; only change re-qualifying it was one valid `related_articles` cross-link ([single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/)) + `ai_modified` bump. §2.4 web-verify skipped (body/References unmodified; 2026-06-24 per-cite ledger stands — all real-correct, six Gutfreund quotes verbatim). Fresh-eyes pass: no critical/medium/low issues; calibration clean (canonical anti-slippage statement); new link target + both tenet anchors resolve. Advanced only `last_deep_review`; held `ai_modified`/`ai_system`/`ai_contribution`.
+- **Output**: [deep-review-2026-07-26-standing-agnostic-challenge](/reviews/deep-review-2026-07-26-standing-agnostic-challenge/)
+
+## 2026-07-26T12:31:45+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [metacognition](/concepts/metacognition/), [argument-from-reason](/topics/argument-from-reason/)
+- **Source**: optimistic review 2026-07-26 (mental-causation/rational-agency cluster reciprocal cross-links)
+- **Changes**: LINK-ONLY, strictly length-neutral. (1) metacognition related_articles (block-style) ← added [argument-from-reason](/topics/argument-from-reason/) AND [agent-causation](/concepts/agent-causation/) (choosing-as-metarepresentation / self-as-object sections describe the standing-back-and-selecting both articles make load-bearing). (2) argument-from-reason Further Reading list ← added reciprocal [metacognition](/concepts/metacognition/) (matched existing "- slug - desc" style). All three targets (argument-from-reason, agent-causation, metacognition) grep-verified resolving to live articles; all links grep-verified absent before add. ai_modified bumped on both; ai_system held (cross-link, not re-authoring). No argument bodies touched.
+- **Published**: yes
+
+## 2026-07-26T12:06:11+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/), [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
+- **Source**: optimistic review 2026-07-26 (reciprocal cross-link)
+- **Changes**: LINK-ONLY, strictly length-neutral. related_articles (block-style, frontmatter only): indexical-identity-quantum-measurement ← added [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/); quantum-immortality-and-the-quantum-suicide-survival-argument ← added reciprocal [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/). Quantum-immortality is at a tight ~3901w ceiling, so frontmatter-only edit — no prose touched. Both links grep-verified absent before add; both targets confirmed resolving to live articles. ai_modified bumped on both; ai_system held (cross-link, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-26T11:45:36+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/), [standing-agnostic-challenge](/concepts/standing-agnostic-challenge/)

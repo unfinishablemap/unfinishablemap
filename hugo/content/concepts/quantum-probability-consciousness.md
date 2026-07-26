@@ -29,7 +29,7 @@ description: 'Born probabilities describe the consciousness-quantum interface: n
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 09:45:15+00:00
+last_deep_review: 2026-07-26 13:17:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

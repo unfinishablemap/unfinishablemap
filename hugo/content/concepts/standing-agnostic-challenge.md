@@ -13,7 +13,7 @@ description: Gutfreund's 2024 argument that no behavioural or neural evidence di
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 22:55:17+00:00
+last_deep_review: 2026-07-26 12:46:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

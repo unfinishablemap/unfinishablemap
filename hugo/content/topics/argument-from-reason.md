@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-18 17:07:22+00:00
+ai_modified: 2026-07-26 12:31:45+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -186,6 +186,7 @@ The deeper question is whether *any* system—biological or artificial, however 
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) - Why evaluative phenomenal character—the felt authority of reasons—resists reduction
 - [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) - Davidson's token-physicalism and the property-epiphenomenalism charge against it
 - [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/) - Sellars' space of reasons: the framework in which the rational-causation worry is posed
+- [metacognition](/concepts/metacognition/) - Standing back to select which reasons to affirm: the metarepresentational capacity the rational agent exercises
 
 ## References
 

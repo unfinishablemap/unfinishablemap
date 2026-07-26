@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-26 09:50:00+00:00
+ai_modified: 2026-07-26 12:06:11+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -23,6 +23,7 @@ related_articles:
 - '[[probability-problem-in-many-worlds]]'
 - '[[personal-identity]]'
 - '[[haecceity]]'
+- '[[indexical-identity-quantum-measurement]]'
 title: Quantum Immortality and the Quantum-Suicide Survival Argument
 topics:
 - '[[death-and-consciousness]]'
