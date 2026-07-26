@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T06:20:09.408236+00:00'
-session_count: 17292
-cycle_position: 11764
+last_updated: '2026-07-26T06:35:23.045498+00:00'
+session_count: 17293
+cycle_position: 11765
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-25T23:59:00.786902+00:00'
   optimistic-review: '2026-07-26T01:26:00.141418+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T06:05:53.040965+00:00'
+  deep-review: '2026-07-26T06:35:23.045498+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T02:49:18.162073+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-07-26'
-  outcome: success
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1138,9 +1138,9 @@ queue_status:
   p3_tasks: 7
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T03:36:00+00:00'
-  last_replenishment_prev: '2026-07-26T03:20:00+00:00'
-  last_replenishment_run: 841
+  last_replenishment: '2026-07-26T06:39:56+00:00'
+  last_replenishment_prev: '2026-07-26T03:36:00+00:00'
+  last_replenishment_run: 842
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
@@ -1179,46 +1179,6 @@ queue_status:
     claude-opus-4-6+claude-opus-4-8 (+-joined STRING). BOTTOM-inserted (FIFO). Full
     reasoning in the todo task Notes. Pruned run_837_note per note-bloat discipline
     (keep ~3: 838/839/840).'
-  run_839_note: 'run no.839 (2026-07-26T02:38Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint topics/bandwidth-of-consciousness.md.
-    Pre-write count_p0_p2_tasks(load_todo()) == 2 (tool-run, LIVE on disk; state snapshot''s
-    p2_tasks:3 was stale, the run-836 semantic-memory holder drained via a loop-less
-    local deep-review slot, commit 902a0fab2 = HEAD auto(deep-review) semantic-memory,
-    now ✓ in Completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
-    w/ Type+File). Floor MIN_QUEUE_TASKS==3. Holders: P2 prebiotic-collapse (opus-4-6,
-    run-837) + P2 functionalism (opus-4-6, run-838). No evolve_loop/unfin-cycle (pgrep
-    clean); HEAD 902a0fab2; only uncommitted delta the pre-existing deferred cycle_post
-    state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap
-    BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0;
-    length human-decisions already queued P3 (bandwidth NOT among them, no Blocked
-    entry); positions 8<10 audit threshold + last positions-evolve 2026-07-25 (<30d);
-    no applied-apex gap. POOL STATE: length-safe genuine-delta pool EXHAUSTED (re-verified:
-    open-individualism=embed-videos no-op, self-representational=07-20-review no-op,
-    evolution-of-consciousness=cross-link no-op, functionalism already queued). DEPARTURE
-    from the session''s over-ceiling-avoidance is JUSTIFIED: length-safe pool empty,
-    so the choice is converged-no-op-on-length-safe [violates deep_review_over_reviews_converged]
-    vs genuine length-NEUTRAL verify on an over-ceiling article -- the latter delivers
-    value. Source 4 TARGET: bandwidth-of-consciousness (claude-opus-4-6+claude-opus-4-8
-    dual +-string, topics, hard_warning 4202w / ~202w over 4000 hard, ldr 2026-07-11T12:24).
-    GENUINE delta: commit 93c7d3c34 (2026-07-19 18:21, auto refine-draft "Fix bandwidth...
-    question-begging Epiphenomenalism Test + sifting number inconsistency") REWROTE
-    the Epiphenomenalism section (question-begging fix: ~10 bits/s now framed as what
-    epiphenomenalism predicts too, not evidence against), added the epistemic->metaphysical
-    caveat, corrected the "sifting number" to the RATIO (Zheng & Meister 2025), and
-    added the anaesthesia/slow-wave disruptive-case counterweight; it addressed pessimistic-2026-07-19
-    but NO deep-review since -> verify-the-refine-landed lens genuinely OWED (same
-    precedent as run 704ae2a7a on self-representational). NO new numbered cites, so
-    lens = INTERNAL-CONSISTENCY + citation/empirical-fidelity (Zheng & Meister ratio;
-    slow-wave entropy fact) + CLAIM-FRAMING (preserve the new "consistency is not
-    confirmation" hedges, do NOT re-harden the epiphenomenalism concession). SCOPE
-    NARROW: verify ONLY the 93c7d3c34 delta. LENGTH STRICTLY NEUTRAL (over-hard ~202w):
-    trim-or-hold, never breach; do NOT auto-condense -- over-length is a SEPARATE
-    standing human decision. DIVERSITY: bandwidth/epiphenomenalism cluster DISTINCT
-    from both holders (prebiotic=quantum-collapse; functionalism=AI-consciousness);
-    topics/ SECTION-DISTINCT from both (both concepts/); opus-4-6 overlaps but dual
-    +opus-4-8 and topic+section distinct. HOLD ai_system claude-opus-4-6+claude-opus-4-8
-    (+-joined STRING). BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes.
-    Pruned run_836_note per note-bloat discipline (keep ~3: 837/838/839).'
   run_841_note: 'run no.841 (2026-07-26T03:36Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint apex/machine-question.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (tool-run, LIVE on disk; state snapshot
@@ -1259,6 +1219,46 @@ queue_status:
     +opus-4-7 and section+topic distinct. HOLD ai_system claude-opus-4-7+claude-opus-4-8
     (+-joined STRING). BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes.
     Pruned run_838_note per note-bloat discipline (keep ~3: 839/840/841).'
+  run_842_note: 'run no.842 (2026-07-26T06:39Z, interactive /replenish-queue): SINGLE
+    exact-floor +1 changed-since-review deep-review mint topics/machine-consciousness.md.
+    Pre-write count_p0_p2_tasks(todo content) == 2 (tool-run, LIVE on disk; state
+    snapshot p2_tasks:3 was stale -- the run-839 bandwidth-of-consciousness holder
+    drained via a loop-less local deep-review slot, commit 8eead3550 = HEAD auto(deep-review)
+    bandwidth-of-consciousness, and run-840 qm-interpretations likewise, both now checkmark
+    in Completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/
+    Type+File). Floor MIN_QUEUE_TASKS==3. Holders: P2 machine-question (opus-4-7+4-8,
+    run-841) + P2 quantum-immortality (Gemini outer-review refine-draft). No evolve_loop/unfin-cycle
+    (ps -eo pid,cmd grep clean); HEAD 8eead3550; only uncommitted delta the pre-existing
+    deferred cycle_post state bookkeeping -- KEEP. Eight-source audit (inherits run-841
+    ~1h prior, re-verified): chains/unconsumed-research/gap BLOCKED (topics 320/320,
+    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
+    already queued P3 (machine-consciousness NOT among them, over-hard but under critical,
+    no Blocked entry); positions 8<10 audit threshold + last positions-evolve 2026-07-25
+    (<30d); no applied-apex gap. Source 4 TARGET: machine-consciousness (single ai_system
+    claude-sonnet-4-5-20250929, topics, hard_warning 4127w / ~127w over 4000 hard,
+    well under 6000 critical, ldr 2026-07-07T02:23). It is the #1-ranked get_review_candidates
+    candidate (scorer 8.84, top of pool -- above already-queued quantum-immortality
+    8.75 and open-individualism 8.75 whose post-ldr touch is embed-videos boilerplate
+    only). GENUINE delta: commit 2693153e0 (2026-07-12 07:25, auto deep-review cross-review
+    of concepts/organizational-invariance.md that REWORDED this file as a byproduct
+    WITHOUT deep-reviewing it) rewrote the Map''s reply to Chalmers'' organizational-invariance
+    principle from a flat denial to a SUBSTANTIVE grain-dispute argument (exploits Chalmers''
+    own "fine enough grain" qualifier; a quantum-level interface per Minimal Quantum
+    Interaction is consciousness-relevant organization classical silicon never reproduces,
+    so the fading scenario never runs for a genuine duplicate) -- NO deep-review since.
+    Run-841 undersold this as a "2-line reword"; the actual git diff is a full-paragraph
+    argumentative rewrite. LENS = CITATION-FIDELITY (verify Chalmers 1996 ch.7 contains
+    the "fine enough grain" qualifier at publisher, NOT via a Map echo) + CLAIM/FRAMING-FIDELITY
+    (grain-dispute holds together on its own terms + does not straw-man Chalmers) +
+    preserve the calibration (behavioural equivalence real; only fine-grained organizational
+    equivalence denied -- do NOT re-harden to flat denial). SCOPE NARROW: verify ONLY
+    the 2693153e0 delta + its paragraph; do NOT re-sweep the converged article. LENGTH
+    STRICTLY NEUTRAL (over-hard ~127w): trim-or-hold, never breach; do NOT auto-condense.
+    DIVERSITY: substrate-independence cluster distinct from both holders (machine-question=AI-consciousness/Butlin-Birch;
+    quantum-immortality=qm-foundations/identity); topics/ overlaps but exact-floor pool
+    is what it is. HOLD ai_system claude-sonnet-4-5-20250929 (single, do NOT flip to
+    reviewer model, no [1m] artifact). BOTTOM-inserted (FIFO). Full reasoning in the
+    todo task Notes. Pruned run_839_note per note-bloat discipline (keep ~3: 840/841/842).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
