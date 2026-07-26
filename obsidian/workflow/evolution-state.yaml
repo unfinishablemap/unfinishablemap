@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T00:15:55.952831+00:00'
-session_count: 17244
+last_updated: '2026-07-26T00:24:03.403927+00:00'
+session_count: 17245
 cycle_position: 11744
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-26T00:05:03.187929+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T00:20:00+00:00'
+  replenish-queue: '2026-07-26T00:24:03.403927+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-25'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1140,17 +1140,17 @@ queue_status:
     exact-floor +1 changed-since-review deep-review mint topics/consciousness-evolution-and-biology.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 interactionist-dualism
     opus-4-5 run-831 + P2 many-worlds opus-4-6 run-832; the run-830 argument-from-reason
-    holder drained by a loop-less local cycle deep-review slot, commit 39879340d, now
-    ✓-completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File).
-    No evolve_loop/unfin-cycle (pgrep clean); HEAD a5296e470; only uncommitted delta
-    the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit:
-    chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids
-    100/100, positions 8/80); orphaned_files=0; length human-decisions already queued
-    P3 + veto condense parser-excluded; positions 8<10 audit threshold + last positions-evolve
-    2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review) TARGET:
-    consciousness-evolution-and-biology (dual claude-opus-4-6+claude-opus-4-8, topics,
-    2779w status=ok well under 3000 soft, ldr 2026-06-25T12:55). RUNAWAY scorer #1
-    (24.0 vs next 9.0; all 9.0-and-below are already-queued OR hard_warning over-length
+    holder drained by a loop-less local cycle deep-review slot, commit 39879340d,
+    now ✓-completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD a5296e470; only
+    uncommitted delta the pre-existing deferred cycle_post state bookkeeping -- KEEP.
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
+    319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
+    already queued P3 + veto condense parser-excluded; positions 8<10 audit threshold
+    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
+    TARGET: consciousness-evolution-and-biology (dual claude-opus-4-6+claude-opus-4-8,
+    topics, 2779w status=ok well under 3000 soft, ldr 2026-06-25T12:55). RUNAWAY scorer
+    #1 (24.0 vs next 9.0; all 9.0-and-below are already-queued OR hard_warning over-length
     human-decisions [phenomenal-authority/qm-interpretations/machine-consciousness/personal-identity/bandwidth/simple-organisms/quantum-consciousness]
     OR recurring converged no-ops [evolution-of-consciousness 07-19-parked quote fixes,
     functionalism/open-individualism/self-representational/steelman cosmetic cross-links]).
@@ -1165,18 +1165,18 @@ queue_status:
     OWED + orthogonal; QUEUED task executes on a later cycle, not immediate re-review
     (no back-to-back churn). SEAM: (a) verify Wright 1973 title/venue/pages at publisher
     (canonical etiological-theory paper, never delete on false negative); (b) confirm
-    Millikan/Neander attributions accurate not fabricated-onto (WebSearch top-hit unfinishablemap.org
-    = CIRCULAR); (c) new interactionism paragraph stays framework-relative argued Map
-    position w/ symmetrical-cost hedge (owes quantum-interface account, not causally
-    screened off); (d) PRESERVE softened MQI calibration ("consistency is not confirmation");
-    (e) new cross-links causal-closure/the-epiphenomenalist-threat/quantum-neural-timing-constraints
+    Millikan/Neander attributions accurate not fabricated-onto (WebSearch top-hit
+    unfinishablemap.org = CIRCULAR); (c) new interactionism paragraph stays framework-relative
+    argued Map position w/ symmetrical-cost hedge (owes quantum-interface account,
+    not causally screened off); (d) PRESERVE softened MQI calibration ("consistency
+    is not confirmation"); (e) new cross-links causal-closure/the-epiphenomenalist-threat/quantum-neural-timing-constraints
     resolve LIVE. SCOPE NARROW: verify ONLY the c0bc087ec delta, do NOT re-sweep the
     converged ledger. DIVERSITY: consciousness-evolution/zombie-evolution/function-theory
     cluster DISTINCT from both holders (interactionist-dualism=pairing-problem; many-worlds=No-MWI);
     topics/ SECTION-DISTINCT from both (both concepts/). HOLD ai_system dual claude-opus-4-6+claude-opus-4-8
-    (+-joined STRING not list). LENGTH SAFE + neutral (221w headroom to soft), do NOT
-    pad. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_830_note
-    per note-bloat discipline (keep ~3: 831/832/833).'
+    (+-joined STRING not list). LENGTH SAFE + neutral (221w headroom to soft), do
+    NOT pad. BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned
+    run_830_note per note-bloat discipline (keep ~3: 831/832/833).'
   run_832_note: 'run no.832 (2026-07-25T23:50Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/many-worlds.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 argument-from-reason

@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T00:32:48+00:00 - deep-review
+- **Status**: Success (validation pass on new content — no critical or medium issues)
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Word count**: 2779 → 2779 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 6th deep review. Genuine new content since 06-25 (2026-07-15 refine-draft c0bc087ec reconciled zombie-evolution argument with Map interactionism), so re-qualification legitimate, not damping false-positive. Web-verified the one new cite — Wright 1973 "Functions" Phil Review 82(2) 139–168 real-correct at PDCnet/JSTOR. New interactionism paragraph well-calibrated (conditional framing, symmetric cost, no possibility/probability slippage); MQI section calibration IMPROVED by refine-draft (added consistency-not-confirmation hedge + falsification clause). Millikan/Neander named as undated tradition-markers — no References entry required. Reasoning-mode: materialist engagement Mixed (Mode Two reductio strengthened + Mode Three boundary-mark), no label leakage. Both new wikilinks resolve; ai_system clean. Advanced last_deep_review only; held ai_modified (07-15 refine) per no-op-edit discipline.
+- **Output**: [[reviews/deep-review-2026-07-26-consciousness-evolution-and-biology]]
+
 ## 2026-07-26T00:06:51+00:00 - deep-review
 - **Status**: Success (no-op convergence pass — no critical or medium issues)
 - **File**: [[topics/argument-from-reason]]
