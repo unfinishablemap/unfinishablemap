@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T11:46:41.839078+00:00'
-session_count: 17335
+last_updated: '2026-07-26T11:47:26.856629+00:00'
+session_count: 17336
 cycle_position: 11784
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
   agentic-social: '2026-07-26T11:22:54.175235+00:00'
-  embed-videos: '2026-07-26T05:33:57.618783+00:00'
+  embed-videos: '2026-07-26T11:47:26.856629+00:00'
   commission-chatgpt-review: '2026-07-26T02:05:30.901020+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-26'
+  outcome: success
+- task: embed-videos
+  type: embed-videos
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1135,15 +1135,43 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 7
+  p3_tasks: 6
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T11:19:00+00:00'
-  last_replenishment_prev: '2026-07-26T10:49:00+00:00'
-  last_replenishment_run: 853
+  last_replenishment: '2026-07-26T12:03:00+00:00'
+  last_replenishment_prev: '2026-07-26T11:19:00+00:00'
+  last_replenishment_run: 854
   last_replenishment_mode: standard
   replenishment_source_counts:
     optimistic-review-crosslink-promote: 1
+  run_854_note: 'run no.854 (2026-07-26T12:03Z, /replenish-queue): NO new mint — PROMOTED
+    an existing P3 refine-draft cross-link task to P2 to restore the floor (exact-floor
+    +1, highest-yield restore available, mirroring runs 852/853). Target: "Cross-links
+    from optimistic review 2026-07-26 (indexical-identity / No-MWI cluster)" (Type refine-draft,
+    File topics/indexical-identity-quantum-measurement.md present, parses TaskType.REFINE_DRAFT).
+    Pre-edit count_p0_p2_tasks == 2 (tool-run, LIVE on disk, uv env); == 3 post-edit
+    (tool-verified). Floor MIN_QUEUE_TASKS==3. The run-853 promoted holder (testing-consciousness-collapse
+    empirical-testing/falsifiability cross-links) drained via a loop-less slot since
+    11:19Z, so live floor fell 3->2: documented replenish-at-floor alternation [[unfin_loop_steady_state]]
+    [[p3-only-floor-preemption-starves]], not a deadlock. Remaining pickable P0-P2 holders:
+    P2 quantum-probability-consciousness deep-review (run-850) + P2 relational-quantum-mechanics
+    deep-review (run-851), both likely near-no-ops. No evolve_loop/unfin-cycle (pgrep
+    clean); HEAD e5de6a50b; only uncommitted delta the pre-existing evolution-state.yaml
+    edit. WHY PROMOTE NOT MINT: eight-source audit BLOCKED — chains/unconsumed-research/gap
+    all capped (topics 320/320, concepts 319/320, voids 100/100 at/over cap; positions
+    8/80 but <10 audit threshold + last positions-evolve 2026-07-25 <30d); orphaned_files==0;
+    length NO safe fresh condense candidate (flagship condense tasks all #veto-parked
+    pending human length decision); no applied-apex gap; Source-4 changed-since-review/staleness
+    DRAINED per runs 851-853. The promoted task is strictly higher-yield: 2 CONCRETE,
+    grep-verified-absent (0 hits BOTH directions, both files confirmed present), length-neutral
+    reciprocal cross-links (link-only, cannot misfire into flagship condensation) between
+    indexical-identity-quantum-measurement <-> quantum-immortality-and-the-quantum-suicide-survival-argument;
+    on the Map''s signature No-MWI + Dualism tenets (4+1); topmost of the fresh 2026-07-26
+    optimistic-review cross-link batch (anti-LIFO [[queue-lifo-starvation]]), picked
+    before the two lower no-op deep-review holders (highest-yield first). One sibling
+    cross-link P3 remains (metacognition / rational-agency cluster, L48) for the next
+    floor restore. Full reasoning in the todo task Notes. Pruned run_851_note per note-bloat
+    discipline (keep ~3: 852/853/854).'
   run_853_note: 'run no.853 (2026-07-26T11:19Z, interactive /replenish-queue): NO
     new mint — PROMOTED an existing P3 refine-draft cross-link task to P2 to restore
     the floor (exact-floor +1, highest-yield restore available, mirroring run-852).
@@ -1209,44 +1237,6 @@ queue_status:
     (<30d); no applied-apex gap. Promoted task sits above both deep-review holders
     in file order → picked first (highest-yield first). Full reasoning in the todo
     task Notes. Pruned run_847_note per note-bloat discipline (keep ~3: 850/851/852).'
-  run_851_note: 'run no.851 (2026-07-26T10:24Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 mint concepts/relational-quantum-mechanics.md — FIRST owed-web-verify
-    / quote-fidelity mint after the changed-since-review pool exhausted. Pre-write
-    count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk, uv env); == 3 post-write
-    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
-    The run-850 quantum-probability mint reached 3 but the run-848 experimental-consciousness-science
-    holder drained via a loop-less deep-review slot since (commit ae1306b95 = HEAD
-    auto(deep-review) experimental-consciousness-science, now Completed), so live
-    floor fell to 2 — documented replenish-at-floor alternation, not a deadlock. Holders:
-    P2 the-steelman-for-process-monism (run-849) + P2 quantum-probability-consciousness
-    (run-850). No evolve_loop/unfin-cycle (pgrep clean); HEAD ae1306b95; only uncommitted
-    delta the pre-existing deferred cycle_post state bookkeeping — KEEP. Eight-source
-    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
-    voids 100/100, positions 8/80); orphaned_files=0; length NO safe fresh condense
-    candidate; positions 8<10 audit threshold + last positions-evolve 2026-07-25 (<30d);
-    no applied-apex gap. Source 4 CHANGED-SINCE-REVIEW EXHAUSTED — run-850 took the
-    last fresh un-disqualified candidate; every remaining scored candidate disqualified:
-    open-individualism embed-boilerplate-only, personal-identity cosmetic-wikilink+over-hard,
-    consciousness-in-simple-organisms cosmetic-cross-link+over-hard, indexical-knowledge
-    07-26 refine already publisher-verified in the completed quantum-immortality neighbour
-    (verified: O''Brien-2025/Sebens-Carroll-2018/Friederich-Dawid carried w/ full
-    DOIs in HEAD~2 349248427; runs 847/848/850 exclusion CONFIRMED), self-representational
-    own-07-20-review converged. SHIFTED to owed-web-verify seam: relational-quantum-mechanics
-    is FULLY CONVERGED (ldr==ai_modified 2026-06-24, 32d, only commit since = fa1027969
-    the review that set the ldr) older-cohort claude-opus-4-6 quote-dense concept
-    whose 06-24 citation-METADATA pass never literally verified in-body ATTRIBUTED
-    QUOTES. LENS = verbatim quote-fidelity + citation-framing on the attributed external
-    quotes ONLY: (a) Rovelli "There is nothing subjective, idealistic, or mentalistic,
-    in RQM." literal-string at primary publisher (not via Map echo); (b) CPL / Adlam-Rovelli-2023
-    framing not over-claimed; (c) Nagel "view from nowhere"/Dennett/Frankish attributions.
-    SCOPE NARROW (argument body converged, do NOT re-sweep/expand); LENGTH STRICTLY
-    NEUTRAL (2977w soft_warning, ~523w under 3500 hard); HOLD ai_system claude-opus-4-6
-    (single, no [1m] artifact, do NOT flip to reviewer model). Section concepts/ shares
-    section+quantum theme with the quantum-probability holder — soft-diversity compromise
-    accepted (quote-fidelity YIELD is primary discriminator once changed-since-review
-    drained; most CONCRETE identified verbatim surface in older-cohort pool). BOTTOM-inserted
-    (FIFO). Full reasoning in the todo task Notes. Pruned run_846_note per note-bloat
-    discipline (keep ~3: 847/850/851).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3

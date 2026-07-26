@@ -37,7 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Cross-links from optimistic review 2026-07-26 (indexical-identity / No-MWI cluster)
+### P2: Cross-links from optimistic review 2026-07-26 (indexical-identity / No-MWI cluster)
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/topics/indexical-identity-quantum-measurement.md
