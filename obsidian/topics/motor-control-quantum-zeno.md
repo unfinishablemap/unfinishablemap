@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-07-12T22:17:13+00:00
+last_deep_review: 2026-07-26T23:02:58+00:00
 ---
 
 How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, and motor control is where this claim faces its sharpest test. Every voluntary movement—reaching for a glass, typing a sentence, turning your head—requires non-physical consciousness to produce physical effects. Converging neuroscience evidence now reveals the architecture where this could happen: the Libet challenge to conscious will has been substantially weakened—leaving the playing field more level rather than settling the matter—attention and motor planning share neural substrates, and the brain's own motor selection system operates through competitive threshold-crossing that leaves room for a non-physical selector. The question is no longer whether the neuroscience permits a role for consciousness—it does—but what mechanism could fill that role.

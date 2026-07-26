@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T23:02:58+00:00 - deep-review
+- **Status**: Success (no-op / convergence-confirming)
+- **File**: [[topics/motor-control-quantum-zeno]]
+- **Word count**: 2994 → 2994 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Eighth review. Only delta since 07-12 was the anticipated sibling-calibration propagation (2026-07-25 `3727291b0`: "Libet dissolution" → "Libet levelling"); verified clean and internally consistent (grep `dissol*` → 0 hits). Two verbatim quotes web-spot-checked at publisher (Schurger 2012, Sjöberg 2024) — both real-correct; no References content changed since 06-06 full sweep. ai_modified + ai_system HELD (no-op); only last_deep_review advanced.
+- **Output**: [[reviews/deep-review-2026-07-26-motor-control-quantum-zeno]]
+
 ## 2026-07-26T22:49:43+00:00 - check-model-fallback (attribution-check)
 - **Status**: Success
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
