@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-26T09:23:39.520192+00:00'
-session_count: 17315
-cycle_position: 11775
+last_updated: '2026-07-26T09:26:21.795598+00:00'
+session_count: 17316
+cycle_position: 11776
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T06:52:57.103734+00:00'
   optimistic-review: '2026-07-26T08:27:32.764210+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T09:17:30.901299+00:00'
+  deep-review: '2026-07-26T09:26:21.795598+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T02:49:18.162073+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-26T08:46:00.953591+00:00'
+  agentic-social: '2026-07-26T09:32:02.383187+00:00'
   embed-videos: '2026-07-26T05:33:57.618783+00:00'
   commission-chatgpt-review: '2026-07-26T02:05:30.901020+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-07-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-26'
@@ -181,13 +173,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-07-26'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-07-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
-    date: '2026-07-19T08:53:21.978278+00:00'
-    topics:
-    - animal-consciousness
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/organizational-invariance/
     date: '2026-07-19T09:44:06.061484+00:00'
     topics:
@@ -1128,6 +1119,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/intersubjectivity/
+    date: '2026-07-26T09:32:02.383129+00:00'
+    topics:
+    - consciousness
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1251,7 +1247,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
