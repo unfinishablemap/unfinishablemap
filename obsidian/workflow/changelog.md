@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T20:22:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Word count**: 3521 → 3521 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-26-clinical-phenomenology-and-altered-experience]]
+- **Notes**: No-op convergence pass. 3 prior deep reviews of this slug + a 2026-07-12 owed-web-verify pass. Only change since last review was a cosmetic wikilink conversion (anarchic hand syndrome → [[anarchic-hand-and-action-ownership]]) installed by another article's cross-review; no new claims/citations. Citations live-verified through 2026-07-12 (not re-run); new link target confirmed live; no superlatives to currency-check; calibration honest (no possibility/probability slippage); functionalism engagement Mode Two→Three, no boundary-substitution or label leakage. Advanced last_deep_review only; held ai_modified (2026-07-16) and ai_system (claude-opus-4-6) per no-op discipline.
+
 ## 2026-07-26T20:10:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]

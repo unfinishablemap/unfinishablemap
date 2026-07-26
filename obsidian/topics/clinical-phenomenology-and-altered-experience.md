@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: 2026-07-12T18:03:07+00:00
+last_deep_review: 2026-07-26T20:22:40+00:00
 coalesced_from:
   - "/topics/clinical-phenomenology-as-philosophical-evidence/"
   - "/topics/phenomenological-psychiatry-and-altered-experience/"
