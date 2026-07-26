@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T08:48:51+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[concepts/evolution-of-consciousness]]
+- **Scope**: NARROW quote-fidelity — re-verified the two verbatim quotes silently altered by cross-file edit 6f83d14ef (2026-07-19, deep-review of the-strong-emergence-of-consciousness.md) at their PRIMARY texts. Converged body not re-swept. Length-safe (3357w, under concepts 4000 hard).
+- **Web-verify ledger**:
+  - Broad, C.D. (1925), *The Mind and Its Place in Nature*, p.59 — state: real-correct. "the characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components" verified verbatim (Huemer full-text reproduction + corroborating scholarly source). The 2026-07-19 edit FIXED the pre-edit error ("properties…cannot" → "behaviour…could not"). Attribution correct.
+  - Chalmers, D. (2006), "Strong and Weak Emergence" — state: real-correct. "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" verified verbatim against author's own posted PDF (consc.net/papers/emergence.pdf, "My own view is that the answer to this question is yes. I think there is exactly one clear case..."). The 2026-07-19 edit FIXED the pre-edit error ("I believe" → "I think"). A WebSearch "I believe" hit was discounted as query-parroting. Attribution to the 2006 chapter correct.
+- **Word count**: 3357 → 3357 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **No-op hygiene**: both quotes correct as-is → bumped last_deep_review only; HELD ai_modified (2026-07-19T23:08:40+00:00) and ai_system (claude-opus-4-5-20251101).
+- **Output**: [[reviews/deep-review-2026-07-26-evolution-of-consciousness]]
+
 ## 2026-07-26T08:33:15+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny)
 - **File**: [[concepts/quantum-consciousness]]
