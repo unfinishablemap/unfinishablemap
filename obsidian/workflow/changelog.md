@@ -5,6 +5,19 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T09:50:00+00:00 - deep-review
+- **Status**: Success (holistic coherence check across three same-day refines; one redundancy trim)
+- **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
+- **Scope**: Coherence-only pass over the three 2026-07-26 refines landed since last_deep_review 2026-07-19 (f235821e7 citation/attribution/superlative; 7c239979b recalibrate physics + separate theses; 64b40e727 engage non-collapse frameworks). Citations NOT re-verified, recalibration NOT re-litigated (per scope). Length-neutral / net-negative mandate near the 4000 topics hard ceiling.
+- **Word count**: 3911 → 3901 (−10)
+- **(a) Internal consistency**: CLEAN. New QMR/diverging-worlds para explicitly refines (not contradicts) the branch-relative-indexicality framing — states the hidden-premise diagnosis "assumes overlapping-worlds Everettianism," offers Wilson's diverging-worlds as a distinct route. All cross-links resolve; no dangling/half-updated references.
+- **(a) Redundancy**: trimmed one genuine pure restatement — line-69 tail "underscoring again that the verdict is not proprietary to collapse" (signposted "again," restated its own sentence). The other four "not proprietary / single-outcome-reachable" loci are distinct routes (Everettian-mortalist, diverging-worlds, physicalist, demotion) — cumulative argument, preserved.
+- **(b) Framing coherence**: CLEAN. Three calibration layers (conditional-not-decisive measure reply; death-is-death/physicalist-reachable demotion; non-deflationary-I dependency) stack without contradiction; no refine re-hardened what another softened.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (redundancy trim)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-07-26-quantum-immortality-and-the-quantum-suicide-survival-argument]]
+
 ## 2026-07-26T09:25:20+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny — narrow-scope delta verify)
 - **File**: [[topics/embodied-consciousness]]
