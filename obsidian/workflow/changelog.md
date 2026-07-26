@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T19:27:44+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [[topics/brain-specialness-boundary]]
+- **Word count**: 3828 → 3828 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; unchanged since the thorough 2026-06-22 pass — `git log --since 2026-06-22` returns only that review's own commit. §2.4 web-verify skipped by rule: References block unmodified since the 06-22 full publisher-of-record verify. Calibration/label-leakage/24 wikilinks all clean; length 3828 under 4000 hard ceiling. Stamped `last_deep_review` only; held `ai_modified` + `ai_system` at HEAD per no-op discipline.)
+- **Output**: [[reviews/deep-review-2026-07-26-brain-specialness-boundary]]
+
 ## 2026-07-26T19:23:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/embodied-cognition]]
