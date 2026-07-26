@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T17:49:22.296169+00:00'
-session_count: 17361
-cycle_position: 11793
+last_updated: '2026-07-26T17:52:41.034011+00:00'
+session_count: 17362
+cycle_position: 11794
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T13:50:19.497896+00:00'
   optimistic-review: '2026-07-26T08:27:32.764210+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T17:49:22.296169+00:00'
+  deep-review: '2026-07-26T17:52:41.034011+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T09:47:52.377728+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6896
+  reviews_completed: 6897
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-26'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 - task: deep-review
@@ -1125,12 +1125,50 @@ queue_status:
   p3_tasks: 4
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T17:40:00+00:00'
-  last_replenishment_prev: '2026-07-26T14:30:00+00:00'
-  last_replenishment_run: 861
+  last_replenishment: '2026-07-26T18:05:00+00:00'
+  last_replenishment_prev: '2026-07-26T17:40:00+00:00'
+  last_replenishment_run: 862
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_862_note: 'run no.862 (2026-07-26T18:05Z, interactive /replenish-queue): MINTED
+    one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
+    (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1. The run-861
+    mutation-void floor-holder is retained; the third holder relational-quantum-mechanics
+    was CONSUMED by a loop-less local cycle deep-review slot (commit 31f2f2336 = HEAD),
+    dropping the live floor 3 -> 2 -- documented replenish-at-floor alternation
+    [[unfin_loop_steady_state]], NOT deadlock. The two remaining floor-holders:
+    lucid-dreaming-and-dualist-rendering deep-review (run-860) + mutation-void deep-review
+    (run-861), both owed-web-verify mints. EIGHT-SOURCE AUDIT re-run from live disk:
+    (chain) recent_tasks all deep-review/refine/agentic-social/replenish/harvest, no
+    un-followed research->expand->cross-review. (unconsumed-research) harvester-owned.
+    (gap/caps) topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot, no
+    concrete driver), positions 8/80. (staleness) get_review_candidates top real-article
+    scorers are publisher-verified converged no-ops (materialism-argument 06-15,
+    anoetic-noetic 06-24, authentic-vs-inauthentic + phenomenology-of-translation
+    twice-verified through 06-20 with "do not re-verify" directives) or same-session /
+    human-length-parked. (orphan) orphaned_files==0. (length) offenders human-deferred /
+    veto-parked / research-notes / index-hub / positions-files. (positions) 8 < 10 audit
+    threshold + last positions-evolve 07-25 <30d. (applied-apex) no gap. MINTED
+    topics/embodied-consciousness.md deep-review on a CONCRETE VERIFIED PROPAGATED
+    DEFECT (not the owed-web-verify convergence lens, and not a manufactured defect
+    [[replenish-asserted-concrete-defect-often-false]]): today''s pessimistic review of
+    the concept sibling (reviews/pessimistic-2026-07-26-embodied-cognition.md L59-62)
+    established the five-stage skill-acquisition model is Dreyfus & Dreyfus 1986 *Mind
+    over Machine*, NOT H. Dreyfus 1992 *What Computers Still Can''t Do*; commit 8d5f16101
+    fixed it in concepts/embodied-cognition.md but the topic sibling
+    topics/embodied-consciousness.md carries the SAME wrong-work ref UNCORRECTED (line
+    224 ref #1 + line 132 "The Dreyfus model of skill acquisition"). The 07-26T09:25
+    deep-review of that file EXPLICITLY scoped only the 07-24 evidence-framing delta and
+    did NOT re-sweep the References block. Length-safe (3673w soft_warning, 327w under
+    topics 4000 hard -> strictly length-neutral, citation fix is net-zero words).
+    Parses TaskType.DEEP_REVIEW, File present, count == 3 post-edit (tool-verified),
+    BOTTOM-inserted (LIFO-defeat [[queue-lifo-starvation]]). Did NOT mint a 2nd to
+    floor=3+1 [[deep_review_over_reviews_converged]]. No evolve_loop/unfin-cycle running
+    (pgrep clean); pre-existing uncommitted evolution-state.yaml delta is legitimate
+    deferred cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
+    Pruned run_859_note per note-bloat discipline (keep ~3: 860/861/862)
+    [[evolution-state-floor-restore-note-bloat]].'
   run_861_note: 'run no.861 (2026-07-26T17:40Z, interactive /replenish-queue): MINTED
     one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks
     == 2 pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by
@@ -1203,40 +1241,6 @@ queue_status:
     running (pgrep clean) so no active stall; pre-existing uncommitted evolution-state.yaml
     delta is legitimate deferred agentic-social cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
     Pruned run_857_note per note-bloat discipline (keep ~3: 858/859/860) [[evolution-state-floor-restore-note-bloat]].'
-  run_859_note: 'run no.859 (2026-07-26T14:05Z, interactive /replenish-queue): MINTED
-    one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks
-    == 2 pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by
-    1. The run-858 mint (consciousness-in-simple-organisms deep-review) has since
-    been consumed and the sole remaining genuine pickable P2 was embodied-cognition
-    (fresh refine from today''s pessimistic review) + relational-quantum-mechanics
-    (documented CONVERGED near-no-op pool-drain). WHY THIS MINT IS NON-CHURN: eight-source
-    audit re-run INDEPENDENTLY from live disk. Source-4 get_review_candidates top
-    scorers ALL disqualified: multiple-drafts-model (score 26, ai_modified 11:11Z
-    TODAY) + indexical-knowledge-and-identity (8.1, ai_modified 05:23Z TODAY) = same-session
-    near-no-op [[refine-then-condense-same-session-churn]]; self-representational-theory-of-consciousness
-    (7.5) last_deep_review 07-20 = 6d converged; personal-identity (8.8) + free-will
-    (2.7) are parked HUMAN-LENGTH-DECISION articles that must NOT auto-loop [[human-decision-task-mispicked-as-refine]];
-    single-cell-proto-agency reviewed 07-25. Minted topics/enactivism-challenge-to-interactionist-dualism.md
-    deep-review instead via the [[owed-web-verify-seam-deep-review-targeting]] lens
-    (orthogonal to the get_review_candidates convergence score): older-cohort (last_deep_review
-    2026-06-20, 36d converged), citation-dense (~41 author/year markers, Hutto/Myin,
-    Thompson, Varela, Di Paolo, Gallagher still-unverified surface), body 2462w =
-    status ok (topics hard 4000) so ZERO length-decision entanglement, and its apparatus
-    has KNOWN fragility (wrong-author Meyer & Brancazio caught here 06-20) = high
-    verification yield. Steered verbatim-verify-at-publisher / 3-state-metadata /
-    empirical-fidelity / length-neutral / no-op-if-clean. Parses TaskType.DEEP_REVIEW,
-    File present, count == 3 post-edit (tool-verified), top-pickable (LIFO-defeated
-    by top insert [[queue-lifo-starvation]]). Other sources exhausted: chains = 07-19
-    research / 07-16 expand stale + threaded + topics/voids at cap; unconsumed-research
-    harvester-owned (last 10:30Z); gap = topics 320/320 + voids 100/100 at cap, concepts
-    319/320 (1 slot) no concrete candidate; positions 8/80 <10 audit threshold + last
-    positions-evolve 07-25 <30d; orphaned_files==0; length human-deferred/veto-parked;
-    no applied-apex gap. Did NOT mint a 2nd to floor=3+1: no other non-churn candidate,
-    a 3rd near-no-op purely for the number is exactly the make-work [[deep_review_over_reviews_converged]]
-    warns against. No evolve_loop/unfin-cycle running (pgrep clean) so no active stall;
-    pre-existing uncommitted evolution-state.yaml delta is legitimate deferred agentic-social
-    cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
-    Pruned run_856_note per note-bloat discipline (keep ~3: 857/858/859) [[evolution-state-floor-restore-note-bloat]].'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
