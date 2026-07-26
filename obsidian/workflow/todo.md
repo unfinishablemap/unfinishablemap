@@ -47,13 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-24
 
-### P2: Fix grounding-equivocation + two citation defects in concepts/embodied-cognition.md
-- **Type**: refine-draft
-- **File**: obsidian/concepts/embodied-cognition.md
-- **Notes**: Pessimistic review 2026-07-26 (see `reviews/pessimistic-2026-07-26-embodied-cognition.md`). Three verified, length-neutral fixes: (1) **Grounding equivocation (critical-type, medium severity)** — the AI-grounding section (L135–139) slides from Harnad's *causal-historical* symbol grounding to "semantic grounding that comes from *phenomenal experience*." Split the two senses: grant embodiment can supply causal grounding; mark the phenomenal-substrate requirement as a separate Map-specific thesis, not something the grounding problem itself establishes. (2) **Dreyfus mis-citation** — the five-stage novice→expert model (table L76–82; ref 8 L230) is Dreyfus & Dreyfus, *Mind over Machine* (1986), NOT Dreyfus (1992) *What Computers Still Can't Do* (a solo AI critique). Add/replace the reference. (3) **Over-attribution (L101)** — "Baumeister and Beilock's own explanations are framed in these neural-functional terms": Baumeister (1984) is a social/attentional self-focus model, not neural — soften to "attentional/functional terms" or attribute the neural gloss to the standard interpretation. Optional: the L84 phenomenal claim ("something it is like to perform expertly") is asserted as fact where the anoetic reading depends on it — reframe as a Map-internal reading or cite the anoetic-consciousness source. Preserve calibration hedges ([[condense-regresses-calibration-qualifiers]]).
-- **Source**: pessimistic-review
-- **Generated**: 2026-07-26
-
 ### ✓ DONE-BY-COORDINATED-PASS 2026-07-25: panpsychism.md — correct the Goff/Kastrup dissociation conflation (applied in the single-pass panpsychism refine, commit forthcoming; Goff reframed via grounding/decomposition/subsumption, dissociation reserved for Kastrup, cross-checked vs cosmopsychism/idealism)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/panpsychism.md
@@ -1559,6 +1552,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-26: Fix grounding-equivocation + two citation defects in concepts/embodied-cognition.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-07-26 (see `reviews/pessimistic-2026-07-26-embodied-cognition.md`). Three verified, length-neutral fixes: (1) **Grounding equivocation (critical-type, medium severity)** — the AI-grounding section (L135–139) slides from Harnad's *causal-historical* symbol grounding to "semantic grounding that comes from *phenomenal experience*." Split the two senses: grant embodiment can supply causal grounding; mark the phenomenal-substrate requirement as a separate Map-specific thesis, not something the grounding problem itself establishes. (2) **Dreyfus mis-citation** — the five-stage novice→expert model (table L76–82; ref 8 L230) is Dreyfus & Dreyfus, *Mind over Machine* (1986), NOT Dreyfus (1992) *What Computers Still Can't Do* (a solo AI critique). Add/replace the reference. (3) **Over-attribution (L101)** — "Baumeister and Beilock's own explanations are framed in these neural-functional terms": Baumeister (1984) is a social/attentional self-focus model, not neural — soften to "attentional/functional terms" or attribute the neural gloss to the standard interpretation. Optional: the L84 phenomenal claim ("something it is like to perform expertly") is asserted as fact where the anoetic reading depends on it — reframe as a Map-internal reading or cite the anoetic-consciousness source. Preserve calibration hedges ([[condense-regresses-calibration-qualifiers]]).
 
 ### ✓ 2026-07-26: Deep review topics/enactivism-challenge-to-interactionist-dualism.md (citation-surface verification — genuine non-churn, unverified converged article)
 - **Type**: deep-review

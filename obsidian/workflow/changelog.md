@@ -5,6 +5,19 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T17:33:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Original score**: N/A (targeted refine from pessimistic-2026-07-26-embodied-cognition.md; 3 verified fixes)
+- **Changes**:
+  - Issue 1 (grounding equivocation, framing/calibration): split Harnad's *causal-historical* symbol grounding (which embodiment can supply) from the Map-specific thesis that *semantic/phenomenal* grounding requires a phenomenal substrate; marked the latter as separate and not established by the grounding problem itself. Also framed the grounding problem correctly as Harnad's causal-connection question rather than a "lived experience" question.
+  - Issue on Baumeister over-attribution (L101): softened "framed in these neural-functional terms" to "framed in attentional and functional terms; the neural gloss is supplied by the standard interpretation rather than by the authors themselves." Verified at publisher: Baumeister (1984), JPSP 46(3), 610-620, is a self-consciousness/self-focus attentional model, not neural.
+  - Dreyfus mis-citation (mechanical): corrected inline anchor (Hubert → "Hubert and Stuart Dreyfus") and References entry from Dreyfus (1992) *What Computers Still Can't Do* to Dreyfus, H. L., & Dreyfus, S. E. (1986) *Mind over Machine*. Verified at publisher: the five-stage skill-acquisition model is Dreyfus & Dreyfus 1986 (originating in the 1980 five-stage report).
+  - Optional (clean): reframed L84 "there is still something it is like to perform expertly" from flat assertion to a Map-internal phenomenological reading ("On the Map's phenomenological reading, expertise transforms rather than empties experience: ...").
+- **Engagement classification**: no named-opponent reply re-scoped; grounding split is calibration, not refutation. Co-attributed ai_system claude-opus-4-5-20251101+claude-opus-4-8 (framing work by a different model than original author).
+- **Length**: neutral (rewordings + one citation correction; grounding split adds one framing sentence). Calibration hedges preserved.
+- **Published**: yes
+
 ## 2026-07-26T14:11:11+00:00 - deep-review
 - **Status**: Success (no-op / converged — narrow citation spot-check)
 - **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]

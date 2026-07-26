@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-24T11:15:30+00:00
+ai_modified: 2026-07-26T17:33:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[feminist-phenomenology-and-embodied-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-06-24T11:15:30+00:00
@@ -71,7 +71,7 @@ Consider bodily skill. An expert typist doesn't consciously locate keys—the ha
 
 ### The Dreyfus Model
 
-Hubert Dreyfus developed the phenomenological analysis of skill acquisition into a systematic model charting how consciousness relates to bodily expertise. The progression reveals a fundamental transition in the relationship between conscious attention and skilled action.
+Hubert and Stuart Dreyfus developed the phenomenological analysis of skill acquisition into a systematic model charting how consciousness relates to bodily expertise. The progression reveals a fundamental transition in the relationship between conscious attention and skilled action.
 
 | Stage | Description | Consciousness Mode |
 |-------|-------------|-------------------|
@@ -81,7 +81,7 @@ Hubert Dreyfus developed the phenomenological analysis of skill acquisition into
 | Proficient | Sees situations holistically, knows *what* intuitively | The "what" becomes automatic; only "how" requires attention |
 | Expert | Acts fluidly without deliberation | [[implicit-memory|Anoetic consciousness]]—action without self-observation |
 
-The key phenomenological transition occurs between competent and expert performance. Initially, skills require conscious attention at every step. Gradually, consciousness *withdraws* from execution details while retaining oversight capacity. The expert doesn't lose awareness—they enter the anoetic mode where action flows without self-observation. There is still something it is like to perform expertly; it simply doesn't involve representing oneself as the subject of experience.
+The key phenomenological transition occurs between competent and expert performance. Initially, skills require conscious attention at every step. Gradually, consciousness *withdraws* from execution details while retaining oversight capacity. The expert doesn't lose awareness—they enter the anoetic mode where action flows without self-observation. On the Map's phenomenological reading, expertise transforms rather than empties experience: there is still something it is like to perform expertly, though it doesn't involve representing oneself as the subject of experience.
 
 This withdrawal is not elimination. Consciousness [[skill-delegation|delegates]] to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
 
@@ -98,7 +98,7 @@ The *explicit monitoring theory* (Beilock and Carr, 2001; building on Baumeister
 
 It is tempting to read this as evidence against epiphenomenalism, but the inference does not survive scrutiny. Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. The tempting reading is that if consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1. The next two paragraphs show why this reading fails: the chain is equally describable as one neural process interfering with another, so the data is consistent with [[mental-causation-and-downward-causation|bidirectional interaction]] without being evidence for it.
 
-The standard neuroscience interpretation explains choking as neural resource competition: conscious monitoring is a neural process that competes with automated motor routines for shared resources. On this reading, "attention disrupting performance" is one neural process interfering with another. Baumeister and Beilock's own explanations are framed in these neural-functional terms, and this reading is mainstream.
+The standard neuroscience interpretation explains choking as neural resource competition: conscious monitoring is a neural process that competes with automated motor routines for shared resources. On this reading, "attention disrupting performance" is one neural process interfering with another. Baumeister and Beilock frame their own explanations in attentional and functional terms; the neural gloss is supplied by the standard interpretation rather than by the authors themselves, and this reading is mainstream.
 
 The phenomenological categories that predict choking—absorbed versus self-reflective, outcome-focused versus mechanics-focused—track functional states that have causal consequences. A physicalist reads this straightforwardly: categories like "absorbed" versus "self-monitoring" track distinct neural configurations, and distinct neural configurations produce distinct performance outcomes. The taxonomy carves at causal joints because it tracks functional differences, and functional differences are causal under any framework. The [[supervenience]] reading accommodates the correlation without requiring phenomenal properties to do causal work.
 
@@ -132,11 +132,11 @@ Enactivism's strategy is *dissolution* rather than solution—it denies the mind
 
 Embodied cognition has implications for artificial intelligence. If cognition depends on embodied engagement with the world, then disembodied AI systems may lack something crucial.
 
-The [[symbol-grounding-problem|grounding problem]] asks how symbols acquire meaning without lived experience. A computer manipulates "cat" without knowing what cats are—the symbol lacks the connection to the world that makes concepts meaningful.
+The [[symbol-grounding-problem|grounding problem]], as Harnad posed it, asks how symbols acquire meaning without a causal-historical connection to their referents. A computer manipulates "cat" without knowing what cats are—the symbol lacks the connection to the world that makes concepts meaningful.
 
 Embodied cognition suggests the solution is physical interaction. A robot that navigates, manipulates objects, and learns through embodied action might achieve genuine understanding where pure language models cannot.
 
-Yet to the extent that current embodied systems still transfer poorly—as of 2026, despite rapid vision-language-action progress, robotic generalisation remains brittle—their "understanding" stays fragile. The Map's framework suggests an explanation: if consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that comes from phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient may be not physical interaction alone but, on the Map's view, consciousness itself—an appeal whose security is qualified by the unresolved [[#Buddhist Phenomenology Parallels|Buddhist challenge]] to treating consciousness as an irreducible substrate.
+Yet to the extent that current embodied systems still transfer poorly—as of 2026, despite rapid vision-language-action progress, robotic generalisation remains brittle—their "understanding" stays fragile. Two senses of grounding come apart here. Embodiment can supply the *causal-historical* grounding Harnad's problem actually demands: a robot's symbols connect to their referents through sensorimotor interaction with the world. The Map adds a separate thesis the grounding problem itself does not establish—that *semantic* grounding also requires a phenomenal substrate. If consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that, on the Map's view, requires phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient may be not physical interaction alone but, on the Map's view, consciousness itself—an appeal whose security is qualified by the unresolved [[#Buddhist Phenomenology Parallels|Buddhist challenge]] to treating consciousness as an irreducible substrate.
 
 ## Compatibility with Filter Theory
 
@@ -227,7 +227,7 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 1. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia. *Philosophy, Psychiatry, & Psychology*, 12(2), 95-107.
-1. Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
+1. Dreyfus, H. L., & Dreyfus, S. E. (1986). *Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
