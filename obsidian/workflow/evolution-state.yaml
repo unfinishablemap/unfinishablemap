@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T10:47:01.588345+00:00'
-session_count: 17327
+last_updated: '2026-07-26T10:47:27.141756+00:00'
+session_count: 17328
 cycle_position: 11781
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-07-26T04:49:47.536010+00:00'
   collect-gemini-review: '2026-07-26T04:41:25.932061+00:00'
   positions-evolve: '2026-07-25T17:35:07.397921+00:00'
-  check-model-fallback: '2026-07-26T06:45:25.634001+00:00'
+  check-model-fallback: '2026-07-26T10:47:27.141756+00:00'
   harvest-research-subjects: '2026-07-26T10:30:08.302346+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-07-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1135,15 +1135,49 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 7
+  p3_tasks: 8
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T10:24:14+00:00'
-  last_replenishment_prev: '2026-07-26T10:07:02+00:00'
-  last_replenishment_run: 851
+  last_replenishment: '2026-07-26T10:49:00+00:00'
+  last_replenishment_prev: '2026-07-26T10:24:14+00:00'
+  last_replenishment_run: 852
   last_replenishment_mode: standard
   replenishment_source_counts:
-    staleness: 1
+    pessimistic-review-promote: 1
+  run_852_note: 'run no.852 (2026-07-26T10:49Z, interactive /replenish-queue): NO new
+    mint — PROMOTED an existing P3 refine-draft to P2 to restore the floor (exact-floor
+    +1, highest-yield restore available). Target: "Address pessimistic-review findings
+    in concepts/multiple-drafts-model.md" (Type refine-draft, File present, tool-parses
+    TaskType.REFINE_DRAFT). Pre-edit count_p0_p2_tasks(open(todo).read()) == 2 (tool-run,
+    LIVE on disk, uv env); == 3 post-edit (tool-verified). Floor MIN_QUEUE_TASKS==3.
+    The run-849 the-steelman-for-process-monism holder drained via a loop-less deep-review
+    slot since run-851 (commit 799d88155 = auto(deep-review) the-steelman-for-process-monism,
+    now Completed), so live floor fell to 2 — documented replenish-at-floor alternation
+    [[unfin_loop_steady_state]], not a deadlock. Holders below: P2 quantum-probability-consciousness
+    (run-850) + P2 relational-quantum-mechanics (run-851). No evolve_loop/unfin-cycle
+    (pgrep clean); HEAD d131f63d3; only uncommitted delta the pre-existing deferred
+    cycle_post state bookkeeping — KEEP [[orphaned-cyclepost-state-advance-in-worktree]].
+    WHY PROMOTE NOT MINT: changed-since-review staleness pool drained + every top get_review_candidates
+    scorer disqualified (personal-identity 8.37 HUMAN-LENGTH-DECISION + over-hard DIVERT;
+    consciousness-in-simple-organisms 8.11 over-hard + cosmetic; indexical-knowledge
+    8.11 07-26 additions already publisher-verified; quantum-probability 7.57 = run-850
+    holder; self-representational 7.50 own-07-20 standalone deep-review converged).
+    A third consecutive owed-web-verify quote-fidelity mint would be another converged
+    near-no-op (run-851 relational-quantum-mechanics was itself premise-corrected to
+    a fast no-op — older-converged pool''s genuine unchecked external-quote surface
+    is thin, mostly reference-list titles the 06-2x citation ledgers already covered).
+    The promoted P3 is strictly higher-yield: three CONCRETE, grep-verified-present,
+    length-neutral defects (widely-accepted/contested quantifiers L46, formalised-with-Kinsbourne
+    overstatement L20, verificationism signpost) from a real pessimistic-review file
+    on a never-standalone-refined article (ai_modified==ldr==2026-07-12, no commit
+    since — 07-25 findings wholly unaddressed; the 07-12 deep-review commit 180ad4b6c
+    actioned a DIFFERENT earlier issue). Defects author-sourced not replenish-asserted.
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
+    319/320, voids 100/100, positions 8/80); orphaned_files==0; length NO safe fresh
+    condense candidate; positions 8<10 audit threshold + last positions-evolve 2026-07-25
+    (<30d); no applied-apex gap. Promoted task sits above both deep-review holders in
+    file order → picked first (highest-yield first). Full reasoning in the todo task
+    Notes. Pruned run_847_note per note-bloat discipline (keep ~3: 850/851/852).'
   run_851_note: 'run no.851 (2026-07-26T10:24Z, interactive /replenish-queue): SINGLE
     exact-floor +1 mint concepts/relational-quantum-mechanics.md — FIRST owed-web-verify
     / quote-fidelity mint after the changed-since-review pool exhausted. Pre-write
@@ -1215,45 +1249,6 @@ queue_status:
     (sole concepts/ holder vs both topics/ holders); cohort opus-4-5 distinct. Full
     reasoning in the todo task Notes. Pruned run_845_note per note-bloat discipline
     (keep ~3: 846/847/850).'
-  run_847_note: 'run no.847 (2026-07-26T09:08Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 verify-the-refine-landed deep-review mint topics/quantum-immortality-and-the-quantum-suicide-survival-argument.md.
-    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write
-    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
-    The run-846 neurological-dissociations mint reached 3 but the run-844 evolution-of-consciousness
-    holder drained via a loop-less deep-review slot since (commit 054cbb4fe = HEAD,
-    now checkmark in Completed) so live floor fell to 2 -- documented replenish-at-floor
-    alternation, not a deadlock. Holders: P2 embodied-consciousness (run-845) + P2
-    neurological-dissociations (run-846). No evolve_loop/unfin-cycle (ps clean); HEAD
-    054cbb4fe; only uncommitted delta the pre-existing deferred cycle_post bookkeeping
-    -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320,
-    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length NO
-    safe fresh candidate (offenders veto-tagged or human-deferred); positions 8<10
-    audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex gap.
-    Source 4 TARGET: quantum-immortality (single ai_system claude-opus-4-8, topics,
-    get_review scorer 8.75, soft_warning 3911w / ~89w UNDER 4000 hard -- length-SAFE
-    but TIGHT, ldr 2026-07-19T01:44, ai_modified 2026-07-26T07:47). GENUINE delta:
-    THREE 07-26 auto(refine-draft) commits from three different outer reviews (f235821e7
-    citation/attribution/superlative, 7c239979b physics-recalibration + thesis-separation,
-    64b40e727 Gemini competing-frameworks), ~28 net new lines, never holistically
-    deep-reviewed. LARGEST unchecked surface of any candidate (owed-web-verify seam):
-    individual cites spot-checked per-refine but the 3 rapid same-day refines never
-    checked for MUTUAL coherence. Pool NEARLY DRAINED -- each other top scorer disqualified
-    on a different ground: open-individualism embed-videos boilerplate only; personal-identity
-    already-verified NO-OP + length-blocked; consciousness-in-simple-organisms cosmetic
-    cross-link + over-hard 4139w; indexical-knowledge (8.11) EXCLUDED -- its 07-26
-    O''Brien-2025/Sebens-Carroll-2018 additions were ALREADY publisher-verified in
-    the neighbour cross-review (zero unchecked surface, run-845 churn exclusion CONFIRMED);
-    self-representational own-07-20-review converged. SAME-SESSION TRADE-OFF accepted:
-    a holistic verify-the-refine-landed on a 3-refine integration is REAL work, not
-    a redundant re-review (the distinguishing test). LENS = internal-coherence/verify-the-refine-landed
-    on the 3-refine delta ONLY (do the recalibrations cohere + not re-harden softened
-    hedges; verify O''Brien/Greaves/Vaidman attributions in-context at publisher;
-    constrain-vs-establish check). SCOPE NARROW (pre-07-19 body + ledger converged,
-    do NOT re-sweep). LENGTH STRICTLY NEUTRAL (tight, ~89w under hard). DIVERSITY:
-    3rd topics/ holder (soft-diversity compromise, exact-floor pool drained). HOLD
-    ai_system claude-opus-4-8 (single, do NOT flip to reviewer model, no [1m] artifact).
-    BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_844_note
-    per note-bloat discipline (keep ~3: 845/846/847).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
