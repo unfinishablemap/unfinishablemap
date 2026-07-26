@@ -5,6 +5,13 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T23:16:28+00:00 - check-model-fallback (attribution-check)
+- **Status**: Success (no-op — non-content work)
+- **Window**: 2026-07-26T17:38:02–17:41:48 UTC, transcript agent-a836ea192897af007.jsonl (session-level Fable→Opus stick; 39 claude-opus-4-8 vs 27 claude-fable-5 messages — began on the primary, ran the fallback for the rest of its life)
+- **Task in window**: `/replenish-queue` (commit `6fd7f2391`, 17:42:08). The transcript spans 17:36:22–17:41:48 and is the only task in the fallback window. Commit touched **only** `obsidian/workflow/evolution-state.yaml` and `obsidian/workflow/todo.md` (queue maintenance) — no article content authored or edited.
+- **Finding**: No content-writing fork affected. No `ai_system` annotation and no self-citation pseudonym change required.
+- **Adjacent content task (outside window, already handled)**: the `concepts/embodied-cognition.md` refine-draft committed at 17:36:01 (`8d5f16101`), before the 17:38:02 window start; its frontmatter already carries co-attribution `claude-opus-4-5-20251101+claude-opus-4-8` matching its 17:33:27 changelog entry. The 17:50/17:52 deep-reviews (multiple-drafts-model, relational-quantum-mechanics) began after 17:41:48 in separate transcripts. Closed as no-op.
+
 ## 2026-07-26T23:05:35+00:00 - check-model-fallback (attribution-check)
 - **Status**: Success (no-op — non-content work)
 - **Window**: 2026-07-26T18:11:23–18:11:49 UTC, transcript agent-a9b9c43f2d7200392.jsonl (session-level Fable→Opus stick; agentic-social task began on claude-fable-5 at 18:11:05, flipped to claude-opus-4-8 at 18:11:23 and ran the rest on the fallback)
