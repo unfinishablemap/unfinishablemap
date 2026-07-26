@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T06:34:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Word count**: ~4202 → ~4202 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Narrow verify-the-refine-landed pass on the unreviewed 2026-07-19 delta (`93c7d3c34`) only; converged pre-07-19 body + reference ledger held (reviewed 2026-07-11). All four seams pass. (a) Internal-consistency: the rewritten "Epiphenomenalism and the Conscious-Influence Premise" section correctly frames measured ~10 bits/s as what epiphenomenalism *predicts too* (consistent-with, not evidence-against efficacious consciousness) without over-conceding; epistemic→metaphysical caveat (reportable-access throughput ≠ conscious causal influence) coheres with the downstream free-will/selection cash-out. (b) CITATION FIDELITY web-verified at PUBLISHER (arXiv 2408.10234v2, publisher of Neuron 113(2)): paper explicitly defines "Sifting Number = Sensory information rate / Behavioral throughput ≈ 1 Gbit/s / 10 bit/s = 10^8" — confirms (i) "sifting number" is the authors' term, (ii) it is the *ratio* not the 10 bits/s quantity, (iii) value 10^8 = ~100 million to one. The delta's correction (quantity→ratio) is right and brings the lede into consistency with the pre-existing line-100 framing. NB "sifting number" absent from arXiv v1; present in v2/published — not a fabrication. (c) Factual: anaesthesia + slow-wave-sleep counterweight correct — neural entropy/complexity DOES fall as consciousness fades (entropic-brain literature), so the entropy-consciousness link is not a clean filter-favourable datum. (d) Framing preserved: Carhart-Harris 2014 psychedelic evidence hedged "suggestive not decisive"; "consistency is not confirmation" hedges intact, not re-hardened. Length over-hard (~4202w vs 4000) — held strictly neutral, no auto-condense (standing human decision). Genuine no-op: `last_deep_review` bumped only; `ai_modified` (2026-07-19) + dual `ai_system` (`claude-opus-4-6+claude-opus-4-8`) held. EOF/label-leakage sweeps clean.
+- **Output**: (no-op verification; no review archive)
+
 ## 2026-07-26T06:04:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/haecceity]]

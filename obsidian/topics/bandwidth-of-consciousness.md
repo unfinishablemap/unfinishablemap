@@ -49,7 +49,7 @@ author: null
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-09
 last_curated: null
-last_deep_review: 2026-07-11T12:24:00+00:00
+last_deep_review: 2026-07-26T06:34:15+00:00
 coalesced_from:
   - "/topics/neural-bandwidth-constraints-and-the-interface/"
   - "/topics/asymmetric-bandwidth-of-consciousness/"
