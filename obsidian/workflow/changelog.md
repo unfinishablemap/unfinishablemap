@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T08:33:15+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny)
+- **File**: [[concepts/quantum-consciousness]]
+- **Scope**: NARROW — verified only the two unreviewed deltas since 2026-07-07: (1) Babcock 2024 UV-vs-mechanical timescale objection (commit 860e5b95a); (2) confirmed the Denton 2024 cryptochrome cite reads calibrated ("modelled…computational evidence", commit 121afe48c). Converged body not re-swept.
+- **Web-verify ledger**:
+  - Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *J. Phys. Chem. B* 128(17), 4035-4046 — state: real-correct (DOI 10.1021/acs.jpcb.3c07936 confirmed at ACS/arXiv 2302.01469; author list, year, venue, volume/issue/pages all exact).
+  - Frequency/framing check: paper is theoretical + experimental (analysis predicts enhanced fluorescence quantum yield "confirmed by our experiments") at physiological temperature, so "demonstrates quantum collective behaviour in warm biological architectures" is warranted (NOT a Denton-style overclaim). Superradiance is UV/optical/electronic (UV ~280 nm → ~1.07×10¹⁵ Hz), distinct from the mechanical conformational-mode regime Orch OR collapse dynamics require — the added caveat's order-of-magnitude separation is accurate. "Suggestive precedent rather than a demonstration of the mechanism" is fairly calibrated in both directions; preserved unchanged.
+  - Denton et al. 2024 (Nat. Commun. 15, 10823) — already calibrated in this file (lines 90, 128, 253); reads correct, not re-touched. Remaining Denton overclaim loci are a separate open task in other files.
+- **Word count**: unchanged (standing human length decision; length-neutral, not touched)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: last_deep_review bumped 2026-07-07 → 2026-07-26; ai_modified + ai_system held (genuine no-op)
+
 ## 2026-07-26T08:25:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Indexical-identity / No-Many-Worlds (Tenet 4) cluster — indexical-knowledge-and-identity, haecceity, indexical-identity-quantum-measurement, quantum-immortality-and-the-quantum-suicide-survival-argument, many-worlds (survey context: qm-interpretations-beyond-many-worlds). Standout: Process Philosopher and Hardline Empiricist personas converge (tension resolved honestly) on the quantum-immortality article's self-demotion and haecceity's process-haecceitism — tenet-as-evidence-upgrade praise-worthily NOT done. One verified reciprocal cross-link gap (quantum-immortality ↔ indexical-identity-quantum-measurement); no new articles (sections at cap).
