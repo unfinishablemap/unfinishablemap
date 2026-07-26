@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-13
 last_curated:
-last_deep_review: 2026-07-20T00:00:08+00:00
+last_deep_review: 2026-07-26T21:16:15+00:00
 ---
 
 The **self-representational theory of consciousness** holds that a mental state is phenomenally conscious just when it represents *itself* in the right way. One state does both jobs at once: it is directed at the world (the coffee, the blue sky) and, in the same act, directed at itself. Uriah Kriegel is its leading proponent. The theory is "same-order" rather than "higher-order": where [[higher-order-theories|higher-order theories]] make a state conscious by having a *separate* thought or perception target it, self-representationalism folds the awareness-conferring work back into the one state, so no second state is needed.

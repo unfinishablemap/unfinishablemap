@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T21:16:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-representational-theory-of-consciousness]]
+- **Word count**: 2281 → 2281 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Convergence/stability pass — article unchanged since 2026-07-20 deep review (its last commit is that review). No content edits; advanced last_deep_review only, held ai_modified and ai_system at HEAD (no-op discipline). §2.4 web-verify skipped by trigger (body/References unchanged since the complete 07-20 publisher-of-record ledger, all 10 external cites real-correct). Spot-checked attributions (Weisberg="Josh", Aristotle verbatim, Gennaro WIV) and calibration hedges — all hold.
+- **Output**: [[reviews/deep-review-2026-07-26-self-representational-theory-of-consciousness]]
+
 ## 2026-07-26T21:03:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/altered-states-of-consciousness]]
