@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T00:35:37.184651+00:00'
-session_count: 17246
+last_updated: '2026-07-26T00:46:04.224189+00:00'
+session_count: 17247
 cycle_position: 11745
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-25T04:06:17.551367+00:00'
   refine-draft: '2026-07-26T00:05:03.187929+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T00:24:03.403927+00:00'
+  replenish-queue: '2026-07-26T00:46:04.224189+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-25T08:03:40.542130+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-25'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-07-25'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1143,12 +1143,12 @@ queue_status:
     mint drained SAME-CYCLE via a loop-less local deep-review slot that self-selected
     it immediately, commit 080db547d auto(deep-review):cycle, review file written,
     now DONE-BY-CYCLE-SLOT); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
-    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 691b04d3a; only uncommitted
-    delta the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source
-    audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
-    voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already
-    queued P3 + veto condenses parser-excluded; positions 8<10 audit threshold + last
-    positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
+    w/ Type+File). No evolve_loop/unfin-cycle (pgrep clean); HEAD 691b04d3a; only
+    uncommitted delta the pre-existing deferred cycle_post state bookkeeping -- KEEP.
+    Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts
+    319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
+    already queued P3 + veto condenses parser-excluded; positions 8<10 audit threshold
+    + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 (changed-since-review)
     TARGET: dualism-cartography (opus-4-8, apex, soft_warning 4116w / 884w headroom
     to 5000 hard, ldr 2026-07-16T01:06). GENUINE delta: commit e069d8f4f (2026-07-25
     15:37, auto apex-evolve trigger) added a whole new "## Evidence and Dependency"
@@ -1171,13 +1171,15 @@ queue_status:
     drift); (c) LIGHT spot-check only Cucu & Pitts 2019 Mind&Matter 17(1):95-121 framing
     (the item least cross-checkable vs reviewed body prose), never delete on false
     negative, unfinishablemap.org top-hit = circular. SCOPE NARROW: verify ONLY the
-    e069d8f4f new-section delta, do NOT re-sweep the converged ledger. DIVERSITY: dualism-cartography/dependency-partition/apex-synthesis
-    cluster DISTINCT from both holders (interactionist-dualism=pairing-problem; many-worlds=No-MWI);
-    apex/ SECTION-DISTINCT from both (both concepts/); opus-4-8 model-DISTINCT (opus-4-5/opus-4-6).
-    APEX HYGIENE: HOLD ai_system claude-opus-4-8 SINGLE + HOLD apex_last_synthesis 07-25
-    (deep-review is NOT apex synthesis); no-op -> last_deep_review ONLY, HOLD ai_modified+ai_system+apex_last_synthesis.
-    LENGTH SAFE + neutral, do NOT pad. BOTTOM-inserted (FIFO). Full reasoning in the
-    todo task Notes. Pruned run_831_note per note-bloat discipline (keep ~3: 832/833/834).'
+    e069d8f4f new-section delta, do NOT re-sweep the converged ledger. DIVERSITY:
+    dualism-cartography/dependency-partition/apex-synthesis cluster DISTINCT from
+    both holders (interactionist-dualism=pairing-problem; many-worlds=No-MWI); apex/
+    SECTION-DISTINCT from both (both concepts/); opus-4-8 model-DISTINCT (opus-4-5/opus-4-6).
+    APEX HYGIENE: HOLD ai_system claude-opus-4-8 SINGLE + HOLD apex_last_synthesis
+    07-25 (deep-review is NOT apex synthesis); no-op -> last_deep_review ONLY, HOLD
+    ai_modified+ai_system+apex_last_synthesis. LENGTH SAFE + neutral, do NOT pad.
+    BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes. Pruned run_831_note
+    per note-bloat discipline (keep ~3: 832/833/834).'
   run_833_note: 'run no.833 (2026-07-26T00:20Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint topics/consciousness-evolution-and-biology.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (holders P2 interactionist-dualism

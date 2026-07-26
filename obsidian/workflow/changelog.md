@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T00:47:57+00:00 - deep-review
+- **Status**: Success (no-op convergence pass — no critical or medium issues)
+- **File**: [[concepts/interactionist-dualism]]
+- **Word count**: 3499 → 3499 (no change; ~3050 authored prose + ~450 Further Reading/References apparatus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 15th deep review. Substantive change since 07-07 was the 07-16 convergent 3-reviewer outer-review refine (cc8d5b682): de-duplicated the cumulative case (args 1–3 = one anti-physicalist intuition, not three), inherited the P-Q3 mechanism debt into Argument 7 via new [[positions/quantum-interface#^mechanism-debt]] anchor (resolves cleanly), softened "the physical mechanism" → "a candidate physical mechanism" (calibration fix), expanded the pairing treatment with the Bailey/Rasmussen/Van Horn 2011 inline cite. All calibration-improving; preserve — do not oscillate. §2.4: body modified but no new bibliographic entries; 13-entry References block carried forward real-correct from 06-05/07-07 ledgers; inline Bailey 2011 matches verified entry; new Stoljar name-drop (line 97) is a fair undated in-text characterization, not a misattribution. Superlative sweep zero hits; no leakage; no boundary-substitution. Length 140% of soft but under hard cap (authored prose ~3050) — length-neutral condense candidate, not forced. Advanced last_deep_review only; held ai_modified at 07-16 refine stamp per no-op-edit discipline.
+- **Output**: [[reviews/deep-review-2026-07-26-interactionist-dualism]]
+
 ## 2026-07-26T00:32:48+00:00 - deep-review
 - **Status**: Success (validation pass on new content — no critical or medium issues)
 - **File**: [[topics/consciousness-evolution-and-biology]]
