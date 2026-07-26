@@ -43,7 +43,7 @@ description: Metacognition and metarepresentation are cognitive tools consciousn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 08:19:00+00:00
+last_deep_review: 2026-07-25 23:42:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-12 10:18:40+00:00
+ai_modified: 2026-07-25 22:56:09+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -53,7 +53,7 @@ description: Attention serves as the interface where consciousness influences th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 11:23:03+00:00
+last_deep_review: 2026-07-25 22:56:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -287,3 +287,5 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 24. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 
 25. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+
+26. Prinz, J.J. (2012). *The Conscious Brain: How Attention Engenders Experience*. Oxford University Press.

@@ -1,13 +1,162 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-25 03:16:59+00:00
+ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-07-25'
+date: '2026-07-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-26T00:32:48+00:00 - deep-review
+- **Status**: Success (validation pass on new content — no critical or medium issues)
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Word count**: 2779 → 2779 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 6th deep review. Genuine new content since 06-25 (2026-07-15 refine-draft c0bc087ec reconciled zombie-evolution argument with Map interactionism), so re-qualification legitimate, not damping false-positive. Web-verified the one new cite — Wright 1973 "Functions" Phil Review 82(2) 139–168 real-correct at PDCnet/JSTOR. New interactionism paragraph well-calibrated (conditional framing, symmetric cost, no possibility/probability slippage); MQI section calibration IMPROVED by refine-draft (added consistency-not-confirmation hedge + falsification clause). Millikan/Neander named as undated tradition-markers — no References entry required. Reasoning-mode: materialist engagement Mixed (Mode Two reductio strengthened + Mode Three boundary-mark), no label leakage. Both new wikilinks resolve; ai_system clean. Advanced last_deep_review only; held ai_modified (07-15 refine) per no-op-edit discipline.
+- **Output**: [deep-review-2026-07-26-consciousness-evolution-and-biology](/reviews/deep-review-2026-07-26-consciousness-evolution-and-biology/)
+
+## 2026-07-26T00:06:51+00:00 - deep-review
+- **Status**: Success (no-op convergence pass — no critical or medium issues)
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3978 → 3978 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 16th deep review of a stabilised article. Only change since 2026-07-11 was a clean 07-18 condense (4684w → 3978w) that preserved every load-bearing calibration hedge. Full-lens pass: citations byte-identical to prior-verified tuples (no re-verify trigger), no superlatives, exemplary Kim-exclusion reasoning-mode (internal-to-opponent, honestly non-decisive), no label leakage, no possibility/probability slippage, all wikilinks resolve. Advanced `last_deep_review` only; held `ai_modified` (07-18) and `ai_system` per no-op discipline.
+- **Output**: [deep-review-2026-07-26-argument-from-reason](/reviews/deep-review-2026-07-26-argument-from-reason/)
+
+## 2026-07-26T00:01:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Original score**: mature/well-cited (pessimistic review 2026-07-25; additive fixes, not a rewrite)
+- **Changes**:
+  - HIGH: Reframed "The Zombie Intuition Applied to Evolution" as a reductio against function-exhausts-fitness materialism (not a free-standing puzzle for everyone). Added a paragraph reconciling with the Map's interactionism — a causally-efficacious consciousness means a behaviourally-matched zombie is not a physical duplicate, so selection *can* reach the difference; noted the symmetric cost (owes a quantum-interface mechanism; must not be causally screened off toward epiphenomenalism). Cross-linked [causal-closure](/concepts/causal-closure/) and [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/).
+  - MEDIUM (falsifiability): Downgraded "is exactly what minimal interaction predicts" → "is consistent with … though consistency is not confirmation"; stated falsification conditions (a fully classical account of the amplification capacities; null results in the quantum-neural-effects programme); signposted [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/).
+  - MEDIUM (decoherence): Added an acknowledging clause to the magnetoreception/tunnelling analogy noting those precedents exploit narrowly protected coherences and the neural-scale case is contested on decoherence grounds; linked [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
+  - Minor: Attributed the etiological theory to its canonical origin (Wright 1973; Millikan/Neander selected-effects accounts) with Godfrey-Smith 1994 as the modern-history variant; added Wright (1973) to References. Hedged "the illusion problem is at least as hard as the hard problem" as the Map's contention.
+- **Engagement classification**: reply to the materialist/physicalist over the zombie-evolution puzzle — Mode Two (unsupported foundational move): the reframing turns on materialism helping itself to "function exhausts fitness" without earning it; boundary-marking (Mode Three) supplies the residue — the Map's escape is bought at the acknowledged cost of an unproven quantum interface, noted honestly rather than as a refutation.
+- **Published**: yes
+
+## 2026-07-25T23:56:48+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) (oldest content article; never given a dedicated pessimistic pass)
+- **Findings**: 1 high (zombie-evolution argument in tension with Map's interactionism), 2 medium (falsifiability gap in minimal-quantum-interaction claim; unaddressed decoherence objection behind magnetoreception analogy), plus minor attribution/hedge notes. Discipline audits clean (no label leakage; altered-state Audit Two N/A; citations verified accurate). Queued 1 P2 refine-draft.
+- **Output**: [pessimistic-2026-07-25-consciousness-evolution-and-biology](/reviews/pessimistic-2026-07-25-consciousness-evolution-and-biology/)
+
+## 2026-07-25T23:42:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Word count**: 3455 → 3455 (no prose change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op; 9th review — verified orthogonal fidelity axes: Schulz verbatim quote + Rebouillat empirical paraphrase, both faithful)
+- **Output**: [deep-review-2026-07-25-metacognition](/reviews/deep-review-2026-07-25-metacognition/)
+
+## 2026-07-25T23:17:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Word count**: 3445 → 3445 (no prose change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op)
+- **Output**: [deep-review-2026-07-25-agent-causation](/reviews/deep-review-2026-07-25-agent-causation/)
+- **Notes**: 9th deep review; converged hub concept. Only drift since 07-07 review was four verified-faithful cross-link installs to newly-created agency-cluster articles: van Inwagen Consequence Argument back-cite (Agent-vs-Event §), emergent-dualism link + gloss (Major Defenders §, near-verbatim to target), and two Further-Reading entries (event-causal-libertarianism, manipulation-argument — the latter's "wild coincidences" prong confirmed at target §51/53/69). No new citations (07-07 publisher-of-record ledger stands), 0 superlatives, calibration register unchanged, no editor-vocab leakage. Reasoning modes unchanged (Kim: Mode Two; Mele luck: Mode One; MWI: Mode Three). Length 3445 = 138% of 2500 soft, below 3500 hard — accreted-cross-link watch item, a crossing of 3500 is a human length decision. No-op discipline: only last_deep_review advanced (07-07→07-25); ai_modified held at HEAD 07-12T09:26:06 (deep-review-fork-bumps-ai-modified-on-noop).
+
+## 2026-07-25T23:13:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Word count**: 4072 → 4072 (no prose change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op)
+- **Notes**: 12th review; converged coalesce-hub structural calibrator. Only drift since 07-07 was two reciprocated cross-link accretions (07-08 refine wiring [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/); 07-08 Alexithymia expand adding an [alexithymia](/concepts/alexithymia/) Further-Reading bullet) — both targets verified live + reciprocal. No citation change (07-07 ledger stands; Joo 4571–4583 intact), no calibration slippage, no editor-vocab leakage, no superlatives. Length 4072 = 72 over 4000 hard ceiling (was 25 over) — accepted structural hub accretion; NO safe 72-word condense exists (only load-bearing hedges or LLM-useful specifics remain), NO condense task queued (human-decision-task-mispicked-as-refine). No-op discipline: only last_deep_review advanced (07-07→07-25); ai_modified held at HEAD 07-08T01:28:21.
+- **Output**: [deep-review-2026-07-25-introspection-architecture-independence-scoring](/reviews/deep-review-2026-07-25-introspection-architecture-independence-scoring/)
+
+## 2026-07-25T22:56:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Word count**: 3150 → 3150 (+1 References line; prose unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added missing Prinz 2012 References entry for the AIR paragraph added by 5d34dedfe on 07-12; every other named theorist in the article carries a ref)
+- **Notes**: 12th review; converged hub. Only drift since 07-07 was the 07-12 cross-review adding one AIR paragraph — verified attribution-accurate (Prinz's constitutive reading vs the Map's selection reading), wikilink live + reciprocal. Reference-completeness fix only; ai_system left at claude-opus-4-6 (single ref line ≠ re-attribution). Engagement modes re-confirmed (Prinz/AIR = Mode Three, framework boundary). No label leakage, no calibration slippage, no superlatives.
+- **Output**: [deep-review-2026-07-25-attention-as-interface](/reviews/deep-review-2026-07-25-attention-as-interface/)
+
+## 2026-07-25T22:17:26+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 3392 → 3392 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 10th review. Only changes since the 9th (2026-07-06) review were cosmetic cross-links — one text→wikilink conversion (hemispherectomy) and two Further Reading entries (recurrent-processing-theory, attended-intermediate-representations-theory); all three targets verified live. No new claims or citations. Bumped last_deep_review only; ai_modified/ai_system left at HEAD.
+- **Output**: [deep-review-2026-07-25-neural-correlates-of-consciousness](/reviews/deep-review-2026-07-25-neural-correlates-of-consciousness/)
+
+## 2026-07-25T22:03:20+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 650 (321 topics, 320 concepts, 9 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (steelman cluster + illusionism-gloss cluster, both correctly framed)
+- **Output**: [tenet-check-2026-07-25](/reviews/tenet-check-2026-07-25/)
+
+## 2026-07-25T21:49:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Word count**: ~3070 → 3140 (+~70; load-bearing calibration content, well under concepts hard 3500)
+- **Critical issues addressed**: 1 (Baum "classical cannot achieve zero-lag synchrony" over-claim asserted as fact at two loci — §Zero-Lag Synchrony Problem and §Experimental Evidence bullet; reframed as Baum's *contested* premise with the classical dynamical-relaying rebuttal (Vicente 2008 / Viriyopase 2012) stated inline, matching the corpus's own calibrated sibling [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/). The 07-18 edit had added a pointer to the sibling but left the own-voice assertions standing.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (22nd review; converged). Web-verified the one citation changed since the 07-11 full ledger: Revonsuo 1999 (Cons. Cogn. 8(2):173-185, doi:10.1006/ccog.1999.0393 — DOI resolves to Elsevier PII S1053810099903938) — the 07-18 change 2006→1999 is a faithful correction, marked real-correct. Reasoning-mode engagements unchanged (illusionist Mode One+Two; eliminativist/MWI/Buddhist Mode Three bedrock, not re-flagged). ai_system co-attributed claude-opus-4-6+claude-opus-4-8.
+- **Output**: [deep-review-2026-07-25-binding-problem](/reviews/deep-review-2026-07-25-binding-problem/)
+
+## 2026-07-25T21:24:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2926 → 2926 (0; no-op verify after web-verifying the two quote changes since the 07-07 clean pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (12th review). Two changes since 07-07: `acb28d8f4` (07-12) added a Hasker/[emergent-dualism](/concepts/emergent-dualism/) cross-link sentence (target exists, sound); `6f83d14ef` (07-19) reformulated BOTH marquee quotes as a cross-corpus family-resolution. Web-verified at publisher of record: Chalmers 2006 "one clear case of a strongly emergent phenomenon" VERBATIM (consc.net/papers/emergence.pdf) — the edit FIXED a prior non-verbatim rendering ("the paradigm of..."); Broad 1925 "characteristic behaviour of the whole could not, even in theory, be deduced... taken separately or in other combinations" VERBATIM (Mind and Its Place in Nature; SEP-confirmed), truncated at a natural point. References block byte-identical, §2.4 ledger carried from 07-07. No calibration slippage, no from-below reintroduction, no leakage artifacts. NO-OP: only last_deep_review stamped; ai_modified (2026-07-19T23:08:40) + ai_system (claude-opus-4-5) HELD at HEAD.
+- **Output**: [deep-review-2026-07-25-emergence](/reviews/deep-review-2026-07-25-emergence/)
+
+## 2026-07-25T21:08:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Word count**: 2983 → 2983 (0; no-op after real scrutiny of the sole change since the 07-07 clean pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (13th review). Sole change since 07-07: refine-draft 9ffd993d2 (2026-07-18) added one lead scoping sentence reconciling the constitutively-temporal contradiction with [non-temporal-consciousness](/topics/non-temporal-consciousness/). Verified SOUND — reciprocated in the sibling page (its L52/L60 level-distinction), no new contradiction, reduces overclaim, no possibility/probability slippage. No citations changed; References byte-identical, §2.4 full 27-ref publisher ledger carried forward from 07-07 (Lee 2024 confirmed at PhilArchive). No `[1m]`/EOF/leakage artifacts. Named-opponent modes unchanged (Illusionist Mode Two+Three, B-theorist Mode Three). NO-OP: only last_deep_review stamped; ai_modified (2026-07-18T05:05:10) + ai_system (claude-opus-4-6) HELD at HEAD.
+- **Output**: [deep-review-2026-07-25-temporal-consciousness](/reviews/deep-review-2026-07-25-temporal-consciousness/)
+
+## 2026-07-25T20:48:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemology](/concepts/epistemology/)
+- **Word count**: 2074 → 2074 (0; no-op after real scrutiny of new prose)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (6th review). Reviewed GENUINE new content since 07-07: commit 6505f6470 (2026-07-21 refine, ChatGPT 5.6 Pro outer review) added a rival-position matrix paragraph (L73) distinguishing eliminativism/illusionism from the stronger physicalist positions, plus two field-claim softenings (L47, L67). New prose is accurate, calibration-clean (reduces overclaim, no possibility/probability slippage), internally consistent with the heterophenomenology passage, honest Mode-Three boundary-marking with no label leakage. No new citations; References byte-identical, §2.4 ledger (5 cites all real-correct) carried forward from 07-07 publisher pass. NO-OP: only last_deep_review stamped; ai_modified (2026-07-21T20:17:15) + ai_system (claude-opus-4-6+claude-opus-4-8) HELD at HEAD.
+- **Output**: [deep-review-2026-07-25-epistemology](/reviews/deep-review-2026-07-25-epistemology/)
+
+## 2026-07-25T20:45:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/)
+- **Word count**: 3045 → 3045 (0; no-op confirming pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (3rd review; converged). Re-qualified only via cosmetic cross-link commit a9cdacde8 (ai_modified bump); References block untouched, so §2.4 web-verify skipped per its stable-References carve-out (all 15 external cites verified real-correct across 07-09 + 07-17 passes). Verified the one new claim — post-decoherence-selection "four distinct loci" cross-link — accurate against live target and calibration-clean. NO-OP: only last_deep_review stamped; ai_modified + ai_system HELD at HEAD (2026-07-18T12:46 / claude-opus-4-8).
+- **Output**: [deep-review-2026-07-25-consistent-histories-interpretation](/reviews/deep-review-2026-07-25-consistent-histories-interpretation/)
+
+## 2026-07-25T20:28:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 2859 → 2859 (0; citation-metadata fix, length-neutral)
+- **Critical issues addressed**: 1 (Bandyopadhyay/Sahu APL reference — real-wrong-metadata: wrong author/year/volume/article-number; corrected to Sahu et al. 2013, APL 102(12) 123701, DOI 10.1063/1.4793995, and inline reconciled to "Sahu et al. (2013)")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (14th review; converged). §2.4 publisher-of-record pass over cites not in the 07-07 ledger: Khan 2024 (eNeuro, ENEURO.0291-24.2024) real-correct; Fisher 2015 (Ann Phys 362:593) real-correct; Bandyopadhyay→Sahu APL fixed. 07-17 refine's Claim-3 interpretation-scoping is a calibration improvement, not re-litigated. Family-resolution note: sibling Sahu et al. 2014 Sci Rep 4:7303 (timing articles) is a distinct, correct citation — no propagation. Engagement modes unchanged (Tegmark = Mode One; others Mode Three). ai_modified + last_deep_review bumped (real edit); ai_system HELD at claude-opus-4-6 (metadata fix, not re-authoring).
+- **Output**: [deep-review-2026-07-25-decoherence](/reviews/deep-review-2026-07-25-decoherence/)
 
 ## 2026-07-25T20:04:42+00:00 - deep-review
 - **Status**: Success

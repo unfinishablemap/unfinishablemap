@@ -18,7 +18,7 @@ description: 'Consistent (decoherent) histories: an observer-free, no-collapse, 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 07:49:00+00:00
+last_deep_review: 2026-07-25 20:45:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

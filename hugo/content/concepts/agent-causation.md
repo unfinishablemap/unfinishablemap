@@ -36,7 +36,7 @@ description: Agent causation holds that persons originate actions directly as su
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 03:21:51+00:00
+last_deep_review: 2026-07-25 23:17:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

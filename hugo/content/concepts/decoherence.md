@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-17 07:30:12+00:00
+ai_modified: 2026-07-25 20:28:50+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: The decoherence objection bundles three independent claims. Five re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 06:05:00+00:00
+last_deep_review: 2026-07-25 20:28:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ In 2000, Tegmark calculated that quantum coherence in brain microtubules would d
 
 Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. Reimers et al. (2009) and McKemmish et al. (2009) then re-derived the recalibration and found Hagan's parameter assumptions either rely on dielectric properties of microtubules that are not empirically established, or specify regimes microtubules do not occupy in living tissue. The dispute is live rather than settled; citing Hagan as a closed rebuttal of Tegmark would be selective citation, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The [four proposed protection mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) may extend coherence further but do not, on their own, resolve the parameter dispute.
 
-The original Orch OR model required 25 milliseconds of coherence—still far longer than even Hagan's corrected estimates. But Bandyopadhyay (2014) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
+The original Orch OR model required 25 milliseconds of coherence—still far longer than even Hagan's corrected estimates. But Sahu et al. (2013) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
 
 Recent work is suggestive: epothilone B delayed anaesthetic-induced unconsciousness in rats (Khan et al., 2024), confirming an Orch OR prediction; Craddock et al. (2017) computationally predict — via molecular-dynamics and quantum-chemistry simulations — that anaesthetics specifically disrupt a (613 ± 8) THz collective tubulin oscillation peak while non-anaesthetic structural analogues do not, with disruption magnitude tracking clinical potency (Wiest 2025 reviews this prediction without supplying new data). The 613 THz claim is therefore a computational prediction awaiting experimental verification, not an experimental finding awaiting independent replication. Fisher (2015) proposed phosphorus nuclear spins in Posner molecules could maintain coherence for ~10⁵ seconds—not yet experimentally confirmed. No experiment has directly measured quantum coherence times in living neural tissue, but the story is more complex than Tegmark's early calculation indicated.
 
@@ -212,7 +212,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevan
 
 ## References
 
-1. Bandyopadhyay, A. (2014). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 104(17), 173701.
+1. Sahu, S., Ghosh, S., Hirata, K., Fujita, D., & Bandyopadhyay, A. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
 1. Craddock, T.J.A., Kurian, P., Preto, J., Sahu, K., Hameroff, S.R., Klobukowski, M., & Tuszynski, J.A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency. *Scientific Reports*, 7, 9877.
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.

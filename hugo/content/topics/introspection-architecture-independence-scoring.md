@@ -23,7 +23,7 @@ description: A worked exhibit applying the voids-circularity discount to the fou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 10:17:57+00:00
+last_deep_review: 2026-07-25 23:13:12+00:00
 modified: *id001
 related_articles:
 - '[[cross-architecture-llm-introspection]]'
