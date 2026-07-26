@@ -5,6 +5,19 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T07:33:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Scope**: Web-verified review of the 2026-07-26 refine-draft delta (commit dde3a3cf9) — first substantive change since 2026-06-01. Sixth deep review of this slug.
+- **Attribution**: Broad (1925) correction VERIFIED — the perpendicular-force/emergentist framing is historically accurate; the prior "first systematic formulation" implied endorsement and was the misattribution the refine fixed. Leibniz *vis viva* anachronism (deferred across 5 prior reviews) now resolved.
+- **Web-verify (delta cites)**: Buhler 2020 *Metaphysica* 21(2) 223–236 (refine corrected 21(1)→21(2)); List & Menzies 2009 *J.Phil.* 106(9) 475–502; Loewer 2007 pp.243–265 Blackwell; Woodward 2003 *Making Things Happen* OUP — all real-correct at publisher of record. Three added refs resolve prior inline-mention orphans.
+- **Calibration**: new Tegmark-decoherence + Gibb-unfalsifiability additions show sound defeater-removal-vs-evidence discipline; no possibility/probability slippage, no label leakage.
+- **Word count**: 2984 → 2984 (no content change; refine already applied fixes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (bumped last_deep_review only; held ai_modified + ai_system at refine's values)
+- **Output**: [[reviews/deep-review-2026-07-26-causal-closure-debate-historical-survey]]
+
 ## 2026-07-26T07:17:23+00:00 - deep-review
 - **Status**: Success (no-op after real scrutiny)
 - **File**: [[apex/machine-question]]
