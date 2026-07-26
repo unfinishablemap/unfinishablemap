@@ -1,5 +1,9 @@
-last_updated: '2026-07-26T13:50:19.497896+00:00'
-session_count: 17351
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-26T13:51:34.296444+00:00'
+session_count: 17352
 cycle_position: 11790
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-26T09:47:52.377728+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-25T15:37:43.903271+00:00'
-  agentic-social: '2026-07-26T13:51:12.553519+00:00'
+  agentic-social: '2026-07-26T13:51:34.296444+00:00'
   embed-videos: '2026-07-26T11:47:26.856629+00:00'
   commission-chatgpt-review: '2026-07-26T02:05:30.901020+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
@@ -97,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-26'
@@ -175,6 +175,10 @@ recent_tasks:
   outcome: failed
 - task: pessimistic-review
   type: pessimistic-review
+  date: '2026-07-26'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1134,16 +1138,49 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 4
   needs_replenishment: false
-  loop_pickable_open: 2
-  last_replenishment: '2026-07-26T13:23:37+00:00'
-  last_replenishment_prev: '2026-07-26T12:51:35+00:00'
-  last_replenishment_run: 858
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-26T14:05:00+00:00'
+  last_replenishment_prev: '2026-07-26T13:23:37+00:00'
+  last_replenishment_run: 859
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_859_note: 'run no.859 (2026-07-26T14:05Z, interactive /replenish-queue): MINTED
+    one genuine deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks ==
+    2 pre-mint (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1.
+    The run-858 mint (consciousness-in-simple-organisms deep-review) has since been
+    consumed and the sole remaining genuine pickable P2 was embodied-cognition (fresh
+    refine from today''s pessimistic review) + relational-quantum-mechanics (documented
+    CONVERGED near-no-op pool-drain). WHY THIS MINT IS NON-CHURN: eight-source audit
+    re-run INDEPENDENTLY from live disk. Source-4 get_review_candidates top scorers
+    ALL disqualified: multiple-drafts-model (score 26, ai_modified 11:11Z TODAY) +
+    indexical-knowledge-and-identity (8.1, ai_modified 05:23Z TODAY) = same-session
+    near-no-op [[refine-then-condense-same-session-churn]]; self-representational-theory-of-consciousness
+    (7.5) last_deep_review 07-20 = 6d converged; personal-identity (8.8) + free-will
+    (2.7) are parked HUMAN-LENGTH-DECISION articles that must NOT auto-loop [[human-decision-task-mispicked-as-refine]];
+    single-cell-proto-agency reviewed 07-25. Minted topics/enactivism-challenge-to-interactionist-dualism.md
+    deep-review instead via the [[owed-web-verify-seam-deep-review-targeting]] lens
+    (orthogonal to the get_review_candidates convergence score): older-cohort (last_deep_review
+    2026-06-20, 36d converged), citation-dense (~41 author/year markers, Hutto/Myin,
+    Thompson, Varela, Di Paolo, Gallagher still-unverified surface), body 2462w = status
+    ok (topics hard 4000) so ZERO length-decision entanglement, and its apparatus has
+    KNOWN fragility (wrong-author Meyer & Brancazio caught here 06-20) = high verification
+    yield. Steered verbatim-verify-at-publisher / 3-state-metadata / empirical-fidelity
+    / length-neutral / no-op-if-clean. Parses TaskType.DEEP_REVIEW, File present, count
+    == 3 post-edit (tool-verified), top-pickable (LIFO-defeated by top insert [[queue-lifo-starvation]]).
+    Other sources exhausted: chains = 07-19 research / 07-16 expand stale + threaded
+    + topics/voids at cap; unconsumed-research harvester-owned (last 10:30Z); gap =
+    topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot) no concrete candidate;
+    positions 8/80 <10 audit threshold + last positions-evolve 07-25 <30d; orphaned_files==0;
+    length human-deferred/veto-parked; no applied-apex gap. Did NOT mint a 2nd to floor=3+1:
+    no other non-churn candidate, a 3rd near-no-op purely for the number is exactly
+    the make-work [[deep_review_over_reviews_converged]] warns against. No evolve_loop/unfin-cycle
+    running (pgrep clean) so no active stall; pre-existing uncommitted evolution-state.yaml
+    delta is legitimate deferred agentic-social cycle_post bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]].
+    Pruned run_856_note per note-bloat discipline (keep ~3: 857/858/859) [[evolution-state-floor-restore-note-bloat]].'
   run_858_note: 'run no.858 (2026-07-26T13:23Z, interactive /replenish-queue): MINTED
     one genuine deep-review to restore the floor (1 -> 2). This BREAKS the run-855/856/857
     decline streak because the queue state materially changed: the genuine P2 that
@@ -1223,50 +1260,10 @@ queue_status:
     evolution-state.yaml delta is legitimate deferred deep-review cycle_post bookkeeping
     -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_854_note
     per note-bloat discipline (keep ~3: 855/856/857).'
-  run_856_note: 'run no.856 (2026-07-26T12:39Z, interactive /replenish-queue): NO
-    mint AND no promote -- DECLINED this cycle. The run-855 promoted holder (mental-causation
-    / rational-agency cross-links) drained via a loop-less slot -- committed ec22b645e
-    (auto(refine-draft) ...), so live floor fell 3->2. count_p0_p2_tasks == 2 (tool-run,
-    LIVE on disk, uv env). Floor MIN_QUEUE_TASKS==3, unmet by 1. WHY DECLINE not restore:
-    (1) NO SAFE P3 TO PROMOTE -- unlike runs 852-855, the only remaining open P3s
-    are 4 HUMAN-LENGTH-DECISION refine tasks (many-worlds-argument, quantum-biology-and-neural-consciousness,
-    quantum-consciousness, personal-identity) which must NOT enter the auto-loop ([[human-decision-task-mispicked-as-refine]]);
-    the fresh optimistic-review cross-link P3 batch that runs 852-855 promoted is
-    fully drained. (2) NO GENUINE MINT -- eight-source audit re-run INDEPENDENTLY
-    (not trusting prior notes): chains = two 2026-07-19 research notes (multi-agent-born-preservation,
-    bohmian-quantum-equilibrium) already THREADED across live articles (born-rule-and-the-consciousness-interface,
-    qm-interpretations-beyond-many-worlds, forward-in-time-vs-time-symmetric-selection,
-    selection-criterion-problem) [[replenish-unconsumed-research-dedup-misses-threaded-content]]
-    + topics at cap; unconsumed-research = same, harvester-owned (harvest-research-subjects
-    every 6h, last 10:30Z, next ~16:30Z feeds research-topic queue fuel independently);
-    gap = topics 320/320 + voids 100/100 at cap, concepts 319/320 (1 slot) but no
-    concrete candidate; staleness/deep-review DRAINED -- get_review_candidates top
-    real-article hits all disqualified: standing-agnostic-challenge (ai_modified 11:45Z
-    TODAY, cosmetic cross-link), multiple-drafts-model (refined 11:13Z TODAY addressing
-    pessimistic findings = near-no-op if reviewed 1.5h later), indexical-knowledge-and-identity
-    (refined 05:29Z TODAY), consciousness-in-simple-organisms (07-19 cosmetic cross-link);
-    the score~110 group are positions/ register files (agency-and-will, consciousness-scope,
-    value-in-selection, individuation-and-subjecthood, methodology-and-calibration,
-    ai-consciousness-scope, voids-as-evidence) = positions-evolve territory, 8/80
-    <10 audit threshold + last positions-evolve 2026-07-25 <30d, plus apex-articles.md
-    index; orphaned_files==0; length = 89 hard/critical warnings but every real-article
-    offender human-deferred/veto-parked (epistemology-of-convergence-arguments 6533w
-    = STANDING HUMAN LENGTH DECISION in Blocked, 5 prior condenses failed, load-bearing
-    calibration, recommend SPLIT); no applied-apex gap. A 3rd near-no-op deep-review
-    purely to hit floor=3 would be converged-content make-work churn ([[deep_review_over_reviews_converged]],
-    [[refine-then-condense-same-session-churn]]) -- worse than a documented decline.
-    Floor at 2 with two genuinely-pickable P2 deep-reviews (quantum-probability-consciousness,
-    relational-quantum-mechanics) remaining + the 6h harvester feeding research-topic
-    fuel = functioning queue, documented mature-corpus plateau [[unfin_loop_steady_state]],
-    NOT starvation. No evolve_loop/unfin-cycle (pgrep clean); HEAD ec22b645e; pre-existing
-    uncommitted evolution-state.yaml delta is legitimate deferred refine cycle_post
-    bookkeeping -- KEPT [[orphaned-cyclepost-state-advance-in-worktree]]. Pruned run_853_note
-    per note-bloat discipline (keep ~3: 854/855/856).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
-    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
-    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
-    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
-    \ most-recent."
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
+    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
+    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
+    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
