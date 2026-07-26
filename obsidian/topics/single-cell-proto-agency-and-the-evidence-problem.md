@@ -4,7 +4,7 @@ description: "What would count as evidence that one cell chooses rather than mer
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-16T14:04:05+00:00
+ai_modified: 2026-07-26T11:45:36+00:00
 last_deep_review: 2026-07-25T07:03:09+00:00
 draft: false
 topics:
@@ -16,6 +16,8 @@ concepts:
   - "[[interface-threshold]]"
 related_articles:
   - "[[agency-void]]"
+  - "[[standing-agnostic-challenge]]"
+  - "[[birch-edge-of-sentience-and-the-five-tier-scale]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8

@@ -5,6 +5,13 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T11:45:36+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/single-cell-proto-agency-and-the-evidence-problem]], [[concepts/standing-agnostic-challenge]]
+- **Source**: optimistic review 2026-07-25 (minimal-organism/evidence-problem cluster — reciprocal cross-links)
+- **Changes**: LINK-ONLY, strictly length-neutral. related_articles: single-cell ← added [[standing-agnostic-challenge]] (consciousness-in-simple-organisms names single-cell as the challenge's sharpest instance, yet single-cell never linked it) + [[birch-edge-of-sentience-and-the-five-tier-scale]] (register consistency — single-cell was the only cluster member unanchored to the canonical five-tier node); standing-agnostic-challenge ← added reciprocal [[single-cell-proto-agency-and-the-evidence-problem]]. Optional body wikilink to standing-agnostic-challenge SKIPPED — single-cell contains no existing phrase naming the Standing Agnostic Challenge, so no clean anchor (task permits skip). All 3 links grep-verified absent before add; all targets confirmed resolving to live articles. Block-style wikilink convention preserved. ai_modified bumped on both; ai_system held (cross-link, not re-authoring).
+- **Published**: yes
+
 ## 2026-07-26T11:32:34+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/testing-consciousness-collapse]], [[topics/quantum-neural-timing-constraints]], [[topics/neural-implementation-specifics]], [[topics/brain-internal-born-rule-testing]]

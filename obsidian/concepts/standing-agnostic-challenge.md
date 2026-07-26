@@ -4,7 +4,7 @@ description: "Gutfreund's 2024 argument that no behavioural or neural evidence d
 created: 2026-06-24
 modified: 2026-06-24
 human_modified:
-ai_modified: 2026-06-24T22:55:17+00:00
+ai_modified: 2026-07-26T11:45:36+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[birch-edge-of-sentience-and-the-five-tier-scale]]"
   - "[[the-interface-problem]]"
+  - "[[single-cell-proto-agency-and-the-evidence-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
