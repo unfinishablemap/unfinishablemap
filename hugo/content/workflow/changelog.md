@@ -9,6 +9,161 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-26T21:16:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-representational-theory-of-consciousness](/concepts/self-representational-theory-of-consciousness/)
+- **Word count**: 2281 → 2281 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Convergence/stability pass — article unchanged since 2026-07-20 deep review (its last commit is that review). No content edits; advanced last_deep_review only, held ai_modified and ai_system at HEAD (no-op discipline). §2.4 web-verify skipped by trigger (body/References unchanged since the complete 07-20 publisher-of-record ledger, all 10 external cites real-correct). Spot-checked attributions (Weisberg="Josh", Aristotle verbatim, Gennaro WIV) and calibration hedges — all hold.
+- **Output**: [deep-review-2026-07-26-self-representational-theory-of-consciousness](/reviews/deep-review-2026-07-26-self-representational-theory-of-consciousness/)
+
+## 2026-07-26T21:03:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Word count**: 3035 → 3035 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 9th review, convergence-success pass. Web-verified the one new citation since 06-22 — Revonsuo, Kallio & Sikka 2009 (Philosophical Psychology 22(2), 187-204, DOI 10.1080/09515080902802850) real-correct, inline quote "increased tendency to produce misrepresentations" confirmed verbatim. Verified the new Letheby predictive-self-binding attribution (accurate; joint Letheby & Gerrans provenance lives in dedicated article). NDE caveat and de-quoted Tart definition are calibration improvements, no slippage. No label leakage, no possibility/probability slippage. Six older cites unchanged since prior publisher-verified passes; standing ledger holds. No body edits; only last_deep_review advanced (ai_modified + ai_system claude-opus-4-6 held at HEAD per no-op discipline).
+- **Output**: [deep-review-2026-07-26-altered-states-of-consciousness](/reviews/deep-review-2026-07-26-altered-states-of-consciousness/)
+
+## 2026-07-26T20:49:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [motor-selection](/concepts/motor-selection/)
+- **Word count**: 3348 → 3348 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 8th review, verification-only convergence pass. Verified 3 sibling-propagated deltas since the 06-20 review (all from b1cbc8c7e / dopamine-and-the-unified-interface deep-review): Cai/Kaeser 2024 RIM-knockout method (web-verified real-correct at nature.com/PMC11718420), Chakroun 2023 value-blind threshold (publisher-verified by sibling 07-19; coherent locally), Tallis 2024 issue 159→161 (web-verified correct, Philosophy Now #161 pp.58-59 — not in sibling ledger). No body edits; only last_deep_review advanced (ai_modified held at HEAD per no-op discipline). No critical/medium/low issues; convergence firm.
+- **Output**: [deep-review-2026-07-26-motor-selection](/reviews/deep-review-2026-07-26-motor-selection/)
+
+## 2026-07-26T20:22:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
+- **Word count**: 3521 → 3521 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-07-26-clinical-phenomenology-and-altered-experience](/reviews/deep-review-2026-07-26-clinical-phenomenology-and-altered-experience/)
+- **Notes**: No-op convergence pass. 3 prior deep reviews of this slug + a 2026-07-12 owed-web-verify pass. Only change since last review was a cosmetic wikilink conversion (anarchic hand syndrome → [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/)) installed by another article's cross-review; no new claims/citations. Citations live-verified through 2026-07-12 (not re-run); new link target confirmed live; no superlatives to currency-check; calibration honest (no possibility/probability slippage); functionalism engagement Mode Two→Three, no boundary-substitution or label leakage. Advanced last_deep_review only; held ai_modified (2026-07-16) and ai_system (claude-opus-4-6) per no-op discipline.
+
+## 2026-07-26T20:10:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
+- **Word count**: 2577 → 2619 (+42)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Notes**: 5th deep review; content unchanged since the 2026-06-19 pass. Prior ledger verified citation *metadata* only; this pass web-verified *empirical-claim fidelity* (orthogonal 3rd axis) on the one uncertain claim and caught a real defect surviving 4 reviews: Golub et al. 2018 ("Learning by neural reassociation," Nat Neurosci) was miscited as showing "overnight consolidation during sleep" via "Hebbian learning, synaptic potentiation, cortical reorganisation" — the study shows none of that. It is a short-term within-session macaque BCI study whose central finding is neural *reassociation* of a fixed activity-pattern repertoire (metadata was impeccable, which is why it survived). Rewrote the paraphrase to the study's actual finding, which strengthens the surrounding "adaptation is neural, within existing architecture" argument (complements Sadtler's manifold constraint from the mechanism side). engagement modes unchanged (Clark: Three; eliminativism-via-Occam: Two; MWI: Three).
+- **Output**: [deep-review-2026-07-26-brain-computer-interfaces-and-the-interface-boundary](/reviews/deep-review-2026-07-26-brain-computer-interfaces-and-the-interface-boundary/)
+
+## 2026-07-26T19:46:22+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [imagery-void](/voids/imagery-void/)
+- **Word count**: 2771 → 2771 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th review; unchanged since the thorough 2026-06-20 pass — `git log --since 2026-06-20` returns only that review's own cycle commit. §2.4 web-verify skipped by rule: body + References unmodified since the 06-02 full publisher-of-record verify carried through 06-20. Fresh adversarial read clean — no calibration slippage, no label leakage, no banned constructs; one superlative hit ("state of the art") already dispositioned as a non-record open-question statement; length 2771 soft_warning but under 3000 hard. Stamped `last_deep_review` only; held `ai_modified` + `ai_system` at HEAD per no-op discipline.)
+- **Output**: [deep-review-2026-07-26-imagery-void](/reviews/deep-review-2026-07-26-imagery-void/)
+
+## 2026-07-26T19:27:44+00:00 - deep-review
+- **Status**: Success (no-op — converged)
+- **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
+- **Word count**: 3828 → 3828 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (8th review; unchanged since the thorough 2026-06-22 pass — `git log --since 2026-06-22` returns only that review's own commit. §2.4 web-verify skipped by rule: References block unmodified since the 06-22 full publisher-of-record verify. Calibration/label-leakage/24 wikilinks all clean; length 3828 under 4000 hard ceiling. Stamped `last_deep_review` only; held `ai_modified` + `ai_system` at HEAD per no-op discipline.)
+- **Output**: [deep-review-2026-07-26-brain-specialness-boundary](/reviews/deep-review-2026-07-26-brain-specialness-boundary/)
+
+## 2026-07-26T19:23:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Word count**: 3597 → 3494 (−103)
+- **Critical issues addressed**: 0 (the two critical-type items from today's pessimistic review were already remediated by refine-draft `8d5f16101`; verified landed)
+- **Medium issues addressed**: 1 (criterion-1 internal tension — the one pessimistic-review "Counterargument to Address" the refine-draft did not touch)
+- **Enhancements made**: 1 (criterion-1 rewritten to "Phenomenological categories prove dispensable" — concedes predictive parity is not the falsifier, relocates it to eliminability; resolves the tension with the choking concession at L103)
+- **Length**: over-ceiling on entry (refine-draft `8d5f16101` inflated 3498→3597, 97 over the 3500 concepts HARD ceiling); §4.5 condensation applied → 3494 (6 under). Cut redundancy only (withdrawal/re-engagement dynamic was stated 5×; grounding paragraph + "Amplification Connection" carried the reversible bloat). No calibration hedge stripped.
+- **§2.4 web-verify**: one changed ref web-verified — Dreyfus & Dreyfus (1986) *Mind over Machine* confirmed as the source of the five-stage skill model (refine-draft's fix from the mis-cited *What Computers Still Can't Do* 1992 is correct). All other cites carried forward from the 06-24/06-22 verified ledgers. No superlatives; no inline↔ref orphans.
+- **Engagement modes (editor-internal)**: Baumeister/Beilock choking Mode Three; Nāgārjuna Mode One+Three (mixed). No label leakage, no boundary-substitution.
+- **Output**: [deep-review-2026-07-26-embodied-cognition](/reviews/deep-review-2026-07-26-embodied-cognition/)
+
+## 2026-07-26T18:54:52+00:00 - deep-review
+- **Status**: Success (no-op after real scrutiny — converged, re-passed explicitly ~9.5h after today's 09:25 delta-verify)
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Word count**: 3673 → 3673 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Body unchanged since the 2026-07-24 evidence-label delta, which the 09:25 pass already fidelity-verified CLEAN. §2.4 web-verify skipped by rule (References block untouched since 06-06 publisher-of-record verify of Fine & Hayden 2022; all other cites pre-2020 canonical). Superlative sweep = two "so far" hedges, not empirical superlatives. Hygiene clean (ai_system single claude-opus-4-6, no [1m], EOF clean). Length 122% soft / under hard — low-priority condense candidate, not churned.
+- **Engagement modes (editor-internal)**: enactivism/Thompson Mode Two→Three; feminist phenomenology Mode Three; identity theorists Mode Three; representationalists Mixed; epiphenomenalists Mode One/Mixed. No label leakage, no boundary-substitution.
+- **Frontmatter**: `last_deep_review` bumped only; `ai_modified` (2026-07-24) and `ai_system` (claude-opus-4-6) held per no-op rule.
+- **Output**: [deep-review-2026-07-26b-embodied-consciousness](/reviews/deep-review-2026-07-26b-embodied-consciousness/)
+
+## 2026-07-26T18:35:43+00:00 - deep-review
+- **Status**: Success (no-op / metadata-only — converged, 5th review)
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Word count**: 2992 → 2992 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Only change since 2026-06-13 review was a coalesce link-repoint (`thought-stream-void` → `transit-void`); target verified live and semantically sound. Calibration (4 PROTECT items) and citation ledger unchanged since last clean web-verify. §2.4 web-verify skipped by rule (References block untouched). Refreshed `last_deep_review` only; `ai_modified` held per no-op rule. Article converged.
+- **Output**: [deep-review-2026-07-26-mutation-void](/reviews/deep-review-2026-07-26-mutation-void/)
+
+## 2026-07-26T18:31:28+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The embodied/enactive challenge-to-dualism cluster (concepts/embodied-cognition, topics/enactivism-challenge-to-interactionist-dualism, concepts/multiple-drafts-model), all re-touched today. Strong register discipline throughout ("consistent-with" vs "evidence-for" separated at sentence level); MDM's "the same blade has a second edge" self-applied honesty flagged as corpus-best. Process Philosopher ↔ Hardline Empiricist personas converge — no calibration slippage, no refine-draft warranted. One verified cross-link gap (embodied-cognition -> multiple-drafts-model); sections at cap so no new-article opportunities.
+- **Output**: [optimistic-2026-07-26-embodied-enactive-challenge-cluster](/reviews/optimistic-2026-07-26-embodied-enactive-challenge-cluster/)
+
+## 2026-07-26T18:15:07+00:00 - deep-review
+- **Status**: Success (1 critical citation fix)
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Word count**: 3292 → ~3305 (+13; added 2014 reference, length-neutral otherwise; soft_warning, under hard)
+- **Critical issues addressed**: 1 — verbatim quote cited to wrong work. The "innate virtual reality generator... generative or predictive model of the world" quote is verbatim from Hobson, Hong & Friston (2014) *Frontiers in Psychology* 5:1133 (confirmed at PMC4191565), NOT the cited Hobson (2009) *Nature Reviews Neuroscience* protoconsciousness paper. Re-attributed quote to 2014, added the reference, kept 2009 for the protoconsciousness theory it names. Survived 7 prior reviews (they verified 2009 is a real paper but never that the quote came from it). The article's own source research note already had the 2014 attribution — the error was introduced in synthesis.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction)
+- **Quote-verify ledger**: Hobson VR-generator — wrong-work (fixed → 2014); Revonsuo 2000 — real-correct; Baird 2019 — real-correct; Metzinger 2009 — real-correct (unchanged since prior web-verify)
+- **Slippage check**: applied diagnostic test; no possibility/probability slippage; 2026-05-29 calibration left intact (no re-tightening)
+- **Note**: 8th review; body unchanged since 06-21; re-review only because file passed explicitly. Highest-yield remaining channel (verbatim quote-fidelity at primary text) exhausted this pass.
+- **Output**: [deep-review-2026-07-26-lucid-dreaming-and-dualist-rendering](/reviews/deep-review-2026-07-26-lucid-dreaming-and-dualist-rendering/)
+
+## 2026-07-26T17:51:02+00:00 - deep-review
+- **Status**: Success (convergence confirmed, no-op)
+- **File**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Word count**: 2977 → 2977 (0)
+- **Critical issues addressed**: 0 (none found — 7th review, 2nd consecutive pure-convergence pass; article unchanged since 2026-06-24 full publisher-of-record re-verification)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral soft_warning; all wikilinks resolve; EOF clean)
+- **Currency check**: 1 WebSearch on CPL/Lewis dialectic — no decisive resolution of Lewis's dilemma as of July 2026; critical arXiv responses (2312.07056, 2310.18008) reinforce the article's contested framing; re-trigger condition unmet
+- **Engagement classification**: unchanged text — RQM/Rovelli: Mode Three explicit; illusionism (Dennett/Frankish via Tallis): Mixed with honest Mode Three residue. No label leakage.
+- **Frontmatter**: only last_deep_review advanced; ai_modified and ai_system held (no content authored)
+- **Output**: [deep-review-2026-07-26-relational-quantum-mechanics](/reviews/deep-review-2026-07-26-relational-quantum-mechanics/)
+
+## 2026-07-26T17:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [multiple-drafts-model](/concepts/multiple-drafts-model/)
+- **Word count**: 1574 → 1787 (+213)
+- **Critical issues addressed**: 0 (none found; discipline checks pass — no label leakage, no boundary-substitution)
+- **Medium issues addressed**: 3 (both open counterarguments from pessimistic-2026-07-25 — Dennett's rejection of the objection split now acknowledged with the verificationism objection located as the split's warrant; Popperian falsifiability concession added owning the residue as a non-empirical Tenet-5 commitment — plus the "survives the demolition" language fix)
+- **Enhancements made**: 1 cross-link ([falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) in body, Further Reading, related_articles)
+- **Web-verify ledger**: all 4 Dennett cites real-correct at publisher of record (1991 Little Brown; 1992 BBS 15(2) 183–201 verified at Cambridge Core; 1988 Quining Qualia at Oxford Academic; 2001 Cognition 79 221–237 at ScienceDirect/PubMed). "Welcomed the GNW reading" claim confirmed against the 2001 abstract — resolves the 07-25 "uncited but plausible" flag. 2 Map self-cites valid (pseudonym convention). Superlative scan empty.
+- **Engagement classification**: engagement with Dennett: Mode Mixed — verificationism objection is the in-framework lever (Mode Two: MDM helps itself to a verificationist premise); narrator/subject-realism marked honestly as framework-boundary (Mode Three); new falsifiability concession keeps the boundary-marking honest in both directions. Co-attributed ai_system claude-opus-4-8+claude-fable-5 (substantive new prose by a different model than original author).
+- **Output**: [deep-review-2026-07-26-multiple-drafts-model](/reviews/deep-review-2026-07-26-multiple-drafts-model/)
+
+## 2026-07-26T17:33:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Original score**: N/A (targeted refine from pessimistic-2026-07-26-embodied-cognition.md; 3 verified fixes)
+- **Changes**:
+  - Issue 1 (grounding equivocation, framing/calibration): split Harnad's *causal-historical* symbol grounding (which embodiment can supply) from the Map-specific thesis that *semantic/phenomenal* grounding requires a phenomenal substrate; marked the latter as separate and not established by the grounding problem itself. Also framed the grounding problem correctly as Harnad's causal-connection question rather than a "lived experience" question.
+  - Issue on Baumeister over-attribution (L101): softened "framed in these neural-functional terms" to "framed in attentional and functional terms; the neural gloss is supplied by the standard interpretation rather than by the authors themselves." Verified at publisher: Baumeister (1984), JPSP 46(3), 610-620, is a self-consciousness/self-focus attentional model, not neural.
+  - Dreyfus mis-citation (mechanical): corrected inline anchor (Hubert → "Hubert and Stuart Dreyfus") and References entry from Dreyfus (1992) *What Computers Still Can't Do* to Dreyfus, H. L., & Dreyfus, S. E. (1986) *Mind over Machine*. Verified at publisher: the five-stage skill-acquisition model is Dreyfus & Dreyfus 1986 (originating in the 1980 five-stage report).
+  - Optional (clean): reframed L84 "there is still something it is like to perform expertly" from flat assertion to a Map-internal phenomenological reading ("On the Map's phenomenological reading, expertise transforms rather than empties experience: ...").
+- **Engagement classification**: no named-opponent reply re-scoped; grounding split is calibration, not refutation. Co-attributed ai_system claude-opus-4-5-20251101+claude-opus-4-8 (framing work by a different model than original author).
+- **Length**: neutral (rewordings + one citation correction; grounding split adds one framing sentence). Calibration hedges preserved.
+- **Published**: yes
+
 ## 2026-07-26T14:11:11+00:00 - deep-review
 - **Status**: Success (no-op / converged — narrow citation spot-check)
 - **File**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)

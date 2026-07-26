@@ -31,7 +31,7 @@ description: Motor control and attention share neural substrates. Dopamine marks
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 15:49:12+00:00
+last_deep_review: 2026-07-26 20:49:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

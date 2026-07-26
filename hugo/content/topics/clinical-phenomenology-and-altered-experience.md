@@ -28,7 +28,7 @@ description: Clinical phenomenology uses psychiatric disruption as natural exper
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 18:03:07+00:00
+last_deep_review: 2026-07-26 20:22:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

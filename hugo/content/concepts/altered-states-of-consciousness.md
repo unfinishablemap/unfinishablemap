@@ -23,7 +23,7 @@ description: Altered states reveal consciousness's range through meditation, psy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 16:31:08+00:00
+last_deep_review: 2026-07-26 21:03:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

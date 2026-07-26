@@ -19,7 +19,7 @@ description: 'Kriegel''s same-order theory holds a state is conscious when it re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-20 00:00:08+00:00
+last_deep_review: 2026-07-26 21:16:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

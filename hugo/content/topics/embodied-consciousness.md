@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-07-24 16:45:46+00:00
+ai_modified: 2026-07-26 18:56:48+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: The body shapes how consciousness engages matter without producing 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-26 09:25:20+00:00
+last_deep_review: 2026-07-26 18:54:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -224,7 +224,7 @@ The interface reading would face serious difficulty if:
 ## References
 
 1. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
-1. Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
+1. Dreyfus, H. L., & Dreyfus, S. E. (1986). *Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
 1. Gallagher, S. (2005). *How the Body Shapes the Mind*. Oxford University Press.
 1. Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Husserl, E. (1952/1989). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*. Kluwer.
