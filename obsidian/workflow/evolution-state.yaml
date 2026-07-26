@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T09:52:47.250137+00:00'
-session_count: 17320
+last_updated: '2026-07-26T10:08:41.117082+00:00'
+session_count: 17321
 cycle_position: 11778
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T07:50:36.144318+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T09:40:11.516630+00:00'
+  replenish-queue: '2026-07-26T10:08:41.117082+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1153,12 +1153,12 @@ queue_status:
     staleness: 1
   run_850_note: 'run no.850 (2026-07-26T10:07Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/quantum-probability-consciousness.md.
-    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk, uv env); == 3 post-write
-    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
-    The run-847 quantum-immortality mint drained via a loop-less deep-review slot (commit
-    349248427 = HEAD auto(deep-review) quantum-immortality, now Completed), so live
-    floor fell to 2 -- documented replenish-at-floor alternation, not a deadlock. Holders:
-    P2 experimental-consciousness-science-2025-2026 (run-848) + P2 the-steelman-for-process-monism
+    Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk, uv env); == 3
+    post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
+    The run-847 quantum-immortality mint drained via a loop-less deep-review slot
+    (commit 349248427 = HEAD auto(deep-review) quantum-immortality, now Completed),
+    so live floor fell to 2 -- documented replenish-at-floor alternation, not a deadlock.
+    Holders: P2 experimental-consciousness-science-2025-2026 (run-848) + P2 the-steelman-for-process-monism
     (run-849). No evolve_loop/unfin-cycle (ps clean); HEAD 349248427; only uncommitted
     delta the pre-existing deferred cycle_post state bookkeeping from the quantum-immortality
     deep-review -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED
@@ -1170,17 +1170,17 @@ queue_status:
     FRESH un-disqualified candidate, soft_warning 2793w / ~707w UNDER 3500 hard --
     length-SAFE; ldr 2026-07-12T09:45, ai_modified 2026-07-16T08:08). TWO unreviewed
     deltas: (i) commit 7d9e1b03b (2026-07-16 refine, No-MWI CONVERGENT cluster) recalibrated
-    a substantive over-claim ("MWI provides no resources" -> "MWI''s resources ... presuppose
-    the centred subject ... so it stays open rather than answered") -- NOT cosmetic;
-    (ii) commit 112b81e9f (2026-07-24 coalesce) repointed the section cross-reference
-    [[probability-objections-many-worlds]] (now archived) -> [[probability-problem-in-many-worlds]]
+    a substantive over-claim ("MWI provides no resources" -> "MWI''s resources ...
+    presuppose the centred subject ... so it stays open rather than answered") --
+    NOT cosmetic; (ii) commit 112b81e9f (2026-07-24 coalesce) repointed the section
+    cross-reference [[probability-objections-many-worlds]] (now archived) -> [[probability-problem-in-many-worlds]]
     (live topics/, absorbed the objections article) -- the paragraph''s enumerated
     three-strategy/four-objection content-claims now need re-verification vs the merged
     target (apex-stale-internal-quote-channel class, NOT a bare cosmetic wikilink).
     LENS = argument-framing fidelity (i) + cross-reference coherence (ii) on the two
-    deltas ONLY. SCOPE NARROW (pre-07-12 body + 8-review ledger converged, do NOT re-sweep);
-    LENGTH STRICTLY NEUTRAL; HOLD ai_system claude-opus-4-5-20251101 (single, no [1m]
-    artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO). Section-diverse
+    deltas ONLY. SCOPE NARROW (pre-07-12 body + 8-review ledger converged, do NOT
+    re-sweep); LENGTH STRICTLY NEUTRAL; HOLD ai_system claude-opus-4-5-20251101 (single,
+    no [1m] artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO). Section-diverse
     (sole concepts/ holder vs both topics/ holders); cohort opus-4-5 distinct. Full
     reasoning in the todo task Notes. Pruned run_845_note per note-bloat discipline
     (keep ~3: 846/847/850).'

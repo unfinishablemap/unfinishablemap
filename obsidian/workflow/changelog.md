@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T10:10:01+00:00 - deep-review
+- **Status**: Success (no-op — narrow-scope citation web-verify; delta cite verified real+faithful)
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Scope**: Verified ONLY the delta since last_deep_review 2026-07-12 — commit ceb84d6b6 (2026-07-16, Gemini outer-review refine) added the extracranial-biophoton-contested paragraph plus reference 14. Converged body NOT re-swept.
+- **Web-verify ledger**: Salari, V., Seshan, V., Rishabh, R., Oblak, D., & Simon, C. (2026). "Revisiting claims of extracranial biophoton detection from the human brain." bioRxiv 10.64898/2026.03.27.714599 (posted 31 Mar 2026) / arXiv:2603.26630 (v1 27 Mar 2026, v2 26 May 2026) — state: **real-correct**. Title, all five authors, arXiv ID, and 31-March bioRxiv date all confirmed at arxiv.org + biorxiv.org (not via any unfinishablemap.org echo). Article paraphrase faithful: paper argues reported extracranial UPE signals are dominated by background/ambient light rather than genuine cortical emission (short wavelengths absorbed by scalp/skull, long wavelengths outside standard photomultiplier detection range → scalp-level not cortical emission). No overreach.
+- **Word count**: 2435 → 2435 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: last_deep_review bumped to 2026-07-26; ai_modified HELD at 2026-07-16T10:23:29 and ai_system HELD at single claude-opus-4-6 (no content change).
+- **Output**: [[reviews/deep-review-2026-07-26-experimental-consciousness-science-2025-2026]]
+
 ## 2026-07-26T09:50:00+00:00 - deep-review
 - **Status**: Success (holistic coherence check across three same-day refines; one redundancy trim)
 - **File**: [[topics/quantum-immortality-and-the-quantum-suicide-survival-argument]]
