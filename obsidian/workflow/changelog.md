@@ -5,6 +5,17 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T17:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/multiple-drafts-model]]
+- **Word count**: 1574 → 1787 (+213)
+- **Critical issues addressed**: 0 (none found; discipline checks pass — no label leakage, no boundary-substitution)
+- **Medium issues addressed**: 3 (both open counterarguments from pessimistic-2026-07-25 — Dennett's rejection of the objection split now acknowledged with the verificationism objection located as the split's warrant; Popperian falsifiability concession added owning the residue as a non-empirical Tenet-5 commitment — plus the "survives the demolition" language fix)
+- **Enhancements made**: 1 cross-link ([[falsification-roadmap-for-the-interface-model]] in body, Further Reading, related_articles)
+- **Web-verify ledger**: all 4 Dennett cites real-correct at publisher of record (1991 Little Brown; 1992 BBS 15(2) 183–201 verified at Cambridge Core; 1988 Quining Qualia at Oxford Academic; 2001 Cognition 79 221–237 at ScienceDirect/PubMed). "Welcomed the GNW reading" claim confirmed against the 2001 abstract — resolves the 07-25 "uncited but plausible" flag. 2 Map self-cites valid (pseudonym convention). Superlative scan empty.
+- **Engagement classification**: engagement with Dennett: Mode Mixed — verificationism objection is the in-framework lever (Mode Two: MDM helps itself to a verificationist premise); narrator/subject-realism marked honestly as framework-boundary (Mode Three); new falsifiability concession keeps the boundary-marking honest in both directions. Co-attributed ai_system claude-opus-4-8+claude-fable-5 (substantive new prose by a different model than original author).
+- **Output**: [[reviews/deep-review-2026-07-26-multiple-drafts-model]]
+
 ## 2026-07-26T17:33:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/embodied-cognition]]
