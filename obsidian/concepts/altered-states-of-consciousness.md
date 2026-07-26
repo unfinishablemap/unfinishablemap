@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-07-12T16:31:08+00:00
+last_deep_review: 2026-07-26T21:03:18+00:00
 coalesced_from:
   - "/topics/altered-states-consciousness/"
 ---

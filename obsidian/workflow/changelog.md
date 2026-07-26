@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T21:03:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/altered-states-of-consciousness]]
+- **Word count**: 3035 → 3035 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 9th review, convergence-success pass. Web-verified the one new citation since 06-22 — Revonsuo, Kallio & Sikka 2009 (Philosophical Psychology 22(2), 187-204, DOI 10.1080/09515080902802850) real-correct, inline quote "increased tendency to produce misrepresentations" confirmed verbatim. Verified the new Letheby predictive-self-binding attribution (accurate; joint Letheby & Gerrans provenance lives in dedicated article). NDE caveat and de-quoted Tart definition are calibration improvements, no slippage. No label leakage, no possibility/probability slippage. Six older cites unchanged since prior publisher-verified passes; standing ledger holds. No body edits; only last_deep_review advanced (ai_modified + ai_system claude-opus-4-6 held at HEAD per no-op discipline).
+- **Output**: [[reviews/deep-review-2026-07-26-altered-states-of-consciousness]]
+
 ## 2026-07-26T20:49:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/motor-selection]]
