@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-07-12T01:07:00+00:00
+last_deep_review: 2026-07-26T02:22:56+00:00
 ---
 
 You know that Paris is the capital of France, that water freezes at 0°C, and that Napoleon lost at Waterloo. This knowledge is simply *available*—you don't mentally travel back to when you learned these facts. You don't re-experience sitting in geography class or reading a history book. The facts are just there, accessible without phenomenal replay. This is semantic memory, accompanied by what Endel Tulving called *noetic consciousness*: knowing without re-experiencing.

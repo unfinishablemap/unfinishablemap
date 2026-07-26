@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T02:22:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/semantic-memory]]
+- **Word count**: 3141 → 3141 (no content change); soft_warning (~126% of 2500 soft, under 3500 hard, concepts/)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op; 8th review, converged). Sole live question: post-07-12 commit 150fce89b ("family harmonization") RE-quoted the Tallis phrase that the 07-12 review had DE-quoted — looked like [[quote-aggregator-ratification-corrupts-verbatim]]. RESOLVED by primary-source WebFetch of philosophynow.org Issue 161 (Tallis 2024, "The Illusion of Illusionism"): "Misrepresentation presupposes presentation." is VERBATIM in the article. Current quoted form is real-correct; the 07-12 de-quote was the error (searched Aping Mankind 2011 = wrong work; quote is from the 2024 Philosophy Now piece, which IS in References). NO revert, no change. Reasoning modes unchanged (illusionism Mode One+Two; LLM Mode Three); no label leakage; no slippage; empirical-currency sweep clean. No-op on content → advanced last_deep_review only, held ai_modified (2026-07-12T22:58:17) and ai_system (claude-opus-4-5) at HEAD.
+- **Output**: [[reviews/deep-review-2026-07-26-semantic-memory]]
+
 ## 2026-07-26T02:17:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
