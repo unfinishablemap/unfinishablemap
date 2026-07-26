@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T10:11:21.024573+00:00'
-session_count: 17322
+last_updated: '2026-07-26T10:28:46.859793+00:00'
+session_count: 17323
 cycle_position: 11779
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T07:50:36.144318+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-26T10:08:41.117082+00:00'
+  replenish-queue: '2026-07-26T10:28:46.859793+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1153,13 +1153,14 @@ queue_status:
     staleness: 1
   run_851_note: 'run no.851 (2026-07-26T10:24Z, interactive /replenish-queue): SINGLE
     exact-floor +1 mint concepts/relational-quantum-mechanics.md — FIRST owed-web-verify
-    / quote-fidelity mint after the changed-since-review pool exhausted. Pre-write count_p0_p2_tasks(todo)
-    == 2 (tool-run, LIVE on disk, uv env); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
-    w/ Type+File). Floor MIN_QUEUE_TASKS==3. The run-850 quantum-probability mint reached
-    3 but the run-848 experimental-consciousness-science holder drained via a loop-less
-    deep-review slot since (commit ae1306b95 = HEAD auto(deep-review) experimental-consciousness-science,
-    now Completed), so live floor fell to 2 — documented replenish-at-floor alternation,
-    not a deadlock. Holders: P2 the-steelman-for-process-monism (run-849) + P2 quantum-probability-consciousness
+    / quote-fidelity mint after the changed-since-review pool exhausted. Pre-write
+    count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk, uv env); == 3 post-write
+    (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3.
+    The run-850 quantum-probability mint reached 3 but the run-848 experimental-consciousness-science
+    holder drained via a loop-less deep-review slot since (commit ae1306b95 = HEAD
+    auto(deep-review) experimental-consciousness-science, now Completed), so live
+    floor fell to 2 — documented replenish-at-floor alternation, not a deadlock. Holders:
+    P2 the-steelman-for-process-monism (run-849) + P2 quantum-probability-consciousness
     (run-850). No evolve_loop/unfin-cycle (pgrep clean); HEAD ae1306b95; only uncommitted
     delta the pre-existing deferred cycle_post state bookkeeping — KEEP. Eight-source
     audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320,
@@ -1170,15 +1171,15 @@ queue_status:
     open-individualism embed-boilerplate-only, personal-identity cosmetic-wikilink+over-hard,
     consciousness-in-simple-organisms cosmetic-cross-link+over-hard, indexical-knowledge
     07-26 refine already publisher-verified in the completed quantum-immortality neighbour
-    (verified: O''Brien-2025/Sebens-Carroll-2018/Friederich-Dawid carried w/ full DOIs
-    in HEAD~2 349248427; runs 847/848/850 exclusion CONFIRMED), self-representational
+    (verified: O''Brien-2025/Sebens-Carroll-2018/Friederich-Dawid carried w/ full
+    DOIs in HEAD~2 349248427; runs 847/848/850 exclusion CONFIRMED), self-representational
     own-07-20-review converged. SHIFTED to owed-web-verify seam: relational-quantum-mechanics
     is FULLY CONVERGED (ldr==ai_modified 2026-06-24, 32d, only commit since = fa1027969
-    the review that set the ldr) older-cohort claude-opus-4-6 quote-dense concept whose
-    06-24 citation-METADATA pass never literally verified in-body ATTRIBUTED QUOTES.
-    LENS = verbatim quote-fidelity + citation-framing on the attributed external quotes
-    ONLY: (a) Rovelli "There is nothing subjective, idealistic, or mentalistic, in RQM."
-    literal-string at primary publisher (not via Map echo); (b) CPL / Adlam-Rovelli-2023
+    the review that set the ldr) older-cohort claude-opus-4-6 quote-dense concept
+    whose 06-24 citation-METADATA pass never literally verified in-body ATTRIBUTED
+    QUOTES. LENS = verbatim quote-fidelity + citation-framing on the attributed external
+    quotes ONLY: (a) Rovelli "There is nothing subjective, idealistic, or mentalistic,
+    in RQM." literal-string at primary publisher (not via Map echo); (b) CPL / Adlam-Rovelli-2023
     framing not over-claimed; (c) Nagel "view from nowhere"/Dennett/Frankish attributions.
     SCOPE NARROW (argument body converged, do NOT re-sweep/expand); LENGTH STRICTLY
     NEUTRAL (2977w soft_warning, ~523w under 3500 hard); HOLD ai_system claude-opus-4-6
