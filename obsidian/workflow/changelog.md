@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-26T01:33:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/dualism-cartography]]
+- **Word count**: 4116 → 4117 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (low-severity precision fix in the new "Evidence and Dependency" section: "the three debts are pressed by the external literature" → "pressed and answered", since Schaffer's trumping preemption is the causation-account response Saad deploys, not a debt-pressing objection). Focused scrutiny on the sole substantive change since 2026-07-16 — the "Evidence and Dependency" section added by apex-evolve on 2026-07-25. All external attributions internally consistent + previously web-verified; no possibility/probability slippage; References block unchanged (§2.4 stable-References skip). Article remains a converged calibration anchor.
+- **Output**: [[reviews/deep-review-2026-07-26-dualism-cartography]]
+
 ## 2026-07-26T01:22:54+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: mental-causation / rational-agency cluster — argument-from-reason.md, agent-causation.md, metacognition.md (the 3 most-recently-modified rational-agency articles, all freshly deep-reviewed 07-25/07-26). Strong convergent cluster; standout calibration (argument-from-reason's corridor-dualism self-audit, agent-causation's five-anchor non-privileged evidence case, metacognition's tenet-as-evidence-upgrade praise-worthily-not-done). Process-Philosopher and Hardline-Empiricist personas converge = honest calibration. Main opportunity: metacognition entirely disconnected (0 links both directions) from both rational-agency articles despite deep "grasping reasons qua reasons ≈ metarepresentation" overlap. Queued one P3 reciprocal cross-link task; no expand-topic mints (topics 321/320, concepts 320/320 both at cap).
