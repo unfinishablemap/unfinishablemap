@@ -1562,15 +1562,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness (floor-restore)
 - **Generated**: 2026-07-26
 
-### P1: Cross-review quantum-immortality neighbours (cont. 4, FINAL) — Claude constrain-vs-establish sweep set (outer review 2026-07-26)
-- **Type**: cross-review
-- **File**: obsidian/topics/death-and-consciousness.md
-- **Notes**: CONTINUATION 4 (FINAL residual) of the 2026-07-26 convergent neighbour-cross-review. DONE: indexical-knowledge-and-identity.md (calibration), haecceity.md (over-claim downgrade), personal-identity.md (NO-OP — inheritance rule already present + length-blocked), probability-problem-in-many-worlds.md (NO-OP — already the terminology authority with all terms defined [squared amplitude / Born weight / branch-counting / self-locating credence / caring measure] and the measure problem framed OPEN throughout; deep-reviewed 2026-07-25; near topics ceiling 4012w). Remaining = Claude Opus 5's methodology-#6 sweep set, ONE file per pick. For EACH, check three specific slide patterns (verify-clean is an acceptable no-op — a subtle framing check often finds nothing): (a) CONSTRAIN-vs-ESTABLISH slide — a conclusion reachable by a physicalist rival (single-world physicalist, Everettian mortalist) banked as positive support for dualism rather than as a constraint the Map's reading merely shares; (b) the MWI measure reply stated WITHOUT Vaidman attribution (Vaidman 1998 originated the self-locating-uncertainty move — probability-problem-in-many-worlds.md attributes it correctly at line ~110, use as the reference); (c) a mortalist NAMED (Carroll / Papineau / Wallace) without stating their actual mechanism (performative inoculation — a name-drop that implies engagement not present). Files, one per pick: (1) topics/death-and-consciousness.md, (2) topics/indexical-identity-quantum-measurement.md, (3) topics/born-rule-and-the-consciousness-interface.md. Verify EVERY external claim at the primary publisher before editing; calibration not deletion; length-neutral; preserve tenet routing. CLOSE this task (do not re-scope) once all three are checked.
-- **Review files**: `reviews/outer-review-2026-07-26-claude-opus-5.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-07-26.md
-- **Source**: outer-review
-- **Generated**: 2026-07-26
-
 ### NEEDS-HUMAN (methodology ratification) 2026-07-26: Methodology proposals from 2026-07-26 outer reviews (citation-entailment & convergence gates) — CONVERGENT chatgpt+claude, upgraded P2→P1 by /combine-outer-reviews then DIVERTED from the auto-loop
 - **Type**: refine-draft
 - **File**: obsidian/project/writing-style.md
@@ -1593,6 +1584,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-26: Cross-review quantum-immortality neighbours (cont. 4, FINAL) — Claude constrain-vs-establish sweep set (outer review 2026-07-26)
+- **Type**: cross-review
+- **Notes**: CONTINUATION 4 (FINAL residual) of the 2026-07-26 convergent neighbour-cross-review. DONE: indexical-knowledge-and-identity.md (calibration), haecceity.md (over-claim downgrade), personal-identity.md (NO-OP — inheritance rule already present + length-blocked), probability-problem-in-many-worlds.md (NO-OP — already the terminology authority with all terms defined [squared amplitude / Born weight / branch-counting / self-locating credence / caring measure] and the measure problem framed OPEN throughout; deep-reviewed 2026-07-25; near topics ceiling 4012w). Remaining = Claude Opus 5's methodology-#6 sweep set, ONE file per pick. For EACH, check three specific slide patterns (verify-clean is an acceptable no-op — a subtle framing check often finds nothing): (a) CONSTRAIN-vs-ESTABLISH slide — a conclusion reachable by a physicalist rival (single-world physicalist, Everettian mortalist) banked as positive support for dualism rather than as a constraint the Map's reading merely shares; (b) the MWI measure reply stated WITHOUT Vaidman attribution (Vaidman 1998 originated the self-locating-uncertainty move — probability-problem-in-many-worlds.md attributes it correctly at line ~110, use as the reference); (c) a mortalist NAMED (Carroll / Papineau / Wallace) without stating their actual mechanism (performative inoculation — a name-drop that implies engagement not present). Files, one per pick: (1) topics/death-and-consciousness.md, (2) topics/indexical-identity-quantum-measurement.md, (3) topics/born-rule-and-the-consciousness-interface.md. Verify EVERY external claim at the primary publisher before editing; calibration not deletion; length-neutral; preserve tenet routing. CLOSE this task (do not re-scope) once all three are checked.
 
 ### ✓ 2026-07-26: Cross-review quantum-immortality neighbours (cont. 3) — probability-problem terminology authority + Claude sweep set (outer review 2026-07-26)
 - **Type**: cross-review

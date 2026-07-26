@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-07-12T17:12:22+00:00
+ai_modified: 2026-07-26T06:19:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ Rovelli explicitly rejects reading his interpretation as consciousness-dependent
 
 Many-Worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real. There is no collapse—the wave function evolves unitarily forever.
 
-**The indexical gap**: If all outcomes occur, probability seems meaningless—a crisis examined in detail in [[probability-problem-in-many-worlds]], where every major recovery strategy (decision-theoretic, self-locating uncertainty, envariance) proves circular. But even setting the probability crisis aside, a separate problem remains. The response from many-worlds theorists involves self-locating uncertainty: *before* the split, you don't know which branch you'll find yourself on *after*. Born probabilities describe the measure of branches where you observe spin-up versus spin-down.
+**The indexical gap**: If all outcomes occur, probability seems meaningless—a crisis examined in detail in [[probability-problem-in-many-worlds]], where every major recovery strategy (decision-theoretic, self-locating uncertainty, envariance) proves circular. But even setting the probability crisis aside, a separate problem remains. The response from many-worlds theorists involves self-locating uncertainty (Vaidman 1998): *before* the split, you don't know which branch you'll find yourself on *after*. Born probabilities describe the measure of branches where you observe spin-up versus spin-down.
 
 But as Albert argues, self-location claims are "irreducibly indexical." The fact that *I* find myself in this branch cannot be reduced to third-person facts about which observer-copies have which properties. From the first-person perspective, it is inherently clear who "I" refers to—there is no need to find any objective difference between "me" and "the other copy" because "I" is primitively identified by the perspective centre. The indexical is given, not derived.
 
@@ -197,3 +197,5 @@ This topic intersects all five tenets:
 5. Albert, D. (2010). "Probability in the Everett Picture." In Saunders, S., Barrett, J., Kent, A. & Wallace, D. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press, pp. 355–368.
 
 6. Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.
+
+7. Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245–261.
