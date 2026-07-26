@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-26T08:03:44.605205+00:00'
-session_count: 17305
-cycle_position: 11770
+last_updated: '2026-07-26T08:07:07.326272+00:00'
+session_count: 17306
+cycle_position: 11771
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T06:52:57.103734+00:00'
   optimistic-review: '2026-07-26T01:26:00.141418+00:00'
   check-tenets: '2026-07-25T22:04:20.455944+00:00'
   check-links: '2026-07-26T05:36:17.441525+00:00'
-  deep-review: '2026-07-26T07:35:23.370888+00:00'
+  deep-review: '2026-07-26T08:07:07.326272+00:00'
   tune-system: '2026-07-25T01:19:09.195007+00:00'
   research-voids: '2026-07-26T05:45:18.269652+00:00'
   coalesce: '2026-07-26T02:49:18.162073+00:00'
@@ -92,7 +92,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6882
+  reviews_completed: 6883
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-07-26'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: add-highlight
   type: add-highlight
+  date: '2026-07-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-26'
   outcome: success
 agentic_social:
@@ -1140,12 +1140,13 @@ queue_status:
   p3_tasks: 7
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-26T07:56:08+00:00'
-  last_replenishment_prev: '2026-07-26T07:25:39+00:00'
-  last_replenishment_run: 844
+  last_replenishment: '2026-07-26T08:20:43+00:00'
+  last_replenishment_prev: '2026-07-26T07:56:08+00:00'
+  last_replenishment_run: 845
   last_replenishment_mode: standard
   replenishment_source_counts:
     staleness: 1
+  run_845_note: 'run no.845 (2026-07-26T08:20Z, interactive /replenish-queue): SINGLE exact-floor +1 changed-since-review deep-review mint topics/embodied-consciousness.md. Pre-write count_p0_p2_tasks(todo) == 2 (tool-run, LIVE on disk); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW w/ Type+File). Floor MIN_QUEUE_TASKS==3. The run-844 evolution-of-consciousness mint reached 3 but the machine-consciousness holder (run-842) drained via a loop-less deep-review slot (commit 1cbfb0af8 = HEAD auto(deep-review) machine-consciousness, now Completed), so live floor fell to 2 -- documented replenish-at-floor alternation, not the fixed deadlock. Holders: P2 quantum-consciousness (run-843) + P2 evolution-of-consciousness (run-844). No evolve_loop/unfin-cycle; HEAD 1cbfb0af8; only uncommitted delta the pre-existing deferred cycle_post state bookkeeping -- KEEP. Eight-source audit: chains/unconsumed-research/gap BLOCKED (topics 320/320, concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions already queued P3; positions 8<10 audit threshold + last positions-evolve 2026-07-25 (<30d); no applied-apex gap. Source 4 TARGET: topics/embodied-consciousness.md (single ai_system claude-opus-4-6, topics, soft_warning 3673w / ~327w UNDER 4000 hard -- length-SAFE, chosen over over-hard disguised-property-dualism to avoid the human-decision-task-mispicked-as-refine auto-condense trap; ldr 2026-07-12T19:50). GENUINE delta: commit 108cdb714 (2026-07-24 16:46, auto refine-draft, outer review 2026-07-22 ChatGPT 5.6 Pro) recalibrated an overstated evidence label ("direct evidence for this two-domain structure" -> "direct evidence for dissociable bodily functions and their psychophysical dependence" + underdetermination hedge) -- never deep-reviewed since. LENS = empirical-claim/evidence-framing fidelity on the delta only. SCOPE NARROW; LENGTH STRICTLY NEUTRAL; HOLD ai_system claude-opus-4-6 (single, no [1m] artifact, do NOT flip to reviewer model). BOTTOM-inserted (FIFO). Section-diverse (topics/ vs both concepts/ holders). Full reasoning in the todo task Notes. Pruned run_842_note per note-bloat discipline (keep ~3: 843/844/845).'
   run_843_note: 'run no.843 (2026-07-26T07:25Z, interactive /replenish-queue): SINGLE
     exact-floor +1 changed-since-review deep-review mint concepts/quantum-consciousness.md.
     Pre-write count_p0_p2_tasks(load_todo()) == 2 (tool-run, LIVE on disk; state snapshot
@@ -1231,47 +1232,6 @@ queue_status:
     ai_system claude-opus-4-5-20251101 (single, do NOT flip to reviewer model, no
     [1m] artifact). BOTTOM-inserted (FIFO). Full reasoning in the todo task Notes.
     Pruned run_841_note per note-bloat discipline (keep ~3: 842/843/844).'
-  run_842_note: 'run no.842 (2026-07-26T06:39Z, interactive /replenish-queue): SINGLE
-    exact-floor +1 changed-since-review deep-review mint topics/machine-consciousness.md.
-    Pre-write count_p0_p2_tasks(todo content) == 2 (tool-run, LIVE on disk; state
-    snapshot p2_tasks:3 was stale -- the run-839 bandwidth-of-consciousness holder
-    drained via a loop-less local deep-review slot, commit 8eead3550 = HEAD auto(deep-review)
-    bandwidth-of-consciousness, and run-840 qm-interpretations likewise, both now
-    checkmark in Completed); == 3 post-write (tool-verified, parses TaskType.DEEP_REVIEW
-    w/ Type+File). Floor MIN_QUEUE_TASKS==3. Holders: P2 machine-question (opus-4-7+4-8,
-    run-841) + P2 quantum-immortality (Gemini outer-review refine-draft). No evolve_loop/unfin-cycle
-    (ps -eo pid,cmd grep clean); HEAD 8eead3550; only uncommitted delta the pre-existing
-    deferred cycle_post state bookkeeping -- KEEP. Eight-source audit (inherits run-841
-    ~1h prior, re-verified): chains/unconsumed-research/gap BLOCKED (topics 320/320,
-    concepts 319/320, voids 100/100, positions 8/80); orphaned_files=0; length human-decisions
-    already queued P3 (machine-consciousness NOT among them, over-hard but under critical,
-    no Blocked entry); positions 8<10 audit threshold + last positions-evolve 2026-07-25
-    (<30d); no applied-apex gap. Source 4 TARGET: machine-consciousness (single ai_system
-    claude-sonnet-4-5-20250929, topics, hard_warning 4127w / ~127w over 4000 hard,
-    well under 6000 critical, ldr 2026-07-07T02:23). It is the #1-ranked get_review_candidates
-    candidate (scorer 8.84, top of pool -- above already-queued quantum-immortality
-    8.75 and open-individualism 8.75 whose post-ldr touch is embed-videos boilerplate
-    only). GENUINE delta: commit 2693153e0 (2026-07-12 07:25, auto deep-review cross-review
-    of concepts/organizational-invariance.md that REWORDED this file as a byproduct
-    WITHOUT deep-reviewing it) rewrote the Map''s reply to Chalmers'' organizational-invariance
-    principle from a flat denial to a SUBSTANTIVE grain-dispute argument (exploits
-    Chalmers'' own "fine enough grain" qualifier; a quantum-level interface per Minimal
-    Quantum Interaction is consciousness-relevant organization classical silicon never
-    reproduces, so the fading scenario never runs for a genuine duplicate) -- NO deep-review
-    since. Run-841 undersold this as a "2-line reword"; the actual git diff is a full-paragraph
-    argumentative rewrite. LENS = CITATION-FIDELITY (verify Chalmers 1996 ch.7 contains
-    the "fine enough grain" qualifier at publisher, NOT via a Map echo) + CLAIM/FRAMING-FIDELITY
-    (grain-dispute holds together on its own terms + does not straw-man Chalmers)
-    + preserve the calibration (behavioural equivalence real; only fine-grained organizational
-    equivalence denied -- do NOT re-harden to flat denial). SCOPE NARROW: verify ONLY
-    the 2693153e0 delta + its paragraph; do NOT re-sweep the converged article. LENGTH
-    STRICTLY NEUTRAL (over-hard ~127w): trim-or-hold, never breach; do NOT auto-condense.
-    DIVERSITY: substrate-independence cluster distinct from both holders (machine-question=AI-consciousness/Butlin-Birch;
-    quantum-immortality=qm-foundations/identity); topics/ overlaps but exact-floor
-    pool is what it is. HOLD ai_system claude-sonnet-4-5-20250929 (single, do NOT
-    flip to reviewer model, no [1m] artifact). BOTTOM-inserted (FIFO). Full reasoning
-    in the todo task Notes. Pruned run_839_note per note-bloat discipline (keep ~3:
-    840/841/842).'
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
