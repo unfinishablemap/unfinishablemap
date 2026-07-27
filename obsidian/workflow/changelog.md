@@ -5,6 +5,19 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T05:03:37+00:00 - positions-evolve (update)
+- **Status**: Success
+- **File**: [[positions/quantum-interface]] — P-Q1, P-Q3
+- **Mode**: update ×2 (not audit — neither position had been re-graded since the 2026-07-27 CONVERGENT finding; P-Q1 last reviewed 2026-07-25, P-Q3 2026-07-15)
+- **Trigger**: CONVERGENT outer reviews 2026-07-27 (2/3: Claude Opus 5 headline + ChatGPT 5.6 Pro finding 2.1 / improvement 7), UPGRADED P2→P1 by combine-outer-reviews. "Confession-without-correction / uncertainty-not-propagated": the flagship [[apex/born-preserving-causal-efficacy]] concedes that under its preferred Route 1 (trumping) the authorship-vs-epiphenomenalism distinction is "entirely metaphysical, with no possible empirical consequence at any scale" (symmetric preemption), yet the load-bearing positions kept their bands. Chose option (b) from the task: make the disclosure a *binding* register action rather than lower the bands wholesale.
+- **Changes**:
+  - **P-Q1**: (i) moderate credence now stated *explicitly conditional on the P-Q10 toy-model debt* (calibration line) in addition to the pre-existing horn-(a) conditionalization; (ii) added a *binding, currently-unrealized* demotion trigger to "Would shift if" — exclusive commitment to Route 1 (foreclosing Route 2) realizes horn (b) → credence falls to *low*; (iii) recorded why the "entirely metaphysical" concession does not by itself force a further band drop now (empirical silence under trumping already priced into the 2026-07-16 low-edge pinning; drop-to-low reserved for horn (b), which Route 2's live status keeps un-fired; P-Q1 ranks mechanisms, so the concession bears primarily on P-Q3). No band relabel; credence held moderate (low edge), now doubly conditionalized. Last reviewed → 2026-07-27.
+  - **P-Q3**: added a 2026-07-27 note recording the same concession as *reinforcing* (not shifting) the position — its high credence is credence that the dilemma is genuine and unresolved, which the confession confirms. Explicitly declined to lower P-Q3's band (contra a naive downward-propagation reading): demoting the position that *names* the debt would wrongly read as the dilemma being less real. The propagation is carried by P-Q1's trigger + P-Q10 conditionalization. Last reviewed → 2026-07-27. Also removed a stale "(moderate)" parenthetical from the 2026-07-15 note that contradicted the current high band.
+- **Cascade**: P-Q4/P-Q5 depend on P-Q1's mechanism *ranking*, which is unchanged (only its conditionalization deepened) — no downstream re-grade needed. P-Q1 depends on P-Q3, which is reinforced not shifted — no cascade.
+- **Scope note**: the broader graph-level uncertainty-propagation methodology framing stays in the standing NEEDS-HUMAN methodology item; discipline docs untouched, per task.
+- **Length**: domain file at ~4.5k words (over the 4000 critical advisory, but deliberately held as one cohesive dependency graph per the header's documented 2026-06-08 split assessment). Flagged for a future condense/history-note-summarisation pass; not split in-cycle.
+- **Published**: draft (register file, draft:false — leaving uncommitted for orchestrator)
+
 ## 2026-07-27T04:50:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/attention-and-the-consciousness-interface]]
