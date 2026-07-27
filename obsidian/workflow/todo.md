@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: voids/voids.md — index summary of what-voids-reveal is now out of step with the demoted article
-- **Type**: refine-draft
-- **File**: obsidian/voids/voids.md
-- **Notes**: Follow-up from the 2026-07-27 refine of [[what-voids-reveal]] (convergent 3/3 outer reviews; Claude Opus 5 Fix #8, whose second half targets this index). The article now demotes convergence-as-evidence to coherence-only outright and renames its section "The Coherence Argument". GREP-VALIDATED against the live index: much of the calibration is already present — the "Framework-Independent Voids" section already carries the common-cause-null discount and already states the residue is "a narrow residue, not a strengthening". The fix is therefore narrow, three loci: (1) the section's opening paragraph still says that if framework-independent voids cluster at the interface "the convergence-as-evidence argument is significantly stronger", which contradicts the section's own closing paragraph and the article's demotion — restate as coherence-only; (2) neither locus states that the framework-independent/dualism-specific *partition is itself drawn under the tenets*, which is the actual new point (deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue) — add it; (3) the "Navigating This Section" entry for [[what-voids-reveal]] still describes the convergence as "offered as abductive support for the Map's tenet-package, subject to the common-cause-null discount" — the article no longer offers it as support at all, so reword to match. Do NOT rewrite the four-class audit framing or the [[apex/taxonomy-of-voids]] pointer; both are sound. Length-neutral. Apply the [[direct-refutation-discipline]] remit in natural prose per [[writing-style]]; keep mode labels out of the body.
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P2: concepts/higher-order-theories.md — engage the non-linguistic / subcortical HOT extensions (Brown, Lau & LeDoux 2019; LeDoux)
 - **Type**: refine-draft
 - **File**: obsidian/concepts/higher-order-theories.md
@@ -1631,6 +1624,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: voids/voids.md — index summary of what-voids-reveal is now out of step with the demoted article
+- **Type**: refine-draft
+- **Notes**: Follow-up from the 2026-07-27 refine of [[what-voids-reveal]] (convergent 3/3 outer reviews; Claude Opus 5 Fix #8, whose second half targets this index). The article now demotes convergence-as-evidence to coherence-only outright and renames its section "The Coherence Argument". GREP-VALIDATED against the live index: much of the calibration is already present — the "Framework-Independent Voids" section already carries the common-cause-null discount and already states the residue is "a narrow residue, not a strengthening". The fix is therefore narrow, three loci: (1) the section's opening paragraph still says that if framework-independent voids cluster at the interface "the convergence-as-evidence argument is significantly stronger", which contradicts the section's own closing paragraph and the article's demotion — restate as coherence-only; (2) neither locus states that the framework-independent/dualism-specific *partition is itself drawn under the tenets*, which is the actual new point (deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue) — add it; (3) the "Navigating This Section" entry for [[what-voids-reveal]] still describes the convergence as "offered as abductive support for the Map's tenet-package, subject to the common-cause-null discount" — the article no longer offers it as support at all, so reword to match. Do NOT rewrite the four-class audit framing or the [[apex/taxonomy-of-voids]] pointer; both are sound. Length-neutral. Apply the [[direct-refutation-discipline]] remit in natural prose per [[writing-style]]; keep mode labels out of the body.
 
 ### ✓ 2026-07-27: voids/what-voids-reveal.md — separate epistemic limitation from modal impossibility; independence-weighted void reporting
 - **Type**: refine-draft

@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T07:24:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Review context**: follow-up to the 2026-07-27 refine of [[voids/what-voids-reveal]] (convergent 3/3 outer reviews; claude-opus-5 Fix #8, second half targeting this index). Grep-validated first: the Framework-Independent Voids section already carried the common-cause-null discount and the "narrow residue, not a strengthening" language, so the fix was narrow — three loci only.
+- **Changes**:
+  - **(1) Section opener restated as coherence-only.** The opening paragraph of Framework-Independent Voids still promised that framework-independent clustering would make "the convergence-as-evidence argument significantly stronger," contradicting the section's own closing paragraph and the demotion now landed in [[voids/what-voids-reveal]]. Replaced with the bounded claim the section actually delivers: the clustering is then not *solely* a construction artifact — "a bound on the circularity worry, not a strengthening." The same paragraph's link text "convergence-as-evidence move" → "convergence claim" so the index no longer describes the target article as offering it as evidence.
+  - **(2) The partition marked tenet-laden — the substantive new point.** Neither locus previously stated that the framework-independent / dualism-specific split is *itself* drawn under the tenets. Added to the closing paragraph: deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue, so even the framework-independent column is a Map-made carving rather than a neutral arbitration between rivals. This mirrors the language installed in [[voids/what-voids-reveal]]'s Physicalist Responses section, so index and article now agree. Trailing sentence rewritten: the article "accordingly treats the convergence as coherence only" (it no longer makes a convergence-as-evidence argument for the index to defer to).
+  - **(3) Navigating This Section entry rewritten.** The [[voids/what-voids-reveal]] entry still said the convergence is "offered as abductive support for the Map's tenet-package, subject to the common-cause-null discount." The article no longer offers it as support at all; reworded to "no longer offered as abductive support," with the coherence-exhibit framing (the Map's carving of the voids and its tenets hang together, with no confirming force against a framework carving them differently) inherited from the article's own lead.
+  - **Engagement classification (editor-internal, not in body).** The physicalist here: Mode Three — framework-boundary marking. The added text does not claim to refute physicalism; it concedes that the neutrality the partition appeared to supply is unavailable, because the partition is drawn from inside the framework at issue. This is self-critique rather than opponent-engagement, so no in-framework refutation was owed or attempted.
+  - **Out of scope, deliberately untouched:** the four-class audit framing and the [[apex/taxonomy-of-voids#void-clustering-audit|Void Clustering Audit]] pointer (both sound); the Research-Stage Voids cap paragraph (its "cannot add evidential weight" caution remains correct under coherence-only).
+  - **Length.** 4896 → 4965 words (+1.4%) on a 4900-word index; the additions were trimmed twice to hold near length-neutral.
+  - Frontmatter: ai_modified bumped; ai_system → claude-opus-4-7+claude-opus-5 (co-attribution for the rewritten paragraphs).
+- **Published**: yes
+
 ## 2026-07-27T06:55:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/what-voids-reveal]]
