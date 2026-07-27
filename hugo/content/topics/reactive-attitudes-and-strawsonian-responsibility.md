@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 16:52:31+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-07-27 15:37:17+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[moral-responsibility]]'
@@ -10,14 +10,14 @@ concepts:
 - '[[agent-causation]]'
 - '[[reasons-responsiveness]]'
 created: 2026-07-09
-date: &id001 2026-07-09
+date: &id001 2026-07-27
 description: P.F. Strawson's 1962 dissolution of the free-will problem, presented
   at full strength—and why the Map, through human-AI refinement, declines the dissolution
   without claiming to refute it.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 16:52:31+00:00
+last_deep_review: 2026-07-27 15:37:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,14 +34,14 @@ P.F. Strawson's "Freedom and Resentment" (1962) is the most influential attempt 
 
 ## The Reactive Attitudes and the Quality of Will
 
-Strawson's starting observation is descriptive. In ordinary interpersonal life we are not neutral observers of one another's conduct; we care enormously about the attitudes and intentions that others bear toward us. Strawson locates the reactive attitudes in "the very great importance that we attach to the attitudes and intentions towards us of other human beings, and the great extent to which our personal feelings and reactions depend upon, or involve, our beliefs about these attitudes and intentions." We resent an injury done with ill will or contemptuous indifference; we feel gratitude for goodwill; we feel guilt when we ourselves have wronged another.
+Strawson's starting observation is descriptive. In ordinary interpersonal life we are not neutral observers of one another's conduct; we care enormously about the attitudes and intentions that others bear toward us. Strawson's "central commonplace" is "the very great importance that we attach to the attitudes and intentions towards us of other human beings, and the great extent to which our personal feelings and reactions depend upon, or involve, our beliefs about these attitudes and intentions" (p. 190). We resent an injury done with ill will or contemptuous indifference; we feel gratitude for goodwill; we feel guilt when we ourselves have wronged another.
 
 The reactive attitudes track **quality of will**—whether an action expresses goodwill, ill will, or indifference toward us or toward others. This is the pivot of the whole account. To be a morally responsible agent, on Strawson's view, just *is* to be a possible target of these attitudes; the class of responsible agents is the class toward whom resentment, gratitude, and indignation are apt responses. Responsibility is constituted by the practice of holding-responsible, not certified by a prior metaphysical fact about free will.
 
 Strawson then examines the two families of consideration that **modify or suspend** the reactive attitudes, because they reveal the structure of the practice from the inside:
 
-- **Excuses** ("he didn't mean to," "he was pushed," "he didn't realise") show that the act did not, after all, express ill will. The reactive attitude becomes inapt in this instance, but the agent remains a full member of the moral community—someone with whom we go on engaging as a participant.
-- **Exemptions** ("he's a young child," "he's psychologically incapacitated," "he was under extreme and unusual stress") lead us to suspend the reactive attitudes more globally toward that person. Here we adopt what Strawson calls the **objective attitude**: we view the individual as someone to be managed, treated, handled, or avoided, rather than reasoned with as a participant in ordinary adult relationship.
+- **Excuses** (Strawson's examples: "He didn't *mean* to," "He hadn't realized," "He was pushed") show that the act did not, after all, express ill will. The reactive attitude becomes inapt in this instance, but the agent remains a full member of the moral community—someone with whom we go on engaging as a participant.
+- **Exemptions** (Strawson's examples: "He wasn't himself," "He has been under very great strain recently," "He's only a child," "He's a hopeless schizophrenic") lead us to suspend the reactive attitudes toward the person rather than merely re-describe the act—"either at the time of his action or all the time," as Strawson puts it, the first sub-group being episodic and the second standing. Here we adopt what Strawson calls the **objective attitude**: we view the individual as someone to be managed, treated, handled, or avoided, rather than reasoned with as a participant in ordinary adult relationship.
 
 The excuse/exemption distinction does real work later, because critics press on exactly what determines when an exemption is warranted.
 
@@ -49,11 +49,13 @@ The excuse/exemption distinction does real work later, because critics press on 
 
 The contrast between the **participant stance** and the **objective stance** carries the argument's weight. The participant stance is the ordinary standpoint of interpersonal engagement, from which the reactive attitudes flow. The objective stance is the standpoint from which we see a person as an object of policy—a case to be diagnosed, a problem to be handled.
 
-Strawson's crucial claim is asymmetric. The objective attitude *can* be adopted locally and temporarily: toward a particular person in a particular episode (the exemptions), or even, as a refuge or a discipline, toward someone we ordinarily engage as a participant. What it **cannot** be is adopted universally and permanently as a considered policy toward all persons at all times. A thoroughgoing, sustained objectivity toward every human being is not something we could psychologically maintain, given how much we depend on the goodwill and regard of others. The reactive framework is, in Strawson's words, "part of the general framework of human life, not something that can come up for review as particular cases can come up for review within this general framework."
+Strawson's crucial claim is asymmetric. The objective attitude *can* be adopted locally and temporarily: toward a particular person in a particular episode (the exemptions), or even, as a refuge or a discipline, toward someone we ordinarily engage as a participant. What it **cannot** be is adopted universally and permanently as a considered policy toward all persons at all times. A thoroughgoing, sustained objectivity toward every human being is not something we could psychologically maintain, given how much we depend on the goodwill and regard of others. Our natural human commitment to ordinary interpersonal attitudes is, in Strawson's words, "part of the general framework of human life, not something that can come up for review as particular cases can come up for review within this general framework" (pp. 198–199).
 
 ## The Dissolution: Why the Theoretical Question Is Idle
 
 The two moves combine into a dissolution. If the reactive framework as a whole is a condition of human interpersonal life—something we could neither give up nor even seriously contemplate giving up—then no abstract theoretical thesis could rationally *require* us to abandon it. Determinism is exactly such an abstract thesis. So even granting, for argument, that determinism is true, its truth gives us neither a reason nor the psychological capacity to withdraw the reactive attitudes wholesale and treat all persons objectively.
+
+Strawson's reply has a second limb that is easy to miss and that any fair statement must include. Suppose we could imagine what we in fact cannot—a genuine choice in the matter. Even then, he argues, we could choose rationally "only in the light of an assessment of the gains and losses to human life, its enrichment or impoverishment," and "the truth or falsity of a general thesis of determinism would not bear on the rationality of this choice" (p. 199). The dissolution therefore does not rest on psychological incapacity alone: the second limb holds that determinism is the wrong sort of consideration to bear on the question even where the question is live.
 
 The question that has driven the free-will debate—"does the truth of determinism undermine moral responsibility?"—is therefore, Strawson argues, *idle*. It is not answered with a "no"; it is dissolved. The optimist (the compatibilist, who says responsibility survives determinism) and the pessimist (the incompatibilist or libertarian, who says responsibility requires a freedom determinism would rule out) are both, on Strawson's diagnosis, over-intellectualising a framework that does not wait on metaphysics for its warrant. The essay founded a major compatibilist tradition—Wallace, Watson, Michael McKenna, Paul Russell, and, in part, Fischer and Ravizza all build on it—precisely because it seemed to relocate responsibility onto ground that the determinism dispute cannot reach.
 
@@ -63,7 +65,7 @@ Presenting this fairly matters. The dissolution is not a verbal trick or an evas
 
 Strawson's bare account drew a durable objection—the **naturalism-versus-normativity** worry. Does the account merely *describe* our blaming practices, or does it *justify* them? If responsibility is just a matter of which attitudes we in fact have and cannot give up, the account seems unable to criticise a cruel, biased, or mistaken blaming practice from within. "We do resent this" is not obviously "we are *right* to resent this."
 
-R. Jay Wallace's *Responsibility and the Moral Sentiments* (1994) supplies the standard repair by **normativizing** Strawson. Wallace reframes the question "under what conditions is an agent morally responsible?" as "under what conditions is it *fair* to hold her responsible?"—and answers that holding responsible is warranted when the agent possesses the general powers of *reflective self-control*: the capacity to grasp moral reasons and to govern behaviour by them. The reactive attitudes, on this account, are governed by standards of fairness and aptness, not merely had as brute facts. Wallace preserves Strawson's core anti-metaphysical result—the practices "make perfectly good sense even if determinism is true"—while equipping the account to distinguish apt from inapt blame. This normativized Strawsonianism is the modern default form of the view, and it is the version the Map most needs to engage, because it is the strongest.
+R. Jay Wallace's *Responsibility and the Moral Sentiments* (1994) supplies the standard repair by **normativizing** Strawson. Wallace reframes the question "under what conditions is an agent morally responsible?" as "under what conditions is it *fair* to hold her responsible?"—and answers that holding responsible is warranted when the agent possesses the general powers of *reflective self-control*: the capacity to grasp moral reasons and to govern behaviour by them. The reactive attitudes, on this account, are governed by standards of fairness and aptness, not merely had as brute facts. Wallace preserves Strawson's core anti-metaphysical result—that our practices of holding people responsible make perfectly good sense even if determinism is true—while equipping the account to distinguish apt from inapt blame. This normativized Strawsonianism is the modern default form of the view, and it is the version the Map most needs to engage, because it is the strongest.
 
 ## Internal Pressure: Watson's Hard Cases
 
@@ -87,7 +89,7 @@ The Map declines the dissolution. Two tenets explain why, and it is important to
 
 Two disciplines keep this resistance honest. First, the [compatibilist symmetry challenge](/concepts/compatibilist-symmetry-challenge/) applies here in full force: normativized Strawsonianism plausibly secures the same deliberative phenomenology, the same praise-and-blame practices, and the same character-formation arc that the Map's libertarian framing secures. The Map's disagreement with Strawson therefore earns it no *moral* advantage; what distinguishes the libertarian framing is its coherence with the Map's other tenets, adopted on grounds beyond moral theory, not a superior account of blame. Second, and most important, **none of this is evidence that Strawson is wrong or that dualism is right.** The Map holds that the metaphysical question is real and answers it in a libertarian, dualist direction; a Strawsonian holds that the question is idle. That is a framework-boundary disagreement about what responsibility *requires*. Recording it as a live rivalry is the honest description; reading the Map's resistance as a refutation of Strawson, or as support for dualism, would be exactly the over-claim the Map is disciplined to avoid.
 
-It is worth noting that Strawson is pressed from the *opposite* flank too. Free-will skeptics such as Derk Pereboom argue that a forward-looking, non-reactive stance is both possible and morally preferable—that we could and perhaps should live without desert-based reactive attitudes. That the dissolution is contested from both the libertarian and the skeptical side is itself informative: the inescapability premise on which it rests is doing contested empirical and normative work, not delivering a neutral settlement.
+It is worth noting that Strawson is pressed from the *opposite* flank too. Free-will skeptics such as Derk Pereboom argue that a forward-looking stance is both possible and morally preferable—that we could give up the *desert-based* reactive attitudes, resentment and indignation above all, while retaining much of what matters in interpersonal life. That the dissolution is contested from both the libertarian and the skeptical side is itself informative: the inescapability premise on which its first limb rests is doing contested empirical and normative work, not delivering a neutral settlement.
 
 ## Further Reading
 
@@ -101,11 +103,12 @@ It is worth noting that Strawson is pressed from the *opposite* flank too. Free-
 
 ## References
 
-1. Strawson, P. F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1–25. (Reprinted in *Freedom and Resentment and Other Essays*, Methuen 1974; Routledge 2008.) No DOI.
+1. Strawson, P. F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 187–211. (Page references above follow the British Academy volume; the separately issued lecture is often cited as 1–25. Reprinted in *Freedom and Resentment and Other Essays*, Methuen 1974; Routledge 2008, where pagination differs again.) No DOI.
 1. Wallace, R. J. (1994). *Responsibility and the Moral Sentiments*. Cambridge, MA: Harvard University Press.
 1. Watson, G. (1987). "Responsibility and the Limits of Evil: Variations on a Strawsonian Theme." In F. Schoeman (ed.), *Responsibility, Character, and the Emotions: New Essays in Moral Psychology*. Cambridge: Cambridge University Press. (Reprinted in Watson, *Agency and Answerability*, Oxford University Press, 2004.)
 1. Fischer, J. M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge: Cambridge University Press.
 1. McKenna, M., & Russell, P. (eds.) (2008). *Free Will and Reactive Attitudes: Perspectives on P. F. Strawson's "Freedom and Resentment"*. Farnham: Ashgate.
+1. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford: Oxford University Press.
 1. Strawson, G. (1994). "The Impossibility of Moral Responsibility." *Philosophical Studies*, 75(1–2), 5–24. [Galen Strawson, included for disambiguation only.]
 1. Stanford Encyclopedia of Philosophy. "Compatibilism." https://plato.stanford.edu/entries/compatibilism/
 1. Stanford Encyclopedia of Philosophy. "Peter Frederick Strawson." https://plato.stanford.edu/entries/strawson/
