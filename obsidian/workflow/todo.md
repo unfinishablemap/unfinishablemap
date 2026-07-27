@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-16T05:14:00+00:00
+ai_modified: 2026-07-27T21:32:38+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: pain-asymbolia.md — position asymbolia as the within-modality isolation of the mind-side ownership term
+- **Type**: refine-draft
+- **File**: obsidian/concepts/pain-asymbolia.md
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-07-27-capability-division-cluster]]. GREP-VERIFIED 2026-07-27: `apex/cross-modal-capability-division.md`, `concepts/capability-division-in-vision.md`, `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md`, `topics/interoceptive-consciousness-and-the-interface.md` and `voids/capability-division-problem.md` contain ZERO references to asymbolia, despite the apex naming nociception as one of interoception's afferent channels. The apex's central open question is whether the mind-side term is one contribution or a family, and it states that the object-centred senses "never isolate" the individual members "because in them it is always fused with a felt object." Asymbolia IS that isolation, performed clinically, with modality held fixed: sensory-discriminative layer intact, affective-motivational layer abolished (Grahek's *feeling pain* vs *being in pain*). Add a short positioning passage in `pain-asymbolia.md` (2292/3500 words — real headroom) naming the cross-modal capability-division cluster and what asymbolia contributes to it. MUST inherit the article's existing hedge: Griffith & Kind (2024) argue asymbolia is *not pain*, Duval & Klein (2025) reply, and the article already states the disciplined narrower claim — do NOT regress to a pristine single-variable-dissociation reading. On the common-cause null, asymbolia is a SHARPER INSTRUMENT on the same explanatory-gap upstream, NOT an additional independent confirming line; say so. Reciprocal apex-side link must be a single sentence or one Further Reading bullet ONLY — `apex/cross-modal-capability-division.md` is at 4917/5000 words (~83 words of headroom before the hard ceiling).
+- **Source**: optimistic-review
+- **Generated**: 2026-07-27
+
+### P3: cross-modal-capability-division.md — connect the apex's ownership term to the Map's article on it (LENGTH-NEUTRAL)
+- **Type**: refine-draft
+- **File**: obsidian/apex/cross-modal-capability-division.md
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-07-27-capability-division-cluster]]. GREP-VERIFIED 2026-07-27: the apex and `topics/consciousness-and-the-ownership-problem.md` reference each other ZERO times in either direction. The apex stakes its distinctive contribution on the ownership term ("global broadcast explains availability-to-the-system... but not why there is a subject the content is available to" — §"The Rival That Predicts the Same Datum"), and its structural finding is that the mind-side term resolves into a family (object-unity / owned affect / viewpoint-frame), which is a taxonomy of ownership. The Map's dedicated treatment of exactly that question (deep-reviewed 2026-07-17, isolates mine-ness from four neighbours it is routinely conflated with) is uncited. Note the ownership article already links DOWN to `tactile-consciousness-and-the-interface` and `interoceptive-consciousness-and-the-interface` (a June cross-link task that landed), so it is connected to two of the apex's eight sources but not to the apex synthesising them. STRICTLY LENGTH-NEUTRAL on the apex side: 4917/5000 words, ~83 words of headroom. Reciprocal bullet on `obsidian/topics/consciousness-and-the-ownership-problem.md` has more room. Do NOT weaken the apex's "consonant-not-probative" framing or its admission that there are no direct cross-modal ownership experiments.
+- **Source**: optimistic-review
+- **Generated**: 2026-07-27
+
+### P3: Wikilink the term-of-art "mind-arena" to its definitional node (4 files, one per pick — re-scope the File line after each)
+- **Type**: refine-draft
+- **File**: obsidian/topics/alignment-in-objective-experiential-terms.md
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-07-27-capability-division-cluster]]. GREP-VERIFIED 2026-07-27: `concepts/mind-arena.md` was created 2026-06-04 specifically to resolve a three-way ambiguity in how "mind-arena" was being used, and 7 articles link to it. FOUR use the phrase in load-bearing prose with NO wikilink: `obsidian/topics/alignment-in-objective-experiential-terms.md` (3 occurrences, incl. "consequence-distributions of mind-arena perturbations are uncomputable" and "mind-arena consequences cannot be computed, so cannot be safely traded against other utility"), `obsidian/topics/purpose-and-alignment.md`, `obsidian/topics/anti-correlation-probes-for-ai-consciousness.md` ("whether an advanced AI has genuine first-person access to the mind-arena"), `obsidian/concepts/possibility-probability-slippage.md`. A reader meets an undefined term of art whose whole reason for existing is that it was used three ways. Fix: add `[[mind-arena]]` (or `[[mind-arena|mind-arena]]`) on FIRST occurrence in each file. LENGTH-NEUTRAL — all four have headroom. Do ONE file per pick and re-scope the `- **File**:` line to the next path before marking done; close the task only after the fourth.
+- **Source**: optimistic-review
+- **Generated**: 2026-07-27
 
 ### ✓ 2026-07-27: Verify ai_system attribution after model-fallback event — AUDITED CLEAN, no action needed
 - **Type**: refine-draft

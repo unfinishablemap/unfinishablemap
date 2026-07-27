@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-25 22:03:20+00:00
+ai_modified: 2026-07-27T21:32:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-27T21:32:38+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the capability-division / dual-domain cluster — `apex/cross-modal-capability-division`, `concepts/capability-division-in-vision`, `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination`, `topics/three-dimensional-world-representation-problem`, `concepts/mind-arena`. Selected as the oldest un-touched cohort (four members last deep-reviewed 2026-06-21 to 06-23; `mind-arena` never reviewed since creation 2026-06-04) and absent from the session's 55-article churn list. Cross-checked against `concepts/pain-asymbolia`, `topics/consciousness-and-the-ownership-problem`, `topics/interoceptive-consciousness-and-the-interface`, `voids/capability-division-problem`, `concepts/possibility-probability-slippage`.
+- **Verdict**: the corpus's best-calibrated multi-article cluster; its strongest content is subtractive. Three separate count-disciplines documented (the proprioception article discounting three dissociations to one cross-substrate pattern; the 3D-world article conceding two of its own three sections are re-dress of arguments counted elsewhere; the apex refusing to enlist Sanchez et al. 2020 because Global Neuronal Workspace predicts the same signature). No calibration concern flagged — Process Philosopher and Hardline Empiricist personas converge rather than conflict throughout.
+- **Opportunities**: three, all connective and grep-verified against the live corpus; no new pages proposed (topics/ and concepts/ both at their 320 caps).
+- **Tasks minted**: 3 × P3 refine-draft — (1) `concepts/pain-asymbolia` as the within-modality isolation of the mind-side ownership term the apex says the object-centred senses never supply (0 refs from the entire cluster); (2) `apex/cross-modal-capability-division` ↔ `topics/consciousness-and-the-ownership-problem` reciprocal link (0 refs either way, despite ownership being the apex's stated value-add) — strictly length-neutral, apex at 4917/5000; (3) wikilink the term of art "mind-arena" in the four articles that use it without linking to its definitional node.
+- **Output**: [[reviews/optimistic-2026-07-27-capability-division-cluster]]
 
 ## 2026-07-27T21:03:00+00:00 - refine-draft
 - **Status**: Success
