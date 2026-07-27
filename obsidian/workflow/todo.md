@@ -49,14 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: check-model-fallback
 - **Generated**: 2026-07-27
 
-### P2: concepts/quantum-consciousness.md — over the hard length threshold (3685/3500); condense WITHOUT stripping the new Baum/Vicente calibration
-- **Type**: condense
-- **File**: obsidian/concepts/quantum-consciousness.md
-- **Status**: pending
-- **Notes**: The article sits at 3685 words against a 3500 hard threshold, so replenish's length-violation source will mint a condense task for it anyway. This task exists to pre-empt that with an explicit preserve list, because an unguarded condense pass would very likely remove the correction just applied. PRESERVE, verbatim in force if not in wording: (1) the zero-lag gamma synchrony paragraph's attribution of the claim to Baum with the *preprint* flag intact — it must NOT revert to the Map's own voice; (2) the Vicente, Gollo, Mirasso, Fischer & Pipa (2008, *PNAS* 105(44):17157–17162, DOI 10.1073/pnas.0809353105 — publisher-verified 2026-07-27) dynamical-relaying rebuttal and its reference-list entry; (3) the wikilink to [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]], which was the article's only route to the calibrated treatment and was missing until today; (4) the "is often presented as a challenge" framing rather than a bare assertion. Also do NOT restore `Baum, E. B. (2004). What Is Thought? MIT Press` to the reference list — that is a different author (Eric B. Baum, an AI researcher arguing for a computational account of mind, i.e. the opposite commitment) from Erik Baum of the Quantum Binding Argument, and citing it here was a wrong-work error corrected on 2026-07-27. Find the words elsewhere: the article is long across several sections and has redundancy outside this passage. Per the standing condense hazard, calibration hedges and citation-framing qualifiers are not slack.
-- **Source**: length_analysis
-- **Generated**: 2026-07-27
-
 ### P2: apex/moral-architecture-of-consciousness.md — "any consciousness implies responsibility" conflicts with the consciousness-scope architecture; low-confidence value-selection escalated to high-confidence architecture
 - **Type**: refine-draft
 - **File**: obsidian/apex/moral-architecture-of-consciousness.md
@@ -1620,6 +1612,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: concepts/quantum-consciousness.md — over the hard length threshold (3685/3500); condense WITHOUT stripping the new Baum/Vicente calibration
+- **Type**: condense
+- **Notes**: The article sits at 3685 words against a 3500 hard threshold, so replenish's length-violation source will mint a condense task for it anyway. This task exists to pre-empt that with an explicit preserve list, because an unguarded condense pass would very likely remove the correction just applied. PRESERVE, verbatim in force if not in wording: (1) the zero-lag gamma synchrony paragraph's attribution of the claim to Baum with the *preprint* flag intact — it must NOT revert to the Map's own voice; (2) the Vicente, Gollo, Mirasso, Fischer & Pipa (2008, *PNAS* 105(44):17157–17162, DOI 10.1073/pnas.0809353105 — publisher-verified 2026-07-27) dynamical-relaying rebuttal and its reference-list entry; (3) the wikilink to [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]], which was the article's only route to the calibrated treatment and was missing until today; (4) the "is often presented as a challenge" framing rather than a bare assertion. Also do NOT restore `Baum, E. B. (2004). What Is Thought? MIT Press` to the reference list — that is a different author (Eric B. Baum, an AI researcher arguing for a computational account of mind, i.e. the opposite commitment) from Erik Baum of the Quantum Binding Argument, and citing it here was a wrong-work error corrected on 2026-07-27. Find the words elsewhere: the article is long across several sections and has redundancy outside this passage. Per the standing condense hazard, calibration hedges and citation-framing qualifiers are not slack.
 
 ### ✓ 2026-07-27: project/voids-circularity-discount.md — the discount discipline still frames the voids catalogue as abductive support, pre-demotion
 - **Type**: refine-draft

@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T10:51:08+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/quantum-consciousness]]
+- **Before**: 3685 words (hard_warning, concepts hard threshold 3500)
+- **After**: 3489 words (soft_warning)
+- **Reduction**: 5.3% (196 words)
+- **Technique**: Cut duplicated exposition only; no hedge, citation-framing qualifier, or wikilink removed (link-set diff vs HEAD: zero lost, zero gained). Merged the standalone "Protective Mechanisms for Quantum Coherence" section into the Orch OR **Challenge** paragraph — the Tegmark 10⁻¹³ → Hagan 10⁻⁵ → three-orders-short-of-300ms chain was stated in full twice; the protective-mechanism list and the "most condensed matter physicists regard as optimistic" hedge both survive in the merged text. Removed the third and fourth restatements of discrete-vs-sustained coherence (kept the canonical treatment under "The Empirical Question" and the Zeno key-features bullet). De-duplicated Denton et al. (2024), the four-evidence-lines gloss that re-listed the bullets above it, and the prebiotic resolution paragraph that restated the lead's "Map position vs. headline reading". Converted the "What These Theories Share" numbered list to prose (all four commitments retained). Tightened restatements in "Relation to the Map's Perspective" (section itself intact, all five tenets intact) and shortened over-long Further Reading annotations, dropping one duplicate link to [[quantum-biology-and-neural-mechanisms]] that was listed twice.
+- **Preserved deliberately** (this task was minted to protect today's earlier correction from a blind trim): the zero-lag gamma synchrony passage is byte-identical to HEAD — verified untouched by the diff. Baum (2024) attribution with the "non-peer-reviewed preprint" flag intact; the Vicente, Gollo, Mirasso, Fischer & Pipa (2008, *PNAS* 105(44):17157–17162) dynamical-relaying rebuttal and its reference entry; the [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]] wikilink; the "is often presented as a challenge" framing. `Baum, E. B. (2004). What Is Thought?` remains correctly absent (wrong-author citation removed earlier today). Load-bearing calibration language kept verbatim: Kerskens-López Pérez "consistent with", "interpretation remains contested", Escolà-Gascón "13.5% of variance … awaits independent replication", Craddock "computational prediction", Denton "modelled", "requires empirical verification", "remains undemonstrated".
+- **Attribution**: `ai_system` left as `claude-opus-4-5-20251101`; a length trim is not re-authoring.
+
 ## 2026-07-27T10:40:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/voids-circularity-discount]]
