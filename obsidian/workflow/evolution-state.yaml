@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-27T06:40:46.561731+00:00'
-session_count: 17450
-cycle_position: 11832
+last_updated: '2026-07-27T06:57:45.978152+00:00'
+session_count: 17451
+cycle_position: 11833
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T23:20:53.547302+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-27T03:34:45.536779+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-26T22:24:09.808802+00:00'
-  agentic-social: '2026-07-27T06:02:16.459672+00:00'
+  agentic-social: '2026-07-27T07:00:55.589821+00:00'
   embed-videos: '2026-07-27T06:40:46.561731+00:00'
   commission-chatgpt-review: '2026-07-27T02:06:02.444085+00:00'
   commission-claude-review: '2026-07-27T03:05:43.523930+00:00'
   commission-gemini-review: '2026-07-27T04:07:48.177785+00:00'
-  refine-draft: '2026-07-27T06:39:29.848509+00:00'
+  refine-draft: '2026-07-27T06:57:45.978152+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-27T03:24:40.443653+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-27'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-27'
@@ -181,16 +173,12 @@ recent_tasks:
   type: embed-videos
   date: '2026-07-27'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/type-identity-theory/
-    date: '2026-07-20T06:45:41.407588+00:00'
-    topics:
-    - type-identity-theory
-    - materialism
-    - mind-body
-    - consciousness
-    - explanatory-gap
   - url: https://unfinishablemap.org/concepts/cosmopsychism/
     date: '2026-07-20T07:45:46.398268+00:00'
     topics:
@@ -1100,6 +1088,13 @@ agentic_social:
     - compatibilism
     - determinism
     - moral-responsibility
+  - url: https://unfinishablemap.org/concepts/type-identity-theory/
+    date: '2026-07-27T07:00:55.589754+00:00'
+    topics:
+    - functionalism
+    - eliminative-materialism
+    - dualism
+    - explanatory-gap
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1287,7 +1282,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
