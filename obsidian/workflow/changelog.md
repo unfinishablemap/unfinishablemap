@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-27T21:32:38+00:00
+ai_modified: 2026-07-27T21:50:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-07-27T21:50:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Task**: downstream of the same-day refine of [[tenets/background-commitments]], which added Posit Three (global exclusion of unchosen alternatives) per outer review 2026-07-27 ChatGPT 5.6 Pro finding 1.6. Two loci only; hard length-neutral-or-negative constraint (file at `critical`, 297% of the 2000-word target).
+- **Changes**: (1) `## Two Background Posits the Tenets Rest On` retitled to `Three`; body count "Two *unstated* posits" → "Three", with a compact clause (3) naming global exclusion — incompatible alternatives globally nonactual, not merely absent from the agent's own history — as what the agency route to Tenet 4 needs beyond sourcehood, since branch-relative Everettian agency is otherwise available. Derivation not repeated; the canonical file carries it. Stale "Two coherence tensions" numeral dropped (canonical now names three). Trailing link alias corrected from "Two Background Commitments the Tenets Rest On" to "Three Background Commitments". (2) "How to read the matrix", Agency row gloss: the parenthetical asserting the MWI rejection as entailment ("since agent causation cannot be coherently maintained across branches where both alternatives are realised") recalibrated to name the extra commitment — "(which needs the further global-exclusion posit—branch-relative agency is otherwise available: [[tenets/background-commitments]])". This parenthetical was the upstream source of the corpus-wide overstatement; Saunders 2010, Wallace 2012 and Sebens & Carroll 2018 preserve branch-local psychological continuity, counterfactual control and reasons-responsiveness, so sourcehood alone does not deliver the rejection.
+- **Engagement classification**: engagement with the Everettian (Saunders / Wallace / Sebens & Carroll): Mode Three; the disagreement sits at the framework boundary — global exclusion is a chosen starting point, and the recalibrated parenthetical now says so rather than presenting the rejection as an in-framework entailment.
+- **Inbound-link check**: no inbound link targets the renamed heading. `background-commitments.md` reaches `tenets` only via block anchors (`#^dualism`, `#^bidirectional-interaction`, `#^no-many-worlds`); a corpus grep for the heading text and its slug `two-background-posits` returns the heading itself only. Nothing to update, and none created.
+- **Length**: 5945 → 5943 words (net −2). Constraint met; no divert needed. Scope held to the two named loci — matrix, tenet statements, and the rest of the file untouched.
+- **Published**: yes
 
 ## 2026-07-27T21:32:38+00:00 - optimistic-review
 - **Status**: Success
