@@ -5,6 +5,21 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T18:32:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/consciousness-and-agency]]
+- **Task**: third and final propagation of outer-review 2026-07-27 (ChatGPT 5.6 Pro) finding 4.11 — the patienthood/agency collapse.
+- **Locus edited**: §Moral Responsibility Grounded, the paragraph formerly opening "The same property that makes agents subjects of moral concern—consciousness—makes them subjects of moral responsibility." That sentence and the "runs in both directions: consciousness grounds both who can be harmed and who can be held to account" gloss were the collapsed form; both are gone.
+- **Changes**: consciousness now grounds candidacy for moral *patienthood* directly, while moral *agency* requires the further capacities agent causation presupposes — control over conduct, access to reasons, a genuine range of options, and the competence to recognise what is at stake — which infants, most animals, and any minimally-phenomenal subject lack. Closes on the settled formulation already in `concepts/moral-responsibility`: "consciousness is necessary for that standing without conferring it."
+- **Wording reuse (no fourth phrasing)**: the capacity list and the "(who can be harmed)/(who can be responsible)" contrast are lifted from `concepts/moral-responsibility` §The Role of Consciousness; the "strengthens rather than weakens … patienthood is what grounds obligations toward beings who cannot be held responsible" move is lifted from `apex/moral-architecture-of-consciousness` §Who Counts: Patienthood Before Agency. Four files now agree in the same vocabulary.
+- **Not overshot**: the correction is stated as a strengthening of the ethical position, not a retreat — patienthood remains the ground of obligation toward beings who cannot be held responsible.
+- **Out of scope, untouched**: the No-MWI/agency material (§What Would Challenge This View?, "Confirmation of many-worlds") has its own consolidated sweep task with its own settled wording and was deliberately not edited. Diff is 2 lines: the target paragraph and `ai_modified`.
+- **Also reported, not edited**: `concepts/experiential-alignment.md` L227 (not L228) carries the same collapse cosmetically in a Further Reading gloss — "[[ethics-under-dualism]] — How consciousness grounds both moral patienthood and agency". Left for the next pick per task instruction.
+- **Engagement classification**: no named-opponent reply in the edited passage; no mode labels in the body.
+- **Word count**: 4747 → 4797 (+50), soft_warning both before and after, well under the 5000 apex hard ceiling. The growth is irreducible — the collapsed claim was one clause and the calibrated claim is a disjunction with an enumerated capacity list. No calibration hedge removed.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — a single-paragraph targeted correction is not a re-authoring, matching the sibling `concepts/moral-responsibility` pass earlier today which likewise held its attribution.
+- **Published**: yes
+
 ## 2026-07-27T17:49:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/four-quadrant-dualism-taxonomy]]

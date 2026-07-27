@@ -225,7 +225,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 
 - [[purpose-and-alignment]] — The broader context connecting alignment to life's purpose
 - [[topics/phenomenal-value-realism]] — The metaethical position grounding experiential value
-- [[ethics-under-dualism]] — How consciousness grounds both moral patienthood and agency
+- [[ethics-under-dualism]] — How consciousness grounds moral patienthood, and what agency additionally requires
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — First-person methods for investigating experience
 - [[ai-consciousness]] — Why AI may lack the consciousness to understand preferences from inside
 - [[illusionism]] — The strongest challenge to taking phenomenal consciousness seriously
