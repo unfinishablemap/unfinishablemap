@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-07-27 09:34:53+00:00
+ai_modified: 2026-07-27 10:51:08+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -57,7 +57,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 The quantum opening addresses [mental causation](/concepts/mental-causation-and-downward-causation/). Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. Quantum mechanics provides an alternative.
 
-The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. **An important caveat**: this gap may be epistemic rather than ontological—future physics could close it without invoking consciousness. Interpretations like QBism and relational quantum mechanics dissolve the measurement problem without Many Worlds. The Map's position is that collapse is a real physical event requiring a selector, but this is a philosophical commitment, not a settled result. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/topics/quantum-measurement-and-consciousness/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite—unable to enter the indeterminate states that characterise superposition. This [definiteness constraint](/topics/consciousness-in-smeared-quantum-states/) means the selector never follows the brain into indeterminacy, operating from experiential definiteness while resolving the brain's superposed possibilities.
+The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. **An important caveat**: this gap may be epistemic rather than ontological—future physics could close it without invoking consciousness. Interpretations like QBism and relational quantum mechanics dissolve the measurement problem without Many Worlds. The Map's position is that collapse is a real physical event requiring a selector, but this is a philosophical commitment, not a settled result. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/topics/quantum-measurement-and-consciousness/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite, unable to enter the indeterminate states that characterise superposition. This [definiteness constraint](/topics/consciousness-in-smeared-quantum-states/) means the selector never follows the brain into indeterminacy—it resolves the brain's superposed possibilities from outside them.
 
 The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative where all outcomes occur in branching universes. See [many-worlds](/concepts/many-worlds/) for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
@@ -65,16 +65,16 @@ The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternativ
 
 **Proponents**: Roger Penrose and Stuart Hameroff
 
-Orch OR locates quantum effects in microtubules—protein structures inside neurons. The proposal: tubulin proteins exist in superposition; these become entangled across microtubules; when the superposed mass reaches a threshold, spacetime geometry forces collapse ("objective reduction"); each collapse constitutes a moment of conscious experience.
+Orch OR locates quantum effects in neuronal microtubules. The proposal: tubulin proteins exist in superposition; these become entangled across microtubules; when the superposed mass reaches a threshold, spacetime geometry forces collapse ("objective reduction"); each collapse constitutes a moment of conscious experience.
 
 **Recent evidence** (2024-2025):
 - **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating microtubule *involvement* in consciousness. But microtubules are structural proteins with many cellular roles—drug effects on consciousness don't by themselves distinguish quantum from classical function.
 - Ultraviolet superradiance in tryptophan mega-networks (Babcock et al. 2024) demonstrates quantum collective behaviour in warm biological architectures, sustained at body temperature rather than requiring cryogenic isolation—though this is an optical/electronic effect (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, so it is suggestive precedent rather than a demonstration of the mechanism
 - **Craddock et al. (2017)** *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7): molecular-dynamics and quantum-chemistry simulations predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency. This is a *computational prediction*, not a direct measurement; what is needed is experimental verification, not replication. Wiest (2025) reviews and develops the prediction's implications but reports no new 613 THz data.
 
-These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-and-neural-consciousness/)—biological precedent, pharmacological correlation, direct measurement, and computational modelling—that strengthens the cumulative case even where individual lines remain inconclusive.
+These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-and-neural-consciousness/) that strengthens the cumulative case even where individual lines remain inconclusive.
 
-**Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. Revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds, but **this is still three orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
+**Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵ seconds remains three orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 
@@ -89,11 +89,11 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 - **Discrete, not sustained**: Unlike Orch OR, the Zeno mechanism operates through discrete observation cycles, not continuous coherence—sidestepping the decoherence timing gap entirely
 - **Attention as interface**: The [attention-consciousness dissociation](/concepts/attention-as-interface/) (Koch & Tsuchiya) shows attention is the mechanism consciousness uses, not consciousness itself
 - **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—exactly what the Zeno mechanism predicts
-- **Biological precedent**: Denton et al. (2024) modelled quantum Zeno protection in cryptochrome radical pairs—computational evidence that biological systems could use this effect
+- **Biological precedent**: Denton et al. (2024) modelled quantum Zeno protection in cryptochrome radical pairs
 
 The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
 
-The [luck objection](/concepts/luck-objection/)—that quantum indeterminacy is just randomness—faces the response that selection is not randomness. Random processes have no phenomenology; selection involves felt effort. Consciousness selects based on reasons, making choices contrastively explicable.
+The [luck objection](/concepts/luck-objection/)—that quantum indeterminacy is just randomness—meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable.
 
 ## Nuclear Spin Quantum Computing (Fisher)
 
@@ -107,10 +107,6 @@ The mechanism: enzymatic reactions create entangled phosphate pairs; these incor
 
 This offers a route around the decoherence challenge through nuclear spin isolation rather than electronic protection.
 
-## Protective Mechanisms for Quantum Coherence
-
-The decoherence objection assumed biological systems are too warm and wet for quantum effects. Proposed protective mechanisms challenge this: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, and ordered cytoplasm structure. Hagan et al.'s theoretical estimates extend coherence times from Tegmark's 10⁻¹³ seconds to 10⁻⁵ seconds (seven orders of magnitude), though these assume near-perfect thermal shielding—an assumption most condensed matter physicists regard as optimistic—and 10⁻⁵ seconds still falls three orders of magnitude short of ~300ms neural decisions.
-
 ## The Decoherence Challenge
 
 See [decoherence](/concepts/decoherence/) for comprehensive analysis. Two distinct questions arise, and conflating them obscures the state of play.
@@ -121,22 +117,17 @@ See [decoherence](/concepts/decoherence/) for comprehensive analysis. Two distin
 
 ### The Empirical Question: Can Quantum Mechanisms Operate in Neural Tissue?
 
-This is a separate challenge. Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions. The decoherence objection targets this empirical claim directly.
+Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions. The decoherence objection targets this empirical claim directly.
 
 **Biology exploits quantum effects, but the neural case is unproven.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/), photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
 
-**The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. **A critical assumption**: this requires that observations remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
+**The Zeno alternative.** **A critical assumption** underlies Stapp's version: observations must remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
 
 ## What These Theories Share
 
-Despite differences, these theories share several commitments (none yet empirically established):
-
-1. **Consciousness plays a physical role**—it biases which outcomes occur within the Born distribution rather than causing collapse from outside physics
-2. **The interface is at quantum indeterminacies**—where physics is genuinely undetermined
-3. **No energy violation**—consciousness shapes outcomes without adding energy (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))
-4. **Many Worlds is rejected**—collapse is real, outcomes genuinely selected
+Despite differences, these theories share several commitments (none yet empirically established): consciousness plays a **physical role**, biasing which outcomes occur within the Born distribution rather than causing collapse from outside physics; **the interface is at quantum indeterminacies**, where physics is genuinely undetermined; **no energy is added** (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)); and **Many Worlds is rejected**, collapse being real and outcomes genuinely selected.
 
 All are compatible with [adaptive computational depth](/concepts/adaptive-computational-depth/)—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends.
 
@@ -148,13 +139,13 @@ Two objections arise: what caused collapse before conscious observers existed, a
 
 The [prebiotic collapse](/concepts/prebiotic-collapse/) problem distinguishes two timelines. The *cosmological* timeline spans 13.8 billion years before any minds—star formation, chemical evolution, early Earth. The *phylogenetic* timeline concerns when consciousness emerged in biological evolution. Objective reduction handles the cosmological question; consciousness-collapse interfacing addresses the phylogenetic one.
 
-The Map resolves both through **objective reduction with consciousness modulation**. Physical mechanisms (gravitational collapse, GRW spontaneous localization) provide baseline collapse—stars and chemistry didn't wait for minds. What consciousness adds is *local modulation* within its own neural interface. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment of GRW, CSL, and Penrose OR models, and [prebiotic-collapse](/concepts/prebiotic-collapse/) and [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) for how the Map deploys them.
+The Map resolves both through **objective reduction with consciousness modulation**: gravitational collapse and GRW spontaneous localization supply baseline collapse—stars and chemistry didn't wait for minds—while consciousness adds *local modulation* within its own neural interface. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for GRW, CSL, and Penrose OR models, and [prebiotic-collapse](/concepts/prebiotic-collapse/) and [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) for how the Map deploys them.
 
 ## Entanglement and the Binding Problem
 
 The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [binding-problem](/concepts/binding-problem/) for why classical approaches structurally cannot produce phenomenal unity.
 
-Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: the entangled whole has properties its parts lack individually, mirroring how experience comes unified rather than assembled from separate quale-atoms.
+Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: experience comes unified rather than assembled from separate quale-atoms.
 
 **Empirical support**: Zero-lag gamma synchrony is often presented as a challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, while direct neural transmission takes >5 ms. Baum (2024), in a non-peer-reviewed preprint, argues this requires quantum non-locality, classical signal propagation being unable to achieve zero-lag synchrony. The peer-reviewed literature refutes that premise: two populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite long delays (Vicente et al. 2008), so the synchrony is classically explicable and is no evidence for entanglement binding—see [the calibrated assessment](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/). Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
@@ -174,7 +165,7 @@ For the Map this demarcation has a *structural* rather than merely reputational 
 
 Włodzisław Duch — quantum-physicist-turned-cognitive-scientist — is the strongest competent critic of substantive quantum-mind proposals at the Penrose-Hameroff scale. Duch (2005, 2019) argues that brain processing requires *differentiation* across regions and timescales rather than the global synchronisation quantum-coherence proposals require, that decoherence timescales make sustained quantum effects implausible at biological temperatures (with Tegmark 2000 as his anchor), and that quantum proposals fill explanatory gaps a classical-computational model can already fill via self-reflective dynamical access — exotic physics doing the work of an unearned explanatory leap. His positive view (consciousness as the "shadow" of neurodynamics, with the [articon architecture](/concepts/geometric-model-of-mind/) from Duch 2005 sufficient in principle) is a classical-computational alternative.
 
-The relationship to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is structurally subtle: it is a *convergent-conclusion-opposite-reasoning* relationship. Duch and the Map agree that *substantive* quantum-mind proposals at Orch-OR-style macroscopic scale face severe obstacles. They part ways at the *minimal* interface — Duch wants zero quantum role for consciousness on the grounds that classical-computational dynamical access suffices; the Map wants minimal-but-real interaction on the grounds that some non-physical selection at the indeterminacy boundary is required for the *Bidirectional Interaction* tenet to do its work. The Map can therefore appropriate Duch's anti-Penrose-Hameroff arguments without inheriting his classical-sufficiency commitment, but only if the convergence-point and the divergence-point are kept structurally distinct. Articles citing Duch's quantum critique must specify which point is being borrowed; importing the classical-sufficiency commitment alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+The relationship to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is structurally subtle: it is a *convergent-conclusion-opposite-reasoning* relationship. Duch and the Map agree that *substantive* quantum-mind proposals at Orch-OR-style macroscopic scale face severe obstacles. They part ways at the *minimal* interface — Duch wants zero quantum role for consciousness on the grounds that classical-computational dynamical access suffices; the Map wants minimal-but-real interaction on the grounds that some non-physical selection at the indeterminacy boundary is required for the *Bidirectional Interaction* tenet to do its work. The Map can therefore appropriate Duch's anti-Penrose-Hameroff arguments without inheriting his classical-sufficiency commitment, but only if the two points are kept structurally distinct: articles citing his quantum critique must specify which is being borrowed, since importing classical sufficiency alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
 ## What Would Challenge This View?
 
@@ -186,11 +177,11 @@ The framework could be falsified by:
 4. **Dissociation of effort phenomenology from neural selection**—if the willed/cued distinction disappears under better-controlled studies
 5. **Successful illusionism**—a non-circular account of why consciousness *seems* unified without presupposing phenomenality
 
-Each of these possibilities has active research programmes, and none can be ruled out. The framework makes empirical commitments that could be overturned.
+Each of these possibilities has active research programmes, and none can be ruled out: the framework makes empirical commitments that could be overturned.
 
 ## Relation to the Map's Perspective
 
-The Map's tenets don't commit to any specific mechanism. They require:
+The Map's tenets require:
 
 1. **Dualism**: Consciousness is irreducible. Quantum theories place consciousness where physics runs out—selection of outcomes.
 2. **Minimal Quantum Interaction**: Consciousness biases outcomes without injecting energy.
@@ -200,28 +191,28 @@ The Map's tenets don't commit to any specific mechanism. They require:
 
 Orch OR, Stapp, and the other mechanisms in [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) are all compatible. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
-The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [mental causation](/concepts/mental-causation-and-downward-causation/) from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [selection laws](/concepts/psychophysical-laws/) concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
+The Map's position is strong emergentism that specifies its mechanism: consciousness causes physical effects by determining what physics leaves undetermined, transforming [mental causation](/concepts/mental-causation-and-downward-causation/) from philosophical puzzle into precise proposal. The [selection laws](/concepts/psychophysical-laws/) concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
-**A mysterian caveat**: Even if these mechanisms prove correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [Colin McGinn's cognitive closure thesis](/concepts/mysterianism/) suggests human minds may be constitutionally incapable of understanding this connection—not because the problem is unanswerable, but because the answer lies outside our conceptual repertoire. The Map documents mechanisms constrained by physics while acknowledging the ultimate nature of the consciousness-quantum interface may exceed human comprehension.
+**A mysterian caveat**: Even if these mechanisms prove correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [Colin McGinn's cognitive closure thesis](/concepts/mysterianism/) suggests human minds may be constitutionally incapable of understanding this connection—not because the problem is unanswerable, but because the answer lies outside our conceptual repertoire. The Map documents mechanisms constrained by physics while acknowledging that the interface's ultimate nature may exceed human comprehension.
 
 ## Further Reading
 
 **Apex synthesis:**
-- [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Five converging lines of inquiry for consciousness acting after decoherence
+- [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Consciousness acting after decoherence
 
 **Mechanisms and timing:**
-- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Candidate neural sites, timing constraints, and testable predictions
-- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Five neural quantum mechanisms with evidence status
-- [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evidence hierarchy across five proposed neural mechanisms
-- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of the quantum Zeno mechanism
-- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond to 300ms neural decisions
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Neural sites, timing constraints, testable predictions
+- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Five mechanisms with evidence status
+- [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evidence hierarchy across those five
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in full
+- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Femtosecond to 300ms timing hierarchy
 - [attention-as-interface](/concepts/attention-as-interface/) — Unification of attention and motor selection
 
 **Key concepts:**
-- [temporal-consciousness](/concepts/temporal-consciousness/) — What quantum selection feels like from within: the specious present as selection window
-- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The structural parallel between the measurement and hard problems
-- [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — The pre-collapse phase: what consciousness does during superposition
-- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present as selection window
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem / hard problem parallel
+- [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — The pre-collapse phase
+- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [decoherence](/concepts/decoherence/) — Analysis of the decoherence challenge
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What a coupling law must specify
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
@@ -232,11 +223,11 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Objections and resolutions:**
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — Collapse before conscious observers
-- [panpsychism](/concepts/panpsychism/) — An alternative anti-physicalist view that addresses prebiotic collapse differently
+- [panpsychism](/concepts/panpsychism/) — An anti-physicalist rival with a different prebiotic answer
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — Multiple observers
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
 - [luck-objection](/concepts/luck-objection/) — Why quantum selection isn't mere randomness
-- [amplification-void](/voids/amplification-void/) — The structural impossibility of tracing quantum-to-neural amplification chains
+- [amplification-void](/voids/amplification-void/) — Why quantum-to-neural amplification chains are untraceable
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness is illusion
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure on the consciousness-physics interface
 
@@ -246,9 +237,8 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates the quantum opening
 - [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's information ontology and the case for informational foundations
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant
-- [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) — Evolution exploiting quantum effects
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
-- [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent classical-computational critique of substantive quantum-mind proposals; convergence and divergence with the Minimal Quantum Interaction tenet
+- [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The classical-computational critique: convergence and divergence with Minimal Quantum Interaction
 
 ## References
 

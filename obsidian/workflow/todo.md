@@ -49,14 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: check-model-fallback
 - **Generated**: 2026-07-27
 
-### P2: apex/moral-architecture-of-consciousness.md — "any consciousness implies responsibility" conflicts with the consciousness-scope architecture; low-confidence value-selection escalated to high-confidence architecture
-- **Type**: refine-draft
-- **File**: obsidian/apex/moral-architecture-of-consciousness.md
-- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.11 + 4.13, improvements 30/31. The apex says any consciousness implies at least some responsibility, but the biological-scope cluster includes infants, animals, and minimally-phenomenal subjects lacking the access, reasons-responsiveness, and control responsibility requires — consciousness establishes moral PATIENTHOOD more readily than moral AGENCY. Revise so consciousness grounds possible patienthood, not a positive floor of responsibility (responsibility requires control, reasons access, option availability, cognitive competence). Separately, the value register treats value-sensitive selection as low-credence / Grade D / burdened by an extra valence-to-physics mapping, yet this apex presents valence + agency + normativity + responsibility as a unified architecture — downgrade the unification thesis to a conditional framework-internal synthesis and inherit the weakest dependency's calibration.
-- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P2: apex/born-preserving-causal-efficacy.md — add the selector-distribution law and intervention-level trilemma (novel implication)
 - **Type**: refine-draft
 - **File**: obsidian/apex/born-preserving-causal-efficacy.md
@@ -1631,11 +1623,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-07-27
 
+### P2: moral-responsibility.md — the patienthood/agency collapse the moral apex has now corrected still stands upstream
+- **Type**: refine-draft
+- **File**: obsidian/concepts/moral-responsibility.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro) finding 4.11, applied to `apex/moral-architecture-of-consciousness` on 2026-07-27 and now needing propagation to its source concept. Line 83 reads: "just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible)". The parallelism is the collapse the reviewer named — consciousness grounds candidacy for patienthood directly, whereas agency additionally requires control over conduct, access to reasons, a genuine range of available options, and cognitive competence, none of which infants, most animals, or minimally-phenomenal subjects possess. The apex now runs its responsibility floor off the *agency threshold* rather than off consciousness as such (`## Who Counts: Patienthood Before Agency`, and the "Two features prevent this from collapsing into universal excuse-making" paragraph in `## The Responsibility Gradient`), so this concept currently contradicts its own apex. Fix IN KIND and length-neutral: keep the claim that only a conscious being can be responsible (that direction is sound — consciousness is *necessary* for agency), drop the "just as ... it grounds" symmetry which makes it look *sufficient*. Do NOT weaken the surrounding phenomenal-value-realism material or the "Compatibilism is sufficient" reply at line 145 — both were separately calibrated and are untouched by this finding. Check also whether `topics/ethics-under-dualism` §Moral Patienthood needs the same clause; it already separates patient from agent at line 138 (AI as agent-not-patient) so it may already be clean — verify before editing rather than assuming.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro`
+- **Source**: refine-draft
+- **Generated**: 2026-07-27
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: apex/moral-architecture-of-consciousness.md — "any consciousness implies responsibility" conflicts with the consciousness-scope architecture; low-confidence value-selection escalated to high-confidence architecture
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.11 + 4.13, improvements 30/31. The apex says any consciousness implies at least some responsibility, but the biological-scope cluster includes infants, animals, and minimally-phenomenal subjects lacking the access, reasons-responsiveness, and control responsibility requires — consciousness establishes moral PATIENTHOOD more readily than moral AGENCY. Revise so consciousness grounds possible patienthood, not a positive floor of responsibility (responsibility requires control, reasons access, option availability, cognitive competence). Separately, the value register treats value-sensitive selection as low-credence / Grade D / burdened by an extra valence-to-physics mapping, yet this apex presents valence + agency + normativity + responsibility as a unified architecture — downgrade the unification thesis to a conditional framework-internal synthesis and inherit the weakest dependency's calibration.
 
 ### ✓ 2026-07-27: concepts/quantum-consciousness.md — over the hard length threshold (3685/3500); condense WITHOUT stripping the new Baum/Vicente calibration
 - **Type**: condense
