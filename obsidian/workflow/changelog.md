@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-27T21:50:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-07-27T22:56:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-27T22:56:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Word count**: 3219 → 3338 (+119, 83% of the 4000 hard threshold)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 3 (plus 3 low)
+- **Selection**: merit-based pick, not from the candidate ranking (top-8 contaminated by same-day cosmetic bumps). 29 references, 31 days since last review.
+- **Ran the §2.4 web-verify pass against its own trigger.** The 2026-06-26 review had skipped it on the "body/References unmodified" rule and inherited the prior ledger. Running it anyway found four critical and three medium defects on a surface six reviews had declared converged — direct evidence the trigger rule is **inverted for converged articles**: stability suppresses verification, so the most-reviewed articles carry the least-checked citation surfaces, while inherited ledgers report them as verified.
+- **Critical (1)** Klein (2012, 2014) misattributed as documenting AD/MCI patients sustained by *semantic* continuity. Klein reasons from severe episodic amnesia (D.B., K.C., Zasetsky), not dementia, and concludes that a **pre-reflective felt continuity of first-person subjectivity** does the work — not semantic content. Wrong population *and* wrong mechanism. Provenance: the grouping entered via an outer-review task note (Claude Opus 4.7, 2026-05-10) and was transcribed without independent check. Split: Tippett et al. now carries the AD/MCI semantic finding (verified verbatim against PMC5826309); Klein re-scoped to what he argues. The article's conclusion **strengthens** — Klein's route is phenomenological, not informational.
+- **Critical (2)** Matthen (2010) and Russell (2014) mislabelled "affective readings" locating pastness in "finality, nostalgia, regret". Neither holds this: Matthen locates the felt character in spatiotemporal embeddedness and ergonomic significance, Russell in felt remoteness. Relabelled "felt-quality readings" and described accurately; the "absorbable" verdict survives and is better supported.
+- **Critical (3)** Klein & Nichols (2012) plural inflation — "patients" for a **single**-patient case study (R.B.). The article's own Gentry reference title contained the refutation.
+- **Critical (4)** Robins (2016) orphan reference (in References, cited nowhere inline), orphaned by condense `9ced27521`. Restored a compact form of the cut process/product distinction to the discrimination paragraph rather than deleting the entry.
+- **Medium**: McCarroll (2018) — Map inference ("pastness underdetermines the kind of memory") presented as his result, caused by the same condense pass merging two sentences across the source/Map boundary; "Each retrieval modifies the trace" — universal claim reading as Schacter & Addis's, which they do not make (verified PMC2429996), softened; Gentry year/volume mismatch (online-first 2021 paired with print vol 14, 57–85) corrected to 2023 per Crossref and Springer's own citation, online-first date retained.
+- **Low**: restored dropped subtitles for Gallagher (2000), Schacter & Addis (2007), Wheeler et al. (1997).
+- **Per-cite ledger**: all 29 references independently verified this pass at Crossref / publisher / PMC — **established, not inherited**. No fabrications; nothing deleted for failing to support its claim (both such cases re-scoped). No verbatim quotations attributed to named authors exist in the article; Parfit's "deep further fact" verified as genuine and correctly presented as a view he denies. Zero superlative claims. One aggregator trap logged: a secondary source gives Klein 2012 as 474–**516**; the publisher record confirms the article's 474–**518** is right — do not "correct" it.
+- **Family resolution**: no propagation. `memory-channel-interface-evidence.md` cites a different real Klein 2014 (*The Two Selves*, OUP). Matthen and Gentry appear nowhere else in live content.
+- **Calibration**: every hedge preserved verbatim; the corrections reduced overstatement in three places and added none. No editor-vocabulary leakage (grep-clean). Engagement modes unchanged — source-monitoring Mode Two; simulationism Mixed; Everettian and illusionism Mode Three.
+- **Systemic finding for tune-system**: recommend an **age**-based web-verify trigger (independent verification >60 days old) alongside the modification trigger, and that ledgers record whether they were established or inherited. Also: condense passes should be treated as citation-integrity events — two of today's defects were introduced by one.
+- **Output**: [[reviews/deep-review-2026-07-27-phenomenology-of-memory-and-the-self]]
+- **Published**: yes
 
 ## 2026-07-27T22:31:30+00:00 - refine-draft
 - **Status**: Success

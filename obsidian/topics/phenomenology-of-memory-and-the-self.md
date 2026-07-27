@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-20T17:32:54+00:00
+ai_modified: 2026-07-27T22:56:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -36,10 +36,10 @@ related_articles:
   - "[[voids/confabulation-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-06-26T09:11:41+00:00
+last_deep_review: 2026-07-27T22:56:00+00:00
 embedded_videos:
   - id: lF5n6jgBuZo
     url: https://www.youtube-nocookie.com/embed/lF5n6jgBuZo
@@ -69,7 +69,7 @@ Three features distinguish it:
 
 **Incompleteness as structural feature**: The remembered self is never fully present—details missing, emotions muted, context approximate. The past self is always partly occluded.
 
-Klein and Nichols (2012) document patients with accurate autobiographical memories that lack the feeling of "mine"—evidence that mineness is at minimum a separable factor from content. Whether the separable factor is a phenomenal property or a functional self-attentional tag is contested; the [[#hostile-review-steelman-counters|steelmen below]] press the latter. The [[memory-anomalies|memory anomalies cluster]]—déjà vu, jamais vu, cryptomnesia—exhibits parallel dissociations: pastness without retrievable past, alienness of the familiar, ownership of forgotten content. Each separates phenomenal output from source machinery.
+Klein and Nichols (2012) document patient R.B., whose accurate autobiographical memories lacked the feeling of "mine"—evidence that mineness is at minimum a separable factor from content. Whether the separable factor is a phenomenal property or a functional self-attentional tag is contested; the [[#hostile-review-steelman-counters|steelmen below]] press the latter. The [[memory-anomalies|memory anomalies cluster]]—déjà vu, jamais vu, cryptomnesia—exhibits parallel dissociations: pastness without retrievable past, alienness of the familiar, ownership of forgotten content. Each separates phenomenal output from source machinery.
 
 Pastness, mineness, and double presence are phenomenological reports—evidence about the structure of experience, not by themselves evidence for dualism. The pastness quale is the explanandum the Map takes seriously; whether explaining it requires non-physical resources is the further argument developed below and at length in [[hard-problem-of-consciousness]]. Treating phenomenological data as already metaphysically loaded is the slippage [[evidential-status-discipline]] catches.
 
@@ -87,11 +87,11 @@ The self does not exist first and then remember. The self becomes temporally ext
 
 The same process that builds the self threatens it. Memory's reconstructive nature means the self can never fully secure its history.
 
-**The constructive turn**: Schacter and Addis's constructive episodic simulation hypothesis holds that episodic memory and episodic future thinking share a common constructive system, flexibly recombining elements into coherent scenes. Each retrieval modifies the trace. If every memory is a reconstruction, the past self encountered in remembering is partly a creation of the present self. The [[inaccessible-past]] identifies the gap: propositional content (the *that*) persists reliably, while phenomenal content (*what it was like*) survives only as fragmentary traces reconstruction fills and reshapes.
+**The constructive turn**: Schacter and Addis's constructive episodic simulation hypothesis holds that episodic memory and episodic future thinking share a common constructive system, flexibly recombining elements into coherent scenes. Retrieval can itself reshape what is stored. If every memory is a reconstruction, the past self encountered in remembering is partly a creation of the present self. The [[inaccessible-past]] identifies the gap: propositional content (the *that*) persists reliably, while phenomenal content (*what it was like*) survives only as fragmentary traces reconstruction fills and reshapes.
 
 **Identity distortion**: Memory's selectivity is shaped by availability bias, emotional salience, and retrieval practice. Traumatic memories may dominate because they are more retrievable; gradual positive changes may leave no discrete memorable episodes. The self memory constructs is systematically biased by the architecture of encoding and retrieval.
 
-**Pathological breakdowns**: Severe amnesia strips the self of temporal extension while leaving the minimal self intact. Patient KC retained semantic knowledge while losing autonoetic access to his past—he knew facts about his life without being able to *remember* living it. Rosenbaum et al. (2005) document residual semantic-autobiographical structure, so the dissociation is graded rather than total. Tippett, Prebble & Addis (2018) and Klein (2012, 2014) document AD/MCI patients in whom diachronic personal unity is sustained through *semantic* autobiographical continuity even as autonoetic continuity degrades. Phenomenological continuity is one route to diachronic unity, not the sole route. What survives is narrower: when episodic re-experiencing is intact, it carries a phenomenal character (pastness, mineness, double presence) that semantic continuity does not deliver. The dualist consequence rests on phenomenal character, not on identity-grounding monopoly.
+**Pathological breakdowns**: Severe amnesia strips the self of temporal extension while leaving the minimal self intact. Patient KC retained semantic knowledge while losing autonoetic access to his past—he knew facts about his life without being able to *remember* living it. Rosenbaum et al. (2005) document residual semantic-autobiographical structure, so the dissociation is graded rather than total. Tippett, Prebble & Addis (2018) find that patients with amnestic MCI and Alzheimer's hold beliefs about their own persistence that do not differ from healthy controls', concluding that intact *semantic* continuity suffices to sustain diachronic unity as autonoetic continuity degrades. Klein (2012, 2014), reasoning from severe-amnesia cases rather than dementia, locates the sustaining factor differently again—in a pre-reflective felt continuity of first-person subjectivity that outlasts even total episodic loss. Episodic re-experiencing is one route to diachronic unity, not the sole route; Klein's alternative is itself phenomenological rather than informational. What survives is narrower: when episodic re-experiencing is intact, it carries a phenomenal character (pastness, mineness, double presence) that semantic continuity does not deliver. The dualist consequence rests on phenomenal character, not on identity-grounding monopoly.
 
 **Structured-method response to memory-confabulation.** The constructive turn raises the [[voids/confabulation-void|confabulation void]] in the memory-recall context: a sub-personal generator supplies positive content where direct access to the encoded trace is missing, and the felt-rightness signal that would distinguish reconstruction from veridical recovery is anti-correlated with accuracy in the conditions that matter. Hurlburt's Descriptive Experience Sampling and Petitmengin's microphenomenological interview — the catalogue's home for the structured-discipline response is the latter's [[topics/microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] — deploy second-person scaffolding (evocation, position-direction prompts, re-anchoring in embodied memory) that *restricts the confabulation-eligible space* rather than dissolving it. The principals concede *interviewer-prompts-novelty*: the structured question may generate memory content the subject did not have until prompted, with the same felt-veridicality as genuine recovery. The discipline approximates the boundary without claiming to cross it; whether the restriction reaches access is methodologically undetermined. The pastness quale survives this calibration: it is the explanandum at issue, not the discrimination mechanism the structured method probes.
 
@@ -101,11 +101,11 @@ Contemporary philosophy of memory offers several deflationary readings, each den
 
 The **intentionalist reading** (Fernández 2019) holds pastness is a representational property—the memory represents itself as caused by a past experience. The view owes a story about why representation of pastness produces a felt difference between remembering and imagining the same content. If intentionalism succeeded, the irreducibility claim would transfer from pastness to qualia generally.
 
-The **two-tier reading** (Dokic 2014) and **affective readings** (Matthen 2010; Russell 2014) are absorbable. Dokic's phenomenal tier is where the article's claim sits; Matthen and Russell locate pastness in affective tone—finality, nostalgia, regret—specifying rather than deflating the phenomenology.
+The **two-tier reading** (Dokic 2014) and the **felt-quality readings** (Matthen 2010; Russell 2014) are absorbable. Dokic's phenomenal tier is where the article's claim sits; Matthen locates the felt character of remembering in spatiotemporal embeddedness and ergonomic significance, Russell in felt remoteness from the present—both specifying rather than deflating the phenomenology.
 
 The **simulationist reading** (Michaelian 2016) is the sharpest challenge. Episodic memory and episodic future-thinking share constructive default-mode-network circuitry; on simulationism, the felt difference is a metacognitive tag applied to past-oriented simulations. Shared circuitry constrains the "phenomenally indistinguishable" identity claim but does not establish reduction: subjects report a robust felt difference even when both processes recruit the same network. The Map's full engagement with this position—why it adopts the constructive deflation while refusing its eliminative gloss—is developed in [[simulation-theory-of-memory]].
 
-A related challenge is discrimination. Pastness must distinguish genuine memory from same-content imagination and hallucination. Bernecker (2010): memory has success conditions; a state with no causal connection to the original event is confabulation. McCarroll (2018) on observer memories shows pastness underdetermines the kind of memory it accompanies. The Map's commitment rules out strong simulationism but does not require pastness to be the sole discriminator: source-monitoring mechanisms can do the discriminating work while the pastness quale accurately reflects their verdict. The irreducibility argument targets the phenomenal datum, not the discrimination mechanism.
+A related challenge is discrimination. Pastness must distinguish genuine memory from same-content imagination and hallucination. Bernecker (2010): memory has success conditions; a state with no causal connection to the original event is confabulation. McCarroll (2018) argues that observer memories are genuine despite their external perspective, which leaves the felt-as-past signature underdetermining the kind of memory it accompanies. Robins (2016) separates the *process* of remembering from its *product*: a confabulation can replicate the product's felt character without instantiating the causally proper process. The Map's commitment rules out strong simulationism but does not require pastness to be the sole discriminator: source-monitoring mechanisms can do the discriminating work while the pastness quale accurately reflects their verdict. The irreducibility argument targets the phenomenal datum, not the discrimination mechanism.
 
 ## The Pastness Quale and Irreducibility
 
@@ -135,7 +135,7 @@ Klein and Nichols's (2012) dissociation has the same architecture. The dualist r
 
 The three load-bearing inferences—pastness as irreducible, mineness as a separable phenomenal feature, and the No-Many-Worlds inference—each face a strong contemporary alternative. [[coherence-inflation-countermeasures|Countering coherence inflation]] requires recording the residues honestly.
 
-**Integrated source-monitoring.** Source-monitoring theory (Johnson, Hashtroudi & Lindsay 1993) posits a multi-channel attribution system integrating perceptual detail, contextual binding, affective tone, cognitive operations, fluency, and inferential evaluation, weighted by self-relevance and confidence. Gentry (2021) extends the family with a self-attentional model on which the felt ownership of a recollection tracks self-bias salience in broadcasting episodic content to the global workspace. On the strong version, the felt character of remembering *is* what such a system feels like from the inside. Reply: source-monitoring identifies the mechanism; whether mechanism-identification suffices for *why mechanism-output is experienced at all* is the [[hard-problem-of-consciousness|hard problem]] relocated one tier up, not dissolved.
+**Integrated source-monitoring.** Source-monitoring theory (Johnson, Hashtroudi & Lindsay 1993) posits a multi-channel attribution system integrating perceptual detail, contextual binding, affective tone, cognitive operations, fluency, and inferential evaluation, weighted by self-relevance and confidence. Gentry (2023) extends the family with a self-attentional model on which the felt ownership of a recollection tracks self-bias salience in broadcasting episodic content to the global workspace. On the strong version, the felt character of remembering *is* what such a system feels like from the inside. Reply: source-monitoring identifies the mechanism; whether mechanism-identification suffices for *why mechanism-output is experienced at all* is the [[hard-problem-of-consciousness|hard problem]] relocated one tier up, not dissolved.
 
 **Everettian branch-local mineness.** On the Vaidman-line reading of [[many-worlds|Many-Worlds]], each decohered branch contains observers with determinate memories of a unique past *within that branch*. Both ontologies predict identical first-person reports. Reply: the No-Many-Worlds inference does not run through memory phenomenology alone but through the auxiliary [[haecceity]] commitment above. The disagreement is at the framework boundary.
 
@@ -178,11 +178,11 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-1. Gallagher, S. (2000). Philosophical conceptions of the self. *Trends in Cognitive Sciences*, 4(1), 14–21.
-1. Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773–786.
+1. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14–21.
+1. Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773–786.
 1. Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
 1. Klein, S. B., & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677–702.
-1. Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory. *Psychological Bulletin*, 121(3), 331–354.
+1. Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory: The frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331–354.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*. Trans. J. B. Brough. Kluwer.
 1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
 1. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
@@ -202,7 +202,7 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 1. McCarroll, C. J. (2018). *Remembering from the Outside: Personal Memory and the Perspectival Mind*. Oxford University Press.
 1. Robins, S. K. (2016). Misremembering. *Philosophical Psychology*, 29(3), 432–447.
 1. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin*, 114(1), 3–28.
-1. Gentry, H. (2021). Special attention to the self: A mechanistic model of patient RB's lost feeling of ownership. *Review of Philosophy and Psychology*, 14, 57–85.
+1. Gentry, H. (2023). Special attention to the self: A mechanistic model of patient RB's lost feeling of ownership. *Review of Philosophy and Psychology*, 14(1), 57–85. (First published online 2021.)
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 
 
