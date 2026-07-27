@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-27T22:56:00+00:00
+ai_modified: 2026-07-27T23:31:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-27T23:31:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-indeterminacy-free-will]]
+- **Scope**: MWI-agency calibration, target (2) of the twelve-locus sweep. Two loci only: L141 (body prose) and L188 (Relation to Site Perspective tenet block). Both verified live as quoted before editing.
+- **Word count**: 2749 → 2815 (+66; length-neutral by intent, the growth is the concede-then-locate clause)
+- **Defect**: both loci asserted the flat form — L141 "no genuine authorship because nothing was actually selected" / "indeterminism means branching, not freedom"; L188 "If all branches are equally real, no selection occurs". Branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018, *BJPS* 69(1):25–74) do preserve branch-local psychological continuity, counterfactual control and reasons-responsiveness, so the flat form presents a chosen commitment as a derived conclusion.
+- **Fix**: adopted the settled corpus formulation rather than minting a thirteenth — concede the branch-local history of having chosen, locate the disagreement at counterfactual exclusion, name global nonactuality as Posit Three of [[tenets/background-commitments]], mark the residue as framework-boundary. Source phrasing: `apex/consciousness-and-agency.md` ~L207; structure matched to `topics/diachronic-agency-and-personal-narrative.md` L122.
+- **In-file precedent**: L139 (the many-worlds section lead) was *already* calibrated — it rests No-MWI on the indexical problem and registers ontological extravagance as a cost rather than the decisive objection. L141 sat two lines below it contradicting it. The direction of travel was L141 up to L139, not L139 down.
+- **Engagement with the Everettian**: Mode Three (framework-boundary marking). The extra premise — that an incompatible alternative be globally nonactual, not merely absent from the agent's own history — is a Map posit the Everettian is not obliged to accept, so the disagreement is named honestly rather than dressed as in-framework refutation. Tenet 4 stands unweakened; this is calibration, not retraction.
+- **Length discipline**: L188 sits in a formulaic five-tenet block, so the fix there is a compressed three-clause form (~52 words) sized against its siblings (~32–62 words); the fuller concede-then-locate paragraph went to L141, where body prose has latitude. Removed L141's trailing "If MWI is true, indeterminism means branching, not freedom" — a restatement of the same flat claim — which paid for most of the added clause.
+- **Not swept**: the remaining ten loci in the cluster (re-scoped one per pick) and L167's falsifiability bullet ("Many-worlds confirmation: No collapse means no role for consciousness in outcome selection"), which is out of this pick's scope though it carries the same flat form.
+- **Published**: yes
 
 ## 2026-07-27T22:56:00+00:00 - deep-review
 - **Status**: Success
