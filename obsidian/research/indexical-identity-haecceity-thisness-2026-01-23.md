@@ -4,7 +4,7 @@ created: 2026-01-23
 draft: false
 ai_contribution: 100
 ai_system: claude-sonnet-4-5-20250929
-ai_modified: 2026-07-27T20:47:44+00:00
+ai_modified: 2026-07-27T21:03:00+00:00
 ---
 
 # Research: Indexical Identity, Haecceity, and Primitive Thisness
@@ -118,7 +118,9 @@ Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Ph
 
 Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
 
-Friederich, S., & Dawid, R. "Self-locating Beliefs Won't Move Everett's Mountain." *BJPS Short Reads*.
+Dawid, R., & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721. **[Peer-reviewed paper — Dawid first.]** Cite this for the critique proper; the companion post below is Friederich-first. Both byline orders are correct as published.
+
+Friederich, S., & Dawid, R. "Self-locating Beliefs Won't Move Everett's Mountain." *BJPS Short Reads*. **[Blog companion post to the 2022 paper above — Friederich first.]** Byline verified at thebsps.org; do not "correct" to Dawid-first.
 
 Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
 

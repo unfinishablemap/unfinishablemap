@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T21:03:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/probability-decision-theory-against-many-worlds-2026-03-04]], [[research/born-rule-derivation-attempts-2026-03-14]], [[research/indexical-identity-haecceity-thisness-2026-01-23]]
+- **Task**: close the residual harvest hazard flagged by the 20:47 pass — none of the three dossiers cited the 2022 *BJPS* paper, so harvesters citing the peer-reviewed work inherited the blog companion's byline order.
+- **Metadata verification**: Crossref (`api.crossref.org`, DOI `10.1093/bjps/axaa002`) returns title "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll", container *The British Journal for the Philosophy of Science*, 73(3), 711–721, issued 2022-09-01, authors Richard **Dawid** (sequence `first`) then Simon Friederich (`additional`).
+- **Changes**: added the 2022 paper to all three citation lists, alphabetically placed, in each dossier's own house style (probability-decision-theory: sentence-case bullet with DOI suffix; born-rule: bullet, unitalicised venue, DOI suffix; indexical-identity: blank-line-separated paragraph, no identifier, matching that list's convention). Each new entry carries the label **[Peer-reviewed paper — Dawid first.]**; each existing blog entry gained **[Blog companion post to the 2022 paper above — Friederich first.]** plus a "do not 'correct' to Dawid-first" note. born-rule-derivation-attempts had no blog entry in its citation list at all (blog referenced only in L96 prose), so both entries were added there.
+- **Byline discipline**: the three Friederich-first blog referents are **unchanged in byline order** — probability-decision-theory L239, indexical-identity-haecceity L123, born-rule L96 prose. Only trailing labels were appended to the two citation-list entries; the prose instance was not touched.
+- **Scope**: length-neutral apart from four added reference lines. No frontmatter fields added, no restructuring, no prose revision. `ai_modified` bumped on all three.
+- **Published**: yes
+
 ## 2026-07-27T20:47:44+00:00 - refine-draft
 - **Status**: Success (partial by design — see scope finding)
 - **File**: [[research/probability-decision-theory-against-many-worlds-2026-03-04]], [[research/indexical-identity-haecceity-thisness-2026-01-23]], [[research/born-rule-derivation-attempts-2026-03-14]]

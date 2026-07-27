@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-14
-ai_modified: 2026-06-05T14:26:16+00:00
+ai_modified: 2026-07-27T21:03:00+00:00
 human_modified:
 modified: 2026-03-14
 description: "Research on major attempts to derive the Born rule from deeper principles, their structural assumptions, and why each falls short of closing the probability gap."
@@ -150,7 +150,9 @@ Follow `obsidian/project/writing-style.md` for named-anchor summaries, backgroun
 - Auffèves, A. & Grangier, P. (2021). "Deriving Born's Rule from an Inference to the Best Explanation." https://hal.science/hal-03001936v1/document
 - Born, M. (1926). "Zur Quantenmechanik der Stoßvorgänge." Zeitschrift für Physik 37, 863–867.
 - Carroll, S. M. & Sebens, C. T. (2014). "Many Worlds, the Born Rule, and Self-Locating Uncertainty." arXiv:1405.7907.
+- Dawid, R. & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." British Journal for the Philosophy of Science 73(3), 711–721. DOI:10.1093/bjps/axaa002. **[Peer-reviewed paper — Dawid first.]** Cite this for the critique proper; the companion post below is Friederich-first. Both byline orders are correct as published.
 - Deutsch, D. (1999). "Quantum Theory of Probability and Decisions." Proceedings of the Royal Society A 455, 3129–3137.
+- Friederich, S. & Dawid, R. "Self-locating Beliefs Won't Move Everett's Mountain." BJPS Short Reads. **[Blog companion post to the 2022 paper above — Friederich first.]** Byline verified at thebsps.org; do not "correct" to Dawid-first.
 - Gleason, A. M. (1957). "Measures on the Closed Subspaces of a Hilbert Space." Journal of Mathematics and Mechanics 6, 885–893.
 - Neumaier, A. (2025). "The Born Rule — 100 Years Ago and Today." Entropy 27(4): 415. arXiv:2502.08545.
 - Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." Nature Physics 15, 1174–1177. arXiv:1811.11060.

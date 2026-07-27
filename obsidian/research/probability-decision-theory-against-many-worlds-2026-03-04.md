@@ -4,7 +4,7 @@ created: 2026-03-04
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-07-27T20:47:44+00:00
+ai_modified: 2026-07-27T21:03:00+00:00
 ---
 
 # Research: Probability and Decision-Theory Objections to Many Worlds
@@ -233,9 +233,10 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Albert, D. (2010). "Probability in the Everett picture." In *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 - Baker, D.J. (2007). "Measurement outcomes and probability in Everettian quantum mechanics." *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
 - Barnum, H. et al. (2000). "Quantum probability from decision theory?" *Proceedings of the Royal Society A*, 456, 1175-1182.
+- Dawid, R. & Friederich, S. (2022). "Epistemic separability and Everettian branches: a critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711-721. DOI:10.1093/bjps/axaa002. **[Peer-reviewed paper — Dawid first.]** Cite this for the critique proper; note that the companion post below is Friederich-first. Both byline orders are correct as published.
 - Deutsch, D. (1999). "Quantum theory of probability and decisions." *Proceedings of the Royal Society A*, 455, 3129-3137.
 - Everett, H. (1957). "'Relative state' formulation of quantum mechanics." *Reviews of Modern Physics*, 29, 454-462.
-- Friederich, S. & Dawid, R. "Self-locating beliefs won't move Everett's mountain." *BJPS Short Reads*.
+- Friederich, S. & Dawid, R. "Self-locating beliefs won't move Everett's mountain." *BJPS Short Reads*. **[Blog companion post to the 2022 paper above — Friederich first.]** Byline verified at thebsps.org; do not "correct" to Dawid-first.
 - Graham, N. (1973). "The measurement of relative frequency." In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
 - Kent, A. (2010). "One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation." In *Many Worlds?*, Oxford University Press. arXiv:0905.0624.
 - Lewis, P.J. (2007). "Uncertainty and probability for branching selves." *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
