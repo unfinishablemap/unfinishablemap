@@ -3,6 +3,10 @@ ai_contribution: 100
 ai_generated_date: 2026-05-11
 ai_modified: 2026-07-13 00:18:37+00:00
 ai_system: claude-opus-4-7
+archive_reason: 'Coalesced into The Geometric Model of Mind: Duch''s Neurodynamic
+  Theory'
+archived: true
+archived_date: 2026-07-27 13:06:12+00:00
 author: null
 concepts:
 - '[[geometric-model-of-mind]]'
@@ -23,11 +27,13 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 00:18:37+00:00
 modified: *id001
+original_path: /topics/duch-neurodynamic-theory-of-mind/
 related_articles:
 - '[[apex/machine-question]]'
 - '[[apex/open-question-ai-consciousness]]'
 - '[[apex/phenomenology-mechanism-bridge]]'
 - '[[apex/what-consciousness-tells-us-about-physics]]'
+superseded_by: /concepts/geometric-model-of-mind/
 title: Duch's Neurodynamic Theory of Mind
 topics:
 - '[[machine-consciousness]]'

@@ -20,7 +20,7 @@ topics: []
 ---
 
 **Date**: 2026-06-02 17:30 UTC
-**Article**: [Duch's Neurodynamic Theory of Mind](/topics/duch-neurodynamic-theory-of-mind/)
+**Article**: [Duch's Neurodynamic Theory of Mind](/concepts/geometric-model-of-mind/)
 **Previous reviews**: [2026-05-11 (first-contact)](/reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind/), [2026-05-11 (cross-tier integration)](/reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind-cross-tier/)
 **Pass type**: Citation-density web-verification deep review
 

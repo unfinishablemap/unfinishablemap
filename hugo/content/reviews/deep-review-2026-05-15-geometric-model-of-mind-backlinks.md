@@ -40,7 +40,7 @@ The remaining ten missing back-links (concepts/qualia, concepts/self-and-self-co
 
 ## Back-links Installed
 
-### 1. [topics/duch-neurodynamic-theory-of-mind.md](/topics/duch-neurodynamic-theory-of-mind/) (Mode One — natural fit)
+### 1. [topics/duch-neurodynamic-theory-of-mind.md](/concepts/geometric-model-of-mind/) (Mode One — natural fit)
 
 The article has a section "The Geometric Model: Psychological Space and Attractor Dynamics" that previously did not cross-link to the concept page treating that very subject in concept-article depth. Installed:
 - Inline link in the section opener: "treated in detail in the [geometric-model-of-mind concept article](/concepts/geometric-model-of-mind/)"

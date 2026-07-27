@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-05-11
-**Article**: [Duch's Neurodynamic Theory of Mind](/topics/duch-neurodynamic-theory-of-mind/)
+**Article**: [Duch's Neurodynamic Theory of Mind](/concepts/geometric-model-of-mind/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

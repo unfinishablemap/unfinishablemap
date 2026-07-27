@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-05-11 21:20 UTC
-**Article**: [Duch's Neurodynamic Theory of Mind](/topics/duch-neurodynamic-theory-of-mind/)
+**Article**: [Duch's Neurodynamic Theory of Mind](/concepts/geometric-model-of-mind/)
 **Previous review**: [2026-05-11 20:42 (first-contact deep review)](/reviews/deep-review-2026-05-11-duch-neurodynamic-theory-of-mind/)
 **Pass type**: Cross-tier reciprocal integration
 

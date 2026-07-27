@@ -5,6 +5,22 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T13:06:12+00:00 - coalesce
+- **Status**: Success
+- **Verdict**: redundancy-coalesce (per [[project/abandon-coalesce]]'s three-verdict decision space). The seam between the two articles was incidental — a concept page split off from a topic page about the same author's same programme, after which each restated the other's core exposition.
+- **Sources**: [[concepts/geometric-model-of-mind]] (2319w), [[topics/duch-neurodynamic-theory-of-mind]] (2518w)
+- **Target**: [[concepts/geometric-model-of-mind]] — retitled "The Geometric Model of Mind: Duch's Neurodynamic Theory". Merged into the existing concept file rather than a new slug, preserving the more heavily-referenced of the two URLs untouched.
+- **Archived**: [[archive/topics/duch-neurodynamic-theory-of-mind]] → `superseded_by: /concepts/geometric-model-of-mind/`
+- **Length**: 2319 + 2518 = 4837 combined → 3331 merged (−31%). `soft_warning`, comfortably under the 3500 concepts hard threshold. The reduction is pure deduplication: the 1998 Platonic-model formalism, the Duch & Naud 30-feature animal-concept result, the "mind function" framing, the 2018 fingerprinting / 2017 Lewin empirical infrastructure, the literal-shadow vs identity-theoretic reading pair, and the framework-stage two-tier appropriation each appeared in both sources in near-identical prose.
+- **Unique material preserved from each**: from the concept — the universality-of-inner-psychophysics / fluid-mechanics analogy, the cell-assembly substrate facts, and the "what the model does and does not settle" scope-limiting; from the topic — the articon argument, the anti-quantum-mind critique in full, mechanism-level substrate independence including the Claude 3 blog application, and the three-locus critique of the articon thesis.
+- **Section pressure**: `topics/` was at 320/320 (full, blocking expand-topic); now 319. `concepts/` unchanged at 319.
+- **Review debt not laundered**: `last_deep_review` set to the **older** component's value (2026-06-25T08:43:35, the concept's) rather than the topic's 2026-07-13. The merged text has not been reviewed in its merged form and should not read as if it had.
+- **Quotes**: all quoted strings carried through verbatim from the sources; no paraphrase was newly wrapped in quotation marks. One de-quoting: the topic's `"genuine understanding"` and `"understanding"` scare-quotes were unwrapped to plain prose since they were the article's own framing rather than Duch's words.
+- **Inbound links repointed**: `project/bedrock-clash-vs-absorption.md` (3 loci — frontmatter, §"sparsely instantiated", Further Reading), which names this as the canonical worked case for the agreement complement. No other live inbound references existed; `reviews/` history left intact as a historical record.
+- **Post-coalescence link audit** (per [[project/abandon-coalesce]] §"Post-Coalescence Internal-Link Audit"): old title — no residual hits in prose or reference lists; old slug URL — the merged article's self-citation to `unfinishablemap.org/topics/duch-neurodynamic-theory-of-mind/` removed from its References; duplicate live page — stale `hugo/content/topics/duch-neurodynamic-theory-of-mind.md` deleted (the known *coalesce-stale-hugo-duplicate-urls* defect, which sync does not handle), and `hugo/static/_redirects` regenerated so `/topics/duch-neurodynamic-theory-of-mind/ → /concepts/geometric-model-of-mind/ 301` (502 redirects total).
+- **Validation**: `scripts/validate.py hugo/content/` clean for both touched files; all body wikilinks resolve.
+- **Published**: yes
+
 ## 2026-07-27T12:47:08+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/active-reboot]]

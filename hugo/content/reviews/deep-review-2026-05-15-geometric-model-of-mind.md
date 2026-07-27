@@ -29,7 +29,7 @@ Six adversarial personas engaged the article. The dominant finding is calibratio
 
 ### Critical Issues Found
 
-- **Date error on Duch (1996/1997)**: Body and references list cited *Computer Physics Communications* paper as 1997. The consensus across the Map's other materials — sibling article [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/), apex article [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/), the [research notes](/research/wlodzislaw-duch-consciousness-2026-05-02/) (timeline and citations), and prior changelog — is 1996, which is also consistent with the cogprints PDF filename `96compmind.pdf`. **Fixed**: both occurrences updated to 1996.
+- **Date error on Duch (1996/1997)**: Body and references list cited *Computer Physics Communications* paper as 1997. The consensus across the Map's other materials — sibling article [duch-neurodynamic-theory-of-mind](/concepts/geometric-model-of-mind/), apex article [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/), the [research notes](/research/wlodzislaw-duch-consciousness-2026-05-02/) (timeline and citations), and prior changelog — is 1996, which is also consistent with the cogprints PDF filename `96compmind.pdf`. **Fixed**: both occurrences updated to 1996.
 
 ### Medium Issues Found
 
@@ -89,4 +89,4 @@ None. The article was created today and is now consistent with the Map's existin
 
 The two bedrock disagreements with Duch — physicalist denial of the phenomenal gap, and identity-theoretic denial that "renaming" is not "explaining" — are **framework-boundary** clashes, not correctable defects. Future reviews should NOT re-flag these as critical issues. The article's job is to mark the disagreement honestly, which it does.
 
-The article should also not be expanded beyond its current scope. It is a concept article describing Duch's geometric tooling; the deeper engagement with the articon and substrate-independence belongs in the sibling [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/) topic article. Convergence between the two articles is now achieved (date alignment), and they should be left to settle.
+The article should also not be expanded beyond its current scope. It is a concept article describing Duch's geometric tooling; the deeper engagement with the articon and substrate-independence belongs in the sibling [duch-neurodynamic-theory-of-mind](/concepts/geometric-model-of-mind/) topic article. Convergence between the two articles is now achieved (date alignment), and they should be left to settle.

@@ -33,7 +33,7 @@ topics: []
    - [concepts/interface-heterogeneity.md](/concepts/interface-heterogeneity/): `Wiest, M. C. et al. (2024)`.
    - [concepts/episodic-memory.md](/concepts/episodic-memory/): `Wiest, M. C. et al. (2025)`.
    - [topics/quantum-holism-and-phenomenal-unity.md](/topics/quantum-holism-and-phenomenal-unity/): `Wiest, M. C. (2025)`.
-   - [topics/duch-neurodynamic-theory-of-mind.md](/topics/duch-neurodynamic-theory-of-mind/): `Wiest, M. et al. (2025)` with DOI link confirming the *Neuroscience of Consciousness* niaf011 paper.
+   - [topics/duch-neurodynamic-theory-of-mind.md](/concepts/geometric-model-of-mind/): `Wiest, M. et al. (2025)` with DOI link confirming the *Neuroscience of Consciousness* niaf011 paper.
 
    The 2024 *eNeuro* and 2025 *Neuroscience of Consciousness* papers are both by **Mike (M. C.) Wiest**, neuroscientist at Wellesley College. "O. Wiest" is a different researcher (Olaf Wiest, computational chemist at Notre Dame) and is not the author of either paper. The vault's changelog history records two prior Wiest-attribution fixes ("Wiest single-author fix" 2026-W08; "Wiest wrong initial" 2026-W08) on adjacent articles; this article was missed in those passes.
 

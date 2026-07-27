@@ -26,7 +26,7 @@ related_articles:
 - '[[mechanism-costs-cartography]]'
 - '[[discrimination-problem]]'
 - '[[evidential-status-discipline]]'
-- '[[duch-neurodynamic-theory-of-mind]]'
+- '[[geometric-model-of-mind]]'
 - '[[tenets]]'
 title: Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline
 topics: []
@@ -75,7 +75,7 @@ The categories above all concern *disagreement* — an objection the article mus
 
 The canonical instance is Włodzisław Duch and Tenet 2 (Minimal Quantum Interaction). Duch rejects substantive quantum-mind proposals at Penrose-Hameroff scale because consciousness is fully classical-computational; the Map rejects the same proposals because parsimony favours the *smallest* non-physical influence — a minimal interface at the indeterminacy boundary, not a substantive quantum substrate. The conclusions coincide ("not large-scale quantum"); the reasoning is opposite (classical-sufficiency vs. minimal-but-real interaction). An article may borrow Duch's anti-coherence arguments at the convergence-point, but importing his classical-sufficiency commitment alongside them would silently delete the minimal interface the Bidirectional Interaction tenet requires. The same shape recurs wherever an eliminativist and the Map agree that some folk-psychological posit is not a fundamental physical kind, or where a hard-determinist and the Map agree that a naïve libertarian mechanism fails — convergence at the conclusion, divergence at the reason.
 
-This complement is *sparsely instantiated* — at the time of writing it rests on essentially one well-developed worked case (Duch, treated in [the Duch article](/topics/duch-neurodynamic-theory-of-mind/), [the comparison article](/topics/comparing-quantum-consciousness-mechanisms/), and [the quantum-consciousness concept](/concepts/quantum-consciousness/)) plus thinner gestures elsewhere. Applying [evidential-status-discipline](/project/evidential-status-discipline/) to this methodology itself: the pattern is named here as a *recognised editorial hazard with one strong exemplar*, not as a robustly attested discipline with a deep case base. If further instances accrue it may warrant fuller articulation; until they do, the single sentence — *shared conclusion, separate the reasoning, importing the opponent's reasoning is a category error* — is the whole of the discipline.
+This complement is *sparsely instantiated* — at the time of writing it rests on essentially one well-developed worked case (Duch, treated in [the Duch article](/concepts/geometric-model-of-mind/), [the comparison article](/topics/comparing-quantum-consciousness-mechanisms/), and [the quantum-consciousness concept](/concepts/quantum-consciousness/)) plus thinner gestures elsewhere. Applying [evidential-status-discipline](/project/evidential-status-discipline/) to this methodology itself: the pattern is named here as a *recognised editorial hazard with one strong exemplar*, not as a robustly attested discipline with a deep case base. If further instances accrue it may warrant fuller articulation; until they do, the single sentence — *shared conclusion, separate the reasoning, importing the opponent's reasoning is a category error* — is the whole of the discipline.
 
 ## The Decision Heuristic
 
@@ -140,7 +140,7 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 - [apophatic-cartography](/voids/apophatic-cartography/) — methodological sibling: apophatic articles are particularly prone to needing clash treatment because their structural claims attract Madhyamaka-style worries
 - [discrimination-problem](/concepts/discrimination-problem/) — a canonical instance of a framework-boundary disagreement that data alone cannot settle: rival physicalist-functionalist and realist readings cohabit the shared body of evidence with no in-evidence discriminator, so the disagreement is properly handled as a bedrock clash rather than absorbed into either reading
 - [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive method whose move-three residue is frequently a bedrock clash: the method tells you *where* the framework-boundary disagreement sits (the seam the strongest rival cannot close from inside its own commitments); this discipline tells you *how* to install it as a named, replied-to subsection once found
-- [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/) — the canonical worked case for the agreement complement (convergent-conclusion-opposite-reasoning): a competent opponent who reaches a tenet-aligned first-order conclusion through reasoning the Map cannot import
+- [geometric-model-of-mind](/concepts/geometric-model-of-mind/) — the canonical worked case for the agreement complement (convergent-conclusion-opposite-reasoning): a competent opponent who reaches a tenet-aligned first-order conclusion through reasoning the Map cannot import
 - [evidential-status-discipline](/project/evidential-status-discipline/) — applied here to the methodology itself: the agreement complement is flagged as one-exemplar-thin rather than over-claimed as a robust pattern
 
 ## References

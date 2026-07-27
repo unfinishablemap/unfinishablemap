@@ -6,6 +6,11 @@ modified: 2026-05-11
 human_modified:
 ai_modified: 2026-07-13T00:18:37+00:00
 draft: false
+archived: true
+archived_date: 2026-07-27T13:06:12+00:00
+superseded_by: "/concepts/geometric-model-of-mind/"
+archive_reason: "Coalesced into The Geometric Model of Mind: Duch's Neurodynamic Theory"
+original_path: "/topics/duch-neurodynamic-theory-of-mind/"
 topics:
   - "[[machine-consciousness]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
