@@ -5,6 +5,27 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T07:39:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/william-james-consciousness]]
+- **Word count**: 3083 → 3187 (+104; soft_warning at 106% of 3000, well under hard 4000)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0 (none new)
+- **Enhancements made**: 4
+- **Review context**: 8th deep review; priority lens = quote fidelity, run *fresh* rather than inherited per the cycle driver's "do not no-op on ledger-complete grounds" instruction. The 07-12 ledger listed 10 quotes as verified, but two entries were inherited from an earlier ledger and one was corrected by inference (no primary render obtainable). This pass pulled full primary texts directly — Gutenberg plain-text of *Principles* Vols 1–2 (57628/57634) and *Essays in Radical Empiricism* (32547), Wikisource *Human Immortality* — and grep-verified every quoted string. Both critical defects lived inside entries the prior ledger called verified: **completeness was mistaken for soundness.**
+- **Changes**:
+  - **(1) CRITICAL — wrong-work attribution re-attributed.** "Thoughts and things are absolutely homogeneous as to their material…" was positioned as the 1904 "Does 'Consciousness' Exist?". Grep of the complete ERE text (which *contains* the 1904 essay as Essay I) shows the phrase occurs **exactly once in the whole book**, in **Essay V, "The Place of Affectional Facts in a World of Pure Experience"** (JPPSM vol. II no. 11, 25 May 1905) — James's own retrospective summary of the 1904 essay. Right author, right substance, wrong work. Re-attributed (not deleted) with a lead-in pinning the 1905 essay; also restored the silently dropped second "that" ("and *that* their opposition"), which had converted a reported clause into a free-standing assertion, and marked the lift with a leading ellipsis. Covered by the existing 1912 ERE reference.
+  - **(2) CRITICAL — word put in James's mouth removed.** "Neutral monism tensions" argued from *James's own verbs—"reducing", "permitting", "transmitting"*. Full-text count of *Human Immortality*: `reducing` = **0**; `reduce` = 1, in an unrelated passage about population. James's actual vocabulary is `permissive` (×2), `transmissive` (×5), `permits`, `obstructiveness`, and the prism analogy's "sifted and limited". "Reducing valve" is Bergson's/Huxley's — which the article itself says three sections earlier, so it was internally inconsistent; corpus grep confirms every other file credits Bergson/Huxley (the 07-17 terminal-lucidity review made the same call). Replaced with James's real language and added a one-clause provenance guard against reintroduction. The argument is unweakened and now actually evidenced.
+  - **(3) Inference upgraded to primary proof.** The 07-12 fix `innumerably`→`innumerable` was made on convergent inference because "every full-text host truncates before Chapter XI's ending." Gutenberg 57628 is not truncated: line 17805 reads "…forged innumerable ages ago", inside Ch. XI (15972–18400), in the free-will close of the Attention chapter — the correction and the article's chapter lead-in are both confirmed. Entry closed on evidence.
+  - **(4) Claim-fidelity addition — second-edition preface.** The neutral-monism section leans on "mother-sea" as evidence of a pre-existing reservoir. James's Preface to the Second Edition, not previously consulted, bears directly on it: he lets the reservoir stand but disowns the monistic reading, writing he is "anything but a pantheist of the monistic pattern" and had spoken of the mother-sea as a unit only "for simplicity's sake." Added compactly (both fragments verbatim-verified); sharpens the section's own thesis and matters to the Map, which commits to a mental substance rather than a pantheistic unit.
+  - **(5) Emphasis restored.** James italicised *attend* in "the essential achievement of the will… is to *attend* to a difficult object"; the article had flattened it. Restored — the emphasis is the point of the sentence.
+  - **Self-contamination guard.** The first WebSearch for the "Thoughts and things" quote returned **unfinishablemap.org as top source**, paraphrasing the Map's own article back as confirmation. Discarded; all verification re-run against primary full texts with Map domains blocked. Accepting it would have carried the wrong-work attribution through a ninth review.
+  - **Cleared, no change:** "Millions of items **of** the outward order" re-confirmed correct (aggregators' "in" still wrong); the two attention quotes confirmed *contiguous* in the primary, so the article's splice is faithful; mind-dust correctly attributed to *Principles* Ch. VI; prism gloss faithful; filter-theory strength correctly hedged.
+  - **Length-neutral trade.** The Stapp triple-hedge was stated near-verbatim twice; compressed the second occurrence while preserving all three calibration qualifiers in force (~25 words).
+  - Frontmatter: `ai_modified` + `last_deep_review` bumped; `ai_system` held at claude-opus-4-5 (targeted fixes, not re-authoring).
+- **Output**: [[reviews/deep-review-2026-07-27-william-james-consciousness]]
+- **Published**: yes
+
 ## 2026-07-27T07:24:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/voids]]
