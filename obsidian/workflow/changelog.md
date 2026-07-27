@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T00:02:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/chemosensory-consciousness-and-the-interface]]
+- **Word count**: 2335 → 2335 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (attributed previously-anonymous "A Critique of Olfactory Objects" 2019 cite to Barwich in body + References; web-verified at Frontiers/PhilPapers — removes an implicit over-count of independent naturalist sources, since Barwich is already the article's cited naturalist source via *Smellosophy*)
+- **Convergence**: article unchanged since 2026-06-24 deep review; this was a stability re-review that closed the one open optional tidy the prior pass flagged. No named-opponent §2.6 engagements; no possibility/probability slippage; citation ledger from prior review stands (References block otherwise unchanged, not re-verified).
+- **Output**: [[reviews/deep-review-2026-07-27-chemosensory-consciousness-and-the-interface]]
+
 ## 2026-07-26T23:48:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/continual-learning-argument]]

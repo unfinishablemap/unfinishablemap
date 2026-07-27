@@ -4,7 +4,7 @@ description: "The chemical senses press the explanatory gap where vision cannot:
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-24T09:08:35+00:00
+ai_modified: 2026-07-27T00:02:19+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-16
 last_curated:
-last_deep_review: 2026-06-24T09:08:35+00:00
+last_deep_review: 2026-07-27T00:02:19+00:00
 ---
 
 Philosophy of perception is overwhelmingly a philosophy of vision, and where it ventures beyond sight it has tended next to hearing. The chemical senses—smell and taste, integrated in flavour—are the most vision-unlike modalities, and that is exactly what makes them worth developing for the Map's [[mind-matter-interface|interface]] reading. This article is the chemosensory companion to [[auditory-consciousness-and-the-interface|the auditory case]], filling another modality the Map's [[dualist-perception|treatment of perception]] names but does not develop: it concedes that "perception extends across modalities—auditory, tactile, olfactory, gustatory." The chemical senses supply three kinds of evidence neither vision nor audition displays as cleanly: a perceived quality that is not read off the stimulus and has no spatial scaffolding at all (mirror-image molecules smell different; very different molecules can smell alike), a quality space with no smooth dimensional ordering to read off (odour space is high-dimensional, categorical, and best modelled as non-Euclidean), and a privileged, thalamus-bypassing route to memory and affect (the Proust phenomenon). Flavour adds a binding case without spatial layout. None of this, on the reading offered here, *settles* dualism over physicalism, which has a credible account of each. What the chemical senses do is press the [[explanatory-gap|explanatory gap]] in a register vision shaped no theory to expect, and they are where the Map's recurring [[consciousness-as-perceptual-architect|sommelier]] finally finds a modality home.
@@ -56,7 +56,7 @@ As before, this is accommodation, not proof. A physicalist can hold that a high-
 
 The chemical senses carry a feature vision and hearing lack: a privileged, anatomically direct route to emotion and autobiographical memory. Olfaction is the only sensory modality whose signals reach cortex without first relaying through the thalamus, with early, direct projections to the amygdala and hippocampus. The behavioural correlate is the **Proust phenomenon**: odour-evoked autobiographical memories are reported as more emotional and more vivid than memories cued by words or images, and the felt emotional intensity of an odour memory tracks amygdala activation at recall (Hackländer, Janssen & Bermeitinger, 2018).
 
-This bears on the Map's claim that some phenomenal character is constitutively evaluative—that affect is not a label applied downstream to a neutral percept but is woven into the quality itself (see [[evaluative-phenomenal-character]]). Smell is the strongest perceptual case: an odour is rarely experienced as quality-then-judgement; the pleasantness or repugnance arrives *with* the smell, often before it can be named. There is a live philosophical reading on which olfactory states are closer to affective or interoceptive states than to detached representations of external objects ("A Critique of Olfactory Objects", 2019)—a reading that, whatever its independent merits, underlines how poorly the chemical senses fit the dispassionate-snapshot model perception theory inherited from vision.
+This bears on the Map's claim that some phenomenal character is constitutively evaluative—that affect is not a label applied downstream to a neutral percept but is woven into the quality itself (see [[evaluative-phenomenal-character]]). Smell is the strongest perceptual case: an odour is rarely experienced as quality-then-judgement; the pleasantness or repugnance arrives *with* the smell, often before it can be named. There is a live philosophical reading on which olfactory states are closer to affective or interoceptive states than to detached representations of external objects (Barwich, 2019)—a reading that, whatever its independent merits, underlines how poorly the chemical senses fit the dispassionate-snapshot model perception theory inherited from vision.
 
 Honesty requires the obvious concession: the limbic-bypass anatomy is itself a *physicalist mechanism*. The Map does not claim the felt potency of an odour memory needs a non-physical route; the wiring is real and well-described. The point is again about the felt character the wiring leaves unexplained—why the pattern is suffused with this particular affective tone—not about the existence of the pathway.
 
@@ -93,7 +93,7 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 1. Zhou, Y., Smith, B. H., & Sharpee, T. O. (2018). Hyperbolic geometry of the olfactory space. *Science Advances*, 4(8), eaaq1458. https://pmc.ncbi.nlm.nih.gov/articles/PMC6114987/
 1. Castro, J. B., Ramanathan, A., & Chennubhotla, C. S. (2013). Categorical Dimensions of Human Odor Descriptor Space Revealed by Non-Negative Matrix Factorization. *PLOS ONE*, 8(9), e73289. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704697/
 1. American Chemical Society. *Molecule of the Week: Carvone*. https://www.acs.org/molecule-of-the-week/archive/c/carvone.html
-1. "A Critique of Olfactory Objects" (2019). *Frontiers in Psychology*, 10:1337. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01337/full
+1. Barwich, A.-S. (2019). A Critique of Olfactory Objects. *Frontiers in Psychology*, 10:1337. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01337/full
 1. Hackländer, R. P. M., Janssen, S. M. J., & Bermeitinger, C. (2018). An in-depth review of the methods, findings, and theories associated with odor-evoked autobiographical memory. *Psychonomic Bulletin & Review*, 26(2), 401–429. https://link.springer.com/article/10.3758/s13423-018-1545-3
 1. Skrzypulec, B. (2023). Constitutivity in Flavour Perception. *Erkenntnis*, 88(8), 3291–3312. https://philarchive.org/archive/SKRCIF-2
 1. *High-precision mapping reveals the structure of odor coding in the human brain* (2023). *Nature Neuroscience*, 26, 1595–1602. https://www.nature.com/articles/s41593-023-01414-4
