@@ -4,7 +4,7 @@ created: 2026-05-02
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
-ai_modified: 2026-05-23T12:00:00+00:00
+ai_modified: 2026-07-27T14:09:36+00:00
 related_articles:
   - "[[concepts/biological-computationalism]]"
   - "[[concepts/quantum-consciousness]]"
@@ -48,15 +48,16 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
   - Empirical validation via 30-feature animal-concept space matched against human similarity-judgment MDS maps (Duch & Naud).
   - Symbols and abstract concepts emerge as relations between primary (sensory/iconic) mind objects.
 - **Tenet alignment**: Conflicts with Tenet 1 (Dualism) — explicitly grounds mental content in neurodynamics. Neutral toward Tenets 2–4 (does not engage quantum mechanics at this stage).
-- **Quote (paraphrase from search result)**: "Objects and events in psychological space correspond to quasi-stable states of brain dynamics and may be interpreted from a psychological point of view."
+- **Quote (VERBATIM, verified 2026-07-27 against Duch's own deposit `fizyka.umk.pl/publications/kmk/mind-2.pdf`, abstract)**: "Objects and events in these spaces correspond to quasi-stable states of brain dynamics and may be interpreted from psychological point of view." Note the two points on which the earlier search-derived paraphrase differed and must not be reintroduced: Duch writes "in these spaces" (antecedent: psychological spaces), not "in psychological space", and "from psychological point of view" without the article "a".
 
 ### Duch, W. — "Computational physics of the mind" (1996/2000s)
-- **URL**: https://web-archive.southampton.ac.uk/cogprints.org/914/1/96compmind.pdf (PDF inaccessible from this session; abstract retrieved via search)
-- **Type**: Journal article (*Computer Physics Communications*, 1997 — the original venue)
+- **URL**: https://fizyka.umk.pl/publications/kmk/96compmind.pdf (full text retrieved and grepped 2026-07-27; the cogprints mirror at web-archive.southampton.ac.uk now returns 403)
+- **Type**: Journal article, *Computer Physics Communications* 97(1–2): 136–153, August 1996 (Crossref-confirmed; the "1997" recorded in an earlier pass is wrong)
 - **Key points**:
   - Frames cognitive science as a target for the same modelling discipline physics applies to other domains.
-  - Posits a "mind function" defined over psychological space; mind objects are regions where the function is non-zero; their shape corresponds to basins of attraction in the underlying neurodynamics.
-  - Argues for "the universality of inner psychophysics" — psychological space as an object with its own regularities, even though it is grounded in neurodynamics.
+  - Posits a "mind function" defined over the "mind space" (Duch's term in this paper; the 1998 chapter calls the same construct "psychological spaces"); mind objects are regions where the function is non-zero; their shape corresponds to basins of attraction in the underlying neurodynamics.
+  - Places the programme inside psychophysics — "the branch of physics devoted to understanding the relations of the brain and mental processes" — and offers the formalism as "a bridge between the brain and the mind, or neuroscience and psychology" (both verbatim, Summary section).
+- **CORRECTION (2026-07-27)**: an earlier version of this entry attributed to Duch the phrase "the universality of inner psychophysics" and the gloss "psychological space as an object with its own regularities". **Neither is Duch's.** The full 1996 text contains no occurrence of "inner psychophysics" or "universality". The phrase is **Ihor Lubashevsky's**, from "Psychophysical laws as reflection of mental space properties" (*Physics of Life Reviews* 2019, arXiv:1806.11077), whose abstract reads "…pose the concept of the universality of inner psychophysics and enable to speak about psychological space as an individual object with its own properties", and who credits the underlying hypotheses to **Robert Teghtsoonian**. "Inner psychophysics" is originally Fechner's term. The likely route of the error: Duch's 2019 *Physics of Life Reviews* 31:28–31 piece sits in the same journal and period as Lubashevsky's, and a search-derived pass collapsed the two. Do not re-attribute this phrase to Duch.
 - **Tenet alignment**: Conflicts with Tenet 1 — physics-of-mind framing is reductive in spirit. Methodologically interesting for the Map: the *intermediate-level* description is something the Map's articles on phenomenology-of-consciousness-doing-work and what-consciousness-tells-us-about-physics could appropriate without endorsing the underlying metaphysics.
 
 ### Duch, W. — "Brain-inspired conscious computing architecture" (2005, *Journal of Mind and Behavior*)
