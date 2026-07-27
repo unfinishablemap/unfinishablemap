@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-11 05:35:00+00:00
+ai_modified: 2026-07-27 17:31:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -82,7 +82,7 @@ Compatibilist desert is pragmatic: holding people responsible has good consequen
 
 ## The Role of Consciousness
 
-Moral responsibility requires consciousness. The agent that sources action is a conscious being with [mental causation](/concepts/mental-causation-and-downward-causation/). This connects to the [consciousness-value-connection](/concepts/consciousness-value-connection/): just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). [phenomenal-value-realism](/topics/phenomenal-value-realism/) deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame.
+Moral responsibility requires consciousness. The agent that sources action is a conscious being with [mental causation](/concepts/mental-causation-and-downward-causation/). This connects to the [consciousness-value-connection](/concepts/consciousness-value-connection/), though the two roles come apart. Consciousness grounds candidacy for moral *patienthood* (who can be harmed) directly; moral *agency* (who can be responsible) requires the further capacities agent causation presupposes—control over conduct, access to reasons, a genuine range of options, and the competence to recognise what is at stake—which infants, most animals, and any minimally-phenomenal subject lack. [phenomenal-value-realism](/topics/phenomenal-value-realism/) deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame; consciousness is necessary for that standing without conferring it.
 
 **Experience of alternatives**: Conscious choice involves experiencing alternatives as live options. Under agent causation, this phenomenology tracks reality—the alternatives were genuinely possible. The [phenomenology of moral life](/topics/phenomenology-of-moral-life/) traces the full arc of this experience—from perceiving moral demands through deliberative weighing to the felt ownership of having chosen.
 

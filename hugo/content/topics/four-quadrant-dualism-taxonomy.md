@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-07-13 16:30:18+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-07-27 17:49:03+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - substance-property-dualism
@@ -19,7 +19,7 @@ description: Two-axis taxonomy sorting dualist positions by how much ontological
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 02:23:49+00:00
+last_deep_review: 2026-07-27 17:49:03+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -41,6 +41,7 @@ related_articles:
 - '[[interface-formalization-void]]'
 - '[[the-steelman-for-process-monism]]'
 - '[[interaction-problem-across-traditions]]'
+- '[[tenets/background-commitments]]'
 title: The Four-Quadrant Taxonomy of Dualist Positions
 topics:
 - dualism
@@ -80,7 +81,7 @@ The thickness axis is orthogonal to the substance/property distinction and to Ch
 
 ## The Four Quadrants
 
-A scope note before the quadrants: the taxonomy ranges over non-reductive positions on mind–matter, including a few monist limit cases (neutral monism, Berkeleyan idealism, Kastrup's analytic idealism) that arguably sit at the edges of the quadrant structure and may illuminate what adjacent dualisms commit to; monist entries are flagged as such and included for contrast, not classification-as-dualism. The Everettian many-worlds interpretation is out of frame here for a different reason: the grid presupposes a mind–matter relation, and many-worlds declines that relation rather than locating itself on the axes — the interaction problem the axes parameterise does not arise for it. The Map's separate case against many-worlds is made on its own grounds (see [many-worlds-argument](/arguments/many-worlds-argument/)), not by exclusion from this taxonomy.
+A scope note before the quadrants: the taxonomy ranges over non-reductive positions on mind–matter, including a few monist limit cases (neutral monism, Berkeleyan idealism, Kastrup's analytic idealism) that arguably sit at the edges of the quadrant structure and may illuminate what adjacent dualisms commit to; monist entries are flagged as such and included for contrast, not classification-as-dualism. The Everettian many-worlds interpretation is out of frame here for a different reason: it interprets physics rather than taking a position on the mind–matter relation the grid parameterises, and says nothing about mind-side weight. An Everettian *dualist* would be locatable — max-physical, every branch actual, mind-thickness open — so the Map's quarrel with branching is not taxonomic but rests on the [global-exclusion posit](/tenets/background-commitments/) that unchosen alternatives are nowhere actual: a chosen starting point, not a result this grid delivers (see [many-worlds-argument](/arguments/many-worlds-argument/)).
 
 ### Quadrant 1: min-mind / min-physical {#q1}
 
@@ -130,7 +131,7 @@ Q4 is under-discussed in contemporary analytic philosophy. The first and weighti
 
 ## Why the Thickness Axis Matters
 
-The dominant taxonomies (substance vs property; Type-D / Type-E / Type-F) organise dualism by the *kind* of mind–matter relation. Two positions that agree on kind can disagree sharply on thickness — and their implications for consciousness science, for interaction, and for what we should expect to find empirically may then diverge. The axis earns its keep as a heuristic: it surfaces a question the relation-type taxonomies do not pose, even where the placement of any given position on it remains a judgement call (the §"Limits of the Thickness Metaphor" above concedes that the measure conflates four distinguishable dimensions and that some placements are made by judgement rather than definition). The pay-off below is that question-surfacing power, not a claim to sort positions by a criterion sharper than the relation-type line.
+The dominant taxonomies (substance vs property; Type-D / Type-E / Type-F) organise dualism by the *kind* of mind–matter relation. Two positions that agree on kind can disagree sharply on thickness — and their implications for consciousness science, for interaction, and for what we should expect to find empirically may then diverge. The axis earns its keep as a heuristic: it surfaces a question the relation-type taxonomies do not pose, even where the placement of any given position on it remains a judgement call (as §"Limits of the Thickness Metaphor" above concedes in detail). The pay-off below is that question-surfacing power, not a claim to sort positions by a criterion sharper than the relation-type line.
 
 Stapp is perhaps the cleanest illustration. His view is interactionist (Type-D by relation), but the thickness axis seems to separate two features of his account that are usually conflated: the *intervention channel* is minimal (quantum-Zeno biasing only), while the *observer itself* appears ontologically thick. "Minimal intervention" and "rich mind" are not the same dimension, and reading Stapp as minimal on both axes misses half the structure. The quadrants' inhabitants instantiate structural types that recur across traditions: the [five structural types of interaction solution](/topics/interaction-problem-across-traditions/) supply the interface logic these positions adopt — Stapp's narrow-channel/thick-endpoints account sits in the quantum-openings (Type-4) family at Q4, while process positions sit in the dissolution-through-process (Type-3) family at the monist edge.
 
@@ -142,7 +143,7 @@ What each cell *costs* to inhabit — its causation account, interface specifica
 
 The Map's five [tenets](/tenets/) interact with the thickness taxonomy in a specific way.
 
-The **Dualism** tenet rules out the idealist limit of Q3 but is compatible with Q1, Q2, Q4 (and with Q3 short of the idealist limit). The [Bidirectional Interaction](/concepts/bidirectional-interaction/) tenet rules out *pure* Q2 epiphenomenalism and Type-E positions — Q2 is then only open to "weak causal efficacy" readings that collapse toward Q1. The **Minimal Quantum Interaction** tenet pushes the physical side toward min (physics is complete except at probabilistic indeterminacies) but does not directly constrain mind-side thickness. Whether there are brain-scale indeterminacies for an MQI channel to exploit is itself empirically contested — Tegmark's (2000) decoherence argument that neural coherence times are orders of magnitude too short is the standard objection; see [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) for the current state of the debate. **No Many Worlds** is largely orthogonal to the thickness axes. **Occam's Razor Has Limits** *explicitly refuses* to let thinness count automatically as a virtue — permitting Q4 as a live option where parsimony-only arguments would rule it out.
+The **Dualism** tenet rules out the idealist limit of Q3 but is compatible with Q1, Q2, Q4 (and with Q3 short of the idealist limit). The [Bidirectional Interaction](/concepts/bidirectional-interaction/) tenet rules out *pure* Q2 epiphenomenalism and Type-E positions — Q2 is then only open to "weak causal efficacy" readings that collapse toward Q1. The **Minimal Quantum Interaction** tenet pushes the physical side toward min (physics is complete except at probabilistic indeterminacies) but does not directly constrain mind-side thickness. Whether there are brain-scale indeterminacies for an MQI channel to exploit is itself empirically contested — Tegmark's (2000) decoherence argument that neural coherence times are orders of magnitude too short is the standard objection; see [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) for the current state of the debate. **No Many Worlds** rules out one max-physical option — every branch actual — and is otherwise orthogonal to the axes. **Occam's Razor Has Limits** *explicitly refuses* to let thinness count automatically as a virtue — permitting Q4 as a live option where parsimony-only arguments would rule it out.
 
 Net: the tenets forbid pure Q2 and the idealist limit of Q3, leaving Q1, Q4, and physical-thin / mind-variable hybrids in between as genuine options. The Map's current default reading — physical-thin plus mind-medium — sits close to Q1 with room to expand along the mind axis if Myersian or Jamesian evidence warrants. The choice among the surviving quadrants is underdetermined by the evidence the tenets supply: the Map is not committed to a specific quadrant but to a *region* of the taxonomy that excludes only the epiphenomenalist and idealist extremes. How much latitude that region actually affords depends on whether Q1 turns out to be a genuine quadrant rather than a degenerate limit between Q2 and Q4 (the [articulability](/concepts/articulability-of-q1/) open question below): if Q1 collapses, the surviving interior is narrower than "a region" might suggest, bounded below by an unworkable Q1 and above by parsimony-costly Q4. The "region, not a cell" framing is a claim about which extremes are excluded, not a promise of comfortable room to manoeuvre.
 

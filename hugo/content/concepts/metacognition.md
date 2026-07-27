@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-07-26 12:31:45+00:00
+ai_modified: 2026-07-27 19:46:15+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -240,7 +240,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Ko, Y., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1401-1411.
 1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
-1. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004
+1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004
 1. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. HarperCollins.
 1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
