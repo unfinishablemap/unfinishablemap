@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T19:04:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Task**: third and final locus of the Mashour over-citation family (siblings `topics/anaesthesia-and-the-consciousness-interface` and `concepts/active-reboot` fixed earlier today).
+- **Defect**: §Anaesthesia, the "Three further phenomena" paragraph. The KCC2 mechanism-shared observation carried a trailing "(Mashour et al., 2021)" — but the KCC2 finding is Hu et al. (2023), *Nature Neuroscience* 26:751-764, which the same sentence-pair already names correctly two clauses earlier. Mashour et al. (2021), *eLife* 10:e59525, is a single-agent isoflurane recovery-sequencing study in 60 healthy humans: no KCC2, no agent comparison, no molecular mechanism.
+- **Disposition — re-attribution, not deletion**: reference 9 (Mashour et al., 2021) is real and correct in every field (Crossref-verified 2026-07-27) and is **retained**, now cited in-text for what it does establish — "The within-agent sequencing is non-mirroring too: executive function returns before reaction time and simpler sensorimotor tasks (Mashour et al., 2021)". The standing rule applies: a citation is fabricated only if the *work* cannot be found, never merely because it fails to support the claim attached to it.
+- **Asymmetry re-pointed**: the paragraph's opening claim, "recovery from anaesthesia is not simply the reverse of induction", was unsourced and now carries **Mashour (2024)**, *Neuron* 112(10):1553-1567, DOI 10.1016/j.neuron.2024.03.002 — the work that actually states the induction/emergence asymmetry ("the neurobiology of exiting the anesthetized state is not a simple mirror image of entering the anesthetized state"). This also sources the following sentence's previously unsupported "empirically robust across human, primate, and rodent studies". Added as reference 10; references 10-16 renumbered to 11-17 (in-text citation is author-year throughout, so no cross-references broke).
+- **Wording reuse (no third formulation)**: the disposition matches `concepts/active-reboot` — Mashour (2024) for the review-level asymmetry, Mashour et al. (2021) re-scoped to the within-agent sequencing with executive function returning first. The "empirically robust across human, primate, and rodent studies … it is the framing's *interpretation* as evidence about the interface, not the asymmetry itself, that remains a live hypothesis" sentence was already the settled shared wording with `topics/anaesthesia-and-the-consciousness-interface` and was left untouched.
+- **Out of scope, untouched** per task instruction: the framework-stage calibration on the quantum-selection gloss (stochastic emergence) and the neural-inertia material — both correctly hedged and not part of this finding.
+- **Engagement classification**: no named-opponent reply in the edited passage; no mode labels in the body.
+- **Word count**: 4795 → 4824 (+29, of which 14 are the new reference line; body prose +15). `soft_warning` before and after, under the 5000 apex hard ceiling.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — a two-sentence citation correction is not a re-authoring, matching the sibling `concepts/active-reboot` pass earlier today which likewise held its attribution.
+- **Published**: yes
+
 ## 2026-07-27T18:32:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/consciousness-and-agency]]
