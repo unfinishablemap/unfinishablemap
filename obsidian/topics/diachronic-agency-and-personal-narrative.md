@@ -4,7 +4,7 @@ description: "Agency extended across time requires narrative structure—not as 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-07-27T17:17:24+00:00
+ai_modified: 2026-07-27T22:31:30+00:00
 last_deep_review: 2026-06-25T16:09:21+00:00
 draft: false
 topics:
@@ -119,7 +119,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The minimality constraint matters for diachronic agency because it clarifies the *scale* of consciousness's involvement. Each individual choice requires only a tiny quantum-level influence—a selection among physically permitted outcomes. The impressive temporal coherence of diachronic agency emerges not from massive interventions but from sustained sequences of minimal selections, organised by narrative structure into patterns no single selection contains.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Many-worlds eliminates diachronic agency. If every choice branches into all alternatives equally realised, then no agent sustains a project—every project is equally sustained and equally abandoned across branches. The coherence of a life, the meaning of perseverance, the moral weight of sustained commitment—all dissolve into branch-counting. The Map's rejection of many-worlds preserves the singular temporal trajectory within which diachronic agency operates.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The objection here is about exclusion, not continuity. An Everettian can grant the agent a branch-local project—a determinate history of choices sustained along one branch, with the psychological continuity and reasons-responsiveness that perseverance involves. What branching cannot grant is that the abandonments did not also happen: every project sustained here is equally abandoned by a counterpart elsewhere, so no commitment excludes the alternative it was a commitment against. That the unchosen be *globally* nonactual is a [[tenets/background-commitments|posit the Map adopts]] rather than a conclusion the agency case delivers, and the disagreement sits at the framework boundary. The Map's rejection of many-worlds preserves the singular temporal trajectory within which diachronic agency operates.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A reductionist might insist that "diachronic agency" is just a description of sequential choices and "narrative" just a cognitive afterthought. Parsimony would eliminate the substantial self and explain coherence through habit, reinforcement, and memory alone. But this misses the phenomenon: the agent's capacity to *reorganise* their narrative—to reinterpret past choices, redirect current efforts, revise future plans—in a unified act that presupposes a subject for whom past, present, and future are simultaneously available. The simpler account cannot capture what it is like to live a life rather than merely undergo a sequence.
 

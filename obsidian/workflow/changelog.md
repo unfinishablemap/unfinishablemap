@@ -5,6 +5,19 @@ ai_modified: 2026-07-27T21:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T22:31:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/diachronic-agency-and-personal-narrative]]
+- **Task**: target (1) of the twelve-locus No-MWI-on-agency-grounds calibration sweep downstream of Posit Three in [[tenets/background-commitments]] (outer review 2026-07-27 ChatGPT 5.6 Pro findings 1.6 + 4.3). One file this pick. The picker mis-resolved the target to `background-commitments.md` from the task's context line; that file is the reference, not the defect, and was left untouched.
+- **Defect verified live** at line 122 before editing: "*Many-worlds eliminates diachronic agency. If every choice branches into all alternatives equally realised, then no agent sustains a project…*" — the flat eliminative form, presenting a chosen commitment as a derived conclusion. Branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) do preserve branch-local psychological continuity, counterfactual control and reasons-responsiveness, so a branch-local agent *does* sustain a project along her branch; "no agent sustains a project" is false on the Everettian's own terms.
+- **Changes**: single-block rewrite of the `No Many Worlds` entry in `## Relation to Site Perspective`. Opens by relocating the objection ("about exclusion, not continuity"), concedes the branch-local project explicitly, then locates the real point of difference — every project sustained here is equally abandoned by a counterpart elsewhere, so no commitment excludes the alternative it was a commitment against. Names global nonactuality as a posit the Map adopts rather than a conclusion the agency case delivers, with a body wikilink to [[tenets/background-commitments]], and marks the residue as a framework-boundary disagreement. The block's closing sentence (singular temporal trajectory) is retained verbatim from the original so the entry still ends on the Map's positive claim, as the four sibling blocks do.
+- **Register**: matched to the settled corpus wording rather than newly invented — `apex/consciousness-and-agency.md` (~L207, "an Everettian can grant the agent a branch-local history of having chosen, but cannot grant the counterfactual exclusion desert requires"), `topics/free-will.md` (~L203, "The objection here is about identity"), and `concepts/moral-responsibility.md` (~L159, which diagnoses the weak form). Read before writing; the opening move and the concede-then-locate structure are lifted from them, adapted from desert/identity to the diachronic case.
+- **Engagement classification** (editor-internal, per [[direct-refutation-discipline]]): engagement with the Everettian — Mode Two opening into Mode Three. Mode Two identifies the unsupported foundational move (the Map helped itself to global exclusion without arguing why an outcome on an inaccessible branch subtracts from authorship here); Mode Three declares the residue honestly, since the Everettian's branch-local reading of authorship is not refuted by anything inside the Map's agency case. No mode labels or editor vocabulary in the article body.
+- **Calibration, not retraction**: Tenet 4 stands and the article's diachronic-agency argument is unchanged. Only the No-MWI justification's strength is corrected.
+- **Length**: 2610 → 2660 words (+50, +1.9%) against a 4000-word hard threshold. Near-length-neutral as required; the block stays one paragraph, matching the four sibling tenet blocks.
+- **Sweep status**: eleven further loci remain, re-scoped one per pick. Not touched here.
+- **Published**: yes
+
 ## 2026-07-27T21:50:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[tenets/tenets]]
