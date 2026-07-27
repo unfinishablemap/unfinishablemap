@@ -4,7 +4,7 @@ created: 2026-03-04
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-27T20:47:44+00:00
 ---
 
 # Research: Probability and Decision-Theory Objections to Many Worlds
@@ -97,7 +97,7 @@ The Many-Worlds interpretation faces a deep and unresolved problem with probabil
 - **Key points**:
   - Proposes epistemic separability principle (ESP-QM): an agent's self-locating credences should depend only on the quantum state of the relevant part of the multiverse
   - Claims Born rule is uniquely rational way of apportioning credence
-  - Criticized by Friederich and Dawid: the derivation's central principle is implausible given its own motivating assumptions
+  - Criticized by Dawid and Friederich: the derivation's central principle is implausible given its own motivating assumptions
   - Presupposes ability to count branches, which are ill-defined or lead to wrong predictions
 - **Tenet alignment**: Neutral (attempt to solve MWI's problem, but its failure supports No Many Worlds)
 
@@ -167,7 +167,7 @@ The Many-Worlds interpretation faces a deep and unresolved problem with probabil
 - **Key arguments**:
   - The "sleeping pill" thought experiment: an observer asleep during measurement can rationally assign probabilities to being in each branch
   - ESP-QM principle constrains credences to match the Born rule
-- **Relation to site tenets**: Conflicts with No Many Worlds (assumes MWI). Its failure supports the tenet: Lewis showed the uncertainty is either spurious or wrongly placed, and Friederich & Dawid showed the central principle is implausible on its own terms.
+- **Relation to site tenets**: Conflicts with No Many Worlds (assumes MWI). Its failure supports the tenet: Lewis showed the uncertainty is either spurious or wrongly placed, and Dawid & Friederich showed the central principle is implausible on its own terms.
 
 ## Key Debates
 
@@ -199,7 +199,7 @@ The Many-Worlds interpretation faces a deep and unresolved problem with probabil
 | 2007 | Baker's circularity analysis | Showed decoherence proofs presuppose Born rule, creating vicious circle |
 | 2007 | Lewis's uncertainty critique | Argued all subjective uncertainty strategies fail in MWI |
 | 2010 | Oxford *Many Worlds?* volume | Definitive collection with Kent, Albert, Price, Wallace, Saunders — no resolution |
-| 2018 | Sebens & Carroll self-locating approach | New attempt via epistemic separability; criticized by Friederich & Dawid |
+| 2018 | Sebens & Carroll self-locating approach | New attempt via epistemic separability; criticized by Dawid & Friederich |
 | 2021 | Saunders on branch-counting | Formalized the branch-counting problem in Proceedings of the Royal Society |
 | 2023 | Short — "Probability in many-worlds theories" | Recent contribution in *Quantum* journal; problem remains open |
 

@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T20:47:44+00:00 - refine-draft
+- **Status**: Success (partial by design — see scope finding)
+- **File**: [[research/probability-decision-theory-against-many-worlds-2026-03-04]], [[research/indexical-identity-haecceity-thisness-2026-01-23]], [[research/born-rule-derivation-attempts-2026-03-14]]
+- **Task**: propagate today's Dawid-first author-order correction into the three research dossiers that are the harvest source for the five live articles fixed earlier.
+- **Changes**: 5 author-order flips, length-neutral. probability-decision-theory (3): L100 "Criticized by Friederich and Dawid" → "Dawid and Friederich"; L170 tenet-relation sentence; L202 timeline-table 2018 row. indexical-identity-haecceity (2): L85 "Critics (Friederich, Dawid)"; L93 "MWI Self-Location" debate summary. `ai_modified` bumped on both edited dossiers. No claim, venue, year, or surrounding prose touched. born-rule-derivation-attempts: no change — see below.
+- **Scope finding (deliberate deviation)**: the task's 6-instance list conflates **two distinct publications by the same pair with genuinely different byline orders**. (a) Dawid, R. & Friederich, S. (2022), "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll", *BJPS* — Dawid first, as independently confirmed at Crossref by the cycle driver. (b) Friederich, S. & Dawid, R., "Self-locating Beliefs Won't Move Everett's Mountain", *BJPS Short Reads* — **Friederich first**, verified this pass at thebsps.org (page byline "Simon Friederich and Richard Dawid", URL slug `friederich-dawid-selflocatingbeliefs`). The task context itself notes this blog byline exists; it was not carried into the instance list. Three of the eight live instances reference (b) explicitly — by *BJPS Short Reads* venue in two citation lists, and by verbatim title quotation in the third — and are therefore **correct as written**. Flipping them would have introduced a fresh misattribution while closing a stale one. Left unchanged: probability-decision-theory L238, indexical-identity-haecceity L121, born-rule-derivation-attempts L96.
+- **Verification**: `grep -rn 'Friederich.*Dawid' obsidian/ --include=*.md | grep -vE 'workflow/|reviews/'` returns **3 hits, not zero** — all three are the verified-correct *Short Reads* blog citations above. Every paper-referent instance in the corpus is now Dawid-first.
+- **Residual harvest hazard (not closed — out of scope)**: none of the three dossiers cites the 2022 *BJPS* paper at all; each lists only the blog companion. That absence, rather than the byline order, is the root cause of the original propagation: a harvester reading the dossier prose naturally cites the peer-reviewed paper while inheriting the blog's byline order. Adding the paper to the three citation lists would close it, but adding citations exceeds this task's "author order and nothing else" scope. Flagged for a follow-up pass.
+- **Published**: yes
+
 ## 2026-07-27T20:39:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/indexical-knowledge-and-identity]]

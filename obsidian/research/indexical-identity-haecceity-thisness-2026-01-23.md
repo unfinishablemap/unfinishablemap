@@ -4,7 +4,7 @@ created: 2026-01-23
 draft: false
 ai_contribution: 100
 ai_system: claude-sonnet-4-5-20250929
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-07-27T20:47:44+00:00
 ---
 
 # Research: Indexical Identity, Haecceity, and Primitive Thisness
@@ -82,7 +82,7 @@ The indexical identity problem asks: "Why am I *this* person rather than someone
 
 **Anti-Haecceitism** (Lewis): All identity facts supervene on qualitative facts. Conflicts with the phenomenology of indexical consciousness.
 
-**Self-Location Uncertainty** (Wallace, Saunders, Vaidman): Everettian probability derives from uncertainty about branch location. Critics (Friederich, Dawid) show this fails—either no genuine uncertainty exists, or Born rule is presupposed.
+**Self-Location Uncertainty** (Wallace, Saunders, Vaidman): Everettian probability derives from uncertainty about branch location. Critics (Dawid, Friederich) show this fails—either no genuine uncertainty exists, or Born rule is presupposed.
 
 **Vertiginous Question** (Hellie, List): The fact that *this* experience is mine is an irreducible ontological primitive. Challenges both physicalism and naïve dualism.
 
@@ -90,7 +90,7 @@ The indexical identity problem asks: "Why am I *this* person rather than someone
 
 **Haecceitism vs Anti-Haecceitism**: Can worlds differ solely by individual permutation? Ongoing. Quantum mechanics (identical fermions are numerically distinct) vindicates haecceitism empirically.
 
-**MWI Self-Location**: Friederich & Dawid's critique is decisive against attempts to ground probability in indexical uncertainty.
+**MWI Self-Location**: Dawid & Friederich's critique is decisive against attempts to ground probability in indexical uncertainty.
 
 **The Vertiginous Question**: Emerging area. List (2025) argues first-person indexical facts are evidence against third-personal metaphysics.
 
