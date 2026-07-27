@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-27T23:31:11+00:00
+ai_modified: 2026-07-27T23:49:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-27T23:49:36+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/phenomenal-sorites-problem]] (2216w), [[concepts/epistemicism-about-consciousness]] (1803w)
+- **Target**: [[concepts/phenomenal-sorites-problem]] — surviving slug, retitled "The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable Boundary"
+- **Archived**: [[archive/concepts/epistemicism-about-consciousness]]
+- **References to review**: none — the only live-content inbound links to the archived article came from the merge target itself, so no external repointing was needed
+- **Rationale**: the parent article laid out a three-locus taxonomy (ontic / semantic / epistemic) and spun exactly one branch out into its own article, created the same day by the same model. The satellite duplicated Antony's conditional, the coupling truth-maker move, the Tenet-4 stake, the Tenet-5 parsimony defence, the graded-trigger open problem, and the interface-threshold contrast (near-verbatim in both Further Reading lists). That is a section, not an article.
+- **Word count**: 4019 combined → 3417 (−602 from deduplication; hard threshold 3500, soft 2500)
+- **Review debt**: `last_deep_review` set to the OLDER component's value (2026-07-11T09:02:00+00:00, the never-independently-reviewed satellite), not the target's 2026-07-19 — the merged text carries the satellite's unreviewed citation surface
+- **Quote check**: the satellite's one verbatim quote (Williamson, *Vagueness* 1994, "small differences in meaning, not to small differences in the objects under discussion") verified against the primary formulation and restored to its full unelided form with pp. 230–231; it had been truncated mid-phrase
+- **Redirect**: `/concepts/epistemicism-about-consciousness/` → `/concepts/phenomenal-sorites-problem/` 301, generated from archive frontmatter
+- **Stale Hugo file**: `hugo/content/concepts/epistemicism-about-consciousness.md` removed
+- **Published**: yes
 
 ## 2026-07-27T23:31:11+00:00 - refine-draft
 - **Status**: Success

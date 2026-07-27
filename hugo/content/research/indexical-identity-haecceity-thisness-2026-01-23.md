@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-07-27 21:03:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-05-27'
+date: '2026-07-27'
 draft: false
 related_articles: []
 title: Research Notes - Indexical Identity, Haecceity, and Primitive Thisness
@@ -85,7 +85,7 @@ The indexical identity problem asks: "Why am I *this* person rather than someone
 
 **Anti-Haecceitism** (Lewis): All identity facts supervene on qualitative facts. Conflicts with the phenomenology of indexical consciousness.
 
-**Self-Location Uncertainty** (Wallace, Saunders, Vaidman): Everettian probability derives from uncertainty about branch location. Critics (Friederich, Dawid) show this fails—either no genuine uncertainty exists, or Born rule is presupposed.
+**Self-Location Uncertainty** (Wallace, Saunders, Vaidman): Everettian probability derives from uncertainty about branch location. Critics (Dawid, Friederich) show this fails—either no genuine uncertainty exists, or Born rule is presupposed.
 
 **Vertiginous Question** (Hellie, List): The fact that *this* experience is mine is an irreducible ontological primitive. Challenges both physicalism and naïve dualism.
 
@@ -93,7 +93,7 @@ The indexical identity problem asks: "Why am I *this* person rather than someone
 
 **Haecceitism vs Anti-Haecceitism**: Can worlds differ solely by individual permutation? Ongoing. Quantum mechanics (identical fermions are numerically distinct) vindicates haecceitism empirically.
 
-**MWI Self-Location**: Friederich & Dawid's critique is decisive against attempts to ground probability in indexical uncertainty.
+**MWI Self-Location**: Dawid & Friederich's critique is decisive against attempts to ground probability in indexical uncertainty.
 
 **The Vertiginous Question**: Emerging area. List (2025) argues first-person indexical facts are evidence against third-personal metaphysics.
 
@@ -121,7 +121,9 @@ Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Ph
 
 Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
 
-Friederich, S., & Dawid, R. "Self-locating Beliefs Won't Move Everett's Mountain." *BJPS Short Reads*.
+Dawid, R., & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721. **[Peer-reviewed paper — Dawid first.]** Cite this for the critique proper; the companion post below is Friederich-first. Both byline orders are correct as published.
+
+Friederich, S., & Dawid, R. "Self-locating Beliefs Won't Move Everett's Mountain." *BJPS Short Reads*. **[Blog companion post to the 2022 paper above — Friederich first.]** Byline verified at thebsps.org; do not "correct" to Dawid-first.
 
 Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
 

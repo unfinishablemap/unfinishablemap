@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-12 20:18:00+00:00
+ai_modified: 2026-07-27 23:31:11+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -140,7 +140,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 The [many-worlds interpretation](/concepts/many-worlds/) denies collapse occurs—every possibility actualizes in branching universes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this primarily on the indexical problem—MWI cannot say why *this* branch is the one experienced—reinforced by the probability problem and by its eliminating any role for consciousness. Ontological extravagance is registered as a cost rather than the decisive objection: under [Occam's Razor Has Limits](/tenets/#occams-limits) the Map does not treat the sheer number of posited worlds as settling the matter, since simplicity is an unreliable guide where knowledge is incomplete. See [many-worlds](/concepts/many-worlds/) for the full case.
 
-For free will specifically: MWI means every choice *and* its alternatives are all made. "You" choose both A and B in different branches—no genuine authorship because nothing was actually selected. If collapse is real and consciousness participates in it, the quantum opening for free will exists. If MWI is true, indeterminism means branching, not freedom.
+For free will specifically: MWI means every choice *and* its alternatives are all made. An Everettian can grant the agent a branch-local history of having chosen—with the psychological continuity and reasons-responsiveness deliberation involves—but cannot grant the counterfactual exclusion authorship requires, since every rejected option is actualised by a counterpart elsewhere. That the unchosen be *globally* nonactual, and not merely absent from the agent's own branch, is a [posit the Map adopts](/tenets/background-commitments/) rather than a conclusion the agency case delivers; the disagreement sits at the framework boundary. If collapse is real and consciousness participates in it, the quantum opening for free will exists.
 
 ## The Illusionist Challenge
 
@@ -187,7 +187,7 @@ This article systematizes the relationship between quantum theory and the Map's 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The epiphenomenalist picture is self-undermining: if consciousness caused nothing, our discussions of it would be accidentally true at best. Quantum indeterminacy specifies *where* consciousness could influence matter—at measurement events where physics leaves outcomes undetermined. Mechanisms like the quantum Zeno effect illustrate how this might work in practice.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If all branches are equally real, no selection occurs—consciousness finds itself in one branch but didn't put itself there. Genuine free will requires collapse, not branching.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The objection is about exclusion rather than phenomenology. An Everettian can grant a branch-local history of having chosen, but not the counterfactual exclusion authorship requires; that the unchosen be *globally* nonactual is a [posit the Map adopts](/tenets/background-commitments/), and the disagreement sits at the framework boundary.
 
 The convergence of Kane's event-causal libertarianism (now incorporating agent-causal elements) with Stapp's quantum Zeno mechanism (providing physical grounding) with O'Connor and Lowe's substance causation (providing metaphysical framework) represents a maturing research program. Quantum indeterminacy doesn't automatically yield free will—but it provides the opening that consciousness, properly understood, can fill.
 
