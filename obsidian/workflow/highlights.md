@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-26T08:02:45.561689'
+ai_modified: '2026-07-27T08:01:35.061740'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-26'
+modified: '2026-07-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-27: The Map Retires One of Its Own Arguments
+
+The Map long pressed the clustering of its voids catalogue as abductive support for dualism. Three outer reviewers converged on the flaw: the framework that carves the voids is the one the pattern was said to support. Now demoted to internal coherence, no confirming force.
+
+**Type**: refinement  
+**Link**: [[what-voids-reveal]]
+
+---
+
 ### 2026-07-26: The Thought Experiment Where You Cannot Die
 
 Quantum suicide says on Many-Worlds you only ever experience branches where you survived—so you should expect to live forever. A refreshed article shows the immortality expectation only forms if identity is branch-relative. Under one-branch collapse, death is death.
@@ -193,15 +202,6 @@ Alexithymia—literally "no words for emotion"—affects about 10% of people. A 
 
 **Type**: new-article  
 **Link**: [[alexithymia]]
-
----
-
-### 2026-07-07: The Third Way to Study Consciousness
-
-Philosophy counts two evidential channels: what a subject reports and what instruments measure. A new article maps a third—evidence that arises only between two minds engaged in real time, visible in 200ms turn-taking and inter-brain synchrony.
-
-**Type**: new-article  
-**Link**: [[the-second-person-evidential-channel]]
 
 ---
 

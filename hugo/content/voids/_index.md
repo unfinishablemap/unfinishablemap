@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-16 06:41:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-07-27 07:24:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
@@ -84,7 +84,7 @@ A maintenance note on this index. Five of the entries below—[the agency void](
 
 ## Framework-Independent Voids
 
-A core methodological worry about the voids catalogue is circularity: if it was generated under dualist commitments, then the [convergence-as-evidence](/voids/what-voids-reveal/) move that "voids cluster around the consciousness-physics interface" may be a sampling artifact of how the catalogue was constructed. [The common-cause-null discount](/project/common-cause-null/) and [Tenet-Generated Voids](/voids/tenet-generated-voids/) register this in principle; this subsection addresses it at the index level by marking which voids any serious framework — physicalist, functionalist, panpsychist, idealist, dualist — would acknowledge in some form. If the *framework-independent* voids still cluster at the consciousness-physics interface, the convergence-as-evidence argument is significantly stronger than if the clustering only obtains under the Map's own commitments.
+A core methodological worry about the voids catalogue is circularity: if it was generated under dualist commitments, then the [convergence claim](/voids/what-voids-reveal/) that "voids cluster around the consciousness-physics interface" may be a sampling artifact of how the catalogue was constructed. [The common-cause-null discount](/project/common-cause-null/) and [Tenet-Generated Voids](/voids/tenet-generated-voids/) register this in principle; this subsection addresses it at the index level by marking which voids any serious framework — physicalist, functionalist, panpsychist, idealist, dualist — would acknowledge in some form. If the *framework-independent* voids still cluster at the consciousness-physics interface, the clustering is not *solely* an artifact of how the catalogue was constructed—a bound on the circularity worry, not a strengthening.
 
 **Voids any consciousness framework recognises** (though the predicted resolvability differs across frameworks):
 
@@ -108,7 +108,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [The Surplus Void](/voids/the-surplus-void/) — physicalist illusionism denies the surplus rather than acknowledging it as a void.
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — explicitly framework-internal by construction.
 
-The mitigation the Map can earn: even restricted to the framework-independent set, voids still cluster at the consciousness-physics interface, so the clustering is not *solely* a construction artifact. This is a narrow residue, not a strengthening—the interpretation stays contested between frameworks, and under the [common-cause null](/project/common-cause-null/) the convergence reads as coherence of the Map's self-image, not framework-independent confirmation. That bounded claim is what [What Cognitive Voids Reveal](/voids/what-voids-reveal/)'s convergence-as-evidence argument makes.
+The mitigation the Map can earn: even restricted to the framework-independent set, voids still cluster at the consciousness-physics interface, so the clustering is not *solely* a construction artifact. This is a narrow residue, not a strengthening—the interpretation stays contested between frameworks, and under the [common-cause null](/project/common-cause-null/) the convergence reads as coherence of the Map's self-image rather than framework-independent confirmation. The residue is narrower still, because the partition above is itself drawn under the tenets: deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue, so even the framework-independent column is a Map-made carving rather than a neutral arbitration between rivals. [What Cognitive Voids Reveal](/voids/what-voids-reveal/) accordingly treats the convergence as coherence only.
 
 The apex develops this into a full four-class audit — framework-independent, dualism-specific, tenet-generated, and method-generated voids — with rival-framework predictions and the empirical anomalies that should co-occur if the Map's reading is correct. See [the Void Clustering Audit](/apex/taxonomy-of-voids/#void-clustering-audit) for the audit's load-bearing treatment; this index's framework-independent subsection is a summary view of that audit's first class.
 
@@ -120,7 +120,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
-- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids are offered as abductive support for the Map's tenet-package, subject to the [common-cause-null discount](/project/common-cause-null/) that reads the convergence largely as framework-internal coherence rather than framework-independent evidence
+- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How limits illuminate cognitive architecture, and why the convergence of the catalogue and the capacity to conceive of voids are no longer offered as abductive support for the Map's tenet-package: under the [common-cause null](/project/common-cause-null/) the pattern is a coherence exhibit—the Map's carving of the voids and its tenets hang together—with no confirming force against a framework carving them differently
 - [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, why we cannot predict which will prove permanent, and [why consciousness cannot estimate the total scope of what it does not know](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) from within the limited system doing the estimating
 - [The Question Formation Void](/voids/question-formation-void/) — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-13 21:25:38+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-07-27 07:52:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[concepts/functionalism]]'
@@ -72,7 +72,9 @@ The [self-representational (same-order) theory](/concepts/self-representational-
 
 ### Animal and Infant Consciousness
 
-Animals and infants likely lack the metacognitive sophistication for genuine higher-order thoughts, yet seem clearly conscious. If HOT is right, we must either deny consciousness to babies and dogs or stretch "thought" beyond recognition. The [metarepresentational distinction](/concepts/metacognition/) sharpens the dilemma: if HOT requires genuine metarepresentation, great apes lack it despite having consciousness; if it requires only second-order monitoring, it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it. Either way, HOT seems to make consciousness depend on cognitive sophistication rather than being a more fundamental feature of mental life.
+The classical objection is that animals and infants lack the metacognitive sophistication for genuine higher-order thoughts yet seem clearly conscious, so HOT must either deny consciousness to babies and dogs or stretch "thought" beyond recognition. Contemporary higher-order theorists have answered this, and the answer should be met at full strength. Brown, Lau and LeDoux (2019) treat over-intellectualisation as the standing misreading of the programme: higher-order states are cognitively assembled, but the requirements are considerably lighter than critics presume, and most proponents do not equate consciousness with metacognition or confidence. The higher-order state need not be linguistic, conceptually articulated, or introspectively available. LeDoux and Brown (2017) run the same architecture over emotional consciousness, where the re-represented first-order states are subcortically triggered survival signals rather than perceptual judgements; LeDoux (2021) asks what such experience might be like in other mammals given the brains they possess. On this construal a dog or an infant needs only a state re-representing a first-order state in a wider state space—no more than their behaviour already suggests.
+
+Granting the extension dissolves the population objection and isolates the one that matters. Widening the class of states over which re-representation operates settles *which creatures* qualify; it leaves untouched *what re-representation achieves*. A non-linguistic prefrontal state re-representing amygdala activity in a wider state space is still, in the theory's own mechanistic terms, one representation taking another as its object, and the account owes some reason why that relation is felt rather than merely computed—by the standard of mechanistic adequacy its proponents apply elsewhere. The threshold the [comparative evidence](/concepts/metacognition/) marks is a threshold on cognitive sophistication; the Map's question sits beneath it, so the non-linguistic extension answers a different objection than the one that remains. That remaining disagreement is at the framework boundary, where [Dualism](/tenets/#dualism) parts company with the higher-order programme, and is noted as such rather than as a refutation from within it.
 
 ### Block's Critique
 
@@ -197,9 +199,12 @@ The hard problem remains hard.
 1. Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
 1. Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
 1. Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
+1. Brown, R., Lau, H., & LeDoux, J. E. (2019). Understanding the higher-order approach to consciousness. *Trends in Cognitive Sciences*, 23(9), 754-768.
 1. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Studies*, 175(11), 2743-2761.
 1. Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
 1. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
+1. LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
+1. LeDoux, J. E. (2021). What emotions might be like in other animals. *Current Biology*, 31(13), R824-R829.
 1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
 1. Ko, Y., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1401-1411.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
