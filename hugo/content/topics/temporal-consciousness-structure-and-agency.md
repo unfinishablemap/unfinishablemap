@@ -43,7 +43,7 @@ description: How consciousness constitutes temporal structure, how attention res
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 05:02:13+00:00
+last_deep_review: 2026-07-27 05:18:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

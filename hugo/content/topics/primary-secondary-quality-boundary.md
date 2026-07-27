@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-06-18 16:30:00+00:00
+ai_modified: 2026-07-27 03:07:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: A human+AI consolidation of why Locke's primary/secondary-quality l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 16:30:00+00:00
+last_deep_review: 2026-07-27 03:07:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ The [form/content distinction](/concepts/reductionism/) names the fault directly
 
 This is why the boundary admits no criterion. A clean criterion would require that every quality be either pure form (primary) or pure content (secondary). But the gap is not a gap *between* two settled categories; it is the fault that prevents the categories from being settled. Colour straddles the line because colour is exactly the place where form and content come apart and neither subsumes the other — which is the explanatory gap in miniature. The boundary's instability and the gap's persistence may be one phenomenon described twice.
 
-The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) generalises the same fault across level transitions. Its equivocation objection — that "wetness" is merely dispositional while pain is genuinely phenomenal — depends on a clean primary/secondary cut to mark which qualities count as phenomenal. If that cut admits no criterion, the objection appears to lose its footing: the qualitative character that resists reduction is not quarantined inside a settled "secondary" category but appears wherever content outruns form, which is at every level. The instability documented here is the load-bearing premise that emergence article relies on, given its own treatment.
+The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) generalises the same fault across level transitions. Its equivocation objection — that "wetness" is merely dispositional while pain is genuinely phenomenal — depends on a clean primary/secondary cut to mark which qualities count as phenomenal. If that cut admits no criterion, the objection appears to lose its footing: the qualitative character that resists reduction is not quarantined inside a settled "secondary" category but appears wherever content outruns form, which is at every level. The instability documented here is the load-bearing premise that the emergence article relies on, given its own treatment.
 
 ## What the Instability Does and Does Not License
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-26 00:00:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-07-27 05:33:15+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
 - concepts/introspection
@@ -16,7 +16,8 @@ apex_thesis: 'You don''t need a laboratory to investigate consciousness—you ha
   probe whether experience feels like selecting from options presented by your brain
   or like passively watching neural processes unfold. Try sitting back and not interfering:
   does your mind continue making choices, or does something different happen? The
-  Map''s claims are testable from the inside.'
+  Map''s phenomenological predictions can be examined from the inside, even though
+  introspection cannot by itself certify the underlying metaphysics.'
 author: null
 concepts:
 - '[[introspection]]'
@@ -28,7 +29,8 @@ concepts:
 created: 2026-01-31
 date: &id001 2026-01-31
 description: Your own experience is a laboratory for consciousness. Careful attention
-  reveals whether choice is real, options are open, and witness awareness is possible.
+  characterises the phenomenology of choice, effort, and witness awareness as first-person
+  data.
 draft: false
 human_modified: null
 last_curated: null
@@ -48,7 +50,9 @@ topics:
 
 Philosophy typically asks you to consider arguments and weigh evidence. The Unfinishable Map offers something different: experiments you can run right now, using your own experience as data. You don't need neuroimaging equipment or controlled conditions. You need attention, honesty, and willingness to observe what actually happens when you try specific phenomenological tests. This approach treats [contemplative practice as philosophical methodology](/topics/contemplative-practice-as-philosophical-evidence/)—a disciplined first-person method generating evidence about consciousness unavailable through thought experiments or conceptual analysis alone. [Microphenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)—Claire Petitmengin's technique of attending to present-tense experience rather than abstracting from memory—offers practical guidance: ask yourself *how* something unfolds, not *why*. Re-enact rather than analyse. The tests below use this principle.
 
-This matters because the Map generates predictions about experience. If consciousness genuinely selects among neural possibilities, choosing should feel different from observing. If witness awareness is real, you should be able to access it. If mental effort tracks genuine causal engagement, sustained attention should feel like work. These predictions are testable from the first-person perspective.
+This matters because the Map generates predictions about experience. If consciousness genuinely selects among neural possibilities, choosing should feel different from observing. If witness awareness is real, you should be able to access it. If mental effort tracks genuine causal engagement, sustained attention should feel like work. These are predictions about the first-person perspective, and first-person observation is where the relevant data are gathered.
+
+One limit has to be set before the first exercise rather than discovered after it. No subject can certify its own causal efficacy by introspection, because the check is performed by the very faculty whose causal status is in question — the Map registers this as position [P-A4](/positions/agency-and-will/) and marks the territory it describes as the [agency void](/voids/agency-void/). The exercises below cannot step outside that circle. What they can do is characterise the phenomenology precisely: they establish distinctions in how experience presents itself — choosing against observing, effort against ease, witnessing against engagement — that any adequate theory must accommodate. What they cannot do is adjudicate between the Map's reading of those distinctions and an identity, functional, or higher-order physical reading that predicts the same felt contrasts. Feeling the difference between directing your breath and watching it does not, by itself, show that a nonphysical selector directed it. So read what follows as a way of collecting first-person data and sharpening what a theory must explain, not as a way of confirming the Map from the inside. The limit is symmetric, which is why it is worth stating plainly rather than working around: epiphenomenalism cannot verify itself from the first person either, since on that view the belief that consciousness is inert was not caused by consciousness.
 
 ## The Basic Test: Choosing vs Observing
 
@@ -62,7 +66,7 @@ Now deliberately control your breath. Make it slower. Hold it briefly. Make it f
 
 The difference should be phenomenologically obvious. Observation has a receptive quality—breath happens; you notice. Control has an active quality—you participate in determining what occurs. The transition between modes is not subtle. You can feel when you shift from watching to directing.
 
-This distinction—between [choosing and observing](/concepts/phenomenology-of-choice-and-volition/)—tracks something the Map takes to be real. The [trilemma of selection](/topics/trilemma-of-selection/) makes the logic explicit: at any decision point, the outcome is determined, random, or consciously selected. If determined, there should be no felt difference between controlling and observing—both decorate a fixed process. If random, controlling should feel like receiving a coin flip, not like work. Only genuine selection explains why directing your breath feels effortful while watching it feels receptive.
+This distinction—between [choosing and observing](/concepts/phenomenology-of-choice-and-volition/)—tracks something the Map takes to be real. The [trilemma of selection](/topics/trilemma-of-selection/) makes the logic explicit: at any decision point, the outcome is determined, random, or consciously selected. If determined, there should be no felt difference between controlling and observing—both decorate a fixed process. If random, controlling should feel like receiving a coin flip, not like work. On the Map's reading, genuine selection is what makes directing your breath feel effortful while watching it feels receptive — though, as the framing limit above stressed, that felt contrast is equally available to an account that locates the difference in two distinct physical states, so the exercise fixes the datum without settling its interpretation.
 
 ### The Materialist Response
 
@@ -156,7 +160,7 @@ Each should have distinctive phenomenology.
 
 **Test for level 3**: Now choose to enter selection mode—actively decide to make the choice. Then choose to enter observation mode—decide to not-choose. The capacity to select which mode to operate in should be phenomenologically accessible.
 
-If you can access all three levels, you've confirmed something the Map claims: agency is not simple selection from alternatives but a layered capacity that includes the meta-level capacity to determine how you engage with alternatives.
+If you can access all three levels, you've mapped a phenomenological structure the Map builds on: agency, as it presents itself in experience, is not simple selection from alternatives but a layered capacity that includes the meta-level capacity to determine how you engage with alternatives. Accessing the three layers characterises that structure; it does not, on its own, show that the layering is nonphysical selection rather than three distinguishable states a physical account also predicts — the verification limit set out at the start applies here as much as to the breath test.
 
 ### The Settling Moment
 
@@ -209,7 +213,7 @@ The most radical finding: advanced practitioners can [voluntarily enter cessatio
 
 ## What the Tests Establish—and Don't
 
-Phenomenological tests don't settle metaphysics definitively. The materialist can always interpret findings as "what different brain states feel like" without granting consciousness irreducibility or causal efficacy. The Map doesn't claim first-person investigation proves dualism.
+Phenomenological tests don't settle metaphysics definitively. The materialist can always interpret findings as "what different brain states feel like" without granting consciousness irreducibility or causal efficacy. The Map doesn't claim first-person investigation proves dualism; position [P-A4](/positions/agency-and-will/) records the stronger point that conscious causal efficacy cannot be certified from the first person at all, since every such check is run by the faculty whose causal status is in question. That limit is why the tests are framed as data-gathering rather than confirmation.
 
 But the tests establish data that *any* adequate theory must accommodate:
 

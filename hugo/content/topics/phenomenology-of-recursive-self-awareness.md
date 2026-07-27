@@ -29,7 +29,7 @@ description: Recursive self-awareness transforms phenomenal experience through r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 01:35:55+00:00
+last_deep_review: 2026-07-27 02:47:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

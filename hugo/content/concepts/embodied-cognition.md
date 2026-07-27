@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-26 19:23:49+00:00
+ai_modified: 2026-07-27 02:17:59+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 concepts:
@@ -37,6 +37,7 @@ related_articles:
 - '[[empirical-phenomena-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
+- '[[multiple-drafts-model]]'
 - '[[consciousness-as-activity]]'
 - '[[tacit-integration-void]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
