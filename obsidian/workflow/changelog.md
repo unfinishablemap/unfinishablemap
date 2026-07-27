@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T04:45:08+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-27
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro — all full-site audits of one reused subject)
+- **Clusters**: 3 convergent-upgradeable, 2 convergent-recorded-only (1 already P1, 1 methodology/human-reserved), plus reviewer-specific singletons; 2 divergences
+- **Top convergence**: All three reviewers independently flag one meta-pattern — the Map applies a stricter evidential standard to physicalist rivals than to its own dualist mechanics (voids/confessions/"necessary opacity" shield its own gaps while rivals' gaps are weaponized)
+- **Tasks upgraded**: 3 (P2→P1: voids/what-voids-reveal [3/3 voids-as-evidence]; positions/quantum-interface [2/3 confession-without-correction]; attention-and-the-consciousness-interface [2/3 EFE-predicts-effort])
+- **Tasks deduplicated**: 0 (each convergent cluster had a single open task; siblings had already been deduped at per-review processing time)
+- **Output**: [[reviews/outer-review-synthesis-2026-07-27]]
+
 ## 2026-07-27T04:39:38+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
