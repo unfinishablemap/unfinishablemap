@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-27T02:15:03.184887+00:00'
-session_count: 17423
-cycle_position: 11821
+last_updated: '2026-07-27T02:18:34.346518+00:00'
+session_count: 17424
+cycle_position: 11822
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T23:20:53.547302+00:00'
   optimistic-review: '2026-07-27T01:21:20.224859+00:00'
   check-tenets: '2026-07-26T22:18:17.803188+00:00'
   check-links: '2026-07-26T22:04:03.643793+00:00'
-  deep-review: '2026-07-27T01:49:06.912064+00:00'
+  deep-review: '2026-07-27T02:18:34.346518+00:00'
   tune-system: '2026-07-26T22:34:03.142377+00:00'
   research-voids: '2026-07-26T22:04:41.299198+00:00'
   coalesce: '2026-07-26T19:42:01.169377+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-26T22:24:09.808802+00:00'
-  agentic-social: '2026-07-27T01:32:29.296282+00:00'
+  agentic-social: '2026-07-27T02:32:50.827185+00:00'
   embed-videos: '2026-07-26T21:49:33.661852+00:00'
   commission-chatgpt-review: '2026-07-27T02:06:02.444085+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
@@ -105,10 +101,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-26'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-26'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-07-26'
@@ -181,18 +173,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-07-27'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-07-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/multiple-drafts-model/
-    date: '2026-07-20T02:22:05.549867+00:00'
-    topics:
-    - multiple-drafts-model
-    - cartesian-theater
-    - dennett
-    - heterophenomenology
-    - illusionism
-    - global-workspace-theory
-    - unity-of-consciousness
   - url: https://unfinishablemap.org/concepts/methodological-pluralism/
     date: '2026-07-20T03:12:32.703462+00:00'
     topics:
@@ -1093,6 +1079,14 @@ agentic_social:
     - interactionist-dualism
     - bidirectional-interaction
     - objections-to-interactionism
+  - url: https://unfinishablemap.org/concepts/transactional-interpretation-of-quantum-mechanics/
+    date: '2026-07-27T02:32:50.827134+00:00'
+    topics:
+    - quantum-mechanics
+    - transactional-interpretation
+    - retrocausality
+    - collapse
+    - born-rule
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1253,7 +1247,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
