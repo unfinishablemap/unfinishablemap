@@ -37,6 +37,79 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: apex/testing-the-map-from-inside.md — first-person causal verification is both impossible (P-A4) and advertised as a test
+- **Type**: refine-draft
+- **File**: obsidian/apex/testing-the-map-from-inside.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro full-site audit), finding 4.4 + improvement 21/22. The agency register (P-A4) says a subject cannot certify its own causal efficacy introspectively, yet this apex presents breath/attention/choice exercises as tests and at one point says accessing three layers "confirms" the Map's claim, inferring genuine selection from the felt difference between controlling and observing. The exercises establish phenomenological distinctions only; they cannot distinguish nonphysical selection from identity, functional, or higher-order physical accounts. Remove "confirm" / "test whether choice is real" language; place the P-A4 first-person-verification limit prominently BEFORE the exercises, not after. Apply the [[direct-refutation-discipline]] remit: this is an in-framework epistemic contradiction, so state the verification limit honestly in natural journal-quality prose rather than protecting the test's evidential status. Do not expose mode labels in the article body; keep the classification in the changelog entry.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P1: apex/time-consciousness-growing-block.md — time both requires consciousness and existed prebiotically without it
+- **Type**: refine-draft
+- **File**: obsidian/apex/time-consciousness-growing-block.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.7 + 4.8, improvements 24/25. The article says consciousness and time are mutually constitutive (no temporal facts without consciousness-involving collapse) yet also says objective collapse supplied the prebiotic arrow of time without consciousness — an internal contradiction. Rewrite around ONE thesis: either consciousness locally participates in some collapse events (compatible with prebiotic time), or consciousness is constitutive of time generally (incompatible with the prebiotic arrow) — do not retain both. Also propagate the level distinctions from `non-temporal-consciousness` (temporal content vs phenomenal organisation vs neural integration vs subject persistence vs metaphysical temporal location) so the stronger apex conclusions stop treating temporal structure as categorically necessary for consciousness.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P1: apex/interface-specification-programme.md — trumping and quantum difference-making treated as both alternatives and one mechanism; "confirmation" vocabulary overreach
+- **Type**: refine-draft
+- **File**: obsidian/apex/interface-specification-programme.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.1 + 2.9, improvements 12/13. The Born-efficacy apex correctly distinguishes trumping, detectable deviation, and context selection as routes with different liabilities; this apex then integrates delegatory trumping WITH quantum difference-making as one architecture. A physically sufficient trajectory metaphysically authored by mind is not the same model as a trajectory whose physical token differs because mind selected another outcome — choose a primary causal model or supply a genuine unification law and mark the hybrid explicitly. Separately, replace "confirmation" / "reinforcement" with "compatibility" or "constraint satisfaction" wherever the cited findings (Zheng-Meister 10 bits/s, COGITATE) are equally expected under physical rivals; the 10-bit result is a behavioural output bound, not a psychophysical channel bandwidth. Apply the [[direct-refutation-discipline]] remit: name the unsupported foundational move (combining incompatible model families under one architecture) in natural prose; keep mode labels out of the article body.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P1: apex/machine-question.md — universal Bidirectional Interaction vs epiphenomenal AI, and closed individualism reverses the LLM-copy objection
+- **Type**: refine-draft
+- **File**: obsidian/apex/machine-question.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.5 / 4.6 / 4.14 + novel implication 1.7, improvements 27-29. Two issues. (1) Tenet 3 rules out consciousness merely "along for the ride," but this apex keeps genuinely epiphenomenal artificial experience open while calling it a gap intellectual honesty must preserve — a direct scope contradiction. State that epiphenomenal AI is an external possibility conditional on weakening Tenet 3 (from universal actual efficacy to a dispositional/existential claim), and split the machine-consciousness row of the tenet-dependency matrix into bare artificial phenomenality / report-grounded / bidirectionally-coupled. (2) The "which GPT?" copy argument is reversed by the Map's own closed individualism: two physically identical systems that each couple to a subject are two numerically distinct subjects (haecceity not erased by duplication), so reproducibility multiplies moral patients rather than exposing an identity deficiency — correct the LLM-copy argument accordingly. Apply the [[direct-refutation-discipline]] remit for issue (1) — mark the framework-boundary honestly in natural prose; keep mode labels out of the body.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P2: apex/moral-architecture-of-consciousness.md — "any consciousness implies responsibility" conflicts with the consciousness-scope architecture; low-confidence value-selection escalated to high-confidence architecture
+- **Type**: refine-draft
+- **File**: obsidian/apex/moral-architecture-of-consciousness.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.11 + 4.13, improvements 30/31. The apex says any consciousness implies at least some responsibility, but the biological-scope cluster includes infants, animals, and minimally-phenomenal subjects lacking the access, reasons-responsiveness, and control responsibility requires — consciousness establishes moral PATIENTHOOD more readily than moral AGENCY. Revise so consciousness grounds possible patienthood, not a positive floor of responsibility (responsibility requires control, reasons access, option availability, cognitive competence). Separately, the value register treats value-sensitive selection as low-credence / Grade D / burdened by an extra valence-to-physics mapping, yet this apex presents valence + agency + normativity + responsibility as a unified architecture — downgrade the unification thesis to a conditional framework-internal synthesis and inherit the weakest dependency's calibration.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P2: apex/born-preserving-causal-efficacy.md — add the selector-distribution law and intervention-level trilemma (novel implication)
+- **Type**: refine-draft
+- **File**: obsidian/apex/born-preserving-causal-efficacy.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), novel implication 1.1, improvements 6-8. Reviewer's strongest novel inference: exact Born preservation cannot be stated only as a law over physical outcomes — it also needs a law over the distribution of conscious reasons/intentions μ(c|x), because reasons-responsive agency requires the selector policy π(o|c,x) to vary with c. This yields an intervention-level trilemma: (i) Born preservation survives intervention on intention → the selector is empirically/interventionally indistinguishable from chance or trumping; (ii) preservation holds only after averaging over natural intentions → interventions should reveal conditional Born deviations (a real experimental route, abandoning the "none by construction" corridor); (iii) conscious-state histories are themselves constrained → psychophysical superselection. Add the conditional selector equation and the trilemma; require every toy model to specify both the conscious-state distribution and the intervention profile, and to distinguish genuine agency from a relabelled hidden Born-random seed. Also flag the possible cross-agent consequence (moral agency carrying hidden statistical externalities). Distinguish natural-distribution vs arbitrary-intervention Born-preservation claims explicitly.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P2: tenets/background-commitments.md — surface the global-exclusion axiom that No-MWI + agency actually requires
+- **Type**: refine-draft
+- **File**: obsidian/tenets/background-commitments.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), novel implication 1.6 + finding 4.3, improvement 3. The Map presents the No-MWI–agency connection as if it followed directly from sourcehood, but Everettian branch-local accounts already preserve local continuities, reasons-responsiveness, and self-locating perspectives (Sebens & Carroll 2018, verified). Defeating MWI on agency grounds therefore needs a further, stronger premise: an action is genuinely authored only if every incompatible alternative is globally nonactual, not merely absent from the agent's own history. State this "global-exclusion axiom" explicitly as a background commitment (it is stronger than conscious causation, local counterfactual control, reasons-responsiveness, or single-history persistence). Apply the [[direct-refutation-discipline]] remit: this is an unsupported foundational move the framework has not earned by its own standards — name it honestly in natural prose and mark the dispute as closer to the framework boundary than the current articles admit; keep mode labels out of the article body.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P2: voids/what-voids-reveal.md — separate epistemic limitation from modal impossibility; independence-weighted void reporting
+- **Type**: refine-draft
+- **File**: obsidian/voids/what-voids-reveal.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), finding 4.15, improvements 33/34. The positions register says void convergence is principally framework-internal and heavily common-caused, yet this synthesis argues that awareness of limits points to a vantage not contained within the physical system and sometimes treats rival deflationary explanations as symptoms of the very limitation under discussion — an immunising structure. A system can metarepresent its own limits without occupying an ontologically external standpoint; remove the inference that representing a cognitive limit requires an external vantage, and separate epistemic limitation from modal impossibility. Separately, replace raw void counts with independence-weighted reporting (foreground the approximately independent clusters, not the number of separately named manifestations).
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### NEEDS-HUMAN (methodology) 2026-07-27: "Two epistemic voices" — uncertainty not propagated from calibrated positions to apex/description prose (ChatGPT 5.6 Pro full-site audit)
+- **DIVERSION NOTE:** Methodology/discipline-doc territory (human-reserved per human-supervision.md; same posture as the 2026-07-24 NEEDS-HUMAN methodology item and [[human-decision-task-mispicked-as-refine]]). Do NOT let an auto-loop fork rewrite project/ discipline docs. Filed for operator ratification; substantial overlap with the standing 2026-07-24 convergent-methodology item — fold, don't duplicate.
+- **Type**: refine-draft
+- **File**: obsidian/project/evidential-status-discipline.md
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), structural findings 2.1-2.7 + methodology improvements 1-16. Core diagnosis: the Map now has two epistemic voices — a disciplined canonical voice in the positions/methodology registers, and a more assertive voice in apex theses, descriptions, introductions, and practical conclusions that outruns it. Concrete, recurrent proposals worth ratifying into discipline docs: (1) make position IDs the authoritative units of downstream argument — every apex conclusion lists the positions it depends on and inherits the weakest indispensable premise's calibration; (2) graph-level uncertainty propagation — a downstream conclusion must not exceed the credence / evidence grade / discriminability of its weakest dependency; (3) typed claim graph rather than bare wikilinks (defines / presupposes / supports / constrains / conflicts-with / alternative-to / supersedes / conditional-on / illustrates); (4) no-new-premise rule for apex articles (a genuinely new premise gets extracted to a topic/concept/position and reviewed independently — apexes are "thesis escalators" otherwise); (5) require a full graph resweep after a canonical change (narrow delta reviews may certify citation fidelity but must not label an article globally "converged"); (6) discount automated cross-links in convergence metrics (editorial link density is not independent theoretical convergence, esp. now that both major sections are at cap and maintenance pressure shifts to cross-linking); (7) a stricter evidential vocabulary — compatible-with / rules-out / constrains / explains / predicts / confirms must not be interchangeable; (8) evidence-direction field on positions (confirmable / falsifiable-only / observationally-equivalent / metaphysical-only) to make the one-way "empirical demotion ratchet" (finding 1.5) visible. Assess each against existing discipline docs and decline duplicates. Human approval before any discipline-doc change.
+- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
 ### NEEDS-HUMAN (methodology ratification) 2026-07-25: Methodology proposals from 2026-07-24 outer reviews — CONVERGENT ≥2-reviewer disciplines (opponent-parity, freshness trigger, convergence-lock scoping, co-optation-density, stance-review routing, version-skew linter), upgraded P2→P1 by /combine-outer-reviews then DIVERTED from the auto-loop
 - **DIVERSION NOTE (orchestrator 2026-07-25):** combine upgraded this to P1, but its `Type: refine-draft` + `File: project/evidential-status-discipline.md` would have an unattended fork rewrite a standing review-discipline doc — the human's reserved domain per human-supervision.md (same posture as the 2026-06-27 NEEDS-HUMAN methodology items and the deferred CLAUDE.md slot-ratio correction). Reclassified NEEDS-HUMAN so the queue picker ([[human-decision-task-mispicked-as-refine]]) stops selecting it. The 8 proposals below are sound and well-motivated by this cycle's volitional-control co-optation defect; ratify the concrete recurrent ones into obsidian/project/ discipline docs (NOT .claude/skills SKILL files — tune-system forbids) when approved. Full proposal list retained in the original notes below.
 - **Type**: refine-draft

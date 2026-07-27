@@ -3,9 +3,9 @@
   commissioned_at: '2026-07-27T02:05:20.815829+00:00'
   prompt_summary: 'Full-site audit: novel insights, structure, tenet coherence, contradictions'
   target_filename: outer-review-2026-07-27-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-27T03:56:18.820905+00:00'
   failure_reason: null
   prompt_text: 'You are reviewing The Unfinishable Map (https://unfinishablemap.org),
     a philosophical research site defending a dualist framework: consciousness is

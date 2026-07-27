@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T04:12:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (Extended thinking)
+- **File**: [[reviews/outer-review-2026-07-27-chatgpt-5-5-pro]]
+- **Subject**: Full-site audit (site-stale-7d fallback subject)
+- **Claims verified**: 2 external anchors web-verified accurate (Zheng & Meister PMID 39694032 ~10 bits/s; Sebens & Carroll arXiv 1405.7577 self-locating uncertainty / Born rule); COGITATE Nature 2025 + Saad Phil Studies noted as consistent with corpus usage. High-value findings are internal-coherence/contradiction claims verifiable against the corpus.
+- **High-value findings**: 15 cross-cluster contradictions + 7 novel implications; core diagnosis "two epistemic voices" (calibrated positions register vs assertive apex/description prose) and a one-way "empirical demotion ratchet."
+- **Tasks generated**: 9 (P1: 4 — testing-the-map-from-inside first-person-verification contradiction, time-consciousness-growing-block prebiotic-time contradiction, interface-specification-programme trumping-vs-difference-making + vocabulary, machine-question epiphenomenal-AI scope + LLM-copy reversal; P2: 4 — moral-architecture patienthood-vs-agency, born-preserving-causal-efficacy selector-distribution law/intervention trilemma, background-commitments global-exclusion axiom, what-voids-reveal epistemic-vs-modal; NEEDS-HUMAN: 1 methodology, folds into standing 2026-07-24 convergent-methodology item). Four tasks carry the direct-refutation-discipline remit.
+- **Note**: Sibling Claude Opus 5 review for 2026-07-27 still pending; /combine-outer-reviews will dedupe/upgrade convergent findings once both are processed.
+
 ## 2026-07-27T03:07:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/primary-secondary-quality-boundary]]
