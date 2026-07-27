@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-07-27T10:51:08+00:00
+ai_modified: 2026-07-27T15:04:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -161,7 +161,7 @@ For the Map this demarcation has a *structural* rather than merely reputational 
 
 ## A Convergent Critic: Duch's Classical-Computational Alternative
 
-Włodzisław Duch — quantum-physicist-turned-cognitive-scientist — is the strongest competent critic of substantive quantum-mind proposals at the Penrose-Hameroff scale. Duch (2005, 2019) argues that brain processing requires *differentiation* across regions and timescales rather than the global synchronisation quantum-coherence proposals require, that decoherence timescales make sustained quantum effects implausible at biological temperatures (with Tegmark 2000 as his anchor), and that quantum proposals fill explanatory gaps a classical-computational model can already fill via self-reflective dynamical access — exotic physics doing the work of an unearned explanatory leap. His positive view (consciousness as the "shadow" of neurodynamics, with the [[concepts/geometric-model-of-mind|articon architecture]] from Duch 2005 sufficient in principle) is a classical-computational alternative.
+Włodzisław Duch — quantum-physicist-turned-cognitive-scientist — is the strongest competent critic of substantive quantum-mind proposals at the Penrose-Hameroff scale. Duch (2005) argues that quantum-based accounts leave the structure of qualia unexplained where self-reflective dynamical access already does the work. His sharper claims — that brain processing requires *differentiation* rather than the global synchronisation quantum-coherence proposals require, and that decoherence makes sustained quantum effects implausible at biological temperatures, echoing Tegmark 2000 — he makes in popular and online writing, not in the papers cited here. His positive view (consciousness as the "shadow" of neurodynamics, with the [[concepts/geometric-model-of-mind|articon architecture]] from Duch 2005 sufficient in principle) is a classical-computational alternative.
 
 The relationship to the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is structurally subtle: it is a *convergent-conclusion-opposite-reasoning* relationship. Duch and the Map agree that *substantive* quantum-mind proposals at Orch-OR-style macroscopic scale face severe obstacles. They part ways at the *minimal* interface — Duch wants zero quantum role for consciousness on the grounds that classical-computational dynamical access suffices; the Map wants minimal-but-real interaction on the grounds that some non-physical selection at the indeterminacy boundary is required for the *Bidirectional Interaction* tenet to do its work. The Map can therefore appropriate Duch's anti-Penrose-Hameroff arguments without inheriting his classical-sufficiency commitment, but only if the two points are kept structurally distinct: articles citing his quantum critique must specify which is being borrowed, since importing classical sufficiency alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
 
