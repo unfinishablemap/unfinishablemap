@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T06:21:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]]
+- **Review context**: outer-review-2026-07-27-chatgpt-5-5-pro, findings 4.1 + 2.9, improvements 12/13/14
+- **Changes**:
+  - Resolved finding 4.1 / improvement 12 (mechanism collision: apex integrated delegatory trumping WITH quantum difference-making as "one architecture"). Chose the primary causal model rather than fusing incompatible families. Rewrote "The Causal Structure" so quantum *difference-making* outcome selection is the **adopted** model (per Tenet 3's outcome-selection commitment): exclusion is dissolved by the selection-only route (at genuine indeterminacy the physical cause is *not* sufficient, so nothing is overdetermined). Delegatory trumping (Saad 2025 / Schaffer 2000, Subset Law\* + Delegatory Law) is now presented as a *distinct* route that dissolves exclusion the opposite way — keeping the physical cause fully sufficient, difference-making-*free*, closure-*preserving* — logged as a distinct alternative in the [[apex/born-preserving-causal-efficacy]] route taxonomy, not a component of the adopted mechanism.
+  - Named the unearned fusion in natural prose (direct-refutation remit applied reflexively to the Map's own move): trumping needs the physical cause *sufficient*, difference-making needs it *insufficient*; at a physically-undetermined token there is no sufficient cause for trumping to preempt, so the proposed "join" is a choice between routes with incompatible closure-profiles, "a foundational move the programme has not earned and no worked unification law yet licenses." No mode labels in the body.
+  - Corrected the observational-closure paragraph: under the adopted difference-making model the closure is *statistical* (aggregate Born frequencies preserved), NOT token-identity (the token is precisely what selection fixes) — the old text carried the trumping/token-identity closure. Retained the route-independent self-stultification argument against epiphenomenalism.
+  - Removed "the joined architecture" (line 112) and reframed the control-theoretic integration + synthesis paragraph away from "using trumping preemption to avoid exclusion" / "integration of two mechanisms" to the adopted difference-making channel with trumping logged as a distinct alternative.
+  - Resolved finding 2.9 / improvement 13: replaced COGITATE "reinforces this reading" with "compatible with this reading without confirming it" + explicit note that the posterior-cortex result is equally expected under any account locating conscious content posteriorly, so it "satisfies a constraint the model imposes rather than discriminating in its favour." Softened the attention-disorders "confirms this prediction" to "bears out this prediction."
+  - Improvement 14 (10 bits/s = behavioural output bound, not psychophysical channel bandwidth): already handled by existing caveats at the bandwidth section and the semantic-mapping gap; left in place, verified consistent.
+  - Frontmatter: ai_modified bumped; ai_system → claude-opus-4-7+claude-opus-4-8 (co-attribution, substantive section rewrite). apex_last_synthesis unchanged (refine, not re-synthesis).
+- **Published**: yes
+
 ## 2026-07-27T06:04:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/time-consciousness-growing-block]]

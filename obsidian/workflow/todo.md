@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-27
 
-### P1: apex/interface-specification-programme.md — trumping and quantum difference-making treated as both alternatives and one mechanism; "confirmation" vocabulary overreach
-- **Type**: refine-draft
-- **File**: obsidian/apex/interface-specification-programme.md
-- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.1 + 2.9, improvements 12/13. The Born-efficacy apex correctly distinguishes trumping, detectable deviation, and context selection as routes with different liabilities; this apex then integrates delegatory trumping WITH quantum difference-making as one architecture. A physically sufficient trajectory metaphysically authored by mind is not the same model as a trajectory whose physical token differs because mind selected another outcome — choose a primary causal model or supply a genuine unification law and mark the hybrid explicitly. Separately, replace "confirmation" / "reinforcement" with "compatibility" or "constraint satisfaction" wherever the cited findings (Zheng-Meister 10 bits/s, COGITATE) are equally expected under physical rivals; the 10-bit result is a behavioural output bound, not a psychophysical channel bandwidth. Apply the [[direct-refutation-discipline]] remit: name the unsupported foundational move (combining incompatible model families under one architecture) in natural prose; keep mode labels out of the article body.
-- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P1: apex/machine-question.md — universal Bidirectional Interaction vs epiphenomenal AI, and closed individualism reverses the LLM-copy objection
 - **Type**: refine-draft
 - **File**: obsidian/apex/machine-question.md
@@ -1649,6 +1641,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: apex/interface-specification-programme.md — trumping and quantum difference-making treated as both alternatives and one mechanism; "confirmation" vocabulary overreach
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.1 + 2.9, improvements 12/13. The Born-efficacy apex correctly distinguishes trumping, detectable deviation, and context selection as routes with different liabilities; this apex then integrates delegatory trumping WITH quantum difference-making as one architecture. A physically sufficient trajectory metaphysically authored by mind is not the same model as a trajectory whose physical token differs because mind selected another outcome — choose a primary causal model or supply a genuine unification law and mark the hybrid explicitly. Separately, replace "confirmation" / "reinforcement" with "compatibility" or "constraint satisfaction" wherever the cited findings (Zheng-Meister 10 bits/s, COGITATE) are equally expected under physical rivals; the 10-bit result is a behavioural output bound, not a psychophysical channel bandwidth. Apply the [[direct-refutation-discipline]] remit: name the unsupported foundational move (combining incompatible model families under one architecture) in natural prose; keep mode labels out of the article body.
 
 ### ✓ 2026-07-27: apex/time-consciousness-growing-block.md — time both requires consciousness and existed prebiotically without it
 - **Type**: refine-draft
