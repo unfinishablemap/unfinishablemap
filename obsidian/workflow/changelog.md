@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T15:18:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Task**: Second half of the two-file Duch misattribution task that `cycle_post` closed after only the first file was fixed (known multi-file-drop pattern). The `concepts/quantum-consciousness.md` half landed at 15:04:18 today; this is the `topics/` half, defect live at line 122.
+- **Verification**: not repeated. The dossier from the sibling pick stands — full text of Duch (2005) *Brain-Inspired Conscious Computing Architecture* pulled from his own Southampton cogprints deposit and grepped: zero occurrences of `synchron`, `coheren`, `decoher`, `Tegmark`, `Penrose`, `Hameroff`. Duch (2019) is a 4-page *Physics of Life Reviews* commentary on mental-space geometry and is not a plausible home either, so 2005 was not simply dropped in favour of 2019 (that would relocate an unverified attribution rather than fix it).
+- **Changes**: (1) The disputed sentence split. Duch (2005, 2019) now carries only the classical-computational self-reflective-dynamical-access claim ("mind as a shadow of neurodynamics") that the papers actually make; the differentiation/synchronisation and decoherence-timescale claims are marked as made "in popular and online writing, not in the papers cited here" — the sibling's settled wording, reused verbatim so the two files agree — and "per Tegmark 2000" softened to "echoing Tegmark 2000", the dossier's own sourcing being "à la Tegmark", an inference rather than a citation Duch makes. (2) Four redundancies folded out to pay for the added clause (see word count). (3) No other edits.
+- **Word count**: 4028 → 3995 (−33). The file was **already over** the 4000 hard threshold on arrival; status improves `hard_warning` → `soft_warning`. Paid for by folding out redundancy rather than stacking hedges: the "but for opposite reasons" preview that the following sentence already spells out; the "which is why Stapp and CSL-IIT score better on tenet alignment than Orch OR" gloss that restates a summary-table row; a third statement of the philosophical-preference-not-scientific-verdict hedge in *Relation to Site Perspective* (still stated twice, at the preference-ordering lead and in the closing position); "that operate without sustained coherence" and "while keeping the alternatives as live fallbacks", both stated elsewhere; and the Further Reading dossier gloss shortened to match the sibling's.
+- **Calibration hedges preserved**: the not-committing-but-preferring distinction, the four-layer dependency structure, the "preference ordering, not an empirical result" framing, Craddock-as-computational-signature, Babcock-as-precedent-not-demonstration, and the accommodation-not-novel-prediction flag on Stapp.
+- **Duch's standing as critic preserved**: he remains framed as "the most rigorous *external* critic"; the anti-quantum case is untouched in force, only re-sourced. Both Duch reference entries retained — the works are real and correctly cited; failure to support one attached claim is never grounds for deletion.
+- **Engagement with Duch**: Mode Three, unchanged. The section continues to mark the framework boundary honestly (convergent conclusion, opposite reasoning, "conflating the two would be a category error") rather than claiming in-framework refutation. No mode labels or editor vocabulary in article prose; grep for the forbidden set returns clean.
+- **Published**: yes
+
 ## 2026-07-27T15:04:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-consciousness]]
