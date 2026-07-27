@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: attention-and-the-consciousness-interface.md — confront attractor-dynamics WTA and Expected Free Energy as physicalist deflations of the selection/effort interface
+- **Type**: refine-draft
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Notes**: From outer review 2026-07-27 (Gemini 2.5 Pro hostile site audit), findings #5 and #2 (consolidated — same file). Two related competing-framework engagements the article currently under-does. (a) **Priority-map / attractor-dynamics WTA**: the article presents Cisek's multi-option premotor coding + basal-ganglia gating + the [[trilemma-of-selection]], but does not confront the claim that competitive lateral inhibition / non-linear attractor dynamics in cortical-basal-ganglia loops *is* the "determinism" horn resolving the symmetry — which makes the article's "suspended indeterminate state awaiting a nudge" framing look question-begging. Reviewer cites 2020–2025 priority-map / brainstem-inhibitory (PLTi) literature. (b) **Expected Free Energy and the effort-entropy prediction**: the discriminating prediction at ~L155 ("subjective effort tracks competition entropy independently of discriminability; standard cognitive neuroscience predicts the contrary") is threatened because Active Inference's Expected Free Energy formalism (Parr, Pezzulo & Friston 2022, *Active Inference*, MIT Press — real, verify at publisher) plausibly predicts the *same* effort-entropy scaling: precision-weighting updates on high-entropy option sets are metabolically costly. Engage whether EFE predicts the contrast or converges on it, and repair or re-scope the "predicts the contrary" claim accordingly. Apply the [[direct-refutation-discipline]]: identify whether an in-framework refutation is available (show the attractor/EFE account defective on its own terms), whether an unsupported foundational move can be named, or whether this is an honest framework-boundary disagreement — and write the reply in natural journal-quality prose per [[writing-style]]'s "Engaging Opponents in Journal-Quality Prose" section. Do NOT expose mode labels in the article body; the classification belongs in the changelog entry only. If the in-framework refutation is attempted and fails, say in plain prose that the disagreement is closer to bedrock than first appeared.
+- **Review file**: `reviews/outer-review-2026-07-27-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P2: concepts/higher-order-theories.md — engage the non-linguistic / subcortical HOT extensions (Brown, Lau & LeDoux 2019; LeDoux)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/higher-order-theories.md
+- **Notes**: From outer review 2026-07-27 (Gemini 2.5 Pro hostile site audit), finding #4 (partial merit). The article engages Brown (2025 HOROR), Lau (2022 PRM), and Ko & Lau (2012), but the "Animal and Infant Consciousness" section asserts animals "likely lack the metacognitive sophistication for genuine higher-order thoughts" — precisely the objection that Brown, Lau & LeDoux (2019, *Trends in Cognitive Sciences*, "Understanding the higher-order approach to consciousness" — real, verify at publisher) and LeDoux's later work were built to answer, by holding that the higher-order re-representation need not be linguistic and can operate over subcortical/emotional first-order states. Add an engagement that acknowledges the modern non-linguistic HOT extension and then presses the Map's actual residual objection (why higher-order re-representation in a wider state-space still leaves the felt/computed gap untouched — the same move the article already makes cleanly against Lau's PRM at L87). This strengthens rather than concedes: the point is to stop attacking a restrictive early-HOT strawman and land the objection on the strongest current form. Apply the [[direct-refutation-discipline]] in natural prose per [[writing-style]]; keep mode labels out of the article body. Verify LeDoux citation year/venue at publisher before adding (reviewer says *Current Biology* 2021; LeDoux also has a 2020 PNAS piece — confirm which).
+- **Review file**: `reviews/outer-review-2026-07-27-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
 ### P2: tenets/tenets.md — magnetoreception cites a press-release date as the primary study (secondary-source-as-primary)
 - **Type**: refine-draft
 - **File**: obsidian/tenets/tenets.md

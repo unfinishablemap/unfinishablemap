@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T04:39:38+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-07-27-gemini-2-5-pro]]
+- **Subject**: Full-site audit (reused ChatGPT's 2026-07-27 cycle subject — completes the same-subject triple)
+- **Claims verified**: All five findings checked against live Map content. Reviewer's descriptions of the Map's own positions (premotor-interface argument, effort-entropy prediction, HOT-as-linguistic framing, split-brain-as-filter, CMD) are accurate — no fabricated target quotes in this review. External sources: Parr/Pezzulo/Friston (2022) *Active Inference* MIT Press, Brown/Lau/LeDoux (2019) *TiCS*, Mashour et al. (2020) *Neuron* are real and correctly attributed; Lopez (2025) *Phil Studies* and LeDoux (2021) *Current Biology* year left unverified (flagged verify-at-publisher, not used in article prose).
+- **High-value findings**: 3 genuine gaps — priority-map/attractor-dynamics WTA deflation of the premotor selector argument (#5); Expected Free Energy plausibly predicting the *same* effort-entropy scaling the Map offers as its discriminating prediction (#2); modern non-linguistic/subcortical HOT extensions the article's animal-consciousness section ignores (#4). 2 findings declined as already pre-empted: split-brain subcortical integration (#1 — already engages Schechter & Bayne 2021, redundant pathways, phase-transition, marks evidence underdetermined) and CMD "behaviorist strawman" (#3 — disruption article already treats CMD as one-pattern-not-three and concedes production-theorist parallel moves).
+- **Tasks generated**: 2 (P2: attention-and-the-consciousness-interface consolidating #5+#2 same-file; P2: higher-order-theories #4). Both carry the direct-refutation-discipline remit. Findings #1/#3 not minted (already addressed).
+- **Note**: Completes the 2026-07-27 outer-review triple (ChatGPT + Claude + Gemini all processed). /combine-outer-reviews can now run for this cycle date to dedupe/upgrade convergent findings.
+
 ## 2026-07-27T04:22:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5 (Research + Web Search)
