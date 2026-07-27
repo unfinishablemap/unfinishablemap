@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T00:34:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/simulation-theory-of-memory]]
+- **Word count**: 1520 → 1527 (+7, verbatim-quote correction with faithful continuation clause)
+- **Critical issues addressed**: 1 (Hassabis 2007 misquote: `"lacking in spatial coherence"` → verbatim `"lacked spatial coherence"`; prior review ledgered the correct form but the body was never corrected)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no filler added)
+- **Citations**: metadata ledger from 2026-06-24 stands (References unchanged); this pass re-verified load-bearing verbatim quotes at publisher — Michaelian "to imagine the past" real-correct, Rivadulla-Duró discrimination-problem quote real-correct, Hassabis quote corrected. Reasoning-mode: Michaelian eliminative-gloss engagement Mode Two, parsimony engagement Mode Two — both unchanged.
+- **Output**: [[reviews/deep-review-2026-07-27-simulation-theory-of-memory]]
+
 ## 2026-07-27T00:18:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/continual-learning-argument]]

@@ -4,8 +4,8 @@ description: "Remembering as imagining the past: the constructive-simulation acc
 created: 2026-06-24
 modified: 2026-06-24
 human_modified: null
-ai_modified: 2026-06-24T11:11:21+00:00
-last_deep_review: 2026-06-24T11:11:21+00:00
+ai_modified: 2026-07-27T00:34:01+00:00
+last_deep_review: 2026-07-27T00:34:01+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -45,7 +45,7 @@ In cognitive neuroscience, Schacter and Addis's *constructive episodic simulatio
 
 The functional argument runs through how the components are stored. On the Schacter, Addis, and Buckner (2008) account, episodic memories are not laid down as integral records but as collections of constituent elements—people, objects, locations, actions—bound into a spatiotemporal context. Because the system flexibly extracts and recombines those elements (Schacter and Addis, 2007), the very machinery that reconstructs the past also assembles simulations of hypothetical future events. Memory, on this picture, is constructive and prospective rather than archival.
 
-The supporting clinical evidence comes from scene construction. Hassabis, Kumaran, Vann, and Maguire (2007) found that patients with hippocampal amnesia, asked to imagine fictitious and future scenarios, were impaired on both: their imagined experiences were "lacking in spatial coherence." The same machinery, on this reading, underwrites memory and imagination alike.
+The supporting clinical evidence comes from scene construction. Hassabis, Kumaran, Vann, and Maguire (2007) found that patients with hippocampal amnesia, asked to imagine fictitious and future scenarios, were impaired on both: their imagined experiences "lacked spatial coherence," consisting of fragmented images without a holistic sense of the scene. The same machinery, on this reading, underwrites memory and imagination alike.
 
 ### Post-Causal Simulationism
 
