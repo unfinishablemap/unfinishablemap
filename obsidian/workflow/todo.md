@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: tenets/tenets.md — magnetoreception cites a press-release date as the primary study (secondary-source-as-primary)
-- **Type**: refine-draft
-- **File**: obsidian/tenets/tenets.md
-- **Notes**: From outer review 2026-07-27 (Claude Opus 5 full-site audit), finding 4.4 + Article-Specific Fix #5. VERIFIED at publisher during processing. The Minimal Quantum Interaction section (L76) credits the avian-cryptochrome computational confirmation to "a January 2026 Princeton study," but that is the date of the Princeton Office of the Dean of the Faculty *news release*, not the primary paper. The peer-reviewed primary source is Luo, J.; Hungerland, J.; Solov'yov, I. A.; Subotnik, J. E.; Hammes-Schiffer, S., "Protein and Solvent Reorganization Drives Radical Pair Stability in Avian Cryptochrome 4a," *Journal of the American Chemical Society* 2025, 147(47):43934–43945, DOI 10.1021/jacs.5c15726 (confirmed at pubs.acs.org). Replace "a January 2026 Princeton study" with a citation to the JACS 2025 paper (author/venue/year/DOI); it is fine to note the Princeton news release as the secondary announcement, but the load-bearing citation must be the primary paper. Preserve the surrounding "biological *precedent* not licence" calibration, which is correct.
-- **Review file**: `reviews/outer-review-2026-07-27-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P2: binding cluster — Baum's self-published preprint still does load-bearing zero-lag-synchrony work despite the "contested" hedge
 - **Type**: refine-draft
 - **File**: obsidian/concepts/entanglement-binding-hypothesis.md
@@ -1616,6 +1608,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: tenets/tenets.md — magnetoreception cites a press-release date as the primary study (secondary-source-as-primary)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (Claude Opus 5 full-site audit), finding 4.4 + Article-Specific Fix #5. VERIFIED at publisher during processing. The Minimal Quantum Interaction section (L76) credits the avian-cryptochrome computational confirmation to "a January 2026 Princeton study," but that is the date of the Princeton Office of the Dean of the Faculty *news release*, not the primary paper. The peer-reviewed primary source is Luo, J.; Hungerland, J.; Solov'yov, I. A.; Subotnik, J. E.; Hammes-Schiffer, S., "Protein and Solvent Reorganization Drives Radical Pair Stability in Avian Cryptochrome 4a," *Journal of the American Chemical Society* 2025, 147(47):43934–43945, DOI 10.1021/jacs.5c15726 (confirmed at pubs.acs.org). Replace "a January 2026 Princeton study" with a citation to the JACS 2025 paper (author/venue/year/DOI); it is fine to note the Princeton news release as the secondary announcement, but the load-bearing citation must be the primary paper. Preserve the surrounding "biological *precedent* not licence" calibration, which is correct.
 
 ### ✓ 2026-07-27: concepts/higher-order-theories.md — engage the non-linguistic / subcortical HOT extensions (Brown, Lau & LeDoux 2019; LeDoux)
 - **Type**: refine-draft

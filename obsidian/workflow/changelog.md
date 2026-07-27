@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T08:32:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets]]
+- **Review context**: [[reviews/outer-review-2026-07-27-claude-opus-5]] finding 4.4 / Article-Specific Fix #5 — the Minimal Quantum Interaction section credited the avian-cryptochrome computational work to "a January 2026 Princeton study", which is the date of the Princeton Office of the Dean of the Faculty *news release*, not the primary peer-reviewed paper.
+- **Changes**: single-sentence citation replacement in the "Biological precedent for quantum effects in warm systems" paragraph. "a January 2026 Princeton study" → Luo, Hungerland, Solov'yov, Subotnik & Hammes-Schiffer (2025, *Journal of the American Chemical Society* 147(47):43934–43945, [10.1021/jacs.5c15726](https://doi.org/10.1021/jacs.5c15726)), with a short gloss naming what the paper actually did (modelling how protein and solvent reorganisation stabilises the charge-transfer states the radical-pair mechanism requires) and the Princeton news release demoted to a parenthetical secondary announcement.
+- **Citation verification (gating — publisher metadata via Crossref API for DOI 10.1021/jacs.5c15726, cross-checked against the PMC deposit PMC12673606; pubs.acs.org returns 403 to direct fetch)**: title "Protein and Solvent Reorganization Drives Radical Pair Stability in Avian Cryptochrome 4a" **confirmed**; author order Jiate Luo, Jonathan Hungerland, Ilia A. Solov'yov, Joseph E. Subotnik, Sharon Hammes-Schiffer **confirmed** (Luo first); *Journal of the American Chemical Society* **confirmed**; volume **147**, issue **47**, pages **43934–43945** **confirmed**; published online 2025-11-14, print issue 2025-11-26 — so the correct citation year is **2025**, not 2026. Every field in the task text checked out; no field was left unconfirmed.
+- **Claim-strength discipline**: the study is computational/theoretical (first-principles electronic structure + hybrid QM/MM simulations), not experimental, and is not the first work on the radical-pair mechanism. "computational" was kept doing its calibration work, the added gloss says "modelling", and no "demonstrated" / "first" / "experimental" / "showed" vocabulary was introduced. This is the corpus's documented recurring defect in exactly this subject area (cryptochrome modelling written up as measurement) and the sentence was checked against it after editing.
+- **Preserved**: the surrounding calibration is untouched — "biological *precedent* rather than a licence", "does not by itself entail", "the narrower claim the Map leans on", and the closing restriction to pre-decoherence-coherence mechanism candidates all survive verbatim. No other tenet section and no part of the Tenet-Dependency Matrix was modified. Inline citation style matches the house pattern used in the comparative-cognition paragraph.
+- **Published**: yes
+
 ## 2026-07-27T07:52:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/higher-order-theories]]
