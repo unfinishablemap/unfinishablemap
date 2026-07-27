@@ -1,7 +1,7 @@
 ---
 title: Research Notes - Consciousness During General Anesthesia and Filter Theory
 created: 2026-03-20
-ai_modified: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-07-27T12:44:00+00:00
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
@@ -185,7 +185,7 @@ General anesthesia does not produce a simple binary switch between consciousness
 | 2004 | Tononi, Integrated Information Theory | Provided mathematical framework linking consciousness to information integration |
 | 2007 | Kelly et al., *Irreducible Mind* | Comprehensive modern case for transmission/filter theory with empirical evidence |
 | 2015 | Sarasso et al., ketamine complexity study | Demonstrated preserved brain complexity and vivid dreaming under ketamine vs. propofol/xenon |
-| 2018 | Noreika et al., consciousness partly preserved | Showed words processed during anesthesia; dreaming recalled by nearly all participants |
+| 2018 | Kallionpää et al., *BJA* 121(1):270-280 | Spoken words still elicited word-level cortical responses under dexmedetomidine-induced unresponsiveness; semantic congruity effect abolished, no post-recovery recognition |
 | 2022 | Rouleau & Cimino, Transmissive Theory review | Review of transmission theory with neuroscience evidence |
 | 2023 | Sanders et al., BJA Open review | Comprehensive review establishing three consciousness states under anesthesia |
 | 2023 | AWARE-II study results | Multi-centre study of consciousness during cardiac arrest |
