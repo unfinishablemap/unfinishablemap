@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-27
 
-### P1: apex/testing-the-map-from-inside.md — first-person causal verification is both impossible (P-A4) and advertised as a test
-- **Type**: refine-draft
-- **File**: obsidian/apex/testing-the-map-from-inside.md
-- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro full-site audit), finding 4.4 + improvement 21/22. The agency register (P-A4) says a subject cannot certify its own causal efficacy introspectively, yet this apex presents breath/attention/choice exercises as tests and at one point says accessing three layers "confirms" the Map's claim, inferring genuine selection from the felt difference between controlling and observing. The exercises establish phenomenological distinctions only; they cannot distinguish nonphysical selection from identity, functional, or higher-order physical accounts. Remove "confirm" / "test whether choice is real" language; place the P-A4 first-person-verification limit prominently BEFORE the exercises, not after. Apply the [[direct-refutation-discipline]] remit: this is an in-framework epistemic contradiction, so state the verification limit honestly in natural journal-quality prose rather than protecting the test's evidential status. Do not expose mode labels in the article body; keep the classification in the changelog entry.
-- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P1: apex/time-consciousness-growing-block.md — time both requires consciousness and existed prebiotically without it
 - **Type**: refine-draft
 - **File**: obsidian/apex/time-consciousness-growing-block.md
@@ -1665,6 +1657,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: apex/testing-the-map-from-inside.md — first-person causal verification is both impossible (P-A4) and advertised as a test
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro full-site audit), finding 4.4 + improvement 21/22. The agency register (P-A4) says a subject cannot certify its own causal efficacy introspectively, yet this apex presents breath/attention/choice exercises as tests and at one point says accessing three layers "confirms" the Map's claim, inferring genuine selection from the felt difference between controlling and observing. The exercises establish phenomenological distinctions only; they cannot distinguish nonphysical selection from identity, functional, or higher-order physical accounts. Remove "confirm" / "test whether choice is real" language; place the P-A4 first-person-verification limit prominently BEFORE the exercises, not after. Apply the [[direct-refutation-discipline]] remit: this is an in-framework epistemic contradiction, so state the verification limit honestly in natural journal-quality prose rather than protecting the test's evidential status. Do not expose mode labels in the article body; keep the classification in the changelog entry.
 
 ### ✓ 2026-07-27: positions/quantum-interface.md — convert the flagship's "entirely metaphysical" confession into a binding P-Q1/P-Q3 register action
 - **Type**: positions-evolve

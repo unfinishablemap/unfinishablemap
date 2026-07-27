@@ -5,6 +5,21 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T05:33:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/testing-the-map-from-inside]]
+- **Review context**: outer-review-2026-07-27-chatgpt-5-5-pro, finding 4.4 + improvements 21/22 (P-A4 first-person-verification limit vs introspective-test framing; direct epistemic contradiction)
+- **Changes**:
+  - Installed a prominent P-A4 verification-limit paragraph in the intro, BEFORE the first exercise: no subject can certify its own causal efficacy introspectively (the check is run by the faculty whose causal status is in question); exercises characterise phenomenology, cannot adjudicate nonphysical selection vs identity/functional/higher-order physical readings that predict the same felt contrasts; symmetric with epiphenomenalism. Cross-links [[positions/agency-and-will|P-A4]] and [[agency-void]].
+  - Removed the "you've confirmed something the Map claims" language from the Three-Level Test (finding 4.4's named target); reframed to "mapped a phenomenological structure" + explicit note that accessing the layers does not show the layering is nonphysical.
+  - Softened the trilemma's "Only genuine selection explains…" to "On the Map's reading…", noting the felt contrast is equally available to a two-physical-states account.
+  - Reframed the description frontmatter away from "reveals whether choice is real" → "characterises the phenomenology … as first-person data"; softened apex_thesis "testable from the inside" overclaim.
+  - Changed intro "These predictions are testable from the first-person perspective" → data-gathering framing.
+  - Strengthened the closing "What the Tests Establish—and Don't" P-A4 cross-link (improvement 22).
+- **Engagement classification** (editor-internal, per [[direct-refutation-discipline]]): materialist/identity/functional/higher-order-physical reader — Mode One (defective on its own terms): the in-framework epistemic contradiction is the Map's own P-A4 limit, so the fix states the verification limit honestly rather than protecting the exercises' evidential status. No mode labels written into the body.
+- **Frontmatter**: ai_modified bumped; ai_system → claude-opus-4-6+claude-opus-4-8 (co-attribution, substantive content edit).
+- **Published**: yes
+
 ## 2026-07-27T05:18:12+00:00 - deep-review
 - **Status**: Success (no-op convergence pass)
 - **File**: [[topics/temporal-consciousness-structure-and-agency]]
