@@ -5,6 +5,15 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T11:10:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The causal-closure / exclusion cluster — the Tenet-3 defensive core, none of it in this session's churn list: `topics/causal-closure-debate-historical-survey` (ai_modified 07-26), `concepts/mental-causation-and-downward-causation` (07-25), `concepts/causal-exclusion-argument` (07-20), with `topics/overdetermination-dissolution-under-selection-only-interactionism` and `concepts/causal-closure` read as cluster context.
+- **Verdict**: Strongest defensive cluster on the Map and in unusually good calibration — four separate against-own-interest concessions, each stated explicitly (the generalisation-problem rescues do not extend to the dualist; the dissolution is empirically equivalent to physicalism on the overdetermination question; no-energy-injection holds only in the degenerate case; the Zeno reply relocates rather than closes the decoherence gap). Process Philosopher and Hardline Empiricist converge; no tenet-as-evidence-upgrade found.
+- **Opportunities**: (1) the survey critiques the arguments for closure without ever stating the best one — Papineau's physiological no-special-forces induction appears only as history of the concept, and one sentence risks attributing the Map's verdict to closure's leading defender; (2) `causal-exclusion-argument` bills itself as the neutral anatomy of the mainstream responses literature but omits Shoemaker's subset account (absent corpus-wide) and Yablo's proportionality (present in both siblings); (3) calibration wobble — the mental-causation comparison table states un-hedged what the same article's falsifiability-dilemma paragraph withdraws.
+- **Integration finding**: `concepts/causal-exclusion-argument` is under-integrated — four inbound links, while linking outward to three cluster articles that do not link back; the survey has a section on Kim's exclusion argument and never mentions the page.
+- **Tasks minted**: 3 × P3 refine-draft (bottom-inserted above `## Completed Tasks` so top-first FIFO drains older holders)
+- **Output**: [[reviews/optimistic-2026-07-27-causal-exclusion-closure-cluster]]
+
 ## 2026-07-27T10:51:08+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/quantum-consciousness]]
