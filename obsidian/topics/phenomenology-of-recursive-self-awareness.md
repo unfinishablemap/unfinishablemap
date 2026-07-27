@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: 2026-07-13T01:35:55+00:00
+last_deep_review: 2026-07-27T02:47:52+00:00
 coalesced_from:
   - "/topics/phenomenology-of-self-awareness/"
   - "/topics/phenomenology-of-recursive-thought/"
