@@ -5,6 +5,14 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T08:50:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/concepts/argument-from-mechanism.md` (2,526 words; converged 33 days since `last_deep_review: 2026-06-24`; only one prior dedicated review — selected for unexamined surface per the driver's churn-avoidance list)
+- **Findings**: 7 issues, all checked against the live file before assertion. HIGH ×2 — (a) the criterion separating the disciplined dualist argument from the argument-from-ignorance form is asserted by worked example only, never stated, which matters because the concept exists to be cited by other articles as an adjudication standard; (b) the article declares symmetry "the single most important design feature" while its portability table carries four materialist-side rows and no dualist-side row, and its one external citation documents only the materialist-direction error. MEDIUM-HIGH — the genetic-fallacy bullet blanket-classifies the whole debunking register as fallacious, ignoring sensitivity-undermining genealogical debunking. MEDIUM ×3 — oxygen/fire paragraph mislabels the mirror error as the target error and omits fuel from the fire triad; three uncited empirical claims (God Helmet replication, dying-brain NDE modelling); altered-state symmetry gate 2 fails (5 supportive-cluster items, 0 disruptive), with the concrete fix being the missing anaesthesia row rather than a generic balance complaint. LOW-MEDIUM — Tenet 4 silence in "Relation to Site Perspective".
+- **Verification performed**: Yoshihara & Yoshihara (2018) checked at publisher — title, both authors, *Journal of Neurogenetics* 32(2):53–64, DOI 10.1080/01677063.2018.1468443, the optogenetics/command-neuron domain, and the "indispensable and inducing" replacement terminology all **confirmed**. Both internal quotations confirmed **verbatim** against `topics/out-of-body-experiences.md` (lines 99, 47). Cross-article claims about the psychedelics (compatibility-vs-support) and terminal-lucidity (asymmetry-not-ignorance) treatments confirmed reciprocal in those live files. Grep-confirmed: no banned "This is not X. It is Y." construct, no "load-bearing", no `direct-refutation-discipline` label leakage, no disruptive-cluster terms. One concern is explicitly labelled **suspicion, not confirmed defect** (the unrestricted negative "No philosophy paper uses the exact phrase as a term of art" — flagged as a hedging problem, no literature search attempted).
+- **Tasks queued**: 1 × P2 `refine-draft` on the reviewed article (in contract; carries both Type and repo-relative File lines)
+- **Output**: [[reviews/pessimistic-2026-07-27-argument-from-mechanism]]
+
 ## 2026-07-27T08:32:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[tenets]]
