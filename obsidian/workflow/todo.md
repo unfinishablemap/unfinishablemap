@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-27
 
-### P1: apex/time-consciousness-growing-block.md — time both requires consciousness and existed prebiotically without it
-- **Type**: refine-draft
-- **File**: obsidian/apex/time-consciousness-growing-block.md
-- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.7 + 4.8, improvements 24/25. The article says consciousness and time are mutually constitutive (no temporal facts without consciousness-involving collapse) yet also says objective collapse supplied the prebiotic arrow of time without consciousness — an internal contradiction. Rewrite around ONE thesis: either consciousness locally participates in some collapse events (compatible with prebiotic time), or consciousness is constitutive of time generally (incompatible with the prebiotic arrow) — do not retain both. Also propagate the level distinctions from `non-temporal-consciousness` (temporal content vs phenomenal organisation vs neural integration vs subject persistence vs metaphysical temporal location) so the stronger apex conclusions stop treating temporal structure as categorically necessary for consciousness.
-- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P1: apex/interface-specification-programme.md — trumping and quantum difference-making treated as both alternatives and one mechanism; "confirmation" vocabulary overreach
 - **Type**: refine-draft
 - **File**: obsidian/apex/interface-specification-programme.md
@@ -1657,6 +1649,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: apex/time-consciousness-growing-block.md — time both requires consciousness and existed prebiotically without it
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.7 + 4.8, improvements 24/25. The article says consciousness and time are mutually constitutive (no temporal facts without consciousness-involving collapse) yet also says objective collapse supplied the prebiotic arrow of time without consciousness — an internal contradiction. Rewrite around ONE thesis: either consciousness locally participates in some collapse events (compatible with prebiotic time), or consciousness is constitutive of time generally (incompatible with the prebiotic arrow) — do not retain both. Also propagate the level distinctions from `non-temporal-consciousness` (temporal content vs phenomenal organisation vs neural integration vs subject persistence vs metaphysical temporal location) so the stronger apex conclusions stop treating temporal structure as categorically necessary for consciousness.
 
 ### ✓ 2026-07-27: apex/testing-the-map-from-inside.md — first-person causal verification is both impossible (P-A4) and advertised as a test
 - **Type**: refine-draft

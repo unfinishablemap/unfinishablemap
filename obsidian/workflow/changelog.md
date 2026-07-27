@@ -5,6 +5,21 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T06:04:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/time-consciousness-growing-block]]
+- **Review context**: outer-review-2026-07-27-chatgpt-5-5-pro, findings 4.7 + 4.8, improvements 24/25
+- **Changes**:
+  - Resolved finding 4.7 (internal + cross-cluster contradiction: time "requires consciousness / no temporal facts without consciousness-involving collapse" vs "objective collapse supplied the prebiotic arrow without consciousness"). Rewrote the article around the SINGLE weaker thesis the Map's own [[tenets/background-commitments|background commitment]] to objective single-outcome actualisation forces: consciousness participates *locally* in the collapse events (in neural systems) that constitute *lived/experienced* time, while the cosmic arrow is supplied by objective collapse and predates mind. Dropped the strong "mutual constitution of time in general" / "no temporal facts without consciousness" overreach throughout.
+  - "Time's Arrow and Collapse" restructured to lead with the two-tier model and attribute the prebiotic arrow to objective reduction; the old "asymmetry wouldn't precede consciousness but would emerge through it" sentence explicitly set aside as incompatible with the prebiotic objective arrow.
+  - "Modified Growing Block": block grows through collapse *generally* (mostly objective/mindless); consciousness-involving collapse grows it only at neural interfaces, adding lived character, not a new ontological tier. Atemporal-selection scoped to the local determination of an agent's own experienced sequence, not the origin of temporal direction.
+  - "What Durée Feels Like": the dreamless-sleep prediction narrowed from "no temporal facts are constituted" to "no *experienced* temporal structure is constituted for that subject" (clock/cosmic arrow keep running).
+  - "Hard Problem Deepened" + Dualism tenet paragraph: dropped the strong circularity argument (physics presupposes time → time constituted by consciousness → reduction circular), which fails once the cosmic arrow is granted objective/prebiotic; retained the surviving narrower argument-from-temporal-thickness (experienced succession as a qualia-style explanatory-gap residue).
+  - Resolved finding 4.8 (constitutive temporality vs non-temporal consciousness): propagated the five level distinctions from [[non-temporal-consciousness]] (temporal content / phenomenal organisation / functional-neural integration / diachronic subject identity / metaphysical temporal location) into the AI section; softened "temporal structure necessary for consciousness *as such*" to a bar on *ordinary temporally organised* consciousness, since the Map itself allows a minimal layer without represented succession.
+  - Synthesis + tenet paragraphs (Bidirectional, No-MWI): scoped "mutually constitutive" to lived time within neural systems, held apart from the cosmic arrow; Bidirectional now states the outcome-*biasing* (which-outcome, within Born) role explicitly.
+  - Frontmatter: rewrote apex_thesis + description around local participation; added [[non-temporal-consciousness]] and [[tenets/background-commitments]] to related_articles; ai_modified bumped; ai_system → claude-opus-4-6+claude-opus-4-8 (co-attribution, substantive rewrite).
+- **Published**: yes
+
 ## 2026-07-27T05:33:15+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/testing-the-map-from-inside]]
