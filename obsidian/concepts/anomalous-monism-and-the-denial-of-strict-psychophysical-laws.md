@@ -4,7 +4,7 @@ description: "Davidson's anomalous monism holds mental events are physical yet l
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-07-10T17:47:34+00:00
+ai_modified: 2026-07-27T13:54:04+00:00
 draft: false
 topics:
   - "[[dualism]]"
@@ -16,10 +16,10 @@ related_articles:
   - "[[philosophy-of-action-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-10
 last_curated:
-last_deep_review: 2026-07-10T18:00:00+00:00
+last_deep_review: 2026-07-27T13:54:04+00:00
 ---
 
 Anomalous monism is Donald Davidson's proposal that every mental event *is* a physical event, yet no strict law connects the mental to the physical. It is a subtle physicalist rival to the Map's law program, not a refutation of it and not a vindication of it. Davidson and the Map converge on one premise — strict *reductive* psychophysical bridge laws fail — and split on the verdict. Davidson concludes the mental is anomalous yet physical, governed by no psychophysical law at all. The Map concludes there is instead a *non-strict, probabilistic selection law* operating at the quantum measurement interface ([[tenets|Tenets 2 and 3]]). The pressure point that makes this contrast matter is the charge, first pressed by Honderich in 1982, that Davidson's view leaves mental *properties* causally idle — an epiphenomenalism of the mental qua mental. That objection is exactly why the Map wants a genuine law rather than mere token-identity, and it is developed at length below.
@@ -30,7 +30,7 @@ Davidson introduces anomalous monism in "Mental Events" (1970) as the resolution
 
 1. **The Principle of Causal Interaction**: at least some mental events causally interact with physical events. Perceptions are caused by the world; intentions cause bodily movements.
 
-2. **The Principle of the Nomological Character of Causality**: "where there is causality, there must be a law; events related as cause and effect fall under strict deterministic laws" (Davidson 1970). Singular causal relations are backed by strict laws.
+2. **The Principle of the Nomological Character of Causality**: "where there is causality, there must be a law: events related as cause and effect fall under strict deterministic laws" (Davidson 1970). Singular causal relations are backed by strict laws.
 
 3. **The Anomalism of the Mental**: "there are no strict deterministic laws on the basis of which mental events can be predicted and explained" (Davidson 1970). No strict law — psychophysical or purely psychological — governs mental events *as* mental.
 
@@ -40,17 +40,17 @@ Token identity is therefore *derived*, not assumed. This is what distinguishes a
 
 ## Anomalism Grounded in the Constitutive Role of Rationality
 
-Why accept the third principle — that the mental is lawless? Davidson's argument is not merely that psychophysical laws have not yet been found. It is that ascribing beliefs, desires, and intentions is governed by *constitutive* norms of rationality — coherence, consistency, charity — that "have no echo in physical theory" (Davidson 1970). To interpret someone as believing something, we must fit that belief into a broadly rational total pattern of attitudes. This holism and normativity have no counterpart in the description of neurons or particles, which answer to no ideal of coherence. Because the two vocabularies answer to disparate constitutive commitments, they cannot be locked together by strict bridge laws. The mental and physical schemes "cross-classify" the same events.
+Why accept the third principle — that the mental is lawless? Davidson's argument is not merely that psychophysical laws have not yet been found. It is that inferring someone's beliefs and desires from the evidence forces us to impose *constitutive* "conditions of coherence, rationality, and consistency" — conditions that, as Davidson puts it in the companion essay "Psychology as Philosophy," "have no echo in physical theory, which is why we can look for no more than rough correlations between psychological and physical phenomena" (Davidson 1974). To interpret someone as believing something, we must fit that belief into a broadly rational total pattern of attitudes. This holism and normativity have no counterpart in the description of neurons or particles, which answer to no ideal of coherence. Because the two vocabularies answer to disparate constitutive commitments, they cannot be locked together by strict bridge laws. The mental and physical schemes "cross-classify" the same events.
 
 The result is a distinctive package: **ontological monism** (every mental event token is a physical event token) combined with **conceptual and nomological dualism** (mental predicates are not law-linked to physical predicates). The mental *supervenes* on the physical — no two events can differ mentally without differing physically — without being reducible to it. For how supervenience delivers dependence without reduction, see [[supervenience]]; Davidson is often credited with introducing the term to philosophy of mind in this very paper.
 
 ## The Epiphenomenalism Objection
 
-The most persistent objection, and the one most useful to the Map, is that anomalous monism secures the causal efficacy of mental *events* while abandoning the causal relevance of mental *properties*. Ted Honderich launched it in "The Argument for Anomalous Monism" (1982). His point: not all of an event's properties are causally relevant to a given effect. The window breaks because the rock is heavy and fast, not because it is grandmother's rock. Causal relevance, Honderich argues, tracks the *nomic* properties — those that figure in the backing law. On Davidson's view the backing laws are all physical, so only an event's physical properties are nomically efficacious. Its mental properties, being anomic, do no causal work. Honderich proposes reframing the cause-law principle as the "Principle of the Nomological Character of Causally Relevant Properties," which explicitly denies causal relevance to anomic mental properties.
+The most persistent objection, and the one most useful to the Map, is that anomalous monism secures the causal efficacy of mental *events* while abandoning the causal relevance of mental *properties*. Ted Honderich launched it in "The Argument for Anomalous Monism" (1982). His point: not all of an event's properties are causally relevant to a given effect. A bunch of pears on a grocer's scale can truly be described as green and as French, but it is not their greenness or their Frenchness that makes the scale read one pound. Causal relevance, Honderich argues, tracks the *nomic* properties — those that figure in the backing law. On Davidson's view the backing laws are all physical, so only an event's physical properties are nomically efficacious. Its mental properties, being anomic, do no causal work. Honderich proposes reframing the cause-law principle as the "Principle of the Nomological Character of Causally Relevant Properties," which explicitly denies causal relevance to anomic mental properties.
 
-Ernest Sosa sharpened the intuition in "Mind-Body Interaction and Supervenient Causation" (1984) with an example: a loud gunshot causes a death by virtue of the bullet's speed and mass, not by virtue of its loudness, even though the very same event is both loud and lethal. If the mental stands to the physical as loudness stands to mass, then the mental looks like the causally idle property — present at the event, but not what does the work.
+Ernest Sosa pressed the same charge in "Mind-Body Interaction and Supervenient Causation" (1984). The shape of the worry shows up in ordinary cases: a gunshot that is both loud and lethal kills by virtue of the bullet's speed and mass, not by virtue of its loudness, even though one event has both properties. If the mental stands to the physical as loudness stands to mass, then the mental looks like the causally idle property — present at the event, but not what does the work.
 
-Jaegwon Kim generalized the worry into a structural argument against nonreductive physicalism as such. In "The Myth of Nonreductive Materialism" (1989) he presses the fork: either reduce the mental to the physical or accept that it is epiphenomenal. In *Mind in a Physical World* (1998) he develops the supervenience (causal exclusion) argument: a mental cause M has a physical supervenience base P that already has full credentials to produce the effect, so M is *excluded* unless one accepts systematic overdetermination or reduction. Brian McLaughlin, in "Type Epiphenomenalism, Type Dualism, and the Causal Priority of the Physical" (1989), distinguishes the varieties of epiphenomenalism at stake and argues that anomalous monism collapses into *type* epiphenomenalism — mental *types* never cause anything qua mental. The exclusion machinery itself is treated in [[type-token-causation]]; the point here is only that it is the engine behind the property-idleness charge, not something to re-derive.
+Jaegwon Kim generalized the worry into a structural argument against nonreductive physicalism as such. In "The Myth of Nonreductive Materialism" (1989) he presses the fork: either reduce the mental to the physical or accept that it is epiphenomenal. In *Mind in a Physical World* (1998) he develops the supervenience (causal exclusion) argument: a mental cause M has a physical supervenience base P that already has full credentials to produce the effect, so M is *excluded* unless one accepts systematic overdetermination or reduction. Brian McLaughlin, in "Type Epiphenomenalism, Type Dualism, and the Causal Priority of the Physical" (1989), maps the varieties of epiphenomenalism at stake and isolates the one that matters here: *type* epiphenomenalism, on which mental *types* never cause anything qua mental. McLaughlin is not finally hostile to Davidson — he argues elsewhere that being efficacious in virtue of an event's physical properties does not entail being efficacious *only* in virtue of them — but his taxonomy is what gives the charge its sharp form. The exclusion machinery itself is treated in [[type-token-causation]]; the point here is only that it is the engine behind the property-idleness charge, not something to re-derive.
 
 ## Davidson's Reply: Deny Property-Causation
 
@@ -86,6 +86,7 @@ The primary tenet in play is **Tenet 2 (Minimal Quantum Interaction)**. Anomalou
 ## References
 
 1. Davidson, Donald. "Mental Events." In L. Foster & J. W. Swanson (eds.), *Experience and Theory*, 79-101. Amherst: University of Massachusetts Press, 1970. Reprinted in *Essays on Actions and Events*, Oxford: Clarendon Press, 1980, ch. 11.
+1. Davidson, Donald. "Psychology as Philosophy." In S. C. Brown (ed.), *Philosophy of Psychology*, 41-52. London: Macmillan, 1974. Reprinted in *Essays on Actions and Events*, Oxford: Clarendon Press, 1980, ch. 12 (229-244).
 1. Honderich, Ted. "The Argument for Anomalous Monism." *Analysis* 42, no. 1 (1982): 59-64. DOI: 10.1093/analys/42.1.59.
 1. Sosa, Ernest. "Mind-Body Interaction and Supervenient Causation." *Midwest Studies in Philosophy* 9, no. 1 (1984): 271-281. DOI: 10.1111/j.1475-4975.1984.tb00064.x.
 1. Kim, Jaegwon. "The Myth of Nonreductive Materialism." *Proceedings and Addresses of the American Philosophical Association* 63, no. 3 (1989): 31-47.
