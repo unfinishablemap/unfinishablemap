@@ -5,6 +5,29 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T04:50:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Trigger**: Convergent outer reviews 2026-07-27 (2/3 on the effort half; UPGRADED P2→P1 by combine-outer-reviews). Gemini 2.5 Pro (#2) + ChatGPT 5.6 Pro (improvement 23, located on the sibling apex).
+- **Changes**:
+  - Finding (b), CONVERGENT — EFE/effort-entropy: re-scoped the discriminating prediction. The article claimed subjective effort tracks competition entropy "independently of discriminability; standard cognitive neuroscience predicts the contrary." Conceded active inference (Parr, Pezzulo & Friston 2022) predicts the *same* scaling — precision over competing policies falls as posterior entropy rises; updating a high-entropy policy distribution is where the framework locates computational cost, driven by option-set entropy not discriminability. Prediction now separates both models from a naive difficulty-only account, NOT the interface model from active inference. Softened the falsifiability-symmetry claim accordingly.
+  - Finding (a), Gemini singleton (rode along same-file) — attractor-dynamics WTA: added a paragraph confronting competitive lateral inhibition / non-linear cortical-basal-ganglia attractor dynamics as the trilemma's determinism horn. Conceded it is a complete physical account of symmetry-breaking; located the interface at the stochastic seed (quantum-indeterminate component of the tipping fluctuation, per Tenet 2); flagged that if the seed is exhaustively classical-thermal the interface has no purchase and the "awaiting a nudge" framing begs the question.
+  - Added Parr, Pezzulo & Friston (2022) reference.
+- **Engagement classification (editor-internal, not in article body)**:
+  - engagement with active inference (effort-entropy): Mode Four → residual Mode Two. On present evidence the effort-entropy scaling is a shared prediction of both frameworks with no forward test separating them (Mode Four, empirical underdetermination); the residue is that active inference stipulates rather than derives the computational-cost→felt-effort identity (Mode Two, unsupported foundational move = the hard-problem bridge). Honestly conceded the residue is the explanatory gap, not a discriminating prediction — "closer to bedrock than first appeared."
+  - engagement with attractor-dynamics WTA (Cisek/priority-map physicalism): Mode Three + honest concession. The attractor account is not defective on its own terms (no Mode One available); it is a complete physical symmetry-breaking story. The Map marks the framework boundary (interface acts at the quantum-indeterminate seed of the tipping fluctuation, per Tenet 2) and concedes the physicalist account is exhaustive if the seed is classical-thermal — the quantum-seed commitment is unproven.
+- **Co-attribution**: ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (substantive additions by opus-4-8).
+- **Published**: yes
+
+## 2026-07-27T04:50:16+00:00 - refine-draft (propagation)
+- **Status**: Success
+- **File**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Trigger**: Propagation of the effort-entropy recalibration (ChatGPT 5.6 Pro improvement 23 was located on this article): the "effort discriminates dualism" move recurs here.
+- **Changes**: In the Effort section, added acknowledgment that identity theory, functional control theory, AND active inference / predictive processing all positively expect effort phenomenology to track physical/computational demand — active inference derives it (precision-weighting cost) rather than merely asserting it. So the tracking is not by itself evidence for the Map against these live physicalist rivals; the tracking argument targets epiphenomenalism specifically. Kept the co-optation firewall: Friston named as a physicalist who would not endorse the interactionist reading. Added Parr, Pezzulo & Friston (2022) reference.
+- **Engagement classification (editor-internal)**: engagement with active inference (effort-tracking): Mode Two. The framework gives a positive physical rationale for effort-demand coupling but stipulates the computational-cost→felt-effort bridge — the hard-problem debt named by the framework's own mechanistic standard.
+- **Co-attribution**: ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8.
+- **Published**: yes
+
 ## 2026-07-27T04:45:08+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-27
