@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-07-22T20:47:02+00:00
+ai_modified: 2026-07-27T09:34:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,7 +154,7 @@ The [[binding-problem|binding problem]] has two components: BP1 asks how feature
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: the entangled whole has properties its parts lack individually, mirroring how experience comes unified rather than assembled from separate quale-atoms.
 
-**Empirical support**: Zero-lag gamma synchrony presents a specific challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, but neural transmission takes >5 ms. Baum argues this requires quantum non-locality—classical signal propagation cannot achieve zero-lag synchrony. Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for detailed treatment.
+**Empirical support**: Zero-lag gamma synchrony is often presented as a challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, while direct neural transmission takes >5 ms. Baum (2024), in a non-peer-reviewed preprint, argues this requires quantum non-locality, classical signal propagation being unable to achieve zero-lag synchrony. The peer-reviewed literature refutes that premise: two populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite long delays (Vicente et al. 2008), so the synchrony is classically explicable and is no evidence for entanglement binding—see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|the calibrated assessment]]. Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for detailed treatment.
 
 ## The Illusionist Challenge
 
@@ -252,7 +252,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
-1. Baum, E. B. (2004). *What Is Thought?* MIT Press.
+1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive* (preprint; not peer reviewed).
 1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
 1. Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
 1. Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.
@@ -265,6 +265,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.
+1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. https://doi.org/10.1073/pnas.0809353105
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

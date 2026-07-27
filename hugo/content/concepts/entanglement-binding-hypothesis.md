@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-07-22 16:17:55+00:00
+ai_modified: 2026-07-27 09:34:53+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -39,7 +39,7 @@ The core argument is structural rather than empirical. Classical physics cannot 
 
 Quantum entanglement is fundamentally different. When particles become entangled, the composite system enters a state that cannot be decomposed into individual states for each particle. The standard formalism makes this precise: an entangled state cannot be written as a product of individual states. The whole has properties that no part possesses individually. This is not a matter of ignorance—it is a feature of the physics.
 
-Baum's quantum binding argument strengthens this point. [Zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)—neural oscillations coordinated with sub-millisecond precision across cortical distances—has been reported in multiple studies, though its existence remains debated (some attribute the observations to volume conduction or measurement artifacts). If genuine, such synchrony cannot arise classically without violating relativistic causality—though the mainstream classical literature disputes this premise, deriving zero-lag synchrony from dynamical relaying without any quantum resource. Bell's theorem and loophole-free experiments confirm that non-local correlations of this kind are exclusively quantum phenomena. If zero-lag synchrony is real and functionally relevant to binding, classical frameworks cannot account for it.
+Baum's quantum binding argument is sometimes offered as reinforcement here, but it cannot carry the weight. [Zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)—neural oscillations coordinated with sub-millisecond precision across cortical distances—is well replicated, and Baum's preprint (2024, not peer reviewed) reads it as classically impossible without violating relativistic causality. The peer-reviewed literature refutes that premise: two distant populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite conduction delays of tens of milliseconds, the hub redistributing those delays symmetrically (Vicente et al. 2008). Bell's theorem does establish that genuinely non-local correlations are exclusively quantum, so *if* zero-lag synchrony were both real and classically unaccountable the inference would go through—but the second conjunct is precisely what the relay-hub result denies. The structural argument above stands without this empirical prop.
 
 Hartmut Neven of Google Quantum AI generalises the point: entanglement is "the only true binding agent we have in physics," creating holistic states where individual components are fundamentally interconnected. If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
 
@@ -125,7 +125,7 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 
 ## References
 
-1. Baum, E. Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive*.
+1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive* (preprint; not peer reviewed).
 2. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
 3. Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. doi:10.3390/sym13050773
 4. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
@@ -136,8 +136,9 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 9. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 10. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
 11. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-12. Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
-13. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-14. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-15. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-16. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+12. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. doi:10.1073/pnas.0809353105
+13. Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
+14. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+15. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+16. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+17. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/

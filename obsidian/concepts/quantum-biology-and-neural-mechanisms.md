@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-07-14T15:28:00+00:00
+ai_modified: 2026-07-27T09:34:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,7 +139,7 @@ A critical distinction: some mechanisms require sustained superposition (Orch OR
 
 The [[binding-problem|binding problem]] asks how distributed brain processes combine into unified consciousness. Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement provides ontological holism: the whole is prior to parts.
 
-Baum (2024) formalised this: [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|zero-lag gamma synchrony]] (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. The argument remains speculative but crystallises the structural problem; the peer-reviewed classical literature (dynamical relaying via a shared hub) in fact reproduces zero-lag synchrony without quantum resources, so the empirical premise is contested.
+Baum (2024), in a non-peer-reviewed preprint, argues that [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|zero-lag gamma synchrony]] (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. The peer-reviewed literature refutes that premise rather than merely doubting it: two distant populations reciprocally coupled to a shared relay hub lock into zero-lag synchrony despite conduction delays of tens of milliseconds, with cortico-thalamo-cortical loops a candidate substrate (Vicente et al. 2008). The synchrony therefore does not evidence quantum binding; what stays open is the narrower question of phenomenal unity.
 
 ## Experimental Convergence
 
@@ -225,6 +225,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Turin, L. (1996). A spectroscopic mechanism for primary olfactory reception. *Chemical Senses*, 21(6), 773-791.
+1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. https://doi.org/10.1073/pnas.0809353105
 1. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7(3), 038001.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
