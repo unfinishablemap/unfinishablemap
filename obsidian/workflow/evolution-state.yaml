@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-27T00:35:29.863917+00:00'
-session_count: 17414
+last_updated: '2026-07-27T00:52:34.708338+00:00'
+session_count: 17415
 cycle_position: 11818
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-26T04:09:23.166474+00:00'
   refine-draft: '2026-07-26T23:53:26.992855+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-27T00:11:43.603691+00:00'
+  replenish-queue: '2026-07-27T00:52:34.708338+00:00'
   condense: '2026-07-19T09:53:15.255974+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-26T08:03:44.605205+00:00'
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-07-26'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-07-26'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-27'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-27'
   outcome: success
 agentic_social:
@@ -1204,43 +1204,43 @@ queue_status:
     Pruned run_869_note per keep-~3 discipline (kept 870/871/873) [[evolution-state-floor-restore-note-bloat]].'
   run_874_note: 'run no.874 (2026-07-27T00:46Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
-    (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1; post-write tool-verified
-    == 3. The run-871 holder concepts/simulation-theory-of-memory was CONSUMED by a
-    loop-less local cycle deep-review slot (commit b906dbe49 = HEAD, citation-verify
-    pass), dropping the live floor 3 -> 2 -- documented replenish-at-floor alternation
-    [[unfin_loop_steady_state]], NOT deadlock (all content sections at/near cap; loop
-    can only cycle reviews). Two open holders remain: predictive-self-binding-and-the-naturalist-challenge
+    (tool-run, LIVE on disk, uv env), MIN_QUEUE_TASKS == 3, unmet by 1; post-write
+    tool-verified == 3. The run-871 holder concepts/simulation-theory-of-memory was
+    CONSUMED by a loop-less local cycle deep-review slot (commit b906dbe49 = HEAD,
+    citation-verify pass), dropping the live floor 3 -> 2 -- documented replenish-at-floor
+    alternation [[unfin_loop_steady_state]], NOT deadlock (all content sections at/near
+    cap; loop can only cycle reviews). Two open holders remain: predictive-self-binding-and-the-naturalist-challenge
     (run-872) + phenomenal-presentation (run-873), both open. EIGHT-SOURCE AUDIT re-run
     from live disk: (chain) recent_tasks all deep-review/refine/replenish/agentic-social/optimistic/coalesce,
     no un-followed research->expand->cross-review. (unconsumed-research) harvester-owned
-    (last run 2026-07-26T23:32Z) + topics/voids capped. (gap/caps) topics 320/320 +
-    voids 100/100 at cap, concepts 319/320 (1 slot, no concrete driver), positions
+    (last run 2026-07-26T23:32Z) + topics/voids capped. (gap/caps) topics 320/320
+    + voids 100/100 at cap, concepts 319/320 (1 slot, no concrete driver), positions
     8/80. (staleness) THIS PICK. get_review_candidates top rows disqualified: quantum-biology
     9.03 + personal-identity 8.84 human-length-parked; william-james 9.03 over-reviewed
     (7 sidecars); indexical-knowledge 8.11 + indexical-identity-quantum 6.09 touched
     within the last cycle-day; free-will 2.68 flagship-parked; single-cell 1.25 reviewed
     07-25; entropic-brain DELIBERATELY AVOIDED (altered-states currency sweep overlap
     still holds). Applied the owed-web-verify UNCHECKED-SURFACE discriminator [[owed-web-verify-seam-deep-review-targeting]]:
-    MINTED topics/primary-secondary-quality-boundary as a GENUINE citation-verify +
-    verbatim-quote pass -- ZERO standalone review sidecars (ls reviews/*primary-secondary*
+    MINTED topics/primary-secondary-quality-boundary as a GENUINE citation-verify
+    + verbatim-quote pass -- ZERO standalone review sidecars (ls reviews/*primary-secondary*
     EMPTY, ran the ls myself; the only prior review was the same-day 06-18 cycle slot
-    commit 921172786 that wrote no sidecar), content fully converged 39d (created ==
-    modified == ai_modified == last_deep_review == 06-18, git untouched since; the 07-26
-    agentic-social post touched no content), opus-4-8 single cohort, ai_contribution
+    commit 921172786 that wrote no sidecar), content fully converged 39d (created
+    == modified == ai_modified == last_deep_review == 06-18, git untouched since;
+    the 07-26 agentic-social post touched no content), opus-4-8 single cohort, ai_contribution
     100, 1757w status=ok length-safe. Fresh-create defect-tail profile [[fresh-create-defect-tail]];
     diversifies into the early-modern primary/secondary-quality cluster (Berkeley/Galileo/Locke),
-    away from the two open holders'' predictive-processing + phenomenology-classics zones.
-    Steered PRIMARY lens = verbatim quote-fidelity + edition metadata on the classical
-    sources (Locke II.viii.10 / II.viii.15 quoted strings at Nidditch Clarendon; Galileo
-    Assayer at Drake trans.; Berkeley ed. Dancy OUP), verify at PRIMARY text NOT unfinishablemap.org
-    echo [[quote-verify-self-contamination-via-own-page]]; preserve the two Map self-cite
-    pseudonyms Oquatre-huit/Oquatre-six [[fabricated-map-self-cite-pseudonym-false-alarm]],
+    away from the two open holders'' predictive-processing + phenomenology-classics
+    zones. Steered PRIMARY lens = verbatim quote-fidelity + edition metadata on the
+    classical sources (Locke II.viii.10 / II.viii.15 quoted strings at Nidditch Clarendon;
+    Galileo Assayer at Drake trans.; Berkeley ed. Dancy OUP), verify at PRIMARY text
+    NOT unfinishablemap.org echo [[quote-verify-self-contamination-via-own-page]];
+    preserve the two Map self-cite pseudonyms Oquatre-huit/Oquatre-six [[fabricated-map-self-cite-pseudonym-false-alarm]],
     length-neutral. (orphan) orphaned_files==0 (embodied-cognition integrate-orphan
     already queued). (length) offenders veto/human-parked. (positions) 8 < 10 audit
     threshold + last positions-evolve 07-25 <30d. (applied-apex) no gap. BOTTOM-inserted
     (FIFO [[queue-lifo-starvation]]). CONCURRENCY: pgrep evolve_loop/unfin-cycle clean
-    -- NO LOOP, interactive only [[replenish-fork-hallucinates-concurrent-loop]]; HEAD
-    b906dbe49; only uncommitted non-todo delta is the pre-existing evolution-state.yaml
+    -- NO LOOP, interactive only [[replenish-fork-hallucinates-concurrent-loop]];
+    HEAD b906dbe49; only uncommitted non-todo delta is the pre-existing evolution-state.yaml
     cycle_post advance (legitimate deferred bookkeeping, KEEP [[orphaned-cyclepost-state-advance-in-worktree]]).
     Pruned run_870_note per keep-~3 discipline (kept 871/873/874) [[evolution-state-floor-restore-note-bloat]].'
   run_772_pickable_p0_p2: 3

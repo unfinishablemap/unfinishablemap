@@ -5,6 +5,17 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T01:03:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-self-binding-and-the-naturalist-challenge]]
+- **Word count**: 2598 → 2598 (no change; convergence no-op)
+- **Critical issues addressed**: 0 (none found; converged since the authoritative 2026-06-22 full review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no filler; no oscillation against prior findings)
+- **Citations**: metadata ledger from 2026-06-22 stands (body/References unchanged since). This pass verbatim-checked the two inline quotes — the previously-unchecked surface: Letheby & Gerrans 2017 self-fictionalism quote **verbatim-exact** at publisher (PMC6007152); Letheby 2021 "dispelling-the-illusion"/"third-eye" characteristic-term paraphrase faithful. Reasoning-mode: hard-problem prong Mode Two, minimal-self prong Mode Three/empirical-seam, CDO-reversal Mode One/Two — all unchanged, no label leakage.
+- **Frontmatter**: no-op → `last_deep_review` bumped to 2026-07-27; `ai_modified`/`ai_system` held at HEAD (2026-06-22).
+- **Output**: [[reviews/deep-review-2026-07-27-predictive-self-binding-and-the-naturalist-challenge]]
+
 ## 2026-07-27T00:34:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/simulation-theory-of-memory]]

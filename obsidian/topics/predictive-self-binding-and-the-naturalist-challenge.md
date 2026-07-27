@@ -5,7 +5,7 @@ created: 2026-06-22
 modified: 2026-06-22
 human_modified:
 ai_modified: 2026-06-22T20:48:00+00:00
-last_deep_review: 2026-06-22T20:48:00+00:00
+last_deep_review: 2026-07-27T01:03:17+00:00
 draft: false
 topics:
   - "[[psychedelics-and-the-filter-model]]"
