@@ -5,6 +5,22 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T20:39:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Word count**: 2578 → 2622 (+44; ~40 of it reference apparatus — expanded O'Brien gloss + new Further Reading line. Argument prose neutral: the "Problem for Physicalism" trim offsets the two rewritten sentences. 105% of 2500 soft, hard 3500.)
+- **Scope**: tenth review, deliberately confined to the 2026-07-26 delta (commit `e806fa833`) plus the Lewis-2001 check. General citation sweep NOT re-run — nine prior sidecars cover it.
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2 (O'Brien passage now carries the paper's real thesis; `[[probability-problem-in-many-worlds]]` cross-link)
+- **Citation web-verify (§2.4)**: **Dawid, R. & Friederich, S. 2022** BJPS 73(3) 711-721 — author order was REVERSED corpus-wide ("Friederich & Dawid"). Crossref (`sequence: first` = Dawid), the RUG portal (Friederich's own institution) and the authors' PhilSci-Archive deposit all give Dawid first; the only Friederich-first source is the BSPS *Short Reads* blog byline. A 2026-06-24 pass had called it "contested in the wild" and deprioritised it — now resolved 3-to-1 on publisher evidence and family-resolved across all five live files. **O'Brien 2025** *Synthese* — Crossref gives vol 206, **issue 5**, `article-number: 221`, `page: null`; `206:221` read as volume:page, corrected to `206(5), Article 221`. Content gloss verified at the author's full text: the immortalist(Tegmark)/mortalist(Carroll, Papineau, Wallace) split is verbatim the paper's abstract. **Sebens & Carroll 2018** BJPS 69(1) 25-74 real-correct (preprint's 69:24-75 is superseded by the published record). **Lewis 2001** *Analysis* 61(3) 171-176 DOI 10.1093/analys/61.3.171 real-correct — wrong-work suspicion CLOSED; the 1979 *de se* paper is cited separately and correctly. **Elga 2000** real-correct. Currency sweep N/A.
+- **Citation-framing fix**: "most contemporary mortalist Everettians read it as a reductio" mis-stated the mortalist position — O'Brien's mortalists *deny the inference* ("the truth of the MWI has no such consequences… analogous to an observer in a single, non-branching, stochastically-evolving universe"), they do not accept it and run it as a reductio. Rewritten to O'Brien's own formulation with the Map's reading attached as explicitly the Map's. Also dropped the "survey" characterisation (it is an argumentative paper opening with a taxonomy) and restored the Dawid–Friederich charge to the source's fuller form ("the empirical success of quantum mechanics, Born rule included").
+- **Family resolution**: author order propagated to `topics/qm-interpretations-beyond-many-worlds`, `topics/quantum-immortality-and-the-quantum-suicide-survival-argument` (+ the same `206:221` fix), `topics/probability-problem-in-many-worlds` (alphabetical ref list reordered 6→4), `topics/indexical-identity-quantum-measurement`. Archive copy left frozen. Their `ai_modified` bumped, `ai_system` untouched (metadata-only edits, not re-authoring).
+- **Reasoning-mode (§2.6)**: MWI engagement Mixed, unchanged in kind; the revised O'Brien passage strengthens the in-framework register by reporting a division internal to Everettianism instead of asserting consensus. No boundary-substitution; label-leakage grep clean.
+- **Calibration**: no possibility/probability slippage. The delta moved away from an over-claim, not toward one.
+- **Note**: the argument was converged, as the ninth review said; the *citation surface* was not. The author-order error survived ten passes because every corpus occurrence agreed with every other — intra-corpus consistency ratifies rather than catches.
+- **Output**: [[reviews/deep-review-2026-07-27-indexical-knowledge-and-identity]]
+
 ## 2026-07-27T20:06:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/discrimination-problem]]

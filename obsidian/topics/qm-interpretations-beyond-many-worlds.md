@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-07-17T07:00:45+00:00
+ai_modified: 2026-07-27T20:39:01+00:00
 last_deep_review: 2026-07-26T04:51:22+00:00
 draft: false
 topics:
@@ -155,7 +155,7 @@ The Map's [[tenets]] constrain the interpretive options. Dualism requires that c
 
 The Map speculates that transactional/TSVF interpretations and consciousness-modulated objective collapse theories may offer the most promising foundations. The resonance is conceptual, not mechanistic: as the caveat above notes, no substrate carrying retrocausal influence is specified and no account of how consciousness biases confirmation waves without violating Born statistics is on offer. The Map's [[positions/quantum-interface|positions register]] reflects this by treating the atemporal time-symmetric route as a subordinate fallback to forward-in-time post-decoherence selection, its preferred mechanism candidate. Consciousness-modulated CSL provides a mechanism for the Minimal Quantum Interaction tenet while solving the [[prebiotic-collapse|prebiotic collapse problem]]—physical collapse provides a baseline for the pre-conscious universe, with consciousness modulating outcomes once neural systems provide the interface.
 
-**Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has its strongest answer in the branch-relative indexicality of Saunders (2010) and the self-locating-uncertainty derivation of Sebens and Carroll (2018): "I" indexes the current branch-copy, *de se* attribution localises branch-by-branch as it does across times and places, and the Born rule is recovered as the unique rational measure on self-locating credence. This reply is internally available to MWI, and the published in-framework critiques (Lewis 2007 that the post-branching ignorance is spurious; Friederich and Dawid 2022 that the derivation's key premise smuggles in the Born rule) are where the dispute is genuinely contested. The Deutsch-Wallace decision-theoretic program in Wallace's *The Emergent Multiverse* (2012) is the strongest book-length development of this line, and the Map engages it at full resolution in [[probability-problem-in-many-worlds]] rather than dispatching it here.
+**Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has its strongest answer in the branch-relative indexicality of Saunders (2010) and the self-locating-uncertainty derivation of Sebens and Carroll (2018): "I" indexes the current branch-copy, *de se* attribution localises branch-by-branch as it does across times and places, and the Born rule is recovered as the unique rational measure on self-locating credence. This reply is internally available to MWI, and the published in-framework critiques (Lewis 2007 that the post-branching ignorance is spurious; Dawid and Friederich 2022 that the derivation's key premise smuggles in the Born rule) are where the dispute is genuinely contested. The Deutsch-Wallace decision-theoretic program in Wallace's *The Emergent Multiverse* (2012) is the strongest book-length development of this line, and the Map engages it at full resolution in [[probability-problem-in-many-worlds]] rather than dispatching it here.
 
 A near neighbour worth flagging is the [[many-minds-interpretation|Many-Minds Interpretation]], which tries to keep MWI's no-collapse unitary physics while answering the indexical objection by multiplying *minds* rather than *worlds*: physical reality stays single and unbranching, and the observer's continuum of minds distributes across outcomes. The Map reads MMI as failing for the same reason MWI does—putting minds into the formalism does not supply the missing fact about which mind is the actual continuant "I"—and its leading version (Albert and Loewer 1988) openly concedes the dualism this survey treats as a virtue elsewhere.
 
@@ -210,7 +210,7 @@ No interpretation is proven, and the Map does not claim to know which is correct
 21. Saunders, S. (2010). Chance in the Everett interpretation. In Saunders, Barrett, Kent & Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 22. Sebens, C. T., & Carroll, S. M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25–74.
 23. Lewis, P. J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1–14.
-24. Friederich, S., & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711–721.
+24. Dawid, R., & Friederich, S. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711–721.
 25. Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188.
 26. Kent, A. (2021). Collapse and Measures of Consciousness. *Foundations of Physics*, 51, 62. DOI: 10.1007/s10701-021-00467-4.
 27. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's rule as a quantum extension of Bayesian coherence. *Physical Review A*, 104(2), 022207.

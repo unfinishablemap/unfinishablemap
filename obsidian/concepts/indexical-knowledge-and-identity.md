@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-07-26T05:23:37+00:00
+ai_modified: 2026-07-27T20:39:01+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -24,10 +24,10 @@ related_articles:
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-07-11T02:48:00+00:00
+last_deep_review: 2026-07-27T20:39:01+00:00
 coalesced_from:
   - "/concepts/indexical-facts/"
   - "/concepts/indexical-knowledge/"
@@ -90,7 +90,7 @@ Christian List argues that irreducible indexical facts provide evidence against 
 
 Physics aims to describe reality in context-independent terms—particle positions, field strengths, causal laws. Indexical facts challenge this. Physics tells you what exists and how things relate, but not *which* of those things you are or *where* you stand in the causal network.
 
-A complete physical description of the universe would specify every brain, every neural pattern, every conscious experience (if consciousness is physical). But would it tell you which brain is yours? The description treats all brains equally—no brain is privileged as "the one I am." The indexical fact "this brain is mine" adds something the physical description lacks.
+A complete physical description of the universe would specify every brain, every neural pattern, every conscious experience (if consciousness is physical). But would it tell you which brain is yours? The description treats all brains equally: no brain is privileged as "the one I am," and the indexical fact that *this* brain is mine adds something it lacks.
 
 This connects to the [[knowledge-argument]]. Frank Jackson's (1982) Mary knows all physical facts about colour vision but lacks phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge.
 
@@ -130,9 +130,9 @@ The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet finds these accounts u
 
 **The phenomenological mismatch**: You will experience one definite sequence of outcomes, not multiple incompatible ones. The felt reality of anticipating one future suggests an indexical fact that many-worlds cannot accommodate.
 
-The starkest test of these accounts is the [[quantum-immortality-and-the-quantum-suicide-survival-argument|quantum-suicide survival argument]]. If pre-measurement survival is genuine self-locating uncertainty over branch successors, an observer facing a lethal quantum trigger should expect to find themselves, indefinitely, only in branches where they survived. Contemporary Everettians are in fact divided over this conclusion—O'Brien's 2025 survey classes the field as split between immortalists (Tegmark) and mortalists (Carroll, Papineau, Wallace)—but most contemporary mortalist Everettians read it as a reductio, which is exactly what the self-locating framework predicts when the missing fact (which successor is *me*) is one the indexical realist insists is real.
+The starkest test of these accounts is the [[quantum-immortality-and-the-quantum-suicide-survival-argument|quantum-suicide survival argument]]. If pre-measurement survival is genuine self-locating uncertainty over branch successors, an observer facing a lethal quantum trigger should expect to find themselves, indefinitely, only in branches where they survived. Contemporary Everettians are in fact divided over this conclusion. O'Brien (2025) splits the field into immortalists (Tegmark) and mortalists (Carroll, Papineau, Wallace), the latter holding that the truth of many-worlds carries no such consequence and that one's situation is that of an observer in a single stochastically evolving universe. O'Brien's own verdict is that rejection is tenable but costly—and the cost lands where an indexical realist would expect it, since declining the immortality inference means declining to anchor anticipation to which successor is *me*.
 
-Sebens and Carroll try to derive Born-weighted self-locating credence from an epistemic-separability principle; Friederich and Dawid reply that the principle can only be motivated by the Born rule it is meant to yield, so the derivation assumes what it sets out to prove. Self-locating uncertainty is well-defined when there is a fact one does not yet know. The Map's judgement is that many-worlds supplies no such fact for the belief "I am in this branch" to track—every successor is equally you—so the proposal fails by the Map's primitive-subject standard. That is a verdict that the branch-relative ontology offers no adequate indexical fact, not the stronger metaphysical claim that no such fact could exist at all.
+Sebens and Carroll try to derive Born-weighted self-locating credence from an epistemic-separability principle; Dawid and Friederich reply that the principle can only be motivated by the empirical success of quantum mechanics, Born rule included, so the derivation assumes what it sets out to prove. Self-locating uncertainty is well-defined when there is a fact one does not yet know. The Map's judgement is that many-worlds supplies no such fact for "I am in this branch" to track—every successor is equally you—so the proposal fails by the Map's primitive-subject standard: a verdict that the branch-relative ontology offers no adequate indexical fact, not the stronger claim that no such fact could exist at all.
 
 ## Relation to Site Perspective
 
@@ -156,19 +156,20 @@ Indexical knowledge and identity connect to The Unfinishable Map's [[tenets]] ac
 - [[consciousness-only-territories]] — Epistemic territories accessible only through experience
 - [[personal-identity]] — What makes you the same person over time
 - [[concepts/many-worlds]] — Why indexical identity poses problems for branching interpretations
+- [[probability-problem-in-many-worlds]] — The Sebens–Carroll derivation and its critics at full resolution
 - [[indexical-identity-quantum-measurement]] — The indexical gap in quantum physics
 
 ## References
 
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Dawid, R. & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711-721.
 1. Elga, A. (2000). "Self-Locating Belief and the Sleeping Beauty Problem." *Analysis*, 60(2), 143-147.
-1. Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711-721.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
 1. Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
 1. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-1. O'Brien, M. W. (2025). "The Costs of Rejecting Quantum Immortality." *Synthese*, 206:221. (Classifies Everettians as divided between immortalists and mortalists.)
+1. O'Brien, M. W. (2025). "The Costs of Rejecting Quantum Immortality." *Synthese*, 206(5), Article 221. (Divides Everettians into immortalists and mortalists; argues rejecting quantum immortality is tenable but costly.)
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.
 1. Sebens, C. T. & Carroll, S. M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.

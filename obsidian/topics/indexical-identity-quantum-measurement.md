@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-07-26T12:06:11+00:00
+ai_modified: 2026-07-27T20:39:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ Many-Worlds holds that every quantum measurement causes the universe to split in
 
 But as Albert argues, self-location claims are "irreducibly indexical." The fact that *I* find myself in this branch cannot be reduced to third-person facts about which observer-copies have which properties. From the first-person perspective, it is inherently clear who "I" refers to—there is no need to find any objective difference between "me" and "the other copy" because "I" is primitively identified by the perspective centre. The indexical is given, not derived.
 
-Many-Worlds makes indexical identity primitive—a brute fact not explained by the theory. Critics (Friederich and Dawid) argue that self-locating uncertainty is either spurious or presupposes the Born rule rather than deriving it. MWI defenders like Wallace (2012) respond with decision-theoretic derivations: a rational agent facing quantum uncertainty should weight branches by squared amplitude because of rationality constraints on preferences, not because of facts about which branch contains "you." Yet these derivations arguably presuppose a subject whose preferences are being rationalised—the very indexical identity in question.
+Many-Worlds makes indexical identity primitive—a brute fact not explained by the theory. Critics (Dawid and Friederich) argue that self-locating uncertainty is either spurious or presupposes the Born rule rather than deriving it. MWI defenders like Wallace (2012) respond with decision-theoretic derivations: a rational agent facing quantum uncertainty should weight branches by squared amplitude because of rationality constraints on preferences, not because of facts about which branch contains "you." Yet these derivations arguably presuppose a subject whose preferences are being rationalised—the very indexical identity in question.
 
 The debate here intersects the epistemic/metaphysical distinction. MWI defenders might argue they only need the epistemic thesis: each branch-version has self-locating *knowledge* about their branch, but no branch-transcendent indexical *fact* determines which version you "really" are. Branch-relative identity is all the identity there is. This is a sophisticated response that effectively denies the metaphysical thesis.
 
@@ -197,6 +197,6 @@ This topic intersects all five tenets:
 
 5. Albert, D. (2010). "Probability in the Everett Picture." In Saunders, S., Barrett, J., Kent, A. & Wallace, D. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press, pp. 355–368.
 
-6. Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.
+6. Dawid, R. & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.
 
 7. Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245–261.
