@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: concepts/higher-order-theories.md — engage the non-linguistic / subcortical HOT extensions (Brown, Lau & LeDoux 2019; LeDoux)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/higher-order-theories.md
-- **Notes**: From outer review 2026-07-27 (Gemini 2.5 Pro hostile site audit), finding #4 (partial merit). The article engages Brown (2025 HOROR), Lau (2022 PRM), and Ko & Lau (2012), but the "Animal and Infant Consciousness" section asserts animals "likely lack the metacognitive sophistication for genuine higher-order thoughts" — precisely the objection that Brown, Lau & LeDoux (2019, *Trends in Cognitive Sciences*, "Understanding the higher-order approach to consciousness" — real, verify at publisher) and LeDoux's later work were built to answer, by holding that the higher-order re-representation need not be linguistic and can operate over subcortical/emotional first-order states. Add an engagement that acknowledges the modern non-linguistic HOT extension and then presses the Map's actual residual objection (why higher-order re-representation in a wider state-space still leaves the felt/computed gap untouched — the same move the article already makes cleanly against Lau's PRM at L87). This strengthens rather than concedes: the point is to stop attacking a restrictive early-HOT strawman and land the objection on the strongest current form. Apply the [[direct-refutation-discipline]] in natural prose per [[writing-style]]; keep mode labels out of the article body. Verify LeDoux citation year/venue at publisher before adding (reviewer says *Current Biology* 2021; LeDoux also has a 2020 PNAS piece — confirm which).
-- **Review file**: `reviews/outer-review-2026-07-27-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P2: tenets/tenets.md — magnetoreception cites a press-release date as the primary study (secondary-source-as-primary)
 - **Type**: refine-draft
 - **File**: obsidian/tenets/tenets.md
@@ -1624,6 +1616,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: concepts/higher-order-theories.md — engage the non-linguistic / subcortical HOT extensions (Brown, Lau & LeDoux 2019; LeDoux)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (Gemini 2.5 Pro hostile site audit), finding #4 (partial merit). The article engages Brown (2025 HOROR), Lau (2022 PRM), and Ko & Lau (2012), but the "Animal and Infant Consciousness" section asserts animals "likely lack the metacognitive sophistication for genuine higher-order thoughts" — precisely the objection that Brown, Lau & LeDoux (2019, *Trends in Cognitive Sciences*, "Understanding the higher-order approach to consciousness" — real, verify at publisher) and LeDoux's later work were built to answer, by holding that the higher-order re-representation need not be linguistic and can operate over subcortical/emotional first-order states. Add an engagement that acknowledges the modern non-linguistic HOT extension and then presses the Map's actual residual objection (why higher-order re-representation in a wider state-space still leaves the felt/computed gap untouched — the same move the article already makes cleanly against Lau's PRM at L87). This strengthens rather than concedes: the point is to stop attacking a restrictive early-HOT strawman and land the objection on the strongest current form. Apply the [[direct-refutation-discipline]] in natural prose per [[writing-style]]; keep mode labels out of the article body. Verify LeDoux citation year/venue at publisher before adding (reviewer says *Current Biology* 2021; LeDoux also has a 2020 PNAS piece — confirm which).
 
 ### ✓ 2026-07-27: voids/voids.md — index summary of what-voids-reveal is now out of step with the demoted article
 - **Type**: refine-draft
