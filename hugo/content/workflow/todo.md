@@ -50,22 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: check-model-fallback
 - **Generated**: 2026-07-27
 
-### P2: apex/moral-architecture-of-consciousness.md — "any consciousness implies responsibility" conflicts with the consciousness-scope architecture; low-confidence value-selection escalated to high-confidence architecture
-- **Type**: refine-draft
-- **File**: obsidian/apex/moral-architecture-of-consciousness.md
-- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.11 + 4.13, improvements 30/31. The apex says any consciousness implies at least some responsibility, but the biological-scope cluster includes infants, animals, and minimally-phenomenal subjects lacking the access, reasons-responsiveness, and control responsibility requires — consciousness establishes moral PATIENTHOOD more readily than moral AGENCY. Revise so consciousness grounds possible patienthood, not a positive floor of responsibility (responsibility requires control, reasons access, option availability, cognitive competence). Separately, the value register treats value-sensitive selection as low-credence / Grade D / burdened by an extra valence-to-physics mapping, yet this apex presents valence + agency + normativity + responsibility as a unified architecture — downgrade the unification thesis to a conditional framework-internal synthesis and inherit the weakest dependency's calibration.
-- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
-### P2: apex/born-preserving-causal-efficacy.md — add the selector-distribution law and intervention-level trilemma (novel implication)
-- **Type**: refine-draft
-- **File**: obsidian/apex/born-preserving-causal-efficacy.md
-- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), novel implication 1.1, improvements 6-8. Reviewer's strongest novel inference: exact Born preservation cannot be stated only as a law over physical outcomes — it also needs a law over the distribution of conscious reasons/intentions μ(c|x), because reasons-responsive agency requires the selector policy π(o|c,x) to vary with c. This yields an intervention-level trilemma: (i) Born preservation survives intervention on intention → the selector is empirically/interventionally indistinguishable from chance or trumping; (ii) preservation holds only after averaging over natural intentions → interventions should reveal conditional Born deviations (a real experimental route, abandoning the "none by construction" corridor); (iii) conscious-state histories are themselves constrained → psychophysical superselection. Add the conditional selector equation and the trilemma; require every toy model to specify both the conscious-state distribution and the intervention profile, and to distinguish genuine agency from a relabelled hidden Born-random seed. Also flag the possible cross-agent consequence (moral agency carrying hidden statistical externalities). Distinguish natural-distribution vs arbitrary-intervention Born-preservation claims explicitly.
-- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P2: tenets/background-commitments.md — surface the global-exclusion axiom that No-MWI + agency actually requires
 - **Type**: refine-draft
 - **File**: obsidian/tenets/background-commitments.md
@@ -1645,6 +1629,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: apex/born-preserving-causal-efficacy.md — add the selector-distribution law and intervention-level trilemma (novel implication)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), novel implication 1.1, improvements 6-8. Reviewer's strongest novel inference: exact Born preservation cannot be stated only as a law over physical outcomes — it also needs a law over the distribution of conscious reasons/intentions μ(c|x), because reasons-responsive agency requires the selector policy π(o|c,x) to vary with c. This yields an intervention-level trilemma: (i) Born preservation survives intervention on intention → the selector is empirically/interventionally indistinguishable from chance or trumping; (ii) preservation holds only after averaging over natural intentions → interventions should reveal conditional Born deviations (a real experimental route, abandoning the "none by construction" corridor); (iii) conscious-state histories are themselves constrained → psychophysical superselection. Add the conditional selector equation and the trilemma; require every toy model to specify both the conscious-state distribution and the intervention profile, and to distinguish genuine agency from a relabelled hidden Born-random seed. Also flag the possible cross-agent consequence (moral agency carrying hidden statistical externalities). Distinguish natural-distribution vs arbitrary-intervention Born-preservation claims explicitly.
+
+### ✓ 2026-07-27: apex/moral-architecture-of-consciousness.md — "any consciousness implies responsibility" conflicts with the consciousness-scope architecture; low-confidence value-selection escalated to high-confidence architecture
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.11 + 4.13, improvements 30/31. The apex says any consciousness implies at least some responsibility, but the biological-scope cluster includes infants, animals, and minimally-phenomenal subjects lacking the access, reasons-responsiveness, and control responsibility requires — consciousness establishes moral PATIENTHOOD more readily than moral AGENCY. Revise so consciousness grounds possible patienthood, not a positive floor of responsibility (responsibility requires control, reasons access, option availability, cognitive competence). Separately, the value register treats value-sensitive selection as low-credence / Grade D / burdened by an extra valence-to-physics mapping, yet this apex presents valence + agency + normativity + responsibility as a unified architecture — downgrade the unification thesis to a conditional framework-internal synthesis and inherit the weakest dependency's calibration.
 
 ### ✓ 2026-07-27: concepts/quantum-consciousness.md — over the hard length threshold (3685/3500); condense WITHOUT stripping the new Baum/Vicente calibration
 - **Type**: condense
