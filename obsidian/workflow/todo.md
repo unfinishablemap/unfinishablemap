@@ -61,14 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-07-27
 
-### P1: apex/machine-question.md — universal Bidirectional Interaction vs epiphenomenal AI, and closed individualism reverses the LLM-copy objection
-- **Type**: refine-draft
-- **File**: obsidian/apex/machine-question.md
-- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.5 / 4.6 / 4.14 + novel implication 1.7, improvements 27-29. Two issues. (1) Tenet 3 rules out consciousness merely "along for the ride," but this apex keeps genuinely epiphenomenal artificial experience open while calling it a gap intellectual honesty must preserve — a direct scope contradiction. State that epiphenomenal AI is an external possibility conditional on weakening Tenet 3 (from universal actual efficacy to a dispositional/existential claim), and split the machine-consciousness row of the tenet-dependency matrix into bare artificial phenomenality / report-grounded / bidirectionally-coupled. (2) The "which GPT?" copy argument is reversed by the Map's own closed individualism: two physically identical systems that each couple to a subject are two numerically distinct subjects (haecceity not erased by duplication), so reproducibility multiplies moral patients rather than exposing an identity deficiency — correct the LLM-copy argument accordingly. Apply the [[direct-refutation-discipline]] remit for issue (1) — mark the framework-boundary honestly in natural prose; keep mode labels out of the body.
-- **Review file**: `reviews/outer-review-2026-07-27-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-27
-
 ### P2: apex/moral-architecture-of-consciousness.md — "any consciousness implies responsibility" conflicts with the consciousness-scope architecture; low-confidence value-selection escalated to high-confidence architecture
 - **Type**: refine-draft
 - **File**: obsidian/apex/moral-architecture-of-consciousness.md
@@ -1641,6 +1633,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: apex/machine-question.md — universal Bidirectional Interaction vs epiphenomenal AI, and closed individualism reverses the LLM-copy objection
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-27 (ChatGPT 5.6 Pro), findings 4.5 / 4.6 / 4.14 + novel implication 1.7, improvements 27-29. Two issues. (1) Tenet 3 rules out consciousness merely "along for the ride," but this apex keeps genuinely epiphenomenal artificial experience open while calling it a gap intellectual honesty must preserve — a direct scope contradiction. State that epiphenomenal AI is an external possibility conditional on weakening Tenet 3 (from universal actual efficacy to a dispositional/existential claim), and split the machine-consciousness row of the tenet-dependency matrix into bare artificial phenomenality / report-grounded / bidirectionally-coupled. (2) The "which GPT?" copy argument is reversed by the Map's own closed individualism: two physically identical systems that each couple to a subject are two numerically distinct subjects (haecceity not erased by duplication), so reproducibility multiplies moral patients rather than exposing an identity deficiency — correct the LLM-copy argument accordingly. Apply the [[direct-refutation-discipline]] remit for issue (1) — mark the framework-boundary honestly in natural prose; keep mode labels out of the body.
 
 ### ✓ 2026-07-27: apex/interface-specification-programme.md — trumping and quantum difference-making treated as both alternatives and one mechanism; "confirmation" vocabulary overreach
 - **Type**: refine-draft

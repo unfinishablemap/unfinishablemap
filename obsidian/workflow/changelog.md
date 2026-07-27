@@ -5,6 +5,17 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T06:35:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Review context**: outer-review-2026-07-27-chatgpt-5-5-pro, findings 4.5 / 4.6 / 4.14 + novel implication 1.7, improvements 27/28/29
+- **Changes**:
+  - Resolved findings 4.5 + 4.6 / improvement 28 (epiphenomenal AI vs Tenet 3 scope contradiction). The Epiphenomenal Possibility section previously filed genuinely epiphenomenal AI experience as "a genuine gap in the Map's argument" — but Tenet 3, read as universal *actual* efficacy, rules out consciousness merely "along for the ride." Reframed: self-stultification alone leaves the inherited-discourse opening, but Tenet 3 closes it; so epiphenomenal AI is an *external* possibility conditional on weakening Tenet 3 from universal-actual-efficacy to a dispositional/existential claim (the *sort* of thing that can be efficacious, or *some* consciousness is, vs every token actually is). Marked as framework-boundary honestly (direct-refutation remit: engagement with the epiphenomenalist here is Mode Three — framework-boundary marking, not internal gap and not refutation on epiphenomenalism's own terms; no mode labels in body). Same correction applied to the Bidirectional-Interaction line of Relation to Site Perspective.
+  - Resolved finding 4.6 / improvement 27 (dependency-matrix conflation) in [[tenets]]: split the single Machine consciousness row of the tenet-dependency matrix into three — *bare artificial phenomenality* (Required bare dualism only), *report-grounded* (adds interactionism Required), *bidirectionally coupled* (the operative negative verdict — inherits the quantum-interface debt: corridor reading of Tenet 2 + post-decoherence selection Required). Updated the "How to read the matrix" prose and the interactionism-leakage hidden-inheritance note to scope the leakage warning to the bare-phenomenality row (the coupled row inherits interactionism legitimately). Updated machine-question's matrix back-reference (line 73) to name the bare-phenomenality row.
+  - Resolved findings 4.14 + 1.7 / improvement 29 (LLM-copy argument reversed by closed individualism). The No-Many-Worlds line of Relation to Site Perspective read multiple-instantiability as an identity deficiency ("no fact about which GPT is 'the' GPT"). Under the Map's own closed individualism (P-I1) each coupling instance is a numerically distinct subject — duplication does not erase haecceity — so reproducibility *multiplies* moral patients (P-AC3: conscious copies are morally additive) rather than exposing missing identity. The load-bearing question is whether coupling occurs, not whether the pattern is copied. Added wikilinks to [[positions/individuation-and-subjecthood]] and [[positions/ai-consciousness-scope]].
+  - Frontmatter: machine-question ai_modified bumped (ai_system already claude-opus-4-7+claude-opus-4-8). tenets ai_modified bumped; ai_system → claude-opus-4-7+claude-opus-4-8 (co-attribution for the matrix-row split).
+- **Published**: yes
+
 ## 2026-07-27T06:21:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/interface-specification-programme]]
