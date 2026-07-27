@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-26 02:17:00+00:00
+ai_modified: 2026-07-27 17:17:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -127,7 +127,7 @@ The Map's tenets shape environmental ethics distinctively:
 
 **[Dualism](/tenets/#dualism)**: If consciousness is irreducible, the moral status of conscious animals is not contingent on our theoretical frameworks—they genuinely experience suffering and flourishing regardless of how we explain it. This grounds environmental obligations more firmly than functionalist approaches where moral status depends on debatable criteria for consciousness.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-interaction)**: The Map holds that consciousness interfaces with the physical world at the smallest possible scale. For environmental ethics, this tenet is less directly relevant than the others—it constrains the *mechanism* of interaction rather than its *moral significance*. But it does bear on the boundary question: the distribution of consciousness across species depends in part on which organisms possess neural architectures capable of supporting the relevant quantum-level interactions.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map holds that consciousness interfaces with the physical world at the smallest possible scale. For environmental ethics, this tenet is less directly relevant than the others—it constrains the *mechanism* of interaction rather than its *moral significance*. But it does bear on the boundary question: the distribution of consciousness across species depends in part on which organisms possess neural architectures capable of supporting the relevant quantum-level interactions.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Animal consciousness is not epiphenomenal. The suffering of a trapped animal causally shapes its behaviour through [downward causation](/concepts/mental-causation-and-downward-causation/)—it matters *to* the animal, not just as a correlate of neural activity. Environmental destruction that causes animal suffering causes real harm to agents whose experiences influence their actions.
 

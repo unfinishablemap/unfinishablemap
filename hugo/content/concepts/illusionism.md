@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-16 13:46:56+00:00
+ai_modified: 2026-07-27 17:17:24+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -164,7 +164,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: If there are no phenomenal properties, there's nothing non-physical to explain. Frankish's functional-seeming response is the strongest version of this challenge, arguing that what dualists call "intrinsic qualities" are mischaracterisations of functional states. The Map's response is that functional roles underdetermine experience: the gap between what a state *does* and what it *is like* is the very phenomenon dualism exists to explain, not a failure of introspection. The self-representation and intrinsic-quality objections above mark where the Map holds the functional account has not yet closed this gap—and where the residue is bedrock (the intrinsic-quality dispute), it is named as a framework boundary rather than substituted for argument.
 
-**[Bidirectional Interaction](/tenets/#bidirectional)**: The Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental-effort](/concepts/mental-effort/) model—would be mere appearance.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental-effort](/concepts/mental-effort/) model—would be mere appearance.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But [parsimony arbitrates between theories of equal explanatory power](/concepts/parsimony-epistemology/), and illusionism achieves only [apparent simplicity](/arguments/epistemological-limits-of-occams-razor/) by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism has only renamed the difficulty rather than progressed.
 

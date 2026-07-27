@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-26T02:17:00+00:00
+ai_modified: 2026-07-27T17:17:24+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -124,7 +124,7 @@ The Map's tenets shape environmental ethics distinctively:
 
 **[[tenets#^dualism|Dualism]]**: If consciousness is irreducible, the moral status of conscious animals is not contingent on our theoretical frameworks—they genuinely experience suffering and flourishing regardless of how we explain it. This grounds environmental obligations more firmly than functionalist approaches where moral status depends on debatable criteria for consciousness.
 
-**[[tenets#^minimal-interaction|Minimal Quantum Interaction]]**: The Map holds that consciousness interfaces with the physical world at the smallest possible scale. For environmental ethics, this tenet is less directly relevant than the others—it constrains the *mechanism* of interaction rather than its *moral significance*. But it does bear on the boundary question: the distribution of consciousness across species depends in part on which organisms possess neural architectures capable of supporting the relevant quantum-level interactions.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map holds that consciousness interfaces with the physical world at the smallest possible scale. For environmental ethics, this tenet is less directly relevant than the others—it constrains the *mechanism* of interaction rather than its *moral significance*. But it does bear on the boundary question: the distribution of consciousness across species depends in part on which organisms possess neural architectures capable of supporting the relevant quantum-level interactions.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Animal consciousness is not epiphenomenal. The suffering of a trapped animal causally shapes its behaviour through [[mental-causation-and-downward-causation|downward causation]]—it matters *to* the animal, not just as a correlate of neural activity. Environmental destruction that causes animal suffering causes real harm to agents whose experiences influence their actions.
 

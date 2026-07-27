@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-03 08:30:00+00:00
+ai_modified: 2026-07-27 17:17:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -197,7 +197,7 @@ More fundamentally, the teaching relationship presupposes [indexical identity](/
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum) tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum probabilities rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum probabilities rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
 
 ### Occam's Razor Has Limits
 

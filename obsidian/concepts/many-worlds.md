@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-07-16T08:08:00+00:00
+ai_modified: 2026-07-27T17:17:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -180,7 +180,7 @@ MWI conflicts with multiple site commitments:
 
 **Dualism**: The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. MWI is consistent with dualism in principle—nothing prevents non-physical properties from accompanying physical states in every branch. But MWI provides no motivation for dualism: if consciousness plays no role in determining outcomes, its irreducibility becomes an unexplained addition rather than a theoretical requirement. Collapse interpretations, by contrast, can integrate consciousness into the physics itself.
 
-**Minimal Quantum Interaction**: The [[tenets#^minimal-quantum|Minimal Quantum Interaction]] tenet posits that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum indeterminacies rather than violating conservation laws. MWI eliminates quantum indeterminacy entirely: nothing is undetermined because all outcomes occur. The tenet becomes inapplicable; there's nothing for consciousness to bias.
+**Minimal Quantum Interaction**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet posits that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum indeterminacies rather than violating conservation laws. MWI eliminates quantum indeterminacy entirely: nothing is undetermined because all outcomes occur. The tenet becomes inapplicable; there's nothing for consciousness to bias.
 
 **Bidirectional Interaction**: The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes—on the Map, by modulating statistics within objective-collapse events rather than triggering collapse itself. MWI denies any such influence: outcomes are determined entirely by unitary evolution, leaving no quantum indeterminacies for consciousness to bias. If MWI is true, [[mental-causation-and-downward-causation|mental causation]] needs a different story. Consciousness becomes either epiphenomenal (accompanying but not affecting the physics) or eliminable (not a genuine category at all).
 

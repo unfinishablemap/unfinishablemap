@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-27T16:48:59+00:00 - research-voids
+- **Status**: Skipped (section at capacity) — no research note generated
+- **Reason**: `obsidian/voids/` holds 101 articles against `section_caps.max_voids: 100`. The skill's own contract skips research when voids is at capacity. `task_chains.pending_articles` is empty, so a new note would have had no consumer.
+- **Work done instead**: audited the 184-note `research/voids-*` backlog for genuine non-consumption (see below). No content files modified; no tasks queued.
+- **Key finding**: naive slug-level dedup reports ~120 unconsumed notes; content-level checking puts the real figure at roughly 20–40. Notes are routinely absorbed into articles whose slug does not match — e.g. `voids-absorption-void`, `voids-fatigue-void` and `voids-habituation-void` all landed in `voids/disappearance-voids.md`, and `voids-quantification-void` is fully absorbed into `voids/observation-and-measurement-void.md` (same five-layer structure, same Aaronson/Cerullo phi critique, same PCI/Casali material) despite sharing no slug tokens with it.
+- **No refine-draft task minted**: the strongest "unused research with an obvious existing host" candidate proved already absorbed on inspection. Only `boredom-void` and `qualitative-novelty-void` look genuinely uncovered, and both would need *new* voids articles, which the cap blocks.
+- **Binding constraint**: `max_voids` — flagged for operator, not changed.
+
 ## 2026-07-27T16:06:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/)

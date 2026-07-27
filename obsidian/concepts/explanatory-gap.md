@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-12T19:34:26+00:00
+ai_modified: 2026-07-27T17:17:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -185,7 +185,7 @@ If consciousness is non-physical, its connection to physical processes will itse
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world—might seem threatened by the gap. If we can't explain how consciousness arises, how can we explain how it acts? But the gap affects both directions equally. We cannot see why C-fiber firing produces pain; we equally cannot see why the intention to raise an arm produces arm movement. The symmetry suggests the limitation is in explanation, not in causation. Consciousness both arises from and acts upon physical processes, even if neither direction is explanatorily transparent.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world—might seem threatened by the gap. If we can't explain how consciousness arises, how can we explain how it acts? But the gap affects both directions equally. We cannot see why C-fiber firing produces pain; we equally cannot see why the intention to raise an arm produces arm movement. The symmetry suggests the limitation is in explanation, not in causation. Consciousness both arises from and acts upon physical processes, even if neither direction is explanatorily transparent.
 
 ### No Many Worlds
 

@@ -4,7 +4,7 @@ description: "Cumulative culture requires metarepresentation—representing know
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-03T08:30:00+00:00
+ai_modified: 2026-07-27T17:17:24+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -195,7 +195,7 @@ More fundamentally, the teaching relationship presupposes [[haecceity|indexical 
 
 ### Minimal Quantum Interaction
 
-The [[tenets#^minimal-quantum|Minimal Quantum Interaction]] tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum probabilities rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum probabilities rather than introducing new energy. While cumulative culture doesn't directly evidence quantum mechanisms, it's consistent with this framework. The metarepresentational capacity consciousness provides might emerge from subtle quantum effects in neural processing—though the Map acknowledges this mechanism remains speculative and current quantum biology cannot confirm or disconfirm such effects at relevant timescales.
 
 ### Occam's Razor Has Limits
 

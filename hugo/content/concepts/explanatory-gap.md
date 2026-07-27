@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-12 19:34:26+00:00
+ai_modified: 2026-07-27 17:17:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -187,7 +187,7 @@ If consciousness is non-physical, its connection to physical processes will itse
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional) tenet—that consciousness causally influences the physical world—might seem threatened by the gap. If we can't explain how consciousness arises, how can we explain how it acts? But the gap affects both directions equally. We cannot see why C-fiber firing produces pain; we equally cannot see why the intention to raise an arm produces arm movement. The symmetry suggests the limitation is in explanation, not in causation. Consciousness both arises from and acts upon physical processes, even if neither direction is explanatorily transparent.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—might seem threatened by the gap. If we can't explain how consciousness arises, how can we explain how it acts? But the gap affects both directions equally. We cannot see why C-fiber firing produces pain; we equally cannot see why the intention to raise an arm produces arm movement. The symmetry suggests the limitation is in explanation, not in causation. Consciousness both arises from and acts upon physical processes, even if neither direction is explanatorily transparent.
 
 ### No Many Worlds
 

@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-07-17T21:41:12+00:00
+ai_modified: 2026-07-27T17:17:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ The convergence supports the explanatory gap rather than dualism specifically. B
 
 **Madhyamaka emptiness** reads the convergence as recognition that any sufficiently rigorous analysis of consciousness hits the same conceptual fracture point — not because consciousness has a determinate fundamental feature, but because the conceptual apparatus produces the fracture. This is consistent with the convergence pattern; the disagreement is that Madhyamaka's project is therapeutic while the Map's is metaphysical.
 
-The Map's selection of dualism rests primarily on the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] — the positive thesis that consciousness causally shapes physical evolution, including via [[tenets#^minimal-quantum|minimal quantum interaction]]. The [[bidirectional-interaction|companion concept article]] develops the tenet's positive case independently — through the self-stultification objection to epiphenomenalism and the empirical evidence for mental causation — so the selection draws on a separately-supported argument rather than a bare appeal to commitment. Bidirectional interaction requires two genuinely distinct domains in causal contact: incompatible with idealism (one domain), under-specified on neutral monism, more naturally expressed in dualist than panpsychist vocabulary. The convergence argument earns "consciousness is irreducible"; bidirectional interaction selects "and the irreducible side is a distinct kind of stuff in causal contact with the physical."
+The Map's selection of dualism rests primarily on the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] — the positive thesis that consciousness causally shapes physical evolution, including via [[tenets#^minimal-quantum-interaction|minimal quantum interaction]]. The [[bidirectional-interaction|companion concept article]] develops the tenet's positive case independently — through the self-stultification objection to epiphenomenalism and the empirical evidence for mental causation — so the selection draws on a separately-supported argument rather than a bare appeal to commitment. Bidirectional interaction requires two genuinely distinct domains in causal contact: incompatible with idealism (one domain), under-specified on neutral monism, more naturally expressed in dualist than panpsychist vocabulary. The convergence argument earns "consciousness is irreducible"; bidirectional interaction selects "and the irreducible side is a distinct kind of stuff in causal contact with the physical."
 
 ## Coherence Across Routes Is Not Independent Routes
 

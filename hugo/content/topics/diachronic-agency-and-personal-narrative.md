@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-25 16:09:21+00:00
+ai_modified: 2026-07-27 17:17:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -120,7 +120,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Diachronic agency is bidirectional interaction extended across time. Each choice in a sustained project is an instance of consciousness selecting among physical possibilities. The project *as a whole*—the pattern of selections sustained across months or years—represents a higher-order exercise of causal influence that no single selection contains. Narrative is the structure through which consciousness maintains this higher-order influence.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-interaction)**: The minimality constraint matters for diachronic agency because it clarifies the *scale* of consciousness's involvement. Each individual choice requires only a tiny quantum-level influence—a selection among physically permitted outcomes. The impressive temporal coherence of diachronic agency emerges not from massive interventions but from sustained sequences of minimal selections, organised by narrative structure into patterns no single selection contains.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The minimality constraint matters for diachronic agency because it clarifies the *scale* of consciousness's involvement. Each individual choice requires only a tiny quantum-level influence—a selection among physically permitted outcomes. The impressive temporal coherence of diachronic agency emerges not from massive interventions but from sustained sequences of minimal selections, organised by narrative structure into patterns no single selection contains.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds eliminates diachronic agency. If every choice branches into all alternatives equally realised, then no agent sustains a project—every project is equally sustained and equally abandoned across branches. The coherence of a life, the meaning of perseverance, the moral weight of sustained commitment—all dissolve into branch-counting. The Map's rejection of many-worlds preserves the singular temporal trajectory within which diachronic agency operates.
 

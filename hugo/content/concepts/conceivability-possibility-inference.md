@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-06-10 12:00:00+00:00
+ai_modified: 2026-07-27 17:17:24+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -140,7 +140,7 @@ If this inference is fundamentally unreliable, dualist arguments lose significan
 
 **The qualification:** The Map endorses the inference for *ideal positive conceivability* of fundamental conceptual separations, not for all conceivable scenarios. When we can coherently and completely imagine consciousness coming apart from physical structure, this reveals that consciousness is not conceptually entailed by physics—which is precisely what dualism claims.
 
-The inference also supports the Map's [Bidirectional Interaction](/tenets/#bidirectional) tenet. If consciousness can be coherently conceived as separate from physical structure, this creates conceptual room for it to be causally efficacious rather than merely epiphenomenal—the conceivability of [interactionist-dualism](/concepts/interactionist-dualism/) is a prerequisite for taking it seriously as a metaphysical option, and by extension for grounding [libertarian free will](/topics/free-will/).
+The inference also supports the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If consciousness can be coherently conceived as separate from physical structure, this creates conceptual room for it to be causally efficacious rather than merely epiphenomenal—the conceivability of [interactionist-dualism](/concepts/interactionist-dualism/) is a prerequisite for taking it seriously as a metaphysical option, and by extension for grounding [libertarian free will](/topics/free-will/).
 
 This aligns with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. The parsimony objection to dualism often assumes that conceivability arguments are mere "intuitions" to be overridden by simplicity. But if conceivability provides genuine epistemic access to modal structure, then the apparent simplicity of physicalism might reflect ignorance rather than insight—we fail to grasp the additional facts about consciousness because we're looking only at physical structure.
 

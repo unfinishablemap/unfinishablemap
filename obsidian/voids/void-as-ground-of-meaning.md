@@ -4,7 +4,7 @@ description: "Why cognitive limits are preconditions for meaning, not merely obs
 created: 2026-02-24
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-07-06T18:51:48+00:00
+ai_modified: 2026-07-27T17:17:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ The thesis connects to each of the Map's [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the hiddenness of the causal interface. That we cannot observe how consciousness acts on the brain may be constitutive—full transparency about the mechanism might transform the kind of agency it enables.
 
-**[[tenets#^minimal-interaction|Minimal Quantum Interaction]]** reflects the thesis structurally. A massive, obvious mind-matter interface would dissolve the boundary between mental and physical domains; the *smallness* of the interaction preserves the meaningful distinction.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** reflects the thesis structurally. A massive, obvious mind-matter interface would dissolve the boundary between mental and physical domains; the *smallness* of the interaction preserves the meaningful distinction.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** aligns because many-worlds dissolves a limit the thesis identifies as enabling. Indexical identity—being *this* consciousness, not another—is a cognitive limit that structures all meaning. If all branches are equally real, the limit of being one particular observer disappears, and with it the ground of significance that comes from being a particular someone.
 

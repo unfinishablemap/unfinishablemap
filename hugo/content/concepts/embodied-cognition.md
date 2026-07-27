@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-27 02:17:59+00:00
+ai_modified: 2026-07-27 17:17:24+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 concepts:
@@ -187,9 +187,9 @@ Embodied cognition's relationship to the Map's tenets requires careful analysis:
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Embodied cognitivists in the enactive tradition insist that consciousness cannot be understood through third-person description alone. Bracketing first-person data doesn't achieve simplicity—it ignores the most fundamental evidence.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: The Dreyfus progression reveals *where* consciousness interfaces with motor systems—the transition between absorbed and reflective modes. Whatever mechanism mediates this interface (the [attention-as-interface](/concepts/attention-as-interface/) model proposes one possibility), embodied cognition maps the functional architecture of the interaction point.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Dreyfus progression reveals *where* consciousness interfaces with motor systems—the transition between absorbed and reflective modes. Whatever mechanism mediates this interface (the [attention-as-interface](/concepts/attention-as-interface/) model proposes one possibility), embodied cognition maps the functional architecture of the interaction point.
 
-**[No Many Worlds](/tenets/#no-mwi)**: Embodiment is orthogonal to the Many-Worlds question. The choking evidence is compatible with both collapse and Many-Worlds interpretations, and nothing in the structure of embodied skill discriminates between them—the body shapes how consciousness interfaces with the world regardless of how quantum outcomes resolve. The anti-MWI argument the Map relies on comes not from embodiment but from the phenomenology of singular determination in effortful selection (see [mental-effort](/concepts/mental-effort/)).
+**[No Many Worlds](/tenets/#no-many-worlds)**: Embodiment is orthogonal to the Many-Worlds question. The choking evidence is compatible with both collapse and Many-Worlds interpretations, and nothing in the structure of embodied skill discriminates between them—the body shapes how consciousness interfaces with the world regardless of how quantum outcomes resolve. The anti-MWI argument the Map relies on comes not from embodiment but from the phenomenology of singular determination in effortful selection (see [mental-effort](/concepts/mental-effort/)).
 
 Embodied cognition challenges a specific historical position (Cartesian substance dualism) without refuting dualism as such. Showing that cognition is embodied doesn't show that consciousness is purely physical. The hard problem persists regardless of whether the explanatory target is brain computation or bodily interaction.
 

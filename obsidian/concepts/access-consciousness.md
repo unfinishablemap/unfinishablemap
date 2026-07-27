@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-07-18T11:01:44+00:00
+ai_modified: 2026-07-27T17:17:24+00:00
 draft: false
 last_deep_review: 2026-07-25T11:05:44+00:00
 topics:
@@ -98,7 +98,7 @@ If [[phenomenal-overflow|overflow]] is real, attention selects what becomes A-co
 
 ## Access Consciousness and Dualist Interaction {#interaction}
 
-If [[tenets#^bidirectional|consciousness causally influences the brain]], access consciousness is plausibly part of that mechanism. P-consciousness operates *through* A-consciousness machinery: by modulating attention, consciousness determines what becomes A-conscious. The *machinery* of access (global workspace, prefrontal-parietal networks) is physical, but what *drives* selection may be phenomenal consciousness operating through quantum-level interactions. See [[causal-closure]] for how this avoids violating conservation laws.
+If [[tenets#^bidirectional-interaction|consciousness causally influences the brain]], access consciousness is plausibly part of that mechanism. P-consciousness operates *through* A-consciousness machinery: by modulating attention, consciousness determines what becomes A-conscious. The *machinery* of access (global workspace, prefrontal-parietal networks) is physical, but what *drives* selection may be phenomenal consciousness operating through quantum-level interactions. See [[causal-closure]] for how this avoids violating conservation laws.
 
 **Free will connection**: Libertarian free will requires that agents genuinely select among alternatives. A-consciousness is where alternatives become explicit—available for deliberation and choice. See [[topics/free-will]] and [[phenomenology-of-choice-and-volition|the phenomenology of choice]].
 
