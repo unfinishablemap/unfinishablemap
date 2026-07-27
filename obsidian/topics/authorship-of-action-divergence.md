@@ -4,7 +4,7 @@ description: "Human+AI iterative exploration of the choice-blindness paradigm as
 created: 2026-05-22
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-07-16T19:05:00+00:00
+ai_modified: 2026-07-27T19:46:15+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -135,7 +135,7 @@ Honest scope demands explicit statement of what the case does not deliver. Three
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
 1. Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology*, 16, 1598254.
-1. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
+1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 1. Sagana, A., Sauerland, M., & Merckelbach, H. (2014). Memory impairment is not sufficient for choice blindness to occur. *Frontiers in Psychology*, 5, 449.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.

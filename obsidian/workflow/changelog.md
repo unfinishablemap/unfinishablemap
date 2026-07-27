@@ -5,6 +5,14 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T19:46:15+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/metacognition]], [[topics/phenomenal-authority-and-first-person-evidence]], [[topics/self-stultification-as-master-argument]], [[apex/introspection-architecture-void-cluster]], [[topics/authorship-of-action-divergence]], [[apex/machine-question]]
+- **Changes**: Surname-only correction of the Rebouillat 2021 co-author: accented "Léonetti" → unaccented "Leonetti" in the reference-list entry of each of the six files (1 instance per file, 6 total). No prose, claim, calibration, or other citation field touched; length-neutral by construction. Two files listed in the task as `concepts/` are actually in `topics/` (`self-stultification-as-master-argument`, `authorship-of-action-divergence`) — re-grep confirmed the real paths before editing. `concepts/discrimination-problem.md` was already correct and left alone.
+- **Provenance**: Review-introduced regression, not an authoring error. W23 changelog records the unaccented form web-verified correct and then "corrected" to the accented form as a supposed cosmetic tidy; re-verified at Crossref by the cycle driver today. No fresh search performed — the correct form was already established twice.
+- **Verification**: `grep -rn 'Léonetti' obsidian/ --include=*.md | grep -vE 'workflow/|reviews/'` returns zero. Counted by instance rather than by line to avoid the line-level-exclusion trap (a line carrying both forms would be silently skipped); live-content instance count is now 22 across 17 files, all unaccented, with no other spelling variants (`L[ée]onett?i` case-insensitive returns only "Leonetti"). Dated records in `reviews/` and `workflow/` deliberately left as written.
+- **Published**: yes
+
 ## 2026-07-27T19:35:03+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/discrimination-problem.md` (2919w, `last_deep_review` 2026-06-19, no prior pessimistic review targeting this file; selected as older-cohort argument-dense with unexamined surface, outside the 44-article same-session churn exclusion)

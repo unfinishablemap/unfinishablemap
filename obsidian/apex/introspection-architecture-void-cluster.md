@@ -4,7 +4,7 @@ description: "Five voids name distinct architectural mechanisms by which introsp
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-07-16T13:46:56+00:00
+ai_modified: 2026-07-27T19:46:15+00:00
 last_deep_review: 2026-07-19T14:32:31+00:00
 draft: false
 topics:
@@ -183,7 +183,7 @@ This synthesis draws on:
 8. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control. *Consciousness and Cognition*, 9(2), 149–171.
 9. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
 10. Perky, C. W. (1910). An experimental study of imagination. *American Journal of Psychology*, 21, 422–452.
-11. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
+11. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 12. Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. *Cognitive Science*, 26(5), 521–562.
 13. Schacter, D. L., Harbluk, J. L., & McLachlan, D. R. (1984). Retrieval without recollection: An experimental analysis of source amnesia. *Journal of Verbal Learning and Verbal Behavior*, 23(5), 593–611.
 14. Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. *Nature Reviews Neuroscience*, 4, 662–671.

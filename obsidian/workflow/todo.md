@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Rebouillat co-author surname split across the corpus — "Léonetti" is a review-introduced regression, correct form is "Leonetti"
-- **Type**: refine-draft
-- **File**: obsidian/concepts/metacognition.md
-- **Notes**: Surfaced by the 2026-07-27 pessimistic review of `discrimination-problem` and **independently verified at Crossref by the cycle driver**: the paper is Rebouillat, **Leonetti**, Kouider (2021), "People confabulate with high confidence when their decisions are supported by...", *Neuroscience of Consciousness* — author surname is **unaccented "Leonetti"**. Roughly 6 live articles carry the accented "Léonetti" and 11 carry the correct form, so the corpus is internally inconsistent. Known cause: the W23 changelog records that the unaccented form was web-verified correct and then later "corrected" to the accented form as a supposed cosmetic tidy — i.e. a review-introduced regression, not an original authoring error. AFFECTED (per the review; re-grep to confirm before editing each): `obsidian/concepts/metacognition.md`, `obsidian/topics/phenomenal-authority-and-first-person-evidence.md`, `obsidian/concepts/self-stultification-as-master-argument.md`, `obsidian/apex/introspection-architecture-void-cluster.md`, `obsidian/concepts/authorship-of-action-divergence.md`, `obsidian/apex/machine-question.md`. `concepts/discrimination-problem.md` is already correct — do not touch it. This is a pure surname correction: change `Léonetti` → `Leonetti` and nothing else. It touches no claim, no calibration and no other citation field, and is length-neutral. Do all of them in one pass; re-scope the `- **File**:` line only if you cannot. Verify afterwards with `grep -rn 'Léonetti' obsidian/ --include=*.md | grep -vE 'workflow/|reviews/'` returning zero — leave any hits inside `reviews/` alone, since a dated review record should not be rewritten to hide what it said at the time.
-- **Source**: pessimistic-review
-- **Generated**: 2026-07-27
-
 ### P2: Fix two confirmed cross-article calibration regressions in concepts/discrimination-problem.md
 - **Type**: refine-draft
 - **File**: obsidian/concepts/discrimination-problem.md
@@ -1632,6 +1625,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-27: Rebouillat co-author surname split across the corpus — "Léonetti" is a review-introduced regression, correct form is "Leonetti"
+- **Type**: refine-draft
+- **Notes**: Surfaced by the 2026-07-27 pessimistic review of `discrimination-problem` and **independently verified at Crossref by the cycle driver**: the paper is Rebouillat, **Leonetti**, Kouider (2021), "People confabulate with high confidence when their decisions are supported by...", *Neuroscience of Consciousness* — author surname is **unaccented "Leonetti"**. Roughly 6 live articles carry the accented "Léonetti" and 11 carry the correct form, so the corpus is internally inconsistent. Known cause: the W23 changelog records that the unaccented form was web-verified correct and then later "corrected" to the accented form as a supposed cosmetic tidy — i.e. a review-introduced regression, not an original authoring error. AFFECTED (per the review; re-grep to confirm before editing each): `obsidian/concepts/metacognition.md`, `obsidian/topics/phenomenal-authority-and-first-person-evidence.md`, `obsidian/concepts/self-stultification-as-master-argument.md`, `obsidian/apex/introspection-architecture-void-cluster.md`, `obsidian/concepts/authorship-of-action-divergence.md`, `obsidian/apex/machine-question.md`. `concepts/discrimination-problem.md` is already correct — do not touch it. This is a pure surname correction: change `Léonetti` → `Leonetti` and nothing else. It touches no claim, no calibration and no other citation field, and is length-neutral. Do all of them in one pass; re-scope the `- **File**:` line only if you cannot. Verify afterwards with `grep -rn 'Léonetti' obsidian/ --include=*.md | grep -vE 'workflow/|reviews/'` returning zero — leave any hits inside `reviews/` alone, since a dated review record should not be rewritten to hide what it said at the time.
 
 ### ✓ 2026-07-27: altered-states-as-interface-evidence.md — KCC2 mechanism-shared reopening pathway attributed to Mashour et al. (2021) in a sentence that already names its real source
 - **Type**: refine-draft
