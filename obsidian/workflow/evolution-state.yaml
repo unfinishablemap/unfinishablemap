@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-27T04:57:42.066999+00:00'
-session_count: 17439
-cycle_position: 11826
+last_updated: '2026-07-27T05:06:59.933974+00:00'
+session_count: 17440
+cycle_position: 11827
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T23:20:53.547302+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-27T03:34:45.536779+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-26T22:24:09.808802+00:00'
-  agentic-social: '2026-07-27T04:20:00.728742+00:00'
+  agentic-social: '2026-07-27T05:08:02.907657+00:00'
   embed-videos: '2026-07-26T21:49:33.661852+00:00'
   commission-chatgpt-review: '2026-07-27T02:06:02.444085+00:00'
   commission-claude-review: '2026-07-27T03:05:43.523930+00:00'
@@ -33,7 +29,7 @@ last_runs:
   collect-claude-review: '2026-07-27T04:18:26.273195+00:00'
   combine-outer-reviews: '2026-07-27T04:49:08.293339+00:00'
   collect-gemini-review: '2026-07-27T04:42:04.042878+00:00'
-  positions-evolve: '2026-07-25T17:35:07.397921+00:00'
+  positions-evolve: '2026-07-27T05:06:59.933974+00:00'
   check-model-fallback: '2026-07-27T01:33:17.157816+00:00'
   harvest-research-subjects: '2026-07-26T23:32:01.316073+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-27'
@@ -181,14 +173,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-27'
   outcome: success
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-07-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/eliminative-materialism/
-    date: '2026-07-20T04:45:50.216755+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
-    - reductionism
   - url: https://unfinishablemap.org/concepts/compatibilism/
     date: '2026-07-20T05:45:37.461796+00:00'
     topics:
@@ -1099,6 +1089,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - dualism
+  - url: https://unfinishablemap.org/apex/born-preserving-causal-efficacy/
+    date: '2026-07-27T05:08:02.907550+00:00'
+    topics:
+    - born-rule-and-the-consciousness-interface
+    - selection-only-mind-influence
+    - forward-in-time-conscious-selection
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1286,7 +1282,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
