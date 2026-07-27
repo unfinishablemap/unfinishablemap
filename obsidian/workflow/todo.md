@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: tenets/tenets.md — magnetoreception cites a press-release date as the primary study (secondary-source-as-primary)
+- **Type**: refine-draft
+- **File**: obsidian/tenets/tenets.md
+- **Notes**: From outer review 2026-07-27 (Claude Opus 5 full-site audit), finding 4.4 + Article-Specific Fix #5. VERIFIED at publisher during processing. The Minimal Quantum Interaction section (L76) credits the avian-cryptochrome computational confirmation to "a January 2026 Princeton study," but that is the date of the Princeton Office of the Dean of the Faculty *news release*, not the primary paper. The peer-reviewed primary source is Luo, J.; Hungerland, J.; Solov'yov, I. A.; Subotnik, J. E.; Hammes-Schiffer, S., "Protein and Solvent Reorganization Drives Radical Pair Stability in Avian Cryptochrome 4a," *Journal of the American Chemical Society* 2025, 147(47):43934–43945, DOI 10.1021/jacs.5c15726 (confirmed at pubs.acs.org). Replace "a January 2026 Princeton study" with a citation to the JACS 2025 paper (author/venue/year/DOI); it is fine to note the Princeton news release as the secondary announcement, but the load-bearing citation must be the primary paper. Preserve the surrounding "biological *precedent* not licence" calibration, which is correct.
+- **Review file**: `reviews/outer-review-2026-07-27-claude-opus-5.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P2: positions/quantum-interface.md — convert the flagship's "entirely metaphysical" confession into a binding P-Q1/P-Q3 register action
+- **Type**: positions-evolve
+- **File**: obsidian/positions/quantum-interface.md
+- **Notes**: From outer review 2026-07-27 (Claude Opus 5 full-site audit), the review's HEADLINE finding (confession-without-correction) + Article-Specific Fixes #2/#3. Convergent-complement to the existing P2 born-preserving selector-law task (does not duplicate it). The flagship `apex/born-preserving-causal-efficacy` concedes that under its own preferred Route 1 (trumping) the distinction between genuine conscious authorship and outright epiphenomenalism becomes "entirely metaphysical, with no possible empirical consequence at any scale," and that the preemption machinery is symmetric (a physicalist can run it in reverse). Yet P-Q1 ("post-decoherence selection is the strongest current mechanism candidate") sits at *moderate confidence* with the mechanism debt (P-Q10) unpaid and the bias-without-deviation dilemma open. Action: EITHER (a) lower the P-Q1 (and dependent P-Q3) band, OR (b) add an explicit register note that the moderate confidence is conditional on a worked toy model that does not yet exist and record why the "entirely metaphysical" concession does not itself trigger a demotion. The self-disclosure must become a register action, not a terminal state. Audit-only if a prior positions-evolve cycle has already re-graded these since 2026-07-27; do not re-mint a redundant audit.
+- **Review file**: `reviews/outer-review-2026-07-27-claude-opus-5.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
+### P2: binding cluster — Baum's self-published preprint still does load-bearing zero-lag-synchrony work despite the "contested" hedge
+- **Type**: refine-draft
+- **File**: obsidian/concepts/entanglement-binding-hypothesis.md
+- **Notes**: From outer review 2026-07-27 (Claude Opus 5 full-site audit), finding 4.3 + Article-Specific Fix #4. Source-tier problem: the "zero-lag gamma synchrony cannot arise classically without violating relativistic causality" claim rests on Erik Baum's "Quantum Binding Argument," a self-published PhilArchive preprint whose central premise is contradicted by peer-reviewed classical dynamical-relaying / resonance-pair work (Gollo, Mirasso, Sporns & Breakspear; Vicente et al. 2008). NOTE for the executor: `concepts/binding-problem.md` (L107) already reframes Baum's premise as "contested" with the dynamical-relaying rebuttal inline, and `entanglement-binding-hypothesis.md` (L40) also carries the rebuttal — so the fix here is narrower than the reviewer's global framing: strip the residual load-bearing inferences (e.g. L40 "Baum's quantum binding argument strengthens this point" → "If zero-lag synchrony is real … classical frameworks cannot account for it"). Present Baum only as a flagged, non-peer-reviewed minority claim with the peer-reviewed classical account given equal or greater weight; remove any inference that treats the relativistic-causality premise as established. Check `concepts/quantum-biology-and-neural-mechanisms.md` for the same residual over-reliance. Connects to the standing quantum-binding-Baum-over-claim thread; length-neutral.
+- **Review file**: `reviews/outer-review-2026-07-27-claude-opus-5.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-27
+
 ### P1: apex/testing-the-map-from-inside.md — first-person causal verification is both impossible (P-A4) and advertised as a test
 - **Type**: refine-draft
 - **File**: obsidian/apex/testing-the-map-from-inside.md

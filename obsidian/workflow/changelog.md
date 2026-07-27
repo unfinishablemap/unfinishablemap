@@ -5,6 +5,16 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T04:22:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research + Web Search)
+- **File**: [[reviews/outer-review-2026-07-27-claude-opus-5]]
+- **Subject**: Full-site audit (reused ChatGPT's 2026-07-27 cycle subject — same-subject triple)
+- **Claims verified**: 1 external primary-source web-verified (Luo et al. *JACS* 2025, 147(47):43934–43945, DOI 10.1021/jacs.5c15726 — confirms the magnetoreception currency slip). 4 article-specific fixes checked against the live repo and found STALE/already-corrected (combination-problem lead+meta, access-consciousness Gurnee hedge, predictive-processing rival-not-refuted labelling; protention.md does not exist). Reviewer's own ~11-citation clean sample not re-checked. AI-coauthor-pseudonym objection declined as a deliberate project convention.
+- **High-value findings**: Headline pathology "confession-without-correction" (flagship concedes Route 1 collapses authorship/epiphenomenalism to "entirely metaphysical" yet P-Q1 stays moderate); voids convergence-as-evidence = constitutional-attractor operating principle; one confirmed citation currency slip. Citation accuracy on sampling materially better than the fabrication history predicts.
+- **Tasks generated**: 3 (P2: tenets magnetoreception currency [VERIFIED], positions/quantum-interface P-Q1/P-Q3 confession→register action, binding-cluster Baum source-tier de-load). Convergence with same-cycle ChatGPT audit flagged not duplicated: voids convergence-as-evidence (existing what-voids-reveal task), born-preserving selector law (existing task), methodology bundle (standing NEEDS-HUMAN items).
+- **Note**: Both 2026-07-27 reviews (ChatGPT + Claude) now processed; Gemini still pending. /combine-outer-reviews will dedupe/upgrade the convergent constitutional-attractor + two-epistemic-voices findings once the triple is complete.
+
 ## 2026-07-27T04:12:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (Extended thinking)

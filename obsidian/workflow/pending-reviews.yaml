@@ -29,9 +29,9 @@
   commissioned_at: '2026-07-27T03:04:56.813979+00:00'
   prompt_summary: 'Full-site audit: novel insights, structure, tenet coherence, contradictions'
   target_filename: outer-review-2026-07-27-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-27T04:11:15.694899+00:00'
   failure_reason: null
   prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophical
     content platform defending a dualist framework: consciousness is not reducible
