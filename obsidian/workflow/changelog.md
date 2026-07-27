@@ -5,6 +5,20 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T17:31:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Task**: Outer review 2026-07-27 (ChatGPT 5.6 Pro) finding 4.11, propagated from `apex/moral-architecture-of-consciousness` to its source concept. The apex was fixed earlier today to run its responsibility floor off the *agency threshold* rather than off consciousness as such; this concept's §"The Role of Consciousness" still carried the patienthood/agency symmetry the reviewer named, so the concept contradicted its own apex.
+- **Change (one paragraph, §The Role of Consciousness)**: dropped the "just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible)" parallelism, which reads consciousness as *sufficient* for agency. Replaced with the apex's settled formulation — consciousness grounds candidacy for patienthood directly; agency requires the further capacities agent causation presupposes (control over conduct, access to reasons, a genuine range of options, competence to recognise what is at stake), which infants, most animals, and any minimally-phenomenal subject lack. The closing sentence now states the distinction explicitly: consciousness is necessary for desert-standing without conferring it.
+- **Wording reused, not reinvented**: vocabulary taken verbatim in structure from `apex/moral-architecture-of-consciousness` §"Who Counts: Patienthood Before Agency" and the "Two features prevent this from collapsing into universal excuse-making" paragraph, so concept and apex now agree rather than offering a third independent phrasing.
+- **Direction preserved**: the sound claim — only a conscious being can be responsible — is retained. The Map's ethical position is not weakened; on the biological-scope cluster it is strengthened, since patienthood is what grounds obligations toward beings who cannot be held responsible.
+- **Not touched (per task scope)**: the phenomenal-value-realism material in the same paragraph and the "Compatibilism is sufficient" reply (§Objections and Responses), both separately calibrated and untouched by this finding.
+- **Disconfirmed premise**: `topics/ethics-under-dualism` §"Moral Patienthood: Who Counts?" was checked and is **clean** — it asserts patienthood of conscious beings only ("Moral patienthood extends to all conscious beings, but only to conscious beings") and never claims consciousness grounds agency; §"AI: Non-Consciousness and Its Limits" separates the roles in the other direction (agent without patient). No edit made there.
+- **Out-of-scope residue reported, not edited**: two further loci carry the same collapse — `apex/consciousness-and-agency.md` L173 ("consciousness grounds both who can be harmed and who can be held to account") and `concepts/experiential-alignment.md` L228 (Further Reading gloss: "How consciousness grounds both moral patienthood and agency"). Neither quotes this article, so no stale-internal-quote channel is open, but both would need the same in-kind fix.
+- **Engagement classification**: no named-opponent reply added or altered; no mode applies.
+- **Length**: 3353 → 3401 body words (+48, +1.4%). Frontmatter `ai_modified` bumped to 2026-07-27T17:31:47+00:00 (verified against `date -u`); `ai_system`, `ai_contribution` (already 100), and `last_deep_review` left alone — a one-paragraph propagation fix is not a re-authoring.
+- **Published**: yes
+
 ## 2026-07-27T17:17:24+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Broken tenet block-anchor fragments found by /check-links 2026-07-27. Pure anchor-name correction — no citation, quotation, calibration or prose meaning touched. Length-neutral by construction (13 insertions, 13 deletions; one token per instance, all inside wikilink targets).
