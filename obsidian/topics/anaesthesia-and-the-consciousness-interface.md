@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-13T13:46:48+00:00
+ai_modified: 2026-07-27T09:05:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[evidential-status-discipline]]"
+  - "[[argument-from-mechanism]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[mind-brain-separation]]"
   - "[[brain-interface-boundary]]"

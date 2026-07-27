@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-13 13:46:48+00:00
+ai_modified: 2026-07-27 09:05:21+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,6 +32,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[evidential-status-discipline]]'
+- '[[argument-from-mechanism]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[mind-brain-separation]]'
 - '[[brain-interface-boundary]]'
