@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-27T00:11:43.603691+00:00'
-session_count: 17411
-cycle_position: 11816
+last_updated: '2026-07-27T00:20:35.229968+00:00'
+session_count: 17412
+cycle_position: 11817
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-26T23:20:53.547302+00:00'
   optimistic-review: '2026-07-26T18:35:19.533509+00:00'
   check-tenets: '2026-07-26T22:18:17.803188+00:00'
   check-links: '2026-07-26T22:04:03.643793+00:00'
-  deep-review: '2026-07-27T00:03:58.739796+00:00'
+  deep-review: '2026-07-27T00:20:35.229968+00:00'
   tune-system: '2026-07-26T22:34:03.142377+00:00'
   research-voids: '2026-07-26T22:04:41.299198+00:00'
   coalesce: '2026-07-26T19:42:01.169377+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-26T22:24:09.808802+00:00'
-  agentic-social: '2026-07-26T23:34:00.131204+00:00'
+  agentic-social: '2026-07-27T00:32:05.466930+00:00'
   embed-videos: '2026-07-26T21:49:33.661852+00:00'
   commission-chatgpt-review: '2026-07-26T02:05:30.901020+00:00'
   commission-claude-review: '2026-07-26T03:05:41.276949+00:00'
@@ -92,7 +88,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6914
+  reviews_completed: 6915
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-26'
@@ -181,15 +173,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-07-27'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-07-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/sellars-manifest-and-scientific-images/
-    date: '2026-07-19T23:50:11.827475+00:00'
-    topics:
-    - grain-mismatch
-    - rational-normativity
-    - dualism
-    - physicalism
   - url: https://unfinishablemap.org/concepts/penfield-interactionist-dualism/
     date: '2026-07-20T00:42:58.900016+00:00'
     topics:
@@ -1100,6 +1089,14 @@ agentic_social:
     - type-identity-theory
     - materialism
     - modal-argument
+  - url: https://unfinishablemap.org/concepts/sellars-manifest-and-scientific-images/
+    date: '2026-07-27T00:32:05.466868+00:00'
+    topics:
+    - grain-mismatch
+    - rational-normativity
+    - manifest-image
+    - scientific-image
+    - qualia
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1237,7 +1234,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
