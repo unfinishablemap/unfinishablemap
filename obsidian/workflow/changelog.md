@@ -5,6 +5,25 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T10:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/voids-circularity-discount]]
+- **Word count**: 2216 → 2380 (+164 body words, ~7%)
+- **Trigger**: deep-review 2026-07-27 of [[topics/epistemology-of-convergence-arguments]] flagged the discipline document as pre-demotion (`ai_modified` 2026-06-22). Read the current [[voids/what-voids-reveal]] (ai_modified 2026-07-27T06:55) and [[voids/voids]] first and reused their settled vocabulary rather than minting a third formulation.
+- **Decision on what the document is FOR after the demotion** (the delicate call the driver flagged): kept, with a changed job, as the cycle driver's preferred reading. The per-cluster independence scoring and the double-counting prohibition are re-pitched as general-purpose instruments for auditing *any* convergence claim the Map makes; the voids catalogue becomes their most fully worked example — a convergence that does not clear the bar rather than one that clears it at a penalty. New second paragraph states this explicitly, including why the name is retained ("the shape of the failure is what the discipline diagnoses"). The alternative (retire the document as vestigial) was rejected: the machinery is cited by [[per-cluster-independence-scoring]], [[apophatic-cartography-four-criteria]], [[apex/taxonomy-of-voids]] and the two worked exhibits, and none of those uses depends on a live voids-convergence claim.
+- **Changes**:
+  - **Frontmatter `description`** re-pitched (was still "the discount applies per-cluster independence scoring…", implying a live discounted claim) → now names the outcome: catalogue demoted to a coherence exhibit, scoring machinery survives. 156 chars.
+  - **Lead paragraph** (the L41 the task named): "is offered, in aggregate, as cumulative abductive support" → past tense, plus the settled outcome in [[voids/what-voids-reveal]]'s own words — "coherence exhibit", "framework-internal by construction", "no confirming force at all against a physicalism carving the voids differently".
+  - **Structural Objection**: "The cumulative weight of the catalogue *is taken as* abductive support" → *was taken*. New paragraph records that three independent outer reviewers converged on the objection in July 2026 and that the Map withdrew rather than trimmed, including the point the task specifically called for — the framework-independent partition is itself drawn under the tenets and so cannot arbitrate between rivals; its residue is a discipline check, not framework-neutral evidence (matches [[voids/voids]] L108 wording).
+  - **Calibration Mechanism**: new paragraph splits the machinery's two uses — run over the whole catalogue it *produced* the withdrawal (five families collapsing toward ~two approximately independent clusters, residue = internal coherence); run over narrower claims it still discriminates, and that is the surviving work. Opening also de-clichéd ("The discount is not a uniform haircut. It is per-cluster scoring" → the forbidden *not-X-but-Y* construct, rewritten).
+  - **Prohibition**: scope generalised from "the cumulative voids-convergence case" to "any convergence claim", with a sentence noting the withdrawal left the prohibition intact — catalogue-wide, the aggregate argument turned out to be doing what the prohibition forbids.
+  - **Sister Disciplines / Honest Limitation / Site Perspective**: the graduated-discount paragraph previously claimed the graduation "prevents the discipline from collapsing into denial that the voids catalogue carries any evidential weight" — exactly the outcome that has since occurred. Re-pitched: the graduation prevents *indiscriminate* dissolution, and the Map's own catalogue reached the strict end because it meets the licensing condition, an earned outcome rather than a default.
+  - **Closing paragraph** now states the boundary the driver asked to preserve: the withdrawal concerns evidential force alone. The methodological claim (limits illuminate architecture, for any view of mind) and the datum of questioning beings are explicitly retained; the retraction is noted as public rather than by quiet deletion.
+  - **Cross-links**: [[what-voids-reveal]] added to `related_articles` and Further Reading; the [[voids]] entry annotated as aligned to the same outcome.
+- **Engagement with the physicalist/materialist**: Mode Three throughout — the document does not claim to refute physicalism, and the refine strengthens rather than softens that, since the whole point is that the catalogue carries no confirming force against a rival carving. No mode labels in the body.
+- **Length**: target was neutral; landed +164 words (+7%) after compressing the seven diagnostic-category entries, the sister-discipline bullets, the universal-solvent paragraph, and four Further Reading annotations to offset the new material. The residual overshoot is the demotion narrative itself, which had no prior text to displace.
+- **Published**: yes
+
 ## 2026-07-27T09:52:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemology-of-convergence-arguments]]
