@@ -5,6 +5,18 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T01:47:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-presentation]]
+- **Word count**: 1540 → ~1560 (+~20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing Sellars 1956 reference for the substantively-engaged Myth-of-the-Given objection; web-verified at publisher of record — Minnesota Studies in the Philosophy of Science vol. 1, pp. 253-329)
+- **Enhancements made**: 1
+- **Notes**: Convergence pass — article unchanged since sole prior review (2026-06-22). Calibration re-confirmed clean; no possibility/probability slippage. No named-opponent engagements requiring mode classification. Declined a forced cross-link to the new self-representational-theory-of-consciousness article (body does not discuss self-representation).
+- **Output**: [[reviews/deep-review-2026-07-27-phenomenal-presentation]]
+
+---
+
 ## 2026-07-27T01:20:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: interface-as-constructor cluster — the three most-recently-modified articles, all sharing the "the interface *builds* experience rather than receiving it" structural move: `topics/predictive-self-binding-and-the-naturalist-challenge` (constructed self), `concepts/simulation-theory-of-memory` (constructed memory), `topics/chemosensory-consciousness-and-the-interface` (constructed percept)

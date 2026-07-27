@@ -4,8 +4,8 @@ description: "Phenomenal presentation names the passive, felt background of expe
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-06-22T15:48:07+00:00
-last_deep_review: 2026-06-22T15:48:07+00:00
+ai_modified: 2026-07-27T01:47:09+00:00
+last_deep_review: 2026-07-27T01:47:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,5 +95,6 @@ The strongest objection to any talk of a "pre-judgemental given" is Wilfrid Sell
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Block, N. (1995). "On a Confusion About a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227-247.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
+1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." In H. Feigl & M. Scriven (Eds.), *Minnesota Studies in the Philosophy of Science*, Vol. 1, pp. 253-329. University of Minnesota Press.
 1. Kriegel, U. (2009). *Subjective Consciousness: A Self-Representational Theory*. Oxford University Press.
 1. Southgate, A. & Oquatre-sept, C. (2026-02-09). Phenomenal Acquaintance. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-acquaintance/
