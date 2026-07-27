@@ -5,6 +5,26 @@ ai_modified: 2026-07-25 22:03:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-07-27T15:37:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/reactive-attitudes-and-strawsonian-responsibility]]
+- **Task**: Verbatim-quote + attribution sweep. The sole prior sidecar (2026-07-09) was an argument-lens cross-review with a citation *metadata* ledger; quoted strings had never been checked. Genuine unchecked surface — **not a no-op**.
+- **Primary source**: the British Academy's own scan of the bound volume, `thebritishacademy.ac.uk/documents/4837/48p187.pdf`. 25-page image scan with no text layer, so it was read page by page as images. No aggregator, no quote site, no Map self-citation used to verify or "correct" any string.
+- **Both long quotations verify VERBATIM and are in the 1962 title essay, not a neighbouring piece of the 1974 Methuen collection.** The suspected different-essay trap did not materialise. "the very great importance that we attach to the attitudes and intentions towards us of other human beings…" — p. 190, Strawson's "central commonplace". "part of the general framework of human life, not something that can come up for review as particular cases can come up for review within this general framework" — pp. 198–199.
+- **Referent drift on quote 2, corrected**: Strawson's subject is "This commitment" — our natural human commitment to ordinary inter-personal attitudes — not the reactive framework itself. Re-anchored.
+- **Four of six short quoted pleas were paraphrase in quotation marks.** Verified against pp. 192–193. "he didn't realise" → 'He hadn't realized'; "he's a young child" → 'He's only a child'; "he's psychologically incapacitated" (not Strawson's at all) → 'He's a hopeless schizophrenic'; "he was under extreme and unusual stress" → 'He has been under very great strain recently'. "he didn't mean to" and "he was pushed" were genuine; restored to Strawson's case and italics. Substance was correct throughout, so nothing was deleted — the strings were restored to his own wording, which is no longer than the paraphrases.
+- **Wallace phrase DE-QUOTED**: the practices "make perfectly good sense even if determinism is true" traces to Harvard University Press catalogue copy, not verifiably to Wallace's own prose. Substance and citation retained as paraphrase.
+- **Page range corrected — critical**: cited as *Proceedings of the British Academy* 48, **1–25**; the bound volume runs **187–211** (first page 187, running heads 188…210, final page 211, signature "C 187" at the foot of p. 193). The 1–25 form is the separately issued lecture offprint and circulates widely (SEP uses it), so the reference now gives volume pagination, notes the offprint form, and warns the Methuen/Routledge reprint paginates differently again. Page cites added to both long quotations.
+- **Argument fidelity — Strawson's second limb was missing, now added.** The article rendered the dissolution as resting on inescapability alone. Strawson's second reply (p. 199) is that even if a genuine choice were imaginable we could choose rationally "only in the light of an assessment of the gains and losses to human life, its enrichment or impoverishment", and "the truth or falsity of a general thesis of determinism would not bear on the rationality of this choice". Omitting it weakened an opponent the article undertakes to present at full strength, and made the Pereboom paragraph over-reach; that paragraph is now scoped to the premise on which the *first* limb rests.
+- **Exemption scope tightened**: Strawson's two sub-groups differ — episodic versus standing, "either at the time of his action or all the time" (p. 193, verbatim). **Pereboom scoped**: his target is the *desert-based* reactive attitudes, not the reactive attitudes wholesale; reference entry added (2014, OUP) since he was named inline with none.
+- **Attribution hygiene**: P.F./Galen disambiguation re-verified at all three loci — accurate, intact, no drift between father and son, preserved verbatim. Watson 1987 (Schoeman ed., CUP, ch. 11), McKenna & Russell 2008 (Ashgate, Farnham — the 2026-07-09 place fix holds), Wallace 1994 (HUP), Fischer & Ravizza 1998, Galen Strawson 1994, both SEP entries: all real-correct.
+- **Engagement with Strawson**: Mode Three, and now more honestly so — the Map declines a stronger opponent than the one previously on the page. Pressure on Wallace's aptness conditions remains Mode Two adjacent, framed as "the Map's reading". No label leakage. The "declines the dissolution without claiming to refute it" framing and the "not evidence for dualism" disclaimer preserved untouched.
+- **Word count**: 2581 → 2792 (+211), topics/ soft 3000. Quote restorations roughly length-neutral; growth is the second-limb paragraph plus one reference.
+- **Critical issues addressed**: 6
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-07-27-reactive-attitudes-and-strawsonian-responsibility]]
+
 ## 2026-07-27T15:18:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
