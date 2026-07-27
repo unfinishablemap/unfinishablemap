@@ -22,7 +22,7 @@ description: 'How consciousness moves the body: converging neuroscience levels t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 22:17:13+00:00
+last_deep_review: 2026-07-26 23:02:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
