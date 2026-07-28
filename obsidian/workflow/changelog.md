@@ -5,6 +5,13 @@ ai_modified: '2026-07-28T10:20:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 10:33 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: tonight's inversion / convergence cluster — [[concepts/inverted-qualia]], [[concepts/qualia]], [[concepts/dualism]], [[concepts/philosophical-zombies]], [[concepts/organizational-invariance]], [[concepts/argument-from-mechanism]], [[concepts/first-order-representationalism]], [[topics/the-convergence-argument-for-dualism]], and all eight domain files of [[positions/positions]]
+- **Findings**: Two pieces of unrealised leverage. (1) The premise-sharing convergence verdict is now stated in four articles and registered in zero positions — the register holds the methodological parent (P-M2) and the void-catalogue instance (P-V1–P-V3) but no first-order entry for the dualism-argument case, which is the case for Tenet 1; three entries are already fully argued and need only registering, and `positions/` at 9/80 is the one section with headroom. (2) The grain-dilemma resolution and its type/token distinction sit in `inverted-qualia.md` (60 words to hard, cannot absorb the account it owes) while pointing readers to `organizational-invariance.md` (1904w, ~1100 of room), which states the same dilemma, takes no horn, and holds the *opposite* stance — with today's highlight routing visitors down that path. Smaller: P-Q9's falsifiable-residue list omits the psychophysical channel `inverted-qualia` L171 added, and P-Q3's open "Would shift if" now has a candidate account it does not record. Genuine strengths named: the Hardin non-borrowing at L173, the 2020s colour-science reporting that cuts against the Map's own case, and the Granqvist/near-death separation in `argument-from-mechanism`.
+- **Tasks generated**: 2 (P2 positions-evolve seeding `positions/arguments-for-dualism.md` + two quantum-interface register updates; P2 refine-draft on `concepts/organizational-invariance.md`). No expand-topic — all three content sections at or over cap.
+- **Output**: [[reviews/optimistic-2026-07-28-inversion-convergence-cluster]]
+
 ## 2026-07-28 10:20 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/first-order-representationalism]] (primary), [[concepts/phenomenal-concepts-strategy]], [[concepts/inverted-qualia]] (cross-link only)
