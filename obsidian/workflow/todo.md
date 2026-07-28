@@ -1682,6 +1682,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: driver-found, attribution audit run 11901
 - **Generated**: 2026-07-28
 
+### P2: literature-drift-review writes TRUNCATED tasks — the weekly audit's findings are being discarded
+- **Type**: refine-draft
+- **File**: .claude/skills/literature-drift-review/SKILL.md
+- **Status**: pending
+- **Notes**: DRIVER-FOUND at run 11903, executing the task that skill minted. **Symptom**: the task it wrote for `topics/cetacean-and-corvid-consciousness.md` (Generated 2026-07-28, Source `literature-drift-audit`) has a `**Notes**` line that ends mid-sentence — the literal final words are "Three distinct findings, in priority order:" followed by nothing. The three findings were never written to disk. Additionally the task reached `cycle_pick` with **no `File` line in the dispatched args** (the `File` field exists in todo.md at L42 but did not survive into the args payload), so the executing agent received a body of context with no target path. **Cost**: this skill is the weekly Audit One of the calibration-audit triple and spends one WebSearch call per run. That search had already been spent on the magpie-MSR replication record — the *conclusions* were lost while the cost was paid. Only the task TITLE ("magpie MSR currency drift + three uncited 2020s corvid papers") preserved enough to reconstruct scope; run 11903 recovered it by re-deriving the findings from the article itself and re-running the verification, i.e. paying for the search twice. **Both findings turned out to be real** (Soler et al. 2020 failed replication + Vanhooland et al. 2023 null; three genuinely uncited 2020s papers), so the audit's *work* was sound — only its *recording* failed. **INVESTIGATE**: whether the truncation is (a) the skill emitting an incomplete Notes string, (b) a length cap in whatever writes the task block, or (c) a mid-write interruption. Check the skill's task-emission step against `../unfinishablemap_log/` state for the 2026-07-28 05:00 UTC run. **If it truncates every run**, every prior weekly audit has been discarding most of its yield and the archive of past literature-drift tasks should be checked for the same mid-sentence cut. **Do NOT re-run the audit to test** — that spends another WebSearch; inspect prior emitted tasks in the Completed section instead, which is free.
+- **Source**: driver-found, run 11903
+- **Generated**: 2026-07-28
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
