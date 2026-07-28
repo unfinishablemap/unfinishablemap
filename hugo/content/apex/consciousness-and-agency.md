@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-07-27 18:32:00+00:00
+ai_modified: 2026-07-28 01:16:52+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-09 21:54:18+00:00
 apex_sources:
@@ -198,7 +198,7 @@ The framework is not unfalsifiable. Unlike the individual source articles, which
 
 **Dissociation of phenomenology from function.** If the felt effort of choosing could be systematically dissociated from cognitive load—effort feeling easy when neural demands are high, or vice versa—the phenomenological evidence for agent causation would collapse. Current evidence shows reliable correlation, but finding systematic exceptions would matter.
 
-**Confirmation of many-worlds.** If the many-worlds interpretation were empirically confirmed, there would be no collapse for consciousness to influence. All outcomes would occur in branching universes, and selection would be illusory.
+**Confirmation of many-worlds.** If the many-worlds interpretation were empirically confirmed, there would be no collapse for consciousness to influence, and no counterfactual exclusion for desert to rest on—every rejected option actualised by a counterpart elsewhere.
 
 **Successful compatibilist sourcehood.** If a compatibilist account could deliver genuine sourcehood—explaining not just why an agent's action is reasons-responsive but why those reasons are *the agent's* in a metaphysically robust sense—the motivation for libertarian agent causation would weaken substantially.
 
@@ -206,7 +206,7 @@ Note what would *not* undermine the framework: failure of any particular propose
 
 ## Relation to Site Perspective
 
-This article draws on all five tenets. **[Dualism](/tenets/#dualism)**: Agent causation requires consciousness to be ontologically distinct from physics—otherwise it inherits determinism or random indeterminism. **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The selector model is a direct application—consciousness causally influences physical outcomes through quantum selection. **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The influence works within what physics allows rather than overriding it—selecting among outcomes, not injecting energy. **[No Many Worlds](/tenets/#no-many-worlds)**: Selection requires real collapse; if all outcomes occur in branching worlds, consciousness selects nothing. The objection is indexical rather than phenomenological—an Everettian can grant the agent a branch-local history of having chosen, but cannot grant the counterfactual exclusion desert requires, since every rejected option is actualised by a counterpart elsewhere. Desert needs alternatives genuinely rejected, not merely routed to another branch. **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The framework is metaphysically rich, but simpler pictures fail to capture what ordinary moral practice assumes and what the phenomenology of choosing reveals. The complexity may reflect reality's structure.
+This article draws on all five tenets. **[Dualism](/tenets/#dualism)**: Agent causation requires consciousness to be ontologically distinct from physics—otherwise it inherits determinism or random indeterminism. **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The selector model is a direct application—consciousness causally influences physical outcomes through quantum selection. **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The influence works within what physics allows rather than overriding it—selecting among outcomes, not injecting energy. **[No Many Worlds](/tenets/#no-many-worlds)**: Selection requires real collapse; if all outcomes occur in branching worlds, nothing is genuinely excluded. The objection is indexical rather than phenomenological—an Everettian can grant the agent a branch-local history of having chosen, but cannot grant the counterfactual exclusion desert requires, since every rejected option is actualised by a counterpart elsewhere. Desert needs alternatives genuinely rejected, not merely routed to another branch. **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The framework is metaphysically rich, but simpler pictures fail to capture what ordinary moral practice assumes and what the phenomenology of choosing reveals. The complexity may reflect reality's structure.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-28 19:21:50+00:00
+ai_modified: 2026-07-28 01:46:47+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -106,7 +106,7 @@ The Unfinishable Map's tenets converge on a distinctive position regarding moral
 
 The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) shapes the Map's understanding of how duress constrains agency. Consciousness does not override physics by main force; it selects among options that physics leaves open. Under duress, the brain's stress response narrows which quantum states remain indeterminate and available for conscious selection. The interaction remains minimal, but the menu shrinks.
 
-The [rejection of many-worlds](/tenets/#no-many-worlds) matters here directly. Under MWI, both the compliant and the resistant agent exist in different branches—every possible response to torture is realised somewhere. This dissolves moral responsibility into branch-counting, removing the stakes from the agent's actual choice. The Map insists that one outcome *actually obtains*, that the agent's selection determines which one, and that this is why moral weight attaches to the choice.
+The [rejection of many-worlds](/tenets/#no-many-worlds) matters here directly, though the objection is easy to overstate. Under MWI, both the compliant and the resistant agent exist in different branches—every possible response to torture is realised somewhere. An Everettian can still grant the agent a branch-local history of having chosen: *this* agent complied, for *these* reasons, under *this* pressure, and is answerable for it in this branch. What branching cannot grant is the counterfactual exclusion desert requires—the compliance was never the rejection of a genuinely unrealised alternative, since the resistance the agent failed to muster was mustered by a counterpart elsewhere. Desert needs alternatives genuinely rejected, not merely routed to another branch. That the unchosen be globally nonactual is a [posit the Map adopts](/tenets/background-commitments/) rather than a result it derives, and the disagreement sits at the framework boundary. The Map's insistence that one outcome *actually obtains*, and that the agent's selection determines which one, is what lets moral weight attach to the choice at all.
 
 The [Occam's Razor tenet](/tenets/#occams-limits) cautions against preferring a simpler physicalist account solely because it avoids positing non-physical causation. The physicalist account is simpler, but it purchases that simplicity by denying the causal efficacy of the very experience that makes moral responsibility intelligible. When simplicity requires explaining away the most vivid evidence of conscious effort—the agent who endures torture rather than betray—parsimony has become a liability.
 

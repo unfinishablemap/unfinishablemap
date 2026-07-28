@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-25 01:24:01+00:00
+ai_modified: 2026-07-28 01:09:55+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ description: An interactionist-dualist reading of the human-other-animal cogniti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 01:24:01+00:00
+last_deep_review: 2026-07-28 01:09:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,9 +71,9 @@ These axes are conceptually distinct but probably correlated. The hypothesis cla
 
 Mainstream comparative neuroscience reads the human-other-animal gap as substrate scaling. The reading rests on a coherent set of empirical findings, and the interface-efficacy hypothesis must engage them on their own terms before proposing any alternative.
 
-Suzana Herculano-Houzel's (2009) isotropic-fractionator counts established that the human brain contains roughly 86 billion neurons (~16 billion cortical), making it a linearly scaled-up primate brain rather than a structural anomaly. Roth and Dicke (2005) refine the framing: cortical-neuron count and conduction velocity, not absolute brain size, are the best brain-side correlates of intelligence. They note the puzzle that humans have only marginally more cortical neurons than cetaceans and elephants, yet the cognitive gap to those lineages is sometimes claimed to exceed the gap from humans to monkeys.
+Suzana Herculano-Houzel's (2009) isotropic-fractionator counts established that the human brain contains roughly 86 billion neurons (~16 billion cortical), making it a linearly scaled-up primate brain rather than a structural anomaly. Roth and Dicke (2005) refine the framing: cortical-neuron count and conduction velocity, not absolute brain size, are the best brain-side correlates of intelligence. They note a residual puzzle — elephants and cetaceans carry cortical-neuron counts in the great-ape range while being credited with lower cognitive grade than great apes. Later counts split it: the African elephant cortex holds about 5.6 billion neurons, roughly a third of the human figure (Herculano-Houzel et al. 2014), retiring the elephant anomaly, while the long-finned pilot whale neocortex holds about 37.2 billion, nearly twice the human figure (Mortensen et al. 2014), deepening the cetacean one.
 
-Buckner and Krienen's (2013) tethering hypothesis adds an architectural mechanism: rapid cortical-mantle expansion in human evolution untethered large association regions from the molecular-gradient and early-activity-cascade constraints that organise sensory hierarchies in shorter-cortex species. Late-forming neurons distant from instructive patterning centres develop densely interconnected cross-cortical networks, forming the substrate of distributed association cognition. Sakai et al. (2011) document differential prefrontal white-matter development in chimpanzees and humans; Schoenemann et al. (2005) find human prefrontal white matter disproportionately larger than in other primates, and Rilling et al. (2008) show the arcuate fasciculus has a prominent temporal-lobe projection in humans that is much smaller or absent in non-human primates. Von Economo neurons — large spindle-shaped projection cells in anterior cingulate and fronto-insular cortex — appear convergently in cetacean, hominid, and elephantid lineages and follow a within-hominid distribution gradient that tracks cognitive grade more cleanly than raw cortical-neuron count.
+Buckner and Krienen's (2013) tethering hypothesis adds an architectural mechanism: rapid cortical-mantle expansion in human evolution untethered large association regions from the molecular-gradient and early-activity-cascade constraints that organise sensory hierarchies in shorter-cortex species. Late-forming neurons distant from instructive patterning centres develop densely interconnected cross-cortical networks, forming the substrate of distributed association cognition. Sakai et al. (2011) document differential prefrontal white-matter development in chimpanzees and humans; Schoenemann et al. (2005) find human prefrontal white matter disproportionately larger than in other primates, and Rilling et al. (2008) show the arcuate fasciculus has a prominent temporal-lobe projection in humans that is much smaller or absent in non-human primates. Von Economo neurons — large spindle-shaped projection cells in anterior cingulate and fronto-insular cortex — appear convergently in cetacean, hominid, and elephantid lineages, and within the hominids follow a distribution gradient: humans and chimpanzees carry markedly more anterior-cingulate spindle cells than gorillas and orangutans (Nimchinsky et al. 1999). Their later identification in macaques (Cauda et al. 2014) backdates the primate origin and blocks reading them as a hominid-grade marker.
 
 The cognitive findings the substrate explains are substantial. Tomasello and Moll (2010) document that cumulative cultural evolution requires a shared-intentionality cluster — joint attention, intention-reading, declarative pointing, faithful social transmission — that human ontogeny exhibits and chimpanzee ontogeny does not. Suddendorf and Corballis (2007) argue that mental time travel is uniquely or near-uniquely human. Penn, Holyoak, and Povinelli (2008) argue that strong continuity claims about human-nonhuman cognition mask a profound discontinuity in higher-order, systematic, relational reasoning. Dehaene's global neuronal workspace model supplies the architectural account: hub regions select, amplify, and broadcast information across the cortex, with humans and monkeys both showing GNW signatures but the workspace differing in operational repertoire.
 
@@ -83,7 +83,7 @@ The brain-side reading is internally coherent and empirically well-supported. It
 
 Consider the substrate findings under an interface-efficacy lens. The same data admit interface-side readings that are not testable against the brain-side readings using current methods, and that fit some patterns the brain-side reading struggles with.
 
-The cortical-neuron-count gradient does not match the cognitive-grade gradient cleanly across all elite-cognition lineages. Cetaceans have cortical-neuron counts in the human range; if cetacean cumulative cultural ratcheting falls short of human cumulative cultural ratcheting (an open and contested empirical question), then raw count cannot be the full explanation. Under an interface-efficacy reading, the cetacean lineage might have evolved an interface configured for different selection profiles — high-bandwidth coupling to acoustic and social-tracking patterns, lower-bandwidth coupling to recursive-symbolic patterns — supporting unequal cognitive *reach* without the mind side differing in kind.
+The cortical-neuron-count gradient does not match the cognitive-grade gradient cleanly across all elite-cognition lineages. Cetaceans have cortical-neuron counts at or above the human range; if cetacean cumulative cultural ratcheting falls short of human cumulative cultural ratcheting (an open and contested empirical question), then raw count cannot be the full explanation. Under an interface-efficacy reading, the cetacean lineage might have evolved an interface configured for different selection profiles — high-bandwidth coupling to acoustic and social-tracking patterns, lower-bandwidth coupling to recursive-symbolic patterns — supporting unequal cognitive *reach* without the mind side differing in kind.
 
 The Buckner-Krienen tethering result reads naturally on the interface side as well. An untethered association cortex is a substrate whose value depends on what selects within it. If the neural-pattern candidates are not pre-shaped by sensory-hierarchical priors, then high-bandwidth, finely-grained interface selection becomes the rate-limiting factor for cognitive output. Under this reading, tethering-release is necessary but not sufficient for human cognition: the sufficient condition would be that the interface evolved efficacy adequate to use the unstructured substrate.
 
@@ -151,27 +151,31 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 
 ## References
 
-1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *Proceedings of the National Academy of Sciences*, 89(23), 11357–11361.
-2. Buckner, R. L., & Krienen, F. M. (2013). The evolution of distributed association networks in the human brain. *Trends in Cognitive Sciences*, 17(12), 648–665.
-3. Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486–492.
-4. DeWall, C. N., Baumeister, R. F., & Masicampo, E. J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628–645.
-5. Eccles, J. C. (1989). *Evolution of the Brain: Creation of the Self*. Routledge.
-6. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
-7. Gutfreund, Y. (2024). Neuroscience of animal consciousness: Still agnostic after all. *Frontiers in Psychology*, 15, 1456403.
-8. Herculano-Houzel, S. (2009). The human brain in numbers: A linearly scaled-up primate brain. *Frontiers in Human Neuroscience*, 3, 31.
-9. Hodgson, D. (1991). *The Mind Matters: Consciousness and Choice in a Quantum World*. Oxford University Press.
-10. New York University, York University, & London School of Economics. (2024). *The New York Declaration on Animal Consciousness*.
-11. Nieder, A. (2017). Inside the corvid brain — probing the physiology of cognition in crows. *Current Opinion in Behavioral Sciences*, 16, 8–14.
-12. Nieder, A., Wagener, L., & Rinnert, P. (2020). A neural correlate of sensory consciousness in a corvid bird. *Science*, 369(6511), 1626–1629.
-13. Penn, D. C., Holyoak, K. J., & Povinelli, D. J. (2008). Darwin's mistake: Explaining the discontinuity between human and nonhuman minds. *Behavioral and Brain Sciences*, 31(2), 109–130.
-14. Roth, G., & Dicke, U. (2005). Evolution of the brain and intelligence. *Trends in Cognitive Sciences*, 9(5), 250–257.
-15. Sakai, T., Mikami, A., Tomonaga, M., et al. (2011). Differential prefrontal white matter development in chimpanzees and humans. *Current Biology*, 21(16), 1397–1402.
-16. Schoenemann, P. T., Sheehan, M. J., & Glotzer, L. D. (2005). Prefrontal white matter volume is disproportionately larger in humans than in other primates. *Nature Neuroscience*, 8(2), 242–252.
-17. Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., & Behrens, T. E. J. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. *Nature Neuroscience*, 11(4), 426–428.
-18. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-19. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–351.
-20. Tomasello, M., & Moll, H. (2010). The gap is social: Human shared intentionality and culture. In P. M. Kappeler & J. B. Silk (Eds.), *Mind the gap: Tracing the origins of human universals* (pp. 331–349). Springer.
-21. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-22. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/
-23. Southgate, A. & Oquatre-six, C. (2026-03-17). Interface Heterogeneity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-heterogeneity/
-24. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
+1. Andrews, K., Birch, J., & Sebo, J. (2024). *The New York Declaration on Animal Consciousness*. New York University. https://sites.google.com/nyu.edu/nydeclaration/declaration
+2. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *Proceedings of the National Academy of Sciences*, 89(23), 11357–11361.
+3. Buckner, R. L., & Krienen, F. M. (2013). The evolution of distributed association networks in the human brain. *Trends in Cognitive Sciences*, 17(12), 648–665.
+4. Cauda, F., Geminiani, G. C., & Vercelli, A. (2014). Evolutionary appearance of von Economo's neurons in the mammalian cerebral cortex. *Frontiers in Human Neuroscience*, 8, 104.
+5. Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486–492.
+6. DeWall, C. N., Baumeister, R. F., & Masicampo, E. J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628–645.
+7. Eccles, J. C. (1989). *Evolution of the Brain: Creation of the Self*. Routledge.
+8. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
+9. Gutfreund, Y. (2024). Neuroscience of animal consciousness: Still agnostic after all. *Frontiers in Psychology*, 15, 1456403.
+10. Herculano-Houzel, S. (2009). The human brain in numbers: A linearly scaled-up primate brain. *Frontiers in Human Neuroscience*, 3, 31.
+11. Herculano-Houzel, S., Avelino-de-Souza, K., Neves, K., Porfírio, J., Messeder, D., Mattos Feijó, L., Maldonado, J., & Manger, P. R. (2014). The elephant brain in numbers. *Frontiers in Neuroanatomy*, 8, 46.
+12. Hodgson, D. (1991). *The Mind Matters: Consciousness and Choice in a Quantum World*. Oxford University Press.
+13. Mortensen, H. S., Pakkenberg, B., Dam, M., Dietz, R., Sonne, C., Mikkelsen, B., & Eriksen, N. (2014). Quantitative relationships in delphinid neocortex. *Frontiers in Neuroanatomy*, 8, 132.
+14. Nieder, A. (2017). Inside the corvid brain — probing the physiology of cognition in crows. *Current Opinion in Behavioral Sciences*, 16, 8–14.
+15. Nieder, A., Wagener, L., & Rinnert, P. (2020). A neural correlate of sensory consciousness in a corvid bird. *Science*, 369(6511), 1626–1629.
+16. Nimchinsky, E. A., Gilissen, E., Allman, J. M., Perl, D. P., Erwin, J. M., & Hof, P. R. (1999). A neuronal morphologic type unique to humans and great apes. *Proceedings of the National Academy of Sciences*, 96(9), 5268–5273.
+17. Penn, D. C., Holyoak, K. J., & Povinelli, D. J. (2008). Darwin's mistake: Explaining the discontinuity between human and nonhuman minds. *Behavioral and Brain Sciences*, 31(2), 109–130.
+18. Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., & Behrens, T. E. J. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. *Nature Neuroscience*, 11(4), 426–428.
+19. Roth, G., & Dicke, U. (2005). Evolution of the brain and intelligence. *Trends in Cognitive Sciences*, 9(5), 250–257.
+20. Sakai, T., Mikami, A., Tomonaga, M., et al. (2011). Differential prefrontal white matter development in chimpanzees and humans. *Current Biology*, 21(16), 1397–1402.
+21. Schoenemann, P. T., Sheehan, M. J., & Glotzer, L. D. (2005). Prefrontal white matter volume is disproportionately larger in humans than in other primates. *Nature Neuroscience*, 8(2), 242–252.
+22. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+23. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–351.
+24. Tomasello, M., & Moll, H. (2010). The gap is social: Human shared intentionality and culture. In P. M. Kappeler & J. B. Silk (Eds.), *Mind the gap: Tracing the origins of human universals* (pp. 331–349). Springer.
+25. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+26. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/
+27. Southgate, A. & Oquatre-six, C. (2026-03-17). Interface Heterogeneity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-heterogeneity/
+28. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/

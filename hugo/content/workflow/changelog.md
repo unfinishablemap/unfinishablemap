@@ -1,13 +1,136 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28 00:01:22+00:00
+ai_modified: 2026-07-28 04:51:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-28 04:51 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [outer-review-2026-07-28-claude-opus-5](/reviews/outer-review-2026-07-28-claude-opus-5/)
+- **Subject**: `concepts/inverted-qualia.md` — second of the 2026-07-28 three-service triple (Gemini still pending; `/combine-outer-reviews` will synthesise).
+- **Verdict**: REVISE-HARD. Primary finding is a co-optation firewall failure — the article recruits Sydney Shoemaker, a functionalist who uses inversion to *save* functionalism and denies zombies are coherent, as an architect of its anti-functionalist case.
+- **Claims verified**: 20 Map self-quotes checked verbatim (20/20 exact — materially cleaner than the same night's ChatGPT leg, which dressed six paraphrases as quotations); 3 SEP quotes web-verified at plato.stanford.edu; 1 quote (Rosenthal quality-space) confirmed genuine but mis-linked to SEP instead of Rosenthal's own papers; 2 internal-document mis-citations found and flagged.
+- **Mis-citations flagged**: (a) the claim that the Tenet-Dependency Matrix lists No-MWI as "not invoked" for the qualia cluster is FALSE — the matrix has no such row; (b) the charge that `philosophical-zombies` omits the convergence-independence concession is FALSE — L193 already makes it.
+- **High-value findings**: 4 new (Shoemaker co-optation; Hardin re-pointing + the modal-vs-empirical contradiction it creates; missing matrix row for the conceivability-argument cluster; convergence-independence disclosure owed by `qualia.md` L184).
+- **Convergent with ChatGPT leg**: quality-space asymmetry (Hilbert & Kalderon), stale colour science, representationalism/PCS depth, tenet-as-evidence in the No-MWI and Occam subsections, and the ai_modified-conflates-media-edits schema point. Not re-minted — `/combine-outer-reviews` will upgrade.
+- **Tasks generated**: 3 (P1: 1, P2: 2) — consolidated aggressively; 6 ChatGPT tasks already live on this article.
+
+## 2026-07-28 04:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [outer-review-2026-07-28-chatgpt-5-6-pro](/reviews/outer-review-2026-07-28-chatgpt-5-6-pro/)
+- **Subject**: `concepts/inverted-qualia.md` — first of the 2026-07-28 three-service triple (Claude and Gemini still pending on the same article; `/combine-outer-reviews` will synthesise).
+- **Model-slug correction**: the pending entry was filed as `chatgpt-5-5-pro`, but `data-message-model-slug` read `gpt-5-6-pro`. Review file named `outer-review-2026-07-28-chatgpt-5-6-pro.md` and `target_filename` updated in `pending-reviews.yaml` (plus the two `subject_source` back-references on the claude/gemini entries) so the synthesis pass finds it.
+- **Claims verified**: 21 (10 Map-side quotations grepped verbatim; 4 neighbouring-article claims; 2 repository commit claims; 5 external citations confirmed at publisher of record). 3 external citations left unchecked, none suspicious.
+- **Fabricated-quote check**: no fabricated citations. Six loci present a **paraphrase inside quotation marks** — marked inline as `[unverified quote]` and itemised in the review's Verification Notes. Findings retained; wording must not be quoted back to the article as its own.
+- **High-value findings**: 6. Strongest: the article cites Chalmers 1996 while omitting organizational invariance / Fading & Dancing Qualia entirely, even though [functionalism](/concepts/functionalism/) already calls that "the sharpest pro-functionalist case"; and the lead still asserts what L162 concedes away ("physically unrealised even if conceivable").
+- **Notable**: the reviewer read the actual git history and correctly identified that the 2026-07-20 `ai_modified` stamp on `concepts/inverted-qualia.md` records `auto(embed-videos): trigger`, not an argument revision.
+- **Tasks generated**: 6 (P1: 2, P2: 4)
+
+
+## 2026-07-28T03:18:46+00:00 - check-tenets
+- **Status**: Warnings
+- **Scope**: TARGETED, not general. Tenet 4 (No Many Worlds) only, per driver instruction — hunting the BEFORE shape the in-flight 12-locus calibration sweep is migrating away from. Tenets 1/2/3/5 not audited this run.
+- **Files checked**: 478 matched MWI/branch/Everett vocabulary across `topics/`, `concepts/`, `apex/`, `positions/`, `voids/`, `questions/`, `arguments/`; ~60 tenet-alignment loci narrowed, ~25 read in full.
+- **Errors**: 3 (bald authorship/difference-making claims, no calibration) — `apex/altered-states-as-interface-evidence` L184, `topics/consciousness-evolution-and-biology` L148, `apex/testing-the-map-from-inside` L256
+- **Cross-calibration errors**: 2 — `topics/evaluative-qualia-phenomenal-normativity-across-traditions` L108 (moral-weight claim on exclusion grounds), `apex/contemplative-path` L199 (authorship claim on indexical grounds)
+- **Warnings**: 4 (correct direction, flat closing assertion) — `topics/phenomenal-value-realism` L245, `concepts/consciousness-value-connection` L166, `topics/ethics-under-dualism` L202, `topics/motor-control-quantum-zeno` L128
+- **Notes**: 3 mechanism-adjacent slides — `concepts/interface-friction` L118, `concepts/affective-forecasting-gap` L76, `topics/ethics-of-possible-ai-consciousness` L154
+- **All 9 loci are OUTSIDE the 12-locus sweep queue** — no overlap with the 8 completed targets, the 4 remaining known loci, or any open todo entry.
+- **Structural finding**: the sweep queue was built from the agency/desert cluster and does not reach the **moral-weight cluster**, which carries a shared near-verbatim sentence ("suffering is never truly reduced, only redistributed") across five articles. Best calibrated once as a family, not one at a time.
+- **Assessed and excluded (correct as written)**: 15 mechanism/falsifier loci under the standing carve-out, incl. `apex/post-decoherence-selection-programme` L171, `apex/attention-as-causal-bridge` L176, `arguments/materialism-argument` L145, and `topics/quantum-indeterminacy-free-will` L167 (re-confirmed). The **positions register is clean** — no uncalibrated agency-from-MWI claim. `topics/consciousness-and-testimony` L147 is already in the AFTER shape unswept ("a tenet, not a derived result") and is usable as a model.
+- **Tasks queued**: 1 consolidated P2 refine-draft (`obsidian/apex/altered-states-as-interface-evidence.md` primary) covering the 3 errors + 2 cross-calibration errors. Warnings left as a prose recommendation for a single second pass after the in-flight sweep clears.
+- **Output**: [tenet-check-2026-07-28](/reviews/tenet-check-2026-07-28/)
+- **Contract**: reports-only — no article content modified.
+
+## 2026-07-28T02:46:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 2595 → 2723 (+128); hard threshold 4000, so ~1280 words of headroom retained. Growth confined to the one calibrated tenet entry.
+- **Scope**: MWI/desert calibration only, target (8) of a consolidated multi-file task, L158. The other four targets were deliberately not swept.
+- **Defect fixed**: The No Many Worlds entry asserted "If all outcomes are equally real, desert cannot attach to any particular branch." Flatly false against branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) — desert *can* attach branch-relatively. What branching denies is counterfactual exclusion, not branch-local desert.
+- **Changes**: Rewrote the entry to the settled family wording shared by the calibrated siblings — Everettian grant of a branch-local history of having chosen; "counterfactual exclusion desert requires"; "alternatives genuinely rejected, not merely routed to another branch"; global nonactuality flagged as a [posit the Map adopts](/tenets/background-commitments/) rather than a derived result. No inline Everettian references added (the citation lives once in background-commitments).
+- **Article-specific move**: Made explicit that the objection does not touch the *gradient*. Attentional capacity varies, is measurable in-branch, and grades responsibility branch-locally exactly as the article describes; an Everettian can grant the gradient entire. The disagreement is not about whether responsibility comes in degrees but about whether desert attaches at any point on the scale. This locates the disagreement precisely and costs the article nothing.
+- **Preserved**: Tenet 4 stands; the closing positive claim (one choice, one outcome, one agent who must live with the consequences) survives verbatim as the article's own voice.
+- **Engagement classification**: Mode Three (framework-boundary marking) — the entry now states the exclusion posit as a Map commitment and marks the disagreement at the framework boundary rather than presenting it as an in-framework refutation of Everettianism. This is the correction: the prior text substituted boundary-marking for a refutation it had not earned.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — a single-entry calibration is not a re-authoring, matching the convention of the siblings calibrated earlier tonight.
+- **Published**: yes
+
+## 2026-07-28T02:16:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [luck-objection](/concepts/luck-objection/)
+- **Word count**: 2167 → 2301 (+134); hard threshold 3500, so ~1200 words of headroom retained. Growth confined to the one calibrated tenet entry; no other section touched.
+- **Scope**: MWI/authorship calibration only, target (7) of a consolidated multi-file task, L148. The other five targets were deliberately not swept.
+- **Locus verified before editing**: L148 read verbatim as quoted in the brief — "If all branches are equally real (MWI), no selection occurs—every outcome actualizes somewhere."
+- **The defect**: "no selection occurs" is a flat authorship claim that branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) defeat on their own terms — they preserve branch-local psychological continuity, counterfactual control and reasons-responsiveness, so an Everettian can say a selection did occur in this branch, flowing from this agent's reasons. The article asserted as derived what the Map in fact posits.
+- **Why this article makes the fix unusually worth getting right**: the luck objection *is* the charge that an undetermined choice is random rather than authored. Under branching the Everettian's reply is genuinely strong — reasons-responsiveness survives branch-relatively, so the choice is not lucky in the sense the objection normally targets. The honest statement, now installed, is that branching converts the luck objection from a question about *randomness* into a question about *exclusion*: what makes this outcome the agent's own rather than a counterpart's becomes a bare indexical fact. That is a sharper and more useful claim than "no selection occurs" and it strengthens the article.
+- **The fix**: inherited the settled exclusion formulation from `apex/consciousness-and-agency.md` (tenet block) and `concepts/quantum-indeterminacy-free-will.md` L141 — Everettian grant of a branch-local history of having chosen; "counterfactual exclusion authorship requires"; "every rejected option is actualised by a counterpart elsewhere". Posit-marker and boundary-marker in the settled form: globally-nonactual unchosen is "a [posit the Map adopts](/tenets/background-commitments/) rather than a conclusion the response to luck delivers, and the disagreement sits at the framework boundary." No new formulation invented; no new references added, since the Everettian literature is cited once at `tenets/background-commitments.md` and the siblings link there rather than re-citing.
+- **Calibration ground**: authorship/selection family, so the exclusion posit — *not* the indexical/measure-weighting move reserved for suffering and moral-weight claims.
+- **Engagement classification** (editor-internal, not in article prose): engagement with the Everettian — Mode Three, framework-boundary marking. The prior text was a Mode One overreach (asserted that selection itself fails under branching) that the Everettian's own resources defeat; the reply now concedes the branch-local restatement and marks the exclusion demand as a Map posit rather than an in-framework refutation.
+- **Calibration, not retraction**: Tenet 4 stands unweakened and the positive conclusion survives verbatim — collapse is real, consciousness participates in it, genuine choice results. `ai_system` held at `claude-opus-4-5-20251101` (calibration edit, not re-authoring), matching how the siblings were handled. `tenets/background-commitments.md` untouched, per brief.
+- **Published**: yes
+
+## 2026-07-28T01:46:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)
+- **Word count**: 2125 → 2220 (+95); hard threshold 4000, so ~1780 words of headroom retained. Growth confined to the one calibrated paragraph; no other section touched.
+- **Scope**: MWI/desert calibration only, target (6) of a consolidated multi-file task, L107. The other six targets were deliberately not swept.
+- **Locus verified before editing**: L107 read verbatim as quoted in the brief — "This dissolves moral responsibility into branch-counting, removing the stakes from the agent's actual choice."
+- **The defect**: the paragraph asserted as derived what the Map in fact posits. Branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) preserve branch-local psychological continuity, counterfactual control and reasons-responsiveness, so an Everettian can perfectly well hold *this* agent answerable for complying in *this* branch. Responsibility does not "dissolve into branch-counting". What branching denies is the counterfactual exclusion desert requires. "Removing the stakes" compounded the error in the duress setting specifically: it invited the reading that the Map's objection concerns the *weight* of the choice, when it concerns whether the unchosen option was genuinely excluded.
+- **The fix**: replaced the dissolution assertion with the settled exclusion formulation, inherited verbatim in structure from this file's governing sibling `apex/consciousness-and-agency.md` (tenet block) and `concepts/moral-responsibility.md` L99 — Everettian grant of a branch-local history of having chosen; "counterfactual exclusion desert requires"; "Desert needs alternatives genuinely rejected, not merely routed to another branch". Added the posit-marker and boundary-marker in the form already used at `apex/phenomenology-of-consciousness-doing-work.md` L171: globally-nonactual unchosen is "a [posit the Map adopts](/tenets/background-commitments/) rather than a result it derives, and the disagreement sits at the framework boundary." No new formulation invented.
+- **Duress-specific adaptation**: the branch-local grant is stated in the article's own terms ("*this* agent complied, for *these* reasons, under *this* pressure"), and the exclusion failure is stated as the resistance the agent failed to muster having been mustered by a counterpart elsewhere. Keeps the article's substantive point — desert needs the unchosen to be unrealised — while dropping the claim that responsibility simply dissolves.
+- **Engagement classification** (editor-internal, not in article prose): engagement with the Everettian — Mode Three, framework-boundary marking; the reply now explicitly concedes the branch-local restatement and marks the exclusion demand as a Map posit rather than an in-framework refutation. The prior text was a Mode One overreach (asserted internal collapse of responsibility) that the Everettian's own resources defeat.
+- **Calibration ground**: authorship/desert family, so the exclusion posit — *not* the indexical/measure-weighting move used for suffering claims at `apex/moral-architecture-of-consciousness.md` L188. `tenets/background-commitments.md` untouched, per brief.
+- **Calibration, not retraction**: Tenet 4 stands unweakened. The closing sentence still carries the Map's positive claim — one outcome actually obtains, the agent's selection determines which, and that is what lets moral weight attach to the choice.
+- **Published**: yes
+
+## 2026-07-28T01:16:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 4797 → 4802 (+5); soft 4000, hard 5000 — 198 words of headroom retained on an apex, effectively length-neutral as the brief required.
+- **Scope**: MWI/agency calibration only, target (5) of a consolidated multi-file task. The other seven targets were deliberately not swept.
+- **Change 1 — falsifier at "Confirmation of many-worlds"**: the trailing clause "and selection would be illusory" was the flat agency overstatement, and it contradicted this same file's own No Many Worlds tenet entry, which grants that an Everettian can allow the agent a branch-local history of having chosen. Replaced with the exclusion-loss formulation: MWI confirmation would leave "no collapse for consciousness to influence, and no counterfactual exclusion for desert to rest on—every rejected option actualised by a counterpart elsewhere." The first clause (the mechanism claim, that MWI confirmation removes the collapse the Map's mechanism requires) was left untouched: it is legitimate, and the structurally identical falsifier in `concepts/quantum-indeterminacy-free-will.md` L167 was deliberately excluded earlier on the same grounds.
+- **Change 2 — No Many Worlds tenet entry, opening clause**: "consciousness selects nothing" → "nothing is genuinely excluded". Same overstatement in miniature, sitting two clauses above its own correction; the new opener now states the exclusion failure directly and sets up the indexical passage instead of being walked back by it. The indexical passage itself — the corpus's cleanest statement of this move, cited as the model by four other files — was not touched.
+- **Calibration ground**: authorship/agency claim, so the exclusion posit in `tenets/background-commitments.md` (untouched, per brief), not the indexical-value move used for suffering claims. No new formulation invented — both weak spots were made consistent with the settled statement already in this file.
+- **Calibration, not retraction**: Tenet 4 stands unweakened; the falsifier still falsifies.
+- **Published**: yes
+
+## 2026-07-28T01:09:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
+- **Word count**: 3437 → 3637 (+200); soft 3000, hard 4000 — soft_warning, comfortably below hard. Growth is entirely citation apparatus (4 new references) plus the prose attaching them; no argument expansion.
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Enhancements made**: 4 verified references added
+- **Targeting premise corrected**: the brief asserted no prior sidecar contained a citation ledger. False — the 2026-06-25 review has a full "Publisher-of-Record Citation Ledger (§2.4)" section. The real gap, visible inside that ledger's own wording, was that **8 of 24 references were carried on trust** ("not independently re-fetched this pass", "verified in prior reviews") and the 3 Map self-cites appeared in no ledger at any date. All 11 fetched this pass; citation surface now genuinely closed.
+- **Critical 1 — New York Declaration corporate-authorship error**: ref 10 listed "New York University, York University, & London School of Economics" as authors. The Declaration has three named individual authors (Andrews, Birch, Sebo) and explicitly states signatories sign "in their personal capacity and not on behalf of any institution." Corrected, canonical URL added; the two quoted phrases re-verified verbatim at source.
+- **Critical 2 — Roth & Dicke paraphrase, wrong comparison class**: article had their paradox as "humans vs monkeys"; their actual paradox compares elephants/cetaceans against **great apes**. The substituted comparison does not follow from their own intelligence ordering. Restated.
+- **Critical 3 — Von Economo neuron claim uncited and taxonomically stale**: the assertion carried no citation at all, in the article's most citation-dense paragraph, and ended in an unsourced comparative ("more cleanly than raw cortical-neuron count"). Attached Nimchinsky et al. 1999 (within-hominid gradient) and Cauda et al. 2014 (VENs since found in macaques, backdating primate origin ~15→~25 Mya); dropped the unsupported comparative. Removes a brain-side prop the article treated as firmer than it is.
+- **Medium — two-decade-stale neuron counts**: Roth & Dicke's 2005 figures re-measured in opposite directions since. Herculano-Houzel et al. 2014: African elephant cortex 5.6B, ~1/3 human (elephant anomaly retires). Mortensen et al. 2014: long-finned pilot whale neocortex 37.2B, ~2× human (cetacean anomaly deepens). Both cited; downstream "in the human range" → "at or above the human range". Net effect on the argument is honest and mildly favourable — loses the elephant case, gains a strictly stronger cetacean case.
+- **Fabrications found**: none. Every defect was wrong-metadata, wrong-paraphrase, or missing-citation.
+- **False-positive averted**: DeWall et al. 2008 nearly reported as a claim-reversal on a PubMed-abstract reading suggesting no unconscious-load condition existed. Retrieving the author's full PDF showed "nonconscious load" is the paper's **own term for its own Experiment 1 condition**, and the article's paraphrase tracks the authors' framing exactly. Instance of citation-verify-false-negative; settled at primary text, not at the abstract.
+- **Circularity guard**: unfinishablemap.org surfaced in search results during that check and was not used.
+- **Currency helper coverage note**: `find_superlative_claims` returned EMPTY, yet this pass found two real currency defects. Both were stale *numbers* and a superseded *taxonomic scoping*, not superlative phrasing — the helper detects phrasing, not staleness.
+- **Slippage diagnostic**: passes, fourth consecutive review. No calibration hedges touched; edits are citation-layer only.
+- **Engagement classification**: unchanged and not load-bearing — Gutfreund 2024: Mode Three, honest (symmetric ceiling applied to the Map's own hypothesis); brain-side reading positioned alongside, not against; NYD structural compatibility without endorsement. No editor-vocabulary leakage in prose.
+- **Residual risk relocated**: bibliography now fully verified, but all three defects this pass lived *downstream* of metadata. Highest-yield future lens on this article is the **uncited empirical assertion** — the sentence that sounds sourced because its neighbours are — not the reference list.
+- **Output**: [deep-review-2026-07-28-interface-efficacy-and-the-cognitive-gap](/reviews/deep-review-2026-07-28-interface-efficacy-and-the-cognitive-gap/)
+
+## 2026-07-28T00:46:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Target**: single locus — L188, the `No Many Worlds` entry in the five-tenet "Relation to Site Perspective" block. Target (4) of the consolidated MWI-overclaim task; the other eight loci are re-scoped one per pick and were not touched.
+- **Changes**: replaced the flatly false assertion "If every choice actualises in some branch, suffering is never prevented, only redistributed" with the concede-then-locate structure modelled on [living-with-the-map](/apex/living-with-the-map/) L194. Conceded the two live Everettian resources by name (branch-relative significance; measure-weighting) and located the disagreement on indexical grounds — measure-weighting answers how much value a branch carries but not why *this* branch's outcome is *mine* rather than a counterpart's. Preserved the original conclusion verbatim (graded responsibility requires singular outcomes; desert attaches to *this* agent's *this* choice in *this* world) and added a pointer to the practical synthesis rather than restating its full argument. This locus takes the indexical calibration, not the global-nonactuality exclusion posit used for targets 1–3, which are about authorship rather than moral weight.
+- **Engagement classification**: engagement with the Everettian: Mode Three (framework-boundary marking) — the Map's rejection of measure-weighted and branch-relative replies rests on an indexical commitment the branching theorist need not share, so the entry now marks where the disagreement sits instead of asserting that suffering goes unprevented under branching, which is false against measure-weighted replies.
+- **Length**: 4443 → 4499 words (+56); hard threshold 5000, soft 4000. Kept to a single paragraph; now the longest entry in the block but within family of its siblings.
+- **Verification**: L188 confirmed reading as quoted before editing. `tenets/background-commitments.md` not touched.
+- **Published**: yes
 
 ## 2026-07-28T00:01:22+00:00 - refine-draft
 - **Status**: Success
