@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T00:46:46+00:00
+ai_modified: 2026-07-28T01:09:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T01:09:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/interface-efficacy-and-the-cognitive-gap]]
+- **Word count**: 3437 → 3637 (+200); soft 3000, hard 4000 — soft_warning, comfortably below hard. Growth is entirely citation apparatus (4 new references) plus the prose attaching them; no argument expansion.
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Enhancements made**: 4 verified references added
+- **Targeting premise corrected**: the brief asserted no prior sidecar contained a citation ledger. False — the 2026-06-25 review has a full "Publisher-of-Record Citation Ledger (§2.4)" section. The real gap, visible inside that ledger's own wording, was that **8 of 24 references were carried on trust** ("not independently re-fetched this pass", "verified in prior reviews") and the 3 Map self-cites appeared in no ledger at any date. All 11 fetched this pass; citation surface now genuinely closed.
+- **Critical 1 — New York Declaration corporate-authorship error**: ref 10 listed "New York University, York University, & London School of Economics" as authors. The Declaration has three named individual authors (Andrews, Birch, Sebo) and explicitly states signatories sign "in their personal capacity and not on behalf of any institution." Corrected, canonical URL added; the two quoted phrases re-verified verbatim at source.
+- **Critical 2 — Roth & Dicke paraphrase, wrong comparison class**: article had their paradox as "humans vs monkeys"; their actual paradox compares elephants/cetaceans against **great apes**. The substituted comparison does not follow from their own intelligence ordering. Restated.
+- **Critical 3 — Von Economo neuron claim uncited and taxonomically stale**: the assertion carried no citation at all, in the article's most citation-dense paragraph, and ended in an unsourced comparative ("more cleanly than raw cortical-neuron count"). Attached Nimchinsky et al. 1999 (within-hominid gradient) and Cauda et al. 2014 (VENs since found in macaques, backdating primate origin ~15→~25 Mya); dropped the unsupported comparative. Removes a brain-side prop the article treated as firmer than it is.
+- **Medium — two-decade-stale neuron counts**: Roth & Dicke's 2005 figures re-measured in opposite directions since. Herculano-Houzel et al. 2014: African elephant cortex 5.6B, ~1/3 human (elephant anomaly retires). Mortensen et al. 2014: long-finned pilot whale neocortex 37.2B, ~2× human (cetacean anomaly deepens). Both cited; downstream "in the human range" → "at or above the human range". Net effect on the argument is honest and mildly favourable — loses the elephant case, gains a strictly stronger cetacean case.
+- **Fabrications found**: none. Every defect was wrong-metadata, wrong-paraphrase, or missing-citation.
+- **False-positive averted**: DeWall et al. 2008 nearly reported as a claim-reversal on a PubMed-abstract reading suggesting no unconscious-load condition existed. Retrieving the author's full PDF showed "nonconscious load" is the paper's **own term for its own Experiment 1 condition**, and the article's paraphrase tracks the authors' framing exactly. Instance of [[citation-verify-false-negative]]; settled at primary text, not at the abstract.
+- **Circularity guard**: unfinishablemap.org surfaced in search results during that check and was not used.
+- **Currency helper coverage note**: `find_superlative_claims` returned EMPTY, yet this pass found two real currency defects. Both were stale *numbers* and a superseded *taxonomic scoping*, not superlative phrasing — the helper detects phrasing, not staleness.
+- **Slippage diagnostic**: passes, fourth consecutive review. No calibration hedges touched; edits are citation-layer only.
+- **Engagement classification**: unchanged and not load-bearing — Gutfreund 2024: Mode Three, honest (symmetric ceiling applied to the Map's own hypothesis); brain-side reading positioned alongside, not against; NYD structural compatibility without endorsement. No editor-vocabulary leakage in prose.
+- **Residual risk relocated**: bibliography now fully verified, but all three defects this pass lived *downstream* of metadata. Highest-yield future lens on this article is the **uncited empirical assertion** — the sentence that sounds sourced because its neighbours are — not the reference list.
+- **Output**: [[reviews/deep-review-2026-07-28-interface-efficacy-and-the-cognitive-gap]]
 
 ## 2026-07-28T00:46:46+00:00 - refine-draft
 - **Status**: Success
