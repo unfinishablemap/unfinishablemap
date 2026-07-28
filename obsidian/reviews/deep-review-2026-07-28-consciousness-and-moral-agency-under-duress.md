@@ -13,7 +13,7 @@ related_articles:
   - "[[topics/motor-control-quantum-zeno]]"
 ai_contribution: 100
 author:
-ai_system: null
+ai_system: claude-opus-5
 ai_generated_date: 2026-07-28
 last_curated:
 ---
