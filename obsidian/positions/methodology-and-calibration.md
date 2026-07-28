@@ -4,7 +4,7 @@ description: "The Map's positions on its own method: the tenet-register / eviden
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-07-16T05:14:00+00:00
+ai_modified: 2026-07-28T11:04:29+00:00
 draft: false
 topics: []
 concepts:
@@ -20,7 +20,7 @@ related_articles:
 
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-22
 last_curated: 2026-06-22
 ---
@@ -64,11 +64,12 @@ For normative and meta positions (most of this methodology domain, and the meta-
 
 - **Status**: live
 - **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence high · external-evidence grade B (rests on the established Reichenbach–Salmon–Sober common-cause principle) · structural centrality high · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
-- **Asserts**: The Map commits to treating any convergence across N traditions, substrates, or methodologies as a *single observation read N times* — framework-internal coherence rather than N-fold independent triangulation — *until* the convergence passes a structurally distinguishing test that rules out a shared upstream architecture (one introspective channel, one curating framework, one lineage). This is the common-cause null applied as a standing rule, not only to the void catalogue. The defensible default claim is compatibility-and-cumulative-fit, not discrimination between the Map and its rivals; an article earns the stronger "supports over rival" reading only by naming and passing the distinguishing test (patient-population dissociation, cross-substrate-within-one-organism recurrence, or an independently-graded independence score). Confidence is *high* because the discipline is held *against the Map's own most ambitious arguments*: it is the rule the convergence-for-dualism case and the void-catalogue case must survive, and the Map flags self-application of it as a credibility load-bearer. The position is the methodological parent of which [[positions/voids-as-evidence|P-V1]] is the catalogue-specific instance.
-- **Depends on**: [[project/common-cause-null]] (Reichenbach–Salmon–Sober common-cause principle as applied to convergence); the Convergence-Independence Gate (Countermeasure 15) and Circular Citation Detection (Countermeasure 5) in [[project/coherence-inflation-countermeasures]]; [[project/per-cluster-independence-scoring]] (evidential vs. interpretive independence); P-M1 (a convergence cannot upgrade its own evidential tier by coherence alone); governs [[positions/voids-as-evidence|P-V1–P-V3]]
+- **Asserts**: The Map commits to treating any convergence across N traditions, substrates, or methodologies as a *single observation read N times* — framework-internal coherence rather than N-fold independent triangulation — *until* the convergence passes a structurally distinguishing test that rules out a shared upstream architecture (one introspective channel, one curating framework, one lineage). This is the common-cause null applied as a standing rule, not only to the void catalogue. The defensible default claim is compatibility-and-cumulative-fit, not discrimination between the Map and its rivals; an article earns the stronger "supports over rival" reading only by naming and passing the distinguishing test (patient-population dissociation, cross-substrate-within-one-organism recurrence, or an independently-graded independence score). Confidence is *high* because the discipline is held *against the Map's own most ambitious arguments*: it is the rule the convergence-for-dualism case and the void-catalogue case must survive, and the Map flags self-application of it as a credibility load-bearer. The position is the methodological parent of which [[positions/voids-as-evidence|P-V1]] is the void-catalogue instance and [[positions/arguments-for-dualism|P-D1–P-D3]] the argument-catalogue instance — both of the cases named above are now registered as first-order positions carrying their own discount.
+- **Depends on**: [[project/common-cause-null]] (Reichenbach–Salmon–Sober common-cause principle as applied to convergence); the Convergence-Independence Gate (Countermeasure 15) and Circular Citation Detection (Countermeasure 5) in [[project/coherence-inflation-countermeasures]]; [[project/per-cluster-independence-scoring]] (evidential vs. interpretive independence); P-M1 (a convergence cannot upgrade its own evidential tier by coherence alone); governs [[positions/voids-as-evidence|P-V1–P-V3]] and [[positions/arguments-for-dualism|P-D1–P-D3]]
 - **Argued in**: [[project/common-cause-null]], [[project/coherence-inflation-countermeasures]], [[apex/taxonomy-of-voids]]
 - **Would shift if**: the common-cause null were shown to be a universal solvent with no principled scope condition (which would force the Map to bound it, weakening the default discount); or a distinguishing test were validated that lets a class of convergence claims default to independent support (which would raise the baseline reading for that class); or the independence-scoring instrument were shown not to track real evidential independence.
-- **Last reviewed**: 2026-06-22
+- **Updated 2026-07-28**: added the reciprocal pointer to [[positions/arguments-for-dualism|P-D1–P-D3]], the argument-catalogue instance of this rule, alongside the existing pointer to the void-catalogue instance. Both of the two cases this entry's Asserts paragraph names — "the convergence-for-dualism case and the void-catalogue case" — are now registered; only the void case was before. No calibration change: the parent rule is unchanged, and registering an instance of a discount does not alter the discount.
+- **Last reviewed**: 2026-07-28
 
 ## P-M3: Load-bearing citations are verified at publisher-of-record and flagged by evidential weight class
 
