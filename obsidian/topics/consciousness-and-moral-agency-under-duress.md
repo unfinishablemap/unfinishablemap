@@ -4,7 +4,7 @@ description: "How extreme pressure transforms conscious moral agency—exploring
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-28T01:46:47+00:00
+ai_modified: 2026-07-28T14:56:01+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -30,12 +30,14 @@ related_articles:
   - "[[spontaneous-intentional-action]]"
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
   - "[[moral-implications-of-genuine-agency]]"
+  - "[[motor-control-quantum-zeno]]"
+  - "[[positions/agency-and-will]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-25T21:51:00+00:00
+last_deep_review: 2026-07-28T14:56:01+00:00
 ---
 
 When someone acts under extreme duress—a gun to their head, a child in danger, a split-second before catastrophe—are they still morally responsible? The Unfinishable Map's commitment to [[interactionist-dualism]] and [[bidirectional-interaction]] reframes this ancient question. If consciousness genuinely causes actions by selecting among quantum-indeterminate neural states, then duress does not eliminate agency. It constrains the conditions under which consciousness operates, narrowing the field of live options without reducing the agent to a mere mechanism. Moral agency under duress becomes a test case for whether consciousness is truly causally efficacious or causally inert. A related case—[[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement]]—constrains the choice landscape not through external pressure but through permanent interface modification, raising parallel questions about how menu constraints affect the moral significance of choosing.
@@ -74,9 +76,15 @@ This has direct implications for [[moral-responsibility]]. Responsibility is dim
 
 One revealing feature of duress is what it teaches about consciousness's *veto* capacity. Even under extreme pressure, some agents refuse to comply. Individuals endure torture rather than betray comrades. Parents sacrifice themselves rather than abandon children. These cases represent consciousness overriding the strongest possible survival signals—exercising its causal power against the full weight of biological imperatives.
 
-From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2006). The Map reads this residual as evidence that [[concepts/consciousness-selecting-neural-patterns|consciousness is performing genuine selection]] among the options that physical conditions leave open.
+These acts of resistance are among the phenomena [[bidirectional-interaction]] is meant to explain—though the inference from them to conscious selection is weaker than it first looks, and the Map should say so. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns—and the subjective experience of choosing to resist would be causally inert.
 
-The veto under duress also illuminates [[self-opacity|volitional opacity]]. Accounts from prisoners of war and survivors of extreme coercion suggest a recurring pattern: agents describe knowing they chose to resist but being unable to explain the mechanism connecting their commitment to their endurance (Stockdale, 1984). The connection remains introspectively opaque. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
+The variation in response to comparable duress is real and measurable. Among Special Operations soldiers undergoing survival-school captivity stress, individuals with the same elite training differed sharply in how far acute stress degraded working memory and visuo-constructive performance; pre-stress dissociative propensity and trauma history predicted part of that spread but not all of it (Morgan et al., 2006). Resilience research has since traced further contributors across stress-response systems, fear circuitry, and genetics without closing the gap (Feder et al., 2009; Feder et al., 2019).
+
+An unclosed gap is not by itself evidence for a non-physical selector. A noisy, partly stochastic biological system is expected to leave residuals, and a physicalist account predicts them too—unpredictability is not the same as metaphysical openness, a distinction developed in [[motor-control-quantum-zeno|the treatment of stochastic accumulator models]]. What would discriminate is not the *size* of the unexplained variation but its *structure*: whether the residual sits where biological noise predicts, or is instead organised so as to track what the agent intends. That test has not been run, and the Map's [[positions/agency-and-will|positions register]] treats its outcome as a falsifier rather than treating the present residual as support. Reading these cases as [[concepts/consciousness-selecting-neural-patterns|consciousness performing genuine selection]] among the options physical conditions leave open is therefore an interpretation the residual permits, not a result it establishes.
+
+The veto under duress bears on [[self-opacity|volitional opacity]], but the prisoner-of-war literature constrains the claim rather than supplying it. Stockdale's account of eight years in Hoa Lo is strikingly articulate about what sustained resistance: a Stoic doctrine drawn from Epictetus and the dichotomy of control, a set of resistance rules the senior prisoners codified and obliged everyone to memorise, and a daily ritual of prayer, exercise, and clandestine communication by tap code. He reports that on comparing accounts after release, most of the prisoners had met sustained coercion in much the same way (Stockdale, 1984). Agents who resist can often say a great deal about why they resisted and by what discipline they held.
+
+The opacity Stockdale does report runs the other way: what he found he could not account for was *susceptibility*—the traits that let an extortionist break a particular man, which he thought psychology had not yet named. The Map should therefore claim only the narrow opacity the testimony supports. An agent can report the reasons and the discipline; what resists introspection is the step by which a sustained commitment issues in *this* act of endurance rather than a lapse. That narrow opacity is consistent with the Map's account of quantum-level interaction—the interface operates below the threshold of introspective access—but consistency is all it is, and Stockdale drew the opposite metaphysical moral from his own privations, concluding against Descartes that body and mind are inseparable.
 
 ## Graduated Responsibility
 
@@ -133,5 +141,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 
 1. Aristotle. *Nicomachean Ethics*, Book III, Chapters 1–5. (Compulsion and voluntariness in action.)
 1. Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
-1. Morgan, C. A. et al. (2006). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 60(7), 722–729.
-1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.
+1. Morgan, C. A. 3rd, Doran, A., Steffian, G., Hazlett, G. & Southwick, S. M. (2006). "Stress-Induced Deficits in Working Memory and Visuo-Constructive Abilities in Special Operations Soldiers." *Biological Psychiatry*, 60(7), 722–729. doi:10.1016/j.biopsych.2006.04.021. (Survival-school captivity stress degrades visuo-spatial working memory; baseline dissociation and trauma history partly predict the decrement. Cited here for the measured spread among identically trained personnel, not for resilience-predictor research.)
+1. Feder, A., Nestler, E. J. & Charney, D. S. (2009). "Psychobiology and molecular genetics of resilience." *Nature Reviews Neuroscience*, 10(6), 446–457. doi:10.1038/nrn2649.
+1. Feder, A., Fred-Torres, S., Southwick, S. M. & Charney, D. S. (2019). "The Biology of Human Resilience: Opportunities for Enhancing Resilience Across the Life Span." *Biological Psychiatry*, 86(6), 443–453. doi:10.1016/j.biopsych.2019.07.012.
+1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press. (Originally published in *The Atlantic Monthly*, April 1978.)
