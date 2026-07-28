@@ -4,7 +4,7 @@ description: "The five stated tenets lean on three unstated posits—a persistin
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-07-28T18:35:00+00:00
+ai_modified: 2026-07-28T18:22:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,7 +22,7 @@ author: null
 ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-07-16
 last_curated: null
-last_deep_review: 2026-07-28T18:35:00+00:00
+last_deep_review: 2026-07-28T18:22:00+00:00
 ---
 
 The Unfinishable Map states [[tenets|five foundational commitments]] and presents [[tenets#^dualism|Tenet 1]] as neutral between substance and property dualism. In operation, though, the framework leans on three further posits that no tenet states outright but that several clusters silently require. Naming them is part of the [[project/direct-refutation-discipline|direct-refutation discipline]]'s remit: mark honestly where the framework relies on an unstated commitment rather than one it has earned. This note is the canonical statement; the [[tenets#Three Background Posits the Tenets Rest On|tenets page's summary of these posits]] links here rather than re-deriving it inline.

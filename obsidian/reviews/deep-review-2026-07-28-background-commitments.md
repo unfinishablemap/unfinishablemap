@@ -3,7 +3,7 @@ title: "Deep Review - Three Background Commitments the Tenets Rest On"
 created: 2026-07-28
 modified: 2026-07-28
 human_modified: null
-ai_modified: 2026-07-28T18:35:00+00:00
+ai_modified: 2026-07-28T18:22:00+00:00
 draft: false
 topics: []
 concepts: []

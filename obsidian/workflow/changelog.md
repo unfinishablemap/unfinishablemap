@@ -5,7 +5,20 @@ ai_modified: '2026-07-28T18:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
-## 2026-07-28 18:35 UTC - deep-review
+## 2026-07-28 18:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Task**: target 10 of 12, consolidated No-MWI/agency calibration (L161 tenet-block only)
+- **Word count**: 3308 → 3425 (+117; `soft_warning` both before and after, 575 words of headroom to the 4000 hard threshold)
+- **Defect**: the No Many Worlds block asserted "Agency phenomenology presupposes singular actualisation … Many-worlds would make every choice a branching without genuine selection", presenting the felt contrast as *discriminating* actualisation from branching. It does not: inside a decohered branch the agent has exactly the described experience — one option becoming real, the others counterfactual — so branching reproduces the phenomenology rather than contradicting it. The unstated global-exclusion posit hid in "without genuine selection".
+- **Fix — calibration, not retraction**: rewrote the block along the authorship/selection → global-exclusion lane. Concedes branch-local continuity, counterfactual control and reasons-responsiveness plainly; states that the unchosen being *globally nonactual* is a [[tenets/background-commitments|posit the Map adopts]] rather than a datum read off the phenomenology; marks the framework boundary; closes with Tenet 4 intact ("Given the posit, the agentive pole is what this article has taken it to be throughout"). Canonical phrase "globally nonactual" used verbatim per Rule (A); linked to the file, no heading anchor, no posit number in prose.
+- **Article-specific seam**: this article's subject *is* fine-grained phenomenological discrimination, so the calibration is an application of its own method rather than an apology bolted on. Two hooks taken from the body: the agentive-pole inventory (effort, authorship, directedness, counterfactual awareness) is granted to the Everettian wholesale, and the Lutz et al. meditator claim — that the contrast sharpens under trained attention — is turned to show that the refinement sharpens *within* a branch and no amount of it reaches the actualisation question. Complements the existing verification-circularity and discrimination-problem passages (L127–129) with a limit those passages do not cover: even a perfectly veridical agency phenomenology would not settle whether the alternatives occurred elsewhere.
+- **Engagement classification (editor-internal)**: Everettian — Mode Three, framework-boundary marking. The disagreement is not resolvable inside branch-relative accounts, which grant every agentive feature this article documents; the honest move is to name the posit and the boundary, which the rewrite does explicitly.
+- **Models inherited**: `apex/consciousness-and-agency` tenet block, `concepts/luck-objection` L148, `topics/responsibility-gradient-from-attentional-capacity` L158, `topics/biological-teleology-and-the-interface-framework` L104 (target 9).
+- **Constraints honoured**: no new references added (Everettian literature stays cited once, in `tenets/background-commitments.md`); `tenets/background-commitments.md` not edited; no falsifier entries touched; `ai_system: claude-opus-4-6` held; `last_deep_review` left at 2026-07-17 (refine, not review); `ai_modified` set from live `date -u`.
+- **Published**: yes
+
+## 2026-07-28 18:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[tenets/background-commitments]]
 - **Word count**: 1473 → 1646 (+173; 82% of the 2000 soft threshold, status `ok` — no trimming owed)

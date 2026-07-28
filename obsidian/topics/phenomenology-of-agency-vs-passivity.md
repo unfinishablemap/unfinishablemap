@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-07-16T11:50:42+00:00
+ai_modified: 2026-07-28T18:27:15+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -158,7 +158,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The spectrum from full agency through flow to passivity may correspond to degrees of consciousness's influence on quantum outcomes—from intensive selection (deliberate choice) through fluent selection (flow) to minimal or absent selection (passive observation).
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Agency phenomenology presupposes singular actualisation. When you choose, one option becomes real. Many-worlds would make every choice a branching without genuine selection—but the phenomenology of agency is precisely the experience of *making one outcome actual* while others become counterfactual.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Conscious selection requires that one option actually obtain, though this article's own method shows why the felt contrast cannot deliver it. The phenomenology of agency is the experience of *making one outcome actual* while others become counterfactual—and that is exactly the experience an agent has inside a branch. Everettian branch-relative accounts preserve the whole agentive pole catalogued above: effort, authorship, directedness and counterfactual awareness, alongside branch-local continuity, counterfactual control and reasons-responsiveness. The finer discrimination trained meditators achieve sharpens *within* a branch, and no refinement of it reaches the question of whether the rejected alternatives were realised elsewhere; branching reproduces the contrast rather than contradicting it. That the unchosen be globally nonactual is a [[tenets/background-commitments|posit the Map adopts]] rather than a datum read off the phenomenology, and the disagreement sits at the framework boundary. Given the posit, the agentive pole is what this article has taken it to be throughout—one outcome made actual, the rest genuinely excluded.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A parsimony-based argument would dismiss the agency-passivity distinction as "just" a functional representation—the brain tracking its own motor-control modes—and deny any need for non-physical explanation. But simplicity is unreliable when the phenomenon in question (phenomenal character) is precisely what physical description leaves out. The apparent parsimony of reductive accounts comes at the cost of ignoring the data: the felt difference between doing and undergoing is among the most vivid features of experience, and treating it as explanatorily irrelevant is not economy but evasion.
 
