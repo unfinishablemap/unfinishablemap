@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-27T21:32:38+00:00
+ai_modified: 2026-07-28T04:30:43+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,60 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: inverted-qualia — add the omitted organizational-invariance objection (Chalmers' Fading/Dancing Qualia)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/inverted-qualia.md
+- **Status**: pending
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), section 1.6. GREP-VERIFIED at collection: "organizational invariance", "Fading" and "Dancing" appear NOWHERE in `concepts/inverted-qualia.md`, while Chalmers (1996) *The Conscious Mind* IS already in its External Sources (L202) — so the article cites the author and omits his most direct counterargument. Meanwhile [[concepts/functionalism]] L187 already links [[organizational-invariance]] and calls it "the sharpest pro-functionalist case" (verbatim). Add a real objection-reply section: Chalmers argues systems with the same sufficiently fine-grained functional organisation have the same phenomenal states as a matter of natural necessity. Two things make this the highest-value addition: (a) it is a **dualist-friendly** objection, so it cannot be deflected as physicalist question-begging; (b) it sharpens the Map's own position into a question about **functional grain** — if the consciousness-quantum interface differs between Invert and Nonvert they were never fine-grained duplicates, and if it differs in nothing the Map has re-created the epiphenomenalism it rejects ([[concepts/epiphenomenalism]]). State the Map's disagreement as one about psychophysical laws and grain, not as a refutation. Add a cross-link to [[organizational-invariance]].
+- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-28
+
+### P1: inverted-qualia — bring the lead and "Relation to Site Perspective" into line with the article's own MQI concession
+- **Type**: refine-draft
+- **File**: obsidian/concepts/inverted-qualia.md
+- **Status**: pending
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), sections 1.4 / 3.2 / 3.4 / 3.5. The article ALREADY concedes at L162 that strict behavioural identity plus qualia-difference is "physically unrealised even if conceivable" and keeps only *conceptual* force — but the opening thesis and the tenet section still assert the strong reading. Three GREP-VERIFIED loci: (1) **L152** "Something beyond physics determines qualia." — anti-functionalism does not entail dualism; type-identity, substrate-sensitive, and nonfunctionalist representational physicalism all survive an inverted-qualia argument. Recast as the conditional the argument actually licenses. (2) **L170** "This first-person indexicality supports real collapse and genuine phenomenal facts." — an Everettian grants each branch-relative subject a definite indexical experience, so this does not discriminate. Adopt the concede-then-locate formulation the corpus already settled on (see [[tenets/background-commitments]] and the [[changelog]] entries of 2026-07-27/28): branch-local phenomenology is preserved under Everett; **global exclusion is an additional Map posit**, not a deliverance of experience. This is the same calibration as the running No-MWI sweep — match its register, do NOT retract Tenet 4. (3) **L172** the Occam move — persistence of an intuition is not evidence its metaphysical interpretation is true; the article's "suggests… reflects something deep" is already hedged, so this is a light touch, not a rewrite. **Direct-refutation remit**: apply the [[direct-refutation-discipline]]. Locus (2) is an unsupported-foundational-move case — name the posit the framework has not earned by its own standards, in natural journal-quality prose. **Do not expose mode labels in the article body**; the classification belongs in the changelog entry only.
+- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-28
+
+### P2: inverted-qualia — 2020s colour science, the Palmer over-reading, and deeper representationalism/PCS replies
+- **Type**: refine-draft
+- **File**: obsidian/concepts/inverted-qualia.md
+- **Status**: pending
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), sections 2.1-2.4. GREP-VERIFIED: the article's empirical colour bibliography stops at Palmer 1999 and its illusionism sources stop at Strawson 2006 / Frankish 2016. Four strands, all with citations VERIFIED at publisher of record at collection time (see the review's Verification Notes — do not re-verify from scratch): (1) **Correct the Palmer framing.** L82 says Palmer "argues certain inversions… are plausible within color science"; Palmer's published abstract says literal rainbow reversal would NOT work and that three other transformations *might* work depending on which colour categories matter. This is a citation-framing fix (real source, over-read conclusion), NOT a deletion. (2) **Add a 2020s empirical passage**: PNAS 2023 `10.1073/pnas.2202262120` (hue-scaling variation resolves into multiple *local* factors, inconsistent with a global opponent-axis transformation — supports real individual variation but cuts AGAINST whole-space inversion); Horiuchi & Nagai 2024 *Sci Rep* 14:9615 (discrimination training shifted thresholds, unique hues, category boundaries AND reported appearance — i.e. appearance is functionally coupled); Bannert & Bartels 2025 *J Neurosci* (area-specific colour biases shared across brains). State explicitly that measurable individual variation is NOT evidence for strict inversion, because it shows up precisely in the judgements that make observers functionally different. (3) **Add Hilbert & Kalderon, "Color and the Inverted Spectrum"** — they argue every *possible* quality space must be asymmetrical, not merely the actual human one, which directly attacks the article's retreat to stipulated symmetric aliens (L82-ish). Live copy at `sas-space.sas.ac.uk/624/`. (4) **Deepen the representationalism and PCS replies.** L104's "different qualitative modes" reply is one sentence; distinguish narrow vs wide content, appearance properties, Fregean modes of presentation and colour relativism, and note (as [[first-order-representationalism]] already does) that Block is a physicalist. For PCS, cite Zhong 2024 *Philosophical Quarterly* 74(3):978-997 "Phenomenal Concepts, Direct Reference, and the Problem of Double Aspect" and say which account of phenomenal concepts is being rejected rather than resting on "this itself requires explanation" (L106). Watch length — condense elsewhere if needed.
+- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-28
+
+### P2: qualia.md — relabel intrinsicness/privacy/ineffability as disputed theses; fix two unhedged claims
+- **Type**: refine-draft
+- **File**: obsidian/concepts/qualia.md
+- **Status**: pending
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), section 3.1 and improvements 19-20. The review's point: the article gives the neutral "what-it-is-like" sense first, then treats intrinsicness, privacy, ineffability and direct apprehensibility as if constitutive. Only the first should be definitional; the rest are substantive theses rejected by functionalists, representationalists, relationalists and illusionists — and defining qualia as intrinsic and nonrelational excludes those analyses by terminology, which is what makes the downstream [[inverted-qualia]] argument look stronger than it is. Two GREP-VERIFIED unhedged loci: **L59** "Pain asymbolia patients **prove** that functional pain processing without the felt quality loses its motivational force" — soften to what the case supports; note that [[pain-asymbolia]] itself already carries the Griffith & Kind (2024) / Duval & Klein (2025) hedge, so this locus is out of step with the Map's own more careful page. **L111** "But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you" — asserted with no argument or citation, and it is doing real work (it rescues the inversion argument from the colour-space asymmetry objection). Either argue it or mark it as a conjecture. CALIBRATION, not retraction.
+- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-28
+
+### P2: functionalism.md — promote organizational-invariance from Further Reading into the main objection-reply structure
+- **Type**: refine-draft
+- **File**: obsidian/concepts/functionalism.md
+- **Status**: pending
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), improvements 21-22. GREP-VERIFIED: the article's only mention of [[organizational-invariance]] is a Further Reading bullet at L187 that calls it "the sharpest pro-functionalist case" — the page names its strongest opponent and then never engages it. Move it into the body's objection-reply structure and add an explicit cross-link back to [[inverted-qualia]] (paired with the P1 task adding the same argument there; do the two consistently rather than duplicating prose — one canonical treatment, referenced from the other). Second, smaller item: the review asks for a taxonomy distinguishing machine-state, analytic, psycho-functional, narrow, wide and fine-grained organizational functionalism, on the ground that the Map's thought experiments slide between "matches on selected experimental tasks" and "complete functional identity". Add the taxonomy only if it can be done compactly — the grain distinction is the part that carries argumentative weight.
+- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-28
+
+### P2: Separate substantive-revision timestamps from metadata/media changes in the frontmatter schema
+- **Type**: refine-draft
+- **File**: obsidian/project/calibration-audit-triple.md
+- **Status**: pending
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), improvement 26 — and this one is VERIFIED against the repo, which is why it is worth acting on. The reviewer checked the actual commits: `e4498d4e8` (2026-07-20) on `concepts/inverted-qualia.md` is `auto(embed-videos): trigger`, and `cee8a1def` (2026-07-15) is `auto(deep-review): cycle`. The article's `ai_modified: 2026-07-20` therefore advertises a substantive revision that was in fact a video embed, and an external referee reading the site was misled by it. Proposal: distinguish `last_substantive_revision` from `last_deep_review`, `last_citation_verification` and a metadata/media-only change, so that embed-videos and similar mechanical passes stop resetting the apparent freshness of an argument. Write this up as a methodology entry (schema change + which skills set which field); the actual schema/sync work is a follow-on, not this task. Related recurring finding: the reviewer also proposes that "convergence" should EXPIRE when a neighbouring article acquires a material concession the converged page never integrates — the inverted-qualia/philosophical-zombies pair is the live example, since [[philosophical-zombies]] already concedes that interactionism forces rejection of the strict duplicate-plus-identical-output stipulation while [[inverted-qualia]] keeps the stronger framing. Note both; do not attempt to implement both.
+- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-07-28
 
 ### P2: No-MWI sweep EXTENSION — 5 NEW loci found by /check-tenets outside the 12-locus queue
 - **Type**: refine-draft

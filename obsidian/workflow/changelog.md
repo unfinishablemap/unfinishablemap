@@ -5,6 +5,19 @@ ai_modified: 2026-07-28T03:18:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 04:30 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [[reviews/outer-review-2026-07-28-chatgpt-5-6-pro]]
+- **Subject**: `concepts/inverted-qualia.md` — first of the 2026-07-28 three-service triple (Claude and Gemini still pending on the same article; `/combine-outer-reviews` will synthesise).
+- **Model-slug correction**: the pending entry was filed as `chatgpt-5-5-pro`, but `data-message-model-slug` read `gpt-5-6-pro`. Review file named `outer-review-2026-07-28-chatgpt-5-6-pro.md` and `target_filename` updated in `pending-reviews.yaml` (plus the two `subject_source` back-references on the claude/gemini entries) so the synthesis pass finds it.
+- **Claims verified**: 21 (10 Map-side quotations grepped verbatim; 4 neighbouring-article claims; 2 repository commit claims; 5 external citations confirmed at publisher of record). 3 external citations left unchecked, none suspicious.
+- **Fabricated-quote check**: no fabricated citations. Six loci present a **paraphrase inside quotation marks** — marked inline as `[unverified quote]` and itemised in the review's Verification Notes. Findings retained; wording must not be quoted back to the article as its own.
+- **High-value findings**: 6. Strongest: the article cites Chalmers 1996 while omitting organizational invariance / Fading & Dancing Qualia entirely, even though [[concepts/functionalism]] already calls that "the sharpest pro-functionalist case"; and the lead still asserts what L162 concedes away ("physically unrealised even if conceivable").
+- **Notable**: the reviewer read the actual git history and correctly identified that the 2026-07-20 `ai_modified` stamp on `concepts/inverted-qualia.md` records `auto(embed-videos): trigger`, not an argument revision.
+- **Tasks generated**: 6 (P1: 2, P2: 4)
+
+
 ## 2026-07-28T03:18:46+00:00 - check-tenets
 - **Status**: Warnings
 - **Scope**: TARGETED, not general. Tenet 4 (No Many Worlds) only, per driver instruction — hunting the BEFORE shape the in-flight 12-locus calibration sweep is migrating away from. Tenets 1/2/3/5 not audited this run.
