@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-07-27 09:05:21+00:00
+ai_modified: 2026-07-28 09:35:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: 'A Map-named non-sequitur: showing a mechanism is sufficient to pro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 23:41:11+00:00
+last_deep_review: 2026-07-28 09:35:43+00:00
 modified: *id001
 related_articles:
 - '[[out-of-body-experiences]]'
@@ -32,7 +32,7 @@ The Argument from Mechanism is the inference: *a phenomenon X can be produced by
 
 The discipline cuts **both ways**, and that symmetry is its defining feature. The materialist version reads an induced phenomenon as exhausting it: "we produced X with M, therefore X is nothing but M." The dualist version is the mirror image — an argument from ignorance: "no mechanism explains X, therefore X is non-physical." Both convert a one-directional gap into a positive conclusion in the other direction. A discipline that rejected only the first would be a partisan debunking tool; the Map rejects both with equal force.
 
-"The argument from mechanism" is a Map-named label for this content-domain pattern. The Map is not aware of a philosophy paper using the exact phrase as a term of art; the move it names instantiates several established fallacies (confusing sufficiency with necessity, affirming the consequent, the genetic fallacy, argument from ignorance) depending on how it is phrased. The Map coins the label to give its consciousness-and-mind articles a single citeable anchor for one recurring logical anatomy.
+"The argument from mechanism" is a Map-named label rather than an established term of art; the move it names instantiates several recognised fallacies (confusing sufficiency with necessity, affirming the consequent, the genetic fallacy, argument from ignorance) depending on how it is phrased. The label gives the Map's consciousness-and-mind articles a single citeable anchor for one recurring logical anatomy.
 
 ## The Logical Structure {#structure}
 
@@ -43,7 +43,7 @@ Stated as a syllogism, the materialist form runs:
 
 The premise can be solid. Interventional evidence — directly stimulating a brain region, ablating it, administering a compound — really can establish causal sufficiency. The fault lies entirely in the leap to the conclusion. Sufficiency is one-directional (M → X in some cases); the conclusion smuggles in necessity (X → M in all cases) and exhaustiveness (nothing other than M produces X).
 
-A condition can be sufficient without being necessary. Fuel, oxygen and a spark suffice for fire, yet fire has other ignition routes — friction, compression, other oxidisers. A condition can be necessary without being sufficient: oxygen is necessary for ordinary combustion, but oxygen alone does not produce it. The slogan "everywhere there is oxygen, there is fire" illustrates the *mirror* error, reading a necessary condition as though it were sufficient. Both directions are worth naming, since they are confused with each other as often as either is committed; the Argument from Mechanism is the sufficiency-to-necessity direction.
+A condition can be sufficient without being necessary. Fuel, oxygen and a spark suffice for fire, yet fire has other ignition routes — friction, compression, other oxidisers. The converse error is as common: oxygen is necessary for ordinary combustion, but "everywhere there is oxygen, there is fire" reads a necessary condition as though it were sufficient. The Argument from Mechanism is the sufficiency-to-necessity direction.
 
 Naming which adjacent fallacy is in play keeps a given instance precise:
 
@@ -68,7 +68,9 @@ The dominant direction in the literature. An induced phenomenon is read as exhau
 
 The Map's canonical statement of the refusal lives in the out-of-body-experience treatment, where stimulation of the right temporo-parietal junction (TPJ) produces OBE-like phenomenology. The narrow, valid conclusion is that a neural mechanism *sufficient* to produce OBE-like phenomenology exists. The over-reach is "therefore all OBEs are TPJ artefacts." As [out-of-body-experiences](/topics/out-of-body-experiences/) puts it: "That a phenomenon can be produced by mechanism M does not show that all instances of the phenomenon are produced by M." Visual experience can be induced by direct cortical stimulation without making ordinary vision hallucinatory. Whether the TPJ pathway is *necessary* for OBEs is a separate question stimulation studies cannot answer.
 
-The pattern recurs wherever a phenomenon can be induced. Temporal-lobe stimulation of the "felt presence" (Persinger's so-called "God Helmet") was read as showing religious experience is "just temporal-lobe activity" — a reading weakened further by a double-blind replication attempt in which suggestibility, not the magnetic field, predicted the effect (Granqvist et al., 2005). Dying-brain neuro-functional models map overlapping near-death-experience features onto anoxia, REM intrusion and related mechanisms (Mobbs & Watt, 2011), and are then read as showing NDEs are "nothing but" those artefacts. In each case the induction establishes a sufficient route and is then over-read as the only route.
+The pattern recurs wherever a phenomenon can be induced — though the premise must be checked before the anatomy is applied. Weak transcranial magnetic fields over the temporal lobes (Persinger's so-called "God Helmet") were read as showing religious experience is "just temporal-lobe activity"; a double-blind study with a sham-field control then found no effect of the fields at all, in the whole group or among the highly suggestible, with suggestibility predicting the reported experiences instead (Granqvist et al., 2005). That outcome belongs to ordinary empirical dispute rather than to this anatomy: where the sufficiency premise was never established, there is no sufficiency-to-necessity slide to diagnose.
+
+Near-death research supplies the genuine article. Dying-brain models map overlapping NDE features onto hypoxia, REM intrusion and related mechanisms, and Mobbs and Watt (2011) assemble them under the flat conclusion of their title — "there is nothing paranormal about near-death experiences" — recasting the experiences as "normal brain function gone awry." The mechanisms are real and some are surely operative. What the assembly cannot deliver is the exhaustiveness the conclusion asserts: a sufficient route, established for some tokens, read as the only route for all.
 
 Crucially, this is a recognised error inside the source literature, not a Map invention. Yoshihara and Yoshihara (2018) document in neuroscience itself how "sufficient" — in optogenetics and command-neuron debates — is routinely misread as "necessary," distorting circuit-function conclusions. They recommend replacing the loaded phrase "necessary and sufficient" with "indispensable and inducing" precisely to block the slide. Their domain is circuit neuroscience and optogenetics rather than consciousness debates directly, so the citation establishes that the *logical pattern* is a known methodological problem — not that they wrote about OBEs or near-death experiences.
 
@@ -98,7 +100,7 @@ The closest relative is the [evidential-status discipline](/project/evidential-s
 
 The evidential-status discipline is the *editor-internal* labelling discipline — how the catalogue grades claims, with its five-tier scale and diagnostic test; it lives in the project documentation as editor vocabulary and does not appear in article prose. The Argument from Mechanism is the *publicly-facing named fallacy* — the logical anatomy of one specific non-sequitur, in language readers and articles can point at.
 
-Constrain-vs-establish is the rule the editor applies; the Argument from Mechanism is the mistake out in the world the rule is calibrated against. A citeable page lets the OBE, near-death, dissociation and altered-state articles link to one named pattern instead of re-deriving the sufficiency–necessity point inline.
+Constrain-vs-establish is the rule the editor applies; the Argument from Mechanism is the mistake out in the world the rule is calibrated against, on a page the OBE, near-death, dissociation and altered-state articles can cite instead of re-deriving the point inline.
 
 ### A neighbouring failure: compatibility-vs-support
 
@@ -112,14 +114,14 @@ The concept earns its keep because one logical anatomy recurs across many Map ar
 |---|---|---|---|---|
 | Out-of-body experience | materialist-side | TPJ / vestibular stimulation; self-model dislocation | OBE | [out-of-body-experiences](/topics/out-of-body-experiences/) (canonical instance) |
 | Psychedelics | materialist-side | REBUS / entropic brain / DMN disruption | altered states | [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) (routes to compatibility-vs-support) |
-| Near-death / terminal lucidity | both | anoxia, REM intrusion, end-of-life surge | NDE / terminal lucidity | [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) |
-| Mystical / religious experience | materialist-side | temporal-lobe stimulation ("God Helmet") | felt presence | (no dedicated article — candidate) |
+| Near-death / terminal lucidity | both | hypoxia, REM intrusion, end-of-life surge | NDE / terminal lucidity | [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) |
+| Mystical / religious experience | premise contested | weak transcranial magnetic fields ("God Helmet") | felt presence | (no dedicated article — candidate) |
 | Anaesthesia | both | GABA-ergic and NMDA-antagonist agents; cortical disconnection | loss and return of report | [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) |
 | Quantum measurement | dualist-side | decoherence plus standard unitary dynamics | a determinate outcome | [measurement-problem](/concepts/measurement-problem/) |
 
-The last two rows carry the symmetry the direction column makes visible. Anaesthesia supplies the *abolition* form of the anatomy — "propofol reliably abolishes report, therefore consciousness is nothing but what the drug acts on" — and its mirror is just as tempting: "no production model explains why xenon and propofol converge on extinction by different molecular routes, therefore the interface is real." The pharmacology licenses neither leap. The quantum row is the Map's own most exposed instance: "decoherence does not yet deliver a determinate outcome, therefore consciousness selects it" is the argument from ignorance in Map colours, and the interface commitment has to be carried by a stated mechanism tested against the empirical record rather than by that gap.
+The mystical-experience row is entered as a premise-contested case rather than a worked instance, for the reason given above. The last two rows carry the symmetry the direction column makes visible. Anaesthesia supplies the *abolition* form of the anatomy — "propofol reliably abolishes report, therefore consciousness is nothing but what the drug acts on" — and its mirror is just as tempting: "no production model explains why xenon and propofol converge on extinction by different molecular routes, therefore the interface is real." The pharmacology licenses neither leap. The quantum row is the Map's own most exposed instance: "decoherence does not yet deliver a determinate outcome, therefore consciousness selects it" is the argument from ignorance in Map colours, and the interface commitment has to be carried by a stated mechanism tested against the empirical record rather than by that gap.
 
-Lucid-dreaming and dissociation articles would benefit from the same anchor where they treat induced states, though the sufficiency–necessity language is not yet explicit in them. Surviving transfer across organism-consciousness debates, altered states and quantum foundations alike is the cross-domain portability the Map treats as evidence a discipline is genuine infrastructure — the standard [possibility-probability-slippage](/concepts/possibility-probability-slippage/) sets for itself.
+Lucid-dreaming and dissociation articles treating induced states would benefit from the same anchor. Surviving transfer across altered states, organism-consciousness debates and quantum foundations alike is the cross-domain portability the Map treats as evidence a discipline is genuine infrastructure — the standard [possibility-probability-slippage](/concepts/possibility-probability-slippage/) sets for itself.
 
 ## Relation to Site Perspective {#relation}
 

@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T11:04:29+00:00'
+ai_modified: '2026-07-28T11:18:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 11:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/organizational-invariance]] (primary), [[concepts/inverted-qualia]] (one-sentence correction)
+- **Task**: P2 "organizational-invariance.md — inherit the grain-dilemma resolution stranded in length-blocked inverted-qualia.md" (todo line 39), from [[reviews/optimistic-2026-07-28-inversion-convergence-cluster]] Leverage 2.
+- **The defect**: [[concepts/inverted-qualia]] L138 resolved the grain dilemma (both horns stated, first horn taken on MQI behavioural-prediction grounds, type/token distinction supplied to keep it survivable) and then routed the reader to [[concepts/organizational-invariance]] as "a sharper version of the same dilemma". That file stated the same dilemma at L77 and stopped — no type/token move, no horn taken, and the opposite stance ("The horns cut both ways… not as a settled free lunch"). The pointer ran from the resolved article to the unresolved one and described it as a deepening. Live to readers via today's highlight/tweet, which points at `inverted-qualia`.
+- **Changes to `organizational-invariance`** (+351 words, 1832 → 2183; soft threshold 2500, so 317 of margin retained):
+  - Dancing-qualia section: added the reciprocal pointer to [[concepts/inverted-qualia]] as the inversion case dancing qualia most directly threatens, flagging that the reply developed below is the one that article inherits. The file previously had zero links to it.
+  - Relation to Site Perspective: split the L77 dilemma paragraph and inserted the inherited account in two new paragraphs. First takes the behaviourally-detectable horn on the same grounds `inverted-qualia` takes it (Bidirectional Interaction plus the outbound-channel bandwidth prediction), then supplies the type/token distinction — an isomorph reproduces the causal *pattern* including its statistical envelope; MQI concerns which *token* is drawn inside that envelope, a selection that is causally efficacious (so not [[concepts/epiphenomenalism|epiphenomenal]] at the level of the individual event) without being organizational (organization is fixed by the pattern, not by which member occurs). Second books the debt: efficacy at single-event level and invisibility at statistical level have to come apart in a principled way, "the argument that they do is owed rather than paid", with [[concepts/ensemble-level-epiphenomenalism]] named as the sharpest statement of the price.
+  - Further Reading and `concepts:` frontmatter: added [[concepts/inverted-qualia]].
+  - Description: "answers functionalism's sharpest case" → "meets functionalism's sharpest case" — the article now takes a horn but does not answer the question, and "answers" was the same coherence inflation this pass exists to avoid.
+- **Honesty preserved in both, verified by grep**: `organizational-invariance` L80's "The horns cut both ways… stands as conditional on that question… not as a settled free lunch" survives unedited and now precedes rather than substitutes for the horn-taking; the new material ends "a horn taken with the account that makes it survivable still outstanding — both halves stated, neither traded for the other". `inverted-qualia`'s "The Map owes an account of that distinction rather than a free escape" is untouched. The article now takes a horn *and* still owes the account; neither file claims resolution.
+- **Changes to `inverted-qualia`**: exactly one sentence, the forward reference at L138. "…states both of Chalmers' arguments at full strength and works through a sharper version of the same dilemma" → "…states both arguments at full strength and takes the same horn, with the account still owed." Net −2 words (3440 → 3438), so the ~60-word margin to the 3500 hard threshold widened rather than narrowed; no condense mint risk to the six repairs that landed on that file today. Nothing else in the file was opened.
+- **Engagement with Chalmers**: mixed. The grain move is Mode One — it runs inside Chalmers' own principle, which carries the qualifier "at a fine enough grain" and therefore concedes that grain is a settled question rather than a stipulated one. The type/token account is Mode Three — the Map's residue is declared as owed rather than presented as discharged, which is the honest reading of a distinction it has stated but not argued for. No mode vocabulary appears in article prose.
+- **Attribution**: `ai_system` on `organizational-invariance` `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5` (substantial new prose). `inverted-qualia`'s value held — its change is a targeted one-sentence correction, not re-authorship. `ai_modified` stamped from `date -u` on `organizational-invariance` only.
+- **Validation**: both files pass `scripts/validate.py`; sync resolves all four new wikilinks (`inverted-qualia`, `bandwidth-of-consciousness`, `concepts/epiphenomenalism`, `tenets#^bidirectional-interaction`) to live paths; no `[1m]` artifact.
+- **Published**: yes
 
 ## 2026-07-28 11:04 UTC - positions-evolve
 - **Status**: Success

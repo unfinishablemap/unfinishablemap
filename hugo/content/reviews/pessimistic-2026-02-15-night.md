@@ -13,7 +13,7 @@ title: Pessimistic Review - 2026-02-15 (Night)
 
 **Date**: 2026-02-15
 **Content reviewed**:
-- [concepts/arguments-for-dualism.md](/concepts/the-case-for-dualism/)
+- [concepts/arguments-for-dualism.md](/positions/arguments-for-dualism/)
 - [concepts/collapse-and-time.md](/concepts/collapse-and-time/)
 - [concepts/illusionism.md](/concepts/illusionism/)
 
@@ -71,7 +71,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 1: Systematic Overclaiming of Response Strength
 
-- **File**: [concepts/arguments-for-dualism.md](/concepts/the-case-for-dualism/)
+- **File**: [concepts/arguments-for-dualism.md](/positions/arguments-for-dualism/)
 - **Location**: Major Objections summary table (line 223-229)
 - **Problem**: Every response to every objection is rated "Strong." This is self-evidently implausible and undermines credibility. The pairing problem response (minds are spatially located in brains) arguably concedes ground to materialism. The conservation law response depends on contested physics. Presenting uniform confidence signals advocacy rather than analysis.
 - **Severity**: High
@@ -103,7 +103,7 @@ These three foundational articles are ambitious and well-structured, but each co
 
 ### Issue 5: Circular Defense of Conceivability
 
-- **File**: [concepts/arguments-for-dualism.md](/concepts/the-case-for-dualism/)
+- **File**: [concepts/arguments-for-dualism.md](/positions/arguments-for-dualism/)
 - **Location**: The Conceivability Argument section (lines 49-62)
 - **Problem**: The defense of premise 2 (conceivability entails possibility) is that "phenomenal concepts directly reveal their referents." But this claim *presupposes* dualism—it assumes phenomenal concepts are special precisely because they access non-physical properties. A physicalist would deny that phenomenal concepts are epistemically transparent in this way. The article doesn't acknowledge this circularity.
 - **Severity**: Medium

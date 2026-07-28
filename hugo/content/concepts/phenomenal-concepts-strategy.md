@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-12 19:34:26+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-07-28 10:20:39+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/phenomenal-concepts-as-materialist-response/
@@ -62,6 +62,10 @@ David Papineau suggested that phenomenal concepts literally *contain* experience
 ### Balog's Constitutional Account
 
 Katalin Balog developed the most detailed version: token experiences serve as modes of presentation for the phenomenal properties they instantiate. The concept PAIN is partly constituted by a token experience of pain. This differs from mere reference—the experience is constitutively involved in how the concept cognitively presents its referent.
+
+### Which Account Is Being Rejected
+
+Zhong (2024) sharpens the target. Loar's recognitional route and Papineau's and Balog's constitutive route are the two ways of cashing out *direct* reference to phenomenal properties, and Zhong argues both founder on the *problem of double aspect*: a mental/physical conceptual distinction sharp enough to explain the gap reinstates property dualism one level up. The Map's objection targets that family specifically, rather than phenomenal concepts in general.
 
 ## Chalmers's Master Argument
 
@@ -217,6 +221,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 - Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1–23.
 - Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–135.
 - Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*, 20(5), 469–494.
+- Zhong, L. (2024). "Phenomenal Concepts, Direct Reference, and the Problem of Double Aspect." *The Philosophical Quarterly*, 74(3), 978–997.
 - Zhou, P. (2025). "Indicating without Revealing: A Posteriori Physicalism and the New Challenge." *Synthese*, 206(2).
 - Sasaki, K. (2025). "The Phenomenal Concept Strategy and the Master Argument." *Kagaku Tetsugaku (Philosophy of Science)*, 58(1).
 - Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*.
