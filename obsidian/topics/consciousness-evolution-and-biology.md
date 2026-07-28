@@ -4,7 +4,7 @@ description: "Why evolutionary theory and biology's conceptual toolkit—functio
 created: 2026-02-09
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-07-26T00:01:41+00:00
+ai_modified: 2026-07-28T17:34:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,7 +145,7 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** explains why biology's tools miss consciousness's causal contribution. If the non-physical influence operates at the quantum level, standard biological observation—tracking macroscopic traits and classical causal chains—will not detect it. Biology's inability to find consciousness among its functional traits is consistent with what minimal interaction predicts—though consistency is not confirmation. What would count against the posit is a fully classical account of the amplification capacities the Map attributes to consciousness, or null results in the [[evolutionary-case-for-quantum-neural-effects|quantum-neural-effects programme]], where the position's positive commitments are testable.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** matters because consciousness-as-adaptation only makes sense if selection has real consequences. Under Many Worlds, every outcome is realised somewhere; consciousness biasing one branch over another changes nothing about the totality of outcomes. The Map's rejection of Many Worlds preserves a single evolutionary narrative in which the consciousness-evolution problem can be meaningfully posed.
+**[[tenets#^no-many-worlds|No Many Worlds]]** does exclusion work here rather than merely quantum-interpretation work. The quick statement—that under branching every outcome is realised somewhere, so consciousness biasing one branch changes nothing about the totality of outcomes—reads as an argument but is closer to a restatement of the tenet. An Everettian can grant consciousness-as-adaptation *branch-locally*: selection within a branch has branch-local consequences, differential reproduction is a fact about that branch, and the adaptationist story runs unchanged. The dispute is therefore not whether consciousness could be adaptive but whether a *single* evolutionary narrative is required for the consciousness-evolution problem to be well posed. The Map holds that it is, on the grounds that a difference must exclude its alternatives to count as a difference at all—but that is a global-exclusion condition, a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the evolutionary case.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The simplest evolutionary story—consciousness is neural computation, no hard problem—is attractive precisely because it dissolves the problem. But if that dissolution fails, then the apparent simplicity is misleading. The temptation to explain consciousness as "just" an adaptation or "just" an emergent property reflects a preference for parsimony over accuracy. Biology's own struggles with consciousness suggest biological explanation is not exhaustive.
 

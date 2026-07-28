@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T17:22:09+00:00'
+ai_modified: '2026-07-28T17:34:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 17:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Task**: locus (2) of the four-locus re-queue from the `/check-tenets` 2026-07-28 extension ([[reviews/tenet-check-2026-07-28]]). Scope held to this one file; the other three loci (`apex/testing-the-map-from-inside`, `topics/evaluative-qualia-phenomenal-normativity-across-traditions`, `apex/contemplative-path`) untouched.
+- **Driver re-verified live before editing**: L148 read "Under Many Worlds, every outcome is realised somewhere; consciousness biasing one branch over another changes nothing about the totality of outcomes." The defect was an unmarked global-exclusion posit: "changes nothing about the totality of outcomes" is true only if a difference must be *global* to count, which is the condition the framework posits rather than derives from selection theory. Unmarked, the sentence read as an argument against MWI when it asserts the posit.
+- **Changes**: one paragraph in "Relation to Site Perspective" rewritten. The article-specific angle is that an Everettian can grant consciousness-as-adaptation *branch-locally* — selection within a branch has branch-local consequences, differential reproduction is a fact about that branch, the adaptationist story runs unchanged — so the live dispute is whether a *single* evolutionary narrative is required for the consciousness-evolution problem to be well posed. The Map's answer (yes) is then marked as resting on a global-exclusion condition, "a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the evolutionary case."
+- **Register inherited, not re-invented**: dependency form adapted from `concepts/agent-causation.md` §"Relation to Site Perspective" ("rests not on sourcehood alone but on a global-exclusion condition"), with `topics/free-will.md` L203 and `concepts/moral-responsibility.md` as the same-day siblings. Vocabulary translated from agency (sourcehood, authorship) to evolution (selection efficacy, single narrative) rather than copied.
+- **Link form**: `[[tenets/background-commitments]]` linked as a file, no heading anchor. The originating task cited "posit (1)"; that is wrong on disk — the relevant one is **Posit Three: Global Exclusion of Unchosen Alternatives**. No posit number is named in article prose, per the model articles.
+- **Calibration, not retraction**: Tenet 4 stands; the paragraph still concludes that the Map requires a single evolutionary narrative. Only the grounds are re-labelled. No mechanism or falsifier claim of the form "MWI removes the collapse the mechanism needs" was touched — the Minimal Quantum Interaction paragraph (L146) is unchanged.
+- **Length**: 2779 → 2864 words (+85 net) against topics soft 3000 / hard 4000; `analyze_length` status `ok` before and after. Within the ~90-word budget set by locus (1).
+- **Attribution**: `ai_system: claude-opus-4-6+claude-opus-4-8` held — a grounds re-label is calibration, not re-authoring. `last_deep_review` left at 2026-07-26; `ai_modified` set to the verified current UTC time.
+- **Published**: yes
 
 ## 2026-07-28 17:22 UTC - refine-draft
 - **Status**: Success
