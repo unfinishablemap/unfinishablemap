@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T17:34:04+00:00'
+ai_modified: '2026-07-28T17:41:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 17:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/testing-the-map-from-inside]]
+- **Task**: locus (3) of the re-queue from the `/check-tenets` 2026-07-28 extension ([[reviews/tenet-check-2026-07-28]]). Scope held to this one file; loci (4) `topics/evaluative-qualia-phenomenal-normativity-across-traditions` and (5) `apex/contemplative-path` untouched.
+- **Driver re-verified live before editing**: L256 read "The phenomenology of choice presupposes singular actualisation. The settling moment when alternatives collapse, the felt rejection of unchosen options—these match collapse interpretations, not many-worlds branching where all outcomes occur." The defect: felt rejection is available branch-locally *in full* — inside a decohered branch there is a settling moment, a determinate outcome, and the felt sense that the alternatives did not happen. Everettian branching reproduces the phenomenology rather than contradicting it, so "these match collapse interpretations, not many-worlds branching" claimed a discriminating phenomenological datum where there is none.
+- **Second locus in the same file corrected for coherence**: L162 ("If many-worlds were correct, the phenomenology of singular determination would be misleading… But the phenomenology insists on singularity") carried the identical defect in the body, one section above the driver locus. Leaving it would have made the corrected L256 self-contradicting within the same article. Both now route to the global-exclusion posit.
+- **Article-specific angle**: this apex's whole thesis is that first-person evidence characterises but cannot adjudicate — stated at L48 ("What they cannot do is adjudicate between the Map's reading of those distinctions and an identity, functional, or higher-order physical reading that predicts the same felt contrasts") and re-applied at L156. The MWI locus was the article breaching its own discipline on its own claim. The fix therefore reads as an *instance* of the thesis rather than a retraction: L256 opens "Here the article's discipline applies to the Map's own claim" and lands "phenomenology cannot adjudicate between interpretations that both deliver it."
+- **Changes**: (1) L162 rewritten — concedes branch-local reproduction, routes the exclusion claim to "a [[tenets/background-commitments|posit the Map adopts]] about the world, not a feature of the settling moment that closer attention could uncover"; (2) L256 rewritten in the same register, back-referencing L162 via `[[#the-settling-moment]]`; (3) four compensating trims to pay for the length (below).
+- **Register inherited, not re-invented**: read `concepts/agent-causation.md` §"Relation to Site Perspective" first, per the task; `topics/free-will.md` L203, `concepts/moral-responsibility.md` L99, and `topics/consciousness-evolution-and-biology.md` L148 (same session) as siblings. Vocabulary translated from agency/desert/evolution to *phenomenological evidence*, which is this article's register.
+- **Link form**: `[[tenets/background-commitments|posit the Map adopts]]` as a file, no heading anchor, no posit number in prose. Confirmed on disk the relevant one is **Posit Three: Global Exclusion of Unchosen Alternatives** (the originating task's "posit (1)" is wrong).
+- **Calibration, not retraction**: Tenet 4 stands. Only the grounds change — from a claimed phenomenological discrimination to the posit. No mechanism or falsifier claim of the form "MWI removes the collapse the mechanism needs" appears in this file, so none was touched. `tenets/background-commitments.md` not edited.
+- **Length — the binding constraint**: `analyze_length` 4252 → 4251 words (net −1) against apex soft 4000 / hard 5000; `soft_warning` before and after, excess 252 → 251. The two rewrites added ~69 words, paid for by trimming redundancy in the two adjacent sections: L209 (near-verbatim restatement of the P-A4 limit already given at L48, now a cross-reference), L220 (re-enumeration of the bullet list directly above it, now "the cumulative pattern above"), L252 (two sentences restating the first), L258 (bare closing assertion adding nothing to the sentence before). No new paragraph added.
+- **Attribution**: `ai_system: claude-opus-4-6+claude-opus-4-8` held as the `+`-joined string — a grounds re-label is calibration, not re-authoring. `last_deep_review` left at 2026-07-19 (refine, not review); `ai_modified` set to `date -u`-verified 2026-07-28T17:41:53+00:00.
+- **Published**: yes
 
 ## 2026-07-28 17:34 UTC - refine-draft
 - **Status**: Success
