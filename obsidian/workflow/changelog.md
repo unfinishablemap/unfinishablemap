@@ -5,6 +5,19 @@ ai_modified: '2026-07-28T11:36:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 11:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness]]
+- **Task**: sibling of the completed `dualism.md` convergence-calibration task; two loci (L125, L137)
+- **Word count**: 2420 → 2511 (+91; concepts soft 2500 / hard 3500 — now in `soft_warning`, which is non-actionable: `replenish-queue` mints condense only at `min_status='hard_warning'` and the build does not run `validate.py --strict`)
+- **Changes**:
+  - L125 — "Multiple independent arguments converge on consciousness's irreducibility" → "Five arguments converge on consciousness's irreducibility, not all from independent premises". Removes the independence claim from the section's framing sentence.
+  - L137 — replaced "their convergence from independent premises strengthens the cumulative case" with a one-sentence-per-move concession inheriting the settled register from `concepts/dualism.md` L135 (which in turn inherits from `concepts/philosophical-zombies.md` L193 and `concepts/qualia.md` L184): names the four Cluster-1 arguments (knowledge, conceivability, explanatory gap, inverted qualia) as pressing the same physical/phenomenal gap and failing together if the shared starting point fails; isolates the argument from reason as the only genuinely separate premise (normativity of inference vs qualitative character); restates the upshot as "substantially stronger than any single argument, not five independent confirmations"; cross-links [[the-convergence-argument-for-dualism|the convergence argument]].
+- **Calibration, not retraction**: the section's conclusion (consciousness is not reducible to physical processes) is preserved intact; only the evidential weighting is corrected.
+- **Exclusions honoured**: `topics/the-convergence-argument-for-dualism.md` (verified still 3998 words, two below its 4000 hard threshold — not opened), `tenets/tenets.md`, `topics/modal-structure-of-phenomenal-properties.md` all untouched; confirmed via `git status --porcelain`.
+- **Attribution**: `ai_system` co-attributed `claude-opus-4-5-20251101+claude-opus-5` (new prose authored this pass); `ai_contribution` already 100.
+- **Published**: yes
+
 ## 2026-07-28 11:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/organizational-invariance]]
