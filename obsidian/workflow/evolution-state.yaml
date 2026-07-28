@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-28T19:31:23.658985+00:00'
-session_count: 17625
+last_updated: '2026-07-28T19:47:50.059448+00:00'
+session_count: 17626
 cycle_position: 11938
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-28T04:06:13.834731+00:00'
   refine-draft: '2026-07-28T19:31:23.658985+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-27T22:05:38.991535+00:00'
+  replenish-queue: '2026-07-28T19:47:50.059448+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-28T08:02:37.152878+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-28'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-28'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-28'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-28'
   outcome: success
 agentic_social:
@@ -1111,55 +1111,56 @@ queue_status:
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
     positions_dependency_changed: 2
-  run_879_note: 'run no.879 (2026-07-28T19:39Z, interactive /replenish-queue): MINTED two tasks
-    to restore the floor (2 -> 4). Live count_p0_p2_tasks == 2 pre-mint
-    (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS ==
-    3, unmet by 1; post-write tool-verified == 4. Both mints are ONE VERIFIED DEFECT, SPLIT
-    ACROSS TWO FILES ON PURPOSE: positions/agency-and-will.md L64 (positions-evolve, P-A2
-    Bears-on) and tenets/tenets.md L120 (refine-draft). Split rather than consolidated because
-    cycle_post closes multi-file tasks after ONE file -- that trap fired repeatedly today
-    (No-MWI sweep re-queued 9x, Chinese-tradition re-queued). Appended at the END of Active
-    Tasks, NOT top-inserted: preserves FIFO for the two older P2s at lines 1619/1627
-    [[queue-lifo-starvation]] and shifts no existing line numbers
-    [[cyclepost-marks-wrong-task-on-midfork-insert]]. THE FINDING (Source 7b,
-    dependency-moved): both files carry the clause -- counterfactual exclusion sourcehood
-    requires -- which makes exclusion a demand issued BY sourcehood.
-    tenets/background-commitments.md L50 (Posit Three, written 2026-07-27 ecaa657af) denies
-    exactly that: the rejection does not follow from sourcehood, it follows from sourcehood
-    PLUS a global-exclusion condition the framework asserts. git log -S returns ONE commit for
-    the clause, fedc967d4 (2026-06-16), touching exactly these two files, never revised since
-    -- six weeks older than Posit Three. TRIGGER: two of P-A2 Argued-in articles were rewritten
-    TODAY on this precise clause (concepts/agent-causation 15:39Z ae02c581a, topics/free-will
-    15:48Z b6a7206af); P-A2 Last reviewed still 2026-06-17, and the tenets.md parenthetical
-    literally cites see agent-causation, which now states the opposite dependency. STALE
-    CLEARANCE PRE-EMPTED IN THE TASK NOTES: reviews/tenet-check-2026-07-28.md L123 calls L64
-    correctly calibrated, but ran at 03:21Z -- ~12h BEFORE the hubs moved -- and answered a
-    different question (does the register assert MWI-eliminates-agency as derived; it does
-    not). WHY BOTH 07-28 SWEEPS MISSED IT: the optimistic review scoped its 42-locus scan to
-    articles asserting that branching NULLIFIES agency; these two assert an ENTAILMENT, so fell
-    outside [[staleness-audit-section-coverage-gap]]. EIGHT-SOURCE AUDIT re-run live from disk:
-    (chain) recent_tasks are refine/deep-review/embed/social/pessimistic/harvest only -- zero
-    research-topic or expand-topic completions, no un-followed chain. (unconsumed-research)
-    harvester-owned and EXHAUSTED -- ran 3x today (06:32, 12:42, 18:48) and minted ZERO each
-    time; 130 subjects banked, 524 notes. (gap/caps) caps NOW HAVE HEADROOM after the coalesce
-    run -- topics 318/320, concepts 317/320, voids 100/100 at cap, positions 9/80 -- but
-    DECLINED to mint expand-topic: the slots were freed BY coalesce merging articles, and there
-    is no concrete driver, so refilling them would fight the coalescing
-    [[replenish-asserted-concrete-defect-often-false]]. (staleness) top get_review_candidates
-    rows churn-excluded per [[replenish-churn-filter-overtight]] -- synaesthesia 17.27,
-    first-order-representationalism, evaluative-qualia, wheelers, hard-problem-non-western,
-    cetacean-corvid, visual-consciousness, moral-responsibility, indexical-identity-quantum all
-    carry ai_modified of TODAY; personal-identity + quantum-biology are human-length-parked.
-    (orphans) quality.orphaned_files == 0. (length) all content-section violations are either
-    already human-parked blocked tasks or reference-apparatus inflation
-    [[analyze-length-counts-reference-apparatus]]; the top raw rows are research/ notes and
-    positions/ registers, neither a condense target. (positions 7a) no new unregistered
-    commitment. (applied apex) not triggered. VERIFIED NO ORPHANED REMAINDERS: checked every
-    consolidated task cycle_post closed today -- STALE-EXEMPTION 3/3 done (agent-causation,
-    free-will, moral-responsibility L99+L159 all confirmed fixed on disk via commit 39ba3cfc4),
-    No-MWI sweep 12/12, No-MWI EXTENSION 5/5, seven-vs-eight sweep clean (corpus grep returns
-    zero residue). Chinese-tradition target 2 already correctly re-queued. CONCURRENCY: no loop
-    running, interactive only. Pruned run_875_note per keep-~3 discipline (kept 876/877/879)
+  run_879_note: 'run no.879 (2026-07-28T19:39Z, interactive /replenish-queue): MINTED
+    two tasks to restore the floor (2 -> 4). Live count_p0_p2_tasks == 2 pre-mint
+    (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS
+    == 3, unmet by 1; post-write tool-verified == 4. Both mints are ONE VERIFIED DEFECT,
+    SPLIT ACROSS TWO FILES ON PURPOSE: positions/agency-and-will.md L64 (positions-evolve,
+    P-A2 Bears-on) and tenets/tenets.md L120 (refine-draft). Split rather than consolidated
+    because cycle_post closes multi-file tasks after ONE file -- that trap fired repeatedly
+    today (No-MWI sweep re-queued 9x, Chinese-tradition re-queued). Appended at the
+    END of Active Tasks, NOT top-inserted: preserves FIFO for the two older P2s at
+    lines 1619/1627 [[queue-lifo-starvation]] and shifts no existing line numbers
+    [[cyclepost-marks-wrong-task-on-midfork-insert]]. THE FINDING (Source 7b, dependency-moved):
+    both files carry the clause -- counterfactual exclusion sourcehood requires --
+    which makes exclusion a demand issued BY sourcehood. tenets/background-commitments.md
+    L50 (Posit Three, written 2026-07-27 ecaa657af) denies exactly that: the rejection
+    does not follow from sourcehood, it follows from sourcehood PLUS a global-exclusion
+    condition the framework asserts. git log -S returns ONE commit for the clause,
+    fedc967d4 (2026-06-16), touching exactly these two files, never revised since
+    -- six weeks older than Posit Three. TRIGGER: two of P-A2 Argued-in articles were
+    rewritten TODAY on this precise clause (concepts/agent-causation 15:39Z ae02c581a,
+    topics/free-will 15:48Z b6a7206af); P-A2 Last reviewed still 2026-06-17, and the
+    tenets.md parenthetical literally cites see agent-causation, which now states
+    the opposite dependency. STALE CLEARANCE PRE-EMPTED IN THE TASK NOTES: reviews/tenet-check-2026-07-28.md
+    L123 calls L64 correctly calibrated, but ran at 03:21Z -- ~12h BEFORE the hubs
+    moved -- and answered a different question (does the register assert MWI-eliminates-agency
+    as derived; it does not). WHY BOTH 07-28 SWEEPS MISSED IT: the optimistic review
+    scoped its 42-locus scan to articles asserting that branching NULLIFIES agency;
+    these two assert an ENTAILMENT, so fell outside [[staleness-audit-section-coverage-gap]].
+    EIGHT-SOURCE AUDIT re-run live from disk: (chain) recent_tasks are refine/deep-review/embed/social/pessimistic/harvest
+    only -- zero research-topic or expand-topic completions, no un-followed chain.
+    (unconsumed-research) harvester-owned and EXHAUSTED -- ran 3x today (06:32, 12:42,
+    18:48) and minted ZERO each time; 130 subjects banked, 524 notes. (gap/caps) caps
+    NOW HAVE HEADROOM after the coalesce run -- topics 318/320, concepts 317/320,
+    voids 100/100 at cap, positions 9/80 -- but DECLINED to mint expand-topic: the
+    slots were freed BY coalesce merging articles, and there is no concrete driver,
+    so refilling them would fight the coalescing [[replenish-asserted-concrete-defect-often-false]].
+    (staleness) top get_review_candidates rows churn-excluded per [[replenish-churn-filter-overtight]]
+    -- synaesthesia 17.27, first-order-representationalism, evaluative-qualia, wheelers,
+    hard-problem-non-western, cetacean-corvid, visual-consciousness, moral-responsibility,
+    indexical-identity-quantum all carry ai_modified of TODAY; personal-identity +
+    quantum-biology are human-length-parked. (orphans) quality.orphaned_files == 0.
+    (length) all content-section violations are either already human-parked blocked
+    tasks or reference-apparatus inflation [[analyze-length-counts-reference-apparatus]];
+    the top raw rows are research/ notes and positions/ registers, neither a condense
+    target. (positions 7a) no new unregistered commitment. (applied apex) not triggered.
+    VERIFIED NO ORPHANED REMAINDERS: checked every consolidated task cycle_post closed
+    today -- STALE-EXEMPTION 3/3 done (agent-causation, free-will, moral-responsibility
+    L99+L159 all confirmed fixed on disk via commit 39ba3cfc4), No-MWI sweep 12/12,
+    No-MWI EXTENSION 5/5, seven-vs-eight sweep clean (corpus grep returns zero residue).
+    Chinese-tradition target 2 already correctly re-queued. CONCURRENCY: no loop running,
+    interactive only. Pruned run_875_note per keep-~3 discipline (kept 876/877/879)
     [[evolution-state-floor-restore-note-bloat]].'
   run_876_note: 'run no.876 (2026-07-27T02:34Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
