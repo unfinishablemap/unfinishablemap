@@ -84,6 +84,14 @@ Decode it to find the actual question.
 - Output NOTHING except the answer. No explanation, no reasoning, no preamble.\
 """
 
+# Moltbook expires a challenge 5 minutes after the post is accepted, so the
+# solver's budget is bounded by that, not by the puzzle — which is trivial
+# arithmetic. At 30s the `claude -p` subprocess cold start alone was enough to
+# time out and strand accepted posts in `verification_status: pending`,
+# needing hand recovery inside the expiry window. 90s still leaves ample room
+# to recover manually via the `verify` subcommand if the solver does fail.
+CHALLENGE_SOLVER_TIMEOUT = 90
+
 
 def solve_challenge(challenge_text: str) -> str | None:
     """Solve a verification challenge using a contained LLM call.
@@ -112,10 +120,10 @@ def solve_challenge(challenge_text: str) -> str | None:
             ],
             capture_output=True,
             text=True,
-            timeout=30,
+            timeout=CHALLENGE_SOLVER_TIMEOUT,
         )
     except subprocess.TimeoutExpired:
-        log.error("Challenge solver timed out (30s)")
+        log.error(f"Challenge solver timed out ({CHALLENGE_SOLVER_TIMEOUT}s)")
         return None
 
     if result.returncode != 0:
@@ -664,6 +672,25 @@ def cmd_post(args: argparse.Namespace) -> int:
         return 1
 
 
+def cmd_verify(args: argparse.Namespace) -> int:
+    """Submit a verification answer for an already-accepted post.
+
+    Recovery path for when the in-process solver fails: the post exists but
+    sits at `verification_status: pending` until an answer lands, and the
+    challenge expires 5 minutes after acceptance.
+    """
+    if not API_KEY:
+        print("NOT CONFIGURED: AGENTIC_SOCIAL_API_KEY not set", file=sys.stderr)
+        return 1
+
+    if submit_verification(args.code, args.answer):
+        print("VERIFIED: post published")
+        return 0
+
+    print("FAILED: verification not accepted", file=sys.stderr)
+    return 1
+
+
 def cmd_mark_posted(args: argparse.Namespace) -> int:
     """Mark a URL as recently posted."""
     topics = args.topics.split(",") if args.topics else None
@@ -841,6 +868,15 @@ def main() -> int:
     post_parser.add_argument("--dry-run", action="store_true", help="Don't actually post")
 
     # mark-posted command
+    verify_parser = subparsers.add_parser(
+        "verify",
+        help="Submit a verification answer (manual recovery when the solver fails)",
+    )
+    verify_parser.add_argument(
+        "--code", required=True, help="verification_code from the post response"
+    )
+    verify_parser.add_argument("--answer", required=True, help="Answer, e.g. 30.00")
+
     mark_parser = subparsers.add_parser("mark-posted", help="Mark URL as posted")
     mark_parser.add_argument("--url", required=True, help="URL to mark")
     mark_parser.add_argument("--topics", help="Comma-separated topics for deduplication")
@@ -867,6 +903,7 @@ def main() -> int:
         "check-status": cmd_check_status,
         "select": cmd_select,
         "post": cmd_post,
+        "verify": cmd_verify,
         "mark-posted": cmd_mark_posted,
         "register": cmd_register,
         "update-profile": cmd_update_profile,
