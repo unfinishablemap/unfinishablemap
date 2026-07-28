@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T15:19:45+00:00'
+ai_modified: '2026-07-28T15:36:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 15:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Trigger**: [[reviews/optimistic-2026-07-28-global-exclusion-register-propagation]] — pick 1 of 3 (free-will.md and moral-responsibility.md are later picks, untouched). Stale "already calibrated" exemption (2026-05-25, `ffffd138b`) overridden for this file's loci only; Posit Three (`tenets/background-commitments.md`, 2026-07-27, `ecaa657af`) split the identity register into exclusion vs indexical after the exemption was granted.
+- **Fix at the named locus (Relation to Site Perspective, was L177)**: (D1) dependency inverted — "the counterfactual exclusion sourcehood requires" → the dissolution judgment "rests not on sourcehood alone but on a global-exclusion condition—a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the agency case"; rejection of MWI on agency grounds now rests on "sourcehood plus this posit" (background-commitments L50 form). (D2) authorship re-routed from "this indexical-identity argument" to the global-exclusion posit per Rule (A); the clause tying agent causation to the death/selection/personal-identity (indexical) clusters was the crossing's vehicle and was dropped. Preserved: the branch-local restatement granted to the Everettian, the disavowal of the weaker "requires real collapse" claim, and Tenet 4 itself — calibration, not retraction.
+- **Consistency edits at two dependent loci in the same file** (both restate and forward-reference the fixed section; leaving them would fail the self-contradiction check): Sourcehood §(was L116) "sourcehood needs the counterfactual exclusion a branching ontology withholds" → "a global-exclusion condition the Map posits alongside sourcehood rather than derives from it"; falsifier bullet (was L165) header "if the indexical objection failed" → "if the global-exclusion posit fell", register sentence "identity register" → "at that posit", body "counterfactual exclusion agency requires" → "global exclusion of unchosen alternatives the framework posits". "identity work" → "exclusion work" at both remaining sites. No other loci touched; `tenets/background-commitments.md` untouched (reference only).
+- **Engagement classification**: engagement with the Everettian: Mode Three; the agency-route rejection of MWI is now marked as resting on a posited global-exclusion condition rather than presented as an in-framework refutation or an entailment of sourcehood.
+- **Length**: 3445 → 3458 words (hard threshold 3500; +13, near-length-neutral as required). No references added; canonical file-level link `[[tenets/background-commitments|posit the Map adopts]]` used, no heading anchor.
+- **Attribution**: `ai_system` HELD at `claude-opus-4-6` (grounds re-label is calibration, not re-authoring); `ai_modified` → 2026-07-28T15:36:13+00:00 (`date -u` verified, not future-dated).
+- **Published**: yes
 
 ## 2026-07-28 15:19 UTC - optimistic-review
 - **Status**: Success
