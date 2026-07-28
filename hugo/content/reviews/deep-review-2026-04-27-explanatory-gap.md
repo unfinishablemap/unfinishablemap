@@ -21,7 +21,7 @@ topics: []
 **Date**: 2026-04-27
 **Article**: [The Explanatory Gap](/concepts/explanatory-gap/)
 **Previous review**: [2026-03-23](/reviews/deep-review-2026-03-23-explanatory-gap/)
-**Trigger**: Cross-review prompted by creation of [hard-problem-of-content](/concepts/hard-problem-of-content/) (2026-04-27)
+**Trigger**: Cross-review prompted by creation of [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) (2026-04-27)
 
 ## Pessimistic Analysis Summary
 
@@ -31,7 +31,7 @@ None. The previous four reviews have driven the article to convergence. Attribut
 
 ### Medium Issues Found
 
-- **Missing cross-link to newly published [hard-problem-of-content](/concepts/hard-problem-of-content/)**: The HPoC article (created 2026-04-27) explicitly frames itself as a structural parallel to the explanatory gap, identifying the same naturalistic failure in the domain of aboutness rather than experience. The convergence-of-arguments passage was the natural integration point. **Resolution**: Added a sentence at the cross-cultural convergence passage and a Further Reading entry; added to concepts frontmatter array.
+- **Missing cross-link to newly published [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/)**: The HPoC article (created 2026-04-27) explicitly frames itself as a structural parallel to the explanatory gap, identifying the same naturalistic failure in the domain of aboutness rather than experience. The convergence-of-arguments passage was the natural integration point. **Resolution**: Added a sentence at the cross-cultural convergence passage and a Further Reading entry; added to concepts frontmatter array.
 
 ### Counterarguments Considered
 
@@ -68,14 +68,14 @@ For the new HPoC reference:
 
 ### Enhancements Made
 
-- **Added cross-link to [hard-problem-of-content](/concepts/hard-problem-of-content/)** in the convergence passage, with explicit acknowledgement that Hutto and Myin's positive programme is naturalist
-- **Added [hard-problem-of-content](/concepts/hard-problem-of-content/) to Further Reading** with descriptive subtitle
-- **Added [hard-problem-of-content](/concepts/hard-problem-of-content/) to concepts frontmatter** for graph integration
+- **Added cross-link to [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/)** in the convergence passage, with explicit acknowledgement that Hutto and Myin's positive programme is naturalist
+- **Added [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) to Further Reading** with descriptive subtitle
+- **Added [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) to concepts frontmatter** for graph integration
 - **Length-neutral trims**: Tightened the Levine "modest reading has problems" paragraph (66→48 words) and the Future Science physicalist response (71→47 words). Both passages had redundant water/H₂O references already established earlier in the article.
 
 ### Cross-links Added
 
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) — at convergence passage, in Further Reading, and in concepts frontmatter
+- [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) — at convergence passage, in Further Reading, and in concepts frontmatter
 
 ## Word Count
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-07-14
-**Article**: [Hutto-Myin's Hard Problem of Content](/concepts/hard-problem-of-content/)
+**Article**: [Hutto-Myin's Hard Problem of Content](/topics/the-naturalisation-failure-for-content/)
 **Previous review**: [2026-06-15](/reviews/deep-review-2026-06-15-hard-problem-of-content/) (4th prior review; convergent)
 
 ## Lens Selected: Verbatim Quote-Fidelity (Orthogonal)

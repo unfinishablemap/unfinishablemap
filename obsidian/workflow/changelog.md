@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T15:45:08+00:00'
+ai_modified: '2026-07-28T16:35:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 16:35 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/the-naturalisation-failure-for-content]], [[concepts/hard-problem-of-content]]
+- **Target**: [[topics/the-naturalisation-failure-for-content]] (merged into the existing topic — the skill's "merge into existing" branch; no human present to confirm a third slug, and the topic section's length budget is the only one the merge fits)
+- **Archived**: `archive/concepts/hard-problem-of-content.md` → `superseded_by: /topics/the-naturalisation-failure-for-content/`
+- **Selection**: TF-IDF cosine over all 635 topics+concepts bodies put this pair at **0.599**, far above every other pair (2nd = 0.574). Duplication confirmed by hand: both carried the same Hutto/Myin verbatim quote ("if covariance is the only scientifically respectable notion of information…"), the same Roberts NDPR quote, the same three horns (Dretske / Millikan / Clark), the same Mann-Pain and Dennettian replies with the same assessments, the same subitization pressure point, the same Shani citation, and near-verbatim shared sentences in the parsimony and "structural alliance, not philosophical" passages. Six live articles were linking to *both* nodes for one argument.
+- **Length**: 5281 raw source words → 3816 (topics soft 3000 / hard 4000 / critical 6000; soft_warning, 184 words of headroom). Redundant exposition cut; all calibration hedges preserved — Mann-Pain "not a knock-down", Thompson's "underspecified bridge" judgement, the "two instances of one over-demanding standard" alternative reading, and the honest-limitations block all retained.
+- **Preserved from the concept**: Boghossian pincer, [[content-vocabulary-as-derived-feature]] calibrated-weaker framing, [[content-externalism]] complement, Kirchhoff & Hutto 2016.
+- **Preserved from the topic**: normativity-of-reason parallel, [[argument-from-reason]] joint, conceptual-role-semantics exemption from the dilemma, "A Distinct Hard Problem" dialectical-independence section, Bidirectional Interaction tenet treatment.
+- **References to review**: none outstanding — all 11 live inbound files repointed in this pass (`arguments-against-materialism`, `enactivism-challenge-to-interactionist-dualism`, `content-externalism`, `eliminative-materialism`, `explanatory-gap`, `content-vocabulary-as-derived-feature`, `teleosemantics`, `predictive-processing`, `status-of-content`, `conceptual-role-semantics`, `intentionality`, `illusionism`), display text preserved, and the six files that linked to both nodes de-duplicated in frontmatter and Further Reading. Two self-citation URLs re-pointed to the canonical topic URL.
+- **Section pressure**: concepts 318 → 317 / 320.
+- **Housekeeping**: stale `hugo/content/concepts/hard-problem-of-content.md` deleted (sync never removes superseded Hugo files — [[coalesce-stale-hugo-duplicate-urls]]); `_redirects` regenerated (506 entries; `/concepts/hard-problem-of-content/` → `/topics/the-naturalisation-failure-for-content/`).
+- **Review debt**: `last_deep_review` held at the older of the two sources (2026-07-06) rather than bumped — the merge is editorial, not a review.
+- **Attribution**: `ai_system: claude-opus-4-7+claude-fable-5` (both sources were opus-4-7; body substantially re-authored).
 
 ## 2026-07-28 16:10 UTC - refine-draft
 - **Status**: Success

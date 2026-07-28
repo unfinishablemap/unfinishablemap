@@ -23,16 +23,16 @@ topics:
 **Date**: 2026-04-27
 **Article**: [Eliminative Materialism](/topics/eliminative-materialism/)
 **Previous review**: [2026-04-26](/reviews/deep-review-2026-04-26-eliminative-materialism/)
-**Trigger**: Cross-review prompted by publication of [hard-problem-of-content](/concepts/hard-problem-of-content/) (2026-04-27)
+**Trigger**: Cross-review prompted by publication of [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) (2026-04-27)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Factual error: publication date** (line 103, line 164): Article cited Hutto and Myin's *Radicalizing Enactivism* as 2012; the MIT Press publication year is 2013. The newly-published [hard-problem-of-content](/concepts/hard-problem-of-content/) article uses the correct date. Resolution: corrected to 2013 in body and references.
+- **Factual error: publication date** (line 103, line 164): Article cited Hutto and Myin's *Radicalizing Enactivism* as 2012; the MIT Press publication year is 2013. The newly-published [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) article uses the correct date. Resolution: corrected to 2013 in body and references.
 
 ### Medium Issues Found
-- **Missing cross-link to newly published [hard-problem-of-content](/concepts/hard-problem-of-content/)**: The article briefly summarises Hutto-Myin but does not link to the dedicated treatment that exists as of 2026-04-27. Resolution: added wikilink in the section header phrase and added Further Reading entry.
-- **Missing the pincer framing**: The new [hard-problem-of-content](/concepts/hard-problem-of-content/) article frames Hutto-Myin and Boghossian as a pincer against naturalistic eliminativism (irrealism cannot be coherently asserted; realism cannot be naturalised). This insight enriches the article's existing engagement with both arguments. Resolution: added one sentence stating the pincer framing with cross-link to [status-of-content](/concepts/status-of-content/).
+- **Missing cross-link to newly published [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/)**: The article briefly summarises Hutto-Myin but does not link to the dedicated treatment that exists as of 2026-04-27. Resolution: added wikilink in the section header phrase and added Further Reading entry.
+- **Missing the pincer framing**: The new [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) article frames Hutto-Myin and Boghossian as a pincer against naturalistic eliminativism (irrealism cannot be coherently asserted; realism cannot be naturalised). This insight enriches the article's existing engagement with both arguments. Resolution: added one sentence stating the pincer framing with cross-link to [status-of-content](/concepts/status-of-content/).
 - **Missing cross-link to [status-of-content](/concepts/status-of-content/)**: The article references Boghossian extensively (in self-refutation paragraph) but does not link to the dedicated article on his argument. Resolution: added Further Reading entry.
 
 ### Counterarguments Considered
@@ -62,7 +62,7 @@ topics:
 - Tightened verbose buddhism-and-dualism Further Reading entry (Madhyamaka digression compressed to a single phrase)
 
 ### Cross-links Added
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) — at first mention in body and in Further Reading
+- [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) — at first mention in body and in Further Reading
 - [status-of-content](/concepts/status-of-content/) — in pincer sentence and in Further Reading
 
 ## Length Status
@@ -85,6 +85,6 @@ This review confirms convergence noted in the previous review. The bedrock disag
 - Illusionist objection to phenomenal-evidence-as-foundational
 - Popperian objection about falsifiability of irreducibility claim
 
-The article continues to handle these honestly as bedrock dialectical positions rather than as fixable flaws. The current cross-review made only targeted integration moves with the newly-published [hard-problem-of-content](/concepts/hard-problem-of-content/) article and corrected one factual error. No fundamental restructuring was warranted.
+The article continues to handle these honestly as bedrock dialectical positions rather than as fixable flaws. The current cross-review made only targeted integration moves with the newly-published [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) article and corrected one factual error. No fundamental restructuring was warranted.
 
 Future cross-reviews should similarly focus on integration with newly-published cluster articles rather than re-engaging with stable philosophical disagreements.

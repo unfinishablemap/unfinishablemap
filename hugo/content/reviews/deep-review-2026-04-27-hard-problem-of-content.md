@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-04-27
-**Article**: [Hutto-Myin's Hard Problem of Content](/concepts/hard-problem-of-content/)
+**Article**: [Hutto-Myin's Hard Problem of Content](/topics/the-naturalisation-failure-for-content/)
 **Previous review**: Never
 **Word count**: 1881 → 2024 (+143)
 

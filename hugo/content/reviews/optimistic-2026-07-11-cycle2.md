@@ -12,7 +12,7 @@ title: Optimistic Review - 2026-07-11 (cycle 2)
 # Optimistic Review
 
 **Date**: 2026-07-11
-**Content reviewed**: Whole-corpus pass (287 concepts, 317 topics, tenets, apex, positions, research notes). Close reads of [concepts/symbol-grounding-problem.md](/concepts/symbol-grounding-problem/), [concepts/hard-problem-of-content.md](/concepts/hard-problem-of-content/), and the dualism family ([concepts/dualism.md](/concepts/dualism/), `interactionist-dualism.md`, `substance-property-dualism.md`, `agent-causation.md`, `pairing-problem.md`, `objections-to-interactionism.md`). Grep-density gap-scan across `concepts/` and `topics/`.
+**Content reviewed**: Whole-corpus pass (287 concepts, 317 topics, tenets, apex, positions, research notes). Close reads of [concepts/symbol-grounding-problem.md](/concepts/symbol-grounding-problem/), [concepts/hard-problem-of-content.md](/topics/the-naturalisation-failure-for-content/), and the dualism family ([concepts/dualism.md](/concepts/dualism/), `interactionist-dualism.md`, `substance-property-dualism.md`, `agent-causation.md`, `pairing-problem.md`, `objections-to-interactionism.md`). Grep-density gap-scan across `concepts/` and `topics/`.
 
 Two earlier optimistic reviews already ran on 2026-07-11 (`optimistic-2026-07-11.md`, naming the rival-theory slots first-order-representationalism / recurrent-processing / biological-naturalism / self-model; and `optimistic-2026-07-11-cycle.md`, naming Yogācāra / epistemicism / organizational-invariance). This pass deliberately searches for territory **beyond** both, per instructions.
 

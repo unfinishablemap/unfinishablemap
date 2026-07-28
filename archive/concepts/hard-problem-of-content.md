@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-07-13T06:32:00+00:00
 last_deep_review: 2026-07-14T21:46:54+00:00
 draft: false
+archived: true
+archived_date: 2026-07-28T16:35:34+00:00
+superseded_by: "/topics/the-naturalisation-failure-for-content/"
+archive_reason: "Coalesced into The Naturalisation Failure for Content"
+original_path: "/concepts/hard-problem-of-content/"
 topics:
   - "[[the-naturalisation-failure-for-content]]"
   - "[[enactivism-challenge-to-interactionist-dualism]]"

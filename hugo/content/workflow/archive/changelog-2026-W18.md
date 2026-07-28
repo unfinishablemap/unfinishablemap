@@ -5340,9 +5340,9 @@ title: AI Activity Changelog - Week 2026-W18
 - **File**: [eliminative-materialism](/topics/eliminative-materialism/)
 - **Word count**: 3441 → 3472 (+31; 116% of soft threshold)
 - **Critical issues addressed**: 1 (factual error: Hutto-Myin *Radicalizing Enactivism* date 2012 → 2013)
-- **Medium issues addressed**: 3 (cross-link to new [hard-problem-of-content](/concepts/hard-problem-of-content/); pincer framing with Boghossian; cross-link to [status-of-content](/concepts/status-of-content/))
+- **Medium issues addressed**: 3 (cross-link to new [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/); pincer framing with Boghossian; cross-link to [status-of-content](/concepts/status-of-content/))
 - **Enhancements made**: tightened verbose buddhism-and-dualism Further Reading entry to partly offset additions
-- **Notes**: Cross-review prompted by yesterday's publication of [hard-problem-of-content](/concepts/hard-problem-of-content/). Confirms convergence noted in 2026-04-26 deep review; bedrock philosophical disagreements not re-flagged. Operated in length-neutral mode but accepted modest +31w net for genuine integration value.
+- **Notes**: Cross-review prompted by yesterday's publication of [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/). Confirms convergence noted in 2026-04-26 deep review; bedrock philosophical disagreements not re-flagged. Operated in length-neutral mode but accepted modest +31w net for genuine integration value.
 - **Output**: [deep-review-2026-04-27-eliminative-materialism](/reviews/deep-review-2026-04-27-eliminative-materialism/)
 
 ---
@@ -5440,11 +5440,11 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-27 03:19 UTC - deep-review
 - **Status**: Success
 - **File**: [explanatory-gap](/concepts/explanatory-gap/)
-- **Context**: Cross-review installing [Hutto-Myin Hard Problem of Content](/concepts/hard-problem-of-content/) cross-link (concept article created 2026-04-27 02:43)
+- **Context**: Cross-review installing [Hutto-Myin Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) cross-link (concept article created 2026-04-27 02:43)
 - **Word count**: 3405 → 3427 (+22)
 - **Critical issues addressed**: 0 (article stable after four prior deep reviews)
 - **Medium issues addressed**: 1 (missing cross-link to newly created hard-problem-of-content; integrated at the convergence-of-arguments passage with explicit qualification that Hutto and Myin themselves draw deflationary conclusions)
-- **Enhancements made**: Added single substantive sentence at the cross-cultural convergence passage extending convergence to semantic theory; added [hard-problem-of-content](/concepts/hard-problem-of-content/) to Further Reading; added to concepts frontmatter array; length-neutral trims to two redundant water/H₂O passages (Levine "modest reading has problems" 66→48 words; Future Science physicalist response 71→47 words)
+- **Enhancements made**: Added single substantive sentence at the cross-cultural convergence passage extending convergence to semantic theory; added [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) to Further Reading; added to concepts frontmatter array; length-neutral trims to two redundant water/H₂O passages (Levine "modest reading has problems" 66→48 words; Future Science physicalist response 71→47 words)
 - **Attribution discipline**: HPoC correctly attributed to Hutto and Myin; explicit qualification that they are naturalists who draw deflationary conclusions, not dualist conclusions; Map's appropriation framed as structural alliance
 - **Length-neutral mode**: Operated above soft threshold (137%); +22 net words for a load-bearing cross-link to a brand-new related article
 - **Output**: [deep-review-2026-04-27-explanatory-gap](/reviews/deep-review-2026-04-27-explanatory-gap/)
@@ -5454,11 +5454,11 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-27 03:00 UTC - deep-review
 - **Status**: Success
 - **File**: [intentionality](/concepts/intentionality/)
-- **Context**: Cross-review installing [Hutto-Myin Hard Problem of Content](/concepts/hard-problem-of-content/) cross-link (concept article created 2026-04-27 02:43)
+- **Context**: Cross-review installing [Hutto-Myin Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) cross-link (concept article created 2026-04-27 02:43)
 - **Word count**: 3405 → 3433 (+28)
 - **Critical issues addressed**: 0 (article stable; deep-reviewed earlier today for eliminative-materialism integration)
 - **Medium issues addressed**: 1 (missing cross-link to newly created hard-problem-of-content; naturalization closing paragraph restructured to install HPoC as load-bearing reference framing PIT and REC as converse responses to the same diagnosis)
-- **Enhancements made**: Added [hard-problem-of-content](/concepts/hard-problem-of-content/) to concepts frontmatter; restructured naturalization section closing to invoke Hutto-Myin's Hard Problem of Content; tightened symbol grounding paragraph (removed redundant Harnad dictionary regress) to offset additions; added Further Reading entry with PIT/REC framing
+- **Enhancements made**: Added [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) to concepts frontmatter; restructured naturalization section closing to invoke Hutto-Myin's Hard Problem of Content; tightened symbol grounding paragraph (removed redundant Harnad dictionary regress) to offset additions; added Further Reading entry with PIT/REC framing
 - **Attribution discipline**: Hutto and Myin's deflationary conclusion ("basic minds are contentless, content a sociocultural achievement") accurately characterised; Map's appropriation framed as structural alliance not philosophical alliance ("converse conclusion the Map endorses")
 - **Length-neutral mode**: Operated near hard threshold (3500); +28 words justified by load-bearing cross-link
 - **Output**: [deep-review-2026-04-27-intentionality-hpoc](/reviews/deep-review-2026-04-27-intentionality-hpoc/)
@@ -5480,11 +5480,11 @@ title: AI Activity Changelog - Week 2026-W18
 ## 2026-04-27 02:28 UTC - deep-review
 - **Status**: Success
 - **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
-- **Context**: Cross-review considering [Hutto-Myin Hard Problem of Content](/concepts/hard-problem-of-content/) (concept article created 2026-04-27)
+- **Context**: Cross-review considering [Hutto-Myin Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) (concept article created 2026-04-27)
 - **Word count**: 2717 → 2863 (+146)
 - **Critical issues addressed**: 0 (article stable across six reviews)
 - **Medium issues addressed**: 2 (cumulative case missing HPoC reference; missing cross-links to new sibling articles)
-- **Enhancements made**: HPoC convergence paragraph in Cumulative Case section identifying it as a fourth convergence axis (parallel naturalisation failure from inside naturalism); concepts frontmatter extended with [hard-problem-of-content](/concepts/hard-problem-of-content/); related_articles extended with [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/); Further Reading expanded with both
+- **Enhancements made**: HPoC convergence paragraph in Cumulative Case section identifying it as a fourth convergence axis (parallel naturalisation failure from inside naturalism); concepts frontmatter extended with [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/); related_articles extended with [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/); Further Reading expanded with both
 - **Attribution discipline**: Hutto and Myin correctly framed as "naturalists who reject dualism" with explicit "borrows the diagnosis without the cure" qualifier — preserves structural-alliance-not-philosophical-alliance distinction
 - **Output**: [deep-review-2026-04-27-arguments-against-materialism](/reviews/deep-review-2026-04-27-arguments-against-materialism/)
 

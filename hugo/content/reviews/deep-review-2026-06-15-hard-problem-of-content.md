@@ -21,7 +21,7 @@ topics: []
 ---
 
 **Date**: 2026-06-15
-**Article**: [Hutto-Myin's Hard Problem of Content](/concepts/hard-problem-of-content/)
+**Article**: [Hutto-Myin's Hard Problem of Content](/topics/the-naturalisation-failure-for-content/)
 **Previous reviews**: [2026-06-01](/reviews/deep-review-2026-06-01-hard-problem-of-content/), [2026-04-30](/reviews/deep-review-2026-04-30-hard-problem-of-content/), [2026-04-27](/reviews/deep-review-2026-04-27-hard-problem-of-content/)
 **Word count**: 2165 → 2165 (no change; body unmodified)
 **Status**: Converged. No critical issues. No edits applied.

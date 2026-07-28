@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-27
 **Article**: [Intentionality](/concepts/intentionality/)
 **Previous review**: [2026-04-27 (eliminative-materialism cross-review)](/reviews/deep-review-2026-04-27-intentionality/)
-**Cross-review context**: Installing link to newly created [Hutto-Myin's Hard Problem of Content](/concepts/hard-problem-of-content/) (created 2026-04-27 02:43)
+**Cross-review context**: Installing link to newly created [Hutto-Myin's Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) (created 2026-04-27 02:43)
 
 ## Pessimistic Analysis Summary
 
@@ -53,13 +53,13 @@ None. The article was deep-reviewed earlier today; no new content has destabilis
 - Eliminativist Challenge two-channel structure unchanged
 
 ### Enhancements Made
-- Added [hard-problem-of-content](/concepts/hard-problem-of-content/) to concepts frontmatter
+- Added [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) to concepts frontmatter
 - Restructured naturalization section closing to install HPoC as load-bearing cross-link rather than ornamental mention
 - Tightened symbol grounding paragraph (removed redundant Harnad dictionary regress example) to offset HPoC additions
 - Added Further Reading entry framing PIT and REC as converse responses
 
 ### Cross-links Added
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) (frontmatter, body, Further Reading)
+- [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) (frontmatter, body, Further Reading)
 
 ## Length Management
 

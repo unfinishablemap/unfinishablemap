@@ -16,7 +16,6 @@ concepts:
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
-- '[[hard-problem-of-content]]'
 - '[[decoherence]]'
 - '[[semantic-memory]]'
 - '[[binding-problem]]'
@@ -84,7 +83,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: symbols cannot acquire meaning intrinsic to the system without some foothold in genuine understanding.
 
-No naturalistic theory has achieved consensus after over a century of attempts. Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical. The [naturalisation failure for content](/topics/the-naturalisation-failure-for-content/) topic article develops this diagnosis as a stand-alone argument running parallel to the phenomenal hard problem. The [meaning void](/voids/meaning-void/) explores why the mechanism of reference may lie below the threshold of formal modelling, supporting the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet.
+No naturalistic theory has achieved consensus after over a century of attempts. Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical. The [naturalisation failure for content](/topics/the-naturalisation-failure-for-content/) topic article develops this diagnosis as a stand-alone argument running parallel to the phenomenal hard problem. The [meaning void](/voids/meaning-void/) explores why the mechanism of reference may lie below the threshold of formal modelling, supporting the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet.
 
 ## Phenomenal Intentionality Theory
 
@@ -246,8 +245,7 @@ Intentionality connects to all five foundational tenets:
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Does thinking itself have phenomenal character that grounds content?
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The phenomenal intentionality case applied to thought
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's structural argument that naturalism cannot deliver semantic content; PIT and REC are converse responses
-- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — Topic-level treatment: the dilemma against covariation, teleosemantics, and predictive processing, and what the Map inherits from the diagnosis
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — Hutto and Myin's argument that naturalism cannot deliver semantic content; PIT and REC are converse responses
 - [conceptual-role-semantics](/concepts/conceptual-role-semantics/) — Content from inferential role, and the Map's reply that correct-inference norms are already semantic
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
 - [functionalism](/concepts/functionalism/) — A view that PIT challenges

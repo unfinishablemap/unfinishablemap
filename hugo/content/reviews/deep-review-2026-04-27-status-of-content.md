@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-27
 **Article**: [The Status of Content: Boghossian's Sophisticated Self-Refutation](/concepts/status-of-content/)
 **Previous review**: [2026-04-26](/reviews/deep-review-2026-04-26-status-of-content/)
-**Cross-review context**: Triggered by [concepts/eliminative-materialism.md](/topics/eliminative-materialism/)'s dedicated treatment and the creation of [concepts/hard-problem-of-content.md](/concepts/hard-problem-of-content/) earlier today (commit `7b582251a`).
+**Cross-review context**: Triggered by [concepts/eliminative-materialism.md](/topics/eliminative-materialism/)'s dedicated treatment and the creation of [concepts/hard-problem-of-content.md](/topics/the-naturalisation-failure-for-content/) earlier today (commit `7b582251a`).
 
 ## Cross-Review Findings
 
@@ -27,7 +27,7 @@ The previous review (2026-04-26) explicitly noted under Remaining Items: "When [
 
 Cross-checking against [topics/eliminative-materialism.md](/topics/eliminative-materialism/): the topic article presents Boghossian's argument as one of three principal objections in its "Principal Objections > The self-refutation objection" paragraph, with consistent framing — Boghossian's version "has more force, but the literature has not converged" and the Map "should not lean on self-refutation as if it were a knockdown argument." No internal contradictions between the two articles. The topic article does not currently link back to status-of-content; that is a separate gap requiring an edit on the topic article (out of scope here).
 
-Cross-checking against [concepts/hard-problem-of-content.md](/concepts/hard-problem-of-content/): the new article already references status-of-content as the pincer partner ("Together these form what the [treatment of Boghossian](/concepts/status-of-content/) calls a pincer"). The two articles can now mutually reinforce.
+Cross-checking against [concepts/hard-problem-of-content.md](/topics/the-naturalisation-failure-for-content/): the new article already references status-of-content as the pincer partner ("Together these form what the [treatment of Boghossian](/concepts/status-of-content/) calls a pincer"). The two articles can now mutually reinforce.
 
 ## Pessimistic Analysis Summary
 
@@ -76,8 +76,8 @@ All strengths from the previous review are preserved unchanged:
 
 ### Enhancements Made
 
-- Pincer paragraph now articulates the parallel as "content irrealism cannot be coherently asserted" (Boghossian) vs "content realism cannot be naturalised" (Hutto-Myin), matching the formulation used in [concepts/hard-problem-of-content.md](/concepts/hard-problem-of-content/). This makes the structural alliance crisper without expanding word count materially.
-- Added pointer sentence: "The Map's dedicated treatment of the second arm (in [hard-problem-of-content](/concepts/hard-problem-of-content/)) develops the structural alliance more fully." Lets readers navigate to the deeper treatment without the article having to itself develop Hutto-Myin in detail.
+- Pincer paragraph now articulates the parallel as "content irrealism cannot be coherently asserted" (Boghossian) vs "content realism cannot be naturalised" (Hutto-Myin), matching the formulation used in [concepts/hard-problem-of-content.md](/topics/the-naturalisation-failure-for-content/). This makes the structural alliance crisper without expanding word count materially.
+- Added pointer sentence: "The Map's dedicated treatment of the second arm (in [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/)) develops the structural alliance more fully." Lets readers navigate to the deeper treatment without the article having to itself develop Hutto-Myin in detail.
 
 ### Cross-links Added
 

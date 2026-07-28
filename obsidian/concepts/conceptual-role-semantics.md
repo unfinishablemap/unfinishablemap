@@ -9,7 +9,6 @@ last_deep_review: 2026-07-13T11:55:15+00:00
 draft: false
 topics: []
 concepts:
-  - hard-problem-of-content
   - teleosemantics
   - intentionality
   - content-externalism
@@ -57,12 +56,11 @@ The Map's counter turns on a dilemma internal to CRS itself, and it is important
 
 Two-factor CRS does not evade the fork. Its narrow inferential factor faces the same normativity regress on horn (a); and its need for a *separate* wide referential factor is, on the Map's reading, a concession that the world-directed, truth-evaluable dimension of thought is exactly what inferential role cannot supply — which is the naturalisation-failure diagnosis restated in the theory's own architecture. Brandom's Sellarsian pedigree (see [[sellars-manifest-and-scientific-images|Sellars' manifest and scientific images]]) is instructive here: the autonomy of the space of reasons that inferentialism prizes is congenial to the Map's anti-reductionism, but Sellars aimed to naturalise the manifest image within a scientific one, and it is that final reductive step the Map resists. The space of reasons, the Map holds, is real and irreducible — which is why inferential role illuminates the *structure* of content without naturalising its existence.
 
-The upshot for the [[hard-problem-of-content|hard problem of content]] and for [[intentionality]] generally: CRS earns its place as the naturalisation programme that does not start from covariance, and it survives the holism objection well enough to remain a live rival. But it constitutes content only by helping itself to correct-inference norms that are themselves either irreducibly normative-semantic or, when deflated, no more content-constituting than the covariance it was meant to replace. On the Map's considered view, that is not a naturalisation of content but a redescription of where the irreducibility lives.
+The upshot for the [[the-naturalisation-failure-for-content|hard problem of content]] and for [[intentionality]] generally: CRS earns its place as the naturalisation programme that does not start from covariance, and it survives the holism objection well enough to remain a live rival. But it constitutes content only by helping itself to correct-inference norms that are themselves either irreducibly normative-semantic or, when deflated, no more content-constituting than the covariance it was meant to replace. On the Map's considered view, that is not a naturalisation of content but a redescription of where the irreducibility lives.
 
 ## Further Reading
 
 - [[the-naturalisation-failure-for-content]]
-- [[hard-problem-of-content]]
 - [[teleosemantics]]
 - [[intentionality]]
 - [[content-externalism]]

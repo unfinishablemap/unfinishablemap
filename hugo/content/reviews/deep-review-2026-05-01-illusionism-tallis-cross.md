@@ -63,7 +63,7 @@ The other five adversarial personas re-engaged briefly. None identified new crit
 - Moorean argument section with Loginov 2024 rehabilitation.
 - Structural Convergence with Epiphenomenalism section.
 - Structural Parallel with Content Irrealism section, including the careful "Honest limitation" paragraph noting Hutto-and-Myin and Boghossian do not endorse illusionism.
-- All cross-references to [functional-seeming](/concepts/functional-seeming/), [eliminative-materialism](/topics/eliminative-materialism/), [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/), [hard-problem-of-content](/concepts/hard-problem-of-content/), [status-of-content](/concepts/status-of-content/), and [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/).
+- All cross-references to [functional-seeming](/concepts/functional-seeming/), [eliminative-materialism](/topics/eliminative-materialism/), [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/), [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/), [status-of-content](/concepts/status-of-content/), and [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/).
 
 ### Enhancements Made
 - 60-word dialectical caveat added to the "Infinite Regress Problem" section, with two intra-document forward-references.

@@ -8,7 +8,6 @@ concepts:
 - intentionality
 - teleosemantics
 - functionalism
-- hard-problem-of-content
 created: 2026-07-13
 date: &id001 2026-07-13
 description: 'A human-AI examination of content externalism: how Twin Earth pressures
@@ -21,7 +20,8 @@ last_deep_review: 2026-07-20 00:13:57+00:00
 modified: *id001
 related_articles: []
 title: Content Externalism and the Twin Earth Argument
-topics: []
+topics:
+- the-naturalisation-failure-for-content
 ---
 
 Content externalism is the thesis that what a thought is *about* is not fixed by the thinker's intrinsic physical state alone — the environment and the linguistic community it is embedded in partly constitute its content. Its slogan, Putnam's "meanings just ain't in the head," matters to the Map because it is a result from *inside* the materialist camp that nonetheless shows intrinsic physical state underdetermines content: two atom-for-atom duplicates can differ in what their thoughts refer to. The Map's considered position, given its commitment to [Dualism](/tenets/), is a **hybrid** — externalist about wide *intentional* content (aboutness, reference) while internalist about *phenomenal* content (felt character). This split (developed in [The phenomenal–intentional split](#the-phenomenal-intentional-split) below) is exactly what the Map's phenomenal-constitution stance needs, and it lets the Map cite externalism as a positioned thesis rather than re-derive it in every article on content.
@@ -50,18 +50,17 @@ The Map's position is the hybrid: **accept externalism for wide intentional cont
 
 This bears directly on the first tenet, [Dualism](/tenets/). Anti-individualism about content is a pressure point against purely internalist *physical* accounts of mind: if content were fixed by intrinsic physical facts, intrinsic duplicates could not differ in content — yet they do. That is a materialist-camp concession that intrinsic physical state underdetermines content, one more instance of the pattern the Map calls [concession-convergence](/concepts/concession-convergence/). But the Map does not over-read it. Externalism as Putnam and Burge intend it is a naturalistic thesis; it does not by itself entail dualism, and a committed physicalist can accept wide content while denying any non-physical grounding. What the result does is remove one tempting refuge — the idea that a tidy internalist physics of the head fixes everything mental — and thereby clear space for the Map's stronger claim about phenomenal character.
 
-The hybrid also protects the Map's phenomenal-constitution stance, on which conscious experience has intrinsic [aboutness](/concepts/intentionality/) and felt character not exhausted by wide representational content. The Map's resistance to phenomenal externalism (Dretske) rests on the introspective-authority argument just given, not on the bare fact that Dretske's view is inhospitable to the Map's [treatment of content](/concepts/hard-problem-of-content/). Where that argument runs out — and against a naturalist of Dretske's calibre it does not settle the matter outright — the Map declines phenomenal externalism as a framework commitment and acknowledges the case here is not knock-down, rather than pretending to have refuted Dretske inside his own view. Resisting it does not require the Map to go fully internalist in Farkas's manner: Farkas would narrow *intentional* content too, whereas the Map can concede wide intentional content and hold only that phenomenal character is internally constituted. That is a more defensible perimeter. It also sidesteps a live objection — the argument (Yli-Vakkuri and Hawthorne, 2018) that constructions of *narrow* content have been systematically criticised — because the Map's internalist claim rests on phenomenal character, not on a constructed narrow-content notion that would inherit those difficulties.
+The hybrid also protects the Map's phenomenal-constitution stance, on which conscious experience has intrinsic [aboutness](/concepts/intentionality/) and felt character not exhausted by wide representational content. The Map's resistance to phenomenal externalism (Dretske) rests on the introspective-authority argument just given, not on the bare fact that Dretske's view is inhospitable to the Map's [treatment of content](/topics/the-naturalisation-failure-for-content/). Where that argument runs out — and against a naturalist of Dretske's calibre it does not settle the matter outright — the Map declines phenomenal externalism as a framework commitment and acknowledges the case here is not knock-down, rather than pretending to have refuted Dretske inside his own view. Resisting it does not require the Map to go fully internalist in Farkas's manner: Farkas would narrow *intentional* content too, whereas the Map can concede wide intentional content and hold only that phenomenal character is internally constituted. That is a more defensible perimeter. It also sidesteps a live objection — the argument (Yli-Vakkuri and Hawthorne, 2018) that constructions of *narrow* content have been systematically criticised — because the Map's internalist claim rests on phenomenal character, not on a constructed narrow-content notion that would inherit those difficulties.
 
 One further connection, and one honest limitation. The connection is to mental causation. If externally-individuated content is causally relevant to behaviour, then content-in-virtue-of-environment does causal work — a wide analogue of the interaction the Map already posits, relevant to its concern with the [naturalisation of content](/concepts/teleosemantics/). If instead the "causal exclusion" worry bites — that content individuated by distal, historical relations cannot do local causal work — then externalism becomes another site where content's causal purchase resists tidy physical reduction. Either horn is usable, and the Map should present both without forcing a verdict. The limitation is that none of the sources here is an ally in the philosophical sense: Putnam, Burge, and Dretske are naturalists who would reject the Map's conclusion. The Map borrows the diagnosis — intrinsic physical state underdetermines content — without inheriting the cure.
 
 ## Further Reading
 
 - [intentionality](/concepts/intentionality/) — the aboutness of mental states and the phenomenal-intentionality tradition the Map's internalist half draws on
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) — the structural argument that naturalism cannot deliver semantic content; the intensionality complement to the externalist result
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — the structural argument that naturalism cannot deliver semantic content; the intensionality complement to the externalist result
 - [teleosemantics](/concepts/teleosemantics/) — the wide, history-involving theory of content externalism's causal-relevance worry bears on
 - [functionalism](/concepts/functionalism/) — where the corpus already deploys the externalist move against narrow functional role
 - [concession-convergence](/concepts/concession-convergence/) — the pattern of materialist programmes retreating from internalist physicalism
-- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — the topic-level dilemma against covariation, teleosemantics, and predictive processing
 - [conceptual-role-semantics](/concepts/conceptual-role-semantics/) — the two-factor split that pairs narrow inferential role with a wide referential factor to accommodate externalism
 
 ## References

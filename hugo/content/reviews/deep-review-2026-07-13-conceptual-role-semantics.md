@@ -67,7 +67,7 @@ Per task constraint, metadata was NOT re-web-verified (carried from the publishe
 
 ### Cross-links Verified
 
-- All six inbound links grep-verified live in their hosts: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) (in-prose L60, frames CRS as the family not caught by the dilemma — reads naturally and matches the article's own self-description), [hard-problem-of-content](/concepts/hard-problem-of-content/), [teleosemantics](/concepts/teleosemantics/), [intentionality](/concepts/intentionality/), [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/), [content-externalism](/concepts/content-externalism/).
+- All six inbound links grep-verified live in their hosts: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) (in-prose L60, frames CRS as the family not caught by the dilemma — reads naturally and matches the article's own self-description), [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/), [teleosemantics](/concepts/teleosemantics/), [intentionality](/concepts/intentionality/), [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/), [content-externalism](/concepts/content-externalism/).
 - All outbound wikilinks resolve to live files (including the newly added [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)).
 
 ## Axis Verdicts

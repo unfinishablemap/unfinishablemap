@@ -18,7 +18,7 @@ concepts:
   - "[[introspection]]"
   - "[[integrated-information-theory]]"
   - "[[concepts/materialism]]"
-  - "[[hard-problem-of-content]]"
+  - "[[the-naturalisation-failure-for-content]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-consciousness]]"
@@ -31,7 +31,6 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
-  - "[[the-naturalisation-failure-for-content]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -147,7 +146,7 @@ How do we know about the gap in the first place? Through [[introspection]]—our
 
 This critique targets the wrong level. Studies like Nisbett and Wilson's concern process access—why we make decisions. The gap argument depends on content access—recognizing that experience has qualitative character at all. Even systematic errors about *why* we prefer one face don't undermine that we *have* visual experience. The gap argument requires only that something is like something to us—and this seems undeniable regardless of introspection's reliability about causes.
 
-The explanatory gap is one of several independent [[dualism|arguments against materialism]]. What makes the cumulative case powerful is convergence: the gap argument, the [[knowledge-argument|knowledge argument]], the [[philosophical-zombies|zombie argument]], Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases. The convergence extends across cultures: traditions from Sāṃkhya to Buddhism to Islamic philosophy independently identify the same [[cross-traditional-convergence-on-consciousness-irreducibility|structural gap between third-person description and first-person acquaintance]], despite disagreeing about substance, self, and causation. The same structural failure recurs in semantic theory: Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] argues that physical resources—covariance and biological function—cannot deliver aboutness any more than they deliver experience. Both gaps emerge inside the naturalist's own project, though Hutto and Myin themselves draw deflationary rather than dualist conclusions.
+The explanatory gap is one of several independent [[dualism|arguments against materialism]]. What makes the cumulative case powerful is convergence: the gap argument, the [[knowledge-argument|knowledge argument]], the [[philosophical-zombies|zombie argument]], Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases. The convergence extends across cultures: traditions from Sāṃkhya to Buddhism to Islamic philosophy independently identify the same [[cross-traditional-convergence-on-consciousness-irreducibility|structural gap between third-person description and first-person acquaintance]], despite disagreeing about substance, self, and causation. The same structural failure recurs in semantic theory: Hutto and Myin's [[the-naturalisation-failure-for-content|Hard Problem of Content]] argues that physical resources—covariance and biological function—cannot deliver aboutness any more than they deliver experience. Both gaps emerge inside the naturalist's own project, though Hutto and Myin themselves draw deflationary rather than dualist conclusions.
 
 ## Process Philosophy Perspective
 
@@ -198,8 +197,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] — The metaphysical problem the gap points to
-- [[hard-problem-of-content]] — The structural parallel: physical resources cannot yield aboutness any more than they yield experience
-- [[the-naturalisation-failure-for-content]] — Topic-level companion treating the content failure as a separate front, and what dualism inherits
+- [[the-naturalisation-failure-for-content]] — The structural parallel: physical resources cannot yield aboutness any more than they yield experience
 - [[dualism]] — The explanatory gap as one of the converging arguments
 - [[knowledge-argument]] — Mary's Room: the gap dramatized through a thought experiment
 - [[qualia]] — The experiential properties the gap concerns

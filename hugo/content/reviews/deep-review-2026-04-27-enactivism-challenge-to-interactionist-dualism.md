@@ -19,12 +19,12 @@ topics: []
 **Date**: 2026-04-27
 **Article**: [Enactivism's Challenge to Interactionist Dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
 **Previous review**: [2026-03-21](/reviews/deep-review-2026-03-21-enactivism-challenge-to-interactionist-dualism/)
-**Trigger**: Cross-review after [hard-problem-of-content](/concepts/hard-problem-of-content/) concept page was created (2026-04-27)
+**Trigger**: Cross-review after [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) concept page was created (2026-04-27)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Missing cross-link to dedicated concept page**: The Radical Enactivism section discusses Hutto-Myin's "Hard Problem of Content" substantively but, prior to today, no dedicated concept page existed. With [hard-problem-of-content](/concepts/hard-problem-of-content/) now published, the article must link to it so readers can go deeper. Resolution: Added wikilink at first mention of HPoC in the Radical Enactivism section, added to concepts frontmatter, added to Further Reading.
+- **Missing cross-link to dedicated concept page**: The Radical Enactivism section discusses Hutto-Myin's "Hard Problem of Content" substantively but, prior to today, no dedicated concept page existed. With [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) now published, the article must link to it so readers can go deeper. Resolution: Added wikilink at first mention of HPoC in the Radical Enactivism section, added to concepts frontmatter, added to Further Reading.
 
 ### Medium Issues Found
 - **Slight overreach in scope claim**: The article previously said HPoC marks "fundamental explanatory limits in physicalist frameworks." The new concept page is more careful: the HPoC argument operates inside the naturalist's own project of explanation. Resolution: Changed "in physicalist frameworks" to "inside the naturalist's own project of explanation," which more accurately tracks Hutto-Myin's dialectic (they target other naturalists, not all physicalists).
@@ -54,14 +54,14 @@ topics: []
 - Opening front-loaded summary preserved
 
 ### Enhancements Made
-- Cross-link to [hard-problem-of-content](/concepts/hard-problem-of-content/) in Radical Enactivism section provides depth without requiring article expansion
+- Cross-link to [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) in Radical Enactivism section provides depth without requiring article expansion
 - Pointer sentence to the dedicated treatment lets readers follow the Map's partial-endorsement reasoning (accept negative argument, decline REC) without re-arguing it inline
 - Slight scope tightening ("naturalist's own project of explanation" vs "physicalist frameworks") improves attribution accuracy
 
 ### Cross-links Added
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) in concepts frontmatter
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) inline in Radical Enactivism section (twice — at first mention, and at the partial-endorsement pointer)
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) in Further Reading
+- [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) in concepts frontmatter
+- [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) inline in Radical Enactivism section (twice — at first mention, and at the partial-endorsement pointer)
+- [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) in Further Reading
 
 ## Length Check
 - Before: 2191 words (73% of 3000 soft threshold) — ok
@@ -81,4 +81,4 @@ Carrying forward stability notes from the 2026-03-21 review, both still apply:
 
 New stability note from this review:
 
-- The Map's reading of HPoC as "convergent evidence" against physicalism is a structural alliance, not a philosophical one. Hutto-Myin themselves are naturalists who treat the gap deflationarily. This asymmetry is acknowledged in the dedicated [hard-problem-of-content](/concepts/hard-problem-of-content/) concept page and need not be re-litigated in the topic article.
+- The Map's reading of HPoC as "convergent evidence" against physicalism is a structural alliance, not a philosophical one. Hutto-Myin themselves are naturalists who treat the gap deflationarily. This asymmetry is acknowledged in the dedicated [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) concept page and need not be re-litigated in the topic article.

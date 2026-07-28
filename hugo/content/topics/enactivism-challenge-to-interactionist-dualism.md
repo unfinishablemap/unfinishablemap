@@ -15,7 +15,7 @@ concepts:
 - '[[emergence]]'
 - '[[causal-closure]]'
 - '[[pragmatism]]'
-- '[[hard-problem-of-content]]'
+- '[[the-naturalisation-failure-for-content]]'
 created: 2026-03-21
 date: &id001 2026-03-21
 description: Enactivism dissolves the mind-body separation dualism presupposes. But
@@ -62,7 +62,7 @@ This challenges interactionist dualism's account of [qualia](/concepts/qualia/).
 
 Hutto and Myin's radical enactivism pushes furthest, arguing that basic minds are entirely contentless—no mental representations, no intentional content. Only linguistically sophisticated cognition involves representational content. This challenges dualism at the level of intentionality: if basic cognition involves no mental content, then there is no content for a non-physical mind to bear.
 
-Hutto and Myin identify a [Hard Problem of Content](/concepts/hard-problem-of-content/) paralleling dualism's hard problem of consciousness: naturalising intentional content is as intractable as naturalising phenomenal experience. Both problems mark fundamental explanatory limits inside the naturalist's own project of explanation. The structural parallel is striking—radical enactivism discovers, in its own domain, the same kind of [explanatory gap](/concepts/explanatory-gap/) that motivates dualism. Where dualism says "physical processes cannot account for experience," radical enactivism says "physical processes cannot account for content." The Map reads this as convergent evidence that physicalism may keep encountering the same boundary from different directions—though the parallel could equally be read as two instances of one over-demanding standard for "accounting for," and which reading is correct is not settled by the parallel alone. The Map's [treatment of the Hard Problem of Content](/concepts/hard-problem-of-content/) develops this reading in detail, accepting the negative argument while declining the positive Radical Enactive Cognition programme that Hutto and Myin build atop it.
+Hutto and Myin identify a [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) paralleling dualism's hard problem of consciousness: naturalising intentional content is as intractable as naturalising phenomenal experience. Both problems mark fundamental explanatory limits inside the naturalist's own project of explanation. The structural parallel is striking—radical enactivism discovers, in its own domain, the same kind of [explanatory gap](/concepts/explanatory-gap/) that motivates dualism. Where dualism says "physical processes cannot account for experience," radical enactivism says "physical processes cannot account for content." The Map reads this as convergent evidence that physicalism may keep encountering the same boundary from different directions—though the parallel could equally be read as two instances of one over-demanding standard for "accounting for," and which reading is correct is not settled by the parallel alone. The Map's treatment of that argument develops this reading in detail, accepting the negative argument while declining the positive Radical Enactive Cognition programme that Hutto and Myin build atop it.
 
 ## Pragmatist Genealogy
 
@@ -126,7 +126,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology and its relation to enactivism
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's integration of first-person and third-person methods
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap enactivism cannot dissolve
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's parallel argument that naturalism cannot deliver intentional content
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — Hutto and Myin's parallel argument that naturalism cannot deliver intentional content
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How enactivism's pragmatist heritage supports the dualist conclusion
 - [filter-theory](/concepts/filter-theory/) — The brain as shaping rather than producing consciousness
 

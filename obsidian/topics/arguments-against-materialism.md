@@ -22,7 +22,7 @@ concepts:
   - "[[argument-from-reason]]"
   - "[[intentionality]]"
   - "[[phenomenal-concepts-strategy]]"
-  - "[[hard-problem-of-content]]"
+  - "[[the-naturalisation-failure-for-content]]"
   - "[[phenomenology-vs-function-axis]]"
 related_articles:
   - "[[tenets]]"
@@ -62,7 +62,7 @@ A materialist might object that these arguments share a hidden flaw—perhaps a 
 
 The objection has force against some subsets of the arguments. The conceivability argument and the knowledge argument both rely on epistemic access to phenomenal states, so their convergence is partly expected. But the full set of arguments draws on genuinely independent methodological traditions. The argument from reason concerns the normativity of inference—a problem in epistemology, not phenomenology. The unity of consciousness concerns mereological composition—a problem in metaphysics. Kripke's modal argument turns on the semantics of identity statements. These are not intuition-pump variations of the same reasoning; they arise from different philosophical subdisciplines using different tools. A methodological explanation of the convergence would need to identify a single bias operative across epistemology, metaphysics, modal logic, and philosophy of mind simultaneously—a much harder claim to sustain than the alternative that the convergence may track something real. The pattern is reinforced by [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence]]—Indian, Islamic, African, and Buddhist philosophical traditions reaching structurally similar conclusions through methods independent of Western philosophy of mind.
 
-A further convergence comes from inside naturalism's own project. Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] argues that no covariational or teleosemantic theory can deliver intentional aboutness—the truth-conditional, intensional properties that contentful states are supposed to have. The structural shape parallels the explanatory gap exactly: physical descriptions leave unexplained how neural processes acquire *aboutness*, just as they leave unexplained how those processes are accompanied by *experience*. Hutto and Myin are naturalists who reject dualism; their response is to deny that basic minds have content at all. The Map borrows the diagnosis without the cure—two parallel naturalisation failures, identified by different research programmes from different starting commitments, are evidence that physicalism may be hitting a real boundary rather than a contingent gap.
+A further convergence comes from inside naturalism's own project. Hutto and Myin's [[the-naturalisation-failure-for-content|Hard Problem of Content]] argues that no covariational or teleosemantic theory can deliver intentional aboutness—the truth-conditional, intensional properties that contentful states are supposed to have. The structural shape parallels the explanatory gap exactly: physical descriptions leave unexplained how neural processes acquire *aboutness*, just as they leave unexplained how those processes are accompanied by *experience*. Hutto and Myin are naturalists who reject dualism; their response is to deny that basic minds have content at all. The Map borrows the diagnosis without the cure—two parallel naturalisation failures, identified by different research programmes from different starting commitments, are evidence that physicalism may be hitting a real boundary rather than a contingent gap.
 
 These philosophical arguments gain tentative empirical support from phenomena that production models struggle to accommodate. [[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—cognitive clarity returning in patients with severe neurodegeneration—challenges the monotonic neural-substrate-to-cognitive-capacity relationship that production models predict. The evidence is largely case reports rather than controlled studies, and conventional explanations (transient metabolic changes, incomplete neurodegeneration) are not ruled out. Alongside [[psychedelics-and-the-filter-model|psychedelic states]], [[near-death-experiences]], and [[consciousness-disruption-and-the-mind-brain-interface|covert consciousness]], it forms a suggestive pattern of modest evidential weight compared to the philosophical arguments above.
 
@@ -153,7 +153,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [[epistemological-limits-occams-razor]] — Why parsimony does not favour materialism
 - [[hard-problem-of-consciousness]] — The problem that started the contemporary debate
 - [[self-reference-and-the-limits-of-physical-description]] — Formal mathematical case that physical description has principled limits
-- [[hard-problem-of-content]] — Hutto and Myin's parallel argument: no naturalistic theory delivers intentional aboutness
+- [[the-naturalisation-failure-for-content]] — Hutto and Myin's parallel argument: no naturalistic theory delivers intentional aboutness
 - [[phenomenology-vs-function-axis]] — Empirical wedge against function-phenomenology identity across imagery, synaesthesia, comprehension, and agency
 - [[enactivism-challenge-to-interactionist-dualism]] — How enactivism's own commitments converge on dualism's irreducibility claim
 - [[interactionist-dualism]] — The Map's positive framework

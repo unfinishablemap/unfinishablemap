@@ -26,7 +26,7 @@ concepts:
 - '[[functional-seeming]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
-- '[[hard-problem-of-content]]'
+- '[[the-naturalisation-failure-for-content]]'
 - '[[status-of-content]]'
 created: 2026-01-14
 date: &id001 2026-05-05
@@ -152,7 +152,7 @@ The [self-stultification argument](/topics/self-stultification-as-master-argumen
 
 ## Structural Parallel with Content Irrealism
 
-Illusionism shares a deep structural feature with eliminativism about propositional attitudes: both are *content-irrealist* programmes, denying the reality of a class of contentful states their critics take to be obviously real. The eliminativist tradition has accumulated arguments that bear on illusionism even though they target propositional content. Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) argues that no naturalistic theory delivers genuine semantic content for basic minds—covariational and teleosemantic resources yield causal and statistical facts but never the normative dimension content requires. Boghossian's [self-refutation argument](/concepts/status-of-content/) presses from the other side: arguments for content irrealism presuppose the contentful states they deny. Together they form a pincer: content irrealism cannot be coherently asserted; content realism cannot be naturalised.
+Illusionism shares a deep structural feature with eliminativism about propositional attitudes: both are *content-irrealist* programmes, denying the reality of a class of contentful states their critics take to be obviously real. The eliminativist tradition has accumulated arguments that bear on illusionism even though they target propositional content. Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) argues that no naturalistic theory delivers genuine semantic content for basic minds—covariational and teleosemantic resources yield causal and statistical facts but never the normative dimension content requires. Boghossian's [self-refutation argument](/concepts/status-of-content/) presses from the other side: arguments for content irrealism presuppose the contentful states they deny. Together they form a pincer: content irrealism cannot be coherently asserted; content realism cannot be naturalised.
 
 Illusionism extends the irrealism move from *propositional* content to *phenomenal* character, and the explanatory debt scales accordingly. The illusionist must explain everything the belief-eliminativist owes—why folk psychology succeeds, why we reliably *seem* to have the disputed states—*plus* why phenomenal seeming is so vivid, resistant to dissolution, and universal. Quasi-phenomenal properties and the distortion thesis attempt this, and face an analogue of the worry Hutto and Myin press against teleosemantics: specifying *when* a state is tokened does not deliver what it *says*. Boghossian's pressure transposes too: if asserting content irrealism presupposes contentful states, the worry is that *theoretical conviction itself* may be partly phenomenal—the felt obviousness of a Moorean intuition. Strawson's "Consciousness Deniers" charge and Tallis's regress read as its phenomenal-state counterpart.
 
@@ -184,7 +184,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - [eliminative-materialism](/topics/eliminative-materialism/) — The broader eliminativist tradition; illusionism is its phenomenal-consciousness strand, alongside the Churchlands' eliminativism about propositional attitudes
 - [multiple-drafts-model](/concepts/multiple-drafts-model/) — Dennett's anti-homuncular architecture (the Cartesian Theater critique) that underpins the illusionist "user-illusion" of a unified stage
 - [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/) — The structural distinction the Map says illusionism must contest explicitly: introspection as referring (representational) vs constitutive (acquaintance-like)
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's argument that naturalism cannot deliver semantic content; structurally parallel to the explanatory debt illusionism takes on for phenomenal character
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — Hutto and Myin's argument that naturalism cannot deliver semantic content; structurally parallel to the explanatory debt illusionism takes on for phenomenal character
 - [status-of-content](/concepts/status-of-content/) — Boghossian's self-refutation argument against content irrealism; transposes to phenomenal-state irrealism in the Strawson/Tallis line
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The argument that applies equally to illusionism and epiphenomenalism
 - [functional-seeming](/concepts/functional-seeming/) — Frankish's central defensive concept, and the Map's detailed objections

@@ -38,7 +38,7 @@ Re-verified live this cycle, focusing on the two non-canonical / previously-defe
 
 **Empirical-record currency sweep**: `find_superlative_claims` returns EMPTY — the article makes no "current record / largest / first / to date" empirical superlatives. No currency action needed.
 
-**Inline ↔ References cross-check**: every References entry (Chalmers, Frankish, Jackson, Levine ×2, McGinn, Nagel, Strawson, Whitehead) is cited inline. Inline name-checks WITHOUT a References entry — Hutto, Myin, Nisbett, Wilson, Kripke, Dennett — are expected for a concept hub: each is a passing attribution pointing to a dedicated article ([hard-problem-of-content](/concepts/hard-problem-of-content/) for Hutto & Myin) or a name-check of a position (Kripke's modal argument, Dennett-as-illusionist, Nisbett & Wilson choice-blindness), not a load-bearing formal citation requiring a bibliography line. No orphaned References. Matches prior reviews.
+**Inline ↔ References cross-check**: every References entry (Chalmers, Frankish, Jackson, Levine ×2, McGinn, Nagel, Strawson, Whitehead) is cited inline. Inline name-checks WITHOUT a References entry — Hutto, Myin, Nisbett, Wilson, Kripke, Dennett — are expected for a concept hub: each is a passing attribution pointing to a dedicated article ([hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) for Hutto & Myin) or a name-check of a position (Kripke's modal argument, Dennett-as-illusionist, Nisbett & Wilson choice-blindness), not a load-bearing formal citation requiring a bibliography line. No orphaned References. Matches prior reviews.
 
 **EOF artifact check**: clean — file ends on the Whitehead reference, no `</content></invoke>` tail.
 

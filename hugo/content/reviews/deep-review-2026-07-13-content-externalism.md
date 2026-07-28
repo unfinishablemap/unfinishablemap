@@ -37,7 +37,7 @@ not orphan bolt-ons):
   load-bearing, not forced. GOOD.
 - **[intentionality](/concepts/intentionality/)** (Further Reading, L261) — accurate hybrid framing. GOOD.
 - **[teleosemantics](/concepts/teleosemantics/)** (Further Reading, L102) — causal-relevance worry correctly shared. GOOD.
-- **[hard-problem-of-content](/concepts/hard-problem-of-content/)** (Further Reading, L114) — intensionality complement framing accurate. GOOD.
+- **[hard-problem-of-content](/topics/the-naturalisation-failure-for-content/)** (Further Reading, L114) — intensionality complement framing accurate. GOOD.
 
 All 7 outbound wikilinks resolve to live files (tenets, intentionality, concession-convergence,
 hard-problem-of-content, teleosemantics, the-naturalisation-failure-for-content, functionalism).

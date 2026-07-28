@@ -20,7 +20,7 @@ topics: []
 ---
 
 **Date**: 2026-06-01
-**Article**: [Hutto-Myin's Hard Problem of Content](/concepts/hard-problem-of-content/)
+**Article**: [Hutto-Myin's Hard Problem of Content](/topics/the-naturalisation-failure-for-content/)
 **Previous reviews**: [2026-04-30](/reviews/deep-review-2026-04-30-hard-problem-of-content/), [2026-04-27](/reviews/deep-review-2026-04-27-hard-problem-of-content/)
 **Word count**: 2127 → 2128 (+1; citation-string edits only)
 **Trigger**: Standing web-verify mandate + cycle-260 citation-propagation check (this article is in the same Hutto-Myin cluster where two citation defects were corrected on 2026-06-01 in the sibling topic article and shared research note).

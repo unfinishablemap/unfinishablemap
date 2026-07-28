@@ -28,7 +28,7 @@ This was a same-day, never-reviewed create selected by the staleness scorer (sco
 - **Citations web-verified (3-state)**:
   - Clark, Friston & Wilkinson (2019), "Bayesing Qualia: Consciousness as Inference, Not Raw Datum," *Journal of Consciousness Studies* 26(9-10):19-33 — **REAL, metadata exact** (confirmed via Macquarie/PhilPapers/Ingenta/Exeter; volume, issue, page range all match line 99).
   - Clark, A. (2016), *Surfing Uncertainty* (OUP) — canonical, already vetted in [predictive-processing](/concepts/predictive-processing/) (matches its reference list line 234).
-  - Hutto, D. D. & Myin, E. (2017), *Evolving Enactivism* (MIT Press) — canonical, already vetted in [hard-problem-of-content](/concepts/hard-problem-of-content/) (matches its line 64 treatment).
+  - Hutto, D. D. & Myin, E. (2017), *Evolving Enactivism* (MIT Press) — canonical, already vetted in [hard-problem-of-content](/topics/the-naturalisation-failure-for-content/) (matches its line 64 treatment).
   - Searle, J. R. (1992), *The Rediscovery of the Mind* (MIT Press) — canonical; original-vs-derived distinction correctly attributed (para 63).
   - Corpus self-cites (predictive-processing 2026-01-14; hard-problem-of-content 2026-04-27) — both resolve; dates precede review date.
 - **Quote-audit**: One internal verbatim quote attributed to [predictive-processing](/concepts/predictive-processing/) ("describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative") — **matches predictive-processing.md:106 exactly**. No external verbatim quotes. Hutto-Myin "chokepoint" (para 41) is a paraphrase, correctly framed as such, consistent with hard-problem-of-content.md.

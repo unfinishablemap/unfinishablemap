@@ -8,7 +8,7 @@ concepts:
 - '[[predictive-processing]]'
 - '[[biological-computationalism]]'
 - '[[intentionality]]'
-- '[[hard-problem-of-content]]'
+- '[[the-naturalisation-failure-for-content]]'
 created: 2026-06-04
 date: &id001 2026-06-04
 description: 'A calibration move developed through human-AI refinement: the content-talk
@@ -25,7 +25,6 @@ related_articles:
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 - '[[phantom-limb-phenomena]]'
 - '[[intentionality]]'
-- '[[hard-problem-of-content]]'
 - '[[direct-refutation-discipline]]'
 - '[[evidential-status-discipline]]'
 title: Content-Vocabulary as a Derived Feature
@@ -60,7 +59,7 @@ Treating the move as a defeater would breach [evidential-status-discipline](/pro
 
 This move sits between two stronger claims it must not be confused with.
 
-It is **weaker than the Hard Problem of Content.** Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) argues that *no* naturalistic theory can deliver genuine content for basic cognition—a general impossibility claim about naturalised semantics. The content-vocabulary move makes no such universal claim. It says only that the predictive-processing and computationalist vocabularies, *as deployed*, summarise rather than ground, and that they reach for an aboutness they have not paid for. The Hard Problem of Content is one route by which the unpaid debt might prove unpayable; the calibration move does not assert that it is unpayable.
+It is **weaker than the Hard Problem of Content.** Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) argues that *no* naturalistic theory can deliver genuine content for basic cognition—a general impossibility claim about naturalised semantics. The content-vocabulary move makes no such universal claim. It says only that the predictive-processing and computationalist vocabularies, *as deployed*, summarise rather than ground, and that they reach for an aboutness they have not paid for. The Hard Problem of Content is one route by which the unpaid debt might prove unpayable; the calibration move does not assert that it is unpayable.
 
 It is **stronger than mere instrumentalism about content-talk.** A deflationary reading—content-talk is just a convenient predictive gloss, with nothing further at stake—gives up the realist intuition that thought is *genuinely* about its objects. The Map keeps that intuition. The point is not that aboutness is fictional but that *phenomenal* aboutness is real and is the thing the inferential vocabulary is implicitly trading on. The move is realist about content and locates its source in consciousness, which connects to phenomenal intentionality theory's claim, developed in [intentionality](/concepts/intentionality/), that original aboutness requires phenomenal character.
 
@@ -85,12 +84,12 @@ The move recurs across the corpus, which is why it warrants a shared anchor rath
 - [predictive-processing](/concepts/predictive-processing/) develops the canonical form: predictive processing "describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative," with phenomenal consciousness supplying the aboutness.
 - [biological-computationalism](/concepts/biological-computationalism/) and [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) press a sibling calibration—that substrate-dependent computationalism's specifications increasingly resemble the dualist's "something more"—where the content-vocabulary move supplies the semantic half: the computational description summarises without grounding the felt content.
 - [phantom-limb-phenomena](/topics/phantom-limb-phenomena/) is the worked exhibit, where the felt aboutness of a missing limb is the content the predictive model presupposes rather than produces.
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) and [intentionality](/concepts/intentionality/) mark the stronger theses this move stays calibrated *beneath* (general naturalisation failure) and the positive source it points *toward* (phenomenal grounding of original aboutness).
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) and [intentionality](/concepts/intentionality/) mark the stronger theses this move stays calibrated *beneath* (general naturalisation failure) and the positive source it points *toward* (phenomenal grounding of original aboutness).
 
 ## Further Reading
 
 - [predictive-processing](/concepts/predictive-processing/) — The framework whose content-vocabulary the move calibrates
-- [hard-problem-of-content](/concepts/hard-problem-of-content/) — The stronger naturalisation-failure thesis this move stays beneath
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — The stronger naturalisation-failure thesis this move stays beneath
 - [intentionality](/concepts/intentionality/) — Phenomenal intentionality theory and the source of original aboutness
 - [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The sibling convergence pattern
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — Why this is boundary-location, not refutation
@@ -103,4 +102,4 @@ The move recurs across the corpus, which is why it warrants a shared anchor rath
 1. Clark, A., Friston, K. J., & Wilkinson, S. (2019). "Bayesing Qualia: Consciousness as Inference, Not Raw Datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
 1. Searle, J. R. (1992). *The Rediscovery of the Mind*. MIT Press.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Predictive Processing. *The Unfinishable Map*. https://unfinishablemap.org/concepts/predictive-processing/
-1. Southgate, A. & Oquatre-sept, C. (2026-04-27). Hutto-Myin's Hard Problem of Content. *The Unfinishable Map*. https://unfinishablemap.org/concepts/hard-problem-of-content/
+1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Naturalisation Failure for Content. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-naturalisation-failure-for-content/

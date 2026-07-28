@@ -24,7 +24,7 @@ concepts:
   - "[[haecceity]]"
   - "[[concepts/many-worlds]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[hard-problem-of-content]]"
+  - "[[the-naturalisation-failure-for-content]]"
   - "[[concepts/intentionality]]"
 related_articles:
   - "[[tenets]]"
@@ -106,11 +106,11 @@ PP also bears on classical [[eliminative-materialism|eliminative materialism]] i
 
 ### Inheriting the Hard Problem of Content
 
-PP's framework traffics throughout in content: predictions are *about* states of affairs; prediction errors signal a *mismatch* between model and world; precision weights *correctness* of one signal against another. The natural account of where this content comes from is informational and covariational—a state's content is determined by what it would track under optimal conditions, refined by Bayesian update against incoming evidence. This is precisely the resource Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] argues cannot deliver genuine semantic content. Covariation yields causal-statistical facts; aboutness, correctness conditions, and intensional differences in content are normative facts the underlying machinery does not supply.
+PP's framework traffics throughout in content: predictions are *about* states of affairs; prediction errors signal a *mismatch* between model and world; precision weights *correctness* of one signal against another. The natural account of where this content comes from is informational and covariational—a state's content is determined by what it would track under optimal conditions, refined by Bayesian update against incoming evidence. This is precisely the resource Hutto and Myin's [[the-naturalisation-failure-for-content|Hard Problem of Content]] argues cannot deliver genuine semantic content. Covariation yields causal-statistical facts; aboutness, correctness conditions, and intensional differences in content are normative facts the underlying machinery does not supply.
 
 If Hutto and Myin's negative argument is sound, PP's "predictions" and "errors" are causal-statistical patterns that the theorist *describes* in content-involving language rather than states with intrinsic aboutness. Active inference and free-energy minimisation can be specified entirely in terms of statistical mechanics; the leap to "the brain models the world" smuggles in normativity (accuracy, mismatch, representation) the underlying physics does not deliver. PP inherits the same gap [[concepts/intentionality|intentionality]] inherits. Phenomenal intentionality theory holds that genuine content requires phenomenal character; PP without consciousness is content-free in the strict Hutto-Myin sense, a system whose states covary with environmental conditions and update through Bayesian inference but mean nothing.
 
-This does not refute PP. It locates the framework precisely. PP describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative; the genuine content of conscious thought—what the prediction is *about*—comes from elsewhere. The Map names this calibration the [[content-vocabulary-as-derived-feature|content-vocabulary-as-derived-feature]] move, which catalogues its deployments and marks its precise weight as a boundary-location rather than a refutation. The Map's reading: PP captures the computational substrate while phenomenal consciousness supplies the aboutness that converts mathematical prediction error into semantic mismatch. Without that addition, PP's softer eliminativism slides into REC-style content-elimination at the basic-cognition level, a cost the Map declines to pay (see [[hard-problem-of-content|HPoC]] for the structural-alliance/partial-endorsement reasoning).
+This does not refute PP. It locates the framework precisely. PP describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative; the genuine content of conscious thought—what the prediction is *about*—comes from elsewhere. The Map names this calibration the [[content-vocabulary-as-derived-feature|content-vocabulary-as-derived-feature]] move, which catalogues its deployments and marks its precise weight as a boundary-location rather than a refutation. The Map's reading: PP captures the computational substrate while phenomenal consciousness supplies the aboutness that converts mathematical prediction error into semantic mismatch. Without that addition, PP's softer eliminativism slides into REC-style content-elimination at the basic-cognition level, a cost the Map declines to pay (see [[the-naturalisation-failure-for-content|HPoC]] for the structural-alliance/partial-endorsement reasoning).
 
 ### Access, Not Phenomenal Consciousness
 
@@ -202,7 +202,7 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - [[attention-as-interface]] — How attention mediates consciousness-matter interaction (central to precision weighting)
 - [[hard-problem-of-consciousness]] — What PP doesn't directly address; IWMT's claim to *solve* it meets the same explanatory-gap reply
 - [[explanatory-gap]] — Why a generative MAP estimate, however coherent, leaves the felt character unexplained
-- [[hard-problem-of-content]] — The structural challenge PP inherits if its predictions and errors rest on covariational content
+- [[the-naturalisation-failure-for-content]] — The structural challenge PP inherits if its predictions and errors rest on covariational content
 - [[concepts/intentionality]] — Where PP's content-vocabulary gets its aboutness from (or fails to)
 - [[dream-consciousness]] — Dreams as unconstrained prediction
 - [[filter-theory]] — Alternative interpretation of dream evidence

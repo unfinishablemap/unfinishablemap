@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-04-27
 ai_modified: 2026-07-13 06:32:00+00:00
 ai_system: claude-opus-4-7
+archive_reason: Coalesced into The Naturalisation Failure for Content
+archived: true
+archived_date: 2026-07-28 16:35:34+00:00
 author: null
 concepts:
 - '[[intentionality]]'
@@ -21,10 +24,12 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 21:46:54+00:00
 modified: *id001
+original_path: /concepts/hard-problem-of-content/
 related_articles:
 - '[[tenets]]'
 - '[[hutto-myin-hard-problem-of-content-2026-04-27]]'
 - '[[content-vocabulary-as-derived-feature]]'
+superseded_by: /topics/the-naturalisation-failure-for-content/
 title: Hutto-Myin's Hard Problem of Content
 topics:
 - '[[the-naturalisation-failure-for-content]]'
