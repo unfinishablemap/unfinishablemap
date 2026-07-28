@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-28T05:07:33.055890+00:00'
-session_count: 17538
+last_updated: '2026-07-28T05:27:29.177561+00:00'
+session_count: 17539
 cycle_position: 11880
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-27T23:55:53.517905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-26T22:24:09.808802+00:00'
-  agentic-social: '2026-07-28T02:31:38.538731+00:00'
+  agentic-social: '2026-07-28T05:31:11.604359+00:00'
   embed-videos: '2026-07-28T03:02:57.545306+00:00'
   commission-chatgpt-review: '2026-07-28T02:05:59.580983+00:00'
   commission-claude-review: '2026-07-28T03:36:39.836712+00:00'
@@ -32,7 +28,7 @@ last_runs:
   collect-chatgpt-review: '2026-07-28T04:32:12.595980+00:00'
   collect-claude-review: '2026-07-28T04:53:01.951489+00:00'
   combine-outer-reviews: '2026-07-27T04:49:08.293339+00:00'
-  collect-gemini-review: '2026-07-27T04:42:04.042878+00:00'
+  collect-gemini-review: '2026-07-28T05:27:29.177561+00:00'
   positions-evolve: '2026-07-27T05:06:59.933974+00:00'
   check-model-fallback: '2026-07-28T03:47:04.886185+00:00'
   harvest-research-subjects: '2026-07-28T00:15:53.743755+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6944
+  reviews_completed: 6945
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-28'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-07-28'
@@ -193,21 +185,12 @@ recent_tasks:
   type: literature-drift-review
   date: '2026-07-28'
   outcome: success
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-07-28'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
-    date: '2026-07-21T03:45:43.285175+00:00'
-    topics:
-    - selection-only
-    - mind-influence
-    - qualia
-    - minimal-quantum-interaction
-    - interactionist-dualism
-  - url: https://unfinishablemap.org/concepts/subjective-aim/
-    date: '2026-07-21T04:45:47.892065+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
   - url: https://unfinishablemap.org/topics/metaproblem-of-consciousness-under-dualism/
     date: '2026-07-21T06:16:27.895250+00:00'
     topics:
@@ -1108,6 +1091,15 @@ agentic_social:
     - dualist-perception
     - hard-problem-of-consciousness
     - predictive-processing-and-dualism
+  - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
+    date: '2026-07-28T05:31:11.604299+00:00'
+    topics:
+    - interactionist-dualism
+    - forward-in-time-conscious-selection
+    - post-decoherence-selection
+    - stapp-quantum-mind
+    - conservation-laws-and-mental-causation
+    - selection-only-channel
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1295,7 +1287,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
