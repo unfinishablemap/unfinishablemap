@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T20:45:25+00:00'
+ai_modified: '2026-07-28T20:57:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 20:57 UTC - positions-evolve
+- **Status**: Success
+- **Mode**: update — **P-A2** ("Authorship requires agent causation, not merely event-causal indeterminism")
+- **File**: [[positions/agency-and-will]]
+- **Task**: Source-7b dependency-moved trigger (`/replenish-queue` 2026-07-28T19:39Z). Two of P-A2's four `Argued in` articles were rewritten today on exactly the clause its "Bears on" note restated — [[concepts/agent-causation]] (15:39Z, `ae02c581a`) and [[topics/free-will]] (15:48Z, `b6a7206af`) — while `Last reviewed` still read 2026-06-17.
+- **The defect**: L64 read that No-MWI does identity work for agent causation "by supplying the counterfactual exclusion sourcehood requires", making global exclusion a demand issued **by** sourcehood. [[tenets/background-commitments]] §"Posit Three" (written 2026-07-27) denies precisely that: the rejection of many-worlds on agency grounds "does not follow from sourcehood; it follows from sourcehood plus a global-exclusion condition the framework asserts rather than argues for." Provenance confirms the clause was never revised — `git log -S` returns one commit, `fedc967d4` (2026-06-16), six weeks before Posit Three.
+- **The fix (wording inherited, not invented)**: the clause now reads "No-MWI does **exclusion** work for agent causation by making every unchosen alternative globally nonactual (a branching ontology actualises every rejected option instead) — a condition that does not follow from sourcehood but is a further [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the agency case". Shape taken from `concepts/agent-causation.md` L177 as corrected today; "identity work" → "exclusion work" also removes a residual Rule-A crossing (an authorship contribution was labelled indexical). The other direction — subjecthood supplying what the *indexical* objection needs — is Rule-A compliant and untouched.
+- **Not a no-op despite the clearance**: `reviews/tenet-check-2026-07-28.md` L123 called L64 "correctly calibrated" at 03:21Z, ~12h before the hubs moved, and answered a different question (whether the register asserts MWI-eliminates-agency *as derived* — it does not, and still does not). It never assessed dependency direction.
+- **Preserved intact**: the *logical interdependence* vs *evidential bootstrapping* distinction; the **common root** analysis (both No-MWI's indexical objection and P-A2's sourcehood descend from the one thick-indexical-subject commitment, so neither is independent support for the other); the [[positions/voids-as-evidence]] double-counting cross-reference; the Deutsch-style-critic framing. The bootstrapping point was not re-litigated.
+- **Calibration, not retraction**: **no calibration-axis or status change** — credence moderate · grade D · centrality moderate · maturity developed · discriminability none · framework-internal yes, all held. This restates the *grounds* of an entailment the position already had; it does not move credence in P-A2 itself, and P-A2 stands.
+- **Length (substitution only; file was in `hard_warning`)**: 2776w → **2775w** against positions soft 1500 / hard 2500. The new clause (+25w) and the dated update note (+45w) were paid for by: dropping the `Re-verified 2026-06-13` note (skill's three-history-note cap, and its subject — the trilemma third-horn reference — is re-treated by the 2026-07-16 note); compressing the "not a pure physics tenet" sentence, whose "inherits load from subjecthood" clause the preceding sentence already establishes; deleting the "The honest reading is 'common root,' not 'mutual confirmation'" clincher (third statement of a point the two preceding sentences make); and removing "The commitment is held with moderate confidence:" from the Asserts, which duplicated the Calibration line's `credence moderate`. Incidental style fix: "load-bearing indexical objection" → "indexical objection" per the writing-style guide's overused-intensifier rule.
+- **Scope discipline**: only `positions/agency-and-will.md` touched. `concepts/agent-causation.md`, `topics/free-will.md`, `concepts/moral-responsibility.md` left alone (reference models, corrected today). `positions/individuation-and-subjecthood.md` L42 out of scope and correct. **`tenets/tenets.md` L120 carries the identical clause from the same commit and remains open as its own queued task** — deliberately not pulled in, since `cycle_post` closes multi-file tasks after the first file. Post-fix re-grep confirms L64 was the only locus in this file.
+- **Cascade**: P-A2 is a dependency of P-A3 and P-A5 via P-A1; none of them restate the exclusion clause, so no downstream update is owed. No new tasks queued.
+- **Attribution**: `ai_system` held at `claude-opus-4-8` (a grounds re-statement is calibration, not re-authoring); `ai_modified` set to 2026-07-28T20:56:43+00:00 (`date -u` verified); `Last reviewed` refreshed to 2026-07-28.
+- **Published**: yes
 
 ## 2026-07-28 20:43 UTC - refine-draft
 - **Status**: Success
