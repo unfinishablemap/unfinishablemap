@@ -42,5 +42,3 @@ None. No content, calibration, or citation fixes required.
 ## Stability Notes
 
 Article is converged (2 reviews, second a no-op). The strengthen-vs-dilute pervasiveness tension is a deliberate open question, not a defect — future reviews must not "resolve" it in the Map's favour. The deflationary/functionalist gloss is a bedrock rival at the framework boundary. Per no-op hygiene, `last_deep_review` was bumped (2026-07-19T07:27:53) but `ai_modified` was left at the create-time value (2026-07-09T07:15:52). Verification was inline; no subagent, no early return.
-</content>
-</invoke>

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-07-27 19:04:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-07-28 14:13:15+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 apex_last_synthesis: 2026-06-25 14:44:32+00:00
 apex_sources:
 - topics/psychedelics-and-the-filter-model
@@ -85,8 +85,6 @@ Altered states of consciousness are usually treated as curiosities—isolated ph
 Any single altered state can be explained away. The psychedelic paradox—decreased brain activity alongside expanded experience—might reflect neural disinhibition rather than filter loosening. Dream consciousness might be nothing more than the brain entertaining itself during REM. Anaesthetic dissociations might reflect the complexity of neural pharmacology without any metaphysical implications.
 
 What no single-state explanation addresses is the *pattern across states*. When six radically different perturbations—pharmacological, neurochemical, volitional, transitional, eliminative, and neurodegenerative—reveal the same multi-component interface architecture, the convergence demands explanation. The continental-drift analogy must be drawn with care here. Independent lines of evidence that point toward the same conclusion can compound in evidential weight, as the Map's [convergence methodology](/topics/the-convergence-argument-for-dualism/) argues—but the altered-state cluster is not straightforwardly such a case. The states share a single explanatory move ("the filter reconfigures"), and the same move is available to production theorists, who accommodate the same set by treating dynamical complexity as collapsing or reorganising under each perturbation. These are structurally identical accommodations. So the convergence-of-altered-states pattern cannot honestly be cited as multiple independent confirmations of filter theory—the cluster carries the evidential weight of one pattern, not six. What it does establish is that *whatever* the right account of consciousness-brain coupling, that account must have the multi-channel structure the pattern reveals.
-
-The interface specification emerges not from any one altered state but from their systematic comparison.
 
 ## Six Windows Into the Interface
 
@@ -187,7 +185,7 @@ The systematic evidence from altered states connects to each of the Map's [tenet
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Meditation provides the strongest evidence. Consciousness deliberately reconfiguring its own neural interface—strengthening attentional channels through FA practice, releasing them through OM practice—demonstrates bidirectional causal traffic that is difficult to accommodate on production models without circularity. The developmental arc from effortful to effortless meditation traces the interface being trained from the consciousness side, producing lasting neural changes (neuroplasticity) that reflect consciousness's causal influence on brain structure.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of altered states is pervaded by genuine selection and genuine foreclosure. The lucid dreamer who chooses to fly forecloses not-flying. The meditator who releases selection experiences its absence—a qualitative shift from choosing to witnessing that would be illusory under many-worlds, where branching occurs regardless. The convergence matrix maps how selection varies across states, from robust waking control through fluctuating hypnagogic agency to deliberate meditative release. This variation in selection capacity is coherent only if selection is real; under many-worlds, it reduces to variation in the *illusion* of selection—explanatorily empty.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of altered states is pervaded by genuine selection and genuine foreclosure. The lucid dreamer who chooses to fly forecloses not-flying. The meditator who releases selection experiences its absence—a qualitative shift from choosing to witnessing. The convergence matrix maps how selection varies across states, from robust waking control through fluctuating hypnagogic agency to deliberate meditative release. That variation is in-branch data, and an Everettian grants it entirely: branch-relative selection reproduces every datum the matrix records, the felt difference between choosing and witnessing included, since within any branch one option is lived and the rest are not. The disagreement is narrower than the phenomenology makes it look, turning on whether foreclosure must be *global*—the unchosen options nonactual everywhere, not merely absent from this agent's history—to count as foreclosure at all. That requirement is [a posit the Map adopts](/tenets/background-commitments/) rather than a reading the altered-state evidence forces: the posit does the work here, and the matrix supplies the phenomenology it applies to.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest model of altered states—consciousness is produced by brain activity; different activity produces different consciousness—fails to explain why disruption sometimes enhances experience, why identical behavioural outputs mask different phenomenologies, and why components dissociate along the same architectural lines across unrelated perturbations. The more complex model—a multi-channel interface between consciousness and brain—better organises the evidence. Parsimony that ignores systematic patterns is not simplicity but evasion.
 

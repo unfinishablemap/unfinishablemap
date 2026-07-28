@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-19 23:08:40+00:00
+ai_modified: 2026-07-28 15:13:54+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -182,7 +182,7 @@ This vocabulary serves comparison rather than canonical self-description: the Ma
 ## Further Reading
 
 - [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The Map's canonical ontology: structure and actuality as co-fundamental aspects
-- [dualism](/concepts/dualism/) — Seven converging arguments that physical description cannot capture consciousness
+- [dualism](/concepts/dualism/) — The converging arguments that physical description cannot capture consciousness
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals about emergence
 - [reductionism](/concepts/reductionism/) — The three types of reductionism, the track record of successful reduction, and why consciousness is the singular exception

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-03 21:25:00+00:00
+ai_modified: 2026-07-28 15:13:54+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -198,7 +198,7 @@ None currently obtains, and each faces significant challenges. Materialism remai
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/) — The self-stultification argument: physicalism undermines rational justification for any belief, including itself
-- [dualism](/concepts/dualism/) — What dualism claims, its main varieties, and seven converging arguments against physicalism
+- [dualism](/concepts/dualism/) — What dualism claims, its main varieties, and the converging arguments against physicalism
 - [knowledge-argument](/concepts/knowledge-argument/) — The knowledge argument (Mary's Room) in detail
 - [explanatory-gap](/concepts/explanatory-gap/) — What physical explanations leave out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie argument against materialism in detail

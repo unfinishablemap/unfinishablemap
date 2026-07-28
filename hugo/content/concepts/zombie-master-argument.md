@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-12 19:34:26+00:00
+ai_modified: 2026-07-28 15:13:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -104,7 +104,7 @@ The argument also regenerates against sophisticated responses. The [phenomenal c
 
 ## Relation to Site Perspective
 
-The Map treats the zombie master argument as providing the logical backbone for [Tenet 1 (Dualism)](/tenets/#dualism). Where [dualism](/concepts/dualism/) presents seven converging arguments against materialism, the master argument reveals that these aren't truly independent — they are different manifestations of a single logical structure. The knowledge argument, the explanatory gap, Kripke's modal argument, and the zombie thought experiment all exploit the same non-entailment between physical and phenomenal facts.
+The Map treats the zombie master argument as providing the logical backbone for [Tenet 1 (Dualism)](/tenets/#dualism). Where [dualism](/concepts/dualism/) presents converging arguments against materialism, the master argument reveals that these aren't truly independent — they are different manifestations of a single logical structure. The knowledge argument, the explanatory gap, Kripke's modal argument, and the zombie thought experiment all exploit the same non-entailment between physical and phenomenal facts.
 
 This convergence matters for the Map's overall framework. The case for dualism doesn't rest on any single intuition pump but on a logical architecture that physicalists have been unable to dismantle despite sustained effort. Each physicalist response concedes ground; the question is only how much.
 
@@ -125,7 +125,7 @@ The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#
 ## Further Reading
 
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie thought experiment in detail
-- [dualism](/concepts/dualism/) — Seven converging arguments, with the zombie argument as one
+- [dualism](/concepts/dualism/) — The converging arguments against materialism, with the zombie argument as one
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room as a special case of the master argument
 - [explanatory-gap](/concepts/explanatory-gap/) — The evidential base for zombie conceivability
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — When conceivability warrants possibility claims
