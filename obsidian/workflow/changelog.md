@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T02:46:29+00:00
+ai_modified: 2026-07-28T03:18:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T03:18:46+00:00 - check-tenets
+- **Status**: Warnings
+- **Scope**: TARGETED, not general. Tenet 4 (No Many Worlds) only, per driver instruction — hunting the BEFORE shape the in-flight 12-locus calibration sweep is migrating away from. Tenets 1/2/3/5 not audited this run.
+- **Files checked**: 478 matched MWI/branch/Everett vocabulary across `topics/`, `concepts/`, `apex/`, `positions/`, `voids/`, `questions/`, `arguments/`; ~60 tenet-alignment loci narrowed, ~25 read in full.
+- **Errors**: 3 (bald authorship/difference-making claims, no calibration) — `apex/altered-states-as-interface-evidence` L184, `topics/consciousness-evolution-and-biology` L148, `apex/testing-the-map-from-inside` L256
+- **Cross-calibration errors**: 2 — `topics/evaluative-qualia-phenomenal-normativity-across-traditions` L108 (moral-weight claim on exclusion grounds), `apex/contemplative-path` L199 (authorship claim on indexical grounds)
+- **Warnings**: 4 (correct direction, flat closing assertion) — `topics/phenomenal-value-realism` L245, `concepts/consciousness-value-connection` L166, `topics/ethics-under-dualism` L202, `topics/motor-control-quantum-zeno` L128
+- **Notes**: 3 mechanism-adjacent slides — `concepts/interface-friction` L118, `concepts/affective-forecasting-gap` L76, `topics/ethics-of-possible-ai-consciousness` L154
+- **All 9 loci are OUTSIDE the 12-locus sweep queue** — no overlap with the 8 completed targets, the 4 remaining known loci, or any open todo entry.
+- **Structural finding**: the sweep queue was built from the agency/desert cluster and does not reach the **moral-weight cluster**, which carries a shared near-verbatim sentence ("suffering is never truly reduced, only redistributed") across five articles. Best calibrated once as a family, not one at a time.
+- **Assessed and excluded (correct as written)**: 15 mechanism/falsifier loci under the standing carve-out, incl. `apex/post-decoherence-selection-programme` L171, `apex/attention-as-causal-bridge` L176, `arguments/materialism-argument` L145, and `topics/quantum-indeterminacy-free-will` L167 (re-confirmed). The **positions register is clean** — no uncalibrated agency-from-MWI claim. `topics/consciousness-and-testimony` L147 is already in the AFTER shape unswept ("a tenet, not a derived result") and is usable as a model.
+- **Tasks queued**: 1 consolidated P2 refine-draft (`obsidian/apex/altered-states-as-interface-evidence.md` primary) covering the 3 errors + 2 cross-calibration errors. Warnings left as a prose recommendation for a single second pass after the in-flight sweep clears.
+- **Output**: [[reviews/tenet-check-2026-07-28]]
+- **Contract**: reports-only — no article content modified.
 
 ## 2026-07-28T02:46:29+00:00 - refine-draft
 - **Status**: Success
