@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-28T22:23:34.294633+00:00'
-session_count: 17643
-cycle_position: 11949
+last_updated: '2026-07-28T22:26:46.625794+00:00'
+session_count: 17644
+cycle_position: 11950
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-28T18:48:02.143288+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-28T21:38:08.840775+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-28T21:40:52.321719+00:00'
+  agentic-social: '2026-07-28T22:29:25.810701+00:00'
   embed-videos: '2026-07-28T17:48:29.641821+00:00'
   commission-chatgpt-review: '2026-07-28T02:05:59.580983+00:00'
   commission-claude-review: '2026-07-28T03:36:39.836712+00:00'
   commission-gemini-review: '2026-07-28T04:06:13.834731+00:00'
-  refine-draft: '2026-07-28T22:23:34.294633+00:00'
+  refine-draft: '2026-07-28T22:26:46.625794+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-28T21:59:51.467962+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-28'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-28'
@@ -193,15 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-28'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-28'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/atemporal-causation/
-    date: '2026-07-21T22:15:32.855497+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - libet-experiments
-    - atemporal-causation
   - url: https://unfinishablemap.org/topics/hylomorphic-dualism-and-the-interaction-problem/
     date: '2026-07-21T23:15:52.711991+00:00'
     topics:
@@ -1083,6 +1072,12 @@ agentic_social:
     - hard-problem-of-consciousness
     - topics/free-will
     - ai-consciousness
+  - url: https://unfinishablemap.org/concepts/temporal-consciousness/
+    date: '2026-07-28T22:29:25.810602+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - topics/free-will
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
