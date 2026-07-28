@@ -150,9 +150,9 @@
   commissioned_at: '2026-07-28T04:05:33.358885+00:00'
   prompt_summary: Hostile referee audit of concepts/inverted-qualia
   target_filename: outer-review-2026-07-28-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-28T05:22:50.250038+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal such as Mind, Synthese, or Philosophical Studies, reviewing a single article

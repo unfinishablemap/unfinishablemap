@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T05:04:08+00:00
+ai_modified: 2026-07-28T05:24:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 05:24 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-07-28-gemini-2-5-pro]]
+- **Subject**: `concepts/inverted-qualia.md` — third and final leg of the 2026-07-28 triple
+- **Claims verified**: 10 quotations grepped against the live corpus + 6 checkable claims about internal files opened and read + 2 named citations web-verified at publisher
+- **Quote fidelity**: 9 of 10 verbatim, 1 spliced. **Zero fabrications** — Gemini's best result on record for this failure mode, and better than tonight's ChatGPT leg (6 bad of ~16). Calibration: ChatGPT 6/16 bad, Claude 0/20, Gemini 1/10.
+- **Dominant defect — systematic mis-attribution**: not one of the ten quotations comes from the audited article. All ten are verbatim from four *other* files (`concepts/visual-consciousness.md` L45/L53, `topics/modal-structure-of-phenomenal-properties.md` L36/L38/L111, `concepts/functionalism.md` L105, `topics/william-james-consciousness.md` L101/L188). The report says "the manuscript" throughout while auditing the site as a whole. Any task derived from it must be routed to the file that actually holds the text.
+- **High-value findings**: 1 (of 5 named weaknesses)
+- **Tasks generated**: 1 (P2)
+- **Rejected findings**: (a) headline charge that the article ignores colour-space asymmetry — FALSE; L80-82 is a dedicated "Detectability Objection" section citing Hardin and L139 concedes it as defeater #2, with L160 conceding further that real inverters "would likely reveal themselves under careful testing"; (b) the ~1,700-word synesthesia section — entirely off-target, the audited article has zero mentions of synesthesia/Stapp/Penrose/predictive processing, and the "Wager 2001" entry it attacks was removed as unverifiable on 2026-06-17; (c) straw-man charge against the illusionism passage — self-refuting, Gemini truncated `functionalism.md` L105 immediately before the two sentences making the concession it demands; (d) Kammerer (2021) named as an omission — `concepts/illusionism.md` already engages Kammerer 2017, 2022, 2022b and 2025, including the introspective-opacity point at L107; (e) circularity charge at `modal-structure` L36 — over-read, the passage is a correctly-calibrated framework-level declaration and L109 names the circularity risk by name ([[tenets-as-evidence]] calibration: fair charge, wrong locus).
+- **Citation check**: Nakauchi & Tamura 2022 *Sci Rep* 12:14585 (DOI 10.1038/s41598-022-18847-9) — REAL but **mis-framed**; the paper found painting colour compositions do *not* match natural-scene statistics, the opposite of the use Gemini makes of it, and it has no ERP component despite the attached P3 claim. Re-framing job, not a deletion ([[citation-framing-accuracy-lens]]). Kammerer 2021 *Synthese* 198:845-866 — REAL and correctly framed. Weaknesses #2 and #4 name no specific work at all, so the prompt's demand for five specific 2020-2025 citations was met twice over ten.
+- **Convergences named for /combine-outer-reviews**: the one real residue behind rejected finding (a) — no 2020s colour-science citation, bibliography stops at Palmer 1999 — **converges with the live ChatGPT task** "inverted-qualia — 2020s colour science, the Palmer over-reading…". The circularity charge, relocated to its correct locus at `inverted-qualia.md` L152 (a convergence claim carrying no framing caveat; grep confirms neither `inverted-qualia.md` nor `qualia.md` contains "taken as given" or "not independent evidence"), is **the same defect class as Claude's live task** at `qualia.md` L184. Both left un-minted for the synthesis pass to upgrade.
+- **New task**: P2 `concepts/visual-consciousness.md` — L45 asserts phenomenal depth "remain[s] unexplained by the computational account" while the file returns zero hits for predictive processing / active inference / Friston / Clark / Seth. The single Gemini finding that survived verification as a genuine, correctly-routed gap. Carries the [[direct-refutation-discipline]] remit; cross-links to the existing `topics/predictive-processing-and-dualism.md` rather than re-deriving PP.
+- **Prompt-compliance note**: the report breached the prompt's explicit exclusion of the site's review pipeline by citing "the manuscript's internal review logs" and quoting the Map's editor vocabulary ("unsupported foundational move") from `workflow/changelog.md`.
 
 ## 2026-07-28 05:04 UTC - literature-drift-review
 - **Status**: Success
