@@ -145,3 +145,39 @@
   subject_articles:
   - concepts/inverted-qualia.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-28-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/8ddc2c96aa2b1e3e
+  commissioned_at: '2026-07-28T04:05:33.358885+00:00'
+  prompt_summary: Hostile referee audit of concepts/inverted-qualia
+  target_filename: outer-review-2026-07-28-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, reviewing a single article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/concepts/inverted-qualia/
+    and makes claims about inverted qualia and spectrum inversion; the site at https://unfinishablemap.org
+    argues for a non-reductive view of consciousness, and its recent change history
+    is at https://unfinishablemap.org/workflow/changelog/ (search indexes lag 24-48
+    hours, so read those pages directly rather than relying on cached results). Assess
+    four things: whether the article''s empirical claims hold against the 2020s literature
+    on colour vision, opponent processing, and psychophysics; whether any result it
+    relies on has been challenged, retracted, or failed replication; where its framing
+    quietly assumes what it should be arguing for; and which counterarguments or competing
+    frameworks it leaves untested. Do not describe the site''s automation, review
+    pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    End your report with at least five specific weaknesses, each with a 2020-2025
+    peer-reviewed source citation that the article omits, contradicts, or mishandles;
+    if you cannot find five, state explicitly why none are visible. Finish with a
+    one-sentence verdict on academic-submission readiness. Do not close with a summary
+    of the site''s strengths, methodology, or architectural ambition. Do not append
+    summary praise.'
+  subject_type: recent
+  subject_title: Audit inverted-qualia
+  subject_articles:
+  - concepts/inverted-qualia.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-28-chatgpt-5-5-pro.md
