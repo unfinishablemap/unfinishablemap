@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-07-28T07:33:29+00:00
+ai_modified: 2026-07-28T09:07:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,15 +57,15 @@ Imagine two perceivers, Invert and Nonvert, who:
 - **Make the same discriminations.** Both distinguish the same number of shades, find the same colors similar or different.
 - **Exhibit the same functional organization.** Their brains process color information through identical pathways with identical effects on behavior.
 
-Yet phenomenologically, their experiences differ. Looking at a red apple, Nonvert experiences a quality we might call "phenomenal red"—the warm, vivid character of redness—while Invert experiences "phenomenal green", the qualitative character we would recognize as seeing green. Neither is wrong about the apple: both correctly perceive the surface property that reflects certain wavelengths. What differs is the *qualitative character* of their correct perceptions.
+Yet phenomenologically, their experiences differ. Looking at a red apple, Nonvert experiences a quality we might call "phenomenal red" while Invert experiences "phenomenal green", the character we would recognize as seeing green. Neither is wrong about the apple: both correctly perceive its surface property. What differs is the *qualitative character* of their correct perceptions.
 
 ## Why This Challenges Functionalism
 
-[[concepts/functionalism]] holds that mental states are defined by their functional roles—by inputs, behavior, and relations to other mental states. The inverted spectrum scenario suggests this can't be right for qualitative states: if Invert and Nonvert share functional organization yet differ in qualitative character, qualia aren't functional kinds.
+[[concepts/functionalism]] holds that mental states are defined by their functional roles—inputs, behavior, and relations to other mental states. If Invert and Nonvert share functional organization yet differ in qualitative character, qualia aren't functional kinds.
 
 ## Block's Inverted Earth
 
-Ned Block's Inverted Earth scenario sharpens the argument against sophisticated functionalism. Imagine being transported to a planet where surface colors are inverted (the sky is yellow, grass is red) and inhabitants use inverted color terms; inverting contact lenses compensate, so grass still looks green to you though it is actually red.
+Ned Block's Inverted Earth scenario sharpens the argument against sophisticated functionalism. Imagine a planet where surface colors are inverted (the sky is yellow, grass is red) and inhabitants use inverted color terms; inverting contact lenses compensate, so grass still looks green to you though it is actually red.
 
 After 50 years your functional role has fully adapted—same inputs, same outputs, same internal processing as natives—and a "long-arm functionalist" (one who includes environmental relations in functional roles) should say your color experiences now represent Inverted Earth red rather than Earth green. Your experiences, though, are the same as when you left Earth.
 
@@ -91,19 +91,19 @@ As the Stanford Encyclopedia of Philosophy's survey observes, "almost uncontrove
 
 The same passage names its dissenter: "Shoemaker is a notable dissenter on this point; he holds that while inverted spectrum scenarios are conceptually coherent, zombie scenarios are not." The article thus leans on Shoemaker's reformulation while drawing a parallel he denies.
 
-The relationship goes deeper: both arguments exploit the explanatory gap—structural descriptions don't logically entail phenomenal facts—so whether the gap concerns qualia's existence or their character, the underlying point is the same.
+Both arguments exploit the explanatory gap—structural descriptions don't logically entail phenomenal facts—whether the gap concerns qualia's existence or their character.
 
 ## The Privacy of Experience
 
-Inverted qualia dramatically illustrate the [[problem-of-other-minds]]—what the Map calls the [[consciousness-and-the-problem-of-other-properties|problem of other properties]]. You and I might agree perfectly about color categories, share aesthetic judgments, and find the same combinations pleasing, yet experience systematically different qualia: shared language and behavior hide potentially radical experiential divergence. The implication runs past epistemology to qualia's nature—what a colour experience is *like* outruns what it does or what it's about.
+Inverted qualia dramatically illustrate the [[problem-of-other-minds]]—what the Map calls the [[consciousness-and-the-problem-of-other-properties|problem of other properties]]. You and I might agree perfectly about color categories and share aesthetic judgments yet experience systematically different qualia: shared language and behavior hide potentially radical experiential divergence. The implication runs past epistemology to qualia's nature—what a colour experience is *like* outruns what it does or what it's about.
 
 ## Physicalist Responses
 
-**Representationalism.** Qualia are (or supervene on) representational properties. If Invert and Nonvert both accurately perceive that tomatoes are red, their experiences have the same content, hence the same qualia. *Problem:* This conflates what experiences represent with how they represent it—both may accurately represent redness through different qualitative modes.
+**Representationalism.** Qualia are (or supervene on) representational properties. If Invert and Nonvert both accurately perceive that tomatoes are red, their experiences have the same content, hence the same qualia. *Problem:* This conflates what experiences represent with how—both may represent redness accurately through different qualitative modes.
 
-**The phenomenal concepts strategy.** Phenomenal concepts pick out physical properties through a distinctive cognitive mode; inversion's conceivability reflects this peculiarity, not real possibility. This is the natural home of the Kripkean reply that conceivability does not entail possibility—just as water-without-H₂O seems conceivable yet is a-posteriori impossible, inversion may be conceivable-but-impossible, its appearance of possibility tracing to our concepts rather than the modal facts. *Problem:* the distinctive working of phenomenal concepts itself requires explanation. The strategy risks explaining too much (making any identity claim vulnerable) or too little (unlike the water case, no hidden essence can be exhibited that would make inversion impossible).
+**The phenomenal concepts strategy.** Phenomenal concepts pick out physical properties through a distinctive cognitive mode; inversion's conceivability reflects this peculiarity, not real possibility. This is the natural home of the Kripkean reply that conceivability does not entail possibility: as water-without-H₂O seems conceivable yet is a-posteriori impossible, inversion may be conceivable-but-impossible. *Problem:* the distinctive working of phenomenal concepts itself requires explanation, and the strategy risks explaining too much (making any identity claim vulnerable) or too little (unlike the water case, no hidden essence can be exhibited that would make inversion impossible).
 
-**Dennett's skepticism.** Dennett (1991) argued that after total adaptation, the inversion would effectively "flip back"—if all dispositions adjust to the new qualia, in what sense have they remained inverted? *Response:* this conflates having qualia with thinking about them, and presupposes Dennett's eliminativism—that there is no intrinsic qualitative character to adapt away from. Grant the premise and the argument goes through; the rest of this article is the case for withholding it.
+**Dennett's skepticism.** Dennett (1991) argued that after total adaptation, the inversion would effectively "flip back"—if all dispositions adjust to the new qualia, in what sense have they remained inverted? *Response:* this conflates having qualia with thinking about them, and presupposes Dennett's eliminativism—that there is no intrinsic qualitative character to adapt away from. Grant that premise and the argument goes through; the rest of this article is the case for withholding it.
 
 ## The Illusionist Challenge
 
@@ -111,31 +111,31 @@ Inverted qualia dramatically illustrate the [[problem-of-other-minds]]—what th
 
 ### The Regress Response
 
-To explain *why* inversion seems conceivable, the illusionist must invoke "seemings." Strawson (2006) argued this looks self-stultifying: if there's something it's like to seem to see red, then there's something it's like—period. Frankish's diagnostic illusionism refuses the inference: a seeming is a higher-order representation that *represents* a state as having qualitative character without its having it, so Strawson's charge presupposes the contested premise rather than settling it.
+To explain *why* inversion seems conceivable, the illusionist must invoke "seemings." Strawson (2006) argued this looks self-stultifying: if there's something it's like to seem to see red, then there's something it's like—period. Frankish's diagnostic illusionism refuses the inference: a seeming *represents* a state as having qualitative character without its having it, so Strawson's charge presupposes the contested premise rather than settling it.
 
-The Map's position is that even this weaker move inherits the explanatory burden rather than discharging it: a representation that represents itself as phenomenal—when nothing actually is—still has to explain why the self-ascription is so systematic, universal, and resistant to correction. Applied to inversion, the illusionist must explain why the seemings are structured as if tracking a real qualitative difference when by hypothesis none exists. The puzzle relocates; whether it dissolves depends on contested details.
+The Map's position is that even this weaker move inherits the explanatory burden rather than discharging it: a representation that represents itself as phenomenal, when nothing actually is, still has to explain why the self-ascription is so systematic, universal and resistant to correction—and, applied to inversion, why the seemings are structured as if tracking a real qualitative difference when by hypothesis none exists. The puzzle relocates; whether it dissolves depends on contested details.
 
 ### Introspection and Contemplative Evidence
 
-Illusionist debunking arguments typically target introspection's unreliability about cognitive *processes*—confabulation, post-hoc narratives—while the inverted qualia argument concerns qualitative *content*. I may be wrong about *why* I find this red beautiful, but the redness itself is directly given. Whether cognitive biases reach that content is contested; illusionists read the same empirical literature in the opposite direction.
+Debunking arguments are not confined to introspection's unreliability about cognitive *processes*—confabulation, post-hoc narratives. Schwitzgebel (2011) argues we are "frequently and massively mistaken" about qualitative *content* too, across visual imagery, emotion, dreams and peripheral vision (see [[discrimination-problem]]). The inversion argument does not need that ground. It needs introspection to be reliable about *whether* there is phenomenal content, not about its *fine structure*: I may misjudge how detailed my imagery is, or which shade I am seeing, without its being equally doubtful that some qualitative character is present at all. Whether debunking reaches that far is contested; illusionists read the same literature in the opposite direction.
 
-Meditative traditions add complexity: some jhāna practitioners report observing color qualia with unusual clarity, while Madhyamaka examination reveals their constructed nature. Were qualia purely representational artifacts, meditation should uniformly reveal them as such; the divergence suggests they have several aspects rather than being wholly eliminable.
+Meditative traditions add complexity: some jhāna practitioners report observing color qualia with unusual clarity, while Madhyamaka examination reveals their constructed nature. Were qualia purely representational artifacts, meditation should uniformly reveal them as such; the divergence suggests otherwise.
 
 ## The Organizational-Invariance Objection
 
-The objections above come from physicalists and eliminativists, and each has been met here by pointing to a premise the inversion argument exists to contest. The hardest objection comes from elsewhere. David Chalmers (1996)—a property dualist who accepts the [[explanatory-gap|explanatory gap]] and the hard problem—defends the principle of [[organizational-invariance|organizational invariance]]: systems sharing the same functional organization *at a fine enough grain* have qualitatively identical experiences, as a matter of natural rather than logical necessity. He grants that Invert and Nonvert are conceivable and denies that they are nomologically possible.
+The objections above come from physicalists and eliminativists, and each has been met by pointing to a premise the inversion argument exists to contest. The hardest objection comes from elsewhere. David Chalmers (1996)—a property dualist who accepts the [[explanatory-gap|explanatory gap]] and the hard problem—defends the principle of [[organizational-invariance|organizational invariance]]: systems sharing the same functional organization *at a fine enough grain* have qualitatively identical experiences, as a matter of natural rather than logical necessity. He grants that Invert and Nonvert are conceivable and denies that they are nomologically possible.
 
 The **dancing qualia** argument is his case. Give a subject a functionally identical silicon backup for some cortical region, with a switch that routes processing either way without altering overall organization. If the two substrates yielded inverted experiences, flipping the switch would swap red for blue while nothing in the subject's cognition registered the swap—no surprise, no shift of attention, no altered judgment. A rational subject attending to a dancing spectrum and noticing nothing is, Chalmers argues, less believable than the invariance principle he is defending. The companion **fading qualia** argument runs the same hinge over gradual neuron-by-neuron replacement.
 
 This cannot be deflected as physicalist question-begging, which is what makes it the sharpest case the article faces. Neither is it a refutation of the Map's position, nor the Map's reply a refutation of his. The disagreement concerns [[psychophysical-laws|psychophysical law]] and grain. Chalmers' principle carries its own qualifier—*at a fine enough grain*—and the Map's claim is that the consciousness-relevant grain includes the quantum interface posited by [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. If Invert and Nonvert differ at that interface, they were never fine-grained functional duplicates, and the dancing scenario does not arise for a genuine isomorph.
 
-The reply carries a dilemma the Map owns rather than escapes. If the interface difference is behaviourally detectable, it is coarse organization that Chalmers' isomorph already reproduces, and the grain dispute collapses. If it makes no difference at all, the inversion is causally idle and the Map has rebuilt the [[concepts/epiphenomenalism|epiphenomenalism]] it rejects. Which horn is avoidable turns on an open question about how fine the interface is, not on anything settled here. [[organizational-invariance]] states both of Chalmers' arguments at full strength and works through the reply.
+The reply carries a dilemma the Map owns rather than escapes. If the interface difference is behaviourally detectable, it is *ipso facto* organizational—fine-grained organization is specified at whatever level of detail is needed to fix behaviour—so Chalmers' isomorph already reproduces it and the grain dispute collapses. If it makes no *detectable* difference, the subject's part-silicon stages are behaviourally identical to the all-neural ones while, on the Map's view, experience has shifted, which reinstates the very introspection-versus-experience dissociation the fading argument calls implausible. This article is not neutral between the horns: the [[#bidirectional-interaction-and-minimal-quantum-interaction|MQI discussion below]] predicts subtle behavioural differences from any actual inversion, which takes the first. What keeps that from being fatal is a type/token distinction—an isomorph reproduces the causal *pattern*, statistical envelope included, whereas MQI concerns which *token* outcome is drawn inside that envelope, a difference that is causally efficacious (so not [[concepts/epiphenomenalism|epiphenomenal]]) without being organizational (so not reproduced by the isomorph). The Map owes an account of that distinction rather than a free escape. [[organizational-invariance]] states both of Chalmers' arguments at full strength and works through a sharper version of the same dilemma.
 
 ## Process Philosophy Perspective
 
-Whitehead's process philosophy makes inverted qualia intelligible. Basic units of reality ("actual occasions") have subjective aspects constitutively; qualia are "eternal objects"—pure possibilities that ingress into occasions. Invert and Nonvert might prehend the same physical facts through different eternal objects: both see the apple correctly, but which eternal objects ingress differs.
+Whitehead's process philosophy makes inverted qualia intelligible. Basic units of reality ("actual occasions") have subjective aspects constitutively; qualia are "eternal objects"—pure possibilities that ingress into occasions. Invert and Nonvert might prehend the same physical facts through different eternal objects: both see the apple correctly, but which objects ingress differs.
 
-Functional organization concerns relations *between* prehensions; which eternal objects ingress is a separate question. Qualitative character arises in *concrescence* (the integration of prehensions), not in the relational structure it produces, so two subjects could produce identical functional outputs from qualitatively different concrescences.
+Qualitative character arises in *concrescence*—the integration of prehensions—not in the relational structure it produces, so two subjects could produce identical functional outputs from qualitatively different concrescences.
 
 This connects to [[haecceity]]—the "thisness" of individual experience. Your experience of red is not merely *a* red-experience but *this* red-experience, had by *this* subject at *this* moment; haecceity is lost in functional abstraction, which treats tokens as equivalent if they play the same role.
 
@@ -143,7 +143,7 @@ This connects to [[haecceity]]—the "thisness" of individual experience. Your e
 
 The inverted qualia argument—and the Map's reliance on it—would face serious difficulty if:
 
-1. **Functional role necessarily determines qualitative character.** If the complete causal role of a state (including all dispositional properties) logically entailed its qualitative character—or if functional accounts could constitute intrinsic properties rather than deny them—inversion would be inconceivable and the gap between function and quality would close. Chalmers' [[organizational-invariance]] argues the weaker nomological version of this.
+1. **Functional role necessarily determines qualitative character.** If the complete causal role of a state logically entailed its qualitative character, inversion would be inconceivable and the gap between function and quality would close. Chalmers' [[organizational-invariance]] argues the weaker nomological version.
 2. **Color space proves asymmetric in all dimensions.** If *any* inversion (not just 180° rotation) were behaviorally detectable, the empirical version fails. The modal version survives with diminished force.
 3. **Illusionism becomes coherent.** If illusionism could explain inversion's seeming without reintroducing phenomenal properties for the seemings themselves, the regress objection would lose force.
 4. **Contemplative traditions uniformly support illusionism.** Currently reports diverge—some emphasize construction, others report an irreducible "suchness" surviving deconstruction.
@@ -156,9 +156,9 @@ The inverted qualia argument bears on several of the Map's [[tenets|foundational
 
 ### Dualism
 
-The inverted qualia argument supports [[tenets#^dualism|dualism]], contributing to [[the-convergence-argument-for-dualism|the convergence case]] by pressing the shared explanatory-gap premise from a different angle rather than confirming it independently. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by physical-functional facts. Something beyond physics determines qualia.
+The inverted qualia argument supports [[tenets#^dualism|dualism]], contributing to [[the-convergence-argument-for-dualism|the convergence case]] by pressing the shared explanatory-gap premise from a different angle rather than confirming it independently. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by *functional* facts. That falls short of dualism by itself: type-identity theories, substrate-sensitive physicalism and nonfunctionalist representational physicalism all survive an inverted-spectrum argument. What the argument licenses is conditional—if the physical facts relevant to qualia are exhausted by functionally specified ones, then something beyond physics determines qualia—and the Map argues that antecedent elsewhere rather than here.
 
-This connects to the core [[explanatory-gap]] argument: physics describes structure and relations, but the redness of red is a quality rather than either. The inverted qualia scenario dramatizes the gap—we can fully specify Invert and Nonvert's functional organization without determining which experiences which color, leaving the qualitative facts open.
+This connects to the [[explanatory-gap]]: we can fully specify Invert and Nonvert's functional organization without determining which experiences which colour, leaving the qualitative facts open.
 
 ### Bidirectional Interaction and Minimal Quantum Interaction
 
@@ -166,7 +166,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets
 
 The Map bites the bullet. Phenomenal character is causally efficacious, so any *actual* instance of qualia-inversion should produce subtle behavioural differences—in aesthetic preferences, emotional valences, reaction-time asymmetries, or the fine structure of introspective reports. MQI's bandwidth-limited outbound channel (see [[bandwidth-of-consciousness]] and [[consciousness-bandwidth-architecture]]) predicts these show up in finer-grained measurements rather than coarse discrimination tasks.
 
-That empirical commitment is the Map's own, made in the teeth of Hardin's detectability argument rather than in alignment with it. Having answered Hardin above by insisting the inversion argument is modal rather than empirical, the article cannot now borrow his empirical bite as corroboration. The consistent claim is narrower: testing of Hardin's kind would probe the Map's prediction, and could falsify it, while the conceivability argument stands or falls independently.
+That empirical commitment is the Map's own, made in the teeth of Hardin's detectability argument rather than in alignment with it: having answered Hardin above by insisting the inversion argument is modal rather than empirical, the article cannot now borrow his empirical bite as corroboration. Testing of Hardin's kind would probe the Map's prediction, and could falsify it, while the conceivability argument stands or falls independently.
 
 What survives is the thought experiment's *conceptual* force: strict behavioural identity plus qualia-difference is a limit case the Map treats as physically unrealised though conceivable. The zombie and knowledge arguments do similar work without this tension.
 
@@ -174,13 +174,13 @@ The epiphenomenalist alternative—qualia differ without differing causally at a
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to inverted qualia through [[haecceity]]. If all quantum outcomes occur, questions about what Invert *actually* experiences become indexically fraught: the conceivability of inversion presupposes genuine facts about *this* subject's experience, not about abstract branches, and when we ask whether your red is my green we are asking about us rather than our counterparts in other worlds. That first-person indexicality supports real collapse and genuine phenomenal facts.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to inverted qualia through [[haecceity]]. If all quantum outcomes occur, questions about what Invert *actually* experiences become indexically fraught: the conceivability of inversion presupposes genuine facts about *this* subject's experience rather than about abstract branches. An Everettian grants that much branch-locally—each branch-relative subject has a definite indexical experience, and "is your red my green?" has a determinate answer within the branch. What branching does not supply is that the alternatives fail to occur *anywhere*, and that global exclusion is a [[tenets/background-commitments|posit the Map adopts]] rather than a deliverance of indexical experience. The disagreement sits at the framework boundary.
 
 ### Occam's Razor Has Limits
 
-The argument connects to [[tenets#^occams-limits|Occam's Razor Has Limits]]. The conceivability of spectrum inversion has persisted despite sophisticated functionalist theories, which suggests the explanatory gap reflects something deep about consciousness's nature.
+The argument connects to [[tenets#^occams-limits|Occam's Razor Has Limits]]. The conceivability of spectrum inversion has persisted despite sophisticated functionalist theories, which suggests the explanatory gap reflects something deep about consciousness's nature—though the persistence of an intuition is not by itself evidence for any particular metaphysical reading of it.
 
-Eliminativists and illusionists invoke parsimony: why posit qualia as something extra when functional organization suffices? The inverted qualia scenario answers that it *doesn't* suffice—it leaves questions about qualitative character open. The "simpler" theory achieves simplicity by ignoring what needs explanation; true understanding may require ontological complexity current physics doesn't capture.
+Eliminativists and illusionists invoke parsimony: why posit qualia as something extra when functional organization suffices? The inverted qualia scenario presses that question rather than settling it—the "simpler" theory looks simpler partly because it declines to explain what the scenario makes salient. The tenet's discipline is symmetric and binds the Map's parsimony reasoning as much as its critics': it licenses no step from "materialism may be too simple" to "the Map's ontology is right", only the refusal to let simplicity decide while the relevant knowledge is incomplete.
 
 ## Further Reading
 
@@ -188,7 +188,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [[philosophical-zombies]] — The parallel argument varying qualia's presence rather than character
 - [[qualia]] — The phenomenal properties that resist functional analysis
 - [[concepts/functionalism]] — The primary target of the inverted spectrum argument
-- [[organizational-invariance]] — Chalmers' fading/dancing-qualia case that function fixes phenomenal character: the sharpest objection to this article, and dualist-friendly
+- [[organizational-invariance]] — Chalmers' fading/dancing-qualia case that function fixes phenomenal character: the sharpest objection to this article
 - [[knowledge-argument]] — Another route to the same dualist conclusion
 - [[problem-of-other-minds]] — The epistemic implications of qualia's privacy
 - [[dualist-perception]] — Perceptual qualia as the paradigm case for understanding consciousness
@@ -212,4 +212,5 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+- Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 
