@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T18:32:00+00:00'
+ai_modified: '2026-07-28T18:43:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 18:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/edge-states-and-void-probes.md` (3481 words) and `concepts/mind-brain-separation.md` (2163 words), selected by running the Audit Two symmetry sweep (`tools/curate/altered_state_symmetry.py`) across topics/concepts/apex/voids — 6 flags returned; these two are the extreme cases at either end (densest supportive-only asymmetry; most disruptive-clusters-cited-with-zero-symmetry-marker).
+- **Output**: [[reviews/pessimistic-2026-07-28-filter-framing-symmetry-cluster]]
+- **Finding 1 — inverted conditional, web-verified**: `edge-states-and-void-probes.md` L128 reports Kondziella et al. (2019) as finding "NDE phenomenology more common in people prone to REM-sleep intrusion (47% versus 14%)". Checked against the PeerJ 7:e7585 abstract: the study found the converse — REM intrusion more common in people *with* NDEs (47%) than in sub-threshold (26%) or non-experiencers (14%). The article's inferential use requires a causal direction a symmetric association does not carry, and "wholly physiological" over-describes a self-reported measure in a crowdsourced sample. Grep-verified single locus; `topics/near-death-experiences.md` L105 is correct.
+- **Finding 2 — stale hub, git-verified**: `concepts/mind-brain-separation.md` has zero commits since 2026-06-20 while both dedicated articles it wikilinks were recalibrated afterwards. It states terminal lucidity "provides the most dramatic evidence ... precisely as filter theory predicts" where `topics/terminal-lucidity-and-filter-transmission-theory.md` (commits 8be69cc0b, 1a520aa66) now says the prospective evidence "points away from, not toward, the filter interpretation"; and it runs the bare illusionist regress as decisive where `concepts/illusionism.md` L93 states Frankish "is right that the bare regress proves nothing". The 2026-06-20 deep review's ruling that the superlative was "not slippage" was defensible then and is stale now.
+- **Finding 3 — symmetry failures at both extremes**: `edge-states-and-void-probes.md` cites four supportive-cluster members and zero disruptive ones, while naming the debt at L154 ("a filter that mimics production under every disruption") without paying it — but it has already installed the anti-double-counting half of the discipline twice, so the gap is narrow. `mind-brain-separation.md` inverts the failure: all four disruptive clusters cited, zero symmetry markers, every case converted into filter support.
+- **Checked and cleared**: Gładziejewski (2023) *Review of Philosophy and Psychology* 16(1):175–197 web-verified correct (online-first 2023, issue 2025) — not a citation defect. The `mind-brain-separation.md` L111 No-Many-Worlds phenomenology passage re-examined and the 2026-06-20 ruling upheld as tenet-coherence, not evidence-elevation; no task minted for it.
+- **Tasks added**: 2 × P2 `refine-draft` (one per file), both with grep/git/web-verified notes and explicit do-not-over-fix constraints.
+- **Content modified**: none (report, todo.md, changelog only)
 
 ## 2026-07-28 18:32 UTC - refine-draft
 - **Status**: Success
