@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T19:14:00+00:00'
+ai_modified: '2026-07-28T19:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 19:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mind-brain-separation]]
+- **Word count**: 2491 → 2501 raw (+10); argument prose 2286 vs 263 words of reference apparatus — raw `soft_warning` is the counting artifact, not a real over-length. No trim applied.
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0 (length-neutral; no expansions)
+- **Trigger**: seventh review, 38 days since 2026-06-20. Selected at score 27 under convergence damping (6 prior reviews). Re-qualified by the same-day `refine-draft` `bae2678a0` (19:02 UTC), which substantively recalibrated the evidential register.
+- **Scope decision**: the References block is byte-identical to the 2026-06-20 publisher-of-record verified state, so per the §2.4 trigger the eight-cite ledger was carried forward rather than re-litigated (the 06-20 review's own instruction). Effort was redirected to the claims *today's refine introduced* — which is where the defect was.
+- **Changes**:
+  - **(a) CRITICAL — lead/body contradiction on lesion evidence.** Today's refine recalibrated the lesion-and-adaptation evidence in two body loci (§ The Filter Theory Framework: hemispherectomies are mostly paediatric and reorganisation explains preserved unity "without appeal to a non-physical mind"; § The Brain as Rendering Engine: "a pattern a reorganisation account explains equally well, so it illustrates the model rather than favouring it") but left the **lead** asserting the converse: "Brain lesions typically disconnect consciousness ... **supporting** the filter/transmission theory." The article claimed in its truncation-resilient summary exactly what it twice conceded in the body. Not a bedrock disagreement — a tenet-accepting reviewer would still flag it, since the body itself concedes the data does not discriminate. Rewritten to "—a pattern the [[filter-theory|filter/transmission theory]] renders natural, though a reorganisation account predicts it equally well." The offending sentence dated to the 2026-02-26 condense (`81fe28660`) and had been consistent until today.
+  - **(b) Medium — lead/tenets hedge gradient.** Lead said the knowledge argument "**shows**" that complete physical knowledge leaves out phenomenal facts, while § Relation to Site Perspective says knowledge argument and zombie conceivability "**suggest**" it. The argument is contested (Lewis, Nemirow, Dennett) and the article's own later hedge is better calibrated. "shows" → "holds" (zero word delta).
+- **Claims web/corpus-verified (new since last review, all clean)**: terminal-lucidity "4.1% of recorded events" + "first prospective study" → Tollock et al. 2025, *Innovation in Aging* 9(Suppl_2) igaf122.2914, twice publisher-confirmed at Oxford Academic / PMC12761273 per the W29 changelog (151 enrolled / 93 lucidity / 267 events / 4.1% terminal subtype exact; superlative currency holds). "Most hemispherectomies are paediatric / reorganisation explains preserved unity" → corroborated by [[hemispherectomy-and-the-resilience-of-unified-consciousness]] (Vining 1997, Curtiss/de Bode/Mathern 2001, Kliemann 2019). "Frankish accepts a zombie would have quasi-phenomenal properties and functional seeming identical to ours" → faithful condensation of [[illusionism]] §§ zombie convergence and self-representation, sourced to Frankish 2016 *JCS* 23(11-12), 11-39. No attribution, quote-fidelity, or empirical-paraphrase defect found.
+- **Engagement classification**: engagement with Frankish on the bare regress — **Mode Two**, well executed; the refine's rewrite declines the regress outright ("the Map does not run it as though it did"), concedes the map/terrain point, and presses the unbuilt meta-representational bridge on illusionism's own standard of mechanistic specification. Engagement with Frankish on zombie convergence — **Mode One**, inherited verbatim in substance from [[illusionism]] and consistent with that article's own classification; the hub defers explicitly rather than over-claiming. No label leakage in article prose.
+- **Preserved deliberately**: the altered-state symmetry paragraph (declines to count the cluster as four independent confirmations, and concedes the same move is available to production theorists) — the article's strongest passage; terminal lucidity cited *against* the filter reading; the five-item "What Would Challenge This View?" section; the explicit ownership of memory as "the weakest part of the filter theory argument"; the un-decided blindsight framing.
+- **Not done (deliberate)**: `ai_system` held at `claude-opus-4-5-20251101` (calibration fix, not re-authoring); `ai_contribution` held at 100; no cross-links added (the refine already wired the three new frontmatter links into body prose); MWI/indexical, eliminativist, binding-charity, memory-weakness and productivist-accommodation objections not re-flagged — all listed bedrock in the 2026-06-20 stability notes and re-affirmed this pass.
+- **Output**: [[reviews/deep-review-2026-07-28-mind-brain-separation]]
+- **Published**: yes
 
 ## 2026-07-28 19:14 UTC - refine-draft
 - **Status**: Success

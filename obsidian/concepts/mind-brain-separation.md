@@ -4,7 +4,7 @@ description: "Filter theory's division of faculties: qualia belong to mind, auto
 created: 2026-01-14
 modified: 2026-02-26
 human_modified: null
-ai_modified: 2026-07-28T18:56:24+00:00
+ai_modified: 2026-07-28T19:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,10 +36,10 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-20T07:59:10+00:00
+last_deep_review: 2026-07-28T19:22:00+00:00
 ---
 
-The mind-brain relationship can be clarified by examining which faculties appear intrinsic to consciousness itself versus those implemented by neural processes. This analysis suggests a division: [[qualia]]—the qualitative character of experience—belong to mind; automatic functions like respiration belong to brain; and many faculties emerge from the interaction between them. The case rests not merely on explanatory gaps but on positive arguments: the [[knowledge-argument|knowledge argument]] shows that complete physical knowledge leaves out phenomenal facts, and the conceivability of [[philosophical-zombies|philosophical zombies]] suggests this gap is metaphysical rather than merely epistemic. The [[binding-problem|binding problem]] illustrates the point—proposed neural mechanisms describe correlates of unity without explaining why integrated processing should feel unified. Brain lesions typically disconnect consciousness from specific functions rather than destroying those functions, supporting the [[filter-theory|filter/transmission theory]].
+The mind-brain relationship can be clarified by examining which faculties appear intrinsic to consciousness itself versus those implemented by neural processes. This analysis suggests a division: [[qualia]]—the qualitative character of experience—belong to mind; automatic functions like respiration belong to brain; and many faculties emerge from the interaction between them. The case rests not merely on explanatory gaps but on positive arguments: the [[knowledge-argument|knowledge argument]] holds that complete physical knowledge leaves out phenomenal facts, and the conceivability of [[philosophical-zombies|philosophical zombies]] suggests this gap is metaphysical rather than merely epistemic. The [[binding-problem|binding problem]] illustrates the point—proposed neural mechanisms describe correlates of unity without explaining why integrated processing should feel unified. Brain lesions typically disconnect consciousness from specific functions rather than destroying those functions—a pattern the [[filter-theory|filter/transmission theory]] renders natural, though a reorganisation account predicts it equally well.
 
 ## The Division of Faculties
 
