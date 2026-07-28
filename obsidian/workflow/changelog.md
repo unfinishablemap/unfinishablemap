@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T03:18:46+00:00
+ai_modified: 2026-07-28T04:51:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 04:51 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [[reviews/outer-review-2026-07-28-claude-opus-5]]
+- **Subject**: `concepts/inverted-qualia.md` — second of the 2026-07-28 three-service triple (Gemini still pending; `/combine-outer-reviews` will synthesise).
+- **Verdict**: REVISE-HARD. Primary finding is a co-optation firewall failure — the article recruits Sydney Shoemaker, a functionalist who uses inversion to *save* functionalism and denies zombies are coherent, as an architect of its anti-functionalist case.
+- **Claims verified**: 20 Map self-quotes checked verbatim (20/20 exact — materially cleaner than the same night's ChatGPT leg, which dressed six paraphrases as quotations); 3 SEP quotes web-verified at plato.stanford.edu; 1 quote (Rosenthal quality-space) confirmed genuine but mis-linked to SEP instead of Rosenthal's own papers; 2 internal-document mis-citations found and flagged.
+- **Mis-citations flagged**: (a) the claim that the Tenet-Dependency Matrix lists No-MWI as "not invoked" for the qualia cluster is FALSE — the matrix has no such row; (b) the charge that `philosophical-zombies` omits the convergence-independence concession is FALSE — L193 already makes it.
+- **High-value findings**: 4 new (Shoemaker co-optation; Hardin re-pointing + the modal-vs-empirical contradiction it creates; missing matrix row for the conceivability-argument cluster; convergence-independence disclosure owed by `qualia.md` L184).
+- **Convergent with ChatGPT leg**: quality-space asymmetry (Hilbert & Kalderon), stale colour science, representationalism/PCS depth, tenet-as-evidence in the No-MWI and Occam subsections, and the ai_modified-conflates-media-edits schema point. Not re-minted — `/combine-outer-reviews` will upgrade.
+- **Tasks generated**: 3 (P1: 1, P2: 2) — consolidated aggressively; 6 ChatGPT tasks already live on this article.
 
 ## 2026-07-28 04:30 UTC - outer-review
 - **Status**: Success
