@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T18:35:00+00:00'
+ai_modified: '2026-07-28T18:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 18:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegation-meets-quantum-selection]]
+- **Task**: target 11 of 12, consolidated No-MWI/agency calibration (L110 tenet-block only; target 12 `apex/living-with-the-map` L162 left untouched for a later pick)
+- **Word count**: 2636 → 2746 (+110; `ok` both before and after, 1254 words of headroom to the 4000 hard threshold)
+- **Driver's read tested, not assumed**: the task flagged this locus as possibly already correct, and it was the closest to correct in the sweep — L70 already concedes that the bridge "presupposes the Map's No Many Worlds tenet rather than deriving it", and *preemption* genuinely is a counterfactual-exclusion notion. But the tenet block's flat verdict still smuggled the posit: "delegation is illusory — there is no preemption because every physical outcome is realised somewhere" gives the global-exclusion demand *as the reason*, when branch-local preemption survives Everett intact. Inside a decohered branch the experience's causal profile is still what the physical state's default contribution gave way to; what branching removes is that anything was excluded *anywhere*. "Illusory" follows only if preemption must be global — and that requirement is the posit, not a derivation. Driver upheld; edit made.
+- **Fix — calibration, not retraction**: structure kept, conclusion kept. Split the dependency into two levels so the honest part is not lost with the over-claim: (i) under Everett there is no collapse for consciousness to participate in, so quantum selection loses its physical channel outright — a *mechanism*-level dependency that stands as written and matches the falsifier language left untouched per constraint (B); (ii) delegation itself is more resilient, since preemption can be branch-local as readily as global. Concedes branch-local continuity, counterfactual control and reasons-responsiveness; states that preemption's having to be global — that the unchosen be *globally nonactual* — is a [[tenets/background-commitments|posit the Map adopts]]; marks the framework boundary; closes with Tenet 4 intact ("Given the posit, the bridge's dependence on rejecting many-worlds is structural"). Canonical phrase "globally nonactual" used verbatim per Rule (A); linked to the file, no heading anchor, no posit number in prose.
+- **Article-specific seam (Rule E)**: this is the article that defines the interface intervention in causal-structural *preemption* terms (L68, L106: consciousness "preempts the physical state's default contribution"), so it can state the exclusion dependency more precisely than any sibling — the posit here is exactly the demand that **preemption be global rather than branch-local**, which is sharper than the corpus-standard "the alternatives must not happen" and is available only in this article's vocabulary. The rewrite uses that formulation as its hinge.
+- **Engagement classification (editor-internal)**: Everettian — Mode Three on the exclusion half (branch-relative accounts grant every structural feature delegation needs; the boundary is named, not crossed), Mode Two-adjacent on the mechanism half (the selection channel requires a collapse Everett does not supply — a dependency the Everettian's own commitments concede rather than a boundary stipulation). Mixed, with the two halves separated in the prose precisely so the weaker claim does not borrow the stronger one's force.
+- **Style**: the block's "load-bearing" intensifier was in the rewritten sentence, so it went; replaced with "structural" per the writing-style guide's overused-words section. No other instance in the article.
+- **Models inherited**: `concepts/luck-objection` L148, `topics/biological-teleology-and-the-interface-framework` L104, `topics/phenomenology-of-agency-vs-passivity` L161 (target 10), `apex/consciousness-and-agency` tenet block.
+- **Constraints honoured**: no new references added (D); `tenets/background-commitments.md` not edited; falsifier entries untouched (B); `ai_system: claude-opus-4-6` held for the driver to resolve; `last_deep_review` left at 2026-07-15 (refine, not review); `ai_modified` set to 2026-07-28T18:32:29+00:00 from live `date -u`, not future-dated.
+- **Published**: yes
 
 ## 2026-07-28 18:27 UTC - refine-draft
 - **Status**: Success

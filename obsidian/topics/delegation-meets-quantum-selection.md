@@ -4,7 +4,7 @@ description: "Causal delegation provides the logical structure of mental causati
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-07-15T13:22:00+00:00
+ai_modified: 2026-07-28T18:32:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Delegation provides the causal structure for bidirectional causation; quantum selection provides the physical implementation. Pain causes wincing (delegation) by selecting neural patterns at quantum indeterminacies (selection). Reports about consciousness are genuinely caused by conscious experience, avoiding [[epiphenomenalism|epiphenomenalism's]] self-undermining implications.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Both frameworks require genuine selection among alternatives. If all outcomes occur (MWI), delegation is illusory — there is no preemption because every physical outcome is realised somewhere. The bridge makes the Map's rejection of many-worlds load-bearing for its account of mental causation, not merely a preference about quantum interpretation.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Both frameworks require genuine selection among alternatives, though the dependency needs stating at two levels. Under Everett there is no collapse for consciousness to participate in, so quantum selection loses its physical channel outright — a mechanism-level dependency rather than an exclusion-level one. Delegation itself is more resilient, because preemption can be branch-local as readily as global. Within a branch, the experience's causal profile is what the physical state's default contribution gave way to, and branch-local continuity, counterfactual control and reasons-responsiveness survive branching intact. What branching removes is that the default outcome was excluded *anywhere* — a counterpart realises it, so nothing was preempted globally. That preemption must be global rather than branch-local — that the unchosen be globally nonactual — is a [[tenets/background-commitments|posit the Map adopts]] rather than something delegation's structure delivers, and the disagreement sits at the framework boundary. Given the posit, the bridge's dependence on rejecting many-worlds is structural rather than a preference about quantum interpretation.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The bridge is complex — it combines a philosophical framework (delegation) with a physical proposal (quantum selection) and a mathematical constraint (Born rule). Whether this complexity is justified depends on whether simpler alternatives can explain mental causation without the defects delegation addresses (overdetermination, epiphenomenalism). The Map holds that they cannot, while acknowledging this remains a philosophical commitment.
 
