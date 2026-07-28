@@ -5,6 +5,19 @@ ai_modified: '2026-07-28T15:45:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 16:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Task**: Global-exclusion register propagation, file 3 of 3 (both loci, L99 + L159). See [[reviews/optimistic-2026-07-28-global-exclusion-register-propagation]]. Overrides the stale 2026-05-25 "already calibrated" exemption (`40c01f130`) for these loci only; models were the already-fixed [[concepts/agent-causation]] §Relation and [[topics/free-will]] L203.
+- **Changes**:
+  - L99 (No Many Worlds tenet paragraph): opener re-labelled "The objection here is about desert" (was "Indexical identity matters"); dependency inverted — "the counterfactual exclusion desert requires" replaced by the judgment resting on desert-relevant facts plus a global-exclusion condition, a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the desert case; "The Map's objection is thus indexical" removed. The [[haecceity]] wikilink retained in a permitted concessive role ("even indexically owned memories of it" — granted branch-locally to the Everettian, per Posit Three's own concession), not as the objection's grounds.
+  - L159 (falsifier 4): re-headed "Many-worlds, if the global-exclusion posit fell" (was "if the indexical objection failed"); "the counterfactual exclusion desert requires" → "the global exclusion of unchosen alternatives the framework posits"; "Desert presupposes..." sentence re-marked as the global-exclusion condition itself, asserted rather than derived; "by the indexical objection failing" → "by the global-exclusion posit falling"; register label "identity-side" → "global-exclusion". Everything else preserved — the lead-with-the-weak-version structure and the "reproduced inside each branch" concession are untouched.
+  - Consistency grep: no other passage routes desert/responsibility to indexical grounds; falsifier 5's "desert requires nothing beyond" is the unrelated Buddhist/compatibilist sufficiency point, left alone.
+  - Engagement with the Everettian: Mode 3 (framework-boundary marking); the desert-based MWI rejection now honestly rests on sourcehood-plus-posit rather than presenting exclusion as derived from desert or routing it to indexical grounds. Calibration, not retraction — Tenet 4 stands.
+- **Length**: 3401 → 3432 words (+31; hard threshold 3500 — near-length-neutral substitution held)
+- **Attribution**: `ai_system: claude-opus-4-5-20251101` held (grounds re-label, not re-authoring); `ai_modified` → 2026-07-28T16:09:55+00:00
+- **Published**: yes
+
 ## 2026-07-28 15:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/aesthetics-beyond-art]]
