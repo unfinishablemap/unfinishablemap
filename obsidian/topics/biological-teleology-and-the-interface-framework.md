@@ -4,7 +4,7 @@ description: "How the Map's interface framework transforms biological teleology 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-06T00:38:28+00:00
+ai_modified: 2026-07-28T14:16:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness threshold in cognitive evolution]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-07-16T15:43:48+00:00
@@ -101,7 +101,7 @@ The connection between biological teleology and the interface framework draws on
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Without causal efficacy, consciousness could not introduce purpose. If experience merely accompanied neural function without influencing outcomes, all of biology—including conscious behaviour—would reduce to selected-effects causation. Bidirectional interaction is what transforms the interface from a correlational curiosity into the mechanism of agency.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If all options actualise in parallel branches, selection is illusory and purpose dissolves. The gazelle "flees" in one branch and "freezes" in another; neither outcome reflects genuine choice. Real collapse is required for conscious selection to be meaningful, and meaningful selection is required for genuine purpose.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Conscious selection requires that one option actually obtain, though the reach of the objection is narrower than "purpose dissolves" would suggest, and this article's own two-tier structure shows why. Aetiological function is untouched by branching. Selected effects are constituted by what actually happened in a lineage, and lineages are branch-local: fleeing was selected in gazelle populations because it avoided predation *here*, whatever counterpart populations did elsewhere. Selected-effects teleology never demanded that the losing variant lose everywhere, so the dissolution offered above—teleological language heuristic for most of biology—survives branching intact. What branching threatens is only the agentive purpose the interface framework adds on top, and there the threat falls on exclusion rather than on selection. An Everettian can grant this gazelle a branch-local history of having fled, its fear standing in ordinary causal relations to its flight and counterfactual control holding along the branch. What branching cannot grant is that freezing was a genuinely rejected alternative rather than an option routed to a counterpart. That the unchosen be globally nonactual is a [[tenets/background-commitments|posit the Map adopts]] rather than a result the interface framework delivers, and the disagreement sits at the framework boundary. Given the posit, purpose enters nature where this article has placed it: at the point where an organism, rather than its lineage history, does the selecting.
 
 ## Further Reading
 

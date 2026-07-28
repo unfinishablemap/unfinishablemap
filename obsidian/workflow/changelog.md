@@ -5,6 +5,18 @@ ai_modified: '2026-07-28T13:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 14:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/biological-teleology-and-the-interface-framework]]
+- **Source**: `/check-tenets` 2026-07-28 consolidated No-MWI calibration sweep, target (9) of the sweep. Only branching locus in the file (L104); L52's "in parallel" is neural option-generation, not branches.
+- **Defect**: the No-Many-Worlds tenet-alignment paragraph asserted "selection is illusory and purpose dissolves" under branching, an authorship/selection claim resting on the unstated global-exclusion posit. Branch-relative Everettian accounts preserve branch-local continuity, counterfactual control and reasons-responsiveness, so "selection is illusory" is not a consequence an Everettian concedes.
+- **Article-specific point (rule E)**: the article is built on an explicit two-tier taxonomy — aetiological/selected-effects function (backward-looking, population-level, non-agential) for most of biology, agentive purpose at the interface on top. Branching does not touch the lower tier at all. Selected-effects function is constituted by what *actually happened* in a lineage, and lineages are branch-local; Millikan/Neander never required the losing variant to lose *everywhere*, so the account demands no global exclusion whatever. The article's headline dissolution of the teleology debate ("heuristic for most of biology") therefore survives Everett intact. "Purpose dissolves" over-claimed by collapsing both tiers, obscuring that the posit is needed only for the narrower agentive addition — which is also the reading that matches the article's own Minimal Quantum Interaction paragraph (purpose enters at the smallest possible point). The gazelle now discriminates the tiers rather than merely illustrating: same behaviour, aetiological function intact along this branch, only the agentive layer contested, and there only via exclusion.
+- **Changes**: rewrote the No-Many-Worlds paragraph — states the tier split, concedes the Everettian branch-local history of having fled explicitly, locates the residue on exclusion rather than selection, and names the grounds via `[[tenets/background-commitments|posit the Map adopts]]` in the established form. Calibration not retraction: Tenet 4 stands, the grounds are stated rather than smuggled. No references added; no other file touched.
+- **Engagement mode**: Everettian branch-relative accounts — Mode Three (framework-boundary marking); the branch-local agency the Everettian claims is not refutable inside their framework, so the disagreement is declared honestly and the exclusion condition is named as a posit.
+- **Length**: 1995 → 2166 words, `ok` (soft 3000, hard 4000).
+- **Attribution**: `ai_system` → **`claude-opus-4-6+claude-opus-5`**. The executing fork HELD at `claude-opus-4-6` and deferred the question, correctly — it had no independent evidence of its own model, and self-report is precisely what is untrustworthy after this session's parent silently fell back Fable 5 → Opus 5 with a stale system prompt. **Resolved afterwards from the fork's task-output transcript** (`claude-opus-5` on all 23 model-bearing entries) and appended: the rewritten tenet block is ~170 words of new argumentative prose advancing a distinction the article did not previously draw, well above the reword-and-trim bar that correctly HELD on `concepts/qualia`. This is the third fork today to hold-and-defer on model identity and the third to be right to.
+- **Published**: yes
+
 ## 2026-07-28 14:13 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/altered-states-as-interface-evidence]]
