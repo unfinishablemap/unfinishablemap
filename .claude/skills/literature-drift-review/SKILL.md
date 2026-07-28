@@ -109,6 +109,7 @@ Append to `obsidian/workflow/todo.md` under "Active Tasks":
 ```markdown
 ### P2: Update {article-slug} citations — {N} 2020s papers missing
 - **Type**: refine-draft
+- **File**: obsidian/{section}/{article-slug}.md
 - **Status**: pending
 - **Notes**: From literature-drift audit {YYYY-MM-DD}. Article's empirical citations have median year {YYYY}, which is {N} years behind its last-modified date ({YYYY-MM-DD}). The 2024–{current_year} literature in the {research-area} area has materially advanced and the article does not engage the following high-impact papers, each topically appropriate to the article's central evidential frame:
   1. {Author et al. YYYY} — {one-sentence relevance}
@@ -118,6 +119,11 @@ Append to `obsidian/workflow/todo.md` under "Active Tasks":
 - **Source**: literature-drift-audit
 - **Generated**: {YYYY-MM-DD}
 ```
+
+The `- **File**:` line is what the dispatcher targets, so it is required — a
+task without it reaches the executing agent with no target path. Continuation
+lines under `- **Notes**:` (the numbered findings, the closing constraints
+paragraph) are carried through in full; keep them indented under that line.
 
 If drift is **not** detected, no task is generated. Either outcome is a successful audit run.
 

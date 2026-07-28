@@ -205,7 +205,7 @@ def task_to_skill(task: Task) -> SkillInvocation:
 
     elif task_type == TaskType.REFINE_DRAFT:
         # Extract file path from title or notes
-        file_path = _extract_file_path(task.title, task.notes)
+        file_path = _task_file_path(task)
         # Include full task context so skill can read review files, etc.
         args = file_path or ""
         if task.notes:
@@ -216,7 +216,7 @@ def task_to_skill(task: Task) -> SkillInvocation:
 
     elif task_type == TaskType.DEEP_REVIEW:
         # Extract file path from title like "Deep review X.md"
-        file_path = _extract_file_path(task.title, task.notes)
+        file_path = _task_file_path(task)
         return SkillInvocation("deep-review", file_path)
 
     elif task_type == TaskType.VALIDATE_ALL:
@@ -233,7 +233,7 @@ def task_to_skill(task: Task) -> SkillInvocation:
 
     elif task_type == TaskType.CONDENSE:
         # Extract file path from title like "Condense free-will.md"
-        file_path = _extract_file_path(task.title, task.notes)
+        file_path = _task_file_path(task)
         return SkillInvocation("condense", file_path)
 
     elif task_type == TaskType.COALESCE:
@@ -248,14 +248,14 @@ def task_to_skill(task: Task) -> SkillInvocation:
     elif task_type == TaskType.CROSS_REVIEW:
         # Cross-review: review a file considering insights from new content
         # Title like "Cross-review whether-real.md considering defended-territory insights"
-        file_path = _extract_file_path(task.title, task.notes)
+        file_path = _task_file_path(task)
         # Pass full title as context so deep-review knows what to consider
         return SkillInvocation("deep-review", f"{file_path} -- Context: {task.title}")
 
     elif task_type == TaskType.INTEGRATE_ORPHAN:
         # Integrate-orphan: add inbound links to an orphaned file
         # Title like "Integrate binding-problem.md into site navigation"
-        file_path = _extract_file_path(task.title, task.notes)
+        file_path = _task_file_path(task)
         # Use deep-review with context about needing to add cross-references
         context = (
             "This file has no inbound links and is orphaned. "
@@ -325,6 +325,20 @@ def _extract_topic_from_title(title: str) -> str:
 
     # Fallback: return the whole title
     return title
+
+
+def _task_file_path(task: Task) -> Optional[str]:
+    """Resolve a task's target file.
+
+    The explicit ``- **File**:`` line is authoritative when present; the
+    title/notes heuristics are the fallback for older blocks that lack one.
+    Without this, a multi-file task that re-scopes its File line between
+    picks kept dispatching its first target forever, because the heuristic
+    latches onto the first ``.md`` token it sees.
+    """
+    if task.file_path:
+        return task.file_path
+    return _extract_file_path(task.title, task.notes)
 
 
 def _extract_file_path(title: str, notes: str) -> Optional[str]:

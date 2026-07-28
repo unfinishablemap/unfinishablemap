@@ -77,6 +77,7 @@ class Task:
     notes: str = ""
     blocked_by: Optional[str] = None
     review_file: Optional[str] = None  # Path to review file for refine-draft tasks
+    file_path: Optional[str] = None  # Target from the `- **File**:` line
     raw_block: str = ""  # Original markdown block
     line_number: int = 0  # For ordering
 
@@ -111,9 +112,24 @@ def _parse_task_block(heading: str, body_lines: list[str], line_number: int) -> 
     notes = ""
     blocked_by = None
     review_file = None
+    file_path = None
 
-    for line in body_lines:
-        line = line.strip()
+    # Notes routinely run to several lines: the `- **Notes**:` line itself
+    # plus indented continuation lines (numbered findings, **Constraints**
+    # paragraphs). Reading only the first line dropped everything after it
+    # both from the dispatched args *and* — because complete_task
+    # re-serializes from the parsed value — from todo.md on completion. The
+    # 2026-07-28 literature-drift audit lost all three of its findings that
+    # way after paying for the WebSearch that produced them.
+    in_notes = False
+
+    for raw_line in body_lines:
+        line = raw_line.strip()
+        if in_notes and not line.startswith("- **"):
+            if line:
+                notes += "\n" + raw_line.rstrip()
+            continue
+        in_notes = False
         if line.startswith("- **Type**:"):
             type_str = line.split(":", 1)[1].strip().lower()
             try:
@@ -131,10 +147,13 @@ def _parse_task_block(heading: str, body_lines: list[str], line_number: int) -> 
                     status = TaskStatus.PENDING
         elif line.startswith("- **Notes**:"):
             notes = line.split(":", 1)[1].strip()
+            in_notes = True
         elif line.startswith("- **Blocked-by**:"):
             blocked_by = line.split(":", 1)[1].strip()
         elif line.startswith("- **Review file**:"):
             review_file = line.split(":", 1)[1].strip().strip("`")
+        elif line.startswith("- **File**:"):
+            file_path = line.split(":", 1)[1].strip().strip("`") or None
 
     # Reconstruct raw block
     raw_block = heading + "\n" + "\n".join(body_lines)
@@ -147,6 +166,7 @@ def _parse_task_block(heading: str, body_lines: list[str], line_number: int) -> 
         notes=notes,
         blocked_by=blocked_by,
         review_file=review_file,
+        file_path=file_path,
         raw_block=raw_block,
         line_number=line_number,
     )
@@ -458,6 +478,8 @@ def complete_task(content: str, task: Task, output: Optional[str] = None) -> str
         f"### ✓ {today}: {task.title}",
         f"- **Type**: {task.task_type.value}",
     ]
+    if task.file_path:
+        entry_lines.append(f"- **File**: {task.file_path}")
     if task.notes:
         entry_lines.append(f"- **Notes**: {task.notes}")
     if output:
