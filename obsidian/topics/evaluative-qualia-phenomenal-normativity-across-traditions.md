@@ -4,7 +4,7 @@ description: "Multiple philosophical traditions independently discovered that ev
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-07-13T00:42:00+00:00
+ai_modified: 2026-07-28T12:35:29+00:00
 last_deep_review: 2026-07-13T00:42:00+00:00
 draft: false
 topics:
@@ -65,7 +65,7 @@ The Confucian framework is not strictly dualist—*lǐ* and *qì* are interdepen
 
 Bharata's *Nāṭyaśāstra* (c. 200 BCE) codified *rasa*—aesthetic flavour or evaluative consciousness—as a distinct category irreducible to ordinary emotion. Abhinavagupta (c. 950–1016 CE) transformed rasa theory by shifting focus from objective artistic properties to subjective phenomenal experience. Aesthetic experience (*rasanā*) is a form of unified consciousness (*ekaghānatā*) that transcends the particular emotions it subsumes.
 
-Abhinavagupta's key insight: rasa is "nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness." The evaluative dimension is not a response to beauty—it *is* a mode of consciousness. Within his Kashmir Shaivite metaphysics, aesthetic consciousness reveals the self-luminous nature of awareness itself, connecting phenomenal valence to the fundamental character of consciousness.
+Abhinavagupta's key insight, as the commentarial tradition renders it: rasa is aesthetic enjoyment, and that enjoyment consists in a kind of knowledge or consciousness rather than in any property of the work. Rasa is *alaukika*—it falls outside the ordinary categories of true knowledge, false knowledge, doubt and probability. The evaluative dimension is not a response to beauty—it *is* a mode of consciousness. Within his Kashmir Shaivite metaphysics, aesthetic consciousness reveals the self-luminous nature of awareness itself, connecting phenomenal valence to the fundamental character of consciousness.
 
 This framework treats evaluative phenomenal character as more revealing of consciousness's nature than sensory qualia. The redness of red, on Abhinavagupta's reading, tells you about the stimulus; the beauty of beauty tells you about consciousness itself. If Abhinavagupta is right that evaluative experience discloses something about the structure of awareness that sensory experience does not, this would support the Map's claim that [[evaluative-phenomenal-character|evaluative qualia]] extend the hard problem into a domain perhaps even more resistant to physical explanation than sensation. The conditional matters: the inference rides on the Kashmir Shaivite reading of the rasa data being apt, and that reading is itself contested within the Indian tradition.
 

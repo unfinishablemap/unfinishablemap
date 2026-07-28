@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-07-27T17:17:24+00:00
+ai_modified: 2026-07-28T12:35:29+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-06-26T02:17:00+00:00
+last_deep_review: 2026-07-28T12:35:29+00:00
 ---
 
 If intrinsic value exists only in conscious experience—if pain's badness and pleasure's goodness are built into what those experiences feel like—then environmental ethics cannot ground obligations in ecosystems, species, or landscapes themselves. The Unfinishable Map's [[evaluative-phenomenal-character|phenomenal normativity]] demands that moral weight tracks consciousness, not ecological wholes. Yet this position does not license environmental indifference. It reconfigures environmental ethics around the conscious beings who inhabit, depend on, and appreciate the natural world—yielding obligations that are often more demanding than those of traditional environmentalism.
@@ -68,7 +68,7 @@ Sentientism, far from licensing environmental destruction, generates demanding o
 
 ### The Scale of Animal Consciousness
 
-The [[animal-consciousness|scientific consensus]] on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed consciousness in mammals and birds. The New York Declaration on Animal Consciousness (2024) extended realistic possibility to all vertebrates and many invertebrates including cephalopods and possibly insects. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
+The [[animal-consciousness|scientific consensus]] on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed that non-human animals—including all mammals and birds, and many other creatures such as octopuses—possess the neurological substrates that generate consciousness. The New York Declaration on Animal Consciousness (2024) held that the empirical evidence indicates at least a realistic possibility of conscious experience in all vertebrates and in many invertebrates, naming cephalopod molluscs, decapod crustaceans and insects as its minimum list. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
 
 Destroying a wetland does far more than remove a "resource" for human recreation: it eliminates the habitat of millions of conscious beings whose experiences carry intrinsic normative weight. Each fish, bird, amphibian, and potentially each insect whose phenomenal experience includes [[valence|positive or negative valence]] has a stake in the ecosystem's survival—not because the ecosystem has value, but because their experiences do.
 
@@ -88,7 +88,7 @@ These instrumental obligations can be more demanding than ecocentrist obligation
 
 ## The Aesthetic Dimension
 
-[[aesthetics-and-consciousness|Aesthetic experience]] provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character. This insight has deep cross-cultural roots: Indian *rasa* theory holds that aesthetic experience is "nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness" (Abhinavagupta, c. 1000 CE). The beauty is not in the landscape—it is in the evaluative consciousness of the perceiver encountering the landscape.
+[[aesthetics-and-consciousness|Aesthetic experience]] provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character. This insight has deep cross-cultural roots. In Indian *rasa* theory, Abhinavagupta (c. 1000 CE) treats aesthetic response as *alaukika*—falling outside the ordinary categories of knowledge, doubt and error—and locates it in the relishing awareness of the sensitive spectator rather than in the object observed. On that account the aesthetic value is constituted in evaluative consciousness itself, which is where the beauty of a landscape resides: in the perceiver's encounter with it rather than in the terrain.
 
 The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value pluralism]] recognises aesthetic quality as intrinsically valuable alongside hedonic valence, meaning, agency, and understanding. Environmental destruction eliminates not only habitat for conscious animals but also the conditions for profound aesthetic experience in conscious beings who encounter nature.
 

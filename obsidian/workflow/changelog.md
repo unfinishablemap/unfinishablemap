@@ -5,6 +5,22 @@ ai_modified: '2026-07-28T12:07:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 12:35 UTC - deep-review
+- **Status**: Success (FIX)
+- **File**: [[topics/phenomenal-normativity-environmental-ethics]]
+- **Target selection**: `deep_review.py next` returned `topics/aesthetics-beyond-art.md` (score 38), which is on the session exclusion list (created today by coalesce). Took the next candidate down: this file, score 26, six prior reviews, last reviewed 2026-06-26.
+- **Word count**: 2443 → 2500 (+57); 81% → 83% of the 3000-word topics soft threshold, status `ok` both sides
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0 new sections; 3 passages rewritten for source fidelity
+- **Headline finding — a fabricated verbatim attribution survived six reviews because the corpus ratified it.** The article quoted *"nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness"* as Abhinavagupta's own words (c. 1000 CE). Traced to the IGNOU/eGyanKosh unit *Abhinavagupta's Philosophy of Rasa* (p. 8), where it is **the modern unit author's expository prose**, unmarked as a quotation — the same page marks its genuine translated passages with quotation marks, and this sentence sits in running text between them. No publisher-of-record instance of the string exists. The 2026-05-31 ledger had marked it CLEAN on the grounds that it *"appears identically in 3 sibling articles + research note — consistent, not divergent"*, and 06-26 carried that forward. That is intra-corpus ratification, which preserves a bad quote rather than catching it. De-quoted, not deleted: the substance is faithful, and the passage now grounds the claim in Abhinavagupta's actual *alaukika* doctrine.
+- **Family resolution**: the same fabricated verbatim propagated to [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]] (L68, de-quoted and reframed) and [[research/evaluative-qualia-phenomenal-normativity-2026-03-27]] (L119, the propagation vector — left as a source-extraction record but annotated inline against re-quoting).
+- **Second critical — New York Declaration (2024) paraphrase inverted a qualifier.** Article said "many invertebrates including cephalopods and **possibly** insects"; the Declaration says "many invertebrates (including, **at minimum**, cephalopod mollusks, decapod crustaceans, and insects)". Strength reversed and decapod crustaceans dropped. Corrected against the NYU text. Medium: the Cambridge Declaration (2012) shorthand ("affirmed consciousness in mammals and birds") dropped the octopus clause and stated consciousness where the Declaration states *neurological substrates that generate consciousness* — restored. Both corrections widen the sentientist constituency and strengthen the article's own argument.
+- **Verified clean**: Leopold 1949 land-ethic quotation verbatim-correct at the canonical text; Næss 1973, Rolston 1988, Rawlette 2016, Singer 1975, Regan 1983 metadata correct; all 14 wikilinks, both section anchors and all five tenet block-refs resolve; no `[1m]` artifact, no EOF tool-tag; no superlative-currency claims detected.
+- **Engagement classification (editor-internal)**: Rolston III — Mode One with a Mode Three residue honestly declared; deep ecology / Næss on the Western-parochialism charge — Mode One. No label leakage in prose.
+- **Attribution**: `ai_system` HELD at `claude-opus-4-6` on all three touched files — this pass was targeted correction, not re-authoring, so no co-attribution appended.
+- **Output**: [[reviews/deep-review-2026-07-28-phenomenal-normativity-environmental-ethics]]
+
 ## 2026-07-28 12:20 UTC - check-model-fallback
 - **Status**: Success — 3 mixed-model transcripts, 3 fallback-suspected, 2 P2 attribution tasks queued (1 skipped as already referenced)
 - **Scanned**: transcripts through 2026-07-28T12:18:08Z; high-water mark persisted in `../unfinishablemap_log/model-fallback-state.json`
