@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-27 04:50:16+00:00
+ai_modified: 2026-07-28 00:01:22+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-07-17 00:19:07+00:00
 apex_sources:
@@ -171,7 +171,7 @@ The lines of support here are of unequal independence, and the distinction matte
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Opacity — the fourth feature — is consistent with consciousness operating at quantum indeterminacies below introspective resolution. The effort feature may reflect the cost of sustained observation in the quantum Zeno sense. The selection feature corresponds to biasing among physically permitted outcomes. The holding feature corresponds to repeated measurement events maintaining desired patterns. The phenomenological profile maps onto the proposed mechanism, though the Map does not claim certainty about the mechanism itself.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Selection phenomenology presupposes singular actualisation. When choosing, one option becomes real while others become counterfactual. Many-worlds makes every option equally real across branches, transforming selection into branching and effort into the illusion of work that accomplishes nothing. The phenomenology of working consciousness — with its felt cost, its sense that what you do matters, its temporal directedness toward a single open future — is incoherent under many-worlds. The experience of effort implies genuine selection, not mere branching.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Selection phenomenology presents one option becoming real while the others become counterfactual — but that is exactly what a branch-local agent's experience would be either way, so the phenomenology does not by itself discriminate between singular actualisation and branching. An Everettian can grant the branch-local history of having chosen, felt cost and open future intact; what branching cannot grant is the counterfactual exclusion selection requires, since every rejected option is actualised by a counterpart elsewhere. That the unchosen be *globally* nonactual, and not merely absent from the agent's own branch, is a [posit the Map adopts](/tenets/background-commitments/) rather than a conclusion this phenomenology delivers, and the disagreement sits at the framework boundary.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Explaining away the entire four-feature profile as "what neural computation feels like" would be simpler. But this parsimony trades explanatory power for dismissal. It does not explain why the profile has the specific structure it does, why it persists across cultures that interpret it differently, why it correlates with measurable neural differences, or why evolution would produce such elaborate phenomenology for a causally inert process. Sometimes the more complex explanation — that consciousness does genuine work and its phenomenology tracks that work — fits the evidence better.
 
