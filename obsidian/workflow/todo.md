@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: qualia.md — relabel intrinsicness/privacy/ineffability as disputed theses; fix two unhedged claims
-- **Type**: refine-draft
-- **File**: obsidian/concepts/qualia.md
-- **Status**: pending
-- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), section 3.1 and improvements 19-20. The review's point: the article gives the neutral "what-it-is-like" sense first, then treats intrinsicness, privacy, ineffability and direct apprehensibility as if constitutive. Only the first should be definitional; the rest are substantive theses rejected by functionalists, representationalists, relationalists and illusionists — and defining qualia as intrinsic and nonrelational excludes those analyses by terminology, which is what makes the downstream [[inverted-qualia]] argument look stronger than it is. Two GREP-VERIFIED unhedged loci: **L59** "Pain asymbolia patients **prove** that functional pain processing without the felt quality loses its motivational force" — soften to what the case supports; note that [[pain-asymbolia]] itself already carries the Griffith & Kind (2024) / Duval & Klein (2025) hedge, so this locus is out of step with the Map's own more careful page. **L111** "But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you" — asserted with no argument or citation, and it is doing real work (it rescues the inversion argument from the colour-space asymmetry objection). Either argue it or mark it as a conjecture. CALIBRATION, not retraction.
-- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-28
-
 ### P2: functionalism.md — promote organizational-invariance from Further Reading into the main objection-reply structure
 - **Type**: refine-draft
 - **File**: obsidian/concepts/functionalism.md
@@ -1707,6 +1698,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-28: qualia.md — relabel intrinsicness/privacy/ineffability as disputed theses; fix two unhedged claims
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), section 3.1 and improvements 19-20. The review's point: the article gives the neutral "what-it-is-like" sense first, then treats intrinsicness, privacy, ineffability and direct apprehensibility as if constitutive. Only the first should be definitional; the rest are substantive theses rejected by functionalists, representationalists, relationalists and illusionists — and defining qualia as intrinsic and nonrelational excludes those analyses by terminology, which is what makes the downstream [[inverted-qualia]] argument look stronger than it is. Two GREP-VERIFIED unhedged loci: **L59** "Pain asymbolia patients **prove** that functional pain processing without the felt quality loses its motivational force" — soften to what the case supports; note that [[pain-asymbolia]] itself already carries the Griffith & Kind (2024) / Duval & Klein (2025) hedge, so this locus is out of step with the Map's own more careful page. **L111** "But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you" — asserted with no argument or citation, and it is doing real work (it rescues the inversion argument from the colour-space asymmetry objection). Either argue it or mark it as a conjecture. CALIBRATION, not retraction.
 
 ### ✓ 2026-07-28: visual-consciousness.md — the "unexplained by the computational account" claim never names predictive processing
 - **Type**: refine-draft

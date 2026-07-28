@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-27
-date: '2026-03-27'
+date: '2026-07-28'
 draft: false
 related_articles: []
 title: Research Notes - Evaluative Qualia and Phenomenal Normativity Across Traditions
@@ -119,7 +119,7 @@ Evaluative qualia—the idea that phenomenal experiences carry intrinsic normati
   - Abhinavagupta shifted focus from objective artistic qualities to subjective phenomenal experience
   - Aesthetic experience (rasana) is a form of unified consciousness (ekaghanata) that transcends ordinary emotion
   - Connects to Kashmir Shaivism: aesthetic consciousness is a path to spiritual realization (ananda/bliss)
-  - Rasa is "nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness"
+  - Rasa is "nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness" — NOTE (verified 2026-07-28): this sentence is the modern encyclopedia author's exposition of Abhinavagupta's doctrine, NOT a translation of Abhinavagupta's own words. Do not quote it as his.
 - **Tenet alignment**: Strong alignment with Dualism—rasa theory treats evaluative consciousness as irreducible and transcendent. The Kashmir Shaivite metaphysics is idealist rather than dualist, but the phenomenological analysis of evaluative experience supports the irreducibility of qualia
 
 ### Islamic Philosophy of Consciousness — Avicenna and Mulla Sadra

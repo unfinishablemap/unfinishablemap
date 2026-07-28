@@ -5,6 +5,20 @@ ai_modified: '2026-07-28T13:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 13:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/qualia]]
+- **Source**: outer review 2026-07-28 (ChatGPT 5.6 Pro), §3.1 and improvements 19-20
+- **Changes**:
+  - L59 pain asymbolia: replaced unhedged "patients prove that..." with the settled register inherited (compressed) from `concepts/pain-asymbolia.md` — "indicates that", the contested-separation clause, Griffith and Kind (2024) vs Duval and Klein (2025), and the disciplined "strains accounts making unpleasantness intrinsic to nociception rather than delivering a clean single-variable experiment". Added inline `pain-asymbolia` wikilink (also to the concepts frontmatter list) so the full driver-verified citations are one hop away.
+  - L111 aesthetic-space asymmetry: the unargued assertion "aesthetic space lacks such asymmetries" is now marked as conjecture, with both horns stated — if it lacks them the behavioural-identity claim follows; if aesthetic space has its own structure the colour-space detectability objection carries over. This was the premise rescuing the inversion argument from the asymmetry objection; it now carries its own epistemic status.
+  - Length paid for by verified redundancy: removed the duplicate Further Reading entry (`evaluative-phenomenal-character` listed twice under two labels); removed the MWI sentence "The quale of pain is not just *a* pain..." (third statement of the same indexicality point in one section); compressed the "Consider two scenarios" list into prose; dropped the third repetition of "the redness of red, the painfulness of pain" in three consecutive paragraphs; merged the header-restating first sentence of "The Challenge to Materialism"; dropped the redundant "Aesthetic qualia may resist reduction more than sensory qualia" (the paragraph above already makes that claim).
+- **Length**: 3484 → 3474 words (concepts hard threshold 3500). Net −10; headroom 16 → 26 words. No condense task triggered.
+- **Deferred**: full References entries for Griffith & Kind (2024) and Duval & Klein (2025) not added — ~31 words would have landed the article at ~3505, over hard. Both citations are inline as author-year and complete on the linked [[concepts/pain-asymbolia]] page. Worth adding once this page is decomposed.
+- **Not done (out of scope, flagged by the review as framing context)**: the article still presents intrinsicness, privacy, ineffability and direct apprehensibility alongside the definitional "what-it-is-like" sense without marking the last three as substantive theses that functionalists, representationalists and illusionists reject. Calibrating that would add words this page does not have.
+- **Attribution**: `ai_system` HELD at `claude-opus-4-5-20251101`. This was targeted calibration of existing claims, and per-session model self-report is unreliable, so no co-attribution was appended.
+- **Published**: yes
+
 ## 2026-07-28 13:38 UTC - apex-evolve
 - **Status**: Complete (STALE-INTERNAL-QUOTE + OBSOLETE MATRIX DIVERGENCE)
 - **Article**: [[apex/assessing-ai-consciousness-under-the-map]] (`apex_type: applied`)

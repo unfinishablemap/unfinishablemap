@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-11 14:26:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-07-28 13:09:47+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -30,6 +30,8 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[interactionist-dualism]]'
 - '[[capability-division-problem]]'
+- '[[predictive-processing-and-dualism]]'
+- '[[sensorimotor-contingencies-and-the-interface]]'
 title: Visual Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -45,7 +47,9 @@ Visual consciousness has distinctive phenomenal structure that shapes how we exp
 
 ### Spatial Character
 
-Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way. The [3D world representation problem](/topics/three-dimensional-world-representation-problem/) asks why this spatial processing produces a felt three-dimensional arena rather than just correct spatial behaviour—the phenomenal depth, solidity, and extension of the visual world remain unexplained by the computational account.
+Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way. The [3D world representation problem](/topics/three-dimensional-world-representation-problem/) asks why this spatial processing produces a felt three-dimensional arena rather than just correct spatial behaviour.
+
+The dominant computational answer is predictive processing and active inference, and its reach should not be understated. Friston-style generative models routinely derive egocentric centring, depth gradients, and perspectival layout from sensor fusion and precision-weighted prediction error; [sensorimotor-contingency accounts](/topics/sensorimotor-contingencies-and-the-interface/) address the immediacy directly, since inference running subpersonally is never experienced as inference. Spatial behaviour and the discrimination profile are computationally accounted for. What stays contested is narrower: whether a system that builds such a representation thereby has a felt arena, or has a representation that reports one. No current measurement discriminates the two, which leaves the disagreement at the framework boundary rather than settled against the computational account. [The Map's engagement with predictive processing](/topics/predictive-processing-and-dualism/) develops this at length, including why the formalism's metaphysical neutrality cuts in both directions.
 
 The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [indexical identity](/concepts/indexical-knowledge-and-identity/). Why does the visual world appear from *here* rather than *there*?
 
@@ -53,7 +57,7 @@ The visual field has egocentric structure: objects appear before you, to your le
 
 Colour experience exemplifies qualia's resistance to physical reduction. Light wavelengths are measurable physical quantities; the experience of redness is not. The [knowledge-argument](/concepts/knowledge-argument/) dramatises this: Mary knows every physical fact about colour vision yet learns something new upon first seeing red. What she learns is the visual quale—what redness looks like.
 
-The [inverted spectrum](/concepts/inverted-qualia/) thought experiment targets visual consciousness specifically. Two people might process colour information identically yet have systematically inverted colour experiences—one experiences green where the other experiences red. Since behaviour depends on functional role rather than qualitative character, neither would know. If this scenario is coherent, visual qualia are not fixed by visual processing. This is the sensory instantiation of the absent-qualia and inverted-qualia objections [functionalism](/concepts/functionalism/) faces in the abstract.
+The [inverted spectrum](/concepts/inverted-qualia/) thought experiment targets visual consciousness specifically. Two people might process colour information identically yet have systematically inverted colour experiences—one experiences green where the other experiences red. Since behaviour depends on functional role rather than qualitative character, the standard argument runs that neither would know. If this scenario is coherent, visual qualia are not fixed by visual processing—the sensory instantiation of the absent-qualia and inverted-qualia objections [functionalism](/concepts/functionalism/) faces in the abstract. Whether the scenario is coherent is contested rather than granted. Representationalist and illusionist replies deny the antecedent outright, and twenty-first-century colour science has not run the argument's way: individual variation in colour appearance surfaces in exactly the judgements that make observers functionally non-identical. [inverted-qualia](/concepts/inverted-qualia/) canvasses the replies and rests the case on modal rather than empirical ground.
 
 ### Temporal Dynamics
 
@@ -138,6 +142,8 @@ The sheer complexity of visual consciousness—spatial layout, colour qualia, te
 - [knowledge-argument](/concepts/knowledge-argument/) — Why physical facts don't capture what seeing is like
 - [capability-division-problem](/voids/capability-division-problem/) — Which visual capabilities belong to the brain and which to consciousness
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — The specific evidence from blindsight, two-streams, and perceptual organisation constraining the division
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — The strongest computational rival for spatial and perceptual phenomenology, and why its formalism does not settle the metaphysics either way
+- [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — O'Regan and Noë's account of perceptual immediacy through the Map's lens
 
 ## References
 
