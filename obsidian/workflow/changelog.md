@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T17:41:53+00:00'
+ai_modified: '2026-07-28T17:55:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 17:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
+- **Task**: locus (4) of the re-queue from the `/check-tenets` 2026-07-28 extension ([[reviews/tenet-check-2026-07-28]]). Scope held to this one file; locus (5) `apex/contemplative-path` untouched — it is a later pick of the same task.
+- **Opposite lane from its siblings, by Rule (A)**: the four articles recalibrated earlier today (`agent-causation`, `free-will`, `moral-responsibility`, `consciousness-evolution-and-biology`, `testing-the-map-from-inside`) carried *authorship / selection / desert / responsibility* claims and were routed to the global-exclusion posit. This locus is a **moral-weight/suffering** claim, so it routes to **indexical grounds** instead. `[[tenets/background-commitments|posit the Map adopts]]` deliberately does **not** appear in this edit. `tenets.md` L142 independently confirms the lane: the rejection of many-worlds "must therefore rest on the *indexical* objection … not the *ontological-multiplicity* parsimony complaint."
+- **Driver re-verified live before editing**: L108 read "The moral stakes that evaluative qualia generate—real suffering, real goodness—require a single-branch reality where outcomes matter. If all quantum branches are equally real, the felt badness that five traditions identify as irreducible carries no ultimate significance. The Map's rejection of many-worlds preserves the moral reality that evaluative qualia disclose." Two defects: the moral-weight claim was grounded on single-branch/exclusion terms rather than indexical ones, and "carries no ultimate significance" over-claimed — an Everettian does not say suffering fails to matter, only that it occurs in more than one branch.
+- **Changes**: one paragraph substituted in "Relation to Site Perspective". Now opens on the ground ("depends on indexical identity rather than on the exclusion of alternatives"), states the presupposition in the article's own five-traditions vocabulary ("the felt badness five traditions identify as basic to experience"), concedes the Everettian point explicitly ("need not deny that suffering matters"), and locates the real strain indexically ("that *this* sufferer's pain be *this* sufferer's").
+- **Register inherited, not re-invented**: `topics/emotion-and-dualism.md` L144 read first, per the task, and adapted rather than copied — its valence/pain vocabulary translated to this article's evaluative-qualia and five-traditions register. Its inline `[[tenets#^no-many-worlds|many-worlds]]` link form was matched too: plain bold header with the anchor inline, which is also what the other four tenet bullets in this section do (none carries an anchored header).
+- **Vedanā deliberately not named in the substitution**: the natural adaptation would cite vedanā as the felt-badness case, but L52 of this same article records that Buddhists resist reifying vedanā as a property of a substantial subject under *anattā*. Pairing it with "a determinate perspective for which it is bad" would have manufactured a tension the article already handles. The generic "five traditions" formulation avoids it.
+- **Calibration, not retraction**: Tenet 4 stands and the moral-reality claim stands — the paragraph still closes on the Map's rejection of many-worlds. Only the grounds change, from exclusion to indexical, and the "no ultimate significance" over-claim is dropped. No mechanism or falsifier claim of the "MWI removes the collapse the mechanism needs" form appears in this file, so none was touched.
+- **Do-not-disturb honoured**: the 12:35 de-quoting of the fabricated Abhinavagupta attribution is untouched — `git diff` shows exactly two hunks, `ai_modified` and L108, with no quotation marks added or restored anywhere. `tenets/background-commitments.md` and `topics/emotion-and-dualism.md` read only, not edited.
+- **Length**: `analyze_length` 2534 → 2574 words (+40 net) against topics soft 3000 / hard 4000; status `ok` before and after. Under the ~90-word budget — the replacement paragraph is 93 words against the original's 55, and it is a substitution within the existing paragraph, not an addition.
+- **Attribution**: `ai_system: claude-opus-4-6` held unchanged per the task (no `+`-join — a grounds re-label is calibration, not re-authoring). `last_deep_review` left at 2026-07-13 (refine, not review); `ai_modified` set to `date -u`-verified 2026-07-28T17:55:10+00:00, checked against the real clock rather than estimated.
+- **Published**: yes
 
 ## 2026-07-28 17:41 UTC - refine-draft
 - **Status**: Success
