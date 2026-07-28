@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T02:16:16+00:00
+ai_modified: 2026-07-28T02:46:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T02:46:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Word count**: 2595 → 2723 (+128); hard threshold 4000, so ~1280 words of headroom retained. Growth confined to the one calibrated tenet entry.
+- **Scope**: MWI/desert calibration only, target (8) of a consolidated multi-file task, L158. The other four targets were deliberately not swept.
+- **Defect fixed**: The No Many Worlds entry asserted "If all outcomes are equally real, desert cannot attach to any particular branch." Flatly false against branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) — desert *can* attach branch-relatively. What branching denies is counterfactual exclusion, not branch-local desert.
+- **Changes**: Rewrote the entry to the settled family wording shared by the calibrated siblings — Everettian grant of a branch-local history of having chosen; "counterfactual exclusion desert requires"; "alternatives genuinely rejected, not merely routed to another branch"; global nonactuality flagged as a [[tenets/background-commitments|posit the Map adopts]] rather than a derived result. No inline Everettian references added (the citation lives once in background-commitments).
+- **Article-specific move**: Made explicit that the objection does not touch the *gradient*. Attentional capacity varies, is measurable in-branch, and grades responsibility branch-locally exactly as the article describes; an Everettian can grant the gradient entire. The disagreement is not about whether responsibility comes in degrees but about whether desert attaches at any point on the scale. This locates the disagreement precisely and costs the article nothing.
+- **Preserved**: Tenet 4 stands; the closing positive claim (one choice, one outcome, one agent who must live with the consequences) survives verbatim as the article's own voice.
+- **Engagement classification**: Mode Three (framework-boundary marking) — the entry now states the exclusion posit as a Map commitment and marks the disagreement at the framework boundary rather than presenting it as an in-framework refutation of Everettianism. This is the correction: the prior text substituted boundary-marking for a refutation it had not earned.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — a single-entry calibration is not a re-authoring, matching the convention of the siblings calibrated earlier tonight.
+- **Published**: yes
 
 ## 2026-07-28T02:16:16+00:00 - refine-draft
 - **Status**: Success

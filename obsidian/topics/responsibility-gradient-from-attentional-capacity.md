@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-07-10T05:31:00+00:00
+ai_modified: 2026-07-28T02:46:29+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -155,7 +155,7 @@ The moral implications extend in both directions. Where most discussions of grad
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The ~10 bits/second bandwidth limit reflects the minimality of conscious influence. The gradient's dimensions describe how various conditions further constrain an already-minimal channel. Under severe attentional impairment, the minimal interaction approaches its lower bound without reaching zero.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Graded responsibility requires that one outcome actually obtains. Under many-worlds, every quantum-indeterminate choice produces branches containing every possible outcome—the agent both chose well and chose poorly across the branching structure. If all outcomes are equally real, desert cannot attach to any particular branch. The gradient's moral weight depends on the reality of selection among exclusive alternatives—one choice, one outcome, one agent who must live with the consequences.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Graded responsibility requires that one outcome actually obtains, though the objection needs locating carefully, because it does not touch the gradient. Under many-worlds, every quantum-indeterminate choice produces branches containing every possible outcome—the agent both attended well and attended poorly across the branching structure. An Everettian can still grant the agent a branch-local history of having chosen, and can grant the gradient entire: attentional capacity varies, is measurable in-branch, and grades responsibility branch-locally exactly as described above. What branching cannot grant is the counterfactual exclusion desert requires—the lapse was never the rejection of a genuinely unrealised alternative, since the attention the agent failed to muster was mustered by a counterpart elsewhere. Desert needs alternatives genuinely rejected, not merely routed to another branch. The disagreement is therefore not about whether responsibility comes in degrees but about whether desert attaches at any point on the scale. That the unchosen be globally nonactual is a [[tenets/background-commitments|posit the Map adopts]] rather than a result the gradient delivers, and the disagreement sits at the framework boundary. Given the posit, the gradient's moral weight rests where this article has placed it—one choice, one outcome, one agent who must live with the consequences.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A binary account of responsibility is simpler. But it fails to accommodate the structural variation in attentional capacity that empirical psychology documents. The gradient's additional complexity earns its keep by aligning moral theory with the actual conditions under which agents exercise their causal powers.
 
