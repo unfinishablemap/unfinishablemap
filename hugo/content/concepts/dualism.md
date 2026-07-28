@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-12 14:11:20+00:00
+ai_modified: 2026-07-28 07:18:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -45,9 +45,9 @@ concepts:
 - '[[meta-problem-of-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-03-11
-description: Dualism holds that consciousness is distinct from physical matter. Multiple
-  independent arguments—the explanatory gap, zombies, Mary's Room, modal arguments,
-  subjectivity, unity, intentionality—converge on this conclusion.
+description: Dualism holds that consciousness is distinct from physical matter. Eight
+  arguments converge on this conclusion—though not all of them proceed from independent
+  premises.
 draft: false
 human_modified: null
 last_curated: null
@@ -71,7 +71,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [philosophy of mind](/concepts/philosophy-of-mind/), dualism is the first of The Unfinishable Map's [five foundational commitments](/tenets/#dualism). Multiple independent arguments support the position: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, the [unity of consciousness](/concepts/binding-problem/), [intentionality](/concepts/intentionality/), and the [argument-from-reason](/topics/argument-from-reason/). Their convergence from different starting points strengthens the case beyond what any single argument achieves.
+Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [philosophy of mind](/concepts/philosophy-of-mind/), dualism is the first of The Unfinishable Map's [five foundational commitments](/tenets/#dualism). Eight arguments support the position: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, the [unity of consciousness](/concepts/binding-problem/), [intentionality](/concepts/intentionality/), and the [argument-from-reason](/topics/argument-from-reason/). Their convergence from different starting points strengthens the case beyond what any single argument achieves—though they are not all evidentially independent of one another, and [the convergence argument](/topics/the-convergence-argument-for-dualism/) finds the real force comes from across argument clusters rather than from the count.
 
 The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question, and the arguments supporting it continue to develop alongside renewed attention to the limits of physicalism.
 
@@ -95,7 +95,7 @@ A second axis cross-cuts the substance/property distinction: how much ontologica
 
 ## Arguments for Dualism
 
-Multiple independent arguments support the dualist conclusion, converging from different starting points.
+Eight arguments support the dualist conclusion, converging from different starting points. How far they are evidentially independent of one another—and so how much the convergence actually adds—is assessed under [The Convergence](#the-convergence) below.
 
 ### The Explanatory Gap
 
@@ -135,7 +135,7 @@ The [argument-from-reason](/topics/argument-from-reason/) targets physicalism fr
 
 ### The Convergence
 
-No single argument establishes dualism conclusively. But these arguments exploit genuinely different features of consciousness through different logical structures, yet converge on the same conclusion. If a single shared intuition were doing all the work, they would not generate distinct objections requiring distinct responses. The convergence extends across philosophical traditions: [Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) independently arrive at irreducibility despite disagreeing about substance, self, and causation—suggesting they are tracking a real feature of consciousness rather than a shared cultural assumption.
+No single argument establishes dualism conclusively, and the eight are not evidentially independent of one another. The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap between physical description and phenomenal character, and the modal ones share the inference from conceivability to possibility; if that common starting point fails, they fail together rather than confirming one another. As [the convergence argument](/topics/the-convergence-argument-for-dualism/) works out in detail, arguments within a single cluster contribute little more than one strong argument from that cluster, and the genuine force comes from *across* clusters—phenomenal intuition, the explanatory gap, and the unity prong resist physical explanation by routes that do not reduce to one another. What the agreement supports is a case substantially stronger than any single argument, not an overwhelming one. The convergence extends across philosophical traditions: [Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) independently arrive at irreducibility despite disagreeing about substance, self, and causation—suggesting they are tracking a real feature of consciousness rather than a shared cultural assumption.
 
 ## Physicalist Responses and Their Limits
 

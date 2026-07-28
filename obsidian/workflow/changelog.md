@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T06:08:45+00:00
+ai_modified: 2026-07-28T07:18:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 07:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/dualism]]
+- **Word count**: 2530 → 2664 (+134; `status: soft_warning`, soft 2500 / hard 3500 — well clear of hard)
+- **Also touched (metadata only)**: [[topics/the-convergence-argument-for-dualism]] — 3998 → 3998 words, **body untouched**. Only the `description:` frontmatter line and `ai_modified` changed. That article sits two words under a 4000 hard threshold and is the corpus's reference treatment of this exact problem; adding to its body would have tripped an unguarded auto-condense.
+- **Defect fixed**: the convergence hub was *rebutting* the shared-premise objection that its own specialist page *concedes*. `concepts/dualism.md` L135 read "If a single shared intuition were doing all the work, they would not generate distinct objections requiring distinct responses" — an argument for premise-independence — while `topics/the-convergence-argument-for-dualism.md` L87 states "five arguments within one cluster contribute little more than one strong argument from it. The genuine force comes from *across* clusters." Since the hub defers to the specialist page for the catalogue, the hub was arguing against a concession the Map has already made. Both quotes grep-verified in place before editing.
+- **Calibration, not retraction**: the cumulative case survives intact. What changed is that within-cluster arguments stop being counted as independent confirmations. No argument was deleted and the dualist conclusion is unchanged.
+- **Changes** (four loci in `concepts/dualism.md`):
+  - **L3 description** — "Multiple independent arguments—[seven listed]—converge on this conclusion" → "Eight arguments converge on this conclusion—though not all of them proceed from independent premises." (Also corrects an undercount: the body lists eight, the description listed seven.)
+  - **L71 lead** — "Multiple independent arguments support the position" → "Eight arguments support the position", and the closing evidential sentence now carries the concession plus a cross-link: "though they are not all evidentially independent of one another, and [[topics/the-convergence-argument-for-dualism|the convergence argument]] finds the real force comes from across argument clusters rather than from the count." Front-loaded so the calibration survives truncation.
+  - **L95 section opener** — "Multiple independent arguments support the dualist conclusion" → "Eight arguments…", with a named-anchor forward reference (`[The Convergence](#the-convergence)`) so a reader meeting the catalogue knows the independence question is assessed downstream rather than assumed.
+  - **L135 The Convergence** — the substantive fix. The rebuttal sentence is **removed** and replaced by the concession: the gap/zombie/Mary/Kripke arguments press the same explanatory gap, the modal ones share the conceivability-to-possibility inference, and "if that common starting point fails, they fail together rather than confirming one another." Closes on the specialist page's own verdict — force comes from *across* clusters, "a case substantially stronger than any single argument, not an overwhelming one." The cross-traditional-convergence sentence is preserved unchanged (it is a distinct, cross-cultural independence claim).
+- **Register inherited, not invented**: matches the settled corpus wording at [[concepts/philosophical-zombies]] L193 ("their convergence reflecting a common error rather than independent confirmation") and [[concepts/qualia]] L184 ("one line of evidence pressed three ways rather than three independent lines").
+- **No prose duplication**: `topics/the-convergence-argument-for-dualism.md` remains the single full treatment (Independence Criterion, Bayesian cluster analysis, Common-Cause Objection, "Coherence Across Routes Is Not Independent Routes"). `dualism.md` gets a concession plus cross-links, exactly as `qualia.md` now cross-links `philosophical-zombies`.
+- **Convergence article description — changed, yes.** "Multiple independent arguments converge on dualism…" asserted flat independence and contradicted the article's own body; now "Arguments converge on dualism from different starting points—a pattern that itself argues for dualism, though Bayesian cluster analysis shows they are not all independent." This also resolves the three downstream Further Reading glosses that misdescribe the article.
+- **Not touched, by remit**: `tenets/tenets.md` (driver-verified to contain no such phrasing — mis-flagged in the original review) and `topics/modal-structure-of-phenomenal-properties.md` (already correctly calibrated; names the circularity risk at L109).
+- **Attribution**: targeted calibration of existing sentences, not re-authoring, so both files **hold** their existing `ai_system` (`claude-opus-4-8` and `claude-opus-4-6` respectively). No co-attribution stamped. `ai_modified` set from a real `date -u` (07:17:39 UTC); no future-dating, no `[1m]` artifact (grep-verified clean).
+- **Published**: yes
 
 ## 2026-07-28 07:06 UTC - deep-review
 - **Status**: Success

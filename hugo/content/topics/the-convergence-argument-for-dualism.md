@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-07-27 17:17:24+00:00
+ai_modified: 2026-07-28 07:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,8 +17,9 @@ concepts:
 - '[[bidirectional-interaction]]'
 created: 2026-02-18
 date: &id001 2026-02-28
-description: Multiple independent arguments converge on dualism from different starting
-  points—a pattern that itself argues for dualism, analysed via Bayesian epistemology.
+description: Arguments converge on dualism from different starting points—a pattern
+  that itself argues for dualism, though Bayesian cluster analysis shows they are
+  not all independent.
 draft: false
 human_modified: null
 last_curated: null

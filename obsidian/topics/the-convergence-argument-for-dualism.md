@@ -1,10 +1,10 @@
 ---
 title: "The Convergence Argument for Dualism"
-description: "Multiple independent arguments converge on dualism from different starting points—a pattern that itself argues for dualism, analysed via Bayesian epistemology."
+description: "Arguments converge on dualism from different starting points—a pattern that itself argues for dualism, though Bayesian cluster analysis shows they are not all independent."
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-07-27T17:17:24+00:00
+ai_modified: 2026-07-28T07:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

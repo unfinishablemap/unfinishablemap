@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-07-11 12:07:00+00:00
+ai_modified: 2026-07-28 06:17:39+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -181,9 +181,9 @@ Qualia provide central support for the Map's [foundational commitments](/tenets/
 
 ### Dualism
 
-The very existence of qualia—of there being something it is like to have experiences—suggests that physical description of the world is incomplete. Physics describes structure, relations, quantities. But the redness of red is not a structure or relation—it is a quality. Either physics must expand to include qualities (which would make it unrecognisable as physics), or there is more to reality than physics captures.
+The very existence of qualia—of there being something it is like to have experiences—suggests that physical description of the world is incomplete. Physics describes structure, relations, and quantities; the redness of red is a quality. Either physics must expand to include qualities (which would make it unrecognisable as physics), or there is more to reality than physics captures.
 
-The [explanatory-gap](/concepts/explanatory-gap/) between physical description and qualitative experience remains unbridged. Multiple independent arguments—Mary's Room, inverted qualia, zombies—converge on the same conclusion: qualia involve something beyond physical structure. This is the core evidence for [Dualism](/tenets/#dualism).
+The [explanatory-gap](/concepts/explanatory-gap/) remains unbridged, and Mary's Room, inverted qualia, and zombies converge on the same conclusion: qualia involve something beyond physical structure. The three are not, however, evidentially independent. All of them exploit that same gap, and the modal arguments among them share the inference from conceivability to possibility; if that common starting point fails—if phenomenal concepts do not track a genuine ontological category—they fail together rather than confirming one another. [The zombie argument](/concepts/philosophical-zombies/#the-convergence-argument) already carries this concession. What their agreement does establish is that the gap resists closure from several directions at once. This is the core evidence for [Dualism](/tenets/#dualism)—one line of evidence pressed three ways rather than three independent lines.
 
 ### Bidirectional Interaction
 
