@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T13:09:47+00:00'
+ai_modified: '2026-07-28T13:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 13:38 UTC - apex-evolve
+- **Status**: Complete (STALE-INTERNAL-QUOTE + OBSOLETE MATRIX DIVERGENCE)
+- **Article**: [[apex/assessing-ai-consciousness-under-the-map]] (`apex_type: applied`)
+- **Changed sources**: 2 verified on disk — `tenets/tenets.md` and `apex/machine-question.md`, both rewritten by commit `630430625` on 2026-07-27, one day after this apex's last deep review.
+- **Word count**: 4092 → 4094 (`soft_warning` both sides, apex soft threshold 4000). Length-neutral: ~150 words of required new ledger plus sense-scoping paid for out of four verified redundancies.
+- **Selection note**: the formal staleness scorer returned ~nothing corpus-wide, because sibling refine-draft passes bump `ai_modified` but not `modified` — the `modified`-based scorer is structurally blind to the most common edit. Selection ran on the stale-internal-quote channel instead.
+- **Fabricated verbatim quote removed**: the article quoted the tenets page instructing machine-consciousness articles to "earn their conclusions from irreducibility alone." That clause is **not present anywhere in the current corpus**. It was verbatim-correct when the 2026-07-15 deep review checked it; `630430625` deleted it from `tenets.md`. The surviving quote ("any mechanism-specific commitment as background") was re-verified verbatim against current `tenets.md` L166 and kept.
+- **The substantive fix — an obsolete self-declared divergence.** The article declared itself the matrix's sanctioned atypical-argument exception, on the grounds that the machine-consciousness cluster marked every mechanism-specific commitment "Not invoked." The matrix has since split that cluster into three rows, and marks post-decoherence selection **Required** for the *bidirectionally coupled* row, describing it as "legitimately inheriting the quantum-interface debt" via "the interface-threshold argument (classical computation suppresses the quantum indeterminacies the coupling requires)" — verbatim the argument this piece runs. The matrix names the old conflation as "the error the split corrects." So P-Q1 being load-bearing here is the row's registered dependency profile, not a departure from it.
+- **Calibration preserved, re-grounded rather than deleted.** The downstream conditional framing stays true for a different reason: entitlement to invoke a mechanism does not discharge P-Q1's moderate confidence band. The reason moved from "this article breaks the Map's rule" to "this row legitimately carries a debt still outstanding."
+- **Sense-scoping imported from a same-commit source**: `apex/machine-question` gained a four-senses distinction and an explicit warning that a flat "AI is not conscious" summary "collapses the first sense into the fourth and overstates what the Map holds." This applied piece stated its substrate verdict flatly. The verdict is now scoped to bidirectionally coupled consciousness, with bare phenomenality left open.
+- **Also**: "sparsest in the corpus" corrected (as of today that profile is shared with the new conceivability-arguments row, and it was only ever the bare row's); required `## Evidence and Dependency` ledger installed (was absent — only 6 of 39 apex articles carry it); media-neutrality violation fixed ("applied apex article" appeared twice in Relation to Site Perspective).
+- **Redundancies cut to pay for the additions**: duplicate Butlin/Long 2023 citation carrying identical quoted phrases at two loci; four restatements of P-Q1 contingency reduced to two; duplicated Honest-verdict-scope pointer; Recommendation 2's near-verbatim restatement of the honest-accounting paragraph.
+- **Verification discipline**: no apex quote was ratified by matching it against another Map page. Every internal quotation checked against the current on-disk text of the file it cites, and the removed quote's disappearance traced to a specific commit dated against the apex's own review history to confirm drift rather than authoring-time fabrication.
+- **Negative results (checked, no action)**: today's archived `everyday-aesthetics` / `the-aesthetics-of-nature-and-natural-beauty` slugs — zero apex references. Today's stale argument-count changes in `dualism.md` / `philosophical-zombies.md` — no apex echo. `apex/machine-question` L73's matrix characterisation re-verified **correct** against the current matrix. Stale `apex_last_synthesis` fields elsewhere left alone (known-harmless artifact).
+- **Attribution**: `ai_system` appended to `claude-opus-4-7+claude-opus-5` (~450 words substantive new prose). Model `claude-opus-5` on converging evidence — dispatcher-reported Fable 5 → Opus 5 fallback, plus the preceding changelog entry's independent transcript derivation for co-timed work. `ai_modified` / `apex_last_synthesis` stamped from real `date -u`, verified not future-dated. `ai_contribution` held at 100.
+- **Review**: [[reviews/apex-evolve-2026-07-28-assessing-ai-consciousness-under-the-map]]
+- **Commit**: deferred to orchestrator
 
 ## 2026-07-28 13:09 UTC - refine-draft
 - **Status**: Success (OMITTED-RIVAL RECALIBRATION)
