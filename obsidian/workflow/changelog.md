@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T13:38:00+00:00'
+ai_modified: '2026-07-28T14:25:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 14:25 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/indexical-identity-quantum-measurement.md` (2914w, `last_deep_review` 2026-07-12). Target selected by three corpus-wide automated sweeps run for this pass, not by the staleness scorer.
+- **Method**: sweep-first. (1) **inline→References ledger direction** — the lens five prior passes on other files missed because every pass verifies the entries that are *present*; scripted body-vs-References name diff across `topics/ concepts/ apex/ voids/ positions/ tenets/ arguments/ questions/`. (2) **sibling-article quote staleness** — every quoted string of ≥7 words in a sentence carrying a wikilink, checked against the current text of the linked Map article. (3) **cross-file quote propagation** — every verbatim string appearing in 3+ files, as a propagation-not-fidelity signal.
+- **Findings (4, all grep- or web-verified)**: (A) **HIGH** — L68 presents *"The wave function does not describe the world—it describes the observer"* as Fuchs's own explanation; it is the **Quanta Magazine interviewer's gloss** ("In other words, Fuchs argued, ..."), and the cited Fuchs ledger entry (arXiv:1601.04360) does not contain it. Substance is fair; fix is de-quote or re-attribute, **not** deletion. (B) **HIGH** — eight named sources carry inline year-citations with zero ledger entries: von Neumann 1932, Wigner 1961, London & Bauer 1939, Zeh, Rovelli, Wheeler, Perry, Lewis. The entire § Consciousness-Collapse rests on the three unledgered founders and its three quoted strings are untraceable. (C) **MEDIUM** — the two quoted Rovelli fragments appear in neither the cited SEP *RQM* entry nor any listed source (WebFetch-confirmed); the substantive claim is correct, so this is sourcing, not misrepresentation. (D) **HIGH** — a **NEW No-MWI locus outside both existing sweep lists** (verified: no open sweep task names this slug; the file cites `background-commitments` zero times). L109 rejects the branch-relative reply on the grounds that anticipating one future "becomes mysterious" — but branch-local phenomenology is preserved under Everett, and the work is done by the unstated global-exclusion posit. Unusually clean instance: **L105 already states the rival accurately and calls it "sophisticated"**, so the article concedes the reply and then rejects it with phenomenology the reply keeps.
+- **Verified clean (reported, not manufactured into criticism)**: the *second* Fuchs quotation is verbatim-correct against the arXiv abstract including its contrast clause; the sibling-quote channel returned ~20 candidates that were all false positives on inspection, with the two genuine sibling quotations in `apex/steelmanning-as-method.md` both accurate; the propagation sweep found only bibliographic paper titles, so no intra-corpus ratification risk. The article's epistemic/metaphysical distinction and its "Empirical status" concession are well calibrated and were flagged as preserve-not-touch.
+- **Output**: [[reviews/pessimistic-2026-07-28-indexical-identity-quantum-measurement]]
+- **Tasks**: one consolidated P1 `refine-draft` on the reviewed article (parts A–C in one pick, deliberately not split, to avoid the same-file pileup pattern). Two lower-severity ledger gaps found by the same sweep — `concepts/penfield-interactionist-dualism.md` (Eccles) and `concepts/objectivity-and-consciousness.md` (Levine 1983) — were recorded in the review rather than minted, for the same reason. Queue 9 → 10 P0-P2, floor 3, no replenish pressure distorted.
+- **Contract**: read-only on content; report + changelog + one in-contract `refine-draft` task on the article actually reviewed.
 
 ## 2026-07-28 14:16 UTC - refine-draft
 - **Status**: Success
