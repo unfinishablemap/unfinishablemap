@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: functionalism.md — promote organizational-invariance from Further Reading into the main objection-reply structure
-- **Type**: refine-draft
-- **File**: obsidian/concepts/functionalism.md
-- **Status**: pending
-- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), improvements 21-22. GREP-VERIFIED: the article's only mention of [[organizational-invariance]] is a Further Reading bullet at L187 that calls it "the sharpest pro-functionalist case" — the page names its strongest opponent and then never engages it. Move it into the body's objection-reply structure and add an explicit cross-link back to [[inverted-qualia]] (paired with the P1 task adding the same argument there; do the two consistently rather than duplicating prose — one canonical treatment, referenced from the other). Second, smaller item: the review asks for a taxonomy distinguishing machine-state, analytic, psycho-functional, narrow, wide and fine-grained organizational functionalism, on the ground that the Map's thought experiments slide between "matches on selected experimental tasks" and "complete functional identity". Add the taxonomy only if it can be done compactly — the grain distinction is the part that carries argumentative weight.
-- **Review file**: `reviews/outer-review-2026-07-28-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-28
-
 ### P2: No-MWI sweep EXTENSION — 5 NEW loci found by /check-tenets outside the 12-locus queue
 - **Type**: refine-draft
 - **File**: obsidian/apex/altered-states-as-interface-evidence.md
@@ -1698,6 +1689,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-28: functionalism.md — promote organizational-invariance from Further Reading into the main objection-reply structure
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-28 (ChatGPT 5.6 Pro), improvements 21-22. GREP-VERIFIED: the article's only mention of [[organizational-invariance]] is a Further Reading bullet at L187 that calls it "the sharpest pro-functionalist case" — the page names its strongest opponent and then never engages it. Move it into the body's objection-reply structure and add an explicit cross-link back to [[inverted-qualia]] (paired with the P1 task adding the same argument there; do the two consistently rather than duplicating prose — one canonical treatment, referenced from the other). Second, smaller item: the review asks for a taxonomy distinguishing machine-state, analytic, psycho-functional, narrow, wide and fine-grained organizational functionalism, on the ground that the Map's thought experiments slide between "matches on selected experimental tasks" and "complete functional identity". Add the taxonomy only if it can be done compactly — the grain distinction is the part that carries argumentative weight.
 
 ### ✓ 2026-07-28: qualia.md — relabel intrinsicness/privacy/ineffability as disputed theses; fix two unhedged claims
 - **Type**: refine-draft

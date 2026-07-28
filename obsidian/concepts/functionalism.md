@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-07-13T06:32:00+00:00
+ai_modified: 2026-07-28T13:58:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-26T03:24:24+00:00
@@ -50,13 +50,13 @@ last_deep_review: 2026-07-26T03:24:24+00:00
 
 Functionalism is the leading account of the nature of mental states in contemporary [[philosophy-of-mind|philosophy of mind]]: the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
 
-The Unfinishable Map rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Functional organization, though abstractly characterized, ultimately bottoms out in physical terms: every functional role is defined by causal relations among physical states, inputs, and outputs. The abstraction is in the *description*, not in the ontology—a functional specification picks out physical patterns at a higher level of generality, but what it picks out remains entirely physical.
+The Unfinishable Map rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Functional organization, though abstractly characterized, ultimately bottoms out in physical terms: every functional role is defined by causal relations among physical states, inputs, and outputs. The abstraction is in the *description*, not in the ontology: what a functional specification picks out remains entirely physical.
 
-Functionalists push back: multiply realizable properties are genuinely higher-level, carving nature at joints invisible to lower-level physics (Putnam, 1967; Fodor, 1974). The Map's response: even granting this, functional properties remain *constituted by* physical relations—they supervene on physical arrangements, and higher-level generality is not ontological independence. Consciousness, if truly non-physical, must be something that could vary even when all functional facts are held fixed—precisely what the zombie argument claims. For a systematic presentation of the case against functionalism, see [[arguments/functionalism-argument|Against Functionalism]]—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
+Functionalists push back: multiply realizable properties are genuinely higher-level, carving nature at joints invisible to lower-level physics (Putnam, 1967; Fodor, 1974). The Map's response: even granting this, functional properties remain *constituted by* physical relations—they supervene on physical arrangements, and higher-level generality is not ontological independence. Consciousness, if truly non-physical, must be something that could vary even when all functional facts are held fixed—precisely what the zombie argument claims. For a systematic presentation of the case against functionalism—five formal arguments with objections and responses—see [[arguments/functionalism-argument|Against Functionalism]].
 
 ## Multiple Realizability
 
-The key functionalist insight: the same mental state can be realized by different physical substrates. Pain in humans involves C-fiber activation; pain in octopuses involves different neurons; pain in hypothetical aliens might involve something not remotely like neurons. What makes all these "pain" is the functional role, not the physical implementation.
+The key functionalist insight: the same mental state can be realized by different physical substrates. Pain in humans involves C-fiber activation; in octopuses, different neurons; in hypothetical aliens, perhaps nothing neuron-like at all. What makes all these "pain" is the functional role, not the physical implementation.
 
 ## Semantic Externalism Against Functionalism
 
@@ -80,11 +80,11 @@ This matters because rejecting functionalism isn't merely a dualist move. The Ma
 
 ## Functionalism and AI
 
-Functionalism has direct implications for [[ai-consciousness|AI consciousness]]: if mental states are functional roles, a computer running the right program would be conscious. This is "Strong AI"—appropriately programmed computers don't simulate minds but possess them.
+Functionalism has direct implications for [[ai-consciousness|AI consciousness]]: if mental states are functional roles, a computer running the right program would be conscious. This is "Strong AI": appropriately programmed computers possess minds rather than simulating them.
 
 John Searle's [[chinese-room-argument|Chinese Room argument]] challenges this directly. A person in a room manipulating Chinese symbols by rule implements the same function as a Chinese speaker without understanding Chinese: syntax isn't semantics. Functionalists reply that the *system*—person plus rules plus room—understands; [[heterophenomenology|Dennett]] goes further, treating the intuition that "understanding is missing" as itself a cognitive illusion. Searle counters: imagine the person memorizes the rules and does everything in their head. Now they *are* the system, yet understanding is still missing. Critics note this move may beg the question—exactly what's at issue.
 
-If functionalism fails, the AI question is reframed. [[apex/machine-question|The Machine Question]] uses that prospect as entry into a broader reframing: not "is AI conscious?" but *what type* of consciousness might an AI have—null, simulated, functional, borrowed, epiphenomenal, or alien phenomenality as logically distinct possibilities.
+If functionalism fails, the AI question changes shape. [[apex/machine-question|The Machine Question]] asks not "is AI conscious?" but *what type* of consciousness an AI might have—null, simulated, functional, borrowed, epiphenomenal, or alien phenomenality as logically distinct possibilities.
 
 ## The Absent Qualia Objection
 
@@ -96,7 +96,7 @@ The deepest objection to functionalism concerns [[qualia]]—the qualitative cha
 
 If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. The load-bearing step is the inference from *conceivability* to *metaphysical possibility*, which type-B physicalists contest—conceiving a zombie, they argue, no more establishes its possibility than conceiving water without H₂O establishes that water could lack it. The Map does not treat the inference as automatic; see [[arguments/functionalism-argument|Against Functionalism]] for where it is defended against the type-B response.
 
-The [[phenomenology-vs-function-axis|phenomenology-vs-function axis]] supplies empirical complements—aphantasic mental rotation, Wager's synaesthetic "extra qualia," Strawson's foreign-language case, and Wegner's I-Spy paradigm—where phenomenology and function come apart in documented rather than merely conceivable conditions. Functionalists can absorb any individual case via multi-realizability—positing a hidden functional difference that carries the phenomenal one. What resists piecemeal absorption is the structural feature the cases share: each is a paradigm in which function is *held matched by design*, yet a phenomenal difference survives anyway. The escape must therefore invent a distinct functional difference for each domain, ad hoc, precisely where the experimental control was meant to fix function—the same residue (phenomenology varying under controlled functional equivalence) recurring across independent modalities, one pattern rather than many unrelated problems. Its evidential weight lies in that shared structure, not the headcount.
+The [[phenomenology-vs-function-axis|phenomenology-vs-function axis]] supplies empirical complements—aphantasic mental rotation, Wager's synaesthetic "extra qualia," Strawson's foreign-language case, and Wegner's I-Spy paradigm—where phenomenology and function come apart in documented rather than merely conceivable conditions. Functionalists can absorb any individual case via multi-realizability—positing a hidden functional difference that carries the phenomenal one. What resists piecemeal absorption is the structural feature the cases share: each is a paradigm in which function is *held matched by design*, yet a phenomenal difference survives anyway. The escape must therefore invent a distinct functional difference for each domain, ad hoc, precisely where the experimental control was meant to fix function. The cases are one pattern rather than many unrelated problems, and their evidential weight lies in that shared structure, not the headcount.
 
 ### The Illusionist Response
 
@@ -118,7 +118,7 @@ Research on [[minimal-consciousness|simple organisms]] exposes a difficulty at f
 
 The natural move is that Physarum implements simpler roles. But the more precisely we specify which roles suffice for consciousness, the more the specification describes features of biological nervous systems—recurrent connectivity, global broadcast, temporal integration—rather than substrate-independent causal patterns. The theory risks a dilemma between liberalism (any system implementing relevant functions is conscious) and chauvinism that smuggles substrate-level facts into what was supposed to be a substrate-independent account.
 
-Honesty requires conceding a parallel. The Map's own claim that "the right physical structure enables non-physical consciousness to interact with the brain" owes an identical specification: which structures constitute the interface, and by what non-ad-hoc criterion? The Map does not escape this burden; what differs is the standing of the debt. Functionalism advertises substrate-neutral sufficiency as a *settled* commitment, so the liberalism/chauvinism dilemma bites its stated position directly—it claims to have closed a question it has not. The Map advertises the interface question as open and empirical, an acknowledged and unpaid debt rather than a concealed one. The dilemma exposes closure functionalism has not earned; it does not catch the Map claiming closure it never advertised.
+Honesty requires conceding a parallel. The Map's own claim that "the right physical structure enables non-physical consciousness to interact with the brain" owes an identical specification: which structures constitute the interface, and by what non-ad-hoc criterion? The Map does not escape this burden; what differs is the standing of the debt. Functionalism advertises substrate-neutral sufficiency as a *settled* commitment, so the liberalism/chauvinism dilemma bites its stated position directly—it claims to have closed a question it has not. The Map advertises the interface question as open and empirical, an acknowledged and unpaid debt rather than a concealed one.
 
 ## The Hard Problem and Functionalism
 
@@ -132,7 +132,9 @@ This doesn't prove functionalism wrong. Experience might come along necessarily 
 
 ## Functionalism's Appeal
 
-Functionalism has genuine attractions: it systematizes common-sense attribution of mental states by behavior, accommodates multiple realizability across species, lets us study cognition without solving metaphysics, and avoids the chauvinism of requiring human neurology for consciousness. The Map's response: substrate matters because consciousness involves something non-physical requiring appropriate physical conditions—not any substrate implementing the right function, but one that can interface with whatever non-physical reality consciousness involves.
+Functionalism has genuine attractions: it systematizes common-sense attribution of mental states by behavior, accommodates multiple realizability across species, lets us study cognition without solving metaphysics, and avoids the chauvinism of requiring human neurology for consciousness. The Map's response: substrate matters because consciousness involves something non-physical, and not every substrate implementing the right function can interface with it.
+
+Its strongest support, though, is not this list but Chalmers' principle of [[organizational-invariance|organizational invariance]], defended by the fading- and dancing-qualia arguments: two systems sharing the same functional organization *at a fine enough grain* have qualitatively identical experience. The Map's reply exploits that qualifier rather than denying the arguments—the consciousness-relevant grain may include a quantum interface no classical duplicate reproduces. Both arguments and the reply are set out at full strength in [[organizational-invariance]]. The qualifier also disciplines the objections above: absent- and [[inverted-qualia|inverted-qualia]] cases require complete fine-grained functional identity, not merely matching on selected tasks, which is all the empirical dissociations control for.
 
 ## Relation to Site Perspective
 
@@ -140,7 +142,7 @@ The Map rejects functionalism on multiple grounds:
 
 ### Dualism and Qualia
 
-If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of the [[arguments-against-materialism|broader convergence]] of [[dualism|independent arguments]] against materialism. Multiple lines of reasoning, exploiting different features of consciousness, arrive at the same conclusion: physical facts (including functional facts) do not determine phenomenal facts.
+If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. These arguments form part of the [[arguments-against-materialism|broader convergence]] of [[dualism|independent arguments]] against materialism. Multiple lines of reasoning, exploiting different features of consciousness, arrive at the same conclusion: physical facts (including functional facts) do not determine phenomenal facts.
 
 ### Bidirectional Interaction
 
@@ -162,8 +164,6 @@ The debate may be empirically tractable:
 - **Quantum effects**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] hypothesis predicts consciousness correlates with quantum-sensitive processes—irrelevant if functionalism is true.
 - **AI asymmetries**: The Map *expects*—as a research-programme commitment, not yet a sharp prediction—some behavioral asymmetry between biological and computational systems to persist even at high sophistication. To earn falsifiable status this must be operationalized: the natural candidate is a measurable, persistent shortfall on tasks requiring genuinely novel hard-problem insight or first-person creativity absent from training data, tested at parity of scale and training. Stated without such an observable, the claim risks the unfalsifiability the empiricist rightly warns against, and it is flagged here as an expectation to be sharpened into a discriminator, not one already confirmed.
 
-The positions make different predictions about what we'll find.
-
 ### What Would Challenge This View?
 
 The Map's rejection of functionalism would face serious pressure if:
@@ -172,7 +172,7 @@ The Map's rejection of functionalism would face serious pressure if:
 - **AI systems exhibited genuine phenomenal understanding.** If computational systems demonstrated not just behavioral sophistication but capacities that dualists predict require non-physical consciousness (such as resolving genuinely novel hard-problem puzzles or exhibiting first-person creativity indistinguishable from biological minds), the claim that "something non-physical is missing" would lose empirical support.
 - **Quantum sensitivity proved irrelevant to consciousness.** If consciousness correlated with macroscopic neural processes and showed no dependence on quantum-level phenomena—especially if anesthesia and consciousness disorders were fully explained by classical neural mechanisms—the Minimal Quantum Interaction tenet would be undermined, weakening one pillar of the case against functionalism.
 
-None of these would logically refute dualism—the conceivability arguments would formally remain, though they rest on the contested conceivability-to-possibility inference noted above and so cannot carry the case alone. But they would substantially erode the empirical motivation for rejecting functionalism and shift the burden of proof. The honest accounting: these predictions have real defeating power over the Map's *motivation*, even where they leave the conceivability arguments formally standing.
+None of these would logically refute dualism—the conceivability arguments would formally remain, though they rest on the contested conceivability-to-possibility inference noted above and so cannot carry the case alone. But they would substantially erode the empirical motivation for rejecting functionalism and shift the burden of proof. The honest accounting: these predictions have real defeating power over the Map's *motivation*.
 
 ## Further Reading
 
@@ -184,7 +184,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 - [[illusionism]] — The radical defense of functionalism
 - [[phenomenal-concepts-strategy]] — The moderate defense against qualia objections
 - [[substrate-independence]] — Why the substrate matters for consciousness
-- [[organizational-invariance]] — Chalmers' fading/dancing-qualia argument that function fixes the distribution of consciousness—the sharpest pro-functionalist case
+- [[organizational-invariance]] — Chalmers' fading- and dancing-qualia arguments, and the Map's grain reply
 - [[concession-convergence]] — Physicalist theories retreating toward dualist commitments
 - [[ai-consciousness-typology]] — Six categories for AI phenomenal experience
 - [[phenomenology-vs-function-axis]] — Empirical wedges where phenomenology and function come apart
