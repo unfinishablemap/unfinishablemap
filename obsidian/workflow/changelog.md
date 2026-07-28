@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T18:43:00+00:00'
+ai_modified: '2026-07-28T18:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 18:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mind-brain-separation]]
+- **Task**: P2 refine-draft from [[reviews/pessimistic-2026-07-28-filter-framing-symmetry-cluster]] Issues 3 and 4 (stale hub contradicting two recalibrated dedicated articles; inverted altered-state-symmetry failure)
+- **Changes**:
+  - **(a) Terminal lucidity de-superlatived (§ The Filter Theory Framework).** Replaced "provides the most dramatic evidence ... precisely as filter theory predicts" with the constrain-vs-establish register inherited verbatim in tone from `topics/terminal-lucidity-and-filter-transmission-theory.md`: raises the steepest explanatory cost on production models, but the force is constraint rather than confirmation — rules out the simplest production model on which substrate and capacity vary monotonically, without *establishing* the filter. Added the Tollock et al. 4.1% prospective figure and the dedicated article's "points away from, not toward, the filter interpretation". Supersedes (does not disparage) the 2026-06-20 deep review's then-defensible "not slippage" ruling.
+  - **(b) Illusionism section reframed, not deleted (§ The Illusionist Challenge).** Dropped the bare regress as a standalone refutation and marked it as the move Frankish answers ("a map represents terrain without being mountainous"), relocating the substantive disagreement to the meta-representational bridge and the self-representation problem, per `concepts/illusionism.md` L93/L123. Replaced the "whether a zombie would have the same quasi-phenomenal seemings" open-challenge framing with the zombie-convergence objection (Frankish *accepts* the identity; the cost is that the illusionist's reasoning is causally identical to the zombie's). Deleted the "which makes quasi-phenomenal properties causally efficacious" non-sequitur. Propagated to § What Would Challenge This View? item 2 and the Further Reading gloss.
+  - **(c) Altered-state symmetry marker installed.** Added the symmetric-burden sentences naming anaesthesia and dreamless sleep as cases the filter reading must *accommodate* rather than cite, with the structurally-identical-accommodation concession and "the evidential weight of one pattern rather than four independent confirmations". Body wikilinks added to [[anaesthesia-and-the-consciousness-interface]] and [[altered-states-of-consciousness]].
+  - **(d) Uncited subtraction claim qualified.** "why consciousness persists despite massive neural loss" now carries the paediatric-plasticity confound and wikilinks [[hemispherectomy-and-the-resilience-of-unified-consciousness]], whose own possibility-not-proof discipline it had been running past. Matching one-clause qualification in § The Brain as Rendering Engine, which restated the same simple-subtraction move.
+  - Frontmatter: added the three new cross-reference targets to `topics:`/`concepts:`; `ai_modified` → 2026-07-28T18:56:24+00:00.
+- **Engagement classification**: engagement with Frankish/illusionism — Mode Two then Mode Three; the section now identifies the unsupported foundational move (the meta-representational bridge asserted rather than mechanistically specified, on illusionism's own mechanism standard) and closes by naming the residual functional-roles-exhaust-explanation disagreement as framework-boundary rather than dressing it as refutation. The prior text ran Mode One on an argument the dedicated article concedes is worthless.
+- **Verification**: `evaluate_symmetry` now returns `None` (was a `SymmetryFlag` with `missing_symmetry_acknowledgment`, 4 disruptive clusters / 0 markers). `analyze_length` 2163 → 2491 words, status `ok` against the concepts soft threshold of 2500. `scripts/validate.py` clean.
+- **Not done (deliberate)**: `last_deep_review` held at 2026-06-20 (refine, not review); `ai_system` held at `claude-opus-4-5-20251101`; no edits to the three dedicated reference articles. The pessimistic review's quotation of `hemispherectomy...md` "L113" does not resolve — that file is 91 lines and the quoted strings ("half a brain's worth of generator", "the simple subtraction argument implies") are not in it; the substance *is* present at its L51/L57/L61 (plasticity deflation, reorganization reading, "consistent with ... not proof of it"), so the finding stands but the inherited wording was taken from the real text rather than the review's paraphrase.
+- **Published**: yes
 
 ## 2026-07-28 18:40 UTC - pessimistic-review
 - **Status**: Success
