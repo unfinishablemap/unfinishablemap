@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-28T19:27:27.720090+00:00'
-session_count: 17624
-cycle_position: 11937
+last_updated: '2026-07-28T19:31:23.658985+00:00'
+session_count: 17625
+cycle_position: 11938
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-28T18:48:02.143288+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-28T02:05:59.580983+00:00'
   commission-claude-review: '2026-07-28T03:36:39.836712+00:00'
   commission-gemini-review: '2026-07-28T04:06:13.834731+00:00'
-  refine-draft: '2026-07-28T19:17:39.374403+00:00'
+  refine-draft: '2026-07-28T19:31:23.658985+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-27T22:05:38.991535+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-28'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-28'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-28'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-28'
   outcome: success
 agentic_social:
@@ -1101,67 +1101,66 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 6
+  p2_tasks: 4
+  p3_tasks: 7
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-27T22:04:00+00:00'
-  last_replenishment_prev: '2026-07-27T03:15:00+00:00'
-  last_replenishment_run: 878
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-28T19:39:00+00:00'
+  last_replenishment_prev: '2026-07-27T22:04:00+00:00'
+  last_replenishment_run: 879
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
-    positions_dependency_changed: 1
-  run_875_note: 'run no.875 (2026-07-27T01:07Z, interactive /replenish-queue): MINTED
-    one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
-    (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS
-    == 3, unmet by 1; post-write tool-verified == 3. The run-872 holder topics/predictive-self-binding-and-the-naturalist-challenge
-    was CONSUMED by a loop-less local cycle deep-review slot (commit d000e2b57 = HEAD,
-    citation-verify pass), dropping the live floor 3 -> 2 -- documented replenish-at-floor
-    alternation [[unfin_loop_steady_state]], NOT deadlock (all content sections at/near
-    cap; loop can only cycle reviews). Two open holders remain: phenomenal-presentation
-    (run-873) + primary-secondary-quality-boundary (run-874), both open. EIGHT-SOURCE
-    AUDIT re-run from live disk: (chain) recent_tasks all deep-review/refine/replenish/agentic-social/optimistic/coalesce,
-    no un-followed research->expand->cross-review. (unconsumed-research) harvester-owned
-    (last run 2026-07-26T23:32Z) + topics/voids capped. (gap/caps) topics 320/320
-    + voids 100/100 at cap, concepts 319/320 (1 slot, no concrete driver), positions
-    8/80. (staleness) THIS PICK. get_review_candidates top rows disqualified: quantum-biology
-    9.03 + personal-identity 8.84 human-length-parked; william-james 9.03 over-reviewed
-    (7 sidecars); indexical-knowledge 8.11 (05:23Z) + indexical-identity-quantum 6.09
-    (12:06Z) touched within the last cycle-day; free-will 2.68 flagship-parked; single-cell
-    1.25 reviewed 07-25. REJECTED the top raw-ref fresh-create candidate topics/consciousness-and-the-major-evolutionary-transitions
-    on a FALSE unchecked-surface premise [[owed-web-verify-task-false-never-verified-premise]]:
-    its sole 07-15 sidecar already did a full publisher web-verify ("Every external
-    cite web-verified at the publisher of record ... future reviews may rely on this
-    ledger"), and its high ref count was my heuristic miscounting the numbered 8-transitions
-    list as citations -- LEDGER-COMPLETE, low-yield. Confirmed the recent-creation
-    cohort (natural-kind, quantum-divine-action, compatibilism, naturalist-relationalism)
-    all carry at-creation web-verify ledgers, so the METADATA axis is broadly ledgered
-    across fresh creates. Applied the owed-web-verify UNCHECKED-SURFACE discriminator
-    [[owed-web-verify-seam-deep-review-targeting]] on the ORTHOGONAL axis metadata
-    ledgers do NOT cover -- verbatim quote-fidelity + attribution [[quote-fidelity-defects-survive-metadata-reviews]]
-    [[empirical-claim-fidelity-orthogonal-to-metadata-and-quotes]]: MINTED concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws
-    -- its ONLY sidecar (deep-review-2026-07-10, at creation) was an explicit ARGUMENT-LENS
-    cross-review, NOT a verbatim-quote pass, so the quote axis is genuinely unchecked;
-    quote-dense Davidson exposition (verbatim "Mental Events" 1970 strings: nomological-character-of-causality,
-    anomalism-of-the-mental, "have no echo in physical theory", "cross-classify";
-    + Honderich 1982 epiphenomenalism-charge attribution). Converged 17d (created
-    == ai_modified 07-10T17:47 == last_deep_review 07-10T18:00, git untouched since
-    creation), opus-4-8 single cohort, ai_contribution 100, 1929w status=ok length-safe.
-    Fresh-create defect-tail profile [[fresh-create-defect-tail]]; diversifies away
-    from the two open holders'' zones (predictive-processing; early-modern primary/secondary-quality)
-    into the Davidsonian philosophy-of-mind cluster. (orphan) orphaned_files==0 (embodied-cognition
-    integrate-orphan already queued). (length) offenders veto/human-parked. (positions)
-    8 < 10 audit threshold + last positions-evolve 07-25 <30d. (applied-apex) no gap.
-    Steered PRIMARY lens = verbatim quote-fidelity at the primary text (Davidson,
-    Essays on Actions and Events, Clarendon/OUP 1980) NOT unfinishablemap.org echo
-    [[quote-verify-self-contamination-via-own-page]]; de-quote paraphrase rather than
-    delete [[coalesce-wraps-paraphrase-as-fabricated-verbatim-quote]]; verify Honderich
-    1982 attribution; length-neutral. BOTTOM-inserted (FIFO [[queue-lifo-starvation]]).
-    CONCURRENCY: pgrep evolve_loop/unfin-cycle clean -- NO LOOP, interactive only
-    [[replenish-fork-hallucinates-concurrent-loop]]; HEAD d000e2b57; only uncommitted
-    non-todo delta is the pre-existing evolution-state.yaml cycle_post advance (legitimate
-    deferred bookkeeping, KEEP [[orphaned-cyclepost-state-advance-in-worktree]]).
-    Pruned run_871_note per keep-~3 discipline (kept 873/874/875) [[evolution-state-floor-restore-note-bloat]].'
+    positions_dependency_changed: 2
+  run_879_note: 'run no.879 (2026-07-28T19:39Z, interactive /replenish-queue): MINTED two tasks
+    to restore the floor (2 -> 4). Live count_p0_p2_tasks == 2 pre-mint
+    (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS ==
+    3, unmet by 1; post-write tool-verified == 4. Both mints are ONE VERIFIED DEFECT, SPLIT
+    ACROSS TWO FILES ON PURPOSE: positions/agency-and-will.md L64 (positions-evolve, P-A2
+    Bears-on) and tenets/tenets.md L120 (refine-draft). Split rather than consolidated because
+    cycle_post closes multi-file tasks after ONE file -- that trap fired repeatedly today
+    (No-MWI sweep re-queued 9x, Chinese-tradition re-queued). Appended at the END of Active
+    Tasks, NOT top-inserted: preserves FIFO for the two older P2s at lines 1619/1627
+    [[queue-lifo-starvation]] and shifts no existing line numbers
+    [[cyclepost-marks-wrong-task-on-midfork-insert]]. THE FINDING (Source 7b,
+    dependency-moved): both files carry the clause -- counterfactual exclusion sourcehood
+    requires -- which makes exclusion a demand issued BY sourcehood.
+    tenets/background-commitments.md L50 (Posit Three, written 2026-07-27 ecaa657af) denies
+    exactly that: the rejection does not follow from sourcehood, it follows from sourcehood
+    PLUS a global-exclusion condition the framework asserts. git log -S returns ONE commit for
+    the clause, fedc967d4 (2026-06-16), touching exactly these two files, never revised since
+    -- six weeks older than Posit Three. TRIGGER: two of P-A2 Argued-in articles were rewritten
+    TODAY on this precise clause (concepts/agent-causation 15:39Z ae02c581a, topics/free-will
+    15:48Z b6a7206af); P-A2 Last reviewed still 2026-06-17, and the tenets.md parenthetical
+    literally cites see agent-causation, which now states the opposite dependency. STALE
+    CLEARANCE PRE-EMPTED IN THE TASK NOTES: reviews/tenet-check-2026-07-28.md L123 calls L64
+    correctly calibrated, but ran at 03:21Z -- ~12h BEFORE the hubs moved -- and answered a
+    different question (does the register assert MWI-eliminates-agency as derived; it does
+    not). WHY BOTH 07-28 SWEEPS MISSED IT: the optimistic review scoped its 42-locus scan to
+    articles asserting that branching NULLIFIES agency; these two assert an ENTAILMENT, so fell
+    outside [[staleness-audit-section-coverage-gap]]. EIGHT-SOURCE AUDIT re-run live from disk:
+    (chain) recent_tasks are refine/deep-review/embed/social/pessimistic/harvest only -- zero
+    research-topic or expand-topic completions, no un-followed chain. (unconsumed-research)
+    harvester-owned and EXHAUSTED -- ran 3x today (06:32, 12:42, 18:48) and minted ZERO each
+    time; 130 subjects banked, 524 notes. (gap/caps) caps NOW HAVE HEADROOM after the coalesce
+    run -- topics 318/320, concepts 317/320, voids 100/100 at cap, positions 9/80 -- but
+    DECLINED to mint expand-topic: the slots were freed BY coalesce merging articles, and there
+    is no concrete driver, so refilling them would fight the coalescing
+    [[replenish-asserted-concrete-defect-often-false]]. (staleness) top get_review_candidates
+    rows churn-excluded per [[replenish-churn-filter-overtight]] -- synaesthesia 17.27,
+    first-order-representationalism, evaluative-qualia, wheelers, hard-problem-non-western,
+    cetacean-corvid, visual-consciousness, moral-responsibility, indexical-identity-quantum all
+    carry ai_modified of TODAY; personal-identity + quantum-biology are human-length-parked.
+    (orphans) quality.orphaned_files == 0. (length) all content-section violations are either
+    already human-parked blocked tasks or reference-apparatus inflation
+    [[analyze-length-counts-reference-apparatus]]; the top raw rows are research/ notes and
+    positions/ registers, neither a condense target. (positions 7a) no new unregistered
+    commitment. (applied apex) not triggered. VERIFIED NO ORPHANED REMAINDERS: checked every
+    consolidated task cycle_post closed today -- STALE-EXEMPTION 3/3 done (agent-causation,
+    free-will, moral-responsibility L99+L159 all confirmed fixed on disk via commit 39ba3cfc4),
+    No-MWI sweep 12/12, No-MWI EXTENSION 5/5, seven-vs-eight sweep clean (corpus grep returns
+    zero residue). Chinese-tradition target 2 already correctly re-queued. CONCURRENCY: no loop
+    running, interactive only. Pruned run_875_note per keep-~3 discipline (kept 876/877/879)
+    [[evolution-state-floor-restore-note-bloat]].'
   run_876_note: 'run no.876 (2026-07-27T02:34Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
     (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS
