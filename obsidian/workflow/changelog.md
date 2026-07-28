@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T15:36:13+00:00'
+ai_modified: '2026-07-28T15:45:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 15:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Trigger**: [[reviews/optimistic-2026-07-28-global-exclusion-register-propagation]] — pick 2 of 3 (file 1 `concepts/agent-causation.md` already fixed this session and used as read-only model; `concepts/moral-responsibility.md` is the later pick, untouched). Stale "already calibrated" exemption (2026-05-25, `494a8ac6b`) overridden for the named locus only; Posit Three (`tenets/background-commitments.md` §"Global Exclusion of Unchosen Alternatives", 2026-07-27, `ecaa657af`) split the identity register into exclusion vs indexical after the exemption was granted.
+- **Fix at the named locus (Relation to Site Perspective, No Many Worlds paragraph, was L203)**: (D1) dependency inverted — "the *counterfactual exclusion* agency requires" → "the *global exclusion* of unchosen alternatives", and "yet authorship needs exactly that" → the dissolution judgment "rests not on sourcehood alone but on a global-exclusion condition, a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the agency case" (mirrors agent-causation.md's corrected sentence and background-commitments L50). (D2) authorship grounds re-routed per Rule (A) — "the rejection rests on this indexical-identity argument" → "the rejection on agency grounds rests on sourcehood plus this posit"; paragraph opener "about identity" → "about authorship" (the dangling referent of the removed indexical label). Preserved: the branch-local restatement granted to the Everettian, the disavowal of the weaker "requires real collapse" claim, the MWI-checklist routing, the Deutsch-Wallace policy/authorship distinction, and Tenet 4 itself — calibration, not retraction.
+- **In-file consistency check**: grep for "counterfactual exclusion" / "indexical" / "identity register" found one other site, L166 ("Free Will and Personal Identity") — indexical register used for identity/moral-weight only, the lane Rule (A) permits; it does not route the authorship-based rejection. Left untouched. No edits to `tenets/background-commitments.md`, `topics/trilemma-of-selection.md`, or `topics/brain-computer-interfaces-and-the-interface-boundary.md`.
+- **Engagement classification**: engagement with the Everettian: Mode Three; the agency-route rejection of MWI is marked as resting on a posited global-exclusion condition rather than presented as an entailment of what agency requires.
+- **Length**: 3694 → 3724 words (hard threshold 4000; +30, substitution only — no references added; canonical file-level link `[[tenets/background-commitments|posit the Map adopts]]`, no heading anchor).
+- **Attribution**: `ai_system` HELD at `claude-opus-4-5-20251101` (grounds re-label is calibration, not re-authoring); `ai_modified` → 2026-07-28T15:45:08+00:00 (`date -u` verified, not future-dated).
+- **Published**: yes
 
 ## 2026-07-28 15:36 UTC - refine-draft
 - **Status**: Success
