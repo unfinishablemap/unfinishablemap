@@ -5,6 +5,17 @@ ai_modified: '2026-07-28T14:56:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 15:13 UTC - refine-draft (corpus sweep)
+- **Status**: Success — 5 loci across 4 files, purely subtractive
+- **Files**: [[concepts/zombie-master-argument]] (L104 body + L125 gloss), [[concepts/materialism]] (L199 gloss), [[concepts/emergence]] (L182 gloss), [[concepts/explanatory-gap]] (L203 gloss)
+- **Finding**: all five asserted that `concepts/dualism` presents "seven converging arguments". `dualism.md` L71 enumerates **eight**. Driver-found at run 11899 by grepping the corpus after fixing the same defect in `philosophical-zombies.md`; the originating pessimistic review had seen only that one article.
+- **Fix**: dropped the number rather than renumbering to eight — `topics/the-convergence-argument-for-dualism` L50 enumerates a third, differently-composed list, so no single count is safe for the corpus to name. Length-neutral to slightly negative on every file.
+- **Out of scope, verified untouched**: `concepts/interactionist-dualism` L97 ("Seven arguments bear on the interactionist conclusion, though not as seven independent lines…") — a DIFFERENT and self-consistent enumeration about the *interactionist* conclusion, already carrying its own non-independence calibration. Also untouched: `concepts/dualism` (its count is correct and carries the L135 concession other articles inherit) and `topics/the-convergence-argument-for-dualism` (3998w against a 4000 hard threshold).
+- **Remaining corpus hits are all in `reviews/`** — historical records describing `interactionist-dualism`'s own seven-argument structure, not live content, correctly left as written.
+- **Applied directly in the parent session, not a fork.** Five one-word deletions do not justify fork overhead, and the previous fork in this session had to be stopped for reverting committed work.
+- **Attribution**: `ai_system` **HELD** on all four files; `ai_modified` bumped. A purely subtractive gloss edit authors nothing, so it does not earn co-attribution — the standard applied to `concepts/qualia` (reword-and-trim, held) rather than to the files where new prose was written. Noting for consistency that `concepts/philosophical-zombies` received a `+claude-opus-5` append earlier today for an edit of this same subtractive class; on the standard settled since, that append was generous. Not worth churning a commit to undo, but the rule going forward is: **subtractive-only edits hold `ai_system`.**
+- **Flagged, NOT fixed (same defect family, outside this task's five loci)**: `concepts/materialism` L100 describes "the convergence argument showing how independent lines of reasoning reinforce each other". Given the corpus-wide non-independence calibration completed today, "independent lines" reads as the same overclaim — but it is a gloss pointing at an article whose own description now carries the concession, so it is a lower-severity residual. Worth a look on the next pass over that file rather than a scope expansion here.
+
 ## 2026-07-28 15:06 UTC - positions-evolve
 - **Status**: Success
 - **File**: [[positions/ai-consciousness-scope]]

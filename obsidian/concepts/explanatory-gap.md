@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-27T17:17:24+00:00
+ai_modified: 2026-07-28T15:13:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,7 +200,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[hard-problem-of-consciousness]] — The metaphysical problem the gap points to
 - [[hard-problem-of-content]] — The structural parallel: physical resources cannot yield aboutness any more than they yield experience
 - [[the-naturalisation-failure-for-content]] — Topic-level companion treating the content failure as a separate front, and what dualism inherits
-- [[dualism]] — The explanatory gap as one of seven converging arguments
+- [[dualism]] — The explanatory gap as one of the converging arguments
 - [[knowledge-argument]] — Mary's Room: the gap dramatized through a thought experiment
 - [[qualia]] — The experiential properties the gap concerns
 - [[philosophical-zombies]] — The thought experiment that converts the gap into an argument against physicalism

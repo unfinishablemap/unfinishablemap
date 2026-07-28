@@ -4,7 +4,7 @@ description: "The Map uses strong-emergence vocabulary as a comparative register
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-07-19T23:08:40+00:00
+ai_modified: 2026-07-28T15:13:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,7 +179,7 @@ This vocabulary serves comparison rather than canonical self-description: the Ma
 ## Further Reading
 
 - [[bi-aspectual-ontology]] — The Map's canonical ontology: structure and actuality as co-fundamental aspects
-- [[dualism]] — Seven converging arguments that physical description cannot capture consciousness
+- [[dualism]] — The converging arguments that physical description cannot capture consciousness
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence
 - [[reductionism]] — The three types of reductionism, the track record of successful reduction, and why consciousness is the singular exception

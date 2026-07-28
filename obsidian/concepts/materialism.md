@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-03T21:25:00+00:00
+ai_modified: 2026-07-28T15:13:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -196,7 +196,7 @@ None currently obtains, and each faces significant challenges. Materialism remai
 ## Further Reading
 
 - [[argument-from-reason]] — The self-stultification argument: physicalism undermines rational justification for any belief, including itself
-- [[dualism]] — What dualism claims, its main varieties, and seven converging arguments against physicalism
+- [[dualism]] — What dualism claims, its main varieties, and the converging arguments against physicalism
 - [[knowledge-argument]] — The knowledge argument (Mary's Room) in detail
 - [[explanatory-gap]] — What physical explanations leave out
 - [[philosophical-zombies]] — The zombie argument against materialism in detail
