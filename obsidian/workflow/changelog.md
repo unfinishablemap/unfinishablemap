@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T05:24:42+00:00
+ai_modified: 2026-07-28T05:49:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 05:49 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-28
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro) — all three audited the same subject, `concepts/inverted-qualia.md`
+- **Clusters**: 4 convergent, 6 singleton, 3 divergent
+- **Tasks upgraded**: 3 (P2→P1: 3; P2→P1 none blocked; 1 further convergent task already at P1 and rewritten in place rather than upgraded)
+- **Tasks deduplicated**: 0 — all four convergent clusters mapped onto exactly one existing task each; nothing was minted and nothing resurrected
+- **Convergent clusters**: (1) convergence counted as evidential independence — all three legs, `qualia.md` L184 primary, upgraded to P1; (2) stale colour science, bibliography stops at Palmer 1999 — ChatGPT + Claude cleanly, Gemini residue only, upgraded to P1; (3) tenets used as evidence at the No-MWI and Occam loci — ChatGPT + Claude, already P1, Claude's symmetric-self-binding Occam finding merged in; (4) `ai_modified` conflating media commits with substantive revision — ChatGPT diagnosed, Claude was misled by it, upgraded to P1.
+- **Deliberate non-convergences**: Gemini's headline "entirely ignores colour-space asymmetry" charge was NOT counted as converging with ChatGPT's colour-science finding — it is verified false (L80-82 is a dedicated Detectability Objection section) and only the narrower verified residue was upgraded. The "tenets treated as evidence" cluster was narrowed to two loci rather than upgraded wholesale, since ChatGPT over-reads it at §1.2/§3.3 and Claude cites a Tenet-Dependency Matrix cell that does not exist.
+- **Caveats carried into tasks**: ChatGPT's six `[unverified quote]` paraphrases (notably "probably tracks something deep", stronger than the article's hedged L172) flagged as never-quotable; Claude's non-existent matrix cell flagged; Gemini's mis-framed Nakauchi & Tamura 2022 flagged as re-frame-not-remove; Claude's 2020s colour-science source set flagged as owing a publisher-of-record pass before import.
+- **Methodology finding**: quote fidelity and targeting are orthogonal axes. Gemini posted its best-ever fabrication result (0 fabricated, 9/10 verbatim) and produced the least useful review, because verbatim quotes drawn from the wrong document pass a fidelity check untouched. The corpus's quote-fidelity discipline needs a targeting companion: verify provenance to the *file*, not just to the corpus. ChatGPT shows the inverse failure on the same night — on target throughout, six paraphrases dressed as quotations.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-28]]
 
 ## 2026-07-28 05:24 UTC - outer-review
 - **Status**: Success
