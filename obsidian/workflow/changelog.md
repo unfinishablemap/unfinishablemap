@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T05:49:31+00:00
+ai_modified: 2026-07-28T06:08:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 06:08 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Task**: P1 author-stance firewall (outer review 2026-07-28, Claude Opus 5, §Q3) — four loci in one pass
+- **Word count**: 2472 → 2475 (net +3; `status: ok`, soft 2500 / hard 3500). All four repairs were installed as rewordings of existing sentences, and the ~200 words they cost were bought back by compressing flab elsewhere (Inverted Earth, phenomenal-concepts, Dennett, contemplative-evidence, Whitehead, Occam, and the merge of two overlapping "What Would Challenge This View?" items that both said functionalism succeeds where it is charged with failing). Cluster headroom preserved for the three sibling P1 tasks.
+- **Changes**:
+  - **Locus 1 — Shoemaker firewall (lead, L43).** "survived sophisticated reformulation by Shoemaker (1982)" recruited a functionalist as an architect of the anti-functionalist case. Reworded to state his actual position: he reformulates in order to show inversion is *compatible* with functionalism, qualia being definable through relations of qualitative similarity; his apparatus is used for precision, not as endorsement. Citation retained — this is a framing repair, not a deletion.
+  - **Locus 2 — SEP dissenter disclosure (L91).** The article quoted SEP's "a simple zombie scenario will equally serve the purpose" while relying on Shoemaker, whose dissent the neighbouring sentence records. Added the verified verbatim line ("Shoemaker is a notable dissenter on this point; he holds that while inverted spectrum scenarios are conceptually coherent, zombie scenarios are not") and stated plainly that the article leans on his reformulation while drawing a parallel he denies.
+  - **Locus 3 — Hardin re-pointed (L75).** Disclosed at first mention that Hardin is an eliminativist about colour qualia who presses detectability to *undermine* the thought experiment. Also flagged that Shoemaker's achromatic case is likewise a move made inside functionalism.
+  - **Locus 4 — the modal-vs-empirical contradiction (L158).** Removed "This aligns with part of Hardin's detectability objection", which had the article escaping Hardin at L82 by calling the argument modal and then borrowing his empirical bite to feed an MQI prediction. Replaced with the honest resolution: the empirical commitment is the Map's own, made in the teeth of Hardin's use of it; testing of his kind would probe — and could falsify — the Map's prediction, while the conceivability argument stands or falls independently.
+- **Engagement classification** (editor-internal; no mode labels in the article body): Shoemaker and Hardin loci are author-stance / citation-framing repairs, not refutations, so no mode applies. Locus 4 is **Mode Three — framework-boundary marking**: the Map's empirical commitment diverges from the source's use of the same premise, and the divergence is marked honestly rather than dressed as agreement or as a refutation of Hardin inside his own eliminativist framework.
+- **Not re-verified**: the SEP quotes were web-verified at plato.stanford.edu/entries/qualia-inverted during collection; no WebSearch budget spent re-confirming them.
+- **Attribution**: `ai_system` held at `claude-opus-4-5-20251101` — targeted re-framing and compression of existing prose is not re-authoring.
+- **Siblings**: three P1 tasks on this file remain open and untouched (organizational-invariance / Fading-Dancing Qualia; lead + Relation-to-Site-Perspective MQI-concession alignment; 2020s colour science). None was discharged here.
+- **Published**: yes
 
 ## 2026-07-28 05:49 UTC - combine-outer-reviews
 - **Status**: Success
