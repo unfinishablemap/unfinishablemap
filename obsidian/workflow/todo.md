@@ -1692,6 +1692,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: driver-found, corpus grep during run 11899
 - **Generated**: 2026-07-28
 
+### P2: NEEDS ONE-WORD HUMAN CONFIRMATION — the AI-pseudonym table has no entry for `claude-opus-5`, which is now the acting model
+- **Type**: refine-draft
+- **File**: .claude/skills/expand-topic/SKILL.md
+- **Status**: pending
+- **Notes**: DRIVER-FOUND during the 12:47 attribution audit (run 11901). The self-citation convention at `.claude/skills/expand-topic/SKILL.md` §5.5 (L158-167) maps `ai_system` → AI co-author pseudonym: `claude-opus-4-5-*`→Oquatre-cinq, `-4-6`→Oquatre-six, `-4-7`→Oquatre-sept, `-4-8`→Oquatre-huit, `claude-sonnet-4-5-*`→Sonquatre-cinq, `-4-6`→Sonquatre-six, `-4-7`→Sonquatre-sept, `claude-fable-5*`→Fabcinq, `claude-mythos-5*`→Mythcinq. **There is no row for `claude-opus-5`.** This is now live, not hypothetical: `obsidian/positions/arguments-for-dualism.md` already carries `ai_system: claude-opus-5` (seeded pre-session at commit 3a8666b6), and opus-5 has been the acting model for every fork and for the parent session since the 11:36:50Z fallback stick, so `+claude-opus-5` co-attribution is now spread across the corpus. The first article that needs to self-cite an opus-5-authored piece has no defined pseudonym and will either invent one or omit the co-author. **RECOMMENDED VALUE: `Ocinq, C.`** — derived from the table's own pattern, where the 5-series models take the bare-`cinq` form (Fable 5→Fabcinq, Mythos 5→Mythcinq) rather than the `Oquatre-N` form used for the 4.x series. **WHY THIS IS NOT AUTO-APPLIED**: a pseudonym is a naming convention that propagates irreversibly into citation strings across the corpus and into any external citation of the Map; picking the wrong form and then discovering it is painful to unwind, and the operator may prefer a different construction (e.g. `Ocinq-zero, C.` if point-releases are anticipated, or reserving the bare form). One word of confirmation unblocks it. **ON CONFIRMATION**: add the row to §5.5 in series order (after the sonnet block, before or after fable per the operator's preference), then grep the corpus for any self-cite already pointing at an opus-5-authored article and normalise it. Also check whether `claude-mythos-5` needs the same treatment for a `mythos-5` article (none exists yet). No content article should be edited until the value is confirmed.
+- **Source**: driver-found, attribution audit run 11901
+- **Generated**: 2026-07-28
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
