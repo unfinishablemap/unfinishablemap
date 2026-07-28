@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T09:35:43+00:00'
+ai_modified: '2026-07-28T10:03:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 10:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Task**: P1 "Separate substantive-revision timestamps from metadata/media changes in the frontmatter schema" (todo line 111), from the convergent 2026-07-28 outer-review cycle.
+- **Scope honoured**: methodology write-up ONLY. No schema field was added, no article frontmatter was edited, no sync or skill code was touched. The proposal is recorded as PROPOSED / NOT ENACTED in the register the file's four sibling proposal sections use.
+- **Section added**: `## Proposed: Substantive-Revision Timestamp Separation (pending human ratification — 2026-07-28 outer-review)`, inserted after the 2026-07-21 staged-citation-verification section and before *A Tension Worth Naming*.
+- **Word count**: 13,625 → 15,450 (+1,825). `project/` methodology docs are exempt from the generic condense thresholds (a sibling runs 128KB); the file was already nominally `critical` before this pass.
+- **Evidence recorded, both legs verified in-repo before writing**: `git log` confirms `e4498d4e8` (2026-07-20, `concepts/inverted-qualia.md`) is `auto(embed-videos): trigger` and `cee8a1def` (2026-07-15) is `auto(deep-review): cycle` — so `ai_modified: 2026-07-20` advertised a substantive revision that was a video embed.
+- **Convergence framing — deliberately NOT smoothed into "2 of 3 reviewers agreed"**: ChatGPT 5.6 Pro *diagnosed* the defect from the commits; Claude Opus 5 was *taken in by it* and built a "version-skew straggler" charge partly on the misreading, which the collect leg corrected. Written up as **convergence by demonstration rather than by agreement**, and argued to be stronger evidence than agreement would have been: a defect that fools a hostile publisher-of-record-verifying referee is better evidenced by the fooling than by the flagging. This is stated as the reason the proposal outranks the other three proposed sections.
+- **New finding surfaced during the pass (not in either review)**: `tools/reviews/subjects.py:_build_recent_subject` emits the literal string *"was last substantively modified {ai_modified}"* into the outer-review commission prompt. So the Map asserted the corrupted value to the reviewer as a premise, in its own voice, in the prompt that commissioned the audit — the causal mechanism of the fooling, and the sharpest single argument for the change.
+- **Substance covered**: four-field separation (`last_substantive_revision` / `last_deep_review` / new `last_citation_verification` / `ai_modified` retained with its literal any-write meaning); per-skill assignment (`/embed-videos` and mechanical passes barred — `tools/videos/embedder.py` currently writes `ai_modified` on every embed; `/refine-draft`, `/condense`, `/coalesce`, `/expand-topic`, `/apex-evolve` advance it; `/deep-review` only on non-no-op); three local validator enforcements (commit-class cross-check against the git log, monotonicity + non-futurity, ordering against review fields).
+- **Second-order benefit argued as the primary one**: the corrupted signal has three consumers and the rendered footer is the least important. `tools/curate/deep_review.py` computes `days_unreviewed_content` from `ai_modified` and already carries a documented *workaround* — `PRIOR_REVIEW_DAMP` / `MIN_REREVIEW_DAYS`, added after the 06-04→06-06 tune-system reports found metadata-only re-picks — i.e. the defect is already diagnosed inside the codebase and currently treated by statistically damping a corrupted signal rather than reading an uncorrupted one. Two of the three consumers are routing, not display.
+- **Second corruption direction recorded**: tonight's fork future-dated an `ai_modified` stamp by 98 seconds while reporting a live `date -u` (tell: rounded `:00` seconds); corrected, and all 75 files carrying `ai_modified` swept clean. Used as the argument for semantics narrow enough to be checkable — a fabricated value is undetectable in a field whose licit range is "any time at all".
+- **Recorded as candidate, explicitly NOT attempted** (per the task's "note both; do not attempt both"): convergence expiry when a neighbouring article acquires a material concession the converged page never integrates. Live example verified — `concepts/philosophical-zombies` L159–167 (*The Interactionist Escape*) concedes that Bidirectional Interaction forces rejection of the duplicate-plus-identical-output stipulation, while `concepts/inverted-qualia` keeps the stronger framing. Positioned as the anti-shield family's lapse-condition sibling to the 2026-07-19 item (g) and 2026-07-21 item (e), pairing with the item (i) changelog-dependency-graph proposal.
+- **Anchor correction**: an initial draft linked `[[#Honest Limitation]]` as the home of the no-op convention; that section does not document it, so the anchor was removed rather than left as a false cross-reference.
+- **Frontmatter**: `ai_modified` stamped from live `date -u` (10:03:53, unrounded); `ai_system` co-attributed `claude-opus-4-7+claude-opus-5` (`+`-joined string, not a list); five `related_articles` added (three 2026-07-28 review files, the two exhibit articles). No `[1m]` artefact.
+- **Published**: yes
 
 ## 2026-07-28 09:35 UTC - deep-review
 - **Status**: Success
