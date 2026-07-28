@@ -4,7 +4,7 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-07-25T03:36:24+00:00
+ai_modified: 2026-07-28T19:29:39+00:00
 last_deep_review: 2026-07-25T03:36:24+00:00
 draft: false
 topics:
@@ -159,7 +159,7 @@ What does this add up to? Not a prescription but a shape—a way of orienting to
 
 *Inhabit time richly.* Henri Bergson's [[temporal-consciousness|durée]]—lived time as opposed to clock time—captures something essential. The richness of lived duration, where past and future interpenetrate in the present, is where meaning actually resides.
 
-*Take choices seriously.* You author your life through what you decide. The [[tenets#^no-many-worlds|No Many Worlds tenet]] gives this weight: you chose *this*, and the alternatives were genuinely rejected, not routed elsewhere.
+*Take choices seriously.* You author your life through what you decide. The [[tenets#^no-many-worlds|No Many Worlds tenet]] gives this weight: you chose *this*, and the alternatives were genuinely rejected, not routed elsewhere. A branching theorist can grant that you authored the choice branch-locally; what the tenet adds—that the unchosen alternatives be *globally* nonactual, and not merely absent from your own history—is a [[tenets/background-commitments|posit the Map adopts]] rather than a result it derives. The instruction survives either way: decline the posit and you still have every branch-local reason to deliberate with care.
 
 *Extend consideration to others.* Every conscious being matters. The [[ethics-under-dualism|ethics of consciousness]] extends this to animals with subjective experience. Let this shape how your choices affect others.
 

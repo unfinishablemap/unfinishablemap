@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T19:22:00+00:00'
+ai_modified: '2026-07-28T19:30:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 19:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/living-with-the-map]]
+- **Task**: FINAL target (12 of 12) of the consolidated No-MWI/agency calibration sweep. Sweep complete.
+- **Locus**: L162, `## The Shape of a Life`, the *Take choices seriously* imperative. Defect: "the alternatives were genuinely rejected, not routed elsewhere" stated the global-exclusion condition as though the No Many Worlds tenet delivered it, with no marking that it is a posit the framework adopts. Authorship/selection claim → **global-exclusion posit** lane per Rule (A).
+- **Fix — calibration, not retraction**: original two sentences preserved verbatim; two sentences appended. (i) Concession: "A branching theorist can grant that you authored the choice branch-locally". (ii) Posit-marking: "what the tenet adds—that the unchosen alternatives be *globally* nonactual, and not merely absent from your own history—is a [[tenets/background-commitments|posit the Map adopts]] rather than a result it derives." (iii) Article-specific seam (Rule E): **practical invariance under the calibration** — "The instruction survives either way: decline the posit and you still have every branch-local reason to deliberate with care." This is the point available only in the *living-with-it* apex, whose whole subject is what follows practically from the framework: marking the posit costs the advice nothing, which is more honest than leaving a practical imperative resting on an unmarked metaphysical claim. Tenet 4 stands; "take choices seriously" remains the operative instruction.
+- **Register**: practical-advice section, not an argument section. Kept in the article's plainer second-person voice — "you", "your own history", "deliberate with care" — rather than importing the seminar-register formulations the sibling calibrations use in their tenet blocks. Deliberately shorter and flatter than the exclusion-lane models it inherits from.
+- **Lanes NOT crossed (Rule A)**: L162 is authorship → **exclusion**; L194 (`## Relation to Site Perspective`, No Many Worlds) is moral-weight → **indexical** and one of the corpus's two canonical indexical-grounds models. **L194 left untouched.** This file legitimately carries one locus of each lane; the fix brings L162 into line with L194's *manner* (name what branching preserves, then locate the disagreement on the named commitment) without re-grounding it on indexical terms. No "why *this* branch's outcome is *mine*" language imported into L162; no `posit the Map adopts` link added to L194.
+- **Register inherited, not invented**: exclusion-lane models read before writing — `concepts/agent-causation.md` L177, `concepts/quantum-indeterminacy-free-will.md` L141/L188, `apex/phenomenology-of-consciousness-doing-work.md` L171, `concepts/luck-objection.md` L148, `topics/free-will.md` L203. The "*globally* nonactual, and not merely absent from…" construction and the branch-local concession both come from that family.
+- **Constraints honoured**: (D) no references added — the Everettian literature is cited once at `tenets/background-commitments.md` and this article links there rather than re-citing; this is the file's first citation of `background-commitments` (0 → 1). (B) the four falsifier entries under `## What Would Challenge This Way of Living?` left untouched. `tenets/background-commitments.md` not edited. Canonical phrase "globally nonactual" used per Rule (A); link is to the **file**, no heading anchor, no posit number in prose.
+- **Engagement classification**: engagement with the branching theorist — **Mode Three** (framework-boundary marking). Correct mode here: no in-framework defect is claimed against Everett, the branch-local authorship concession is granted outright, and the residual demand is named as a Map-side posit rather than dressed as a refutation. No label leakage in article prose.
+- **Length**: 3744 → 3803 words (`analyze_length` run before and after; apex soft 4000 / hard 5000, status `ok` both times). +59, inside the 60–90 budget, 197 words of soft-threshold headroom remaining. Substitution not required — no compensating trims taken.
+- **Attribution**: `ai_system: claude-opus-4-6` held unchanged. `last_deep_review` held at 2026-07-25T03:36:24+00:00 (not bumped — this is a refine, not a review). `ai_modified` set from `date -u` at write time, not future-dated.
+- **Published**: yes
 
 ## 2026-07-28 19:22 UTC - deep-review
 - **Status**: Success
