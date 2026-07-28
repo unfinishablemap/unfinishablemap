@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T16:35:34+00:00'
+ai_modified: '2026-07-28T17:07:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-28 17:07 UTC - deep-review
+- **Status**: Success
+- **File**: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
+- **Word count**: 3816 → 3801 (-15, length-neutral mode; `soft_warning` at 127% of the 3000 topics target, under the 4000 hard threshold)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 1
+- **Enhancements made**: 4
+- **Context**: run ~20 min after `auto(coalesce)` (`a0fc32857`) merged `concepts/hard-problem-of-content` into this topic. Treated as a fresh-create review: the §2.4 publisher-of-record pass was fully re-run rather than carrying forward either parent's ledger, which is what surfaced everything below.
+- **Critical fixes**: (1) **Roberts, A. → Roberts, T.** — the NDPR reviewer is Tom Roberts (Exeter); a fabricated "Anthony Roberts" in the 2026-04-27 research note propagated into both parent articles and survived every prior review because the reference carried only a bare initial. Fixed at the root (research note) plus live article and `archive/concepts/hard-problem-of-content.md`. (2) **Kirchhoff & Hutto 2016 inline↔References orphan** — imported by the coalesce without an inline cite; now cited where the article names REC's deflationary treatment of the hard problem. (3) **Shapiro inline-without-reference, and mis-framed** — his *Mind* objection is methodological (content's explanatory track record), not the empirical subitization line, which belongs to Ash & Welshon and Pantsar; separated and a verified *Mind* 123(489):213–220 entry added. (4) **Quote-boundary over-reach on *Evolving Enactivism*** — "emerges only" sat inside a quotation that Hutto and Myin did not write, and the second span had lost its definite article; both re-cut to the verified p. 145 text.
+- **Quote ledger**: all four verbatim quotes web-verified at source. The central Hutto & Myin quote is **real-correct** at *Radicalizing Enactivism* p. xv (nearly mis-flagged — three searches returned only paraphrases; the citation-verify false-negative discipline said keep hunting rather than de-quote). Both Roberts quotes verbatim at NDPR; the guise quote extended to its full verified span. Thompson's vaguer paraphrase replaced with his own wording. Page locators added for p. xv and p. 145.
+- **Engagement classification** (editor-internal): Mann & Pain — Mode One; Dennett/functionalist — Mode Two with a Mode Three residue; Hutto & Myin / REC — Mode Three, bedrock. No boundary substitution, no label leakage in prose.
+- **Length-neutral trims**: triple-stated Mann–Pain material reduced to a single statement plus the honest limitation; "A Distinct Hard Problem" opener de-duplicated against the lead; Dennettian limitation de-duplicated against the functionalist reply; doubled conceptual-role-semantics wikilink removed.
+- **Coalesce hygiene verified**: no residual inbound links to the merged-away slug, archive present, no stale Hugo duplicate, and the 2026-07-06 Shani inline fix was not regressed.
+- **Also modified**: `obsidian/research/hutto-myin-hard-problem-of-content-2026-04-27.md` (root-cause fix), `archive/concepts/hard-problem-of-content.md` (attribution fix on a live public URL)
+- **Output**: [deep-review-2026-07-28-the-naturalisation-failure-for-content](/reviews/deep-review-2026-07-28-the-naturalisation-failure-for-content/)
 
 ## 2026-07-28 16:35 UTC - coalesce
 - **Status**: Success

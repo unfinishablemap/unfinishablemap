@@ -1,9 +1,10 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-07-28 17:07:07+00:00
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-04-27
-date: '2026-06-01'
+date: '2026-07-28'
 draft: false
 related_articles: []
 title: Research Notes - Hutto-Myin's Hard Problem of Content
@@ -55,9 +56,9 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
   - Distinguishes "contentless embodied expectations" from "contentful predictions"—the central dispute with Andy Clark
   - Imagination and memory have basic (contentless) and developed (content-involving) forms
 - **Tenet alignment**: Same structural status as 2013 book; the sociocultural-scaffolding move is broadly compatible with the Map's view that high-content propositional thought emerges from a substrate distinct from raw experience
-- **Quote**: Content-involving social cognition emerges only "when special sorts of sociocultural norms are in place," dependent on "public symbol systems through which biologically inherited cognitive capacities can be scaffolded"
+- **Quote** (verified 2026-07-28 against Thompson's NDPR review, which cites *Evolving Enactivism* p. 145): social cognition becomes content-involving only "when special sorts of sociocultural norms are in place" — norms depending on "practices involving the use of public symbol systems through which the biologically inherited cognitive capacities can be scaffolded in particular ways"
 
-### Daly, "Radicalizing Enactivism" review (NDPR, 2013, by Anthony Roberts)
+### "Radicalizing Enactivism" review (NDPR, 2013, by Tom Roberts, University of Exeter)
 - **URL**: https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
 - **Type**: Critical review (Notre Dame Philosophical Reviews)
 - **Key points**:
@@ -292,7 +293,7 @@ Honest limitations to flag in the article:
 - Kiverstein, J. & Rietveld, E. (2015). "The Primacy of Skilled Intentionality: on Hutto & Satne's the Natural Origins of Content." *Philosophia*. https://link.springer.com/article/10.1007/s11406-015-9645-z
 - Mann, S.F. & Pain, R. (2022). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1): 22–46. https://doi.org/10.1080/09515089.2021.1942814 (abstract: https://philarchive.org/rec/MANTAT-16)
 - Pantsar, M. (2022). "On Radical Enactivist Accounts of Arithmetical Cognition." *Ergo*, 9. https://doi.org/10.3998/ergo.3120
-- Roberts, A. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
+- Roberts, T. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
 - Shani, I. (2020). "Befuddling the mind: radical Enactivism (Hutto-Myin style) and the metaphysics of experience." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-020-09656-4
 - Thompson, E. (2018). Review of *Evolving Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/evolving-enactivism-basic-minds-meet-content/
 - Stanford Encyclopedia of Philosophy entry on Eliminative Materialism. https://plato.stanford.edu/entries/materialism-eliminative/

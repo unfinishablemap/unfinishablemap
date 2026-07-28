@@ -129,7 +129,7 @@ The honest limitation: Hutto and Myin would reject the Map's conclusion. They ar
 1. Hutto, D.D. & Myin, E. (2017). *Evolving Enactivism: Basic Minds Meet Content*. MIT Press. https://mitpress.mit.edu/9780262036115/evolving-enactivism/
 1. Mann, S.F. & Pain, R. (2022). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1): 22–46. https://doi.org/10.1080/09515089.2021.1942814
 1. Shani, I. (2020). "Befuddling the mind: radical Enactivism (Hutto-Myin style) and the metaphysics of experience." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-020-09656-4
-1. Roberts, A. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
+1. Roberts, T. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
 1. Thompson, E. (2018). Review of *Evolving Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/evolving-enactivism-basic-minds-meet-content/
 1. Ash, M. & Welshon, R. (2020). "Dynamicism, radical enactivism, and representational cognitive processes: The case of subitization." *Philosophical Psychology*, 33(8). https://www.tandfonline.com/doi/abs/10.1080/09515089.2020.1775798
 1. Kirchhoff, M.D. & Hutto, D.D. (2016). "Never Mind the Gap: Neurophenomenology, Radical Enactivism, and the Hard Problem of Consciousness." *Constructivist Foundations*, 11(2): 346–353. https://constructivist.info/11/2/346
