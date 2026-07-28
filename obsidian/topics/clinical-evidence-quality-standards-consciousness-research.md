@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-07-13T20:41:48+00:00
+last_deep_review: 2026-07-28T22:54:18+00:00
 ---
 
 Clinical and neurological evidence is routinely cited in debates about consciousness — Schwartz's OCD neuroplasticity, meditation neuroimaging, placebo effects, dissociation syndromes, anaesthesia studies. Yet consciousness research faces a distinctive methodological problem: the inferential gap between clinical findings and metaphysical conclusions is wider than in ordinary medicine, and standard evidence hierarchies (RCTs, meta-analyses, replication) address only part of the difficulty. The Unfinishable Map holds that clinical evidence can be genuinely probative for questions about consciousness, but only when evaluated against standards that account for both third-person and first-person data, the underdetermination problem, and the asymmetry between functional and structural claims.

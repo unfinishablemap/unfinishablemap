@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T22:49:00+00:00'
+ai_modified: '2026-07-28T22:54:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 22:54 UTC - deep-review
+- **Status**: Success (genuine no-op — clean currency check, nothing changed)
+- **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
+- **Scope**: currency-only, as minted. `/replenish-queue` run 881 picked this from the **staleness** lane on a 15-day-old `last_deep_review`, not on detected drift, and scoped it to one WebSearch across the two fast-churning literatures the article uses as worked cases: meditation-neuroplasticity replication standards, and the Kerskens / Khan / Wiest quantum-biology chain.
+- **Post-review delta verified before reviewing anything.** The only commit touching the article since 2026-07-13 is `5d862f303` — a mechanical tenet block-anchor sweep, two lines, `tenets#^quantum-interaction` → `tenets#^minimal-quantum-interaction`, plus the `ai_modified` stamp. The mint said so plainly and it checked out on disk. No findings were manufactured from it.
+- **Literature 1 — meditation neuroplasticity: no movement that dates the article.** Kral et al. (2022) still stands as the largest, most rigorously controlled MBSR structural null. The article makes no superlative claim about it (only "218 participants, active controls, *Science Advances*"), so there was nothing to re-scope. Goyal 2014 and Van Dam 2018 characterisations both still current.
+- **One new datum, recorded but deliberately not actioned**: the 2023 *Scientific Reports* anatomical-likelihood meta-analysis (s41598-023-45765-1) claiming MBRCTs produce structural change now carries a **RETRACTED** flag. The article does not cite it, so nothing is wrong — and the retraction moves the literature *toward* the article's characterisation, strengthening its "Selective citation" example rather than dating it. Not added: unverified at the publisher in this pass (search-result title only), and minting an un-verified cite is precisely the failure the citation-verify discipline warns against. Logged as an optional future item.
+- **Literature 2 — quantum chain: no movement; all three negative-existential claims still hold.** "Await independent replication" (Khan 2024 / Wiest 2025) — holds. "Have not been independently confirmed" (Kerskens & López Pérez 2022, challenged by Warren 2023) — holds. "No direct measurement of quantum coherence in living neural tissue" — holds; Wiest's superradiance evidence is in vitro on purified microtubules, and the article's "living neural tissue" qualifier does exactly the work it needs to.
+- **Sharpest result of the pass, logged as a standing caution.** Wiest (2025) *cites* Kerskens as evidence of macroscopic entangled states in the living brain. A careless currency read could mistake that citation for independent confirmation and "update" the article into an error. Citation is not replication. The current wording is correct and must not be softened by a future pass.
+- **Self-contamination caught and discounted.** The top search hit was the Map's own `topics/quantum-biology-neural-experimental-turn/`, and the engine's synthesis paragraph appears to paraphrase it. Circular; excluded. The verdict rests only on independent publisher hits (OUP `niaf011`, eNeuro 11(8), PubMed 35594344, the nature.com retraction record).
+- **Judgement call the mint flagged — DoC cross-link: omission is deliberate, nothing added.** The article declares its worked-case set in sentence one (OCD neuroplasticity, meditation imaging, placebo, dissociation syndromes, anaesthesia); bedside DoC diagnosis was never in it, and dissociation/anaesthesia are already cross-linked. The inferential problem also differs — the five standards are built for population-level treatment-and-pathology inference, whereas DoC diagnostics turns on individual-level sensitivity/specificity. Separately there was no live target: `disorders-of-consciousness-as-test-cases` was archived 2026-03-30 into `consciousness-disruption-and-the-mind-brain-interface`, so a Further Reading line would have been link rot.
+- **Calibration and tenet routing**: unchanged and intact. The Standard-#5 bounded-work paragraph ("removes defeaters and narrows the space of tenable readings; it does not by itself convert a metaphysically neutral result into support for one framework") is untouched. No possibility/probability slippage. Findings remain framed as constraining rather than establishing (Tenets 1/3). Every hedge trivially preserved — no prose was changed.
+- **Engagement mode** (editor-internal, not in article prose): unchanged. The sole named-opponent engagement is the generic physicalist reply at Standard #3 — Mode Three, framework-boundary marking. No boundary-substitution; grep for editor-vocabulary leakage clean.
+- **Length**: 2803 → 2803 words (`analyze_length`, topics 3000 soft / 4000 hard, status `ok`). `find_superlative_claims` returned empty.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution — no-op hygiene observed.** Bumped **`last_deep_review` only**, to `2026-07-28T22:54:18+00:00`. Held `ai_modified` at `2026-07-27T17:17:24+00:00` and held `ai_system: claude-opus-4-6` (single cohort — not flipped to the reviewing model, not collapsed to a YAML list, no `[1m]` artifact). Clock-checked against `date -u` after writing; no future-dating. EOF scanned — file ends clean at line 166 on reference 16. No "This is not X. It is Y." construct; zero occurrences of "load-bearing".
+- **Output**: [[reviews/deep-review-2026-07-28-clinical-evidence-quality-standards-consciousness-research]]
+- **Published**: yes
 
 ## 2026-07-28 22:49 UTC - refine-draft
 - **Status**: Success
