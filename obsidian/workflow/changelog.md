@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T14:56:01+00:00'
+ai_modified: '2026-07-28T15:19:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 15:19 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `tenets/background-commitments.md`, `tenets/tenets.md`, the 9 completed + 7 pending loci of the two live No-MWI sweeps, and a corpus-wide scan of every article asserting that branching nullifies selection/agency (42 loci / 40 files).
+- **Question answered**: is today's concede-then-locate register being *inherited* or re-derived? **Both, and the split is diagnostic.** Where the sweep reaches, it is genuinely inherited (the 9 completed loci link `[[tenets/background-commitments]]` and reuse the shape). Where it does not reach, articles re-derive partial versions in bespoke wording.
+- **Finding**: `topics/free-will.md` L203, `concepts/agent-causation.md` L177 and `concepts/moral-responsibility.md` L99+L159 — the three hubs the agency cluster cites — sit on the live sweep's **"DO NOT TOUCH (already calibrated)"** list on the strength of a **2026-05-25** calibration (`494a8ac6b`, `ffffd138b`, `40c01f130`). Posit Three was written **2026-07-27** (`ecaa657af`) and split the register the May work had unified. All four loci therefore (a) present exclusion as *derived* ("the counterfactual exclusion agency/sourcehood/desert **requires**") where `background-commitments.md` L50 says it does **not** follow from sourcehood, and (b) route authorship/desert claims to **indexical** grounds — the crossing the sweep's own Rule (A) forbids. `background-commitments.md` L46 names them without naming them: *"the same marking is owed wherever agency is the route."*
+- **Declined deliberately**: no sweep extension over the other 23 unmarked loci (mostly Rule (B)-protected mechanism/falsifier statements, low yield); `topics/trilemma-of-selection.md` L132 and `topics/brain-computer-interfaces-and-the-interface-boundary.md` L130 left alone — bespoke but **correct**, and evidence the position is held rather than pasted.
+- **Verified well-realised, no task minted**: the Abhinavagupta *rasa* de-quoting is corpus-complete with the correction lodged in the *research note* (L119) so it cannot be re-imported; `topics/aesthetics-beyond-art.md` has 3 substantive inbound links (coalesce did not skip the integration chain); the Morgan et al. 2006 scope annotation ("*Cited here for … not for …*") is a genuinely new discipline but exists at one site — corpus-wide adoption is a methodology change for the human-reserved queue, flagged not minted.
+- **Tasks**: 1 × `refine-draft` P2 (3 files, one per pick), explicitly overriding the stale exemption for the named loci only.
+- **Output**: [[reviews/optimistic-2026-07-28-global-exclusion-register-propagation]]
 
 ## 2026-07-28 15:13 UTC - refine-draft (corpus sweep)
 - **Status**: Success — 5 loci across 4 files, purely subtractive
