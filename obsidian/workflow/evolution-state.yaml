@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-28T09:23:07.964018+00:00'
-session_count: 17555
-cycle_position: 11888
+last_updated: '2026-07-28T09:38:18.462257+00:00'
+session_count: 17556
+cycle_position: 11889
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-28T08:39:29.478465+00:00'
   optimistic-review: '2026-07-27T21:37:24.546414+00:00'
   check-tenets: '2026-07-28T03:21:30.356730+00:00'
   check-links: '2026-07-27T16:39:25.783109+00:00'
-  deep-review: '2026-07-28T07:09:27.489404+00:00'
+  deep-review: '2026-07-28T09:38:18.462257+00:00'
   tune-system: '2026-07-26T22:34:03.142377+00:00'
   research-voids: '2026-07-27T16:49:44.670127+00:00'
   coalesce: '2026-07-27T23:55:53.517905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-26T22:24:09.808802+00:00'
-  agentic-social: '2026-07-28T08:47:07.138699+00:00'
+  agentic-social: '2026-07-28T09:46:25.284200+00:00'
   embed-videos: '2026-07-28T03:02:57.545306+00:00'
   commission-chatgpt-review: '2026-07-28T02:05:59.580983+00:00'
   commission-claude-review: '2026-07-28T03:36:39.836712+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6948
+  reviews_completed: 6949
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-07-28'
-  outcome: success
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-07-28'
@@ -193,17 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-28'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-07-28'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/evaluative-phenomenal-character/
-    date: '2026-07-21T09:46:20.692341+00:00'
-    topics:
-    - meaning-of-life
-    - ethics-under-dualism
-    - consciousness-and-normative-force
-    - aesthetics-and-consciousness
-    - phenomenology-of-moral-life
-    - phenomenal-value-realism
   - url: https://unfinishablemap.org/topics/birch-edge-of-sentience-and-the-five-tier-scale/
     date: '2026-07-21T10:45:55.308947+00:00'
     topics:
@@ -1100,6 +1087,11 @@ agentic_social:
     date: '2026-07-28T08:46:49.800484+00:00'
     topics:
     - consciousness-and-the-metaphysics-of-composition
+  - url: https://unfinishablemap.org/topics/one-structure-three-vocabularies/
+    date: '2026-07-28T09:46:25.284145+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - quantum-measurement-and-consciousness
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1287,7 +1279,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
