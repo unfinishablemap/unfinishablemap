@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-07-27T20:39:01+00:00
+ai_modified: 2026-07-28T14:40:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[quantum-immortality-and-the-quantum-suicide-survival-argument]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-07-12T17:12:22+00:00
@@ -36,7 +36,7 @@ last_deep_review: 2026-07-12T17:12:22+00:00
 
 Every interpretation of quantum mechanics faces the same unresolved question: why does *this* particular consciousness experience *this* particular measurement outcome? The [[measurement-problem]] asks why we observe definite outcomes rather than superpositions. But even granting that definite outcomes occur, a deeper problem remains—what determines which outcome *I* experience, and why am *I* experiencing any outcome at all? This is the indexical gap, and it connects quantum mechanics directly to the [[hard-problem-of-consciousness]].
 
-The indexical gap reveals a blind spot across all major interpretations. [[#qbism|QBism]] treats probabilities as subjective beliefs but cannot explain why consciousness has determinate content to begin with. Consciousness-collapse theories explain how collapse happens but not why *this* consciousness exists to trigger it. [[concepts/many-worlds|Many-Worlds]] makes every outcome equally real yet requires an inexplicable primitive fact about which branch "I" occupy. [[#relational|Relational quantum mechanics]] denies consciousness any privileged role, treating "observer" as synonymous with "physical system." Each interpretation addresses the measurement problem while leaving the indexical problem untouched.
+The indexical gap reveals a blind spot across all major interpretations. [[#qbism|QBism]] treats probabilities as subjective beliefs but cannot explain why consciousness has determinate content to begin with. Consciousness-collapse theories explain how collapse happens but not why *this* consciousness exists to trigger it. [[concepts/many-worlds|Many-Worlds]] makes every outcome equally real and leaves which branch "I" occupy primitive—though Everettians deny there is anything here to explain, which is where the real dispute lies. [[#relational|Relational quantum mechanics]] denies consciousness any privileged role, treating "observer" as synonymous with "physical system." Each interpretation addresses the measurement problem while leaving the indexical problem untouched.
 
 ## The Indexical Problem Stated
 
@@ -66,7 +66,7 @@ The Map's position requires the metaphysical thesis. If indexical facts are mere
 
 [[qm-interpretations-beyond-many-worlds#QBism (Quantum Bayesianism)|QBism]] (Quantum Bayesianism) interprets quantum probabilities as personal degrees of belief. The wave function describes an agent's knowledge, not physical reality. Measurement "creates" outcomes rather than revealing pre-existing values. Collapse is merely updating beliefs.
 
-Christopher Fuchs, QBism's founder, explains: "The wave function does not describe the world—it describes the observer." Born probabilities are subjective Bayesian degrees of belief, constrained by normative coherence requirements analogous to Dutch-book coherence.
+Christopher Fuchs, QBism's founder, holds that the wave function tracks an agent's expectations rather than the world—a position his *Quanta Magazine* interviewer glossed as the claim that "the wave function does not describe the world — it describes the observer" (Gefter 2015). Born probabilities are subjective Bayesian degrees of belief, constrained by normative coherence requirements analogous to Dutch-book coherence.
 
 **The indexical gap**: QBism presupposes that conscious agents have determinate experiences to update beliefs *about*. If quantum probabilities are beliefs about future experiences, the theory requires that consciousness already has definite experiential content. But whence this content? QBism treats consciousness as an epistemic stance—a user of quantum theory—without explaining why consciousness exists or why it experiences anything definite.
 
@@ -76,11 +76,11 @@ Note that QBism's gap is primarily about the existence and content of consciousn
 
 ### Consciousness-Collapse: Why *This* Consciousness? {#collapse}
 
-Von Neumann (1932) allowed that collapse could occur anywhere along the measurement chain, up to "subjective perception." Wigner (1961) made consciousness explicit: conscious observation causes collapse. London and Bauer (1939) argued that consciousness plays an essential role by providing the "outside" perspective needed to complete measurement.
+Von Neumann (1932) allowed that collapse could occur anywhere along the measurement chain, up to "subjective perception." Wigner (1961) made consciousness explicit: conscious observation causes collapse. London and Bauer (1939) argued that consciousness completes the measurement: the observer's "faculty of introspection" lets her know her own state directly and so cut the chain of statistical correlations that unitary evolution would otherwise extend indefinitely.
 
 **The indexical gap**: Even if consciousness causes collapse, this doesn't explain why *this* consciousness exists. Suppose consciousness triggers collapse from superposition to definite outcome. Why is there a consciousness here to trigger anything? What determines which consciousness triggers which collapse?
 
-Wigner himself abandoned consciousness-collapse by the 1970s-80s, calling it "solipsism." He was convinced by Zeh's work on decoherence that environmental interaction, not consciousness, explains apparent collapse. But the deeper problem remains regardless: consciousness-collapse theories explain how collapse happens (conscious observation) without addressing why any particular conscious subject exists to observe.
+Wigner himself abandoned consciousness-collapse by the 1970s-80s, citing its solipsistic implications. He was convinced by Zeh's work (1970) on decoherence that environmental interaction, not consciousness, explains apparent collapse. But the deeper problem remains regardless: consciousness-collapse theories explain how collapse happens (conscious observation) without addressing why any particular conscious subject exists to observe.
 
 Furthermore, as the Stanford Encyclopedia's "Quantum Approaches to Consciousness" entry notes, "introducing mental states as the essential missing link is highly speculative from a contemporary perspective." The theory conflates two different questions: why collapse occurs (mechanism) and why *this* subject experiences *this* collapsed state (indexical identity).
 
@@ -88,7 +88,7 @@ Furthermore, as the Stanford Encyclopedia's "Quantum Approaches to Consciousness
 
 Carlo Rovelli's relational interpretation holds that quantum states are relational—a system has properties only relative to another system. There are no observer-independent states. Crucially, "observer" applies to any physical system, not necessarily conscious entities. A photon detector is as much an "observer" as a human.
 
-Rovelli explicitly rejects reading his interpretation as consciousness-dependent: the point "is instead that reality is relational," not that "reality depends upon the presence of a conscious observer."
+Rovelli (1996) explicitly rejects reading his interpretation as consciousness-dependent; the point is that reality is relational, not that reality depends on a conscious observer being present. The Stanford Encyclopedia's entry on relational quantum mechanics puts it flatly: "There is nothing subjective, idealistic, or mentalistic, in RQM," and "Subjects, or agents play no special role in RQM."
 
 **The indexical gap**: If any physical system can be an "observer," consciousness has no privileged role. But then the indexical question receives no answer at all. Why am *I* experiencing this outcome rather than that one? Relational QM has no resources to address this—the first-person perspective is simply not part of the theory. Indexical facts about which subject experiences which outcome fall outside its scope entirely.
 
@@ -106,7 +106,7 @@ The debate here intersects the epistemic/metaphysical distinction. MWI defenders
 
 The [[many-minds-interpretation|Many-Minds Interpretation]] is the sharpest test of whether *adding minds* to Everett can close the indexical gap. It keeps physical reality single and unbranching but gives each observer a continuum of minds that distribute across outcomes. Yet nothing in the formalism picks out which of the post-measurement minds is the actual continuant "I"—the interpretation multiplies the indexical problem rather than solving it. That MMI fails here, despite writing minds directly into the theory, supports the present article's diagnosis: the indexical gap is untouched by the physics of how outcomes are populated.
 
-The Map rejects this move for reasons detailed in [[indexical-knowledge-and-identity]]: if the metaphysical thesis is false, the phenomenology of anticipating *one* future (not many) becomes mysterious. Why does it feel like there's a fact about which outcome I'll experience, if all outcomes are equally real and "I" just names whatever system is asking? The [[tenets#no-many-worlds|No Many Worlds]] tenet reflects this: the felt meaningfulness of "which branch will I be in?" suggests an indexical fact is at stake, not merely an indexical mode of knowing.
+The Map does not accept this move, but the grounds need stating carefully, because the obvious objection does not work. Anticipating *one* future rather than many is preserved under Everett: each branch-version anticipates a single outcome and gets a single outcome, so the felt meaningfulness of "which branch will I be in?" is exactly what a branch-relative subject would report either way. Branch-local phenomenology does not discriminate between the readings. What branching cannot supply is counterfactual exclusion — that the outcomes this subject does not experience be *globally* nonactual rather than merely absent from this subject's branch. That the unchosen alternatives be excluded globally is a [[tenets/background-commitments|posit the Map adopts]] rather than a conclusion the phenomenology delivers, and the [[tenets#no-many-worlds|No Many Worlds]] tenet rests on it. The disagreement with the branch-relative reply therefore sits at the framework boundary. What the Map does argue for independently — that the indexical fact is metaphysical rather than merely epistemic — is developed in [[indexical-knowledge-and-identity]].
 
 ## The Participatory Realism Ambiguity
 
@@ -162,7 +162,7 @@ This topic intersects all five tenets:
 
 **Bidirectional Interaction**: If my reports about my experiences are to be reliable, there must be causal connection between what I experience and what I say. Indexical grounding provides this: consciousness determines the experienced outcome, and this determination flows into verbal behavior.
 
-**No Many Worlds**: The indexical question is real, not dissolved by branch-counting. One outcome actualizes for this subject—not one branch among infinitely many equally real alternatives.
+**No Many Worlds**: The indexical question is treated as real rather than dissolved by branch-counting. That one outcome actualizes for this subject, with the alternatives *globally* nonactual rather than merely absent from this branch, is a [[tenets/background-commitments|posit the Map adopts]]; the Everettian who grants only branch-local actualisation disagrees at the framework boundary rather than over a shared premise.
 
 **Occam's Razor Has Limits**: QBism and relational QM seem simpler by avoiding consciousness's causal role. But this apparent simplicity leaves the indexical gap untreated. A theory that cannot explain why *I* experience anything is incomplete regardless of its parsimony.
 
@@ -187,16 +187,30 @@ This topic intersects all five tenets:
 
 ## References
 
-1. Fuchs, C. A. (2016). "On Participatory Realism." arXiv:1601.04360.
+1. von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Berlin: Julius Springer. English translation by R. T. Beyer, *Mathematical Foundations of Quantum Mechanics*, Princeton University Press, 1955.
 
-2. "Quantum-Bayesian and Pragmatist Views of Quantum Theory." Stanford Encyclopedia of Philosophy.
+2. London, F. & Bauer, E. (1939). *La théorie de l'observation en mécanique quantique*. Paris: Hermann. English translation, "The Theory of Observation in Quantum Mechanics," in Wheeler, J. A. & Zurek, W. H. (eds.), *Quantum Theory and Measurement*, Princeton University Press, 1983, pp. 217–259.
 
-3. "Quantum Approaches to Consciousness." Stanford Encyclopedia of Philosophy.
+3. Wigner, E. P. (1961). "Remarks on the Mind-Body Question." In Good, I. J. (ed.), *The Scientist Speculates*. London: Heinemann, pp. 284–302.
 
-4. "Relational Quantum Mechanics." Stanford Encyclopedia of Philosophy.
+4. Zeh, H. D. (1970). "On the Interpretation of Measurement in Quantum Theory." *Foundations of Physics*, 1(1), 69–76. DOI: 10.1007/BF00708656.
 
-5. Albert, D. (2010). "Probability in the Everett Picture." In Saunders, S., Barrett, J., Kent, A. & Wallace, D. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press, pp. 355–368.
+5. Rovelli, C. (1996). "Relational Quantum Mechanics." *International Journal of Theoretical Physics*, 35(8), 1637–1678.
 
-6. Dawid, R. & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.
+6. Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245–261.
 
-7. Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245–261.
+7. Albert, D. (2010). "Probability in the Everett Picture." In Saunders, S., Barrett, J., Kent, A. & Wallace, D. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press, pp. 355–368.
+
+8. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+
+9. Gefter, A. (2015). "A Private View of Quantum Reality." *Quanta Magazine*, 4 June 2015.
+
+10. Fuchs, C. A. (2016). "On Participatory Realism." arXiv:1601.04360.
+
+11. Dawid, R. & Friederich, S. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711–721.
+
+12. "Quantum-Bayesian and Pragmatist Views of Quantum Theory." Stanford Encyclopedia of Philosophy.
+
+13. "Quantum Approaches to Consciousness." Stanford Encyclopedia of Philosophy.
+
+14. "Relational Quantum Mechanics." Stanford Encyclopedia of Philosophy.
