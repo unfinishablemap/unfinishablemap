@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T01:46:47+00:00
+ai_modified: 2026-07-28T02:16:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T02:16:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/luck-objection]]
+- **Word count**: 2167 → 2301 (+134); hard threshold 3500, so ~1200 words of headroom retained. Growth confined to the one calibrated tenet entry; no other section touched.
+- **Scope**: MWI/authorship calibration only, target (7) of a consolidated multi-file task, L148. The other five targets were deliberately not swept.
+- **Locus verified before editing**: L148 read verbatim as quoted in the brief — "If all branches are equally real (MWI), no selection occurs—every outcome actualizes somewhere."
+- **The defect**: "no selection occurs" is a flat authorship claim that branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) defeat on their own terms — they preserve branch-local psychological continuity, counterfactual control and reasons-responsiveness, so an Everettian can say a selection did occur in this branch, flowing from this agent's reasons. The article asserted as derived what the Map in fact posits.
+- **Why this article makes the fix unusually worth getting right**: the luck objection *is* the charge that an undetermined choice is random rather than authored. Under branching the Everettian's reply is genuinely strong — reasons-responsiveness survives branch-relatively, so the choice is not lucky in the sense the objection normally targets. The honest statement, now installed, is that branching converts the luck objection from a question about *randomness* into a question about *exclusion*: what makes this outcome the agent's own rather than a counterpart's becomes a bare indexical fact. That is a sharper and more useful claim than "no selection occurs" and it strengthens the article.
+- **The fix**: inherited the settled exclusion formulation from `apex/consciousness-and-agency.md` (tenet block) and `concepts/quantum-indeterminacy-free-will.md` L141 — Everettian grant of a branch-local history of having chosen; "counterfactual exclusion authorship requires"; "every rejected option is actualised by a counterpart elsewhere". Posit-marker and boundary-marker in the settled form: globally-nonactual unchosen is "a [[tenets/background-commitments|posit the Map adopts]] rather than a conclusion the response to luck delivers, and the disagreement sits at the framework boundary." No new formulation invented; no new references added, since the Everettian literature is cited once at `tenets/background-commitments.md` and the siblings link there rather than re-citing.
+- **Calibration ground**: authorship/selection family, so the exclusion posit — *not* the indexical/measure-weighting move reserved for suffering and moral-weight claims.
+- **Engagement classification** (editor-internal, not in article prose): engagement with the Everettian — Mode Three, framework-boundary marking. The prior text was a Mode One overreach (asserted that selection itself fails under branching) that the Everettian's own resources defeat; the reply now concedes the branch-local restatement and marks the exclusion demand as a Map posit rather than an in-framework refutation.
+- **Calibration, not retraction**: Tenet 4 stands unweakened and the positive conclusion survives verbatim — collapse is real, consciousness participates in it, genuine choice results. `ai_system` held at `claude-opus-4-5-20251101` (calibration edit, not re-authoring), matching how the siblings were handled. `tenets/background-commitments.md` untouched, per brief.
+- **Published**: yes
 
 ## 2026-07-28T01:46:47+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-17T22:50:32+00:00
+ai_modified: 2026-07-28T02:16:16+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -145,7 +145,7 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 
 **Minimal Quantum Interaction**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies *how* selection works—biasing which among physically possible outcomes actualizes, without overriding physics or injecting energy. The decoherence challenge targets this tenet, but quantum biology has shown the categorical objection is too strong.
 
-**No Many Worlds**: The [[tenets#^no-many-worlds|No Many Worlds]] tenet is essential. If all branches are equally real (MWI), no selection occurs—every outcome actualizes somewhere. The Map's response requires rejecting MWI: collapse is real, consciousness participates in it, and genuine choice results.
+**No Many Worlds**: The [[tenets#^no-many-worlds|No Many Worlds]] tenet is essential, though the point needs stating carefully. It is too quick to say that under MWI no selection occurs. An Everettian can grant the agent a branch-local history of having chosen—with the psychological continuity, counterfactual control and reasons-responsiveness deliberation involves—so the choice is not lucky in the sense the luck objection normally targets: the agent's reasons stand in ordinary explanatory relations to the outcome along this branch. What branching cannot grant is the counterfactual exclusion authorship requires, since every rejected option is actualised by a counterpart elsewhere. Branching therefore converts the luck objection from a question about *randomness* into a question about *exclusion*—what makes this outcome the agent's own rather than a counterpart's becomes a bare indexical fact. That the unchosen be *globally* nonactual is a [[tenets/background-commitments|posit the Map adopts]] rather than a conclusion the response to luck delivers, and the disagreement sits at the framework boundary. Given the posit, the positive picture stands: collapse is real, consciousness participates in it, and genuine choice results.
 
 **Occam's Razor Has Limits**: The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses whether the selection framework is too complicated. Simplicity is unreliable when genuinely ignorant about consciousness, quantum mechanics, and their interaction. The phenomenology and neural signatures suggest a real phenomenon resisting deflationary treatment.
 
