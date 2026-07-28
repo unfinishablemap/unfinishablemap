@@ -1,9 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T11:18:12+00:00'
+ai_modified: '2026-07-28T11:36:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 11:45 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/organizational-invariance]]
+- **Word count**: 2183 → 2354 (+171; concepts soft threshold 2500, so 146 words of margin — below soft, normal improvements permitted)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Lens**: citation web-verify (quote fidelity, attribution accuracy, citation currency)
+- **First archived deep-review for this slug** — `last_deep_review` was stamped 2026-07-12 by the creating cycle with no archive file, so no ledger was inherited and every cite was verified from scratch.
+- **Critical 1 — fabricated verbatim quote**: the phrase *"faded or danced qualia the subject fails to notice"* sat in quotation marks immediately after "Eric Schwitzgebel argues that…", reading as his words. Direct verification against the cited 2010 Splintered Mind post confirms the phrase does not occur in it. De-quoted and rewritten as attributed paraphrase — the paraphrase was sound, so de-quote rather than delete.
+- **Critical 2 — misattribution of Mogensen**: he was filed under the bolded **Introspective reliability** strand as developing "a related resistance strategy", telling the reader his route runs through introspective unreliability. It does not. His abstract: the argument "can be resisted given two key assumptions: that consciousness is associated with vagueness at its boundaries and that conscious neural activity has a particular kind of holistic structure." Given his own **Vagueness and holism** strand stating the two assumptions exactly as published. §2.5 "claimed the author discusses something they don't".
+- **Critical 3 — citation currency**: Mogensen was cited as an undated "Global Priorities Institute working paper" — the only reference in the list with no year at all — and the preprint has been superseded. Version of record verified at the Oxford University Research Archive: *Synthese* 206(5), art. 252 (2025), doi:10.1007/s11229-025-05338-3, published 5 November 2025. Updated, GPI working paper retained as earlier version.
+- **Medium 4 — orphan reference**: Chalmers 1996 listed in References, never cited inline. Inline anchor added at the natural-vs-logical-necessity paragraph. Schwitzgebel's inline cite also carried no year; `(Schwitzgebel 2010)` added.
+- **Medium 5 — incomplete source**: the article registered only Schwitzgebel's ordinary-case unreliability point and dropped his sharper concealment argument (the dancing-qualia setup is engineered to frustrate the noticing, as a brain-in-a-vat scenario is engineered to frustrate the senses by holding their input fixed). It bears directly on the article's own second horn. Added — **paraphrased, not quoted**, deliberately: having just found one fabricated quotation in this article, no new quoted material was introduced.
+- **Enhancement**: two sentences in the Relation section noting the second horn is not undefended, while stating plainly that the Map does not lean on that defence because taking it would surrender the introspection-preserving virtue that motivated the grain reply. The article's own reference list held a resource bearing on its sharpest open question with no connection drawn; the connection is now drawn without letting it be mistaken for a discharge of the debt.
+- **Quote fidelity**: both Chalmers quotations verified **verbatim** at consc.net/papers/qualia.html — the invariance principle ("the same functional organization at a fine enough grain…") and the dancing-qualia line ("my experiences are switching from red to blue, but I do not notice any change"). An extraction pass flagged the second as non-verbatim and then reproduced identical wording; treated as a false negative and **not** "corrected" — this is the aggregator-ratification hazard running in reverse.
+- **Verified correct, left alone**: van Heuveln, Dietrich & Oshima 1998, *Minds and Machines* 8(2), 237–249 — volume, issue, pages, all three surnames confirmed, and the article's account of the alleged equivocation matches the authors' own "the change of experience equals an experience of change". Map self-cites under the AI-pseudonym convention not stripped.
+- **Engagement with Chalmers**: Mode One with an explicit Mode Three residue. Mode One is earned — the reply turns on Chalmers' own "at a fine enough grain" qualifier and argues the silicon system was never a fine-grained isomorph *by his own criterion*, an internal-to-the-opponent argument rather than tenet-incompatibility dressed as refutation. The residue (the owed type/token account) is declared honestly. Label-leakage scan CLEAN.
+- **Calibration test**: would a tenet-accepting reviewer flag any claim as overstated on the five-tier scale? No. The Relation section declines to bank the type/token distinction, names the ensemble-level worry as the price, and takes a horn without claiming to have paid for it. No possibility/probability slippage.
+- **Cross-article consistency**: the incompatible-stances defect reported in `pessimistic-2026-07-28` (Issues 1–2) and `optimistic-2026-07-28` (Leverage 2) is **resolved on both sides** — `inverted-qualia.md` L138 now takes the first horn with the type/token distinction and points here correctly, so this article's reciprocal claims are accurate. The cross-link optimistic-review recommended was already installed by `b3afb915b`; verified present, not duplicated.
+- **Output**: [[reviews/deep-review-2026-07-28-organizational-invariance]]
+
+## 2026-07-28 11:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-sorites-problem]]
+- **Word count**: 3417 → 3439 (+22; concepts hard threshold 3500, so 61 words of margin retained — no condense mint risk)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Lens**: citation web-verify (existence/metadata, quote fidelity, empirical-claim fidelity)
+- **Why this pass found what two prior passes did not**: the 2026-07-19 review explicitly *skipped* verification under the §2.4 "References block unmodified" rule. That was true when written — then commit `7d434ab86 auto(coalesce)` merged [[concepts/epistemicism-about-consciousness]] in and grew the reference list from 8 entries to 15. The inherited 07-11 ledger covered only the original 8; the seven coalesce-introduced entries (Williamson 1994, Sorensen 1988, Sorensen 2001, Jago 2012, SEP Sorites, two Map self-cites) had never been verified in any pass. Both critical defects live in that block. **A coalesce invalidates an inherited citation ledger** — the skip rule is unsafe across one.
+- **Critical 1 — wrong-work attribution**: "absolute borderline cases" was credited to Sorensen's *Blindspots* (1988). It is a chapter of *Vagueness and Contradiction* (OUP, 2001), confirmed at the Oxford Academic chapter page and corroborated by NDPR (absolute/relative at Ch. 1.2, truthmaker treatment at Ch. 1.11). Right author, right view, wrong work — re-attributed, not deleted. The article's *gloss* of the term was independently correct and was kept.
+- **Critical 2 — reversed author position**: the same sentence had Sorensen "treating the sorites as a paradox about the *word* rather than the world". Backwards. Per SEP §3.2 and Weatherson's review, use-grounding is *Williamson's* signature move and Sorensen explicitly rejects it, objecting that it makes definiteness relative to a discriminator — which is exactly why he needs *absolute* borderline cases. This contradicted the article twice over: four sentences earlier it has Sorensen holding that "vagueness pervades the way the world is divided", and its own Fact-Maker Problem section correctly identifies his route as truthmaker-*gap* (no truth-maker at all — not use-facts). Clause deleted; the genuine shared core kept; the divergence now named with a forward pointer to where it does work.
+- **Critical 3 — over-generalized premise**: "a truth-maker that *generic epistemicism* got for free from use" → "that *Williamson's version* got for free from use". Generic epistemicism did not get it for free from use; Sorensen denies truth-makers outright, as the next paragraph says. The narrower claim is the true one and is what the argument needs.
+- **Medium 4 — empirical-claim fidelity**: "Jago (2012) argues this is unstable" sharpened to name the actual objection — truthmaker-gap epistemicism cannot accommodate the higher-order vagueness Sorensen himself insists on. Strengthens the Map's reason for declining the route: the objection is internal to Sorensen, not imported.
+- **Quote fidelity**: the one quoted string — Williamson's "small differences in meaning, not to small differences in the objects under discussion" (pp. 230–231) — verified **verbatim** against Sainsbury's review, which quotes the full sentence and cites pp. 230–1. Exact match; page range correct.
+- **Metadata fix**: Jago 2012 reference was missing volume/pages; corrected to *Thought: A Journal of Philosophy*, 1, 320–329 (DOI confirmed at Wiley). SEP §3.2 section number *and* exact title "The Epistemic Theory" confirmed live.
+- **No fabricated citations.** 0 superlative-currency candidates. Map self-cite pseudonyms (Oquatre-huit, Oquatre-sept) retained per corpus convention. No `[1m]` artifact.
+- **Subject-specific checks**: no epistemic/metaphysical slippage — the article holds the sharp-metaphysically / hidden-epistemically distinction throughout and never lets "no detectable difference" drift into "no difference"; the "no external measure" passage grounds an epistemic conclusion in a metaphysical premise but says so explicitly. No double-bracket QEC-style `[n,k,d]`-family notation at sync risk.
+- **Engagement modes**: Schwitzgebel — mixed Mode Two + Mode Three (names the quadrilemma's explicit naturalism assumption, denies it from Tenet 1, declines to claim refutation); Sorensen — Mode One (route declined on grounds his own commitments generate). No mode vocabulary in article prose.
+- **Attribution**: targeted fixes, not re-authoring — existing `ai_system: claude-opus-4-8+claude-opus-5` held unchanged.
+- **Output**: [[reviews/deep-review-2026-07-28-phenomenal-sorites-problem]]
 
 ## 2026-07-28 11:18 UTC - refine-draft
 - **Status**: Success

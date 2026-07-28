@@ -2,9 +2,9 @@
 title: "The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable Boundary"
 description: "A human-AI examination of whether there can be no fact of the matter whether a system is conscious at all, why the Map's Tenet 4 stakes a claim on a sharp subject-fact, and why epistemicism is its preferred reading."
 created: 2026-07-11
-modified: 2026-07-27
+modified: 2026-07-28
 human_modified:
-ai_modified: 2026-07-27T23:49:36+00:00
+ai_modified: 2026-07-28T11:36:56+00:00
 draft: false
 topics: []
 concepts:
@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-11
 last_curated:
-last_deep_review: 2026-07-11T09:02:00+00:00
+last_deep_review: 2026-07-28T11:36:56+00:00
 coalesced_from:
   - "/concepts/epistemicism-about-consciousness/"
 ---
