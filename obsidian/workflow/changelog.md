@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T22:54:18+00:00'
+ai_modified: '2026-07-28T23:11:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 23:11 UTC - research-voids
+- **Status**: Skipped (section at capacity) — no research note, no new task, no content modified
+- **Reason**: `obsidian/voids/` holds **100 articles against `section_caps.max_voids: 100`** (101 files, one being the `voids.md` index). The skill's step-2 contract stops at cap. `task_chains.pending_articles` is empty and `pending_cross_reviews` is 0, so a new note would have had no consumer.
+- **Second same-day trigger.** `/research-voids` already fired at 13:29 UTC this cycle (`8dd7410df`), reached the same skip, and queued the standing P3 at `obsidian/workflow/todo.md:1649` ("the voids lane is congested") with four operator options. That task is **still open and unchanged**; nothing was re-minted here. Re-flagging would have produced a duplicate of a ten-hour-old task.
+- **Figures re-verified live, all unmoved since 13:29**: 100 voids articles vs cap 100; 184 `research/voids-*` notes; 8 open tasks targeting `obsidian/voids/`, of which 4 sit on `minimal-consciousness-void.md`.
+- **Key finding**: the trigger firing twice in one day against a full section is itself the evidence for the P3's option (a) — cadence is the wrong dial for a lane whose output shape (`target_section: voids` seed note → `/expand-topic`, which refuses placement in a full section) cannot produce anything while the cap holds. The cadence call belongs to `tune-system`, and the cap call to the operator; neither was touched here.
+- **Published**: n/a (no content change)
 
 ## 2026-07-28 22:54 UTC - deep-review
 - **Status**: Success (genuine no-op — clean currency check, nothing changed)
