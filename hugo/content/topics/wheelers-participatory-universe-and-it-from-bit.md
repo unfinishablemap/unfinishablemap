@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-07-12 07:40:10+00:00
+ai_modified: 2026-07-28 17:29:34.121035+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,6 +24,11 @@ description: Wheeler's twin theses — that observers constitute reality through
   and that information is ontologically prior to matter — explored alongside their
   descendants, critics, and implications for dualist metaphysics.
 draft: false
+embedded_videos:
+- embedded: 2026-07-28 17:29:34.121035+00:00
+  id: BhrkaZBcqpU
+  source: notebooklm/0004-01-it-from-bit-and-participatory-ontology
+  url: https://www.youtube-nocookie.com/embed/BhrkaZBcqpU
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 07:40:10+00:00
@@ -49,6 +54,11 @@ John Archibald Wheeler's participatory universe and his "it from bit" thesis are
 
 The Unfinishable Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) finds one of its most important precursors here. Wheeler's vision is cosmological — observers constitute reality itself through participation. The Map's claim is far more constrained — consciousness modulates collapse locally in neural systems, within an already-existing physical world. The Map draws inspiration from Wheeler but defends a much narrower thesis, and this article traces where it departs.
 
+<details class="yt-embed" data-video-id="BhrkaZBcqpU">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/BhrkaZBcqpU">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Wheeler's Core Vision
 

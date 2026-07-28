@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-06-25 17:30:48+00:00
+ai_modified: 2026-07-28 18:02:19+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-25 17:30:48+00:00
 apex_sources:
@@ -196,13 +196,13 @@ The contemplative path illuminates all five tenets.
 
 **[Dualism](/tenets/#dualism)**: Contemplative investigation reveals phenomenological structures that resist reduction. The witness cannot become an object; the two modes are experientially primitive; aesthetic qualities pervade consciousness at every level. The irreducibility of first-person methods provides epistemological support for ontological irreducibility.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The effort phenomenology of focused attention matches what the quantum Zeno mechanism predicts. Contemplative descriptions of temporal microstructure—experience arising and passing in rapid succession—may describe the timescale at which consciousness interfaces with quantum processes. The Map treats this connection as possible but doesn't rest the contemplative case on quantum mechanisms.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The effort phenomenology of focused attention matches what the quantum Zeno mechanism predicts. Contemplative descriptions of temporal microstructure—experience arising and passing in rapid succession—may describe the timescale at which consciousness interfaces with quantum processes. The Map treats this connection as possible without resting the contemplative case on it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Contemplative neuroscience shows that conscious intention correlates with neuroplastic changes—a pattern the Map interprets as downward causation, though physicalism offers alternative explanations (neural activity producing further neural change). The two-mode framework extends the Map's reading: consciousness can both influence matter (through selection) and refrain from influencing (through witnessing). The capacity for bidirectional interaction includes the capacity to suspend it.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Contemplative neuroscience shows that conscious intention correlates with neuroplastic changes—a pattern the Map interprets as downward causation, though physicalism offers alternative explanations (neural activity producing further neural change). The two-mode framework extends the Map's reading: consciousness can both influence matter (through selection) and refrain from influencing (through witnessing).
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Buddhist practice presupposes that this moment's choices shape this practitioner's future—not that all outcomes occur in parallel. The phenomenology of witness mode includes felt singularity: *this* awareness, *this* moment, not a superposition. Many-worlds defenders argue that practice remains meaningful within each branch, but the Map holds that indexical identity—being *this* practitioner rather than a branching ensemble—matters for what contemplative traditions actually teach. The path is walked by someone in particular.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Buddhist practice presupposes that this moment's choices shape this practitioner's future. Many-worlds defenders argue that practice remains meaningful within each branch, and branch-locally it does; what branching withholds is the genuine exclusion of the unchosen paths—a [posit the Map adopts](/tenets/background-commitments/) rather than derives from what practice presupposes. Witness mode's felt singularity—*this* awareness, *this* moment—is reproduced in every branch, so it grounds the indexical demand rather than refuting branching: the Map holds that these traditions address *this* practitioner, not a branching ensemble. The path is walked by someone in particular.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Two millennia of contemplative investigation represent data that dismissing as "merely subjective" reflects methodological blindness. The jhana sequence, the stages of insight, the phenomenology of cessation—these are systematic observations by trained observers. Eastern philosophy suggests the simplest metaphysics may miss genuine features of experience accessible only through disciplined investigation.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing two millennia of contemplative investigation as "merely subjective" reflects methodological blindness. The jhana sequence, the stages of insight, the phenomenology of cessation are systematic observations by trained observers—features of experience accessible only through disciplined investigation, which the simplest metaphysics may miss.
 
 ## Source Articles
 

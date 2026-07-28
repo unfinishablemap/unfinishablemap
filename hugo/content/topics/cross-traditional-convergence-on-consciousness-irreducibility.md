@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-18 23:23:15+00:00
+ai_modified: 2026-07-28 19:50:52+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -67,7 +67,7 @@ These three lineages share almost no assumptions—they disagree about substance
 
 ## What Makes Irreducibility an Attractor?
 
-An attractor in dynamical systems is a state toward which a system tends to evolve from any starting point *within its basin*—and the basin qualifier matters, because the Chinese counter-example below marks where the basin ends. Irreducibility functions analogously: for traditions that begin from a mind-matter-distinguishing framework—a metaphysics of substance, process, or relation, pursued through meditation, debate, or formal logic—sustained investigation of consciousness tends toward the recognition that something about experience escapes physical or functional characterisation. Frameworks that never draw the mind-matter distinction (Chinese organicism the clearest case) lie outside the basin and do not flow to the attractor at all.
+An attractor in dynamical systems is a state toward which a system tends to evolve from any starting point *within its basin*—and the basin qualifier matters, because the Chinese counter-example below marks where the basin ends. Irreducibility functions analogously: for traditions that begin from a mind-matter-distinguishing framework—a metaphysics of substance, process, or relation, pursued through meditation, debate, or formal logic—sustained investigation of consciousness tends toward the recognition that something about experience escapes physical or functional characterisation. Frameworks whose central categories offer no place to lodge a mind-matter distinction (Chinese organicism the clearest case) lie outside the basin and do not flow to the attractor at all.
 
 Three structural features of consciousness explain why.
 
@@ -91,11 +91,11 @@ This gap recurs because structural and qualitative description operate at differ
 
 ## The Chinese Counter-Example
 
-The convergence is not universal, and intellectual honesty requires confronting the strongest exception. Chinese philosophical traditions—Confucianism, Daoism, Neo-Confucianism—largely do not generate the hard problem because they never separated mind from the natural order. Their base categories (*qi*, *li*, *Dao*) do not map onto "mental" versus "physical." The explanatory gap never opens.
+The convergence is not universal, and intellectual honesty requires confronting the strongest exception. Chinese philosophical traditions—Confucianism, Daoism, Neo-Confucianism—largely do not generate the hard problem, because their base categories offer it no place to lodge. Those categories—*qi*, *li*, *Dao*—do not map onto "mental" versus "physical," so the explanatory gap has nowhere to open. The tradition did argue directly about body and spirit in the fourth to sixth centuries, but over whether spirit *persists* rather than what it is made of; [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) treats that episode at length.
 
 Two interpretations of this exception compete:
 
-**The framework-dependence interpretation** holds that the hard problem is an artefact of subject-object ontologies. Traditions that begin from a mind-matter distinction naturally find that the gap cannot be closed—but the gap was created by the distinction itself. Chinese organicism avoids the problem by never creating it.
+**The framework-dependence interpretation** holds that the hard problem is an artefact of subject-object ontologies. Traditions that begin from a mind-matter distinction naturally find that the gap cannot be closed—but the gap was created by the distinction itself. Chinese organicism avoids the problem by not creating it.
 
 **The depth-of-inquiry interpretation** holds that Chinese traditions dissolve the problem prematurely. Wang Yangming's claim that "mind is principle" (*xin ji li*) treats the relationship as unproblematic, but this is assertion, not analysis. When pressed on *why* there is something it is like to undergo a process, the Chinese framework offers integration rather than explanation—which may be a way of not answering the question rather than dissolving it.
 
@@ -168,7 +168,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that
 ## Further Reading
 
 - [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/) — a premise-diverse fourth Indian data point: substance-pluralist dualism converging on irreducibility, held under the same common-cause caveat
-- [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — the basin edge expounded on its own terms: the deep tradition that shares the introspective architecture but never generates the irreducibility finding
+- [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) — the basin edge expounded on its own terms: the deep tradition that shares the introspective architecture but does not reach the irreducibility finding, even where it argued hardest about body and spirit
 - [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) — a second organicist basin edge (teotl process-monism), the first Indigenous-Americas dissociation for this argument
 - [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/) — a second basin edge: the Kyoto School's non-dual absolute nothingness reads one datum the way the Map reads it as dualism, held under the same common-cause caveat
 - [kabbalah-tzimtzum-consciousness-matter](/topics/kabbalah-tzimtzum-consciousness-matter/) — the first Jewish-mystical basin edge: Lurianic emanationist monism, which inverts the cluster's usual outpouring into creation-by-withdrawal while still carving mind and matter as one attenuating substance rather than two

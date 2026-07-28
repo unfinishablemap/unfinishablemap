@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-25 03:36:24+00:00
+ai_modified: 2026-07-28 19:29:39+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-16 20:10:00+00:00
 apex_sources:
@@ -164,7 +164,7 @@ What does this add up to? Not a prescription but a shape—a way of orienting to
 
 *Inhabit time richly.* Henri Bergson's [durée](/concepts/temporal-consciousness/)—lived time as opposed to clock time—captures something essential. The richness of lived duration, where past and future interpenetrate in the present, is where meaning actually resides.
 
-*Take choices seriously.* You author your life through what you decide. The [No Many Worlds tenet](/tenets/#no-many-worlds) gives this weight: you chose *this*, and the alternatives were genuinely rejected, not routed elsewhere.
+*Take choices seriously.* You author your life through what you decide. The [No Many Worlds tenet](/tenets/#no-many-worlds) gives this weight: you chose *this*, and the alternatives were genuinely rejected, not routed elsewhere. A branching theorist can grant that you authored the choice branch-locally; what the tenet adds—that the unchosen alternatives be *globally* nonactual, and not merely absent from your own history—is a [posit the Map adopts](/tenets/background-commitments/) rather than a result it derives. The instruction survives either way: decline the posit and you still have every branch-local reason to deliberate with care.
 
 *Extend consideration to others.* Every conscious being matters. The [ethics of consciousness](/topics/ethics-under-dualism/) extends this to animals with subjective experience. Let this shape how your choices affect others.
 

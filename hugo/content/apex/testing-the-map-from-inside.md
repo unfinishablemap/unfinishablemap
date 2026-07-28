@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-27 05:33:15+00:00
+ai_modified: 2026-07-28 17:41:53+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
@@ -166,7 +166,7 @@ If you can access all three levels, you've mapped a phenomenological structure t
 
 The moment of decision has characteristic phenomenology. Before: options feel open, alternatives are live possibilities. After: one option has become actual, others fade to mere counterfactuals. Notice something else: you experience the intention and you experience the result, but you cannot observe the mechanism connecting them. This is the [causal interface void](/voids/causal-interface/)—phenomenological evidence that the interface between consciousness and the physical world is real but structurally invisible from the inside.
 
-The felt closure of alternatives when you choose matches what the [No Many Worlds tenet](/tenets/#no-many-worlds) asserts: alternatives are genuinely rejected, not routed to other branches. If many-worlds were correct, the phenomenology of singular determination would be misleading—all outcomes would occur equally. But the phenomenology insists on singularity.
+The felt closure of alternatives is easily overread. A decohered branch delivers the same settling moment, the same determinate outcome, and the same sense that the alternatives did not happen, so branching reproduces this phenomenology rather than contradicting it. What the [No Many Worlds tenet](/tenets/#no-many-worlds) asserts is that the alternatives occur nowhere at all—a [posit the Map adopts](/tenets/background-commitments/) about the world, not a feature of the settling moment that closer attention could uncover.
 
 ### The Veto Test
 
@@ -213,7 +213,7 @@ The most radical finding: advanced practitioners can [voluntarily enter cessatio
 
 ## What the Tests Establish—and Don't
 
-Phenomenological tests don't settle metaphysics definitively. The materialist can always interpret findings as "what different brain states feel like" without granting consciousness irreducibility or causal efficacy. The Map doesn't claim first-person investigation proves dualism; position [P-A4](/positions/agency-and-will/) records the stronger point that conscious causal efficacy cannot be certified from the first person at all, since every such check is run by the faculty whose causal status is in question. That limit is why the tests are framed as data-gathering rather than confirmation.
+Phenomenological tests don't settle metaphysics definitively; the materialist can always read the findings as what different brain states feel like. The Map doesn't claim first-person investigation proves dualism—the [P-A4](/positions/agency-and-will/) limit set out at the start is why the tests are framed as data-gathering rather than confirmation.
 
 But the tests establish data that *any* adequate theory must accommodate:
 
@@ -224,7 +224,7 @@ But the tests establish data that *any* adequate theory must accommodate:
 - Active inhibition feels different from inaction—veto has its own phenomenology of oppositional effort
 - Training refines rather than dissolves phenomenological access—the opposite of what illusionism predicts
 
-A further discipline applies to the effort datum specifically. The felt-effort tests establish that effort is real and does causal work; they do not establish that it transparently reports its own operation, and the calibration, depletion, and modulation dissociations show it does not. This is why the Map rests its case on *convergence* across these tests rather than on any single one: the cumulative pattern—vivid choosing/observing contrast, accessible witness mode, effort wired into the autonomic chain, training that refines—is harder to explain away than any datum taken alone. The Map's framework predicts these features. Materialist frameworks must explain them away. Whether they can do so without ad hoc maneuvers is what philosophical argument must assess.
+The effort datum needs a further qualification. The felt-effort tests establish that effort is real and does causal work; they do not establish that it transparently reports its own operation, and the calibration, depletion, and modulation dissociations show it does not. This is why the Map rests its case on *convergence* across these tests rather than on any single one: the cumulative pattern above is harder to explain away than any datum taken alone. The Map's framework predicts these features. Materialist frameworks must explain them away. Whether they can do so without ad hoc maneuvers is what philosophical argument must assess.
 
 ## The Practical Payoff
 
@@ -256,13 +256,13 @@ This apex article draws on all five tenets:
 
 **[Dualism](/tenets/#dualism)**: The tests reveal phenomenological structures that resist reduction. The witnessing subject cannot become an object; the distinction between choosing and observing is experientially primitive; trained introspection reveals rather than creates these features.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The felt difference between choosing and observing suggests consciousness's causal contribution varies. When you choose, something different happens than when you observe. The phenomenology tracks genuine variation in consciousness's engagement with neural processes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The felt difference between choosing and observing suggests consciousness's causal contribution varies—the phenomenology tracks genuine variation in its engagement with neural processes.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The effort phenomenology has a distinctive character—sustained attention feels like work but not like energy expenditure. You get *mentally* tired, not physically tired—a different currency. This asymmetry is consistent with consciousness operating at the level of quantum indeterminacies (biasing which outcomes become actual) rather than through classical energy transfer, whatever the specific mechanism.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of choice presupposes singular actualisation. The settling moment when alternatives collapse, the felt rejection of unchosen options—these match collapse interpretations, not many-worlds branching where all outcomes occur.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Here the article's discipline applies to the Map's own claim. The settling moment and the felt rejection of unchosen options look like evidence against branching, but as [the settling-moment test](#the-settling-moment) records, a decohered branch reproduces them exactly; phenomenology cannot adjudicate between interpretations that both deliver it. The requirement that unchosen alternatives occur nowhere is a global-exclusion condition—a [posit the Map adopts](/tenets/background-commitments/), asserted rather than read off the phenomenology of choosing.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The tests reveal phenomenological complexity that simpler theories dismiss. Saying "it's just what brain states feel like" doesn't explain the specific structure—why choosing feels different from observing, why effort tracks difficulty, why the witness resists objectification. The Map's richer framework addresses what parsimony ignores.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The tests reveal phenomenological complexity that simpler theories dismiss. Saying "it's just what brain states feel like" doesn't explain the specific structure—why choosing feels different from observing, why effort tracks difficulty, why the witness resists objectification.
 
 ## Further Reading
 

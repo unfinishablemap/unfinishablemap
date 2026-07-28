@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-21 05:10:01+00:00
+ai_modified: 2026-07-28 17:29:34.121035+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,6 +23,11 @@ description: Gödel's incompleteness and the quantum measurement problem share a
   mathematical structure—Lawvere's fixed-point theorem—revealing principled limits
   on physical self-description that keep consciousness in play.
 draft: false
+embedded_videos:
+- embedded: 2026-07-28 17:29:34.121035+00:00
+  id: rqEIFYeAT_k
+  source: notebooklm/0027-01-godel-measurement-problem-analogy
+  url: https://www.youtube-nocookie.com/embed/rqEIFYeAT_k
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 10:28:27+00:00
@@ -44,6 +49,12 @@ topics:
 ---
 
 Gödel's incompleteness theorems and the quantum measurement problem are often treated as unrelated — one a result in mathematical logic, the other a puzzle in physics. The Unfinishable Map argues that for the *formal* limits at issue their connection is deeper than metaphor. Category-theoretic work by Szangolies (2018), building on Lawvere's fixed-point theorem, identifies a single mathematical mechanism — self-referential obstruction in Cartesian closed categories — generating both Gödelian incompleteness and quantum epistemic limitations. Rigorous results by Cubitt et al. (2015) and Landsman (2020) demonstrate genuine undecidability *within* physics itself. These convergent findings appear to undermine the assumption that physical theory can provide complete causal explanations — and may keep the [measurement problem](/concepts/measurement-problem/) open for consciousness-based resolution.
+
+<details class="yt-embed" data-video-id="rqEIFYeAT_k">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/rqEIFYeAT_k">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Levels of Connection
 

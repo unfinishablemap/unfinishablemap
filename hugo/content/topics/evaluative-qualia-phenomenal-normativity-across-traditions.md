@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-07-28 12:35:29+00:00
+ai_modified: 2026-07-28 17:55:10+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -108,7 +108,7 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [te
 
 **Bidirectional Interaction**: On the Map's reading, evaluative qualia are not epiphenomenal. Felt badness appears to motivate avoidance; felt beauty seems to arrest attention; felt wrongness appears to generate moral action. If these evaluative properties are intrinsic to consciousness rather than projected by cognition, then consciousness carries normative weight that may do real causal work through the Map's proposed [quantum interface](/concepts/quantum-consciousness/).
 
-**No Many Worlds**: The moral stakes that evaluative qualia generate—real suffering, real goodness—require a single-branch reality where outcomes matter. If all quantum branches are equally real, the felt badness that five traditions identify as irreducible carries no ultimate significance. The Map's rejection of many-worlds preserves the moral reality that evaluative qualia disclose.
+**No Many Worlds**: The moral weight that evaluative qualia carry depends on indexical identity rather than on the exclusion of alternatives. That *this* suffering is bad—the felt badness five traditions identify as basic to experience—presupposes a determinate perspective for which it is bad. Under [many-worlds](/tenets/#no-many-worlds), every choice that might relieve suffering branches into outcomes where it is both relieved and endured. An Everettian need not deny that suffering matters; what branching strains is the indexical demand that *this* sufferer's pain be *this* sufferer's. The Map's rejection of many-worlds preserves that indexical grounding.
 
 **Minimal Quantum Interaction**: If consciousness selects among quantum-level possibilities, the convergence on evaluative qualia suggests this selection may be normatively guided rather than arbitrary. The felt goodness or wrongness that five traditions identify as basic to experience could provide the phenomenal basis for consciousness's biasing of quantum outcomes—minimal in physical terms but normatively loaded. The [valence-and-conscious-selection fork](/topics/valence-and-conscious-selection/) examines whether this normative guidance operates directly through valence or indirectly through attention; neither reading is forced by the present evidence.
 

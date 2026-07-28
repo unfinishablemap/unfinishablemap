@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-20 07:59:10+00:00
+ai_modified: 2026-07-28 19:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
+- '[[altered-states-of-consciousness]]'
 - '[[binding-problem]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[interactionist-dualism]]'
@@ -23,7 +24,7 @@ description: 'Filter theory''s division of faculties: qualia belong to mind, aut
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 07:59:10+00:00
+last_deep_review: 2026-07-28 19:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,9 +37,11 @@ topics:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[dream-consciousness]]'
 - '[[split-brain-consciousness]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[hemispherectomy-and-the-resilience-of-unified-consciousness]]'
 ---
 
-The mind-brain relationship can be clarified by examining which faculties appear intrinsic to consciousness itself versus those implemented by neural processes. This analysis suggests a division: [qualia](/concepts/qualia/)—the qualitative character of experience—belong to mind; automatic functions like respiration belong to brain; and many faculties emerge from the interaction between them. The case rests not merely on explanatory gaps but on positive arguments: the [knowledge argument](/concepts/knowledge-argument/) shows that complete physical knowledge leaves out phenomenal facts, and the conceivability of [philosophical zombies](/concepts/philosophical-zombies/) suggests this gap is metaphysical rather than merely epistemic. The [binding problem](/concepts/binding-problem/) illustrates the point—proposed neural mechanisms describe correlates of unity without explaining why integrated processing should feel unified. Brain lesions typically disconnect consciousness from specific functions rather than destroying those functions, supporting the [filter/transmission theory](/concepts/filter-theory/).
+The mind-brain relationship can be clarified by examining which faculties appear intrinsic to consciousness itself versus those implemented by neural processes. This analysis suggests a division: [qualia](/concepts/qualia/)—the qualitative character of experience—belong to mind; automatic functions like respiration belong to brain; and many faculties emerge from the interaction between them. The case rests not merely on explanatory gaps but on positive arguments: the [knowledge argument](/concepts/knowledge-argument/) holds that complete physical knowledge leaves out phenomenal facts, and the conceivability of [philosophical zombies](/concepts/philosophical-zombies/) suggests this gap is metaphysical rather than merely epistemic. The [binding problem](/concepts/binding-problem/) illustrates the point—proposed neural mechanisms describe correlates of unity without explaining why integrated processing should feel unified. Brain lesions typically disconnect consciousness from specific functions rather than destroying those functions—a pattern the [filter/transmission theory](/concepts/filter-theory/) renders natural, though a reorganisation account predicts it equally well.
 
 ## The Division of Faculties
 
@@ -80,7 +83,11 @@ This blindsight reveals that visual processing and visual consciousness dissocia
 
 William James, Henri Bergson, and Aldous Huxley each proposed that the brain's relationship to consciousness is transmissive rather than productive—the brain filters and constrains consciousness rather than generating it. See [filter-theory](/concepts/filter-theory/) for detailed treatment of this model.
 
-The framework accounts for why brain damage produces specific deficits (damaged filter components), why consciousness persists despite massive neural loss, why qualia resist physical explanation (they are not outputs of the filter), and why [dreams](/topics/dream-consciousness/) can construct perceptual worlds without external input. [Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of cognitive clarity in patients with severe neurodegeneration—provides the most dramatic evidence: a brain whose cortical substrate has been substantially destroyed briefly produces coherent cognition, precisely as filter theory predicts when the filtering apparatus collapses near death. A productivist can accommodate most of these observations too—the filter theory's advantage lies in its coherence with the positive arguments for irreducibility (the knowledge argument, zombie conceivability) that motivate looking beyond production models.
+The framework accounts for why brain damage produces specific deficits (damaged filter components), why qualia resist physical explanation (they are not outputs of the filter), and why [dreams](/topics/dream-consciousness/) can construct perceptual worlds without external input. Consciousness also persists through massive neural loss, as [hemispherectomy](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/) shows—though that case carries less weight than the simple subtraction argument implies, since most hemispherectomies are paediatric and reorganisation in the surviving hemisphere explains the preserved unity without appeal to a non-physical mind.
+
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of cognitive clarity in patients with severe neurodegeneration—raises the steepest explanatory cost on production models of any single anomaly, but its evidential force is constraint rather than confirmation: it rules out the simplest production model, on which neural substrate and cognitive capacity vary monotonically, without *establishing* the filter alternative. The first prospective study found only 4.1% of recorded events met a terminal-lucidity definition, most of them brief and trigger-linked, so the early prospective evidence points away from, not toward, the filter interpretation.
+
+The disruptive states carry a symmetric burden these explanatory successes obscure. Anaesthesia and dreamless sleep are cases the filter reading must *accommodate*—the interface narrows, or its bandwidth falls toward zero, while the consciousness it filters is untouched (see [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) and [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/))—rather than cite as further confirmations, and the same move is available to production theorists for the cases that appear to favour the filter. Because both framings make structurally identical accommodations, the altered-state cluster carries the evidential weight of one pattern rather than four independent confirmations. The filter theory's advantage lies not in the count of cases it absorbs but in its coherence with the positive arguments for irreducibility (the knowledge argument, zombie conceivability) that motivate looking beyond production models.
 
 Dreams offer suggestive evidence: consciousness uses the brain's rendering capacities during REM sleep, constrained by some neural properties but not by physical law. Lucid dreaming is consistent with bidirectional interaction—the dreamer decides to fly and flying occurs within the experienced world—though the case for mental causation rests on the laboratory two-way communication studies treated in [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) rather than on the felt phenomenology alone. The [rendering dilemma](/topics/lucid-dreaming-and-dualist-rendering/) sharpens this point: either the brain renders dream imagery autonomously (raising questions about why it fails to compensate during waking sensory degradation) or consciousness possesses its own rendering capacity that operates through neural architecture. See [dream-consciousness](/topics/dream-consciousness/) for detailed analysis.
 
@@ -88,15 +95,15 @@ Dreams offer suggestive evidence: consciousness uses the brain's rendering capac
 
 [Illusionists](/concepts/illusionism/) like Keith Frankish argue that the entire framework rests on a mistake. There are no qualia requiring explanation—only "quasi-phenomenal properties" that the brain represents itself as having. On this view, the filter theory solves a non-problem.
 
-The illusionist position faces a fundamental difficulty: the "seeming" of phenomenal properties must itself be explained. If we *seem* to have qualia, something is doing the seeming. For these representations to seem phenomenal—to feel like something—there must be a subject for whom they feel. If *seeming* is itself phenomenal, illusionism presupposes what it denies; if *seeming* is not phenomenal, it's unclear what "seeming" means.
+The bare regress—if we *seem* to have qualia, something must be doing the seeming—does not settle the matter, and the Map does not run it as though it did. The regress assumes that "seeming" is itself phenomenal, precisely what illusionists deny, and Frankish is right that a representational system need not instantiate what it represents: a map represents terrain without being mountainous. The substantive disagreement lies with the meta-representational account offered in the regress's place—that a self-monitoring system generates the impression of a unified qualitative field without any of the representing being phenomenal. That bridge is unbuilt where the represented and the representing coincide. "I am phenomenally conscious" targets the representing state itself, and that state *is* the candidate for being experiential, unlike combustion, indifferent to being called "phlogiston." The account names the mechanism it owes and does not yet supply it, on the standard of mechanistic specification that illusionism presses against its rivals.
 
-The point sharpens with [philosophical-zombies](/concepts/philosophical-zombies/): illusionists hold that zombies are impossible because "phenomenal consciousness" names nothing real. But they must then explain whether a zombie would have the same "quasi-phenomenal seemings" we do—which makes quasi-phenomenal properties causally efficacious and raises the question of what they are. The conceivability of all neural processing occurring without qualitative character is evidence for the division of faculties this article describes.
+[Philosophical zombies](/concepts/philosophical-zombies/) press the difficulty from an unexpected direction. Illusionists hold that zombies are impossible because "phenomenal consciousness" names nothing real, and Frankish accepts that a zombie would have quasi-phenomenal properties and functional seeming identical to ours. That concession is consistent, but it leaves the illusionist's own reasoning about consciousness causally identical to the zombie's, so the framework has no resource for distinguishing genuine philosophical insight from its empty mechanical echo. The Map reads the intelligibility of neural processing without qualitative character as evidence for the division of faculties this article describes; the residual disagreement is whether functional roles exhaust what needs explaining, which [illusionism](/concepts/illusionism/) develops in full.
 
 ## The Brain as Rendering Engine
 
 The brain functions like a rendering engine for consciousness. It provides computational substrate—feature detection, temporal constraints, spatial constraints, integration mechanisms—while consciousness provides the qualitative feel of experience, phenomenal unity, and the subject for whom processing matters. The analogy has a limitation: it requires a separate viewer, risking an explanatory regress. Filter theory claims only that the brain's relationship to consciousness is transmissive rather than productive; it does not claim to have solved the problem of what consciousness is.
 
-This explains why destroying brain regions destroys specific capacities (damaged rendering components) while consciousness adapts and persists.
+This fits the pattern in which destroying brain regions destroys specific capacities (damaged rendering components) while consciousness adapts and persists—a pattern a reorganisation account explains equally well, so it illustrates the model rather than favouring it.
 
 ## Process Philosophy Perspective
 
@@ -119,7 +126,7 @@ The Unfinishable Map's [tenets](/tenets/) include [dualism](/tenets/#dualism)—
 The mind-brain separation framework would face serious difficulty if:
 
 1. **Neural binding mechanisms fully explained phenomenal unity**—not merely correlating with it but explaining *why* binding produces unified experience rather than integrated information processing.
-2. **Illusionism explained the "seeming" of qualia without regress**—providing a complete account of how quasi-phenomenal properties arise without presupposing something that experiences the seeming.
+2. **Illusionism built the meta-representational bridge**—supplying the mechanism by which a self-monitoring system generates the impression of unified qualitative presence, and explaining why that mechanism yields a misrepresentation rather than the presence it represents.
 3. **Dream content proved fully predictable from brain states**—showing the rendering engine determines complete experiential output rather than just constraints.
 4. **Enhanced experiences during brain compromise were consistently shown to be confabulations**—undermining the filter theory's prediction that disrupting brain function can sometimes enhance experience.
 5. **Engram research definitively showed memories stored in specific neural locations** with no distinction between retrieval and storage—refuting Bergson's framework.
@@ -129,7 +136,7 @@ The mind-brain separation framework would face serious difficulty if:
 - [filter-theory](/concepts/filter-theory/) — Detailed treatment of the transmission model
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential dimension of selection at the mind-brain interface
 - [motor-selection](/concepts/motor-selection/) — How consciousness may select among motor patterns
-- [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and the regress response
+- [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and the meta-representational reply
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as evidence for the filter model
 - [binding-problem](/concepts/binding-problem/) — Why neural mechanisms fail to explain phenomenal unity
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Why phenomenal unity resists neural explanation
