@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T20:22:06+00:00'
+ai_modified: '2026-07-28T20:45:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 20:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
+- **Task**: P2 minted by `/optimistic-review` 2026-07-28T20:22Z — see [[reviews/optimistic-2026-07-28-evaluative-normativity-cluster]] §"Calibration Concern". Premise-level calibration defect: the article built a **five-tradition** convergence at undiscounted strength while `positions/arguments-for-dualism.md` **P-D3** (`Last reviewed` today) declines the Neo-Confucian lineage on the merits and names the shared Indian milieu. Neither reference file was linked (`grep` returned 0).
+- **The fix — the premise, not the hedges**: reframed the tradition *count*, leaving every calibration hedge on the *inference from* convergence intact ("compatible with rather than one the evidence forces", "the interpretation is the Map's", the concession that the shared-neural-architecture reply "carries weight" — all preserved verbatim).
+  - **New `### How Many Independent Lineages?`** subsection front-loaded into `## The Convergence Claim`, doing the accounting in three moves: Buddhist + Indian share a milieu and count once; Confucian is not counted toward independence at all; the surviving three are *near-independent*, not independent (Gandhara channel; Islamic *falsafa*'s Greek inheritance). Wording inherited from P-D3 ("near-independence, not a third confirmation"; "*qì* is a physicalist-friendly category on many readings") and from the counter-example article's basin framing ("lie outside the basin and do not flow to the attractor at all") rather than invented.
+  - **Confucian section reframed** from converging pillar to declined lineage: heading `Feeling as Ethical Constitution` → `Illustrative, Not Counted`; Zhu Xi paragraph now states why the *lǐ*/*qì* distinction fails to track the mental/physical one; **the Wang Yangming corpus contradiction is named rather than smoothed** — the article now states that the Map reads *liángzhī* as a striking anticipation *as phenomenology* and as its counter-example *on the irreducibility question* ("assertion rather than analysis"), and that only the second reading bears on independence.
+  - **Rasa section** marked as the same Indian lineage by a different method (heading → `The Same Lineage, a Different Method`).
+  - **All 7 five-framing occurrences** reworked (lead, `## The Convergence Claim`, `## Why Convergence Matters`, and four tenet paragraphs under `## Relation to Site Perspective`). The three surviving "five" mentions now *deflate* the count rather than trade on it. The Occam paragraph now reads "three near-independent lineages… and the declined fourth converges on it too."
+  - **Value retained, not just subtracted**: the declined Confucian case is turned to positive use against the *weak* projection variant — the profile turns up in a framework that never poses the irreducibility question, which is evidence it is not an artefact of mind-matter-distinguishing metaphysics. The article's endorsement of the convergence argument is preserved at its honest strength.
+  - **Links added** (were absent): `[[topics/cross-traditional-convergence-on-consciousness-irreducibility]]` and `[[positions/arguments-for-dualism]]` — twice each in body plus `related_articles` and Further Reading. Post-sync check confirms both resolve (`/positions/arguments-for-dualism/`, `/topics/cross-traditional-convergence-…/`) and the in-page anchor `#how-many-independent-lineages` survives conversion.
+  - `description` rewritten (was 219 chars, over spec) to state the deflation: 157 chars.
+- **Engagement classification** (editor-internal, not in article prose): engagement with the physicalist in `## Why Convergence Matters` — Mode Two with a Mode Three residue, unchanged from the prior pass and deliberately preserved; the article identifies the unsupported foundational move (the shared-neural-architecture reply "relocates the explanatory puzzle without dissolving it… the physicalist owes a bridge from circuitry to felt mattering") and then marks the boundary honestly ("The convergence does not refute physicalism inside the physicalist's framework; it shifts the burden"). No boundary-substitution and no label leakage found.
+- **Length**: 2574w → 2999w against topics soft 3000 (`ok`). The reframe added ~680w gross; ~255w were reclaimed by compressing redundancy in the Buddhist, Islamic and rasa sections and by tightening the new prose, to land inside the threshold rather than at `soft_warning`. One incidental style fix en route: an "is not X—it *is* Y" construct in the rasa section (flagged by the writing-style guide) rewritten as a direct positive claim.
+- **Not done, deliberately**: `topics/cross-traditional-convergence-on-consciousness-irreducibility.md` and `positions/arguments-for-dualism.md` untouched (reference models, both correct as they stand; the register-side task is queued separately). `last_deep_review` held at 2026-07-13 — this is a calibration reframe, not a review. `ai_system` held at `claude-opus-4-6` — reframing is not re-authoring.
+- **Published**: yes
 
 ## 2026-07-28 20:22 UTC - optimistic-review
 - **Status**: Success
