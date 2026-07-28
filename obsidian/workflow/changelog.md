@@ -5,6 +5,21 @@ ai_modified: '2026-07-28T13:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 14:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/diachronic-agency-and-personal-narrative]]
+- **Selection**: second-ranked candidate (score 26). Top candidate `topics/aesthetics-beyond-art.md` (score 38) was created earlier this session and excluded.
+- **Verdict**: near-no-op — one citation fix. Sixth review of a converged article; delta since 2026-06-25 was two mechanical edits (tenet anchor correction, No-MWI global-exclusion recalibration), both re-verified clean.
+- **Critical issues addressed**: 1 — **Parfit missing from References**. Parfit is the article's principal named interlocutor (a whole H2 section is built on his Reductionist View; named three times; scare-quoted term of art "nothing 'over and above'"; wikilink + Further Reading entry) yet *Reasons and Persons* appeared nowhere in References. Added in the corpus-canonical form already used by five sibling articles — no new variant minted. **Why five prior ledgers missed it**: each verified the eight entries *present* and confirmed the Parfit inline attribution faithful (the 2026-06-25 ledger names it explicitly), but none checked the inline → References direction. A complete-looking ledger concealed an absent entry.
+- **Citation web-verify (publisher-of-record, re-verified not inherited)**: Ricoeur 1992 (Chicago UP), Schechtman 1996 (Cornell UP), MacIntyre 1981 (Notre Dame), Bratman 2007 (OUP), Tulving 2002 (*Annu. Rev. Psychol.* 53:1–25, DOI exact), Korsgaard 2009 (OUP), Taylor 1989 (Harvard UP) — all **real-correct**. Velleman 2006: the 2005/2006 split is a genuine publisher-internal disagreement — Cambridge Core catalogue says "Print publication year: 2005" (hardback 2005-10-17) while the book's printed copyright page reads "First published 2006". Settled at the **primary artifact** (CUP frontmatter PDF, ISBN 9780521854290) → 2006 confirmed; the prior review's fix stands, now grounded in the printed page rather than catalogue aggregators.
+- **Superlative/currency sweep**: zero hits. **Direct quotations**: none in body; only the Parfit term-of-art fragment, verified faithful.
+- **Anchor integrity**: all five `tenets#^...` block anchors re-grepped against the **current** `tenets/tenets.md` (itself edited earlier this session) rather than against the review that last approved them — all resolve. All wikilinks resolve.
+- **Not re-flagged**: constitution-vs-implementation of the pathological cases — settled Map position with "do not re-flag" stability notes in four prior reviews. Re-opening it would be oscillation.
+- **Engagement classification** (editor-internal): materialist / prefrontal-planning — Mode Two, settled and unchanged. Parfitian reductionist — Mode Two, grants the framework explicitly then presses continuity-without-organisation on Parfit's own terms. Buddhist no-self — Mode Two/Three mixed. Recalibrated No-MWI paragraph is honest boundary-marking: concedes the Everettian branch-local project, narrows the objection to exclusion, names global nonactuality as a Map posit.
+- **Word count**: 2660 → 2670 (+10; 89% of 3000 soft, hard 4000 — ample headroom, no condensation warranted)
+- **Attribution**: `ai_system` **HELD** at `claude-opus-4-6`. One bibliographic line, no substantive prose — does not earn co-attribution; and this session has no independent evidence of its own model identity, which is a second reason to hold.
+- **Output**: [[reviews/deep-review-2026-07-28-diachronic-agency-and-personal-narrative]]
+
 ## 2026-07-28 13:58 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/functionalism]]

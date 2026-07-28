@@ -4,8 +4,8 @@ description: "Agency extended across time requires narrative structure—not as 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-07-27T22:31:30+00:00
-last_deep_review: 2026-06-25T16:09:21+00:00
+ai_modified: 2026-07-28T14:06:19+00:00
+last_deep_review: 2026-07-28T14:06:19+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -150,3 +150,4 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 1. Korsgaard, C. (2009). *Self-Constitution: Agency, Identity, and Integrity*. Oxford University Press.
 1. Taylor, C. (1989). *Sources of the Self*. Harvard University Press.
 1. Velleman, J. D. (2006). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
