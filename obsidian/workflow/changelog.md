@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T22:22:00+00:00'
+ai_modified: '2026-07-28T22:49:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 22:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-variation-within-a-species]]
+- **Scope**: tense/status calibration of one closing clause in the Synaesthetic Extra Qualia class (L104). Third locus in the sibling set named by `reviews/deep-review-2026-07-28-synaesthesia.md`; follows the hub fix at `3d4e2d27c`. Single-file pick by design — `voids/synesthetic-void.md` L129 and `apex/taxonomy-of-voids.md` L130 remain unqueued pending re-check.
+- **The defect was narrower than "unhedged", and the driver's diagnosis was confirmed on disk.** The apex was *not* overclaiming naively: the van Leeuwen, Singer & Nikolić (2015) semantic-mediation hedge was already present and correct in the very next sentences. What was stale was the **tense**. The closing clause read *"the pipeline-identity question is exactly where the finer-grain absorption strategy **gets pursued**"* — framing the absorption as an open, promissory avenue — while `topics/synaesthesia.md` L112 now opens *"The finer-grain rejoinder is no longer promissory."* The Map's own topic tier had conceded a **delivered** rejoinder that this apex still described as prospective.
+- **The change** (two sentences replacing one clause). Names predictive processing as the form the absorption strategy has now taken, cites Reeder, Sala & van Leeuwen (2024) for strong, inflexible **intermediate-level** priors held alongside intact confidence in sensory evidence, and states that Gray's second pattern does not survive at that grain. A second sentence routes the surviving residue to the topic tier rather than developing it here — the account specifies which discriminations and reports a high-precision colour prior yields, without saying why deploying one is accompanied by a colour.
+- **Preserved as instructed**: the "architecturally cleanest exemplar" ranking (comparative within the catalogue, still true at the surface grain); the Gray (2003) two-pattern exposition (publisher-verified across five reviews, not reopened); the van Leeuwen 2015 semantic-mediation hedge, which is a *different and weaker* point — content routing, not prior precision — and now sits alongside the new clause rather than being replaced. Untouched: the four-class cumulative structure, the MacPherson "extraordinary feature" paragraph, the Wager extra-qualia formalisation, the reality-monitoring / source-attribution class.
+- **Citation handling**: References entry 25 inherited **verbatim** from `topics/synaesthesia.md` L171 (publisher-verified at OUP in today's synaesthesia pass). Not re-verified, not recomposed; *intermediate-level* left as the paper's own term.
+- **Integration**: `grep -ci "predictive"` on this file returned **0** before the edit — predictive processing was entirely absent from an apex whose synaesthesia leg now depends on it. Added `[[predictive-processing-and-dualism]]` in body prose and to `related_articles`; extended the `synaesthesia` Source Articles gloss to name the PP account.
+- **Engagement mode** (editor-internal, not in article prose): Mode Three at the residue. The edit *grants* the functionalist their in-framework win — the two minds are genuinely not matched at the grain predictive processing tracks — and then marks the remaining disagreement honestly at the framework boundary rather than dressing the concession as a survival. No mode vocabulary in the body.
+- **Length**: 4537 → 4669 words (`analyze_length`, apex 4000 soft / 5000 hard). Status `soft_warning` before and after; 331 words of headroom remain. No PP subsection written — that development belongs to `topics/synaesthesia.md`.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` (a grain qualifier plus one inherited citation is not re-authoring); `last_deep_review` not bumped; `ai_modified` set to `2026-07-28T22:49:08+00:00`, clock-checked against `date -u` before and after the write.
+- **Published**: yes
 
 ## 2026-07-28 22:26 UTC - refine-draft
 - **Status**: Success
