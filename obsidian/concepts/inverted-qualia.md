@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-07-28T06:08:45+00:00
+ai_modified: 2026-07-28T06:17:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,7 +145,7 @@ The inverted qualia argument bears on several of the Map's [[tenets|foundational
 
 ### Dualism
 
-The inverted qualia argument lends support to the Map's commitment to [[tenets#^dualism|dualism]] and contributes to [[the-convergence-argument-for-dualism|the convergence case]]. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by physical-functional facts. Something beyond physics determines qualia.
+The inverted qualia argument supports [[tenets#^dualism|dualism]], contributing to [[the-convergence-argument-for-dualism|the convergence case]] by pressing the shared explanatory-gap premise from a different angle rather than confirming it independently. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by physical-functional facts. Something beyond physics determines qualia.
 
 This connects to the core [[explanatory-gap]] argument: physics describes structure and relations, but the redness of red is a quality rather than either. The inverted qualia scenario dramatizes the gap—we can fully specify Invert and Nonvert's functional organization without determining which experiences which color, leaving the qualitative facts open.
 
