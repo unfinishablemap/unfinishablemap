@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T17:07:07+00:00'
+ai_modified: '2026-07-28T17:22:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 17:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/synaesthesia]]
+- **Task**: secondary locus of the `visual-consciousness.md` predictive-processing gap (run 11904, `aba81459`), deferred there for separate minting.
+- **Premise re-verified before editing**: the driver grep returned exactly 1 hit, and it was a false positive — L159, the Bor, Rothen, Schwartzman, Clayton & Seth (2014) reference entry, with Seth as an empirical co-author rather than any predictive-processing framework engagement. Zero framework engagement confirmed independently. Post-edit the same grep returns 8.
+- **Changes**: new `## The Predictive-Processing Account` section placed at the close of the function-phenomenology wedge, where the dialectical cost lands; one Further Reading entry; `[[predictive-processing-and-dualism]]` added to `related_articles`; three references added (renumbering the two Map self-cites 20–21 → 23–24).
+- **Route taken**: (b), the concession-and-narrow route, per the task's default. Route (a) was tested against four candidate discriminators and rejected on the merits — simultaneous occupancy is covered by Seth's counterfactual-poverty account, decades-long consistency by stable priors, pairing idiosyncrasy by contingent developmental learning, and resistance to counter-suggestion is built into the Reeder model as prior inflexibility. No discriminator was manufactured to avoid the concession. Predictive processing turns out to reach *further* into synaesthesia than into visual consciousness — including the article's own "philosophically loaded signature" — and the passage books that honestly rather than softening it.
+- **What the concession costs, stated in-article**: Wager's extra-qualia premise needs the two minds matched at the grain that matters, and differing prior precision means they are not; Gray's second dissociation fails at that grain. The joint-package cluster argument is explicitly noted as surviving in form — it never assumed functionalism had no reply — so the passage narrows the synaesthesia leg without reading as a retraction of the article's thesis.
+- **Register inherited, not re-derived**: `concepts/visual-consciousness.md` L45–46 supplied the settled wording for the boundary move ("No current measurement discriminates the two, which leaves the disagreement at the framework boundary rather than settled against the computational account"). `topics/predictive-processing-and-dualism.md` is cross-linked for the Friston/Seth co-optation firewall and the metaphysical-neutrality argument rather than restated.
+- **Co-optation firewall applied**: Seth is on the predictive-processing roster; the passage states in prose that Seth and van Leeuwen build these models within physicalism and would reject the interface reading. Cited as rivals, not enlisted as allies.
+- **Engagement classification** (editor-internal): predictive processing — Mode Three, framework-boundary marking, preceded by an explicit concession of computational reach. No in-framework refutation is claimed, because none was available. No boundary substitution; no label leakage in prose (checked by grep against the forbidden-vocabulary set).
+- **Citations web-verified at publisher before use** (all three new, none pre-existing in the corpus): Seth, A.K. (2014), *Cognitive Neuroscience* 5(2):97–118, doi:10.1080/17588928.2013.877880; van Leeuwen, Sauer, Jurjut, Wibral, Uhlhaas, Singer & Melloni (2021), *Schizophrenia Bulletin* 47(3):722–730, doi:10.1093/schbul/sbaa162; Reeder, Sala & van Leeuwen (2024), *Neuroscience of Consciousness* 2024(1):niae006, doi:10.1093/nc/niae006. Author lists, volumes, pages and DOIs confirmed against the publisher record. Convenient continuity: van Leeuwen and Singer already appear in the article via the 2015 semantic-mediation citation.
+- **Outer-review hygiene**: the Gemini 2.5 Pro 2026-07-28 review raised this gap correctly but fabricated a quote elsewhere in the same section; no string was copied from that review. Only the gap claim was carried forward, and it was re-verified from the live file first.
+- **Length**: 2632 → 3082 by `analyze_length`, which reports `soft_warning`. **This is the known reference-apparatus false positive — do NOT mint a condense task.** Decomposed: references 482w, Further Reading 244w, YouTube embed boilerplate 40w; **argument prose is 2317w against the 3000 topics soft threshold**, having grown 1977 → 2317. The article is not long; it is citation-dense.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` per the task remit — inheriting a settled register is calibration, not re-authoring. `last_deep_review` deliberately left at 2026-07-08 (this is a refine, not a review). `ai_modified` set to real UTC, `date -u`-verified, not future-dated.
+- **Validation**: `scripts/validate.py` passes; all wikilinks resolve; no editor-vocabulary leakage, no `[1m]` artifact, no EOF tool-tag artifact, no `AI REFINEMENT LOG` block.
+- **Published**: yes
 
 ## 2026-07-28 17:07 UTC - deep-review
 - **Status**: Success
