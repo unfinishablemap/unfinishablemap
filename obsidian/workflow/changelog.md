@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T00:01:22+00:00
+ai_modified: 2026-07-28T00:46:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T00:46:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/moral-architecture-of-consciousness]]
+- **Target**: single locus — L188, the `No Many Worlds` entry in the five-tenet "Relation to Site Perspective" block. Target (4) of the consolidated MWI-overclaim task; the other eight loci are re-scoped one per pick and were not touched.
+- **Changes**: replaced the flatly false assertion "If every choice actualises in some branch, suffering is never prevented, only redistributed" with the concede-then-locate structure modelled on [[apex/living-with-the-map]] L194. Conceded the two live Everettian resources by name (branch-relative significance; measure-weighting) and located the disagreement on indexical grounds — measure-weighting answers how much value a branch carries but not why *this* branch's outcome is *mine* rather than a counterpart's. Preserved the original conclusion verbatim (graded responsibility requires singular outcomes; desert attaches to *this* agent's *this* choice in *this* world) and added a pointer to the practical synthesis rather than restating its full argument. This locus takes the indexical calibration, not the global-nonactuality exclusion posit used for targets 1–3, which are about authorship rather than moral weight.
+- **Engagement classification**: engagement with the Everettian: Mode Three (framework-boundary marking) — the Map's rejection of measure-weighted and branch-relative replies rests on an indexical commitment the branching theorist need not share, so the entry now marks where the disagreement sits instead of asserting that suffering goes unprevented under branching, which is false against measure-weighted replies.
+- **Length**: 4443 → 4499 words (+56); hard threshold 5000, soft 4000. Kept to a single paragraph; now the longest entry in the block but within family of its siblings.
+- **Verification**: L188 confirmed reading as quoted before editing. `tenets/background-commitments.md` not touched.
+- **Published**: yes
 
 ## 2026-07-28T00:01:22+00:00 - refine-draft
 - **Status**: Success

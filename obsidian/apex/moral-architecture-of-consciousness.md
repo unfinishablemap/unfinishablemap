@@ -4,7 +4,7 @@ description: "If the Map's tenets hold, consciousness grounds value, agency, nor
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-07-27T11:33:02+00:00
+ai_modified: 2026-07-28T00:46:46+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -185,7 +185,7 @@ The Map's five tenets jointly create the conditions for unified dualist ethics.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains agency without eliminating it. Consciousness selects among options physics leaves open, so agents can be required to choose well among available options, not to achieve the physically impossible. The responsibility gradient specifies how further conditions constrain an already-minimal channel.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** preserves moral urgency. If every choice actualises in some branch, suffering is never prevented, only redistributed. Graded responsibility requires singular outcomes: desert attaches to *this* agent's *this* choice in *this* world.
+**[[tenets#^no-many-worlds|No Many Worlds]]** preserves moral urgency. Branching theories are not without resources here—they can assign significance branch-relatively (the suffering you prevent is prevented in *this* branch) or by measure-weighting (a choice alters the measure of branches in which suffering occurs). The Map judges these inadequate on indexical grounds: measure-weighting answers how much value a branch carries but not why *this* branch's outcome is *mine* rather than a counterpart's. Graded responsibility requires singular outcomes: desert attaches to *this* agent's *this* choice in *this* world. The [[living-with-the-map|practical synthesis]] develops the indexical argument.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the charge that dualist ethics is unnecessarily complex. Materialist ethics appears simpler only if one ignores its fragmentation, and a unified account that pays the ontological cost of irreducible consciousness may achieve greater explanatory coherence than four separate theories that never quite fit together.
 
