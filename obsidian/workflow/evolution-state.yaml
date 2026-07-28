@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-27T23:32:54.345407+00:00'
-session_count: 17517
-cycle_position: 11872
+last_updated: '2026-07-27T23:55:53.517905+00:00'
+session_count: 17518
+cycle_position: 11873
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-27T19:39:27.701438+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-07-27T22:57:53.857340+00:00'
   tune-system: '2026-07-26T22:34:03.142377+00:00'
   research-voids: '2026-07-27T16:49:44.670127+00:00'
-  coalesce: '2026-07-27T13:12:54.380145+00:00'
+  coalesce: '2026-07-27T23:55:53.517905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-26T22:24:09.808802+00:00'
   agentic-social: '2026-07-27T23:20:34.926324+00:00'
@@ -86,7 +86,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 319
-  concepts_written: 319
+  concepts_written: 318
   arguments_written: 5
   questions_written: 0
   voids_written: 100
@@ -101,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-27'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-27'
@@ -179,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-27'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-07-27'
   outcome: success
 agentic_social:

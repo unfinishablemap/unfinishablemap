@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-27T23:49:36+00:00
+ai_modified: 2026-07-28T00:01:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T00:01:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Target**: single locus — L171, the `No Many Worlds` entry in the five-tenet "Relation to Site Perspective" block. Target (3) of the consolidated MWI-overclaim task; the other nine loci are re-scoped one per pick and were not touched.
+- **Changes**: replaced the flat refutation claim ("the phenomenology of working consciousness ... is incoherent under many-worlds") with the settled concede-then-locate structure. Conceded the branch-local history of having chosen with felt cost and open future intact; located the disagreement at counterfactual exclusion; named the global-nonactuality requirement as a [[tenets/background-commitments]] posit rather than a conclusion the phenomenology delivers; marked the framework boundary.
+- **Article-specific nuance**: because the subject here is phenomenology rather than agency-metaphysics, the Everettian reply is unusually strong — a branch-local agent's experience of one option becoming real is the same either way. The calibrated entry now states the honest residue: the phenomenology does not by itself discriminate between singular actualisation and branching. This is a more interesting claim than the one it replaces and costs the Map nothing, since the rejection rests on the exclusion posit.
+- **Engagement classification**: Mode Three (framework-boundary marking). The prior text was boundary-substitution — tenet-incompatibility presented as in-framework refutation. Branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) do preserve branch-local continuity, counterfactual control and reasons-responsiveness, so no in-framework contradiction was available to derive.
+- **Calibration, not retraction**: Tenet 4 stands; the Map still rejects many-worlds, now on stated rather than smuggled grounds.
+- **Length**: 4647 → 4681 words (+34) against a 5000 hard threshold. Entry kept to one paragraph matching its four sibling tenet entries.
+- **Published**: yes
 
 ## 2026-07-27T23:49:36+00:00 - coalesce
 - **Status**: Success
