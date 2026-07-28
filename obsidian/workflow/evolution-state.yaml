@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-28T20:29:43.595473+00:00'
-session_count: 17631
-cycle_position: 11940
+last_updated: '2026-07-28T20:47:55.536457+00:00'
+session_count: 17632
+cycle_position: 11941
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-28T18:48:02.143288+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-28T16:47:06.019314+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-28T19:55:53.207924+00:00'
+  agentic-social: '2026-07-28T20:49:15.815442+00:00'
   embed-videos: '2026-07-28T17:48:29.641821+00:00'
   commission-chatgpt-review: '2026-07-28T02:05:59.580983+00:00'
   commission-claude-review: '2026-07-28T03:36:39.836712+00:00'
   commission-gemini-review: '2026-07-28T04:06:13.834731+00:00'
-  refine-draft: '2026-07-28T19:52:41.190738+00:00'
+  refine-draft: '2026-07-28T20:47:55.536457+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-28T20:12:02.210494+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-28'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-28'
@@ -193,15 +185,12 @@ recent_tasks:
   type: check-model-fallback
   date: '2026-07-28'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-28'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/content-vocabulary-as-derived-feature/
-    date: '2026-07-21T20:45:38.043387+00:00'
-    topics:
-    - predictive-processing
-    - intentionality
-    - hard-problem-of-content
-    - content
   - url: https://unfinishablemap.org/concepts/atemporal-causation/
     date: '2026-07-21T22:15:32.855497+00:00'
     topics:
@@ -1082,6 +1071,8 @@ agentic_social:
     - consciousness-and-cognitive-distinctiveness
   - url: https://unfinishablemap.org/concepts/locality/
     date: '2026-07-28T19:55:00.749317+00:00'
+  - url: https://unfinishablemap.org/concepts/content-vocabulary-as-derived-feature/
+    date: '2026-07-28T20:49:15.815388+00:00'
 tune_system_history:
   last_run: '2026-07-15T21:49:56+00:00'
   changes_applied:
@@ -1269,7 +1260,8 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
-    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
-    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
-    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
+  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
+    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
+    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
+    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
+    \ most-recent."
