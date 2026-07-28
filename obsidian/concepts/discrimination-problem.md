@@ -4,8 +4,8 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-07-27T20:06:00+00:00
-last_deep_review: 2026-06-19T00:00:00+00:00
+ai_modified: 2026-07-28T07:06:13+00:00
+last_deep_review: 2026-07-28T07:06:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ The discrimination problem is the claim that *neither channel has been shown to 
 
 The most disquieting form of the problem is internal. When I attend to my current visual experience and judge "there is redness here," what licenses the judgement? The standard picture is that introspection is a quasi-perceptual faculty that detects features of experience. But introspection produces a *judgement*—a functional state poised for verbal report and reasoning. The judgement is downstream of whatever the original experience is. A purely functional system that produced the same judgement under the same conditions would be indistinguishable from the inside.
 
-Eric Schwitzgebel's *Perplexities of Consciousness* (2011) argues, conservatively, that introspection of currently ongoing conscious experience is "untrustworthy" in surprisingly many domains—visual imagery, emotion, dreams, peripheral vision. He stops short of claiming introspection is wholly unreliable, but the cumulative evidence undermines the picture of introspection as a transparent window. Even where introspective reports are stable, Schwitzgebel notes that stability is consistent with stable error.
+Eric Schwitzgebel's *Perplexities of Consciousness* (2011) argues that introspection of currently ongoing conscious experience is "faulty, untrustworthy, and misleading"—"frequently and massively mistaken, about a great variety of issues" rather than occasionally off—across domains including visual imagery, emotion, dreams, and peripheral vision. His case is a cumulative induction against the picture of introspection as a transparent window rather than a single decisive argument. Even where introspective reports are stable, Schwitzgebel notes that stability is consistent with stable error.
 
 The illusionist (see [[illusionism]]) pushes harder: introspection systematically *misrepresents* its objects, attributing intrinsic phenomenal properties to states that have only functional-relational properties. If that is right, the discrimination problem has a stark answer—introspection cannot discriminate genuine phenomenality from its absence, because there is no genuine phenomenality for it to detect. The illusionist treats this as deflationary good news. The realist treats it as a reductio: a theory that makes my present experience indistinguishable from no experience at all has lost contact with the data.
 
@@ -97,7 +97,7 @@ The shared structure transfers *discipline*, not evidence. The instances above s
 Several real cases tighten the screws:
 
 - **Blindsight and inattentional blindness.** Patients report not seeing, yet discriminate location, motion, and orientation well above chance (Weiskrantz 1986). The discrimination problem asks whether they have residual phenomenology that does not reach report, or genuinely none. (See [[blindsight]] and [[access-consciousness]].)
-- **Disorders of consciousness.** Vegetative-state patients sometimes show fMRI activity consistent with imagined tennis-playing (Owen et al. 2006). Whether this is evidence of phenomenal experience or unconscious processing turns on a discriminator no current method supplies.
+- **Disorders of consciousness.** A patient meeting vegetative-state criteria produced fMRI activity indistinguishable from healthy volunteers' when asked to imagine playing tennis (Owen et al. 2006); a later cohort study found comparable wilful modulation in five of 54 patients with disorders of consciousness (Monti et al. 2010). Whether this is evidence of phenomenal experience or unconscious processing turns on a discriminator no current method supplies.
 - **Anaesthesia.** Reports of dreamless general anaesthesia are compatible with either no experience or experience without subsequent encoding into memory. The patient cannot retrospectively discriminate the two.
 - **Locked-in syndrome at the margin.** Some patients regain communication after years (see [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply|locked-in syndrome]]). The question of whether those years contained experience without report is, again, a discrimination problem.
 - **Large language models.** Reports of "feeling" are produced by token-prediction architectures whose relation to phenomenality is wholly undetermined by the reports themselves.
@@ -160,10 +160,11 @@ Given phenomenal realism, the discrimination problem identifies a structural [[v
 4. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 5. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 6. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81–108.
-7. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
-8. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://academic.oup.com/nc/article/2021/1/niab004/6166135
-9. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-10. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-11. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
-12. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+7. Monti, M. M., et al. (2010). Willful modulation of brain activity in disorders of consciousness. *New England Journal of Medicine*, 362, 579–589.
+8. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
+9. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://academic.oup.com/nc/article/2021/1/niab004/6166135
+10. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+11. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+12. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
+13. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
 
