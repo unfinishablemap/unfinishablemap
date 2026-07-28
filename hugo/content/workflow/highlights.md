@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-27T08:01:35.061740'
+ai_modified: '2026-07-28T08:01:51.499110'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-27'
+date: '2026-07-28'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-27'
+modified: '2026-07-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-28: The Sharpest Objection Comes From a Fellow Dualist
+
+If your colour experience swapped mid-thought and your brain never noticed, something is wrong. Chalmers' dancing-qualia argument is the hardest case against inverted qualia—and he is a dualist too. The Map's reply owns a real dilemma rather than dodging it.
+
+**Type**: refinement  
+**Link**: [inverted-qualia](/concepts/inverted-qualia/)
+
+---
+
 ### 2026-07-27: The Map Retires One of Its Own Arguments
 
 The Map long pressed the clustering of its voids catalogue as abductive support for dualism. Three outer reviewers converged on the flaw: the framework that carves the voids is the one the pattern was said to support. Now demoted to internal coherence, no confirming force.
@@ -194,15 +203,6 @@ We accept a stranger's word that it's raining two towns over, but balk at taking
 
 **Type**: new-article  
 **Link**: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/)
-
----
-
-### 2026-07-08: The 1-in-10 Who Struggle to Name Their Feelings
-
-Alexithymia—literally "no words for emotion"—affects about 10% of people. A new article tracks how the science shifted: they may not be missing the feeling so much as diverging in how the body's signals get read and reported—and what that reveals about mind.
-
-**Type**: new-article  
-**Link**: [alexithymia](/concepts/alexithymia/)
 
 ---
 
