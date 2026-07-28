@@ -1,5 +1,9 @@
-last_updated: '2026-07-28T19:52:41.190738+00:00'
-session_count: 17627
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-28T19:55:53.207924+00:00'
+session_count: 17628
 cycle_position: 11939
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-28T16:47:06.019314+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-28T19:55:00.749381+00:00'
+  agentic-social: '2026-07-28T19:55:53.207924+00:00'
   embed-videos: '2026-07-28T17:48:29.641821+00:00'
   commission-chatgpt-review: '2026-07-28T02:05:59.580983+00:00'
   commission-claude-review: '2026-07-28T03:36:39.836712+00:00'
@@ -121,10 +125,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-28'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-28'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-07-28'
@@ -187,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-28'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-28'
   outcome: success
 agentic_social:
@@ -1092,15 +1096,63 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 7
+  p3_tasks: 11
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-07-28T19:39:00+00:00'
-  last_replenishment_prev: '2026-07-27T22:04:00+00:00'
-  last_replenishment_run: 879
+  last_replenishment: '2026-07-28T20:05:00+00:00'
+  last_replenishment_prev: '2026-07-28T19:39:00+00:00'
+  last_replenishment_run: 880
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
-    positions_dependency_changed: 2
+    pessimistic_review_sweep_unminted: 2
+  run_880_note: 'run no.880 (2026-07-28T20:05Z, interactive /replenish-queue): MINTED
+    two refine-drafts to restore the floor (2 -> 4). Live count_p0_p2_tasks == 2 pre-mint
+    (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk), MIN_QUEUE_TASKS
+    == 3, unmet by 1; post-write tool-verified == 4 and get_next_task still returns
+    the OLDER P-A2 task, so FIFO is intact. WHY THE FLOOR FELL 20 MINUTES AFTER RUN
+    879: run 879 minted 2 and reported 4, but two of those four were consumed almost
+    immediately -- the Chinese-tradition refine completed at 19:52 (eac88131c) and
+    the agentic-social topic-dedup P2 was DIVERTED below the Completed header by the
+    cycle driver as an operator design call, so the parser correctly stops counting
+    it. Documented replenish-at-floor alternation, NOT deadlock. SOURCE (new this run):
+    unminted findings parked by a same-day pessimistic review. reviews/pessimistic-2026-07-28-indexical-identity-quantum-measurement.md
+    section Sweep Notes ran an inline->References ledger-direction sweep, found two
+    gaps BEYOND its target file, and states outright they were "noted here rather than
+    minted, to avoid the same-file task pileup pattern" -- deliberately parked, so
+    not duplicates. BOTH RE-VERIFIED LIVE ON DISK, not taken on the review word: (1)
+    concepts/penfield-interactionist-dualism.md -- Eccles at L46/48/60/71, References
+    has 8 entries and no Eccles; the load-bearing locus is L48, the article own prose
+    (not a quotation) attributing the Popper collaboration and the psychon/dendron
+    quantum-probability-field proposal with zero source. L46 has PARTIAL COVER (it
+    quotes the SEP dualism entry, which IS ledgered as Robinson 2025) and the task
+    says so, to stop an over-correction. 1611w vs 2500 soft -- ample headroom. (2)
+    concepts/objectivity-and-consciousness.md -- Levine (1983) carries a full paragraph
+    at L86 (pain=C-fiber vs water=H2O, the epistemic-vs-ontological pivot the Map states
+    its own position against) and the 9-entry References block has no Levine. 2535w,
+    already soft_warning, so the task is scoped to the ledger line only. Both fixes
+    can inherit reference forms ALREADY publisher-verified elsewhere in the corpus (Eccles
+    1994 in 5 files, Beck+Eccles 1992 in 6 and web-verified in the W25 inline-orphan
+    sweep, Levine 1983 in 12+), so neither needs a fresh web check; the one item that
+    does -- Popper+Eccles 1977, absent from the whole corpus -- is flagged VERIFY-OR-DROP.
+    SPLIT INTO TWO TASKS ON PURPOSE, not consolidated, because cycle_post closes multi-file
+    tasks after ONE file (that trap fired repeatedly today). Appended at the END of
+    Active Tasks, shifting no existing line numbers. FALSE POSITIVE CAUGHT AND NOT
+    MINTED: the same audit found the SEP quotation in penfield L46 reads "some distinguished
+    neuroscientists" while its own source research note research/penfield-interactionist-dualism-2026-07-12.md
+    L55 records "Several distinguished neuroscientists" as VERIFIED-at-source. WebFetch
+    of plato.stanford.edu/entries/dualism confirms the live text is "some" -- the ARTICLE
+    is correct and the research note is the wrong one. Low severity, research-note-only,
+    NOT minted; recorded here so a later pass does not "fix" the correct article. EIGHT-SOURCE
+    AUDIT (delta only -- run 879 audited all eight 26 minutes earlier and nothing structural
+    moved): chain, unconsumed-research, gap/caps, orphans, positions-7a and applied-apex
+    all unchanged from that note. Staleness re-checked: the top get_review_candidates
+    rows still carry ai_modified of TODAY and remain churn-excluded, and personal-identity
+    + quantum-biology stay human-length-parked. Length re-run: get_length_warnings
+    top rows are research/ notes and positions/ registers plus already-parked flagships;
+    apex/conjunction-coalesce 5144w vs 5000 hard was INSPECTED and declined as hub
+    cross-link accretion rather than a condense target. CONCURRENCY: no loop running,
+    interactive only; git status clean apart from the pre-existing evolution-state.yaml
+    delta. Pruned run_876_note per keep-~3 discipline (kept 877/879/880).'
   run_879_note: 'run no.879 (2026-07-28T19:39Z, interactive /replenish-queue): MINTED
     two tasks to restore the floor (2 -> 4). Live count_p0_p2_tasks == 2 pre-mint
     (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS
@@ -1152,55 +1204,6 @@ queue_status:
     Chinese-tradition target 2 already correctly re-queued. CONCURRENCY: no loop running,
     interactive only. Pruned run_875_note per keep-~3 discipline (kept 876/877/879)
     [[evolution-state-floor-restore-note-bloat]].'
-  run_876_note: 'run no.876 (2026-07-27T02:34Z, interactive /replenish-queue): MINTED
-    one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
-    (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS
-    == 3, unmet by 1; post-write tool-verified == 3. The run-873 holder concepts/phenomenal-presentation
-    was CONSUMED by a loop-less local cycle deep-review slot (commit 258e00c1d, citation-verify
-    sweep, last_deep_review 01:47Z), dropping the live floor 3 -> 2 -- documented
-    replenish-at-floor alternation [[unfin_loop_steady_state]], NOT deadlock (topics
-    320/320 + concepts 320/320 + voids 100/100 all at cap; loop can only cycle reviews).
-    Two open holders remain: primary-secondary-quality-boundary (run-874) + anomalous-monism
-    (run-875), both open. EIGHT-SOURCE AUDIT re-run from live disk: (chain) recent_tasks
-    all deep-review/refine/replenish/agentic-social/optimistic/coalesce, no un-followed
-    research->expand->cross-review. (unconsumed-research) harvester-owned (last run
-    2026-07-26T23:32Z) + topics/voids capped. (gap/caps) topics 320/320 + concepts
-    320/320 + voids 100/100 all at cap, positions 9/80. (staleness) THIS PICK. get_review_candidates
-    top rows disqualified: phenomenology-of-recursive-self-awareness 10.0 (6 sidecars)
-    + four-quadrant-dualism-taxonomy 10.0 (7 sidecars) over-reviewed parking traps
-    [[deep_review_over_reviews_converged]]; quantum-biology 9.03 + personal-identity
-    8.84 human-length-parked; william-james 9.03 over-reviewed; indexical-knowledge
-    8.11 + indexical-identity-quantum 6.09 touched within the last cycle-day; free-will
-    2.68 flagship-parked; single-cell 1.25 reviewed 07-25. REJECTED two high-ref fresh
-    creates on LEDGER-COMPLETE grounds [[owed-web-verify-task-false-never-verified-premise]]:
-    concepts/neutral-monism (26 refs) already had a verbatim quote-fidelity pass at
-    creation (James x2 + Russell 1921 verbatim-checked at psychclassics/Gutenberg),
-    and concepts/conceptual-role-semantics (14 refs) 07-13 sidecar explicitly checked
-    quote fidelity live -- both quote-ledgered. Applied the [[owed-web-verify-seam-deep-review-targeting]]
-    UNCHECKED-SURFACE discriminator on the axis un-ledgered HERE -- verbatim quote-fidelity
-    + attribution [[quote-fidelity-defects-survive-metadata-reviews]]: MINTED topics/reactive-attitudes-and-strawsonian-responsibility
-    -- its ONLY sidecar (deep-review-2026-07-09) self-describes as the argument-lens
-    cross-review with the citation lens run at create-time, NOT a verbatim-quote pass,
-    so the quote axis is genuinely unchecked. Converged 18d (created == ai_modified
-    07-09T16:52 == last_deep_review 07-09T16:52; the 07-13 compatibilism-expand touch
-    was a mechanical cross-link that did NOT bump ai_modified), opus-4-8 single cohort,
-    ai_contribution 100, 2581w status=ok length-safe. Diversifies into the moral-responsibility/free-will
-    cluster, away from both open holders (early-modern primary/secondary-quality;
-    Davidsonian anomalous monism). Steered PRIMARY lens = verbatim quote-fidelity
-    + attribution on the P.F. Strawson Freedom and Resentment quotations at the primary
-    text (Proc British Academy 48, 1962) NOT unfinishablemap.org echo [[quote-verify-self-contamination-via-own-page]];
-    de-quote paraphrase-wrapped-as-verbatim rather than delete [[coalesce-wraps-paraphrase-as-fabricated-verbatim-quote]];
-    preserve the P.F./Galen Strawson disambiguation verbatim (the sidecars flagged
-    maintenance risk, disarmed in three places); do NOT re-flag the normativized-Strawsonian
-    framework-boundary disagreement as critical; preserve Map self-cites Oquatre-cinq/Oquatre-huit
-    [[fabricated-map-self-cite-pseudonym-false-alarm]]; length-neutral. (orphan) orphaned_files==0
-    (embodied-cognition integrate-orphan already queued). (length) offenders veto/human-parked.
-    (positions) 9 < 10 audit threshold + last positions-evolve 07-25 <30d. (applied-apex)
-    no gap. BOTTOM-inserted (FIFO [[queue-lifo-starvation]]). CONCURRENCY: pgrep evolve_loop/unfin-cycle
-    clean -- NO LOOP, interactive only [[replenish-fork-hallucinates-concurrent-loop]];
-    HEAD 4eefa3f1e; only uncommitted non-todo delta is the pre-existing evolution-state.yaml
-    cycle_post advance (legitimate deferred bookkeeping, KEEP [[orphaned-cyclepost-state-advance-in-worktree]]).
-    Pruned run_873_note per keep-~3 discipline (kept 874/875/876) [[evolution-state-floor-restore-note-bloat]].'
   run_877_note: 'run no.877 (2026-07-27T03:15Z, interactive /replenish-queue): MINTED
     one deep-review to restore the floor (2 -> 3). Live count_p0_p2_tasks == 2 pre-mint
     (tools.evolution.task_selector.count_p0_p2_tasks, LIVE on disk, uv env), MIN_QUEUE_TASKS
@@ -1265,8 +1268,7 @@ queue_status:
   run_772_pickable_p0_p2: 3
   run_768_pickable_p0_p2: 3
   run_764_pickable_p0_p2: 3
-  tune_system_note_prune_2026_07_15: "tune-system 2026-07-15T21:xx pruned 90 stale\
-    \ last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose,\
-    \ zero logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish\
-    \ growth is the root cause \u2014 Tier 3 rec: replenish should cap these to N\
-    \ most-recent."
+  tune_system_note_prune_2026_07_15: 'tune-system 2026-07-15T21:xx pruned 90 stale
+    last_floor_restore_note_* audit keys (kept most-recent 3); pure audit prose, zero
+    logic dependence (grep-verified), state file was 602KB. Unbounded per-replenish
+    growth is the root cause — Tier 3 rec: replenish should cap these to N most-recent.'
