@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T12:07:02+00:00'
+ai_modified: '2026-07-28T13:02:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 13:02 UTC - refine-draft
+- **Status**: Success (CURRENCY FIX)
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Source**: literature-drift audit 2026-07-28. The task's Notes line in todo.md was truncated mid-sentence ("Three distinct findings, in priority order:" with no findings); worked from the task title and the driver's disk inspection.
+- **Word count**: 3375 → 3782 (+407); `soft_warning` both sides, 218 words of headroom below the 4000 hard threshold. Net figure includes ~60 words of redundancy trimmed to stay clear of hard.
+- **Headline — the magpie MSR claim asserted a contested result as settled fact.** L57 read: "Eurasian magpies (*Pica pica*) pass MSR using sticker-removal paradigms (Prior et al. 2008), the first non-mammalian species to do so." Verified at primary sources that a close replication failed: Soler, Colmenero, Pérez-Contreras & Peralta-Sánchez (2020), *Journal of Comparative Psychology* 134(4), 363-371, doi:10.1037/com0000223 — larger sample, very similar protocol, and during the mark test self-directed behaviour was *more* frequent in front of the cardboard control than the mirror. Their own conclusion is that more replication is needed before magpies can be said to pass consistently. Freeberg's accompanying commentary (*JCP* 134(4), 361-362) confirms the negative reading. Prior et al. 2008 **retained** — it is a real, correctly-cited paper and this was a currency/framing defect, not a fabrication.
+- **Superlative re-checked separately**: "the first non-mammalian species to do so" restated as "the first published report of a non-mammal passing the mark test" — accurate as a claim about the publication record, and no longer asserts the underlying result holds.
+- **Corroborating citation added**: Vanhooland, Szabó, Bugnyar & Massen (2023), *Animal Cognition* 26(1), 229-248 — no mark-directed behaviour indicative of MSR in ravens, carrion crows, or azure-winged magpies, with divergence across corvid studies traced partly to methodological heterogeneity rather than phylogeny.
+- **Argument preserved, not gutted**: the surrounding passage already hedged ("the interpretation is contested", Kohda 2019 on cleaner fish). Added an explicit statement that the amplification argument never rested on magpie MSR — co-occurrence across capacities carries the metarepresentation reading — so the weakened result sharpens the existing hedge instead of removing a support. Capacity table updated: corvid MSR row "Some species" → "Contested (unreplicated)".
+- **Three further 2020s citations, each attached to a claim the article already made** (no decorative additions): Boeckle et al. (2020), *Proc R Soc B* 287(1938), 20201490 — NC crows select the tool needed for a *specific* future task, supporting the prospection section; Connor, Krützen, Allen, Sherwin & King (2022), *PNAS* 119(36), e2121723119 — Shark Bay three-tiered male alliance network, where intergroup relationships rather than alliance size predict access to contested females, giving the previously uncited "dolphins display planning in cooperative hunting" claim a primary anchor; Taylor & Jelbert (2020), *BBS* 43, e178 — sharpens the NC-crow cumulative-culture contested step by noting these crows do not appear to imitate, so any ratchet must run through something like mental template matching.
+- **Verification discipline**: every new citation checked by title + venue at the publisher of record or PubMed (JCP, Animal Cognition, Proc R Soc B, PNAS, Cambridge Core), not by author+year metadata. No unfinishablemap.org hits used as confirmation. No verbatim quotes introduced — Soler et al.'s finding is paraphrased, not quoted. Nothing deleted on a verification negative.
+- **Redundancy trimmed for length discipline**: the epiphenomenalism reply was stated near-verbatim in both "The Convergent Evolution Argument" and the Bidirectional Interaction tenet section; the tenet-section instance now cross-references rather than restates. The convergent-computation forward-declaration likewise collapsed to its pointer, since the Neural Architecture Challenge states it in full two sections later.
+- **Attribution**: `ai_system` appended to `claude-opus-4-6+claude-opus-5`. Model derived from the session transcript (`3928044a-….jsonl`, model field `claude-opus-5` on live entries), not from self-report. `ai_contribution` held at 100.
+- **Published**: yes
 
 ## 2026-07-28 12:35 UTC - deep-review
 - **Status**: Success (FIX)
