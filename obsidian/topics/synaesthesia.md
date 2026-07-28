@@ -1,11 +1,11 @@
 ---
 title: "Synaesthesia"
-description: "Human+AI exploration of synaesthesia—extra phenomenal content under matched representational input—as single-species empirical evidence for irreducible phenomenology."
+description: "Human+AI exploration of synaesthesia—extra phenomenal content under matched representational input—and what it does and doesn't settle about functionalism."
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-07-28T17:22:09+00:00
-last_deep_review: 2026-07-08T19:35:00+00:00
+ai_modified: 2026-07-28T21:07:22+00:00
+last_deep_review: 2026-07-28T21:07:22+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -103,7 +103,7 @@ Adam Wager (1999) calls this the **extra qualia problem**: the synaesthete and t
 
 J.A. Gray (2003) presses the point further. He argues that in synaesthesia, "function and qualia come apart in two ways": *identical qualia arise from distinct functional roles* (colour experience is generated from both standard visual processing and auditory processing pipelines), and *identical functional roles produce divergent qualia* (the grapheme-recognition process generates colour experience in synaesthetes but not in non-synaesthetes). If qualia tracked function, neither dissociation should occur.
 
-Synaesthesia reads as the architecturally cleanest exemplar of the [[phenomenology-vs-function-axis|phenomenology-vs-function]] dissociation pattern in the Map's catalogue: the closest of the canonical cases to a strict instance of both Gray patterns at once, with the van-Leeuwen pipeline-identity caveat preserved. Aphantasia runs the same wedge in the opposite direction—same task-level function (e.g. mental rotation), divergent phenomenology (vivid imagery vs. nothing)—making the two cases a matched pair across the within-species divergence cluster.
+Synaesthesia reads as the architecturally cleanest exemplar of the [[phenomenology-vs-function-axis|phenomenology-vs-function]] dissociation pattern in the Map's catalogue: the closest of the canonical cases to a strict instance of both Gray patterns at once, with the van-Leeuwen pipeline-identity caveat preserved. That reading holds at the surface grain; the [[#the-predictive-processing-account|predictive-processing account]] (below) supplies a finer grain at which Gray's second pattern does not survive. Aphantasia runs the same wedge in the opposite direction—same task-level function (e.g. mental rotation), divergent phenomenology (vivid imagery vs. nothing)—making the two cases a matched pair across the within-species divergence cluster.
 
 The functionalist has principled responses to each individual case. Synaesthetic extras can be cashed out as higher-order representational differences; aphantasic divergence can be absorbed by individuating function at finer strategy-level grain. What the joint package costs is the absorption of synaesthesia *and* aphantasia *and* the broader cluster (reality-monitoring spread, cognitive-phenomenology evidence) by the same move—answering why phenomenology diverges *at any grain compatible with task-level or representational function-identity*. Synaesthesia alone is locally absorbable; the joint constraint puts pressure on the parsimony of the absorption strategy.
 
@@ -121,7 +121,7 @@ This is the contribution synaesthesia makes to the larger pattern of *within-spe
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** If two minds, the same biological kind, presented with the same surface representational input, have divergent phenomenology—one experiencing a colour the other does not—then phenomenal character is not the representational role in disguise. Phenomenology has independent structure from the representational and functional work it accompanies. The empirical pressure point falls in exactly the place a dualist framework predicts it should: at the gap between what consciousness is *like* and what cognition *does*. The Map flags the standard finer-grain functionalist rejoinder, and reads synaesthesia as a load-bearing concrete-phenomenon case for the **interface-vs-substrate distinction**: humans share the same biological substrate but have measurably different phenomenal interface configurations across the synaesthetic spectrum, with extra channels open in one subset of minds and closed in another. The interface reading is speculative-integration tier rather than empirically forced—the data alone are compatible with cross-activation under physicalism (Ramachandran & Hubbard's preferred reading), and the interface reading earns its place from cluster-level convergence rather than from synaesthesia in isolation. The within-species divergence pressure on functionalism *constrains* the strict representational-role reading; it does not by itself *establish* the interface alternative—a distinction the Map keeps explicit so empirical findings are not over-credited as confirmation of the speculative-tier reading.
+**[[tenets#^dualism|Dualism]].** If two minds, the same biological kind, presented with the same surface representational input, have divergent phenomenology—one experiencing a colour the other does not—then phenomenal character is not the representational role in disguise. Phenomenology has independent structure from the representational and functional work it accompanies. The empirical pressure point falls in exactly the place a dualist framework predicts it should: at the gap between what consciousness is *like* and what cognition *does*. The Map does not treat that inference as secure: the [[#the-predictive-processing-account|predictive-processing rejoinder]] above contests the grain at which the two minds count as matched, and the Map lets it stand rather than arguing past it. What survives is synaesthesia as a concrete-phenomenon case for the **interface-vs-substrate distinction**: humans share the same biological substrate but have measurably different phenomenal interface configurations across the synaesthetic spectrum, with extra channels open in one subset of minds and closed in another. The interface reading is speculative-integration tier rather than empirically forced—the data alone are compatible with cross-activation under physicalism (Ramachandran & Hubbard's preferred reading), and the interface reading earns its place from cluster-level convergence rather than from synaesthesia in isolation. The within-species divergence pressure on functionalism *constrains* the strict representational-role reading; it does not by itself *establish* the interface alternative—a distinction the Map keeps explicit so empirical findings are not over-credited as confirmation of the speculative-tier reading.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** The simplest model of human experience—that all members of one biological species share roughly one experiential palette, with individual variation only in vividness—is empirically inadequate. The actual landscape of phenomenal experience admits structural variation that parsimony would have ruled out *a priori*. It took clinical case-study work and the longitudinal-consistency rehabilitation to crack the assumption open.
 
@@ -133,7 +133,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [[aphantasia]] — The companion case at the opposite extreme: missing phenomenal content under matched task performance
 - [[phenomenal-variation-within-a-species]] — The apex synthesis: synaesthesia as the architecturally cleanest exemplar in a four-class within-species divergence cluster
 - [[source-attribution-divergence]] — The third leg of the within-species cluster: divergence in *how the experience is tagged for origin*, methodologically loaded because cohort labels are themselves introspective verdicts
-- [[phenomenology-vs-function-axis]] — Synaesthesia as the architecturally cleanest exemplar of function-phenomenology dissociation
+- [[phenomenology-vs-function-axis]] — The axis as a standalone concept: the dissociation patterns synaesthesia instantiates most cleanly
 - [[qualia]] — The concept synaesthesia delivers extra empirical instances of
 - [[inverted-qualia]] — The hypothetical thought experiment synaesthesia is the empirically anchored cousin of
 - [[functionalism]] — The theoretical commitment synaesthesia (with aphantasia) jointly pressures

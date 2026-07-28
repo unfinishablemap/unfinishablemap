@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T20:57:00+00:00'
+ai_modified: '2026-07-28T21:07:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 21:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/synaesthesia]]
+- **Word count**: argument prose 2317 → 2380 (+63); full body incl. References 3048 → 3111
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-07-28-synaesthesia]]
+- **Why not a no-op** (fifth review, convergence-damped, score 18): commit `016125e0d` (today 17:27Z, refine-draft) added a **Predictive-Processing Account** section with three new citations. Real delta, so this was a verification-and-propagation pass, not a re-litigation. The 2026-07-08 pass was verification-only; nothing it settled was reopened.
+- **Citation web-verify (§2.4), three new cites, all `real-correct`**: **Seth 2014** (*Cognitive Neuroscience* 5(2):97–118, doi:10.1080/17588928.2013.877880) verified at PMC4037840 — metadata exact, and the article's reading is faithful to the source's own words ("synesthetic concurrents are hypothesized to be counterfactually *poor*"); critically, Seth himself addresses the coexistence the article credits him with ("inducers are not substituted by concurrents"), so this is **not** source/Map conflation. **van Leeuwen et al. 2021** (*Schizophrenia Bulletin* 47(3):722–730, doi:10.1093/schbul/sbaa162) verified at OUP — all seven authors and every field exact; "lowered thresholds exclusively for synesthesia-inducing stimuli" confirms the article's exclusivity claim. **Reeder, Sala & van Leeuwen 2024** (*Neuroscience of Consciousness* 2024(1) niae006, doi:10.1093/nc/niae006) verified at OUP — the article's "intermediate-level" priors is the paper's **own** term (an aggregator summary rendering it "low-level" is the unreliable text; recorded in the review's Stability Notes so a future pass does not "correct" it backwards). Superlative sweep empty; inline↔References complete both directions; all 30 wikilinks resolve.
+- **Critical 1 — unpropagated concession**: the new section concedes "Gray's second dissociation fails at that grain", but the preceding wedge paragraph still asserted synaesthesia as "the closest… to a strict instance of both Gray patterns at once" with no forward signal, and **Relation to Site Perspective** still called the rejoinder one the Map merely "flags" — stale, since the body now says it "is no longer promissory". Fixed with a named-anchor forward reference per the writing-style guide, and by rewriting the tenet-section clause to "The Map does not treat that inference as secure… and the Map lets it stand rather than arguing past it." The calibration hedges around it (speculative-integration tier, Ramachandran & Hubbard granted, *constrains*-not-*establishes*) were preserved verbatim.
+- **Critical 2 — calibration overreach in `description`**: billed the article as "single-species empirical **evidence for irreducible phenomenology**", stronger than the post-concession body supports and in tension with the article's own constrains-vs-establishes discipline. This is the possibility/probability-slippage lens applied to the metadata channel, which is what search and chat surfaces quote. Now "…and what it does and doesn't settle about functionalism"; 166 → 155 chars, back inside the 150–160 spec.
+- **Medium**: "a **load-bearing** concrete-phenomenon case" → "a concrete-phenomenon case" (writing-style overused-intensifier rule; it was pure emphasis); duplicate "architecturally cleanest exemplar" gloss in Further Reading differentiated from the apex entry.
+- **Engagement classification** (editor-internal, not in article prose): functionalism — **Mixed (Mode One + Mode Three)**, unchanged. Predictive processing — **Mode Three**, correctly executed: the article concedes the in-framework argument rather than manufacturing one, then marks the boundary honestly ("No current measurement discriminates the two"). No boundary-substitution; grep for the full forbidden-label set returns clean.
+- **Length**: `analyze_length` reports `soft_warning` (3145w, 103% of the topics 3000 soft threshold). **False signal** — the metric counts the 24-entry References block and 15-entry Further Reading list; authored argument prose is 2380 (79%). Recorded in the review's Stability Notes: **do not mint a condense task off the raw metric for this article.**
+- **Scope discipline**: only `topics/synaesthesia.md` touched. The concession has corpus-wide reach — four sibling loci assert the same "cleanest exemplar / both Gray patterns" claim (`concepts/phenomenology-vs-function-axis.md` L85, `apex/phenomenal-variation-within-a-species.md` L104, `voids/synesthetic-void.md` L129, `apex/taxonomy-of-voids.md` L130) and `topics/predictive-processing-and-dualism.md` has **zero** synaesthesia mentions despite now being linked twice. One P2 queued against the upstream hub (the axis concept) with the rest named as context, deliberately **not** consolidated, since `cycle_post` closes multi-file tasks after the first file.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — consistency repair and calibration are not re-authoring. `ai_modified` and `last_deep_review` both set to 2026-07-28T21:07:22+00:00 (`date -u` verified).
+- **Published**: yes
 
 ## 2026-07-28 20:57 UTC - positions-evolve
 - **Status**: Success
