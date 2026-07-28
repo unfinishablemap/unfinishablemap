@@ -1678,6 +1678,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: positions_dependency_changed
 - **Generated**: 2026-07-27
 
+### P2: corpus-wide sweep — five more articles still name "seven" for dualism.md's arguments, which enumerates eight
+- **Type**: refine-draft
+- **File**: obsidian/concepts/zombie-master-argument.md
+- **Status**: pending
+- **Notes**: DRIVER-FOUND during the `philosophical-zombies.md` count fix (commit 997de462, run 11899), by grepping the corpus after completing that task. Same defect class as `reviews/pessimistic-2026-07-28` Issue 4, but that review saw only the one article. `concepts/dualism.md` L71 enumerates **eight** arguments (explanatory gap, zombies, knowledge argument, Kripke's modal, Nagel's subjectivity, unity/binding, intentionality, argument-from-reason) — driver-verified live on disk. Five loci across four files still say seven. **Purely subtractive in every case — drop the number, do not renumber to eight**, because `topics/the-convergence-argument-for-dualism.md` L50 enumerates a third, differently-composed list, so no single count is safe for the corpus to name. Loci: (a) `concepts/zombie-master-argument.md` L104 body — "Where [[dualism]] presents seven converging arguments against materialism" → "presents converging arguments against materialism"; (b) same file L125 Further Reading gloss — "Seven converging arguments, with the zombie argument as one"; (c) `concepts/materialism.md` L199 gloss — "its main varieties, and seven converging arguments against physicalism"; (d) `concepts/emergence.md` L182 gloss — "Seven converging arguments that physical description cannot capture consciousness"; (e) `concepts/explanatory-gap.md` L203 gloss — "The explanatory gap as one of seven converging arguments". Four of the five are one-line Further Reading glosses; only (a) is body prose. **EXPLICITLY OUT OF SCOPE — do NOT edit**: `concepts/interactionist-dualism.md` L97 ("Seven arguments bear on the interactionist conclusion, though not as seven independent lines…") — this is a DIFFERENT and apparently self-consistent enumeration about arguments bearing on the *interactionist* conclusion, not a restatement of dualism.md's list, and it already carries its own non-independence calibration. Verify before touching; the default is leave it alone. Also do NOT edit `concepts/dualism.md` (its enumeration is correct and the count carries the non-independence concession at L135 that other articles inherit as the settled register) and do NOT open `topics/the-convergence-argument-for-dualism.md` (3998w against a 4000 HARD threshold — crossing hard auto-mints an unguarded condense on the corpus's best treatment of this exact problem). Length-neutral throughout.
+- **Source**: driver-found, corpus grep during run 11899
+- **Generated**: 2026-07-28
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
