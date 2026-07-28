@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T01:09:55+00:00
+ai_modified: 2026-07-28T01:16:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T01:16:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/consciousness-and-agency]]
+- **Word count**: 4797 → 4802 (+5); soft 4000, hard 5000 — 198 words of headroom retained on an apex, effectively length-neutral as the brief required.
+- **Scope**: MWI/agency calibration only, target (5) of a consolidated multi-file task. The other seven targets were deliberately not swept.
+- **Change 1 — falsifier at "Confirmation of many-worlds"**: the trailing clause "and selection would be illusory" was the flat agency overstatement, and it contradicted this same file's own No Many Worlds tenet entry, which grants that an Everettian can allow the agent a branch-local history of having chosen. Replaced with the exclusion-loss formulation: MWI confirmation would leave "no collapse for consciousness to influence, and no counterfactual exclusion for desert to rest on—every rejected option actualised by a counterpart elsewhere." The first clause (the mechanism claim, that MWI confirmation removes the collapse the Map's mechanism requires) was left untouched: it is legitimate, and the structurally identical falsifier in `concepts/quantum-indeterminacy-free-will.md` L167 was deliberately excluded earlier on the same grounds.
+- **Change 2 — No Many Worlds tenet entry, opening clause**: "consciousness selects nothing" → "nothing is genuinely excluded". Same overstatement in miniature, sitting two clauses above its own correction; the new opener now states the exclusion failure directly and sets up the indexical passage instead of being walked back by it. The indexical passage itself — the corpus's cleanest statement of this move, cited as the model by four other files — was not touched.
+- **Calibration ground**: authorship/agency claim, so the exclusion posit in `tenets/background-commitments.md` (untouched, per brief), not the indexical-value move used for suffering claims. No new formulation invented — both weak spots were made consistent with the settled statement already in this file.
+- **Calibration, not retraction**: Tenet 4 stands unweakened; the falsifier still falsifies.
+- **Published**: yes
 
 ## 2026-07-28T01:09:55+00:00 - deep-review
 - **Status**: Success
