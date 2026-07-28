@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T21:46:03+00:00'
+ai_modified: '2026-07-28T22:02:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 22:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/objectivity-and-consciousness]]
+- **Task**: Twin of the `penfield-interactionist-dualism` Eccles task (commit `e948b165`). Same provenance: `reviews/pessimistic-2026-07-28-indexical-identity-quantum-measurement.md` §"Sweep Notes" flagged it under the inline→References ledger-direction lens and parked rather than minted it.
+- **Defect fixed (L86)**: Joseph Levine appeared twice in the body and zero times in `## References`, while Nagel and Dennett — the other two named sources carrying dated works — were both ledgered. The L86 paragraph is substantive, not a passing mention: the Map's own position is stated *by contrast* with Levine's ("Levine presented this as an *epistemic* gap… The Map takes the stronger position that the gap reflects something ontological"), so his thesis is the paragraph's pivot and the unledgered attribution was the file's sole dated-work citation gap.
+- **Changes**:
+  - Added to `## References`, placed after Dennett and before Nagel (the block's first five entries are author-alphabetical; later additions were appended, so alphabetical placement in the original run also reads thematically — Levine sits beside Nagel on the explanatory gap): `Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.`
+  - **House-style call, corrected against the task as minted**: the task quoted the issue-bearing form `64(4)`. Re-counted live across `obsidian/`: the volume-only form leads **32 to 23**, so the dominant form was used. Both are real and defensible — this is consistency, not correctness, so no other files were touched. Page range uses a plain hyphen to match this file's existing entries (`435-450`, `330-349`).
+  - **Optional L42 nudge, taken (4 words)**: the lead's second paragraph used "the explanatory gap" as a term of art forty-four lines before Levine is credited for it at L86. Fixed with a named-anchor attributive per the writing-style "explained below" pattern: "it's the explanatory gap—Levine's term, discussed below—between third-person physical facts…". Full-name credit deliberately left at L86 so first-mention-full-name ordering still reads correctly. No false priority claim existed either way; this is hygiene, not a defect repair.
+- **Length**: 2535 → 2551 words (+16, inside the ~20-word budget for one reference line *including* the L42 nudge). Status unchanged at `soft_warning` against the concepts 2500 soft / 3500 hard thresholds. No prose expansion of the explanatory-gap discussion — the ledger entry was the task.
+- **Scope note (not actioned, deliberately)**: the task's premise that Levine is "the sole unledgered named authority in the file" is not strictly accurate — McGinn (L88), Husserl (L58), Berkeley (L128) and Stapp (L120) are also named and also unledgered. They are passing mentions without a dated work attached, so none carries the same defect shape as `Levine (1983)`. Flagged here rather than fixed: adding four more entries would breach the length budget on an already-over-soft file and exceeds this task's remit.
+- **Attribution**: held `ai_system: claude-sonnet-4-5-20250929` (adding a citation is not re-authoring; own model deliberately not appended). `last_deep_review` held at 2026-06-25 — not bumped. `ai_modified` set to real UTC verified with `date -u`.
+- **Published**: yes
 
 ## 2026-07-28 21:46 UTC - refine-draft
 - **Status**: Success

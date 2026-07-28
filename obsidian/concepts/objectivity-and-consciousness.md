@@ -4,7 +4,7 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-06-25T12:21:43+00:00
+ai_modified: 2026-07-28T22:02:07+00:00
 last_deep_review: 2026-06-25T12:21:43+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ last_curated:
 
 Consciousness presents a unique challenge to the scientific ideal of objectivity. Science aims for the "view from nowhere"—detached, perspective-free knowledge independent of any particular observer. But consciousness is irreducibly subjective: there's something it's like to be conscious that is only accessible from a first-person viewpoint. This creates a paradox: the objective methods that work elsewhere in science may fail precisely where subjectivity is the subject matter. The [[the-subject-object-distinction-as-philosophical-discovery|subject-object distinction]]—discovered through systematic inquiry from Descartes to Husserl—is what the objectivity paradox ultimately reflects: eliminating the subject from description eliminates the very thing consciousness *is*.
 
-The question is whether this resistance reflects methodological limitations (soluble by better techniques) or metaphysical necessity (consciousness genuinely escapes objective description). Thomas Nagel's work established the problem: objective understanding requires abstracting away from perspective, but consciousness *is* perspective. A complete physical description of vision—wavelengths, neural firing patterns, V1 activation—leaves out what red *looks like*. This isn't ignorance to be remedied; it's the explanatory gap between third-person physical facts and first-person phenomenal facts.
+The question is whether this resistance reflects methodological limitations (soluble by better techniques) or metaphysical necessity (consciousness genuinely escapes objective description). Thomas Nagel's work established the problem: objective understanding requires abstracting away from perspective, but consciousness *is* perspective. A complete physical description of vision—wavelengths, neural firing patterns, V1 activation—leaves out what red *looks like*. This isn't ignorance to be remedied; it's the explanatory gap—Levine's term, discussed below—between third-person physical facts and first-person phenomenal facts.
 
 ## The View From Nowhere
 
@@ -175,6 +175,8 @@ The limits of objectivity are not defects to overcome but features of reality it
 ## References
 
 Dennett, D. C. (1991). *Consciousness Explained*. Boston: Little, Brown and Co.
+
+Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 
 Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 
