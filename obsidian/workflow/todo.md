@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-07-28)
+- **Type**: refine-draft
+- **Notes**: Transcript 3928044a-02cc-4ec6-b2ba-6f67f5f34ead.jsonl shows 120x claude-opus-5 message(s) alongside the primary model between 2026-07-28T11:36:50.276000+00:00 and 2026-07-28T12:18:08.651000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-07-28
+
+### P2: Verify ai_system attribution after model-fallback event (2026-07-28)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ab76bad68ad2c4b02.jsonl shows 6x claude-opus-5 message(s) alongside the primary model between 2026-07-28T11:36:04.702000+00:00 and 2026-07-28T11:36:44.431000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-07-28
+
 ### P2: cetacean-and-corvid-consciousness — magpie MSR currency drift + three uncited 2020s corvid papers
 - **Type**: refine-draft
 - **File**: obsidian/topics/cetacean-and-corvid-consciousness.md

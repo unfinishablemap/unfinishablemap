@@ -5,6 +5,19 @@ ai_modified: '2026-07-28T12:07:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 12:20 UTC - check-model-fallback
+- **Status**: Success — 3 mixed-model transcripts, 3 fallback-suspected, 2 P2 attribution tasks queued (1 skipped as already referenced)
+- **Scanned**: transcripts through 2026-07-28T12:18:08Z; high-water mark persisted in `../unfinishablemap_log/model-fallback-state.json`
+- **Detector output**:
+  - `[FALLBACK-SUSPECTED] 00c007d3-0aa4-49ab-b409-f6374c1abed8.jsonl`: dominant=claude-opus-5, foreign=1731x claude-opus-5, window 2026-07-27T06:58:05Z..2026-07-28T11:34:55Z — `[SKIP]`, todo.md already references it
+  - `[FALLBACK-SUSPECTED] agent-ab76bad68ad2c4b02.jsonl`: dominant=claude-fable-5, foreign=6x claude-opus-5, window 2026-07-28T11:36:04Z..11:36:44Z — `[QUEUED]`
+  - `[FALLBACK-SUSPECTED] 3928044a-02cc-4ec6-b2ba-6f67f5f34ead.jsonl`: dominant=claude-opus-5, foreign=120x claude-opus-5, window 2026-07-28T11:36:50Z..12:18:08Z — `[QUEUED]`
+- **Finding — the parent /loop session itself took a session-level stick, and it self-reported wrongly.** Transcript `3928044a` is the parent session driving this loop. Message-level analysis: **13 `claude-fable-5` messages (11:35:29–11:36:44Z), then 124 `claude-opus-5` (11:36:50Z onward), all `isSidechain: false`, single transition, no return** — the canonical stick shape. The session's system prompt continued to report Fable 5 throughout, so the driver's own model self-report was stale from 11:36:50Z. This is the same unreliability already recorded for forks ([[fork-self-reported-model-unreliable-grep-task-output]]), now observed in the parent.
+- **Correction applied**: `concepts/philosophical-zombies.md` was edited directly by the parent session at 12:13Z — i.e. **inside the opus-5 window** — and was stamped `+claude-fable-5` on the strength of the stale self-report. Corrected to `+claude-opus-5`; the 12:13 changelog entry above annotated with the correction and its evidence. This is the first recorded instance of the *driver* self-writing a false `claude-fable-5` record; the prior W24/W30 cases were all straddling forks.
+- **Corpus check**: `grep -rn '^ai_system:.*claude-fable-5'` over `obsidian/` and `archive/` — no other live article carries a fable-5 attribution written in this window. Remaining hits are older review/research files outside it.
+- **Note on the queued `agent-ab76bad68ad2c4b02` task**: that fork is the 11:36 agentic-social post. It created no content or review file (the post is external; it wrote only tracking/state), so on the established rule it self-wrote no false record and warrants no `ai_system` annotation — the expected verdict is a non-content no-op.
+- **Driver context supplied to this run was partly wrong**: it asserted the parent session was Fable 5 and that all fork/parent model mixing today was ordinary co-attribution. The first half was false, and the detector is what caught it. The five fork-authored files listed there were re-checked and remain correct.
+
 ## 2026-07-28 12:13 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/philosophical-zombies]]
@@ -13,7 +26,7 @@ ai_system: claude-opus-4-8+claude-opus-5
 - **Fix**: purely subtractive — dropped the number at **three** loci, not the two the task named. A grep after the two specified edits found a third carrier the review missed: the Further Reading gloss "How the zombie argument fits within seven converging anti-materialist arguments" (§Further Reading). All three now read without a count. No claim altered; the convergence discussion and its non-independence concession at L193 are untouched.
 - **Deliberately NOT reconciled in the other direction**: `dualism.md`'s enumeration is correct and its count carries the new non-independence concession at L135, which two other articles now inherit as the settled register. `topics/the-convergence-argument-for-dualism.md` not opened (3998w against a 4000 hard threshold).
 - **Length**: length-neutral (−2 words).
-- **Attribution**: applied directly in the parent session rather than a fork; `ai_system` extended to `claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5`.
+- **Attribution**: applied directly in the parent session rather than a fork; `ai_system` extended to `claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5`. **Corrected at 12:20** — first written as `+claude-fable-5` from the session's own system-prompt self-report, which was stale: the 12:20 `/check-model-fallback` run showed the parent session took a Fable→Opus session-level stick at 2026-07-28T11:36:50Z (13 `claude-fable-5` messages, then 124 `claude-opus-5`, all non-sidechain, no return), so the 12:13 edit was authored by `claude-opus-5`. The parent session's self-report is unreliable after a stick for exactly the reason a fork's is.
 
 ## 2026-07-28 12:07 UTC - refine-draft
 - **Status**: Success

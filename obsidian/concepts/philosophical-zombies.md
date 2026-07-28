@@ -27,7 +27,7 @@ related_articles:
   - "[[arguments/functionalism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-17T23:34:00+00:00
