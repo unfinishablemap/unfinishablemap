@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T09:07:03+00:00'
+ai_modified: '2026-07-28T09:21:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 09:21 UTC - refine-draft
+- **Status**: Success (partial by design — one of four strands deferred)
+- **File**: [[concepts/inverted-qualia]]
+- **Word count**: 3037 → 3436 (+399; `status: soft_warning`, soft 2500 / hard 3500). Additions paid for in part by ~60 words of trimming across Whitehead, Inverted Earth, the privacy paragraph, the Schwitzgebel sentence, the Core Scenario and the Hardin illustration. Held below the ~3400 cluster ceiling with 64 words of hard-threshold margin, so no unguarded condense is auto-minted against the five repairs made to this article today.
+- **Changes**:
+  - **Palmer framing corrected (strand 1).** "Palmer (1999) argues certain inversions—like flipping red-green while leaving blue-yellow fixed—are plausible within color science" was an over-read of a real source. Palmer's published abstract concludes that literal spectrum reversal would *not* work and that three other transformations *might*, conditional on which colour categories matter. Rewritten as a conditional opening rather than a result, with the author-stance note that Palmer's "isomorphism constraint" is a sceptical limit on what colour science can settle about experience, not a licence for the inversion argument, and that his candidate transformations were contested within the same *BBS* exchange. Same defect class and same register as tonight's Shoemaker and Hardin repairs; no deletion.
+  - **New "Twenty-First-Century Colour Science" subsection (strand 2, the 3/3 convergent finding).** Four results, framed as Claude's leg framed them — large physiological variation coexisting with appearance that does not track it is *prima facie* evidence against strong inversion. Foveal L:M cone ratios 1.1:1 to 16.5:1 among colour-normal observers (Hofer et al. 2005); unique hues "largely unconstrained by normal individual differences in the cone-opponent axes" (Webster et al. 2000); interobserver hue-scaling variation resolving into several *local* factors rather than one global factor, the wrong shape for a whole-space opponent-axis rotation (Emery et al. 2023); discrimination training shifting thresholds and judged appearance together, so appearance is functionally coupled (Horiuchi & Nagai 2024). States explicitly that measurable individual difference is not evidence for strict inversion, because the differences surface precisely in the judgements that make observers functionally non-identical, which supports the structuralist reading. The article's reply is identified as the modal claim rather than a rival reading of the data — no suggestion that the empirical case has been answered.
+  - **Hilbert & Kalderon added (strand 3, one sentence).** Framed to their verified abstract — extant versions of the inverted spectrum argument are unsound and any possible version must be — rather than to the reviewer's paraphrase about all possible quality spaces being asymmetrical, which the abstract does not state. Closes the retreat to stipulated symmetric aliens.
+- **Deferred**: strand 4 (representationalism narrow/wide content, appearance properties, Fregean modes, colour relativism; PCS depth via Zhong 2024) — the most expensive and least convergent strand, and the length budget would not carry it honestly. Owed as its own task.
+- **Citations verified at publisher of record this pass**: Hofer et al. 2005 *J. Neurosci.* 25(42):9669–9679 — REAL, metadata correct, L:M range 1.1:1–16.5:1 confirmed. Webster et al. 2000 *JOSA A* 17(9):1545–1555 (PMID 10975364) — REAL, quoted string verbatim in the abstract. Hilbert & Kalderon 2000 in Davis (ed.) *Color Perception*, VSCS 9 — REAL, abstract claim re-framed to what it actually says. Emery et al. 2023 *PNAS* 120(4):e2202262120 and Horiuchi & Nagai 2024 *Sci Rep* 14:9615 — ChatGPT-leg citations verified at collection; bibliographic detail confirmed only (authors, title, venue), not re-verified from scratch per task instruction. Not used, not imported: Bosten 2022, Witzel & Gegenfurtner 2018, Tregillus 2021, Nida-Rümelin, Jordan & Mollon 2019, Nakauchi & Tamura 2022.
+- **Gemini's headline charge not acted on** — verified false upstream (the article has a dedicated Detectability Objection section and concedes asymmetry as defeater #2). Only the narrow currency residue was addressed.
+- **Published**: yes
 
 ## 2026-07-28 09:07 UTC - refine-draft
 - **Status**: Success

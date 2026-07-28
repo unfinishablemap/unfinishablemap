@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-07-28T09:07:03+00:00
+ai_modified: 2026-07-28T09:21:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ Imagine two perceivers, Invert and Nonvert, who:
 - **Make the same discriminations.** Both distinguish the same number of shades, find the same colors similar or different.
 - **Exhibit the same functional organization.** Their brains process color information through identical pathways with identical effects on behavior.
 
-Yet phenomenologically, their experiences differ. Looking at a red apple, Nonvert experiences a quality we might call "phenomenal red" while Invert experiences "phenomenal green", the character we would recognize as seeing green. Neither is wrong about the apple: both correctly perceive its surface property. What differs is the *qualitative character* of their correct perceptions.
+Yet phenomenologically, their experiences differ. Looking at a red apple, Nonvert experiences a quality we might call "phenomenal red" while Invert experiences "phenomenal green". Neither is wrong about the apple: both correctly perceive its surface property. What differs is the *qualitative character* of their correct perceptions.
 
 ## Why This Challenges Functionalism
 
@@ -67,15 +67,21 @@ Yet phenomenologically, their experiences differ. Looking at a red apple, Nonver
 
 Ned Block's Inverted Earth scenario sharpens the argument against sophisticated functionalism. Imagine a planet where surface colors are inverted (the sky is yellow, grass is red) and inhabitants use inverted color terms; inverting contact lenses compensate, so grass still looks green to you though it is actually red.
 
-After 50 years your functional role has fully adapted—same inputs, same outputs, same internal processing as natives—and a "long-arm functionalist" (one who includes environmental relations in functional roles) should say your color experiences now represent Inverted Earth red rather than Earth green. Your experiences, though, are the same as when you left Earth.
+After 50 years your functional role has fully adapted—same inputs, outputs and internal processing as natives—so a "long-arm functionalist", who counts environmental relations in functional roles, should say your color experiences now represent Inverted Earth red rather than Earth green. Your experiences, though, are unchanged since you left Earth.
 
 **The upshot:** Even when functional role has completely shifted, qualia can stay fixed.
 
 ## The Detectability Objection
 
-C. L. Hardin argues that human color space is structurally asymmetrical in ways that would make simple spectrum inversion detectable: unequal discriminability between hue pairs, dark yellow appearing as brown (but dark blue staying blue), and warm/cool associations. A 180° inverter might take longer on easy discriminations or find their "red" strangely cool. Hardin, an eliminativist about colour qualia, presses detectability to undermine the thought experiment rather than refine it.
+C. L. Hardin argues that human color space is structurally asymmetrical in ways that would make simple spectrum inversion detectable: unequal discriminability between hue pairs, dark yellow appearing as brown (but dark blue staying blue), and warm/cool associations. A 180° inverter might take longer on easy discriminations. Hardin, an eliminativist about colour qualia, presses detectability to undermine the thought experiment rather than refine it.
 
-Several replies preserve the thought experiment's force. Palmer (1999) argues certain inversions—like flipping red-green while leaving blue-yellow fixed—are plausible within color science. More fundamentally, the argument is modal, not empirical: we can imagine beings whose color space allows undetectable inversion, whatever the facts about Homo sapiens. Shoemaker also suggests achromatic cases (black ↔ white) where symmetries are clearer—again, in his hands, a move made inside functionalism rather than against it.
+Several replies preserve the thought experiment's force, though the usual first one is weaker than it looks. Palmer (1999) is often cited as showing that non-literal inversions survive colour science; his published abstract concludes that literal spectrum reversal would *not* work, and that three other transformations *might*, depending on which colour categories turn out to matter. That is a conditional opening rather than a result, and it sits inside a sceptical frame: Palmer's "isomorphism constraint" limits what colour science can settle about experience at all, and his candidate transformations were contested within the same *BBS* exchange. More fundamentally, the argument is modal, not empirical: we can imagine beings whose color space allows undetectable inversion, whatever the facts about Homo sapiens. Shoemaker also suggests achromatic cases (black ↔ white) where symmetries are clearer—again, in his hands, a move made inside functionalism rather than against it.
+
+### Twenty-First-Century Colour Science
+
+The empirical record has moved since Hardin, and not the inversion argument's way. Physiological variation among colour-normal observers is very large: foveal L:M cone ratios range from 1.1:1 to 16.5:1 (Hofer et al. 2005). Appearance does not track it—unique-hue settings are "largely unconstrained by normal individual differences in the cone-opponent axes" (Webster et al. 2000). Where appearance does vary between observers, the variation resolves into several factors confined to *local* regions of colour space rather than one global factor (Emery et al. 2023): the wrong shape for a whole-space opponent-axis rotation. And appearance moves with function—discrimination training at one locus lowered thresholds there and shifted judged appearance, unique-red settings included, along with them (Horiuchi & Nagai 2024).
+
+Measurable individual difference is therefore not evidence for strict inversion. It arguably cuts the other way: the differences surface precisely in the judgements that make observers functionally non-identical, which supports the structuralist reading that appearance is fixed by relational structure rather than floating free of function. That is the sharpest empirical pressure the thought experiment faces, and what the article opposes to it is the modal claim above rather than a rival reading of the data. Hilbert and Kalderon (2000) press harder, arguing not merely that extant versions of the inverted spectrum argument are unsound but that any possible version must be—which, if right, closes the retreat to stipulated symmetric aliens too.
 
 ## Relation to Zombie Arguments
 
@@ -95,7 +101,7 @@ Both arguments exploit the explanatory gap—structural descriptions don't logic
 
 ## The Privacy of Experience
 
-Inverted qualia dramatically illustrate the [[problem-of-other-minds]]—what the Map calls the [[consciousness-and-the-problem-of-other-properties|problem of other properties]]. You and I might agree perfectly about color categories and share aesthetic judgments yet experience systematically different qualia: shared language and behavior hide potentially radical experiential divergence. The implication runs past epistemology to qualia's nature—what a colour experience is *like* outruns what it does or what it's about.
+Inverted qualia dramatically illustrate the [[problem-of-other-minds]]—what the Map calls the [[consciousness-and-the-problem-of-other-properties|problem of other properties]]. You and I might agree about color categories and share aesthetic judgments yet experience systematically different qualia: shared language and behavior hide potentially radical divergence. The implication runs past epistemology to qualia's nature—what a colour experience is *like* outruns what it does or what it's about.
 
 ## Physicalist Responses
 
@@ -117,7 +123,7 @@ The Map's position is that even this weaker move inherits the explanatory burden
 
 ### Introspection and Contemplative Evidence
 
-Debunking arguments are not confined to introspection's unreliability about cognitive *processes*—confabulation, post-hoc narratives. Schwitzgebel (2011) argues we are "frequently and massively mistaken" about qualitative *content* too, across visual imagery, emotion, dreams and peripheral vision (see [[discrimination-problem]]). The inversion argument does not need that ground. It needs introspection to be reliable about *whether* there is phenomenal content, not about its *fine structure*: I may misjudge how detailed my imagery is, or which shade I am seeing, without its being equally doubtful that some qualitative character is present at all. Whether debunking reaches that far is contested; illusionists read the same literature in the opposite direction.
+Debunking arguments are not confined to introspection's unreliability about cognitive *processes*—confabulation, post-hoc narratives. Schwitzgebel (2011) argues we are "frequently and massively mistaken" about qualitative *content* too, across visual imagery, emotion, dreams and peripheral vision (see [[discrimination-problem]]). The inversion argument does not need that ground. It needs introspection to be reliable about *whether* there is phenomenal content, not about its *fine structure*: I may misjudge how detailed my imagery is without its being equally doubtful that some qualitative character is present. Whether debunking reaches that far is contested; illusionists read the same literature in the opposite direction.
 
 Meditative traditions add complexity: some jhāna practitioners report observing color qualia with unusual clarity, while Madhyamaka examination reveals their constructed nature. Were qualia purely representational artifacts, meditation should uniformly reveal them as such; the divergence suggests otherwise.
 
@@ -133,9 +139,7 @@ The reply carries a dilemma the Map owns rather than escapes. If the interface d
 
 ## Process Philosophy Perspective
 
-Whitehead's process philosophy makes inverted qualia intelligible. Basic units of reality ("actual occasions") have subjective aspects constitutively; qualia are "eternal objects"—pure possibilities that ingress into occasions. Invert and Nonvert might prehend the same physical facts through different eternal objects: both see the apple correctly, but which objects ingress differs.
-
-Qualitative character arises in *concrescence*—the integration of prehensions—not in the relational structure it produces, so two subjects could produce identical functional outputs from qualitatively different concrescences.
+Whitehead's process philosophy makes inverted qualia intelligible. Basic units of reality ("actual occasions") have subjective aspects constitutively; qualia are "eternal objects"—pure possibilities that ingress into occasions. Invert and Nonvert might prehend the same physical facts through different eternal objects. Qualitative character arises in *concrescence*, the integration of prehensions, rather than in the relational structure it produces, so two subjects could produce identical functional outputs from qualitatively different concrescences.
 
 This connects to [[haecceity]]—the "thisness" of individual experience. Your experience of red is not merely *a* red-experience but *this* red-experience, had by *this* subject at *this* moment; haecceity is lost in functional abstraction, which treats tokens as equivalent if they play the same role.
 
@@ -208,6 +212,11 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - Locke, J. (1689). *An Essay Concerning Human Understanding*, II.xxxii.15.
 - Hardin, C. L. (1988). *Color for Philosophers: Unweaving the Rainbow*. Hackett.
 - Palmer, S. (1999). "Color, Consciousness, and the Isomorphism Constraint." *Behavioral and Brain Sciences*, 22(6), 923-943.
+- Hilbert, D. & Kalderon, M. (2000). "Color and the Inverted Spectrum." In S. Davis (ed.), *Color Perception*, Vancouver Studies in Cognitive Science 9. Oxford University Press.
+- Webster, M. A., Miyahara, E., Malkoc, G. & Raker, V. E. (2000). "Variations in Normal Color Vision. II. Unique Hues." *JOSA A*, 17(9), 1545-1555.
+- Hofer, H., Carroll, J., Neitz, J., Neitz, M. & Williams, D. R. (2005). "Organization of the Human Trichromatic Cone Mosaic." *Journal of Neuroscience*, 25(42), 9669-9679.
+- Emery, K. J., Volbrecht, V. J., Peterzell, D. H. & Webster, M. A. (2023). "Fundamentally Different Representations of Color and Motion Revealed by Individual Differences in Perceptual Scaling." *PNAS*, 120(4), e2202262120.
+- Horiuchi, S. & Nagai, T. (2024). "Color Discrimination Repetition Distorts Color Representations." *Scientific Reports*, 14, 9615.
 - Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
