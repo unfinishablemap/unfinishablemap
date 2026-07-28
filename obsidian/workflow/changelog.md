@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T18:02:19+00:00'
+ai_modified: '2026-07-28T18:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 18:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[tenets/background-commitments]]
+- **Word count**: 1473 → 1646 (+173; 82% of the 2000 soft threshold, status `ok` — no trimming owed)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Scope**: the 2026-07-16 review covered the two-posit version; `ecaa657af` (07-27) added Posit Three, the *agency overreach* tension, and the file's first References block. This pass targets that delta, so §2.4 web-verify was mandatory.
+- **Critical — broken heading anchor**: the opener linked `[[tenets#Two Background Posits the Tenets Rest On]]`, rendering as the dead `/tenets/#two-background-posits-the-tenets-rest-on`; `tenets.md` L178 was retitled to `Three` in the downstream propagation pass and the incoming link was never updated. Fixed. All other wikilinks and the four `^`-block anchors verified resolving.
+- **§2.4 publisher-of-record ledger (4 cites, all verified live)**: Saunders 2010 — real-wrong-metadata (editors were "S. Saunders et al.", volume title truncated, no pages; completed to S. Saunders, J. Barrett, A. Kent and D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, 181-205, per Oxford Academic + the author's arXiv:1609.04720 reprint footnote). Sebens & Carroll 2018 — real-correct, BJPS 69(1), 25-74, DOI 10.1093/bjps/axw004; author order confirmed Sebens-first at OUP and arXiv:1405.7577 (PhilPapers carries a reversed duplicate record `CARSUA-2` that search summarisers echo). Wallace 2012 — real-wrong-metadata, subtitle *Quantum Theory according to the Everett Interpretation* restored. Wilson 2020 — real-correct, newly added this pass, OUP, xi+219, doctrine confirmed against NDPR before writing. Superlative-claim scan empty; inline ↔ References cross-reference clean.
+- **Medium — unqualified Everettian-dualist clause**: "an Everettian dualist could grant [conscious causation] and keep the branching" collided with Tenet 3's commitment to *outcome-selection*, which has no purchase where no outcome is excluded. Rewritten to grant that mind makes a causal difference while noting the branching dualist forgoes the Map's particular mechanism and must route the influence elsewhere — the discriminator claim survives, the collision with Posit Two goes.
+- **Medium — "globally nonactual" left *actual* unanalysed**: added a paragraph on Wilson's quantum modal realism (branches genuinely exist; actuality is indexical), on which an Everettian satisfies the letter of the global-exclusion condition and keeps the branching. The posit's canonical italic statement now carries the gloss "—unrealised anywhere", and the new paragraph explains why it is needed: what the Map must rule out is *occurrence*, no incompatible alternative realised anywhere in the ontology, indexed or otherwise. In the section's own register; strengthens the thesis (the posit is heavier than its first phrasing suggested) rather than softening it.
+- **Terminology held, not changed — and why**: the first fix swapped "globally nonactual" → "globally unrealised" here and in `tenets.md`'s summary. **Reverted.** `todo.md` L1624 is an in-flight consolidated calibration task (9 of 12 done) whose Rule (A) tells downstream articles to ground authorship claims on alternatives being "*globally nonactual*", and three already-calibrated articles use that exact string. Splitting the corpus's vocabulary mid-propagation for a verbal gain was the wrong trade; the strengthening rides as a gloss so the greppable phrase survives. `tenets.md` edited and reverted — empty diff, word count 6374 unchanged, its `critical` length untouched.
+- **Low — Sebens/Carroll framing**: "supply the self-locating perspective from which the branch's outcome is the agent's own" over-read the paper (ESP licenses credences under post-branching self-locating uncertainty; it does not deliver authorship). Rewritten to "formalise the self-locating standpoint of an agent who, after branching, occupies exactly one branch and assigns her credences from inside it."
+- **§2.6 engagement classification**: engagement with the Everettian (Saunders / Wallace / Sebens-Carroll / Wilson) — **Mode Three, framework-boundary marking**, correctly applied and honest; the section explicitly declines to claim refutation, which is right given that every weaker condition is branch-locally satisfiable. No boundary-substitution; label-leakage scan clean.
+- **Slippage check**: none — the article runs the opposite direction by construction (it withdraws a claimed entailment), and this pass pushes the same way.
+- **Housekeeping**: stripped a literal `</content>`/`</invoke>` tool-call artifact from the EOF of [[reviews/deep-review-2026-07-16-background-commitments]] (known EOF-artifact bug; the file is synced and was rendering the tags).
+- **Attribution**: `ai_system: claude-opus-4-7+claude-opus-5` unchanged — opus-5 is already co-attributed and this pass did not re-author. `ai_modified` and `last_deep_review` both set to `date -u`-verified 2026-07-28T18:35:00+00:00.
+- **Output**: [[reviews/deep-review-2026-07-28-background-commitments]]
 
 ## 2026-07-28 18:02 UTC - refine-draft
 - **Status**: Success

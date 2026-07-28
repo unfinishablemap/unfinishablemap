@@ -4,7 +4,7 @@ description: "The five stated tenets lean on three unstated posits—a persistin
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-07-27T13:33:19+00:00
+ai_modified: 2026-07-28T18:35:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,10 +22,10 @@ author: null
 ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-07-16
 last_curated: null
-last_deep_review: 2026-07-16T08:43:00+00:00
+last_deep_review: 2026-07-28T18:35:00+00:00
 ---
 
-The Unfinishable Map states [[tenets|five foundational commitments]] and presents [[tenets#^dualism|Tenet 1]] as neutral between substance and property dualism. In operation, though, the framework leans on three further posits that no tenet states outright but that several clusters silently require. Naming them is part of the [[project/direct-refutation-discipline|direct-refutation discipline]]'s remit: mark honestly where the framework relies on an unstated commitment rather than one it has earned. This note is the canonical statement; the [[tenets#Two Background Posits the Tenets Rest On|tenets page's summary of these posits]] links here rather than re-deriving it inline.
+The Unfinishable Map states [[tenets|five foundational commitments]] and presents [[tenets#^dualism|Tenet 1]] as neutral between substance and property dualism. In operation, though, the framework leans on three further posits that no tenet states outright but that several clusters silently require. Naming them is part of the [[project/direct-refutation-discipline|direct-refutation discipline]]'s remit: mark honestly where the framework relies on an unstated commitment rather than one it has earned. This note is the canonical statement; the [[tenets#Three Background Posits the Tenets Rest On|tenets page's summary of these posits]] links here rather than re-deriving it inline.
 
 ## Posit One: A Determinate, Persisting Subject
 
@@ -43,13 +43,15 @@ This has a consequence the framework must own. **Once objective collapse already
 
 ## Posit Three: Global Exclusion of Unchosen Alternatives
 
-The agency route to rejecting many-worlds ([[tenets#^no-many-worlds|Tenet 4]]) presupposes a third posit, and one stronger than the corpus has generally stated: *an action is genuinely authored only if every incompatible alternative is globally nonactual, not merely absent from the agent's own history.*
+The agency route to rejecting many-worlds ([[tenets#^no-many-worlds|Tenet 4]]) presupposes a third posit, and one stronger than the corpus has generally stated: *an action is genuinely authored only if every incompatible alternative is globally nonactual—unrealised anywhere, not merely absent from the agent's own history.*
 
-The strength of that condition is easy to miss, because every weaker condition in its neighbourhood is satisfiable inside Everettian quantum mechanics. Branch-relative accounts (Saunders 2010; Wallace 2012) preserve psychological continuity, indexically owned memories and a determinate history along each branch; Sebens and Carroll (2018) supply the self-locating perspective from which the branch's outcome is the agent's own. Inside a branch the agent's reasons stand in ordinary causal relations to her action, counterfactual control holds, deliberation is reasons-responsive, and exactly one history persists. Conscious causation is not the point of difference either: an Everettian dualist could grant it and keep the branching. So the No-Many-Worlds conclusion is not delivered by conscious causation, by local counterfactual control, by reasons-responsiveness, by ownership of the actual action, or by persistence along a single history. Each of those is available branch-locally. What separates the Map from the Everettian is the further demand that the alternatives not occur *anywhere*.
+The strength of that condition is easy to miss, because every weaker condition in its neighbourhood is satisfiable inside Everettian quantum mechanics. Branch-relative accounts (Saunders 2010; Wallace 2012) preserve psychological continuity, indexically owned memories and a determinate history along each branch; Sebens and Carroll (2018) formalise the self-locating standpoint of an agent who, after branching, occupies exactly one branch and assigns her credences from inside it. Inside a branch the agent's reasons stand in ordinary causal relations to her action, counterfactual control holds, deliberation is reasons-responsive, and exactly one history persists. Conscious causation is not the point of difference either: an Everettian dualist could grant that mind makes a causal difference and keep the branching, forgoing only the Map's particular mechanism—outcome-selection needs an outcome to be excluded, so a branching dualist would have to route the influence elsewhere. So the No-Many-Worlds conclusion is not delivered by conscious causation, by local counterfactual control, by reasons-responsiveness, by ownership of the actual action, or by persistence along a single history. Each of those is available branch-locally. What separates the Map from the Everettian is the further demand that the alternatives not occur *anywhere*.
 
 This has a consequence the framework must own. **The rejection of many-worlds on agency grounds does not follow from sourcehood; it follows from sourcehood plus a global-exclusion condition the framework asserts rather than argues for.** The Map helps itself to that condition without showing why an outcome's occurring on a branch the agent will never inhabit should subtract anything from her authorship of what she did here. The Everettian's contrary judgement—that authorship is a branch-local relation between an agent's reasons and her action, and that events on branches she has no access to are simply irrelevant to it—is not refuted by anything inside the Map's agency case. It runs counter to the Map's foundational commitments, and that is the honest thing to say about it: the disagreement sits at the framework boundary, closer to it than articles presenting the No-Many-Worlds–agency link as a straightforward entailment of sourcehood have admitted. [[many-worlds-argument|The detailed many-worlds argument]] already marks this for the *indexical* objection, recording global ontological uniqueness as a tenet rather than a derived conclusion; the same marking is owed wherever agency is the route.
 
-Naming the condition does not retract [[tenets#^no-many-worlds|Tenet 4]]. Chosen starting points are what the tenets are, and global exclusion is defensible as one: if consciousness cannot be made multiply actual without ceasing to be what it is, an agent whose alternatives are actual elsewhere is not the sole source of anything. What changes is the accounting. The agency evidence that carries the burden for conscious selection does not also carry the burden for rejecting many-worlds; that second rejection rests on this posit, and the framework's dependency structure should show it doing so.
+The gloss on *nonactual* is doing work, because the word taken on its own is one an Everettian can already satisfy. Wilson (2020) treats Everett branches as genuinely existing worlds whose actuality is indexical—each branch actual only from within, the rest merely possible—so on that account the agent's unchosen alternatives fail to be actual and the branching survives untouched. What the Map needs ruled out is their occurrence: no incompatible alternative may be realised anywhere in the ontology, indexed or otherwise. Spelling that out keeps the posit from passing for a platitude, and it names what the disagreement with Everett turns on.
+
+Naming the condition does not retract [[tenets#^no-many-worlds|Tenet 4]]. Chosen starting points are what the tenets are, and global exclusion is defensible as one: if consciousness cannot be made multiply actual without ceasing to be what it is, an agent whose alternatives are realised elsewhere is not the sole source of anything. What changes is the accounting. The agency evidence that carries the burden for conscious selection does not also carry the burden for rejecting many-worlds; that second rejection rests on this posit, and the framework's dependency structure should show it doing so.
 
 ## The Three Coherence Tensions, Named
 
@@ -63,6 +65,7 @@ These three posits are held, like the tenets themselves, as chosen starting poin
 
 ## References
 
-- Saunders, S. (2010). "Chance in the Everett Interpretation." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
+- Saunders, S. (2010). "Chance in the Everett Interpretation." In S. Saunders, J. Barrett, A. Kent and D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, 181-205. Oxford University Press.
 - Sebens, C. T. and Carroll, S. M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
-- Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+- Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+- Wilson, A. (2020). *The Nature of Contingency: Quantum Physics as Modal Realism*. Oxford University Press.

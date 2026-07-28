@@ -57,5 +57,3 @@ None.
 - The Many-Worlds Defender's and physicalist's rejection of Posit Two (objective single-outcome actualization) and the indexical "I" is a bedrock framework-boundary disagreement, not a fixable flaw. Future reviews should NOT re-flag it as critical.
 - This article is a meta-article about the tenets; a separate "Relation to Site Perspective" section would be redundant because the entire piece *is* an audit of the site's foundational commitments. Its absence is not a missing-required-section defect here.
 - The article is calibration-honest by construction (it argues against evidential double-counting). Future reviews should treat it as a reference point for the possibility/probability-slippage discipline, not a candidate for it.
-</content>
-</invoke>
