@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T09:21:40+00:00'
+ai_modified: '2026-07-28T09:35:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 09:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/argument-from-mechanism]]
+- **Word count**: 2838 → 2883 (+45; `status: soft_warning`, soft 2500 / hard 3500). Length-neutral mode: ~85 words of additions paid for by ~78 words of trimming across the fire/oxygen paragraph, the Map-named-label paragraph, the constrain-vs-establish closer and the lucid-dreaming aside.
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Citation web-verify (all four, at publisher of record)**: the 2026-07-27 refine-draft (`4c61e42a8`) introduced **two references never web-verified** — Granqvist 2005 and Mobbs & Watt 2011 — so the 2026-06-24 ledger did not cover the current reference list.
+  - Yoshihara & Yoshihara 2018, *J. Neurogenetics* 32(2):53–64 — **real-correct**. Verified at PMC6510664. Claim fidelity checked for the first time: the "indispensable and inducing" recommendation is verbatim-faithful; the article's source-scoping to command neurons and optogenetics is accurate.
+  - Granqvist et al. 2005, *Neuroscience Letters* 379(1):1–6, PMID 15849873 — **metadata real-correct; empirical-claim fidelity FAILED**. Seven authors, title, venue, pages, DOI all match; double-blind sham-field control, N=89, confirmed. But the study found "no evidence for any effects of the magnetic fields, neither in the entire group, nor in individuals high in suggestibility" — a null result the article had softened to "a reading weakened further."
+  - Mobbs & Watt 2011, *TiCS* 15(10):447–449, PMID 21852181 — **real-correct**, PubMed type *Review*, and the article treats it as a review not an experiment. Mechanisms match. Two quoted strings verified verbatim against title and abstract.
+  - Southgate & Oquatre-sept 2026-05-08 (self-cite) — **real-correct**; date and title match live frontmatter. Pseudonym left untouched per corpus convention.
+- **Internal quotes re-verified**: the OBE source changed since the last review (`ai_modified: 2026-07-14`), so both quotations were re-checked. Both still verbatim (OBE L99, L47).
+- **Changes**:
+  - **The God Helmet is not an instance of this anatomy (Critical 1).** The article's structure section says the premise "can be solid… The fault lies entirely in the leap to the conclusion," yet the paragraph closed "In each case the induction establishes a sufficient route and is then over-read as the only route" — false of the God Helmet, and contradicted by the Granqvist citation attached to it. With no effect of the fields at all, the sufficiency premise was never established, so there is no sufficiency-to-necessity slide to diagnose. Rewritten in two parts: the null result stated accurately and explicitly assigned to ordinary empirical dispute rather than to this anatomy; near-death research named as supplying "the genuine article." Two accuracy fixes rode along — "temporal-lobe stimulation" → "weak transcranial magnetic fields over the temporal lobes" (Persinger's fields are ~six orders of magnitude weaker than TMS), and "anoxia" → "hypoxia", matching Mobbs & Watt's own term.
+  - **Mobbs & Watt named as the party making the move (Critical 2).** "are then read as showing NDEs are 'nothing but' those artefacts" left the over-reading unattributed when Mobbs and Watt assert it in their own title and abstract. On the corpus's canonical page for this fallacy the exemplar should point at the actual committer. Re-framed with both verbatim quotations, preserving the fairness concession that the mechanisms are real and some are surely operative.
+  - **Portability table (Medium).** Mystical/religious-experience row: direction "materialist-side" → "premise contested", mechanism corrected, one explanatory sentence added after the table.
+- **Self-consistency check**: the article does hold itself to the dualist half of its own discipline — terminal lucidity argues from a structural asymmetry with a stated failability test, the anaesthesia mirror is refused ("the pharmacology licenses neither leap"), the quantum row self-indicts the gap argument "in Map colours", and Tenet 4 is handled by boundary-marking. No possibility/probability slippage.
+- **Reasoning modes**: physicalist on the explanatory gap — Mode Three (boundary-marking; the article concedes the reply as correct). Mobbs and Watt — Mode One after the rewrite, arguing inside their own evidential standards and denying only the exhaustiveness, with no tenet invoked against them. No editor-vocabulary leakage in prose.
+- **Output**: [[reviews/deep-review-2026-07-28-argument-from-mechanism]]
+- **Published**: yes
 
 ## 2026-07-28 09:21 UTC - refine-draft
 - **Status**: Success (partial by design — one of four strands deferred)
