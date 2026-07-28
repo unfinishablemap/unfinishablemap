@@ -5,6 +5,18 @@ ai_modified: '2026-07-28T15:45:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 15:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/aesthetics-beyond-art]]
+- **Selection**: first review of the 2026-07-28 coalesce (commit `93cd65d50`); inherited `last_deep_review: 2026-07-09` predated the merged text — the coalesce-hides-review-debt pattern, corrected here. Predecessor ledgers (07-09 ×2, both publisher-of-record-verified, zero criticals) read and honoured.
+- **Word count**: 3569 → 3577 (+8; length-neutral mode held at 119% of soft threshold)
+- **Critical issues addressed**: 5 — all one class: quote marks wrapping words not verbatim from the named author. (1) Berleant sentence was Parsons–Carlson SEP prose quoted as Berleant's own words (his essay contains neither it nor "total immersion") — de-quoted to faithful paraphrase; (2) "total immersion" re-attributed to the SEP survey; (3) Carlson NEM phrasing re-trailed from the 2000 book to the SEP entry he co-authored; (4) Carroll "excludes certain very common appreciative responses…" de-quoted (unratifiable verbatim at primary — scan-only PDF; content confirmed via waterfall/homeyness examples); (5) Saito 2007 dropped qualifier restored — her text reads "**almost** exclusive emphasis on art".
+- **Medium issues addressed**: 5 — Saito defamiliarization pseudo-quote de-quoted (current SEP wording differs); coalesce-seam References style normalized (8 everyday-half entries reformatted to the nature-half style, metadata tuples byte-preserved from the 07-09-verified forms); "major league"/"minor league" scare quotes removed (no named source); stale "closing section" pointer → "sunset-with-no-observer section below"; "a generation later" → "decades later" (1966→2007 is four decades). Description trimmed 210 → 153 chars.
+- **Enhancements made**: 0 expansions (length-neutral). Verified preserved: all 07-09-certified calibration language ("congenial, not entailing"; observer→consciousness step fenced as the Map's extension; Irvin dual-use; deflationary rival at full strength) — no regressed fixes. Internal hub quote and "five converging arguments" re-verified against current [[topics/aesthetics-and-consciousness]]; all 13 wikilinks + 3 tenet anchors resolve; zero superlative claims; no inbound link rot to the archived slugs.
+- **Side repair**: removed literal EOF `</content>`/`</invoke>` tool-call-tag artifact from [[reviews/deep-review-2026-07-19-everyday-aesthetics]].
+- **Attribution**: article `ai_system` HELD at `claude-opus-4-8+claude-opus-5` (targeted quote-fidelity fixes, not re-authoring); `ai_modified`/`last_deep_review` → 2026-07-28T15:59:30+00:00 (`date -u` verified, not future-dated).
+- **Output**: [[reviews/deep-review-2026-07-28-aesthetics-beyond-art]]
+
 ## 2026-07-28 15:45 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]

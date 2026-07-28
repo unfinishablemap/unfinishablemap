@@ -1,10 +1,10 @@
 ---
 title: "Aesthetics Beyond Art: Nature and the Everyday"
-description: "The two beyond-art subfields—environmental aesthetics and everyday aesthetics—share one founding disanalogy and leave two questions open: how far the aesthetic scales, and where aesthetic value lives."
+description: "Environmental and everyday aesthetics share one founding disanalogy and two open questions—how far the aesthetic scales, and where aesthetic value lives."
 created: 2026-07-09
 modified: 2026-07-28
 human_modified:
-ai_modified: 2026-07-28T11:56:04+00:00
+ai_modified: 2026-07-28T15:59:30+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-09T07:26:25+00:00
+last_deep_review: 2026-07-28T15:59:30+00:00
 coalesced_from:
   - "/topics/everyday-aesthetics/"
   - "/topics/the-aesthetics-of-nature-and-natural-beauty/"
@@ -42,7 +42,7 @@ The Map's interest is that both questions cut in two directions at once, and the
 
 For most of the twentieth century, analytic aesthetics effectively equated aesthetics with the philosophy of art. The concepts were built accordingly: disinterested contemplation, the framed aesthetic object, the free play of imagination. Whether those concepts transfer beyond art is the question that founds both subfields, and the different answers to it generate the main rival theories in each.
 
-Ronald Hepburn's 1966 essay "Contemporary Aesthetics and the Neglect of Natural Beauty" is credited with reopening the subject. Hepburn argued that art frequently supplies a *misleading* model for appreciating nature: appreciating a painting means standing before a framed object made for contemplation, whereas appreciating a valley means being *inside* an unframed environment, moving through it, taking it in through every sense at once. Nature-appreciation, on his account, is as rich as art-appreciation while being structurally different in kind. That art-versus-nature disanalogy is the ground the entire subsequent debate stands on — and the parallel move, a generation later, founded everyday aesthetics too.
+Ronald Hepburn's 1966 essay "Contemporary Aesthetics and the Neglect of Natural Beauty" is credited with reopening the subject. Hepburn argued that art frequently supplies a *misleading* model for appreciating nature: appreciating a painting means standing before a framed object made for contemplation, whereas appreciating a valley means being *inside* an unframed environment, moving through it, taking it in through every sense at once. Nature-appreciation, on his account, is as rich as art-appreciation while being structurally different in kind. That art-versus-nature disanalogy is the ground the entire subsequent debate stands on — and the parallel move, decades later, founded everyday aesthetics too.
 
 The two subfields divide the non-art remainder between them. Environmental aesthetics takes landscapes and wilderness. Everyday aesthetics takes what is left over and largest: the aesthetic dimension of non-art, non-scenic, ongoing life — grooming, cooking, tidying, commuting, the ambient qualities of a familiar room.
 
@@ -52,13 +52,13 @@ The two subfields divide the non-art remainder between them. Environmental aesth
 
 The field's organizing disagreement is whether appropriate appreciation of nature requires *knowledge*, in the way appreciating a painting arguably requires knowing something of art history.
 
-**Scientific cognitivism** answers yes. Allen Carlson's Natural Environmental Model holds that appreciating a natural environment appropriately requires regarding it, in his phrasing, "in terms of the characterization of that environment provided by natural science." Geology, ecology, and evolutionary biology are not decoration on the experience; they fix the appropriate object of appreciation and the categories under which it is seen — much as Kendall Walton argued that what we correctly perceive in an artwork depends on the category we assign it. Knowing that a whale is a mammal, or that a seemingly barren wetland is a dense ecosystem, changes what there is to appreciate. Carlson's aim is partly to secure *objectivity*: a distinction between correct and incorrect appreciation, rather than mere pleasant reaction.
+**Scientific cognitivism** answers yes. Allen Carlson's Natural Environmental Model holds that appreciating a natural environment appropriately requires regarding it, as the Stanford Encyclopedia survey he co-authored with Glenn Parsons puts it, "in terms of the characterization of that environment provided by natural science." Geology, ecology, and evolutionary biology are not decoration on the experience; they fix the appropriate object of appreciation and the categories under which it is seen — much as Kendall Walton argued that what we correctly perceive in an artwork depends on the category we assign it. Knowing that a whale is a mammal, or that a seemingly barren wetland is a dense ecosystem, changes what there is to appreciate. Carlson's aim is partly to secure *objectivity*: a distinction between correct and incorrect appreciation, rather than mere pleasant reaction.
 
 Three families of view resist the primacy of knowledge.
 
-**The aesthetics of engagement** (Arnold Berleant) rejects the distanced, contemplative stance inherited from Kant. On Berleant's account, "disinterested appreciation, with its isolating, distancing, and objectifying gaze, is out of place in the aesthetic experience of nature." Environments have no frame and no fixed viewpoint; the appreciator is continuous with the surroundings, perceiving bodily and multisensorially, seeking "total immersion" rather than a detached view. Berleant's project is phenomenological — a description of how environmental perception actually works — rather than a metaphysics of mind.
+**The aesthetics of engagement** (Arnold Berleant) rejects the distanced, contemplative stance inherited from Kant. Disinterested appreciation, on Berleant's account, isolates, distances, and objectifies — the wrong posture for environments, which have no frame and no fixed viewpoint. The appreciator is continuous with the surroundings, perceiving bodily and multisensorially, seeking what Parsons and Carlson's survey sums up as "total immersion" rather than a detached view. Berleant's project is phenomenological — a description of how environmental perception actually works — rather than a metaphysics of mind.
 
-**The arousal model** (Noël Carroll) holds that being emotionally *moved* by nature is a legitimate aesthetic response that cognitivism wrongly excludes. In "On Being Moved by Nature," Carroll observes that cognitivism "excludes certain very common appreciative responses to nature" — the thrill at a towering waterfall, the sense of homeyness in a silent grove. These require no science to be genuine. Carroll offers this against cognitivism, not as a theory of consciousness, though he speculates that some such responses might have a naturalistic, even evolutionary, grounding.
+**The arousal model** (Noël Carroll) holds that being emotionally *moved* by nature is a legitimate aesthetic response that cognitivism wrongly excludes. In "On Being Moved by Nature," Carroll objects that cognitivism excludes certain very common appreciative responses to nature — the thrill at a towering waterfall, the sense of homeyness in a silent grove. These require no science to be genuine. Carroll offers this against cognitivism, not as a theory of consciousness, though he speculates that some such responses might have a naturalistic, even evolutionary, grounding.
 
 **The imagination model** (Emily Brady, building on Hepburn) centers imagination, emotion, and meaning in appreciating nature well. Brady adds a normative constraint — "imagining well" — so the account is disciplined by the object rather than being anything-goes subjectivism. Her larger project deliberately integrates subjective and objective approaches rather than choosing between them.
 
@@ -68,7 +68,7 @@ Between the poles sits a **pluralist, skeptical middle**. Malcolm Budd argues th
 
 Carlson also defends a striking further thesis: **positive aesthetics**. Insofar as nature is pristine — untouched by human hands — it is always aesthetically good and never ugly. There are no negative aesthetic verdicts on wild nature. The claim is startling against the backdrop of art criticism, which routinely delivers negative judgments; no comparable verdict, on this view, applies to a swamp, a scree slope, or a tangle of dead wood once they are seen under the right scientific categories, which reveal order, function, and adaptive fit where the untutored eye saw only mess.
 
-Positive aesthetics is contested. Budd, Stan Godlovitch, and later Glenn Parsons ask whether "all pristine nature is beautiful" is a substantive discovery or a stipulation smuggled in by the choice of scientific categories — if you decide in advance to appreciate everything in terms of ecological function, positive verdicts may be built into the method rather than found in the world. The thesis also sits ambiguously on the observer question: it can read as locating beauty *in the object* (nature is good in itself), or as a claim about the deliverances of a *knowledgeable observer* (nature comes out good when correctly appreciated). That ambiguity is exactly what the closing section turns on.
+Positive aesthetics is contested. Budd, Stan Godlovitch, and later Glenn Parsons ask whether "all pristine nature is beautiful" is a substantive discovery or a stipulation smuggled in by the choice of scientific categories — if you decide in advance to appreciate everything in terms of ecological function, positive verdicts may be built into the method rather than found in the world. The thesis also sits ambiguously on the observer question: it can read as locating beauty *in the object* (nature is good in itself), or as a claim about the deliverances of a *knowledgeable observer* (nature comes out good when correctly appreciated). That ambiguity is exactly what the sunset-with-no-observer section below turns on.
 
 ## The Everyday
 
@@ -76,7 +76,7 @@ Positive aesthetics is contested. Budd, Stan Godlovitch, and later Glenn Parsons
 
 Everyday aesthetics insists that the aesthetic does not begin at the gallery door or the scenic overlook. It suffuses the mundane: a made bed, a clean glass, the texture of a well-done chore, weather, the neat-or-messy state of a desk.
 
-Two books secured the field's foothold. Yuriko Saito's *Everyday Aesthetics* (Oxford, 2007) argues that Western aesthetics neglected the everyday because of an "exclusive emphasis on art," and Thomas Leddy's *The Extraordinary in the Ordinary* (Broadview, 2012) foregrounds a neglected vocabulary of everyday aesthetic terms — 'neat,' 'messy,' 'pretty,' 'lovely,' 'cute,' 'pleasant,' 'sparkle,' 'shine' — that ordinary talk uses constantly and traditional aesthetics ignored (Leddy had opened this program in earlier articles on surface qualities and on "sparkle and shine"). The sharpest general statement of the field's premise is Sherri Irvin's "The Pervasiveness of the Aesthetic in Ordinary Experience" (2008), which argues that ordinary experience is "replete with aesthetic character."
+Two books secured the field's foothold. Yuriko Saito's *Everyday Aesthetics* (Oxford, 2007) argues that Western aesthetics neglected the everyday because of its "almost exclusive emphasis on art," and Thomas Leddy's *The Extraordinary in the Ordinary* (Broadview, 2012) foregrounds a neglected vocabulary of everyday aesthetic terms — 'neat,' 'messy,' 'pretty,' 'lovely,' 'cute,' 'pleasant,' 'sparkle,' 'shine' — that ordinary talk uses constantly and traditional aesthetics ignored (Leddy had opened this program in earlier articles on surface qualities and on "sparkle and shine"). The sharpest general statement of the field's premise is Sherri Irvin's "The Pervasiveness of the Aesthetic in Ordinary Experience" (2008), which argues that ordinary experience is "replete with aesthetic character."
 
 ### Continuity with Art, or a Break from It
 
@@ -92,7 +92,7 @@ This is the field's defining and unresolved problem, and the one that bears most
 
 The **expansive** camp welcomes the broad scope. Irvin's contribution is the most pointed: she argues that experiences which are "simple, lacking in unity or closure, and characterized by limited or fragmented awareness" are not thereby disqualified from being aesthetic. Kevin Melchionne, in "The Definition of Everyday Aesthetics" (2013), offers a bounding definition meant to keep the field coherent without contracting it: everyday aesthetics concerns the *recurring, ongoing* aesthetic engagements of daily routine and self- and home-management — not one-off extraordinary encounters — and ties its payoff to an *aesthetic well-being* accrued across a life rather than to peak episodes.
 
-The **containment** camp fears dilution and proposes thresholds. Three responses recur. One is a sliding scale of intensity: some aesthetic qualities are "major league" or heavy-weight and others "minor league" or light-weight, the latter still genuinely aesthetic but distinguished by degree. A second is a *defamiliarization* threshold — the everyday counts as aesthetic when attention transfigures it (the Leddy-style "aura") — though Saito objects that making defamiliarization a precondition "risks losing the very everyday-ness of everyday experience," since the point was to find the aesthetic *in* the ordinary, not by escaping it. A third worries about intersubjectivity: if everyday aesthetic response bottoms out in private bodily sensation, it may collapse into subjective relativism and lose the shared standard (*sensus communis*) that aesthetic judgment traditionally claimed.
+The **containment** camp fears dilution and proposes thresholds. Three responses recur. One is a sliding scale of intensity: some aesthetic qualities are major-league or heavy-weight and others minor-league or light-weight, the latter still genuinely aesthetic but distinguished by degree. A second is a *defamiliarization* threshold — the everyday counts as aesthetic when attention transfigures it (the Leddy-style "aura") — though Saito objects that making defamiliarization a precondition risks losing the very everyday-ness of everyday experience; the point was to find the aesthetic *in* the ordinary, not by escaping it. A third worries about intersubjectivity: if everyday aesthetic response bottoms out in private bodily sensation, it may collapse into subjective relativism and lose the shared standard (*sensus communis*) that aesthetic judgment traditionally claimed.
 
 No resolution commands the field. That is precisely why the scope problem, rather than any settled doctrine, is what the Map must engage.
 
@@ -147,13 +147,13 @@ One point sharpens the caution. Irvin is **dual-use**, not an ally. Her pervasiv
 1. Budd, M. (2002). *The Aesthetic Appreciation of Nature: Essays on the Aesthetics of Nature*. Oxford: Clarendon Press.
 1. Brady, E. (2003). *Aesthetics of the Natural Environment*. Edinburgh: Edinburgh University Press.
 1. Parsons, G. & Carlson, A. "Environmental Aesthetics." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/environmental-aesthetics/
-1. Saito, Yuriko. *Everyday Aesthetics*. Oxford University Press, 2007.
-1. Saito, Yuriko. *Aesthetics of the Familiar: Everyday Life and World-Making*. Oxford University Press, 2017.
-1. Irvin, Sherri. "The Pervasiveness of the Aesthetic in Ordinary Experience." *The British Journal of Aesthetics* 48, no. 1 (2008): 29–44.
-1. Leddy, Thomas. *The Extraordinary in the Ordinary: The Aesthetics of Everyday Life*. Peterborough, Ontario: Broadview Press, 2012.
-1. Leddy, Thomas. "Everyday Surface Aesthetic Qualities: 'Neat,' 'Messy,' 'Clean,' 'Dirty'." *The Journal of Aesthetics and Art Criticism* 53, no. 3 (1995): 259–268.
-1. Leddy, Thomas. "Sparkle and Shine." *The British Journal of Aesthetics* 37, no. 3 (1997): 259–273.
-1. Melchionne, Kevin. "The Definition of Everyday Aesthetics." *Contemporary Aesthetics* 11 (2013).
-1. Haapala, Arto. "On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place." In Andrew Light & Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*. New York: Columbia University Press, 2005, pp. 39–55.
+1. Saito, Y. (2007). *Everyday Aesthetics*. Oxford: Oxford University Press.
+1. Saito, Y. (2017). *Aesthetics of the Familiar: Everyday Life and World-Making*. Oxford: Oxford University Press.
+1. Irvin, S. (2008). "The Pervasiveness of the Aesthetic in Ordinary Experience." *The British Journal of Aesthetics* 48(1), pp. 29–44.
+1. Leddy, T. (2012). *The Extraordinary in the Ordinary: The Aesthetics of Everyday Life*. Peterborough, Ontario: Broadview Press.
+1. Leddy, T. (1995). "Everyday Surface Aesthetic Qualities: 'Neat,' 'Messy,' 'Clean,' 'Dirty'." *The Journal of Aesthetics and Art Criticism* 53(3), pp. 259–268.
+1. Leddy, T. (1997). "Sparkle and Shine." *The British Journal of Aesthetics* 37(3), pp. 259–273.
+1. Melchionne, K. (2013). "The Definition of Everyday Aesthetics." *Contemporary Aesthetics* 11.
+1. Haapala, A. (2005). "On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place." In A. Light & J. M. Smith (eds.), *The Aesthetics of Everyday Life*, pp. 39–55. New York: Columbia University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-01-22). Aesthetics and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/aesthetics-and-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
