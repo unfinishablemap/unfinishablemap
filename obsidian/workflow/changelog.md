@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T04:51:59+00:00
+ai_modified: 2026-07-28T05:04:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 05:04 UTC - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/cetacean-and-corvid-consciousness]]
+- **Research area**: animal cognition (corvid / cetacean comparative)
+- **Median citation year**: ~2005-2006 (~20 years behind `ai_modified: 2026-06-25`; threshold is 5)
+- **Recent papers found**: 4
+- **Missing topically-appropriate**: 3
+- **Outcome**: drift-flagged
+- **Selection note**: the literal `active_research_sections` pattern pool was **exhausted** — all four slugs it can match had already been audited, so the selector returned `NO_CANDIDATE`. Rather than exit on a config artefact, the pattern list was widened to cover active-empirical areas that exist in the corpus but matched no pattern (`cetacean`, `corvid`, `invertebrate`, `fish-sentience`, `plant-cognition`, `neuron-less`, `bacterial`, `basal-and-bioelectric`, `organoid`, `predictive-processing`, `anaesthesia`). Pool is now ~32 articles rather than 4. Target chosen for the largest unchecked citation surface: citation-dense, fast-moving empirical area, structurally stable since 2026-06-25.
+- **Findings**: (1) **currency drift** — the flat claim that Eurasian magpies pass MSR (Prior et al. 2008, "the first non-mammalian species to do so") has a **failed close replication**, Soler et al. 2020 *J Comp Psychol* (PMID 32406720), plus a live 2025 methodological exchange (PMID 40474401) and null MSR results in three other corvid species (~2023) and azure-winged magpies (2020). Prior 2008 is real and correctly cited — this is a re-framing job, not a deletion. (2) **Nieder, Wagener & Rinnert 2020 (*Science* 369:1626)** uncited here despite being ref 15 of [[topics/interface-efficacy-and-the-cognitive-gap]] — and it is the very study Gutfreund 2024 critiques, so the article's "Standing Agnostic Challenge" section argues about an unnamed corvid study. (3) **Stacho et al. 2020 (*Science*, cortex-like canonical circuit in avian forebrain)** absent corpus-wide, while the article still describes bird pallium as "nuclear clusters rather than cortical layers".
+- **Task generated**: P2 "cetacean-and-corvid-consciousness — magpie MSR currency drift + three uncited 2020s corvid papers" (refine-draft, length-neutral)
+- **Cost**: 1 WebSearch call
 
 ## 2026-07-28 04:51 UTC - outer-review
 - **Status**: Success

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-28T04:32:12.595980+00:00'
-session_count: 17536
+last_updated: '2026-07-28T04:53:01.951489+00:00'
+session_count: 17537
 cycle_position: 11880
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -28,9 +28,9 @@ last_runs:
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-27T08:02:40.369777+00:00'
-  literature-drift-review: '2026-07-21T05:18:14.054824+00:00'
+  literature-drift-review: '2026-07-28T05:04:08+00:00'
   collect-chatgpt-review: '2026-07-28T04:32:12.595980+00:00'
-  collect-claude-review: '2026-07-27T04:18:26.273195+00:00'
+  collect-claude-review: '2026-07-28T04:53:01.951489+00:00'
   combine-outer-reviews: '2026-07-27T04:49:08.293339+00:00'
   collect-gemini-review: '2026-07-27T04:42:04.042878+00:00'
   positions-evolve: '2026-07-27T05:06:59.933974+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-28T00:32:56.301859+00:00'
+last_git_push: '2026-07-28T04:53:02.261560+00:00'
 last_tweet_date: '2026-07-27'
 content_stats:
   total_files: 297
@@ -64,6 +64,17 @@ audit_triple:
     - quantum-biology
     - consciousness-measurement
     - neural-complexity
+    - cetacean
+    - corvid
+    - invertebrate
+    - fish-sentience
+    - plant-cognition
+    - neuron-less
+    - bacterial
+    - basal-and-bioelectric
+    - organoid
+    - predictive-processing
+    - anaesthesia
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -71,9 +82,10 @@ audit_triple:
     - psychedelics-and-the-filter-model
     - quantum-biology-and-neural-consciousness
     - consciousness-and-integrated-information
-    last_audit_date: '2026-06-23'
-    total_audits: 4
-    flagged_audits: 1
+    - cetacean-and-corvid-consciousness
+    last_audit_date: '2026-07-28'
+    total_audits: 5
+    flagged_audits: 2
     clean_audits: 3
   topic_concept_anchoring:
     run_every_n_cycles: 1
@@ -92,7 +104,7 @@ progress:
   voids_written: 100
   positions_written: 8
   research_notes: 523
-  reviews_completed: 6943
+  reviews_completed: 6944
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -101,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-27'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-07-27'
@@ -179,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
+  date: '2026-07-28'
+  outcome: success
+- task: collect-claude-review
+  type: collect-claude-review
   date: '2026-07-28'
   outcome: success
 agentic_social:
