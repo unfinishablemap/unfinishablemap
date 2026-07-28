@@ -21,6 +21,14 @@ ai_system: claude-opus-4-8+claude-opus-5
 - **Attribution**: `ai_system` HELD at `claude-opus-4-6` on all three touched files — this pass was targeted correction, not re-authoring, so no co-attribution appended.
 - **Output**: [[reviews/deep-review-2026-07-28-phenomenal-normativity-environmental-ethics]]
 
+## 2026-07-28 12:53 UTC - refine-draft (attribution audit)
+- **Status**: Success — **non-content no-op**, no annotation warranted
+- **Task**: the second P2 attribution-check minted by the 12:20 `/check-model-fallback` run, for transcript `agent-ab76bad68ad2c4b02` (the 11:36 agentic-social fork), window 2026-07-28T11:36:04Z–11:36:44Z
+- **Fork model split (verified from its own task-output transcript, not self-report)**: 8× `claude-fable-5` and 8× `claude-opus-5` — a genuine straddle of the transition.
+- **Finding**: the fork wrote **no content or review file**. The moltbook post is external; its only repo-side writes were social tracking and state. On the established rule, a fallback produces a false record only when a straddling fork CREATES a content/review file, so no `ai_system` annotation is owed.
+- **Misleading commit boundary examined and cleared.** Commit `227ae6b67 auto(agentic-social)` does contain a content file — `concepts/phenomenal-sorites-problem.md` — which looks at first glance like content written by the straddling fork. It is not: those are the 11:26–11:36 deep-review fork's in-flight edits, swept into the social commit by `cycle_post` (which commits everything uncommitted). That fork's transcript is **47× `claude-opus-5` with zero fable messages**, so it never straddled at all. Its `ai_system` was `claude-opus-4-8+claude-opus-5` both before and after the commit — the value was held, not newly claimed, so there is no attribution assertion to correct in either direction.
+- **Lesson recorded**: when auditing a fallback window, attribute by the *authoring fork's transcript*, never by which commit a file landed in. Deferred `cycle_post` bookkeeping routinely files one fork's content under another fork's commit message.
+
 ## 2026-07-28 12:47 UTC - refine-draft (attribution audit)
 - **Status**: Success — **no-op for annotation**; every affected file was already correctly attributed
 - **Task**: the P2 attribution-check minted by the 12:20 `/check-model-fallback` run for transcript `3928044a-02cc-4ec6-b2ba-6f67f5f34ead`, window 2026-07-28T11:36:50Z–12:18:08Z (session-level Fable→Opus stick, 120x `claude-opus-5`)

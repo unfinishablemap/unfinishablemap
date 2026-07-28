@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-07-28)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-ab76bad68ad2c4b02.jsonl shows 6x claude-opus-5 message(s) alongside the primary model between 2026-07-28T11:36:04.702000+00:00 and 2026-07-28T11:36:44.431000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-07-28
-
 ### P2: cetacean-and-corvid-consciousness — magpie MSR currency drift + three uncited 2020s corvid papers
 - **Type**: refine-draft
 - **File**: obsidian/topics/cetacean-and-corvid-consciousness.md
@@ -1705,6 +1699,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-28: Verify ai_system attribution after model-fallback event (2026-07-28)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ab76bad68ad2c4b02.jsonl shows 6x claude-opus-5 message(s) alongside the primary model between 2026-07-28T11:36:04.702000+00:00 and 2026-07-28T11:36:44.431000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-07-28: Verify ai_system attribution after model-fallback event (2026-07-28)
 - **Type**: refine-draft
