@@ -105,7 +105,7 @@ The "left-hemisphere interpreter" is Michael Gazzaniga and Joseph LeDoux's name 
   2. The **phenomenal unity of the moment** — that there is something it is like to undergo a single, bound field of experience *now*.
 - The interpreter data establish (1) decisively. They do **not** touch (2): the interpreter operates *on already-conscious contents*. It narrates experiences that are, by hypothesis, already given as experienced. Confabulating a false reason for pointing at the shovel presupposes that the pointing, the seeing, and the felt puzzlement are already present as experience for a subject.
 - **Concession (do not hide)**: The interpreter genuinely establishes that introspective reports of *causation and authorship* are unreliable, that the narrating self is partly a construction, and that a great deal of what feels like unified deliberate agency is retrospective. The Map should concede all of this plainly.
-- **Discriminating question, not a proof**: *Does the interpreter construct the phenomenal unity, or merely narrate over a unity that is already phenomenally present?* The confabulation evidence is equally consistent with both. It cannot, on its own, decide against a genuinely unified experiencer — so it under-determines the metaphysical conclusion. This is a possibility-not-proof result: the Map does not prove unity is fundamental; it shows the interpreter argument does not refute it (cf. [[concepts/evidential-status-discipline]]).
+- **Discriminating question, not a proof**: *Does the interpreter construct the phenomenal unity, or merely narrate over a unity that is already phenomenally present?* The confabulation evidence is equally consistent with both. It cannot, on its own, decide against a genuinely unified experiencer — so it under-determines the metaphysical conclusion. This is a possibility-not-proof result: the Map does not prove unity is fundamental; it shows the interpreter argument does not refute it (cf. [[project/evidential-status-discipline]]).
 - **Pinto leverage**: The 2017 "undivided consciousness" results are an independent empirical reason not to over-read even the split-brain case as "two selves," weakening the strongest fragmentation premise.
 
 ### Related tradition: post-hoc rationalization / "telling more than we can know"
@@ -152,7 +152,7 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the interpr
 - [[narrative-coherence]] (concepts/)
 - [[the-self-minimal-narrative-and-substantial]] (concepts/)
 - [[illusionism]] (concepts/) — the position the interpreter is marshalled to support.
-- [[direct-refutation-discipline]] and [[concepts/evidential-status-discipline]] — method disciplines governing the steelman.
+- [[direct-refutation-discipline]] and [[project/evidential-status-discipline]] — method disciplines governing the steelman.
 - No dedicated `confabulation` or `choice-blindness` concept exists yet (only research note `voids-confabulation-void-2026-05-14`); the new article can seed those links or a future stub.
 
 ## Gaps in Research
