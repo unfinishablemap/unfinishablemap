@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T17:55:10+00:00'
+ai_modified: '2026-07-28T18:02:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 18:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/contemplative-path]]
+- **Task**: locus (5 of 5), the final and only two-ground locus of the `/check-tenets` 2026-07-28 No-MWI sweep ([[reviews/tenet-check-2026-07-28]]). Scope held to L199; loci 1–4 untouched.
+- **Both lanes in one paragraph, kept apart**: Rule (A) routes *authorship / selection* claims to the global-exclusion posit and *moral-weight / felt-singularity* claims to indexical grounds. L199 carried one clause of each and answered both indexically. The authorship clause was re-grounded; the felt-singularity clause was left in the indexical lane, which is where it was already correct.
+- **Driver re-verified live before editing**: L199 read "Buddhist practice presupposes that this moment's choices shape this practitioner's future—not that all outcomes occur in parallel. The phenomenology of witness mode includes felt singularity: *this* awareness, *this* moment, not a superposition. Many-worlds defenders argue that practice remains meaningful within each branch, but the Map holds that indexical identity—being *this* practitioner rather than a branching ensemble—matters for what contemplative traditions actually teach. The path is walked by someone in particular."
+- **Changes (a), authorship clause**: "not that all outcomes occur in parallel" was a selection claim answered by the indexical-identity sentence — the crossing Rule (A) forbids. Now: "what branching withholds is the genuine exclusion of the unchosen paths—a `[[tenets/background-commitments|posit the Map adopts]]` rather than derives from what practice presupposes". Links the **file**, no heading anchor, no posit number in prose (verified on disk: the heading is "Posit Three: Global Exclusion of Unchosen Alternatives", so the originating task's "posit (1)" would have been wrong).
+- **Changes (b), felt-singularity clause**: kept indexical, with the honesty repair made in place — felt singularity "is reproduced in every branch, so it grounds the indexical demand rather than refuting branching". The clause no longer reads as a datum that discriminates against branching ("not a superposition" implied it did). The pre-existing Everettian concession was already good and was kept, strengthened only by "and branch-locally it does". The Map's holding is retained ("these traditions address *this* practitioner, not a branching ensemble") and the closing line "The path is walked by someone in particular" is unchanged.
+- **Register inherited, not re-invented**: one model read from each lane before writing, per the task — exclusion lane `concepts/agent-causation.md` §"Relation to Site Perspective" and `topics/consciousness-evolution-and-biology.md` L148 (the "asserted rather than derived from X" construction and the "branch-locally it does" concession both come from there); indexical lane `topics/evaluative-qualia-phenomenal-normativity-across-traditions.md` L108 and `topics/emotion-and-dualism.md` L144 (the *this*-italic demand form). Link text "posit the Map adopts" matches the four other apex uses exactly.
+- **Length — the binding constraint, and the reason four other edits appear in the diff**: `analyze_length` 3988 → **3987** words against apex soft 4000 / hard 5000; status `ok` both ends, net **−1**. The substitution alone ran +23, so it was paid for inside the same section: dropped "The capacity for bidirectional interaction includes the capacity to suspend it." (a verbatim restatement of the preceding clause); merged the Occam paragraph's last two sentences; rewrote the Occam opener, which also repaired a broken construction ("represent data that dismissing as … reflects"); tightened the MQI closing hedge without dropping it. No calibration qualifier was lost in any of the four.
+- **Calibration, not retraction**: Tenet 4 stands. No mechanism or falsifier claim of the "MWI removes the collapse the mechanism needs" form appears in this file, so none was touched. `tenets/background-commitments.md` and all four model files read only, never edited.
+- **Attribution**: `ai_system: claude-opus-4-7` held unchanged per the task (no `+`-join — a grounds re-label is calibration, not re-authoring). `last_deep_review` left at 2026-07-06 (refine, not review); `ai_modified` set to `date -u`-verified 2026-07-28T18:02:19+00:00.
+- **Published**: yes
 
 ## 2026-07-28 17:55 UTC - refine-draft
 - **Status**: Success
