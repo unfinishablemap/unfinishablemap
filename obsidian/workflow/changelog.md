@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T22:12:06+00:00'
+ai_modified: '2026-07-28T22:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 22:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]] and [[topics/leibnizs-mill-argument]] (both loci of the pick completed; no re-scoping needed)
+- **Scope**: citation-fidelity correction only — the explanatory-gap argument itself is untouched. Calibration, not retraction.
+- **Primary-text re-verification (independent of the driver's).** Fetched the PPQ original from newdualism.org and ran `pdftotext`. Page 1 carries a text layer and yields Levine's numbered statements **verbatim**: *"(1) Pain is the firing of C-fibers."* and *"(2) Heat is the motion of molecules."* — confirming heat/molecular motion, not water/H₂O, as his own contrast case. `grep -ci 'water\|H2O'` over the extracted text returns **0**. Caveat recorded honestly: **pages 2–8 of that scan are image-only (0 chars of text layer)**, so this pass independently confirms the *positive* claim (his contrast case is heat) but inherits the driver's two-scan verification for the *negative* claim (zero water/H₂O paper-wide). Consequently the article prose uses **only the page-1-verified verbatim strings** and **paraphrases** the intelligibility point rather than quoting Levine's "makes intelligible… causal role we associate with heat" sentence, which sits on an unverifiable page. Quoting what I could not verify at the primary text would have reintroduced the exact defect class being fixed.
+- **Fix 1 — `concepts/explanatory-gap.md` L62.** The attribution clause read *"Physical identities like 'water = H2O' are explanatorily satisfying because we can see why water has its properties given H2O's properties. But 'pain = C-fiber activation' doesn't satisfy…"* — presenting the post-Levine illustration as **his key insight**. Now reads: *"Levine's own contrast case was heat: 'Heat is the motion of molecules' satisfies because chemistry and physics let us see how molecular motion could play the causal role heat plays. But 'Pain is the firing of C-fibers' doesn't satisfy in the same way."* Both identity statements are now Levine's own wording. Secondary benefit: naming his case as *his own* now implicitly marks the earlier water paragraph as the Map's illustration rather than his.
+- **Protected uses deliberately preserved.** The four other water/H₂O loci in the same file — L52 ("Compare with water…"), L133, L135, L163 — are the **Map's own** comparison and carry no Levine attribution. Verified untouched: the line-level `grep` count went 5 → 4, and `git diff` shows exactly one body line changed per file. The twelve sibling articles the task listed as non-defective were **not opened**.
+- **Fix 2 — `topics/leibnizs-mill-argument.md` L69.** Same substitution inside the same attribution clause; that file's only water/H₂O occurrence, so no protected-use hazard. Now reads *"…identities like 'Pain is the firing of C-fibers' lack the explanatory transparency of his own contrast case, 'Heat is the motion of molecules.'"*
+- **Word counts** (`analyze_length`, before → after): `explanatory-gap.md` **3485 → 3496** (+11; concepts 2500 soft / 3500 hard — stays under hard with 4 words to spare, status `soft_warning` unchanged, so substitution-only discipline was observed and no compensating cuts were needed). `leibnizs-mill-argument.md` **2744 → 2753** (+9; status `ok`, topics 3000 soft).
+- **Attribution**: held both files' existing `ai_system: claude-opus-4-5-20251101` — a citation-fidelity correction is not re-authoring; own model deliberately not appended. `last_deep_review` **not** bumped on either file (the correction is not a review). `ai_modified` set to real UTC `2026-07-28T22:21:40+00:00`, verified with `date -u` and **not** future-dated. `[1m]` ANSI-artifact grep clean on both files.
+- **Published**: yes
 
 ## 2026-07-28 22:12 UTC - deep-review
 - **Status**: Success

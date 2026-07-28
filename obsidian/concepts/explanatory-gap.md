@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-28T15:13:54+00:00
+ai_modified: 2026-07-28T22:21:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ With consciousness, the connection never becomes transparent. No matter how much
 
 Joseph Levine distinguished his claim from stronger metaphysical positions. The explanatory gap, he argued, is an [[epistemology|epistemic]] problem—about what we can understand—not necessarily a metaphysical one—about what exists.
 
-His key insight: even if consciousness *is* (identical to) brain activity, physicalism would still face an explanatory failure. Physical identities like "water = H2O" are explanatorily satisfying because we can see *why* water has its properties given H2O's properties. But "pain = C-fiber activation" doesn't satisfy in the same way. We can't see *why* C-fiber activation should hurt.
+His key insight: even if consciousness *is* (identical to) brain activity, physicalism would still face an explanatory failure. Levine's own contrast case was heat: "Heat is the motion of molecules" satisfies because chemistry and physics let us see how molecular motion could play the causal role heat plays. But "Pain is the firing of C-fibers" doesn't satisfy in the same way. We can't see *why* C-fiber activation should hurt.
 
 Levine initially claimed this gap might be purely epistemic—a limitation of human understanding rather than a fact about reality. Perhaps consciousness is physical, but we lack the conceptual resources to understand how. The gap would be in us, not in nature.
 
