@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-28T19:55:53.207924+00:00'
-session_count: 17628
+last_updated: '2026-07-28T20:12:02.210494+00:00'
+session_count: 17629
 cycle_position: 11939
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-28T04:06:13.834731+00:00'
   refine-draft: '2026-07-28T19:52:41.190738+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-28T19:47:50.059448+00:00'
+  replenish-queue: '2026-07-28T20:12:02.210494+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-28T08:02:37.152878+00:00'
@@ -121,10 +121,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-28'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-28'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-07-28'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-28'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-28'
   outcome: success
 agentic_social:
@@ -1114,38 +1114,39 @@ queue_status:
     immediately -- the Chinese-tradition refine completed at 19:52 (eac88131c) and
     the agentic-social topic-dedup P2 was DIVERTED below the Completed header by the
     cycle driver as an operator design call, so the parser correctly stops counting
-    it. Documented replenish-at-floor alternation, NOT deadlock. SOURCE (new this run):
-    unminted findings parked by a same-day pessimistic review. reviews/pessimistic-2026-07-28-indexical-identity-quantum-measurement.md
+    it. Documented replenish-at-floor alternation, NOT deadlock. SOURCE (new this
+    run): unminted findings parked by a same-day pessimistic review. reviews/pessimistic-2026-07-28-indexical-identity-quantum-measurement.md
     section Sweep Notes ran an inline->References ledger-direction sweep, found two
-    gaps BEYOND its target file, and states outright they were "noted here rather than
-    minted, to avoid the same-file task pileup pattern" -- deliberately parked, so
-    not duplicates. BOTH RE-VERIFIED LIVE ON DISK, not taken on the review word: (1)
-    concepts/penfield-interactionist-dualism.md -- Eccles at L46/48/60/71, References
+    gaps BEYOND its target file, and states outright they were "noted here rather
+    than minted, to avoid the same-file task pileup pattern" -- deliberately parked,
+    so not duplicates. BOTH RE-VERIFIED LIVE ON DISK, not taken on the review word:
+    (1) concepts/penfield-interactionist-dualism.md -- Eccles at L46/48/60/71, References
     has 8 entries and no Eccles; the load-bearing locus is L48, the article own prose
     (not a quotation) attributing the Popper collaboration and the psychon/dendron
     quantum-probability-field proposal with zero source. L46 has PARTIAL COVER (it
     quotes the SEP dualism entry, which IS ledgered as Robinson 2025) and the task
     says so, to stop an over-correction. 1611w vs 2500 soft -- ample headroom. (2)
     concepts/objectivity-and-consciousness.md -- Levine (1983) carries a full paragraph
-    at L86 (pain=C-fiber vs water=H2O, the epistemic-vs-ontological pivot the Map states
-    its own position against) and the 9-entry References block has no Levine. 2535w,
-    already soft_warning, so the task is scoped to the ledger line only. Both fixes
-    can inherit reference forms ALREADY publisher-verified elsewhere in the corpus (Eccles
-    1994 in 5 files, Beck+Eccles 1992 in 6 and web-verified in the W25 inline-orphan
-    sweep, Levine 1983 in 12+), so neither needs a fresh web check; the one item that
-    does -- Popper+Eccles 1977, absent from the whole corpus -- is flagged VERIFY-OR-DROP.
-    SPLIT INTO TWO TASKS ON PURPOSE, not consolidated, because cycle_post closes multi-file
-    tasks after ONE file (that trap fired repeatedly today). Appended at the END of
-    Active Tasks, shifting no existing line numbers. FALSE POSITIVE CAUGHT AND NOT
-    MINTED: the same audit found the SEP quotation in penfield L46 reads "some distinguished
-    neuroscientists" while its own source research note research/penfield-interactionist-dualism-2026-07-12.md
-    L55 records "Several distinguished neuroscientists" as VERIFIED-at-source. WebFetch
-    of plato.stanford.edu/entries/dualism confirms the live text is "some" -- the ARTICLE
-    is correct and the research note is the wrong one. Low severity, research-note-only,
-    NOT minted; recorded here so a later pass does not "fix" the correct article. EIGHT-SOURCE
-    AUDIT (delta only -- run 879 audited all eight 26 minutes earlier and nothing structural
-    moved): chain, unconsumed-research, gap/caps, orphans, positions-7a and applied-apex
-    all unchanged from that note. Staleness re-checked: the top get_review_candidates
+    at L86 (pain=C-fiber vs water=H2O, the epistemic-vs-ontological pivot the Map
+    states its own position against) and the 9-entry References block has no Levine.
+    2535w, already soft_warning, so the task is scoped to the ledger line only. Both
+    fixes can inherit reference forms ALREADY publisher-verified elsewhere in the
+    corpus (Eccles 1994 in 5 files, Beck+Eccles 1992 in 6 and web-verified in the
+    W25 inline-orphan sweep, Levine 1983 in 12+), so neither needs a fresh web check;
+    the one item that does -- Popper+Eccles 1977, absent from the whole corpus --
+    is flagged VERIFY-OR-DROP. SPLIT INTO TWO TASKS ON PURPOSE, not consolidated,
+    because cycle_post closes multi-file tasks after ONE file (that trap fired repeatedly
+    today). Appended at the END of Active Tasks, shifting no existing line numbers.
+    FALSE POSITIVE CAUGHT AND NOT MINTED: the same audit found the SEP quotation in
+    penfield L46 reads "some distinguished neuroscientists" while its own source research
+    note research/penfield-interactionist-dualism-2026-07-12.md L55 records "Several
+    distinguished neuroscientists" as VERIFIED-at-source. WebFetch of plato.stanford.edu/entries/dualism
+    confirms the live text is "some" -- the ARTICLE is correct and the research note
+    is the wrong one. Low severity, research-note-only, NOT minted; recorded here
+    so a later pass does not "fix" the correct article. EIGHT-SOURCE AUDIT (delta
+    only -- run 879 audited all eight 26 minutes earlier and nothing structural moved):
+    chain, unconsumed-research, gap/caps, orphans, positions-7a and applied-apex all
+    unchanged from that note. Staleness re-checked: the top get_review_candidates
     rows still carry ai_modified of TODAY and remain churn-excluded, and personal-identity
     + quantum-biology stay human-length-parked. Length re-run: get_length_warnings
     top rows are research/ notes and positions/ registers plus already-parked flagships;
