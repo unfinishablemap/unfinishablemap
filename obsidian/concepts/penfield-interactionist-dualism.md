@@ -4,7 +4,7 @@ description: "A human-AI examination of Wilder Penfield's clinical case for inte
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-13T23:24:50+00:00
+ai_modified: 2026-07-28T21:46:03+00:00
 last_deep_review: 2026-07-13T23:24:50+00:00
 draft: false
 topics: []
@@ -45,7 +45,7 @@ Two features of the book bear on how much weight the metaphor can carry. First, 
 
 Penfield sits within a small lineage of twentieth-century neuroscientists who defended dualism against the materialist tide. The *Stanford Encyclopedia of Philosophy* entry on dualism notes that "some distinguished neuroscientists, such as Charles Sherrington (1951), Wilder Penfield (1975) and John Eccles (1994) continued to defend dualism throughout the second half of the twentieth century."
 
-The pairing with Eccles is especially apt, and the two are complementary. Eccles (with Popper, and later in the psychon/dendron quantum-probability-field proposal) offered a candidate *mechanism* for mind-to-brain action at the synapse. Penfield offered *clinical evidence* of the will's non-localizability but pointedly declined to propose any mechanism. Between them they occupy the two halves of the interactionist case: Eccles the mechanism side, Penfield the phenomenological-clinical side. Penfield's contribution matters to a project like the Map precisely because it is *independent* of the contested quantum-interface machinery—an empirical foothold for the same conclusions that does not ride on the quantum bet.
+The pairing with Eccles is especially apt, and the two are complementary. Eccles worked the *mechanism* side in two phases. The interactionist collaboration with Popper argued the philosophical and neurological case for a self-conscious mind acting on the brain, but pitched that action at the level of cortical modules rather than the individual synapse (Popper & Eccles 1977). The later proposal developed with the physicist Friedrich Beck did reach the synapse, modelling transmitter release as a quantum tunnelling process in which voluntary action momentarily raises the probability of vesicular emission across thousands of synapses (Beck & Eccles 1992); Eccles then paired each cortical *dendron* with a mental unit, the *psychon* (Eccles 1994). Penfield offered *clinical evidence* of the will's non-localizability but pointedly declined to propose any mechanism. Between them they occupy the two halves of the interactionist case: Eccles the mechanism side, Penfield the phenomenological-clinical side. Penfield's contribution matters to a project like the Map precisely because it is *independent* of the contested quantum-interface machinery—an empirical foothold for the same conclusions that does not ride on the quantum bet.
 
 ## The physicalist reply
 
@@ -78,6 +78,9 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 1. Penfield, W., & Rasmussen, T. (1950). *The Cerebral Cortex of Man: A Clinical Study of Localization of Function*. Macmillan.
 1. Penfield, W., & Jasper, H. (1954). *Epilepsy and the Functional Anatomy of the Human Brain*. Little, Brown.
 1. Robinson, H. (2025). "Dualism." *Stanford Encyclopedia of Philosophy* (substantive revision Oct 17, 2025). https://plato.stanford.edu/entries/dualism/
+1. Popper, K. R., & Eccles, J. C. (1977). *The Self and Its Brain: An Argument for Interactionism*. Springer.
+1. Beck, F., & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361. doi:10.1073/pnas.89.23.11357
+1. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
 1. Blakemore, S.-J., Wolpert, D. M., & Frith, C. D. (2002). "Abnormalities in the awareness of action." *Trends in Cognitive Sciences*, 6(6), 237-242.
 1. Synofzik, M., Vosgerau, G., & Newen, A. (2008). "Beyond the comparator model: A multifactorial two-step account of agency." *Consciousness and Cognition*, 17(1), 219-239.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/

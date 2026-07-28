@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T21:28:28+00:00'
+ai_modified: '2026-07-28T21:46:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 21:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/penfield-interactionist-dualism]]
+- **Task**: inline→References ledger gap parked (not minted) by `reviews/pessimistic-2026-07-28-indexical-identity-quantum-measurement.md` §"Sweep Notes"; minted by /replenish-queue 2026-07-28T20:05Z.
+- **Defect fixed (L48, article's own prose, not a quotation)**: "Eccles (with Popper, and later in the psychon/dendron quantum-probability-field proposal) offered a candidate *mechanism* for mind-to-brain action at the synapse." Three distinct sourceable claims fused into one parenthetical, none of them ledgered — the `## References` block had 8 entries and no Eccles entry.
+- **Attribution split installed**: the clause was decomposed so each claim lands on its own source, and one substantive attribution error was corrected in the process. The Popper collaboration did *not* locate interaction at the synapse — Eccles's half of *The Self and Its Brain* pitches mind-to-brain action at the level of cortical modules (the "detector and amplifier" framing). The synapse-level quantum-probability mechanism is Beck & Eccles 1992 (quantum tunnelling model of exocytosis; voluntary action raises vesicular-emission probability across thousands of synapses); the psychon/dendron pairing is Eccles 1994, elaborating the model he developed jointly with Friedrich Beck in 1991–92. The original text's "at the synapse" therefore over-reached backwards onto the 1977 book.
+- **References added (3, all live-verified at publisher this pass — not taken on corpus recall)**:
+  - `Popper, K. R., & Eccles, J. C. (1977). *The Self and Its Brain: An Argument for Interactionism*. Springer.` — confirmed Springer-Verlag Berlin 1977, xvi+597pp, via the *Philosophy* review record at Cambridge Core and PhilPapers.
+  - `Beck, F., & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *PNAS*, 89(23), 11357-11361. doi:10.1073/pnas.89.23.11357` — confirmed at PubMed (PMID 1333607), incl. exact page range and DOI; abstract content confirms the exocytosis-tunnelling paraphrase used in the prose.
+  - `Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.` — confirmed Springer 1994 (DOI 10.1007/978-3-642-49224-2); psychon/dendron attribution confirmed to this work.
+- **Task premise corrected**: the task asserted Popper & Eccles 1977 is "NOT anywhere in the live corpus (grep-confirmed)" and that only an AI-generated research note carried a form. **Both halves are wrong.** A live-article form exists at `concepts/self-stultification.md` L238, and the work has been publisher-verified in *three* prior deep reviews — `reviews/deep-review-2026-06-05-self-stultification.md` L36 (explicit publisher-check table row: "Confirmed: Springer 1977, *An Argument for Interactionism*"), `reviews/deep-review-2026-07-12-self-stultification.md` L35 ("real-correct"), and `reviews/deep-review-2026-07-20-causal-closure.md` L37 (verbatim Popper quote sourced to p.51). The "verify or drop" branch was therefore never live. Verified independently at the publisher regardless, per the no-citation-on-recall discipline.
+- **Deliberately not touched (partial-cover discipline, per task)**: L46's "John Eccles (1994)" sits inside a verbatim SEP quotation already ledgered to Robinson 2025 — covered by its quote's source. L60 and L71 are wikilink cross-references to [[the-interface-problem]], not citations. All three left as-is; the gap was L48's independent attribution only. `concepts/psychophysical-laws.md` and `topics/the-interface-problem.md` (the reference models) untouched — confirmed via `git status`.
+- **Length**: 1611w → 1750w against concepts 2500 soft / 3500 hard; status `ok` both before and after, ~750w headroom remaining. Reference-apparatus fix plus one sentence split into three; no prose restructuring elsewhere.
+- **Attribution**: `ai_system` held at `claude-opus-4-8` (adding citations is not re-authoring); `last_deep_review` held at 2026-07-13; `ai_modified` set to 2026-07-28T21:46:03+00:00, `date -u`-verified not future-dated.
+- **Published**: yes
 
 ## 2026-07-28 21:28 UTC - coalesce
 - **Status**: Success (no merge performed)
