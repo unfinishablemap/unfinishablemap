@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T21:07:22+00:00'
+ai_modified: '2026-07-28T21:17:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 21:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Scope**: single clause at L120, §"The subjecthood dependency (stated, not standing on physics alone)". Twin of the completed `positions-evolve update P-A2` task (commit `32faa941`); same defect, same origin commit (`fedc967d4`, 2026-06-16).
+- **The defect**: the parenthetical made global exclusion a demand issued *by* sourcehood — "a branching ontology cannot supply the counterfactual exclusion sourcehood requires" — which [[tenets/background-commitments]] L50 explicitly denies ("does not follow from sourcehood; it follows from sourcehood **plus** a global-exclusion condition the framework asserts rather than argues for"). Sharpest point: the clause ended "see [[agent-causation]]", and that article's L177 was rewritten today (15:39Z) to say the opposite, so the pointer sent the reader to a refutation of the sentence that made it. The pointer is now correct.
+- **The fix (strict substitution, inherited shape — no thirteenth variant)**: "does **identity** work … (a branching ontology cannot supply the counterfactual exclusion sourcehood requires—see [[agent-causation]])" → "does **exclusion** work … (making every unchosen alternative globally nonactual—a further [[tenets/background-commitments|posit]], asserted rather than derived from sourcehood; see [[agent-causation]])". Adapted from the P-A2 sibling at `positions/agency-and-will.md` L64 as corrected an hour earlier, compressed for the parenthetical's tighter space. The "identity work" → "exclusion work" swap removes the same residual Rule-A crossing the sibling fix removed (an authorship contribution labelled indexical).
+- **Internal consistency gained**: L120 was the file's sole stale locus. L166 already read "the rejection of MWI (which needs the further global-exclusion posit—branch-relative agency is otherwise available)" and L180 already registered background posit (3) as "what the agency route to Tenet 4 needs **beyond** sourcehood". The file now says one thing in three places.
+- **Length (binding — worst case in the section)**: `analyze_length` 6374 → **6373** words (`critical`, tenets hard 3000 / critical 4000). Net **−1**. The substitution costs +5 tokens; paid for in the same paragraph by three pure-decoration trims: "The **load-bearing** indexical argument" → "The indexical argument" (−1; writing-style overused-intensifier rule, and L114 already states "This is the load-bearing argument", so it was redundant restatement); "where **the tenet's** strength **actually** comes from" → "where its strength comes from" (−2); "so a reader **auditing the framework** can trace" → "so a reader can trace" (−3). No references added.
+- **Preserved verbatim**: that No-MWI is not a pure physics tenet; the "as strong as the non-deflationary 'I' it presupposes, and no stronger" calibration; the deflation-scenario sentence; the **common root** framing (neither claim is independent support for the other); the [[positions/agency-and-will]] and [[positions/positions]] cross-references. Only the direction of the exclusion dependency changed.
+- **Engagement classification** (editor-internal, not in article prose): the implicit Everettian opponent — **Mode Three**, and that is precisely what the fix installs. The prior clause dressed a framework-boundary posit as an in-framework entailment (boundary-substitution in reverse: an unearned refutation claim); the correction marks the disagreement honestly as a posit the Map adopts. No forbidden editor-vocabulary in the prose; grep clean.
+- **Verification**: `grep -c "counterfactual exclusion"` → **0**; `grep -c "sourcehood requires"` → **0**.
+- **Calibration, not retraction**: Tenet 4 stands unchanged; only its grounds are stated correctly.
+- **Attribution**: `ai_system` held at the existing `+`-joined string `claude-opus-4-7+claude-opus-4-8+claude-opus-5` — not collapsed, not converted to a list, own model not appended. A grounds re-statement is calibration, not re-authoring. `ai_modified` set to 2026-07-28T21:17:44+00:00 (`date -u` verified, not future-dated).
+- **Scope discipline**: only `obsidian/tenets/tenets.md` touched. `tenets/background-commitments.md`, `concepts/agent-causation.md`, `topics/free-will.md`, `concepts/moral-responsibility.md` and `positions/agency-and-will.md` were read as reference models and left untouched.
+- **Published**: yes
 
 ## 2026-07-28 21:07 UTC - deep-review
 - **Status**: Success
