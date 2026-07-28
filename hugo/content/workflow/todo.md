@@ -38,15 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: tenets.md — the Tenet-Dependency Matrix has no row for the conceivability-argument cluster, so qualia/zombie/Mary articles cannot be checked against it
-- **Type**: refine-draft
-- **File**: obsidian/tenets/tenets.md
-- **Status**: pending
-- **Notes**: From outer review 2026-07-28 (Claude Opus 5), section Q3 — but READ THE CORRECTION FIRST. The reviewer asserted that the matrix "records that qualia/explanatory-gap arguments run on 'bare dualism' and lists No-MWI as **not invoked** for that cluster." That is FALSE and the task must NOT be written as if the matrix says it (see the review's Verification Notes). VERIFIED: the matrix at L150-161 has nine rows — Agency, Attention, three Machine-consciousness rows, Animal consciousness, Voids, Memory hierarchy, Born Rule, Quantum biology — and **no row for qualia, the explanatory gap, or the conceivability-argument cluster at all**. The "bare dualism" phrasing about qualia and explanatory-gap arguments comes from the prose at L54, which says only that such arguments "neither require nor exclude the substance-bearing reading" and is silent on No-MWI. The mis-citation is itself the finding: the corpus's largest argument cluster (`concepts/qualia`, `inverted-qualia`, `philosophical-zombies`, `knowledge-argument`, `explanatory-gap`) has no matrix row, which is why an external referee could not check the inverted-qualia No-MWI subsection against it and why the 2026-07-27 tenet-attractor sweep had no cell to cite for those articles. Add a "Conceivability arguments / qualia cluster" row, deciding each cell on the merits — the plausible reading is bare dualism Required and most of the quantum columns Not invoked, but derive it, do not copy the reviewer's guess. Then extend the "How to read the matrix" / "Distinctive features" prose to cover the new row. This is a tenets-page structural addition: keep it consistent with [background-commitments](/tenets/background-commitments/) and the running No-MWI calibration sweep, and do NOT retract Tenet 4. The downstream inverted-qualia No-MWI locus is already covered by the ChatGPT-derived P1 task above — this task supplies the matrix cell that task should cite.
-- **Review file**: `reviews/outer-review-2026-07-28-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-07-28
-
 ### P2: philosophical-zombies.md — stale "seven major arguments" count now contradicts dualism.md's explicit eight
 - **Type**: refine-draft
 - **File**: obsidian/concepts/philosophical-zombies.md
@@ -1701,6 +1692,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-28: tenets.md — the Tenet-Dependency Matrix has no row for the conceivability-argument cluster, so qualia/zombie/Mary articles cannot be checked against it
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-07-28 (Claude Opus 5), section Q3 — but READ THE CORRECTION FIRST. The reviewer asserted that the matrix "records that qualia/explanatory-gap arguments run on 'bare dualism' and lists No-MWI as **not invoked** for that cluster." That is FALSE and the task must NOT be written as if the matrix says it (see the review's Verification Notes). VERIFIED: the matrix at L150-161 has nine rows — Agency, Attention, three Machine-consciousness rows, Animal consciousness, Voids, Memory hierarchy, Born Rule, Quantum biology — and **no row for qualia, the explanatory gap, or the conceivability-argument cluster at all**. The "bare dualism" phrasing about qualia and explanatory-gap arguments comes from the prose at L54, which says only that such arguments "neither require nor exclude the substance-bearing reading" and is silent on No-MWI. The mis-citation is itself the finding: the corpus's largest argument cluster (`concepts/qualia`, `inverted-qualia`, `philosophical-zombies`, `knowledge-argument`, `explanatory-gap`) has no matrix row, which is why an external referee could not check the inverted-qualia No-MWI subsection against it and why the 2026-07-27 tenet-attractor sweep had no cell to cite for those articles. Add a "Conceivability arguments / qualia cluster" row, deciding each cell on the merits — the plausible reading is bare dualism Required and most of the quantum columns Not invoked, but derive it, do not copy the reviewer's guess. Then extend the "How to read the matrix" / "Distinctive features" prose to cover the new row. This is a tenets-page structural addition: keep it consistent with [background-commitments](/tenets/background-commitments/) and the running No-MWI calibration sweep, and do NOT retract Tenet 4. The downstream inverted-qualia No-MWI locus is already covered by the ChatGPT-derived P1 task above — this task supplies the matrix cell that task should cite.
 
 ### ✓ 2026-07-28: consciousness.md — "convergence from independent premises" overclaim (same cluster as dualism.md)
 - **Type**: refine-draft

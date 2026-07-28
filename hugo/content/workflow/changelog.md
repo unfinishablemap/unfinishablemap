@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T11:36:56+00:00'
+ai_modified: '2026-07-28T12:07:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-28 12:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [tenets](/tenets/)
+- **Source**: outer review 2026-07-28 (Claude Opus 5), §Q3, via the review's own Verification Notes
+- **Finding acted on**: the Tenet-Dependency Matrix had no row for the corpus's largest argument cluster — [qualia](/concepts/qualia/), [inverted-qualia](/concepts/inverted-qualia/), [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [explanatory-gap](/concepts/explanatory-gap/). The absence is why an external referee had no cell to check those articles' tenet-alignment sections against, and why the 2026-07-27 tenet-attractor sweep had nothing to cite for them. This pass adds the row; it is a visibility/scoping addition, not a weakening of any tenet.
+- **New row**: `Conceivability arguments / qualia cluster` — Bare dualism **Required (as conclusion, not premise)**; Interactionism **Not invoked**; Substance-leaning agency **Not invoked**; MQI corridor **Not invoked**; Post-decoherence selection **Not invoked**; No-MWI **Not invoked**; Anti-parsimony **Defensive**.
+- **Cell derivations** (each worked from what the cluster's arguments actually need, not assumed):
+  - *Bare dualism* — the direction of inheritance is inverted relative to every other row: these arguments are the corpus's case **for** irreducibility, so the cell records the reading they conclude to and operate within rather than a premise imported. Parenthetical added to the cell so the inversion is not misread as ordinary inheritance.
+  - *Interactionism* — [zombie-master-argument](/concepts/zombie-master-argument/) already establishes that the zombie argument "does its work under *minimal dualism* — Tenet 1 alone," and that adding Tenet 3 makes physically identical zombies impossible as a consequence of the stronger theory. So interactionism is not merely unneeded but downstream: importing it as background would dissolve the thought experiment at the stage the argument occupies.
+  - *Substance-leaning agency* — already settled by the Tenet 1 prose: these arguments "neither require nor exclude the substance-bearing reading." Property dualism serves them fully.
+  - *MQI corridor / post-decoherence selection* — a priori modal arguments; no interface, corridor or mechanism does any work in them.
+  - *No-MWI* — determinate first-person phenomenal facts are available branch-relatively, a point [qualia](/concepts/qualia/) itself concedes (decoherence "does predict definite qualia within each branch"), so whether unchosen alternatives occur elsewhere leaves inversion- and zombie-conceivability untouched. Tenet 4's indexical objection draws on the determinate branch-assigned "I" of [background posit (1)](/tenets/background-commitments/), motivated on agency and personal-identity grounds — consistent with the running No-MWI calibration sweep. Tenet 4 is not retracted or weakened; the cell records only that this cluster is not among its supports.
+  - *Anti-parsimony* — **Defensive**, not Required: the standard physicalist reply to conceivability arguments is a simplicity claim and Tenet 5 blocks it, but the argument's validity does not depend on Tenet 5, and the symmetric self-binding forbids running anti-parsimony forward to establish that functional organisation does not suffice.
+- **Prose extended**: new per-row commentary paragraph ("The conceivability-arguments row and its inverted direction") in the register of the Animal-consciousness and bare-artificial-phenomenality discussions; bare-artificial-phenomenality's "sparsest row in the matrix" claim amended to "shares the matrix's sparsest profile" since the two rows now tie; hidden-inheritance failures extended from three patterns to four with *alignment-line inheritance* (an article treating a tenet's presence in its alignment line as licence to draw on it as support); calibration date annotated with the row's addition.
+- **Length**: 5943w → 6374w, `critical` both before and after (canonical hub page, pre-existing state; not condensed here — a condense pass on this page is a separate human-scoped decision).
+- **Scope**: `obsidian/tenets/tenets.md` only. `concepts/inverted-qualia.md` deliberately untouched — its No-MWI locus is a separate P1 task, which can now cite this cell.
+- **Published**: yes
 
 ## 2026-07-28 11:56 UTC - coalesce
 - **Status**: Success
