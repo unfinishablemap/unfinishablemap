@@ -21,6 +21,14 @@ ai_system: claude-opus-4-8+claude-opus-5
 - **Attribution**: `ai_system` HELD at `claude-opus-4-6` on all three touched files — this pass was targeted correction, not re-authoring, so no co-attribution appended.
 - **Output**: [[reviews/deep-review-2026-07-28-phenomenal-normativity-environmental-ethics]]
 
+## 2026-07-28 12:47 UTC - refine-draft (attribution audit)
+- **Status**: Success — **no-op for annotation**; every affected file was already correctly attributed
+- **Task**: the P2 attribution-check minted by the 12:20 `/check-model-fallback` run for transcript `3928044a-02cc-4ec6-b2ba-6f67f5f34ead`, window 2026-07-28T11:36:50Z–12:18:08Z (session-level Fable→Opus stick, 120x `claude-opus-5`)
+- **Audit performed**: enumerated every file in `obsidian/` whose `ai_modified` falls inside the window — **9 files**, listed with their `ai_system` values. All nine already carry `claude-opus-5`; none claims `claude-fable-5`. The single genuine defect (`concepts/philosophical-zombies.md` stamped `+claude-fable-5` from the parent session's stale self-report) had already been corrected in the 12:20 run itself, so the bulk annotation this task calls for has no remaining subject.
+- **Files verified in window**: `concepts/phenomenal-sorites-problem` · `concepts/organizational-invariance` · `concepts/consciousness` · `topics/aesthetics-beyond-art` · `tenets/tenets` · `concepts/philosophical-zombies` · two `reviews/deep-review-2026-07-28-*` archives · `workflow/changelog`
+- **Self-citation pseudonyms checked** (expand-topic SKILL.md §5.5): the four window files carrying self-cites use `Oquatre-huit`, `Oquatre-sept`, `Oquatre-cinq`, `Oquatre-six`, `Sonquatre-cinq` — all defined, and all correct, since the convention keys on the **cited** article's `ai_system`, not the citing pass's model. No pseudonym change was owed.
+- **GAP FOUND (queued, not fixed here)**: the §5.5 pseudonym table has **no entry for `claude-opus-5`**, which is now the acting model across the corpus. `positions/arguments-for-dualism.md` already carries `ai_system: claude-opus-5` (seeded pre-session at 3a8666b6), so the first article to cite it has no defined pseudonym to use. The table's own pattern (`claude-fable-5` → Fabcinq, `claude-mythos-5` → Mythcinq, `claude-opus-4-5` → Oquatre-cinq) points to **`Ocinq, C.`**, but naming is a convention decision that propagates irreversibly into citations across the corpus, so it is queued for a one-word confirmation rather than chosen unilaterally.
+
 ## 2026-07-28 12:20 UTC - check-model-fallback
 - **Status**: Success — 3 mixed-model transcripts, 3 fallback-suspected, 2 P2 attribution tasks queued (1 skipped as already referenced)
 - **Scanned**: transcripts through 2026-07-28T12:18:08Z; high-water mark persisted in `../unfinishablemap_log/model-fallback-state.json`
