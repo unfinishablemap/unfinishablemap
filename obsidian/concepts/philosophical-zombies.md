@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-19T08:04:13.407584+00:00
+ai_modified: 2026-07-28T12:13:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[arguments/functionalism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-17T23:34:00+00:00
@@ -188,9 +188,9 @@ Their persistent non-satisfaction after decades of debate leaves the argument st
 
 ## The Convergence Argument
 
-The zombie argument is one of seven major arguments against materialism surveyed in [[dualism]]. These arguments proceed through different logical routes yet converge on the same conclusion. The zombie argument's specific contribution: it shows that the explanatory gap reflects genuine logical independence between physical facts and phenomenal facts, not merely a failure of imagination.
+The zombie argument is one of the major arguments against materialism surveyed in [[dualism]]. These arguments proceed through different logical routes yet converge on the same conclusion. The zombie argument's specific contribution: it shows that the explanatory gap reflects genuine logical independence between physical facts and phenomenal facts, not merely a failure of imagination.
 
-However, this convergence is only as strong as the independence of the arguments' premises. Eliminativists and illusionists argue that all seven share a foundational presupposition: that first-person phenomenal concepts reliably track a genuine ontological category. If this presupposition fails—if "consciousness" is as confused a concept as "vital élan"—then the arguments fail collectively, their convergence reflecting a common error rather than independent confirmation.
+However, this convergence is only as strong as the independence of the arguments' premises. Eliminativists and illusionists argue that these arguments share a foundational presupposition: that first-person phenomenal concepts reliably track a genuine ontological category. If this presupposition fails—if "consciousness" is as confused a concept as "vital élan"—then the arguments fail collectively, their convergence reflecting a common error rather than independent confirmation.
 
 The Map holds that this foundational commitment is more secure than the theories that deny it. We have [[phenomenal-authority-and-first-person-evidence|direct acquaintance]] with our own experience—the conviction that there is something it is like to see red or feel pain is not a theoretical posit vulnerable to elimination but the datum that any adequate theory must explain. The convergence carries genuine weight because each argument exploits a different aspect of the gap between physical description and phenomenal reality, but that weight rests on taking phenomenal consciousness seriously as a starting point.
 
@@ -211,7 +211,7 @@ The zombie argument connects to all five of the Map's tenets.
 ## Further Reading
 
 ### Site Content
-- [[dualism]] — How the zombie argument fits within seven converging anti-materialist arguments
+- [[dualism]] — How the zombie argument fits within the converging anti-materialist arguments
 - [[hard-problem-of-consciousness]] — The broader problem the zombie argument illuminates
 - [[explanatory-gap]] — Levine's analysis of why physical explanation leaves consciousness unexplained
 - [[knowledge-argument]] — The sibling conceivability-based argument (Mary's Room); both infer non-physical phenomenal facts

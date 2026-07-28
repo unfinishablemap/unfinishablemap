@@ -5,6 +5,16 @@ ai_modified: '2026-07-28T12:07:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 12:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/philosophical-zombies]]
+- **Source**: [[reviews/pessimistic-2026-07-28]] Issue 4
+- **Finding acted on**: the article named a specific count for the arguments surveyed in [[concepts/dualism]] — "one of seven major arguments" (§The Convergence Argument) and "all seven share a foundational presupposition". Driver-verified against `dualism.md` L71, which enumerates **eight**: explanatory gap, zombies, knowledge argument, Kripke's modal argument, Nagel's subjectivity, unity/binding, intentionality, argument-from-reason. The count was wrong by enumeration all along; tonight's `dualism.md` refine replacing "Multiple independent arguments" with an explicit "Eight" is what made it checkable rather than what broke it. [[topics/the-convergence-argument-for-dualism]] L50 enumerates a third, differently-composed list, so no single count is safe for the corpus to name.
+- **Fix**: purely subtractive — dropped the number at **three** loci, not the two the task named. A grep after the two specified edits found a third carrier the review missed: the Further Reading gloss "How the zombie argument fits within seven converging anti-materialist arguments" (§Further Reading). All three now read without a count. No claim altered; the convergence discussion and its non-independence concession at L193 are untouched.
+- **Deliberately NOT reconciled in the other direction**: `dualism.md`'s enumeration is correct and its count carries the new non-independence concession at L135, which two other articles now inherit as the settled register. `topics/the-convergence-argument-for-dualism.md` not opened (3998w against a 4000 hard threshold).
+- **Length**: length-neutral (−2 words).
+- **Attribution**: applied directly in the parent session rather than a fork; `ai_system` extended to `claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5`.
+
 ## 2026-07-28 12:07 UTC - refine-draft
 - **Status**: Success
 - **File**: [[tenets/tenets]]

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: philosophical-zombies.md — stale "seven major arguments" count now contradicts dualism.md's explicit eight
-- **Type**: refine-draft
-- **File**: obsidian/concepts/philosophical-zombies.md
-- **Status**: pending
-- **Notes**: From `reviews/pessimistic-2026-07-28.md` Issue 4. Tonight's `concepts/dualism.md` refine (commit f47466cae) replaced "Multiple independent arguments" with an explicit count — "**Eight** arguments support the position" at L71, L95 and L135. `concepts/philosophical-zombies.md` § "The Convergence Argument" L191 says the zombie argument is "one of **seven** major arguments against materialism surveyed in [[dualism]]" and L193 that "all **seven** share a foundational presupposition". `dualism.md` L71 enumerates eight (explanatory gap, zombies, knowledge argument, Kripke's modal, Nagel's subjectivity, unity/binding, intentionality, argument-from-reason), so "seven" was always wrong by enumeration; making the number explicit made it checkable. `topics/the-convergence-argument-for-dualism.md` L50 enumerates a third, differently-composed list of seven, so there is no single count the corpus can safely name. **Fix**: drop the number at both loci — "one of the major arguments surveyed in [[dualism]]", "these arguments share a foundational presupposition". **Do NOT reconcile in the other direction** by editing `dualism.md`: its enumeration is correct and the count is load-bearing in the new non-independence concession at L135, which two other articles are now told to inherit as the settled register. Purely subtractive, two words. Do not open `topics/the-convergence-argument-for-dualism.md` — it is at 3998 words against a 4000 hard threshold.
-- **Source**: pessimistic-review
-- **Generated**: 2026-07-28
-
 ### P2: cetacean-and-corvid-consciousness — magpie MSR currency drift + three uncited 2020s corvid papers
 - **Type**: refine-draft
 - **File**: obsidian/topics/cetacean-and-corvid-consciousness.md
@@ -1691,6 +1683,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-28: philosophical-zombies.md — stale "seven major arguments" count now contradicts dualism.md's explicit eight
+- **Type**: refine-draft
+- **Notes**: From `reviews/pessimistic-2026-07-28.md` Issue 4. Tonight's `concepts/dualism.md` refine (commit f47466cae) replaced "Multiple independent arguments" with an explicit count — "**Eight** arguments support the position" at L71, L95 and L135. `concepts/philosophical-zombies.md` § "The Convergence Argument" L191 says the zombie argument is "one of **seven** major arguments against materialism surveyed in [[dualism]]" and L193 that "all **seven** share a foundational presupposition". `dualism.md` L71 enumerates eight (explanatory gap, zombies, knowledge argument, Kripke's modal, Nagel's subjectivity, unity/binding, intentionality, argument-from-reason), so "seven" was always wrong by enumeration; making the number explicit made it checkable. `topics/the-convergence-argument-for-dualism.md` L50 enumerates a third, differently-composed list of seven, so there is no single count the corpus can safely name. **Fix**: drop the number at both loci — "one of the major arguments surveyed in [[dualism]]", "these arguments share a foundational presupposition". **Do NOT reconcile in the other direction** by editing `dualism.md`: its enumeration is correct and the count is load-bearing in the new non-independence concession at L135, which two other articles are now told to inherit as the settled register. Purely subtractive, two words. Do not open `topics/the-convergence-argument-for-dualism.md` — it is at 3998 words against a 4000 hard threshold.
 
 ### ✓ 2026-07-28: tenets.md — the Tenet-Dependency Matrix has no row for the conceivability-argument cluster, so qualia/zombie/Mary articles cannot be checked against it
 - **Type**: refine-draft
