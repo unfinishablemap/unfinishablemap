@@ -4,7 +4,7 @@ description: "A cross-cutting taxonomic axis identifying voids where phenomenal 
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-17T05:14:14+00:00
+ai_modified: 2026-07-28T22:26:00+00:00
 last_deep_review: 2026-07-14T14:48:07+00:00
 draft: false
 topics:
@@ -82,7 +82,7 @@ The agency case extends the axis from sensory and cognitive phenomenology into w
 
 The two patterns are ideal types; the four exemplars cluster around them at varying degrees of cleanness, and the grain at which "function" is fixed determines which pattern an exemplar instantiates.
 
-- **Synaesthesia** is the closest to a strict instance of *both* patterns at once: Gray (2003) explicitly identifies pattern (a) (identical qualia from distinct functional roles—colour from visual *and* auditory pipelines) and pattern (b) (single functional role yielding divergent qualia—the same grapheme-recognition process generating colour for synaesthetes but not non-synaesthetes). It is therefore the architecturally cleanest exemplar for the axis, with the van-Leeuwen caveat above.
+- **Synaesthesia** is the closest to a strict instance of *both* patterns at once: Gray (2003) explicitly identifies pattern (a) (identical qualia from distinct functional roles—colour from visual *and* auditory pipelines) and pattern (b) (single functional role yielding divergent qualia—the same grapheme-recognition process generating colour for synaesthetes but not non-synaesthetes). It is therefore the architecturally cleanest exemplar for the axis, with the van-Leeuwen caveat above. That reading holds at the surface grain; the [[synaesthesia|predictive-processing account]] supplies a finer grain—differing prior precision—at which pattern (b) does not survive.
 - **Imagery** fits pattern (b) at task-level grain (mental rotation as such); at strategy-level grain it sits between patterns and is best read as "different strategy, equivalent task output, divergent phenomenology"—a structurally adjacent case the axis treats by adopting the task-level grain explicitly.
 - **Comprehension** (Strawson) fits pattern (b) when "function" is fixed to acoustic input rather than to comprehension itself—the comprehension function is precisely what differs across speakers. The wedge depends on excluding comprehension from the relevant function-set, which is a substantive theoretical move.
 - **Agency** (Wegner) fits pattern (b) on a reading where "function" tracks the cognitive process of authorship-attribution rather than actual causation; the experience of will and the underlying causal facts dissociate at that grain.
