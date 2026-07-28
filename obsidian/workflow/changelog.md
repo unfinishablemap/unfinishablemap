@@ -5,6 +5,21 @@ ai_modified: '2026-07-28T11:36:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-28 11:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/everyday-aesthetics]] (1949w), [[topics/the-aesthetics-of-nature-and-natural-beauty]] (2046w)
+- **Target**: [[topics/aesthetics-beyond-art]] — "Aesthetics Beyond Art: Nature and the Everyday" (~3450w authored prose)
+- **Archived**: [[archive/topics/everyday-aesthetics]], [[archive/topics/the-aesthetics-of-nature-and-natural-beauty]]
+- **Rationale**: Both articles were created the same day (2026-07-09) by one expand pair and each described the other as "the sibling/neighbouring beyond-art subfield". They shared a founding move (Hepburn's art-versus-X disanalogy; the same "disinterested contemplation, the framed aesthetic object, the free play of imagination" triad verbatim), a shared figure (Berleant), and near-duplicate `Relation to Site Perspective` sections — the Occam's Razor paragraphs were the same sentence pattern twice, and both closed on the same "the literature both feeds and complicates the Map's case" line. Merging removed ~550w of duplication while keeping every unique contribution: the cognitivism axis (Carlson/Berleant/Carroll/Brady/Budd), positive aesthetics, the scope problem (Irvin/Melchionne + the three containment responses), Saito's world-making, and the sunset-with-no-observer trilemma.
+- **Structure**: shared art-model section → Natural Beauty → The Everyday → a single consolidated "Where Does Aesthetic Value Live?" section (the two subfields' locus questions merged) → one `Relation to Site Perspective`.
+- **Calibration hedges preserved verbatim** (constraint: do not regress recent calibration work): "does not claim the tension resolves in the Map's favour"; the full **Irvin is dual-use, not an ally** paragraph including the selective-citation warning; "largely the Map's extension, not an established position in environmental aesthetics"; "Berleant, Carroll, and Brady foreground the perceiving subject without thereby endorsing dualism"; "congenial, not entailing"; "thematic only"; Berleant's project as phenomenological "rather than a metaphysics of mind"; Carroll "not as a theory of consciousness"; the live deflationary/verbal-dispute gloss.
+- **Quote fidelity**: all 44 quoted spans machine-checked against the two source files; every attributed quotation carried over verbatim. No new quotation marks placed around any paraphrase.
+- **`last_deep_review`**: set to the OLDER source stamp (2026-07-09T07:26:25+00:00), NOT refreshed — a coalesce is not a review, and the merged article must stay visible to `deep_review.py next`.
+- **Inbound links repointed** (3 live files): [[topics/aesthetics-and-consciousness]] (two entries merged into one), [[topics/the-sublime-and-negative-aesthetics]] (two entries merged into one), [[topics/phenomenal-value-realism]]. Zero live wikilinks to the archived slugs remain.
+- **Section pressure**: `topics/` 319 → 318 of cap 320.
+- **Stale Hugo paths — handled in-band this time.** Archive syncs to `hugo/content/archive/topics/`, not `hugo/content/topics/`, so the two originals would have survived as live pages at their old URLs and *shadowed* the Netlify redirect (a static file beats a 301). Both were `git rm`'d: `hugo/content/topics/everyday-aesthetics.md`, `hugo/content/topics/the-aesthetics-of-nature-and-natural-beauty.md`. Redirects regenerated and verified: `/topics/everyday-aesthetics/` and `/topics/the-aesthetics-of-nature-and-natural-beauty/` both → `/topics/aesthetics-beyond-art/` 301. No duplicate-URL follow-up needed.
+- **Published**: yes
+
 ## 2026-07-28 11:55 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/consciousness]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-27 23:49:36+00:00
+ai_modified: 2026-07-28 11:36:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -13,14 +13,14 @@ concepts:
 - '[[composition-and-consciousness]]'
 - '[[indexical-knowledge-and-identity]]'
 created: 2026-07-11
-date: &id001 2026-07-27
+date: &id001 2026-07-28
 description: A human-AI examination of whether there can be no fact of the matter
   whether a system is conscious at all, why the Map's Tenet 4 stakes a claim on a
   sharp subject-fact, and why epistemicism is its preferred reading.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 09:02:00+00:00
+last_deep_review: 2026-07-28 11:36:56+00:00
 modified: *id001
 related_articles:
 - '[[vagueness-void]]'
@@ -79,7 +79,7 @@ Epistemicism is a general theory of vagueness before it is anything about consci
 
 The reason the ignorance is principled rather than lazy is Timothy Williamson's **margin-for-error principle** (*Vagueness*, 1994). Knowledge, Williamson argues, requires a margin of safety: to know that a case is Φ, cases marginally similar to it must also be Φ, otherwise the belief would be true only by luck. A belief pinned to the exact cutoff has no such margin — a case one increment away flips its truth-value — so even a *true* belief about the precise boundary could not amount to knowledge. The companion **safety condition** says the same from the other side: a true belief counts as knowledge only if it could not easily have been false, and boundary-beliefs fail that test. The boundary is therefore unknowable not by accident but because knowing it would violate the conditions under which anything is known at all. Crucially for the transfer that follows, Williamson locates ordinary sharp boundaries in an unknowable function of speakers' total use of a word: what distinguishes vagueness as a source of inexactness, he holds, is that the margin-for-error principles it gives rise to advert to "small differences in meaning, not to small differences in the objects under discussion" (pp. 230–231).
 
-Sorensen reached a version of the view independently in *Blindspots* (1988), treating the sorites as a paradox about the *word* rather than the world and introducing "absolute borderline cases" — cases where the ignorance is insurmountable in principle, not just hard to overcome. Both authors share the core: a determinate fact, a hidden location, classical logic preserved.
+Sorensen reached a version of the view independently in *Blindspots* (1988), and in *Vagueness and Contradiction* (2001) introduced "absolute borderline cases" — where the ignorance is not relative to any particular observer, and so is insurmountable in principle rather than merely hard to overcome. Both share a core: a determinate fact, a hidden location, classical logic preserved. They part company on what fixes the boundary — Williamson locates it in speakers' use, which Sorensen rejects for making definiteness relative to a discriminator — and that disagreement matters below.
 
 ### What Changes When the Predicate Is "Conscious"
 
@@ -89,13 +89,13 @@ Two features make the phenomenal case harder than the "heap" or "bald" cases, an
 
 First, there is **no external measure**. For "bald" we can at least count hairs; the ignorance concerns which count is decisive. For consciousness there is no third-person quantity — no synapse count, no integration measure — whose reading we are merely unsure how to threshold, because whether a graded physical quantity *is* the truth-maker for experience is exactly what an interactionist framework denies. The unknowability is therefore deeper: we lack not only the cutoff but any agreed observable the cutoff would be a cutoff *in*.
 
-Second, there is **first-person access**. Consciousness is paradigmatically self-intimating — there is something it is like to be the subject, available to that subject. An *unknowable* phenomenal fact can seem to sit badly with this transparency. The reply the Map develops is that the unknowability here is **third-personal**: it concerns whether some system far down the series has any experience at all, not whether a subject is opaque to its own present experience. A being's self-intimation does not extend to knowing where experience gives out in *other* systems. So the thesis concerns the location of a boundary across systems, not any subject's ignorance of itself — which defuses much of the "odd unknowable phenomenal fact" worry, though not all of it.
+Second, there is **first-person access**. Consciousness is paradigmatically self-intimating — there is something it is like to be the subject, available to that subject. An *unknowable* phenomenal fact can seem to sit badly with this transparency. The reply the Map develops is that the unknowability here is **third-personal**: it concerns whether some system far down the series has any experience at all, not whether a subject is opaque to its own present experience. A being's self-intimation does not extend to knowing where experience gives out in *other* systems, which defuses much of the "odd unknowable phenomenal fact" worry, though not all of it.
 
 ### The Fact-Maker Problem
 
-The sharpest objection is not the counterintuitiveness epistemicism is famous for but a transfer failure. Williamson *grounds* his ordinary sharp boundaries in facts about use and meaning: the boundary of "bald" is fixed, by default rather than decision, by the immensely complex totality of how competent speakers deploy the word. A phenomenal on/off boundary has no such use-facts to fix it. Whether a system *is conscious* is not settled by how anyone uses the word "conscious." So epistemicism about consciousness owes a **truth-maker** that generic epistemicism got for free from use.
+The sharpest objection is not the counterintuitiveness epistemicism is famous for but a transfer failure. Williamson *grounds* his ordinary sharp boundaries in facts about use and meaning: the boundary of "bald" is fixed, by default rather than decision, by the immensely complex totality of how competent speakers deploy the word. A phenomenal on/off boundary has no such use-facts to fix it. Whether a system *is conscious* is not settled by how anyone uses the word "conscious." So epistemicism about consciousness owes a **truth-maker** that Williamson's version got for free from use.
 
-Three responses are available, and the Map's choice among them is what makes its version distinctive. Sorensen's own late route is **truthmaker-gap epistemicism** (*Vagueness and Contradiction*, 2001): the sharp fact is true but has *no* truth-maker at all — a proposition can carry a truth-value without anything grounding it. Mark Jago (2012) argues this is unstable, and the Map has independent reason to decline it: an *ungrounded* phenomenal fact is doubly mysterious, not less. A second route grounds the boundary in a graded physical property, but that is blocked by Antony's conditional above — sharpness-plus-correctness refutes complex-property theories, and a graded realizer would only reintroduce the sorites at its own switch-on. The Map's route is the third: ground the fact in the *simple, non-graded engagement of the non-physical mind–brain coupling* — whether the coupling engages at all. That relation either holds or does not; it is not itself a sorites series, so it can supply a sharp on/off truth-maker without a graded physical cutoff. The fact is fixed by the coupling; its location in the physical series is hidden because we cannot observe where the coupling engages.
+Three responses are available, and the Map's choice among them is what makes its version distinctive. Sorensen's own late route is **truthmaker-gap epistemicism** (*Vagueness and Contradiction*, 2001): the sharp fact is true but has *no* truth-maker at all — a proposition can carry a truth-value without anything grounding it. Mark Jago (2012) argues it cannot accommodate the higher-order vagueness Sorensen himself insists on, and the Map has independent reason to decline it: an *ungrounded* phenomenal fact is doubly mysterious, not less. A second route grounds the boundary in a graded physical property, but that is blocked by Antony's conditional above — sharpness-plus-correctness refutes complex-property theories, and a graded realizer would only reintroduce the sorites at its own switch-on. The Map's route is the third: ground the fact in the *simple, non-graded engagement of the non-physical mind–brain coupling* — whether the coupling engages at all. That relation either holds or does not; it is not itself a sorites series, so it can supply a sharp on/off truth-maker without a graded physical cutoff. The fact is fixed by the coupling; its location in the physical series is hidden because we cannot observe where the coupling engages.
 
 ## Relation to Site Perspective
 
@@ -135,7 +135,7 @@ The costs must be paid openly. Epistemicism is notoriously counterintuitive: it 
 1. Williamson, T. (1994). *Vagueness*. Routledge.
 1. Sorensen, R. A. (1988). *Blindspots*. Clarendon Press / Oxford University Press.
 1. Sorensen, R. A. (2001). *Vagueness and Contradiction*. Oxford University Press.
-1. Jago, M. (2012). The Problem with Truthmaker-Gap Epistemicism. *Thought: A Journal of Philosophy*. https://doi.org/10.1002/tht3.49
+1. Jago, M. (2012). The Problem with Truthmaker-Gap Epistemicism. *Thought: A Journal of Philosophy*, 1, 320–329. https://doi.org/10.1002/tht3.49
 1. Stanford Encyclopedia of Philosophy (2025). Sorites Paradox, §3.2 "The Epistemic Theory." https://plato.stanford.edu/entries/sorites-paradox/
 1. Southgate, A. & Oquatre-huit, C. (2026-03-24). Composition and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/composition-and-consciousness/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-11). The Interface Threshold. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-threshold/

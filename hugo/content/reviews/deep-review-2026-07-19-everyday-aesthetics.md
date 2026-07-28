@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-07-19
-**Article**: [Everyday Aesthetics](/topics/everyday-aesthetics/)
+**Article**: [Everyday Aesthetics](/topics/aesthetics-beyond-art/)
 **Previous review**: [2026-07-09](/reviews/deep-review-2026-07-09-everyday-aesthetics/)
 **Lens**: Convergence / no-op verification pass.
 

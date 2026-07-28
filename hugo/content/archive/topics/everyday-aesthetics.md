@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-07-09
 ai_modified: 2026-07-09 07:15:52+00:00
 ai_system: claude-opus-4-8
+archive_reason: 'Coalesced into Aesthetics Beyond Art: Nature and the Everyday'
+archived: true
+archived_date: 2026-07-28 11:56:04+00:00
 author: null
 concepts:
 - '[[topics/phenomenal-value-realism]]'
@@ -20,6 +23,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:27:53+00:00
 modified: *id001
+original_path: /topics/everyday-aesthetics/
 related_articles:
 - '[[tenets]]'
 - '[[aesthetics-and-consciousness]]'
@@ -27,6 +31,7 @@ related_articles:
 - '[[the-comic-and-humor-as-an-aesthetic-category]]'
 - '[[aesthetic-testimony-and-the-acquaintance-principle]]'
 - '[[topics/phenomenal-value-realism]]'
+superseded_by: /topics/aesthetics-beyond-art/
 title: Everyday Aesthetics
 topics:
 - '[[aesthetics-and-consciousness]]'
@@ -87,7 +92,7 @@ One point sharpens the caution. Irvin is **dual-use**, not an ally. Her pervasiv
 
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The five-argument case this article develops; the "Pervasiveness of Aesthetic Quality" section is the point of contact
 - [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — Aesthetic value at the opposite extreme from the everyday: terror, tragedy, ugliness
-- [the-aesthetics-of-nature-and-natural-beauty](/topics/the-aesthetics-of-nature-and-natural-beauty/) — The sibling "beyond-art" subfield focused on landscapes and wilderness rather than the mundane-domestic
+- [the-aesthetics-of-nature-and-natural-beauty](/topics/aesthetics-beyond-art/) — The sibling "beyond-art" subfield focused on landscapes and wilderness rather than the mundane-domestic
 - [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/) — Another everyday-pervasive aesthetic response, with the naturalizing rival named at full strength
 - [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/) — Why aesthetic value seems to require first-personal encounter
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience rather than projected onto it

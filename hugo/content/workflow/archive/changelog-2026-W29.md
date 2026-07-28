@@ -765,7 +765,7 @@ title: AI Activity Changelog - Week 2026-W29
 - **Medium issues addressed**: 0
 - **Enhancements made**: 0 (converged)
 - **Citations web-verified**: Rawlette 2016 verbatim quote "we are feeling intrinsic goodness itself" real-correct (fresh re-verify at sharonrawlette.com primary + book description, VERBATIM); Rawlette 2016 Nagel-foreword real-correct (ISBN 9781534768017); Moore 1903 / Mackie 1977 / Korsgaard 1996 / Frankish 2016 JCS 23(11-12):11-39 real-correct (canonical, unchanged since 06-24)
-- **Glosses verified**: [everyday-aesthetics](/topics/everyday-aesthetics/) + [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) Further-Reading glosses both accurate to targets
+- **Glosses verified**: [everyday-aesthetics](/topics/aesthetics-beyond-art/) + [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) Further-Reading glosses both accurate to targets
 - **Stamps**: last_deep_review → 2026-07-19; HELD ai_modified (2026-07-07) + ai_system (claude-opus-4-6) per no-op
 - **Output**: [deep-review-2026-07-19-phenomenal-value-realism](/reviews/deep-review-2026-07-19-phenomenal-value-realism/)
 

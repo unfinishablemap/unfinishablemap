@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-06-01 17:11:42+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-07-28 11:52:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -124,7 +124,7 @@ The Map rejects illusionism but takes it seriously as the strongest physicalist 
 
 ## Arguments for Irreducibility {#arguments}
 
-Multiple independent arguments converge on consciousness's irreducibility:
+Five arguments converge on consciousness's irreducibility, not all from independent premises:
 
 **The [Knowledge Argument](/concepts/knowledge-argument/)**: Mary knows all physical facts about colour vision but learns something new when she first sees colour. Phenomenal facts exceed physical facts.
 
@@ -136,7 +136,7 @@ Multiple independent arguments converge on consciousness's irreducibility:
 
 **The [Argument from Reason](/topics/argument-from-reason/)**: Genuine reasoning requires normative relations (one belief supporting another). Physical causation instantiates only efficient causation, not normative relations. Therefore reasoning requires irreducibly mental properties.
 
-Physicalists have responses to each argument—the phenomenal concept strategy for the knowledge argument, denials of zombie conceivability for the conceivability argument, functionalist theories of qualia. The Map takes the arguments as jointly establishing that consciousness is not reducible to physical processes: while individual arguments face objections, their convergence from independent premises strengthens the cumulative case.
+Physicalists have responses to each argument—the phenomenal concept strategy for the knowledge argument, denials of zombie conceivability for the conceivability argument, functionalist theories of qualia. The Map takes the arguments as jointly establishing that consciousness is not reducible to physical processes, but the case is weaker than a count of five suggests. The knowledge argument, the conceivability argument, the explanatory gap, and the inverted qualia argument all press the same gap between physical description and phenomenal character; if that common starting point fails, they fail together rather than confirming one another. Only the argument from reason begins elsewhere, from the normativity of inference rather than the qualitative character of experience. The agreement supports a case substantially stronger than any single argument, not five independent confirmations; [the convergence argument](/topics/the-convergence-argument-for-dualism/) works out why the force comes from *across* clusters rather than from the count.
 
 ## Neural Correlates {#neural-correlates}
 

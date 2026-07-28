@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-07-09
-**Article**: [The Aesthetics of Nature and Natural Beauty](/topics/the-aesthetics-of-nature-and-natural-beauty/)
+**Article**: [The Aesthetics of Nature and Natural Beauty](/topics/aesthetics-beyond-art/)
 **Previous review**: Never (fresh-create cross-review, argument-lens + fresh-create defect-tail; final article of the aesthetics wave)
 
 ## Pessimistic Analysis Summary

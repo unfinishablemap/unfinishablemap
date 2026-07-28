@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-07-09
-**Article**: [Everyday Aesthetics](/topics/everyday-aesthetics/)
+**Article**: [Everyday Aesthetics](/topics/aesthetics-beyond-art/)
 **Previous review**: Never
 **Lens**: Cross-review (argument-lens + fresh-create defect-tail) of a same-session expand-topic create. Citation lens ran at create-time; this pass ran the argument lens plus an independent publisher-of-record cite re-verify.
 
