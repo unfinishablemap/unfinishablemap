@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-07-28T09:21:40+00:00
+ai_modified: 2026-07-28T10:20:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,9 +105,9 @@ Inverted qualia dramatically illustrate the [[problem-of-other-minds]]—what th
 
 ## Physicalist Responses
 
-**Representationalism.** Qualia are (or supervene on) representational properties. If Invert and Nonvert both accurately perceive that tomatoes are red, their experiences have the same content, hence the same qualia. *Problem:* This conflates what experiences represent with how—both may represent redness accurately through different qualitative modes.
+**Representationalism.** Qualia are (or supervene on) representational properties. If Invert and Nonvert both accurately perceive that tomatoes are red, their experiences have the same content, hence the same qualia. *Problem:* This conflates what experiences represent with how—both may represent redness accurately through different qualitative modes. ([[first-order-representationalism]] canvasses the replies.)
 
-**The phenomenal concepts strategy.** Phenomenal concepts pick out physical properties through a distinctive cognitive mode; inversion's conceivability reflects this peculiarity, not real possibility. This is the natural home of the Kripkean reply that conceivability does not entail possibility: as water-without-H₂O seems conceivable yet is a-posteriori impossible, inversion may be conceivable-but-impossible. *Problem:* the distinctive working of phenomenal concepts itself requires explanation, and the strategy risks explaining too much (making any identity claim vulnerable) or too little (unlike the water case, no hidden essence can be exhibited that would make inversion impossible).
+**The [[phenomenal-concepts-strategy|phenomenal concepts strategy]].** Phenomenal concepts pick out physical properties through a distinctive cognitive mode; inversion's conceivability reflects this peculiarity, not real possibility. This is the natural home of the Kripkean reply that conceivability does not entail possibility: as water-without-H₂O seems conceivable yet is a-posteriori impossible, inversion may be conceivable-but-impossible. *Problem:* the distinctive working of phenomenal concepts itself requires explanation, and the strategy risks explaining too much (making any identity claim vulnerable) or too little (unlike the water case, no hidden essence can be exhibited that would make inversion impossible).
 
 **Dennett's skepticism.** Dennett (1991) argued that after total adaptation, the inversion would effectively "flip back"—if all dispositions adjust to the new qualia, in what sense have they remained inverted? *Response:* this conflates having qualia with thinking about them, and presupposes Dennett's eliminativism—that there is no intrinsic qualitative character to adapt away from. Grant that premise and the argument goes through; the rest of this article is the case for withholding it.
 
