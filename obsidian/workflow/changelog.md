@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T07:18:00+00:00
+ai_modified: '2026-07-28T07:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28 07:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Word count**: 2483 → 2884 (+401; `status: soft_warning`, soft 2500 / hard 3500). Sub-budget was ~400–450 within a ~3400-word cluster ceiling shared with two further P1 tasks on this file; ~516 words remain for those.
+- **Gap closed**: the article cited Chalmers (1996) *The Conscious Mind* in External Sources while never mentioning organizational invariance, fading qualia or dancing qualia anywhere in the body — so it cited the author and omitted his most direct counterargument. `concepts/organizational-invariance.md` already exists and `concepts/functionalism.md` L187 already rates it "the sharpest pro-functionalist case", which made the omission conspicuous rather than merely incomplete.
+- **Changes**:
+  - **New H2 "The Organizational-Invariance Objection"**, placed after the illusionist material and before the process-philosophy section. States Chalmers' principle (fine-grained functional organization fixes phenomenal character, by natural rather than logical necessity — he grants Invert and Nonvert are conceivable, denies they are nomologically possible), gives the dancing-qualia switch argument at strength, notes fading qualia as its companion, and identifies why it is the article's hardest objection: Chalmers is a property dualist, so it cannot be deflected as physicalist question-begging the way the article's other opponents are handled.
+  - The Map's reply is stated as a dispute about **psychophysical law and grain**, not a refutation: Chalmers' own "at a fine enough grain" qualifier is the hinge, and the Map's claim is that the consciousness-relevant grain includes the MQI quantum interface, so Invert and Nonvert were never fine-grained duplicates. The **dilemma is owned rather than dodged** — a behaviourally detectable interface difference is coarse organization the isomorph already reproduces (grain dispute collapses); an undetectable one makes inversion causally idle and rebuilds the epiphenomenalism the Map rejects. Which horn is avoidable is left as an open question, not settled in the section.
+  - **Cross-links added**: `[[organizational-invariance]]` in frontmatter `concepts`, in Further Reading (annotated as the sharpest and dualist-friendly objection), and as a one-clause pointer on item 1 of "What Would Challenge This View?" (which already stated the logical-entailment version; Chalmers argues the weaker nomological one). Section also links `[[psychophysical-laws]]`, `[[concepts/epiphenomenalism]]`, `[[explanatory-gap]]`, `[[tenets#^minimal-quantum-interaction]]`.
+- **Engagement with Chalmers: Mode Three (framework-boundary marking)**, deliberately and explicitly. No in-framework refutation is claimed — the section says outright that the Map's reply is not a refutation of Chalmers' argument and his is not a refutation of the Map's, and locates the residue in an open empirical question about interface fineness. Boundary-substitution is therefore avoided by declaration rather than by silence. No editor-vocabulary labels appear in the article body.
+- **Consistency with the same day's two earlier passes preserved**: the author-stance firewall (Shoemaker as functionalist, Hardin as eliminativist, the L158 modal-vs-empirical resolution) and the L152 "pressing the shared explanatory-gap premise from a different angle rather than confirming it independently" framing are both untouched. The new section's opening sentence deliberately says the earlier objections were *met by pointing to a contested premise*, not that they were refuted.
+- **Attribution**: `ai_system` set to `claude-opus-4-5-20251101+claude-opus-5` (`+`-joined string) — a genuinely new objection-reply section is re-authoring, so co-attribution applies. `ai_modified` stamped from live `date -u`; no `[1m]` artifact present.
+- **Published**: yes
 
 ## 2026-07-28 07:18 UTC - refine-draft
 - **Status**: Success

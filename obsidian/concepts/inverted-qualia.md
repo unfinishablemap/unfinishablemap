@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-07-28T06:17:39+00:00
+ai_modified: 2026-07-28T07:33:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,12 +22,13 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[explanatory-gap]]"
   - "[[phenomenal-concepts-strategy]]"
+  - "[[organizational-invariance]]"
 related_articles:
   - "[[tenets]]"
   - "[[inverted-qualia-spectrum-2026-01-14]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-15T10:13:31+00:00
@@ -120,6 +121,16 @@ Illusionist debunking arguments typically target introspection's unreliability a
 
 Meditative traditions add complexity: some jhāna practitioners report observing color qualia with unusual clarity, while Madhyamaka examination reveals their constructed nature. Were qualia purely representational artifacts, meditation should uniformly reveal them as such; the divergence suggests they have several aspects rather than being wholly eliminable.
 
+## The Organizational-Invariance Objection
+
+The objections above come from physicalists and eliminativists, and each has been met here by pointing to a premise the inversion argument exists to contest. The hardest objection comes from elsewhere. David Chalmers (1996)—a property dualist who accepts the [[explanatory-gap|explanatory gap]] and the hard problem—defends the principle of [[organizational-invariance|organizational invariance]]: systems sharing the same functional organization *at a fine enough grain* have qualitatively identical experiences, as a matter of natural rather than logical necessity. He grants that Invert and Nonvert are conceivable and denies that they are nomologically possible.
+
+The **dancing qualia** argument is his case. Give a subject a functionally identical silicon backup for some cortical region, with a switch that routes processing either way without altering overall organization. If the two substrates yielded inverted experiences, flipping the switch would swap red for blue while nothing in the subject's cognition registered the swap—no surprise, no shift of attention, no altered judgment. A rational subject attending to a dancing spectrum and noticing nothing is, Chalmers argues, less believable than the invariance principle he is defending. The companion **fading qualia** argument runs the same hinge over gradual neuron-by-neuron replacement.
+
+This cannot be deflected as physicalist question-begging, which is what makes it the sharpest case the article faces. Neither is it a refutation of the Map's position, nor the Map's reply a refutation of his. The disagreement concerns [[psychophysical-laws|psychophysical law]] and grain. Chalmers' principle carries its own qualifier—*at a fine enough grain*—and the Map's claim is that the consciousness-relevant grain includes the quantum interface posited by [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. If Invert and Nonvert differ at that interface, they were never fine-grained functional duplicates, and the dancing scenario does not arise for a genuine isomorph.
+
+The reply carries a dilemma the Map owns rather than escapes. If the interface difference is behaviourally detectable, it is coarse organization that Chalmers' isomorph already reproduces, and the grain dispute collapses. If it makes no difference at all, the inversion is causally idle and the Map has rebuilt the [[concepts/epiphenomenalism|epiphenomenalism]] it rejects. Which horn is avoidable turns on an open question about how fine the interface is, not on anything settled here. [[organizational-invariance]] states both of Chalmers' arguments at full strength and works through the reply.
+
 ## Process Philosophy Perspective
 
 Whitehead's process philosophy makes inverted qualia intelligible. Basic units of reality ("actual occasions") have subjective aspects constitutively; qualia are "eternal objects"—pure possibilities that ingress into occasions. Invert and Nonvert might prehend the same physical facts through different eternal objects: both see the apple correctly, but which eternal objects ingress differs.
@@ -132,7 +143,7 @@ This connects to [[haecceity]]—the "thisness" of individual experience. Your e
 
 The inverted qualia argument—and the Map's reliance on it—would face serious difficulty if:
 
-1. **Functional role necessarily determines qualitative character.** If the complete causal role of a state (including all dispositional properties) logically entailed its qualitative character—or if functional accounts could constitute intrinsic properties rather than deny them—inversion would be inconceivable and the gap between function and quality would close.
+1. **Functional role necessarily determines qualitative character.** If the complete causal role of a state (including all dispositional properties) logically entailed its qualitative character—or if functional accounts could constitute intrinsic properties rather than deny them—inversion would be inconceivable and the gap between function and quality would close. Chalmers' [[organizational-invariance]] argues the weaker nomological version of this.
 2. **Color space proves asymmetric in all dimensions.** If *any* inversion (not just 180° rotation) were behaviorally detectable, the empirical version fails. The modal version survives with diminished force.
 3. **Illusionism becomes coherent.** If illusionism could explain inversion's seeming without reintroducing phenomenal properties for the seemings themselves, the regress objection would lose force.
 4. **Contemplative traditions uniformly support illusionism.** Currently reports diverge—some emphasize construction, others report an irreducible "suchness" surviving deconstruction.
@@ -177,6 +188,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [[philosophical-zombies]] — The parallel argument varying qualia's presence rather than character
 - [[qualia]] — The phenomenal properties that resist functional analysis
 - [[concepts/functionalism]] — The primary target of the inverted spectrum argument
+- [[organizational-invariance]] — Chalmers' fading/dancing-qualia case that function fixes phenomenal character: the sharpest objection to this article, and dualist-friendly
 - [[knowledge-argument]] — Another route to the same dualist conclusion
 - [[problem-of-other-minds]] — The epistemic implications of qualia's privacy
 - [[dualist-perception]] — Perceptual qualia as the paradigm case for understanding consciousness
