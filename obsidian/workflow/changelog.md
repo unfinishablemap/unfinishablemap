@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-07-28T01:16:52+00:00
+ai_modified: 2026-07-28T01:46:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-28T01:46:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Word count**: 2125 → 2220 (+95); hard threshold 4000, so ~1780 words of headroom retained. Growth confined to the one calibrated paragraph; no other section touched.
+- **Scope**: MWI/desert calibration only, target (6) of a consolidated multi-file task, L107. The other six targets were deliberately not swept.
+- **Locus verified before editing**: L107 read verbatim as quoted in the brief — "This dissolves moral responsibility into branch-counting, removing the stakes from the agent's actual choice."
+- **The defect**: the paragraph asserted as derived what the Map in fact posits. Branch-relative Everettian accounts (Saunders 2010; Wallace 2012; Sebens & Carroll 2018) preserve branch-local psychological continuity, counterfactual control and reasons-responsiveness, so an Everettian can perfectly well hold *this* agent answerable for complying in *this* branch. Responsibility does not "dissolve into branch-counting". What branching denies is the counterfactual exclusion desert requires. "Removing the stakes" compounded the error in the duress setting specifically: it invited the reading that the Map's objection concerns the *weight* of the choice, when it concerns whether the unchosen option was genuinely excluded.
+- **The fix**: replaced the dissolution assertion with the settled exclusion formulation, inherited verbatim in structure from this file's governing sibling `apex/consciousness-and-agency.md` (tenet block) and `concepts/moral-responsibility.md` L99 — Everettian grant of a branch-local history of having chosen; "counterfactual exclusion desert requires"; "Desert needs alternatives genuinely rejected, not merely routed to another branch". Added the posit-marker and boundary-marker in the form already used at `apex/phenomenology-of-consciousness-doing-work.md` L171: globally-nonactual unchosen is "a [[tenets/background-commitments|posit the Map adopts]] rather than a result it derives, and the disagreement sits at the framework boundary." No new formulation invented.
+- **Duress-specific adaptation**: the branch-local grant is stated in the article's own terms ("*this* agent complied, for *these* reasons, under *this* pressure"), and the exclusion failure is stated as the resistance the agent failed to muster having been mustered by a counterpart elsewhere. Keeps the article's substantive point — desert needs the unchosen to be unrealised — while dropping the claim that responsibility simply dissolves.
+- **Engagement classification** (editor-internal, not in article prose): engagement with the Everettian — Mode Three, framework-boundary marking; the reply now explicitly concedes the branch-local restatement and marks the exclusion demand as a Map posit rather than an in-framework refutation. The prior text was a Mode One overreach (asserted internal collapse of responsibility) that the Everettian's own resources defeat.
+- **Calibration ground**: authorship/desert family, so the exclusion posit — *not* the indexical/measure-weighting move used for suffering claims at `apex/moral-architecture-of-consciousness.md` L188. `tenets/background-commitments.md` untouched, per brief.
+- **Calibration, not retraction**: Tenet 4 stands unweakened. The closing sentence still carries the Map's positive claim — one outcome actually obtains, the agent's selection determines which, and that is what lets moral weight attach to the choice.
+- **Published**: yes
 
 ## 2026-07-28T01:16:52+00:00 - refine-draft
 - **Status**: Success
