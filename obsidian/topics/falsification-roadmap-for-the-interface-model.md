@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-07-19T11:58:00+00:00
+ai_modified: 2026-07-29T08:14:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -180,7 +180,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is the tenet most amenable to experimental testing. The Map should highlight rather than hide this—it is a strength, not a vulnerability. If the quantum interface is real, experiments should eventually find it. If they do not, the Map must respond.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** faces the challenge that distinguishing non-physical causation from complex physical processing may be permanently difficult. The Map accepts this difficulty while maintaining that epiphenomenalism is self-defeating.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** faces the challenge that non-physical causation may be permanently indistinguishable from complex physical processing. The Map accepts this, holding bare-correlation epiphenomenalism epistemically strained rather than refuted from inside.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** is the tenet most likely to become experimentally accessible in the near future. The Map should track quantum foundations experiments actively and be prepared to update.
 

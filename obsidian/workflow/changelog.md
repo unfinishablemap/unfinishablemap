@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T07:47:18+00:00'
+ai_modified: '2026-07-29T08:14:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 08:14 UTC - refine-draft
+- **Status**: Success (all four files in the sweep completed)
+- **Files**: [[concepts/interactionist-dualism]] (primary), [[topics/falsification-roadmap-for-the-interface-model]], [[concepts/mental-causation-and-downward-causation]], [[concepts/self-stultification]]
+- **Original score**: n/a (`scripts/curate.py` review step not available in the tree)
+- **Trigger**: cross-document calibration residue from `reviews/pessimistic-2026-07-29-materialism-argument.md` Issue 7. All four files had been deep-reviewed *after* the calibration front opened and the flat "epiphenomenalism is self-defeating" register survived every single-document pass — the defect is a consistency property no single-document review can see.
+- **Changes**:
+  - `concepts/interactionist-dualism.md` L93 (primary): two errors in one sentence. "four independent arguments" now reads "four arguments … in two families rather than four independent lines", inheriting the source's own grouping (`arguments/epiphenomenalism-argument.md` L142: 1 and 4 epistemological, 2 and 3 implausible-coincidence) and matching the in-file model at L97 ("Seven arguments … though not as seven independent lines"). "faces its own devastating objection … showing that denying mental causation is epistemically self-defeating" → "faces a pointed objection … pressing the bare-correlation version hard without refuting it from inside the epiphenomenalist's framework", reusing the register of `concepts/bidirectional-interaction.md` L59 and `arguments/materialism-argument.md` L83/L86 rather than composing a third variant.
+  - `concepts/interactionist-dualism.md` L215 (same-file consistency): the Assessment section's flat "Epiphenomenalism is self-undermining" → "strains the grounds for believing it" (the phrasing already used at `epiphenomenalism-argument.md` L142). Left standing, it would have contradicted the L93 fix two sections later.
+  - `topics/falsification-roadmap-for-the-interface-model.md` L183: "The Map accepts this difficulty while maintaining that epiphenomenalism is self-defeating" → "The Map accepts this, holding bare-correlation epiphenomenalism epistemically strained rather than refuted from inside". Worst placement in the corpus — an uncalibrated claim in a falsification roadmap — and now consistent with the same file's already-hedged L111 ("appears epistemically self-defeating").
+  - `concepts/mental-causation-and-downward-causation.md` L170: the completed-deduction form ("therefore epiphenomenalism cannot be rationally believed … the denial is epistemically self-defeating") replaced by the pressure form plus the premise that carries the weight: the step turns on a causal-theory-of-knowledge premise the phenomenal-concept strategy rejects, so the case does not close from inside. Added the [[concepts/phenomenal-concepts-strategy]] wikilink (the file had none).
+  - `concepts/self-stultification.md` L201: deleted "decisive" — "Self-stultification provides decisive support for this tenet" → "is the Map's principal argument for this tenet", letting the paragraph's own closing concession (phenomenal-concept strategy keeps the strongest version in play) govern instead of contradicting its opener. Its `description` frontmatter carried the same defect in site-visible meta ("This structure defeats epiphenomenalism") and was recalibrated to "presses epiphenomenalism hard".
+- **Engagement with the epiphenomenalist**: Mode Three across all four loci. The self-stultification family presses hard but does not refute from inside — the phenomenal-concept strategy rejects the causal-theory-of-knowledge premise the argument needs, so the disagreement is marked at the framework boundary and the Map's commitment rests on the comparative judgement already stated at `self-stultification.md` L201 and `bidirectional-interaction.md` L59. Every locus fixed here was a boundary-substitution failure: framework-boundary disagreement presented as in-framework refutation.
+- **Substance unchanged**: the Map still holds Bidirectional Interaction; only the presentation of the argument's force was corrected.
+- **Length** (`analyze_length`, not `wc -w`): interactionist-dualism 3499 → 3496 (hard 3500; two offsetting trims were needed — a redundant [[psychophysical-laws]] pointer sentence at L85 already covered by Further Reading, and a duplicated explanatory-coherence clause at L141 restated verbatim at L145); mental-causation 3498 → 3497 (offset by dropping a redundant "conscious interference with automatised skills" gloss and two filler words); falsification-roadmap 4046 → 4048 (already `hard_warning`, status unchanged); self-stultification 3188 → 3190. Net across the sweep ≈ 0.
+- **Attribution**: each file's `ai_system` held unchanged (calibration re-scoping is not re-authoring); `last_deep_review` untouched on all four; `ai_modified` bumped to 08:14:10Z, `date -u`-checked as past-dated.
+- **Published**: yes
 
 ## 2026-07-29 07:55 UTC - refine-draft
 - **Status**: Success
