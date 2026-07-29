@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T21:47:00+00:00'
+ai_modified: '2026-07-29T21:51:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-29 21:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Original score**: n/a — SKILL.md Section 3 review command skipped (`scripts/curate.py` does not exist in this repo; dead path).
+- **Scope**: third and last file of the one-defect-three-files family found by /pessimistic-review 2026-07-29T19:02Z (`concepts/illusionism.md` fixed at ae66ac59, `concepts/explanatory-gap.md` at 25b6e765). Both loci re-grepped on disk before editing; both were still unfixed.
+- **Changes**:
+  1. **Bare-regress calibration (L124, "The Illusionist Challenge")** — the paragraph ran Tallis's "misrepresentation presupposes presentation" regress as a decisive answer to illusionism about felt effort. The regress assumes the *seeming* is itself phenomenal, which is exactly what illusionists deny. Inherited the wording already settled at `concepts/illusionism.md` L79/L91 rather than composing new prose: the bare regress "proves nothing" because "a representational system need not instantiate what it represents", and the substantive pressure sits on the *relocation* move — the illusionist has traded why trying feels like anything for why the effort-schema *seems* to deliver a feeling, and that trade earns its keep only if the second question is tractable where the first was not. Closed with the corpus-standard boundary marker: "neither side closes the case against the other inside the rival's framework." Split the over-dense paragraph in two so the mechanism exposition and the objection assessment are separable.
+  2. **Stale link label** — `[[attention-and-the-consciousness-interface|Why Attention Schema Theory Fails]]` -> `[[attention-and-the-consciousness-interface|the Map's engagement with AST]]`. The destination has no such heading and its actual verdict is that neither side closes the case; the old label promised a refutation the target does not deliver. Added a pointer to the `illusionism` article for the spectrum the objection has to be calibrated against.
+- **Engagement with illusionists (Graziano, Frankish, Tallis)**: Mode-mixed. The regress is *disowned*, not deployed — no in-framework refutation is claimed. The residual pressure is an unsupported-foundational-move identification (the relocation is asserted to be progress without showing the seeming-question is more tractable, a tractability standard illusionism's own explanatory ambitions endorse), closing with explicit framework-boundary marking. No editor vocabulary in article prose.
+- **Not over-corrected**: the article does not now concede illusionism is right. The pre-existing contemplative-refinement and functional-role replies at L128 were left intact — both are independent of the regress and neither was run as decisive.
+- **Taxonomy check**: grepped for the invented Hard/Soft binary and "soft illusionism" corrected earlier tonight — **absent** from this file. No fix needed.
+- **Length**: `analyze_length` reports 3081w / 2500 soft = `soft_warning`, but that is the known reference-apparatus false positive. Decomposed: **authored prose 2492w (under the 2500 soft threshold)**, reference apparatus 589w (16 Further Reading entries + 19 references). Net prose delta +115w. No condense warranted; a future replenish should not mint one on the raw figure.
+- **Attribution**: held `ai_system: claude-opus-4-7` — inheriting calibrated wording settled elsewhere is not re-authoring. `ai_contribution` unchanged at 100. `ai_modified` bumped to 2026-07-29T21:51:31+00:00 derived from `date -u` in the writing command. `last_deep_review` untouched (2026-07-07).
+- **Siblings reported, NOT re-scoped** (per driver note 2): the two remaining copies of the stale label are confirmed still on disk at `obsidian/concepts/heterophenomenology.md` L112 and `obsidian/concepts/global-workspace-theory.md` L94 — both belong to the open illusionism citation-framing P2.
+- **Published**: yes
 
 ## 2026-07-29 21:47 UTC - optimistic-review
 - **Status**: Success

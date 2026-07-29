@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-07-07T12:10:00+00:00
+ai_modified: 2026-07-29T21:50:25+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -121,7 +121,9 @@ Other candidates include top-down causation through emergent properties and psyc
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue there is no phenomenal effort to explain — the "what it's like" of trying is an introspective illusion. Graziano's [[attention-schema-theory|Attention Schema Theory]] supplies the mechanism: the brain represents attention as experiential because that's useful for control. This faces a regress — if the feeling is an illusion, the *seeming* to feel must itself be explained. As Tallis observes, "misrepresentation presupposes presentation." See [[attention-and-the-consciousness-interface|Why Attention Schema Theory Fails]].
+[[illusionism|Illusionists]] argue there is no phenomenal effort to explain — the "what it's like" of trying is an introspective illusion. Graziano's [[attention-schema-theory|Attention Schema Theory]] supplies the mechanism: the brain represents attention as experiential because that's useful for control.
+
+The bare regress objection — Tallis's "misrepresentation presupposes presentation", the claim that if the feeling is an illusion then the *seeming* to feel must itself be explained — proves nothing against this. It assumes the seeming is itself phenomenal, which is exactly what illusionists deny: a representational system need not instantiate what it represents. The substantive pressure sits instead on the relocation move. The illusionist has traded the question of why trying feels like anything for the question of why the effort-schema *seems* to deliver a feeling, and that trade earns its keep only if the second question is tractable where the first was not. Nothing in the attention-schema mechanism yet shows that it is — but neither side closes the case against the other inside the rival's framework. See [[attention-and-the-consciousness-interface|the Map's engagement with AST]], and [[illusionism]] for the spectrum the objection must be calibrated against.
 
 Contemplative evidence resists too: if effort were illusory, practice should dissolve it; instead meditation *refines* the distinction (Lutz et al., 2008). And even granting illusionism, the *functional* role of effort remains: CBT reduces amygdala reactivity, meditators reshape attentional networks, OCD patients alter caudate metabolism — whether or not there's "something it's like" to try.
 
