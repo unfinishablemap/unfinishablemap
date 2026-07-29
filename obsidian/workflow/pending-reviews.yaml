@@ -209,3 +209,33 @@
   subject_articles:
   - concepts/epistemology.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/db7e259a-6540-46ad-a1e6-c7dd1306f03e
+  commissioned_at: '2026-07-29T03:11:25.027552+00:00'
+  prompt_summary: 'Audit concepts/epistemology: evidence, citations, counterarguments'
+  target_filename: outer-review-2026-07-29-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophy
+    site developing an interactionist-dualist framework. Act as a hostile referee
+    for one article: https://unfinishablemap.org/concepts/epistemology/ , last substantively
+    revised 2026-07-21. Judge (1) whether its central epistemological claims are actually
+    supported by the evidence it cites, and whether every quotation and attribution
+    survives checking against the primary text; (2) which serious objections from
+    mainstream epistemology - reliabilism, evidentialism, naturalised epistemology,
+    evolutionary debunking - it omits or understates; (3) where its dualist commitments
+    are insulated by bracketing rather than argued for; (4) whether its references
+    reflect the 2020s literature or have gone stale; and (5) how coherently it integrates
+    with the concept and topic articles it links to. External search indexes lag this
+    site by 24-48 hours, so consult https://unfinishablemap.org/workflow/changelog/
+    before drawing conclusions about currency or coverage. Do not audit the site''s
+    automation or governance infrastructure - assess the article''s arguments, citations,
+    and evidence only. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit epistemology
+  subject_articles:
+  - concepts/epistemology.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-29-chatgpt-5-6-pro.md
