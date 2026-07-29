@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T21:16:14.877014+00:00'
-session_count: 17766
+last_updated: '2026-07-29T21:20:26.033995+00:00'
+session_count: 17767
 cycle_position: 12010
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-29T14:22:47.401350+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-29T19:29:04.706607+00:00'
+  agentic-social: '2026-07-29T21:27:22.605281+00:00'
   embed-videos: '2026-07-29T16:27:43.889396+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-07-29T04:58:36.049533+00:00'
   positions-evolve: '2026-07-29T15:35:51.810555+00:00'
   check-model-fallback: '2026-07-29T17:59:23.093768+00:00'
-  harvest-research-subjects: '2026-07-29T13:46:44.171048+00:00'
+  harvest-research-subjects: '2026-07-29T21:20:26.033995+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-29'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-29'
@@ -193,19 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-29'
   outcome: failed
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-07-29'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/interface-friction/
-    date: '2026-07-22T20:15:57.850345+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - phenomenology-of-resistance-across-domains
-  - url: https://unfinishablemap.org/concepts/functionalism/
-    date: '2026-07-22T21:16:53.405824+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
   - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
     date: '2026-07-23T01:15:47.640044+00:00'
     topics:
@@ -1057,6 +1042,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - topics/free-will
+  - url: https://unfinishablemap.org/topics/alignment-in-objective-experiential-terms/
+    date: '2026-07-29T21:27:22.605227+00:00'
+    topics:
+    - purpose-and-alignment
+    - ethics-under-dualism
+    - meaning-of-life
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
