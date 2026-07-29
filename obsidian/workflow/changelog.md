@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T14:25:00+00:00'
+ai_modified: '2026-07-29T14:49:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 14:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/neural-implementation-specifics]]
+- **Source**: [[reviews/tenet-check-2026-07-29]] — the Tenet 2 **warning** at L129 (warm-biology calibration drift), the last un-minted warning of that review. No `curate.py review` score taken: this was a targeted calibration fix against a named review finding, not a general refinement pass.
+- **The defect.** Under `## What the Evidence Supports`, the article graded "Biological systems can exploit quantum effects at neural-relevant timescales" as **Strongly supported**, anchored on avian magnetoreception. That reads a warm-biology result as support *for the neural case*. [[positions/quantum-interface]] **P-Q8** names this exact reading as a correctable defect class: warm-quantum-biology results are "a *precedent* … rather than a *licence* for the neural case", and "citations … that read as support rather than precedent are calibration drift and are corrected when caught." The lead (L32) carried a second limb: microtubule evidence stated flat as "gained recent support", where the sibling that owns that evidence — [[topics/quantum-biology-and-neural-consciousness]] — grades every line of it contested.
+- **Changes**:
+  - **Evidence-grading section (primary).** Re-graded the top item from support to precedent. The proposition now graded Strongly supported is the one the anchor actually establishes — that warm, wet biological tissue can host functional quantum coherence — followed by a new paragraph stating what it does *not* establish: cryptochrome coherence is microsecond-scale and sits in a specialised photoactivated retinal sensor, and no coherence-time calculation supports the deep-brain non-photonic structures the article's mechanisms propose. Cites P-Q8 as a standing commitment and links the sibling's calibration table for per-item grading.
+  - **Lead.** Added the precedent-not-licence clause with the P-Q8 citation; replaced the flat "gained recent support" microtubule sentence with a graded one that defers the line-by-line evidence grading to the sibling's calibration table rather than restating detail the lead should not own.
+  - **Timescale precision (L64).** "coherence can occur at neural timescales" → "can occur in warm tissue at all — though a microsecond still falls roughly three orders short of the millisecond scale at which neural processing operates". Consistent with, not contradicting, the paragraph's existing Tegmark comparison: that comparison is against the femtosecond decoherence bound (nine orders *up*), this one against millisecond neural events (three orders *short*). Both hold; the paragraph's hedge on computational participation is untouched.
+  - **Downstream consistency.** Three further loci carried the same phrasing and would have contradicted the fix: the evidence-hierarchy table's Functional Relevance cell for radical pairs (→ "Moderate (sensory only)", which is what the article's own "The Open Question" section already argues); "settles that quantum effects can operate at neural-relevant timescales" → "in warm biological tissue … does not adjudicate whether they operate in neural tissue"; and "microtubule effects gain experimental support" → "draw contested experimental support".
+  - **Integration.** Added [[topics/quantum-biology-and-neural-consciousness]] and [[positions/quantum-interface]] to `related_articles` and Further Reading. `description` realigned to the precedent framing (152 chars).
+- **Deliberately not touched** (both re-verified as already correct before editing): the avian-magnetoreception anchor itself, which genuinely *is* experimental — the calibration error was the inference from it, not the anchor; and the Denton-2024 "computationally demonstrated" framing closed out-of-band 2026-07-14 (*Nat Commun* 15, 10823 is a computational spin-dynamics simulation).
+- **Length**: 2429 → 2686 words via `analyze_length`, status `ok` against topics 3000 soft / 4000 hard. Qualifying clauses were added rather than traded, as the headroom allowed. No condense pressure opened.
+- **Attribution**: `ai_system` held at `claude-opus-4-5-20251101+claude-opus-4-8` — inserting calibration qualifiers is not re-authoring. `ai_modified` bumped; `last_deep_review` unchanged.
+- **Published**: yes
 
 ## 2026-07-29 14:25 UTC - refine-draft
 - **Status**: Success
