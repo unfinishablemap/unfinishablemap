@@ -3,7 +3,7 @@ title: "Research: Illusionism and Frankish's Functional-Seeming Response"
 created: 2026-03-28
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-06-09T00:00:00+00:00
+ai_modified: 2026-07-29T22:51:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,8 @@ This research focuses on Keith Frankish's specific response to the regress objec
 - **URL**: https://web.ics.purdue.edu/~drkelly/StrawsonDennettNYRBExchangeConsciousness2018.pdf
 - **Type**: Essay/Exchange (New York Review of Books)
 - **Key points**:
-  - Strawson calls illusionism "the silliest claim ever made" and compares it to Flat Eartherism
+  - Strawson calls denying consciousness exists "the silliest claim ever made"; he names the target "the Denial" and cites Dennett as its chief exponent
+  - Scope caveat: the essay never uses the word "illusionism". Frankish is named only in Strawson's April 2018 rejoinder to Dennett, in a list of philosophers backing "eliminativism" about consciousness—so the "silliest claim" verdict does not target Frankish's illusionism directly
   - Presents the no-gap argument: "to seem to feel pain is to be in pain"—there is no appearance-reality gap for phenomenal experience
   - An illusion of phenomenal experience would itself constitute phenomenal experience
 - **Tenet alignment**: Strongly aligns with Tenet 1 (Dualism). Strawson's no-gap argument resonates with the Map's position that phenomenal consciousness is irreducible
@@ -177,7 +178,7 @@ This research focuses on Keith Frankish's specific response to the regress objec
 | 2016 | Frankish (ed.), "Illusionism as a Theory of Consciousness" (JCS special issue) | Collects responses from Dennett, Prinz, Strawson, and others |
 | 2017 | Kammerer, "Can you believe it? Illusionism and the illusion meta-problem" | Poses the meta-problem: why does illusionism seem so absurd? |
 | 2018 | Chalmers, "The Meta-Problem of Consciousness" | Explores why we have the intuitions we do about consciousness |
-| 2018 | Strawson, "The Consciousness Deniers" (NYRB) | High-profile attack calling illusionism "the silliest claim ever made" |
+| 2018 | Strawson, "The Consciousness Deniers" (NYRB) | High-profile attack: denying consciousness exists is "the silliest claim ever made" |
 | 2023 | Frankish, "What is Illusionism?" | Clarifies classic/zero/diet qualia distinction; defends functional seeming against circularity |
 | 2022 | Shabasson, "Explaining the Illusion" (RPP) | Details a "false inference" version of the distortion thesis and introspective misrepresentation mechanism |
 | 2022 | Kammerer, "How Can You Be So Sure?" | Addresses obviousness of phenomenal consciousness using introspective opacity |

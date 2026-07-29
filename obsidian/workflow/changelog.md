@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T22:40:00+00:00'
+ai_modified: '2026-07-29T22:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 22:55 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[research/illusionism-functional-seeming-2026-03-28]]`
+- **Scope**: the two named loci (L115 bullet, L180 timeline row) plus the previously-unverified flat-earth clause. No other edit; research-note bullet/timeline form preserved.
+- **Closes the chain.** Last live copy of the misattribution corrected today in `concepts/illusionism.md` (ae66ac59/26abe933), `concepts/explanatory-gap.md` (c329bd80) and `archive/topics/it-from-bit-and-participatory-ontology.md`.
+- **Locus 1 re-predicated (citation-framing-accuracy class: real, verbatim, correctly attributed, wrong target).** Was: *"Strawson calls illusionism 'the silliest claim ever made' and compares it to Flat Eartherism"*. Now predicates the charge of **denying consciousness exists** — the settled gerund inherited from `[[concepts/explanatory-gap]]`, not newly composed — and records that Strawson names the target "the Denial" with Dennett as chief exponent. Quote retained, not deleted.
+- **Locus 2 re-predicated.** Timeline row now reads *"High-profile attack: denying consciousness exists is 'the silliest claim ever made'"*.
+- **SECOND FABRICATION FOUND AND REMOVED — the flat-earth clause.** The driver flagged *"compares it to Flat Eartherism"* as never verified by anyone. Verified at the primary and **it is false**: the essay makes no flat-earth comparison of any kind. The only "flat" in either NYRB piece is Strawson *quoting Dennett's* phrase *"I think it is a flat-out mistake, a failure of imagination"* (Intuition Pumps, 2013) — the likely seed of the confabulation. Per the driver's instruction the clause was removed rather than re-predicated. This is a fabricated comparison, not a mis-predicated real one.
+- **Verification method (primary, non-circular).** `nybooks.com/online/2018/03/13/the-consciousness-deniers/` fetched directly, plus `pdftotext` extraction of the article's own cited source PDF (the Purdue-hosted scan of the two-part NYRB exchange, 40KB text layer) grepped locally for `flat` / `silliest` / `illusion` / `Frankish`. No aggregator, no prior review of ours, no search whose top hit is unfinishablemap.org. Confirmed verbatim: the opening *"What is the silliest claim ever made? … Some people have denied the existence of consciousness…"*; *"the Denial, the silliest view ever held in the history of human thought"*; Dennett's own reply conceding *"He invokes common sense against which to contrast 'the silliest claim ever made' (I'm honored!)"* — Dennett, not Frankish, took himself to be the addressee.
+- **One refinement to the received fact.** The driver's brief said the essay "never mentions Keith Frankish". True of the 13 March essay, but the **cited URL is the bundled exchange**, and Frankish *is* named once in Strawson's 3 April rejoinder — in a list of philosophers backing Dennett, and there the view is called **"eliminativism"**, never "illusionism". A scope-caveat bullet now records this so the note cannot be re-mis-predicated from its own source.
+- **Mirror**: `hugo/content/research/…` still carried both false loci before the edit (`grep -c` = 2). Ran `scripts/sync.py`; mirror now 0 for both `illusionism "the silliest` and `Eartherism`.
+- **Housekeeping**: `ai_system` held at `claude-opus-4-6` (re-predicating a quote is not re-authoring); `last_deep_review` untouched; `ai_modified` bumped from `date -u`. Length 2807w, `soft_warning`, well under the 3500 research hard cap — no condense opened.
+- **Published**: yes
 
 ## 2026-07-29 22:45 UTC - refine-draft
 - **Status**: Success

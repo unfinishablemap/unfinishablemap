@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-29 22:45 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[concepts/explanatory-gap]]`
+- **Scope**: single-locus citation-framing re-predication (L115). No other edit.
+- **The defect (citation-framing-accuracy class: real, verbatim, correctly attributed, WRONG TARGET).** Was: *"Galen Strawson's verdict that illusionism is 'the silliest claim ever made' registers that disagreement without settling it."* Re-verified at the nybooks.com primary ("The Consciousness Deniers", 13 March 2018): the essay opens *"What is the silliest claim ever made? … Some people have denied the existence of consciousness…"* — Strawson predicates the charge of **the denial that conscious experience exists**, names Dennett, Rorty, Feyerabend and Farrell among the deniers, and **never uses the word "illusionism" and never mentions Keith Frankish**. The quote was retained and re-predicated, not deleted.
+- **Now**: *"Galen Strawson's verdict that denying consciousness exists is 'the silliest claim ever made' registers that disagreement without settling it."*
+- **Inherited the predication from the sibling, not the sentence.** `concepts/illusionism.md` L85 settled a 40-word form carrying a Frankish sub-clause. That clause is illusionism-specific and does not belong on a page whose subject is the explanatory gap, so only the substitution of the denial-of-consciousness predication for "illusionism" transferred. The gerund form ("denying consciousness exists") was chosen over the sibling's noun phrase ("the denial of consciousness's existence") purely to buy length: it is the same predication in 3 fewer words, and the slack was found inside the substituted phrase rather than by trimming any calibration hedge nearby.
+- **Length**: 3536 → **3538** words (+2). The raw figure trips `hard_warning` against the 3500 concepts ceiling, but **572 words are reference apparatus**, so argument prose is **~2966** and the article is **not** genuinely over (`analyze_length` counts reference apparatus). This is the third time this file has been flagged for that; no condense was opened and this was not treated as a length task.
+- **Regress routing NOT re-opened.** The surrounding regress argument was repaired at commit 25b6e765 and was left untouched; the remaining defect was the predication alone.
+- **Reference apparatus**: no change needed — L238 already reads *Strawson, G. (2018). "The Consciousness Deniers." New York Review of Books, March 13, 2018.* The defect was inline-only.
+- **Hugo mirror synced immediately.** Post-edit `grep` confirmed `hugo/content/concepts/explanatory-gap.md` still carried the false predication (fork edits touch `obsidian/` only; `cycle_post` syncs on the pre-push path, potentially hours later). Because this is a misattribution to a named living third party, `scripts/sync.py` was run rather than waiting: mirror now carries the corrected predication and zero instances of the old one.
+- **Attribution**: `ai_system` held at `claude-opus-4-5-20251101` (re-predicating a quote is not re-authoring); `ai_modified` bumped from `date -u` in the same command that wrote it; `last_deep_review` untouched.
+- **⚠️ OUT-OF-SCOPE, REPORTED NOT FIXED — same false predication survives in a live public research note.** `obsidian/research/illusionism-functional-seeming-2026-03-28.md` **L115** (*"Strawson calls illusionism 'the silliest claim ever made' and compares it to Flat Eartherism"*) and **L180** (timeline row: *"High-profile attack calling illusionism 'the silliest claim ever made'"*). `research/` is public and syncs to Hugo, so these are reader-facing. Both need the same re-predication; L115's Flat-Eartherism comparison should be checked against the primary at the same time. Not fixed here — scope was this file, this sentence.
+- **Published**: yes
+
 ## 2026-07-29 22:40 UTC - coalesce
 - **Status**: Success (NO MERGE — **abandon-coalesce** per [abandon-coalesce](/project/abandon-coalesce/))
 - **Sources**: none archived · **Target**: none created · **Archived**: none · **References to review**: none
