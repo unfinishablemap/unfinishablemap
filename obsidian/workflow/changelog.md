@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T16:41:00+00:00'
+ai_modified: '2026-07-29T17:13:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 17:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Task**: floor-restoring mint by `/replenish-queue` (run 891) — the **dropped second file** of the two-file note at `reviews/tenet-check-2026-07-29.md` **L136**, and the third `multifile_task_dropped_file` instance from that one review. Confirmed dropped: commit **1ddd19140** (08:54:19Z) closed the paired locus and its `--stat` does **not** list this file.
+- **Defect (single locus, L59, third sentence of the body)**: "classifies the four argument types **showing it is self-undermining**". The participle *showing* is factive — it asserts the arguments succeed, in the orientation paragraph a reader hits before any qualification. `tenets/tenets.md` **L100** names this exact phrasing as where the disagreement does *not* live (*"'epiphenomenalism is self-undermining,' which the strongest version of the position survives"*) and **L98** forbids "letting the reader infer a stronger result than the argument warrants". The file also **contradicted itself**: L151 (*"a genuine empirical obstacle, not a philosophical refutation"*) and L162 (*"These consequences do not refute epiphenomenalism"*) both concede what L59 asserted.
+- **Fix**: participle swap plus one conditionality clause — now *"classifies the four argument types that press epiphenomenalism hard without refuting it from inside its own framework."* **Wording inherited, not invented**: "presses epiphenomenalism hard" is verbatim from `concepts/self-stultification.md` L3 (this morning's first-wave sweep) and "without refuting it from inside the epiphenomenalist's framework" verbatim from `concepts/causal-closure.md` L187 (the paired locus, verified on disk at dispatch). Fifth file to carry this register; no sixth variant minted.
+- **Engagement classification (editor-internal)**: Mode Three — framework-boundary marking. The corrected sentence now marks the disagreement honestly instead of letting boundary-marking pass as in-framework refutation, which is the substitution failure the discipline names. No mode vocabulary in the article body.
+- **Scope fence honoured — L59 and nothing else.** Re-verified as already correctly calibrated and left untouched: L103 ("conceding the threat rather than defeating it"), L149 ("refuting the categorical claim" — a different and correct use, about Tegmark's decoherence figure), L151, L162. The adjacent "four **independent** argument types" wording at `concepts/epiphenomenalism.md` L88/L156/L167 was **not** swept: different multi-article axis (argument individuation), not flagged by this review, and L59 says "the four argument types" *without* "independent", tracking that file's own section structure accurately.
+- **In-file consistency fallout**: none found. Frontmatter `description` carries no factive self-stultification framing (its "why escape attempts fail" is about *other theories'* escape from the gravity well, a different claim), and the L57 lead is already mechanism-framed.
+- **Word count**: 3301 → 3309 (`soft_warning` both sides, **691 below the 4000 hard ceiling**; measured with `analyze_length`, never `wc -w`). Not binding — the fix is a substitution. No condense opened.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` — softening a participle is not re-authoring. `+`-joined string form, no YAML list, no `[1m]` artifact (grep clean). `ai_modified` bumped only, stamped from the live UTC clock in the same command that printed it. `last_deep_review` untouched.
+- **Validation**: EOF last-two-lines scan clean (two reference entries, no tool-call-tag artifact); no `[1m]`; working tree carried only the expected state-file deltas at dispatch.
+- **Observation for the operator (not actioned, outside the fence)**: L172 states the self-stultification argument leaves epiphenomenalism "rationally unendorsable by the very minds it describes". That is a stronger register than today's sweep installed elsewhere, and L172 was not among the loci the task listed as checked. Flagged only — the fence was explicit, so no edit made.
+- **Published**: pending next sync/deploy
 
 ## 2026-07-29 16:50 UTC - apex-evolve
 - **Status**: Complete
