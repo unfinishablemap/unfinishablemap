@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T19:43:16+00:00'
+ai_modified: '2026-07-29T21:32:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 21:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Word count**: 2984 -> 3048 (+64; `soft_warning` both before and after, hard cap 3500 — no condense warranted)
+- **Defect fixed**: L122 read *"Chimpanzee working memory holds approximately 2±1 items versus human 4±1 (Cowan 2001, revising Miller's classic 7±2)"*. Cowan (2001) reconsiders **human** short-term storage and proposes 4±1; it contains no chimpanzee estimate. The parenthesis silently sourced an ape datum to a human-only paper. This was the **only** file in the corpus doing so.
+- **Attribution resolved against a corpus split (the task brief named the minority view).** The dispatch text said to install "Read (2008)"; four live articles instead use **Read, Manrique & Walker (2022)**. Both papers are real and both genuinely carry the figure, so this was settled at the publisher rather than by majority vote alone — and the majority turned out to be right for *this* sentence.
+  - **Primary-source verification**: the accepted manuscript was retrieved from the Universidad de Zaragoza repository (`zaguan.unizar.es/record/112160`) and the text extracted and read locally; `sciencedirect.com` returned 403 and `pubmed`/`europepmc` served navigation shells only. Abstract, verbatim: *"We review empirical evidence and conclude that the size of WM in chimpanzees is 2 ± 1 versus Miller's famous 7 ± 2 in humans."* Metadata independently confirmed via the **Crossref API**: Read (first), Manrique, Walker; *Neuroscience & Biobehavioral Reviews* 134, article-number 104496, 2022, DOI 10.1016/j.neubiorev.2021.12.019. `unfinishablemap.org` was excluded from search to avoid self-confirmation.
+  - **Why the 2022 paper and not the 2008 one.** The 2022 review states at §2 that *"In analogy with Miller's 7 ± 2, the senior author introduced (Read, 2008) the expression 2 ± 1 for the working memory holding capacity of Pan"* — so Read (2008) is where the **expression originates** (as an inference, not a measurement), and the 2022 paper is the **review of record** that re-derives and defends it against the comparative data. Decisively for this sentence, only the 2022 paper supplies the *Cowan-framed pairing* the article actually needs: *"chimpanzees PWMS\* is around 2 ± 1 in comparison to humans with PWMS = 4 ± 1"*, with *"For Homo sapiens, PWMS = 4 ± 1 (Cowan, 2001) and EWMS = 7 ± 2 (Miller, 1956)."* Copying "Read (2008)" from the brief would have cited the origin of the notation for a 2±1-vs-4±1 comparison that paper does not make, spreading a second inconsistency instead of closing the first.
+- **Inherited, not composed.** The replacement is `concepts/baseline-cognition.md` L98's sentence, which is near-verbatim the same construction: Read/Manrique/Walker for the ape figure, Cowan for the human figure, plus the review's-synthesis caveat and the `[[working-memory#The Capacity Gap]]` contestedness cross-link (anchor verified present at `working-memory.md:71`). Cowan 2001 retained for the human 4±1 and the Miller comparison, exactly as the task required.
+- **Citation metadata withheld rather than reconstructed**: the reference is entered in the corpus-canonical form — volume + article number + DOI, **no page range**. Crossref gives `104496` for both volume-article and page fields, so there is no range to state; none was invented.
+- **Frontmatter**: `ai_modified` derived from `date -u` in the writing command. `ai_system` **held** at `claude-opus-4-5-20251101` (a citation correction is not re-authoring); `last_deep_review` and `ai_contribution` untouched. Validates clean; no `[1m]` ANSI artifact.
+- **Sibling locus found, deliberately NOT re-scoped** (reported for separate minting): `topics/language-recursion-and-consciousness.md:59` carries *"Great ape WM holds approximately 2±1 items"* with **no citation at all** — Cowan is correctly attached only to the human 4±1 there, so this is a bare-figure gap rather than the same misattribution, and the install would be Read, Manrique & Walker (2022).
+- **Published**: yes
 
 ## 2026-07-29 19:43 UTC - deep-review
 - **Status**: Success
