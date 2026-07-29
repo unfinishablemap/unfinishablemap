@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-07-28T02:46:29+00:00
+ai_modified: 2026-07-29T18:17:38+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -76,7 +76,7 @@ Flexibility connects to [[reasons-responsiveness]]: an agent is responsible to t
 
 ### Availability
 
-Not all attentional capacity is available for moral deliberation at any given moment. Chronic pain, emotional distress, poverty-related cognitive load, caregiving demands, and information overload all consume attentional resources that would otherwise be available for moral reasoning. Research on the cognitive effects of scarcity (Mullainathan and Shafir, 2013) demonstrates that poverty itself reduces available cognitive bandwidth by the equivalent of 13 IQ points—not through any permanent impairment but through the constant attentional demands of managing deprivation.
+Not all attentional capacity is available for moral deliberation at any given moment. Chronic pain, emotional distress, poverty-related cognitive load, caregiving demands, and information overload all consume attentional resources that would otherwise be available for moral reasoning. Research on the cognitive effects of scarcity (Mani et al., 2013) reports that poverty itself reduces available cognitive bandwidth by the equivalent of roughly 13 IQ points—not through any permanent impairment but through the constant attentional demands of managing deprivation. The finding is contested and only partly replicated: Carvalho, Meier and Wang (2016) found no corresponding shift in cognitive performance across a payday change in financial resources, and O'Donnell et al.'s (2021) audit judged the evidentiary value of the wider scarcity literature uneven—though the original authors have defended their result against methodological challenge, and the audit has itself drawn published rebuttal. The gradient does not depend on the specific magnitude; what it needs is the weaker and better-supported claim that managing deprivation consumes attentional resources that would otherwise be available for deliberation.
 
 Availability is the most socially consequential dimension. It connects individual moral responsibility to structural conditions. An agent operating with depleted availability due to systemic disadvantage bears less desert for attention-demanding moral failures—not zero, but less.
 
@@ -141,7 +141,7 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## Objections
 
-**"This lets everyone off the hook."** No. As Strawson (1962) recognised, our reactive attitudes—resentment, gratitude, indignation—are calibrated to perceived capacity. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. Most moral failures occur within the range of full or near-full capacity. The gradient adds nuance without dissolving responsibility.
+**"This lets everyone off the hook."** No. As Strawson (1962) recognised, our reactive attitudes—resentment, gratitude, indignation—are calibrated to perceived capacity. The Map borrows that descriptive observation while [[reactive-attitudes-and-strawsonian-responsibility|declining Strawson's dissolution]] of the metaphysical question he brackets; what the gradient needs is his point about how blame tracks perceived capacity, not his claim that responsibility reduces to the practice of blaming. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. Most moral failures occur within the range of full or near-full capacity. The gradient adds nuance without dissolving responsibility.
 
 **"Attentional capacity can't be measured, so the gradient is useless in practice."** Attentional capacity is better characterised than most psychological constructs. Working memory span, sustained attention tests, task-switching paradigms, and attentional blink measures all provide operationalisable proxies. The gradient doesn't require precise measurement to be morally illuminating—it requires acknowledging that capacity varies and that this variation matters.
 
@@ -168,6 +168,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [[attention-as-interface]] — Why attention serves as consciousness's interface with matter
 - [[attention-and-the-consciousness-interface]] — What attentional impairments reveal about the interface
 - [[reasons-responsiveness]] — Responsiveness to reasons as a condition for responsibility
+- [[reactive-attitudes-and-strawsonian-responsibility]] — The Strawsonian rival the Map declines, whose descriptive observation about blame and capacity the gradient borrows
 - [[phenomenology-of-agency-vs-passivity]] — The phenomenological structure of the agency-passivity spectrum
 - [[authentic-vs-inauthentic-choice]] — Existentialist perspective on how consciousness engages with selection
 - [[evaluative-phenomenal-character|Moral Phenomenology and Perception]] — How attention shapes the capacity to perceive moral reasons
@@ -183,6 +184,9 @@ The moral implications extend in both directions. Where most discussions of grad
 1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+1. Mani, A., Mullainathan, S., Shafir, E. & Zhao, J. (2013). Poverty impedes cognitive function. *Science*, 341(6149), 976-980. doi:10.1126/science.1238041
 1. Mullainathan, S. & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
+1. Carvalho, L.S., Meier, S. & Wang, S.W. (2016). Poverty and economic decision-making: Evidence from changes in financial resources at payday. *American Economic Review*, 106(2), 260-284.
+1. O'Donnell, M., et al. (2021). Empirical audit and review and an assessment of evidentiary value in research on the psychological consequences of scarcity. *Proceedings of the National Academy of Sciences*, 118(44), e2103313118.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 187-211.
