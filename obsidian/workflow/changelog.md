@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T07:05:35+00:00'
+ai_modified: '2026-07-29T07:24:37+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 07:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epistemology]]
+- **Word count**: 3475 → 3498 (concepts hard ceiling 3500; 2 words of margin left)
+- **Task**: convergent outer-review item (a), P1 — predictive processing as the un-engaged physicalist rival (Claude Opus 5 Dimension 2 + Gemini 2.5 Pro weakness 3, independently). Item (b), disagreement epistemology, deferred per dispatch.
+- **Compression claim re-verified, not inherited.** The dispatch reported the well dry after three sibling passes today. Independently checked: the externalism pass (`eedd8aefe`) had already run a corpus-wide tightening sweep on this file *and* cut six Further Reading items to fund its own ~340 words, so the obvious micro-compressions were genuinely spent. Nine defensible recoveries remained, none of them a calibration qualifier, hedge, or citation framing:
+  - Mary's Room walk-through removed from the knowledge-argument sentence (−20). Standard background the style guide says to skip for LLM readers; the dedicated wikilink carries it. Inferential content retained verbatim.
+  - Type-B gloss "who accept the gap but deny it signals an ontological divide" removed (−11) — it restates the clause it attaches to ("merely a limitation in our current concepts").
+  - "Epistemic Humility" opener: the two-tier acquaintance calibration was stated twice, once flatly ("presents itself to the subject in a certain way") and again two sentences later with the existence/character split. Merged to the calibrated version (−25). Net *gain* in accuracy — the flat statement was immediately hedged by the sentence following it.
+  - `— one referent under two modes of access —` gloss folded into the clause it glossed (−8).
+  - Four "Under Dualism" signposts tightened (−36 across the throat-clearing opener, the maths analogy, Second, Third, Fifth); every claim and every wikilink preserved. Hub signpost accretion, not argument.
+  - "Relation to Site Perspective" opener: dropped the restatement of the lead's thesis (−15).
+  - Small: "no solution exists" → "none exists", "it is being asked to adjudicate" → "it is asked to adjudicate".
+- **Changes**: one new paragraph closing "Two Epistemic Channels" (~130 words), plus `[[predictive-processing]]` in `concepts:` and `[[predictive-processing-and-dualism]]` in `related_articles:`.
+  - States PP's single-mechanism claim directly against the two-channel partition — the partition is a claim about warrant, and the leading physicalist account of epistemic access denies two are needed.
+  - Names the meta-problem branch as **the live attempt on this article's own falsification condition**, which is the connective tissue the synthesis asked for: the L123 falsifier read as decorative precisely because the article named what PP claims to be attempting and then never engaged it.
+  - Says explicitly **what a successful PP account of report-structure would and would not settle** — it would settle the structure of first-person report, why subjects say what they say; it would not settle that the inference is undergone.
+  - Locates the residue honestly as a dispute over the *specification of the explananda*, tying back to the caution the parsimony paragraph already carries, rather than claiming a refutation.
+- **Engagement with predictive processing: Mode Two, with a Mode Three residue.** Mode Two — the step from recursive self-evidencing to felt experience is a foundational move PP has not earned by its own commitment to mechanism; the article says the step is unsupported and delegates the argument to the spoke. Mode Three — whether a qualitative residue survives a successful report-structure derivation is the explananda dispute, marked at the framework boundary rather than dressed as an in-framework refutation. No mode labels appear in the article body.
+- **Citations**: none added. The meta-problem programme is named without author-year so no new reference entry was needed and no unverified metadata entered the file; `[[predictive-processing-and-dualism]]` carries the Clark, Friston & Wilkinson (2019) citation, already in the corpus. Gemini's supporting citations (Corcoran et al. 2022/2024, Whyte et al. 2024) were **not inherited**, per dispatch.
+- **Attribution**: `ai_system` held (no substantial re-authoring); `last_deep_review` untouched.
+- **Residual**: 2 words of margin. The open NEEDS-HUMAN length decision on this file (condense-first vs. splitting a dedicated spoke, `concepts/` at ~318/320) is now strictly more urgent — the next pass on this article has no room at all.
+- **Published**: yes
 
 ## 2026-07-29 07:05 UTC - deep-review
 - **Status**: Success
