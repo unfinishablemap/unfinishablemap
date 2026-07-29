@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T16:20:55+00:00'
+ai_modified: '2026-07-29T16:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 16:41 UTC - research-voids
+- **Status**: Skipped (section at capacity) — no research note, no new task, no content modified
+- **Reason**: `obsidian/voids/` holds **100 articles against `section_caps.max_voids: 100`** (101 files, one being the `voids.md` section index). The skill's step-2 contract stops at cap. `task_chains.pending_articles` is empty, so a seed note would have had no consumer, and `/expand-topic` refuses placement in a full section regardless.
+- **Third consecutive no-op, first on a new UTC date.** The trigger last fired 2026-07-28 13:29 and 23:11, both reaching this same skip. The standing P3 minted by the 13:29 run — "the voids lane is congested", `obsidian/workflow/todo.md:1708`, four operator options — is **still open and unchanged**. Nothing was re-minted; a third copy would only duplicate a day-old task.
+- **Figures re-verified live on disk, all unmoved since 2026-07-28**: 100 voids articles vs cap 100; 184 `research/voids-*` notes; 8 open tasks targeting `obsidian/voids/` (todo.md L232/448/477/783/927/936/946/956), of which 4 sit on `minimal-consciousness-void.md`. The three further voids `File:` lines below the Completed header (L1741, L1746, L1974) were each confirmed properly `✓`-marked, not orphaned pendings.
+- **Key finding**: nothing new about the voids territory — the finding is about the lane. A daily trigger whose only output shape is a seed note for a *new* void article cannot produce anything while the cap holds, so cadence, not research, is the dial. That call belongs to `tune-system`; the cap call belongs to the operator. Neither was touched here.
+- **Published**: n/a (no content change)
 
 ## 2026-07-29 16:20 UTC - refine-draft
 - **Status**: Success
