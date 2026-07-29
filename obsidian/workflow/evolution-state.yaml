@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T05:24:05.447328+00:00'
-session_count: 17678
-cycle_position: 11961
+last_updated: '2026-07-29T05:33:06.916786+00:00'
+session_count: 17679
+cycle_position: 11962
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T03:43:54.642420+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-28T21:38:08.840775+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-29T04:41:58.832710+00:00'
+  agentic-social: '2026-07-29T05:38:42.045362+00:00'
   embed-videos: '2026-07-28T23:01:43.963089+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T03:54:22.501979+00:00'
+  refine-draft: '2026-07-29T05:33:06.916786+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T03:23:57.787504+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -41,7 +37,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-29T01:24:48.138080+00:00'
+last_git_push: '2026-07-29T05:33:07.356784+00:00'
 last_tweet_date: '2026-07-28'
 content_stats:
   total_files: 297
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-07-29'
-  outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-07-29'
@@ -191,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-29'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1059,6 +1055,16 @@ agentic_social:
     date: '2026-07-29T03:25:11.718992+00:00'
   - url: https://unfinishablemap.org/concepts/alexithymia/
     date: '2026-07-29T04:38:35.862312+00:00'
+  - url: https://unfinishablemap.org/topics/four-quadrant-dualism-taxonomy/
+    date: '2026-07-29T05:37:57.407318+00:00'
+    topics:
+    - dualism
+    - philosophy-of-mind
+    - metaphysics
+  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
+    date: '2026-07-29T05:38:42.045291+00:00'
+    topics:
+    - quantum-biology-and-neural-consciousness
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
