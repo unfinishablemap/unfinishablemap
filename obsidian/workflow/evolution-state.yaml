@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T16:08:25.565019+00:00'
-session_count: 17740
+last_updated: '2026-07-29T16:17:12.479610+00:00'
+session_count: 17741
 cycle_position: 11999
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
   refine-draft: '2026-07-29T16:08:25.565019+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-29T15:47:31.448540+00:00'
+  replenish-queue: '2026-07-29T16:17:12.479610+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-29T08:07:48.535280+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-07-29T12:11:50.568780+00:00'
+last_git_push: '2026-07-29T16:17:12.791824+00:00'
 last_tweet_date: '2026-07-29'
 content_stats:
   total_files: 297
@@ -117,10 +117,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-29'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-29'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1093,10 +1093,10 @@ queue_status:
     VERBATIM LIVE ON DISK THIS RUN, with the line number re-measured rather than copied
     from the review (replenish-asserted-concrete-defect-often-false): L130 reads that
     Dualism "receives direct support", then supplies Descartes on the indivisibility
-    of the mind - an argument for SUBSTANCE dualism - and concludes that whatever produces
-    unity is "not a physical property", a PROPERTY claim. Two independent faults in
-    one sentence-pair. Fault (a), evidential register: grep run live this session shows
-    the voids cluster convention is the weaker form, with meta-epistemology-of-limits
+    of the mind - an argument for SUBSTANCE dualism - and concludes that whatever
+    produces unity is "not a physical property", a PROPERTY claim. Two independent
+    faults in one sentence-pair. Fault (a), evidential register: grep run live this
+    session shows the voids cluster convention is the weaker form, with meta-epistemology-of-limits
     L162, formal-cognitive-limits L132, conceptual-impossibility L134 and expertise-and-its-occlusion
     L123 all reading "gains indirect support" from the same kind of apophatic premise,
     and tenets.md stating that the Voids row is mostly weak commitments because the
@@ -1108,14 +1108,14 @@ queue_status:
     hidden-inheritance list and grants the self-opacity subset of voids a legitimate
     inheritance, while defaulting the rest to bare dualism; binding-void is a phenomenal-unity
     void and is not in that subset. The Tenet 1 family closed four instances of this
-    shape today. CANONICAL WORDING NAMED IN THE TASK NOTE rather than left to the executing
-    fork, per reviews/tenet-check-2026-07-29.md L157 which recommends consolidated
+    shape today. CANONICAL WORDING NAMED IN THE TASK NOTE rather than left to the
+    executing fork, per reviews/tenet-check-2026-07-29.md L157 which recommends consolidated
     per-family tasks and warns that one-at-a-time calibration otherwise spreads variant
     wordings for one claim: concepts/where-the-substance-commitment-enters.md L36,
     which names the binding problem and the voids catalogue explicitly and says such
     articles reach their conclusions on irreducibility alone, with L28 supplying the
-    framing sentence. Both faults sit in a single sentence-pair, so this one task IS
-    the whole family for this file. LENGTH measured with tools.curate.length.analyze_length
+    framing sentence. Both faults sit in a single sentence-pair, so this one task
+    IS the whole family for this file. LENGTH measured with tools.curate.length.analyze_length
     and NOT wc (count-words-includes-frontmatter, analyze-length-counts-reference-apparatus):
     2140 words, status soft_warning, against voids 2000 soft / 3000 hard / 4000 critical,
     so 860 words below the hard ceiling but ALREADY 140 over soft; the task therefore
@@ -1131,33 +1131,33 @@ queue_status:
     SOURCE USED, per the above. (2 unconsumed research) BLOCKED - harvest minted zero
     twice today and the last review read records "New Concept Pages Needed: None".
     (3 gap analysis) cap pressure binding; live caps topics 318/320, concepts 317/320,
-    voids 100/100 at cap, which blocks a NEW voids article but not this refine on an
-    existing one. (4 staleness) DECLINED - top candidate is 20 days against the skill''s
-    30-day bar, and a staleness mint would be P3 and so could not restore the floor
-    (p3-only-floor-preemption-starves). (5 orphans) quality.orphaned_files == 0. (6
-    length) NOTHING MINTABLE - the sealed set is unchanged: many-worlds and epistemology
-    both 3498/3500, noetic-feelings-void 2996/3000, amplification-mechanisms 3987/4000,
-    phenomenal-value-realism 39 over, introspection-architecture-independence-scoring
+    voids 100/100 at cap, which blocks a NEW voids article but not this refine on
+    an existing one. (4 staleness) DECLINED - top candidate is 20 days against the
+    skill''s 30-day bar, and a staleness mint would be P3 and so could not restore
+    the floor (p3-only-floor-preemption-starves). (5 orphans) quality.orphaned_files
+    == 0. (6 length) NOTHING MINTABLE - the sealed set is unchanged: many-worlds and
+    epistemology both 3498/3500, noetic-feelings-void 2996/3000, amplification-mechanisms
+    3987/4000, phenomenal-value-realism 39 over, introspection-architecture-independence-scoring
     71 over, time-collapse-and-agency ~605 over, and epistemology-of-convergence-arguments
     ~1963 over with five vetoed condenses, which needs an operator decision rather
-    than a sixth task. (7 positions) positions-evolve ran 2026-07-29T02:18Z, well inside
-    30d, so no audit is due (replenish-positions-audit-false-overdue). (8 applied apex)
-    not triggered. COALESCE lane remains blocked: abandoned twice today, the second
-    run confirming the first by an independent method, so caps need a raise or archival
-    rather than merging. STILL UNQUEUED after this run, recorded so a later pass does
-    not re-derive them, all Notes-tier: voids/noetic-feelings-void.md L150 (scare quotes
-    around a claim Tenet 2 affirms on the force-and-energy reading) is now the strongest
-    remaining item and the cleanest candidate for the next floor restore, though note
-    that file is sealed at 2996/3000 so any fix there must be strictly length-neutral.
-    Closed today and NOT re-minted, correctly: the-convergence-argument-for-dualism
+    than a sixth task. (7 positions) positions-evolve ran 2026-07-29T02:18Z, well
+    inside 30d, so no audit is due (replenish-positions-audit-false-overdue). (8 applied
+    apex) not triggered. COALESCE lane remains blocked: abandoned twice today, the
+    second run confirming the first by an independent method, so caps need a raise
+    or archival rather than merging. STILL UNQUEUED after this run, recorded so a
+    later pass does not re-derive them, all Notes-tier: voids/noetic-feelings-void.md
+    L150 (scare quotes around a claim Tenet 2 affirms on the force-and-energy reading)
+    is now the strongest remaining item and the cleanest candidate for the next floor
+    restore, though note that file is sealed at 2996/3000 so any fix there must be
+    strictly length-neutral. Closed today and NOT re-minted, correctly: the-convergence-argument-for-dualism
     L177 is a VERIFIED FALSE POSITIVE, philosophy-of-time L205 is operator-routed,
     and interaction-problem-across-traditions L131, phenomenology-mechanism-bridge
     L87, death-and-consciousness L191 and noetic-feelings-void L150''s siblings are
     already fixed. CONCURRENCY: no rival loop; pgrep -af evolve_loop.py matches only
     this session command string (replenish-fork-hallucinates-concurrent-loop). git
-    status before the write showed only evolution-state.yaml modified, legitimate deferred
-    cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree). REVERT
-    only if a sibling replenish double-restores this slot (concurrent-replenish-race).
+    status before the write showed only evolution-state.yaml modified, legitimate
+    deferred cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree).
+    REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
     Pruned run_889_note per the keep-~3 discipline, keeping 890/891/892 (evolution-state-floor-restore-note-bloat).
     YAML re-parsed with yaml.safe_load after writing and it loads cleanly.'
   run_891_note: 'run no.891 (2026-07-29T15:39Z, cycle-driven /replenish-queue): MINTED

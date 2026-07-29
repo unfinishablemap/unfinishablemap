@@ -4,7 +4,7 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-26T03:34:38+00:00
+ai_modified: 2026-07-29T16:20:55+00:00
 last_deep_review: 2026-06-25T09:04:46+00:00
 draft: false
 topics:
@@ -51,7 +51,7 @@ Philosophers approaching phenomenal unity converge on a striking conclusion: co-
 
 Barry Dainton treats co-consciousness as a primitive, unanalysable relation. It is the most fundamental feature of phenomenal experience, and any attempt to define it in terms of something else either fails or smuggles unity back in under a different name. Tim Bayne's subsumption analysis faces circularity: explaining unity in terms of a subsuming experience that is itself unified. Representational analyses fare no better—they require that representations be unified, which is the very thing they aim to explain.
 
-When multiple independent philosophical approaches converge on "analysis terminates here," the convergence itself becomes evidence of a boundary rather than a merely difficult problem. The primitivist convergence—the agreement among otherwise diverse thinkers that phenomenal unity is where decomposition stops—is the philosophical signature of a void.
+The primitivist convergence—the agreement among otherwise diverse thinkers that phenomenal unity is where decomposition stops—is the philosophical signature of a void.
 
 William James saw this in 1890. "Take a sentence of a dozen words, and take twelve men and tell to each one word," he wrote. "Then stand the men in a row or jam them in a bunch, and let each think of his word as intently as he will; nowhere will there be a consciousness of the whole sentence." James concluded that the compounding of consciousness is not merely unexplained but fundamentally unintelligible. He later attempted to dissolve this through radical empiricism in *A Pluralistic Universe* (1909), but even his revised account acknowledged that combination resists ordinary analysis. The unintelligibility persists despite enormous progress in understanding the brain.
 
@@ -125,9 +125,9 @@ AI also mirrors the human predicament: it cannot determine whether it possesses 
 
 ## Relation to Site Perspective
 
-The binding void connects to the Map's [[tenets]] at multiple points and provides some of the strongest evidence for its foundational commitments.
+The binding void connects to the Map's [[tenets]] at multiple points, mostly by the catalogue's apophatic route: a void supplies the absence of a competing explanation rather than positive evidence.
 
-**[[tenets#^dualism|Dualism]]** receives direct support. Descartes' original argument for substance dualism was an argument from unity: the mind is indivisible while matter is always divisible. If phenomenal binding remains primitive and unanalysable, this suggests that whatever produces unity is not a physical property.
+**[[tenets#^dualism|Dualism]]** gains indirect support. Descartes supplies the historical antecedent—the mind is indivisible while matter is always divisible—but that argued for *substance* dualism, which this void does not need. The inference runs on irreducibility alone: if phenomenal binding resists analysis into anything more basic, no account of the physical parts delivers the unity. An interactionist property dualist would reach the same conclusion ([[where-the-substance-commitment-enters]]).
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** gains a coordination story. A unified consciousness could act as a single causal agent precisely because it is bound—making "minimal" interaction possible as one unified act rather than billions of independent micro-interactions.
 
