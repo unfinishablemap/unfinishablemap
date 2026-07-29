@@ -4,7 +4,7 @@ description: "Counterfactual reasoning imagines what could have been or might be
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-07-29T08:55:24+00:00
 last_deep_review: 2026-06-27T02:22:29+00:00
 draft: false
 topics:
@@ -69,7 +69,7 @@ Counterfactual reasoning places substantial demands on [[working-memory|working 
 - The counterfactual scenario (what would follow)
 - The relationship between actual and counterfactual
 
-This multi-element maintenance and manipulation is precisely what human working memory (7±2 items) enables and great ape working memory (2±1 items) cannot support. The [[baseline-cognition|baseline cognition]] framework predicts exactly this pattern: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced working memory capacity.
+This [[working-memory#The Maintenance/Manipulation Distinction|multi-element maintenance *and manipulation*]] is what expanded human working memory enables. Current research estimates human capacity at roughly 4±1 chunks (Cowan, 2001), substantially less than the older 7±2 estimate; comparative research suggests great ape capacity is substantially smaller still. On the narrower estimate the argument rests less on the raw numerical gap than on what the span permits: holding four elements sits at the edge of human capacity, and they must be compared and revised rather than merely retained. The [[baseline-cognition|baseline cognition]] framework predicts exactly this pattern: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced working memory capacity.
 
 ### The Great Ape Gap
 
@@ -186,6 +186,7 @@ Counterfactual reasoning connects to multiple [[tenets]]:
 ## References
 
 1. Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität*. Urban & Schwarzenberg.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
 1. Schacter, D.L., & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.

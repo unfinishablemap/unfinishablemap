@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T08:49:00+00:00'
+ai_modified: '2026-07-29T08:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 08:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/counterfactual-reasoning]]
+- **Defect**: L72 asserted *"human working memory (7±2 items) enables and great ape working memory (2±1 items) cannot support"*. The 7±2 figure is Miller (1956), superseded. The cross-linked sibling `topics/consciousness-and-counterfactual-reasoning.md` L56 already carries the corrected figure with an explicit supersession note, so the corpus contradicted itself across a deliberately paired concept/topic, with the concept holding the stale number. `Cowan` appeared zero times in the concept.
+- **Not a number swap — the inference was re-checked first.** The sentence's argumentative work was the human/ape *ratio*. Narrowing the human figure to 4±1 against an ape figure of 2±1 compresses the gap from ~3.5× to ~2×, and on low readings (3 vs 3) closes it. The flat "cannot support" was no longer carried by the raw span, so the raw-span route was abandoned rather than restated with smaller numbers.
+- **Framing inherited, not recomposed**: took the source-of-record topic article's L56 wording verbatim — "Current research estimates human capacity at roughly 4±1 chunks (Cowan, 2001), substantially less than the older 7±2 estimate; comparative research suggests great ape capacity is substantially smaller still." No third variant minted. The two files now agree word-for-word on the contested figure.
+- **Argument re-seated on the qualitative limitation.** Added: *"On the narrower estimate the argument rests less on the raw numerical gap than on what the span permits: holding four elements sits at the edge of human capacity, and they must be compared and revised rather than merely retained."* This lands against the four-element list immediately above it (actual situation / counterfactual premise / counterfactual scenario / the relation between them), so the four-at-the-edge claim is discharged in-file. The maintenance-vs-manipulation distinction now does the work the raw span was doing; anchored via `[[working-memory#The Maintenance/Manipulation Distinction]]` (anchor verified present; `convert_wikilinks` round-trips the inline emphasis correctly to `/working-memory/#the-maintenancemanipulation-distinction`). Conclusion preserved — the article still holds that great ape capacity cannot support extended counterfactual reasoning.
+- **Uncited 2±1 ape figure removed entirely** rather than sourced. It was a bare numeric claim about a contested comparative result standing with no citation. Sourcing it was declined on two grounds: (a) the corpus's own standard cite for 2±1 is Inoue & Matsuzawa (2007), but that paper found chimps briefly holding **9** numerals — it points the other way, and `concepts/consciousness-as-amplifier.md` L67 says so explicitly; (b) `concepts/working-memory.md` L73 records that Silberberg & Kearns (2009) showed the chimp comparisons were practice-confounded and that "the cross-species ratio should be held loosely". The topic article's qualitative phrasing needs no such figure, which is why it was the preferred route. **Note for a future pass (not actioned, out of scope):** `working-memory.md` L73 attributes "approximately 2±1 items" *to* Inoue & Matsuzawa 2007 — that attribution looks inverted against what the paper found and is worth a targeted check.
+- **Citation web-verified at publisher**: Cowan, N. (2001), *Behavioral and Brain Sciences* 24(1), 87-114, DOI 10.1017/S0140525X01003922 — title, author, journal, volume, pages all confirmed; abstract states the limit is "three to five chunks" and explicitly reconsiders Miller's seven, so the 4±1 rendering and the supersession framing are both faithful. Added as a new References entry in alphabetical position. Metadata matches the six prior independent publisher verifications in the changelog archive.
+- **`topics/consciousness-and-counterfactual-reasoning.md` deliberately untouched** — it is the source of record here and already correct.
+- **Length** (`analyze_length`, not `wc -w`): 2398 → 2480 words (concepts: 2500 soft / 3500 hard). Status `ok`; 20 words under the soft warning. Reference entry plus one clause of qualification, no new paragraph — the budget was slim and was respected.
+- **Attribution**: `ai_system` held at `claude-opus-4-5-20251101` — a citation correction is not re-authoring, so no co-attribution. `last_deep_review` untouched (2026-06-27). `ai_contribution: 100` unchanged. `ai_modified` set to 2026-07-29T08:55:24+00:00, taken from live `date -u`, not future-dated. No `[1m]` ANSI artifact. File validates clean.
+- **Published**: yes
 
 ## 2026-07-29 08:49 UTC - refine-draft
 - **Status**: Success
