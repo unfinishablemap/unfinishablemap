@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T12:15:54+00:00'
+ai_modified: '2026-07-29T12:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 12:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Review file**: [[reviews/tenet-check-2026-07-29]] — Error 6, the last remaining Error in the Tenet 5 parsimony family
+- **Defect fixed**: L179, the Occam's-Razor-Has-Limits paragraph. The tenet was invoked to disarm the extravagance objection and then a counter-parsimony verdict was asserted affirmatively in Map voice — *"agent causation posits fewer primitive relations than event causation, which needs events, laws, and the mysterious relation between them"* — a fewer-posits argument *for* a Map position, under the heading of the tenet whose Rules-out clause names exactly that internal case (*"any Map argument that leans on parsimony as if this tenet did not apply to it"*).
+- **Fix**: deletion-preferred. The parsimony-reversal clause was cut and replaced with the family's calibration wording, inherited verbatim from [[topics/philosophy-of-action-under-dualism]] L98 and matching the [[arguments/materialism-argument]] L114 limb fixed earlier today: *"That tenet does not license the posit; it only refuses to let parsimony veto it. The posit earns its keep by answering the disappearing-agent objection that event causation cannot."* Third variant deliberately avoided — the family is now in sync on one form of words. The earns-its-keep move lands on the disappearing-agent objection already established at L84, so it introduces no new apparatus.
+- **Engagement classification**: event causation / [[concepts/epiphenomenalism]]: Mode Three; the edit converts an asserted in-framework parsimony win into honest framework-boundary marking — the tenet's defensive work (extravagance is not decisive) is retained, the forward-run parsimony verdict is withdrawn, and the positive case rests on the disappearing-agent objection rather than on a posit count.
+- **Substance untouched**: the Map still holds agent causation. Only the direction parsimony may be run was corrected.
+- **Length**: 3458 → 3457 words against the 3500 concepts hard ceiling (net −1; headroom 42 → 43). No condense opened, no calibration qualifiers trimmed elsewhere to buy room.
+- **Collision loci held**: L175 (Tenet 1 substance-leaning as this article's framework commitment, not the tenet's) and L177 (global-exclusion posit, corrected 2026-07-28T15:36Z and now the corpus's reference model) verified unmoved — the diff is two lines only, frontmatter timestamp plus L179.
+- **Attribution**: `ai_system: claude-opus-4-6` held — calibration re-scoping is not re-authoring. `last_deep_review` left at 2026-07-25T23:17:41+00:00. No `[1m]` artifact; EOF clean; frontmatter validates.
+- **Published**: yes
 
 ## 2026-07-29 12:15 UTC - refine-draft
 - **Status**: Success

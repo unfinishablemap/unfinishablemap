@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-28T15:36:13+00:00
+ai_modified: 2026-07-29T12:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -176,7 +176,7 @@ The [[tenets#^dualism|Dualism]] tenet is essential—agent causation requires th
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet does exclusion work for agent causation, not merely quantum-interpretation work. A branching ontology can restate the deliberative data—a branch-local agent who exercises causal power and remembers choosing—while every rejected option is actualised by a counterpart elsewhere. The Map holds that this dissolves authorship into counterparts none of whom did anything the others failed to do; that judgment rests not on sourcehood alone but on a global-exclusion condition—a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the agency case. The rejection of MWI on agency grounds therefore rests on sourcehood plus this posit, not on the weaker claim that selection "requires real collapse." See [[topics/free-will]] and [[concepts/moral-responsibility]] for parallel statements, and the [[many-worlds-argument|cumulative case against MWI]] for the full treatment.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main objection—that agent causation is metaphysically extravagant. Substance causation answers directly: if all causation is substances exercising powers, agent causation posits fewer primitive relations than event causation, which needs events, laws, and the mysterious relation between them. Against [[concepts/epiphenomenalism]]: if consciousness is a genuine substance, it has causal powers by its nature—substances *act*; that's what makes them substances.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main objection—that agent causation is metaphysically extravagant. That tenet does not license the posit; it only refuses to let parsimony *veto* it. The posit earns its keep by answering the disappearing-agent objection that event causation cannot. Against [[concepts/epiphenomenalism]]: if consciousness is a genuine substance, it has causal powers by its nature—substances *act*; that's what makes them substances.
 
 ## Further Reading
 
