@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T04:10:00+00:00'
+ai_modified: '2026-07-29T04:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 04:34 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5, commissioned 03:11 UTC, collected 04:28 UTC (Research mode, 186 sources, 12m 8s)
+- **File**: [[reviews/outer-review-2026-07-29-claude-opus-5]]
+- **Subject**: `concepts/epistemology.md` (subject reused from the 02:22 ChatGPT commission, so all three services audit the same article today). Verdict: **REVISE-HARD** — per-citation ledger comes back clean, coverage does not.
+- **Claims verified**: 14 grep-checks against live source (7 confirmed, 4 disputed, 2 caveated, 1 already covered by the sibling review)
+- **High-value findings**: 4 — (1) reliabilism *and* naturalized epistemology are absent from the entire deferral chain (`epistemology` + `phenomenal-authority-and-first-person-evidence` + `introspection` all return zero hits), so the article adopts a seemings-internalist framework without ever arguing that internalism defeats externalism; (2) the hub's flat "can be calibrated and made rigorous" (L61) overstates its own spoke, which says strict calibration is structurally impossible (L156); (3) predictive processing is un-engaged although the site owns `concepts/predictive-processing.md`; (4) `parsimony-epistemology.md` L63 rests a load-bearing claim on an undergraduate senior thesis (Hubbard 1995).
+- **Reviewer errors caught**: 4 — the two charges the report itself billed highest both failed. (a) **Tenet numbering**: claimed `epistemology.md` and `parsimony-epistemology.md` invert the canonical indices; `tenets/tenets.md` orders them Dualism 1 / Minimal Quantum 2 / Bidirectional 3, both articles match exactly, and the reviewer's own "constitutional statement" was transposed. (b) **The FBT asymmetry** — billed as "the sharpest finding" and a self-contradiction — is already answered by a dedicated "The symmetry objection" paragraph at `concepts/fitness-beats-truth.md` L69, plus a reflexivity treatment at L67. (c) The deferral chain does *not* fail to ground out: `phenomenal-authority` L150 supplies five named strategies with graded evidential status. (d) The shared "physicalist field" text is a one-clause overlap doing different local work in each article, not a maintained duplicate block.
+- **Source-quality note**: the report cites Wikipedia and Grokipedia as authorities for two substantive claims (Jackson's 2023 remark; the naturalized-epistemology framing). Neither is usable as a reference of record, and the Map's own web-verified basis for Jackson's recantation is "Mind and Illusion" (2003, representationalism), not the 2023 quote. No task minted on that finding.
+- **Tasks generated**: 4 (P1: 1, P2: 2, NEEDS-HUMAN methodology: 1). Held to four deliberately: the same-cycle ChatGPT review already put two tasks on `concepts/epistemology.md`, and the currency finding (reference base stops at 1996) is already covered there with five publisher-verified 2020s sources — not re-minted. Tasks are length-sequenced against each other since four now share one file's budget.
+- **Convergent finding**: bracketing-instead-of-arguing recurs from the 2026-07-29 ChatGPT audit of the same article — ChatGPT found it at the epistemic-to-metaphysical step, Claude at the internalism-versus-externalism framework choice. Both name the same structural habit at different loci. Gemini is still pending; `/combine-outer-reviews` will fire once it resolves.
+- **Published**: yes
 
 ## 2026-07-29 04:10 UTC - outer-review
 - **Status**: Success

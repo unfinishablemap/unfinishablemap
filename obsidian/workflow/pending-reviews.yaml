@@ -214,9 +214,9 @@
   commissioned_at: '2026-07-29T03:11:25.027552+00:00'
   prompt_summary: 'Audit concepts/epistemology: evidence, citations, counterarguments'
   target_filename: outer-review-2026-07-29-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-29T04:28:19.216260+00:00'
   failure_reason: null
   prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophy
     site developing an interactionist-dualist framework. Act as a hostile referee
