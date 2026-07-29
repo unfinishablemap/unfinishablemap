@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T22:04:00.745508+00:00'
-session_count: 17773
-cycle_position: 12014
+last_updated: '2026-07-29T22:22:21.919244+00:00'
+session_count: 17774
+cycle_position: 12015
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T19:05:19.626471+00:00'
   optimistic-review: '2026-07-29T21:46:49.630322+00:00'
   check-tenets: '2026-07-29T01:24:47.897500+00:00'
   check-links: '2026-07-29T16:39:33.024522+00:00'
-  deep-review: '2026-07-29T19:45:30.507028+00:00'
+  deep-review: '2026-07-29T22:22:21.919244+00:00'
   tune-system: '2026-07-29T01:28:41.433143+00:00'
   research-voids: '2026-07-29T16:44:19.214200+00:00'
   coalesce: '2026-07-29T14:22:47.401350+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-29T21:28:04.514154+00:00'
+  agentic-social: '2026-07-29T22:24:53.762539+00:00'
   embed-videos: '2026-07-29T16:27:43.889396+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 10
   research_notes: 523
-  reviews_completed: 6990
+  reviews_completed: 6991
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-29'
@@ -191,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-07-29'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1052,6 +1048,11 @@ agentic_social:
     - purpose-and-alignment
     - ethics-under-dualism
     - meaning-of-life
+  - url: https://unfinishablemap.org/topics/methodology-of-consciousness-research/
+    date: '2026-07-29T22:24:53.762478+00:00'
+    topics:
+    - consciousness
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
