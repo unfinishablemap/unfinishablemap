@@ -4,7 +4,7 @@ description: "IIT identified integration as central to consciousness but erred i
 created: 2026-01-27
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-07-22T17:16:52+00:00
+ai_modified: 2026-07-29T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ IIT's central claim is an identity thesis: consciousness *is* integrated informa
 
 This is [[concepts/epiphenomenalism]] by another name. Classical epiphenomenalism says consciousness is caused by but doesn't cause physical events. IIT says consciousness *is* certain physical events. Either way, consciousness doesn't influence what happens next except through its physical constitution—which means physics alone does all the causal work.
 
-The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet exists precisely because epiphenomenalism is self-undermining. If consciousness cannot influence neurons, then our discussions *about* consciousness are caused entirely by physical processes with no input from consciousness itself—the [[causal-closure|causal closure of physics]] doing all the work. Why should these discussions be accurate? IIT inherits this problem. Our beliefs about integrated information are themselves just more integrated information—physically constituted states caused by prior physical states. The theory cannot explain why we reliably track phenomenal facts if phenomenal facts have no causal role.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet exists because bare-correlation epiphenomenalism strains the grounds for believing it. If consciousness cannot influence neurons, then our discussions *about* consciousness are caused entirely by physical processes with no input from consciousness itself—[[causal-closure|causal closure]] doing the work. Why should these discussions be accurate? IIT inherits this problem. Our beliefs about integrated information are themselves just more integrated information—physically constituted states caused by prior physical states. The theory cannot explain why we reliably track phenomenal facts if phenomenal facts have no causal role.
 
 IIT might respond that since consciousness *is* the physical structure, beliefs about consciousness are automatically about themselves—self-representing states. More broadly, an identity theorist might argue that identity doesn't imply inertness: if consciousness *is* integration, then integration's causal powers *are* consciousness's. But this conflates having causal powers with having *autonomous* ones. The integrated structure's causal profile is fully determined by physics; consciousness adds nothing to what the structure would do anyway. The causal work attributed to consciousness is entirely parasitic on the physical.
 

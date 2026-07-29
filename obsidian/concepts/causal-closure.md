@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-06-22T19:28:44+00:00
+ai_modified: 2026-07-29T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
   - "[[delegatory-causation]]"
   - "[[observational-closure]]"
   - "[[physical-completeness]]"
+  - "[[phenomenal-concepts-strategy]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -183,7 +184,7 @@ The rejection rests on three principled grounds:
 
 2. **Consciousness reporting** shows that mental states influence physical behavior. When you report seeing red, information about your experience enters your verbal behavior. This requires mental→physical causation. Physicalists must either deny the information is about phenomenal experience (implausible—what else are you reporting?) or explain how phenomenal experience causes the report (conceding mental causation).
 
-3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness are causally disconnected from actual experiences. If you accept [[concepts/epiphenomenalism]]—the view that causal closure forces—then your belief in epiphenomenalism isn't caused by the experiences that supposedly motivate it. The belief and the experiences are causally unrelated. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] develops this self-stultification argument alongside evolutionary, knowledge-based, and introspective objections showing that epiphenomenalism is self-undermining: if true, we have no reason to believe it (since reasons are mental states that would have to cause belief-formation to justify beliefs).
+3. **Self-stultification** presses hard on any denial of mental causation. If consciousness causes nothing, our beliefs about consciousness are causally disconnected from actual experiences. If you accept [[concepts/epiphenomenalism]]—the view that causal closure forces—then your belief in epiphenomenalism isn't caused by the experiences that supposedly motivate it. The belief and the experiences are causally unrelated. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] runs four arguments—self-stultification, evolutionary, knowledge-based, introspective—in two families rather than four independent lines, pressing the bare-correlation version hard without refuting it from inside the epiphenomenalist's framework. The [[phenomenal-concepts-strategy|phenomenal-concept strategy]] keeps the strongest version of the position in play, so this ground supports rejecting closure comparatively rather than closing the question.
 
 The Map doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open question addressed by [[quantum-consciousness|quantum consciousness research]] and [[stapp-quantum-mind|Stapp's quantum Zeno framework]]. But such interface is possible because causal closure fails where physics is fundamentally indeterminate.
 

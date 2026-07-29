@@ -4,7 +4,7 @@ description: "How interactionist dualism defuses the metaproblem's debunking thr
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-01T12:00:00+00:00
+ai_modified: 2026-07-29T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ Where would the divergence appear? Consider three domains. First, *philosophical
 
 A zombie might produce the initial problem reports—"consciousness seems hard to explain"—because these track functional features of self-models. But the zombie's philosophical reasoning about consciousness should lack the capacity for genuine insight that comes from attending to the phenomenon itself.
 
-This connects to the [[self-stultification-as-master-argument|self-stultification master argument]]—realizationism and self-stultification are two faces of the same insight: consciousness must participate in generating its own problem intuitions. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. Our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. Interactionism avoids this: our conviction is informed because consciousness participates in producing it.
+This connects to the [[self-stultification-as-master-argument|self-stultification master argument]]—realizationism and self-stultification are two faces of the same insight: consciousness must participate in generating its own problem intuitions. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. On the bare-correlation version, our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. The [[phenomenal-concepts-strategy]] blocks that reading rather than conceding it, so the argument presses the epiphenomenalist hard without refuting the position from inside its own framework. Interactionism avoids the difficulty more directly: our conviction is informed because consciousness participates in producing it.
 
 ## Frankish's Radical Move
 
@@ -122,7 +122,7 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 - [[meta-problem-of-consciousness]] — The concept article covering Chalmers' formulation and basic implications
 - [[hard-problem-of-consciousness]] — The problem the metaproblem is about
 - [[illusionism]] — The position most challenged by the metaproblem
-- [[self-stultification]] — The broader argument that epiphenomenalism is self-undermining
+- [[self-stultification]] — The broader argument pressing epiphenomenalism on its own epistemic grounds
 - [[the-epiphenomenalist-threat]] — Why every non-eliminativist position converges on causal impotence
 - [[mental-causation-and-downward-causation|mental causation]] — The problem the metaproblem's realizationism argument addresses
 - [[consciousness-and-causal-powers]] — How consciousness does causal work
