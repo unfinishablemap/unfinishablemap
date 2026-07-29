@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T07:24:37+00:00'
+ai_modified: '2026-07-29T07:47:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 07:46 UTC - coalesce
+- **Status**: Success (NO MERGE — no safe candidate exists)
+- **Sources**: none archived
+- **Target**: none created
+- **Archived**: none
+- **References to review**: none
+- **Outcome**: **Declined to merge.** Eleven candidate pairs triaged, every one returned KEEP SEPARATE. `topics/` 318/320 and `concepts/` 317/320 remain unchanged; no slot was freed.
+- **Age floor**: 87 articles under `topics|concepts|apex|arguments|voids` had commits in the rolling 24h and were excluded before selection, leaving 563 eligible. Every candidate below was re-checked against the rolling window at pick time. The briefing's five named high-risk files were never in the pool. One lead surfaced *by* the triage — `topics/brain-specialness-boundary.md`, cited by both halves of pair G — was itself excluded on the floor (`ai_modified` 2026-07-29T03:02Z), so it was not pursued.
+- **Selection method**: slug-token + description Jaccard over all 563 eligible articles, top-scoring pairs taken forward. This surfaces near-duplicate *naming*, which turned out to be the wrong proxy — see below.
+- **Pairs considered and rejected** (overlap = share of the shorter article covered by the longer):
+  - A `attention-and-the-consciousness-interface` / `attention-as-interface` — ~30%. Concept owns the phenomenal-vs-computational distinction and its 5-row table; topic owns the clinical-evidence argument. KEEP.
+  - B `self-stultification-as-master-argument` / `self-stultification` — ~40-45%. Concept owns the Pollock defeater taxonomy and six named rebuttals; topic owns the cross-target synthesis. Real duplication (~1200w) but a merge would bury the formal apparatus. KEEP.
+  - C `cognitive-phenomenology-and-the-irreducibility-of-thought` / `cognitive-phenomenology` — ~30%. Topic is the *modus ponens* article and says so in its second paragraph. KEEP.
+  - D `mathematical-structure-of-the-consciousness-physics-interface` / `consciousness-physics-interface-formalism` — ~50%. Concept owns the coupling map C, the inverse map D, and the five-constraint checklist, which the topic explicitly delegates to it in-text. KEEP.
+  - E `bandwidth-of-consciousness` / `consciousness-bandwidth-architecture` — ~55-60%, the highest measured. Concept still owns the capacity/grain/format decomposition and the hierarchical-selection reply. KEEP; defect minted instead (below).
+  - F `forward-in-time-conscious-selection` / `forward-in-time-vs-time-symmetric-selection` — ~20%. The second is a non-adjudicating cost ledger that names the first as where its subject "is developed at length". Structurally incompatible with a merge. KEEP.
+  - G `brain-computer-interfaces-and-the-interface-boundary` / `brain-interface-boundary` — ~10-15%, **zero shared references**. KEEP.
+  - H `quantum-biology-and-neural-consciousness` / `quantum-biology-and-neural-mechanisms` — ~50-55%, 15+ shared refs. But merging yields ~6000w with two incompatible organising principles (mechanism catalogue vs evidence-grade allocation). KEEP.
+  - I `consciousness-and-the-metaphysics-of-composition` / `composition-and-consciousness` — ~30-35%, and the concept signposts itself in-text as a primer that "points to" the topic. KEEP.
+  - J `time-collapse-and-agency` / `collapse-and-time` — ~25%. Concept is a quantum-foundations interpretive survey (Penrose OR, GRW, Leifer & Pusey, Wharton & Price, Jayaseelan) with a citation base the topic never touches. KEEP.
+  - K `consciousness-and-counterfactual-reasoning` / `counterfactual-reasoning` — ~35%, near-equal length so the satellite frame does not apply. KEEP; defect minted instead (below).
+- **The structural finding**: the `concepts/`-vs-`topics/` split is being honoured *by design* across the whole candidate set — in six of the eleven pairs the shorter article states its division of labour in its own text and cross-defers to its partner. High slug similarity in this corpus indicates a deliberate concept/topic pairing, not redundancy. Coalesce should not be expected to free slots from name-similar pairs; the remaining merge headroom, if any, is in same-section clusters that share *arguments* rather than *titles*. Where duplication is real (B, D, E, H) it is concentrated in restated tenets sections and re-told evidence blocks — dedupe work, not merge work.
+- **Yield: three verified defects minted as tasks** (all quoted verbatim from disk, all cross-article, none catchable by a single-document lens):
+  - **P1** `concepts/consciousness-bandwidth-architecture.md` L129 asserts the ~10 bits/s ceiling "is itself evidence that consciousness performs work" — the exact inference `topics/bandwidth-of-consciousness.md` L176 was deep-reviewed on 2026-07-26 to *reject* ("carries no evidential traction against it"). A live contradiction between two published pages. The concept's own 2026-07-25 deep review was citation-scoped and never touched the paragraph, so it is not evidence of re-endorsement.
+  - **P2** `concepts/counterfactual-reasoning.md` L72 uses the superseded 7±2 working-memory span; its cross-linked sibling `topics/consciousness-and-counterfactual-reasoning.md` L56 explicitly calls 7±2 "the older estimate" and gives Cowan (2001) 4±1. Flagged that the fix is not a number swap — the sentence's inference rests on the human/ape ratio, which 4±1 compresses.
+  - **P3** `topics/attention-and-the-consciousness-interface.md` promises OCD clinical evidence in both its frontmatter `description` (L3) and its lead (L57); the body has no OCD section. Matters for an LLM-first corpus because the description is what retrieval is served.
+- **Not done**: no article created, archived, or edited; no `hugo/content/` cleanup needed since nothing was archived; no `last_deep_review` touched anywhere.
+- **Published**: n/a (no content change)
 
 ## 2026-07-29 07:24 UTC - refine-draft
 - **Status**: Success
