@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-02-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-07-29T12:15:54+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -128,7 +128,7 @@ From Type 2, the Map inherits the "selection not injection" insight: consciousne
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rules out Leibniz's harmony (Type 2), all monist avoidance strategies (Type 5), and any process solution that dissolves the distinctness of mind and body beyond recognition (Type 3). The [[tenets#^dualism|Dualism]] tenet's neutrality between [[substance-property-dualism|substance and property dualism]] lets the Map borrow process philosophy's dynamism—a consciousness irreducible but not static—but not its monism, which (as above) dissolves that irreducibility.
 
-Buddhist dependent origination challenges the Map's implicit commitment to enduring subjects: who or what does the "selecting" among quantum superpositions if there is no permanent self? African force ontology asks whether the Map's framework unnecessarily imports Western substance metaphysics when a force-based framework might serve its purposes better. [[panpsychism|Panpsychist]] readings of both traditions raise a further question: if proto-experiential properties pervade nature, the interaction problem may dissolve without requiring a specific quantum interface. These are not objections the Map need accept, but they sharpen its commitments and prevent parochialism.
+Buddhist dependent origination challenges the Map's agency-cluster commitment to enduring subjects—a commitment [[where-the-substance-commitment-enters|downstream of agent causation, not inherited from the Dualism tenet]]: who or what does the "selecting" among quantum superpositions if there is no permanent self? African force ontology asks whether the Map's framework unnecessarily imports Western substance metaphysics when a force-based framework might serve its purposes better. [[panpsychism|Panpsychist]] readings of both traditions raise a further question: if proto-experiential properties pervade nature, the interaction problem may dissolve without requiring a specific quantum interface. These are not objections the Map need accept, but they sharpen its commitments and prevent parochialism.
 
 The cross-traditional recurrence broadens the warrant for the *problem*—it shows the puzzle the Map addresses is universal rather than a parochial inheritance of analytic philosophy. It does not widen the evidential base for the Map's *solution*: that several traditions drift toward selection-style structures points to where a solution might lie without confirming the dualist reading. Treating recurrence as extra evidence for the answer would be the Occam shortcut the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns against—mistaking the convergence of many minds on a hard question for a settling of the metaphysics. The cross-traditional evidence does not adjudicate between the Map's selection framework and its process-monist or panpsychist rivals: the convergence sharpens the question and locates the likeliest region of an answer, while the case for the answer must be made on its own merits.
 

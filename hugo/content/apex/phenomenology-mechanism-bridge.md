@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-22 12:00:00+00:00
+ai_modified: 2026-07-29 12:15:54+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
@@ -92,7 +92,7 @@ The phenomenological level provides the first anchor: the experience of agency h
 > 2. **Agency/passivity reports** — *whether* an experience is owned and authored. Mid reliability; the comparator can misfire (schizophrenia, anarchic hand), but the dissociations are clinically structured rather than arbitrary, so the *distinction* survives even where a given report errs.
 > 3. **Process reports** — *how* selection is accomplished. Low reliability; introspection-architecture says consciousness has no readout of its own generating substrate, so the felt mechanism of willing ([phenomenologically invisible](/voids/self-opacity/) in any case) carries little evidential weight. This is exactly where the [discrimination problem](/concepts/discrimination-problem/) bites: a report cannot certify that genuine phenomenal selection rather than a sophisticated functional process produced it.
 > 4. **Causal-power reports** — that the experience *did work* in the physical world. Lower still; that an action feels self-caused does not show consciousness contributed the cause, which is why the chain anchors causal claims in third-person findings (choking, cognitive motor dissociation) rather than the feeling of efficacy.
-> 5. **Metaphysical inferences** — that the agent is a persisting substance with irreducible powers. Framework-internal only; these follow from the tenets, not from any report, and are honestly registered as commitments rather than data.
+> 5. **Metaphysical inferences** — that the agent is a persisting substance with irreducible powers. Framework-internal only; the irreducibility claim follows from the tenets, while the persisting-substance claim is downstream of the agency cluster's [agent-causal](/concepts/agent-causation/) commitment rather than of the Dualism tenet, which stays neutral between substance and property readings ([where the substance commitment enters](/concepts/where-the-substance-commitment-enters/)). Neither follows from any report; both are honestly registered as commitments rather than data.
 >
 > The argument is built to lean low on the ladder: Levels One and Two draw their evidential force from content- and agency-tier reports cross-checked against third-person measures; Level Three's quantum proposal is a *process* claim and inherits process-tier reliability — a candidate mechanism, not a deliverance of introspection; Level Four is openly framework-internal. The introspection-architecture constraint is the more severe view, and the chain defers to it rather than refuting it: where consciousness lacks process access, the bridge cannot read its own mechanism off the phenomenology, and does not claim to.
 

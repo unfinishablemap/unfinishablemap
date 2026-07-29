@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-07-18 00:57:00+00:00
+ai_modified: 2026-07-29 12:15:54+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -144,7 +144,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 
 **Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where genuinely non-separable states exist. If consciousness interacts with the brain at the quantum level through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition.
 
-**Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. Subject unity that persists across time is a precondition for conscious agency.
+**Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection, which phenomenal unity supplies. Whether the subject also *persists* across time is a further commitment, downstream of [agent causation](/concepts/agent-causation/) in the Map's agency cluster rather than entailed by the Dualism tenet, which stays neutral between substance and property readings; see [where the substance commitment enters](/concepts/where-the-substance-commitment-enters/).
 
 **No Many Worlds**: Phenomenal unity appears indexically definite—*this* experience is unified, not merely unified-in-some-branch. The [No Many Worlds tenet](/tenets/#no-many-worlds) holds that first-person unity claims require genuine collapse. If all branches are equally real, unity reports become either false or contentless.
 

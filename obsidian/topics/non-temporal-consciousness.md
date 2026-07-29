@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-19T22:02:58+00:00
+ai_modified: 2026-07-29T12:15:54+00:00
 draft: false
 last_deep_review: 2026-07-18T05:05:10+00:00
 topics:
@@ -97,7 +97,7 @@ The contemplative evidence carries an ontological commitment the Map cannot stra
 
 This is awkward for an article relying on those reports. The Map's downstream commitments — its substance-leaning sub-reading of dualism, taken up in agency and quantum-selection articles — require a persisting agent capable of selecting among collapse-eligible quantum outcomes. A non-temporal consciousness with no enduring subject cannot collapse a wave function on that mechanism, because there is no subject *whose* selection it would be.
 
-The article takes a middle path. The *minimal subject* response (Zahavi's neo-Husserlian phenomenology) holds that the absolute flow carries a thin transcendental ego — a *for-whom* of experience — without the thick ego of personhood; what Madhyamaka rightly dissolves is the constructed self of folk psychology, while minimal first-personal givenness remains. The *partial-credit* response is what the article actually deploys: the contemplative reports support the negative claim that consciousness is not constitutively temporal, without on their own supporting the positive claim that the non-temporal ground is a substantial causal subject. The substantial-subject inference originates in the dualism tenet and its downstream commitments, not in the phenomenology. A reader who accepts Nāgārjuna's full dissolution of the subject will accept the phenomenological observation while rejecting the inference the Map draws downstream — and the Map cannot refute the *catuṣkoṭi* from outside its own framework.
+The article takes a middle path. The *minimal subject* response (Zahavi's neo-Husserlian phenomenology) holds that the absolute flow carries a thin transcendental ego — a *for-whom* of experience — without the thick ego of personhood; what Madhyamaka rightly dissolves is the constructed self of folk psychology, while minimal first-personal givenness remains. The *partial-credit* response is what the article actually deploys: the contemplative reports support the negative claim that consciousness is not constitutively temporal, without on their own supporting the positive claim that the non-temporal ground is a substantial causal subject. The substantial-subject inference originates in [[where-the-substance-commitment-enters|the agency cluster's agent-causal commitment]], not in the dualism tenet and not in the phenomenology. A reader who accepts Nāgārjuna's full dissolution of the subject will accept the phenomenological observation while rejecting the inference the Map draws downstream — and the Map cannot refute the *catuṣkoṭi* from outside its own framework.
 
 ## What Fragmented Consciousness Reveals [Open]
 

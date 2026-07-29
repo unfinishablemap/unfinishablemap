@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-07-18T00:57:00+00:00
+ai_modified: 2026-07-29T12:15:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 
 **Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where genuinely non-separable states exist. If consciousness interacts with the brain at the quantum level through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]], entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition.
 
-**Bidirectional Interaction**: [[tenets#^bidirectional-interaction|Bidirectional interaction]] requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. Subject unity that persists across time is a precondition for conscious agency.
+**Bidirectional Interaction**: [[tenets#^bidirectional-interaction|Bidirectional interaction]] requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection, which phenomenal unity supplies. Whether the subject also *persists* across time is a further commitment, downstream of [[agent-causation|agent causation]] in the Map's agency cluster rather than entailed by the Dualism tenet, which stays neutral between substance and property readings; see [[where-the-substance-commitment-enters|where the substance commitment enters]].
 
 **No Many Worlds**: Phenomenal unity appears indexically definite—*this* experience is unified, not merely unified-in-some-branch. The [[tenets#^no-many-worlds|No Many Worlds tenet]] holds that first-person unity claims require genuine collapse. If all branches are equally real, unity reports become either false or contentless.
 

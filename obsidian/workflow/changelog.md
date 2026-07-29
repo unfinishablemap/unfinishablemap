@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T12:08:00+00:00'
+ai_modified: '2026-07-29T12:15:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 12:15 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/unity-of-consciousness]], [[topics/non-temporal-consciousness]], [[topics/interaction-problem-across-traditions]], [[apex/phenomenology-mechanism-bridge]] — all four in one pass
+- **Review file**: [[reviews/tenet-check-2026-07-29]] (family 4 of 4: Tenet 1 mis-sourcing)
+- **Pattern fixed**: substance-leaning leakage (`tenets.md` L172). Each file sourced a *persisting-subject* commitment to the Dualism tenet, which `tenets.md` L56 states plainly is neutral between substance and property readings and does **not** entail it. The lean is downstream of agent causation, a commitment of the agency cluster.
+- **Fix applied**: inherited the canonical scoping from [[concepts/where-the-substance-commitment-enters]] rather than composing fresh prose. **None of the four cited it before this pass; all four do now** — the article was written (2026-05-27) precisely to stop the scoping note drifting, and these four had drifted.
+- **Changes**:
+  - `unity-of-consciousness` L144 (Bidirectional Interaction bullet) — first two sentences kept intact; the third, *"Subject unity that persists across time is a precondition for conscious agency"*, silently upgraded from the *synchronically* unified locus of selection that phenomenal unity actually supplies to diachronic persisting-subjecthood, stated as background fact. **Dropped the upgrade rather than licensing it**: this article runs on irreducibility plus unity, not agent causation. Replaced with the synchronic scoping plus the agency-cluster attribution. Minimal Quantum Interaction (L142) and No Many Worlds (L146) untouched — both already correctly scoped.
+  - `non-temporal-consciousness` L100 — *"originates in the dualism tenet and its downstream commitments"* handed the Madhyamaka objector the wrong target in the article's own concession. Re-sourced to the agency cluster's agent-causal commitment. **Executed under a 5-word budget** (3995 against a 4000 hard ceiling): the citation was folded into the existing noun phrase as the wikilink's display text, so the alias costs zero tokens over the bare words. Landed at 3999 — one word spare, no calibration trimmed elsewhere to buy room.
+  - `interaction-problem-across-traditions` L131 — *"implicit commitment to enduring subjects"* → *"agency-cluster commitment"*, per the review's own suggestion, with the downstream-of-agent-causation gloss carried by the citation.
+  - `phenomenology-mechanism-bridge` L87 (reliability ladder, rung 5) — *"these follow from the tenets"* conflated two claims of different provenance. Split: irreducibility does follow from the tenets; persisting-substance is downstream of the agency cluster's agent-causal commitment. Both remain honestly registered as commitments rather than data, which the rung already had right.
+- **Review correction not inherited**: the review claimed the apex propagates the error because other articles cite it. A live grep found only `positions/quantum-interface.md` and one research note citing it among live content — **none of the other three**. The apex is a fourth independent instance, not the upstream root; fixed on severity, not on the propagation story.
+- **Scope discipline**: no re-litigation of the substance question. The Map still holds that a unified subject selects; all four edits change only *which commitment that is sourced to*. No argument weakened, no conclusion retracted.
+- **Word counts** (`analyze_length`, all under hard ceilings): unity 2563→2606 (hard 3500); non-temporal 3995→3999 (hard 4000); interaction-problem 3264→3275 (hard 4000); apex 4565→4599 (hard 5000).
+- **Attribution**: `ai_modified` bumped to 2026-07-29T12:15:54+00:00 on all four (`date -u`-checked). `ai_system` held unchanged on each (opus-4-6 ×3, opus-4-7 ×1) — calibration re-scoping is not re-authoring. `last_deep_review` untouched on all four. No `[1m]` artifact, no EOF tool-call tag, corpus-wide `ai_system` scan clean.
+- **Verification**: `scripts/sync.py` clean; all four wikilinks resolve to `/concepts/where-the-substance-commitment-enters/` in the Hugo output.
+- **Published**: yes
 
 ## 2026-07-29 12:08 UTC - deep-review
 - **Status**: Success
