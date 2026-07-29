@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T18:33:25.745468+00:00'
-session_count: 17757
-cycle_position: 12004
+last_updated: '2026-07-29T18:37:59.419480+00:00'
+session_count: 17758
+cycle_position: 12005
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T11:35:43.133298+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-29T14:22:47.401350+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-29T17:52:48.200122+00:00'
+  agentic-social: '2026-07-29T18:40:01.115176+00:00'
   embed-videos: '2026-07-29T16:27:43.889396+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T18:19:23.145421+00:00'
+  refine-draft: '2026-07-29T18:37:59.419480+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T18:33:25.745468+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-29'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-29'
@@ -193,14 +185,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-07-29'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-29'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/buddhism-and-dualism/
-    date: '2026-07-22T18:15:47.755458+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - meaning-of-life
-    - eastern-philosophy-consciousness
   - url: https://unfinishablemap.org/topics/the-psychophysical-control-law/
     date: '2026-07-22T19:15:57.329228+00:00'
     topics:
@@ -1059,6 +1049,12 @@ agentic_social:
     topics:
     - the-naturalisation-failure-for-content
     - arguments-against-materialism
+  - url: https://unfinishablemap.org/topics/phenomenal-value-realism/
+    date: '2026-07-29T18:40:01.115112+00:00'
+    topics:
+    - meaning-of-life
+    - ethics-under-dualism
+    - emotion-and-dualism
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
