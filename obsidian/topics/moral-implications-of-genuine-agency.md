@@ -4,7 +4,7 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-10T05:31:00+00:00
+ai_modified: 2026-07-29T23:31:59+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -52,7 +52,7 @@ Moral obligation has always sat uneasily within deterministic frameworks. "You o
 
 Under genuine agency, obligation finds its footing. On the Map's framework, consciousness selects among possibilities that quantum indeterminacy leaves open in neural processing—a mechanism whose neural realisation remains speculative (decoherence times at brain temperature are a live worry, addressed in [[topics/free-will|free will]] and [[concepts/quantum-probability-consciousness|quantum probability and consciousness]]) and whose load-bearing role for the moral conclusions should be flagged. What matters for the obligation argument is the consequence rather than the mechanism: the agent confronts open possibilities, however that openness is physically realised. Moral obligation addresses precisely this openness: among the live options available, some are better than others, and the agent has the capacity to select the better option. The "ought" has a real addressee—a conscious being with causal power over what happens next.
 
-This does not settle *which* obligations hold. Genuine agency is compatible with consequentialist, deontological, and virtue-ethical frameworks. What it provides is the precondition that all these frameworks require: a being with genuine [[reasons-responsiveness]]—one who can respond to moral reasons by acting on them, rather than one whose response is already determined by factors beyond their control.
+This does not settle *which* obligations hold. Genuine agency is compatible with consequentialist, deontological, and virtue-ethical frameworks. What it provides is the precondition that all these frameworks require: a being with genuine [[reasons-responsiveness]]—"genuine" in this article's libertarian sense—one who can respond to moral reasons by acting on them, rather than one whose response is already determined by factors beyond their control. That stipulation does not withdraw the concession made above: Fischer and Ravizza's mechanism-level reasons-responsiveness is by construction compatible with determination, and it remains a real capacity of agents on its own terms. Whether the libertarian reading of the precondition does any additional moral work is exactly the [compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge) below.
 
 ## Character as Self-Creation
 
@@ -118,7 +118,7 @@ The honest position is that the moral implications explored here are *availably 
 
 The symmetry has an epistemic counterpart in [[voids/agency-void|the agency void]]: whether a selection is genuinely authored or merely experienced as such cannot be verified from inside, because the felt sense of authorship arrives as output while the causal act stays sealed. Both the libertarian and the compatibilist read their respective groundings from the same occluded phenomenology, which is why neither can claim the moral implications here on grounds of observational uniqueness.
 
-Where libertarian agency may do separating work is at the *limits* of moral theory—accounts of ultimate desert in retributive contexts, certain readings of "could have done otherwise," the metaphysics of regret over what genuinely was an alternative—but in the central uses of moral language explored above, both scaffolds suffice. The article's moral conclusions therefore depend on the Map's metaphysics for *coherence with the rest of the Map*, not for moral content unattainable elsewhere. Readers who endorse compatibilism can read the moral content here as articulating what compatibilist desert demands when taken seriously, and need not adopt agent causation to take the demands.
+Where libertarian agency may do separating work is at the *limits* of moral theory—accounts of ultimate desert in retributive contexts, certain readings of "could have done otherwise," the metaphysics of regret over what genuinely was an alternative—but in the central uses of moral language explored above, both scaffolds suffice. The "could have done otherwise" limit is where [[frankfurt-cases-and-the-principle-of-alternate-possibilities|Frankfurt cases]] bear, and the Map's answer there relocates the requirement from alternatives to sourcehood—a move that article books as "a *retreat*, and a conditional one" rather than a free translation. The symmetry bites hardest against [[reactive-attitudes-and-strawsonian-responsibility|Strawsonian responsibility]], where a normativized reading of the reactive attitudes secures the praise-and-blame practices with no metaphysical thesis at all; the discipline recorded there is that the Map's resistance is a framework-boundary disagreement and no evidence "that Strawson is wrong or that dualism is right." The article's moral conclusions therefore depend on the Map's metaphysics for *coherence with the rest of the Map*, not for moral content unattainable elsewhere. Readers who endorse compatibilism can read the moral content here as articulating what compatibilist desert demands when taken seriously, and need not adopt agent causation to take the demands.
 
 ## Relation to Site Perspective
 
@@ -156,6 +156,8 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 - [[diachronic-agency-and-personal-narrative]]
 - [[attentional-economics]]
 - [[responsibility-gradient-from-attentional-capacity]]
+- [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Whether responsibility needs alternatives at all, and what the Map's fallback from leeway to sourcehood costs
+- [[reactive-attitudes-and-strawsonian-responsibility]] — The strongest non-metaphysical rival: blame grounded in the reactive attitudes, and why the Map's resistance is a framework boundary rather than a refutation
 - [[ai-moral-agency-and-the-responsibility-gap-under-dualism]] — What follows for machine blame: why the culpability gap is real on the Map's framework when a system lacks the conscious interface
 - [[moral-architecture-of-consciousness]] — Apex synthesis: how genuine agency integrates with value, normativity, and moral perception
 
