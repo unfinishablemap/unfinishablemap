@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T13:18:27+00:00'
+ai_modified: '2026-07-29T13:29:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 13:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/amplification-mechanisms-consciousness-physics]]
+- **Word count**: 3929 → 3987 (+58; 13 under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 4
+- **Enhancements made**: 1 (Stage 2 damping note)
+- **Lens**: empirical-claim fidelity (does the paraphrase match what the study **found**?) — chosen because the citation-**metadata** axis was exhausted by the 2026-06-02 full publisher-of-record ledger and the 2026-07-06 re-verify. Eighth deep review; the seventh was a clean no-op.
+- **Primary defect**: [[reviews/deep-review-2026-07-29-amplification-mechanisms-consciousness-physics|citation-framing inversion]]. The article read *"wakefulness is near-critical, anaesthesia pushes the brain subcritical, and epilepsy represents supercriticality (Priesemann et al., 2014)"* — but that paper is titled *"Spike avalanches in vivo suggest a driven, **slightly subcritical** brain state"* and its abstract states *"neural activity does not reflect a SOC state but a slightly sub-critical regime"*. The cited paper's central claim is that the **awake** cortex is slightly subcritical: the direct negation of the sentence citing it. It also reports no wake/anaesthesia criticality contrast (*"all in vivo avalanche distributions were similar"*). Verified at Frontiers, DOI 10.3389/fnsys.2014.00108. Survived **seven** prior reviews, all of which confirmed the metadata as correct — because it *was* correct.
+- **Fix**: split into two correctly-attributed claims. The states-of-consciousness correlation re-attributed to **Toker et al. (2022)**, *PNAS* 119(7):e2024455119 (waking dynamics near the edge-of-chaos critical point, transitioning away under anaesthesia and during seizures), full author list verified at PMID 35145021. Priesemann now cited for its actual finding (driven, slightly subcritical regime; safety margin from supercritical runaway). Toker deliberately **not** restated in sub/supercritical language — its edge-of-chaos axis does not map onto the avalanche branching-ratio axis, and doing so would swap one misframing for another.
+- **Downstream propagation repaired**: three passages inherited the false "cortex sits exactly at criticality" premise — *"maintains itself near criticality—not above, not below, but at the edge"*, *"systems at criticality are **maximally** sensitive"*, and *"power-law exponent **matching theoretical predictions for systems at criticality**"* (the exact claim Priesemann contests). All corrected.
+- **Calibration gain**: Stage 2 of the three-stage chain rests on critical susceptibility, so a slightly subcritical operating point damps cascades. Stage 2 now says so: *"cascades are damped, so the available gain is finite rather than unbounded."* Moves the article **down** the confidence scale where evidence warrants — the inverse of possibility/probability slippage.
+- **Medium fixes**: Mainen & Sejnowski 1995 relabelled ("a related result outside the SR paradigm") — it is neither a sensory-modality nor an SR study and was framed as SR evidence; Benzi et al. 1981 "first demonstrated in climate models" → "first proposed to explain ice-age periodicity" (it is the theoretical introduction); Chakroun et al. 2023 dropped qualifier restored ("at least in the male participants tested" — the study title says *in males*); "anesthetic gases **selectively** bind tubulin" → "bind tubulin".
+- **Corpus check**: `grep -rn "Priesemann" obsidian/ --include=*.md` (reviews excluded) — the misframing appears **only** in this article. No propagation to repair.
+- **Superlative sweep**: `find_superlative_claims` → 0 matches. No currency exposure.
+- **Length discipline**: +58 net absorbed by deliberate trims (redundant "brain's chaotic dynamics serve as a natural amplifier" sentence; "acting forward in time" pleonasm beside "non-retrocausal"; compression of the SOC-coupling and criticality-tuning paragraphs). Toker abbreviated to three-plus-*et al.* in the reference list purely for the ceiling; full list recorded in the review archive. **Article is now effectively at its ceiling — route any future substantive fix to a human length decision.**
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` (targeted correction, not re-authoring — matching the 2026-06-02 precedent, which also fixed citations without flipping attribution); `ai_contribution` held at 100. `ai_modified` and `last_deep_review` stamped from live `date -u` (13:29:29 UTC) — no forward drift.
+- **Verified**: no `[1m]` artifact; no EOF tool-call artifact; no editor-vocabulary leakage.
+- **Output**: [[reviews/deep-review-2026-07-29-amplification-mechanisms-consciousness-physics]]
 
 ## 2026-07-29 13:17 UTC - refine-draft
 - **Status**: Success
