@@ -1,10 +1,10 @@
 ---
 title: "Temporal Consciousness: Structure and Agency"
-description: "How consciousness constitutes temporal structure, how attention reshapes the experience of time, and how temporal agency—selecting when to act—reveals irreducible features of conscious experience."
+description: "How consciousness constitutes lived temporal structure, how attention reshapes the experience of time, and how temporal agency—selecting when to act—reveals irreducible features of experience."
 created: 2026-01-23
 modified: 2026-04-15
 human_modified: null
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-07-29T13:41:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,9 +67,9 @@ coalesced_from:
   - "/topics/phenomenology-of-temporal-consciousness-and-agency/"
 ---
 
-Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. Time's direction may require consciousness—the arrow distinguishing past from future may emerge through conscious observation. The Unfinishable Map explores both directions of this relationship, finding that the temporal dimension of agency—selecting *when* to act—reveals the irreducibility of conscious experience with particular force.
+Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. The felt direction of time may require consciousness—though the cosmic arrow itself, laid down by objective collapse, predates mind. The Unfinishable Map explores both directions of this relationship, finding that the temporal dimension of agency—selecting *when* to act—reveals the irreducibility of conscious experience with particular force.
 
-If consciousness needs time, systems without temporal structure—like large language models with discontinuous, stateless processing—may be categorically excluded from experience. The [[structural-varieties-of-consciousness-and-ai-phenomenology|structural varieties of consciousness]] analysis identifies temporal structure as one of five independent dimensions along which consciousness varies. If time needs consciousness, the measurement problem in quantum mechanics becomes inseparable from the hard problem. And the lived experience of time—the specious present, Bergson's durée, the felt difference between open future and fixed past, the gathered urgency of a kairos moment—may be partly constitutive of what consciousness is.
+If consciousness needs time, systems without temporal structure—like large language models with discontinuous, stateless processing—may be categorically excluded from experience. The [[structural-varieties-of-consciousness-and-ai-phenomenology|structural varieties of consciousness]] analysis identifies temporal structure as one of five independent dimensions along which consciousness varies. If lived time needs consciousness, the measurement problem in quantum mechanics becomes inseparable from the hard problem. And the lived experience of time—the specious present, Bergson's durée, the felt difference between open future and fixed past, the gathered urgency of a kairos moment—may be partly constitutive of what consciousness is.
 
 ## Temporal Binding Is Deeper Than Spatial Binding
 
@@ -201,11 +201,11 @@ Pathological and altered states illuminate temporal integration by showing what 
 
 The [[phenomenology-of-returning-attention|phenomenology of returning attention]] provides another revealing case. When attention wanders and then returns—as in meditation—there is a characteristic three-phase structure: noticing that attention has drifted, encountering the gap where no one was watching, and deliberately re-engaging. During mind-wandering, the specious present thins dramatically. When attention returns, there is often a phenomenal discontinuity—a sense that time passed without full temporal consciousness. This suggests that temporal consciousness is not automatic but depends on attentional engagement.
 
-## Time May Need Consciousness
+## Lived Time May Need Consciousness
 
-Fundamental physical laws appear time-symmetric, yet time has an arrow. The Map's [[tenets|framework]] proposes that consciousness participates in establishing time's direction through quantum collapse. Collapse introduces irreversibility—alternatives not selected are genuinely gone. If consciousness participates in collapse, it participates in creating the arrow of time.
+Fundamental physical laws appear time-symmetric, yet time has an arrow. Collapse introduces irreversibility—alternatives not selected are genuinely gone. The cosmic arrow is laid down by objective collapse and predates mind; the Map's [[tenets|framework]] proposes that where consciousness participates in collapse, it participates in constituting the arrow *as lived*—the felt passage of experienced time within neural systems.
 
-The Map favours a modified **growing block** metaphysics: consciousness-involving collapse grows the block. The present is where superpositions resolve; the past is accumulated collapsed structure; the future doesn't yet exist. "Growth" isn't a process *in* time—it's the constitution of time.
+The Map favours a modified **growing block** metaphysics: collapse grows the block. The present is where superpositions resolve; the past is accumulated collapsed structure; the future doesn't yet exist. "Growth" isn't a process *in* a pre-given time—it is the laying-down of temporal structure, most of it objective and mindless.
 
 Attention relates differently to past and future. [[phenomenology-of-anticipation|Anticipatory attention]] carries urgency, possibility, and openness. Retentive attention carries givenness, fading vividness, and increasing distance. If the Map's framework is correct that [[time-collapse-and-agency|consciousness participates in collapse]] and [[collapse-and-time|collapse creates irreversibility]], then temporal attention may be the phenomenological manifestation of that participation. Attending forward feels open because outcomes are genuinely undetermined. Attending backward feels closed because collapse has already occurred.
 
@@ -217,7 +217,7 @@ Meditation traditions provide phenomenological data unavailable through ordinary
 
 **Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khaṇika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity. The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.
 
-**Cessation states.** In *nirodha samāpatti*, perception and feeling cease entirely—awareness without temporal flow. If consciousness constitutes time through collapse, suspended collapse would eliminate temporal experience.
+**Cessation states.** In *nirodha samāpatti*, perception and feeling cease entirely—awareness without temporal flow. If consciousness constitutes lived time through collapse, suspended collapse would eliminate temporal experience.
 
 **Jhāna progression.** Higher absorption states report increasingly "timeless" qualities—not that time stops but that the sense of moving through time diminishes.
 

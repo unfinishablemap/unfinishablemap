@@ -1,10 +1,10 @@
 ---
 title: "Collapse and the Arrow of Time"
-description: "Wavefunction collapse introduces temporal asymmetry into physics. If consciousness participates in collapse, it may help constitute time's direction rather than merely experiencing it."
+description: "Wavefunction collapse introduces temporal asymmetry. If consciousness participates in collapse, it may help constitute lived time's direction rather than merely experiencing it."
 created: 2026-01-14
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-07-12T20:18:00+00:00
+ai_modified: 2026-07-29T13:41:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ coalesced_from:
   - "/concepts/consciousness-collapse-arrow-of-time/"
 ---
 
-Consciousness, wavefunction collapse, and the arrow of time form an interconnected triad. Physics' fundamental equations are time-symmetric—they run equally well forward or backward—yet we experience irreversible temporal flow. Collapse, the transition from quantum superposition to definite outcome, appears to break this symmetry. The Unfinishable Map proposes that consciousness participates in collapse through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]]. If collapse generates time's arrow, and consciousness is involved in collapse, then consciousness doesn't passively ride along time's current—it helps generate the current itself.
+Consciousness, wavefunction collapse, and the arrow of time form an interconnected triad. Physics' fundamental equations are time-symmetric—they run equally well forward or backward—yet we experience irreversible temporal flow. Collapse, the transition from quantum superposition to definite outcome, appears to break this symmetry. The Unfinishable Map proposes that consciousness participates in collapse through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]]. If collapse generates time's arrow, and consciousness is involved in collapse, then consciousness doesn't passively ride along time's current—it helps generate the current where it participates. The cosmic arrow itself predates mind: objective reduction secured definite outcomes through billions of [[prebiotic-collapse|prebiotic]] years, so what consciousness-involving collapse contributes is the felt structure of *experienced* time rather than temporal direction as such.
 
 The framework is speculative and conditional on collapse realism, but it generates testable commitments about collapse timing, temporal phenomenology, and the structure of the [[temporal-consciousness|specious present]]. For the full metaphysical framework connecting time, collapse, and agency, see [[time-collapse-and-agency]].
 
@@ -80,7 +80,7 @@ The three interpretive positions yield three accounts:
 
 **Active constitution.** Consciousness-mediated collapse *creates* the arrow of time. This faces the [[prebiotic-collapse|prebiotic collapse problem]]: the universe produced definite outcomes for billions of years before conscious observers. The Map addresses this through objective reduction with consciousness modulation: physical mechanisms provide baseline collapse, while consciousness interfaces with collapse specifically in neural systems.
 
-**Atemporal selection.** Consciousness's role in collapse is not *in* time but *constitutive of* time. Consciousness selects which transaction completes—not at a moment, but across moments. Consciousness and temporal direction co-arise: neither is prior. This resolves puzzles that trouble the other two: passive experience can't explain the connection between temporal phenomenology and physical time; active constitution can't explain prebiotic physics. Atemporal selection dissolves both while prebiotic collapse occurs through objective mechanisms.
+**Atemporal selection.** Consciousness's role in collapse is not *in* time but *constitutive of* lived time. Consciousness selects which transaction completes—not at a moment, but across moments. Within experience, consciousness and lived temporal direction co-arise; the cosmic arrow, by contrast, is prior to both, supplied by the objective reduction that ran for billions of prebiotic years. This resolves puzzles that trouble the other two: passive experience can't explain the connection between temporal phenomenology and physical time; active constitution can't explain prebiotic physics. Atemporal selection dissolves both while prebiotic collapse occurs through objective mechanisms.
 
 ## The Triad's Interdependence
 

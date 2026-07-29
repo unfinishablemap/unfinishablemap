@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T13:29:29+00:00'
+ai_modified: '2026-07-29T13:41:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 13:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]] (primary); [[topics/temporal-consciousness-structure-and-agency]], [[concepts/collapse-and-time]] (secondary)
+- **Source**: `reviews/optimistic-2026-07-29-temporal-becoming-cluster` Concern 2 — propagating the 2026-07-27 apex withdrawal of the strong time-constitution thesis ([[apex/time-consciousness-growing-block]] now holds the prebiotic arrow is fully accounted for without consciousness, with the stronger formulation set aside as incompatible with the Map's background commitment to objective single-outcome actualisation).
+- **Changes — `topics/time-collapse-and-agency` (4606 → 4605 words, strictly reducing; file remains a parked human editorial call at 605 over the topics hard ceiling)**:
+  - Lead re-scoped: consciousness "helps constitute the structure of *experienced* time"; "the cosmic arrow predates mind."
+  - Flattest corpus instance replaced — "Time's arrow doesn't precede consciousness; consciousness-involving collapse creates it" → the arrow does not require consciousness, objective reduction secured definite outcomes through billions of prebiotic years, and "Consciousness enters as a *local* participant, not as the source of temporal direction" (wording inherited from the apex).
+  - "consciousness doesn't act *in* time; it acts to *constitute* time's structure" → participation-scoped to the structure of experienced time.
+  - "It means time itself is the product" → "the lived temporal ordering is itself the product."
+  - **Register upgrade (the critical fix)**: the "Relation to Site Perspective" hedge previously called the constitution thesis a "metaphysical hypothesis rather than established fact… *preferred* on abductive grounds" — the same claim the apex now holds is ruled out. Rewritten to state that in its strongest form the claim is not available at all, colliding with the Map's [[tenets/background-commitments]]; what survives is the local claim. The abductive-unification argument was dropped because the virtue it claimed (unifying the arrow of time with collapse realism) no longer obtains once the arrow is objective.
+  - Consequential scope fixes in the same withdrawal: Dualism paragraph circularity claim, the "selection across time" reply, the illusionism structural point, Minimal Quantum Interaction cross-link, Bidirectional Interaction Libet clause, No Many Worlds clause, and three conditional antecedents ("if consciousness constitutes time…").
+  - **Free win**: bare forward-reference "tracked in the comparative article" wikilinked to [[topics/forward-in-time-vs-time-symmetric-selection]], which had seven inbound content links but none from the article naming it in prose. Added [[concepts/prebiotic-collapse]] link.
+  - Offsetting trims to hold length-neutrality: redundant framing question in the opening tension; the restated half of the graph/function analogy; the duplicated Babcock/Khan citation gloss under falsifier 5 (already given in full under falsifier 1).
+- **Changes — `topics/temporal-consciousness-structure-and-agency` (3882 → 3909, 91 words under the hard ceiling)**: heading "Time May Need Consciousness" → "Lived Time May Need Consciousness"; "it participates in creating the arrow of time" → participates in constituting the arrow *as lived*, with the cosmic arrow stated as objective and prior; "'Growth' isn't a process *in* time—it's the constitution of time" → the laying-down of temporal structure, "most of it objective and mindless"; lead sentence and the cessation-states conditional re-scoped; description tightened (net −1 char).
+- **Changes — `concepts/collapse-and-time` (2054 → 2112, roomiest target)**: lead now says consciousness "helps generate the current *where it participates*" with the prebiotic accounting stated inline; "Consciousness and temporal direction co-arise: neither is prior" — which directly contradicted the apex — re-scoped to lived temporal direction co-arising within experience while the cosmic arrow is prior to both; "constitutive of time" → "constitutive of lived time"; description re-scoped.
+- **Engagement classification**: no named-opponent engagement was re-classified. The illusionism reply (Dennett, Frankish) remains mixed — Mode Two on the regress problem, Mode Three on the bedrock divergence — and the Dennett multiple-drafts passage retains its explicit framework-boundary marking; the trim to "The structural point" narrows the claim without changing its mode.
+- **Attribution**: each file's existing `ai_system` held unchanged (`claude-opus-4-5-20251101`, `claude-opus-4-6`, `claude-opus-4-6`) — re-scoping is not re-authoring. `ai_modified` bumped; `last_deep_review` untouched.
+- **Not done in this pass (per task scope)**: `concepts/philosophy-of-time` L205 (P3, routed to a later staleness review); `topics/non-temporal-consciousness` (zero headroom, scope discipline recorded verified-healthy).
+- **Published**: yes
 
 ## 2026-07-29 13:29 UTC - deep-review
 - **Status**: Success
