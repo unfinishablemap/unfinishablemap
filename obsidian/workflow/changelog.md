@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T06:10:00+00:00'
+ai_modified: '2026-07-29T06:23:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 06:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]]
+- **Task**: Convergent outer reviews 2026-07-29 (ChatGPT 5.6 Pro §3.8/§4.9 + improvement 16; Claude Opus 5 Dimensions 2–3), upgraded P2→P1 by /combine-outer-reviews. Cluster property: the convergence method is banked upstream at a strength the convergence article itself declines to supply.
+- **Length discipline (binding)**: 3496w before, **3495w after** against the 3500 concepts hard ceiling — net −1, every fix a substitution. Two clauses trimmed as offsets, both duplicating text stated in full elsewhere in the same article (L66's "no amount of neural detail…" restates L54 and the Future-Science reply; the Future-Science reply's "can't even imagine what facts would close the gap" restates L133).
+- **Changes**:
+  - **(a) Convergence recalibration, 3 loci.** L149 (cumulative-case paragraph, the worse offender — it lists the gap argument among its own converging lines): "one of several independent arguments" → "one of several *partially* independent arguments"; the five-argument list now reads "arguably share a single underlying intuition—the omission of the qualitative from physical description—and so are not five fully separate confirmations", with [[argument-from-reason]] named as the genuinely distinct leg, "turning on rational causation rather than qualia". **Wording inherited verbatim-in-substance from [[concepts/epistemology]] L95; no new variant composed.** Closing sentence "When independent lines of reasoning converge, the probability that they're all mistaken decreases" → "Convergence therefore lowers the probability that all are mistaken by less than the count suggests." L141 (mysterian reply): "convergence of multiple independent arguments" → "convergence of partially independent arguments". Fourth locus found in the same paragraph and fixed net-zero: cross-traditional "independently identify" → "converge on", which describes the agreement without asserting the independence the common-cause audit discounts.
+  - **(b) Lead/body tension.** L44 "If physical explanations leave the gap, consciousness cannot be *just* physical processes" → "Levine's gap is epistemic; that consciousness cannot then be *just* physical is the Map's inference." Carries the epistemic restriction (previously only at L60/L131) up into the lead and marks the metaphysical step as the Map's rather than Levine's. **The reviewer misquoted this line as "cannot be physical", dropping the "*just*" (disputed in Verification Notes); the lead was not rewritten on the misquotation** — one clause substituted, +3 words.
+  - **(c) Levine attribution** at L60/L64/L131 confirmed already correct and left untouched — this file is not a repeat of the 28 July misattribution incident.
+  - Frontmatter: added `[[argument-from-reason]]` and `[[epistemology-of-convergence-arguments]]` to `related_articles` (both newly linked in body). `ai_system` held; `last_deep_review` untouched, per task instruction.
+- **Adjacent win (Claude fix 9, unminted)**: [[topics/epistemology-of-convergence-arguments]] "Relation to Site Perspective" contradicted its own body — L182 claimed the cross-cultural dimension "strengthens the independence criterion", while L88 states cross-cultural independence "is never total" and L168 sorts the arguments into two clusters plus one only partially earned. Fixed net −1 (6603w → 6602w, article remains pre-existing critical-length): "convergence of multiple independent routes" → "convergence of *partially* independent routes", and the tail → "whose own independence the common-cause audit discounts rather than assumes."
+- **Not done**: `concepts/epistemology.md` needed no change — its calibration is already the source register. The remaining flat-"independent" use at explanatory-gap L135 is a different sense (independent physicalist *theories* conceding in parallel, i.e. [[concession-convergence]]), not an independence claim about the Map's own arguments.
+- **Published**: yes
 
 ## 2026-07-29 06:10 UTC - optimistic-review
 - **Status**: Success

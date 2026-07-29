@@ -4,7 +4,7 @@ description: "What makes convergence evidentially significant? Cross-traditional
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-07-27T09:52:00+00:00
+ai_modified: 2026-07-29T06:23:11+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -179,7 +179,7 @@ The pattern operates on every Map application: [[the-convergence-argument-for-du
 
 ## Relation to Site Perspective
 
-The Unfinishable Map relies on convergence at multiple levels. The [[tenets#^dualism|Dualism tenet]] is supported not by any single argument but by the convergence of multiple independent routes to irreducibility — extended beyond a single tradition by the cross-cultural dimension, which strengthens the independence criterion that gives convergence its force.
+The Unfinishable Map relies on convergence at multiple levels. The [[tenets#^dualism|Dualism tenet]] is supported not by any single argument but by the convergence of *partially* independent routes to irreducibility — extended beyond one tradition by the cross-cultural dimension, whose own independence the common-cause audit discounts rather than assumes.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects directly: parsimony is a tiebreaker between theories of equal explanatory power, not a trump card overriding convergent evidence. Dismissing cross-cultural convergence as mere cognitive bias assumes we understand human cognition well enough to explain the pattern away, but the empirical evidence on [[intuitive-dualism]] suggests it is not reducible to innate cognitive tendencies.
 
