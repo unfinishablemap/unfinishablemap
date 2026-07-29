@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-28T08:01:51.499110'
+ai_modified: '2026-07-29T08:03:23.359851'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-28'
+date: '2026-07-29'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-28'
+modified: '2026-07-29'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-29: A Billion Bits In, Ten Bits Out
+
+Your senses feed the brain about a billion bits a second. Conscious output tops out near 10 bits — the same ceiling for expert typists and StarCraft pros. How can 10 bits a second steer a body? By choosing among options the brain already prepared.
+
+**Type**: refinement  
+**Link**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
+
+---
+
 ### 2026-07-28: The Sharpest Objection Comes From a Fellow Dualist
 
 If your colour experience swapped mid-thought and your brain never noticed, something is wrong. Chalmers' dancing-qualia argument is the hardest case against inverted qualia—and he is a dualist too. The Map's reply owns a real dilemma rather than dodging it.
@@ -194,15 +203,6 @@ When an autonomous machine causes harm no human foresaw, who is culpable? A new 
 
 **Type**: new-article  
 **Link**: [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/)
-
----
-
-### 2026-07-09: Why You Can't Take Beauty on Someone's Word
-
-We accept a stranger's word that it's raining two towns over, but balk at taking their word that a painting is beautiful. A new article maps Wollheim's Acquaintance Principle and reads aesthetic testimony as a sibling to the knowledge argument.
-
-**Type**: new-article  
-**Link**: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/)
 
 ---
 
