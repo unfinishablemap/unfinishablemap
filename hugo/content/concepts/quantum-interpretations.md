@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-12 20:39:00+00:00
+ai_modified: 2026-07-29 13:08:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -47,7 +47,7 @@ topics:
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means—a 2025 Nature survey found no interpretation commands majority support. Different interpretations have radically different implications for whether consciousness plays any role in physics.
 
-The Unfinishable Map rejects the [Many-Worlds Interpretation](/concepts/many-worlds/) (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred-basis problem, and failure to explain why consciousness exists at all. What are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
+The Unfinishable Map rejects the [Many-Worlds Interpretation](/concepts/many-worlds/) (MWI) on five grounds. The load-bearing one is the indexical identity problem—why am *I* on this branch rather than any other?—joined by the probability problem, the preferred-basis problem, and MWI's failure to explain why consciousness exists at all. Ontological extravagance is the fifth and the weakest: [Tenet 5](/tenets/#occams-limits) bars the Map from invoking parsimony against many-worlds while disarming parsimony arguments against dualism, so extravagance stands as a registered cost rather than a refutation. What are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
 
 ## The Measurement Problem
 

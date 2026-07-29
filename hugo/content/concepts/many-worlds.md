@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-27 17:17:24+00:00
+ai_modified: 2026-07-29 14:25:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -53,15 +53,7 @@ MWI takes the mathematics literally, requiring no collapse postulate. The elegan
 
 ## Five Arguments Against MWI
 
-### 1. Ontological Extravagance
-
-MWI posits that every quantum event—trillions per second throughout the universe—branches reality into multiple copies, each a complete universe. The branch count grows exponentially, bounded only by the universe's history.
-
-This isn't merely "lots of universes" but continuous ontological explosion. Each photon absorbed by each atom in each star creates new branches; the total already exceeds any number we can meaningfully write.
-
-MWI defenders argue this is *simpler* because it has fewer laws—just the Schrödinger equation. But the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that simplicity is unreliable when knowledge is incomplete. A theory positing infinite unobservable universes is not parsimonious in any intuitive sense.
-
-### 2. The Indexical Identity Problem
+### 1. The Indexical Identity Problem
 
 Before measurement, there is one you. After measurement on MWI, there are many equally real continuations—one for each possible outcome. Yet you find yourself in exactly one branch, having exactly one experience.
 
@@ -95,6 +87,14 @@ The Map reads the felt singularity of "this is me, here, having *this* experienc
 The following compact paragraph is intended as the structural defence that other Map articles—particularly voids articles whose No-Many-Worlds tenet sections invoke felt singularity—can cross-link to as `[[many-worlds#MWI's Branch-Relative Indexicality Reply]]` (or aliased "MWI's indexical reply"):
 
 > Saunders/Wallace branch-relative indexicality (Saunders 2010; Wallace 2012) lets MWI accommodate the felt singularity of experience: in each branch, *that* branch's observer truly says "I am here, having *this* outcome." Claims of the form "experience is *this one*, not scattered across branches" or "consciousness withholds *here*, not across branches" therefore do not by themselves refute MWI—branch-local *de se* attribution already secures them. The Map's reading is stronger: indexicality is genuinely one-branch-at-a-time rather than locally-articulated within a globally-branching structure. This commits the Map to reading the cross-branch personal-identity relation that the Deutsch-Wallace decision-theoretic derivation requires (Deutsch 1999; Wallace 2003, 2012) as unavailable, since *de se* indexicality cannot do the double duty—local-within-branch *and* unified-across-branches—that MWI's Born-rule recovery needs. Felt singularity is evidence consistent with a non-MWI reading of indexicality rather than a knockdown of MWI's branch-relative reply, and the Map's stronger claim earns its tenet status by absorbing the decision-theoretic cost MWI cannot.
+
+### 2. Ontological Extravagance
+
+MWI posits that every quantum event—trillions per second throughout the universe—branches reality into multiple copies, each a complete universe. The branch count grows exponentially, bounded only by the universe's history.
+
+This isn't merely "lots of universes" but continuous ontological explosion. Each photon absorbed by each atom in each star creates new branches; the total already exceeds any number we can meaningfully write.
+
+MWI defenders argue this is *simpler* because it has fewer laws—just the Schrödinger equation. But the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that simplicity is unreliable when knowledge is incomplete. That discipline binds the Map too: extravagance is a registered cost of MWI rather than a refutation of it.
 
 ### 3. The Probability Problem
 

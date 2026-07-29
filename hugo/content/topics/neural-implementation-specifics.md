@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-29 14:47:17+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 concepts:
@@ -15,8 +15,8 @@ concepts:
 - '[[altered-states-of-consciousness]]'
 created: 2026-02-01
 date: &id001 2026-02-01
-description: Evaluating quantum neural mechanism evidence. Radical pairs lead, microtubules
-  gain support, others remain speculative. Experimental tests possible.
+description: Evaluating quantum neural mechanism evidence. Radical pairs lead as precedent,
+  not licence; microtubule support is contested; others remain speculative.
 draft: false
 human_modified: null
 last_curated: null
@@ -26,12 +26,14 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
 - '[[testing-consciousness-collapse]]'
+- '[[quantum-biology-and-neural-consciousness]]'
+- '[[positions/quantum-interface]]'
 title: Neural Implementation Specifics
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest empirical grounding—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
+Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest empirical grounding—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. That precedent establishes that the warm-biology regime is real; it does not license the neural case, and the Map corrects citations that read it as support rather than precedent ([quantum-interface](/positions/quantum-interface/) P-Q8). Microtubule coherence draws on anesthetic studies and room-temperature super-radiance results, each of which the Map grades as contested rather than confirmatory—the line-by-line grading lives in [the quantum biology survey's calibration table](/topics/quantum-biology-and-neural-consciousness/#the-calibration-table)—and the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
 
 ## The Evidence Hierarchy
 
@@ -45,7 +47,7 @@ The five mechanisms can be ranked:
 
 | Mechanism | Theory | Evidence | Functional Relevance |
 |-----------|--------|----------|---------------------|
-| Radical pairs | Strong | Strong (2024 Zeno model) | Moderate |
+| Radical pairs | Strong | Strong (2024 Zeno model) | Moderate (sensory only) |
 | Microtubules | Comprehensive | Growing (2024-2025) | Uncertain |
 | Ion tunneling | Mathematical | Indirect | Speculative |
 | SNARE tunneling | Specific | Minimal | Speculative |
@@ -61,7 +63,7 @@ Radical pair mechanisms have the firmest empirical grounding among quantum neura
 
 **Established biological precedent.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/)—how migratory birds navigate using Earth's magnetic field—operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology.
 
-**Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), nine orders of magnitude longer than the femtosecond (10⁻¹⁵ s) scale Tegmark's calculations assign to neural superpositions—and fourteen orders longer than his 10⁻²⁰-second figure for ion channels specifically. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. Radical pairs demonstrate that biologically relevant quantum coherence can occur at neural timescales, though whether they participate in computation remains unestablished.
+**Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), nine orders of magnitude longer than the femtosecond (10⁻¹⁵ s) scale Tegmark's calculations assign to neural superpositions—and fourteen orders longer than his 10⁻²⁰-second figure for ion channels specifically. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. Radical pairs demonstrate that biologically relevant quantum coherence can occur in warm tissue at all—though a microsecond still falls roughly three orders short of the millisecond scale at which neural processing operates, and whether radical pairs participate in computation remains unestablished.
 
 **Experimental accessibility.** The mechanism is testable: magnetic field perturbations, light wavelength manipulation, and cryptochrome knockouts all produce predictable effects.
 
@@ -197,9 +199,11 @@ Mechanisms requiring only discrete quantum events (Zeno, tunneling) face far les
 
 As of early 2026:
 
-**Strongly supported**: Biological systems can exploit quantum effects at neural-relevant timescales. The radical pair mechanism in avian magnetoreception is the firm experimental anchor here. The categorical objection—"brains are too warm for quantum effects"—does not survive that result.
+**Strongly supported, as precedent**: Warm, wet biological tissue can host functional quantum coherence. The radical pair mechanism in avian magnetoreception is the firm experimental anchor here—an effect measured in working biology—and the categorical objection, "brains are too warm for quantum effects," does not survive it.
 
-**Moderately supported**: Microtubules show quantum properties relevant to consciousness. Anesthetic correlations and super-radiance demonstrations are suggestive, though causal necessity remains unproven.
+What that anchor does not establish is the neural case. Cryptochrome coherence is microsecond-scale and operates in a specialised photoactivated retinal sensor; no coherence-time calculation currently supports the deep-brain, non-photonic structures the mechanisms above propose. The Map holds this distinction as a standing commitment ([quantum-interface](/positions/quantum-interface/) P-Q8): warm-quantum-biology results are a *precedent*, showing the regime is not categorically impossible, rather than a *licence* for the neural case, and citations that read as the latter are calibration drift corrected when caught. The per-item grading is set out in [the quantum biology survey's calibration table](/topics/quantum-biology-and-neural-consciousness/#the-calibration-table).
+
+**Moderately supported**: Microtubules show quantum properties relevant to consciousness. Anesthetic correlations and super-radiance demonstrations are suggestive, though every line in that cluster is contested on its own terms—the anesthetic correlation admits classical readings, the super-radiance result is an optical effect rather than the conformational-mode coherence Orch OR requires—and causal necessity remains unproven.
 
 **Weakly supported**: Ion channel and SNARE tunneling are physically plausible but experimentally untested.
 
@@ -211,7 +215,7 @@ The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-in
 
 **What implementation specifics reveal:**
 
-The evidence hierarchy shows that not all quantum consciousness proposals are equally speculative. Radical pair mechanisms operate in biology *now*; microtubule effects gain experimental support; other mechanisms await basic verification. This matters for the Map's position: the case for quantum consciousness doesn't rest on a single speculative proposal but on a range of candidates with varying evidential support.
+The evidence hierarchy shows that not all quantum consciousness proposals are equally speculative. Radical pair mechanisms operate in biology *now*, if so far only in sensory systems; microtubule effects draw contested experimental support; other mechanisms await basic verification. This matters for the Map's position: the case for quantum consciousness doesn't rest on a single speculative proposal but on a range of candidates with varying evidential support.
 
 **Connection to [Dualism](/tenets/#dualism):**
 
@@ -221,7 +225,7 @@ Moreover, if [cognitive phenomenology is irreducible](/topics/cognitive-phenomen
 
 **What distinguishes the Map's approach:**
 
-Many discussions of quantum consciousness conflate theoretical possibility with empirical support. By tracking which mechanisms have evidence and what experiments would test them, the Map maintains intellectual honesty about what we know and don't know. The radical pair mechanism settles that quantum effects can operate at neural-relevant timescales; that finding does not adjudicate whether they do so in ways relevant to consciousness, and the deeper inference—from any neural quantum implementation to the consciousness it would underpin—is underdetermined by the evidence the mechanisms supply. This is the gap a dualist position expects to find: locating where quantum indeterminacy lives in neural tissue does not decide between a mechanism that merely accompanies consciousness and one that consciousness exploits.
+Many discussions of quantum consciousness conflate theoretical possibility with empirical support. By tracking which mechanisms have evidence and what experiments would test them, the Map maintains intellectual honesty about what we know and don't know. The radical pair mechanism settles that quantum effects can operate in warm biological tissue; that precedent does not adjudicate whether they operate in neural tissue, still less in ways relevant to consciousness, and the deeper inference—from any neural quantum implementation to the consciousness it would underpin—is underdetermined by the evidence the mechanisms supply. This is the gap a dualist position expects to find: locating where quantum indeterminacy lives in neural tissue does not decide between a mechanism that merely accompanies consciousness and one that consciousness exploits.
 
 **Why this matters for [Bidirectional Interaction](/tenets/#bidirectional-interaction):**
 
@@ -236,6 +240,8 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 ## Further Reading
 
 - [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Survey of all five proposed mechanisms and established quantum effects in living systems
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — The graded evidence treatment this article defers to, including the calibration table allocating each result to the Tenet 2 sub-reading it bears on
+- [quantum-interface](/positions/quantum-interface/) — The positions register, including P-Q8 on warm quantum biology as precedent rather than licence
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy and decoherence challenge
 - [decoherence](/concepts/decoherence/) — The decoherence critique in detail
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Where consciousness correlates with brain activity

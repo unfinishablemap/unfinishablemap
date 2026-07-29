@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-07-12 15:58:00+00:00
+ai_modified: 2026-07-29 13:08:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -153,7 +153,7 @@ The Unfinishable Map's [tenets](/tenets/) predict the concession convergence pat
 
 The **Dualism** tenet holds that consciousness is not reducible to physical processes. Concession convergence shows physicalist theories independently arriving at this conclusion through their own internal development—not because dualists imposed it, but because the phenomenon demands it. The Map interprets this as indirect confirmation: if every serious attempt to explain consciousness in purely physical terms is forced to add something beyond abstract functional description, the additional element may be what dualists call the non-physical.
 
-The **Occam's Razor Has Limits** tenet predicts that apparent simplicity will prove deceptive in the consciousness domain. Concession convergence is a concrete mechanism by which this deception unfolds: each physicalist theory starts with a simple claim, accumulates qualifications, and ends with a framework whose complexity rivals or exceeds the dualism it was meant to replace. The [parsimony reversal](/topics/parsimony-case-for-interactionist-dualism/)—the positive argument that dualism is more parsimonious once all costs are tallied—gains empirical grounding from observing this pattern play out across multiple programmes.
+The **Occam's Razor Has Limits** tenet predicts that apparent simplicity will prove deceptive in the consciousness domain. Concession convergence is one mechanism: each physicalist theory starts simple, accumulates qualifications, and ends at least as complex as the dualism it was meant to replace. The [parsimony reversal](/topics/parsimony-case-for-interactionist-dualism/) draws on this pattern but reads it as an internal critique of the objection rather than positive evidence for dualism. That tenet does not license the posit; it only refuses to let parsimony *veto* it.
 
 The pattern extends beyond consciousness studies. In [philosophy of mathematics](/topics/concession-convergence-philosophy-of-mathematics/), formalism, logicism, intuitionism, and structuralism each begin from incompatible starting points yet are independently forced to concede that mathematical understanding outruns formal characterisation—the same structural gap, appearing in a domain where formal systems are maximally precise.
 

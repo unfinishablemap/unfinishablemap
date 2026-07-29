@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-29 13:08:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -191,7 +191,7 @@ The Map's openness to survival would face serious difficulty if:
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Survival of a unique self requires counterfactual exclusion—the fact that *this* consciousness continues and the branching alternatives genuinely do not. A Many-Worlds picture can restate survival branch-locally, but it cannot supply that exclusion: it actualises every possible successor and so leaves "which one is *me*?" without a determinate answer (the identity work this is doing is set out under [the identity problem](#the-identity-problem)). [Haecceity](/concepts/haecceity/) is what might survive, not a reinstantiable pattern. The deeply personal quality of death phenomenology—the dying person's specific relatives, particular life review, individual timing awareness—reinforces that indexical identity matters.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest assumption—consciousness ends with brain function—might be wrong. Dismissing each dying phenomenon individually looks less parsimonious when they are considered together: convergent themes across radically different conditions suggest a unified explanation is needed, and the simplest unified explanation may not be the materialist one.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest assumption—consciousness ends with brain function—might be wrong. Convergent themes across radically different dying conditions are a cost that piecemeal dismissal must pay, not a parsimony verdict in the Map's favour: that tenet does not license the posit; it only refuses to let parsimony *veto* it. The unified explanation, if one is warranted, will have to earn its keep on the evidence rather than on simplicity.
 
 ## What the Map Does Not Claim
 
