@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-07-25T02:17:13+00:00
+ai_modified: 2026-07-29T09:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ Occam's Razor — prefer the simpler explanation — is widely invoked but rarel
 
 ## Three Dimensions of Simplicity
 
-"Simplicity" is not one property but several, and they frequently conflict:
+"Simplicity" is not one property but several, and they frequently conflict — Baker's *Stanford Encyclopedia* survey (2022) treats the fragmentation as structural, not a temporary want of analysis, the term's "vagueness and multiplicity of meanings" resisting definition while parsimony and elegance "typically pull in different directions":
 
 **Ontological parsimony** counts entity types. Physicalism posits one substance; dualism posits two. By this measure, physicalism is simpler.
 
@@ -60,7 +60,7 @@ Occam's Razor — prefer the simpler explanation — is widely invoked but rarel
 **Explanatory simplicity** counts unexplained brute facts. Physicalism treats [[qualia|phenomenal experience]] as brute — it happens when matter is configured correctly, with no explanation of why. Dualism provides a reason: there is genuinely something beyond the physical. Zanotti (2021) argues that physicalism's need to accommodate consciousness in a framework with no natural place for it is a parsimony cost typically overlooked.
 
 
-These dimensions yield contradictory verdicts — reducing ontological commitments typically inflates theoretical complexity. Hubbard (1995) takes the point further: "simplicity" itself has no clear and agreed-upon definition, so an argument whose key term is undefined cannot have demonstrative force. Physicalists invoking "simplicity" must therefore specify which dimension they mean and why it is epistemically privileged — questions rarely asked and rarely answered.
+The verdicts therefore conflict — reducing ontological commitments typically inflates theoretical complexity — and an argument turning on the bare term is underdetermined until a sense is fixed. Hubbard (1995) raises exactly that criticism for the mind-body case; he answers it by stipulating three senses of parsimony, but still concludes the principle cannot settle the debate either way.
 
 ## Four Accounts of Why Parsimony Works
 
@@ -95,11 +95,11 @@ When the three dimensions of simplicity [described above](#Three%20Dimensions%20
 
 ### Precondition 3: Domain-Appropriate Application
 
-Even if the first two preconditions were met, parsimony would need epistemic warrant in the relevant domain. As [Huemer's four accounts](#Four%20Accounts%20of%20Why%20Parsimony%20Works) demonstrate, none of the standard justifications extends to metaphysical theory choice. A deeper worry runs beneath the domain question: the [[fitness-beats-truth|Fitness-Beats-Truth theorem]] gives formal grounds to doubt that the cognitive system *generating* simplicity intuitions tracks truth at all, since natural selection tunes perception to fitness rather than veridicality. The live alternative is mathematical-structural parsimony (Tegmark, Deutsch): elegance of fundamental formalism as a guide to metaphysical truth. But that proposal presupposes a unified formalism across competing metaphysics — exactly what is disputed when physicalists and dualists disagree on whether consciousness belongs in the formalism at all.
+Even if the first two preconditions were met, parsimony would need epistemic warrant in the relevant domain. As [Huemer's four accounts](#Four%20Accounts%20of%20Why%20Parsimony%20Works) demonstrate, none of the standard justifications extends to metaphysical theory choice. A deeper worry runs beneath the domain question: the [[fitness-beats-truth|Fitness-Beats-Truth theorem]] gives formal grounds to doubt that the cognitive system *generating* simplicity intuitions tracks truth at all, since natural selection tunes perception to fitness rather than veridicality — a debunker that cuts equally against dualist intuitions, as [[fitness-beats-truth#contestation-and-limits|the concept page concedes and answers]]. The live alternative is mathematical-structural parsimony (Tegmark, Deutsch): elegance of fundamental formalism as a guide to metaphysical truth. But that proposal presupposes a unified formalism across competing metaphysics — exactly what is disputed when physicalists and dualists disagree on whether consciousness belongs in the formalism at all.
 
 ### Why the Triple Failure Matters
 
-The entire logical structure of the parsimony argument — premises, inference rule, and conclusion — is unsupported. Parsimony cannot tell us whether physicalism or dualism is correct, any more than a ruler can measure temperature.
+Premises, inference rule, and conclusion are all unsupported: parsimony cannot tell us whether physicalism or dualism is correct, any more than a ruler can measure temperature.
 
 ## Hostile Witnesses
 
@@ -159,7 +159,7 @@ Each condition is an active research programme. The argument is conditional on t
 
 The Map's fifth tenet — [[tenets#^occams-limits|Occam's Razor Has Limits]] — is grounded directly in parsimony epistemology. The tenet does not reject parsimony wholesale; it identifies the conditions under which parsimony loses epistemic force and argues that the consciousness debate satisfies them. [[composition-question-rivals#metaontological-deflationism|Metaontological deflationism]] is the limiting case of distrusting simplicity-as-tiebreaker — dissolving the existence dispute as shallow rather than merely preferring the leaner ontology — a move the fifth tenet resists where consciousness is at stake.
 
-One standard objection to [[interactionist-dualism]] is parsimony-based: physicalism posits fewer substance types, therefore prefer it. Parsimony is not the whole of the physicalist case, and not every physicalist position rests on it. Eliminativism and illusionism dispute that there is first-person phenomenal data of the relevant kind to explain; reductive phenomenal realism, [[phenomenal-concepts-strategy|phenomenal-concept strategies]], representationalism, and nonreductive physicalism accept the first-person data as genuine and contest instead the Map's specification of its content and metaphysical implications. The parsimony argument engages only the part of that field which grants the data and then reaches for simplicity as a tie-breaker. Even there it requires three assumptions — that ontological parsimony is the relevant dimension, that the theories explain consciousness equally well, and that scientific parsimony transfers to metaphysical theory choice — each of which fails under scrutiny, and each of which has been conceded in part by materialists themselves.
+One standard objection to [[interactionist-dualism]] is parsimony-based: physicalism posits fewer substance types, therefore prefer it. Parsimony is not the whole of the physicalist case, and not every physicalist position rests on it. Eliminativism and illusionism dispute that there is first-person phenomenal data of the relevant kind to explain; reductive phenomenal realism, [[phenomenal-concepts-strategy|phenomenal-concept strategies]], representationalism, and nonreductive physicalism accept the first-person data as genuine and contest instead the Map's specification of its content and metaphysical implications, a division [[epistemology#epistemic-assumptions-that-determine-conclusions|the epistemology page]] sets out in detail. The parsimony argument engages only the part of that field which grants the data and then reaches for simplicity as a tie-breaker. Even there it requires three assumptions — that ontological parsimony is the relevant dimension, that the theories explain consciousness equally well, and that scientific parsimony transfers to metaphysical theory choice — each of which fails under scrutiny, and each of which has been conceded in part by materialists themselves.
 
 When the preconditions for applying a principle are unmet, invoking it is a category error. The question must be settled on other grounds: explanatory power, phenomenological evidence, the [[knowledge-argument|knowledge argument]], [[philosophical-zombies|conceivability arguments]], and the coherence of the broader theoretical framework. On those grounds, the Map argues, dualism prevails — and when parsimony *is* correctly applied across all its dimensions, it [[parsimony-case-for-interactionist-dualism|actually favours interactionist dualism]].
 
@@ -179,15 +179,16 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 ## References
 
 1. Anderson, C. J. (2001). Can Ockham's Razor Cut Through the Mind-Body Problem? A Critical Analysis of the Raze Dualism Argument for Materialism. *Journal of Theoretical and Philosophical Psychology*, 21(1), 46–60.
-2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Churchland, P. M. (1984). *Matter and Consciousness*. MIT Press.
-4. Churchland, P. M. (1988). *Matter and Consciousness* (revised edition). MIT Press.
-5. Hubbard, J. (1995). Parsimony and the Mind. Senior thesis, Macalester College.
-6. Huemer, M. (2009). When Is Parsimony a Virtue? *The Philosophical Quarterly*, 59(235), 216-236.
-7. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551-563.
-8. Masi, M. (2023). When Occam's Razor Cuts Too Deep. *PhilArchive*.
-9. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141-156.
-10. Sober, E. (2001). What Is the Problem of Simplicity? In A. Zellner, H. Keuzenkamp, & M. McAleer (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
-11. Swinburne, R. (1986). *The Evolution of the Soul*. Clarendon Press.
-12. Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5(42).
-13. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109-11132.
+2. Baker, A. (2022). Simplicity. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2022 edition). Metaphysics Research Lab, Stanford University.
+3. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+4. Churchland, P. M. (1984). *Matter and Consciousness*. MIT Press.
+5. Churchland, P. M. (1988). *Matter and Consciousness* (revised edition). MIT Press.
+6. Hubbard, J. (1995). Parsimony and the Mind. Senior seminar paper (PHIL 89), Macalester College.
+7. Huemer, M. (2009). When Is Parsimony a Virtue? *The Philosophical Quarterly*, 59(235), 216-236.
+8. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551-563.
+9. Masi, M. (2023). When Occam's Razor Cuts Too Deep. *PhilArchive*.
+10. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141-156.
+11. Sober, E. (2001). What Is the Problem of Simplicity? In A. Zellner, H. Keuzenkamp, & M. McAleer (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
+12. Swinburne, R. (1986). *The Evolution of the Soul*. Clarendon Press.
+13. Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5(42).
+14. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109-11132.
