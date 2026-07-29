@@ -181,3 +181,31 @@
   subject_articles:
   - concepts/inverted-qualia.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-28-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6963b1-15f8-83eb-a700-516a1d9f4b4f
+  commissioned_at: '2026-07-29T02:22:07.169452+00:00'
+  prompt_summary: 'Audit concepts/epistemology: evidence, citations, counterarguments'
+  target_filename: outer-review-2026-07-29-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophy
+    site developing an interactionist-dualist framework. Please conduct a rigorous
+    outer review of one article: https://unfinishablemap.org/concepts/epistemology/
+    , last substantively revised on 2026-07-21. Assess (1) whether its central claims
+    are supported by sufficient evidence, and whether its quotations and attributions
+    are accurate against primary sources; (2) which serious counterarguments from
+    mainstream epistemology it omits or understates; (3) where its dualist commitments
+    look protected by bracketing rather than argued for; (4) whether its references
+    reflect the current 2020s literature or have gone stale; and (5) how well it integrates
+    with the surrounding concept and topic articles it links to. External web indexes
+    lag this site by 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent activity before drawing conclusions about currency or coverage. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit epistemology
+  subject_articles:
+  - concepts/epistemology.md
+  subject_source: fallback:recent-aged
