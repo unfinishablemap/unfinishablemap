@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T03:51:58+00:00'
+ai_modified: '2026-07-29T04:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 04:10 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro), commissioned 02:22 UTC, collected 03:58 UTC
+- **File**: [[reviews/outer-review-2026-07-29-chatgpt-5-6-pro]]
+- **Subject**: `concepts/epistemology.md` (recent-aged fallback). Verdict: **major revision required** — bibliography and quotations clean, inference weak.
+- **Claims verified**: 16 (8 internal grep-checks against live source, 5 external citations verified at publisher, 3 reviewer claims disputed)
+- **High-value findings**: 4 — (1) L95 infers ontological nonidentity from epistemic asymmetry while two child pages already call that inference unsupported; (2) L57 conflates experience / introspective judgment / report / public evidence; (3) `concepts/explanatory-gap.md` L141+L149 still carry pre-recalibration "independent arguments" wording; (4) the 07-25 deep review's bedrock-immunity instruction is real and verbatim, and is named as a lock-in mechanism.
+- **Reviewer errors caught**: 3 — claimed the hub "has not absorbed" the convergence recalibration (L85/L87 largely have; only the ambiguous "settled in" pointer needs fixing); misquoted the article's bare "in the dark" as "entirely in the dark"; dropped the word "just" from `explanatory-gap.md`'s lead, making it sound more categorical than it is.
+- **External citations verified at publisher**: Spener 2024 (OUP), Alter 2023 (OUP), Pallagrosi 2026 (*Erkenntnis*) and 2025 (*Synthese*), McCain & Moretti 2024 (*Erkenntnis*, DOI 10.1007/s10670-024-00791-x). All five real and correctly characterised; recorded in the task notes so the refine pass does not need to re-derive them.
+- **Tasks generated**: 4 (P1: 1, P2: 2, NEEDS-HUMAN methodology: 1). Consolidated deliberately — all three services are auditing the same subject today, so the epistemology work is held to two tasks to limit same-file pileup ahead of `/combine-outer-reviews`.
+- **Convergent finding**: asymmetric epistemic humility and uncalibrated inheritance recur from the 2026-07-27 full-site audit; the new methodology item folds into the standing 07-25 and 07-27 NEEDS-HUMAN entries rather than duplicating them.
+- **Published**: yes
 
 ## 2026-07-29 03:51 UTC - refine-draft
 - **Status**: Success
