@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T17:12:10.878397+00:00'
-session_count: 17748
-cycle_position: 12000
+last_updated: '2026-07-29T17:18:49.358455+00:00'
+session_count: 17749
+cycle_position: 12001
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T11:35:43.133298+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T16:26:45.683643+00:00'
+  refine-draft: '2026-07-29T17:18:49.358455+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T17:12:10.878397+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-07-29'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-29'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1067,15 +1067,16 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
-  p3_tasks: 18
-  needs_replenishment: true
-  loop_pickable_open: 2
-  last_replenishment: '2026-07-29T17:06:54+00:00'
-  last_replenishment_prev: '2026-07-29T16:12:00+00:00'
-  last_replenishment_run: 893
-  last_replenishment_mode: zero-mint-both-candidates-declined
+  p2_tasks: 3
+  p3_tasks: 16
+  needs_replenishment: false
+  loop_pickable_open: 3
+  last_replenishment: '2026-07-29T17:26:00+00:00'
+  last_replenishment_prev: '2026-07-29T17:06:54+00:00'
+  last_replenishment_run: 894
+  last_replenishment_mode: zero-mint-floor-restored-by-promotion
   replenishment_source_counts: {}
+  promoted_p3_to_p2: 2
   run_893_note: 'run no.893 (2026-07-29T17:06Z, cycle-driven /replenish-queue): MINTED
     ZERO
 
@@ -1297,41 +1298,40 @@ queue_status:
     REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
     Pruned run_889_note per the keep-~3 discipline, keeping 890/891/892 (evolution-state-floor-restore-note-bloat).
     YAML re-parsed with yaml.safe_load after writing and it loads cleanly.'
-  run_891_note: 'run no.891 (2026-07-29T15:39Z, cycle-driven /replenish-queue): MINTED
-    ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
-    POST-COUNT tools.evolution.task_selector.count_p0_p2_tasks(load_todo()) == 3 verified
-    LIVE on disk after the write, against MIN_QUEUE_TASKS == 3; parse_tasks confirms
-    the new block as TaskType.REFINE_DRAFT, priority 2, status PENDING, file_path
-    obsidian/topics/the-epiphenomenalist-threat.md (FULL path, not a bare slug), and
-    task_to_skill maps it to refine-draft with the 7592-char Notes body intact (task-to-skill-ignores-file-line-title-first-extraction
-    fix confirmed present). BOTTOM-INSERTED immediately above the Completed Tasks
-    header, below the 14:4xZ and 15:03Z floor-holders, so top-first FIFO drains the
-    two older P2 holders first (queue-lifo-starvation). TARGET: the dropped second
-    file of the tenet-check L136 two-file Notes-tier item. Commit 1ddd19140 (08:54:19Z
-    today, epiphenomenalism calibration residue second wave) fixed the paired locus
-    concepts/causal-closure.md but its --stat file list does NOT include topics/the-epiphenomenalist-threat.md.
-    Third multifile_task_dropped_file instance from this one review. DEFECT VERIFIED
-    LIVE THIS RUN, line number measured by grep -n and not copied from the review:
-    L59 reads "classifies the four argument types showing it is self-undermining",
-    a factive participle that tenets.md L100 names as exactly where the live disagreement
-    does NOT belong, since the strongest version of the position survives it. DRIVER
-    BRIEFING CORRECTIONS, all measured live: (a) apex/phenomenology-mechanism-bridge.md
-    L87 is ALREADY FIXED, it now sources persisting-substance to the agency cluster
-    rather than Tenet 1 and cites where-the-substance-commitment-enters, so the briefing
-    quote was truncated before the calibration clause; (b) topics/death-and-consciousness.md
-    L191 is ALREADY FIXED, it now says the tenet does not license the posit and only
-    refuses to let parsimony veto it; (c) concepts/causal-closure.md is at L187 not
-    L186 after the fix shifted lines, and is correctly calibrated, so the briefing
-    was right that the-epiphenomenalist-threat should be minted alone. STILL OPEN
-    AND NOT MINTED (exact floor restore permits one): voids/binding-void.md L130 offers
-    Descartes argument for substance dualism as direct support for Tenet 1 while its
-    own conclusion is a property claim. Verified live at L130 this run; leave for
-    the next floor dip. BLOCKED LANES accepted from the briefing without re-derivation:
-    research/expand (harvest minted zero twice today), coalesce (abandoned twice today),
-    staleness (top candidate 20d against a 30d bar, and P3 would not restore the floor
-    per p3-only-floor-preemption-starves). CONCURRENCY: no rival loop per the driver
-    pgrep; git status before the write showed only evolution-state.yaml modified,
-    the legitimate deferred cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree).
+  run_894_note: 'run no.894 (2026-07-29T17:26Z, cycle-driven /replenish-queue): MINTED
+    ZERO, FLOOR RESTORED BY PROMOTION (1 -> 3). No new task was invented. Run 893
+    correctly minted zero because all eight generative sources are genuinely empty,
+    but the floor counts P0-P2 ONLY, so a verified P3 backlog sat unreachable while
+    the floor starved. Promoted TWO already-verified P3 items to P2 after RE-VERIFYING
+    every load-bearing premise LIVE on disk, independently of the minting agents.
+    (1) topics/attention-and-the-consciousness-interface.md: grep for OCD returns
+    EXACTLY two hits, L3 description and L57 lead, and ZERO in the body; the Clinical
+    Evidence section at L104 carries ADHD, neglect, Balint and extinction subsections
+    and no OCD subsection. Promise-without-delivery confirmed. Earns P2 because the
+    defect is in the description field, the meta-description served to retrieval in
+    an LLM-first corpus. (2) topics/responsibility-gradient-from-attentional-capacity.md:
+    L79 carries the flat verb demonstrates verbatim; the reference list has exactly
+    one matching entry at L186, the Scarcity trade book, and grep for Mani returns
+    NOTHING, so the Science primary source is genuinely absent; L112 already models
+    the correct hedge verbatim, making the fix a house-style match rather than a novel
+    composition; and grep for reactive-attitudes over the file returns ZERO while
+    topics/reactive-attitudes-and-strawsonian-responsibility.md states at L81 that
+    the Map declines the dissolution. All four premises hold. AUTHORITATIVE POST-COUNT
+    tools.evolution.task_selector.count_p0_p2_tasks over the file on disk == 3 against
+    MIN_QUEUE_TASKS == 3. Both promoted blocks sit at the TOP of the Active region,
+    so top-first FIFO reaches them next (queue-lifo-starvation avoided). CORRECTED
+    A FALSE OVER-LENGTH in the attention mint: it claimed 4719w against a 3500 topics
+    hard ceiling; live analyze_length gives 4579w hard_warning against topics 3000/4000/6000,
+    the 3500 figure is the CONCEPTS ceiling, and 651 of those words are Further Reading
+    plus References apparatus, leaving argument-only 3929w which is UNDER the 4000
+    hard ceiling with 71 words of headroom. That is the fifth false over-length today
+    (analyze-length-counts-reference-apparatus). The correction is recorded in the
+    task PROMOTION NOTE so the executing fork does not act on the wrong premise; option
+    (i) remains right for NON-DUPLICATION reasons, not arithmetic. Lengths re-measured
+    with analyze_length, never wc -w. CONCURRENCY: no rival loop per the driver pgrep;
+    git status before the write showed todo.md and evolution-state.yaml modified with
+    the prior refine-draft cycle_post bookkeeping and its P3 spillover mint, seen BEFORE
+    my write and therefore legitimate, KEPT (orphaned-cyclepost-state-advance-in-worktree).
     REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
-    Pruned run_888_note per the keep-~3 discipline, keeping 889/890/891 (evolution-state-floor-restore-note-bloat).
+    Pruned run_891_note per the keep-~3 discipline, keeping 892/893/894 (evolution-state-floor-restore-note-bloat).
     YAML re-parsed with yaml.safe_load after writing and it loads cleanly.'
