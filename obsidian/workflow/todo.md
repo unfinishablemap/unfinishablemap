@@ -1729,6 +1729,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (check-tenets 2026-07-29 — Tenet 3 self-stultification family, dropped second file)
 - **Generated**: 2026-07-29
 
+### P2: noetic-feelings-void.md L150 — Map voice scare-quotes "minds don't move matter" as a prejudice, although Tenet 2 affirms exactly that on the force/energy reading
+- **Type**: refine-draft
+- **File**: obsidian/voids/noetic-feelings-void.md
+- **Status**: pending
+- **Notes**: FLOOR-RESTORING mint by cycle-driven /replenish-queue 2026-07-29 (exact restore 2 → 3, ONE mint, no padding). VERIFIED LIVE AT MINT TIME, not inherited from the review — L150 sits in the **Bidirectional Interaction** paragraph of "Relation to Site Perspective" and reads verbatim: `The "obvious" truth that minds don't move matter may be the stop-sign preventing investigation of the interface itself.` In Map voice the scare quotes frame *minds don't move matter* as a prejudice to push past, but `obsidian/tenets/tenets.md` **affirms** that claim on the force/energy reading: L84 "Rules out: Uncontrolled psychokinesis, energy injection by mind, and any interaction that would be empirically detectable under current experimental precision", and L64 confines the interface to "biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws". As written the sentence therefore invites the reader to distrust something the Map endorses. **The fix is disambiguation, not reversal.** The stop-sign genuinely worth naming is the stronger claim *mind cannot select among physically underdetermined outcomes* — that is the one Tenet 2 denies, and the one whose felt obviousness could actually be gating investigation of the interface. The paragraph's argument survives intact and is sharpened by naming the correct target, so preserve it; do not re-litigate Tenet 2 and do not weaken the noetic-feelings thesis. Expect a one-to-two-sentence rewrite. **Out of scope**: the ancestor phrasing at `obsidian/research/voids-obviousness-void-2026-03-23.md` L169 carries the same wording, but research notes are not Map voice and must not be edited by this task. LENGTH-NEUTRAL — the fix substitutes wording rather than adding argument; the article is comfortably inside the voids ceiling.
+- **Review file**: `reviews/tenet-check-2026-07-29` (L140, Notes tier — this review's error and warning tiers are closed; this is one of the remaining Notes-tier loci)
+- **Source**: chain (check-tenets 2026-07-29 — Tenet 2 scare-quote calibration, Notes tier)
+- **Generated**: 2026-07-29
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

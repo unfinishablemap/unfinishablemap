@@ -1,5 +1,9 @@
-last_updated: '2026-07-29T14:53:11.713594+00:00'
-session_count: 17732
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-29T14:58:29.544978+00:00'
+session_count: 17733
 cycle_position: 11995
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-29T14:22:47.401350+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-29T14:55:19.431701+00:00'
+  agentic-social: '2026-07-29T14:58:29.544978+00:00'
   embed-videos: '2026-07-29T09:34:10.197548+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
@@ -109,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-29'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-29'
@@ -187,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-29'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1072,12 +1076,56 @@ queue_status:
   p3_tasks: 18
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-29T14:47:00+00:00'
-  last_replenishment_prev: '2026-07-29T14:06:00+00:00'
-  last_replenishment_run: 889
+  last_replenishment: '2026-07-29T15:03:00+00:00'
+  last_replenishment_prev: '2026-07-29T14:47:00+00:00'
+  last_replenishment_run: 890
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
-    chain_tenet_check_2026_07_29_self_stultification_dropped_second_file: 1
+    chain_tenet_check_2026_07_29_noetic_feelings_void_tenet2_scare_quote: 1
+  run_890_note: 'run no.890 (2026-07-29T15:03Z, cycle-driven /replenish-queue): MINTED ONE P2
+    refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE PRE-COUNT
+    tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified LIVE on disk
+    immediately before the write, against MIN_QUEUE_TASKS == 3; post-write tool-verified ==
+    3, and parse_tasks confirms the new block as TaskType.REFINE_DRAFT, priority 2, status
+    PENDING, file_path obsidian/voids/noetic-feelings-void.md (FULL path, not a bare slug).
+    BOTTOM-INSERTED immediately above the Completed Tasks header, below the 14:06Z and
+    14:47Z floor-holders, so get_next_task still returns the OLDER value-in-selection
+    positions-evolve task and top-first FIFO is intact (queue-lifo-starvation). DEFECT
+    VERIFIED LIVE, NOT INHERITED: the cycle driver named voids/noetic-feelings-void.md L150
+    as the carried-forward primary candidate from run 889, and this run re-read the file
+    rather than trusting the handoff. L150 reads, verbatim, that the quote-marked obvious
+    truth that minds do not move matter may be the stop-sign preventing investigation of the
+    interface itself. That is Map voice, in the Bidirectional Interaction paragraph of
+    Relation to Site Perspective. tenets.md L84 rules out uncontrolled psychokinesis and
+    energy injection by mind, and L64 confines the interface to biasing otherwise
+    indeterminate outcomes without injecting energy or violating conservation laws, so Tenet
+    2 AFFIRMS the scare-quoted claim on the force/energy reading and the sentence as written
+    invites the reader to distrust something the Map endorses. The mint therefore asks for
+    disambiguation, not reversal: the stop-sign worth naming is the stronger claim that mind
+    cannot select among physically underdetermined outcomes. SCOPE FENCE written into the
+    task: the ancestor phrasing at research/voids-obviousness-void-2026-03-23.md L169
+    carries the same wording but is research-note voice, explicitly out of scope. LANE
+    CHECK, declined per the driver briefing rather than re-litigated: research-topic and
+    expand-topic (harvest minted zero twice today), voids (at cap 100/100, which blocks a
+    new void but not this refine on an existing one), coalesce (abandoned twice today, its
+    own twice-confirmed conclusion being that topics/concepts need a cap raise or archival),
+    staleness (top get_review_candidates row at 20 days, short of the 30-day bar, and a P3
+    would not restore the floor anyway). NEXT-RESTORE CANDIDATES, Notes tier of
+    reviews/tenet-check-2026-07-29, still unqueued as of this write:
+    apex/phenomenology-mechanism-bridge.md L87 (persisting-substance sourced to the tenets
+    though it does not follow from Tenet 1; propagates to citers), voids/binding-void.md
+    L130 (Descartes substance-dualism argument offered as direct support for a property
+    claim), topics/death-and-consciousness.md L191 (parsimony wielded against materialism
+    inside a Tenet 5 section, partly hedged),
+    topics/interaction-problem-across-traditions.md L131 (one-word fix, implicit to
+    agency-cluster), topics/the-epiphenomenalist-threat.md L59 with
+    concepts/causal-closure.md L186 (factive self-undermining without conditionality, same
+    Tenet 3 shape). Two loci in that review are RECORDED OUTCOMES, not open work:
+    topics/the-convergence-argument-for-dualism.md L177 is a verified false positive, and
+    concepts/philosophy-of-time.md L205 is operator-routed to a later staleness deep-review.
+    CONCURRENCY: pgrep -af evolve_loop.py matched only this shell, so no rival loop
+    (replenish-fork-hallucinates-concurrent-loop). Pruned run_887_note per the keep-~3
+    discipline (kept 888/889/890) (evolution-state-floor-restore-note-bloat).'
   run_889_note: 'run no.889 (2026-07-29T14:47Z, cycle-driven /replenish-queue): MINTED
     ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
@@ -1261,91 +1309,3 @@ queue_status:
     cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree). REVERT
     only if a sibling replenish double-restores this slot (concurrent-replenish-race).
     Pruned run_885_note per the keep-~3 discipline (kept 886/887/888) (evolution-state-floor-restore-note-bloat).'
-  run_887_note: 'run no.887 (2026-07-29T12:26Z, cycle-driven /replenish-queue): MINTED
-    ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
-    LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3, unmet by 1; post-write
-    tool-verified == 3. The new block parses as TaskType.REFINE_DRAFT with Type present
-    and file_path == obsidian/topics/neural-implementation-specifics.md (FULL path,
-    not a bare slug), and select_queue_task still returns the OLDER agent-causation
-    task, so top-first FIFO is intact (queue-lifo-starvation). BOTTOM-INSERTED immediately
-    above the Completed Tasks header, below the 03:17Z and 11:16Z floor-holders. WHY
-    THE FLOOR FELL: run 886 minted one and reported 3; the unity-of-consciousness
-    holder drained at commit 5c4270dda, netting 2. Documented replenish-at-floor alternation
-    (unfin_loop_steady_state), NOT deadlock. TARGET: reviews/tenet-check-2026-07-29.md
-    L129, the Tenet 2 warm-biology calibration WARNING - the item run 885 recorded
-    by name as the cleanest un-minted candidate for the next floor-restore, and the
-    last un-minted warning in that review now that runs 883-886 have closed all four
-    Error families. A warning-tier item earns P2 here because positions/quantum-interface.md
-    P-Q8 makes it a STANDING REGISTER MANDATE, not a discretionary note. BOTH LOCI
-    RE-MEASURED BY LIVE grep -n AND RE-READ VERBATIM THIS RUN, not copied from the
-    review or from run 885 prose (replenish-asserted-concrete-defect-often-false):
-    L198 ''Strongly supported: Biological systems can exploit quantum effects at neural-relevant
-    timescales'', sitting under the L194 heading ''What the Evidence Supports''; and
-    L32 ''Microtubule coherence has gained recent support from anesthetic studies
-    and room-temperature super-radiance demonstrations''. GROUNDS ALSO VERIFIED VERBATIM:
-    positions/quantum-interface.md P-Q8 at heading L124 and assertion L128, ''Citations
-    of warm-quantum-biology that read as support rather than precedent are calibration
-    drift and are corrected when caught''; and the sibling graded treatment in topics/quantum-biology-and-neural-consciousness.md
-    at L75 (suggestive correlation, not direct biological data), L77 (Wiest 2025 a
-    partisan Orch-OR brief), L79 (Khan 2024 admits a parsimonious classical reading)
-    and L81 (Craddock 2017 a computational prediction, not a spectroscopic measurement).
-    TWO ALREADY-CORRECT ITEMS RING-FENCED IN THE TASK NOTE so the executor does not
-    regress them, both checked live: the avian-magnetoreception anchor at L198 genuinely
-    IS experimental (the error is the inference to the neural case, not the anchor),
-    and L32''s ''computationally demonstrated'' Denton-2024 framing is the already-corrected
-    form closed out-of-band 2026-07-14 (real cite, Nat Commun 15 10823, computational
-    spin-dynamics simulation) - do NOT re-open (denton-2024 propagation). LENGTH measured
-    with tools.curate.length.analyze_length, NOT wc (count-words-includes-frontmatter,
-    analyze-length-counts-reference-apparatus): 2429 words, status ok, against 3000
-    soft / 4000 hard for topics - 1571 words of HEADROOM. This is the rare calibration
-    task with room to ADD qualifying clauses, so the task is scoped additive and explicitly
-    forbidden to open a condense. EIGHT-SOURCE AUDIT re-derived live this run, not
-    trusted from prior notes (replenish-false-exhaustion-mislabeled-drift): (1 chain)
-    SOURCE USED - the check-tenets review still had this one warning un-minted. (2
-    unconsumed research) BLOCKED, confirmed by the 07:36Z harvest which read all five
-    unscanned reviews and correctly minted zero; live caps are topics 318/320 and
-    concepts 317/320, so 2 and 3 free slots corpus-wide cannot absorb a new-article
-    chain. (3 gap analysis) exhausted, cap pressure binding; voids 100/100 at cap.
-    (4 staleness) DECLINED - get_review_candidates returns 37 rows led by topics/amplification-mechanisms-consciousness-physics.md
-    at 14.19, but the 24-slot cycle already spends 4 slots on deep-review and one
-    ran at 10:10Z, so a staleness mint would double-dip a converged lane (deep_review_over_reviews_converged);
-    it would also be P3 and therefore would NOT restore the floor (p3-only-floor-preemption-starves).
-    (5 orphans) quality.orphaned_files == 0; an independent live link-scan surfaced
-    92 rows but ALL are archive/, authors/ or search.md, none a live content orphan.
-    (6 length) AUDITED and YIELDED NOTHING MINTABLE. Decomposing apparatus from argument
-    (the analyze-length-counts-reference-apparatus hazard) shows ZERO live content
-    articles over CRITICAL on authored prose: topics/epistemology-of-convergence-arguments.md
-    reads 6602 total but 5963 argument words against a 6000 critical, and apex/phenomenal-output-causal-machinery-dissociation.md
-    reads 6904 total but 5649 argument words against a 6500 critical, so BOTH critical
-    flags were apparatus inflation. The single worst genuine offender, epistemology-of-convergence-arguments
-    at 1963 over hard, is EXPLICITLY VETOED - the Vetoed section carries five separate
-    condense entries for it, diagnosed as churn-prone because it re-expands after
-    every opponent-engagement refine, with the recommended structural remedy also
-    vetoed - and the skill forbids re-proposing vetoed tasks. apex/apex-articles.md
-    at 10509 is an index hub. The remainder sit in the standing HUMAN LENGTH DECISION
-    gray zone already represented by four blocked queue entries. (7 positions) register
-    is 10 domain entries; positions-evolve ran 2026-07-29T02:18Z and 2026-07-28T21:01Z,
-    far inside 30d, so no audit is due (replenish-positions-audit-false-overdue);
-    7a surfaced no new unregistered commitment and the P-D3 Argued-in gap is already
-    open as a P3. (8 applied apex) not triggered. NOT SAME-AXIS CHURN: ai_modified
-    is 2026-07-29T03:51:58+00:00, which IS today, so the churn filter was checked
-    rather than assumed - git show 9d460032c for this file was read live and its only
-    body change is the Tegmark orders-of-magnitude arithmetic at L62 (seven -> nine),
-    part of a 22-file corpus sweep, touching neither L198 nor L32 (replenish-churn-filter-overtight).
-    DEDUP: a line-anchored parse of the Active region finds ZERO open headers targeting
-    this file; the one Active hit is a check-marked DONE-OUT-OF-BAND 2026-07-14 entry
-    on the Denton-2024 citation-framing axis, and the one Vetoed hit is a check-marked
-    2026-05-22 deep-review. CONCURRENCY: pgrep -af evolve_loop.py returned only this
-    shell self-matching, so no rival loop (replenish-fork-hallucinates-concurrent-loop);
-    git status immediately before the write showed only evolution-state.yaml modified,
-    legitimate deferred cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree).
-    REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
-    STILL UNQUEUED after this run, recorded so a later pass does not re-derive it:
-    the Tenet 2 warning at topics/duhem-quine-underdetermination-consciousness.md
-    L114 (mitigated - the next paragraph runs a genuine self-binding audit, which
-    is why the review declined to call it an error), and the review''s Notes section
-    observations (binding-void L130, noetic-feelings-void L150, death-and-consciousness
-    L191, the-convergence-argument-for-dualism L177, interaction-problem-across-traditions
-    L131 one-word fix, phenomenology-mechanism-bridge L87). Pruned run_884_note per
-    the keep-~3 discipline (kept 885/886/887) (evolution-state-floor-restore-note-bloat).'
