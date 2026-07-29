@@ -3,7 +3,7 @@ title: "Research: Illusionism as a Theory of Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T12:00:00+00:00
+ai_modified: 2026-07-29T23:24:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,9 @@ Graziano proposes that consciousness is a distorted representation of attention.
 
 The most obvious objection: How can I be wrong about the existence of something for which I have inescapable evidence? Raymond Tallis articulates this forcefully: "a phenomenal experience does not have to be veridical to exist." The belief that I'm seeing a pink elephant may be erroneous, but not that I'm having *some* experience. A phenomenal experience need not be veridical to exist.
 
-As Galen Strawson put it, calling illusionism "the silliest claim ever made" in philosophy.
+Galen Strawson calls denying consciousness exists "the silliest claim ever made" in philosophy, naming Dennett among the deniers ("The Consciousness Deniers," *New York Review of Books*, 13 March 2018).
+
+*Scope caveat*: that essay never uses the word "illusionism". Frankish is named only in Strawson's 3 April 2018 rejoinder to Dennett, in a list of philosophers backing "eliminativism" about consciousness—so the "silliest claim" verdict does not target Frankish's illusionism directly.
 
 ### The Infinite Regress Problem
 

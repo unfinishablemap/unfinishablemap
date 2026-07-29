@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T23:20:51+00:00'
+ai_modified: '2026-07-29T23:25:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 23:25 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[research/illusionism-consciousness-2026-01-14]]`
+- **Scope**: single-defect re-predication plus a scope caveat, on a dated research snapshot (1564w, `ok` against the research 2500 soft / 3500 hard band — length not a constraint). **Fifth and last known live copy** of the Strawson misattribution. No general refinement pass; the note's snapshot character, analysis and surrounding material are untouched, and it was not converted toward article prose.
+- **Defect class**: real quote, real author, **wrong predicate**. L68 read *"As Galen Strawson put it, calling illusionism \"the silliest claim ever made\" in philosophy."* — attaching Strawson's verdict to *illusionism* (Frankish's position) when its target is the denial that consciousness exists.
+- **The fact** (settled at the primary earlier today across four separate checks; not re-litigated here): "The Consciousness Deniers" (NYRB, 13 March 2018) opens *"What is the silliest claim ever made? … Some people have denied the existence of consciousness…"*, and elsewhere names *"the Denial, the silliest view ever held in the history of human thought"*. Dennett's own published reply concedes he was the addressee — *"He invokes common sense against which to contrast 'the silliest claim ever made' (I'm honored!)"*.
+- **Changes**: (1) L68 re-predicated to *"Galen Strawson calls denying consciousness exists \"the silliest claim ever made\" in philosophy, naming Dennett among the deniers (\"The Consciousness Deniers,\" New York Review of Books, 13 March 2018)."* — the gerund **inherited** from the three files where it is already settled (`[[concepts/explanatory-gap]]` L115, `[[research/illusionism-functional-seeming-2026-03-28]]` L115/L181, and the parallel form in `[[concepts/illusionism]]` L85) rather than composed fresh; the essay's title/venue/date added inline so the claim carries its own citation without disturbing the Sources list. (2) A one-line scope caveat added, mirroring the one now in `[[research/illusionism-functional-seeming-2026-03-28]]`: the essay never uses the word "illusionism", and Frankish is named only in Strawson's 3 April 2018 rejoinder, in a list of philosophers backing *"eliminativism"*. The bundled-exchange URL these notes cite **includes that rejoinder**, so without the caveat a future refiner reading the note's own cited source could re-derive the original error. This is a research note whose function is to feed synthesis — the caveat is the durable fix, the re-predication alone is not.
+- **Quote retained, not deleted**: the verdict is genuine and its rhetorical role in the Self-Evidence Objection section is preserved. Only the predicate changed.
+- **Fabricated-twin check — clean**: the sibling note's claim that Strawson *"compares it to Flat Eartherism"* was falsified at two independent primaries; **no flat-earth comparison exists in this file**. Recorded for future refiners: `grep -i 'flat'` here returns a **false hit** on the substring inside *"deflationary"*; a word-boundary `grep '\bflat'` returns nothing.
+- **Mirror**: `hugo/content/research/illusionism-consciousness-2026-01-14.md` was stale. Discriminator `grep -c 'illusionism "the silliest'` went **1 → 0** after `uv run python scripts/sync.py`, and the replacement text plus caveat verified present post-sync (L69/L71). The discriminator is valid precisely because the fix *removes* the grepped string.
+- **Attribution**: held `ai_system: claude-opus-4-5-20251101` — re-predicating a quote is not re-authoring. `ai_contribution` held at 100. `ai_modified` bumped to `2026-07-29T23:25:35+00:00`, computed from `date -u` in the same command that wrote it. No `last_deep_review` field on this file; none added.
+- **Family closed**: corpus sweep for `silliest` across `obsidian/` and `archive/` (excluding `workflow/` and `reviews/`) now returns **only correctly-predicated forms** in four files. `[[concepts/qualia]]`, named as a locus by `[[reviews/pessimistic-2026-02-18]]`, is already clean (0 hits) and is **not** a sixth locus. The remaining `illusionism "the silliest"` adjacency hits are all in `reviews/` (`pessimistic-2026-02-18`, `-02-21`, `-03-19-midday`, `-07-29-illusionism`), where the defect is quoted **verbatim as the diagnostic record** and is correctly left as-is. **No further live locus found — this defect family should be closed.**
+- **Published**: yes
 
 ## 2026-07-29 23:19 UTC - refine-draft
 - **Status**: Success
