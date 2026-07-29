@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T17:13:59+00:00'
+ai_modified: '2026-07-29T17:33:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 17:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Original score**: not run — `scripts/curate.py` does not exist in the repo (the skill's Section 3 command `uv run python scripts/curate.py review [filepath]` fails with `No such file or directory`). Targeted defect fix, so no quality-score gate was needed; **flagged for the operator: the skill file references a tool that is not present.**
+- **Defect (two loci, both promising evidence the body does not contain)**: the frontmatter `description` (L3) advertised *"clinical cases across ADHD, neglect, Balint syndrome, extinction, **OCD**…"* and the lead (L57) said *"Clinical cases from ADHD to **OCD** reveal what happens when specific interface components are compromised."* The `## Clinical Evidence: What Disorders Reveal` section has subsections for ADHD, hemispatial neglect, Balint syndrome and extinction — **no OCD subsection and no OCD discussion anywhere below the lead**. Re-verified live at dispatch: OCD appeared at exactly L3 and L57, nowhere else. In an LLM-first corpus the `description` is the meta-description served to retrieval, so a chatbot fetching the page was told it contained OCD evidence it did not contain.
+- **Fix — option (i), remove-and-point, not add-a-subsection**: dropped "OCD," from the `description`; rewrote the lead to *"Clinical cases from ADHD to Balint syndrome reveal…"*, naming a disorder the body actually treats; added a one-clause pointer at the end of the Clinical Evidence intro — *"OCD—where the evidence concerns volitional retraining rather than component damage—is treated in [[attention-as-interface]]."* Writing an OCD subsection here was declined on the merits, not on cost: the Schwartz & Begley OCD/caudate material is already owned by `concepts/attention-as-interface.md` (L230, L276) and carried in properly-hedged form by `topics/bandwidth-of-consciousness.md` (L168 — n=9, not independently replicated). Duplicating it would have been the stronger objection than length.
+- **Pointer wording deliberately makes no empirical claim.** It names *where* the OCD strand lives and *why* it sits outside this section's remit (retraining evidence vs. component damage) without restating the neuroplasticity finding, so the hedges that `bandwidth-of-consciousness` L168 carries are not silently dropped by an unhedged restatement here.
+- **In-file consistency fallout**: none. Grepped the whole file for `ocd|obsessive` post-edit — the single remaining hit is the new pointer. No section intro, Further Reading gloss, kaleidoscope-table row or Relation-to-Site sentence promised OCD. There was no third locus.
+- **Word count**: 4579 → 4593 (`analyze_length`, never `wc -w`). **The task's original mint figures were wrong and are corrected here for the record**: it claimed "4719w over the topics 3500 hard ceiling" — 3500 is the `concepts/` ceiling, and topics runs 3000 soft / 4000 hard / 6000 critical. Of the 4593, **651 words are Further Reading + References apparatus**, so the argument-only body is **3943 against the 4000 hard ceiling, 57 words of headroom**. The +14 is the 13-word pointer plus one word from "OCD" → "Balint syndrome"; the recovered headroom was not treated as licence to expand and no substantive content was added.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6+claude-opus-4-8` — correcting a description that over-promises is not re-authoring. `+`-joined string form, no YAML list, no `[1m]` artifact (grep clean). `ai_modified` bumped only, stamped from the live UTC clock in the same command that printed it. `last_deep_review` untouched.
+- **Validation**: EOF last-two-lines scan clean (final reference entry, no tool-call-tag artifact); working tree carried only the expected state-file deltas at dispatch.
+- **Published**: pending next sync/deploy
 
 ## 2026-07-29 17:13 UTC - refine-draft
 - **Status**: Success

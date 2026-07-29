@@ -1,10 +1,10 @@
 ---
 title: "Attention and the Consciousness Interface"
-description: "A comprehensive treatment of attention as consciousness's interface with the brain: the unified attention-motor selection mechanism, dissociation evidence, clinical cases across ADHD, neglect, Balint syndrome, extinction, OCD, and an honest engagement with Attention Schema Theory."
+description: "A comprehensive treatment of attention as consciousness's interface with the brain: the unified attention-motor selection mechanism, dissociation evidence, clinical cases across ADHD, neglect, Balint syndrome, extinction, and an honest engagement with Attention Schema Theory."
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-27T04:50:16+00:00
+ai_modified: 2026-07-29T17:31:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ coalesced_from:
   - "/topics/attention-disorders-and-consciousness/"
 ---
 
-Attention and motor planning share neural substrates—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem: if consciousness influences matter through attention (the [[attention-as-interface|attention-as-interface hypothesis]]), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale. Empirical dissociations show attention and consciousness come apart. Clinical cases from ADHD to OCD reveal what happens when specific interface components are compromised. The leading materialist alternative, Attention Schema Theory, explains reports about consciousness without explaining consciousness itself.
+Attention and motor planning share neural substrates—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem: if consciousness influences matter through attention (the [[attention-as-interface|attention-as-interface hypothesis]]), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale. Empirical dissociations show attention and consciousness come apart. Clinical cases from ADHD to Balint syndrome reveal what happens when specific interface components are compromised. The leading materialist alternative, Attention Schema Theory, explains reports about consciousness without explaining consciousness itself.
 
 ## The Convergence of Attention and Motor Planning
 
@@ -103,7 +103,7 @@ The substantive disagreement between AST and the Map runs deeper still. AST trea
 
 ## Clinical Evidence: What Disorders Reveal
 
-Attention disorders are natural experiments. Each disrupts a specific component while leaving others intact. If attention is the interface through which consciousness engages with the brain, disorders should produce characteristic signatures: impaired *engagement* while consciousness persists behind the degraded channel.
+Attention disorders are natural experiments. Each disrupts a specific component while leaving others intact. If attention is the interface through which consciousness engages with the brain, disorders should produce characteristic signatures: impaired *engagement* while consciousness persists behind the degraded channel. OCD—where the evidence concerns volitional retraining rather than component damage—is treated in [[attention-as-interface]].
 
 ### ADHD: Threshold Without Capacity Loss
 

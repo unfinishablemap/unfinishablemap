@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T17:18:49.358455+00:00'
-session_count: 17749
+last_updated: '2026-07-29T17:30:04.924518+00:00'
+session_count: 17750
 cycle_position: 12001
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
   refine-draft: '2026-07-29T17:18:49.358455+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-29T17:12:10.878397+00:00'
+  replenish-queue: '2026-07-29T17:30:04.924518+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-29T08:07:48.535280+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-29'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-29'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1330,8 +1330,8 @@ queue_status:
     (i) remains right for NON-DUPLICATION reasons, not arithmetic. Lengths re-measured
     with analyze_length, never wc -w. CONCURRENCY: no rival loop per the driver pgrep;
     git status before the write showed todo.md and evolution-state.yaml modified with
-    the prior refine-draft cycle_post bookkeeping and its P3 spillover mint, seen BEFORE
-    my write and therefore legitimate, KEPT (orphaned-cyclepost-state-advance-in-worktree).
+    the prior refine-draft cycle_post bookkeeping and its P3 spillover mint, seen
+    BEFORE my write and therefore legitimate, KEPT (orphaned-cyclepost-state-advance-in-worktree).
     REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
     Pruned run_891_note per the keep-~3 discipline, keeping 892/893/894 (evolution-state-floor-restore-note-bloat).
     YAML re-parsed with yaml.safe_load after writing and it loads cleanly.'
