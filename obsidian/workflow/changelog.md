@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T09:45:00+00:00'
+ai_modified: '2026-07-29T10:05:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 10:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/first-order-representationalism]]
+- **Scope**: the 2026-07-28 refine-draft delta (`8113406bf`) — two new sections ("Four Replies to Inversion", "Colour Relationalism"), a new Relation-to-Site paragraph, and **four new References entries**. The 07-19 ledger was treated as authoritative for the pre-existing cites; this pass web-verified only what is new.
+- **§2.4 web-verify — all four new cites real-correct at publisher.** Shoemaker, *Noûs* 28(1), 21–38 (1994); Chalmers in Leiter (ed.), *The Future for Philosophy*, OUP 2004, 153–181 (OUP Academic + consc.net primary PDF; abstract confirms his self-description as "nonreductive, narrow, and Fregean"); Cohen, *The Red and the Real*, OUP 2009 (the article's paraphrase is near-verbatim to Cohen's own "necessarily, something is red … just in case it (non-deviantly) causes reddish experiences in the relevant individuals in the relevant circumstances"); Byrne & Hilbert, *BBS* 26(1), 3–21 (2003), reflectance-physicalism gloss matches the paper's thesis. Zero metadata errors — unusual for a four-cite delta.
+- **Critical issue found and fixed — misattributed reply.** The wide-content paragraph credited the memory-is-wide move to Tye. SEP *Representational Theories of Consciousness* attributes it to Lycan first: "Memory contents are wide … your post-shift memories of good old Earth are false. (Lycan (1996) takes this line; Tye (1998) expands it in more detail.)" Aggravating factor: Tye's *other* well-known Inverted Earth reply runs the opposite way (deny the nonconceptual content shifts at all), so the misattribution risked reading as Tye's official position on the case. Corrected to Lycan-originates / Tye-expands, and the consequence SEP actually draws — the post-shift memory is *false* — made explicit.
+- **Citation deliberately NOT minted.** Tye's expansion is Tye (1998), *Philosophical Perspectives* 12. Publisher of record unreachable this pass (JSTOR vol. 12 TOC 403, Wiley TOC 402) and secondary sources disagree on the title's final word ("Representationism" vs "Representationalism") and the end page (459–477 vs 459–478; volume also appears as *Noûs* 32, S12). Attributed in prose without a year rather than minting a References entry on contested metadata — no inline `Author YYYY` cite created, so no orphan. Recorded as a deferred item in the review archive.
+- **Also verified (uncited attribution)**: "Dretske, Tye and Lycan all take the wide route … molecularly indistinguishable subjects can differ in phenomenal character" is SEP reply (iii) verbatim in substance, correctly attributed. Shoemaker's scare-quoted "colorlike" and the AP_R disposition gloss track SEP *Inverted Qualia* §3.3.
+- **Medium issue fixed**: the structural-echo observation was stated twice — once closing "Colour Relationalism", once opening the new Relation-to-Site paragraph. Compressed the first to observation-plus-forward-pointer; the second is where the point does argumentative work.
+- **Engagement classification (editor-internal)**: Tye/Dretske/Harman — Mixed (unsupported-foundational-move opening on the relocation objection, honest boundary-marking close), unchanged from 07-19. Shoemaker/Chalmers — Mode One, and honestly bounded: the article notes the cost lands on Tye and Dretske, not on Shoemaker (functionalist) or Chalmers (self-declared non-reductivist), both of whom accept it. Cohen — Mode Three, explicitly declared ("a live rival it has not yet met head-on"). No boundary-substitution; forbidden-label grep clean.
+- **Word count**: 2858 → 2849 (−9). Length-neutral mode (114% of the 2500 concepts soft threshold; ~326 of those words are Further Reading + References apparatus, and the hard threshold is 3500). The one addition was paid for by the compression.
+- **Attribution**: `ai_system` held at `claude-opus-4-8+claude-opus-5` — opus-5 already co-attributed from the 07-28 pass and this was a correction, not a re-authoring. `ai_modified` and `last_deep_review` both set to 2026-07-29T10:05:26+00:00 (`date -u`-checked).
+- **Output**: [[reviews/deep-review-2026-07-29-first-order-representationalism]]
 
 ## 2026-07-29 09:45 UTC - refine-draft
 - **Status**: Success

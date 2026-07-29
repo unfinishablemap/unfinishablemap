@@ -4,8 +4,8 @@ description: "The Tye/Dretske thesis that phenomenal character just is first-ord
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-28T10:20:39+00:00
-last_deep_review: 2026-07-19T09:27:44+00:00
+ai_modified: 2026-07-29T10:05:26+00:00
+last_deep_review: 2026-07-29T10:05:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ The dispute is unresolved and remains a defining fault line. One point matters f
 
 Representationalists have four main lines of reply, and they differ sharply in what they cost.
 
-**Go wide on content.** Wide (externalist) content is individuated by what a state was recruited to track in the environment; narrow content by internal functional role alone. Dretske, Tye and Lycan all take the wide route, accepting that sensory qualities are wide — that molecularly indistinguishable subjects in different environments can differ in phenomenal character. Applied to Inverted Earth, this denies Block's key premise outright: the traveller's phenomenal character *does* shift as their content shifts. Tye adds that memory cannot be trusted to detect the shift, because memory contents are wide too and undergo the same reinterpretation; the traveller's memory of the sky as blue becomes, post-shift, a memory of it as yellow. The cost is phenomenological. The subject notices nothing, and it is hard to say what a slow drift from blue-quality to yellow-quality would even be like — a transition presumably passing through green that nobody ever experiences.
+**Go wide on content.** Wide (externalist) content is individuated by what a state was recruited to track in the environment; narrow content by internal functional role alone. Dretske, Tye and Lycan all take the wide route, accepting that sensory qualities are wide — that molecularly indistinguishable subjects in different environments can differ in phenomenal character. Applied to Inverted Earth, this denies Block's key premise outright: the traveller's phenomenal character *does* shift as their content shifts. Lycan adds that memory cannot be trusted to detect the shift, because memory contents are wide too and undergo the same reinterpretation; the traveller's memory of the Earth sky as blue becomes, post-shift, a memory of it as yellow, and so a false one — a line Tye later expands in more detail. The cost is phenomenological. The subject notices nothing, and it is hard to say what a slow drift from blue-quality to yellow-quality would even be like — a transition presumably passing through green that nobody ever experiences.
 
 **Narrow the content instead.** Retreating to narrow content protects the link between phenomenal character and content, but surrenders what made the theory attractive. Narrow content is not the naturalizable tracking relation Dretske's teleosemantics supplies; it is closer to the thing whose naturalization was in doubt to begin with. Block's case is best read as a dilemma of exactly this shape: go wide and phenomenal character comes apart from content, go narrow and content stops being the reduction base the programme needs.
 
@@ -99,7 +99,7 @@ Jonathan Cohen's relationalism (*The Red and the Real*, 2009) holds that colours
 
 Colour relationalism is the colour-ontology cousin of the perceptual relationalism treated at [[naturalist-relationalism]], and it matters to the Map for the same reason: it reaches much of what the Map wants from perception — world-directed, non-illusory colour experience with no inner medium — without any non-physical ingredient. The Map's reply is the one it makes to representationalism generally rather than a new one. Relationalism says what colour *is*, namely a relation among object, perceiver and conditions, without saying why occupying one end of such a relation is like anything at all.
 
-The structural echo across these replies is worth marking. Wide content aside, Shoemaker's appearance properties, Chalmers's Fregean modes of presentation, and Cohen's relational colours all secure the phenomenal-character/content link by writing the perceiver's response into the represented property. Each rescues the covariation the theory needs, and each does so by making the content depend on the very feel that was supposed to be reduced to it. That is the manoeuvre the next section names.
+The structural echo across these replies is worth marking. Wide content aside, Shoemaker's appearance properties, Chalmers's Fregean modes of presentation, and Cohen's relational colours all secure the phenomenal-character/content link the same way — by writing the perceiver's response into the represented property. That is the manoeuvre the next section names.
 
 ## Relation to Site Perspective
 
