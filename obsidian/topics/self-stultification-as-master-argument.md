@@ -1,10 +1,10 @@
 ---
 title: "Self-Stultification as Master Argument"
-description: "Self-stultification defeats not just epiphenomenalism but every position that severs consciousness from its own rational grounds. A unified argument across multiple targets."
+description: "Self-stultification presses hard not just on epiphenomenalism but on every position that severs consciousness from its own rational grounds—a threat, not a refutation."
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-07-27T19:46:15+00:00
+ai_modified: 2026-07-29T15:54:16+00:00
 last_deep_review: 2026-07-12T11:16:40+00:00
 draft: false
 topics:
@@ -176,8 +176,8 @@ The [[anti-correlated-metacognitive-signal]] concept supplies a structural paral
 
 - [[self-stultification]] — The formal structure of self-stultifying arguments
 - [[argument-from-reason]] — The extended case against physicalism via self-defeat
-- [[concepts/epiphenomenalism]] — The position most directly defeated, including the AI exception
-- [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
+- [[concepts/epiphenomenalism]] — The position the argument presses hardest, including the AI exception
+- [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification threatens
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
 - [[rational-normativity]] — The prescriptive dimension of reasoning that self-stultification arguments presuppose and defend
 - [[consciousness-and-the-normativity-of-reason]] — Why the normative dimension of reasoning resists physical description
