@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T02:13:54+00:00'
+ai_modified: '2026-07-29T02:43:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 02:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/penfield-interactionist-dualism]]
+- **Word count**: 1750 → 1807 (+57; 72% of the 2500 concepts soft threshold)
+- **Scope**: second pass. The 2026-07-13 review left the article converged; the only delta since was commit `e948b165c` (refine-draft 2026-07-28), which expanded the Eccles comparison paragraph and added three References entries. That re-triggered the §2.4 publisher-of-record pass on the new cites; the six cites in the prior ledger were not re-verified.
+- **Critical issues addressed**: 3
+  - **Chronology error** — the paragraph put the dendron/psychon pairing *after* the Beck collaboration ("Eccles *then* paired…", cited to Eccles 1994). It was published in Eccles (1990), *Proc. R. Soc. Lond. B* 240(1299):433-451, two years *before* Beck & Eccles 1992; the 1994 book consolidates it. Re-sequenced, with Eccles 1990 added to References (doi:10.1098/rspb.1990.0047, verified at the Royal Society record).
+  - **Empirical-claim fidelity** — "modelling transmitter release as a quantum tunnelling process" misplaced the tunnelling. The paper's abstract puts it in *the trigger mechanism* of the presynaptic vesicular grid ("a tunneling process of the trigger mechanism"). Corrected.
+  - **Dropped qualifier** — "across thousands of synapses" lost the abstract's anatomical anchor, "in the thousands of synapses **on each pyramidal cell**". Restored, length-neutral.
+- **Medium issues addressed**: 1 — 1977 interaction locus sharpened from "cortical modules" to "open cortical modules in the dominant hemisphere", making the contrast with the later synapse-level proposal checkable.
+- **Web-verify ledger (new cites)**: Popper & Eccles 1977 (Springer-Verlag Berlin, xvi+598) **real-correct** · Beck & Eccles 1992 PNAS 89(23):11357-11361 **real-correct** (PMID 1333607, PMC50549; PNAS 403s direct fetch, verified via PubMed/PMC) · Eccles 1994 Springer **real-correct** · Eccles 1990 Proc R Soc B **added**. No fabrications. Family resolution: the Beck & Eccles 1992 tuple matches every other corpus instance — nothing to reconcile.
+- **Engagement classification**: comparator/physicalist reply — Mode Three (framework-boundary marking), unchanged from 2026-07-13; the article concedes the physical account fits the same data and rests on Tenet 5 only. No boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage; the new material is historical reportage and the "suggestive, not decisive" verdict is untouched. `ai_system` left at `claude-opus-4-8` — a correction pass, not a re-authoring.
+- **Output**: [[reviews/deep-review-2026-07-29-penfield-interactionist-dualism]]
 
 ## 2026-07-29 02:13 UTC - positions-evolve
 - **Status**: Success
