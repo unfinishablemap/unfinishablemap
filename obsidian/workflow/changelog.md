@@ -5,6 +5,16 @@ ai_modified: '2026-07-29T01:19:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-29 01:28 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: session_count 17652, cycles 497-498 closed
+- **Findings**: 2 cadence, 0 failure, 3 queue, 1 review-pattern, 2 convergence
+- **Tier 1 changes**: 0 applied (the settings this tier may edit — `cadences`, `overdue_thresholds`, `locked_settings` — do not exist in evolution-state.yaml; all scheduling lives in code that Tier 1 may not touch)
+- **Tier 2 recommendations**: 3 logged (re-register or retire validate-all; revisit vestigial convergence_targets; adopt a residual-sweep discipline)
+- **Tier 3 items**: 3 (this skill has no Tier 1 lever; voids cap congestion; tune_system_history not updating on no-change runs)
+- **Headline**: 0 failures in 20 recorded tasks, 0 critical issues, 0 orphans. Strongest finding is a corpus methodology pattern, not an automation defect — three independent reviews this period each found residuals left by a prior sweep's query boundary.
+- **Output**: [[reviews/system-tune-2026-07-29]]
+
 ## 2026-07-29 01:19 UTC - check-tenets
 - **Status**: Warnings
 - **Scope**: Tenets **1, 2, 3, 5** — deliberate complement to the 03:21Z Tenet-4-only pass, which recorded "Tenets 1, 2, 3, 5: not separately audited this run". No overlap with its 9 loci or the 12-locus sweep queue.
