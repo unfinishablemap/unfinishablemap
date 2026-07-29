@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-07-15 22:29:17+00:00
+ai_modified: 2026-07-29 16:03:55+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -151,7 +151,7 @@ The void connects to the Map's [foundational commitments](/tenets/) in ways that
 
 **[Dualism](/tenets/#dualism)** receives support on two lines. First, noetic feelings have genuine phenomenal character—an irreducible felt quality not identical with the accessibility score or fluency trace that triggered them. Functional reduction misses the feel. Second, the assumption that consciousness is physical feels self-evident to many contemporary thinkers, but this may be fluency masquerading as evidence: materialism is the default framework, exposure generates fluency, fluency generates the feeling of truth. That dualism feels counterintuitive may be evidence the stop-sign is firing before investigation reaches the arguments.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The "obvious" truth that minds don't move matter may be the stop-sign preventing investigation of the interface itself.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The Map holds that minds don't move matter *by force*. The stop-sign may be the felt obviousness of the stronger claim that mind cannot *select* among physically underdetermined outcomes—foreclosing investigation of the interface.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** permits a speculative extension: if consciousness's physical influence is low-bandwidth, noetic feelings—terse, verdict-like, affectively minimal—are natural candidate signatures. The core argument does not depend on this.
 

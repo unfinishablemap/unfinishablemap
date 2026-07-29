@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-27 19:46:15+00:00
+ai_modified: 2026-07-29 15:54:16+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,9 +18,9 @@ concepts:
 - '[[cognitive-phenomenology]]'
 created: 2026-02-23
 date: &id001 2026-03-05
-description: Self-stultification defeats not just epiphenomenalism but every position
-  that severs consciousness from its own rational grounds. A unified argument across
-  multiple targets.
+description: Self-stultification presses hard not just on epiphenomenalism but on
+  every position that severs consciousness from its own rational grounds—a threat,
+  not a refutation.
 draft: false
 human_modified: null
 last_curated: null
@@ -179,8 +179,8 @@ The [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacogniti
 
 - [self-stultification](/concepts/self-stultification/) — The formal structure of self-stultifying arguments
 - [argument-from-reason](/topics/argument-from-reason/) — The extended case against physicalism via self-defeat
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The position most directly defeated, including the AI exception
-- [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The position the argument presses hardest, including the AI exception
+- [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification threatens
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical necessity requires conscious recognition
 - [rational-normativity](/concepts/rational-normativity/) — The prescriptive dimension of reasoning that self-stultification arguments presuppose and defend
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the normative dimension of reasoning resists physical description

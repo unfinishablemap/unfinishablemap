@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T15:20:00+00:00'
+ai_modified: '2026-07-29T16:03:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-29 16:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Original score**: n/a — single-locus calibration fix under an explicit scope fence (disambiguation, not reversal); `curate.py review` deliberately not run, since a general quality pass would risk adding words to an article with 19 of headroom.
+- **Defect closed**: `reviews/tenet-check-2026-07-29.md` L140, Notes tier. L150 of the Bidirectional Interaction paragraph read *The "obvious" truth that minds don't move matter may be the stop-sign preventing investigation of the interface itself.* In Map voice the scare quotes framed *minds don't move matter* as a prejudice to push past, but `tenets.md` L64 confines the interface to "biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws" and L84 rules out "uncontrolled psychokinesis, energy injection by mind". The sentence invited the reader to distrust a claim the Map endorses.
+- **Changes**: rewrote the two clauses to name the correct stop-sign. Now: *The Map holds that minds don't move matter by force. The stop-sign may be the felt obviousness of the stronger claim that mind cannot select among physically underdetermined outcomes—foreclosing investigation of the interface.* The disambiguated target is the claim Tenet 2 actually denies (outcome-selection under physical underdetermination), which is also the one whose felt obviousness could plausibly gate interface inquiry. The paragraph's argument and the noetic-feelings thesis are preserved unchanged; the original "may" hedge is retained, and *by force* / *select* carry italic emphasis to mark the force-reading vs selection-reading seam.
+- **Length**: strictly ceiling-respecting, per the corrected dispatch note (the task text's "comfortably inside the voids ceiling" was wrong). `analyze_length` before 2981 / after 2996 against a 3000 hard ceiling, status `soft_warning` both sides — 4 words of headroom remain. No argument added, no calibration trimmed elsewhere to buy room. No condense opened.
+- **In-file consistency**: checked frontmatter `description`, lead, and every other `stop-sign` locus. The two remaining uses (L140 AI-lacking-the-affective-stop-sign; L148 dualism-feels-counterintuitive) do not carry the Tenet 2 framing and were left alone. Nothing downstream needed matching.
+- **Out of scope, untouched**: `research/voids-obviousness-void-2026-03-23.md` L169 carries the ancestor phrasing; research notes are not Map voice.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — disambiguation is not re-authoring. `ai_modified` bumped only; `last_deep_review` left at 2026-07-15. EOF scanned clean.
+- **Published**: yes
+
+## 2026-07-29 15:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Original score**: n/a — targeted single-axis fix under an explicit scope fence, not a general quality pass; `curate.py review` deliberately not run to avoid scope creep into a body the review confirmed correct.
+- **Defect closed**: the dropped half of the two-file warning at `reviews/tenet-check-2026-07-29.md` L111–L112. Commit `aee16cf67` (08:20:17Z) fixed `concepts/self-stultification.md` and three siblings but not this file, exactly as L157 predicted a multi-file task would be closed after the first file.
+- **Changes**: three words on one axis. (a) **L3 `description`** — "Self-stultification **defeats** not just epiphenomenalism but every position that severs consciousness from its own rational grounds. A unified argument across multiple targets." → "Self-stultification **presses hard** not just on epiphenomenalism but on every position that severs consciousness from its own rational grounds—**a threat, not a refutation**." (b) **L179** — "The position most directly **defeated**" → "The position the argument **presses hardest**". (c) **L180** — "the position self-stultification **defeats**" → "the position self-stultification **threatens**".
+- **Register inherited, not invented**: `concepts/self-stultification.md` L3 already reads "This structure **presses epiphenomenalism hard** and threatens physicalism" after `aee16cf67`; the review prescribes "presses hard against" / "threatens rather than defeats". Both prescribed forms are used, one per locus, matching each sentence's grammar.
+- **Why this was a real defect, not a stylistic quibble**: the article's own body contradicted the description twice — L67 and L151 both concede self-stultification is "weaker than refutation", L51 already says "threatens", and L77 concedes the phenomenal-concept strategy relocates rather than settles the charge. `tenets/tenets.md` L98 holds Tenet 3 explicitly *not* on the grounds that the argument refutes epiphenomenalism from inside the epiphenomenalist's framework, and L100 grants that the strongest version of the position survives the charge. The description asserted precisely the inference L98 forbids.
+- **Why the primary locus outweighs its size**: `description` is the meta-description served to retrieval, listings and link previews. On an LLM-first site a chatbot fetching this page took the unqualified "defeats" and never reached the L67/L151 concessions. The replacement carries the qualification in the description itself, so the retrieval surface and the body now agree.
+- **Engagement with the epiphenomenalist: Mode Three residue restored.** The body already marks the framework boundary honestly (the position "may still be *true*"; the phenomenal-concept strategy relocates the charge); the description had been quietly upgrading that boundary-marking into an in-framework refutation. This pass is a downgrade of description language to match an engagement the body classifies correctly — no engagement was re-classified and no body argument was touched.
+- **Scope fence honoured**: L3, L179, L180 and the timestamp only. The body was re-read and left untouched. The narrower-vs-stronger self-stultification formulation across the cluster was **not** re-litigated — that is a check-marked completed 2026-05-19 cross-review entry on a different, much larger axis. L178's "via self-defeat" describes `argument-from-reason`'s structure rather than asserting a verdict, so it was left alone.
+- **Length**: 3308 words, `soft_warning` (topics 3000 soft / 4000 hard), measured with `analyze_length`. The fix is pure substitution — the description is 167 chars against the previous 173, so the file did not grow. No condense minted.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — softening a description is not re-authoring. `ai_modified` bumped from `date -u` in the same command that printed the wall clock; `last_deep_review` untouched. No `[1m]` artifact, no EOF tool-call-tag artifact.
+- **Published**: yes
 
 ## 2026-07-29 15:31 UTC - positions-evolve
 - **Status**: Success
