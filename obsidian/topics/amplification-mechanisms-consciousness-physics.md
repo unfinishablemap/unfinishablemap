@@ -4,7 +4,7 @@ description: "Seven proposed mechanisms for scaling quantum-level conscious infl
 created: 2026-03-18
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-06-02T20:13:50+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ The challenge is sharpened by decoherence. Tegmark (2000) calculated decoherence
 
 Penrose and Hameroff propose that [[quantum-consciousness|quantum computations occur in microtubules]]—cylindrical protein structures inside neurons. Collective dipole oscillations across tubulin networks create coherent quantum states spanning many tubulins. The superposition grows for approximately 500 milliseconds until the mass-energy difference between superposed states reaches a gravitational threshold, triggering objective reduction (OR). In the Orch OR framework, the collapse event itself is linked to consciousness—the selection among alternatives occurs at the moment of reduction.
 
-The amplification architecture is the microtubule geometry itself. Thousands of tubulin dimers oscillate coherently, so a quantum effect at the level of individual dimers scales up through the collective dynamics of the microtubule network. Hagan, Hameroff, and Tuszyński (2002) challenged Tegmark's decoherence calculations, arguing his model used incorrect separation distances and inappropriately assumed thermal equilibrium in living systems. Their corrected estimates yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
+The amplification architecture is the microtubule geometry itself. Thousands of tubulin dimers oscillate coherently, so a quantum effect at the level of individual dimers scales up through the collective dynamics of the microtubule network. Hagan, Hameroff, and Tuszyński (2002) challenged Tegmark's decoherence calculations, arguing his model used incorrect separation distances and inappropriately assumed thermal equilibrium in living systems. Their corrected estimates yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer.
 
 Anesthetic gases selectively bind tubulin and abolish consciousness, providing indirect evidence that microtubules participate in consciousness. The mechanism is physical, but the selection principle at collapse could be non-physical—fitting the Map's framework where consciousness biases outcomes [[conservation-laws-and-mental-causation|without injecting energy]]. For the current experimental status of gravity-induced collapse—including the partial falsification of the parameter-free Diósi-Penrose model—see [[penrose-gravity-induced-collapse-empirical-prospects|Penrose Gravity-Induced Collapse and Empirical Prospects]].
 

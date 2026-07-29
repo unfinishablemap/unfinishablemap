@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-28T16:09:55+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -134,7 +134,7 @@ Three responses preserve desert:
 
 The **[[decoherence]]** objection: quantum superpositions decohere almost instantly in warm neural tissue. If quantum effects can't influence neural processing, consciousness couldn't "select" outcomes. See [[decoherence]] for the full challenge.
 
-Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer, though that recalibration was itself contested (Reimers et al. 2009; McKemmish et al. 2009), leaving the dispute live rather than settled. (2) [[quantum-biology-and-neural-mechanisms|Quantum biology]] demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [[measurement-problem|measurement problem]]—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
+Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates eight to nine orders of magnitude longer, though that recalibration was itself contested (Reimers et al. 2009; McKemmish et al. 2009), leaving the dispute live rather than settled. (2) [[quantum-biology-and-neural-mechanisms|Quantum biology]] demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [[measurement-problem|measurement problem]]—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
 
 ## Objections and Responses
 

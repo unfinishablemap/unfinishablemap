@@ -4,7 +4,7 @@ description: "Consciousness selects quantum outcomes atemporally via transaction
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-15T13:01:47+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ The Zeno mechanism itself is temporally neutral—it describes an observation-ba
 
 ### The Decoherence Challenge
 
-Critics object that quantum effects cannot survive in warm biological systems—[[decoherence]] destroys coherence in femtoseconds, far too fast for neural processes. Three responses apply: (1) Decoherence timescales are disputed, with Hagan, Hameroff and Tuszyński (2002) obtaining estimates roughly seven orders of magnitude longer than Tegmark's. (2) The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act. (3) Biological quantum effects (avian magnetoreception, photosynthetic energy transfer) demonstrate evolution's capacity to exploit coherence. The first response should not be overstated: the corrected figure is still on the order of 10⁻⁶ seconds, which remains roughly five to six orders of magnitude short of the 10²–10³ millisecond neural timescales the model needs. The coherence estimate alone does not close the gap; in this framework the load is carried by the Zeno mechanism (response 2), not by the coherence figure itself. More fundamentally, decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual after decoherence has selected preferred bases. See [[decoherence]] for detailed treatment.
+Critics object that quantum effects cannot survive in warm biological systems—[[decoherence]] destroys coherence in femtoseconds, far too fast for neural processes. Three responses apply: (1) Decoherence timescales are disputed, with Hagan, Hameroff and Tuszyński (2002) obtaining estimates roughly eight to nine orders of magnitude longer than Tegmark's. (2) The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act. (3) Biological quantum effects (avian magnetoreception, photosynthetic energy transfer) demonstrate evolution's capacity to exploit coherence. The first response should not be overstated: the corrected figure is still only 10⁻⁵ to 10⁻⁴ seconds, which remains roughly three to five orders of magnitude short of the 10²–10³ millisecond neural timescales the model needs. The coherence estimate alone does not close the gap; in this framework the load is carried by the Zeno mechanism (response 2), not by the coherence figure itself. More fundamentally, decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual after decoherence has selected preferred bases. See [[decoherence]] for detailed treatment.
 
 ## The Modified Growing Block
 

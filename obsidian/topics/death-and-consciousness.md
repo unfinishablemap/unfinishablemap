@@ -4,7 +4,7 @@ description: "Does consciousness survive bodily death? Dualism keeps the questio
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-07-08T17:26:08+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -160,7 +160,7 @@ Stuart Hameroff and Roger Penrose's [[quantum-consciousness|Orch OR theory]] gen
 
 ### The Decoherence Challenge
 
-[[decoherence|Decoherence]] poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates seven orders of magnitude longer, though Reimers et al. (2009) and McKemmish et al. (2009) in turn contested those parameters—the dispute is live, not settled either way; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
+[[decoherence|Decoherence]] poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates eight to nine orders of magnitude longer, though Reimers et al. (2009) and McKemmish et al. (2009) in turn contested those parameters—the dispute is live, not settled either way; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
 
 **Significant caveats:** Highly speculative; no mechanism explains post-mortem coherence; dispersed quantum information might not preserve *your* particular [[haecceity|perspective]].
 

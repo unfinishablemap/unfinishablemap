@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-07-19T21:07:43+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -175,7 +175,7 @@ This explains the common phenomenology. Sustaining motor intention feels effortf
 
 ### Decoherence Considerations
 
-The [[decoherence]] addresses the standard challenge—rapid decoherence in warm brains. Hameroff (2014) calculates coherence times of 10⁻⁵ to 10⁻⁴ seconds for biological conditions—seven orders of magnitude longer than Tegmark's estimates, though these figures remain disputed. Additionally, the [[psychophysical-laws|post-decoherence selection response]] proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
+The [[decoherence]] addresses the standard challenge—rapid decoherence in warm brains. Hameroff (2014) calculates coherence times of 10⁻⁵ to 10⁻⁴ seconds for biological conditions—eight to nine orders of magnitude longer than Tegmark's estimates, though these figures remain disputed. Additionally, the [[psychophysical-laws|post-decoherence selection response]] proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
 
 ## The Phenomenology of Motor Choice
 

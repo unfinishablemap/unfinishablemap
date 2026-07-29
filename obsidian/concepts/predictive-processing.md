@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-24T17:50:57+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -184,7 +184,7 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: PP says nothing about quantum mechanics, but the [[attention-as-interface|attention as interface hypothesis]] connects them. Precision weighting doesn't specify *how* certain signals become salient—it just posits that some prediction errors receive more weight than others. Quantum selection could fill this gap: consciousness might influence which prediction errors receive precision through the quantum Zeno mechanism, biasing indeterminate outcomes at the neural level. The brain generates predictions; consciousness selects which predictions matter. This preserves PP's computational account while providing a deeper mechanism for the selection that precision weighting describes but doesn't explain.
 
-**The [[decoherence]] challenge**: Quantum skeptics argue decoherence destroys coherence too quickly for quantum effects to matter at PP's timescales. Three responses: (1) Hameroff's group calculated decoherence times seven orders of magnitude longer than Tegmark's estimates; (2) biological systems demonstrably maintain quantum effects for navigation and other functions; (3) decoherence doesn't solve the measurement problem—selection among outcomes remains even after decoherence has determined the basis.
+**The [[decoherence]] challenge**: Quantum skeptics argue decoherence destroys coherence too quickly for quantum effects to matter at PP's timescales. Three responses: (1) Hameroff's group calculated decoherence times eight to nine orders of magnitude longer than Tegmark's estimates; (2) biological systems demonstrably maintain quantum effects for navigation and other functions; (3) decoherence doesn't solve the measurement problem—selection among outcomes remains even after decoherence has determined the basis.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Active inference—organisms acting to change sensory input—resonates deeply with bidirectional interaction. Consciousness doesn't passively receive but actively shapes reality. The Map's claim that consciousness selects among quantum outcomes is a deeper-level instance of active inference: the organism acts not just on the environment but on its own neural states. PP's emphasis on action and attention provides the neural machinery; consciousness provides the genuine agency that chooses which predictions to enact.
 

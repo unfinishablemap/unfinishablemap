@@ -3,7 +3,7 @@ title: "Against Materialism"
 created: 2026-01-06
 modified: 2026-05-11
 human_modified: 2026-01-06
-ai_modified: 2026-07-29T03:46:51+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 description: "Why materialism fails to account for consciousness — hard problem, zombie argument, epiphenomenalism, and quantum indeterminacy converge on dualism."
 topics:
@@ -96,7 +96,7 @@ Von Neumann noted in 1932 that the "Heisenberg cut" between quantum system and c
 
 **The decoherence objection**: Tegmark argues quantum effects in the brain decohere too quickly (femtosecond timescales) to be relevant. This is a serious challenge, but not decisive:
 
-- **Disputed calculations**: Hameroff's group (Hagan et al., 2002) challenged Tegmark's model, yielding decoherence times **seven orders of magnitude longer**. With revised timescale requirements (Hameroff & Penrose, 2014), coherence times of 10⁻⁷ seconds may suffice.
+- **Disputed calculations**: Hameroff's group (Hagan et al., 2002) challenged Tegmark's model, yielding decoherence times **eight to nine orders of magnitude longer**. With revised timescale requirements (Hameroff & Penrose, 2014), coherence times of 10⁻⁷ seconds may suffice.
 - **Biological quantum effects**: Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds, supported computationally by first-principles simulations of radical-pair stability in cryptochrome 4a (Luo et al., 2025). Evolution can harness coherence.
 - **[[decoherence|Decoherence doesn't solve the measurement problem]]**: Decoherence explains basis selection but leaves the system in a mixture of possible outcomes. Physics remains silent on why *this particular* outcome occurs. The role for consciousness at collapse remains open.
 

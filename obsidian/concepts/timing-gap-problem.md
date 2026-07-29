@@ -4,7 +4,7 @@ description: "The 10¹²-fold mismatch between quantum decoherence and neural de
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-07-14T14:29:02+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ The gap is not a matter of degree. Femtoseconds and hundreds of milliseconds dif
 
 ### Revised Decoherence Estimates
 
-Hagan et al. (2002) challenged Tegmark's parameters for microtubule decoherence, arguing he used unrealistic superposition separation distances (24 nanometres versus the smaller distances Orch OR specifies), inappropriate thermal equilibrium assumptions, and incorrect charge models. Their corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Bandyopadhyay's laboratory measurements found collective oscillations in isolated microtubules consistent with coherence lasting approximately 100 microseconds (reported in Hameroff & Penrose, 2014).
+Hagan et al. (2002) challenged Tegmark's parameters for microtubule decoherence, arguing he used unrealistic superposition separation distances (24 nanometres versus the smaller distances Orch OR specifies), inappropriate thermal equilibrium assumptions, and incorrect charge models. Their corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. Bandyopadhyay's laboratory measurements found collective oscillations in isolated microtubules consistent with coherence lasting approximately 100 microseconds (reported in Hameroff & Penrose, 2014).
 
 This narrows the gap from twelve orders of magnitude to roughly three. Yet 100 microseconds remains far shorter than the 280-300 millisecond decision windows, so revised estimates alone do not resolve the problem.
 

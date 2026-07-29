@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-02-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-07-07T15:32:00+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -94,7 +94,7 @@ A distinctively modern family of solutions locates the mind-body interface at po
 
 These proposals share a crucial structural feature with non-contact solutions (Type 2): consciousness *selects* among possibilities rather than *injecting* force. The difference is that quantum approaches ground this selection in the [[measurement-problem]]—the unsolved question of what determines which outcome actualises when physics specifies only probabilities. Where this structural typology sorts solutions by *interface logic*, the [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy of dualist positions]] sorts the same inhabitants by *how much ontological weight each side carries*: Stapp's quantum-Zeno account is Type-4 here and sits in the thick-mind/thick-physical quadrant there (narrow channel, rich endpoints), while the process dissolutions of Type 3 sit at the taxonomy's monist edge. Where Sāṃkhya's reflection model offers a metaphor, quantum interactionism offers a mechanism—or at least the outline of one. The Many-Worlds interpretation avoids collapse entirely, eliminating the opening for [[mental-causation-and-downward-causation|mental causation]]—which is precisely why the Map [[tenets#^no-many-worlds|rejects it]].
 
-The quantum family inherits a distinctive weakness. The [[decoherence]] objection argues that quantum coherence cannot survive in warm, wet neural tissue long enough for consciousness to exploit it. Responses exist—disputed timescale calculations (Hagan, Hameroff & Tuszyński (2002) found estimates seven orders of magnitude longer than Tegmark's), biological quantum effects demonstrated in other systems (avian magnetoreception), and the deeper point that decoherence does not determine which outcome actualises. The empirical question remains open. See [[conservation-laws-and-mental-causation]] for why energy conservation does not block this approach.
+The quantum family inherits a distinctive weakness. The [[decoherence]] objection argues that quantum coherence cannot survive in warm, wet neural tissue long enough for consciousness to exploit it. Responses exist—disputed timescale calculations (Hagan, Hameroff & Tuszyński (2002) found estimates eight to nine orders of magnitude longer than Tegmark's), biological quantum effects demonstrated in other systems (avian magnetoreception), and the deeper point that decoherence does not determine which outcome actualises. The empirical question remains open. See [[conservation-laws-and-mental-causation]] for why energy conservation does not block this approach.
 
 ## Type 5: Monist Avoidance
 

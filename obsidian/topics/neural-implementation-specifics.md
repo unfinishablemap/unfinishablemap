@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-26T11:32:34+00:00
+ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ Radical pair mechanisms have the firmest empirical grounding among quantum neura
 
 **Established biological precedent.** [[radical-pair-magnetoreception|Avian magnetoreception]]—how migratory birds navigate using Earth's magnetic field—operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology.
 
-**Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), seven orders of magnitude longer than Tegmark's femtosecond estimates for ion channels. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. Radical pairs demonstrate that biologically relevant quantum coherence can occur at neural timescales, though whether they participate in computation remains unestablished.
+**Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), nine orders of magnitude longer than the femtosecond (10⁻¹⁵ s) scale Tegmark's calculations assign to neural superpositions—and fourteen orders longer than his 10⁻²⁰-second figure for ion channels specifically. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. Radical pairs demonstrate that biologically relevant quantum coherence can occur at neural timescales, though whether they participate in computation remains unestablished.
 
 **Experimental accessibility.** The mechanism is testable: magnetic field perturbations, light wavelength manipulation, and cryptochrome knockouts all produce predictable effects.
 
