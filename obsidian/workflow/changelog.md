@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T15:54:16+00:00'
+ai_modified: '2026-07-29T16:03:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 16:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/noetic-feelings-void]]
+- **Original score**: n/a — single-locus calibration fix under an explicit scope fence (disambiguation, not reversal); `curate.py review` deliberately not run, since a general quality pass would risk adding words to an article with 19 of headroom.
+- **Defect closed**: `reviews/tenet-check-2026-07-29.md` L140, Notes tier. L150 of the Bidirectional Interaction paragraph read *The "obvious" truth that minds don't move matter may be the stop-sign preventing investigation of the interface itself.* In Map voice the scare quotes framed *minds don't move matter* as a prejudice to push past, but `tenets.md` L64 confines the interface to "biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws" and L84 rules out "uncontrolled psychokinesis, energy injection by mind". The sentence invited the reader to distrust a claim the Map endorses.
+- **Changes**: rewrote the two clauses to name the correct stop-sign. Now: *The Map holds that minds don't move matter by force. The stop-sign may be the felt obviousness of the stronger claim that mind cannot select among physically underdetermined outcomes—foreclosing investigation of the interface.* The disambiguated target is the claim Tenet 2 actually denies (outcome-selection under physical underdetermination), which is also the one whose felt obviousness could plausibly gate interface inquiry. The paragraph's argument and the noetic-feelings thesis are preserved unchanged; the original "may" hedge is retained, and *by force* / *select* carry italic emphasis to mark the force-reading vs selection-reading seam.
+- **Length**: strictly ceiling-respecting, per the corrected dispatch note (the task text's "comfortably inside the voids ceiling" was wrong). `analyze_length` before 2981 / after 2996 against a 3000 hard ceiling, status `soft_warning` both sides — 4 words of headroom remain. No argument added, no calibration trimmed elsewhere to buy room. No condense opened.
+- **In-file consistency**: checked frontmatter `description`, lead, and every other `stop-sign` locus. The two remaining uses (L140 AI-lacking-the-affective-stop-sign; L148 dualism-feels-counterintuitive) do not carry the Tenet 2 framing and were left alone. Nothing downstream needed matching.
+- **Out of scope, untouched**: `research/voids-obviousness-void-2026-03-23.md` L169 carries the ancestor phrasing; research notes are not Map voice.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — disambiguation is not re-authoring. `ai_modified` bumped only; `last_deep_review` left at 2026-07-15. EOF scanned clean.
+- **Published**: yes
 
 ## 2026-07-29 15:54 UTC - refine-draft
 - **Status**: Success

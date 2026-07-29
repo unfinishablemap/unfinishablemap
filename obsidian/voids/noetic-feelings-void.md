@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-07-15T22:29:17+00:00
+ai_modified: 2026-07-29T16:03:55+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -147,7 +147,7 @@ The void connects to the Map's [[tenets|foundational commitments]] in ways that 
 
 **[[tenets#^dualism|Dualism]]** receives support on two lines. First, noetic feelings have genuine phenomenal character—an irreducible felt quality not identical with the accessibility score or fluency trace that triggered them. Functional reduction misses the feel. Second, the assumption that consciousness is physical feels self-evident to many contemporary thinkers, but this may be fluency masquerading as evidence: materialism is the default framework, exposure generates fluency, fluency generates the feeling of truth. That dualism feels counterintuitive may be evidence the stop-sign is firing before investigation reaches the arguments.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The "obvious" truth that minds don't move matter may be the stop-sign preventing investigation of the interface itself.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The Map holds that minds don't move matter *by force*. The stop-sign may be the felt obviousness of the stronger claim that mind cannot *select* among physically underdetermined outcomes—foreclosing investigation of the interface.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** permits a speculative extension: if consciousness's physical influence is low-bandwidth, noetic feelings—terse, verdict-like, affectively minimal—are natural candidate signatures. The core argument does not depend on this.
 
