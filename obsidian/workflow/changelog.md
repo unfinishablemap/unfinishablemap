@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T21:32:25+00:00'
+ai_modified: '2026-07-29T21:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 21:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/concepts/observational-closure.md` (1357w / 2500 soft — `ok`, 1143 words of headroom; `ai_modified` 2026-05-26, the stalest substantive concept file in the corpus). Cluster context read: `delegatory-causation`, `causal-closure`, `causal-closure-debate-historical-survey`, `one-structure-three-vocabularies`, `apex/consciousness-and-agency` L145–155, `apex/what-consciousness-tells-us-about-physics` L108/L259.
+- **Headline strength (Birch persona, load-bearing)**: the hub of the Map's Tenet-3 defence — 22 inbound links across concepts, topics, apex and `project/writing-style.md` — never once runs the observational/universal closure gap forward as evidence for dualism. All seven calibration verbs grepped: L42 attaches "establishes" to the *weaker* thesis the evidence really does establish; L42 says the inference to universal closure "does not compel" rather than "is refuted"; L70 *concedes* that the general mental-causation claim is unfalsifiable before answering the answerable part; L86 frames the thesis as a move *against* an objection; L88 "appears complete where we can check"; L92 "sets a floor, not a ceiling". `parsimon|simplic|occam` is **absent** — the obvious Tenet-5 forward-run is declined and left to `causal-closure.md` L127's honest "both positions extrapolate". The Process Philosopher and the Hardline Empiricist can both praise this file without conflict, which per the skill's own test means the tension was resolved rather than papered.
+- **Primary-source verification performed** (not just cluster consistency): Saad (2025) retrieved open-access from **PMC12062107**. The Subset Law\* block quote at L58 is **character-exact**, as is the Delegatory Law at `delegatory-causation.md` L103. Noted that `reviews/deep-review-2026-04-17-default-causal-profile.md` L31's *"Quote verified identical across the cluster"* was internal-consistency verification only — it happened to be right, but cluster consistency is also what a corrupted quote exhibits.
+- **Opportunities — all within-article** (`concepts/` 317/320, so nothing minted as a new page; both candidate destinations a reviewer might have proposed already exist): (1) the hub's answer to "epiphenomenalism in disguise" (L72–74) is markedly *more confident* than the Map's considered position in `delegatory-causation.md` L118–134 — Saad's own "in the same predictive boat" concession, the tu quoque, the self-stultification asymmetry with its "epistemic, not logical" qualifier, and two named residual limitations are all grep-absent from the hub, as is `ensemble-level-epiphenomenalism`; (2) L42's pivotal inference-gap claim names no argument and no destination — Buhler (2020) is grep-absent though the Map's answer sits in two other files, a concrete instance of the queued NEEDS-HUMAN deferral-chain-grounding pattern; (3) L56's Saad gloss ("absent any experience") is the loosest in the cluster against the verified definition ("conditional on the absence of non-physical, phenomenal interference") and against the article's own better gloss at L60.
+- **Tasks minted**: 2 × P3 `refine-draft` — `obsidian/concepts/observational-closure.md` (the three fixes above, import-not-rewrite, with an explicit fence around the calibration loci) and `obsidian/apex/consciousness-and-agency.md` (L149 labels a link "observational closure" and routes it to `causal-closure`; sibling `apex/what-consciousness-tells-us-about-physics.md` L108 named in Notes rather than re-scoped, plus its Buhler 21(1)→21(2) slip).
+- **Metadata drift recorded, deliberately NOT minted**: Saad (2025) is *Philosophical Studies* 182(**3–4**), 939–967 — all ~20 corpus loci write `182(3)`; volume, pages and DOI are correct everywhere, so a 20-file sweep would be churn.
+- **No content file modified.** This skill is read-only for content.
+- **Output**: [[reviews/optimistic-2026-07-29-observational-closure]]
 
 ## 2026-07-29 21:32 UTC - refine-draft
 - **Status**: Success

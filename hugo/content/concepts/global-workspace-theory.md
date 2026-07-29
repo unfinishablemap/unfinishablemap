@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-18 11:01:44+00:00
+ai_modified: 2026-07-29 21:32:25+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -121,7 +121,7 @@ A telling asymmetry complicates GWT's equation of workspace presence with consci
 
 ### The Amplification Hypothesis
 
-The global workspace may explain *how* [consciousness amplifies cognition](/concepts/consciousness-as-amplifier/). Chimpanzee working memory holds approximately 2±1 items versus human 4±1 (Cowan 2001, revising Miller's classic 7±2). The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article argues even this conservative two-fold expansion marks a phase transition—four items enable qualitatively new operations (logical reasoning, counterfactual thinking) that two items cannot support.
+The global workspace may explain *how* [consciousness amplifies cognition](/concepts/consciousness-as-amplifier/). Chimpanzee working memory is estimated at approximately 2±1 items (Read, Manrique & Walker 2022); human capacity is 4±1 (Cowan 2001, revising Miller's classic 7±2). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [the capacity gap](/concepts/working-memory/#the-capacity-gap). The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article argues even this conservative two-fold expansion marks a phase transition—four items enable qualitatively new operations (logical reasoning, counterfactual thinking) that two items cannot support.
 
 This reinterprets GWT's central claim: global broadcast isn't merely making information reportable—it's making information *manipulable*. The workspace enables cross-domain integration, flexible recombination, [metacognitive](/concepts/metacognition/) monitoring, and counterfactual simulation. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited where global broadcast is required.
 
@@ -200,6 +200,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
