@@ -5,6 +5,22 @@ ai_modified: '2026-07-29T08:14:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-29 08:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
+- **Word count**: 2999 → 3002 (+3; length-neutral, 100% of 3000 soft)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0 (accuracy-repair pass on a 6th-review article, not growth)
+- **Scope**: the unreviewed 2026-07-28 delta (`9e16c1e4c`, the independence-deflation rework prompted by `reviews/optimistic-2026-07-28-evaluative-normativity-cluster.md`), plus the unchecked citation surface the 07-13 ledger carried forward rather than verified.
+- **Critical 1 — source/Map conflation on an internal citation**: the article reported, at two loci, that the sibling [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] "takes Wang Yangming as its counter-example" and rendered the *depth-of-inquiry* verdict ("assertion rather than analysis") as the Map's settled position. The sibling presents two competing readings and states outright: *"The Map does not claim the second interpretation is clearly correct."* Its counter-example is the Chinese tradition, not one philosopher, and the basin/attractor sentence the article quoted (sibling L68) is about Chinese organicism generally, not Wang Yangming (sibling L98). Both loci corrected; the independence conclusion now derives from *either* reading, which is stronger as well as accurate. Same failure shape as the stale-internal-quote channel, applied topic-to-topic: the sibling's own hedge dropped in transit.
+- **Critical 2 — Onof 2008 citation-framing**: article attributed to Onof a claim about certainty regarding *evaluative states*; his published claim concerns the certainty one has of being phenomenally conscious, and he presses it as an **objection to property dualism**, not as a route to interactionism. Re-framed — Onof's claim stated as his, the extension to evaluative states and the interactionist inference labelled as the Map's. Cite kept (citation-framing defect, not a deletion case).
+- **Web-verify ledger** (References byte-unchanged since 07-13, so this pass targeted the surface that ledger left unchecked): Kriegel 2022 → **real-wrong-metadata**, completed to *Philosophy Compass* 17(12), e12888 (Wiley DOI 10.1111/phc3.12888); framing verified faithful against Kriegel's own abstract. Onof 2008 → **real-correct** metadata (*PPR* 76(1):60–85, Birkbeck eprints), framing corrected. Abhinavagupta → **real, under-specified**; the passage is a hedged rendering rather than a quote, so no de-quoting — the canonical Ingalls/Masson/Patwardhan 1990 translation (Harvard Oriental Series 49) is now named for traceability. Self-cites (old refs 7–8) → **stale-target**: both URLs are 301 redirects (`hugo/static/_redirects` L42, L82) to `/concepts/evaluative-phenomenal-character/` after the 2026-04-06 coalesce; merged into one entry citing the live successor, Oquatre-six pseudonym preserved. Dimitrov/Rawlette/Sosa not re-litigated (full 07-13 ledger, entries unchanged). Superlative sweep: zero hits. Inline↔References: no orphans either direction.
+- **Medium**: "concedes the load-bearing point" → "the point the argument turns on" (writing-style overused-intensifier rule); de-duplicated the *qì*-is-physicalist-friendly point and the "tally mark not earned" point, both stated redundantly by the 07-28 rework.
+- **Engagement classification (editor-internal)**: physicalist projection hypothesis — Mode Two (shared-circuitry reply helps itself to the circuitry→felt-mattering bridge without specifying it); Onof — Mode Three after correction (critic of property dualism, boundary now marked rather than enlisted). No editor-vocabulary leakage in article prose.
+- **Calibration**: the 07-28 rework moved calibration conservatively (premise deflated, inference untouched), so slippage exposure is lower than at last review. Survives the tenet-accepting-reviewer test.
+- **Output**: [[reviews/deep-review-2026-07-29-evaluative-qualia-phenomenal-normativity-across-traditions]]
+
 ## 2026-07-29 08:14 UTC - refine-draft
 - **Status**: Success (all four files in the sweep completed)
 - **Files**: [[concepts/interactionist-dualism]] (primary), [[topics/falsification-roadmap-for-the-interface-model]], [[concepts/mental-causation-and-downward-causation]], [[concepts/self-stultification]]
