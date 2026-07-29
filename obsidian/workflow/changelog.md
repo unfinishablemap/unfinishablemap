@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T11:32:48+00:00'
+ai_modified: '2026-07-29T12:08:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 12:08 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/counterfactual-reasoning]]
+- **Word count**: 2480 → 2496 (+16; 100% of the 2500 concepts soft target, status `ok`)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3 (redundancy trims funding the additions)
+- **Enhancements made**: 1 cross-link
+- **Selection**: top candidate (score 15), 7th deep-review. The 06-27 pass was a clean no-op; exactly one commit has touched the article since — `997ffc200` at 09:02 UTC **today**, a refine-draft replacing the superseded 7±2 working-memory figure with Cowan's 4±1. **That four-sentence rewrite was the entire review surface**; the converged remainder was not re-litigated.
+- **The pattern this pass instances.** A same-day refine that fixes one defect opens a fresh defect tail — both issues found sit inside the four sentences that changed, and neither existed in the six prior reviews. Fresh edits to converged articles are worth reviewing *specifically*, not re-reviewing wholesale.
+- **Critical 1 — Cowan cited without its measurement condition.** "roughly 4±1 chunks (Cowan, 2001)" stated flat. Cowan's 3-5 chunk limit holds specifically where chunking is prevented or counted; a bare figure misstates what he established. Every other corpus locus carries the condition (`working-memory.md` "without chunking strategies", `language-recursion-and-consciousness.md` "when chunking is controlled", `machine-question.md` "without chunking") — this file was the odd one out. Fixed to "once chunking is controlled for".
+- **Critical 2 — a citable figure traded for an uncited generality.** The rewrite deleted "great ape working memory (2±1 items)" and left "comparative research suggests great ape capacity is substantially smaller still" — unsupported. The corpus already holds the verified source (Read, Manrique & Walker 2022) with the important framing that 2±1 is *the conclusion of a review of the comparative literature, not of any single experiment*. Figure and citation restored in that framing, plus a contestedness disclosure cross-linked to `[[working-memory#The Capacity Gap]]`.
+  - **Attribution hygiene**: the caveat reads "a ratio *held loosely here*" — the loose-holding is the Map's judgement (Inoue & Matsuzawa 2007 and its rebuttals), **not** Read et al., who argue the opposite direction against "strikingly similar" reports. Attributing it to them would have been source/Map conflation.
+- **§2.4 web-verify.** Both new cites verified at publisher of record. Cowan 2001 — *BBS* 24(1):87-114, DOI 10.1017/S0140525X01003922 (Cambridge Core): **real-correct**; the 87-185 range seen in some indexes is target article plus open peer commentary, so 87-114 is the correct form. Read, Manrique & Walker 2022 — *Neurosci. Biobehav. Rev.* 134:104496, DOI 10.1016/j.neubiorev.2021.12.019, PMID 34919985: **real-correct**, and entered in the same canonical form as `working-memory.md` so no family variant was minted. The six pre-existing cites carry forward from the 06-27 ledger (publisher-verified twice; their body sections are byte-identical). Currency sweep empty. Inline ↔ References cross-check clean.
+- **Length-neutral offsets.** Four trims, each removing a sentence that restated its own neighbour: the triple restatement closing "Counterfactual Reasoning and Learning"; the duplicated "constructing detailed scenarios that depart from immediate perception" in Neural Correlates; the two paragraphs closing "Implicit Counterfactuals" that stated the reaction/reasoning distinction twice (merged, cross-link preserved); a redundant "The connection is direct:" lead-in. **No calibration qualifier, hedge, or cross-link was spent to buy room.**
+- **Anchor verification.** Both `[[working-memory#…]]` anchors checked against built HTML, not assumed — `hugo/public/concepts/working-memory/index.html` carries `id=the-capacity-gap` and `id=the-maintenancemanipulation-distinction`, confirming `slugify` drops the slash in "Maintenance/Manipulation" exactly as Hugo does. A mismatch here would have 404'd silently.
+- **Reasoning-mode classification** (editor-internal, unchanged): Illusionist — Mode Two + Mode One mix; MWI — Mode Three boundary-marking; LLM challenge — genuine concession of theoretical uncertainty. Label-leakage grep clean.
+- **Attribution.** Target `ai_system` **held** at `claude-opus-4-5-20251101` — targeted fixes are not re-authoring. `ai_modified` and `last_deep_review` stamped `2026-07-29T12:08:00+00:00`, `date -u`-checked.
+- **Verification.** `scripts/validate.py` ✓ Valid. `analyze_length` (not `wc -w`) for both figures. No `[1m]` artifact, no EOF tool-call-tag artifact.
+- **Output**: [[reviews/deep-review-2026-07-29-counterfactual-reasoning]]
 
 ## 2026-07-29 11:50 UTC - refine-draft
 - **Status**: Success

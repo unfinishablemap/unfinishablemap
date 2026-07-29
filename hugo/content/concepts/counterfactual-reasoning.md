@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-07-29 08:55:24+00:00
+ai_modified: 2026-07-29 12:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Counterfactual reasoning imagines what could have been or might be.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 02:22:29+00:00
+last_deep_review: 2026-07-29 12:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ Counterfactual reasoning places substantial demands on [working memory](/concept
 - The counterfactual scenario (what would follow)
 - The relationship between actual and counterfactual
 
-This [multi-element maintenance *and manipulation*](/concepts/working-memory/#the-maintenancemanipulation-distinction) is what expanded human working memory enables. Current research estimates human capacity at roughly 4±1 chunks (Cowan, 2001), substantially less than the older 7±2 estimate; comparative research suggests great ape capacity is substantially smaller still. On the narrower estimate the argument rests less on the raw numerical gap than on what the span permits: holding four elements sits at the edge of human capacity, and they must be compared and revised rather than merely retained. The [baseline cognition](/concepts/baseline-cognition/) framework predicts exactly this pattern: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced working memory capacity.
+This [multi-element maintenance *and manipulation*](/concepts/working-memory/#the-maintenancemanipulation-distinction) is what expanded human working memory enables. Current estimates put human capacity at roughly 4±1 chunks once chunking is controlled for (Cowan 2001), well below the older 7±2 figure, and a review of the comparative literature puts great ape capacity at roughly 2±1 (Read, Manrique & Walker 2022) — a ratio [held loosely here](/concepts/working-memory/#the-capacity-gap), since the chimpanzee experiments underlying it are contested. The argument rests less on the raw numerical gap than on what the span permits: four elements sit at the edge of human capacity, and they must be compared and revised rather than merely retained. The [baseline cognition](/concepts/baseline-cognition/) framework predicts exactly this pattern: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced working memory capacity.
 
 ### The Great Ape Gap
 
@@ -96,7 +96,7 @@ The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) r
 
 ### Agent Causation and Counterfactual Selection
 
-The Map's [agent-causal](/concepts/agent-causation/) framework proposes that consciousness selects among quantum possibilities in the brain. Counterfactual reasoning provides the representational substrate for this selection. The brain generates multiple possible action patterns (neural superpositions); consciousness evaluates these through counterfactual simulation; the agent then selects which possibility actualises. The connection is direct: counterfactual evaluation is *how* consciousness engages with the options quantum indeterminacy provides. Without the capacity to represent and compare alternatives, selection would be blind—random rather than reasons-responsive.
+The Map's [agent-causal](/concepts/agent-causation/) framework proposes that consciousness selects among quantum possibilities in the brain. Counterfactual reasoning provides the representational substrate for this selection. The brain generates multiple possible action patterns (neural superpositions); consciousness evaluates these through counterfactual simulation; the agent then selects which possibility actualises. Counterfactual evaluation is *how* consciousness engages with the options quantum indeterminacy provides. Without the capacity to represent and compare alternatives, selection would be blind—random rather than reasons-responsive.
 
 If counterfactual reasoning requires consciousness, and free will requires counterfactual reasoning, then free will requires consciousness. This strengthens the connection between the [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets: consciousness contributes something neural processing alone cannot achieve, and this contribution includes the capacity for genuine choice.
 
@@ -110,7 +110,7 @@ Counterfactual reasoning enables learning beyond direct experience:
 
 **Hypothetical instruction**: Teaching through hypothetical scenarios ("If you encounter a bear, do X") requires representing situations never experienced.
 
-Each learning mode extends cognition beyond the limits of direct experience. Animals restricted to learning from actual experience—without counterfactual elaboration—would be limited to what the environment directly teaches. The human capacity for counterfactual reasoning enables learning from imagination, not just reality.
+Each mode extends cognition beyond direct experience: without counterfactual elaboration, an animal learns only what the environment actually teaches, while counterfactual reasoning lets humans learn from imagination as well.
 
 This connects to [cumulative culture](/concepts/cumulative-culture/). Counterfactual reasoning enables asking "how could this be better?"—imagining improved versions of current practices. Without this capacity, cultural traditions would remain within the zone of latent solutions: variations on themes, not genuine innovations built on previous innovations. [Creativity](/concepts/creative-consciousness/) depends on this same capacity: consciousness doesn't merely select among brain-generated options but *generates* the space of alternatives through counterfactual imagination.
 
@@ -123,7 +123,7 @@ Neuroscience research (Van Hoeck et al. 2013) identifies counterfactual thinking
 - **Temporoparietal junction**: Perspective-taking, representing alternative viewpoints
 - **Hippocampus**: Episodic simulation, constructing detailed scenarios
 
-This network overlaps substantially with regions associated with conscious processing and [episodic memory](/concepts/episodic-memory/). The hippocampus is particularly notable: it supports both remembering specific past events and imagining specific future events (prospection). Both capacities involve constructing detailed scenarios that depart from immediate perception.
+This network overlaps substantially with regions associated with conscious processing and [episodic memory](/concepts/episodic-memory/). The hippocampus is particularly notable: it supports both remembering specific past events and imagining specific future events (prospection).
 
 The hippocampal involvement suggests counterfactual reasoning evolved from, or shares mechanisms with, [episodic memory](/concepts/episodic-memory/). Remembering "what happened" and imagining "what might happen" both require representing specific scenarios distinct from current perception. Consciousness may have evolved in part to enable this temporal flexibility—freeing cognition from immediate stimulus-response patterns.
 
@@ -155,9 +155,7 @@ Moreover, the baseline cognition evidence presents a pattern problem. If counter
 
 Some research suggests implicit counterfactual processing occurs without awareness. People show physiological responses to near-miss scenarios without reporting counterfactual thoughts. Might counterfactual reasoning be fundamentally unconscious, with consciousness merely observing?
 
-The evidence distinguishes implicit counterfactual *reactions* from explicit counterfactual *reasoning*. Reacting with regret to a near-miss is different from deliberately constructing "what if" scenarios to inform future decisions. The former may be automatic; the latter appears to require conscious manipulation.
-
-The [conscious vs unconscious processing](/concepts/conscious-vs-unconscious-processing/) framework clarifies: counterfactual *reactions* operate within baseline cognition (emotional responses to near-misses), while counterfactual *reasoning* (systematic scenario construction and evaluation) requires conscious processing.
+The evidence distinguishes implicit counterfactual *reactions* from explicit counterfactual *reasoning*. Reacting with regret to a near-miss is different from deliberately constructing "what if" scenarios to inform future decisions, and the [conscious vs unconscious processing](/concepts/conscious-vs-unconscious-processing/) framework locates the two differently: reactions may be automatic, operating within baseline cognition, while systematic scenario construction and evaluation appears to require conscious manipulation.
 
 ## Relation to Site Perspective
 
@@ -190,6 +188,7 @@ Counterfactual reasoning connects to multiple [tenets](/tenets/):
 
 1. Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität*. Urban & Schwarzenberg.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496.
 1. Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
 1. Schacter, D.L., & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
