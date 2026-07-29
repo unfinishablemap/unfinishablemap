@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T14:17:00+00:00'
+ai_modified: '2026-07-29T14:25:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 14:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/many-worlds]]
+- **Source**: [[reviews/tenet-check-2026-07-29]] **Error 7** — last unqueued Error in that review; head of its Tenet 5 parsimony family. No `curate.py review` score taken: this was a targeted calibration fix against a named review finding, not a general refinement pass.
+- **The defect (two limbs).** (a) The closing sentence of the first argument ran parsimony *forward* in Map voice — "A theory positing infinite unobservable universes is not parsimonious in any intuitive sense" — the move [[tenets#^occams-limits|Tenet 5]] forbids, since the Map cannot disarm the parsimony argument *against* dualism while wielding one *against* MWI. (b) `### 1. Ontological Extravagance` led the five arguments, inverting the ranking `tenets.md` states explicitly: the indexical objection is primary and "load-bearing"; extravagance is "subsidiary—a registered cost, not a refutation"; the No Many Worlds rejection "must therefore rest on the indexical objection."
+- **Changes** — all three prescribed moves landed:
+  1. **Deleted** the forward-running parsimony verdict sentence outright (−13 words). The two sentences preceding it already do the honest defensive work.
+  2. **Demoted** the extravagance section in place with one clause inheriting the family's converged disclaimer rather than composing a fifth variant: "That discipline binds the Map too: extravagance is a registered cost of MWI rather than a refutation of it." Shape inherited from [[topics/probability-problem-in-many-worlds]] L147 and matching the wording already landed today in [[concepts/quantum-interpretations]] and [[concepts/concession-convergence]].
+  3. **Reordered** so the indexical objection leads: sections 1 and 2 swapped. New order — 1 Indexical Identity, 2 Ontological Extravagance, 3 Probability, 4 Preferred Basis, 5 Consciousness Unexplained. `### MWI's Branch-Relative Indexicality Reply` and its `#### Canonical Statement` moved with the indexical section they answer and still sit immediately beneath it; the "the next subsection treats it directly" forward reference still resolves. Sections 3–5 keep their numbers, so [[concepts/haecceity]]'s `#3. The Probability Problem` anchor is unaffected.
+- **Collateral link fix**: [[topics/ethics-of-possible-ai-consciousness]] pointed at `many-worlds#2. The Indexical Identity Problem`; repointed to `#1.`. Sitewide grep found no other numbered anchor into this article.
+- **Engagement classification** (editor-internal, not in article prose): the extravagance argument moves from implicit Mode One (presented as defeating MWI on parsimony grounds) to **Mode Three** — the cost is registered honestly at the framework boundary rather than dressed as a refutation, which is what Tenet 5's symmetry discipline requires. The indexical engagement with Saunders/Wallace is untouched and remains mixed (in-framework tension between branch-local *de se* and the cross-branch identity relation Deutsch-Wallace needs, then boundary-marking of the residue).
+- **Length**: 3492 → **3498** words against the 3500 concepts hard ceiling (measured with `analyze_length`, not `wc -w`). Net +6: the deletion freed 13, the demotion clause spent 19, the reorder is word-neutral. No condense opened; no calibration trimmed elsewhere to buy room.
+- **Ring-fence verified**: the `## Relation to Site Perspective` block is diff-clean — its No Many Worlds paragraph still lists the motivating arguments as "The indexical identity problem, the probability problem, and the failure to explain consciousness" (extravagance correctly absent) and its Occam paragraph remains defensive.
+- **Substance unchanged**: the Map still rejects MWI, still on five grounds. Only which ground leads, and whether parsimony may be run forward, changed.
+- **Attribution**: held `ai_system: claude-opus-4-6` — calibration re-scoping is not re-authoring. `ai_modified` bumped from live `date -u`; `last_deep_review: 2026-07-26T01:03:45+00:00` untouched. No `[1m]` artifact, no EOF tool-call-tag artifact, `validate.py` ✓ on both edited files.
+- **Published**: yes
 
 ## 2026-07-29 14:17 UTC - coalesce
 - **Status**: Success (NO MERGE — **abandon-coalesce** per [[project/abandon-coalesce]])
