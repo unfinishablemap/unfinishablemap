@@ -1,0 +1,83 @@
+---
+title: "Quantum Interface — Calibration History"
+description: "Relocated calibration audit trail for the quantum-interface positions register: the dated notes recording why each band moved, or why it did not."
+created: 2026-07-29
+modified: 2026-07-29
+human_modified: 2026-07-29
+ai_modified: 2026-07-29T02:12:39+00:00
+draft: false
+topics: []
+concepts:
+  - "[[evidential-status-discipline]]"
+related_articles:
+  - "[[positions/quantum-interface]]"
+  - "[[positions]]"
+  - "[[positions/methodology-and-calibration]]"
+ai_contribution: 100
+author: Andy Southgate
+ai_system: claude-opus-4-8+claude-opus-5
+ai_generated_date: 2026-07-29
+last_curated: null
+---
+
+## What this file is
+
+This is the relocated calibration audit trail for the [[positions/quantum-interface|quantum interface positions register]]. **It contains no positions.** Every claim the Map holds in this domain — status, calibration, asserts, dependencies, argued-in citations, and shift conditions — lives in the register file. Only the dated notes recording *why a band moved, or why it did not*, live here.
+
+The notes below are reproduced verbatim from the register as it stood on 2026-07-29, at which point the domain file had reached 4,872 words against the section's 4,000-word critical ceiling, with roughly a third of that bulk being accreted audit trail rather than live register content. Relocating it preserved every position ID, every calibration judgement, and every intra-file dependency reference; nothing was condensed, merged, or retired. Each register entry now carries a **Calibration history** line linking to the matching section below.
+
+**Convention going forward.** Dated update notes are provenance and belong here. What stays in the register entry is (a) a **Calibration history** line indexing the relocated notes, and (b), where a note carries a calibration judgement that no live field states, a compact **Band rationale** line carrying that judgement — P-Q1 is the only entry currently needing one. Notes are relocated at the next `/positions-evolve` touch of the entry. This caps steady-state note bulk in the domain file so its length tracks live register content rather than review history, and it generalises to the other domain files: `agency-and-will`, `methodology-and-calibration` and `ai-consciousness-scope` all sit over the hard advisory on the same accretion.
+
+## P-Q1
+
+Post-decoherence selection is the strongest current mechanism candidate. The two judgements the 2026-07-16 and 2026-07-27 notes carry that no live field states — why the notch is carried by a low-edge pin rather than a band relabel, and why the trumping concession does not by itself force a further drop — are retained in the register file as the entry's **Band rationale** line. The narrative below is the full record behind it.
+
+- **Updated 2026-06-05**: calibration pass — clarified the decoherence-timescale advantage does not discharge the bias-without-deviation dilemma; routed that residual to P-Q3. No confidence change.
+- **Updated 2026-07-16**: credence held at *moderate* but pinned to the low edge and explicitly conditionalized on the horn-(a) wager, following the CONVERGENT outer review (ChatGPT §1.3 "no empirically identifiable difference"; Claude "whether that leaves any content to the word 'selection' at all"; Gemini "engineers its own necessity"). The vacuity charge is answered *in principle*: the born-preserving conditional-signature formalism ([[apex/born-preserving-causal-efficacy]], "Where a Selection Could Show, If Anywhere") shows horn (a) — P(O | do(C), X) ≠ q(O | X) for some specifiable context X — is in-principle specifiable, so "selection" is not cratered to *low*. But the honest residue forces a one-notch reduction *within* moderate: (i) that signature is currently **unmeasured** — aggregate statistics are Born-exact by P-Q2 and the conditional residual-structure tests instantiated in [[apex/self-concealing-interface]] have not been run; (ii) P-Q3's epiphenomenalism horn (b) remains live; (iii) P-Q10 (no worked toy model) stands; and (iv) bounded Occam / Tenet 5 licenses humility, not a firm preference ordering — so the prior flat "moderate" leaned harder than Tenet 5 strictly permits. Net: a partial downgrade, contingent on the horn-(a) wager, not a crater. The schema's credence axis is coarse (bands *low* / *moderate* / *high* — [[methodology-and-calibration#^calibration-schema]]) with no sub-moderate band, so the notch is carried by the low-edge conditionalization rather than a band relabel.
+- **Updated 2026-07-25**: disambiguated the decoherence/collapse ontology (pessimistic-2026-07-25, Issue 1) — clarified that "post-decoherence" names selection's *timing relative to decoherence*, that decoherence yields an improper mixture rather than already-singular outcomes, and that under Tenet 4 the selection *is* the effective single-branch reduction. Closes the Quantum-Skeptic / Many-Worlds ambiguity that "already-decohered branch-outcomes" read as if outcomes pre-exist their selection. No confidence change.
+- **Updated 2026-07-27**: CONVERGENT outer review (2026-07-27; ChatGPT 5.6 Pro finding 2.1 + Claude Opus 5 headline) flagged that the flagship [[apex/born-preserving-causal-efficacy]] confesses — under its *preferred* Route 1 (trumping) — that the authorship/epiphenomenalism distinction becomes "entirely metaphysical, with no possible empirical consequence at any scale" (preemption also being symmetric), yet the register banked that honesty as a credential without propagating it here. Converted to a register action: (i) the moderate credence is now stated *explicitly conditional on the P-Q10 toy-model debt* (calibration line) — absent a worked model the preference is a working stance, not a demonstration; and (ii) a *binding* demotion trigger is added to "Would shift if" — exclusive commitment to Route 1 realizes horn (b) and drops the credence to *low*. Why the concession does not *by itself* force a further drop now: the empirical silence under trumping is already priced into the 2026-07-16 low-edge / horn-(a) conditionalization; a drop to *low* is reserved for horn (b) obtaining, and Route 2 (minimum-outside-corridor) remains the live interface-discriminating alternative, so that trigger has not fired; and P-Q1 ranks *mechanisms* on the decoherence-timescale axis, so the efficacy-indistinguishability concession bears primarily on P-Q3 while its downstream reach is already capped by the mechanism-debt convention. No band relabel; credence held moderate (low edge), now doubly conditionalized.
+
+The two 2026-06 subordination notes — the cross-register note of 2026-06-10 (the agency register's P-A3 Libet-timing entry carries a weakly-held *atemporal-selection* fallback, subordinate to this position rather than a competing primary claim) and the interpretation note of 2026-06-14 (the same subordination applies to the transactional-interpretation / two-state-vector-formalism route in [[topics/qm-interpretations-beyond-many-worlds]], rated high on conceptual resonance but low on mechanism specificity) — were **not** relocated. They state a live scope commitment rather than history, and were merged into the entry's **Subordination scope** line.
+
+## P-Q2
+
+The default reading of MQI preserves Born statistics exactly.
+
+- **Updated 2026-07-16**: calibration migration (outer-review conflation finding, ChatGPT + Claude). The old single "high" band decomposes to *high structural centrality* (the corridor reading is load-bearing for P-Q3/P-Q7/P-Q9) but *Grade-D external evidence* and *framework-internal: yes* — the Asserts already stated this is "structural to the default reading, not an empirical claim about neural systems," which the single band obscured. No change to the claim; the "high" was never high external likelihood.
+- **Updated 2026-07-25**: surfaced the not-yet-refereed status of the Torres Alegre 2025 no-signalling citation in Depends-on (pessimistic-2026-07-25, Issue 2), matching the caveat the source articles already carry ([[concepts/causal-consistency-constraint]], [[topics/born-rule-and-the-consciousness-interface]]) and flagging it as a compatibility result rather than positive support. No change to the claim.
+
+## P-Q3
+
+The bias-without-deviation dilemma is the strongest live challenge to the default mechanism. (The `^mechanism-debt` anchor these notes annotate sits on the entry's Asserts paragraph in the register file and is unaffected by this relocation.)
+
+- **Earlier history (summarised)**: 2026-06-16 — added the stable `^mechanism-debt` anchor and the domain header's *Mechanism-debt convention* note; named the epiphenomenalism framework-boundary pressure and marked the per-trial-vs-ensemble move as a *candidate* resolution. No confidence change.
+- **Updated 2026-07-15**: `Argued in` re-verified against today's cross-review of [[concepts/ensemble-level-epiphenomenalism]] (commit 1288d3603), which added the difference-making-vs-trumping layering seam; extended the gloss to track it. The change sharpens the same open dilemma rather than shifting it; confidence unchanged.
+- **Updated 2026-07-27**: cross-checked against the same CONVERGENT outer review (2026-07-27, ChatGPT 5.6 Pro + Claude Opus 5) that drove the P-Q1 register action. The flagship [[apex/born-preserving-causal-efficacy]] now states the trumping route's honest cost in full — under corridor-plus-trumping the authorship/epiphenomenalism distinction is "*entirely metaphysical*, with no possible empirical consequence at any scale," and the preemption machinery is symmetric (a physicalist can run the mirror move). This *reinforces* rather than shifts this position: it is direct confirmation that the dilemma is genuine and unresolved, which is exactly what this entry's credence axis tracks. So — contra a naive "propagate the uncertainty downward" reading — the band is **not** lowered here: P-Q3's high credence is credence *that the dilemma is real and open*, and the concession makes it more sharply so, not less. The mechanism debt (P-Q10) remains unpaid and the epiphenomenalism horn (b) remains live. Credence held high; the propagation this review demanded is carried by P-Q1's demotion trigger and P-Q10 conditionalization, not by demoting the position that names the debt.
+- **Updated 2026-07-28**: registered a second **candidate** account of the shape this entry's *Would shift if* asks for — "a positive account of how the bias makes a phenomenological difference without making a statistical one". [[concepts/inverted-qualia]] supplies a type/token distinction: a fine-grained functional isomorph reproduces the causal *pattern*, statistical envelope included, whereas MQI concerns which *token* outcome is drawn inside that envelope — a difference that is causally efficacious (so not epiphenomenal) without being organizational (so not reproduced by the isomorph). **The debt is not discharged.** The article itself books it as owed rather than paid — "The Map owes an account of that distinction rather than a free escape" — and the distinction has not been worked out or survived review, which is what the shift condition requires. It is recorded here so the candidate is visible and can be tested, not so it can be counted. **No band changed**, and specifically no credence upgrade: treating a candidate account as satisfaction of a shift condition would be exactly the coherence inflation this register exists to catch (see [[positions/methodology-and-calibration|P-M1]]).
+
+## P-Q6
+
+The parameter-free Diósi-Penrose model has been empirically falsified.
+
+- **Updated 2026-07-16**: calibration migration. Included as the foil to P-Q2/P-Q7: the old single "high" here is *high credence · Grade-A external evidence · low structural centrality · framework-internal: no* — high because a published experimental result (Donadi 2021) independently supports it, not because it is central to the Map (retiring it would barely restructure the framework). The opposite profile to P-Q2's "high."
+
+## P-Q7
+
+The default mechanism does not break Lorentz invariance or no-signalling.
+
+- **Updated 2026-06-10**: confidence normalized off-vocabulary "moderate-to-high" → **high** (positions audit 2026-06-09, Check 4). No-signalling safety is a structural consequence of Born-statistics preservation, inheriting P-Q2's high confidence plus the Torres Alegre (2025) theorem; the "moderate" pull was a scope caveat already handled in Asserts, not a softer justification.
+- **Updated 2026-07-16**: calibration migration. The old "high" decomposes to *high structural centrality* (no-signalling safety is load-bearing for the framework's physical consistency) with *Grade-C external evidence* (the Torres Alegre 2025 theorem supports it, but conditional on the framework-internal corridor) and *framework-internal: yes* (holds "only for the default reading"). The 2026-06-10 audit's inheritance-of-P-Q2 reasoning is exactly the centrality-not-likelihood inheritance the multi-axis schema now makes explicit.
+- **Updated 2026-07-25**: softened "supported by" → "compatible with / consistent with" for the Torres Alegre 2025 theorem in both Calibration and Asserts, and surfaced its unrefereed-preprint status (pessimistic-2026-07-25, Issue 2). The theorem establishes no-signalling *safety* and does no work *for* the interface reading over rivals — a compatibility result, not positive evidence — matching the caveat the source articles carry. Grade held at C (the schema has no C-minus band) but explicitly scoped as compatibility-conditional-on-the-corridor rather than positive support; credence and centrality unchanged.
+
+## P-Q9
+
+The interface is self-concealing by construction.
+
+- **Updated 2026-06-05**: calibration pass (pessimistic-2026-06-05) — restricted self-concealment to the aggregate-statistics channel and named the positive falsifiable residue (P-Q5/P-Q6 mechanism exposure; falsification roadmap), so it is not read as a global unfalsifiability shield. No confidence change.
+- **Updated 2026-07-28**: extended the positive falsifiable residue from *mechanism-level* channels alone (coherence time, microtubule signature, Diósi-Penrose) to include a **psychophysical** channel, following [[concepts/inverted-qualia]]'s MQI section: an actual qualia inversion is predicted to show in aesthetic preference, emotional valence, reaction-time asymmetry, and the fine structure of introspective report, at finer grain than coarse discrimination tasks. The residue list had been silent on this, which made self-concealment read as broader than the corpus actually holds it. No band changed — the discriminability axis stays *indirect*: the psychophysical channel bears on the framework the same way the mechanism-level ones do, and adding a second indirect channel is not a move to *direct*.
+
+## P-Q10
+
+No worked toy model of the mechanism currently exists.
+
+- **Updated 2026-07-25**: added the negative-result (joint-unsatisfiability) branch to "Would shift if" (pessimistic-2026-07-25, Issue 3) so the shift-conditions record the *Failure* outcome the roadmap body already describes, not only the positive outcome and the abandonment decision. No confidence change.

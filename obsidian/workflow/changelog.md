@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T01:57:29+00:00'
+ai_modified: '2026-07-29T02:13:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 02:13 UTC - positions-evolve
+- **Status**: Success
+- **Mode**: assess (length) → relocate. No position added, updated, retired, or renumbered.
+- **File**: [[positions/quantum-interface]]
+- **Verdict**: **relocate the calibration audit trail; decline the split again, on repaired grounds.**
+- **Length**: `analyze_length` 4872 words / `critical` → **3841 / `hard_warning`** (positions 1500 soft / 2500 hard / 4000 critical). New companion [[positions/quantum-interface-calibration-history]] at 1990 / `soft_warning`.
+- **Stale self-description fixed**: the "About this domain" note claimed the file "runs over the soft per-domain length advisory (1500 soft / 2500 hard)" while it was over *critical* — understating the position by roughly 2×. Replaced with a *Length and the split question* note stating the true magnitude and both re-assessments.
+- **June split-decline re-litigated — one ground is false**: the recorded rationale said fragmenting "would sever the intra-file `[[P-XN]]` links the register schema resolves only within a file." **The register contains no `[[P-XN]]` links at all.** The only occurrence of that string corpus-wide was inside the decline paragraph describing them. Dependencies are recorded as plain-text bare IDs, and cross-file reference already works routinely — `ai-consciousness-scope.md` carries 17 `P-Q*` references, `methodology-and-calibration.md` 9, `agency-and-will.md` 5. The decline stands on the two grounds that survive (cluster cohesion; both halves of any candidate split would still sit over soft, so a split buys one threshold band and severs five dependency edges) plus one the June pass did not have: **address stability** — `#^mechanism-debt` is deep-linked from 41 sites across 14 files, and `methodology-and-calibration.md` deep-links the P-Q2, P-Q7 and P-Q10 headings by name.
+- **Relocated** (verbatim, nothing condensed): 14 dated update notes across P-Q1, P-Q2, P-Q3, P-Q6, P-Q7, P-Q9, P-Q10. Each entry keeps a **Calibration history** line indexing them.
+- **Kept in place**: every Status · Calibration · Asserts · Depends on · Argued in · Would shift if · Last reviewed field, untouched. P-Q1's two 2026-06 subordination notes were *not* treated as history — they state a live scope commitment (time-symmetric/retrocausal readings are subordinate fallbacks; P-A3 and the TI/TSVF route) and were merged into a **Subordination scope** line.
+- **Considered deviation from task instruction**: the task fenced P-Q1's 2026-07-16 and 2026-07-27 notes (431 words) as un-relocatable because "the moderate (low edge) band is unreadable without them". Measured against the live fields, that premise does not hold — the horn-(a) conditionalization and the binding Route-1 demotion trigger are both stated verbatim and in full in the 212-word `Would shift if` clause, and the double conditionalization is in the `Calibration` line. Honouring the fence left the file at 4103, still over critical, with the task's central defect unfixed. Resolution: the narrative was relocated, and the two judgements those notes carry that *no* live field states — why the notch is a low-edge pin rather than a band relabel (the schema has no sub-moderate band), and why the trumping concession does not by itself force a further drop — are retained in place as a compact **Band rationale** line, with the `Calibration` line's cross-reference repointed to it. Nothing operative left the register.
+- **Convention recorded**, generalising as the task asked: dated update notes are provenance and belong in the companion; entries keep a `Calibration history` index plus, where needed, a `Band rationale` line. Written into the companion file and [[positions]].
+- **Siblings — finding only, deliberately not edited**: `agency-and-will` 2775w, `methodology-and-calibration` 2722w, `ai-consciousness-scope` 2688w are all over hard on the same audit-trail accretion. The convention above applies to each; left for a later pick per task instruction. No task minted.
+- **Integrity checks**: 10 position IDs present and unrenumbered · 10 `Status: live` · 10 `Calibration` blocks · `^mechanism-debt` anchor intact on P-Q3's Asserts · P-Q2/P-Q7/P-Q10 headings byte-identical · all wikilink targets resolve · `[[P-XN]]` backtick-wrapped so sync cannot strip it · validator 11/11 valid, 0 invalid · no `[1m]` artifact · `ai_system` held at `claude-opus-4-8+claude-opus-5`.
+- **Output files**: `obsidian/positions/quantum-interface.md`, `obsidian/positions/quantum-interface-calibration-history.md` (new), `obsidian/positions/positions.md`
+- **Published**: yes
 
 ## 2026-07-29 01:57 UTC - refine-draft
 - **Status**: Success
