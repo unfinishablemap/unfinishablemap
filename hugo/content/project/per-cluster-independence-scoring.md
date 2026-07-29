@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-06-04 08:15:28+00:00
+ai_modified: 2026-07-29 11:45:56+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -28,6 +28,7 @@ related_articles:
 - '[[apex/taxonomy-of-voids]]'
 - '[[the-surplus-void]]'
 - '[[topics/introspection-architecture-independence-scoring]]'
+- '[[medium-status-cluster-independence-scoring]]'
 - '[[topics/cross-species-behavioural-confidence-proxy-tests]]'
 - '[[concepts/anti-correlated-metacognitive-signal]]'
 - '[[tenet-generated-voids]]'
@@ -38,7 +39,7 @@ title: Per-Cluster Independence Scoring
 topics: []
 ---
 
-*Per-cluster independence scoring* is the Map's methodology for converting the four apophatic-cartography criteria into a calibration instrument applied one cluster at a time. Each [voids](/voids/) cluster is scored against [signature specificity, structured persistence, cross-observer convergence, and framework independence](/concepts/apophatic-cartography-four-criteria/), and the cluster's *score profile* — not a single aggregate verdict — is what subsequent articles cite when they ask the cluster to do inferential work. The methodology is the operational layer below [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) (the definitional layer) and above [voids-circularity-discount](/project/voids-circularity-discount/) (the aggregation layer). Articles across the catalogue cite it by name — sister disciplines, both worked exhibits, the apex taxonomy, and a concept page — and this page is the canonical definition they defer to.
+*Per-cluster independence scoring* is the Map's methodology for converting the four apophatic-cartography criteria into a calibration instrument applied one cluster at a time. Each [voids](/voids/) cluster is scored against [signature specificity, structured persistence, cross-observer convergence, and framework independence](/concepts/apophatic-cartography-four-criteria/), and the cluster's *score profile* — not a single aggregate verdict — is what subsequent articles cite when they ask the cluster to do inferential work. The methodology is the operational layer below [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) (the definitional layer) and above [voids-circularity-discount](/project/voids-circularity-discount/) (the aggregation layer). Articles across the catalogue cite it by name — sister disciplines, the worked exhibits, the apex taxonomy, and a concept page — and this page is the canonical definition they defer to.
 
 The methodology exists because the [taxonomy of voids](/apex/taxonomy-of-voids/) cannot afford to treat all entries as equally evidence-bearing. Some clusters earn substantial inferential weight against the [common-cause null](/project/common-cause-null/); others earn only framework-internal-coherence credit; the surface count of entries does not discriminate. Per-cluster scoring makes the discrimination visible. Its register is *strength-indication*: it reports which clusters are load-bearing for which claims, leaving the separate work of tier-graduation to [the evidential-status discipline](/project/evidential-status-discipline/) at the single-claim layer.
 
@@ -70,9 +71,9 @@ Each of the four criteria receives a *qualitative* score — strong, moderate, w
 
 The asymmetric application criterion (4) admits — *high on the architectural finding, lower on the interpretive significance* — is the methodology's most important refinement and is preserved in the profile rather than collapsed.
 
-## The Two Worked Exhibits
+## The Worked Exhibits
 
-The methodology was developed against two worked exhibits, scored under the same procedure, producing visibly different profiles. The two-exhibit comparison is the methodology's demonstration that the four-criterion framework is not a flat instrument — different clusters earn different scores.
+The methodology was developed against two worked exhibits, scored under the same procedure and producing visibly different profiles; a third — [the medium-status cluster](/project/medium-status-cluster-independence-scoring/), 2026-05-27 — was added afterwards as a deliberately unfavourable test scored against a rubric fixed before its anchors were examined. The comparison across exhibits is the methodology's demonstration that the four-criterion framework is not a flat instrument — different clusters earn different scores. The demonstration remains provisional in the specific way §"Honest Limitations" records: the third exhibit closed the *unstated-standard* leg of the self-validation worry, not the *same-hand* leg.
 
 ### Exhibit One: The Surplus Void
 
@@ -104,7 +105,7 @@ The cluster *partially* retains its evidential weight under the discount. Its di
 
 The two profiles are visibly different. The surplus void scores *moderate / strong / weak / weak*; the introspection-architecture cluster scores *strong / strong / mixed / split (high architectural, lower interpretive)*. The methodology produces these scores under the same procedure applied to both clusters — the differentiation comes from the cluster anchors, not from reviewer adjustment. The two-exhibit comparison is therefore the methodology's existence proof: scoring discriminates rather than rationalises, *for at least these two cases*.
 
-The N=2 scope condition matters. With one cluster retracted and one partially retained, the discrimination is consistent with both *methodology works* and *methodology rationalises curatorial decisions already made*. The strongest non-flatness claim would come from an unfavourable test case — a cluster the methodology scores *higher* than its catalogue framing had expected, or a cluster the methodology scores *lower* than the cataloguer would prefer. Such a case is the open burden; the methodology rests provisional pending it.
+The scope condition on this pair matters, and has since been partly discharged. With one cluster retracted and one partially retained, the discrimination was consistent with both *methodology works* and *methodology rationalises curatorial decisions already made*. The strongest non-flatness claim would come from an unfavourable test case — a cluster the methodology scores *lower* than the cataloguer would prefer, against a standard fixed in advance. [The medium-status exhibit](/project/medium-status-cluster-independence-scoring/) is that case: run against a rubric written before its anchors were examined, it returned *moderate / moderate / weak / weak* on a cluster whose surface density the cataloguer had expected to read as strong. That addresses the *unstated-standard* leg of the worry. It leaves the *same-hand* leg untouched — one author wrote the rubric and applied it — so the methodology rests provisional pending independent application.
 
 ## What the Methodology Does Not Claim
 
@@ -142,9 +143,9 @@ The methodology inherits the recursive bind [apophatic-cartography-four-criteria
 
 A second limitation: the scoring is editor-vocabulary, not algorithmic. The despite-commitments / because-prediction classification at step 4 depends on judgements about what the authoring framework empirically predicted; finer classification by reviewers in different frameworks would shift some anchors at the margins. The classification is principled but not mechanical, and articles that cite the cluster's profile inherit the judgement-ladenness implicit in the classification.
 
-A third limitation: the methodology discriminates most sharply between empirical-anchor clusters (where the despite-commitments / because-prediction split applies in full force) and less sharply between conceptual-anchor clusters (where the split applies only weakly and criterion (4) reduces to framework-translatability). The two worked exhibits straddle this divide and the methodology's profiles differ visibly across it; cluster readings should record the scope condition as a calibration mark rather than treating the profile as equally sharp on both sides.
+A third limitation: the methodology discriminates most sharply between empirical-anchor clusters (where the despite-commitments / because-prediction split applies in full force) and less sharply between conceptual-anchor clusters (where the split applies only weakly and criterion (4) reduces to framework-translatability). The worked exhibits straddle this divide and the methodology's profiles differ visibly across it; cluster readings should record the scope condition as a calibration mark rather than treating the profile as equally sharp on both sides.
 
-A fourth limitation: the N=2 burden. Both existing exhibits produced scores consistent with prior catalogue framing (the surplus void was already under retraction pressure; the introspection-architecture cluster's strength was already visible to internal review). Until the methodology delivers a cataloguer-unfavourable score on a cluster the cataloguer would have preferred to read otherwise, the non-flatness claim is provisional.
+A fourth limitation: the same-hand burden, which is what remains of the original N=2 burden. The first two exhibits both produced scores consistent with prior catalogue framing (the surplus void was already under retraction pressure; the introspection-architecture cluster's strength was already visible to internal review), so the score could not be told apart from the framing it agreed with. The [medium-status exhibit](/project/medium-status-cluster-independence-scoring/) supplies the cataloguer-unfavourable case that was missing: a cluster the cataloguer would have preferred to read as strong, scored against criteria fixed before the anchors were examined, returning *moderate / moderate / weak / weak*. What that does not supply is a second pair of hands. The rubric's author and its applier are the same person, so a sceptic can still say the rubric was reverse-engineered from the verdict it delivered. Until a grader from the [three-service outer-review programme](/project/outer-reviewer-service-calibration/) applies the rubric independently, the non-flatness claim remains provisional — better founded than it was at N=2, and still short of established.
 
 ## What Would Challenge the Methodology
 
@@ -170,6 +171,7 @@ The methodology is silent on [Tenet 2 — Minimal Quantum Interaction](/tenets/#
 - [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive method whose move-four downward audit applies this scoring to an article's own convergence count: distinguishing genuinely independent witnesses from a rival miscatalogued as a friendly witness or a parallel proposer double-counted as evidence
 - [the-surplus-void](/voids/the-surplus-void/) — first worked exhibit (retraction case)
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — second worked exhibit (partial-retention case)
+- [medium-status-cluster-independence-scoring](/project/medium-status-cluster-independence-scoring/) — third worked exhibit (low-scoring case): the pre-registered-rubric test that addresses the unstated-standard leg of the self-validation worry
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/#the-cross-species-channel) — the cross-species and cross-tradition channel audits running the methodology face-by-face on the introspection-architecture cluster
 - [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/) — design-side companion making the cross-species face-asymmetry explicit
 - [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) — concept page citing the methodology for its architecture-vs-significance two-tier reading

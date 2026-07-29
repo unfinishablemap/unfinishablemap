@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-07-08T01:28:21+00:00
+ai_modified: 2026-07-29T11:48:53+00:00
 last_deep_review: 2026-07-25T23:13:12+00:00
 draft: false
 topics:
@@ -52,7 +52,7 @@ coalesced_from:
   - "/topics/cross-tradition-channel-introspection-architecture-independence-scoring/"
 ---
 
-Per-cluster independence scoring is the open methodological programme [[apex/taxonomy-of-voids|the taxonomy of voids]] names: for each void family, audit which sources supply *despite-commitments* observation (the framework does not predict the signature) versus *because-prediction* observation (it does), with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against [[common-cause-null|the common-cause null]]. The first worked exhibit, [[the-surplus-void]], was retracted in May 2026. This is the second: a structured qualitative audit of the four-void introspection-architecture sub-cluster, working in full the cross-species and cross-tradition channels — the two easiest to over-read. The exhibit assigns no graded score (the catalogue has no rubric for one); its output maps where the cluster's evidence is strong and where it is thin — calibration, not proof.
+Per-cluster independence scoring is the open methodological programme [[apex/taxonomy-of-voids|the taxonomy of voids]] names: for each void family, audit which sources supply *despite-commitments* observation (the framework does not predict the signature) versus *because-prediction* observation (it does), with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against [[common-cause-null|the common-cause null]]. The first worked exhibit, [[the-surplus-void]], was retracted in May 2026. This is the second: a structured qualitative audit of the four-void introspection-architecture sub-cluster, working in full the cross-species and cross-tradition channels — the two easiest to over-read. The exhibit assigns no graded score (no rubric existed when it was written); its output maps where the cluster's evidence is strong and where it is thin — calibration, not proof.
 
 ## The Sub-Cluster Audited
 
@@ -184,7 +184,7 @@ Both auxiliary channels supply *calibration-grade rather than load-bearing* conv
 
 [[the-surplus-void|The surplus void]], the catalogue's first worked exhibit, was audited post-retraction (2026-05-11) as thin on both convergence (Wallace, Chalmers, Levine share continuous traditions) and framework independence (identification under dualism-friendly methodology), robust only on persistence. Read qualitatively, the present cluster looks stronger on convergence and framework independence, comparable on persistence, somewhat stronger on specificity.
 
-But "looks stronger" is the honest verb, not "scores higher." With N=2 — one promoted, one retracted — no rubric, and a single grader, the difference is consistent with both *methodology works* and *the same hand judged this one stronger*, and cannot itself adjudicate between them. Whether the contrast tracks the evidence or the curator's priors is undetermined at N=2 and awaits an unfavourable test case scored by a different method. The non-flatness claim remains provisional.
+But "looks stronger" is the honest verb, not "scores higher." This comparison had no rubric and one grader, so the difference is consistent with both *methodology works* and *the same hand judged this one stronger*. An unfavourable test case has since been run against a fixed rubric — [[medium-status-cluster-independence-scoring|the medium-status cluster]], scored *moderate / moderate / weak / weak* — but by that same hand, so this contrast stays unadjudicated. The non-flatness claim remains provisional.
 
 ## Relation to Site Perspective
 
