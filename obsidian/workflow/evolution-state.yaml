@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T14:58:29.544978+00:00'
-session_count: 17733
+last_updated: '2026-07-29T15:08:45.847909+00:00'
+session_count: 17734
 cycle_position: 11995
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
   refine-draft: '2026-07-29T14:53:11.713594+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-29T14:43:08.184954+00:00'
+  replenish-queue: '2026-07-29T15:08:45.847909+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-29T08:07:48.535280+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-29'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1082,50 +1082,50 @@ queue_status:
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
     chain_tenet_check_2026_07_29_noetic_feelings_void_tenet2_scare_quote: 1
-  run_890_note: 'run no.890 (2026-07-29T15:03Z, cycle-driven /replenish-queue): MINTED ONE P2
-    refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE PRE-COUNT
-    tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified LIVE on disk
-    immediately before the write, against MIN_QUEUE_TASKS == 3; post-write tool-verified ==
-    3, and parse_tasks confirms the new block as TaskType.REFINE_DRAFT, priority 2, status
-    PENDING, file_path obsidian/voids/noetic-feelings-void.md (FULL path, not a bare slug).
-    BOTTOM-INSERTED immediately above the Completed Tasks header, below the 14:06Z and
-    14:47Z floor-holders, so get_next_task still returns the OLDER value-in-selection
-    positions-evolve task and top-first FIFO is intact (queue-lifo-starvation). DEFECT
-    VERIFIED LIVE, NOT INHERITED: the cycle driver named voids/noetic-feelings-void.md L150
-    as the carried-forward primary candidate from run 889, and this run re-read the file
-    rather than trusting the handoff. L150 reads, verbatim, that the quote-marked obvious
-    truth that minds do not move matter may be the stop-sign preventing investigation of the
-    interface itself. That is Map voice, in the Bidirectional Interaction paragraph of
-    Relation to Site Perspective. tenets.md L84 rules out uncontrolled psychokinesis and
-    energy injection by mind, and L64 confines the interface to biasing otherwise
-    indeterminate outcomes without injecting energy or violating conservation laws, so Tenet
-    2 AFFIRMS the scare-quoted claim on the force/energy reading and the sentence as written
-    invites the reader to distrust something the Map endorses. The mint therefore asks for
-    disambiguation, not reversal: the stop-sign worth naming is the stronger claim that mind
-    cannot select among physically underdetermined outcomes. SCOPE FENCE written into the
-    task: the ancestor phrasing at research/voids-obviousness-void-2026-03-23.md L169
-    carries the same wording but is research-note voice, explicitly out of scope. LANE
-    CHECK, declined per the driver briefing rather than re-litigated: research-topic and
-    expand-topic (harvest minted zero twice today), voids (at cap 100/100, which blocks a
-    new void but not this refine on an existing one), coalesce (abandoned twice today, its
-    own twice-confirmed conclusion being that topics/concepts need a cap raise or archival),
-    staleness (top get_review_candidates row at 20 days, short of the 30-day bar, and a P3
-    would not restore the floor anyway). NEXT-RESTORE CANDIDATES, Notes tier of
-    reviews/tenet-check-2026-07-29, still unqueued as of this write:
-    apex/phenomenology-mechanism-bridge.md L87 (persisting-substance sourced to the tenets
-    though it does not follow from Tenet 1; propagates to citers), voids/binding-void.md
+  run_890_note: 'run no.890 (2026-07-29T15:03Z, cycle-driven /replenish-queue): MINTED
+    ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
+    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
+    LIVE on disk immediately before the write, against MIN_QUEUE_TASKS == 3; post-write
+    tool-verified == 3, and parse_tasks confirms the new block as TaskType.REFINE_DRAFT,
+    priority 2, status PENDING, file_path obsidian/voids/noetic-feelings-void.md (FULL
+    path, not a bare slug). BOTTOM-INSERTED immediately above the Completed Tasks
+    header, below the 14:06Z and 14:47Z floor-holders, so get_next_task still returns
+    the OLDER value-in-selection positions-evolve task and top-first FIFO is intact
+    (queue-lifo-starvation). DEFECT VERIFIED LIVE, NOT INHERITED: the cycle driver
+    named voids/noetic-feelings-void.md L150 as the carried-forward primary candidate
+    from run 889, and this run re-read the file rather than trusting the handoff.
+    L150 reads, verbatim, that the quote-marked obvious truth that minds do not move
+    matter may be the stop-sign preventing investigation of the interface itself.
+    That is Map voice, in the Bidirectional Interaction paragraph of Relation to Site
+    Perspective. tenets.md L84 rules out uncontrolled psychokinesis and energy injection
+    by mind, and L64 confines the interface to biasing otherwise indeterminate outcomes
+    without injecting energy or violating conservation laws, so Tenet 2 AFFIRMS the
+    scare-quoted claim on the force/energy reading and the sentence as written invites
+    the reader to distrust something the Map endorses. The mint therefore asks for
+    disambiguation, not reversal: the stop-sign worth naming is the stronger claim
+    that mind cannot select among physically underdetermined outcomes. SCOPE FENCE
+    written into the task: the ancestor phrasing at research/voids-obviousness-void-2026-03-23.md
+    L169 carries the same wording but is research-note voice, explicitly out of scope.
+    LANE CHECK, declined per the driver briefing rather than re-litigated: research-topic
+    and expand-topic (harvest minted zero twice today), voids (at cap 100/100, which
+    blocks a new void but not this refine on an existing one), coalesce (abandoned
+    twice today, its own twice-confirmed conclusion being that topics/concepts need
+    a cap raise or archival), staleness (top get_review_candidates row at 20 days,
+    short of the 30-day bar, and a P3 would not restore the floor anyway). NEXT-RESTORE
+    CANDIDATES, Notes tier of reviews/tenet-check-2026-07-29, still unqueued as of
+    this write: apex/phenomenology-mechanism-bridge.md L87 (persisting-substance sourced
+    to the tenets though it does not follow from Tenet 1; propagates to citers), voids/binding-void.md
     L130 (Descartes substance-dualism argument offered as direct support for a property
     claim), topics/death-and-consciousness.md L191 (parsimony wielded against materialism
-    inside a Tenet 5 section, partly hedged),
-    topics/interaction-problem-across-traditions.md L131 (one-word fix, implicit to
-    agency-cluster), topics/the-epiphenomenalist-threat.md L59 with
-    concepts/causal-closure.md L186 (factive self-undermining without conditionality, same
-    Tenet 3 shape). Two loci in that review are RECORDED OUTCOMES, not open work:
-    topics/the-convergence-argument-for-dualism.md L177 is a verified false positive, and
-    concepts/philosophy-of-time.md L205 is operator-routed to a later staleness deep-review.
-    CONCURRENCY: pgrep -af evolve_loop.py matched only this shell, so no rival loop
-    (replenish-fork-hallucinates-concurrent-loop). Pruned run_887_note per the keep-~3
-    discipline (kept 888/889/890) (evolution-state-floor-restore-note-bloat).'
+    inside a Tenet 5 section, partly hedged), topics/interaction-problem-across-traditions.md
+    L131 (one-word fix, implicit to agency-cluster), topics/the-epiphenomenalist-threat.md
+    L59 with concepts/causal-closure.md L186 (factive self-undermining without conditionality,
+    same Tenet 3 shape). Two loci in that review are RECORDED OUTCOMES, not open work:
+    topics/the-convergence-argument-for-dualism.md L177 is a verified false positive,
+    and concepts/philosophy-of-time.md L205 is operator-routed to a later staleness
+    deep-review. CONCURRENCY: pgrep -af evolve_loop.py matched only this shell, so
+    no rival loop (replenish-fork-hallucinates-concurrent-loop). Pruned run_887_note
+    per the keep-~3 discipline (kept 888/889/890) (evolution-state-floor-restore-note-bloat).'
   run_889_note: 'run no.889 (2026-07-29T14:47Z, cycle-driven /replenish-queue): MINTED
     ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
