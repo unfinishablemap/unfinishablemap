@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T06:52:49+00:00'
+ai_modified: '2026-07-29T07:05:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 07:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
+- **Word count**: 2043 → 2239 (+196; 75% of the 3000 topics soft threshold, no offsetting cuts needed)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Seventh review of a converged article.** The only diff since the 2026-06-26 pass was a `refine-draft` six hours earlier that swapped the water/H₂O contrast in the explanatory-gap paragraph for Levine's actual heat/molecular-motion case. Freshly-introduced quote-marked text is the corpus's highest-risk surface, so this pass re-verified it at the primary text rather than treating the diff as cosmetic.
+- **Citation web-verify (publisher of record)**: Levine 1983 **real-correct** — both new quotations confirmed *verbatim* against the scanned PPQ offprint: Levine's numbered examples read "(1) Pain is the firing of C-fibers." and "(2) Heat is the motion of molecules." (hyphenation matches; Levine numbers pain first, the article leads with heat as the contrast case, which is how Levine uses it argumentatively). Causal-role paraphrase confirmed faithful against IEP and the Information Philosopher scan — **not** against the Map's own pages, avoiding the `quote-verify-self-contamination` trap. Kuhn 1962 p. 79 quote re-confirmed verbatim and on-page. Leibniz 1714, Locke 1690, Lakatos 1978 metadata real-correct. Self-cite URL still live (2026-06-26 link-rot fix has held). No fabrications.
+- **Corpus residual sweep**: the refine commit flagged an un-enumerated Levine/water-H₂O residual. Swept all 9 article files containing both "Levine" and "H₂O"/"H2O" — **no residual misattribution**. Every other co-occurrence uses water/H₂O as the Map's own illustration without attributing the example to Levine. The residual was this article; now closed.
+- **Changes**:
+  - **Pre-paradigm objection stated and answered (new paragraph in "The Structure of Crisis").** The article diagnoses consciousness studies as a paradigm *in crisis*, but Kuhn's own scheme holds a rival category it never considered: *pre-paradigm* science, where competing schools contend because no framework has won consent. Theory proliferation — the article's second piece of crisis evidence — fits both, so the evidence underdetermined the diagnosis. Not bedrock: a tenet-accepting reviewer would still press it, and it is answerable from resources the article already had. Six prior reviews never raised it (grep-confirmed). The reply turns on the normal science: pre-paradigm fields lack an agreed puzzle-solving tradition and consciousness studies has one in the NCC programme. Closes by conceding Kuhn's own preface doubted the social sciences had paradigms at all, so the categorisation is a question his framework sharpens more than it settles — matching the article's hedged register.
+  - **Lakatos re-framed** — `citation-framing-accuracy` pattern: real, correctly cited, mis-framed. "Reinforced this point" implied an alignment with Kuhn that Lakatos did not hold; MSRP was a *corrective* to Kuhn. Re-framed, not removed, since the substantive convergence on "no rejection without substitution" is genuine.
+  - **IIT mischaracterisation fixed** — "derives consciousness from mathematical structure rather than physical mechanism" misstates IIT, whose postulates are explicitly about physical substrates with intrinsic cause-effect power (the substrate requirement is why Tononi denies a brain simulation would be conscious). Replaced with the departure the article actually wanted: reasoning from axioms about experience to constraints on substrates, inverting the usual route from neural data to theory.
+  - **Chalmers 1996 orphan reference anchored inline** — the References entry had no inline anchor; body carried only "Chalmers in 1994". Now "named by Chalmers in 1994 and developed at length in *The Conscious Mind* (1996), but he did not invent it." Inline ↔ References cross-references cleanly in both directions.
+  - Frontmatter: `ai_system` `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5` (new argumentative paragraph authored this pass); `ai_modified` and `last_deep_review` both stamped 2026-07-29T07:05:35+00:00.
+- **Calibration check**: no possibility/probability slippage. The Kuhn fit is labelled interpretive throughout, dualism is a *candidate* successor explicitly lacking an exemplary solution, MQI is "programmatic rather than fully developed". Nothing upgraded on the evidential-status scale by tenet-coherence alone.
+- **Engagement classification**: no named-opponent replies inside their own frameworks, so no reasoning-mode classification applies. Leak scan for editor vocabulary: clean. `find_superlative_claims` empty. EOF clean; no ANSI `[1m]` artifact (corpus grep empty).
+- **Output**: [[reviews/deep-review-2026-07-29-consciousness-and-the-structure-of-scientific-revolutions]]
 
 ## 2026-07-29 06:52 UTC - refine-draft
 - **Status**: Success
