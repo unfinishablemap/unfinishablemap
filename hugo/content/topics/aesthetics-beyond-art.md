@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-07-09
 ai_modified: 2026-07-28 15:59:30+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
 - /topics/everyday-aesthetics/

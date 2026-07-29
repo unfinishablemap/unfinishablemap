@@ -25,7 +25,7 @@ related_articles:
   - "[[phenomenal-normativity-environmental-ethics]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-07-28T15:59:30+00:00
