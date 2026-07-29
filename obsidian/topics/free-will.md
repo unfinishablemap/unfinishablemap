@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-28T15:45:08+00:00
+ai_modified: 2026-07-29T11:07:54+00:00
 last_deep_review: 2026-07-11T04:20:00+00:00
 draft: false
 topics:
@@ -106,7 +106,7 @@ Schwitzgebel (2011) has documented pervasive introspective failures. Why trust p
 
 ### The Phenomenology of Choice
 
-The [[phenomenology-of-choice-and-volition|phenomenology of choice]] provides direct evidence that consciousness selects rather than merely observes. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
+The [[phenomenology-of-choice-and-volition|phenomenology of choice]] suggests that consciousness selects rather than merely observes, though it cannot exhibit that selection from inside — the [[agency-void#The Verification Circularity|verification circularity]] blocks first-person confirmation of causal power, so the support here is indirect. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
 
 ### Counterfactual Reasoning
 

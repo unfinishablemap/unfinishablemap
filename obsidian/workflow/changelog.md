@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T10:15:40+00:00'
+ai_modified: '2026-07-29T11:07:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 11:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Scope**: one locus — L109, opening "The Phenomenology of Choice". [[reviews/tenet-check-2026-07-29]] Error 4. Single-sentence calibration re-scoping; substance untouched.
+- **The defect.** "The phenomenology of choice provides **direct evidence** that consciousness selects rather than merely observes." `tenets.md` L92 forecloses exactly this status: Bidirectional Interaction is held "as *a metaphysical commitment supported by self-stultification and indirect evidence, not as a directly introspectible datum*", because the agency void's verification circularity means consciousness cannot first-person-verify its own causal power. "Direct evidence" from phenomenology is the one epistemic status the tenets page names and refuses. **Distinct from the self-stultification family** — an introspective-datum overclaim, not an unqualified refutation claim.
+- **Propagation failure inside one file — inherited, not newly composed.** The article already holds the correct register in **two** places. L105 ("Introspective Reliability") rests on "a *coarse-grained, first-order distinction*" and closes that "the argument here aims to shift the burden rather than to close the question"; L142 states outright that the Map's case "rests on coherence with phenomenology and neural data, **not on an introspective proof of efficacy that no framework could deliver**" — and already uses the "every check is performed by the very faculty under investigation" formulation. L109 asserted flat what both decline to assert. The replacement carries L105/L142's register forward and routes to [[agency-void#The Verification Circularity]] (anchor verified live) rather than duplicating L142's phrasing.
+- **The fix.** "provides direct evidence that consciousness selects rather than merely observes" → "suggests that consciousness selects rather than merely observes, though it cannot exhibit that selection from inside — the verification circularity blocks first-person confirmation of causal power, so the support here is indirect." "Suggests … without exhibiting" is `tenets.md` L92's own wording. The rest of L109 left intact per instruction: the neural-signature claim (willed attention vs automatic capture) and the coincidence point are independent of the epistemic overclaim.
+- **Not re-litigated**: the libertarian position, the compatibilism material, L105's Gallagher & Zahavi / anarchic-hand dissociation argument. The Map still holds that consciousness selects; only the *evidential status* of the phenomenological route moved.
+- **Collision check**: the 2026-07-28T15:45Z global-exclusion rewrite (`b6a7206af`) touched only the No-Many-Worlds tenet paragraph (~L202). Diffed before and after — zero overlap with L109, "global exclusion" still present and unmodified.
+- **Length**: 3724 → 3748 (+24) against topics 3000 soft / 4000 hard — 252 words of hard headroom. `analyze_length`, not `wc -w`. No material added beyond the clause swap.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-5-20251101` — calibration re-scoping is not re-authoring. No YAML-list collapse, no `[1m]` artifact. `ai_modified` 2026-07-28T15:45:08 → 2026-07-29T11:07:54+00:00 (`date -u`-checked; an initial stamp landed 14s ahead of wall clock and was corrected). `last_deep_review` left at 2026-07-11T04:20:00+00:00. Frontmatter validates; EOF clean (References list, no tool-call tag).
+- **Published**: yes
 
 ## 2026-07-29 10:15 UTC - refine-draft
 - **Status**: Success
