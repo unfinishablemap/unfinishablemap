@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-06-19 06:20:00+00:00
+ai_modified: 2026-07-29 03:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -146,7 +146,7 @@ Three responses:
 
 The brain specialness boundary isn't a minor technical point. It addresses a fundamental challenge to [interactionist-dualism](/concepts/interactionist-dualism/):
 
-If consciousness affects nothing, [epiphenomenalism](/concepts/epiphenomenalism/) follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
+If consciousness affects nothing, [epiphenomenalism](/concepts/epiphenomenalism/) follows—and self-stultification, the deepest difficulty it faces, presses hard without refuting it ([bidirectional-interaction](/concepts/bidirectional-interaction/)).
 
 If consciousness affects everything, parapsychology follows—but parapsychological effects aren't reliably demonstrated.
 
@@ -166,7 +166,7 @@ The brain specialness boundary connects to all five [tenets](/tenets/):
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The selection is real (not branching), but spatially bounded. If MWI were true, selection wouldn't occur anywhere—the brain specialness question wouldn't arise. The framework presupposes collapse, which the locality constraints then restrict.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The brain specialness boundary doesn't violate parsimony—it's what the mechanism predicts. Universal PK would require additional mechanisms the framework doesn't include. Parsimony favours the local prediction.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The boundary follows from the mechanism; universal PK would need mechanisms the framework lacks. The tenet doesn't license it, only refuses to let parsimony *veto* it.
 
 ## What Would Challenge This View
 

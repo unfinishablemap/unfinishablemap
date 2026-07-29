@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-05 23:43:47.737918+00:00
+ai_modified: 2026-07-29 03:51:58+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -143,7 +143,7 @@ Specific findings could undermine either layer: a physical explanation for quali
 
 A critical objection to Layer 2: [decoherence](/concepts/decoherence/) destroys quantum coherence in warm biological systems within femtoseconds. Three considerations mitigate this.
 
-**Disputed timescales**: Tegmark's (2000) calculations used assumptions Hagan et al. (2002) argued were inappropriate for Orch OR, recalculating coherence times seven orders of magnitude longer. Reimers et al. (2009) and McKemmish et al. (2009) in turn contested that recalibration, so the dispute is live rather than settled either way; even the favourable 10⁻⁷-second estimate would suffice only for faster microtubule dynamics. The Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction), not empirically forced.
+**Disputed timescales**: Tegmark's (2000) calculations used assumptions Hagan et al. (2002) argued were inappropriate for Orch OR, recalculating coherence times eight to nine orders of magnitude longer. Reimers et al. (2009) and McKemmish et al. (2009) in turn contested that recalibration, so the dispute is live rather than settled either way; even the favourable 10⁻⁵-to-10⁻⁴-second estimate would suffice only for faster microtubule dynamics. The Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction), not empirically forced.
 
 **Biological quantum effects**: Quantum coherence demonstrably survives in warm biological systems—avian magnetoreception relies on it. The 2024 epothilone B study (Khan et al.) found microtubule-stabilising drugs significantly delayed loss of consciousness under anaesthesia—consistent with Orch OR predictions, though the result is also explicable through non-quantum microtubule function.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-08 17:26:08+00:00
+ai_modified: 2026-07-29 03:51:58+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -163,7 +163,7 @@ Stuart Hameroff and Roger Penrose's [Orch OR theory](/concepts/quantum-conscious
 
 ### The Decoherence Challenge
 
-[Decoherence](/concepts/decoherence/) poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates seven orders of magnitude longer, though Reimers et al. (2009) and McKemmish et al. (2009) in turn contested those parameters—the dispute is live, not settled either way; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
+[Decoherence](/concepts/decoherence/) poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates eight to nine orders of magnitude longer, though Reimers et al. (2009) and McKemmish et al. (2009) in turn contested those parameters—the dispute is live, not settled either way; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
 
 **Significant caveats:** Highly speculative; no mechanism explains post-mortem coherence; dispersed quantum information might not preserve *your* particular [perspective](/concepts/haecceity/).
 

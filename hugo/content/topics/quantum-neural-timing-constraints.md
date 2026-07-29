@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-07-26 11:32:34+00:00
+ai_modified: 2026-07-29 03:51:58+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -62,7 +62,7 @@ The calculation assumed standard ion channel superpositions in a thermal environ
 
 Hameroff's group challenged Tegmark's parameters (Hagan et al. 2002). They argued that Tegmark analysed ion channels rather than the Orch OR model's microtubule sites, assumed superposition separations of 24 nanometers when the theory specifies smaller distances, and used inappropriate models for charge interactions.
 
-Corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Laboratory measurements by Bandyopadhyay (2014) found collective oscillations in isolated single microtubules at warm temperatures consistent with coherence lasting approximately 100 microseconds. These were in vitro measurements; whether such coherence persists in the noisy environment of living neural tissue remains undemonstrated.
+Corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. Laboratory measurements by Bandyopadhyay (2014) found collective oscillations in isolated single microtubules at warm temperatures consistent with coherence lasting approximately 100 microseconds. These were in vitro measurements; whether such coherence persists in the noisy environment of living neural tissue remains undemonstrated.
 
 This narrows the gap from twelve orders of magnitude to roughly three. Yet even 100 microseconds is far shorter than the 200–500ms range spanning the point of no return, motor commitment, and willed attention signatures.
 

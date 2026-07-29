@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-09 07:40:05+00:00
+ai_modified: 2026-07-29 03:51:58+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -124,7 +124,7 @@ Doesn't [decoherence](/concepts/decoherence/) destroy quantum superpositions too
 
 This objection requires careful handling because it involves two separable questions. Decoherence is extremely rapid in neural tissue. Tegmark (2000) calculated decoherence times of 10^-13 to 10^-20 seconds for neural microtubules — far shorter than the millisecond timescales of neural processing. If consciousness requires maintaining quantum coherence across neurons, decoherence appears to rule this out.
 
-This creates a tension within the selection framework that should be stated honestly. Stapp's quantum Zeno mechanism *does* require repeated observation of coherent states. If Tegmark's decoherence timescales are correct, the Zeno mechanism faces a serious difficulty: coherence may dissipate far too quickly for attentional observation to stabilise it. Hagan et al. (2002) disputed Tegmark's model parameters, yielding estimates seven orders of magnitude longer, but this challenge has not achieved consensus in the physics community.
+This creates a tension within the selection framework that should be stated honestly. Stapp's quantum Zeno mechanism *does* require repeated observation of coherent states. If Tegmark's decoherence timescales are correct, the Zeno mechanism faces a serious difficulty: coherence may dissipate far too quickly for attentional observation to stabilise it. Hagan et al. (2002) disputed Tegmark's model parameters, yielding estimates eight to nine orders of magnitude longer, but this challenge has not achieved consensus in the physics community.
 
 However, the broader selection framework does not stand or fall with Stapp's specific mechanism. The framework's core claim is more general: consciousness biases *which outcome* occurs when superposition resolves — whether through decoherence or measurement. Decoherence explains why interference patterns vanish, not why one particular outcome becomes actual. If actualisation remains undetermined by physics, consciousness could operate at that juncture regardless of how quickly coherence is lost.
 

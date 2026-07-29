@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-24 00:00:00+00:00
+ai_modified: 2026-07-29 03:51:58+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -105,7 +105,7 @@ The most serious empirical challenge comes from [decoherence](/concepts/decohere
 
 ### Four Responses
 
-**First, Tegmark's parameters are disputed.** Corrected calculations for living tissue (Hagan et al. 2002) extend coherence estimates by seven orders of magnitude. Wiest (2025) reports experimental support for room-temperature quantum effects in microtubules, though these are vibrational modes, not the sustained coherent superpositions selection requires—paralleling premature excitement around quantum coherence in photosynthesis (Engel et al. 2007), later shown to be vibrational (Cao et al. 2020). Recent evidence complicates Tegmark's assumptions; the core challenge remains.
+**First, Tegmark's parameters are disputed.** Corrected calculations for living tissue (Hagan et al. 2002) extend coherence estimates by eight to nine orders of magnitude. Wiest (2025) reports experimental support for room-temperature quantum effects in microtubules, though these are vibrational modes, not the sustained coherent superpositions selection requires—paralleling premature excitement around quantum coherence in photosynthesis (Engel et al. 2007), later shown to be vibrational (Cao et al. 2020). Recent evidence complicates Tegmark's assumptions; the core challenge remains.
 
 **Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, it selects preferred bases without explaining *definite* outcomes. The post-decoherence density matrix is an *improper* mixture (d'Espagnat 1976)—derived by tracing out the environment—not a *proper* mixture representing classical ignorance. Five selection mechanism families have been proposed to fill this gap, but only consciousness-mediated selection is consistent with the Map's [five tenets](/tenets/) (see [the post-decoherence gap](/topics/comparing-quantum-consciousness-mechanisms/#the-post-decoherence-gap)). Consciousness at collapse survives decoherence because decoherence leaves this gap open.
 

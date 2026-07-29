@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-07-18 12:46:00+00:00
+ai_modified: 2026-07-29 03:51:58+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -81,7 +81,7 @@ Every interpretation of quantum mechanics must take a stance on this gap—wheth
 
 ## Pre-Decoherence vs. Post-Decoherence Interaction
 
-Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and Penrose-Hameroff Orch OR—place consciousness's causal role *before* or *during* decoherence. They require quantum coherence in neural structures to persist long enough for consciousness to interact with superposed states. This exposes them to the [timing gap problem](/concepts/timing-gap-problem/): Tegmark's (2000) calculations suggest decoherence in neural tissue occurs within femtoseconds, while conscious decisions take hundreds of milliseconds. Even revised estimates narrowing the gap by seven orders of magnitude leave a factor of roughly a thousand.
+Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and Penrose-Hameroff Orch OR—place consciousness's causal role *before* or *during* decoherence. They require quantum coherence in neural structures to persist long enough for consciousness to interact with superposed states. This exposes them to the [timing gap problem](/concepts/timing-gap-problem/): Tegmark's (2000) calculations suggest decoherence in neural tissue occurs within femtoseconds, while conscious decisions take hundreds of milliseconds. Even revised estimates narrowing the gap by nine orders of magnitude leave a factor of roughly a thousand.
 
 The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—fixing which single outcome the improper mixture resolves to—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable branch structure that decoherence has already prepared. That structure supplies distinguishable candidate outcomes without settling any of them as the actual one; the point of contact is the actualization itself, not a choice among pre-decided actualities. The companion topic article [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) catalogues the candidate mechanisms (pre-decoherence variants from Penrose-Hameroff, Stapp, and Chalmers-McQueen alongside the post-decoherence path) and shows why the post-decoherence variant is the Map's strongest version of the forward-in-time strategy.
 

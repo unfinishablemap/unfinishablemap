@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-28 16:09:55+00:00
+ai_modified: 2026-07-29 03:51:58+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -136,7 +136,7 @@ Three responses preserve desert:
 
 The **[decoherence](/concepts/decoherence/)** objection: quantum superpositions decohere almost instantly in warm neural tissue. If quantum effects can't influence neural processing, consciousness couldn't "select" outcomes. See [decoherence](/concepts/decoherence/) for the full challenge.
 
-Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer, though that recalibration was itself contested (Reimers et al. 2009; McKemmish et al. 2009), leaving the dispute live rather than settled. (2) [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/)—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
+Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates eight to nine orders of magnitude longer, though that recalibration was itself contested (Reimers et al. 2009; McKemmish et al. 2009), leaving the dispute live rather than settled. (2) [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/)—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
 
 ## Objections and Responses
 
