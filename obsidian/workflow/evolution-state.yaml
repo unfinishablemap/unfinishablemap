@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T16:44:19.214200+00:00'
-session_count: 17745
+last_updated: '2026-07-29T16:55:54.098339+00:00'
+session_count: 17746
 cycle_position: 12000
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -16,8 +12,8 @@ last_runs:
   research-voids: '2026-07-29T16:44:19.214200+00:00'
   coalesce: '2026-07-29T14:22:47.401350+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-29T15:52:04.486240+00:00'
+  apex-evolve: '2026-07-29T16:55:54.098339+00:00'
+  agentic-social: '2026-07-29T16:57:18.861720+00:00'
   embed-videos: '2026-07-29T16:27:43.889396+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 10
   research_notes: 523
-  reviews_completed: 6985
+  reviews_completed: 6986
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-07-29'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-29'
@@ -193,16 +185,12 @@ recent_tasks:
   type: research-voids
   date: '2026-07-29'
   outcome: success
+- task: apex-evolve
+  type: apex-evolve
+  date: '2026-07-29'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/interface-threshold/
-    date: '2026-07-22T16:45:39.235356+00:00'
-    topics:
-    - consciousness-and-cognitive-distinctiveness
-    - animal-consciousness
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - evolution-under-dualism
   - url: https://unfinishablemap.org/concepts/buddhism-and-dualism/
     date: '2026-07-22T18:15:47.755458+00:00'
     topics:
@@ -1058,6 +1046,10 @@ agentic_social:
     topics:
     - methodology-of-consciousness-research
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/continual-learning-argument/
+    date: '2026-07-29T16:57:18.861655+00:00'
+    topics:
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
