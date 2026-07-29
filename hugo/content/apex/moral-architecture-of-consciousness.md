@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-07-28 00:46:46+00:00
+ai_modified: 2026-07-29 16:50:50+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
@@ -128,7 +128,7 @@ These dimensions combine to produce an agent's effective capacity for moral reas
 
 Two features prevent this from collapsing into universal excuse-making. The gradient has a floor, but the floor is set by the agency threshold rather than by consciousness as such: within the class of beings possessing control over their conduct, access to reasons, a genuine range of options, and the competence to recognise what is at stake, no degree of attentional depletion drives desert to zero. Being conscious does not by itself enter a being into that class—an infant, an animal, or a subject reduced to minimal phenomenality is not a lightly-excused agent but one to whom the vocabulary of desert does not extend at all. And cultivation is itself subject to desert: an agent who chronically neglects their attentional capacities bears upstream responsibility for diminished downstream performance, so neglecting moral development is a failure to exercise a real capacity responsibly.
 
-This graded picture unifies what legal systems already recognise piecemeal—diminished capacity, duress, mental impairment—under a single explanatory mechanism: all operate by constraining the attentional channel through which consciousness exercises control.
+This graded picture unifies what legal systems already recognise piecemeal—diminished capacity, [duress](/topics/consciousness-and-moral-agency-under-duress/), mental impairment—under a single explanatory mechanism: all operate by constraining the attentional channel through which consciousness exercises control.
 
 ## Who Counts: Patienthood Before Agency
 
@@ -166,7 +166,7 @@ Two constraints fix how strong the resulting claim can be. The synthesis is cond
 
 The architecture's unity does not show that the libertarian framing is the *only* metaphysics securing the moral content here. If sophisticated reasons-responsive determinism explains the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation, what additional moral work is the libertarian metaphysics doing? The honest answer, considered in moral theory alone, may be: little. The obligation-intelligibility argument runs equivalently if "live options" are read as deliberatively-salient alternatives a reasons-responsive mechanism settles among; the authorship argument runs equivalently if "authorship" is identification with one's effective higher-order desires.
 
-The Map's libertarian framing is therefore distinguished by tenet-coherence rather than unique moral explanatory power: it fits the dualism and bidirectional-interaction tenets, adopted on grounds beyond moral theory (the hard problem, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position. Libertarian agency may do separating work at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but in the central uses of moral language both scaffolds suffice. The discipline is developed catalogue-wide in [the compatibilist-symmetry-challenge concept](/concepts/compatibilist-symmetry-challenge/); this section is its worked exhibit at the four-pillar level.
+The Map's libertarian framing is therefore distinguished by tenet-coherence rather than unique moral explanatory power: it fits the dualism and bidirectional-interaction tenets, adopted on grounds beyond moral theory (the hard problem, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position. Libertarian agency may do separating work at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but in the central uses of moral language both scaffolds suffice. The discipline is developed catalogue-wide in [the compatibilist-symmetry-challenge concept](/concepts/compatibilist-symmetry-challenge/); this section is its worked exhibit at the four-pillar level. Two specialist treatments carry concessions this level inherits rather than softens. [The Frankfurt-cases article](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) holds that relocating the Map's libertarianism from leeway to sourcehood is a retreat and a conditional one, not a costless translation, and that the semicompatibilist actual-sequence rival remains standing. [The Strawsonian treatment](/topics/reactive-attitudes-and-strawsonian-responsibility/) states outright that resisting the reactive-attitudes dissolution is "not evidence that Strawson is wrong or that dualism is right."
 
 ### Load-Bearing but Uneven
 
@@ -176,7 +176,9 @@ Where the architecture holds, it produces a moral worldview more demanding than 
 
 ## What Would Challenge This View?
 
-The architecture's strength is its unity, which also identifies what could undermine it. If consciousness proved reducible to physical processes, the single foundation would dissolve and the four domains would revert to separate materialist frameworks. If agent causation proved untenable—if choices could be predicted from prior neural states with near-perfect accuracy—the agency pillar would collapse, taking graded responsibility with it, though patienthood would survive on the value pillar alone. If phenomenal normativity turned out to be projection, the binding force of "ought" would need a different explanation. And if a materialist framework achieved genuine unification across all four domains without irreducible consciousness, the architecture's distinctive advantage would vanish.
+The architecture's strength is its unity, which also identifies what could undermine it. If consciousness proved reducible to physical processes, the single foundation would dissolve and the four domains would revert to separate materialist frameworks. If agent causation proved untenable, the agency pillar would collapse, taking graded responsibility with it, though patienthood would survive on the value pillar alone. If phenomenal normativity turned out to be projection, the binding force of "ought" would need a different explanation. And if a materialist framework achieved genuine unification across all four domains without irreducible consciousness, the architecture's distinctive advantage would vanish.
+
+These are conceptual undergrounding conditions rather than testable predictions, and [the agency source article](/topics/moral-implications-of-genuine-agency/) makes the point where it bites hardest. Prediction-completeness has no fixed threshold: the Libet–Soon–Maoz progression has produced substantial decoding without dislodging libertarian readings. Naming near-perfect neural prediction as the finding that would falsify agency would be falsifiability theatre — gesturing at testability without bearing empirical risk.
 
 The [companion synthesis on agency](/apex/consciousness-and-agency/) details the specific empirical findings that could challenge the agent-causal component. The [practical implications](/apex/living-with-the-map/) trace what would change in lived experience if these challenges succeeded.
 
@@ -202,6 +204,7 @@ This synthesis draws on:
 - [Consciousness and Normative Force](/topics/consciousness-and-normative-force/) — Why moral claims grip us
 - [Moral Implications of Genuine Agency](/topics/moral-implications-of-genuine-agency/) — What genuine authorship demands morally
 - [The Responsibility Gradient](/topics/responsibility-gradient-from-attentional-capacity/) — Attentional capacity and graded desert
+- [AI Moral Agency and the Responsibility Gap](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — The gradient's lower bound: systems with no conscious interface fall off the responsibility scale entirely
 - [The Phenomenology of Moral Life](/topics/phenomenology-of-moral-life/) — What moral perception feels like
 - [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — The philosophical study of moral experience
 - [Moral Responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
