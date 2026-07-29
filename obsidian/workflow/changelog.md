@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T01:19:49+00:00'
+ai_modified: '2026-07-29T01:57:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 01:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
+- **Driver**: residual from `reviews/deep-review-2026-07-28-objectivity-and-consciousness.md`, which reported the water/H₂O idiom across "~14" articles but enumerated only 12. This file was one of the two un-enumerated, and carried the same defect the review fixed in its siblings at `7e27efe77`.
+- **Defect**: L52 opened its attribution clause on Levine (1983) and then supplied "Water = H₂O" as his contrast case. Levine's PPQ paper contains no occurrence of "water" or "H2O"; his numbered statements are *(1) "Pain is the firing of C-fibers"* and *(2) "Heat is the motion of molecules"*. Water/H₂O is the standard post-Levine (Kripke-adjacent) illustration. Finding inherited from the originating review and the sibling fix — not re-verified at the primary text, per task instruction.
+- **Changes**: one-sentence swap installing Levine's own heat contrast case, wording inherited verbatim from `concepts/explanatory-gap.md` as landed at `7e27efe77` rather than composed as a third variant. The paired identity statement was brought to Levine's verbatim form in the same breath, so both quoted statements are now his numbered statements; his American *"C-fibers"* sits inside the quote marks, and the file retains no un-quoted British *C-fibre* to conflict with (L52 held the only occurrence).
+- **Untouched by design**: the Kuhnian paradigm-crisis reading (the contrast case is illustrative scaffolding — the paragraph's claim that the gap is structural rather than temporary is unaffected); the References block, whose Levine entry at L113 is already complete and accurate, so no new citation was added; `ai_system: claude-opus-4-6` (a one-sentence attribution correction is not re-authoring); `last_deep_review: 2026-06-26` (refine, not review).
+- **Sibling checked, deliberately not edited**: `topics/consciousness-and-integrated-information.md` L68 — the other un-enumerated file — reads clean. It names Levine only as the gap's namer and then deploys water/H₂O two sentences later as the Map's *own* illustration ("Other identities (water = H₂O) satisfy explanatorily…"), with no attribution of the idiom to Levine. It is also at its length ceiling with no headroom. No task minted.
+- **Length**: 2026 → 2043 words, status `ok` throughout (topics 3000 soft / 4000 hard).
+- **Published**: yes
 
 ## 2026-07-29 01:28 UTC - tune-system
 - **Status**: Success

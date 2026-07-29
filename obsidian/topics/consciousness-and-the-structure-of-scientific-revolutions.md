@@ -4,7 +4,7 @@ description: "Applying Kuhn's framework to consciousness studies reveals physica
 created: 2026-03-11
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-06-26T10:15:14+00:00
+ai_modified: 2026-07-29T01:56:51+00:00
 last_deep_review: 2026-06-26T10:15:14+00:00
 draft: false
 topics:
@@ -49,7 +49,7 @@ But Kuhn distinguished puzzle-solving from progress on foundational questions. N
 
 Kuhn argued that paradigms enter crisis when anomalies accumulate — results that resist assimilation into the framework despite sustained effort. Physicalism faces anomalies that are not merely unsolved but appear structurally resistant to physical explanation. These anomalies are unusual: they seem philosophical rather than straightforwardly empirical (a distinction explored further in the section on [[#what-makes-consciousness-distinctive|what makes consciousness distinctive]]). But their persistence and resistance to theoretical absorption appear to follow Kuhn's pattern closely.
 
-**The explanatory gap.** Joseph Levine (1983) identified the gap between physical description and phenomenal character as structural, not temporary. "Water = H₂O" explains water's properties because we can derive observable behaviour from molecular structure. "Pain = C-fibre activation" explains nothing about why pain feels the way it does. Decades of subsequent work have not narrowed this gap. Each new physical theory of consciousness — identity theory, functionalism, higher-order theories, global workspace theory, integrated information theory — restates the problem in different vocabulary without closing it. This is precisely the pattern Kuhn described: the paradigm generates theoretical elaborations that address the anomaly's form while leaving its substance untouched.
+**The explanatory gap.** Joseph Levine (1983) identified the gap between physical description and phenomenal character as structural, not temporary. Levine's own contrast case was heat: "Heat is the motion of molecules" satisfies because chemistry and physics let us see how molecular motion could play the causal role heat plays. "Pain is the firing of C-fibers" explains nothing about why pain feels the way it does. Decades of subsequent work have not narrowed this gap. Each new physical theory of consciousness — identity theory, functionalism, higher-order theories, global workspace theory, integrated information theory — restates the problem in different vocabulary without closing it. This is precisely the pattern Kuhn described: the paradigm generates theoretical elaborations that address the anomaly's form while leaving its substance untouched.
 
 **The hard problem's persistence.** The [[hard-problem-of-consciousness|hard problem]] — why there is something it is like to have an experience — was not invented by Chalmers in 1994. It has analogues in Leibniz's mill argument (1714) and Locke's inverted spectrum thought experiment (1690). Three centuries of increasingly sophisticated physicalist theorising have not dissolved it. Kuhn observed that the persistence of an anomaly across theoretical generations is a hallmark of paradigm crisis: the problem is not that individuals have failed, but that the framework's resources are inadequate to the task.
 
