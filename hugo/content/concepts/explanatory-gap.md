@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 19:20:04+00:00
+ai_modified: 2026-07-29 22:45:59+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -114,7 +114,7 @@ Physicalists have several strategies for addressing the gap:
 
 [Illusionism](/concepts/illusionism/) (see Keith Frankish, Daniel Dennett) holds that consciousness as we conceive it doesn't exist: we have the *illusion* of [qualia](/concepts/qualia/), but there's nothing more to experience than functional states. The position spans a spectrum. At one end, hard illusionism holds that phenomenal properties simply don't exist—there's nothing to explain. Graziano's (2024) contrast term, subtle illusionism, holds that the brain models something real but schematically, so what introspection presents diverges from what is there. Both ends dissolve the gap rather than closing it: it falls between physical facts and our misconceptions about experience.
 
-**Problem**: The obvious reply is a regress—if seeing red *seems* phenomenal but isn't, something must be doing the seeming. Taken bare it proves nothing: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The pressure is rather that relocating the question—from "why does C-fiber firing hurt?" to "why does C-fiber firing *seem* to hurt?"—gains only if the second is tractable where the first was not, which is asserted rather than shown. Galen Strawson's verdict that illusionism is "the silliest claim ever made" registers that disagreement without settling it.
+**Problem**: The obvious reply is a regress—if seeing red *seems* phenomenal but isn't, something must be doing the seeming. Taken bare it proves nothing: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The pressure is rather that relocating the question—from "why does C-fiber firing hurt?" to "why does C-fiber firing *seem* to hurt?"—gains only if the second is tractable where the first was not, which is asserted rather than shown. Galen Strawson's verdict that denying consciousness exists is "the silliest claim ever made" registers that disagreement without settling it.
 
 ### The "Phenomenal Concepts" Strategy
 
