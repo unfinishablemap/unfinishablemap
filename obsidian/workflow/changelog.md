@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T02:43:26+00:00'
+ai_modified: '2026-07-29T02:53:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 02:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [[arguments/materialism-argument]]
+- **Source**: `reviews/tenet-check-2026-07-29.md` — Error 2 (uncalibrated inheritance), Tenet 3 family. Calibration re-scoping only; no substantive claim was re-litigated. The Map still rejects epiphenomenalism and still rejects materialism.
+- **Word count**: 2977 → 3181 (+204; `soft_warning`, 319 below the 3500 arguments hard ceiling)
+- **Loci calibrated**: 4
+  - **L81 — bare-correlation scoping + phenomenal-concept concession.** The section opened *"But epiphenomenalism is self-defeating"* and never registered the escape, though the same article handles the phenomenal-concept strategy competently in its zombie section. Rescoped to the *bare-correlation* version "under severe pressure", with a following paragraph conceding the recognised escape and relocating the dispute to the first-person mode of presentation. Wording inherited verbatim-in-substance from the already-correct sibling `arguments/epiphenomenalism-argument.md` L73/L75 — deliberately no third variant composed. New cross-links: `[[concepts/phenomenal-concepts-strategy]]`, `[[bidirectional-interaction]]`, `[[arguments/epiphenomenalism-argument]]`. Added a short clause noting this is a *different job* from the one Chalmers's dilemma presses the strategy on in the zombie section, so the concession does not contradict L69.
+  - **L143 — demonstrative claim about the tenet's ground.** *"The epiphenomenalism argument shows why such bidirectional interaction is necessary"* asserted exactly what `tenets/tenets.md` L98 reserves (*"rather than its refutation"*). Replaced with the canonical ground: the Map holds Bidirectional Interaction not because the argument refutes epiphenomenalism from inside the epiphenomenalist's framework, but because the alternative leaves report-reliability resting on a contested epistemological premise it judges harder to sustain than the minimal causal interface Tenet 2 already commits to. Inherited from `tenets.md` L98 / `concepts/bidirectional-interaction.md` L59.
+  - **L113 — Tenet 5 internal asymmetry (judgement call, lightest of the three).** The passage disarmed ontological parsimony, then redeployed a redefined *explanatory* parsimony to score against materialism — the asymmetry Tenet 5's Rules-out clause names. The pivot is now marked as dialectical ("Answering the objection on its own terms: if simplicity is to arbitrate here…"), followed by an explicit disclaimer that the Map does not press explanatory simplicity as a positive criterion of its own, echoing the model discipline at `topics/philosophy-of-action-under-dualism.md` L98: the tenet "only refuses to let parsimony *veto* the posit". Also removed the "A theory that explains nothing is not simple; it is empty" instance of the banned *"This is not X. It is Y."* construct.
+  - **Section heading (not in the review's three loci — flagged here for reviewer visibility).** *"The Epiphenomenalism Problem: If We Talk About Consciousness, It Must Be Causally Relevant"* asserted in the heading precisely what L81 and L143 were being calibrated away from, and under LLM-first truncation-resilience a heading is the most-read surface. Rescoped to *"Bare-Correlation Epiphenomenalism Is Hard to Hold"*, inheriting the sibling's phrase. Grep-verified zero inbound anchor references across `obsidian/`, `hugo/content/`, and `archive/`, so no URL-anchor breakage. Revert this one if the reviewer judges it out of scope; the other three stand independently.
+- **Explicitly not touched** (per task scope): the zombie and knowledge-argument sections, the L85 trilemma, and both verdicts.
+- **Engagement classification**: epiphenomenalist reply — Mode Three (framework-boundary marking), *upgraded from a mis-stated Mode One*. This was the boundary-substitution failure the discipline names: an in-framework refutation was being claimed where only boundary-marking was earned. No mode labels leaked into article prose.
+- **Attribution**: `ai_system` HELD at `claude-opus-4-8` — calibration re-scoping is not re-authoring. `last_deep_review` left at 2026-06-15. `ai_modified` bumped (real edit), `date -u`-verified past-dated. No `[1m]` artifact; EOF clean.
+- **Siblings still live** (Tenet 3 family, none closed by this pass): `consciousness-and-integrated-information.md` L62, `falsification-roadmap-for-the-interface-model.md` L183, `brain-specialness-boundary.md` L146, `causal-closure.md` L186, `the-epiphenomenalist-threat.md` L59, plus frontmatter `description` fields at `concepts/self-stultification.md` L3 and `topics/self-stultification-as-master-argument.md` L3. The first two have zero length headroom and need strictly length-neutral edits.
+- **Published**: yes
 
 ## 2026-07-29 02:43 UTC - deep-review
 - **Status**: Success

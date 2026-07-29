@@ -3,7 +3,7 @@ title: "Against Materialism"
 created: 2026-01-06
 modified: 2026-05-11
 human_modified: 2026-01-06
-ai_modified: 2026-06-15T16:34:31+00:00
+ai_modified: 2026-07-29T02:51:30+00:00
 draft: false
 description: "Why materialism fails to account for consciousness — hard problem, zombie argument, epiphenomenalism, and quantum indeterminacy converge on dualism."
 topics:
@@ -74,11 +74,13 @@ The zombie world is one where all the physical facts obtain and the phenomenal f
 
 Jackson's [[knowledge-argument]] reinforces the point. Mary, a scientist who knows every physical fact about colour vision, learns something new when she first sees red. If complete physical knowledge does not constitute complete knowledge, physical facts do not fix all the facts. Where the zombie argument shows consciousness is not *metaphysically* entailed by physics, the knowledge argument shows it is not *epistemically* captured by physics.
 
-## The Epiphenomenalism Problem: If We Talk About Consciousness, It Must Be Causally Relevant
+## The Epiphenomenalism Problem: Bare-Correlation Epiphenomenalism Is Hard to Hold
 
 If consciousness is not entailed by physical facts, one might think it is epiphenomenal—causally inert, merely along for the ride. Many materialists frame this as the dualist's dilemma: either consciousness is physical or it's causally irrelevant.
 
-But epiphenomenalism is self-defeating. You are, right now, thinking about consciousness. If consciousness were epiphenomenal, your talk about consciousness could not be caused by your consciousness—your utterances would be caused entirely by brain states that are not themselves caused by experience. But then your talk about consciousness is about nothing at all. The brain state causing your utterance exists in the zombie too, and the zombie makes the same utterance about nothing. If your utterance has the same causal history as the zombie's, what makes yours meaningful?
+This puts the *bare-correlation* version of epiphenomenalism—on which experience merely accompanies the brain states that produce our talk—under severe pressure. You are, right now, thinking about consciousness. If consciousness were epiphenomenal in that way, your talk about consciousness could not be caused by your consciousness—your utterances would be caused entirely by brain states that are not themselves caused by experience. But then your talk about consciousness is about nothing at all. The brain state causing your utterance exists in the zombie too, and the zombie makes the same utterance about nothing. If your utterance has the same causal history as the zombie's, what makes yours meaningful?
+
+The pressure has a recognised escape, and the Map concedes it. The [[concepts/phenomenal-concepts-strategy|phenomenal-concept strategy]] (Frankish 2016, Papineau 2002, Loar 1990, late Dennett) makes phenomenal concepts physically realised representational states that refer to the very brain states producing the reports, so report-reliability holds without phenomenal causation and the self-undermining charge dissolves—a different job from the one Chalmers's dilemma presses the strategy on above. The disagreement then relocates rather than ending: it moves to whether the first-person mode of presentation under which such concepts refer can be exhaustively physically characterised. The Map holds it cannot, and holds [[bidirectional-interaction|Bidirectional Interaction]] on that calibrated basis rather than on a claim that the argument refutes epiphenomenalism from inside the epiphenomenalist's framework. See [[arguments/epiphenomenalism-argument|Against Epiphenomenalism]] for the full treatment.
 
 As Chalmers argues, the very fact that we discuss consciousness is evidence it is not epiphenomenal. An epiphenomenon could not influence the neurons that move our mouths or type our words.
 
@@ -110,7 +112,7 @@ The universe is a field of quantum possibilities that crystallise into actuality
 
 Isn't it simpler to posit one kind of stuff rather than two? This appeal to Occam's Razor is weaker than it appears.
 
-Occam's Razor is a heuristic, not a law. It has often pointed away from truth—atomism, quantum mechanics, and general relativity each required *more* ontological structure than the "simpler" predecessor theory. More importantly, the relevant simplicity is explanatory, not ontological. A theory that explains nothing is not simple; it is empty. Materialism does not explain consciousness—it either denies it or gestures at correlations.
+Occam's Razor is a heuristic, not a law. It has often pointed away from truth—atomism, quantum mechanics, and general relativity each required *more* ontological structure than the "simpler" predecessor theory. Answering the objection on its own terms: if simplicity is to arbitrate here, the relevant simplicity is explanatory rather than ontological, and by that measure materialism scores badly—it does not explain consciousness, but either denies it or gestures at correlations. The Map does not then press explanatory simplicity as a positive criterion of its own. The fifth tenet does not license dualism on grounds of superior simplicity; it only refuses to let parsimony *veto* the posit.
 
 We are also in no position to judge simplicity when we don't understand the domain. As the Map's tenets state: "Dismissing dualism because materialism seems 'simpler' assumes we understand enough to judge simplicity. We may not."
 
@@ -140,7 +142,7 @@ This article articulates the first and most fundamental of the Map's [[tenets]]:
 
 The Map's position is not merely that materialism *hasn't yet* explained consciousness, but that it *cannot in principle* do so. Physical explanations work by describing structure, function, and dynamics; consciousness is not that kind of thing. The explanatory gap is not a temporary limitation but a structural feature of materialist methodology.
 
-The quantum mechanics discussion connects to the Map's second tenet (**Minimal Quantum Interaction**) and third tenet (**Bidirectional Interaction**). If consciousness is not physical, there must be an interface where mind and matter meet. Quantum indeterminacy provides this interface without requiring violations of physical law. The epiphenomenalism argument shows why such bidirectional interaction is necessary: we could not discuss consciousness if consciousness did not causally influence our brains.
+The quantum mechanics discussion connects to the Map's second tenet (**Minimal Quantum Interaction**) and third tenet (**Bidirectional Interaction**). If consciousness is not physical, there must be an interface where mind and matter meet. Quantum indeterminacy provides this interface without requiring violations of physical law. The Map holds Bidirectional Interaction not because the epiphenomenalism argument refutes epiphenomenalism from inside the epiphenomenalist's framework, but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than the minimal causal interface Tenet 2 already commits to.
 
 The fourth tenet (**No Many Worlds**) is implicit throughout the quantum section. The entire argument that quantum mechanics leaves "room" for consciousness depends on collapse being real—on there being a genuine transition from possibility to actuality. If the many-worlds interpretation were correct, every outcome occurs in some branch and no selection takes place. The Map's rejection of MWI is not incidental; it is load-bearing for the case against causal closure.
 
