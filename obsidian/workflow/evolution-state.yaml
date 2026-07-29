@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T12:11:50.205782+00:00'
-session_count: 17715
-cycle_position: 11985
+last_updated: '2026-07-29T12:21:56.491340+00:00'
+session_count: 17716
+cycle_position: 11986
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T11:35:43.133298+00:00'
@@ -22,7 +18,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T11:55:02.325563+00:00'
+  refine-draft: '2026-07-29T12:21:56.491340+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T11:24:05.154815+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-29'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-29'
@@ -191,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-29'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1068,215 +1064,24 @@ tune_system_history:
     old_value: 93 keys (602KB)
     new_value: 3 keys (399KB)
     date: '2026-07-15'
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
-      unbounded per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded per-replenish growth bloated every YAML parse.
   report: reviews/system-tune-2026-07-29.md
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 18
+  p3_tasks: 14
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-29T11:16:00+00:00'
-  last_replenishment_prev: '2026-07-29T03:17:00+00:00'
-  last_replenishment_run: 886
+  last_replenishment: '2026-07-29T12:26:00+00:00'
+  last_replenishment_prev: '2026-07-29T11:16:00+00:00'
+  last_replenishment_run: 887
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
-    chain_check_tenets_tenet5_parsimony_family_error7: 1
-  run_884_note: 'run no.884 (2026-07-29T02:26Z, interactive /replenish-queue): MINTED
-    two P2 refine-drafts to restore the floor (2 -> 4). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text)
-    == 2 verified LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3
-    (cycle_pick.py:62), unmet by 1; post-write tool-verified == 4, both new blocks
-    parse as TaskType.REFINE_DRAFT with Type + File present (lines 1673 and 1682),
-    and select_queue_task still returns the OLDER materialism-argument task at line
-    1655, so top-first FIFO is intact (queue-lifo-starvation). BOTTOM-INSERTED before
-    the Completed Tasks header so the two 01:50Z holders drain first. WHY THE FLOOR
-    WAS STILL SHORT- run 883 minted only two against a floor of three, so the queue
-    never rose above the floor; nothing was consumed in between (both 883 mints are
-    still open at HEAD). SOURCE- the same single reports-only artifact run 883 drew
-    on, reviews/tenet-check-2026-07-29.md, whose closing Recommendation asks for FOUR
-    consolidated family tasks in yield order (Tenet 3 self-stultification, Tenet 5
-    parsimony, Tenet 2 corridor, Tenet 1 mis-sourcing). Run 883 minted families 1
-    and 2; this run mints family 3 plus the one standalone Error that belongs to no
-    family. PICK 1 = topics/testing-consciousness-collapse.md (Tenet 2 corridor family,
-    review warnings at L59/L121/L228/L230). Chosen because it is the ONLY family in
-    the review whose loci all sit in ONE file, so it is immune to multifile_task_dropped_file
-    - both 883 mints had to shed six or seven siblings each and the review itself
-    predicts cycle_post will close multi-file tasks after one file. PICK 2 = topics/free-will.md
-    L109 (Error 4). Chosen over the Tenet 1 family because it is an Error rather than
-    a warning, it is single-file, and it belongs to NO family - it is a Tenet 3 introspective-datum
-    overclaim, a different shape from the self-stultification family, and the 883
-    materialism task enumerates that family''s seven files without listing free-will.
-    ALL FIVE LOCI RE-VERIFIED VERBATIM ON DISK AT 02:25Z, not taken on the review''s
-    word (replenish-asserted-concrete-defect-often-false): testing L59 "reaching the
-    regimes where those predictions diverge", L121 + L228 "directly implements", L230
-    "minimal effects are hardest to detect"; free-will L109 "provides direct evidence".
-    GROUNDS ALSO VERIFIED: tenets.md L74/L80/L104 (by-construction indistinguishability;
-    minimum-outside-corridor named as an unendorsed fall-back), tenets.md L92 ("not
-    as a directly introspectible datum"), agency-void.md L100 (the Verification Circularity
-    anchor is live), positions/quantum-interface.md P-Q2 (empirical discriminability
-    none-by-construction). ONE REVIEW CLAIM CORRECTED IN THE TASK NOTE- the review
-    says testing-consciousness-collapse "never registers the indistinguishability
-    caveat anywhere", but L85/L244/L251 already route to the corridor taxonomy, so
-    the fix reuses existing links rather than adding a section; recorded so the executor
-    does not duplicate infrastructure. LENGTH both SAFE- testing 3773w and free-will
-    3724w, both soft_warning against the 4000 topics hard ceiling, and both fixes
-    are clause-level swaps. CHURN- testing ai_modified 2026-07-26 (cross-link add,
-    not prose), free-will 2026-07-28 (global-exclusion rewrite on a DIFFERENT line
-    and tenet, flagged as a collision in both the review and the task note); neither
-    is today, so the churn filter passes (replenish-churn-filter-overtight). Neither
-    file is targeted by any open task in the parsed Active list, and no vetoed entry
-    names either on the tenet-calibration axis. STILL UNQUEUED after this run, recorded
-    so a later pass does not re-derive it- family 4, the Tenet 1 mis-sourcing trio
-    (concepts/unity-of-consciousness.md L144, topics/non-temporal-consciousness.md
-    L100, plus notes at apex/phenomenology-mechanism-bridge.md L87 and topics/interaction-problem-across-traditions.md
-    L131); Errors 1, 3, 6 and 7 and the remaining Tenet 3/5 siblings, which the two
-    883 task notes already enumerate by name. CONCURRENCY- pgrep for evolve_loop returns
-    only this session''s own shell (replenish-fork-hallucinates-concurrent-loop, not
-    a real loop); git status before the write showed only evolution-state.yaml modified,
-    legitimate deferred cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree).
-    REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
-    Pruned run_881_note per the keep-~3 discipline (kept 882/883/884) (evolution-state-floor-restore-note-bloat).'
-  run_885_note: 'run no.885 (2026-07-29T03:17Z, interactive /replenish-queue): MINTED
-    two P2 refine-drafts to restore the floor (2 -> 4). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(load_todo())
-    == 2 verified LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3
-    (cycle_pick.py), unmet by 1; post-write tool-verified == 4, both new blocks parse
-    as TaskType.REFINE_DRAFT with Type + File present (lines 1674 and 1683), and select_queue_task
-    still returns the OLDER testing-consciousness-collapse task at line 1656, so top-first
-    FIFO is intact (queue-lifo-starvation). BOTTOM-INSERTED before the Completed Tasks
-    header. WHY THE FLOOR FELL: run 884 minted two and reported 4; BOTH of the older
-    883 holders drained within the hour (materialism-argument refine at eb0e06586
-    02:57Z, brain-specialness-boundary refine at 5a885c3dd 03:03Z), netting 2. Documented
-    replenish-at-floor alternation (unfin_loop_steady_state), NOT deadlock. SOURCE:
-    the same live reports-only artifact runs 883/884 drew on, reviews/tenet-check-2026-07-29.md,
-    whose closing Recommendation asks for FOUR consolidated family tasks in yield
-    order. Runs 883/884 minted families 1, 2 and 3 plus the one standalone Error;
-    THIS run mints family 4 (the last one) plus the Tenet 5 family''s remaining Error,
-    which the review explicitly asks to re-queue (Expect cycle_post to close a multi-file
-    task after the first file; re-queue the remainder). MINT 1 = concepts/unity-of-consciousness.md
-    L144, the Tenet 1 substance-lean mis-sourcing family. Chosen as primary over its
-    three siblings on length and severity: 2563 words vs the 3500 concepts hard ceiling
-    (~937 headroom), while topics/non-temporal-consciousness.md is 3995 against a
-    4000 hard ceiling (5 words of headroom, deletion-only), apex/phenomenology-mechanism-bridge.md
-    is 4565/5000 and topics/interaction-problem-across-traditions.md is a one-word
-    fix. MINT 2 = concepts/agent-causation.md L179, Error 6. Chosen because it is
-    the Tenet 5 family''s one remaining ERROR and is single-locus; runs 883 and 884
-    both skipped it on collision grounds, and this task ring-fences the collision
-    explicitly. ALL LOCI RE-VERIFIED VERBATIM ON DISK AT 03:15Z, not taken on the
-    review''s word (replenish-asserted-concrete-defect-often-false): unity L144 ''Subject
-    unity that persists across time is a precondition for conscious agency''; agent-causation
-    L179 ''agent causation posits fewer primitive relations than event causation'';
-    and all three unpicked Tenet 1 siblings (non-temporal L100, interaction-problem
-    L131, apex bridge L87). GROUNDS ALSO VERIFIED VERBATIM: tenets.md L56 (the binding-problem
-    treatment neither requires nor excludes the substance-bearing reading; the tenet
-    does not entail the commitment), tenets.md L172 (Substance-leaning leakage named
-    as a hidden-inheritance failure the matrix catches), concepts/where-the-substance-commitment-enters.md
-    L28 (canonical diagnostic, lean is downstream of agent causation), topics/philosophy-of-action-under-dualism.md
-    L98 (that tenet does not license the posit; it only refuses to let parsimony veto
-    it), agent-causation L177 (the 07-28 global-exclusion model paragraph, ring-fenced).
-    ONE REVIEW CLAIM CORRECTED IN MINT 1''s NOTE: the review says apex/phenomenology-mechanism-bridge.md
-    propagates because other articles cite this apex, but a live corpus grep shows
-    only positions/quantum-interface.md and one research note cite it among live content
-    - NOT the other three family members, so the apex is a fourth instance rather
-    than the upstream root. PROPAGATION FIX IDENTIFIED: a live grep confirms NONE
-    of the four Tenet 1 family files cites where-the-substance-commitment-enters,
-    which tenets.md L56 designates as the canonical diagnostic the agency cluster
-    should cite rather than re-state inline; adding the citation IS the fix. LENGTH:
-    mint 1 roomy (2563 vs 3500, ~937 headroom); mint 2 TIGHT and flagged as the binding
-    constraint (3458 vs 3500, ~42 headroom) - the task is scoped deletion-preferred
-    and forbidden to breach or to open a condense. That tightness is exactly why runs
-    883/884 left Error 6 unqueued; scoping it deletion-only resolves it. CHURN: unity
-    ai_modified 2026-07-18 (11 days back), agent-causation 2026-07-28 (yesterday,
-    different axis, ring-fenced) - neither is today, so the churn filter passes (replenish-churn-filter-overtight).
-    DEDUP: zero headers in the parsed Active list target either file and zero Vetoed
-    entries name either. EIGHT-SOURCE AUDIT (live on disk 2026-07-29T03:15Z; delta-focused,
-    since run 884 audited all eight 50 minutes earlier and the only structural movement
-    since is three commits): (1 chain) YIELDED BOTH MINTS from check-tenets. The one
-    genuinely new reports-only artifact since run 884, reviews/deep-review-2026-07-29-penfield-interactionist-dualism.md,
-    was read and yields NOTHING mintable - its Remaining Items section reads None,
-    and its Stability Notes explicitly say do NOT re-flag the underdetermination.
-    (2 unconsumed research) caps on disk leave topics 319/320 and concepts 318/320,
-    i.e. 1 and 2 slots, so no speculative expand-topic is warranted; no research note
-    awaits synthesis. (3 gap analysis) exhausted, as in runs 880-884; cap pressure
-    is the binding constraint. (4 staleness) DECLINED - a cycle-slot deep-review ran
-    at 03:00Z (9528536f2, penfield-interactionist-dualism) and closed as a converged
-    pass; a staleness deep-review minted 15 minutes later would double-dip the lane
-    (deep_review_over_reviews_converged). (5 orphans) quality.orphaned_files == 0.
-    (6 length) NO NEW MINT: the only content-file critical row is positions/quantum-interface.md,
-    whose over-length is a resolved 2026-06-08 split-DECLINE with a durable rationale
-    recorded in the file; every other critical row is a research note, apex/apex-articles.md
-    as an index hub, or topics/epistemology-of-convergence-arguments.md as a standing
-    human length decision. Note that mint 2 is itself length-constrained, so adding
-    a condense on top would be churn. (7 positions) 11 files in positions/ but only
-    10 domain entries, and positions-evolve last ran 2026-07-28T21:01Z, well inside
-    30d, so no audit is due (replenish-positions-audit-false-overdue); 7a surfaced
-    no new unregistered commitment, and the P-D3 Argued-in gap is already open as
-    a P3. (8 applied apex) not triggered. STILL UNQUEUED after this run, recorded
-    so a later pass does not re-derive it: the three Tenet 1 siblings and the four
-    remaining Tenet 5 members (many-worlds L54/L60 Error 7, quantum-interpretations
-    L48, concession-convergence L153, plus two Notes), all enumerated by name with
-    verified quotes and live word counts inside the two new task notes; Errors 1 and
-    3 (consciousness-and-integrated-information L62 at 4000/4000 and falsification-roadmap
-    L183 already over), which runs 883/884 excluded on zero-headroom grounds; and
-    the Tenet 2 warnings at duhem-quine L114 and neural-implementation-specifics L198/L32
-    (the latter is P-Q8-classified calibration drift, 2413 words with ample headroom,
-    and is the cleanest un-minted candidate for the next floor-restore). CONCURRENCY:
-    pgrep for evolve_loop and unfin-cycle returns only this session''s own shell (replenish-fork-hallucinates-concurrent-loop,
-    not a real loop); git status immediately before the write showed only evolution-state.yaml
-    modified, which is legitimate deferred cycle_post bookkeeping and was KEPT (orphaned-cyclepost-state-advance-in-worktree).
-    REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
-    Pruned run_882_note per the keep-~3 discipline (kept 883/884/885) (evolution-state-floor-restore-note-bloat).'
-  run_886_note: 'run no.886 (2026-07-29T11:16Z, cycle-driven /replenish-queue): MINTED
-    ONE P2 refine-draft, an exact floor restore (2 -> 3), not padding. AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
-    LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3, unmet by 1; post-write
-    tool-verified == 3. The new block parses (Type refine-draft + File obsidian/concepts/many-worlds.md,
-    full path not bare slug) and was BOTTOM-INSERTED below the two 03:17Z floor-holders
-    so top-first FIFO drains the older unity-of-consciousness and agent-causation
-    tasks first (queue-lifo-starvation). TARGET: reviews/tenet-check-2026-07-29.md
-    Error 7, the LAST UNQUEUED ERROR in that review and the remaining head of its
-    Tenet 5 parsimony family. concepts/many-worlds.md L60 runs parsimony forward in
-    Map voice (a theory positing infinite unobservable universes is not parsimonious
-    in any intuitive sense) and L54 heads the five-argument case with Ontological
-    Extravagance, while tenets.md L114 names the indexical objection the load-bearing
-    argument, L116 calls extravagance subsidiary, a registered cost not a refutation,
-    and L142 says the rejection must rest on the indexical objection and not the parsimony
-    complaint. BOTH LOCI RE-VERIFIED VERBATIM ON DISK AT MINT TIME WITH LINE NUMBERS
-    RE-MEASURED THIS RUN rather than copied from the review or from run 885 prose
-    (replenish-asserted-concrete-defect-often-false); the tenets.md quotations were
-    likewise re-read live, not inherited. LENGTH measured with tools.curate.length.analyze_length,
-    NOT wc: 3492 words, soft_warning, 8 words of headroom against the 3500 concepts
-    hard ceiling, so the task is scoped deletion-first and net-negative and explicitly
-    forbids opening a condense (count-words-includes-frontmatter, analyze-length-counts-reference-apparatus).
-    EIGHT-SOURCE AUDIT re-derived live this run, not trusted from prior notes (replenish-false-exhaustion-
-    mislabeled-drift): (1 chain) SOURCE USED and still not exhausted. (2 unconsumed
-    research) BLOCKED and confirmed so by the 07:36Z harvest run, which read all five
-    unscanned reviews and correctly minted zero; caps on disk are topics 318/320 and
-    concepts 317/320, so 2 and 3 free slots corpus-wide cannot absorb a new-article
-    chain. (3 gap analysis) exhausted, cap pressure binding; voids 100/100 at cap.
-    (4 staleness) DECLINED, a cycle-slot deep-review ran at 10:10Z and the pool is
-    converged (deep_review_over_reviews_converged). (5 orphans) none surfaced. (6
-    length) AUDITED via get_length_warnings: every content-tier hard or critical offender
-    is already vetoed, human-deferred, an index hub, a research working note, or a
-    positions register file being actively worked by the 02:18Z positions-evolve pass,
-    so NO clean blind-mintable condense exists (replenish-overmints-condense-vs-accept-as-survey).
-    (7 positions) register is 10 entries and the tenet-check found it CLEAN on all
-    five tenets, naming positions/quantum- interface.md the strongest calibration
-    artifact in the corpus; one positions-evolve P3 already open. (8 applied apex)
-    not triggered. DEDUP: a line-anchored parse of the Active region finds ZERO open
-    headers targeting concepts/many-worlds.md; the one many-worlds header there is
-    a blocked P3 length decision on the DIFFERENT file arguments/many-worlds-argument.md,
-    and every many-worlds hit in the Vetoed region is a completed check-marked entry
-    or a P3 on an unrelated subject. NOT SAME-SESSION CHURN: ai_modified is 2026-07-27T17:17:24+00:00,
-    two days back and not today (replenish-churn-filter-overtight). NOT RE-MINTING
-    TODAY''S CLOSED WORK: the paired Tenet 3 locus concepts/causal-closure.md L186
-    was re-read live and is ALREADY FIXED by the morning epiphenomenalism sweeps,
-    and concepts/self-stultification.md L3 is likewise already softened, so both were
-    EXCLUDED from the mint and recorded as do-not-re-mint in the task note. CONCURRENCY:
-    pgrep -af evolve_loop.py returned only this shell self-matching, so no rival loop;
-    git status immediately before the write showed only evolution-state.yaml modified,
-    which is legitimate deferred cycle_post bookkeeping and was KEPT (orphaned-cyclepost-state-advance-in-
-    worktree). REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-
-    race). Pruned run_883_note per the keep-~3 discipline (kept 884/885/886) (evolution-state-
-    floor-restore-note-bloat).'
+    chain_check_tenets_tenet2_warm_biology_calibration_PQ8: 1
+  run_885_note: 'run no.885 (2026-07-29T03:17Z, interactive /replenish-queue): MINTED two P2 refine-drafts to restore the floor (2 -> 4). AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(load_todo()) == 2 verified LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3 (cycle_pick.py), unmet by 1; post-write tool-verified == 4, both new blocks parse as TaskType.REFINE_DRAFT with Type + File present (lines 1674 and 1683), and select_queue_task still returns the OLDER testing-consciousness-collapse task at line 1656, so top-first FIFO is intact (queue-lifo-starvation). BOTTOM-INSERTED before the Completed Tasks header. WHY THE FLOOR FELL: run 884 minted two and reported 4; BOTH of the older 883 holders drained within the hour (materialism-argument refine at eb0e06586 02:57Z, brain-specialness-boundary refine at 5a885c3dd 03:03Z), netting 2. Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT deadlock. SOURCE: the same live reports-only artifact runs 883/884 drew on, reviews/tenet-check-2026-07-29.md, whose closing Recommendation asks for FOUR consolidated family tasks in yield order. Runs 883/884 minted families 1, 2 and 3 plus the one standalone Error; THIS run mints family 4 (the last one) plus the Tenet 5 family''s remaining Error, which the review explicitly asks to re-queue (Expect cycle_post to close a multi-file task after the first file; re-queue the remainder). MINT 1 = concepts/unity-of-consciousness.md L144, the Tenet 1 substance-lean mis-sourcing family. Chosen as primary over its three siblings on length and severity: 2563 words vs the 3500 concepts hard ceiling (~937 headroom), while topics/non-temporal-consciousness.md is 3995 against a 4000 hard ceiling (5 words of headroom, deletion-only), apex/phenomenology-mechanism-bridge.md is 4565/5000 and topics/interaction-problem-across-traditions.md is a one-word fix. MINT 2 = concepts/agent-causation.md L179, Error 6. Chosen because it is the Tenet 5 family''s one remaining ERROR and is single-locus; runs 883 and 884 both skipped it on collision grounds, and this task ring-fences the collision explicitly. ALL LOCI RE-VERIFIED VERBATIM ON DISK AT 03:15Z, not taken on the review''s word (replenish-asserted-concrete-defect-often-false): unity L144 ''Subject unity that persists across time is a precondition for conscious agency''; agent-causation L179 ''agent causation posits fewer primitive relations than event causation''; and all three unpicked Tenet 1 siblings (non-temporal L100, interaction-problem L131, apex bridge L87). GROUNDS ALSO VERIFIED VERBATIM: tenets.md L56 (the binding-problem treatment neither requires nor excludes the substance-bearing reading; the tenet does not entail the commitment), tenets.md L172 (Substance-leaning leakage named as a hidden-inheritance failure the matrix catches), concepts/where-the-substance-commitment-enters.md L28 (canonical diagnostic, lean is downstream of agent causation), topics/philosophy-of-action-under-dualism.md L98 (that tenet does not license the posit; it only refuses to let parsimony veto it), agent-causation L177 (the 07-28 global-exclusion model paragraph, ring-fenced). ONE REVIEW CLAIM CORRECTED IN MINT 1''s NOTE: the review says apex/phenomenology-mechanism-bridge.md propagates because other articles cite this apex, but a live corpus grep shows only positions/quantum-interface.md and one research note cite it among live content - NOT the other three family members, so the apex is a fourth instance rather than the upstream root. PROPAGATION FIX IDENTIFIED: a live grep confirms NONE of the four Tenet 1 family files cites where-the-substance-commitment-enters, which tenets.md L56 designates as the canonical diagnostic the agency cluster should cite rather than re-state inline; adding the citation IS the fix. LENGTH: mint 1 roomy (2563 vs 3500, ~937 headroom); mint 2 TIGHT and flagged as the binding constraint (3458 vs 3500, ~42 headroom) - the task is scoped deletion-preferred and forbidden to breach or to open a condense. That tightness is exactly why runs 883/884
+    left Error 6 unqueued; scoping it deletion-only resolves it. CHURN: unity ai_modified 2026-07-18 (11 days back), agent-causation 2026-07-28 (yesterday, different axis, ring-fenced) - neither is today, so the churn filter passes (replenish-churn-filter-overtight). DEDUP: zero headers in the parsed Active list target either file and zero Vetoed entries name either. EIGHT-SOURCE AUDIT (live on disk 2026-07-29T03:15Z; delta-focused, since run 884 audited all eight 50 minutes earlier and the only structural movement since is three commits): (1 chain) YIELDED BOTH MINTS from check-tenets. The one genuinely new reports-only artifact since run 884, reviews/deep-review-2026-07-29-penfield-interactionist-dualism.md, was read and yields NOTHING mintable - its Remaining Items section reads None, and its Stability Notes explicitly say do NOT re-flag the underdetermination. (2 unconsumed research) caps on disk leave topics 319/320 and concepts 318/320, i.e. 1 and 2 slots, so no speculative expand-topic is warranted; no research note awaits synthesis. (3 gap analysis) exhausted, as in runs 880-884; cap pressure is the binding constraint. (4 staleness) DECLINED - a cycle-slot deep-review ran at 03:00Z (9528536f2, penfield-interactionist-dualism) and closed as a converged pass; a staleness deep-review minted 15 minutes later would double-dip the lane (deep_review_over_reviews_converged). (5 orphans) quality.orphaned_files == 0. (6 length) NO NEW MINT: the only content-file critical row is positions/quantum-interface.md, whose over-length is a resolved 2026-06-08 split-DECLINE with a durable rationale recorded in the file; every other critical row is a research note, apex/apex-articles.md as an index hub, or topics/epistemology-of-convergence-arguments.md as a standing human length decision. Note that mint 2 is itself length-constrained, so adding a condense on top would be churn. (7 positions) 11 files in positions/ but only 10 domain entries, and positions-evolve last ran 2026-07-28T21:01Z, well inside 30d, so no audit is due (replenish-positions-audit-false-overdue); 7a surfaced no new unregistered commitment, and the P-D3 Argued-in gap is already open as a P3. (8 applied apex) not triggered. STILL UNQUEUED after this run, recorded so a later pass does not re-derive it: the three Tenet 1 siblings and the four remaining Tenet 5 members (many-worlds L54/L60 Error 7, quantum-interpretations L48, concession-convergence L153, plus two Notes), all enumerated by name with verified quotes and live word counts inside the two new task notes; Errors 1 and 3 (consciousness-and-integrated-information L62 at 4000/4000 and falsification-roadmap L183 already over), which runs 883/884 excluded on zero-headroom grounds; and the Tenet 2 warnings at duhem-quine L114 and neural-implementation-specifics L198/L32 (the latter is P-Q8-classified calibration drift, 2413 words with ample headroom, and is the cleanest un-minted candidate for the next floor-restore). CONCURRENCY: pgrep for evolve_loop and unfin-cycle returns only this session''s own shell (replenish-fork-hallucinates-concurrent-loop, not a real loop); git status immediately before the write showed only evolution-state.yaml modified, which is legitimate deferred cycle_post bookkeeping and was KEPT (orphaned-cyclepost-state-advance-in-worktree). REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race). Pruned run_882_note per the keep-~3 discipline (kept 883/884/885) (evolution-state-floor-restore-note-bloat).'
+  run_886_note: 'run no.886 (2026-07-29T11:16Z, cycle-driven /replenish-queue): MINTED ONE P2 refine-draft, an exact floor restore (2 -> 3), not padding. AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3, unmet by 1; post-write tool-verified == 3. The new block parses (Type refine-draft + File obsidian/concepts/many-worlds.md, full path not bare slug) and was BOTTOM-INSERTED below the two 03:17Z floor-holders so top-first FIFO drains the older unity-of-consciousness and agent-causation tasks first (queue-lifo-starvation). TARGET: reviews/tenet-check-2026-07-29.md Error 7, the LAST UNQUEUED ERROR in that review and the remaining head of its Tenet 5 parsimony family. concepts/many-worlds.md L60 runs parsimony forward in Map voice (a theory positing infinite unobservable universes is not parsimonious in any intuitive sense) and L54 heads the five-argument case with Ontological Extravagance, while tenets.md L114 names the indexical objection the load-bearing argument, L116 calls extravagance subsidiary, a registered cost not a refutation, and L142 says the rejection must rest on the indexical objection and not the parsimony complaint. BOTH LOCI RE-VERIFIED VERBATIM ON DISK AT MINT TIME WITH LINE NUMBERS RE-MEASURED THIS RUN rather than copied from the review or from run 885 prose (replenish-asserted-concrete-defect-often-false); the tenets.md quotations were likewise re-read live, not inherited. LENGTH measured with tools.curate.length.analyze_length, NOT wc: 3492 words, soft_warning, 8 words of headroom against the 3500 concepts hard ceiling, so the task is scoped deletion-first and net-negative and explicitly forbids opening a condense (count-words-includes-frontmatter, analyze-length-counts-reference-apparatus). EIGHT-SOURCE AUDIT re-derived live this run, not trusted from prior notes (replenish-false-exhaustion- mislabeled-drift): (1 chain) SOURCE USED and still not exhausted. (2 unconsumed research) BLOCKED and confirmed so by the 07:36Z harvest run, which read all five unscanned reviews and correctly minted zero; caps on disk are topics 318/320 and concepts 317/320, so 2 and 3 free slots corpus-wide cannot absorb a new-article chain. (3 gap analysis) exhausted, cap pressure binding; voids 100/100 at cap. (4 staleness) DECLINED, a cycle-slot deep-review ran at 10:10Z and the pool is converged (deep_review_over_reviews_converged). (5 orphans) none surfaced. (6 length) AUDITED via get_length_warnings: every content-tier hard or critical offender is already vetoed, human-deferred, an index hub, a research working note, or a positions register file being actively worked by the 02:18Z positions-evolve pass, so NO clean blind-mintable condense exists (replenish-overmints-condense-vs-accept-as-survey). (7 positions) register is 10 entries and the tenet-check found it CLEAN on all five tenets, naming positions/quantum- interface.md the strongest calibration artifact in the corpus; one positions-evolve P3 already open. (8 applied apex) not triggered. DEDUP: a line-anchored parse of the Active region finds ZERO open headers targeting concepts/many-worlds.md; the one many-worlds header there is a blocked P3 length decision on the DIFFERENT file arguments/many-worlds-argument.md, and every many-worlds hit in the Vetoed region is a completed check-marked entry or a P3 on an unrelated subject. NOT SAME-SESSION CHURN: ai_modified is 2026-07-27T17:17:24+00:00, two days back and not today (replenish-churn-filter-overtight). NOT RE-MINTING TODAY''S CLOSED WORK: the paired Tenet 3 locus concepts/causal-closure.md L186 was re-read live and is ALREADY FIXED by the morning epiphenomenalism sweeps, and concepts/self-stultification.md L3 is likewise already softened, so both were EXCLUDED from the mint and recorded as do-not-re-mint in the task note. CONCURRENCY: pgrep -af evolve_loop.py returned only this shell self-matching, so no rival loop; git status immediately before the write showed only evolution-state.yaml modified, which is legitimate
+    deferred cycle_post bookkeeping and was KEPT (orphaned-cyclepost-state-advance-in- worktree). REVERT only if a sibling replenish double-restores this slot (concurrent-replenish- race). Pruned run_883_note per the keep-~3 discipline (kept 884/885/886) (evolution-state- floor-restore-note-bloat).'
+  run_887_note: 'run no.887 (2026-07-29T12:26Z, cycle-driven /replenish-queue): MINTED ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3, unmet by 1; post-write tool-verified == 3. The new block parses as TaskType.REFINE_DRAFT with Type present and file_path == obsidian/topics/neural-implementation-specifics.md (FULL path, not a bare slug), and select_queue_task still returns the OLDER agent-causation task, so top-first FIFO is intact (queue-lifo-starvation). BOTTOM-INSERTED immediately above the Completed Tasks header, below the 03:17Z and 11:16Z floor-holders. WHY THE FLOOR FELL: run 886 minted one and reported 3; the unity-of-consciousness holder drained at commit 5c4270dda, netting 2. Documented replenish-at-floor alternation (unfin_loop_steady_state), NOT deadlock. TARGET: reviews/tenet-check-2026-07-29.md L129, the Tenet 2 warm-biology calibration WARNING - the item run 885 recorded by name as the cleanest un-minted candidate for the next floor-restore, and the last un-minted warning in that review now that runs 883-886 have closed all four Error families. A warning-tier item earns P2 here because positions/quantum-interface.md P-Q8 makes it a STANDING REGISTER MANDATE, not a discretionary note. BOTH LOCI RE-MEASURED BY LIVE grep -n AND RE-READ VERBATIM THIS RUN, not copied from the review or from run 885 prose (replenish-asserted-concrete-defect-often-false): L198 ''Strongly supported: Biological systems can exploit quantum effects at neural-relevant timescales'', sitting under the L194 heading ''What the Evidence Supports''; and L32 ''Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations''. GROUNDS ALSO VERIFIED VERBATIM: positions/quantum-interface.md P-Q8 at heading L124 and assertion L128, ''Citations of warm-quantum-biology that read as support rather than precedent are calibration drift and are corrected when caught''; and the sibling graded treatment in topics/quantum-biology-and-neural-consciousness.md at L75 (suggestive correlation, not direct biological data), L77 (Wiest 2025 a partisan Orch-OR brief), L79 (Khan 2024 admits a parsimonious classical reading) and L81 (Craddock 2017 a computational prediction, not a spectroscopic measurement). TWO ALREADY-CORRECT ITEMS RING-FENCED IN THE TASK NOTE so the executor does not regress them, both checked live: the avian-magnetoreception anchor at L198 genuinely IS experimental (the error is the inference to the neural case, not the anchor), and L32''s ''computationally demonstrated'' Denton-2024 framing is the already-corrected form closed out-of-band 2026-07-14 (real cite, Nat Commun 15 10823, computational spin-dynamics simulation) - do NOT re-open (denton-2024 propagation). LENGTH measured with tools.curate.length.analyze_length, NOT wc (count-words-includes-frontmatter, analyze-length-counts-reference-apparatus): 2429 words, status ok, against 3000 soft / 4000 hard for topics - 1571 words of HEADROOM. This is the rare calibration task with room to ADD qualifying clauses, so the task is scoped additive and explicitly forbidden to open a condense. EIGHT-SOURCE AUDIT re-derived live this run, not trusted from prior notes (replenish-false-exhaustion-mislabeled-drift): (1 chain) SOURCE USED - the check-tenets review still had this one warning un-minted. (2 unconsumed research) BLOCKED, confirmed by the 07:36Z harvest which read all five unscanned reviews and correctly minted zero; live caps are topics 318/320 and concepts 317/320, so 2 and 3 free slots corpus-wide cannot absorb a new-article chain. (3 gap analysis) exhausted, cap pressure binding; voids 100/100 at cap. (4 staleness) DECLINED - get_review_candidates returns 37 rows led by topics/amplification-mechanisms-consciousness-physics.md at 14.19, but the 24-slot cycle already spends 4 slots on deep-review and one ran at 10:10Z, so a staleness mint would double-dip a
+    converged lane (deep_review_over_reviews_converged); it would also be P3 and therefore would NOT restore the floor (p3-only-floor-preemption-starves). (5 orphans) quality.orphaned_files == 0; an independent live link-scan surfaced 92 rows but ALL are archive/, authors/ or search.md, none a live content orphan. (6 length) AUDITED and YIELDED NOTHING MINTABLE. Decomposing apparatus from argument (the analyze-length-counts-reference-apparatus hazard) shows ZERO live content articles over CRITICAL on authored prose: topics/epistemology-of-convergence-arguments.md reads 6602 total but 5963 argument words against a 6000 critical, and apex/phenomenal-output-causal-machinery-dissociation.md reads 6904 total but 5649 argument words against a 6500 critical, so BOTH critical flags were apparatus inflation. The single worst genuine offender, epistemology-of-convergence-arguments at 1963 over hard, is EXPLICITLY VETOED - the Vetoed section carries five separate condense entries for it, diagnosed as churn-prone because it re-expands after every opponent-engagement refine, with the recommended structural remedy also vetoed - and the skill forbids re-proposing vetoed tasks. apex/apex-articles.md at 10509 is an index hub. The remainder sit in the standing HUMAN LENGTH DECISION gray zone already represented by four blocked queue entries. (7 positions) register is 10 domain entries; positions-evolve ran 2026-07-29T02:18Z and 2026-07-28T21:01Z, far inside 30d, so no audit is due (replenish-positions-audit-false-overdue); 7a surfaced no new unregistered commitment and the P-D3 Argued-in gap is already open as a P3. (8 applied apex) not triggered. NOT SAME-AXIS CHURN: ai_modified is 2026-07-29T03:51:58+00:00, which IS today, so the churn filter was checked rather than assumed - git show 9d460032c for this file was read live and its only body change is the Tegmark orders-of-magnitude arithmetic at L62 (seven -> nine), part of a 22-file corpus sweep, touching neither L198 nor L32 (replenish-churn-filter-overtight). DEDUP: a line-anchored parse of the Active region finds ZERO open headers targeting this file; the one Active hit is a check-marked DONE-OUT-OF-BAND 2026-07-14 entry on the Denton-2024 citation-framing axis, and the one Vetoed hit is a check-marked 2026-05-22 deep-review. CONCURRENCY: pgrep -af evolve_loop.py returned only this shell self-matching, so no rival loop (replenish-fork-hallucinates-concurrent-loop); git status immediately before the write showed only evolution-state.yaml modified, legitimate deferred cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree). REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race). STILL UNQUEUED after this run, recorded so a later pass does not re-derive it: the Tenet 2 warning at topics/duhem-quine-underdetermination-consciousness.md L114 (mitigated - the next paragraph runs a genuine self-binding audit, which is why the review declined to call it an error), and the review''s Notes section observations (binding-void L130, noetic-feelings-void L150, death-and-consciousness L191, the-convergence-argument-for-dualism L177, interaction-problem-across-traditions L131 one-word fix, phenomenology-mechanism-bridge L87). Pruned run_884_note per the keep-~3 discipline (kept 885/886/887) (evolution-state-floor-restore-note-bloat).'
