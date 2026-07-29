@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-06 10:13:00+00:00
+ai_modified: 2026-07-29 22:30:29+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Wheeler's Participatory Universe and It from Bit
 archived: true
@@ -85,7 +85,7 @@ For the Map, Barbour's critique is less threatening than it might appear. The Ma
 
 The Foundational Questions Institute dedicated its 2013 essay contest to Wheeler's thesis, generating dozens of responses from physicists and philosophers. The resulting Springer volume — *It From Bit or Bit From It?* (2015) — became the standard reference for the debate. No consensus emerged. The field remains genuinely divided — not in the way that one side is clearly winning and the other losing, but in the deeper sense that the question may be ill-posed or may require conceptual resources we do not yet possess. Some contributors argued that the very framing ("it" versus "bit") creates a false dichotomy, and that the relationship between information and physical reality may be more entangled than either slogan captures.
 
-This state of affairs supports the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. Neither pure physicalism (bit from it) nor pure informationalism (it from bit) has been established. The apparently simpler answer — whichever direction one favours — has not been vindicated. The Stanford Encyclopedia of Philosophy interprets Wheeler as proposing a dual-aspect framework: "neither purely physical nor purely mental." If this reading is correct, Wheeler was not an idealist and not a physicalist but something for which we may lack adequate categories.
+This state of affairs supports the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. Neither pure physicalism (bit from it) nor pure informationalism (it from bit) has been established. The apparently simpler answer — whichever direction one favours — has not been vindicated. The Stanford Encyclopedia of Philosophy groups Wheeler with Eddington among "approaches toward a neither-mental-nor-material base reality" — a dual-aspect placement made by the encyclopedia's taxonomy rather than by Wheeler's own self-description. If this reading is correct, Wheeler was not an idealist and not a physicalist but something for which we may lack adequate categories.
 
 ## Relation to Site Perspective
 

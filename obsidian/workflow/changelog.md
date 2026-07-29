@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T22:20:55+00:00'
+ai_modified: '2026-07-29T22:30:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 22:30 UTC - refine-draft
+- **Status**: Success (minimal correction; archive otherwise frozen)
+- **File**: `archive/topics/it-from-bit-and-participatory-ontology`
+- **Original score**: n/a (single-defect correction, no full quality review; `scripts/curate.py` is absent from this repo)
+- **Changes**:
+  - **Fabricated verbatim quote corrected (the only body edit).** L85 read: *The Stanford Encyclopedia of Philosophy interprets Wheeler as proposing a dual-aspect framework: "neither purely physical nor purely mental."* Verified against the live entry *Quantum Approaches to Consciousness* (plato.stanford.edu/entries/qt-consciousness/), fetched and string-matched this pass: **0 occurrences** of the quoted string. The clause now quotes SEP's actual words — "approaches toward a neither-mental-nor-material base reality" — and attributes the dual-aspect placement to the encyclopedia's taxonomy (SEP groups Wheeler with Eddington 1946) rather than to Wheeler's self-description. Handling inherited verbatim from the live successor `topics/wheelers-participatory-universe-and-it-from-bit` (its locus-1 fix, 2026-07-29 deep-review), not newly composed. The following sentence and the rest of the paragraph are untouched.
+  - Hugo mirror `hugo/content/archive/topics/it-from-bit-and-participatory-ontology.md` given the identical sentence edit by hand (no full `sync.py` run, to avoid unrelated corpus-wide diffs mid-cycle), so the published archive page no longer carries the fabricated quote.
+  - `ai_modified` bumped. `ai_contribution`, `ai_system`, and `last_deep_review` deliberately held — this is a factual correction to a frozen page, not a re-authoring or a review.
+- **Verified and deliberately NOT changed**:
+  - **L99 is a real quote, correctly framed.** *"Meaning (not causation) is the appropriate concept to interpret correlations between the mental and the physical."* occurs **verbatim** in the SEP entry, in a passage whose subject is Wheeler's meaning circuit and "the Eddington-Wheeler approach", so the article's attribution of it to SEP's reading of Wheeler is sound. Left as-is. (Only nuance: SEP's sentence continues "…which — in the Eddington-Wheeler approach — connect the subjective with the objective", so the article's closing period is a mid-sentence truncation; substance unaffected, not worth an edit to a frozen page.)
+  - **Seed locus confirmed benign.** `research/wheeler-it-from-bit-2026-03-14` L92 carries the string **unquoted**, as a bullet paraphrase, and it is a fair compression of SEP's real sentence "The link between objective registration and subjective selection is neither part of the physical alone nor of the mental alone." Not a defect; left untouched. Recorded here so a future synthesis pass does **not** promote it into quotation marks — if it ever needs quoting, quote SEP's actual sentence, not the compression.
+  - No correction notice added to the body, no cross-links to newer articles, no rewriting of the archived argument or its conclusions.
+- **Reported for operator decision (not actioned)**: the archived file still ends in an `AI REFINEMENT LOG` HTML-comment block (dated 2026-04-06, self-labelled "should be removed after human review") — the kind the 2026-05-19 sweep removed from 65 live articles; `archive/` was evidently out of that sweep's scope. Out of scope for this pick.
+- **Published**: yes
 
 ## 2026-07-29 22:18 UTC - deep-review
 - **Status**: Success
