@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T14:43:08.184954+00:00'
-session_count: 17731
-cycle_position: 11994
+last_updated: '2026-07-29T14:53:11.713594+00:00'
+session_count: 17732
+cycle_position: 11995
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T11:35:43.133298+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-29T14:22:47.401350+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-29T14:00:26.485467+00:00'
+  agentic-social: '2026-07-29T14:55:19.431701+00:00'
   embed-videos: '2026-07-29T09:34:10.197548+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T14:31:27.764688+00:00'
+  refine-draft: '2026-07-29T14:53:11.713594+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T14:43:08.184954+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -117,10 +113,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-29'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-29'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-29'
@@ -193,13 +185,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-07-29'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-29'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/consistent-histories-interpretation/
-    date: '2026-07-22T14:45:43.521896+00:00'
-    topics:
-    - qm-interpretations-beyond-many-worlds
-    - completeness-in-physics-under-dualism
   - url: https://unfinishablemap.org/topics/biological-teleology-and-the-interface-framework/
     date: '2026-07-22T15:45:59.334079+00:00'
     topics:
@@ -1057,6 +1048,13 @@ agentic_social:
     date: '2026-07-29T13:57:21.910038+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/sorkin-delta-brain-internal-analogues/
+    date: '2026-07-29T14:55:19.431634+00:00'
+    topics:
+    - brain-internal-born-rule-testing
+    - testing-consciousness-collapse
+    - falsification-roadmap-for-the-interface-model
+    - born-rule-and-the-consciousness-interface
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
