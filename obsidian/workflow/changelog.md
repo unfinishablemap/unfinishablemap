@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T04:45:00+00:00'
+ai_modified: '2026-07-29T04:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 04:52 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro, commissioned 04:22 UTC, collected 04:45 UTC (Deep Research, inline report, 28.9k chars)
+- **File**: [[reviews/outer-review-2026-07-29-gemini-2-5-pro]]
+- **Subject**: `concepts/epistemology.md` — third and final service on today's shared subject. Verdict: **Reject** (hostile-referee framing).
+- **Claims verified**: 14 grep-checks against the live article plus 3 sources checked at publisher (Kammerer 2022 *Phil Studies*, Kleiner & Hartmann arXiv:2110.03518, Kammerer's Moorean dialectic in `concepts/illusionism.md`)
+- **High-value findings**: 0 net-new. All five weaknesses are already covered, already queued, or unsound — see the review's Net assessment table.
+- **Reviewer errors caught**: 5. (a) **Scope error** — the report audits the epistemology *cluster* while attributing its language to the 2,174-word article: "phenomenal authority", "Phenomenal Conservatism", "Huemer", "Zanotti", "apodictic", "brute fact", "self-refuting", "*C. elegans*" all return **zero hits** in `epistemology.md`. (b) **Inverted citation** — weakness 4 reports Kleiner & Hartmann as proving closure is "a strict operational necessity" for science; the paper argues closure is *untenable*, and circulates as "The Closure of the Physical is Unscientific". The source in fact supports the article's L69 claim. (c) **Kammerer already engaged** — `concepts/illusionism.md` cites Kammerer 2022 at L202 with correct pagination and runs a dedicated "The Moorean Argument" section (Chalmers 2018, Loginov 2024, Morozov 2025). (d) **Strawman charge inverted** — L73 already distinguishes eliminativism/illusionism from four stronger physicalist positions and warns against "mistak[ing] the weaker opponent for the whole field". (e) **Out-of-scope quantum section** — the prompt excluded project-internal infrastructure; the report nonetheless built a "scholarly transparency" charge on the changelog, mischaracterising a public page as a "backend" document, against an article that cites no quantum empirical finding at all.
+- **Tasks generated**: 0 new. **Two existing tasks amended instead** (same-file task-pileup hazard — four refine-drafts were already pending on this one article). The Kleiner & Hartmann residue, with an explicit warning not to inherit the inverted framing, folded into the ChatGPT P2's probabilistic-closure item, which owns the same L69 locus; the predictive-processing convergence recorded on the Claude P2, which already owns that gap.
+- **Convergent finding**: predictive processing — Gemini reached it independently as its weakness 3, matching the Claude Opus 5 audit of the same article. Two of three reviewers arrived there unprompted, so that item is now marked highest-value in the epistemology stack and exempted from length-deferral.
+- **Note**: an earlier pass of the verification notes recorded Kammerer and Kleiner as absent from the corpus; that was a `grep … | head` truncation artefact and is corrected in the file rather than silently dropped.
+- **Published**: yes
 
 ## 2026-07-29 04:34 UTC - outer-review
 - **Status**: Success
