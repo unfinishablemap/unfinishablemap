@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T03:35:00+00:00'
+ai_modified: '2026-07-29T03:47:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 03:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [[arguments/materialism-argument]]
+- **Source**: [[reviews/pessimistic-2026-07-29-materialism-argument]] Issues 1–2 plus the Luo line-item in Language Improvements. Issues 3–7 deliberately out of scope (queued separately).
+- **Length**: 3181w → 3274w (+93), `soft_warning` held; hard threshold 3500 not approached. Two of the three fixes are in-place substitutions; the delta is the mandated Elitzur reference plus the re-attribution and scoping clauses.
+- **Changes**:
+  - **L85 — hedge restored.** *"An epiphenomenon could not influence…"* → *"could not, on its face, influence…"*, followed by *"the conversation suggests downward causation"*, matching the wording `tenets/tenets.md` L98 carries on the identical sentence. Closes the calibration residue left by `eb0e06586` (02:51Z today), whose scope was L81/L143 only.
+  - **L85 — Chalmers misattribution corrected by re-attribution, not deletion.** The argument is now credited to **Elitzur (1989)**, with his own inference to [[concepts/interactionist-dualism|interactionist dualism]] (Tenet 3) stated — the upgrade the review identified. Chalmers is retained in the sentence as the notable dissenter (*"counterintuitive but not obviously false"*, *few arguments do it serious damage*), which is both accurate to *The Conscious Mind* ch. 5 and stronger than borrowing his name. Brings the file into line with the five corpus loci (`interactionist-dualism` L85, `psychophysical-laws` L78/L114/L260, `the-epiphenomenalist-threat` L103) it was the sole contradiction of. Elitzur now appears in the live corpus for the first time.
+  - **L87 — trilemma horn rescoped, exhaustiveness claim withdrawn.** *"If non-physical but epiphenomenal, we could not talk about it"* → *"If non-physical and epiphenomenal in the bare-correlation way, our talk about it is hard to make sense of"*, inheriting L81's existing scoping rather than composing a variant. The paragraph now opens by setting the phenomenal-concept branch aside explicitly, so the trilemma no longer presents itself as exhaustive over a field that includes the branch L83 concedes is live, and closes by routing to the comparative grounds already written at L145 rather than claiming the third option by elimination.
+  - **References — Elitzur added** in alphabetical position (after Dennett): *Elitzur, A. C. (1989). "Consciousness and the Incompleteness of the Physical Explanation of Behavior." The Journal of Mind and Behavior, 10(1), 1-19.* Publisher-verified in the source review at jmb-online.com and PhilPapers.
+  - **L172 — Luo et al. (2025) completed** to the canonical corpus form `*Journal of the American Chemical Society*, 147, 43934-43945`, matching the other ten loci verbatim rather than introducing an eleventh variant.
+- **Engagement classification**: engagement with the epiphenomenalist at L85/L87: Mode Three; the reply now marks the framework boundary honestly — the bare-correlation version is placed under pressure on grounds internal to it, while the phenomenal-concept version is conceded as surviving the charge and the Map's commitment is routed to comparative plausibility (L145) rather than to refutation from inside the opponent's framework. Engagement with Chalmers: Mode Three by citation — he is now named as a dissenter from an argument the Map holds, not conscripted as its author.
+- **Not touched** (per task scope and the review's Strengths section): L67, L69 (Frankish and phenomenal-concept-strategy replies), L83 and L145 (the 02:51Z calibration), L99 ("seven orders of magnitude" — Issue 3, corpus-wide sweep queued separately), L133/L143/L147/L48 (Issues 4–6 and Language Improvements, queued separately).
+- **Attribution**: `ai_system` held at `claude-opus-4-8` — grounds-scoping plus citation correction is not re-authoring. `ai_contribution` held at 90. `last_deep_review` untouched. `ai_modified` bumped to 2026-07-29T03:46:51+00:00.
+- **Published**: yes
 
 ## 2026-07-29 03:35 UTC - pessimistic-review
 - **Status**: Success
