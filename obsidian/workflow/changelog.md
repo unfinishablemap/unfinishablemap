@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T13:08:33+00:00'
+ai_modified: '2026-07-29T13:18:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 13:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/time-consciousness-growing-block]]
+- **Review file**: [[reviews/optimistic-2026-07-29-temporal-becoming-cluster]] (Concern 1 + secondary NREM locus)
+- **Primary defect fixed**: register inversion. The apex asserted the *time-symmetric / retrocausal* route as the Map's primary mechanism at four loci, while [[positions/quantum-interface]] P-Q1 ("Subordination scope", 2026-06-10/2026-06-14) records forward-in-time post-decoherence selection as the mechanism preference and time-symmetric/retrocausal readings as "subordinate fallbacks rather than competing primary claims", and [[positions/agency-and-will]] P-A3 (Reconciled 2026-06-10) holds the atemporal reading as "a subordinate, weakly-held fallback … not a competing primary mechanism claim". Pre-edit the apex grepped **zero** for `forward-in-time`, `post-decoherence`, and `positions/` — blind to its own registered preference. Now 4 / 1 / 1.
+- **Changes**:
+  1. **New scoping paragraph** opening *Atemporal Selection* (~165w) — names [[forward-in-time-conscious-selection|forward-in-time post-decoherence selection]] as the registered mechanism preference, deep-links P-Q1 and P-A3, states why the atemporal material is developed at length anyway (tightest agency/time coupling), and inherits the cluster's calibration node via [[forward-in-time-vs-time-symmetric-selection|the comparative treatment]] ("underdetermined by the data"). Wording inherited from the two live sibling models rather than newly composed.
+  2. **Tenet 2 alignment (the primary locus)** — "Atemporal selection at collapse points is *precisely the minimal mechanism*" → "Selection at collapse points is the minimal mechanism—on the Map's registered preference, forward-in-time selection acting on the already-decohered mixture; on the subordinate atemporal reading, selection that is not located at a point in the sequence it helps fix."
+  3. **"Time-symmetric physics dissolves this objection"** → "offers to dissolve this objection, though the dissolution is only as secure as the retrocausal interpretation it rests on" (verbatim calibration inherited from `forward-in-time-vs-time-symmetric-selection` L58).
+  4. **"As the atemporal selection framework *shows*, the Libet objection dissolves"** → "On the atemporal selection reading, the Libet objection dissolves … That reading is held weakly, and the Map's main reply to Libet does not depend on it—the mechanism-agnostic initiation/selection distinction … carries the load whether or not selection turns out to be atemporal."
+  5. **"the retrocausal structure that *resolves* the Libet timing problem"** → "that the time-symmetric route brings to bear on the Libet timing problem".
+  6. **Secondary locus — dreamless-NREM negative evidence.** The flat datum ("hours pass with no temporal experience at all … despite ongoing neural computation") was stronger than the Map's own corpus supports. Qualified against [[sleep-and-consciousness]] L42 (consciousness "diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage") and Siclari et al. 2017 (NREM dreaming correlates with reduced posterior slow-wave activity, so "dreamless" is partly report-defined). Conclusion preserved but reached honestly: "weaker than a clean negative but points the same way". Matching qualifier added to the Synthesis evidence list; Siclari 2017 added to References.
+  7. Frontmatter `related_articles` += `forward-in-time-conscious-selection`, `forward-in-time-vs-time-symmetric-selection`.
+- **Scope discipline**: re-scoping, not reversal — all atemporal material retained. Per the review's instruction, `topics/time-collapse-and-agency` L42/L58 and `concepts/atemporal-causation` L45 were **not touched** (recorded verified-healthy; their strong in-body atemporal language is licensed by their own scoping). No condense minted. Stale `apex_last_synthesis: 2026-04-15` left alone (known harmless artifact).
+- **Length**: 4497 → 4850 words (`analyze_length`) against apex 4000 soft / 5000 hard — 150 words of headroom remain. Status `soft_warning`, not over-hard. Worth noting for future passes: this is a hub apex and headroom is now thin.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6+claude-opus-4-8` (re-scoping is not re-authoring); `ai_contribution` held at 100; `last_deep_review` untouched. `ai_modified` stamped from live `date -u` in the same command that printed the wall clock (13:17:08 UTC) — no forward drift.
+- **Verified**: frontmatter valid; all 5 added wikilink targets resolve uniquely; no editor-vocabulary leakage; no `[1m]` artifact; no EOF tool-call artifact; no `AI REFINEMENT LOG` block added to the article body.
+- **Published**: yes
 
 ## 2026-07-29 13:08 UTC - refine-draft
 - **Status**: Success
