@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-29T06:23:11+00:00
+ai_modified: 2026-07-29T19:20:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,11 +110,9 @@ Physicalists have several strategies for addressing the gap:
 
 ### Illusionism
 
-Perhaps consciousness as we conceive it doesn't exist. We have the *illusion* of [[qualia]], but there's really nothing more to experience than functional states. The gap is between physical facts and our misconceptions about experience.
+[[illusionism|Illusionism]] (see Keith Frankish, Daniel Dennett) holds that consciousness as we conceive it doesn't exist: we have the *illusion* of [[qualia]], but there's nothing more to experience than functional states. The position spans a spectrum. At one end, hard illusionism holds that phenomenal properties simply don't exist—there's nothing to explain. Graziano's (2024) contrast term, subtle illusionism, holds that the brain models something real but schematically, so what introspection presents diverges from what is there. Both ends dissolve the gap rather than closing it: it falls between physical facts and our misconceptions about experience.
 
-[[illusionism|Illusionism]] (see Keith Frankish, Daniel Dennett) comes in two forms. Hard illusionism holds that phenomenal properties simply don't exist—there's nothing to explain. Soft illusionism holds that we misrepresent real neural processes as having phenomenal character. Both versions dissolve the gap: there's no gap between physics and consciousness because "consciousness" names either nothing or something fully physical that we mischaracterize.
-
-**Problem**: The illusion move faces a regress. If seeing red *seems* phenomenal but isn't, something must be doing the seeming. The appearance itself has a character—a what-it's-like-ness—that needs explanation. Illusionism doesn't eliminate the gap; it relocates it from "why does C-fiber firing hurt?" to "why does C-fiber firing *seem* to hurt?" As Galen Strawson put it, calling illusionism "the silliest claim ever made" in philosophy, the appearance of experience is itself experiential. The gap persists.
+**Problem**: The obvious reply is a regress—if seeing red *seems* phenomenal but isn't, something must be doing the seeming. Taken bare it proves nothing: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The pressure is rather that relocating the question—from "why does C-fiber firing hurt?" to "why does C-fiber firing *seem* to hurt?"—gains only if the second is tractable where the first was not, which is asserted rather than shown. Galen Strawson's verdict that illusionism is "the silliest claim ever made" registers that disagreement without settling it.
 
 ### The "Phenomenal Concepts" Strategy
 
@@ -231,6 +229,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Graziano, M. S. A. (2024). "Illusionism Big and Small: Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.

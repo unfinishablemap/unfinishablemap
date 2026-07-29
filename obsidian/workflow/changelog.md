@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T19:11:19+00:00'
+ai_modified: '2026-07-29T19:21:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 19:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]]
+- **Task**: Sibling half of `reviews/pessimistic-2026-07-29-illusionism` Issue 1 (see that file's L82, "Same defect, other file"). Both loci re-grepped on disk before editing; both still present exactly as described.
+- **Item 1 — invented binary replaced with Graziano's actual taxonomy.** L115 asserted illusionism "comes in two forms", pairing hard illusionism against a **"Soft illusionism"** that is not Graziano's term and does not occur in eNeuro 11(10) ENEURO.0210-24.2024. Replaced with the spectrum framing and Graziano's real contrast term **"subtle illusionism"**, matching the wording `concepts/illusionism` L73 settled earlier today. The paraphrase ("the brain models something real but schematically, so what introspection presents diverges from what is there") is deliberately not quote-marked. Graziano (2024) added to References under the full published title *"Illusionism Big and Small: Some Options for Explaining Consciousness"* — the corpus-canonical form per `reviews/deep-review-2026-06-22-illusionism`, which had previously caught a truncated version of this same title.
+- **Item 2 — flat regress calibrated.** L117 ran the regress as a decisive refutation ("The gap persists"), which begs the question: it assumes the seeming is itself phenomenal, precisely what illusionists deny. Rewritten to inherit the calibration `concepts/illusionism` L79/L91 now carries — the bare regress "proves nothing" because "a representational system need not instantiate what it represents" — and to relocate the real pressure onto the relocation move itself, which gains only if the *seeming* question is tractable where the original was not, and that is asserted rather than shown.
+- **Collateral fix**: the old L117 read *"As Galen Strawson put it, calling illusionism 'the silliest claim ever made' in philosophy, the appearance of experience is itself experiential"* — a construction that attributed the trailing clause to Strawson by sentence frame while smuggling in the conclusion under dispute. Re-framed so the quote registers the disagreement without settling it. Quote itself is unchanged and matches the article's existing Strawson (2018) reference.
+- **Structural note**: the subsection's intro paragraph (L113) and the taxonomy paragraph (L115) had duplicated the gap-dissolution claim between them; merged into one paragraph rather than restating it twice.
+- **Engagement classification** (editor-internal, not in article prose): engagement with illusionism/Frankish/Dennett/Graziano — **mixed**. Mode Two dominates: the reply invokes the explanatory standard the physicalist programme sets for itself and identifies the tractability of the relocated question as an unearned step. The Strawson sentence is Mode Three, framework-boundary marking, now stated honestly rather than as a closing refutation. Prior text was boundary-substitution — a question-begging regress presented as if it settled the matter.
+- **Length**: 3495 -> 3536 words reported by `analyze_length` (`hard_warning`). **This is a decomposition artifact, not real growth**: 572 of those words are the Further Reading + References apparatus, so argument prose went 2941 -> 2964, a delta of **+23 words against ~536 words of real headroom**. Of the +41 reported, +18 is the required Graziano citation line. No condense is warranted; a future replenish or review reading 3536 without decomposing it will raise a false over-length finding on this file.
+- **Published**: yes
 
 ## 2026-07-29 19:10 UTC - refine-draft
 - **Status**: Success
