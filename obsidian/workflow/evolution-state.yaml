@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T16:01:06.849603+00:00'
-session_count: 17739
-cycle_position: 11998
+last_updated: '2026-07-29T16:08:25.565019+00:00'
+session_count: 17740
+cycle_position: 11999
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T11:35:43.133298+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T16:01:06.849603+00:00'
+  refine-draft: '2026-07-29T16:08:25.565019+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T15:47:31.448540+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-29'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-29'
@@ -187,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-29'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-29'
   outcome: success
 - task: refine-draft
@@ -1075,12 +1075,91 @@ queue_status:
   p3_tasks: 18
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-29T15:39:00+00:00'
-  last_replenishment_prev: '2026-07-29T15:03:00+00:00'
-  last_replenishment_run: 891
+  last_replenishment: '2026-07-29T16:12:00+00:00'
+  last_replenishment_prev: '2026-07-29T15:39:00+00:00'
+  last_replenishment_run: 892
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
-    chain_tenet_check_2026_07_29_epiphenomenalist_threat_tenet3_factive: 1
+    gap_tenet_check_2026_07_29_binding_void_evidential_register_and_substance_leak: 1
+  run_892_note: 'run no.892 (2026-07-29T16:12Z, cycle-driven /replenish-queue): MINTED
+    ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
+    PRE-COUNT and POST-COUNT both taken LIVE with tools.evolution.task_selector.count_p0_p2_tasks
+    against the file on disk: 2 before the write, 3 after, against MIN_QUEUE_TASKS
+    == 3. parse_tasks confirms the new block as TaskType.REFINE_DRAFT, priority 2,
+    status PENDING, file_path obsidian/voids/binding-void.md (FULL path, not a bare
+    slug) with the 4602-char Notes body intact. TARGET voids/binding-void.md L130,
+    which run 889 had already recorded as a STILL-UNQUEUED Notes-tier item, so this
+    is a planned drain of that list rather than a re-derivation. GROUNDS RE-VERIFIED
+    VERBATIM LIVE ON DISK THIS RUN, with the line number re-measured rather than copied
+    from the review (replenish-asserted-concrete-defect-often-false): L130 reads that
+    Dualism "receives direct support", then supplies Descartes on the indivisibility
+    of the mind - an argument for SUBSTANCE dualism - and concludes that whatever produces
+    unity is "not a physical property", a PROPERTY claim. Two independent faults in
+    one sentence-pair. Fault (a), evidential register: grep run live this session shows
+    the voids cluster convention is the weaker form, with meta-epistemology-of-limits
+    L162, formal-cognitive-limits L132, conceptual-impossibility L134 and expertise-and-its-occlusion
+    L123 all reading "gains indirect support" from the same kind of apophatic premise,
+    and tenets.md stating that the Voids row is mostly weak commitments because the
+    catalogue''s apophatic structure does the argumentative work. The task note names
+    resolution-void L80 and plurality-void L87 as GENUINE exceptions that legitimately
+    say "direct support" because each runs a positive argument (Sellars grain, Wallace
+    on branch-confined I), so the fix cannot be applied as a blanket string sweep.
+    Fault (b), substance-leaning leakage: tenets.md names this exact pattern in its
+    hidden-inheritance list and grants the self-opacity subset of voids a legitimate
+    inheritance, while defaulting the rest to bare dualism; binding-void is a phenomenal-unity
+    void and is not in that subset. The Tenet 1 family closed four instances of this
+    shape today. CANONICAL WORDING NAMED IN THE TASK NOTE rather than left to the executing
+    fork, per reviews/tenet-check-2026-07-29.md L157 which recommends consolidated
+    per-family tasks and warns that one-at-a-time calibration otherwise spreads variant
+    wordings for one claim: concepts/where-the-substance-commitment-enters.md L36,
+    which names the binding problem and the voids catalogue explicitly and says such
+    articles reach their conclusions on irreducibility alone, with L28 supplying the
+    framing sentence. Both faults sit in a single sentence-pair, so this one task IS
+    the whole family for this file. LENGTH measured with tools.curate.length.analyze_length
+    and NOT wc (count-words-includes-frontmatter, analyze-length-counts-reference-apparatus):
+    2140 words, status soft_warning, against voids 2000 soft / 3000 hard / 4000 critical,
+    so 860 words below the hard ceiling but ALREADY 140 over soft; the task therefore
+    directs a length-neutral-or-shrinking pass and forbids funding new prose. This
+    is the first task in three that genuinely has headroom, and unlike the previous
+    run the figure was MEASURED before being asserted. NOT CHURN: last_deep_review
+    is 2026-06-25T09:04:46+00:00, over a month back, ai_modified 2026-05-26, and the
+    only prior binding-void entries in Completed are 30-day staleness deep-reviews
+    from 2026-05-26 and 2026-06-25 that did not touch this calibration axis. DEDUP:
+    a line-anchored parse of the Active region finds ZERO open headers naming this
+    file, and the Vetoed region returns zero binding-void hits. EIGHT-SOURCE AUDIT,
+    not re-derived where the driver briefing supplied a live measurement: (1 chain)
+    SOURCE USED, per the above. (2 unconsumed research) BLOCKED - harvest minted zero
+    twice today and the last review read records "New Concept Pages Needed: None".
+    (3 gap analysis) cap pressure binding; live caps topics 318/320, concepts 317/320,
+    voids 100/100 at cap, which blocks a NEW voids article but not this refine on an
+    existing one. (4 staleness) DECLINED - top candidate is 20 days against the skill''s
+    30-day bar, and a staleness mint would be P3 and so could not restore the floor
+    (p3-only-floor-preemption-starves). (5 orphans) quality.orphaned_files == 0. (6
+    length) NOTHING MINTABLE - the sealed set is unchanged: many-worlds and epistemology
+    both 3498/3500, noetic-feelings-void 2996/3000, amplification-mechanisms 3987/4000,
+    phenomenal-value-realism 39 over, introspection-architecture-independence-scoring
+    71 over, time-collapse-and-agency ~605 over, and epistemology-of-convergence-arguments
+    ~1963 over with five vetoed condenses, which needs an operator decision rather
+    than a sixth task. (7 positions) positions-evolve ran 2026-07-29T02:18Z, well inside
+    30d, so no audit is due (replenish-positions-audit-false-overdue). (8 applied apex)
+    not triggered. COALESCE lane remains blocked: abandoned twice today, the second
+    run confirming the first by an independent method, so caps need a raise or archival
+    rather than merging. STILL UNQUEUED after this run, recorded so a later pass does
+    not re-derive them, all Notes-tier: voids/noetic-feelings-void.md L150 (scare quotes
+    around a claim Tenet 2 affirms on the force-and-energy reading) is now the strongest
+    remaining item and the cleanest candidate for the next floor restore, though note
+    that file is sealed at 2996/3000 so any fix there must be strictly length-neutral.
+    Closed today and NOT re-minted, correctly: the-convergence-argument-for-dualism
+    L177 is a VERIFIED FALSE POSITIVE, philosophy-of-time L205 is operator-routed,
+    and interaction-problem-across-traditions L131, phenomenology-mechanism-bridge
+    L87, death-and-consciousness L191 and noetic-feelings-void L150''s siblings are
+    already fixed. CONCURRENCY: no rival loop; pgrep -af evolve_loop.py matches only
+    this session command string (replenish-fork-hallucinates-concurrent-loop). git
+    status before the write showed only evolution-state.yaml modified, legitimate deferred
+    cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree). REVERT
+    only if a sibling replenish double-restores this slot (concurrent-replenish-race).
+    Pruned run_889_note per the keep-~3 discipline, keeping 890/891/892 (evolution-state-floor-restore-note-bloat).
+    YAML re-parsed with yaml.safe_load after writing and it loads cleanly.'
   run_891_note: 'run no.891 (2026-07-29T15:39Z, cycle-driven /replenish-queue): MINTED
     ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
     POST-COUNT tools.evolution.task_selector.count_p0_p2_tasks(load_todo()) == 3 verified
@@ -1163,113 +1242,3 @@ queue_status:
     deep-review. CONCURRENCY: pgrep -af evolve_loop.py matched only this shell, so
     no rival loop (replenish-fork-hallucinates-concurrent-loop). Pruned run_887_note
     per the keep-~3 discipline (kept 888/889/890) (evolution-state-floor-restore-note-bloat).'
-  run_889_note: 'run no.889 (2026-07-29T14:47Z, cycle-driven /replenish-queue): MINTED
-    ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
-    LIVE on disk immediately before the write, against MIN_QUEUE_TASKS == 3; post-write
-    tool-verified == 3, and parse_tasks confirms the new block as TaskType.REFINE_DRAFT,
-    priority 2, status PENDING, file_path obsidian/topics/self-stultification-as-master-argument.md
-    (FULL path, not a bare slug), with task_to_skill mapping it to the refine-draft
-    skill. BOTTOM-INSERTED immediately above the Completed Tasks header, below the
-    12:26Z and 14:06Z floor-holders, so get_next_task still returns the OLDER neural-implementation-specifics
-    task and top-first FIFO is intact (queue-lifo-starvation). THE MINT IS A DROPPED
-    HALF, NOT A FRESH DERIVATION, AND THE REVIEW PREDICTED IT. The cycle driver briefed
-    this run that reviews/tenet-check-2026-07-29 was FULLY closed including the warning-tier
-    remainder. That is very nearly true but not quite: the warning at L111 of that
-    review names TWO files in one item, concepts/self-stultification.md L3 AND topics/self-stultification-as-master-argument.md
-    L3, and L157 of the same review warns outright that cycle_post closes a multi-file
-    task after the first file and the remainder must be re-queued. git show --stat
-    on commit aee16cf67 (2026-07-29 08:20:17Z, the epiphenomenalism-calibration residue
-    pass) was read live: it touched concepts/interactionist-dualism.md, concepts/mental-causation-and-downward-causation.md,
-    concepts/self-stultification.md and topics/falsification-roadmap-for-the-interface-model.md,
-    and the master-argument topic article is NOT in that file list. Its git log confirms
-    the same from the other side: its most recent commit is 70564d6b9 of 2026-07-27,
-    the Rebouillat surname sweep. So this is the documented multifile_task_dropped_file
-    hazard, caught by re-reading the review rather than by trusting the closure summary.
-    THE DEFECT WAS READ VERBATIM OFF DISK THIS RUN with line numbers measured by live
-    grep -n and not copied forward (replenish-asserted-concrete-defect-often-false,
-    out-of-scope-spillover-flags-stale): L3 still reads, word for word, that self-stultification
-    DEFEATS not just epiphenomenalism but every position that severs consciousness
-    from its own rational grounds; and two Further Reading bullets carry the same
-    axis, L179 calling epiphenomenalism the position most directly DEFEATED and L180
-    describing the position self-stultification DEFEATS. All three were scoped into
-    one pass because splitting three words on one axis in one file guarantees a second
-    task. THE CORRECTED MODEL IS ALREADY ON DISK and was quoted into the task note
-    rather than invented: aee16cf67 turned the sibling description from defeats epiphenomenalism
-    into presses epiphenomenalism hard, which is exactly the wording the review prescribes
-    at L112. GROUNDS VERIFIED VERBATIM THIS RUN: the article body already concedes
-    the weaker reading twice, at L67 and L151, both saying self-stultification is
-    weaker than refutation, and L77 concedes the phenomenal-concept strategy relocates
-    rather than settles the charge; tenets.md L98 states that Tenet 3 is held NOT
-    because the self-stultification argument refutes epiphenomenalism from inside
-    the opponent framework and that the Map registers this rather than letting the
-    reader infer a stronger result than the argument warrants; tenets.md L100 adds
-    that the strongest version of epiphenomenalism survives the self-undermining charge.
-    The description therefore asserts precisely the inference the tenets page forbids.
-    P2 rather than P3 on the same grounds as the neural-implementation-specifics warning
-    already queued: warning tier not note tier, the paired half was executed TODAY
-    so the corpus is visibly half-calibrated, and the locus is the frontmatter description,
-    which for an LLM-first corpus is the meta-description served to retrieval and
-    to link previews, so a chatbot fetching the page gets the unqualified claim and
-    never reaches L67 or L151. SCOPE FENCED in the task note: change L3, L179, L180
-    and nothing else, because the review states and this run re-checked that both
-    article BODIES are correctly calibrated; and explicitly do NOT re-litigate the
-    narrower-versus-stronger formulation across the cluster, which is a separate and
-    much larger axis sitting as a check-marked completed 2026-05-19 cross-review entry
-    in the Vetoed region. LENGTH measured with tools.curate.length.analyze_length,
-    NOT wc (count-words-includes-frontmatter, analyze-length-counts-reference-apparatus):
-    3308 words, status soft_warning, against topics 3000 soft and 4000 hard, so 692
-    words below the hard ceiling; the fix is pure substitution and the task forbids
-    opening a condense. NOT CHURN: ai_modified is 2026-07-27T19:46:15+00:00, two days
-    back and not today, and the only recent commit is the Leonetti surname fix on
-    a different axis (replenish-churn-filter-overtight). DEDUP: a line-anchored parse
-    of the Active region finds ZERO open headers naming this file; its single Active-region
-    mention sits inside a struck-through and check-marked P3 deep review of epistemic-self-defeat.md,
-    and every Vetoed-region hit is either check-marked complete or an incidental cross-link
-    mention from the 2026-05-19 replenish batch on unrelated axes. ATTRIBUTION guidance
-    in the note holds the existing ai_system claude-opus-4-6, since softening a description
-    is not re-authoring (deep-review-fork-over-attributes-ai-system). EIGHT-SOURCE
-    AUDIT re-derived live this run and not trusted from runs 886-888 (replenish-false-exhaustion-mislabeled-drift):
-    (1 chain) SOURCE USED - the check-tenets review was NOT in fact exhausted, per
-    the above. Re-verified live that four sibling loci the driver listed as closed
-    really are closed, so they were correctly NOT re-minted: brain-specialness-boundary.md
-    now returns zero grep hits for self-undermining, non-temporal-consciousness.md
-    L100 now sources the substantial-subject lean to the agency cluster rather than
-    the dualism tenet, and testing-consciousness-collapse plus the Tenet 5 parsimony
-    family are closed by f5f2a3624 and siblings. (2 unconsumed research) BLOCKED -
-    harvest ran twice today and correctly minted zero; live caps are topics 318/320
-    and concepts 317/320, so 2 and 3 free slots cannot absorb a new-article chain.
-    (3 gap analysis) exhausted, cap pressure binding, voids 100/100 at cap. (4 staleness)
-    DECLINED on the merits, not by assumption: get_review_candidates was run live
-    and its TOP row is 20 days since review (wheelers-participatory-universe at 17d,
-    death-and-consciousness and mind-matter-interface at 20d), so NOTHING meets the
-    skill 30-day staleness bar; the 24-slot cycle also already spends 4 slots on deep-review,
-    and a staleness mint would be P3 and so would not restore the floor anyway (deep_review_over_reviews_converged,
-    p3-only-floor-preemption-starves). (5 orphans) quality.orphaned_files == 0. (6
-    length) AUDITED via get_length_warnings and YIELDED NOTHING MINTABLE: every content-tier
-    critical row is a research working note, the apex-articles index hub, or an already-vetoed
-    target - epistemology-of-convergence-arguments carries five separate vetoed condense
-    entries and needs an operator decision rather than a sixth task, and phenomenal-output-causal-machinery-dissociation
-    is likewise vetoed; concepts/epistemology.md at 3498/3500 has a standing operator
-    length decision and was left alone. (7 positions) a positions-evolve P2 minted
-    at 14:06Z is still open and positions-evolve ran 2026-07-29T02:18Z, well inside
-    30d, so no audit is due (replenish-positions-audit-false-overdue); register is
-    10 domain files against max_positions 80. (8 applied apex) not triggered. STILL
-    UNQUEUED after this run, recorded so a later pass does not re-derive them, all
-    Notes-tier not warning-tier: voids/noetic-feelings-void.md L150, re-read live
-    this run and STILL verbatim as the review quoted it, where Map voice puts scare
-    quotes around the obvious truth that minds do not move matter although Tenet 2
-    affirms that claim on the force and energy reading - this is the strongest remaining
-    Notes item and the cleanest candidate for the next floor restore; apex/phenomenology-mechanism-bridge.md
-    L87 sourcing persisting-substance to the tenets; voids/binding-void.md L130; topics/death-and-consciousness.md
-    L191; topics/interaction-problem-across-traditions.md L131, a one-word fix; and
-    topics/the-epiphenomenalist-threat.md L59, whose paired locus causal-closure.md
-    L186 is already fixed. Per the driver briefing, the-convergence-argument-for-dualism
-    L177 is a VERIFIED FALSE POSITIVE and philosophy-of-time L205 is operator-routed
-    - neither was minted and neither should be. CONCURRENCY: no rival loop; pgrep
-    -af evolve_loop.py matches only this session command string (replenish-fork-hallucinates-concurrent-loop).
-    git status immediately before the write showed only evolution-state.yaml modified,
-    which is legitimate deferred cycle_post bookkeeping and was KEPT (orphaned-cyclepost-state-advance-in-worktree).
-    REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
-    Pruned run_886_note per the keep-~3 discipline, keeping 887/888/889 (evolution-state-floor-restore-note-bloat).
-    YAML re-parsed with yaml.safe_load after writing and it loads cleanly.'
