@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-16 06:57:25+00:00
+ai_modified: 2026-07-29 08:14:10+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -84,7 +84,7 @@ If consciousness is ontologically distinct from physics, their relationship requ
 
 Crucially, [supervenience](/concepts/supervenience/) laws alone yield epiphenomenalism—consciousness merely accompanies physical states without causing anything. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *causal* laws: consciousness selects among physically underdetermined alternatives, not just accompanies determined outcomes.
 
-Chalmers tends toward epiphenomenalism; the Map diverges via the self-stultification argument (see Argument 6 below). The [psychophysical-laws](/concepts/psychophysical-laws/) page details where the Map departs from Chalmers.
+Chalmers tends toward epiphenomenalism; the Map diverges via the self-stultification argument (see Argument 6 below), with [psychophysical-laws](/concepts/psychophysical-laws/) detailing the departure.
 
 ## The Historical Problem
 
@@ -92,7 +92,7 @@ René Descartes established the classic formulation: mind (res cogitans) and bod
 
 Yet recent work shows this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions, so expecting it to hold in the brain begs the question by assuming interactionism is false. Notably, non-Western traditions independently developed [the same structural types of solution](/topics/interaction-problem-across-traditions/)—this [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) is itself evidentially significant. See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for the "selection not injection" account that replaces the objection.
 
-Meanwhile, [epiphenomenalism](/concepts/epiphenomenalism/) faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents four independent arguments—self-stultification, evolutionary, knowledge-based, and introspective—showing that denying mental causation is epistemically self-defeating.
+Meanwhile, [epiphenomenalism](/concepts/epiphenomenalism/) faces a pointed objection: if consciousness causes nothing, how can we know anything about consciousness? The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) runs four arguments—self-stultification, evolutionary, knowledge-based, introspective—in two families rather than four independent lines, pressing the bare-correlation version hard without refuting it from inside the epiphenomenalist's framework.
 
 ## The Cumulative Case for Interactionism
 
@@ -140,7 +140,7 @@ Both share what the Map requires: consciousness biasing otherwise indeterminate 
 
 ## Selection, Biasing, and Falsifiability
 
-What does "consciousness biases quantum outcomes" mean? If selection preserves quantum statistics, it appears unfalsifiable. The response: mechanism claims are speculative, but explanatory coherence claims stand independently—the quantum framework shows how mental causation is *possible* without violating conservation.
+What does "consciousness biases quantum outcomes" mean? If selection preserves quantum statistics, it appears unfalsifiable. The response: mechanism claims are speculative, but explanatory-coherence claims stand independently.
 
 What would falsify quantum interactionism? Two falsifiers bear on the *position* itself: (1) proving quantum indeterminacy is illusory; (2) proving neural computation is purely classical. Either would close the indeterminacy the position needs. Both are hard, arguably in-principle-only tests, so the position's distinctive empirical content is genuinely difficult to reach — which is the honest face of the falsifiability worry, not a reason to dismiss it.
 
@@ -214,7 +214,7 @@ The [evolution of consciousness](/concepts/evolution-of-consciousness/) poses no
 
 Interactionist dualism faces real challenges: the [decoherence objection](/concepts/decoherence/) is empirical, and the mechanism remains partly speculative.
 
-But alternatives face worse problems. [Epiphenomenalism](/concepts/epiphenomenalism/) is self-undermining. Identity theory cannot explain why there is something it is like to see red. [Functionalism](/concepts/functionalism/) struggles with absent [qualia](/concepts/qualia/). Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
+But alternatives face worse problems. [Epiphenomenalism](/concepts/epiphenomenalism/) strains the grounds for believing it. Identity theory cannot explain why there is something it is like to see red. [Functionalism](/concepts/functionalism/) struggles with absent [qualia](/concepts/qualia/). Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
 
 Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies. Whether correct is open; that it is *coherent* reopens possibilities that seemed closed for centuries.
 

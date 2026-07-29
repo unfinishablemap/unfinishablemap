@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-07-12 19:34:26+00:00
+ai_modified: 2026-07-29 08:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -188,11 +188,11 @@ Block's (1978) China brain illustrates: the entire population implementing a bra
 
 ### Epiphenomenalism
 
-[Epiphenomenalism](/concepts/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. Empirical data reinforces the point: the [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) shows consciousness operating at a consistent ~10 bits/s throughput ceiling across all tasks—epiphenomena do not have capacity limits, because they are not doing work. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+[Epiphenomenalism](/concepts/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The sharpest objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves, so the epiphenomenalist who claims to *know* about their experience owes an account of how. The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) supplies one, which is why the Map presses the bare-correlation version hard without refuting epiphenomenalism from inside its own framework. Empirical data adds pressure: the [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) shows consciousness operating at a consistent ~10 bits/s throughput ceiling across all tasks—epiphenomena do not have capacity limits, because they are not doing work. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
 ### Integrated Information Theory
 
-[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [Map's critique](/topics/consciousness-and-integrated-information/) adds that identity makes consciousness passive—facing the same self-undermining objection as epiphenomenalism—and that IIT's instantaneous Φ cannot capture consciousness's temporal extension.
+[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [Map's critique](/topics/consciousness-and-integrated-information/) adds that identity makes consciousness passive—facing the same self-stultification objection as epiphenomenalism—and that IIT's instantaneous Φ cannot capture consciousness's temporal extension.
 
 ### Chalmers' Psychophysical Framework
 

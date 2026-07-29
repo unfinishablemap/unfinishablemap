@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-19T23:08:40+00:00
+ai_modified: 2026-07-29T09:11:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ The [[consciousness-as-amplifier|amplification hypothesis]] provides the stronge
 
 Great apes succeed at tool use, social cognition, and procedural metacognition—capacities that don't require conscious access to succeed. They fail precisely where consciousness appears required: logical reasoning (DeWall, Baumeister, & Masicampo 2008 showed rule-following specifically depends on conscious processing), cumulative culture (Gruber, Zuberbühler, Clément, & van Schaik 2015 argue apes have culture but may not know that they do—metarepresentation may require consciousness), and counterfactual thinking.
 
-**Working memory expansion**: Chimpanzee working memory capacity is substantially more limited than humans' 7±2 items, particularly for abstract tasks—though performance varies with task type (Inoue & Matsuzawa 2007). If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
+**Working memory expansion**: Chimpanzee working memory capacity is substantially more limited than humans'—estimated at 2±1 items against Miller's 7±2, on a review of the comparative data whose cross-species comparison remains contested (Read, Manrique & Walker 2022). If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
 
 **Training enhances conscious capacities**: Fox et al. (2012) demonstrated that meditators show dramatically better introspective accuracy than novices. This trainability supports the evolutionary argument: if consciousness were epiphenomenal, training attention should have no effect—you cannot improve causally inert processes through practice.
 
@@ -247,7 +247,7 @@ Scientific humility requires specifying what would count against one's view.
 1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-1. Inoue, S., & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
 1. O'Connor, T., & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.

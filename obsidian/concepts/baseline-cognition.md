@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-07-10T14:24:13+00:00
+ai_modified: 2026-07-29T09:11:38+00:00
 last_deep_review: 2026-07-10T14:24:13+00:00
 draft: false
 topics:
@@ -95,7 +95,7 @@ Streicher et al.'s 2025 meta-analysis of 16 fMRI studies supports this: only 10%
 
 ### Working Memory Capacity (Durable Maintenance)
 
-Chimpanzee working memory holds approximately 2±1 items; human capacity is 4±1 (Cowan 2001, revising Miller's 7±2). Even this conservative two-fold gap enables qualitatively different operations: with 2 items you compare A to B; with 4+ items you track relationships, consider alternatives, and maintain goals simultaneously.
+Chimpanzee working memory is estimated at approximately 2±1 items (Read, Manrique & Walker 2022); human capacity is 4±1 (Cowan 2001, revising Miller's 7±2). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [[working-memory#The Capacity Gap|the capacity gap]]. Even this conservative two-fold gap enables qualitatively different operations: with 2 items you compare A to B; with 4+ items you track relationships, consider alternatives, and maintain goals simultaneously.
 
 If [[working-memory]] depends on conscious access (as [[global-workspace-theory|Global Workspace Theory]] proposes), the capacity expansion implies expanded consciousness—not just more storage but more workspace for manipulation and flexible combination. This connects to *durable information maintenance*: subliminal priming decays within 500ms, while consciously perceived information persists for seconds to minutes.
 
@@ -230,6 +230,7 @@ The baseline cognition hypothesis could be undermined by:
 1. Povinelli, D.J. (2000). *Folk Physics for Apes: The Chimpanzee's Theory of How the World Works*. Oxford University Press.
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.

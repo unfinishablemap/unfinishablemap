@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-12 23:50:00+00:00
+ai_modified: 2026-07-29 09:11:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -73,9 +73,9 @@ This maps onto the Map's framework:
 
 ## The Capacity Gap
 
-Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity—though the cross-species ratio should be held loosely, since Silberberg & Kearns (2009) showed the chimp comparisons were practice-confounded (the chimpanzees had extensive task experience while the human controls had none, and practised humans close much of the gap). The cleaner version of the claim is that humans *can* deploy substantially more manipulable capacity, not that a fixed numerical multiple separates the species. The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
+Chimpanzee working memory is estimated at approximately 2±1 items—the conclusion of Read, Manrique & Walker's (2022) review of the comparative literature, not of any single experiment. Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. The apparent counter-case is Inoue & Matsuzawa (2007), where one extensively-trained juvenile chimpanzee recalled the ordinal positions of briefly-masked numerals at ~80% accuracy; that review argues the performance reflects eidetic or iconic imagery rather than working memory, and humans given the same training reach 90% (Silberberg & Kearns 2009; Cook & Wilson 2010). The ratio should therefore be held loosely: humans *can* deploy substantially more manipulable capacity, but no fixed multiple separates the species. The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
 
-With 2 items, you can compare them. With 4-7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference is combinatorial: even four items yield six pairwise comparisons plus the ability to hold some comparisons in mind while making further comparisons.
+With 2 items, you can compare them. With 4-7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference is combinatorial: even four items yield six pairwise comparisons plus the ability to hold some in mind while making others.
 
 Why attribute this expansion to consciousness rather than neural complexity alone? Because manipulation requires consciousness while maintenance doesn't. The additional capacity isn't just more room for unconscious traces—it's more room for conscious manipulation. Expanded working memory capacity implies expanded conscious access.
 
@@ -97,7 +97,7 @@ These operations have the structure of [metarepresentation](/concepts/metacognit
 
 Recursion—embedding structures within structures of the same type—requires holding incomplete representations while processing embedded content. Parsing "The man who saw the woman who chased the dog ran" requires holding "The man" incomplete while processing "who saw the woman" incomplete while processing "who chased the dog," then unwinding the stack to attach predicates to subjects.
 
-With 2±1 capacity, this exceeds available slots at depth two. With expanded human capacity, depth three or four becomes manageable. Human language routinely involves such embedding; great ape communication shows no recursive structure. This correlation with working memory capacity is suggestive: recursion requires exactly the capacity great apes lack.
+Read (2008) argues that ape-scale working memory cannot sustain recursive embedding beyond the shallowest level, while expanded human capacity makes depth three or four manageable. The Map takes the qualitative point, not the slot arithmetic the estimates above cannot carry: recursion demands holding incomplete structures *while manipulating* embedded ones, and manipulation is the consciousness-requiring operation. Human language routinely involves such embedding; great ape communication shows no recursive structure.
 
 The relationship is bidirectional. Language scaffolds working memory—verbal rehearsal extends capacity beyond what visual-spatial systems alone provide. And working memory enables language—recursive parsing requires the manipulation capacity language presupposes. The coevolution of expanded working memory and linguistic recursion may constitute the cognitive leap distinguishing human minds.
 
@@ -105,7 +105,7 @@ The relationship is bidirectional. Language scaffolds working memory—verbal re
 
 [Counterfactual reasoning](/concepts/counterfactual-reasoning/)—considering what might have been or could be—requires holding the actual and the hypothetical simultaneously. You must represent how things are while also representing how they might be otherwise, tracking the relationship between these representations.
 
-This is working memory manipulation par excellence. The actual situation occupies some capacity; the counterfactual variation occupies more; tracking their relationship requires yet more. With 2±1 capacity, simple counterfactuals exhaust available resources. With expanded human capacity, complex hypothetical reasoning becomes possible.
+This is working memory manipulation par excellence. The actual situation occupies some capacity; the counterfactual variation occupies more; tracking their relationship requires yet more. On the low ape estimate even simple counterfactuals exhaust available resources, while expanded human capacity makes complex hypothetical reasoning possible.
 
 The Bischof-Köhler hypothesis (Bischof-Köhler 1985) proposes that non-human animals cannot act on drive states they don't currently experience—a sated animal won't store food for future hunger because it cannot represent that future state while currently sated. Human [prospective cognition](/concepts/prospective-memory/) transcends this limitation through working memory manipulation: we can hold present states, simulate future states, and compare them to guide current action.
 
@@ -113,7 +113,7 @@ The Bischof-Köhler hypothesis (Bischof-Köhler 1985) proposes that non-human an
 
 Human culture accumulates across generations—each generation builds on previous achievements, producing technologies and knowledge no individual could develop alone. Great ape culture exists (tool traditions, grooming patterns, vocalisations) but doesn't accumulate: cultural practices remain within what Tennie, Call, and Tomasello call the "zone of latent solutions," never exceeding what single individuals could discover.
 
-Why doesn't great ape culture accumulate? The [baseline cognition hypothesis](/concepts/consciousness-as-amplifier/#the-baseline-cognition-hypothesis) proposes that accumulation requires [metarepresentation](/concepts/metacognition/)—treating knowledge as knowledge that can be improved, transmitted, and built upon. This demands holding current practice and possible modifications simultaneously, then comparing them to select improvements. With 2±1 working memory capacity, this approaches the limit. The cognitive operations cumulative culture requires are exactly those expanded working memory enables.
+Why doesn't great ape culture accumulate? The [baseline cognition hypothesis](/concepts/consciousness-as-amplifier/#the-baseline-cognition-hypothesis) proposes that accumulation requires [metarepresentation](/concepts/metacognition/)—treating knowledge as knowledge that can be improved, transmitted, and built upon. This demands holding current practice and possible modifications simultaneously, then comparing them to select improvements. On the ape capacity estimate, this approaches the limit. The cognitive operations cumulative culture requires are exactly those expanded working memory enables.
 
 ## Working Memory and the Specious Present
 
@@ -153,7 +153,7 @@ Some clarifications:
 
 **WM capacity doesn't measure consciousness.** Individual differences in WM capacity don't imply differences in consciousness quality or intensity. Capacity limits may reflect neural implementation, not consciousness itself. The [phenomenal-overflow](/concepts/phenomenal-overflow/) debate—whether conscious experience exceeds what WM can access—reinforces this distinction.
 
-**Not just more storage.** The human/ape expansion enables qualitatively different operations, not just more of the same. The difference between holding 2 and 7 items isn't like the difference between a 2GB and 7GB hard drive—it's the difference between basic comparison and multi-level nested reasoning.
+**Not just more storage.** The human/ape expansion enables qualitatively different operations, not just more of the same. A few extra slots isn't like adding disk space—it's the difference between basic comparison and multi-level nested reasoning.
 
 **Not uniquely human.** Other species may have expanded working memory relative to great apes—corvids, cetaceans, elephants show cognitive capacities suggesting enlarged manipulation scope. The question is whether working memory expansion tracks consciousness expansion across species, not whether humans alone possess it.
 
@@ -215,12 +215,15 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 1. Hitch, G.J., Allen, R.J., & Baddeley, A.D. (2025). The multicomponent model of working memory fifty years on. *Quarterly Journal of Experimental Psychology*.
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 1. Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642, 133-142. https://doi.org/10.1038/s41586-025-08888-1
+1. Cook, P. & Wilson, M. (2010). Do young chimpanzees have extraordinary working memory? *Psychonomic Bulletin & Review*, 17(4), 599-600. https://doi.org/10.3758/PBR.17.4.599
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Franco-Martínez, A., et al. (2026). Replicating the unconscious working memory effect: A multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046. https://doi.org/10.1093/nc/niaf046
 1. Gambarota, F., Tsuchiya, N., Pastore, M., Di Polito, N., & Sessa, P. (2022). Unconscious visual working memory: A critical review and Bayesian meta-analysis. *Neuroscience & Biobehavioral Reviews*, 136, 104618. https://doi.org/10.1016/j.neubiorev.2022.104618
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
+1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714. https://doi.org/10.1177/147470490800600413
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Silberberg, A. & Kearns, D. (2009). Memory for the order of briefly presented numerals in humans as a function of practice. *Animal Cognition*, 12(2), 405-407.
 1. Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
 1. Stokes, M.G. (2015). 'Activity-silent' working memory in prefrontal cortex: A dynamic coding framework. *Trends in Cognitive Sciences*, 19(7), 394-405.

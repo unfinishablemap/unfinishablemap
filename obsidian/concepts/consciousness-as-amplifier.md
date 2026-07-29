@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-10T15:34:45+00:00
+ai_modified: 2026-07-29T09:11:38+00:00
 last_deep_review: 2026-07-10T15:34:45+00:00
 draft: false
 topics:
@@ -64,7 +64,7 @@ The amplification thesis engages three distinct phenomena that often coincide bu
 
 Great apes represent sophisticated [[baseline-cognition]]—what neurons achieve without substantial conscious contribution. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] hypothesis frames this as a phase transition: at a critical level of neural complexity, consciousness shifts from accompanying cognition to actively reshaping it. Great apes likely have genuine phenomenal experience, but the hypothesis proposes their consciousness differs qualitatively in ways that limit cognitive amplification.
 
-**Working memory capacity**: Chimpanzee working memory estimates vary—2±1 items for abstract tasks, though Inoue & Matsuzawa (2007) found chimps briefly holding sequences of 9 numerals. Human capacity of 7±2 items implies expanded conscious access if manipulation requires consciousness (as [[global-workspace-theory|Global Workspace Theory]] suggests), enabling simultaneous comparison, manipulation, and flexible combination of representations.
+**Working memory capacity**: Chimpanzee working memory is estimated at 2±1 items (Read, Manrique & Walker 2022). The much-cited Ayumu result (Inoue & Matsuzawa 2007), where a trained juvenile chimpanzee recalled the positions of briefly-masked numeral sequences, is not a competing capacity figure: that review reads it as eidetic or iconic imagery rather than working memory, and humans given equivalent training match or exceed it. Human capacity—7±2 items on Miller's estimate, nearer 4±1 on Cowan's (2001) revision—implies expanded conscious access if manipulation requires consciousness (as [[global-workspace-theory|Global Workspace Theory]] suggests), enabling simultaneous comparison, manipulation, and flexible combination of representations. See [[working-memory#The Capacity Gap|the capacity gap]] for the full treatment.
 
 **Procedural versus declarative metacognition**: Great apes show [[metacognition|metacognitive]] monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This [[metacognition#the-metarepresentation-threshold|metarepresentational capacity]] may require phenomenal consciousness.
 
@@ -82,7 +82,7 @@ The amplification isn't magical. It operates through identifiable mechanisms:
 
 ### Working Memory Manipulation
 
-The [[working-memory#The Maintenance/Manipulation Distinction|maintenance/manipulation distinction]] is crucial. Unconscious processing can *maintain* information, but *manipulation* requires consciousness—comparing items, rearranging mental images, combining concepts into novel structures. The expansion from 2±1 to 7±2 items isn't just more storage—it's exponentially more possible combinations, comparisons, and transformations.
+The [[working-memory#The Maintenance/Manipulation Distinction|maintenance/manipulation distinction]] is crucial. Unconscious processing can *maintain* information, but *manipulation* requires consciousness—comparing items, rearranging mental images, combining concepts into novel structures. The expansion from the ape estimate to the human range isn't just more storage—it's exponentially more possible combinations, comparisons, and transformations.
 
 ### Metacognitive Monitoring
 
@@ -209,6 +209,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Stapp, H.P. (2009). *Mind, Matter, and Quantum Mechanics* (3rd ed.). Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.

@@ -4,7 +4,7 @@ description: "Non-linguistic consciousness from animals to simple organisms. The
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-07-19T12:13:24+00:00
+ai_modified: 2026-07-29T09:11:38+00:00
 last_deep_review: 2026-07-19T12:13:24+00:00
 draft: false
 topics:
@@ -88,7 +88,7 @@ The [[baseline-cognition|baseline cognition hypothesis]] clarifies what distingu
 
 The Map offers a complementary interpretation. The hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. This is not a claim that great apes lack consciousness — they likely have emotional and perceptual consciousness. The claim is that certain cognitive operations specifically require phenomenal consciousness to function, mapping onto three functions [[conscious-vs-unconscious-processing|Global Workspace Theory]] identifies as consciousness-dependent: durable information maintenance, novel combinations of operations, and spontaneous intentional action.
 
-**Working memory capacity** (durable maintenance): Chimpanzee working memory holds ~2±1 items; humans ~4±1 (Cowan 2001). Consciousness may enable flexible goal-directed *manipulation* rather than raw storage — though young chimpanzees outperform adults on rapid numerical memory (Inoue & Matsuzawa 2007), suggesting the difference lies in deployment.
+**Working memory capacity** (durable maintenance): Chimpanzee working memory is estimated at ~2±1 items (Read, Manrique & Walker 2022); humans ~4±1 (Cowan 2001). Consciousness may enable flexible goal-directed *manipulation* rather than raw storage. The much-cited Ayumu result — young chimpanzees outperforming adults and untrained humans on rapid masked-numeral recall (Inoue & Matsuzawa 2007) — does not overturn this: that review reads the performance as eidetic or iconic imagery rather than working memory, and humans given equivalent training match or exceed it (Silberberg & Kearns 2009; Cook & Wilson 2010).
 
 **Declarative metacognition**: Great apes show procedural metacognition (feelings that guide behaviour) but apparently cannot represent uncertainty *as* uncertainty. The [[metacognition|three-level metarepresentational framework]] clarifies the structure: apes operate at the second level (adjusting their own states) without reaching metarepresentation proper.
 
@@ -199,3 +199,6 @@ This apex article synthesises:
 20. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 21. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 22. Yoo, D. A., et al. (2025). Complete sequencing of ape genomes. *Nature*, 641, 401–418.
+23. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
+24. Silberberg, A. & Kearns, D. (2009). Memory for the order of briefly presented numerals in humans as a function of practice. *Animal Cognition*, 12(2), 405–407.
+25. Cook, P. & Wilson, M. (2010). Do young chimpanzees have extraordinary working memory? *Psychonomic Bulletin & Review*, 17(4), 599–600.

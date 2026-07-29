@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-07-19 11:58:00+00:00
+ai_modified: 2026-07-29 08:14:10+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -183,7 +183,7 @@ Publishing a falsification roadmap is itself an expression of the [tenets](/tene
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is the tenet most amenable to experimental testing. The Map should highlight rather than hide this—it is a strength, not a vulnerability. If the quantum interface is real, experiments should eventually find it. If they do not, the Map must respond.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** faces the challenge that distinguishing non-physical causation from complex physical processing may be permanently difficult. The Map accepts this difficulty while maintaining that epiphenomenalism is self-defeating.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** faces the challenge that non-physical causation may be permanently indistinguishable from complex physical processing. The Map accepts this, holding bare-correlation epiphenomenalism epistemically strained rather than refuted from inside.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is the tenet most likely to become experimentally accessible in the near future. The Map should track quantum foundations experiments actively and be prepared to update.
 
