@@ -4,7 +4,7 @@ description: "The mind-brain interface delivers ~10⁹ bits/second of experience
 created: 2026-02-23
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-07-29T07:55:07+00:00
 draft: false
 last_deep_review: 2026-07-25T11:31:30+00:00
 topics:
@@ -56,7 +56,7 @@ The outbound channel carries conscious influence into the physical world. Zheng 
 
 The bottleneck is not motor. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far above the conscious ceiling. Individual neurons transmit ~200 bits per second. The constraint applies specifically at [[access-consciousness|conscious access]]—the point where information becomes available to the experiencing subject for deliberate use—not in the computational substrate surrounding it.
 
-Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement. The step from "behavioural ceiling in conscious tasks" to "bandwidth of conscious influence" is an interpretation, not a direct measurement—but the finding that unconscious processing operates at far higher bandwidth while the ceiling appears precisely where consciousness participates strongly supports this interpretation.
+Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement. The step from "behavioural ceiling in conscious tasks" to "bandwidth of conscious influence" is an interpretation, not a direct measurement—but the finding that unconscious processing operates at far higher bandwidth while the ceiling appears precisely where consciousness participates motivates but does not establish it.
 
 ## The Specification Challenge
 
@@ -122,11 +122,11 @@ Mandik (2010) provides empirical corroboration of this architectural separation.
 
 Whether this candidate fully resolves the format problem is debatable. The question "is pattern P present?" must itself be physically implemented—something must determine which quantum observable corresponds to the intended pattern. The detailed mapping from phenomenal states to physical observables remains to be worked out as part of the [[psychophysical-laws|coupling law]] specification problem. The [[resolution-void|resolution void]] sharpens this challenge: if consciousness interfaces with quantum processes yet its phenomenal resolution is orders of magnitude coarser than quantum scales, then consciousness performs selections it cannot directly perceive.
 
-## The Challenge to Epiphenomenalism
+## Epiphenomenalism and Parsimony
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—there would be no reason to expect a consistent throughput ceiling correlated with conscious access. Epiphenomena perform no work and face no capacity constraints; the bottleneck would need to be explained entirely in neural terms, with consciousness as a passive byproduct. This is logically possible—an epiphenomenalist can say the neural bottleneck exists for architectural reasons and consciousness merely *accompanies* whatever passes through it. The asymmetry does not refute epiphenomenalism outright.
+It is tempting to argue that an [[epiphenomenalism|epiphenomenal]] consciousness—causally inert—would leave the outbound channel carrying zero bits, so that a measurable, task-independent ceiling shows consciousness performing work. But this misreads the epiphenomenalist, who attributes the full 10 bits per second to the neural report-and-decision subsystem, with consciousness a non-causal passenger. Epiphenomenalism predicts the same bitrate, and so the measurement carries no evidential traction against it.
 
-What it does is make the epiphenomenal story less parsimonious. The tight correlation between the bottleneck's location (at conscious access specifically, not at motor output or sensory processing) and the measurable ~10 bits per second calls for explanation, and "consciousness does causal work at that interface" is the more direct one. The very existence of a measurable, consistent, task-independent throughput ceiling—~10 bits per second, not zero, not random—is itself evidence that consciousness performs work. The narrowness of the channel reflects not causal impotence but appropriate division of labour: consciousness provides direction, the brain provides detail. Most behaviour—habitual actions, reflexes, overlearned skills—bypasses conscious selection entirely, operating within the brain's full bandwidth. The conscious channel handles only what requires deliberate intervention.
+What the figure does is make the epiphenomenal story less parsimonious. The tight correlation between the bottleneck's location (at conscious access specifically, not at motor output or sensory processing) and the ~10 bits per second calls for explanation, and "consciousness does causal work at that interface" is the more direct one. What the figure is *consistent with*—not what it establishes—is a reading on which those bits index *conscious* selection rather than merely *neural* selection. On that reading the narrowness of the channel reflects not causal impotence but appropriate division of labour: consciousness provides direction, the brain provides detail. Most behaviour—habitual actions, reflexes, overlearned skills—bypasses conscious selection entirely, operating within the brain's full bandwidth. The conscious channel handles only what requires deliberate intervention.
 
 ## Distinguishing the Challenges
 
@@ -158,7 +158,7 @@ The bandwidth architecture connects to all five tenets.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The bandwidth problem is the most concrete challenge to this tenet. Affirming that consciousness causally influences the brain is insufficient; the influence must be specific enough to produce coherent behaviour. The hierarchical selection response shows how a narrow channel of downward causation can produce behaviourally rich outcomes when the brain provides the fine-grained specification. The asymmetry defines the two directions' architecture: brain-to-consciousness at ~10⁹ bits per second, consciousness-to-brain at ~10 bits per second. Both directions are causally real; they differ in bandwidth by eight orders of magnitude.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Genuine selection among alternatives, which the outbound channel's measurable bandwidth implies, presupposes that some possibilities are actualised while others remain merely possible.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Genuine selection among alternatives, which the hierarchical selection model requires, presupposes that some possibilities are actualised while others remain merely possible.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simple" explanation—neural architecture creates a bottleneck—does not address why the bottleneck sits at conscious access specifically, or why evolution has not widened it.
 

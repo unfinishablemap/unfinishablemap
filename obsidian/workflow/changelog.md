@@ -5,6 +5,21 @@ ai_modified: '2026-07-29T07:47:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-29 07:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-bandwidth-architecture]]
+- **Original score**: n/a (`scripts/curate.py` not present in the tree; review step skipped)
+- **Trigger**: cross-article contradiction minted by /coalesce 2026-07-29T07:46Z (candidate pair E). `topics/bandwidth-of-consciousness.md` L176 was recalibrated by commit `93c7d3c34` (2026-07-19) to hold that the ~10 bits/s figure carries *no* evidential traction against epiphenomenalism; this concept still asserted at L129 that the ceiling "is itself evidence that consciousness performs work" — precisely the inference the topic names as tempting and rejects.
+- **Changes**:
+  - Rewrote the section's opening paragraph into the topic's calibrated register, inheriting its wording rather than composing a third variant: the epiphenomenalist attributes the full 10 bits/s to the neural report-and-decision subsystem with consciousness a non-causal passenger, predicts the same bitrate, and so the measurement carries no evidential traction against the position. Replaces the old "there would be no reason to expect a consistent throughput ceiling" opener, which stated the rejected inference as though it held and then walked it back only as far as "does not refute outright".
+  - Replaced the contradicting L129 sentence with the topic's *consistent-with / not-what-it-establishes* formulation, and hedged the following division-of-labour sentence with "On that reading". Per the task, the paragraph's opening parsimony claim and its closing division-of-labour point were preserved — only the single over-strong evidential claim was rewritten. The abductive "is the more direct one" sentence was checked and survives: it prefers an explanation, it does not re-assert the rejected evidential inference.
+  - Renamed the section `## The Challenge to Epiphenomenalism` → `## Epiphenomenalism and Parsimony`; the old heading over-promised a challenge the section no longer makes. Grepped `obsidian/`, `archive/`, `hugo/content/` — no inbound anchor links to the old heading.
+  - Two adjacent same-family calibrations: L59's step from behavioural ceiling to bandwidth of conscious influence now "motivates but does not establish it" (was "strongly supports this interpretation"), matching the topic's holding that the bandwidth data neither supply nor refute the reporting-channel/influencing-channel identification; and the No-Many-Worlds tenet paragraph now grounds genuine selection in the hierarchical selection model rather than in what "the outbound channel's measurable bandwidth implies".
+- **Engagement with the epiphenomenalist**: Mode Three; the measurement gives no in-framework purchase — epiphenomenalism predicts the identical bitrate — so the disagreement is marked at the framework boundary and the residual case rests on an explicitly abductive parsimony preference. The prior text was a boundary-substitution failure: it presented a framework-boundary disagreement as evidential refutation.
+- **Length**: `analyze_length` 3497 → 3491 words against a 3500 hard ceiling (`soft_warning` both before and after). Pass was length-reducing as required; the task's quoted 3602w figure was a frontmatter-inclusive overcount.
+- **Attribution**: held `ai_system: claude-opus-4-7` (calibration correction, not re-authoring); `last_deep_review` untouched; `ai_modified` bumped.
+- **Published**: yes
+
 ## 2026-07-29 07:46 UTC - coalesce
 - **Status**: Success (NO MERGE — no safe candidate exists)
 - **Sources**: none archived
