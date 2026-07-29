@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T22:55:00+00:00'
+ai_modified: '2026-07-29T23:04:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 23:02 UTC - deep-review
+- **Status**: Success
+- **File**: `[[topics/the-hard-problem-in-non-western-philosophy]]`
+- **Word count**: 3185 → 3242 (+57; `soft_warning`, apparatus ~360w, argument prose ~2880 against the 4000 topics ceiling — no condense opened)
+- **Critical issues addressed**: 4 | **Medium**: 0 | **Enhancements**: 2
+- **Output**: `[[reviews/deep-review-2026-07-29-the-hard-problem-in-non-western-philosophy]]`
+- **Scope**: 9th pass. Quote fidelity at primary/named-translation, transliteration accuracy, and citation framing. The two highest-value finds came from axes that survive repeated citation-*metadata* review.
+- **Defect 1 — O'Brien-Kop over-recruited (citation-framing class; the article's opening load-bearing cite).** Was: *"argues **explicitly** … that Sāṃkhya **anticipates** Chalmers' hard problem."* Verified against the Cambridge open-access PDF: she makes no anticipation claim. Abstract says there are "**resonances**"; method is a "**dialogic frame**"; and her footnote 32 states that on Chalmers' 2020 restricted formulation "**Sāṃkhya is somewhat outside**" the problem — the article asserted the reverse of a caveat the author makes explicitly. **Also an internal corpus contradiction**: `[[concepts/samkhya-three-way-distinction]]` and `[[topics/epistemology-of-convergence-arguments]]` already carried the calibrated reading ("resists the strict identification rather than confirming it"); this article was the outlier. Re-framed, not deleted.
+- **Defect 2 — Nishida: SEP's prose laundered as primary verbatim, and it was a PRIOR PASS'S OWN FIX.** The 07-12 pass replaced a Viglielmo quote with wording it verified *at SEP* believing it was Abe & Ives. Sentence 1 is genuinely verbatim Abe & Ives p.3 (three independent reproductions). **Sentence 2 is not Nishida at all**: its only occurrence anywhere is the SEP entry, where the quote marks close after the fragment *"The moment of seeing a color or hearing a sound"* and the remainder is SEP's own exposition onto a page-cite. Two Kyoto School pages reproducing the surrounding p.3 material at length do not contain the sentence. **De-quoted** (claim preserved) and the translation now named inline — *"trans. Abe and Ives, 3"* — so the article no longer puts a translator's words in Nishida's mouth unattributed.
+- **Defect 3 — *NTU* misassigned across authors within one tradition.** Was *"vital force (*NTU*), as articulated by Placide Tempels"*. Tempels' term is ***force vitale***; the *-ntu* categories (Muntu/Kintu/Hantu/Kuntu) are **Kagame** (1956) and **NTU** as "the universal force as such" is **Jahn** (*Muntu*, 1961). Right thesis, right author, a third author's term. Re-predicated.
+- **Defect 4 — transliteration.** `*sakṣin*` → `*sākṣin*` (L169): the article uses full diacritics throughout, and this was the corpus's only half-diacriticked form. The bare `saksin` in five other files is internally consistent with those files' own convention and is NOT a defect.
+- **Per-cite ledger (publisher of record).** **Wong 2025** *Dao* 24(1):105–117 DOI 10.1007/s11712-024-09978-z — **real-correct**, first check in the article's history. **Fan Zhen claims, never previously checked — all verify**: *Shen Mie Lun* 507 ✓, replies commissioned by Emperor Wu of Liang ✓ (64 courtiers ordered / 75 tracts; hedged "some sixty" is fair), sharpness-to-blade correctly rendered as an inseparability thesis ✓. **O'Brien-Kop** — real-wrong-metadata: Cambridge's own cite line is *2024, 60, S4–S20*; article had 2023 with no vol/pages. Corrected. **Coseru 2012** re-confirmed verbatim at OUP. **Adamson 2016** still correctly de-quoted from 07-12. Dates spot-checked (Udayana, Dignāga, Dharmakīrti, Ibn Sīnā, al-Ghazālī, Wang Yangming, Nishida) all ✓. No superlative empirical-record claims → currency sweep empty. No possibility/probability slippage.
+- **SIBLING DEFECTS — reported, NOT re-scoped** (separate tasks owed): same *ntu*/Tempels misattribution at `concepts/african-philosophy-of-consciousness.md:71` and `topics/interaction-problem-across-traditions.md:105`; O'Brien-Kop citation family stale in four files (`topics/indian-philosophy-of-mind.md:187`, `topics/cross-traditional-convergence-on-consciousness-irreducibility.md:193`, `topics/epistemology-of-convergence-arguments.md:232`, `concepts/samkhya-three-way-distinction.md:144` — year only). Canonical model already correct at `topics/interaction-problem-across-traditions.md:150`.
+- **Mirror**: `hugo/content/topics/…` carried the false "anticipates" framing and the mis-quoted Nishida sentence before the edit. Ran `scripts/sync.py`; all four stale strings now absent, all five replacements present.
+- **Housekeeping**: `ai_modified` + `last_deep_review` both stamped `2026-07-29T23:02:09+00:00` from `date -u` in the writing command. `ai_system` **held** at `claude-opus-4-6+claude-opus-5` — already contains this pass's model, and no new authorial voice was added. No `[1m]` artifact; review-file EOF clean; both files parse.
+- **Published**: yes
 
 ## 2026-07-29 22:55 UTC - refine-draft
 - **Status**: Success

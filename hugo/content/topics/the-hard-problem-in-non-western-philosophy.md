@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-07-28 14:45:28+00:00
+ai_modified: 2026-07-29 23:02:09+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Indian, Islamic, African, and Japanese traditions independently fou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 18:24:30+00:00
+last_deep_review: 2026-07-29 23:02:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ This article surveys how non-Western traditions frame the consciousness-matter r
 
 ## Sāṃkhya: The Closest Non-Western Parallel
 
-Sāṃkhya philosophy, one of India's six orthodox schools, posits two irreducible realities: *Puruṣa* (consciousness) and *Prakṛti* (matter/nature). Karen O'Brien-Kop (2023) argues explicitly in Cambridge's *Religious Studies* that Sāṃkhya anticipates Chalmers' hard problem.
+Sāṃkhya philosophy, one of India's six orthodox schools, posits two irreducible realities: *Puruṣa* (consciousness) and *Prakṛti* (matter/nature). Karen O'Brien-Kop (2024), in Cambridge's *Religious Studies*, brings Sāṃkhya into dialogue with Chalmers' hard problem and finds genuine resonances with his treatment of consciousness as fundamental—though she notes that on Chalmers' narrower formulation, how physical processes give rise to consciousness, Sāṃkhya sits partly outside the problem rather than anticipating it.
 
 Sāṃkhya's dualism is more radical than Descartes'. In Cartesian dualism, mind thinks and body extends. In Sāṃkhya, *all* mental activity—including mind (*manas*), ego (*ahaṃkāra*), and intellect (*buddhi*)—belongs to *Prakṛti*. Consciousness (*Puruṣa*) is pure witnessing, changeless and causally inert. This separates phenomenal awareness from cognitive processing more sharply than any Western formulation.
 
@@ -108,7 +108,7 @@ The Map's response is that the explanatory gap surfaces even without Cartesian a
 
 Nishida Kitarō (1870–1945), founder of Japan's Kyoto School, attempted to synthesise Western philosophy with Zen Buddhism. His concept of *pure experience* (*junsui keiken*) goes to the root of the hard problem.
 
-"By pure I am referring to the state of experience just as it is without the least addition of deliberative discrimination," Nishida writes in *An Inquiry Into the Good*. "The moment of seeing a color or hearing a sound is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be." Subject and object are subsequent differentiations within pure experience, not its preconditions.
+"By pure I am referring to the state of experience just as it is without the least addition of deliberative discrimination," Nishida writes in *An Inquiry Into the Good* (trans. Abe and Ives, 3). The moment of seeing a colour or hearing a sound, on his account, comes before the thought that the colour or sound is the activity of an external object, before the thought that one is sensing it, and before any judgment of what it might be. Subject and object are subsequent differentiations within pure experience, not its preconditions.
 
 Nishida dissolves the hard problem by denying that consciousness needs to be explained by physical processes. Pure experience precedes and grounds both subject and object. The hard problem arises only when one starts from the object side and tries to derive the subject. Start from pure experience, and there is no gap to bridge.
 
@@ -122,7 +122,7 @@ Ubuntu philosophy challenges the hard problem's most basic assumption: that cons
 
 The Yoruba concept of *ori-inu*—the inner self or hidden personal essence—offers an independent echo of the explanatory gap from a completely different tradition. *Ori-inu* is treated as the deepest source of knowing, yet one that remains inaccessible to the knowing it enables. The knower cannot be known by the same faculty it constitutes—strikingly parallel to the Western recognition that consciousness cannot be captured in third-person description.
 
-Bantu philosophy's concept of vital force (*NTU*), as articulated by Placide Tempels, treats consciousness not as a special property of brains but as an aspect of force pervading all reality, varying in intensity across beings. This resembles [panpsychism](/concepts/panpsychism/)—and faces the same [combination-problem](/concepts/combination-problem/) that panpsychism faces in Western thought. (Tempels' framework has been challenged as a colonial projection by Aimé Césaire and Frantz Fanon, though others have embraced it as reflecting genuine Bantu thought.)
+Bantu philosophy's concept of vital force (*force vitale*), as articulated by Placide Tempels and later recast in the *-ntu* categories of Alexis Kagame and Janheinz Jahn, treats consciousness not as a special property of brains but as an aspect of force pervading all reality, varying in intensity across beings. This resembles [panpsychism](/concepts/panpsychism/)—and faces the same [combination-problem](/concepts/combination-problem/) that panpsychism faces in Western thought. (Tempels' framework has been challenged as a colonial projection by Aimé Césaire and Frantz Fanon, though others have embraced it as reflecting genuine Bantu thought.)
 
 ## The Cross-Cultural Convergence Argument
 
@@ -169,7 +169,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 - [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/) — The Kyoto School's pure experience and absolute nothingness as a second non-substantialist basin edge
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
-- [witness-consciousness](/concepts/witness-consciousness/) — The Advaitic *sakṣin* and Buddhist witnessing traditions
+- [witness-consciousness](/concepts/witness-consciousness/) — The Advaitic *sākṣin* and Buddhist witnessing traditions
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person data as empirical test
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, paralleled by al-Ghazālī
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual chasm these traditions independently identify
@@ -188,7 +188,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 1. Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
 1. Ibn Sīnā. *De Anima* (Kitāb al-Nafs). Various translations.
 1. Nishida, K. (1911). *An Inquiry Into the Good*. Trans. M. Abe and C. Ives. Yale University Press, 1990.
-1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 1. Wong, Soo Lam (2025). "Fan Zhen's *Shen Mie Lun* and the Mind-Body Problem: A Comparison with Western Approaches." *Dao: A Journal of Comparative Philosophy*, 24(1), 105–117. https://doi.org/10.1007/s11712-024-09978-z

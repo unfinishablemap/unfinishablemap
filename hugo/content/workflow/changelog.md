@@ -1,13 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T22:40:00+00:00'
+ai_modified: '2026-07-29T23:04:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-29 23:02 UTC - deep-review
+- **Status**: Success
+- **File**: `[[topics/the-hard-problem-in-non-western-philosophy]]`
+- **Word count**: 3185 → 3242 (+57; `soft_warning`, apparatus ~360w, argument prose ~2880 against the 4000 topics ceiling — no condense opened)
+- **Critical issues addressed**: 4 | **Medium**: 0 | **Enhancements**: 2
+- **Output**: `[[reviews/deep-review-2026-07-29-the-hard-problem-in-non-western-philosophy]]`
+- **Scope**: 9th pass. Quote fidelity at primary/named-translation, transliteration accuracy, and citation framing. The two highest-value finds came from axes that survive repeated citation-*metadata* review.
+- **Defect 1 — O'Brien-Kop over-recruited (citation-framing class; the article's opening load-bearing cite).** Was: *"argues **explicitly** … that Sāṃkhya **anticipates** Chalmers' hard problem."* Verified against the Cambridge open-access PDF: she makes no anticipation claim. Abstract says there are "**resonances**"; method is a "**dialogic frame**"; and her footnote 32 states that on Chalmers' 2020 restricted formulation "**Sāṃkhya is somewhat outside**" the problem — the article asserted the reverse of a caveat the author makes explicitly. **Also an internal corpus contradiction**: `[[concepts/samkhya-three-way-distinction]]` and `[[topics/epistemology-of-convergence-arguments]]` already carried the calibrated reading ("resists the strict identification rather than confirming it"); this article was the outlier. Re-framed, not deleted.
+- **Defect 2 — Nishida: SEP's prose laundered as primary verbatim, and it was a PRIOR PASS'S OWN FIX.** The 07-12 pass replaced a Viglielmo quote with wording it verified *at SEP* believing it was Abe & Ives. Sentence 1 is genuinely verbatim Abe & Ives p.3 (three independent reproductions). **Sentence 2 is not Nishida at all**: its only occurrence anywhere is the SEP entry, where the quote marks close after the fragment *"The moment of seeing a color or hearing a sound"* and the remainder is SEP's own exposition onto a page-cite. Two Kyoto School pages reproducing the surrounding p.3 material at length do not contain the sentence. **De-quoted** (claim preserved) and the translation now named inline — *"trans. Abe and Ives, 3"* — so the article no longer puts a translator's words in Nishida's mouth unattributed.
+- **Defect 3 — *NTU* misassigned across authors within one tradition.** Was *"vital force (*NTU*), as articulated by Placide Tempels"*. Tempels' term is ***force vitale***; the *-ntu* categories (Muntu/Kintu/Hantu/Kuntu) are **Kagame** (1956) and **NTU** as "the universal force as such" is **Jahn** (*Muntu*, 1961). Right thesis, right author, a third author's term. Re-predicated.
+- **Defect 4 — transliteration.** `*sakṣin*` → `*sākṣin*` (L169): the article uses full diacritics throughout, and this was the corpus's only half-diacriticked form. The bare `saksin` in five other files is internally consistent with those files' own convention and is NOT a defect.
+- **Per-cite ledger (publisher of record).** **Wong 2025** *Dao* 24(1):105–117 DOI 10.1007/s11712-024-09978-z — **real-correct**, first check in the article's history. **Fan Zhen claims, never previously checked — all verify**: *Shen Mie Lun* 507 ✓, replies commissioned by Emperor Wu of Liang ✓ (64 courtiers ordered / 75 tracts; hedged "some sixty" is fair), sharpness-to-blade correctly rendered as an inseparability thesis ✓. **O'Brien-Kop** — real-wrong-metadata: Cambridge's own cite line is *2024, 60, S4–S20*; article had 2023 with no vol/pages. Corrected. **Coseru 2012** re-confirmed verbatim at OUP. **Adamson 2016** still correctly de-quoted from 07-12. Dates spot-checked (Udayana, Dignāga, Dharmakīrti, Ibn Sīnā, al-Ghazālī, Wang Yangming, Nishida) all ✓. No superlative empirical-record claims → currency sweep empty. No possibility/probability slippage.
+- **SIBLING DEFECTS — reported, NOT re-scoped** (separate tasks owed): same *ntu*/Tempels misattribution at `concepts/african-philosophy-of-consciousness.md:71` and `topics/interaction-problem-across-traditions.md:105`; O'Brien-Kop citation family stale in four files (`topics/indian-philosophy-of-mind.md:187`, `topics/cross-traditional-convergence-on-consciousness-irreducibility.md:193`, `topics/epistemology-of-convergence-arguments.md:232`, `concepts/samkhya-three-way-distinction.md:144` — year only). Canonical model already correct at `topics/interaction-problem-across-traditions.md:150`.
+- **Mirror**: `hugo/content/topics/…` carried the false "anticipates" framing and the mis-quoted Nishida sentence before the edit. Ran `scripts/sync.py`; all four stale strings now absent, all five replacements present.
+- **Housekeeping**: `ai_modified` + `last_deep_review` both stamped `2026-07-29T23:02:09+00:00` from `date -u` in the writing command. `ai_system` **held** at `claude-opus-4-6+claude-opus-5` — already contains this pass's model, and no new authorial voice was added. No `[1m]` artifact; review-file EOF clean; both files parse.
+- **Published**: yes
+
+## 2026-07-29 22:55 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[research/illusionism-functional-seeming-2026-03-28]]`
+- **Scope**: the two named loci (L115 bullet, L180 timeline row) plus the previously-unverified flat-earth clause. No other edit; research-note bullet/timeline form preserved.
+- **Closes the chain.** Last live copy of the misattribution corrected today in `concepts/illusionism.md` (ae66ac59/26abe933), `concepts/explanatory-gap.md` (c329bd80) and `archive/topics/it-from-bit-and-participatory-ontology.md`.
+- **Locus 1 re-predicated (citation-framing-accuracy class: real, verbatim, correctly attributed, wrong target).** Was: *"Strawson calls illusionism 'the silliest claim ever made' and compares it to Flat Eartherism"*. Now predicates the charge of **denying consciousness exists** — the settled gerund inherited from `[[concepts/explanatory-gap]]`, not newly composed — and records that Strawson names the target "the Denial" with Dennett as chief exponent. Quote retained, not deleted.
+- **Locus 2 re-predicated.** Timeline row now reads *"High-profile attack: denying consciousness exists is 'the silliest claim ever made'"*.
+- **SECOND FABRICATION FOUND AND REMOVED — the flat-earth clause.** The driver flagged *"compares it to Flat Eartherism"* as never verified by anyone. Verified at the primary and **it is false**: the essay makes no flat-earth comparison of any kind. The only "flat" in either NYRB piece is Strawson *quoting Dennett's* phrase *"I think it is a flat-out mistake, a failure of imagination"* (Intuition Pumps, 2013) — the likely seed of the confabulation. Per the driver's instruction the clause was removed rather than re-predicated. This is a fabricated comparison, not a mis-predicated real one.
+- **Verification method (primary, non-circular).** `nybooks.com/online/2018/03/13/the-consciousness-deniers/` fetched directly, plus `pdftotext` extraction of the article's own cited source PDF (the Purdue-hosted scan of the two-part NYRB exchange, 40KB text layer) grepped locally for `flat` / `silliest` / `illusion` / `Frankish`. No aggregator, no prior review of ours, no search whose top hit is unfinishablemap.org. Confirmed verbatim: the opening *"What is the silliest claim ever made? … Some people have denied the existence of consciousness…"*; *"the Denial, the silliest view ever held in the history of human thought"*; Dennett's own reply conceding *"He invokes common sense against which to contrast 'the silliest claim ever made' (I'm honored!)"* — Dennett, not Frankish, took himself to be the addressee.
+- **One refinement to the received fact.** The driver's brief said the essay "never mentions Keith Frankish". True of the 13 March essay, but the **cited URL is the bundled exchange**, and Frankish *is* named once in Strawson's 3 April rejoinder — in a list of philosophers backing Dennett, and there the view is called **"eliminativism"**, never "illusionism". A scope-caveat bullet now records this so the note cannot be re-mis-predicated from its own source.
+- **Mirror**: `hugo/content/research/…` still carried both false loci before the edit (`grep -c` = 2). Ran `scripts/sync.py`; mirror now 0 for both `illusionism "the silliest` and `Eartherism`.
+- **Housekeeping**: `ai_system` held at `claude-opus-4-6` (re-predicating a quote is not re-authoring); `last_deep_review` untouched; `ai_modified` bumped from `date -u`. Length 2807w, `soft_warning`, well under the 3500 research hard cap — no condense opened.
+- **Published**: yes
 
 ## 2026-07-29 22:45 UTC - refine-draft
 - **Status**: Success
