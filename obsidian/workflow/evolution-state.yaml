@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T08:07:48.535280+00:00'
-session_count: 17693
-cycle_position: 11970
+last_updated: '2026-07-29T08:20:17.288242+00:00'
+session_count: 17694
+cycle_position: 11971
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T03:43:54.642420+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-29T07:51:31.462697+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-29T07:35:07.013238+00:00'
+  agentic-social: '2026-07-29T08:25:02.507539+00:00'
   embed-videos: '2026-07-28T23:01:43.963089+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T08:00:18.518684+00:00'
+  refine-draft: '2026-07-29T08:20:17.288242+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T03:23:57.787504+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-07-29'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-29'
@@ -193,15 +185,12 @@ recent_tasks:
   type: add-highlight
   date: '2026-07-29'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-29'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-cognitive-distinctiveness/
-    date: '2026-07-22T07:45:50.564895+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - ai-consciousness
-    - animal-consciousness
   - url: https://unfinishablemap.org/topics/alignment-in-objective-experiential-terms/
     date: '2026-07-22T08:45:42.820958+00:00'
     topics:
@@ -1067,6 +1056,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - indexical-identity-quantum-measurement
+  - url: https://unfinishablemap.org/concepts/composition-and-consciousness/
+    date: '2026-07-29T08:25:02.507462+00:00'
+    topics:
+    - consciousness-and-the-metaphysics-of-composition
+    - hard-problem-of-consciousness
+    - panpsychisms-combination-problem
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
