@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T18:40:27.068166+00:00'
-session_count: 17759
+last_updated: '2026-07-29T18:49:16.997736+00:00'
+session_count: 17760
 cycle_position: 12005
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
   refine-draft: '2026-07-29T18:37:59.419480+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-29T18:33:25.745468+00:00'
+  replenish-queue: '2026-07-29T18:49:16.997736+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-29T08:07:48.535280+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-29'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-29'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1176,68 +1176,67 @@ queue_status:
     File paths. Lengths measured with analyze_length, never wc -w. Pruned run_893_note
     per the keep-~3 discipline, keeping 894/895/896. No commit made; cycle_post owns
     that.'
-  run_897_note: 'run no.897 (2026-07-29T18:47Z, cycle-driven /replenish-queue): MINTED ZERO, FLOOR
-    RESTORED BY PROMOTING EXACTLY ONE ALREADY-VERIFIED P3 (2 -> 3). No new target was
-    invented, and no source was re-derived speculatively. The driver briefing recorded
-    run 896 as having audited all eight generative sources and found every one genuinely
-    blocked or exhausted, and instructed that promotion is strictly preferable to a
-    marginal mint, since re-deriving from dry wells is what produced roughly four false
-    CONCRETE-defect mints in this session. CHEAP RE-AUDIT OF THE TWO SOURCES THAT COULD
-    PLAUSIBLY HAVE MOVED IN 40 MINUTES, both still blocked: section caps unchanged at
-    topics 318/320, concepts 317/320, voids 100/100, positions 10/80, so expand-topic
-    and new-article generation remain closed; and get_length_warnings at min_status
-    hard_warning returns the standing 87-file set with nothing newly crossing a critical
-    threshold, all substantial offenders either veto-tagged or parked under operator-
-    reserved NEEDS-HUMAN headers. The remaining six sources were taken as still-blocked
-    on run 896 evidence, as briefed. PROMOTED apex/cross-modal-capability-division.md,
+  run_897_note: 'run no.897 (2026-07-29T18:47Z, cycle-driven /replenish-queue): MINTED
+    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE ALREADY-VERIFIED P3 (2 -> 3). No
+    new target was invented, and no source was re-derived speculatively. The driver
+    briefing recorded run 896 as having audited all eight generative sources and found
+    every one genuinely blocked or exhausted, and instructed that promotion is strictly
+    preferable to a marginal mint, since re-deriving from dry wells is what produced
+    roughly four false CONCRETE-defect mints in this session. CHEAP RE-AUDIT OF THE
+    TWO SOURCES THAT COULD PLAUSIBLY HAVE MOVED IN 40 MINUTES, both still blocked:
+    section caps unchanged at topics 318/320, concepts 317/320, voids 100/100, positions
+    10/80, so expand-topic and new-article generation remain closed; and get_length_warnings
+    at min_status hard_warning returns the standing 87-file set with nothing newly
+    crossing a critical threshold, all substantial offenders either veto-tagged or
+    parked under operator- reserved NEEDS-HUMAN headers. The remaining six sources
+    were taken as still-blocked on run 896 evidence, as briefed. PROMOTED apex/cross-modal-capability-division.md,
     connect the apex ownership term to the Map article on it, from P3 to P2. THREE
-    CANDIDATES WERE VERIFIED ON DISK BEFORE CHOOSING, because several of these P3 blocks
-    are days old and today saw heavy calibration sweeps. (1) CHOSEN, premise fully
-    intact: grep for ownership-problem over the apex returns ZERO and the reverse grep
-    for cross-modal-capability-division over topics/consciousness-and-the-ownership-
+    CANDIDATES WERE VERIFIED ON DISK BEFORE CHOOSING, because several of these P3
+    blocks are days old and today saw heavy calibration sweeps. (1) CHOSEN, premise
+    fully intact: grep for ownership-problem over the apex returns ZERO and the reverse
+    grep for cross-modal-capability-division over topics/consciousness-and-the-ownership-
     problem.md also returns ZERO, so the two files still reference each other in neither
     direction; the apex genuinely stakes its distinctive contribution on the ownership
     term at five separate loci, L98, L108, L114, L126 and L128, with L108 stating
-    outright that global broadcast explains availability-to-the-system but not why there
-    is a subject the content is available to and calling that gap the Map value-add; and
-    analyze_length gives 4917w soft_warning against apex 4000 soft and 5000 hard,
-    exactly the 2026-07-27 mint figure, so nothing has landed on the file since and its
-    LENGTH-NEUTRAL instruction stands on measured grounds. This is the highest-value of
-    the three because the fix is a wikilink laid over prose that already exists, hence
-    genuinely free against 83 words of headroom, and it repairs a graph gap on an apex,
-    the surface retrieval hits first. (2) VERIFIED BUT NOT CHOSEN, concepts/pain-
+    outright that global broadcast explains availability-to-the-system but not why
+    there is a subject the content is available to and calling that gap the Map value-add;
+    and analyze_length gives 4917w soft_warning against apex 4000 soft and 5000 hard,
+    exactly the 2026-07-27 mint figure, so nothing has landed on the file since and
+    its LENGTH-NEUTRAL instruction stands on measured grounds. This is the highest-value
+    of the three because the fix is a wikilink laid over prose that already exists,
+    hence genuinely free against 83 words of headroom, and it repairs a graph gap
+    on an apex, the surface retrieval hits first. (2) VERIFIED BUT NOT CHOSEN, concepts/pain-
     asymbolia.md: premise intact, grep for asymbolia over the five named cluster files
-    returns ZERO, and the primary file measures 2292w status ok against concepts
-    2500/3500, so it has real room. Deferred only on ordering: its reciprocal one-
-    sentence bullet lands on the SAME apex against the SAME 83-word budget, so doing the
-    length-neutral link first is free and leaves that budget intact. (3) VERIFIED BUT
-    NOT CHOSEN, the mind-arena wikilink task: premise intact, grep confirms zero mind-
-    arena wikilinks across all four named files while concepts/mind-arena.md exists and
-    the term appears in load-bearing prose, three occurrences in the primary file alone.
-    Deferred as the lowest-value of the three and because its one-file-per-pick design
-    would hold the floor slot for four consecutive picks. (4) CORRECTLY LEFT AT P3, the
-    positions-evolve P-D3 Argued-in task: its own note requires the three refine-draft
-    siblings to land FIRST, and two of the three are still open, the evaluative-
-    phenomenal-character hub at P2 and phenomenal-normativity-environmental-ethics at
-    P3, so it is blocked rather than ripe. NOTHING WAS CLOSED AS SUPERSEDED: unlike runs
-    894 and 895, every premise checked this run held verbatim on disk, so there was no
-    stale mint to retire. AUTHORITATIVE POST-COUNT
-    tools.evolution.task_selector.count_p0_p2_tasks over the file on disk == 3 against
-    MIN_QUEUE_TASKS == 3, an exact restore with no padding. parse_tasks confirms 14
-    active entries, of which the three P2s are moral-implications-of-genuine-agency,
-    evaluative-phenomenal-character and the newly promoted cross-modal-capability-
-    division, all REFINE_DRAFT with resolvable absolute File paths, and confirms the
-    three condense entries sit in the vetoed bucket where they belong. p3_tasks
-    recounted from a stale 15 to the measured 11. HYGIENE: the promotion note was
-    written INSIDE the existing Notes bullet rather than as a separate bullet, preserves
-    the original mint verbatim after an explicit marker, and names the second file,
-    obsidian/topics/consciousness-and-the-ownership-problem.md at 2877w status ok, as an
-    explicit do-not-drop warning, since the dropped-sibling failure has fired four times
-    on a single warning this session. Type and File lines both present, type refine-
-    draft never other, path repo-relative from the root, no wikilink in the note, no
-    bare hash character. No operator-reserved item was re-headed and none carries a
-    picker-selectable P-prefix. Lengths measured with analyze_length, never wc -w.
-    CONCURRENCY: the dense auto commit cadence is the driver own cycle_post history, not
-    a rival loop, per the driver briefing. Pruned run_894_note per the keep-~3
-    discipline, keeping 895/896/897, and recent_tasks was not touched. No commit made;
-    cycle_post owns that.'
+    returns ZERO, and the primary file measures 2292w status ok against concepts 2500/3500,
+    so it has real room. Deferred only on ordering: its reciprocal one- sentence bullet
+    lands on the SAME apex against the SAME 83-word budget, so doing the length-neutral
+    link first is free and leaves that budget intact. (3) VERIFIED BUT NOT CHOSEN,
+    the mind-arena wikilink task: premise intact, grep confirms zero mind- arena wikilinks
+    across all four named files while concepts/mind-arena.md exists and the term appears
+    in load-bearing prose, three occurrences in the primary file alone. Deferred as
+    the lowest-value of the three and because its one-file-per-pick design would hold
+    the floor slot for four consecutive picks. (4) CORRECTLY LEFT AT P3, the positions-evolve
+    P-D3 Argued-in task: its own note requires the three refine-draft siblings to
+    land FIRST, and two of the three are still open, the evaluative- phenomenal-character
+    hub at P2 and phenomenal-normativity-environmental-ethics at P3, so it is blocked
+    rather than ripe. NOTHING WAS CLOSED AS SUPERSEDED: unlike runs 894 and 895, every
+    premise checked this run held verbatim on disk, so there was no stale mint to
+    retire. AUTHORITATIVE POST-COUNT tools.evolution.task_selector.count_p0_p2_tasks
+    over the file on disk == 3 against MIN_QUEUE_TASKS == 3, an exact restore with
+    no padding. parse_tasks confirms 14 active entries, of which the three P2s are
+    moral-implications-of-genuine-agency, evaluative-phenomenal-character and the
+    newly promoted cross-modal-capability- division, all REFINE_DRAFT with resolvable
+    absolute File paths, and confirms the three condense entries sit in the vetoed
+    bucket where they belong. p3_tasks recounted from a stale 15 to the measured 11.
+    HYGIENE: the promotion note was written INSIDE the existing Notes bullet rather
+    than as a separate bullet, preserves the original mint verbatim after an explicit
+    marker, and names the second file, obsidian/topics/consciousness-and-the-ownership-problem.md
+    at 2877w status ok, as an explicit do-not-drop warning, since the dropped-sibling
+    failure has fired four times on a single warning this session. Type and File lines
+    both present, type refine- draft never other, path repo-relative from the root,
+    no wikilink in the note, no bare hash character. No operator-reserved item was
+    re-headed and none carries a picker-selectable P-prefix. Lengths measured with
+    analyze_length, never wc -w. CONCURRENCY: the dense auto commit cadence is the
+    driver own cycle_post history, not a rival loop, per the driver briefing. Pruned
+    run_894_note per the keep-~3 discipline, keeping 895/896/897, and recent_tasks
+    was not touched. No commit made; cycle_post owns that.'

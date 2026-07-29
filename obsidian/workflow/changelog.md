@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T18:34:43+00:00'
+ai_modified: '2026-07-29T19:02:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 19:02 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/concepts/illusionism.md` — 448 inbound wikilinks, `ai_modified: 2026-07-27`, `last_deep_review: 2026-07-16`, untouched by today's calibration sweeps, no open queue task
+- **Output**: [[reviews/pessimistic-2026-07-29-illusionism]]
+- **Headline finding — internal contradiction.** L81 grounds the Map's rejection of Attention Schema Theory in the bare regress (*"The Map rejects AST **because** it faces the same regress … something must be doing the seeming"*); L93 and L113 both concede that same regress *"proves nothing"* and *"assumes the conclusion illusionists deny."* Boundary-substitution under `direct-refutation-discipline`. The calibrated version already exists in two siblings (`topics/attention-and-the-consciousness-interface` L98/L100, `concepts/attention-schema-theory` L68) — the hub reverts what the specialists settled.
+- **Second finding — Graziano taxonomy, verified at primary.** L69–L75 renders a six-hypothesis spectrum paper as a two-way taxonomy and coins *"Soft (small) illusionism"* as Graziano's term. eNeuro 11(10) ENEURO.0210-24.2024 (and PMC full text) confirm: six hypotheses under an umbrella framing, Graziano's contrast term is **"subtle illusionism"**, and the strings "soft illusionism" / "small illusionism" do not occur. The abstract names the Map's exact error (*"scholars tend to think only of the most extreme forms and miss the range of possibilities"*). AST is Hypothesis 5 — the less-extreme end — which is why the L81 regress lands on a reading AST does not hold.
+- **Two citation-framing defects (real + verbatim, wrongly predicated).** (a) L87 *"Galen Strawson called illusionism 'the silliest claim ever made'"* — verified at nybooks.com: Strawson predicates it of **"the Denial"**, and the essay never names Frankish or illusionism. Flagged by `reviews/outer-review-2026-06-09-claude-opus-4-8` L105 and never fixed; the 06-27 and 07-16 quote-fidelity passes checked the words, not the predication. (b) L57 — Frankish's *"eliminativism about phenomenal consciousness"* is quoted exactly, but his own eprint continues *"The term is not ideal, however, suggesting … that rejection of phenomenal realism is part of a wider rejection of folk psychology"* — he coins "illusionism" precisely to block the inheritance the Map's next sentence asserts.
+- **Cross-file link-label over-claim.** `[[attention-and-the-consciousness-interface|Why Attention Schema Theory Fails]]` appears in four live articles (`illusionism` L81, `mental-effort` L124, `heterophenomenology` L112, `global-workspace-theory` L94); the destination's L100 says *"Neither side closes the case against the other inside the rival's framework."* `grep -i fail` on the destination returns one hit, about neglect.
+- **Verified non-findings (recorded so downstream does not re-raise).** LENGTH IS NOT A DEFECT: `analyze_length` says 3537w/`hard_warning`, but 553w are the Further Reading + References apparatus — **argument prose is 2984w** against concepts soft 2500 / hard 3500. No condense. Altered-state symmetry gate does not fire (one supportive-cluster item). Label-leakage grep clean. Kammerer 2017/2018 year already adjudicated 07-16. All quote *fidelity* sound at primary (Frankish 2016 eprint, Strawson NYRB) — the defects are framing.
+- **Tasks minted**: 2 × P2 `refine-draft` on `obsidian/concepts/illusionism.md` (regress+Graziano; citation-framing+link-label+falsifier). Sibling loci flagged unmissably with a one-file-per-pick re-scope instruction, and `concepts/explanatory-gap.md`'s 5-word headroom (3495/3500) recorded as a length-neutral constraint.
+- **Content modified**: none (reports-only)
 
 ## 2026-07-29 18:34 UTC - refine-draft
 - **Status**: Success
