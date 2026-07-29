@@ -5,6 +5,22 @@ ai_modified: '2026-07-29T05:06:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-29 05:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[arguments/materialism-argument]]
+- **Word count**: 3276 → 3316 (+40; length-neutral mode, 2500 soft / 3500 hard, 184 words headroom)
+- **Selected by**: `deep_review.py next` (score 39; 43 days unreviewed, changed-since-review). 7th deep review of the corpus flagship.
+- **Context**: a `/pessimistic-review` ran against the same file earlier today and produced seven issues. Three (L85/L87 flat modals, the Chalmers misattribution, the corpus-wide "seven orders of magnitude" arithmetic) were already resolved on disk by refine passes `a6e57ec8c` and `9d460032c` — verified rather than re-derived, and recorded as closed so future passes do not re-litigate them.
+- **Critical issues addressed**: 1 — the "materialism fails, therefore dualism" false dilemma. The burden-of-proof assertion ("dualists need only that materialism fails") was replaced with an explicit concession naming panpsychism, neutral monism, Russellian monism and mysterianism as live rivals, routed to the two comparison articles. This also recovers the Falsifiability section, which that sentence repealed three paragraphs after stating it.
+- **Medium issues addressed**: 3 — (a) the Dennett zombie-reply appealed to first-person contemplative report, which heterophenomenology excludes as evidence about phenomenal character; heterophenomenology is now named, the restriction conceded, and the blanket "each criticism turns on standards the opponent endorses" claim narrowed to Frankish and the phenomenal-concept strategy. (b) The bare-regress horn against illusionism, which `concepts/illusionism.md` L93 disowns, replaced with the meta-representational-bridge framing that page supplies. (c) Contemplative Perspectives rewritten to concede the functionalist redescription and that *vipassanā*'s own analysis points toward *anattā*.
+- **Style fixes**: 3 — reflexive "load-bearing" removed; two "not X but Y" constructs rewritten as positive claims.
+- **Engagement modes** (editor-internal): Dennett **downgraded Mode One → Mode Three with a narrow Mode One residue** (the in-framework claim was not earned). Illusionism at L52 **upgraded from a bad Mode One to a real Mode Two** (unspecified meta-representational bridge identified in place of a regress the Map's own specialist page rejects). Frankish (Mode One + Mode Three residue) and the phenomenal-concept strategy (Mode One) unchanged — the article's best passages, untouched. Rivals concession is Mode Three, declared.
+- **Web-verify**: per-cite ledger in the review archive. Elitzur 1989 (added today) verified at three independent sources — JMB publisher back-issues, PhilPapers, and the author's own CV; pagination ambiguity (1-19 vs 1-20) resolved in favour of the author's record, so the file's existing form stands. Hagan et al. 2002 re-verified at the arXiv abstract: 10⁻¹³ s → 10⁻⁵–10⁻⁴ s confirms **eight to nine** orders, which is what the article now says. No inline↔References orphans.
+- **Cross-links added**: 7 (panpsychism, neutral-monism, russellian-monism, mysterianism, russellian-monism-versus-bi-aspectual-dualism, panpsychisms-combination-problem, heterophenomenology) — all verified to resolve to live files.
+- **Paid for by**: "The Billiard Ball Picture Is Wrong" section folded into two sentences (no inbound anchor links — checked); Dennett block's doubled prediction compressed; Occam paragraph tightened; epiphenomenalism opener de-duplicated; first two paragraphs of Relation to Site Perspective merged.
+- **Queued**: 1 P1 refine-draft — cross-file epiphenomenalism-calibration residue in four articles (`interactionist-dualism` L93, `falsification-roadmap-for-the-interface-model` L183, `mental-causation-and-downward-causation` L170, `self-stultification` L201), all verified live on disk. Consolidated into one task rather than four because every one of those files was deep-reviewed *after* the calibration began and the flat claims survived all four passes — the defect is a cross-document consistency property that single-file review structurally cannot see.
+- **Output**: [[reviews/deep-review-2026-07-29-materialism-argument]]
+
 ## 2026-07-29 05:06 UTC - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-07-29 — subject `concepts/epistemology.md` (recent-aged fallback; all three services audited the same article)
