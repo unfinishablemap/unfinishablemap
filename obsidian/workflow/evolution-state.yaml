@@ -1,5 +1,9 @@
-last_updated: '2026-07-29T16:55:54.098339+00:00'
-session_count: 17746
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-29T17:00:06.397944+00:00'
+session_count: 17747
 cycle_position: 12000
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-29T14:22:47.401350+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-29T16:57:18.861720+00:00'
+  agentic-social: '2026-07-29T17:00:06.397944+00:00'
   embed-videos: '2026-07-29T16:27:43.889396+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
@@ -109,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-29'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-29'
@@ -187,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-07-29'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1063,16 +1067,87 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 18
-  needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-29T16:12:00+00:00'
-  last_replenishment_prev: '2026-07-29T15:39:00+00:00'
-  last_replenishment_run: 892
-  last_replenishment_mode: floor-restore
-  replenishment_source_counts:
-    gap_tenet_check_2026_07_29_binding_void_evidential_register_and_substance_leak: 1
+  needs_replenishment: true
+  loop_pickable_open: 2
+  last_replenishment: '2026-07-29T17:06:54+00:00'
+  last_replenishment_prev: '2026-07-29T16:12:00+00:00'
+  last_replenishment_run: 893
+  last_replenishment_mode: zero-mint-both-candidates-declined
+  replenishment_source_counts: {}
+  run_893_note: |-
+    run no.893 (2026-07-29T17:06Z, cycle-driven /replenish-queue): MINTED ZERO
+    TASKS. Queue left at 2 against MIN_QUEUE 3, deliberately and with the driver
+    briefing explicitly authorising a zero yield. Counts taken LIVE with
+    tools.evolution.task_selector.count_p0_p2_tasks against the file on disk:
+    2 before, 2 after. The two floor-holders (both refine-draft, both the Tenet 3
+    self-stultification family: topics/the-epiphenomenalist-threat.md and
+    concepts/self-stultification.md) kept their parser line numbers 1714 and 1723
+    across the write, because the one entry added was inserted at the BOTTOM of
+    Active Tasks immediately above the Completed Tasks header and shifted nothing
+    above it.
+    WHAT WAS ADDED: one NEEDS-HUMAN (methodology sequencing) entry on the stalled
+    apex Evidence-and-Dependency ledger. It carries no P-prefix, so cycle_pick
+    cannot select it and it does not count toward the floor. Recorded, not minted.
+    CANDIDATE 1 DECLINED - apex/machine-question.md condense. The raw
+    analyze_length figure of 5765w against the apex 5000 hard ceiling is a FALSE
+    over-length. Decomposed live this run: reference apparatus is 825w (Source
+    Articles 123, Further Reading 203, References 499) and the YouTube embed
+    boilerplate is a further 40w. Argument-only is 4943w, independently
+    reproducing the figure the concurrent apex-evolve run reported; authored prose
+    net of the embed is about 4903w, i.e. roughly 97 words UNDER the hard ceiling.
+    There is no length violation to act on, so neither a condense task nor a human
+    length-decision entry is warranted. Separately, and only for the record since
+    the measurement already settles it, the operator veto standing on the condense
+    for apex/phenomenal-output-causal-machinery-dissociation.md was judged to
+    GENERALISE a fortiori: that article is critical status at 6904w with 5647w
+    argument-only, genuinely over hard, and the operator vetoed condensing it; an
+    article at lower status whose argument-only count is under the ceiling has
+    strictly less claim on a condense slot than one already vetoed.
+    CANDIDATE 2 RECORDED NOT MINTED - the apex Evidence-and-Dependency retrofit.
+    Verified live: 7 of 38 apex articles carry the section (population is
+    obsidian/apex/*.md minus the two index pages apex.md and apex-articles.md).
+    Required since 2026-07-16, codified in apex-evolve SKILL L267-269 and
+    project/writing-style.md L144, L153, L605. Of the 31 missing it, 16 have under
+    400 words of headroom to hard against a section cost of about 200 words, 6 have
+    under 100, and 3 are already over hard. Retrofit-by-addition is unavailable for
+    half the backlog; the condense-first route is blocked by the operator veto
+    above; and an unresolved definitional question (whether prose that does the
+    ledger work without the heading satisfies the requirement) determines the true
+    backlog size. Operator sequencing decision, four options laid out in the todo
+    entry. Concurrent /apex-evolve reached the same conclusion independently and
+    logged it as changelog FINDING A; the todo entry exists so a third skill does
+    not re-derive it.
+    ALL OTHER SOURCES RE-VERIFIED LIVE, GENUINELY EMPTY. (1 chain) recent_tasks
+    hold no un-followed research-topic to expand-topic to cross-review completion.
+    (2 unconsumed research) 524 notes, but the 12 most recently touched are all
+    older notes re-modified by corpus-wide sweeps on 07-27 and 07-28, not fresh
+    unsynthesised research; harvest minted zero twice today against a review that
+    reads New Concept Pages Needed - None. (3 gap) caps measured live: topics
+    318/320, concepts 317/320, voids 100/100 FULL, positions 10/80. Topics and
+    concepts have 2 and 3 slots of headroom respectively, but no uncovered subject
+    exists to fill them. (4 staleness) get_review_candidates run live: top score is
+    concepts/causal-consistency-constraint at 15 days and the oldest in the top
+    twelve is 20 days, all under the 30-day bar, and staleness mints P3 which does
+    not restore the floor in any case. (5 orphan) zero. (6 length) the only apex
+    over hard with no task are machine-question, declined above on measurement, and
+    conjunction-coalesce which already has a task; everything else on the length
+    list is vetoed, sealed or human-deferred. (7 positions) register audited at
+    02:18Z today and P-VS3 added at 15:30Z, so the 30-day audit bar is not met.
+    (8 applied-apex gap) no cluster gap. Coalesce abandoned twice today by two
+    independent methods; research-voids on its third at-capacity skip.
+    CONCURRENCY: no rival evolve_loop.py per the driver briefing. Sibling agents
+    are active in this session, which is why the insert was placed at the bottom -
+    a top insert would shift line numbers under any fork holding a line-fallback
+    pick.
+    NOT A FAILURE. A short queue here is a true signal about corpus state: the
+    tenet-check vein that drove today is drained, caps are near full with no
+    uncovered subjects, and the two remaining leads are both operator decisions
+    rather than automation work.
+    Pruned run_890_note per the keep-~3 discipline, keeping 891/892/893. YAML
+    re-parsed with yaml.safe_load after every write to this file and after the
+    prune; it loads cleanly each time.
   run_892_note: 'run no.892 (2026-07-29T16:12Z, cycle-driven /replenish-queue): MINTED
     ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
     PRE-COUNT and POST-COUNT both taken LIVE with tools.evolution.task_selector.count_p0_p2_tasks
@@ -1190,47 +1265,3 @@ queue_status:
     REVERT only if a sibling replenish double-restores this slot (concurrent-replenish-race).
     Pruned run_888_note per the keep-~3 discipline, keeping 889/890/891 (evolution-state-floor-restore-note-bloat).
     YAML re-parsed with yaml.safe_load after writing and it loads cleanly.'
-  run_890_note: 'run no.890 (2026-07-29T15:03Z, cycle-driven /replenish-queue): MINTED
-    ONE P2 refine-draft, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
-    LIVE on disk immediately before the write, against MIN_QUEUE_TASKS == 3; post-write
-    tool-verified == 3, and parse_tasks confirms the new block as TaskType.REFINE_DRAFT,
-    priority 2, status PENDING, file_path obsidian/voids/noetic-feelings-void.md (FULL
-    path, not a bare slug). BOTTOM-INSERTED immediately above the Completed Tasks
-    header, below the 14:06Z and 14:47Z floor-holders, so get_next_task still returns
-    the OLDER value-in-selection positions-evolve task and top-first FIFO is intact
-    (queue-lifo-starvation). DEFECT VERIFIED LIVE, NOT INHERITED: the cycle driver
-    named voids/noetic-feelings-void.md L150 as the carried-forward primary candidate
-    from run 889, and this run re-read the file rather than trusting the handoff.
-    L150 reads, verbatim, that the quote-marked obvious truth that minds do not move
-    matter may be the stop-sign preventing investigation of the interface itself.
-    That is Map voice, in the Bidirectional Interaction paragraph of Relation to Site
-    Perspective. tenets.md L84 rules out uncontrolled psychokinesis and energy injection
-    by mind, and L64 confines the interface to biasing otherwise indeterminate outcomes
-    without injecting energy or violating conservation laws, so Tenet 2 AFFIRMS the
-    scare-quoted claim on the force/energy reading and the sentence as written invites
-    the reader to distrust something the Map endorses. The mint therefore asks for
-    disambiguation, not reversal: the stop-sign worth naming is the stronger claim
-    that mind cannot select among physically underdetermined outcomes. SCOPE FENCE
-    written into the task: the ancestor phrasing at research/voids-obviousness-void-2026-03-23.md
-    L169 carries the same wording but is research-note voice, explicitly out of scope.
-    LANE CHECK, declined per the driver briefing rather than re-litigated: research-topic
-    and expand-topic (harvest minted zero twice today), voids (at cap 100/100, which
-    blocks a new void but not this refine on an existing one), coalesce (abandoned
-    twice today, its own twice-confirmed conclusion being that topics/concepts need
-    a cap raise or archival), staleness (top get_review_candidates row at 20 days,
-    short of the 30-day bar, and a P3 would not restore the floor anyway). NEXT-RESTORE
-    CANDIDATES, Notes tier of reviews/tenet-check-2026-07-29, still unqueued as of
-    this write: apex/phenomenology-mechanism-bridge.md L87 (persisting-substance sourced
-    to the tenets though it does not follow from Tenet 1; propagates to citers), voids/binding-void.md
-    L130 (Descartes substance-dualism argument offered as direct support for a property
-    claim), topics/death-and-consciousness.md L191 (parsimony wielded against materialism
-    inside a Tenet 5 section, partly hedged), topics/interaction-problem-across-traditions.md
-    L131 (one-word fix, implicit to agency-cluster), topics/the-epiphenomenalist-threat.md
-    L59 with concepts/causal-closure.md L186 (factive self-undermining without conditionality,
-    same Tenet 3 shape). Two loci in that review are RECORDED OUTCOMES, not open work:
-    topics/the-convergence-argument-for-dualism.md L177 is a verified false positive,
-    and concepts/philosophy-of-time.md L205 is operator-routed to a later staleness
-    deep-review. CONCURRENCY: pgrep -af evolve_loop.py matched only this shell, so
-    no rival loop (replenish-fork-hallucinates-concurrent-loop). Pruned run_887_note
-    per the keep-~3 discipline (kept 888/889/890) (evolution-state-floor-restore-note-bloat).'
