@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T14:00:26.485467+00:00'
-session_count: 17727
+last_updated: '2026-07-29T14:12:05.279736+00:00'
+session_count: 17728
 cycle_position: 11992
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
   refine-draft: '2026-07-29T13:45:37.054601+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-29T12:33:26.237295+00:00'
+  replenish-queue: '2026-07-29T14:12:05.279736+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-29T08:07:48.535280+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-29'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-29'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1080,79 +1080,79 @@ queue_status:
   last_replenishment_mode: floor-restore
   replenishment_source_counts:
     positions_register_gap_value_in_phenomenal_experience_premise: 1
-  run_888_note: 'run no.888 (2026-07-29T14:06Z, interactive /replenish-queue): MINTED ONE P2
-    positions-evolve task, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
-    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified LIVE on
-    disk immediately before the write; MIN_QUEUE_TASKS == 3, unmet by 1; post-write
+  run_888_note: 'run no.888 (2026-07-29T14:06Z, interactive /replenish-queue): MINTED
+    ONE P2 positions-evolve task, an EXACT floor restore (2 -> 3), not padding. AUTHORITATIVE
+    PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
+    LIVE on disk immediately before the write; MIN_QUEUE_TASKS == 3, unmet by 1; post-write
     tool-verified == 3, and parse_tasks confirms the new block as TaskType.POSITIONS_EVOLVE,
-    priority 2, status PENDING, file_path obsidian/positions/value-in-selection.md (FULL path,
-    not a bare slug), with task_to_skill mapping it to the positions-evolve skill.
-    BOTTOM-INSERTED immediately above the Completed Tasks header, below the 11-16Z and 12-26Z
-    floor-holders, so select_queue_task still returns the OLDER many-worlds task and top-first
-    FIFO is intact (queue-lifo-starvation). PROVENANCE - NOT a fresh derivation. The open P3
-    positions-evolve task minted by /optimistic-review 2026-07-28T20-22Z closes with an
-    explicit instruction to mint its second item separately, and this is that item. THE GAP
-    RE-VERIFIED LIVE THIS RUN with line numbers measured by grep -n rather than copied forward
-    (replenish-asserted-concrete-defect-often-false): the domain preamble of
-    obsidian/positions/value-in-selection.md at L33 states as a given that value resides in
-    phenomenal experience, one of the two premises generating the whole value-blind versus
-    value-sensitive fork; P-VS1 at L46 lists consciousness-value-connection and
-    topics/phenomenal-value-realism under Depends on; P-VS2 at L56 depends on P-VS1, so BOTH
-    live entries in the domain inherit it. A live grep of the P- headers across all 11
-    positions files returns 40 entries and NONE asserts the premise; a cross-domain grep for
-    value-resides, value-realism, phenomenal-value and valence outside value-in-selection.md
-    returns only two incidental hits (quantum-interface-calibration-history.md L77 and
-    quantum-interface.md L138), neither of which states it. The premise is contested by a named
-    live rival the corpus itself flags - topics/phenomenal-value-realism.md L185 calls
-    illusionism the strongest challenge, and L225 supplies a ready-made would-shift-if - so an
-    entire domain rests on an unregistered commitment with no calibration band, no dependencies
-    and no review date. That is the uncalibrated-inheritance class the 2026-07-29 tenet audit
-    found 18 instances of, which is why a register-gap item earns P2 here. LENGTH measured with
-    tools.curate.length.analyze_length, NOT wc (count-words-includes-frontmatter,
-    analyze-length-counts-reference-apparatus): value-in-selection.md is 1165 words, status ok,
-    against positions 1500 soft and 2500 hard - 1335 words of HEADROOM, the roomiest file in
-    the register, so a full entry fits and the task explicitly forbids opening a condense. The
-    task also RING-FENCES topics/phenomenal-value-realism.md at 4039 words, hard_warning, 39
-    words OVER the 4000 topics hard ceiling - read and quote it, add nothing to it.
-    EIGHT-SOURCE AUDIT re-derived live this run (replenish-false-exhaustion-mislabeled-drift):
-    (1 chain) AUDITED, YIELDED NOTHING NEW - the two reports-only artifacts postdating run 887
-    were both read.
-    reviews/deep-review-2026-07-29-amplification-mechanisms-consciousness-physics.md Remaining
-    Items reads None, with a corpus-wide Priesemann grep confirming no propagation.
-    reviews/optimistic-2026-07-29-temporal-becoming-cluster.md had both Calibration Concerns
-    closed today at commits f73689a72 and aa3163525; its New Concept Pages Needed section reads
-    None, and its Verified Negatives explicitly forbid an integrate-orphan, a condense, and an
-    apex_last_synthesis reconciliation. Its concepts/philosophy-of-time.md L205 item is
-    deliberately routed to a later staleness deep-review and was NOT minted. (2 unconsumed
-    research) BLOCKED - the harvest trigger ran twice today and correctly minted zero; live
-    caps are topics 318/320 and concepts 317/320, so 2 and 3 free slots corpus-wide cannot
-    absorb a new-article chain. (3 gap analysis) exhausted, cap pressure binding; voids 100/100
-    at cap. (4 staleness) DECLINED - a cycle-slot deep-review landed at 13:30Z, and a staleness
-    mint would be P3 and therefore would not restore the floor anyway
-    (p3-only-floor-preemption-starves, deep_review_over_reviews_converged). (5 orphans)
-    quality.orphaned_files == 0. (6 length) AUDITED via get_length_warnings, YIELDED NOTHING
-    MINTABLE - the only content-tier critical rows are
-    topics/epistemology-of-convergence-arguments.md, which carries five separate vetoed
-    condense entries and needs an operator decision rather than a sixth task, and
-    apex/phenomenal-output-causal-machinery-dissociation.md, which is likewise already vetoed;
-    every other critical row is a research working note or apex/apex-articles.md as an index
-    hub. (7 positions) SOURCE USED - this mint. Register is 10 domain files against
-    max_positions 80, so the cap is nowhere near binding; positions-evolve ran
-    2026-07-29T02-18Z, well inside 30d, so no audit is due
-    (replenish-positions-audit-false-overdue). (8 applied apex) not triggered. DEDUP: a
-    line-anchored parse of the Active region finds ZERO open headers naming
+    priority 2, status PENDING, file_path obsidian/positions/value-in-selection.md
+    (FULL path, not a bare slug), with task_to_skill mapping it to the positions-evolve
+    skill. BOTTOM-INSERTED immediately above the Completed Tasks header, below the
+    11-16Z and 12-26Z floor-holders, so select_queue_task still returns the OLDER
+    many-worlds task and top-first FIFO is intact (queue-lifo-starvation). PROVENANCE
+    - NOT a fresh derivation. The open P3 positions-evolve task minted by /optimistic-review
+    2026-07-28T20-22Z closes with an explicit instruction to mint its second item
+    separately, and this is that item. THE GAP RE-VERIFIED LIVE THIS RUN with line
+    numbers measured by grep -n rather than copied forward (replenish-asserted-concrete-defect-often-false):
+    the domain preamble of obsidian/positions/value-in-selection.md at L33 states
+    as a given that value resides in phenomenal experience, one of the two premises
+    generating the whole value-blind versus value-sensitive fork; P-VS1 at L46 lists
+    consciousness-value-connection and topics/phenomenal-value-realism under Depends
+    on; P-VS2 at L56 depends on P-VS1, so BOTH live entries in the domain inherit
+    it. A live grep of the P- headers across all 11 positions files returns 40 entries
+    and NONE asserts the premise; a cross-domain grep for value-resides, value-realism,
+    phenomenal-value and valence outside value-in-selection.md returns only two incidental
+    hits (quantum-interface-calibration-history.md L77 and quantum-interface.md L138),
+    neither of which states it. The premise is contested by a named live rival the
+    corpus itself flags - topics/phenomenal-value-realism.md L185 calls illusionism
+    the strongest challenge, and L225 supplies a ready-made would-shift-if - so an
+    entire domain rests on an unregistered commitment with no calibration band, no
+    dependencies and no review date. That is the uncalibrated-inheritance class the
+    2026-07-29 tenet audit found 18 instances of, which is why a register-gap item
+    earns P2 here. LENGTH measured with tools.curate.length.analyze_length, NOT wc
+    (count-words-includes-frontmatter, analyze-length-counts-reference-apparatus):
+    value-in-selection.md is 1165 words, status ok, against positions 1500 soft and
+    2500 hard - 1335 words of HEADROOM, the roomiest file in the register, so a full
+    entry fits and the task explicitly forbids opening a condense. The task also RING-FENCES
+    topics/phenomenal-value-realism.md at 4039 words, hard_warning, 39 words OVER
+    the 4000 topics hard ceiling - read and quote it, add nothing to it. EIGHT-SOURCE
+    AUDIT re-derived live this run (replenish-false-exhaustion-mislabeled-drift):
+    (1 chain) AUDITED, YIELDED NOTHING NEW - the two reports-only artifacts postdating
+    run 887 were both read. reviews/deep-review-2026-07-29-amplification-mechanisms-consciousness-physics.md
+    Remaining Items reads None, with a corpus-wide Priesemann grep confirming no propagation.
+    reviews/optimistic-2026-07-29-temporal-becoming-cluster.md had both Calibration
+    Concerns closed today at commits f73689a72 and aa3163525; its New Concept Pages
+    Needed section reads None, and its Verified Negatives explicitly forbid an integrate-orphan,
+    a condense, and an apex_last_synthesis reconciliation. Its concepts/philosophy-of-time.md
+    L205 item is deliberately routed to a later staleness deep-review and was NOT
+    minted. (2 unconsumed research) BLOCKED - the harvest trigger ran twice today
+    and correctly minted zero; live caps are topics 318/320 and concepts 317/320,
+    so 2 and 3 free slots corpus-wide cannot absorb a new-article chain. (3 gap analysis)
+    exhausted, cap pressure binding; voids 100/100 at cap. (4 staleness) DECLINED
+    - a cycle-slot deep-review landed at 13:30Z, and a staleness mint would be P3
+    and therefore would not restore the floor anyway (p3-only-floor-preemption-starves,
+    deep_review_over_reviews_converged). (5 orphans) quality.orphaned_files == 0.
+    (6 length) AUDITED via get_length_warnings, YIELDED NOTHING MINTABLE - the only
+    content-tier critical rows are topics/epistemology-of-convergence-arguments.md,
+    which carries five separate vetoed condense entries and needs an operator decision
+    rather than a sixth task, and apex/phenomenal-output-causal-machinery-dissociation.md,
+    which is likewise already vetoed; every other critical row is a research working
+    note or apex/apex-articles.md as an index hub. (7 positions) SOURCE USED - this
+    mint. Register is 10 domain files against max_positions 80, so the cap is nowhere
+    near binding; positions-evolve ran 2026-07-29T02-18Z, well inside 30d, so no audit
+    is due (replenish-positions-audit-false-overdue). (8 applied apex) not triggered.
+    DEDUP: a line-anchored parse of the Active region finds ZERO open headers naming
     value-in-selection.md, P-VS or phenomenal-value-realism - the two hits are check-marked
     completed deep-reviews on different files; the Vetoed region contains ZERO P-VS
     occurrences, and its one positions-evolve entry is a 2026-07-20 P3 on the unrelated
-    competency-versus-experience decoupling claim. NOT CHURN: ai_modified on
-    value-in-selection.md is 2026-07-16T07:48:00+00:00, thirteen days back and not today
-    (replenish-churn-filter-overtight). CONCURRENCY: pgrep -af evolve_loop.py returned only
-    this shell self-matching, so no rival loop (replenish-fork-hallucinates-concurrent-loop);
-    git status immediately before the write showed only evolution-state.yaml modified,
-    legitimate deferred cycle_post bookkeeping, KEPT
-    (orphaned-cyclepost-state-advance-in-worktree). REVERT only if a sibling replenish
-    double-restores this slot (concurrent-replenish-race). Pruned run_885_note per the keep-~3
-    discipline (kept 886/887/888) (evolution-state-floor-restore-note-bloat).'
+    competency-versus-experience decoupling claim. NOT CHURN: ai_modified on value-in-selection.md
+    is 2026-07-16T07:48:00+00:00, thirteen days back and not today (replenish-churn-filter-overtight).
+    CONCURRENCY: pgrep -af evolve_loop.py returned only this shell self-matching,
+    so no rival loop (replenish-fork-hallucinates-concurrent-loop); git status immediately
+    before the write showed only evolution-state.yaml modified, legitimate deferred
+    cycle_post bookkeeping, KEPT (orphaned-cyclepost-state-advance-in-worktree). REVERT
+    only if a sibling replenish double-restores this slot (concurrent-replenish-race).
+    Pruned run_885_note per the keep-~3 discipline (kept 886/887/888) (evolution-state-floor-restore-note-bloat).'
   run_886_note: 'run no.886 (2026-07-29T11:16Z, cycle-driven /replenish-queue): MINTED
     ONE P2 refine-draft, an exact floor restore (2 -> 3), not padding. AUTHORITATIVE
     PRE-COUNT tools.evolution.task_selector.count_p0_p2_tasks(todo_text) == 2 verified
