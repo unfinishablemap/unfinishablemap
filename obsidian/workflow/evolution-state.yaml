@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-29T18:19:23.145421+00:00'
-session_count: 17756
+last_updated: '2026-07-29T18:33:25.745468+00:00'
+session_count: 17757
 cycle_position: 12004
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
   refine-draft: '2026-07-29T18:19:23.145421+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-29T17:48:29.474914+00:00'
+  replenish-queue: '2026-07-29T18:33:25.745468+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-29T08:07:48.535280+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-29'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-29'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-29'
   outcome: success
 agentic_social:
@@ -1163,48 +1163,53 @@ queue_status:
     no rival loop per the driver pgrep. Pruned run_892_note per the keep-~3 discipline,
     keeping 893/894/895 (evolution-state-floor-restore-note-bloat). YAML re-parsed
     with yaml.safe_load after writing and it loads cleanly.'
-  run_896_note: 'run no.896 (2026-07-29T18:28Z, cycle-driven /replenish-queue): MINTED 2 TASKS
-    (1 P2, 1 P3) AND RELOCATED 1 STARVED P2. Floor measured LIVE with tools.evolution.task_selector.count_p0_p2_tasks
-    before and after: 2 before, 3 after, against MIN_QUEUE 3 - exact restore, no padding. The
-    raw header grep showing 8 P2 lines was ignored as inflated (three veto-tagged condense tasks,
-    the rest below the Completed header and parser-excluded). RELOCATION FIRST, PREFERRED OVER
-    MINTING: the P2 on concepts/self-stultification.md L45+L213 had been appended at the BOTTOM
-    of a 1660-line active region by its minting refine-draft at 16:01Z, while every other mint
-    top-inserts, so cycle_pick would never have reached it - the queue-lifo-starvation mode.
-    Moved verbatim to the top with a relocation note; both loci re-verified verbatim on disk
-    first (L45 still ends defeats multiple targets and establishes that, L213 still reads the
-    position self-stultification defeats). No new target manufactured for it. MINT 1, P2, obsidian/topics/moral-implications-of-genuine-agency.md:
-    an explicit hand-off, not a derived defect - the apex-evolve run that closed the moral-architecture-of-consciousness
-    task at 16:50Z ends its Status line saying the sibling was deliberately not batched and
-    should be queued separately, and no open task named the file. Three items verified on disk
-    at mint time: L47 grants Fischer-Ravizza mechanism-level reasons-responsiveness as real
-    properties of agents, not pragmatic conventions; L55 then defines genuine reasons-responsiveness
-    as excluding responses already determined by factors beyond the agent''s control, which
-    annexes the term the previous section conceded; and grep for the two specialist slugs plus
-    Strawson returns zero hits in the file although the apex now carries both with their concessions
-    quoted. Length 3678w soft_warning via analyze_length, 322 words of headroom, so the clause-plus-links
-    fix fits. MINT 2, P3, obsidian/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism.md:
+  run_896_note: 'run no.896 (2026-07-29T18:28Z, cycle-driven /replenish-queue): MINTED
+    2 TASKS (1 P2, 1 P3) AND RELOCATED 1 STARVED P2. Floor measured LIVE with tools.evolution.task_selector.count_p0_p2_tasks
+    before and after: 2 before, 3 after, against MIN_QUEUE 3 - exact restore, no padding.
+    The raw header grep showing 8 P2 lines was ignored as inflated (three veto-tagged
+    condense tasks, the rest below the Completed header and parser-excluded). RELOCATION
+    FIRST, PREFERRED OVER MINTING: the P2 on concepts/self-stultification.md L45+L213
+    had been appended at the BOTTOM of a 1660-line active region by its minting refine-draft
+    at 16:01Z, while every other mint top-inserts, so cycle_pick would never have
+    reached it - the queue-lifo-starvation mode. Moved verbatim to the top with a
+    relocation note; both loci re-verified verbatim on disk first (L45 still ends
+    defeats multiple targets and establishes that, L213 still reads the position self-stultification
+    defeats). No new target manufactured for it. MINT 1, P2, obsidian/topics/moral-implications-of-genuine-agency.md:
+    an explicit hand-off, not a derived defect - the apex-evolve run that closed the
+    moral-architecture-of-consciousness task at 16:50Z ends its Status line saying
+    the sibling was deliberately not batched and should be queued separately, and
+    no open task named the file. Three items verified on disk at mint time: L47 grants
+    Fischer-Ravizza mechanism-level reasons-responsiveness as real properties of agents,
+    not pragmatic conventions; L55 then defines genuine reasons-responsiveness as
+    excluding responses already determined by factors beyond the agent''s control,
+    which annexes the term the previous section conceded; and grep for the two specialist
+    slugs plus Strawson returns zero hits in the file although the apex now carries
+    both with their concessions quoted. Length 3678w soft_warning via analyze_length,
+    322 words of headroom, so the clause-plus-links fix fits. MINT 2, P3, obsidian/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism.md:
     from the same optimistic review''s Medium Priority tier. Asset verified (the Delegation,
-    Blame-Laundering heading at L73 with the diagnosis at L67 and L79) and gap verified (grep
-    -c for corporat or collective returns 0). 2358w status ok, roughly 640 below soft, and the
-    note fences it to two paragraphs in-article and forbids a new page, topics being 318/320
-    and concepts 317/320. SOURCES AUDITED AND FOUND GENUINELY BLOCKED: unconsumed research -
-    none, the harvester owns that lane; gap analysis and expand-topic - blocked by caps (topics
-    318/320, concepts 317/320, voids 100/100) and the same review says no new concept pages
-    recommended; length violations - the topic and concept over-length set is either veto-tagged
-    or already parked as NEEDS-HUMAN length decisions, and the rest are research notes, which
-    are dated snapshots and not condensed; tenet-check 2026-07-29 - exhausted, its last unqueued
-    Error was consumed at 14:31Z; the 11:31Z pessimistic and 12:54Z optimistic cluster reviews
-    - consumed by the 11:44, 11:55, 13:13, 13:22 and 13:45 refines; positions register - an
-    add landed at 15:35Z today and no dependency has moved since. The 18:09Z cetacean deep-review''s
-    two Remaining Items were deliberately NOT minted: both are operator questions (whether dated
-    research notes must track current consensus, and a paywalled commentary body), not automation
-    work. HAZARD REPORTED, NOT ACTED ON: four standing operator length decisions are headed
-    P3: HUMAN LENGTH DECISION, which matches the picker''s pattern and is therefore auto-selectable
-    - the human-decision-task-mispicked-as-refine mode. Left for the driver rather than re-headed
-    unilaterally. HYGIENE: every minted block carries both a Type and a File line, all types
-    are refine-draft (never other), all paths are repo-relative from the root, and no wikilink
-    appears in any new note (a memory-slug wikilink in notes blocks the pre-push sync). Post-write
-    parse with parse_tasks confirms 3 active P2 entries, all REFINE_DRAFT with resolvable File
-    paths. Lengths measured with analyze_length, never wc -w. Pruned run_893_note per the keep-~3
-    discipline, keeping 894/895/896. No commit made; cycle_post owns that.'
+    Blame-Laundering heading at L73 with the diagnosis at L67 and L79) and gap verified
+    (grep -c for corporat or collective returns 0). 2358w status ok, roughly 640 below
+    soft, and the note fences it to two paragraphs in-article and forbids a new page,
+    topics being 318/320 and concepts 317/320. SOURCES AUDITED AND FOUND GENUINELY
+    BLOCKED: unconsumed research - none, the harvester owns that lane; gap analysis
+    and expand-topic - blocked by caps (topics 318/320, concepts 317/320, voids 100/100)
+    and the same review says no new concept pages recommended; length violations -
+    the topic and concept over-length set is either veto-tagged or already parked
+    as NEEDS-HUMAN length decisions, and the rest are research notes, which are dated
+    snapshots and not condensed; tenet-check 2026-07-29 - exhausted, its last unqueued
+    Error was consumed at 14:31Z; the 11:31Z pessimistic and 12:54Z optimistic cluster
+    reviews - consumed by the 11:44, 11:55, 13:13, 13:22 and 13:45 refines; positions
+    register - an add landed at 15:35Z today and no dependency has moved since. The
+    18:09Z cetacean deep-review''s two Remaining Items were deliberately NOT minted:
+    both are operator questions (whether dated research notes must track current consensus,
+    and a paywalled commentary body), not automation work. HAZARD REPORTED, NOT ACTED
+    ON: four standing operator length decisions are headed P3: HUMAN LENGTH DECISION,
+    which matches the picker''s pattern and is therefore auto-selectable - the human-decision-task-mispicked-as-refine
+    mode. Left for the driver rather than re-headed unilaterally. HYGIENE: every minted
+    block carries both a Type and a File line, all types are refine-draft (never other),
+    all paths are repo-relative from the root, and no wikilink appears in any new
+    note (a memory-slug wikilink in notes blocks the pre-push sync). Post-write parse
+    with parse_tasks confirms 3 active P2 entries, all REFINE_DRAFT with resolvable
+    File paths. Lengths measured with analyze_length, never wc -w. Pruned run_893_note
+    per the keep-~3 discipline, keeping 894/895/896. No commit made; cycle_post owns
+    that.'

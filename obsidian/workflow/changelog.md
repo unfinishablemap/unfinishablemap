@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T18:17:38+00:00'
+ai_modified: '2026-07-29T18:34:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 18:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/self-stultification]]
+- **Original score**: n/a — SKILL.md §3 `scripts/curate.py review` is a dead path (script absent from repo); skipped per driver note.
+- **Scope**: the within-file residue left by `aee16cf67`, which fixed only the L3 `description` on the defeat axis and stranded two body loci. Both re-verified verbatim on disk before editing (they were still present; neither had been fixed in the interim, so no locus was no-opped). Two substitutions, no other change to the body.
+- **Locus (a) — L45, lead paragraph (primary).** *"…synthesises how this single structure **defeats** multiple targets and **establishes that** consciousness must be causally efficacious"* → *"…synthesises how this single structure **presses hard against** multiple targets and **argues that** consciousness must be causally efficacious."* A double over-claim: the proof-grade "defeats" plus the factive "establishes". Both assert the inference `tenets/tenets.md` L98 explicitly disclaims ("not because the self-stultification argument refutes epiphenomenalism from inside the epiphenomenalist's framework … rather than letting the reader infer a stronger result than the argument warrants") and that L100 says the strongest version of the position survives via the phenomenal-concept strategy. The sentence also contradicted its own immediately-preceding clause — *"The position may be true, but it cannot be rationally held"* — within a single paragraph. Highest-prominence locus in the file: first body line after frontmatter, which for an LLM-first corpus committed to truncation resilience is where a retrieving chatbot may read and stop.
+- **Locus (b) — L213, `## Further Reading`.** *"Why most theories drift toward the position self-stultification **defeats**"* → *"…self-stultification **threatens**"*. Byte-identical to the string fixed at L180 of the sibling `topics/self-stultification-as-master-argument.md` earlier today; the two Further Reading lists were copied from one another, so the corpus was visibly inconsistent on one string across two articles. Now matched.
+- **Wording inherited, not invented.** "presses hard against" and "threatens" are both prescribed by `reviews/tenet-check-2026-07-29.md` L112 and both already on disk — L3 of this file ("presses epiphenomenalism hard"), and L179/L180 of the sibling ("presses hardest" / "threatens"). "argues that" replaces the factive with an argues/supports-grade verb rather than a proof-grade one.
+- **Engagement classification** (editor-internal, not in article prose): engagement with the epiphenomenalist — **Mode Three**, framework-boundary marking. The edit is a downgrade of *boundary-substitution*: the lead was letting tenet-level commitment read as an in-framework refutation. The article's own §"Application to Epiphenomenalism" and L201 already mark the boundary honestly; the lead now matches them instead of overriding them.
+- **Not touched, deliberately.** The rest of the body is correctly calibrated and was re-checked (L65 "the position *can* be true", L201 "not because self-stultification refutes epiphenomenalism inside its own framework"). L236 is the book title *Naturalism Defeated?* and is not a locus. No condense opened: 3190 → 3192 words by `analyze_length`, `soft_warning`, 308 below the concepts hard ceiling of 3500.
+- **Attribution**: held `ai_system: claude-opus-4-6` — softening two verbs is not re-authoring. `ai_modified` bumped from live `date -u`; `last_deep_review` untouched. No `[1m]` artifact; no `AI REFINEMENT LOG` block added.
+- **Published**: yes
 
 ## 2026-07-29 18:17 UTC - refine-draft
 - **Status**: Success
