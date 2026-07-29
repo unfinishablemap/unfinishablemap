@@ -18,7 +18,7 @@ description: When does clinical and neurological evidence bear on metaphysical q
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 20:41:48+00:00
+last_deep_review: 2026-07-28 22:54:18+00:00
 modified: *id001
 related_articles:
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'

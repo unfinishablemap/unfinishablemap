@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-07-15 22:10:37+00:00
+ai_modified: 2026-07-28 22:49:08+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-07-08 04:25:23+00:00
 apex_sources:
@@ -57,6 +57,7 @@ related_articles:
 - '[[source-attribution-void]]'
 - '[[aphantasia]]'
 - '[[synaesthesia]]'
+- '[[predictive-processing-and-dualism]]'
 - '[[alexithymia]]'
 - '[[source-attribution-divergence]]'
 - '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
@@ -108,7 +109,7 @@ The second class runs the wedge in the opposite direction. Where aphantasia remo
 
 Fiona MacPherson's "extraordinary feature" (2007) is the philosophically loaded signature: a grapheme-colour synaesthete sees both the actual ink colour and the synaesthetic colour at the same place, without blending or competition — a configuration ordinary perception affords no analogue for, and ordinary colour vocabulary cannot accommodate. Adam Wager (1999) formalised the underlying problem as the *extra qualia problem*: synaesthetes possess phenomenal states that differ from non-synaesthetic states without any corresponding difference in surface representational content. J.A. Gray (2003) presses the point further, arguing that in synaesthesia "function and qualia come apart in two ways" — identical qualia arise from distinct functional roles (colour from visual *and* from auditory pipelines), and identical functional roles produce divergent qualia (the same grapheme-recognition process generates colour for synaesthetes but not for non-synaesthetes).
 
-The synaesthetic class is the architecturally cleanest exemplar of the [phenomenology-vs-function dissociation pattern](/concepts/phenomenology-vs-function-axis/) in the catalogue, because Gray's two patterns appear at once in the same phenomenon. The honest hedge survives: van Leeuwen, Singer, and Nikolić (2015) find that most synaesthetic experience is mediated through semantic processing, so synaesthete and non-synaesthete pipelines are not identical at the deeper grain that representationalists track. The Wager–Gray dissociation is a coarse-grain, surface-input claim, not an end-to-end pipeline-identity claim. The wedge survives at the surface representational level the within-species frame uses; the pipeline-identity question is exactly where the finer-grain absorption strategy gets pursued.
+The synaesthetic class is the architecturally cleanest exemplar of the [phenomenology-vs-function dissociation pattern](/concepts/phenomenology-vs-function-axis/) in the catalogue, because Gray's two patterns appear at once in the same phenomenon. The honest hedge survives: van Leeuwen, Singer, and Nikolić (2015) find that most synaesthetic experience is mediated through semantic processing, so synaesthete and non-synaesthete pipelines are not identical at the deeper grain that representationalists track. The Wager–Gray dissociation is a coarse-grain, surface-input claim, not an end-to-end pipeline-identity claim. The wedge survives at the surface representational level the within-species frame uses, and only there: the finer-grain absorption strategy is no longer promissory, having taken the form of [predictive processing](/topics/predictive-processing-and-dualism/), which models synaesthesia as strong, inflexible intermediate-level priors held alongside intact confidence in sensory evidence (Reeder, Sala, and van Leeuwen 2024) — so the two minds are not functionally matched at the grain that model tracks, and Gray's second pattern does not survive there. The residue [the topic-tier article](/topics/synaesthesia/) presses is narrower: the account specifies which discriminations a high-precision colour prior yields and which reports it generates, without saying why deploying one is accompanied by a colour rather than producing a system that discriminates and reports as though it were.
 
 ### Reality-Monitoring Divergence
 
@@ -178,7 +179,7 @@ The phenomenology that varies is real — that is the empirical anchor — and t
 - [synesthetic-void](/voids/synesthetic-void/) — Intra-species qualia divergence; Wager's extra qualia problem; Gray's two-pattern dissociation.
 - [source-attribution-void](/voids/source-attribution-void/) — Abstract apophatic treatment: source tags are not part of phenomenal output by default; the layered architecture of source-inference failure.
 - [aphantasia](/topics/aphantasia/) — Topic-tier treatment of imagery vividness divergence; Kay/Keogh/Pearson 2024 and the Lennon 2023 aphantasic-thought wedge.
-- [synaesthesia](/topics/synaesthesia/) — Topic-tier treatment of cross-modal extra qualia; consistency-test rehabilitation and van Leeuwen semantic-mediation.
+- [synaesthesia](/topics/synaesthesia/) — Topic-tier treatment of cross-modal extra qualia; consistency-test rehabilitation, van Leeuwen semantic-mediation, and the predictive-processing account that costs the wedge its cleanest premise.
 - [alexithymia](/concepts/alexithymia/) — The emotional and interoceptive member; the access-layer relocation and its role in the common-cause null.
 - [source-attribution-divergence](/topics/source-attribution-divergence/) — Topic-tier treatment of within-species spread in source-attribution accuracy; the cluster's third concrete-phenomenon leg, parallel in structure to aphantasia and synaesthesia.
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Function-phenomenology wedge in the comprehension domain.
@@ -217,3 +218,4 @@ The phenomenology that varies is real — that is the empirical anchor — and t
 22. Southgate, A. & Oquatre-sept, C. (2026-05-09). Source-Attribution Divergence. *The Unfinishable Map*. https://unfinishablemap.org/topics/source-attribution-divergence/
 23. Garfinkel, S.N., Seth, A.K., Barrett, A.B., Suzuki, K., & Critchley, H.D. (2015). Knowing your own heart: distinguishing interoceptive accuracy from interoceptive awareness. *Biological Psychology*, 104, 65–74.
 24. Van Bael, K., Scarfo, J., Suleyman, E., Katherveloo, J., Grimble, N., & Ball, M. (2024). A systematic review and meta-analysis of the relationship between subjective interoception and alexithymia. *PLOS ONE*, 19(11), e0310411.
+25. Reeder, R.R., Sala, G., & van Leeuwen, T.M. (2024). A Novel Model of Divergent Predictive Perception. *Neuroscience of Consciousness*, 2024(1), niae006. https://doi.org/10.1093/nc/niae006

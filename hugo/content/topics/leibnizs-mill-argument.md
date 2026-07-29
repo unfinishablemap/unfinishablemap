@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-07-18 17:28:01+00:00
+ai_modified: 2026-07-28 22:21:40+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -69,7 +69,7 @@ This parallel is not accidental. Leibniz anticipated the [hard problem of consci
 
 Leibniz's Mill stands at the head of a lineage of anti-materialist arguments that spans three centuries. Each successor argument isolates a different facet of the difficulty Leibniz identified, but all share the mill's core insight: physical inventory does not yield experience.
 
-**The [explanatory-gap](/concepts/explanatory-gap/)** (Levine, 1983) formalises what walking through the mill reveals. Levine asked why physical-phenomenal identities like "pain = C-fiber activation" lack the explanatory transparency of "water = H₂O." The answer is precisely Leibniz's: inspecting the physical side—molecules, neurons, C-fibers—shows only parts and interactions, never the felt quality they supposedly constitute. Leibniz's vivid thought experiment gave Levine's abstract point its imaginative force.
+**The [explanatory-gap](/concepts/explanatory-gap/)** (Levine, 1983) formalises what walking through the mill reveals. Levine asked why physical-phenomenal identities like "Pain is the firing of C-fibers" lack the explanatory transparency of his own contrast case, "Heat is the motion of molecules." The answer is precisely Leibniz's: inspecting the physical side—molecules, neurons, C-fibers—shows only parts and interactions, never the felt quality they supposedly constitute. Leibniz's vivid thought experiment gave Levine's abstract point its imaginative force.
 
 **The [knowledge-argument](/concepts/knowledge-argument/)** (Jackson, 1982) translates the mill into epistemic terms. Mary knows every physical fact about colour vision yet learns something new upon seeing red. What she lacked was exactly what the mill-walker cannot find: the qualitative character of perception. Where Leibniz walked through a machine and found no perception, Mary walked through a complete physics textbook and found no redness.
 
