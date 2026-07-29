@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-29 08:14:10+00:00
+ai_modified: 2026-07-29 18:34:43+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [epiphenomenalism](/concepts/epiphenomenalism/) and certain forms of [materialism](/concepts/materialism/) holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. The position may be true, but it cannot be rationally held. The [master argument](/topics/self-stultification-as-master-argument/) synthesises how this single structure defeats multiple targets and establishes that consciousness must be causally efficacious.
+A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [epiphenomenalism](/concepts/epiphenomenalism/) and certain forms of [materialism](/concepts/materialism/) holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. The position may be true, but it cannot be rationally held. The [master argument](/topics/self-stultification-as-master-argument/) synthesises how this single structure presses hard against multiple targets and argues that consciousness must be causally efficacious.
 
 Self-stultification is an instance of a broader epistemological pattern: *epistemic self-defeat*. A belief is epistemically self-defeating when its own truth would undermine the rational grounds anyone could have for holding it. The concept has applications across epistemology wherever a position turns against its own foundations, but its most consequential deployment is in the philosophy of consciousness.
 
@@ -213,7 +213,7 @@ Epistemic self-defeat also constrains what counts as an adequate theory of consc
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — The normative gap that makes physicalism self-stultifying for reason
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [carrolls-regress](/concepts/carrolls-regress/) — The 1895 dialogue: explicit rule-citation cannot, by itself, license inference; the deflationary reading helps itself to the very cognitive operation the regress reveals as missing
-- [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
+- [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification threatens
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The positive account: what kind of causal influence consciousness exercises
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Whether introspective justification survives self-defeat challenges
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem of how mind affects matter

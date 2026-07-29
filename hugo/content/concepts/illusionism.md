@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-27 17:17:24+00:00
+ai_modified: 2026-07-29 19:10:16+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -68,19 +68,17 @@ Frankish (2023) distinguishes three conceptions of qualia: **classic qualia** (i
 
 Illusionism trades the hard problem for what Frankish calls the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious when we're not. This splits into two questions—why the illusion arises, and why it resists dissolution. The second is critical: even philosophers who intellectually accept illusionism report that experiences *still seem* phenomenal, a persistence that makes the illusion problem potentially as hard as the hard problem itself.
 
-## Big and Small Illusionism
+## The Illusionist Spectrum: Hard to Subtle
 
-Michael Graziano distinguishes two versions:
+Illusionism is a spectrum rather than a single position. Graziano (2024) frames it as "a general philosophical framework in which specific theories of consciousness can be constructed", and proposes six hypotheses within it: the magical mind, hard illusionism, illusionist versions of integrated information theory and global workspace theory, [Attention Schema Theory](/concepts/attention-schema-theory/), and deep illusionism. His diagnosis of why the framework is underrated is that "scholars tend to think only of the most extreme forms and miss the range of possibilities".
 
-**Hard (big) illusionism** holds that consciousness has no real referent at all—the entire category is empty.
-
-**Soft (small) illusionism** holds that consciousness is a distorted representation of real neural processes—something is represented, but we systematically misunderstand its nature.
+At the extreme end, **hard illusionism** holds that consciousness has no real referent at all—the entire category is empty. Graziano's own contrast term is **subtle illusionism**: the brain models something real, but models it schematically, so what introspection presents diverges from what is there. The distinction carries dialectical weight, because objections calibrated against the hard end do not automatically reach the subtle end.
 
 ## The Neuroscientific Mechanism: Attention Schema Theory
 
 Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) (AST) is the most developed neuroscientific implementation of illusionism. Just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/concepts/attention-as-interface/), representing attention as having experiential qualities because that simplification usefully manages attentional resources.
 
-The Map rejects AST because it faces the same regress as all illusionist theories: if the attention schema *seems* to be consciousness, something must be doing the seeming. AST explains why we *report* being conscious, not why there's anything it's like to be us. See [Why Attention Schema Theory Fails](/topics/attention-and-the-consciousness-interface/) for the full critique.
+AST sits at the subtle rather than the hard end of that spectrum—it is Graziano's fifth hypothesis, and he prefers "caricature" to "illusion", since a caricature implies something real being represented, just simplified. The bare regress objection ("if the attention schema *seems* to be consciousness, something must be doing the seeming") therefore fails twice over: it assumes the seeming is itself phenomenal, which illusionists deny, and it targets an eliminative reading AST does not hold. Engaging AST inside its own framework is not refutation but identifying a step the framework has not earned—the central identification, that a system's *modelling X as phenomenal* constitutes *X being phenomenal*, is asserted rather than derived. AST explains why we *report* being conscious, not why there's anything it's like to be us, and neither side closes the case against the other inside the rival's framework. See [the Map's engagement with AST](/topics/attention-and-the-consciousness-interface/) for the full treatment.
 
 ## Major Objections
 

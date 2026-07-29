@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-07-15 14:00:49+00:00
+ai_modified: 2026-07-29 17:13:59+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -59,7 +59,7 @@ topics:
 
 Epiphenomenalism—the view that consciousness exists but causes nothing—is the default destination of most theories of consciousness. Examined carefully, mainstream views either collapse into epiphenomenalism or survive only by making commitments they would rather avoid. The Unfinishable Map holds the pattern is not accidental: any framework that fails to provide a specific causal mechanism for consciousness will end up treating it as idle. Understanding why the threat recurs, why escape attempts fail, and what genuine escape requires clarifies why the Map's [interactionist framework](/concepts/interactionist-dualism/) makes the commitments it does.
 
-The [concept article](/concepts/epiphenomenalism/) covers the view itself and classifies the four argument types showing it is self-undermining. The [cumulative case](/arguments/epiphenomenalism-argument/) presents these arguments formally. This article addresses a different question: why does the threat keep recurring, and what does it take to escape it?
+The [concept article](/concepts/epiphenomenalism/) covers the view itself and classifies the four argument types that press epiphenomenalism hard without refuting it from inside its own framework. The [cumulative case](/arguments/epiphenomenalism-argument/) presents these arguments formally. This article addresses a different question: why does the threat keep recurring, and what does it take to escape it?
 
 ## The Gravity Well
 
