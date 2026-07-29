@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T23:11:27+00:00'
+ai_modified: '2026-07-29T23:20:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 23:19 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[topics/interaction-problem-across-traditions]]`
+- **Word count**: 3275 → 3297 (+22; `soft_warning` against the topics 3000/4000 band, unchanged in status. Reference apparatus is 428w, so argument prose is ~2869 against the 4000 hard ceiling — genuine headroom, and the growth is one clause of substitution rather than accretion)
+- **Scope**: single-defect re-predication, inherited from the `[[reviews/deep-review-2026-07-29-the-hard-problem-in-non-western-philosophy]]` family and reported forward by the 23:10 refine on `[[concepts/african-philosophy-of-consciousness]]`. **Third and last known copy** of this defect — no general refinement pass, nothing else in the article touched.
+- **Defect class**: right thesis, right tradition, a *third author's* term. L105 named the ***-ntu*** vocabulary inside a sentence framed by "as characterised by Tempels (1945)", so the *-ntu* terminology read as Tempels'. Tempels' own term in *Bantu Philosophy* (1945) is ***force vitale***; the *-ntu* category scheme (*muntu / kintu / hantu / kuntu*) is **Alexis Kagame**'s (1956) and **NTU** as the universal force as such is **Janheinz Jahn**'s (*Muntu*, 1961).
+- **Changes**: L105 — "Bantu thought takes *ntu* (force)" → "Bantu thought takes vital force (*force vitale*)—Tempels' own term; the *-ntu* categories often attached to this ontology are the later recasting of Alexis Kagame and Janheinz Jahn." Wording inherited from the two files where it is already settled (`[[topics/the-hard-problem-in-non-western-philosophy]]` L122 and `[[concepts/african-philosophy-of-consciousness]]` L71, fixed at 29bbda57) rather than composed fresh.
+- **Preserved deliberately**: the paragraph's substantive claim — that Bantu philosophy operates a force ontology rather than a substance ontology, and that there is therefore no gap between inert matter and immaterial mind because nothing is inert — is sound and untouched, as is its Type-5 monist-avoidance framing and the downstream L131 use ("African force ontology asks whether the Map's framework unnecessarily imports Western substance metaphysics"). The Hountondji/Mudimbe colonial-projection caveat is correct and left in place. Only the author-to-term mapping changed. Re-predicated, not deleted.
+- **Reference apparatus**: the Tempels entry at L167 (`Tempels, P. (1945). Bantu Philosophy. Paris: Présence Africaine.`) is correct and unchanged. **No reference entries added for Kagame or Jahn** — their years are settled but publisher metadata was not confirmed in this pass, so both are named in prose only, matching the posture of the two prior fixes. Deliberate anti-fabrication stance given the reconstruct-rather-than-check defects surfaced today. The canonical `O'Brien-Kop, K. (2024)` entry at L150 was verified intact and untouched — an open P3 task uses it as the copy-model for four files carrying a stale 2023 variant.
+- **Mirror**: `hugo/content/topics/interaction-problem-across-traditions.md` was stale (still carried the old `takes *ntu* (force)` string). Ran `scripts/sync.py`; verified post-sync that the stale marker is gone (0 hits) and `force vitale` is present (1 hit). Sync wrote only this one content file, so no other fork's pending mirror was swept in.
+- **Attribution**: held `ai_system: claude-opus-4-6` — re-predicating a term is not re-authoring. `ai_modified` bumped to `2026-07-29T23:19:35+00:00`, computed from `date -u` in the same command that wrote it. `last_deep_review` untouched.
+- **Propagation note, not a research failure**: the correct mapping was in the corpus all along — `[[research/interaction-problem-non-western-philosophy-2026-02-17]]` L169 credits Kagame for the *-ntu* categories. It was lost in synthesis and then replicated into three articles. Research note left alone.
+- **Family closed**: corpus sweep for `takes *ntu*` / `ntu (force)` / `Tempels` across `obsidian/` returns only the three articles (all now fixed), plus reviews, changelogs and research notes, which are historical records and correctly left as-is. **No further live locus found** — this defect family should be closed.
+- **Published**: yes
 
 ## 2026-07-29 23:10 UTC - refine-draft
 - **Status**: Success

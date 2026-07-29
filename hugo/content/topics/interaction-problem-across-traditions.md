@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-07-29 12:15:54+00:00
+ai_modified: 2026-07-29 23:19:35+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -106,7 +106,7 @@ Some traditions never generate the interaction problem because they reject the o
 
 **Neo-Confucianism** frames reality through *lǐ* (principle) and *qì* (vital force), which are conceptually distinct but never found separately. The heart-mind (*xīn*) is where they meet. Wang Yangming radicalised this: genuine knowing and acting are inseparable (*zhīxíng héyī*), so the question of how a mental event causes a physical one does not arise.
 
-**Bantu philosophy**, as characterised by Tempels (1945)—a reading debated by later African philosophers such as Hountondji and Mudimbe—operates with a force ontology rather than a substance ontology. Where Western thought takes "being" as fundamental, Bantu thought takes *ntu* (force). All reality is constituted by forces of different kinds that naturally interact by strengthening or weakening each other. There is no gap between inert matter and immaterial mind because nothing is inert. The **Yoruba** tradition similarly presents a tripartite person (*ara*/body, *emi*/soul, *ori*/inner head) as an inherently integrated whole.
+**Bantu philosophy**, as characterised by Tempels (1945)—a reading debated by later African philosophers such as Hountondji and Mudimbe—operates with a force ontology rather than a substance ontology. Where Western thought takes "being" as fundamental, Bantu thought takes vital force (*force vitale*)—Tempels' own term; the *-ntu* categories often attached to this ontology are the later recasting of Alexis Kagame and Janheinz Jahn. All reality is constituted by forces of different kinds that naturally interact by strengthening or weakening each other. There is no gap between inert matter and immaterial mind because nothing is inert. The **Yoruba** tradition similarly presents a tripartite person (*ara*/body, *emi*/soul, *ori*/inner head) as an inherently integrated whole.
 
 Western **eliminative materialism** and **strong illusionism** (the view that phenomenal consciousness is a systematic introspective illusion) achieve a similar avoidance from the opposite direction—not by enriching matter with mind-like properties but by denying that consciousness exists as anything requiring explanation.
 
