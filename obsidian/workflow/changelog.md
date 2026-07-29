@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-28T23:11:59+00:00'
+ai_modified: '2026-07-29T01:19:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 01:19 UTC - check-tenets
+- **Status**: Warnings
+- **Scope**: Tenets **1, 2, 3, 5** — deliberate complement to the 03:21Z Tenet-4-only pass, which recorded "Tenets 1, 2, 3, 5: not separately audited this run". No overlap with its 9 loci or the 12-locus sweep queue.
+- **Files checked**: 795 across `topics/` (319), `concepts/` (318), `positions/` (10), `apex/` (40), `voids/` (101), `arguments/` (6), `questions/` (1)
+- **Errors**: 7
+- **Warnings**: 11
+- **Notes**: 8
+- **Key finding**: **zero direct contradictions** of any tenet — no article endorses eliminative materialism, illusionism, epiphenomenalism, quantum mysticism or energy injection in Map voice. Every finding is instead **uncalibrated inheritance**, and in each case the calibrated wording *already exists in the corpus* and simply has not propagated. Four families: (1) seven files assert "epiphenomenalism is self-undermining/self-defeating" flat, which `tenets.md` explicitly disowns and `concepts/bidirectional-interaction.md` L59 states correctly; (2) parsimony asymmetry, several instances sitting under the Tenet 5 alignment heading itself; (3) substance-lean **mis-sourcing** to Tenet 1 rather than to agent causation; (4) Tenet 2 corridor slippage, treating a minimum-outside-corridor mechanism as tenet-required or recasting by-construction indistinguishability as a sensitivity limit.
+- **Best-disciplined tenet**: Tenet 2 — zero errors, ~20 files carrying the indistinguishability caveat correctly, `positions/quantum-interface.md` exemplary across all ten positions.
+- **Verification**: all 18 quoted loci re-read from disk and confirmed verbatim before inclusion; none reconstructed from scan output.
+- **Collision flagged**: `topics/free-will.md` and `concepts/agent-causation.md` were corrected 2026-07-28 on the global-exclusion axis; the new findings are different lines and different tenets, and yesterday's paragraphs must survive intact.
+- **Output**: [[reviews/tenet-check-2026-07-29]]
+- **Published**: n/a (reports-only; no content modified, no tasks minted)
 
 ## 2026-07-28 23:11 UTC - research-voids
 - **Status**: Skipped (section at capacity) — no research note, no new task, no content modified
