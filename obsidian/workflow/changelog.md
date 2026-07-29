@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T19:02:57+00:00'
+ai_modified: '2026-07-29T19:11:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 19:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Task**: `reviews/pessimistic-2026-07-29-illusionism` Issues 1 and 3. Both loci re-grepped on disk before editing; both still present as described (nothing had been fixed in the interval).
+- **Item 1 — internal contradiction resolved.** L81's *"The Map rejects AST **because** it faces the same regress … something must be doing the seeming"* grounded a rejection on a premise the article twice retracts (L93, L113). Replaced with the calibration the two specialist siblings already settled, quoting them rather than composing new: *"Engaging AST inside its own framework is not refutation but identifying a step the framework has not earned"* and *"neither side closes the case against the other inside the rival's framework"* (`topics/attention-and-the-consciousness-interface` L98/L100), plus Graziano's caricature/illusion preference (`concepts/attention-schema-theory` L68). The bare regress is now stated as failing twice over — it assumes the seeming is phenomenal, and it targets an eliminative reading AST does not hold. Consistent with L91 and L111 on re-grep; no `rejects AST` locus remains.
+- **Item 2 — Graziano taxonomy corrected, re-verified at primary this session** (not taken on the review's say-so): PMC full text of eNeuro 11(10) ENEURO.0210-24.2024 confirms **six** hypotheses — magical mind, hard illusionism, i-IIT, i-GW, **AST (Hypothesis 5)**, deep illusionism — under an umbrella framing, with **"subtle illusionism"** as Graziano's contrast term to hard illusionism; "soft illusionism" / "small illusionism" are not named positions in the paper. Both quoted abstract fragments checked verbatim at eneuro.org: *"a general philosophical framework in which specific theories of consciousness can be constructed"* and *"scholars tend to think only of the most extreme forms and miss the range of possibilities"* — both exact. The paraphrase of subtle illusionism is deliberately **not** quote-marked (it would have been an unmarked near-quote of the source's own wording).
+- **The two items closed as one fix**, as the task specified: AST's placement at the subtle end is what makes the L81 regress objection mis-targeted, so the taxonomy correction and the contradiction repair are the same argument stated once.
+- **Engagement classification** (editor-internal, not in article prose): engagement with Graziano/AST — **Mode Two**, unsupported foundational move; the reply invokes the mechanistic standard the materialist programme imposes on rival theories and identifies the schema-as-phenomenal identification as asserted rather than derived. Closing sentence is **Mode Three**, framework-boundary marking, stated honestly rather than dressed as refutation. Prior text was boundary-substitution — a tenet-level rejection wearing the clothes of an in-framework refutation.
+- **Side effect (in-scope, one sentence).** The over-claiming link label `[[attention-and-the-consciousness-interface|Why Attention Schema Theory Fails]]` sat inside the rewritten sentence and was recalibrated to `the Map's engagement with AST`. The destination has no such heading and its verdict is *"neither side closes the case"*. **Three live articles still carry the old label** — `concepts/mental-effort` L124, `concepts/heterophenomenology` L112, `concepts/global-workspace-theory` L94 — and remain for the citation-framing task.
+- **Heading rename is anchor-safe.** `## Big and Small Illusionism` → `## The Illusionist Spectrum: Hard to Subtle`. Grepped every inbound anchor into this article across `obsidian/` content dirs and `archive/`: all target `#Structural Convergence with Epiphenomenalism`, `#The Infinite Regress Problem`, `#The Illusionist Response: Functional Seeming`, or `#The Meta-Representational Bridge to Felt Unity`. None target the renamed heading; none of those four were touched.
+- **Length — no condense, confirming the task's read.** `analyze_length` reports 3735w / `hard_warning`, but 553w are the Further Reading + External Sources apparatus. Argument prose measured directly at **3182w** against concepts soft 2500 / hard 3500 — under the hard ceiling with ~318w headroom. Net +198 words of argument prose.
+- **Untouched by instruction**: the meta-representational bridge section, the live-programme paragraph, and the epiphenomenalism/self-stultification convergence prose — rated the page's strongest calibration.
+- **Attribution**: held `ai_system: claude-opus-4-6` (rewriting two paragraphs is not re-authoring); no `[1m]` artifact (grepped clean); `ai_modified` derived from `date -u` in the same command that wrote it; `last_deep_review` untouched.
+- **Published**: yes
 
 ## 2026-07-29 19:02 UTC - pessimistic-review
 - **Status**: Success
