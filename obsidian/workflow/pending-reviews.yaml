@@ -239,3 +239,39 @@
   subject_articles:
   - concepts/epistemology.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-29-chatgpt-5-6-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/39dee17225222576
+  commissioned_at: '2026-07-29T04:22:08.225061+00:00'
+  prompt_summary: Hostile pre-publication audit of concepts/epistemology
+  target_filename: outer-review-2026-07-29-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, reviewing this article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/concepts/epistemology/
+    and makes claims about knowledge, justification, and evidence in the consciousness
+    debate; the site argues for a non-reductive view of consciousness. Read the live
+    pages, including https://unfinishablemap.org and https://unfinishablemap.org/workflow/changelog/,
+    since web indexes lag a day or two. Do not describe the site''s automation, review
+    pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Audit four dimensions: whether its empirical claims survive contact with the 2020s
+    literature; whether any finding it leans on has been challenged, retracted, or
+    failed replication; where a framing is offered as neutral while presupposing the
+    article''s own commitments; and which counterarguments or rival epistemological
+    frameworks it leaves untested. End with at least five specific weaknesses, each
+    citing a peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles.
+    If you cannot find five, state explicitly why none are visible, but the default
+    expectation is that a careful pre-publication audit of a contemporary topic finds
+    five. Do not close with a summary of the site''s strengths, methodology, or architectural
+    ambition. The report ends with the weaknesses list and a one-sentence verdict
+    on academic-submission readiness.'
+  subject_type: recent
+  subject_title: Audit epistemology
+  subject_articles:
+  - concepts/epistemology.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-29-chatgpt-5-6-pro.md
