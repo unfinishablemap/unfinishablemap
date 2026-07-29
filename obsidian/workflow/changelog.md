@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T04:52:00+00:00'
+ai_modified: '2026-07-29T05:06:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 05:06 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-29 — subject `concepts/epistemology.md` (recent-aged fallback; all three services audited the same article)
+- **Coverage**: 3/3 reviewers processed (ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro). None abandoned.
+- **Clusters**: 11 convergent, 6 singleton, 3 divergent
+- **Unanimous finding (3/3)**: the hub's external bibliography stops in 1996 — exactly Nagel 1974, Jackson 1982, Levine 1983, Chalmers 1996 plus one internal self-cite. The only cluster all three reviewers reached, and the cheapest to fix; the ChatGPT task already carries five publisher-verified 2020s replacements and is the sole owner (Claude explicitly declined to duplicate it).
+- **Strongest 2/3 clusters**: (a) the article adopts a seemings-internalist epistemology and never faces externalism/reliabilism — Claude rated it FATAL, ChatGPT led its omissions section with it; (b) predictive processing is the un-engaged physicalist rival, reached independently by Claude and Gemini; (c) the hub's prose runs stronger than its own children's qualifications, reached by ChatGPT across five child pages and by Claude at a single clause (L61 "made rigorous" vs. spoke L156 "strict calibration … is impossible").
+- **Tasks upgraded**: 3 (P2→P1: 3) — the 2020s-bibliography/closure/parsimony task on `epistemology.md`, the predictive-processing task on `epistemology.md` (its defer-if-length-binds instruction removed), and the flat-"independent"-convergence task on `explanatory-gap.md`. Two further tasks carrying convergent clusters were already P1 and were annotated rather than promoted (P1 is the cap).
+- **Tasks deduplicated**: 0. Where reviewers converged they converged on the same *property* at different *loci*, so matching tasks were annotated with cross-reviewer quotes and explicit locus boundaries instead of merged.
+- **Correlated error excluded from convergence**: Claude's two highest-billed charges both failed verification (tenet numbering is not inverted; the FBT symmetry objection is already answered at `concepts/fitness-beats-truth.md` L69) and were counted toward no cluster. Gemini's Kleiner & Hartmann inversion likewise did not ratify ChatGPT's closure argument — the two reviewers reached opposite conclusions about the same sentence, recorded as a divergence.
+- **Divergences recorded**: 3 — Gemini vs. ChatGPT on causal closure (with the honest residual no reviewer stated: minimal-interaction dualism aims at exactly the practical indistinguishability Kleiner & Hartmann treat as a defect); Gemini vs. ChatGPT on the illusionism matrix (Gemini's strawman charge refuted, ChatGPT's narrower reading survived); Claude vs. the corpus on whether the deferral chain grounds out.
+- **Method note**: reviewer scope discipline tracked accuracy. Gemini audited the cluster while the prompt named one article, and four of its five weaknesses were refuted or inverted; Claude checked corpus coverage before asserting absence, and its findings survived verification at a much higher rate.
+- **Open for the operator**: cluster 11 (the review protocol's own bedrock exemptions produce correlated rather than independent assurance) sits in two human-reserved NEEDS-HUMAN methodology items and was left untouched. Third cycle running for the asymmetric-evidentiary-standards pattern.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-29]]
+- **Published**: pending next sync
 
 ## 2026-07-29 04:52 UTC - outer-review
 - **Status**: Success
