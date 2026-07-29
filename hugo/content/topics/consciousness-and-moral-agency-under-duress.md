@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-28 14:56:01+00:00
+ai_modified: 2026-07-29 09:31:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -48,7 +48,7 @@ When someone acts under extreme duress—a gun to their head, a child in danger,
 
 Philosophy and law both recognise duress as a mitigating factor in moral and legal judgment. The core intuition: a person who hands over money at gunpoint is not acting freely in the way someone making a charitable donation is. Aristotle distinguished between actions performed "under compulsion" and those performed willingly, while noting that even compelled actions retain a voluntary element—the agent still chooses *this* action over alternatives, even if the alternatives are terrible.
 
-Contemporary compatibilists ground [moral-responsibility](/concepts/moral-responsibility/) in the agent's [responsiveness to reasons](/concepts/reasons-responsiveness/). Under duress, the agent *is* responsive to reasons—specifically, to the overwhelming reason imposed by the threat. Frankfurt-style cases complicate this further: if an agent would have been forced to act a certain way regardless, does the presence of a backup mechanism eliminate responsibility? The Map's [agent-causation](/concepts/agent-causation/) framework sidesteps the Frankfurt puzzle entirely. What matters is not whether the agent *could* have done otherwise in some counterfactual sense, but whether consciousness actually performed the selection that produced the action. Under duress, consciousness does perform that selection—from a constrained menu, but genuinely.
+Contemporary compatibilists ground [moral-responsibility](/concepts/moral-responsibility/) in the agent's [responsiveness to reasons](/concepts/reasons-responsiveness/). Under duress, the agent *is* responsive to reasons—specifically, to the overwhelming reason imposed by the threat. Frankfurt-style cases complicate this further: if an agent would have been forced to act a certain way regardless, does the presence of a backup mechanism eliminate responsibility? The Map's [agent-causation](/concepts/agent-causation/) framework is a *sourcehood* thesis rather than a leeway one: what matters under duress is whether consciousness actually performed the selection that produced the action, rather than whether some untaken alternative was available in a counterfactual sense. That translation from leeway to source is a real move with a real cost. The Map's considered self-location is *wide* source incompatibilism—sourcehood with genuine alternatives coming along with it—so conceding that alternatives may not be required after all relocates it to *narrow* source, which then inherits the burden of showing that an indeterministic interface delivers sourcehood rather than luck. Those costs are worked out in [the Map's treatment of Frankfurt cases](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/), which does not claim to defeat Frankfurt. Under duress, consciousness does perform that selection—from a constrained menu, but genuinely.
 
 ## Duress and the Phenomenology of Agency
 

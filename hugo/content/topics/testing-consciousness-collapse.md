@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-29 10:15:40+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -60,7 +60,7 @@ topics:
 
 If consciousness participates in quantum collapse, as The Unfinishable Map's [tenets](/tenets/) propose, the claim must be testable. Yet every physical measurement that could reveal collapse also introduces the very physical interactions that physicalist interpretations invoke as the cause. The challenge is not merely technological but conceptual.
 
-Consciousness-collapse and decoherence-only interpretations nonetheless make distinct empirical predictions, and experiments are reaching the regimes where those predictions diverge. These predictions form a three-tier hierarchy: whether collapse happens at all (Tier 1), whether it is consciousness-dependent (Tier 2), and logical constraints that force interpretive commitments (Tier 3). A positive result at one tier does not cascade upward — confirming that collapse is real would not confirm that consciousness drives it.
+Consciousness-collapse and decoherence-only interpretations nonetheless make distinct empirical predictions, and experiments are reaching the regimes where the Tier 1 predictions — collapse versus no collapse — diverge. These predictions form a three-tier hierarchy: whether collapse happens at all (Tier 1), whether it is consciousness-dependent (Tier 2), and logical constraints that force interpretive commitments (Tier 3). A positive result at one tier does not cascade upward — confirming that collapse is real would not confirm that consciousness drives it.
 
 ## The Common Core
 
@@ -104,7 +104,7 @@ Full state tomography of system plus environment should reveal whether post-meas
 
 ### Superposition Persistence at Biologically Relevant Masses
 
-The MAQRO programme would be decisive: persistent superposition at 10⁹–10¹¹ amu would progressively eliminate collapse models, while mass-dependent breakdown would confirm the physical substrate consciousness-collapse requires. Remains at concept study stage.
+The MAQRO programme would be decisive at 10⁹–10¹¹ amu, for the reasons given above. Remains at concept study stage.
 
 ### Anomalous Brownian Heating
 
@@ -122,7 +122,7 @@ Kremnizer and Ranchin (2015) constructed the first formal CSL variant where the 
 
 **Testable prediction:** Chalmers and McQueen (2021) identify quantum computer experiments as the most promising platform: a circuit with high integrated feedback should lose coherence faster than a physically identical circuit with modular, feedforward architecture. The circuits share mass, temperature, and environmental coupling — differing only in information architecture. Any divergence in collapse rates would implicate information integration specifically.
 
-**Current status:** Not yet testable — requires measuring Φ in quantum systems — but quantum computer platforms are approaching the regime where variable-Φ circuits could be constructed. This is the closest Tier 2 prediction to experimental reach, and directly implements the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
+**Current status:** Not yet testable — requires measuring Φ in quantum systems — but quantum computer platforms are approaching the regime where variable-Φ circuits could be constructed. This is the closest Tier 2 prediction to experimental reach. It instantiates one minimum-outside-corridor reading of the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet — a branch the Map registers as a live fall-back but does not endorse ([quantum-interface](/positions/quantum-interface/) P-Q2), since Φ-indexed collapse rates would deviate from the aggregate Born statistics the endorsed corridor reading preserves exactly.
 
 **Limitation:** The *equal-Phi problem* (Chalmers & McQueen, 2021): scalar Φ alone would allow superpositions of distinct conscious states with equal Φ to persist — motivating the Q-shape extension below.
 
@@ -229,9 +229,9 @@ The persistent failure to design a clean consciousness-collapse experiment refle
 
 The three-tier prediction hierarchy maps directly onto the Map's [tenets](/tenets/).
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-threshold model directly implements this tenet: consciousness triggers collapse only where integrated information exceeds a threshold. The quantum computer variable-Φ tests embody this — circuits differing only in information architecture, not physical properties.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-threshold model instantiates one minimum-outside-corridor reading of this tenet — a branch the Map registers as a live fall-back but does not endorse ([quantum-interface](/positions/quantum-interface/) P-Q2), rather than the corridor reading itself. The quantum computer variable-Φ tests would probe that branch: circuits differing only in information architecture, not physical properties.
 
-The minimality commitment is double-edged: it explains why no differential prediction has yet been confirmed (minimal effects are hardest to detect), but also constrains which positive results the Map can claim — a large, dramatic consciousness-dependent effect would conflict with minimality as much as a null result would conflict with bidirectional interaction.
+The minimality commitment is double-edged, and its two edges differ in kind. On the corridor reading the Map endorses there is no differential prediction outstanding: per-trial selection is constructed to leave the aggregate Born measure intact, so no presently conceivable instrument resolves it from the chance baseline it is built to match — a framework-boundary feature the Map owns rather than a sensitivity limit better equipment would overcome. Only the minimum-outside-corridor branch predicts a detectable difference, and there minimality does make the effect faint. Minimality also constrains which positive results the Map can claim — a large, dramatic consciousness-dependent effect would conflict with it as much as a null result would conflict with bidirectional interaction.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly. Five pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-threshold test, the Chalmers-McQueen Q-shape test, and Neven et al.'s (2024) quantum-substrate perturbation — the only proposed test probing the reverse direction (quantum → consciousness). The IIT-CSL programme provides the most direct consciousness-to-physics path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
 

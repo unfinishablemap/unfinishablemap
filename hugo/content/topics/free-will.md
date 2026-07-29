@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-28 15:45:08+00:00
+ai_modified: 2026-07-29 11:07:54+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -109,7 +109,7 @@ Schwitzgebel (2011) has documented pervasive introspective failures. Why trust p
 
 ### The Phenomenology of Choice
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) provides direct evidence that consciousness selects rather than merely observes. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) suggests that consciousness selects rather than merely observes, though it cannot exhibit that selection from inside — the [verification circularity](/voids/agency-void/#the-verification-circularity) blocks first-person confirmation of causal power, so the support here is indirect. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
 
 ### Counterfactual Reasoning
 
