@@ -4,7 +4,7 @@ description: "African philosophical traditions treat consciousness as relational
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-26T21:52:17+00:00
+ai_modified: 2026-07-29T23:10:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ This parallels the Map's argument against [[materialism]]: if consciousness were
 
 ## Vital Force and Bantu Ontology
 
-Placide Tempels' *Bantu Philosophy* (1945), despite its colonial-era limitations and paternalistic framing, documented a metaphysical system centred on *ntu* — vital force or being-force. In Tempels' account, Bantu ontology treats all entities as possessing degrees of vital force, with human consciousness representing its highest concentration in the visible world.
+Placide Tempels' *Bantu Philosophy* (1945), despite its colonial-era limitations and paternalistic framing, documented a metaphysical system centred on vital force (*force vitale*). In Tempels' account, Bantu ontology treats all entities as possessing degrees of vital force, with human consciousness representing its highest concentration in the visible world. The *-ntu* vocabulary frequently attached to this ontology — the categories *muntu*, *kintu*, *hantu* and *kuntu*, and NTU as the universal force as such — belongs to the later recasting by Alexis Kagame and Janheinz Jahn rather than to Tempels himself.
 
 Later African philosophers — particularly Paulin Hountondji and Kwasi Wiredu — criticised Tempels for presenting a monolithic "Bantu philosophy" that flattened genuine intellectual diversity. This criticism is well-founded. There is no single African philosophy of consciousness any more than there is a single European one.
 

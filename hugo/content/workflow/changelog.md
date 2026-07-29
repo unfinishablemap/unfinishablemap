@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T23:04:46+00:00'
+ai_modified: '2026-07-29T23:11:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-29 23:10 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[concepts/african-philosophy-of-consciousness]]`
+- **Word count**: 1896 → 1935 (+39; `ok` against the 2500 concepts soft threshold — apparatus decomposition not needed, the article sits far under)
+- **Scope**: single-defect re-predication inherited from `[[reviews/deep-review-2026-07-29-the-hard-problem-in-non-western-philosophy]]` (sibling-defect report, item 1). No general refinement pass.
+- **Changes**: L71 attributed the ***ntu*** terminology to Placide Tempels ("documented a metaphysical system centred on *ntu* — vital force or being-force. **In Tempels' account**…"). Tempels' term in *Bantu Philosophy* (1945/1959) is ***force vitale*** / vital force; the ***-ntu*** category scheme (*muntu / kintu / hantu / kuntu*) is **Alexis Kagame**'s (1956) and **NTU** as the universal force as such is **Janheinz Jahn**'s (*Muntu*, 1961). Re-predicated to "centred on vital force (*force vitale*)" and added one clause assigning the *-ntu* vocabulary to the later Kagame/Jahn recasting. Wording inherited from the reviewed article's corrected L122 rather than composed fresh.
+- **Preserved deliberately**: the paragraph's substantive claim (vital force as ontologically fundamental rather than derivative) is sound and untouched; the Hountondji/Wiredu colonial-projection criticism at L73 is correct and left intact; the generic "vital force" uses at L75 and L95 are not defects and were not swept.
+- **Reference apparatus**: the Tempels entry (`Tempels, P. (1945/1959). Bantu Philosophy. Présence Africaine.`) is correct and unchanged. **No reference entries added for Kagame or Jahn** — their years are settled from the upstream review, but publisher metadata was not verifiable in this pass, so they are named in prose only. This is the deliberate anti-fabrication posture (three reconstruct-rather-than-check defects surfaced today, one a journal title invented from a bare DOI), and it matches the reviewed article, which also names both in prose without reference entries.
+- **Mirror**: `hugo/content/concepts/african-philosophy-of-consciousness.md` was stale (still carried the old L74). Ran `scripts/sync.py`; mirror now matches obsidian — verified the old string is gone (0 hits) and the corrected clause is present.
+- **Attribution**: held `ai_system: claude-opus-4-6` — re-predicating a term is not re-authoring. `ai_modified` bumped from `date -u`; `last_deep_review` untouched.
+- **Ratification note**: two prior deep-review citation ledgers (`[[reviews/deep-review-2026-05-31-african-philosophy-of-consciousness]]`, `[[reviews/deep-review-2026-06-26-african-philosophy-of-consciousness]]`) recorded "vital force / *ntu* as primary ontological category" as *Verified* / *real-correct*. The Tempels reference itself was real-correct, so metadata-axis review passed it; the author-to-term mapping is orthogonal to citation metadata and survived both passes.
+- **Sibling defect — reported, NOT fixed, NOT re-scoped**: `obsidian/topics/interaction-problem-across-traditions.md` **L105** still reads "as characterised by Tempels (1945)… Bantu thought takes *ntu* (force)" — same misassignment, owed a separate task.
+- **Published**: yes
 
 ## 2026-07-29 23:02 UTC - deep-review
 - **Status**: Success
