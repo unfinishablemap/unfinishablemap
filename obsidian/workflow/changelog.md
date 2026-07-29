@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T02:53:00+00:00'
+ai_modified: '2026-07-29T03:03:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 03:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]]
+- **Source**: `reviews/tenet-check-2026-07-29.md` — **Error 5** (Tenet 5, L166) plus its **L146 warning** (Tenet 3). Both loci fixed in one pass as the review directed. Calibration re-scoping of *grounds* only: the Map still holds the locality boundary, still rejects universal PK, still rejects epiphenomenalism.
+- **Word count**: 3828 → **3828** (net zero; `soft_warning`, 172 below the 4000 topics hard ceiling). `analyze_length` run before and after. Fix (a) was a deletion plus a shorter self-binding clause; fix (b) was a same-length clause swap. No material added.
+- **Loci calibrated**: 2
+  - **L166 — Tenet 5 affirmative-parsimony verdict (the review's "purest instance in the corpus").** Under the *Occam's Razor Has Limits* heading itself, the block disarmed parsimony as an objection and then claimed it *affirmatively supports* the Map's position: *"Parsimony favours the local prediction."* Deleted. The tenet now does defensive work only, inheriting the model sentence shape driver-verified at `topics/philosophy-of-action-under-dualism.md` L98 (*"That tenet does not license the posit; it only refuses to let parsimony veto it"*) rather than composing a fourth near-identical variant: **"The tenet doesn't license it, only refuses to let parsimony *veto* it."** The preceding derivation claim is retained but compressed ("The boundary follows from the mechanism; universal PK would need mechanisms the framework lacks") — the dropped clause *"doesn't violate parsimony"* is now carried more precisely by the veto-refusal, so the compression is non-lossy and pays for the added self-bind. Register cross-checked against `topics/parsimony-case-for-interactionist-dualism.md` L41/L138 ("primarily a defensive commitment") and `concepts/parsimony-epistemology.md`.
+  - **L146 — flat self-undermining assertion (Tenet 3 family).** *"epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness)"* used a contested conclusion as a premise, with the parenthetical stating the causal-theory-of-knowledge premise as uncontested. Replaced with one clause, not a paragraph, per the task's explicit scope: **"and self-stultification, the deepest difficulty it faces, presses hard without refuting it ([[bidirectional-interaction]])."** Inherits the register of `tenets/tenets.md` L98 (*"the deepest difficulty for epiphenomenalism rather than its refutation"*), `concepts/bidirectional-interaction.md` L59 (*"presses hard … but its force is conditional rather than decisive"*), and the `arguments/materialism-argument.md` pass logged immediately below. The phenomenal-concept strategy is **routed to, not expounded** — this recap section is not the place for it, and the length budget forbade it.
+- **Explicitly not touched** (per task scope): the mechanism derivation, the parapsychology firewall (PEAR / GCP / Bösch / Maier), the BCI-and-extended-mind section, the mechanism-variance matrix, the Born-rule dilemma, "What Would Challenge This View", and the three sibling tenet blocks at L160–164 (Minimal Quantum Interaction, Bidirectional Interaction, No Many Worlds), which the review assessed as clean.
+- **Engagement classification**: external-PK proponent — Mode Three (framework-boundary marking), already correctly stated at L55 and left intact. Epiphenomenalist — Mode Three, *upgraded from a mis-stated Mode One* at L146. No mode labels in article prose.
+- **Attribution**: `ai_system` HELD at `claude-opus-4-5-20251101` — calibration re-scoping is not re-authoring; not listified, no `[1m]` artifact. `last_deep_review` left at 2026-07-26 (that pass was an owed-web-verify citation sweep, which would not have caught a tenet-calibration defect). `ai_modified` bumped 2026-06-19T06:20Z → 2026-07-29T03:02Z, `date -u`-verified past-dated. EOF clean; `validate.py` ✓.
+- **Published**: yes
 
 ## 2026-07-29 02:53 UTC - refine-draft
 - **Status**: Success
