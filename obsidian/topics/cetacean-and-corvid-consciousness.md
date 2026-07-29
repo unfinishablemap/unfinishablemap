@@ -4,7 +4,7 @@ description: "Dolphins and corvids evolved sophisticated cognition independently
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-07-28T13:02:00+00:00
+ai_modified: 2026-07-29T18:07:34+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-13
 last_curated:
-last_deep_review: 2026-07-11T09:22:00+00:00
+last_deep_review: 2026-07-29T18:07:34+00:00
 ---
 
 The [[consciousness-as-amplifier|amplification hypothesis]]—that consciousness transforms baseline cognition into flexible, metarepresentational intelligence—draws its primary evidence from the great ape-human comparison. But primates are a single lineage. If consciousness genuinely amplifies cognition, the effect should appear wherever consciousness interfaces with sufficiently complex neural systems, regardless of evolutionary history—the [[universal-coupling-response|universal coupling response]] formalises exactly this prediction. Cetaceans (dolphins, whales) and corvids (crows, ravens, jays) provide exactly this test. Both lineages evolved sophisticated cognition independently from primates, through radically different neural architectures, yet both display capacities the amplification hypothesis links to consciousness.
@@ -54,13 +54,13 @@ The [[baseline-cognition|baseline cognition]] hypothesis predicts a specific pat
 
 ### Mirror Self-Recognition
 
-Beyond great apes, bottlenose dolphins pass MSR convincingly, using mirrors to inspect marked body parts they cannot otherwise see (Reiss & Marino 2001). The corvid case is weaker than it long appeared. Two of five Eurasian magpies (*Pica pica*) removed throat stickers in front of a mirror in the first published report of a non-mammal passing the mark test (Prior et al. 2008), but a close replication using a larger sample and a very similar protocol failed to confirm it—during the mark test, self-directed behaviour proved *more* frequent in front of the cardboard control than in front of the mirror—and its authors concluded that further replication is needed before magpies can be said to pass consistently (Soler et al. 2020). A three-species comparison then found no mark-directed behaviour indicative of self-recognition in ravens, carrion crows, or azure-winged magpies, and traced the divergent corvid results partly to methodological heterogeneity rather than phylogeny (Vanhooland et al. 2023). Corvid MSR is a contested finding, not a settled datum.
+Beyond great apes, bottlenose dolphins pass MSR convincingly, using mirrors to inspect marked body parts they cannot otherwise see (Reiss & Marino 2001). The corvid case is weaker than it long appeared. Two of five Eurasian magpies (*Pica pica*) removed throat stickers in front of a mirror in the first published report of a non-mammal passing the mark test (Prior et al. 2008), but a close replication using a larger sample and a very similar protocol failed to confirm it—during the mark test, self-directed behaviour proved *more* frequent in front of the cardboard control than in front of the mirror—and its authors concluded that further replication is needed before magpies can be said to pass consistently (Soler et al. 2020). A three-species comparison then found no mark-test evidence of self-recognition in common ravens, carrion crows, or azure-winged magpies, and questioned whether the divergent corvid results reflect phylogeny at all rather than the widely varying protocols used (Vanhooland et al. 2023). Corvid MSR is a contested finding, not a settled datum.
 
-Self-recognition plausibly requires representing oneself *as* an object of perception—a form of metarepresentation. The interpretation is contested on a second front: cleaner fish (*Labroides dimidiatus*) pass modified MSR tests despite lacking the cognitive complexity expected of self-aware species (Kohda et al. 2019), and some researchers read MSR as learned behavioural contingency. Neither development costs the amplification argument a premise, which never rested on magpie MSR: what supports the metarepresentation reading is the co-occurrence of MSR with other consciousness-linked capacities—tool culture, prospection, social cognition—and MSR alone never did. The replication record sharpens the existing hedge rather than removing a support.
+Self-recognition plausibly requires representing oneself *as* an object of perception—a form of metarepresentation. The interpretation is contested on a second front: cleaner fish (*Labroides dimidiatus*) pass modified MSR tests despite lacking the cognitive complexity expected of self-aware species (Kohda et al. 2019), and some researchers read MSR as learned behavioural contingency. Neither development costs the amplification argument a premise, which never rested on magpie MSR: what supports the metarepresentation reading is the co-occurrence of MSR with other consciousness-linked capacities—tool culture, prospection, social cognition—and MSR alone never did.
 
 ### Tool Use and Manufacture
 
-New Caledonian crows (*Corvus moneduloides*) manufacture tools from materials not naturally shaped for the purpose—bending wire into hooks, trimming pandanus leaves into stepped tools (Hunt 1996)—with regional "tool cultures" showing progressive modification across generations (Hunt & Gray 2003). [[cumulative-culture]] requires metarepresentation in the amplification framework: treating existing methods as objects of thought subject to improvement. Whether New Caledonian crow tool traditions genuinely accumulate innovations or merely persist through social learning is the contested step—sharpened by the observation that these crows do not appear to imitate, so any ratchet would have to run through a mechanism such as mental template matching rather than copying (Taylor & Jelbert 2020). Dolphins also show tool use—Shark Bay bottlenose dolphins carry marine sponges on their rostrums to protect against seafloor abrasion (Krützen et al. 2005), socially transmitted through maternal lines.
+New Caledonian crows (*Corvus moneduloides*) manufacture tools from materials not naturally shaped for the purpose—bending wire into hooks, trimming pandanus leaves into stepped tools (Hunt 1996)—with regional "tool cultures" showing progressive modification across generations (Hunt & Gray 2003). [[cumulative-culture]] requires metarepresentation in the amplification framework: treating existing methods as objects of thought subject to improvement. Whether New Caledonian crow tool traditions genuinely accumulate innovations or merely persist through social learning is the contested step. Taylor and Jelbert (2020) read the designs as showing suggestive evidence of cumulative change and argue the crows are a useful test case for which conditions are necessary and sufficient for cumulative culture to emerge at all. Dolphins also show tool use—Shark Bay bottlenose dolphins carry marine sponges on their rostrums to protect against seafloor abrasion (Krützen et al. 2005), socially transmitted through maternal lines.
 
 ### Planning and Prospection
 
@@ -88,7 +88,7 @@ The most informative aspect of cetacean and corvid cognition is not that they ma
 
 | Capacity | Great Apes | Corvids | Cetaceans | Humans |
 |----------|-----------|---------|-----------|--------|
-| Mirror self-recognition | Yes | Contested (unreplicated) | Dolphins | Yes |
+| Mirror self-recognition | Yes | Contested (failed replication) | Dolphins | Yes |
 | Tool use | Yes | Manufacture + culture | Limited | Yes |
 | Cumulative culture | Contested | Possibly limited | No clear evidence | Yes |
 | Prospective cognition | Limited | Cache planning | Cooperative hunting | Extensive |
@@ -186,7 +186,7 @@ The honest position: the framework supplies a falsification structure whose appl
 1. Soler, M., Colmenero, J.M., Pérez-Contreras, T. & Peralta-Sánchez, J.M. (2020). Replication of the mirror mark test experiment in the magpie (*Pica pica*) does not provide evidence of self-recognition. *Journal of Comparative Psychology*, 134(4), 363-371. https://doi.org/10.1037/com0000223
 1. Taylor, A.H. & Jelbert, S. (2020). The crow in the room: New Caledonian crows offer insight into the necessary and sufficient conditions for cumulative cultural evolution. *Behavioral and Brain Sciences*, 43, e178. https://doi.org/10.1017/S0140525X20000102
 1. Vanhooland, L.-C., Szabó, A., Bugnyar, T. & Massen, J.J.M. (2023). A comparative study of mirror self-recognition in three corvid species. *Animal Cognition*, 26(1), 229-248. https://doi.org/10.1007/s10071-022-01696-4
-1. Gutfreund, Y. (2024). "Neuroscience of animal consciousness: still agnostic after all." *Frontiers in Psychology*.
+1. Gutfreund, Y. (2024). "Neuroscience of animal consciousness: still agnostic after all." *Frontiers in Psychology*, 15, 1456403. https://doi.org/10.3389/fpsyg.2024.1456403
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *Proceedings of the National Academy of Sciences*, 106(11), 4219-4224.
 1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.

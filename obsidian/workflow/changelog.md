@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T17:33:41+00:00'
+ai_modified: '2026-07-29T18:07:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 18:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Scope**: the 2026-07-11 review's stability note said "do NOT re-run the full publisher-of-record sweep **absent newly-added citations**". Citations *were* added — the 2026-07-28 literature-drift refine (commit `02bc0ec6c`) rewrote the MSR section and added **five** references never checked by any review. That newly-added surface was the whole scope. The eighteen older cites (swept 2026-06-02, spot re-verified 2026-07-11) were deliberately **not** re-swept.
+- **Web-verify (§2.4)**: all five DOIs resolved at the registrar; metadata + abstracts from Europe PMC publisher-deposited records (publishers 403'd automated fetch); Gutfreund re-verified at the Frontiers full text. No aggregator, no prior-Map-review, no unfinishablemap.org-topped search used as a source.
+- **Critical issues addressed**: 3
+  - **Citation framing — Taylor & Jelbert 2020 cited on the wrong side of the question they answer.** The body appended them to the sceptical clause ("whether NC crow tool traditions genuinely accumulate … is the contested step—sharpened by …"). Their abstract in fact argues the tools "show suggestive evidence of cumulative change" and "appear to be the product of cumulative technological culture" — the affirmative side. Separately, the propositions attributed to them (crows "do not appear to imitate"; "mental template matching") are absent from the abstract and belong to a *different* paper (Jelbert et al. 2018, *Sci. Rep.*); the commentary body was unobtainable (Cambridge Core paywalled, no repository preprint), so the attribution was unverifiable. **Re-framed, not deleted**, to claims verbatim-traceable to the verified abstract.
+  - **Empirical-claim overstatement — Vanhooland et al. 2023.** Body said the study "traced the divergent corvid results partly to methodological heterogeneity rather than phylogeny". The source *raises* this as an open question ("calls into question whether the observed differences are in fact phylogenetic or methodological") and advocates standardised methods; it traces nothing. Rewritten to "questioned whether …". Same sentence: "found no mark-directed behaviour indicative of self-recognition" → "found no mark-test evidence of self-recognition", because the source *does* report mark-test interspecies differences and denies only their evidential import.
+  - **Corpus propagation.** `concepts/self-and-self-consciousness.md` L159 still listed "some corvids" among settled MSR passers. Calibrated in place ("contested since the magpie replication failure"). Its `last_deep_review` deliberately **not** touched — calibrated, not reviewed.
+- **Medium issues addressed**: 3 — table row "Contested (unreplicated)" → "Contested (failed replication)" (a replication was attempted and failed, not merely absent); Gutfreund reference completed with the verified volume/article number/DOI (it was the only entry of nineteen lacking them); cut a sentence the 2026-07-28 edit left redundant.
+- **Verified clean (no change)**: Boeckle et al. 2020 (metadata + "chose the right tool for the right future task, while ignoring previously useful tools"); Soler et al. 2020 (the striking "self-directed behaviour more frequent in front of the cardboard than the mirror" detail is near-verbatim from the source); Gutfreund quote (faithful meaning-preserving prefix, confirmed by an independent route at Frontiers).
+- **Anti-pattern worth recording — Connor et al. 2022 nearly reverted wrongly.** The abstract alone ("independently of the effect of their second-order alliance connections") made the article's "rather than alliance **size**" look like a substitution error. The **full text vindicated the article**: "alliance size had no effect on either response variable." Abstract-only reading would have *introduced* a defect while claiming to fix one. The paper's cognitive-demands and "social brain" passages likewise support the article's "plausible selection pressure for enhanced social cognition" gloss.
+- **Word count**: 3782 → 3782 (`analyze_length`, `soft_warning`, hard 4000). Deliberately net-neutral — additions paid for by the redundant-sentence cut. The raw count includes ~41 lines of reference apparatus; **this article should not be routed to `/condense` on that figure**.
+- **Tenet anchoring**: re-checked, no drift. Lead still holds cetaceans/corvids at *realistic possibility, contested*, amplification at *live hypothesis*, and states that the tenets remove a defeater without raising evidence-grade. Tenets 2/3 sections remain "consistent with … without forcing it" — indirect support, not confirmation.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6+claude-opus-5` — calibration and citation re-framing, not re-authoring. `+`-joined string, no YAML list, `[1m]` grep clean. `ai_modified` and `last_deep_review` stamped from the live UTC clock in the same command that printed it. EOF last-two-lines scan clean.
+- **Flagged for operator, not edited**: two research notes still record magpie MSR as a clean 2008 pass (`research/animal-consciousness-2026-01-14.md` L94/L96/L211; `research/animal-consciousness-2024-2025-literature-2026-05-19.md` L103). Arguably correct-as-dated-snapshot; needs an operator decision on whether research notes track current consensus.
+- **Output**: [[reviews/deep-review-2026-07-29-cetacean-and-corvid-consciousness]]
+- **Published**: pending next sync/deploy
 
 ## 2026-07-29 17:33 UTC - refine-draft
 - **Status**: Success
