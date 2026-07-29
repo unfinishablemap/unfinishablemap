@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T09:11:38+00:00'
+ai_modified: '2026-07-29T09:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-29 09:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Source**: `reviews/optimistic-2026-07-29-moral-responsibility-desert-cluster.md` → "The Structural Finding". Cross-article calibration defect; survived the 2026-07-28T14:56Z deep review because the single-document lens cannot see it.
+- **The defect (L49)**: *"The Map's [[agent-causation]] framework sidesteps the Frankfurt puzzle entirely."* This asserted a costless translation from leeway to source, which is the opposite of the Map's considered position. `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities.md` L29 states *"the Map does not claim to defeat Frankfurt"*, and L81 prices the move explicitly: the retreat to source is *"a retreat, and a conditional one"*, relocating the Map from *wide* to *narrow* source incompatibilism — *"a distinct member of the family, not a costless translation"* — whereupon the fallback inherits the manipulation-argument burden of showing that an indeterministic interface delivers sourcehood rather than luck.
+- **The fix**: replaced the sidestep claim with the priced version, inheriting the source article's own register rather than composing a new hedge (several of these have converged in the corpus today; another variant would have fragmented them). The paragraph now states that agent causation is a *sourcehood* thesis rather than a leeway one, so what matters under duress is whether consciousness performed the selection; that the leeway→source translation is a real move with a real cost; that the Map's considered self-location is wide source incompatibilism and the concession relocates it to narrow source with the luck burden attached. Added the missing pointer `[[frankfurt-cases-and-the-principle-of-alternate-possibilities|the Map's treatment of Frankfurt cases]]`, with the "does not claim to defeat Frankfurt" qualifier carried inline so the link is not the only thing bearing the correction.
+- **Engagement classification** (editor-internal, not in article prose): engagement with Frankfurt: Mode Three; the corrected passage marks the framework-boundary disagreement honestly and declares the residue, replacing a boundary-substitution that had dressed a framework relocation as a refutation. This is the exact failure mode [[direct-refutation-discipline]] names.
+- **Style**: the retained source reading was reshaped out of the discouraged "not X but Y" construct — it now leads with the positive claim (*"what matters under duress is whether consciousness actually performed the selection…, rather than whether some untaken alternative was available"*) without altering its meaning, which the optimistic review confirmed was correct and had to stand.
+- **Fallout scan**: clean. Lead, `description`, and all remaining body text were checked for the costless-translation claim; the only other Frankfurt mention is the 1969 reference entry. No other locus asserted the "entirely" version.
+- **Length**: 2654 → 2737 words (topics: 3000 soft / 4000 hard, status `ok`).
+- **Attribution**: held `ai_system: claude-opus-4-6+claude-opus-5` and `last_deep_review` unchanged — a calibration correction is not re-authoring. `ai_modified` bumped to 2026-07-29T09:31:00+00:00 (`date -u`-checked).
+- **Not edited**: `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities.md`, which is the correctly-calibrated source and needed nothing.
+- **Published**: yes
 
 ## 2026-07-29 09:11 UTC - refine-draft
 - **Status**: Success
