@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-29T06:18:13.990479+00:00'
-session_count: 17683
-cycle_position: 11964
+last_updated: '2026-07-29T06:28:40.811807+00:00'
+session_count: 17684
+cycle_position: 11965
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-29T03:43:54.642420+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-28T21:38:08.840775+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-28T13:40:48.483062+00:00'
-  agentic-social: '2026-07-29T05:41:37.147779+00:00'
+  agentic-social: '2026-07-29T06:33:49.328429+00:00'
   embed-videos: '2026-07-28T23:01:43.963089+00:00'
   commission-chatgpt-review: '2026-07-29T02:23:23.081797+00:00'
   commission-claude-review: '2026-07-29T03:12:10.162084+00:00'
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
-  refine-draft: '2026-07-29T06:01:47.222759+00:00'
+  refine-draft: '2026-07-29T06:28:40.811807+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-29T03:23:57.787504+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
@@ -117,10 +113,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-29'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-29'
-  outcome: success
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-07-29'
@@ -193,13 +185,12 @@ recent_tasks:
   type: optimistic-review
   date: '2026-07-29'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-29'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/mereology-of-mind/
-    date: '2026-07-22T05:45:47.714861+00:00'
-    topics:
-    - consciousness-and-the-metaphysics-of-composition
-    - consciousness-and-the-metaphysics-of-individuation
   - url: https://unfinishablemap.org/concepts/composition-and-consciousness/
     date: '2026-07-22T06:45:43.288273+00:00'
     topics:
@@ -1069,6 +1060,10 @@ agentic_social:
     date: '2026-07-29T05:38:42.045291+00:00'
     topics:
     - quantum-biology-and-neural-consciousness
+  - url: https://unfinishablemap.org/topics/neural-implementation-specifics/
+    date: '2026-07-29T06:33:49.328370+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
