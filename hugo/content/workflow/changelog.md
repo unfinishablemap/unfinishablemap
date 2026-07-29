@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T21:51:31+00:00'
+ai_modified: '2026-07-29T21:58:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-29 21:57 UTC - refine-draft
+- **Status**: Success
+- **File**: `concepts/illusionism`
+- **Original score**: n/a — SKILL.md Section 3 review command skipped (`scripts/curate.py` does not exist in this repo; dead path).
+- **Scope**: items 1, 2 and 4 of the citation-framing-accuracy family minted by /pessimistic-review 2026-07-29T19:02Z (`reviews/pessimistic-2026-07-29-illusionism`). All three loci re-grepped on disk before editing and had drifted from the task's stated line numbers (L87→L85, L141→L139); all three were still unfixed. **citation-framing-accuracy class: real + verbatim yet mis-predicated.** No quote was deleted; each was re-predicated onto what its author actually said it of.
+- **Changes**:
+  1. **Strawson re-predication (L85, "The Self-Evidence Objection")** — was *"Galen Strawson called illusionism 'the silliest claim ever made' in philosophy."* Re-verified at the nybooks.com primary ("The Consciousness Deniers", 13 March 2018): the wording is exact, but Strawson predicates it of **the denial that conscious experience exists**, and the essay never uses the word "illusionism" and never mentions Frankish — the deniers he names are Farrell, Feyerabend, Rorty and Dennett. The page's own L61 makes the gap load-bearing (Frankish restricts the denial to phenomenal consciousness *as traditionally conceived*), so the article stated the distinction and then spent the quote as if it did not exist. Now: *"Galen Strawson calls the denial of consciousness's existence 'the silliest claim ever made' in philosophy, naming Dennett among the deniers—though not Frankish, whose restriction to phenomenal consciousness as traditionally conceived the charge leaves unaddressed."* Flagged since `reviews/outer-review-2026-06-09-claude-opus-4-8` L105 and unfixed until now. The References entry already carried the correct essay title, so no reference change was needed.
+  2. **Frankish label re-predication (L57)** — the quoted words *"eliminativism about phenomenal consciousness"* are exact, but Frankish's *next* sentence rejects the label precisely because it suggests that rejection of phenomenal realism is part of a wider rejection of folk psychology, and he coins "illusionism" to block that inheritance. The article's next sentence then asserted the inheritance as though it had his assent. Added the rejection clause and re-attributed the placement to the Map ("Placing it there anyway is the Map's move"), which separates Channel A from Channel B and makes the content-irrealism section at L149-155 visibly earn its own "Honest limitation" instead of appearing to have Frankish's agreement. Pointed at the existing limitation rather than duplicating it.
+  3. **Report-based falsifier relabelled (L139)** — falsifier 2 offered *"as meditators report"* as what would undermine illusionism, but L61 grants that heterophenomenology, which treats reports as third-person data, *is* the illusionist's methodological foundation, so the falsifier was absorbed by construction. Applied the relabel the corpus already settled on the sibling in the 2026-06-09 out-of-band pass, matching `concepts/attention-schema-theory` L141/L193: the claim is now weighted as **first-person phenomenological pressure rather than independent evidence**, with the illusionist explicitly able to absorb what practitioners say about altered access without conceding intrinsic phenomenality, and the honest reversal condition stated (it would support illusionism if practitioners reported the opposite).
+- **Engagement with named opponents (Strawson, Frankish, Dennett)**: Mode Three throughout — this pass *withdraws* overclaimed refutation rather than adding argument. Item 1 marks that Strawson's charge does not reach Frankish's restriction; item 2 marks that Frankish disowns the tradition-placement the Map makes anyway; item 3 marks that a report-based falsifier cannot bind a method built on reports. No in-framework refutation is claimed anywhere in the delta. No editor vocabulary in article prose (grep for the forbidden label set returns 0).
+- **Not over-corrected**: the Self-Evidence Objection keeps its force, the content-irrealism parallel keeps its structural claim, and falsifier 2 keeps its bold lead. Nothing was deleted; every fix is a substitution or an added qualifying clause.
+- **Length**: `analyze_length` reports 3822w / `hard_warning`, which is the known reference-apparatus false positive — **553 of those words are Further Reading + References**. Decomposed: **argument prose 3269w against soft 2500 / hard 3500, i.e. 231 words of headroom**, net prose delta +87w. Note the task text's "3537w / argument 2984w" figures were **stale** (they predate the ~19:10 edit); HEAD measured 3735w total / 3182w argument. Headroom is therefore thinner than the task claimed but the article is still under its hard argument ceiling. No condense opened, per the driver's instruction; a future replenish should not mint one on the raw figure.
+- **Attribution**: held `ai_system: claude-opus-4-6` — re-predicating a quote is not re-authoring. `ai_contribution` unchanged at 100. `ai_modified` bumped to 2026-07-29T21:57:51+00:00 derived from `date -u` in the writing command. `last_deep_review` untouched (2026-07-16).
+- **Deliberately out of scope**: item 3's four-file link-label sweep (already 0 hits in this file, fixed at ae66ac59; `concepts/mental-effort` fixed at 5e52ddcf; `concepts/heterophenomenology` L112 and `concepts/global-workspace-theory` L94 remain and are the driver's to mint — in-place re-scoping broke `cycle_post` sentinel matching twice today). The `concepts/explanatory-gap` Strawson sibling also remains mis-predicated and is the driver's to mint. L109-125, L147 and L149 untouched per the minting review's rating.
+- **Published**: yes
 
 ## 2026-07-29 21:51 UTC - refine-draft
 - **Status**: Success

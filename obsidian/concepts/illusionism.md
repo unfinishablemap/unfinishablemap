@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-29T19:10:16+00:00
+ai_modified: 2026-07-29T21:57:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ Illusionism is the most radical physicalist response to the [[hard-problem-of-co
 
 This matters for The Unfinishable Map because illusionism is the most direct challenge to taking consciousness seriously. If illusionists are right, there is no [[explanatory-gap]]—nothing non-physical to explain—and the [[tenets#^dualism|Dualism]] tenet would be defending something that doesn't exist.
 
-Illusionism is the eliminativist strand of physicalism targeting phenomenal consciousness. Where the Churchlands' classical [[eliminative-materialism|eliminativism]] denies the reality of propositional attitudes, illusionism denies the reality of qualia. The two strands are independent, but Frankish (2016) grants that we might call illusionism "eliminativism about phenomenal consciousness." Placing it in that tradition matters: illusionism inherits eliminativism's dialectical history, including the [[self-stultification|self-refutation]] arguments that arise whenever a theory denies the reality of its own categories of assertion.
+Illusionism is the eliminativist strand of physicalism targeting phenomenal consciousness. Where the Churchlands' classical [[eliminative-materialism|eliminativism]] denies the reality of propositional attitudes, illusionism denies the reality of qualia. The two strands are independent, but Frankish (2016) grants that we might call illusionism "eliminativism about phenomenal consciousness"—though he rejects the label in his next sentence, as suggesting a wider rejection of folk psychology he does not endorse; he coins "illusionism" to block that inheritance. Placing it there anyway is the Map's move, and it matters: illusionism inherits eliminativism's dialectical history, including the [[self-stultification|self-refutation]] arguments that arise whenever a theory denies the reality of its own categories of assertion.
 
 ## The Core Claim
 
@@ -82,7 +82,7 @@ AST sits at the subtle rather than the hard end of that spectrum—it is Grazian
 
 ### The Self-Evidence Objection
 
-How can I be wrong about the existence of something for which I have inescapable evidence? An experience need not be *veridical* to exist: the belief that I'm seeing a pink elephant may be erroneous, but not that I'm having *some* experience. Galen Strawson called illusionism "the silliest claim ever made" in philosophy.
+How can I be wrong about the existence of something for which I have inescapable evidence? An experience need not be *veridical* to exist: the belief that I'm seeing a pink elephant may be erroneous, but not that I'm having *some* experience. Galen Strawson calls the denial of consciousness's existence "the silliest claim ever made" in philosophy, naming Dennett among the deniers—though not Frankish, whose restriction to phenomenal consciousness *as traditionally conceived* the charge leaves unaddressed.
 
 ### The Infinite Regress Problem
 
@@ -136,7 +136,7 @@ Illusionism would be undermined if:
 
 1. **The illusion problem proves as hard as the hard problem.** If explaining the "illusion" quietly presupposes what it denies, illusionism has only relocated the mystery.
 
-2. **Contemplative practice deepens rather than dissolves phenomenal access.** If training refines phenomenal access (as meditators report) rather than revealing experience as empty, this supports the reality of what's accessed.
+2. **Contemplative practice deepens rather than dissolves phenomenal access.** Meditators report that training refines phenomenal access rather than revealing experience as empty. This is first-person phenomenological pressure rather than independent evidence—heterophenomenology treats reports as third-person data, so the illusionist absorbs what practitioners say about altered access without conceding intrinsic phenomenality. It would reverse into support for illusionism if practitioners reported the opposite.
 
 3. **Neuroscience reveals qualia-specific mechanisms.** If neural research discovers mechanisms best explained as generating qualitative experience rather than mere representations *about* it.
 
