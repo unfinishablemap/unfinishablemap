@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-07-29 02:12:39+00:00
+ai_modified: 2026-07-30 22:41:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -64,6 +64,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [AI consciousness scope](/positions/ai-consciousness-scope/) — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism, and the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space) while the *phenomenal* question stays untouched
 - [Arguments for dualism](/positions/arguments-for-dualism/) — what the anti-physicalist argument catalogue actually supports: premise-sharing rather than evidential independence, irreducibility-then-selection rather than three compounding routes, and cross-traditional near-independence rather than a third confirmation
 - [Methodology and calibration](/positions/methodology-and-calibration/) — what the Map commits to *about its own evidence and conduct*: the tenet-register / evidence-register separation (a tenet removes a defeater but never upgrades the evidence), the common-cause null as a standing discount on convergence, the publisher-of-record citation and weight-class standard, the framework-stage / open-programme self-calibration, and the honest gap between disclosure and enforcement
+- [Finding-level calibration](/positions/finding-level-calibration/) — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
 **Companion files (not domains, containing no positions).** [Quantum interface — calibration history](/positions/quantum-interface-calibration-history/) holds the relocated dated update notes for the quantum-interface entries. Provenance lives there; every claim, calibration and shift condition stays in the domain file, which carries a `Calibration history` line per entry pointing back. The convention is available to any domain file whose audit trail has outgrown its live content.
