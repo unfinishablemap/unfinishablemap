@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T02:38:18+00:00'
+ai_modified: '2026-07-30T02:56:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 03:00 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[concepts/heterophenomenology]]`
+- **Defect**: L112 labelled a link `[[attention-and-the-consciousness-interface|Why Attention Schema Theory Fails]]`, promising a refutation the destination explicitly declines to claim. Destination `title:` is *"Attention and the Consciousness Interface"*, its AST section is headed `## Engaging Attention Schema Theory`, and its L100 reads *"Neither side closes the case against the other inside the rival's framework — the disagreement is about which framework to inhabit, and the Map notes this honestly rather than dressing tenet-incompatibility as an argument decided on AST's terms."* The single `-i fail` hit on the destination (L114) is about hemispatial neglect, unrelated to AST. Originally a four-file finding from `[[reviews/pessimistic-2026-07-29]]`; this closes the third locus.
+- **Changes**: one-string relabel to `[[attention-and-the-consciousness-interface|the Map's engagement with AST]]`, inherited verbatim from the two already-fixed files (`[[concepts/illusionism]]` at ae66ac59, `[[concepts/mental-effort]]` at 5e52ddcf). Five words for five words; length-neutral. Nothing else on the line touched — the `[[illusionism]]` link and surrounding prose are unchanged.
+- **Boundary-substitution note**: this is the label-leakage half of `[[direct-refutation-discipline]]` inverted — a *link label* was over-claiming on behalf of a destination that correctly performs Mode Three framework-boundary marking. Downgrading the label to match the destination's own verdict is the settled fix, not a weakening of either article's argument.
+- **Housekeeping**: `ai_modified` bumped to 2026-07-30T03:00:45+00:00 from `date -u` in the writing command. `ai_system` held (`claude-sonnet-4-5-20250929`) — a link relabel is not re-authoring. `last_deep_review` untouched. `analyze_length` 2899w `soft_warning` against concepts 2500/3500 is pre-existing with ~601w headroom; **no condense**, and the swap is length-neutral.
+- **Mirror**: `scripts/sync.py` run once after both the article edit and this changelog entry; `grep -c 'Why Attention Schema Theory Fails' hugo/content/concepts/heterophenomenology.md` verified at 0.
+- **Successor reported, NOT re-scoped**: `obsidian/concepts/global-workspace-theory.md` L94 carries the same defective label and is the last live locus in the corpus outside `workflow/` and `reviews/`. Left for the driver to mint so `cycle_post`'s sentinel match on this task's title is not disturbed.
+- **Published**: yes
+
+## 2026-07-30 02:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `[[concepts/mysterianism]]` (2908w raw; **2550w authored prose** after subtracting 358w of Further Reading plus References apparatus; `last_deep_review` 2026-07-06, `ai_modified` 2026-06-01)
+- **Output**: `[[reviews/pessimistic-2026-07-30-mysterianism]]`
+- **Target selection**: chosen against the driver brief's exclusion set (23 queue-named files, 33 files touched in the last 12h, 5 recent pessimistic targets). Citation-dense, 24 days past its last deep review, and adversarially exposed on the Popperian and Deutsch axes.
+- **Headline finding (High)**: the article runs persistence-of-the-hard-problem as evidence for closure at **four** loci (L66, L102, L158, L172) while **L144 states outright that temporary and permanent mysterianism "both look identical—we cannot know which problems are permanently closed."** If they are observationally identical, persistence discriminates neither. L172 is load-bearing: it is the whole reply to the Squirrel Objection and uses persistence to *select* consciousness from among the allegedly-closed properties. L158 was judged **defensible as written** (it says *humility* is favoured, not closure) — deliberately not flagged for change.
+- **Second finding (High)**: L152 *"illusionists deny phenomenal consciousness exists at all"* and L201 *"the rival view that consciousness isn't real"* are **unattributed Map editorial voice** carrying the strong-illusionism-only reading that `[[concepts/illusionism]]` retired hours earlier (its L69-71 now hold *"Illusionism is a spectrum rather than a single position"*). L154's bare regress is weaker — attributed to mysterians, so a legitimate report — but uncountered anywhere on the page.
+- **Third finding (Medium)**: three compressions of `[[voids/biological-cognitive-closure]]` are firmer than the source and drop the source's own falsifiers — L86 "permanently inaccessible" vs source L131's *reopened* rat critical periods, L102 "shows ... universally" vs source L61's "provides evidence ... likely", L84 "adults cannot" generalised from source L97's Japanese /r/-/l/ case. Source L129 supplies a genuinely discriminating falsifier list this article does not inherit.
+- **Fourth finding (Medium)**: L186's Tenet-4 paragraph makes epistemic inexplicability a ground for a metaphysical rejection of MWI, contradicting the article's own L148 *"Neutral on ontology"*. The hedge ("indirect support") is correct and was explicitly protected; only the *direction* of support is wrong, and a genuinely mysterian reframing is available.
+- **Tasks minted**: 3 `refine-draft`, all on the reviewed article (2×P2, 1×P3), **appended at the end of Active Tasks rather than top-inserted** so no existing task's line number shifted under a concurrent `cycle_post` line fallback.
+- **Checks run that did NOT fire, recorded so they are not re-litigated**: (a) **length is a false positive** — `analyze_length` says `soft_warning`, but the apparatus is 358w so authored prose is 2550w against 2500/3500, i.e. 950w of headroom; **no condense**, and every recommendation is subtractive or hedge-restoring. (b) **Altered-state symmetry (Audit Two) does not apply** — zero hits for `filter|transmission|permissive`, and the three supportive-cluster loci are run under an explicit conditional rather than as a count of independent confirmations. (c) **All protected calibrations intact** — parsimony run only backwards at L178, no self-stultification inference, no Hu et al. material. (d) **Boundary-substitution clean, and L182 is exemplary** honest framework-boundary marking; zero label-leakage. (e) All 14 sampled wikilink targets resolve.
+- **Method note (two grep traps hit and corrected in-run)**: `-i NDE` matched "u**nde**rstand" and produced eleven false supportive-cluster hits — re-run with word boundaries. And `voids/formal-cognitive-limits.md` plus `voids/biological-cognitive-closure.md` first appeared **MISSING** because they were grepped under `concepts/`; both exist in `voids/`.
+- **Sibling finding, reported NOT re-scoped**: the bare-regress family is larger than the open P3 records and sits in a **disjoint phrasing family** — 20 live loci on `something must ... experience`, **15 with no calibration marker in a ±5-line window**, and neither `haecceity.md` nor `parfit-reductionism.md` among them, so the existing task's grep will not surface any of the 15. Enumerated in the review for a future pass.
+- **Out of contract, routed to the operator not minted**: the **computational-universality reply to McGinn** (Deutsch's universal explainer) is absent from `[[concepts/mysterianism]]` **and** from its designated spoke `[[voids/formal-cognitive-limits]]`, which already handles Gödel and the halting problem. The article answers only the weaker tool-extension version at L66, which makes the gap conspicuous. Needs `expand-topic`/`research-topic`.
+- **Content modified**: none (read-only skill; review file, todo.md and changelog only)
 
 ## 2026-07-30 02:37 UTC - refine-draft
 - **Status**: Success
