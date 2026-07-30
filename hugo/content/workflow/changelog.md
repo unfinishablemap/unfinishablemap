@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T10:20:09+00:00'
+ai_modified: '2026-07-30T10:28:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 10:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/)
+- **Scope**: resolve the Albahari Handbook-chapter year conflict (corpus said 2019; SEP says 2020). Verified at the **publisher of record**, settled on **2020**, propagated to every locus of *that* chapter.
+- **Verification (publisher level, not aggregator)**: the volume's own copyright page reads "**First published 2020 by Routledge**", "**© 2020 Taylor & Francis**", ISBN 978-1-138-81713-5 (hbk) / 978-1-315-71770-8 (ebk) — the ebk ISBN matching Crossref's record for chapter DOI 10.4324/9781315717708-11. Crossref's `published-print` of 2019-12-10 is the **ebook release**, not the print year: its own `created` field is 2020-01-28, *after* the date it claims as print, which is the signature of a pre-release e-availability date. SEP concurs independently ("Albahari, Miri, 2020 … in Seager 2020, 119–130"). So the online-first/print split is real and resolves *toward* 2020: the reference entry cites print pagination (pp. 119–130) in the print volume, so the volume's stated year governs. Decided on evidence, not on the 3-to-1 majority, which was a PhilPapers-sourced propagation of the ebook date.
+- **⚠️ Driver scoping corrected — locus 3 was a different work.** `concepts/cosmopsychism.md` L62/L96 cite Albahari's "**Perennial Idealism: A Mystical Solution to the Mind-Body Problem**", *Philosophers' Imprint* **19(44)** — verified genuinely **October 2019** at the journal's own header. That is *not* the Handbook chapter and was **left unchanged**. So Albahari has *three* distinct works live in the corpus (2006 *Analytical Buddhism*; 2019 *Philosophers' Imprint*; 2020 Routledge chapter), not two.
+- **Changes** (3 loci, all the Handbook chapter):
+  - `topics/…de-combination-problem.md` L143 References: `Albahari, M. (2019)` → `(2020)`, plus a short parenthetical recording the ebook-vs-volume split so a future pass does not "correct" it back.
+  - `topics/…de-combination-problem.md` L85 in-text: `(Miri Albahari, 2019)` → `(Miri Albahari, 2020)`.
+  - `research/…-2026-06-19.md` L84 timeline row `2019` → `2020`; L124 reference entry re-dated and its `[VERIFIED — PhilPapers]` marker (the propagation source) replaced with the publisher-level evidence.
+- **L75 prose credit — year restored, deliberately.** The 10:20 pass had credited Albahari *without* a year to avoid contradicting the then-2019 reference list. With the year settled that constraint is gone, and restoring it makes the in-text credit agree with both the reference entry and SEP's own wording, so `crediting Albahari` → `crediting Albahari (2020)`. Also confirmed the SEP sentence is real and lives on the entry's **supplement** page ("Possible Solutions to the Subject-Summing Problem"), not the main entry — which is why a fetch of the main entry and of `notes.html` both missed it.
+- **Word count**: **prose 3113 → 3117 (net +4)**; **apparatus 577 → 595 (net +18)**; total 3690 → 3709. **291 words of hard-ceiling headroom** remain. `soft_warning` before and after — the standing apparatus-counting artifact, not an argument-length problem; no argument was cut for it and no expansion was taken.
+- **Not touched**: the four `Albahari, M. (2006)` *Analytical Buddhism* citations in `concepts/buddhism-and-dualism.md`, `topics/introspection-architecture-independence-scoring.md` and `topics/personal-identity.md` (×2) — confirmed clean by `git diff --stat`. The research note's L16 search-query string keeps its literal `2019` as a verbatim record of the query run.
+- **Open loose end (not re-scoped)**: L85 labels the 2020 chapter's position "*perennial idealism*", but the chapter itself says "Perennial *Philosophy*" / "Advaitic"; the phrase "perennial idealism" is the 2019 *Philosophers' Imprint* title. The label is standard for Albahari's view and the corpus cites the Imprint paper for it in `cosmopsychism.md`, so it was left alone rather than widened beyond a date fix.
+- **Synced**: yes — a wrong publication year is a factual error about a third party's work, so pushed through to Hugo rather than waiting for the pre-push sync.
+- **Published**: yes
 
 ## 2026-07-30 10:20 UTC - refine-draft
 - **Status**: Success

@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-30 05:46:00+00:00
+ai_modified: 2026-07-30 10:28:31+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-19
@@ -84,7 +84,7 @@ Two distinct-but-mirrored ideas were surveyed. (1) **Open individualism** (Danie
 | 2017 | Chalmers, "The Combination Problem for Panpsychism" (Brüntrup & Jaskolla, eds.) | Names the "decomposition problem" as "just as hard" |
 | 2018 | Miller, "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem" (*Ratio*) | The canonical statement: de-combination ≡ combination |
 | 2018 | Shani & Keppler, "Beyond Combination" (*JAPA*) | SED/zero-point-field filtering model to dodge de-combination |
-| 2019 | Albahari, "Beyond Cosmopsychism and the Great I Am" (*Routledge Handbook of Panpsychism*) | Perennial idealism; aperspectival dissolution of the problem |
+| 2020 | Albahari, "Beyond Cosmopsychism and the Great I Am" (*Routledge Handbook of Panpsychism*) | Perennial idealism; aperspectival dissolution of the problem |
 | 2019 | Roelofs, *Combining Minds* (OUP) | Manyism — the *opposite bet* (more subjects, not one) |
 
 ## Potential Article Angles
@@ -124,7 +124,7 @@ All verified at publisher of record, PhilPapers, or SEP on 2026-06-19. Metadata 
 7. Shani, I., & Keppler, J. (2018). "Beyond Combination: How Cosmic Consciousness Grounds Ordinary Experience." *Journal of the American Philosophical Association*, 4(3), 390-410. DOI 10.1017/apa.2018.30. [VERIFIED — Cambridge Core. NOTE: this is Shani & Keppler 2018, JAPA — distinct from Shani 2015.]
 8. Nagasawa, Y., & Wager, K. (2016). "Panpsychism and Priority Cosmopsychism." In G. Brüntrup & L. Jaskolla (eds.), *Panpsychism: Contemporary Perspectives*, pp. 113-129. Oxford University Press. [VERIFIED — CORRECTION: the brief's working title "Defending Existential Consciousness" is WRONG; the actual title is "Panpsychism and Priority Cosmopsychism."]
 9. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press. ISBN 9780190677015. [VERIFIED — OUP; contains the subject-summing chapter and "grounding by subsumption."]
-10. Albahari, M. (2019). "Beyond Cosmopsychism and the Great I Am: How the World might be Grounded in Universal 'Advaitic' Consciousness." In W. Seager (ed.), *The Routledge Handbook of Panpsychism*, pp. 119-130. Routledge. [VERIFIED — PhilPapers. NOTE: written ~2015, published 2019. Albahari names "the decombination problem."]
+10. Albahari, M. (2020). "Beyond Cosmopsychism and the Great I Am: How the World might be Grounded in Universal 'Advaitic' Consciousness." In W. Seager (ed.), *The Routledge Handbook of Panpsychism*, pp. 119-130. Routledge. [VERIFIED at publisher of record 2026-07-30 — the volume's own copyright page reads "First published 2020 by Routledge", © 2020 Taylor & Francis (ISBN 978-1-138-81713-5 hbk / 978-1-315-71770-8 ebk). SEP concurs: "Albahari, Miri, 2020 ... in Seager 2020, 119-130". The 2019 date carried by PhilPapers and by Crossref's `published-print` on DOI 10.4324/9781315717708-11 is the ebook release (2019-12-10) — note Crossref's own `created` is 2020-01-28, after its claimed print date. Cite 2020. NOTE: written ~2015. Albahari names "the decombination problem" (SEP supplement, "Possible Solutions to the Subject-Summing Problem").]
 11. Albahari, M. (2019). "Perennial Idealism: A Mystical Solution to the Mind-Body Problem." *Philosophers' Imprint*, 19(44). [VERIFIED via PhilArchive — vol 19, no. 44, October 2019. Confirm imprint/volume at publisher before citing precisely.]
 12. Stanford Encyclopedia of Philosophy, "Panpsychism" + supplement "Possible Solutions to the Subject-Summing Problem." plato.stanford.edu/entries/panpsychism/. [VERIFIED — authoritative source for the cosmopsychist roster, "derivation problem," and the conceivability-mirror quote.]
 13. Wikipedia, "Open individualism." en.wikipedia.org/wiki/Open_individualism. [Used only for the proponent lineage / taxonomy framing — NOT a citable scholarly source; verify any claim drawn from it against primary texts.]
