@@ -275,3 +275,32 @@
   subject_articles:
   - concepts/epistemology.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-29-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6ab405-81ac-83eb-a066-280f487737ad
+  commissioned_at: '2026-07-30T02:17:11.653865+00:00'
+  prompt_summary: Audit open-individualism-and-the-de-combination-problem
+  target_filename: outer-review-2026-07-30-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external reviewer auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending an interactionist,
+    non-reductive account of consciousness. The article is https://unfinishablemap.org/topics/open-individualism-and-the-de-combination-problem/,
+    last substantively revised 22 July 2026. Read the live page and assess four dimensions:
+    (1) evidential support - are its claims about open individualism and the de-combination
+    problem argued, or merely asserted? (2) citation integrity - are cited works real,
+    correctly attributed, accurately quoted, and current with the 2020s literature?
+    (3) counterargument coverage - which objections from closed and empty individualism,
+    reductive physicalism, and the panpsychist combination debate go unaddressed or
+    strawmanned? (4) tenet-protective bracketing - where does the article shield its
+    dualist commitments from testing rather than defending them? Also judge how well
+    it integrates with surrounding Map articles. Because search indexes lag a day
+    or two, consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent activity. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit open-individualism-and-the-de-combination-problem
+  subject_articles:
+  - topics/open-individualism-and-the-de-combination-problem.md
+  subject_source: fallback:recent-aged
