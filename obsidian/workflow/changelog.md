@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T18:24:00+00:00'
+ai_modified: '2026-07-30T18:32:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 18:32 UTC - refine-draft
+- **Status**: Success (reciprocal cross-link installed; apex side exactly length-neutral)
+- **Files**: [[apex/cross-modal-capability-division]] and [[topics/consciousness-and-the-ownership-problem]] — **both edited in one pass**, as the task is a two-file reciprocal link and `cycle_post` closes it after a single run.
+- **Original score**: n/a — SKILL.md step 3 invokes `scripts/curate.py`, which does not exist (still-open NEEDS-HUMAN tooling task; not patched here)
+- **The gap, verified on disk before editing**: `grep -c` = **0 in both directions**. The apex builds its entire mind-side finding on the *ownership* term and never linked the article that treats ownership as its subject; the topic already linked *down* to two of the apex's eight sources ([[topics/tactile-consciousness-and-the-interface]], [[topics/interoceptive-consciousness-and-the-interface]]) but not *up* to the synthesis that reads them together.
+- **Apex side — length-neutral by construction, measured at exactly 0**: the wikilink was laid over prose that already existed rather than carried by a new sentence. L108 `is the *ownership* term` → `is the *[[consciousness-and-the-ownership-problem|ownership]]* term`. Because `count_words` in `tools/curate/length.py` is a bare `content.split()`, a space-free wikilink token replaces a one-word token for a **provably zero-word delta** — `analyze_length` **4917 → 4917**, `soft_warning` unchanged, **83 words of headroom left fully intact**. L108 was chosen over the L114 alternative because it is the sentence where the Map explicitly stakes its value-add on the ownership term; one well-placed link beats two.
+- **Protected passages confirmed intact** (both run *against* the Map's interest and are exactly the kind of concession that gets quietly smoothed away): the **consonant-not-probative** framing (2 occurrences, untouched) and the candid admission that **"direct cross-modal evidence is thinnest"** with **"no direct cross-modal *ownership* experiments"**. Neither was softened; the edit added a link and changed no other character on the line.
+- **Topic side — the reciprocal bullet, placed where the room is** (topic had ~1123 words of headroom vs the apex's 83). Appended to `## Further Reading` immediately after the tactile and interoceptive entries, so it sits with the two modality articles it synthesises. It says what the apex actually contributes: eight sense-modality articles read together resolve the mind-side term into a **family rather than a single scale** — object-unity (touch, hearing), owned affect (interoception), situatedness of viewpoint (vestibular) — i.e. a **taxonomy of ownership**, this article's own subject. `analyze_length` 2877 → **2942 (+65)**, status **`ok`**, still under the 3000 soft threshold.
+- **Not batched, deliberately**: the separate open **P3 on `pain-asymbolia.md`** wants its own reciprocal bullet on this same apex against this same 83-word budget. Doing this one length-neutrally leaves that budget **completely untouched** for it. `pain-asymbolia.md` was not opened or modified — confirmed via `git status`.
+- **Attribution — the two files carry different values and were held separately**: apex `ai_system: claude-opus-4-8`, topic `ai_system: claude-opus-4-6`. **Not harmonised, not overwritten with the editing model** — adding a cross-link is not re-authoring. Verified byte-exact via `cat -A`: no `[1m]` ANSI artifact, neither converted to a YAML list. `ai_modified` bumped on each from a live `date -u`; **`last_deep_review` left alone on both** (2026-07-19 apex, 2026-07-17 topic).
+- **Link resolution**: both new `[[slug]]` links written in plain-slug form so the converter maps them to their real sections; both confirmed resolving by a clean sync (a broken wikilink in a synced content article hard-fails pre-push and silently skips the push, so this was checked rather than assumed).
+- **Changes**: 1 wikilink laid over existing apex prose (0-word delta); 1 Further Reading bullet on the topic (+65 words); `ai_modified` on both.
+- **Published**: yes — synced; not committed; `todo.md` not edited.
 
 ## 2026-07-30 18:24 UTC - deep-review
 - **Status**: Success (citation-led pass; independence over-claim narrowed, two apparatus defects fixed)

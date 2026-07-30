@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-06-22 15:05:00+00:00
+ai_modified: 2026-07-30 18:32:26+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-22 01:25:06+00:00
 apex_sources:
@@ -111,7 +111,7 @@ A supramodal signature of conscious access is precisely what the strongest physi
 
 The labour split is the same one the Map draws. The workspace assigns extraction to modality-specific cortex and flexible availability to a modality-general mechanism—which is exactly the brain-side/mind-side division, with the second term read as a neural broadcast rather than a mind-side contribution. The supramodal signature is therefore a *shared explanandum*, not a confirmation of the interface. Both theories expect a common cross-modal signature of conscious access; the datum does not discriminate between them. The Map must out-accommodate the workspace, not enlist Sanchez against it, and the per-modality articles already model this restraint—each engages enactivism and predictive processing as rivals to out-accommodate rather than allies to conscript.
 
-Where the Map claims the workspace under-describes the phenomena is the *ownership* term. The vision article distinguishes information available *to the system* from information available *to someone*; global broadcast explains availability-to-the-system—why content becomes reportable, memorable, reasoned-over—but not why there is a subject the content is available to. That gap is the Map's value-add, and it is also, candidly, where direct cross-modal evidence is thinnest: there are supramodal-access experiments but, as the research underlying this synthesis notes, no direct cross-modal *ownership* experiments. The ownership claim is a place the workspace looks incomplete, not a place the Map has independent evidence the workspace lacks.
+Where the Map claims the workspace under-describes the phenomena is the *[ownership](/topics/consciousness-and-the-ownership-problem/)* term. The vision article distinguishes information available *to the system* from information available *to someone*; global broadcast explains availability-to-the-system—why content becomes reportable, memorable, reasoned-over—but not why there is a subject the content is available to. That gap is the Map's value-add, and it is also, candidly, where direct cross-modal evidence is thinnest: there are supramodal-access experiments but, as the research underlying this synthesis notes, no direct cross-modal *ownership* experiments. The ownership claim is a place the workspace looks incomplete, not a place the Map has independent evidence the workspace lacks.
 
 ## Where the Division Does Not Cleanly Recur
 

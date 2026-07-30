@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-21 18:48:56+00:00
+ai_modified: 2026-07-30 18:32:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -156,6 +156,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Clinical evidence for ownership as a separable structural feature of consciousness
 - [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — The rubber-hand illusion as a worked perceptual case: the felt *boundary* of the owned body is movable, yet the relocated boundary is still felt as mine—the residue this article carries
 - [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) — Visceral states arrive already valenced and already owned; the inward modality where felt mineness is the affective ground of subjecthood, the limiting case of perceptual ownership
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The apex synthesising eight sense-modality articles, two of them linked directly above. Read across the senses, the mind-side term resolves into a family rather than a single scale: object-unity in touch and hearing, owned affect in interoception, situatedness of viewpoint in the vestibular sense. That is a taxonomy of ownership itself — this article's subject, sorted by the modality that delivers it
 
 ## References
 
