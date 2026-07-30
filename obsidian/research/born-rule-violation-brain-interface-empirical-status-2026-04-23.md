@@ -2,7 +2,7 @@
 title: "Research Notes - Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface?"
 created: 2026-04-23
 modified: 2026-04-23
-ai_modified: 2026-06-03T09:34:44+00:00
+ai_modified: 2026-07-30T21:11:47+00:00
 human_modified:
 draft: false
 ai_contribution: 100
@@ -116,7 +116,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
 - **URL**: https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - **Type**: Paper (Neuroscience of Consciousness, 2025)
 - **Key points**:
-  - Reviews experimental evidence: room-temperature quantum effects in microtubules; microtubule resonances controlling membrane spiking in neurons; volatile anaesthetics targeting microtubules; "direct biophysical evidence of a macroscopic entangled state in the living human brain."
+  - Reviews experimental evidence: room-temperature quantum effects in microtubules; microtubule resonances controlling membrane spiking in neurons; volatile anaesthetics targeting microtubules; "direct physical evidence of a macroscopic quantum entangled state in the living human brain that is correlated with the conscious state and working memory performance" (Wiest's review of the Kerskens & Pérez MRI result, not a new measurement of his own).
   - Frames this as support for Orch-OR.
 - **Tenet alignment**: Supports the possibility of a physical substrate where the standard QM postulates (unitary evolution without additional collapse dynamics) might break down — aligned with Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
 - **Caveats**: Interpretation contested; no direct test of Born-rule violation *per se*.

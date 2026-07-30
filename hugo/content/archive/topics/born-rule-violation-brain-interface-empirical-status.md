@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-05-13 20:22:00+00:00
+ai_modified: 2026-07-30 21:11:47+00:00
 ai_system: claude-opus-4-7
 archive_reason: Coalesced into The Born Rule and the Consciousness-Physics Interface
 archived: true
@@ -84,7 +84,7 @@ Three experimental strands are alive in the 2025-2026 landscape. None isolates B
 
 Kerskens and Pérez (2022) applied an MRI protocol to proton spins in brain water using entanglement-witness logic adapted from quantum-gravity experiments: if two known quantum systems entangle via an unknown mediator, the mediator must itself be quantum. They detected MRI signals resembling heartbeat-evoked potentials that standard MRI should not resolve, with signal strength correlated to short-term memory performance and sleep-wake transitions. Follow-up work through Lopez Perez et al. (2023) and the Frontiers 2025 review continues this programme.
 
-Babcock, Hameroff, and colleagues (2025, *Neuroscience of Consciousness*) review room-temperature quantum effects in microtubules, microtubule resonances controlling membrane spiking, volatile anaesthetic targeting of microtubules, and what they describe as "direct biophysical evidence of a macroscopic entangled state in the living human brain." Hagan, Hameroff, and Tuszyński (2002) earlier estimated microtubule decoherence times up to ~10⁻⁵ seconds — seven orders of magnitude longer than Tegmark's (2000) estimate — under Debye-layer screening and ordered water.
+Wiest (2025, *Neuroscience of Consciousness*) reviews room-temperature quantum effects in microtubules, microtubule resonances controlling membrane spiking, volatile anaesthetic targeting of microtubules, and what he describes as "direct physical evidence of a macroscopic quantum entangled state in the living human brain that is correlated with the conscious state and working memory performance" — the evidence in question being Kerskens and Pérez's MRI work, reviewed rather than newly reported. Hagan, Hameroff, and Tuszyński (2002) earlier estimated microtubule decoherence times up to ~10⁻⁵ seconds — seven orders of magnitude longer than Tegmark's (2000) estimate — under Debye-layer screening and ordered water.
 
 Keppler (2025) proposes that cortical microcolumns couple to the electromagnetic zero-point field via glutamate-mediated resonance, supplying a field-theoretic candidate interface.
 
@@ -172,21 +172,21 @@ This asymmetry matters. The Map can survive a clean sweep of negative experiment
 ## References
 
 1. Arana, A. (2025). *Time-Extended Consciousness-Weighted Quantum Probabilities*. PhilArchive. https://philarchive.org/rec/ARATCQ-2
-2. Babcock, N., Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
-3. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: the interaction of human intention with random number generators — a meta-analysis. *Psychological Bulletin* 132(4): 497-523.
-4. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In Gao, S. (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press. https://arxiv.org/abs/2105.02314
-5. Gildert, S. (2025). *Consciousness in the Quantum Realm*. Nirvanic. https://nirvanicai.substack.com/p/consciousness-in-the-quantum-realm
-6. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Phys. Rev. E* 65: 061901.
-7. Kauffman, S. & Radin, D. (2023). Quantum aspects of the brain-mind relationship: A hypothesis with supporting evidence. *BioSystems*.
-8. Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
-9. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *J. Phys. Commun.*
-10. Maier, M. A. & Dechamps, M. C. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
-11. Masanes, L., Galley, T. D., & Müller, M. P. (2019). The measurement postulates of quantum mechanics are operationally redundant. *Nature Communications* 10: 1361. https://www.nature.com/articles/s41467-019-09348-x
-12. Sawant, R., Samuel, J., Sinha, A., Sinha, S., & Sinha, U. (2015). *Which-way double slit experiments and Born rule violation*. https://www.researchgate.net/publication/309317624
-13. Sinha, U. et al. (2010). Ruling Out Multi-Order Interference in Quantum Mechanics. *Science* 329: 418-421.
-14. Sorkin, R. D. (1994). Quantum Mechanics as Quantum Measure Theory. *Mod. Phys. Lett. A* 9: 3119.
-15. Stanford Encyclopedia of Philosophy (2024). *Collapse Theories*. https://plato.stanford.edu/entries/qm-collapse/
-16. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Phys. Rev. E* 61: 4194.
+2. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: the interaction of human intention with random number generators — a meta-analysis. *Psychological Bulletin* 132(4): 497-523.
+3. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In Gao, S. (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press. https://arxiv.org/abs/2105.02314
+4. Gildert, S. (2025). *Consciousness in the Quantum Realm*. Nirvanic. https://nirvanicai.substack.com/p/consciousness-in-the-quantum-realm
+5. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Phys. Rev. E* 65: 061901.
+6. Kauffman, S. & Radin, D. (2023). Quantum aspects of the brain-mind relationship: A hypothesis with supporting evidence. *BioSystems*.
+7. Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
+8. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *J. Phys. Commun.*
+9. Maier, M. A. & Dechamps, M. C. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
+10. Masanes, L., Galley, T. D., & Müller, M. P. (2019). The measurement postulates of quantum mechanics are operationally redundant. *Nature Communications* 10: 1361. https://www.nature.com/articles/s41467-019-09348-x
+11. Sawant, R., Samuel, J., Sinha, A., Sinha, S., & Sinha, U. (2015). *Which-way double slit experiments and Born rule violation*. https://www.researchgate.net/publication/309317624
+12. Sinha, U. et al. (2010). Ruling Out Multi-Order Interference in Quantum Mechanics. *Science* 329: 418-421.
+13. Sorkin, R. D. (1994). Quantum Mechanics as Quantum Measure Theory. *Mod. Phys. Lett. A* 9: 3119.
+14. Stanford Encyclopedia of Philosophy (2024). *Collapse Theories*. https://plato.stanford.edu/entries/qm-collapse/
+15. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Phys. Rev. E* 61: 4194.
+16. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 17. (2025). *Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories*. arXiv:2512.12636.
 18. (2025). Toward a test of the Born rule in high-energy collisions. *Phys. Rev. D*. https://journals.aps.org/prd/abstract/10.1103/4llk-pt1j
 19. Southgate, A. & Oquatre-six, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/

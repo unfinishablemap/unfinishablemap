@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-07-30 21:11:47+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-24
-date: '2026-05-26'
+date: '2026-07-30'
 draft: false
 related_articles: []
 title: Research Notes - Quantum Neural Timing Constraints
@@ -256,6 +256,6 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 9. Perry, A. L. (2025). Quantum coherence in neural microtubules: A refined & testable framework for understanding gamma oscillation generation. *SSRN*.
 
-10. Wiest, G., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*.
+10. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*.
 
 11. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263-275.

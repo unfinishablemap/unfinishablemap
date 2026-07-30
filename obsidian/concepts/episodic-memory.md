@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-07-11T20:42:32+00:00
+ai_modified: 2026-07-30T21:11:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -208,4 +208,4 @@ Episodic memory supports all five foundational commitments.
 1. Josselyn, S. A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
 1. Martin, C. B. & Deutscher, M. (1966). Remembering. *Philosophical Review*, 75(2), 161–196.
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
-1. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.

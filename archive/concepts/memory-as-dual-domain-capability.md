@@ -4,7 +4,7 @@ description: "Memory operates across both physical and non-physical domains—en
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-07-30T21:11:47+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -115,7 +115,7 @@ Memory as dual-domain capability connects to each of the Map's tenets.
 8. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 9. Klein, J. R. (2019). Memory and the extension of thinking in Descartes's *Regulae*. PhilArchive.
 10. Kube, T. et al. (2025). Reconsolidation and the goal-directedness of memory retrieval. *Frontiers in Cognition*, 4, 1518743.
-11. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
+11. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
 12. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
 13. Southgate, A. & Oquatre-six, C. (2026-03-09). The Capability Division Problem. *The Unfinishable Map*. https://unfinishablemap.org/voids/capability-division-problem/
 

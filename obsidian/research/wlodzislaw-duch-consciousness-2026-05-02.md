@@ -4,7 +4,7 @@ created: 2026-05-02
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
-ai_modified: 2026-07-27T14:09:36+00:00
+ai_modified: 2026-07-30T21:11:47+00:00
 related_articles:
   - "[[concepts/biological-computationalism]]"
   - "[[concepts/quantum-consciousness]]"
@@ -260,7 +260,7 @@ When writing or revising articles based on this research, follow `obsidian/proje
 - Duch, W. — "Facing the hard question." PhilPapers entry: https://philpapers.org/rec/DUCFTH-4 (full text not accessed this session)
 - Duch, W. — Personal blog (Polish): https://wduch.wordpress.com/
 - Duch, W. — ScienceDirect author page: https://www.sciencedirect.com/author/35242237100/wlodzislaw-duch
-- Wiest, M. et al. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081 (cited here only as the contemporary Penrose-Hameroff-successor against which Duch's position is being tested)
+- Wiest, M. C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081 (cited here only as the contemporary Penrose-Hameroff-successor against which Duch's position is being tested)
 
 ## Integration Status (P1 refine-draft, 2026-05-03)
 
