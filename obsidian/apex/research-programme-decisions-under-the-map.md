@@ -4,7 +4,7 @@ description: "An applied synthesis: given the confidence structure of the Map's 
 created: 2026-06-16
 modified: 2026-06-16
 human_modified: null
-ai_modified: 2026-07-16T07:32:09+00:00
+ai_modified: 2026-07-30T13:13:52+00:00
 draft: false
 topics:
   - "[[falsification-roadmap-for-the-interface-model]]"
@@ -88,7 +88,7 @@ The third direction follows from P-Q9's careful scoping. Self-concealment is "lo
 
 The [[brain-internal-born-rule-testing|brain-internal Born-rule testing]] programme is the load-bearing source here, and it sharpens the design constraint in a way that matters for a research portfolio: because the strict corridor predicts no single-signature anomaly, no *single* brain-internal experiment can refute it. What can move it is *plural and convergent* negative evidence — foreclosing the mechanism-committed realisations (Orch-OR, Penrose-Hameroff family) one by one until the corridor's selection space is squeezed by theoretical supersession rather than by a lone null. The practical implication for the scientist: design for convergence, not for a single decisive shot. A microtubule-coherence result, a levitated-optomechanical collapse-vs-decoherence result, and a brain-to-qubit coupling result are each individually constraining and jointly far more so. The falsification roadmap's six watch-items are, read through the confidence structure, a priority-ordered list precisely because each bears on a mechanism-level position rather than on the pre-committed aggregate null.
 
-This direction also clarifies what *not* to over-invest in. P-Q8 holds at **moderate** confidence that warm-quantum-biology results (cryptochrome, photosynthesis) are "a precedent for the interface, not a licence for it," and flags that "citations of warm-quantum-biology that read as support rather than precedent are calibration drift." Accumulating more warm-biology demonstrations in unrelated systems is therefore low-value for the Map: it re-establishes the precedent the register already grants while doing nothing for the neural case, which P-Q8's shift-condition ties specifically to "a positive coherence-time calculation for the neural case." The precedent is banked; the licence is what is missing — and that routes straight back to Direction 2.
+This direction also clarifies what *not* to over-invest in. P-Q8 holds at **high** confidence that warm-quantum-biology results — narrowed on 2026-07-30 to cryptochrome radical-pair magnetoreception as the surviving pillar, photosynthesis having been returned to an incoherent-transport account by Duan et al. (2017) — are "a precedent for the interface, not a licence for it," and flags that "citations of warm-quantum-biology that read as support rather than precedent are calibration drift." Accumulating more warm-biology demonstrations in unrelated systems is therefore low-value for the Map: it re-establishes the precedent the register already grants while doing nothing for the neural case, which P-Q8's shift-condition ties specifically to "a positive coherence-time calculation for the neural case." The precedent is banked; the licence is what is missing — and that routes straight back to Direction 2.
 
 ## Direction 4: The conceptual work on the mechanism debt
 
@@ -154,3 +154,4 @@ And the positions register entry [[positions/quantum-interface|Quantum Interface
 2. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379.
 4. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
+5. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114

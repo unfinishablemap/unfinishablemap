@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-07-22T21:47:27+00:00
+ai_modified: 2026-07-30T13:13:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **[[radical-pair-magnetoreception|Avian magnetoreception]]** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [[stapp-quantum-mind|quantum Zeno effect]]—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Luo et al., 2025). This establishes that warm Zeno-type quantum effects *can* occur in a specific, specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
 
-**Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** exploits quantum coherence (Fleming et al., 2007), though coherence times are shorter than once thought.
+**Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** was for a decade the third case listed here, on the strength of Engel et al. (2007), and no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
 
 The categorical objection has weakened: selection has propagated biochemical variants whose dynamics involve quantum effects in non-neural tissue, so warm biology is not categorically inhospitable to quantum function. It does not follow that neural systems sustain coherence at consciousness-relevant scales. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] develops the why-might-they-do-this question, but argues from realistic possibility, not actuality, and its bridging premise (that neural problems genuinely demand quantum solutions) is itself contested. The mechanism question stays open.
 
@@ -222,7 +222,7 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 4. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
 5. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 6. Esmaeilpour, K., Bukhteeva, I., Kendall, B., Gingras, M. J. P., Leonenko, Z., & Mielke, J. G. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*. https://doi.org/10.1101/2025.08.23.671929
-7. Fleming, G. R., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
+7. Engel, G. S., Calhoun, T. R., Read, E. L., Ahn, T.-K., Mančal, T., Cheng, Y.-C., Blankenship, R. E., & Fleming, G. R. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446(7137), 782-786.
 8. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 9. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 2025, 1676585.
 10. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
@@ -239,3 +239,4 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 21. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 22. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 23. Bukhteeva, I., Rahman, F. A., Kendall, B., Duncan, R. E., Quadrilatero, J., Pavlov, E. V., Gingras, M. J. P., & Leonenko, Z. (2024). Effects of lithium isotopes on sodium/lithium co-transport and calcium efflux through the sodium/calcium/lithium exchanger in mitochondria. *Frontiers in Physiology*, 15, 1354091. https://doi.org/10.3389/fphys.2024.1354091
+24. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114

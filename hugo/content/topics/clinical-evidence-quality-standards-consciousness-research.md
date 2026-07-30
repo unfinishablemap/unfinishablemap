@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-07-27 17:17:24+00:00
+ai_modified: 2026-07-30 13:13:52+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,7 +134,7 @@ The five standards above must apply to the Map's own empirical claims, including
 
 **Control adequacy.** The "consciousness placebo" problem identified in clinical research applies with equal force here: there is no way to isolate consciousness's quantum contribution from quantum effects that would occur without conscious involvement. Correlations between quantum disruption and consciousness loss (anaesthesia studies) are suggestive but do not exclude classical explanations for the same observations.
 
-**Interpretive range.** Quantum biological effects are established in photosynthesis, enzyme catalysis, and avian magnetoreception — but these operate without any proposed role for consciousness. The interpretive gap between "quantum effects exist in biology" and "consciousness selects quantum outcomes" remains wide. Revised decoherence timescales (Hagan et al., 2002, estimating 10⁻⁵ to 10⁻⁴ seconds versus Tegmark's 10⁻¹³) keep the door open but do not close the argument.
+**Interpretive range.** Quantum biological effects are established in enzyme catalysis and avian magnetoreception — photosynthetic energy transfer, long listed beside them, was returned to an incoherent-transport account by Duan et al. (2017), who measured electronic coherence dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role. The surviving cases operate without any proposed role for consciousness. The interpretive gap between "quantum effects exist in biology" and "consciousness selects quantum outcomes" remains wide. Revised decoherence timescales (Hagan et al., 2002, estimating 10⁻⁵ to 10⁻⁴ seconds versus Tegmark's 10⁻¹³) keep the door open but do not close the argument.
 
 The Map's quantum interaction claims currently rest on convergence across multiple preliminary lines rather than any single strong empirical demonstration. By the standards of this article, the appropriate language is "compatible with" or "suggestive of" — and the Map's [quantum consciousness](/concepts/quantum-consciousness/) and [empirical evidence](/topics/empirical-evidence-for-consciousness-selecting/) articles do use this calibration. The honesty of this position is itself a strength: the Map commits to a framework it finds philosophically compelling while acknowledging that the empirical programme supporting it is young and incomplete.
 
@@ -166,3 +166,4 @@ The Map's quantum interaction claims currently rest on convergence across multip
 14. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 15. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 16. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+17. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114

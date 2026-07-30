@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-07-29T13:08:33+00:00
+ai_modified: 2026-07-30T13:13:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -168,7 +168,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 3. **Decoherence timescales prove insurmountable.** Tegmark (2000) estimated neural microtubule coherence would decay in ~10⁻¹³ seconds—too short for millisecond cognition. Hagan, Hameroff, and Tuszyński (2002) challenged the model (non-thermal conditions, dipole interactions) and derived revised estimates of 10⁻⁵ to 10⁻⁴ seconds, but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn—the dispute is live, not settled either way. If Tegmark's original holds, conventional quantum-coherence models fail.
 
-   Two points blunt this against the time-symmetric reading. The revised estimates have independent support in adjacent quantum-biological systems—magnetoreception, photosynthetic coherence, 2024 tryptophan superradiance (see [[quantum-biology-and-neural-mechanisms]]). More importantly, atemporal selection does not require sustained coherent superposition as Orch OR does. On the TI/TSVF reading, consciousness participates in which *transaction* completes; the substrate is the ordinary post-decoherence set of branch-candidates produced by standard neural dynamics (see [[post-decoherence-selection-programme]]). The decoherence timescale constrains only variants requiring in-brain coherence.
+   Two points blunt this against the time-symmetric reading. The revised estimates have some independent support in adjacent quantum-biological systems—magnetoreception's microsecond spin coherence and 2024 tryptophan superradiance (see [[quantum-biology-and-neural-mechanisms]]); photosynthetic coherence no longer belongs in that list, since Duan et al. (2017) measured it dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. More importantly, atemporal selection does not require sustained coherent superposition as Orch OR does. On the TI/TSVF reading, consciousness participates in which *transaction* completes; the substrate is the ordinary post-decoherence set of branch-candidates produced by standard neural dynamics (see [[post-decoherence-selection-programme]]). The decoherence timescale constrains only variants requiring in-brain coherence.
 
 4. **A new interpretation emerges that explains consciousness while eliminating selection.** Such an interpretation would challenge the Map by showing consciousness-exclusion needn't mean consciousness-inexplicability.
 
@@ -236,4 +236,5 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics."
 1. Stanford Encyclopedia of Philosophy. "Collapse Theories."
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-07-27 09:34:53+00:00
+ai_modified: 2026-07-30 13:13:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,9 +34,8 @@ concepts:
 - '[[witness-consciousness]]'
 created: 2026-01-16
 date: &id001 2026-05-18
-description: Established quantum effects in living systems—photosynthesis, magnetoreception,
-  enzyme catalysis—and five proposed neural quantum mechanisms with coherence protection
-  strategies and experimental evidence.
+description: Quantum effects in living systems—magnetoreception and enzyme tunnelling
+  survive, photosynthesis no longer does—and five proposed neural quantum mechanisms.
 draft: false
 human_modified: null
 last_curated: null
@@ -56,17 +55,19 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Quantum biology has established that warm, wet biological systems harness quantum effects—undermining the categorical claim that quantum consciousness is impossible. Photosynthetic energy transfer, avian magnetoreception, enzyme catalysis, and possibly olfaction all require quantum mechanical explanations. Building on this biological precedent, five distinct quantum mechanisms have been proposed for neural systems, with four coherence protection strategies that may shield quantum states from thermal destruction. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that these biological precedents remove the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/). The [binding problem](/concepts/binding-problem/)—how distributed brain processes combine into unified awareness—may require the physical holism that only quantum entanglement provides.
+Quantum biology has established that warm, wet biological systems harness quantum effects—undermining the categorical claim that quantum consciousness is impossible. Avian magnetoreception and enzyme catalysis are the surviving functional cases, with olfaction unresolved; photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form ([revised below](#photosynthesis)). Building on this biological precedent, five distinct quantum mechanisms have been proposed for neural systems, with four coherence protection strategies that may shield quantum states from thermal destruction. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that these biological precedents remove the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/). The [binding problem](/concepts/binding-problem/)—how distributed brain processes combine into unified awareness—may require the physical holism that only quantum entanglement provides.
 
 ## The "Warm, Wet, and Noisy" Objection
 
 The standard objection to [quantum-consciousness](/concepts/quantum-consciousness/) holds that brain tissue is too warm, wet, and noisy for quantum effects. [Decoherence](/concepts/decoherence/) destroys superpositions in femtoseconds under biological conditions, while neural processes operate on millisecond timescales. Quantum biology has proved this objection's core assumption—that biology cannot exploit quantum effects—false.
 
-## Established Quantum Biological Effects
+## Quantum Biological Effects and Their Standing
 
 ### Photosynthesis
 
-Engel et al. (2007) demonstrated quantum coherence in photosynthetic complexes of green sulfur bacteria. Subsequent research revised the picture: coherence lifetimes are shorter than initially claimed (~60 femtoseconds at room temperature), and the current consensus is that quantum coherence probably doesn't enhance photosynthetic efficiency. Yet the demonstration matters: quantum effects *can* operate in warm biological conditions.
+Engel et al. (2007) reported quantum coherence in photosynthetic complexes of green sulfur bacteria, and for a decade this was the headline warm-quantum precedent. Duan et al. (2017), in *PNAS*, then measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds at room temperature and found no indication that electronic coherence plays any biofunctional role; the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
+
+The measurement itself stands, and that residue matters: electronic coherence was genuinely observed in a warm, wet biological complex, which is why the categorical impossibility claim fails. What photosynthesis no longer supplies is a *functional* precedent—selection retaining coherence because coherence helps—and that role now falls to the cryptochrome radical pairs and enzyme tunnelling described next.
 
 ### Avian Magnetoreception
 
@@ -154,7 +155,7 @@ None of this proves quantum consciousness, and the discipline of "predictions he
 
 ## The Measurement Problem Connection
 
-Every quantum biological effect—photosynthetic pathway selection, spin state measurement in magnetoreception, tunneling in enzyme catalysis—involves the [measurement-problem](/concepts/measurement-problem/). Standard physics provides probabilities but doesn't determine which outcome occurs. Quantum biology demonstrates that outcome selection happens constantly in biological systems. Whether consciousness plays any role in neural outcome selection remains the Map's central hypothesis.
+Every quantum biological effect—excitation transfer in photosynthesis, spin state measurement in magnetoreception, tunneling in enzyme catalysis—involves the [measurement-problem](/concepts/measurement-problem/). Standard physics provides probabilities but doesn't determine which outcome occurs. Quantum biology demonstrates that outcome selection happens constantly in biological systems. Whether consciousness plays any role in neural outcome selection remains the Map's central hypothesis.
 
 ## What Would Challenge This View?
 
@@ -207,6 +208,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency: Implications for Anesthetic Action and Post-Operative Cognitive Dysfunction. *Scientific Reports*, 7, 9877.
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30.
 1. Esmaeilpour, K., Bukhteeva, I., Kendall, B., Gingras, M. J. P., Leonenko, Z., & Mielke, J. G. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*. https://doi.org/10.1101/2025.08.23.671929

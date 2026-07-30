@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-07-27 15:04:18+00:00
+ai_modified: 2026-07-30 13:13:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -119,7 +119,7 @@ See [decoherence](/concepts/decoherence/) for comprehensive analysis. Two distin
 
 Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions. The decoherence objection targets this empirical claim directly.
 
-**Biology exploits quantum effects, but the neural case is unproven.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/), photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
+**Biology exploits quantum effects, but the neural case is unproven.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/) (spin coherence) and enzyme catalysis (tunnelling) exploit quantum effects in warm biological systems. Photosynthetic energy transfer no longer belongs on that list: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
 
@@ -245,6 +245,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive* (preprint; not peer reviewed).
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
 1. Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
 1. Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.

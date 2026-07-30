@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 08:14:10+00:00
+ai_modified: 2026-07-30 13:13:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -152,7 +152,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters; quantum biology (photosynthetic light-harvesting, avian magnetoreception) shows that functionally relevant quantum effects can occur in warm, wet systems. That precedent establishes that warm-wet biology is not a blanket barrier to quantum effects—but it is precedent, not licence: the photosynthetic cases involve femtosecond-to-picosecond coherence at engineered chromophore sites, and nothing in them shows that the much longer-lived, neuron-scale coherence interactionism would need is realised in the brain. The work of arguing for that remains to be done. Crucially, [decoherence](/concepts/decoherence/) explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [amplification void](/voids/amplification-void/). The Map takes no position on which quantum mechanism is *correct*, only that some interface exists — though it prefers the post-decoherence-selection framing on tenet-fit grounds (see the [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)), precisely because it does not require coherence to survive the decoherence the objection invokes.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters; quantum biology shows that functionally relevant quantum effects can occur in warm, wet systems—the surviving case being avian magnetoreception, since Duan et al. (2017) found photosynthetic light-harvesting to involve electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. That precedent establishes that warm-wet biology is not a blanket barrier to quantum effects—but it is precedent, not licence: cryptochrome's spin coherence persists for microseconds in a purpose-built photoreceptor, and nothing in it shows that the much longer-lived, neuron-scale coherence interactionism would need is realised in the brain. The work of arguing for that remains to be done. Crucially, [decoherence](/concepts/decoherence/) explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [amplification void](/voids/amplification-void/). The Map takes no position on which quantum mechanism is *correct*, only that some interface exists — though it prefers the post-decoherence-selection framing on tenet-fit grounds (see the [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)), precisely because it does not require coherence to survive the decoherence the objection invokes.
 
 ## Agent Causation: The Metaphysical Framework
 
@@ -257,6 +257,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Cogitate Consortium; Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*, 642, 133-142. https://doi.org/10.1038/s41586-025-08888-1
 1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
