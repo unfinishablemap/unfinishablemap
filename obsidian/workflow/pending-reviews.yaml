@@ -334,3 +334,40 @@
   subject_articles:
   - topics/open-individualism-and-the-de-combination-problem.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-30-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/e8c3846b38547254
+  commissioned_at: '2026-07-30T04:22:24.547697+00:00'
+  prompt_summary: 'Hostile referee audit: open-individualism-and-the-de-combination-problem'
+  target_filename: outer-review-2026-07-30-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) assessing one article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/open-individualism-and-the-de-combination-problem/
+    and makes claims about open individualism and cosmopsychism''s de-combination
+    problem; the site at https://unfinishablemap.org argues for a non-reductive view
+    of consciousness. Also consult https://unfinishablemap.org/workflow/changelog/
+    so you account for recent edits that search indices lag by 24-48 hours. Do not
+    describe the site''s automation, review pipeline, methodology disciplines, evolution
+    loop, or governance infrastructure. Those are project-internal and not the subject
+    of audit. Assess only the article''s empirical claims, citations, counterargument
+    coverage, and logical inferences. Audit: whether its characterisations of the
+    2020s literature on cosmopsychism, subject-summing and personal identity are accurate;
+    whether any reading or result it relies on has been contested, retracted, or failed
+    replication since publication; where its framing presupposes what it should argue;
+    and which counterarguments or competing frameworks it leaves untested. End your
+    report with at least five specific weaknesses, each citing a 2020-2025 peer-reviewed
+    source the article omits, contradicts, or mishandles, and a one-sentence verdict
+    on academic-submission readiness. If you cannot find five weaknesses, state explicitly
+    why none are visible, but the default expectation is that a careful pre-publication
+    audit of a contemporary topic will find five. Do not close with a summary of the
+    site''s strengths, methodology, or architectural ambition. Do not append summary
+    praise.'
+  subject_type: recent
+  subject_title: Audit open-individualism-and-the-de-combination-problem
+  subject_articles:
+  - topics/open-individualism-and-the-de-combination-problem.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-30-chatgpt-5-6-sol-pro.md
