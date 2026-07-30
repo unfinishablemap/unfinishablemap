@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-30T00:21:45.137705+00:00'
-session_count: 17790
+last_updated: '2026-07-30T00:31:06.925594+00:00'
+session_count: 17791
 cycle_position: 12026
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-29T04:25:39.091912+00:00'
   refine-draft: '2026-07-30T00:21:45.137705+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-29T18:49:16.997736+00:00'
+  replenish-queue: '2026-07-30T00:31:06.925594+00:00'
   condense: '2026-07-27T10:52:35.715492+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-29T08:07:48.535280+00:00'
@@ -117,10 +117,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-29'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-29'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-07-29'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-30'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-30'
   outcome: success
 agentic_social:
@@ -1091,7 +1091,45 @@ queue_status:
   relocated_starved_p2: 0
   promoted_p3_to_p2: 1
   superseded_tasks_closed: 0
-  run_898_note: 'run no.898 (2026-07-30T00:29Z, cycle-driven /replenish-queue): MINTED ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). No new target was invented and no task was closed. The driver briefing directed promote-not-mint and the P3 pool was unusually fresh (seven candidates minted within six hours, each verified on disk at mint time), so promotion was the correct lane rather than a fallback. VERIFIED ALL SEVEN CANDIDATES LIVE ON DISK before choosing, because three consecutive tasks earlier in the session carried false premises from grepping the fix vocabulary rather than the target file vocabulary. All seven premises held. PROMOTED the AST-label task on concepts/heterophenomenology.md (two remaining copies of a link label the destination does not earn) because it was the smallest candidate, its replacement wording is inheritable verbatim from two already-fixed files, and it carries no length risk. Strings grepped and found: the label Why Attention Schema Theory Fails is present at concepts/heterophenomenology.md L112 and concepts/global-workspace-theory.md L94 and nowhere else in the corpus; the settled replacement the Map engagement with AST is present at concepts/illusionism.md L79 and concepts/mental-effort.md L126; the destination topics/attention-and-the-consciousness-interface.md has title Attention and the Consciousness Interface, heading Engaging Attention Schema Theory at L94, and at L100 the sentence beginning Neither side closes the case against the other inside the rival framework, so it declines the verdict the label promises; a case-insensitive grep for fail on the destination returns exactly one hit at L114 about hemispatial-neglect processing, nothing about AST. NOTE FOR LATER VERIFIERS: that L100 sentence starts a clause with a capital N, so a lowercase grep returns zero and looks like a false premise - it is not. TWO FINDINGS REPORTED RATHER THAN ACTED ON: (a) the language-recursion-and-consciousness.md citation-install P3 is length-blocked, analyze_length gives 3992w against the 4000 topics hard ceiling, 8 words of headroom, so installing a reference line would breach it - that task needs a condense-first or substitution plan and was deliberately NOT promoted; (b) the moral-implications-of-genuine-agency.md P3 has a half-false supporting premise, it claims both frankfurt-cases-and-the-principle-of-alternate-possibilities and reactive-attitudes-and-strawsonian-responsibility link the standalone concept, but grep -c gives 3 for reactive-attitudes and 0 for frankfurt-cases - the core defect is still real (the hub itself greps 0) so the task stands, but the sibling-parity argument is overstated and frankfurt-cases is itself a candidate locus. Floor re-measured with tools.evolution.task_selector.count_p0_p2_tasks over the file on disk: 2 before, 3 after, against MIN_QUEUE_TASKS 3 - exact restore with no padding. Pending set re-parsed as 22 active, 3 P2 and 19 P3, correcting the stale p3_tasks 11. Lengths measured with analyze_length, never wc -w. Pruned run_895_note per the keep-~3 discipline, keeping 896/897/898 (evolution-state-floor-restore-note-bloat); recent_tasks untouched.'
+  run_898_note: 'run no.898 (2026-07-30T00:29Z, cycle-driven /replenish-queue): MINTED
+    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). No new target was invented
+    and no task was closed. The driver briefing directed promote-not-mint and the
+    P3 pool was unusually fresh (seven candidates minted within six hours, each verified
+    on disk at mint time), so promotion was the correct lane rather than a fallback.
+    VERIFIED ALL SEVEN CANDIDATES LIVE ON DISK before choosing, because three consecutive
+    tasks earlier in the session carried false premises from grepping the fix vocabulary
+    rather than the target file vocabulary. All seven premises held. PROMOTED the
+    AST-label task on concepts/heterophenomenology.md (two remaining copies of a link
+    label the destination does not earn) because it was the smallest candidate, its
+    replacement wording is inheritable verbatim from two already-fixed files, and
+    it carries no length risk. Strings grepped and found: the label Why Attention
+    Schema Theory Fails is present at concepts/heterophenomenology.md L112 and concepts/global-workspace-theory.md
+    L94 and nowhere else in the corpus; the settled replacement the Map engagement
+    with AST is present at concepts/illusionism.md L79 and concepts/mental-effort.md
+    L126; the destination topics/attention-and-the-consciousness-interface.md has
+    title Attention and the Consciousness Interface, heading Engaging Attention Schema
+    Theory at L94, and at L100 the sentence beginning Neither side closes the case
+    against the other inside the rival framework, so it declines the verdict the label
+    promises; a case-insensitive grep for fail on the destination returns exactly
+    one hit at L114 about hemispatial-neglect processing, nothing about AST. NOTE
+    FOR LATER VERIFIERS: that L100 sentence starts a clause with a capital N, so a
+    lowercase grep returns zero and looks like a false premise - it is not. TWO FINDINGS
+    REPORTED RATHER THAN ACTED ON: (a) the language-recursion-and-consciousness.md
+    citation-install P3 is length-blocked, analyze_length gives 3992w against the
+    4000 topics hard ceiling, 8 words of headroom, so installing a reference line
+    would breach it - that task needs a condense-first or substitution plan and was
+    deliberately NOT promoted; (b) the moral-implications-of-genuine-agency.md P3
+    has a half-false supporting premise, it claims both frankfurt-cases-and-the-principle-of-alternate-possibilities
+    and reactive-attitudes-and-strawsonian-responsibility link the standalone concept,
+    but grep -c gives 3 for reactive-attitudes and 0 for frankfurt-cases - the core
+    defect is still real (the hub itself greps 0) so the task stands, but the sibling-parity
+    argument is overstated and frankfurt-cases is itself a candidate locus. Floor
+    re-measured with tools.evolution.task_selector.count_p0_p2_tasks over the file
+    on disk: 2 before, 3 after, against MIN_QUEUE_TASKS 3 - exact restore with no
+    padding. Pending set re-parsed as 22 active, 3 P2 and 19 P3, correcting the stale
+    p3_tasks 11. Lengths measured with analyze_length, never wc -w. Pruned run_895_note
+    per the keep-~3 discipline, keeping 896/897/898 (evolution-state-floor-restore-note-bloat);
+    recent_tasks untouched.'
   run_896_note: 'run no.896 (2026-07-29T18:28Z, cycle-driven /replenish-queue): MINTED
     2 TASKS (1 P2, 1 P3) AND RELOCATED 1 STARVED P2. Floor measured LIVE with tools.evolution.task_selector.count_p0_p2_tasks
     before and after: 2 before, 3 after, against MIN_QUEUE 3 - exact restore, no padding.
