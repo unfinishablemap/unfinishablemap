@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-07-30T19:47:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-07-14T21:57:02+00:00
+last_deep_review: 2026-07-30T19:47:42+00:00
 coalesced_from:
   - "/topics/why-phenomenal-unity-resists-explanation/"
   - "/topics/quantum-binding-and-phenomenal-unity/"
@@ -49,17 +49,17 @@ coalesced_from:
 
 ## The Structure of the Problem
 
-The [[binding-problem|binding problem]] distinguishes two challenges. BP1 asks how the brain correctly assigns features to objects—how "red" and "round" get tagged as belonging to the same apple. This is a neural engineering problem that neuroscience is making progress on. BP2 asks why correctly bound features constitute *one* unified experience rather than parallel processes that happen to be coordinated. BP2 remains untouched despite decades of research.
+The [[binding-problem|binding problem]] distinguishes two challenges (Revonsuo 1999). BP1 asks how the brain correctly assigns features to objects—how "red" and "round" get tagged as belonging to the same apple. This is a neural engineering problem that neuroscience is making progress on. BP2 asks why correctly bound features constitute *one* unified experience rather than parallel processes that happen to be coordinated. BP2 remains untouched despite decades of research.
 
 The reason BP2 resists solution is structural. Classical physics describes the world in terms of *external relations*: parts alongside parts, events following events, signals between systems. Nothing in this ontology provides for genuine wholes. What we call "wholes" in ordinary physics are collections of parts—convenient labels for arrangements that remain, at bottom, multiplicities: a rock is many atoms, a brain many neurons.
 
-Phenomenal unity is different. Your experience of seeing red while hearing music while feeling your chair is one experience with three aspects, not three experiences that happen to coincide. This unity is constitutive of what the experience is, not ascribed from outside: there is something it is like to have *all of them together* irreducible to what it is like to have each separately. For a comprehensive taxonomy of binding varieties—intra-modal, cross-modal, temporal, cognitive, and subject binding—see [[the-binding-problem|The Binding Problem]].
+Phenomenal unity is different. Your experience of seeing red while hearing music while feeling your chair is one experience with three aspects, not three experiences that happen to coincide. This unity is constitutive of what the experience is, not ascribed from outside: there is something it is like to have *all of them together* irreducible to what it is like to have each separately (Bayne & Chalmers 2003). For a comprehensive taxonomy of binding varieties—intra-modal, cross-modal, temporal, cognitive, and subject binding—see [[the-binding-problem|The Binding Problem]].
 
 ## Why Classical Mechanisms Fail
 
 ### Synchrony
 
-The most prominent neural account holds that features belonging to the same object are bound through synchronised gamma-band oscillations (30-100 Hz). Neurons representing "red" and neurons representing "round" fire in phase when perceiving a red apple, tagging their outputs as belonging together.
+The most prominent neural account (Singer 1999) holds that features belonging to the same object are bound through synchronised gamma-band oscillations (30-100 Hz). Neurons representing "red" and neurons representing "round" fire in phase when perceiving a red apple, tagging their outputs as belonging together.
 
 This explains computational binding—how the brain correctly groups features. But synchronised firing is still many neurons firing—each a separate physical system, and firing at the same time does not make them one system. Consider an orchestra: when members play in precise synchrony they produce a unified phrase, yet there is no *additional* physical event—"the phrase"—over and above the individual sounds. Were phenomenal unity like this, it would be a pattern we attribute to neural activity rather than a feature of consciousness itself—yet unity is experienced from inside, not attributed from outside.
 
@@ -69,7 +69,7 @@ This explains computational binding—how the brain correctly groups features. B
 
 ### Information Integration
 
-[[integrated-information-theory|Integrated Information Theory (IIT)]] proposes that consciousness *is* information integration, measured as Φ. Unity, on this view, just *is* integration.
+[[integrated-information-theory|Integrated Information Theory (IIT)]] proposes that consciousness *is* information integration, measured as Φ (Tononi 2008). Unity, on this view, just *is* integration.
 
 This approach avoids the derivation problem by stipulation: unity and integration are defined as identical. But definitional solutions relabel rather than explain. Why should information integration produce phenomenal unity? IIT answers: because that is what phenomenal unity *is*—leaving a brute correlation.
 
@@ -99,7 +99,7 @@ When quantum systems become entangled, they form a whole with properties that ne
 
 This matches phenomenal unity's structure. Experience does not feel assembled from separate quale-atoms and then unified; it comes as a whole from the ground up—the redness of the apple and the sound of music are aspects of *one* experience, not two experiences later bound.
 
-If microtubules in neurons sustain entangled quantum superpositions, and each objective reduction (collapse) of that entangled state constitutes a moment of experience, then the phenomenal unity of that experience would *correspond to* the quantum unity of the underlying state.
+If microtubules in neurons sustain entangled quantum superpositions, and each objective reduction (collapse) of that entangled state constitutes a moment of experience—Hameroff and Penrose's Orch OR proposal (2014)—then the phenomenal unity of that experience would *correspond to* the quantum unity of the underlying state.
 
 Unlike IIT's definitional move—stipulating that integration *is* unity—the quantum proposal makes a structural claim: where IIT relabels integration as unity, quantum holism points to something that is genuinely one thing rather than many coordinated things. This correspondence may hold, but it remains one candidate among several rather than an established result: the present evidence does not adjudicate between a quantum-holistic reading and a classical-integration account of how unity arises, and the quantum-holism reading is posited on tenet grounds (Minimal Quantum Interaction) rather than forced by the data.
 
@@ -149,7 +149,7 @@ Warren (2023) challenged the interpretation on methodological grounds, arguing t
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] deny that phenomenal unity exists. What we call unified experience is a misrepresentation by introspective systems. If correct, this dissolves the unity problem by eliminating the explanandum.
+[[illusionism|Illusionists]] (Frankish 2016) deny that phenomenal unity exists. What we call unified experience is a misrepresentation by introspective systems. If correct, this dissolves the unity problem by eliminating the explanandum.
 
 Three considerations weigh against illusionism here:
 
@@ -212,8 +212,8 @@ The Map holds that the quantum position remains a realistic candidate—motivate
 
 ## References
 
-1. Baum, E. The Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive*.
-1. Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
+1. Baum, E. (2024). The Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive* (preprint).
+1. Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation* (pp. 23-58). Oxford University Press.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
@@ -227,11 +227,10 @@ The Map holds that the quantum position remains a realistic candidate—motivate
 1. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
-1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule nanowire. *ACS Nano*, 14(2), 2217-2227.
 1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 1. Singer, W. (1999). Neuronal Synchrony: A Versatile Code for the Definition of Relations? *Neuron*, 24(1), 49-65.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-1. Tononi, G. (2008). Consciousness as integrated information. *Biological Bulletin*, 215, 216-242.
+1. Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216-242.
 1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162.
 1. Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.
-1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
