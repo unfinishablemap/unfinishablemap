@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T04:34:00+00:00'
+ai_modified: '2026-07-30T04:53:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 04:53 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: `[[reviews/outer-review-2026-07-30-gemini-2-5-pro]]`
+- **Subject**: `topics/open-individualism-and-the-de-combination-problem.md` (`subject_type: recent`, `subject_source: reuse:pending-reviews:outer-review-2026-07-30-chatgpt-5-6-sol-pro.md`) — third and final leg of the 2026-07-30 triple, so all three entries for the cycle date are now resolved and `/combine-outer-reviews` is eligible.
+- **Extraction**: 30,120 chars / 30,249 bytes, `js-dom`, transferred by in-page Blob download and confirmed **byte-identical** by SHA-256 (`098c5556…2751`) rather than re-typed through the model context. Body left in place at `tmp/collect-gemini-body-2026-07-30.md`. Collected at ~22 min after commission — faster than the Claude leg's 13m18s/267-source run would have predicted. Response complete and stable across a 3s re-poll; closes on the required one-sentence verdict.
+- **Claims verified**: 24 Map-attributed spans checked — 7 verbatim in the subject article, 7 verbatim but located in *sibling* articles, 10 altered/fused/absent including **3 outright fabrications**; 6 external citations left unverified (see the review file's `## Verification Notes`)
+- **High-value findings**: 1 (the post-2019 bibliography freeze), and it independently reproduces the ChatGPT leg rather than adding to it
+- **Tasks generated**: 0 — deliberate. Five tasks already target this file (4×P1, 1×P2) from the two earlier legs and the article has ~86 words of margin under its 3000-word soft cap. Every surviving finding duplicates one of the five; the convergence upgrade is `/combine-outer-reviews`' job.
+- **Verdict**: REJECT ("categorically unfit for academic publication"). The verdict is not supportable as written, because the reasoning behind it is substantially aimed at articles the referee was not asked to review.
+- **Principal defect — two-fifths of the report audits the wrong articles**: weaknesses #2 (McQueen & Tsuchiya / IIT), #3 (Bird 2023), #5 (Beni 2025) and two entire body sections describe material with **zero** occurrences in the subject article (`IIT`, `Integrated Information`, `Tsuchiya`, `van Inwagen`, `Merricks`, `Bird`, `Beni`, `compression` all grep 0). The quoted prose is genuine Map text from `[[mereology-of-mind]]`, `[[consciousness-and-the-metaphysics-of-composition]]` and `[[composition-question-rivals]]`, silently folded into "the manuscript". Misattribution, not invention — but the "scholarly malpractice" and "sleight-of-hand" charges land on a composite manuscript the referee assembled.
+- **Three fabricated attributions**: (a) **`"distinct-subjects fact"`**, the report's central quoted term, used 4× including nested inside another quotation — 0 occurrences in the article, which says `Open individualism collapses exactly that fact`; the circularity charge is built on a label the referee coined and then quoted back as the Map's own. (b) **`"standard, honest trade"`** — 0 in the article and 0 in any live article; it appears only in the article's private research note. (c) **a changelog note calling animalism a `"cluster gap"`** — no such note exists; every `cluster gap` hit in the repo is an unrelated `/replenish-queue` apex-cluster annotation. Also `"causal-interface void"` is attributed to the article but greps 0 there, and `around organised [sic] life` misquotes a span that really ends `organised, integrated systems` (the `[sic]` is misapplied — the British spelling is the source's).
+- **What genuinely holds**: the bibliography freeze is real and corroborated independently — latest external year cited is 2019, `grep -c onab020` = 0 while `grep -c Shani` = 4 (2015 and 2018 cited, 2022 not). Weakness #4 (hylomorphic animalism absent; `grep -ic animalis` = 0 in the article) is also a fair hit, but is already carried by an open P1 whose notes name animalism explicitly.
+- **Prompt-scope violation**: the commission expressly barred describing the site's automation, review pipeline, methodology disciplines, evolution loop or governance. The report breaches this twice — claiming to have audited "recent changelogs regarding the broader project's methodological evolution" to find "a persistent systemic vulnerability", and the confabulated animalism changelog note. The second is also false.
+- **Calibration**: across the triple, attribution discipline ran ChatGPT 6 verbatim / 5 not (the 5 scope creep), Claude 15 / 0, Gemini 7 / 17 with 3 fabrications. Confirms the known `outer-review-fabricates-target-quotes` failure mode: hostile Gemini Deep Research is a lead generator whose every Map-attributed quotation must be grep-verified before it is acted on.
 
 ## 2026-07-30 04:34 UTC - outer-review
 - **Status**: Success

@@ -339,9 +339,9 @@
   commissioned_at: '2026-07-30T04:22:24.547697+00:00'
   prompt_summary: 'Hostile referee audit: open-individualism-and-the-de-combination-problem'
   target_filename: outer-review-2026-07-30-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-30T04:51:01.877339+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) assessing one article for submission.
