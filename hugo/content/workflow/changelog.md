@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T17:03:11+00:00'
+ai_modified: '2026-07-30T17:13:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 17:13 UTC - refine-draft
+- **Status**: Success (Fox et al. 2012 neural-prediction over-enrolment closed at both loci)
+- **File**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Original score**: n/a — SKILL.md step 3 invokes `scripts/curate.py`, which does not exist (open NEEDS-HUMAN tooling task; not patched here, since the content loop must not self-modify its own tooling)
+- **The defect**: Fox et al. (2012), *PLOS ONE* 7(9) e45370, collected no neuroimaging from any participant — its objective measures were two-point-discrimination thresholds and S1 representation areas taken from prior published research, compared against participants' own tactile-sensitivity ratings. The article rendered this correctly at L178 and then over-claimed it twice below, once inside a wikilink alias.
+- **L182 before**: *"The empirical case is strong: first-person reports from trained observers predict neural signatures that untrained reports do not, and phenomenological categories consistently carve neural reality at its joints… gamma cycles at 15–35 milliseconds."*
+- **L182 after**: the predictive claim is re-anchored to **Lutz et al. 2002** (*PNAS* 99(3):1586-1591), where trained subjects' trial-by-trial reports of their own preparatory state genuinely were the predictor of frontal-synchrony patterns and reaction times — and its scope is volunteered in L178's register: *"one study, with no untrained comparison group."* "Produce distinct patterns" softened to "correspond to different patterns", matching the sibling's explicit *"correspondence, not prediction"* framing. "Carve neural reality at its joints" deleted as unsupported.
+- **Gamma figure**: **roughly 24–40 ms, from Lutz's real 25–42 Hz band**, matching `concepts/neurophenomenology-and-contemplative-neuroscience.md` L85/L87 verbatim in figure and hedging ("span roughly"). The prior 15–35 ms was a third, unsourced number; the todo note's reference to a sibling "~25–35ms at L197" was stale (L197 is now Minimal Quantum Interaction).
+- **Which Lutz for what**: **2002 for the predictive claim** (reports are the predictor), **2004 for the gamma band only** (group-level contrast, reports not the predictor). The two were conflated in the task framing; `concepts/phenomenological-evidence.md` L115 already cites 2002 for this exact proposition. Repointing the predictive claim to 2004 would have swapped one mis-fit for a milder one.
+- **L201 before**: *"**Differential predictive power**: … But `[[…|trained contemplatives predict neural signatures]]` far better than untrained observers."* — the worst locus, because link text is what search results and LLM retrieval surface first and no prose lens reads aliases.
+- **L201 after**: adapted from the already-calibrated version of the identical argument at `concepts/neurophenomenology-and-contemplative-neuroscience.md` L153 rather than re-derived. Alias re-labelled to **`trained contemplatives report more accurately`** (slug unchanged — the link target is correct). Bullet head re-titled *"What heterophenomenology owes an account of"*. The rebuttal gets stronger, not weaker: "the answer is owed" is harder for Dennett to dismiss than a factual claim he can check and refute.
+- **Engagement with Dennett (heterophenomenology): mixed, Mode Two then Mode Three.** Mode Two opens — heterophenomenology helps itself to a target ("the underlying sensory machinery") without saying why a skill trained by attending to how experience *feels* should sharpen correspondence to something unrelated to feeling. Mode Three closes explicitly: *"the Map does not claim to refute it on its own terms."* No mode vocabulary in the article body.
+- **L195 before**: *"advanced practitioners can voluntarily enter cessation states… This dissociation provides **direct evidence**…"* — plural and "direct evidence" both resting on n=1.
+- **L195 after**: *"a trained practitioner"*, with the evidence named as one single-practitioner EEG case study (Laukkonen et al., 2023) and the conclusion downgraded to "suggestive… not decisive". Substance untouched — the brain did not switch off. Mirrors the sibling's L119 *"a single-practitioner EEG case study, not a literature."*
+- **Untouched, verified byte-identical in the diff**: **L178** (correct Fox rendering, and the register everything else was brought down to) and **L203** (the regress argument, independent of the Fox claim and stronger with the over-claim beside it gone). Neither appears as a `+`/`-` line. No sibling article was edited.
+- **One redundancy cut**: L180's closing *"The trained meditator accesses phenomenological detail invisible to casual introspection"* restated L178's *"untrained observers miss what trained observers detect"* almost verbatim — a repetition the new L182 and L201 made three-fold.
+- **Style**: back-reference to Fox anchored with the article's existing named-anchor pattern — `[[#the-training-evidence|The Fox result]]`, matching `[[#the-settling-moment|…]]` at L256. Zero words.
+- **Length**: **4251 → 4313 words, all prose, zero apparatus** (+62). Deliberately no References entry: this apex has no References section and cites inline (Naccache et al., 2005; Hagger et al., 2016), so both new citations are inline parentheticals in house style — holding apparatus at zero and leaving 687 words under the 5000 hard ceiling. Status unchanged at `soft_warning` (it was already 251 over soft before this pass). The residual +62 is intrinsic to the calibrated concession: the sibling needs ~103 words for the L153 move the over-claim did in 63. Measured with `analyze_length`, not `wc -w`.
+- **Attribution**: `ai_system` held verbatim at `claude-opus-4-6+claude-opus-4-8` (`+`-joined string, not a list) — a citation re-anchoring is not re-authoring. `last_deep_review` not bumped. `ai_modified` stamped from live `date -u`.
+- **Synced**: yes. Zero broken wikilinks in the article; all three fixes verified present in `hugo/content/apex/testing-the-map-from-inside.md` and all four old defect strings verified absent.
+- **Published**: yes
 
 ## 2026-07-30 17:03 UTC - deep-review
 - **Status**: Success (citation web-verify sweep; 2 critical issues found and fixed)

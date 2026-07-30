@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-28 17:41:53+00:00
+ai_modified: 2026-07-30 17:13:23+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
@@ -184,9 +184,9 @@ The tests above may have produced clear results or muddy ones. A critical questi
 
 Fox et al. (2012) found meditation experience predicts introspective accuracy following a logarithmic learning curve—the same pattern seen in other skill acquisition. In their study, no novice meditators showed high accuracy while experienced practitioners reliably detected subtle phenomenological distinctions. This is one study, not definitive proof, but it suggests introspection resembles other trained observations: untrained observers miss what trained observers detect.
 
-The practical implication: if your first attempts at these tests produce muddy results, don't conclude the phenomena aren't there. Introspective skill develops. The trained meditator accesses phenomenological detail invisible to casual introspection.
+The practical implication: if your first attempts at these tests produce muddy results, don't conclude the phenomena aren't there. Introspective skill develops.
 
-[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) takes this seriously—treating trained contemplatives as an "ideal population" for consciousness research. The empirical case is strong: first-person reports from trained observers predict neural signatures that untrained reports do not, and phenomenological categories consistently carve neural reality at its joints. Distinct meditation states produce distinct patterns of [gamma synchrony](/concepts/neurophenomenology-and-contemplative-neuroscience/), default mode suppression, and network reorganisation—with gamma cycles at 15–35 milliseconds potentially marking the temporal grain of conscious moments that Buddhist traditions describe as *khanika* (momentariness). The assumption isn't that reports are infallible but that practice refines access to what's there.
+[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) takes this seriously—treating trained contemplatives as an "ideal population" for consciousness research. Where first-person reports have earned predictive status, the result is narrow: subjects trained to report their own preparatory state gave trial-by-trial reports predicting frontal-synchrony patterns before stimulus onset, and reaction times (Lutz et al., 2002)—one study, with no untrained comparison group. Distinct meditation states correspond to different patterns of [gamma synchrony](/concepts/neurophenomenology-and-contemplative-neuroscience/), default mode suppression, and network reorganisation—gamma cycles in Lutz's 25–42 Hz band span roughly 24–40 milliseconds, potentially the temporal grain of conscious moments that Buddhist traditions describe as *khanika* (momentariness). The assumption isn't that reports are infallible but that practice refines access to what's there.
 
 ### What Training Reveals
 
@@ -199,13 +199,13 @@ Contemplative traditions report consistent findings across cultures:
 
 If these reports converge across independent traditions—Buddhist, Hindu, Christian contemplative, [Sufi](/concepts/islamic-sufi-philosophy-of-consciousness/), and secular meditation—something is being detected, not fabricated. The [convergence argument](/topics/contemplative-practice-as-philosophical-evidence/) gains force precisely because these traditions developed independently with different training protocols and different expected outcomes, making coordinated fabrication implausible. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) identifies three convergence zones across these independent lineages: self-dissolution, contentless awareness, and subject-object collapse.
 
-The most radical finding: advanced practitioners can [voluntarily enter cessation states](/concepts/neurophenomenology-and-contemplative-neuroscience/#advanced-practice)—complete absence of experience while brain activity continues in reorganised form. If consciousness were identical to neural activity, cessation should correspond to neural silence. It does not. This dissociation provides direct evidence that consciousness accompanies certain brain configurations without being identical to them.
+The most radical finding: a trained practitioner can [voluntarily enter cessation states](/concepts/neurophenomenology-and-contemplative-neuroscience/#advanced-practice)—complete absence of experience while brain activity continues in reorganised form. If consciousness were identical to neural activity, cessation should correspond to neural silence. It does not. The evidence is one single-practitioner EEG case study (Laukkonen et al., 2023): suggestive that consciousness accompanies certain brain configurations without being identical to them, not decisive.
 
 ## The Illusionist Challenge
 
 [Illusionists](/concepts/illusionism/) argue phenomenal consciousness is itself an illusion—the brain generates representations *as if* there were something it's like to experience, but there isn't. Three lines of evidence from the tests above push back.
 
-**Differential predictive power**: Dennett's *heterophenomenology* treats reports as data about "how things seem" without assuming phenomenality. But [trained contemplatives predict neural signatures](/concepts/neurophenomenology-and-contemplative-neuroscience/) far better than untrained observers. If reports merely describe "seemings" with no phenomenal referent, this differential accuracy is unexplained—as is the fact that neural signatures of *willed* attention differ from *instructed* attention in precisely the way the phenomenology of effort predicts.
+**What heterophenomenology owes an account of**: Dennett's *heterophenomenology* treats reports as data about "how things seem" without assuming phenomenality. [The Fox result](#the-training-evidence) puts pressure on that framing: introspective *accuracy* is graded and trainable, so [trained contemplatives report more accurately](/concepts/neurophenomenology-and-contemplative-neuroscience/) than novices—the reports have something to be accurate *about*. Heterophenomenology can answer that the target is the sensory machinery, not phenomenal character, and the Map does not claim to refute it on its own terms. It claims the answer is owed: why should a skill trained by attending to how experience *feels* sharpen correspondence to a target unrelated to feeling? The willed/instructed contrast presses the same question.
 
 **The regress problem**: If the experience of effort is illusory, the *seeming* to experience effort must itself be explained. The seeming either has phenomenal character (relocating consciousness, not eliminating it) or it doesn't (leaving unexplained why the seeming is so compelling). Test this yourself: attend carefully to the seeming of effort. Is there something it's like to have that seeming? If yes, phenomenality persists at the level of the seeming itself.
 
