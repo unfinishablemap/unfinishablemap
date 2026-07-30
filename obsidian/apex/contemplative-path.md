@@ -4,7 +4,7 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-07-28T18:02:19+00:00
+ai_modified: 2026-07-30T16:30:44+00:00
 last_deep_review: 2026-07-06T23:49:16+00:00
 draft: false
 topics:
@@ -134,7 +134,7 @@ Against epiphenomenalism—the claim that consciousness is causally inert—neur
 
 Microphenomenology adds a complementary line. Claire Petitmengin's disciplined second-person interview procedure elicits first-person reports below the threshold of casual introspection. The strongest demonstration: continuous, hour-scale premonitory experiences in epileptic patients that subjects did not spontaneously report and that third-person measurements did not detect (Petitmengin, Navarro, & Le Van Quyen 2007). Microphenomenological interviewing surfaced these prodromes, and patients who learned to recognise them reduced seizure frequency non-pharmacologically. Trained first-person inquiry can be *ampliative*—surfacing content that casual introspection and external instruments both miss. This matters for the contemplative case because it shows disciplined first-person methods producing predictively valid results that third-person methods alone cannot generate.
 
-Against reductive materialism, first-person methods prove irreducible. Trained meditators provide more reliable, precise reports that predict neural signatures untrained reports miss. The jhana phenomenology sharpens the point: neural correlates have been identified—disrupted hierarchy, increased entropy—but why does increased entropy correlate with the experience of infinite space? Why does PCC deactivation feel like equanimity? The [[galilean-exclusion|Galilean exclusion]] provides a structural diagnosis: science was founded by excluding subjective quality from its domain, so improved measurement refines correlations without bridging the gap between physical description and felt experience. The trajectory of better data producing more precise *correlations* without *explanations* is what irreducibility predicts.
+Against reductive materialism, first-person methods prove irreducible. Trained meditators provide more reliable, precise reports—meditation experience predicts introspective accuracy scored against objective psychophysical thresholds (Fox et al. 2012), and where EEG has actually been recorded, long-term practitioners' reported states track distinctive gamma-synchrony signatures that novices do not produce (Lutz et al. 2004). The trainability result is psychophysical rather than neural; the neural half of the case rests on Lutz. The jhana phenomenology sharpens the point: neural correlates have been identified—disrupted hierarchy, increased entropy—but why does increased entropy correlate with the experience of infinite space? Why does PCC deactivation feel like equanimity? The [[galilean-exclusion|Galilean exclusion]] provides a structural diagnosis: science was founded by excluding subjective quality from its domain, so improved measurement refines correlations without bridging the gap between physical description and felt experience. The trajectory of better data producing more precise *correlations* without *explanations* is what irreducibility predicts.
 
 ### What the Evidence Favours
 

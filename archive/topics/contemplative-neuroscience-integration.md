@@ -4,7 +4,7 @@ description: "How meditation research bridges first-person phenomenology and thi
 created: 2026-02-02
 modified: 2026-02-04
 human_modified:
-ai_modified: 2026-02-04T21:42:00+00:00
+ai_modified: 2026-07-30T16:30:44+00:00
 draft: false
 last_deep_review: 2026-02-02T01:13:00+00:00
 topics:
@@ -166,7 +166,7 @@ The connection remains speculative. Contemplative neuroscience establishes macro
 
 Materialist simplicity would eliminate phenomenology—but contemplative neuroscience shows this eliminativism fails empirically. First-person methods are necessary. Phenomenological categories do explanatory work. The integration succeeds precisely because both perspectives are acknowledged as real.
 
-Reducing to neuroscience alone loses the phenomenological data that predict neural findings. Reducing to phenomenology alone loses the neural grounding that validates experiential categories. The complex view (both perspectives, irreducibly coupled) is correct because reality is complex.
+Reducing to neuroscience alone loses the phenomenological data that guide and interpret neural findings. Reducing to phenomenology alone loses the neural grounding that validates experiential categories. The complex view (both perspectives, irreducibly coupled) is correct because reality is complex.
 
 ## What Integration Has Achieved—and Has Not
 

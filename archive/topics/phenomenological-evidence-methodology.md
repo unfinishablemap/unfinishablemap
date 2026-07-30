@@ -4,7 +4,7 @@ description: "First-person experience provides genuine evidence for consciousnes
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T13:59:00+00:00
+ai_modified: 2026-07-30T16:30:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Francisco Varela's [[neurophenomenology]] established explicit standards for phe
 
 **Training requirement**: Reliable phenomenological reports require trained observers. Untrained introspection produces inconsistent results—the failure that led behaviorists to abandon introspection. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve—more training, better accuracy.
 
-**Mutual constraint**: Phenomenological reports gain evidential weight when they predict neural correlates, and neural findings validate phenomenological distinctions. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
+**Mutual constraint**: Phenomenological reports gain evidential weight where they can be checked against independent measurement — neural where recording has been done, psychophysical otherwise — and neural findings in turn validate phenomenological distinctions. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 
 **Convergence across traditions**: Phenomenological structures disclosed through different contemplative traditions (Buddhist vipassana, Hindu yoga, secular mindfulness) converge on similar descriptions—impermanence of mental contents, constructed nature of self, refined temporal awareness. This cross-traditional convergence strengthens evidential claims: the structures discovered appear to be features of consciousness itself, not artifacts of particular training methods. (Christian contemplative traditions converge on some findings, like refined temporal awareness and states of absorption, while diverging on others—emphasizing union with God rather than no-self.)
 
@@ -89,7 +89,7 @@ Reports of stable experiential features carry more evidential weight than report
 
 ### Predictive Power
 
-Phenomenological reports gain credibility when they predict independently measurable outcomes. Trained meditators' reports of specific attentional states predict neural signatures that untrained reports do not predict (Fox et al., 2012). The phenomenology earns its evidential status by enabling successful predictions.
+Phenomenological reports gain credibility when they predict independently measurable outcomes. Trained meditators' reports of bodily sensitivity match objective psychophysical thresholds more closely than untrained reports do (Fox et al., 2012), and where EEG has been recorded, distinct practice states carry distinct neural signatures (Lutz et al., 2004). The phenomenology earns its evidential status by answering to measurement it does not control.
 
 ### Structural Coherence
 

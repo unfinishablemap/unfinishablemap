@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-07-30 16:30:44+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Neurophenomenology and Contemplative Neuroscience
 archived: true
@@ -95,7 +95,7 @@ Neurophenomenology responds:
 1. **Training matters**: Fox et al. (2012) found meditation experience predicts introspective accuracy following a logarithmic learning curve. No novice showed high accuracy.
 2. **Content, not process**: Contemplatives attend to phenomenal character—what jhana is like, how temporal flow presents itself—not to why they choose options.
 3. **Convergent findings**: Microphenomenological interviews produce replicable fine-grained categories across subjects.
-4. **Predictive power**: First-person reports from trained observers predict neural signatures that untrained reports do not.
+4. **Predictive power**: Trained observers' reports are measurably more accurate than untrained ones against objective psychophysical criteria (Fox et al. 2012), and where EEG has been recorded, their reported states track distinctive neural signatures (Lutz et al. 2004).
 
 This does not make introspection infallible. But rigorous methods produce reliable results. [Phenomenological evidence](/concepts/phenomenological-evidence/) gains credibility through training, intersubjective convergence, temporal stability, and predictive power—the same criteria neurophenomenology employs.
 
@@ -105,7 +105,7 @@ This does not make introspection infallible. But rigorous methods produce reliab
 
 **The regress problem**: If phenomenal consciousness is illusion, the *seeming* to have it must be explained. Either this seeming involves phenomenal properties (relocating consciousness) or it doesn't (leaving unexplained why the non-phenomenal seeming convinces). Contemplative practice sharpens this: trained meditators report detailed, replicable structures—jhana progression, self-dissolution, cessation phenomenology—that converge across traditions. If illusion, the illusion has remarkable structure demanding explanation.
 
-**Heterophenomenology fails empirically**: Dennett proposes treating reports as data about "how things seem" without assuming phenomenality. But Fox et al. found trained observers predict neural signatures far better than untrained ones. If reports merely describe "seemings" with no phenomenal referent, this differential predictive power is unexplained.
+**Heterophenomenology fails empirically**: Dennett proposes treating reports as data about "how things seem" without assuming phenomenality. But Fox et al. (2012) found trained observers substantially more accurate than untrained ones against objective psychophysical criteria, and Lutz et al. (2004) found their practice states carry distinctive gamma signatures. If reports merely describe "seemings" with no phenomenal referent, this differential accuracy is unexplained.
 
 **Self-stultification**: Tallis observes that *finding an argument compelling* is either a phenomenal experience (in which case phenomenality exists) or it isn't (leaving us asked to trust judgments we cannot introspect).
 

@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative evidence constrains epiphenomenali
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-07-30T16:30:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,7 +136,7 @@ First, theory-ladenness applies to all philosophical methods. If it disqualifies
 
 Second, theory-laden artefacts should diverge across incompatible frameworks; where structural convergence appears despite theoretical disagreement, genuine discovery is the better explanation. The constructed self appears robustly across Buddhist, Hindu, Christian, Sufi, and secular traditions. The awareness-content distinction appears in many traditions, though interpretations diverge. A caveat: historical transmission complicates claims of full independence; convergence is strongest where traditions with genuinely distinct historical roots report similar findings.
 
-Third, [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] cross-validation partially addresses the problem. Fox et al. (2012) found that meditation experience predicts introspective accuracy, with improvement following a skill-acquisition curve characteristic of genuine perceptual learning. Cross-modal convergence *increases* with training — the opposite of what theory-ladenness predicts. If training merely deepened bias, trained reports should diverge from neural data; that convergence tightens instead suggests contemplative training genuinely extends phenomenal authority into structural domains.
+Third, [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] cross-validation partially addresses the problem. Fox et al. (2012) found that meditation experience predicts introspective accuracy, with improvement following a skill-acquisition curve characteristic of genuine perceptual learning. Cross-modal convergence *increases* with training — the opposite of what theory-ladenness predicts. If training merely deepened bias, trained reports should diverge from the objective psychophysical measures they were scored against; that convergence tightens instead suggests contemplative training genuinely extends phenomenal authority into structural domains. (Fox's team collected no neural data, so the check this result supplies is psychophysical, not neuroimaging.)
 
 ## Testing Consciousness Theories
 
@@ -150,7 +150,7 @@ This weighs against epiphenomenalism specifically but does not by itself disting
 
 ### Evidence Against Reductive Materialism
 
-[[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] finds that trained meditators generate reports predicting neural signatures invisible to untrained observation. If phenomenal properties were identical to neural properties, purely neural analysis should capture everything — yet trained contemplatives consistently uncover structure that third-person methods miss.
+[[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] finds that trained meditators discriminate experiential states untrained observers do not report, and that these phenomenological distinctions track measurable neural differences where recording has been done — long-term practitioners self-induce gamma synchrony during compassion practice that novices do not (Lutz et al. 2004). If phenomenal properties were identical to neural properties, purely neural analysis should capture everything — yet trained contemplatives consistently uncover structure that third-person methods miss.
 
 The jhāna states offer a sharp test case for the persistent [[explanatory-gap]]. Neuroscience can identify which brain patterns correspond to jhāna but has so far not explained why a particular reorganisation produces the phenomenal quality of infinite space rather than equanimity. On the Map's reading, better data refines *correlations* without producing *explanations* — though a non-reductive physicalist may expect the explanation to arrive with a better theory. The [[galilean-exclusion]] diagnoses this structurally: science was founded by excluding subjective quality from its domain.
 
@@ -237,6 +237,7 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 1. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
 1. Lazar, S. W., et al. (2005). Meditation experience is associated with increased cortical thickness. *Neuroreport*, 16(17), 1893-1897.
+1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
 1. MacLean, K. A., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829-839.
 1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.

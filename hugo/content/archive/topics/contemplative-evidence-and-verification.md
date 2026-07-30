@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-21 03:36:00+00:00
+ai_modified: 2026-07-30 16:30:44+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Contemplative Evidence for Consciousness Theories
 archived: true
@@ -171,7 +171,7 @@ This verifies a necessary precondition: contemplative evidence is epistemically 
 
 **Response**: Cross-tradition studies find convergent findings. Buddhist shamatha, Hindu raja yoga, Christian contemplative prayer, and secular MBSR all modulate the default mode network similarly (see [buddhism-and-dualism](/concepts/buddhism-and-dualism/) for discussion of how Buddhist findings relate to the Map's framework). If reports were purely doctrinal artifacts, different traditions should produce divergent phenomenologies with divergent neural correlates. They do not.
 
-Additionally, phenomenological reports from trained observers predict neural signatures better than reports from untrained observers. If training merely induced confabulation, this predictive improvement is unexplained.
+Additionally, trained observers' phenomenological reports are measurably more accurate than untrained observers' against objective psychophysical criteria (Fox et al. 2012). If training merely induced confabulation, this improvement in accuracy is unexplained.
 
 ### "We cannot rule out that future neuroscience will close the gap"
 

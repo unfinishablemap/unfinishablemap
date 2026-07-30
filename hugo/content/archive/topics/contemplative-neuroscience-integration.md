@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-04 21:42:00+00:00
+ai_modified: 2026-07-30 16:30:44+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Contemplative Neuroscience
 archived: true
@@ -168,7 +168,7 @@ The connection remains speculative. Contemplative neuroscience establishes macro
 
 Materialist simplicity would eliminate phenomenology—but contemplative neuroscience shows this eliminativism fails empirically. First-person methods are necessary. Phenomenological categories do explanatory work. The integration succeeds precisely because both perspectives are acknowledged as real.
 
-Reducing to neuroscience alone loses the phenomenological data that predict neural findings. Reducing to phenomenology alone loses the neural grounding that validates experiential categories. The complex view (both perspectives, irreducibly coupled) is correct because reality is complex.
+Reducing to neuroscience alone loses the phenomenological data that guide and interpret neural findings. Reducing to phenomenology alone loses the neural grounding that validates experiential categories. The complex view (both perspectives, irreducibly coupled) is correct because reality is complex.
 
 ## What Integration Has Achieved—and Has Not
 

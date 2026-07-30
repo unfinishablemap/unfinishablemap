@@ -4,7 +4,7 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-07-09T01:49:44+00:00
+ai_modified: 2026-07-30T16:30:44+00:00
 last_deep_review: 2026-07-09T01:49:44+00:00
 draft: false
 topics:
@@ -107,7 +107,7 @@ Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) frames this as
 
 ### Meditation and DMN Suppression
 
-Experienced meditators show reduced DMN activity during practice, and long-term practitioners show structural changes in brain regions overlapping the DMN (Fox et al., 2014). This correlates with their phenomenological reports:
+Experienced meditators show reduced DMN activity during practice. Whether long-term practice also alters brain *structure* in regions overlapping the DMN is contested: a systematic review of largely cross-sectional morphometric studies reported such differences (Fox et al., 2014), but Kral et al. (2022), testing 218 participants with both waitlist and active controls, found no structural change from 8-week MBSR. Conscious practice reshapes DMN *function*; it has not been shown to reshape gross structure. The functional finding is the one that correlates with practitioners' phenomenological reports:
 
 - Decreased mental chatter and self-referential thinking
 - Increased present-moment awareness
@@ -228,6 +228,7 @@ Current evidence does not meet these conditions, but they define the space of po
 
 1. Buckner, R. L., Andrews-Hanna, J. R., & Schacter, D. L. (2008). The brain's default network: anatomy, function, and relevance to disease. *Annals of the New York Academy of Sciences*, 1124(1), 1-38.
 1. Fox, K. C. R., Nijeboer, S., Dixon, M. L., et al. (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. *Neuroscience & Biobehavioral Reviews*, 43, 48-73.
+1. Kral, T. R. A., Davis, K., Korponay, C., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 1. Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 1. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
 1. Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. *Science*, 330(6006), 932.
