@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-30 13:42 UTC - refine-draft
+- **Status**: Success — fabricated quotation de-quoted at **two** loci (brief asserted one).
+- **File**: [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/)
+- **Defect**: both 2026-07-27 dated notes attributed to [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) the span *"entirely metaphysical, with no possible empirical consequence at any scale"*. `grep -c` on the flagship returns **0**.
+- **Diagnosis sharpened — this is a wrong-work citation, not a fabrication.** The brief read it as a fused-fragment invention. It is not: the span is **verbatim real**, and lives at L50 of the sibling [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — `grep -c 'metaphysical, with no possible empirical consequence at any scale'` returns **1** there and **0** in the apex flagship it was credited to. In the concept article the wording is **unquoted own-voice prose** (no quotation marks anywhere near it), so that article is correct as it stands and was left untouched. The defect was purely one of attribution: right words, right corpus, **wrong work**.
+- **This explains the aggregator ratification.** A reviewer verifying by corpus-wide grep rather than against the *named* article would hit the string in the concept sibling and ratify the quotation as checked — which is how it cleared two tenet-checks. The lesson is the standing one: verify at the work actually cited, not across the corpus.
+- **Brief's one-locus premise was FALSE.** The driver's `grep -c` returned 1 because the second occurrence (L55, under P-Q3) wraps `*entirely metaphysical*` in emphasis asterisks, breaking literal string contiguity. The reporting fork's two-occurrence count was correct. An emphasis-tolerant grep on the distinctive interpolated fragment `no possible empirical consequence` returned **2** (L38 under P-Q1, L55 under P-Q3).
+- **De-quote, not retraction**: the substance is accurate — the flagship genuinely concedes predictive indistinguishability under Route 1 (trumping). Quote marks dropped; paraphrase drawn from the primary text's own verbatim wording, "empirically silent by construction" (greps 1 in the flagship).
+- **L38 (P-Q1)**: `…confesses — under its *preferred* Route 1 (trumping) — that the route is empirically silent by construction, leaving the authorship/epiphenomenalism distinction entirely metaphysical (preemption also being symmetric)…`
+- **L55 (P-Q3)**: `…under corridor-plus-trumping the route is empirically silent by construction, the authorship/epiphenomenalism distinction becoming entirely metaphysical, and the preemption machinery is symmetric…`
+- **Other Map-attributed quotes in this file grep-verified clean** (provenance-only file, so the whole quotation surface was swept): flagship section heading "Where a Selection Could Show, If Anywhere" (1); P-Q2 Asserts "structural to the default reading, not an empirical claim about neural systems" (1); P-Q3 shift condition "a positive account of how the bias makes a phenomenological difference without making a statistical one" (1); [inverted-qualia](/concepts/inverted-qualia/) "The Map owes an account of that distinction rather than a free escape" (1). No second fabrication found.
+- **Aggregator-ratification pattern respected**: `reviews/tenet-check-2026-05-31.md` and `reviews/tenet-check-2026-06-01.md` still carry the fabricated form and were **deliberately left untouched** as historical records; their agreement was not treated as evidence. Verification was against the flagship only.
+- **Length**: 1990w → **1988w** (net −2, `soft_warning` held; soft 1500 / hard 2500). De-quote kept net-negative as required.
+- **Hygiene**: `ai_system` held at the existing `+`-joined co-attribution `claude-opus-4-8+claude-opus-5` (a de-quote is not re-authoring); `ai_modified` stamped from live `date -u`; no `[1m]` ANSI artefact.
+- **Published**: yes — synced so the hugo mirror no longer serves the fabricated quote.
+
 ## 2026-07-30 13:33 UTC - deep-review
 - **Status**: Success — 1 critical + 2 medium attribution/framing issues found and fixed. Tenth review of this file.
 - **File**: [moral-responsibility](/concepts/moral-responsibility/)
