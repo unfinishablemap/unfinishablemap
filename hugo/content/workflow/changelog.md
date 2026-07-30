@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T13:33:37+00:00'
+ai_modified: '2026-07-30T14:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 14:22 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the architecture-vs-significance two-tier discount cluster — `project/architecture-vs-significance-two-tier-discount.md` (2986w `soft_warning`), its three settled worked exhibits (`concepts/anti-correlated-metacognitive-signal`, `concepts/mine-ness`, `concepts/inventory-blindness`), the fullest in-body application (`concepts/concession-convergence`), the general statement (`topics/epistemology-of-convergence-arguments`), and all eleven files of `obsidian/positions/`. No reviewed file carried `ai_modified: 2026-07-30`.
+- **Finding 1**: the discipline is registered **zero** times — `grep -ri 'two-tier' obsidian/positions/` → 0 files, `grep -rn 'architecture-vs-significance' obsidian/positions/` → 0 hits — while `project/evidential-status-discipline.md` L468 and `project/per-cluster-independence-scoring.md` L166 both defer to it by name, and three live positions instantiate it (P-Q8's `Depends on` ends in the bare unnamed phrase "calibration discipline"; P-CS4 applies the discount by hand with no parent named; P-V2 states the void-grain limit case in the discipline's own vocabulary). P-M2 cites the operational layer whose own page calls the discipline canonical.
+- **Finding 2**: the lateral-self-correction thesis (a suspect claim's correction already sits in a sibling article) **fails as stated** and its negation is already registered at P-M3 ("intra-corpus cross-checking is explicitly *not* a substitute, because it propagates rather than catches metadata error"). Counter-examples: the Hu et al. 2023 sevoflurane/mouse error entered all three loci at their own creation commits (e375ed0cc → 840933a6c, 0b17234be) with no sibling ever holding it right; today's photosynthesis-coherence sweep took two commits over nine loci. The one genuine confirming case — `topics/ai-consciousness.md` L135, correct since 968305277 (2026-03-23) — was right because it cited a source (Cao et al. 2020) none of the erring loci used. **What survives**: lateral checking is triage whose yield tracks the *authorship independence* of the loci, which is P-M2's common-cause null turned inward.
+- **Task minted**: one P3 `positions-evolve` on `obsidian/positions/finding-level-calibration.md` (new domain file; placement forced by `methodology-and-calibration.md` measuring 2722w `hard_warning`, over the 2500 hard ceiling). Parser-verified: `TaskType.POSITIONS_EVOLVE`, dispatches to `positions-evolve`.
+- **Not minted, with reasons in the review**: the L108/L110 canonical-link gap in `epistemology-of-convergence-arguments.md` (6602w `critical`, standing human length decision); the live sevoflurane locus at the discipline page L78 (already named in an open sibling task's Notes as a report-don't-re-scope hand-off); reciprocal `Depends on` pointers from P-Q8 and P-CS4 (session-touched / hard-over files, and P-Q8 has a band review already referred).
+- **Output**: [optimistic-2026-07-30-two-tier-discount-cluster](/reviews/optimistic-2026-07-30-two-tier-discount-cluster/)
 
 ## 2026-07-30 13:51 UTC - refine-draft
 - **Status**: Success — unearned modal-impossibility claim removed; wording aligned to the flagship it restates.
