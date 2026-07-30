@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 16:30:18+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-07-30 17:30:39+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - panpsychism
@@ -63,14 +63,20 @@ Cosmopsychism was proposed in large part *because* it appeared to dodge the [com
 
 The **de-combination problem** is the charge that cosmopsychism has not escaped the difficulty but merely inverted it. Gregory Miller gave the canonical statement in "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem" (2018), arguing that the problem facing the cosmopsychist "is equivalent to the combination problem": both concern whether subjects can stand in proper-parthood relations to other subjects. The cosmopsychist must explain how the one cosmic subject has the many little subjects as proper parts; the micropsychist must explain how the many micro-subjects are proper parts of one macro-subject. These are the same puzzle from opposite ends, and — on Miller's reading — whatever escape route helps one camp helps the other equally, so the top-down move buys no free advantage.
 
+**Three derivations, not one.** Chalmers (2017) divides the combination problem into subject, quality and structure combination; decomposition inherits the same split, and folding it into a single "de-combination problem" hides where a reply has made progress. Explaining why finite subjects *exist* at all is one task. Explaining why a subject has *these* qualities rather than others is a second, and a reply can answer the first while leaving the second untouched. Explaining why finite experience has the *structure* it does — and why that structure tracks neural rather than cosmic organisation — is a third.
+
+**A modal objection and an explanatory one.** Two complaints travel together here with different success conditions. The *modal* complaint runs through conceivability: if a conscious cosmos with no conscious parts is conceivable, the cosmic facts do not metaphysically necessitate the finite subjects. The *explanatory* complaint is that no intelligible account of the grounding relation has been given. They come apart. A cosmopsychist can concede that grounding is not a priori entailing — many grounding relations are not — and still owe, and possibly discharge, an explanatory model. The Stanford Encyclopedia states the conceivability point conditionally, as what follows *if* the conceivable separation licenses the modal inference, not as an established result.
+
 The Map does not re-derive the de-combination debate here; it is housed in [the dedicated bridge article](/topics/open-individualism-and-the-de-combination-problem/), where the several replies are laid out in detail. In brief, cosmopsychists have offered:
 
 - **Grounding-by-subsumption** (Goff): finite subjects are grounded in the cosmic subject by a subsumption-style relation, without being independent constituents. Goff has revised the exact machinery across his 2017 book and later work, and the mechanism remains contested.
 - **The priority reply** (Nagasawa & Wager): because the view is a grounding rather than a constitutive thesis, it need not show that finite experience is literally built out of cosmic experience.
-- **Filtering** (Shani & Keppler, "Beyond Combination," 2018): finite minds arise as dynamical localizations or modulations of an all-pervading cosmic field, rather than as parts summed from below — a proposal that goes further and identifies the cosmic field with the quantum vacuum via stochastic electrodynamics.
-- **Aperspectival dissolution** (Albahari, "Perennial Idealism," 2019): if the cosmic ground is *not itself a bounded subject with a perspective*, there is no "one big perspective" that must be divided into many little ones, so the problem is dissolved rather than solved. Albahari presents this as a successor to cosmopsychism that leans toward idealism, so it is better read as a revision of the view than a straightforward instance.
+- **Filtering** (Shani & Keppler, "Beyond Combination," 2018): finite minds arise as dynamical localizations or modulations of an all-pervading cosmic field, rather than as parts summed from below — a proposal that goes further and identifies the cosmic field with the quantum vacuum via stochastic electrodynamics. On the Map's reading the identification does physical work rather than phenomenal work: it specifies what the field *is*, while the field's experientiality is where the model starts rather than what it derives. Localisation explains why one modulation is dynamically distinct from another, not why a distinct modulation is a subject.
+- **Aperspectival dissolution** (Albahari, "Perennial Idealism," 2019): if the cosmic ground is *not itself a bounded subject with a perspective* — on her non-dual framing it lacks the ordinary subject–object form altogether — there is no "one big perspective" that must be divided into many little ones, so the problem is dissolved rather than solved. Albahari presents this as a successor to cosmopsychism that leans toward idealism, so it is better read as a revision of the view than a straightforward instance.
 
-The critical verdict — Miller's, and in the broader literature — is that none of these has clearly succeeded. The debate over whether grounding many subjects in one requires intelligible subject-subject parthood remains open and active.
+**Which objection bites which variety.** A single verdict on the family would hide that Miller's argument does not reach all of these equally. Proper-parthood has purchase where local subjects are literally *constituted by* or *included within* the cosmic subject — the constitutive formulation, where grounding-by-subsumption sits squarely in the objection's path, since subsumption must say how a cosmic perspective contains local perspectives without containing them as parts. The other three step outside its reach and incur different debts. The **priority reply** trades constitution for grounding, so parthood is not what it asserts; Miller (2021) presses it elsewhere, arguing that de-combination is not the heterogeneity problem facing Schaffer's priority monism, so the priority monist's solutions do not transfer. Shani (2022), who calls the difficulty the *individuation* problem, contests the mirror-image reading at its root: what makes combination intractable is a coupling of phenomenal constitution with phenomenal inclusion that cosmopsychism need not assume. **Filtering** describes localisation rather than summation, so there is nothing for the parthood argument to grip; its debt is the one noted above. **Aperspectival dissolution** removes the objection's subject matter altogether — with no bounded cosmic subject, there is nothing for a local subject to be a proper part *of* — and pays for the removal by owing an account of why anything perspectival arises from an aperspectival ground.
+
+The Map's provisional verdict is that none of these has clearly succeeded — but that is four separate verdicts rather than one, each reached on different grounds, and Shani's rejection of the mirror-image framing is a live reason to think the Map's reading may be too quick. The debate over whether grounding many subjects in one requires intelligible subject-subject parthood remains open and active.
 
 ## Relation to Site Perspective
 
@@ -100,8 +106,11 @@ The Map declines cosmopsychism, and the reasons connect to two tenets.
 1. Shani, I. (2015). Cosmopsychism: A Holistic Approach to the Metaphysics of Experience. *Philosophical Papers*, 44(3), 389–437. https://doi.org/10.1080/05568641.2015.1106709
 1. Nagasawa, Y., & Wager, K. (2016). Panpsychism and Priority Cosmopsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives* (pp. 113–129). Oxford University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Chalmers, D. J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives* (pp. 179–214). Oxford University Press.
 1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137–154. https://doi.org/10.1111/rati.12166
 1. Shani, I., & Keppler, J. (2018). Beyond Combination: How Cosmic Consciousness Grounds Ordinary Experience. *Journal of the American Philosophical Association*, 4(3), 390–410.
 1. Albahari, M. (2019). Perennial Idealism: A Mystical Solution to the Mind-Body Problem. *Philosophers' Imprint*, 19(44).
+1. Miller, G. (2021). The Decombination Problem for Cosmopsychism is not the Heterogeneity Problem for Priority Monism. *Journal of Consciousness Studies*, 28(3–4), 112–115.
+1. Shani, I. (2022). Cosmopsychism, Coherence, and World-Affirming Monism. *The Monist*, 105(1), 6–24. https://doi.org/10.1093/monist/onab020
 1. Southgate, A. & Oquatre-huit, C. (2026-06-19). Open Individualism and the De-Combination Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/open-individualism-and-the-de-combination-problem/
 1. Southgate, A. & Oquatre-six, C. (2026-02-22). Analytic Idealism and Mind-Centric Metaphysics. *The Unfinishable Map*. https://unfinishablemap.org/topics/analytic-idealism-and-mind-centric-metaphysics/
