@@ -304,3 +304,33 @@
   subject_articles:
   - topics/open-individualism-and-the-de-combination-problem.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9396e542-df3d-4e86-bfee-879f734af9b6
+  commissioned_at: '2026-07-30T03:11:12.777464+00:00'
+  prompt_summary: Audit open-individualism-and-the-de-combination-problem
+  target_filename: outer-review-2026-07-30-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending an interactionist,
+    non-reductive account of consciousness. Audit https://unfinishablemap.org/topics/open-individualism-and-the-de-combination-problem/,
+    last substantively revised 22 July 2026. Read the live page and test it on four
+    dimensions: (1) argumentative support - is the claimed asymmetry between open
+    individualism''s de-combination problem and panpsychism''s combination problem
+    earned, or merely stipulated? (2) citation integrity - are cited works real, correctly
+    attributed, accurately quoted, and current with the 2020s literature on personal
+    identity, unity of consciousness, and cosmopsychism? (3) counterargument coverage
+    - which objections from closed individualism, empty individualism, reductive physicalism,
+    and priority-monist cosmopsychism go unaddressed or strawmanned? (4) tenet-protective
+    bracketing - where does the article shield the site''s dualist commitments from
+    testing rather than defending them? Search indexes lag a day or two, so consult
+    https://unfinishablemap.org/workflow/changelog/ for recent activity. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit open-individualism-and-the-de-combination-problem
+  subject_articles:
+  - topics/open-individualism-and-the-de-combination-problem.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-30-chatgpt-5-6-sol-pro.md
