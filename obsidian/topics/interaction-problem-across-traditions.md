@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-02-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-07-29T23:19:35+00:00
+ai_modified: 2026-07-30T18:24:00+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-07-10T12:55:00+00:00
+last_deep_review: 2026-07-30T18:24:00+00:00
 coalesced_from:
   - "/topics/interaction-problem-in-non-western-philosophy/"
   - "/topics/interaction-solutions-across-traditions/"
@@ -66,7 +66,7 @@ A second family of solutions preserves the distinctness of mind and body while d
 
 **Sāṃkhya's reflection model**, developed most fully by Vācaspati Miśra (c. 9th century) and Vijñānabhikṣu (c. 16th century), holds that consciousness (*Puruṣa*) reflects in the intellect (*buddhi*) the way an image reflects in a mirror. Neither substance is altered. Yet information is transmitted. Vijñānabhikṣu extended this into mutual reflection: consciousness reflects the intellect and the intellect reflects consciousness. On Shevchenko's reading of this mirror model, the result is a bidirectional informational coupling that holds without physical contact. Earlier Sāṃkhya formulations—the lame-and-blind analogy of Īśvarakṛṣṇa's *Sāṃkhyakārikā* (c. 350–450 CE), the magnet analogy of Puruṣa's proximity disturbing Prakṛti's equilibrium—gesture toward the same insight without achieving its precision. The reflection model's enduring contribution is the idea that interaction need not mean efficient causation—informational or structural correspondence might bridge an ontological gap without requiring physical contact.
 
-**Avicenna** (Ibn Sīnā, 980–1037 CE) developed what may be the most detailed pre-modern account of bidirectional mind-body interaction. His Flying Man thought experiment argues for the soul's independence from the body. The soul has two functional aspects: the **practical intellect** faces downward toward matter, governing bodily actions, while the **theoretical intellect** faces upward toward the Active Intellect, receiving intelligible forms. Bodily states exert a "bottom-up preparing influence," while the soul exerts a "top-down actualizing effect" through the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. In a preprint, Jamali et al. (2019) note the resonance between this picture and quantum approaches to consciousness, where mental influence shapes probability distributions across neural systems rather than acting at isolated spatial points.
+**Avicenna** (Ibn Sīnā, c. 980–1037 CE) developed what may be the most detailed pre-modern account of bidirectional mind-body interaction. His Flying Man thought experiment argues for the soul's independence from the body. The soul has two functional aspects: the **practical intellect** faces downward toward matter, governing bodily actions, while the **theoretical intellect** faces upward toward the Active Intellect, receiving intelligible forms. Bodily states exert a "bottom-up preparing influence," while the soul exerts a "top-down actualizing effect" through the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. In a preprint, Jamali et al. (2019) note the resonance between this picture and quantum approaches to consciousness, where mental influence shapes probability distributions across neural systems rather than acting at isolated spatial points.
 
 **Leibniz's pre-established harmony** belongs here structurally: mind and body never interact at all—God has arranged them to run in perfect parallel. This avoids the interaction problem entirely but at the cost of genuine [[mental-causation-and-downward-causation|mental causation]]. The Map rejects it because if consciousness does not causally influence the physical world, the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is violated.
 
@@ -78,7 +78,7 @@ Non-contact solutions share a strength: they respect the intuition that radicall
 
 A third family argues the interaction problem is self-inflicted—an artifact of treating mind and body as static substances.
 
-**Mulla Ṣadrā** (c. 1572–1640) held that everything undergoes continuous transformation at the level of substance (*al-ḥarakat al-jawhariyyah*). The soul originates as a bodily reality and progressively transforms into an immaterial, spiritual reality—from corporeal faculty, to natural form, to sensible soul, to rational soul, to active intellect. Body is not a separate substance that must somehow interact with the soul; it is "a lower, dynamic level of the soul's existence." There is no gap to bridge because soul and body are grades on a continuum of being.
+**Mulla Ṣadrā** (c. 1571–1636) held that everything undergoes continuous transformation at the level of substance (*al-ḥarakat al-jawhariyyah*). The soul originates as a bodily reality and progressively transforms into an immaterial, spiritual reality—from corporeal faculty, to natural form, to sensible soul, to rational soul, to active intellect. Body is not a separate substance that must somehow interact with the soul; it is "a lower, dynamic level of the soul's existence." There is no gap to bridge because soul and body are grades on a continuum of being.
 
 **Whitehead's [[process-philosophy]]** (1929) arrives at a strikingly similar position from entirely different premises. Reality consists of "actual occasions"—momentary experiential events that synthesise their causal inheritance and contribute something novel. Mind and matter are aspects of the same experiential process. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally *is* rather than being metaphysically exceptional.
 
@@ -112,7 +112,7 @@ These positions are internally consistent but unavailable to the Map, which is c
 
 Three patterns emerge from this cross-traditional comparison.
 
-**The problem is real, not parochial.** When Sāṃkhya, Nyāya, Avicenna, Descartes, and Buddhist Abhidharma independently identify the same difficulty in mind-body relations, the difficulty cannot be dismissed as an artifact of Cartesian metaphysics. A functionalist might counter that the convergence reflects a shared cognitive bias—humans naturally but erroneously separate mind from matter, so every tradition generates the same pseudo-problem. But the traditions differ sharply in their ontologies, cultural contexts, and starting assumptions. That such diverse frameworks converge on the *same structural difficulty* is better explained by the difficulty being genuine than by a single universal bias.
+**The problem is real, not parochial.** Sāṃkhya, Nyāya, Buddhist Abhidharma, Avicenna, and Descartes all identify the same difficulty in mind-body relations—though not as five independent identifications. The first three share an Indian philosophical milieu and count as one lineage rather than three, and Avicenna and Descartes both stand downstream of Greek philosophy, so the recurrence spans something closer to two lineages than five. Even those two are near-independent rather than sealed off, since Indo-Greek exchange left possible channels of influence open. What survives that deflation is still substantial: the difficulty cannot be dismissed as an artifact of Cartesian metaphysics, because it was posed in India centuries before Descartes and inside ontologies sharply unlike his. A functionalist might counter that the convergence reflects a shared cognitive bias—humans naturally but erroneously separate mind from matter, so every tradition generates the same pseudo-problem. But the traditions differ sharply in their ontologies, cultural contexts, and starting assumptions—the Indian schools as much from one another as from Descartes. That such diverse frameworks converge on the *same structural difficulty* is better explained by the difficulty being genuine than by a single universal bias.
 
 The convergence is on the *problem*, not the *answer*. The survey above documents sharp divergence once traditions move from puzzle to resolution: Leibniz denies interaction outright, Type-5 monists reject the premises that generate it, and illusionists deny consciousness exists to be explained. Several—not all—of the traditions that posit a solution gravitate toward a selection-style *structure* (Type 2's reflection and governance, Type 4's quantum selection), suggesting a natural solution-region rather than a random scatter (see [[cross-cultural-convergence-on-mental-causation]]). That recurrence hints at where a workable solution might lie; it is not independent evidence that the dualist answer is correct. A puzzle's reappearance across cultures confirms the puzzle, not the metaphysics offered to settle it—the same calibrated discipline that [[cross-traditional-convergence-on-consciousness-irreducibility]] applies to the recurrence of the *irreducibility* finding, here applied to the recurrence of interaction *solutions*.
 
@@ -148,8 +148,8 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 
 1. Īśvarakṛṣṇa. *Sāṃkhyakārikā* (c. 350–450 CE). See IEP, "Sankhya": https://iep.utm.edu/sankhya/
 2. O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
-3. Shevchenko, D. (2023). *Mirror of Nature, Mirror of Self: Models of Consciousness in Sāṃkhya, Yoga, and Advaita Vedānta*. Oxford University Press. See esp. the chapter "Consciousness Reflects the Mind, the Mind Reflects Consciousness: Mirror Models in Sāṃkhya and Yoga."
-4. Stanford Encyclopedia of Philosophy, "Nyaya": https://plato.stanford.edu/entries/nyaya/
+3. Shevchenko, D. (2023). *Mirror of Nature, Mirror of Self: Models of Consciousness in Sāṃkhya, Yoga, and Advaita Vedānta*. Oxford University Press. https://doi.org/10.1093/oso/9780197665510.001.0001 See esp. the chapter "Consciousness Reflects the Mind, the Mind Reflects Consciousness: Mirror Models in Sāṃkhya and Yoga."
+4. Internet Encyclopedia of Philosophy, "Nyāya": https://iep.utm.edu/nyaya/
 5. Jamali, M., Golshani, M., and Jamali, Y. "Avicenna's Ideas and Arguments about Mind and Brain Interaction." *Preprints.org*, 2019. https://www.preprints.org/manuscript/201906.0050
 6. Stanford Encyclopedia of Philosophy, "Ibn Sina": https://plato.stanford.edu/entries/ibn-sina/
 7. Stanford Encyclopedia of Philosophy, "Arabic and Islamic Psychology and Philosophy of Mind": https://plato.stanford.edu/entries/arabic-islamic-mind/
@@ -162,7 +162,7 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 14. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 15. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 16. Beck, F. & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
-17. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
+17. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *Mind and Matter*, 17(1), 95–121. Preprint: *arXiv:1909.13643*.
 18. Stanford Encyclopedia of Philosophy, "Wang Yangming": https://plato.stanford.edu/entries/wang-yangming/
-19. Tempels, P. (1945). *Bantu Philosophy*. Paris: Présence Africaine.
+19. Tempels, P. (1945). *La philosophie bantoue*. Élisabethville: Lovania. English translation: *Bantu Philosophy*. Paris: Présence Africaine, 1959.
 20. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901
