@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ Evidence from [[semantic-memory]] reinforces the case. The tip-of-the-tongue sta
 
 [[illusionism|Illusionists]] argue that understanding's phenomenology is introspective illusion — "quasi-phenomenal properties" that the brain misrepresents as genuinely phenomenal.
 
-This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. As Raymond Tallis sharpens the point: "Misrepresentation presupposes presentation."
+This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. Raymond Tallis sharpens the point: illusions presuppose experience.
 
 Careful [[introspection]] doesn't dissolve the phenomenology — it intensifies it. Advanced contemplative practitioners report that sustained attention reveals *more* phenomenal structure, not less: initial contact, progressive elaboration, integrative binding, confirmatory checking, and stabilisation, each with characteristic phenomenology. Illusions dissolve under scrutiny; understanding's phenomenology elaborates.
 

@@ -4,7 +4,7 @@ description: "A-theory versus B-theory, presentism, eternalism, and the growing 
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,7 +152,7 @@ Three responses preserve the framework:
 
 The framework offers three responses:
 
-**The regress problem.** If temporal flow is illusory, the *seeming* to experience flow must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating temporal experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about time's passage). Raymond Tallis's observation applies: "Misrepresentation presupposes presentation." The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
+**The regress problem.** If temporal flow is illusory, the *seeming* to experience flow must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating temporal experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about time's passage). Raymond Tallis's observation applies: illusions presuppose experience. The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
 
 **The structural point.** Even granting [[illusionism|illusionist]] premises, the arrow of time remains a physical puzzle. Why does physics distinguish past from future if fundamental laws are time-symmetric? The framework's answer—consciousness-involving collapse introduces asymmetry—is a claim about physics, not about phenomenological accuracy. Illusionism about temporal phenomenology doesn't eliminate the need for time's arrow to be explained.
 

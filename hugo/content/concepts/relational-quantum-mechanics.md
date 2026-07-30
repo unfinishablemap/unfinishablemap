@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-24 16:10:18+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -92,7 +92,7 @@ So both RQM and the Map treat measurement outcomes as relative to *something*; t
 
 [Illusionists](/concepts/illusionism/) such as Dennett and Frankish are RQM's most natural allies. If phenomenal consciousness is an introspective illusion, then RQM's dismissal of consciousness's special role costs nothing—there was never anything special about consciousness to dismiss. On this reading, RQM is the interpretation the hard problem would have us choose if the hard problem itself were dissolved.
 
-The Map's standing objection to illusionism applies. To say consciousness plays no role in collapse, the illusionist must explain why we *believe* it does. Against Dennett's heterophenomenology and Frankish's "quasi-phenomenal" properties, Raymond Tallis's objection—"Misrepresentation presupposes presentation"—is the Map's reply: for consciousness to *seem* special, something must be doing the seeming, and that something resists purely dispositional analysis. Frankish contests the move; the dispute is live, and the Map's commitment to dualism is what tips the assessment, not a stand-alone refutation.
+The Map's standing objection to illusionism applies. To say consciousness plays no role in collapse, the illusionist must explain why we *believe* it does. Against Dennett's heterophenomenology and Frankish's "quasi-phenomenal" properties, Raymond Tallis's objection—that illusions presuppose experience—is the Map's reply: for consciousness to *seem* special, something must be doing the seeming, and that something resists purely dispositional analysis. Frankish contests the move; the dispute is live, and the Map's commitment to dualism is what tips the assessment, not a stand-alone refutation.
 
 Independently, RQM treats observation as a purely physical relation. The phenomenology of observation—accessible through [introspection](/concepts/introspection/) and developed in the [contemplative literature](/concepts/witness-consciousness/) on subject-object structure—suggests observation involves something the physical-relation account cannot capture: the qualitative character of being an observer, not merely functioning as one. The weight one gives this first-person evidence depends on prior commitments about first-person methods.
 

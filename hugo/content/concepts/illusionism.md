@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 21:57:51+00:00
+ai_modified: 2026-07-30 15:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -88,7 +88,7 @@ How can I be wrong about the existence of something for which I have inescapable
 
 ### The Infinite Regress Problem
 
-Raymond Tallis argues illusionism compounds rather than solves the hard problem: "misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing it, so there must be *something it's like* to hold the mistaken belief that consciousness is phenomenal.
+Raymond Tallis argues illusionism compounds rather than solves the hard problem: all illusions presuppose experience, so to be under an illusion something must be experiencing it, and there must be *something it's like* to hold the mistaken belief that consciousness is phenomenal.
 
 But the bare regress assumes "seeming" is itself phenomenal—precisely what illusionists deny. Frankish replies ([below](#the-illusionist-response-functional-seeming)) that a system can represent itself as phenomenally conscious without any phenomenal consciousness existing, and he is right that the bare regress proves nothing: a representational system need not instantiate what it represents. The substantive engagement is therefore not the regress but the [meta-representational bridge](#the-meta-representational-bridge-to-felt-unity) Frankish offers in its place—and whether it can be built where the represented and the representing coincide. The [five objections](#where-the-functional-account-falls-short) press that case.
 

@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-23T20:30:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 archived: true
 archived_date: 2026-03-24T08:06:00+00:00
@@ -159,7 +159,7 @@ The felt openness of alternatives thus tracks ontological openness. The phenomen
 
 ### The Regress Problem
 
-If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis: "misrepresentation presupposes presentation."
+If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis's regress: illusions presuppose experience.
 
 Keith Frankish responds that seemings are *quasi-phenomenal*—functional properties explaining why we judge choosing differs from observing. But quasi-phenomenal properties face the same regress. A philosophical zombie would have identical quasi-phenomenal representations, yet we judge our experience of choosing differs from passive reception in ways no functional duplicate captures.
 

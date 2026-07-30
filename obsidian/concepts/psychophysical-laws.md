@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-07-12T07:14:07+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -210,7 +210,7 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. But as [[introspection|Tallis observes]], "misrepresentation presupposes presentation"—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
+[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. But as [[introspection|Tallis observes]], illusions presuppose experience—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
 
 ## Contemplative Evidence
 

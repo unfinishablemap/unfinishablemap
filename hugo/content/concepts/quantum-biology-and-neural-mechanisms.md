@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-07-30 13:13:52+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -151,7 +151,7 @@ None of this proves quantum consciousness, and the discipline of "predictions he
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis: "Misrepresentation presupposes presentation"), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
+[Illusionists](/concepts/illusionism/) might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis's regress: illusions presuppose experience), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
 
 ## The Measurement Problem Connection
 

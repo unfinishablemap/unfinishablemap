@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-26 09:47:00+00:00
+ai_modified: 2026-07-30 15:14:45+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Biology and Neural Mechanisms
 archived: true
@@ -193,7 +193,7 @@ The quantum biology evidence surveyed here strengthens the case that decoherence
 
 [Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish might dismiss the quantum biology debate as solving the wrong problem. If phenomenal consciousness is an introspective illusion—if there's nothing non-physical to explain—then quantum mechanisms have no work to do. The "hard problem" dissolves, and with it the motivation for consciousness-quantum interface theories.
 
-The Unfinishable Map's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and the "illusion problem" may be as difficult as the hard problem it claims to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. [Introspective access](/concepts/introspection/) to our mental states, while fallible for causal processes, appears reliable for phenomenal content. The very fact that we discuss consciousness—that information about experience flows into physical behaviour—suggests consciousness has causal efficacy.
+The Unfinishable Map's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and the "illusion problem" may be as difficult as the hard problem it claims to dissolve. As Raymond Tallis observes, illusions presuppose experience—to be under an illusion, something must be experiencing the illusion. [Introspective access](/concepts/introspection/) to our mental states, while fallible for causal processes, appears reliable for phenomenal content. The very fact that we discuss consciousness—that information about experience flows into physical behaviour—suggests consciousness has causal efficacy.
 
 More directly: quantum biology's empirical findings are independent of the illusionism debate. Whether consciousness is "real" or "illusory," the evidence that warm biological systems harness quantum effects stands. Photosynthesis, magnetoreception, and enzyme catalysis demonstrate quantum phenomena in living systems regardless of one's position on phenomenal consciousness. What the evidence challenges is the assumption that biology must be classical.
 

@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-07-28T07:18:00+00:00
+ai_modified: 2026-07-30T15:08:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ No single argument establishes dualism conclusively, and the eight are not evide
 
 **Type-B Physicalism** accepts the explanatory gap but denies metaphysical implications—consciousness is physical by a posteriori necessity. But this provides no positive account of *how* physical processes generate experience.
 
-**[[illusionism|Illusionism]]** claims [[qualia]] don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, "misrepresentation presupposes presentation."
+**[[illusionism|Illusionism]]** claims [[qualia]] don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, illusions presuppose experience.
 
 The **[[phenomenal-concepts-strategy|Phenomenal Concept Strategy]]** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special—an isolation that is precisely what the knowledge argument reveals.
 

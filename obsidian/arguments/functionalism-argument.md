@@ -3,7 +3,7 @@ title: "Against Functionalism"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-25T00:03:46+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 description: "Five converging arguments against functionalism—from absent qualia to the explanatory gap—showing consciousness is irreducible to functional organization."
 topics:
@@ -161,7 +161,7 @@ But illusionism faces a devastating regress. If the *appearance* of phenomenal c
 1. The seeming involves phenomenal properties—in which case phenomenal consciousness exists (the seeming *is* conscious experience)
 2. The seeming involves no phenomenal properties—in which case we need a further account of non-phenomenal seeming
 
-Option 2 generates an explanatory burden as severe as the hard problem. Raymond Tallis puts it sharply in *Aping Mankind* (2011): "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
+Option 2 generates an explanatory burden as severe as the hard problem. Raymond Tallis puts it sharply in "The Illusion of Illusionism" (2024): all illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
 
 Further evidence against illusionism comes from [[introspection|introspective access to phenomenal content]] (as distinct from processes) and [[witness-consciousness|contemplative phenomenology]], where practice *deepens* rather than dissolves the reality of experience—compounding the regress with illusions of illusions.
 
@@ -233,6 +233,6 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen Publishing.
+- Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802 (preprint, not peer-reviewed).

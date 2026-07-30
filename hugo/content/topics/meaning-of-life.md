@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-06 13:23:12.056384+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -161,7 +161,7 @@ This answers the tracking horn but not the adaptive-link horn, and honesty requi
 
 ### The Seeming-To-Whom Problem
 
-A first-pass reply runs through regress: the *seeming* of meaning must appear *to* something—Raymond Tallis's "misrepresentation presupposes presentation." But the sophisticated illusionist has anticipated it. Keith Frankish ("Illusionism as a Theory of Consciousness," 2016) replaces the hard problem with an *illusion problem*—why a physical system *represents itself* as having phenomenal properties—and the "seeming" he needs is *quasi-phenomenal*, a representational fact rather than the diet-qualia the regress assumes; so the regress begs the question, reading "seems" as entailing the phenomenal givenness the illusionist denies.
+A first-pass reply runs through regress: the *seeming* of meaning must appear *to* something—Raymond Tallis's regress, that illusions presuppose experience. But the sophisticated illusionist has anticipated it. Keith Frankish ("Illusionism as a Theory of Consciousness," 2016) replaces the hard problem with an *illusion problem*—why a physical system *represents itself* as having phenomenal properties—and the "seeming" he needs is *quasi-phenomenal*, a representational fact rather than the diet-qualia the regress assumes; so the regress begs the question, reading "seems" as entailing the phenomenal givenness the illusionist denies.
 
 The Map's sharper disagreement is in-framework. Illusionism's own standard against rivals is mechanistic specification; held to it, the illusion problem owes an account of *why the misrepresentation has the specific introspectable character it does*—why the report is of unified, present, evaluatively-loaded experience rather than nothing in particular. Whether François Kammerer's "rich illusion" account (2022) specifies that bridge or merely relocates the explanandum is contested ([illusionism](/concepts/illusionism/)). The Map parts company at the framework boundary, holding as a [Dualism](/tenets/#dualism) commitment that the report is *of* a real phenomenal property rather than a misfiring self-representation—carried openly, not established on illusionism's terms.
 

@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-27T19:03:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -58,7 +58,7 @@ The illusionist must answer: to whom does the illusion appear? For a misrepresen
 
 Sartre's analysis reveals why this deflation fails. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. When I am aware of my awareness, this is not one thing observing another. It is the pour-soi's constitutive self-presence—the "being-aware" that accompanies every experience. Deflating "seeming" into functional terms does not eliminate the problem; it relocates it. Something must still *undergo* the functional state, and this undergoing is exactly the first-person character that deflation was meant to dissolve. The regress terminates not in functional states but in the irreducibly first-person character of awareness.
 
-Raymond Tallis has made this point against contemporary illusionists: "Misrepresentation presupposes presentation." For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears. That "something to which" is exactly the phenomenal consciousness illusionism denies.
+Raymond Tallis has made this point against contemporary illusionists: illusions presuppose experience. For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears. That "something to which" is exactly the phenomenal consciousness illusionism denies.
 
 Sartre anticipated this in 1943. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear.
 

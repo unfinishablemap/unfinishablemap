@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-29 10:56:00+00:00
+ai_modified: 2026-07-30 15:14:45+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Mental Causation and Downward Causation
 archived: true
@@ -159,7 +159,7 @@ The Map defends *strong* downward causation. The Dualism tenet holds consciousne
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. The standard response invokes a regress: to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
+[illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. The standard response invokes a regress: to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes, illusions presuppose experience.
 
 Frankish (2016) explicitly addresses this regress: the "seeming" is a functional state, not a phenomenal one—a representation can misrepresent without phenomenal experience. The [consciousness-selecting article](/concepts/consciousness-selecting-neural-patterns/#the-illusionist-challenge) engages this reply in detail, arguing that self-directed representations ("I am phenomenally conscious") face a distinctive burden that external misrepresentations do not.
 

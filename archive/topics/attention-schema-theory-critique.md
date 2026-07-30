@@ -4,7 +4,7 @@ description: "Graziano's theory explains reports about consciousness but not con
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-10T10:26:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ The immediate question: who concludes? What does the concluding?
 
 An information structure doesn't conclude anything. Information exists; it doesn't draw inferences. For a conclusion to be drawn, something must grasp the premises and recognize the entailment. This grasping is itself experiential—there is something it is like to understand, to see how pieces fit together. AST must either invoke this phenomenal grasping (undermining its eliminativist conclusion) or deny that conclusions are really drawn (making the theory's own formulation incoherent).
 
-Raymond Tallis sharpens this point: "Misrepresentation presupposes presentation." For the attention schema to *misrepresent* attention as phenomenal, the misrepresentation must appear to something. Illusions require someone to be fooled. A drawing of a face isn't confused about faces; only a perceiver seeing the drawing can be confused. The attention schema, as a neural information structure, isn't confused about anything. It's just a pattern of activation.
+Raymond Tallis sharpens this point: illusions presuppose experience. For the attention schema to *misrepresent* attention as phenomenal, the misrepresentation must appear to something. Illusions require someone to be fooled. A drawing of a face isn't confused about faces; only a perceiver seeing the drawing can be confused. The attention schema, as a neural information structure, isn't confused about anything. It's just a pattern of activation.
 
 Graziano's response—that the schema "just is" the conclusion, with no separate concluder—collapses the distinction between representing and experiencing. If representing something as phenomenal is sufficient for phenomenality, then phenomenality is real after all. If it isn't sufficient, then AST hasn't explained why we *seem* to have experiences rather than merely processing information labeled "experiential."
 

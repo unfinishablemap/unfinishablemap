@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -187,7 +187,7 @@ Stapp describes consciousness holding a "template for action" stable through the
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. But as Tallis notes, "Misrepresentation presupposes presentation." To seem one way rather than another, there must be something it's like to seem.
+[[illusionism|Illusionists]] argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. But as Tallis notes, illusions presuppose experience. To seem one way rather than another, there must be something it's like to seem.
 
 The correlation between felt effort and motor difficulty poses a problem for illusionism. Novel movements feel harder than practiced ones; complex sequences feel harder than simple actions. The Zeno framework explains this: difficult actions require more frequent observation events, producing greater felt effort. If phenomenology were disconnected from motor processing, this correlation would be coincidental.
 

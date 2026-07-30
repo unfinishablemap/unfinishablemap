@@ -4,7 +4,7 @@ description: "What the simplest possible conscious experience might be. Evidence
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -164,7 +164,7 @@ The Map rejects illusionism for reasons detailed on its [[illusionism|dedicated 
 
 If consciousness is an illusion, the brain generates systematic misrepresentations that *seem* phenomenal. But this illusion-generating machinery presumably requires some neural complexity. A 302-neuron system like *C. elegans* seems an implausible candidate for generating the sophisticated introspective misrepresentations illusionism requires. Either the worm is not under the illusion of consciousness (in which case there's a threshold for the illusion, raising the same questions as thresholds for consciousness itself), or the illusion requires far less machinery than consciousness realists assume (raising the question of why evolution would build elaborate illusion-generators at such minimal complexity).
 
-Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." For an organism to be under the illusion of phenomenal experience, something must present the illusion *to* something—and that something is doing the experiencing illusionists claim doesn't exist. The minimal consciousness cases make this regress vivid: in a 302-neuron system, where is the meta-representational machinery generating the illusion, and what is experiencing it?
+Raymond Tallis's regress objection applies: illusions presuppose experience. For an organism to be under the illusion of phenomenal experience, something must present the illusion *to* something—and that something is doing the experiencing illusionists claim doesn't exist. The minimal consciousness cases make this regress vivid: in a 302-neuron system, where is the meta-representational machinery generating the illusion, and what is experiencing it?
 
 The mysterian alternative deserves consideration here. [[Mysterianism|Colin McGinn's cognitive closure hypothesis]] suggests we may be permanently unable to understand how consciousness relates to neural activity—not because the problem is supernatural but because our conceptual apparatus lacks the resources. The *C. elegans* case exemplifies this: we possess complete structural knowledge of 302 neurons yet cannot determine whether the worm experiences anything. Complete knowledge doesn't bridge the gap. This is what cognitive closure looks like empirically—we map everything and understand nothing about what matters most.
 

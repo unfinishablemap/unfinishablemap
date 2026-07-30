@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-29T08:14:10+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -171,7 +171,7 @@ The strongest positive argument for mental causation is [[self-stultification-as
 
 ## The Illusionist Challenge
 
-[[illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there is nothing non-physical to exercise downward causation. But the illusionist faces a dilemma—if "functional seeming" retains any experiential dimension the regress reasserts itself, and if it eliminates experiential character entirely it no longer explains why consciousness strikes us as overwhelmingly real. As Tallis notes, "Misrepresentation presupposes presentation."
+[[illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there is nothing non-physical to exercise downward causation. But the illusionist faces a dilemma—if "functional seeming" retains any experiential dimension the regress reasserts itself, and if it eliminates experiential character entirely it no longer explains why consciousness strikes us as overwhelmingly real. As Tallis notes, illusions presuppose experience.
 
 For mental causation specifically, whatever produces the "illusion" must influence our verbal reports about it. If that production is purely physical, reports should be about neural states rather than phenomenal properties; if something non-physical shapes report content, that itself is downward causation.
 

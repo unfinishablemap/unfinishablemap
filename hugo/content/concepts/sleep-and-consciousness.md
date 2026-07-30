@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-11 10:11:00+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -121,7 +121,7 @@ Several features resist this reading:
 
 **The asymmetry of dreamless sleep**: Dreamless sleep involves complete temporal collapse—seven hours feel like nothing, not like forgotten experience. This differs from waking amnesia and suggests consciousness genuinely *wasn't present*.
 
-**The regress problem**: The illusionist must explain what experiences the "seeming" of consciousness. As Raymond Tallis argues, "misrepresentation presupposes presentation."
+**The regress problem**: The illusionist must explain what experiences the "seeming" of consciousness. As Raymond Tallis argues, illusions presuppose experience.
 
 **Lucid dreaming**: The trainability of lucidity suggests consciousness is a genuine capacity rather than mere representation. Training a capacity to operate in new conditions is standard skill acquisition.
 

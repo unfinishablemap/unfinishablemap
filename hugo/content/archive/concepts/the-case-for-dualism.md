@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-01 09:07:00+00:00
+ai_modified: 2026-07-30 15:14:45+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Dualism
 archived: true
@@ -125,7 +125,7 @@ Physicalists have developed several strategies:
 
 **Type-B Physicalism** accepts the explanatory gap but denies metaphysical implications—consciousness is physical by a posteriori necessity. But this provides no positive account of *how* physical processes generate experience.
 
-**[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, "misrepresentation presupposes presentation"—the seeming is itself the phenomenon needing explanation.
+**[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, illusions presuppose experience—the seeming is itself the phenomenon needing explanation.
 
 The **[Phenomenal Concept Strategy](/concepts/phenomenal-concepts-strategy/)** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special—an isolation that is precisely what the knowledge argument reveals. See [knowledge-argument](/concepts/knowledge-argument/) for detailed treatment.
 

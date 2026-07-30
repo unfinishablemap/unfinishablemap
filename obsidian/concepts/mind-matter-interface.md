@@ -4,7 +4,7 @@ description: "A two-layer architecture unifying filter theory and quantum select
 created: 2026-01-16
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ A critical objection to Layer 2: [[decoherence]] destroys quantum coherence in w
 
 [[illusionism]] poses a different challenge: if phenomenal consciousness is an introspective illusion, the entire two-layer model collapses—no independent consciousness to filter, nothing genuinely phenomenal to select for.
 
-The model responds on three fronts. First, illusionism faces a regress: seeming to have experience is itself phenomenal—as Tallis argues, "Misrepresentation presupposes presentation." Second, if consciousness were merely neural illusion, reduced brain activity should produce reduced phenomenology, but psychedelic and NDE evidence suggests the opposite (though this evidence admits alternative interpretations). Third, even granting illusionism, something must still determine which quantum possibilities become actual—the explanatory role for selection remains regardless of what we call the selecting principle.
+The model responds on three fronts. First, illusionism faces a regress: seeming to have experience is itself phenomenal—as Tallis argues, illusions presuppose experience. Second, if consciousness were merely neural illusion, reduced brain activity should produce reduced phenomenology, but psychedelic and NDE evidence suggests the opposite (though this evidence admits alternative interpretations). Third, even granting illusionism, something must still determine which quantum possibilities become actual—the explanatory role for selection remains regardless of what we call the selecting principle.
 
 ## Objections and Responses
 

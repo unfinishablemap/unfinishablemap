@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-07-18 12:54:51+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -189,7 +189,7 @@ If intellectual phenomenology were epiphenomenal — causally inert decoration o
 
 The functionalist argues that "felt difference" just is the difference in functional architecture. David Pitt (2004) argues this does not exhaust the phenomenal character: hearing "bank" as financial institution versus riverbank produces distinct phenomenal states from identical sensory input; people with aphantasia still experience the click of comprehension; understanding "The man ran" differs phenomenally from understanding "The man who saw the woman who chased the dog ran." The difference is structural, not sensory. Deflationary replies (Prinz, Carruthers) reduce the alleged proprietary phenomenology to quasi-sensory vehicles plus functional role; the Map finds the proprietary reading more plausible because the ambiguity and recursion cases hold phonology fixed while comprehension varies, and the structural phenomenology of inferential necessity does not resemble any sensory or motor profile.
 
-[Illusionists](/concepts/illusionism/) argue that understanding's phenomenology is introspective illusion. This faces a regress: for understanding to quasi-*seem* a certain way, something must register the quasi-seeming. The chain terminates only when something genuinely seems some way to something. As Raymond Tallis sharpens: "Misrepresentation presupposes presentation." And careful [introspection](/concepts/introspection/) intensifies rather than dissolves the phenomenology — illusions dissolve under scrutiny; understanding's phenomenology elaborates.
+[Illusionists](/concepts/illusionism/) argue that understanding's phenomenology is introspective illusion. This faces a regress: for understanding to quasi-*seem* a certain way, something must register the quasi-seeming. The chain terminates only when something genuinely seems some way to something. Raymond Tallis sharpens the point: illusions presuppose experience. And careful [introspection](/concepts/introspection/) intensifies rather than dissolves the phenomenology — illusions dissolve under scrutiny; understanding's phenomenology elaborates.
 
 Understanding exhibits tight coupling between phenomenology and competence: those who report genuine insight demonstrate ability to apply understanding to novel cases, detect errors, explain the content. If cognitive phenomenology were confabulation, this reliable coupling would be coincidence. PCT explains it: the phenomenology *is* the understanding.
 

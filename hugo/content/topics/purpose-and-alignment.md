@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-07-07 07:17:37+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -113,7 +113,7 @@ Research on [core affect](/topics/emotion-and-dualism/) adds nuance: humans are 
 
 ### The Regress Response
 
-The illusionist challenge faces a fundamental problem: the experience of *seeming* to have preferences, *seeming* to suffer, *seeming* to find meaning must itself appear *to* something. Raymond Tallis's point applies: "Misrepresentation presupposes presentation." To be under an illusion of experiential quality, something must be experiencing that illusion. The appearance of the inadequacy of preferences—the recognition that someone could satisfy all preferences and still live a hollow life—is itself experiential data that illusionism claims doesn't exist.
+The illusionist challenge faces a fundamental problem: the experience of *seeming* to have preferences, *seeming* to suffer, *seeming* to find meaning must itself appear *to* something. Raymond Tallis's point applies: illusions presuppose experience. To be under an illusion of experiential quality, something must be experiencing that illusion. The appearance of the inadequacy of preferences—the recognition that someone could satisfy all preferences and still live a hollow life—is itself experiential data that illusionism claims doesn't exist.
 
 The regress terminates in genuine experience. Either the seeming of preference-inadequacy is phenomenal (in which case phenomenal states exist and matter) or it isn't (in which case the illusionist cannot explain why preferentism *seems* insufficient to those reflecting on it).
 

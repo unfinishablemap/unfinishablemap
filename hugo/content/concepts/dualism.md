@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-28 07:18:00+00:00
+ai_modified: 2026-07-30 15:08:07+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -143,7 +143,7 @@ No single argument establishes dualism conclusively, and the eight are not evide
 
 **Type-B Physicalism** accepts the explanatory gap but denies metaphysical implications—consciousness is physical by a posteriori necessity. But this provides no positive account of *how* physical processes generate experience.
 
-**[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, "misrepresentation presupposes presentation."
+**[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, illusions presuppose experience.
 
 The **[Phenomenal Concept Strategy](/concepts/phenomenal-concepts-strategy/)** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special—an isolation that is precisely what the knowledge argument reveals.
 

@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-29T09:11:38+00:00
+ai_modified: 2026-07-30T15:08:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ This dissolves the strong emergence problem. We don't need to explain how experi
 
 The Map rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
 
-If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. But "seeming" presupposes a subject to whom things seem. Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." The appearance of experience must appear *to* something—and that something is doing the experiencing illusionists claim doesn't exist.
+If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. But "seeming" presupposes a subject to whom things seem. Raymond Tallis's regress objection applies: illusions presuppose experience. The appearance of experience must appear *to* something—and that something is doing the experiencing illusionists claim doesn't exist.
 
 Moreover, explaining why evolution produced such a powerful, universal illusion is itself a major explanatory burden. Why would natural selection craft organisms that systematically misrepresent their own cognition? If the illusion is adaptive (because it helps with behavioural flexibility, planning, etc.), why couldn't genuine consciousness provide those advantages directly? The illusionist trades the question "why did consciousness evolve?" for "why did the illusion of consciousness evolve?"—and faces similar challenges.
 

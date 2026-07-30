@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -190,7 +190,7 @@ Stapp describes consciousness holding a "template for action" stable through the
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. But as Tallis notes, "Misrepresentation presupposes presentation." To seem one way rather than another, there must be something it's like to seem.
+[Illusionists](/concepts/illusionism/) argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. But as Tallis notes, illusions presuppose experience. To seem one way rather than another, there must be something it's like to seem.
 
 The correlation between felt effort and motor difficulty poses a problem for illusionism. Novel movements feel harder than practiced ones; complex sequences feel harder than simple actions. The Zeno framework explains this: difficult actions require more frequent observation events, producing greater felt effort. If phenomenology were disconnected from motor processing, this correlation would be coincidental.
 

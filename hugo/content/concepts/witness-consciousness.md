@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-12 14:04:40+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -142,7 +142,7 @@ The witness concept points to what [Dualism](/tenets/#dualism) asserts: somethin
 
 [Illusionists](/concepts/illusionism/) can accommodate the *reports* of witness consciousness—the brain could generate such reports through functional processes without "real" witnessing occurring. Attention schema theory explains why we *believe* we're witnessing.
 
-**The Map's response**: Illusionism faces its characteristic regress. To say the witness experience is an "illusion" presupposes something experiencing the illusion. As Raymond Tallis argues, "misrepresentation presupposes presentation."
+**The Map's response**: Illusionism faces its characteristic regress. To say the witness experience is an "illusion" presupposes something experiencing the illusion. As Raymond Tallis argues, illusions presuppose experience.
 
 More directly: if illusionism were correct, contemplative training should reveal the witness as fabrication. Instead, traditions report that practice deepens the witness's clarity while revealing its *contents* as transient. The illusion attaches to what is witnessed, not to the witnessing itself.
 

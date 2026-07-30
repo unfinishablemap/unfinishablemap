@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-07-30 15:08:07+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -82,7 +82,7 @@ The pour-soi cannot coincide with itself. When I am aware of my fear, the awaren
 
 The illusionist must answer: to whom does the illusion appear? Frankish (2016) responds that "seeming" can be deflated into purely functional terms—a cognitive error, not a phenomenal illusion requiring a phenomenal experiencer. But Sartre's analysis shows why deflation fails. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. Something must still *undergo* the functional state, and this undergoing is exactly the first-person character that deflation was meant to dissolve.
 
-As Tallis puts it: "Misrepresentation presupposes presentation." The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The illusionist's move treats consciousness as a thing with properties that might be illusory, but consciousness is the perspective from which properties appear. [Witness consciousness](/concepts/witness-consciousness/)—observing thoughts without identification—provides independent support: sustained practice *refines* rather than dissolves phenomenal access.
+As Tallis argues, illusions presuppose experience. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The illusionist's move treats consciousness as a thing with properties that might be illusory, but consciousness is the perspective from which properties appear. [Witness consciousness](/concepts/witness-consciousness/)—observing thoughts without identification—provides independent support: sustained practice *refines* rather than dissolves phenomenal access.
 
 ## Heidegger's Dasein: Being-in-the-World
 

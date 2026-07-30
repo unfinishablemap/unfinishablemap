@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 23:24:29+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -72,7 +72,7 @@ Galen Strawson calls denying consciousness exists "the silliest claim ever made"
 
 ### The Infinite Regress Problem
 
-Tallis argues illusionism compounds rather than solves the hard problem. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness. "Misrepresentation presupposes presentation"—all illusions presuppose experience. There must be *something it's like* to be under the illusion of consciousness.
+Tallis argues illusionism compounds rather than solves the hard problem. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness. All illusions presuppose experience. There must be *something it's like* to be under the illusion of consciousness.
 
 By claiming phenomenal consciousness is a mental fiction, illusionists must explain how physical processes create this fiction—a second-order problem potentially harder than the original.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-16 12:07:49+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -147,7 +147,7 @@ Meditation practice refines phenomenological discrimination. Advanced meditators
 
 ### Why the Illusion Thesis Falls Short
 
-If phenomenology is illusory, what is the *seeming* of effort? Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). As Tallis puts it: "misrepresentation presupposes presentation."
+If phenomenology is illusory, what is the *seeming* of effort? Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). As Tallis argues, illusions presuppose experience.
 
 Wegner's evidence comes from cases where agency attribution goes wrong — automatisms, hypnosis. These involve *initiation* phenomenology alone, saying nothing about sustained control, effort gradients, or active veto. The illusion would need to be four independent tricks, each precisely calibrated to real cognitive demands.
 

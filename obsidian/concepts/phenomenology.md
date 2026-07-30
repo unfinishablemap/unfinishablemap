@@ -42,7 +42,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-09T22:35:42+00:00
-ai_modified: 2026-07-09T22:35:42+00:00
+ai_modified: 2026-07-30T15:08:07+00:00
 ---
 
 Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring the structures of experience from within. Its central methodological commitment: consciousness has an intricate architecture accessible through first-person investigation—an architecture that third-person scientific description has not captured and may be structurally unable to capture.
@@ -125,7 +125,7 @@ The hard problem reflects a structural feature of the relationship between first
 
 [[illusionism|Illusionism]]—the view that phenomenal consciousness is an introspective illusion—poses a radical challenge to phenomenology. If Frankish and Dennett are correct, phenomenological investigation systematically catalogues misrepresentations rather than genuine features of experience.
 
-Phenomenology's response targets illusionism's core difficulty. The illusionist claim presupposes a subject to whom phenomenal properties *seem* to exist. Raymond Tallis states the point directly: "Misrepresentation presupposes presentation." There must be *something it's like* to have the mistaken belief that one is phenomenally conscious—but this is precisely what illusionism denies. Frankish has responded that "seeming" can be cashed out in purely functional terms—a research programme whose success remains open. (See [[nihilism-and-existentialism]] for how Sartre's *pour-soi* analysis extends this argument.)
+Phenomenology's response targets illusionism's core difficulty. The illusionist claim presupposes a subject to whom phenomenal properties *seem* to exist. Raymond Tallis states the point directly: illusions presuppose experience. There must be *something it's like* to have the mistaken belief that one is phenomenally conscious—but this is precisely what illusionism denies. Frankish has responded that "seeming" can be cashed out in purely functional terms—a research programme whose success remains open. (See [[nihilism-and-existentialism]] for how Sartre's *pour-soi* analysis extends this argument.)
 
 The epoché reveals a structural feature of investigation itself: every inquiry occurs from a first-person perspective. The heterophenomenologist who brackets phenomenal consciousness does so from within their own phenomenal perspective—the bracketing itself is an act of consciousness. Illusionism faces the self-stultification challenge: formulating the position appears to require invoking what it denies.
 

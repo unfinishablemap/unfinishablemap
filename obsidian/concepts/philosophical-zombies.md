@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-28T12:13:44+00:00
+ai_modified: 2026-07-30T15:08:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ Daniel Dennett proposes treating first-person reports as data about "how things 
 
 ### The Regress Objection
 
-Raymond Tallis argues that illusionism compounds rather than solves the problem: "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion. Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal, where the misrepresentation itself is purely functional. Many philosophers consider this exchange a standoff (see [[illusionism#The Infinite Regress Problem|the full regress argument]] and [[illusionism#The Illusionist Response: Functional Seeming|Frankish's response]]). The Map maintains Frankish's response doesn't fully escape the regress: if quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
+Raymond Tallis argues that illusionism compounds rather than solves the problem: illusions presuppose experience—to be under an illusion, something must experience it. Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal, where the misrepresentation itself is purely functional. Many philosophers consider this exchange a standoff (see [[illusionism#The Infinite Regress Problem|the full regress argument]] and [[illusionism#The Illusionist Response: Functional Seeming|Frankish's response]]). The Map maintains Frankish's response doesn't fully escape the regress: if quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
 
 ### Why Illusionism Strengthens the Zombie Argument
 

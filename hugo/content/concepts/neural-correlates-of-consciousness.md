@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-16 13:21:45+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -126,7 +126,7 @@ These findings form one evidential pattern—*consciousness appearing where a st
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that NCC research reveals consciousness *is* nothing more than neural patterns—the [explanatory-gap](/concepts/explanatory-gap/) reflects confused concepts, not genuine ontology. But the illusionist faces a regress: if phenomenal consciousness is an "illusion," the *seeming* to have experience must be explained. Either the seeming involves phenomenal properties (relocating rather than eliminating consciousness) or it doesn't (requiring explanation of why non-phenomenal seeming universally produces false beliefs). As Raymond Tallis notes, "misrepresentation presupposes presentation."
+[Illusionists](/concepts/illusionism/) argue that NCC research reveals consciousness *is* nothing more than neural patterns—the [explanatory-gap](/concepts/explanatory-gap/) reflects confused concepts, not genuine ontology. But the illusionist faces a regress: if phenomenal consciousness is an "illusion," the *seeming* to have experience must be explained. Either the seeming involves phenomenal properties (relocating rather than eliminating consciousness) or it doesn't (requiring explanation of why non-phenomenal seeming universally produces false beliefs). As Raymond Tallis notes, illusions presuppose experience.
 
 NCC findings don't favor illusionism over realism. Both camps make the same empirical predictions; the dispute is what correlations *mean*.
 

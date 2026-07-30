@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-07-16 06:31:00+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-25 01:46:02+00:00
 apex_sources:
@@ -135,7 +135,7 @@ The three phases exemplify bidirectional interaction within a single attentional
 
 [Attention Schema Theory](/concepts/attention-schema-theory/) offers the most developed materialist alternative. Graziano proposes that consciousness is the brain's simplified model of its own attention—an "attention schema" analogous to the body schema. AST's central move is to identify *being represented as phenomenal* with *being phenomenal*: inside AST's own framework, the question "what experiences the schema?" is the schema generating its own characteristic confusion, not a residue awaiting reply.
 
-The Map's engagement is not refutation but [identifying a step the framework has not earned](/topics/attention-and-the-consciousness-interface/). By the mechanistic standard the materialist programme imposes on rival theories, AST owes the bridge from representational content to ontic status. The standard reply—that *recursive* self-modelling makes the difference—names the architectural feature without delivering the bridge: a chess engine running diagnostics on its own search, or a self-monitoring thermostat, performs recursive self-modelling without generating any apparent phenomenality. Tallis's "misrepresentation presupposes presentation" presses the question in different vocabulary; AST's reply, that the seeming arises because the schema generates phenomenal-property content, just relocates the foundational debt.
+The Map's engagement is not refutation but [identifying a step the framework has not earned](/topics/attention-and-the-consciousness-interface/). By the mechanistic standard the materialist programme imposes on rival theories, AST owes the bridge from representational content to ontic status. The standard reply—that *recursive* self-modelling makes the difference—names the architectural feature without delivering the bridge: a chess engine running diagnostics on its own search, or a self-monitoring thermostat, performs recursive self-modelling without generating any apparent phenomenality. Tallis's claim that illusions presuppose experience presses the question in different vocabulary; AST's reply, that the seeming arises because the schema generates phenomenal-property content, just relocates the foundational debt.
 
 The substantive disagreement runs deeper still. AST treats phenomenal experience as an artefact of representational content; the Map takes it as ontologically primary. Neither side refutes the other inside the rival's framework—the disagreement is about which framework to inhabit, and the Map notes this honestly rather than dressing tenet-incompatibility as a victory on AST's terms.
 

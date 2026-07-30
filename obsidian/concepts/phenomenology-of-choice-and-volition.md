@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-07-16T12:07:49+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -143,7 +143,7 @@ Meditation practice refines phenomenological discrimination. Advanced meditators
 
 ### Why the Illusion Thesis Falls Short
 
-If phenomenology is illusory, what is the *seeming* of effort? Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). As Tallis puts it: "misrepresentation presupposes presentation."
+If phenomenology is illusory, what is the *seeming* of effort? Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). As Tallis argues, illusions presuppose experience.
 
 Wegner's evidence comes from cases where agency attribution goes wrong — automatisms, hypnosis. These involve *initiation* phenomenology alone, saying nothing about sustained control, effort gradients, or active veto. The illusion would need to be four independent tricks, each precisely calibrated to real cognitive demands.
 

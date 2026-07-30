@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-07-30 15:14:45+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Phenomenology of Understanding and Meaning
 archived: true
@@ -154,7 +154,7 @@ Evidence from [semantic-memory](/concepts/semantic-memory/) reinforces the case.
 
 [Illusionists](/concepts/illusionism/) argue that understanding's phenomenology is introspective illusion — "quasi-phenomenal properties" that the brain misrepresents as genuinely phenomenal.
 
-This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. As Raymond Tallis sharpens the point: "Misrepresentation presupposes presentation."
+This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. Raymond Tallis sharpens the point: illusions presuppose experience.
 
 Careful [introspection](/concepts/introspection/) doesn't dissolve the phenomenology — it intensifies it. Advanced contemplative practitioners report that sustained attention reveals *more* phenomenal structure, not less: initial contact, progressive elaboration, integrative binding, confirmatory checking, and stabilisation, each with characteristic phenomenology. Illusions dissolve under scrutiny; understanding's phenomenology elaborates.
 

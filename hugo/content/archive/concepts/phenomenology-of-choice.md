@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-23 20:30:00+00:00
+ai_modified: 2026-07-30 15:14:45+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Phenomenology of Choice and Volition
 archived: true
@@ -161,7 +161,7 @@ The felt openness of alternatives thus tracks ontological openness. The phenomen
 
 ### The Regress Problem
 
-If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis: "misrepresentation presupposes presentation."
+If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis's regress: illusions presuppose experience.
 
 Keith Frankish responds that seemings are *quasi-phenomenal*—functional properties explaining why we judge choosing differs from observing. But quasi-phenomenal properties face the same regress. A philosophical zombie would have identical quasi-phenomenal representations, yet we judge our experience of choosing differs from passive reception in ways no functional duplicate captures.
 

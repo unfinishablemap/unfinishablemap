@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-24 19:02:48+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -126,7 +126,7 @@ The Map's framework suggests quantum sensitivity is essential but not sufficient
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map responds that the "illusion" itself must be explained—and as Raymond Tallis observes, "Misrepresentation presupposes presentation." More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [illusionism](/concepts/illusionism/) for fuller engagement.
+[Illusionists](/concepts/illusionism/) argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map responds that the "illusion" itself must be explained—and as Raymond Tallis observes, illusions presuppose experience. More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [illusionism](/concepts/illusionism/) for fuller engagement.
 
 ## The Decoherence Challenge
 

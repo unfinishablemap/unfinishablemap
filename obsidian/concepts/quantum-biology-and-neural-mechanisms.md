@@ -4,7 +4,7 @@ description: "Quantum effects in living systems—magnetoreception and enzyme tu
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-07-30T13:13:52+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,7 +149,7 @@ None of this proves quantum consciousness, and the discipline of "predictions he
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis: "Misrepresentation presupposes presentation"), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
+[[illusionism|Illusionists]] might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis's regress: illusions presuppose experience), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
 
 ## The Measurement Problem Connection
 

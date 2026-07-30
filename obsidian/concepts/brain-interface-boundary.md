@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-06-24T19:02:48+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +123,7 @@ The Map's framework suggests quantum sensitivity is essential but not sufficient
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map responds that the "illusion" itself must be explained—and as Raymond Tallis observes, "Misrepresentation presupposes presentation." More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [[illusionism]] for fuller engagement.
+[[illusionism|Illusionists]] argue that if phenomenal consciousness is an introspective illusion, there's nothing special about brains regarding consciousness. The Map responds that the "illusion" itself must be explained—and as Raymond Tallis observes, illusions presuppose experience. More fundamentally, interface locality holds whether consciousness is real or illusory; the causal processes are brain-local either way. See [[illusionism]] for fuller engagement.
 
 ## The Decoherence Challenge
 

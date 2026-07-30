@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-29T21:57:51+00:00
+ai_modified: 2026-07-30T15:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ How can I be wrong about the existence of something for which I have inescapable
 
 ### The Infinite Regress Problem
 
-Raymond Tallis argues illusionism compounds rather than solves the hard problem: "misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing it, so there must be *something it's like* to hold the mistaken belief that consciousness is phenomenal.
+Raymond Tallis argues illusionism compounds rather than solves the hard problem: all illusions presuppose experience, so to be under an illusion something must be experiencing it, and there must be *something it's like* to hold the mistaken belief that consciousness is phenomenal.
 
 But the bare regress assumes "seeming" is itself phenomenal—precisely what illusionists deny. Frankish replies ([[#The Illusionist Response Functional Seeming|below]]) that a system can represent itself as phenomenally conscious without any phenomenal consciousness existing, and he is right that the bare regress proves nothing: a representational system need not instantiate what it represents. The substantive engagement is therefore not the regress but the [[#The Meta-Representational Bridge to Felt Unity|meta-representational bridge]] Frankish offers in its place—and whether it can be built where the represented and the representing coincide. The [[#Where the Functional Account Falls Short|five objections]] press that case.
 

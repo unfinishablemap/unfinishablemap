@@ -4,7 +4,7 @@ description: "AI should target experiential quality, not preference satisfaction
 created: 2026-01-17
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-07-19T00:08:59+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -148,7 +148,7 @@ The objective includes governance as part of its specification—without which a
 
 The illusionist must explain why preference satisfaction seems inadequate—why we intuitively recognize that a person could get everything they prefer and still have a life not worth living. That recognition is data the illusionist owes an account of.
 
-The more interesting pressure comes from illusionism's own explanatory standard. Frankish's programme replaces phenomenal consciousness with *quasi-phenomenal* introspective representations that *misrepresent* the brain's states as having qualitative character. But misrepresentation is a relation—something is represented *as* being some way *to* some system—and illusionism helps itself to that relation without specifying how the misrepresenting can be constituted with no relatum to which the appearance appears. Mechanistic specification is exactly the standard illusionism holds its own rivals to. Raymond Tallis compresses the worry: "misrepresentation presupposes presentation."
+The more interesting pressure comes from illusionism's own explanatory standard. Frankish's programme replaces phenomenal consciousness with *quasi-phenomenal* introspective representations that *misrepresent* the brain's states as having qualitative character. But misrepresentation is a relation—something is represented *as* being some way *to* some system—and illusionism helps itself to that relation without specifying how the misrepresenting can be constituted with no relatum to which the appearance appears. Mechanistic specification is exactly the standard illusionism holds its own rivals to. Raymond Tallis compresses the worry: illusions presuppose experience.
 
 This is a pressure point, not a refutation. An illusionist can answer that "appearing-to" is itself a functional relation carrying no felt residue; read that way the disagreement stands at the framework boundary rather than being closed inside illusionism's resources. The claim that the regress terminates in *genuine experience* assumes phenomenal realism and so cannot by itself defeat illusionism from within. The decision-relevant work is therefore carried by the practical asymmetry below, not by the regress.
 

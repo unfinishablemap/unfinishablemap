@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-04 00:10:00+00:00
+ai_modified: 2026-07-30 15:14:45+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Temporal Consciousness
 archived: true
@@ -108,7 +108,7 @@ The Map's position: the specious present isn't just how consciousness happens to
 
 [Illusionists](/concepts/illusionism/) argue the specious present is a representational artifact—how the brain models its recent states, not genuine phenomenal thickness. Dennett's "multiple drafts" model treats temporal experience as constructed post hoc through editorial processes.
 
-**The regress response.** If the specious present is "illusion," the *seeming* to experience temporal thickness must be explained. Either the seeming involves phenomenal properties (temporal phenomenology merely relocated) or it doesn't (requiring explanation for why non-phenomenal representation generates irresistible conviction). The latter faces infinite regress: representation must represent *to* something. As Tallis observes, "misrepresentation presupposes presentation."
+**The regress response.** If the specious present is "illusion," the *seeming* to experience temporal thickness must be explained. Either the seeming involves phenomenal properties (temporal phenomenology merely relocated) or it doesn't (requiring explanation for why non-phenomenal representation generates irresistible conviction). The latter faces infinite regress: representation must represent *to* something. As Tallis observes, illusions presuppose experience.
 
 **Contemplative challenge.** [Contemplative traditions](/concepts/witness-consciousness/) report that trained [introspection](/concepts/introspection/) *refines* rather than *dissolves* temporal phenomenology. If illusionism were correct, practice should reveal the specious present as fabrication. Instead, meditators consistently perceive *finer* temporal structure—the phenomenology deepens rather than dissolving.
 

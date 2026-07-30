@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-16 05:42:00+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -155,7 +155,7 @@ So the honest accounting is that many-worlds' ever-multiplying ontology is a rea
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might respond that phenomenal consciousness is itself illusory, dissolving the indexical problem—if there are no genuine subjects, there's no fact about "which branch am I in?" But this faces a characteristic regress: for singular experience to be an "illusion," something must experience the illusion. The *seeming* of unified consciousness is itself phenomenal, and the indexical problem returns at the level of seemings. As Raymond Tallis argues, "misrepresentation presupposes presentation." [Contemplative traditions](/concepts/witness-consciousness/) reinforce this—cross-traditional convergence in meditation reports favors genuine singularity of awareness, not confabulated impression.
+[Illusionists](/concepts/illusionism/) might respond that phenomenal consciousness is itself illusory, dissolving the indexical problem—if there are no genuine subjects, there's no fact about "which branch am I in?" But this faces a characteristic regress: for singular experience to be an "illusion," something must experience the illusion. The *seeming* of unified consciousness is itself phenomenal, and the indexical problem returns at the level of seemings. As Raymond Tallis argues, illusions presuppose experience. [Contemplative traditions](/concepts/witness-consciousness/) reinforce this—cross-traditional convergence in meditation reports favors genuine singularity of awareness, not confabulated impression.
 
 ## The Cumulative Case
 

@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on the irreducibility of c
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-01T09:07:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Physicalists have developed several strategies:
 
 **Type-B Physicalism** accepts the explanatory gap but denies metaphysical implications—consciousness is physical by a posteriori necessity. But this provides no positive account of *how* physical processes generate experience.
 
-**[[illusionism|Illusionism]]** claims [[qualia]] don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, "misrepresentation presupposes presentation"—the seeming is itself the phenomenon needing explanation.
+**[[illusionism|Illusionism]]** claims [[qualia]] don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, illusions presuppose experience—the seeming is itself the phenomenon needing explanation.
 
 The **[[phenomenal-concepts-strategy|Phenomenal Concept Strategy]]** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special—an isolation that is precisely what the knowledge argument reveals. See [[knowledge-argument]] for detailed treatment.
 

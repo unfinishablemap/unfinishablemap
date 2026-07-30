@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-29T10:56:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T05:21:00+00:00
@@ -156,7 +156,7 @@ The Map defends *strong* downward causation. The Dualism tenet holds consciousne
 
 ## The Illusionist Challenge
 
-[[illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. The standard response invokes a regress: to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
+[[illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. The standard response invokes a regress: to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes, illusions presuppose experience.
 
 Frankish (2016) explicitly addresses this regress: the "seeming" is a functional state, not a phenomenal one—a representation can misrepresent without phenomenal experience. The [[consciousness-selecting-neural-patterns#The Illusionist Challenge|consciousness-selecting article]] engages this reply in detail, arguing that self-directed representations ("I am phenomenally conscious") face a distinctive burden that external misrepresentations do not.
 

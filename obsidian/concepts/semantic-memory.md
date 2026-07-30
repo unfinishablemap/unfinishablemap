@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-12T22:58:17+00:00
+ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,7 +127,7 @@ If noetic consciousness involves irreducible phenomenology, LLMs lack it despite
 
 Three responses defend the reality of noetic phenomenology:
 
-**The regress problem.** If the feeling of knowing is an illusion, something must experience this illusion. The seeming-to-know must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). Raymond Tallis captures this point: "misrepresentation presupposes presentation." The illusion of noetic consciousness requires some experience in which the illusion occurs.
+**The regress problem.** If the feeling of knowing is an illusion, something must experience this illusion. The seeming-to-know must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). Raymond Tallis captures this point: illusions presuppose experience. The illusion of noetic consciousness requires some experience in which the illusion occurs.
 
 **The phenomenology of [[introspection|introspection]].** When you attend carefully to a TOT state, the phenomenal character doesn't dissolve—it becomes more vivid. The frustration intensifies; the sense of imminence clarifies. Careful introspection reveals rather than eliminates noetic phenomenology. The illusionist must explain why closer examination intensifies rather than exposes the illusion.
 

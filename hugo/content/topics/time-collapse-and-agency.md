@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-29 13:41:36+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -144,7 +144,7 @@ For the temporal framework specifically, the Zeno mechanism strengthens the conn
 
 The framework offers three responses:
 
-**The regress problem.** If temporal phenomenology is illusory, the *seeming* to experience time must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about temporal flow). Raymond Tallis's observation applies: "Misrepresentation presupposes presentation." The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
+**The regress problem.** If temporal phenomenology is illusory, the *seeming* to experience time must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about temporal flow). Raymond Tallis's observation applies: illusions presuppose experience. The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
 
 **The structural point.** Even if consciousness were "merely" an introspective representation, the question of how collapse introduces temporal asymmetry remains physical, independent of whether we correctly interpret our phenomenology. The framework adds that consciousness-involving collapse shapes the temporal structure of experience where it occurs. This is a claim about physics, not about the accuracy of phenomenal reports.
 

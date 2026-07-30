@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-30 00:19:39+00:00
+ai_modified: 2026-07-30 15:10:22+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -173,7 +173,7 @@ The Map rejects illusionism for reasons detailed on its [dedicated page](/concep
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But those illusion-generating neural systems evolved through quantum events (mutations, molecular interactions) that required definite outcomes—so the illusionist cannot escape into "it's all illusion" without presupposing the very cosmological timeline the prebiotic problem addresses.
 
-Moreover, Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." If the illusion of consciousness seems real to something, that something is doing the experiencing. Illusionists contest this regress—arguing that the "seeming" can itself be functionally explained without invoking genuine phenomenal experience—but the debate remains unresolved. At minimum, the problem relocates rather than dissolves.
+Moreover, Raymond Tallis's regress objection applies: illusions presuppose experience. If the illusion of consciousness seems real to something, that something is doing the experiencing. Illusionists contest this regress—arguing that the "seeming" can itself be functionally explained without invoking genuine phenomenal experience—but the debate remains unresolved. At minimum, the problem relocates rather than dissolves.
 
 ## Process Philosophy Perspective
 

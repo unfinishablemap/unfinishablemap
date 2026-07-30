@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces: quantum se
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -167,7 +167,7 @@ Correct. The criteria explain what makes something a *suitable interface*—they
 
 First, the five criteria describe features that make certain physical systems suitable for behavioural control regardless of whether one accepts phenomenal consciousness. Representational structure, attention mechanisms, and feedback integration matter for sophisticated adaptive behaviour whether or not that behaviour is accompanied by subjective experience. If illusionists are right, brains are still "special" in the functional sense—they're where the illusion occurs.
 
-Second, [[illusionism]] faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this illusion problem may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. The Map holds that this regress reveals phenomenal consciousness as ineliminable. But even if one disagrees, the criteria offered here describe where the "illusion machinery" would have to operate. Illusionism doesn't make the question of brain specialness go away; it reframes it as "what makes certain physical systems generate compelling illusions of consciousness?" The answer would invoke the same criteria: representational structure, metacognitive monitoring, feedback integration.
+Second, [[illusionism]] faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this illusion problem may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, illusions presuppose experience—to be under an illusion, something must be experiencing the illusion. The Map holds that this regress reveals phenomenal consciousness as ineliminable. But even if one disagrees, the criteria offered here describe where the "illusion machinery" would have to operate. Illusionism doesn't make the question of brain specialness go away; it reframes it as "what makes certain physical systems generate compelling illusions of consciousness?" The answer would invoke the same criteria: representational structure, metacognitive monitoring, feedback integration.
 
 The key point: the criteria are independent of the illusionism debate. They describe what evolution built that permits sophisticated cognition—whether that cognition involves genuine phenomenal consciousness or elaborate self-misrepresentation.
 

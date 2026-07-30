@@ -4,7 +4,7 @@ description: "Positive arguments for dualism span metaphysics, epistemology, and
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-15T17:09:00+00:00
+ai_modified: 2026-07-30T15:14:45+00:00
 draft: false
 archived: true
 archived_date: 2026-02-16T05:40:00+00:00
@@ -183,7 +183,7 @@ The strongest materialist response to these arguments isn't to explain conscious
 
 Illusionism trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. But this trade is not favorable for three reasons:
 
-**The Regress Objection**: Raymond Tallis argues that "misrepresentation presupposes presentation." To be under an illusion, something must experience the illusion. There must be *something it's like* to mistakenly believe consciousness is phenomenal. Illusionism invokes experience to deny experience—incoherence at its foundation.
+**The Regress Objection**: Raymond Tallis argues that illusions presuppose experience. To be under an illusion, something must experience the illusion. There must be *something it's like* to mistakenly believe consciousness is phenomenal. Illusionism invokes experience to deny experience—incoherence at its foundation.
 
 **Self-Undermining**: If [[introspection]] is so radically unreliable that it invents phenomenal consciousness wholesale, why trust it for the philosophical reasoning that leads to illusionism? The illusionist arrives at their position through introspection and reasoning about their own experience. The position cannot be rationally held by someone who distrusts the very faculties that produced it.
 
