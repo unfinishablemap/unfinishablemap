@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T23:06:21+00:00'
+ai_modified: '2026-07-30T23:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 23:50 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [embodied-interface](/apex/embodied-interface/) (`apex_type: applied`)
+- **Target named by driver, not auto-selected**: stalest apex in the corpus (38 days) yet scores 0 on the Step-1 formula, which counts changed `apex_sources` only. An applied apex's real dependencies are the positions register, which the scorer does not count at all.
+- **Changed sources**: 0 source articles; **7 cited positions re-verified at block level** against the register revision current at the 2026-06-22 baseline (`add0f867`)
+- **Genuine drift (3)**: **P-Q3** confidence `moderate` → **high** — apex asserted moderate at two loci; corrected, with the scope stated in-prose because the band inverts naively (what is held at high credence is that the dilemma is *real and open*, so a stronger band tightens the pressure on causal consciousness). **P-Q10** gained a toy-model roadmap (2026-06-25) whose *Suspended until progress* clause caps every downstream applied claim that consciousness "does causal work" at the roadmap's open status — this article is exactly such a claim; clause quoted and its Failure branch added as a downward cascade. **P-A1** trilemma reframed as non-exhaustive (2026-07-16), "underdetermined by the trilemma alone", rival agency accounts booked as an open engagement debt.
+- **No drift, but unabsorbed (4)**: `Asserts` for **P-A4 / P-CS4 / P-VS1 / P-VS2** are byte-identical to baseline — their character growth is the `Confidence:` → multi-axis `Calibration:` migration, not substance. Absorbed anyway: P-VS1's Tenet-2 minimality argument and the graduated middle path; P-VS2's asymbolia test direction (degraded selection *efficacy*, not reduced motivation) and its "not guaranteed decidable" limit; P-CS4's independence from the quantum apparatus; P-A4's symmetry clause.
+- **Quote fidelity — 2 repairs**: P-VS1 was quoted as "the currency in which conscious selection is denominated", dropping **"among underdetermined outcomes"** — greps zero, reads as fabricated; restored verbatim (defect present since creation). P-CS4's quote spanned an em-dash and italics so was not contiguous in the raw source; restructured so only "not forced by it" is quoted. All 14 quoted fragments now grep-verify in `obsidian/positions/*.md`.
+- **Retrofit**: installed the required `## Evidence and Dependency` section (187 words) — absent because the section post-dates the article's creation.
+- **Metadata**: `apex_positions_cited` listed 4 IDs while the body cited 7; corrected to all seven. No phantom citations.
+- **Word count**: 2851 → 3704 (soft 4000, `ok`); ~190 of the delta is the mandated retrofit. Taxonomy structurally untouched; no position file or tenet edited.
+- **Review**: [apex-evolve-2026-07-30-embodied-interface](/reviews/apex-evolve-2026-07-30-embodied-interface/)
+
+## 2026-07-30 23:40 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 799 obsidian article-tree + 510 archive + 8957 hugo
+- **Errors**: 18 loci across 16 files (plus Family D, enumerated separately)
+- **Warnings**: 6
+- **Notes**: 7
+- **Verdict**: corpus still passes on the classic reading — no direct contradiction of any tenet in the Map's own voice; 61 direct-contradiction candidates inspected, 0 survived
+- **New finding**: the conceivability/qualia cluster has never been swept against the tenet-dependency-matrix row added to `tenets.md` 2026-07-28; `concepts/philosophical-zombies.md` L203/L207 run Tenets 3 and 4 as inheritance in cells the matrix marks not-invoked, contradicting both `tenets.md` L168 and the file's own L163
+- **False-positive rate on inspected candidates**: ~90%
+- **A1/A2 closed**: the 07-29b "zero self-binding" premise was false when written; only `parsimony-epistemology.md` L140 survives
+- **Output**: [tenet-check-2026-07-30](/reviews/tenet-check-2026-07-30/)
 
 ## 2026-07-30 23:06 UTC - refine-draft
 - **Status**: Success

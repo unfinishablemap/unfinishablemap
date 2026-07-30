@@ -5,6 +5,19 @@ ai_modified: '2026-07-30T23:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-30 23:50 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/embodied-interface]] (`apex_type: applied`)
+- **Target named by driver, not auto-selected**: stalest apex in the corpus (38 days) yet scores 0 on the Step-1 formula, which counts changed `apex_sources` only. An applied apex's real dependencies are the positions register, which the scorer does not count at all.
+- **Changed sources**: 0 source articles; **7 cited positions re-verified at block level** against the register revision current at the 2026-06-22 baseline (`add0f867`)
+- **Genuine drift (3)**: **P-Q3** confidence `moderate` → **high** — apex asserted moderate at two loci; corrected, with the scope stated in-prose because the band inverts naively (what is held at high credence is that the dilemma is *real and open*, so a stronger band tightens the pressure on causal consciousness). **P-Q10** gained a toy-model roadmap (2026-06-25) whose *Suspended until progress* clause caps every downstream applied claim that consciousness "does causal work" at the roadmap's open status — this article is exactly such a claim; clause quoted and its Failure branch added as a downward cascade. **P-A1** trilemma reframed as non-exhaustive (2026-07-16), "underdetermined by the trilemma alone", rival agency accounts booked as an open engagement debt.
+- **No drift, but unabsorbed (4)**: `Asserts` for **P-A4 / P-CS4 / P-VS1 / P-VS2** are byte-identical to baseline — their character growth is the `Confidence:` → multi-axis `Calibration:` migration, not substance. Absorbed anyway: P-VS1's Tenet-2 minimality argument and the graduated middle path; P-VS2's asymbolia test direction (degraded selection *efficacy*, not reduced motivation) and its "not guaranteed decidable" limit; P-CS4's independence from the quantum apparatus; P-A4's symmetry clause.
+- **Quote fidelity — 2 repairs**: P-VS1 was quoted as "the currency in which conscious selection is denominated", dropping **"among underdetermined outcomes"** — greps zero, reads as fabricated; restored verbatim (defect present since creation). P-CS4's quote spanned an em-dash and italics so was not contiguous in the raw source; restructured so only "not forced by it" is quoted. All 14 quoted fragments now grep-verify in `obsidian/positions/*.md`.
+- **Retrofit**: installed the required `## Evidence and Dependency` section (187 words) — absent because the section post-dates the article's creation.
+- **Metadata**: `apex_positions_cited` listed 4 IDs while the body cited 7; corrected to all seven. No phantom citations.
+- **Word count**: 2851 → 3704 (soft 4000, `ok`); ~190 of the delta is the mandated retrofit. Taxonomy structurally untouched; no position file or tenet edited.
+- **Review**: [[reviews/apex-evolve-2026-07-30-embodied-interface]]
+
 ## 2026-07-30 23:40 UTC - check-tenets
 - **Status**: Warnings
 - **Files checked**: 799 obsidian article-tree + 510 archive + 8957 hugo
