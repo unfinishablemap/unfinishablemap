@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-06-24 15:08:54+00:00
+ai_modified: 2026-07-30 12:20:02+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -94,7 +94,7 @@ The Unfinishable Map's [tenets](/tenets/) predict the kind of convergence biolog
 
 The **Dualism** tenet holds that consciousness is not reducible to physical processes. Biological computationalism's rejection of substrate independence, its insistence on specific physical dynamics, and its admission that computation alone is insufficient are structurally analogous to this claim—even though the framework remains physicalist. Its authors would reject the dualist label, and their ontological commitments differ. But the structural parallel is instructive: both positions hold that abstract functional organisation cannot account for consciousness, and both insist that something more specific is needed.
 
-The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies. Biological computationalism's emphasis on substrate-specific dynamics—ion flows, electromagnetic fields, metabolic processes—is the physical domain where the Map *locates* its proposed interface, not evidence that such an interface exists. Demonstrated quantum effects in warm biological systems (avian magnetoreception, photosynthetic energy transfer) bear on the tenet only as defeater-removal: they show that non-trivial quantum behaviour is not impossible in warm, wet biology, against the standard objection that decoherence forecloses it. They are femtosecond-to-microsecond effects in specifically evolved molecular machinery with no demonstrated bearing on consciousness, and they remain physicalism-compatible facts; they do not corroborate a quantum-level interface for consciousness. The honest claim is the conditional one: *if* consciousness interacts at quantum indeterminacies as the tenet proposes, the substrate-specific dynamics biological computationalism foregrounds are where that interaction would have to act.
+The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies. Biological computationalism's emphasis on substrate-specific dynamics—ion flows, electromagnetic fields, metabolic processes—is the physical domain where the Map *locates* its proposed interface, not evidence that such an interface exists. Demonstrated quantum effects in warm biological systems (cryptochrome radical-pair avian magnetoreception; enzyme quantum tunnelling) bear on the tenet only as defeater-removal: they show that non-trivial quantum behaviour is not impossible in warm, wet biology, against the standard objection that decoherence forecloses it. Photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form (Duan et al. 2017). The surviving cases are femtosecond-to-microsecond effects in specifically evolved molecular machinery with no demonstrated bearing on consciousness, and they remain physicalism-compatible facts; they do not corroborate a quantum-level interface for consciousness. The honest claim is the conditional one: *if* consciousness interacts at quantum indeterminacies as the tenet proposes, the substrate-specific dynamics biological computationalism foregrounds are where that interaction would have to act.
 
 The **Bidirectional Interaction** tenet requires consciousness to causally influence physical outcomes. The observation here is doubly conditional, and the article does not claim either antecedent is established. *If* the interactionist tenet holds—consciousness does causally influence the physical—*and if* biological computation tightly couples algorithm to substrate as Milinkovic and Aru's contested "the algorithm is the substrate" thesis maintains, *then* an influence on those physical processes would be an influence on the computation itself, and so computationally relevant rather than epiphenomenal. This locates where the Map's proposed mechanism (consciousness biasing quantum indeterminacies) would act if both antecedents obtain; it does not defeat epiphenomenalism, which would require establishing the antecedents rather than tracing their consequence.
 
@@ -123,14 +123,15 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261–325.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
-5. Fodor, J.A. (1974). Special Sciences (Or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28(2), 97–115.
-6. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
-7. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
-8. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
-9. Rescorla, M. (2020). The Computational Theory of Mind. In E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition).
-10. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
-11. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
-12. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
-13. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
+3. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114
+4. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+5. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
+6. Fodor, J.A. (1974). Special Sciences (Or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28(2), 97–115.
+7. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
+8. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
+9. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
+10. Rescorla, M. (2020). The Computational Theory of Mind. In E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition).
+11. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
+12. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
+13. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
+14. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.

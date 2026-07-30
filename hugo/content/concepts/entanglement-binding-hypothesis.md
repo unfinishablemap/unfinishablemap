@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-30 12:20:02+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -59,7 +59,7 @@ Several lines of evidence have emerged since 2022, though all remain preliminary
 
 Kerskens and López Pérez (2022) developed a novel MRI protocol designed to detect quantum entanglement in the human brain. They observed a signal mimicking heartbeat-evoked potentials that appeared only during waking consciousness—it disappeared when subjects fell asleep. The fidelity of this putative entanglement signal correlated with short-term memory performance.
 
-Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no account of why such a signal would track sleep versus waking. That residual gap, not the absence of any classical mechanism, is what keeps the entanglement reading contested rather than refuted. The dispute is unresolved and unreplicated, and independent replication has not yet been published.
+Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no account of why such a signal would track sleep versus waking. That residual gap, not the absence of any classical mechanism, is what keeps the entanglement reading contested rather than refuted. The dispute remains unresolved and the protocol independently unreplicated.
 
 ### Microtubule-Stabilising Drug Study
 
@@ -77,9 +77,9 @@ The standard objection holds that quantum coherence cannot survive in warm, wet 
 
 This calculation has been challenged, though the challenge remains contested. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and thermal equilibrium conditions that, as they put it, are "equivalent to death, and thus not appropriate for describing living matter." Their recalculation yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer than Tegmark's figures. But the recalibration has itself been challenged from two directions: Reimers et al. (2009) argued on energetic grounds that the coherent Fröhlich condensation Orch OR needs is inaccessible in biological tissue, and McKemmish et al. (2009) argued that tubulin does not undergo the rapid conformational switching the qubit picture requires. Taken together, these critiques hold that Hagan's parameter assumptions either rest on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
-Biological precedent further weakens the objection. Quantum coherence plays functional roles in photosynthetic energy transfer and avian magnetoreception, where cryptochrome proteins maintain spin coherence for microseconds. If evolution can harness quantum effects for navigation, it might harness them for consciousness. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument systematically: the computational payoffs of quantum effects in neural systems would dwarf those of a compass or a faster enzyme, making neural quantum effects probable rather than merely possible.
+Biological precedent bears on the objection, though less broadly than once thought. The surviving strong case is avian magnetoreception, where cryptochrome proteins maintain radical-pair spin coherence for microseconds: if evolution can harness quantum effects for navigation, it might harness them for consciousness. Photosynthetic energy transfer, long cited alongside it, no longer carries the claim in its *long-lived electronic coherence* form — Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no hint of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live but different question. What survives is a precedent that the regime is not categorically impossible, not a licence for the neural case; the [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the argument systematically and reaches a realistic possibility rather than a probability.
 
-However, the decoherence objection is not fully resolved. The gap between laboratory demonstrations of microtubule coherence and evidence of functional quantum states in living brains remains substantial. The hypothesis requires quantum coherence not just to exist but to be sustained long enough, at sufficient scale, to underwrite the unity of conscious experience.
+The objection is not fully resolved even so. The gap between laboratory demonstrations of microtubule coherence and evidence of functional quantum states in living brains remains substantial. The hypothesis requires quantum coherence not just to exist but to be sustained long enough, at sufficient scale, to underwrite the unity of conscious experience.
 
 ## The Separability No-Go
 
@@ -142,3 +142,4 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 15. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
 16. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
 17. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+18. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114

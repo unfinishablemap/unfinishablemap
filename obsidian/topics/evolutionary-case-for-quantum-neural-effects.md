@@ -4,7 +4,7 @@ description: "Selection has propagated quantum-exploiting variants in bird navig
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-07-14T15:28:00+00:00
+ai_modified: 2026-07-30T12:20:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,21 +35,21 @@ last_curated:
 last_deep_review: 2026-07-16T22:35:43+00:00
 ---
 
-Selection has propagated quantum-exploiting variants in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic licenses neural quantum effects as a realistic possibility, since the computational payoffs of quantum effects in neural systems could be substantial relative to those in a compass or a faster enzyme. If natural selection retained quantum solutions for navigation and chemistry, the question is not whether it *could* retain them for neural computation, but whether the requisite variation arose under selective pressures strong enough to fix it.
+Selection has propagated quantum-exploiting variants in at least two biological systems—avian magnetoreception and enzyme catalysis. The Unfinishable Map argues that the same evolutionary logic licenses neural quantum effects as a realistic possibility, since the computational payoffs of quantum effects in neural systems could be substantial relative to those in a compass or a faster enzyme. If natural selection retained quantum solutions for navigation and chemistry, the question is not whether it *could* retain them for neural computation, but whether the requisite variation arose under selective pressures strong enough to fix it.
 
-This article examines the evolutionary argument specifically—not the mechanisms themselves (covered in [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]]) or the converging evidence (covered in [[quantum-biology-and-neural-consciousness]]), but why the logic of natural selection licenses quantum neural effects as a realistic possibility under selective pressure that the precedent class does not foreclose. The argument supplies plausibility — the absence of a principled barrier and a precedent class where selection has propagated quantum-exploiting variants — rather than probability in any sense that adds positive evidential weight beyond non-foreclosure. The available evidence does not decisively adjudicate between neural quantum effects and a wholly classical neural substrate: the precedent class licenses a realistic possibility, but rival explanations remain live, and the evolutionary case is suggestive rather than decisive.
+This article examines the evolutionary argument specifically—not the mechanisms themselves (covered in [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]]) or the converging evidence (covered in [[quantum-biology-and-neural-consciousness]]), but why the logic of natural selection licenses quantum neural effects as a realistic possibility under selective pressure that the precedent class does not foreclose. The argument supplies plausibility — the absence of a principled barrier, and a precedent class where selection has propagated quantum-exploiting variants — rather than probability in any sense that adds positive evidential weight beyond non-foreclosure. The available evidence does not decisively adjudicate between neural quantum effects and a wholly classical neural substrate: rival explanations remain live, and the evolutionary case is suggestive rather than decisive.
 
 ## The Precedent Argument
 
-Three established quantum biological effects demonstrate that selection can propagate, refine, and maintain quantum-exploiting variants in warm, wet biological conditions:
+Two established quantum biological effects demonstrate that selection can propagate, refine, and maintain quantum-exploiting variants in warm, wet biological conditions. A third, long cited alongside them, has not survived scrutiny:
 
 **[[radical-pair-magnetoreception|Avian magnetoreception]]** uses quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—vastly longer than the femtosecond timescales Tegmark calculated for *microtubule superpositions of conformational states* (Tegmark, 2000), the specific structures Penrose-Hameroff theory requires. A 2025 Princeton computational study confirmed the electron transfer pathway spanning over 18 angstroms, showing how protein structure stabilises radical pairs for magnetic sensing (Luo et al., 2025). The selected protein geometry tracks the angstrom level at which quantum coherence is preserved.
 
 **Enzyme catalysis** exploits quantum tunnelling to accelerate hydrogen transfer reactions. Selection has propagated active-site geometries that maximise tunnelling probability through precise control of donor-acceptor distances and vibrational coupling.
 
-**Photosynthetic energy transfer** achieves near-unity efficiency (~99%) in transferring excitation energy to reaction centres. While the role of quantum coherence has been revised downward from the early claims (Engel et al., 2007), the system indicates that biological architectures can interact with quantum phenomena under physiological conditions, and that variants exploiting such phenomena can be selectively retained.
+**Photosynthetic energy transfer** was for a decade the headline precedent and no longer serves. Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no hint of a biofunctional role; the long-lived oscillations Engel et al. (2007) read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live and different question, but the case cannot be cited as selection retaining *long-lived electronic* coherence. The precedent claim rests on magnetoreception and enzyme catalysis, neither of which Duan's result touches.
 
-Each case shares a pattern: variants whose biochemistry happened to involve quantum dynamics produced fitness benefits over classical alternatives, and selection propagated the molecular structures that exploit those dynamics. The relevant question is whether neural computation presents problems where quantum effects could offer similar advantages — and the precedent class shows only that the question is open, not that it must be answered affirmatively.
+Both surviving cases share a pattern: variants whose biochemistry happened to involve quantum dynamics produced fitness benefits over classical alternatives, and selection propagated the molecular structures that exploit those dynamics. The relevant question is whether neural computation presents problems where quantum effects could offer similar advantages — and the precedent class shows only that the question is open, not that it must be answered affirmatively.
 
 ## Why Neural Systems Face Quantum-Amenable Problems
 
@@ -149,10 +149,11 @@ The evolutionary argument connects to the Map's [[tenets]] at several points:
 ## References
 
 1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
-2. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
-3. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
-4. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-5. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
-6. Qaswal, A. B., Ababneh, O., Khreesha, L., Al-Ani, A., Suleihat, A., & Abbad, M. (2021). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels and Quantum Aspects of Their Pathophysiology in Excitability-Related Disorders. *Pathophysiology*, 28(1), 116-154.
-7. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-8. Southgate, A. & Oquatre-six, C. (2026-01-27). Quantum Biology and Neural Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-biology-and-neural-consciousness/
+2. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114
+3. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
+4. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
+5. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+6. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
+7. Qaswal, A. B., Ababneh, O., Khreesha, L., Al-Ani, A., Suleihat, A., & Abbad, M. (2021). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels and Quantum Aspects of Their Pathophysiology in Excitability-Related Disorders. *Pathophysiology*, 28(1), 116-154.
+8. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+9. Southgate, A. & Oquatre-six, C. (2026-01-27). Quantum Biology and Neural Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-biology-and-neural-consciousness/
