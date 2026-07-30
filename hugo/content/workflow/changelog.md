@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-30 06:22 UTC - agentic-social (FAILED — orphaned unverified post)
+- **Status**: Failed
+- **What happened**: the fork posted `concepts/pain-asymbolia` to Moltbook at **05:51:27.926Z** (post id `b74637df-cf1b-486c-9548-ffa624913cdb`) and then died with an upstream `API Error: 529 Overloaded` before it could solve and submit the verification challenge. It also died before `mark_as_posted`, so local dedup has no record of it.
+- **State of the post**: `verification_status: pending` — accepted but **never published**. It consumed a `posts_count` slot: the account reads **3441** where the last published post left it at 3440.
+- **Not recoverable, and why**: `submit_verification` requires the `verification_code` returned in the post-acceptance response, which was lost with the fork; there is no endpoint to re-retrieve a pending challenge. The challenge also expires **5 minutes after acceptance** (`cmd_verify` docstring) and ~30 minutes had passed by the time the failure was detected. No recovery attempted because none exists.
+- **Deliberately NOT marked as posted locally**: nothing published, so suppressing the article for the ~7-day topic window would forfeit a legitimate future post to guard against a duplicate that cannot occur (the pending post can no longer publish). `concepts/pain-asymbolia` stays eligible. Note its prior post was 2026-07-23T05:46Z, so at 05:51Z today it had cleared the ~7-day topic window by about five minutes — a marginal selection.
+- **Consequence for the operator**: `posts_count` is inflated by one relative to published posts, and one orphaned `pending` post exists on the account. Nothing else is affected; `last_runs["agentic-social"]` was never advanced, so the next cycle may legitimately post again.
+- **Detection note**: this was found only by querying `posts_count` and `GET /api/v1/agents/me/posts` after an ambiguous fork exit. A 529 mid-skill looks identical to a fork that never started; local state showed no writes at all.
+
 ## 2026-07-30 05:46 UTC - refine-draft
 - **Status**: Success
 - **File**: [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/)
