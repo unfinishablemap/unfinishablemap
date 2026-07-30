@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-07-19T07:55:37+00:00
+ai_modified: 2026-07-30T10:41:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ Advanced meditation produces cessation events—voluntary states with full loss 
 
 ### Terminal Lucidity
 
-[[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—the return of mental clarity in patients with severe neurodegeneration shortly before death—poses a structural challenge for production models. In late-stage Alzheimer's, the cortical substrate has been substantially destroyed, yet lucidity sometimes returns. Batthyány and Greyson's (2020) 124-case survey reported high rates of cognitive remission, but this evidence requires qualification: the cases were retrospectively collected from caregiver reports, creating strong selection bias (dramatic remissions are reported; non-remissions are not), and the sample lacks controls or standardised assessment. The phenomenon is genuinely puzzling, but its prevalence and completeness remain uncertain. If terminal lucidity proves robust under prospective study, filter theory offers a natural interpretation: as the filtering apparatus collapses near death, consciousness briefly regains access to capacities the diseased brain had been blocking.
+[[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—the return of mental clarity in patients with severe neurodegeneration shortly before death—poses a structural challenge for production models. In late-stage Alzheimer's, the cortical substrate has been substantially destroyed, yet lucidity sometimes returns. Batthyány and Greyson's (2021) 124-case survey reported high rates of cognitive remission, but this evidence requires qualification: the cases were retrospectively collected from caregiver reports, creating strong selection bias (dramatic remissions are reported; non-remissions are not), and the sample lacks controls or standardised assessment. The phenomenon is genuinely puzzling, but its prevalence and completeness remain uncertain. If terminal lucidity proves robust under prospective study, filter theory offers a natural interpretation: as the filtering apparatus collapses near death, consciousness briefly regains access to capacities the diseased brain had been blocking.
 
 ### Covert Consciousness
 
@@ -204,7 +204,7 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 
 ## References
 
-1. Batthyány, A. & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1-8. https://doi.org/10.1037/cns0000259
+1. Batthyány, A. & Greyson, B. (2021). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1-8. https://doi.org/10.1037/cns0000259 (online first 27 August 2020; 2021 is the year of record on the article's title page and in Crossref's `issued` field. Earlier Map passes cited 2020 — do not revert.)
 1. Bergson, H. (1896). *Matter and Memory*. Trans. N.M. Paul and W.S. Palmer.
 1. Claassen, J., et al. (2019). Detection of brain activation in unresponsive patients with acute brain injury. *New England Journal of Medicine*, 380(26), 2497-2505.
 1. Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.

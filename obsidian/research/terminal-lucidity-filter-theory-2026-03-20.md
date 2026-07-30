@@ -4,7 +4,7 @@ created: 2026-03-20
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-06-05T21:45:00+00:00
+ai_modified: 2026-07-30T10:41:03+00:00
 ---
 
 # Research: Terminal Lucidity — Systematic Evidence for Filter/Transmission Theory
@@ -30,7 +30,7 @@ Terminal lucidity — the unexpected return of mental clarity, memory, and perso
 - **Tenet alignment**: Strongly supports Tenet 1 (Dualism) — cognitive function returning despite severe structural brain damage challenges the identity theory
 - **Quote**: "Several accounts suggest that during terminal lucidity, memory and cognitive abilities may function by neurologic processes different from those of the normal brain"
 
-### Batthyány & Greyson (2020) — Spontaneous Remission of Dementia Before Death
+### Batthyány & Greyson (2021) — Spontaneous Remission of Dementia Before Death
 - **URL**: https://www.researchgate.net/publication/343929977_Spontaneous_remission_of_dementia_before_death_Results_from_a_study_on_paradoxical_lucidity
 - **Type**: Peer-reviewed paper
 - **Key points**:
@@ -191,7 +191,7 @@ Terminal lucidity — the unexpected return of mental clarity, memory, and perso
 | 2012 | Nahm et al. systematic review (83 cases) | First systematic collection of historical evidence |
 | 2018 | NIA expert workshop on paradoxical lucidity | Mainstream institutional recognition and research funding |
 | 2019 | Mashour et al. "Potential Paradigm Shift" paper | Multidisciplinary call for prospective research |
-| 2020 | Batthyány survey (124 cases) | Largest systematic modern dataset |
+| 2021 | Batthyány survey (124 cases) | Largest systematic modern dataset (online first 2020) |
 | 2022 | Nahm terminological clarification | Distinguishes terminal from paradoxical lucidity |
 | 2023 | Batthyány publishes *Threshold* | Book-length treatment of the evidence |
 | 2025 | Murray–Pinker public debate | Terminal lucidity enters mainstream intellectual discourse |
@@ -226,7 +226,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 1. Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia. *Journal of Nervous and Mental Disease*, 197(12), 942–944.
 2. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142. https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2016/12/OTH25terminal-lucidity-AGG.pdf
-3. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
+3. Batthyány, A., & Greyson, B. (2021). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
 4. Mashour, G. A., Frank, L., Batthyány, A., et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107–1114. https://pubmed.ncbi.nlm.nih.gov/31229433/
 5. Eldadah, B. A., et al. (2019). Lucidity in dementia: A perspective from the NIA. *Alzheimer's & Dementia*, 15(8), 1104–1106. https://pubmed.ncbi.nlm.nih.gov/31422799/
 6. Nahm, M. (2022). Terminal lucidity versus paradoxical lucidity: A terminological clarification. *Alzheimer's & Dementia*, 18(4). https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12574

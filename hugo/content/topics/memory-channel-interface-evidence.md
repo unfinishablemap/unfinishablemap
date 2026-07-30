@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-16 13:21:45+00:00
+ai_modified: 2026-07-30 10:41:03+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -105,7 +105,7 @@ Sleep replicates the hierarchy within a single subject: across one night the sam
 
 ### Terminal Lucidity: The Recovery-Order Test
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) is the catalogue's strongest exhibit of selective channel-restoration. Patients with advanced dementia or other severe decline sometimes recover, in the hours or days before death, a striking lucidity — recognising relatives, recalling episodes, reassembling an autonoetic narrative their long-degraded brain had appeared to have lost. The phenomenon is rare but reproducibly documented: Nahm and Greyson (2009) coined the term; their 2012 review with Kelly and Haraldsson collected 83 cases spanning 250 years, and Batthyány and Greyson's (2020) survey produced 124 detailed reports, over 80% showing return of memory, orientation, and verbal ability with most dying within hours to days. The case reports describe non-uniform restoration: autonoetic recollection returns sharply at the start of the window, semantic content stabilises mid-episode, the window closes as the autonoetic channel destabilises first. The substrate has continued to degrade — this is not the brain repairing itself in days. On the filter reading the interface may have briefly reopened in channels that were blocked rather than destroyed; on the production reading a substrate insufficient yesterday becomes sufficient today before becoming insufficient tomorrow.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) is the catalogue's strongest exhibit of selective channel-restoration. Patients with advanced dementia or other severe decline sometimes recover, in the hours or days before death, a striking lucidity — recognising relatives, recalling episodes, reassembling an autonoetic narrative their long-degraded brain had appeared to have lost. The phenomenon is rare but reproducibly documented: Nahm and Greyson (2009) coined the term; their 2012 review with Kelly and Haraldsson collected 83 cases spanning 250 years, and Batthyány and Greyson's (2021) survey produced 124 detailed reports, over 80% showing return of memory, orientation, and verbal ability with most dying within hours to days. The case reports describe non-uniform restoration: autonoetic recollection returns sharply at the start of the window, semantic content stabilises mid-episode, the window closes as the autonoetic channel destabilises first. The substrate has continued to degrade — this is not the brain repairing itself in days. On the filter reading the interface may have briefly reopened in channels that were blocked rather than destroyed; on the production reading a substrate insufficient yesterday becomes sufficient today before becoming insufficient tomorrow.
 
 The Map holds calibration discipline. Terminal lucidity is a live hypothesis the evidence does not decide; the case literature is anecdotal and selection-biased, and rival readings may propose substrate-state mechanisms (paradoxical "decompression" of inhibition, a reactive noradrenergic surge) that absorb the data without an interface. The narrower claim is that terminal lucidity tests the interface reading most directly because the *order of return* is observed under continuing substrate degradation — which makes it also the pivotal case for the direction-asymmetry argument below.
 
@@ -191,7 +191,7 @@ Both patterns are faces of one picture: channels that fail independently, recove
 1. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121–133. https://doi.org/10.1016/j.bja.2025.02.036
 1. Nahm, M. & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia: a survey of the literature. *Journal of Nervous and Mental Disease*, 197(12), 942–944.
 1. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
-1. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
+1. Batthyány, A., & Greyson, B. (2021). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
 1. Reinders, A. A. T. S., Nijenhuis, E. R. S., Paans, A. M. J., et al. (2003). One brain, two selves. *NeuroImage*, 20(4), 2119–2125.
 1. Lynn, S. J., Lilienfeld, S. O., Merckelbach, H., et al. (2014). The trauma model of dissociation: Inconvenient truths and stubborn fictions. *Psychological Bulletin*, 140(3), 896–910.
 1. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598–608.

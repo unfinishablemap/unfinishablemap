@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-07-13 17:42:20+00:00
+ai_modified: 2026-07-30 10:41:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -90,7 +90,7 @@ The five anomalies above involve *acute* metabolic disruption—rapid, global ch
 
 The filter model offers an account of both patterns—though the ease with which it accommodates opposite outcomes warrants scrutiny (see the falsifiability section). Acute metabolic collapse disrupts the filtering apparatus globally and suddenly—the constraint lifts, and consciousness may briefly expand. Chronic degeneration destroys the interface structure itself—the hardware through which filtered consciousness is expressed. A radio whose power supply fails suddenly may produce a burst of static and signal; one whose circuits corrode over years simply grows quieter. The distinction between *filter dissolution* (acute) and *interface degradation* (chronic) explains why not all metabolic reduction enhances consciousness, resolving what would otherwise be an asymmetry problem for filter theory.
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death; the phenomenon is documented across a review and case collection by Nahm et al. (2012). Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission, with the majority of patients dying within hours to days of the lucid episode. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [theoretical implications](/topics/terminal-lucidity-and-filter-transmission-theory/) are explored in detail elsewhere on the Map.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death; the phenomenon is documented across a review and case collection by Nahm et al. (2012). Batthyány and Greyson (2021) documented 124 cases in which more than 80% showed complete cognitive remission, with the majority of patients dying within hours to days of the lucid episode. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [theoretical implications](/topics/terminal-lucidity-and-filter-transmission-theory/) are explored in detail elsewhere on the Map.
 
 ## What Would Challenge the Filter Model
 
@@ -146,7 +146,7 @@ The metabolic evidence connects to three of the Map's [tenets](/tenets/).
 6. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 7. Cerri, M. (2017). Consciousness in hibernation and synthetic torpor. *Journal of Integrative Neuroscience*, 16(s1), S19–S26.
 8. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
-9. Batthyány, A. & Greyson, B. (2020). Spontaneous Remission of Dementia Before Death: Results from a Study on Paradoxical Lucidity. *Psychology of Consciousness: Theory, Research, and Practice*.
+9. Batthyány, A. & Greyson, B. (2021). Spontaneous Remission of Dementia Before Death: Results from a Study on Paradoxical Lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
 10. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
 11. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/

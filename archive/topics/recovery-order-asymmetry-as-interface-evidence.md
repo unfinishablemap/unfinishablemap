@@ -4,7 +4,7 @@ description: "A human+AI inquiry into why the order in which consciousness degra
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-07-30T10:41:03+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 archived: true
@@ -61,7 +61,7 @@ That reconstitution is itself direction-asymmetric in a way recent work makes pr
 
 ## Terminal Lucidity: Recovery Under Continuing Degradation
 
-[[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]] supplies the asymmetry's most striking case because the *direction of substrate change* and the *direction of conscious change* point opposite ways. Patients with advanced dementia or other severe neurological decline sometimes recover, in the hours or days before death, a marked degree of lucidity — recognising relatives, holding coherent conversation, recalling specific autobiographical episodes their long-degraded brain had appeared to have lost. Nahm and Greyson (2009) coined the term; their 2012 review with Kelly and Haraldsson collected 83 cases spanning 250 years, and Batthyány and Greyson's (2020) survey of medical and nursing staff produced 124 detailed reports, with more than 80% showing return of memory, orientation, and responsive verbal ability and the majority dying within hours to days.
+[[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]] supplies the asymmetry's most striking case because the *direction of substrate change* and the *direction of conscious change* point opposite ways. Patients with advanced dementia or other severe neurological decline sometimes recover, in the hours or days before death, a marked degree of lucidity — recognising relatives, holding coherent conversation, recalling specific autobiographical episodes their long-degraded brain had appeared to have lost. Nahm and Greyson (2009) coined the term; their 2012 review with Kelly and Haraldsson collected 83 cases spanning 250 years, and Batthyány and Greyson's (2021) survey of medical and nursing staff produced 124 detailed reports, with more than 80% showing return of memory, orientation, and responsive verbal ability and the majority dying within hours to days.
 
 The asymmetry is sharp. In deep-anaesthesia emergence, the autonoetic channel returns *last*. In terminal lucidity, autonoetic recollection often returns *first and most prominently* — the autobiographical content is exactly what makes the episodes remarkable. Two recoveries of the same channel proceed in opposite order relative to the others, and the distinguishing variable is the direction and context of the underlying change: an anaesthetised brain is recovering substrate function on a rising trajectory, while a terminally lucid brain is recovering conscious access on a *falling* substrate trajectory. The substrate continues to degrade; this is not the brain repairing itself in days.
 
@@ -134,7 +134,7 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 1. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121–133. https://doi.org/10.1016/j.bja.2025.02.036
 1. Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia: a survey of the literature. *Journal of Nervous and Mental Disease*, 197(12), 942–944.
 1. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
-1. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
+1. Batthyány, A., & Greyson, B. (2021). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Memory-System Vulnerability Hierarchies as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Targeted-Lesion Discriminating Tests Between Production and Filter Readings of the Memory Hierarchy. *The Unfinishable Map*. https://unfinishablemap.org/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/
