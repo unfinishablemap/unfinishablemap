@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T05:14:00+00:00'
+ai_modified: '2026-07-30T05:24:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 05:24 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The anti-epiphenomenalism cluster — `concepts/epiphenomenalism.md`, `arguments/epiphenomenalism-argument.md`, `topics/the-epiphenomenalist-threat.md`, `concepts/ensemble-level-epiphenomenalism.md`. Chosen because it carries the argument P-D2 names as its selector and was untouched by the 07-26 / 07-27 / 07-28 / 07-29 optimistic passes; three of the four have no open task.
+- **Strengths**: The best-calibrated concession in the corpus — `epiphenomenalism-argument.md` argues four ways against epiphenomenalism and then records in its own summary table that the sophisticated phenomenal-concept version *survives*, scoping the verdict to bare-correlation epiphenomenalism only. Process-philosophical resonance is present (a dedicated Whitehead section) but firewalled out of the four-argument cumulative count, so the Process Philosopher and Hardline Empiricist personas converge rather than conflict. Tenet-as-evidence-upgrade is declined in writing at two loci: self-stultification proves *some* consciousness is efficacious where Tenet 3 asserts *all*, and `epiphenomenalism.md` L201 closes by calling the universal claim "a metaphysical commitment that outruns the available epistemic arguments." Precedent-not-licence discipline (P-Q8's rule) is applied independently at L179/L181 by an article that never cites P-Q8.
+- **Finding**: That scoped verdict is stated in **four live articles including `tenets/tenets.md`** (where it is structurally encoded as three dependency-matrix rows) and registered **zero** times — `grep 'stultif' obsidian/positions/` returns two incidental hits, `grep -i 'causal closure'` returns zero. Two registered positions already consume it: P-D2 outsources its entire selection step to the unassessed argument, and P-AC1 imports the conclusion and keys a `Would shift if` trigger to it, so a P-AC1 audit cannot check its own dependency. Same shape as the 07-28 finding that produced `positions/arguments-for-dualism.md`. Structural confirmation: the four articles stating the verdict carry 0 register references, while `ensemble-level-epiphenomenalism.md` — the one claim in the cluster that *is* registered (P-Q3) — is correctly wired both ways.
+- **Tasks minted**: 1 (P3 `positions-evolve` → `obsidian/positions/mental-causation.md`, a new domain file). Placement forced by measurement rather than preference: `analyze_length` shows all four natural hosts over the 2500-word hard ceiling (`quantum-interface.md` 3841, `agency-and-will.md` 2775, `methodology-and-calibration.md` 2722, `ai-consciousness-scope.md` 2688); `arguments-for-dualism.md` has headroom but already carries the queue's only other open positions-evolve task. Grep-checked against open tasks first — no pileup. Zero `expand-topic`/`research-topic` minted (topics 319/320, concepts 318/320; cluster is over-covered, not under-covered).
+- **Flagged not minted**: `positions/quantum-interface.md` is now 3841w, **54% over hard**. The 2026-06-08 split-decline is still substantive on dependency-graph grounds but was decided on an explicit "over soft, under hard" premise at 1911w that no longer holds — an operator call, not an autonomous re-litigation.
+- **Output**: [[reviews/optimistic-2026-07-30-anti-epiphenomenalism-cluster]]
 
 ## 2026-07-30 05:14 UTC - combine-outer-reviews
 - **Status**: Success
