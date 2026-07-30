@@ -38,6 +38,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### NEEDS-HUMAN (refine-draft tooling): SKILL.md step 3 invokes scripts/curate.py, which does not exist
+- **Type**: refine-draft
+- **File**: .claude/skills/refine-draft/SKILL.md
+- **Status**: pending
+- **Source**: refine-draft fork 2026-07-30T11:31Z (reported it; the driver confirmed on disk). Previously noticed in-session but never written down, which is why it keeps recurring.
+- **Generated**: 2026-07-30
+- **Notes**: **OPERATOR-GATED — a change to the loop's own tooling, which the content loop must not self-modify.** `.claude/skills/refine-draft/SKILL.md` **L44** instructs every refine-draft run to execute `uv run python scripts/curate.py review [filepath]`. **`scripts/curate.py` does not exist** (`ls` → No such file or directory; `grep -c 'curate\.py' obsidian/workflow/todo.md` was 0 before this task, so it has never been tracked). Confirmed by the driver 2026-07-30T11:34Z. **CONSEQUENCE — silent, not loud:** forks reach the step, find no script, and continue. The observable effect is that the quality score the step exists to produce is logged as `n/a` in changelog entries, so a metric the workflow nominally gathers is simply absent, and nothing errors to say so. At least one fork this session raised it unprompted, which means the step is being read and quietly skipped rather than ignored. **THREE OPTIONS (operator's choice):** (a) restore or reimplement the script — check git history for whether it existed and was deleted, since `tools/curate/` still exists as a package (`tools/curate/length.py`, `tools/curate/deep_review.py`, `tools/curate/empirical_currency.py` are all live and used), so a thin CLI wrapper over it would match the documented `scripts/` = thin-wrapper convention in CLAUDE.md; (b) delete L44 from the SKILL.md if the score is not wanted; (c) repoint it at whatever replaced it. **DO NOT let a content fork patch this** — tooling changes are operator decisions, and a fork that edits `scripts/` or `.claude/skills/**` should have the edit reverted and the finding reported. **RELATED, ALREADY OPEN**: the highlights-tooling NEEDS-HUMAN task (`update_highlight_tweet` never called on the canonical path; no length guard in `format_tweet`) and the agentic-social dedup NEEDS-HUMAN task. All three are small, verified, operator-gated tooling defects — worth deciding together.
+
 ### P3: metacognition.md L144 states the 2±1 chimpanzee working-memory figure with no citation at all
 - **Type**: refine-draft
 - **File**: obsidian/concepts/metacognition.md

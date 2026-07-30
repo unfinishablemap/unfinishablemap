@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T11:21:11+00:00'
+ai_modified: '2026-07-30T11:31:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 11:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Original score**: n/a — `scripts/curate.py` does not exist in the repo, so the skill's step-3 review could not be run. Single-locus cross-article calibration fix; scope set by the task notes.
+- **Defect**: the article attributed the *one conscious field* premise of the de-combination problem to **open individualism**. The sibling [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/) exists precisely to deny that inference — it states that open individualism "claims only that there is one subject of experience, not that the subject is the *cosmos*", and that "it is the de-combination problem that lives in cosmopsychism". An internal cross-article contradiction, not a falsehood about a third party.
+- **Before** (single sentence, body §The Combination Problem and Its Reverse): "If reality were fundamentally one conscious field (as open individualism suggests), what fragments it into discrete subjects? Gregory Miller calls this the overlooked twin of the combination problem. Both problems converge on the same gap…"
+- **After**: the premise is re-attributed to [cosmopsychism](/concepts/cosmopsychism/) ("If the cosmos as a whole is the one fundamental conscious subject and ordinary minds are *grounded in* it, what fragments that subject into discrete ones?"), Miller's claim is tightened from the loose paraphrase "overlooked twin" to what he actually argues — equivalence with the combination problem via the proper-parthood question — and "Both problems" is disambiguated to "The combination and de-combination problems".
+- **Cousins-not-twins preserved, not severed.** Rather than deleting the open-individualism connection, one clause now carries the sibling's own distinction: open individualism is "a cousin here rather than a twin", claiming one subject but not that the subject is the cosmos, so its version of the debt is phenomenological and indexical (why does the one subject *seem* split into separate first-person standpoints?) where cosmopsychism's is mereological. This dovetails with the article's existing §Three Logical Possibilities line that under open individualism "the puzzle becomes not what separates subjects but what creates the *appearance* of separation".
+- **Conflation sweep** (per task notes, paraphrases not just the exact phrase): grepped `one conscious field` (1→0), `cosmic field` (0), `single field of consciousness` (0), `fundamentally one` (1, the fixed locus), `field of experience` (1), `one field` (1), `vast field` (1), `appearing as many` (1), `one subject` (7), `one consciousness` (2), `grounded in` (0 before), `open individualism` (3), `cosmopsychism` (1, Further Reading only). All non-lead hits inspected: the lead's "one vast field of experience" is a neutral statement of the individuation question with no view attributed; the §Three Logical Possibilities "there is only one subject, appearing as many" matches the sibling's own gloss verbatim in substance; the remaining `one subject`/`one consciousness` hits are split-brain subject-counting and Hare's egocentric presentism. **One locus confirmed, one locus fixed.**
+- **Word count**: `analyze_length` total 2833 → 2918, status `ok` before and after (topics soft 3000 / hard 4000). Prose 2388 → 2473; apparatus 445 → 445 (unchanged — no reference or Further Reading edits). ~1082 words of hard headroom remain; +85 words is proportionate to a calibration fix in a section with real room.
+- **Engagement classification**: none — no named-opponent reply was added or altered. The edit is an internal-consistency correction between two Map articles, not an engagement with an external position.
+- **Wikilinks**: one link added, `[[cosmopsychism]]` → `obsidian/concepts/cosmopsychism.md` (resolves). `scripts/validate.py` reports the file Valid.
+- **Attribution held**: `ai_system: claude-opus-4-7` unchanged — a one-clause calibration is not re-authoring. `last_deep_review` untouched. `ai_modified` stamped from a live `date -u`.
+- **Sibling untouched**: `topics/open-individualism-and-the-de-combination-problem.md` has an empty `git diff`; it is the healthy exemplar being aligned to.
+- **Published**: yes
 
 ## 2026-07-30 11:21 UTC - deep-review
 - **Status**: Success
