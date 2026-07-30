@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-06-01T13:17:05+00:00
+ai_modified: 2026-07-30T19:16:02+00:00
 last_deep_review: 2026-06-27T03:57:12+00:00
 draft: false
 topics:
@@ -45,7 +45,7 @@ P-consciousness is the hard problem's core. Physical theories can explain inform
 
 ## Definition and Core Features {#definition}
 
-Ned Block introduced "phenomenal consciousness" in 1995 to isolate the experiential aspect from functional aspects: P-consciousness is "experience; what makes a mental state phenomenally conscious is that there is something it is like to be in that state." This echoes Thomas Nagel's 1974 formulation: consciousness requires something it is like *for the organism*.
+Ned Block introduced "phenomenal consciousness" in 1995 to isolate the experiential aspect from functional aspects: P-consciousness is "experience; what makes a state phenomenally conscious is that there is something it is like to be in that state." This echoes Thomas Nagel's 1974 formulation: consciousness requires something it is like *for the organism*.
 
 The defining mark is subjective character—the redness of seeing red, the sharpness of pain, the weighted feeling of sadness, the phenomenology of understanding (see [[cognitive-phenomenology]]). Each involves distinctive qualitative character that constitutes P-consciousness.
 
@@ -97,7 +97,7 @@ Chalmers presents a dilemma. Let C be the special features of phenomenal concept
 
 The primary objection: even illusions require phenomenology. If it *seems* you have qualia, something is going on—the seeming itself. The illusionist must say pain involves no "painfulness" beyond functional representation of damage. But this denies what is most immediately known: that [[pain-consciousness-and-causal-power|pain *hurts*]] as an experiential quality.
 
-Illusionism captures something: introspection is fallible, and the explanatory gap might partly reflect how we think about experience. But if P-consciousness is what we know most directly—the one thing we cannot coherently doubt—theories denying it are less plausible than theories accepting it. The [[argument-from-reason]] deepens this: representing something as having phenomenal properties requires grasping *what* is being represented, which itself involves phenomenal consciousness.
+Illusionism captures something: introspection is fallible, and the explanatory gap might partly reflect how we think about experience. But if P-consciousness is what we know most directly—not a theoretical posit vulnerable to elimination but the datum that any adequate theory must explain—theories denying it are less plausible than theories accepting it. The [[argument-from-reason]] deepens this: representing something as having phenomenal properties requires grasping *what* is being represented, which itself involves phenomenal consciousness.
 
 ## The Mysterian Caveat {#mysterianism}
 
@@ -117,9 +117,13 @@ Clinical data refute a stronger claim the dualist need not make — that phenome
 
 P-consciousness is central to The Unfinishable Map's [[tenets#^dualism|Dualism tenet]]. The irreducibility of phenomenal properties—the fact that no functional or structural description captures what it is like to see red or feel pain—is the primary reason for rejecting [[concepts/materialism]]. This irreducibility extends into ethics: [[topics/phenomenal-value-realism]] holds that some phenomenal properties—the painfulness of pain, the pleasure of joy—*just are* normative properties. Taking P-consciousness seriously transforms not only metaphysics but metaethics.
 
-### Supporting Dualism
+### Supporting Irreducibility
 
-The arguments converge: the [[explanatory-gap]] shows physical descriptions don't entail phenomenal ones; [[philosophical-zombies|zombie conceivability]] reveals P-consciousness's logical independence from physical facts; the [[knowledge-argument]] shows phenomenal facts exceed physical facts; [[inverted-qualia]] scenarios show phenomenal character can vary while function remains constant. Together, these suggest P-consciousness is irreducible. If irreducible, consciousness is not purely physical. Dualism follows.
+The arguments converge: the [[explanatory-gap]] shows physical descriptions don't entail phenomenal ones; [[philosophical-zombies|zombie conceivability]] reveals P-consciousness's logical independence from physical facts; the [[knowledge-argument]] shows phenomenal facts exceed physical facts; [[inverted-qualia]] scenarios show phenomenal character can vary while function remains constant. Together, these suggest P-consciousness is irreducible.
+
+The four are not, however, evidentially independent. All of them exploit the same gap between physical description and phenomenal character, and the modal arguments among them share the inference from conceivability to possibility; if that common starting point fails—if phenomenal concepts do not track a genuine ontological category—they fail together rather than confirming one another. What their agreement establishes is that the gap resists closure from four directions at once: one line of evidence pressed four ways rather than four independent lines, a standing calibration on every article citing the convergence ([[positions/arguments-for-dualism|P-D1]]).
+
+What the convergence earns is *irreducibility*, not dualism specifically. [[panpsychism]], [[neutral-monism|neutral monism]], [[russellian-monism|Russellian monism]], and [[idealism]] all respect irreducibility, sharing the negative thesis while diverging on its positive replacement. Selecting dualism from within that set takes a further step—the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] treated in the next subsection—and the two earnings do not compound ([[positions/arguments-for-dualism|P-D2]]).
 
 ### Bidirectional Interaction and Causal Efficacy
 
