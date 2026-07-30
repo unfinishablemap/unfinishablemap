@@ -38,6 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: three archive pages credit an unnamed "2025 Frontiers review" with EMPIRICALLY MEASURED microtubule coherence times — the Saxena defect wearing a different citation
+- **Type**: refine-draft
+- **File**: archive/concepts/quantum-coherence-in-neural-systems.md
+- **Status**: pending
+- **Source**: flagged by the refine-draft that closed the 14-locus Saxena family 2026-07-30; loci read in full and verified on disk by the cycle driver before minting
+- **Generated**: 2026-07-30
+- **Notes**: **VERIFIED ON DISK, QUOTED IN FULL.** Three archive pages carry this sentence verbatim — `archive/concepts/quantum-coherence-in-neural-systems.md` **L63**, `archive/concepts/quantum-coherence-and-binding-evidence.md` **L66**, `archive/concepts/neural-quantum-coherence.md` **L58**:
+  *"A 2025 computational study (Wiest et al.) incorporating realistic biological conditions estimated 1-2 microseconds. **A 2025 Frontiers review confirms these theoretical predictions: experimental observations in microtubules have measured coherence times in the 10⁻⁶ to 10⁻⁴ second range—no longer merely theoretical corrections but empirically verified timescales.**"*
+  **THREE PROBLEMS, and the third is the serious one.**
+  **(1) The source is unnameable.** "A 2025 Frontiers review" gives no author, title, volume or DOI. The References blocks of all three files list Hameroff et al. (2025) and Keppler (2025) but nothing identifiable as a Frontiers review. An unverifiable attribution carrying the paragraph's strongest claim is the shape that has repeatedly turned out fabricated in this corpus.
+  **(2) It contradicts its own paragraph.** The immediately preceding sentence reports the Wiest 2025 *computational* estimate as **1-2 microseconds**; the next sentence says a review "confirms these theoretical predictions" with measurements spanning **10⁻⁶ to 10⁻⁴ s** — a hundred-fold range that mostly does not overlap the prediction it allegedly confirms. Confirmation is asserted, not shown.
+  **(3) It is the SAME ENROLMENT DEFECT just closed for Saxena, under a different citation.** On 2026-07-30 five loci were re-framed because they claimed experimentally measured microtubule coherence times that no cited paper reported; the honest replacement, already used at `concepts/entanglement-binding-hypothesis.md` **L76**, is that **Hagan's recalculation remains untested in neural tissue**. These three loci make the identical claim and go further — *"no longer merely theoretical corrections but empirically verified timescales"* is an explicit upgrade from theory to established fact.
+  **THE FIX.** Either identify the review at the publisher (Crossref / OpenAlex / DOI resolution — **WebSearch was exhausted on 2026-07-30, so use those**) and cite it properly *with a claim that matches what it actually reports*, or **re-frame to the honest position** the corpus already holds. **Do not simply delete the sentence** — the Tegmark-correction point around it is sound and sourced; it is the empirical upgrade that is unearned. **Never verify by corpus grep**: the sentence is identical in three files, so a corpus search will "confirm" it three times over. That is precisely how the Saxena family survived.
+  **⚠️ `archive/` SERVES FULL BODIES** at preserved URLs, synced to `hugo/content/archive/` — these are live pages, not stubs. `obsidian/reviews/` is the historical record and stays untouched.
+  **ONE FILE PER PICK** — `cycle_post` closes this after one run; report which loci you fixed so an accurate successor can be minted. The three sentences are byte-identical, so the fix should be too, but **read each in context** rather than replacing blind.
+  **LENGTH**: measure each with `analyze_length`, never `wc -w`, and check distance to **hard** — soft is the corpus's modal status (48.7% of 784 files) and is not a constraint. **ATTRIBUTION**: hold each file's existing `ai_system` separately, do not harmonise; stamp `ai_modified` per file from live `date -u`; do not bump `last_deep_review`; check for the `[1m]` ANSI artifact after writing. **SYNC** when done.
+
 ### P2: Saxena et al. (2020) is cited under FIVE mutually incompatible bibliographic records across 10 files, none of them correct — and several attach findings the paper never reported
 - **Type**: refine-draft
 - **File**: obsidian/concepts/binding-problem.md

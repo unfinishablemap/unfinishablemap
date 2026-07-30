@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-07-30 20:09:12+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Holism and Phenomenal Unity
 archived: true
@@ -76,7 +76,7 @@ In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark
 - **Thermal equilibrium**: Tegmark's model assumed thermal equilibrium—conditions equivalent to death. Living neural tissue is metabolically active, far from thermal equilibrium.
 - **Model parameters**: Using corrected estimates for dielectric properties and realistic model parameters, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated.
 
-Recent experimental measurements of coherence times in microtubule preparations (Saxena et al., 2020) match these corrected theoretical estimates, not Tegmark's originals.
+These corrected figures remain theoretical, however. No direct measurement of coherence times in neural microtubules has been reported, so the recalculation shifts the burden of the decoherence objection rather than settling it.
 
 The biological precedent strengthens the case. Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. A January 2026 Princeton study provided computational confirmation of this mechanism. If evolution optimized quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
@@ -245,7 +245,6 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
 - Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-- Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule nanowire. *ACS Nano*, 14(2), 2217-2227.
 - Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.

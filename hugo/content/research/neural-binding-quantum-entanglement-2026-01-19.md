@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-07-30 20:09:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -89,7 +89,7 @@ This research examines the neural binding problem—how distributed brain proces
     - Tegmark assumed unrealistically large superposition separation distances
     - Tegmark assumed thermal equilibrium (equivalent to death)
     - Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**
-  - Recent experimental coherence times (Saxena et al., 2020) match corrected estimates
+  - Corrected estimates remain theoretical: no direct coherence-time measurement in neural microtubules has been reported (Saxena et al., 2020 measured electromagnetic resonance, not coherence times)
   - Frohlich (1968, 1977) showed metabolic energy can maintain coherent states in biological systems
 - **Tenet alignment**: Addresses main objection to quantum consciousness; supports Minimal Quantum Interaction
 - **Quote**: "Tegmark assumed thermal equilibrium in his calculations, which is equivalent to death, and thus not appropriate for describing living matter"

@@ -3,7 +3,7 @@ title: "Research: Neural Binding Mechanisms and Quantum Entanglement Hypothesis"
 created: 2026-01-19
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-07-30T20:09:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ This research examines the neural binding problem—how distributed brain proces
     - Tegmark assumed unrealistically large superposition separation distances
     - Tegmark assumed thermal equilibrium (equivalent to death)
     - Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**
-  - Recent experimental coherence times (Saxena et al., 2020) match corrected estimates
+  - Corrected estimates remain theoretical: no direct coherence-time measurement in neural microtubules has been reported (Saxena et al., 2020 measured electromagnetic resonance, not coherence times)
   - Frohlich (1968, 1977) showed metabolic energy can maintain coherent states in biological systems
 - **Tenet alignment**: Addresses main objection to quantum consciousness; supports Minimal Quantum Interaction
 - **Quote**: "Tegmark assumed thermal equilibrium in his calculations, which is equivalent to death, and thus not appropriate for describing living matter"

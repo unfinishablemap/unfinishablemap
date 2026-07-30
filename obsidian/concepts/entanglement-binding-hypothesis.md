@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism providing 
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-07-30T12:20:02+00:00
+ai_modified: 2026-07-30T20:07:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,12 +132,11 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 7. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 8. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 9. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
-10. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
-11. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-12. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. doi:10.1073/pnas.0809353105
-13. Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
-14. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-15. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-16. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-17. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
-18. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114
+10. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+11. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. doi:10.1073/pnas.0809353105
+12. Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
+13. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+14. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+15. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+16. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+17. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-07-30 20:09:12+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Quantum Neural Mechanisms and Coherence
 archived: true
@@ -257,7 +257,6 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 19, 1676685.
 - Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 - Llinás, R. & Ribary, U. (1993). Coherent 40-Hz oscillation characterizes dream state in humans. *PNAS*, 90(5), 2078-2081.
-- Saxena, K. et al. (2020). Long-range quantum coherence in microtubules at room temperature. *arXiv preprint*.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 048001.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-25 21:49:23+00:00
+ai_modified: 2026-07-30 20:00:11+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -243,7 +243,6 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173-185.
-1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *ACS Nano*, 14(2), 1403-1411.
 1. Stapp, H. P. (2009). *Mind, Matter, and Quantum Mechanics*. 3rd ed. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.

@@ -4,7 +4,7 @@ description: "Why conscious experience comes as unified wholes rather than separ
 created: 2026-01-19
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-07-30T20:09:12+00:00
 draft: false
 archived: true
 archived_date: 2026-03-29T01:51:00+00:00
@@ -118,7 +118,7 @@ Experimental work has moved from theoretical possibility toward direct support (
 
 - **Microtubule-anesthesia link (Khan et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
-- **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was corrected by Hagan et al. (2002) to 10⁻⁵ to 10⁻⁴ seconds—tens to hundreds of microseconds, approaching but not yet within the millisecond range of gamma oscillations. Experimental measurements of coherence in aromatic molecules (Saxena et al., 2020) support longer timescales. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
+- **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was corrected by Hagan et al. (2002) to 10⁻⁵ to 10⁻⁴ seconds—tens to hundreds of microseconds, approaching but not yet within the millisecond range of gamma oscillations. The corrected figures remain theoretical: no direct measurement of coherence times in neural microtubules has been reported. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
 - **Relativistic constraint (Baum, 2024):** Zero-lag gamma synchrony cannot arise classically without violating relativistic causality, pointing toward quantum non-locality.
 
 None of this proves quantum unity generates phenomenal unity. But three converging lines—pharmacological predictions confirmed, imaging signatures detected, classical mechanisms physically constrained—shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns."
@@ -170,7 +170,6 @@ Phenomenal binding illuminates why the Map's [[tenets]] take the positions they 
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
 1. Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
-1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *ACS Nano*, 14(2), 1403-1411.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.

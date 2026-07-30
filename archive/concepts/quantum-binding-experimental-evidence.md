@@ -4,7 +4,7 @@ description: "Recent empirical support for quantum consciousness: microtubule-st
 created: 2026-01-22
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-07-30T20:09:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Yet the Tegmark-Hameroff debate remains unsettled. Hagan, Hameroff, and Tuszynsk
 - Tegmark assumed thermal equilibrium (equivalent to death, not life)
 - Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**
 
-Saxena et al. (2020) measured coherence times in tryptophan networks and found values consistent with the corrected estimates, though these experiments studied isolated biological molecules rather than intact neural tissue. The debate continues—Tegmark has not retracted his critique, and many physicists remain skeptical. See [[quantum-neural-timing-constraints]] for the full timing hierarchy from femtosecond decoherence to 300ms neural decision windows.
+The corrected figures remain theoretical. Saxena et al. (2020) reported fractal, scale-free electromagnetic resonance in single brain-extracted microtubules, single tubulin proteins, and single neurons—a measurement of resonance behaviour, not of coherence times—so it does not confirm the corrected estimates, and no direct coherence-time measurement in neural microtubules has been reported. The debate continues—Tegmark has not retracted his critique, and many physicists remain skeptical. See [[quantum-neural-timing-constraints]] for the full timing hierarchy from femtosecond decoherence to 300ms neural decision windows.
 
 Regardless of the precise coherence timescales, biological quantum effects demonstrate that evolution can harness coherence. Avian magnetoreception—how migratory birds navigate—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. Photosynthesis achieves quantum coherence at room temperature. These examples involve small molecular systems, not whole-brain entanglement, so the analogy has limits. But they refute the blanket claim that biology is too warm and wet for quantum effects—the question is one of scale and mechanism, not of possibility.
 
@@ -149,7 +149,7 @@ Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classica
 
 Llinás, R. & Ribary, U. (1993). Coherent 40-Hz oscillation characterizes dream state in humans. *PNAS*, 90(5), 2078-2081.
 
-Saxena, K. et al. (2020). Long-lived quantum coherences in room-temperature biological systems. *Scientific Reports*, 10, 15436.
+Saxena, K., Singh, P., Sahoo, P., Sahu, S., Ghosh, S., Ray, K., Fujita, D., & Bandyopadhyay, A. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule nanowire, a single tubulin protein and a single neuron. *Fractal and Fractional*, 4(2), 11. doi:10.3390/fractalfract4020011
 
 Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 

@@ -4,7 +4,7 @@ description: "Can quantum effects persist in warm brains? Evidence from 2024-202
 created: 2026-01-18
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-07-30T20:09:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -286,7 +286,6 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - Hameroff, S. et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 19, 1630906.
 - Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 19, 1676685.
 - Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-- Saxena, K. et al. (2020). Long-range quantum coherence in microtubules at room temperature. *arXiv preprint*.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 048001.
 - Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

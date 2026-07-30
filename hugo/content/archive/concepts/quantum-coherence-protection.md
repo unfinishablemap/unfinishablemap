@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-07-30 20:09:12+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Coherence in Neural Systems
 archived: true
@@ -211,6 +211,5 @@ The assumption that warm biology must be classical—and therefore that quantum 
 - Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 - Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2, 641-649.
 - Hagan, S., Hameroff, S., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Saxena, K. et al. (2020). Long-range quantum coherence in microtubules at room temperature. *arXiv preprint*.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-07-30 20:09:12+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-05-29'
+date: '2026-07-30'
 draft: false
 related_articles: []
 title: Research Notes - Quantum Superposition in the Brain
@@ -194,7 +194,7 @@ This research examines whether and how quantum superposition could persist in ne
 | 2002 | Hagan et al. response to Tegmark | Extends calculated coherence by 7 orders of magnitude |
 | 2007 | Fleming demonstrates quantum coherence in photosynthesis | Proves warm biology can exploit quantum effects |
 | 2015 | Fisher proposes Posner molecule hypothesis | Alternative mechanism via nuclear spins |
-| 2020 | Saxena et al. verify microtubule quantum coherence | Experimental confirmation at room temperature |
+| 2020 | Saxena et al. measure fractal, scale-free electromagnetic resonance of a single microtubule | Resonance measurement, not a coherence-time result |
 | 2024 | Tryptophan superradiance confirmed | Quantum collective behavior in biological molecules |
 | 2024 | Epothilone B delays anesthetic unconsciousness | Direct evidence linking microtubules to consciousness |
 | 2025 | Wiest, M. C. (2025) review in Neuroscience of Consciousness | Comprehensive synthesis supporting quantum substrate |
@@ -250,7 +250,7 @@ Directly relevant. The assumption that warm biology must be classical turned out
 - Hagan, S., Hameroff, S., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 - Koch, C. & Hepp, K. (2006). Quantum mechanics in the brain. *Nature*, 440, 611-612.
-- Saxena, K. et al. (2020). Long-range quantum coherence in microtubules at room temperature. *arXiv preprint*.
+- Saxena, K., Singh, P., Sahoo, P., Sahu, S., Ghosh, S., Ray, K., Fujita, D., & Bandyopadhyay, A. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule nanowire, a single tubulin protein and a single neuron. *Fractal and Fractional*, 4(2), 11. doi:10.3390/fractalfract4020011
 - Singh, P. et al. (2024). Angular momentum entanglement between separated microtubules. *Physical Review* (preprint).
 - Stanford Encyclopedia of Philosophy. (2024). Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/
 - Stapp, H.P. (2001). Quantum theory and the role of mind in nature. *Foundations of Physics*, 31(10), 1465-1499.
