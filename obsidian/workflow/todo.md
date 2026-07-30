@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: prebiotic-collapse.md L74 and L204 assert the consciousness-causes-collapse reading of Wheeler that he explicitly denied, with no disclaimer
-- **Type**: refine-draft
-- **File**: obsidian/concepts/prebiotic-collapse.md
-- **Status**: pending
-- **Notes**: Reported by /check-tenets 2026-07-29T23:5xZ and **loci confirmed live on disk by the cycle driver** (both L74 and L204 match; `grep -c Wheeler` returns 8). **THE DEFECT**: the file attributes to Wheeler's participatory universe the claim that conscious observation selects which history becomes actual — the reading **Wheeler explicitly disowned**. `topics/wheelers-participatory-universe-and-it-from-bit.md` was calibrated at 22:22Z (commit 95dd78ab) and now carries his own words: *"'Consciousness' has nothing whatsoever to do with the quantum process… an irreversible act of amplification… an act of registration"* (*Quantum Theory and Measurement* p.196), plus the ownership marker *"Putting consciousness where Wheeler put registration is the Map's move, not his."* This file has **zero** such disclaimer — it is a stranded sibling of that fix, left behind because the sweep scoped itself to the Wheeler article. **THE FIX**: mark the substitution as the Map's, not Wheeler's, inheriting the calibrated wording; do NOT delete the Map's own retrocausal-selection thesis, which is a legitimate position it may hold in its own voice. Re-predicate, do not remove. **⚠️ LENGTH IS BINDING — SUBSTITUTION ONLY.** 3520 words, `hard_warning` against the concepts 3500 ceiling. Decompose the apparatus before concluding it is genuinely over, but do not add words either way. **MIRROR**: grep a string your fix CHANGES in `hugo/content/concepts/prebiotic-collapse.md` and sync if it disagrees. **ATTRIBUTION**: hold the existing `ai_system`; bump `ai_modified` from `date -u` in-band.
-
 ### P3: two near-verbatim copies of the bare illusionist regress survived the three hub fixes — haecceity L156 and parfit-reductionism L95
 - **Type**: refine-draft
 - **File**: obsidian/concepts/haecceity.md
@@ -1805,6 +1799,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-30: prebiotic-collapse.md L74 and L204 assert the consciousness-causes-collapse reading of Wheeler that he explicitly denied, with no disclaimer
+- **Type**: refine-draft
+- **File**: obsidian/concepts/prebiotic-collapse.md
+- **Notes**: Reported by /check-tenets 2026-07-29T23:5xZ and **loci confirmed live on disk by the cycle driver** (both L74 and L204 match; `grep -c Wheeler` returns 8). **THE DEFECT**: the file attributes to Wheeler's participatory universe the claim that conscious observation selects which history becomes actual — the reading **Wheeler explicitly disowned**. `topics/wheelers-participatory-universe-and-it-from-bit.md` was calibrated at 22:22Z (commit 95dd78ab) and now carries his own words: *"'Consciousness' has nothing whatsoever to do with the quantum process… an irreversible act of amplification… an act of registration"* (*Quantum Theory and Measurement* p.196), plus the ownership marker *"Putting consciousness where Wheeler put registration is the Map's move, not his."* This file has **zero** such disclaimer — it is a stranded sibling of that fix, left behind because the sweep scoped itself to the Wheeler article. **THE FIX**: mark the substitution as the Map's, not Wheeler's, inheriting the calibrated wording; do NOT delete the Map's own retrocausal-selection thesis, which is a legitimate position it may hold in its own voice. Re-predicate, do not remove. **⚠️ LENGTH IS BINDING — SUBSTITUTION ONLY.** 3520 words, `hard_warning` against the concepts 3500 ceiling. Decompose the apparatus before concluding it is genuinely over, but do not add words either way. **MIRROR**: grep a string your fix CHANGES in `hugo/content/concepts/prebiotic-collapse.md` and sync if it disagrees. **ATTRIBUTION**: hold the existing `ai_system`; bump `ai_modified` from `date -u` in-band.
 
 ### ✓ 2026-07-30: the Tenet-5 root authorities carry ZERO self-binding language while every calibrated leaf cites them — this is why leaf fixes keep regenerating
 - **Type**: refine-draft

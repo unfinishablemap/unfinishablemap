@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-30 00:19:39+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -73,9 +73,9 @@ Wigner himself abandoned his view in the 1970s-80s, citing this cosmological pro
 
 John Archibald Wheeler proposed the most radical solution: the universe *did* remain indeterminate until observers evolved, and those observers retroactively collapsed the entire cosmic history. His "participatory anthropic principle" describes a "self-excited circuit" where "beginning with the big bang, the universe expands and cools. After eons of dynamic development, it gives rise to observership. Acts of observer-participancy—via the mechanism of the delayed-choice experiment—in turn give tangible 'reality' to the universe not only now but back to the beginning."
 
-Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with conscious observation selecting which history becomes actual—not moment by moment, but across the entire temporal span.
+Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with acts of registration selecting which history becomes actual—not moment by moment, but across the entire temporal span. Reading those acts as *conscious* observation is the Map's move, not his.
 
-This resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." See [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment, including how Dembski's informational realism avoids the circularity of Wheeler's self-excited circuit. The participatory universe remains philosophically coherent but highly speculative.
+This resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further, and it parts company with Wheeler over what does the selecting. He ruled out the mental reading directly: "'Consciousness' has nothing whatsoever to do with the quantum process. We are dealing with an event that makes itself known by an irreversible act of amplification … an act of registration" (Wheeler 1983). His remark that in the participatory universe "ordinary matter and radiation play the dominant roles" belongs to that denial rather than to any later retreat from a consciousness-collapse view he never held: conscious observers are for Wheeler neither the only nor the primary route by which quantum potentials become definite. See [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment, including how Dembski's informational realism avoids the circularity of Wheeler's self-excited circuit. The participatory universe remains philosophically coherent but highly speculative.
 
 ### 2. Panpsychism and Proto-Experience
 
@@ -203,7 +203,7 @@ The objective-reduction-plus-modulation framework would be undermined if:
 
 4. **Panpsychism solves the combination problem.** If panpsychists developed a compelling account of how micro-experiences combine into unified consciousness, their dissolution of the prebiotic problem (experience was always present) would become more attractive. Currently, the combination problem makes panpsychism as problematic as the alternatives.
 
-5. **Retrocausal frameworks become standard physics.** If Wheeler's participatory universe—with future observers selecting past outcomes—became the consensus interpretation, the Map's objective-reduction baseline would be unnecessary. Consciousness would cause collapse after all, just across temporal spans rather than at moments.
+5. **Retrocausal frameworks become standard physics.** If Wheeler's participatory universe—with observer-participancy reaching back to select past outcomes—became the consensus interpretation, and the participancy in question turned out to be conscious, the Map's objective-reduction baseline would be unnecessary. Consciousness would cause collapse after all, just across temporal spans rather than at moments.
 
 ## Experimental Status
 
@@ -245,6 +245,7 @@ Objective collapse theories face empirical pressure but remain viable:
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+1. Wheeler, J. A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, ed. Wheeler & Zurek. Princeton University Press.
 1. Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
