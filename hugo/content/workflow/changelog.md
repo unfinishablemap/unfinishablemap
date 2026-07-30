@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-29T23:31:59+00:00'
+ai_modified: '2026-07-29T23:55:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-29 23:55 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: ~1320 — `topics/` (319), `concepts/` (318), `positions/` (11), plus `apex/`, `voids/`, `arguments/`, and `research/` (524, in scope for the first time in this skill's history)
+- **Errors**: 22 loci across 19 files
+- **Warnings**: 14
+- **Notes**: 11
+- **Scope**: second 07-29 pass. Complements `[[reviews/tenet-check-2026-07-29]]` (01:20Z, Tenets 1/2/3/5) and `[[reviews/tenet-check-2026-07-28]]` (Tenet 4). Audited execution of the 01:20Z findings, the ~90 content files changed in the 22 hours since, and two never-covered surfaces.
+- **No direct contradiction of any tenet** anywhere in the corpus. Every hit on eliminativism, illusionism-about-phenomenality, epiphenomenalism, MWI endorsement, quantum mysticism, psychokinesis or energy injection is exposition-to-refute, attributed, or a scoped concession.
+- **01:20Z report almost fully executed**: all 7 errors fixed, 10 of 11 warnings, 7 of 8 notes. Only `topics/the-convergence-argument-for-dualism.md` L177 remains open.
+- **Headline finding — the calibration reached the leaves but not the roots**: `concepts/parsimony-epistemology.md` (32 inbound) and `arguments/epistemological-limits-of-occams-razor.md` (14 inbound) are the two files every calibrated leaf cites as its Tenet 5 authority, and both carry **zero** self-binding language (grep for `veto|run forward|symmetr|binds the Map|does not license` returns 0 for each) while closing with forward-running parsimony verdicts. Disambiguation hazard: the near-identically-named `voids/epistemological-limits-occams-razor.md` is exemplary and must not be confused with the `arguments/` file.
+- **Stranded siblings of today's own work**: `concepts/prebiotic-collapse.md` L74/L204 still assert what Wheeler explicitly denied (zero disclaimer in file) though `topics/wheelers-participatory-universe-and-it-from-bit.md` was calibrated at 22:22Z; eight bare-illusionist-regress satellites survive the three hub fixes, two of them (`concepts/haecceity.md` L156, `concepts/parfit-reductionism.md` L95) outside the changed-file scope entirely; ten factive self-stultification loci survive in closing-synthesis paragraphs.
+- **`research/` has never been tenet-swept** and is upstream of `/replenish-queue` and `/expand-topic`. Five published notes carry Map-voice parsimony-forward guidance in their tenet-alignment sections. Worth a standing decision on permanent scope inclusion.
+- **No content files modified** — read-only per skill contract. No tasks minted; all loci dedupe-checked against the open queue and none is currently targeted.
+- **Output**: [tenet-check-2026-07-29b](/reviews/tenet-check-2026-07-29b/)
 
 ## 2026-07-29 23:31 UTC - refine-draft
 - **Status**: Success
