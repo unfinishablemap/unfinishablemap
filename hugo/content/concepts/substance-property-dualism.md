@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-30 21:59:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: 'Two forms of dualism: separate mental substances versus irreducibl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 11:48:19+00:00
+last_deep_review: 2026-07-30 21:59:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,6 +83,8 @@ Property dualism seems to require less ontological extravagance: it accepts the 
 
 ## Comparing the Views
 
+Robinson (2020) surveys the standard taxonomy; what follows picks out the differences that bear on the Map's tenets.
+
 ### Where They Agree
 
 Both share the central insight that [materialism](/concepts/materialism/) fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point beyond physics. Both are compatible with [interactionism](/concepts/interactionist-dualism/)—though property dualists have historically been tempted by epiphenomenalism (mental properties real but causally inert). The Map's framework requires causal efficacy, which either ontology can accommodate.
@@ -99,7 +101,7 @@ Both share the central insight that [materialism](/concepts/materialism/) fails 
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion created by the brain's self-model—challenges both forms of dualism. If qualia are not what they seem, the intuitions driving the distinction may be systematically misleading.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion created by the brain's self-model—challenges both forms of dualism. If qualia are not what they seem, the intuitions driving the distinction may be systematically misleading. The challenge is sharpened by what Chalmers (2018) calls the meta-problem of consciousness—the problem of explaining why we think there is a problem of consciousness at all.
 
 ### The Challenge Stated
 
@@ -123,7 +125,7 @@ Both forms of dualism that accept quantum interaction face a scientific objectio
 
 ### The Objection
 
-Tegmark (2000) calculated decoherence times for neural microtubules at 10⁻¹³ to 10⁻²⁰ seconds—far too short for neural processes operating at millisecond timescales. If superpositions collapse before consciousness can act on them, the quantum interface proposed by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) seems impossible.
+Tegmark (2000) calculated decoherence times of 10⁻¹³ seconds for microtubule excitations and 10⁻²⁰ seconds for neuron firing—far too short for neural processes operating at millisecond timescales. If superpositions collapse before consciousness can act on them, the quantum interface proposed by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) seems impossible.
 
 ### Three Mitigating Considerations
 
@@ -201,7 +203,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
-1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
+1. Robinson, H. (2020). Dualism. *Stanford Encyclopedia of Philosophy*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Zimmerman, D. (2010). From property dualism to substance dualism. *Aristotelian Society Supplementary Volume*, 84(1), 119-150.
