@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-07-30T19:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,6 +41,8 @@ The standard causal closure principle—every physical event that has a cause ha
 
 Universal closure entails observational closure—if physics is complete everywhere, it is certainly complete wherever we look. But the reverse does not hold. Physics could be incomplete in domains beyond experimental reach while appearing complete in every accessible domain. The empirical evidence—centuries of scientific success—establishes observational closure. The inference to universal closure requires an additional step that the evidence alone does not compel.
 
+The Map's answer to what that step would have to be, and why no extant argument supplies it, comes from Buhler (2020), who surveyed the arguments for closure and found them all wanting: deductive arguments beg the question, assuming the physical domain is complete in order to prove it complete, while inductive arguments commit a sampling error, extrapolating from the domains science has investigated to all domains — including the consciousness-physics interface, which is precisely the domain in dispute. [[causal-closure]] carries the argument in full; [[causal-closure-debate-historical-survey|the historical survey]] traces how closure hardened from a methodological assumption into a metaphysical premise without ever acquiring the additional step.
+
 Saad identifies this gap as an equivocation in the exclusion argument against mental causation. The argument needs universal closure to exclude non-physical causes, but its empirical support delivers only observational closure.
 
 ## Why Observational Closure Holds Under Dualism
@@ -53,11 +55,11 @@ If consciousness causes physical events, why doesn't this show up in experiments
 
 ### Causal Profile Matching
 
-Saad's [[delegatory-dualism]] provides a different route to the same result. When an experience arises, its causal profile matches the "default causal profile" of the underlying physical state—the pattern of effects that state *would* produce absent any experience. The experience then [[delegatory-causation|preempts]] the physical state, taking over its causal work. Because the experience causes exactly what the physical state would have caused by default, no experiment can detect the substitution. The observable causal pattern is identical whether the experience or the physical state does the work.
+Saad's [[delegatory-dualism]] provides a different route to the same result. When an experience arises, its causal profile matches the "default causal profile" of the underlying physical state—the pattern of effects that state *would* produce in the absence of any experience taking over. The experience then [[delegatory-causation|preempts]] the physical state, taking over its causal work. Because the experience causes exactly what the physical state would have caused by default, no experiment can detect the substitution. The observable causal pattern is identical whether the experience or the physical state does the work.
 
 > "If the causal profile of an experiential property E is a subset of the **default causal profile** of a physical property P, then whatever has P also has E." (Saad 2025)
 
-The "default" qualifier is essential—it specifies what the physical state would cause *absent* delegation, establishing the baseline against which empirical indistinguishability is defined.
+The "default" qualifier is essential—it specifies what the physical state would cause *absent* delegation, establishing the baseline against which empirical indistinguishability is defined. That baseline is a postulate rather than an observation: wherever experience is present delegation is already occurring, so the default profile is never directly observed where the theory applies, and its only access route — the zombie functional-duplicate — depends on a contested metaphysical possibility. [[one-structure-three-vocabularies]] sets out how much of the theory rests on this primitive.
 
 ### Domain Specificity
 
@@ -72,6 +74,14 @@ The general claim that *some* mental causation exists somewhere is indeed unfals
 ### "This Is Epiphenomenalism in Disguise"
 
 [[epiphenomenalism|Epiphenomenalism]] claims consciousness causes *nothing*. Observational closure allows consciousness to cause *everything it appears to cause*—the avoidance behaviour, the verbal reports, the neural downstream effects. The observational indistinguishability concerns what *laboratories* can detect, not whether causation occurs. Saad's framework makes this explicit: the experience preempts the physical cause, doing the actual causal work. The physical state is sidelined. This is the opposite of epiphenomenalism—consciousness is the operative cause, not a causally inert bystander.
+
+That answers the metaphysical charge. It does not answer the epistemic one, and the Map's considered position concedes more than the metaphysical answer alone suggests. Saad grants the shared empirical profile in his own voice: delegation is "in the same predictive boat" as epiphenomenalism and physicalism. If no experiment can distinguish a world with delegation from one without it, a critic can reasonably ask whether delegation is explanatorily idle in the same way epiphenomenalism is — positing invisible causal handoffs that make no observable difference. The concern is sharpened by a tu quoque. Empirically equivalent theories must compete on theoretical virtues, since predictions cannot decide between them; but appealing to theoretical virtues when empirical evidence is unavailable is a move the Map elsewhere criticises physicalists for making. If that move is suspect when physicalists make it, it looks suspect when dualists make it too.
+
+What separates the two positions is a defect in one of them rather than a preference between them. Epiphenomenalism is epistemically self-defeating in a way delegation is not: if experiences cause nothing, introspective reports about experiences are not caused by those experiences, so the evidence someone cites for the theory is, on the theory's own account, not produced by what the evidence is about. As [[self-stultification]] develops the structure, a theory that severs the link between its subject matter and the evidence for believing in it is self-undermining: it could still be true, but it cannot be rationally held. The defeater here is epistemic, not logical — epiphenomenalism is not formally contradictory. Delegation escapes the self-defeat because reports about pain are caused by the pain itself, the pain having taken over the causal work.
+
+Two honest limitations remain. First, the self-undermining argument tells against epiphenomenalism but does not distinguish delegation from physicalism, which also explains introspective reports, via physical processes that constitute or correlate with experiences; delegation's case against physicalism rests on the broader arguments for [[interactionist-dualism]] — the [[hard-problem-of-consciousness|hard problem]], the conceivability arguments — rather than on causal structure alone. Second, a strict empiricist may hold that no theoretical advantage compensates for shared empirical emptiness, and resisting that empiricism is itself a philosophical commitment rather than a finding.
+
+A residual worry survives even for a reader who grants all of this, and it bears directly on a thesis whose whole subject is aggregate invisibility. [[ensemble-level-epiphenomenalism|Ensemble-level epiphenomenalism]] asks whether per-event conscious selection that leaves aggregate statistics untouched constitutes a genuine mental-to-physical channel or only a metaphysically real but functionally invisible authorship. That question is internal to interactionism rather than an alternative to it, which is what makes it harder to dismiss than the classical objection answered above.
 
 ### "This Seems Designed to Avoid Refutation"
 
@@ -93,11 +103,14 @@ The distinction also bears on testability. The Map's position is not empirically
 
 ## Further Reading
 
-- [[causal-closure]] — The broader principle from which observational closure is distinguished
+- [[causal-closure]] — The broader principle from which observational closure is distinguished, and where the Map argues that no extant argument supplies the step from observational to universal closure (Buhler 2020)
 - [[causal-closure-debate-historical-survey]] — Historical evolution of the causal closure principle from Descartes to Kim
 - [[delegatory-causation]] — The mechanism that respects observational closure: preemption and default causal profile matching
 - [[delegation-meets-quantum-selection]] — Born-rule preservation makes observational closure physically necessary, not merely philosophically designed
 - [[delegatory-dualism]] — Saad's full theory developing observational closure as a design constraint
+- [[ensemble-level-epiphenomenalism]] — The sharpest residual worry about efficacy that is invisible in aggregate
+- [[self-stultification]] — Why epiphenomenalism cannot be rationally held even if it could be true
+- [[one-structure-three-vocabularies]] — How much of the delegation theory rests on the default causal profile as a postulate
 - [[mental-causation-and-downward-causation|mental causation]] — The problem observational closure helps resolve
 - [[stapp-quantum-mind]] — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [[conservation-laws-and-mental-causation]] — Why mental causation violates neither conservation laws nor observational closure
@@ -108,6 +121,7 @@ The distinction also bears on testability. The Map's position is not empirically
 ## References
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(2), 223-236. doi:10.1515/mp-2019-0026
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
