@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-17 02:20:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-07-30 02:32:44+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[active-reboot]]'
@@ -51,7 +51,7 @@ A cross-mechanism convergence finding has four components.
 
 Single-mechanism replication establishes a finding's *robustness within one causal route*. Five separate studies showing that propofol disrupts cortico-cortical connectivity establish the finding as reproducible. They do not constrain the *explanatory* hypothesis to exclude single-mechanism explanations — every replication runs through the same GABA-A potentiation, so a "propofol-specific cortico-cortical effect" account fits all five replications equally well as a "propofol reveals a general consciousness-architecture feature" account.
 
-Cross-mechanism convergence adds the discriminating layer single-mechanism replication cannot provide. When propofol, isoflurane, sevoflurane, and ketamine all converge on a common downstream observable — Hu et al.'s (2023) finding that emergence routes through the same KCC2 mechanism across pharmacologically dissimilar agents is the canonical case — the propofol-specific account is no longer a single accommodating story. Each agent now requires its own accommodating story for why *its* mechanism converges on the shared pathway, and the cumulative accommodating-story cost is what the convergence pattern recruits against single-mechanism explanations.
+Cross-mechanism convergence adds the discriminating layer single-mechanism replication cannot provide. When propofol, pentobarbital, isoflurane, and ketamine all converge on a common downstream observable — Hu et al.'s (2023) finding, in mice, that emergence routes through the same KCC2 mechanism across pharmacologically dissimilar agents is the canonical case — the propofol-specific account is no longer a single accommodating story. Each agent now requires its own accommodating story for why *its* mechanism converges on the shared pathway, and the cumulative accommodating-story cost is what the convergence pattern recruits against single-mechanism explanations.
 
 The relationship between the two patterns is *not* that one supersedes the other. A single-mechanism replication establishes a finding; a cross-mechanism convergence interprets that finding as evidence for a structural feature. The catalogue treats both as legitimate evidence patterns serving different evidential roles.
 
@@ -59,7 +59,7 @@ The relationship between the two patterns is *not* that one supersedes the other
 
 The Map's catalogue contains four converged exhibits of the pattern, each at a different grain.
 
-**The active-reboot KCC2 finding.** Hu et al. (2023) found that emergence from general anaesthesia routes through ubiquitin-driven KCC2 degradation in the ventral posteromedial thalamus — the *same reopening pathway* across propofol (GABA-A potentiation), isoflurane and sevoflurane (volatile-anaesthetic actions), and ketamine (NMDA antagonism). Four mechanism-distinct *closing* pathways converge on one mechanism-shared *reopening* pathway. The [active-reboot](/concepts/active-reboot/) concept article reads the asymmetry as evidence for the interface having a dedicated reopening pathway separable from whatever closed the channel; the cross-mechanism convergence is the pattern-level finding that carries the inference.
+**The active-reboot KCC2 finding.** Hu et al. (2023) found, in mice, that emergence from general anaesthesia routes through ubiquitin-driven KCC2 degradation in the ventral posteromedial thalamus — the *same reopening pathway* across the four agents they tested: propofol and pentobarbital (GABA-A potentiation at distinct binding sites), isoflurane (volatile-anaesthetic actions), and ketamine (NMDA antagonism). Three mechanism classes across four agents converge on one mechanism-shared *reopening* pathway. Stating that partition precisely is the *mechanism-distinct perturbations* requirement above applied to the Map's own canonical exhibit: four drugs are four surface-level-distinct interventions, while the intravenous pair differs by binding site within a shared molecular target — a smaller increment of mechanistic distinctness than a fourth target would supply. The exhibit's discriminating force therefore rests on a three-class span plus one within-class replication, a slightly weaker convergence claim than a four-class reading would make and the one the study supports. The [active-reboot](/concepts/active-reboot/) concept article reads the asymmetry as evidence for the interface having a dedicated reopening pathway separable from whatever closed the channel; the cross-mechanism convergence is the pattern-level finding that carries the inference.
 
 **The memory-hierarchy five-perturbation convergence.** [The memory-system vulnerability hierarchies](/topics/memory-channel-interface-evidence/) article documents that the same ordering — episodic/autonoetic most vulnerable, semantic/noetic intermediate, procedural/anoetic most preserved — recurs across pharmacological anaesthesia, NREM and REM sleep, hemispherectomy recovery, terminal lucidity, and dissociative states. Five mechanism-distinct perturbations converging on the same graded ordering is the article's central explanandum. The article's load-bearing sentence — *"the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on one ordering — and that convergence is the load-bearing fact"* — names the pattern in its local form.
 
@@ -117,7 +117,7 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 
 ## References
 
-1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (KCC2 ubiquitination in the ventral posteromedial thalamus as the mechanism-shared reopening pathway across propofol, isoflurane, sevoflurane, and ketamine; cited via [active-reboot](/concepts/active-reboot/) and [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/).)
+1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (Mouse study. KCC2 ubiquitination in the ventral posteromedial thalamus as the mechanism-shared reopening pathway across the four agents tested — propofol, pentobarbital, ketamine, and isoflurane; cited via [active-reboot](/concepts/active-reboot/) and [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/).)
 2. Sarasso, S. et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099–3105.
 3. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 4. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/

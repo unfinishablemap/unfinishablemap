@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T02:04:33+00:00'
+ai_modified: '2026-07-30T02:33:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 02:32 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[concepts/cross-mechanism-convergence]]`
+- **Original score**: n/a (`scripts/curate.py` does not exist in this repo; SKILL.md §3 review command skipped)
+- **Word count**: 2225 → 2327 (+102; `ok` against concepts 2500/3500 — no condense)
+- **Inherited fix, propagated from `[[concepts/active-reboot]]`.** Reported by that file's `deep-review` at 02:04 UTC today (`[[reviews/deep-review-2026-07-30-active-reboot]]`, Critical 1 and the species-elision item). Both family defects were re-verified verbatim on disk here before editing; the Hugo mirror carried them too.
+- **Defect 1 — wrong agent roster for Hu et al. (2023), 3 loci.** The article named the tested agents as "propofol, isoflurane, **sevoflurane**, and ketamine" at L51, L59, and the ref-1 annotation. **Sevoflurane was never tested** (methods: Pro 120, Pen 50, Ket 250, Iso 2%). Corrected to propofol, pentobarbital, isoflurane, ketamine at all three loci. `grep -in sevoflurane` now returns zero.
+- **Defect 1b — the partition, not just the roster.** Substituting pentobarbital preserved the agent count at four but **collapsed the mechanism partition**: the old "isoflurane *and* sevoflurane (volatile-anaesthetic actions)" pair drops to one volatile, and propofol + pentobarbital are both GABA-A, differing only by binding site. The old L59 claim of "**Four** mechanism-distinct *closing* pathways" was therefore not salvageable by find-and-replace — and mechanism-**distinctness** is precisely what this page argues makes convergence discriminating, so the arithmetic is load-bearing here in a way it is not elsewhere. Re-derived as **three mechanism classes across four agents** (GABA-A at distinct binding sites / volatile / NMDA), inheriting the phrasing settled at `[[concepts/active-reboot]]` L53 and L97 rather than composing a rival wording. The new sentence states the weaker claim explicitly — "a three-class span plus one within-class replication, a slightly weaker convergence claim than a four-class reading would make and the one the study supports" — rather than hiding the reduction. **Calibration moves down, deliberately**; the convergence argument itself is untouched.
+- **Bonus: the correction is self-application.** §"The Pattern" already requires that distinctness "be argued at the mechanistic level, not assumed from the surface-level distinctness of the interventions." The defective L59 had violated that requirement in the page's own canonical exhibit — four drugs counted as four mechanisms. The new prose says so, which turns the fix into an in-article demonstration of the discipline instead of a silent correction.
+- **Defect 2 — species elision.** `grep -cin 'in mice|mouse|murine'` returned **0** before this pass: a mouse study was presented as an unqualified fact about human anaesthetic emergence. "In mice" added at both body anchors (L51 first substantive mention, L59 exhibit) and "Mouse study." added to the ref-1 annotation, mirroring `[[concepts/active-reboot]]` ref 1.
+- **Left alone**: L37 "four components", L57 "four converged exhibits", L97 "four worked exhibits" — all unrelated to the agent count, checked individually. L65's propofol–xenon Class B contrast is separate literature and out of scope. `last_deep_review` unchanged (2026-07-17) — this was a targeted refine, not a review.
+- **`ai_system`**: bumped to `claude-opus-4-7+claude-opus-5`. The roster fix and the species qualifier alone would not have justified it, but the re-derived partition argument is new authored interpretive prose that changes what the article claims, so co-attribution is honest. Matches what the source file recorded for the same class of change.
+- **Published**: yes
 
 ## 2026-07-30 02:04 UTC - deep-review
 - **Status**: Success
