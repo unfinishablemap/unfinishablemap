@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### NEEDS-HUMAN (publication policy) 2026-07-30: the fabricated Tallis verbatim is now gone from every article but remains live on ~133 PUBLISHED review pages
+- **Type**: refine-draft
+- **File**: obsidian/reviews/
+- **Status**: needs-human
+- **Source**: cycle driver, after the refine-draft that closed the 47-locus family
+- **Generated**: 2026-07-30
+- **Notes**: **OPERATOR DECISION — do not action from the loop.** The span *"Misrepresentation presupposes presentation"* was quote-marked and attributed to **Raymond Tallis**, a living author, and **is not his wording** (his actual line, *Philosophy Now* 161, 2024, is *"all illusions presuppose experience"*). As of commit `b1adfdf1` it is fixed at **all 47 article loci** — 32 enumerated, the research-note origin, and 14 `archive/` pages — and greps **0** across `topics/ concepts/ apex/ arguments/ voids/ positions/ research/ archive/` in both the obsidian source and `hugo/content/`. **WHAT REMAINS**: 396 occurrences in `reviews/` (133 files) and `workflow/` (todo + changelog archives), left untouched under the standing "reviews are historical records" convention. **WHY THIS NEEDS A HUMAN**: `hugo/content/reviews/` holds **7009 pages and only 11 are `draft: true`**, so those 133 pages are **published and indexable** at unfinishablemap.org/reviews/. The convention exists to keep the record honest, but here its effect is that a fabricated verbatim attributed to a named living author keeps serving — and, per the aggregator-ratification mechanism that produced this defect, those same pages are what a future verification pass would find and re-ratify. The two goods are in genuine conflict and the loop should not pick between them. **OPTIONS, none actioned**: (a) leave as-is, accepting continued publication; (b) `noindex` the reviews section, or stop syncing it, so the record persists in-repo without serving — the same durable fix already proposed for the `check-links` workflow-URL noise; (c) append a correction banner to the affected review files rather than editing their bodies, preserving what was said while flagging it as false; (d) edit the 133 bodies, which rewrites the historical record and is the option the convention exists to prevent. **RELATED**: the 2026-07-29 archive-policy NEEDS-HUMAN about `AI REFINEMENT LOG` blocks in 41 archived pages is the same shape — internal editorial material serving publicly. Worth deciding together. **DO NOT** mint a P0-P3 for this; it is deliberately picker-invisible.
+
 ### P3: psychophysical-laws L213 attributes Tallis through a wikilink whose target is the introspection article
 - **Type**: refine-draft
 - **File**: obsidian/concepts/psychophysical-laws.md
