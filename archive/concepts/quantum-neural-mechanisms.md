@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms: radical pairs, ion tunneling, micr
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-02-08T18:59:00+00:00
+ai_modified: 2026-07-30T21:43:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ Cryptochrome proteins, which enable avian magnetoreception through quantum effec
 ### Evidence Status (2024-2025)
 
 **Supporting:**
-- Atkins et al. (2024, *Nature Communications*): Magnetosensitivity in cryptochrome radical pairs enabled by quantum Zeno effect. Tight binding between radicals preserves coherence—the first biological demonstration of Zeno-protected quantum states
+- Denton et al. (2024, *Nature Communications*): Modelled how the quantum Zeno effect enables magnetosensitivity in tightly bound cryptochrome radical pairs, with tight binding preserving spin coherence. This is a computational precedent for Zeno-protected quantum states in a biological setting rather than a direct measurement of one
 - QuantNeuro lab (University of Waterloo): Electrophysiological recordings show blue-light-dependent membrane depolarization enhanced by magnetic fields in cryptochrome-expressing neurons (conference presentations; peer-reviewed publication pending)
 - Craddock et al. (NIH QIS Interest Group, June 2025): Presented preliminary evidence for radical pair mechanisms affecting tubulin assembly (unpublished presentation)
 
@@ -98,7 +98,7 @@ Ions (Na⁺, K⁺, Ca²⁺) tunnel through closed voltage-gated channels via qua
 ### Evidence Status
 
 **Supporting:**
-- Qaswal 2022: Mathematical model matches observed pathological phenomena (tinnitus, phantom limb pain, neuropathic pain)
+- Qaswal et al. 2021: Mathematical model matches observed pathological phenomena (tinnitus, phantom limb pain, neuropathic pain)
 - Mass-dependence predictions align with known ion behavior
 - Explains "ephaptic transmission" via "quantum synapses" between adjacent neurons
 
@@ -132,10 +132,10 @@ Tubulin proteins within microtubules sustain quantum superposition states. In th
 ### Evidence Status (2024-2025)
 
 **Supporting:**
-- Babcock et al. (2024, *Physical Review X*): Room-temperature quantum super-radiance demonstrated in tryptophan networks—potentially relevant to microtubule aromatic residue clusters
-- Kalra et al. (2023, *Anesthesiology*): Anesthetics dampen quantum optical effects in isolated microtubule preparations—potentially explaining why anesthesia specifically affects consciousness
-- 2024 rat study (Li et al.): Epothilone B (microtubule-binding drug) delays anesthesia onset, suggesting microtubule involvement
-- Wiest (2025, *Neuroscience of Consciousness*): Proposes MRI methodology for detecting macroscopic entangled states, with preliminary correlations to consciousness level. The claimed entanglement detection awaits independent replication
+- Babcock et al. (2024, *The Journal of Physical Chemistry B*): Theoretical analysis in the single-excitation manifold predicts strongly superradiant states across tryptophan mega-networks in microtubule architectures, with the predicted enhancement of fluorescence quantum yield confirmed by the authors' own measurements at thermal equilibrium—potentially relevant to microtubule aromatic residue clusters
+- Kalra et al. (2023, *ACS Central Science*): Electronic energy diffuses ~6.6 nm along microtubules via tryptophan chromophores, and the anaesthetics etomidate and isoflurane reduce that exciton diffusion—potentially bearing on why anaesthesia specifically affects consciousness
+- Khan et al. (2024, *eNeuro*): Epothilone B (a microtubule-stabilising drug) delays anaesthetic-induced unconsciousness in rats, suggesting microtubule involvement
+- Wiest (2025, *Neuroscience of Consciousness*): A review arguing for a quantum microtubule substrate of consciousness. It reports Kerskens and López Pérez's (2022) MRI entanglement-witness result as evidence of a macroscopic entangled state in the living brain correlated with conscious state and working memory—the methodology and the measurement are theirs, reviewed here rather than newly proposed. The claimed entanglement detection remains contested and awaits independent replication
 - Hagan et al. (2002, *Physical Review E*): Revised decoherence estimates (10-100 μs) for microtubule interiors, challenging Tegmark's femtosecond calculations
 
 **Uncertain:**
@@ -207,7 +207,7 @@ The five mechanisms occupy different positions in the evidence hierarchy:
 
 | Mechanism | Theory Status | Experimental Evidence | Neural Relevance |
 |-----------|---------------|----------------------|------------------|
-| Radical pairs | Well-developed | Strong (avian, 2024 Zeno) | Moderate (neural crypto unclear) |
+| Radical pairs | Well-developed | Strong (avian behavioural); the 2024 Zeno result is modelling | Moderate (neural crypto unclear) |
 | Ion tunneling | Mathematical | Indirect (pathology match) | High (action potentials) |
 | Microtubules (Orch OR/QBIT) | Comprehensive | Growing (2024-2025 studies) | High (ubiquitous structure) |
 | SNARE tunneling | Specific | Theoretical | High (synaptic release) |
@@ -297,16 +297,18 @@ The Unfinishable Map's interest in quantum neural mechanisms connects to all fiv
 
 ## References
 
-- Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
-- Babcock, N. S., et al. (2024). Super-radiance reveals infinite-range dipole interactions through a nanofiber. *Physical Review X*, 14(4), 041050.
+- Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 - Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
 - Craddock, T. J. A. et al. (2025). Uncovering Radical Pair Mechanisms: Magnetic Field-Dependent Isotope Effects in Tubulin Assembly. NIH QIS Interest Group presentation (unpublished).
+- Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 - Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 - Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
+- Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 - Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Kalra, A. P., et al. (2023). Anesthetic dampening of quantum optical effects in microtubules. *Anesthesiology*, 139(4), 468-479.
+- Kalra, A. P., Benny, A., Travis, S. M., Zizzi, E. A., Morales-Sanchez, A., Oblinsky, D. G., et al. (2023). Electronic Energy Migration in Microtubules. *ACS Central Science*, 9(3), 352-361.
+- Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+- Khan, S., Huang, Y., Timuçin, D., ... Wiest, M. C. (2024). Microtubule-Stabilizer Epothilone B Delays Anesthetic-Induced Unconsciousness in Rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
-- Qaswal, A. B. (2022). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels. *Quantum Reports*, 4(1), 10.
+- Qaswal, A. B., Ababneh, O., Khreesha, L., Al-Ani, A., Suleihat, A., & Abbad, M. (2021). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels and Quantum Aspects of Their Pathophysiology in Excitability-Related Disorders. *Pathophysiology*, 28(1), 116-154.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
