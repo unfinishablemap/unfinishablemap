@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-07-14 11:39:52+00:00
+ai_modified: 2026-07-30 16:50:26+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -115,7 +115,7 @@ Several factors distinguish reliable from unreliable phenomenological evidence:
 
 **Temporal stability.** When meditators consistently describe jhana states in similar terms across sessions, traditions, and individuals, the stability supports genuine phenomenal structure rather than random variation.
 
-**Predictive power.** Trained meditators' reports of specific attentional states predict neural signatures that untrained reports do not (Fox et al., 2012). The phenomenology earns evidential status by enabling successful predictions.
+**Predictive power.** Subjects trained to report their own preparatory state before a depth-perception task gave trial-by-trial reports that predicted distinct patterns of frontal synchrony prior to stimulus onset, and predicted reaction times (Lutz et al., 2002). The phenomenology earns evidential status by enabling successful predictions.
 
 **Structural coherence.** Reports revealing systematic relationships between experiential elements—such as the jhana sequence progressing from directed attention through equanimity to formless states—are more evidentially valuable than isolated observations.
 
@@ -227,6 +227,8 @@ Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accurac
 Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
 
 Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
+
+Lutz, A., Lachaux, J.-P., Martinerie, J., & Varela, F. J. (2002). Guiding the study of brain dynamics by using first-person data: Synchrony patterns correlate with ongoing conscious states during a simple visual task. *PNAS*, 99(3), 1586-1591.
 
 Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
 
