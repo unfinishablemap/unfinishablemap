@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-07-29 08:47:00+00:00
+ai_modified: 2026-07-30 20:38:15+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -219,6 +219,8 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 The Map's interactionist framework addresses its row through quantum mechanics—consciousness selects among outcomes physics leaves undetermined. See [combination-problem](/concepts/combination-problem/) for detailed treatment.
 
+The move from irreducibility to dualism is a further step, taken openly: convergence earns irreducibility across the rivals that respect it, and [Bidirectional Interaction](/tenets/#bidirectional-interaction) selects dualism among them. The two earnings do not compound — see [why dualism rather than idealism or Russellian monism](/concepts/dualism/#why-dualism-not-idealism-or-russellian-monism) and [P-D2](/positions/arguments-for-dualism/).
+
 ### Mysterianism
 
 [Mysterianism](/concepts/mysterianism/) proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's (1989) [cognitive closure](/concepts/mysterianism/) thesis: just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness.
@@ -271,7 +273,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism turns the metaproblem from threat to vindication
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Independent recognition of the hard problem across Indian, Islamic, African, and Japanese traditions
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Sāṃkhya, Nyāya, and Vedānta approaches to consciousness
-- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Why independent convergence on irreducibility strengthens the case
+- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Why near-independent convergence on irreducibility strengthens the case
 - [tenets](/tenets/) — The foundational commitments of the Map
 - [commensurability-void](/voids/commensurability-void/) — Why phenomenal experiences across different architectures may resist even comparison, not just explanation
 - [the-reverse-inference](/topics/the-reverse-inference/) — Why consciousness—the hard problem's datum—should constrain physics rather than the reverse
