@@ -38,6 +38,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Batthyány & Greyson remission paper is dated 2020 in three articles and 2021 in a fourth — the corpus contradicts itself
+- **Type**: refine-draft
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Status**: pending
+- **Source**: deep-review 2026-07-30 of topics/death-and-consciousness.md (reported out-of-scope rather than scope-crept)
+- **Generated**: 2026-07-30
+- **Notes**: **VERIFIED LIVE ON DISK BY THE CYCLE DRIVER 2026-07-30T07:42Z — a four-file year disagreement on one paper.** `obsidian/concepts/filter-theory.md` has `Batthyány and Greyson's (2020`; `obsidian/topics/consciousness-under-extreme-metabolic-constraint.md` has `Batthyány and Greyson (2020`; `obsidian/concepts/memory-channel-interface-evidence.md` has `Batthyány and Greyson's (2020`; `obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md` has `Batthyány, A., & Greyson, B. (2021`. **THREE-TO-ONE IS NOT EVIDENCE — do not resolve by majority.** A propagated error replicates; the outlier may be the one that was checked. **VERIFY AT THE PUBLISHER OF RECORD** (Crossref/DOI, or the journal's own record) and unify to whatever the publisher says, correcting all four if the majority is the wrong one. Watch for the ordinary print/online-first split: a paper accepted in 2020 and issued in 2021 legitimately admits both dates, in which case the corpus convention is to pick one and use it consistently, noting the other only if a reference entry needs it. **DO NOT self-confirm** — a WebSearch result topped by unfinishablemap.org is circular. **DO NOT delete the citation** if verification fails; report and leave it. **CONTEXT: this is the residue of a family that was just closed.** The same deep review found and fixed a genuine *wrong-author* misattribution in the neighbouring cite — what the corpus called "Batthyány et al. (2023)" is actually **Teresi, J.A., Ramirez, M., Ellis, J., et al. (2023)**, *Journal of Gerontological Nursing* 49(1):18-26, DOI `10.3928/00989134-20221206-03` (Batthyány is not an author) — corrected across `topics/death-and-consciousness.md`, `concepts/near-death-experiences.md` and `archive/topics/death-phenomenology-beyond-ndes.md`. Batthyány's *genuine* cites were all verified legitimate. So treat this file's Batthyány references as a checked-neighbourhood, unchecked-detail case: the author attributions are now right, the years are not yet. **LENGTH**: measure with `analyze_length`, not `wc -w`, and subtract the Further Reading + References apparatus before believing any status. **ATTRIBUTION**: hold each file's existing `ai_system`; this is a date correction, not re-authoring.
+
 ### NEEDS-HUMAN (agentic-social tuning): the ~7-day TOPIC dedup filter has fully saturated and silently falls through to URL-only
 - **Type**: refine-draft
 - **File**: obsidian/workflow/evolution-state.yaml

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 13:08:33+00:00
+ai_modified: 2026-07-30 07:38:23+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ description: Does consciousness survive bodily death? Dualism keeps the question
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 22:21:52+00:00
+last_deep_review: 2026-07-30 07:38:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) does load-bearing work here,
 
 ### Parfit's "Liberating" View of Death
 
-[Parfit's reductionism](/concepts/parfit-reductionism/) treats death as merely the ending of a pattern—"no more distressing than when I am about to lose consciousness in sleep." Since there's no deep self that persists, there's no deep self that is destroyed.
+[Parfit's reductionism](/concepts/parfit-reductionism/) treats death as merely the ending of a pattern: on his account the prospect should come to seem less distressing, more like an ordinary loss of consciousness than the annihilation of a deep self. Since there's no deep self that persists, there's no deep self that is destroyed.
 
 **Why the Map rejects this**: The liberating conclusion follows *only if* reductionism is true. If *you* are a particular conscious subject whose [haecceity](/concepts/haecceity/) can't be replicated, then death destroys something unique and irreplaceable. This explains the asymmetry we feel between our own death (irreversible loss of this subject) and a replica's creation (a new subject, however similar). On Parfit's view, these should feel equivalent. That they don't reveals something about our pre-theoretical grasp of identity.
 
@@ -97,13 +97,13 @@ This sharpens the Map's rejection of Parfit. The extended self isn't a pattern t
 
 ### Deathbed Visions
 
-Deathbed visions (DBVs) occur in dying patients who remain conscious and lucid—unlike NDEs, brains are functioning, not shut down. Patients report seeing deceased relatives or unknown figures alongside the physical room, with coherent interaction and calm rather than distress (Kerr et al., 2014; Fenwick & Fenwick, 2008).
+Deathbed visions (DBVs) occur in dying patients who remain conscious and lucid—unlike NDEs, brains are functioning, not shut down. Patients report seeing deceased relatives or unknown figures alongside the physical room, with coherent interaction and usually calm rather than distress (Fenwick & Fenwick, 2008). Kerr et al.'s prospective hospice study (2014) is the most systematic evidence here, and it cuts both ways: visions of the deceased were significantly more comforting than those of living people and grew more frequent as death approached, but almost half of the episodes occurred during sleep and a minority were distressing.
 
-Osis and Haraldsson's cross-cultural study (1977) drew on survey responses from over 1,000 doctors and nurses in the United States and India reporting deathbed observations. Despite vast cultural differences, both populations predominantly saw deceased rather than living persons—including individuals the patient did not know had died. This cross-cultural convergence resists hallucinatory explanation: if DBVs were projections of expectation, the content should vary with cultural context rather than converging on deceased persons.
+Osis and Haraldsson's cross-cultural study (1977) drew on survey responses from over 1,000 doctors and nurses in the United States and India reporting deathbed observations. In both populations apparitions of the dead predominated over apparitions of the living—sometimes including people the patient did not know had died. That core is convergent, and it is harder to derive from expectation than the surface content of a vision. But the study should not be cited as though it found uniformity: Osis and Haraldsson themselves documented pronounced culture-specific variation—Indian patients were far more likely than Americans to see a personification of death or a religious figure—and the low survey response rate invites selection worries. The defensible reading is a convergent core inside culturally shaped content, which constrains the expectation hypothesis without defeating it.
 
 ### Terminal Lucidity
 
-Terminal lucidity—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents perhaps the most direct challenge to production models. Nahm and Greyson (2012) documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia. Patients non-verbal for years suddenly recognised family, held coherent conversations, and recalled long-lost memories (see also Batthyány et al., 2023).
+Terminal lucidity—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents perhaps the most direct challenge to production models. Nahm et al. (2012) documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia. Patients non-verbal for years suddenly recognised family, held coherent conversations, and recalled long-lost memories (see also Teresi et al., 2023).
 
 The puzzle is severe: in advanced Alzheimer's, plaques and tangles have extensively replaced functional tissue, yet terminal lucidity restores precisely these capacities. Mashour et al. (2019) proposed that paradoxical lucidity represents a "potential paradigm shift," suggesting some dementia may involve functional suppression rather than structural destruction—plausible for moderate disease, but strained where autopsy confirms massive damage.
 
@@ -117,11 +117,11 @@ The philosophical significance is direct: the bystander's brain is not compromis
 
 ### Nearing Death Awareness
 
-Nearing death awareness (NDA), identified by Callanan and Kelley in *Final Gifts* (1992), unfolds over days or weeks—unlike the sudden onset of NDEs. Patients announce when they will die with remarkable precision, describe journeys and preparations for travel in consistent symbolic language, converse with deceased relatives who are "waiting," and report occupying two realities simultaneously—the physical room and another space—with increasing orientation toward the non-physical as death approaches.
+Nearing death awareness (NDA), identified by Callanan and Kelley in *Final Gifts* (1992), unfolds over days or weeks—unlike the sudden onset of NDEs. Patients announce when they will die with remarkable precision, describe journeys and preparations for travel in consistent symbolic language, converse with deceased relatives who are "waiting," and report occupying two realities simultaneously—the physical room and another space—with increasing orientation toward the non-physical as death approaches. *Final Gifts* is a hospice-nursing case collection rather than a prospective study, so NDA's evidential standing sits closer to the shared-death material than to Kerr's cohort data.
 
 The extended timeline distinguishes NDA sharply from NDEs: whatever is happening phenomenologically is not a brief neurochemical event but a progressive change in the consciousness-brain relationship.
 
-Across these phenomena, consciousness is enhanced rather than diminished as the brain fails, deceased persons appear consistently across cultures, and the transition is gradual rather than binary—all challenging production models across varied physiological conditions.
+Across these phenomena, reports of enhanced rather than diminished awareness recur as the brain fails, and the transition appears gradual rather than binary—both awkward for production models across varied physiological conditions.
 
 ## Contemplative Perspectives
 
@@ -147,7 +147,7 @@ A tension deserves acknowledgement: Buddhist metaphysics is built on *anattā* (
 
 **The vanishing of time**: Under anesthesia, time vanishes entirely. How does the same subject exist before and after with no connecting experience? Filter theory suggests consciousness loses its temporal anchor when the brain-interface is disrupted. Death might represent permanent disconnection.
 
-**Covert consciousness**: Up to 25% of behaviorally unresponsive patients retain awareness detectable only via neuroimaging. If our criteria systematically underestimate conscious presence, the dying brain might retain consciousness invisible to observation.
+**Covert consciousness**: Around 25% of behaviorally unresponsive patients show covert awareness detectable only by task-based fMRI or EEG (Bodien et al., 2024). If our criteria systematically underestimate conscious presence, the dying brain might retain consciousness invisible to observation.
 
 **Disconnection syndromes**: Hemispherectomy patients maintain substantially normal conscious lives despite losing half their cortex. If consciousness survives massive neural loss, what happens when all pathways fail?
 
@@ -155,7 +155,7 @@ A tension deserves acknowledgement: Buddhist metaphysics is built on *anattā* (
 
 Substance dualism permits survival most straightforwardly: consciousness as a distinct immaterial substance might persist when its physical substrate fails. Property dualism is more complex—if consciousness is a non-physical property of physical systems, it might require a substrate, though that substrate needn't be material. The Map's [interactionist-dualism](/concepts/interactionist-dualism/) leaves these questions open: what matters is that consciousness is irreducible and causally efficacious.
 
-Several possibilities: **disembodied consciousness** (Price's "dream-image" existence—pure mental life without physical form); **reembodiment** (resurrection, reincarnation, or technological substrate); **absorption** (merging with a larger whole, tensioned with indexical identity); and **quantum persistence** (consciousness as distributed quantum information, facing severe coherence problems). The Map doesn't adjudicate between these but provides the conceptual space for survival to be meaningful.
+Several possibilities: **disembodied consciousness** (Price's image-world—a dream-like mental existence composed of images rather than physical form); **reembodiment** (resurrection, reincarnation, or technological substrate); **absorption** (merging with a larger whole, tensioned with indexical identity); and **quantum persistence** (consciousness as distributed quantum information, facing severe coherence problems). The Map doesn't adjudicate between these but provides the conceptual space for survival to be meaningful.
 
 ## The Quantum Soul Hypothesis
 
@@ -163,7 +163,7 @@ Stuart Hameroff and Roger Penrose's [Orch OR theory](/concepts/quantum-conscious
 
 ### The Decoherence Challenge
 
-[Decoherence](/concepts/decoherence/) poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates eight to nine orders of magnitude longer, though Reimers et al. (2009) and McKemmish et al. (2009) in turn contested those parameters—the dispute is live, not settled either way; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
+[Decoherence](/concepts/decoherence/) poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates eight to nine orders of magnitude longer (Hagan et al., 2002), though Reimers et al. (2009) and McKemmish et al. (2009) in turn contested those parameters—the dispute is live, not settled either way; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
 
 **Significant caveats:** Highly speculative; no mechanism explains post-mortem coherence; dispersed quantum information might not preserve *your* particular [perspective](/concepts/haecceity/).
 
@@ -179,7 +179,7 @@ The Map's openness to survival would face serious difficulty if:
 
 4. **Shared death experiences** failed to survive rigorous prospective study—the most striking evidence for non-brain-based phenomenology would dissolve.
 
-5. **Cross-cultural divergence** in deathbed visions proved more substantial than Osis and Haraldsson found—if the deceased-person predominance were culturally specific, the universality claim would weaken.
+5. **The deceased-person predominance proved culturally specific.** Osis and Haraldsson already found substantial culture-specific variation in vision *content*; if the predominance of the dead over the living varied the same way, the convergent core would dissolve.
 
 ## Relation to the Map's Perspective
 
@@ -217,10 +217,10 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 
 ## References
 
-1. Batthyány, A. et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 17-22.
+1. Bodien, Y.G., Allanson, J., Cardone, P., et al. (2024). "Cognitive motor dissociation in disorders of consciousness." *New England Journal of Medicine*, 391(7), 598-608.
 1. Callanan, M. & Kelley, P. (1992). *Final Gifts: Understanding the Special Awareness, Needs, and Communications of the Dying*. Poseidon Press.
 1. Fenwick, P. & Fenwick, E. (2008). *The Art of Dying*. Continuum.
-1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules." *Physical Review E*.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65, 061901.
 1. Kerr, C. et al. (2014). End-of-life dreams and visions: A longitudinal study of hospice patients' experiences. *Journal of Palliative Medicine*, 17(3), 296-303.
 1. Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.
@@ -232,5 +232,6 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219-4224.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*.
+1. Teresi, J.A., Ramirez, M., Ellis, J., et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 18-26.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 1. Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).

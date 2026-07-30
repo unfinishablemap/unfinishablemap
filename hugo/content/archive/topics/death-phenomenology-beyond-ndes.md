@@ -66,7 +66,7 @@ Skeptical responses include suggestibility (bystanders unconsciously construct e
 
 ## Terminal Lucidity
 
-Terminal lucidity — the sudden return of mental clarity shortly before death in patients with severe neurological conditions — is documented in the [NDE article](/concepts/near-death-experiences/) but deserves fuller treatment as an independent phenomenon. Nahm and Greyson (2012) documented 83 cases spanning 250 years, across Alzheimer's disease, brain tumors, strokes, and chronic schizophrenia. Patients who had been non-verbal for years suddenly recognised family members, held coherent conversations, and recalled long-lost memories. Batthyány's 2023 pilot survey of healthcare professionals found that 73% reported having witnessed paradoxical lucidity at least once — a striking proportion, though the sample was small and self-selected.
+Terminal lucidity — the sudden return of mental clarity shortly before death in patients with severe neurological conditions — is documented in the [NDE article](/concepts/near-death-experiences/) but deserves fuller treatment as an independent phenomenon. Nahm and Greyson (2012) documented 83 cases spanning 250 years, across Alzheimer's disease, brain tumors, strokes, and chronic schizophrenia. Patients who had been non-verbal for years suddenly recognised family members, held coherent conversations, and recalled long-lost memories. Teresi et al.'s 2023 pilot interview study of healthcare professionals found that 73% reported having witnessed paradoxical lucidity at least once — a striking proportion, though the sample was small and self-selected.
 
 The phenomenological puzzle is severe. In advanced Alzheimer's, the neural substrates for episodic memory, language production, and face recognition have suffered massive structural damage — plaques and tangles have extensively replaced functional tissue. Yet terminal lucidity restores precisely these capacities, sometimes hours before death.
 
@@ -157,7 +157,7 @@ The Map's interpretation would face difficulty if:
 3. Moody, R. (2010). *Glimpses of Eternity: Sharing a Loved One's Passage from This Life to the Next*. Guideposts.
 4. Nahm, M., Greyson, B., Kelly, E.W. & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
 5. Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
-6. Batthyány, A. et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 17-22.
+6. Teresi, J.A., Ramirez, M., Ellis, J., et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 18-26.
 7. Fenwick, P. & Fenwick, E. (2008). *The Art of Dying*. Continuum.
 8. Kerr, C. et al. (2014). End-of-life dreams and visions: A longitudinal study of hospice patients' experiences. *Journal of Palliative Medicine*, 17(3), 296-303.
 9. Sogyal Rinpoche. (1992). *The Tibetan Book of Living and Dying*. HarperSanFrancisco.

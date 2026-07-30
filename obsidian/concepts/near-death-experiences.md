@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest challenge brain-
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-07-18T08:56:22.856035+00:00
+ai_modified: 2026-07-30T07:38:23+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -128,7 +128,7 @@ One deflationary move must be granted first. The reported clarity is *phenomenal
 
 ### Terminal Lucidity and Broader Death Phenomenology
 
-**Terminal lucidity**—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents a structurally parallel puzzle. Nahm and Greyson documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia (Nahm et al. 2012)—though most evidence is retrospective caregiver accounts rather than controlled prospective observation. Patients non-verbal for years suddenly recognized family, held coherent conversations, and recalled long-lost memories. Batthyány's 2023 survey found 73% of healthcare professionals reported witnessing paradoxical lucidity at least once.
+**Terminal lucidity**—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents a structurally parallel puzzle. Nahm and Greyson documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia (Nahm et al. 2012)—though most evidence is retrospective caregiver accounts rather than controlled prospective observation. Patients non-verbal for years suddenly recognized family, held coherent conversations, and recalled long-lost memories. Teresi et al.'s 2023 interview study found 73% of the healthcare professionals surveyed reported witnessing paradoxical lucidity at least once.
 
 The puzzle: if neurodegeneration has physically destroyed neural substrates for memory and thought, what restores them before death? Mashour et al. (2019) called paradoxical lucidity a "potential paradigm shift," suggesting some dementia involves *functional* suppression rather than purely structural destruction. But this strains against cases with massive structural damage where relevant neural substrates no longer exist.
 
@@ -194,7 +194,7 @@ None of these would definitively refute dualism, but they would significantly we
 
 ## References
 
-1. Batthyány, A. et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 17-22.
+1. Teresi, J.A., Ramirez, M., Ellis, J., et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 18-26.
 1. Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120.
 1. Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
 1. Nahm, M., Greyson, B., Kelly, E.W. & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.

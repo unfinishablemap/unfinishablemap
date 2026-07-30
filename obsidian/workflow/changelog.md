@@ -5,6 +5,30 @@ ai_modified: '2026-07-30T05:46:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-30 07:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/death-and-consciousness]]
+- **Lenses run**: quote fidelity, claim-match, citation framing, bidirectional inline↔References orphan check. Ninth review; the eight prior passes had converged internal-consistency and citation-metadata but had never run the first three.
+- **Premise correction**: the task brief's "zero prior reviews contain a web-verify section" was a narrow-grep false negative — 06-05 ran a real publisher audit ("Citations Verified Accurate", 11 of 18 refs) and 07-08 ran a currency sweep. The brief's *judgement* still held: 7 refs were unledgered, and 07-08 had falsely certified five of them as verified on 06-05.
+- **Word count**: prose 2781 → 2948 (+167, under 3000 soft); apparatus 474 → 502; `analyze_length` total 3255 → 3450 (under 4000 hard). `soft_warning` before and after is the apparatus-counting artifact.
+- **Critical issues addressed**: 3
+  - **Fabricated Parfit quotation** — "no more distressing than when I am about to lose consciousness in sleep." exists in no source. Already de-quoted in [[parfit-reductionism]] on 2026-05-26 and never propagated; was **live in hugo**. De-quoted to paraphrase. First WebSearch self-confirmed off unfinishablemap.org's own page — re-run with Map domains blocked found nothing.
+  - **Batthyány et al. 2023 wrong-author misattribution** — Crossref (DOI 10.3928/00989134-20221206-03) shows the paper is **Teresi, J.A. et al.**, pages **18-26** not 17-22; Batthyány is not an author. Corrected, not deleted. Family resolution: the same defect was found and fixed at four further loci in two more files — [[concepts/near-death-experiences]] (body + reference) and the archived-but-still-served [[archive/topics/death-phenomenology-beyond-ndes]] (body + reference), the article this one was coalesced from and the likely origin of the inheritance. Re-synced; no tree still serves the wrong authorship. All other Batthyány cites in the corpus verified legitimate and left untouched (Batthyány & Greyson's real remission paper, the *Threshold* book, and Mashour/Frank/Batthyány 2019 where he really is a co-author). The 2026-W22 changelog had certified this wrong cite "CLEAN".
+  - **Orphan reference** — Hagan et al. 2002 sat in References with no inline cite; anchored inline, locator completed.
+- **Medium issues addressed**: 6
+  - **Kerr 2014 mis-framed** (metadata exact; framing wrong): almost half the episodes occurred *while asleep*, content included living as well as deceased relatives, and the comfort finding is comparative — cited as flat one-sided support for lucid waking visions "calm rather than distress". Re-framed as double-edged.
+  - **Osis & Haraldsson convergence overstated**: the source itself documents pronounced culture-specific variation (Indian patients far more likely to see a personification of death), plus a low response rate. Reframed to a convergent core inside culturally shaped content; falsifiability condition 5 rewritten; redundant summary clause trimmed.
+  - **Price's "dream-image"** is not Price's phrase (his is an image-world of real mental images) — de-quoted.
+  - **Uncited 25% covert-consciousness figure** — sourced to Bodien et al. 2024 *NEJM* 391(7):598-608 (60/241); "neuroimaging" corrected to "task-based fMRI or EEG".
+  - **"Nahm and Greyson (2012)"** → "Nahm et al. (2012)" (four-author paper; avoids collision with the real Nahm & Greyson 2009).
+  - **Hedging asymmetry** — *Final Gifts* NDA claims presented flatly while SDEs were hedged; evidential standing now stated.
+- **Currency sweep**: `find_superlative_claims` empty; hand-checked — the article's superlatives are comparative and internal, no empirical priority claims to go stale.
+- **Reasoning modes** (editor-internal): Everettian Mode Three; Parfit Mode Three/bedrock (unchanged — engagement never rested on the quotation); Illusionists Mode Two; deathbed-vision expectation hypothesis now honestly Mode Three-leaning rather than presented as defeated. No label leakage.
+- **Deferred item CLOSED**: the 06-05/07-08 open question of whether the AWARE II "39% recalled experiences of death" mis-pin propagated to [[concepts/near-death-experiences]] — it did not; that article correctly pins 39% to the broad-awareness bucket and hedges the sample.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` (corrections, not re-authoring).
+- **Synced**: yes — fabricated quote and third-party misattribution were live in `hugo/content/`.
+- **Output**: [[reviews/deep-review-2026-07-30-death-and-consciousness]]
+
 ## 2026-07-30 07:13 UTC - refine-draft
 - **Status**: Success
 - **File**: [[open-individualism-and-the-de-combination-problem]]
