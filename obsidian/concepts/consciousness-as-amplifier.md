@@ -4,8 +4,8 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-07-29T09:11:38+00:00
-last_deep_review: 2026-07-10T15:34:45+00:00
+ai_modified: 2026-07-30T11:21:11+00:00
+last_deep_review: 2026-07-30T11:21:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,9 +68,9 @@ Great apes represent sophisticated [[baseline-cognition]]—what neurons achieve
 
 **Procedural versus declarative metacognition**: Great apes show [[metacognition|metacognitive]] monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This [[metacognition#the-metarepresentation-threshold|metarepresentational capacity]] may require phenomenal consciousness.
 
-**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Gruber et al. 2015). [[cumulative-culture|Cumulative culture]] requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
+**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Gruber et al. 2015). [[cumulative-culture|Cumulative culture]] requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within the "zone of latent solutions" (Tennie, Call & Tomasello 2009).
 
-**Logical reasoning requires consciousness**: DeWall et al. (2008) and De Neys & Glumicic (2008) demonstrate that cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Explicit rule-following requires conscious manipulation of representations.
+**Logical reasoning requires consciousness**: DeWall et al. (2008) found that a cognitive load preoccupying conscious processing substantially impaired logical reasoning, while hampering the unconscious system left reasoning intact. Detection, though, is not the bottleneck: De Neys and Glumicic (2008) showed that reasoners register the conflict between a heuristic answer and the base rates implicitly—longer latencies, more reviewing, better recall—even when they never verbalise it and still answer wrongly. Noticing runs without conscious access; overriding does not. Explicit rule-following requires conscious manipulation of representations.
 
 ## How Consciousness Amplifies
 
@@ -86,7 +86,7 @@ The [[working-memory#The Maintenance/Manipulation Distinction|maintenance/manipu
 
 ### Metacognitive Monitoring
 
-[[metacognition|Metacognition]] enables self-correction—noticing when reasoning goes wrong, recognising uncertainty, adjusting strategies. This monitoring requires conscious access: you cannot metacognitively evaluate processes you're unaware of. Meditators with thousands of hours of practice show dramatically better introspective accuracy than novices (Fox et al. 2012), suggesting conscious attention to conscious states genuinely improves metacognitive capacity.
+[[metacognition|Metacognition]] enables self-correction—noticing when reasoning goes wrong, recognising uncertainty, adjusting strategies. This monitoring requires conscious access: you cannot metacognitively evaluate processes you're unaware of. Expert meditators show significantly better introspective accuracy than novices, and hours of practice predict individual accuracy (Fox et al. 2012). That study is cross-sectional rather than a training experiment, so it cannot on its own separate practice effects from self-selection; what it establishes is that sustained attention to conscious states tracks metacognitive accuracy, which is the direction the amplification hypothesis predicts.
 
 ### Counterfactual Thinking
 
@@ -104,9 +104,9 @@ The epiphenomenalist response—that neural systems causing both consciousness a
 
 [[illusionism|Illusionists]] might respond that conscious amplification is really unconscious processing generating the *illusion* of conscious contribution. This faces several difficulties:
 
-**The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (DeWall et al. 2008; De Neys & Glumicic 2008). If reasoning were really unconscious, the pattern should reverse.
+**The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (DeWall et al. 2008). If reasoning were really unconscious, the pattern should reverse. That conflict *detection* runs implicitly (De Neys & Glumicic 2008) does not rescue the illusionist: what fails without conscious engagement is the override, and the override is where the reasoning happens.
 
-**The training problem**: If conscious amplification is illusory, metacognitive training shouldn't work. But contemplative traditions demonstrate that sustained attention to conscious states improves cognitive performance.
+**The training problem**: If conscious amplification is illusory, deliberate attention to conscious states should not track metacognitive skill at all. The contemplative evidence is correlational rather than experimental, but the direction it points is the one illusionism has to explain away.
 
 **The baseline pattern**: The systematic correspondence between consciousness-requiring tasks and the human-ape gap needs independent explanation if consciousness is causally inert.
 
@@ -198,6 +198,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Baars, B.J., & Franklin, S. (2003). How conscious experience and working memory interact. *Trends in Cognitive Sciences*, 7(4), 166-172.
 1. Beck, F. & Eccles, J.C. (1992). Quantum aspects of brain activity and the role of consciousness. *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. De Neys, W., & Glumicic, T. (2008). Conflict monitoring in dual process theories of thinking. *Cognition*, 106(3), 1248-1299.
 1. Dehaene, S. (2014). *Consciousness and the Brain*. Viking Press.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
@@ -214,6 +215,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Stapp, H.P. (2009). *Mind, Matter, and Quantum Mechanics* (3rd ed.). Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415. https://doi.org/10.1098/rstb.2009.0052
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M., Kruger, A.C., & Ratner, H.H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-552.
 1. Walker, E.H. (2000). *The Physics of Consciousness: The Quantum Mind and the Meaning of Life*. Perseus.
