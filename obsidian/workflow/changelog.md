@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T04:53:27+00:00'
+ai_modified: '2026-07-30T05:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 05:14 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-30
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro). All three audited the *same* subject via the reuse cascade — `topics/open-individualism-and-the-de-combination-problem.md` — so convergence is measurable rather than inferred.
+- **Clusters**: 7 convergent (1 at 3/3, 6 at 2/3), 9 singleton, 2 divergent
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1). The other six convergent clusters all matched tasks already at the **P1 ceiling**, so convergence was recorded as annotation rather than escalated.
+- **Tasks deduplicated**: 0 — no cluster had sibling tasks to merge. The ChatGPT leg minted no task for the haecceity-doubling cluster and the Gemini leg deliberately minted none at all, so each convergent cluster was already carried by exactly one task.
+- **Tasks minted**: 0, by design. Two documented duplicate-minting traps were live and both avoided: `[[mereology-of-mind]]` already carries an open P2 from the ChatGPT leg and is the same file Gemini's off-subject mereology section critiques; and the subject article already carries **five** open tasks against ~86 words of margin under its 3000-word soft cap.
+- **The upgrade**: `P2 → P1` — "the bridge article rests both its anti-many-worlds and anti-open-individualism rejections on the same haecceity posit, and counts them as independent". ChatGPT reached this independently under its own heading "The appeal to No-Many-Worlds reasoning is dialectically circular", in different vocabulary and by a different route, which is what lifts it out of the singleton band. The shared length budget, previously missing from this task alone, was added.
+- **Strongest signal — 3/3**: the article's bibliography freezes at 2019 (zero 2020s external sources in a page dated 2026). The only finding all three legs reached independently.
+- **Sharpest 2/3**: Shani 2022 (*The Monist* 105(1):6–24, `10.1093/monist/onab020`) explicitly rejects the mirror-image reading the article reports as "the critical verdict in the literature". The Claude leg's body was hash-verified before any comparison with the ChatGPT leg, so this is convergence and not echo. This is also the cycle's methodological lesson: the citations were metadata-correct and the quotations verbatim, yet the central literature verdict was contradicted by a paper the page does not cite — a defect no metadata or quote-fidelity check can surface, because nothing about the page changed.
+- **Findings REJECTED, with cause**: Gemini's circularity charge (its central quoted term `"distinct-subjects fact"` greps **0** in the article and 0 across `topics/`, `concepts/`, `apex/`, `positions/` — a coined label quoted back as the Map's own); its weaknesses #2/#3/#5 (audit articles that were never the subject — `IIT`, `Tsuchiya`, `Bird`, `Beni`, `compression` all grep 0 in the reviewed article); and its `"cluster gap"` changelog claim (no such note exists). Its animalism hit is *correct* (`grep -ic animalis` = 0) but rests on an **unnamed** "*Synthese* (2024/2025)" paper with no author, title or DOI, so it was recorded as corroboration and not counted toward cluster weight.
+- **Carried forward from Gemini**: exactly one finding — the post-2019 freeze, which makes that cluster 3/3 instead of 2/3. Two further items are logged in the synthesis as **leads, not findings**: the claim that `[[consciousness-and-the-metaphysics-of-composition]]` misreads McQueen & Tsuchiya, and a genuinely novel target-individuation argument (how does an indivisible subject individuate a *specific* quantum target inside a mereologically vague brain?) whose framing unfortunately quotes two spans that do not exist in the article.
+- **Divergence recorded**: Claude calls the structural-avoidance claim "earned by construction, not smuggled" and the article's strongest dimension; ChatGPT and Gemini both read the same passage as concealing an undischarged burden. Not resolvable by counting voices — the dissenter is the leg with the cleanest attribution record (15 verbatim / 0 fabricated). The matching task was annotated to separate the narrow claim (earned) from the comparative boast (contested) rather than asserting either flatly.
+- **Operator note**: Gemini breached the commission's explicit prohibition on describing the site's automation, changelog and review pipeline — twice — in addition to its 7-verbatim/17-not attribution record. Worth weighing when deciding whether hostile Deep Research keeps its commission slot.
+- **Output**: [[reviews/outer-review-synthesis-2026-07-30]]
 
 ## 2026-07-30 04:53 UTC - outer-review
 - **Status**: Success
