@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-21 18:48:23+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-07-30 03:26:19+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /concepts/acquaintance-knowledge/
@@ -25,7 +25,7 @@ description: Phenomenal acquaintance—the direct, non-inferential relation betw
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 00:05:00+00:00
+last_deep_review: 2026-07-30 03:26:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ Russell's 1910 paper "Knowledge by Acquaintance and Knowledge by Description" dr
 
 **Knowledge by acquaintance** is direct presentation. You are acquainted with your current visual field, with warmth on your skin, with the taste in your mouth. The object is simply *there* for you—no inference, description, or concept intervenes.
 
-**Knowledge by description** operates through propositions. You know that Paris is the capital of France, that water is H₂O, that pain involves C-fibre activation. Descriptive knowledge is third-personal, communicable, and inherently general—it characterises things as falling under types.
+**Knowledge by description** operates through propositions. You know that Paris is the capital of France, that water is H₂O, that pain involves C-fibre activation. Russell's descriptive case is knowing an object as "the so-and-so"—as the unique satisfier of some property—which is how he thought we reach particulars we never encounter: Bismarck, or the man in the iron mask. Descriptive knowledge is communicable and mediated, reaching its object through properties the object satisfies rather than by presenting the object itself.
 
 Russell treated acquaintance as [epistemically](/concepts/epistemology/) foundational: we could not possess concepts like RED without having been acquainted with instances of redness. Descriptions point beyond themselves to what is encountered directly. The Map develops a metaphysical descendant of Russell's epistemological split—the [constitutive vs referring observation](/concepts/constitutive-vs-referring-observation/) distinction, which carries the dialectical work against introspection-scepticism that Russell's distinction alone cannot.
 
@@ -62,7 +62,7 @@ Contemporary philosophy distinguishes three categories of knowledge, clarifying 
 
 **Ability knowledge (knowing-how)** consists of practical capacities—balancing on a bicycle, playing a chord. David Lewis and Laurence Nemirow proposed that what Mary gains upon seeing red is ability knowledge: the capacity to recognise, imagine, and remember red experiences, with no new facts learned.
 
-**Acquaintance knowledge** is neither. It is direct experiential familiarity with a phenomenal quality. As Earl Conee argues, acquaintance involves being consciously presented with a quality in a way that reveals its character—the redness of red is not a proposition about redness, nor an ability to recognise it, but the phenomenal encounter itself.
+**Acquaintance knowledge** is neither. It is direct experiential familiarity with a phenomenal quality. As Earl Conee argues, acquaintance involves being consciously presented with a quality in a way that reveals its character—the redness of red is not a proposition about redness, nor an ability to recognise it, but the phenomenal encounter itself. Conee is no ally of dualism, and that matters for how much weight the third category can bear: he presses the distinction *in defence of* physicalism, reasoning that if what Mary gains is non-propositional acquaintance rather than a new truth, then she learns no new fact and physicalism survives. The category is common ground; what the Map contests is the further claim that what acquaintance presents is physical.
 
 The three coexist: someone seeing red for the first time gains all of them. The philosophical question is whether acquaintance knowledge is genuinely distinct or reducible to the other two.
 
@@ -183,5 +183,5 @@ Representationalists raise a different challenge. If introspection is *transpare
 1. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
 1. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
-1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Chalmers, D. J. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
 1. Gertler, B. (2012). "Renewed Acquaintance." In D. Smithies & D. Stoljar (Eds.), *Introspection and Consciousness*. Oxford University Press.
