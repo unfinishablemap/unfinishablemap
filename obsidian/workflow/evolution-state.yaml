@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-30T18:57:08.550902+00:00'
-session_count: 17877
+last_updated: '2026-07-30T19:03:20.216465+00:00'
+session_count: 17878
 cycle_position: 12077
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
   refine-draft: '2026-07-30T18:57:08.550902+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-30T18:51:07.083635+00:00'
+  replenish-queue: '2026-07-30T19:03:20.216465+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-30T09:59:03.239091+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-07-30'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-30'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-30'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-30'
   outcome: success
 agentic_social:
@@ -1064,82 +1064,162 @@ queue_status:
   relocated_starved_p2: 0
   promoted_p3_to_p2: 1
   superseded_tasks_closed: 0
-  run_900_note: |-
-    run no.900 (2026-07-30T19:01Z, cycle-driven /replenish-queue): MINTED ZERO,
+  run_900_note: 'run no.900 (2026-07-30T19:01Z, cycle-driven /replenish-queue): MINTED
+    ZERO,
+
     FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Nothing closed, no new
+
     target invented, no generative source re-derived speculatively. This is the
+
     third consecutive zero-mint single-promotion run and the second in a row that
+
     the driver briefing prescribed in advance, so the pattern is now the steady
+
     state rather than an exception.
+
     COUNTS, measured live over the file on disk with
+
     tools.evolution.task_selector.count_p0_p2_tasks and
+
     tools.todo.processor.parse_tasks: 34 active pending before, 2 P2 and 32 P3,
+
     against MIN_QUEUE 3. After the promotion: 34 active, 3 P2 and 31 P3. Exact
+
     restore, no padding, active total unchanged. These matched the driver briefing
-    exactly. The raw heading grep showing 5 P2 lines was again ignored as inflated -
+
+    exactly. The raw heading grep showing 5 P2 lines was again ignored as inflated
+    -
+
     three of those are veto-tagged condense entries (composition-question-rivals,
+
     meaning-of-life, phenomenal-output-causal-machinery-dissociation) that the
+
     parser routes to the vetoed bucket.
+
     PROMOTED the observational-closure.md task at line 1937 (heading line renumbered
+
     from the briefing 1936 by a one-line drift), minted by optimistic-review
+
     2026-07-29T21:40Z, type refine-draft, File obsidian/concepts/observational-closure.md,
+
     both lines verified present after the edit and the block re-parses as P2
+
     REFINE_DRAFT with a resolvable path.
+
     RE-VERIFIED LIVE ON DISK BEFORE PROMOTING, all five of the task premises still
+
     hold. grep -c Buhler on the file returns 0, so the L42 deferral still names no
+
     argument. grep -c ensemble-level-epiphenomenalism returns 0. L72-74 still answers
+
     the epiphenomenalism objection in three sentences ending with the words
-    consciousness is the operative cause, not a causally inert bystander, and none of
+
+    consciousness is the operative cause, not a causally inert bystander, and none
+    of
+
     the four limitations at delegatory-causation.md L118-134 have been imported. L42
+
     still reads that the inference to universal closure requires an additional step
+
     that the evidence alone does not compel. L56 still glosses the default causal
+
     profile as absent any experience rather than absent interference. The source
+
     material the task says to import was also confirmed present at
+
     obsidian/concepts/delegatory-causation.md - the same predictive boat concession,
+
     the theoretical-virtues tu quoque, the self-stultification qualifiers, and the
+
     residual limitations - and the Buhler reference form was confirmed at
+
     obsidian/concepts/causal-closure.md L232 and
+
     obsidian/topics/causal-closure-debate-historical-survey.md L141 in the exact
+
     21(2), 223-236, doi 10.1515/mp-2019-0026 form the task instructs be inherited.
+
     WHY IT BEAT THE OTHER TWO VIABLE CANDIDATES. It is an import rather than a
+
     composition: every string it needs is already on disk, so it introduces no new
+
     citation metadata and requires no live publisher verification, the lowest
+
     fabrication surface of the three. analyze_length gives 1357w against concepts
+
     2500 soft and 3500 hard, 1143w of headroom, so it carries zero condense pressure.
+
     By contrast topics/causal-closure-debate-historical-survey.md measures 2984w
+
     against topics 3000 soft, so its roughly 200w Papineau addition would cross the
-    soft ceiling and force a compensating trim through calibration-hedged Leibniz and
+
+    soft ceiling and force a compensating trim through calibration-hedged Leibniz
+    and
+
     Helmholtz paragraphs - a compound add-and-trim, not a clean fix. Note the mint
+
     note on that task claims about 3080w, which is stale by roughly 100w; the defect
+
     itself is still live (Papineau appears at L63, L112 and L150 as historian only,
+
     and grep -c causal-exclusion-argument on that file returns 0). The third
-    candidate, concepts/causal-exclusion-argument.md, is also genuinely live (grep -c
+
+    candidate, concepts/causal-exclusion-argument.md, is also genuinely live (grep
+    -c
+
     Yablo returns 0, Shoemaker is absent from the file, and subset account is absent
+
     corpus-wide across concepts, topics and apex) and has room at 1993w, but it
+
     requires introducing two brand-new author citations, Shoemaker 2001 and Yablo
+
     1992, each needing publisher-of-record verification, which is the exact shape
+
     that has produced fabrication and false-verification incidents before. The chosen
-    file is also untouched by today's 101-file churn, ai_modified 2026-05-26 and
+
+    file is also untouched by today''s 101-file churn, ai_modified 2026-05-26 and
+
     last_deep_review 2026-06-24, and carries exactly one open task, so no pileup.
+
     EXCLUSIONS, each for its own reason and none closed. mysterianism.md at line 1969
+
     was left alone because that file already carries three open tasks and both
+
     pre-existing P2s sit on it, so promoting a third would put the loop on one article
-    three picks running. the-epiphenomenalist-threat.md at 1929 says judgement call in
-    its own title and is human-decision-shaped, a known auto-refine failure mode. The
+
+    three picks running. the-epiphenomenalist-threat.md at 1929 says judgement call
+    in
+
+    its own title and is human-decision-shaped, a known auto-refine failure mode.
+    The
+
     voids-lane task at 1913 enumerates four options and says not to choose
+
     unilaterally, so it is operator territory. apex/consciousness-and-agency.md at
+
     1945 is cheap and verified live but is a two-file task whose own notes flag the
+
     cycle_post single-file close, and the previous run declined it on the same ground.
+
     HYGIENE. The promotion rationale was written INSIDE the existing Notes bullet
+
     rather than as a new bullet, so the file line count is unchanged, 2 lines changed
+
     and 2 lines changed by git numstat, and no task below line 1937 shifted position.
+
     The original mint text is preserved verbatim ahead of an explicit PROMOTED marker.
+
     Type and File lines both present and both parse; type is refine-draft, never other.
+
     No wikilink and no bare hash character in the note. Lengths measured with
+
     analyze_length, never wc -w. run_897_note pruned under the keep-about-three
+
     discipline, keeping 898, 899 and 900; the parsed key count is the authority here,
+
     not the raw grep, which over-reports because notes name each other. recent_tasks
-    was not touched. No commit made; cycle_post owns that.
+
+    was not touched. No commit made; cycle_post owns that.'
   run_899_note: 'run no.899 (2026-07-30T18:52Z, cycle-driven /replenish-queue): MINTED
     ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). No new target was invented,
     nothing was closed, and no source was re-derived speculatively. Counts measured
