@@ -309,9 +309,9 @@
   commissioned_at: '2026-07-30T03:11:12.777464+00:00'
   prompt_summary: Audit open-individualism-and-the-de-combination-problem
   target_filename: outer-review-2026-07-30-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-30T04:30:21.667678+00:00'
   failure_reason: null
   prompt_text: 'You are an external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site defending an interactionist,
