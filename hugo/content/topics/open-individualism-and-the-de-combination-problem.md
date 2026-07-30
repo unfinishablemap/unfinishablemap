@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-19
-ai_modified: 2026-07-30 07:13:38+00:00
+ai_modified: 2026-07-30 08:41:41+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -75,11 +75,11 @@ The de-combination problem belongs to a different metaphysics: **[cosmopsychism]
 
 The de-combination problem is the charge that cosmopsychism has not escaped the difficulty but merely inverted it. Gregory Miller gave the canonical statement in "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem" (2018). Miller argues that the de-combination problem facing the cosmopsychist "is equivalent to the combination problem"—both are concerned with whether subjects can stand in proper-parthood relations to other subjects. The cosmopsychist must explain how the one cosmic subject can have the many "little" subjects as proper parts; the panpsychist must explain how the many micro-subjects can be proper parts of one macro-subject. These are the same puzzle approached from opposite ends. Miller suggests that two responses are open to *both* theorists symmetrically: a distinction between absolute and relative phenomenal unity, and a modification of the essential nature of subjects. The symmetry is the point—whatever helps the cosmopsychist helps the panpsychist equally, so the cosmopsychist's supposed advantage evaporates.
 
-David Chalmers had already registered the parallel. In "The Combination Problem for Panpsychism" (2017) he names the cosmopsychist's analogue the *decomposition problem* and judges it "just as hard as the combination problem." The *Stanford Encyclopedia of Philosophy* frames it as the *derivation problem* and states the conceivability mirror crisply: just as we can conceive of micro-level subjects existing in the absence of macro-level subjects, so it seems we can conceive of a conscious universe existing without having conscious parts—without anything within the universe being conscious. That conceivability gap is the de-combination analogue of Goff's micro-experiential zombie: if a conscious cosmos without conscious parts is conceivable, the cosmic facts do not necessitate the existence of the little subjects, and the grounding the cosmopsychist needs has not been secured.
+David Chalmers had already registered the parallel. In "The Combination Problem for Panpsychism" (2017) he names the cosmopsychist's analogue the *decomposition problem* and judges it "just as hard as the combination problem." The *Stanford Encyclopedia of Philosophy*, crediting Albahari, calls it *decombination* and states the conceivability mirror crisply: just as we can conceive of micro-level subjects existing in the absence of macro-level subjects, so it seems we can conceive of a conscious universe existing without having conscious parts—without anything within the universe being conscious. That conceivability gap is the de-combination analogue of Goff's micro-experiential zombie: if a conscious cosmos without conscious parts is conceivable, the cosmic facts do not necessitate the existence of the little subjects, and the grounding the cosmopsychist needs has not been secured.
 
 ### The Cosmopsychist Replies
 
-Cosmopsychists do not concede the equivalence. The SEP records the consensus position among them: cosmopsychism *eases* the problem in various respects even if it does not entirely avoid it. Several distinct strategies have been developed:
+Cosmopsychists do not concede the equivalence. The SEP reports what they have argued: cosmopsychism *eases* the problem in various respects even if it does not entirely avoid it. Several distinct strategies have been developed:
 
 - **Grounding by subsumption (Philip Goff, 2017).** Goff argues that the cosmic subject grounds the little subjects by *subsuming* them—the cosmic perspective contains the local perspectives as aspects rather than building them from independent parts. The relation is asymmetric grounding, not mereological summing.
 - **Priority cosmopsychism (Yujin Nagasawa & Khai Wager, 2016).** On this framing, the cosmos is *prior* to its parts in the order of being—the whole is fundamental and the parts derivative—so the relation need not be literal parthood at all. Miller (2021) replies that de-combination is not the heterogeneity problem facing Jonathan Schaffer's priority monism, so the solutions available there do not transfer; Wager (2025) defends the position at book length.

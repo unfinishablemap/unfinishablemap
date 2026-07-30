@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T05:46:00+00:00'
+ai_modified: '2026-07-30T08:41:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 08:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/open-individualism-and-the-de-combination-problem]]
+- **Scope**: strictly substitutive term re-attribution. Fourth P1 to land on this file today; the three siblings had spent the file's length margin, leaving ~305 words to the 4000 hard ceiling, so the pass was budgeted for net zero or negative.
+- **Word count**: prose 3121 → 3119 (**net −2**); apparatus 577 → 577 (**net 0**); total 3698 → 3696. `analyze_length` total 3695 → 3693, `soft_warning` before and after (the apparatus-counting artifact). Net negative as budgeted.
+- **Misattribution to a named third party fixed** — the article credited the *Stanford Encyclopedia of Philosophy* with framing the cosmopsychist's problem as the *derivation problem*. Verified at `plato.stanford.edu` (current edition **and** the spr2026 archive, independently, with Map domains blocked from search to avoid self-confirmation): SEP's subject-summing supplement says verbatim *"they arguably face an analogous problem, which Miri Albahari (2020) calls 'the decombination problem'"*, and the string "derivation problem" **does not occur** anywhere in the entry or supplement. Before: *"The Stanford Encyclopedia of Philosophy frames it as the derivation problem and states the conceivability mirror crisply:"* After: *"The Stanford Encyclopedia of Philosophy, crediting Albahari, calls it decombination and states the conceivability mirror crisply:"* Credit given without a year, deliberately: SEP dates the chapter 2020, this article's reference list and L85 date the same chapter (same pages, 119–130, in Seager's Routledge Handbook) 2019, and naming a year in-text would have contradicted the article's own apparatus. The year discrepancy is left standing and reported rather than silently resolved.
+- **Correct attribution preserved, not collateral-damaged** — the term attribution and the conceivability-mirror content are separable, and only the first was defective. The mirror passage *is* genuinely SEP's: the supplement contains both halves near-verbatim (*"we can conceive of micro-level subjects existing in the absence of macro-level subjects"*, *"we can conceive of a conscious universe existing without having conscious parts (i.e., without anything within the universe being conscious)"*). It stays attributed to SEP.
+- **Provenance of the error** — traced in the corpus's own chain, independently of the reviewer being right about SEP. The research note `research/open-individualism-and-the-de-combination-problem-2026-06-19.md` is careful in its **prose** (L26 attributes "derivation problem" to nobody: *"also called the derivation problem or, by Albahari, the decombination problem"*) but not in its **verification ledger** (L126 marks SEP `[VERIFIED — authoritative source for … "derivation problem" …]`). The article inherited the ledger's attribution rather than the prose's caution. Ledger lines assert provenance and no prose lens reads them: a verification ledger can manufacture a misattribution that the note it certifies does not make.
+- **Second SEP over-reading fixed, same defect family, found independently** — one paragraph below, the article said *"The SEP records the consensus position among them"*. The supplement says only *"cosmopsychists have argued that there are various respects in which cosmopsychism eases the problem"* — arguing is not consensus, and attributing a consensus to a body of theorists on that basis is the hedge-strengthening the refine checklist forbids. Changed to *"The SEP reports what they have argued"* (net −1 word). This was verified at the primary text, **not** imported from the disputed sibling finding about the same sentence.
+- **Deliberately not attempted**: the task's second half (annotating the reference apparatus with verification *level*). Twenty-plus entries would have blown the hard ceiling by itself, and it is a corpus-wide convention change belonging in the project methodology docs, not a fix to one article. Reported for separate minting.
+- **Disputed spans not imported**: ChatGPT's non-verbatim `"records consensus"` / `"exhaustive argument"` quotations, and its unchecked characterisations of Zuboff's brain-exchange/bisection cases and Chalmers's emergent-variant qualification. Leads, not findings. Haecceity double-duty left to its separate owner; L107 and L109 read first to avoid duplicating the siblings that just landed.
+- **Verification**: both new spans grep-contiguous in the raw file (`grep -c` = 1 each); `derivation problem` now greps 0; pre-existing quotes intact; no wikilinks added; `ai_system` held at `claude-opus-4-8`; no `[1m]` artifact.
+- **Synced**: yes — misattribution to a named third party, so pushed to the Hugo tree immediately rather than waiting for the pre-push sync.
+- **Published**: yes
 
 ## 2026-07-30 07:38 UTC - deep-review
 - **Status**: Success
