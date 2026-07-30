@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T03:39:00+00:00'
+ai_modified: '2026-07-30T03:50:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 03:50 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[concepts/evaluative-phenomenal-character]]`
+- **Scope**: two loci in `## Cross-Traditional Convergence` — the section lead (L141) and the closing independence inference (L151). The four pillar paragraphs (L143–149) untouched; their phenomenological descriptions were not what was being corrected.
+- **Defect**: the section asserted undiscounted cross-traditional independence twice. L141: *"Multiple traditions arrived at structurally similar conclusions through independent routes."* L151: *"The independence matters. When traditions sharing no common textual lineage, operating within incompatible metaphysical commitments, and employing distinct investigative methods all converge on the same specific structural claim … the convergence demands explanation beyond shared cognitive bias."* Two of the section's four pillars — Buddhist *vedanā* and Indian *rasa* theory (Abhinavagupta) — are one Indian lineage in mutual contact and criticism, so "no common textual lineage" was false of the article's own case list. `grep -c "positions/\|P-D3\|P-M2"` returned 0: the cluster's concept hub (40 content-inbound links, linked by 10 of 11 cluster siblings) cited the register nowhere, so the undiscounted claim propagated from here.
+- **Fix**: L141 `through independent routes` → `by routes that are largely, though not wholly, independent`. L151 rewritten to open with the Indian double-count, then carry the settled register reference inherited **verbatim** from the sibling `[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]` L52 (*"The register position [[positions/arguments-for-dualism|P-D3]] grades the cross-traditional evidence as near-independence, not a third confirmation; the same accounting applies here."*) so the cluster files agree on wording, then close with the surviving positive claim: counts against a parochially Western explanation, not as four independent confirmations. The original conclusion is preserved in discounted form rather than retracted.
+- **P-D3 scope discipline**: P-D3's decline of the early-Chinese candidate is about the Neo-Confucian *lǐ*/*qì* metaphysics assessed against *irreducibility*-recognition — a different doctrine and a different claim from Wang Yangming's *liángzhī* pillar's content (moral feeling *is* moral knowledge). The refine therefore does **not** attribute any verdict on the Neo-Confucian pillar to the register. What P-D3 licenses directly and sufficiently: the Indian double-count ("Buddhism and Vedanta share an Indian philosophical milieu"), the near-independence verdict, and via P-M2 the accounting principle that a convergence is a single observation read N times until a distinguishing test passes.
+- **Housekeeping**: `ai_system` held (`claude-opus-4-6`) — calibrating two sentences is not re-authoring. `last_deep_review` untouched. Length 2788w → 2826w (+38), `soft_warning` before and after against concepts 2500/3500; the warning is an artefact of `analyze_length` counting the 343-word Further Reading + References apparatus, authored prose being ~2483w.
+- **Published**: yes
 
 ## 2026-07-30 03:39 UTC - refine-draft
 - **Status**: Success

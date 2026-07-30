@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-06-21
 human_modified:
-ai_modified: 2026-06-22T10:34:36+00:00
+ai_modified: 2026-07-30T03:50:46+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -138,7 +138,7 @@ The [[normative-void]] extends this: if ethical perception varies within humanit
 
 ## Cross-Traditional Convergence
 
-The recognition that experience carries intrinsic evaluative character is not a recent Western discovery. Multiple traditions arrived at structurally similar conclusions through independent routes.
+The recognition that experience carries intrinsic evaluative character is not a recent Western discovery. Multiple traditions arrived at structurally similar conclusions by routes that are largely, though not wholly, independent.
 
 **Buddhist vedanā.** The Pāli canon identifies feeling tone as one of the five aggregates constituting experience, operating prior to both emotion and judgment (Gethin 1998). Buddhist phenomenology treats evaluative character as a basic stratum of experience, not a higher-order addition.
 
@@ -148,7 +148,7 @@ The recognition that experience carries intrinsic evaluative character is not a 
 
 **Islamic philosophy.** Mulla Sadra's "knowledge by presence" holds that evaluative qualia are not representations *of* value but participations *in* value.
 
-The independence matters. When traditions sharing no common textual lineage, operating within incompatible metaphysical commitments, and employing distinct investigative methods all converge on the same specific structural claim—that evaluative character is basic, not derived—the convergence demands explanation beyond shared cognitive bias. For detailed treatment, see [[evaluative-qualia-phenomenal-normativity-across-traditions]].
+Two of the four cases are one lineage: *vedanā* analysis and *rasa* theory both develop inside the Indian philosophical world, in mutual contact and criticism, and traditions that argue with each other count once. The register position [[positions/arguments-for-dualism|P-D3]] grades the cross-traditional evidence as *near-independence, not a third confirmation*; the same accounting applies here. What survives counts against a parochially Western explanation of evaluative character, not as four independent confirmations that it is basic. For detailed treatment, see [[evaluative-qualia-phenomenal-normativity-across-traditions]].
 
 ## Contemplative Evidence
 
