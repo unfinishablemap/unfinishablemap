@@ -4,7 +4,7 @@ description: "The Map's positions on free will and agency: the agent-causal libe
 created: 2026-06-08
 modified: 2026-06-08
 human_modified: 2026-06-08
-ai_modified: 2026-07-28T20:56:43+00:00
+ai_modified: 2026-07-30T14:25:27+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -94,7 +94,7 @@ These positions cover what the Map holds about agency: whether choices are genui
 
 - **Status**: live
 - **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade n/a (normative — a discipline against over-claiming) · structural centrality low · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
-- **Asserts**: The Map holds, as a discipline against over-claiming, that its libertarian framing does *not* do unique explanatory work over sophisticated reasons-responsive compatibilism (Frankfurt, Fischer & Ravizza, Wolf) at the level of moral practice: the same deliberative phenomenology, praise/blame practices, and character-formation arc are plausibly securable on a compatibilist scaffold. What distinguishes the libertarian reading is its coherence with the Map's other tenets — adopted on grounds beyond moral theory — together with a narrow residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," and the metaphysics of genuine alternatives. This is the [[compatibilist-symmetry-challenge]], registered explicitly so the moral case is not overstated.
+- **Asserts**: The Map holds, as a discipline against over-claiming, that its libertarian framing does *not* do unique explanatory work over sophisticated compatibilism (Frankfurt, Fischer & Ravizza, Wolf) at the level of moral practice: the same deliberative phenomenology, praise/blame practices, and character-formation arc are plausibly securable on a compatibilist scaffold. What distinguishes the libertarian reading is its coherence with the Map's other tenets — adopted on grounds beyond moral theory — together with a narrow residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," and the metaphysics of genuine alternatives. This is the [[compatibilist-symmetry-challenge]], registered explicitly so the moral case is not overstated.
 - **Depends on**: P-A1; the [[compatibilist-symmetry-challenge]]; [[project/evidential-status-discipline]]
 - **Argued in**: [[concepts/compatibilist-symmetry-challenge]], [[topics/free-will]], [[topics/moral-implications-of-genuine-agency]]
 - **Would shift if**: libertarian agency were shown to secure a moral phenomenon compatibilism demonstrably cannot (collapsing the symmetry); or the named residue (ultimate desert, genuine alternatives) were shown to be illusory or compatibilist-recoverable.
