@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-11T13:35:00+00:00
+ai_modified: 2026-07-30T17:03:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-07-07T11:07:22+00:00
+last_deep_review: 2026-07-30T17:03:11+00:00
 embedded_videos:
   - id: Qj-SX6HmanM
     url: https://www.youtube-nocookie.com/embed/Qj-SX6HmanM
@@ -99,13 +99,13 @@ The starting point is phenomenological: introspection reveals what seems like ir
 
 4. **The past-self argument**: The [[inaccessible-past]] reveals that we cannot access past conscious states, only reconstruct them from traces. If experience were merely information, memory could preserve it completely; that it cannot suggests experience involves the haecceity of *undergoing* rather than *representing*.
 
-**The error theory worry**: Could the sense of haecceity be a cognitive illusion? If so, what is having that illusion? This is the "seeming requires a subject" regress, engaged in full in [[#the-illusionist-challenge|The Illusionist Challenge]] below. The point relevant here is narrower: the error-theorist still owes an account of what undergoes the illusion, and the Map's wager is that the stable terminus carries the very particularity the illusion was supposed to manufacture.
+**The error theory worry**: Could the sense of haecceity be a cognitive illusion? If so, what is having that illusion? This "seeming requires a subject" regress is engaged in full in [[#the-illusionist-challenge|The Illusionist Challenge]] below; the point relevant here is that the error-theorist still owes an account of what undergoes the illusion.
 
 This doesn't prove haecceity with certainty, but it shifts the burden: anti-haecceitists must explain why the phenomenological evidence misleads, not merely assert that it does.
 
 Crucially, haecceity does not require a permanent soul-substance. The Map's concept of [[eastern-philosophy-consciousness|process haecceitism]]—drawing on Whitehead's process philosophy and Buddhist impermanence—holds that particularity can apply to experiential *streams*: *this* series of conscious moments is distinct from *that* series, without a permanent substrate underlying either. This is the Map's own construction, not a Buddhist position; Buddhism generally resists claims of irreducible personal particularity (see [[buddhism-and-dualism]]). A Nagarjunian will object that individuating a *stream* as *this* rather than *that* smuggles back the very *svabhava*—inherent, self-standing existence—the no-substance move was meant to avoid, relocating the reification without dissolving it. The Map does not claim to defeat this on Madhyamaka's own terms; it holds that minimal indexical particularity of a stream is a more modest commitment than substantial selfhood, and that the alternative—no fact at all about which stream is undergone—is the indexical eliminativism the tenets reject. Whether that particularity is genuinely free of *svabhava* or merely a thinner version is left as an honest open boundary.
 
-This connects to quantum selection: if consciousness influences which quantum outcomes occur, *which* consciousness selects matters, and a teletransporter replica wouldn't be the consciousness that was making selections. The [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets reinforce this—if consciousness is a distinct ontological category that causally influences physical outcomes, personal identity may include the persistence of *this* conscious perspective and its unique causal history, not just bodily or functional continuity. (These connections, and the caveat that consciousness-selection is empirically indistinguishable from random collapse, are developed in [[#relation-to-site-perspective|Relation to Site Perspective]] below.)
+This connects to quantum selection: if consciousness influences which quantum outcomes occur, *which* consciousness selects matters, and a teletransporter replica wouldn't be the consciousness that was making selections. The [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] connections, and the caveat that consciousness-selection is empirically indistinguishable from random collapse, are developed in [[#relation-to-site-perspective|Relation to Site Perspective]] below.
 
 ## What Personal Identity Requires
 
@@ -129,7 +129,7 @@ A critic will press an apparent inconsistency. The [[#the-no-many-worlds-connect
 
 [[split-brain-consciousness|Split-brain patients]] provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, "too much separation" to count straightforwardly as one.
 
-This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists suggests consciousness has intrinsic unity physical disconnection cannot fully sever. A 2025 PNAS study sharpens the point: as little as a centimetre of intact callosal fibres can maintain full neural synchronisation between hemispheres (Santander et al. 2025). Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding physical connections enable.
+If consciousness were merely brain processes, complete disconnection should produce complete division. A 2025 PNAS study constrains how far that reading can be pressed: a centimetre of spared posterior callosal fibre sustains full interhemispheric integration, while complete section does disrupt network organisation (Santander et al. 2025). Residual integration is thus physically explicable, so the argument cannot rest on connectivity measures. What survives is narrower: despite perceptual fragmentation, patients report a single first-person perspective—suggesting indexical identity is a different thing from the computational binding physical connections enable.
 
 ### The Dreamless Sleep Challenge
 
@@ -231,6 +231,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
 1. Nagel, T. (1971). "Brain Bisection and the Unity of Consciousness." *Synthese*, 22(3-4), 396-413.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). "The nature of consciousness in anaesthesia." *BJA Open*, 8, 100224. doi:10.1016/j.bjao.2023.100224.
 1. Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 
