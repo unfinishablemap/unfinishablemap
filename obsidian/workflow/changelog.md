@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T02:33:27+00:00'
+ai_modified: '2026-07-30T02:38:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 02:37 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[topics/anaesthesia-and-the-consciousness-interface]]`
+- **Original score**: n/a (`scripts/curate.py` does not exist in this repo; SKILL.md §3 review command skipped)
+- **Length**: `analyze_length` 3868w / `soft_warning` against topics 3000/4000, but ~907w of that is reference apparatus, so argument prose sits ~2961 against the 4000 ceiling. Net +~95w here. **No condense** — see the `analyze_length counts reference apparatus` hazard.
+- **Third file in the Hu et al. (2023) family sweep**, after `[[concepts/active-reboot]]` (deep-review 02:04) and `[[concepts/cross-mechanism-convergence]]` (refine 02:32). All three defects re-verified verbatim on disk before editing; the Hugo mirror carried them too.
+- **Scope discipline — one defective locus only.** `grep -cin sevoflurane` returned **4** and **three were correct**: the lead's agent list, the Meyer-Overton GABA-A pairing, and the Temporal Binding section's volatile-agent treatment all use sevoflurane as a genuine volatile anaesthetic with nothing to do with Hu's tested roster. A file-wide substitution would have destroyed three sound statements. Only the Active Reboot paragraph was touched; the count is now 3.
+- **Defect (a) — wrong agent roster.** The paragraph named "propofol, isoflurane, **sevoflurane**, ketamine". Hu et al. tested **propofol, pentobarbital, ketamine, isoflurane** (Pro 120, Pen 50, Ket 250, Iso 2%); sevoflurane was never tested. Corrected, with the mechanism partition spelled out inline — GABA-A potentiation at distinct binding sites for the intravenous pair, volatile actions for isoflurane, NMDA antagonism for ketamine.
+- **Defect (a2) — the partition, inherited not composed.** "Pharmacologically dissimilar agents" was left standing as the framing but the arithmetic behind it is now stated: **three mechanism classes across four agents plus one within-class replication, a slightly weaker convergence claim than a four-class reading would make and the one the study supports.** Wording inherited from `[[concepts/cross-mechanism-convergence]]` L59 and `[[concepts/active-reboot]]` L53 rather than newly derived, so the three articles agree. Added a wikilink to `[[cross-mechanism-convergence]]` as the pattern-level treatment.
+- **Defect (b) — misattribution of the Map's own coinage.** *"The authors describe this as an active reboot"* was false: "reboot" appears nowhere in Hu et al.; the word traces to a press-release headline about a different study (Mashour et al. 2021, "Escape from Oblivion: How the Brain Reboots After Deep Anesthesia") — which this same article cites two paragraphs earlier, so the contamination route is visible in the file. Replaced with the authors' actual verbatim characterisation (emergence "once assumed to be a passive process, is now considered as an active and controllable process"; the recovery pathway "is an active process and occurs independent of anesthetic choice") plus an explicit statement that *active reboot* is the Map's name for the mechanism class, not theirs.
+- **Defect (b2) — the term itself is structural and was NOT stripped.** `grep -cin 'active reboot'` returns 4: the section heading, the fixed attribution clause, the production-theory contrast in the Bootstrapping section, and the Bidirectional Interaction tenet paragraph. Only *who is credited with the phrase* was wrong. The other three are the Map's own correct usage and were left untouched — requalifying them would have gutted the section structure for no gain.
+- **Defect (c) — species elision.** The Hu clause was unqualified. "In mice" added at the paragraph's opening mention and "Mouse study; agents tested were propofol, pentobarbital, ketamine, and isoflurane." appended to the reference annotation, mirroring the two sibling files. Note that "mice" at the Stochastic Emergence section and "rodent" in the Recovery lead belong to *other* studies (Stone et al. 2025; the induction-emergence asymmetry literature) — a naive grep wrongly reported this file as already species-qualified.
+- **Redundancy trimmed**: the paragraph's old opener "independent of which anaesthetic was used" now duplicated the inserted verbatim quote, so it was dropped rather than repeated.
+- **Left alone**: `ai_system` held at `claude-opus-4-6+claude-opus-5` — a roster correction, an attribution fix and a species qualifier are not new interpretive prose, and the partition sentence is inherited wording rather than fresh derivation. `last_deep_review` unchanged (2026-07-27); this was a targeted refine, not a review. The Bidirectional Interaction tenet paragraph's generalisation from the mouse finding was considered for a second qualifier and deliberately not touched — the body qualifier it refers back to now carries it.
+- **Published**: yes
 
 ## 2026-07-30 02:32 UTC - refine-draft
 - **Status**: Success
