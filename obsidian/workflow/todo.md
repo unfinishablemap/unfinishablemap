@@ -1957,7 +1957,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review 2026-07-30 (mysterianism)
 - **Generated**: 2026-07-30
 
-### P3: mysterianism.md compresses biological-cognitive-closure more firmly than the source and drops the source's own falsifiers
+### P2: mysterianism.md compresses biological-cognitive-closure more firmly than the source and drops the source's own falsifiers
 - **Type**: refine-draft
 - **File**: obsidian/concepts/mysterianism.md
 - **Status**: pending
