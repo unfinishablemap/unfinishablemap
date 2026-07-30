@@ -1,5 +1,9 @@
-last_updated: '2026-07-30T19:26:50.999152+00:00'
-session_count: 17881
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-07-30T19:31:49.457073+00:00'
+session_count: 17882
 cycle_position: 12080
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-07-30T15:37:00.739712+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-30T19:30:03.970180+00:00'
+  agentic-social: '2026-07-30T19:31:49.457073+00:00'
   embed-videos: '2026-07-30T17:53:38.772966+00:00'
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
@@ -109,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-30'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-07-30'
@@ -187,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-30'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-07-30'
   outcome: success
 agentic_social:
@@ -1046,20 +1050,19 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 31
+  p3_tasks: 30
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-30T19:01:24+00:00'
-  last_replenishment_prev: '2026-07-30T18:52:00+00:00'
-  last_replenishment_run: 900
+  last_replenishment: '2026-07-30T19:36:24+00:00'
+  last_replenishment_prev: '2026-07-30T19:01:24+00:00'
+  last_replenishment_run: 901
   last_replenishment_mode: zero-mint-single-promotion
   replenishment_source_counts:
     promotion_only: 1
   relocated_starved_p2: 0
   promoted_p3_to_p2: 1
   superseded_tasks_closed: 0
-  run_900_note: 'run no.900 (2026-07-30T19:01Z, cycle-driven /replenish-queue): MINTED
-    ZERO,
+  run_900_note: 'run no.900 (2026-07-30T19:01Z, cycle-driven /replenish-queue): MINTED ZERO,
 
     FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Nothing closed, no new
 
@@ -1081,8 +1084,7 @@ queue_status:
 
     restore, no padding, active total unchanged. These matched the driver briefing
 
-    exactly. The raw heading grep showing 5 P2 lines was again ignored as inflated
-    -
+    exactly. The raw heading grep showing 5 P2 lines was again ignored as inflated -
 
     three of those are veto-tagged condense entries (composition-question-rivals,
 
@@ -1108,8 +1110,7 @@ queue_status:
 
     the epiphenomenalism objection in three sentences ending with the words
 
-    consciousness is the operative cause, not a causally inert bystander, and none
-    of
+    consciousness is the operative cause, not a causally inert bystander, and none of
 
     the four limitations at delegatory-causation.md L118-134 have been imported. L42
 
@@ -1147,8 +1148,7 @@ queue_status:
 
     against topics 3000 soft, so its roughly 200w Papineau addition would cross the
 
-    soft ceiling and force a compensating trim through calibration-hedged Leibniz
-    and
+    soft ceiling and force a compensating trim through calibration-hedged Leibniz and
 
     Helmholtz paragraphs - a compound add-and-trim, not a clean fix. Note the mint
 
@@ -1158,8 +1158,7 @@ queue_status:
 
     and grep -c causal-exclusion-argument on that file returns 0). The third
 
-    candidate, concepts/causal-exclusion-argument.md, is also genuinely live (grep
-    -c
+    candidate, concepts/causal-exclusion-argument.md, is also genuinely live (grep -c
 
     Yablo returns 0, Shoemaker is absent from the file, and subset account is absent
 
@@ -1181,11 +1180,9 @@ queue_status:
 
     pre-existing P2s sit on it, so promoting a third would put the loop on one article
 
-    three picks running. the-epiphenomenalist-threat.md at 1929 says judgement call
-    in
+    three picks running. the-epiphenomenalist-threat.md at 1929 says judgement call in
 
-    its own title and is human-decision-shaped, a known auto-refine failure mode.
-    The
+    its own title and is human-decision-shaped, a known auto-refine failure mode. The
 
     voids-lane task at 1913 enumerates four options and says not to choose
 
@@ -1214,76 +1211,115 @@ queue_status:
     not the raw grep, which over-reports because notes name each other. recent_tasks
 
     was not touched. No commit made; cycle_post owns that.'
-  run_899_note: 'run no.899 (2026-07-30T18:52Z, cycle-driven /replenish-queue): MINTED
-    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). No new target was invented,
-    nothing was closed, and no source was re-derived speculatively. Counts measured
-    live with tools.evolution.task_selector.count_p0_p2_tasks and tools.todo.processor.parse_tasks
-    over the file on disk - 34 active pending, 2 P2 and 32 P3 before, 3 P2 and 31
-    P3 after, against MIN_QUEUE 3, an exact restore with no padding. These matched
-    the driver briefing exactly. The raw header grep showing 5 P2 lines was ignored
-    as inflated - three of them are veto-tagged condense tasks that the parser excludes.
+  run_899_note: 'run no.899 (2026-07-30T18:52Z, cycle-driven /replenish-queue): MINTED ZERO,
+    FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). No new target was invented, nothing
+    was closed, and no source was re-derived speculatively. Counts measured live with tools.evolution.task_selector.count_p0_p2_tasks
+    and tools.todo.processor.parse_tasks over the file on disk - 34 active pending, 2 P2 and
+    32 P3 before, 3 P2 and 31 P3 after, against MIN_QUEUE 3, an exact restore with no padding.
+    These matched the driver briefing exactly. The raw header grep showing 5 P2 lines was
+    ignored as inflated - three of them are veto-tagged condense tasks that the parser excludes.
     PROMOTED - the mental-causation-and-downward-causation.md comparison-table calibration
     task at line 1903, generated 2026-07-27 and never picked because replenish top-inserts
     and the selector sorts by priority then line number. Re-verified live before promoting
-    - L149 and L150 still state Exploits genuine incompleteness and Makes empirical
-    predictions un-hedged while L190 still withdraws exactly that, so the internal
-    contradiction is real and not already fixed. The file was touched at 15:21Z today
-    but only by the corpus-wide Tallis de-quote sweep in commit b1adfdf1, which went
-    nowhere near either locus. Chosen over the four other starved-band candidates
-    because it is the only one that is single-file AND the sole open task on its target
-    - the two apex-alias files carry 2 open tasks each, causal-closure-debate-historical-survey
-    carries 3, and every mysterianism candidate would have been a fourth task on one
-    file. It is also length-neutral by substitution with replacement wording already
-    supplied, needs no publisher verification and no composed prose, and being an
-    internal self-contradiction the fix cannot drift outward. Line 1903 places it
-    ahead of the two existing P2s at 1952 and 1960, so promotion in place both restores
-    the floor and rescues the starved task. DECLINED - the apex alias mislabel is
-    cheaper per edit and both loci verified, but it is a two-file task whose own notes
-    flag the cycle_post single-file close and it would deepen a same-file pileup;
-    the Papineau survey task needs about 200 new words plus a matching trim against
-    a near-ceiling article; the Shoemaker and Yablo task needs two new citations verified
-    at publisher; the epiphenomenalist-threat task is a human-shaped judgement call
-    and was deliberately left at P3; the voids-lane task is an operator decision that
-    says not to pick unilaterally. All four defects were nonetheless grep-verified
-    still live, so none was closed. Pruned run_896_note per the keep-about-3 discipline,
-    keeping 897/898/899 (evolution-state-floor-restore-note-bloat); recent_tasks untouched.
-    No commit made; cycle_post owns that.'
-  run_898_note: 'run no.898 (2026-07-30T00:29Z, cycle-driven /replenish-queue): MINTED
-    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). No new target was invented
-    and no task was closed. The driver briefing directed promote-not-mint and the
-    P3 pool was unusually fresh (seven candidates minted within six hours, each verified
-    on disk at mint time), so promotion was the correct lane rather than a fallback.
-    VERIFIED ALL SEVEN CANDIDATES LIVE ON DISK before choosing, because three consecutive
-    tasks earlier in the session carried false premises from grepping the fix vocabulary
-    rather than the target file vocabulary. All seven premises held. PROMOTED the
-    AST-label task on concepts/heterophenomenology.md (two remaining copies of a link
-    label the destination does not earn) because it was the smallest candidate, its
-    replacement wording is inheritable verbatim from two already-fixed files, and
-    it carries no length risk. Strings grepped and found: the label Why Attention
-    Schema Theory Fails is present at concepts/heterophenomenology.md L112 and concepts/global-workspace-theory.md
-    L94 and nowhere else in the corpus; the settled replacement the Map engagement
-    with AST is present at concepts/illusionism.md L79 and concepts/mental-effort.md
-    L126; the destination topics/attention-and-the-consciousness-interface.md has
-    title Attention and the Consciousness Interface, heading Engaging Attention Schema
-    Theory at L94, and at L100 the sentence beginning Neither side closes the case
-    against the other inside the rival framework, so it declines the verdict the label
-    promises; a case-insensitive grep for fail on the destination returns exactly
-    one hit at L114 about hemispatial-neglect processing, nothing about AST. NOTE
-    FOR LATER VERIFIERS: that L100 sentence starts a clause with a capital N, so a
-    lowercase grep returns zero and looks like a false premise - it is not. TWO FINDINGS
-    REPORTED RATHER THAN ACTED ON: (a) the language-recursion-and-consciousness.md
-    citation-install P3 is length-blocked, analyze_length gives 3992w against the
-    4000 topics hard ceiling, 8 words of headroom, so installing a reference line
-    would breach it - that task needs a condense-first or substitution plan and was
-    deliberately NOT promoted; (b) the moral-implications-of-genuine-agency.md P3
-    has a half-false supporting premise, it claims both frankfurt-cases-and-the-principle-of-alternate-possibilities
-    and reactive-attitudes-and-strawsonian-responsibility link the standalone concept,
-    but grep -c gives 3 for reactive-attitudes and 0 for frankfurt-cases - the core
-    defect is still real (the hub itself greps 0) so the task stands, but the sibling-parity
-    argument is overstated and frankfurt-cases is itself a candidate locus. Floor
-    re-measured with tools.evolution.task_selector.count_p0_p2_tasks over the file
-    on disk: 2 before, 3 after, against MIN_QUEUE_TASKS 3 - exact restore with no
-    padding. Pending set re-parsed as 22 active, 3 P2 and 19 P3, correcting the stale
-    p3_tasks 11. Lengths measured with analyze_length, never wc -w. Pruned run_895_note
-    per the keep-~3 discipline, keeping 896/897/898 (evolution-state-floor-restore-note-bloat);
-    recent_tasks untouched.'
+    - L149 and L150 still state Exploits genuine incompleteness and Makes empirical predictions
+    un-hedged while L190 still withdraws exactly that, so the internal contradiction is real
+    and not already fixed. The file was touched at 15:21Z today but only by the corpus-wide
+    Tallis de-quote sweep in commit b1adfdf1, which went nowhere near either locus. Chosen
+    over the four other starved-band candidates because it is the only one that is single-file
+    AND the sole open task on its target - the two apex-alias files carry 2 open tasks each,
+    causal-closure-debate-historical-survey carries 3, and every mysterianism candidate would
+    have been a fourth task on one file. It is also length-neutral by substitution with replacement
+    wording already supplied, needs no publisher verification and no composed prose, and being
+    an internal self-contradiction the fix cannot drift outward. Line 1903 places it ahead
+    of the two existing P2s at 1952 and 1960, so promotion in place both restores the floor
+    and rescues the starved task. DECLINED - the apex alias mislabel is cheaper per edit and
+    both loci verified, but it is a two-file task whose own notes flag the cycle_post single-file
+    close and it would deepen a same-file pileup; the Papineau survey task needs about 200
+    new words plus a matching trim against a near-ceiling article; the Shoemaker and Yablo
+    task needs two new citations verified at publisher; the epiphenomenalist-threat task is
+    a human-shaped judgement call and was deliberately left at P3; the voids-lane task is
+    an operator decision that says not to pick unilaterally. All four defects were nonetheless
+    grep-verified still live, so none was closed. Pruned run_896_note per the keep-about-3
+    discipline, keeping 897/898/899 (evolution-state-floor-restore-note-bloat); recent_tasks
+    untouched. No commit made; cycle_post owns that.'
+  run_901_note: 'run no.901 (2026-07-30T19:36Z, cycle-driven /replenish-queue): MINTED ZERO,
+    FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Nothing closed, no new target invented,
+    no generative source re-derived. Fourth consecutive zero-mint single-promotion run and
+    the third the driver briefing prescribed in advance.
+
+    COUNTS, measured live with tools.evolution.task_selector.count_p0_p2_tasks and parse_tasks
+    over the file on disk: 33 active before, 2 P2 and 31 P3, against MIN_QUEUE 3. After: 33
+    active, 3 P2 and 30 P3. Exact restore, active total unchanged, matching the driver briefing
+    exactly. NOTE the p2_tasks 3 / p3_tasks 31 recorded by run 900 was stale on arrival: run
+    900 promoted observational-closure.md, that task was then executed and closed in the same
+    cycle, dropping the tier back to 2 without the state being re-measured. Live parse is
+    the authority, not this block.
+
+    PROMOTED the Papineau task at heading line 1899 (parser line 1898) on obsidian/topics/causal-closure-debate-historical-survey.md,
+    minted by optimistic-review 2026-07-27, type refine-draft, both Type and File lines present
+    and re-parsing as P2 REFINE_DRAFT with a resolvable path.
+
+    THIS OVERTURNS THE RUN 899 AND RUN 900 DECLINES, WHICH WERE WRONG ON THE STATED GROUND.
+    Both declined this task because a roughly 200w addition would cross the 3000 topics SOFT
+    ceiling and force a compensating trim through calibration-hedged Leibniz and Helmholtz
+    paragraphs. That over-reads soft as a ceiling. Live analyze_length gives 2984w status
+    ok, hard is 4000, so the addition lands near 3184 = soft_warning with 816w still to hard.
+    Measured the corpus to settle it: soft_warning is the MODAL status across topics, concepts,
+    apex, voids and positions, 382 of 789 articles or 48.4 percent, MORE than ok at 44.9 percent,
+    with hard_warning 6.2 and critical 0.5. Crossing soft moves the article into the largest
+    cohort in the corpus. No compensating trim is required and the note now says so inside
+    the task, because that trim was itself the calibration-regression risk.
+
+    WHY IT BEAT THE OTHER TWO, ON THE SESSION CONSTRAINT THAT ACTUALLY BINDS. WebSearch is
+    exhausted at 200/200, so citation-verification cost was the discriminator. This task needs
+    ZERO new web lookups: both sources are already publisher-verified inside the corpus. Papineau
+    2001 The Rise of Physicalism in Gillett and Loewer eds. Physicalism and Its Discontents
+    (CUP) is already this article''s own References entry 10 at L150 and also sits in concepts/causal-closure.md,
+    concepts/trumping-preemption.md and concepts/objections-to-interactionism.md; Papineau
+    2002 Thinking about Consciousness (OUP) carries an explicit VERIFIED publisher-of-record
+    mark in two research notes and in the W25 changelog ledger. By contrast concepts/causal-exclusion-argument.md
+    at line 1906 requires TWO brand-new author citations, Shoemaker 2001 Realization and Mental
+    Causation and Shoemaker 2007 Physical Realization, which grep shows appear NOWHERE in
+    obsidian or archive except the task note and its parent review - genuinely unverified,
+    and its own note warns against confirming them by analogy to Papineau''s same-volume entry,
+    which is exactly the shortcut a WebSearch-starved fork would take. That is the ai_citation_metadata_unreliable
+    and citation-verify-false-negative hazard shape. Its Yablo half is cheap (Yablo 1992 Philosophical
+    Review 101(2) 245-280 is corroborated at two independent corpus loci) but the Shoemaker
+    half is the headline. The third candidate, line 365 mind-arena wikilinking, is live in
+    all four files (3, 2, 1 and 1 bare occurrences, zero wikilinks) and length-neutral, but
+    its own notes mandate doing one file per pick and RE-SCOPING the File line in place before
+    closing - the documented cyclepost-marks-rescoped-task-on-inplace-rewrite hazard, whose
+    standing remedy is to mint rather than re-scope. Left at P3 deliberately.
+
+    DEFECT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING. grep -n Papineau returns exactly L63,
+    L112, L150, all historian-framed. A case-insensitive grep for special force, no special
+    and physiolog returns NOTHING, so the positive no-special-forces induction is genuinely
+    absent, while L88 already runs Buhler''s Inductive arguments commit sampling errors as
+    a reply to it - the survey rebuts an argument it never shows the reader. grep -c causal-exclusion-argument
+    returns 0 against a live section heading The Twentieth Century: Kim''s Exclusion Argument
+    at L67, while concepts/causal-exclusion-argument.md links here THREE times (frontmatter
+    L22, inline L72, Further Reading L97). The asymmetry is real and one-directional. The
+    L112 citation-framing defect is verbatim present: As Papineau (2001) documents, each step
+    appeared empirically motivated, but the cumulative effect was to elevate a methodological
+    assumption into an axiom - the as-X-documents frame reaches across the but and lends closure''s
+    leading DEFENDER to the Map''s critical verdict.
+
+    TIER DIVERSIFICATION, a secondary win. Both surviving P2s sat on concepts/mysterianism.md
+    at lines 1946 and 1954, so the next two queue picks would both have landed on one article.
+    The promoted file is untouched by today''s 101-file churn (ai_modified 2026-07-26) and
+    carries exactly ONE open task, so no same-file pileup.
+
+    EXCLUSIONS, none closed, each for its own reason: mysterianism.md L1962 would be a third
+    task on the file already holding both P2s; pain-asymbolia.md L357 is a FIVE-file task;
+    apex/consciousness-and-agency.md L1938 is two-file and twice-declined on that ground;
+    the-epiphenomenalist-threat.md L1930 self-declares a judgement call and is human-decision-shaped;
+    the voids-lane task L1914 enumerates four options and says not to choose unilaterally.
+
+    HYGIENE. Rationale written INSIDE the existing Notes bullet, not as a new one, so no line
+    below the promoted task shifted - the two pre-existing P2s still parse at 1946 and 1954,
+    unmoved. Original mint text preserved verbatim ahead of an explicit PROMOTED marker. Type
+    is refine-draft, never other. No bare hash and no unbalanced quote in this note; YAML
+    re-parsed after writing. Lengths via analyze_length, never wc -w. run_898_note pruned
+    under the keep-about-three discipline, keeping 899, 900 and 901; key count taken by parsed
+    dict walk, not grep, which over-reports because the notes name each other. recent_tasks
+    (20) untouched. No commit; cycle_post owns that.'
