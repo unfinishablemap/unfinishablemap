@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T18:32:26+00:00'
+ai_modified: '2026-07-30T18:54:15+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 18:54 UTC - refine-draft
+- **Status**: Success (two table cells recalibrated; +2 words against a measured 2-word ceiling)
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Original score**: n/a — SKILL.md step 3 invokes `scripts/curate.py`, which does not exist (still-open NEEDS-HUMAN tooling task; not patched here)
+- **Length figures in the dispatching task were wrong, and the correction is load-bearing**: the task cited "~3635w against concepts soft 3000 / hard 4000". Those are the **topics** thresholds. `concepts` is **soft 2500 / hard 3500**, and `analyze_length` measured the file at **3497w, `soft_warning`**. Further, `length.py` flips status at `word_count >= hard`, **not** `>`, so 3500 already reads `hard_warning`: the real ceiling was **3499**, i.e. **+2 words, not +3**. The task's own suggested wordings ("...at the mechanism level...", "...on collapse-involving interpretations") ran ~+8 and would have breached it.
+- **The defect**: the comparison table's Quantum Interactionism column asserted flat, unhedged claims that the article's own prose contradicts sixty lines later. Tables are read first, extracted by retrieval, and quoted detached from their corrections, so the un-hedged cell is the version that travels.
+- **Cell 1 — Relation to physics**: `Exploits genuine incompleteness` → `Incompleteness on collapse-involving readings` (3→4 words). Flat "genuine incompleteness" was the outlier against the sibling [[topics/causal-closure-debate-historical-survey]] L102, which holds that Bohmian and many-worlds readings remain live so "the physics **constrains rather than settles** the closure question". The replacement mirrors that article's own phrase "on collapse-involving readings"; the sibling was **not** edited.
+- **Cell 2 — Testability**: `Makes empirical predictions` → `Mechanism-level predictions, not selection-level` (3→4 words). Sourced directly from the article's existing L190 falsifiability dilemma, which already states that selection is "empirically invisible at the quantum level" and that falsifiability must come from other commitments — neural coherence timescales, attention-quantum correlations, Chalmers-McQueen collapse rates. The article already knew this; only the table did not say so.
+- **Wordings chosen to fit the budget rather than to fund it by cutting prose**: both cells took +1 each for exactly **+2**. Because both replacements are hyphen-joined single tokens under `count_words`'s bare `content.split()`, the fuller-sounding forms cost no more than the terse ones. **No prose was trimmed** — the surrounding text was already correctly calibrated and the brief was to change the table only. `analyze_length` **3497 → 3499**, status **`soft_warning`** (prose 2868 / apparatus 631). Pipe counts per row unchanged, so the 3-column table still renders.
+- **Nav surface fixed too**: `description:` asserted the same flat claim — "at quantum indeterminacies **where physics is genuinely incomplete**" — i.e. the label contradicted the body exactly as the table did. Rewritten to "...at quantum indeterminacies **collapse readings leave open**", which also brings it from **183 chars into range at 155** (guideline 150-160). Frontmatter is stripped by `count_words`, so this cost zero body words. Headings checked: none asserts flat testability or flat incompleteness.
+- **Protected passages confirmed byte-identical** (verified by the diff containing only 3 hunks): **L190** the falsifiability dilemma — the correct pole, deliberately *not* weakened to meet the table halfway; the **degenerate / non-degenerate energy split**; the **"relocates the three-order-of-magnitude gap"** Zeno paragraph; the **neuroplasticity defeater-blocker cap**. The sibling `causal-closure-debate-historical-survey.md` is clean in `git status`.
+- **Noted, not acted on**: the **lead paragraph** carries the same "at points where physics is genuinely incomplete" phrasing as the old description. It is a high-extraction surface and is now the last flat-incompleteness assertion in the file, but it is prose the brief ringfenced, and correcting it costs words this article does not have. Worth a future task once the file has headroom.
+- **Attribution held verbatim**: `ai_system: claude-opus-4-6+claude-opus-4-8` — already a `+`-joined dual string, **not** appended to and **not** converted to a YAML list; two table cells is not re-authoring. `last_deep_review` left at 2026-07-25T16:37:29+00:00, **not bumped**. `ai_modified` stamped from a live `date -u`.
+- **Changes**: 2 table cells recalibrated (+2 words); `description` rewritten (flat claim removed, 183→155 chars); `ai_modified`.
+- **Published**: yes — synced; not committed; `todo.md` not edited.
 
 ## 2026-07-30 18:32 UTC - refine-draft
 - **Status**: Success (reciprocal cross-link installed; apex side exactly length-neutral)

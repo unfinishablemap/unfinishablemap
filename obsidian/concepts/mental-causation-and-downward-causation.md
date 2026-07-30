@@ -1,10 +1,10 @@
 ---
 title: "Mental Causation and Downward Causation"
-description: "How mental states cause physical effects despite Kim's exclusion argument. Consciousness exercises downward causation at quantum indeterminacies where physics is genuinely incomplete."
+description: "How mental states cause physical effects despite Kim's exclusion argument. Downward causation acts at quantum indeterminacies collapse readings leave open."
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-07-30T18:54:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,8 +146,8 @@ British emergentists affirmed downward causation but couldn't explain it—accep
 |---------|----------------------|----------------------|
 | Mechanism | None specified | Candidates: Zeno effect, Orch OR |
 | Where it operates | Unspecified | Quantum indeterminacies |
-| Relation to physics | Requires violating closure | Exploits genuine incompleteness |
-| Testability | Difficult | Makes empirical predictions |
+| Relation to physics | Requires violating closure | Incompleteness on collapse-involving readings |
+| Testability | Difficult | Mechanism-level predictions, not selection-level |
 
 The Map specifies *where* downward causation operates and *why* physical laws aren't violated, while the precise mechanism remains a research programme with candidate mechanisms rather than a completed theory.
 
