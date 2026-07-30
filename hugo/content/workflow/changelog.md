@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T03:28:53+00:00'
+ai_modified: '2026-07-30T03:39:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 03:39 UTC - refine-draft
+- **Status**: Success
+- **File**: `[[concepts/global-workspace-theory]]`
+- **Scope**: single-string link-label swap on L94. No other edits; surrounding sentence, sibling wikilinks, and article argument untouched.
+- **Defect**: the cross-link to `[[topics/attention-and-the-consciousness-interface]]` was labelled *"Why Attention Schema Theory Fails"* — a promise of in-framework refutation that the destination explicitly declines. The destination is titled "Attention and the Consciousness Interface", heads its AST section `## Engaging Attention Schema Theory`, and states at L100 that "Neither side closes the case against the other inside the rival's framework — the disagreement is about which framework to inhabit, and the Map notes this honestly rather than dressing tenet-incompatibility as an argument decided on AST's terms." The label was therefore boundary-substitution laundered through a link alias: a Mode Three engagement advertised at the callsite as Mode One. Its only `fail`-family hit is about hemispatial neglect, unrelated to AST.
+- **Fix**: `|Why Attention Schema Theory Fails` → `|the Map's engagement with AST`, inherited verbatim from the three already-corrected siblings (`[[concepts/illusionism]]` ae66ac59, `[[concepts/mental-effort]]` 5e52ddcf, `[[concepts/heterophenomenology]]` 562f8e59). Length-neutral (five words for five).
+- **Family closed**: this was the last live locus. `grep -rn 'Why Attention Schema Theory Fails' obsidian/ --include=*.md` now returns hits only under `workflow/` and `reviews/`, where the string is the diagnostic record and is left in place.
+- **Housekeeping**: `ai_system` held (`claude-opus-4-5-20251101`) — a link relabel is not re-authoring. `last_deep_review` untouched. Length `soft_warning` at 3048w against concepts 2500/3500 pre-existing and unaffected; no condense.
+- **Published**: yes
 
 ## 2026-07-30 03:28 UTC - deep-review
 - **Status**: Success

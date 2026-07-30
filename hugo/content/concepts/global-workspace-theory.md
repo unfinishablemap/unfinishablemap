@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 21:32:25+00:00
+ai_modified: 2026-07-30 03:38:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -93,7 +93,7 @@ This suggests the global workspace may be sufficient for *reportable* consciousn
 
 ## Relation to Competing Theories
 
-GWT shares territory with several neuroscientific theories. [Higher-Order Theories](/concepts/higher-order-theories/) require a higher-order *representation* of the mental state rather than mere broadcast—GWT says broadcast suffices, HOT says consciousness requires representation *as* one's own mental state. [Predictive processing](/concepts/predictive-processing/) can integrate with GWT (the workspace might broadcast *prediction errors*) but doesn't explain why minimizing surprise feels like anything. [Attention Schema Theory](/concepts/attention-schema-theory/) complements GWT by proposing a mechanism for *which* information enters the workspace, but faces the same hard problem objection (see [Why Attention Schema Theory Fails](/topics/attention-and-the-consciousness-interface/)).
+GWT shares territory with several neuroscientific theories. [Higher-Order Theories](/concepts/higher-order-theories/) require a higher-order *representation* of the mental state rather than mere broadcast—GWT says broadcast suffices, HOT says consciousness requires representation *as* one's own mental state. [Predictive processing](/concepts/predictive-processing/) can integrate with GWT (the workspace might broadcast *prediction errors*) but doesn't explain why minimizing surprise feels like anything. [Attention Schema Theory](/concepts/attention-schema-theory/) complements GWT by proposing a mechanism for *which* information enters the workspace, but faces the same hard problem objection (see [the Map's engagement with AST](/topics/attention-and-the-consciousness-interface/)).
 
 The COGITATE results complicate all three: if conscious content tracks posterior cortex rather than prefrontal networks, neither broadcast, higher-order representation, nor attention schemas may be necessary for phenomenal consciousness.
 
