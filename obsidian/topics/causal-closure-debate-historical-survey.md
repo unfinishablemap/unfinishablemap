@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-07-26T07:06:23+00:00
+ai_modified: 2026-07-30T22:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ topics:
   - "[[history-of-the-interaction-problem]]"
 concepts:
   - "[[causal-closure]]"
+  - "[[causal-exclusion-argument]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[conservation-laws-and-mental-causation]]"
@@ -81,6 +82,14 @@ A further difficulty is the *generalisation problem*: Kim's exclusion reasoning 
 
 Several philosophers have proposed frameworks that preserve higher-level causation within a causally closed physics. Woodward's interventionist account defines causation through counterfactual manipulation, allowing macro-level causes to be genuine without competing with micro-level ones. List and Menzies offer a difference-making account where higher-level properties earn causal status by being counterfactually relevant. Loewer's compatibilism treats mental and physical causation as non-competing descriptions at different levels. These responses appear to rescue chemical and biological causation from Kim's argument — but rescuing *mental* causation is harder. Each framework preserves higher-level causation only for properties that supervene on the physical. If mental properties are non-physical (as [[interactionist-dualism]] holds), they fall outside the scope of these solutions. The interventionist, difference-making, and compatibilist strategies all presuppose that higher-level causes are constituted by lower-level physical causes. They address the generalisation problem by showing that *physically grounded* higher-level causation survives exclusion. The dualist's mental causes, which are not physically grounded, receive no such protection. The generalisation problem thus remains a genuine difficulty for Kim's argument as applied to biology and chemistry, while the exclusion of non-physical mental causation — the case Kim actually cared about — is left standing by these responses.
 
+## The Positive Case: Papineau's Argument from the Empirical Record
+
+Surveying the critics without stating the argument they answer would misrepresent the debate. Closure's leading contemporary defender, David Papineau (2001, 2002), does not rest the principle on conservation laws alone. He treats it as an inductive conclusion drawn from two centuries of empirical work, and the argument has two strands.
+
+The first is physiological. Nineteenth-century physiology set out to determine whether living bodies are driven by anything beyond ordinary physico-chemical forces, and it kept failing to find one. Muscle contraction, nerve conduction, metabolism, and heat production each yielded to physical and chemical explanation; the special vital forces earlier physiology had posited were not detected but retired. The search that closed the vital-force question closed it without turning up a residue for mind to occupy. The second strand comes from physics: over the same period the catalogue of fundamental interactions narrowed to a small and well-characterised set, none of which acts selectively inside brains and nowhere else. A special mental force would have to have shown up somewhere in one record or the other, and it has not.
+
+Papineau presents the conclusion as inductive rather than demonstrative: given how systematically the looking has been done and how consistently it has come up empty, the best explanation is that there is nothing further to find. He is explicit that conservation of energy alone does not block a mental force acting deterministically on matter; the weight falls on the empirical record instead. This is the strongest form of the case for closure, and the form the criticisms below take as their target.
+
 ## Contemporary Challenges: Philosophy
 
 Three strands of contemporary philosophical criticism have put pressure on causal closure's standing.
@@ -109,7 +118,7 @@ Sophie Gibb (2010) reinforces the physics-based challenge from within the philos
 
 ## An Empirical Claim Hardened into an Axiom
 
-The historical pattern is reasonably clear. What began as an observation — conservation of motion (Descartes), conservation of momentum (Leibniz), conservation of energy (Helmholtz) — was progressively transformed into a metaphysical principle: the causal completeness of physics. As Papineau (2001) documents, each step appeared empirically motivated, but the cumulative effect was to elevate a methodological assumption into an axiom.
+The historical pattern is reasonably clear. What began as an observation — conservation of motion (Descartes), conservation of momentum (Leibniz), conservation of energy (Helmholtz) — was progressively transformed into a metaphysical principle: the causal completeness of physics. Papineau (2001) documents that sequence and reads its outcome as a well-supported conclusion, each step empirically motivated. The Map draws the opposite verdict from the same history: the cumulative effect was to elevate a methodological assumption into an axiom. The sequence is Papineau's; the reading of what it amounts to is the Map's own.
 
 Science *assumes* that every physical event has a physical explanation in order to search for physical explanations. This methodological commitment is productive and indispensable. But it does not *discover* that the assumption is true. The success of physics within the domains it investigates indicates that many physical events have physical causes — not that all do. As [[reductionism]] details, methodological success does not entail ontological completeness.
 
@@ -126,6 +135,7 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 ## Further Reading
 
 - [[causal-closure]] — The principle stated, its formulations, and detailed critique
+- [[causal-exclusion-argument]] — Kim's exclusion argument stated canonically, with the replies and dualism's routes out
 - [[conservation-laws-and-mental-causation]] — Why energy conservation does not entail causal closure
 - [[observational-closure]] — The distinction between detectable and universal closure
 - [[delegatory-dualism]] — Saad's framework for mental causation without overdetermination
@@ -148,9 +158,10 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 8. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
 9. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
 10. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-11. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
-12. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
-13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-14. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
-15. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-16. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+11. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+12. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
+13. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
+14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+15. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
+16. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+17. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
