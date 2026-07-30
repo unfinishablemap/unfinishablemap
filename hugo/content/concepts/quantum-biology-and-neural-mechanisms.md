@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-07-30 15:10:22+00:00
+ai_modified: 2026-07-30 22:24:10+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -71,7 +71,7 @@ The measurement itself stands, and that residue matters: electronic coherence wa
 
 ### Avian Magnetoreception
 
-Migratory birds navigate using Earth's magnetic field through [radical pair quantum effects](/concepts/radical-pair-magnetoreception/) in cryptochrome proteins. Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. Spin coherence persists for microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
+Migratory birds navigate using Earth's magnetic field through [radical pair quantum effects](/concepts/radical-pair-magnetoreception/) in cryptochrome proteins, the mechanism first modelled by Ritz et al. (2000). Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. Spin coherence persists for microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
 
 Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though its microsecond coherence sits about three orders of magnitude below neural firing timescales.
 
@@ -105,9 +105,9 @@ More fundamentally, decoherence doesn't solve the [measurement-problem](/concept
 
 Five mechanisms have been proposed for protecting quantum coherence in biological systems. None is confirmed in living neurons, but each has theoretical and experimental support.
 
-**Hydrophobic microtubule interior**: Microtubule interiors lack water—the primary biological decoherence agent. Aromatic amino acids form π-electron clouds creating a hydrophobic quantum channel. Babcock et al. (2024) confirmed ultraviolet superradiance in tryptophan mega-networks at room temperature.
+**Hydrophobic microtubule interior**: Microtubule interiors lack water—the primary biological decoherence agent. Aromatic amino acids form π-electron clouds creating a hydrophobic quantum channel. Babcock et al. (2024) predicted ultraviolet superradiance across tryptophan mega-networks in microtubule architectures and confirmed its fluorescence-yield signature experimentally; persistence under ambient conditions remains their projection rather than a measurement.
 
-**Metabolic energy pumping (Fröhlich coherence)**: Continuous metabolic energy input maintains coherent oscillations analogous to laser coherence. Craddock et al. (2017), *Scientific Reports* 7:9877, used molecular-dynamics and quantum-chemistry simulations to predict that anaesthetics — but not non-anaesthetic structural analogues — disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency. This matches Fröhlich predictions; Wiest (2025) reviews the prediction and develops its implications. The 613 THz peak is a computational prediction awaiting direct experimental observation rather than an observation awaiting replication.
+**Metabolic energy pumping (Fröhlich coherence)**: Continuous metabolic energy input maintains coherent oscillations analogous to laser coherence. Craddock et al. (2017), *Scientific Reports* 7:9877, used molecular-docking and quantum-chemistry simulations to predict that anaesthetics — but not non-anaesthetic structural analogues — disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency. This matches Fröhlich predictions; Wiest (2025) reviews the prediction and develops its implications. The 613 THz peak is a computational prediction awaiting direct experimental observation rather than an observation awaiting replication.
 
 **Nuclear spin isolation (Fisher/Posner)**: Phosphorus-31 nuclear spins in Posner molecules (Ca₉(PO₄)₆) have coherence times of **~10⁵ seconds** (over a day) because nuclear spins couple weakly to the electromagnetic environment. In 2025, multi-electrode array experiments showed lithium-6 and lithium-7 have "large and opposite effects on synaptic transmission"—consistent with Fisher's predictions.
 
@@ -121,9 +121,9 @@ These five mechanisms need not operate independently—their combination could e
 
 **1. Radical pair effects in neural cryptochromes**: The radical pair mechanism established in avian magnetoreception may extend to neural tissue. Whether cryptochromes function beyond magnetoreception in cognition remains uncertain.
 
-**2. Ion channel quantum tunneling**: Ions (Na⁺, K⁺, Ca²⁺) may tunnel through closed voltage-gated channels, with tunneling probability depending on particle mass. Qaswal et al. (2021) developed a mathematical model matching pathological phenomena (tinnitus, phantom limb, epilepsy). Evidence remains primarily theoretical.
+**2. Ion channel quantum tunneling**: Ions (Na⁺, K⁺, Ca²⁺) may tunnel through closed voltage-gated channels, with tunneling probability depending on particle mass. Qaswal et al. (2021) modelled tunnelling through the closed hydrophobic gate, drawing implications for epilepsy, cardiac arrhythmias, and pain. Evidence remains primarily theoretical.
 
-**3. Microtubule quantum coherence (Orch OR and QBIT)**: In [Orch OR](/concepts/quantum-consciousness/), tubulin superpositions undergo gravity-induced collapse producing conscious moments — a contested proposal, not a settled one. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found anaesthetics dampen quantum optical effects in microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9), though this also admits a classical reading (microtubules traffic GABA_A receptors, isoflurane's primary target); Wiest (2025) is a partisan Orch-OR advocacy review whose central macroscopic-entanglement claim is contested and parameter-dependent, so its "experimentally supported" is the author's verdict rather than the field's (see [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) for the graded treatment).
+**3. Microtubule quantum coherence (Orch OR and QBIT)**: In [Orch OR](/concepts/quantum-consciousness/), tubulin superpositions undergo gravity-induced collapse producing conscious moments — a contested proposal, not a settled one. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found the anaesthetics etomidate and isoflurane reduce exciton diffusion along microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9), though this also admits a classical reading (microtubules traffic GABA_A receptors, isoflurane's primary target); Wiest (2025) is a partisan Orch-OR advocacy review whose central macroscopic-entanglement claim is contested and parameter-dependent, so its "experimentally supported" is the author's verdict rather than the field's (see [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) for the graded treatment).
 
 **4. Synaptic vesicle release (Beck-Eccles/Georgiev)**: Georgiev & Glazebrook (2018) proposed Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling. Consciousness could bias tunneling probabilities, influencing which synapses fire—directly supporting [Bidirectional Interaction](/concepts/interactionist-dualism/).
 
@@ -151,7 +151,7 @@ None of this proves quantum consciousness, and the discipline of "predictions he
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis's regress: illusions presuppose experience), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
+[Illusionists](/concepts/illusionism/) (Frankish 2016; Dennett 2016) might dismiss the quantum biology debate as solving the wrong problem. Two responses: any account of why consciousness *seems* unified presupposes the very unity it denies (Tallis's regress: illusions presuppose experience), and even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves them undetermined. More directly: quantum biology's empirical findings stand regardless of whether consciousness is "real" or "illusory."
 
 ## The Measurement Problem Connection
 
@@ -202,7 +202,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 
 ## References
 
-1. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(20), 4906-4920.
+1. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046. https://doi.org/10.1021/acs.jpcb.3c07936
 1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive* (preprint).
 1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
 1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency: Implications for Anesthetic Action and Post-Operative Cognitive Dysfunction. *Scientific Reports*, 7, 9877.
@@ -210,7 +210,6 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
-1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30.
 1. Esmaeilpour, K., Bukhteeva, I., Kendall, B., Gingras, M. J. P., Leonenko, Z., & Mielke, J. G. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*. https://doi.org/10.1101/2025.08.23.671929
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
@@ -218,7 +217,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-1. Kalra, A. P., et al. (2023). Anesthetic dampening of quantum optical effects in microtubules. *Anesthesiology*, 139(4), 468-479.
+1. Kalra, A. P., Benny, A., Travis, S. M., Zizzi, E. A., et al. (2023). Electronic Energy Migration in Microtubules. *ACS Central Science*, 9(3), 352-361. https://doi.org/10.1021/acscentsci.2c01114
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
@@ -232,5 +231,4 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Turin, L. (1996). A spectroscopic mechanism for primary olfactory reception. *Chemical Senses*, 21(6), 773-791.
 1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. https://doi.org/10.1073/pnas.0809353105
 1. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7(3), 038001.
-1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
