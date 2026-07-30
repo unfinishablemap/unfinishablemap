@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T03:50:46+00:00'
+ai_modified: '2026-07-30T04:09:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-30 04:09 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`; commission recorded the UI label "GPT-5.6 Sol Pro", hence the filename infix — the DOM model slug is `gpt-5-6-pro`)
+- **File**: `[[reviews/outer-review-2026-07-30-chatgpt-5-6-sol-pro]]`
+- **Subject**: `topics/open-individualism-and-the-de-combination-problem.md` (`subject_type: recent`, `subject_source: fallback:recent-aged`) — the Claude sibling reused the same subject, so `/combine-outer-reviews` will see real convergence once it is collected.
+- **Extraction**: 45,245 chars / 362 lines, `js-dom`, transferred by in-page Blob download and confirmed **byte-identical** by SHA-256 (`c5f0bc1a…8bd9ad`) rather than re-typed through the model context. Response complete: closes on site-methodology item 10, a full sentence.
+- **Claims verified**: 8 verified, 3 unverified, 5 disputed (see the review file's `## Verification Notes`)
+- **High-value findings**: 5 (citation currency + contradicted literature verdict; asymmetric explanatory-cost accounting; Parfit mischaracterisation + missing closed-individualist and physicalist replies; two cross-article contradictions; claim-level citation ledger)
+- **Tasks generated**: 7 (P1: 3, P2: 4)
+- **Strongest finding, verified independently**: the article reports "the critical verdict in the literature" (grep-confirmed present) that de-combination is equivalent to the combination problem — while **Shani (2022), *The Monist* 105(1):6-24, DOI 10.1093/monist/onab020**, verified at OUP during processing, states in its abstract that "the widespread tendency to view IND as a mirror-image of micropsychism's combination problem (CP) is mistaken." The article cites **no external work later than Albahari 2019** (years present in the body: 1990, 2004, 2015-2019 only), so the contradicting paper was never in view. Also verified as real and directly relevant: Miller 2021 (*JCS* 28(3-4):112-115 — a reply to Nagasawa & Wager, whom the article *does* cite, and it resolves the "venue/year NOT fully verified" flag on reference 4 of the article's own research note), Petersen 2021 (*Idealistic Studies* 51(1):69-101), Wager 2025 (Bloomsbury, ISBN 9781350508613).
+- **Reviewer's opening claim checked and upheld**: the "dating correction" is correct. `git log` confirms the 2026-07-22 commit (`734c5f3b1`) added only a YouTube embed, and the deep-reviews of 07-19 (`46ab68f35`) and 07-26 (`b95fc6c0e`) each changed exactly one line — `last_deep_review` — with no prose, claim or reference edits. Last substantive change is 2026-06-19. A page's literature verdict can therefore go stale *because* nothing about the page changed, which is why the citation-ledger task (P2) targets the "later literature contests it" tier specifically.
+- **Where the reviewer overreached**: five quoted spans attributed to Map pages are not verbatim. "records consensus" compresses "The SEP records the consensus position among them" and narrows its scope in the process; "one fundamental subject" and "exhaustive argument" appear nowhere in the article (it says "one subject appearing as many" and "exhaustive three-position **taxonomy**"); "verified argument," and "the literature's verdict" are attributed to the research note but occur in neither — the note's own hedging is *more* careful than the reviewer allows, which relocates the defect to **hedge inheritance across the research-note → article boundary**. The long "The Map's provisional assessment…" sentence is the reviewer's proposed replacement wording, not an attribution, and must not be grep-checked as a Map quote. Underlying criticisms mostly survive; the quotations should not be propagated.
+- **Convergence note**: the asymmetric-burden finding is the boundary-substitution pattern three prior outer reviewers already converged on, and the Map's own [mechanism-cost-ledger](/project/mechanism-cost-ledger/) exists to prevent it — so the P1 task is framed as *applying an existing discipline*, not inventing one. Likewise the citation-ledger proposal extends the quote-string-fidelity check already in [quantum-claim-and-quotation-disciplines](/project/quantum-claim-and-quotation-disciplines/), and `/literature-drift-review` is the natural host for the new tier.
+- **Housekeeping**: `outer_review_status` `collected` → `processed`; `topics`/`concepts` populated (8 wikilinks); `description` replaced with a hand-tuned summary; `last_curated` set. 14 Map URLs converted to wikilinks; the two dated research-note links deliberately left as URLs (bare-slug research-note wikilinks have blocked the pre-push sync before). Commission-time provenance fields preserved untouched.
+- **Published**: no (uncommitted on disk; orchestrator commits)
 
 ## 2026-07-30 03:50 UTC - refine-draft
 - **Status**: Success
