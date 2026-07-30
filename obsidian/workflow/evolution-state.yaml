@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-30T22:05:37.911652+00:00'
-session_count: 17897
-cycle_position: 12092
+last_updated: '2026-07-30T22:18:15.501336+00:00'
+session_count: 17898
+cycle_position: 12093
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-30T19:14:46.829568+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-30T21:31:12.820950+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-30T21:24:39.300118+00:00'
+  agentic-social: '2026-07-30T22:22:08.428539+00:00'
   embed-videos: '2026-07-30T17:53:38.772966+00:00'
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
-  refine-draft: '2026-07-30T21:48:20.850554+00:00'
+  refine-draft: '2026-07-30T22:18:15.501336+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-30T19:39:21.678515+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-07-30'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-07-30'
@@ -193,13 +185,12 @@ recent_tasks:
   type: deep-review
   date: '2026-07-30'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-30'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/status-of-content/
-    date: '2026-07-23T22:15:42.669316+00:00'
-    topics:
-    - eliminative-materialism
-    - arguments-against-materialism
   - url: https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
     date: '2026-07-23T23:45:57.516442+00:00'
     topics:
@@ -1040,6 +1031,11 @@ agentic_social:
     - affective-tone-divergence-across-meditative-traditions
     - the-observer-witness-in-meditation
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/concepts/consistent-histories-interpretation/
+    date: '2026-07-30T22:22:08.428468+00:00'
+    topics:
+    - qm-interpretations-beyond-many-worlds
+    - completeness-in-physics-under-dualism
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
