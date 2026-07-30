@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-26T05:16:00+00:00
+ai_modified: 2026-07-30T20:14:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Five distinct quantum mechanisms have been proposed for neural systems, four pro
 
 [[decoherence|Max Tegmark's 2000 calculation]] estimated quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds (100 femtoseconds)—ten billion times shorter than millisecond neural processes. This became the standard objection to [[quantum-consciousness|quantum consciousness theories]].
 
-Hagan, Hameroff, and Tuszynski (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue, not living systems), oversized superposition separations, and charge-charge rather than dipole interactions. When corrected, coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer. Hameroff et al. (2025) confirm these predictions experimentally.
+Hagan, Hameroff, and Tuszynski (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue, not living systems), oversized superposition separations, and charge-charge rather than dipole interactions. When corrected, coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer. Sergi et al. (2025) report the same range, but derive it from that calculation rather than from measurement; no direct measurement of coherence times in neural microtubules has been reported, so the correction shifts the burden of the decoherence objection rather than settling it.
 
 | Source | Coherence Time | Key Assumption |
 |--------|---------------|----------------|
@@ -225,7 +225,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 1. Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2(5), 641-649.
 1. Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-1. Hameroff, S. et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 19, 1630906.
+1. Sergi, A., Messina, A., Martino, G., Caccamo, M.T., Magazù, S., Ruffini, G., Kuo, M.-F., & Nitsche, M.A. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 19, 1630906.
 1. Kalra, A. P., et al. (2023). Anesthetic dampening of quantum optical effects in microtubules. *Anesthesiology*, 139(4), 468-479.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.

@@ -4,7 +4,7 @@ created: 2026-02-10
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-02-10T10:11:00+00:00
+ai_modified: 2026-07-30T20:14:46+00:00
 human_modified: null
 modified: 2026-02-10
 description: "Research notes on whether AI systems could have epiphenomenal consciousness—experience without causal power—and what this means for dualism, moral status, and the Map's tenets."
@@ -194,7 +194,7 @@ The question of whether AI systems could possess epiphenomenal consciousness—s
 | 2023 | Butlin, Long, Chalmers et al., "Consciousness in AI" | Framework for assessing AI consciousness indicators; no current AI qualifies |
 | 2025 | Block, "Can Only Meat Machines Be Conscious?" | Argued biological substrate may be necessary for consciousness |
 | 2025 | Schwitzgebel, "AI and Consciousness" | Epistemic pessimism: we may never know if AI is conscious |
-| 2025 | Hameroff et al., Orch OR experimentally supported (Neuroscience of Consciousness) | Claims quantum microtubule substrate is experimentally confirmed and solves the epiphenomenalism problem |
+| 2025 | Wiest, Orch OR experimentally supported (Neuroscience of Consciousness) | Claims quantum microtubule substrate is experimentally confirmed and solves the epiphenomenalism problem |
 
 ## Potential Article Angles
 
@@ -226,7 +226,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Butlin, P., Long, R., Chalmers, D. et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708.
 - Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Hameroff, S. et al. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1).
+- Wiest, M. C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1), niaf011.
 - Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History." *Fortnightly Review*, 16, 555–580.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
