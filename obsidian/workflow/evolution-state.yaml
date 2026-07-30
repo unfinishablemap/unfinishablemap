@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-30T22:23:33.453364+00:00'
-session_count: 17899
-cycle_position: 12093
+last_updated: '2026-07-30T22:29:40.688251+00:00'
+session_count: 17900
+cycle_position: 12094
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-30T19:14:46.829568+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
-  refine-draft: '2026-07-30T22:18:15.501336+00:00'
+  refine-draft: '2026-07-30T22:29:40.688251+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-30T19:39:21.678515+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -117,10 +117,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-30'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-30'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-30'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-07-30'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-30'
   outcome: success
 agentic_social:
@@ -1057,9 +1057,9 @@ queue_status:
   p3_tasks: 30
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-30T19:36:24+00:00'
-  last_replenishment_prev: '2026-07-30T19:01:24+00:00'
-  last_replenishment_run: 901
+  last_replenishment: '2026-07-30T22:35:00+00:00'
+  last_replenishment_prev: '2026-07-30T19:36:24+00:00'
+  last_replenishment_run: 902
   last_replenishment_mode: zero-mint-single-promotion
   replenishment_source_counts:
     promotion_only: 1
@@ -1222,40 +1222,6 @@ queue_status:
     not the raw grep, which over-reports because notes name each other. recent_tasks
 
     was not touched. No commit made; cycle_post owns that.'
-  run_899_note: 'run no.899 (2026-07-30T18:52Z, cycle-driven /replenish-queue): MINTED
-    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). No new target was invented,
-    nothing was closed, and no source was re-derived speculatively. Counts measured
-    live with tools.evolution.task_selector.count_p0_p2_tasks and tools.todo.processor.parse_tasks
-    over the file on disk - 34 active pending, 2 P2 and 32 P3 before, 3 P2 and 31
-    P3 after, against MIN_QUEUE 3, an exact restore with no padding. These matched
-    the driver briefing exactly. The raw header grep showing 5 P2 lines was ignored
-    as inflated - three of them are veto-tagged condense tasks that the parser excludes.
-    PROMOTED - the mental-causation-and-downward-causation.md comparison-table calibration
-    task at line 1903, generated 2026-07-27 and never picked because replenish top-inserts
-    and the selector sorts by priority then line number. Re-verified live before promoting
-    - L149 and L150 still state Exploits genuine incompleteness and Makes empirical
-    predictions un-hedged while L190 still withdraws exactly that, so the internal
-    contradiction is real and not already fixed. The file was touched at 15:21Z today
-    but only by the corpus-wide Tallis de-quote sweep in commit b1adfdf1, which went
-    nowhere near either locus. Chosen over the four other starved-band candidates
-    because it is the only one that is single-file AND the sole open task on its target
-    - the two apex-alias files carry 2 open tasks each, causal-closure-debate-historical-survey
-    carries 3, and every mysterianism candidate would have been a fourth task on one
-    file. It is also length-neutral by substitution with replacement wording already
-    supplied, needs no publisher verification and no composed prose, and being an
-    internal self-contradiction the fix cannot drift outward. Line 1903 places it
-    ahead of the two existing P2s at 1952 and 1960, so promotion in place both restores
-    the floor and rescues the starved task. DECLINED - the apex alias mislabel is
-    cheaper per edit and both loci verified, but it is a two-file task whose own notes
-    flag the cycle_post single-file close and it would deepen a same-file pileup;
-    the Papineau survey task needs about 200 new words plus a matching trim against
-    a near-ceiling article; the Shoemaker and Yablo task needs two new citations verified
-    at publisher; the epiphenomenalist-threat task is a human-shaped judgement call
-    and was deliberately left at P3; the voids-lane task is an operator decision that
-    says not to pick unilaterally. All four defects were nonetheless grep-verified
-    still live, so none was closed. Pruned run_896_note per the keep-about-3 discipline,
-    keeping 897/898/899 (evolution-state-floor-restore-note-bloat); recent_tasks untouched.
-    No commit made; cycle_post owns that.'
   run_901_note: 'run no.901 (2026-07-30T19:36Z, cycle-driven /replenish-queue): MINTED
     ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Nothing closed, no
     new target invented, no generative source re-derived. Fourth consecutive zero-mint
@@ -1343,3 +1309,84 @@ queue_status:
     899, 900 and 901; key count taken by parsed dict walk, not grep, which over-reports
     because the notes name each other. recent_tasks (20) untouched. No commit; cycle_post
     owns that.'
+  run_902_note: 'run no.902 (2026-07-30T22:35Z, cycle-driven /replenish-queue): MINTED ZERO,
+    FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Nothing closed, no new target invented,
+    no generative source re-derived speculatively. Fifth consecutive zero-mint single-promotion
+    run and the fourth the driver briefing prescribed in advance; the pattern is the steady
+    state, not an exception.
+
+    COUNTS, measured live over the file on disk with tools.evolution.task_selector.count_p0_p2_tasks
+    and parse_tasks: 33 active before, 2 P2 and 31 P3, against MIN_QUEUE 3. After: 33 active,
+    3 P2 and 30 P3. Exact restore, no padding, active total unchanged. Matched the driver briefing
+    exactly. The raw heading grep showing 5 P2 lines was again ignored as inflated - three of
+    those are veto-tagged condense entries at lines 719, 1359 and 1367 (composition-question-rivals,
+    meaning-of-life, phenomenal-output-causal-machinery-dissociation) that the selector excludes.
+
+    PROMOTED the two-tier-discount registration task at heading line 363, minted by optimistic-review
+    2026-07-30T14:15Z, type positions-evolve, File obsidian/positions/finding-level-calibration.md.
+    Post-edit the block re-parses through select_queue_task as the next pick, TaskType.POSITIONS_EVOLVE
+    with a resolvable path, and count_p0_p2_tasks returns 3.
+
+    DEFECT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING, all four greps from the task notes reproduced.
+    grep -ril two-tier over obsidian/positions/ returns 0 files. grep -rn architecture-vs-significance
+    returns 0. grep -rnE for architecture.tier or significance.tier returns 0. grep -rn for
+    a P-F heading returns 0, so the prefix is still free. The dangling-dependency claim also
+    reproduces verbatim: P-Q8 in positions/quantum-interface.md ends its Depends on line with
+    the bare unnamed phrase calibration discipline, a real referent an auditor cannot follow.
+    The source page obsidian/project/architecture-vs-significance-two-tier-discount.md exists
+    at 24KB, and both sister-discipline deferrals are present at the cited lines - project/evidential-status-discipline.md
+    L468 calls it the upstream finding-splitting discipline, project/per-cluster-independence-scoring.md
+    L166 calls it the canonical statement of what the asymmetric profile mark means. The target
+    file does not exist, so this is a clean create; positions/ is at 11 files of 80, no cap
+    pressure.
+
+    WHY IT BEAT THE FIELD. WebSearch is exhausted at 200/200, so citation-verification cost
+    was again the binding constraint. That rules out line 1912 concepts/causal-exclusion-argument.md,
+    which needs two brand-new author citations (Shoemaker 2001, Yablo 1992) verified at publisher
+    of record - the exact shape that has produced fabrication and false-verification incidents
+    before - and it favours the two positions-evolve candidates, which work entirely from the
+    register and existing articles and need no new citations at all. The real contest was against
+    line 354, positions/mental-causation.md. I verified that defect live too and it is GENUINE,
+    not an asserted-defect false positive: grep -rn stultif over obsidian/positions/ returns
+    exactly 2 hits, both incidental mentions inside other positions Asserts paragraphs (P-AC1
+    at ai-consciousness-scope.md L56, P-D2 at arguments-for-dualism.md L55); grep -rin for causal
+    closure returns 0; and concepts/epiphenomenalism.md L201 states the existential-versus-universal
+    split verbatim, ending with the words a metaphysical commitment that outruns the available
+    epistemic arguments. Line 354 is a valid task and should be promoted next cycle. It lost
+    ONLY on blast radius. Its deliverable is 2 to 3 entries plus reciprocal pointers from P-D2
+    and P-AC1 plus the positions.md Domains list, so 4 files, and one of them, positions/arguments-for-dualism.md,
+    already carries the open P3 at line 346 - reproducing the same-file pileup pattern its own
+    notes warn about (outer-review-same-file-task-pileup). The promoted task is 2 files, the
+    new create plus the positions.md Domains list, with explicit do-not-edit guards on quantum-interface.md
+    and consciousness-scope.md and its reciprocals deliberately deferred to follow-ons, so the
+    cycle_post single-file close is exact.
+
+    ORDERING, STATED KNOWINGLY. select_queue_task sorts by priority then line number, so at
+    line 363 this promotion sorts AHEAD of the two mysterianism.md P2s at 1953 and 1961 and
+    delays them by one further pick. There was NO promotion available that avoids this: the
+    only P3 sorting after 1953 is 1969, itself a third task on mysterianism.md, excluded because
+    that file already holds both live P2s and open=3. The delay is exactly one pick and self-liquidating
+    - once this task is consumed the P2 set reduces to the pair alone and they are first in
+    line, absent a further promotion above them. This is the fifth cycle they have waited; if
+    a sixth replenish also promotes below 1953, the driver should consider relocating the pair
+    to the top of Active Tasks instead (queue-lifo-starvation).
+
+    EXCLUSIONS, none closed, each for its own reason: 1969 mysterianism.md would be a third
+    task on the file already holding both P2s; 1937 the-epiphenomenalist-threat.md self-declares
+    a judgement call and is human-decision-shaped, a known auto-refine failure mode; 1921 the
+    voids lane enumerates four options and says not to choose unilaterally, so it is operator
+    territory; 1945 apex/consciousness-and-agency.md is a two-file task twice declined on the
+    cycle_post single-file close; 372 pain-asymbolia.md is a FIVE-file task with the same hazard;
+    380 the mind-arena wikilink task mandates re-scoping its File line in place, the documented
+    cyclepost-marks-rescoped-task-on-inplace-rewrite hazard.
+
+    HYGIENE. Rationale written INSIDE the existing Notes bullet, not as a new one, so no line
+    below the promoted task shifted - git numstat reports 2 lines changed and 2 lines changed,
+    file length unchanged at 17208 lines, and the two mysterianism P2s still parse at 1953 and
+    1961, unmoved. Original mint text preserved verbatim ahead of an explicit PROMOTED marker.
+    Type is positions-evolve, never other; both Type and File lines present and parsing. No
+    bare hash and no unbalanced quote in this note; YAML re-parsed after writing. Staleness
+    source was not consulted for candidates: roughly 160 files carry an ai_modified of today,
+    which disqualifies them. run_899_note pruned under the keep-about-three discipline, keeping
+    900, 901 and 902; key count taken by parsed dict walk, not grep, which over-reports because
+    the notes name each other. recent_tasks untouched. No commit made; cycle_post owns that.'
