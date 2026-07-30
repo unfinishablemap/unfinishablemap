@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-30T22:49:29.730311+00:00'
-session_count: 17904
+last_updated: '2026-07-30T23:03:31.696895+00:00'
+session_count: 17905
 cycle_position: 12095
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
   refine-draft: '2026-07-30T22:29:40.688251+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-30T22:36:17.294526+00:00'
+  replenish-queue: '2026-07-30T23:03:31.696895+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-30T09:59:03.239091+00:00'
@@ -117,10 +117,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-30'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-30'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-30'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-07-30'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-30'
   outcome: success
 agentic_social:
@@ -1242,57 +1242,60 @@ queue_status:
     901 and 902; key count taken by parsed dict walk, not grep, which over-reports
     because the notes name each other. recent_tasks untouched. No commit made; cycle_post
     owns that.'
-  run_903_note: 'run no.903 (2026-07-30T23:05Z, cycle-driven /replenish-queue): MINTED ZERO,
-    FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Sixth consecutive zero-mint single-promotion
-    run.
+  run_903_note: 'run no.903 (2026-07-30T23:05Z, cycle-driven /replenish-queue): MINTED
+    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Sixth consecutive zero-mint
+    single-promotion run.
 
 
-    COUNTS via parse_tasks over the file on disk: 32 pending, 2 P2 and 30 P3 before, against
-    MIN_QUEUE 3. After: 32 pending, 3 P2 and 29 P3. Active total unchanged. The raw heading
-    grep showing 5 P2 lines is inflated as usual - three are veto-tagged condense entries at
-    lines 710, 1350 and 1358 that the selector excludes.
+    COUNTS via parse_tasks over the file on disk: 32 pending, 2 P2 and 30 P3 before,
+    against MIN_QUEUE 3. After: 32 pending, 3 P2 and 29 P3. Active total unchanged.
+    The raw heading grep showing 5 P2 lines is inflated as usual - three are veto-tagged
+    condense entries at lines 710, 1350 and 1358 that the selector excludes.
 
 
-    PROMOTED THE TAIL, NOT THE HEAD, and that is the whole point of the run. Heading line 1960,
-    mysterianism.md compresses biological-cognitive-closure more firmly than the source, type
-    refine-draft, File obsidian/concepts/mysterianism.md. Changed one priority marker and nothing
-    else; git diff is 1 insertion and 1 deletion, so no line shifted and no sibling task moved.
-    Post-edit select_queue_task returns the mysterianism P2 at 1943 and the parsed P0-P2 count
-    is 3.
+    PROMOTED THE TAIL, NOT THE HEAD, and that is the whole point of the run. Heading
+    line 1960, mysterianism.md compresses biological-cognitive-closure more firmly
+    than the source, type refine-draft, File obsidian/concepts/mysterianism.md. Changed
+    one priority marker and nothing else; git diff is 1 insertion and 1 deletion,
+    so no line shifted and no sibling task moved. Post-edit select_queue_task returns
+    the mysterianism P2 at 1943 and the parsed P0-P2 count is 3.
 
 
-    STARVATION MECHANISM CONFIRMED FROM THE RECORD, not merely taken on the driver''s word.
-    select_queue_task sorts by (priority, line_number) at tools/evolution/task_selector.py:158.
-    run_902_note records promoting a task at heading line 363; that task won the sort against
-    the mysterianism pair at 1944 and 1952, executed as commit eb5fccda1, and the count fell
-    straight back to 2. Root cause is an insert-position asymmetry: /pessimistic-review appends
-    minted tasks to the end of Active Tasks while /replenish-queue prepends, so pessimistic-review
-    tasks are born last in the sort among equal priorities and can only run when the queue is
-    otherwise empty. These three mysterianism tasks were minted 2026-07-30 yet sit at lines
-    1944-1966, immediately above Completed Tasks. Promoting at 1960 restores the floor without
-    inserting anything above 1944, so all three P2s now occupy the tail and the next three queue
-    slots consume them in order. This is queue-lifo-starvation, made permanent rather than transient
+    STARVATION MECHANISM CONFIRMED FROM THE RECORD, not merely taken on the driver''s
+    word. select_queue_task sorts by (priority, line_number) at tools/evolution/task_selector.py:158.
+    run_902_note records promoting a task at heading line 363; that task won the sort
+    against the mysterianism pair at 1944 and 1952, executed as commit eb5fccda1,
+    and the count fell straight back to 2. Root cause is an insert-position asymmetry:
+    /pessimistic-review appends minted tasks to the end of Active Tasks while /replenish-queue
+    prepends, so pessimistic-review tasks are born last in the sort among equal priorities
+    and can only run when the queue is otherwise empty. These three mysterianism tasks
+    were minted 2026-07-30 yet sit at lines 1944-1966, immediately above Completed
+    Tasks. Promoting at 1960 restores the floor without inserting anything above 1944,
+    so all three P2s now occupy the tail and the next three queue slots consume them
+    in order. This is queue-lifo-starvation, made permanent rather than transient
     by the asymmetry.
 
 
-    MERIT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING, independent of the ordering argument. All
-    three source-skew loci reproduce verbatim. mysterianism L86 asserts permanently inaccessible
-    while voids/biological-cognitive-closure L131 documents enzyme injection having reopened
-    visual critical periods in rats and L129 lists reopened critical periods in adult humans
-    as a live falsifier of its own framework. mysterianism L102 says shows certain limits appearing
-    universally where source L61 says provides evidence and likely. mysterianism L84 generalises
-    to Infants discriminate phonemes from all languages; adults cannot where source L97 is specific
-    to Japanese infants and Japanese adults on /r/ and /l/. The task note also asks to coordinate
-    with the sibling P2 on the same file, which is a further reason to run the three consecutively.
+    MERIT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING, independent of the ordering argument.
+    All three source-skew loci reproduce verbatim. mysterianism L86 asserts permanently
+    inaccessible while voids/biological-cognitive-closure L131 documents enzyme injection
+    having reopened visual critical periods in rats and L129 lists reopened critical
+    periods in adult humans as a live falsifier of its own framework. mysterianism
+    L102 says shows certain limits appearing universally where source L61 says provides
+    evidence and likely. mysterianism L84 generalises to Infants discriminate phonemes
+    from all languages; adults cannot where source L97 is specific to Japanese infants
+    and Japanese adults on /r/ and /l/. The task note also asks to coordinate with
+    the sibling P2 on the same file, which is a further reason to run the three consecutively.
 
 
-    ZERO MINTS AND THAT IS CORRECT. Caps leave almost no room: topics 318/320, concepts 317/320,
-    voids 100/100 at cap, positions 11/80. Zero expand-topic and zero research-topic tasks are
-    pending; the 22 expand-topic Type lines inside the active line range all sit under completed
-    check-mark headers, not pending ones, which is why a raw Type grep disagrees with the parser.
-    Gap analysis is exhausted, two harvest runs today yielded zero, and queue depth is 32. No
-    work was manufactured to justify the run.
+    ZERO MINTS AND THAT IS CORRECT. Caps leave almost no room: topics 318/320, concepts
+    317/320, voids 100/100 at cap, positions 11/80. Zero expand-topic and zero research-topic
+    tasks are pending; the 22 expand-topic Type lines inside the active line range
+    all sit under completed check-mark headers, not pending ones, which is why a raw
+    Type grep disagrees with the parser. Gap analysis is exhausted, two harvest runs
+    today yielded zero, and queue depth is 32. No work was manufactured to justify
+    the run.
 
 
-    run_900_note pruned under the keep-about-three discipline, keeping 901, 902 and 903. recent_tasks
-    untouched. No commit made; cycle_post owns that.'
+    run_900_note pruned under the keep-about-three discipline, keeping 901, 902 and
+    903. recent_tasks untouched. No commit made; cycle_post owns that.'

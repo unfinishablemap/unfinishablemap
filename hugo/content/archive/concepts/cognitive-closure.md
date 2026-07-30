@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-24 11:06:00+00:00
+ai_modified: 2026-07-30 23:06:21+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Mysterianism and Cognitive Closure
 archived: true
@@ -69,7 +69,7 @@ McGinn's analogy: a rat cannot grasp calculus. This is not a matter of training 
 
 The analogy extends upward. If humans are to rats as some hypothetical intelligence is to humans, there exist properties we cannot conceive just as rats cannot conceive calculus. Noam Chomsky drew a parallel distinction in *Reflections on Language* (1976) between "problems" (questions within our cognitive capacity) and "mysteries" (questions beyond our cognitive reach). Both Chomsky and McGinn arrive at the same conclusion: biological organisms with specific cognitive architectures should expect some questions to fall outside what that architecture can handle.
 
-Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/) — the condition in which absent cognitive capabilities produce no signal — ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus; the absence simply does not register. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside, which is exactly what we observe: the hard problem feels like a genuine mystery, not like a gap in an otherwise surveyable inventory.
+Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/) — the condition in which absent cognitive capabilities produce no signal — ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus; the absence simply does not register. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside.
 
 ## The Two-Access Problem
 

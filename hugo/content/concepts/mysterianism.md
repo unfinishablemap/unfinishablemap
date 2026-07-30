@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-01 02:38:05+00:00
+ai_modified: 2026-07-30 23:06:21+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -79,7 +79,7 @@ McGinn calls this "transcendental naturalism": the solution is natural but trans
 
 Cognitive closure is easily confused with [causal closure of the physical](/concepts/causal-closure/), but the two are independent. Causal closure is an ontological thesis (every physical event has a sufficient physical cause); cognitive closure is an epistemic thesis (certain properties lie permanently beyond a given mind's conceptual reach). A third concept—[observational-closure](/concepts/observational-closure/)—concerns what we can *measure*: no detectable violations of physical causal completeness, even if mental causation is real. If consciousness operates through mechanisms that are both cognitively opaque and observationally invisible, the mind-body problem resists both theoretical solution and empirical resolution.
 
-Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/) ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside—which is exactly what we observe.
+Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/) ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside.
 
 ## Developmental Cognitive Closure
 
@@ -101,7 +101,7 @@ Schwitzgebel's claim that "we are not simply fallible at the margins... we are b
 
 ## Problems Versus Mysteries
 
-Noam Chomsky distinguished "problems" (within our cognitive capacities) from "mysteries" (beyond cognitive reach). Consciousness might be such a mystery—the [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort, perhaps not because we haven't tried hard enough but because trying harder won't help. The [origin question](/voids/origin-of-consciousness/)—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [biological-cognitive-closure](/voids/biological-cognitive-closure/) shows certain limits appearing universally across isolated cultures, with [paradigm blindness](/voids/collective-cognitive-limits/) extending the pattern to scientific communities.
+Noam Chomsky distinguished "problems" (within our cognitive capacities) from "mysteries" (beyond cognitive reach). Consciousness might be such a mystery—the [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort, which the mysterian reads as evidence that trying harder won't help and the optimist as evidence that the right concepts have not yet emerged. The [origin question](/voids/origin-of-consciousness/)—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [biological-cognitive-closure](/voids/biological-cognitive-closure/) shows certain limits appearing universally across isolated cultures, with [paradigm blindness](/voids/collective-cognitive-limits/) extending the pattern to scientific communities.
 
 ## Concept Nativism and Cognitive Closure
 
@@ -171,7 +171,7 @@ Dennett and the Churchlands argue mysterianism discourages investigation. The my
 
 ### The Squirrel Objection
 
-Why think consciousness is specially closed when we successfully understand many things? Because some properties must fall outside any finite cognitive architecture—the question is which ones. The persistence of the hard problem suggests consciousness is among them.
+Why think consciousness is specially closed when we successfully understand many things? Because some properties may fall outside any finite cognitive architecture—the question is which ones. The persistence of the hard problem is consistent with consciousness being among them, though persistence alone cannot settle which properties are closed.
 
 ## Relation to the Map's Perspective
 
@@ -185,7 +185,7 @@ Mysterianism connects to all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum mechanism might seem to contradict mysterianism, but the Map proposes consciousness biases quantum outcomes without explaining *why* there's something it's like to do so. The hard problem remains mysterious even if the [causal interface](/voids/causal-interface/) were understood—and as the voids framework explores, even the interface itself may be permanently opaque.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Mysterianism provides indirect support. Many-worlds eliminates collapse and any role for consciousness in physics. Rejecting many-worlds because it makes indexical identity inexplicable invokes mysterian intuitions.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Mysterianism provides indirect support. Many-worlds eliminates collapse and any role for consciousness in physics. Mysterianism defends the legitimacy of the indexical question that many-worlds dissolves; it supplies no reason to think many-worlds false. That indexical identity resists explanation is what a mysterian expects of a closed property, not a defect in the question.
 
 The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [voids](/voids/) framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through [apophatic methods](/concepts/apophatic-approaches/) — systematic negation that treats cognitive failure as data rather than embarrassment. [Apophatic cartography](/voids/apophatic-cartography/) develops these methods into a formal framework with explicit evidential criteria.
 
