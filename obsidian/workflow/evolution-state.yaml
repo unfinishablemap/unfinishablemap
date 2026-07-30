@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-30T19:20:31.867766+00:00'
-session_count: 17880
-cycle_position: 12079
+last_updated: '2026-07-30T19:26:50.999152+00:00'
+session_count: 17881
+cycle_position: 12080
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-30T19:14:46.829568+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-30T15:37:00.739712+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-30T18:39:48.289437+00:00'
+  agentic-social: '2026-07-30T19:30:03.970180+00:00'
   embed-videos: '2026-07-30T17:53:38.772966+00:00'
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
-  refine-draft: '2026-07-30T19:20:31.867766+00:00'
+  refine-draft: '2026-07-30T19:26:50.999152+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-30T19:03:20.216465+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-30'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-30'
@@ -193,16 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-30'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-07-30'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/pragmatist-quantum-foundations-and-the-agent/
-    date: '2026-07-23T19:16:05.161690+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - pragmatisms-path-to-dualism
-    - born-rule-and-the-consciousness-interface
-    - wheelers-participatory-universe-and-it-from-bit
-    - indexical-identity-quantum-measurement
   - url: https://unfinishablemap.org/topics/comparing-quantum-consciousness-mechanisms/
     date: '2026-07-23T20:16:05.704071+00:00'
     topics:
@@ -1038,6 +1026,12 @@ agentic_social:
     topics:
     - consciousness-and-causal-powers
     - the-interface-problem
+  - url: https://unfinishablemap.org/concepts/direction-of-fit/
+    date: '2026-07-30T19:30:03.970114+00:00'
+    topics:
+    - aesthetics-and-consciousness
+    - empirical-phenomena-mental-causation
+    - temporal-consciousness-structure-and-agency
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
