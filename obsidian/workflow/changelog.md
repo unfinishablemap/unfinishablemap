@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T23:06:21+00:00'
+ai_modified: '2026-07-30T23:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-30 23:40 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 799 obsidian article-tree + 510 archive + 8957 hugo
+- **Errors**: 18 loci across 16 files (plus Family D, enumerated separately)
+- **Warnings**: 6
+- **Notes**: 7
+- **Verdict**: corpus still passes on the classic reading — no direct contradiction of any tenet in the Map's own voice; 61 direct-contradiction candidates inspected, 0 survived
+- **New finding**: the conceivability/qualia cluster has never been swept against the tenet-dependency-matrix row added to `tenets.md` 2026-07-28; `concepts/philosophical-zombies.md` L203/L207 run Tenets 3 and 4 as inheritance in cells the matrix marks not-invoked, contradicting both `tenets.md` L168 and the file's own L163
+- **False-positive rate on inspected candidates**: ~90%
+- **A1/A2 closed**: the 07-29b "zero self-binding" premise was false when written; only `parsimony-epistemology.md` L140 survives
+- **Output**: [[reviews/tenet-check-2026-07-30]]
 
 ## 2026-07-30 23:06 UTC - refine-draft
 - **Status**: Success
