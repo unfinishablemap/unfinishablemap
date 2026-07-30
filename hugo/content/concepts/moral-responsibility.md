@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-07-30 13:33:37+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: How agent causation grounds genuine moral desert. Agents originate 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 05:35:00+00:00
+last_deep_review: 2026-07-30 13:33:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Moral responsibility requires that agents deserve praise or blame for their acti
 
 Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything. These first two conditions correspond to the two families of incompatibilism—leeway (alternative possibilities) and [source](/concepts/source-versus-leeway-incompatibilism/) (ultimate origination); the Map's agent-causal account leans hardest on the second while wanting both.
 
-**Compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
+**Classical compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
 
 **Libertarianism** requires genuine indeterminism, but mere randomness doesn't help: random choices aren't free choices. The [trilemma of selection](/topics/trilemma-of-selection/) makes this exhaustive—determinism, randomness, or mental causation—and only the third preserves authorship sufficient for desert. This is where [agent causation](/concepts/agent-causation/) enters. The agent directly causes the action; the causation doesn't reduce to prior events. The regress of causes stops at the agent.
 
@@ -52,7 +52,7 @@ Moral responsibility requires control (could have done otherwise), sourcehood (t
 
 ### Genuine Sourcehood
 
-The agent is the ultimate source of the action. Prior factors influenced but didn't determine. The agent determined by exercising irreducible causal power—a primitive in this framework, analogous to how consciousness itself is primitive on the Map's dualist view. Critics reasonably object that "irreducible causal power" labels the phenomenon without explaining it. The Map accepts this cost: some explanations must bottom out in primitives, and if consciousness is genuinely irreducible, its causal efficacy may be another such primitive. This satisfies Robert Kane's sourcehood requirement: free agents must be "ultimate creators (or originators) and sustainers" of their choices. Desert becomes intelligible because the causal buck stops with the agent.
+The agent is the ultimate source of the action. Prior factors influenced but didn't determine. The agent determined by exercising irreducible causal power—a primitive in this framework, analogous to how consciousness itself is primitive on the Map's dualist view. Critics reasonably object that "irreducible causal power" labels the phenomenon without explaining it. The Map accepts this cost: some explanations must bottom out in primitives, and if consciousness is genuinely irreducible, its causal efficacy may be another such primitive. This satisfies Robert Kane's sourcehood requirement: free agents must be "ultimate creators (or originators) and sustainers" of their own ends or purposes. Desert becomes intelligible because the causal buck stops with the agent.
 
 ### The Luck Objection
 
@@ -144,7 +144,7 @@ Three responses: (1) Tegmark's original calculations are disputed—Hameroff's g
 
 **"We can't detect it empirically."** We can't detect consciousness empirically either, yet we're certain we're conscious. The evidence is phenomenological (experience of choice) and argumentative (failures of deterministic alternatives). [introspection](/concepts/introspection/) provides first-person access that tracks genuine features of mental life.
 
-**"Compatibilism is sufficient."** Perhaps. The framing has shifted in the catalogue's recent treatment: sophisticated reasons-responsive determinism (Frankfurt, Fischer-Ravizza, Wolf) does not rest on useful fictions but grounds desert in metaphysically substantive capacities—identification with effective higher-order desires, mechanism-level reasons-responsiveness, normative competence. The contrast is therefore irreducible-vs-derivative rather than metaphysical-vs-pragmatic: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. The [Compatibilist Symmetry Challenge](/concepts/compatibilist-symmetry-challenge/) develops this discipline systematically and is also worked at length in [the moral architecture apex](/apex/moral-architecture-of-consciousness/#the-compatibilist-symmetry-challenge): sophisticated compatibilism plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [dualism](/tenets/#dualism) and [bidirectional interaction](/tenets/#bidirectional-interaction)—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but the central uses of moral language do not require these stronger readings.
+**"Compatibilism is sufficient."** Perhaps. The framing has shifted in the catalogue's recent treatment: sophisticated compatibilism (Frankfurt, Fischer-Ravizza, Wolf) does not rest on useful fictions but grounds desert in metaphysically substantive capacities—identification with effective higher-order desires, mechanism-level reasons-responsiveness, normative competence. The contrast is therefore irreducible-vs-derivative rather than metaphysical-vs-pragmatic: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. The [Compatibilist Symmetry Challenge](/concepts/compatibilist-symmetry-challenge/) develops this discipline systematically and is also worked at length in [the moral architecture apex](/apex/moral-architecture-of-consciousness/#the-compatibilist-symmetry-challenge): sophisticated compatibilism plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [dualism](/tenets/#dualism) and [bidirectional interaction](/tenets/#bidirectional-interaction)—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but the central uses of moral language do not require these stronger readings.
 
 **"Buddhist ethics shows responsibility without selfhood."** [Buddhism](/concepts/buddhism-and-dualism/) rejects *permanent* self, not moment-to-moment continuity. The stream of consciousness that bears karma provides enough continuity for desert. Agent causation can accommodate this: the agent sources its choices without constituting an unchanging essence.
 

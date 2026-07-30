@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-07-30T13:33:37+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-07-11T05:35:00+00:00
+last_deep_review: 2026-07-30T13:33:37+00:00
 ---
 
 Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [[agent-causation|agent causation]]—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action: when they truly author their choices—as initiators of causal sequences rather than links in a deterministic chain—blame and praise track genuine facts about who caused what, making moral responsibility metaphysically robust rather than a useful fiction.
@@ -42,7 +42,7 @@ Moral responsibility requires that agents deserve praise or blame for their acti
 
 Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything. These first two conditions correspond to the two families of incompatibilism—leeway (alternative possibilities) and [[source-versus-leeway-incompatibilism|source]] (ultimate origination); the Map's agent-causal account leans hardest on the second while wanting both.
 
-**Compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
+**Classical compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
 
 **Libertarianism** requires genuine indeterminism, but mere randomness doesn't help: random choices aren't free choices. The [[trilemma-of-selection|trilemma of selection]] makes this exhaustive—determinism, randomness, or mental causation—and only the third preserves authorship sufficient for desert. This is where [[agent-causation|agent causation]] enters. The agent directly causes the action; the causation doesn't reduce to prior events. The regress of causes stops at the agent.
 
@@ -50,7 +50,7 @@ Moral responsibility requires control (could have done otherwise), sourcehood (t
 
 ### Genuine Sourcehood
 
-The agent is the ultimate source of the action. Prior factors influenced but didn't determine. The agent determined by exercising irreducible causal power—a primitive in this framework, analogous to how consciousness itself is primitive on the Map's dualist view. Critics reasonably object that "irreducible causal power" labels the phenomenon without explaining it. The Map accepts this cost: some explanations must bottom out in primitives, and if consciousness is genuinely irreducible, its causal efficacy may be another such primitive. This satisfies Robert Kane's sourcehood requirement: free agents must be "ultimate creators (or originators) and sustainers" of their choices. Desert becomes intelligible because the causal buck stops with the agent.
+The agent is the ultimate source of the action. Prior factors influenced but didn't determine. The agent determined by exercising irreducible causal power—a primitive in this framework, analogous to how consciousness itself is primitive on the Map's dualist view. Critics reasonably object that "irreducible causal power" labels the phenomenon without explaining it. The Map accepts this cost: some explanations must bottom out in primitives, and if consciousness is genuinely irreducible, its causal efficacy may be another such primitive. This satisfies Robert Kane's sourcehood requirement: free agents must be "ultimate creators (or originators) and sustainers" of their own ends or purposes. Desert becomes intelligible because the causal buck stops with the agent.
 
 ### The Luck Objection
 
@@ -142,7 +142,7 @@ Three responses: (1) Tegmark's original calculations are disputed—Hameroff's g
 
 **"We can't detect it empirically."** We can't detect consciousness empirically either, yet we're certain we're conscious. The evidence is phenomenological (experience of choice) and argumentative (failures of deterministic alternatives). [[introspection]] provides first-person access that tracks genuine features of mental life.
 
-**"Compatibilism is sufficient."** Perhaps. The framing has shifted in the catalogue's recent treatment: sophisticated reasons-responsive determinism (Frankfurt, Fischer-Ravizza, Wolf) does not rest on useful fictions but grounds desert in metaphysically substantive capacities—identification with effective higher-order desires, mechanism-level reasons-responsiveness, normative competence. The contrast is therefore irreducible-vs-derivative rather than metaphysical-vs-pragmatic: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] develops this discipline systematically and is also worked at length in [[apex/moral-architecture-of-consciousness#The Compatibilist Symmetry Challenge|the moral architecture apex]]: sophisticated compatibilism plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|bidirectional interaction]]—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but the central uses of moral language do not require these stronger readings.
+**"Compatibilism is sufficient."** Perhaps. The framing has shifted in the catalogue's recent treatment: sophisticated compatibilism (Frankfurt, Fischer-Ravizza, Wolf) does not rest on useful fictions but grounds desert in metaphysically substantive capacities—identification with effective higher-order desires, mechanism-level reasons-responsiveness, normative competence. The contrast is therefore irreducible-vs-derivative rather than metaphysical-vs-pragmatic: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] develops this discipline systematically and is also worked at length in [[apex/moral-architecture-of-consciousness#The Compatibilist Symmetry Challenge|the moral architecture apex]]: sophisticated compatibilism plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|bidirectional interaction]]—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but the central uses of moral language do not require these stronger readings.
 
 **"Buddhist ethics shows responsibility without selfhood."** [[buddhism-and-dualism|Buddhism]] rejects *permanent* self, not moment-to-moment continuity. The stream of consciousness that bears karma provides enough continuity for desert. Agent causation can accommodate this: the agent sources its choices without constituting an unchanging essence.
 
