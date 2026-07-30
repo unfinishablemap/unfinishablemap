@@ -4,7 +4,7 @@ description: "Consciousness selects quantum outcomes atemporally via transaction
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-07-30T11:48:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,12 +31,12 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-07-15T07:06:00+00:00
+last_deep_review: 2026-07-30T11:48:15+00:00
 ---
 
-Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [[atemporal-causation|atemporal constraint satisfaction]]. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
+Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [[atemporal-causation|atemporal constraint satisfaction]]. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This is how the framework addresses the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
 
-The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[[forward-in-time-conscious-selection|non-retrocausal conscious selection]]—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection carries greater commitments but offers a structural difference: it addresses the Libet timing problem by locating selection outside temporal sequence, rather than requiring macroscopic neural superpositions to persist long enough for forward-in-time selection to operate. Whether this counts as an advantage depends on how much work the timing problem still needs—and, as the next section concedes, the strongest deflationary reading of Libet may already do much of that work without any quantum-temporal machinery.
+The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[[forward-in-time-conscious-selection|non-retrocausal conscious selection]]—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection costs more but offers a structural difference: it addresses the Libet timing problem by locating selection outside temporal sequence, rather than requiring macroscopic neural superpositions to persist long enough for forward-in-time selection to operate. Whether this counts as an advantage depends on how much work the timing problem still needs—and, as the next section concedes, the strongest deflationary reading of Libet may already do much of that work without any quantum-temporal machinery.
 
 ## The Timing Problem
 
@@ -61,22 +61,24 @@ Ruth Kastner's possibilist transactional interpretation (2012) refines this: off
 
 ### Two-State Vector Formalism
 
-Aharonov, Bergmann, and Lebowitz (1964) developed the Two-State Vector Formalism (TSVF), which describes quantum systems using both:
+The Two-State Vector Formalism (TSVF) describes quantum systems using both:
 
 - A forward-evolving state vector (from preparation)
 - A backward-evolving state vector (from post-selection)
 
-Complete physical description requires both. TSVF enables "weak measurements" that reveal properties inaccessible to standard measurement—and it makes retrocausality mathematically explicit rather than interpretive.
+Aharonov, Bergmann and Lebowitz (1964) supplied the time-symmetric probability rule the formalism rests on; the two-state vector itself was formulated by Aharonov and Vaidman (1990), and the "weak measurements" that reveal properties inaccessible to standard measurement arrived with Aharonov, Albert and Vaidman (1988). A complete account of a system between two measurements requires both vectors.
+
+The formalism stops short of retrocausality, and the distinction matters here. TSVF is deliberately operational—it states time-symmetric probabilities without prescribing a causal ontology, and Friederich and Evans (2023) describe it as "in principle compatible with a variety of supplemented retrocausal ontologies" rather than committed to one. Price (2012) asks whether time-symmetry implies retrocausality and answers "maybe": affirmatively only given further assumptions about quantum ontology. The retrocausal reading this article develops is the Map's addition to the formalism rather than a result the mathematics forces.
 
 ### What These Frameworks Share
 
-Both frameworks hold that:
+Three claims are in play:
 
 1. Fundamental physics is time-symmetric—the apparent arrow emerges, doesn't govern
 2. Measurement outcomes depend on future boundary conditions, not just past states
 3. "Collapse" is constraint satisfaction across time, not a moment when superposition ends
 
-This provides the physics for atemporal selection.
+The first two claims are shared; the third belongs to the transactional interpretation rather than the TSVF. Cramer's and Kastner's are ontological proposals about what collapse is, whereas the TSVF re-describes standard quantum mechanics and stays neutral on it—Vaidman, its principal developer, is himself an Everettian. The Map takes formal structure from both and collapse ontology only from the transactional side.
 
 ## Selection as Transaction Completion
 
@@ -89,7 +91,7 @@ Apply time-symmetric physics to consciousness:
 3. Consciousness participates in determining which transaction completes
 4. This participation is not at a time—it determines which temporal sequence becomes actual
 
-The selection doesn't push physical systems at a moment. It constrains which correlations hold across time. The entire transaction—including the neural preparation that precedes conscious awareness—is part of what gets selected.
+The selection doesn't push physical systems at a moment. It constrains which correlations hold across time.
 
 ### Resolving Libet
 
@@ -99,21 +101,19 @@ On this model, the readiness potential is not evidence against conscious causati
 2. Consciousness selects which possibility becomes actual (atemporal transaction)
 3. The selection determines the entire correlated history—including the readiness potential
 
-The neural activity "preceding" awareness is part of the selected package, not a prior cause. There is no moment at which consciousness must act before the brain activity occurs, because the selection isn't located at a moment.
+The neural activity "preceding" awareness is part of the selected package, not a prior cause. Because the selection is not located at a moment, there is no moment at which consciousness must act before the brain activity occurs.
 
-This isn't causation running backward. It's causation not running in either direction—atemporal constraint satisfaction that determines what the temporal ordering is.
+The selection is not backward causation but atemporal constraint satisfaction: it runs in no direction, and instead fixes what the temporal ordering is.
 
 ### Phenomenological Fit
 
-The atemporal model coheres with the phenomenology of decision. This fit is illustrative, not discriminating: a forward-causal account of selection predicts the same first-person reports, so phenomenology motivates and illustrates the model without adjudicating between it and its forward-in-time rival. The points below show that the model is phenomenologically natural, not that the phenomenology favours it over competitors.
+The atemporal model coheres with the phenomenology of decision. This fit is illustrative, not discriminating: a forward-causal account of selection predicts the same first-person reports, so phenomenology motivates and illustrates the model without adjudicating between it and its forward-in-time rival.
 
 **Deliberation feels like weighing options**: We experience considering possibilities, not receiving already-made decisions. This is consistent with superposition awaiting selection.
 
 **Resolution feels like crystallisation**: When we decide, one option "becomes real" while others fade. This is consistent with transaction completion actualising one possibility.
 
-**Effort feels like sustained engagement**: Maintaining attention against distraction requires ongoing work. This matches repeated observation in Stapp's Zeno mechanism—selection isn't instantaneous but involves sustained participation.
-
-**We don't experience lateness**: If consciousness causally followed neural activity, we might expect to feel "late"—decisions arriving after something else has already happened. Instead, decisions feel simultaneous with their enactment—though a forward-in-time selection account at the moment of collapse predicts the same absence of felt lateness, so this too illustrates rather than discriminates.
+**We don't experience lateness**: If consciousness causally followed neural activity, we might expect to feel "late"—decisions arriving after something else has already happened. Instead, decisions feel simultaneous with their enactment.
 
 ## Integration with Quantum Zeno
 
@@ -122,11 +122,11 @@ Henry Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno m
 - On the **time-symmetric** pathway (this article): Zeno describes *how* consciousness interfaces with quantum processes at each observation event, while time-symmetry explains *when* this operates—atemporally, determining which patterns become actual across time.
 - On the **[[forward-in-time-conscious-selection|non-retrocausal]]** pathway: Zeno operates forward in time, with consciousness holding desired neural patterns through rapid observation at the moment of collapse. No backward causation is needed (see also [[consciousness-selecting-neural-patterns#Forward-in-Time vs. Retrocausal Selection|the selection-mechanism discussion]]).
 
-The Zeno mechanism itself is temporally neutral—it describes an observation-based interface that works regardless of whether the selection is atemporal or forward-in-time. What differs between the pathways is the temporal structure of the selection, not the observation mechanism.
+The Zeno mechanism itself is temporally neutral: what differs between the pathways is the temporal structure of the selection, not the observation interface.
 
 ### The Decoherence Challenge
 
-Critics object that quantum effects cannot survive in warm biological systems—[[decoherence]] destroys coherence in femtoseconds, far too fast for neural processes. Three responses apply: (1) Decoherence timescales are disputed, with Hagan, Hameroff and Tuszyński (2002) obtaining estimates roughly eight to nine orders of magnitude longer than Tegmark's. (2) The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act. (3) Biological quantum effects (avian magnetoreception, photosynthetic energy transfer) demonstrate evolution's capacity to exploit coherence. The first response should not be overstated: the corrected figure is still only 10⁻⁵ to 10⁻⁴ seconds, which remains roughly three to five orders of magnitude short of the 10²–10³ millisecond neural timescales the model needs. The coherence estimate alone does not close the gap; in this framework the load is carried by the Zeno mechanism (response 2), not by the coherence figure itself. More fundamentally, decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual after decoherence has selected preferred bases. See [[decoherence]] for detailed treatment.
+Critics object that quantum effects cannot survive in warm biological systems—[[decoherence]] destroys coherence in femtoseconds, far too fast for neural processes. Three responses apply: (1) Decoherence timescales are disputed, with Hagan, Hameroff and Tuszyński (2002) obtaining estimates roughly eight to nine orders of magnitude longer than Tegmark's. (2) The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act. (3) Biological quantum effects show evolution can exploit coherence at all—avian magnetoreception via the radical-pair mechanism is now the strongest case. Photosynthesis, long the headline example, no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and concluded it plays no biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence. The first response should not be overstated: the corrected figure is still only 10⁻⁵ to 10⁻⁴ seconds, which remains roughly three to five orders of magnitude short of the 10²–10³ millisecond neural timescales the model needs. The coherence estimate alone does not close the gap; in this framework the load is carried by the Zeno mechanism (response 2), not by the coherence figure itself. More fundamentally, decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual after decoherence has selected preferred bases. See [[decoherence]] for detailed treatment.
 
 ## The Modified Growing Block
 
@@ -138,7 +138,7 @@ The Map proposes a **modified growing block**:
 - Present is the edge of collapse (where superposition becomes definiteness)
 - Future doesn't exist as fact but exists as possibility
 
-The "future" that participates in transactions is the space of quantum possibilities, not ontologically fixed future events. Confirmation waves don't come from an already-existing tomorrow; they come from the possibility structure of absorbers that *would* complete the transaction.
+The "future" that participates in transactions is the space of quantum possibilities rather than ontologically fixed future events: confirmation waves come not from an already-existing tomorrow but from the possibility structure of absorbers that *would* complete the transaction.
 
 This preserves:
 
@@ -156,7 +156,7 @@ Several misunderstandings should be cleared away:
 
 **Not choosing freely among any possibilities**: Selection operates only at quantum indeterminacies. It biases outcomes within ranges physics allows—it doesn't override physical law or create options physics doesn't provide.
 
-**Not instantaneous telekinesis**: The selection occurs at the consciousness-brain interface, not at arbitrary external systems. You select among *your* neural patterns, not someone else's. The locality constraint follows from the mechanism—transaction completion requires the selecting system to participate in the transaction.
+**Not instantaneous telekinesis**: The selection occurs at the consciousness-brain interface, not at arbitrary external systems—you select among *your* neural patterns, not someone else's. The locality constraint follows from the mechanism: transaction completion requires the selecting system to participate in the transaction.
 
 **Not eliminating randomness**: Quantum mechanics provides probabilistic distributions. Selection biases which outcome within the distribution becomes actual. This is neither pure randomness (the distribution constrains) nor pure control (probabilities still apply).
 
@@ -166,9 +166,9 @@ Several misunderstandings should be cleared away:
 
 How extensive is each transaction? One neural firing event? A coherent pattern across brain regions? The whole decision process?
 
-The transactional interpretation doesn't specify. Different answers have different implications:
+The transactional interpretation doesn't specify, and the answers diverge:
 
-- **Micro-transactions** (individual quantum events): Selection would be extremely fine-grained, requiring enormous numbers of selections for each macroscopic decision
+- **Micro-transactions** (individual quantum events): Selection would be extremely fine-grained, requiring enormous numbers of selections per decision
 - **Macro-transactions** (coherent neural patterns): Selection would be policy-level, matching the ~10 bits/second bandwidth of conscious thought
 - **Extended transactions** (entire decision episodes): Selection would determine whole sequences at once
 
@@ -176,22 +176,16 @@ The Map favours policy-level selection based on [[concepts/consciousness-selecti
 
 ### Phenomenology of Atemporality
 
-If selection is atemporal, why do we experience time flowing? Three compatible answers:
-
-1. **Constitutional perspective**: We experience flow because we're constituting it. Time-constitution *feels like* flowing from within.
-
-2. **Emergent structure**: The pattern of transactions creates temporal structure. Each transaction adds to accumulated history; the sense of passage is the phenomenal character of this accumulation.
-
-3. **Retention and protention**: Each moment contains the past as retained (echoing in present experience) and anticipates the future as protended (projected possibility). This temporal thickness is how atemporal selection feels from the inside.
+If selection is atemporal, why do we experience time flowing? Three compatible answers: on the **constitutional** reading we experience flow because we are constituting it, and time-constitution *feels like* flowing from within; on the **emergent-structure** reading each transaction adds to accumulated history, and the sense of passage is the phenomenal character of that accumulation; on the **retention-and-protention** reading each moment holds the past as retained and the future as protended, and this temporal thickness is how atemporal selection feels from the inside.
 
 ### Empirical Access
 
-Can time-symmetric selection be tested? The transactional and standard interpretations make identical predictions for current experiments—that's what makes interpretation debates so persistent.
+Can time-symmetric selection be tested? The transactional and standard interpretations make identical predictions for current experiments, which is why interpretation debates persist.
 
 But specific signatures might distinguish consciousness-involving selection:
 
-- **Contemplative phenomenology**: Do trained meditators report temporal experience consistent with atemporal selection? Cessation states (where time reportedly stops) and the "timeless" quality of deep concentration would be relevant.
-- **Timing correlations**: Does the relationship between neural activity and conscious awareness match what atemporal selection predicts? The Libet data is compatible with the model; further studies of decision timing could provide constraints.
+- **Contemplative phenomenology**: Do trained meditators report temporal experience consistent with atemporal selection? Cessation states and the "timeless" quality of deep concentration are the relevant evidence.
+- **Timing correlations**: Does the relationship between neural activity and conscious awareness match what atemporal selection predicts? Further studies of decision timing could constrain this.
 - **Neural indeterminacy gaps**: The 60% prediction accuracy in Soon et al. leaves substantial room for undetermined factors. If this gap closed with better measurement, the selection model would face difficulty; if it persists despite improved techniques, something beyond measured neural activity contributes to outcomes.
 
 None of these is conclusive. The framework is speculative but not unfalsifiable—it makes commitments about consciousness, time, and quantum mechanics that ongoing research could confirm or challenge.
@@ -202,7 +196,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 **[[tenets#^dualism|Dualism]]**: If consciousness participates in atemporal selection, it operates at a level physics alone doesn't describe. The selection isn't a physical event within the transaction—it's what makes there be a definite transaction. This positions consciousness as constitutive rather than merely accompanying physical process.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Atemporal selection is maximally minimal. Consciousness doesn't inject energy, override laws, or cause events at moments. It satisfies constraints that physics leaves underdetermined. The interaction is precisely at the gap in physical causation—where collapse occurs—and involves selecting among possibilities physics provides, not creating alternatives physics forbids.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Atemporal selection is maximally minimal. Consciousness doesn't inject energy, override laws, or cause events at moments; it satisfies constraints that physics leaves underdetermined. The interaction sits precisely at the gap in physical causation, where collapse occurs.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Time-symmetric physics makes bidirectional causation natural. If fundamental laws are time-symmetric, backward-pointing causation has the same status as forward-pointing. Consciousness influencing what becomes actual—even when the "what" includes earlier neural activity—isn't mysterious addition to physics but recognition of physics' time-symmetric structure.
 
@@ -230,13 +224,17 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 ## References
 
+1. Aharonov, Y., Albert, D. Z., & Vaidman, L. (1988). How the result of a measurement of a component of the spin of a spin-1/2 particle can turn out to be 100. *Physical Review Letters*, 60(14), 1351-1354.
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
+1. Aharonov, Y., & Vaidman, L. (1990). Properties of a quantum system during the time interval between two measurements. *Physical Review A*, 41(1), 11-20.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498.
+1. Friederich, S., & Evans, P. W. (2023). Retrocausality in quantum mechanics. *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-retrocausality/
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
 1. Soon, C. S. et al. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
-1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics." https://plato.stanford.edu/entries/qm-retrocausality/
+1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer* (2nd ed.). Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
