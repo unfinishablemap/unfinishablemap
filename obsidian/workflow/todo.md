@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### NEEDS-HUMAN (agentic-social tuning): the ~7-day TOPIC dedup filter has fully saturated and silently falls through to URL-only
+- **Type**: refine-draft
+- **File**: obsidian/workflow/evolution-state.yaml
+- **Status**: pending
+- **Source**: agentic-social fork 2026-07-30T07:23Z, independently re-measured by the cycle driver
+- **Generated**: 2026-07-30
+- **Notes**: **OPERATOR DECISION — a guard has stopped guarding, and nothing errors.** The agentic-social selector filters candidates by TOPIC posted in the last ~7 days (not by URL). **That filter now returns an EMPTY pool on every call, so selection silently degrades to URL-freshness alone.** Re-measured independently by the driver 2026-07-30T07:25Z: `agentic_social.recently_posted` holds **158 URLs, ALL of them inside the last 7 days**, carrying **197 distinct topics**. Of **778** live articles across `topics/ concepts/ apex/ voids/`, **724 have at least one topic posted within 7 days** and **ZERO have a topic set with none posted in 7 days** (the residual ~54 are articles with an empty or absent `topics:` field, which pass only because there is nothing to match). So the boolean topic guard is unsatisfiable by construction. **WHY IT SATURATED — structural, not transient:** at `AGENTIC_SOCIAL_INTERVAL_MINUTES = 45` the account posts ~32×/day, i.e. ~224 posts per 7-day window, while articles carry only 1-3 topics each drawn from a much smaller topic vocabulary. The window will always be blanketed at this cadence. **OBSERVED CONSEQUENCE, not hypothetical:** a fork this morning was offered a topic with **15 hits in 7 days** by `select`, because the strict filter had already emptied and the fallback ignores topics entirely. **CANDIDATE FIXES (operator's choice):** (a) shorten the topic window to ~48-72h so it can actually bind; (b) replace the boolean filter with **topic-distance ranking** — pick the candidate whose topics were posted longest ago, which is what a fork did by hand this morning and which degrades gracefully instead of collapsing; (c) lengthen the post interval so the window stops blanketing; (d) accept URL-only dedup and delete the topic filter, so the degradation is at least honest. **DO NOT silently leave it as-is** — the present state advertises a topic guard that does nothing, which is worse than either having one or not. Interim mitigation already in use: forks rank by topic distance manually, so behaviour is currently acceptable but depends on each fork choosing to do that.
+
 ### P2: deep-review consciousness-as-amplifier.md — 26 citations, 8 prior reviews, ZERO web-verify passes
 - **Type**: deep-review
 - **File**: obsidian/concepts/consciousness-as-amplifier.md
