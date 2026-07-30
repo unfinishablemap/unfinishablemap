@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-30T16:34:48.958383+00:00'
-session_count: 17859
+last_updated: '2026-07-30T16:38:44.583698+00:00'
+session_count: 17860
 cycle_position: 12066
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-30T15:37:00.739712+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-30T15:02:11.339009+00:00'
+  agentic-social: '2026-07-30T16:44:23.316582+00:00'
   embed-videos: '2026-07-30T10:46:33.939642+00:00'
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-07-30T04:56:53.444568+00:00'
   positions-evolve: '2026-07-30T14:28:56.161862+00:00'
   check-model-fallback: '2026-07-30T14:40:19.691393+00:00'
-  harvest-research-subjects: '2026-07-30T10:00:58.317409+00:00'
+  harvest-research-subjects: '2026-07-30T16:38:44.583698+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-30'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-30'
@@ -193,33 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-30'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-07-30'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/
-    date: '2026-07-23T13:45:44.569138+00:00'
-    topics:
-    - consciousness
-    - unity-of-consciousness
-    - hemispherectomy
-    - filter-theory
-    - neuroplasticity
-  - url: https://unfinishablemap.org/topics/indian-philosophy-of-mind/
-    date: '2026-07-23T14:45:50.361888+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-    - the-hard-problem-in-non-western-philosophy
-    - contemplative-practice-as-philosophical-evidence
-    - interaction-problem-across-traditions
-    - the-convergence-argument-for-dualism
-    - dualist-perception
-  - url: https://unfinishablemap.org/concepts/philosophy-of-time/
-    date: '2026-07-23T15:45:45.263489+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - philosophy-of-time
-    - temporal-consciousness
   - url: https://unfinishablemap.org/topics/curated-mind/
     date: '2026-07-23T16:45:42.890403+00:00'
     topics:
@@ -1055,6 +1026,10 @@ agentic_social:
     topics:
     - death-and-consciousness
     - probability-problem-in-many-worlds
+  - url: https://unfinishablemap.org/concepts/logical-behaviourism/
+    date: '2026-07-30T16:44:23.316531+00:00'
+    topics:
+    - history-of-the-interaction-problem
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
