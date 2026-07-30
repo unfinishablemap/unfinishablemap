@@ -4,6 +4,7 @@ created: 2026-06-19
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
+ai_modified: 2026-07-30T05:46:00+00:00
 ---
 
 # Research: Open Individualism and the De-Combination Problem
@@ -114,7 +115,7 @@ All verified at publisher of record, PhilPapers, or SEP on 2026-06-19. Metadata 
 1. Kolak, D. (2004). *I Am You: The Metaphysical Foundations for Global Ethics*. Springer (Synthese Library, vol. 325). ISBN 9781402029998. [VERIFIED — Springer/Synthese Library]
 2. Zuboff, A. (1990). "One Self: The Logic of Experience." *Inquiry*, 33(1), 39-68. [VERIFIED — *Inquiry*; PDF at gwern.net mirror]
 3. Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 137-154. DOI 10.1111/rati.12166. [VERIFIED — Wiley + PhilPapers; full text paywalled]
-4. Miller, G. "The Decombination Problem for Cosmopsychism is not the Heterogeneity Problem for Priority Monism." [PhilArchive listing found; venue/year NOT fully verified — do not cite without confirming publication details]
+4. Miller, G. (2021). "The Decombination Problem for Cosmopsychism is not the Heterogeneity Problem for Priority Monism." *Journal of Consciousness Studies*, 28(3-4), 112 ff. [VENUE/YEAR RESOLVED 2026-07-30 — publisher of record: Imprint Academic's own table of contents for JCS vol. 28, March/April 2021 lists this exact title by Gregory Miller opening at p. 112. Issue is 3-4: Imprint's page slug reads "no-2-4", but its vol. 28 series runs 1-2, 3-4, 5-6, 7-8, 9-10, 11-12 (and the No. 9-10 slug is likewise mistyped "9-19"), while Ingenta's issue key `f0020003` matches the pattern that yields 9-10 from `f0020009`; PhilPapers independently gives 28(3-4). END PAGE STILL UNRESOLVED — PhilPapers gives 112-115, but the publisher TOC's next entry opens at p. 126, and the paper is absent from Crossref, so no publisher-level end page exists to cite. Cite the opening page only; do not assert a range.]
 5. Chalmers, D. J. (2017). "The Combination Problem for Panpsychism." In G. Brüntrup & L. Jaskolla (eds.), *Panpsychism: Contemporary Perspectives*, pp. 179-214. Oxford University Press. [VERIFIED — names the "decomposition problem"; also at consc.net/papers/combination.pdf]
 6. Shani, I. (2015). "Cosmopsychism: A Holistic Approach to the Metaphysics of Experience." *Philosophical Papers*, 44(3), 389-437. DOI 10.1080/05568641.2015.1106709. [VERIFIED — Taylor & Francis]
 7. Shani, I., & Keppler, J. (2018). "Beyond Combination: How Cosmic Consciousness Grounds Ordinary Experience." *Journal of the American Philosophical Association*, 4(3), 390-410. DOI 10.1017/apa.2018.30. [VERIFIED — Cambridge Core. NOTE: this is Shani & Keppler 2018, JAPA — distinct from Shani 2015.]
