@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-30T09:59:03.239091+00:00'
-session_count: 17826
+last_updated: '2026-07-30T10:00:58.317409+00:00'
+session_count: 17827
 cycle_position: 12045
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-30T06:56:18.781586+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-29T16:55:54.098339+00:00'
-  agentic-social: '2026-07-30T07:25:51.690703+00:00'
+  agentic-social: '2026-07-30T10:12:13.965205+00:00'
   embed-videos: '2026-07-29T23:38:27.517845+00:00'
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-07-30T04:56:53.444568+00:00'
   positions-evolve: '2026-07-29T15:35:51.810555+00:00'
   check-model-fallback: '2026-07-30T06:24:57.287732+00:00'
-  harvest-research-subjects: '2026-07-30T03:33:53.663567+00:00'
+  harvest-research-subjects: '2026-07-30T10:00:58.317409+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-07-30'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-07-30'
@@ -193,14 +185,12 @@ recent_tasks:
   type: add-highlight
   date: '2026-07-30'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-07-30'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/history-of-the-interaction-problem/
-    date: '2026-07-23T08:45:48.022096+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - the-hard-problem-in-non-western-philosophy
   - url: https://unfinishablemap.org/concepts/luck-objection/
     date: '2026-07-23T10:15:45.113254+00:00'
     topics:
@@ -1054,6 +1044,12 @@ agentic_social:
     - the-convergence-argument-for-dualism
     - the-binding-problem
     - apex/taxonomy-of-voids
+  - url: https://unfinishablemap.org/concepts/reinforcement-learning-reward-signals-and-machine-valence/
+    date: '2026-07-30T10:12:13.965139+00:00'
+    topics:
+    - valence-and-conscious-selection
+    - wanting-liking-and-the-value-in-mechanism-fork
+    - ethics-of-possible-ai-consciousness
 tune_system_history:
   last_run: '2026-07-29T01:28:33.680176+00:00'
   changes_applied:
