@@ -4,7 +4,7 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-29T23:31:59+00:00
+ai_modified: 2026-07-31T13:59:05+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[consciousness-value-connection]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[reasons-responsiveness]]"
+  - "[[compatibilist-symmetry-challenge]]"
   - "[[attentional-economics]]"
 related_articles:
   - "[[tenets]]"
@@ -112,7 +113,7 @@ Conversely, institutions that cultivate moral reasoning—education, deliberativ
 
 ## The Compatibilist Symmetry Challenge
 
-A serious objection runs throughout the foregoing: if sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as libertarian agent causation, what additional moral work is the Map's metaphysics doing? The pessimistic answer, in moral theory considered alone, may be: little. The obligation-intelligibility argument runs equivalently if "live options" are interpreted as the deliberatively-salient alternatives a reasons-responsive mechanism settles among; the authorship argument runs equivalently if "authorship" is interpreted as identification with one's effective higher-order desires; the moral-luck repositioning runs equivalently if causal luck is interpreted as the contingency of how reasons-responsive mechanisms unfold.
+A serious objection—the [[compatibilist-symmetry-challenge|compatibilist symmetry challenge]]—runs throughout the foregoing: if sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as libertarian agent causation, what additional moral work is the Map's metaphysics doing? The pessimistic answer, in moral theory considered alone, may be: little. The obligation-intelligibility argument runs equivalently if "live options" are interpreted as the deliberatively-salient alternatives a reasons-responsive mechanism settles among; the authorship argument runs equivalently if "authorship" is interpreted as identification with one's effective higher-order desires; the moral-luck repositioning runs equivalently if causal luck is interpreted as the contingency of how reasons-responsive mechanisms unfold.
 
 The honest position is that the moral implications explored here are *availably grounded* on either metaphysics. The Map's libertarian framing is distinguished not by unique moral explanatory power but by tenet-coherence: it fits the [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|bidirectional interaction]] tenets, which the Map adopts on grounds beyond moral theory (phenomenal consciousness, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position.
 
@@ -156,6 +157,7 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 - [[diachronic-agency-and-personal-narrative]]
 - [[attentional-economics]]
 - [[responsibility-gradient-from-attentional-capacity]]
+- [[compatibilist-symmetry-challenge]] — The canonical treatment: why the libertarian framing buys tenet-coherence rather than unique moral leverage
 - [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Whether responsibility needs alternatives at all, and what the Map's fallback from leeway to sourcehood costs
 - [[reactive-attitudes-and-strawsonian-responsibility]] — The strongest non-metaphysical rival: blame grounded in the reactive attitudes, and why the Map's resistance is a framework boundary rather than a refutation
 - [[ai-moral-agency-and-the-responsibility-gap-under-dualism]] — What follows for machine blame: why the culpability gap is real on the Map's framework when a system lacks the conscious interface

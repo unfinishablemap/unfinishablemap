@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T13:45:38+00:00'
+ai_modified: '2026-07-31T13:59:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 13:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/moral-implications-of-genuine-agency]]
+- **Original score**: n/a — `scripts/curate.py` does not exist in this tree, so the skill's step-3 review tool is unrunnable. This was a bounded outbound-link fix with a driver-verified premise and a hard length budget, not an open-ended quality pass.
+- **Defect**: the article referenced the compatibilist symmetry challenge **7 times** in body prose (L37, L47, L55, L97, L129, L137, L143) exclusively via its own in-file anchor `(#the-compatibilist-symmetry-challenge)`, and offered **no route at all** to the standalone `concepts/compatibilist-symmetry-challenge.md`, which exists and is the canonical treatment. The hub was less connected than the spoke it feeds.
+- **Premise re-verified before editing**: `grep -c '\[\[.*compatibilist-symmetry-challenge'` returns **5**, which looks like the link is present — it is a **greedy-`.*` artifact**. Those 5 lines contain unrelated wikilinks (`[[tenets#^dualism|...]]`, `[[reasons-responsiveness]]`) *earlier on the line* than the anchor text, so `.*` bridges from an unrelated `[[` to the anchor's slug substring. The anchored form `\[\[\(concepts/\)\?compatibilist-symmetry-challenge` returns **zero**. Both the bare-slug corpus grep flagged in the task notes and this greedy-count are substring artifacts of the same anchor; the defect is real and the correct test is the anchored one.
+- **Changes (3 loci, house pattern copied from [[topics/reactive-attitudes-and-strawsonian-responsibility]], which does all three)**: (1) frontmatter `concepts:` entry `"[[compatibilist-symmetry-challenge]]"` — zero body words; (2) L116 in-text piped wikilink, converting the section's opening clause from "A serious objection runs throughout the foregoing:" to "A serious objection—the [[compatibilist-symmetry-challenge|compatibilist symmetry challenge]]—runs throughout the foregoing:", placing the outbound route at the point every one of the 7 anchors lands; (3) Further Reading line with a dash-description, heading the symmetry cluster ahead of the Frankfurt-cases and Strawson entries.
+- **Length**: 3868 → **3887 words** against the `topics` hard ceiling of 4000 (**113 words headroom**, was 132). +19 words. No condense pass opened, no subsection added, per the dispatch constraint.
+- **Anchors preserved**: all 7 in-file `(#the-compatibilist-symmetry-challenge)` anchors retained. They serve intra-document navigation and were never the defect — the defect was the absence of an outbound route, not the presence of anchors.
+- **Sibling claim corrected at dispatch, not re-litigated**: only `reactive-attitudes-and-strawsonian-responsibility` links the concept (3 refs); `frankfurt-cases-and-the-principle-of-alternate-possibilities` has zero **and never mentions the symmetry challenge**, so it is not an under-linking case and was correctly left alone — adding a link to a concept an article does not discuss would be worse than the gap. The "hub less connected than its spokes" framing holds against one spoke, not two.
+- **Engagement classification (editor-internal, verified not modified)**: the named-opponent replies here are **Mode Three — framework-boundary marking**, and are already honest on their own terms. L117 states compatibilists "occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position"; L121 books the Strawson engagement as a framework-boundary disagreement carrying no evidence "that Strawson is wrong or that dualism is right"; L67 records the Madhyamika disagreement as symmetric rather than asymmetric. No boundary-substitution present, no remediation required, no editor-vocabulary leakage in the body. Untouched.
+- **Not touched**: the L47 compatibilist grant and the L55 libertarian-sense marker (both grep-verified intact post-edit), the two links added at 23:31Z, and `apex/moral-architecture-of-consciousness.md` (operator hold on its L60/L156 in the NEEDS-HUMAN apex-ledger entry). `git status` confirms no apex file modified.
+- **Attribution**: adding a link is not re-authoring. Held the existing `ai_system: claude-opus-4-6` — **no model appended**. `last_deep_review` untouched. `ai_modified` bumped from a live `date -u` to `2026-07-31T13:59:05+00:00` and **verified strictly in the past by epoch comparison (16s delta), seconds not rounded up**.
+- **Published**: yes
 
 ## 2026-07-31 13:45 UTC - refine-draft
 - **Status**: Success
