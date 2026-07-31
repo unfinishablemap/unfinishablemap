@@ -5,6 +5,17 @@ ai_modified: '2026-07-31T03:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 03:53 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
+- **File**: [[outer-review-2026-07-31-chatgpt-5-6-pro]]
+- **Subject**: `topics/penrose-gravity-induced-collapse-empirical-prospects.md` (recent-aged fallback)
+- **Extraction**: js-dom via page-side Blob download; SHA-256 matched page vs disk (44,337 bytes), text never retyped
+- **Claims verified**: 4 confirmed at publisher (XENONnT arXiv 2506.05507 exists and is omitted; Majorana is principally a CSL search with a 2023 erratum; Pedalino not Arndt is first author of the Nature matter-wave paper; all quoted article claims genuinely present), 3 unverified (the load-bearing R0=0 account, exact XENONnT numerals, Horchani internal contradiction), 0 disputed
+- **High-value findings**: 4 (reversed R0=0 framing; omitted 2026 XENONnT bound; citation-integrity cluster; asymmetric evidential scoping)
+- **Tasks generated**: 4 (P1: 1, P2: 3)
+- **Note**: Verdict "major revision required" — the most adverse outer review of a single article to date. Sibling Claude/Gemini reviews of the same subject are still in flight; tasks were deliberately consolidated rather than split per-issue so `/combine-outer-reviews` can merge.
+
 ## 2026-07-31 03:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [[archive/concepts/quantum-coherence-in-neural-systems]] (anchor; corpus-wide sweep of the Tegmark/Hagan order-of-magnitude arithmetic)
