@@ -4,7 +4,7 @@ description: "If phenomenal qualities are real features of reality, the badness 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-06-02T13:08:35+00:00
+ai_modified: 2026-07-31T15:02:14+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[consciousness-value-connection]]"
   - "[[qualia]]"
   - "[[evaluative-phenomenal-character]]"
+  - "[[mind-arena]]"
   - "[[haecceity]]"
   - "[[illusionism]]"
   - "[[introspection]]"
@@ -117,7 +118,7 @@ The case for objective experiential alignment criteria draws on all five of the 
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** explains why the field has not already adopted objective experiential criteria. Preferentism is simpler: observable choices, computable utilities, scalable optimisation. Objective experiential alignment is harder: first-person access, multi-dimensional targets, triangulated measurement. But the history of science shows that the simpler framework is sometimes wrong. If experiential quality is genuinely objective, then the complexity of accessing it is a feature of the domain, not a reason to substitute an easier but incorrect target.
 
-The argument here is the **target-side** of dualism's relevance to alignment. The complementary **threat-model side** is developed in [[dualism-as-ai-risk-mitigation]]: under interactionist dualism plus bidirectional interaction, consequence-distributions of mind-arena perturbations are uncomputable rather than merely intractable, which weakens the expected-utility apparatus driving the standard AI-takeover argument. Dualism is alignment-load-bearing from both directions — it specifies *what* to align to (objective experiential qualities) and reshapes *which risks* the alignment must guard against (mind-arena consequences cannot be computed, so cannot be safely traded against other utility).
+The argument here is the **target-side** of dualism's relevance to alignment. The complementary **threat-model side** is developed in [[dualism-as-ai-risk-mitigation]]: under interactionist dualism plus bidirectional interaction, consequence-distributions of [[mind-arena]] perturbations are uncomputable rather than merely intractable, which weakens the expected-utility apparatus driving the standard AI-takeover argument. Dualism is alignment-load-bearing from both directions — it specifies *what* to align to (objective experiential qualities) and reshapes *which risks* the alignment must guard against (mind-arena consequences cannot be computed, so cannot be safely traded against other utility).
 
 ## What Would Challenge This View?
 
