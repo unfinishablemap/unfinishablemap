@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-07-31 09:48:59+00:00
+ai_modified: 2026-07-31 10:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -155,7 +155,7 @@ Delegatory dualism predicts exactly this: psychophysical laws (Subset Law*) ensu
 
 ### Testability and Limitations
 
-Delegatory dualism is designed to satisfy Observational Closure—no observable violations of physical causal patterns. This means the theory deliberately avoids producing lab-detectable anomalies. Saad acknowledges this creates limited discriminability: the view is "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism when it comes to empirical tests. The theory is, in this respect, empirically equivalent to its rivals: the available evidence does not adjudicate between delegation and the alternatives, because all of them predict the same observable causal patterns.
+Delegatory dualism is designed to satisfy Observational Closure—no observable violations of physical causal patterns. This means the theory deliberately avoids producing lab-detectable anomalies. Saad acknowledges this creates limited discriminability: the view is "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism when it comes to empirical tests. He denies that the equivalence sinks the view—"the predictive equivalence of these theories is not a basis for sinking the boat or casting any of its passengers overboard"—which is fair as far as it goes, though it leaves the discriminability problem in place. The theory is, in this respect, empirically equivalent to its rivals: the available evidence does not adjudicate between delegation and the alternatives, because all of them predict the same observable causal patterns.
 
 The theory *would* be falsified by an observed violation of Closure—if an experiment detected a genuine anomaly where physical effects lacked sufficient physical causes. But Observational Closure is a *constitutive* constraint of the theory, precisely the constraint that ensures such violations don't occur at observable scales. So this is not an operative falsifier of delegatory dualism: a condition the theory's own defining constraint guarantees will never be met is not a live empirical test of *this* theory. At most it tests dualist interactionism in general against someone who denies even observational closure—and the constraint that makes the theory coherent is the same one that makes it empirically silent against its nearest competitors. This trade-off should be stated plainly rather than glossed.
 

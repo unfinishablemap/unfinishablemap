@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-04-15 16:06:00+00:00
+ai_modified: 2026-07-31 10:31:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Delegatory Causation
 archived: true
@@ -86,7 +86,7 @@ A key feature of causal delegation is its empirical invisibility—what Saad cal
 
 Saad distinguishes *universal* causal closure (every physical event has a sufficient physical cause—no exceptions) from *observational* closure (no observable violations of physical causal patterns). Delegation violates the former but respects the latter. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes a parallel claim: consciousness influences outcomes "without injecting energy or violating conservation laws" and produces no "empirically detectable" anomalies.
 
-This means delegation's case rests on philosophical argument rather than empirical prediction. The theory does not generate distinctive testable predictions—it is "in the same predictive boat" as epiphenomenalism and physicalism, as Saad acknowledges.
+This means delegation's case rests on philosophical argument rather than empirical prediction. The theory does not generate distinctive testable predictions—Saad places delegatory dualism "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism, while denying that the equivalence sinks it: "the predictive equivalence of these theories is not a basis for sinking the boat or casting any of its passengers overboard."
 
 ### The Epiphenomenalism Parallel
 
