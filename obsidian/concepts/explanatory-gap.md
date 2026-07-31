@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-29T22:45:59+00:00
+ai_modified: 2026-07-31T02:26:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -178,9 +178,7 @@ The explanatory gap provides direct support for the [[tenets#^dualism|Dualism]] 
 
 ### Minimal Quantum Interaction
 
-The gap shapes how we approach mind-matter interaction. We shouldn't expect to *see* how consciousness influences the physical, any more than we can see why C-fiber firing hurts. The connection may be real without being transparent to our understanding. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet posits such a connection: consciousness influences quantum outcomes, but not in a way that satisfies our desire for mechanistic understanding.
-
-If consciousness is non-physical, its connection to physical processes will itself be non-physical and therefore outside the scope of physical explanation. The gap argument predicts that mind-matter interaction will resist mechanical explanation—not because there's no connection, but because the connection involves what physics cannot capture.
+The gap also sets expectations for mind-matter interaction. We shouldn't expect to *see* how consciousness influences the physical, any more than we can see why C-fiber firing hurts. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet posits a connection real without being transparent—which the gap predicts rather than supports.
 
 ### Bidirectional Interaction
 
@@ -188,7 +186,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the gap through the measurement problem. Many-Worlds interpretations dissolve the measurement problem by denying that quantum outcomes are selected—all branches exist. But this trades one gap for another: why does *this* branch feel like the real one? The explanatory gap between physics and experience reappears as an explanatory gap between branch structure and indexical experience. Rejecting Many-Worlds means accepting genuine selection—which consciousness may perform, even if we cannot explain how.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the gap through the measurement problem. Many-Worlds interpretations dissolve the measurement problem by denying that quantum outcomes are selected—all branches exist. But this trades one gap for another: why does *this* branch feel like the real one? The explanatory gap between physics and experience reappears as an explanatory gap between branch structure and indexical experience. The connection is intra-framework coherence rather than support: determinate phenomenal facts are available branch-relatively, so branching leaves the gap untouched, and the Map's rejection of many-worlds rests instead on [[haecceity]] and indexical identity.
 
 ### Occam's Razor Has Limits
 

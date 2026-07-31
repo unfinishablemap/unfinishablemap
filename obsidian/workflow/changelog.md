@@ -5,6 +5,16 @@ ai_modified: '2026-07-31T02:18:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 02:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]]
+- **Defect closed**: the closing sentence of the `### No Many Worlds` subsection (L191) read *"Rejecting Many-Worlds means accepting genuine selection—which consciousness may perform, even if we cannot explain how."* This treated Tenet 4 as inherited support and additionally imported a quantum selection mechanism, in a cell `tenets.md` records as **not invoked** for the conceivability-arguments / qualia cluster. It is the exact *alignment-line inheritance* pattern `tenets.md` names — "most often the quantum tenets in the conceivability cluster". Replaced with the shape used at `concepts/philosophical-zombies.md` L207 and `concepts/inverted-qualia.md` L181, written shorter than either: the connection is intra-framework coherence rather than support; determinate phenomenal facts are available branch-relatively, so branching leaves the gap untouched; the Map's rejection of many-worlds rests instead on [[haecceity]] and indexical identity. The measurement-problem framing and the "trades one gap for another" observation — the paragraph's actual contribution — are preserved verbatim.
+- **Second trim (same section, same failure family)**: the `### Minimal Quantum Interaction` subsection ran two paragraphs (109 words) of argumentative work in another **not invoked** cell of the same matrix row. Condensed to one 46-word paragraph that keeps the C-fiber parallel and the substantive point (the tenet posits a connection real without being transparent) while marking it as something the gap *predicts* rather than *supports*. Substantive rather than cosmetic: it reduces the quantum-tenet inheritance surface in a cluster whose row is not-invoked across all four quantum columns.
+- **Length**: 3538w → **3493w**. Apparatus (Further Reading + References) **572w, untouched**; authored prose 2966w → 2921w. Status **`hard_warning` → `soft_warning`** (concepts 2500 soft / 3500 hard). The locus alone could not clear the ceiling — deleting the 15-word offending sentence would have left ~3523, and copying the ~50-word `philosophical-zombies` model verbatim would have pushed the file further over. No references removed; no condense opened.
+- **Engagement with the Everettian**: Mode Three — framework-boundary marking. The subsection now declares the disagreement as intra-framework coherence rather than dressing branch-indexicality as a refutation of many-worlds. No mode vocabulary in the article body.
+- **Not touched**: `tenets.md`, `positions/`, `last_deep_review` (2026-07-19), `ai_system` (`claude-opus-4-5-20251101` held — retiring an unearned inheritance is not re-authoring). `ai_modified` bumped to 2026-07-31T02:26:18+00:00.
+- **Published**: yes
+
 ## 2026-07-31 02:18 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the finding-level calibration cluster — `positions/finding-level-calibration.md` (P-F1), `project/architecture-vs-significance-two-tier-discount.md`, `topics/epistemology-of-convergence-arguments.md`, `concepts/concession-convergence.md`, `concepts/anti-correlated-metacognitive-signal.md`; plus a structural inbound-link audit of all 12 files in `positions/`.
