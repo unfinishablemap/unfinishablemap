@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-07-31T16:04:26+00:00
+ai_modified: 2026-07-31T16:21:17+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -68,7 +68,7 @@ Sentientism, far from licensing environmental destruction, generates demanding o
 
 ### The Scale of Animal Consciousness
 
-The [[animal-consciousness|scientific consensus]] on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed that non-human animals—including all mammals and birds, and many other creatures such as octopuses—possess the neurological substrates that generate consciousness. The New York Declaration on Animal Consciousness (2024) held that the empirical evidence indicates at least a realistic possibility of conscious experience in all vertebrates and in many invertebrates, naming cephalopod molluscs, decapod crustaceans and insects as its minimum list. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
+[[animal-consciousness|Scientific agreement]] on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed that non-human animals—including all mammals and birds, and many other creatures such as octopuses—possess the neurological substrates that generate consciousness. The New York Declaration on Animal Consciousness (2024) held that the empirical evidence indicates at least a realistic possibility of conscious experience in all vertebrates and in many invertebrates, naming cephalopod molluscs, decapod crustaceans and insects as its minimum list. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
 
 Destroying a wetland does far more than remove a "resource" for human recreation: it eliminates the habitat of millions of conscious beings whose experiences carry intrinsic normative weight. Each fish, bird, amphibian, and potentially each insect whose phenomenal experience includes [[valence|positive or negative valence]] has a stake in the ecosystem's survival—not because the ecosystem has value, but because their experiences do.
 

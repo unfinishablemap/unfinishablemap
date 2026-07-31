@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-07-16 10:23:29+00:00
+ai_modified: 2026-07-31 16:21:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -96,7 +96,7 @@ This finding has direct philosophical significance. If consciousness can persist
 
 ## Wider Developments
 
-Two broader trends in 2025 consciousness science deserve mention. First, a major review in *Frontiers in Science* noted a methodological shift toward studying the phenomenal character of experience rather than merely identifying neural correlates. The field is increasingly recognising that correlate-hunting, while empirically productive, does not address the [hard problem](/topics/hard-problem-of-consciousness/). Second, the same review found growing evidence that consciousness is far older and more widespread in the animal kingdom than previously assumed, with birds demonstrating subjective perception and basic self-awareness. The 2024 New York Declaration on Animal Consciousness reflected this expanding scientific consensus.
+Two broader trends in 2025 consciousness science deserve mention. First, a major review in *Frontiers in Science* noted a methodological shift toward studying the phenomenal character of experience rather than merely identifying neural correlates. The field is increasingly recognising that correlate-hunting, while empirically productive, does not address the [hard problem](/topics/hard-problem-of-consciousness/). Second, the same review found growing evidence that consciousness is far older and more widespread in the animal kingdom than previously assumed, with birds demonstrating subjective perception and basic self-awareness. The 2024 New York Declaration on Animal Consciousness reflected this growing agreement, though its own language—"a realistic possibility"—stops short of claiming settled consensus.
 
 A scoping review of psychedelic neuroscience, also published in 2025, found that psychedelics increase brain entropy and connectivity while dissolving the Default Mode Network—the neural basis of the self-model (see also [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)). The finding that consciousness persists and even intensifies while the self-model dissolves suggests that consciousness is more fundamental than any particular neural pattern. Ego dissolution under psilocybin is an empirical case where subjective experience continues despite the disruption of the neural structures that physicalist theories most often identify with the self.
 

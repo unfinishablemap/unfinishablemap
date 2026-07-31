@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-07-31 16:04:26+00:00
+ai_modified: 2026-07-31 16:21:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -71,7 +71,7 @@ Sentientism, far from licensing environmental destruction, generates demanding o
 
 ### The Scale of Animal Consciousness
 
-The [scientific consensus](/topics/animal-consciousness/) on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed that non-human animals—including all mammals and birds, and many other creatures such as octopuses—possess the neurological substrates that generate consciousness. The New York Declaration on Animal Consciousness (2024) held that the empirical evidence indicates at least a realistic possibility of conscious experience in all vertebrates and in many invertebrates, naming cephalopod molluscs, decapod crustaceans and insects as its minimum list. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
+[Scientific agreement](/topics/animal-consciousness/) on animal consciousness has expanded dramatically. The Cambridge Declaration on Consciousness (2012) affirmed that non-human animals—including all mammals and birds, and many other creatures such as octopuses—possess the neurological substrates that generate consciousness. The New York Declaration on Animal Consciousness (2024) held that the empirical evidence indicates at least a realistic possibility of conscious experience in all vertebrates and in many invertebrates, naming cephalopod molluscs, decapod crustaceans and insects as its minimum list. If these assessments are correct, ecosystems contain vastly more conscious suffering and flourishing than anthropocentric frameworks acknowledge.
 
 Destroying a wetland does far more than remove a "resource" for human recreation: it eliminates the habitat of millions of conscious beings whose experiences carry intrinsic normative weight. Each fish, bird, amphibian, and potentially each insect whose phenomenal experience includes [positive or negative valence](/concepts/valence/) has a stake in the ecosystem's survival—not because the ecosystem has value, but because their experiences do.
 

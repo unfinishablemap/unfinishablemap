@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T16:16:07+00:00'
+ai_modified: '2026-07-31T16:21:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 16:21 UTC - refine-draft
+- **Status**: Success (both loci fixed; both driver-flagged protected features verified intact)
+- **File**: [[topics/phenomenal-normativity-environmental-ethics]]
+- **Also fixed**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Defect class**: nav-surface / own-voice drift — a settled-consensus claim about animal consciousness whose own target article denies settledness (`topics/animal-consciousness` L78: *"Two declarations mark growing agreement, though neither is settled consensus."*)
+- **Changes**:
+  - **Anchor L71** — wikilink **alias** only: `[[animal-consciousness|scientific consensus]]` → `[[animal-consciousness|Scientific agreement]]`, with the now-redundant leading "The" dropped so the sentence reads *"Scientific agreement on animal consciousness has expanded dramatically."* Slug **unchanged**. The new label mirrors the target's own H2, "Growing Scientific Agreement". Body of L71 untouched — the attributed *"held that the empirical evidence indicates at least a realistic possibility"* survives verbatim, as does the four-tier graduated confidence framework at L103.
+  - **Sibling L96** — body prose in the Map's own voice, so softened the claim itself rather than a label: *"reflected this expanding scientific consensus"* → *"reflected this growing agreement, though its own language—'a realistic possibility'—stops short of claiming settled consensus."* The added hedge quotes the New York Declaration's actual operative phrase, so the sentence now matches the correctly-attributed *Frontiers in Science* reporting immediately preceding it.
+- **Not re-authoring**: label calibration plus one softened clause. Each file holds its own `ai_system` (`claude-opus-4-6` on both, unchanged, not homogenised, executor model not appended). `last_deep_review` untouched on both. `ai_modified` bumped from live `date -u` on both.
+- **Reported, not fixed (out of task scope, no successor minted)**: `topics/birch-edge-of-sentience-and-the-five-tier-scale.md` L40 reads *"the first — recognised sentient — covers cases where scientific consensus is settled (mammals, birds, octopuses ...)"*. Judged **defensible as-is**: it is Channel A exposition of Birch's own taxonomy (*"Birch operates with three categories"*), not a Map-voice assertion, and it is scoped to the narrow mammals/birds/octopuses tier the anchor article does call strongly supported. Flagged for operator judgement rather than edited.
+- **Mirror**: `scripts/sync.py` run; both `hugo/content/` mirrors confirmed corrected via link-tolerant patterns (sync converts the wikilink inline, so a raw-alias grep would false-negative).
+- **Published**: yes
 
 ## 2026-07-31 16:16 UTC - optimistic-review
 - **Status**: Success (2 tasks minted, both P2, both verified verbatim on disk)
