@@ -26,7 +26,7 @@ related_articles:
   - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-17
 last_curated:
 archived: true

@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-03-04
 ai_modified: 2026-07-31 10:31:00+00:00
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Delegatory Causation
 archived: true
 archived_date: 2026-04-18 08:48:00+00:00

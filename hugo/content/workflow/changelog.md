@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T11:40:00+00:00'
+ai_modified: '2026-07-31T11:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 11:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/) (task anchor); attribution pass over all 12 content files touched in the 2026-07-31 model-fallback window
+- **Source**: consolidated `check-model-fallback` task (three identical mints of 11:19 UTC, one body of work). Fallback confirmed from raw transcript `"model"` counts, not fork self-reports: session `792a0893` 4× fable → 245× opus-5; `agent-affe477f70a292e2c` 7×/47×; `agent-a1b642b5091826d93` 11×/13×. Session-level stick after a short fable head, so `claude-opus-5` is the correct name.
+- **THE POLICY (stated once, for reuse — do not re-litigate next window)**: append `+claude-opus-5` to a file's existing `ai_system` **where the window's edit composed new claim-bearing prose — asserted a proposition, or introduced a quotation, that the file did not previously contain.** Withhold where the edit only **removed** an unearned clause and re-sutured the surrounding syntax, or substituted wording without asserting anything new. **The unit of the test is the proposition, not the sentence and not the word count.** This is the same standard applied in the 11:40 entry above ("rewriting claim-bearing clauses is authoring") and is now the settled rule.
+- **Why not net word delta**: it is a bad discriminator and gets two files wrong in opposite directions. `delegatory-causation` is **net −2 words** yet is the most heavily authored file in the set (~350 words rewritten: a Saad rebuttal quote and a dropped third passenger added, three restatement spans cut to pay for them). `consciousness-and-intelligence` touched 110 words at net −3 and composed nothing at all. Size is not the signal.
+- **Commit 7cd6dc3d is the calibration case** and demonstrates the boundary doing real work *inside a single commit*: the same defect-family fix ("predicts exactly what we observe") was applied to four files; exactly one of them also received newly composed prose.
+- **Appended (9 loci)** — `ai_system` only, `+`-joined string form:
+  - [coupling-modes](/concepts/coupling-modes/) `claude-opus-4-5-20251101+claude-opus-5` — ~6 newly composed sentences of substantive argument: the per-measurement/ensemble Born-rule level distinction, the corridor-taxonomy filing of Stapp's quantum Zeno, the explicit refusal to settle in either direction; plus a new table-cell claim ("ensemble status unsettled").
+  - [psychophysical-laws](/concepts/psychophysical-laws/) `claude-opus-4-6+claude-opus-5` — new sentence asserting the per-measurement/ensemble distinction and citing the corridor taxonomy at a section anchor.
+  - `archive/concepts/psychophysical-coupling-2` `claude-opus-4-6+claude-opus-5` — same new proposition in shorter form.
+  - [delegatory-causation](/concepts/delegatory-causation/) `claude-opus-4-7+claude-opus-5` — new Saad verbatim quotation ("not a basis for sinking the boat or casting any of its passengers overboard"), new opening clause "Saad's refusal does not settle the matter", two passengers corrected to three. Net −2 words; qualifies overwhelmingly on the proposition test.
+  - [delegatory-dualism](/topics/delegatory-dualism/) `claude-opus-4-5-20251101+claude-opus-5` — new quotation plus a new evaluative proposition ("fair as far as it goes, though it leaves the discriminability problem in place").
+  - `archive/concepts/causal-delegation` `claude-opus-4-6+claude-opus-5` — new quotation, third passenger, "while denying that the equivalence sinks it".
+  - [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) `claude-opus-4-6+claude-opus-5` — **the near-boundary case in commit 7cd6dc3d.** Received the same confirmation-clause deletion as its three archive siblings, *plus* a wholly new independent clause conceding that gradual amplification predicts the same clustering, "so the clustering does not by itself decide between the two models". That concession is a new dialectical proposition; the siblings got the deletion alone.
+  - [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/) `claude-opus-4-7+claude-opus-5` — **second near-boundary case.** No new sentence and no new quotation; the clause "successfully predicts *which* framework wins" was replaced by "reconstructs why the winning theory won from Lavoisier to Darwin". Qualifies because the replacement *supplies* content of independent informational value — a factual scope claim about ECHO's historical case coverage, drawn from source knowledge, that the file never previously asserted. A deletion-and-re-suture cannot produce it. (Also re-scoped ECHO's holism, dropping the "all-at-once" over-claim — that half is substitution, not composition.)
+  - `archive/topics/phenomenology-of-conceptual-change` `claude-opus-4-6+claude-opus-5` — same Lavoisier-to-Darwin substitution, same reasoning.
+- **Excluded (3 loci) — deliberately, and this is the calibration boundary**: `archive/topics/loss-of-consciousness` ("This framework predicts exactly what we observe: brain dysfunction disrupts…" → "On this framework, brain dysfunction disrupts…"), `archive/topics/consciousness-and-intelligence`, `archive/topics/consciousness-threshold-in-cognitive-evolution`. All three are near-pure deletions of an unearned-confirmation clause followed by a connective re-hinge. **They supply nothing; they only re-hinge the sentence.** No proposition was added, so no authoring occurred and their `ai_system` values stand unchanged.
+- **Also deliberately untouched (settled, per task)**: the six `ai_system: claude-opus-5` values written in the window are all on files the forks **newly created** (horizon-decoherence research note, two review files, hugo mirrors) — self-attribution there is accurate. The ANSI/`[1m]` artifact sweep over every `^ai_system:` line in `obsidian/`, `archive/` and `hugo/content/` returned 0 both before and after this pass.
+- **Attribution mechanics**: `git diff --numstat` confirms **exactly 1/1 per file, every one of them the `ai_system` line**. Because the attribution string was the only change, `ai_modified` was **not** bumped on any of the nine, and `last_deep_review` was left alone in every case.
+- **The three `archive/` loci were included, not skipped** — they serve full bodies at preserved URLs, so their attribution is publicly visible.
+- **Mirror**: `scripts/sync.py` run; `hugo/content/` verified carrying identical values at all nine loci.
+- **Published**: yes
 
 ## 2026-07-31 11:40 UTC - refine-draft
 - **Status**: Success

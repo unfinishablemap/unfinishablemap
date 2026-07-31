@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-03-05
 ai_modified: 2026-07-31 10:54:12+00:00
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Psychophysical Laws and Coupling
 archived: true
 archived_date: 2026-03-15 08:40:00+00:00

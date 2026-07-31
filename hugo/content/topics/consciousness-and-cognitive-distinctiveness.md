@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-04-12
 ai_modified: 2026-07-31 10:24:08+00:00
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/consciousness-and-intelligence/

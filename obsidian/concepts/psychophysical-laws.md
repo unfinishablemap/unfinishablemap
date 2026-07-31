@@ -49,7 +49,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-17T12:34:29+00:00

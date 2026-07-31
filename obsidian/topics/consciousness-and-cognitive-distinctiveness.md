@@ -59,7 +59,7 @@ related_articles:
   - "[[teaching-as-metarepresentation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-04-12
 last_curated:
 last_deep_review: 2026-07-14T14:59:31+00:00

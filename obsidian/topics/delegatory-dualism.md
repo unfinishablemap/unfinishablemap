@@ -27,7 +27,7 @@ related_articles:
   - "[[philosophy-of-habit-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-29
 last_curated:
 last_deep_review: 2026-07-19T01:06:51+00:00

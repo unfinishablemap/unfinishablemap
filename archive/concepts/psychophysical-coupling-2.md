@@ -34,7 +34,7 @@ related_articles:
   - "[[the-interface-specification-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-05
 last_curated:
 last_deep_review: 2026-03-05T06:51:00+00:00
