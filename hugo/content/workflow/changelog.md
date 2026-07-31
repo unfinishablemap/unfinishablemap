@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-31 12:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/) (task anchor) · also [complicity-void](/archive/voids/complicity-void/) and [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
+- **Original score**: n/a (targeted calibration import, not a general refine)
+- **Changes**:
+  - **Nav-surface alias, samkhya L107** — `[[cross-cultural-convergence-on-mental-causation|independent convergence]]` → `|near-independent convergence]]`. The alias was faithful until the 2026-07-30 calibration of its target, which downgraded the Indian/Western axis to *near-independence* and the West African axis to *candidate*. Slug unchanged; label only, per the nav-surface discipline. Length-neutral.
+  - **Alias family closed.** `grep -rno '\[\[cross-cultural-convergence-on-mental-causation|[^]]*\]\]' obsidian/ archive/` returns 13 aliases; 12 are already neutral ("cross-cultural convergence" ×10, "convergence on mental causation" ×2) and assert no independence. Samkhya L107 was the only stale-strength alias in the corpus. **General hazard worth naming: calibrating an article silently invalidates every alias elsewhere that quoted its old strength, and no prose lens ever reads link text.** Alias sweep belongs in the calibration pass that creates the drift, not downstream.
+  - **`archive/voids/complicity-void.md` L48 and L134** — two unqualified independence claims in body prose on a page serving a full body at a preserved URL. Both qualified rather than cut: L48 now names the shared milieu (four of the five traditions took their present shape in the twentieth-century Western academy; the Buddhist material reaches the argument through that same reception) and reads the convergence as "one milieu read several ways, not five separate detections". L134 concedes the consideration is the weakest of the three, names the introspective channel as the stubborn shared upstream — precisely the channel complicity would operate on — and imports [P-M2](/project/common-cause-null/)'s register: one observation read several times until a distinguishing test passes. **I agree with the 2026-07-30 fork's judgement that P-M2's null reaches L134**, and it reaches L48 with more force.
+  - **Extended out of stated scope, deliberately: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) L61** carried the identical claim ("Multiple independent traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge…"). This is the **live successor** the archived complicity-void redirects to, so calibrating the archived predecessor while leaving the live page flat would have been perverse. Same qualifier import, plus a `[[project/common-cause-null]]` link the article did not previously carry. The task's own reasoning about two identical claims in one file extends to two identical claims across a page and its successor.
+- **Length**: all three well inside hard. complicity-void 2283/3000, self-maintained-cognitive-limits 2477/3000, samkhya 1932/3500. `soft_warning` on the two voids articles is the corpus's modal status, not a constraint.
+- **Attribution**: label calibration and qualifier import compose no new claim-bearing prose, so each file holds its own `ai_system` (`claude-opus-4-7`, `claude-opus-4-6`, `claude-opus-4-7`); no model appended, none homogenised. `ai_modified` stamped from live `date -u`; `last_deep_review` untouched on all three.
+- **Published**: yes
+
 ## 2026-07-31 12:43 UTC - coalesce
 - **Status**: Success (reasoned ABANDON — no merge, no deferral)
 - **Sources**: none · **Target**: none created · **Archived**: none · **References to review**: none

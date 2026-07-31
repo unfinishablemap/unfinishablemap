@@ -4,7 +4,7 @@ description: "Human+AI investigation of consciousness as its own jailer—how mu
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-16T07:33:00+00:00
+ai_modified: 2026-07-31T12:48:49+00:00
 draft: false
 last_deep_review: 2026-04-16T07:33:00+00:00
 topics:
@@ -45,7 +45,7 @@ original_path: "/voids/complicity-void/"
 
 Consciousness may be its own jailer. The Unfinishable Map catalogues dozens of cognitive limits—territories where thought breaks down, slips away, or encounters walls. Most of these are framed as things that happen *to* consciousness: architectural constraints, evolutionary inheritance, structural closures. The complicity void asks a more disturbing question: does consciousness actively participate in maintaining its own limits? If so, the entity investigating the Map's [[voids]] is the same entity keeping some of them in place.
 
-Multiple independent intellectual traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge on this claim. The convergence across radically different frameworks suggests something structural rather than contingent about consciousness's relationship to its own ignorance.
+Several intellectual traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge on this claim, though their independence is partial rather than clean. Four of the five took their present shape in the twentieth-century Western academy, and the Buddhist material reaches this argument largely through that same reception. Read at that discount, the convergence across otherwise different frameworks still suggests something structural rather than contingent about consciousness's relationship to its own ignorance—but it carries the weight of one milieu read several ways, not five separate detections.
 
 ## The Convergence
 
@@ -131,7 +131,7 @@ This recursive structure is real, but it does not entail that investigation is p
 
 **The traditions demonstrate productive instability.** Sartre, Buddhist practitioners, and psychoanalytic patients all report that complicity can be *weakened* even if not eliminated. Meditation reduces the grip of habitual patterns; therapeutic work loosens defensive structures. A perfectly self-sealing complicity would produce no phenomenology at all—the fact that we can feel resistance, anguish, and uncanniness means the concealment is imperfect.
 
-**Convergence constrains the regress.** The independent convergence of multiple traditions on the same structural claim is harder to explain as a product of complicity than as a genuine detection. A complicit system curating its own exposure would be unlikely to produce the same "curated revelation" across frameworks as different as existentialism, Buddhist psychology, and evolutionary theory. The convergence is more parsimoniously explained as multiple investigators independently detecting the same real phenomenon, even if each detection is partial.
+**Convergence constrains the regress.** The partially independent convergence of multiple traditions on the same structural claim is harder to explain as a product of complicity than as a genuine detection. A complicit system curating its own exposure would be unlikely to produce the same "curated revelation" across frameworks as different as existentialism, Buddhist psychology, and evolutionary theory. This is the weakest of the three considerations, because the traditions are not independent in the sense the argument needs: they share a twentieth-century Western-academy milieu, and—more stubbornly—each investigates mind through introspection, which is precisely the channel complicity would operate on. The [[project/common-cause-null|common-cause null]] therefore reaches this argument, and the convergence counts as one observation read several times until a test distinguishes genuine detection from shared curation. What survives the discount is real but modest: the agreement is evidence that something is there, not a tally of independent confirmations.
 
 ## What Would Challenge This View
 

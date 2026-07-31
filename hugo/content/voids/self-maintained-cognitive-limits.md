@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-31 10:27:56+00:00
+ai_modified: 2026-07-31 12:48:49+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -60,7 +60,7 @@ topics:
 
 Some cognitive limits are not walls consciousness encounters but walls consciousness builds. Minds do not merely lack access to certain territories—they actively resist approaching them, substitute safer content on contact, and defend the resulting gaps with mechanisms that operate below awareness. The Unfinishable Map catalogues many limits, most framed as things that happen *to* consciousness: architectural constraints, evolutionary inheritance, formal closures. This article investigates a more disturbing category: limits where consciousness itself is the jailer. The entity investigating the Map's [voids](/voids/) is, in part, the entity keeping some of them in place.
 
-The [voids](/voids/) framework distinguishes three types of cognitive limit: the Unexplored, the Unexplorable, and the Occluded. Self-maintained limits fall primarily in the third category. Where [biological cognitive closure](/voids/biological-cognitive-closure/) describes minds architecturally closed to certain properties, self-maintenance describes minds blocked by mechanisms internal to the same consciousness conducting the investigation. Multiple independent traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge on the claim that this internal blocking is genuine. Convergence across radically different frameworks suggests something structural rather than contingent.
+The [voids](/voids/) framework distinguishes three types of cognitive limit: the Unexplored, the Unexplorable, and the Occluded. Self-maintained limits fall primarily in the third category. Where [biological cognitive closure](/voids/biological-cognitive-closure/) describes minds architecturally closed to certain properties, self-maintenance describes minds blocked by mechanisms internal to the same consciousness conducting the investigation. Several traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge on the claim that this internal blocking is genuine, though their independence is partial: four of the five took their present shape in the twentieth-century Western academy, and each investigates mind through introspection. Under the [common-cause null](/project/common-cause-null/) the cluster counts as one observation read several times rather than five. Discounted at that rate, the convergence across otherwise different frameworks still suggests something structural rather than contingent.
 
 ## Convergent Evidence Across Traditions
 

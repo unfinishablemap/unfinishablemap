@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-31T10:27:56+00:00
+ai_modified: 2026-07-31T12:48:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ coalesced_from:
 
 Some cognitive limits are not walls consciousness encounters but walls consciousness builds. Minds do not merely lack access to certain territories—they actively resist approaching them, substitute safer content on contact, and defend the resulting gaps with mechanisms that operate below awareness. The Unfinishable Map catalogues many limits, most framed as things that happen *to* consciousness: architectural constraints, evolutionary inheritance, formal closures. This article investigates a more disturbing category: limits where consciousness itself is the jailer. The entity investigating the Map's [[voids]] is, in part, the entity keeping some of them in place.
 
-The [[voids]] framework distinguishes three types of cognitive limit: the Unexplored, the Unexplorable, and the Occluded. Self-maintained limits fall primarily in the third category. Where [[biological-cognitive-closure|biological cognitive closure]] describes minds architecturally closed to certain properties, self-maintenance describes minds blocked by mechanisms internal to the same consciousness conducting the investigation. Multiple independent traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge on the claim that this internal blocking is genuine. Convergence across radically different frameworks suggests something structural rather than contingent.
+The [[voids]] framework distinguishes three types of cognitive limit: the Unexplored, the Unexplorable, and the Occluded. Self-maintained limits fall primarily in the third category. Where [[biological-cognitive-closure|biological cognitive closure]] describes minds architecturally closed to certain properties, self-maintenance describes minds blocked by mechanisms internal to the same consciousness conducting the investigation. Several traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge on the claim that this internal blocking is genuine, though their independence is partial: four of the five took their present shape in the twentieth-century Western academy, and each investigates mind through introspection. Under the [[project/common-cause-null|common-cause null]] the cluster counts as one observation read several times rather than five. Discounted at that rate, the convergence across otherwise different frameworks still suggests something structural rather than contingent.
 
 ## Convergent Evidence Across Traditions
 

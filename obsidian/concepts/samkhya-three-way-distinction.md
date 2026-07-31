@@ -4,7 +4,7 @@ description: "Samkhya divides reality into consciousness, mind, and matter—pla
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-25T17:47:56+00:00
+ai_modified: 2026-07-31T12:48:49+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -104,7 +104,7 @@ Recent work in cognitive science has documented cases where attention and consci
 
 The three-way distinction challenges the Map's framework in productive ways.
 
-**The inactive-witness problem.** Samkhya's *purusha* is purely passive—it does not act, choose, or bias outcomes. This conflicts directly with the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, which requires consciousness to causally influence physical processes. If consciousness really is pure witnessing, bidirectional interaction is incoherent. The Map parts ways with Samkhya here, affirming with the [[indian-philosophy-of-mind|Nyaya tradition]] that consciousness acts—a position supported by [[cross-cultural-convergence-on-mental-causation|independent convergence]] across Indian, African, and Western traditions. But it should take seriously the pressure Samkhya places on that commitment: can consciousness be both the kind of thing that witnesses and the kind of thing that selects among quantum superpositions?
+**The inactive-witness problem.** Samkhya's *purusha* is purely passive—it does not act, choose, or bias outcomes. This conflicts directly with the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, which requires consciousness to causally influence physical processes. If consciousness really is pure witnessing, bidirectional interaction is incoherent. The Map parts ways with Samkhya here, affirming with the [[indian-philosophy-of-mind|Nyaya tradition]] that consciousness acts—a position supported by [[cross-cultural-convergence-on-mental-causation|near-independent convergence]] across Indian, African, and Western traditions. But it should take seriously the pressure Samkhya places on that commitment: can consciousness be both the kind of thing that witnesses and the kind of thing that selects among quantum superpositions?
 
 **The mind-as-matter insight.** Samkhya's placement of cognition within matter deserves more attention than Western philosophy has given it. Contemporary [[functionalism]] agrees that cognitive processing is material. But functionalism typically then identifies consciousness *with* that processing—collapsing Samkhya's three categories back to two. The three-way distinction holds open a space that neither Western dualism nor functionalism occupies: cognitive processing is material, consciousness is irreducible, and they are not the same thing.
 
