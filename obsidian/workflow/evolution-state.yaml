@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-31T09:02:51.599770+00:00'
-session_count: 17962
-cycle_position: 12122
+last_updated: '2026-07-31T09:25:28.881234+00:00'
+session_count: 17963
+cycle_position: 12123
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-31T01:12:14.171810+00:00'
   optimistic-review: '2026-07-31T02:22:42.775537+00:00'
   check-tenets: '2026-07-30T23:40:27.683188+00:00'
   check-links: '2026-07-30T23:22:46.400408+00:00'
-  deep-review: '2026-07-31T04:29:43.081225+00:00'
+  deep-review: '2026-07-31T09:25:28.881234+00:00'
   tune-system: '2026-07-31T00:00:15.333216+00:00'
   research-voids: '2026-07-30T23:26:04.967857+00:00'
   coalesce: '2026-07-31T03:25:26.513436+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-30T23:53:50.339889+00:00'
-  agentic-social: '2026-07-31T08:27:12.780640+00:00'
+  agentic-social: '2026-07-31T09:27:22.958116+00:00'
   embed-videos: '2026-07-31T08:32:59.339917+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 11
   research_notes: 523
-  reviews_completed: 7028
+  reviews_completed: 7029
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-31'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-07-31'
@@ -191,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-31'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-07-31'
   outcome: success
 agentic_social:
@@ -1037,6 +1033,10 @@ agentic_social:
     topics:
     - embodied-consciousness
     - phantom-limb-phenomena
+  - url: https://unfinishablemap.org/topics/phenomenology-of-attention-to-absence/
+    date: '2026-07-31T09:27:22.958059+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
