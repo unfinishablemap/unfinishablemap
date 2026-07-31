@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-16 00:45:48+00:00
+ai_modified: 2026-07-31 16:31:38+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -153,7 +153,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 
 **[Dualism](/tenets/#dualism)**: Five arguments converge. Feature convergence shows qualitative, evaluative, holistic, temporal, and meaning-laden properties inseparably fused in a single phenomenon. Substrate independence shows beauty cannot be a physical property. Formal precision shows the gap persists even where structure is fully mapped. Aesthetic binding shows unity that exceeds functional coordination. Aesthetic creation shows phenomenal templates guiding material outcomes. Each independently troubles physicalism; together they compound the standard case from sensory qualia.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Aesthetic creation provides the most direct evidence. The direction-of-fit reversal—consciousness holding a phenomenal template and shaping material to match—makes the causal arrow explicit. The revision feedback loop specifies a concrete mechanism. Beyond creation, aesthetic value motivates action broadly: we preserve beautiful landscapes, arrange environments for aesthetic quality, and sometimes override functional considerations for aesthetic ones.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Aesthetic creation provides the most direct evidence. The direction-of-fit reversal—consciousness holding a phenomenal template and shaping material to match—makes the causal arrow explicit. The revision feedback loop specifies a concrete mechanism. Beyond creation, aesthetic value motivates action broadly: we preserve beautiful landscapes, arrange environments for aesthetic quality, and sometimes override functional considerations for aesthetic ones. That motivational force does argumentative work in [environmental ethics under phenomenal normativity](/topics/phenomenal-normativity-environmental-ethics/), where a landscape's aesthetic value—located in the perceiver's encounter rather than in the terrain—grounds preservation obligations alongside the welfare of the conscious beings living there.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Beauty's capacity to command sustained, focused attention—its normative "pull"—is the kind of attentional concentration that models like [Stapp's quantum mind theory](/concepts/stapp-quantum-mind/) require for consciousness to influence neural outcomes. The connection remains speculative, and the phenomenological arguments stand independently.
 

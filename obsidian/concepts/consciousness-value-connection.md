@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-07-16T20:10:00+00:00
+ai_modified: 2026-07-31T16:31:38+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -103,7 +103,7 @@ Environmental ethics sometimes attributes intrinsic value to ecosystems, species
 
 **Response:** The Map rejects this. Ecosystems matter *through* their relationship to conscious beings: the animals that experience life within them, the humans who appreciate their beauty, the future generations who will depend on them. Nothing matters intrinsically to the ecosystem itself because the ecosystem has no perspective.
 
-This does not license environmental destruction. Ecosystems matter enormously because of their connection to conscious beings. But the value tracks consciousness, not the ecosystem as such. A lifeless ecosystem on a barren planet has no value until a conscious being arrives who might appreciate it—and then the value exists in the appreciation, not in the rocks.
+This does not license environmental destruction. Ecosystems matter enormously because of their connection to conscious beings. But the value tracks consciousness, not the ecosystem as such. A lifeless ecosystem on a barren planet has no value until a conscious being arrives who might appreciate it—and then the value exists in the appreciation, not in the rocks. [[topics/phenomenal-normativity-environmental-ethics|Environmental ethics under phenomenal normativity]] develops what follows: obligations to habitat, species, and climate stability that are frequently more demanding than ecocentrism's, because they are owed to the vast number of conscious beings whose experiences the ecosystem sustains.
 
 ### "Consciousness Might Be an Illusion"
 
@@ -187,6 +187,7 @@ These conditions do not currently obtain. The connection stands.
 - [[meaning-of-life]] — How consciousness-grounded value provides meaning
 - [[emotion-and-dualism]] — Valence as the phenomenal dimension of good and bad
 - [[ethics-under-dualism]] — Moral implications of the consciousness-value connection
+- [[topics/phenomenal-normativity-environmental-ethics]] — The environmental application: why rejecting ecocentrism yields more demanding obligations, not fewer
 - [[experiential-alignment]] — Operationalizing the connection for AI
 - [[purpose-and-alignment]] — Why AI alignment depends on this view
 - [[qualia]] — The qualitative properties that carry value

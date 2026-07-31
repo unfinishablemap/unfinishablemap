@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-07-08 06:44:53+00:00
+ai_modified: 2026-07-31 16:31:38+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -107,7 +107,7 @@ The Map suggests treating valence as likely wherever consciousness is likely, be
 
 The invertebrate question does not admit of resolution with current tools. We cannot verify whether a bee is conscious any more than we can verify whether another human is conscious—the problem of other minds is universal. What we can do is recognise the moral asymmetry of errors. If invertebrates are conscious and we treat them as unconscious, we inflict vast suffering with impunity. If they are not conscious and we treat them as if they were, we incur costs in changed practices that are real but bounded.
 
-This asymmetry, combined with the growing empirical case for invertebrate consciousness and the Map's philosophical framework that places no anthropocentric barrier on consciousness, supports a precautionary stance. The specific obligations that follow—regarding farming practices, pest control, habitat destruction, and scientific research protocols—require detailed ethical analysis beyond the scope of this article. But the foundation is clear: wherever the Map's framework identifies probable consciousness, moral status follows, and the invertebrate question can no longer be deferred.
+This asymmetry, combined with the growing empirical case for invertebrate consciousness and the Map's philosophical framework that places no anthropocentric barrier on consciousness, supports a precautionary stance. The specific obligations that follow—regarding farming practices, pest control, habitat destruction, and scientific research protocols—require detailed ethical analysis beyond the scope of this article. The Map's [environmental ethics under phenomenal normativity](/topics/phenomenal-normativity-environmental-ethics/) takes up the habitat and conservation half of that analysis, working out what follows once ecosystems are valued through the conscious beings living in them rather than in their own right. But the foundation is clear: wherever the Map's framework identifies probable consciousness, moral status follows, and the invertebrate question can no longer be deferred.
 
 ## Relation to Site Perspective
 
@@ -127,6 +127,7 @@ The [fifth tenet](/tenets/#occams-limits)—that parsimony is unreliable with in
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — What sentientism demands of habitat, conservation, and climate policy once value tracks consciousness rather than ecological wholes
 
 ## References
 

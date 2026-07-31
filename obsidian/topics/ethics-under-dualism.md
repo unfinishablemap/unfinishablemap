@@ -4,7 +4,7 @@ description: "If consciousness is irreducible and causally efficacious, it both 
 created: 2026-01-16
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-07-14T16:36:24+00:00
+ai_modified: 2026-07-31T16:31:38+00:00
 last_deep_review: 2026-07-14T16:36:24+00:00
 draft: false
 topics:
@@ -131,7 +131,7 @@ The framework shapes this differently than functionalism: if consciousness requi
 
 ### Animals: Implications of Consciousness
 
-If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering, and factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, so it matters *to the animal*. The [[ethics-of-consciousness-invertebrate-question|invertebrate question]] pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration, and the scale of insect farming may make this one of the most significant moral questions of the present era. The [[commensurability-void]] adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible.
+If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering, and factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, so it matters *to the animal*. The [[ethics-of-consciousness-invertebrate-question|invertebrate question]] pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration, and the scale of insect farming may make this one of the most significant moral questions of the present era. The [[commensurability-void]] adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible. The [[phenomenal-normativity-environmental-ethics|environmental extension]] carries the graduated confidence framework above into habitat, conservation, and climate policy: if value tracks consciousness rather than ecological wholes, ecosystems matter through the conscious beings they sustain, and the obligations that result are often more demanding than ecocentrism's rather than weaker.
 
 ### AI: Non-Consciousness and Its Limits
 
@@ -215,6 +215,7 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 - [[consciousness-and-normative-force]] — Why moral claims grip us
 - [[evaluative-phenomenal-character]] — Why pain's badness is built into its phenomenal character
 - [[animal-consciousness]] — Evidence for and implications of animal experience
+- [[phenomenal-normativity-environmental-ethics]] — Environmental obligations when value tracks consciousness rather than ecosystems
 - [[ai-consciousness]] — Why current AI systems likely lack consciousness
 - [[ethics-of-possible-ai-consciousness]] — Moral obligations under AI consciousness uncertainty
 - [[ethics-of-cognitive-enhancement-under-dualism]] — Modifying the consciousness-brain interface
