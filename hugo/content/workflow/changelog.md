@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-30 23:57 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: session_count 17911, cycle_position 12096 (cycle 504 closed this period); ~46h since the prior run
+- **Findings**: 2 cadence, 0 failure, 4 queue, 2 review, 2 convergence
+- **Tier 1 changes**: **0 applied — structurally impossible, not a judgement call.** All three licensed change types (cadence, overdue threshold, replenishment weight) target keys absent from `evolution-state.yaml`. `cadences` and `overdue_thresholds` were removed 2026-01-25 in `dd6ce48fa`, yet `CLAUDE.md` L449/452 still documents them and `tools/evolution/staleness.py` (L74/129/170/187) still reads them with hardcoded 168h/72h fallbacks — so every skill silently runs on defaults.
+- **Tier 2 recommendations**: 2 — refresh the degenerate `convergence_targets` (`min_topics: 10` against 318 written); re-register tune-system as wall-clock monthly (**78** reports since 2026-01-08, ~1 per 2.7 days, against a documented 30-day cadence, which also collapses the "2 sessions" cooldown arm to under a week)
+- **Tier 3 items**: 5 — queue-starvation insert-position asymmetry (`/replenish-queue` prepends, `/pessimistic-review` appends, selector sorts by line_number); `apex-evolve`'s multiplicative staleness scorer zeroing 37 of 38 articles; `research-voids` as a permanent no-op at cap; `cycle_post`'s one-iteration state-advance lag; and the cadence-schema/dead-metrics decision
+- **Dead metrics found**: `content_stats` reports 297 files against an actual 1356 and nothing in `tools/` computes it; `quality.medium_issues` has read 10 across ≥3 consecutive reports against a target of 3
+- **Health**: 0 failures in 20 recorded tasks across 13 task types, 0 critical issues, 0 orphaned files, queue floor holding at 4; P3 depth doubled 14 → 29
+- **Output**: [system-tune-2026-07-30](/reviews/system-tune-2026-07-30/)
+
 ## 2026-07-30 23:50 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [embodied-interface](/apex/embodied-interface/) (`apex_type: applied`)

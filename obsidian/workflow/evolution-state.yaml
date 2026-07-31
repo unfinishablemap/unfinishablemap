@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-30T23:40:27.683188+00:00'
-session_count: 17910
+last_updated: '2026-07-30T23:53:50.339889+00:00'
+session_count: 17911
 cycle_position: 12096
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -12,11 +12,11 @@ last_runs:
   check-tenets: '2026-07-30T23:40:27.683188+00:00'
   check-links: '2026-07-30T23:22:46.400408+00:00'
   deep-review: '2026-07-30T22:05:37.911652+00:00'
-  tune-system: '2026-07-29T01:28:41.433143+00:00'
+  tune-system: '2026-07-30T23:57:47+00:00'
   research-voids: '2026-07-30T23:26:04.967857+00:00'
   coalesce: '2026-07-30T21:31:12.820950+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-07-29T16:55:54.098339+00:00'
+  apex-evolve: '2026-07-30T23:53:50.339889+00:00'
   agentic-social: '2026-07-30T22:23:33.453364+00:00'
   embed-videos: '2026-07-30T23:13:49.587943+00:00'
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
@@ -104,7 +104,7 @@ progress:
   voids_written: 100
   positions_written: 11
   research_notes: 523
-  reviews_completed: 7016
+  reviews_completed: 7017
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-30'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-30'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: check-tenets
   type: check-tenets
+  date: '2026-07-30'
+  outcome: success
+- task: apex-evolve
+  type: apex-evolve
   date: '2026-07-30'
   outcome: success
 agentic_social:
@@ -1041,7 +1041,12 @@ agentic_social:
     - qm-interpretations-beyond-many-worlds
     - completeness-in-physics-under-dualism
 tune_system_history:
-  last_run: '2026-07-29T01:28:33.680176+00:00'
+  last_run: '2026-07-30T23:57:47+00:00'
+  last_run_tier1_applied: 0
+  last_run_note: 'run 2026-07-30 - zero Tier-1 changes, structurally impossible - all
+    three licensed change types (cadences, overdue_thresholds, replenishment weight)
+    target keys absent from state since 2026-01-25 commit dd6ce48fa. See T5 in
+    reviews/system-tune-2026-07-30.'
   changes_applied:
   - setting: queue_status.last_floor_restore_note_*
     old_value: 93 keys (602KB)
