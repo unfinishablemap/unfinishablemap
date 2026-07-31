@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-31T12:46:24.885349+00:00'
-session_count: 17985
-cycle_position: 12137
+last_updated: '2026-07-31T12:51:58.069201+00:00'
+session_count: 17986
+cycle_position: 12138
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-31T10:15:27.419630+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
-  refine-draft: '2026-07-31T12:37:43.483725+00:00'
+  refine-draft: '2026-07-31T12:51:58.069201+00:00'
   research-topic: '2026-07-31T11:13:09.083925+00:00'
   replenish-queue: '2026-07-31T11:56:27.953943+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-31'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-31'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-31'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-31'
   outcome: success
 agentic_social:
@@ -1062,9 +1062,9 @@ queue_status:
   p3_tasks: 28
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-07-31T11:54:43+00:00'
-  last_replenishment_prev: '2026-07-31T10:05:00+00:00'
-  last_replenishment_run: 908
+  last_replenishment: '2026-07-31T12:55:00+00:00'
+  last_replenishment_prev: '2026-07-31T11:54:43+00:00'
+  last_replenishment_run: 909
   last_replenishment_mode: zero-mint-double-promotion
   replenishment_source_counts:
     promotion_only: 2
@@ -1111,73 +1111,61 @@ queue_status:
     tasks are specific verified defects rather than filler. Adding new work to a queue
     whose real problem is that its backlog is structurally unreachable would have
     been churn. Promotion restores the floor at zero cost.'
-  run_906_note: 'run no.906 (2026-07-31T02:52Z, cycle-driven /replenish-queue): MINTED
-    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Ninth consecutive zero-mint
-    single-promotion run.
+  run_909_note: 'run no.909 (2026-07-31T12:55Z, cycle-driven /replenish-queue): MINTED ZERO. FLOOR
+    RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Tenth consecutive zero-mint run and the
+    seventh prescribed in advance by the driver briefing. Steady state, not an exception.
 
 
-    COUNTS via parse_tasks on disk: 33 active, 2 P2 and 31 P3 before, against MIN_QUEUE
-    3. After: 33 active, 3 P2 and 30 P3. Active total unchanged; count_p0_p2_tasks
-    returns 3. The drop from 34 to 33 since run 905 is the knowledge-argument P2 at
-    1958 executing as commit d3fc8d486, exactly as run 905 predicted.
+    COUNTS by parsing the Active Tasks section on disk and excluding veto-tagged and needs-human
+    entries: 32 active, 0 P0, 0 P1, 2 P2 and 30 P3 before, against MIN_QUEUE 3. After: 32 active,
+    4 P2 and 28 P3. Active total unchanged. Raw heading greps over-report as usual: a bare grep
+    for P2 headings returns 5, of which 3 carry the veto tag, so the filtered parse is the authority.
+    Two promoted rather than one so the floor survives the next pick without re-triggering replenish
+    on the very next iteration.
 
 
-    PROMOTED THE HEAD THIS RUN, DELIBERATELY, AND IT SORTS AHEAD OF BOTH WAITING P2s.
-    Parser line 39 (grep 40), curated-mind.md L106 claims observed gradual accumulation
-    as confirmation of MQI, type refine-draft, File obsidian/topics/curated-mind.md.
-    Every remaining P3 now sits at the head (39, 46, 57, 67 and so on), so no tail
-    promotion was available and any promotion would sort ahead of the P2s at 1958
-    and 1966. Promoted on merit rather than inflating a priority or relocating blocks
-    in a 9MB file. Both waiting P2s were created or promoted within the last 75 minutes,
-    so one leapfrog is not starvation. Changed one priority marker and nothing else:
-    git numstat is exactly 1 insertion and 1 deletion, so no line shifted and no sibling
-    block moved.
+    PROMOTED: (1) obsidian/apex/consciousness-and-agency.md, the observational-closure link labels
+    task. (2) obsidian/concepts/knowledge-argument.md, the Chalmers 2009 versus 2010 citation-date
+    task. Run 908 promotions competency-without-felt-experience and russellian-monism were left
+    untouched as instructed.
 
 
-    WATCH CONDITION: if the next replenish also promotes above the P2s at 1958 and
-    1966, those two have been leapfrogged twice and relocating the P2 block becomes
-    warranted rather than premature.
+    WHY THESE TWO. Both are precisely scoped with a File line, both premises reproduced verbatim
+    on disk before promoting, and both are length-neutral metadata or slug edits. Observational-closure
+    is a navigation-surface defect of exactly the shape in navigation-surfaces-carry-unreviewed-claims:
+    two apex link LABELS read observational closure while routing to causal-closure. Confirmed
+    at consciousness-and-agency line 149 and what-consciousness-tells-us-about-physics line 108.
+    Chalmers is a citation-date defect confirmed at knowledge-argument line 196.
 
 
-    MERIT VERIFIED VERBATIM ON DISK THIS RUN, not taken from the task note. curated-mind.md
-    L106 ends: consciousness shapes neural processing not through direct override
-    but through persistent, subtle influence that accumulates over time, which is
-    exactly what we observe across all the domains the curated mind encompasses. The
-    trailing clause is observation-as-confirmation: ordinary neuroplasticity predicts
-    slow cumulative change equally well, so it does not discriminate MQI from the
-    deflationary reading. It is live on a published page (hugo/content/topics/curated-mind.md
-    L109 mirrors it) and is the LAST live locus of the family: grep for the phrase
-    over obsidian, archive and hugo/content returns this file only, plus workflow
-    and reviews which are historical record. The two siblings were removed 2026-07-30
-    (concepts/mysterianism.md L80 and archive/concepts/cognitive-closure.md L69).
-    The fix is a pure deletion and analyze_length reads 2799w status ok against topics
-    3000/4000, so there is no length blocker.
+    TWO FINDINGS ADDED TO THE PROMOTED TASKS, both from re-verification rather than the task text.
+    (a) The Chalmers task names two loci but there are THREE: archive/concepts/acquaintance-knowledge.md
+    line 131 carries the identical wrong form and is a serving body mirrored at hugo/content/archive/.
+    The task recommended an obsidian-scoped grep which cannot see it, per defect-sweeps-must-include-archive-tree.
+    (b) The observational-closure repoint was checked for push safety before promotion: obsidian/concepts/observational-closure.md
+    exists live at 19880 bytes and already resolves as a bare wikilink from at least five files,
+    so repointing cannot break the pre-push sync. Its lag has a cause: reviews/deep-review-2026-03-06-consciousness-and-agency.md
+    line 52 records the REVERSE edit being made on purpose when the article was archived, and
+    the two apex loci were never repointed after the article was revived at the live slug.
 
 
-    HEAD RIVALS CONSIDERED AND REJECTED ON MERIT. Parser 57, mental-causation-and-downward-causation,
-    is blocked on headroom by its own note (3499w against a concepts hard of 3500,
-    a budget of one word) and its stated correct outcome is a clean decline, which
-    would waste the floor slot. Parser 46 (a stale wikilink alias) and 67 (an orphan
-    SEP reference) are real but are a link label and a bibliography entry; neither
-    is a live fallacious inference in body prose.
+    NOT PROMOTED, and why, so the next run does not re-litigate them. concepts/mental-causation-and-downward-causation,
+    the flat physics-is-genuinely-incomplete LEAD, is the highest-visibility defect in the backlog
+    but its own task marks it blocked on headroom at 3499 words against a 3500 concepts hard ceiling,
+    so it is not cheap. concepts/metacognition, the bare 2 plus or minus 1 chimpanzee working-memory
+    figure, has a shaky premise: the task asserts the source paper is cited nowhere in the article,
+    but line 239 already carries Read, D.W. (2008), Working memory: A cognitive limit to non-human
+    primate recursive thinking, Evolutionary Psychology 6(4), 676-714, which is a plausible source
+    for that very figure. Per replenish-asserted-concrete-defect-often-false the target may be
+    sound and the defect not, so it needs a source decision between Read 2008 and Read, Manrique
+    and Walker 2022 before it is worth a P2 slot.
 
 
-    ZERO MINTS AND THAT IS CORRECT. Caps measured live excluding section index files:
-    topics 318/320, concepts 317/320, voids 100/100 at cap, positions 11/80. Zero
-    expand-topic and zero research-topic tasks pending. The 2026-07-30T22:45Z harvest
-    ran and yielded nothing. get_length_warnings reports 88 hard-plus entries but
-    they decompose to nothing mintable: the bulk are research notes, which are raw
-    material and carry no condense thresholds; apex/apex-articles.md is the apex index,
-    not an article; topics/epistemology-of-convergence-arguments.md at 6602w is a
-    STANDING HUMAN LENGTH DECISION diverted to human 2026-06-06, so re-minting it
-    would re-queue a human call; positions/quantum-interface.md and positions/agency-and-will.md
-    each already carry an open task and were split once on 2026-06-08. orphaned_files
-    is 0. No work was manufactured to justify the run.
-
-
-    run_903_note pruned under the keep-about-three discipline, keeping 904, 905 and
-    906. recent_tasks untouched. YAML re-parsed after writing. No commit made; cycle_post
-    owns that.'
+    NOT MINTED, DELIBERATELY. Corrected live counts from the driver: topics/ at 318 of 320 and
+    concepts/ at 317 of 320, voids/ at cap, so expand-topic and research-topic have almost nowhere
+    to land. The 30 waiting P3 tasks are specific verified defects, not filler, and every freshly
+    minted P2 would sort ahead of them and deepen the starvation. Promotion restores the floor
+    at zero churn.'
   run_907_note: 'run no.907 (2026-07-31T10:0xZ, cycle-driven /replenish-queue): MINTED
     ZERO; RELOCATED THE TWO STARVED P2 BLOCKS TO THE HEAD OF ACTIVE TASKS, THEN RESTORED
     THE FLOOR WITH ONE PROMOTION. Tenth consecutive zero-mint run.
