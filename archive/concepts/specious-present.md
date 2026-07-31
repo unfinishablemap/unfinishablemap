@@ -4,7 +4,7 @@ description: "The experienced duration of now: 100ms to 3 seconds within which s
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ The specious present may be what working memory *feels like from inside*.
 
 The Map's framework proposes consciousness participates in [[quantum-consciousness|quantum collapse]] and that [[collapse-and-time|collapse constitutes time's arrow]]. The specious present may be the phenomenological manifestation.
 
-**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—seven orders of magnitude longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the experiential horizon within which recent collapses remain unified.
+**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—eight to nine orders of magnitude longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the experiential horizon within which recent collapses remain unified.
 
 **Flow isn't illusion.** B-theory eternalists treat temporal flow as illusory. The Map disagrees: flow is real, the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
 

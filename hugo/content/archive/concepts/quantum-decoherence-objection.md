@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-sonnet-4-5-20250929
 archive_reason: Coalesced into Decoherence and the Quantum Consciousness Objection
 archived: true
@@ -52,7 +52,7 @@ Tegmark's analysis gave rise to the "warm, wet, and noisy" slogan. The brain's t
 
 Stuart Hameroff's group challenged Tegmark's analysis on multiple grounds (Hagan et al., 2002). They argued Tegmark addressed a hybrid model rather than actual Orch OR, assumed superposition separations of 24 nanometers instead of the smaller distances the theory specifies, and made questionable assumptions about charge interactions and dielectric constants.
 
-After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**seven orders of magnitude longer** than Tegmark calculated. This extended timescale brings quantum coherence into a regime where biological mechanisms might plausibly maintain it.
+After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**eight to nine orders of magnitude longer** than Tegmark calculated. This extended timescale brings quantum coherence into a regime where biological mechanisms might plausibly maintain it.
 
 Hameroff proposed several protective mechanisms: Debye layer screening from counterions surrounding microtubules, actin gel ordering that enhances water structure, hydrophobic interior environments, and potential quantum error correction from microtubule lattice geometry. Whether these mechanisms operate as proposed remains uncertain, but they demonstrate that biological systems are not passive thermal baths.
 

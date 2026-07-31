@@ -4,7 +4,7 @@ description: "Classical neural binding (gamma synchrony, thalamocortical loops) 
 created: 2026-01-28
 modified: 2026-01-28
 human_modified:
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 archived: true
 archived_date: 2026-02-11T02:19:00+00:00
@@ -112,7 +112,7 @@ Recent experiments support the quantum binding hypothesis:
 
 **Brain entanglement signatures (Kerskens & Pérez, 2022):** Novel MRI techniques detected signals indicating entanglement in conscious human brains. The signal was present during wakefulness, absent during sleep, and correlated with working memory performance. The findings are contested and await replication.
 
-**Decoherence calculations revised:** Tegmark (2000) claimed quantum coherence in microtubules would decohere in 10⁻¹³ to 10⁻²⁰ seconds. Hagan et al. (2002) identified flawed assumptions; corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Biological quantum effects (avian magnetoreception, photosynthesis) demonstrate evolution can harness quantum coherence.
+**Decoherence calculations revised:** Tegmark (2000) claimed quantum coherence in microtubules would decohere in 10⁻¹³ to 10⁻²⁰ seconds. Hagan et al. (2002) identified flawed assumptions; corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. Biological quantum effects (avian magnetoreception, photosynthesis) demonstrate evolution can harness quantum coherence.
 
 See [[concepts/quantum-neural-mechanisms-and-coherence]] for comprehensive treatment.
 

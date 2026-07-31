@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-30 15:14:45+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Mental Causation and Downward Causation
 archived: true
@@ -115,7 +115,7 @@ The main physics-based objection: warm neural tissue decoheres quantum superposi
 
 Several responses are available, though none fully resolves the gap:
 
-**Revised coherence estimates**: Recent calculations incorporating biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) extend coherence estimates by many orders of magnitude. Hameroff's group found seven orders of magnitude longer than Tegmark's estimate, reaching 10^-5 to 10^-4 seconds. This still leaves three orders of magnitude between coherence timescales and neural decisions (~300ms)—reduced but not eliminated.
+**Revised coherence estimates**: Recent calculations incorporating biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) extend coherence estimates by many orders of magnitude. Hameroff's group found eight to nine orders of magnitude longer than Tegmark's estimate, reaching 10^-5 to 10^-4 seconds. This still leaves three orders of magnitude between coherence timescales and neural decisions (~300ms)—reduced but not eliminated.
 
 **The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep the sustained coherence requirement entirely. If consciousness operates through discrete observation cycles rather than maintained superposition—rapid repeated "probing actions" that each reset the quantum state—the relevant question shifts from "can coherence survive?" to "can observation cycles operate fast enough?" This reframing is a research direction, not a proposed solution. The precise number, rate, and physical implementation of such observation cycles remains entirely unspecified. What bridges the gap between millisecond-timescale attention and the rapid observations the Zeno mechanism requires? One possibility is that sustained attention sets boundary conditions that neural mechanisms implement at faster timescales—but this remains speculative, and the gap between the proposal and physical reality spans several orders of magnitude with no detailed bridge.
 

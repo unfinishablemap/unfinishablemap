@@ -3,7 +3,7 @@ title: "Research: Quantum Decoherence Objection Responses"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T15:00:00+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ Stuart Hameroff's group challenged Tegmark's analysis on several grounds:
    - Charge vs. dipole interactions
    - Dielectric constant of microtubule interior
 
-   Decoherence time extends to **10⁻⁵ to 10⁻⁴ seconds** (~100 μs)—seven orders of magnitude longer than Tegmark claimed.
+   Decoherence time extends to **10⁻⁵ to 10⁻⁴ seconds** (~100 μs)—eight to nine orders of magnitude longer than Tegmark claimed.
 
 ### Protective Mechanisms
 

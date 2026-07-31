@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-29 02:22:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -98,7 +98,7 @@ The "specious present" names the experienced duration of the present moment—no
 - **Key points**:
   - Orchestrated Objective Reduction (Orch OR): "each time a quantum wave function collapses... it gives rise to a moment of conscious experience" (Penrose)
   - Microtubule research shows nontrivial quantum effects at room temperature (Babcock et al. 2024)
-  - Revised decoherence estimates: 10-100 μs coherence times (7 orders of magnitude longer than Tegmark's estimates)
+  - Revised decoherence estimates: 10-100 μs coherence times (eight to nine orders of magnitude longer than Tegmark's estimates)
   - "Arrow of time disappears when information processing mode changes from conscious to unconscious states"
   - Proposal: consciousness doesn't just experience time; it may constitute it through collapse
 - **Tenet alignment**: Strongly supports Bidirectional Interaction and No Many Worlds

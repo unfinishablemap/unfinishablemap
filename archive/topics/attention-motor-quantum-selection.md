@@ -4,7 +4,7 @@ description: "Attention and motor control share neural substrates—suggesting c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T21:54:00+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -141,7 +141,7 @@ William James observed that "volition is nothing but attention" and "the free wi
 
 ### Timing Constraints
 
-The mechanism must satisfy timing constraints. Quantum coherence in warm brains faces rapid decoherence—Tegmark estimated 10⁻¹³ seconds. But revised calculations (Hameroff, 2014) yield 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer, potentially allowing meaningful quantum contribution within neural timescales.
+The mechanism must satisfy timing constraints. Quantum coherence in warm brains faces rapid decoherence—Tegmark estimated 10⁻¹³ seconds. But revised calculations (Hameroff, 2014) yield 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer, potentially allowing meaningful quantum contribution within neural timescales.
 
 The ~300ms selection window and the revised decoherence estimates may be compatible: roughly 1000 quantum cycles could occur within a single motor commitment event. The Map's position: the decoherence debate remains open, but evidence increasingly favours viability. See [[quantum-neural-timing-constraints]] for detailed analysis.
 

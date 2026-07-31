@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-30 20:09:12+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: 'Coalesced into Quantum Coherence and Binding: Evidence'
 archived: true
@@ -39,7 +39,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Recent experimental evidence significantly strengthens the case that quantum entanglement, not classical neural coordination, underlies the unity of consciousness. Three lines of evidence converged between 2022 and 2025: microtubule-stabilizing drugs delay anesthesia onset in rats (Cohen's d = 1.9), novel MRI techniques detect entanglement signatures correlating with consciousness, and corrected decoherence calculations show quantum effects survive seven orders of magnitude longer than critics claimed. If quantum entanglement binds distributed neural processes into unified conscious experience, these are precisely the experimental signatures we would expect.
+Recent experimental evidence significantly strengthens the case that quantum entanglement, not classical neural coordination, underlies the unity of consciousness. Three lines of evidence converged between 2022 and 2025: microtubule-stabilizing drugs delay anesthesia onset in rats (Cohen's d = 1.9), novel MRI techniques detect entanglement signatures correlating with consciousness, and corrected decoherence calculations show quantum effects survive eight to nine orders of magnitude longer than critics claimed. If quantum entanglement binds distributed neural processes into unified conscious experience, these are precisely the experimental signatures we would expect.
 
 ## The Binding Problem Requires Physical Holism
 
@@ -72,7 +72,7 @@ For decades, the primary objection to quantum consciousness theories has been [d
 Yet the Tegmark-Hameroff debate remains unsettled. Hagan, Hameroff, and Tuszynski (2002) challenged several of Tegmark's assumptions:
 - Tegmark assumed unrealistically large superposition separation distances
 - Tegmark assumed thermal equilibrium (equivalent to death, not life)
-- Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**
+- Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**eight to nine orders of magnitude longer**
 
 The corrected figures remain theoretical. Saxena et al. (2020) reported fractal, scale-free electromagnetic resonance in single brain-extracted microtubules, single tubulin proteins, and single neurons—a measurement of resonance behaviour, not of coherence times—so it does not confirm the corrected estimates, and no direct coherence-time measurement in neural microtubules has been reported. The debate continues—Tegmark has not retracted his critique, and many physicists remain skeptical. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy from femtosecond decoherence to 300ms neural decision windows.
 

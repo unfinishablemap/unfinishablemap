@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Probability and Consciousness
 archived: true
@@ -132,7 +132,7 @@ A critical objection: [decoherence](/concepts/decoherence/) destroys quantum sup
 
 Three considerations:
 
-**Revised timescales.** Tegmark's calculations have been challenged. Hagan et al. (2002) disputed his model parameters, yielding estimates of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. The decoherence objection depends on contested empirical claims.
+**Revised timescales.** Tegmark's calculations have been challenged. Hagan et al. (2002) disputed his model parameters, yielding estimates of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. The decoherence objection depends on contested empirical claims.
 
 **Selection doesn't require sustained coherence.** The interface view requires only that consciousness bias *which outcome* occurs when superposition resolves—whether through decoherence or measurement. Decoherence selects preferred bases and suppresses interference, but it doesn't determine which outcome from the resulting mixture becomes actual. That determination remains unexplained by physics.
 

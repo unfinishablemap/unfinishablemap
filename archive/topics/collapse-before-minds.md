@@ -4,7 +4,7 @@ description: "What determined quantum outcomes in the 13.8 billion years before 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T10:39:00+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ If [[decoherence]] destroys quantum coherence in femtoseconds in warm biological
 
 Three responses:
 
-1. **Revised timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions (Hagan et al., 2002), coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
+1. **Revised timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions (Hagan et al., 2002), coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer.
 
 2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence between observations. Rapid mental "observations" maintain states through repeated measurement—operating faster than decoherence can act.
 

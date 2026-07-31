@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 15:00:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -52,7 +52,7 @@ Stuart Hameroff's group challenged Tegmark's analysis on several grounds:
    - Charge vs. dipole interactions
    - Dielectric constant of microtubule interior
 
-   Decoherence time extends to **10⁻⁵ to 10⁻⁴ seconds** (~100 μs)—seven orders of magnitude longer than Tegmark claimed.
+   Decoherence time extends to **10⁻⁵ to 10⁻⁴ seconds** (~100 μs)—eight to nine orders of magnitude longer than Tegmark claimed.
 
 ### Protective Mechanisms
 

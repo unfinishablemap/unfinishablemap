@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-30 20:14:46+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Coherence in Neural Systems
 archived: true
@@ -18,7 +18,8 @@ concepts:
 created: 2026-01-18
 date: &id001 2026-01-18
 description: 'Can quantum effects persist in warm brains? Evidence from 2024-2025
-  suggests yes: revised estimates extend coherence times by seven orders of magnitude.'
+  suggests yes: revised estimates extend coherence times by eight to nine orders of
+  magnitude.'
 draft: false
 human_modified: null
 last_curated: null
@@ -35,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Can quantum superposition persist in neural tissue long enough to matter for consciousness? Recent experimental evidence (2024-2025) answers with qualified optimism: microtubule-stabilising drugs delay anaesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by seven orders of magnitude beyond initial calculations, MRI studies detect entanglement signatures correlating with consciousness, and multiple protective mechanisms have been identified. The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation. This matters for the [binding problem](/concepts/binding-problem/): if quantum entanglement provides genuine physical holism—where the whole is irreducible to parts—it may explain how distributed neural processes combine into unified experience.
+Can quantum superposition persist in neural tissue long enough to matter for consciousness? Recent experimental evidence (2024-2025) answers with qualified optimism: microtubule-stabilising drugs delay anaesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by eight to nine orders of magnitude beyond initial calculations, MRI studies detect entanglement signatures correlating with consciousness, and multiple protective mechanisms have been identified. The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation. This matters for the [binding problem](/concepts/binding-problem/): if quantum entanglement provides genuine physical holism—where the whole is irreducible to parts—it may explain how distributed neural processes combine into unified experience.
 
 ## The Challenge
 
@@ -57,7 +58,7 @@ Hagan, Hameroff, and Tuszynski (2002) challenged Tegmark's model:
 3. **Temperature paradox**: Tegmark's model predicts decreasing decoherence at lower temperatures—contradicting observed quantum behaviour
 4. **Equilibrium assumption**: Living systems actively pump energy; thermal equilibrium describes dead tissue
 
-When corrected, calculated coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer than Tegmark claimed. A 2025 computational study (Wiest et al.) incorporating realistic biological conditions estimated 1-2 microseconds. These corrected figures remain theoretical. A 2025 *Frontiers in Human Neuroscience* review (Sergi et al.) repeats the 10⁻⁶ to 10⁻⁴ second range and describes it as experimentally observed, but the study it cites for that claim measured electromagnetic resonance in a single microtubule rather than a coherence time. No direct measurement of coherence times in neural microtubules has been reported, so the recalculation shifts the burden of the decoherence objection rather than settling it.
+When corrected, calculated coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—eight to nine orders of magnitude longer than Tegmark claimed. A 2025 computational study (Wiest et al.) incorporating realistic biological conditions estimated 1-2 microseconds. These corrected figures remain theoretical. A 2025 *Frontiers in Human Neuroscience* review (Sergi et al.) repeats the 10⁻⁶ to 10⁻⁴ second range and describes it as experimentally observed, but the study it cites for that claim measured electromagnetic resonance in a single microtubule rather than a coherence time. No direct measurement of coherence times in neural microtubules has been reported, so the recalculation shifts the burden of the decoherence objection rather than settling it.
 
 | Source | Coherence Time | Key Assumption |
 |--------|---------------|----------------|

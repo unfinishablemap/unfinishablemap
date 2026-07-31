@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -129,7 +129,7 @@ A critical objection: [[decoherence]] destroys quantum superpositions in warm bi
 
 Three considerations:
 
-**Revised timescales.** Tegmark's calculations have been challenged. Hagan et al. (2002) disputed his model parameters, yielding estimates of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. The decoherence objection depends on contested empirical claims.
+**Revised timescales.** Tegmark's calculations have been challenged. Hagan et al. (2002) disputed his model parameters, yielding estimates of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. The decoherence objection depends on contested empirical claims.
 
 **Selection doesn't require sustained coherence.** The interface view requires only that consciousness bias *which outcome* occurs when superposition resolves—whether through decoherence or measurement. Decoherence selects preferred bases and suppresses interference, but it doesn't determine which outcome from the resulting mixture becomes actual. That determination remains unexplained by physics.
 

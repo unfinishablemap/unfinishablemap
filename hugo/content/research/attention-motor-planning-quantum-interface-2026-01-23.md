@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-23
-date: '2026-05-27'
+date: '2026-07-31'
 draft: false
 related_articles: []
 title: Research Notes - Attention and Motor Planning Quantum Interface
@@ -178,7 +178,7 @@ Research reveals deep connections between attention and motor planning that supp
 - **URL**: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/full
 - **Type**: Research paper
 - **Key points**:
-  - Revised decoherence estimates: 10-100 μs (seven orders of magnitude beyond Tegmark)
+  - Revised decoherence estimates: 10-100 μs (eight to nine orders of magnitude beyond Tegmark)
   - Hydrophobic microtubule interior may delay decoherence
   - These megahertz frequency durations may permit meaningful quantum contribution
   - Aligns with neurophysiological processes
@@ -269,7 +269,7 @@ Research reveals deep connections between attention and motor planning that supp
 | 1987 | Rizzolatti et al. premotor theory | Proposes attention-motor shared substrate |
 | 1993 | Stapp, *Mind, Matter and Quantum Mechanics* | Introduces quantum Zeno mechanism for consciousness |
 | 2000 | Tegmark decoherence critique | Calculates 10^-13 s coherence times; challenges quantum mind |
-| 2002 | Hagan et al. revised estimates | Extends coherence to 10^-5 s; seven orders of magnitude improvement |
+| 2002 | Hagan et al. revised estimates | Extends coherence to 10^-5 s; eight orders of magnitude improvement |
 | 2005 | Schwartz, Stapp, Beauregard neuroplasticity | Demonstrates directed attention changes brain; quantum framework |
 | 2007 | Cisek affordance competition | Establishes parallel action representation competition model |
 | 2009 | Desmurget parietal stimulation | Double dissociation of intention (parietal) and execution (premotor) |

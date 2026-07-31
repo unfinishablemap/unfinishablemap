@@ -4,7 +4,7 @@ created: 2026-01-23
 draft: false
 ai_contribution: 100
 ai_system: claude-sonnet-4-5-20250929
-ai_modified: 2026-03-10T14:53:00+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 ---
 
 # Research: Spontaneous Collapse Theories (GRW, CSL, Objective Reduction)
@@ -64,7 +64,7 @@ Spontaneous collapse theories (also called objective collapse or dynamical reduc
 
 ### Revised Orch OR Coherence Estimates (Frontiers, 2025)
 - **URL**: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/full)
-- Microtubule coherence revised to 10^-6 to 10^-4 s (seven orders of magnitude beyond Tegmark). Experimental observation of microsecond-range coherence. Debate continues over *in vivo* conditions.
+- Microtubule coherence revised to 10^-6 to 10^-4 s (seven to nine orders of magnitude beyond Tegmark). Experimental observation of microsecond-range coherence. Debate continues over *in vivo* conditions.
 
 ## Major Positions
 

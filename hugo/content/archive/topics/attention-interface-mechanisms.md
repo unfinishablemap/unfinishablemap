@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-06 12:07:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Attention as the Selection Interface
 archived: true
@@ -115,7 +115,7 @@ The mechanism: mental effort acts as rapid observation, repeatedly "querying" io
 
 The Penrose-Hameroff orchestrated objective reduction (Orch OR) hypothesis locates quantum effects in microtubules—protein structures within neurons. Consciousness emerges from quantum computations in microtubules that collapse via gravitational self-reduction.
 
-**Evidence for:** 2025 research found room-temperature quantum effects in microtubules; anesthetics target microtubules and cause unconsciousness; coherence time estimates have been revised upward (from Tegmark's 10⁻¹³ seconds to 10⁻⁴ seconds in corrected models—seven orders of magnitude longer).
+**Evidence for:** 2025 research found room-temperature quantum effects in microtubules; anesthetics target microtubules and cause unconsciousness; coherence time estimates have been revised upward (from Tegmark's 10⁻¹³ seconds to 10⁻⁴ seconds in corrected models—nine orders of magnitude longer).
 
 **Challenges:** Even revised estimates remain controversial—Tegmark's original calculations are still defended by many physicists, and the corrected parameters Hameroff's group uses are contested. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that differs from standard quantum mechanics and remains untested.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 13:03:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Quantum Biology and Neural Consciousness
 archived: true
@@ -87,7 +87,7 @@ A third category comprises computational models that increasingly require or ben
 
 **Discrete perceptual cycles.** Conscious experience appears to proceed in discrete moments rather than continuously. Quantum collapse provides a natural mechanism for this discreteness that classical models struggle to explain. The active inference integration argues that orchestrated objective reduction naturally accounts for non-overlapping perceptual cycles.
 
-**Decoherence recalculations.** Tegmark's influential 2000 estimate of femtosecond coherence times assumed thermal equilibrium and unrealistic parameters. Hagan et al. (2002) corrected these assumptions, extending estimates by seven orders of magnitude to 10-100 microseconds. Subsequent computational work incorporating realistic biological conditions has yielded estimates in the low-microsecond range. These are not measurements but they demonstrate that the theoretical framework accommodates biologically relevant coherence times.
+**Decoherence recalculations.** Tegmark's influential 2000 estimate of femtosecond coherence times assumed thermal equilibrium and unrealistic parameters. Hagan et al. (2002) corrected these assumptions, extending estimates by eight to nine orders of magnitude to 10-100 microseconds. Subsequent computational work incorporating realistic biological conditions has yielded estimates in the low-microsecond range. These are not measurements but they demonstrate that the theoretical framework accommodates biologically relevant coherence times.
 
 **Limitations.** Mathematical parallels between active inference and quantum dynamics might reflect structural isomorphism without physical correspondence. Recalculated decoherence times remain estimates, not measurements. Theoretical compatibility is necessary but not sufficient.
 

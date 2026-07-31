@@ -4,7 +4,7 @@ description: "Quantum entanglement may solve the binding problem by providing ge
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,7 +117,7 @@ The findings are contested (Warren 2023) and await independent replication. If c
 
 The standard objection—that [[decoherence]] destroys quantum effects too rapidly in warm biological systems—has weakened.
 
-Tegmark (2000) calculated microtubule decoherence times of 10⁻¹³ to 10⁻²⁰ seconds. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions: unrealistic superposition separations, thermal equilibrium models inappropriate for living tissue. Corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
+Tegmark (2000) calculated microtubule decoherence times of 10⁻¹³ to 10⁻²⁰ seconds. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions: unrealistic superposition separations, thermal equilibrium models inappropriate for living tissue. Corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer.
 
 Biological quantum effects demonstrate evolutionary precedent. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins at physiological temperatures. If evolution harnessed quantum effects for navigation, neural systems are not categorically different.
 

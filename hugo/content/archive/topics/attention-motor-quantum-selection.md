@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 21:54:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Mechanisms of the Attention-Consciousness Interface
 archived: true
@@ -144,7 +144,7 @@ William James observed that "volition is nothing but attention" and "the free wi
 
 ### Timing Constraints
 
-The mechanism must satisfy timing constraints. Quantum coherence in warm brains faces rapid decoherence—Tegmark estimated 10⁻¹³ seconds. But revised calculations (Hameroff, 2014) yield 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer, potentially allowing meaningful quantum contribution within neural timescales.
+The mechanism must satisfy timing constraints. Quantum coherence in warm brains faces rapid decoherence—Tegmark estimated 10⁻¹³ seconds. But revised calculations (Hameroff, 2014) yield 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer, potentially allowing meaningful quantum contribution within neural timescales.
 
 The ~300ms selection window and the revised decoherence estimates may be compatible: roughly 1000 quantum cycles could occur within a single motor commitment event. The Map's position: the decoherence debate remains open, but evidence increasingly favours viability. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for detailed analysis.
 

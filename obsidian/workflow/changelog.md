@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T03:24:10+00:00'
+ai_modified: '2026-07-31T03:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 03:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[archive/concepts/quantum-coherence-in-neural-systems]] (anchor; corpus-wide sweep of the Tegmark/Hagan order-of-magnitude arithmetic)
+- **Defect**: articles state the Hagan–Hameroff–Tuszyński (2002) correction as "seven orders of magnitude longer than Tegmark" while naming 10⁻⁵ to 10⁻⁴ s as the corrected figure. Against Tegmark's 10⁻¹³ s microtubule baseline that gap is **eight to nine**, per the arXiv `quant-ph/0005025` abstract ("lengthens the decoherence time to 10⁻⁵–10⁻⁴ s").
+- **Rule applied — NOT a blanket substitution.** The count must match the corrected estimate the *same sentence* names: 10⁻⁶ → seven (correct, left alone); 10⁻⁵ → eight; 10⁻⁴ → nine; 10⁻⁵ to 10⁻⁴ → eight to nine; 10⁻⁶ to 10⁻⁴ → seven to nine. A blind replace would have introduced errors.
+- **Changes**: 44 loci across 30 files — 39 → "eight to nine", 3 → "eight", 1 → "nine", 1 → "seven to nine"; 1 lead + 1 `description` brought into line with their own file's body figure. Trees swept: `archive/` (21 files), `obsidian/research/` (9 files). `obsidian/` content tree had **zero** in-scope loci.
+- **Pattern completeness — the word-form grep was insufficient.** `seven orders of magnitude` missed four research files that carry only the numeral form `7 orders of magnitude` (`decoherence-macroscopic-superposition-2026-01-14`, `specious-present-temporal-experience-2026-01-16`, `non-retrocausal-conscious-selection-2026-03-07`, `quantum-biology-neural-experimental-2026-03-20`). Both patterns are required. Note `7 orders of magnitude` also false-positives on `10 to 17 orders of magnitude` (3 files) — anchor edits on surrounding context, never on the bare substring.
+- **Left as "seven" — correct arithmetic (1 locus + 2 in its research note)**: `archive/concepts/non-retrocausal-conscious-selection.md` names "(~10^-6 s, microsecond range)", against which seven is right; its research note `non-retrocausal-conscious-selection-2026-03-07.md` (L160, L224) names "microsecond coherence" and is consistent.
+- **Left as "seven" — no corrected figure named anywhere in sentence, paragraph or file (13 loci, 11 files)**: `conservation-laws-and-mind`, `quantum-biology-neural-experimental-turn`, `conservation-laws-mind-brain-causation`, `voluntary-attention`, `arguments-against-materialism`, `duration`, `psychophysical-coupling-law`, `psychophysical-coupling`, `phenomenal-binding` (archive); `amplification-mechanisms-consciousness-physics-2026-03-18` (×2), `quantum-state-inheritance-computational-systems-2026-02-10` (×2), `quantum-biology-neural-experimental-2026-03-20` (×2) (research). These are **underdetermined, not arithmetically wrong** — "seven longer than 10⁻¹³" is internally consistent with an unstated 10⁻⁶, which a prior pass demonstrably used. Correcting them would change a claim, not fix arithmetic. Left deliberately; not guessed.
+- **Left — verbatim quote**: `obsidian/research/quantum-neural-timing-constraints-2026-01-24.md` L41 is a marked `**Quote**:` attributed to Hameroff & Penrose (2014). Its "seven" stands; altering text inside quotation marks fabricates. L37 of the same file (the Map's own paraphrase, naming 10-100 μs) *was* corrected, so paraphrase and quote now legitimately differ. **Do not "reconcile" them by editing the quote.**
+- **Left — different defect family (bandwidth, not decoherence)**: `archive/topics/resolution-bandwidth-interface.md` L114, `obsidian/concepts/interface-friction.md` L52, and `archive/topics/neural-bandwidth-constraints-and-the-interface.md` L162 ("seven-order-of-magnitude gap … 10⁹ and 10¹ bits per second" — that ratio is **eight** orders). Adjacent arithmetic defect, outside this task's rule table; flagged for a separate pass.
+- **Left — historical record**: `obsidian/project/outer-reviewer-service-calibration.md` L40 quotes a reviewer's flag verbatim; `obsidian/workflow/` and `obsidian/reviews/` (109 files) untouched by design.
+- **Attribution**: each of the 30 files kept its own `ai_system` (five distinct values across the set — opus-4-5-20251101, opus-4-6, opus-4-7, sonnet-4-5-20250929); asserted unchanged vs HEAD. `ai_modified` bumped to 2026-07-31T03:33:32Z from `date -u`, verified non-future; `last_deep_review` untouched. Length-neutral substitution; `neural-quantum-coherence.md` `description` now 160 chars (within the 150-160 band).
+- **Mirror**: `scripts/sync.py` run; `hugo/content/` residual outside `workflow/`+`reviews/` is 15 files, one-to-one with the source leave-list above.
+- **Published**: yes
 
 ## 2026-07-31 03:23 UTC - coalesce
 - **Status**: Success (reasoned ABANDON — no merge, no deferral)

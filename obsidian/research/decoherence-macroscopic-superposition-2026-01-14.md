@@ -85,7 +85,7 @@ Decoherence—the loss of quantum coherence through environmental interaction—
 
 ### The Orch OR Response (Hameroff, Penrose)
 - **Proponents**: Stuart Hameroff, Roger Penrose, Jack Tuszynski
-- **Core claim**: Tegmark's calculation was based on wrong model (24 nm separation instead of Orch OR's smaller values); corrected calculations give coherence times 7 orders of magnitude longer
+- **Core claim**: Tegmark's calculation was based on wrong model (24 nm separation instead of Orch OR's smaller values); corrected calculations give coherence times eight to nine orders of magnitude longer
 - **Key arguments**:
   - Tegmark assumed thermal equilibrium (death, not life)
   - Hydrophobic microtubule interior provides protection
@@ -138,7 +138,7 @@ Decoherence—the loss of quantum coherence through environmental interaction—
 | 1970 | Zeh develops decoherence theory | First systematic treatment of environment-induced coherence loss |
 | 1989-94 | Hameroff-Penrose Orch OR | Major quantum consciousness proposal |
 | 2000 | Tegmark decoherence calculation | Influential critique claiming femtosecond decoherence |
-| 2002 | Hagan, Tuszynski, Hameroff response | Corrected model gives 7 orders of magnitude longer coherence |
+| 2002 | Hagan, Tuszynski, Hameroff response | Corrected model gives eight to nine orders of magnitude longer coherence |
 | 2007 | Engel et al. photosynthesis coherence | First evidence of quantum coherence in warm biology |
 | 2022 | Kerskens & López Pérez brain entanglement | MRI evidence of macroscopic quantum effects in living brain |
 | 2024 | Babcock et al. microtubule superradiance | Room-temperature quantum effects in microtubules |

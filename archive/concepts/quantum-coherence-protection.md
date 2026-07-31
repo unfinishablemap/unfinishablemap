@@ -4,7 +4,7 @@ description: "Four mechanisms protecting quantum coherence in brains: hydrophobi
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-30T20:09:12+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,13 +36,13 @@ archive_reason: "Coalesced into Quantum Coherence in Neural Systems"
 original_path: "/concepts/quantum-coherence-protection/"
 ---
 
-Four distinct mechanisms have been proposed for protecting quantum coherence in biological systems long enough for consciousness to operate: hydrophobic shielding in microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation in Posner molecules, and ordered water structures. Recent experimental evidence (2024-2025) has strengthened the case for biologically relevant quantum effects, with revised decoherence calculations extending coherence times by seven orders of magnitude beyond early estimates. The question has shifted from *whether* quantum effects can survive in warm biology to *how* they are protected.
+Four distinct mechanisms have been proposed for protecting quantum coherence in biological systems long enough for consciousness to operate: hydrophobic shielding in microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation in Posner molecules, and ordered water structures. Recent experimental evidence (2024-2025) has strengthened the case for biologically relevant quantum effects, with revised decoherence calculations extending coherence times by eight to nine orders of magnitude beyond early estimates. The question has shifted from *whether* quantum effects can survive in warm biology to *how* they are protected.
 
 ## The Decoherence Challenge
 
 Max Tegmark's influential 2000 calculation claimed quantum coherence in brain microtubules would decay in approximately 10⁻¹³ seconds—far too brief for neural processes operating on millisecond timescales. This became the standard objection to [[quantum-consciousness|quantum consciousness theories]]. If superpositions collapse in femtoseconds, consciousness cannot influence quantum outcomes.
 
-The calculation assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances larger than actual proposals specify. Hagan, Hameroff, and Tuszynski (2002) challenged these assumptions directly. Their corrected calculation extended coherence times by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds.
+The calculation assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances larger than actual proposals specify. Hagan, Hameroff, and Tuszynski (2002) challenged these assumptions directly. Their corrected calculation extended coherence times by eight to nine orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds.
 
 ### The Remaining Timescale Gap
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-07-30 21:43:23+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Neural Mechanisms and Coherence
 archived: true
@@ -51,7 +51,7 @@ Before examining specific mechanisms, the central objection must be addressed. [
 
 Yet this objection faces two challenges:
 
-1. **Revised estimates**: Subsequent calculations for microtubule interiors yield 10-100 microseconds (Hagan et al. 2002), seven orders of magnitude longer than Tegmark's ion channel model. This still leaves a significant gap: neural decisions operate at ~300 milliseconds, while 100 microseconds is three orders of magnitude shorter. The decoherence problem is reduced but not eliminated for mechanisms requiring sustained coherence.
+1. **Revised estimates**: Subsequent calculations for microtubule interiors yield 10-100 microseconds (Hagan et al. 2002), eight to nine orders of magnitude longer than Tegmark's ion channel model. This still leaves a significant gap: neural decisions operate at ~300 milliseconds, while 100 microseconds is three orders of magnitude shorter. The decoherence problem is reduced but not eliminated for mechanisms requiring sustained coherence.
 
 2. **Mechanism diversity**: Different proposals have different coherence requirements. The [Stapp quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence at all—it operates through discrete observations, not continuous superposition. Similarly, tunneling-based mechanisms (SNARE, ion channels) involve discrete quantum events rather than prolonged superposition.
 

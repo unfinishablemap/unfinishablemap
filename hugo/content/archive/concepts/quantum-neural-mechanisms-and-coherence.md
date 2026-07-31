@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-07-30 20:14:46+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Quantum Biology and Neural Mechanisms
 archived: true
@@ -67,7 +67,7 @@ Five distinct quantum mechanisms have been proposed for neural systems, four pro
 
 [Max Tegmark's 2000 calculation](/concepts/decoherence/) estimated quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds (100 femtoseconds)—ten billion times shorter than millisecond neural processes. This became the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/).
 
-Hagan, Hameroff, and Tuszynski (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue, not living systems), oversized superposition separations, and charge-charge rather than dipole interactions. When corrected, coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer. Sergi et al. (2025) report the same range, but derive it from that calculation rather than from measurement; no direct measurement of coherence times in neural microtubules has been reported, so the correction shifts the burden of the decoherence objection rather than settling it.
+Hagan, Hameroff, and Tuszynski (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue, not living systems), oversized superposition separations, and charge-charge rather than dipole interactions. When corrected, coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—eight to nine orders of magnitude longer. Sergi et al. (2025) report the same range, but derive it from that calculation rather than from measurement; no direct measurement of coherence times in neural microtubules has been reported, so the correction shifts the burden of the decoherence objection rather than settling it.
 
 | Source | Coherence Time | Key Assumption |
 |--------|---------------|----------------|

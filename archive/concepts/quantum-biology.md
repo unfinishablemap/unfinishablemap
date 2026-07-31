@@ -4,7 +4,7 @@ description: "Non-trivial quantum effects in living systems—photosynthesis, bi
 created: 2026-01-16
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,7 +175,7 @@ Neither Orch OR nor QBIT has been definitively confirmed. The existence of brain
 
 The most serious objection to quantum consciousness theories is [[decoherence]]—the loss of quantum coherence through environmental interaction. Max Tegmark's influential 2000 calculation estimated decoherence times of 10⁻¹³ seconds for brain microtubules, while neural processes operate on millisecond timescales. If correct, this gap of ten orders of magnitude would rule out functional quantum effects in neural tissue.
 
-Yet the calculation's assumptions have been challenged. Hagan, Hameroff, and Tuszynski (2002) argued Tegmark used incorrect model parameters—larger superposition separations than Orch OR actually proposes, and charge-charge rather than dipole interactions. When corrected, coherence estimates extend to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
+Yet the calculation's assumptions have been challenged. Hagan, Hameroff, and Tuszynski (2002) argued Tegmark used incorrect model parameters—larger superposition separations than Orch OR actually proposes, and charge-charge rather than dipole interactions. When corrected, coherence estimates extend to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer.
 
 **2024-2025 revisions**: Experimental and theoretical work continues revising these estimates upward:
 - Radical pair mechanisms in cryptochrome demonstrate microsecond (10⁻⁶ s) coherence—not femtoseconds

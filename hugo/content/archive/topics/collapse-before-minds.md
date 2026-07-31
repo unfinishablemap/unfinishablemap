@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-05 10:39:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: 'Coalesced into Prebiotic Collapse: What Selected Outcomes Before
   Minds?'
@@ -133,7 +133,7 @@ If [decoherence](/concepts/decoherence/) destroys quantum coherence in femtoseco
 
 Three responses:
 
-1. **Revised timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions (Hagan et al., 2002), coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
+1. **Revised timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions (Hagan et al., 2002), coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer.
 
 2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence between observations. Rapid mental "observations" maintain states through repeated measurement—operating faster than decoherence can act.
 

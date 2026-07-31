@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-30 20:09:12+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-07-30'
+date: '2026-07-31'
 draft: false
 related_articles: []
 title: Research Notes - Quantum Superposition in the Brain
@@ -27,7 +27,7 @@ title: Research Notes - Quantum Superposition in the Brain
 
 ## Executive Summary
 
-This research examines whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes, directly supporting The Unfinishable Map's Minimal Quantum Interaction tenet. Recent experimental evidence (2024-2025) has significantly strengthened the case for biologically relevant quantum effects: superradiance confirmed in tryptophan networks at room temperature, microtubule-stabilizing drugs delaying anesthetic-induced unconsciousness, and revised decoherence estimates extending coherence times by seven orders of magnitude beyond Tegmark's original calculations. Three main protective mechanisms are proposed: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), and nuclear spin isolation (Fisher's Posner molecules). The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation.
+This research examines whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes, directly supporting The Unfinishable Map's Minimal Quantum Interaction tenet. Recent experimental evidence (2024-2025) has significantly strengthened the case for biologically relevant quantum effects: superradiance confirmed in tryptophan networks at room temperature, microtubule-stabilizing drugs delaying anesthetic-induced unconsciousness, and revised decoherence estimates extending coherence times by eight to nine orders of magnitude beyond Tegmark's original calculations. Three main protective mechanisms are proposed: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), and nuclear spin isolation (Fisher's Posner molecules). The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation.
 
 ## Key Sources
 
@@ -78,7 +78,7 @@ This research examines whether and how quantum superposition could persist in ne
 - **Key points**:
   - Tegmark's calculation addressed wrong model (hybrid, not actual Orch OR)
   - Tegmark assumed thermal equilibrium (appropriate for dead tissue, not living)
-  - Corrected calculation extends coherence times by seven orders of magnitude (10⁻⁵ to 10⁻⁴ seconds)
+  - Corrected calculation extends coherence times by eight to nine orders of magnitude (10⁻⁵ to 10⁻⁴ seconds)
   - Tegmark's model paradoxically predicts decreasing decoherence at lower temperatures
 - **Tenet alignment**: Defends viability of quantum consciousness mechanisms
 
@@ -191,7 +191,7 @@ This research examines whether and how quantum superposition could persist in ne
 | 1989 | Penrose - "The Emperor's New Mind" | Introduces non-computability argument for consciousness |
 | 1994 | Penrose & Hameroff propose Orch OR | First complete theory linking consciousness to quantum gravity |
 | 2000 | Tegmark decoherence calculation | Major challenge: ~10⁻¹³ s coherence claimed |
-| 2002 | Hagan et al. response to Tegmark | Extends calculated coherence by 7 orders of magnitude |
+| 2002 | Hagan et al. response to Tegmark | Extends calculated coherence by eight to nine orders of magnitude |
 | 2007 | Fleming demonstrates quantum coherence in photosynthesis | Proves warm biology can exploit quantum effects |
 | 2015 | Fisher proposes Posner molecule hypothesis | Alternative mechanism via nuclear spins |
 | 2020 | Saxena et al. measure fractal, scale-free electromagnetic resonance of a single microtubule | Resonance measurement, not a coherence-time result |

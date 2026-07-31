@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-30 21:11:47+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-24
-date: '2026-07-30'
+date: '2026-07-31'
 draft: false
 related_articles: []
 title: Research Notes - Quantum Neural Timing Constraints
@@ -37,7 +37,7 @@ This research investigates whether the ~280-300ms timing windows identified in m
 - **Type**: Review paper (Physics of Life Reviews)
 - **Key points**:
   - Microtubule interior is hydrophobic, potentially protective
-  - Revised estimates: 10-100 microseconds coherence (7 orders of magnitude improvement)
+  - Revised estimates: 10-100 microseconds coherence (eight to nine orders of magnitude improvement)
   - Bandyopadhyay lab measured ~100μs coherence in single microtubules at warm temperature
   - Still shorter than neural timescales but "may permit meaningful contribution"
 - **Tenet alignment**: Supports Minimal Quantum Interaction by extending coherence times

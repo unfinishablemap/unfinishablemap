@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-07-31 03:33:32+00:00
 ai_system: claude-sonnet-4-5-20250929
 archive_reason: Coalesced into Phenomenal Binding and Holism along with Phenomenal
   Unity and Neural Binding Mechanisms
@@ -92,7 +92,7 @@ Disparate sensory inputs processed in different brain regions at different times
 
 This addresses BP2 because quantum collapse is fundamentally holistic. Entangled quantum systems don't have well-defined parts until measurement. The collapse event produces unity directly rather than building it from separable components. This solves the combination problem by proposing that phenomenal unity is grounded in quantum non-separability rather than classical composition.
 
-**The decoherence objection:** Critics argue that quantum coherence cannot survive in the warm, wet brain long enough to support neural processing (~milliseconds). Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for microtubules. Hameroff's group (Hagan et al., 2002) challenged these calculations, yielding corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. This dispute remains unresolved: most physicists side with Tegmark's pessimistic estimates, while proponents of quantum consciousness theories maintain that revised models and biological mechanisms for protecting coherence remain viable. Experimental work from 2014-2024 on [microtubule-anesthesia interactions and MRI detection of entanglement signatures](/concepts/quantum-neural-mechanisms-and-coherence/) provides tentative empirical support, though interpretation remains contested.
+**The decoherence objection:** Critics argue that quantum coherence cannot survive in the warm, wet brain long enough to support neural processing (~milliseconds). Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for microtubules. Hameroff's group (Hagan et al., 2002) challenged these calculations, yielding corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. This dispute remains unresolved: most physicists side with Tegmark's pessimistic estimates, while proponents of quantum consciousness theories maintain that revised models and biological mechanisms for protecting coherence remain viable. Experimental work from 2014-2024 on [microtubule-anesthesia interactions and MRI detection of entanglement signatures](/concepts/quantum-neural-mechanisms-and-coherence/) provides tentative empirical support, though interpretation remains contested.
 
 More fundamentally, [decoherence](/concepts/decoherence/) doesn't solve the measurement problem. Decoherence selects a preferred basis (e.g., "particle detected here" vs. "particle detected there") without explaining why one definite outcome occurs. Consciousness could bias outcome selection even after decoherence suppresses superposition. The Map's position: quantum effects at the collapse level, not sustained coherence throughout processing.
 

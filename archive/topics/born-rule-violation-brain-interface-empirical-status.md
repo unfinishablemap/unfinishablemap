@@ -4,7 +4,7 @@ description: "Maps which consciousness-physics proposals require Born-rule viola
 created: 2026-04-23
 modified: 2026-05-13
 human_modified:
-ai_modified: 2026-07-30T21:11:47+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 archived: true
 archived_date: 2026-05-13T20:22:00+00:00
@@ -80,7 +80,7 @@ Three experimental strands are alive in the 2025-2026 landscape. None isolates B
 
 Kerskens and Pérez (2022) applied an MRI protocol to proton spins in brain water using entanglement-witness logic adapted from quantum-gravity experiments: if two known quantum systems entangle via an unknown mediator, the mediator must itself be quantum. They detected MRI signals resembling heartbeat-evoked potentials that standard MRI should not resolve, with signal strength correlated to short-term memory performance and sleep-wake transitions. Follow-up work through Lopez Perez et al. (2023) and the Frontiers 2025 review continues this programme.
 
-Wiest (2025, *Neuroscience of Consciousness*) reviews room-temperature quantum effects in microtubules, microtubule resonances controlling membrane spiking, volatile anaesthetic targeting of microtubules, and what he describes as "direct physical evidence of a macroscopic quantum entangled state in the living human brain that is correlated with the conscious state and working memory performance" — the evidence in question being Kerskens and Pérez's MRI work, reviewed rather than newly reported. Hagan, Hameroff, and Tuszyński (2002) earlier estimated microtubule decoherence times up to ~10⁻⁵ seconds — seven orders of magnitude longer than Tegmark's (2000) estimate — under Debye-layer screening and ordered water.
+Wiest (2025, *Neuroscience of Consciousness*) reviews room-temperature quantum effects in microtubules, microtubule resonances controlling membrane spiking, volatile anaesthetic targeting of microtubules, and what he describes as "direct physical evidence of a macroscopic quantum entangled state in the living human brain that is correlated with the conscious state and working memory performance" — the evidence in question being Kerskens and Pérez's MRI work, reviewed rather than newly reported. Hagan, Hameroff, and Tuszyński (2002) earlier estimated microtubule decoherence times up to ~10⁻⁵ seconds — eight orders of magnitude longer than Tegmark's (2000) estimate — under Debye-layer screening and ordered water.
 
 Keppler (2025) proposes that cortical microcolumns couple to the electromagnetic zero-point field via glutamate-mediated resonance, supplying a field-theoretic candidate interface.
 

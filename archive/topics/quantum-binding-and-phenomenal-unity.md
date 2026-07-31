@@ -4,7 +4,7 @@ description: "Quantum entanglement provides the only physical substrate structur
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-30T20:09:12+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 draft: false
 archived: true
 archived_date: 2026-02-25T00:30:00+00:00
@@ -71,7 +71,7 @@ In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark
 
 - **Superposition separation**: Tegmark assumed unrealistically large separation distances for quantum superpositions. More physically plausible separations yield much longer coherence times.
 - **Thermal equilibrium**: Tegmark's model assumed thermal equilibrium—conditions equivalent to death. Living neural tissue is metabolically active, far from thermal equilibrium.
-- **Model parameters**: Using corrected estimates for dielectric properties and realistic model parameters, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated.
+- **Model parameters**: Using corrected estimates for dielectric properties and realistic model parameters, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—**eight to nine orders of magnitude longer** than Tegmark calculated.
 
 These corrected figures remain theoretical, however. No direct measurement of coherence times in neural microtubules has been reported, so the recalculation shifts the burden of the decoherence objection rather than settling it.
 

@@ -2,7 +2,7 @@
 title: "Research Notes - Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface?"
 created: 2026-04-23
 modified: 2026-04-23
-ai_modified: 2026-07-30T21:11:47+00:00
+ai_modified: 2026-07-31T03:33:32+00:00
 human_modified:
 draft: false
 ai_contribution: 100
@@ -109,7 +109,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
 - **Type**: Paper
 - **Key points**:
   - Response to Tegmark (2000) who put microtubule decoherence at femtoseconds.
-  - Argues, with Debye-layer screening and ordered water, decoherence times up to ~10⁻⁵ s — seven orders of magnitude longer than Tegmark's estimate.
+  - Argues, with Debye-layer screening and ordered water, decoherence times up to ~10⁻⁵ s — eight orders of magnitude longer than Tegmark's estimate.
 - **Tenet alignment**: Supports the possibility of biologically relevant quantum coherence in the brain, which is necessary but not sufficient for Born-rule-violating consciousness physics.
 
 ### A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems (Wiest 2025)
