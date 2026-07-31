@@ -4,7 +4,7 @@ description: "A human-AI methodology page naming the two-tier discount: an archi
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-05T20:27:00+00:00
+ai_modified: 2026-07-31T03:59:34+00:00
 last_deep_review: 2026-05-25T13:30:00+00:00
 draft: false
 topics: []
@@ -19,6 +19,7 @@ related_articles:
   - "[[direct-refutation-discipline]]"
   - "[[coherence-inflation-countermeasures]]"
   - "[[outer-reviewer-service-calibration]]"
+  - "[[positions/finding-level-calibration]]"
   - "[[concepts/anti-correlated-metacognitive-signal]]"
   - "[[concepts/mine-ness]]"
   - "[[concepts/inventory-blindness]]"
@@ -87,6 +88,8 @@ In every case the architecture-tier claim is cross-vocabulary-translatable and t
 
 Two citation styles are appropriate. *Tier-explicit citations* name which tier the finding is doing work at — *"at the architecture tier, the anti-correlation finding survives across rival vocabularies; the witness-behind-the-architecture significance is cited at the larger framework-dependence discount."* *Discipline-deferral citations* defer to the page by name — *"calibrated per the architecture-vs-significance two-tier discount, the separability finding is load-bearing structurally while its dualist significance carries the larger discount."*
 
+Either style may name the register entry alongside the page. The discipline is held as a live position at [[positions/finding-level-calibration|P-F1]], which states it in register form with its calibration band and the conditions that would shift or retire it. Cite the position where what is at stake is *that the Map is committed to the split* — a dependency line, a claim about the Map's own citation conduct — and cite this page where what is at stake is the split's content, its cross-vocabulary-translatability test, or its bounds.
+
 A citation that ascribes the architecture tier's robustness to the significance tier, that cites "the finding" without specifying which tier is doing the inferential work, or that treats the two-tier split as licensing a *quantitative* discount factor, should be flagged in review.
 
 ## Relation to the Sister Disciplines
@@ -98,6 +101,7 @@ The discount sits in the family of named discipline pages, each at a distinct re
 - [[common-cause-null]] is the *convergence-evaluation* companion. Where the two-tier discount disciplines how *one* finding's two claims are cited, the common-cause null disciplines whether *N* findings are genuinely independent. The two interlock: a convergence argument should run on the *architecture-tier* claims of its members (the cross-vocabulary-robust layer), because convergence on framework-shaped *significance* claims risks counting the Map's own commitment N times — the common-cause null's failure mode meeting this page's.
 - [[voids-circularity-discount]] is *one specific application at the void grain* — the larger discount the significance tier carries is, for tenet-generated voids, large enough to reach zero under the circularity prohibition. The two-tier discount is the general structure; the voids-circularity discount is its strict-prohibition limit case.
 - [[per-cluster-independence-scoring]] is the *operational layer* that runs clusters against four criteria and reports a profile; its profiles already carry the asymmetric mark *strong-on-architecture-lower-on-significance*. The two-tier discount is the canonical statement of what that mark *means*.
+- [[positions/finding-level-calibration|P-F1]] stands in a different relation from the five above: it is the *register entry* for this discipline rather than a neighbouring page at an adjacent register. Where this page argues the split and supplies its test, the register records the resulting commitment in banded, dated form with the conditions that would shift it, and enumerates the live positions that instantiate it — [[positions/quantum-interface|P-Q8]] (warm quantum biology as precedent, not licence), [[positions/consciousness-scope|P-CS4]] (the fragmentation cases as preferred interpretation rather than forced reading), and [[positions/voids-as-evidence|P-V2]] at the void grain.
 
 ## What the Discipline Does Not Claim
 
@@ -123,6 +127,7 @@ Its most direct connection is to **[[tenets#^occams-limits|Tenet 5 — Occam's R
 
 ## Further Reading
 
+- [[positions/finding-level-calibration|P-F1]] — the register entry holding this discipline as a live position, with its calibration band, dependencies, and retirement conditions
 - [[evidential-status-discipline]] — the single-claim five-tier calibration the two-tier split feeds
 - [[framework-stage-calibration]] — the framework-maturity register, orthogonal to the finding-level split
 - [[common-cause-null]] — the convergence companion; convergence should run on architecture-tier claims

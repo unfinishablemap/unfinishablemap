@@ -1,13 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T03:38:00+00:00'
+ai_modified: '2026-07-31T04:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 04:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/)
+- **Original score**: n/a (`scripts/curate.py` does not exist in this tree; targeted integration pass per task brief, not a general refinement)
+- **Gap closed**: the discipline's self-declared canonical home ("This page is the canonical home that reading defers to") mentioned its own register entry zero times — `grep P-F1` → 0, `grep finding-level-calibration` → 0, `grep 'positions/'` → 0. Re-verified live before editing.
+- **Premise correction carried from the driver, and it changed the fix.** The originating optimistic review framed this as missing Argued-in *reciprocity*. It is not: across all 11 `positions/` files only 28 of 86 Argued-in relationships link back (33%), so non-reciprocity is the majority pattern and high-inbound positions earn links by ambient citation, not bookkeeping. The edit was therefore written as *citation guidance*, not as a mechanical backlink. What makes P-F1 the extreme case rather than a typical one: 1 inbound wikilink corpus-wide (the register index) and zero occurrences in any article body across `obsidian/`, `archive/` and `hugo/content/` — of 111 targets with ≤1 inbound it is the only `positions/` or `project/` discipline page.
+- **Changes — three additions, one frontmatter field, no prose deleted or rewritten**:
+    1. **§"How to Cite the Discipline"** (the substantive edit — a section whose whole job is telling readers what to point at was silent on the register): added one paragraph naming P-F1 and stating the division of labour — cite the *position* where what is at stake is that the Map is committed to the split (a dependency line, a claim about the Map's own citation conduct), cite *this page* where what is at stake is the split's content, its cross-vocabulary-translatability test, or its bounds.
+    2. **§"Relation to the Sister Disciplines"** (mapped five sibling pages, omitted the register): added a sixth bullet, framed as a *different kind* of relation rather than a sixth sibling — the register records in banded, dated form the commitment this page argues for, and enumerates the live instances [P-Q8](/positions/quantum-interface/), [P-CS4](/positions/consciousness-scope/), [P-V2](/positions/voids-as-evidence/) (all three taken verbatim from P-F1's own `Depends on` line, not inferred).
+    3. **§"Further Reading"**: added a bullet at the head of the list.
+    4. Frontmatter `related_articles`: added `"[[positions/finding-level-calibration]]"` — the three-part convention (frontmatter + inline citation at the inferential load point + Further Reading bullet).
+- **Not re-done**: the closed P3 at `todo.md:801` (2026-06-17, ALREADY-SATISFIED) targeted the discipline's four *worked exhibits*; P-F1's `Argued in` names a different four, intersecting only in `anti-correlated-metacognitive-signal` — the one file that already links back. That fix holds and was left untouched.
+- **Held back deliberately**: `concepts/concession-convergence.md` and `topics/epistemology-of-convergence-arguments.md` both link the canonical page zero times and are the other two integration targets, but the task is single-file by construction and the latter sits under a standing human length decision at ~6,500 words. Not edited; recommended as their own task.
+- **Length**: 2986w → 3184w, still `soft_warning` against project thresholds 2500 soft / 3500 hard (316w of margin remaining). No condense triggered.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — adding cross-references is integration, not re-authoring. `last_deep_review` left at 2026-05-25. `ai_modified` bumped from `date -u`, checked not future-dated.
+- **Verification**: `scripts/sync.py` re-run; all four new wikilinks render as resolved markdown links in `hugo/content/project/architecture-vs-significance-two-tier-discount.md` (`[P-F1](/positions/finding-level-calibration/)` etc.), none stripped; zero broken-link warnings for this file.
+- **Published**: yes
+
+## 2026-07-31 03:53 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
+- **File**: [outer-review-2026-07-31-chatgpt-5-6-pro](/reviews/outer-review-2026-07-31-chatgpt-5-6-pro/)
+- **Subject**: `topics/penrose-gravity-induced-collapse-empirical-prospects.md` (recent-aged fallback)
+- **Extraction**: js-dom via page-side Blob download; SHA-256 matched page vs disk (44,337 bytes), text never retyped
+- **Claims verified**: 4 confirmed at publisher (XENONnT arXiv 2506.05507 exists and is omitted; Majorana is principally a CSL search with a 2023 erratum; Pedalino not Arndt is first author of the Nature matter-wave paper; all quoted article claims genuinely present), 3 unverified (the load-bearing R0=0 account, exact XENONnT numerals, Horchani internal contradiction), 0 disputed
+- **High-value findings**: 4 (reversed R0=0 framing; omitted 2026 XENONnT bound; citation-integrity cluster; asymmetric evidential scoping)
+- **Tasks generated**: 4 (P1: 1, P2: 3)
+- **Note**: Verdict "major revision required" — the most adverse outer review of a single article to date. Sibling Claude/Gemini reviews of the same subject are still in flight; tasks were deliberately consolidated rather than split per-issue so `/combine-outer-reviews` can merge.
 
 ## 2026-07-31 03:38 UTC - refine-draft
 - **Status**: Success
