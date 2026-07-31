@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-07-19T07:30:20+00:00
+ai_modified: 2026-07-31T14:37:05+00:00
 last_deep_review: 2026-07-18T20:30:42+00:00
 draft: false
 topics:
@@ -184,7 +184,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 
 1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
 1. Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
-1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
 1. Phillips, S. H. (2012). *Epistemology in Classical India: The Knowledge Sources of the Nyaya School*. Routledge.
 1. Ram-Prasad, C. (2001). *Knowledge and Liberation in Classical Indian Thought*. Palgrave.
 1. Shankara. *Brahma Sutra Bhashya* (c. 800 CE). Trans. Swami Gambhirananda. Advaita Ashrama.

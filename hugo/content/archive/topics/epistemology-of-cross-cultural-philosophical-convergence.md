@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-21 15:39:00+00:00
+ai_modified: 2026-07-31 14:37:05+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Epistemology of Convergence Arguments
 archived: true
@@ -140,4 +140,4 @@ The Map interprets cross-cultural convergence as one strand among several suppor
 - Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
 - Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
-- O'Brien-Kop, K. (2023). Classical Sāṃkhya and the hard problem of consciousness. *Religious Studies*. Cambridge University Press.
+- O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
