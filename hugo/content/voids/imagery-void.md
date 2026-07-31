@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-06-20 09:41:34+00:00
+ai_modified: 2026-07-31 00:43:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -88,7 +88,7 @@ The Würzburg-aphantasia recurrence is itself evidence the void is structural ra
 
 Approaching the imagery void produces a characteristic confusion. Asked "How vivid is your imagery, on a scale of 1–5?" most people answer confidently. The confident answers diverge wildly across persons in ways the answerers cannot reconcile when they compare notes. Probe further—Is the apple shiny? What's its exact shade of red? When you rotate it, do you see continuous motion or discrete frames?—and reports become hesitant, internally inconsistent, or generate detail that wasn't there before the probe. This is a [plenitude-void](/voids/plenitude-void/)-like behavior: inquiry creates content that purports to predate the inquiry. Aphantasics who learn the term often report a retrospective phenomenological reorientation: they had assumed "see in your mind's eye" was a metaphor everyone used, and discover only late in life that for many others it isn't.
 
-The discovery destabilises in both directions: aphantasics notice an absence they had not registered; imagers gain new uncertainty about whether their reports track anything stable. Schwitzgebel's broader claim—that "we are not simply fallible at the margins... we are broadly inept" at introspection (Schwitzgebel 2008)—takes mental imagery as its paradigm domain. The tool whose reports we would use to map the void is the same tool whose unreliability *constitutes* it.
+The discovery destabilises in both directions: aphantasics notice an absence they had not registered; imagers gain new uncertainty about whether their reports track anything stable. Schwitzgebel's broader claim—that we are "not simply fallible at the margins but broadly inept" at introspection (Schwitzgebel 2008)—takes mental imagery as its paradigm domain. The tool whose reports we would use to map the void is the same tool whose unreliability *constitutes* it.
 
 ## Approaches to the Edge
 

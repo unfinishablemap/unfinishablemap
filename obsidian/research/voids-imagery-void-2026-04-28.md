@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Imagery Void"
 created: 2026-04-28
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T00:55:00+00:00
+ai_modified: 2026-07-31T00:43:33+00:00
 draft: false
 target_section: voids
 topics: []
@@ -79,7 +79,7 @@ The Imagery Void is the structural impossibility, for any conscious mind, of ver
   - Examples include peripheral vision, emotional phenomenology, and the phenomenology of thought
   - Foundationalism — inferring outer world from secure inner knowledge — is "almost exactly backward"
 - **Tenet alignment**: Compatible with [[tenets#^dualism|Dualism]] without requiring it: introspection can be unreliable about a real phenomenal domain. Provides methodological grounding for the void: the very tool we would use to map imagery is the one whose unreliability *constitutes* the void.
-- **Quote**: "We are not simply fallible at the margins... we are broadly inept."
+- **Quote**: "We are not simply fallible at the margins but broadly inept."
 
 ### Lennon (2023) — *Aphantasia and Conscious Thought*
 - **URL**: https://philarchive.org/archive/LENAAC-3
@@ -216,7 +216,7 @@ The three-faces framing (option 3) best matches the existing [[apex/conjunction-
 
 - Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
 - Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
-- Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
+- Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2), 245–273. https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
 - Lennon, P. (2023). Aphantasia and Conscious Thought. *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
 - Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
 - Scholz, C. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560

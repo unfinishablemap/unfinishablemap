@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-01 12:21:47+00:00
+ai_modified: 2026-07-31 00:43:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -102,7 +102,7 @@ Skeptics argue that apparent cognitive contrasts actually involve subtle sensory
 
 ### Introspective Reliability
 
-Philosophers disagree about what phenomenal contrasts reveal. Some report vivid cognitive phenomenology; others find nothing beyond sensory accompaniments. Eric Schwitzgebel (2008) presses this further: "we are not simply fallible at the margins... we are broadly inept" at introspection, with mental imagery as a paradigm domain where reports of "vividness" diverge wildly across persons in ways the reporters cannot reconcile. The [imagery-void](/voids/imagery-void/) traces how this divergence is structural rather than methodological.
+Philosophers disagree about what phenomenal contrasts reveal. Some report vivid cognitive phenomenology; others find nothing beyond sensory accompaniments. Eric Schwitzgebel (2008) presses this further: we are "not simply fallible at the margins but broadly inept" at introspection, with mental imagery as a paradigm domain where reports of "vividness" diverge wildly across persons in ways the reporters cannot reconcile. The [imagery-void](/voids/imagery-void/) traces how this divergence is structural rather than methodological.
 
 **Response:** Disagreement about the *interpretation* of phenomenal contrasts does not undermine the contrasts themselves. Nearly everyone agrees that understanding French feels different from not understanding it. The dispute concerns whether this difference is cognitive or sensory in nature — a theoretical question, not an introspective one. The method identifies the data; the debate concerns the best explanation. The Schwitzgebel-style worry bites hardest on graded vividness reports (how vivid is your image?) and least on dramatic contrasts (do you understand this sentence?). The method should be applied where contrasts are stark and treated cautiously where they require fine-grained introspective comparison.
 
@@ -143,7 +143,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 2. Strawson, G. (1994). *Mental Reality*. MIT Press.
 3. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
 4. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
-5. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
+5. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2), 245–273. https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
 6. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
 7. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
 8. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
