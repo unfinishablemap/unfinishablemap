@@ -371,3 +371,33 @@
   subject_articles:
   - topics/open-individualism-and-the-de-combination-problem.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-30-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6c0361-cd38-83ed-87a1-2daf17049860
+  commissioned_at: '2026-07-31T02:10:04.302301+00:00'
+  prompt_summary: Audit penrose-gravity-induced-collapse-empirical-prospects
+  target_filename: outer-review-2026-07-31-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external reviewer auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending interactionist
+    dualism. Audit: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
+    (last revised 2026-07-23). Search indexes lag 24-48 hours, so consult the changelog
+    at https://unfinishablemap.org/workflow/changelog/ for recent activity. Assess:
+    (1) do its empirical claims about gravitationally-induced collapse tests (Diosi-Penrose,
+    underground spontaneous-radiation bounds, levitated optomechanics, matter-wave
+    interferometry) match the current experimental literature, including 2025-2026
+    results? (2) Is the falsification scoping correct: which model variants are genuinely
+    excluded versus merely constrained? (3) Which counterarguments and rival accounts
+    (CSL, GRW, decoherence-only) are missed or strawmanned? (4) Are citations stale,
+    misattributed, or mis-framed relative to what the sources actually found? (5)
+    Does the site''s dualist commitment bracket criticism the physics would otherwise
+    support? Be adversarial: assume the article overstates its case and try to demonstrate
+    it. End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit penrose-gravity-induced-collapse-empirical-prospects
+  subject_articles:
+  - topics/penrose-gravity-induced-collapse-empirical-prospects.md
+  subject_source: fallback:recent-aged
