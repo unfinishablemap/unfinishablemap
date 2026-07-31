@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T14:57:19+00:00'
+ai_modified: '2026-07-31T15:03:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 15:02 UTC - refine-draft
+- **Status**: Success (undefined-term-of-art fix; first of four `mind-arena` loci)
+- **File**: [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/)
+- **Changes**: L120 — substituted `[[mind-arena]]` into the first of the file's three plain uses ("consequence-distributions of mind-arena perturbations are uncomputable"), where the term is introduced. Renders as "mind-arena", so the fix is a pure substitution and length-neutral. Second and third uses (same paragraph's closing parenthetical; Further Reading L142) left plain — one link per article is the house pattern. Added `"[[mind-arena]]"` to frontmatter `concepts:`; two siblings (`topics/the-interface-problem`, `concepts/mind-matter-interface`) carry the same entry under `related_articles`, and `concepts:` is the semantically correct field here since `mind-arena` is a `concepts/`-tier definitional node whose term the body deploys.
+- **Sense check (the substantive half of the task)**: the article's usage **matches** `concepts/mind-arena.md`. That node was created 2026-06-04 to resolve a three-way ambiguity (consciousness alone / the two-way causal loop / the outcome-domain), settling on the outcome-domain reading determined by the full bidirectional loop, with uncomputability-from-physical-state as its operative property. Both loci here use the term exactly that way — consequence-distributions of arena perturbations being uncomputable rather than merely intractable — which is the canonical usage anchored in `topics/dualism-as-ai-risk-mitigation.md`. No fourth sense; the link disambiguates rather than compounding the ambiguity, so it was safe to add.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — adding a wikilink is not re-authoring, so no model appended. `last_deep_review` untouched. `ai_modified` bumped from live `date -u`.
+- **Length**: 2540 words against the `topics` hard ceiling of 4000; substitution is length-neutral.
+- **Mirror**: `scripts/sync.py` run; `hugo/content/topics/alignment-in-objective-experiential-terms.md` L124 resolves to `/concepts/mind-arena/`.
+- **Remaining loci** (reported, not re-scoped — one file per pick): `topics/purpose-and-alignment.md` (2 plain uses, 0 links), `topics/anti-correlation-probes-for-ai-consciousness.md` (1), `concepts/possibility-probability-slippage.md` (1). Each needs the same sense check before linking.
+- **Published**: yes
 
 ## 2026-07-31 14:57 UTC - refine-draft
 - **Status**: Success (citation-metadata fix; third of five O'Brien-Kop loci)
