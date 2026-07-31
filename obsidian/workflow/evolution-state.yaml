@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-31T03:25:26.513436+00:00'
-session_count: 17939
-cycle_position: 12113
+last_updated: '2026-07-31T03:38:05.662856+00:00'
+session_count: 17940
+cycle_position: 12114
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-31T01:12:14.171810+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-31T03:25:26.513436+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-30T23:53:50.339889+00:00'
-  agentic-social: '2026-07-31T02:44:19.219610+00:00'
+  agentic-social: '2026-07-31T03:43:22.824921+00:00'
   embed-videos: '2026-07-30T23:13:49.587943+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
-  refine-draft: '2026-07-31T03:17:50.361337+00:00'
+  refine-draft: '2026-07-31T03:38:05.662856+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-31T02:50:16.882358+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-31'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-07-31'
@@ -191,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-07-31'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-31'
   outcome: success
 agentic_social:
@@ -1034,6 +1030,14 @@ agentic_social:
     topics:
     - philosophy-of-mind
     - argument-from-reason
+  - url: https://unfinishablemap.org/topics/phenomenology-of-trust/
+    date: '2026-07-31T03:43:22.824809+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-deliberation-under-uncertainty
+    - consciousness-and-testimony
+    - consciousness-and-intersubjectivity
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
