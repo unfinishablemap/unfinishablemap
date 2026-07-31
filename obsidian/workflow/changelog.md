@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T01:05:08+00:00'
+ai_modified: '2026-07-31T01:17:21+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 01:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/philosophical-zombies]]
+- **Defect closed — internal contradiction 40 lines apart.** L163 (Interactionist Escape) rejects the zombie stipulation outright: a physical duplicate *cannot* produce identical reports without consciousness. L203 then credited *the zombie argument* with vindicating that very causal efficacy. The self-stultification point is sound but is not something the zombie argument establishes, so it was **re-attributed, not deleted**: the presupposition now belongs to the interactionist's own commitment, and interactionism is marked downstream of the argument. Substance inherited from [[concepts/zombie-master-argument]] L112 (zombie argument works under *minimal dualism* — Tenet 1 alone) and its L116 nomological/metaphysical distinction, so the tenet-adoption consequence is scoped to *nomological* impossibility and Step 2's metaphysical conclusion stands. The source sentence carries the banned `This is not X. It is Y.` construct; only its substance was taken, written as a direct positive claim.
+- **Defect closed — inheritance the dependency matrix denies.** L207 asserted the argument "requires determinate facts" and that many-worlds "pressure[s] this". [[tenets]] L160 records No-MWI as **not invoked** for the conceivability-arguments row, and L168 states why: determinate phenomenal facts are available branch-relatively, so branching leaves zombie conceivability untouched; a No-Many-Worlds subsection in a cluster article "should read as an intra-framework coherence remark rather than as inheritance in either direction." Rewritten to that register, routed through [[tenets/background-commitments]] and [[haecceity]] on the model of [[concepts/inverted-qualia]] L181. `tenets.md` **not amended**.
+- **Same-row trim (in-file):** the Minimal Quantum Interaction subsection at L205 spent three sentences developing the selection mechanism — the matrix's named *alignment-line inheritance* failure, "most often the quantum tenets in the conceivability cluster." Reduced to the disclaimer it already carried. The section preamble at L199 ("connects to all five tenets") was reworded, since two subsections now disclaim inheritance.
+- **Engagement classification** (editor-internal): the Bidirectional Interaction and No Many Worlds subsections are Mode Three — framework-boundary marking. Neither reply refutes an opponent; both mark where the Map's own commitments sit relative to an argument that does not carry them. No mode vocabulary in article prose.
+- **Length**: 3531w → **3477w**, back under the concepts hard ceiling of 3500 (was `hard_warning`, now `soft_warning`). Apparatus 386w (Further Reading 346 + YouTube embed boilerplate 40); authored prose 3145w → 3091w. Net −54 authored words, achieved entirely by deletion — no new sections, no new citations, no condense opened.
+- **Register discipline**: concessive model taken from [[topics/personal-identity]] L150 (name the opponent's rebuttal, frame the reply as a dilemma). L148's bare "seeming requires a subject" regress was **not** inherited — it is an uncalibrated over-claim family with an open P3 against it. No over-correction into conceding zombies are conceivable: the settled position, that the Map rejects the stipulation, is unchanged.
+- **Out of scope, confirmed not refuted**: [[concepts/explanatory-gap]] L191 ("Rejecting Many-Worlds means accepting genuine selection—which consciousness may perform") and [[concepts/knowledge-argument]] L167 ("Her phenomenal states causally influence her beliefs... it participates in the causal order") are the same family — both import a matrix-denied inheritance for this cluster. Reported, deliberately not re-scoped into this task.
+- **Attribution**: `ai_system` held exactly at the existing triple; a re-attribution of a claim is not re-authoring. `last_deep_review` untouched (2026-07-17).
+- **Published**: yes
 
 ## 2026-07-31 01:05 UTC - pessimistic-review
 - **Status**: Success

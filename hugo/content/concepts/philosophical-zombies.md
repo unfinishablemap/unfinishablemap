@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 15:08:07+00:00
+ai_modified: 2026-07-31 01:17:21+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -198,15 +198,15 @@ The Map holds that this foundational commitment is more secure than the theories
 
 ## Relation to Site Perspective
 
-The zombie argument connects to all five of the Map's tenets.
+The zombie argument's relation to the five tenets is uneven; each subsection below records which way the dependency runs.
 
 **[Dualism](/tenets/#dualism)**: The zombie argument is a central support—conditional, as the Interactionist Escape section concedes—for the Map's foundational commitment. If zombies are conceivable, consciousness isn't entailed by physical facts—establishing that the mental is not reducible to the physical.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causes our reports about consciousness, this causal role distinguishes us from zombies. The physicalist who reasons about their own experience presupposes exactly the causal efficacy of consciousness that the zombie argument vindicates.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The zombie argument works under minimal dualism—Tenet 1 alone—so interactionism is downstream of it. The physicalist reasoning about their own experience does presuppose the causal efficacy of consciousness, but that is the interactionist's own commitment, not a result conceivability delivers: adopting it makes physically identical zombies nomologically impossible, as the Interactionist Escape section concedes.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The zombie argument establishes that something beyond physics is needed; the quantum mechanism specifies where the interaction occurs. At quantum indeterminacies, consciousness selects among possibilities—not by adding energy, but by resolving what physics leaves open. The zombie would lack whatever selects at these points—though locating that selection at quantum loci is a separate Map commitment, not one the zombie argument establishes. See [decoherence](/concepts/decoherence/) for why quantum effects in the brain remain viable.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The zombie argument establishes only that something beyond physics is needed; where that something acts is a separate Map commitment the argument does not reach. See [decoherence](/concepts/decoherence/) for why quantum effects in the brain remain viable.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The zombie argument requires determinate facts—*this* being is either conscious or not. Many-worlds interpretations pressure this by multiplying persons at every quantum branching into equally real successors. The zombie thought experiment asks whether a specific physical duplicate lacks experience; under MWI, the notion of a *specific* duplicate dissolves into a branching tree where every quantum outcome is realised. This doesn't refute the zombie argument, but it pressures the metaphysical framework the argument relies on: definite identity, definite physical facts, and a single actual world. The Map's rejection of many-worlds preserves these conditions.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The zombie argument does not draw on this tenet. Whether *this* being is conscious has a determinate answer branch-relatively, so branching leaves its conceivability untouched. The Map's rejection of many-worlds rests instead on a [posit](/tenets/background-commitments/) motivated through [haecceity](/concepts/haecceity/) and indexical identity. The connection is intra-framework coherence.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalists dismiss dualism on grounds of parsimony. The zombie argument challenges this: physical processes *don't* suffice to explain consciousness, and the [apparent simplicity of physicalism](/arguments/epistemological-limits-of-occams-razor/) reflects ignorance rather than insight. What seems parsimonious may actually be incomplete.
 
