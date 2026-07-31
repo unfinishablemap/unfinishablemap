@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T04:05:00+00:00'
+ai_modified: '2026-07-31T04:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 04:52 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-07-31-gemini-2-5-pro]]
+- **Subject**: `topics/penrose-gravity-induced-collapse-empirical-prospects.md` (recent; reused from the 02:00 ChatGPT commission — third and last of the day's triple)
+- **Extraction**: js-dom Blob download, SHA-256 page/disk match `88a8db38…7ae0ea8`, 86,538 bytes / 377 lines. Completeness confirmed separately: terminates on `## 7. Verdict` with the one-sentence verdict, preceded by §6 carrying the five required weaknesses. The report restarts its own section numbering three times — a Deep Research drafting artefact preserved verbatim, so a finding appearing three times is one finding.
+- **Claims verified**: 21 Map-attributed quoted spans grep-checked across `obsidian/`, `archive/`, `hugo/content/` — 12 verbatim, 9 correctly-worded but sourced from `tenets.md`/`questions.md` rather than the article under review, **5 not verbatim**. The five: a splice of the article body with Reference 5's paper title; "which superposed neural firing patterns become **actualized**" (corpus says "become actual", and it is in `tenets.md`/`questions.md`, not this article); "**approximately**" for the article's "roughly"; an invented tenet title "Tenet 5: Epistemic Humility about Occam's Razor" (the Map's is "Occam's Razor Has Limits"); and "subsidiary, registered cost" compressed from `tenets.md`'s "subsidiary—a registered cost, not a refutation". No span wholly invented — every failure is splice, substitution, compression or wrong-source attribution. The near-miss worth recording: "differentiation across regions and timescales rather than the global synchroni**z**ation Orch OR posits" greps zero unnormalised but **is verbatim** modulo `*emphasis*` markers and en-GB "synchronisation" ([[quote-must-be-grep-verifiable-in-raw-source]]).
+- **External citations checked at Crossref** (WebSearch quota exhausted): Di Bartolomeo et al. 2023 *Phys. Rev. A* 108, 012202 — real; Danielson/Satishchandran/Wald 2022 *IJMPD* + 2023 *PRD* 108, 025007 — both real (weakness 4 mis-venues the 2022 paper to *PRD*); Snoke & Maienshein 2023 *Entropy* 25(11), 1489 — real. Unverified: the Derakhshani "rigorous quantitative boundary…" span, which greps zero and reads as the reviewer's own characterisation dressed as a quotation; and a Diósi 2024 ResearchGate preprint, which is not the peer-reviewed source the prompt required.
+- **Substantive misdescription of the target**: weakness 3 says the article "uncritically relies on a philosophical escape clause (McQueen 2023)" — line 50 calls it "structurally a rescue of the kind Donadi flagged"; and says the article ignores modern microtubule biophysics — line 76 already cites Reimers, McKemmish and Wilson. Discounted in the generated task.
+- **Convergence**: **none.** Zero occurrences of "Empirical stakes", "erratum", "XENONnT", "Pedalino" or "Arndt"; R₀=0 is restated in the article's own direction rather than flagged. The five weaknesses form a disjoint set (DSW horizon decoherence, dissipative Lindblad, Derakhshani thermodynamics, LOCC, Born-rule corridor tension). Breadth, not corroboration — nothing here upgrades the siblings' convergent tasks for `/combine-outer-reviews`.
+- **High-value findings**: 2 (DSW horizon decoherence as an untested unitary rival; dissipative-collapse generalizations absent from the DP-survival discussion)
+- **Tasks generated**: 1 (P2) — deliberately consolidated rather than five. Four tasks were already open on this file from the two siblings ([[outer-review-same-file-task-pileup]]); the new task folds findings (a) and (b), registers Snoke & Maienshein as a citation-only objection to avoid over-conceding the corridor reading ([[over-concession-gets-ratified-not-merely-missed]]), and discounts weakness 3.
 
 ## 2026-07-31 04:39 UTC - outer-review
 - **Status**: Success

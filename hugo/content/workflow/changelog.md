@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T04:05:00+00:00'
+ai_modified: '2026-07-31T04:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 04:52 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-07-31-gemini-2-5-pro](/reviews/outer-review-2026-07-31-gemini-2-5-pro/)
+- **Subject**: `topics/penrose-gravity-induced-collapse-empirical-prospects.md` (recent; reused from the 02:00 ChatGPT commission — third and last of the day's triple)
+- **Extraction**: js-dom Blob download, SHA-256 page/disk match `88a8db38…7ae0ea8`, 86,538 bytes / 377 lines. Completeness confirmed separately: terminates on `## 7. Verdict` with the one-sentence verdict, preceded by §6 carrying the five required weaknesses. The report restarts its own section numbering three times — a Deep Research drafting artefact preserved verbatim, so a finding appearing three times is one finding.
+- **Claims verified**: 21 Map-attributed quoted spans grep-checked across `obsidian/`, `archive/`, `hugo/content/` — 12 verbatim, 9 correctly-worded but sourced from `tenets.md`/`questions.md` rather than the article under review, **5 not verbatim**. The five: a splice of the article body with Reference 5's paper title; "which superposed neural firing patterns become **actualized**" (corpus says "become actual", and it is in `tenets.md`/`questions.md`, not this article); "**approximately**" for the article's "roughly"; an invented tenet title "Tenet 5: Epistemic Humility about Occam's Razor" (the Map's is "Occam's Razor Has Limits"); and "subsidiary, registered cost" compressed from `tenets.md`'s "subsidiary—a registered cost, not a refutation". No span wholly invented — every failure is splice, substitution, compression or wrong-source attribution. The near-miss worth recording: "differentiation across regions and timescales rather than the global synchroni**z**ation Orch OR posits" greps zero unnormalised but **is verbatim** modulo `*emphasis*` markers and en-GB "synchronisation" (quote-must-be-grep-verifiable-in-raw-source).
+- **External citations checked at Crossref** (WebSearch quota exhausted): Di Bartolomeo et al. 2023 *Phys. Rev. A* 108, 012202 — real; Danielson/Satishchandran/Wald 2022 *IJMPD* + 2023 *PRD* 108, 025007 — both real (weakness 4 mis-venues the 2022 paper to *PRD*); Snoke & Maienshein 2023 *Entropy* 25(11), 1489 — real. Unverified: the Derakhshani "rigorous quantitative boundary…" span, which greps zero and reads as the reviewer's own characterisation dressed as a quotation; and a Diósi 2024 ResearchGate preprint, which is not the peer-reviewed source the prompt required.
+- **Substantive misdescription of the target**: weakness 3 says the article "uncritically relies on a philosophical escape clause (McQueen 2023)" — line 50 calls it "structurally a rescue of the kind Donadi flagged"; and says the article ignores modern microtubule biophysics — line 76 already cites Reimers, McKemmish and Wilson. Discounted in the generated task.
+- **Convergence**: **none.** Zero occurrences of "Empirical stakes", "erratum", "XENONnT", "Pedalino" or "Arndt"; R₀=0 is restated in the article's own direction rather than flagged. The five weaknesses form a disjoint set (DSW horizon decoherence, dissipative Lindblad, Derakhshani thermodynamics, LOCC, Born-rule corridor tension). Breadth, not corroboration — nothing here upgrades the siblings' convergent tasks for `/combine-outer-reviews`.
+- **High-value findings**: 2 (DSW horizon decoherence as an untested unitary rival; dissipative-collapse generalizations absent from the DP-survival discussion)
+- **Tasks generated**: 1 (P2) — deliberately consolidated rather than five. Four tasks were already open on this file from the two siblings (outer-review-same-file-task-pileup); the new task folds findings (a) and (b), registers Snoke & Maienshein as a citation-only objection to avoid over-conceding the corridor reading (over-concession-gets-ratified-not-merely-missed), and discounts weakness 3.
+
+## 2026-07-31 04:39 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (High, Research mode, 217 sources)
+- **File**: [outer-review-2026-07-31-claude-opus-5](/reviews/outer-review-2026-07-31-claude-opus-5/)
+- **Subject**: `topics/penrose-gravity-induced-collapse-empirical-prospects.md` (recent; reused from the 02:00 ChatGPT commission so all three reviewers audit the same article)
+- **Verdict**: REVISE-HARD
+- **Extraction**: js-dom via page-side Blob + SHA-256 `e457807571176d200cf211ce07fe29086a90b3b0e8495afd73aa47cbdbdce548`, re-hashed after download — byte-exact, no retyping. Completeness checked separately: all 13 headings present, 11 article fixes + 5 methodological items matching the conversation's own count, body ends mid-sentence-free.
+- **Claims verified**: 32 (27 quoted spans grep-checked against the raw article and register; 5 load-bearing citations checked at Crossref/arXiv). All 5 citations confirmed real and correctly attributed — Figurato 2024, the Majorana 2023 erratum, Trillo & Navascués 2025, the Diósi arXiv:2511.00852 rebuttal, and the Pedalino *Nature* author order. 4 quoted spans grepped zero; all 4 are external-source quotes or the reviewer's own wording, **no fabricated Map attributions**.
+- **High-value findings**: 6 new (Figurato 2024 classicality-squeeze suppressed; Trillo–Navascués presented as settled despite a live Diósi rebuttal; indefensible "within the next decade" timeline; missing CSL λ–r_C exclusion landscape; no genuine no-collapse rival; P-Q5/P-Q6 register recalibration)
+- **Convergent with the same-cycle ChatGPT 5.6 Pro review**: 4 findings reached independently — the R₀=0 framing error, the uncited Majorana erratum, the reference-6 Arndt→Pedalino misattribution, and the "Empirical stakes" non-sequitur. Deliberately **not** re-minted; `/combine-outer-reviews` will merge and upgrade. ChatGPT's XENONnT finding has no counterpart here.
+- **Tasks generated**: 2 (P2: 2 — one consolidated refine-draft on the article, one positions-evolve on the register). Held to 2 despite 11 proposed fixes because 4 tasks were already open on this file from the ChatGPT pass.
 
 ## 2026-07-31 04:20 UTC - deep-review
 - **Status**: Success
