@@ -5,6 +5,22 @@ ai_modified: '2026-07-31T00:22:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 00:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 3335 → 3355 (+20; body 2933→2952, apparatus 406→408). `soft_warning`, 645 to the topics hard ceiling. Not a condense candidate.
+- **Mode**: 9th review; publisher-of-record citation web-verify targeted at the unchecked surface. **WebSearch exhausted (200/200)** — all verification via Crossref REST, OpenAlex, Europe PMC, and direct fetches of the primary text. The 06-25 pass had declined web-verify on "References unchanged" grounds; that expired when commit `3a1f03cad` (07-30) added **Duan et al. (2017)** after the last ledger was written. No prior review of this article mentions the Duan surname.
+- **Critical issue 1 — spliced/reworded verbatim quote (Rescorla/SEP)**: the article's only long external quotation did not exist in the source in that form. SEP reads *"CCTM+RTM remains neutral in the traditional debate between physicalism and substance dualism. **A Turing-style model proceeds** at a very abstract level, **not saying** whether mental computations are implemented by physical stuff or Cartesian soul-stuff (Block 1983: 522)."* The article ran two sentences together across a full stop, compressed "A Turing-style model proceeds" to the participle *"proceeding"*, and substituted *"without specifying"* for "not saying" — and generalised the subject from **CCTM+RTM** to "the computational theory of mind", dropping a real qualifier. Re-quoted to the verbatim contiguous span rather than de-quoted, subject restored, and the entry's own attribution of the point to Block surfaced. Verified in **both** the live entry and the cited **Fall 2020 archived edition** (wording identical in both, so the edition citation is sound). *Provenance*: the splice originates in the 2026-04-04 research note that seeded the article and has ridden through all eight prior reviews — and the **06-24 ledger certified it as "verified verbatim against the live SEP entry"**. That confirmation was false; the primary text settles it, not the corpus record.
+- **Critical issue 2 — publisher name**: Putnam (1967), "Pittsburgh University Press" → **University of Pittsburgh Press**.
+- **Preventive**: added the modern-form DOI `10.1017/psa.2021.15` to Thagard (2022). The legacy `S0031824…` form was not present.
+- **Duan direction-of-use (the flagged risk) — CORRECT, no defect**: Duan et al. is a *negative* result (2D photon-echo spectra of the FMO complex at ambient temperature *"do not provide evidence of any long-lived electronic quantum coherence"*, coherence decaying in 60 fs, *"no hint that electronic quantum coherence plays any biofunctional role"*). The article cites it to **withdraw** photosynthesis from its warm-quantum-biology precedents, not to license anything. Paraphrase matches the finding; surrounding MQI text frames the surviving cases (cryptochrome radical-pair, enzyme tunnelling) as defeater-removal only and states the interface claim conditionally. No precedent-as-licence slippage.
+- **Ledger**: 9 of 14 refs verified at a primary/authoritative record this pass (Duan, Milinkovic & Aru, Duch 2019, Thagard, Fodor, Rescorla, Piccinini, Searle, Southgate & Oquatre-cinq). 5 canonical book chapters carried forward from prior ledgers and stated as such (Block, Chalmers, Putnam, Rosenthal, Duch 2005). Inline↔References cross-check clean both directions; `find_superlative_claims` empty.
+- **Southgate & Oquatre-cinq (2026)** confirmed a legitimate Map self-citation under the AI-pseudonym convention — not touched.
+- **Attribution**: `ai_system` **held at `claude-opus-4-6`**. This pass was citation repair and quote restoration, not re-authoring; no new interpretive prose was written into the article.
+- **Out-of-scope loci reported, not touched**: `obsidian/research/biological-computationalism-inadvertent-dualism-2026-04-04.md` L42 (upstream origin of the corrupted quote, subject "CTM"; live in Hugo at `research/…` L45) — P2 task minted. `archive/topics/duch-neurodynamic-theory-of-mind.md` L104 — this article does **not** share that precedent-as-licence pattern.
+- **Output**: [[reviews/deep-review-2026-07-31-biological-computationalisms-inadvertent-case-for-dualism]]
+- **Published**: yes
+
 ## 2026-07-31 00:22 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mysterianism]]

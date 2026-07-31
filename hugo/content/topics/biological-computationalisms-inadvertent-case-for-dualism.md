@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-07-30 12:20:02+00:00
+ai_modified: 2026-07-31 00:32:01+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Biological computationalism rejects substrate independence while re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-24 15:20:35+00:00
+last_deep_review: 2026-07-31 00:32:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ topics:
 
 ## The Third Path
 
-Classical computational functionalism, associated with Putnam (1967) and Fodor (1974), holds that mental states are defined by functional roles. Any system implementing the right computation—silicon, carbon, soul-stuff—would be conscious. (Putnam himself later abandoned this framework, finding it unable to account for meaning or reference—a trajectory the Map traces in [its analysis of pragmatism's path to dualism](/topics/pragmatisms-path-to-dualism/).) The Stanford Encyclopedia of Philosophy notes that the computational theory of mind "remains neutral in the traditional debate between physicalism and substance dualism, proceeding at a very abstract level without specifying whether mental computations are implemented by physical stuff or Cartesian soul-stuff" (Rescorla 2020). This formal neutrality is itself revealing: computation alone cannot settle questions about consciousness.
+Classical computational functionalism, associated with Putnam (1967) and Fodor (1974), holds that mental states are defined by functional roles. Any system implementing the right computation—silicon, carbon, soul-stuff—would be conscious. (Putnam himself later abandoned this framework, finding it unable to account for meaning or reference—a trajectory the Map traces in [its analysis of pragmatism's path to dualism](/topics/pragmatisms-path-to-dualism/).) The Stanford Encyclopedia of Philosophy notes that the classical computational theory of mind, paired with the representational theory of mind, "remains neutral in the traditional debate between physicalism and substance dualism. A Turing-style model proceeds at a very abstract level, not saying whether mental computations are implemented by physical stuff or Cartesian soul-stuff" — a point the entry credits to Block (Rescorla 2020). This formal neutrality is itself revealing: computation alone cannot settle questions about consciousness.
 
 Searle's biological naturalism (1992) moves in the opposite direction. Consciousness requires specific neurobiological causal powers; silicon lacks them. The Chinese Room argument drives the point: syntax is insufficient for semantics. But Searle denies being a dualist, insisting consciousness is "causally reducible" to neurobiology even while being "ontologically irreducible" to it—a position many find unstable, since once the causal work is done by the lower-level neurobiology, the irreducible first-person feature looks at risk of being epiphenomenal. Searle has a worked-out reply (causal reduction is compatible with ontological irreducibility because the first-person ontology cannot be redescribed in third-person terms without loss), so the tension is contestable rather than a flat contradiction.
 
@@ -129,9 +129,9 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 6. Fodor, J.A. (1974). Special Sciences (Or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28(2), 97–115.
 7. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
 8. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
-9. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
+9. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
 10. Rescorla, M. (2020). The Computational Theory of Mind. In E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition).
 11. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 12. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
 13. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
-14. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
+14. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88. https://doi.org/10.1017/psa.2021.15
