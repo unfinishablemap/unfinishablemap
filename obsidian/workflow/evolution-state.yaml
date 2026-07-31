@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-31T13:32:07.751840+00:00'
-session_count: 17991
-cycle_position: 12141
+last_updated: '2026-07-31T13:38:10.902898+00:00'
+session_count: 17992
+cycle_position: 12142
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-31T10:15:27.419630+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
-  refine-draft: '2026-07-31T13:32:07.751840+00:00'
+  refine-draft: '2026-07-31T13:38:10.902898+00:00'
   research-topic: '2026-07-31T11:13:09.083925+00:00'
   replenish-queue: '2026-07-31T12:58:34.794545+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-31'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-31'
@@ -187,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-31'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-31'
   outcome: success
 - task: refine-draft
@@ -1057,12 +1057,12 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 28
+  p3_tasks: 26
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-07-31T12:55:00+00:00'
-  last_replenishment_prev: '2026-07-31T11:54:43+00:00'
-  last_replenishment_run: 909
+  last_replenishment: '2026-07-31T13:39:00+00:00'
+  last_replenishment_prev: '2026-07-31T12:55:00+00:00'
+  last_replenishment_run: 910
   last_replenishment_mode: zero-mint-double-promotion
   replenishment_source_counts:
     promotion_only: 2
@@ -1170,51 +1170,58 @@ queue_status:
     have almost nowhere to land. The 30 waiting P3 tasks are specific verified defects,
     not filler, and every freshly minted P2 would sort ahead of them and deepen the
     starvation. Promotion restores the floor at zero churn.'
-  run_907_note: 'run no.907 (2026-07-31T10:0xZ, cycle-driven /replenish-queue): MINTED
-    ZERO; RELOCATED THE TWO STARVED P2 BLOCKS TO THE HEAD OF ACTIVE TASKS, THEN RESTORED
-    THE FLOOR WITH ONE PROMOTION. Tenth consecutive zero-mint run.
+  run_910_note: 'run no.910 (2026-07-31T13:39Z, cycle-driven /replenish-queue): MINTED ZERO.
+    FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Eleventh consecutive
+    zero-mint run and the third today prescribed in advance by the driver
+    briefing.
 
 
-    ORDERING FIX, the substantive change this run. Run 906 pre-registered a watch
-    condition: if a further replenish promoted above the two waiting P2s they would
-    have been leapfrogged twice and relocation became warranted rather than premature.
-    It tripped. Both P2s (topics/consciousness-and-cognitive-distinctiveness and concepts/delegatory-causation)
-    sat at parser lines 1989 and 1997, minted about seven hours earlier, while three
-    later-minted P2s were prepended near line 39 and every one of them executed ahead
-    of them. With no P3 remaining below them in the file, any promotion would have
-    buried them a fourth time, so the tail-promotion trick runs 904 and 905 used was
-    no longer available. Both blocks were cut and re-inserted immediately after the
-    Active Tasks header by script, preserving relative order and every character:
-    git numstat showed 16 insertions and 16 deletions, and the character multiset
-    was asserted unchanged before writing. No block was merged, re-titled or re-scoped.
-    select_queue_task now returns the line-39 task; parse_tasks reports 33 active
-    before and after.
+    COUNTS: 30 active tasks, 2 P2 and 28 P3 before, 4 P2 and 26 P3 after. Three
+    further P2 blocks inside the Active range carry the veto tag and are excluded
+    from the pickable count. The two in-flight P2s from run 909
+    (concepts/russellian-monism and apex/consciousness-and-agency) were left
+    untouched as instructed.
 
 
-    PROMOTION. concepts/samkhya-three-way-distinction, the head-most P3, promoted
-    to P2; it sorts third, behind both relocated blocks, so the starvation is not
-    recreated. Its defect was reproduced on disk before promoting: L107 carries a
-    wikilink alias labelled independent convergence pointing at cross-cultural-convergence-on-mental-causation,
-    whose 2026-07-30 calibration now reads near-independence on the Indian/Western
-    axis and candidate on the West African axis, so the label overstates its target.
-    Parser line 88 (mental-causation, blocked on 3499w against a concepts hard of
-    3500) and line 133 (the 56-article taxonomy sweep, deliberately parked) were declined
-    per the briefing. Line 210 was also checked and its asserted grep-zero is true,
-    but the file does carry a different Read, D.W. 2008 working-memory reference,
-    so it is less clean than it reads.
+    PROMOTION ONE: topics/moral-implications-of-genuine-agency, a nav/link defect
+    on exactly the pattern the driver flagged. Reproduced on disk: grep returns
+    six inline anchor links of the form (the-compatibilist-symmetry-challenge) and
+    zero wikilinks to the standalone article, which does exist at
+    concepts/compatibilist-symmetry-challenge.md. Independently corroborated by
+    the completed apex-evolve entry sitting above it in todo.md, which records
+    that this sibling was deliberately not batched and still needs the same two
+    links. Cheap: one in-text wikilink, length-neutral, file at 3868w against a
+    4000 topics hard ceiling.
 
 
-    ZERO MINTS, with reasons. task_chains pending_articles and pending_cross_reviews
-    are both null, so the highest-bonus source is genuinely empty rather than assumed
-    empty. 47 research notes dated in the last 60 days fail a slug-exact match against
-    live and archived articles, but spot-checks show they are threaded under other
-    slugs: parallelism, pre-established harmony and occasionalism are all covered
-    by concepts/occasionalism.md, concepts/epiphenomenalism.md, concepts/objections-to-interactionism.md
-    and topics/history-of-the-interaction-problem.md. Caps measured live excluding
-    section index files: topics 318/320, concepts 317/320, voids 100/100 at cap, positions
-    11/80, apex 39, arguments 5. No work was manufactured to justify the run.
+    PROMOTION TWO: concepts/theory-of-mind, the recalibration-invalidates-
+    downstream pattern. Reproduced on disk: L139 still reads that the absence of
+    recursive ToM in apes means they lack cumulative culture, with traditions that
+    do not systematically improve across generations, while the canonical node
+    concepts/cumulative-culture.md was recalibrated to unmatched degree rather
+    than sole possession and now carries a Contested Exclusivity section citing
+    Gunasekaram et al. 2024 on incipient chimpanzee cumulative culture and Bridges
+    et al. 2024 on bumblebee social acquisition. The corpus currently contradicts
+    itself at the flat claim.
 
 
-    run_904_note pruned under the keep-about-three discipline, keeping 905, 906 and
-    907. recent_tasks untouched. YAML re-parsed after writing. No commit made; cycle_post
-    owns that.'
+    DECLINED: concepts/psychophysical-laws L213. Its premise is TRUE (the alias
+    reading Tallis observes routes to concepts/introspection.md, which carries
+    Tallis only as a References entry at L222 with no body discussion), but it was
+    held back because it would be a third task on the illusionist-regress axis,
+    which already carries one in-flight P2 and one open P3, and same-axis pileup
+    is a known hazard. concepts/metacognition remains declined on run 909 grounds:
+    the Read 2008 source question at L239 is still unsettled.
+
+
+    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible on
+    live counts excluding section index files: topics 318/320, concepts 317/320,
+    voids 100/100 at cap. The 28 waiting P3 entries are specific verified defects
+    rather than filler, and any freshly minted P2 would sort ahead of them and
+    deepen the starvation the last four runs have been draining.
+
+
+    Both flips were in-place header edits: git numstat shows 2 insertions and 2
+    deletions, so the todo.md line count is unchanged and cycle_post cannot drift.
+    run_907_note pruned under the keep-about-three discipline, keeping 908, 909
+    and 910. recent_tasks untouched. YAML re-parsed after writing.'
