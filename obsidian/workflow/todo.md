@@ -257,7 +257,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Reported by /check-tenets 2026-07-29T23:5xZ. **⚠️ THE REVIEW QUOTED THE WRONG STRING — I corrected it.** The report cited *"something must be doing the seeming"*, which is the wording in `concepts/illusionism.md`, NOT in these two files. **The actual wording, verified verbatim on disk by the cycle driver:** `concepts/haecceity.md` **L156** — *"**Response**: The illusionist position faces a regress (Tallis 2011). For something to *seem* a certain way, there must be a subject to whom it seems that way"*; `concepts/parfit-reductionism.md` **L95** — *"Illusionism faces a fundamental difficulty here. For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming…"*. The two are near-identical copies of each other. **Grep for `there must be a subject to whom it seems`, not the report's string.** **THE DEFECT**: both run the bare regress as decisive against illusionism. The corpus settled at 21:57Z–23:0xZ that the bare regress **proves nothing** — *"a representational system need not instantiate what it represents"* — and that the real pressure sits on the relocation move. Three hub files were fixed (`illusionism`, `explanatory-gap`, `mental-effort`); these two sat outside the query scope. **INHERIT** the wording settled at `concepts/illusionism.md` L79/L91 plus the boundary marker *"neither side closes the case against the other inside the rival's framework"*. Do not compose new. **Do NOT over-correct** into conceding illusionism is right — the point is that the regress is not decisive *either way*. **ONE FILE PER PICK**: report `concepts/parfit-reductionism.md` rather than re-scoping this task. The report also notes **eight** regress satellites and **ten** factive self-stultification loci in closing-synthesis paragraphs; those need their own enumeration pass and are not covered here. **LENGTH**: decompose the apparatus before trusting `analyze_length`. **MIRROR**: grep a CHANGED string and sync if the mirror disagrees. **ATTRIBUTION**: hold the existing `ai_system`.
 
-### P3: O'Brien-Kop citation is stale in four files — year, volume and pages all corrected in the canonical entry
+### P2: O'Brien-Kop citation is stale in four files — year, volume and pages all corrected in the canonical entry
 - **Type**: refine-draft
 - **File**: obsidian/topics/indian-philosophy-of-mind.md
 - **Status**: pending
@@ -386,7 +386,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-07-27
 
-### P3: Wikilink the term-of-art "mind-arena" to its definitional node (4 files, one per pick — re-scope the File line after each)
+### P2: Wikilink the term-of-art "mind-arena" to its definitional node (4 files, one per pick — re-scope the File line after each)
 - **Type**: refine-draft
 - **File**: obsidian/topics/alignment-in-objective-experiential-terms.md
 - **Status**: pending

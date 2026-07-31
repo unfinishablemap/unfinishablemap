@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-31T14:17:16.798164+00:00'
-session_count: 17999
-cycle_position: 12144
+last_updated: '2026-07-31T14:28:42.596338+00:00'
+session_count: 18000
+cycle_position: 12145
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-31T10:15:27.419630+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
-  refine-draft: '2026-07-31T14:01:30.785341+00:00'
+  refine-draft: '2026-07-31T14:28:42.596338+00:00'
   research-topic: '2026-07-31T11:13:09.083925+00:00'
   replenish-queue: '2026-07-31T13:42:31.758365+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-31'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-07-31'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: research-voids
   type: research-voids
+  date: '2026-07-31'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-31'
   outcome: success
 agentic_social:
@@ -1056,58 +1056,18 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 26
+  p3_tasks: 24
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-07-31T13:39:00+00:00'
-  last_replenishment_prev: '2026-07-31T12:55:00+00:00'
-  last_replenishment_run: 910
+  last_replenishment: '2026-07-31T14:30:00+00:00'
+  last_replenishment_prev: '2026-07-31T13:39:00+00:00'
+  last_replenishment_run: 911
   last_replenishment_mode: zero-mint-double-promotion
   replenishment_source_counts:
     promotion_only: 2
   relocated_starved_p2: 0
   promoted_p3_to_p2: 2
   superseded_tasks_closed: 0
-  run_908_note: 'run no.908 (2026-07-31T11:54Z, cycle-driven /replenish-queue): MINTED
-    ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Ninth consecutive
-    zero-mint run and the sixth prescribed in advance by the driver briefing. Steady
-    state, not an exception.
-
-
-    COUNTS via parse_tasks over the file on disk: 32 active, 2 P2 and 30 P3 before,
-    against MIN_QUEUE 3. After: 32 active, 4 P2 and 28 P3. Active total unchanged;
-    count_p0_p2_tasks returns 4. Raw heading greps over-report as usual; the live
-    parse is the authority. Two promoted rather than one so the floor survives the
-    next pick without re-triggering replenish on the very next iteration.
-
-
-    PROMOTED: (1) apex/competency-without-felt-experience, parser line 256, title
-    plus H1 assert phenomenal absence flat while description, apex_thesis and four
-    body loci hedge it. (2) concepts/russellian-monism, parser line 269, four See-Also
-    link labels describing illusionism as denying phenomenal properties outright or
-    exist, the reading illusionism.md retired on 07-29 and 07-30.
-
-
-    WHY THESE TWO. Both are public navigation surfaces where the LABEL asserts what
-    the BODY denies, per navigation-surfaces-carry-unreviewed-claims, both are length-neutral
-    one-to-two-word fixes, and both premises were re-verified on disk before promotion
-    rather than trusted from the task text. Competency: line 2 title and line 38 H1
-    bald, line 3 description and line 35 apex_thesis both carry the on-the-Map-framework
-    qualifier, line 102 states outright that at no rung has the Map shown that nothing
-    is felt. Ten inbound link labels across topics/ and apex/apex-articles.md repeat
-    the bald phrasing, which raises the blast radius. Russellian: all four loci quoted
-    verbatim at the stated lines, all four confirmed live in hugo/content including
-    the archive body at archive/topics/phenomenal-concepts-as-materialist-response,
-    and the inheritance target checked out (illusionism.md lines 71 to 79 run the
-    hard versus subtle spectrum), so the intensifiers really do assert the retired
-    flat reading.
-
-
-    NOT MINTED, DELIBERATELY. topics/ sits at 319 of 320 and concepts/ at 318 of 320,
-    so expand-topic and research-topic have nowhere to land, and the 30 waiting P3
-    tasks are specific verified defects rather than filler. Adding new work to a queue
-    whose real problem is that its backlog is structurally unreachable would have
-    been churn. Promotion restores the floor at zero cost.'
   run_909_note: 'run no.909 (2026-07-31T12:55Z, cycle-driven /replenish-queue): MINTED
     ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Tenth consecutive
     zero-mint run and the seventh prescribed in advance by the driver briefing. Steady
@@ -1219,4 +1179,62 @@ queue_status:
     Both flips were in-place header edits: git numstat shows 2 insertions and 2 deletions,
     so the todo.md line count is unchanged and cycle_post cannot drift. run_907_note
     pruned under the keep-about-three discipline, keeping 908, 909 and 910. recent_tasks
+    untouched. YAML re-parsed after writing.'
+  run_911_note: 'run no.911 (2026-07-31T14:30Z, cycle-driven /replenish-queue): MINTED
+    ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Twelfth consecutive
+    zero-mint run and the fourth today, all four prescribed in advance by the driver
+    briefing. Steady state, not an exception.
+
+
+    COUNTS by parsing the Active Tasks region (lines 38 to 2001) and excluding veto-tagged
+    and needs-human entries: 28 active, 0 P0, 0 P1, 2 P2 and 26 P3 before, against
+    MIN_QUEUE 3. After: 28 active, 4 P2 and 24 P3. Active total unchanged. Raw heading
+    greps over-report as usual: a bare grep for P2 headings returns 5, of which 3 carry
+    the veto tag. Two promoted rather than one so the floor survives the next pick
+    without re-triggering replenish on the very next iteration.
+
+
+    PROMOTION ONE: obsidian/topics/indian-philosophy-of-mind.md, the O Brien-Kop stale-citation
+    task. Reproduced on disk before promotion: L187 reads O Brien-Kop, K. (2023). The
+    hard problem of pure consciousness: Samkhya dualist ontology. Religious Studies,
+    Cambridge University Press - year only, no volume, no pages, no DOI. The canonical
+    entry at obsidian/topics/interaction-problem-across-traditions.md L150 carries
+    (2024), 60(S1), S4-S20, published online 2023, doi 10.1017/S0034412523000410. Confirmed
+    live in the serving mirror at hugo/content/topics/indian-philosophy-of-mind.md
+    L190, so the stale reference is published. Cheap: copy the canonical line, one
+    file per pick, three sibling loci reported not re-scoped.
+
+
+    PROMOTION TWO: obsidian/topics/alignment-in-objective-experiential-terms.md, the
+    mind-arena under-linking task - the exact pattern the briefing named as paying
+    off. Reproduced on disk: the file uses the term of art at L120 twice (consequence-distributions
+    of mind-arena perturbations are uncomputable; mind-arena consequences cannot be
+    computed) and again at L142, and grep for the wikilink form returns 0. The definitional
+    node obsidian/concepts/mind-arena.md exists (85 lines, created 2026-06-04 specifically
+    to resolve a three-way ambiguity in how the term was being used). The three sibling
+    files each carry 1 plain occurrence and 0 wikilinks. Length-neutral, one wikilink
+    on first occurrence.
+
+
+    PILEUP CHECK RUN BEFORE PROMOTING: greped both target paths against every File
+    line in the Active region; the only hits were the two tasks themselves. Neither
+    collides with the two in-flight P2s (apex/consciousness-and-agency, concepts/russellian-monism).
+
+
+    STANDING DECLINES HELD. concepts/metacognition remains declined on the run 909
+    grounds (its uncited-figure premise runs against a Read 2008 reference already
+    at L239). concepts/psychophysical-laws remains declined on the run 910 grounds
+    (premise true but it would be a third task on the illusionist-regress axis, which
+    already carries the in-flight russellian-monism P2).
+
+
+    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible: topics
+    318/320, concepts 317/320, voids 100/100 at cap. The 24 waiting P3 entries are
+    specific verified defects rather than filler, and any freshly minted P2 would sort
+    ahead of them and deepen the starvation the last five runs have been draining.
+
+
+    Both flips were in-place header edits: git numstat shows 2 insertions and 2 deletions,
+    so the todo.md line count is unchanged and cycle_post cannot drift. run_908_note
+    pruned under the keep-about-three discipline, keeping 909, 910 and 911. recent_tasks
     untouched. YAML re-parsed after writing.'
