@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-31T11:42:58.844897+00:00'
-session_count: 17979
-cycle_position: 12133
+last_updated: '2026-07-31T11:49:47.890866+00:00'
+session_count: 17980
+cycle_position: 12134
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-31T10:15:27.419630+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
-  refine-draft: '2026-07-31T11:42:58.844897+00:00'
+  refine-draft: '2026-07-31T11:49:47.890866+00:00'
   research-topic: '2026-07-31T11:13:09.083925+00:00'
   replenish-queue: '2026-07-31T10:01:23.716701+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-07-31'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-31'
@@ -187,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-07-31'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-31'
   outcome: success
 - task: refine-draft
@@ -1058,75 +1058,59 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 30
+  p2_tasks: 4
+  p3_tasks: 28
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-07-31T10:05:00+00:00'
-  last_replenishment_prev: '2026-07-31T02:52:00+00:00'
-  last_replenishment_run: 907
-  last_replenishment_mode: zero-mint-relocation-plus-single-promotion
+  loop_pickable_open: 4
+  last_replenishment: '2026-07-31T11:54:43+00:00'
+  last_replenishment_prev: '2026-07-31T10:05:00+00:00'
+  last_replenishment_run: 908
+  last_replenishment_mode: zero-mint-double-promotion
   replenishment_source_counts:
-    promotion_only: 1
-  relocated_starved_p2: 2
-  promoted_p3_to_p2: 1
+    promotion_only: 2
+  relocated_starved_p2: 0
+  promoted_p3_to_p2: 2
   superseded_tasks_closed: 0
-  run_905_note: 'run no.905 (2026-07-31T02:37Z, cycle-driven /replenish-queue): MINTED
-    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Eighth consecutive
-    zero-mint single-promotion run, and the fifth in a row prescribed in advance by
-    the driver briefing. Steady state, not an exception.
+  run_908_note: 'run no.908 (2026-07-31T11:54Z, cycle-driven /replenish-queue): MINTED
+    ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Ninth consecutive
+    zero-mint run and the sixth prescribed in advance by the driver briefing. Steady
+    state, not an exception.
 
 
-    COUNTS via parse_tasks over the file on disk: 34 active, 2 P2 and 32 P3 before,
-    against MIN_QUEUE 3. After: 34 active, 3 P2 and 31 P3. Active total unchanged;
-    count of P0-P2 returns 3. Raw heading greps over-report P2 as usual (veto-tagged
-    condense entries plus the orphaned pending blocks below the Completed Tasks header);
-    live parse is the authority.
+    COUNTS via parse_tasks over the file on disk: 32 active, 2 P2 and 30 P3 before,
+    against MIN_QUEUE 3. After: 32 active, 4 P2 and 28 P3. Active total unchanged;
+    count_p0_p2_tasks returns 4. Raw heading greps over-report as usual; the live
+    parse is the authority. Two promoted rather than one so the floor survives the
+    next pick without re-triggering replenish on the very next iteration.
 
 
-    PROMOTED THE TAIL, NOT THE HEAD. Parser line 1974 (grep line 1975), the two-tier
-    discount canonical home does not name P-F1, type refine-draft, File obsidian/project/architecture-vs-significance-two-tier-discount.md.
-    Changed one priority marker and nothing else: git numstat is exactly 1 insertion
-    and 1 deletion, so no line shifted and no sibling block moved. No relocation,
-    no re-scoping, no merge, no rewrite.
+    PROMOTED: (1) apex/competency-without-felt-experience, parser line 256, title
+    plus H1 assert phenomenal absence flat while description, apex_thesis and four
+    body loci hedge it. (2) concepts/russellian-monism, parser line 269, four See-Also
+    link labels describing illusionism as denying phenomenal properties outright or
+    exist, the reading illusionism.md retired on 07-29 and 07-30.
 
 
-    ORDERING INVARIANT HELD. select_queue_task sorts by (priority, line_number) at
-    tools/evolution/task_selector.py:158. The head P3s start at 40, 47, 57 and 67;
-    promoting any of them would have sorted ahead of both waiting P2s at 1958 and
-    1966 and re-buried them, the loop that starved three mysterianism P2s through
-    five consecutive replenishes. 1974 is the only P3 below the P2 block. Post-edit
-    select_queue_task still returns the knowledge-argument P2 at 1958, and the three
-    P2s now occupy 1958, 1966 and 1974 in that order, so the next three queue slots
-    consume them without any being overtaken.
+    WHY THESE TWO. Both are public navigation surfaces where the LABEL asserts what
+    the BODY denies, per navigation-surfaces-carry-unreviewed-claims, both are
+    length-neutral one-to-two-word fixes, and both premises were re-verified on disk
+    before promotion rather than trusted from the task text. Competency: line 2 title
+    and line 38 H1 bald, line 3 description and line 35 apex_thesis both carry the
+    on-the-Map-framework qualifier, line 102 states outright that at no rung has the
+    Map shown that nothing is felt. Ten inbound link labels across topics/ and
+    apex/apex-articles.md repeat the bald phrasing, which raises the blast radius.
+    Russellian: all four loci quoted verbatim at the stated lines, all four confirmed
+    live in hugo/content including the archive body at
+    archive/topics/phenomenal-concepts-as-materialist-response, and the inheritance
+    target checked out (illusionism.md lines 71 to 79 run the hard versus subtle
+    spectrum), so the intensifiers really do assert the retired flat reading.
 
 
-    LINE-NUMBER CONVENTION, recorded again because it looks like drift and is not:
-    grep -n reports headings one higher than parse_tasks. The pairs this run were
-    1959/1958, 1967/1966, 1975/1974. The driver briefing quotes parser numbers.
-
-
-    MERIT RE-VERIFIED, independent of the ordering argument. The optimistic review
-    that minted the task measured P-F1 at 1 inbound wikilink corpus-wide (the register
-    index positions/positions.md alone) and zero occurrences in any article body across
-    obsidian, archive and hugo/content. The target file is the discipline self-declared
-    canonical home and names P-F1 zero times. Carried forward into the task, not acted
-    on here: reciprocal Argued-in backlinking is NOT the corpus convention (28 of
-    86 relationships across 11 positions files link back, 33 percent), so the fix
-    should invoke P-F1 where it does argumentative work rather than perform a mechanical
-    backlink sweep.
-
-
-    ZERO MINTS AND THAT IS CORRECT. Caps measured live: topics 318/320, concepts 317/320,
-    voids 100/100 at cap, positions 11/80. task_chains.pending_articles and pending_cross_reviews
-    are both null, so the highest-bonus source (unconsumed research, +60) is genuinely
-    empty rather than assumed empty. Gap analysis is exhausted; the 22:45Z harvest
-    yielded nothing. Queue depth is 34. No work was manufactured to justify the run.
-
-
-    run_902_note pruned under the keep-about-three discipline, keeping 903, 904 and
-    905. recent_tasks untouched. YAML re-parsed after writing. No commit made; cycle_post
-    owns that.'
+    NOT MINTED, DELIBERATELY. topics/ sits at 319 of 320 and concepts/ at 318 of 320,
+    so expand-topic and research-topic have nowhere to land, and the 30 waiting P3
+    tasks are specific verified defects rather than filler. Adding new work to a queue
+    whose real problem is that its backlog is structurally unreachable would have been
+    churn. Promotion restores the floor at zero cost.'
   run_906_note: 'run no.906 (2026-07-31T02:52Z, cycle-driven /replenish-queue): MINTED
     ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Ninth consecutive zero-mint
     single-promotion run.
