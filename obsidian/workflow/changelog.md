@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T08:09:00+00:00'
+ai_modified: '2026-07-31T09:39:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 09:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Task**: P2 queue task (todo line 39), 2026-07-31 outer-review cycle, ChatGPT 5.6 Pro recs 19–25 as annotated by `/combine-outer-reviews` (2/3 convergent — Claude Opus 5 reached the same finding independently; deliberately left at P2).
+- **Change**: added one ratification-ledger section, **"Proposed: Literature-Currency Verification — Erratum Checks, Expiry-Dated Claims, an Experimental Citation Ledger, Logical Independence, Understatement Parity (pending human ratification — 2026-07-31 outer-review)"**, inserted immediately before *A Tension Worth Naming* so the Proposed sections stay in date order. This is the document's **sixth** `PROPOSED, NOT ENACTED` block.
+- **Word count**: new section **1,076 words**; file **15,525 → 16,597** (`critical`, 664% of the 2,500 project soft threshold). Section is **59% of the 2026-07-28 template section (1,816 words)** — materially shorter, but ~20% over the driver's 700–900 aim. Twelve required content units (four ChatGPT proposals, two Claude singletons, three ledger cross-references, the publisher-of-record constraint, the drift-lane assessment, two operator discussion items, disposition summary) plus ~90 words of unavoidable long-anchor wikilink markup set the floor. **No condensation of the rest of the document attempted** — out of scope, and flagged to the operator as a standing length/archival decision.
+- **Recorded as genuinely new**: (a) erratum/retraction/dispute-status check as a verification step distinct from existence-checking; (d) Claude's two singletons — the logical-independence check for physics-adjacent articles, and understatement parity as a two-sided instrument (the concession direction, paired with the corpus's recorded mirror failure in which an over-claim running *against* the Map collects endorsements).
+- **Recorded as cross-referenced, not re-proposed** — four overlaps named explicitly, one more than the driver identified: the **2026-07-21** staged-verification proposal (this ledger instantiates its stage (iii) for one domain); the **2026-07-28** `last_citation_verification` field (the ledger is arguably that field's *content* for physics articles); the **2026-06-26 item (b)** per-claim evidence ledger — *the fourth overlap, not in the driver's list, and the closest one*; and rec 19, which Audit One already runs in weaker form. Residue of (c) narrowed to the physics-specific columns alone.
+- **Drift-lane question answered as an assessment**: probably **no** higher-frequency lane needed — the diagnosis points at the *selector*, not the cadence. Audit One picks the oldest `ai_modified` in an active-research area; the exhibit had been reviewed eight days earlier, so an oldest-first selector never reaches it and running it daily would not help. The fix is re-keying selection to time-since-last-literature-search — i.e. the 2026-07-28 `last_citation_verification` field used as a *routing key*, not a display field. Same weekly slot, no new external-call budget. This composition is the section's top pick alongside (a).
+- **arXiv:2511.00852 caution landed** as item (e), the implementation constraint: all three reviews described it as a rebuttal of Trillo & Navascués when it is Diósi's comment on Aziz & Howl, *Nature* 646, 813 (2025), and the synthesis promoted the mis-description as the cycle's only 3/3 convergent cluster before it was caught at arXiv. Any adopted currency mechanism must resolve at publisher-of-record; reviewer agreement is a nomination signal only.
+- **Tenet-blind external referee and domain-physicist sign-off** recorded as operator discussion items in the same class as the 2026-07-21 item (30) — not framed as automation changes.
+- **Scope discipline**: no `SKILL.md`, no `tools/`, no `scripts/`, no `evolution-state.yaml`, no frontmatter schema, no `todo.md` touched. The two standing `NEEDS-HUMAN` entries reserving this substance are named in the status paragraph and left intact.
+- **Hygiene**: 9 wikilinks in the new section verified to resolve (4 review files on disk, 1 article, 3 in-document `## Proposed:` anchors matched against actual headings, 1 `evidential-status-discipline#…` sub-anchor). `ai_system` held at `claude-opus-4-7+claude-opus-5` (already contains this model). `ai_modified` → `2026-07-31T09:39:11+00:00`, clock-checked with `date -u`. `last_deep_review` untouched. Four 2026-07-31 review files + the audited article added to `related_articles`. Validator: ✓ Valid.
+- **Published**: yes
 
 ## 2026-07-31 09:19 UTC - deep-review
 - **Status**: Success
