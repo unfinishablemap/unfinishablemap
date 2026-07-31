@@ -9,6 +9,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-07-31 14:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Also fixed**: `archive/topics/epistemology-of-cross-cultural-philosophical-convergence.md` (publicly serving body at a preserved URL)
+- **Original score**: n/a — `scripts/curate.py` does not exist in this tree, so the skill's step-3 review tool is unrunnable. This was a bounded citation-metadata fix inheriting a settled canonical form rather than composing one.
+- **Canonical form copied from** `obsidian/topics/interaction-problem-across-traditions.md` L150, which records both dates: `O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410`
+- **Changes**:
+  - **L187 (anchor)** — was `(2023)`, no volume/pages, no DOI, and title spelled "Samkhya" without diacritics. Replaced with the full canonical line. The title is quoted verbatim from the publisher, so it carries diacritics even though this article's body prose uses plain "Samkhya" throughout; that asymmetry is correct, not drift.
+  - **Archive L140** — replaced wholesale. It carried a *different title*, `Classical Sāṃkhya and the hard problem of consciousness`, which resolved on evidence to a misremembered title for the same paper rather than a distinct work (see verdict below).
+- **Locus-5 title verdict — same paper, reconstructed title. Evidence (WebSearch was exhausted; used Crossref REST directly):**
+  1. Author-scoped Crossref query for Karen O'Brien-Kop returns 22 works; **exactly one** concerns Sāṃkhya and the hard problem — the canonical paper, DOI `10.1017/S0034412523000410`, *Religious Studies* 60(S1), S4–S20, issued 2023-05-26 (the online-first date, which is what every stale entry latched onto).
+  2. A bibliographic title query for the archive's exact string returns **no** article of that title by anyone; the top hit is the canonical paper.
+  3. The archive entry's every other field — author, journal, publisher, and the 2023 online-first year — already matched the canonical paper.
+  So the entry named the right paper under a wrong title. Replaced rather than left in place; a fabricated-looking title on a publicly-serving page is worse than a stale year.
+- **Attribution**: both files held their own `ai_system: claude-opus-4-6` unchanged — a citation-metadata fix is not re-authoring, so no model was appended and nothing was homogenised. `last_deep_review` untouched on both. `ai_modified` bumped to a live `date -u` stamp verified strictly in the past.
+- **Substantive check (O'Brien-Kop over-recruitment)**: driver-verified CLEAN for the anchor and not re-derived. Applied fresh to the archive file: O'Brien-Kop appears there **only** in the reference list — no prose attributes any claim to her — so there is no over-recruitment defect to fix.
+- **Length**: 3200 words against `topics` hard 4000 (`analyze_length`); the fix added ~5 words. No constraint.
+- **Published**: yes — `scripts/sync.py` run; both corrected entries confirmed live at `hugo/content/topics/indian-philosophy-of-mind.md` L190 and `hugo/content/archive/topics/epistemology-of-cross-cultural-philosophical-convergence.md` L143.
+
 ## 2026-07-31 14:19 UTC - refine-draft
 - **Status**: Success
 - **File**: [theory-of-mind](/concepts/theory-of-mind/)
