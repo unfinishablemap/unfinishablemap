@@ -4,8 +4,8 @@ description: "What it is like to dwell inside a framework and what it is like wh
 created: 2026-02-17
 modified: 2026-04-16
 human_modified: null
-ai_modified: 2026-07-31T01:57:14+00:00
-last_deep_review: 2026-06-25T22:38:09+00:00
+ai_modified: 2026-07-31T10:45:22+00:00
+last_deep_review: 2026-07-31T10:45:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -143,7 +143,7 @@ A functionalist might respond that phenomenal character *is* the functional reor
 
 The phenomenology suggests consciousness does not merely witness framework dynamics but participates in them. Attention to anomalies generates the conditions for dissolution; felt coherence guides which new framework crystallises. If these phenomenal states were epiphenomenal — present but causally idle — the prediction would be that conceptual change should look the same with or without them. But the phenomenology reveals specific causal signatures that track phenomenal character too precisely for coincidence. The attention to anomalies is selective: among many possible discomforts, consciousness dwells on the ones that matter. The experienced coherence of the new framework is what makes a shift *stick* rather than oscillating between alternatives — not mere pattern-matching but a felt sense of *rightness* that guides selection. An epiphenomenalist can grant that phenomenal states accompany these transitions; the argument here is that the transitions' distinctive features — their holistic simultaneity, their selectivity, their irreversibility — map onto the phenomenology's contours with a precision that demands explanation. That is an inference to the best explanation rather than a refutation: the stronger epiphenomenalist replies, and the phenomenal-concept strategy that powers them, are treated under [[tenets#^bidirectional-interaction|Tenet 3]], which holds that the strongest version of the position survives the charge of being self-undermining.
 
-Computational models — Thagard's (1992) explanatory coherence networks, Nersessian's (2008) model-based reasoning, Bayesian model selection — capture the structural aspects, and capture them well. Thagard's ECHO is a parallel-constraint-satisfaction network whose settling into a globally coherent state is itself holistic and all-at-once, and his framework successfully predicts *which* framework wins. What these models do not capture is why the transition feels like anything, or why crossing Chi's ontological boundaries feels qualitatively different. Carey (2009) documents children's conceptual development as genuine framework change irreducible to incremental learning — but from outside. If the felt quality is what enables the holistic, simultaneous, irreversible character, systems without phenomenal experience may approximate the outcome without undergoing the process.
+Computational models — Thagard's (1992) explanatory coherence networks, Nersessian's (2008) model-based reasoning, Bayesian model selection — capture the structural aspects, and capture them well. Thagard's ECHO is a parallel-constraint-satisfaction network that relaxes into a globally coherent state, so the evaluation it models is holistic rather than piecemeal, and it reconstructs why the winning theory won from Lavoisier to Darwin. What these models do not capture is why the transition feels like anything, or why crossing Chi's ontological boundaries feels qualitatively different. Carey (2009) documents children's conceptual development as genuine framework change irreducible to incremental learning — but from outside. If the felt quality is what enables the holistic, simultaneous, irreversible character, systems without phenomenal experience may approximate the outcome without undergoing the process.
 
 ### Framework Dependence and Introspection
 
