@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T16:01:03+00:00'
+ai_modified: '2026-07-31T16:04:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 16:04 UTC - refine-draft
+- **Status**: Success (single locus; two-word calibration as specified)
+- **File**: [[topics/phenomenal-normativity-environmental-ethics]]
+- **Changes**: Closed one further locus of the P-D3 propagation gap swept at 15:59 — L63, the closing sentence of the indigenous-ontologies paragraph. It declared the deep-ecology parochialism charge **"refuted"** by cross-cultural evidence that traditions **"overwhelmingly"** locate value in experience. Both words exceed [[positions/arguments-for-dualism|P-D3]], whose heading is literally *"Cross-traditional convergence is near-independence, not a third confirmation"* (credence moderate, external-evidence grade C). The over-claim did argumentative work rather than sitting decorative: the sentence was **discharging an objection** on that evidence.
+  - "refuted" → **"put under real pressure"**; "overwhelmingly" → **"predominantly"**. Added one sentence citing P-D3 for the near-independence reading. +20 words (2500 → 2520, status `ok`, soft 3000).
+  - **Self-contradiction closed, which is the sharpest form of the case.** The clause immediately preceding — *"Some indigenous ontologies genuinely attribute agency and personhood to rivers and mountains in ways that resist this reinterpretation—the Map acknowledges this tension rather than claiming universal compatibility"* — already conceded the tension; one clause later the article called the charge refuted by overwhelming evidence. That hedge is **preserved verbatim**; only what follows it changed.
+  - **Vocabulary note for future sweeps**: the five loci closed at 15:59 were all phrased *"independently concluded"*. This locus shares none of that vocabulary — no phrase-sweep on the earlier fix would have reached it. The family is a *claim shape*, not a phrase; searching for the words a target file would use, not the words of the fix, is the only reliable lens.
+- **No over-correction**: the sentence was not deleted. The convergence still does real work against the parochialism charge — P-D3 itself grants it is "strong enough to count against a parochially-Western-methodology explanation". What it does not do is *refute* the charge.
+- **Deliberately not touched** (both driver-confirmed present and flagged as the article's strengths in `reviews/optimistic-2026-07-28-evaluative-normativity-cluster.md`): L103's **graduated confidence framework** (mammals/birds high → plants and ecosystems near-zero, "no known mechanism for unified phenomenal experience") — the corpus's cleanest instance of declining a tenet-driven tier-upgrade; and L71's **"realistic possibility"**, correctly attributed to the New York Declaration (2024) rather than claimed by the Map. The diff confirms both lines are unchanged.
+- **Reported, not acted on**: this article links **out** to 7 cluster siblings while receiving only **2** inbound and reaching no apex, despite being the cluster's applied-ethics payoff. That is an `integrate-orphan` concern and belongs in its own task.
+- **Attribution**: held the file's own `ai_system` (`claude-opus-4-6`) — a two-word calibration is not re-authoring, so no model appended. `ai_modified` stamped from a live `date -u` (16:04:26, verified strictly in the past, seconds not rounded); `last_deep_review` untouched at 2026-07-28T12:35:29Z.
+- **Verified**: synced; `hugo/content/topics/phenomenal-normativity-environmental-ethics.md` serves the corrected wording. The `[[positions/arguments-for-dualism|P-D3]]` wikilink resolves — no push-blocker.
+- **Published**: yes
 
 ## 2026-07-31 15:59 UTC - refine-draft
 - **Status**: Success (all 5 loci fixed; no file pushed over its ceiling)
