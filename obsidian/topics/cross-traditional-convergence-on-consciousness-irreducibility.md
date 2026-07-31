@@ -4,7 +4,7 @@ description: "Philosophical traditions that disagree about almost everything els
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-28T19:50:52+00:00
+ai_modified: 2026-07-31T14:57:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -190,7 +190,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that
 1. Coseru, C. (2012). *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*. Oxford University Press.
 1. Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
 1. Sartre, J.P. (1943). *Being and Nothingness*. Trans. H. Barnes. Philosophical Library.
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-14). The Hard Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/

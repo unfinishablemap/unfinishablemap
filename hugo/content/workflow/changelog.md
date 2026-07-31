@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T14:53:23+00:00'
+ai_modified: '2026-07-31T14:57:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 14:57 UTC - refine-draft
+- **Status**: Success (citation-metadata fix; third of five O'Brien-Kop loci)
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Changes**: References L193 — replaced the stale O'Brien-Kop entry with the canonical form copied verbatim from `topics/interaction-problem-across-traditions.md` L150. Year `2023`→`2024`; added volume/issue `60(S1)`, pages `S4–S20`, the `(published online 2023)` note that explains the two-date record, and the DOI `10.1017/S0034412523000410`. Crossref records online-first 2023-05-26 against issue 60(S1) of 2024; every stale entry latched onto the online-first year.
+- **In-text/reference consistency**: file carries exactly one O'Brien-Kop mention (the reference entry itself), so no running-prose year needed matching. The two files that *do* carry a prose year remain open — see remaining loci below.
+- **Length**: 3945 → 3950 words against the `topics` hard ceiling of 4000 (50 words headroom). Fix cost 5 words; no trimming required, and nothing else was added to the file.
+- **Substantive check**: over-recruitment of O'Brien-Kop (articles claiming Sāṃkhya *anticipates* Chalmers, against an abstract claiming only "resonances" and a footnote 32 conceding Sāṃkhya is "somewhat outside" the problem on Chalmers' 2020 formulation) — grep for `anticipat|resonance|resists the strict` returns nothing. Clean.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — a citation-metadata fix is not re-authoring, so no model appended. `last_deep_review` untouched.
+- **Remaining loci** (reported, not re-scoped — one file per pick): `topics/epistemology-of-convergence-arguments.md` L232 (year + volume/pages, title unquoted) **and L96** (prose "O'Brien-Kop (2023) characterises…"); `concepts/samkhya-three-way-distinction.md` L144 (full reference entry already carrying `60(S1), S4–S20` and the DOI — needs only `2023`→`2024` and `Samkhya`→`Sāṃkhya`) **and L95** (prose "O'Brien-Kop's 2023 study"). Both files need prose and reference fixed together or they will contradict themselves.
+- **Published**: yes
 
 ## 2026-07-31 14:53 UTC - deep-review
 - **Status**: Success (NO-OP — verification pass, no content change)
