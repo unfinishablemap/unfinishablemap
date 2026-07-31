@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-30 20:44:20+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-07-31 15:52:02+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -18,7 +18,7 @@ description: Indian, African, and Western traditions converge on consciousness a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 07:39:05+00:00
+last_deep_review: 2026-07-31 15:52:02+00:00
 modified: *id001
 related_articles:
 - '[[downward-causation-mental-causation-2026-01-15]]'
@@ -77,9 +77,9 @@ The systematic error hypothesis faces difficulties. If [epiphenomenalism](/conce
 
 Independence varies by axis, and the article should not overstate it. Each axis is graded separately below, because the three do not fail—or succeed—in the same way.
 
-**Indian and Western: near-independence.** Indo-Greek exchange through Gandhara created possible influence channels between Western and Indian thought, and the contact period overlaps the centuries in which both traditions did their formative work on the self. Nothing establishes that the channel carried the specific doctrines at issue, so the case for outright dependence is unmade. The honest position is near-independence between the Indian and Western traditions — strong enough to count against a parochially-Western-methodology explanation, not strong enough to be cited as a third independent confirmation. That verdict is registered at [P-D3](/positions/arguments-for-dualism/), which would shift if the transmission channel were shown to have carried the relevant doctrines.
+**Indian and Western: near-independence.** Indo-Greek exchange through Gandhara created possible influence channels between Western and Indian thought, and it is the strongest reason not to claim outright independence on this axis. Two limits keep it from establishing dependence. The channel is late relative to the Western sources cited above: Alexander reached Bactria and Gandhara in the 320s BCE, after Plato's death, so the self-moving-soul argument cannot have been shaped by anything that passed through it. And the traffic that is documented is overwhelmingly artistic — Greek influence on Gandharan Buddhist *art* is visible and widely accepted, whereas Greek influence on Gandharan Buddhist *doctrine* is not the scholarly default, which leaves the doctrinal channel a possibility rather than a finding. Where the channel does bite is the later Indian systematisation, whose formative centuries do overlap it. Hence the near-independence verdict registered at [P-D3](/positions/arguments-for-dualism/), which would shift if the transmission channel were shown to have carried the relevant doctrines.
 
-**West African: a candidate lineage, not an established one.** The register treats West African ontologies as a *candidate* for a genuinely independent third lineage, and treats establishing such a lineage as open work rather than a completed step. Three considerations keep the candidacy open in both directions. In its favour, the Akan conceptual scheme developed in a linguistic and religious world with no documented transmission channel to either Gandhara or the Mediterranean, so the specific worry that discounts the Indian/Western axis does not transfer. Against it, trans-Saharan trade carried Islamic learning deep into West Africa well before the Akan states whose vocabulary Gyekye analyses took shape, so an isolation claim here needs argument rather than assumption. And the sources are late: the Akan material available to philosophy was recorded in the twentieth century by scholars already trained in Western academic categories, which leaves open how much of the reported dualism is Akan and how much is the translation. Wiredu presses that last worry directly against Gyekye's reading, arguing that Akan does not carry the material/immaterial dichotomy a Cartesian construal of *okra* presupposes; Gyekye reads the same material as more straightforwardly dualist. That the scheme's two leading interpreters disagree about whether it is dualist at all is itself a reason to hold this strand as a candidate rather than a confirmation.
+**West African: a candidate lineage, not an established one.** The register treats West African ontologies as a *candidate* for a genuinely independent third lineage, and treats establishing such a lineage as open work rather than a completed step. Three considerations keep the candidacy open in both directions. In its favour, the Akan conceptual scheme developed in a linguistic and religious world with no documented transmission channel to either Gandhara or the Mediterranean, so the specific worry that discounts the Indian/Western axis does not transfer. Against it, trans-Saharan trade carried Islamic learning deep into West Africa well before the Akan states whose vocabulary Gyekye analyses took shape, so an isolation claim here needs argument rather than assumption. And the sources are late: the Akan material available to philosophy was recorded in the twentieth century by scholars already trained in Western academic categories, which leaves open how much of the reported dualism is Akan and how much is the translation. Wiredu presses that last worry directly against Gyekye's reading, arguing that Akan does not carry the material/immaterial dichotomy a Cartesian construal of *okra* presupposes; Gyekye reads the same material as more straightforwardly dualist. That the scheme's two leading interpreters disagree about whether it even draws the material/immaterial contrast a dualist reading needs is itself a reason to hold this strand as a candidate rather than a confirmation.
 
 A further coarse-graining sits inside the same axis. "African philosophical traditions" here joins two distinct worlds—Akan thought is West African, while Ubuntu belongs to the Southern and Eastern Bantu sphere—and treating them as one lineage would be a convenience of the article's structure, not a finding about their history. The Ubuntu material is cited above for what it adds about relational personhood, not as a second African confirmation.
 
