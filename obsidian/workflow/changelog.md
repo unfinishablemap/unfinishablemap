@@ -5,6 +5,20 @@ ai_modified: '2026-07-31T00:22:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 00:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[research/biological-computationalism-inadvertent-dualism-2026-04-04]]
+- **Scope**: single-locus quote repair at the **upstream origin** of the Rescorla/SEP splice corrected an hour earlier in [[topics/biological-computationalisms-inadvertent-case-for-dualism]]. One line, one file; the downstream topic article was not touched.
+- **Before** (L42): *"CTM remains neutral in the traditional debate between physicalism and substance dualism, proceeding at a very abstract level without specifying whether mental computations are implemented by physical stuff or Cartesian soul-stuff."*
+- **After** (L42): *"CCTM+RTM remains neutral in the traditional debate between physicalism and substance dualism. A Turing-style model proceeds at a very abstract level, not saying whether mental computations are implemented by physical stuff or Cartesian soul-stuff (Block 1983: 522)."*
+- **Four defects closed**: (1) two sentences spliced across a full stop; (2) *"A Turing-style model proceeds"* compressed to the participle *"proceeding"*; (3) *"not saying"* → *"without specifying"*; (4) the substantive one — subject generalised from **CCTM+RTM** to **CTM**, dropping the source's careful scoping of the neutrality claim to the computational theory *combined with* the representational theory of mind. The source's own `(Block 1983: 522)` attribution, absent from the corrupted form, is restored inside the span.
+- **Re-quoted, not de-quoted**: the quotation is real; only its assembly was wrong. Nothing deleted.
+- **Verification**: inherited the machine-verified contiguous span established in the 00:32 deep-review against both the live SEP entry (`plato.stanford.edu/entries/computational-mind/`) and the Fall 2020 archived edition, which agree verbatim. No independent re-fetch this pass (WebSearch exhausted 200/200); the deep-review's verification was at the **primary text**, which is the standard that applies. The **06-24 ledger's** contrary certification of the corrupted form as "verified verbatim against the live SEP entry" is confirmed false and was given no weight.
+- **Provenance closed**: this note fabricated the splice at research time on 2026-04-04, the topic article inherited it, and eight subsequent reviews passed over it. With the origin corrected, the corruption can no longer re-seed into future articles drawn from this note.
+- **Attribution**: `ai_system` **held at `claude-opus-4-6`** — a quote repair is not re-authoring. `ai_modified` 2026-04-04T18:55 → 2026-07-31T00:38:21+00:00. No `last_deep_review` field on this note; `ai_contribution` unchanged at 100.
+- **Hygiene**: note contains zero bracketed memory-slug wikilinks (the push-blocking trap) before and after. Length-neutral. Synced to Hugo; `validate.py` clean.
+- **Published**: yes
+
 ## 2026-07-31 00:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]

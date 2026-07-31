@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-04-04 18:55:00+00:00
+ai_modified: 2026-07-31 00:38:21+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-04-04
-date: '2026-05-29'
+date: '2026-07-31'
 draft: false
 related_articles: []
 title: Research Notes - Biological Computationalism and Its Inadvertent Case for Dualism
@@ -42,7 +42,7 @@ Biological computationalism—the thesis that brains compute but in a substrate-
   - In practice all proponents embrace physicalism, but the theory is formally neutral between physicalism and substance dualism
   - Many philosophers doubt that simply being a computational state suffices for being a conscious state
 - **Tenet alignment**: The formal neutrality between physicalism and dualism is significant—CTM's own framework cannot rule out dualist implementations
-- **Quote**: "CTM remains neutral in the traditional debate between physicalism and substance dualism, proceeding at a very abstract level without specifying whether mental computations are implemented by physical stuff or Cartesian soul-stuff."
+- **Quote**: "CCTM+RTM remains neutral in the traditional debate between physicalism and substance dualism. A Turing-style model proceeds at a very abstract level, not saying whether mental computations are implemented by physical stuff or Cartesian soul-stuff (Block 1983: 522)."
 
 ### Internet Encyclopedia of Philosophy — "Computational Theory of Mind"
 - **URL**: https://iep.utm.edu/computational-theory-of-mind/
