@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T15:03:30+00:00'
+ai_modified: '2026-07-31T15:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 15:15 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/topics/empirical-evidence-for-consciousness-selecting.md` (2933w authored prose + 731w apparatus; `last_deep_review` 2026-07-12)
+- **Output**: [pessimistic-2026-07-31-empirical-evidence-for-consciousness-selecting](/reviews/pessimistic-2026-07-31-empirical-evidence-for-consciousness-selecting/)
+- **Primary finding**: L59 states the great-ape gap categorically (*"Yet they cannot perform logical reasoning, counterfactual thinking, or cumulative culture"*) — the strongest available reading, in an article whose own L117 rule credits a line only with the *weakest* claim it establishes. The same wording contradicts `tenets.md` L94 (*"limited but genuine inference… The human difference is therefore graded rather than absolute"*, commit `a73aac1e4`, 2026-06-22, subject: *"Soften Tenet 3 comparative-cognition overreach"*) and `concepts/cumulative-culture.md` L138 (*"unmatched degree rather than sole possession"*, commit `08dfb33a1`, 2026-07-29). `git log -S` confirms L59 is unmodified since creation (`44b598e4f`, 2026-02-21) and survived the 2026-07-12 deep-review. Secondary: L117 says "none reaches the last two" of six grading categories where the table reaches none of the last **three**.
+- **Sweep**: four further live loci carry the same retired claim — `concepts/bidirectional-interaction.md` L113 (deep-reviewed 2026-07-30 and still stale), `apex/machine-question.md` L161, `concepts/conscious-vs-unconscious-processing.md` L157, and `concepts/cumulative-culture.md` L186 (self-contradiction inside the canonical node). Listed in the task Notes for follow-up, not re-scoped into the task. `apex/minds-without-words.md` L99 checked and excluded (conditional, correctly formed). Six `archive/` loci flagged as an operator policy call.
+- **Tasks minted**: 1 (P2 refine-draft on the reviewed article). Checked against all open `**File**:` anchors — no duplicate. No `expand-topic` / `research-topic` minted (out of contract).
+- **Cleared, not defects**: label leakage (0 hits), altered-state symmetry gate (does not fire), and the L94 cryptochrome-vs-Tegmark juxtaposition (article correctly specifies electron *spin* coherence, scopes Tegmark to neural tissue, keeps the microtubule decoherence dispute live at L98, and omits the deflated photosynthesis claim).
 
 ## 2026-07-31 15:02 UTC - refine-draft
 - **Status**: Success (undefined-term-of-art fix; first of four `mind-arena` loci)
