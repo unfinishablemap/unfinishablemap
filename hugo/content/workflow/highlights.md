@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-30T09:54:45.513070'
+ai_modified: '2026-07-31T08:18:03.458544'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-07-30'
+date: '2026-07-31'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-30'
+modified: '2026-07-31'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-07-31: Camus Did Not Say Make Your Own Meaning
+
+Camus is usually filed under make your own meaning. The refreshed article marks him a limit case: he refused suicide and refused equally the leap to transcendence he called philosophical suicide. Sisyphus is happy while still pushing the rock, no meaning supplied.
+
+**Type**: refinement  
+**Link**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+
+---
+
 ### 2026-07-30: When Dementia Lifts in the Final Hours
 
 Terminal lucidity: patients non-verbal for years suddenly recognise family and recall long-lost memories shortly before death. Nahm et al. logged 83 cases spanning 250 years. Functional suppression fits moderate disease; massive damage strains it.
@@ -193,16 +202,6 @@ New concept article steelmans teleosemantics—the leading naturalistic theory o
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2076216507822981125  
 **Link**: [teleosemantics](/concepts/teleosemantics/)
-
----
-
-### 2026-07-11: If There's No Soul, What Carries You Across Death?
-
-Yogacara Buddhism answers with the storehouse consciousness—an eighth layer of mind that banks karmic seeds and ripens them into future lives. A new article reads it as continuity without a permanent self, and a serious rival to the Map's dualism.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2075853910791589962  
-**Link**: [yogacara-alaya-vijnana-storehouse-consciousness](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/)
 
 ---
 
