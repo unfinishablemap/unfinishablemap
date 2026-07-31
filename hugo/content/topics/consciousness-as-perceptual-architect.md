@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-07-06 20:50:45+00:00
+ai_modified: 2026-07-31 09:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -69,7 +69,7 @@ These constancies are not occasional corrections. They are the default character
 
 Cognitive science offers computational explanations: chromatic adaptation, illuminant estimation, relational processing, Bayesian inference, and [predictive processing](/topics/predictive-processing-and-dualism/) frameworks that cast constancy as the brain maintaining stable priors while absorbing variable sensory signals as prediction error (Clark 2013; Hohwy 2013). Land's (1977) retinex theory, for instance, demonstrated that colour perception depends on ratios of reflected light across a scene rather than absolute wavelengths — an elegant computational account. These models are genuinely informative about *which information* the visual system uses and *how* it transforms retinal signals into stable percepts.
 
-But the computational account stops at the threshold of the [hard problem](/concepts/phenomenal-consciousness/). A thermostat maintains temperature constancy — sensing, computing, adjusting — without there being something it is like to achieve that stability. The computational account of colour constancy describes analogous mechanisms. What it cannot account for is that perceptual constancy is *experienced from a first-person point of view*. The stability is not just computed; it is undergone.
+But the computational account stops at the threshold of the [hard problem](/topics/hard-problem-of-consciousness/). A thermostat maintains temperature constancy — sensing, computing, adjusting — without there being something it is like to achieve that stability. The computational account of colour constancy describes analogous mechanisms. What it cannot account for is that perceptual constancy is *experienced from a first-person point of view*. The stability is not just computed; it is undergone.
 
 The [inverted-qualia](/concepts/inverted-qualia/) thought experiment sharpens the point. Two systems could implement identical constancy functions — producing the same stable cortical representations under the same illumination changes — yet differ in what yellow *feels like*. The functional role of "stable colour representation" does not determine its qualitative character. What remains invariant in experience outruns what remains invariant in the computation.
 

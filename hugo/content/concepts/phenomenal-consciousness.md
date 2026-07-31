@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-30 19:16:02+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-07-31 09:19:00+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
 - '[[access-consciousness]]'
@@ -29,7 +29,7 @@ description: What it is like to be in a mental state—the subjective quality of
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 03:57:12+00:00
+last_deep_review: 2026-07-31 09:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ P-consciousness is the hard problem's core. Physical theories can explain inform
 
 Ned Block introduced "phenomenal consciousness" in 1995 to isolate the experiential aspect from functional aspects: P-consciousness is "experience; what makes a state phenomenally conscious is that there is something it is like to be in that state." This echoes Thomas Nagel's 1974 formulation: consciousness requires something it is like *for the organism*.
 
-The defining mark is subjective character—the redness of seeing red, the sharpness of pain, the weighted feeling of sadness, the phenomenology of understanding (see [cognitive-phenomenology](/concepts/cognitive-phenomenology/)). Each involves distinctive qualitative character that constitutes P-consciousness.
+The defining mark is subjective character—the redness of seeing red, the sharpness of pain, the weighted feeling of sadness, the phenomenology of understanding (see [cognitive-phenomenology](/concepts/cognitive-phenomenology/)).
 
 [qualia](/concepts/qualia/) are individual phenomenal properties—the redness of red, the painfulness of pain. P-consciousness is the broader category encompassing qualia plus the overall character of conscious states, experiential unity, and the subjective perspective itself. Qualia's features—intrinsic, private, ineffable, directly apprehensible—make P-consciousness resistant to third-person explanation.
 
@@ -63,7 +63,7 @@ Block's 1995 paper argued philosophers conflate two distinct concepts:
 
 The distinction reveals what physicalist theories can and cannot explain. Physicalism succeeds at access: [Global Workspace Theory](/concepts/global-workspace-theory/) and related neural models can explain how information becomes globally available. But even complete understanding of access mechanisms leaves the [hard problem](/topics/hard-problem-of-consciousness/) untouched: why does globally broadcast information feel like anything?
 
-Block argues the two can dissociate. [blindsight](/concepts/blindsight/) patients may have degraded access without phenomenology. Sperling's iconic memory experiments suggest phenomenology exceeding access capacity—though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. These dissociations are explored in detail in [perception and conscious experience](/topics/dualist-perception/), where blindsight, inattentional blindness, and subliminal perception each separate processing from phenomenal awareness. The [extended cognition debate](/topics/consciousness-epistemology-extended-cognition/) reveals a further consequence of the distinction: A-consciousness plausibly extends into notebooks and tools via functional parity, while P-consciousness does not—an asymmetry that strengthens the dualist case.
+Block argues the two can dissociate. [blindsight](/concepts/blindsight/) patients may have degraded access without phenomenology; Sperling's iconic memory experiments suggest phenomenology exceeding access capacity, though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. [Perception and conscious experience](/topics/dualist-perception/) treats these cases in detail, adding inattentional blindness and subliminal perception. The [extended cognition debate](/topics/consciousness-epistemology-extended-cognition/) reveals a further consequence of the distinction: A-consciousness plausibly extends into notebooks and tools via functional parity, while P-consciousness does not—an asymmetry that strengthens the dualist case.
 
 ## The Hard Problem {#hard-problem}
 
@@ -95,15 +95,15 @@ Chalmers presents a dilemma. Let C be the special features of phenomenal concept
 
 ## Illusionism: Denying P-Consciousness {#illusionism}
 
-[illusionism](/concepts/illusionism/) (Dennett, Frankish) holds there is no phenomenal consciousness—we merely *represent* ourselves as having irreducible experiential qualities. The "illusion problem" (why we represent ourselves as having qualia) replaces the hard problem.
+[illusionism](/concepts/illusionism/) (Dennett, Frankish) holds that we merely *represent* ourselves as having irreducible experiential qualities. Frankish restricts the denial to phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—not consciousness in every functional sense; the position runs from a hard end at which phenomenal properties simply do not exist to a subtle end at which the brain models something real but schematically. The "illusion problem" (why we represent ourselves as having qualia) replaces the hard problem.
 
-The primary objection: even illusions require phenomenology. If it *seems* you have qualia, something is going on—the seeming itself. The illusionist must say pain involves no "painfulness" beyond functional representation of damage. But this denies what is most immediately known: that [pain *hurts*](/topics/pain-consciousness-and-causal-power/) as an experiential quality.
+The obvious reply is a regress: if it *seems* you have qualia, something must be doing the seeming. Taken bare it proves nothing, and the Map does not run it as though it did—it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The pressure is rather that relocating the question gains only if "why does damage *seem* to hurt?" is tractable where "why does damage hurt?" was not, which is asserted rather than shown. That [pain *hurts*](/topics/pain-consciousness-and-causal-power/) is the datum any such account still owes an explanation of.
 
 Illusionism captures something: introspection is fallible, and the explanatory gap might partly reflect how we think about experience. But if P-consciousness is what we know most directly—not a theoretical posit vulnerable to elimination but the datum that any adequate theory must explain—theories denying it are less plausible than theories accepting it. The [argument-from-reason](/topics/argument-from-reason/) deepens this: representing something as having phenomenal properties requires grasping *what* is being represented, which itself involves phenomenal consciousness.
 
 ## The Mysterian Caveat {#mysterianism}
 
-[mysterianism](/concepts/mysterianism/) suggests we may be unable to understand how P-consciousness relates to physical processes—not because consciousness is supernatural, but because our cognitive architecture may be closed to the relevant property. Colin McGinn argues that introspection accesses consciousness while perception accesses brains, but neither reveals their connection. The solution might exist yet remain beyond our conceptual reach.
+[mysterianism](/concepts/mysterianism/) suggests we may be unable to understand how P-consciousness relates to physical processes—not because consciousness is supernatural, but because our cognitive architecture may be closed to the relevant property. Colin McGinn argues that introspection accesses consciousness while perception accesses brains, but neither reveals their connection.
 
 This connects to [biological-cognitive-closure](/voids/biological-cognitive-closure/): if the concepts needed to understand consciousness-brain relations aren't among our native cognitive endowment, no investigation will produce them. The mysterian caveat is compatible with both dualism and physicalism—it concerns epistemic limits, not ontology. The Map takes this seriously under [Occam's Razor Has Limits](/tenets/#occams-limits): our sense of explanatory "simplicity" may reflect cognitive closure rather than reality.
 
@@ -131,13 +131,13 @@ What the convergence earns is *irreducibility*, not dualism specifically. [panps
 
 The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that P-consciousness is causally efficacious. That we report on phenomenal properties suggests information about consciousness flows into the physical domain. [epiphenomenalism](/concepts/epiphenomenalism/) faces self-stultification: if phenomenal properties don't affect behavior, beliefs about them are causally disconnected from the properties themselves, undermining those very beliefs.
 
-The [argument-from-reason](/topics/argument-from-reason/) provides independent support: only conscious awareness can grasp reasons *as* reasons. Unconscious systems might implement reliable truth-tracking, but genuine rational inference—appreciating *why* conclusions follow—requires phenomenal awareness. P-consciousness is not merely real but causally efficacious in reasoning.
+The [argument-from-reason](/topics/argument-from-reason/) provides independent support. C. S. Lewis gave the argument its best-known modern statement in *Miracles* (1947), whose third chapter he substantially rewrote for the 1960 edition after Anscombe's critique; the Map's reading of it is that only conscious awareness can grasp reasons *as* reasons. Unconscious systems might implement reliable truth-tracking, but genuine rational inference—appreciating *why* conclusions follow—requires phenomenal awareness. P-consciousness is not merely real but causally efficacious in reasoning.
 
 This connects to [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/): if phenomenal consciousness influences physical outcomes, we are genuine agents, not spectators. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies one possible interface where consciousness might influence quantum indeterminacies without violating conservation laws.
 
 ### Access/Phenomenal Distinction and Dualism
 
-Acknowledging [access-consciousness](/concepts/access-consciousness/) *strengthens* dualism. Physicalism can explain A-consciousness through neural architecture. What remains inexplicable is why globally broadcast information feels like anything. The explanatory gap persists after access is fully explained—this residual gap is where dualism finds strongest support.
+Acknowledging [access-consciousness](/concepts/access-consciousness/) *strengthens* dualism: physicalism can explain A-consciousness through neural architecture, and the explanatory gap persists after access is fully explained. That residual gap is where dualism finds strongest support.
 
 ### No Many Worlds
 
@@ -177,13 +177,13 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 
 ## References
 
-1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*.
-1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*.
+1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247. https://doi.org/10.1017/S0140525X00038188
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450. https://doi.org/10.2307/2183914
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
-1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
-1. Jackson, F. (1982). "Epiphenomenal Qualia." *The Philosophical Quarterly*.
-1. Loar, B. (1990/1997). "Phenomenal States." In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*.
-1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.
-1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.
-1. Lewis, C. S. (1947). *Miracles*. Geoffrey Bles. (Revised 1960 after Anscombe's critique.)
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
+1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *The Philosophical Quarterly*, 32(127), 127–136. https://doi.org/10.2307/2960077
+1. Loar, B. (1990/1997). "Phenomenal States." *Philosophical Perspectives*, 4, 81–108. https://doi.org/10.2307/2214188 Reprinted in N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
+1. McGinn, C. (1989). "Can We Solve the Mind–Body Problem?" *Mind*, 98(391), 349–366. https://doi.org/10.1093/mind/XCVIII.391.349
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11–12), 11–39.
+1. Lewis, C. S. (1947). *Miracles: A Preliminary Study*. Geoffrey Bles. (Chapter 3 substantially rewritten for the 1960 edition after Anscombe's critique.)

@@ -4,7 +4,7 @@ description: "How consciousness stabilizes perception despite constant sensory f
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-11T06:32:00+00:00
+ai_modified: 2026-07-31T09:19:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-11T20:23:00+00:00
@@ -55,7 +55,7 @@ Cognitive science offers computational explanations of constancy. Colour constan
 
 These accounts are genuinely informative. They explain *which information* the visual system uses and *how* it transforms retinal signals into stable percepts. The Map does not dispute their empirical findings.
 
-But the computational account stops at the threshold of the [[phenomenal-consciousness|hard problem]]. It explains how the brain arrives at a representation labelled "yellow" across illumination changes—it does not explain why there is *something it is like* to experience that stable yellow. The constancy in question is not merely a computational output. It is a feature of conscious experience: the banana's yellowness *feels* the same under candlelight as under noon sun, and this felt sameness is the phenomenon that needs explaining.
+But the computational account stops at the threshold of the [[hard-problem-of-consciousness|hard problem]]. It explains how the brain arrives at a representation labelled "yellow" across illumination changes—it does not explain why there is *something it is like* to experience that stable yellow. The constancy in question is not merely a computational output. It is a feature of conscious experience: the banana's yellowness *feels* the same under candlelight as under noon sun, and this felt sameness is the phenomenon that needs explaining.
 
 Consider an analogy. A thermostat maintains temperature constancy in a building. It senses, computes, and adjusts. No one supposes there is something it is like to be a thermostat achieving constancy. The computational account of colour constancy describes mechanisms analogous to the thermostat's—sensors, algorithms, outputs. What it cannot account for is that perceptual constancy is experienced from a first-person point of view. The stability is not just computed; it is *undergone*.
 
