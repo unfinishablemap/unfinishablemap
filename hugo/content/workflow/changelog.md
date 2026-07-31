@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T04:52:00+00:00'
+ai_modified: '2026-07-31T05:13:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 05:13 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-07-31
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro) — all three audited the identical subject, `topics/penrose-gravity-induced-collapse-empirical-prospects.md`, so this is the cleanest convergence set the cycle has produced.
+- **Clusters**: 11 convergent, ~17 singleton, 3 divergent
+- **Two convergences the per-review passes could not see.** Each collection checked whether the *siblings'* headline findings recurred in its own review; none checked the reverse. (1) **Trillo & Navascués presented as settled = 3/3, the cycle's only three-reviewer cluster** — Gemini names Diósi's rebuttal by its correct title (its 2024/ResearchGate date and venue are wrong; verified identifier arXiv:2511.00852). (2) **Dissipative-collapse generalizations = 2/3, ChatGPT + Gemini** — ChatGPT's arXiv:2401.04665 was fetched and identified this pass as Di Bartolomeo & Carlesso, *New J. Phys.* 26, 043006 (2024), the companion to the *Phys. Rev. A* 108, 012202 (2023) paper Gemini cites. Same authors, same linear-friction programme: one finding, not a loose match. The Gemini collection's "reaches none of them" verdict is accurate for the four findings it tested and wrong as a general claim.
+- **Primary-source verification** (WebSearch exhausted; direct arXiv fetch only, no aggregator and no page on this site): **the R₀=0 claim is CONFIRMED** — the ChatGPT collection had explicitly recorded it as unverified, and it drives the P1 task and the fifth-tenet rewrite. Donadi et al. (arXiv:2111.13490) state that a point-like mass density makes the self-energy integral diverge, "leading to an instantaneous collapse, which is clearly wrong"; that Penrose's germanium prescription gives "One obtains R₀=0.05×10⁻¹⁰ m"; and that the bound is "R₀>0.54×10⁻¹⁰ m with probability 0.95". The correction makes the falsification of Penrose *stronger*, not weaker. **Figurato 2024 also CONFIRMED** (arXiv:2406.18494 — title, six authors, *New J. Phys.* 26, 113004, and both halves of the finding in the abstract); its "18 orders of magnitude" figure is not in the abstract and remains unchecked.
+- **Tasks upgraded**: 2 (P2→P1: the Figurato/Trillo task carrying the 3/3 cluster, and the asymmetric-evidential-framing task carrying the 2/3 "Empirical stakes" non-sequitur). P3→P2: 0. The R₀=0/XENONnT task was already at the P1 ceiling.
+- **Tasks deliberately NOT upgraded despite convergence**: 3 — the citation-integrity task (its convergent Arndt→Pedalino limb sits among four singletons, so the limb is marked must-not-drop instead), the Gemini task (dominated by the singleton DSW finding), and the methodology task (two `NEEDS-HUMAN` entries already reserve that substance as an operator decision).
+- **Tasks deduplicated**: 0 — the collection passes had already suppressed re-minting of convergent findings, so no duplicate task blocks existed. **Tasks minted**: 0. One previously untasked 2/3 cluster (the Donadi "rescue any model" quotation traced to a 2022 *Quanta Magazine* interview, venue undisclosed and unlisted) was added as a limb to the existing citation-integrity task rather than minted separately, since that task's scope already covers it and this file is at the same-file pileup threshold.
+- **Divergences recorded**: three reviewers hold three incompatible readings of the article's McQueen 2023 handling (too harsh / correct / too lenient-and-misdescribed); ChatGPT and Claude read the Gran Sasso bounds in opposite directions on how much they damage Orch OR, which makes the P-Q5 demotion a live disagreement rather than a convergent instruction; and the entanglement literature disagrees internally.
+- **No fabricated quotation propagated.** None of Gemini's five non-verbatim Map-attributed spans is quoted in the synthesis, and no convergence claim rests on one — its contribution to the 3/3 cluster rests on a published paper title. Claude's "live-but-marginal-as-mainstream" is likewise flagged as its own coinage, not site vocabulary.
+- **Parser check**: all 7 touched tasks re-parsed; `review_file` non-null on every one and no `Notes` truncation. The plural `Review files:` line was added *alongside* the singular, and both it and `Synthesis:` were placed before `- **Notes**:`, since any `- **` line after Notes silently truncates them.
+- **Output**: [outer-review-synthesis-2026-07-31](/reviews/outer-review-synthesis-2026-07-31/)
 
 ## 2026-07-31 04:52 UTC - outer-review
 - **Status**: Success
