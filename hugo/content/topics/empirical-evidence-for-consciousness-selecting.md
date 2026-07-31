@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-07-12 19:14:22+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-07-31 15:24:20+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -59,7 +59,7 @@ The [evolutionary argument](/topics/evolutionary-case-for-mental-causation/) sup
 
 ## The Comparative Cognition Line
 
-[Comparative cognition](/concepts/baseline-cognition/) sharpens the evolutionary argument by identifying *what* consciousness contributes. Great apes possess sophisticated neural machinery producing complex behaviour—tool use, social learning, procedural metacognition. Yet they cannot perform logical reasoning, counterfactual thinking, or cumulative culture. The cognitive gap between humans and great apes tracks precisely those capacities associated with conscious processing.
+[Comparative cognition](/concepts/baseline-cognition/) sharpens the evolutionary argument by identifying *what* consciousness contributes. Great apes possess sophisticated neural machinery producing complex behaviour—tool use, social learning, procedural metacognition, and limited but genuine inference: Sanford, Schleihauf, Engelmann et al. (2025) found chimpanzees revising beliefs in proportion to evidence strength, and Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture. The human difference is therefore graded rather than absolute: apes show real but bounded inferential, metacognitive, and social-learning capacities, whereas humans show uniquely open-ended, high-fidelity, institutionally scaffolded reasoning and cumulative culture ([contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)). The residual gap remains large, and still tracks precisely those capacities associated with conscious processing.
 
 The key finding: DeWall et al. (2008) reported that cognitive load impairing conscious processing impairs logical reasoning, while disrupting unconscious processing does not. This pattern is what consciousness-selecting would predict—conscious processing appearing to contribute causally to reasoning, rather than merely accompanying it.
 
@@ -117,7 +117,7 @@ No individual line of evidence proves consciousness-selecting. The evolutionary 
 
 ### Grading the evidence by what it actually supports
 
-A line of evidence should be credited only with the *weakest* claim it establishes, not the strongest claim it is compatible with—compatibility with dualism is not evidence for dualism. The categories, from weakest to strongest, are: **establishes-possibility** (the phenomenon is not ruled out) → **supports-substrate-relevance** (some physical structure is involved) → **supports-mental-causation** (consciousness does causal work) → **supports-quantum-involvement** (quantum effects are functionally implicated) → **supports-consciousness-specific-selection** (consciousness, specifically, selects outcomes) → **supports-dualism** (the selector is non-physical). Graded honestly, every current line lands in the first three; none reaches the last two. The right-hand column records how a physicalist, non-reductive physicalist, or illusionist reads the *same* result.
+A line of evidence should be credited only with the *weakest* claim it establishes, not the strongest claim it is compatible with—compatibility with dualism is not evidence for dualism. The categories, from weakest to strongest, are: **establishes-possibility** (the phenomenon is not ruled out) → **supports-substrate-relevance** (some physical structure is involved) → **supports-mental-causation** (consciousness does causal work) → **supports-quantum-involvement** (quantum effects are functionally implicated) → **supports-consciousness-specific-selection** (consciousness, specifically, selects outcomes) → **supports-dualism** (the selector is non-physical). Graded honestly, every current line lands in the first three; none reaches the last three. The right-hand column records how a physicalist, non-reductive physicalist, or illusionist reads the *same* result.
 
 | Evidence line | Weakest category supported | Physicalist / illusionist reading of the same result |
 |---|---|---|
@@ -196,6 +196,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
+1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. Li, N., You, Z., Ren, Y., et al. (2025). Microtubule-modulating drugs alter sensitivity to isoflurane in mice. *BMC Anesthesiology*, 25, article 02956. https://doi.org/10.1186/s12871-025-02956-9
 1. Ma, X., & Wang, A. (2026). Quantum theories of consciousness: a critical review of feasibility, philosophical sufficiency, and empirical testability. *Frontiers in Psychology*, 17, article 1730965. https://doi.org/10.3389/fpsyg.2026.1730965
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
@@ -206,6 +207,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
+1. Sanford, Schleihauf, Engelmann, et al. (2025). Chimpanzees rationally revise their beliefs. *Science*. https://doi.org/10.1126/science.adq5229
 1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.

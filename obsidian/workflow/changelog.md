@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T15:15:00+00:00'
+ai_modified: '2026-07-31T15:24:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 15:24 UTC - refine-draft
+- **Status**: Success (both fixes applied; no re-scoping)
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Source**: [[reviews/pessimistic-2026-07-31-empirical-evidence-for-consciousness-selecting]]
+- **Fix 1 (L59)** — retired the categorical absence claim (*"Yet they cannot perform logical reasoning, counterfactual thinking, or cumulative culture"*) and restated the gap as graded, inheriting the register `tenets.md` L94 established in `a73aac1e4` (2026-06-22): apes now credited with *"limited but genuine inference"* (Sanford, Schleihauf, Engelmann et al. 2025) and *"incipient cumulative culture"* (Gunasekaram et al. 2024), against *"uniquely open-ended, high-fidelity, institutionally scaffolded"* human capacity. The line was not deleted — the argumentative work survives intact, since a graded gap supports "consciousness amplifies" as well as a categorical one. Closing sentence preserves the original *"tracks precisely those capacities associated with conscious processing"* phrasing, now scoped to the residual gap. Brings L59 into line with its already-hedged neighbour L65 and with the article's own L117 weakest-claim rule.
+- **Fix 2 (L117)** — `none reaches the last two` → `none reaches the last three`. Six categories are listed; the table at L119–126 grades all six rows into categories 1–3 only, leaving 4 (`supports-quantum-involvement`), 5 and 6 unreached. The error ran in the direction of over-crediting the evidence. Grading apparatus otherwise untouched.
+- **Citations**: both reference entries copied verbatim from existing on-disk sources — Gunasekaram et al. (2024, *Science* 386(6724), 920-925) from `concepts/cumulative-culture.md` L235 / `concepts/theory-of-mind.md` L224; Sanford et al. (2025, *Science*, 10.1126/science.adq5229) from `tenets.md` L94 and the 2026-06-22 ChatGPT outer review's Verification Notes. No metadata re-derived, no WebSearch. Initials omitted for Sanford because none of the on-disk sources carry them — not fabricated to fill the slot.
+- **Integration**: added `[[concepts/cumulative-culture#contested-exclusivity|contested exclusivity]]`, pointing at the canonical node's 2026-07-29 treatment. Anchor verified to resolve (`/concepts/cumulative-culture/#contested-exclusivity`).
+- **Length**: 2988w authored prose + 785w apparatus (raw `analyze_length` 3771w / `soft_warning` is apparatus-inflated). Prose is 12w under the 3000w topics soft threshold, down from 67w of headroom; the two reference lines landed in the apparatus. Two economy trims inside the new prose bought back ~6w.
+- **Preserved as instructed**: grading table, the four *"What the X line does not establish"* clauses, and the L139/L141 self-limiting concessions — Fix 1 was a failure to *apply* that discipline, not a fault in it.
+- **Not swept (deliberate, per task scope)**: four sibling loci carry the same retired claim — `concepts/bidirectional-interaction.md` L113, `apex/machine-question.md` L161, `concepts/conscious-vs-unconscious-processing.md` L157, `concepts/cumulative-culture.md` L186. Task `File` line left unchanged so `cycle_post` closes cleanly; driver to carry the rest forward.
+- **Attribution**: `ai_system` `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5` (`+`-joined string) — new claim-bearing prose composed. `ai_modified` 2026-07-31T15:24:20+00:00, verified strictly in the past. `last_deep_review` untouched.
+- **Published**: yes (synced; both fixes verified live in `hugo/content/topics/empirical-evidence-for-consciousness-selecting.md` L62 and L120)
 
 ## 2026-07-31 15:15 UTC - pessimistic-review
 - **Status**: Success
