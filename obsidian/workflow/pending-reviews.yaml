@@ -401,3 +401,32 @@
   subject_articles:
   - topics/penrose-gravity-induced-collapse-empirical-prospects.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/e67ce170-bd82-47c0-99cd-8c0634ae50c5
+  commissioned_at: '2026-07-31T03:12:44.128686+00:00'
+  prompt_summary: Hostile-referee audit of Penrose gravity-induced collapse empirical
+    prospects
+  target_filename: outer-review-2026-07-31-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a hostile-referee audit of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
+    . The site changes daily and search indexes lag 24-48 hours, so read the live
+    page and the changelog at https://unfinishablemap.org/workflow/changelog/ rather
+    than cached snapshots. Verify every empirical and citation claim against the primary
+    literature: the 2021 Donadi et al. result against the parameter-free Diosi-Penrose
+    (DP) model, current DP and CSL parameter bounds, LISA Pathfinder and underground
+    germanium constraints, and the status of Orch-OR. Are the article''s experimental
+    prospects overstated or understated? Does gravitational objective reduction survive
+    as a collapse mechanism? Cross-check the site''s positions register at https://unfinishablemap.org/positions/quantum-interface/,
+    where P-Q6 records the parameter-free DP model as empirically falsified and P-Q5
+    demotes Orch-OR: state plainly if either verdict is miscalibrated, in either direction.
+    Do not steer toward agreement. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit penrose-gravity-induced-collapse-empirical-prospects
+  subject_articles:
+  - topics/penrose-gravity-induced-collapse-empirical-prospects.md
+  subject_source: reuse:pending-reviews:outer-review-2026-07-31-chatgpt-5-6-pro.md
