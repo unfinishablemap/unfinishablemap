@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T10:55:01+00:00'
+ai_modified: '2026-07-31T11:11:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 11:11 UTC - research-topic
+- **Status**: Success
+- **Topic**: Horizon decoherence as a unitary rival to objective collapse (Danielson–Satishchandran–Wald)
+- **Output**: [[research/horizon-decoherence-2026-07-31]]
+- **Sources consulted**: 15 (all primary — arXiv abstracts and full texts)
+- **Method**: session WebSearch budget was exhausted at task start, so all evidence came from direct arXiv API / abstract / full-text fetches. Full texts of both DSW papers were downloaded and searched locally, with LaTeX math recovered from `alttext` so the numerical estimates could be read. Every quotation was grep-verified verbatim against the raw source, twice.
+- **Core finding — the reviewer's claim does not hold, for two independent reasons.** Gemini asserted DSW "dissolves the prebiotic-collapse argument outright". (1) **Conceptual**: DSW is decoherence in the strict sense. The 2023 paper frames its own question as whether the recombined state is "pure—or ... mixed"; "measurement problem" occurs **zero** times in either paper; "definite" occurs once and refers to the spin measurement used to *detect* decoherence, not to outcome selection. Mixedness comes from tracing over degrees of freedom behind a horizon — an improper mixture, global state still pure and unitary. (2) **Quantitative**: DSW's own de Sitter estimate says the cosmological-horizon decoherence time "will be much larger than the Hubble time" for any ordinary charge. Verified numbers: ~10⁴³ yr for an electron 1 a.u. from a solar-mass black hole (~5 min at b=6GM/c²), ~10³³ yr for a 1 g Rindler lab. The mechanism is far too weak to have classicalised the early universe.
+- **Third finding**: DSW's own 2024 *PRD* follow-up establishes there is **no** such decoherence outside a static star. The effect tracks horizons, not gravity or mass — which removes the route by which it might act as a general cosmological classicaliser.
+- **Contestation registered**: Fahn & Pesci (*PRD* 112, L121502 and 112, 124036, 2025) argue quantum geometry suppresses the effect to negligible values; Biggs & Trezzi (arXiv:2605.23880, 2026) argue near-extremal black holes make the rate vanish. Both verified to cite DSW directly. "Untested" is the correct label.
+- **Two commission premises corrected.** (a) The corpus *does* already engage DSW accurately — `topics/penrose-gravity-induced-collapse-empirical-prospects` registers it in full in its "No-Collapse Alternative" section, and its wording ("The effect is untested, and yields a mixed density matrix") is exactly what this research supports. (b) The claim that `concepts/prebiotic-collapse` greps zero for `decoher` is **false**: 14 body matches, including a "Decoherence Naturalization" section that already states and answers the no-collapse rival. `unitary`/`no-collapse`/`rival` do return zero — the vocabulary differs, the position does not. Classic narrow-grep failure: the probe searched for the words a *new* article would use, not the words the existing article uses.
+- **Recommendation to the downstream chain**: do **not** mint an expand-topic article. Sections are at 319/320 and 318/320, the material is paragraph-scale, and a standalone article would create pressure to overstate a mechanism weaker than the Hubble time. Preferred: two targeted additions to existing articles, detailed in the note's "Potential Article Angles".
+- **No existing article modified** (research pass only).
 
 ## 2026-07-31 10:55 UTC - refine-draft
 - **Status**: Success
