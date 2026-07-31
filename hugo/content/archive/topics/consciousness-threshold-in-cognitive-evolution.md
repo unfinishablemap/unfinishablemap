@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-22 23:34:00+00:00
+ai_modified: 2026-07-31 10:24:08+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness and Intelligence
 archived: true
@@ -92,7 +92,7 @@ The Unfinishable Map favours a more discontinuous interpretation. On this view, 
 
 The analogy is not gradual amplification but something closer to a phase transition. Water does not become incrementally more ice-like as it cools; it remains liquid until a critical point, then reorganises. Similarly, the cognitive discontinuity between apes and humans may reflect not a quantitative increase in consciousness but a qualitative change in how consciousness couples with neural architecture.
 
-This model predicts exactly what we observe: sophisticated but bounded cognition below the threshold, and a cluster of new capabilities—logical reasoning, cumulative culture, counterfactual thinking, declarative metacognition—appearing together rather than incrementally. The [infant consciousness void](/voids/infant-consciousness/) reveals a within-species echo of this pattern: the infant-to-adult transition involves a qualitative transformation in how consciousness couples with neural architecture—from Gopnik's broad "lantern" awareness to focused "spotlight" cognition—accompanied by physical demolition of the prior substrate through synaptic pruning.
+This model predicts sophisticated but bounded cognition below the threshold, and a cluster of new capabilities—logical reasoning, cumulative culture, counterfactual thinking, declarative metacognition—appearing together rather than incrementally. The [infant consciousness void](/voids/infant-consciousness/) reveals a within-species echo of this pattern: the infant-to-adult transition involves a qualitative transformation in how consciousness couples with neural architecture—from Gopnik's broad "lantern" awareness to focused "spotlight" cognition—accompanied by physical demolition of the prior substrate through synaptic pruning.
 
 ### The Language Alternative
 

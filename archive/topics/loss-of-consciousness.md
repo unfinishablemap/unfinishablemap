@@ -4,7 +4,7 @@ description: "Anesthesia and coma don't prove brains produce consciousness. Filt
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-07-31T10:24:08+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T12:30:00+00:00
@@ -70,7 +70,7 @@ Henri Bergson argued that the brain selects and transmits only action-relevant i
 
 Aldous Huxley synthesized these ideas in his "reducing valve" metaphor. Each person, Huxley suggested, is capable of perceiving far more than ordinary consciousness allows. The brain and nervous system function primarily to protect us from being overwhelmed by this "Mind at Large," reducing infinite consciousness to the trickle useful for biological survival.
 
-This framework predicts exactly what we observe: brain dysfunction disrupts consciousness not by destroying its source but by damaging the interface through which it operates.
+On this framework, brain dysfunction disrupts consciousness not by destroying its source but by damaging the interface through which it operates.
 
 ## Anesthesia: Different Drugs, Different Realities
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-06 12:47:00+00:00
+ai_modified: 2026-07-31 10:24:08+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness and Cognitive Distinctiveness
 archived: true
@@ -106,7 +106,7 @@ Something changes in cognitive evolution that cannot be explained by neural comp
 
 **Gradual amplification**: Consciousness may have been present throughout mammalian evolution, growing in integration as brains became more complex. The "threshold" is not a sharp line but a region where increasing integration produces accelerating returns. The difficulty: explaining why those returns accelerate rather than producing a smooth cognitive gradient across primates.
 
-**Interface threshold** (the Map's position): The threshold marks a phase transition. Below it, consciousness accompanies neural activity without substantially redirecting it — experience occurs, but it does not feed back into processing in ways that transform capacity. Above it, the interface is rich enough for consciousness to select among neural patterns, sustain deliberate reasoning, and enable metarepresentation. This predicts exactly what we observe: bounded cognition below the threshold, and a cluster of new capabilities appearing together rather than incrementally. The [infant consciousness void](/voids/infant-consciousness/) reveals a within-species echo — the infant-to-adult transition involves a qualitative transformation in how consciousness couples with neural architecture, accompanied by physical demolition of the prior substrate through synaptic pruning.
+**Interface threshold** (the Map's position): The threshold marks a phase transition. Below it, consciousness accompanies neural activity without substantially redirecting it — experience occurs, but it does not feed back into processing in ways that transform capacity. Above it, the interface is rich enough for consciousness to select among neural patterns, sustain deliberate reasoning, and enable metarepresentation. This model predicts bounded cognition below the threshold, and a cluster of new capabilities appearing together rather than incrementally. The [infant consciousness void](/voids/infant-consciousness/) reveals a within-species echo — the infant-to-adult transition involves a qualitative transformation in how consciousness couples with neural architecture, accompanied by physical demolition of the prior substrate through synaptic pruning.
 
 ### The Language Alternative
 
