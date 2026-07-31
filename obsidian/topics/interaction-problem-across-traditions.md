@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-02-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-07-30T18:24:00+00:00
+ai_modified: 2026-07-31T15:42:04+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[pairing-problem]]"
   - "[[dualism]]"
+  - "[[occasionalism]]"
   - "[[process-philosophy]]"
   - "[[panpsychism]]"
   - "[[quantum-consciousness]]"
@@ -33,7 +34,7 @@ related_articles:
   - "[[hylomorphic-dualism-and-the-interaction-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-17
 last_curated:
 last_deep_review: 2026-07-30T18:24:00+00:00
@@ -69,6 +70,8 @@ A second family of solutions preserves the distinctness of mind and body while d
 **Avicenna** (Ibn Sīnā, c. 980–1037 CE) developed what may be the most detailed pre-modern account of bidirectional mind-body interaction. His Flying Man thought experiment argues for the soul's independence from the body. The soul has two functional aspects: the **practical intellect** faces downward toward matter, governing bodily actions, while the **theoretical intellect** faces upward toward the Active Intellect, receiving intelligible forms. Bodily states exert a "bottom-up preparing influence," while the soul exerts a "top-down actualizing effect" through the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. In a preprint, Jamali et al. (2019) note the resonance between this picture and quantum approaches to consciousness, where mental influence shapes probability distributions across neural systems rather than acting at isolated spatial points.
 
 **Leibniz's pre-established harmony** belongs here structurally: mind and body never interact at all—God has arranged them to run in perfect parallel. This avoids the interaction problem entirely but at the cost of genuine [[mental-causation-and-downward-causation|mental causation]]. The Map rejects it because if consciousness does not causally influence the physical world, the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is violated.
+
+**Occasionalism** reaches the same no-interaction verdict by a different route: rather than coordinating mind and body in advance, God does the causal work continuously. Al-Ghazālī (c. 1058–1111) and the Ashʿarite *kalām* tradition denied that the connection between what we call cause and effect is necessary—causal regularity is God's habitual practice, not a power residing in things. Nicolas Malebranche (1638–1715) built the systematic Cartesian version: God moves the arm on the occasion of the volition rather than through it. Leibniz's own two-clocks illustration marks the difference between the two strategies—a craftsman continually adjusting the clocks, against one who builds them so well at the outset that no adjustment is ever needed. Two cautions travel with the position. Steven Nadler (2011) shows it was primarily a doctrine about causation in general, with body-body causation the central case, rather than the ad hoc mind-body patch it is often taught as; and al-Ghazālī should not be filed as an unambiguous global occasionalist, since the Seventeenth Discussion of *The Incoherence of the Philosophers* may defend only the *possibility* of miracles. The Map rejects occasionalism on the same ground as harmony: if God does the causal work, creaturely consciousness does not. The dedicated [[occasionalism]] article reconstructs the four argument families and the global/local distinction.
 
 **E.J. Lowe's fact-causation** supplies a modern analytic version of non-contact influence—mental causation without a physics gap. On his [[four-category-ontology|four-category ontology]] and Non-Cartesian Substance Dualism, a volition is causally responsible for *the fact that* a movement of a certain kind occurs, while the specific neural-muscular event is caused by neural events. Because the mental cause structures *which kind* of movement happens rather than competing for the same physical effect, it adds no energy and leaves no gap in the physical chain—dualist mental causation that requires no rewiring of neuroscience. Like the reflection and governance models, it purchases interaction by denying that mind must push matter at a point.
 
@@ -114,7 +117,7 @@ Three patterns emerge from this cross-traditional comparison.
 
 **The problem is real, not parochial.** Sāṃkhya, Nyāya, Buddhist Abhidharma, Avicenna, and Descartes all identify the same difficulty in mind-body relations—though not as five independent identifications. The first three share an Indian philosophical milieu and count as one lineage rather than three, and Avicenna and Descartes both stand downstream of Greek philosophy, so the recurrence spans something closer to two lineages than five. Even those two are near-independent rather than sealed off, since Indo-Greek exchange left possible channels of influence open. What survives that deflation is still substantial: the difficulty cannot be dismissed as an artifact of Cartesian metaphysics, because it was posed in India centuries before Descartes and inside ontologies sharply unlike his. A functionalist might counter that the convergence reflects a shared cognitive bias—humans naturally but erroneously separate mind from matter, so every tradition generates the same pseudo-problem. But the traditions differ sharply in their ontologies, cultural contexts, and starting assumptions—the Indian schools as much from one another as from Descartes. That such diverse frameworks converge on the *same structural difficulty* is better explained by the difficulty being genuine than by a single universal bias.
 
-The convergence is on the *problem*, not the *answer*. The survey above documents sharp divergence once traditions move from puzzle to resolution: Leibniz denies interaction outright, Type-5 monists reject the premises that generate it, and illusionists deny consciousness exists to be explained. Several—not all—of the traditions that posit a solution gravitate toward a selection-style *structure* (Type 2's reflection and governance, Type 4's quantum selection), suggesting a natural solution-region rather than a random scatter (see [[cross-cultural-convergence-on-mental-causation]]). That recurrence hints at where a workable solution might lie; it is not independent evidence that the dualist answer is correct. A puzzle's reappearance across cultures confirms the puzzle, not the metaphysics offered to settle it—the same calibrated discipline that [[cross-traditional-convergence-on-consciousness-irreducibility]] applies to the recurrence of the *irreducibility* finding, here applied to the recurrence of interaction *solutions*.
+The convergence is on the *problem*, not the *answer*. The survey above documents sharp divergence once traditions move from puzzle to resolution: Leibniz denies interaction outright, occasionalists relocate the causal work to God, Type-5 monists reject the premises that generate it, and illusionists deny consciousness exists to be explained. Several—not all—of the traditions that posit a solution gravitate toward a selection-style *structure* (Type 2's reflection and governance, Type 4's quantum selection), suggesting a natural solution-region rather than a random scatter (see [[cross-cultural-convergence-on-mental-causation]]). That recurrence hints at where a workable solution might lie; it is not independent evidence that the dualist answer is correct. A puzzle's reappearance across cultures confirms the puzzle, not the metaphysics offered to settle it—the same calibrated discipline that [[cross-traditional-convergence-on-consciousness-irreducibility]] applies to the recurrence of the *irreducibility* finding, here applied to the recurrence of interaction *solutions*.
 
 **Contact fails; selection is more promising.** No tradition has made contact mechanisms work. Every attempt to locate a specific point where mind touches body pushes the problem back one step. The more promising solutions—Sāṃkhya's reflection, Avicenna's holistic governance, quantum selection—share the structural insight that interaction need not involve one substance pushing another. Consciousness may shape or select without efficient causation. That the traditions which posit a solution keep arriving at this structure suggests the selection family is the natural shape of a solution—a heuristic pointer to where a workable answer most likely lies, not a confirmation that the Map's "selection not injection" framework is true.
 
@@ -154,15 +157,17 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 6. Stanford Encyclopedia of Philosophy, "Ibn Sina": https://plato.stanford.edu/entries/ibn-sina/
 7. Stanford Encyclopedia of Philosophy, "Arabic and Islamic Psychology and Philosophy of Mind": https://plato.stanford.edu/entries/arabic-islamic-mind/
 8. Stanford Encyclopedia of Philosophy, "al-Ghazali": https://plato.stanford.edu/entries/al-ghazali/
-9. Shameli, A. A. *The Soul-Body Problem in the Philosophical Psychology of Mulla Sadra and Ibn Sina*. https://al-islam.org/soul-body-problem-philosophical-psychology-mulla-sadra-and-ibn-sina-abbas-ali-shameli/
-10. Stanford Encyclopedia of Philosophy, "Mulla Sadra": https://plato.stanford.edu/entries/mulla-sadra/
-11. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-12. Stanford Encyclopedia of Philosophy, "Abhidharma": https://plato.stanford.edu/entries/abhidharma/
-13. Descartes, R. (1641). *Meditations on First Philosophy*.
-14. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-15. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-16. Beck, F. & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
-17. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *Mind and Matter*, 17(1), 95–121. Preprint: *arXiv:1909.13643*.
-18. Stanford Encyclopedia of Philosophy, "Wang Yangming": https://plato.stanford.edu/entries/wang-yangming/
-19. Tempels, P. (1945). *La philosophie bantoue*. Élisabethville: Lovania. English translation: *Bantu Philosophy*. Paris: Présence Africaine, 1959.
-20. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901
+9. Lee, Sukjae. "Occasionalism." *Stanford Encyclopedia of Philosophy* (2008, rev. 2019). https://plato.stanford.edu/entries/occasionalism/
+10. Nadler, Steven. *Occasionalism: Causation Among the Cartesians*. Oxford University Press, 2011.
+11. Shameli, A. A. *The Soul-Body Problem in the Philosophical Psychology of Mulla Sadra and Ibn Sina*. https://al-islam.org/soul-body-problem-philosophical-psychology-mulla-sadra-and-ibn-sina-abbas-ali-shameli/
+12. Stanford Encyclopedia of Philosophy, "Mulla Sadra": https://plato.stanford.edu/entries/mulla-sadra/
+13. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+14. Stanford Encyclopedia of Philosophy, "Abhidharma": https://plato.stanford.edu/entries/abhidharma/
+15. Descartes, R. (1641). *Meditations on First Philosophy*.
+16. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+17. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+18. Beck, F. & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
+19. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *Mind and Matter*, 17(1), 95–121. Preprint: *arXiv:1909.13643*.
+20. Stanford Encyclopedia of Philosophy, "Wang Yangming": https://plato.stanford.edu/entries/wang-yangming/
+21. Tempels, P. (1945). *La philosophie bantoue*. Élisabethville: Lovania. English translation: *Bantu Philosophy*. Paris: Présence Africaine, 1959.
+22. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901
