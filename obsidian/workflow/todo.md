@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Horizon decoherence as a unitary rival to objective collapse
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-07-31.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-07-31 records the Danielson-Satishchandran-Wald horizon-decoherence result as Gemini 2.5 Pro's strongest contribution and as an untested unitary rival the corpus never engages: black holes (and causal horizons generally) decohere quantum superpositions without any collapse postulate. DSW 2022 is cited as reference 27 of penrose-gravity-induced-collapse-empirical-prospects but the mechanism has no treatment anywhere - probes for horizon decoherence, causal horizon, soft photon, de Sitter and black hole decoher all return zero files across obsidian, archive and research. The stakes are direct: concepts/prebiotic-collapse.md, which carries the Map's answer to what collapsed wavefunctions before observers existed, contains no mention of decoherence, unitary or no-collapse at all, so the leading physical rival to its central argument is unaddressed. Gemini claims DSW dissolves the prebiotic-collapse argument outright; the synthesis counts that as a singleton and flags Gemini as the least reliable reviewer of the three (five non-verbatim Map-attributed spans), so the research pass should establish what DSW does and does not show on its own terms rather than adopting the reviewer's framing. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/horizon-decoherence-2026-07-31.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'horizon-decoherence' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-07-31
+
 ### P2: "Against Functionalism" calls the bare regress devastating where four siblings say it proves nothing, and states illusionism only at its retired hard end
 - **Type**: refine-draft
 - **File**: obsidian/arguments/functionalism-argument.md
