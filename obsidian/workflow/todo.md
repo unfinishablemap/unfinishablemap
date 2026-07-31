@@ -1972,7 +1972,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: driver, from the brain-interface-boundary deep-review 2026-07-31
 - **Generated**: 2026-07-31
 
-### P3: the two-tier discount's canonical home does not name P-F1, the position that registers it
+### P2: the two-tier discount's canonical home does not name P-F1, the position that registers it
 - **Type**: refine-draft
 - **File**: obsidian/project/architecture-vs-significance-two-tier-discount.md
 - **Status**: pending
