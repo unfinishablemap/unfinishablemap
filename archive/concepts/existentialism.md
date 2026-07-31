@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-07-31T03:04:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -193,6 +193,6 @@ The existentialist-dualist alignment would face difficulty if:
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. Kierkegaard, S. (1843). *Either/Or*.
 1. Camus, A. (1942). *The Myth of Sisyphus*.
-1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
+1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-07-30 15:08:07+00:00
+ai_modified: 2026-07-31 03:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Nihilism diagnoses the absence of cosmic purpose; existentialism re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 22:55:00+00:00
+last_deep_review: 2026-07-31 03:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,15 +58,17 @@ Nihilism holds that life lacks objective meaning, purpose, or intrinsic value. I
 
 **Moral nihilism** (or "error theory") denies objective moral truths. J.L. Mackie argued that objective moral values would be metaphysically "queer"—unlike anything else in nature. If moral nihilism is true, concepts like [moral-responsibility](/concepts/moral-responsibility/) lose their grounding.
 
-These forms admit different responses. **Pessimistic nihilism** (Schopenhauer) concludes that meaninglessness makes life not worth living. **Optimistic nihilism** treats cosmic indifference as freedom: if nothing matters inherently, nothing *prevents* us from mattering to ourselves. This optimistic response approaches existentialism, though it crucially requires [free-will](/topics/free-will/)—if choices are determined, the freedom it celebrates would itself be fiction.
+These forms admit different responses. **Pessimistic nihilism** concludes that existence is not worth affirming. Schopenhauer is the name usually attached here, but the label fits him only loosely: his pessimism rests on the will's endless, aimless striving rather than on any absence of cosmic purpose, and he is no nihilist about value—compassion grounds his ethics, while aesthetic contemplation and ascetic denial of the will are offered as genuine routes out of suffering. **Optimistic nihilism** treats cosmic indifference as freedom: if nothing matters inherently, nothing *prevents* us from mattering to ourselves. This optimistic response approaches existentialism, though it crucially requires [free-will](/topics/free-will/)—if choices are determined, the freedom it celebrates would itself be fiction.
 
-Nietzsche diagnosed nihilism as a cultural crisis rather than advocating it. "God is dead" meant European values had lost their foundation. His project was to move *through* nihilism to the creation of new values. The Übermensch represents this overcoming: creating values without resentment, affirming existence including its suffering.
+Nietzsche diagnosed nihilism as a cultural crisis rather than advocating it. "God is dead"—announced by the madman of *The Gay Science* (1882) §125—meant European values had lost their foundation. *On the Genealogy of Morals* (1887) supplies the mechanism: the ascetic ideal had given suffering a meaning, and its collapse leaves the meaning-hunger it fed with nothing to feed on. His project was to move *through* nihilism to the creation of new values. The Übermensch of *Thus Spoke Zarathustra* represents this overcoming: creating values without resentment, affirming existence including its suffering.
 
 ## Existentialism: The Response
 
-Existentialism responds to nihilism by centring on individual existence, freedom, and the challenge of creating meaning. The core insight: existence precedes essence. Human beings exist first and define themselves through choices—no pre-given nature, no cosmic script. We are, as Sartre put it, "condemned to be free."
+Existentialism responds to nihilism by centring on individual existence, freedom, and the challenge of creating meaning. The core insight, given its slogan in Sartre's *Existentialism Is a Humanism* (1946), is that existence precedes essence. Human beings exist first and define themselves through choices—no pre-given nature, no cosmic script. We are, as Sartre put it, "condemned to be free." Kierkegaard had set the terms a century earlier: *Either/Or* (1843) stages the choice between an aesthetic and an ethical life not as a comparison of options but as the act through which a self comes to be at all.
 
-**Radical freedom** generates anxiety (*angoisse*), not comfort. Every moment presents a choice; refusing to choose is itself a choice. **Authenticity** means owning this freedom rather than fleeing into convention—what Heidegger called "das Man" (the They). **Absurdity**, as Camus emphasised, names the confrontation between human desire for meaning and the universe's silence. The response is revolt: continuing to create meaning despite that silence.
+**Radical freedom** generates anxiety (*angoisse*), not comfort. Every moment presents a choice; refusing to choose is itself a choice. **Authenticity** means owning this freedom rather than fleeing into convention. Heidegger's *Eigentlichkeit* is a near neighbour that should not be collapsed into it: what Dasein takes ownership of is its thrownness and its finitude, reclaimed from the anonymous "das Man" (the They), rather than a radical freedom of the Sartrean kind. **Absurdity**, as Camus emphasised, names the confrontation between human desire for meaning and the universe's unreasonable silence.
+
+Camus belongs here with a caveat, since he rejected the existentialist label and his answer diverges from the one this section describes. Revolt, for him, means holding the confrontation open in full consciousness—refusing suicide, and refusing equally the leap to transcendence he called philosophical suicide, a charge he levelled at Kierkegaard and Jaspers by name. Sisyphus is imagined happy while still pushing the rock, not because meaning has been supplied to fill the silence but because the strain is faced without appeal. Camus is therefore a limit case for the section's thesis rather than an instance of it.
 
 Existentialism differs from nihilism precisely here: meaning must be *created* rather than discovered, but creation is genuinely possible. De Beauvoir argued in *The Ethics of Ambiguity* that authentic freedom requires recognising others' freedom—meaning-creation is inherently social.
 
@@ -74,13 +76,13 @@ Existentialism differs from nihilism precisely here: meaning must be *created* r
 
 Sartre's central distinction in *Being and Nothingness* (1943) separates two modes of being. The en-soi (being-in-itself) is the mode of things: solid, self-identical, complete. The pour-soi (being-for-itself) is the mode of consciousness: always aware of itself, always beyond any characterisation, never reducible to its contents.
 
-The pour-soi cannot coincide with itself. When I am aware of my fear, the awareness *is* the fear experienced from within, yet simultaneously distanced from it. This structure generates what Sartre calls "nothingness" at the heart of consciousness—a constitutive gap through which consciousness introduces negation into being: it is what it is not (its objects, its past, its possibilities) and is not what it is (any fixed characterisation).
+The pour-soi cannot coincide with itself. When I am aware of my fear, the awareness *is* the fear experienced from within, yet simultaneously distanced from it. This structure generates what Sartre calls "nothingness" at the heart of consciousness—a constitutive gap through which consciousness introduces negation into being: it is what it is not (its objects, its past, its possibilities) and is not what it is (any fixed characterisation). Zahavi (2005) carries the point into contemporary debate: self-awareness is *pre-reflective*, built into the structure of experience rather than supplied by a higher-order state that monitors it from outside. That is what stops the regress an added-monitor account invites.
 
 ### The Regress Against Illusionism
 
 [illusionism](/concepts/illusionism/) claims phenomenal consciousness is an introspective illusion—functional states misrepresenting themselves as having qualitative character. The pour-soi structure reveals why this is self-undermining.
 
-The illusionist must answer: to whom does the illusion appear? Frankish (2016) responds that "seeming" can be deflated into purely functional terms—a cognitive error, not a phenomenal illusion requiring a phenomenal experiencer. But Sartre's analysis shows why deflation fails. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. Something must still *undergo* the functional state, and this undergoing is exactly the first-person character that deflation was meant to dissolve.
+The illusionist must answer: to whom does the illusion appear? Frankish (2016), who names Dennett's *Consciousness Explained* (1991) and its user-illusion analogy as the position's pre-eminent statement, responds that "seeming" can be deflated into purely functional terms—a cognitive error, not a phenomenal illusion requiring a phenomenal experiencer. He accepts the constraint this imposes: it is essential to the approach that the introspective representations it posits are not themselves phenomenally conscious, since explaining illusory phenomenal properties by appeal to real ones would be self-defeating. That is illusionism's own standard, and Sartre's analysis shows why deflation cannot meet it. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. Something must still *undergo* the functional state, and this undergoing is exactly the first-person character that deflation was meant to dissolve.
 
 As Tallis argues, illusions presuppose experience. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The illusionist's move treats consciousness as a thing with properties that might be illusory, but consciousness is the perspective from which properties appear. [Witness consciousness](/concepts/witness-consciousness/)—observing thoughts without identification—provides independent support: sustained practice *refines* rather than dissolves phenomenal access.
 
@@ -88,7 +90,7 @@ As Tallis argues, illusions presuppose experience. The pour-soi cannot be object
 
 Heidegger's *Being and Time* (1927) approaches consciousness indirectly through Dasein—the kind of being whose existence is an issue for it. This "mattering" is not an added feature but Dasein's mode of being itself.
 
-Three structures of Dasein resist reduction. **Being-in-the-world**: Dasein is always already embedded in meaningful relations. The subject-object split materialism assumes is derivative—we encounter things as ready-to-hand (equipment for purposes) before treating them as present-at-hand (objects with properties). **Projection**: Dasein exists ahead of itself, oriented toward possibilities not yet actual—a temporal structure no present-state description captures. **Mood (Stimmung)**: experience is always attuned, disclosed through anxiety, wonder, or boredom. Mood is not inside the head but how the world shows up. The [phenomenology of place](/topics/consciousness-and-the-phenomenology-of-place/) develops this: a cathedral's solemnity is mood spatially instantiated.
+Three structures of Dasein resist reduction. **Being-in-the-world**: Dasein is always already embedded in meaningful relations. The subject-object split materialism assumes is derivative—we encounter things as ready-to-hand (equipment for purposes) before treating them as present-at-hand (objects with properties). Merleau-Ponty's *Phenomenology of Perception* (1945) gives this an explicitly bodily form: the world is disclosed through a body that already knows how to inhabit it, prior to any mind representing an exterior. **Projection**: Dasein exists ahead of itself, oriented toward possibilities not yet actual—a temporal structure no present-state description captures. **Mood (Stimmung)**: experience is always attuned, disclosed through anxiety, wonder, or boredom. Mood is not inside the head but how the world shows up. The [phenomenology of place](/topics/consciousness-and-the-phenomenology-of-place/) develops this: a cathedral's solemnity is mood spatially instantiated.
 
 These structures resist reduction because any scientific investigation of consciousness presupposes the scientist's own being-in-the-world. The objectifying stance is derived, not ground-level. And Dasein's reflexivity—inquiring into its own mode of existence—presupposes what materialism cannot explain: that there is something it is like to be this inquirer.
 
@@ -185,5 +187,5 @@ The existentialist-dualist synthesis would face difficulty if:
 1. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
 1. Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
 1. Schopenhauer, A. (1818). *The World as Will and Representation*.
-1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
+1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

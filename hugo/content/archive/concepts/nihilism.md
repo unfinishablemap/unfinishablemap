@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-07-31 03:04:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Nihilism and Existentialism
 archived: true
@@ -77,7 +77,7 @@ Not all nihilists are pessimists. The recognition that life lacks cosmic meaning
 
 ### Pessimistic Nihilism
 
-Pessimistic nihilism concludes that the absence of objective meaning makes life not worth living. If nothing we do ultimately matters, why bother? This is the nihilism of Schopenhauer, for whom existence is suffering and the will to live a kind of cosmic mistake.
+Pessimistic nihilism concludes that the absence of objective meaning makes life not worth living. If nothing we do ultimately matters, why bother? Schopenhauer is the name usually attached to this position, though it fits him only loosely: his pessimism rests on the will's endless, aimless striving rather than on any absence of cosmic purpose, and he is no nihilist about value—compassion grounds his ethics, while aesthetic contemplation and ascetic denial of the will are offered as genuine routes out of suffering.
 
 The pessimist might not recommend suicide—Schopenhauer himself lived comfortably into old age—but regards existence as fundamentally regrettable. Better never to have been born.
 
