@@ -1,10 +1,10 @@
 ---
-title: "Competency Without Felt Experience"
+title: "Competency Without Felt Experience: A Framework-Relative Verdict"
 description: "Across the tree of life—single cells to engineered cortex—cognitive-grade competency is realised without, on the Map's framework, felt experience. The cumulative case that the interface is tied to neural machinery, not functional sophistication."
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-16T14:04:05+00:00
+ai_modified: 2026-07-31T13:34:50+00:00
 draft: false
 topics: []
 concepts: []
@@ -35,7 +35,7 @@ apex_last_synthesis: 2026-07-16T14:04:05+00:00
 apex_thesis: "Genuine cognitive-grade competency is realised across the whole tree of life without, on the Map's framework, felt experience—and the same decoupling that blocks reading experience into a bacterium also blocks reading it out of a fish, because no third-person fact, of richness or of architecture, settles the phenomenal question."
 ---
 
-# Competency Without Felt Experience
+# Competency Without Felt Experience: A Framework-Relative Verdict
 
 A single *Escherichia coli* cell senses its surroundings, holds a few seconds of memory, decides whether things are improving, and swims accordingly—with no neurons. A sponge coordinates a whole-body contraction with no neurons and no synapses. A Venus flytrap counts. The immune system learns, remembers, and tells self from non-self across a lifetime. Half a billion neurons in the gut wall run digestion when the brain is disconnected. Frog cells freed from their embryo self-assemble into novel organisms that navigate and self-replicate. And at the far edge, a dish of cultured human cortical neurons—real synapses, real oscillations—learns to play Pong. Every one of these systems performs work that earns, without strain, the full vocabulary of cognition: sensing, memory, valence, adaptive decision, goal-pursuit, even a functional "self."
 

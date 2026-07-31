@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-07-22 15:16:29+00:00
+ai_modified: 2026-07-31 13:34:50+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -768,7 +768,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
-### 35. Competency Without Felt Experience
+### 35. Competency Without Felt Experience: A Framework-Relative Verdict
 
 **Slug**: `competency-without-felt-experience`
 

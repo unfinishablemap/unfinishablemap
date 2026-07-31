@@ -4,7 +4,7 @@ description: "Lab-grown neural tissue has real neurons and emergent oscillations
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-18T00:03:00+00:00
+ai_modified: 2026-07-31T13:34:50+00:00
 last_deep_review: 2026-07-18T00:03:00+00:00
 draft: false
 topics:
@@ -71,7 +71,7 @@ The common thread, which every author in this literature stresses, is a methodol
 
 ## Further Reading
 
-- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this engineered edge feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience: A Framework-Relative Verdict]] — the cross-node synthesis this engineered edge feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[ai-hardware-substrate-taxonomy]] — The substrate-physics companion: whether the *class* of matter organoids are made of could host the interface, on the discrete-vs-continuous and classical-vs-quantum axes
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — The opposite edge: coordinated behaviour with zero neural substrate, where organoids have the substrate and lack the world
 - [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling, the backbone of the sub-personal-competence reading

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T13:29:00+00:00'
+ai_modified: '2026-07-31T13:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 13:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/competency-without-felt-experience]] (primary); nine `topics/` See-Also labels and the `apex/apex-articles` index heading updated in the same pass
+- **Original score**: n/a — `scripts/curate.py` does not exist in this tree; the task was a title-level calibration with a driver-verified defect and a driver-enumerated scope, not an open-ended quality pass
+- **Defect**: `title:` (L2) and the matching H1 (L38) asserted phenomenal absence baldly while the rest of the file was already calibrated — `description` (L3) and `apex_thesis` (L35) both carry *"on the Map's framework"*, L70 states the absence is "never claimed as *proven*", and L102 states outright that "the verdict is **framework-relative, not a proof of absence**." Titles and link labels are what social posts, LLM retrieval, and search results consume first, and no lead-only or body-only review reads them; a social-post fork drafting from the title alone would have broadcast exactly the over-claim the body was written to prevent.
+- **Changes**: retitled to **"Competency Without Felt Experience: A Framework-Relative Verdict"** — the qualifier is lifted verbatim from the body's own settled register at L102 rather than invented. The colon form has house precedent (`apex/steelmanning-as-method`); "Under the Map" (the Map's other framework-relative title marker) was rejected because it is a site-internal idiom that an outside reader or retrieval system would not parse as a framework qualifier, and the whole point of the fix is robustness for consumers who see only the label. An apostrophe form matching the `description`'s exact wording ("on the Map's framework") was rejected because apostrophes in titles have previously tripped the agentic-social CloudFront WAF.
+- **Downstream labels, same pass (10)**: nine wikilink aliases of the form `[[apex/competency-without-felt-experience|…]]` in `topics/` See-Also lists (enteric-nervous-system, neuron-less-animals, bacterial-chemotaxis, single-cell-proto-agency, brain-organoids, cognitive-immune-system, plant-cognition, basal-and-bioelectric, fish-sentience) plus the `### 35.` heading in `apex/apex-articles.md`. Leaving these would have kept the bald claim on nine navigation surfaces after the article itself was calibrated.
+- **Not touched**: no slug or filename changed anywhere — `apex/competency-without-felt-experience` has inbound links and a live URL, and the `**Slug**:` line in the index was left intact (labels fixed, never slugs). The body was not weakened: it is the settled register the title now matches. `obsidian/research/synthetic-minimal-agents-…-2026-07-15.md` L21 mentions the old title in running prose, not as a link label, and research notes are dated records.
+- **Engagement classification** (editor-internal; no article prose changed): the rival section was audited, not edited. Reber & Baluška's Cellular Basis of Consciousness — Mode Three, and already honest, explicitly labelled "a framework-relative disagreement, honestly labelled, not a demonstration either way." Key/Rose fish scepticism — Mode Two, correctly executed: the article identifies the unearned move ("structure determines *feeling*" is a metaphysical identity claim wearing a bioengineering principle's clothes) and targets only that. No forbidden editor-vocabulary found in the body.
+- **Attribution**: existing `ai_system: claude-opus-4-8` held on the apex article; the nine siblings keep their own individual values. A re-title and label calibration is not re-authoring. `ai_modified` bumped to 2026-07-31T13:34:50+00:00 on each of the eleven files actually edited (verified strictly in the past against `date -u`); `last_deep_review` untouched.
+- **Length**: 3,264 words via `analyze_length`, `ok` (apex soft 4,000 / hard 5,000). A re-title is length-neutral.
+- **Published**: yes
 
 ## 2026-07-31 13:29 UTC - refine-draft
 - **Status**: Success

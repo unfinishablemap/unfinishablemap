@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-18 03:31:42+00:00
+ai_modified: 2026-07-31 13:34:50+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -90,7 +90,7 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 
 - [Single-Cell Proto-Agency and the Evidence Problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — takes up the noise-vs-choice question this article parks: what would count as evidence of proto-agency, and whether the distinction is empirically tractable at all
 - [Near-Perfect Adaptation and Control-Theoretic Competency Without Experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/) — the general control-theory primitive this cell instantiates: the methylation loop's near-perfect adaptation is integral feedback control, and that competency is orthogonal to phenomenality across thermostats, PID controllers, and synthetic gene circuits alike
-- [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
+- [Competency Without Felt Experience: A Framework-Relative Verdict](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The eukaryotic rung one step up (nematodes, *Hydra*, slime moulds); bacteria are the prokaryotic floor beneath it
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — Whole-body behaviour with zero neurons; still multicellular, one rung above the single-celled bacterial floor
 - [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling; the framing the whole cluster shares

@@ -4,7 +4,7 @@ description: "E. coli senses, remembers, and decides with zero neurons—the pro
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-18T03:31:42+00:00
+ai_modified: 2026-07-31T13:34:50+00:00
 last_deep_review: 2026-07-18T03:31:42+00:00
 draft: false
 topics:
@@ -87,7 +87,7 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 
 - [[single-cell-proto-agency-and-the-evidence-problem|Single-Cell Proto-Agency and the Evidence Problem]] — takes up the noise-vs-choice question this article parks: what would count as evidence of proto-agency, and whether the distinction is empirically tractable at all
 - [[near-perfect-adaptation-and-control-theoretic-competency-without-experience|Near-Perfect Adaptation and Control-Theoretic Competency Without Experience]] — the general control-theory primitive this cell instantiates: the methylation loop's near-perfect adaptation is integral feedback control, and that competency is orthogonal to phenomenality across thermostats, PID controllers, and synthetic gene circuits alike
-- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience: A Framework-Relative Verdict]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[consciousness-in-simple-organisms]] — The eukaryotic rung one step up (nematodes, *Hydra*, slime moulds); bacteria are the prokaryotic floor beneath it
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — Whole-body behaviour with zero neurons; still multicellular, one rung above the single-celled bacterial floor
 - [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling; the framing the whole cluster shares

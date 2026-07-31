@@ -4,7 +4,7 @@ description: "Levin's xenobots and bioelectric memory show sophisticated agency 
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-16T14:04:05+00:00
+ai_modified: 2026-07-31T13:34:50+00:00
 last_deep_review: 2026-07-19T04:25:48+00:00
 draft: false
 topics:
@@ -77,7 +77,7 @@ The decoupling also connects to [[biological-teleology-and-the-interface-framewo
 
 ## Further Reading
 
-- [[apex/competency-without-felt-experience|Competency Without Felt Experience]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience: A Framework-Relative Verdict]] — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [[marginal-organism-scope-of-value-sensitive-selection]] — The ladder this article pressures from the agency side
 - [[plant-cognition-and-the-plant-neurobiology-debate]] — The sibling non-neural rung: processing without a nervous system
 - [[valence-and-conscious-selection]] — The selection mechanism the decoupling protects from false positives

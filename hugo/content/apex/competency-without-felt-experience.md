@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-16 14:04:05+00:00
+ai_modified: 2026-07-31 13:34:50+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-16 14:04:05+00:00
 apex_sources:
@@ -36,11 +36,11 @@ related_articles:
 - '[[minds-without-words]]'
 - '[[machine-question]]'
 - '[[open-question-ai-consciousness]]'
-title: Competency Without Felt Experience
+title: 'Competency Without Felt Experience: A Framework-Relative Verdict'
 topics: []
 ---
 
-# Competency Without Felt Experience
+# Competency Without Felt Experience: A Framework-Relative Verdict
 
 A single *Escherichia coli* cell senses its surroundings, holds a few seconds of memory, decides whether things are improving, and swims accordingly—with no neurons. A sponge coordinates a whole-body contraction with no neurons and no synapses. A Venus flytrap counts. The immune system learns, remembers, and tells self from non-self across a lifetime. Half a billion neurons in the gut wall run digestion when the brain is disconnected. Frog cells freed from their embryo self-assemble into novel organisms that navigate and self-replicate. And at the far edge, a dish of cultured human cortical neurons—real synapses, real oscillations—learns to play Pong. Every one of these systems performs work that earns, without strain, the full vocabulary of cognition: sensing, memory, valence, adaptive decision, goal-pursuit, even a functional "self."
 

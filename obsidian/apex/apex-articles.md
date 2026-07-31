@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-07-22T15:16:29+00:00
+ai_modified: 2026-07-31T13:34:50+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -766,7 +766,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
-### 35. Competency Without Felt Experience
+### 35. Competency Without Felt Experience: A Framework-Relative Verdict
 
 **Slug**: `competency-without-felt-experience`
 
