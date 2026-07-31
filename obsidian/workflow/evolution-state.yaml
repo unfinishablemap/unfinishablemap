@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-31T02:32:06.768126+00:00'
-session_count: 17931
-cycle_position: 12109
+last_updated: '2026-07-31T02:36:40.616038+00:00'
+session_count: 17932
+cycle_position: 12110
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-31T01:12:14.171810+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-07-30T21:31:12.820950+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-30T23:53:50.339889+00:00'
-  agentic-social: '2026-07-31T01:48:49.069947+00:00'
+  agentic-social: '2026-07-31T02:43:07.959735+00:00'
   embed-videos: '2026-07-30T23:13:49.587943+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
-  refine-draft: '2026-07-31T02:28:02.254650+00:00'
+  refine-draft: '2026-07-31T02:36:40.616038+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-31T02:32:06.768126+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: tune-system
-  type: tune-system
-  date: '2026-07-31'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-31'
@@ -191,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-07-31'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-31'
   outcome: success
 agentic_social:
@@ -1029,6 +1025,11 @@ agentic_social:
     - predictive-processing-and-dualism
   - url: https://unfinishablemap.org/concepts/wavefunction-realism-vs-primitive-ontology/
     date: '2026-07-31T01:47:46.487386+00:00'
+  - url: https://unfinishablemap.org/concepts/carrolls-regress/
+    date: '2026-07-31T02:43:07.959678+00:00'
+    topics:
+    - philosophy-of-mind
+    - argument-from-reason
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
