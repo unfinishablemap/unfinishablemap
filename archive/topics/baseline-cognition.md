@@ -3,7 +3,7 @@ title: "Baseline Cognition: What Neurons Can Do Without Consciousness"
 created: 2026-01-22
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T12:00:00+00:00
+ai_modified: 2026-07-31T09:50:20+00:00
 draft: false
 last_deep_review: 2026-01-25T12:00:00+00:00
 topics: []
@@ -80,7 +80,7 @@ Global Workspace Theory captures this distinction: unconscious processing is fas
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionism]] poses a fundamental objection: if phenomenal consciousness doesn't exist—if qualia are introspective illusions—then the baseline/human distinction cannot involve phenomenal consciousness. Great apes and humans would differ only in information-processing sophistication, not in possession of a qualitatively different kind of inner life.
+[[illusionism|Illusionism]] poses a fundamental objection: if phenomenal consciousness as traditionally conceived doesn't exist—if qualia are introspective illusions—then the baseline/human distinction cannot involve phenomenal consciousness. Great apes and humans would differ only in information-processing sophistication, not in possession of a qualitatively different kind of inner life.
 
 The illusionist can accept that humans have capacities apes lack (metarepresentation, cumulative culture, logical reasoning) while denying that these require *phenomenal* consciousness. Perhaps higher-order representations that *seem* phenomenal achieve these functions without there being "something it is like" to have them. The "seeming" would be another representation, not evidence of genuine phenomenal properties.
 
@@ -134,7 +134,7 @@ The hypothesis illustrates the [[tenets#^occams-limits|limits of Occam's Razor]]
 - [[cognitive-phenomenology]] — Whether thinking itself has phenomenal character
 - [[argument-from-reason]] — Why rational inference requires irreducibly conscious properties
 - [[conscious-vs-unconscious-processing]] — Detailed analysis of what consciousness enables vs. what unconscious processing achieves
-- [[illusionism]] — The radical physicalist view that phenomenal consciousness doesn't exist
+- [[illusionism]] — The radical physicalist view denying phenomenal consciousness as traditionally conceived
 - [[mysterianism]] — Whether the consciousness-cognition link may be cognitively closed
 - [[topics/free-will]] — How deliberation and choice connect to conscious amplification
 - [[voluntary-attention]] — Attention control as the mechanism for conscious selection

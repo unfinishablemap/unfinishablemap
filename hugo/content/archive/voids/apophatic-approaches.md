@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-02-23 08:06:00+00:00
+ai_modified: 2026-07-31 09:50:20+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: 'Coalesced into Apophatic Cartography: Mapping What Cannot Be Mapped'
 archived: true
@@ -168,7 +168,7 @@ The goal is not to fill the voids with speculation but to know more precisely wh
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [The Silence Void](/voids/the-silence-void/) — Where even negation must cease: the territory beyond apophatic method
-- [Illusionism](/concepts/illusionism/) — The radical challenge that phenomenal consciousness doesn't exist
+- [Illusionism](/concepts/illusionism/) — The radical challenge to phenomenal consciousness as traditionally conceived
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability of phenomenal access
 - [Decoherence and Quantum Biology](/concepts/decoherence/) — How quantum effects might survive in biological systems
 - [Site Tenets](/tenets/) — The foundational commitments that shape this perspective

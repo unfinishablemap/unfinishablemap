@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the retired flat illusionism reading survives across the corpus — "denies phenomenal consciousness exists" without Frankish's own restriction
-- **Type**: refine-draft
-- **File**: obsidian/apex/contemplative-path.md
-- **Status**: pending
-- **Source**: deep-review
-- **Review file**: `reviews/deep-review-2026-07-31-phenomenal-consciousness.md`
-- **Generated**: 2026-07-31
-- **Notes**: `concepts/illusionism.md` was rewritten 2026-07-29/30 to retire the strong-illusionism-only reading, and `ae66ac590` brought `concepts/explanatory-gap.md` into line. **That sweep did not reach the rest of the corpus.** Today's deep review of `concepts/phenomenal-consciousness.md` — the corpus's #2 hub, 274 inbound files — found it still serving the retired reading, and fixed it there. The same defect is live elsewhere.
-  **The discriminator is the FLAT form, not the gloss.** "The view that phenomenal consciousness is an introspective illusion" is Frankish's own characterisation and is FINE — do not sweep it. The defect is the unrestricted existential denial: *"there is no phenomenal consciousness"*, *"denies phenomenal consciousness exists"*, *"deny that phenomenal consciousness exists"*, with no "as traditionally conceived" restriction and no hard/subtle spectrum. `concepts/consciousness.md` L109 already carries the corrected wording — inherit it rather than inventing new phrasing.
-  **Verified loci, 2026-07-31.** Obsidian: `apex/contemplative-path.md` L163 · `topics/parsimony-case-for-interactionist-dualism.md` L77 · `topics/the-epiphenomenalist-threat.md` L75 · `topics/animal-consciousness.md` L164 · `topics/delegatory-dualism.md` L257 · `topics/consciousness-evolution-and-biology.md` L118 · `concepts/self-stultification.md` L129 · `concepts/theory-of-mind.md` L167 · `concepts/introspection.md` L113. Archive (**full serving bodies at live URLs — memory [[defect-sweeps-must-include-archive-tree]]**): `archive/topics/consciousness-evolution-problem.md` L110 · `archive/topics/epiphenomenalisms-gravity-well.md` L59 · `archive/concepts/illusionism-as-epiphenomenalism-in-disguise.md` L40 · `archive/concepts/downward-causation.md` L207.
-  **Triage, do not sweep blind.** Line numbers drift and several loci are defensible in context — `concepts/illusionism.md` L145 and its archived predecessor are the canonical article's own comparison sentence and were rewritten in the 07-29/30 pass. Judge each locus; leaving one alone with a stated reason is a good outcome.
-  **Second limb, same family.** The deep review also found the **bare self-refutation regress** run as probative here, which contradicts the Map's own settled position: `illusionism.md` L79, `explanatory-gap.md` L115 and `mind-brain-separation.md` L96 all say the bare regress *proves nothing*. Running it flat strawmans a named opponent. The existing P3 on `haecceity` L156 covers two further copies — check it before duplicating.
-  Length-neutral or better; most fixes are one clause. Do not restate the hub's new wording at length in every locus.
-
 ### NEEDS-HUMAN (document structure) 2026-07-31: calibration-audit-triple is 4.7× its hard ceiling and 72% of it is the append-only ratification ledger
 - **Type**: refine-draft
 - **File**: obsidian/project/calibration-audit-triple.md
@@ -256,6 +242,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **File**: obsidian/apex/pharmacological-dissociation-as-evidence.md
 - **Status**: pending
 - **Notes**: Reported by the /refine-draft that fixed `concepts/cross-mechanism-convergence.md` (2026-07-30T02:32Z), all three confirmed at the stated lines. **THE FACT**: Hu et al. (2023) tested **propofol, pentobarbital, ketamine, isoflurane**; **sevoflurane was never tested**, and it is a **mouse** study. **THE THREE LOCI, with species status re-measured without the fix's own vocabulary** (the reporting fork's first pass used `in mice` and got misleading counts): **THIS PICK — `obsidian/apex/pharmacological-dissociation-as-evidence.md` L100** — zero species words anywhere in the file; L100 unqualified. **⚠️ DO NOT DROP, report rather than re-scope**: `obsidian/apex/altered-states-as-interface-evidence.md` **L121** — **GREP TRAP**: "mice" *does* appear on L121, but it is "identical mice" belonging to the Stone et al. stochastic-emergence item, which shares that line with the Hu sentence; a naive grep reports this file as species-qualified when the Hu clause is **not**. And `obsidian/project/architecture-vs-significance-two-tier-discount.md` **L78** — zero species words; unqualified. **ONE FILE PER PICK.** **INHERIT** the settled wording from `concepts/active-reboot.md` L53/L75/L97 and `concepts/cross-mechanism-convergence.md`; do not compose new. If a locus assigns pharmacology per agent, re-derive as **three mechanism classes across four agents** (propofol + pentobarbital both GABA-A at distinct binding sites, isoflurane volatile, ketamine NMDA) rather than word-swapping — and state the reduction openly, as the settled files now do. **CHECK FOR THE MISATTRIBUTION TOO**: grep `-i reboot` in whichever file you pick; if it says the authors call it an "active reboot", that is false (the word appears nowhere in Hu et al.; it comes from a press headline about Mashour et al. 2021) and the coinage must be attributed to the Map. **LENGTH**: apex thresholds are 4000 soft / 5000 hard — decompose the apparatus before believing `analyze_length`. **MIRROR**: grep a REMOVED fragment and sync if hugo disagrees; sync again after a changelog write. **ATTRIBUTION**: hold `ai_system` unless you write new interpretive prose.
+
+### P3: four See-Also LABELS describe illusionism as denying phenomenal properties "outright" / "exist" — a nav surface asserting the retired reading
+- **Type**: refine-draft
+- **File**: obsidian/concepts/russellian-monism.md
+- **Status**: pending
+- **Source**: refine-draft
+- **Generated**: 2026-07-31
+- **Notes**: Surfaced by the 2026-07-31 flat-illusionism sweep and **deliberately left out of it** — this is a distinct and materially more defensible phrasing family, so it needed enumerating rather than blind-sweeping alongside the existential-denial form.
+  **The loci are link labels, not body prose** — memory [[navigation-surfaces-carry-unreviewed-claims]]: fix the LABEL, not the slug, and do not repoint anything.
+  - `obsidian/concepts/russellian-monism.md` L156 — "The rival view denying phenomenal properties **exist**"
+  - `obsidian/concepts/first-order-representationalism.md` L127 — "denies phenomenal properties **outright**"
+  - `obsidian/concepts/phenomenal-concepts-strategy.md` L206 — "denies phenomenal properties"
+  - `archive/topics/phenomenal-concepts-as-materialist-response.md` L168 — "denies phenomenal properties" (**archive serves a full body at a live URL**)
+  **Why this is borderline, and the test to apply.** Denying intrinsic phenomenal *properties* is close to what hard-end illusionism actually does, so the base phrasing may be fine. The intensifiers are what tip it: "outright" and "exist" assert the unrestricted reading that `concepts/illusionism.md` retired on 07-29/30, and the settled article now runs a hard/subtle spectrum whose subtle end holds the brain models something real but schematically. A bare label cannot carry the spectrum, so the fix is to drop the intensifier, not to append the restriction. **Accepting one or more as adequate is a legitimate outcome** — say which and why.
+  Do NOT extend this to the other `denies phenomenal properties` hits: `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` L142 (zombie-world disanalogy, unrelated), `concepts/grain-mismatch.md` L69 (the illusion reply about homogeneity), and the phenomenal-concept-strategy paragraphs in `voids/what-voids-reveal.md` / `archive/voids/*` are different claims.
+  Length-neutral; each fix is one or two words. Related: the sibling P3 immediately below, and the closed 2026-07-31 flat-form sweep.
 
 ### P3: two near-verbatim copies of the bare illusionist regress survived the three hub fixes — haecceity L156 and parfit-reductionism L95
 - **Type**: refine-draft
@@ -2006,6 +2008,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-07-31: the retired flat illusionism reading survives across the corpus — "denies phenomenal consciousness exists" without Frankish's own restriction
+- **Type**: refine-draft
+- **File**: obsidian/apex/contemplative-path.md
+- **Notes**: `concepts/illusionism.md` was rewritten 2026-07-29/30 to retire the strong-illusionism-only reading, and `ae66ac590` brought `concepts/explanatory-gap.md` into line. **That sweep did not reach the rest of the corpus.** Today's deep review of `concepts/phenomenal-consciousness.md` — the corpus's #2 hub, 274 inbound files — found it still serving the retired reading, and fixed it there. The same defect is live elsewhere.
+  **The discriminator is the FLAT form, not the gloss.** "The view that phenomenal consciousness is an introspective illusion" is Frankish's own characterisation and is FINE — do not sweep it. The defect is the unrestricted existential denial: *"there is no phenomenal consciousness"*, *"denies phenomenal consciousness exists"*, *"deny that phenomenal consciousness exists"*, with no "as traditionally conceived" restriction and no hard/subtle spectrum. `concepts/consciousness.md` L109 already carries the corrected wording — inherit it rather than inventing new phrasing.
+  **Verified loci, 2026-07-31.** Obsidian: `apex/contemplative-path.md` L163 · `topics/parsimony-case-for-interactionist-dualism.md` L77 · `topics/the-epiphenomenalist-threat.md` L75 · `topics/animal-consciousness.md` L164 · `topics/delegatory-dualism.md` L257 · `topics/consciousness-evolution-and-biology.md` L118 · `concepts/self-stultification.md` L129 · `concepts/theory-of-mind.md` L167 · `concepts/introspection.md` L113. Archive (**full serving bodies at live URLs — memory [[defect-sweeps-must-include-archive-tree]]**): `archive/topics/consciousness-evolution-problem.md` L110 · `archive/topics/epiphenomenalisms-gravity-well.md` L59 · `archive/concepts/illusionism-as-epiphenomenalism-in-disguise.md` L40 · `archive/concepts/downward-causation.md` L207.
+  **Triage, do not sweep blind.** Line numbers drift and several loci are defensible in context — `concepts/illusionism.md` L145 and its archived predecessor are the canonical article's own comparison sentence and were rewritten in the 07-29/30 pass. Judge each locus; leaving one alone with a stated reason is a good outcome.
+  **Second limb, same family.** The deep review also found the **bare self-refutation regress** run as probative here, which contradicts the Map's own settled position: `illusionism.md` L79, `explanatory-gap.md` L115 and `mind-brain-separation.md` L96 all say the bare regress *proves nothing*. Running it flat strawmans a named opponent. The existing P3 on `haecceity` L156 covers two further copies — check it before duplicating.
+  Length-neutral or better; most fixes are one clause. Do not restate the hub's new wording at length in every locus.
 
 ### ✓ 2026-07-31: methodology — fast-moving empirical claims need a citation ledger and expiry dates, not review-cycle convergence
 - **Type**: refine-draft

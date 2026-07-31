@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-07-07 04:25:29+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -256,7 +256,7 @@ Saad's work offers the most internally coherent option for a dualism adopted on 
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view delegatory dualism rejects
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why epiphenomenalism is the default destination of most consciousness theories, and what genuine escape requires
-- [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
+- [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness as traditionally conceived
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for mind-body laws
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why conservation doesn't block mental causation

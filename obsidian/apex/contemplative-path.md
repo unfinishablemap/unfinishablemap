@@ -4,7 +4,7 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-07-30T16:30:44+00:00
+ai_modified: 2026-07-31T09:48:59+00:00
 last_deep_review: 2026-07-06T23:49:16+00:00
 draft: false
 topics:
@@ -160,11 +160,11 @@ The combination of Buddhist phenomenology, Taoist process thinking, and Whitehea
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionism]] poses the most radical challenge: there is no phenomenal consciousness to investigate. The "what it's likeness" of experience is an introspective illusion—a useful fiction produced by cognitive systems representing themselves.
+[[illusionism|Illusionism]] poses the most radical challenge: there is no phenomenal consciousness *as traditionally conceived* to investigate. Frankish restricts the denial to experience bearing intrinsic, ineffable what-it-is-like properties rather than consciousness in every functional sense, and the position runs from a hard end at which phenomenal properties do not exist to a subtle end at which the brain models something real but schematically. Either way, the "what it's likeness" contemplatives take themselves to be investigating is an introspective artefact—a representation produced by cognitive systems modelling themselves.
 
-Three responses preserve the contemplative case, though each has limitations the Map acknowledges.
+Three responses bear on the contemplative case, though each has limitations the Map acknowledges.
 
-**The regress applies.** For contemplative experience to be illusory, something must experience the illusion. The seeming to observe witness consciousness must itself be experienced—and that experiencing is phenomenal. Note that this argument has force only if one already accepts that phenomenal consciousness is real—which is precisely what the illusionist denies. The zombie thought experiment faces the same circularity: asking whether a zombie could *experience* the transition from effort to effortlessness presupposes that experience is something over and above functional states. Dennett's heterophenomenology offers a middle path the Map should engage: we can take first-person reports seriously as data about subjects' beliefs about their experience without committing to those reports as veridical descriptions of non-physical properties.
+**The regress, and what it does not settle.** For contemplative experience to be illusory, something must experience the illusion—so the seeming to observe witness consciousness must itself be experienced. Taken bare the move proves nothing: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The zombie thought experiment faces the same circularity: asking whether a zombie could *experience* the transition from effort to effortlessness presupposes that experience is something over and above functional states. Dennett's heterophenomenology offers a middle path the Map should engage: we can take first-person reports seriously as data about subjects' beliefs about their experience without committing to those reports as veridical descriptions of non-physical properties.
 
 **Training should dissolve illusion.** If contemplative phenomenology were fabricated, extended practice should reveal this—as understanding dissolves other cognitive errors. Instead, traditions report that practice *refines* phenomenological access. The distinctions between choosing and observing, between effort and effortlessness, become *clearer* with training. Meditators report increasingly subtle phenomenological distinctions, not recognition that there was nothing there.
 

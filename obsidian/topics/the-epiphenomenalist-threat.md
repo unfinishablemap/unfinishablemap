@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-07-29T17:13:59+00:00
+ai_modified: 2026-07-31T09:48:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Theories sit at different structural distances from the well's centre, measured 
 
 **At the centre**: explicit epiphenomenalism—consciousness exists, is distinct from physics, causes nothing. Thomas Huxley's 1874 automaton hypothesis occupies this position without evasion.
 
-**One step removed**: [[illusionism|illusionism]] denies phenomenal consciousness exists while inheriting the same causal structure. As the [[illusionism#Structural Convergence with Epiphenomenalism|convergence argument]] shows, the denial of qualia does not change the causal architecture; it relabels it.
+**One step removed**: [[illusionism|illusionism]] denies phenomenal consciousness *as traditionally conceived* while inheriting the same causal structure. The [[illusionism#Structural Convergence with Epiphenomenalism|convergence argument]] holds that the denial of qualia does not change the causal architecture but relabels it—though Frankish replies that the representational work *is* the causal contribution, leaving no idle residue, so the convergence grips only once phenomenal realism is granted.
 
 **Two steps removed**: property dualism without interaction and non-reductive physicalism. Both assert consciousness is real, distinct, and causally efficacious—but neither provides a mechanism, as the sections below detail.
 

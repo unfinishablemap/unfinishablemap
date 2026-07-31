@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-07-07T04:25:29+00:00
+ai_modified: 2026-07-31T09:48:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -254,7 +254,7 @@ Saad's work offers the most internally coherent option for a dualism adopted on 
 - [[causal-closure]] — The closure objection and responses
 - [[concepts/epiphenomenalism]] — The view delegatory dualism rejects
 - [[the-epiphenomenalist-threat]] — Why epiphenomenalism is the default destination of most consciousness theories, and what genuine escape requires
-- [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
+- [[illusionism]] — The radical challenge that denies phenomenal consciousness as traditionally conceived
 - [[concepts/many-worlds]] — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws
 - [[conservation-laws-and-mental-causation]] — Why conservation doesn't block mental causation

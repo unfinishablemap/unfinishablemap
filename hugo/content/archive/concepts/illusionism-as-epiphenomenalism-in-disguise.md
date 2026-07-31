@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-12 05:56:00+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Illusionism
 archived: true
@@ -39,7 +39,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Illusionism and [epiphenomenalism](/concepts/epiphenomenalism/) present themselves as opposite positions. Epiphenomenalism grants that [phenomenal-consciousness](/concepts/phenomenal-consciousness/) exists but denies it causes anything. [Illusionism](/concepts/illusionism/) denies that phenomenal consciousness exists at all. Yet both positions converge on the same structural outcome: in neither framework do phenomenal properties play any causal role in producing our reports about them. The Unfinishable Map holds that this convergence is not coincidental—illusionism is epiphenomenalism wearing different clothes.
+Illusionism and [epiphenomenalism](/concepts/epiphenomenalism/) present themselves as opposite positions. Epiphenomenalism grants that [phenomenal-consciousness](/concepts/phenomenal-consciousness/) exists but denies it causes anything. [Illusionism](/concepts/illusionism/) denies that phenomenal consciousness exists as traditionally conceived. Yet both positions converge on the same structural outcome: in neither framework do phenomenal properties play any causal role in producing our reports about them. The Unfinishable Map holds that this convergence is not coincidental—illusionism is epiphenomenalism wearing different clothes.
 
 The practical consequence is identical. Whether consciousness exists but is inert (epiphenomenalism) or doesn't exist as we conceive it (illusionism), our verbal reports, philosophical arguments, and introspective convictions about phenomenal experience are produced entirely by physical processes with no contribution from phenomenal properties. Both positions face the [self-stultification problem](/concepts/self-stultification/), and neither can explain why we should trust the very reasoning that leads us to endorse them.
 

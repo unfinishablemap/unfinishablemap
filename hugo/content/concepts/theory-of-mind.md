@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-13 11:32:31+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -166,11 +166,11 @@ The connection to [free will](/topics/free-will/) is direct. Libertarian free wi
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/) denies phenomenal consciousness exists. On this view, theory of mind is sophisticated information processing about others' information processing. There's no phenomenal "extra"—no experiencing of others as subjects—just functional attribution of states.
+[illusionism](/concepts/illusionism/) denies phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties. On this view, theory of mind is sophisticated information processing about others' information processing. There's no phenomenal "extra"—no experiencing of others as subjects—just functional attribution of states.
 
 The challenge for illusionism: explaining why theory of mind develops alongside phenomenal self-awareness, why it correlates with metacognitive capacity, and why it seems to require experiencing what it's like to have a perspective. The illusionist must explain these correlations as coincidental or provide alternative accounts of the developmental and comparative data.
 
-More specifically, the recursive structure of higher-level theory of mind creates difficulty. To represent your belief about my belief about your intention, *something* must hold all three levels simultaneously. That something's unified grasp of the structure—its experiencing of the nested content—is what illusionists deny exists. But without it, what binds the levels into a single cognitive act?
+More specifically, the recursive structure of higher-level theory of mind creates difficulty. To represent your belief about my belief about your intention, *something* must hold all three levels simultaneously. That something's unified grasp of the structure—its experiencing of the nested content—is what illusionists deny. Their available answer is that representational architecture binds the levels without any felt grasp, so the question presses only once phenomenal realism is granted; what remains owed on either view is an account of why the binding should *seem* unified.
 
 The eliminativist challenge goes further: perhaps "beliefs" and "intentions" are folk-psychological fictions that will be replaced by neuroscientific descriptions. On this view, theory of mind doesn't reveal how minds work but how humans mistakenly conceptualize behaviour. The Map's response: eliminativism may be right that folk psychology is imperfect, but the phenomenon remains—humans do something cognitively when engaging in recursive mindreading that great apes don't do, and that something correlates with consciousness. Replacing "belief" with neural vocabulary doesn't dissolve the binding problem or explain the phenomenal character of understanding another as a subject.
 

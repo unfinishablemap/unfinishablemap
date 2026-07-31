@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Mental Causation and Downward Causation
 archived: true
@@ -207,7 +207,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation applied to free action
 - [Substance causation](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation) — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters for downward causation)
-- [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
+- [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness as traditionally conceived
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [causal-delegation](/concepts/delegatory-causation/) — How physical states delegate causal work to experience
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements downward causation

@@ -4,7 +4,7 @@ description: "Positive arguments for dualism span metaphysics, epistemology, and
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-07-31T09:50:20+00:00
 draft: false
 archived: true
 archived_date: 2026-02-16T05:40:00+00:00
@@ -177,7 +177,7 @@ This distinguishes the Map's position from epiphenomenal property dualism. Consc
 
 ## The Illusionist Challenge
 
-The strongest materialist response to these arguments isn't to explain consciousness physically but to deny that phenomenal consciousness exists at all. [[Illusionism]], defended by Keith Frankish and Daniel Dennett, holds that the "what it's like" aspect of experience is an introspective misrepresentation. If correct, the dualist arguments lose their target.
+The strongest materialist response to these arguments isn't to explain consciousness physically but to deny phenomenal consciousness as traditionally conceived. [[Illusionism]], defended by Keith Frankish and Daniel Dennett, holds that the "what it's like" aspect of experience is an introspective misrepresentation. If correct, the dualist arguments lose their target.
 
 ### Why Illusionism Fails
 

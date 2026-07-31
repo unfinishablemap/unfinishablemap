@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-07-31T09:48:59+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T05:21:00+00:00
@@ -204,7 +204,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [[agent-causation]] — Agent causation as substance causation applied to free action
 - [[agent-causation#The Metaphysical Foundation: Substance Causation|Substance causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters for downward causation)
-- [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
+- [[illusionism]] — The radical challenge that denies phenomenal consciousness as traditionally conceived
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[causal-delegation]] — How physical states delegate causal work to experience
 - [[attention-as-interface]] — How attention implements downward causation

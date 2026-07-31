@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-07-18T12:54:51+00:00
+ai_modified: 2026-07-31T09:48:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,17 +110,15 @@ This matches ordinary epistemic practice: we don't conclude perception is unreli
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] like Keith Frankish and Daniel Dennett pose the most radical challenge: there is no phenomenal content to introspect. The "what it's likeness" of experience is itself an illusion—a fiction produced by cognitive systems representing themselves. This is more fundamental than reliability concerns: Schwitzgebel questions whether introspection *accurately reports* phenomenal states; illusionists question whether phenomenal states exist *at all*.
+[[illusionism|Illusionists]] like Keith Frankish and Daniel Dennett pose the most radical challenge: there is no phenomenal content to introspect *as traditionally conceived*—no intrinsic, ineffable what-it-is-like properties for introspection to disclose, only representations produced by systems modelling themselves. Schwitzgebel questions whether introspection *accurately reports* phenomenal states; illusionists question whether the states are as it represents them.
 
 ### The Regress Response
 
-If phenomenal consciousness is an illusion, the *seeming* to have it must be explained. Either: (1) the seeming involves phenomenal properties—relocating rather than eliminating phenomenal consciousness—or (2) it involves no phenomenal properties, requiring explanation of why non-phenomenal seeming universally produces false beliefs. As Galen Strawson observes, *seeming* to be in pain *is* a form of conscious experience.
-
-The [[witness-consciousness]] phenomenon compounds this: contemplatives report stable awareness *of* awareness itself. What would this illusion be an illusion *of*?
+If phenomenal consciousness is an illusion, the *seeming* to have it must be explained. Taken bare the regress proves nothing: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. What survives is narrower—relocation gains only if "why does introspection *seem* to disclose qualia?" is tractable where "why are there qualia?" was not, which is asserted rather than shown.
 
 ### The Self-Undermining Problem
 
-A self-refutation charge presses here: the experience of finding an argument convincing is either phenomenal (undermining the position) or non-phenomenal (undermining confidence in understanding). If all introspective access is illusory, how do illusionists know they've understood their own arguments? The charge has force only once phenomenal realism is granted—that grasping an argument has a felt character. Frankish denies exactly this: the grasping is functional all the way down, with no felt residue to undermine. So the argument marks where the Map and the illusionist part company rather than refuting him within his own framework; the Map presses it only by holding the residue he relabels is real—the substantive disagreement, honestly noted as such.
+A self-refutation charge presses on the same fault line: if all introspective access is illusory, how do illusionists know they have understood their own arguments? It has force only once phenomenal realism is granted—that grasping an argument has a felt character. Frankish denies exactly this: the grasping is functional all the way down, with no felt residue to undermine. Both objections therefore mark where the Map and the illusionist part company rather than refuting him within his own framework; the Map presses them only by holding that the residue he relabels is real—the substantive disagreement, honestly noted as such.
 
 ## Introspection as Metacognitive Skill
 

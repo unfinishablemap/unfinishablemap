@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 16:44:00+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Epiphenomenalist Threat
 archived: true
@@ -59,7 +59,7 @@ Not all theories sit at the same distance from the well's centre. The metaphor i
 
 **At the centre** sits explicit epiphenomenalism: consciousness exists, is distinct from physics, and causes nothing. Thomas Huxley's 1874 automaton hypothesis occupies this position without evasion.
 
-**One step removed** are theories that deny consciousness causes anything but reframe this as a feature rather than a bug. [Illusionism](/concepts/illusionism/) denies phenomenal consciousness exists while inheriting the same causal structure—physical processes do all the work, and what we call "consciousness" is a representational artefact. The denial of qualia does not change the causal architecture; it relabels it.
+**One step removed** are theories that deny consciousness causes anything but reframe this as a feature rather than a bug. [Illusionism](/concepts/illusionism/) denies phenomenal consciousness *as traditionally conceived* while inheriting the same causal structure—physical processes do all the work, and what we call "consciousness" is a representational artefact. The denial of qualia does not change the causal architecture; it relabels it.
 
 **Two steps removed** are property dualism without interaction and non-reductive physicalism. Both assert that consciousness is real, distinct from physical description, and causally efficacious—but neither provides a mechanism for how the causal efficacy works. Kim showed that [non-reductive physicalism](/topics/the-epiphenomenalist-threat/#non-reductive-physicalism-kims-target) is unstable: supervenience without identity gives mental properties no independent causal role. Property dualism fares similarly. Chalmers acknowledged in *The Conscious Mind* that his "naturalistic dualism" is compatible with epiphenomenalism even if it does not require it. These theories resist the pull verbally—they *assert* causal efficacy—while their structural commitments leave no room for it.
 

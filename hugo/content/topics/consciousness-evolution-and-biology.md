@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-07-28 17:34:04+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -118,7 +118,7 @@ Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis proposes that
 
 ### Dissolve the Problem
 
-[Illusionists](/concepts/illusionism/) argue there is no consciousness-evolution problem because there is no phenomenal consciousness—what we call experience is a misrepresentation by introspective mechanisms. The Map rejects this, contending that the illusion problem is at least as hard as the hard problem: why would evolution produce organisms that systematically misrepresent their own cognition?
+[Illusionists](/concepts/illusionism/) argue there is no consciousness-evolution problem because there is no phenomenal consciousness *as traditionally conceived*—what we call experience is a misrepresentation by introspective mechanisms, so the evolutionary question shifts from why experience arose to why the modelling did. The Map rejects the dissolution, contending that the illusion problem is at least as hard as the hard problem: why would evolution produce organisms that systematically misrepresent their own cognition?
 
 ### Reframe the Problem
 

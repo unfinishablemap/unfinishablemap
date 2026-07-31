@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T09:39:11+00:00'
+ai_modified: '2026-07-31T09:51:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 09:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/contemplative-path]] (entry point of a bounded multi-file sweep)
+- **Task**: P2 queue task (todo line 39). Corpus sweep completing the illusionism recalibration campaign (`concepts/illusionism.md` 07-29/30 → `concepts/explanatory-gap.md` `ae66ac590` → `concepts/phenomenal-consciousness.md` 07-31), which had never reached the wider corpus.
+- **Defect**: the retired strong-illusionism-only reading — unrestricted existential denial (*"there is no phenomenal consciousness"*, *"denies phenomenal consciousness exists"*) — stated as illusionism's position, with no *as traditionally conceived* restriction and no hard/subtle spectrum. Frankish's own flat gloss (*"the view that phenomenal consciousness is an introspective illusion"*) is correct and was deliberately left untouched throughout.
+- **Changes**: installed the settled restriction inherited from `concepts/consciousness.md` L109 and the `phenomenal-consciousness.md` hub at 15 loci across 15 files — 8 obsidian (`apex/contemplative-path`, `concepts/introspection`, `concepts/self-stultification`, `concepts/theory-of-mind`, `topics/animal-consciousness`, `topics/delegatory-dualism`, `topics/the-epiphenomenalist-threat`, `topics/consciousness-evolution-and-biology`) and 7 archive serving bodies (`archive/topics/consciousness-evolution-problem`, `archive/topics/epiphenomenalisms-gravity-well`, `archive/topics/baseline-cognition` ×2, `archive/concepts/illusionism-as-epiphenomenalism-in-disguise`, `archive/concepts/downward-causation`, `archive/concepts/arguments-for-dualism`, `archive/voids/apophatic-approaches`). Two of these were Further Reading link labels asserting what the destination disclaims.
+- **Second limb (bare regress)**: recalibrated at 3 loci — `apex/contemplative-path` (bold header *"The regress applies"* asserted what the sentence below retracted), `concepts/introspection` (§ The Regress Response ran a flat dilemma closed by Strawson as though probative), `concepts/theory-of-mind` (rhetorical binding-stopper). All now carry the settled reasoning: the bare regress proves nothing — it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents; the surviving pressure is that the relocation move is asserted rather than shown.
+- **Engagement classification (editor-internal, not in article prose)**: engagement with Frankish/Dennett across all recalibrated loci — Mode Three→Mode Two correction. The corpus had been running boundary-marking (tenet-incompatibility) dressed as in-framework refutation; the fix downgrades the refutation language and, where the in-framework argument was genuinely available (`the-epiphenomenalist-threat`, `self-stultification`), names the unsupported foundational move instead. `concepts/introspection` § Self-Undermining already held the correct Mode Three phrasing; the adjacent regress section was merged onto it rather than duplicating the boundary marker.
+- **Left alone with reasons**: `topics/parsimony-case-for-interactionist-dualism` L77 (already restricted — *"deny that phenomenal consciousness exists as it seems"*); `concepts/illusionism` L145 (the 07-29/30 rewrite; paragraph carries Frankish's reply and states the convergence *assumes rather than establishes*); `concepts/zombie-master-argument` L68 (fully calibrated already); `archive/topics/attention-consciousness-dissociation` L118 (attributed to eliminativists, not illusionism).
+- **Not swept — flagged for a future pass**: a distinct *"denies phenomenal properties"* phrasing family at 6+ files (`concepts/first-order-representationalism`, `concepts/russellian-monism`, `concepts/knowledge-argument`, `concepts/phenomenal-concepts-strategy`, `concepts/type-identity-theory`, `archive/topics/phenomenal-concepts-as-materialist-response`, `archive/concepts/mental-causation`). More defensible than the swept form and needs its own enumeration. Open P3s on `concepts/haecceity`/`concepts/parfit-reductionism` and `concepts/mysterianism` cover adjacent families and were deliberately not touched.
+- **Length**: net +164 words over 15 files, every file inside its hard ceiling. `concepts/introspection` 3517→3491, net-negative as required and now *below* the 3500 hard ceiling (`hard_warning`→`soft_warning`). `topics/animal-consciousness` 3989→3991, under 4000.
+- **Published**: yes
 
 ## 2026-07-31 09:39 UTC - refine-draft
 - **Status**: Success

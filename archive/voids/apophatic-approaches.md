@@ -3,7 +3,7 @@ title: "Apophatic Approaches: Knowing Through Negation"
 created: 2026-01-10
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-23T08:06:00+00:00
+ai_modified: 2026-07-31T09:50:20+00:00
 draft: false
 topics: []
 concepts:
@@ -165,7 +165,7 @@ The goal is not to fill the voids with speculation but to know more precisely wh
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[the-silence-void|The Silence Void]] — Where even negation must cease: the territory beyond apophatic method
-- [[illusionism|Illusionism]] — The radical challenge that phenomenal consciousness doesn't exist
+- [[illusionism|Illusionism]] — The radical challenge to phenomenal consciousness as traditionally conceived
 - [[introspection|Introspection and First-Person Methods]] — The reliability of phenomenal access
 - [[decoherence|Decoherence and Quantum Biology]] — How quantum effects might survive in biological systems
 - [[tenets|Site Tenets]] — The foundational commitments that shape this perspective

@@ -4,7 +4,7 @@ description: "Why evolutionary theory and biology's conceptual toolkit—functio
 created: 2026-02-09
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-07-28T17:34:04+00:00
+ai_modified: 2026-07-31T09:48:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ Colin McGinn's [[mysterianism|cognitive closure]] thesis proposes that human int
 
 ### Dissolve the Problem
 
-[[illusionism|Illusionists]] argue there is no consciousness-evolution problem because there is no phenomenal consciousness—what we call experience is a misrepresentation by introspective mechanisms. The Map rejects this, contending that the illusion problem is at least as hard as the hard problem: why would evolution produce organisms that systematically misrepresent their own cognition?
+[[illusionism|Illusionists]] argue there is no consciousness-evolution problem because there is no phenomenal consciousness *as traditionally conceived*—what we call experience is a misrepresentation by introspective mechanisms, so the evolutionary question shifts from why experience arose to why the modelling did. The Map rejects the dissolution, contending that the illusion problem is at least as hard as the hard problem: why would evolution produce organisms that systematically misrepresent their own cognition?
 
 ### Reframe the Problem
 

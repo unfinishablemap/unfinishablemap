@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-24 11:06:00+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness, Evolution, and the Limits of Biology
 archived: true
@@ -110,7 +110,7 @@ This position is honest but risks premature surrender. The Map's [fifth tenet](/
 
 ### Dissolve the Problem
 
-Illusionists and eliminativists argue there is no consciousness-evolution problem because there is no phenomenal consciousness. [illusionism](/concepts/illusionism/) holds that what we call experience is a misrepresentation by introspective mechanisms—neural systems that model their own processing in experiential terms without there being genuine experience behind the model. If so, evolution explains the modelling mechanisms and the problem evaporates.
+Illusionists and eliminativists argue there is no consciousness-evolution problem because there is no phenomenal consciousness *as traditionally conceived*. [illusionism](/concepts/illusionism/) holds that what we call experience is a misrepresentation by introspective mechanisms—neural systems that model their own processing in experiential terms without there being genuine experience behind the model. If so, evolution explains the modelling mechanisms and the problem evaporates.
 
 The Map rejects this dissolution. As noted in the [evolution-of-consciousness](/concepts/evolution-of-consciousness/) article, the illusion problem is at least as hard as the hard problem. Why would evolution produce organisms that systematically misrepresent their own cognition? The illusionist replaces "why did consciousness evolve?" with "why did the illusion of consciousness evolve?"—and confronts comparable explanatory burdens.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-29 18:34:43+00:00
+ai_modified: 2026-07-31 09:48:59+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -129,7 +129,7 @@ Radical skepticism that doubts all knowledge must also doubt itself. The skeptic
 
 ### Illusionism
 
-[Illusionism](/concepts/illusionism/) denies that phenomenal consciousness exists, replacing it with quasi-phenomenal states. But this [converges structurally with epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism): the illusionist's beliefs about consciousness are produced by physical processes with no contribution from phenomenal properties (which, on their view, don't exist). The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce.
+[Illusionism](/concepts/illusionism/) denies phenomenal consciousness *as traditionally conceived*, replacing it with quasi-phenomenal states. But this [converges structurally with epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism): the illusionist's beliefs about consciousness are produced by physical processes with no contribution from phenomenal properties (which, on their view, are not as introspection represents them). The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce. Frankish denies the proviso the charge needs—there is nothing further to attend to—so this marks where the Map and the illusionist part company rather than refuting him inside his own framework.
 
 ### Determinism and Rational Inference
 

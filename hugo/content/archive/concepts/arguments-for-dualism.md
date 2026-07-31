@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 15:14:45+00:00
+ai_modified: 2026-07-31 09:50:20+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Case for Dualism
 archived: true
@@ -179,7 +179,7 @@ This distinguishes the Map's position from epiphenomenal property dualism. Consc
 
 ## The Illusionist Challenge
 
-The strongest materialist response to these arguments isn't to explain consciousness physically but to deny that phenomenal consciousness exists at all. [Illusionism](/concepts/illusionism/), defended by Keith Frankish and Daniel Dennett, holds that the "what it's like" aspect of experience is an introspective misrepresentation. If correct, the dualist arguments lose their target.
+The strongest materialist response to these arguments isn't to explain consciousness physically but to deny phenomenal consciousness as traditionally conceived. [Illusionism](/concepts/illusionism/), defended by Keith Frankish and Daniel Dennett, holds that the "what it's like" aspect of experience is an introspective misrepresentation. If correct, the dualist arguments lose their target.
 
 ### Why Illusionism Fails
 

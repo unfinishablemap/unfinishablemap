@@ -4,7 +4,7 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-07-29T18:34:43+00:00
+ai_modified: 2026-07-31T09:48:59+00:00
 last_deep_review: 2026-07-12T04:03:00+00:00
 draft: false
 topics:
@@ -126,7 +126,7 @@ Radical skepticism that doubts all knowledge must also doubt itself. The skeptic
 
 ### Illusionism
 
-[[illusionism|Illusionism]] denies that phenomenal consciousness exists, replacing it with quasi-phenomenal states. But this [[illusionism#Structural Convergence with Epiphenomenalism|converges structurally with epiphenomenalism]]: the illusionist's beliefs about consciousness are produced by physical processes with no contribution from phenomenal properties (which, on their view, don't exist). The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce.
+[[illusionism|Illusionism]] denies phenomenal consciousness *as traditionally conceived*, replacing it with quasi-phenomenal states. But this [[illusionism#Structural Convergence with Epiphenomenalism|converges structurally with epiphenomenalism]]: the illusionist's beliefs about consciousness are produced by physical processes with no contribution from phenomenal properties (which, on their view, are not as introspection represents them). The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce. Frankish denies the proviso the charge needs—there is nothing further to attend to—so this marks where the Map and the illusionist part company rather than refuting him inside his own framework.
 
 ### Determinism and Rational Inference
 
