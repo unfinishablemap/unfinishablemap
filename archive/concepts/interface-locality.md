@@ -4,7 +4,7 @@ description: "Why consciousness affects only its own brain: attention is neurall
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-07-31T01:37:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -166,11 +166,11 @@ A prior objection: does quantum selection in the brain even occur? Tegmark's (20
 
 Recent developments complicate this picture:
 
-1. **Revised calculations**: Hameroff's response showed Tegmark assumed incorrect parameters. Corrected models yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—sufficient for attention-timescale selection.
+1. **Revised calculations**: Hagan, Hameroff and Tuszynski (2002) argued Tegmark assumed incorrect parameters. Corrected models yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—longer, but still some three orders of magnitude short of the ~10⁻¹ second timescale on which attention operates.
 
-2. **2024 experimental evidence**: The epothilone B study found microtubule-stabilizing drugs significantly delayed anaesthesia onset, directly testing Orch OR predictions about microtubule-consciousness relationships.
+2. **2024 experimental evidence**: The epothilone B study (Khan et al., 2024) found that a microtubule-stabilizing drug delayed anaesthetic-induced loss of the righting reflex in rats. This establishes that microtubule function affects anaesthetic sensitivity; it does not discriminate between quantum and non-quantum mechanisms.
 
-3. **Alternative mechanisms**: Fisher's Posner molecule hypothesis proposes nuclear spin coherence lasting ~10⁵ seconds, bypassing thermal decoherence entirely.
+3. **Alternative mechanisms**: Fisher's Posner molecule hypothesis proposes phosphorus nuclear spin coherence lasting up to ~10⁵ seconds—a theoretical estimate, not a measurement.
 
 4. **The quantum Zeno sidestep**: [[attention-as-interface|Attention-based selection]] may not require long coherence times. Rapid repeated observation (attention) could hold states against decoherence rather than requiring pre-existing coherence to persist.
 
@@ -202,7 +202,7 @@ Interface locality could be falsified by:
 
 5. **Meditator external effects**: If advanced meditators showed robust ability to influence external systems beyond chance, this would challenge the embodiment constraint.
 
-Current evidence does not support any of these. PEAR lab's extensive research found effect sizes indistinguishable from noise. The boundary remains empirically supported.
+Current evidence does not support any of these. PEAR lab's extensive research found effect sizes indistinguishable from noise. That null record is *consistent with* interface locality rather than positive evidence *for* it—the framework was constructed knowing it.
 
 ## Objections and Responses
 
@@ -216,7 +216,7 @@ Quantum non-locality concerns correlations between measurements, not the ability
 
 **"Some parapsychology studies show small but significant effects."**
 
-Decades of research have produced no reliably replicable effects above statistical noise. The PEAR lab's 28 years of micro-PK research found effect sizes of ~0.0001-0.001—effectively zero for practical purposes. If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality.
+Decades of research have produced no reliably replicable effects above statistical noise. The PEAR lab's 28 years of micro-PK research reported effect sizes of ~0.0001-0.001 (Jahn & Dunne, 2005)—read by PEAR's own investigators as genuine anomalies, but effectively zero by any conventional standard. If the Map's mechanism extended to external systems, effects should be far more robust. Their absence is *consistent with* interface locality rather than positive evidence *for* it.
 
 ## Summary
 
@@ -246,9 +246,11 @@ This article addresses why consciousness *doesn't* act externally. The complemen
 
 ## References
 
-- Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+- Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 - Jahn, R. G., & Dunne, B. J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
 - Fisher, M. P. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

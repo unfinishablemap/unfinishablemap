@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces: quantum se
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-07-31T01:37:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -177,7 +177,7 @@ The quantum sensitivity criterion faces a significant objection: [[decoherence]]
 
 **The response involves three considerations:**
 
-First, the Tegmark-Hameroff debate shows the timescales remain contested. Tegmark's (2000) calculations assumed thermal equilibrium and separation distances inappropriate for living neural tissue. Hameroff's group calculated corrected coherence times seven orders of magnitude longer—10⁻⁵ to 10⁻⁴ seconds rather than 10⁻¹³ seconds. Recent experiments with microtubule-stabilising drugs and room-temperature quantum effects in tubulin support the revised estimates.
+First, the Tegmark-Hameroff debate shows the timescales remain contested. Tegmark's (2000) calculations assumed thermal equilibrium and separation distances inappropriate for living neural tissue. Hagan, Hameroff and Tuszynski (2002) calculated corrected coherence times eight to nine orders of magnitude longer—10⁻⁵ to 10⁻⁴ seconds rather than 10⁻¹³ seconds—though Reimers et al. and McKemmish et al. later contested those parameters, so the dispute is live rather than closed. Experiments with microtubule-stabilising drugs and room-temperature effects in tubulin show that microtubule function matters to anaesthetic sensitivity, but they do not discriminate between quantum and non-quantum mechanisms.
 
 Second, [[quantum-biology]] demonstrates that evolution *can* optimise biological systems for quantum coherence. Avian magnetoreception maintains spin coherence for microseconds—functional timescales, not femtoseconds. If evolution produced quantum compasses in bird eyes, it could produce quantum interfaces in brains.
 
@@ -254,9 +254,9 @@ This complements Interface Locality, which explains why consciousness *doesn't* 
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
-- Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+- Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Stapp, H.P. (2015). A quantum-mechanical theory of the mind-brain connection. In *Beyond Physicalism*, eds. E.F. Kelly et al. Rowman & Littlefield.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+- Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
