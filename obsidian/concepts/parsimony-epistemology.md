@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-07-30T00:09:51+00:00
+ai_modified: 2026-07-31T01:23:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,7 +137,7 @@ The [[von-neumann-wigner-interpretation|von Neumann-Wigner interpretation]] shar
 
 Richard Swinburne offers a provocative inversion: in certain respects, dualism is *simpler* than physicalism. Physicalism's need to explain how consciousness arises from physical processes has generated the proliferation of incompatible theories [catalogued above](#Three%20Dimensions%20of%20Simplicity), each adding machinery to bridge the [[explanatory-gap]] — the proliferation itself evidence of explanatory strain. Dualism takes consciousness at face value, requiring [[psychophysical-laws|psychophysical laws]] but not needing to explain consciousness away.
 
-Ontological parsimony still favours physicalism, but on explanatory adequacy — the dimension most relevant to consciousness — dualism has the advantage; the [[parsimony-case-for-interactionist-dualism|positive parsimony case]] develops this systematically. A deeper self-referential problem haunts the question, explored by the [[epistemological-limits-occams-razor|parsimony void]]: judging whether parsimony is reliable requires parsimony-independent access to the truth — the very thing under dispute.
+Ontological parsimony still favours physicalism; Swinburne's reversal claims that on explanatory adequacy — the dimension he takes to be most relevant to consciousness — dualism has the advantage, a contention the [[parsimony-case-for-interactionist-dualism|positive parsimony case]] develops systematically rather than a verdict this page reaches. A deeper self-referential problem haunts the question, explored by the [[epistemological-limits-occams-razor|parsimony void]]: judging whether parsimony is reliable requires parsimony-independent access to the truth — the very thing under dispute.
 
 ## What Would Refute This View?
 

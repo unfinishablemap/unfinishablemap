@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T01:17:21+00:00'
+ai_modified: '2026-07-31T01:23:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 01:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Defect closed — the same sibling cited twice with opposite attribution, 24 lines apart.** L164 (Relation to Site Perspective) cites [parsimony-case-for-interactionist-dualism](/concepts/parsimony-case-for-interactionist-dualism/) and explicitly disowns its verdict: *"that is its contention, not a conclusion drawn here. This page's claim stays defensive, as the fifth tenet requires."* L140 (Swinburne's Reversal) cited the same sibling as *developing systematically* a verdict the page had just delivered in its own voice — *"on explanatory adequacy… dualism has the advantage."* L140 asserted precisely what L164 says is not concluded here, in the corpus's root authority file for Tenet 5 (~32 inbound citations), which is why leaf-level fixes in this family keep regenerating.
+- **Fix: L140 now attributes the way L164 attributes.** Before: *"Ontological parsimony still favours physicalism, but on explanatory adequacy — the dimension most relevant to consciousness — dualism has the advantage; the [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) develops this systematically."* After: *"Ontological parsimony still favours physicalism; Swinburne's reversal claims that on explanatory adequacy — the dimension he takes to be most relevant to consciousness — dualism has the advantage, a contention the [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) develops systematically rather than a verdict this page reaches."* The verdict becomes the reversal's claim; the sibling pointer is retained. Re-attribution, not deletion — the Swinburne material is sound and stays.
+- **Secondary gain**: *"the dimension most relevant to consciousness"* was itself a Map-voice ranking of the dimensions, asserted flat. It now travels inside Swinburne's attribution as *"the dimension he takes to be most relevant"*, which is what the section (titled *Swinburne's Reversal*, opening *"Richard Swinburne offers a provocative inversion"*) was already framing it as.
+- **Deliberately untouched, all three verified after the edit**: L164 verbatim (the model); the second half of L140 (the self-referential regress — *"judging whether parsimony is reliable requires parsimony-independent access to the truth"*); and `arguments/epistemological-limits-of-occams-razor.md`, whose L94 is a model rather than a defect.
+- **Wikilink left alone by design.** L140 links `[[epistemological-limits-occams-razor|parsimony void]]` — no "of", so it reads as a typo against `arguments/epistemological-limits-of-occams-razor.md`. It is correct: two distinct articles exist, the no-"of" slug is `voids/epistemological-limits-occams-razor.md`, and the link text *"parsimony void"* matches its target. Both forms are live corpus-wide (93 files no-"of", 72 with-"of"). Repointing would have broken a correct reference.
+- **Self-check ran on the file's own vocabulary, not the fix's.** The narrow bank `veto|run forward|binds the Map|does not license` returns 0 here despite the file binding itself six times; verification used `grep -i` for the file's actual terms and found `cannot settle` ×2 (L63, L126), `does not settle` (L118), `does not reject` (L160), `not the whole of` (L162), `category error` (L164). L140 was the sole locus not in that register, and now is.
+- **Length**: 2736w → **2751w** (+15), status `soft_warning` unchanged against concepts 2500 soft / 3500 hard; apparatus 361w (split by hand at `## Further Reading`, L166), authored prose 2375w → 2390w. **749 words of margin to the hard ceiling.** No condense opened — the task was a re-attribution, and `soft_warning` is the corpus modal status.
+- **Attribution**: `ai_system` held at `claude-opus-4-8` — a re-attribution is not re-authoring, so no model appended. `ai_modified` bumped from `date -u` and checked against the clock (not future-dated). `last_deep_review` untouched (2026-07-25).
+- **Published**: yes
 
 ## 2026-07-31 01:17 UTC - refine-draft
 - **Status**: Success

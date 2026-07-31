@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-07-30 00:09:51+00:00
+ai_modified: 2026-07-31 01:23:25+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -141,7 +141,7 @@ The [von Neumann-Wigner interpretation](/concepts/von-neumann-wigner-interpretat
 
 Richard Swinburne offers a provocative inversion: in certain respects, dualism is *simpler* than physicalism. Physicalism's need to explain how consciousness arises from physical processes has generated the proliferation of incompatible theories [catalogued above](#Three%20Dimensions%20of%20Simplicity), each adding machinery to bridge the [explanatory-gap](/concepts/explanatory-gap/) — the proliferation itself evidence of explanatory strain. Dualism takes consciousness at face value, requiring [psychophysical laws](/concepts/psychophysical-laws/) but not needing to explain consciousness away.
 
-Ontological parsimony still favours physicalism, but on explanatory adequacy — the dimension most relevant to consciousness — dualism has the advantage; the [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) develops this systematically. A deeper self-referential problem haunts the question, explored by the [parsimony void](/voids/epistemological-limits-occams-razor/): judging whether parsimony is reliable requires parsimony-independent access to the truth — the very thing under dispute.
+Ontological parsimony still favours physicalism; Swinburne's reversal claims that on explanatory adequacy — the dimension he takes to be most relevant to consciousness — dualism has the advantage, a contention the [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) develops systematically rather than a verdict this page reaches. A deeper self-referential problem haunts the question, explored by the [parsimony void](/voids/epistemological-limits-occams-razor/): judging whether parsimony is reliable requires parsimony-independent access to the truth — the very thing under dispute.
 
 ## What Would Refute This View?
 
