@@ -4,7 +4,7 @@ description: "Knowledge by acquaintance—direct experiential contact with pheno
 created: 2026-02-09
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T05:38:00+00:00
+ai_modified: 2026-07-31T13:07:12+00:00
 draft: false
 archived: true
 archived_date: 2026-04-21T05:38:00+00:00
@@ -128,4 +128,4 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
 1. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.
-1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Chalmers, D. J. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.

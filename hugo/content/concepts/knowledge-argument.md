@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 02:34:53+00:00
+ai_modified: 2026-07-31 13:07:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -195,7 +195,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 1. Alter, T. (2024). *The Matter of Consciousness*. Oxford University Press.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Chalmers, D. J. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
 1. Fox, K. C. R., et al. (2012). "Meditation Experience Predicts Introspective Accuracy." *PLOS ONE*, 7(9), e45370.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.

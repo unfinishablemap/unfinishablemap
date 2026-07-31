@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:50:00+00:00
+ai_modified: 2026-07-31 13:07:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -186,7 +186,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Lewis, D. (1988). What Experience Teaches. *Proceedings of the Russellian Society*, 13, 29-57.
 - Nemirow, L. (1990). Physicalism and the Cognitive Role of Acquaintance. In W. Lycan (ed.), *Mind and Cognition*.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Chalmers, D. (2009). The Two-Dimensional Argument Against Materialism. In *The Character of Consciousness*. Oxford University Press.
+- Chalmers, D. (2010). The Two-Dimensional Argument Against Materialism. In *The Character of Consciousness*. Oxford University Press.
 - Loar, B. (1997). Phenomenal States (Second Version). In N. Block et al. (eds.), *The Nature of Consciousness*.
 - Alter, T. (2024). *The Matter of Consciousness*. Oxford University Press.
 - Ludlow, P., Nagasawa, Y., & Stoljar, D. (eds.) (2004). *There's Something About Mary*. MIT Press.
