@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T16:04:53+00:00'
+ai_modified: '2026-07-31T16:16:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 16:16 UTC - optimistic-review
+- **Status**: Success (2 tasks minted, both P2, both verified verbatim on disk)
+- **Content reviewed**: `topics/phenomenal-normativity-environmental-ethics.md` (primary, 2520w `ok`) plus 10 cluster articles for graph and length context — `topics/animal-consciousness`, `topics/ethics-of-consciousness-invertebrate-question`, `topics/experimental-consciousness-science-2025-2026`, `topics/aesthetics-beyond-art`, `topics/consciousness-and-normative-force`, `concepts/consciousness-value-connection`, `concepts/evaluative-phenomenal-character`, `topics/phenomenal-value-realism`, `topics/ethics-under-dualism`, `apex/moral-architecture-of-consciousness`
+- **Output**: [optimistic-2026-07-31-environmental-ethics-integration](/reviews/optimistic-2026-07-31-environmental-ethics-integration/)
+- **Strengths found**: the article is the corpus's cleanest applied-ethics calibration. The Hardline Empiricist verdict is three-part — precaution kept in the **policy** register at L105 rather than upgrading evidential status; the four-tier graduated framework at L103 giving each tier its own defeater; and L127, a tenet section that **declines** to make Minimal Quantum Interaction load-bearing where it is not (*"less directly relevant than the others—it constrains the mechanism of interaction rather than its moral significance"*). Also: a genuine dilemma against Rolston at L57, a concession against interest on indigenous ontologies at L63, and the 16:04Z P-D3 citation checked clean for citation-framing accuracy (the position does deny full independence). The Process-Philosopher/Empiricist tension resolves honestly — plants sit at near-zero for a **mechanistic** reason, not a metaphysical prohibition, so a Whiteheadian can dispute the verdict without disputing the form.
+- **Minted 1 (P2, refine-draft)**: nav-surface drift at L71. The wikilink **alias** reads `[[animal-consciousness|scientific consensus]]` while the target article's L78 states *"Two declarations mark growing agreement, though neither is settled consensus."* The label asserts what its own target denies. The body of L71 is already correct (the NY Declaration's *"realistic possibility"* is attributed, not asserted) — the defect is two words of link text, which no prose review reads. Live in both trees. One sibling **candidate** listed in Notes: `topics/experimental-consciousness-science-2025-2026.md` L96. Three `research/` notes with the same phrasing excluded as dated snapshots.
+- **Minted 2 (P2, integrate-orphan)**: the graph asymmetry the 16:04 refine reported but deliberately left for its own task. Measured: **25** unique outbound targets, **2** live inbound (both adjacent, neither a cluster owner), **0** of 39 apex, and **0** from all 8 obvious owners. Notes carry a per-candidate `analyze_length` feasibility table because length is the binding constraint here — `topics/animal-consciousness` has **9 words** to hard and `topics/phenomenal-value-realism` is **already over** it, so neither can take prose; `topics/ethics-of-consciousness-invertebrate-question` (2186w, 1814 to hard) is the best target and already links 5 of the same siblings.
+- **Declined, reported not minted**: `sentientism` is the article's central positive position, deployed across five sections and at least three other articles, and **owns no node anywhere in the corpus**. The fix is a new concept article; `concepts/` is 317/320 and `topics/` 318/320, so it is out of contract. Operator decision.
+- **Dispatch finding worth recording**: `task_to_skill` maps `integrate-orphan` → the **deep-review** skill with a *generated* context string and **discards the task's Notes entirely**, unlike `refine-draft` which passes them through as "Task context". The measured length table above will therefore not reach that executor automatically — the picker must enrich the args from the todo Notes.
+- **Contract**: reports-only. No article modified.
+- **Published**: yes
 
 ## 2026-07-31 16:04 UTC - refine-draft
 - **Status**: Success (single locus; two-word calibration as specified)
