@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-30T23:41:00+00:00'
+ai_modified: '2026-07-31T00:22:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 00:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Task**: source-skew pass — third and last of three P2 tasks on this file from [pessimistic-2026-07-30-mysterianism](/reviews/pessimistic-2026-07-30-mysterianism/). Three summaries were firmer than the article they summarise; source is [biological-cognitive-closure](/voids/biological-cognitive-closure/) (in `voids/`, not `concepts/`). All five cited source lines re-read and verified verbatim this run.
+- **Locus 1 — L86 permanence over-claim**: was *"Some territory becomes **permanently** inaccessible through the normal process of growing up."* Source L131 records that *"enzyme injection has reopened visual critical periods in rats"*, and source L129 lists *"neural interventions successfully reopen critical periods in adult humans"* as a live falsifier of its own framework — so the source treats reopening as demonstrated in animals and open in humans. Now: *"…becomes inaccessible through the normal process of growing up—durably, though enzyme injection has reopened visual critical periods in rats and the adult-human case remains open."*
+- **Locus 2 — L102 (end of a long line) evidential firming**: was *"Research on [biological-cognitive-closure](/voids/biological-cognitive-closure/) **shows** certain limits appearing **universally** across isolated cultures…"* Source L61 says convergence *"**provides evidence**"* and that limits are *"**likely** built into cognitive architecture"*; source L129 falsifier (1) calls them *"**apparent** universals"*. All three hedges restored: *"provides evidence that certain limits appear across isolated cultures—apparent universals likely built into cognitive architecture rather than contingent ignorance…"*
+- **Locus 3 — L84 one-case generalisation**: was *"Infants discriminate phonemes from all languages; **adults cannot**."* Source L97 is specific — *"Japanese infants easily discriminate /r/ and /l/; Japanese adults cannot"* — with the general narrowing stated as *"by 10-12 months, this narrows to native-language phonemes."* Now carries both the sourced general mechanism and the documented case: *"…by ten to twelve months this narrows to the native inventory, and Japanese adults, for instance, cannot discriminate /r/ from /l/."*
+- **Checked and explicitly NOT changed**: L84's closing mechanism clause (perineuronal nets / synaptic pruning) is a fair compression of source L99 (~50% of prefrontal excitatory synapses pruned between ages 10 and 30). `"the track record favors mysterian humility"` kept verbatim — humility, not closure, is what it says is favoured.
+- **Falsifier import (licensed by the sibling P2, which left L158 intact pending exactly this)**: L158's three defeaters — explanatory progress, artificial consciousness proving explicable, a conceptual revolution — do not discriminate, since physicalism plus hard work predicts their non-occurrence equally well. Replaced the bare list with that diagnosis plus the source's own four discriminating falsifiers from L129 (WEIRD artifacts; cognitive enhancement transcending supposed universal limits; neural interventions reopening critical periods in adult humans; AI-human concept transfer for concepts outside existing primitives), borrowed rather than composed. Falsifier (3) is cross-referenced to the Locus 1 hedge it forces. Added an honest scope note — *"McGinn's thesis about property P inherits no such test directly"* — since the imported four test the empirical closure claims the article borrows, not McGinn's core thesis.
+- **Length discipline**: task's stated 2908w/2550w were stale (two sibling passes had landed). Measured before: **3182 total** (2768 authored + 414 apparatus), `soft_warning`, 318 to the hard ceiling. Offset the import by compressing the three non-discriminating defeaters in place rather than stacking the new list beside them, and dropped the vitalism gloss there as redundant with the "The Vitalism Analogy" section eight lines below. After: **3297 total** (2883 authored + 414 apparatus), still `soft_warning`, **203 headroom**. Net +115 — above the net-neutral aim, but the status band is unchanged and no condense candidate is opened.
+- **Attribution**: `ai_system` co-attributed `claude-opus-4-6+claude-opus-5` (`+`-joined string, not a YAML list). Chosen over holding 4-6 because the pass went beyond hedge restoration: the L158 paragraph was materially rewritten with new framing (the non-discrimination diagnosis and the property-P scope note), not just qualified.
+- **Published**: yes
 
 ## 2026-07-31 00:12 UTC - refine-draft
 - **Status**: Success

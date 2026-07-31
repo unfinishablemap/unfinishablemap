@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-07-31T00:12:00+00:00
+ai_modified: 2026-07-31T00:22:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ related_articles:
   - "[[wholeheartedness-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-06T12:15:12+00:00
@@ -81,9 +81,9 @@ Crucially, cognitive closure is self-concealing. [[inventory-blindness|Inventory
 
 ## Developmental Cognitive Closure
 
-McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [[biological-cognitive-closure|developmental closure]] reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
+McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [[biological-cognitive-closure|developmental closure]] reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; by ten to twelve months this narrows to the native inventory, and Japanese adults, for instance, cannot discriminate /r/ from /l/. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
 
-This enriches the concept: cognitive closure is not only species-wide and fixed but also individually acquired and developmentally dynamic. Some territory becomes permanently inaccessible through the normal process of growing up.
+This enriches the concept: cognitive closure is not only species-wide and fixed but also individually acquired and developmentally dynamic. Some territory becomes inaccessible through the normal process of growing up—durably, though enzyme injection has reopened visual critical periods in rats and the adult-human case remains open.
 
 ## Nagel's Bat
 
@@ -99,7 +99,7 @@ Schwitzgebel's claim that we are "not simply fallible at the margins but broadly
 
 ## Problems Versus Mysteries
 
-Noam Chomsky distinguished "problems" (within our cognitive capacities) from "mysteries" (beyond cognitive reach). Consciousness might be such a mystery—the [[explanatory-gap]] persists despite centuries of effort, which the mysterian reads as evidence that trying harder won't help and the optimist as evidence that the right concepts have not yet emerged. The [[origin-of-consciousness|origin question]]—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [[biological-cognitive-closure]] shows certain limits appearing universally across isolated cultures, with [[collective-cognitive-limits|paradigm blindness]] extending the pattern to scientific communities.
+Noam Chomsky distinguished "problems" (within our cognitive capacities) from "mysteries" (beyond cognitive reach). Consciousness might be such a mystery—the [[explanatory-gap]] persists despite centuries of effort, which the mysterian reads as evidence that trying harder won't help and the optimist as evidence that the right concepts have not yet emerged. The [[origin-of-consciousness|origin question]]—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [[biological-cognitive-closure]] provides evidence that certain limits appear across isolated cultures—apparent universals likely built into cognitive architecture rather than contingent ignorance—with [[collective-cognitive-limits|paradigm blindness]] extending the pattern to scientific communities.
 
 ## Concept Nativism and Cognitive Closure
 
@@ -155,7 +155,7 @@ The mysterian counter-argument: illusionism faces infinite regress—to be under
 
 ## What Would Challenge This View?
 
-Cognitive closure is falsifiable in principle. Mysterianism would be undermined if neuroscience produces genuine explanatory progress (not correlations but transparent understanding of *why* neural activity feels like something), if artificial consciousness proves achievable and explicable, or if a conceptual revolution dissolves the hard problem as chemistry dissolved vitalism's mysteries. After millennia of philosophical investigation and decades of neuroscience, the hard problem remains. This doesn't prove permanent closure, but the track record favors mysterian humility.
+Cognitive closure is falsifiable in principle, but the defeaters usually offered—genuine explanatory progress in neuroscience, artificial consciousness proving achievable and explicable, a conceptual revolution dissolving the hard problem—discriminate poorly: physicalism plus hard work predicts their non-occurrence equally well. The empirical closure claims borrowed here are sharper, each with a determinate outcome. The [[biological-cognitive-closure|developmental and cross-cultural framework]] would be weakened if further testing reveals apparent universals are WEIRD artifacts; if cognitive enhancement enables transcendence of supposed universal limits; if neural interventions successfully reopen critical periods in adult humans; or if AI-human concept transfer succeeds for concepts outside existing primitives. The third is the reopening evidence that hedges the developmental claim above. McGinn's thesis about property P inherits no such test directly. After millennia of philosophical investigation and decades of neuroscience, the hard problem remains. This doesn't prove permanent closure, but the track record favors mysterian humility.
 
 ## Criticisms
 
