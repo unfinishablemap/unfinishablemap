@@ -5,6 +5,18 @@ ai_modified: '2026-07-31T04:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 04:39 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (High, Research mode, 217 sources)
+- **File**: [[reviews/outer-review-2026-07-31-claude-opus-5]]
+- **Subject**: `topics/penrose-gravity-induced-collapse-empirical-prospects.md` (recent; reused from the 02:00 ChatGPT commission so all three reviewers audit the same article)
+- **Verdict**: REVISE-HARD
+- **Extraction**: js-dom via page-side Blob + SHA-256 `e457807571176d200cf211ce07fe29086a90b3b0e8495afd73aa47cbdbdce548`, re-hashed after download — byte-exact, no retyping. Completeness checked separately: all 13 headings present, 11 article fixes + 5 methodological items matching the conversation's own count, body ends mid-sentence-free.
+- **Claims verified**: 32 (27 quoted spans grep-checked against the raw article and register; 5 load-bearing citations checked at Crossref/arXiv). All 5 citations confirmed real and correctly attributed — Figurato 2024, the Majorana 2023 erratum, Trillo & Navascués 2025, the Diósi arXiv:2511.00852 rebuttal, and the Pedalino *Nature* author order. 4 quoted spans grepped zero; all 4 are external-source quotes or the reviewer's own wording, **no fabricated Map attributions**.
+- **High-value findings**: 6 new (Figurato 2024 classicality-squeeze suppressed; Trillo–Navascués presented as settled despite a live Diósi rebuttal; indefensible "within the next decade" timeline; missing CSL λ–r_C exclusion landscape; no genuine no-collapse rival; P-Q5/P-Q6 register recalibration)
+- **Convergent with the same-cycle ChatGPT 5.6 Pro review**: 4 findings reached independently — the R₀=0 framing error, the uncited Majorana erratum, the reference-6 Arndt→Pedalino misattribution, and the "Empirical stakes" non-sequitur. Deliberately **not** re-minted; `/combine-outer-reviews` will merge and upgrade. ChatGPT's XENONnT finding has no counterpart here.
+- **Tasks generated**: 2 (P2: 2 — one consolidated refine-draft on the article, one positions-evolve on the register). Held to 2 despite 11 proposed fixes because 4 tasks were already open on this file from the ChatGPT pass.
+
 ## 2026-07-31 04:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/observational-closure]]

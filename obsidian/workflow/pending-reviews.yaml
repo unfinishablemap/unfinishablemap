@@ -407,9 +407,9 @@
   prompt_summary: Hostile-referee audit of Penrose gravity-induced collapse empirical
     prospects
   target_filename: outer-review-2026-07-31-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-07-31T04:36:16.629760+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a hostile-referee audit of one article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy site: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
