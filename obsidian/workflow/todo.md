@@ -1964,7 +1964,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: check-tenets 2026-07-30
 - **Generated**: 2026-07-30
 
-### P3: attention-as-causal-bridge.md L66 uses "Consciousness is along for the ride" — the exact phrase Tenet 3's Rules-out clause bans — in Map voice
+### P2: attention-as-causal-bridge.md L66 uses "Consciousness is along for the ride" — the exact phrase Tenet 3's Rules-out clause bans — in Map voice
 - **Type**: refine-draft
 - **File**: obsidian/apex/attention-as-causal-bridge.md
 - **Status**: pending

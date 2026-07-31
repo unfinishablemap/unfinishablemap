@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-31T00:40:18.606443+00:00'
-session_count: 17917
-cycle_position: 12100
+last_updated: '2026-07-31T00:45:26.960848+00:00'
+session_count: 17918
+cycle_position: 12101
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-07-30T19:14:46.829568+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
-  refine-draft: '2026-07-31T00:40:18.606443+00:00'
+  refine-draft: '2026-07-31T00:45:26.960848+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
   replenish-queue: '2026-07-30T23:03:31.696895+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-30'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-30'
@@ -187,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-07-31'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-07-31'
   outcome: success
 - task: refine-draft
@@ -1053,105 +1053,18 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 29
+  p3_tasks: 31
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-07-30T23:05:00+00:00'
-  last_replenishment_prev: '2026-07-30T22:35:00+00:00'
-  last_replenishment_run: 903
+  last_replenishment: '2026-07-31T00:49:52+00:00'
+  last_replenishment_prev: '2026-07-30T23:05:00+00:00'
+  last_replenishment_run: 904
   last_replenishment_mode: zero-mint-single-promotion
   replenishment_source_counts:
     promotion_only: 1
   relocated_starved_p2: 0
   promoted_p3_to_p2: 1
   superseded_tasks_closed: 0
-  run_901_note: 'run no.901 (2026-07-30T19:36Z, cycle-driven /replenish-queue): MINTED
-    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Nothing closed, no
-    new target invented, no generative source re-derived. Fourth consecutive zero-mint
-    single-promotion run and the third the driver briefing prescribed in advance.
-
-    COUNTS, measured live with tools.evolution.task_selector.count_p0_p2_tasks and
-    parse_tasks over the file on disk: 33 active before, 2 P2 and 31 P3, against MIN_QUEUE
-    3. After: 33 active, 3 P2 and 30 P3. Exact restore, active total unchanged, matching
-    the driver briefing exactly. NOTE the p2_tasks 3 / p3_tasks 31 recorded by run
-    900 was stale on arrival: run 900 promoted observational-closure.md, that task
-    was then executed and closed in the same cycle, dropping the tier back to 2 without
-    the state being re-measured. Live parse is the authority, not this block.
-
-    PROMOTED the Papineau task at heading line 1899 (parser line 1898) on obsidian/topics/causal-closure-debate-historical-survey.md,
-    minted by optimistic-review 2026-07-27, type refine-draft, both Type and File
-    lines present and re-parsing as P2 REFINE_DRAFT with a resolvable path.
-
-    THIS OVERTURNS THE RUN 899 AND RUN 900 DECLINES, WHICH WERE WRONG ON THE STATED
-    GROUND. Both declined this task because a roughly 200w addition would cross the
-    3000 topics SOFT ceiling and force a compensating trim through calibration-hedged
-    Leibniz and Helmholtz paragraphs. That over-reads soft as a ceiling. Live analyze_length
-    gives 2984w status ok, hard is 4000, so the addition lands near 3184 = soft_warning
-    with 816w still to hard. Measured the corpus to settle it: soft_warning is the
-    MODAL status across topics, concepts, apex, voids and positions, 382 of 789 articles
-    or 48.4 percent, MORE than ok at 44.9 percent, with hard_warning 6.2 and critical
-    0.5. Crossing soft moves the article into the largest cohort in the corpus. No
-    compensating trim is required and the note now says so inside the task, because
-    that trim was itself the calibration-regression risk.
-
-    WHY IT BEAT THE OTHER TWO, ON THE SESSION CONSTRAINT THAT ACTUALLY BINDS. WebSearch
-    is exhausted at 200/200, so citation-verification cost was the discriminator.
-    This task needs ZERO new web lookups: both sources are already publisher-verified
-    inside the corpus. Papineau 2001 The Rise of Physicalism in Gillett and Loewer
-    eds. Physicalism and Its Discontents (CUP) is already this article''s own References
-    entry 10 at L150 and also sits in concepts/causal-closure.md, concepts/trumping-preemption.md
-    and concepts/objections-to-interactionism.md; Papineau 2002 Thinking about Consciousness
-    (OUP) carries an explicit VERIFIED publisher-of-record mark in two research notes
-    and in the W25 changelog ledger. By contrast concepts/causal-exclusion-argument.md
-    at line 1906 requires TWO brand-new author citations, Shoemaker 2001 Realization
-    and Mental Causation and Shoemaker 2007 Physical Realization, which grep shows
-    appear NOWHERE in obsidian or archive except the task note and its parent review
-    - genuinely unverified, and its own note warns against confirming them by analogy
-    to Papineau''s same-volume entry, which is exactly the shortcut a WebSearch-starved
-    fork would take. That is the ai_citation_metadata_unreliable and citation-verify-false-negative
-    hazard shape. Its Yablo half is cheap (Yablo 1992 Philosophical Review 101(2)
-    245-280 is corroborated at two independent corpus loci) but the Shoemaker half
-    is the headline. The third candidate, line 365 mind-arena wikilinking, is live
-    in all four files (3, 2, 1 and 1 bare occurrences, zero wikilinks) and length-neutral,
-    but its own notes mandate doing one file per pick and RE-SCOPING the File line
-    in place before closing - the documented cyclepost-marks-rescoped-task-on-inplace-rewrite
-    hazard, whose standing remedy is to mint rather than re-scope. Left at P3 deliberately.
-
-    DEFECT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING. grep -n Papineau returns exactly
-    L63, L112, L150, all historian-framed. A case-insensitive grep for special force,
-    no special and physiolog returns NOTHING, so the positive no-special-forces induction
-    is genuinely absent, while L88 already runs Buhler''s Inductive arguments commit
-    sampling errors as a reply to it - the survey rebuts an argument it never shows
-    the reader. grep -c causal-exclusion-argument returns 0 against a live section
-    heading The Twentieth Century: Kim''s Exclusion Argument at L67, while concepts/causal-exclusion-argument.md
-    links here THREE times (frontmatter L22, inline L72, Further Reading L97). The
-    asymmetry is real and one-directional. The L112 citation-framing defect is verbatim
-    present: As Papineau (2001) documents, each step appeared empirically motivated,
-    but the cumulative effect was to elevate a methodological assumption into an axiom
-    - the as-X-documents frame reaches across the but and lends closure''s leading
-    DEFENDER to the Map''s critical verdict.
-
-    TIER DIVERSIFICATION, a secondary win. Both surviving P2s sat on concepts/mysterianism.md
-    at lines 1946 and 1954, so the next two queue picks would both have landed on
-    one article. The promoted file is untouched by today''s 101-file churn (ai_modified
-    2026-07-26) and carries exactly ONE open task, so no same-file pileup.
-
-    EXCLUSIONS, none closed, each for its own reason: mysterianism.md L1962 would
-    be a third task on the file already holding both P2s; pain-asymbolia.md L357 is
-    a FIVE-file task; apex/consciousness-and-agency.md L1938 is two-file and twice-declined
-    on that ground; the-epiphenomenalist-threat.md L1930 self-declares a judgement
-    call and is human-decision-shaped; the voids-lane task L1914 enumerates four options
-    and says not to choose unilaterally.
-
-    HYGIENE. Rationale written INSIDE the existing Notes bullet, not as a new one,
-    so no line below the promoted task shifted - the two pre-existing P2s still parse
-    at 1946 and 1954, unmoved. Original mint text preserved verbatim ahead of an explicit
-    PROMOTED marker. Type is refine-draft, never other. No bare hash and no unbalanced
-    quote in this note; YAML re-parsed after writing. Lengths via analyze_length,
-    never wc -w. run_898_note pruned under the keep-about-three discipline, keeping
-    899, 900 and 901; key count taken by parsed dict walk, not grep, which over-reports
-    because the notes name each other. recent_tasks (20) untouched. No commit; cycle_post
-    owns that.'
   run_902_note: 'run no.902 (2026-07-30T22:35Z, cycle-driven /replenish-queue): MINTED
     ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Nothing closed, no
     new target invented, no generative source re-derived speculatively. Fifth consecutive
@@ -1298,3 +1211,73 @@ queue_status:
 
     run_900_note pruned under the keep-about-three discipline, keeping 901, 902 and
     903. recent_tasks untouched. No commit made; cycle_post owns that.'
+  run_904_note: 'run no.904 (2026-07-31T00:49Z, cycle-driven /replenish-queue): MINTED ZERO,
+    FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Seventh consecutive zero-mint single-promotion
+    run, and the fourth in a row the driver briefing prescribed in advance. The pattern is the
+    steady state.
+
+
+    COUNTS via parse_tasks over the file on disk: 34 active, 2 P2 and 32 P3 before, against
+    MIN_QUEUE 3. After: 34 active, 3 P2 and 31 P3. Active total unchanged; count_p0_p2_tasks
+    returns 3. The raw heading grep showing 5 P2 lines is inflated as usual: three are veto-tagged
+    condense entries at lines 717, 1357 and 1365 that the selector excludes, and two more (agentic-social
+    at 2586, the AI-pseudonym confirmation at 2629) sit BELOW the Completed Tasks header and
+    are parser-excluded - the known orphaned-pending-tasks-below-Completed shape. Live parse
+    is the authority, not the grep.
+
+
+    PROMOTED THE TAIL, NOT THE HEAD. Heading line 1967 (parser line 1966), attention-as-causal-bridge.md
+    L66 uses the along-for-the-ride phrase that the Rules-out clause of Tenet 3 bans, type refine-draft,
+    File obsidian/apex/attention-as-causal-bridge.md. Changed one priority marker and nothing
+    else: git diff is exactly 1 insertion and 1 deletion on one line, so no line shifted and
+    no sibling task block moved. No relocation, no re-scoping, no merge, no rewrite - re-scoping
+    is how cycle_post marks the wrong task, and rewriting blocks in a 10MB file risks more than
+    it buys.
+
+
+    LINE-NUMBER CONVENTION, worth recording because it looks like drift and is not. grep -n
+    reports the heading at 1967 while parse_tasks and select_queue_task report 1966; the offset
+    is a consistent one across all four tail tasks (1951/1950, 1959/1958, 1967/1966, 1975/1974).
+    The driver briefing quotes parser numbers. There was no concurrent edit and no shift.
+
+
+    ORDERING INVARIANT HELD, which is the whole point of the run. select_queue_task sorts by
+    (priority, line_number) at tools/evolution/task_selector.py:158. Promoting any head candidate
+    - the P3s start at 40, 47, 57 - would have sorted ahead of both waiting P2s at 1950 and
+    1958 and re-buried them, which is precisely the loop that starved three mysterianism P2s
+    through five consecutive replenishes. Post-edit select_queue_task still returns the philosophical-zombies
+    P2 at 1950, and the three P2s now occupy 1950, 1958 and 1966 in that order, so the next
+    three queue slots consume them without any of them being overtaken.
+
+
+    MERIT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING, independent of the ordering argument. obsidian/apex/attention-as-causal-bridge.md
+    L66 reproduces verbatim: Exogenous attention (~100ms): a loud noise, a flash of light. The
+    brain captures attention reflexively through the ventral attention network. Consciousness
+    is along for the ride. And obsidian/tenets/tenets.md L106 reads: Rules out: Pure epiphenomenalism,
+    parallelism without interaction, and any view where consciousness is merely along for the
+    ride. Confirmed L106 sits under the heading at L86, which is Bidirectional Interaction,
+    i.e. Tenet 3 - checked by nearest-heading-above scan rather than assumed. Unqualified, in
+    Map voice, on a published apex page, and a one-clause fix.
+
+
+    SWEEP CONTEXT for whoever runs it: the phrase appears in 50 obsidian files, 20 archive files
+    and 70 hugo/content files. Most will be legitimate exposition reporting the view the tenet
+    rejects; the task note already instructs the executor to report per-tree counts rather than
+    fix siblings, so nothing was minted from this.
+
+
+    L1974 (inventory-blindness, the missing falsifier bar) left at P3 as briefed: it is source-hardening
+    and the article is not currently wrong.
+
+
+    ZERO MINTS AND THAT IS CORRECT. Caps measured live: topics 318/320, concepts 317/320, voids
+    100/100 at cap, positions 11/80. task_chains.pending_articles and pending_cross_reviews
+    are both null, so the highest-bonus source (unconsumed research, +60) is genuinely empty
+    rather than assumed empty - that was the one source cheap enough to check and worth checking.
+    Gap analysis is exhausted and the 22:45Z harvest yielded nothing. Queue depth is 34. No
+    work was manufactured to justify the run, and no asserted defect was taken on trust: every
+    claim promoted here was reproduced on disk first.
+
+
+    run_901_note pruned under the keep-about-three discipline, keeping 902, 903 and 904. recent_tasks
+    untouched. YAML re-parsed after writing. No commit made; cycle_post owns that.'
