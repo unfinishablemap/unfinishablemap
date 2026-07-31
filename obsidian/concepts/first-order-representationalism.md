@@ -4,7 +4,7 @@ description: "The Tye/Dretske thesis that phenomenal character just is first-ord
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-29T10:05:26+00:00
+ai_modified: 2026-07-31T13:45:06+00:00
 last_deep_review: 2026-07-29T10:05:26+00:00
 draft: false
 topics:
@@ -124,7 +124,7 @@ The honest counterweight: the representationalist has real advantages the Map sh
 - [[phenomenal-concepts-strategy]] — Where the physicalist reply shifts from content to concepts
 - [[explanatory-gap]] — The gap the Map argues representationalism relocates rather than closes
 - [[hard-problem-of-consciousness]] — The problem first-order representationalism promises to dissolve
-- [[illusionism]] — The more radical reductive neighbour that denies phenomenal properties outright
+- [[illusionism]] — The more radical reductive neighbour that denies phenomenal properties
 - [[tenets]] — The Map's foundational commitments
 
 ## References

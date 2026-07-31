@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-29 10:05:26+00:00
+ai_modified: 2026-07-31 13:45:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -127,7 +127,7 @@ The honest counterweight: the representationalist has real advantages the Map sh
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Where the physicalist reply shifts from content to concepts
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap the Map argues representationalism relocates rather than closes
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem first-order representationalism promises to dissolve
-- [illusionism](/concepts/illusionism/) — The more radical reductive neighbour that denies phenomenal properties outright
+- [illusionism](/concepts/illusionism/) — The more radical reductive neighbour that denies phenomenal properties
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

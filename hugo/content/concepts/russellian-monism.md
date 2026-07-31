@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-25 05:36:36+00:00
+ai_modified: 2026-07-31 13:45:06+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -156,7 +156,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — Direct comparison with the Map's bi-aspectual dualism
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Why Russellian monism's variants span opposing quadrants on the thickness axis
 - [combination-problem](/concepts/combination-problem/) — The central challenge for Russellian panpsychism
-- [illusionism](/concepts/illusionism/) — The rival view denying phenomenal properties exist
+- [illusionism](/concepts/illusionism/) — The rival view denying phenomenal properties
 - [mysterianism](/concepts/mysterianism/) — Whether cognitive closure explains the combination problem
 - [reflexive-methodology](/concepts/reflexive-methodology/) — The Map's method: Cutter's instability as its transcendental-recoil instance
 

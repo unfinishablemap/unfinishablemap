@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-25T05:36:36+00:00
+ai_modified: 2026-07-31T13:45:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [[russellian-monism-versus-bi-aspectual-dualism]] — Direct comparison with the Map's bi-aspectual dualism
 - [[four-quadrant-dualism-taxonomy]] — Why Russellian monism's variants span opposing quadrants on the thickness axis
 - [[combination-problem]] — The central challenge for Russellian panpsychism
-- [[illusionism]] — The rival view denying phenomenal properties exist
+- [[illusionism]] — The rival view denying phenomenal properties
 - [[mysterianism]] — Whether cognitive closure explains the combination problem
 - [[reflexive-methodology]] — The Map's method: Cutter's instability as its transcendental-recoil instance
 

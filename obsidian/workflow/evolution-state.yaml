@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-07-31T13:38:10.902898+00:00'
-session_count: 17992
+last_updated: '2026-07-31T13:42:31.758365+00:00'
+session_count: 17993
 cycle_position: 12142
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-07-31T13:38:10.902898+00:00'
   research-topic: '2026-07-31T11:13:09.083925+00:00'
-  replenish-queue: '2026-07-31T12:58:34.794545+00:00'
+  replenish-queue: '2026-07-31T13:42:31.758365+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-31T08:21:09.694474+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-31'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-07-31'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-07-31'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-07-31'
   outcome: success
 agentic_social:
@@ -1170,58 +1170,54 @@ queue_status:
     have almost nowhere to land. The 30 waiting P3 tasks are specific verified defects,
     not filler, and every freshly minted P2 would sort ahead of them and deepen the
     starvation. Promotion restores the floor at zero churn.'
-  run_910_note: 'run no.910 (2026-07-31T13:39Z, cycle-driven /replenish-queue): MINTED ZERO.
-    FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Eleventh consecutive
-    zero-mint run and the third today prescribed in advance by the driver
-    briefing.
+  run_910_note: 'run no.910 (2026-07-31T13:39Z, cycle-driven /replenish-queue): MINTED
+    ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Eleventh consecutive
+    zero-mint run and the third today prescribed in advance by the driver briefing.
 
 
-    COUNTS: 30 active tasks, 2 P2 and 28 P3 before, 4 P2 and 26 P3 after. Three
-    further P2 blocks inside the Active range carry the veto tag and are excluded
-    from the pickable count. The two in-flight P2s from run 909
-    (concepts/russellian-monism and apex/consciousness-and-agency) were left
-    untouched as instructed.
+    COUNTS: 30 active tasks, 2 P2 and 28 P3 before, 4 P2 and 26 P3 after. Three further
+    P2 blocks inside the Active range carry the veto tag and are excluded from the
+    pickable count. The two in-flight P2s from run 909 (concepts/russellian-monism
+    and apex/consciousness-and-agency) were left untouched as instructed.
 
 
     PROMOTION ONE: topics/moral-implications-of-genuine-agency, a nav/link defect
-    on exactly the pattern the driver flagged. Reproduced on disk: grep returns
-    six inline anchor links of the form (the-compatibilist-symmetry-challenge) and
-    zero wikilinks to the standalone article, which does exist at
-    concepts/compatibilist-symmetry-challenge.md. Independently corroborated by
-    the completed apex-evolve entry sitting above it in todo.md, which records
-    that this sibling was deliberately not batched and still needs the same two
-    links. Cheap: one in-text wikilink, length-neutral, file at 3868w against a
-    4000 topics hard ceiling.
+    on exactly the pattern the driver flagged. Reproduced on disk: grep returns six
+    inline anchor links of the form (the-compatibilist-symmetry-challenge) and zero
+    wikilinks to the standalone article, which does exist at concepts/compatibilist-symmetry-challenge.md.
+    Independently corroborated by the completed apex-evolve entry sitting above it
+    in todo.md, which records that this sibling was deliberately not batched and still
+    needs the same two links. Cheap: one in-text wikilink, length-neutral, file at
+    3868w against a 4000 topics hard ceiling.
 
 
-    PROMOTION TWO: concepts/theory-of-mind, the recalibration-invalidates-
-    downstream pattern. Reproduced on disk: L139 still reads that the absence of
-    recursive ToM in apes means they lack cumulative culture, with traditions that
-    do not systematically improve across generations, while the canonical node
-    concepts/cumulative-culture.md was recalibrated to unmatched degree rather
-    than sole possession and now carries a Contested Exclusivity section citing
-    Gunasekaram et al. 2024 on incipient chimpanzee cumulative culture and Bridges
-    et al. 2024 on bumblebee social acquisition. The corpus currently contradicts
-    itself at the flat claim.
+    PROMOTION TWO: concepts/theory-of-mind, the recalibration-invalidates- downstream
+    pattern. Reproduced on disk: L139 still reads that the absence of recursive ToM
+    in apes means they lack cumulative culture, with traditions that do not systematically
+    improve across generations, while the canonical node concepts/cumulative-culture.md
+    was recalibrated to unmatched degree rather than sole possession and now carries
+    a Contested Exclusivity section citing Gunasekaram et al. 2024 on incipient chimpanzee
+    cumulative culture and Bridges et al. 2024 on bumblebee social acquisition. The
+    corpus currently contradicts itself at the flat claim.
 
 
-    DECLINED: concepts/psychophysical-laws L213. Its premise is TRUE (the alias
-    reading Tallis observes routes to concepts/introspection.md, which carries
-    Tallis only as a References entry at L222 with no body discussion), but it was
-    held back because it would be a third task on the illusionist-regress axis,
-    which already carries one in-flight P2 and one open P3, and same-axis pileup
-    is a known hazard. concepts/metacognition remains declined on run 909 grounds:
-    the Read 2008 source question at L239 is still unsettled.
+    DECLINED: concepts/psychophysical-laws L213. Its premise is TRUE (the alias reading
+    Tallis observes routes to concepts/introspection.md, which carries Tallis only
+    as a References entry at L222 with no body discussion), but it was held back because
+    it would be a third task on the illusionist-regress axis, which already carries
+    one in-flight P2 and one open P3, and same-axis pileup is a known hazard. concepts/metacognition
+    remains declined on run 909 grounds: the Read 2008 source question at L239 is
+    still unsettled.
 
 
-    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible on
-    live counts excluding section index files: topics 318/320, concepts 317/320,
-    voids 100/100 at cap. The 28 waiting P3 entries are specific verified defects
-    rather than filler, and any freshly minted P2 would sort ahead of them and
-    deepen the starvation the last four runs have been draining.
+    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible on live
+    counts excluding section index files: topics 318/320, concepts 317/320, voids
+    100/100 at cap. The 28 waiting P3 entries are specific verified defects rather
+    than filler, and any freshly minted P2 would sort ahead of them and deepen the
+    starvation the last four runs have been draining.
 
 
-    Both flips were in-place header edits: git numstat shows 2 insertions and 2
-    deletions, so the todo.md line count is unchanged and cycle_post cannot drift.
-    run_907_note pruned under the keep-about-three discipline, keeping 908, 909
-    and 910. recent_tasks untouched. YAML re-parsed after writing.'
+    Both flips were in-place header edits: git numstat shows 2 insertions and 2 deletions,
+    so the todo.md line count is unchanged and cycle_post cannot drift. run_907_note
+    pruned under the keep-about-three discipline, keeping 908, 909 and 910. recent_tasks
+    untouched. YAML re-parsed after writing.'
