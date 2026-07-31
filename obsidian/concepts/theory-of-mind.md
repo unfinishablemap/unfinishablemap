@@ -4,7 +4,7 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-07-31T09:48:59+00:00
+ai_modified: 2026-07-31T14:19:53+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[working-memory]]"
   - "[[global-workspace-theory]]"
   - "[[teaching-as-metarepresentation]]"
+  - "[[cumulative-culture]]"
   - "[[intentionality]]"
   - "[[illusionism]]"
   - "[[unity-of-consciousness]]"
@@ -27,7 +28,7 @@ related_articles:
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-22
 last_curated: null
 last_deep_review: 2026-07-17T00:50:52+00:00
@@ -130,13 +131,13 @@ Great apes present the critical test case. They possess sophisticated social cog
 - Explicit false-belief understanding (contested evidence, methodological concerns)
 - Recursive mindreading (no clear evidence)
 - Teaching that requires representing others' knowledge states as knowledge states
-- Cumulative cultural transmission (they have traditions but don't systematically improve on them)
+- Cumulative cultural transmission at human scale (traditions remain largely stable across generations, though the categorical version of this claim is now contested—see below)
 
 The pattern suggests apes may possess Level 1 theory of mind—and possibly some implicit Level 2 capacity—while lacking Level 3. This maps onto the metarepresentational threshold: they track others' behaviour, perceptions, and perhaps beliefs without representing these *as* mental states subject to evaluation and recursive embedding.
 
 Michael Tomasello's extensive comparative research supports this interpretation. Great apes possess "individual intentionality" but lack the "[[consciousness-and-collective-phenomena|shared intentionality]]" that characterises human social cognition. Shared intentionality requires knowing that both parties know they're engaged in a joint activity—a recursive structure that may exceed ape capacity.
 
-The absence of recursive ToM in apes has downstream consequences: they lack cumulative culture (traditions exist but don't systematically improve across generations), pedagogy requiring the teacher to model the learner's knowledge state, and moral cognition requiring attribution of responsibility for intentional actions. These uniquely human capacities may all depend on the consciousness-enabled metarepresentational threshold.
+The absence of recursive ToM in apes has downstream consequences: [[cumulative-culture]], pedagogy requiring the teacher to model the learner's knowledge state, and moral cognition requiring attribution of responsibility for intentional actions. The first of these no longer marks a clean categorical boundary ([[cumulative-culture#contested-exclusivity|contested exclusivity]]). Comparing chimpanzee population networks built from genetic markers of recent migration against networks built from shared cultural traits, Gunasekaram et al. (2024) argue that limited group connectivity favoured "the emergence of a few instances of cumulative culture in chimpanzees," and ask why it remained *incipient*—a population-level inference from the distribution of complex foraging techniques rather than a direct observation of one generation refining the previous generation's technique. Bridges et al. (2024) showed bumblebees learning a two-step puzzle box from trained demonstrators despite failing to solve it alone across up to 24 days, which establishes social acquisition of a behaviour beyond individual innovation—one component of the human pattern—not accumulation across generations. Neither result overturns the metarepresentation hypothesis, and neither claims to; both narrow the ground under the flat exclusivity claim, which is why the human case is better stated as unmatched degree than as sole possession. At that scale, these capacities may all depend on the consciousness-enabled metarepresentational threshold.
 
 ## AI and Theory of Mind
 
@@ -218,7 +219,9 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ## References
 
 1. Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
+1. Bridges, A.D., Royka, A., Wilson, T., Lockwood, C., Richter, J., Juusola, M., & Chittka, L. (2024). Bumblebees socially learn behaviour too complex to innovate alone. *Nature*, 627(8004), 572-578.
 1. Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
+1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. Heyes, C. (2014). Submentalizing: I am not really reading your mind. *Perspectives on Psychological Science*, 9(2), 131-143.
 1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
 1. Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.
