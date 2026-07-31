@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 12:50:30+00:00
+ai_modified: 2026-07-31 13:28:57+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 coalesced_from:
@@ -48,7 +48,7 @@ topics:
 - '[[eastern-philosophy-consciousness]]'
 ---
 
-The Unfinishable Map treats neurophenomenology and contemplative neuroscience as a single research programme: the systematic integration of first-person phenomenological reports with third-person neuroscience. Francisco Varela proposed the framework; meditation research has empirically vindicated it. Contemplative training produces measurable functional changes—altered network connectivity, modulated default mode activity, improved attentional performance—through a causal pathway running from conscious intention through deliberate practice to neural reorganisation. Earlier claims of structural changes (cortical thickening, grey matter density increases) have been challenged by Kral et al. (2022), whose well-powered replication (218 participants, active controls) found no structural brain changes from mindfulness-based stress reduction. The functional effects nonetheless provide suggestive evidence for [bidirectional-interaction](/concepts/bidirectional-interaction/): if [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were causally inert, deliberate attention training should not produce these effects.
+The Unfinishable Map treats neurophenomenology and contemplative neuroscience as a single research programme: the systematic integration of first-person phenomenological reports with third-person neuroscience. Francisco Varela proposed the framework; meditation research has empirically vindicated it. Contemplative training produces measurable functional changes—altered network connectivity, modulated default mode activity, improved attentional performance—through a causal pathway running from conscious intention through deliberate practice to neural reorganisation. Earlier claims of structural changes (cortical thickening, grey matter density increases) have been challenged by Kral et al. (2022), whose two combined randomised controlled trials (218 participants, active controls) found no structural brain changes from mindfulness-based stress reduction. The functional effects nonetheless provide suggestive evidence for [bidirectional-interaction](/concepts/bidirectional-interaction/): if [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were causally inert, deliberate attention training should not produce these effects.
 
 The programme also reveals consciousness structures invisible to ordinary introspection. Trained meditators distinguish experiential states with precision unavailable to naive subjects, and those distinctions correspond to measurable neural differences. If advanced meditators can access phenomenal states with no third-person equivalent, and trained introspection reveals complexity neuroscience cannot predict, then materialism faces a fundamental limitation: the data itself requires methods physics cannot supply.
 
@@ -226,6 +226,7 @@ None demonstrated—but the falsifiers differ sharply in how much testing they h
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Garrison, K.A. et al. (2015). Meditation leads to reduced default mode network activity beyond an active task. *Cognitive, Affective, & Behavioral Neuroscience*, 15(3), 712-720.
+1. Kral, T. R. A., Davis, K., Korponay, C., Hirshberg, M. J., Hoel, R., Tello, L. Y., Goldman, R. I., Rosenkranz, M. A., Lutz, A., & Davidson, R. J. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 1. Laukkonen, R.E. et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*, 280, 61-87.
 1. Lazar, S.W. et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
 1. Lutz, A., Greischar, L.L., Rawlings, N.B., Ricard, M., & Davidson, R.J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.

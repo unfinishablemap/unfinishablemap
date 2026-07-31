@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T12:34:45+00:00'
+ai_modified: '2026-07-31T13:29:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 13:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/contemplative-path]] (primary); sibling loci [[concepts/neurophenomenology-and-contemplative-neuroscience]] and `archive/concepts/mental-causation.md`
+- **Scope**: sibling sweep closing the two defect families identified by the 13:20 deep-review of [[topics/contemplative-practice-as-philosophical-evidence]]. No WebSearch used; both source claims were already ledgered at the publisher (Crossref, Europe PMC, PMC full text) in that review, and the verbatim entries were carried over rather than re-derived.
+- **Family A — Lutz 2004 flat over-claim, one locus** (`obsidian/apex/contemplative-path.md` L137). Two errors, both fixed in the claim wording:
+  - *"gamma-synchrony signatures that novices do not produce"* is contradicted by the paper's own Results — the gamma-to-slow ratio increase exceeded twice baseline SD "for two controls and all of the practitioners" (8 practitioners, 10 week-trained controls). Re-scoped to the group-level difference the study supports, with the two-control exception stated.
+  - *"reported states track… signatures"* mis-framed a between-group EEG comparison that collected no phenomenological reports. The report-guides-neural-analysis claim now carries its correct source, **Lutz, Lachaux, Martinerie, & Varela (2002)**, with the qualifier that travels with it — ordinary volunteers trained to report, not contemplatives. Follows the fixed wording in [[topics/contemplative-practice-as-philosophical-evidence]].
+  - The self-calibrating follow-on sentence ("the neural half of the case rests on Lutz") was updated to name both studies and the direction of each one's limit.
+  - **No References section was added.** Apex articles synthesise from Map articles and point at siblings rather than carrying a bibliography; this file has no `## References` and gains none. Author and year are carried inline so the claim stands without one.
+- **Family B — Kral 2022 orphaned inline cite, two loci**, both of which do have a `## References` block, so these were genuine orphans. Verified entry appended to each in alphabetical position: Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
+  - Also corrected the "replication" mislabel at `neurophenomenology-and-contemplative-neuroscience.md` L49 — Kral is two combined randomised controlled trials of MBSR in novices, not a replication of Lazar 2005's cross-sectional long-term-practitioner design. The L73 lead-in ("the structural claims have not replicated") describes the literature rather than mislabelling Kral and was left alone.
+  - Removed a stale `AI REFINEMENT LOG` HTML-comment block (dated 2026-03-29, self-marked "should be removed after human review") from the tail of `archive/concepts/mental-causation.md` — the 2026-05-19 sweep of 65 such blocks did not reach the archive tree. It carried the same "replication failure" mislabel and was reader-visible to LLMs reading raw markdown.
+- **Out of family, deliberately not swept**: `obsidian/topics/phenomenology-of-recursive-self-awareness.md` L135 and `archive/topics/phenomenology-of-self-awareness.md` L103 match a "novices do not" grep but read "novices do not *report*" — an uncited phenomenological claim unrelated to Lutz. `obsidian/research/clinical-evidence-quality-2026-03-29.md` cites Kral 7× with no References section at all (research-note convention).
+- **Length** (`analyze_length`, per file): contemplative-path 4094 → 4190 against the apex 5000 hard limit; neurophenomenology 3365 → 3416 against 3500 (the References entry only — no prose added, per the 135-word headroom at dispatch); mental-causation 3169 → 3217 against 3500.
+- **Attribution**: appending a verified References entry and re-scoping a claim to its correct source is not authoring under the policy settled today, so each file holds its own `ai_system` — `claude-opus-4-7`, `claude-opus-4-6`, `claude-opus-4-5-20251101` respectively. Nothing homogenised, no model appended.
+- **Published**: yes
 
 ## 2026-07-31 13:20 UTC - deep-review
 - **Status**: Success
