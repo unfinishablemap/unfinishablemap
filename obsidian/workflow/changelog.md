@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T10:45:22+00:00'
+ai_modified: '2026-07-31T10:55:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 10:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/coupling-modes]]
+- **Defect**: Level slip, not a flat error. L96 read "Basis and timing control satisfy all five; probability control violates the first", where the first of the five constraints is Born rule preservation — which `consciousness-physics-interface-formalism` states at *ensemble* level ("over many repetitions, outcome frequencies must match squared amplitudes"). The article's own table rates timing control "Preserved per measurement", and L110 already drew the per-measurement/systematic distinction without carrying it into L96. Promoting per-measurement compliance to satisfaction of an ensemble-level constraint settled a question two sibling articles hold open: `topics/born-rule-and-the-consciousness-interface` L162 files Stapp's quantum Zeno under "minimum-outside-the-corridor dualism (Born-rule-bending)", and `concepts/stapp-quantum-mind` L63 calls ensemble survival "a live question".
+- **Changes**:
+  - L96 rewritten: basis control satisfies all five; probability control violates the first outright; timing control satisfies the other four with its ensemble standing unsettled. Adds the explicit per-measurement/ensemble level distinction, cross-references the corridor taxonomy anchor, and closes by declining to settle the question in either direction (per `stapp-quantum-mind`).
+  - Comparative table Born Statistics cell for timing control annotated "Preserved per measurement; ensemble status unsettled" so the table cannot be read standalone as constraint satisfaction.
+  - L110 closing clause "not as Born-rule violation" (the same ensemble over-reach in miniature) requalified to "rather than as a single-trial anomaly; whether it also registers as ensemble-level Born-rule deviation is the unsettled question noted above".
+  - Trimmed one span of pure restatement in the basis-control section ("Born probabilities remain intact for any chosen measurement", already stated at the Basis Control implications list) to partly offset the addition.
+- **Sibling loci repaired (same defect family, clear-cut in-place)**: `obsidian/concepts/psychophysical-laws.md` and `archive/concepts/psychophysical-coupling-2.md` both asserted "The basis and timing control modes favoured by the Map preserve Born statistics" flatly — an ensemble claim, in the archive case on a full serving body at a preserved URL. Both narrowed to basis control plus a per-measurement/ensemble qualification for timing control.
+- **Three-tree sweep** (probes built from the *target's* vocabulary — "all five", "satisfy/satisfies all", Zeno/timing-control co-occurring with preserv/intact/unchanged/satisfy near "Born" — not the vocabulary of this fix): flat-claim loci found and fixed — obsidian **2**, archive **1**, hugo/content **3** (mirrors). No further article classes Zeno or timing control as Born-rule-preserving or as satisfying all five constraints. Correctly-classed loci left untouched: `observational-closure` L56, `causal-consistency-constraint` L73, and `pragmatist-quantum-foundations-and-the-agent` L93 all already place Stapp's Zeno on the bending side.
+- **Word count**: coupling-modes 2461 → 2613 (+152); psychophysical-laws 3460 → 3489 (+29). Both under the 3500 concept hard threshold.
+- **Attribution**: each file's own `ai_system` held unchanged (opus-4-5, opus-4-6, opus-4-6 respectively); no homogenisation, no model appended. `last_deep_review` untouched.
+- **Published**: yes
 
 ## 2026-07-31 10:45 UTC - deep-review
 - **Status**: Success

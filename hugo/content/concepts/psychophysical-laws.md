@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-30 15:10:22+00:00
+ai_modified: 2026-07-31 10:54:12+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -149,7 +149,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Scope restriction.** Coupling appears limited to the subject's own brain. You cannot select quantum outcomes in someone else's neural system or in external physical apparatus. This follows from coupling operating through attention, which is neurally implemented and first-personal.
 
-**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The [basis and timing control modes](/concepts/coupling-modes/) favoured by the Map preserve Born statistics, making coupling consistent with all precision experiments to date.
+**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The [basis control mode](/concepts/coupling-modes/) favoured by the Map preserves Born statistics, making coupling consistent with all precision experiments to date. Timing control preserves them per measurement, but whether Zeno-style modulation of observation rate leaves *ensemble* statistics untouched is unsettled — the [corridor taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy) files Stapp's quantum Zeno on the Born-rule-bending side.
 
 **Amplification.** Even if coupling laws specify *which* quantum outcomes consciousness selects, something must bridge the scale gap from quantum events (femtosecond, subnanometre) to neural processes (millisecond, centimetre). Six proposed [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—including Zeno stabilization, chaotic sensitivity, and self-organized criticality—address different segments of this chain. No single mechanism traces the full path; the [amplification-void](/voids/amplification-void/) marks this as a structurally necessary gap.
 

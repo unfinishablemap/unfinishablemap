@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-16T18:25:00+00:00
+ai_modified: 2026-07-31T10:54:12+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -90,14 +90,14 @@ These considerations favour coupling modes that are statistically "stealthy"—p
 | Mode | Born Statistics | Detection Risk | Mechanism Clarity | Phenomenological Fit |
 |------|----------------|----------------|-------------------|---------------------|
 | **Basis control** | Preserved | Low | High (Process 1) | Attention as question-selection |
-| **Timing control** | Preserved per measurement | Low | Medium (Zeno effect) | Effort as sustained observation |
+| **Timing control** | Preserved per measurement; ensemble status unsettled | Low | Medium (Zeno effect) | Effort as sustained observation |
 | **Probability control** | Violated | High | Low | Intention as force-like |
 
-All three modes must satisfy the [[consciousness-physics-interface-formalism|five mathematical constraints]] that quantum foundations impose on any coupling map: [[born-rule-and-the-consciousness-interface|Born rule]] preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis and timing control satisfy all five; probability control violates the first.
+All three modes must satisfy the [[consciousness-physics-interface-formalism|five mathematical constraints]] that quantum foundations impose on any coupling map: [[born-rule-and-the-consciousness-interface|Born rule]] preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis control satisfies all five; probability control violates the first outright. Timing control satisfies the other four, but its standing on the first turns on a level distinction the constraint itself makes explicit. Born rule preservation is an *ensemble* requirement: a coupling map may bias which individual outcome actualises, provided outcome frequencies over many repetitions still match squared amplitudes. Timing control's compliance, as the table records it, is *per measurement* — and per-measurement compliance does not by itself deliver the ensemble version, since modulating observation *rate* can shift the aggregate distribution even where no single trial deviates. The Map's [[born-rule-and-the-consciousness-interface#corridor-taxonomy|corridor taxonomy]] files Stapp's quantum Zeno under minimum-outside-the-corridor (Born-rule-bending) on exactly that ground, reserving the corridor-preserving family for influence posited to average to exactly |⟨φ|ψ⟩|² over the ensemble. Whether Zeno-style timing control clears the ensemble bar is, as [[stapp-quantum-mind]] puts it, a live question — one this article does not settle in either direction.
 
 ### Basis Control: Most "Minimal"
 
-Basis control changes nothing about quantum mechanics' answers—only which questions get asked. Born probabilities remain intact for any chosen measurement. No deviation from standard physics is detectable because the statistics conditional on a given basis remain textbook.
+Basis control changes nothing about quantum mechanics' answers—only which questions get asked. No deviation from standard physics is detectable, because the statistics conditional on a given basis remain textbook.
 
 This makes basis control the most minimal mode. It's also well-motivated by attention phenomenology: attending to something feels like selecting what matters, not forcing outcomes. The "executive selection" model of consciousness—choosing among pre-formed alternatives rather than generating new states—maps naturally to basis control.
 
@@ -107,7 +107,7 @@ This makes basis control the most minimal mode. It's also well-motivated by atte
 
 Timing control preserves Born statistics for individual measurements but affects outcomes through observation rate. High observation frequency (sustained attention) can Zeno-stabilise desired patterns; low frequency allows them to decay.
 
-This is intermediate in minimality. Each measurement obeys Born rule, so no single-trial deviation is detectable. But systematic patterns might emerge: do attention-trained subjects show different neural dynamics than untrained ones? The prediction is yes—but the effect shows up as attention-correlated pattern stability, not as Born-rule violation.
+This is intermediate in minimality. Each measurement obeys Born rule, so no single-trial deviation is detectable. But systematic patterns might emerge: do attention-trained subjects show different neural dynamics than untrained ones? The prediction is yes—but the effect shows up as attention-correlated pattern stability rather than as a single-trial anomaly; whether it also registers as ensemble-level Born-rule deviation is the unsettled question noted above.
 
 **Limitation:** Decoherence timescales present a serious challenge to timing control. Tegmark calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems—far faster than the millisecond timescales of neural processing. If environmental interaction collapses superpositions this quickly, there may be no coherent quantum state for attention to observe. Hagan, Hameroff, and Tuszyński (2002) disputed these calculations, obtaining coherence times of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer—though Reimers et al. (2009) and McKemmish et al. (2009) contest those parameter assumptions, and even Hagan's revised figure remains far shorter than neural integration times. Monte Carlo simulations (Georgiev & Glazebrook, 2014) suggest the Zeno effect breaks down for timescales exceeding brain decoherence time. The mechanism might still operate if consciousness biases outcomes *after* decoherence, at the point of definite-outcome emergence—but this shifts to a less exotic (though still causally efficacious) form of selection.
 

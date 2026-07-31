@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-05 06:51:00+00:00
+ai_modified: 2026-07-31 10:54:12+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Psychophysical Laws and Coupling
 archived: true
@@ -77,7 +77,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Scope restriction.** Coupling appears limited to the subject's own brain. You cannot select quantum outcomes in someone else's neural system or in external physical apparatus. This "brain specialness" follows from coupling operating through attention, which is neurally implemented and first-personal. Random number generator experiments that attempt to detect consciousness influencing external quantum systems may fail by design if coupling is attention-bounded.
 
-**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. Quantum mechanics is extraordinarily well-tested. The [basis and timing control modes](/concepts/coupling-modes/) favoured by the Map preserve Born statistics — the quantum-mechanical rule that measurement outcome probabilities equal the squared amplitudes of the wave function — making coupling consistent with all precision experiments to date.
+**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. Quantum mechanics is extraordinarily well-tested. The [basis control mode](/concepts/coupling-modes/) favoured by the Map preserves Born statistics — the quantum-mechanical rule that measurement outcome probabilities equal the squared amplitudes of the wave function — making coupling consistent with all precision experiments to date. Timing control preserves them per measurement, but whether Zeno-style modulation of observation rate leaves *ensemble* statistics untouched is unsettled.
 
 ## The Specification Challenge
 
