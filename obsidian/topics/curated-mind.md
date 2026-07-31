@@ -4,7 +4,7 @@ description: "The brain curates what consciousness receives across vision, body,
 created: 2026-03-24
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-07-06T20:01:04+00:00
+ai_modified: 2026-07-31T03:15:24+00:00
 last_deep_review: 2026-07-25T10:45:48+00:00
 draft: false
 topics:
@@ -103,7 +103,7 @@ The Unfinishable Map interprets the curated mind as evidence for [[interactionis
 
 The Bidirectional Interaction tenet maps onto the asymmetry between synchronic and diachronic influence. Consciousness cannot override perceptual modules, body schema, or memory reconstruction in real time — the interface runs primarily brain-to-consciousness in the moment. But sustained conscious engagement gradually reshapes the processing modules: meditators alter binocular rivalry dynamics, maintaining a single percept significantly longer than non-meditators (Carter et al., 2005); experts reshape perceptual categories through extended training (Goldstone, 1998); mirror therapy can dissolve phantom limb pain by providing the brain's body schema with visual evidence that overrides the entrenched prior (Ramachandran & Rogers-Ramachandran, 1996). The bidirectional channel has different bandwidths in each direction and operates on different timescales.
 
-The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consciousness influences the brain through minimal biasing of quantum-level outcomes, the slow, cumulative nature of diachronic penetration follows naturally. Consciousness shapes neural processing not through direct override but through persistent, subtle influence that accumulates over time — which is exactly what we observe across all the domains the curated mind encompasses.
+The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consciousness influences the brain through minimal biasing of quantum-level outcomes, the slow, cumulative nature of diachronic penetration follows naturally. Consciousness shapes neural processing not through direct override but through persistent, subtle influence that accumulates over time.
 
 ## Further Reading
 

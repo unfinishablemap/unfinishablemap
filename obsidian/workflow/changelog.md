@@ -5,6 +5,18 @@ ai_modified: '2026-07-31T02:18:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 03:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/curated-mind]]
+- **Scope**: one clause, one file — the last live instance of the observation-as-confirmation family opened on `concepts/mysterianism.md` (2026-07-30, `a39eb1cc`).
+- **L106 — observation-as-confirmation, pure deletion.** Read: *"Consciousness shapes neural processing not through direct override but through persistent, subtle influence that accumulates over time — **which is exactly what we observe across all the domains the curated mind encompasses.**"* The bolded clause is gone; the sentence now ends at "accumulates over time." The defect: ordinary neuroplasticity predicts slow cumulative change just as well, so the observation does not discriminate Minimal Quantum Interaction from the deflationary reading. Nothing was observed that the rival hypothesis does not equally predict.
+- **The MQI mechanism claim before it is untouched and stays.** The bandwidth-asymmetry explanation — that minimal biasing of quantum-level outcomes would yield slow, cumulative diachronic penetration rather than real-time override — is the paragraph's actual contribution, is stated as an explicit conditional ("If consciousness influences the brain through..."), and is sound. This pass removes a bound on what the paragraph licenses; it retracts nothing.
+- **Deleted rather than recast, and why.** The same remedy worked on the sibling at `concepts/mysterianism.md` L80, and the section's calibration is already installed one paragraph up at L102: *"though 'evidence' here means* coherence with *rather than* proof of*, in keeping with the inference-to-best-explanation framing above"*, with the convergent architecture called *"roughly what the Map's framework would predict"* and the deflationary reading explicitly granted the same architecture. That framing governs the whole "Relation to Site Perspective" section, so the MQI paragraph inherits the hedge without needing its own restatement of it. Composing a replacement clause would have duplicated L102 in weaker words; the subtraction leaves the honest conditional standing and lets the section-level calibration do the work it was written to do.
+- **Family closed.** `which is exactly what we observe` now greps **0** across `obsidian/`, `archive/` and `hugo/content/` outside `workflow/` and `reviews/`, which are historical record and exempt. This was the last live content locus.
+- **Length**: 2799w → **2784w**, status `ok` against topics 3000 soft / 4000 hard. Net-negative, as a deletion must be. No condense opened.
+- **Frontmatter**: `ai_modified` bumped to 2026-07-31T03:15:24+00:00 (verified not in the future against `date -u`). `ai_system` **held** at `claude-opus-4-6` — deleting an unsupported clause is not re-authoring. `last_deep_review` left at 2026-07-25.
+- **Published**: yes
+
 ## 2026-07-31 03:04 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/nihilism-and-existentialism]]
