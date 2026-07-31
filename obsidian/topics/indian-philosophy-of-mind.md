@@ -1,10 +1,10 @@
 ---
 title: "Indian Philosophy of Mind"
-description: "Three rival Indian schools spent two millennia debating what consciousness is—yet all three independently concluded it is irreducible to matter, strengthening the convergence case for dualism."
+description: "Three rival Indian schools spent two millennia debating what consciousness is—yet all three concluded it is irreducible to matter: convergence within one culture, not independent confirmation."
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-07-31T14:37:05+00:00
+ai_modified: 2026-07-31T15:59:34+00:00
 last_deep_review: 2026-07-18T20:30:42+00:00
 draft: false
 topics:

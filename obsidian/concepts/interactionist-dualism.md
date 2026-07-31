@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-07-30T14:34:58+00:00
+ai_modified: 2026-07-31T15:59:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ Chalmers tends toward epiphenomenalism; the Map diverges via the self-stultifica
 
 René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument. See [[history-of-the-interaction-problem]] for the full trajectory from Descartes through Leibniz to quantum mechanics.
 
-Yet recent work shows this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions, so expecting it to hold in the brain begs the question by assuming interactionism is false. Notably, non-Western traditions independently developed [[interaction-problem-across-traditions|the same structural types of solution]]—this [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence on mental causation]] is itself evidentially significant. See [[conservation-laws-and-mental-causation]] for the "selection not injection" account that replaces the objection.
+Yet recent work shows this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions, so expecting it to hold in the brain begs the question by assuming interactionism is false. Notably, non-Western traditions near-independently developed [[interaction-problem-across-traditions|the same structural types of solution]]—this [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence on mental causation]] is itself evidentially significant. See [[conservation-laws-and-mental-causation]] for the "selection not injection" account that replaces the objection.
 
 Meanwhile, [[concepts/epiphenomenalism]] faces a pointed objection: if consciousness causes nothing, how can we know anything about consciousness? The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] runs four arguments—self-stultification, evolutionary, knowledge-based, introspective—in two families rather than four independent lines, pressing the bare-correlation version hard without refuting it from inside the epiphenomenalist's framework.
 

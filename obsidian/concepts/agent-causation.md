@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-29T12:38:00+00:00
+ai_modified: 2026-07-31T15:59:34+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -147,7 +147,7 @@ The framework therefore cannot rest on introspective proof of efficacy; its case
 - **Neural data on willed versus instructed action.** The shared ~300ms / frontal-theta / coherence signature appears identically across attention and motor domains, ruling out single-domain artefacts (Rajan et al. 2019; Nadra & Mangun 2023; Sjöberg 2024).
 - **The [[argument-from-reason]].** Rational inference requires tracking normative relationships physical causation alone cannot instantiate; the self-defeat of physicalism delivers mental causation without phenomenological premises and without any specific physics—surviving even if the quantum mechanism is wrong.
 - **Clinical neuroplasticity.** CBT and pharmacological interventions achieve comparable outcomes through *different neural pathways* (top-down cortical-to-limbic versus bottom-up neurochemical)—a divergence mental causation predicts and pure redescription cannot easily explain ([[clinical-neuroplasticity-evidence-for-bidirectional-causation]]).
-- **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions independently arrived at substance-causal accounts of persons, evidence that agent-causal thinking is not a parochial Western ontology ([[cross-cultural-convergence-on-mental-causation]]).
+- **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions near-independently arrived at substance-causal accounts of persons, evidence that agent-causal thinking is not a parochial Western ontology ([[cross-cultural-convergence-on-mental-causation]]).
 
 Each anchor stands or falls on its own merits; the convergence is what carries the case. If the selector model is wrong about the quantum interface, the philosophical case survives on the remaining anchors; if the phenomenological evidence is contested, the argument from reason still demands mental causation; if a neural finding fails to replicate, cross-cultural convergence and clinical pathway divergence are unaffected. The framework is robust precisely because it does not concentrate the weight at any single load-bearing point—least of all at first-person introspection, where verification fails by structure.
 

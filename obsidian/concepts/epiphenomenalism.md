@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-06-16T05:24:15+00:00
+ai_modified: 2026-07-31T15:59:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -164,7 +164,7 @@ The case against epiphenomenalism does not rest on any single argument. Four ind
 
 Each succeeds or fails independently, but together they close escape routes that any single argument leaves open. An epiphenomenalist might respond to each with a targeted defence, but the defences must be independently plausible and mutually consistent. The cumulative burden escalates even when individual defences succeed.
 
-Further, Indian, African, and Western traditions—developing in isolation—independently concluded that consciousness is causally efficacious (see [[cross-cultural-convergence-on-mental-causation]]). The epiphenomenalist must explain not only why four independent argument types fail but why every major tradition arrived at the same error through unrelated methods.
+Further, the Indian, African, and Western traditions each concluded that consciousness is causally efficacious, reaching that conclusion on at least near-independent footing—near-independence on the Indian/Western axis, a candidate rather than an established lineage on the West African one (see [[cross-cultural-convergence-on-mental-causation]], graded at [[positions/arguments-for-dualism|P-D3]]). The epiphenomenalist must explain not only why four independent argument types fail but why traditions reasoning by different methods arrived at the same error.
 
 ## Relation to the Map's Perspective
 

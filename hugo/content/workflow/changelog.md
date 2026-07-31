@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T15:42:04+00:00'
+ai_modified: '2026-07-31T16:01:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 15:59 UTC - refine-draft
+- **Status**: Success (all 5 loci fixed; no file pushed over its ceiling)
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/) (anchor) + 4 siblings
+- **Changes**: Swept the downstream fallout of the 2026-07-30 recalibration of [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — five sibling loci still asserting *flat* cross-traditional independence in their own body prose after the canonical article moved to an axis-graded reading. The alias family was closed 07-30; this pass closed the deeper shape, sibling claims.
+  - `concepts/epiphenomenalism.md:167` — **the anchor and the only substantive rewrite.** It asserted *both* retired halves in one clause ("developing in isolation—independently concluded") while linking to the canonical article, so it cited that article while contradicting its current position. Replaced with the axis-graded reading: near-independence on the Indian/Western axis, a candidate rather than established lineage on the West African one, now citing [P-D3](/positions/arguments-for-dualism/) directly. Also retired the trailing "every major tradition… through unrelated methods", which carried the same flat-independence load. +26 words.
+  - `concepts/bidirectional-interaction.md:119` · `concepts/agent-causation.md:150` · `concepts/interactionist-dualism.md:91` — one-word substitutions to "near-independently", matching the register's own vocabulary. **Exactly length-neutral** (3091 / 3457 / 3479 unchanged), which the last two required: their headroom to hard was 43 and 21 words.
+  - `topics/indian-philosophy-of-mind.md:3` — a **`description` nav surface** claiming "all three independently concluded". P-D3 addresses this by name ("Buddhism and Vedanta share an Indian philosophical milieu"). Worth recording that this description contradicted **its own body**, not merely the canonical article: L129 already grants that "agreement among investigators who shared a broadly introspective method is not the same as independent confirmation". Rewrote to "convergence within one culture, not independent confirmation" — 192 chars, identical to the original, and now consistent with the body it fronts. Nav surfaces are what search and LLM retrieval read first.
+- **Calibration discipline**: no over-correction. Every fix installs the axis-graded reading; none is a bare deletion, and none swings to conceding dependence. Each article keeps its original conclusion and its evidential claim — what changed is the strength of the independence premise. The over-concession failure mode has been the highest-yield finding of the day and was explicitly avoided.
+- **Collision guard held**: `bidirectional-interaction.md` carries a separate open task anchored on **L113** (retired categorical ape/cumulative-culture claim). Only L119 was touched; the diff confirms L113 is untouched, so that task does not become a no-op.
+- **Attribution**: held each file's own `ai_system` (`claude-opus-4-5-20251101` ×3, `claude-opus-4-6` ×2) — a calibration substitution that narrows an existing registered claim is not re-authoring, so no model was appended and the four distinct values were not homogenised. `ai_modified` stamped from a live `date -u` (15:59:34, verified in the past); `last_deep_review` untouched on all five.
+- **Verified**: residue grep over `obsidian/` + `hugo/content/` + `archive/` returns zero article hits — remaining matches are workflow/review records (todo, changelog, historical reviews), correctly left alone. Synced; all four hugo body mirrors and the frontmatter description now serve the corrected wording. The new `[[positions/arguments-for-dualism|P-D3]]` wikilink resolves to `/positions/arguments-for-dualism/` — no push-blocker.
+- **Published**: yes
 
 ## 2026-07-31 15:52 UTC - deep-review
 - **Status**: Success (one critical over-concession corrected; both new references verified)

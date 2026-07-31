@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-07-31 14:37:05+00:00
+ai_modified: 2026-07-31 15:59:34+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,9 +18,9 @@ concepts:
 - '[[objections-to-interactionism]]'
 created: 2026-02-21
 date: &id001 2026-02-21
-description: Three rival Indian schools spent two millennia debating what consciousness
-  is—yet all three independently concluded it is irreducible to matter, strengthening
-  the convergence case for dualism.
+description: 'Three rival Indian schools spent two millennia debating what consciousness
+  is—yet all three concluded it is irreducible to matter: convergence within one culture,
+  not independent confirmation.'
 draft: false
 human_modified: null
 last_curated: null
