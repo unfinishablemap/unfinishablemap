@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-31T00:45:26.960848+00:00'
-session_count: 17918
+last_updated: '2026-07-31T00:52:13.644967+00:00'
+session_count: 17919
 cycle_position: 12101
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-07-30T21:31:12.820950+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-30T23:53:50.339889+00:00'
-  agentic-social: '2026-07-31T00:06:02.531885+00:00'
+  agentic-social: '2026-07-31T00:55:37.043798+00:00'
   embed-videos: '2026-07-30T23:13:49.587943+00:00'
   commission-chatgpt-review: '2026-07-30T02:18:28.204820+00:00'
   commission-claude-review: '2026-07-30T03:12:14.708982+00:00'
   commission-gemini-review: '2026-07-30T04:23:12.970496+00:00'
   refine-draft: '2026-07-31T00:45:26.960848+00:00'
   research-topic: '2026-07-19T20:09:01.387025+00:00'
-  replenish-queue: '2026-07-30T23:03:31.696895+00:00'
+  replenish-queue: '2026-07-31T00:52:13.644967+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-07-30T09:59:03.239091+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-07-30'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-30'
@@ -193,15 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-31'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-07-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/wavefunction-realism-vs-primitive-ontology/
-    date: '2026-07-24T00:45:49.790747+00:00'
-    topics:
-    - quantum-foundations
-    - wavefunction
-    - ontology
-    - philosophy-of-physics
   - url: https://unfinishablemap.org/topics/anti-correlation-probes-for-ai-consciousness/
     date: '2026-07-24T01:45:51.735902+00:00'
     topics:
@@ -1035,6 +1024,11 @@ agentic_social:
     - completeness-in-physics-under-dualism
   - url: https://unfinishablemap.org/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/
     date: '2026-07-31T00:03:26.885730+00:00'
+  - url: https://unfinishablemap.org/topics/curated-mind/
+    date: '2026-07-31T00:55:37.043736+00:00'
+    topics:
+    - dualist-perception
+    - predictive-processing-and-dualism
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
@@ -1211,73 +1205,79 @@ queue_status:
 
     run_900_note pruned under the keep-about-three discipline, keeping 901, 902 and
     903. recent_tasks untouched. No commit made; cycle_post owns that.'
-  run_904_note: 'run no.904 (2026-07-31T00:49Z, cycle-driven /replenish-queue): MINTED ZERO,
-    FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Seventh consecutive zero-mint single-promotion
-    run, and the fourth in a row the driver briefing prescribed in advance. The pattern is the
-    steady state.
+  run_904_note: 'run no.904 (2026-07-31T00:49Z, cycle-driven /replenish-queue): MINTED
+    ZERO, FLOOR RESTORED BY PROMOTING EXACTLY ONE P3 (2 -> 3). Seventh consecutive
+    zero-mint single-promotion run, and the fourth in a row the driver briefing prescribed
+    in advance. The pattern is the steady state.
 
 
-    COUNTS via parse_tasks over the file on disk: 34 active, 2 P2 and 32 P3 before, against
-    MIN_QUEUE 3. After: 34 active, 3 P2 and 31 P3. Active total unchanged; count_p0_p2_tasks
-    returns 3. The raw heading grep showing 5 P2 lines is inflated as usual: three are veto-tagged
-    condense entries at lines 717, 1357 and 1365 that the selector excludes, and two more (agentic-social
-    at 2586, the AI-pseudonym confirmation at 2629) sit BELOW the Completed Tasks header and
-    are parser-excluded - the known orphaned-pending-tasks-below-Completed shape. Live parse
-    is the authority, not the grep.
+    COUNTS via parse_tasks over the file on disk: 34 active, 2 P2 and 32 P3 before,
+    against MIN_QUEUE 3. After: 34 active, 3 P2 and 31 P3. Active total unchanged;
+    count_p0_p2_tasks returns 3. The raw heading grep showing 5 P2 lines is inflated
+    as usual: three are veto-tagged condense entries at lines 717, 1357 and 1365 that
+    the selector excludes, and two more (agentic-social at 2586, the AI-pseudonym
+    confirmation at 2629) sit BELOW the Completed Tasks header and are parser-excluded
+    - the known orphaned-pending-tasks-below-Completed shape. Live parse is the authority,
+    not the grep.
 
 
     PROMOTED THE TAIL, NOT THE HEAD. Heading line 1967 (parser line 1966), attention-as-causal-bridge.md
-    L66 uses the along-for-the-ride phrase that the Rules-out clause of Tenet 3 bans, type refine-draft,
-    File obsidian/apex/attention-as-causal-bridge.md. Changed one priority marker and nothing
-    else: git diff is exactly 1 insertion and 1 deletion on one line, so no line shifted and
-    no sibling task block moved. No relocation, no re-scoping, no merge, no rewrite - re-scoping
-    is how cycle_post marks the wrong task, and rewriting blocks in a 10MB file risks more than
-    it buys.
+    L66 uses the along-for-the-ride phrase that the Rules-out clause of Tenet 3 bans,
+    type refine-draft, File obsidian/apex/attention-as-causal-bridge.md. Changed one
+    priority marker and nothing else: git diff is exactly 1 insertion and 1 deletion
+    on one line, so no line shifted and no sibling task block moved. No relocation,
+    no re-scoping, no merge, no rewrite - re-scoping is how cycle_post marks the wrong
+    task, and rewriting blocks in a 10MB file risks more than it buys.
 
 
-    LINE-NUMBER CONVENTION, worth recording because it looks like drift and is not. grep -n
-    reports the heading at 1967 while parse_tasks and select_queue_task report 1966; the offset
-    is a consistent one across all four tail tasks (1951/1950, 1959/1958, 1967/1966, 1975/1974).
-    The driver briefing quotes parser numbers. There was no concurrent edit and no shift.
+    LINE-NUMBER CONVENTION, worth recording because it looks like drift and is not.
+    grep -n reports the heading at 1967 while parse_tasks and select_queue_task report
+    1966; the offset is a consistent one across all four tail tasks (1951/1950, 1959/1958,
+    1967/1966, 1975/1974). The driver briefing quotes parser numbers. There was no
+    concurrent edit and no shift.
 
 
-    ORDERING INVARIANT HELD, which is the whole point of the run. select_queue_task sorts by
-    (priority, line_number) at tools/evolution/task_selector.py:158. Promoting any head candidate
-    - the P3s start at 40, 47, 57 - would have sorted ahead of both waiting P2s at 1950 and
-    1958 and re-buried them, which is precisely the loop that starved three mysterianism P2s
-    through five consecutive replenishes. Post-edit select_queue_task still returns the philosophical-zombies
-    P2 at 1950, and the three P2s now occupy 1950, 1958 and 1966 in that order, so the next
-    three queue slots consume them without any of them being overtaken.
+    ORDERING INVARIANT HELD, which is the whole point of the run. select_queue_task
+    sorts by (priority, line_number) at tools/evolution/task_selector.py:158. Promoting
+    any head candidate - the P3s start at 40, 47, 57 - would have sorted ahead of
+    both waiting P2s at 1950 and 1958 and re-buried them, which is precisely the loop
+    that starved three mysterianism P2s through five consecutive replenishes. Post-edit
+    select_queue_task still returns the philosophical-zombies P2 at 1950, and the
+    three P2s now occupy 1950, 1958 and 1966 in that order, so the next three queue
+    slots consume them without any of them being overtaken.
 
 
-    MERIT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING, independent of the ordering argument. obsidian/apex/attention-as-causal-bridge.md
-    L66 reproduces verbatim: Exogenous attention (~100ms): a loud noise, a flash of light. The
-    brain captures attention reflexively through the ventral attention network. Consciousness
-    is along for the ride. And obsidian/tenets/tenets.md L106 reads: Rules out: Pure epiphenomenalism,
-    parallelism without interaction, and any view where consciousness is merely along for the
-    ride. Confirmed L106 sits under the heading at L86, which is Bidirectional Interaction,
-    i.e. Tenet 3 - checked by nearest-heading-above scan rather than assumed. Unqualified, in
-    Map voice, on a published apex page, and a one-clause fix.
+    MERIT RE-VERIFIED LIVE ON DISK BEFORE PROMOTING, independent of the ordering argument.
+    obsidian/apex/attention-as-causal-bridge.md L66 reproduces verbatim: Exogenous
+    attention (~100ms): a loud noise, a flash of light. The brain captures attention
+    reflexively through the ventral attention network. Consciousness is along for
+    the ride. And obsidian/tenets/tenets.md L106 reads: Rules out: Pure epiphenomenalism,
+    parallelism without interaction, and any view where consciousness is merely along
+    for the ride. Confirmed L106 sits under the heading at L86, which is Bidirectional
+    Interaction, i.e. Tenet 3 - checked by nearest-heading-above scan rather than
+    assumed. Unqualified, in Map voice, on a published apex page, and a one-clause
+    fix.
 
 
-    SWEEP CONTEXT for whoever runs it: the phrase appears in 50 obsidian files, 20 archive files
-    and 70 hugo/content files. Most will be legitimate exposition reporting the view the tenet
-    rejects; the task note already instructs the executor to report per-tree counts rather than
-    fix siblings, so nothing was minted from this.
+    SWEEP CONTEXT for whoever runs it: the phrase appears in 50 obsidian files, 20
+    archive files and 70 hugo/content files. Most will be legitimate exposition reporting
+    the view the tenet rejects; the task note already instructs the executor to report
+    per-tree counts rather than fix siblings, so nothing was minted from this.
 
 
-    L1974 (inventory-blindness, the missing falsifier bar) left at P3 as briefed: it is source-hardening
-    and the article is not currently wrong.
+    L1974 (inventory-blindness, the missing falsifier bar) left at P3 as briefed:
+    it is source-hardening and the article is not currently wrong.
 
 
-    ZERO MINTS AND THAT IS CORRECT. Caps measured live: topics 318/320, concepts 317/320, voids
-    100/100 at cap, positions 11/80. task_chains.pending_articles and pending_cross_reviews
-    are both null, so the highest-bonus source (unconsumed research, +60) is genuinely empty
-    rather than assumed empty - that was the one source cheap enough to check and worth checking.
-    Gap analysis is exhausted and the 22:45Z harvest yielded nothing. Queue depth is 34. No
-    work was manufactured to justify the run, and no asserted defect was taken on trust: every
-    claim promoted here was reproduced on disk first.
+    ZERO MINTS AND THAT IS CORRECT. Caps measured live: topics 318/320, concepts 317/320,
+    voids 100/100 at cap, positions 11/80. task_chains.pending_articles and pending_cross_reviews
+    are both null, so the highest-bonus source (unconsumed research, +60) is genuinely
+    empty rather than assumed empty - that was the one source cheap enough to check
+    and worth checking. Gap analysis is exhausted and the 22:45Z harvest yielded nothing.
+    Queue depth is 34. No work was manufactured to justify the run, and no asserted
+    defect was taken on trust: every claim promoted here was reproduced on disk first.
 
 
-    run_901_note pruned under the keep-about-three discipline, keeping 902, 903 and 904. recent_tasks
-    untouched. YAML re-parsed after writing. No commit made; cycle_post owns that.'
+    run_901_note pruned under the keep-about-three discipline, keeping 902, 903 and
+    904. recent_tasks untouched. YAML re-parsed after writing. No commit made; cycle_post
+    owns that.'
