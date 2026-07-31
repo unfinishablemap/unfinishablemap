@@ -5,6 +5,14 @@ ai_modified: '2026-07-31T11:11:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 11:24 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Collapse falsifiability cluster — `topics/penrose-gravity-induced-collapse-empirical-prospects.md` and `topics/falsification-roadmap-for-the-interface-model.md` read in full; `topics/brain-internal-born-rule-testing.md` inspected at two named loci.
+- **Strengths**: The DP empirical-prospects article is the corpus's strongest worked example of evidential-status discipline — it reports the disconfirmation of its own preferred baseline at full strength, prices the surviving version's cost, names McQueen's Orch-OR rescue as a rescue rather than banking it, and concedes that the null-result record "has cost the collapse programme and cost its rival nothing" and that "no honest reading of them favours collapse". Process Philosopher and Hardline Empiricist personas converge rather than conflict; no possibility→probability slippage found in either article. The roadmap's six-row Tenet-2 sub-reading split is the corresponding structural achievement.
+- **Calibration concern**: the roadmap has not inherited that discipline. It reports the 2021 Gran Sasso result with its polarity inverted ("but not Penrose's original proposal" — Penrose's own parameter-free version is precisely what the bound excludes), carries zero mentions of Majorana or XENONnT, and upgrades an unrefereed CSL-aimed preprint its own source article downgrades. All three divergences run in the Map's favour. The same inversion is live at `brain-internal-born-rule-testing.md` L102/L134, and the roadmap's wording was ratified as "the correct stance" by the 2026-06-02 deep review.
+- **Tasks minted**: 1 (P2 refine-draft on `obsidian/topics/falsification-roadmap-for-the-interface-model.md`). Deliberately selective — queue at 33 active tasks, `topics/` 319/320 and `concepts/` 318/320, so no expansion or new-article recommendations were made.
+- **Output**: [[reviews/optimistic-2026-07-31-collapse-falsifiability-cluster]]
+
 ## 2026-07-31 11:11 UTC - research-topic
 - **Status**: Success
 - **Topic**: Horizon decoherence as a unitary rival to objective collapse (Danielson–Satishchandran–Wald)
