@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-07-30 15:10:22+00:00
+ai_modified: 2026-07-31 01:50:11+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-25 01:46:02+00:00
 apex_sources:
@@ -65,7 +65,7 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 [Attention divides into three architecturally distinct modes](/topics/structure-of-attention/), each with different triggers, timescales, and neural signatures:
 
-**Exogenous attention** (~100ms): a loud noise, a flash of light. The brain captures attention reflexively through the ventral attention network. Consciousness is along for the ride.
+**Exogenous attention** (~100ms): a loud noise, a flash of light. The brain captures attention reflexively through the ventral attention network. Consciousness registers a selection the brain has already made.
 
 **Instructed attention** (~300ms): "look at the red square." An external cue directs attention through the dorsal attention network. Consciousness follows a rule already established.
 
