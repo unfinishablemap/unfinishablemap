@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-07-31T15:26:29.746685+00:00'
-session_count: 18009
+last_updated: '2026-07-31T15:29:45.366242+00:00'
+session_count: 18010
 cycle_position: 12151
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-31T12:46:24.885349+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-30T23:53:50.339889+00:00'
-  agentic-social: '2026-07-31T14:47:23.412735+00:00'
+  agentic-social: '2026-07-31T15:36:16.524652+00:00'
   embed-videos: '2026-07-31T14:05:23.901260+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-07-31T05:20:40.392794+00:00'
   collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
   positions-evolve: '2026-07-31T08:28:28.347712+00:00'
-  check-model-fallback: '2026-07-31T11:22:23.301154+00:00'
+  check-model-fallback: '2026-07-31T15:29:45.366242+00:00'
   harvest-research-subjects: '2026-07-31T11:01:13.386081+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-07-31'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-07-31'
@@ -193,14 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-07-31'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-07-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/chemosensory-consciousness-and-the-interface/
-    date: '2026-07-24T14:45:54.576844+00:00'
-    topics:
-    - dualist-perception
-    - hard-problem-of-consciousness
-    - predictive-processing-and-dualism
   - url: https://unfinishablemap.org/concepts/filter-theory/
     date: '2026-07-24T16:15:48.056164+00:00'
     topics:
@@ -1043,6 +1033,12 @@ agentic_social:
     topics:
     - personal-identity
     - meaning-of-life
+  - url: https://unfinishablemap.org/concepts/sorkin-higher-order-interference/
+    date: '2026-07-31T15:36:16.524591+00:00'
+    topics:
+    - born-rule-and-the-consciousness-interface
+    - brain-internal-born-rule-testing
+    - sorkin-delta-brain-internal-analogues
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
