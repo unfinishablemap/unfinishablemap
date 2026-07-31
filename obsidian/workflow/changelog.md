@@ -5,6 +5,30 @@ ai_modified: '2026-07-30T23:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
 
+## 2026-07-31 00:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mysterianism]]
+- **Task**: two unrelated defect families in one mechanical pass (P2, from [[reviews/pessimistic-2026-07-30-mysterianism]]); no condense opened
+- **Family A — illusionism characterisation (3 loci, hub wording inherited, nothing composed)**:
+  - L152 — was *"illusionists deny phenomenal consciousness exists at all"* (unattributed Map editorial voice asserting the strong-illusionism-only reading retired by `concepts/illusionism.md` on 07-29/30). Now inherits the hub's L69-73 settled wording: illusionism as a spectrum, Graziano (2024)'s *"a general philosophical framework in which specific theories of consciousness can be constructed"*, hard vs subtle poles, plus Frankish (2016)'s restriction of the denial to phenomenal consciousness *as traditionally conceived*.
+  - L154 — regress sentence left standing (it is a legitimate report of the mysterian argument); the counterweight was missing, so the hub's L91/L111 reply was installed: the bare regress assumes "seeming" is itself phenomenal, *precisely what illusionists deny*; a representational system *need not instantiate* what it represents; on its own the regress *proves nothing*; the live dispute is the meta-representational bridge. Closed with "neither side closes the case inside the other's framework" — not a concession that illusionism is right.
+  - L201 (Further Reading) — was *"The rival view that consciousness isn't real"*; now "The rival family of views, hard to subtle, on which phenomenal consciousness as traditionally conceived is an introspective artefact."
+- **Family A engagement classification (editor-internal)**: engagement with the illusionist — Mode Three, framework-boundary marking. The regress is reported, the illusionist reply is reported, and the residue is declared undecided rather than dressed as refutation in either direction. No mode vocabulary written into the article body.
+- **Family B — reference apparatus**:
+  - **Whitehead (1929) *Process and Reality* — dropped** (0 body mentions, no discernible connection).
+  - **Chalmers (1995) — orphan resolved by citing where it belongs**: anchored at L62 where the hard problem is first named, rather than dropped.
+  - **Frankish (2016) — orphan resolved**: now cited at L152, its natural home, via the Family A rewrite.
+  - **Schwitzgebel — entry added**, fully verified: Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *The Philosophical Review*, 117(2), 245-273. Volume/issue/pages confirmed independently at **Crossref** (DOI 10.1215/00318108-2007-037) and **OpenAlex**; nothing invented.
+  - **Rescher — entry added** for the L106 "agnoseology" coinage: Rescher, N. (2009). *Ignorance: On the Wider Implications of Deficient Knowledge*. University of Pittsburgh Press (Crossref-confirmed publisher, ISBN 9780822960140).
+  - **Graziano — entry added** (inherited verbatim from the hub's ref list) to carry the new quoted-and-cited string rather than leave it resolving to nothing.
+  - **Tallis entry completed** to the corpus-established full form: `Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.` — matching `arguments/functionalism-argument.md` and `concepts/semantic-memory.md`. **No Tallis quotation introduced**; L154 remains attributed paraphrase, per the 47-locus investigation establishing that *"misrepresentation presupposes presentation"* is not his wording.
+- **Quote-fidelity defect found and fixed (not in the task)**: L98 carried *"we are not simply fallible at the margins... we are broadly inept"* as a verbatim Schwitzgebel quote. Verified at the **author's own page** (faculty.ucr.edu, primary): the actual sentence is **"We are not simply fallible at the margins but broadly inept."** The ellipsis form elided *"but"* and interpolated *"we are"* — a reconstructed span, not verbatim. Re-quoted as a clean contiguous verbatim string: `we are "not simply fallible at the margins but broadly inept" at introspection`. Now grep-verifiable in the raw source. Corpus record was self-contradictory here (a 2026-05-08 deep-review called it a paraphrase; a W23 changelog called it "confirmed"), so it was settled at the primary text per [[quote-aggregator-ratification-corrupts-verbatim]].
+- **Propagation task minted**: the same malformed ellipsis form is live in three sibling files; P2 queued.
+- **Length**: 3182w total / `soft_warning` against concepts 2500 soft / **3500 hard**. Further Reading + References = ~372w, so authored prose ≈ **2810w**, ~690w of headroom to the hard ceiling. Not a condense candidate.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` (hub-inherited characterisation correction + reference repair is not re-authoring); `last_deep_review` untouched (2026-07-06); `ai_modified` bumped to 2026-07-31T00:12 (`date -u`-checked, not future-dated).
+- **Line shift**: 221 → 223 lines, both added lines inside the References block (L215+, L221+). The remaining P3's loci (L84/L86/L102/L158) are **unshifted** and content-verified in place.
+- **Published**: yes
+
 ## 2026-07-30 23:57 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: session_count 17911, cycle_position 12096 (cycle 504 closed this period); ~46h since the prior run

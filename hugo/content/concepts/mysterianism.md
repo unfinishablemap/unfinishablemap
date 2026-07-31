@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-30 23:06:21+00:00
+ai_modified: 2026-07-31 00:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -61,7 +61,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Mysterianism is the view that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the [epistemological](/concepts/epistemology/) resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
+Mysterianism is the view that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) (Chalmers 1995) cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the [epistemological](/concepts/epistemology/) resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
 
 This position occupies important middle ground. Unlike eliminativism, mysterianism takes consciousness seriously as a real phenomenon requiring explanation. Unlike confident physicalism or dualism, it acknowledges the depth of the problem. The position strongly supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: our sense of which explanations are "simple" may reflect our cognitive limitations rather than reality.
 
@@ -97,7 +97,7 @@ Research on [minimal consciousness](/concepts/minimal-consciousness/) provides s
 
 If complete description doesn't reveal consciousness in a 302-neuron organism, why expect it to reveal consciousness in an 86-billion-neuron brain? We have markers for consciousness (like Unlimited Associative Learning), not detectors. We identify correlates without grasping what consciousness *is*—exactly what McGinn predicts if we're cognitively closed to the relevant property.
 
-Schwitzgebel's claim that "we are not simply fallible at the margins... we are broadly inept" at introspection (Schwitzgebel 2008) finds an empirical case study in the [imagery-void](/voids/imagery-void/). Mental imagery is a paradigm domain for systematic introspective failure: confident vividness reports diverge wildly across persons (aphantasia/hyperphantasia), and the same controversy structure has surfaced twice—Würzburg, then aphantasia—under different vocabularies. The recurrence is itself evidence that the failure is structural, not methodological.
+Schwitzgebel's claim that we are "not simply fallible at the margins but broadly inept" at introspection (Schwitzgebel 2008) finds an empirical case study in the [imagery-void](/voids/imagery-void/). Mental imagery is a paradigm domain for systematic introspective failure: confident vividness reports diverge wildly across persons (aphantasia/hyperphantasia), and the same controversy structure has surfaced twice—Würzburg, then aphantasia—under different vocabularies. The recurrence is itself evidence that the failure is structural, not methodological.
 
 ## Problems Versus Mysteries
 
@@ -151,9 +151,9 @@ From our current perspective, both look identical—we cannot know which problem
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) offers a radical alternative: illusionists deny phenomenal consciousness exists at all. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
+[Illusionism](/concepts/illusionism/) offers a radical alternative, though it is a spectrum rather than a single position. Graziano (2024) frames it as "a general philosophical framework in which specific theories of consciousness can be constructed": at the hard end, the category of phenomenal consciousness is empty; at the subtle end, the brain models something real but models it schematically, so what introspection presents diverges from what is there. Frankish (2016) restricts the denial to phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—while still granting that we discriminate, react, and report. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
 
-The mysterian counter-argument: illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion (Tallis 2024). More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain.
+The mysterian counter-argument: illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion (Tallis 2024). Illusionists have a standing reply. The bare regress assumes "seeming" is itself phenomenal, which is precisely what illusionists deny, and a representational system need not instantiate what it represents—a map represents terrain without being mountainous. On its own the regress therefore proves nothing; the live dispute is whether the meta-representational machinery Frankish offers in its place can generate the impression of a unified phenomenal field without any of the representing being phenomenal. Objections calibrated against the hard end do not automatically reach the subtle end, and neither side closes the case inside the other's framework. More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain.
 
 ## What Would Challenge This View?
 
@@ -200,7 +200,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What cognitive closure feels like from the inside
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
-- [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real
+- [illusionism](/concepts/illusionism/) — The rival family of views, hard to subtle, on which phenomenal consciousness as traditionally conceived is an introspective artefact
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Cognitive closure applied to numinous experience: the evaluating mind and the numinous mind cannot coexist
 - [inference-void](/voids/inference-void/) — Carroll's regress and the structural opacity of inferential transitions: a second-order limit on the operation any limits-argument must use
@@ -214,10 +214,12 @@ The Map goes further than mysterianism in making specific commitments—but pres
 1. Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Graziano, M. S. A. (2024). "Illusionism Big and Small: Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.
 1. Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly*, 59(235), 216-236.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. McGinn, C. (1993). *Problems in Philosophy: The Limits of Inquiry*. Blackwell.
 1. McGinn, C. (1999). *The Mysterious Flame: Conscious Minds in a Material World*. Basic Books.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Rescher, N. (2009). *Ignorance: On the Wider Implications of Deficient Knowledge*. University of Pittsburgh Press.
+1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *The Philosophical Review*, 117(2), 245-273.
+1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
