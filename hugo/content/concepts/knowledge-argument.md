@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-12 19:34:26+00:00
+ai_modified: 2026-07-31 02:34:53+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -166,7 +166,7 @@ If the knowledge argument is sound, it provides powerful support for the [Dualis
 
 The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. If the learning intuition holds, physicalism's [apparent parsimony](/arguments/epistemological-limits-of-occams-razor/) fails before it. When the "simpler" theory conflicts with what many recognize as the manifest character of experience, simplicity may not be decisive—though as noted, both the intuition's reliability and its prevalence are themselves debated.
 
-The interaction between Mary's learning and Jackson's epiphenomenalism worry illuminates the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If consciousness were causally inert, Mary couldn't form beliefs about her new experiences. But she does—she reports that seeing red is revelatory. Her phenomenal states causally influence her beliefs. Consciousness isn't just correlated with physical processes; it participates in the causal order.
+The interaction between Mary's learning and Jackson's epiphenomenalism worry illuminates the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, though the dependency runs one way only. The knowledge argument is an argument about what Mary learns, and it is compatible with epiphenomenalism—Jackson himself held both for two decades, which is why his later worry arises as an internal problem for his own position rather than as a result the argument delivers. The Map's further claim, that Mary's phenomenal states causally influence her beliefs about them, is the interactionist's own commitment brought to the argument rather than extracted from it. On that commitment, Mary's report that seeing red is revelatory tracks the experience because the experience helped produce the report, and consciousness participates in the causal order. The epiphenomenalist has replies, and [Tenet 3](/tenets/#bidirectional-interaction) treats them at length, holding that the strongest version of the position survives the self-undermining charge.
 
 ## Further Reading
 
