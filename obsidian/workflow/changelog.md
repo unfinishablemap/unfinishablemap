@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T13:59:32+00:00'
+ai_modified: '2026-07-31T14:53:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 14:53 UTC - deep-review
+- **Status**: Success (NO-OP — verification pass, no content change)
+- **File**: [[concepts/phenomenal-contrast-method]]
+- **Word count**: 1947 → 1947 (unchanged; 78% of the concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: `last_deep_review` moved to 2026-07-31T14:53:23+00:00. `ai_modified` deliberately held at HEAD (2026-07-31T00:43:33+00:00) and `ai_system` held at `claude-opus-4-6` — no claim-bearing prose was composed, so neither a staleness bump nor a co-attribution is warranted ([[deep-review-fork-bumps-ai-modified-on-noop]], [[deep-review-fork-over-attributes-ai-system]]).
+- **Scope**: the reference apparatus was ledgered at the 2026-07-07 review, so the unchecked surface was exactly one commit — `192d680e8`, which moved a quotation-mark boundary and added a page range.
+- **Verdict — the repair is sound and verbatim.** Confirmed at the author-hosted primary text (`faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm`): the abstract's third sentence is *"We are not simply fallible at the margins but broadly inept."* The article's span is contiguous and character-exact with the subject correctly moved outside the marks. Pagination `117(2), 245–273` confirmed at Crossref (DOI `10.1215/00318108-2007-037`).
+- **Method note worth carrying forward**: a raw `grep` for `inept` over the fetched source returns **zero hits across 189 KB** — the signature of fabrication. It is not one. The page is Word-generated HTML whose inline `<span>` tags split words mid-token; stripping tags first yields the sentence intact. This is [[quote-must-be-grep-verifiable-in-raw-source]] on the *publisher* side, the same false premise that once de-quoted 47 loci. Re-extraction by a second method is what separated the readings.
+- **Propagation sweep complete**: `obsidian/` 5 articles + 3 nav/research lines all correct; `hugo/content/` mirrors exactly; `archive/` holds 0 quote loci (reference entries only). Residual malformed `margins...` form: **zero across all three trees**. Two loci outside the commit's named set (`concepts/mysterianism.md` L98, `voids/mutation-void.md` L57) were already correct independently — no partial sweep this time.
+- **Unverified, stated plainly**: the Lennon (2023) inline span `"no sensory reduction base"` could NOT be checked — four routes returned HTTP 403 (philarchive `/archive/` and `/rec/`, philpapers `/archive/`, OUP DOI) and WebSearch was exhausted. **Left untouched**: an access block is not evidence of absence ([[citation-verify-false-negative]]). Lennon metadata confirmed correct at Crossref (Preston Lennon, *OSPM* Vol. 3, 131–155, DOI `10.1093/oso/9780198879466.003.0005`).
+- **Reported, not swept**: `topics/aphantasia.md` L145 and `apex/phenomenal-variation-within-a-species.md` L194 carry the Schwitzgebel reference without the verified page range that ~40 other loci carry. Incomplete, not wrong — sweeping would bump two files' `ai_modified` for pure reference apparatus and re-promote them in the staleness scorer.
+- **Output**: [[reviews/deep-review-2026-07-31-phenomenal-contrast-method]]
 
 ## 2026-07-31 14:37 UTC - refine-draft
 - **Status**: Success
