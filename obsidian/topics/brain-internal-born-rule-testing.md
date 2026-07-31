@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-07-26T11:32:34+00:00
+ai_modified: 2026-07-31T11:40:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[sorkin-delta-brain-internal-analogues]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-14
 last_curated:
 last_deep_review: 2026-07-25T15:03:20+00:00
@@ -99,7 +99,7 @@ Stapp's mature position is that the mind exercises selection through repeated ra
 
 ### Penrose-Hameroff Orch-OR
 
-Orch-OR is *explicitly* not standard quantum mechanics. The objective reduction (OR) terms break unitary evolution at a threshold defined by the Diósi-Penrose criterion E_G ~ ℏ/τ, where E_G is the gravitational self-energy of the superposed mass distribution and τ is the coherence time. The Born rule does not hold at the OR event; collapse selects what Penrose argues are "non-computable" outcomes influenced by Platonic mathematical structure. The central live objection is Tegmark's (2000) calculation, which gives microtubule-scale decoherence times of roughly 10⁻¹³ s at body temperature against roughly 10⁻³ s for the fastest neural processes — a 10¹⁰ ratio that, on standard environmental-decoherence calculations, rules out the cognitively relevant quantum coherence Orch-OR requires. Wiest (2025) argues that specific microtubule structures (lattice geometry, ordered water layers, anaesthetic-binding pockets) provide decoherence shielding that pushes timescales into cognitively relevant ranges; the mainstream-physics view contests this. The dispute is empirically active rather than resolved. The empirical signatures the framework predicts include: (i) microtubule coherence at the relevant mass and timescale ([[penrose-gravity-induced-collapse-empirical-prospects|reviewed elsewhere]]; Wiest 2025 surveys experimental support and contestation); (ii) anaesthetic targeting of microtubules in conscious-versus-unconscious transitions; (iii) mass-dependent collapse statistics in macroscopic interferometry. The Gran Sasso experiment (Donadi et al. 2021) ruled out the simplest Diósi-Penrose collapse model; the original Penrose proposal survives with reduced parameter space. The MAQRO space mission's planned ~10⁹–10¹¹ amu interferometry would directly test mass-quadratic decoherence scaling. If MAQRO indicates standard decoherence, Orch-OR's collapse mechanism is foreclosed at the relevant scale; *consciousness*-mediated selection inside an Orch-OR-style event would still be untested as a separate question.
+Orch-OR is *explicitly* not standard quantum mechanics. The objective reduction (OR) terms break unitary evolution at a threshold defined by the Diósi-Penrose criterion E_G ~ ℏ/τ, where E_G is the gravitational self-energy of the superposed mass distribution and τ is the coherence time. The Born rule does not hold at the OR event; collapse selects what Penrose argues are "non-computable" outcomes influenced by Platonic mathematical structure. The central live objection is Tegmark's (2000) calculation, which gives microtubule-scale decoherence times of roughly 10⁻¹³ s at body temperature against roughly 10⁻³ s for the fastest neural processes — a 10¹⁰ ratio that, on standard environmental-decoherence calculations, rules out the cognitively relevant quantum coherence Orch-OR requires. Wiest (2025) argues that specific microtubule structures (lattice geometry, ordered water layers, anaesthetic-binding pockets) provide decoherence shielding that pushes timescales into cognitively relevant ranges; the mainstream-physics view contests this. The dispute is empirically active rather than resolved. The empirical signatures the framework predicts include: (i) microtubule coherence at the relevant mass and timescale ([[penrose-gravity-induced-collapse-empirical-prospects|reviewed elsewhere]]; Wiest 2025 surveys experimental support and contestation); (ii) anaesthetic targeting of microtubules in conscious-versus-unconscious transitions; (iii) mass-dependent collapse statistics in macroscopic interferometry. The Gran Sasso experiment (Donadi et al. 2021) ruled out the parameter-free Diósi-Penrose model, which is Penrose's own version — he fixes R₀ from the nuclear wavefunction spread rather than fitting it, and the prescribed value lies an order of magnitude below the excluded bound; Majorana and XENONnT have tightened that bound further. What survives is Diósi-Penrose with R₀ demoted to a free parameter, at the cost of the gravity-fixed quantum-classical boundary that motivated the model. The MAQRO space mission's planned ~10⁹–10¹¹ amu interferometry would directly test mass-quadratic decoherence scaling. If MAQRO indicates standard decoherence, Orch-OR's collapse mechanism is foreclosed at the relevant scale; *consciousness*-mediated selection inside an Orch-OR-style event would still be untested as a separate question.
 
 ### Selection-Only Channel (The Strict Corridor Reading)
 
@@ -131,7 +131,7 @@ What the present empirical record currently supports:
 
 - Born-rule deviation in photon, atomic, and high-energy regimes is bounded to ~10⁻² and tightening.
 - Large-signal mind-matter influence on RNG outputs at non-brain scales is bounded to ε ≈ 10⁻⁴, with preregistered Bayesian work since 2018 (Maier & Dechamps 2018) trending toward the null at typical scales. The original PEAR-style large-effect claim is weakly supported at best.
-- The simplest Diósi-Penrose collapse model is ruled out by the Gran Sasso germanium-detector experiment. The original Penrose proposal survives with reduced parameter space.
+- The parameter-free Diósi-Penrose collapse model — Penrose's own version, with R₀ fixed from physics rather than fitted — is ruled out by the Gran Sasso germanium-detector experiment, and by the tighter Majorana and XENONnT bounds since. What survives is the model with R₀ demoted to a free parameter, giving up the gravity-fixed quantum-classical boundary that made it distinctive.
 
 What the present record does *not* establish:
 

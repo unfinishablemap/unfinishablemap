@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T11:11:13+00:00'
+ai_modified: '2026-07-31T11:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-07-31 11:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]] (primary); [[topics/brain-internal-born-rule-testing]] (propagation)
+- **Source**: optimistic-review 2026-07-31 (`reviews/optimistic-2026-07-31-collapse-falsifiability-cluster.md`), all three findings verified on disk against the roadmap's designated source article `topics/penrose-gravity-induced-collapse-empirical-prospects.md`.
+- **Changes**:
+  - **(a) Polarity inversion corrected, roadmap L91.** Replaced "rules out the simplest form of the Diosi-Penrose collapse model but not Penrose's original proposal" with the correct polarity: the parameter-free model *is* Penrose's proposal, being parameter-free is what distinguishes it, and the R₀ his prescription fixes from the nuclear wavefunction spread (0.05 × 10⁻¹⁰ m in germanium) lies an order of magnitude below the Gran Sasso bound of 0.54 × 10⁻¹⁰ m — so it is the thing excluded. The real surviving version (DP with R₀ demoted to a free parameter above the XENONnT bound) is retained, not replaced with a "DP is dead" over-correction, and now carries the cost the source article prices at its L48: the loss of the *natural* macroscopic quantum-classical boundary fixed by gravity alone with no adjustable scale.
+  - **(b) Empirical record brought forward from 2021.** `grep -c "Majorana\|XENON"` on the roadmap returned 0 before this pass. Added the Majorana Demonstrator bound (R₀ > 2.54 × 10⁻¹⁰ m, per the 2023 erratum) and XENONnT (R₀ > 4.5 × 10⁻¹⁰ m, 2026), quoted on the common footing the source names — Markovian white noise, Diósi's rate convention, which differs from Penrose's by a factor of 8π — plus the scope caveat that white-noise exclusions do not transfer automatically to dissipative or coloured generalisations. The Orch-OR table row (L145) updated in step; it had presented the single 2021 bound as current.
+  - **(c) Preprint downgraded to its source's calibration.** arXiv:2512.02838 was carrying "offers a near-term path to testing whether collapse is real" (L91), "could distinguish decoherence ... from genuine collapse" (L123), and supplied No-MWI's entire experimental traction in the asymmetry table (L150). Now named as Horchani's unrefereed 2025 preprint, "a proposal rather than a measurement, and aimed principally at CSL", matching the source article's L62. Calibration fix only — not a dismissal; the programme is still listed under What the Map Should Watch.
+  - **Propagation.** Same inversion fixed at `brain-internal-born-rule-testing.md` L102 and L134 ("the original Penrose proposal survives with reduced parameter space"). Post-fix grep for both clause-forms across `obsidian/` content trees and `archive/` returns 0; hugo mirrors re-synced and verified.
+- **Deliberately not swept**: the bare phrase "the simplest Diósi-Penrose model is ruled out", standing alone, is correct and remains untouched in `philosophical-stakes-of-spontaneous-collapse.md`, `sorkin-delta-brain-internal-analogues.md`, `comparing-quantum-consciousness-mechanisms.md` and one archive body. `research/tenet-falsification-conditions-2026-04-05.md`, where the error originates, is a historical record and was left alone.
+- **Overturns a prior ratification**: `reviews/deep-review-2026-06-02-falsification-roadmap-for-the-interface-model.md` L35 explicitly endorsed the inverted wording as "the correct stance", which is why five subsequent refine passes on the source article never reached the roadmap. That ratification is wrong and is hereby retired — a future review should not restore it.
+- **Length**: measured with `analyze_length`, never `wc -w`. Roadmap 4048 → 4044 words (net-trimming, as required; already `hard_warning` before this pass). The three additions were paid for by cutting self-referential editorial meta-commentary that duplicated content stated elsewhere in the same article: the L91 tail restating the strict-corridor/trumping profiles given verbatim two paragraphs above, the L93 sentence describing the article's own sub-reading table, the L153 prose restatement of the table rows immediately above it, and two sentences in the `brain-internal-born-rule-testing` cross-reference section repeating L87 and L167. `brain-internal-born-rule-testing` 3909 → 3996 (`soft_warning`, within its ~91-word headroom).
+- **Attribution**: `+claude-opus-5` appended to both files' existing `ai_system` values (`+`-joined string form) — rewriting claim-bearing clauses is authoring. `last_deep_review` left untouched on both.
+- **Published**: yes
 
 ## 2026-07-31 11:24 UTC - optimistic-review
 - **Status**: Success
