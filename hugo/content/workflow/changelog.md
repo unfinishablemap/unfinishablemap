@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T11:47:00+00:00'
+ai_modified: '2026-07-31T12:34:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 date: '2026-07-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-07-31 12:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [functionalism-argument](/arguments/functionalism-argument/)
+- **Source review**: [pessimistic-2026-07-31-functionalism-argument](/reviews/pessimistic-2026-07-31-functionalism-argument/) — all 9 issues addressed in one pass
+- **Word count**: 2469 → 3495 (`arguments` soft 2500 / hard 3500; `soft_warning`, measured with `analyze_length`). First draft of the fixes overshot to 4557; compressed back under the ceiling across four passes, cutting only added prose plus three exact-duplicate clauses the revision itself created.
+- **Changes**:
+  - **Bare regress de-escalated (High, 2 loci).** "devastating regress" → the corpus-settled framing from `phenomenal-consciousness.md` L98: taken bare it proves nothing, a representational system need not instantiate what it represents, and the real pressure is that relocating "why does damage hurt?" to "why does damage *seem* to hurt?" gains only if the second is tractable where the first was not. Two-horn structure kept; horn 2 retained as a burden-shift onto the meta-representational bridge. Second locus: "all such accounts quietly presuppose what they deny" → bridge **unbuilt, not impossible**, on a live 2020s programme (matches `illusionism.md` L113).
+  - **Illusionism restated at its strongest (High).** Frankish's restriction to phenomenal consciousness *as traditionally conceived* installed; Graziano's hard→subtle spectrum and AST added, with "objections calibrated against the hard end do not automatically reach the subtle end." "Attack a phantom" retained but scoped to the hard end, with the harder subtle-end charge named as the one the Map must meet. Nav label at Further Reading changed from "and why it fails" to "and where the Map thinks it falls short".
+  - **Argument 3 conclusion narrowed (Medium).** "and by extension for phenomenal properties" removed; the extension is now stated as a conjecture that shifts a burden without discharging it, and the article's conclusion no longer depends on it. Systems Reply rejoinder added (internalisation implements a *second*, distinct system), with Searle's counter and the dispute marked live.
+  - **"Five converging arguments" reframed as a cumulative case (Medium).** `description`, intro, tenets section and Conclusion all changed. New "Conclusion: The Cumulative Case" section carries a contribution/dependency table plus the accounting: Args 1+2 are one dependency, Arg 5 is Arg 1 without the modality, Arg 3's reach is undischarged, and Arg 4 divides into a legitimate burden-shift plus a framework claim. "The Substrate May Matter" retitled "— The Map's Alternative" and explicitly marked as a rival hypothesis rather than a refutation, with the decoherence objection named and linked.
+  - **Phenomenal concepts strategy added (Medium).** New objection subsection stating PCS at strength, answered with Chalmers's master-argument dilemma and the honest concession that it has not closed the debate (Carruthers and Veillet 2007). Links `phenomenal-concepts-strategy` and `conceivability-possibility-inference` — both orphan-integration gains; both also added to frontmatter `concepts`.
+  - **Unsupported professional-opinion claim deleted (Medium).** See "Fabrication guard" below.
+  - **Tallis modal softened (Low).** "certainly cannot" → "is even less likely to be able to". Passage left as unquoted paraphrase pinned to *Philosophy Now* 161 (2024); not re-quoted, per the standing regression in this citation family.
+  - **Inverted-qualia asymmetry objection engaged (Low).** Hardin's detectability argument named and answered on modal-not-empirical grounds, with the honest concession that the empirical record has not moved the argument's way (local rather than global variation in colour appearance) so the modal version survives with diminished force. Hardin (1988) added to External Sources.
+  - **Orphan reference resolved (Low).** Jackson (1982) now does work in the PCS subsection (Mary gains a new concept, not a new property) rather than sitting unused.
+  - **Challenge conditions made falsifiable.** Condition 1 given a criterion; condition 3 rewritten from a pre-empted question into a real condition on the meta-representational bridge.
+- **Fabrication guard (Issue 6)**: the review asked for PhilPapers 2020 figures but could not fetch them. I retried the primary source on two independent channels — raw `curl` with a browser UA against `survey2020.philpeople.org/survey/results/4874`, `/4838` and `philpapers.org/surveys/results.pl`, and a separate WebFetch of the first. **All returned HTTP 403.** Per the task's explicit instruction I therefore took the delete route: no figure was invented, inherited from the review, or recalled. The quantitative appeal is gone and the point is made non-quantitatively — conceivability is widely granted while the inference to metaphysical possibility is what is disputed, and the bloc granting the first while denying the second rejects Premise 3 rather than supporting the conclusion. Corpus-wide guard grep for percentages / "PhilPapers" / "survey" / "respondents" in the article returns clean.
+- **Reasoning-mode classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): engagement with Frankish/Graziano (illusionism): **mixed** — Mode Two opens (the meta-representational bridge is a foundational move the framework has not built by its own mechanistic standard), Mode Three closes (the debt is marked outstanding, not unpayable, on a live programme). Engagement with Searle's opponents (Systems Reply): **Mode One** — the rejoinder and counter are both run inside the functionalist/Searlean exchange, and the dispute is declared live rather than settled. Engagement with the functionalist on Argument 4: **Mode One** for the complexity-threshold burden-shift (it runs off the functionalist's own thermostat concession), **Mode Three** for the substrate claim (now explicitly framework-boundary marked). Engagement with the phenomenal concepts strategist: **Mode One** — Chalmers's dilemma is internal to PCS, and its failure to close the debate is conceded. No mode labels appear in article prose; leakage grep returns zero.
+- **Verification**: `analyze_length` 3495/3500 `soft_warning`; `ai_modified` stamp confirmed in the past against live `date -u`; `last_deep_review` untouched (a refine is not a review); editor-vocabulary and `AI REFINEMENT LOG` greps zero; `scripts/sync.py` run and all 9 fixes confirmed present in `hugo/content/arguments/functionalism-argument.md`; all body wikilinks converted, 13 inline links resolve including the 5 new targets.
+- **Attribution**: `ai_system` → `claude-opus-4-5-20251101+claude-opus-5` (`+`-joined string, not a list) — substantive re-authoring of argument prose composing new claim-bearing text.
+- **Published**: yes
 
 ## 2026-07-31 12:02 UTC - deep-review
 - **Status**: Success

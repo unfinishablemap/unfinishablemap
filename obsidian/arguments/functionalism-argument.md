@@ -3,9 +3,9 @@ title: "Against Functionalism"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-07-31T12:20:51+00:00
 draft: false
-description: "Five converging arguments against functionalism—from absent qualia to the explanatory gap—showing consciousness is irreducible to functional organization."
+description: "A cumulative case against functionalism—absent qualia, inverted qualia, the Chinese Room, the explanatory gap—with their shared dependencies stated openly."
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[inverted-qualia]]"
   - "[[explanatory-gap]]"
+  - "[[phenomenal-concepts-strategy]]"
+  - "[[conceivability-possibility-inference]]"
   - "[[interactionist-dualism]]"
   - "[[illusionism]]"
   - "[[introspection]]"
@@ -28,7 +30,7 @@ related_articles:
   - "[[arguments/epiphenomenalism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T19:36:00+00:00
@@ -36,7 +38,9 @@ last_deep_review: 2026-07-18T19:36:00+00:00
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.
 
-The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This article presents five arguments against functionalism.
+The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This article assembles the case against functionalism from five arguments.
+
+They are not five independent confirmations: Arguments 1 and 2 share a contested modal premise, Argument 5 restates Argument 1 without the modality, Argument 3's reach beyond semantics is a conjecture, and Argument 4 states the Map's alternative rather than a refutation. The concluding section sets out the dependencies.
 
 ## Argument 1: The Absent Qualia Argument
 
@@ -78,6 +82,12 @@ Neither perceiver is wrong about the apple. Both correctly identify it as red. B
 
 If this is possible, qualia aren't functional kinds. The same functional role can be filled by different qualitative characters. What it's *like* to see red isn't determined by how the red-state connects to inputs, outputs, and other states.
 
+### The Asymmetry Objection
+
+The scenario stipulates functional identity, and that stipulation is where the standard objection bites. Human colour space is not symmetric under rotation—hue spacing is uneven, dark yellow looks brown while dark blue stays blue, warm and cool regions differ in salience—so C. L. Hardin argues that a genuine 180° inversion would leave traces in discrimination times and similarity judgements, and the twin would not be functionally identical.
+
+The reply is that the argument is modal, not empirical: Premise 2 needs *some* inversion to be conceivable, and one confined to a symmetric sub-space delivers it. The price is real. Variation in colour appearance among normal observers resolves into local factors rather than one global factor—the wrong shape for a whole-space rotation—so the empirical version is in trouble and the modal version, in play here, survives with diminished force.
+
 ## Argument 3: The Chinese Room Argument
 
 **Premise 1**: Functionalism implies that implementing the right program is sufficient for understanding (semantic content).
@@ -86,13 +96,15 @@ If this is possible, qualia aren't functional kinds. The same functional role ca
 
 **Premise 3**: If implementing the program doesn't yield understanding, functional organization is insufficient.
 
-**Conclusion**: Functionalism is false for semantic properties, and by extension for phenomenal properties.
+**Conclusion**: Functionalism is false for semantic properties.
 
 John Searle's Chinese Room directly targets functionalism's implications for [[ai-consciousness|AI consciousness]]. You're locked in a room with a rulebook for manipulating Chinese symbols. Questions come in; you follow rules and send answers out. From outside, the room seems to understand Chinese. But you don't understand Chinese—you're shuffling symbols according to rules.
 
-The functionalist replies: the *system*—you plus the room plus the rules—understands Chinese. Searle responds: memorize all the rules and do everything in your head. Now *you are* the system. Do you understand Chinese? No. You're still shuffling symbols. And if the whole system doesn't yield understanding, we must ask: *why* would the right functional organization yield experience? Functionalism can describe the organization but not explain why it suffices.
+The functionalist replies with the Systems Reply: the *system*—you plus the room plus the rules—understands Chinese, even though you, one component of it, do not. Searle responds by internalising the room. Memorize all the rules and do everything in your head. Now *you are* the system, and you still don't understand Chinese; you're still shuffling symbols.
 
-Syntax isn't semantics. Formal symbol manipulation doesn't constitute understanding. And if it doesn't constitute understanding, why should it constitute experience?
+The exchange does not end there, and presenting Searle's half as decisive overstates it. The standard rejoinder is that memorizing the rules implements a *second*, distinct system inside the first; understanding is attributed to that system, not to its host, whose failure to find it by introspection is exactly what the reply predicts. Searle counters that this multiplies systems to order. The Map takes his side; the dispute remains live.
+
+Syntax isn't semantics. Whether that extends to phenomenal properties is a further question the argument does not settle: Searle's target is intentionality—what a state is *about*—and no premise above concerns what a state is *like*. The extension is a conjecture, not a corollary. If implementing the right program fails to fix even semantic content, the functionalist owes an account of why it should fix phenomenal character. That shifts a burden without discharging one, and the conclusion below doesn't need the Chinese Room to reach past semantics.
 
 ## Argument 4: Multiple Realizability Cuts Both Ways
 
@@ -110,9 +122,11 @@ But the inference is too quick. That *behavior* is multiply realizable doesn't m
 
 The functionalist will point to complexity: a thermostat plays a temperature-regulation role but is far too simple for consciousness. Granted. But this concession reveals the problem—if simple functional roles don't require consciousness, what makes complex ones different? Adding more causal connections doesn't obviously add experience. The functionalist must explain why playing the "pain role"—being caused by tissue damage, causing avoidance—*requires* that there's something it's like to be in that state. That complexity entails consciousness is precisely what needs arguing, not assuming.
 
-### The Substrate May Matter
+### The Substrate May Matter — The Map's Alternative
 
-The Map's framework suggests consciousness requires specific physical conditions—not just any substrate implementing the right function. Quantum-level interactions or particular biological structures may be necessary for the mind-matter interface. If so, multiple realizability is false for consciousness, and a digital computer running the "right program" wouldn't be conscious. This is what dualism predicts: consciousness's connection to physical systems depends on specific features, not just abstract causal organization.
+Everything above in Argument 4 is a demand the functionalist's own commitments generate. What follows is the Map's rival hypothesis, which the functionalist need not accept. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness requires specific physical conditions—quantum-level interactions, or particular biological structures, at the mind-matter interface—rather than any substrate implementing the right function. If so, multiple realizability is false for consciousness and a digital computer running the "right program" wouldn't be conscious.
+
+That is what the Map's dualism predicts, offered as an alternative with empirical commitments rather than as a demonstration that functionalism fails—and it is the most heavily contested claim in the framework. The standard objection is decoherence: neural environments are warm, wet and noisy, and coherence there is expected to survive far shorter timescales than neural processing requires. [[decoherence]] and [[quantum-biology-and-neural-mechanisms]] set out the objection, the Map's replies, and the biological evidence. Neither treats it as settled, so Premise 3 rests on a claim under active dispute.
 
 ## Argument 5: The Explanatory Gap
 
@@ -136,9 +150,7 @@ The functionalist might say the experience just *is* the functional organization
 
 Some functionalists deny that zombies are genuinely conceivable. We only *think* we can conceive them because we don't fully grasp the physical situation.
 
-**Response**: This gets the conceivability backwards. With consciousness, we have direct epistemic access to what we're conceiving. We know what experience is from the inside. When we conceive of zombies, we positively grasp a coherent scenario: all the function, none of the experience. The scenario contains no contradiction.
-
-Compare: we cannot coherently conceive of a married bachelor or a round square. The concepts conflict. But "functional organization without experience" involves no such conflict. We understand what each term means, and their combination is coherent.
+**Response**: This gets the conceivability backwards. With consciousness, we have direct epistemic access to what we're conceiving. When we conceive of zombies, we positively grasp a coherent scenario: all the function, none of the experience. Compare a married bachelor or a round square, where the concepts conflict outright; "functional organization without experience" involves no such conflict.
 
 ### "Conceivability Doesn't Imply Possibility"
 
@@ -148,32 +160,35 @@ Perhaps zombies are conceivable but metaphysically impossible, like "water that 
 
 The conceivability of zombies reflects our positive grasp of phenomenal consciousness, not ignorance of it.
 
+### "The Gap Is in Our Concepts, Not in Reality"
+
+The water analogy is the weaker objection to Premise 3. The stronger one, and the mainstream physicalist reply, is the [[phenomenal-concepts-strategy|phenomenal concepts strategy]]: phenomenal and physical concepts refer to the same properties by different routes, and phenomenal concepts—recognitional, or partly constituted by the experiences they pick out—do not connect transparently to physical ones. That isolation explains why zombies seem conceivable with no corresponding gap in the world, so conceivability tracks how we think rather than a modal fact. The same reply covers Frank Jackson's knowledge argument: Mary gains a new concept of a property she already knew physically.
+
+**Response**: Chalmers presses a dilemma. Let C be whatever makes phenomenal concepts special. If physical duplicates lacking C are conceivable, C is not itself physically explicable and the strategy relocates the hard problem rather than dissolving it; if they are inconceivable, zombies have C too—same concepts, same apparent gap—so C cannot explain why *we* find consciousness puzzling. This has not closed the debate, and the Map does not present it as having done so; Carruthers and Veillet (2007) dispute the explanandum it turns on. Premise 3 remains this article's most contested step, and [[conceivability-possibility-inference]] sets out the bridge and its critics.
+
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] offer the most radical response to anti-functionalist arguments: there are no phenomenal properties to explain. If zombies seem conceivable, that's because we're confused about what consciousness is. The "qualitative character" of experience that supposedly escapes functional description doesn't exist—we merely *represent* ourselves as having such properties. The Chinese Room doesn't understand Chinese, and neither do we "understand" in any phenomenal sense. There's nothing it's like to understand; there's only the functional process of understanding.
+[[illusionism|Illusionists]] offer the most radical response. Keith Frankish's version is careful about scope: it denies phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable what-it-is-like properties—while granting everything functional. The position is a spectrum. At the hard end phenomenal properties have no referent at all; at what Graziano (2024) calls the subtle end the brain models something real but schematically, so what introspection presents diverges from what is there. His [[attention-schema-theory|attention schema theory]] is the developed implementation, and he prefers "caricature" to "illusion" because a caricature implies something real simplified. Objections calibrated against the hard end do not automatically reach the subtle end.
 
-On this view, all five arguments against functionalism attack a phantom. The absent qualia argument assumes qualia exist to be absent. The inverted qualia argument assumes qualia have determinate character to be inverted. The Chinese Room assumes there's something beyond symbol manipulation that constitutes understanding. If phenomenal consciousness is an introspective illusion, these arguments target nothing real.
+Stated at the hard end, the charge is that the arguments above attack a phantom: absent qualia assumes qualia exist to be absent, inverted qualia that they have determinate character to be inverted. Stated at the subtle end it is weaker and harder to answer—the arguments are not aimed at nothing, but take a schematic self-model for an intrinsic property. It is the second charge the Map must meet.
 
-### The Regress Response
+### Where the Illusionist Account Falls Short
 
-But illusionism faces a devastating regress. If the *appearance* of phenomenal consciousness is an illusion, something must experience that illusion. The *seeming* of qualitative character must seem *to* something. Either:
+The obvious reply is a regress: if the *appearance* of phenomenal consciousness is an illusion, something must experience the illusion. Taken bare it proves nothing, and the Map does not run it as though it did—it assumes the seeming is itself phenomenal, exactly what illusionists deny, and a representational system need not instantiate what it represents, as a map represents terrain without being mountainous. Raymond Tallis puts the intuition sharply in "The Illusion of Illusionism" (2024): all illusions presuppose experience, and if matter cannot generate phenomenal consciousness, it is even less likely to be able to generate the *illusion* of it. That states what the illusionist owes; it does not refute him.
 
-1. The seeming involves phenomenal properties—in which case phenomenal consciousness exists (the seeming *is* conscious experience)
-2. The seeming involves no phenomenal properties—in which case we need a further account of non-phenomenal seeming
+One horn of the dilemma survives. Either the seeming involves phenomenal properties—which illusionists reject, consistently with everything else they hold—or it involves none, in which case an account of non-phenomenal seeming is owed. That second horn shifts a burden rather than closing a case, and what it demands is the meta-representational machinery: how a self-monitoring system generates the impression of a unified qualitative field, presented to a single subject with felt character, without any of the representing being phenomenal. Frankish sets that target himself.
 
-Option 2 generates an explanatory burden as severe as the hard problem. Raymond Tallis puts it sharply in "The Illusion of Illusionism" (2024): all illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
-
-Further evidence against illusionism comes from [[introspection|introspective access to phenomenal content]] (as distinct from processes) and [[witness-consciousness|contemplative phenomenology]], where practice *deepens* rather than dissolves the reality of experience—compounding the regress with illusions of illusions.
+The Map's judgement is that the bridge is unbuilt where the represented and the representing coincide. "I am phenomenally conscious" targets the representing state itself, and that state is the very candidate for being experiential—unlike combustion, indifferent to being called phlogiston. And relocating "why does damage hurt?" to "why does damage *seem* to hurt?" gains only if the second is tractable where the first was not, which is asserted rather than shown. The debt is outstanding, not unpayable. [[introspection|Introspective access to phenomenal content]] and [[witness-consciousness|contemplative phenomenology]] add pressure—though the illusionist replies that trained introspection refines a self-model, which returns the dispute to the bridge. [[illusionism]] and [[functional-seeming]] develop the case.
 
 ## What Would Challenge This View?
 
 The case against functionalism would be weakened if:
 
-1. **Zombies prove inconceivable upon analysis.** If the concept of "function without phenomenology" proved contradictory, the absent qualia argument would fail. Currently, most philosophers find zombies conceivable; this could change.
+1. **Zombies prove inconceivable upon analysis.** If sustained analysis showed that specifying the full functional organization already specifies phenomenal character, the absent qualia argument would fail. Conceivability is widely granted in the literature; the disputed step is from there to metaphysical possibility, and a substantial body of opinion grants the first while denying the second. That position rejects Premise 3 rather than supporting the conclusion, and should not be recruited as support.
 
 2. **The explanatory gap closes.** If neuroscience genuinely *explained* why certain functional organizations are conscious—not just correlated with consciousness—functionalism would be vindicated. Current theories (Global Workspace, Higher-Order, IIT) correlate without explaining the transition from function to experience.
 
-3. **Illusionism's regress is resolved.** If illusionists provided a satisfying account of how "seeming to have experience" works without involving phenomenal properties, the regress objection would fail. Currently, all such accounts quietly presuppose what they deny.
+3. **The meta-representational bridge is built.** If an illusionist account specified the machinery described above, to the standard of mechanistic detail illusionism presses on its rivals, the objection would be answered and this article's central assumption undercut. The 2020s programme is active on exactly this question. The Map's verdict is that the bridge is not yet built—a verdict on a live programme, not a defeated one.
 
 ## Relation to Site Perspective
 
@@ -181,7 +196,7 @@ The arguments against functionalism directly support the Map's framework and con
 
 ### Dualism
 
-Functional organization is a way of describing physical relationships—what causes what, how inputs relate to outputs. [[tenets#^dualism|Dualism]] says consciousness is something beyond this. The five arguments converge: functional organization, however complex, doesn't entail phenomenal consciousness. Something beyond causal structure determines whether and how experience occurs. This implies that purely computational systems—no matter how sophisticated—cannot be conscious. The [[continual-learning-argument|continual learning argument]] formalizes one version of this barrier.
+Functional organization is a way of describing physical relationships—what causes what, how inputs relate to outputs. [[tenets#^dualism|Dualism]] says consciousness is something beyond this. The arguments above point the same way: functional organization, however complex, doesn't entail phenomenal consciousness. This implies that purely computational systems—no matter how sophisticated—cannot be conscious. The [[continual-learning-argument|continual learning argument]] formalizes one version of this barrier.
 
 ### Minimal Quantum Interaction
 
@@ -199,19 +214,21 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to anti-functionali
 
 The functionalist argues their view is simpler: no new ontology, just the physical world at a functional level. [[tenets#^occams-limits|Occam's Razor Has Limits]] responds that simplicity is unreliable when knowledge is incomplete. Declaring consciousness "just is" functional organization achieves parsimony by refusing to ask the hard question. History shows parsimony often misleads: atomic theory posited invisible entities when continuous matter seemed simpler; quantum mechanics introduced probability when determinism seemed simpler.
 
-## Conclusion
+## Conclusion: The Cumulative Case
 
-Functionalism fails on multiple fronts:
+Counting the arguments as five independent confirmations would overstate the case:
 
-1. **Zombies** show that functional organization doesn't guarantee consciousness
-2. **Inverted qualia** show that functional organization doesn't fix phenomenal character
-3. **The Chinese Room** shows that symbol manipulation isn't understanding
-4. **Multiple realizability** cuts both ways—substrate may matter for consciousness
-5. **The explanatory gap** shows that functional description doesn't explain experience
+| Argument | Contribution | Rests on |
+|----------|--------------|----------|
+| 1. Absent qualia | Functional organization doesn't guarantee consciousness | The conceivability-to-possibility bridge (Premise 3) |
+| 2. Inverted qualia | Functional organization doesn't fix phenomenal character | The same bridge, plus an inversion surviving the asymmetry objection |
+| 3. Chinese Room | Implementing a program isn't understanding | Rejecting the Systems Reply; reaches phenomenality only by conjecture |
+| 4. Multiple realizability | The functionalist owes an account of why complexity yields experience | The burden-shift alone; the substrate claim completing it is framework |
+| 5. Explanatory gap | Functional description doesn't explain experience | Nothing modal—Argument 1's observation without the possibility claim |
 
-These arguments converge on a single conclusion: consciousness is not a matter of functional organization. What it's like to be conscious—the felt quality of experience—is not captured by causal structure. Something else determines whether and how experience occurs.
+The third column is the accounting. Arguments 1 and 2 are one dependency, not two; Argument 5 is Argument 1 without the modality, a strength—it survives if the bridge fails—but not a separate confirmation; Argument 4's substrate claim comes from within the Map's framework. What survives is a case with two legs sharing no premise—the modal leg (1 and 2) and the explanatory leg (3, 4's burden-shift, and 5)—both pointing the same way, neither refuting functionalism from inside.
 
-The Map's framework takes this seriously. Consciousness is irreducible to physics and to function. It interacts with physical systems through quantum-level mechanisms that function-based theories cannot capture. The failure of functionalism points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
+The Map's commitment to [[interactionist-dualism|interactionist dualism]] is held on that calibrated basis, not on a claim that five arguments have independently closed the question. It remains a substantial case: the felt quality of experience is not captured by causal structure, and no functionalist account on offer has met the burden of showing otherwise. That failure points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
 
 ## Further Reading
 
@@ -221,7 +238,8 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 - [[inverted-qualia]] — The spectrum inversion argument
 - [[qualia]] — What functionalism leaves out
 - [[ai-consciousness]] — Why computers probably aren't conscious
-- [[illusionism]] — The most radical physicalist response, and why it fails
+- [[illusionism]] — The most radical physicalist response, and where the Map thinks it falls short
+- [[phenomenal-concepts-strategy]] — The mainstream reply to Premise 3
 - [[introspection]] — The reliability of phenomenal access
 - [[witness-consciousness]] — Contemplative evidence for irreducibility
 - [[haecceity]] — Why functional equivalence doesn't ensure experiential equivalence
@@ -233,6 +251,7 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+- Hardin, C. L. (1988). *Color for Philosophers: Unweaving the Rainbow*. Hackett.
 - Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802 (preprint, not peer-reviewed).
