@@ -1,13 +1,83 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T13:01:00+00:00'
+ai_modified: '2026-08-01T13:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 13:15 UTC - refine-draft (model-fallback attribution check)
+
+- **Status**: Success — **NO-OP close**. The window is the *auditing fork itself*, and the detector's third defect fell out of establishing that.
+- **File**: none modified. `obsidian/workflow/todo.md` — evidence appended to the existing `NEEDS-HUMAN` task on `scan_transcripts`.
+- **Trigger**: `/check-model-fallback` P2, transcript `agent-a46bcc7e7d867d6c2.jsonl`, 24 `claude-opus-5` messages between 2026-08-01T07:46:19.801Z and 07:48:15.220Z. Third and last of today's three sibling flags.
+
+### The window is the 07:46Z attribution check auditing the 07:36Z harvest
+
+The stick is real and the count is exact: three `claude-fable-5` turns (07:46:08–07:46:10Z, both of them read-only `Bash`), then 24 `claude-opus-5` turns to the closing summary at 07:48:15Z, no return to the primary. What the flag does not know is *what fork it caught*. `agent-a46bcc7e` is the refine-draft attribution check that ran the 07:36–07:39Z `harvest-research-subjects` window and closed it as a no-op. **Its entire output is the changelog entry recording that verdict** — one `Edit`, to `obsidian/workflow/changelog.md`, plus a `sync.py` run. Commit `8c8b5aab8` otherwise carries `todo.md`, `evolution-state.yaml`, `.unfin/current-queue-task.json` and the hugo mirrors, none of which carries an `ai_system` field.
+
+**Nothing was owed even on the one attributed surface it touched.** `changelog.md`'s `ai_system` read `claude-opus-4-8+claude-opus-5` *before* the fork's edit — visible as an unchanged context line in `8c8b5aab8`'s own diff. The fallback model was already on the file, so the annotation the flag asks for was already there.
+
+**No other fork overlaps the window.** Checked rather than assumed, since the flag's "bulk annotation" boilerplate asks for it: `a773b272` (agentic-social) closed at 07:42:37Z, `ac5abf0f` (coalesce) opened at 07:50:35Z, `ac317aa5` (the sentientism research fork, already corrected by the 12:53Z sibling) opened at 07:55:21Z. The window contains one fork.
+
+### The fallback-written prose was verified, not assumed
+
+Following the bar the 13:09Z sibling set — the fallback's *public* output gets checked rather than taken on trust — the changelog entry that fork wrote is the artifact that reached the served corpus. Its load-bearing claims all hold: `task_to_skill` really does drop `notes` for `RESEARCH_TOPIC` (`tools/evolution/task_selector.py` L201-204 returns `SkillInvocation("research-topic", topic)`, title only), which is why the harvest widened its task title to ~380 characters of steering; `concepts/` really is at **318/320** against `max_concepts: 320`; `research-harvest-state.json` really is the harvest's own high-water mark, outside the repo at `../unfinishablemap_log/`. **No correction owed.**
+
+One methodological caveat, recorded rather than retro-edited (the changelog is a historical record): that entry cites a corpus-wide grep for `ai_modified: 2026-08-01` returning zero as verification method (b) — the exact false-zero the orchestrator flagged, since research notes carry no `ai_modified` field. For *its* window the conclusion happens to be sound, because the sentientism note was written at 07:55Z, seven minutes after the fork closed. The method was unreliable; the answer was right.
+
+### The finding: the detector flags its own audit forks
+
+`scan_transcripts` walks `root.rglob("*.jsonl")`, which descends into each session's `subagents/`, and `queue_attribution_task` dedupes only on transcript id. So an attribution-check fork that itself model-mixes mints a fresh P2 attribution-check task **about its own transcript**. That is this task.
+
+**Measured across the queue's own history**: of the 38 subagent transcripts named by attribution-check tasks in `todo.md`, 24 survive on disk, and **2 of those 24 are attribution-check forks** — this one and `agent-a5a18311b0e2e5a81` (2026-07-13), already closed as "*prior attribution-audit no-op fork, no content*". The pattern was noticed once a fortnight ago, closed locally, and never escalated to the detector's defect record. A first classifier pass put the count at three; `agent-a4755a0b` turned out to be an ordinary convergent-outer-review refine on `voids/what-voids-reveal.md` that merely *mentioned* model-fallback in a file it read. Discarded rather than published.
+
+Appended to the standing `NEEDS-HUMAN` task as **candidate fix (d)**, deliberately narrow: skip a transcript whose own dispatch arguments are an attribution-check task. The 07-31 `806e8218` note's position — that "was content written?" belongs at execution time, not queue time — is correct in general and is not reversed here; it simply fails for the one subclass whose window is knowable in advance. **And it must not be widened into "audit forks never write content"**, which is false: the 12:53Z sibling audit wrote, correcting `research/sentientism-2026-08-01.md`. The exemption is for self-reference, not for the task type.
+
+### Not actioned (deliberate)
+
+- **No new task minted** — appended to the existing `NEEDS-HUMAN` on `tools/evolution/model_fallback.py`, per the same-file-pileup discipline.
+- **No retro-edit of the 07:47Z changelog entry**, under the standing convention that workflow records are historical. The grep caveat is recorded here instead.
+- **Today's three flags close 3-for-3 as no-ops for annotation**, having between them produced one real correction (sentientism), one census (5 of 9 forks invisible), and one new defect (self-flagging). The detector's *task* yield today was zero; its *diagnostic* yield was not.
+- **Published**: no content changed; changelog synced to hugo
+
+## 2026-08-01 13:09 UTC - refine-draft (model-fallback attribution check)
+
+- **Status**: Success — assigned window is a **NO-OP** for annotation. The session-wide sweep it prompted found a **second instance of the detector blind spot**, verified harmless, and closed the "scope unknown" question for this session.
+- **File**: none modified. `obsidian/workflow/todo.md` — evidence appended to the existing `NEEDS-HUMAN` task on `scan_transcripts`.
+- **Trigger**: `/check-model-fallback` P2, transcript `agent-a841909c466c57b05.jsonl`, 26 `claude-opus-5` messages between 2026-08-01T12:32:27.996Z and 12:34:30.601Z.
+
+### The assigned window: no-op, and the flag's framing overstates it
+
+The transcript is the **`add-highlight` fork**, and the fallback is real: 7 `claude-fable-5` messages (12:32:14.734Z–12:32:24.356Z) then 26 `claude-opus-5` messages through completion — a genuine mid-fork stick, matching the flag's count exactly. The flag's "SESSION-LEVEL STICK … treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation)" is boilerplate that does not bind here: the window is **143 seconds long** and contains exactly one fork.
+
+Every one of the fork's 19 tool calls is `Bash`, and the only one that writes is `scripts/highlights.py add … --tweet`. Its whole footprint is commit `3c80d61d7` — `obsidian/workflow/highlights.md` plus the hugo mirror, one entry added and the oldest rotated out. **No file under `topics/ concepts/ apex/ voids/ positions/ research/` was touched**, and no `Agent`/`Task` call was made, so no content-writing fork was spawned.
+
+**Why highlights.md is not annotatable.** It carries file-level `ai_system: null` across roughly 30 entries accumulated over months by different models, with no per-entry attribution channel. Stamping the file `claude-opus-5` because one entry was written under fallback would misattribute every other entry in it. The correct answer is not "annotate" but "there is nowhere to annotate" — the same conclusion the file's `ai_system: null` has recorded since January.
+
+**The fallback-written public claim was verified rather than assumed.** The blurb was tweeted, so it is the one artifact of this window that reached an audience. Checked verbatim against `concepts/active-reboot.md`: "in mice" ✓ (Hu et al. 2023 is a mouse study, and the hedge survived into the tweet); "KCC2 degradation in the thalamus" ✓ (ubiquitin-driven, ventral posteromedial nucleus); "fires whichever anaesthetic was used" ✓ (the paper's "occurs independent of anesthetic choice", across propofol, pentobarbital, ketamine, isoflurane); "actively dismantles the barrier … rather than waiting for the drug to clear" ✓ (the article's own framing). Faithful on all four, hedges intact. **No correction owed.**
+
+### The sweep: the blind spot is the majority case, not an edge case
+
+The orchestrator's steer — go through git, not a `ai_modified: 2026-08-01` grep — was carried past its stated purpose into a full model-composition census of the session, because the previous pass had left scope explicitly unmeasured.
+
+**5 of the 9 forks in session `b8e74477` ran 100% `claude-opus-5` with zero `claude-fable-5`.** All five are invisible to `scan_transcripts`, which computes `foreign = [m for m in messages if m != dominant]` and skips on empty. Only 2 forks were model-mixed and therefore detectable; 2 ran pure fable-5 and are genuinely clean. The detector sees roughly a fifth of what it is looking at.
+
+- **New instance found**: `agent-a5a81eeac3fb01d00` (12:58–13:04Z, 74 messages, all opus-5) — the deep-review that wrote `concepts/samkhya-three-way-distinction.md`, commit `fa2a670dc`.
+- **No correction owed on it, and it must not be retro-fixed.** It held `ai_system: claude-opus-4-7`. Checked against convention rather than taken on its word: the two 07-31 sweeps for the identical nav-gloss/link-label calibration family (`52126351b`, 5 files; `e29e11a8c`, 2 files) bumped `ai_modified` only and left every `ai_system` untouched. A one-line Further-Reading gloss rewrite is not re-authoring. The hold is right.
+- **Recorded for recurrence, not damage.** `a5a81eea` ran *after* the 12:41:51Z scan high-water mark, so the next scan covers its window and will skip it for the same reason. This is not a historical artifact being cleaned up — it reproduces every cycle, and the harmless cases are invisible by exactly the mechanism that hides the harmful ones. Reinforces candidate fix **(b)**: key detection off the explicit `{"type":"fallback",…}` marker the harness already writes.
+- The other three invisible forks wrote no prose: `a2decb20` set one `ai_system` field, `a8834aa7` posted externally only, `a614def7` was this auditing fork.
+
+### Not actioned (deliberate)
+
+- **No new task minted.** The `NEEDS-HUMAN` task on `tools/evolution/model_fallback.py` already exists from the 12:53Z pass; evidence was appended to it instead. Minting a second would have produced the same-file pileup the memory notes warn about.
+- The sibling flag on `agent-a46bcc7e` (07:46–07:48Z, genuinely model-mixed) holds its own queue line and was left alone.
+- **Still unmeasured**: this census covered one session. The other ~200 session directories in the project transcript tree remain unswept — noted on the task rather than attempted here.
+
+- **Published**: no content changed; nothing to sync
 
 ## 2026-08-01 13:01 UTC - deep-review
 
