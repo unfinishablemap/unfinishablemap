@@ -5,6 +5,25 @@ ai_modified: '2026-08-01T13:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 14:39 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Original score**: n/a (`scripts/curate.py` does not exist — the skill's Section 3 review command is stale; this was a targeted citation-accuracy correction, not a general refine)
+- **Word count**: 4260 → 4460 (both `soft_warning` against apex soft 4000 / hard 5000; ~540 words of headroom remain, no paired trim needed)
+- **Changes**:
+  - **L100 roster corrected in both directions.** Hu et al. (2023) tested **propofol, pentobarbital, isoflurane, ketamine**. The article listed "(propofol, isoflurane, sevoflurane, ketamine)" — **sevoflurane was never tested** and **pentobarbital was missing**. Roster replaced with the settled four.
+  - **L100 species qualification installed.** `grep -ciE '\bmice\b|\bmouse\b|\bmurine\b|\brat\b|rodent'` over the whole file returned **0** before the fix — the mouse provenance was absent everywhere, not just at the roster. Now reads "Hu et al.'s (2023) finding, in mice", inheriting the settled phrasing from [[concepts/active-reboot]] L75 and [[concepts/cross-mechanism-convergence]] L51/L59.
+  - **L100 mechanistic reduction stated openly.** Rather than word-swapping the roster, the passage now derives the partition and flags its provenance: Hu et al.'s own framing is a **two-class** one (propofol, pentobarbital and isoflurane grouped as GABA-A-acting; ketamine alone as an NMDA antagonist); the **three-class** reading is **the Map's finer partition, not the study's**, so the exhibit rests on a three-class span plus one within-class replication rather than the four-target span the agent count invites. Wording inherited verbatim-in-substance from [[concepts/cross-mechanism-convergence]] L59, which was fixed on 2026-07-31 after making exactly the error of calling the three-class reading "the one the study supports".
+  - **L100 target-independence result carried in, with both directions.** Hu et al. report the KCC2-Thr1007 phosphorylation step as occurring independent of the agents' anaesthetic target proteins. Stated as cutting two ways for Class B: it **strengthens** the separability the exhibit is cited for (the reopening route is not downstream of whatever closed the channel) while **weakening** the cumulative-cost accounting (one demonstrated common mechanism, not four coincidences a rival must absorb one by one). Neither direction quoted without the other.
+  - **L158 internal contradiction closed.** The Bidirectional Interaction paragraph asserted "the convergence across four pharmacologically distinct agents", which contradicts the reduction now installed 58 lines earlier. Softened to "the four tested agents — spanning distinct mechanism classes, though fewer than four of them". **Divergence noted:** [[concepts/active-reboot]] L97 retains the stronger "four pharmacologically distinct agents" phrasing and L53 derives the three-class partition without flagging it as the Map's — that file has *not* yet received the 2026-07-31 provenance fix. Reported for a successor task rather than re-scoped.
+- **Coinage check (misattribution)**: **No fix owed.** `grep -i "active reboot"` returns 0 because the file writes the hyphenated **"The active-reboot extension"** at L100 (the narrow-grep-zero trap); the hyphen-tolerant pattern finds it at L100 and L158. In both places the phrase is the Map's own section label and construction — the article nowhere claims Hu et al. call it an "active reboot", so the coinage is not misattributed here. Verified rather than assumed.
+- **Reasoning-mode classification**: n/a — no named-opponent engagement was added or altered.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-7`. No new interpretive prose — the additions are a factual roster/species correction plus settled wording transposed from the sibling concept articles.
+- **Web calls**: **zero.** Primary text is paywalled; the roster, the two-class grouping and the target-independence result were read from the annotated Reference 1 in [[concepts/cross-mechanism-convergence]] L117 as instructed. No metadata invented.
+- **Mirror**: synced; `hugo/content/apex/pharmacological-dissociation-as-evidence.md` confirmed sevoflurane-free and carrying the corrected roster.
+- **Published**: yes
+
 ## 2026-08-01 14:31 UTC - deep-review
 
 - **Status**: Success
