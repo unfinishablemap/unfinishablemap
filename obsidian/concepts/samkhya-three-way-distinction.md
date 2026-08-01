@@ -4,7 +4,7 @@ description: "Samkhya divides reality into consciousness, mind, and matter—pla
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-07-31T12:48:49+00:00
+ai_modified: 2026-08-01T13:01:00+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-06-25T17:47:56+00:00
+last_deep_review: 2026-08-01T13:01:00+00:00
 ---
 
 The Unfinishable Map's [[dualism]] follows the Western convention of dividing reality in two: mind on one side, matter on the other. Samkhya, one of India's oldest philosophical schools, divides reality in three—and the third category reframes fundamental assumptions about where consciousness sits. Where Descartes groups consciousness and cognition together as *res cogitans* (thinking substance), Samkhya separates them. Consciousness (*purusha*) stands alone as pure witnessing. Mind, intellect, and ego belong to *prakriti*—the material world. Gross physical matter is also *prakriti*. The result is a three-way distinction—consciousness / mind / gross matter—that Western philosophy has no direct equivalent for, and that exposes assumptions the Map must reckon with.
@@ -133,7 +133,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 - [[attention-and-the-consciousness-interface]] — Contemporary evidence for separating attention from awareness
 - [[explanatory-gap]] — The conceptual chasm Samkhya's framework sharpens
 - [[eastern-philosophy-consciousness]] — Broader survey of Eastern engagement with consciousness
-- [[the-convergence-argument-for-dualism]] — Independent paths to the same conclusion
+- [[the-convergence-argument-for-dualism]] — Different starting points reaching the same conclusion, with the independence between them honestly discounted
 - [[cross-cultural-convergence-on-mental-causation]] — Indian, African, and Western traditions on consciousness as causally efficacious
 - [[the-observer-witness-in-meditation]] — Phenomenology of the witness state Samkhya theorises
 

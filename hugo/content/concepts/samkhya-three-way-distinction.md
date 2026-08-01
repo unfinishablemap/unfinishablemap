@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-31 12:48:49+00:00
+ai_modified: 2026-08-01 13:01:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Samkhya divides reality into consciousness, mind, and matter—plac
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 17:47:56+00:00
+last_deep_review: 2026-08-01 13:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Contemporary evidence for separating attention from awareness
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual chasm Samkhya's framework sharpens
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Broader survey of Eastern engagement with consciousness
-- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Independent paths to the same conclusion
+- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Different starting points reaching the same conclusion, with the independence between them honestly discounted
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions on consciousness as causally efficacious
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Phenomenology of the witness state Samkhya theorises
 

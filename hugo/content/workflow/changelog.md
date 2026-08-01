@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T12:53:00+00:00'
+ai_modified: '2026-08-01T13:01:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 13:01 UTC - deep-review
+
+- **Status**: Success — near-no-op; one navigation-surface calibration residue fixed
+- **File**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
+- **Word count**: 1932 → 1935 (+3)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; no expansion attempted on a 6th review)
+- **Output**: [deep-review-2026-08-01-samkhya-three-way-distinction](/reviews/deep-review-2026-08-01-samkhya-three-way-distinction/)
+
+**The finding.** Further Reading L136 glossed `[[the-convergence-argument-for-dualism]]` as "Independent paths to the same conclusion" — a flat-independence assertion the target article explicitly disclaims in its own description ("*though Bayesian cluster analysis shows they are not all independent*") and which [P-D2 and P-D3](/positions/arguments-for-dualism/) grade as near-independence that does *not* compound. Diagnostic test passes: a tenet-accepting reviewer would still flag it against the Map's own register → calibration error, not bedrock disagreement. This is the defect family named in `9ee559377` and swept across five sibling loci in `52126351b` on 07-31; a corpus grep confirms this article held the **only surviving instance** of the string. The 07-31 pass (`038802e30`) had fixed this file's *body* alias (`independent` → `near-independent`) but not its navigation surface. Rewritten to "*Different starting points reaching the same conclusion, with the independence between them honestly discounted*".
+
+**Assessed and left alone.** Body L107's `near-independent convergence` alias matches its target's own top-line description verbatim; refining it below the target's own calibration would be over-fitting. Declined per convergence discipline.
+
+- **Citations (§2.4)**: live publisher re-verification **could not run** — the session's WebSearch budget (200/200) was exhausted. Recorded as not-done rather than claimed. The References block is byte-identical to the fully-ledgered 2026-06-25 publisher pass, and the one currency-sensitive quoted string (O'Brien-Kop, "does not contain sensation, feeling, or experience") was verbatim-confirmed at the primary publisher in the late-July W29 quote-fidelity pass. Local checks run and clean: corpus metadata consistency (Block 1995 *BBS* 18(2):227–247 agrees across 5 files; O'Brien-Kop title/journal/DOI agree at every live locus) and inline ↔ References cross-reference.
+- **Engagement modes**: Samkhya on the inactive-witness challenge to Tenet 3 — **Mode Three**, framework-boundary marking, honestly declared ("The Map parts ways with Samkhya here"), unchanged since 05-27. O'Brien-Kop — scholarly-interpretation boundary-marking, not a named-opponent refutation. No editor-vocabulary leakage (grep-checked).
+- **Attribution**: `ai_system` **held at `claude-opus-4-7`** — a nav-gloss calibration fix is not re-authoring, matching the W29 precedent.
+- **Stability**: 6th review, 5th consecutive near-no-op on philosophy. Every substantive finding since review 2 has come from **propagation lag**, not staleness — a corpus-wide correction landing in siblings but missing this file, twice now at a locus *outside* the body prose. Future selection should be triggered by recalibration sweeps, not the staleness clock.
+- **Published**: yes (both trees synced)
 
 ## 2026-08-01 12:53 UTC - refine-draft (model-fallback attribution check)
 
