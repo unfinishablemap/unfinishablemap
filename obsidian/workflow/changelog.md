@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T22:18:22+00:00'
+ai_modified: '2026-08-01T22:25:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 22:25 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
+- **Source**: unconsumed half of `research/horizon-decoherence-2026-07-31.md` (Recommendation 2). Recommendation 1 had already landed in `concepts/prebiotic-collapse.md`; slug-based dedupe could not see the residue because the article covered is named for Penrose, not for horizon decoherence.
+- **Defect fixed**: the article's strongest dialectical passage — *"the record so far has cost the collapse programme and cost its rival nothing"* — presented the Danielson–Satishchandran–Wald horizon-decoherence mechanism with no mention of its live challenges, overstating the unitary rival. A pre-edit grep for `Fahn|Pesci|Biggs|Trezzi` and `static star` across `obsidian/` and `archive/` returned zero content loci in either tree, confirming the gap was corpus-wide rather than local.
+- **Additions** (both verified at source before writing, per the task's instruction not to trust its own transcription):
+  - *The static-star limit.* DSW's own follow-up, "Local Description of Decoherence of Quantum Superpositions by Black Holes and Other Bodies," arXiv:2407.02567, *Physical Review D* **111**, 025014 (2025) — verified at the arXiv abstract page, which returned the title, all three authors, the journal reference and DOI `10.1103/PhysRevD.111.025014`, and the abstract sentence verbatim: *"the lack of decoherence in the spacetime of a static star even though the vacuum state outside the star is similar in many respects to the Boulware vacuum around a black hole."* This is the more valuable of the two additions because it changes what the claim means: the effect is horizon-specific, not a general gravitational classicalising agent.
+  - *The published challenge.* Fahn & Pesci, "Effects of quantum geometry on the decoherence induced by black holes," arXiv:2507.16911, *Physical Review D* **112**, L121502 (2025) — verified twice, at the arXiv abstract page (journal-ref `Phys.Rev.D 112 (2025) 12, L121502`; the phrase *"limited to negligibly small values"* verbatim in the abstract) and independently at Crossref, which returned the same authors, volume, article number and year with DOI `10.1103/279x-zgl1`. The companion, "Horizon quantum geometries and decoherence," *Physical Review D* **112**, 124036 (2025), was also verified but **not cited**, on length grounds as the task directed.
+- **Biggs & Trezzi omitted.** arXiv:2605.23880 has no journal reference and unconfirmed peer-review status; the two published PRD papers carry the point without it, so it is absent from both prose and references rather than labelled.
+- **Calibration guard**: Fahn & Pesci's result is conditional on the value of the area quantum (*"for selected values of the quantum of area"*), so the prose says *"on some proposed area-quantisation scales"* rather than asserting the limit unconditionally. The static-star clause keeps DSW's own "Boulware vacuum" qualifier — dropping it would have implied the star's exterior resembles the physical (Unruh) black-hole state and thereby overstated the challenge. The task warned against under-stating DSW to score the point; both hedges are there to prevent that.
+- **Length — strictly neutral.** `analyze_length` reads **3,930 before → 3,930 after** (`soft_warning`; `topics/` hard threshold 4,000). Raw body count 3,947 → 3,949, the +2 being two DOI URLs, which `count_words` strips. Decomposed: prose **3,192 → 3,161** (−31), apparatus **755 → 788** (+33). Note the task's premise of "3,947 / hard_warning, 53 words of headroom" was the raw figure including URLs; the governing URL-stripped figure was 3,930 / `soft_warning`, i.e. 70 words of real headroom.
+- **What funded it** (99 words added, 99 cut, no calibration hedge touched):
+  - Cut the closing sentence of the McQueen paragraph (40 words: *"If the distinction holds, the fate of the DP model and the fate of Orch OR separate…"*), which restated the paragraph's opening claim that the DP falsification does not reach Orch OR. The conditionality survives in *"This is structurally a rescue of the kind Donadi flagged"* and *"Testing whether the distinction itself holds would require…"*.
+  - Cut the Horchani sentence (40 words) and its reference entry (14 words). An unrefereed 2025 preprint, proposal rather than measurement, aimed principally at CSL in an article about DP's empirical prospects — the lowest-value citation in the file, and dropping it to fund two published PRD papers on the rival mechanism is the same published-over-preprint discipline this task applies to Biggs & Trezzi.
+  - Compressed one matter-wave sentence that repeated "matter-wave interference" three times in thirty words (−5).
+- **References renumbered** 26→25, 27→26, 28→27 after the Horchani deletion; no in-text numeric citations exist, so nothing else needed repointing.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` (~64 words of new prose is not substantial composition); `last_deep_review` untouched; `ai_modified` bumped from a live `date -u`.
+- **Sibling not touched, reported instead**: `concepts/prebiotic-collapse.md` carries the same unchallenged DSW framing at its L98 and is the obvious next target, but measures **3,492 against the `concepts/` hard threshold of 3,500** — 8 words of headroom, genuinely blocked. Needs its own task paired with a trim.
+- **Published**: yes
 
 ## 2026-08-01 22:18 UTC - condense
 
