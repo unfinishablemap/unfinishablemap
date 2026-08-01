@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T22:03:33+00:00'
+ai_modified: '2026-08-01T22:18:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 22:18 UTC - condense
+
+- **Status**: Success (partial — landed above target, deliberately)
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Before**: 5,330 raw / **4,392 prose** (846 reference apparatus: Further Reading 199 + References 647)
+- **After**: 5,055 raw / **4,117 prose** (apparatus untouched at 846)
+- **Reduction**: 6.3% of prose (275 words); 5.2% raw. Prose remains ~117 over the 4,000 hard threshold — see below.
+- **Technique**: Did **not** merge the four consecutive derivation sections. The article's thesis is interpretation-*invariance*, and the four sections make four different claims (additivity bottleneck / observer-actuality step / non-derivation frameworks + audit table / the urgleichung residue), not one claim four times; the per-interpretation walk is the demonstration of the thesis rather than exposition of it, and it had already been compressed to 1–2 sentences per entry by the 2026-05 condense pass. Cut instead at the genuinely repeated claims: the *compatibility-is-not-support* framing (stated 6×, reduced to canonical §Compatibility vs. Support + the two protected concession sections) and the *corridor-preserves-Tr(ρP)-geometry* claim (stated 4×, argued once in the Gleason paragraph where it is earned, one-clause elsewhere). Also removed a self-referential `§*Compatibility vs. Support*` pointer sitting inside that same section, a foreclosure forward-statement in Active Experimental Programmes fully duplicated by the protected *What Negative Results* section, and one of three `phenomenal non-compositionality` restatements.
+- **Hedges preserved**: `## The Brain-Internal Gap in Born-Rule Testing` (124), `## What This Does Not Establish` (174), `## What Negative Results Would and Would Not Foreclose` (345) are **byte-identical to HEAD**. The Gleason concession, the Lakatos degenerating-programme concession, the "suggestive only if granted" SIC caveat, the "not a neutral measurement" Orch-OR decoherence-estimate flag, the "PEAR-variety gross violation is on thin ground" admission, and the "symmetric restraint cuts the Map's own way" Occam qualifier all survive.
+- **Why not to target**: the remaining ~117 words sit inside protected concession sections, the interpretation walk, or the citation apparatus. Cutting to 4,000 prose would have cost a calibration hedge, so the pass stopped short — per the skill's "quality > brevity" rule.
+- **Links**: all `##` headings unchanged (verified by diff), so `{#corridor-taxonomy}` and the 6 live inbound deep links to it, plus `#The Causal Consistency Constraint` from `archive/topics/the-interface-specification-problem.md`, still resolve. All quoted spans byte-identical. No wikilink target lost; one added (restored `[[#corridor-taxonomy|taxonomy below]]` at two "taxonomy below" forward references that had degenerated to plain text).
+- **Pre-existing defect found, not fixed**: `obsidian/topics/pragmatist-quantum-foundations-and-the-agent.md:101` deep-links `[[born-rule-and-the-consciousness-interface#Absorbing the Urgleichung: What Survives Bayesian Personalism]]` — that heading was renamed to `## Absorbing the Urgleichung` before this pass, so the fragment already failed to resolve. Out of scope for a condense; needs a one-line repoint.
 
 ## 2026-08-01 22:03 UTC - coalesce
 
