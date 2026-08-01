@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-07-31T16:21:17+00:00
+ai_modified: 2026-08-01T14:08:33+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -42,7 +42,7 @@ Three positions dominate environmental philosophy:
 
 **Anthropocentrism** restricts moral consideration to humans. Nature matters only as a resource for human welfare. This is too narrow even for mainstream ethics—few philosophers defend it without qualification.
 
-**Sentientism** extends moral consideration to all beings capable of phenomenal experience. [[animal-consciousness|Conscious animals]] matter morally because they suffer and flourish. Ecosystems matter instrumentally—as habitats sustaining conscious lives.
+**[[sentientism|Sentientism]]** extends moral consideration to all beings capable of phenomenal experience. [[animal-consciousness|Conscious animals]] matter morally because they suffer and flourish. Ecosystems matter instrumentally—as habitats sustaining conscious lives.
 
 **Ecocentrism** (including Aldo Leopold's land ethic and Arne Næss's deep ecology) attributes intrinsic value to ecosystems, species, and natural processes independent of any conscious being's experience. A wilderness has value even if no sentient creature ever enters it.
 

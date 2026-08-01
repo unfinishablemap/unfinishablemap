@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-07-31 16:31:38+00:00
+ai_modified: 2026-08-01 14:08:33+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -162,7 +162,7 @@ The core point: copies are not continuations. Treating copying as survival disre
 
 Consciousness makes suffering possible; suffering is intrinsically bad; preventing it is therefore morally significant. [Suffering is distinct from mere pain](/topics/pain-consciousness-and-causal-power/) — it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. The [valence-and-conscious-selection thesis](/topics/valence-and-conscious-selection/) argues that felt negativity is not epiphenomenal but participates in the selection mechanism through which consciousness acts on the brain. Pain asymbolia — patients who feel pain but aren't bothered — illustrates the dissociation.
 
-The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and consciousness is irreducible, then suffering is a feature of fundamental reality. Finite resources for preventing it should be directed where suffering is most likely real.
+The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with a sophisticated valence-based [sentientism](/concepts/sentientism/): multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and consciousness is irreducible, then suffering is a feature of fundamental reality. Finite resources for preventing it should be directed where suffering is most likely real.
 
 ## What the Architecture Demands
 

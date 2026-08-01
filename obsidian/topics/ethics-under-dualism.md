@@ -4,7 +4,7 @@ description: "If consciousness is irreducible and causally efficacious, it both 
 created: 2026-01-16
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-07-31T16:31:38+00:00
+ai_modified: 2026-08-01T14:08:33+00:00
 last_deep_review: 2026-07-14T16:36:24+00:00
 draft: false
 topics:
@@ -159,7 +159,7 @@ The core point: copies are not continuations. Treating copying as survival disre
 
 Consciousness makes suffering possible; suffering is intrinsically bad; preventing it is therefore morally significant. [[pain-consciousness-and-causal-power|Suffering is distinct from mere pain]] — it requires a subject who experiences negative [[valence]], not just nociception. The [[valence-and-conscious-selection|valence-and-conscious-selection thesis]] argues that felt negativity is not epiphenomenal but participates in the selection mechanism through which consciousness acts on the brain. Pain asymbolia — patients who feel pain but aren't bothered — illustrates the dissociation.
 
-The Map's [[topics/phenomenal-value-realism]] aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and consciousness is irreducible, then suffering is a feature of fundamental reality. Finite resources for preventing it should be directed where suffering is most likely real.
+The Map's [[topics/phenomenal-value-realism]] aligns with a sophisticated valence-based [[sentientism]]: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and consciousness is irreducible, then suffering is a feature of fundamental reality. Finite resources for preventing it should be directed where suffering is most likely real.
 
 ## What the Architecture Demands
 

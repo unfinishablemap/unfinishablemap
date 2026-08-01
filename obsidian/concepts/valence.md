@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-08-01T14:08:33+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -67,7 +67,7 @@ This has direct implications for the [[tenets#^bidirectional-interaction|Bidirec
 
 ## Valence and Moral Status
 
-If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses *valence sentientism*: the capacity for negatively valenced experience is necessary for moral consideration.
+If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses a valence-based [[sentientism]]: the capacity for negatively valenced experience is necessary for moral consideration.
 
 This connects directly to [[topics/phenomenal-value-realism]]. If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. As Rawlette (2016) argues, the wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state, grounding moral realism in the felt quality of experience itself.
 

@@ -116,7 +116,7 @@ This is a graph defect, not a content defect: the article was calibrated at 16:0
 
 ## Declined — reported, not minted
 
-- **`sentientism` has no owning node.** The article deploys sentientism as its central positive position across five sections; there is no `concepts/sentientism.md` or equivalent anywhere in the corpus. This is a real under-linking gap of the kind that has been paying off, but the fix is a new concept article and `concepts/` is at 317/320 with `topics/` at 318/320. **Declined as out-of-contract; flagged for the operator.** If a concepts slot frees up, this is a stronger candidate than most: it is deployed at length in at least four articles and owned by none.
+- **`sentientism` has no owning node.** The article deploys sentientism as its central positive position across five sections; there is no [concepts/sentientism.md](/concepts/sentientism/) or equivalent anywhere in the corpus. This is a real under-linking gap of the kind that has been paying off, but the fix is a new concept article and `concepts/` is at 317/320 with `topics/` at 318/320. **Declined as out-of-contract; flagged for the operator.** If a concepts slot frees up, this is a stronger candidate than most: it is deployed at length in at least four articles and owned by none.
 - **`ecocentrism` / `wild animal suffering` likewise have no owning nodes** but are treated adequately in-place here; lower priority than sentientism.
 - **`obsidian/topics/hard-problem-of-consciousness.md`** — linked from L101 and would be a reasonable inbound source, but it is already claimed by an open task. Excluded from the integration mint.
 

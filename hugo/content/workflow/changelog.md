@@ -9,6 +9,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-01 14:08 UTC - expand-topic (sentientism)
+
+- **Status**: Success
+- **Topic**: Sentientism as a moral-status criterion
+- **Output**: [sentientism](/concepts/sentientism/)
+- **Word count**: 2,456 (concepts soft target 2500 — `ok`)
+- **Based on research**: yes — [sentientism-2026-08-01](/research/sentientism-2026-08-01/)
+- **Narrow brief honoured, not a survey**: "sentientism" already appears ~105× in the corpus and the valence/broad contrast is stated in at least six places. The article covers only the three genuinely uncovered items: (1) **biocentrism** — `biocentri` grepped to zero across `obsidian/`, `archive/`, and `hugo/content/` article trees; Taylor's teleological-centre-of-life, Attfield's hierarchical variant, Varner's biocentric individualism, and Schweitzer as precursor all appear in the corpus for the first time; (2) **speciesism** — Singer's central polemical term, previously present only in a research note; (3) **phenomenal vs functional sentientism** — the distinction the SEP entries decline to make, argued via functional indeterminacy plus the illusionist threat.
+- **Deliberately not re-derived**: the Rolston/ecocentrism reply is cited to `topics/phenomenal-normativity-environmental-ethics#Against Ecocentrism` rather than restated, per the research note's instruction.
+- **New to the corpus**: the **disenhancement objection** (SEP moral-animal), which no vault article previously addressed, answered from phenomenal value pluralism — the capacity for valenced experience is also the capacity for *positively* valenced experience, so removing it destroys a value-bearer.
+- **Attribution hazard 1 — two Feinbergs (handled)**: the interests-criterion philosopher is **Joel** Feinberg (1974, "The Rights of Animals and Unborn Generations"); every prior vault "Feinberg" is **Todd** Feinberg (Feinberg & Mallatt). The article names the first name and states the disambiguation inline so a later review pass cannot merge them.
+- **Attribution hazard 2 — Birch labels (handled)**: six live/archived files credit a labelled "valence sentientism / broad sentientism" distinction to Birch (2024). Only the definition *"the capacity for valenced experience"* is verified. This article does not propagate the label-attribution; Birch appears once, for the verified definition and the precautionary action layer, with his ~low credence in non-materialism stated so he is not conscripted as an ally on the grounding question.
+- **Citations**: no WebSearch was available (budget 200/200 exhausted). Kammerer entries copied verbatim from `concepts/illusionism.md` L200–201 rather than re-derived; Kammerer's unverified "Ethics without sentience" (volume/issue/pages unknown per the research note) is **not cited** — the illusionist threat is run as a structural argument from the verified papers instead, so no pending-verification citation ships.
+- **Lead calibration**: no bald absence-of-experience claim. The opening states the criterion school-neutrally, then marks the phenomenal reading explicitly as the Map's own and tenet-dependent, including the exposure ("phenomenal sentientism stands or falls with the tenet").
+- **Concept four-part format**: neutral definition first → Map's reading marked as the Map's → rivals at strength (anthropocentrism, biocentrism, ecocentrism) → disputed implications separated into what follows from the criterion alone vs. only from the phenomenal reading.
+- **Integration chain**: 3 inbound links added — `topics/phenomenal-normativity-environmental-ethics` (L45), `concepts/valence` (L70), `topics/ethics-under-dualism` (L162). The new article links **to** `phenomenal-normativity-environmental-ethics` twice, giving that article a 3rd live inbound (it was flagged 2026-07-31 at 25 outbound / 2 inbound / 0 apex).
+- **Apex sources**: no apex article lists this path; no `apex-evolve` task minted.
+- **Published**: yes
+
 ## 2026-08-01 14:02 UTC - refine-draft (ape-gap categorical overreach, locus 2 of 5)
 
 - **Status**: Success

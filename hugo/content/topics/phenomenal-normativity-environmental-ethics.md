@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-07-31 16:21:17+00:00
+ai_modified: 2026-08-01 14:08:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -45,7 +45,7 @@ Three positions dominate environmental philosophy:
 
 **Anthropocentrism** restricts moral consideration to humans. Nature matters only as a resource for human welfare. This is too narrow even for mainstream ethics—few philosophers defend it without qualification.
 
-**Sentientism** extends moral consideration to all beings capable of phenomenal experience. [Conscious animals](/topics/animal-consciousness/) matter morally because they suffer and flourish. Ecosystems matter instrumentally—as habitats sustaining conscious lives.
+**[Sentientism](/concepts/sentientism/)** extends moral consideration to all beings capable of phenomenal experience. [Conscious animals](/topics/animal-consciousness/) matter morally because they suffer and flourish. Ecosystems matter instrumentally—as habitats sustaining conscious lives.
 
 **Ecocentrism** (including Aldo Leopold's land ethic and Arne Næss's deep ecology) attributes intrinsic value to ecosystems, species, and natural processes independent of any conscious being's experience. A wilderness has value even if no sentient creature ever enters it.
 
