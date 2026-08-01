@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-11 14:26:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-01 16:15:46+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
 - /topics/conscious-vs-unconscious-processing/
@@ -156,7 +156,7 @@ Change blindness and inattentional blindness demonstrate that even salient stimu
 
 ## Connection to Baseline Cognition
 
-The [baseline-cognition](/concepts/baseline-cognition/) framework illuminates these findings. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition—without human-level consciousness. What apes cannot do maps onto the three consciousness-requiring functions: they struggle with extended information maintenance, lack cumulative culture or flexible recombination of procedures, and show limited self-initiated goal pursuit.
+The [baseline-cognition](/concepts/baseline-cognition/) framework illuminates these findings. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition, and limited but genuine inference: Schleihauf, Sanford, Engelmann et al. (2025) found chimpanzees revising beliefs in proportion to evidence strength, and Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture. The human difference is therefore graded rather than absolute: apes show real but bounded inferential, metacognitive, and social-learning capacities, whereas humans show uniquely open-ended, high-fidelity, institutionally scaffolded reasoning and cumulative culture ([contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)). Where apes fall short still maps onto the three consciousness-requiring functions: extended information maintenance is bounded, cumulative culture and flexible recombination of procedures remain rudimentary rather than open-ended, and self-initiated goal pursuit is limited. A graded gap carries the argument as well as a categorical one would: the capacities that thin out first are precisely those requiring conscious access.
 
 Experimental evidence confirms this selective impairment: when conscious processing is loaded (through secondary tasks occupying attention and working memory), logical reasoning suffers while unconscious priming continues normally. If consciousness were epiphenomenal, cognitive load shouldn't selectively impair consciousness-dependent functions—but it does.
 
@@ -283,6 +283,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. *Trends in Cognitive Sciences*, 10(5), 204-211.
 1. Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486-492.
 1. Derrien, D., Garric, C., Sergent, C., & Chokron, S. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
+1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Kouider, S., & Dehaene, S. (2007). Levels of processing during non-conscious perception. *Philosophical Transactions of the Royal Society B*, 362(1481), 857-875.
 1. Silverstein, B. H., Snodgrass, M., Shevrin, H., & Kushwaha, R. (2015). P3b, consciousness, and complex unconscious processing. *Cortex*, 73, 216-227.
@@ -291,6 +292,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Naccache, L., & Marti, S. (2016). Why the P3b is still a plausible correlate of conscious access? A commentary on Silverstein et al., 2015. *Cortex*, 85, 126-128.
 1. Montemayor, C., & Haladjian, H. H. (2019). Recurrent processing theory versus global neuronal workspace theory: A comment on Pitts et al. *Philosophical Transactions of the Royal Society B*, 374(1770), 20180517.
+1. Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.

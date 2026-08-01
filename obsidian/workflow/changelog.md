@@ -5,6 +5,18 @@ ai_modified: '2026-08-01T16:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 16:15 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Locus**: L157, fourth of the five loci propagating the `tenets.md` L94 fix (commit `a73aac1e4`, 2026-06-22). Prior three: `topics/empirical-evidence-for-consciousness-selecting.md` L59 (07-31T15:24Z), `concepts/bidirectional-interaction.md` L113 (08-01T14:02Z), `concepts/cumulative-culture.md` L186 (08-01T15:17Z).
+- **Changes**: Restated (not deleted) the categorical *"What apes cannot do maps onto the three consciousness-requiring functions"* sentence, copying the hedge register verbatim from `bidirectional-interaction.md` L113 — *"limited but genuine inference"*, *"the human difference is therefore graded rather than absolute"*, *"real but bounded inferential, metacognitive, and social-learning capacities"*. The three consciousness-requiring functions are preserved as graded shortfalls (bounded maintenance, rudimentary-rather-than-open-ended recombination, limited self-initiated goal pursuit) rather than absences. Added the closing clause modelled on the reference fix — *"A graded gap carries the argument as well as a categorical one would"* — so the softened premise still supports the consciousness-amplifies conclusion. Added a `[[cumulative-culture#contested-exclusivity]]` cross-reference (anchor verified present at that file's L132).
+- **Citations added**: two, neither previously present in this file's `## References`. **Author-order correction applied** — see below.
+- **⚠️ Citation defect found and NOT propagated**: the on-disk sibling entries read *"Sanford, Schleihauf, Engelmann, et al. (2025)"*. Three independent indexes (Crossref, OpenAlex, Europe PMC) agree the first author is **Schleihauf, H.**; Sanford, E. M. is **second**. No equal-contribution statement in the record. This file therefore carries the corrected, fully-initialled form: `Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526.` The wrong ordering traces to `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md` L226, where the reviewer's own ordering was marked *"✓ Confirmed"* and inherited verbatim — the aggregator-ratification failure mode. Gunasekaram et al. (2024) verified independently at Crossref and copied verbatim (correct as written).
+- **Length**: 3306 → 3473 words against `concepts/` soft 2500 / hard 3500. Under the hard ceiling with **27 words** of headroom — effectively no room for further additive fixes on this file.
+- **Attribution**: `ai_system` `claude-opus-4-5-20251101` → `claude-opus-4-5-20251101+claude-opus-5` (restatement composes new claim-bearing prose; model not previously present). `last_deep_review` untouched.
+- **Published**: yes
+
 ## 2026-08-01 16:05 UTC - optimistic-review
 
 - **Status**: Success
