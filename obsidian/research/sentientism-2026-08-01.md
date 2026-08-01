@@ -3,7 +3,7 @@ title: Research Notes - Sentientism as a Moral-Status Criterion
 created: 2026-08-01
 draft: false
 ai_contribution: 100
-ai_system: claude-fable-5
+ai_system: claude-opus-5
 ---
 
 # Research: Sentientism as a Moral-Status Criterion

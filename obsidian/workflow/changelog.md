@@ -1,9 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T08:01:00+00:00'
+ai_modified: '2026-08-01T12:53:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 12:53 UTC - refine-draft (model-fallback attribution check)
+
+- **Status**: Success — assigned window is a **NO-OP**, but the check found and fixed an **unrelated, orphaned misattribution** that the detector structurally cannot see.
+- **File**: [[research/sentientism-2026-08-01]] — `ai_system: claude-fable-5` → `claude-opus-5` (obsidian + hugo)
+- **Trigger**: `/check-model-fallback` P2, transcript `b8e74477-1435-4a93-a720-17d5076029b2.jsonl`, 13 `claude-opus-5` messages between 2026-08-01T12:41:23.305Z and 12:41:47.489Z.
+
+### The assigned window: genuinely a no-op
+
+The transcript is the **loop driver session itself**, and the fallback is real — an explicit `{"type":"fallback","from":"claude-fable-5","to":"claude-opus-5"}` marker at 12:41:23.305Z, immediately after the 12:39:06Z `API Error: Fable 5's safeguards flagged this message`. The count checks out exactly: 13 assistant records, the fallback marker plus three thinking / three text / six tool_use.
+
+All six tool calls are loop mechanics — a `grep` of `evolution-state.yaml` plus `git status`; `cycle_post` for the `add-highlight` trigger; `ToolSearch`; `CronList`; `cycle_pick`; and the `Skill` dispatch of `check-model-fallback`. **No `Agent`/`Task` call**, so no content-writing fork was spawned, and the bulk-annotation branch of the flag has no subjects. The window's only commit, `a8ce9609`, touches `evolution-state.yaml` alone. No file under `topics/ concepts/ voids/ apex/ positions/` was written. **No annotation owed for the assigned window.**
+
+### The finding: a detector blind spot, caught by tripping over it
+
+Sweeping for content written near the window nearly produced a false clear. A corpus grep for `ai_modified: 2026-08-01` returns only `changelog.md` and `highlights.md` — but **research notes carry no `ai_modified` field at all**, so that grep was a false zero of exactly the shape the memory note warns about. Going through git instead surfaced the one content artifact of the whole scan range: `obsidian/research/sentientism-2026-08-01.md`, written 07:55–08:02Z and committed at 12:31Z when the loop resumed.
+
+Its fork, `agent-ac317aa5f61d948ac.jsonl`, **was not flagged** — and could not have been. `scan_transcripts` keys detection off same-file model *mixing*: with no primary-model message present it computes `foreign = [m for m in messages if m != dominant]` and then `if not foreign: continue`. That fork carries a fallback marker at 07:55:21.573Z, about five seconds **before** its first assistant turn at 07:55:26.212Z, and then runs **53 assistant messages, every one `claude-opus-5`, zero `claude-fable-5`**. Empty `foreign` list, silent skip. The detector flagged three sibling transcripts in the same scan and walked past this one.
+
+That is precisely the case that yields a *wrong* stamp: a fork which never observes itself on the primary model records the model it was nominally dispatched as. The note read `ai_system: claude-fable-5` while fable-5 had written none of it.
+
+- **Fix value justified**: corrected to the bare `claude-opus-5` rather than a `+`-joined pair, because the `+` form denotes genuine mixed authorship and fable-5 contributed nothing. Consistent with the 2026-07-28 audit note recording that fork-written review archives "correctly self-attribute `ai_system: claude-opus-5`"; the `a0fc32857` and `66f0237b5` corrections used pairs only because those forks had a real co-author to preserve.
+- **Both trees**: obsidian source edited and `scripts/sync.py` run, so the published copy does not keep the defect until pre-push.
+- **Task minted**: P2 on `tools/evolution/model_fallback.py` recording the blind spot, the verified instance, and three candidate fixes — the most promising being to key detection off the explicit `fallback` marker the harness already writes, which is unambiguous and would make the mixing heuristic redundant. **Scope is unmeasured**: no sweep has been run for other artifacts written by zero-fable forks.
+
+### Not actioned (deliberate scope boundaries)
+
+- The two sibling attribution tasks (`agent-a841909c`, 12:32–12:34Z add-highlight fork; `agent-a46bcc7e`, 07:46–07:48Z) hold their own queue lines and were left alone.
+- `highlights.md` carries a naive `ai_modified: '2026-08-01T12:33:59.210446'` with no UTC offset, against the CLAUDE.md timezone policy. It is the **long-standing** output format of `add-highlight` (identical on 07-28 through 07-31), not a regression from this window — reported, not fixed.
+- The `2026-08-01 08:01 UTC` research-topic entry below is stamped with its authoring time, not its 12:31Z commit time; the loop was paused between 07:54Z and 12:31Z. Not an error, but it is why the changelog looks four hours behind git.
+
+- **Published**: yes (one frontmatter field; no prose changed)
 
 ## 2026-08-01 08:01 UTC - research-topic
 - **Status**: Success
