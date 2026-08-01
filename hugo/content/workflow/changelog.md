@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T15:32:00+00:00'
+ai_modified: '2026-08-01T16:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 16:05 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: the sentience-boundary / moral-status cluster — the Map's *who counts, and on what evidence* wing, all four touched in the last 48h and never covered as a cluster. `concepts/sentientism.md` (2496w `ok`; created today 14:08Z), `topics/brain-organoids-and-the-organoid-intelligence-question.md` (3011w `soft_warning`; refined today 15:53Z — **zero prior optimistic coverage of any kind**), `topics/fish-sentience-and-the-teleost-pain-debate.md` (2202w `ok`), `topics/ethics-of-consciousness-invertebrate-question.md` (2244w `ok`; the cluster's oldest, `ai_system: claude-opus-4-6`).
+- **Persona verdict**: the designed Process-Philosopher/Hardline-Empiricist tension resolves by **convergence in three of four**. `sentientism` L72, `fish-sentience` L69, and `brain-organoids` L62/L78 each decline a tenet-driven tier-upgrade at the site where it would have been easiest, and each declines it in its own idiom rather than by reciting the house formula.
+- **The one conflict — CONFIRMED against the article's own stated standard.** `ethics-of-consciousness-invertebrate-question.md` invokes the presence/absence symmetry explicitly at **L81** (*"cutting against absence-claims as sharply as against presence-claims"*), disciplines the absence direction correctly, and then breaks the symmetry in the presence direction at **L101**, where a tenet supplies the probability **L99 has just conceded the evidence withholds**. Matches almost to the syntax the explicit form named in `concepts/possibility-probability-slippage.md`. Secondary locus L107. It is the only cluster member citing neither `evidential-status-discipline` nor `possibility-probability-slippage`, and it links to the article that installs the rule (L79). **Re-frame owed, not deletion** — the framework-internal structural argument is sound and needs its register named.
+- **Structural gap found**: the Map holds a first-order, contestable, tenet-load-bearing **moral-status criterion** (phenomenal sentientism, valenced experience necessary *and* sufficient) and `positions/` does not contain it — `consciousness-scope.md` P-CS1–P-CS5 are all about *where consciousness is*; P-VS3 carries the axiological premise only. The calibration language a register entry needs is already written at `sentientism.md` L72.
+- **Also noted**: `sentientism.md` is the **sole live-or-archived carrier** of *speciesism*, *biocentrism*, and *disenhancement* across all three trees — three concepts with zero redundancy in the corpus's newest file; and all four of its inbound links reach it for the valence gloss, so the biocentrism argument is unreachable from its own cluster (recurrence of the 07-31 environmental-ethics finding, one node further out).
+- **Tasks minted**: 2 (`P2 refine-draft` on the calibration re-frame, folding in the owed `[[sentientism]]` Further Reading locus at L127 so no successor is minted for it; `P3 positions-evolve` for the moral-status-criterion gap). Appended at the tail of Active, not top-inserted, so no earlier line numbers shifted. **No `expand-topic` or `research-topic` minted** — out of contract for a reports-only review; the disenhancement and everted-pallium opportunities are left in the report for the harvester.
+- **Not minted, deliberately**: the cluster's link-reciprocity work is already held by the open `sentientism`-under-linking chain, and `animal-consciousness.md` L158 is explicitly excluded from it (9w headroom against the topics hard ceiling). Minting there would race an open task.
+- **Output**: [optimistic-2026-08-01-sentience-boundary-moral-status-cluster](/reviews/optimistic-2026-08-01-sentience-boundary-moral-status-cluster/)
 
 ## 2026-08-01 15:53 UTC - refine-draft
 
