@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T13:31:00+00:00'
+ai_modified: '2026-08-01T13:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 13:47 UTC - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 799 obsidian article-tree + 510 archive + 8984 hugo
+- **Errors**: 5 new (Family P) + 15 carried forward and re-verified present
+- **Warnings**: 5 new + 3 carried forward
+- **Notes**: 6
+- **Headline**: Corpus still passes on the classic reading — zero direct-contradiction survivors in any tree. Family M (conceivability-cluster matrix inheritance) is **fully closed**, as is the A1 parsimony residue. New finding **Family P**: 16 obsidian article-tree files run *"the rejection of many-worlds preserves/ensures X"*, deriving from Tenet 4 the determinate-subject posit that `tenets.md` L120/L180 says Tenet 4 *presupposes*. 13 carry no framework-boundary marker; 2 of those cleared on reading. Root cause is fix-by-file rather than fix-by-string: `concepts/phenomenal-concepts-strategy.md` L193 and `concepts/objectivity-and-consciousness.md` L148 are Family M siblings the 07-30 fix did not reach.
+- **New lenses**: the Three Background Posits section of `tenets/tenets.md` (L178–180), and the first-ever sweep of `obsidian/positions/` — the register is **clean on all 12 files** and states the Family P discipline better than any article does (`positions/individuation-and-subjecthood.md` P-I1).
+- **Output**: [tenet-check-2026-08-01](/reviews/tenet-check-2026-08-01/)
 
 ## 2026-08-01 13:30 UTC - refine-draft (illusionism body-prose restriction, four loci across three trees)
 
