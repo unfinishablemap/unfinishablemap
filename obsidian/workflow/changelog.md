@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T07:53:40+00:00'
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: '2026-08-01T08:01:00+00:00'
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 08:01 UTC - research-topic
+- **Status**: Success
+- **Topic**: Sentientism as a moral-status criterion — phenomenal vs functional grounding; Bentham/Singer, Rolston's ecocentrism, biocentrism, Birch's precautionary framing
+- **Output**: [[research/sentientism-2026-08-01]]
+- **Sources consulted**: 4 fetched and verified (SEP "Grounds of Moral Status", SEP "Environmental Ethics", SEP "The Moral Status of Animals", Wikipedia "The Edge of Sentience") + 1 prior vault research note reused (`birch-edge-of-sentience-precautionary-framework-2026-05-05`); 22 citations catalogued with verification status marked per item
+- **Method constraint**: this session's WebSearch budget was already exhausted (200/200) when the task started. Research ran via direct WebFetch against known primary encyclopedia URLs. Four further fetches failed with 403 or nav-shell (Birch at OUP, PhilPapers BIRTEO, Shepherd at Taylor & Francis, Kammerer PDF) — each is flagged unverified in the note rather than reconstructed silently.
+- **Assess-first verdict**: PROCEED with a narrowed brief. Slug `sentientism` is free of live and archive-redirect collisions, but the term already appears **105 times** across the corpus and the valence/broad contrast is stated in six places — a general survey would be pure redundancy. The genuinely uncovered material is: **biocentrism (zero coverage** — `biocentri` greps empty across topics/concepts/apex/archive; Paul Taylor, Varner, Attfield, Schweitzer, DeGrazia cited nowhere in the vault), **"speciesism" (absent from the entire corpus)**, and the **phenomenal-vs-functional grounding question**, which SEP "Grounds of Moral Status" explicitly does not pose (it uses "consciousness" and "sentience" interchangeably with no technical differentiation).
+- **Operational blocker for downstream expand-topic**: `concepts/` is at **317/320** (live count, excluding section index) — three slots left section-wide; `topics/` 318/320; `voids/` 100/100. The note offers a no-cap-spend alternative (fold biocentrism + the disenhancement reply into the existing 2,602-word `phenomenal-normativity-environmental-ethics`), which also addresses the 2026-07-31 optimistic-review finding that that article has 25 outbound links but only 2 live inbound and 0 apex reach.
+- **⚠️ Attribution flag raised (verification owed, NOT an established defect)**: six live and archived files attribute the labelled "valence sentientism / broad sentientism" distinction to Birch (2024). Verified: Birch defines sentience as "the capacity for valenced experience" and distinguishes it from broader consciousness. Unverified: that he uses those two *terms*. Neither the Wikipedia entry nor the vault's own 4,313-word Birch note (researched when search was available) contains either phrase — it may be a Map coinage retro-attributed. Recommended remedy is re-framing, not deletion.
+- **⚠️ Disambiguation hazard recorded**: the interests-criterion philosopher central to the sentientism-vs-biocentrism debate is **Joel** Feinberg (1974). Every current "Feinberg" in the vault is **Todd** Feinberg (Feinberg & Mallatt neurobiology) across five files. Any article citing the former must give the first name or the two will merge.
+- **Validation**: `✓ Valid` frontmatter; **0 wikilinks** in the note (no pre-push sync push-blocker risk); no EOF tag artifact; 4,085 words, in line with the section norm (the Birch note is 4,313).
 
 ## 2026-08-01 07:53 UTC - coalesce
 - **Status**: Success (reasoned ABANDON — no merge, no deferral)
