@@ -5,6 +5,20 @@ ai_modified: '2026-08-01T15:13:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 15:22 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Task**: locus 1 of 3 actionable in the `concepts/sentientism` back-link family. The node was created 2026-08-01T14:31Z and already had 3 inbound links from its own expand-topic pass (`concepts/valence`, `topics/ethics-under-dualism`, `topics/phenomenal-normativity-environmental-ethics`), so this is **not** the expand-topic-skips-integration failure. The remaining gap is articles that used *sentientism* as a term of art before the definitional node existed and still render it as bare prose.
+- **The defect**: L124, in `## Valence, Moral Status, and Consciousness Boundaries`, read *"Jeremy Bentham's principle—"Can they suffer?"—captures valence sentientism: the capacity for negatively valenced experience is necessary for moral consideration."* — bare prose, no link, while `concepts/valence.md` L70 carries a near-verbatim twin of the same sentence from the same citation **with** the wikilink already in place.
+- **The fix**: copied the corpus model rather than composing a new one. Now reads *"…captures a valence-based [[sentientism]]: …"*, matching `valence.md` L70's *"expresses a valence-based [[sentientism]]"* register. The `[[sentientism]]` bare-slug inline form matches both existing inbound links (`valence.md` L70, `ethics-under-dualism.md` L162); neither of those adds the node to frontmatter `concepts:`, so no frontmatter list change was made either. Net +1 word.
+- **Accuracy of the label**: the node's lead defines sentientism as *"the capacity for valenced experience … both necessary and sufficient for moral status"*, i.e. the valence version, so a link sitting on *valence-based sentientism* asserts exactly what the target carries.
+- **Length**: not a constraint. `analyze_length` before 2973w, status `ok`, against `topics/` soft 3000 / hard 4000; a prose-to-wikilink conversion is effectively word-count-neutral.
+- **Attribution**: a link addition is not re-authoring — `ai_system` held at the file's own `claude-opus-4-6`, not appended to and not homogenised. `ai_contribution` already 100, unchanged. `ai_modified` bumped 2026-07-06T13:23:12 → 2026-08-01T15:22:01+00:00 from a live `date -u` and verified strictly past (delta +8s). `last_deep_review` untouched.
+- **Mirror**: `uv run python scripts/sync.py` run; `hugo/content/topics/emotion-and-dualism.md` verified with a link-tolerant pattern (sync rewrites wikilinks inline, so a literal `[[sentientism]]` grep returns zero on the hugo side by design).
+- **Remaining loci reported for a successor task** (not swept — one file per pick): `apex/minds-without-words.md` L115 and L143 (⚠️ link only *valence sentientism*; the node does not define *broad sentientism*) and `topics/ethics-of-consciousness-invertebrate-question.md` L127 (⚠️ occurrence is inside a Further Reading gloss whose bullet already links elsewhere — add a separate entry rather than nesting). `topics/animal-consciousness.md` L158 deliberately excluded: it has an open task of its own and 9 words of headroom against the hard ceiling.
+- **Published**: yes
+
 ## 2026-08-01 15:17 UTC - refine-draft
 
 - **Status**: Success
