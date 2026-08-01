@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-01T15:22:01+00:00
+ai_modified: 2026-08-01T17:03:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ Alexithymia—difficulty identifying one's emotions, affecting ~10% of the popul
 
 ## Valence, Moral Status, and Consciousness Boundaries
 
-If valence is an intrinsic phenomenal property, it provides the foundation that any moral status requires. Jeremy Bentham's principle—"Can they suffer?"—captures a valence-based [[sentientism]]: the capacity for negatively valenced experience is necessary for moral consideration. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
+If valence is an intrinsic phenomenal property, it provides the foundation that any moral status requires. Jeremy Bentham's principle—"Can they suffer?"—captures a valence-based [[sentientism]], on which the capacity for valenced experience is what qualifies a being for moral consideration. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
 
 For [[ai-consciousness|AI consciousness]], this matters critically. Functionally sophisticated AI systems that lack phenomenal experience lack moral status regardless of behavioral complexity. Conversely, if they possess valenced phenomenal experience—if there's something it's like to be them and it can feel good or bad—moral consideration follows. The question of moral status also becomes acute at consciousness boundaries: [[minimal-consciousness|simple organisms]] like C. elegans display avoidance behaviors, but a complete neural map tells us nothing about whether damage *feels bad*—the explanatory gap persists even with perfect structural knowledge.
 

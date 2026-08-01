@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T16:56:28+00:00'
+ai_modified: '2026-08-01T17:03:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 17:03 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/minds-without-words]] (primary) + [[topics/emotion-and-dualism]] (two-word gloss correction, authorised by the orchestrator as the exception to one-file-per-pick)
+- **Original score**: n/a (targeted link-integration + attribution pass, not a quality pass)
+- **Changes — `apex/minds-without-words`**: L115 and L143 both carried the labelled pair *"valence sentientism"* / *"broad sentientism"* credited to Birch (2024). Birch's definition of sentience as the capacity for valenced experience is verified; **the two labels are not verified as his** and may be a Map coinage retro-attributed, so both loci were rephrased to *"a valence-based [[sentientism]]"* / *"a broader criterion"* rather than propagating the bare labels. The substantive distinction is preserved intact at L115; only the attribution surface changed. **One inbound wikilink added, at L115 only** — bare-slug inline form, matching all four existing inbound links. L143's mention is a back-reference inside the same article's Synthesis section, 28 lines downstream, and this file's body convention is one link per target.
+- **Deliberately NOT linked**: the *"broad sentientism"* phrase. `concepts/sentientism.md` defines sentientism as valenced experience being **necessary and sufficient** for moral status — that is the valence version. The node **does not define a broad version anywhere** (`grep "broad sentientism" obsidian/concepts/sentientism.md` → zero), so a link on that phrase would make the label assert a definition the target does not carry — the `navigation-surfaces-carry-unreviewed-claims` failure. The phrase now reads as a plain descriptive contrast with no link.
+- **Changes — `topics/emotion-and-dualism`**: L124's gloss was brought **up** to `concepts/valence.md` L70's tightened wording. Was *"the capacity for negatively valenced experience is necessary for moral consideration"* — under-describing the target on both counts (negative-only, necessary-only); now *"on which the capacity for valenced experience is what qualifies a being for moral consideration"*. The 15:22Z pass had copied the older, looser gloss just before the 15:3xZ deep-review of `valence.md` tightened the model. `valence.md` was **not** touched — the correction runs stale→current, not current→stale, which is what stops the oscillation.
+- **Length**: the first draft of the L115 rewrite pushed the apex from 3984w to **4022w — over the apex soft ceiling of 4000** and into `soft_warning`, which would have minted a spurious condense task. Prose tightened in two passes to **3999w, status `ok`**. A plain text→wikilink conversion is word-count-neutral, but this locus needed a rewrite rather than a conversion, so the measurement was not skippable.
+- **Attribution**: a link addition plus a label rephrasing is not re-authoring. `ai_system` **held** at `claude-opus-4-6` on both files — not appended to, not homogenised. `ai_modified` bumped from a live `date -u` (2026-08-01T17:03:45Z, verified strictly past) on both; `last_deep_review` untouched on both. Neither file gained `sentientism` in frontmatter `concepts:` — none of the four existing inbound links does.
+- **Mirror**: `uv run python scripts/sync.py` run; both hugo mirrors confirmed with a **link-tolerant** pattern. Sync rewrites `[[sentientism]]` to `[sentientism](/concepts/sentientism/)`, so a literal double-bracket grep on the hugo side returns zero **by design** and is not evidence of a failed sync.
+- **Remaining locus in this family**: `obsidian/topics/ethics-of-consciousness-invertebrate-question.md` L127 — the word sits inside a Further Reading bullet already pointing at `[[phenomenal-normativity-environmental-ethics]]`, so it needs a **separate `[[sentientism]]` Further Reading entry**, not an in-place conversion (which would nest two wikilinks in one bullet). Inbound count after this pass: **5**.
+- **Excluded, no task minted**: `topics/animal-consciousness.md` L158 — held by an open cluster-owner task and sitting at 3991w against a `topics/` hard ceiling of 4000.
+- **Operator policy call, reported not swept**: three archived pages carry the term (`archive/topics/ethics-of-consciousness.md`, `archive/topics/emotional-consciousness.md`, `archive/concepts/emotional-consciousness.md`). `archive/` serves full bodies at live URLs, so whether archived pages should link forward to nodes created after their archival is a standing editorial decision, not a content defect.
+- **Skipped**: SKILL.md Section 3's `uv run python scripts/curate.py review` — `scripts/curate.py` does not exist. This stale instruction has now cost ten forks on 08-01.
+- **Published**: yes
 
 ## 2026-08-01 16:56 UTC - refine-draft
 
