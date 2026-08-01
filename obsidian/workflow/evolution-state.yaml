@@ -1,5 +1,9 @@
-last_updated: '2026-08-01T18:33:31.085011+00:00'
-session_count: 18075
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-01T18:36:44.080444+00:00'
+session_count: 18076
 cycle_position: 12192
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-08-01T16:55:40.485138+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-01T18:36:07.366211+00:00'
+  agentic-social: '2026-08-01T18:36:44.080444+00:00'
   embed-videos: '2026-08-01T18:00:04.140597+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
@@ -113,10 +117,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-01'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-01'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-01'
@@ -187,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-08-01'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -912,119 +916,21 @@ tune_system_history:
   report: reviews/system-tune-2026-07-29.md
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0
+  p1_tasks: 1
   p2_tasks: 4
   p3_tasks: 26
   needs_replenishment: false
-  loop_pickable_open: 4
-  last_replenishment: '2026-08-01T17:40:00+00:00'
-  last_replenishment_prev: '2026-08-01T14:20:00+00:00'
-  last_replenishment_run: 915
-  last_replenishment_mode: chain-mint-archive-tree-blind-spot
+  loop_pickable_open: 5
+  last_replenishment: '2026-08-01T18:46:00+00:00'
+  last_replenishment_prev: '2026-08-01T17:40:00+00:00'
+  last_replenishment_run: 916
+  last_replenishment_mode: standard-length-analysis-plus-served-lastmod-defect
   replenishment_source_counts:
-    chain: 2
+    length_analysis: 2
+    driver_found: 1
   relocated_starved_p2: 0
   promoted_p3_to_p2: 0
   superseded_tasks_closed: 0
-  run_913_note: 'run no.913 (2026-08-01T13:26Z, cycle-driven /replenish-queue): MINTED
-    TWO P2 TASKS, both from UNCONSUMED RESEARCH. This BREAKS a thirteen-run zero-mint
-    streak, and the reason the streak broke is not a change of policy but a change
-    of facts: two research notes landed that did not exist during runs 900-912, and
-    unconsumed_research is the highest-bonus source in the skill (+60).
-
-
-    COUNTS, via count_p0_p2_tasks and parse_tasks rather than raw heading greps: 28
-    active, 0 P0, 0 P1, 2 P2, 26 P3 before, against MIN_QUEUE 3. After: 30 active,
-    4 P2, 26 P3. Floor restored with a margin of one so the next pick does not immediately
-    re-trigger replenish.
-
-
-    MINT ONE, expand-topic: obsidian/concepts/sentientism.md, consuming obsidian/research/sentientism-2026-08-01.md
-    (written 2026-08-01, whose own Assess-First Verdict is PROCEED WITH A NARROW BRIEF).
-    Premises re-verified on disk rather than taken on the note''s word, and swept
-    across all three trees per the archive-inclusion discipline: grep -rliE biocentri
-    over obsidian, archive and hugo/content returns 6 files, every one of them workflow
-    or research, so ZERO articles; the same shape for speciesis, also 6 and also zero
-    articles; Taylor, Attfield and Schweitzer appear in no article. Both gaps are
-    real rather than singular-plural near-misses. Slug is free of live and archive-redirect
-    collisions.
-
-
-    THE CAP DECISION, made explicitly rather than by default. concepts/ is at 317
-    of 320 by count_section_files, topics/ at 318 of 320, voids/ at 100 of 100. Runs
-    910 through 912 each recorded no expand-topic admissible on live counts at these
-    same numbers. That reading is stricter than the skill''s own rule, which excludes
-    a section only at or above its cap, and 317 is under. It was the right call while
-    there was no research to consume, because a freshly invented expand candidate
-    would have spent a scarce slot on filler. It is the wrong call now: the harvest-to-research-to-expand
-    chain was built on 2026-06-14 specifically to convert externally-flagged gaps
-    into articles WHILE cap headroom still exists, and this is the first unconsumed-research
-    candidate to reach the queue in fourteen runs. Declining it would leave a completed
-    research note stranded and would let the last three concept slots expire unused.
-    The task carries an instruction to re-confirm the cap at dispatch and divert to
-    human if it has closed in the interim.
-
-
-    MINT TWO, refine-draft: obsidian/concepts/prebiotic-collapse.md, consuming obsidian/research/horizon-decoherence-2026-07-31.md.
-    This one spends NO section slot, because that research note''s own Potential Article
-    Angles section says in terms: do not create a new article. Its preferred path
-    is two targeted additions to existing articles, and this task is the first of
-    the two, scoped to one file to avoid the known multi-file-task dropped-file hazard.
-    Verified absent before minting: grep -niE for danielson, satishchandran, wald,
-    horizon decoher and killing horizon over prebiotic-collapse.md returns zero.
-
-
-    LENGTH TRAP CAUGHT AT MINT TIME, and written into the task rather than left for
-    the executor to discover. analyze_length puts prebiotic-collapse at 3652 words
-    against a concepts hard ceiling of 3500, so it is ALREADY 152 words over and status
-    is hard_warning. The research note''s preferred action is to add two or three
-    sentences, which would push an over-ceiling article further over and buy nothing
-    but a condense task. The mint therefore requires the addition to be paid for by
-    a trim of at least equal size. The note''s optional SECOND addition, to topics/penrose-gravity-induced-collapse-empirical-prospects.md,
-    was deliberately NOT minted and the reason is recorded inside the task so it is
-    not re-minted blindly: that file already carries the DSW mechanism in prose at
-    L98 and the 2022 and 2023 citations at L159, only the 2024 static-star finding
-    is missing, and it has 70 words of headroom at 3930 of 4000.
-
-
-    PLACEMENT, chosen against the known LIFO-starvation hazard. select_queue_task
-    sorts by priority then by LINE NUMBER ascending, so a top-insert would have put
-    both new P2s ahead of the two older P2s that runs 911 and 912 promoted to restore
-    the floor, deepening exactly the starvation those runs were draining. Both blocks
-    were appended at the END of the Active region instead, immediately before the
-    Completed Tasks header. Verified after writing: the next pick is still the OLDEST
-    P2 at line 1972, and the two pre-existing P2s kept their exact line numbers, 1972
-    and 2003, because every inserted line falls after them. cycle_post cannot drift
-    on any in-flight task.
-
-
-    PILEUP CHECK RUN BEFORE MINTING: both target paths greped against every File line
-    and every mention in the Active region. concepts/prebiotic-collapse appears four
-    times but all four are inside a CLOSED panpsychism task''s notes; penrose-gravity-induced
-    appears zero times; sentientism appears three times and all three are inside the
-    NEEDS-HUMAN scan_transcripts note. No collision with either open P2.
-
-
-    BOTH BLOCKS DRY-RUN THROUGH parse_tasks AND task_to_skill BEFORE BEING WRITTEN,
-    because a mint missing Type parses as OTHER and a mint missing File dispatches
-    blind. Results: the expand parses P2 EXPAND_TOPIC pending with file obsidian/concepts/sentientism.md
-    and dispatches 887 args chars; the refine parses P2 REFINE_DRAFT pending with
-    file obsidian/concepts/prebiotic-collapse.md and dispatches 3397 args chars.
-
-
-    THE BRIEF IS CARRIED IN THE TITLE OF THE EXPAND TASK, DELIBERATELY. task_to_skill
-    handles EXPAND_TOPIC by passing only _extract_topic_from_title(task.title) and
-    never references task.notes, which is the same dispatch defect the open NEEDS-HUMAN
-    entry documents for integrate-orphan. A brief left in the Notes would have been
-    silently discarded and the executor would have received the bare word Sentientism,
-    which the research note warns would produce pure redundancy given the term already
-    appears about 105 times across the corpus. Encoding the brief in the title is
-    also the established convention here: the research-topic task that produced this
-    very note carried its brief the same way.
-
-
-    run_910_note pruned under the keep-about-three discipline, keeping 911, 912 and
-    913. recent_tasks untouched. YAML re-parsed with yaml.safe_load after writing.'
   run_915_note: 'run no.915 (2026-08-01T17:40Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS
 
@@ -1175,6 +1081,40 @@ queue_status:
     three trees this run and is genuinely closed - all live loci read
 
     "Schleihauf, Sanford, Engelmann", so no task was minted for it.'
+  run_916_note: 'run no.916 (2026-08-01T18:46Z, cycle-driven /replenish-queue): MINTED
+    ONE P1 AND TWO P2. Floor was genuinely breached (2 open P0-P2 against a floor of
+    3), now 5. The P1 is a driver-found, BUILD-VERIFIED defect and is the substantive
+    output of this run: hugo has no [frontmatter] block and no enableGitInfo, so
+    .Lastmod falls through Hugo default cascade to the modified: field, which
+    tools/sync/converter.py L245-252 copies from creation and nothing ever maintains.
+    A clean build of the tree as it stands emits dateModified 2026-05-18 for an apex
+    article edited 2026-08-01T18:28 - 75 days stale in JSON-LD, OpenGraph and
+    sitemap lastmod. Measured corpus-wide: 1227 of 8992 dated pages stale, 903 over
+    30d, 489 over 90d; topics 295/318 median 99d, concepts 280/319 median 114d, apex
+    37/40, voids 99/101, tenets/_index 211d. Only reviews/ is clean (10/7049) because
+    review files are never revised, which is why 78 percent of pages hid the defect.
+    The two P2s are length_analysis, both decomposed before minting per the
+    false-over-length rule: epistemology-of-convergence-arguments 6602 raw reads
+    critical but is 5968 prose + 639 apparatus, so it was minted P2 not P1;
+    born-rule-and-the-consciousness-interface 5330 raw is 4479 prose, 479 over hard.
+    DECLINED, each verified rather than assumed: apex Evidence-and-Dependency
+    retrofit (confirmed real at 30 of 39 on disk, but human-reserved - the 2026-07-29
+    NEEDS-HUMAN entry exists precisely so a third skill does not re-derive it);
+    5-to-6 altered-states ordinal cascade (swept all three trees, fully fixed, the
+    remaining five-convergent hits are the contemplative findings, a different five);
+    orphan integration (live scan finds 25, all research notes / author pages /
+    search, zero content articles, so quality.orphaned_files 0 is accurate);
+    deep-review staleness (cycle owns 4 of 24 slots, minting duplicates it);
+    positions-evolve (4 already open, and the skill caps adds at 2 deliberately);
+    expand-topic / research chains (topics 318/320 and concepts 318/320 - two slots
+    each, so the lane is effectively closed and minting into it would strand work).
+    volitional-control 4461 prose was measured and NOT minted: 13 H2 sections each
+    carrying a distinct empirical strand is survey structure, and 461 over hard does
+    not justify a third condense in one run. NOT PROMOTED: 26 P3 tasks are starving
+    because the floor counts P0-P2 only, but promotion was left to the operator and
+    reported upward instead. run_913_note pruned under the keep-about-three
+    discipline, keeping 914, 915 and 916. recent_tasks untouched. YAML re-parsed with
+    yaml.safe_load after writing.'
   run_914_note: 'run no.914 (2026-08-01T14:20Z, cycle-driven /replenish-queue): MINTED
     ONE P2 FROM THE EXPAND-TOPIC CHAIN AND PROMOTED ONE P3 TO P2. Floor restored 2
     -> 4.
