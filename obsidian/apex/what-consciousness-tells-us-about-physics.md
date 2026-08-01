@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-07-20T01:22:52+00:00
+ai_modified: 2026-08-01T13:17:09+00:00
 last_deep_review: 2026-07-20T01:22:52+00:00
 draft: false
 topics:
@@ -105,7 +105,7 @@ From [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: the Bo
 
 This rules out: Bohmian mechanics, superdeterminism, and any interpretation where outcomes are predetermined by physical facts we happen not to know.
 
-Bradford Saad's [[causal-closure|distinction between universal and observational closure]] sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. The gap between what has been observed and what must be true is precisely where consciousness could operate. Buhler's (2020) systematic survey reinforces this: every extant argument for universal closure either begs the question against dualism or commits sampling errors by generalising from observed regularities to metaphysical exhaustiveness. Saad's own [[delegatory-dualism|delegatory account]] (2025) exploits this gap without inflating either side ontologically—a lean worked example of how the opening can be occupied.
+Bradford Saad's [[observational-closure|distinction between universal and observational closure]] sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. The gap between what has been observed and what must be true is precisely where consciousness could operate. Buhler's (2020) systematic survey reinforces this: every extant argument for universal closure either begs the question against dualism or commits sampling errors by generalising from observed regularities to metaphysical exhaustiveness. Saad's own [[delegatory-dualism|delegatory account]] (2025) exploits this gap without inflating either side ontologically—a lean worked example of how the opening can be occupied.
 
 ### 3. Something Non-Physical Modulates Outcome Selection
 
@@ -256,7 +256,7 @@ This synthesis draws together:
 
 1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(1). https://doi.org/10.1515/mp-2019-0026
+3. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(2), 223-236. https://doi.org/10.1515/mp-2019-0026
 4. Cubitt, T.S., Perez-Garcia, D. & Wolf, M.M. (2015). "Undecidability of the Spectral Gap." *Nature*, 528, 207–211.
 5. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A. & Kattnig, D.R. (2024). "Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect." *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
 6. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme." *Monatshefte für Mathematik und Physik*.

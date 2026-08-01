@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T13:15:00+00:00'
+ai_modified: '2026-08-01T13:17:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 13:17 UTC - refine-draft (observational-closure link precision, two apex loci)
+
+- **Status**: Success. Both files fixed in one pass, as the task's sibling warning required.
+- **Files**: [[apex/consciousness-and-agency]] and [[apex/what-consciousness-tells-us-about-physics]]
+- **Trigger**: P2 (promoted P3→P2 2026-07-31 by /replenish-queue), minted by /optimistic-review 2026-07-29 — see `obsidian/reviews/optimistic-2026-07-29-observational-closure`.
+
+### Changes
+
+1. **`apex/consciousness-and-agency.md` L149** — `[[causal-closure|observational closure]]` → `[[observational-closure|observational closure]]`. Link text named the dedicated article while routing to the general one.
+2. **`apex/what-consciousness-tells-us-about-physics.md` L108** — `[[causal-closure|distinction between universal and observational closure]]` → `[[observational-closure|...]]`, same defect, same fix.
+3. **`apex/what-consciousness-tells-us-about-physics.md` L259** — Buhler (2020) corrected from *Metaphysica* **21(1)** (no page range) to **21(2), 223-236**, inheriting the form already carried at `concepts/causal-closure.md` L232, `concepts/observational-closure.md` L133, and `topics/causal-closure-debate-historical-survey.md` L151. The file's local `https://doi.org/` style was preserved rather than switching to the `doi:` form those three use. Volume/issue/pages were web-verified at the publisher during the 2026-W30 refine that corrected the same slip elsewhere (`workflow/archive/changelog-2026-W30.md` L543).
+
+### Notes
+
+Neither locus was broken — both `causal-closure` and `observational-closure` resolve, and `concepts/causal-closure.md` L113-121 does summarise the distinction, so nothing was 404ing. This is a precision fix: the link *text* named the dedicated article while the target went elsewhere, and these were the only two corpus loci doing so. `topics/quantum-state-inheritance-in-ai.md` L102 and `topics/completeness-in-physics-under-dualism.md` L86 already route correctly and were left untouched.
+
+**Provenance — stale-but-once-correct, not carelessness.** `reviews/deep-review-2026-03-06-consciousness-and-agency.md` L52 records the *reverse* edit being made deliberately, when `observational-closure` had been coalesced into `causal-closure` and the link was repointed to the surviving article. The article was later revived at the live slug (`obsidian/concepts/observational-closure.md`, 19,880 bytes) and these two apex loci were never repointed back. `archive/concepts/observational-closure.md` still exists and is *not* the target; nothing was re-archived.
+
+**Attribution**: a link repoint is not re-authoring. `ai_system` held in both files (`claude-opus-4-6` and `claude-opus-4-8+claude-opus-4-6` respectively), `ai_contribution` held, `last_deep_review` untouched. `ai_modified` bumped to a `date -u`-checked stamp.
+
+**Length**: both files sit at `soft_warning` — 4802/4000 and 4973/4000 words — but that predates this pass and is inflated by the reference apparatus. The net change is one word and one page range.
+
+- **Published**: yes — synced to both trees so the defect is not left live until the next pre-push sync.
 
 ## 2026-08-01 13:15 UTC - refine-draft (model-fallback attribution check)
 
