@@ -1,13 +1,65 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T16:05:00+00:00'
+ai_modified: '2026-08-01T16:56:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 16:56 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [tenets](/tenets/)
+- **Original score**: n/a (targeted single-string citation correction, not a quality pass)
+- **Changes**: L94 author order corrected — `Sanford, Schleihauf, Engelmann et al. (2025)` → `Schleihauf, Sanford, Engelmann et al. (2025)`. Two-name swap only; the parenthetical (`2025, *Science*`), the linked DOI `10.1126/science.adq5229`, and every other word on the line left untouched. Inline citation only — no References entry exists for this work on this page. `ai_modified` bumped 2026-07-28T21:17:44Z → 2026-08-01T16:56:28+00:00; `ai_system` **held** (correcting an author order is not re-authoring); `last_deep_review` untouched.
+- **Correct record**: Crossref (`api.crossref.org/works/10.1126/science.adq5229`), OpenAlex, and Europe PMC agree — first author **Schleihauf, H.**; **Sanford, E. M. is second**; no equal-contribution statement. The corpus short form is now uniform.
+- **Family closed**: this was the third and last live locus. The other two were fixed earlier today — `concepts/bidirectional-interaction.md` (16:20Z) and `topics/empirical-evidence-for-consciousness-selecting.md` (16:40Z). Post-sync filtered sweep `grep -rln "Sanford, Schleihauf" obsidian/ hugo/content/ archive/ | grep -v "/reviews/\|workflow/"` returns **zero lines**.
+- **Root cause**: the wrong ordering entered via `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md` L226, where an external reviewer supplied it and the Map marked it *"✓ Confirmed"* and inherited it verbatim. **Aggregator ratification is not verification at the publisher of record** — the same failure mode already recorded for quote fidelity now has a citation-metadata instance.
+- **Deliberately not edited**: `obsidian/reviews/`, `workflow/changelog*` historical entries, `workflow/todo.md`, `workflow/archive/`. These are dated historical record and correctly retain the old form; the before→after quoted in this entry matches the old string by design and is not an unfixed locus (the completion sweep filters `workflow/` and `/reviews/` for exactly this reason).
+- **Mirror**: `uv run python scripts/sync.py` run; `hugo/content/tenets/_index.md` L97 confirmed to carry the corrected form. The tenets page syncs to `_index.md`, not a same-named file, so that path must be grepped specifically.
+- **Tooling defect surfaced**: SKILL.md Section 3 instructs `uv run python scripts/curate.py review [filepath]`, but `scripts/curate.py` does not exist. Nine forks hit this stale instruction on 08-01. Skipped here; worth a separate fix.
+- **Published**: yes
+
+## 2026-08-01 16:52 UTC - coalesce
+
+- **Status**: Success (reasoned ABANDON — no merge, no deferral)
+- **Sources**: none · **Target**: none created · **Archived**: none · **References to review**: none
+- **Outcome**: ninth consecutive abandon. No content file modified. `topics/` 318/320 as counted (**317 real** — see the operator finding below), `concepts/` 318/320, `voids/` 100/100.
+
+### New signal — inbound-link role measurement, the first pass to measure the criterion every prior verdict turned on
+
+The eight prior passes ranked candidates by *similarity* proxies (slug/description, citation-set Jaccard, arithmetic-first + link/slug Jaccard, wikilink-neighbourhood + title-token Jaccard + `coalesced_from` ancestry, corpus-wide 9-gram shingles, within-voids shingles) and then declined on **argumentative role**. Role was asserted each time, never measured. This pass measures it directly: an article's role in the corpus is what *other articles' prose* does with it, so inbound wikilinks were counted **body-only**, with frontmatter (`concepts:`/`topics:`/`related_articles:`) excluded as bookkeeping rather than argument.
+
+Across all **635** live `topics/`+`concepts/` articles: **median 12 body-inbound links, mean 20.1**. Counts at the low tail: **2** articles at zero, **5** at ≤1, **15** at ≤2, **38** at ≤3. So **99.2% of the corpus is actively cited in another article's running prose.** The "distinct argumentative role" ground on which eight passes declined is now a measured property of the corpus, not an editorial intuition — which also retires the standing worry that the verdict is a rationalisation.
+
+### The two blockers are independent — the sharper result
+
+Prior passes concluded the lane is blocked *at the redundancy step*. This pass shows the constraints are two, not one. For the five articles the corpus has used **least** — where no "the gap is the claim" defence can apply, because the Map has never once invoked the gap in prose — every same-section partner sharing ≥3 body links still **overshoots the hard ceiling**: `is-conscious-being-a-natural-kind` best partner +491w over, `consciousness-and-the-major-evolutionary-transitions` +945, `authorship-of-action-divergence` +1253, `phenomenology-of-resistance-across-domains` +1769. Role-differentiation and length arithmetic are therefore **independent binding constraints**. Removing either would not open the lane.
+
+### Candidates evaluated on the merits — all first-time pairings
+
+Anti-procrastination check per [abandon-coalesce](/project/abandon-coalesce/) §Failure Modes: changelog greps return **0** prior mentions for `phenomenal-depth` and `quantum-divine-action`; `phenomenal-constitution-thesis`'s single hit is a *different* pairing (vs. `constitution-vs-causal-work`, refused 07-29 on the merits); `occasionalism`'s eight hits are all the `interaction-problem-across-traditions` integration work, not coalesce triage. No candidate is being deferred repeatedly.
+
+1. **`phenomenal-constitution-thesis` + `phenomenal-depth`** (concepts; both age-clear at 36d and 65d; 3298w raw, fits the 3500 ceiling) — **DECLINE**. Shared adjective, different object: PCT is the claim that phenomenal character constitutes intentional **content/meaning**; depth is layered qualitative **richness within a single state**. PCT also carries a role-accuracy ledger a merge would dilute (Chudnoff supplies the constituting/accompanying distinction but is a *critic* of content-PCT; the Map sides against him and says so).
+2. **`quantum-divine-action` + `occasionalism`** (concepts; highest Jaccard, 0.357, among arithmetic-fitting pairs; both 18d) — **DECLINE**, textbook reciprocal deference. `occasionalism` carries a "Quantum Occasionalism: The Living Rival" section that explicitly hands the objection ledger to the sibling ("The dedicated [quantum-divine-action](/concepts/quantum-divine-action/) article develops the full program and its objection ledger"); `quantum-divine-action` opens by demarcating itself ("It differs from occasionalism, which relocates *all* causation to God as a general metaphysics"). Two separate literatures with separate SEP entries — 17c Cartesian (Malebranche, Geulincx, La Forge, Cordemoy, al-Ghazālī) vs. 20–21c divine action (Russell's NIODA, Plantinga, Murphy, Tracy, Ellis). Framework-independence sub-question passes cleanly.
+3. **`feminist-phenomenology-and-embodied-consciousness` + `lived-objectified-body-distinction`** (concepts; thematically the *right* pair — Beauvoir/Young on the lived body against Husserl/Merleau-Ponty's *Leib*/*Körper*) — **DECLINE on three independent grounds**: (a) *arithmetic* — 2525+1386 = 3911 against the concepts hard ceiling of 3500, +411 over on `analyze_length`, not merely on raw counts; (b) *canonical-node destruction* — `lived-objectified-body-distinction` self-describes as "the canonical anchor through which The Unfinishable Map's embodiment articles route their treatment of the felt body", exactly the single-source structure the 07-29 22:40Z pass identified as un-mergeable because a merge destroys the de-duplication it exists to provide; (c) *review debt* — its `last_deep_review` is 2026-07-26, six days old, so a merge would bury freshly-reviewed work per [abandon-coalesce](/project/abandon-coalesce/)'s coalesce-hides-review-debt hazard.
+
+### ⚠️ Operator/code finding — the cap arithmetic is hiding one free slot in `topics/`
+
+`tools/evolution/state.py:count_section_files()` counts **every** `.md` in a section directory except `_index.md` and `<section>.md`. `obsidian/topics/non-temporal-consciousness.refinement-log.md` is a **refinement-log sidecar, not an article** — it has no Hugo counterpart (`hugo/content/topics/` contains no refinement-log file), so it serves no page and no URL. It is nonetheless counted against `max_topics`. **Real `topics/` count is 317, not 318 — one free slot the cap arithmetic is concealing.**
+
+This is live right now, not theoretical: the 2026-08-01 07:47Z entry records the Sentientism research chain "banks on two free slots" and flags cap-blocking as a scheduling risk. The fix is code (exclude dotted-stem sidecars from `count_section_files`) or relocating sidecars out of section directories — both operator work, not a content edit. **Deletion is explicitly not the fix**: refinement-log sidecars are intentional artefacts. Corpus-wide there is exactly one such sidecar, so the exposure is one slot in `topics/` and zero elsewhere.
+
+### Observation recorded, not actioned
+
+`concepts/feminist-phenomenology-and-embodied-consciousness` is **1386w against a 2500 soft threshold** — ~45% under soft, the shortest article in the low-inbound tail, and its content sits on the concession direction (a tradition hostile to the Map's dualism, engaged honestly). That is an **expansion** opportunity, not a merge target. No task minted — out of coalesce contract, and recorded here so the finding is not lost.
+
+### Recommendation unchanged, now with a measured basis
+
+Cap relief must come from an **archival pass or an operator cap raise**, not from coalesce. Three prior passes recommended retiring coalesce's cap-relief mandate; this pass supports that, and adds the reason it will not change: the corpus cites 99.2% of its own articles in prose, and the untouched remainder is length-blocked. The two cycle slots per 24-cycle continue to buy a re-derived negative.
 
 ## 2026-08-01 16:40 UTC - refine-draft
 

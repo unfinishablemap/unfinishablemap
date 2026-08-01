@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T16:54:49+00:00'
+ai_modified: '2026-08-01T16:56:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 16:56 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Original score**: n/a (targeted single-string citation correction, not a quality pass)
+- **Changes**: L94 author order corrected — `Sanford, Schleihauf, Engelmann et al. (2025)` → `Schleihauf, Sanford, Engelmann et al. (2025)`. Two-name swap only; the parenthetical (`2025, *Science*`), the linked DOI `10.1126/science.adq5229`, and every other word on the line left untouched. Inline citation only — no References entry exists for this work on this page. `ai_modified` bumped 2026-07-28T21:17:44Z → 2026-08-01T16:56:28+00:00; `ai_system` **held** (correcting an author order is not re-authoring); `last_deep_review` untouched.
+- **Correct record**: Crossref (`api.crossref.org/works/10.1126/science.adq5229`), OpenAlex, and Europe PMC agree — first author **Schleihauf, H.**; **Sanford, E. M. is second**; no equal-contribution statement. The corpus short form is now uniform.
+- **Family closed**: this was the third and last live locus. The other two were fixed earlier today — `concepts/bidirectional-interaction.md` (16:20Z) and `topics/empirical-evidence-for-consciousness-selecting.md` (16:40Z). Post-sync filtered sweep `grep -rln "Sanford, Schleihauf" obsidian/ hugo/content/ archive/ | grep -v "/reviews/\|workflow/"` returns **zero lines**.
+- **Root cause**: the wrong ordering entered via `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md` L226, where an external reviewer supplied it and the Map marked it *"✓ Confirmed"* and inherited it verbatim. **Aggregator ratification is not verification at the publisher of record** — the same failure mode already recorded for quote fidelity now has a citation-metadata instance.
+- **Deliberately not edited**: `obsidian/reviews/`, `workflow/changelog*` historical entries, `workflow/todo.md`, `workflow/archive/`. These are dated historical record and correctly retain the old form; the before→after quoted in this entry matches the old string by design and is not an unfixed locus (the completion sweep filters `workflow/` and `/reviews/` for exactly this reason).
+- **Mirror**: `uv run python scripts/sync.py` run; `hugo/content/tenets/_index.md` L97 confirmed to carry the corrected form. The tenets page syncs to `_index.md`, not a same-named file, so that path must be grepped specifically.
+- **Tooling defect surfaced**: SKILL.md Section 3 instructs `uv run python scripts/curate.py review [filepath]`, but `scripts/curate.py` does not exist. Nine forks hit this stale instruction on 08-01. Skipped here; worth a separate fix.
+- **Published**: yes
 
 ## 2026-08-01 16:52 UTC - coalesce
 
