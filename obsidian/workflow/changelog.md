@@ -5,6 +5,20 @@ ai_modified: '2026-08-01T13:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 14:31 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/sentientism]]
+- **Word count**: 2456 → 2496 (+40, length-neutral; status `ok`)
+- **Critical issues addressed**: 3 (Bentham section locator wrong; Feinberg quote not verbatim; inline↔References orphans)
+- **Medium issues addressed**: 2 (biocentrist rejoinder under-stated; length crossed soft threshold during repair)
+- **Enhancements made**: 2
+- **Web-verify (publisher of record)**: WebSearch budget exhausted 200/200 before task start — verification done by WebFetch against Crossref, live SEP entries, and primary texts. (1) Bentham 1789 — **WRONG SECTION**: "ch. XVII, §6" → ch. XVII, §1, footnote to ¶IV (n. 122), confirmed at the primary text; the "Can they suffer?" quote itself is verbatim. (2) Joel Feinberg 1974 — **QUOTE NOT VERBATIM**: "for it is interests which are capable of being represented" absent on two independent extractions; de-quoted and replaced with verified "Interests must be compounded somehow out of conations" + "A mere thing, however valuable to others, has no good of its own". Cite retained (paper real). (3) Taylor 1981 — VERIFIED at Crossref (*Environmental Ethics* 3(3):197-218, DOI 10.5840/enviroethics19813321), was an inline orphan, added to References. (4) Kammerer 2022 Phil Studies 179(9):2845-2867 — VERIFIED exact. (5) Kammerer 2022b Erkenntnis 87(2):499-515 — VERIFIED exact (online-first 2019, issue year 2022). (6) SEP "Grounds of Moral Status" — three article claims verbatim-verified incl. the overinclusiveness objection. (7) SEP "Environmental Ethics" — "teleological-center-of-life" hyphenation verbatim; HIV passage confirmed cited to Williams 1992 + O'Neill 1993. (8) Attfield 1987, Varner 1998 — glosses confirmed faithful at SEP. (9) Korsgaard 1996 p. 154 — **UNVERIFIED** (primary text unreachable, Tanner PDF 301'd); quote NOT altered per Tallis discipline, flagged for a future pass.
+- **Family resolution**: both defects traced to [[research/sentientism-2026-08-01]], which records its own failed publisher fetches (403/nav-shell on OUP, PhilPapers, Kammerer PDF). Corrected at 4 loci in the research note; the unverified Feinberg wording is now marked do-not-re-quote there.
+- **Reasoning-mode classifications**: anthropocentrism/speciesism: Mode One (insuperable-line problem is internal to the anthropocentrist's own threshold commitment); biocentrism: Mode Two ("a good of its own" is an unearned foundational move; HIV case forces the biological/moral distinction); illusionism: Mode Three (framework-boundary, explicitly declared). No boundary substitution; no editor-vocabulary leakage (grep-clean).
+- **Calibration**: PASS. Tenet-coherence never presented as evidential upgrade; the article self-binds ("phenomenal sentientism stands or falls with the tenet"). Birch adopted for the action layer only, with his low credence in non-materialism stated rather than elided.
+- **Output**: [[reviews/deep-review-2026-08-01-sentientism]]
+
 ## 2026-08-01 14:08 UTC - expand-topic (sentientism)
 
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-01
-ai_modified: 2026-08-01 14:08:33+00:00
+ai_modified: 2026-08-01 14:31:42+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Sentientism grounds moral status in valenced experience. Why the Ma
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-08-01 14:31:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,17 +45,17 @@ Being squeezed from both directions is itself informative. A criterion that anth
 
 ## Biocentrism: The Harder Opponent {#biocentrism}
 
-Ecocentrism is the easier target because it locates value in wholes — species, ecosystems, evolutionary processes — and so must explain how a system with no experiencer in it comes to contain normative properties at all. Biocentrism gives that objection nothing to grip. It agrees that moral status belongs to individual organisms. It disputes only whether those individuals must be *experiencers*.
+Ecocentrism is the easier target because it locates value in wholes — species, ecosystems, evolutionary processes — and so must explain how a system with no experiencer in it comes to contain normative properties at all. Biocentrism gives that objection nothing to grip: it agrees that moral status belongs to individual organisms, and disputes only whether those individuals must be *experiencers*.
 
 Paul Taylor's 1981 and 1986 statements are the rigorous version. The Stanford Encyclopedia's environmental-ethics entry summarises the position: each individual living thing in nature — animal, plant, or micro-organism — is a "teleological-center-of-life" having a good or well-being of its own which can be enhanced or damaged. On Taylor's account every such entity has equal inherent worth, generating a prima facie duty to preserve or promote its good as an end in itself. Attfield's 1987 hierarchical variant keeps the ground (having a good) while denying the equality (persons have inherent value to a greater degree, and conflicting goods are balanced consequentially). Varner's 1998 "biocentric individualism" develops the individualist commitment with both consequentialist and deontological affinities. Schweitzer's reverence for life is the tradition's precursor.
 
-The argument is straightforward and does not depend on any mysticism about nature. A sunflower turning toward light, a bacterium repairing its membrane, a seedling extending roots toward water — each is a system with a direction, a set of conditions under which it does well and another under which it does badly. Sentience adds nothing to the presence of that good; it adds only someone to whom the good is apparent. Why should the moral weight attach to the awareness rather than to the good itself?
+The argument does not depend on any mysticism about nature. A sunflower turning toward light, a bacterium repairing its membrane, a seedling extending roots toward water — each is a system with a direction, a set of conditions under which it does well and another under which it does badly. Sentience adds nothing to that good; it adds only someone to whom it is apparent. Why should the moral weight attach to the awareness rather than to the good itself?
 
 ### The Sentientist Reply: Interests Require a Subject
 
-The sharpest tool against biocentrism is **Joel Feinberg's interests-criterion** (1974) — Joel Feinberg the legal and moral philosopher, not to be confused with Todd Feinberg the neuroscientist whose work on the neurobiological criteria for consciousness the Map cites elsewhere. Feinberg's claim is that only entities with interests can have legal and, by the same reasoning, moral standing, "for it is interests which are capable of being represented." Representability carries the philosophical weight, not just the legal procedure: to represent an entity's interest is to stand in for a perspective, acting on behalf of how things are *for* something. A system with a direction but no perspective offers nothing to be represented, only a description to be reported.
+The sharpest tool against biocentrism is **Joel Feinberg's interests-criterion** (1974) — Joel Feinberg the legal and moral philosopher, not Todd Feinberg the neuroscientist whose neurobiological criteria for consciousness the Map cites elsewhere. Feinberg's claim is that only entities with interests can have legal and, by the same reasoning, moral standing, and that "interests must be compounded somehow out of conations" — a mere thing, "however valuable to others, has no good of its own." The biocentrist will object that a plant is no mere thing, having exactly the "latent tendencies, directions of growth, and natural fulfillments" Feinberg's list denies to stones. But those yield interests only as compounded with the conative, and conation — wanting rather than merely tending — is what requires a subject. A system with a direction but no perspective offers nothing to be represented, only a description to be reported.
 
-This is where the biocentrist's key move — "a good of its own" — is doing more work than it can bear. The phrase runs together two things: *biological* good (the conditions under which a system persists and reproduces) and *moral* good (a state of affairs there is reason to bring about). Williams (1992) and O'Neill (1993) put the point with an example that admits no comfortable answer: HIV has a good of its own. Its replication conditions are as determinate as a sunflower's. If having a good of one's own generates a prima facie duty to promote it, the duty extends to the virus. The biocentrist can restrict the class of goods that generate duties — but every principled restriction reaches for something the sentientist already has: mattering to someone.
+This is where the biocentrist's key move — "a good of its own" — is doing more work than it can bear. The phrase runs together two things: *biological* good (the conditions under which a system persists and reproduces) and *moral* good (a state of affairs there is reason to bring about). The Stanford entry presses the point, following Williams and O'Neill, with an example that admits no comfortable answer: HIV has a good of its own. Its replication conditions are as determinate as a sunflower's. If having a good of one's own generates a prima facie duty to promote it, the duty extends to the virus. The biocentrist can restrict the class of goods that generate duties — but every principled restriction reaches for something the sentientist already has: mattering to someone.
 
 The Map holds that this is not an incidental gap in biocentrism but the structural feature of value that [the consciousness-value connection](/concepts/consciousness-value-connection/) identifies. Descriptive teleology is everywhere in biology. Normative teleology requires an experiencer for whom the trajectory is good or bad, because the goodness and badness are features of how the state is felt. Korsgaard's observation that "it is a pain to be in pain. And that is not a trivial fact" states the datum, though she grounds it in a Kantian account of the reflexive structure of valuing rather than in the phenomenal realism the Map defends — the datum is shared; the explanation of it is not.
 
@@ -108,9 +109,10 @@ The same resource answers the **disenhancement objection**, which the Map has no
 
 ## References
 
-1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §6.
+1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §1, footnote to ¶IV.
 1. Singer, P. (1993). *Practical Ethics*, 2nd edn. Cambridge University Press.
 1. Feinberg, J. (1974). "The Rights of Animals and Unborn Generations." In W. Blackstone (ed.), *Philosophy and Environmental Crisis*. University of Georgia Press.
+1. Taylor, P. W. (1981). "The Ethics of Respect for Nature." *Environmental Ethics*, 3(3), 197-218.
 1. Taylor, P. W. (1986). *Respect for Nature: A Theory of Environmental Ethics*. Princeton University Press.
 1. Attfield, R. (1987). *A Theory of Value and Obligation*. Croom Helm.
 1. Varner, G. (1998). *In Nature's Interests? Interests, Animal Rights, and Environmental Ethics*. Oxford University Press.

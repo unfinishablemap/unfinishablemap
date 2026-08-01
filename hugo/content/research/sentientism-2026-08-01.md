@@ -1,5 +1,6 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-01 14:31:42+00:00
 ai_system: claude-opus-5
 concepts: []
 created: 2026-08-01
@@ -69,7 +70,7 @@ The gap the Map is positioned to fill is this: **the encyclopedia literature doe
   - **Taylor (1981, 1986)**: each living thing is a "teleological-center-of-life" with a good of its own; all such entities have equal inherent worth generating a prima facie duty to preserve or promote their goods as ends in themselves.
   - **Attfield (1987)**: hierarchical biocentrism — all beings with a good have intrinsic value, but persons have it to a greater degree; consequentialist balancing across conflicting goods.
   - **Varner (1998)**: "biocentric individualism", with both consequentialist and deontological affinities.
-  - **Feinberg's interests-criterion**: only items that have interests can have legal and, likewise, moral standing, "for it is interests which are capable of being represented".
+  - **Feinberg's interests-criterion**: only items that have interests can have legal and, likewise, moral standing. ⚠️ The wording "for it is interests which are capable of being represented" was recorded here as a verbatim quote but could NOT be located in the primary text on two independent extractions (2026-08-01 deep-review); Feinberg's verified wording is "Interests must be compounded somehow out of conations" and "A mere thing, however valuable to others, has no good of its own." Do not re-quote the unverified form.
   - **The good-of-its-own objection** (Williams 1992; O'Neill 1993): even if HIV has a good of its own, this does not mean we ought to assign positive moral weight to realising that good. Biological good does not entail moral weight.
 - **Quote (Taylor)**: "each individual living thing in nature—whether it is an animal, a plant, or a micro-organism—is a 'teleological-center-of-life' having a good or well-being of its own which can be enhanced or damaged"
 - **Quote (Rolston)**: "the loss of a species is a loss of genetic possibilities and the deliberate destruction of a species would show disrespect for the very biological processes which make possible the emergence of individual living things"
@@ -80,7 +81,7 @@ The gap the Map is positioned to fill is this: **the encyclopedia literature doe
 - **URL**: https://plato.stanford.edu/entries/moral-animal/
 - **Type**: Encyclopedia
 - **Key points**:
-  - Bentham's criterion located at *Introduction to the Principles of Morals and Legislation* (1780/1789), **Chapter XVII, Section 6** — the famous passage is a footnote in that section.
+  - Bentham's criterion located at *Introduction to the Principles of Morals and Legislation* (1780/1789), **Chapter XVII, Section 1**, footnote to paragraph IV — corrected 2026-08-01 from the "Section 6" recorded here; verified against the primary text (econlib edition), which places the footnote at ch. XVII, §1, ¶IV.
   - Singer's development across *Animal Liberation* (1975; 1993 edn.), *Practical Ethics* (2nd edn. 1993), and *Animal Liberation Now* (2023).
   - The "insuperable line" reasoning: rationality cannot mark the boundary because many humans (infants, the comatose) lack it yet retain protection; suffering constitutes a morally relevant claim independent of cognitive sophistication.
   - Objections recorded: the **uncertainty problem** (sentience is unobservable in phylogenetically distant taxa); the **disenhancement** objection (pure hedonism appears to permit genetically eliminating pain capacity rather than eliminating the causes of pain); and **wild animal suffering** (sentientism may mandate controversial large-scale intervention).
@@ -162,7 +163,7 @@ The gap the Map is positioned to fill is this: **the encyclopedia literature doe
 
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
-| 1789 | Bentham, *Introduction to the Principles of Morals and Legislation*, ch. XVII §6 | Canonical statement of the sentience criterion |
+| 1789 | Bentham, *Introduction to the Principles of Morals and Legislation*, ch. XVII §1, fn. to ¶IV | Canonical statement of the sentience criterion |
 | 1974 | Feinberg on legal and moral standing | The interests-criterion; sentientism's sharpest tool against biocentrism |
 | 1975 | Singer, *Animal Liberation*; Rolston's first species-protection argument | Both wings of the modern debate open in the same year |
 | 1981 | Taylor, "The Ethics of Respect for Nature" | Teleological-centre-of-life; biocentrism made rigorous |
@@ -213,7 +214,7 @@ Verified this session (fetched):
 
 Reported within the above sources (secondary attribution — verify at primary text before quoting):
 
-5. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §6.
+5. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §1, footnote to ¶IV.
 6. Singer, P. (1975; 2nd edn. 1993). *Animal Liberation*. — date form needs checking, see Gaps.
 7. Singer, P. (1993). *Practical Ethics*, 2nd edn. Cambridge University Press.
 8. Singer, P. (2023). *Animal Liberation Now*.
