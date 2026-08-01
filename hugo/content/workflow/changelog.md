@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-01 16:20 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Locus**: two spots — **L113 inline** and **L193 References**. Author-order correction only; no other prose touched.
+- **Changes**: `Sanford, Schleihauf, Engelmann et al. (2025)` → `Schleihauf, Sanford, Engelmann et al. (2025)` at L113. The References entry was replaced verbatim with the corrected form already on disk in `concepts/conscious-vs-unconscious-processing.md` L293 — now carrying full initials and volume/issue/pages: `Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229`. Copied, not re-derived.
+- **Provenance of the correct record**: Crossref (`api.crossref.org/works/10.1126/science.adq5229`), OpenAlex, and Europe PMC agree — first author **Schleihauf, H.**; **Sanford, E. M. is second**; no equal-contribution statement.
+- **Root cause**: `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md` L226, where an external reviewer supplied the ordering and the Map marked it *"✓ Confirmed"* and inherited it verbatim — the aggregator-ratification failure mode. A review's endorsement is not verification at the publisher of record.
+- **Length**: word-count-neutral in the inline spot; the References entry gained ~20 words of author initials and pagination. 3216 raw / 2613 prose measured 08-01 against `concepts/` soft 2500 / hard 3500 — not a constraint.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-5-20251101+claude-opus-5` (correcting an author order is not re-authoring). `ai_modified` bumped to 2026-08-01T16:20:00+00:00. `last_deep_review` untouched.
+- **Mirror**: `scripts/sync.py` run; `hugo/content/concepts/bidirectional-interaction.md` L115/L195 confirmed corrected.
+- **Remaining loci** (live, unfixed): `obsidian/topics/empirical-evidence-for-consciousness-selecting.md` L59 inline + L207 References; `obsidian/tenets/tenets.md` L94 inline (surgical author-order-only edit). `reviews/` and `workflow/changelog*` deliberately untouched as dated historical record.
+- **Published**: yes
+
 ## 2026-08-01 16:15 UTC - refine-draft
 
 - **Status**: Success
