@@ -4,7 +4,7 @@ description: "Working memory manipulation is far more tightly bound to conscious
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-07-29T09:11:38+00:00
+ai_modified: 2026-08-01T19:39:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,9 +108,9 @@ The Bischof-Köhler hypothesis (Bischof-Köhler 1985) proposes that non-human an
 
 ## Cumulative Culture
 
-Human culture accumulates across generations—each generation builds on previous achievements, producing technologies and knowledge no individual could develop alone. Great ape culture exists (tool traditions, grooming patterns, vocalisations) but doesn't accumulate: cultural practices remain within what Tennie, Call, and Tomasello call the "zone of latent solutions," never exceeding what single individuals could discover.
+Human culture accumulates across generations—each generation builds on previous achievements, producing technologies and knowledge no individual could develop alone. Great ape culture exists (tool traditions, grooming patterns, vocalisations) but on the standard reading does not accumulate: cultural practices remain largely within what Tennie, Call, and Tomasello (2009) call the "zone of latent solutions," rarely exceeding what single individuals could rediscover. That reading is weaker in the 2020s than it was in the 2000s. Comparing chimpanzee population networks built from genetic markers of recent migration against networks built from shared cultural traits, Gunasekaram et al. (2024) argue that limited group connectivity favoured "the emergence of a few instances of cumulative culture in chimpanzees"—incipient, on the authors' own term, and inferred at population level rather than observed as one generation refining the previous generation's technique. The Map therefore holds the contrast as unmatched degree rather than sole possession (see [[cumulative-culture#contested-exclusivity|contested exclusivity]]); the argument below needs only that ape culture accumulates far less, not that it never does.
 
-Why doesn't great ape culture accumulate? The [[consciousness-as-amplifier#The Baseline Cognition Hypothesis|baseline cognition hypothesis]] proposes that accumulation requires [[metacognition|metarepresentation]]—treating knowledge as knowledge that can be improved, transmitted, and built upon. This demands holding current practice and possible modifications simultaneously, then comparing them to select improvements. On the ape capacity estimate, this approaches the limit. The cognitive operations cumulative culture requires are exactly those expanded working memory enables.
+Why does great ape culture accumulate so little? The [[consciousness-as-amplifier#The Baseline Cognition Hypothesis|baseline cognition hypothesis]] proposes that accumulation requires [[metacognition|metarepresentation]]—treating knowledge as knowledge that can be improved, transmitted, and built upon. This demands holding current practice and possible modifications simultaneously, then comparing them to select improvements. On the ape capacity estimate, this approaches the limit. The cognitive operations cumulative culture requires are exactly those expanded working memory enables.
 
 ## Working Memory and the Specious Present
 
@@ -217,6 +217,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Franco-Martínez, A., et al. (2026). Replicating the unconscious working memory effect: A multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046. https://doi.org/10.1093/nc/niaf046
 1. Gambarota, F., Tsuchiya, N., Pastore, M., Di Polito, N., & Sessa, P. (2022). Unconscious visual working memory: A critical review and Bayesian meta-analysis. *Neuroscience & Biobehavioral Reviews*, 136, 104618. https://doi.org/10.1016/j.neubiorev.2022.104618
+1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925. https://doi.org/10.1126/science.adk3381
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714. https://doi.org/10.1177/147470490800600413
