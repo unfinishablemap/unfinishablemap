@@ -5,6 +5,16 @@ ai_modified: '2026-08-01T22:45:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 23:11 UTC - condense
+- **Status**: Success (partial — stopped short of target to protect concessions)
+- **File**: [[topics/volitional-control]]
+- **Before**: 5,252 raw / 4,397 prose (786 apparatus)
+- **After**: 4,996 raw / 4,141 prose (786 apparatus, untouched)
+- **Reduction**: 4.9% raw, 5.8% prose
+- **Technique**: Cut the "compatible-but-not-confirming" verdict where it was stated redundantly — it appeared at seven loci, and the 07-25 outer-review fixes installed the best statement of it in `## Predictive Processing`. Removed the duplicated broader-framework sentence from `### What the Felt Data Can and Cannot Settle` (kept in lead + Predictive Processing); folded the standalone disconfirmer-(2) note into list item (2); compressed the Clinical Dissociations and Brain Stimulation closings to pointers; merged the Blakemore 1998/2000 comparator chain; dropped a duplicate cross-link to clinical-neuroplasticity; tightened Wegner/Nahmias, Schurger, Mele.
+- **Did NOT merge the three Libet-evidence sections**: `## Intentional Binding: An Implicit Measure` carries a live inbound deep link from `topics/phenomenology-of-agency-vs-passivity`, and the paradigm-by-paradigm walk is what earns the "levelled, not overturned" verdict — each paradigm ends in a different concession.
+- **Left long deliberately**: ~141 prose words above the 4,000 target. All remaining weight is the 07-24 convergent outer-review remedy (Sjöberg, Braun, Gavenas, the Predictive Processing parity section, the neuroplasticity common-cause concession) or the required tenet section. Cutting further would re-open the closed co-optation finding.
+
 ## 2026-08-01 22:57 UTC - refine-draft
 
 - **Status**: Success
