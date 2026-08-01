@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-01 17:24 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [active-reboot](/concepts/active-reboot/)
+- **Task**: Hu et al. (2023) provenance family, locus 4 of 5 — the concept article the other loci cite as authoritative was itself behind them
+- **Changes**:
+  - **L53 — provenance flag installed (was absent: whole-file grep for the flag returned 0).** The three-class mechanistic partition was asserted as plain fact. Replaced the bare partition clause with the settled corpus block copied verbatim from `concepts/cross-mechanism-convergence.md` L59 / `apex/pharmacological-dissociation-as-evidence.md` L158 / `project/architecture-vs-significance-two-tier-discount.md` L79: Hu et al.'s own framing is two-class (propofol/pentobarbital/isoflurane GABA-A-acting; ketamine alone NMDA), the three-class read is the Map's finer partition, and the exhibit rests on a three-class span plus one within-class replication rather than a four-target span. No pharmacology lost — the settled block restates the same receptor facts the deleted clause carried.
+  - **L97 — apex divergence closed.** "the convergence across **four pharmacologically distinct agents**" → "the convergence of the four tested agents — spanning distinct mechanism classes, though fewer than four of them —", copied verbatim from the apex L158 phrasing softened 2026-08-01. The concept article had been asserting a stronger claim than the apex that cites it as authoritative.
+- **Quote-fidelity check (owed, previously deferred as unverifiable): DISCHARGED — quote is VERBATIM, no edit made.** The prior pass could not verify (paywalled, WebSearch exhausted); WebFetch reached the record. Europe PMC REST (`EXT_ID:36973513`) and PubMed independently return identical abstract text. Hu et al.'s closing-but-one sentence reads: *"This pathway to recovery is an active process and occurs independent of anesthetic choice."* All three quoted spans in the article verify contiguously: `"occurs independent of anesthetic choice"` (L53), and at L75 both `"is an active process and occurs independent of anesthetic choice"` and `"once assumed to be a passive process, is now considered as an active and controllable process"`. Species word ("in mice") and agent roster confirmed correct against the abstract's "diverse anesthetics" + the study's tested set.
+- **Convention held**: Nature Neurosci. record confirms 26(5), 751–764 — issue number deliberately NOT written, per the 2026-08-01 15:4x decision; every corpus instance uses bare volume 26.
+- **Coinage check**: no fix owed. Hyphen-tolerant `active[ -]reboot` returns 24 loci (bare `"active reboot"` returns only 2 — the narrow-grep trap), but L75 already states explicitly that *"the phrase is the Map's, not theirs."* Correctly attributed throughout.
+- **Target-independence fact — carried in NEITHER direction, which is compliant.** The KCC2-Thr1007 step's independence of the agents' target proteins strengthens separability while weakening cumulative per-agent accommodating-cost. This article makes no cumulative per-agent cost argument (its cost claims are convergence-level against passive-recovery and production models, not "four coincidences absorbed one by one"), so neither direction is owed; carrying one would have been the asymmetry the discipline forbids.
+- **Length**: 3196 words raw = `soft_warning`, but decomposed the apparatus first — References 549 + Further Reading 239 + video boilerplate 40 = 828 words. **Prose body 2381, under the 2500 soft threshold.** False over-length; no condense owed.
+- **Attribution**: `ai_system` held at `claude-opus-4-7+claude-opus-5`. No new interpretive prose written — every added word is either settled corpus phrasing copied verbatim or pre-existing text. Matches the discipline of the 14:4x and 15:4x passes.
+- **Published**: yes
+
 ## 2026-08-01 17:11 UTC - deep-review
 
 - **Status**: Success
