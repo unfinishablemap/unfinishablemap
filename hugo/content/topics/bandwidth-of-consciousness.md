@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-07-19 18:16:17+00:00
+ai_modified: 2026-08-01 23:33:46+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:34:15+00:00
-lastmod: 2026-07-19 18:16:17+00:00
+lastmod: 2026-08-01 23:33:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,6 +60,7 @@ related_articles:
 - '[[attentional-economics]]'
 - '[[grain-mismatch]]'
 - '[[grain-mismatch-as-independent-evidence]]'
+- '[[pharmacological-dissociation-as-evidence]]'
 title: The Bandwidth of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -151,7 +152,7 @@ The bottleneck appears precisely where consciousness enters the picture—the br
 
 ### Filter Theory's Natural Fit
 
-The [filter model](/concepts/filter-theory/) appears to handle the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck may be the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. On this reading the 10 bits per second measures the channel's capacity, not consciousness's capacity.
+The [filter model](/concepts/filter-theory/) appears to handle the bandwidth constraint without strain—accommodation, not discrimination, as the [Global Workspace Objection](#the-global-workspace-objection) below makes explicit. If the brain constrains consciousness rather than producing it, the bottleneck may be the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. On this reading the 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
 The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second where consciousness participates. On the filter model, this is what one would expect: the filter constrains consciousness specifically, not neural processing in general. The converse prediction also seems to hold: altered states involving loosened interface constraints might involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with expanded subjective richness (Carhart-Harris et al., 2014)—a pattern filter models seem to anticipate. The honest counterweight is the disruptive case: [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) and slow-wave sleep *reduce* neural entropy as consciousness fades, and there production reads the entropy-consciousness link straightforwardly—more entropy, more experience; less, less. The psychedelic finding cannot be cited as a clean filter-favourable datum while its disruptive mirror reads at least as naturally on production. The correlation is suggestive of the filter picture, not decisive between the models.
 
@@ -163,7 +164,9 @@ This seems to match the phenomenology of deliberate action: choosing among prese
 
 ### The Global Workspace Objection
 
-[Global Workspace Theory](/concepts/global-workspace-theory/) (Baars, 1988; Dehaene, 2014) provides the physicalist counterargument most directly targeting the asymmetry: consciousness is a serial broadcast that integrates information from parallel processors, and the serial bottleneck produces the ~10 bits/s ceiling. The Map acknowledges GWT's explanatory power for the *functional* structure, but GWT does not address why there is *something it is like* to occupy the workspace. What distinguishes the accounts is whether the architecture explains consciousness or merely describes the structure through which consciousness operates.
+[Global Workspace Theory](/concepts/global-workspace-theory/) (Baars, 1988; Dehaene, 2014) provides the physicalist counterargument most directly targeting the asymmetry: consciousness is a serial broadcast that integrates information from parallel processors, and the serial bottleneck produces the ~10 bits/s ceiling. The Map acknowledges GWT's explanatory power for the *functional* structure, but GWT does not address why there is *something it is like* to occupy the workspace.
+
+The verdict this cluster has since reached goes further than a difference of framing, and it runs against the Map's own interest: the bandwidth datum is *shared* rather than discriminating. The feature the filter reading treats as its natural fit—that the bottleneck sits at conscious access rather than at sensory transduction or motor output—is exactly what GWT makes its *defining* feature. A datum both accounts predict cannot adjudicate between them, and the Map has accordingly withdrawn the bandwidth argument as a discriminator, retaining the ceiling as a constraint any account must accommodate rather than as evidence for one. The [pharmacological-dissociation synthesis](/apex/pharmacological-dissociation-as-evidence/) records that withdrawal, alongside the parallel concession made about interface friction. What remains genuinely at issue is whether the architecture explains consciousness or merely describes the structure through which consciousness operates—a question the ~10 bits/s figure poses without settling.
 
 ## The Bandwidth Shapes the Interface
 
@@ -245,6 +248,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model and the bandwidth as filter parameter
+- [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/) — Where the Map's withdrawal of the bandwidth argument as a filter-versus-production discriminator is recorded, alongside the parallel concession on interface friction
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [resolution-void](/voids/resolution-void/) — The resolution gap between brain processing and conscious access
 - [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) — The bandwidth constraint as one of three converging grain mismatches
