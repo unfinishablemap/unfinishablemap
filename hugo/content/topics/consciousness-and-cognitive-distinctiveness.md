@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-07-31 10:24:08+00:00
+ai_modified: 2026-08-01 20:06:37+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 14:59:31+00:00
-lastmod: 2026-07-31 10:24:08+00:00
+lastmod: 2026-08-01 20:06:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ The zone has a ceiling. Ape innovations do not ratchet upward because [cumulativ
 
 Four capacities distinguish human from great ape cognition, each mapping onto what conscious access specifically provides:
 
-**Working memory.** Chimpanzee working memory is substantially more limited than human capacity in abstract relational tasks (Tomasello & Herrmann, 2010). Cowan (2001) estimated human capacity at approximately 4±1 items without chunking. Even this conservative expansion enables qualitatively new operations: tracking relationships, holding intermediate conclusions, and considering alternatives simultaneously—operations that formal reasoning and creative combination both require.
+**Working memory.** Chimpanzee working memory is estimated at approximately 2±1 items (Read, Manrique & Walker 2022), against roughly 4±1 for humans once chunking is controlled for (Cowan 2001). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [the capacity gap](/concepts/working-memory/#the-capacity-gap). Even this conservative two-fold expansion enables qualitatively new operations: tracking relationships, holding intermediate conclusions, and considering alternatives simultaneously—operations that formal reasoning and creative combination both require.
 
 **Metacognition.** Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge—the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold)—underlies both logical reasoning and transformational creativity.
 
@@ -92,7 +92,7 @@ Four capacities distinguish human from great ape cognition, each mapping onto wh
 
 **Logical reasoning.** DeWall, Baumeister, and Masicampo (2008) found that imposing conscious cognitive load impaired logical reasoning while nonconscious load did not. Nonconscious priming activated logic-relevant associations but failed to improve actual reasoning. Explicit rule-following depends on conscious access.
 
-The gap is selective rather than uniform. Humans dramatically exceed apes on tasks involving explicit representation and deliberate manipulation while the advantage is modest for perceptual speed and associative learning. This selective pattern matches what conscious access would predict. Some corvids with far smaller brains show cognitive flexibility exceeding that of great apes, suggesting that what matters is not raw neural resources but how information becomes available for flexible use.
+The gap is selective rather than uniform. Tomasello & Herrmann (2010) make the point directly: on the Primate Cognition Test Battery they review, great apes and two-and-a-half-year-old children perform comparably on physical cognition—space, quantities, causality—and diverge chiefly on social cognition, which leads them to locate the human difference not in any single cognitive primitive but in *shared intentionality*, the capacity for collaborative activity with joint goals (see [the animal consciousness article](/topics/animal-consciousness/)). Their result supports the selectivity claim while resisting any flat story about ape incapacity: humans dramatically exceed apes on tasks involving explicit representation and deliberate manipulation, while the advantage is modest for perceptual speed and associative learning. Shared intentionality itself demands the metarepresentational step—knowing that you and another are jointly attending, rather than merely attending in parallel—so the social divergence is continuous with the [metarepresentation](/concepts/metacognition/) threshold rather than a rival explanation of it. This selective pattern matches what conscious access would predict. Some corvids with far smaller brains show cognitive flexibility exceeding that of great apes, suggesting that what matters is not raw neural resources but how information becomes available for flexible use.
 
 ## What Consciousness Contributes
 
@@ -199,6 +199,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
