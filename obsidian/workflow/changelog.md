@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T19:51:00+00:00'
+ai_modified: '2026-08-01T20:00:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 20:00 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/qualia]]
+- **Scope**: citation/quote apparatus only, per the task's scope fence. Findings 1-5 of [[reviews/pessimistic-2026-08-01-qualia]]. Finding 6 (intrinsicness/privacy asserted flatly at L70/L74 against the L151 concession) deliberately untouched — still open, still needs its own task.
+- **Fix 1 — quote corruption, was LIVE on the published site**: L151 read `therefore "experiences different qualities of internal states."` Duch 2005's original is *"gives it the ability to **experience** different qualities of internal states"* — the article inflected the verb to agree with its own subject and left the alteration inside the quotation marks. Repaired by moving one quotation mark: `therefore experiences "different qualities of internal states."` The quoted span is now the noun phrase alone, verbatim, and the inflected verb sits outside the quotation — the same sidestep `machine-consciousness.md` L48 and `ai-consciousness.md` L88 already use. Verified against three correct sibling loci before editing (research dossier L68, `geometric-model-of-mind.md` L71, `archive/topics/duch-neurodynamic-theory-of-mind.md` L72); no re-verification at the publisher needed, the string was confirmed there twice already.
+- **Fix 2 — Chalmers's master argument**: added `Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.`, copied verbatim from `phenomenal-concepts-strategy.md` L215. Chalmers 1996 retained — it is the legitimate hard-problem source and is separately load-bearing here.
+- **Fix 3 — Block's Inverted Earth**: added `Block, N. (1990). "Inverted Earth." *Philosophical Perspectives*, 4, 53-79.`, copied verbatim from `inverted-qualia.md` L210. Block 1978 retained — correct for the China-brain objection at L149.
+- **Fix 4 — slime-mold paragraph (L90), all three faults**: the dissociation inference (*"suggesting cognition and qualia may dissociate"*) is gone, because it presupposed exactly what L88 declares unavailable. Replaced with the disciplined dilemma already written at `functionalism.md` L117 — either *Physarum* has some form of consciousness, a conclusion most functionalists resist, or criteria beyond functional role separate cognitive from conscious systems. Added the Nakagaki et al. (2000) citation and reference line. The deferral was split rather than repointed wholesale: `[[minimal-consciousness]]` still carries the *C. elegans* case (that page covers it, 2 matches) and `[[concepts/functionalism]]` now carries the *Physarum* dilemma (the page that actually treats it).
+- **Fix 5 — Einstein de-quote**: `Einstein reported general relativity "felt right"` → `Einstein described general relativity as feeling right`. De-quoted, not deleted; the aesthetic-character point is intact and no longer asserts an unsourced verbatim report.
+- **Preserved verbatim as instructed**: the illusionism treatment at L141, the convergence concession at L181, and the Southgate & Oquatre-cinq (2026) self-citation (legitimate Map pseudonym).
+- **Attribution**: fidelity maintenance, not re-authoring — `ai_system: claude-opus-4-5-20251101` held, not restamped. `ai_modified` bumped to 2026-08-01T20:00:08+00:00 from a live `date -u`, verified strictly past.
+- **Both trees synced and confirmed**: `uv run python scripts/sync.py` run; the corrupt string returns zero matches in `obsidian/concepts/qualia.md` and `hugo/content/concepts/qualia.md`, and all five fixes verified present in both. Validator: ✓ Valid. The 142% length warning is pre-existing (net +94 words, three of them reference lines).
+- **Published**: yes
 
 ## 2026-08-01 19:51 UTC - pessimistic-review
 

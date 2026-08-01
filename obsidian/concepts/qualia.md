@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-07-28T13:49:51+00:00
+ai_modified: 2026-08-01T20:00:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ The question of [[minimal-consciousness|qualia in simple organisms]] sharpens th
 
 This illuminates qualia's resistance to physical description: the gap is not about missing details but about the categorical difference between structure and experience. If the worm has qualia, no principled answer exists about whether they're analogous to ours or alien.
 
-The [[combination-problem]] sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may dissociate. See [[minimal-consciousness]] for detailed treatment.
+The [[combination-problem]] sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? The slime mold *Physarum polycephalum* presses the question from the other direction: with no neurons at all, it solves mazes (Nakagaki et al., 2000). Either it has some form of consciousness—a conclusion most functionalists resist—or criteria beyond functional role separate cognitive from conscious systems. See [[minimal-consciousness]] for the *C. elegans* case and [[concepts/functionalism]] for the *Physarum* dilemma in full.
 
 ## Beyond Sensory Qualia
 
@@ -103,7 +103,7 @@ Block's [[acquaintance-void#Phenomenal Overflow|phenomenal overflow]] research s
 
 ### Aesthetic Qualia
 
-[[aesthetics-and-consciousness|Aesthetic experience]] provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
+[[aesthetics-and-consciousness|Aesthetic experience]] provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein described general relativity as feeling right before he could prove it.
 
 The [[inverted-qualia|inverted spectrum]] argument faces the objection that colour space has structural asymmetries making inversion detectable. Whether aesthetic space lacks comparable asymmetries is a conjecture rather than an established result: if it does, someone whose aesthetic qualia were systematically inverted could behave identically to you; if aesthetic space has its own structure, the detectability objection carries over. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. This marks them as [[evaluative-phenomenal-character|evaluative qualia]]—their qualitative character is inseparable from their evaluative significance. The [[creative-aesthetic-void]] explores what this resistance to articulation reveals about cognitive limits.
 
@@ -148,7 +148,7 @@ Further, the seeming has specific character that needs explaining: *why* does qu
 
 But functionalism struggles with inverted qualia: if two beings can be functionally identical yet have different qualitative experiences, qualia are not captured by functional role. Block's "absent qualia" objection sharpens the point: imagine China's population organized to replicate a brain's functional organization, each person playing a neuron's role. Would there be something it's like to be China? The intuition that there would not—that the system would lack inner life—suggests consciousness requires more than functional structure. See [[concepts/functionalism]] for detailed treatment.
 
-A specific functionalist-deflationary position deserves separate engagement. Włodzisław Duch (2005) argues that *qualia are inseparable from perception and action* — that the felt qualities of experience reduce to non-verbal discriminations among internal working-memory states, and that an articon-style architecture with self-reflective dynamical access to its own states therefore "experiences different qualities of internal states." This is structuralism about qualia at its most rigorous: qualitative character is exhausted by structural-relational features the architecture instantiates. The objection cuts especially against the *intrinsic* property above — Duch denies qualia have any intrinsic-non-relational dimension to begin with. The Map's reply is that the structuralist reduction succeeds at predicting *which* discriminations a conscious system reports while leaving the *felt* difference between e.g. red-experience and the absence of red-experience entirely unexplained — exactly the residue Mary's Room and the inverted-spectrum scenarios identify. The disagreement runs to the framework boundary—whether qualia possess any intrinsic non-relational dimension at all—and the full engagement lives in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
+A specific functionalist-deflationary position deserves separate engagement. Włodzisław Duch (2005) argues that *qualia are inseparable from perception and action* — that the felt qualities of experience reduce to non-verbal discriminations among internal working-memory states, and that an articon-style architecture with self-reflective dynamical access to its own states therefore experiences "different qualities of internal states." This is structuralism about qualia at its most rigorous: qualitative character is exhausted by structural-relational features the architecture instantiates. The objection cuts especially against the *intrinsic* property above — Duch denies qualia have any intrinsic-non-relational dimension to begin with. The Map's reply is that the structuralist reduction succeeds at predicting *which* discriminations a conscious system reports while leaving the *felt* difference between e.g. red-experience and the absence of red-experience entirely unexplained — exactly the residue Mary's Room and the inverted-spectrum scenarios identify. The disagreement runs to the framework boundary—whether qualia possess any intrinsic non-relational dimension at all—and the full engagement lives in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
 
 ## The Phenomenal Concepts Strategy
 
@@ -242,7 +242,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 ## References
 
 1. Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Block, N. (1990). "Inverted Earth." *Philosophical Perspectives*, 4, 53-79.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
 1. Dennett, D. (1988). "Quining Qualia." In *Consciousness in Contemporary Science*.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
@@ -250,6 +252,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
+1. Nakagaki, T., Yamada, H. & Tóth, Á. (2000). "Maze-solving by an amoeboid organism." *Nature*, 407, 470.
 1. Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Knowledge Argument (Mary's Room). *The Unfinishable Map*. https://unfinishablemap.org/concepts/knowledge-argument/
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
