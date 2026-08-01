@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T20:00:08+00:00'
+ai_modified: '2026-08-01T20:16:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 20:16 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/plant-cognition-and-the-plant-neurobiology-debate]]
+- **Word count**: 2121 → 2337 (+216; soft threshold 3000, status `ok`, so no length-neutral constraint)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (reasoning-mode upgrade)
+- **Output**: [[reviews/deep-review-2026-08-01-plant-cognition-and-the-plant-neurobiology-debate]]
+- **Why this was not a no-op.** The 07-15 review closed with "all standard lenses now exhausted"; the only delta since was a cosmetic Further-Reading label change (`3b97015f1`). The pass ran anyway on an unexercised lens and found two critical defects. **Both prior ledgers verified the References list against the world; neither verified the body against the References list.** Those are different audits, and the second is cheap.
+- **Critical 1 — attribution error, a non-author named as a founder of the field.** L44 listed the 2006 plant-neurobiology manifesto's authors as *"Brenner, Stahlberg, **Trewavas**, Baluška, Mancuso, Van Volkenburgh"*. The article's own References entry #1 lists the correct six. Verified at the NLM canonical record (PMID 16843034): Brenner, Stahlberg, **Mancuso, Vivanco**, Baluška, Van Volkenburgh — **Trewavas is not an author; Vivanco is.** The 07-08 ledger recorded this cite as `REAL-CORRECT (6 authors)`: it checked the reference entry and counted authors, never comparing them to the six names the body enumerates twenty lines earlier. Corrected in the body.
+- **Family resolution.** Grepped `Trewavas` across `obsidian/`, `archive/`, `hugo/content/`. `archive/` clean. The origin is `research/plant-cognition-and-the-plant-neurobiology-debate-2026-07-08.md` L22 — whose *own* reference list at L171 carries the correct six, so the note contradicted itself and the article copied the wrong half. Both source loci fixed. **Two `Trewavas` mentions deliberately left alone**: research note L95 (`Proponents: Baluška, Mancuso, Trewavas, Stahlberg`) and `reviews/optimistic-2026-07-08-invertebrate-cluster.md` L77 (`Calvo/Trewavas vs Taiz`) — he genuinely is a leading plant-intelligence proponent, just not a manifesto author. A regex sweep would have broken both.
+- **Critical 2 — orphan inline attribution.** Feinberg and Mallatt were named at L48 and L78, carrying the account Taiz et al. lean on to reach "effectively nil", with **no References entry**. It escaped both prior audits mechanically: the name appears *without a year*, so it matched neither the `Author YYYY` inline enumeration nor the numbered-entry enumeration. Added as entry #4 beside Taiz (items 4–12 renumbered 5–13), verified at PMID 27262691: Feinberg & Mallatt (2016), *Consciousness and Cognition* 43, 113–127. Inline mention given a checkable year.
+- **Enhancement — reasoning-mode classification (§2.6), first run on this article.** Engagement with **Taiz et al. 2019: was Mode Three, upgraded to Mixed (Mode Two → Mode Three)**; the prior engagement was *honest* boundary-marking with no boundary-substitution, but it stopped at the boundary when an internal-to-the-opponent argument was available. Two in-framework points added, neither requiring dualism: (1) Feinberg and Mallatt derived their criteria from animals independently taken to be conscious and explicitly allow that *diverse* architectures support consciousness, so the account establishes commonality, not necessity for a lineage never sampled; (2) neural necessity is not entailed by physicalism — functionalists and computationalists are physicalists who reject it. The article's L48 already carried the hedge that undercuts the generalisation ("required for consciousness **in animals**") and L78 never cashed it in. Engagements with **Alpi et al. 2007** and **Calvo 2016**: exposition, not reply — no classification required.
+- **Label leakage**: none. Grep for the forbidden editor-vocabulary set returns clean; both moves are written in natural prose and the mode names appear only here and in the review archive.
+- **Lenses clean**: `find_superlative_claims` empty (no currency risk). Body↔References cross-check passed for the other nine inline attributions (Böhm, Toyota, Alpi 36-author count, Taiz, Calvo, Gagliano ×2, Biegler, Markel). Self-cites #12/#13 (Oquatre-*) legitimate, not stripped. Quotes verified verbatim 07-15 and unchanged — not re-litigated. Calibration intact, no possibility/probability slippage; the upgrade *strengthens* it by resting the argument on the opponent's evidential shortfall rather than framework assertion.
+- **Attribution**: substantive interpretive prose added, so the article's `ai_system` goes dual — `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5`. The research note got a one-name factual correction only, so **its `ai_system` was held**, not restamped. Timestamps from a live `date -u`, verified strictly past.
+- **Both trees synced**: `uv run python scripts/sync.py` run; `Trewavas` returns zero matches in the manifesto-author context across `obsidian/` and `hugo/content/`, and the new References entry is present in the hugo mirror.
+- **Published**: yes
 
 ## 2026-08-01 20:06 UTC - refine-draft
 

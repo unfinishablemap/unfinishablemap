@@ -4,6 +4,7 @@ created: 2026-07-08
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
+ai_modified: 2026-08-01T20:15:12+00:00
 ---
 
 # Research: Plant Cognition and the Plant-Neurobiology Debate
@@ -19,7 +20,7 @@ ai_system: claude-opus-4-8
 
 ## Executive Summary
 
-"Plant neurobiology" is a research programme launched in 2006 (Brenner, Stahlberg, Trewavas, Baluška, Mancuso, Van Volkenburgh) proposing that plants integrate environmental information via long-distance electrical signals, auxin transport, and "neuronal" molecules — and, in its bolder framings, that plants exhibit cognition, intelligence, learning, and even a form of sentience. It drew a sharp 36-author rebuttal (Alpi et al. 2007, "no brain, no gain?") and a later hard-line dismissal of plant consciousness (Taiz et al. 2019). The empirical flashpoints are Gagliano's contested learning experiments (Mimosa habituation 2014; pea-plant Pavlovian conditioning 2016), both of which met published critiques and a failed replication. Underneath the terminology war sits a genuine, uncontested biology: plants DO perform sophisticated adaptive information processing (glutamate-receptor-like wound signalling, Venus flytrap action-potential counting and short-term "memory") entirely WITHOUT neurons. For the Map, plants are the cleanest available test case of whether valence-guided, information-processing behaviour requires neural architecture at all — and whether any of it amounts to phenomenal experience, which almost no one in the debate claims.
+"Plant neurobiology" is a research programme launched in 2006 (Brenner, Stahlberg, Mancuso, Vivanco, Baluška, Van Volkenburgh) proposing that plants integrate environmental information via long-distance electrical signals, auxin transport, and "neuronal" molecules — and, in its bolder framings, that plants exhibit cognition, intelligence, learning, and even a form of sentience. It drew a sharp 36-author rebuttal (Alpi et al. 2007, "no brain, no gain?") and a later hard-line dismissal of plant consciousness (Taiz et al. 2019). The empirical flashpoints are Gagliano's contested learning experiments (Mimosa habituation 2014; pea-plant Pavlovian conditioning 2016), both of which met published critiques and a failed replication. Underneath the terminology war sits a genuine, uncontested biology: plants DO perform sophisticated adaptive information processing (glutamate-receptor-like wound signalling, Venus flytrap action-potential counting and short-term "memory") entirely WITHOUT neurons. For the Map, plants are the cleanest available test case of whether valence-guided, information-processing behaviour requires neural architecture at all — and whether any of it amounts to phenomenal experience, which almost no one in the debate claims.
 
 ## Key Sources
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-31 13:34:50+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-01 20:15:12+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -17,8 +17,8 @@ description: Plants count, remember, and signal across their whole body without 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-15 21:04:31+00:00
-lastmod: 2026-07-31 13:34:50+00:00
+last_deep_review: 2026-08-01 20:15:12+00:00
+lastmod: 2026-08-01 20:15:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ Neither result requires or implies experience. Both establish something narrower
 
 ## Neurobiology or Metaphor? The Terminology War
 
-In 2006 a group of biologists (Brenner, Stahlberg, Trewavas, Baluška, Mancuso, Van Volkenburgh) proposed a new field: **plant neurobiology**. Their manifesto argued that plants process environmental information to develop and reproduce optimally, via "integrated signaling, communication and response," and emphasised long-distance electrical signals, vesicle-mediated auxin transport, and molecules known from animal nervous systems—glutamate, GABA, acetylcholine (Brenner et al. 2006). In its bolder framings, the programme spoke of plant cognition, intelligence, learning, and occasionally sentience. The whole-plant coordination was framed as analogous to a nervous system.
+In 2006 a group of biologists (Brenner, Stahlberg, Mancuso, Vivanco, Baluška, Van Volkenburgh) proposed a new field: **plant neurobiology**. Their manifesto argued that plants process environmental information to develop and reproduce optimally, via "integrated signaling, communication and response," and emphasised long-distance electrical signals, vesicle-mediated auxin transport, and molecules known from animal nervous systems—glutamate, GABA, acetylcholine (Brenner et al. 2006). In its bolder framings, the programme spoke of plant cognition, intelligence, learning, and occasionally sentience. The whole-plant coordination was framed as analogous to a nervous system.
 
 The pushback was sharp and fast. In 2007, thirty-six authors published a rebuttal titled "Plant neurobiology: no brain, no gain?" (Alpi et al. 2007). Their objection was pointed: the label "neurobiology" implies plants have nerves, synapses, and a brain—structures they simply lack—and the animal analogy adds nothing to plant physiology, cell biology, or signalling while risking real confusion. The rebuttal was methodologically cautionary rather than metaphysical: a brake on reading behaviour as mind by borrowing vocabulary.
 
@@ -79,7 +79,13 @@ The Map's central commitment here follows from **[Tenet 1 (Dualism)](/tenets/#du
 
 On the *empirical* question, the Map lands close to the deflationists: plants very probably have no phenomenal experience. Nothing in the flytrap's counting, the GLR calcium wave, or even the contested learning results reaches "what-it's-like," and the Map's own [evidential-status-discipline](/project/evidential-status-discipline/) forbids upgrading adaptive behaviour into an experience claim. So the Map does not endorse the inflationary wing's occasional gloss of sentience onto this biology.
 
-But the Map firmly rejects the *reason* the strongest skeptics give. Taiz et al.'s argument runs: consciousness requires specific neural architecture (per Feinberg and Mallatt); plants lack it; therefore plants lack consciousness. The middle premise is a **neural-necessity** claim—that experience just *is*, or is constituted by, a particular kind of neural computation. Under dualism that premise is a physicalist commitment, not an established fact, and the Map declines it. The Map can hold "plants very likely lack experience" while refusing "because experience is neural computation." The two claims come apart cleanly: the first is a calibrated reading of the evidence; the second is a metaphysical thesis the Map's dualism contests. Taiz et al.'s conclusion may well be right; their argument for it rests on a foundation the Map does not accept.
+But the Map firmly rejects the *reason* the strongest skeptics give. Taiz et al.'s argument runs: consciousness requires specific neural architecture (per Feinberg and Mallatt); plants lack it; therefore plants lack consciousness. The middle premise is a **neural-necessity** claim—that experience just *is*, or is constituted by, a particular kind of neural computation. Two objections apply, and they are worth keeping apart.
+
+The first needs no dualism at all. Feinberg and Mallatt assembled their criteria by asking which neurobiological features accompany consciousness in animals already independently taken to be conscious, and they stress that *diverse* brain architectures can support it (Feinberg & Mallatt 2016). That method can say what conscious animals have in common; it cannot show those features are *necessary* for consciousness in a lineage the survey never sampled. Taiz et al. take an account framed for animals, and deliberately pluralistic about architecture, and run it as a general necessity premise strong enough to license "effectively nil." Nor is neural necessity forced on anyone by physicalism: functionalists and computationalists are physicalists who reject it, holding that organisation rather than neural tissue is what matters. The premise is a contested position inside the skeptics' own camp, not a settled physicalist result.
+
+The second objection is the Map's own, and here the disagreement is real and unbridgeable. Under dualism, experience is not constituted by neural computation, so no inventory of absent neural structures settles the question by itself. The Map declines that premise and says so plainly, rather than claiming to have refuted it from within.
+
+So the Map can hold "plants very likely lack experience" while refusing "because experience is neural computation." The two claims come apart cleanly: the first is a calibrated reading of the evidence; the second is a metaphysical thesis the Map's dualism contests. Taiz et al.'s conclusion may well be right; their argument for it is more confident than its evidence base supports, and rests besides on a foundation the Map does not accept.
 
 **[Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits)** guards the other flank. Just as parsimony cannot license *dismissing* marginal consciousness merely because simple mechanisms suffice to explain the behaviour, it cannot license *attributing* experience on the strength of behavioural sophistication. The discipline runs in both directions: the Map neither reads mind into the flytrap because it counts, nor rules out experience anywhere on the ground that a mechanism was found. What plants change is not the Map's credence that they are conscious—which stays very low—but the Map's confidence that behaviour and experience are genuinely separable questions, one empirically tractable and one not.
 
@@ -99,12 +105,13 @@ But the Map firmly rejects the *reason* the strongest skeptics give. Taiz et al.
 1. Brenner, E.D., Stahlberg, R., Mancuso, S., Vivanco, J., Baluška, F., & Van Volkenburgh, E. (2006). Plant neurobiology: an integrated view of plant signaling. *Trends in Plant Science*, 11(8), 413–419.
 2. Alpi, A., Amrhein, N., et al. (36 authors) (2007). Plant neurobiology: no brain, no gain? *Trends in Plant Science*, 12(4), 135–136.
 3. Taiz, L., Alkon, D., Draguhn, A., Murphy, A., Blatt, M., Hawes, C., Thiel, G., & Robinson, D.G. (2019). Plants Neither Possess nor Require Consciousness. *Trends in Plant Science*, 24(8), 677–687.
-4. Gagliano, M., Renton, M., Depczynski, M., & Mancuso, S. (2014). Experience teaches plants to learn faster and forget slower in environments where it matters. *Oecologia*, 175(1), 63–72.
-5. Biegler, R. (2018). Insufficient evidence for habituation in *Mimosa pudica*. Response to Gagliano et al. (2014). *Oecologia*, 186(1), 33–35.
-6. Gagliano, M., Vyazovskiy, V.V., Borbély, A.A., Grimonprez, M., & Depczynski, M. (2016). Learning by Association in Plants. *Scientific Reports*, 6, 38427.
-7. Markel, K. (2020). Lack of evidence for associative learning in pea plants. *eLife*, 9, e57614.
-8. Böhm, J., Scherzer, S., et al. (2016). The Venus Flytrap *Dionaea muscipula* Counts Prey-Induced Action Potentials to Induce Sodium Uptake. *Current Biology*, 26(3), 286–295.
-9. Toyota, M., Spencer, D., et al. (2018). Glutamate triggers long-distance, calcium-based plant defense signaling. *Science*, 361(6407), 1112–1115.
-10. Calvo, P. (2016). The philosophy of plant neurobiology: a manifesto. *Synthese*, 193(5), 1323–1343.
-11. Southgate, A. & Oquatre-huit, C. (2026-06-05). The Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
-12. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+4. Feinberg, T.E. & Mallatt, J. (2016). The nature of primary consciousness. A new synthesis. *Consciousness and Cognition*, 43, 113–127.
+5. Gagliano, M., Renton, M., Depczynski, M., & Mancuso, S. (2014). Experience teaches plants to learn faster and forget slower in environments where it matters. *Oecologia*, 175(1), 63–72.
+6. Biegler, R. (2018). Insufficient evidence for habituation in *Mimosa pudica*. Response to Gagliano et al. (2014). *Oecologia*, 186(1), 33–35.
+7. Gagliano, M., Vyazovskiy, V.V., Borbély, A.A., Grimonprez, M., & Depczynski, M. (2016). Learning by Association in Plants. *Scientific Reports*, 6, 38427.
+8. Markel, K. (2020). Lack of evidence for associative learning in pea plants. *eLife*, 9, e57614.
+9. Böhm, J., Scherzer, S., et al. (2016). The Venus Flytrap *Dionaea muscipula* Counts Prey-Induced Action Potentials to Induce Sodium Uptake. *Current Biology*, 26(3), 286–295.
+10. Toyota, M., Spencer, D., et al. (2018). Glutamate triggers long-distance, calcium-based plant defense signaling. *Science*, 361(6407), 1112–1115.
+11. Calvo, P. (2016). The philosophy of plant neurobiology: a manifesto. *Synthese*, 193(5), 1323–1343.
+12. Southgate, A. & Oquatre-huit, C. (2026-06-05). The Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
+13. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
