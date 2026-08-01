@@ -5,6 +5,29 @@ ai_modified: '2026-08-01T16:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 16:34 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/brain-organoids-and-the-organoid-intelligence-question]]
+- **Word count**: 3011 → 3011 (0; exactly length-neutral, required at `soft_warning` against `topics/` soft 3000)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 edits + 4 offsetting trims
+- **Trigger for §2.4**: the article was refined at 15:53 today against a same-day pessimistic review, which added **four new references**. A modified References block re-arms the publisher web-verify mandate; none of the four had a ledger entry.
+- **Citation ledger (four new refs, all direct WebFetch — session WebSearch budget was exhausted)**:
+  - Milford, Shaw & Starke 2023, *Sci Eng Ethics* 29(6), 38 — **real-correct** (PMID 37882881); free-energy-from-the-inside gloss faithful.
+  - Habibollahi, Kagan, Burkitt & French 2023, *Nat Commun* 14, 5287 — **real-correct** (PMID 37648737); shared-authorship claim correct.
+  - Watmuff et al. 2025, *Commun Biol* 8(1), 916 — **metadata real-correct** (PMID 40527961, PMC12174357), all nine authors in the article's exact order; **body paraphrase real-wrong, corrected** (see below).
+  - Niikawa, Hayashi, Shepherd & Sawai 2022, *Neuroethics* 15(1), 5 — **real-correct**, and the *gloss* verified via the Crossref abstract after Springer auth-walled the full text twice. Confirms "methodological schema", the whether-question/what-kind-question bracketing, and the closing support for "restricting the creation and use of HBOs in bioscience". The Issue-2 risk flagged by the pessimistic review — swapping the citation under an unchanged ethical-conduct gloss — was **not** realised.
+- **Critical fix — conflict-of-interest paraphrase**: the article claimed "five of its nine authors employed by Cortical Labs, four of them declaring a pecuniary interest in the firm and **a fifth author declaring shares in it**". The verbatim PMC declaration is: *"B.W., F.H., C.D., A.L., and B.J.K. are employed by Cortical Labs Pte Ltd… B.W., F.H., A.L., and B.J.K. also hold a pecuniary interest… MRK owns shares in bit.bio and in Cortical Labs and is a director of bit.bio Ltd."* The shareholder (Kotter) is **not** among the five employees, and the employee who holds no interest (Desouza) is. The article mislocated the interest and thereby *understated* the entanglement — six of nine, not five. Corrected to "…four of them also holding a pecuniary interest in it, and a sixth holding shares in the company". Empirical-claim fidelity defect: citation faultless, paraphrase wrong.
+- **Two persona findings the refine pass left open** (it worked the nine numbered Issues and resolved all nine, but not the findings living only in the persona sections): **Churchland's double-standard charge** — answered with the reply the pessimistic review flagged as available-and-unstated, that the human/organoid asymmetry is anchored by first-person report, which the dish cannot give; **Nagarjuna on "a mind with nothing to think about"** — hedged with "if phenomenality can be world-less at all" rather than opening an intentionalism digression there is no room for.
+- **Offsetting trims** (to hold length neutral): vocabulary-point preamble condensed; "easy to flatten into a slogan" cut; the self-referential "and the Map should say so plainly rather than leave it unremarked" cut as redundant with the following sentence; "worth conceding plainly because" tightened; the substrate axes deduplicated out of Further Reading.
+- **Engagement classification**: deflationary/physicalist reading of DishBrain — **Mode Three**, unchanged and honest (endorses the discipline, declines the physicalist step, names the parting as dualist). The new Churchland reply is **Mode One**, narrowly: it uses an evidential asymmetry an eliminativist grants rather than appealing to a tenet. Label-leakage grep clean.
+- **Cross-reference integrity**: 14 inline bracket cites ↔ 14 References entries, zero orphans either direction; the two self-cites the pessimistic review found uncited are now bracket-cited. All nine wikilink targets resolve. `find_superlative_claims` empty. Validator clean.
+- **Ledger correction to the 2026-07-18 pass**: that review recorded the precautionary-principle attribution as "verbatim-faithful to" Sawai et al. 2022. It was not — the principle is Niikawa et al. 2022. It survived a full publisher-verify pass because the Sawai *metadata* was faultless and got checked in place of the *attribution*.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-8+claude-opus-5` (claude-opus-5 already present; no new model introduced). `ai_modified` and `last_deep_review` both set to 2026-08-01T16:34:25+00:00.
+- **Output**: [[reviews/deep-review-2026-08-01-brain-organoids-and-the-organoid-intelligence-question]]
+
 ## 2026-08-01 16:20 UTC - refine-draft
 
 - **Status**: Success
