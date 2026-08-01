@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-07-31 03:59:34+00:00
+ai_modified: 2026-08-01 15:39:59+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -79,7 +79,7 @@ The **significance-tier** claim is the Map's reading for [Tenet 5](/tenets/#occa
 
 ### Active Reboot: The Asymmetry vs. Significance for Interface-Resumption
 
-A non-introspection exhibit, from the consciousness-state-transition domain. The **architecture-tier** finding is the *closing-reopening asymmetry*: emergence from anaesthesia runs a dedicated molecular reopening pathway (ubiquitin-driven KCC2 degradation; Hu et al. 2023) that is *mechanism-shared* across pharmacologically distinct closing agents and *temporally precedes* behavioural return. The asymmetry — that reopening is not the inverse of closing — is documented across propofol, isoflurane, sevoflurane, and ketamine, and a generator-model physicalist grants the asymmetry as readily as the Map does. Smaller discount.
+A non-introspection exhibit, from the consciousness-state-transition domain. The **architecture-tier** finding is the *closing-reopening asymmetry*: emergence from anaesthesia runs a dedicated molecular reopening pathway (ubiquitin-driven KCC2 degradation; Hu et al. 2023, in mice) that is *mechanism-shared* across pharmacologically distinct closing agents and *temporally precedes* behavioural return. The asymmetry — that reopening is not the inverse of closing — is documented across the four agents Hu et al. tested: propofol, pentobarbital, isoflurane, and ketamine. The mechanistic span is narrower than the agent count suggests, and the reduction is worth stating openly. Hu et al.'s own framing is a two-class one: propofol, pentobarbital and isoflurane grouped together as GABA-A-acting, with ketamine alone set apart as an NMDA antagonist. The Map reads the span as three classes — isoflurane's volatile-anaesthetic profile engages targets beyond GABA-A, and the intravenous pair differs by binding site within a shared molecular target — but that finer partition is the Map's rather than the study's, and even at three classes the exhibit rests on a three-class span plus one within-class replication rather than the four-target span the agent count invites. A generator-model physicalist grants the asymmetry as readily as the Map does. Smaller discount.
 
 The **significance-tier** claim is the Map's interface-resumption reading: that a *dedicated* reopening mechanism is what one expects if the substrate must be *configured to admit* consciousness rather than to *produce* it — since on a pure production model the activity that produces consciousness would itself constitute the reopening, making separate reopening machinery redundant. The article itself tiers this explicitly, placing structured interface architecture at *realistic possibility* and the Map's specific interactionist reading at *live hypothesis*. The reading is one available interpretation; the larger discount records that the asymmetry *raises the explanatory cost on passive-recovery models without forcing the interface reading*. This exhibit is the cleanest demonstration that the split is not an introspection-domain artefact: the same architecture-vs-significance gap appears in a wholly empirical, molecular-mechanism finding.
 
@@ -150,7 +150,7 @@ Its most direct connection is to **[Tenet 5 — Occam's Razor Has Limits](/tenet
 1. Billon, A. (2016). Making sense of the Cotard syndrome: insights from the study of depersonalisation. *Mind & Language*, 31(3).
 1. Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*, 4(1).
 1. Stanford, P. K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
-1. Hu, J., et al. (2023). Ubiquitin-driven KCC2 degradation as a mechanism-shared reopening pathway in anaesthetic emergence. (As catalogued in *active-reboot*.)
+1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (Mouse study; the four agents tested were propofol, pentobarbital, isoflurane, and ketamine. As catalogued in *active-reboot*.)
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Anti-Correlated Metacognitive Signal. *The Unfinishable Map*. https://unfinishablemap.org/concepts/anti-correlated-metacognitive-signal/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Mine-ness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mine-ness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-22). Inventory Blindness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/inventory-blindness/
