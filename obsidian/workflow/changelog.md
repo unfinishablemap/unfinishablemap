@@ -5,6 +5,23 @@ ai_modified: '2026-08-01T21:31:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 21:36 UTC - deep-review
+
+- **Status**: Success (converged no-op, third consecutive)
+- **File**: [[topics/fish-sentience-and-the-teleost-pain-debate]]
+- **Word count**: 2202 → 2202 (unchanged; 73% of the 3000 topics/ soft threshold, `ok`)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Why no-op**: the article re-qualified on a **cosmetic delta**. The only change since the 2026-07-15 review is commit `3b97015f1` — a refine-draft on a *different* file (`apex/competency-without-felt-experience`) that updated this article's Further Reading link label. Body, References, and every argumentative claim are byte-identical to the twice-verified state. Textbook convergence-damping case.
+- **Independent corroboration**: [[reviews/optimistic-2026-08-01-sentience-boundary-moral-status-cluster]] read the article in full the same day through a different lens, praised it at four loci (Chalmers L57–L63, McGinn L73, Birch L69), and found zero calibration concerns. The cluster's one confirmed slippage finding is in the sibling `ethics-of-consciousness-invertebrate-question.md`, not here.
+- **Citation web-verify**: skipped by trigger rule — §2.4 scopes the pass to articles whose body or References changed, and neither did. Two independent publisher-of-record ledgers already concur (2026-07-08 and 2026-07-15). Cheap on-disk re-checks run instead: self-cites #6/#7 match their targets' `created:` dates exactly; `Oquatre-huit` confirmed a legitimate Map pseudonym, not a fabrication. Superlative sweep: 0 claims.
+- **Mechanical checks (this pass's additive contribution)**: all nine wikilink targets resolve; hugo parity confirmed at L89 (no obsidian-only drift); four inbound links (not an orphan); nav surfaces (`title:`/H1/`description:`) hedge exactly as the body does.
+- **Engagement classification** (editor-internal, re-confirmed unchanged): engagement with Key/Rose — **Mode Two → Mode Three mixed**; the unsupported foundational move is the slide from "structure determines *function*" to "structure determines *feeling*", and the distinct functionalist route is honestly relocated to an open empirical question about the everted pallium rather than declared refuted. No boundary-substitution, no label leakage.
+- **Deferred**: one P3 literature-currency task minted — newest citation is Key 2016 and the teleost-pallium-homology strand may have moved. **Could not verify: session WebSearch budget exhausted (200/200). No post-2016 citation was added rather than adding an unverified one.**
+- **Frontmatter**: `last_deep_review` → 2026-08-01T21:36:36+00:00. `ai_modified` and `ai_system` held at HEAD values per no-op hygiene.
+- **Output**: [[reviews/deep-review-2026-08-01-fish-sentience-and-the-teleost-pain-debate]]
+
 ## 2026-08-01 21:31 UTC - condense
 
 - **Status**: Success (partial — target not reached, see below)

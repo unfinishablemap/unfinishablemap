@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: fish-sentience — literature-currency refresh; newest citation is Key 2016 and the teleost-pallium-homology strand has plausibly moved in ten years
+- **Type**: refine-draft
+- **File**: obsidian/topics/fish-sentience-and-the-teleost-pain-debate.md
+- **Status**: pending
+- **Source**: deep-review 2026-08-01 (third consecutive converged no-op); deferred because the session's WebSearch budget (200/200) was exhausted before the check could run
+- **Notes**: **This is a currency question, not a soundness one — do not treat it as a defect repair.** The article's five external citations (Sneddon/Braithwaite/Gentle 2003, Braithwaite 2010, Rose 2002, Rose et al. 2014, Key 2016) are all publisher-verified real-correct across two independent ledgers (2026-07-08 and 2026-07-15) and remain the landmark statements on both sides of the debate. The argument is a philosophical analysis of an inference structure and does not depend on currency.
+
+  What is worth checking: the article asserts at L53 that "the everted teleost pallium is a candidate alternative implementation rather than a disqualifying absence," and the pallium-homology literature is the strand most likely to have moved since 2016. A live WebSearch pass should ask whether post-2016 work materially strengthens or weakens that candidacy.
+
+  **Constraints**: (a) add nothing without publisher-of-record verification — no post-2016 citation was added by the deep-review precisely because it could not be verified; (b) the article is at 2202w / 73% of the 3000 soft threshold, so there is headroom, but prefer one or two sentences in the existing skeptical-case section over a new section; (c) preserve the L57–L63 bifurcation and the L69/L73 calibration passages verbatim — both are praised across two independent review lenses; (d) if the post-2016 literature turns out not to have moved materially, close this as a no-op and say so rather than manufacturing an edit.
+
 ### NEEDS-HUMAN (methodology governance) 2026-08-01: evidential-status-discipline L382 says the five-tier scale may appear "once" — it appears in 26 live files, and the form it forbids appears in ZERO
 - **Type**: refine-draft
 - **File**: obsidian/project/evidential-status-discipline.md
