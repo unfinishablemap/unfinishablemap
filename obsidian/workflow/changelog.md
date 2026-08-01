@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T21:08:00+00:00'
+ai_modified: '2026-08-01T21:31:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 21:31 UTC - condense
+
+- **Status**: Success (partial — target not reached, see below)
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Before**: 6602 raw / 6602−629 apparatus = **5973 prose** — `critical` (topics ceiling 6000)
+- **After**: 5980 raw / 5980−565 apparatus = **5415 prose** — `hard_warning`
+- **Reduction**: −622 raw (−9.4%), −558 prose (−9.3%). Apparatus decomposed both ways with `analyze_length` + per-section counts; the raw figure alone would have over-stated the overage by ~630 words.
+- **Threshold moved**: `critical` → `hard_warning`. The article no longer trips the critical ceiling.
+- **Target NOT reached, deliberately**: the brief aimed at 4000 prose. That is **unreachable without deleting calibration hedges or breaking inbound anchors**, and the brief's own instruction ("if cutting to target would cost any of them, cut less and say so") governs. See "Why 4000 is unreachable" below.
+- **Structural decision — did NOT merge the three failure-mode sections.** `When Convergence Fails`, `The Anti-Realist Challenge` and `What Divergence Reveals` were read together as instructed. They are **three distinct defeater families**, not three statements of one: historical track record (Laudan's retired posits), debunking etiology (Bloom/Barrett/Berent, McGinn), and non-universality (the Chinese divergence, Chalmers's graded theses). None restates the three conditions. The genuine redundancy ran *across* them on one strand only — **illusionism**, stated four times — so that strand was consolidated into `Cognitive Universals` (where the full reply is developed and where an internal anchor already pointed) rather than the sections being merged.
+- **Technique**:
+  - Folded `## Formal Structure` into the previously bare preamble of `## Three Conditions for Evidential Convergence`; its Bayesian paragraph duplicated the Bovens–Hartmann treatment two sections above. (No inbound anchor — verified.)
+  - Cut the self-declared duplicate illusionist paragraph in `When Convergence Fails` to the objection + concession + forward pointer; it already said "the full reply … is pressed in the cognitive-universals analysis below".
+  - Merged the two-tier discount in `Compound Signatures`, which stated "architecture transfers, significance does not" three times across two paragraphs; compressed the clinical exhibit, whose detail is fully worked in the four linked route articles.
+  - Merged the Chalmers-2020 exposition in `What Divergence Reveals` from three paragraphs to two, dropping scaffolding ("Two consequences follow. First…") and keeping every quotation verbatim.
+  - Made `Genuine Independence` point forward to the `Specificity of Agreement` condition instead of pre-stating it.
+  - Trimmed reference annotations and Further Reading glosses that restated the body.
+- **Hedges preserved verbatim in substance**: the three conditions; the Laudan concession (Map disclaims convergence-weight for substance dualism at the solution layer) and the residual-anti-realist-boundary sentence; the Bayesian non-vindication concession; the bootstrapping problem and "suggestive rather than demonstrative"; the count-cannot-upgrade discipline; the Neoplatonist asymmetric per-tradition discounts; the compatibility-vs-vindication verdict on the compound signature; Berent's programme **as stated** (not softened) and the full sensitivity-failure reply; Barrett et al.'s two quotations; Stanford's unconceived alternatives; the methodology-symmetry test; Chalmers's "is also common among illusionists"; the circularity/productivity-is-not-veridicality position. `Methodology and Framework Commitment Are Different Routes` (254w) untouched. `Relation to Site Perspective` retained.
+- **Why 4000 prose is unreachable**: ~1215 prose words are structurally locked — `Methodology and Framework Commitment` (254, briefed intact), `Relation to Site Perspective` (210, required), the opening summary (166), the O'Brien-Kop paragraph (245, held byte-identical for an open P3), and the `Specificity of Agreement` condition (111). Five live articles anchor `#compound-signatures-convergence-without-a-shared-mechanism` (`conversion-disorder-as-consciousness-side-fault`, `anaesthesia-and-the-consciousness-interface`, `clinical-dissociation-as-systematic-evidence`, `apex/pharmacological-dissociation-as-evidence` ×2) and one anchors `#scope-of-the-argument` (`the-reverse-inference`), so neither section can be extracted to a new article — the standard condense escape hatch is closed. Reaching 4000 would require cutting ~26% more from what remains, all of which is hedge or distinct argumentative move. **Recommendation: treat ~5400 prose as this node's floor and re-scope or close any successor length task.**
+- **Locked lines (open P3, O'Brien-Kop 2023→2024 pairing)**: both held **byte-identical**, SHA-256 verified against HEAD. Line numbers shifted by cuts above them: running prose **L96 → L92**, reference entry **L232 → L224**. The P3 task's anchors need re-pointing to 92/224; its replacement string is untouched and unreproduced.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — this pass removed duplicated exposition and joined surviving clauses; no new argument was composed. `last_deep_review` left at 2026-07-27.
+- **Wikilinks**: set diffed before/after — no targets lost. One alias reworded (same target), one internal anchor added (`#scope-of-the-argument`, heading present).
+- **Sync**: run; Hugo twin confirmed to agree.
 
 ## 2026-08-01 21:08 UTC - refine-draft
 

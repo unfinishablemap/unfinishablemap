@@ -39,21 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: altered-states apex — the Dualism tenet paragraph argues from the two things the article's own body rules non-discriminating, and a discriminator withdrawn by its own apex_source is still live in hugo
-- **Type**: refine-draft
-- **File**: obsidian/apex/altered-states-as-interface-evidence.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-08-01 (interface-evidence cluster) — see [optimistic-2026-08-01-interface-evidence-cluster](/reviews/optimistic-2026-08-01-interface-evidence-cluster/)
-- **Generated**: 2026-08-01
-- **Notes**: **Two sentence-level fixes plus one link, all on this one file, one shared root cause. Bundled deliberately: three separate tasks on a single apex is the same-file-pileup shape the catalogue has been bitten by. Both fixes are length-neutral or reducing — REQUIRED, the file is 4986w against a 5000 hard threshold (14 words of headroom, measured with `analyze_length`, not `wc -w`). Do not add net prose.**
-  - **ROOT CAUSE — the durable fix.** This apex has **zero** references to `evidential-status-discipline`. Its three cluster siblings have 5 (`apex/pharmacological-dissociation-as-evidence.md`), 4 (`concepts/cross-mechanism-convergence.md`), 3 (`concepts/active-reboot.md`). It is the cluster's most-read synthesis and the only member never wired to the discipline both defects below violate. The article lives at `obsidian/project/evidential-status-discipline.md` but siblings link it as bare `[[evidential-status-discipline]]`, which resolves from `apex/` — use that form. Add to Further Reading and/or `related_articles`.
-  - **FIX 1 (L176, Dualism tenet paragraph) — re-frame, do NOT delete.** The paragraph argues from the perturbation count and from differential decomposition to an unhedged comparative verdict: *"A multi-component architecture that decomposes along consistent lines across pharmacology, sleep, ritual training, transitional states, psychedelic neurochemistry, and end-of-life neurodegeneration is more naturally explained by an interface between two distinct domains…"* The article's own body forbids both moves, three times: **L81** *"the cluster carries the evidential weight of one pattern, not six"*; **L154** *"The mere fact that interface components dissociate independently does not, by itself, favour filter theory over production models"*; **L166** *"the discriminating weight rests on the enhancement-through-disruption cases, not on the count of converging states."* Sharpening detail: "end-of-life neurodegeneration" is terminal lucidity, which **L125** calls *"the costliest anomaly, not confirmation"* and reports as pointing AWAY from the filter reading (Tollock et al. 2025) — the tenet paragraph counts it as one of six supporting perturbations. **The honest replacement is already in the body**: the pattern establishes that whatever account is right must have multi-channel structure (L81), and the discriminating weight sits with enhancement-through-disruption (L166). Copy register from siblings rather than composing new hedges — `active-reboot.md` L95 (*"defeater-removal … does not by itself elevate filter-theory evidence to a higher tier"*) and `pharmacological-dissociation-as-evidence.md` L178 (*"The dissociation classes constrain identity readings without establishing dualism"*).
-  - **FIX 1b (L184, Occam's Razor paragraph) — WEAKER instance, light touch only.** Two of its three clauses (enhancement-through-disruption; Class C behaviour/phenomenology mismatch) ARE licensed by the body. Only the third — *"why components dissociate along the same architectural lines across unrelated perturbations"* — inherits the L154 problem. Adjust that clause; do not rewrite the paragraph.
-  - **FIX 2 (L158) — a withdrawn discriminator, still live in `hugo/`.** Current text: *"The bandwidth asymmetry confirms this architecture… exactly what an interface model predicts and what a production model must explain ad hoc."* But `concepts/filter-theory.md` L149 — listed in THIS apex's own `apex_sources` (L57) — withdrew it: *"Global Workspace Theory makes a conscious-access bottleneck its defining feature, so the datum is shared, not discriminating."* `topics/bandwidth-of-consciousness.md` L162 agrees, and sibling apex L138 states the propagation norm this apex missed — such corrections *"belong here rather than only on their pages."* **Sweep already done: "must explain ad hoc" occurs at exactly ONE serving locus corpus-wide (this apex), and is LIVE at `hugo/content/apex/altered-states-as-interface-evidence.md:165`. No wider propagation to chase — fix the one sentence.** De-claim it (the bandwidth figure can stay as architecture description); do not delete the bandwidth material wholesale.
-  - **Style, same sentence, free while you are there**: *"the interface is a radical bottleneck, not a production line"* is the "not X" construct `CLAUDE.md` asks writers to avoid.
-  - **Do NOT "fix" L81, L125, L154, L166** — those are the article's calibrated passages and the standard the fixes are measured against.
-  - **Sync required**: the L158 defect is live in `hugo/`. Run `uv run python scripts/sync.py` and confirm the hugo twin agrees; do not leave this obsidian-only.
-
 ### NEEDS-HUMAN (methodology governance) 2026-08-01: evidential-status-discipline L382 says the five-tier scale may appear "once" — it appears in 26 live files, and the form it forbids appears in ZERO
 - **Type**: refine-draft
 - **File**: obsidian/project/evidential-status-discipline.md
@@ -2079,6 +2064,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-08-01: altered-states apex — the Dualism tenet paragraph argues from the two things the article's own body rules non-discriminating, and a discriminator withdrawn by its own apex_source is still live in hugo
+- **Type**: refine-draft
+- **File**: obsidian/apex/altered-states-as-interface-evidence.md
+- **Notes**: **Two sentence-level fixes plus one link, all on this one file, one shared root cause. Bundled deliberately: three separate tasks on a single apex is the same-file-pileup shape the catalogue has been bitten by. Both fixes are length-neutral or reducing — REQUIRED, the file is 4986w against a 5000 hard threshold (14 words of headroom, measured with `analyze_length`, not `wc -w`). Do not add net prose.**
 
 ### ✓ 2026-08-01: archive tree — five more serving bodies still assert flat ape-incapacity ("cannot accumulate", "show no transformational creativity", "cannot transcend")
 - **Type**: refine-draft
