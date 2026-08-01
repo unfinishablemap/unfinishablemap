@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-07-14T04:39:14+00:00
+ai_modified: 2026-08-01T18:28:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -238,7 +238,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as evidence for the capability division and mind-side rendering
 - [[incubation-effect-and-unconscious-processing]] — The creative cycle and consciousness's role in incubation
 - [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — The broader case for consciousness enabling human-level cognition
-- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: dreams as one of five windows into the multi-channel interface architecture
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: dreams as one of six windows into the multi-channel interface architecture
 - [[comparative-consciousness-and-interface-differences]] — Dreams as coupling variation: same consciousness, different interface configuration
 
 ## References

@@ -4,7 +4,7 @@ description: "Anesthesia and coma don't prove brains produce consciousness. Filt
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-07-31T10:24:08+00:00
+ai_modified: 2026-08-01T18:28:07+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T12:30:00+00:00
@@ -209,7 +209,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The graded interface transition at sleep onset
 - [[degrees-of-consciousness]] — How consciousness varies along multiple dimensions — the gradation loss-of-consciousness research reveals
 - [[haecceity]] — The indexical identity problem posed by temporal gaps in experience
-- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix of six altered states
 - [[dream-consciousness]] — Dream states as contrast case: consciousness persists during sleep with distinct phenomenal modes and cognitive contributions
 - [[terminal-lucidity-and-filter-transmission-theory]] — Terminal lucidity as strongest single-phenomenon case for filter/transmission theory despite severe brain damage
 - [[neurological-dissociations-as-interface-architecture]] — Blindsight, anosognosia, and alien hand syndrome mapping the functional anatomy of the mind-brain channel

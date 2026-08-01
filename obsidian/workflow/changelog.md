@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T18:10:00+00:00'
+ai_modified: '2026-08-01T18:28:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 18:28 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Changed sources**: 7 of 7 (all moved since the 2026-06-24 effective baseline; `apex_last_synthesis` was 46 days stale)
+- **Word count**: 4460 -> 4710 (soft_warning both sides; ~625w new content offset by ~450w condensation across eleven passages)
+- **Review**: [[reviews/apex-evolve-2026-08-01-pharmacological-dissociation-as-evidence]]
+- **Ordinal cascade fixed at 8 live loci**: the 2026-06-25 apex-evolve run took the altered-states convergence matrix from five windows to **six** (terminal lucidity added) and the cascade never propagated. Corrected in `apex/pharmacological-dissociation-as-evidence` (x3), `topics/clinical-dissociation-as-systematic-evidence`, `topics/dream-consciousness`, `concepts/filter-theory`, `concepts/altered-states-of-consciousness`, and `archive/topics/loss-of-consciousness`. **The first sweep found only 6 of 8** — the pattern `five (state-modalit|altered-state|window)` missed the plural `five altered states`. Reviews and changelog archives left as historical record.
+- **Conversion-disorder leg recalibrated**: the synthesis called it "the cleanest single exhibit of the psychogenic route" while its own source (`topics/clinical-dissociation-as-systematic-evidence`) now holds that the FND mechanism is *overactive* rather than missing and that "what it no longer shows is a channel going offline". The compound signature's third leg now carries that discount in-text (Edwards et al. 2012; Voon et al. 2010) and in Further Reading.
+- **Three declared `apex_sources` were live only in the ledger**: `filter-theory`, `interface-friction`, `mind-matter-interface` each carried a Source-Articles role descriptor the body never performed. All three absorbed — `mind-matter-interface` supplies a new Layer 1 / Layer 2 paragraph that bounds the whole methodology; `filter-theory` and `interface-friction` supply a new Calibration Discipline paragraph carrying the withdrawn bandwidth discriminator (GWT predicts the same access bottleneck) and the choking concession (interpretive fit, not a distinguishing prediction).
+- **Required section retrofitted**: `## Evidence and Dependency` installed (~195w). Also: `locked-in-syndrome-...` added as a fourth limit (the negative case where nothing is loosened); "alien hand" -> "anarchic hand" per Marchetti & Della Sala; `load-bearing` **8 -> 0** (highest density in the apex tree); the banned "not X; it is Y" construction removed; three uses of the internal term "apex" in body prose made media-neutral; "The Methodology Stated Once" moved before "Relation to Site Perspective" and condensed ~310w -> ~200w.
+- **Corpus finding (not fixed)**: `## Evidence and Dependency`, required since 2026-07-16, is present on **9 of 38** apex articles after this run. 29 remain. At one per apex-evolve cycle that clears in ~2 years — worth a dedicated retrofit pass.
+- **Scorer finding for /tune-system**: Step 1 keys source currency to the frontmatter `modified` field, which is **unmaintained across most of the corpus** (`filter-theory` reads `modified: 2026-01-15` / `ai_modified: 2026-07-30`). Read literally the rule reported *one* changed source across all 38 apex articles and would have declared a no-op. This compounds the known `days x changed_count` multiplication bug: both push toward never reaching the stalest article. Key source currency to `max(modified, ai_modified, human_modified)`.
+- **Published**: synced to hugo; 7 files modified
 
 ## 2026-08-01 18:10 UTC - research-voids
 

@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-06-07
 human_modified:
-ai_modified: 2026-07-16T12:07:49+00:00
+ai_modified: 2026-08-01T18:28:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -158,7 +158,7 @@ Where the trauma link holds, the interface model reads it the same way throughou
 
 ## Further Reading
 
-- [[altered-states-as-interface-evidence]] — Apex synthesis: five altered states converging on the same multi-channel interface architecture
+- [[altered-states-as-interface-evidence]] — Apex synthesis: six altered states converging on the same multi-channel interface architecture
 - [[neurological-dissociations-as-interface-architecture]] — How structural brain damage maps the same interface channels
 - [[split-brain-consciousness]] — The paradigm bilateral disconnection case and broader fragmentation question
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological disruption of cortical integration and the interface model

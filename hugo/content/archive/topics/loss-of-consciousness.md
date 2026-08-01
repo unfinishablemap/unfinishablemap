@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 10:24:08+00:00
+ai_modified: 2026-08-01 18:28:07+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Consciousness Disruption and the Mind-Brain Interface
 archived: true
@@ -211,7 +211,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The graded interface transition at sleep onset
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies along multiple dimensions — the gradation loss-of-consciousness research reveals
 - [haecceity](/concepts/haecceity/) — The indexical identity problem posed by temporal gaps in experience
-- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing loss of consciousness within a convergence matrix of six altered states
 - [dream-consciousness](/topics/dream-consciousness/) — Dream states as contrast case: consciousness persists during sleep with distinct phenomenal modes and cognitive contributions
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Terminal lucidity as strongest single-phenomenon case for filter/transmission theory despite severe brain damage
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Blindsight, anosognosia, and alien hand syndrome mapping the functional anatomy of the mind-brain channel

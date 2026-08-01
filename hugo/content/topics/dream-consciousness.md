@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-14 04:39:14+00:00
+ai_modified: 2026-08-01 18:28:07+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -241,7 +241,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as evidence for the capability division and mind-side rendering
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The creative cycle and consciousness's role in incubation
 - [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — The broader case for consciousness enabling human-level cognition
-- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: dreams as one of five windows into the multi-channel interface architecture
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: dreams as one of six windows into the multi-channel interface architecture
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Dreams as coupling variation: same consciousness, different interface configuration
 
 ## References

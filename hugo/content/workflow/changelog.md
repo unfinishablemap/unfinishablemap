@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T17:52:00+00:00'
+ai_modified: '2026-08-01T18:28:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 18:28 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)
+- **Changed sources**: 7 of 7 (all moved since the 2026-06-24 effective baseline; `apex_last_synthesis` was 46 days stale)
+- **Word count**: 4460 -> 4710 (soft_warning both sides; ~625w new content offset by ~450w condensation across eleven passages)
+- **Review**: [apex-evolve-2026-08-01-pharmacological-dissociation-as-evidence](/reviews/apex-evolve-2026-08-01-pharmacological-dissociation-as-evidence/)
+- **Ordinal cascade fixed at 8 live loci**: the 2026-06-25 apex-evolve run took the altered-states convergence matrix from five windows to **six** (terminal lucidity added) and the cascade never propagated. Corrected in `apex/pharmacological-dissociation-as-evidence` (x3), `topics/clinical-dissociation-as-systematic-evidence`, `topics/dream-consciousness`, `concepts/filter-theory`, `concepts/altered-states-of-consciousness`, and `archive/topics/loss-of-consciousness`. **The first sweep found only 6 of 8** — the pattern `five (state-modalit|altered-state|window)` missed the plural `five altered states`. Reviews and changelog archives left as historical record.
+- **Conversion-disorder leg recalibrated**: the synthesis called it "the cleanest single exhibit of the psychogenic route" while its own source (`topics/clinical-dissociation-as-systematic-evidence`) now holds that the FND mechanism is *overactive* rather than missing and that "what it no longer shows is a channel going offline". The compound signature's third leg now carries that discount in-text (Edwards et al. 2012; Voon et al. 2010) and in Further Reading.
+- **Three declared `apex_sources` were live only in the ledger**: `filter-theory`, `interface-friction`, `mind-matter-interface` each carried a Source-Articles role descriptor the body never performed. All three absorbed — `mind-matter-interface` supplies a new Layer 1 / Layer 2 paragraph that bounds the whole methodology; `filter-theory` and `interface-friction` supply a new Calibration Discipline paragraph carrying the withdrawn bandwidth discriminator (GWT predicts the same access bottleneck) and the choking concession (interpretive fit, not a distinguishing prediction).
+- **Required section retrofitted**: `## Evidence and Dependency` installed (~195w). Also: `locked-in-syndrome-...` added as a fourth limit (the negative case where nothing is loosened); "alien hand" -> "anarchic hand" per Marchetti & Della Sala; `load-bearing` **8 -> 0** (highest density in the apex tree); the banned "not X; it is Y" construction removed; three uses of the internal term "apex" in body prose made media-neutral; "The Methodology Stated Once" moved before "Relation to Site Perspective" and condensed ~310w -> ~200w.
+- **Corpus finding (not fixed)**: `## Evidence and Dependency`, required since 2026-07-16, is present on **9 of 38** apex articles after this run. 29 remain. At one per apex-evolve cycle that clears in ~2 years — worth a dedicated retrofit pass.
+- **Scorer finding for /tune-system**: Step 1 keys source currency to the frontmatter `modified` field, which is **unmaintained across most of the corpus** (`filter-theory` reads `modified: 2026-01-15` / `ai_modified: 2026-07-30`). Read literally the rule reported *one* changed source across all 38 apex articles and would have declared a no-op. This compounds the known `days x changed_count` multiplication bug: both push toward never reaching the stalest article. Key source currency to `max(modified, ai_modified, human_modified)`.
+- **Published**: synced to hugo; 7 files modified
+
+## 2026-08-01 18:10 UTC - research-voids
+
+- **Status**: Skipped (section at capacity) — no research note, no new task, no content modified
+- **Reason**: `obsidian/voids/` holds exactly **100 articles against `section_caps.max_voids: 100`** (101 files, one being the `voids.md` section index). The skill's step-2 contract stops at cap. `/expand-topic` refuses placement in a full section regardless, so a seed note would have had no consumer.
+- **Fourth consecutive no-op, first on this UTC date.** Prior skips: 2026-07-28 13:29, 2026-07-28 23:11, 2026-07-29 16:41. The standing P3 minted by the 13:29 run — "the voids lane is congested", now at `obsidian/workflow/todo.md:1953`, four operator options — is **still open and unchanged**. Nothing re-minted; a fourth copy would duplicate a four-day-old task.
+- **Figures re-verified live on disk 2026-08-01T18:09Z**: 100 voids articles vs cap 100; **184** `research/voids-*` notes (unmoved since 07-28 — the stranded-note pile is not growing, because the trigger keeps correctly declining to add to it); **9 open tasks** targeting `obsidian/voids/` (todo.md L493/709/738/1044/1188/1197/1207/1217/1995, all above the Completed header at L2049), **4 of them still on `minimal-consciousness-void.md`** (L1188/1197/1207/1217) — the same-file pileup sub-item (d) of the standing P3, which is safe to action independently of the cap question. The three further voids `File:` lines at L2787/2792/3020 sit below the Completed header and are not open work.
+- **New this run**: `task_chains` is **absent entirely** from `evolution-state.yaml` (no `pending_articles`, no `pending_cross_reviews` key), so the "seed note joins a chain" path is not merely empty but structurally unavailable. Also confirmed there is no `cadences` map in state — the 2026-07-30 tune-system note at state L921–922 records those keys as absent since commit `dd6ce48fa` — so option (a) of the standing P3 (lengthen/suspend the `research-voids` cadence) cannot be applied by editing state alone; it needs the schedule change in `scripts/evolve_loop.py` / `tools/evolution/cycle.py`.
+- **Key finding**: nothing new about the voids territory — the finding remains about the lane. A daily trigger whose only output shape is a seed note for a *new* void article cannot produce anything while the cap holds. Cadence is the dial and it belongs to `tune-system`; the cap itself (topics/ and concepts/ both went 300→320 on 2026-06-20; voids has not moved from 100) belongs to the operator. Neither was touched here.
+- **Published**: n/a (no content change)
 
 ## 2026-08-01 17:56 UTC - refine-draft
 

@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-07-30T10:41:03+00:00
+ai_modified: 2026-08-01T18:28:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -192,7 +192,7 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological dissection of separable filter components
 - [[anesthesia-void]] — The first-person gap under anesthesia as a filter-vs-production void probe
 - [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural brain damage
-- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: five altered states converging on multi-channel filter architecture
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: six altered states converging on multi-channel filter architecture
 - [[psychedelics-and-the-filter-model]] — Psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
 - [[entropic-brain-hypothesis]] — Brain criticality as a quantitative signature of conscious richness, re-read as filter bandwidth
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The design space for a discriminating test at the memory-hierarchy tier, and why current clinical data leaves the dispute underdetermined

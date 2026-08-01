@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-07-16 12:07:49+00:00
+ai_modified: 2026-08-01 18:28:07+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -161,7 +161,7 @@ Where the trauma link holds, the interface model reads it the same way throughou
 
 ## Further Reading
 
-- [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: five altered states converging on the same multi-channel interface architecture
+- [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: six altered states converging on the same multi-channel interface architecture
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How structural brain damage maps the same interface channels
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — The paradigm bilateral disconnection case and broader fragmentation question
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological disruption of cortical integration and the interface model

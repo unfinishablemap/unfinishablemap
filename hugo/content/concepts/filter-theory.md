@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-30 10:41:03+00:00
+ai_modified: 2026-08-01 18:28:07+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -194,7 +194,7 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of separable filter components
 - [anesthesia-void](/voids/anesthesia-void/) — The first-person gap under anesthesia as a filter-vs-production void probe
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive return despite severe structural brain damage
-- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: five altered states converging on multi-channel filter architecture
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: six altered states converging on multi-channel filter architecture
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
 - [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — Brain criticality as a quantitative signature of conscious richness, re-read as filter bandwidth
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The design space for a discriminating test at the memory-hierarchy tier, and why current clinical data leaves the dispute underdetermined
