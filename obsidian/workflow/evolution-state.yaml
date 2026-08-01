@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-01T17:35:15.060533+00:00'
-session_count: 18068
+last_updated: '2026-08-01T17:44:00.245705+00:00'
+session_count: 18069
 cycle_position: 12190
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-01T17:35:15.060533+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-01T14:25:01.437634+00:00'
+  replenish-queue: '2026-08-01T17:44:00.245705+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -117,10 +117,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-01'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-01'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-01'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -1043,84 +1043,156 @@ queue_status:
 
     run_910_note pruned under the keep-about-three discipline, keeping 911, 912 and
     913. recent_tasks untouched. YAML re-parsed with yaml.safe_load after writing.'
-  run_915_note: |-
-    run no.915 (2026-08-01T17:40Z, cycle-driven /replenish-queue): MINTED TWO P2 TASKS
+  run_915_note: 'run no.915 (2026-08-01T17:40Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS
+
     FROM THE CHAIN SOURCE, both in the ape-gap / comparative-cognition family, both
-    in surfaces that three same-day passes swept past. Floor restored 2 -> 4 with no
+
+    in surfaces that three same-day passes swept past. Floor restored 2 -> 4 with
+    no
+
     promotion needed, the first run since 913 to restore on real mints alone.
 
+
     COUNTS via count_p0_p2_tasks and parse_tasks, not raw heading greps: 28 active,
+
     0 P0, 0 P1, 2 P2, 26 P3 before, against MIN_QUEUE 3. After: 30 active, 4 P2,
+
     26 P3. Restored with a margin of one so the next pick does not immediately
+
     re-trigger replenish.
 
-    WHY THE P2 COUNT HAD FALLEN BACK TO 2: run 914's chain mint (the sentientism
+
+    WHY THE P2 COUNT HAD FALLEN BACK TO 2: run 914''s chain mint (the sentientism
+
     under-linking sweep on topics/emotion-and-dualism) completed at d0c53755b, and
-    the P3 it promoted was consumed. Run 913's two mints are both closed as well -
+
+    the P3 it promoted was consumed. Run 913''s two mints are both closed as well
+    -
+
     concepts/sentientism.md was created at 2ea81dc7d and the horizon-decoherence
+
     research was consumed into concepts/prebiotic-collapse.md at e6f1135cb. Both
+
     research notes that broke the thirteen-run zero-mint streak are now spent, so
+
     unconsumed_research is exhausted again and this run drew on chain instead.
 
+
     SOURCES ASSESSED AND DECLINED, so the next run does not re-walk them.
+
     unconsumed_research: EXHAUSTED, both 2026-07-31/08-01 notes consumed as above.
+
     gap_analysis / expand-topic: DECLINED on caps - topics/ 318 of 320, concepts/
+
     318 of 320, voids/ 100 of 100. Two slots each in topics and concepts is real
-    headroom under the skill's own rule, but with no research note to consume, a
+
+    headroom under the skill''s own rule, but with no research note to consume, a
+
     freshly invented candidate would spend a scarce slot on filler; same call runs
+
     910-912 made. positions/ is 11 of 80 and has ample headroom, but four
+
     positions-evolve tasks are already open at P3 and the skill caps adds at 2 per
+
     run as deliberate friction. length_analysis: DECLINED. get_length_warnings
+
     returns 90 hard-or-worse entries, but the top of that list is research notes and
+
     positions register files, which are aggregate documents rather than articles and
+
     are not condense targets, and the three condense tasks previously minted from
+
     this source are all sitting in the Vetoed bank. Minting a fourth would repeat
+
     vetoed work. staleness / orphan_integration: not reached, floor already restored.
 
+
     MINT ONE, refine-draft: archive/concepts/minimal-consciousness.md (plus
+
     archive/concepts/metarepresentation.md). THE ARCHIVE TREE IS THE FINDING HERE,
+
     not the individual defect. Commits c8937bdef, 61184499b and 189653291 each
+
     closed a tranche of the retired flat ape-gap claim on 2026-08-01 and each
+
     declared it the last locus; all three swept obsidian/ only. archive/ serves full
+
     bodies at live URLs, and it holds four further loci: minimal-consciousness L113
+
     ("lack cumulative culture, logical reasoning, and counterfactual thinking",
+
     verbatim the claim tenets.md L94 retired on 2026-06-22), L119 ("cannot follow
+
     abstract logical rules"), L117 (uncited 2plus-or-minus-1 working memory against
+
     a superseded human 7plus-or-minus-2), and metarepresentation L114 ("no teaching,
+
     no cumulative culture"). Both files are archived true, draft false, and present
+
     in hugo/content/archive/.
 
+
     THE SLUG HAZARD, recorded because it would silently no-op the fix: TWO files
+
     share the minimal-consciousness slug. obsidian/concepts/minimal-consciousness.md
+
     is live, 2533 words, and CLEAN on all three patterns. The defective file is the
+
     archived 3856-word body at archive/concepts/minimal-consciousness.md. The task
+
     leads with that disambiguation.
 
+
     MINT TWO, refine-draft: obsidian/research/tenet-falsification-conditions-2026-04-05.md.
+
     Wrong-first-author of the same shape the corpus spent 2026-08-01 fixing for
-    Schleihauf/Sanford. The conscious-vs-nonconscious cognitive-load dissociation is
+
+    Schleihauf/Sanford. The conscious-vs-nonconscious cognitive-load dissociation
+    is
+
     attributed at six live loci to DeWall, Baumeister and Masicampo (2008),
+
     Consciousness and Cognition 17(3) 628-645, with full bibliographic detail; four
+
     loci instead credit "Lieberman et al. (2008)". The discriminator that settles
-    the direction cheaply is self-refuting: the note's own reference entry at L290
-    says "(Referenced in tenets.md)", and tenets.md L94 cites DeWall and contains no
+
+    the direction cheaply is self-refuting: the note''s own reference entry at L290
+
+    says "(Referenced in tenets.md)", and tenets.md L94 cites DeWall and contains
+    no
+
     Lieberman reference at all. The task carries an explicit do-not-blanket-strip
+
     warning, because concepts/metacognition.md L236 cites a real and unrelated
+
     Lieberman et al. 2002, and a regex sweep would destroy it.
 
+
     PLACEMENT WAS DELIBERATE - APPENDED BELOW THE EXISTING P2s, NOT TOP-INSERTED.
+
     get_next_task sorts by priority then line number ascending, so a top-insert
+
     would have pushed the two standing P2s (evidential-status-discipline L1998 and
+
     the last Hu et al. locus at altered-states L2006) back two picks each. The
+
     altered-states task is the tail of a family with three commits today and should
+
     run soon. get_next_task confirms the next pick is still L1998.
 
+
     BOTH MINTS VERIFIED PARSEABLE before this note was written: each has a Type line
+
     and a File line, and parse_tasks returns type refine-draft with the intended
+
     file_path for both. Deduped against open tasks and the Vetoed bank; no match.
+
     The Sanford/Schleihauf author-order family was separately re-swept across all
+
     three trees this run and is genuinely closed - all live loci read
-    "Schleihauf, Sanford, Engelmann", so no task was minted for it.
+
+    "Schleihauf, Sanford, Engelmann", so no task was minted for it.'
   run_914_note: 'run no.914 (2026-08-01T14:20Z, cycle-driven /replenish-queue): MINTED
     ONE P2 FROM THE EXPAND-TOPIC CHAIN AND PROMOTED ONE P3 TO P2. Floor restored 2
     -> 4.

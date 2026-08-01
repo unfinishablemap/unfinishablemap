@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T17:03:45+00:00'
+ai_modified: '2026-08-01T17:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 17:52 UTC - refine-draft
+
+- **Status**: Success (assessment + escalation only — NO content changed, by dispatch instruction)
+- **File**: [[project/evidential-status-discipline]]
+- **Task**: L382's "the five-tier scale may appear *once*" rule vs. the corpus — reconcile in ONE direction
+- **Outcome**: **Re-filed as NEEDS-HUMAN (methodology governance). L382 not edited; no article swept.** The choice between (a) ratify-with-amendment and (b) sweep-to-natural-prose is a governance judgement on a standing rule, and both options are now costed on measured evidence in `obsidian/workflow/todo.md`.
+- **Measurement that changes the decision**: the raising task named **six** loci. Body-only scan (frontmatter stripped, `birch-edge-of-sentience-and-the-five-tier-scale` slug-wikilinks stripped) across `obsidian/{topics,concepts,apex,voids,positions}` + `archive/` finds **26 files** — 7 topics, 11 concepts, 4 apex, 2 positions. `archive/` clean (0). **Option (b) is a ~26-file sweep across five tiers, not a six-article one.**
+- **The prohibition that is actually written is violated NOWHERE**: L380 forbids *bracketed* per-claim labels (*"C. elegans is conscious [live hypothesis]"*). Grep for `[established|strongly supported|realistic possibility|live hypothesis|speculative integration]` in bracket form across all trees returns **0**. The corpus is fully compliant with the named prohibition; only L382's *count* has drifted, and the drifted form is **inline italic prose**.
+- **Per-locus form (gloss attached?)**: (1) `consciousness-in-simple-organisms` L76 — methodological note, no placement, gloss YES — *sanctioned*. (2) `cetacean-and-corvid-consciousness` L41 — 5 tiers + **two placements in bold**, gloss YES — strongest (b)-side, bold does the labelling work brackets would. (3) `bacterial-chemotaxis…` L86 — one italic placement, gloss YES verbatim (*"where any placement rests on tenet-coherence rather than positive evidence"*) — strongest (a)-side. (4) `locality` L74 — one italic placement inside *"The honest limit of this response"*, gloss YES, **downgrades the Map's own move**. (5) `cross-species-behavioural-confidence-proxy-tests` L107 — **four** placements in one sentence, gloss **NO** (checked L105–112) — the only locus literally matching *"a labelled scale applied to each case"*. (6) `cross-mechanism-convergence` L69 — **not a placement**; a negative guard (*"not a tier-graduation"*), as are `mind-arena` L70 and `steelmanning-as-method` L106. **A blanket (b) would delete anti-inflation guards.**
+- **Recommendation: (a), scoped, with a gloss requirement.** Grounds: live position **P-M1** (`positions/methodology-and-calibration`, centrality *high*) asserts *"Every load-bearing empirical claim is labelled on the five-tier scale"* — (b) contradicts it or forces a `/positions-evolve` amendment; two tier names (*"at least a realistic possibility"*, *"strong scientific support"*) are **verbatim New York Declaration 2024** language, so `writing-style`'s "no accepted philosophical meaning" predicate does not reach them; and `changelog.md` L17 records a **precedent decision already refusing this sweep** on exactly that ground. Cost of (a), stated honestly: "once" is checkable, *"sparingly with the gloss attached"* is not, and locus (5) shows the gloss is not uniformly attached today.
+- **Three items owed under EITHER option** (flagged, not actioned): (i) `concepts/argument-from-mechanism` L98 asserts the scale *"does not appear in article prose"* — **false**, 25 other live files name it; (ii) `project/writing-style.md` carries the **same "once" rule near-verbatim**, so (a) is a **two-document edit** — a dependency the raising task missed; (iii) the **Externalized Tag Pilot expired 2026-05-20 with no recorded evaluation** (73 days), yet its own text says a successful pilot *narrows this very prohibition* to "no tier labels inside paragraphs" — 3 articles still carry live `[Empirical]/[Open]/[Speculative]` H2 tags. **The pilot and L382 are one governance question and should be decided together.**
+- **Not in scope**: `topics/animal-consciousness` L158 Birch *"valence sentientism"* pair — owned by the open `phenomenal-normativity-environmental-ethics` cluster task, untouched.
+- **Published**: no (no content change; todo.md + changelog only)
 
 ## 2026-08-01 17:31 UTC - refine-draft
 
