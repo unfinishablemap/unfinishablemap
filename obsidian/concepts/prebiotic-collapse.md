@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-08-01T15:00:00+00:00
+ai_modified: 2026-08-01T23:29:23+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -95,7 +95,7 @@ The mainstream physics response denies that collapse is a real process requiring
 
 But decoherence alone doesn't solve the [[measurement-problem|measurement problem]]. As a 2025 comprehensive review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence paired with Many Worlds claims no selection happens—all outcomes occur. But the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this, leaving the question of what selects outcomes unanswered. The [[quantum-measurement-and-consciousness|structural parallel between the measurement problem and the hard problem]] suggests both problems share the same underlying difficulty: where first-person facts enter third-person descriptions.
 
-The rival's strongest form needs no environment at all. Danielson, Satishchandran and Wald show that any Killing horizon—a black hole's, an accelerated lab's Rindler horizon, de Sitter's cosmological horizon—harvests which-path information as a flux of soft gravitons and photons, decohering a stationary superposition in finite time on unmodified quantum field theory in curved spacetime, with no collapse postulate. Its cosmological bite is slight: the authors put the de Sitter decoherence time "much larger than the Hubble time" for any ordinary charge. And it delivers a mixed density matrix, not a definite outcome—the mixedness obtained by tracing over degrees of freedom behind a causal horizon, so the global state stays pure and every branch survives. That residue is Everettian in structure—what the fourth tenet rejects—so the reply just given covers horizon decoherence unaltered.
+The rival's strongest form needs no environment at all. Danielson, Satishchandran and Wald show that any Killing horizon—a black hole's, an accelerated lab's Rindler horizon, de Sitter's cosmological horizon—harvests which-path information as a flux of soft gravitons and photons, decohering a stationary superposition in finite time on unmodified quantum field theory in curved spacetime, with no collapse postulate. The mechanism is horizon-specific rather than a general gravitational classicalising agent: the authors' own follow-up finds no such decoherence outside a static star, even though the vacuum there resembles the Boulware vacuum around a black hole. Its cosmological bite is slight: the authors put the de Sitter decoherence time "much larger than the Hubble time" for any ordinary charge. Horizon decoherence would in any case be limited "to negligibly small values" on some proposed area-quantisation scales, Fahn and Pesci (2025) argue, once quantum-geometric effects are taken into account. And it delivers a mixed density matrix, not a definite outcome—the mixedness obtained by tracing over degrees of freedom behind a causal horizon, so the global state stays pure and every branch survives. That residue is Everettian in structure—what the fourth tenet rejects—so the reply just given covers horizon decoherence unaltered.
 
 ### 5. The Many-Worlds Dissolution
 
@@ -225,7 +225,7 @@ Objective collapse theories face empirical pressure but remain viable:
 
 ## References
 
-1. Danielson, D.L., Satishchandran, G., & Wald, R.M. (2022). "Black holes decohere quantum superpositions." *International Journal of Modern Physics D*, 31(14), 2241003. https://doi.org/10.1142/S0218271822410036 — and (2023), "Killing horizons decohere quantum superpositions," *Physical Review D*, 108, 025007. https://doi.org/10.1103/PhysRevD.108.025007
+1. Danielson, D.L., Satishchandran, G., & Wald, R.M. (2022). "Black holes decohere quantum superpositions." *International Journal of Modern Physics D*, 31(14), 2241003. https://doi.org/10.1142/S0218271822410036 — and (2023), "Killing horizons decohere quantum superpositions," *Physical Review D*, 108, 025007. https://doi.org/10.1103/PhysRevD.108.025007 — and (2025), "Local description of decoherence of quantum superpositions by black holes and other bodies," *Physical Review D*, 111, 025014. https://doi.org/10.1103/PhysRevD.111.025014 Challenged by Fahn, M.J. & Pesci, A. (2025), "Effects of quantum geometry on the decoherence induced by black holes," *Physical Review D*, 112, L121502. https://doi.org/10.1103/279x-zgl1
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78. (Online 2020; print 2021.)
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
