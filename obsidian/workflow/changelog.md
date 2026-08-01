@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T20:16:40+00:00'
+ai_modified: '2026-08-01T20:57:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 20:57 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: the interface-evidence cluster, read in full — `apex/altered-states-as-interface-evidence.md` (4986w), `apex/pharmacological-dissociation-as-evidence.md` (4710w), `concepts/cross-mechanism-convergence.md` (2475w), `concepts/active-reboot.md` (3196w). All four touched today by the Hu et al. provenance work; no prior optimistic review covered them as a cluster, and the pharmacological apex had near-zero prior coverage (2 mentions corpus-wide). Named-locus inspection of `concepts/filter-theory.md` L149, `topics/bandwidth-of-consciousness.md` L144–183, and the Dualism paragraphs of `clinical-dissociation-as-systematic-evidence` and `dream-consciousness`. Sweeps run across all three trees.
+- **Output**: [[reviews/optimistic-2026-08-01-interface-evidence-cluster]]
+- **Verdict**: three of four members are the catalogue's strongest evidential-calibration work. All three hold dissociation evidence at *realistic possibility* for interface architecture and *live hypothesis* for the interactionist reading, and all three apply the discipline **against the Map's own interest** — most visibly by downgrading the Map's own canonical Hu et al. exhibit from a four-target span to "a three-class span plus one within-class replication", propagated to all four loci the same day. Process Philosopher and Hardline Empiricist converge on all three with no conflict.
+- **Two calibration concerns, one file, one root cause.** `apex/altered-states-as-interface-evidence.md` is the only cluster member with **zero** links to `evidential-status-discipline` (siblings: 5 / 4 / 3). (i) **L176** — the Dualism tenet paragraph argues from the perturbation count and differential decomposition to *"is more naturally explained by an interface between two distinct domains"*, which the article's own body forbids at **L81** (*"the cluster carries the evidential weight of one pattern, not six"*), **L154**, and **L166**; and it counts among its six supporting perturbations the terminal-lucidity case **L125** calls *"the costliest anomaly, not confirmation"*. (ii) **L158** — the bandwidth argument still runs as *"exactly what an interface model predicts and what a production model must explain ad hoc"*, five months after `concepts/filter-theory.md` L149 (this apex's own listed `apex_source`) withdrew it: *"so the datum is shared, not discriminating"*.
+- **Live-in-hugo**: the L158 defect is published at `hugo/content/apex/altered-states-as-interface-evidence.md:165`. Sweep confirms "must explain ad hoc" occurs at exactly one serving locus corpus-wide — no wider propagation to chase.
+- **Every quotation verified contiguous and grep-verifiable in raw source** before being used, per the catalogue's quote-fidelity discipline.
+- **Tasks**: 1 minted — P2 `refine-draft` on the apex, bundling both fixes plus the discipline link (same-file-pileup discipline: one task, not three). Constraint recorded in the task: the file has **14 words of headroom** against its 5000w hard threshold, so the fix must be length-neutral or reducing.
+- **Not minted**: the review's highest-value expansion opportunity — a named *enhancement-through-disruption* evidence pattern, which the apex calls its only discriminating evidence three times yet which has no dedicated page, while the explicitly non-tier-graduating `cross-mechanism-convergence` has one plus 12 inbound links. **Blocked**: `obsidian/concepts/` is at 319/320, so `/expand-topic` would refuse and `/replenish-queue` would filter it. Escalated to the operator in the review rather than queued as an unrunnable task.
 
 ## 2026-08-01 20:41 UTC - refine-draft
 
