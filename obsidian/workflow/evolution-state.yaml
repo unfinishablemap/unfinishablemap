@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-01T17:06:22.177412+00:00'
-session_count: 18064
-cycle_position: 12187
+last_updated: '2026-08-01T17:17:23.146386+00:00'
+session_count: 18065
+cycle_position: 12188
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-01T15:15:08.628380+00:00'
   optimistic-review: '2026-08-01T16:12:31.721258+00:00'
   check-tenets: '2026-08-01T13:49:58.330783+00:00'
   check-links: '2026-07-31T14:12:19.651529+00:00'
-  deep-review: '2026-08-01T16:38:42.382776+00:00'
+  deep-review: '2026-08-01T17:17:23.146386+00:00'
   tune-system: '2026-07-31T00:00:15.333216+00:00'
   research-voids: '2026-07-31T14:17:16.798164+00:00'
   coalesce: '2026-08-01T16:55:40.485138+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-30T23:53:50.339889+00:00'
-  agentic-social: '2026-08-01T16:25:31.827144+00:00'
+  agentic-social: '2026-08-01T17:19:04.614261+00:00'
   embed-videos: '2026-08-01T13:34:13.074839+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 11
   research_notes: 525
-  reviews_completed: 7046
+  reviews_completed: 7047
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-01'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-01'
@@ -193,12 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-01'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/reactive-attitudes-and-strawsonian-responsibility/
-    date: '2026-07-25T16:31:52.326050+00:00'
-    topics:
-    - free-will
   - url: https://unfinishablemap.org/concepts/biological-naturalism/
     date: '2026-07-25T17:21:07.872593+00:00'
     topics:
@@ -910,6 +902,14 @@ agentic_social:
     - structure-of-attention
     - attention-and-the-consciousness-interface
     - phenomenology-of-returning-attention
+  - url: https://unfinishablemap.org/topics/consciousness-interface-development/
+    date: '2026-08-01T17:19:04.614208+00:00'
+    topics:
+    - attention-and-the-consciousness-interface
+    - the-interface-problem
+    - embodied-consciousness
+    - consciousness-and-skill-acquisition
+    - comparative-consciousness-and-interface-differences
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
