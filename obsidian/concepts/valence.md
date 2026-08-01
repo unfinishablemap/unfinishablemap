@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-01T14:08:33+00:00
+ai_modified: 2026-08-01T15:29:00+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -23,10 +23,10 @@ related_articles:
   - "[[valence-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-06-26T04:24:00+00:00
+last_deep_review: 2026-08-01T15:29:00+00:00
 ---
 
 Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. It is not a judgment, a representation, or a functional state, but an intrinsic phenomenal property: the badness of pain is a feature of the experience itself, not something the experience is *about*. The Unfinishable Map holds that valence is irreducible to physical description, that it does genuine causal work in motivating behavior, and that it grounds the moral significance of conscious beings.
@@ -47,9 +47,9 @@ Two main philosophical accounts compete to explain what valence is.
 
 ### Why the Hedonic Account Is Stronger
 
-Pain asymbolia provides the decisive evidence. Patients with specific brain damage can represent tissue damage—they know their hand is burned—without feeling any badness. They have the representational content (evaluativist account) without the felt quality (hedonic property). If valence were merely a representation of value, these patients should still feel motivated to avoid damage. They don't.
+Pain asymbolia provides the strongest evidence. Patients with specific brain damage can represent tissue damage—they know their hand is burned—without feeling any badness. They have the representational content (evaluativist account) without the felt quality (hedonic property). If valence were merely a representation of value, these patients should still feel motivated to avoid damage. They don't.
 
-The dissociation runs in only one direction. You can have representation without valence (asymbolia), but valence without representation is harder to identify—suggesting that valence is the more fundamental phenomenon. The hedonic account explains this asymmetry naturally: representation and valence are distinct properties that normally co-occur but can dissociate.
+The dissociation runs in only one direction. You can have representation without valence (asymbolia), but valence without representation is harder to identify—suggesting that valence is the more fundamental phenomenon. Objectless moods are the obvious candidate for the missing direction: free-floating anxiety and undirected elation feel bad or good without representing any particular thing as dangerous or fine. An evaluativist can answer that such moods represent the world at large under an evaluative aspect, which keeps the case contested rather than settling it. What survives the exchange is the asymmetry itself, and the hedonic account explains it naturally: representation and valence are distinct properties that normally co-occur but can dissociate.
 
 ## Valence and the Hard Problem
 
@@ -61,13 +61,13 @@ The explanatory gap for valence is particularly stark because the property seems
 
 [[concepts/epiphenomenalism|Epiphenomenalists]] might argue that felt badness merely accompanies the functional states that actually motivate behavior. Pain asymbolia challenges this. Patients with intact sensory pain processing but absent felt badness do not avoid painful stimuli with normal urgency. The phenomenal property—the felt badness—is what makes pain motivating. Remove it, and the behavioral output changes.
 
-A [[concepts/functionalism|functionalist]] might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. But this response concedes the point in disguise: if "the function of felt badness" is exactly what's missing, the functionalist must explain what distinguishes this function from the intact nociceptive processing that remains. The most parsimonious answer is that the felt quality is a distinct property doing distinct causal work—precisely what the dualist claims.
+A [[concepts/functionalism|functionalist]] might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. But this response concedes the point in disguise. If "the function of felt badness" is exactly what's missing, the functionalist owes an account of what individuates that function from the intact nociceptive processing that remains: both detect tissue damage, both signal it, both feed the same downstream machinery, and the deficit is picked out by what the state stopped *feeling like* rather than by any further processing role the objection has specified. Functionalism individuates mental states by functional role, so supplying that role is a demand internal to the position rather than one imposed from outside. Either the role gets specified in functional terms, or the individuating difference is phenomenal. The Map takes the second horn on the strength of the missing specification, not on grounds of simplicity: by [[tenets#^occams-limits|Occam's Razor Has Limits]] the Map binds parsimony arguments made *for* its framework exactly as it binds those aimed against it.
 
 This has direct implications for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If valenced phenomenal states motivate behavior, consciousness influences physical outcomes. The felt quality is not along for the ride—it is doing real work.
 
 ## Valence and Moral Status
 
-If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses a valence-based [[sentientism]]: the capacity for negatively valenced experience is necessary for moral consideration.
+If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses a valence-based [[sentientism]], on which the capacity for valenced experience is what qualifies a being for moral consideration.
 
 This connects directly to [[topics/phenomenal-value-realism]]. If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. As Rawlette (2016) argues, the wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state, grounding moral realism in the felt quality of experience itself.
 

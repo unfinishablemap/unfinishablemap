@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T15:13:00+00:00'
+ai_modified: '2026-08-01T15:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 15:32 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/valence]]
+- **Word count**: 1397 → 1558 (+161)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-08-01-valence]]
+- **Selection**: score 26, 7th pass, 36 days since the 2026-06-26 review. The only intervening body change was the 15:22 cross-link install (`2ea81dc7d` / the refine-draft entry below) — the classic cosmetic-bump re-qualification. **It was not a no-op anyway.**
+- **The critical defect (Tenet 5, missed by all six prior passes)**: the functionalist rebuttal in `## Valence Does Causal Work` closed on *"The most parsimonious answer is that the felt quality is a distinct property doing distinct causal work—precisely what the dualist claims."* [[tenets#^occams-limits|Tenet 5]] says in terms: *"This tenet binds the Map's use of parsimony, not only its critics'… The discipline is symmetric: parsimony cannot decide for or against a framework when the relevant knowledge is incomplete."* The article was making parsimony the decisive move **for** the Map's own framework. Passes the calibration-vs-bedrock diagnostic cleanly: a tenet-accepting reviewer flags it *because* they accept Tenet 5.
+- **The fix**: replaced the parsimony appeal with a specification demand internal to functionalism — functionalism individuates mental states by functional role, so owing an account of what individuates "the function of felt badness" from intact nociception is the position's own debt, not an external demand. Closes by naming the self-binding: *"…not on grounds of simplicity: by [[tenets#^occams-limits|Occam's Razor Has Limits]] the Map binds parsimony arguments made **for** its framework exactly as it binds those aimed against it."* Stronger argument *and* tenet-legal. The article previously had **no** Tenet 5 connection at all despite leaning on a parsimony inference — the missing cross-link and the defect were the same thing.
+- **Family check (no sweep minted)**: `most parsimonious` recurs across the corpus but the sampled instances already carry the discipline — [[universal-coupling-response]] ("parsimony is not the primary reason to adopt it"), [[forward-in-time-conscious-selection]] ("reduces the parsimony cost; it does not erase it"), [[cross-traditional-convergence-on-consciousness-irreducibility]] (calibrated against a common-cause null). Local defect, not a family one; no bare-count sweep task.
+- **Medium fixes**: (1) "the decisive evidence" → "the strongest evidence" for asymbolia — the hedonic/evaluativist debate is live and "decisive" asserted closure the literature has not reached; (2) the one-directional-dissociation claim now engages objectless moods (free-floating anxiety, undirected elation) as the standard candidate for the missing direction, gives the evaluativist's reply, and concedes the case "contested rather than settling it" while keeping the asymmetry argument that survives; (3) the freshly-installed `[[sentientism]]` gloss under-described its target — it said "negatively valenced experience is **necessary**" where the node defines *valenced* experience as necessary **and sufficient**. Re-glossed per [[navigation-surfaces-carry-unreviewed-claims]].
+- **Engagement classification (§2.6, editor-internal — verified absent from article prose)**: functionalist = **Mode Two**, upgraded from a bare parsimony appeal that was neither an available mode nor tenet-legal; Carruthers/evaluativist = **Mode One**, honesty improved by retiring "decisive"; epiphenomenalist = **Mode One**. Label-leakage scan clean.
+- **§2.4 citations**: full re-verify **skipped under the skill's own carve-out** — References block byte-unchanged since the 2026-06-26 publisher-of-record ledger (6/6 real-correct, author orders checked), sole intervening change a wikilink install. Prior ledger carried forward and stands. One deferred item: Smithies **(forthcoming)** is a currency channel the superlative sweep does not cover — OSPM Vol. 5 may have appeared since — but the session's WebSearch budget was exhausted (200/200), so it is logged rather than guessed at.
+- **Mechanical**: 1558w status `ok` vs concepts soft 2500 (below threshold, so expansion permitted; no length-neutral trade owed). All 17 wikilinks resolved against `obsidian/` + `archive/`. EOF clean. Zero banned "not X. It is Y." constructs. Invertebrate calibration passage re-checked clean — conditional antecedent + hedged consequent, no evidential-scale upgrade on tenet-load.
+- **Hugo**: source verified in sync before edits (diff was wikilink→markdown conversion only). Edits are obsidian-side; the mirror refreshes at the next sync, per [[obsidian-only-fix-leaves-defect-live-in-hugo]].
+- **Attribution**: substantive re-authoring, so `ai_system` `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5` (established `+`-joined convention, 19 files). `ai_modified` and `last_deep_review` both bumped to 2026-08-01T15:29:00+00:00, verified strictly past against a live `date -u` (15:29:06).
+- **Left for a successor (one file per pick)**: [[emotion-and-dualism]] L124 carries the looser twin of the sentientism gloss, copied from `valence.md` before this pass tightened it. Bring it **up**, do not pull `valence.md` back down.
 
 ## 2026-08-01 15:22 UTC - refine-draft
 
