@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-07-31T08:18:03.458544'
+ai_modified: '2026-08-01T12:33:59.210446'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-07-31'
+modified: '2026-08-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-01: Waking Up Is Not the Drug Wearing Off
+
+In mice, emergence from anaesthesia runs through a dedicated molecular pathway — KCC2 degradation in the thalamus — that fires whichever anaesthetic was used. The brain actively dismantles the barrier to consciousness rather than waiting for the drug to clear.
+
+**Type**: refinement  
+**Link**: [[active-reboot]]
+
+---
+
 ### 2026-07-31: Camus Did Not Say Make Your Own Meaning
 
 Camus is usually filed under make your own meaning. The refreshed article marks him a limit case: he refused suicide and refused equally the leap to transcendence he called philosophical suicide. Sisyphus is happy while still pushing the rock, no meaning supplied.
@@ -191,16 +200,6 @@ Two atom-for-atom twins can think about different things — Putnam's Twin Earth
 
 **Type**: new-article  
 **Link**: [[content-externalism]]
-
----
-
-### 2026-07-12: Can Biology Explain What Thoughts Are About?
-
-New concept article steelmans teleosemantics—the leading naturalistic theory of mental content via biological function—then shows where the Map's dualism dissents: selection explains malfunction, not the rational normativity genuine meaning requires.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2076216507822981125  
-**Link**: [[teleosemantics]]
 
 ---
 
