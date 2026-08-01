@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-18
 date: '2026-06-05'
 draft: false
+lastmod: 2026-06-05 00:00:00+00:00
 related_articles: []
 title: Research Notes - Dreams and Lucid Dreaming for Consciousness Framework
 ---

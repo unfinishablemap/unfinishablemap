@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-20
 date: '2026-07-30'
 draft: false
+lastmod: 2026-07-30 10:41:03+00:00
 related_articles: []
 title: Research Notes - Terminal Lucidity and Filter/Transmission Theory
 ---

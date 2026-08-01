@@ -13,6 +13,7 @@ description: The two-tier discount is the discipline that keeps the Map's whole 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 14:12:27+00:00
 modified: *id001
 related_articles:
 - '[[project/architecture-vs-significance-two-tier-discount]]'

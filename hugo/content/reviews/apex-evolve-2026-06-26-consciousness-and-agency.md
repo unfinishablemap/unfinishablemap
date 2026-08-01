@@ -7,6 +7,7 @@ concepts: []
 created: 2026-06-26
 date: &id001 2026-06-26
 draft: false
+lastmod: 2026-06-26 16:10:00+00:00
 modified: *id001
 related_articles: []
 review_target: apex/consciousness-and-agency

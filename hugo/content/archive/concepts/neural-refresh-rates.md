@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:34:00+00:00
+lastmod: 2026-05-29 00:01:32+00:00
 modified: *id001
 original_path: /concepts/neural-refresh-rates/
 related_articles:

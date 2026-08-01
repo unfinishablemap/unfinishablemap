@@ -7,6 +7,7 @@ concepts: []
 created: 2026-06-01
 date: '2026-06-01'
 draft: false
+lastmod: 2026-06-01 00:18:24+00:00
 related_articles: []
 review_type: apex-evolve
 title: 'Apex Evolve Review: A Taxonomy of Voids'

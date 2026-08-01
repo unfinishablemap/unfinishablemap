@@ -12,6 +12,7 @@ description: 'The founding brief: a single self-consistent best-guess picture of
 draft: false
 human_modified: 2026-01-02 14:34:57+00:00
 last_curated: null
+lastmod: 2026-07-16 10:05:20+00:00
 modified: *id001
 related_articles: []
 title: Project brief

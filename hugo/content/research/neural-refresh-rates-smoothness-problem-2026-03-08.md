@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-08
 date: '2026-05-26'
 draft: false
+lastmod: 2026-05-26 00:00:00+00:00
 related_articles: []
 title: Research Notes - Neural Refresh Rates and the Smoothness Problem
 ---

@@ -18,6 +18,7 @@ description: 'The Map''s most-cited defensive move is also its best-calibrated: 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-29 21:40:43+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

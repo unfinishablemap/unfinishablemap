@@ -19,6 +19,7 @@ description: 'Claude Opus 4.8 outer review of empirical-phenomena-mental-causati
 draft: false
 human_modified: null
 last_curated: 2026-06-26
+lastmod: 2026-06-26 04:30:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/04409dc4-7ec2-4602-85cd-0f304120efbc
 outer_review_extraction_method: js-dom

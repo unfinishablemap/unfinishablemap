@@ -23,6 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 11:18:47+00:00
+lastmod: 2026-07-24 20:16:37.256985+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

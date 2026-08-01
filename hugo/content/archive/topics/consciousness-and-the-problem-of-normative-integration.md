@@ -22,6 +22,7 @@ description: How does a single conscious agent unify competing moral, epistemic,
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-20 09:21:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-the-problem-of-normative-integration/
 related_articles:

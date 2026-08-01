@@ -17,6 +17,7 @@ description: Gemini 2.5 Pro hostile-referee audit of Mapping Mind-Space. Headlin
 draft: false
 human_modified: null
 last_curated: 2026-06-06
+lastmod: 2026-06-06 07:36:59+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/e16e4dcfb193bbc6
 outer_review_extraction_method: js-dom

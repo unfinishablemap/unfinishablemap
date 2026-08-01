@@ -16,6 +16,7 @@ description: 'Claude Opus 4.8 adversarial audit of disguised-property-dualism: R
 draft: false
 human_modified: null
 last_curated: 2026-07-23
+lastmod: 2026-07-23 06:20:24+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/ba7e1bfc-c287-48db-962d-e213c919e709
 outer_review_extraction_method: js-dom

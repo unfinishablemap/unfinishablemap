@@ -17,6 +17,7 @@ description: 'Claude Opus 5 audit of concepts/epistemology: the citations verify
 draft: false
 human_modified: null
 last_curated: 2026-07-29
+lastmod: 2026-07-29 04:32:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/db7e259a-6540-46ad-a1e6-c7dd1306f03e
 outer_review_extraction_method: js-dom

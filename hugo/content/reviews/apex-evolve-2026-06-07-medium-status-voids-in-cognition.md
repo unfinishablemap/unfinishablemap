@@ -12,6 +12,7 @@ description: 'Apex-evolve review archive for medium-status-voids-in-cognition: i
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-07 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/medium-status-voids-in-cognition]]'

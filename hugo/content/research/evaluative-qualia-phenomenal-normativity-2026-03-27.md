@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-27
 date: '2026-07-28'
 draft: false
+lastmod: 2026-07-28 00:00:00+00:00
 related_articles: []
 title: Research Notes - Evaluative Qualia and Phenomenal Normativity Across Traditions
 ---

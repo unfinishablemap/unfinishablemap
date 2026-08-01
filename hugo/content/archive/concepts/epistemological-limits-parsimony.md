@@ -19,6 +19,7 @@ description: Defining the formal conditions under which Occam's Razor loses epis
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-21 08:39:00+00:00
 modified: *id001
 original_path: /concepts/epistemological-limits-parsimony/
 related_articles:

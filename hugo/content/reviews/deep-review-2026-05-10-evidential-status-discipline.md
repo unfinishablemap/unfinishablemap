@@ -12,6 +12,7 @@ description: Deep review of evidential-status-discipline focused on the newly-in
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-10 18:02:00+00:00
 modified: *id001
 related_articles:
 - '[[project/evidential-status-discipline]]'

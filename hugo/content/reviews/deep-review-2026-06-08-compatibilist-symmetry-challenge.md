@@ -11,6 +11,7 @@ date: &id001 2026-06-08
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-08 17:48:27+00:00
 modified: *id001
 related_articles:
 - '[[moral-architecture-of-consciousness]]'

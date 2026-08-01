@@ -15,6 +15,7 @@ description: Gemini 2.5 Pro audits the Penrose gravity-collapse article and find
 draft: false
 human_modified: null
 last_curated: 2026-07-31
+lastmod: 2026-07-31 04:50:36+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/15e9f0c79cb298db
 outer_review_extraction_method: js-dom

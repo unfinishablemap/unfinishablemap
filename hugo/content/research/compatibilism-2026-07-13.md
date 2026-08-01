@@ -15,6 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-07-13 01:22:00+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Compatibilism as a Positive Theory of Free Will

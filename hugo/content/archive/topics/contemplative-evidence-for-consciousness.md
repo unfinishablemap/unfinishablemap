@@ -34,6 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-24 08:44:00+00:00
+lastmod: 2026-02-24 08:44:00+00:00
 modified: *id001
 original_path: /topics/contemplative-evidence-for-consciousness/
 related_articles:

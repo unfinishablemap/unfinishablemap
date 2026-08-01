@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-15 09:31:00+00:00
+lastmod: 2026-05-31 19:53:51+00:00
 modified: *id001
 original_path: /concepts/consciousness-in-non-collapsed-quantum-states/
 related_articles:

@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-02-15 05:02:00+00:00
 modified: *id001
 original_path: /concepts/constructive-memory/
 related_articles:

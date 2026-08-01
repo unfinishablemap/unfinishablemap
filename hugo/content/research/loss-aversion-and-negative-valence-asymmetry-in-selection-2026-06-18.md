@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-18
 date: '2026-06-22'
 draft: false
+lastmod: 2026-06-22 00:00:00+00:00
 related_articles: []
 title: Research Notes - Loss-Aversion and Negative-Valence Asymmetry in Selection
 ---

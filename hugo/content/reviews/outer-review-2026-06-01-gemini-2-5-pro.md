@@ -17,6 +17,7 @@ description: 'Gemini 2.5 Pro hostile full-site audit. Verification finds four of
 draft: false
 human_modified: null
 last_curated: 2026-06-01
+lastmod: 2026-06-01 04:37:28+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/0cbd293f49fd9b3c
 outer_review_extraction_method: js-dom

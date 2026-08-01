@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-08
 date: '2026-07-08'
 draft: false
+lastmod: 2026-07-08 13:02:23+00:00
 related_articles: []
 title: Deep Review - Fish Sentience and the Teleost Pain Debate - 2026-07-08
 ---

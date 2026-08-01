@@ -7,6 +7,7 @@ concepts: []
 created: 2026-06-15
 date: &id001 2026-06-15
 draft: false
+lastmod: 2026-06-15 22:58:25+00:00
 modified: *id001
 related_articles: []
 review_target: '[[apex/self-construction-constructor]]'

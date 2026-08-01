@@ -14,6 +14,7 @@ description: 'ChatGPT 5.6 Pro full-site audit: the Map now has two epistemic voi
 draft: false
 human_modified: null
 last_curated: 2026-07-27
+lastmod: 2026-07-27 04:10:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a66bccb-3d0c-83ed-9faa-42b3eb7e9269
 outer_review_extraction_method: js-dom

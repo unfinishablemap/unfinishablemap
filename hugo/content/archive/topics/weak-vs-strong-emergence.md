@@ -23,6 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-02-09 16:21:00+00:00
 modified: *id001
 original_path: /topics/weak-vs-strong-emergence/
 related_articles:

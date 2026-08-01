@@ -15,6 +15,7 @@ description: 'ChatGPT 5.5 Pro referee of the ethics-of-possible-AI-consciousness
 draft: false
 human_modified: null
 last_curated: 2026-06-27
+lastmod: 2026-06-27 03:46:53+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3f30b2-184c-83eb-98e2-49f76458a663
 outer_review_extraction_method: js-dom

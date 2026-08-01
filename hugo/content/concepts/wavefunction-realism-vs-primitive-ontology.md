@@ -14,6 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:23:09+00:00
+lastmod: 2026-07-10 08:40:54+00:00
 modified: *id001
 related_articles: []
 title: Wavefunction Realism versus Primitive Ontology

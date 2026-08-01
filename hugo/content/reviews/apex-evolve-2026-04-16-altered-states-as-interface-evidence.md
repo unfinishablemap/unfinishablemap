@@ -8,6 +8,7 @@ date: &id001 2026-04-16
 description: Review of apex evolution for altered-states-as-interface-evidence.md
   — 10 changed sources integrated.
 draft: false
+lastmod: 2026-04-16 09:14:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Altered States as Systematic Interface Evidence'

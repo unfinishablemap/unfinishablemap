@@ -10,6 +10,7 @@ date: &id001 2026-07-16
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-16 19:05:00+00:00
 modified: *id001
 related_articles:
 - '[[authorship-of-action-divergence]]'

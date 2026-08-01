@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-01 01:38:00+00:00
+lastmod: 2026-04-05 09:48:00+00:00
 modified: *id001
 original_path: /topics/phenomenological-method-and-evidence-standards/
 related_articles:

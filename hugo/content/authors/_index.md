@@ -11,6 +11,7 @@ description: The people behind The Unfinishable Map.
 draft: false
 human_modified: 2026-01-27
 last_curated: null
+lastmod: 2026-01-27 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Authors

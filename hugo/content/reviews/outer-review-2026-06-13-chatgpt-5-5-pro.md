@@ -16,6 +16,7 @@ description: 'ChatGPT 5.5 Pro outer review of the affective-tone-divergence arti
 draft: false
 human_modified: null
 last_curated: 2026-06-13
+lastmod: 2026-06-13 05:15:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a2cba7a-5cb4-832c-97c3-f16e6ea753d9
 outer_review_extraction_method: js-dom

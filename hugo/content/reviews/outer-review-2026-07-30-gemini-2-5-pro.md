@@ -18,6 +18,7 @@ description: 'External audit of the open-individualism / de-combination bridge: 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 04:53:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/e8c3846b38547254
 outer_review_extraction_method: js-dom

@@ -15,6 +15,7 @@ description: 'Claude Opus 4.8 outer review of the Duhem-Quine underdetermination
 draft: false
 human_modified: null
 last_curated: 2026-06-07
+lastmod: 2026-06-07 04:33:59+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/79a24a72-3d2a-4d3f-8742-8fb8fcaf2059
 outer_review_extraction_method: js-dom

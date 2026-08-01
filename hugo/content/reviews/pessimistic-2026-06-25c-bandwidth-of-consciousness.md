@@ -6,6 +6,7 @@ created: 2026-06-25
 date: '2026-06-25'
 draft: false
 last_deep_review: null
+lastmod: 2026-06-25 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-06-25 - The Bandwidth of Consciousness
 ---

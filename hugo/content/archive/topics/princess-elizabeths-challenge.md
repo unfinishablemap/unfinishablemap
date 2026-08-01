@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-14 20:39:00+00:00
+lastmod: 2026-03-20 04:33:46+00:00
 modified: *id001
 original_path: /topics/princess-elizabeths-challenge/
 related_articles:

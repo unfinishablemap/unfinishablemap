@@ -10,6 +10,7 @@ date: &id001 2026-02-09
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-09 17:01:00+00:00
 modified: *id001
 related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'

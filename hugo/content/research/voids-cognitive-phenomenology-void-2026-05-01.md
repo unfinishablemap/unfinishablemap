@@ -18,6 +18,7 @@ date: &id001 2026-05-01
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-01 01:46:00+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-phenomenology]]'

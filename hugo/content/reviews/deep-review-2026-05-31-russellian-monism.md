@@ -10,6 +10,7 @@ date: &id001 2026-05-31
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-31 08:49:44+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Russellian Monism (citation-currency + calibration pass)

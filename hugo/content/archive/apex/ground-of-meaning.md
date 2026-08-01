@@ -33,6 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-30 14:01:00+00:00
+lastmod: 2026-01-31 17:30:00+00:00
 modified: *id001
 original_path: /apex/ground-of-meaning/
 related_articles:

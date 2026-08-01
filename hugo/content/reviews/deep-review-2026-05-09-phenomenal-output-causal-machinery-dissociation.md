@@ -10,6 +10,7 @@ date: &id001 2026-05-09
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-09 18:18:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Phenomenal Output and Causal Machinery

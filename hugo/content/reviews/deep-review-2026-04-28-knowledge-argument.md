@@ -12,6 +12,7 @@ description: 'Seventh deep review confirms post-condense stability: attribution 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-28 11:55:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Knowledge Argument (Mary's Room)

@@ -17,6 +17,7 @@ description: Hostile Gemini 2.5 Pro referee audit of the full site. Most structu
 draft: false
 human_modified: null
 last_curated: 2026-07-16
+lastmod: 2026-07-16 04:46:54+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/4010f6be10cbb9a5
 outer_review_extraction_method: js-dom

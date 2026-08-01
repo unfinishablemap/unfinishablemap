@@ -14,6 +14,7 @@ description: Cross-review synthesis of two 2026-05-04 outer reviews of the Map's
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-09 14:10:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

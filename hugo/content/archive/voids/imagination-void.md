@@ -19,6 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-10 20:38:00+00:00
+lastmod: 2026-03-23 12:23:00+00:00
 modified: *id001
 original_path: /voids/imagination-void/
 related_articles:

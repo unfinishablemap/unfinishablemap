@@ -16,6 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
+lastmod: 2026-07-27 07:24:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'

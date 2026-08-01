@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-16 13:41:47+00:00
+lastmod: 2026-05-16 13:41:47+00:00
 modified: *id001
 original_path: /topics/cross-species-channel-introspection-architecture-independence-scoring/
 related_articles:

@@ -21,6 +21,7 @@ description: Anesthesia creates conditions where production and filter theories 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-25 08:28:00+00:00
 modified: *id001
 original_path: /topics/anesthesia-and-the-filter-argument/
 related_articles:

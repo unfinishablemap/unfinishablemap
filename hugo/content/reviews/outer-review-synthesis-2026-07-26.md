@@ -13,6 +13,7 @@ description: Cross-review synthesis of 3 outer reviews (ChatGPT 5.6 Pro, Claude 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-26 04:46:55+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

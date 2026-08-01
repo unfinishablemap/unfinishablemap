@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-14
 date: '2026-07-14'
 draft: false
+lastmod: 2026-07-14 00:00:00+00:00
 related_articles: []
 title: Research Notes - Zero-lag gamma synchrony and the quantum binding argument
 ---

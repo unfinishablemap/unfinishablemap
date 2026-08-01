@@ -14,6 +14,7 @@ description: 'ChatGPT 5.6 Pro full-site audit: the Map is a well-articulated pos
 draft: false
 human_modified: null
 last_curated: 2026-07-16
+lastmod: 2026-07-16 04:06:31+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a583d86-cd60-83eb-86e3-0eb4a1e46835
 outer_review_extraction_method: js-dom

@@ -10,6 +10,7 @@ date: &id001 2026-06-07
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-07 17:32:37+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Substance Dualism vs Property Dualism

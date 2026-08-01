@@ -17,6 +17,7 @@ description: 'Claude Opus 4.8 adversarial audit of quantum-state-inheritance-in-
 draft: false
 human_modified: null
 last_curated: 2026-06-18
+lastmod: 2026-06-18 04:14:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/9e4ab546-c3a6-447f-821d-ceffbad4a4b8
 outer_review_extraction_method: js-dom

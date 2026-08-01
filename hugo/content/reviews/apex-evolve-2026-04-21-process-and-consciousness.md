@@ -11,6 +11,7 @@ description: Review archive for the 2026-04-21 apex-evolve pass on process-and-c
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-21 12:51:00+00:00
 modified: *id001
 related_articles:
 - '[[process-and-consciousness]]'

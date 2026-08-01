@@ -5,6 +5,7 @@ concepts: []
 created: 2026-04-03
 date: &id001 2026-04-03
 draft: false
+lastmod: 2026-04-03 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Attention as the Causal Bridge'

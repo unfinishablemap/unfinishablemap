@@ -13,6 +13,7 @@ description: 'Eleventh deep review (cosmetic-cross-link no-op): verifies three F
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-17 18:20:42+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Knowledge Argument (Mary's Room)

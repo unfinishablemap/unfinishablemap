@@ -14,6 +14,7 @@ description: 'Claude Opus 4.8 audits Non-Temporal Consciousness: verdict REVISE-
 draft: false
 human_modified: null
 last_curated: 2026-07-18
+lastmod: 2026-07-18 04:32:04+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/fd47c30a-4943-44b6-9888-575b0d0b7456
 outer_review_extraction_method: js-dom

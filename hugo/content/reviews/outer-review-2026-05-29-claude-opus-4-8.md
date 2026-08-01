@@ -14,6 +14,7 @@ description: 'Claude Opus 4.8 outer review of The Mutation Void: two fabricated 
 draft: false
 human_modified: null
 last_curated: 2026-05-29
+lastmod: 2026-05-29 04:25:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/d83c574e-2be0-47a1-8dcc-aa6c42aeeaeb
 outer_review_extraction_method: js-dom

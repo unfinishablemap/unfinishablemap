@@ -6,6 +6,7 @@ concepts: []
 created: 2026-08-01
 date: '2026-08-01'
 draft: false
+lastmod: 2026-08-01 14:31:42+00:00
 related_articles: []
 title: Research Notes - Sentientism as a Moral-Status Criterion
 ---

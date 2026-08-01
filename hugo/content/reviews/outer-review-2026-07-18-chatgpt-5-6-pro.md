@@ -16,6 +16,7 @@ description: 'ChatGPT 5.6 Pro audit of non-temporal-consciousness: sound as a co
 draft: false
 human_modified: null
 last_curated: 2026-07-18
+lastmod: 2026-07-18 04:11:48+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a5ae2a0-9b70-83eb-88e7-ea37d9bab5cb
 outer_review_extraction_method: js-dom

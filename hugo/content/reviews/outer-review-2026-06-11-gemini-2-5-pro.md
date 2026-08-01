@@ -18,6 +18,7 @@ description: 'Gemini 2.5 Pro Deep Research hostile-referee audit of ''Perceptual
 draft: false
 human_modified: null
 last_curated: 2026-06-11
+lastmod: 2026-06-11 05:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/ff08e79901daea37
 outer_review_extraction_method: js-dom

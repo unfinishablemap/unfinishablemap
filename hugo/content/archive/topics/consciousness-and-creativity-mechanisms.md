@@ -23,6 +23,7 @@ description: How consciousness contributes to creativity through quantum selecti
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-05 04:24:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-creativity-mechanisms/
 related_articles:

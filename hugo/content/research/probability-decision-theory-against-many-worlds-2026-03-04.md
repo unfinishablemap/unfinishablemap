@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-04
 date: '2026-07-27'
 draft: false
+lastmod: 2026-07-27 21:03:00+00:00
 related_articles: []
 title: Research Notes - Probability and Decision-Theory Objections to Many Worlds
 ---

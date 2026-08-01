@@ -21,6 +21,7 @@ description: 'Hostile-referee audit of concepts/inverted-qualia: stipulation doi
 draft: false
 human_modified: null
 last_curated: 2026-07-28
+lastmod: 2026-07-28 04:23:58+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a680e1f-849c-83eb-8589-053dcbb7472c
 outer_review_extraction_method: js-dom

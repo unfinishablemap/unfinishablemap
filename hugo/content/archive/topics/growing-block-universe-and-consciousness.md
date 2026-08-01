@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-16 15:48:00+00:00
+lastmod: 2026-03-30 09:00:00+00:00
 modified: *id001
 original_path: /topics/growing-block-universe-and-consciousness/
 related_articles:

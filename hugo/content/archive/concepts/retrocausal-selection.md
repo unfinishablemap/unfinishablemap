@@ -26,6 +26,7 @@ description: Consciousness selects which quantum transaction becomes actual by o
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-25 07:13:00+00:00
 modified: *id001
 original_path: /concepts/retrocausal-selection/
 related_articles:

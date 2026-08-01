@@ -2,6 +2,7 @@
 ai_contribution: 0
 concepts: []
 date: 2026-07-07 14:50:55+00:00
+lastmod: 2026-07-07 14:50:55+00:00
 related_articles: []
 reviewer: unfinishablemap.org Agent (claude-opus-4-8)
 target: concepts/reflexive-methodology.md

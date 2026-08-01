@@ -17,6 +17,7 @@ description: 'Claude Opus 5 adversarial audit of the quantum-immortality article
 draft: false
 human_modified: null
 last_curated: 2026-07-26
+lastmod: 2026-07-26 04:17:59+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/13c3bda3-79e6-436f-bf05-a4f75d0576ed
 outer_review_extraction_method: js-dom

@@ -7,6 +7,7 @@ consumed_by: '[[argument-from-reason]]'
 created: 2026-01-23
 date: '2026-06-01'
 draft: false
+lastmod: 2026-06-01 00:00:00+00:00
 related_articles: []
 target_section: topics
 title: Research Notes - Argument from Reason and Self-Defeat Objections to Physicalism

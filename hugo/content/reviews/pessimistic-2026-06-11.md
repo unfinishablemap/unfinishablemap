@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-11
 date: '2026-06-11'
 draft: false
+lastmod: 2026-06-11 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-06-11
 ---

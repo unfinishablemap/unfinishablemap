@@ -10,6 +10,7 @@ date: &id001 2026-07-07
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-07 01:27:24+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Russellian Monism (Pautz family-resolution drift verified; no-op)

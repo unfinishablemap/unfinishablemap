@@ -13,6 +13,7 @@ description: 'Adversarial full-site audit by Claude Opus 4.8: flags a false TSVF
 draft: false
 human_modified: null
 last_curated: 2026-06-08
+lastmod: 2026-06-08 04:33:43+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/cb90cb25-e8ba-4e85-9df8-3467f27663bf
 outer_review_extraction_method: js-dom

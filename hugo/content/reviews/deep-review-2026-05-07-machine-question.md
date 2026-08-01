@@ -10,6 +10,7 @@ date: &id001 2026-05-07
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-07 04:23:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Machine Question

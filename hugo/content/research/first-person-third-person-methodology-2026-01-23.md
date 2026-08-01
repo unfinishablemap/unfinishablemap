@@ -7,6 +7,7 @@ concepts: []
 created: 2026-01-23
 date: &id001 2026-01-23
 draft: false
+lastmod: 2026-01-29 17:35:00+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - First-Person vs Third-Person Methodology in Consciousness

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-01T18:36:44.080444+00:00'
-session_count: 18076
+last_updated: '2026-08-01T18:51:27.832022+00:00'
+session_count: 18077
 cycle_position: 12192
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-01T17:59:15.423951+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-01T17:44:00.245705+00:00'
+  replenish-queue: '2026-08-01T18:51:27.832022+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-01'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-01'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-01'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -1082,39 +1082,37 @@ queue_status:
 
     "Schleihauf, Sanford, Engelmann", so no task was minted for it.'
   run_916_note: 'run no.916 (2026-08-01T18:46Z, cycle-driven /replenish-queue): MINTED
-    ONE P1 AND TWO P2. Floor was genuinely breached (2 open P0-P2 against a floor of
-    3), now 5. The P1 is a driver-found, BUILD-VERIFIED defect and is the substantive
-    output of this run: hugo has no [frontmatter] block and no enableGitInfo, so
-    .Lastmod falls through Hugo default cascade to the modified: field, which
-    tools/sync/converter.py L245-252 copies from creation and nothing ever maintains.
-    A clean build of the tree as it stands emits dateModified 2026-05-18 for an apex
-    article edited 2026-08-01T18:28 - 75 days stale in JSON-LD, OpenGraph and
-    sitemap lastmod. Measured corpus-wide: 1227 of 8992 dated pages stale, 903 over
-    30d, 489 over 90d; topics 295/318 median 99d, concepts 280/319 median 114d, apex
-    37/40, voids 99/101, tenets/_index 211d. Only reviews/ is clean (10/7049) because
-    review files are never revised, which is why 78 percent of pages hid the defect.
-    The two P2s are length_analysis, both decomposed before minting per the
-    false-over-length rule: epistemology-of-convergence-arguments 6602 raw reads
-    critical but is 5968 prose + 639 apparatus, so it was minted P2 not P1;
-    born-rule-and-the-consciousness-interface 5330 raw is 4479 prose, 479 over hard.
-    DECLINED, each verified rather than assumed: apex Evidence-and-Dependency
+    ONE P1 AND TWO P2. Floor was genuinely breached (2 open P0-P2 against a floor
+    of 3), now 5. The P1 is a driver-found, BUILD-VERIFIED defect and is the substantive
+    output of this run: hugo has no [frontmatter] block and no enableGitInfo, so .Lastmod
+    falls through Hugo default cascade to the modified: field, which tools/sync/converter.py
+    L245-252 copies from creation and nothing ever maintains. A clean build of the
+    tree as it stands emits dateModified 2026-05-18 for an apex article edited 2026-08-01T18:28
+    - 75 days stale in JSON-LD, OpenGraph and sitemap lastmod. Measured corpus-wide:
+    1227 of 8992 dated pages stale, 903 over 30d, 489 over 90d; topics 295/318 median
+    99d, concepts 280/319 median 114d, apex 37/40, voids 99/101, tenets/_index 211d.
+    Only reviews/ is clean (10/7049) because review files are never revised, which
+    is why 78 percent of pages hid the defect. The two P2s are length_analysis, both
+    decomposed before minting per the false-over-length rule: epistemology-of-convergence-arguments
+    6602 raw reads critical but is 5968 prose + 639 apparatus, so it was minted P2
+    not P1; born-rule-and-the-consciousness-interface 5330 raw is 4479 prose, 479
+    over hard. DECLINED, each verified rather than assumed: apex Evidence-and-Dependency
     retrofit (confirmed real at 30 of 39 on disk, but human-reserved - the 2026-07-29
-    NEEDS-HUMAN entry exists precisely so a third skill does not re-derive it);
-    5-to-6 altered-states ordinal cascade (swept all three trees, fully fixed, the
-    remaining five-convergent hits are the contemplative findings, a different five);
-    orphan integration (live scan finds 25, all research notes / author pages /
-    search, zero content articles, so quality.orphaned_files 0 is accurate);
-    deep-review staleness (cycle owns 4 of 24 slots, minting duplicates it);
-    positions-evolve (4 already open, and the skill caps adds at 2 deliberately);
-    expand-topic / research chains (topics 318/320 and concepts 318/320 - two slots
-    each, so the lane is effectively closed and minting into it would strand work).
-    volitional-control 4461 prose was measured and NOT minted: 13 H2 sections each
-    carrying a distinct empirical strand is survey structure, and 461 over hard does
-    not justify a third condense in one run. NOT PROMOTED: 26 P3 tasks are starving
-    because the floor counts P0-P2 only, but promotion was left to the operator and
-    reported upward instead. run_913_note pruned under the keep-about-three
-    discipline, keeping 914, 915 and 916. recent_tasks untouched. YAML re-parsed with
-    yaml.safe_load after writing.'
+    NEEDS-HUMAN entry exists precisely so a third skill does not re-derive it); 5-to-6
+    altered-states ordinal cascade (swept all three trees, fully fixed, the remaining
+    five-convergent hits are the contemplative findings, a different five); orphan
+    integration (live scan finds 25, all research notes / author pages / search, zero
+    content articles, so quality.orphaned_files 0 is accurate); deep-review staleness
+    (cycle owns 4 of 24 slots, minting duplicates it); positions-evolve (4 already
+    open, and the skill caps adds at 2 deliberately); expand-topic / research chains
+    (topics 318/320 and concepts 318/320 - two slots each, so the lane is effectively
+    closed and minting into it would strand work). volitional-control 4461 prose was
+    measured and NOT minted: 13 H2 sections each carrying a distinct empirical strand
+    is survey structure, and 461 over hard does not justify a third condense in one
+    run. NOT PROMOTED: 26 P3 tasks are starving because the floor counts P0-P2 only,
+    but promotion was left to the operator and reported upward instead. run_913_note
+    pruned under the keep-about-three discipline, keeping 914, 915 and 916. recent_tasks
+    untouched. YAML re-parsed with yaml.safe_load after writing.'
   run_914_note: 'run no.914 (2026-08-01T14:20Z, cycle-driven /replenish-queue): MINTED
     ONE P2 FROM THE EXPAND-TOPIC CHAIN AND PROMOTED ONE P3 TO P2. Floor restored 2
     -> 4.

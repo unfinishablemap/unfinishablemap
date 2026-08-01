@@ -13,6 +13,7 @@ description: Fifth deep review of phantom-limb-phenomena.md. The only change sin
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-24 20:45:09+00:00
 modified: *id001
 related_articles:
 - '[[phantom-limb-phenomena]]'

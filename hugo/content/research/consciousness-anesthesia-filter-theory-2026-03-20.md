@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-20
 date: '2026-07-27'
 draft: false
+lastmod: 2026-07-27 12:44:00+00:00
 related_articles: []
 title: Research Notes - Consciousness During General Anesthesia and Filter Theory
 ---

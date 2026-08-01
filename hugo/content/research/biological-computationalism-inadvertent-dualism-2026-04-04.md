@@ -6,6 +6,7 @@ concepts: []
 created: 2026-04-04
 date: '2026-07-31'
 draft: false
+lastmod: 2026-07-31 00:38:21+00:00
 related_articles: []
 title: Research Notes - Biological Computationalism and Its Inadvertent Case for Dualism
 ---

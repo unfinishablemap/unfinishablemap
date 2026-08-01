@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:03:45+00:00
+lastmod: 2026-07-29 14:25:57+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'

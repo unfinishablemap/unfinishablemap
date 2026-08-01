@@ -14,6 +14,7 @@ date: &id001 2026-03-17
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-03 00:20:14+00:00
 modified: *id001
 related_articles:
 - '[[penrose-gravity-collapse-empirical-2026-03-14]]'

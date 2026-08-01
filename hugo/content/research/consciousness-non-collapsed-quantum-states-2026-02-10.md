@@ -6,6 +6,7 @@ concepts: []
 created: 2026-02-10
 date: '2026-05-27'
 draft: false
+lastmod: 2026-05-27 00:00:00+00:00
 related_articles: []
 title: Research Notes - Consciousness in Non-Collapsed Quantum States
 ---

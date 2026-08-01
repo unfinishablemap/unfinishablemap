@@ -25,6 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 10:10:01+00:00
+lastmod: 2026-07-31 16:21:17+00:00
 modified: *id001
 related_articles:
 - '[[filter-theory]]'

@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-24
 date: &id001 2026-01-24
 draft: false
+lastmod: 2026-01-24 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Quantum Biology Mechanisms in Neural Systems

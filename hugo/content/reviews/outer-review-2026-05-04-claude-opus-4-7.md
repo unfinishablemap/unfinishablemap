@@ -15,6 +15,7 @@ description: 'External review by Claude Opus 4.7 (Adaptive + Research) on the Ma
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-04 14:01:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/b67c8269-c208-4ef6-869c-d4e40189a928
 outer_review_extraction_method: js-dom

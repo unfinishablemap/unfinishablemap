@@ -13,6 +13,7 @@ description: Block-level re-verification of all seven positions cited by the emb
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 23:44:01+00:00
 modified: *id001
 related_articles:
 - '[[apex/embodied-interface]]'

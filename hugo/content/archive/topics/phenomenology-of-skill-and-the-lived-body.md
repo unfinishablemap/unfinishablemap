@@ -34,6 +34,7 @@ description: Skill acquisition transforms both cognition and the body itself—c
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-19 09:34:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-skill-and-the-lived-body/
 related_articles:

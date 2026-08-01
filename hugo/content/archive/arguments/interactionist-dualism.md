@@ -27,6 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-01-15 12:30:00+00:00
 modified: *id001
 original_path: /arguments/interactionist-dualism/
 related_articles:

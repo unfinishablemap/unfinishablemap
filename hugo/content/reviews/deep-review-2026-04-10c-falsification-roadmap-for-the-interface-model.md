@@ -10,6 +10,7 @@ date: &id001 2026-04-10
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-10 23:56:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Falsification Roadmap for the Interface Model

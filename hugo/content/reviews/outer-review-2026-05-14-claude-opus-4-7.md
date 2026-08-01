@@ -22,6 +22,7 @@ description: 'Adversarial audit of topics/psychedelics-and-the-filter-model.md b
 draft: false
 human_modified: null
 last_curated: 2026-05-14
+lastmod: 2026-05-14 05:20:59+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/3c24edef-3629-4491-9251-b5e0e99f2f53
 outer_review_extraction_method: js-dom

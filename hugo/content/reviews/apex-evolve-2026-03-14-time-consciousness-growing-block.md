@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-14
 date: &id001 2026-03-14
 draft: false
+lastmod: 2026-03-14 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Time, Consciousness, and the Growing Block'

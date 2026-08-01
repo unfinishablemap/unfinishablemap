@@ -18,6 +18,7 @@ description: Hostile Gemini 2.5 Pro referee audit of the panpsychism article; on
 draft: false
 human_modified: null
 last_curated: 2026-07-25
+lastmod: 2026-07-25 04:39:15+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/038ef1a3225b0209
 outer_review_extraction_method: js-dom

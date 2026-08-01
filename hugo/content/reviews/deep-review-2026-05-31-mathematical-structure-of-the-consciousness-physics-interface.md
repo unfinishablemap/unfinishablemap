@@ -10,6 +10,7 @@ date: &id001 2026-05-31
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-31 18:45:42+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Mathematical Structure of the Consciousness-Physics Interface

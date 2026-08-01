@@ -13,6 +13,7 @@ description: Minimal tune-system pass — aborted heavy analysis (6 days since l
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-25 09:35:00+00:00
 modified: *id001
 related_articles:
 - '[[todo]]'

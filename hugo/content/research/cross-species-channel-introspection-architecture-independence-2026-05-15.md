@@ -9,6 +9,7 @@ created: 2026-05-15
 date: &id001 2026-05-15
 draft: false
 human_modified: null
+lastmod: 2026-06-04 08:15:28+00:00
 modified: *id001
 related_articles:
 - '[[introspection-architecture-independence-scoring]]'

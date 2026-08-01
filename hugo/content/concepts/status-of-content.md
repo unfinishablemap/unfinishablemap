@@ -18,6 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 10:16:03+00:00
+lastmod: 2026-04-27 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[self-stultification-as-master-argument]]'

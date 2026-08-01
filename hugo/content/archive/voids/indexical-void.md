@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-15 15:22:00+00:00
+lastmod: 2026-04-23 19:57:00+00:00
 modified: *id001
 original_path: /voids/indexical-void/
 related_articles:

@@ -11,6 +11,7 @@ date: &id001 2026-07-06
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-06 14:07:26+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Constitutive vs Referring Observation

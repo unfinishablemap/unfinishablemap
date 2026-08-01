@@ -6,6 +6,7 @@ concepts: []
 created: 2026-01-22
 date: '2026-06-01'
 draft: false
+lastmod: 2026-06-01 00:00:00+00:00
 related_articles: []
 title: Research Notes - Access Consciousness
 ---

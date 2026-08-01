@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-16 16:30:00+00:00
+lastmod: 2026-05-16 20:08:46+00:00
 modified: *id001
 original_path: /topics/cross-tradition-channel-introspection-architecture-independence-scoring/
 related_articles:

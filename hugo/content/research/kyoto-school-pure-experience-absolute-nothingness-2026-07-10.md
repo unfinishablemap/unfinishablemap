@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-10
 date: '2026-07-11'
 draft: false
+lastmod: 2026-07-11 00:00:00+00:00
 related_articles: []
 title: 'Research Notes - Japanese Philosophy of Mind: The Kyoto School on Pure Experience
   and Absolute Nothingness'

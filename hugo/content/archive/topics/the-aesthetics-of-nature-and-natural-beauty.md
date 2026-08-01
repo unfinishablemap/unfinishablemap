@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 07:26:25+00:00
+lastmod: 2026-07-09 07:15:52+00:00
 modified: *id001
 original_path: /topics/the-aesthetics-of-nature-and-natural-beauty/
 related_articles:

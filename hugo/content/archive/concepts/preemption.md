@@ -23,6 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-06 15:36:00+00:00
+lastmod: 2026-04-16 11:59:00+00:00
 modified: *id001
 original_path: /concepts/preemption/
 related_articles:

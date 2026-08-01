@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-14
 date: '2026-06-20'
 draft: false
+lastmod: 2026-06-20 00:00:00+00:00
 related_articles: []
 title: Research Notes - Stapp on Mental Effort and Mind-Matter Interaction
 ---

@@ -14,6 +14,7 @@ description: 'Deep review of phantom-limb-phenomena.md as cross-review reciproca
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-16 08:52:00+00:00
 modified: *id001
 related_articles:
 - '[[phantom-limb-phenomena]]'

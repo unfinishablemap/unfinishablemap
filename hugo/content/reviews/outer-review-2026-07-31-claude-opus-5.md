@@ -16,6 +16,7 @@ description: 'Hostile-referee audit of the Penrose gravity-induced collapse arti
 draft: false
 human_modified: null
 last_curated: 2026-07-31
+lastmod: 2026-07-31 04:39:25+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/e67ce170-bd82-47c0-99cd-8c0634ae50c5
 outer_review_extraction_method: js-dom

@@ -4,6 +4,7 @@ ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-27
 date: '2026-05-27'
+lastmod: 2026-05-27 00:00:00+00:00
 related_articles: []
 title: 'Apex Evolve Review: AI as Introspection Control (2026-05-27)'
 ---

@@ -19,6 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 20:06:29+00:00
+lastmod: 2026-07-30 03:00:45+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'

@@ -17,6 +17,7 @@ description: The temporal cluster's specialists scope themselves better than any
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-29 12:52:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

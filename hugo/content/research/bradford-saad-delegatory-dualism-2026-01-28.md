@@ -13,6 +13,7 @@ date: &id001 2026-01-28
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-01-28 23:30:00+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism-2026-01-06]]'

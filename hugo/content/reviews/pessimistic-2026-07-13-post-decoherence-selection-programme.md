@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-13
 date: '2026-07-13'
 draft: false
+lastmod: 2026-07-13 02:51:22+00:00
 related_articles: []
 title: Pessimistic Review - Post-Decoherence Selection Programme - 2026-07-13
 ---

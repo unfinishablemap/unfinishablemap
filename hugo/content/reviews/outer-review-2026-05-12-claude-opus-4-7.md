@@ -20,6 +20,7 @@ description: 'Peer-review-style audit of topics/non-temporal-consciousness.md by
 draft: false
 human_modified: null
 last_curated: 2026-05-12
+lastmod: 2026-05-12 06:24:30+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/f9c4bcc7-4ba4-44b6-968a-8135764b0a72
 outer_review_extraction_method: js-dom

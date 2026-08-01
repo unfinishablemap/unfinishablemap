@@ -18,6 +18,7 @@ description: 'Claude Opus 4.8 peer-reviews trumping-preemption.md: sourcing inte
 draft: false
 human_modified: null
 last_curated: 2026-07-15
+lastmod: 2026-07-15 04:22:34+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/b64625ec-8f72-449b-9cb2-ebb7ad54974a
 outer_review_extraction_method: js-dom

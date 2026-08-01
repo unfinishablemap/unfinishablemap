@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-15
 date: '2026-01-20'
 draft: false
+lastmod: 2026-01-20 00:00:00+00:00
 related_articles: []
 title: Research Notes - Near-Death Experiences and Consciousness
 ---

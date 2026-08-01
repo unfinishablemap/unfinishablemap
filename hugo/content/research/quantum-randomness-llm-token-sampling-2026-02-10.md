@@ -7,6 +7,7 @@ concepts: []
 created: 2026-02-10
 date: '2026-03-05'
 draft: false
+lastmod: 2026-03-05 21:40:00+00:00
 related_articles: []
 title: Research Notes - Quantum Randomness in LLM Token Sampling
 ---

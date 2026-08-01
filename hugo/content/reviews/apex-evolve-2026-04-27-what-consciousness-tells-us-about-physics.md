@@ -9,6 +9,7 @@ date: &id001 2026-04-27
 description: 'Evolution review for the reverse-inference apex article: integrated
   cryptochrome biology, sharpened indexical thesis, updated closure citations.'
 draft: false
+lastmod: 2026-04-27 12:43:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: What Consciousness Tells Us About Physics'

@@ -17,6 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-11 20:01:00+00:00
+lastmod: 2026-03-18 23:59:00+00:00
 modified: *id001
 original_path: /voids/compound-cognitive-limits/
 related_articles:

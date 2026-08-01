@@ -23,6 +23,7 @@ description: Testimony presupposes consciousness yet is our primary access to ot
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-21 21:21:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-the-epistemology-of-testimony/
 related_articles:

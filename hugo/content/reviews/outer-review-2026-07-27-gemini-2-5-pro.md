@@ -16,6 +16,7 @@ description: 'Hostile Gemini 2.5 Pro site audit: five ''ignored competing framew
 draft: false
 human_modified: null
 last_curated: 2026-07-27
+lastmod: 2026-07-27 04:39:38+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/aa5d659a74c1fda8
 outer_review_extraction_method: js-dom

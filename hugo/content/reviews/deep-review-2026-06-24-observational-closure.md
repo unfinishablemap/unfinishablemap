@@ -10,6 +10,7 @@ date: &id001 2026-06-24
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-24 22:29:38+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Observational Closure

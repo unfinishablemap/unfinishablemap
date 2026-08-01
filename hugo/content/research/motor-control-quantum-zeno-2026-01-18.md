@@ -6,6 +6,7 @@ concepts: []
 created: 2026-01-18
 date: '2026-05-26'
 draft: false
+lastmod: 2026-05-26 00:00:00+00:00
 related_articles: []
 target_section: concepts/motor-selection
 title: Research Notes - Motor Control and the Quantum Zeno Framework

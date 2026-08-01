@@ -25,6 +25,7 @@ description: Why aesthetic experience—combining qualia, normativity, gestalt u
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-21 09:21:00+00:00
 modified: *id001
 original_path: /topics/aesthetic-consciousness-as-irreducibility-test-case/
 related_articles:

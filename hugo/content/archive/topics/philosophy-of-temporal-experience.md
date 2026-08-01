@@ -26,6 +26,7 @@ description: Why time feels the way it does. The specious present, durée, and p
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-01 20:50:00+00:00
 modified: *id001
 original_path: /topics/philosophy-of-temporal-experience/
 related_articles:

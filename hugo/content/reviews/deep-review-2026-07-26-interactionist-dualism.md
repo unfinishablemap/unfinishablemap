@@ -10,6 +10,7 @@ date: &id001 2026-07-26
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-26 00:47:57+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Interactionist Dualism (Post-Convergent-Refine No-Op Pass)

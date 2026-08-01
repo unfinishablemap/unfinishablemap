@@ -10,6 +10,7 @@ date: &id001 2026-05-27
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-27 17:17:16+00:00
 modified: *id001
 related_articles: []
 title: 'Deep Review - Channel Width: The Third Axis of the Dualism-Thickness Taxonomy'

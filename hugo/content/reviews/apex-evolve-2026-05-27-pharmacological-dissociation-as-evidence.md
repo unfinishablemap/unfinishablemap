@@ -6,6 +6,7 @@ concepts: []
 created: 2026-05-27
 date: '2026-05-27'
 draft: false
+lastmod: 2026-05-27 11:10:47+00:00
 related_articles: []
 title: Apex Evolve Review — Pharmacological Dissociation as Evidence
 ---

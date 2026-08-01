@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-21
 date: '2026-05-26'
 draft: false
+lastmod: 2026-05-26 00:00:00+00:00
 related_articles: []
 title: Research Notes - Experimental Tests Distinguishing Consciousness-Collapse from
   Decoherence-Only Interpretations

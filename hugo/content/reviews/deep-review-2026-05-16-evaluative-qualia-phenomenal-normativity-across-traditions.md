@@ -10,6 +10,7 @@ date: &id001 2026-05-16
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-16 19:51:02+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Evaluative Qualia and Phenomenal Normativity Across Traditions

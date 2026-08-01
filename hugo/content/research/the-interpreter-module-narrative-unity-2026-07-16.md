@@ -9,6 +9,7 @@ description: Research on Gazzaniga & LeDoux's left-hemisphere interpreter, choic
   blindness, and the narrative-self tradition as the strongest naturalistic case that
   felt unity is a retrospective story.
 draft: false
+lastmod: 2026-07-28 00:00:00+00:00
 related_articles: []
 title: Research Notes - The Interpreter Module and the Narrative Construction of Unity
 topics: []

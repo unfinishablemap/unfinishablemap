@@ -21,6 +21,7 @@ description: 'The Map''s positions on consciousness in artificial systems, with 
 draft: false
 human_modified: null
 last_curated: 2026-06-22
+lastmod: 2026-07-28 15:06:22+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

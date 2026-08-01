@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-03 18:05:00+00:00
+lastmod: 2026-06-03 18:05:00+00:00
 modified: *id001
 original_path: /topics/ramanujan-and-the-phenomenology-of-mathematical-reception/
 related_articles:

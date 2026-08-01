@@ -6,6 +6,7 @@ concepts: []
 created: 2026-05-25
 date: '2026-05-25'
 draft: false
+lastmod: 2026-05-25 11:00:00+00:00
 related_articles: []
 title: 'Apex Evolve Review: The Self-Concealing Interface'
 ---

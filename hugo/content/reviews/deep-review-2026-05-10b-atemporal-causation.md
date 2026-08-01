@@ -10,6 +10,7 @@ date: &id001 2026-05-10
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-10 15:41:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Atemporal Causation (Cross-Review with Phenomenology of Memory)

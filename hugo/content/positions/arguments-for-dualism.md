@@ -18,6 +18,7 @@ description: 'The Map''s positions on what its own argument catalogue for dualis
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-28 11:02:54+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

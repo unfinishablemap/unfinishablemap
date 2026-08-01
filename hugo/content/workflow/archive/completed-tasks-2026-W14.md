@@ -4,6 +4,7 @@ archived: true
 concepts: []
 created: 2026-03-30
 date: '2026-04-06'
+lastmod: 2026-04-06 00:00:00+00:00
 related_articles: []
 title: Completed Tasks - Week 2026-W14
 ---

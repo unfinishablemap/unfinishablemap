@@ -13,6 +13,7 @@ description: 'Apex evolution review for open-question-ai-consciousness: 11 chang
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-10 08:42:19+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: The Open Question of AI Consciousness'

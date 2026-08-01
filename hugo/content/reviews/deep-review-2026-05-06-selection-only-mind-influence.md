@@ -10,6 +10,7 @@ date: &id001 2026-05-06
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-06 11:16:00+00:00
 modified: *id001
 related_articles: []
 title: 'Deep Review - Selection-Only Mind-Influence: Information-Transfer Limits and

@@ -7,6 +7,7 @@ consumed_by: '[[symbol-grounding-problem]]'
 created: 2026-01-30
 date: '2026-06-25'
 draft: false
+lastmod: 2026-06-25 00:18:22+00:00
 related_articles: []
 title: Research Notes - Symbol Grounding Problem
 ---

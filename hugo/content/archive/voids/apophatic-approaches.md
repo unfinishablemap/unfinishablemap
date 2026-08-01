@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 08:06:00+00:00
+lastmod: 2026-07-31 09:50:20+00:00
 modified: *id001
 original_path: /voids/apophatic-approaches/
 related_articles:

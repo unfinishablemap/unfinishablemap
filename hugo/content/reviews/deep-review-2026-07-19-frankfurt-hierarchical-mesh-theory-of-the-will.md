@@ -10,6 +10,7 @@ date: &id001 2026-07-19
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-19 18:33:42+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Frankfurt's Hierarchical Mesh Theory of the Will

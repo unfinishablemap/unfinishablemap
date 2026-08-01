@@ -10,6 +10,7 @@ date: &id001 2026-05-28
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-28 21:33:26+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Bandwidth of Consciousness

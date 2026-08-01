@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-29 11:43:43+00:00
+lastmod: 2026-01-29 11:43:43+00:00
 modified: *id001
 original_path: /concepts/analytic-idealism/
 related_articles:

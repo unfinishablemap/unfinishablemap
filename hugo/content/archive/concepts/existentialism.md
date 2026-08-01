@@ -27,6 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-27 19:03:00+00:00
+lastmod: 2026-07-31 03:04:00+00:00
 modified: *id001
 original_path: /concepts/existentialism/
 related_articles:

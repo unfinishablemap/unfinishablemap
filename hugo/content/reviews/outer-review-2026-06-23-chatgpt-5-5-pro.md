@@ -16,6 +16,7 @@ description: 'ChatGPT 5.5 Pro audit of consciousness-selecting-neural-patterns: 
 draft: false
 human_modified: null
 last_curated: 2026-06-23
+lastmod: 2026-06-23 04:10:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a39ec46-f8f8-832f-b96d-0e769e031b50
 outer_review_extraction_method: js-dom

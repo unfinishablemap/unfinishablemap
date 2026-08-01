@@ -13,6 +13,7 @@ draft: false
 human_modified: 2026-01-24 00:00:00+00:00
 last_curated: null
 last_deep_review: 2026-06-27 00:05:00+00:00
+lastmod: 2026-06-27 00:05:00+00:00
 modified: *id001
 related_articles:
 - '[[automation]]'

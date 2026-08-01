@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 08:36:00+00:00
+lastmod: 2026-05-28 21:46:49+00:00
 modified: *id001
 original_path: /topics/psychophysical-coupling-law-mechanisms/
 related_articles:

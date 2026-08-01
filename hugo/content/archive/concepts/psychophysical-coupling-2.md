@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-05 06:51:00+00:00
+lastmod: 2026-07-31 10:54:12+00:00
 modified: *id001
 original_path: /concepts/psychophysical-coupling/
 related_articles:

@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-02-24 09:29:00+00:00
 modified: *id001
 original_path: /voids/duration-void/
 related_articles:

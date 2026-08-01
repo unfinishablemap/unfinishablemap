@@ -6,6 +6,7 @@ concepts: []
 created: 2026-04-06
 date: &id001 2026-04-06
 draft: true
+lastmod: 2026-04-06 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Phenomenology-Mechanism Bridge'

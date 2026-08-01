@@ -12,6 +12,7 @@ date: &id001 2026-04-27
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-27 05:43:00+00:00
 modified: *id001
 related_articles:
 - '[[deep-review-2026-04-26-eliminative-materialism]]'

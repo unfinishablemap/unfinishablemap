@@ -5,6 +5,7 @@ concepts: []
 created: 2026-05-01
 date: '2026-05-01'
 draft: false
+lastmod: 2026-05-01 00:00:00+00:00
 related_articles: []
 title: Tenet Alignment Check - 2026-05-01
 ---

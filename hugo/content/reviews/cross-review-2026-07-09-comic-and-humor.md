@@ -8,6 +8,7 @@ concepts: []
 created: 2026-07-09
 date: &id001 2026-07-09
 draft: false
+lastmod: 2026-07-09 05:57:41+00:00
 modified: *id001
 related_articles: []
 review_target: '[[the-comic-and-humor-as-an-aesthetic-category]]'

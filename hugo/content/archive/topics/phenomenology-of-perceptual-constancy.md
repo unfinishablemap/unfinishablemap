@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-19 22:21:00+00:00
+lastmod: 2026-07-31 09:19:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-perceptual-constancy/
 related_articles:

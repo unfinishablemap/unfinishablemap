@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-09
 date: '2026-03-12'
 draft: false
+lastmod: 2026-03-12 00:00:00+00:00
 related_articles: []
 title: Research Notes - The Reconstruction Paradox
 ---

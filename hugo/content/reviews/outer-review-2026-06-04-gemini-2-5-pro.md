@@ -15,6 +15,7 @@ description: 'Gemini 2.5 Pro hostile-referee audit of clinical-dissociation-as-s
 draft: false
 human_modified: null
 last_curated: 2026-06-04
+lastmod: 2026-06-04 06:45:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/6f73da46a97d85fa
 outer_review_extraction_method: js-dom

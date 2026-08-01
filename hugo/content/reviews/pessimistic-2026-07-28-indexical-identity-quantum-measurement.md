@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-28
 date: '2026-07-28'
 draft: false
+lastmod: 2026-07-28 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-07-28 - Indexical Identity and Quantum Measurement
 ---

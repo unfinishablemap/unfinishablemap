@@ -10,6 +10,7 @@ date: &id001 2026-06-19
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-19 22:34:16+00:00
 modified: *id001
 related_articles:
 - '[[open-individualism-and-the-de-combination-problem]]'

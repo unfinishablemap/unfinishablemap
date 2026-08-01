@@ -10,6 +10,7 @@ date: &id001 2026-07-06
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-06 11:44:29+00:00
 modified: *id001
 related_articles:
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'

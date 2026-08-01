@@ -10,6 +10,7 @@ date: &id001 2026-06-25
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-25 23:16:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenology-of-attention-to-absence]]'

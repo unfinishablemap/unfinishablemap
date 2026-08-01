@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-07
 date: '2026-07-07'
 draft: false
+lastmod: 2026-07-07 01:44:32+00:00
 related_articles: []
 title: Research Notes - Anthropic's Global Workspace / J-Space in LLMs
 ---

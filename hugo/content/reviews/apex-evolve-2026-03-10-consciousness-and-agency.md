@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-10
 date: &id001 2026-03-10
 draft: false
+lastmod: 2026-03-10 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolution Review: Consciousness and Agency'

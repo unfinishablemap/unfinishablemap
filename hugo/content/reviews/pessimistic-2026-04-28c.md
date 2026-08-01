@@ -8,6 +8,7 @@ created: 2026-04-28
 date: &id001 2026-04-28
 draft: false
 human_modified: null
+lastmod: 2026-04-28 14:22:00+00:00
 modified: *id001
 related_articles: []
 title: Pessimistic Review - 2026-04-28c

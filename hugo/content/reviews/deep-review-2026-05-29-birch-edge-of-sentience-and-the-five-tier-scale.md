@@ -10,6 +10,7 @@ date: &id001 2026-05-29
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-29 06:02:38+00:00
 modified: *id001
 related_articles: []
 title: Deep Review (Citation-Currency Pass) - Birch's Edge of Sentience and the Five-Tier

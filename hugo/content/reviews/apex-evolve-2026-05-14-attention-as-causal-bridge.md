@@ -7,6 +7,7 @@ concepts: []
 created: 2026-05-14
 date: &id001 2026-05-14
 draft: false
+lastmod: 2026-05-14 23:55:00+00:00
 modified: *id001
 related_articles: []
 review_target: '[[apex/attention-as-causal-bridge]]'

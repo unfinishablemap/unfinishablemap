@@ -4,6 +4,7 @@ ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-25
 date: '2026-06-25'
+lastmod: 2026-06-25 00:00:00+00:00
 related_articles: []
 review_type: apex-evolve
 target: apex/altered-states-as-interface-evidence

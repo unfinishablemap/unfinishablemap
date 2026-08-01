@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-31 12:38:00+00:00
+lastmod: 2026-03-31 12:38:00+00:00
 modified: *id001
 original_path: /topics/testable-predictions-consciousness-collapse-decoherence/
 related_articles:

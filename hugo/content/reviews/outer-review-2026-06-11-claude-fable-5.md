@@ -16,6 +16,7 @@ description: 'Claude Fable 5 audits Perceptual Failure and the Interface: metada
 draft: false
 human_modified: null
 last_curated: 2026-06-11
+lastmod: 2026-06-11 04:25:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/eef19dbe-e3c5-432a-8283-03f758c28fc8
 outer_review_extraction_method: js-dom

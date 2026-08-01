@@ -12,6 +12,7 @@ description: Version 1 of the paper describing The Unfinishable Map's architectu
 draft: false
 human_modified: 2026-05-03
 last_curated: null
+lastmod: 2026-05-03 00:00:00+00:00
 modified: *id001
 related_articles:
 - agentic-philosophy-adversarial-self-review

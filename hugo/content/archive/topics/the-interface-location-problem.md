@@ -31,6 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-11 04:56:00+00:00
+lastmod: 2026-05-28 21:46:49+00:00
 modified: *id001
 original_path: /topics/the-interface-location-problem/
 related_articles:

@@ -38,6 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-07-31 03:33:32+00:00
 modified: *id001
 original_path: /concepts/quantum-coherence-and-binding-evidence/
 related_articles:

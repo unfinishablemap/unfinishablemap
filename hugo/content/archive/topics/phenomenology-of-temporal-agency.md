@@ -27,6 +27,7 @@ description: Agency unfolds through time with distinctive phenomenal character. 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-01 18:08:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-temporal-agency/
 related_articles:

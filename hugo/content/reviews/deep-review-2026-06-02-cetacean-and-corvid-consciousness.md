@@ -13,6 +13,7 @@ description: 'First dedicated citation web-verify of a citation-dense animal-con
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-02 19:40:42+00:00
 modified: *id001
 related_articles:
 - '[[cetacean-and-corvid-consciousness]]'

@@ -17,6 +17,7 @@ description: 'Gemini 2.5 Pro hostile-referee audit of The Ethics of Possible AI 
 draft: false
 human_modified: null
 last_curated: 2026-06-27
+lastmod: 2026-06-27 04:33:47+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/104618a3aefcae13
 outer_review_extraction_method: js-dom

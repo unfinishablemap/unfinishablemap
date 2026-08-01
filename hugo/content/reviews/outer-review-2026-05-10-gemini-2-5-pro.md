@@ -19,6 +19,7 @@ description: Deep Research review of phenomenology-of-memory-and-the-self.md by 
 draft: false
 human_modified: null
 last_curated: 2026-05-10
+lastmod: 2026-05-10 13:50:15+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/a26a951adcb261ef
 outer_review_extraction_method: js-dom

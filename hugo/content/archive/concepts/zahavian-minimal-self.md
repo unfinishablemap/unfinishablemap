@@ -23,6 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-18 11:48:00+00:00
+lastmod: 2026-05-01 01:15:00+00:00
 modified: *id001
 original_path: /concepts/zahavian-minimal-self/
 related_articles:

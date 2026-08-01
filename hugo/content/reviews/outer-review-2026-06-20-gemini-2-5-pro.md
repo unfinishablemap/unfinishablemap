@@ -17,6 +17,7 @@ description: Hostile-referee audit of consciousness-interface-development.md by 
 draft: false
 human_modified: null
 last_curated: 2026-06-20
+lastmod: 2026-06-20 05:00:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/d55d48732d303c06
 outer_review_extraction_method: js-dom

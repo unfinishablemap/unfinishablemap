@@ -10,6 +10,7 @@ date: &id001 2026-03-24
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-24 08:51:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Phenomenology of Choice and Volition

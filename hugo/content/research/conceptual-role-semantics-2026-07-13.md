@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-13
 date: '2026-07-13'
 draft: false
+lastmod: 2026-07-13 07:09:53+00:00
 related_articles: []
 title: Research Notes - Conceptual Role Semantics and the Naturalisation of Content
 ---

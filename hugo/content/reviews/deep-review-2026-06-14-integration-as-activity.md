@@ -11,6 +11,7 @@ date: &id001 2026-06-14
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-14 05:31:50+00:00
 modified: *id001
 related_articles:
 - '[[deep-review-2026-06-02-integration-as-activity]]'

@@ -15,6 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-05-31 19:30:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/claude-constitution-consciousness-uncertainty]]'

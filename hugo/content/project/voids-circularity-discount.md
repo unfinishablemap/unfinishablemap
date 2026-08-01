@@ -12,6 +12,7 @@ description: Voids catalogued under a framework cannot evidence it. The discount
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-27 10:40:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

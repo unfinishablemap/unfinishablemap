@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-18
 date: '2026-03-18'
 draft: false
+lastmod: 2026-03-18 16:14:00+00:00
 related_articles: []
 title: Research Notes - Amplification Mechanisms for Consciousness-Physics Interaction
 ---

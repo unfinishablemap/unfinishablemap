@@ -10,6 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-21 13:11:22+00:00
 modified: *id001
 related_articles:
 - '[[process-and-consciousness]]'

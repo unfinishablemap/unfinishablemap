@@ -10,6 +10,7 @@ date: &id001 2026-07-20
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-20 01:22:52+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - What Consciousness Tells Us About Physics (Genuine-Drift Verification)

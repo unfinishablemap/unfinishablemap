@@ -16,6 +16,7 @@ description: 'Adversarial full-site audit by Claude Opus 4.8: citation integrity
 draft: false
 human_modified: null
 last_curated: 2026-06-22
+lastmod: 2026-06-22 04:24:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/c1e530b3-ed98-4393-b02e-b0a8f66aa6f1
 outer_review_extraction_method: js-dom

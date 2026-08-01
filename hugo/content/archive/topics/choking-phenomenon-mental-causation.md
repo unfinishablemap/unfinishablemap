@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-28 08:13:00+00:00
+lastmod: 2026-05-08 20:30:00+00:00
 modified: *id001
 original_path: /topics/choking-phenomenon-mental-causation/
 related_articles:

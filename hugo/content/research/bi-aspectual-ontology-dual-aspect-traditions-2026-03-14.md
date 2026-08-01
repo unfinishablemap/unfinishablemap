@@ -7,6 +7,7 @@ concepts: []
 created: 2026-03-14
 date: '2026-03-14'
 draft: false
+lastmod: 2026-03-14 15:33:00+00:00
 related_articles: []
 title: Research Notes - Bi-Aspectual Ontology and Dual-Aspect Traditions
 ---

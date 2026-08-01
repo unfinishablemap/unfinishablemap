@@ -6,6 +6,7 @@ concepts: []
 created: 2026-04-27
 date: '2026-07-28'
 draft: false
+lastmod: 2026-07-28 17:07:07+00:00
 related_articles: []
 title: Research Notes - Hutto-Myin's Hard Problem of Content
 ---

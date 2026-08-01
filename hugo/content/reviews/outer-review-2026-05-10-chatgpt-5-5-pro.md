@@ -16,6 +16,7 @@ description: 'ChatGPT 5.5 Pro pressure-tests the phenomenology-of-memory article
 draft: false
 human_modified: null
 last_curated: 2026-05-10
+lastmod: 2026-05-10 04:25:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69ffebd3-4868-838a-bb5f-13a995f5d1ed
 outer_review_extraction_method: js-dom

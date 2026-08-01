@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:00:00+00:00
+lastmod: 2026-06-14 00:00:00+00:00
 modified: *id001
 original_path: /concepts/probability-objections-many-worlds/
 related_articles:

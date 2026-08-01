@@ -7,6 +7,7 @@ concepts: []
 created: 2026-05-19
 date: &id001 2026-05-19
 draft: false
+lastmod: 2026-05-19 06:40:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: The Phenomenology of Consciousness Doing Work (evolve)'

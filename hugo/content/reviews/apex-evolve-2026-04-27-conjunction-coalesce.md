@@ -5,6 +5,7 @@ concepts: []
 created: 2026-04-27
 date: '2026-04-27'
 draft: false
+lastmod: 2026-04-27 00:00:00+00:00
 related_articles: []
 title: Apex Evolve - 2026-04-27 - conjunction-coalesce
 ---

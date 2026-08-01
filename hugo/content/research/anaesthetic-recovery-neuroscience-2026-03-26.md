@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-26
 date: '2026-06-05'
 draft: false
+lastmod: 2026-06-05 21:45:00+00:00
 related_articles: []
 title: Research Notes - Neuroscience of Anaesthetic Recovery
 ---

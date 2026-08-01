@@ -10,6 +10,7 @@ date: &id001 2026-07-25
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-25 05:46:31+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Universal Coupling Response (Refine-Delta Verify)

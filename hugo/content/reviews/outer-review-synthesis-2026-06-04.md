@@ -12,6 +12,7 @@ description: Cross-review synthesis of 3 outer reviews from 2026-06-04 on clinic
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-04 04:42:22+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

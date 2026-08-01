@@ -7,6 +7,7 @@ concepts: []
 created: 2026-07-13
 date: '2026-07-13'
 draft: false
+lastmod: 2026-07-13 01:30:00+00:00
 related_articles: []
 title: Research Notes - Logical (Analytical) Behaviourism and Ryle's Category Mistake
 ---

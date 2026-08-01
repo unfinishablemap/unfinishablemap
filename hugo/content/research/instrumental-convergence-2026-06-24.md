@@ -15,6 +15,7 @@ description: Research note on Bostrom's orthogonality thesis and instrumental co
 draft: false
 last_curated: null
 last_deep_review: null
+lastmod: 2026-06-24 00:00:00+00:00
 related_articles:
 - topics/dualism-as-ai-risk-mitigation
 - topics/purpose-and-alignment

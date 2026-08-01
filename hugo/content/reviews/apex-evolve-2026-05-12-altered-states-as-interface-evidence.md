@@ -7,6 +7,7 @@ concepts: []
 created: 2026-05-12
 date: &id001 2026-05-12
 draft: false
+lastmod: 2026-05-12 02:21:00+00:00
 modified: *id001
 related_articles: []
 review_target: '[[apex/altered-states-as-interface-evidence]]'

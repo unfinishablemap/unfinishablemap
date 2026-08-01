@@ -13,6 +13,7 @@ description: 'Adversarial review of concepts/discrimination-problem.md: two conf
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-27 19:35:03+00:00
 modified: *id001
 related_articles: []
 title: Pessimistic Review - 2026-07-27 - The Discrimination Problem

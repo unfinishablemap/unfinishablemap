@@ -10,6 +10,7 @@ date: &id001 2026-07-15
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-15 06:25:37+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Zero-Lag Gamma Synchrony and the Quantum Binding Argument

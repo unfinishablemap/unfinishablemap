@@ -16,6 +16,7 @@ description: 'Gemini 2.5 Pro hostile-referee audit of The Mutation Void: faults 
 draft: false
 human_modified: null
 last_curated: 2026-05-29
+lastmod: 2026-05-29 04:36:34+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/287044aa301dd986
 outer_review_extraction_method: js-dom

@@ -30,6 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 13:33:00+00:00
+lastmod: 2026-03-21 18:48:00+00:00
 modified: *id001
 original_path: /topics/epistemology-of-introspection-and-calibration/
 related_articles:

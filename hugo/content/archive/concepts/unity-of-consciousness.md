@@ -35,6 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-28 17:46:00+00:00
+lastmod: 2026-02-05 07:01:00+00:00
 modified: *id001
 original_path: /concepts/unity-of-consciousness/
 related_articles:

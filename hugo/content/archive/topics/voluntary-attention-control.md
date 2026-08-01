@@ -17,6 +17,7 @@ date: &id001 2026-01-23
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-01-23 00:10:21+00:00
 modified: *id001
 original_path: /topics/voluntary-attention-control/
 related_articles:

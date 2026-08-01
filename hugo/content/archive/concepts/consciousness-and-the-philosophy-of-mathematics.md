@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-01 09:56:00+00:00
+lastmod: 2026-05-25 16:42:05+00:00
 modified: *id001
 original_path: /concepts/consciousness-and-the-philosophy-of-mathematics/
 related_articles:

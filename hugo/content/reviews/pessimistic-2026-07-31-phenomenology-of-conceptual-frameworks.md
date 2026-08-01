@@ -13,6 +13,7 @@ description: Adversarial review of topics/phenomenology-of-conceptual-frameworks
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-31 01:05:08+00:00
 modified: *id001
 related_articles:
 - '[[phenomenology-of-conceptual-frameworks]]'

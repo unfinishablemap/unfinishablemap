@@ -13,6 +13,7 @@ description: Third deep review of phantom-limb-phenomena.md. Citation web-verify
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-03 22:30:32+00:00
 modified: *id001
 related_articles:
 - '[[phantom-limb-phenomena]]'

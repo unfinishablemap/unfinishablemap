@@ -6,6 +6,7 @@ concepts: []
 created: 2026-01-24
 date: &id001 2026-01-24
 draft: false
+lastmod: 2026-06-19 08:44:11+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Dopamine's Dual Role in Attention-Motor-Quantum Interface

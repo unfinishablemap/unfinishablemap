@@ -15,6 +15,7 @@ description: 'The Map''s positions on its own method: the tenet-register / evide
 draft: false
 human_modified: null
 last_curated: 2026-06-22
+lastmod: 2026-07-28 11:04:29+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

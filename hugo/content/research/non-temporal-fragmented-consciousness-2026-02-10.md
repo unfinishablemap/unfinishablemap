@@ -14,6 +14,7 @@ description: Research notes on whether consciousness can be non-temporal or genu
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-10 10:28:00+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Non-Temporal and Fragmented Consciousness

@@ -7,6 +7,7 @@ concepts: []
 created: 2026-05-18
 date: &id001 2026-05-18
 draft: false
+lastmod: 2026-05-18 10:30:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: The Introspection-Architecture Void Cluster (create)'

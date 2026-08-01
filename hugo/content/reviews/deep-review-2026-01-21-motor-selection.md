@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-21
 date: '2026-01-31'
 draft: false
+lastmod: 2026-01-31 00:00:00+00:00
 related_articles: []
 title: Deep Review - Motor Selection and the Quantum Zeno Effect
 ---

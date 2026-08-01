@@ -5,6 +5,7 @@ concepts: []
 created: 2026-05-26
 date: '2026-06-22'
 draft: false
+lastmod: 2026-06-22 00:00:00+00:00
 related_articles:
 - '[[concepts/concession-convergence]]'
 title: Research Notes - Non-Western Physicalist Theories and the Concession-Convergence

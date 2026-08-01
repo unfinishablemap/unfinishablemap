@@ -10,6 +10,7 @@ date: &id001 2026-05-14
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-14 15:41:00+00:00
 modified: *id001
 related_articles:
 - '[[voids/decision-void]]'

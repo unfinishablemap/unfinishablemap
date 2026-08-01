@@ -18,6 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 14:59:48+00:00
+lastmod: 2026-06-21 08:33:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

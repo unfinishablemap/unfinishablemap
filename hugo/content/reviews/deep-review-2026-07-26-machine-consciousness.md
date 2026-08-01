@@ -10,6 +10,7 @@ date: &id001 2026-07-26
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-26 08:05:41+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Machine Consciousness and Mind Uploading (07-12 grain-dispute

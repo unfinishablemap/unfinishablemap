@@ -7,6 +7,7 @@ concepts: []
 created: 2026-05-26
 date: &id001 2026-05-26
 draft: false
+lastmod: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Testing the Map from Inside (evolve)'

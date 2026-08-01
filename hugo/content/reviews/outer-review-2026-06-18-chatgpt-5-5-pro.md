@@ -15,6 +15,7 @@ description: 'ChatGPT 5.5 Pro audit of Quantum State Inheritance in AI: argument
 draft: false
 human_modified: null
 last_curated: 2026-06-18
+lastmod: 2026-06-18 04:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3351dc-adc0-832b-b77b-df06eb471a13
 outer_review_extraction_method: js-dom

@@ -12,6 +12,7 @@ description: Minimal tune-system pass — aborted heavy analysis because the pre
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-19 13:55:00+00:00
 modified: *id001
 related_articles:
 - '[[todo]]'

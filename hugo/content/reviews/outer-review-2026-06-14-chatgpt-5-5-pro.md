@@ -14,6 +14,7 @@ description: 'ChatGPT 5.5 Pro outer review of qm-interpretations-beyond-many-wor
 draft: false
 human_modified: null
 last_curated: 2026-06-14
+lastmod: 2026-06-14 03:55:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a2e0be5-be04-832d-8c51-718cfe3c0f35
 outer_review_extraction_method: js-dom

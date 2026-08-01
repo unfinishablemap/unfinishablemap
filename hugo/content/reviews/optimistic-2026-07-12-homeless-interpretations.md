@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-12
 date: '2026-07-12'
 draft: false
+lastmod: 2026-07-12 00:00:00+00:00
 related_articles: []
 title: Optimistic Review - 2026-07-12 (homeless-interpretations)
 ---

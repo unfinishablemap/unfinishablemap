@@ -13,6 +13,7 @@ description: The Map's scoped verdict on epiphenomenalism is stated in four live
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 05:23:59+00:00
 modified: *id001
 related_articles:
 - '[[concepts/epiphenomenalism]]'

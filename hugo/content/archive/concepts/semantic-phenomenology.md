@@ -22,6 +22,7 @@ description: The felt quality of meaning—what it's like to grasp concepts, und
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-02 00:56:00+00:00
 modified: *id001
 original_path: /concepts/semantic-phenomenology/
 related_articles:

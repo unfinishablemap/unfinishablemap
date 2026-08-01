@@ -18,6 +18,7 @@ description: 'ChatGPT 5.5 Pro referee audit of assessing-ai-consciousness-under-
 draft: false
 human_modified: null
 last_curated: 2026-06-25
+lastmod: 2026-06-25 07:55:37+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3c8d94-14ec-83eb-8e24-3b2593c90cf8
 outer_review_extraction_method: js-dom

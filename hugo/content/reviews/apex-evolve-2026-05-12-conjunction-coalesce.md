@@ -8,6 +8,7 @@ concepts: []
 created: 2026-05-12
 date: &id001 2026-05-12
 draft: false
+lastmod: 2026-05-12 03:35:00+00:00
 modified: *id001
 related_articles:
 - '[[conjunction-coalesce]]'

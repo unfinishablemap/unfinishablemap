@@ -23,6 +23,7 @@ draft: false
 human_modified: 2026-05-05
 last_curated: null
 last_deep_review: null
+lastmod: 2026-05-05 23:35:00+00:00
 modified: *id001
 related_articles:
 - topics/ai-consciousness

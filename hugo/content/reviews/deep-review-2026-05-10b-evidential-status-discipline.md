@@ -13,6 +13,7 @@ description: Convergence-confirmation deep review of evidential-status-disciplin
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-11 14:02:00+00:00
 modified: *id001
 related_articles:
 - '[[project/evidential-status-discipline]]'

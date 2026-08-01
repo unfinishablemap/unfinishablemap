@@ -10,6 +10,7 @@ date: &id001 2026-06-03
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-03 12:48:47+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Direction-of-Interface-Change Signatures

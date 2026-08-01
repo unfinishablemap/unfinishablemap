@@ -14,6 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:58:49+00:00
+lastmod: 2026-07-31 13:34:50+00:00
 modified: *id001
 related_articles: []
 title: 'Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition'

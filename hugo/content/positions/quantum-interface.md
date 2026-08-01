@@ -17,6 +17,7 @@ description: 'The Map''s positions on the consciousness–quantum interface: mec
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
+lastmod: 2026-07-31 08:09:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

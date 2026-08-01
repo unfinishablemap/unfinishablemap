@@ -20,6 +20,7 @@ description: 'ChatGPT 5.6 Pro audit of concepts/panpsychism: verdict is major re
 draft: false
 human_modified: null
 last_curated: 2026-07-25
+lastmod: 2026-07-25 03:53:41+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6419c0-3904-83eb-9b8b-8e5ec033912e
 outer_review_extraction_method: js-dom

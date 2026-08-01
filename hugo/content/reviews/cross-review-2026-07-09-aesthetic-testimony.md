@@ -8,6 +8,7 @@ concepts: []
 created: 2026-07-09
 date: &id001 2026-07-09
 draft: false
+lastmod: 2026-07-09 05:21:10+00:00
 modified: *id001
 related_articles: []
 review_target: '[[aesthetic-testimony-and-the-acquaintance-principle]]'

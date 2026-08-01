@@ -7,6 +7,7 @@ concepts: []
 created: 2026-07-11
 date: '2026-07-11'
 draft: false
+lastmod: 2026-07-11 11:05:00+00:00
 related_articles: []
 title: 'Research Notes: Recurrent Processing Theory of Consciousness'
 ---

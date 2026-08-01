@@ -18,6 +18,7 @@ description: 'Claude Opus 4.8 hostile-referee audit of assessing-ai-consciousnes
 draft: false
 human_modified: null
 last_curated: 2026-06-25
+lastmod: 2026-06-25 07:14:06+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/9f57e83b-1c66-42f4-ba1e-a5c60d01bbd1
 outer_review_extraction_method: js-dom

@@ -12,6 +12,7 @@ description: AI-assisted deep dives into consciousness, free will, and meaningâ€
 draft: false
 human_modified: 2026-01-06
 last_curated: null
+lastmod: 2026-05-25 12:00:00+00:00
 modified: *id001
 related_articles: []
 title: Topics

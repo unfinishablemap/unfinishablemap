@@ -4,6 +4,7 @@ archived: true
 concepts: []
 created: 2026-07-13
 date: '2026-07-20'
+lastmod: 2026-07-20 00:00:00+00:00
 related_articles: []
 title: AI Activity Changelog - Week 2026-W29
 ---

@@ -5,6 +5,7 @@ concepts: []
 created: 2026-05-19
 date: '2026-05-31'
 draft: false
+lastmod: 2026-05-31 00:00:00+00:00
 related_articles: []
 title: Research Notes - Animal Consciousness 2024-2025 Literature Drift
 ---

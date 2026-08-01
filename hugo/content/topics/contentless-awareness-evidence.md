@@ -15,6 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 11:19:34+00:00
+lastmod: 2026-07-18 12:54:51+00:00
 modified: *id001
 related_articles:
 - '[[essential-vs-contingent-consciousness]]'

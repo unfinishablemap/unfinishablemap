@@ -20,6 +20,7 @@ description: Beauty requires a mind. Exploring the ontological dependence of aes
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-17 06:42:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-aesthetic-value/
 related_articles:

@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-25 14:41:00+00:00
+lastmod: 2026-02-25 15:22:00+00:00
 modified: *id001
 original_path: /voids/the-unobservable-self/
 related_articles:

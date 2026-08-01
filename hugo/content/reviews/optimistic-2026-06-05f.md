@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-05
 date: '2026-06-05'
 draft: false
+lastmod: 2026-06-05 00:00:00+00:00
 related_articles: []
 title: Optimistic Review - 2026-06-05f
 ---

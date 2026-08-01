@@ -6,6 +6,7 @@ concepts: []
 created: 2026-01-06
 date: '2026-01-29'
 draft: false
+lastmod: 2026-01-29 13:45:00+00:00
 related_articles: []
 title: Research Notes - Arguments Against Materialism/Physicalism
 ---

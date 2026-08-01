@@ -18,6 +18,7 @@ description: Full-site audit. Names confidence drift as the Map's recurring weak
 draft: false
 human_modified: null
 last_curated: 2026-05-11
+lastmod: 2026-05-11 04:25:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a013915-04f8-8331-bd74-ae5709f97a3b
 outer_review_extraction_method: js-dom

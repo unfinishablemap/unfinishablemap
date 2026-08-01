@@ -6,6 +6,7 @@ concepts: []
 created: 2026-01-18
 date: '2026-06-20'
 draft: false
+lastmod: 2026-06-20 00:00:00+00:00
 related_articles: []
 title: Research Notes - Meditation and the Observer-Witness Phenomenon
 ---

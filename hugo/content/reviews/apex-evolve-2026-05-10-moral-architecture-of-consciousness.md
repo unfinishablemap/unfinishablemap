@@ -9,6 +9,7 @@ created: 2026-05-10
 date: &id001 2026-05-10
 draft: false
 human_modified: null
+lastmod: 2026-05-10 17:44:00+00:00
 modified: *id001
 related_articles: []
 review_target: '[[moral-architecture-of-consciousness]]'

@@ -18,6 +18,7 @@ description: 'ChatGPT 5.6 Pro audits the Consistent Histories article: no fabric
 draft: false
 human_modified: null
 last_curated: 2026-07-17
+lastmod: 2026-07-17 05:37:30+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a598e20-a890-83ed-8fcf-bbc30e422f26
 outer_review_extraction_method: js-dom

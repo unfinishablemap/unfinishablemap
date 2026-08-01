@@ -13,6 +13,7 @@ description: 'The who-counts wing: the criterion node, the engineered edge, the 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-08-01 16:05:00+00:00
 modified: *id001
 related_articles: []
 title: Optimistic Review - 2026-08-01 - Sentience-Boundary / Moral-Status Cluster

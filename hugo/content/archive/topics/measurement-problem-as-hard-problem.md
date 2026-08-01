@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 01:29:00+00:00
+lastmod: 2026-02-23 01:29:00+00:00
 modified: *id001
 original_path: /topics/measurement-problem-as-hard-problem/
 related_articles:

@@ -10,6 +10,7 @@ date: &id001 2026-07-27
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-27 13:54:04+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Anomalous Monism and the Denial of Strict Psychophysical Laws

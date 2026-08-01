@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-19
+lastmod: 2026-01-25 11:16:00+00:00
 modified: *id001
 original_path: /concepts/emotional-consciousness/
 related_articles:

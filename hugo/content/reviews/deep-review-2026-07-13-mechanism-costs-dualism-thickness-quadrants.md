@@ -10,6 +10,7 @@ date: &id001 2026-07-13
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-13 05:34:59+00:00
 modified: *id001
 related_articles:
 - '[[mechanism-costs-dualism-thickness-quadrants]]'

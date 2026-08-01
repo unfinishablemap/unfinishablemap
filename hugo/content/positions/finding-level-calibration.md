@@ -15,6 +15,7 @@ description: 'The Map''s position on calibration at the grain of a single findin
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 22:40:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

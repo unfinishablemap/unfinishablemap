@@ -21,6 +21,7 @@ draft: false
 human_modified: 2026-04-21
 last_curated: null
 last_deep_review: null
+lastmod: 2026-04-21 09:50:00+00:00
 modified: *id001
 related_articles:
 - topics/russellian-monism-versus-bi-aspectual-dualism

@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-23 20:23:00+00:00
+lastmod: 2026-04-24 00:33:00+00:00
 modified: *id001
 original_path: /voids/understanding-void/
 related_articles:

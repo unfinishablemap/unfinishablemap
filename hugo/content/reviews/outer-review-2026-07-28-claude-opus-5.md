@@ -18,6 +18,7 @@ description: 'Claude Opus 5 audits concepts/inverted-qualia: REVISE-HARD on Shoe
 draft: false
 human_modified: null
 last_curated: 2026-07-28
+lastmod: 2026-07-28 04:50:24+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/a886f36a-9712-48be-b956-46b5696c8535
 outer_review_extraction_method: js-dom

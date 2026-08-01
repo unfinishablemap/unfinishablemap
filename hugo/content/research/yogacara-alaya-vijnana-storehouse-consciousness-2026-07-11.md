@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-11
 date: '2026-07-11'
 draft: false
+lastmod: 2026-07-11 04:52:00+00:00
 related_articles: []
 title: Research Notes - Yogacara Alaya-vijnana (Storehouse Consciousness) as a Substrate-Continuity
   Theory of Mind

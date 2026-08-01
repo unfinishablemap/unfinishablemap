@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-08
 date: '2026-07-08'
 draft: false
+lastmod: 2026-07-08 17:07:42+00:00
 related_articles: []
 title: Deep Review - Quantum Immortality and the Quantum-Suicide Survival Argument
   - 2026-07-08

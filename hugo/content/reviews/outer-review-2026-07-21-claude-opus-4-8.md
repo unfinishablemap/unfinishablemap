@@ -15,6 +15,7 @@ description: 'Claude Opus 4.8 audit of the Phenomenal Conservatism article: verd
 draft: false
 human_modified: null
 last_curated: 2026-07-21
+lastmod: 2026-07-21 06:49:10+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/b1fa24ce-e69a-4fd9-bf18-d4408d49080c
 outer_review_extraction_method: js-dom

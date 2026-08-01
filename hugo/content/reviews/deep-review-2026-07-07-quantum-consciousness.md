@@ -10,6 +10,7 @@ date: &id001 2026-07-07
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-07 09:54:45+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'

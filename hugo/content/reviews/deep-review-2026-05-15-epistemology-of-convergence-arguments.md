@@ -10,6 +10,7 @@ date: &id001 2026-05-15
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-15 11:53:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Epistemology of Convergence Arguments

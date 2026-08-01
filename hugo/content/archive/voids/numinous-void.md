@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-16 12:28:00+00:00
+lastmod: 2026-04-16 12:28:00+00:00
 modified: *id001
 original_path: /voids/numinous-void/
 related_articles:

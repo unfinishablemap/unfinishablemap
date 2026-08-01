@@ -15,6 +15,7 @@ description: 'Adversarial audit of the Chinese Room article (REVISE-HARD): co-op
 draft: false
 human_modified: null
 last_curated: 2026-07-19
+lastmod: 2026-07-19 04:18:11+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/0c3cec7b-417b-4f22-94bf-b35472d787e0
 outer_review_extraction_method: js-dom

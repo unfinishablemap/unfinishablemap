@@ -10,6 +10,7 @@ date: &id001 2026-05-09
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-09 08:35:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-variation-within-a-species]]'

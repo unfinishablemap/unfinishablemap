@@ -14,6 +14,7 @@ description: Gemini 2.5 Pro hostile-referee review of the Duhem-Quine underdeter
 draft: false
 human_modified: null
 last_curated: 2026-06-07
+lastmod: 2026-06-07 05:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/d7c55b6f9773d65e
 outer_review_extraction_method: js-dom

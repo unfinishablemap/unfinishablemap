@@ -6,6 +6,7 @@ concepts: []
 created: 2026-06-02
 date: '2026-06-02'
 draft: false
+lastmod: 2026-06-02 18:30:00+00:00
 related_articles: []
 title: 'Apex Evolve Review: Identity Across Transformations'
 ---

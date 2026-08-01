@@ -10,6 +10,7 @@ date: &id001 2026-06-01
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-01 09:30:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Mental Imagery and Consciousness (Citation Web-Verification Pass)

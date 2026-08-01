@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:27:53+00:00
+lastmod: 2026-07-09 07:15:52+00:00
 modified: *id001
 original_path: /topics/everyday-aesthetics/
 related_articles:

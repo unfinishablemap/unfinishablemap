@@ -29,6 +29,7 @@ description: How meditation phenomenology and neuroplasticity distinguish betwee
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 16:30:44+00:00
 modified: *id001
 original_path: /topics/contemplative-evidence-and-verification/
 related_articles:

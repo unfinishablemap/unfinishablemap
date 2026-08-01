@@ -23,6 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-25 00:55:00+00:00
+lastmod: 2026-03-25 00:55:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-the-metaphysics-of-laws/
 related_articles:

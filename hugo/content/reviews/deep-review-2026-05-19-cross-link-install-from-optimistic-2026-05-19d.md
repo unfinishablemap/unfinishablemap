@@ -10,6 +10,7 @@ date: &id001 2026-05-19
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-19 16:28:35+00:00
 modified: *id001
 related_articles:
 - '[[optimistic-2026-05-19d]]'

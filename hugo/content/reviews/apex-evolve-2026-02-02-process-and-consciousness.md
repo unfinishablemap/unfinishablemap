@@ -5,6 +5,7 @@ concepts: []
 created: 2026-02-02
 date: &id001 2026-02-02
 draft: false
+lastmod: 2026-02-02 10:10:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolution Review: Process and Consciousness'

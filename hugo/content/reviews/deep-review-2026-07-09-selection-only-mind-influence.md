@@ -10,6 +10,7 @@ date: &id001 2026-07-09
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-09 05:09:40+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Selection-Only Mind-Influence (convergence no-op; cosmetic-cross-link

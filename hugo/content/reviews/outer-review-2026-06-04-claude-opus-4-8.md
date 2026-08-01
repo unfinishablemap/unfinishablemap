@@ -18,6 +18,7 @@ description: 'Claude Opus 4.8 outer review of clinical-dissociation-as-systemati
 draft: false
 human_modified: null
 last_curated: 2026-06-04
+lastmod: 2026-06-04 04:15:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/392f9acf-9601-4834-a3ec-364c12ce23e2
 outer_review_extraction_method: js-dom

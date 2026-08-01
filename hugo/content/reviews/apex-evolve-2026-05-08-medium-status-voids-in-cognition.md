@@ -6,6 +6,7 @@ concepts: []
 created: 2026-05-08
 date: &id001 2026-05-08
 draft: false
+lastmod: 2026-05-08 11:54:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Medium-Status Voids in Cognition'

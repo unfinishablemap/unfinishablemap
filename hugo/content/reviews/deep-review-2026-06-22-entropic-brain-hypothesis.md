@@ -13,6 +13,7 @@ date: &id001 2026-06-22
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-22 16:48:43+00:00
 modified: *id001
 related_articles:
 - '[[psychedelics-and-the-filter-model]]'

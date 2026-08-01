@@ -20,6 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-11 21:59:00+00:00
+lastmod: 2026-03-11 21:59:00+00:00
 modified: *id001
 original_path: /voids/quantification-void/
 related_articles:

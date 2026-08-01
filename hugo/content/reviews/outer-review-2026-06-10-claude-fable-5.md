@@ -15,6 +15,7 @@ description: 'Claude Fable 5 audits the conjunction-coalesce apex method: real-b
 draft: false
 human_modified: null
 last_curated: 2026-06-10
+lastmod: 2026-06-10 05:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/5e8df593-54e5-441a-bda8-00821c1591cf
 outer_review_extraction_method: js-dom

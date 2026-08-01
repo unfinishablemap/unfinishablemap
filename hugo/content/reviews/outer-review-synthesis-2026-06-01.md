@@ -18,6 +18,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/lj8TU0R_dCY
 human_modified: null
 last_curated: null
+lastmod: 2026-06-06 20:01:57.999914+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

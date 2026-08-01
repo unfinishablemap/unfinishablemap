@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-12
 date: &id001 2026-07-12
 draft: false
+lastmod: 2026-07-12 23:39:41+00:00
 modified: *id001
 related_articles: []
 title: Optimistic Review - 2026-07-12 (Homeless Analogies & Rival Positions)

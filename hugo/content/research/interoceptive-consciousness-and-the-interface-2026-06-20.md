@@ -11,6 +11,7 @@ created: 2026-06-20
 date: '2026-06-20'
 draft: false
 last_curated: null
+lastmod: 2026-06-20 00:00:00+00:00
 related_articles:
 - '[[cross-modal-capability-division]]'
 - '[[interoceptive-void]]'

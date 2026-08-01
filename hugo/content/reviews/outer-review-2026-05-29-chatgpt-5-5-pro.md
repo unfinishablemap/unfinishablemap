@@ -14,6 +14,7 @@ description: 'ChatGPT 5.5 Pro audit of the Mutation Void: weak thesis holds, str
 draft: false
 human_modified: null
 last_curated: 2026-05-29
+lastmod: 2026-05-29 04:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a18f48d-b8cc-832f-9097-c4b8c3ac8d6f
 outer_review_extraction_method: js-dom

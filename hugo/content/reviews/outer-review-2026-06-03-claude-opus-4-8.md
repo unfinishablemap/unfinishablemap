@@ -18,6 +18,7 @@ description: 'Claude Opus 4.8 referee report on Consciousness and the Metaphysic
 draft: false
 human_modified: null
 last_curated: 2026-06-03
+lastmod: 2026-06-03 04:35:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/0686101e-b492-4349-b893-c091fb2bd51b
 outer_review_extraction_method: js-dom

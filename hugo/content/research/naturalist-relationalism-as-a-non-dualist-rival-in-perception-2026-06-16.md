@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-16
 date: '2026-06-16'
 draft: false
+lastmod: 2026-06-16 00:00:00+00:00
 related_articles: []
 title: Research Notes - Naturalist Relationalism as a Non-Dualist Rival in Perception
 ---

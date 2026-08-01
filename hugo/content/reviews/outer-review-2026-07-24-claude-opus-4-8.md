@@ -16,6 +16,7 @@ description: 'Adversarial Claude Opus 4.8 audit of Volitional Control: citations
 draft: false
 human_modified: null
 last_curated: 2026-07-24
+lastmod: 2026-07-24 06:25:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/f55dc06d-7f63-4945-93c4-47a485ab7d2e
 outer_review_extraction_method: js-dom

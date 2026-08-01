@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-18 20:34:00+00:00
+lastmod: 2026-03-18 20:34:00+00:00
 modified: *id001
 original_path: /voids/architecture-of-cognitive-closure/
 related_articles:

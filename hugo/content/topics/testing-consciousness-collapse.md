@@ -31,6 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:16:42+00:00
+lastmod: 2026-07-29 10:15:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

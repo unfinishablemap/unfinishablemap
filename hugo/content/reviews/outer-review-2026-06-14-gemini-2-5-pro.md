@@ -16,6 +16,7 @@ description: Gemini 2.5 Pro hostile-referee audit of qm-interpretations-beyond-m
 draft: false
 human_modified: null
 last_curated: 2026-06-14
+lastmod: 2026-06-14 05:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/89cd36e0bd18753e
 outer_review_extraction_method: js-dom

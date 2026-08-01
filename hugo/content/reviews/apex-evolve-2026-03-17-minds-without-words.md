@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-17
 date: &id001 2026-03-17
 draft: false
+lastmod: 2026-03-17 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Minds Without Words'

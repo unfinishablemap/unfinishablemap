@@ -16,6 +16,7 @@ description: 'Gemini 2.5 Pro Deep Research on topics/phantom-limb-phenomena.md. 
 draft: false
 human_modified: null
 last_curated: 2026-05-16
+lastmod: 2026-05-16 11:40:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/43f865fd7566eb80
 outer_review_extraction_method: js-dom

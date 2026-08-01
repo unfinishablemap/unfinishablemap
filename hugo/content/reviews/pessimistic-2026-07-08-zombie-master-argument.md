@@ -6,6 +6,7 @@ created: 2026-07-08
 date: '2026-07-08'
 draft: false
 last_deep_review: null
+lastmod: 2026-07-08 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-07-08 - The Zombie Master Argument
 ---

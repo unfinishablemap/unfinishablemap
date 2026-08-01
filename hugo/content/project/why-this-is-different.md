@@ -19,6 +19,7 @@ embedded_videos:
 human_modified: 2026-05-03
 last_curated: null
 last_deep_review: 2026-06-26 00:00:00+00:00
+lastmod: 2026-06-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

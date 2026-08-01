@@ -21,6 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-17 21:30:00+00:00
+lastmod: 2026-03-18 19:49:00+00:00
 modified: *id001
 original_path: /topics/godel-measurement-problem-analogy/
 related_articles:

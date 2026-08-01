@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-12
 date: '2026-07-12'
 draft: false
+lastmod: 2026-07-12 00:00:00+00:00
 related_articles: []
 title: Research Notes - Bohm's Implicate Order and Active Information
 ---

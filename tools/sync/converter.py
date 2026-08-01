@@ -1,11 +1,12 @@
 """Convert Obsidian markdown files to Hugo-compatible format."""
 
+import datetime
 import logging
 import re
 import shutil
 import sys
 from pathlib import Path
-from typing import Optional
+from typing import Any, Optional
 
 import frontmatter
 
@@ -18,6 +19,102 @@ from .wikilinks import (
 )
 
 log = logging.getLogger(__name__)
+
+# Frontmatter fields consulted to derive Hugo's `lastmod`, in no particular
+# order -- the maximum wins. `date` is included only as a floor so that a page
+# never advertises a modification date earlier than its publication date.
+LASTMOD_SOURCE_FIELDS = ("ai_modified", "human_modified", "modified", "date")
+
+
+def _to_utc_datetime(value: Any) -> Optional[datetime.datetime]:
+    """
+    Normalise a frontmatter date-ish value to a timezone-aware UTC datetime.
+
+    Frontmatter dates arrive as a mix of `datetime.date` (from bare `2026-05-18`),
+    timezone-aware `datetime.datetime` (from `2026-08-01T18:28:07+00:00`), naive
+    `datetime.datetime`, and occasionally strings. Normalising every one of them
+    to tz-aware UTC means callers can compare them without risking the
+    "can't compare offset-naive and offset-aware datetimes" TypeError.
+
+    Returns None for values that cannot be interpreted as a date.
+    """
+    if value is None:
+        return None
+
+    # NOTE: datetime.datetime is a subclass of datetime.date, so check it first.
+    if isinstance(value, datetime.datetime):
+        if value.tzinfo is None:
+            return value.replace(tzinfo=datetime.timezone.utc)
+        return value.astimezone(datetime.timezone.utc)
+
+    if isinstance(value, datetime.date):
+        return datetime.datetime(
+            value.year, value.month, value.day, tzinfo=datetime.timezone.utc
+        )
+
+    if isinstance(value, str):
+        text = value.strip()
+        if not text:
+            return None
+        # `fromisoformat` on Python 3.10 does not accept a trailing 'Z'.
+        try:
+            parsed = datetime.datetime.fromisoformat(text.replace("Z", "+00:00"))
+        except ValueError:
+            try:
+                day = datetime.date.fromisoformat(text[:10])
+            except ValueError:
+                return None
+            return datetime.datetime(
+                day.year, day.month, day.day, tzinfo=datetime.timezone.utc
+            )
+        if parsed.tzinfo is None:
+            return parsed.replace(tzinfo=datetime.timezone.utc)
+        return parsed.astimezone(datetime.timezone.utc)
+
+    return None
+
+
+def derive_lastmod(metadata: dict) -> Optional[datetime.datetime]:
+    """
+    Compute the true last-modified timestamp for a page.
+
+    Hugo's default `.Lastmod` cascade is `lastmod` -> `modified` -> `date`, but
+    the Map never maintains `modified` (CLAUDE.md's Authorship Tracking section
+    tells agents to bump `ai_modified`, and the Obsidian plugin maintains
+    `human_modified`; `modified` is written once at creation). Left alone, every
+    served `dateModified`, `article:modified_time`, sitemap `<lastmod>` and
+    section-index "last modified" column is pinned to the creation date.
+
+    Deriving `lastmod` at sync time from the fields that *are* maintained keeps
+    the fix in one place and makes the served value self-evident in the synced
+    file, rather than depending on a Hugo config cascade that no Python test
+    covers.
+
+    Returns None only when the page carries no interpretable date at all.
+    """
+    candidates = [
+        normalised
+        for field in LASTMOD_SOURCE_FIELDS
+        if (normalised := _to_utc_datetime(metadata.get(field))) is not None
+    ]
+    if not candidates:
+        return None
+    winner = max(candidates)
+    # Return a fresh object rather than the winning input. `_to_utc_datetime` can
+    # hand back the very object stored under `ai_modified` (astimezone() is a
+    # no-op on an already-UTC datetime), and PyYAML would then serialise
+    # `lastmod` as an anchor/alias pair -- correct YAML, but it renumbers every
+    # anchor in the file and buries the real change in diff noise.
+    return datetime.datetime(
+        winner.year,
+        winner.month,
+        winner.day,
+        winner.hour,
+        winner.minute,
+        winner.second,
+        winner.microsecond,
+        tzinfo=datetime.timezone.utc,
+    )
 
 
 def convert_obsidian_to_hugo(
@@ -247,10 +344,17 @@ def convert_file(
         if "modified" in post.metadata:
             post.metadata["date"] = post.metadata["modified"]
         else:
-            import datetime
-
             mtime = source_path.stat().st_mtime
             post.metadata["date"] = datetime.date.fromtimestamp(mtime).isoformat()
+
+    # Always derive `lastmod` so Hugo's default cascade (lastmod -> modified -> date)
+    # resolves to a maintained field. `date` stays untouched: it is the
+    # creation/publication date and feeds section ordering and JSON-LD
+    # `datePublished`. See derive_lastmod() for why this is computed rather than
+    # stored in the Obsidian source.
+    lastmod = derive_lastmod(post.metadata)
+    if lastmod is not None:
+        post.metadata["lastmod"] = lastmod
 
     # Ensure authorship metadata exists (flat schema)
     if "ai_contribution" not in post.metadata:

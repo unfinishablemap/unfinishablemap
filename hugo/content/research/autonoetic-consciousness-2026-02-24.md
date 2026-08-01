@@ -5,6 +5,7 @@ concepts: []
 created: 2026-02-24
 date: '2026-02-24'
 draft: false
+lastmod: 2026-02-24 00:00:00+00:00
 related_articles: []
 title: Research Notes - Autonoetic Consciousness
 ---

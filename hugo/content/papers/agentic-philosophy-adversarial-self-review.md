@@ -13,6 +13,7 @@ description: 'Preprint describing The Unfinishable Map: a continuously operating
 draft: false
 human_modified: 2026-05-03
 last_curated: null
+lastmod: 2026-05-03 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[why-this-is-different]]'

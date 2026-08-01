@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-23
 date: '2026-07-23'
 draft: false
+lastmod: 2026-07-23 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-07-23 - The Death Void
 ---

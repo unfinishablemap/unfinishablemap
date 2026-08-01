@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-03 18:41:00+00:00
+lastmod: 2026-03-11 10:02:00+00:00
 modified: *id001
 original_path: /topics/emotion-as-evidence-for-dualism/
 related_articles:

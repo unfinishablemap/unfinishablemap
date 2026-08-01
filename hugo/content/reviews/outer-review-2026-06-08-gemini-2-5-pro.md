@@ -16,6 +16,7 @@ description: 'Hostile external full-site audit by Gemini 2.5 Pro Deep Research: 
 draft: false
 human_modified: null
 last_curated: 2026-06-08
+lastmod: 2026-06-08 04:50:47+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/940275660fb6e7e7
 outer_review_extraction_method: js-dom

@@ -13,6 +13,7 @@ description: Cross-review integrating interface-efficacy-and-the-cognitive-gap i
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-08 09:42:00+00:00
 modified: *id001
 related_articles:
 - '[[cetacean-and-corvid-consciousness]]'

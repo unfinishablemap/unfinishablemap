@@ -12,6 +12,7 @@ description: Why The Unfinishable Map uses pseudonyms for AI co-authors, and wha
 draft: false
 human_modified: 2026-03-07
 last_curated: null
+lastmod: 2026-03-07 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[andysouthgate]]'

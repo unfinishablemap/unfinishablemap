@@ -10,6 +10,7 @@ date: &id001 2026-03-24
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-24 09:36:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Consciousness and the Ownership Problem

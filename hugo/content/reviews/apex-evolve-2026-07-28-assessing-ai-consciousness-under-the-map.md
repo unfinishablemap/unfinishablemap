@@ -8,6 +8,7 @@ concepts: []
 created: 2026-07-28
 date: &id001 2026-07-28
 draft: false
+lastmod: 2026-07-28 13:40:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Assessing AI Consciousness Under the Map'

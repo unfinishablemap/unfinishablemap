@@ -10,6 +10,7 @@ date: &id001 2026-07-19
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-19 12:30:46+00:00
 modified: *id001
 related_articles:
 - '[[explanatory-gap]]'

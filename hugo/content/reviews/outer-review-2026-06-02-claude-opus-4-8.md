@@ -15,6 +15,7 @@ description: 'Claude Opus 4.8 audit of the minimal-consciousness-void article: a
 draft: false
 human_modified: null
 last_curated: 2026-06-02
+lastmod: 2026-06-02 04:20:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/4f0a6958-a7f4-4d7a-b8d6-48ee7d8ef21d
 outer_review_extraction_method: js-dom

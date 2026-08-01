@@ -7,6 +7,7 @@ concepts: []
 created: 2026-03-09
 date: '2026-06-01'
 draft: false
+lastmod: 2026-06-01 00:00:00+00:00
 related_articles: []
 title: Research Notes - Perceptual Degradation and the Interface — What Blur Reveals
 ---

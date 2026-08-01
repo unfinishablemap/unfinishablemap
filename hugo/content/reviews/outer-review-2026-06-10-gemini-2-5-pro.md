@@ -18,6 +18,7 @@ description: 'Gemini 2.5 Pro hostile-referee audit of apex/conjunction-coalesce:
 draft: false
 human_modified: null
 last_curated: 2026-06-10
+lastmod: 2026-06-10 05:40:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/55feb042fd52f565
 outer_review_extraction_method: js-dom

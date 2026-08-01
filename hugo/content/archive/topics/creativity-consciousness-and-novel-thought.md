@@ -36,6 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-05 06:02:00+00:00
+lastmod: 2026-02-22 11:15:00+00:00
 modified: *id001
 original_path: /topics/creativity-consciousness-and-novel-thought/
 related_articles:

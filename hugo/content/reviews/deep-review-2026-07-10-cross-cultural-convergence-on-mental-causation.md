@@ -10,6 +10,7 @@ date: &id001 2026-07-10
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-10 07:39:05+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Cross-Cultural Convergence on Mental Causation

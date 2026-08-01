@@ -14,6 +14,7 @@ description: Hostile-referee outer review (Gemini 2.5 Pro) of the Leib/Körper a
 draft: false
 human_modified: null
 last_curated: 2026-07-24
+lastmod: 2026-07-24 00:18:50+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/9fc3b1dc586b22a1
 outer_review_extraction_method: js-dom

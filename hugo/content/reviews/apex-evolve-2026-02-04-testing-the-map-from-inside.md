@@ -4,6 +4,7 @@ ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-02-04
 date: '2026-02-04'
+lastmod: 2026-02-04 00:00:00+00:00
 related_articles: []
 title: 'Apex Evolve Review: Testing the Map from Inside'
 ---

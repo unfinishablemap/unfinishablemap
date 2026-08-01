@@ -10,6 +10,7 @@ description: Currency check on whether the anti-correlation probe's named-but-no
   design has been delivered by 2025-2026 interpretability. Ingredients partial; combined
   paradigm still undelivered.
 draft: false
+lastmod: 2026-07-07 20:52:09+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Anti-Correlation Probe Delivery Status (2025-2026)

@@ -17,6 +17,7 @@ description: 'Claude Opus 4.8 outer review of the Lived/Objectified Body distinc
 draft: false
 human_modified: null
 last_curated: 2026-07-23
+lastmod: 2026-07-23 01:47:19+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/47e1ad07-30bd-450f-b8f1-cabfd4a4d93a
 outer_review_extraction_method: js-dom

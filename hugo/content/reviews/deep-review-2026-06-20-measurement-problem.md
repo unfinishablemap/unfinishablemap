@@ -10,6 +10,7 @@ date: &id001 2026-06-20
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-20 06:05:00+00:00
 modified: *id001
 related_articles: []
 title: 'Deep Review - The Measurement Problem (11th pass: verify 2026-06-19 conclusion-strength

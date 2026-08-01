@@ -12,6 +12,7 @@ date: &id001 2026-07-08
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-08 03:14:11+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Mental Causation and Downward Causation

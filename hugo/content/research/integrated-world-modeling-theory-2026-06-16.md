@@ -6,6 +6,7 @@ concepts: []
 created: 2026-06-16
 date: '2026-06-16'
 draft: false
+lastmod: 2026-06-16 14:10:00+00:00
 related_articles: []
 title: Research Notes - Integrated World Modeling Theory (IWMT)
 ---

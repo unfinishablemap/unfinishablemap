@@ -14,6 +14,7 @@ description: 'Claude Opus 4.8 referee audit of The Ethics of Possible AI Conscio
 draft: false
 human_modified: null
 last_curated: 2026-06-27
+lastmod: 2026-06-27 04:14:05+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/13b2c583-64aa-4041-bcfb-69df9a031e3d
 outer_review_extraction_method: js-dom

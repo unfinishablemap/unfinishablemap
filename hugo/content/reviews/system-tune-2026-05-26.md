@@ -13,6 +13,7 @@ description: Minimal tune-system pass — aborted on cadence (last run ~18h ago,
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-26 23:36:00+00:00
 modified: *id001
 related_articles:
 - '[[todo]]'

@@ -10,6 +10,7 @@ date: &id001 2026-03-08
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-08 15:11:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Ethics of Cognitive Enhancement Under Dualism

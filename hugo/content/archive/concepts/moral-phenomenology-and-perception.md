@@ -32,6 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-25 09:43:00+00:00
+lastmod: 2026-03-28 06:42:00+00:00
 modified: *id001
 original_path: /concepts/moral-phenomenology-and-perception/
 related_articles:

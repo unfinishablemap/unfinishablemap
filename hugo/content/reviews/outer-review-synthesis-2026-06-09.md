@@ -15,6 +15,7 @@ description: Cross-review synthesis of three outer reviews from 2026-06-09 audit
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-09 05:17:40+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

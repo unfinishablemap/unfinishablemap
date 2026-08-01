@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-08
 date: '2026-07-08'
 draft: false
+lastmod: 2026-07-08 00:00:00+00:00
 related_articles: []
 title: Research Notes - The Enteric Nervous System and the Gut-Brain Distributed-Interface
   Question

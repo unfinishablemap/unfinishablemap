@@ -29,6 +29,7 @@ description: Meditation research integrates first-person phenomenology with thir
 draft: false
 last_curated: null
 last_deep_review: 2026-03-10 21:53:00+00:00
+lastmod: 2026-03-20 04:33:46+00:00
 modified: *id001
 original_path: /concepts/contemplative-neuroscience/
 related_articles:

@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-19
 date: '2026-07-19'
 draft: false
+lastmod: 2026-07-19 00:00:00+00:00
 related_articles: []
 title: Optimistic Review - 2026-07-19 (Non-Neural Competency Cluster)
 ---

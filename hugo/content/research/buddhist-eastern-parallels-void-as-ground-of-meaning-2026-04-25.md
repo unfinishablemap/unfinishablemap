@@ -10,6 +10,7 @@ date: &id001 2026-04-25
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-01 01:25:00+00:00
 modified: *id001
 related_articles:
 - '[[void-as-ground-of-meaning]]'

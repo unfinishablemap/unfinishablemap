@@ -6,6 +6,7 @@ concepts: []
 created: 2026-06-26
 date: '2026-06-26'
 draft: false
+lastmod: 2026-06-26 00:00:00+00:00
 related_articles: []
 title: Research Note (Decline) — Self-Luminosity (svaprakasha)
 ---

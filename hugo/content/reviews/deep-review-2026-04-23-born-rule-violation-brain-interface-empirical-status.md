@@ -10,6 +10,7 @@ date: &id001 2026-04-23
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-23 14:40:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Empirical Status of Born-Rule-Violating Consciousness-Physics

@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 10:06:00+00:00
+lastmod: 2026-02-22 11:15:00+00:00
 modified: *id001
 original_path: /topics/dreams-problem-solving-and-consciousness/
 related_articles:

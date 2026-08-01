@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-14 23:55:00+00:00
+lastmod: 2026-03-23 17:09:00+00:00
 modified: *id001
 original_path: /topics/phenomenal-conservatism-and-introspective-evidence/
 related_articles:

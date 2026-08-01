@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-16
 date: '2026-01-20'
 draft: false
+lastmod: 2026-01-20 00:00:00+00:00
 related_articles: []
 title: Research Notes - Collapse Before Minds (Early-Universe Outcome Selection)
 ---

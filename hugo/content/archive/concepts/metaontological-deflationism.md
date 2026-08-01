@@ -20,6 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-07 12:00:00+00:00
+lastmod: 2026-06-07 18:30:00+00:00
 modified: *id001
 original_path: /concepts/metaontological-deflationism/
 related_articles:

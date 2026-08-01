@@ -16,6 +16,7 @@ description: 'External Claude Opus 4.8 audit of Mapping Mind-Space: citations ve
 draft: false
 human_modified: null
 last_curated: 2026-06-06
+lastmod: 2026-06-06 04:40:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/acec28fc-9480-4568-8615-817e9e993c2c
 outer_review_extraction_method: js-dom

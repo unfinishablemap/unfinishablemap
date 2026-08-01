@@ -7,6 +7,7 @@ concepts: []
 created: 2026-03-12
 date: &id001 2026-03-12
 draft: false
+lastmod: 2026-03-12 03:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: The Open Question of AI Consciousness'

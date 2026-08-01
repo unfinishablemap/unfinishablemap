@@ -24,6 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-14 00:00:00+00:00
+lastmod: 2026-06-08 15:46:53.758433+00:00
 modified: *id001
 related_articles:
 - '[[birch-edge-of-sentience-and-the-five-tier-scale]]'

@@ -9,6 +9,7 @@ description: Research notes on alexithymia as a phenomenal-divergence condition 
   named patient-population test for the Map's common-cause null and introspection-architecture
   programme.
 draft: false
+lastmod: 2026-07-08 01:40:51+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Alexithymia as a Phenomenal-Divergence Condition

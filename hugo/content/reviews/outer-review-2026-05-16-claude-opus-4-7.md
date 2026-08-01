@@ -18,6 +18,7 @@ description: 'Claude Opus 4.7 audits topics/phantom-limb-phenomena.md. Headline:
 draft: false
 human_modified: null
 last_curated: 2026-05-16
+lastmod: 2026-05-16 11:30:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/316b92d7-c81b-41cb-971b-64b0f22249e4
 outer_review_extraction_method: js-dom

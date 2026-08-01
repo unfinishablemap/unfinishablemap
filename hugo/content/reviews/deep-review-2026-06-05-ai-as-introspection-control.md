@@ -10,6 +10,7 @@ date: &id001 2026-06-05
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-05 20:16:22+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - AI as Introspection Control, Not Just Consciousness Candidate

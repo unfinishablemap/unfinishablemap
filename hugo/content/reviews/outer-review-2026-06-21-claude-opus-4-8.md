@@ -17,6 +17,7 @@ description: 'Claude Opus 4.8 hostile audit of cross-domain-void-comparison: the
 draft: false
 human_modified: null
 last_curated: 2026-06-21
+lastmod: 2026-06-21 04:20:52+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/57f2904f-00f4-484f-8781-1ff870437e33
 outer_review_extraction_method: js-dom

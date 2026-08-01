@@ -16,6 +16,7 @@ description: 'Hostile-referee audit of consciousness-interface-development.md: d
 draft: false
 human_modified: null
 last_curated: 2026-06-20
+lastmod: 2026-06-20 04:20:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/e0d29bda-a2e4-46cc-a8f7-739caf408a30
 outer_review_extraction_method: js-dom

@@ -16,6 +16,7 @@ description: 'ChatGPT 5.5 Pro outer review of the Minimal Consciousness Void: co
 draft: false
 human_modified: null
 last_curated: 2026-06-02
+lastmod: 2026-06-02 04:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a1e3ab0-cc24-8325-b1f3-ba816e6456c2
 outer_review_extraction_method: js-dom

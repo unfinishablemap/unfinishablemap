@@ -5,6 +5,7 @@ ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-22
 date: '2026-06-22'
+lastmod: 2026-06-22 00:00:00+00:00
 related_articles: []
 review_type: apex-evolve
 target: apex/cross-modal-capability-division

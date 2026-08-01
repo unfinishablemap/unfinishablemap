@@ -10,6 +10,7 @@ date: &id001 2026-06-05
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-05 21:38:33+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Emotion and Dualism (4th review, affective-citation web-verify

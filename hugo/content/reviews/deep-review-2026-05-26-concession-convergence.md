@@ -11,6 +11,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Concession Convergence (6th)

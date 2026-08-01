@@ -10,6 +10,7 @@ date: &id001 2026-03-24
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-24 07:03:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Lucid Dreaming and the Evidence for Dualist Rendering

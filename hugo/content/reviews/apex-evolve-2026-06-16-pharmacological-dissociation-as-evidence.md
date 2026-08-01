@@ -10,6 +10,7 @@ date: &id001 2026-06-16
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-16 19:30:00+00:00
 modified: *id001
 related_articles:
 - '[[pharmacological-dissociation-as-evidence]]'

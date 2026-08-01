@@ -14,6 +14,7 @@ description: External review by ChatGPT 5.5 Pro on whether the Map's Duch integr
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-04 11:58:36+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69f88531-fba4-8329-aea9-289c25abffc0
 outer_review_extraction_method: js-dom

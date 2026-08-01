@@ -9,6 +9,7 @@ created: 2026-07-08
 date: &id001 2026-07-08
 draft: false
 human_modified: null
+lastmod: 2026-07-08 04:25:23+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Phenomenal Variation Within a Species'

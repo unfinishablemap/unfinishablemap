@@ -12,6 +12,7 @@ description: 'Eighth deep review (cross-review): adds phenomenology-vs-function-
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-29 02:05:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Knowledge Argument (Mary's Room)

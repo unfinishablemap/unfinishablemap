@@ -20,6 +20,7 @@ description: 'The Map''s positions on free will and agency: the agent-causal lib
 draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
+lastmod: 2026-07-30 14:25:27+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

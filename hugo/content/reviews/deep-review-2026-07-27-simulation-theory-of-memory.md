@@ -10,6 +10,7 @@ date: &id001 2026-07-27
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-27 00:34:01+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Simulation Theory of Memory

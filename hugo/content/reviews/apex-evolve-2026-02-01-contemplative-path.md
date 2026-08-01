@@ -6,6 +6,7 @@ concepts: []
 created: 2026-02-01
 date: &id001 2026-02-01
 draft: false
+lastmod: 2026-02-01 07:24:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolution Review: The Contemplative Path'

@@ -27,6 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:22:39+00:00
+lastmod: 2026-06-09 19:37:39+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'

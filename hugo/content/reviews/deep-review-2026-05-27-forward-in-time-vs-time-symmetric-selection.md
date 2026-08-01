@@ -10,6 +10,7 @@ date: &id001 2026-05-27
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-27 16:43:03+00:00
 modified: *id001
 related_articles:
 - '[[topics/forward-in-time-vs-time-symmetric-selection]]'

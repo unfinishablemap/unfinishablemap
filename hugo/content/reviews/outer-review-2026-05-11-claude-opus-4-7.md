@@ -20,6 +20,7 @@ description: 'Full-site audit by Claude Opus 4.7. Headline diagnoses: Tenets↔V
 draft: false
 human_modified: null
 last_curated: 2026-05-11
+lastmod: 2026-05-11 06:25:27+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/93cbb30f-161b-4f9c-96c2-7e779f3e2e83
 outer_review_extraction_method: js-dom

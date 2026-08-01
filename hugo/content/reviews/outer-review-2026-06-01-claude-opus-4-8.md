@@ -17,6 +17,7 @@ description: 'Claude Opus 4.8 full-site audit: the bias-without-deviation dilemm
 draft: false
 human_modified: null
 last_curated: 2026-06-01
+lastmod: 2026-06-01 04:25:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/0ad7e534-e2bf-4332-8d6d-454447740448
 outer_review_extraction_method: js-dom

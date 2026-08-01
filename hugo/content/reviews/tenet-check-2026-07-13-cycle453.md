@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-13
 date: '2026-07-13'
 draft: false
+lastmod: 2026-07-13 01:45:00+00:00
 related_articles: []
 title: Tenet Alignment Check - 2026-07-13 (cycle 453)
 ---

@@ -16,6 +16,7 @@ description: 'Gemini 2.5 Pro hostile referee report on volitional-control: flags
 draft: false
 human_modified: null
 last_curated: 2026-07-25
+lastmod: 2026-07-25 00:05:21+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/fbd4f8ea3dcf5533
 outer_review_extraction_method: js-dom

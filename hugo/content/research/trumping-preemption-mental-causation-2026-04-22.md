@@ -19,6 +19,7 @@ description: Research on Schaffer's trumping preemption and its use as a mechani
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-15 06:28:43+00:00
 modified: *id001
 related_articles:
 - '[[bradford-saad-delegatory-dualism-2026-01-28]]'

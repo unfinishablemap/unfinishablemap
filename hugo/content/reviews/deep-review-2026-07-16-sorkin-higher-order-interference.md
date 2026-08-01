@@ -10,6 +10,7 @@ date: &id001 2026-07-16
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-16 15:11:36+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Sorkin Higher-Order Interference and Quantum Measure Theory

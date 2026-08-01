@@ -16,6 +16,7 @@ description: 'Claude Opus 4.8 hostile-referee audit of consciousness-selecting-n
 draft: false
 human_modified: null
 last_curated: 2026-06-23
+lastmod: 2026-06-23 04:19:45+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/615a555b-7666-4508-96fb-819b766c0441
 outer_review_extraction_method: js-dom

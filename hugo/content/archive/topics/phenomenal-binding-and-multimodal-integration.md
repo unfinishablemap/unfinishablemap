@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-06 05:51:00+00:00
+lastmod: 2026-04-16 00:11:00+00:00
 modified: *id001
 original_path: /topics/phenomenal-binding-and-multimodal-integration/
 related_articles:

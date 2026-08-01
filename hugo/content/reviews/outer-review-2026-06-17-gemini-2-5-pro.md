@@ -15,6 +15,7 @@ description: Hostile-referee outer review of the synesthetic void by Gemini 2.5 
 draft: false
 human_modified: null
 last_curated: 2026-06-17
+lastmod: 2026-06-17 04:41:34+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/0186ef9a2100466f
 outer_review_extraction_method: js-dom

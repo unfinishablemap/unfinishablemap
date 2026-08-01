@@ -6,6 +6,7 @@ created: 2026-06-17
 date: &id001 2026-06-17
 draft: false
 last_curated: null
+lastmod: 2026-06-17 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[egocentric-presentism]]'

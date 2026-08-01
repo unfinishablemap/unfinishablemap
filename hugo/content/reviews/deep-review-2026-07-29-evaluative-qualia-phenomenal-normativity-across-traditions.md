@@ -13,6 +13,7 @@ description: 'Deep review of the five-tradition convergence article: the 07-28 d
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-29 08:37:54+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Evaluative Qualia and Phenomenal Normativity Across Traditions

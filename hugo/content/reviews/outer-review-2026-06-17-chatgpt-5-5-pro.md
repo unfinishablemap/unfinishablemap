@@ -15,6 +15,7 @@ description: 'ChatGPT 5.5 Pro hostile-referee audit of The Synesthetic Void: ver
 draft: false
 human_modified: null
 last_curated: 2026-06-17
+lastmod: 2026-06-17 03:47:28+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3200b4-d708-832e-8f7b-a1351d47bc75
 outer_review_extraction_method: js-dom

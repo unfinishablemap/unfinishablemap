@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-18 02:32:00+00:00
+lastmod: 2026-02-18 02:32:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-pain/
 related_articles:

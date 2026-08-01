@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-09
 date: '2026-06-05'
 draft: false
+lastmod: 2026-06-05 15:14:29+00:00
 related_articles: []
 title: Research Notes - Memory as Dual-Domain Capability
 ---

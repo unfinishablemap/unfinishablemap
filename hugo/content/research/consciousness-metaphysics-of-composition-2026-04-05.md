@@ -6,6 +6,7 @@ concepts: []
 created: 2026-04-05
 date: '2026-06-01'
 draft: false
+lastmod: 2026-06-01 00:00:00+00:00
 related_articles: []
 title: Research Notes - Consciousness and the Metaphysics of Composition
 ---

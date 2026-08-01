@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-11
 date: '2026-07-12'
 draft: false
+lastmod: 2026-07-12 00:00:00+00:00
 related_articles: []
 title: Research Notes - Attended Intermediate Representations (AIR) Theory of Consciousness
 ---

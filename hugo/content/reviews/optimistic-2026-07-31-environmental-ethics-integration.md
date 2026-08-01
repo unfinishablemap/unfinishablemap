@@ -14,6 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-07-31 16:20:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/phenomenal-normativity-environmental-ethics]]'

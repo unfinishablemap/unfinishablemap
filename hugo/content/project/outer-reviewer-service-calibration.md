@@ -14,6 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 20:18:09+00:00
+lastmod: 2026-06-26 20:18:09+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

@@ -16,6 +16,7 @@ description: Gemini 2.5 Pro hostile-referee review nominally of the illusionism 
 draft: false
 human_modified: null
 last_curated: 2026-06-09
+lastmod: 2026-06-09 05:10:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/666407a833e1ba42
 outer_review_extraction_method: js-dom

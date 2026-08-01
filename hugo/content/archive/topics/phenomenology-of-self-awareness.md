@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-25 22:26:00+00:00
+lastmod: 2026-03-28 21:11:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-self-awareness/
 related_articles:

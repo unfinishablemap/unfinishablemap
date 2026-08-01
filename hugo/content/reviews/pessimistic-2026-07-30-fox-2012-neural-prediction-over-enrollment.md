@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-30
 date: '2026-07-30'
 draft: false
+lastmod: 2026-07-30 12:36:02+00:00
 related_articles: []
 title: Pessimistic Review - 2026-07-30 - Fox et al. 2012 Neural-Prediction Over-Enrollment
 ---

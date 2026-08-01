@@ -18,6 +18,7 @@ description: Hostile referee audit of concepts/epistemology by Gemini 2.5 Pro De
 draft: false
 human_modified: null
 last_curated: 2026-07-29
+lastmod: 2026-07-29 04:51:55+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/39dee17225222576
 outer_review_extraction_method: js-dom

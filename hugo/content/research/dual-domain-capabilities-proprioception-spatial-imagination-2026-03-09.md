@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-09
 date: '2026-03-10'
 draft: false
+lastmod: 2026-03-10 19:53:00+00:00
 related_articles: []
 title: 'Research Notes - Dual-Domain Capabilities: Proprioception, Spatial Reasoning,
   Imagination'

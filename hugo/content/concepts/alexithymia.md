@@ -16,6 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 02:37:41+00:00
+lastmod: 2026-07-08 02:11:48+00:00
 modified: *id001
 related_articles:
 - emotion-and-dualism

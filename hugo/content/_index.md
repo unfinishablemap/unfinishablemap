@@ -13,6 +13,7 @@ description: A continuously reviewed philosophical framework investigating consc
 draft: false
 human_modified: 2026-05-03
 last_curated: null
+lastmod: 2026-05-03 12:46:07+00:00
 modified: *id001
 related_articles: []
 title: The Unfinishable Map

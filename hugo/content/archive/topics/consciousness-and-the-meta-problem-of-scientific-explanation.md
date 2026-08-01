@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-22 05:02:00+00:00
+lastmod: 2026-02-22 05:02:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-the-meta-problem-of-scientific-explanation/
 related_articles:

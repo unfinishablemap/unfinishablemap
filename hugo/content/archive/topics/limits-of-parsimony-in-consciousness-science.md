@@ -23,6 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 05:24:00+00:00
+lastmod: 2026-03-25 01:09:00+00:00
 modified: *id001
 original_path: /topics/limits-of-parsimony-in-consciousness-science/
 related_articles:

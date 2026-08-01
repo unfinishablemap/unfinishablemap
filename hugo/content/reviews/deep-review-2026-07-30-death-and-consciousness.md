@@ -10,6 +10,7 @@ date: &id001 2026-07-30
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 07:38:23+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Death and Consciousness

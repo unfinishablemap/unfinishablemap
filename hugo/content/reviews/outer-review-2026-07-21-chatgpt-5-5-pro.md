@@ -15,6 +15,7 @@ description: 'ChatGPT 5.6 Pro focused audit of phenomenal-conservatism: substant
 draft: false
 human_modified: null
 last_curated: 2026-07-21
+lastmod: 2026-07-21 04:28:45+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a5ed6ca-cfe4-83eb-a884-68e15dbd9c3f
 outer_review_extraction_method: js-dom

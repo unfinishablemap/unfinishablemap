@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-06
 date: '2026-07-06'
 draft: false
+lastmod: 2026-07-06 00:00:00+00:00
 related_articles: []
 title: Research Notes - Substance Causation and Lowe's Four-Category Ontology
 ---

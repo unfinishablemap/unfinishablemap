@@ -26,6 +26,7 @@ description: Since the Map's original survey of candidate interface sites, conve
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-28 21:46:49+00:00
 modified: *id001
 original_path: /topics/the-interface-location-problem-revisited/
 related_articles:

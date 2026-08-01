@@ -5,6 +5,7 @@ concepts: []
 created: 2026-04-25
 date: &id001 2026-04-25
 draft: false
+lastmod: 2026-04-25 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Pessimistic Review - 2026-04-25

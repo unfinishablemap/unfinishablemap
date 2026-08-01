@@ -22,6 +22,7 @@ description: Why do some experiences compel action while others merely inform? H
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-18 07:02:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-the-problem-of-normative-force/
 related_articles:

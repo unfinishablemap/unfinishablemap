@@ -7,6 +7,7 @@ concepts: []
 created: 2026-02-11
 date: &id001 2026-02-11
 draft: false
+lastmod: 2026-02-11 10:19:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Living with the Map'

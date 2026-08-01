@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 09:02:00+00:00
+lastmod: 2026-07-11 09:02:00+00:00
 modified: *id001
 original_path: /concepts/epistemicism-about-consciousness/
 related_articles:

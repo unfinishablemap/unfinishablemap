@@ -23,6 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-23 14:40:00+00:00
+lastmod: 2026-07-31 03:33:32+00:00
 modified: *id001
 original_path: /topics/born-rule-violation-brain-interface-empirical-status/
 related_articles:

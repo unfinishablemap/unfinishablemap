@@ -16,6 +16,7 @@ description: 'ChatGPT 5.5 Pro audit of psychedelics-and-the-filter-model: revise
 draft: false
 human_modified: null
 last_curated: 2026-05-14
+lastmod: 2026-05-14 04:45:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a05337b-a3b8-8330-a323-48323d844aa6
 outer_review_extraction_method: js-dom

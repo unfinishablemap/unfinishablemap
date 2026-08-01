@@ -16,6 +16,7 @@ description: 'Claude Opus 4.8 adversarial audit of the Consistent Histories arti
 draft: false
 human_modified: null
 last_curated: 2026-07-17
+lastmod: 2026-07-17 06:10:41+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/44cdc935-1965-46cb-8733-2ba6279e6d1b
 outer_review_extraction_method: js-dom

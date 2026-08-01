@@ -12,6 +12,7 @@ date: &id001 2026-02-10
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-04 09:12:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

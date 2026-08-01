@@ -18,6 +18,7 @@ description: Five commitments that bound every article on The Unfinishable Mapâ€
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
+lastmod: 2026-08-01 16:56:28+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'

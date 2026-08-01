@@ -6,6 +6,7 @@ concepts: []
 created: 2026-06-22
 date: '2026-06-22'
 draft: false
+lastmod: 2026-06-22 09:00:29+00:00
 related_articles: []
 title: 'Apex Evolve Review: The Born-Preserving Causal-Efficacy Problem (create)'
 ---

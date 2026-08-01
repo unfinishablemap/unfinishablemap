@@ -8,6 +8,7 @@ description: 'Two pieces of unrealised leverage in tonight''s inversion and conv
   work: an unregistered first-order convergence verdict, and a grain-dilemma resolution
   stranded in the wrong article.'
 draft: false
+lastmod: 2026-07-28 00:00:00+00:00
 related_articles: []
 title: Optimistic Review - 2026-07-28 (inversion / convergence cluster)
 ---

@@ -22,6 +22,7 @@ description: How moral properties appear in conscious experience—the gestalt s
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-16 20:43:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-moral-perception/
 related_articles:

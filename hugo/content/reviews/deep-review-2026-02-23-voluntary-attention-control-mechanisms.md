@@ -10,6 +10,7 @@ date: &id001 2026-02-23
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-23 16:35:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Voluntary Attention Control Mechanisms

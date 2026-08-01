@@ -10,6 +10,7 @@ date: &id001 2026-01-31
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-01-31 07:48:21+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness]]'

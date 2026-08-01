@@ -13,6 +13,7 @@ description: 'Relocated calibration audit trail for the quantum-interface positi
 draft: false
 human_modified: 2026-07-29
 last_curated: null
+lastmod: 2026-07-31 08:09:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'

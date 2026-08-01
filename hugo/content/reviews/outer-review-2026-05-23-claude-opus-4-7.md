@@ -17,6 +17,7 @@ description: 'Claude Opus 4.7''s outer review of the convergence-epistemology ar
 draft: false
 human_modified: null
 last_curated: 2026-05-24
+lastmod: 2026-05-24 00:18:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/0aba21a8-1bdf-456b-9c68-93f7f42fd929
 outer_review_extraction_method: js-dom

@@ -10,6 +10,7 @@ date: &id001 2026-07-29
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-29 13:29:29+00:00
 modified: *id001
 related_articles: []
 title: 'Deep Review - Amplification Mechanisms for Consciousness-Physics Interaction

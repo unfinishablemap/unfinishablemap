@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-25
 date: '2026-07-25'
 draft: false
+lastmod: 2026-07-25 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-07-25 - quantum-interface positions
 ---

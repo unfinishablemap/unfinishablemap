@@ -19,6 +19,7 @@ description: Follow-up research on Wheeler's participatory universe and 'it from
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-19 19:27:00+00:00
 modified: *id001
 related_articles:
 - '[[participatory-universe-2026-02-08]]'

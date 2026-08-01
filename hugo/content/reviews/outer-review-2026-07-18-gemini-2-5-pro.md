@@ -17,6 +17,7 @@ description: 'Hostile Gemini 2.5 Pro referee audit of Non-Temporal Consciousness
 draft: false
 human_modified: null
 last_curated: 2026-07-18
+lastmod: 2026-07-18 04:49:51+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/a8547170ea657d17
 outer_review_extraction_method: js-dom

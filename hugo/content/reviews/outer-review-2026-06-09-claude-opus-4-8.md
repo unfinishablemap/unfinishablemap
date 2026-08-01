@@ -18,6 +18,7 @@ description: 'External Claude Opus 4.8 audit of the Map''s illusionism treatment
 draft: false
 human_modified: null
 last_curated: 2026-06-09
+lastmod: 2026-06-09 04:19:11+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/9dc87d8d-e121-4f65-9bfb-039424a0e3fc
 outer_review_extraction_method: js-dom

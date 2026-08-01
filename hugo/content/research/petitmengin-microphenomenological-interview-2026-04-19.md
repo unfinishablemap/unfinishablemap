@@ -6,6 +6,7 @@ concepts: []
 created: 2026-04-19
 date: '2026-04-25'
 draft: false
+lastmod: 2026-04-25 00:00:00+00:00
 related_articles: []
 title: Research Notes - Petitmengin's Microphenomenological Interview Method
 topics: []

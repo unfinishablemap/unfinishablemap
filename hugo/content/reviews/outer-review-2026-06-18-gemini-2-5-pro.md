@@ -16,6 +16,7 @@ description: Gemini 2.5 Pro hostile-referee audit of quantum-state-inheritance-i
 draft: false
 human_modified: null
 last_curated: 2026-06-18
+lastmod: 2026-06-18 04:45:37+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/d43ec759cc4c94fe
 outer_review_extraction_method: js-dom

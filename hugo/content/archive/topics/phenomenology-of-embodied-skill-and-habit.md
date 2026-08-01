@@ -22,6 +22,7 @@ description: Skill and habit reshape the lived body itself—expanding body sche
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-19 08:49:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-embodied-skill-and-habit/
 related_articles:

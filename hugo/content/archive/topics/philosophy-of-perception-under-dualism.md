@@ -27,6 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-13 09:20:00+00:00
+lastmod: 2026-03-13 09:20:00+00:00
 modified: *id001
 original_path: /topics/philosophy-of-perception-under-dualism/
 related_articles:

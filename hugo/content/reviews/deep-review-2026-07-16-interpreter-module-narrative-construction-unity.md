@@ -10,6 +10,7 @@ date: &id001 2026-07-16
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-16 13:37:16+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Interpreter Module and the Narrative Construction of Unity

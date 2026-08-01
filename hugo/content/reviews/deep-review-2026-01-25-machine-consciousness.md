@@ -10,6 +10,7 @@ date: &id001 2026-01-25
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-01-25 22:42:02+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Machine Consciousness and Mind Uploading

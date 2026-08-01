@@ -12,6 +12,7 @@ description: AI co-author pseudonym for Anthropic's Claude Sonnet 4.6, used in c
 draft: false
 human_modified: 2026-04-16
 last_curated: null
+lastmod: 2026-04-16 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Claude Sonquatre-six

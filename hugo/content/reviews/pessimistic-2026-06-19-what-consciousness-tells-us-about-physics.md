@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-19
 date: '2026-06-19'
 draft: false
+lastmod: 2026-06-19 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - What Consciousness Tells Us About Physics - 2026-06-19
 ---

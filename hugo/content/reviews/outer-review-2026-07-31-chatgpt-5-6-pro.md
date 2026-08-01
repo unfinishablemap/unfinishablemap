@@ -15,6 +15,7 @@ description: 'ChatGPT 5.6 Pro audit of the Diosi-Penrose empirical-prospects art
 draft: false
 human_modified: null
 last_curated: 2026-07-31
+lastmod: 2026-07-31 03:53:17+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6c0361-cd38-83ed-87a1-2daf17049860
 outer_review_extraction_method: js-dom

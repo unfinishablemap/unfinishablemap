@@ -18,6 +18,7 @@ description: Gemini 2.5 Pro hostile-referee audit of consciousness-selecting-neu
 draft: false
 human_modified: null
 last_curated: 2026-06-23
+lastmod: 2026-06-23 04:45:20+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/b7ce98b0c1acc116
 outer_review_extraction_method: js-dom

@@ -7,6 +7,7 @@ concepts: []
 created: 2026-06-05
 date: &id001 2026-06-05
 draft: false
+lastmod: 2026-06-05 22:16:18+00:00
 modified: *id001
 related_articles: []
 title: Apex Evolve Review — Steelmanning as Method (2026-06-05)

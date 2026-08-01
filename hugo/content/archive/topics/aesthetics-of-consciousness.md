@@ -22,6 +22,7 @@ description: Beauty exists only for a subject—never abstractly. The for-ness o
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-15 17:52:00+00:00
 modified: *id001
 original_path: /topics/aesthetics-of-consciousness/
 related_articles:

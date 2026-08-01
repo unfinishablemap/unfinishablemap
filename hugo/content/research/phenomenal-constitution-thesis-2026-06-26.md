@@ -8,6 +8,7 @@ created: 2026-06-26
 date: '2026-06-26'
 draft: false
 last_curated: null
+lastmod: 2026-06-26 00:00:00+00:00
 related_articles: []
 target_section: concepts
 title: Research Notes - Phenomenal Constitution Thesis

@@ -12,6 +12,7 @@ description: 'Ninth deep review: audits the 2026-05-25 coalesce link retarget, w
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-01 19:28:16+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Knowledge Argument (Mary's Room)

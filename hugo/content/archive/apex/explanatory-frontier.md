@@ -31,6 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-30 12:14:00+00:00
+lastmod: 2026-01-31 17:30:00+00:00
 modified: *id001
 original_path: /apex/explanatory-frontier/
 related_articles:

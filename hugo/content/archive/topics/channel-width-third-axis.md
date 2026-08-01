@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 22:49:17+00:00
+lastmod: 2026-06-09 06:48:29+00:00
 modified: *id001
 original_path: /topics/channel-width-third-axis/
 related_articles:

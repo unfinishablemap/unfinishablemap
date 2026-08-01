@@ -11,6 +11,7 @@ date: &id001 2026-04-18
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-23 12:41:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

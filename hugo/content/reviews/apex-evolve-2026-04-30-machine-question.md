@@ -7,6 +7,7 @@ concepts: []
 created: 2026-04-30
 date: &id001 2026-04-30
 draft: false
+lastmod: 2026-04-30 13:32:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: The Machine Question'

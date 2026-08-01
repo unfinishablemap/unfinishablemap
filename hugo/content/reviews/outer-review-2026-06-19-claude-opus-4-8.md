@@ -16,6 +16,7 @@ description: 'Claude Opus 4.8 adversarial referee report on brain-specialness-bo
 draft: false
 human_modified: null
 last_curated: 2026-06-19
+lastmod: 2026-06-19 04:30:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/3785b553-2dd2-44a3-be24-fa2283427a2f
 outer_review_extraction_method: js-dom

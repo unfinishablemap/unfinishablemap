@@ -18,6 +18,7 @@ description: Claude Opus 4.7 full-site audit (2026-05-22). Verified two citation
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-23 00:25:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/19cfb8b8-86f4-466b-95df-4debd6777729
 outer_review_extraction_method: js-dom

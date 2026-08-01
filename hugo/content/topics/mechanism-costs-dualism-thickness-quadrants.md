@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 05:34:59+00:00
+lastmod: 2026-07-13 05:34:59+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'

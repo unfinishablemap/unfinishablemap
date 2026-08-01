@@ -12,6 +12,7 @@ description: External review by ChatGPT 5.5 Pro commissioned automatically. Awai
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-10 01:46:43+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69fd8064-9ffc-8326-89ac-34798037c7f5
 outer_review_extraction_method: js-dom

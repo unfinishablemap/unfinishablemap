@@ -18,6 +18,7 @@ description: 'Claude Opus 5 hostile-but-fair full-site audit: citations verify c
 draft: false
 human_modified: null
 last_curated: 2026-07-27
+lastmod: 2026-07-27 04:20:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/84947abd-2cea-46f6-b8c4-fbc44adf0692
 outer_review_extraction_method: js-dom

@@ -17,6 +17,7 @@ description: 'ChatGPT 5.5 Pro audits the non-temporal-consciousness article — 
 draft: false
 human_modified: null
 last_curated: 2026-05-12
+lastmod: 2026-05-12 04:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a028a9b-1ac0-832e-a78d-a1e5be061109
 outer_review_extraction_method: js-dom

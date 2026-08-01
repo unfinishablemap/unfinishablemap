@@ -10,6 +10,7 @@ date: &id001 2026-07-13
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-13 03:19:17+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Neurophenomenology and Contemplative Neuroscience

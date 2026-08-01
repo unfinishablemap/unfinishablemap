@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-07-31 14:37:05+00:00
 modified: *id001
 original_path: /topics/epistemology-of-cross-cultural-philosophical-convergence/
 related_articles:

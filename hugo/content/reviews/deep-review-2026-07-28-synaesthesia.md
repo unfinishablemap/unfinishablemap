@@ -10,6 +10,7 @@ date: &id001 2026-07-28
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-28 21:07:22+00:00
 modified: *id001
 related_articles:
 - '[[synaesthesia]]'

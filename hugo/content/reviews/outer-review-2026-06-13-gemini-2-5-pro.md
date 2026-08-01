@@ -16,6 +16,7 @@ description: Hostile-referee Gemini 2.5 Pro audit of the affective-tone-divergen
 draft: false
 human_modified: null
 last_curated: 2026-06-13
+lastmod: 2026-06-13 05:22:37+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/7810f1948beaf64d
 outer_review_extraction_method: js-dom

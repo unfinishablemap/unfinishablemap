@@ -14,6 +14,7 @@ description: The corpus's most-linked article handles the irreducibility-respect
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 20:31:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/arguments-for-dualism]]'

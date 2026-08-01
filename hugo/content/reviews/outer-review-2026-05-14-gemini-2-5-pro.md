@@ -21,6 +21,7 @@ description: 'Deep Research ontological audit of topics/psychedelics-and-the-fil
 draft: false
 human_modified: null
 last_curated: 2026-05-14
+lastmod: 2026-05-14 05:21:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/953dfbf70511e692
 outer_review_extraction_method: js-dom

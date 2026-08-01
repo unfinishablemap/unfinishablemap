@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-24 17:30:00+00:00
+lastmod: 2026-01-26 22:20:00+00:00
 modified: *id001
 original_path: /concepts/quantum-probability-and-consciousness/
 related_articles:

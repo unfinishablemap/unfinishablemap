@@ -10,6 +10,7 @@ date: &id001 2026-03-23
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-23 22:49:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Vertiginous Question

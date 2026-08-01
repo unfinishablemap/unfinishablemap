@@ -10,6 +10,7 @@ date: &id001 2026-02-15
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-15 17:57:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Evolution Under Dualism

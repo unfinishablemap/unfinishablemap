@@ -16,6 +16,7 @@ description: Research on Wheeler's 'it from bit' thesis — the claim that physi
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-19 20:50:00+00:00
 modified: *id001
 related_articles:
 - '[[participatory-universe-2026-02-08]]'

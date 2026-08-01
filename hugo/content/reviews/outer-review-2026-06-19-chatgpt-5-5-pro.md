@@ -17,6 +17,7 @@ description: 'ChatGPT 5.5 Pro audit of brain-specialness-boundary: calls the bou
 draft: false
 human_modified: null
 last_curated: 2026-06-19
+lastmod: 2026-06-19 04:10:00+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a34a3bc-0c90-8329-899e-6d7c7a224984
 outer_review_extraction_method: js-dom

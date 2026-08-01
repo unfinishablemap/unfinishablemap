@@ -20,6 +20,7 @@ description: Cross-review synthesis of 2 outer reviews from 2026-05-16 (Gemini s
 draft: false
 human_modified: null
 last_curated: 2026-05-16
+lastmod: 2026-05-16 11:30:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

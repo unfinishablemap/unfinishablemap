@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-18
 date: '2026-05-28'
 draft: false
+lastmod: 2026-05-28 00:00:00+00:00
 related_articles: []
 title: Research Notes - Sleep, Memory Consolidation, and Consciousness
 ---

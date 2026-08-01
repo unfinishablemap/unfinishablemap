@@ -33,6 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-31 14:38:00+00:00
+lastmod: 2026-03-31 14:38:00+00:00
 modified: *id001
 original_path: /topics/phenomenal-authority-and-introspective-evidence/
 related_articles:

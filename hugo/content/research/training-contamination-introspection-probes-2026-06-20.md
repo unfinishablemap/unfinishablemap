@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-20
 date: '2026-06-20'
 draft: false
+lastmod: 2026-06-20 00:00:00+00:00
 related_articles: []
 title: Research Notes - Training Contamination as a Confound for AI Introspection
   Probes

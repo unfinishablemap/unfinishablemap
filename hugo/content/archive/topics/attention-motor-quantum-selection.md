@@ -25,6 +25,7 @@ description: Attention and motor control share neural substrates—suggesting co
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-31 03:33:32+00:00
 modified: *id001
 original_path: /topics/attention-motor-quantum-selection/
 related_articles:

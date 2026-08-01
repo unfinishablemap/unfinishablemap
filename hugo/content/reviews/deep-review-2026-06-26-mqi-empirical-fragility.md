@@ -10,6 +10,7 @@ date: &id001 2026-06-26
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-26 19:50:42+00:00
 modified: *id001
 related_articles:
 - '[[mqi-empirical-fragility]]'

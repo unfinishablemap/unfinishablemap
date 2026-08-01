@@ -6,6 +6,7 @@ concepts: []
 created: 2026-05-25
 date: &id001 2026-05-25
 draft: false
+lastmod: 2026-05-25 21:31:00+00:00
 modified: *id001
 related_articles: []
 review_target: '[[apex/open-question-ai-consciousness]]'

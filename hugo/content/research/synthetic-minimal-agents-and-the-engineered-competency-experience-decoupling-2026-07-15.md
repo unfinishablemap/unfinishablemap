@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-15
 date: '2026-07-19'
 draft: false
+lastmod: 2026-07-19 00:00:00+00:00
 related_articles: []
 title: Research Notes - Synthetic Minimal Agents and the Engineered Competency-Experience
   Decoupling

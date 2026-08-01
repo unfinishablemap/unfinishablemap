@@ -5,6 +5,7 @@ concepts: []
 created: 2026-05-05
 date: '2026-05-13'
 draft: false
+lastmod: 2026-05-13 00:00:00+00:00
 related_articles: []
 title: Research Notes - Evolved Mind-Brain Interface Efficacy as Explanatory Variable
   for the Human-Other-Animal Intelligence Gap

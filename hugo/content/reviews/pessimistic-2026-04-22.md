@@ -7,6 +7,7 @@ concepts: []
 created: 2026-04-22
 date: &id001 2026-04-22
 draft: false
+lastmod: 2026-04-22 18:45:00+00:00
 modified: *id001
 related_articles:
 - '[[concepts/trumping-preemption]]'

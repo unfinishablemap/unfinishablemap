@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-01 18:26:00+00:00
+lastmod: 2026-02-01 18:26:00+00:00
 modified: *id001
 original_path: /topics/philosophy-of-time-and-consciousness/
 related_articles:

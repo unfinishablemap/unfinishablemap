@@ -18,6 +18,7 @@ description: 'The Map''s positions on the value-blind / value-sensitive fork: wh
 draft: false
 human_modified: 2026-06-18
 last_curated: 2026-06-18
+lastmod: 2026-07-29 15:30:48+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

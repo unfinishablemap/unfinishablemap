@@ -17,6 +17,7 @@ description: Research notes on Wheeler's participatory universe — the idea tha
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-08 09:49:00+00:00
 modified: *id001
 related_articles:
 - '[[collapse-before-minds-early-universe-2026-01-16]]'

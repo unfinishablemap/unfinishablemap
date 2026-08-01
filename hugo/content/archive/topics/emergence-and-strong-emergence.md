@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-09 23:11:00+00:00
+lastmod: 2026-02-09 23:11:00+00:00
 modified: *id001
 original_path: /topics/emergence-and-strong-emergence/
 related_articles:

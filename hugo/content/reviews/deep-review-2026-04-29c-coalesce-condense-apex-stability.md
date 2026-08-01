@@ -10,6 +10,7 @@ date: &id001 2026-04-29
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-29 14:10:00+00:00
 modified: *id001
 related_articles:
 - '[[concepts/coalesce-condense-apex-stability]]'

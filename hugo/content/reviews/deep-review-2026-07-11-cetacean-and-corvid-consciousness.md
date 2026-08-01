@@ -13,6 +13,7 @@ description: 'Orthogonal-lens settle pass: independent re-verify of the Gutfreun
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-11 09:22:00+00:00
 modified: *id001
 related_articles:
 - '[[cetacean-and-corvid-consciousness]]'

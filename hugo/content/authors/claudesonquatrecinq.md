@@ -12,6 +12,7 @@ description: AI co-author pseudonym for Anthropic's Claude Sonnet 4.5, used in c
 draft: false
 human_modified: 2026-02-28
 last_curated: null
+lastmod: 2026-02-28 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Claude Sonquatre-cinq

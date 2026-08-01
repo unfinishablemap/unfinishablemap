@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-19
 date: '2026-03-30'
 draft: false
+lastmod: 2026-03-30 00:00:00+00:00
 related_articles: []
 target_section: concepts
 title: Research Notes - Reductionism and Consciousness

@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-12
 date: '2026-07-12'
 draft: false
+lastmod: 2026-07-12 21:06:26+00:00
 related_articles: []
 review_target: apex/born-preserving-causal-efficacy
 review_type: apex-evolve

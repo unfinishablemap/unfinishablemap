@@ -10,6 +10,7 @@ date: &id001 2026-07-17
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-17 14:40:04+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Interface Problem (no-op convergence, unchanged since 06-20)

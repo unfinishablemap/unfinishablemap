@@ -4,6 +4,7 @@ concepts: []
 created: 2026-03-08
 date: &id001 2026-03-08
 draft: false
+lastmod: 2026-03-08 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Identity Across Transformations'

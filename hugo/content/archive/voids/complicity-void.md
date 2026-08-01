@@ -20,6 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-16 07:33:00+00:00
+lastmod: 2026-07-31 12:48:49+00:00
 modified: *id001
 original_path: /voids/complicity-void/
 related_articles:

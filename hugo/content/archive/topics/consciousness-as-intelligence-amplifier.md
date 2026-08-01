@@ -16,6 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-25 18:01:41+00:00
+lastmod: 2026-01-26 22:15:00+00:00
 modified: *id001
 original_path: /topics/consciousness-as-intelligence-amplifier/
 related_articles:

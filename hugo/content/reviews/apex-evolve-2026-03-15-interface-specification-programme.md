@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-15
 date: '2026-03-15'
 draft: false
+lastmod: 2026-03-15 00:00:00+00:00
 related_articles: []
 title: 'Apex Evolve Review: The Interface Specification Programme'
 ---

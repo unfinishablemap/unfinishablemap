@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-07 06:32:00+00:00
+lastmod: 2026-05-07 06:32:00+00:00
 modified: *id001
 original_path: /topics/evolved-mind-brain-interface-efficacy/
 related_articles:

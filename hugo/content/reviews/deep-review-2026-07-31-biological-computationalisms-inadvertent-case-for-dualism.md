@@ -10,6 +10,7 @@ date: &id001 2026-07-31
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-31 00:32:01+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Biological Computationalism's Inadvertent Case for Dualism (Citation

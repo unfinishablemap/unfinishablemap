@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-28
 date: '2026-07-16'
 draft: false
+lastmod: 2026-07-16 00:00:00+00:00
 related_articles: []
 title: Research Notes - Pragmatist Philosophy of Mind
 ---

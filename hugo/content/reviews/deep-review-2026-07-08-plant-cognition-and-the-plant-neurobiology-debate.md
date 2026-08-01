@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-08
 date: '2026-07-08'
 draft: false
+lastmod: 2026-07-08 10:52:37+00:00
 related_articles: []
 title: Deep Review - Plant Cognition and the Plant-Neurobiology Debate - 2026-07-08
 ---

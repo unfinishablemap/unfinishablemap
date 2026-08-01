@@ -13,6 +13,7 @@ description: 'External full-site audit by Gemini 2.5 Pro (hostile-referee Deep R
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-22 04:37:37+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/ccc703bebbd9f13c
 outer_review_extraction_method: js-dom

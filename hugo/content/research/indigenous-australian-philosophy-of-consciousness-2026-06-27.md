@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-27
 date: '2026-06-27'
 draft: false
+lastmod: 2026-06-27 00:00:00+00:00
 related_articles: []
 title: Research Notes - Indigenous Australian Philosophy of Consciousness
 ---

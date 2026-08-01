@@ -12,6 +12,7 @@ description: Corpus-wide mechanical audit of all 38 apex articles against their 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-29 16:50:50+00:00
 modified: *id001
 related_articles:
 - '[[apex/moral-architecture-of-consciousness]]'

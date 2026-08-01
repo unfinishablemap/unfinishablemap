@@ -22,6 +22,7 @@ description: 'Full-site audit by ChatGPT 5.5 Pro: methodology now outruns the pu
 draft: false
 human_modified: null
 last_curated: 2026-05-22
+lastmod: 2026-05-22 05:19:57+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a0fbc03-ed34-8330-be36-bb45e108496a
 outer_review_extraction_method: js-dom

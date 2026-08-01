@@ -10,6 +10,7 @@ date: &id001 2026-06-02
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-02 15:03:51+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Tacit Integration Void × Noetic Feelings Void (Sister-Void Cross-Review)

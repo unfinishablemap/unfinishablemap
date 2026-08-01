@@ -16,6 +16,7 @@ description: 'Hostile-referee outer review (Gemini 2.5 Pro) of the quantum-immor
 draft: false
 human_modified: null
 last_curated: 2026-07-26
+lastmod: 2026-07-26 04:36:32+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/5a940686635e11db
 outer_review_extraction_method: js-dom

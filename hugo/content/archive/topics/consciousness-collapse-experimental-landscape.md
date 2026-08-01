@@ -27,6 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-24 01:28:00+00:00
+lastmod: 2026-03-24 05:49:00+00:00
 modified: *id001
 original_path: /topics/consciousness-collapse-experimental-landscape/
 related_articles:

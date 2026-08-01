@@ -16,6 +16,7 @@ description: The desert wing's specialist articles are the best-calibrated moral
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-29 06:07:58+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

@@ -23,6 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-05 10:01:00+00:00
+lastmod: 2026-04-06 14:06:00+00:00
 modified: *id001
 original_path: /topics/ethics-and-value-in-a-dualist-world/
 related_articles:

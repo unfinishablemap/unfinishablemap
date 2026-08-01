@@ -10,6 +10,7 @@ date: &id001 2026-04-30
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-30 16:47:00+00:00
 modified: *id001
 related_articles:
 - '[[conjunction-coalesce]]'

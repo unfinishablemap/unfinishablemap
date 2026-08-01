@@ -28,6 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 22:56:00+00:00
+lastmod: 2026-07-27 22:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

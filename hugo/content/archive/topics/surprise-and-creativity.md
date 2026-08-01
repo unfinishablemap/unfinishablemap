@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-19 03:04:00+00:00
+lastmod: 2026-02-19 03:04:00+00:00
 modified: *id001
 original_path: /topics/surprise-and-creativity/
 related_articles:

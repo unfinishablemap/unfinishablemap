@@ -12,6 +12,7 @@ created: 2026-06-18
 date: &id001 2026-06-18
 draft: false
 human_modified: null
+lastmod: 2026-06-18 02:30:00+00:00
 modified: *id001
 related_articles:
 - '[[marginal-organism-scope-of-value-sensitive-selection]]'

@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-07
 date: '2026-07-07'
 draft: false
+lastmod: 2026-07-07 21:47:33+00:00
 related_articles: []
 title: Research Notes - Kabbalah and Tzimtzum as a Consciousness-Matter Framework
 ---

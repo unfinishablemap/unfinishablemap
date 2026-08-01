@@ -10,6 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
+lastmod: 2026-08-01 17:52:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

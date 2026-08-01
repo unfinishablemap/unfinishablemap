@@ -29,6 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-15 14:55:00+00:00
+lastmod: 2026-02-15 14:55:00+00:00
 modified: *id001
 original_path: /topics/contemplative-training-and-phenomenal-access/
 related_articles:

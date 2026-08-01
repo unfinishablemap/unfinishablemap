@@ -16,6 +16,7 @@ description: Cross-review synthesis of three outer reviews of concepts/epistemol
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-29 05:06:06+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

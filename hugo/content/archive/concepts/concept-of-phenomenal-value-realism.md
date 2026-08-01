@@ -28,6 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-28 06:46:00+00:00
+lastmod: 2026-03-10 13:09:00+00:00
 modified: *id001
 original_path: /concepts/concept-of-phenomenal-value-realism/
 related_articles:

@@ -6,6 +6,7 @@ concepts: []
 created: 2026-05-02
 date: '2026-07-30'
 draft: false
+lastmod: 2026-07-30 21:11:47+00:00
 related_articles:
 - '[[concepts/biological-computationalism]]'
 - '[[concepts/quantum-consciousness]]'

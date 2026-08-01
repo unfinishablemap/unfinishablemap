@@ -10,6 +10,7 @@ date: &id001 2026-05-31
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-31 16:27:14+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Quiddity Epiphenomenalism and the Contingency Thesis

@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-20
 date: '2026-06-04'
 draft: false
+lastmod: 2026-06-04 09:12:53+00:00
 related_articles: []
 title: Research Notes - Quantum Biology in Neural Systems (2025-2026 Experimental
   Evidence)

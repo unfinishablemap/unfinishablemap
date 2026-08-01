@@ -14,6 +14,7 @@ description: The Map's explicit, maintained register of positions it currently h
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
+lastmod: 2026-07-30 22:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

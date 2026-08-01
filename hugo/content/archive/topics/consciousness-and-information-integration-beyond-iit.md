@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-22 00:11:00+00:00
+lastmod: 2026-03-11 06:32:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-information-integration-beyond-iit/
 related_articles:

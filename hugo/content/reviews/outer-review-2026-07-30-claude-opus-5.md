@@ -17,6 +17,7 @@ description: 'External audit of the open-individualism / de-combination bridge: 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-30 04:34:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/9396e542-df3d-4e86-bfee-879f734af9b6
 outer_review_extraction_method: js-dom

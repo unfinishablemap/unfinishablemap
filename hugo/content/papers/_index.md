@@ -11,6 +11,7 @@ description: Working papers and preprints from The Unfinishable Map project.
 draft: false
 human_modified: 2026-03-01
 last_curated: null
+lastmod: 2026-03-01 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: Papers

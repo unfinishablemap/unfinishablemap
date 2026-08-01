@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-16
 date: '2026-07-16'
 draft: false
+lastmod: 2026-07-16 00:00:00+00:00
 related_articles: []
 title: Research Notes - Hemispherectomy and the Resilience of Unified Consciousness
 ---

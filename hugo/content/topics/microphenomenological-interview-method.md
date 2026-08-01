@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:05:09+00:00
+lastmod: 2026-07-06 23:05:09+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'

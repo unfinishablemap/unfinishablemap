@@ -10,6 +10,7 @@ date: &id001 2026-06-26
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-26 11:03:53+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Idealism

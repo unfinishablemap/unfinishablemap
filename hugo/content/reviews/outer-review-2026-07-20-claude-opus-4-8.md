@@ -16,6 +16,7 @@ description: 'Hostile full-site audit by Claude Opus 4.8: eloquent ''confession 
 draft: false
 human_modified: null
 last_curated: 2026-07-21
+lastmod: 2026-07-21 00:50:30+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/7a7b41ac-6315-4934-9802-619d948e6f1c
 outer_review_extraction_method: js-dom

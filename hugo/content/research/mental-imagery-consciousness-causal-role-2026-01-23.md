@@ -5,6 +5,7 @@ concepts: []
 created: 2026-01-23
 date: '2026-06-05'
 draft: false
+lastmod: 2026-06-05 00:00:00+00:00
 related_articles: []
 target_section: concepts
 title: Research Notes - Mental Imagery and Consciousness's Causal Role

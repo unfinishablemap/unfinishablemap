@@ -6,6 +6,7 @@ apex_article: apex/consciousness-and-agency
 concepts: []
 created: 2026-07-09
 date: '2026-07-09'
+lastmod: 2026-07-09 21:54:18+00:00
 related_articles: []
 review_type: apex-evolve
 title: 'Apex Evolve Review: Consciousness and Agency (2026-07-09)'

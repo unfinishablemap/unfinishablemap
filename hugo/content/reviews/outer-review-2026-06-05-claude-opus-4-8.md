@@ -17,6 +17,7 @@ description: 'Claude Opus 4.8 audit of Edge-States and the Probing of Voids: fla
 draft: false
 human_modified: null
 last_curated: 2026-06-05
+lastmod: 2026-06-05 04:15:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/b710c2da-c286-4bf4-8985-26cfc44909ea
 outer_review_extraction_method: js-dom

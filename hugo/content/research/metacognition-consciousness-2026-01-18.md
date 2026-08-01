@@ -6,6 +6,7 @@ concepts: []
 created: 2026-01-18
 date: '2026-07-11'
 draft: false
+lastmod: 2026-07-11 09:56:00+00:00
 related_articles: []
 title: Research Notes - Metacognition and Consciousness
 ---

@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-13
 date: '2026-07-13'
 draft: false
+lastmod: 2026-07-13 00:00:00+00:00
 related_articles: []
 title: Optimistic Review - 2026-07-13 (Uncovered Subjects Sweep)
 ---

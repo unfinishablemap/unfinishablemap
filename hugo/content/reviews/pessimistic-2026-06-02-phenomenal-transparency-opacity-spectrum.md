@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-02
 date: '2026-06-02'
 draft: false
+lastmod: 2026-06-02 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-06-02 - The Phenomenal Transparency-Opacity Spectrum
 ---

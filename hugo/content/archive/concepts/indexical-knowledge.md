@@ -22,6 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
+lastmod: 2026-02-09 02:29:00+00:00
 modified: *id001
 original_path: /concepts/indexical-knowledge/
 related_articles:

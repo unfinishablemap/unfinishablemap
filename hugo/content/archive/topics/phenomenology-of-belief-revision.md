@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-10 06:11:00+00:00
+lastmod: 2026-02-10 14:57:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-belief-revision/
 related_articles:

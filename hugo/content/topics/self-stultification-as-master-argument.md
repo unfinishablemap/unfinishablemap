@@ -25,6 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 11:16:40+00:00
+lastmod: 2026-07-29 15:54:16+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'

@@ -14,6 +14,7 @@ description: 'Hostile Gemini 2.5 Pro full-site audit (2026-07-20 cycle): empiric
 draft: false
 human_modified: null
 last_curated: 2026-07-22
+lastmod: 2026-07-22 00:51:11+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/e5f055a74cf6f78b
 outer_review_extraction_method: js-dom

@@ -14,6 +14,7 @@ description: 'ChatGPT 5.6 Pro full-site audit: the Map''s dominant defect is now
 draft: false
 human_modified: null
 last_curated: 2026-07-20
+lastmod: 2026-07-20 05:29:40+00:00
 modified: *id001
 outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a5d82a9-154c-83ed-b84a-487aa8561487
 outer_review_extraction_method: js-dom

@@ -13,6 +13,7 @@ description: Cross-review synthesis of 3 outer reviews from 2026-07-24 (ChatGPT 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-25 00:15:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

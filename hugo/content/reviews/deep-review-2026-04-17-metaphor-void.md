@@ -10,6 +10,7 @@ date: &id001 2026-04-17
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-17 21:48:00+00:00
 modified: *id001
 related_articles:
 - '[[metaphor-void]]'

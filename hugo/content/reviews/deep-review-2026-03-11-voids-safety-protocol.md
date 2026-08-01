@@ -10,6 +10,7 @@ date: &id001 2026-03-11
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-11 21:46:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Voids Safety Protocol

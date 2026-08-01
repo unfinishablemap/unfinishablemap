@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-30
 date: &id001 2026-03-30
 draft: false
+lastmod: 2026-03-30 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: What Consciousness Tells Us About Physics'

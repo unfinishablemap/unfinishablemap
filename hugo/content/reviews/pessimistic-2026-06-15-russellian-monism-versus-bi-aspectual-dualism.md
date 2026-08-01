@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-15
 date: '2026-06-15'
 draft: false
+lastmod: 2026-06-15 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - Russellian Monism Versus Bi-Aspectual Dualism - 2026-06-15
 ---

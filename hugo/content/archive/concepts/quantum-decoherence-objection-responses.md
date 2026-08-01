@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 12:20:00+00:00
+lastmod: 2026-02-25 20:25:00+00:00
 modified: *id001
 original_path: /concepts/quantum-decoherence-objection-responses/
 related_articles:

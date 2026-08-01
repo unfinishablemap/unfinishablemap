@@ -5,6 +5,7 @@ concepts: []
 created: 2026-03-29
 date: '2026-03-29'
 draft: false
+lastmod: 2026-03-29 00:00:00+00:00
 related_articles: []
 title: Research Notes - Clinical Evidence Quality (Schwartz OCD, Meditation Efficacy,
   Neuroplasticity Claims)

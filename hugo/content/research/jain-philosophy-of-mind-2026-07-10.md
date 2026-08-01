@@ -5,6 +5,7 @@ concepts: []
 created: 2026-07-10
 date: '2026-07-10'
 draft: false
+lastmod: 2026-07-10 00:00:00+00:00
 related_articles: []
 title: Research Notes - Jain Philosophy of Mind (Jiva, Anekantavada, Plurality of
   Souls)

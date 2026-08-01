@@ -10,6 +10,7 @@ date: &id001 2026-05-05
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-05 15:42:00+00:00
 modified: *id001
 related_articles:
 - '[[todo]]'

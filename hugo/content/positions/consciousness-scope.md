@@ -18,6 +18,7 @@ description: 'The Map''s positions on where consciousness reaches in biological 
 draft: false
 human_modified: null
 last_curated: 2026-06-22
+lastmod: 2026-07-17 16:49:36+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'

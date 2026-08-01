@@ -44,6 +44,7 @@ draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
 last_deep_review: 2026-07-15 20:04:24+00:00
+lastmod: 2026-07-28 13:38:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/open-question-ai-consciousness]]'

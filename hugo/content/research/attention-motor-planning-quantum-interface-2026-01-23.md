@@ -6,6 +6,7 @@ concepts: []
 created: 2026-01-23
 date: '2026-07-31'
 draft: false
+lastmod: 2026-07-31 03:33:32+00:00
 related_articles: []
 title: Research Notes - Attention and Motor Planning Quantum Interface
 ---

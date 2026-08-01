@@ -13,6 +13,7 @@ description: 'Hostile full-site referee audit by Gemini 2.5 Pro (Deep Research):
 draft: false
 human_modified: null
 last_curated: 2026-06-16
+lastmod: 2026-06-16 05:10:00+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/5d4c49d4e0fde0f5
 outer_review_extraction_method: js-dom

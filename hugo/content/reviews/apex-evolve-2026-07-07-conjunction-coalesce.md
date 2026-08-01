@@ -7,6 +7,7 @@ concepts: []
 created: 2026-07-07
 date: &id001 2026-07-07
 draft: false
+lastmod: 2026-07-07 07:43:30+00:00
 modified: *id001
 related_articles: []
 review_target: '[[conjunction-coalesce]]'

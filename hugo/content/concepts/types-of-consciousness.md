@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 06:13:00+00:00
+lastmod: 2026-07-10 06:24:35+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'

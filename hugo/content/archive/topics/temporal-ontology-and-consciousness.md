@@ -24,6 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-22 05:40:00+00:00
+lastmod: 2026-02-27 22:45:00+00:00
 modified: *id001
 original_path: /topics/temporal-ontology-and-consciousness/
 related_articles:

@@ -16,6 +16,7 @@ description: Full-site audit by Gemini 2.5 Pro Deep Research. Substantively desc
 draft: false
 human_modified: null
 last_curated: 2026-05-11
+lastmod: 2026-05-11 06:38:05+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/880a710b79d8d2c7
 outer_review_extraction_method: js-dom

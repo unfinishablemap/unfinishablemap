@@ -10,6 +10,7 @@ date: &id001 2026-06-04
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-04 16:46:19+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Capability Division Problem

@@ -17,6 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 09:50:00+00:00
+lastmod: 2026-07-27 20:39:01+00:00
 modified: *id001
 related_articles:
 - '[[death-and-consciousness]]'

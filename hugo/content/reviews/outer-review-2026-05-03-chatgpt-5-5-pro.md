@@ -13,6 +13,7 @@ description: External review by ChatGPT 5 Pro examining whether the Map's drift 
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-04 10:13:46+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

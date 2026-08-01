@@ -11,6 +11,7 @@ date: &id001 2026-07-10
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-10 17:09:00+00:00
 modified: *id001
 related_articles:
 - '[[the-unfolding-argument-against-causal-structure-theories-of-consciousness]]'

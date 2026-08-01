@@ -10,6 +10,7 @@ date: &id001 2026-03-18
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-03-18 15:43:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Probability and Decision-Theory Objections to Many Worlds

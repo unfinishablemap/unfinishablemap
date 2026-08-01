@@ -22,6 +22,7 @@ description: Where meaning-as-experienced exceeds meaning-as-represented. Human+
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-04-24 18:29:00+00:00
 modified: *id001
 original_path: /voids/semantic-void/
 related_articles:

@@ -19,6 +19,7 @@ description: Referee-style review of phenomenology-of-memory-and-the-self.md by 
 draft: false
 human_modified: null
 last_curated: 2026-05-10
+lastmod: 2026-05-10 13:05:00+00:00
 modified: *id001
 outer_review_conversation_url: https://claude.ai/chat/2d6913a2-f655-485e-84cc-de66a9c584aa
 outer_review_extraction_method: js-dom

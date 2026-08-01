@@ -29,6 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-22 06:00:00+00:00
+lastmod: 2026-07-30 15:14:45+00:00
 modified: *id001
 original_path: /concepts/minimal-consciousness/
 related_articles:

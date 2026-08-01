@@ -6,6 +6,7 @@ concepts: []
 created: 2026-06-01
 date: '2026-06-01'
 draft: false
+lastmod: 2026-06-01 06:27:48+00:00
 related_articles: []
 title: 'Apex Evolve Review: The Triple Screen (what-consciousness-tells-us-about-physics)'
 ---

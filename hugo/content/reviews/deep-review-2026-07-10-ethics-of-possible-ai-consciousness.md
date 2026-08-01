@@ -10,6 +10,7 @@ date: &id001 2026-07-10
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-10 06:24:35+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Ethics of Possible AI Consciousness (Butlin-2023 authorship

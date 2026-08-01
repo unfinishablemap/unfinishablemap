@@ -31,6 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-19 14:50:00+00:00
+lastmod: 2026-03-23 02:21:00+00:00
 modified: *id001
 original_path: /topics/mathematical-knowledge-and-insight/
 related_articles:

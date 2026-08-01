@@ -9,6 +9,7 @@ description: Publisher-verified research on Putnam/Burge content externalism, th
   phenomenal-vs-intentional externalism split, and the anti-individualism to mental-causation
   interface for the Map.
 draft: false
+lastmod: 2026-07-13 06:04:00+00:00
 related_articles: []
 title: 'Research Notes: Content Externalism and the Twin Earth Argument'
 ---

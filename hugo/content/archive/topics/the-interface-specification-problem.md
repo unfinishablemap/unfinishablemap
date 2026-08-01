@@ -27,6 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-18 05:34:00+00:00
+lastmod: 2026-04-18 08:04:00+00:00
 modified: *id001
 original_path: /topics/the-interface-specification-problem/
 related_articles:

@@ -6,6 +6,7 @@ concepts: []
 created: 2026-07-08
 date: '2026-07-08'
 draft: false
+lastmod: 2026-07-08 12:01:04+00:00
 related_articles: []
 title: Deep Review - Basal and Bioelectric Cognition - 2026-07-08
 ---

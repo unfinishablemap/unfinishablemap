@@ -10,6 +10,7 @@ date: &id001 2026-07-12
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-07-12 09:40:53+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Consciousness and the Authority of Formal Systems

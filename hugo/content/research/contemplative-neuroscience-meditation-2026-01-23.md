@@ -7,6 +7,7 @@ concepts: []
 created: 2026-01-23
 date: '2026-03-05'
 draft: false
+lastmod: 2026-03-05 14:32:00+00:00
 related_articles: []
 title: Research Notes - Contemplative Neuroscience and Meditation Evidence
 ---

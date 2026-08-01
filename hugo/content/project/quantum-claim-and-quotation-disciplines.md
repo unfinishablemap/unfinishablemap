@@ -14,6 +14,7 @@ description: 'Two disciplines surfaced by the 2026-06-19 brain-specialness outer
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-19 05:42:22+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

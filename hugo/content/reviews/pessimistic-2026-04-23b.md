@@ -7,6 +7,7 @@ concepts: []
 created: 2026-04-23
 date: &id001 2026-04-23
 draft: false
+lastmod: 2026-04-23 15:00:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/pragmatist-quantum-foundations-and-the-agent]]'

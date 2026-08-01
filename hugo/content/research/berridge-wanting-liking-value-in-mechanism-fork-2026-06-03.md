@@ -12,6 +12,7 @@ created: 2026-06-03
 date: &id001 2026-06-03
 draft: false
 human_modified: null
+lastmod: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'

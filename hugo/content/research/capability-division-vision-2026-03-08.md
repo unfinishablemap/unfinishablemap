@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-08
 date: '2026-05-28'
 draft: false
+lastmod: 2026-05-28 00:00:00+00:00
 related_articles: []
 title: Research Notes - The Capability Division Problem in Dualism (Vision)
 ---

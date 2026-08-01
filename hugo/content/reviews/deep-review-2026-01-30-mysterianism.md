@@ -10,6 +10,7 @@ date: &id001 2026-01-30
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-01-30 18:26:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Mysterianism (Questioning-as-Evidence Cross-Review)

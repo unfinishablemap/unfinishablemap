@@ -17,6 +17,7 @@ description: Hostile referee audit of inverted-qualia by Gemini 2.5 Pro. Zero fa
 draft: false
 human_modified: null
 last_curated: 2026-07-28
+lastmod: 2026-07-28 05:24:42+00:00
 modified: *id001
 outer_review_conversation_url: https://gemini.google.com/app/8ddc2c96aa2b1e3e
 outer_review_extraction_method: js-dom

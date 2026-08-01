@@ -10,6 +10,7 @@ date: &id001 2026-05-27
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-05-27 14:32:20+00:00
 modified: *id001
 related_articles:
 - '[[post-decoherence-selection-programme]]'

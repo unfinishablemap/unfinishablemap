@@ -6,6 +6,7 @@ concepts: []
 created: 2026-03-28
 date: &id001 2026-03-28
 draft: false
+lastmod: 2026-03-28 00:00:00+00:00
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: What It Might Be Like to Be an AI'

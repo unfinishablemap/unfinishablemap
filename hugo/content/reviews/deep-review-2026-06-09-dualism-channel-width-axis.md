@@ -11,6 +11,7 @@ date: &id001 2026-06-09
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-06-09 08:15:00+00:00
 modified: *id001
 related_articles:
 - '[[dualism-channel-width-axis]]'

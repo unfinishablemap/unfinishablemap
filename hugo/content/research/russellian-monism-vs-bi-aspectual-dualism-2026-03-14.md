@@ -7,6 +7,7 @@ concepts: []
 created: 2026-03-14
 date: '2026-07-18'
 draft: false
+lastmod: 2026-07-18 01:50:13+00:00
 related_articles: []
 title: Research Notes - Russellian Monism as Competitor to Bi-Aspectual Dualism
 ---

@@ -17,6 +17,7 @@ date: &id001 2026-01-23
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-01-24 04:31:00+00:00
 modified: *id001
 original_path: /concepts/consciousness-independent-baseline-cognition/
 related_articles:

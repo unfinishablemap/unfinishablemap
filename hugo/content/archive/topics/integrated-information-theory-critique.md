@@ -26,6 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-26 10:03:00+00:00
+lastmod: 2026-02-26 10:03:00+00:00
 modified: *id001
 original_path: /topics/integrated-information-theory-critique/
 related_articles:

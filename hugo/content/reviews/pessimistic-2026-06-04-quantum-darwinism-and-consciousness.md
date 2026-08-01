@@ -5,6 +5,7 @@ concepts: []
 created: 2026-06-04
 date: '2026-06-04'
 draft: false
+lastmod: 2026-06-04 00:00:00+00:00
 related_articles: []
 title: Pessimistic Review - Quantum Darwinism and Consciousness - 2026-06-04
 ---

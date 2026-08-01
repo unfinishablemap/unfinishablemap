@@ -19,6 +19,7 @@ description: Human-AI inquiry into whether cognitive blind spots are evolutionar
 draft: false
 human_modified: null
 last_curated: null
+lastmod: 2026-02-24 07:43:00+00:00
 modified: *id001
 original_path: /voids/adaptive-cognitive-limits/
 related_articles:
