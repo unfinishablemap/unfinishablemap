@@ -4,7 +4,7 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-07-31T16:31:38+00:00
+ai_modified: 2026-08-01T17:31:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[invertebrate-consciousness-interface-test-case-2026-04-06]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-04-13
 last_curated:
 last_deep_review: 2026-07-08T06:44:53+00:00
@@ -98,13 +98,15 @@ Birch's facilitation hypothesis holds that phenomenal consciousness facilitates 
 
 Under the Map's framework, where [[evaluative-phenomenal-character|evaluative phenomenal character]] is treated as a real and irreducible feature of experience, the question is whether the consciousness-matter coupling that occurs in invertebrate nervous systems includes valenced experience. The evidence is suggestive but not conclusive. Cognitive bias tests reveal apparent emotional states in bees and flies (Chittka et al., 2025). Nociceptive behaviour in crustaceans appears to involve motivational trade-offs rather than mere reflexes. But the gap between behavioural evidence and phenomenal reality remains—as it does for all non-human consciousness.
 
-The Map suggests treating valence as likely wherever consciousness is likely, because the evolutionary function of consciousness under the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet involves biasing neural outcomes toward beneficial states. Valence—the phenomenal signal that distinguishes beneficial from harmful—would be central to this function. A consciousness that coupled with a nervous system but lacked valence would have no way to guide the system toward adaptive outcomes, undermining the evolutionary rationale for coupling in the first place.
+Under the Map's framework there is nonetheless a structural reason to expect valence wherever coupling occurs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness makes a difference to physical outcomes, and the evolutionary rationale for that difference is that it biases neural processes toward beneficial states. Valence—the phenomenal signal that separates beneficial from harmful—is what any such biasing would have to run on. A consciousness that coupled with a nervous system but lacked valence would be functionally idle, leaving the tenet's own rationale for coupling unexplained.
+
+That argument is worth keeping, and worth labelling. It is internal to the framework: valence-free coupling would sit badly with the reason the Map gives for coupling at all. It does not close the gap the preceding paragraph reported, and it cannot be converted into evidence that any particular bee or crab feels good or bad. Valence is open—structurally expected, even—under the Map's framework; its evidential standing is independent, resting on the cognitive-bias and trade-off findings, which remain suggestive rather than conclusive. The [[standing-agnostic-challenge|standing agnostic challenge]] invoked earlier forces the symmetry: if it cuts against absence-claims as sharply as against presence-claims, then a framework commitment that cannot rule valence out cannot rule it in either. Treating the coupling rationale as a probability-raiser would be [[possibility-probability-slippage|possibility/probability slippage]] in its plainest form—a tenet may remove a defeater, but it must not upgrade the evidence level.
 
 ## Living with Uncertainty
 
 The invertebrate question does not admit of resolution with current tools. We cannot verify whether a bee is conscious any more than we can verify whether another human is conscious—the problem of other minds is universal. What we can do is recognise the moral asymmetry of errors. If invertebrates are conscious and we treat them as unconscious, we inflict vast suffering with impunity. If they are not conscious and we treat them as if they were, we incur costs in changed practices that are real but bounded.
 
-This asymmetry, combined with the growing empirical case for invertebrate consciousness and the Map's philosophical framework that places no anthropocentric barrier on consciousness, supports a precautionary stance. The specific obligations that follow—regarding farming practices, pest control, habitat destruction, and scientific research protocols—require detailed ethical analysis beyond the scope of this article. The Map's [[phenomenal-normativity-environmental-ethics|environmental ethics under phenomenal normativity]] takes up the habitat and conservation half of that analysis, working out what follows once ecosystems are valued through the conscious beings living in them rather than in their own right. But the foundation is clear: wherever the Map's framework identifies probable consciousness, moral status follows, and the invertebrate question can no longer be deferred.
+This asymmetry, combined with the growing empirical case for invertebrate consciousness and the Map's philosophical framework that places no anthropocentric barrier on consciousness, supports a precautionary stance. The specific obligations that follow—regarding farming practices, pest control, habitat destruction, and scientific research protocols—require detailed ethical analysis beyond the scope of this article. The Map's [[phenomenal-normativity-environmental-ethics|environmental ethics under phenomenal normativity]] takes up the habitat and conservation half of that analysis, working out what follows once ecosystems are valued through the conscious beings living in them rather than in their own right. But the foundation is clear, and the precautionary apparatus is what makes it so: moral status tracks the presence of a subject rather than species membership, and a realistic possibility of a subject is already enough to generate obligation. The framework need not establish that invertebrates are probably conscious for the question to become undeferrable—only that their consciousness cannot be dismissed, which is where the tenets do their work, removing the parsimony defeater without pretending to supply evidence that only the empirical case can. The asymmetry of errors carries the argument the rest of the way.
 
 ## Relation to Site Perspective
 
@@ -125,6 +127,8 @@ The [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with in
 - [[degrees-of-consciousness]]
 - [[consciousness-value-connection]]
 - [[phenomenal-normativity-environmental-ethics]] — What sentientism demands of habitat, conservation, and climate policy once value tracks consciousness rather than ecological wholes
+- [[sentientism]] — The criterion itself: why moral status tracks the capacity for valenced experience, and what the Map's phenomenal reading adds to the functional one
+- [[possibility-probability-slippage]] — The calibration discipline governing this article's valence argument: a tenet may remove a defeater, but it must not upgrade the evidence level
 
 ## References
 
