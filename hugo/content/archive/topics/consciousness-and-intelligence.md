@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-07-31 10:24:08+00:00
+ai_modified: 2026-08-01 20:41:38+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness and Cognitive Distinctiveness
 archived: true
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-26 02:47:00+00:00
-lastmod: 2026-07-31 10:24:08+00:00
+lastmod: 2026-08-01 20:41:38+00:00
 modified: *id001
 original_path: /topics/consciousness-and-intelligence/
 related_articles:
@@ -85,7 +85,7 @@ Four capacities distinguish human from great ape cognition:
 
 **Metacognition**: Great apes show procedural metacognition — uncertainty guides their behaviour — but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge is a facet of the threshold.
 
-**Cumulative culture**: Apes have culture but cannot accumulate improvements across generations. Tennie, Call, and Tomasello (2009) describe ape innovations as within the "zone of latent solutions" — discovering what existing capacities can already produce. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect characteristic of human cumulative culture. Cumulative culture at the human scale requires recognising one's own knowledge as improvable and transmittable — a [metarepresentational](/concepts/metacognition/) capacity inseparable from conscious self-reflection.
+**Cumulative culture**: Apes have culture, but accumulation of improvements across generations remains at most incipient rather than open-ended. Tennie, Call, and Tomasello (2009) describe ape innovations as within the "zone of latent solutions" — discovering what existing capacities can already produce. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect characteristic of human cumulative culture. Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture, so the difference is graded rather than absolute — unmatched degree rather than sole possession ([contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)). Cumulative culture at the human scale requires recognising one's own knowledge as improvable and transmittable — a [metarepresentational](/concepts/metacognition/) capacity inseparable from conscious self-reflection.
 
 **Logical reasoning**: DeWall, Baumeister, and Masicampo (2008) tested whether logical reasoning depends on conscious processing through four experiments. Imposing conscious cognitive load impaired performance on logic puzzles, while nonconscious load did not. Nonconscious priming activated logic-relevant associations but failed to improve actual reasoning. Explicit rule-following depends on conscious access.
 
@@ -165,6 +165,7 @@ The threshold also reinforces the Map's rejection of [epiphenomenalism](/concept
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
+1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Miller, G. A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.

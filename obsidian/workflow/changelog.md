@@ -5,6 +5,22 @@ ai_modified: '2026-08-01T20:16:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 20:41 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `archive/topics/consciousness-and-intelligence.md` (L84 cumulative-culture absolute; one file only, per orchestrator)
+- **Changes**: hedged the retired flat ape-denial and installed the Gunasekaram citation; added one reference entry.
+- **Published**: yes
+- **The defect, verbatim from disk before the edit** (L84): *"Apes have culture but **cannot accumulate improvements across generations**."* This is the flat exclusivity claim `concepts/cumulative-culture.md` retired on 2026-07-29 (`08dfb33a1`) and `tenets.md` L94 retired on 2026-06-22 (`a73aac1e4`). It served its **full body** at `/archive/topics/consciousness-and-intelligence/`.
+- **The fix is a hedge, not a retraction.** New lead clause: *"Apes have culture, but accumulation of improvements across generations remains at most incipient rather than open-ended"* — the authors' own word *incipient*, matching the register at `cumulative-culture.md` L134. Tennie, Call & Tomasello (2009) and the zone-of-latent-solutions framing are **retained verbatim**; Whiten (2015) retained. Added one sentence: *"Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture, so the difference is graded rather than absolute — unmatched degree rather than sole possession ([[cumulative-culture#contested-exclusivity|contested exclusivity]])."* The metarepresentation conclusion that closes the paragraph is untouched, so the article's argument is unchanged; only the absolute register goes.
+- **Register copied, not composed.** *"graded rather than absolute"* from `concepts/bidirectional-interaction.md` L113; *"unmatched degree rather than sole possession"* from `concepts/cumulative-culture.md` L138. No new hedge was invented.
+- **Reference entry** copied verbatim from `bidirectional-interaction.md` L190 (full 12-author form with volume/issue/pages), inserted in alphabetical position between Georgiev and James. No metadata re-derived.
+- **Wikilink verified before writing, not after.** `[[cumulative-culture#contested-exclusivity]]` resolves from `archive/topics/` — post-sync the hugo twin renders `[contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)`, and the anchor exists at `hugo/content/concepts/cumulative-culture.md` L135 (`### Contested Exclusivity {#contested-exclusivity}`), which that file's own L39 and L60 already link to. No broken wikilink, so the pre-push sync is not blocked.
+- **Author order**: not applicable here — this locus needed Gunasekaram only, not Schleihauf. The `Schleihauf, Sanford, Engelmann` ordering fixed corpus-wide on 08-01 was not touched and not reintroduced inverted.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` — transcribing settled corpus prose, not new interpretation. `ai_modified` bumped to 2026-08-01T20:41:38+00:00 from a live `date -u`, verified strictly past. `last_deep_review`, `superseded_by`, `archived_date`, `archive_reason` all untouched — the page exists to preserve its URL.
+- **Mirror confirmed**: `uv run python scripts/sync.py` run; `hugo/content/archive/topics/consciousness-and-intelligence.md` L88 and L168 agree with the obsidian-side source. Not left obsidian-only.
+- **Still open on this same file, deliberately not fixed** (different line, owned by a separate task): **L80** — *"Chimpanzee working memory is substantially more limited than human capacity in abstract relational tasks (**Tomasello & Herrmann, 2010**)"*. That is a shared-intentionality paper carrying no such capacity figure; the settled form is *"approximately 2±1 items (Read, Manrique & Walker 2022)"*. Confirmed still present on disk after this pass.
+
 ## 2026-08-01 20:26 UTC - refine-draft
 
 - **Status**: Success
