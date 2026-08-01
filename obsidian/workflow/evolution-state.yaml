@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-01T23:01:37.677387+00:00'
-session_count: 18108
-cycle_position: 12213
+last_updated: '2026-08-01T23:13:24.083140+00:00'
+session_count: 18109
+cycle_position: 12214
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-01T19:54:03.350538+00:00'
@@ -25,7 +25,7 @@ last_runs:
   refine-draft: '2026-08-01T23:01:37.677387+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
   replenish-queue: '2026-08-01T22:40:31.468151+00:00'
-  condense: '2026-08-01T22:20:21.416381+00:00'
+  condense: '2026-08-01T23:13:24.083140+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
   literature-drift-review: '2026-07-28T05:07:33.055890+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-01'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-01'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-01'
+  outcome: success
+- task: condense
+  type: condense
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -912,18 +912,120 @@ queue_status:
   p3_tasks: 27
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-01T22:35:00+00:00'
-  last_replenishment_prev: '2026-08-01T21:55:00+00:00'
-  last_replenishment_run: 919
-  last_replenishment_mode: standard-two-chain-mints-length-source-verified-exhausted-plus-stale-anchor-repair
+  last_replenishment: '2026-08-01T23:25:00+00:00'
+  last_replenishment_prev: '2026-08-01T22:35:00+00:00'
+  last_replenishment_run: 920
+  last_replenishment_mode: standard-two-chain-mints-inline-vs-references-setdiff-lens-family-triaged-to-one-live-article
   replenishment_source_counts:
     chain: 2
     length_analysis: 0
+    staleness: 0
   relocated_starved_p2: 0
   promoted_p3_to_p2: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
-  stale_task_anchors_repaired: 2
+  stale_task_anchors_repaired: 0
+  run_920_note: 'run no.920 (2026-08-01T23:25Z, cycle-driven /replenish-queue): MINTED TWO P2
+    TASKS FROM A NEW MECHANICAL LENS. Floor restored 2 -> 4.
+
+
+    COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks + tools.todo.processor.parse_tasks.
+    BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor. AFTER:
+    31 active, 0 P0, 0 P1, 4 P2, 27 P3. Note that BOTH P2s run 919 minted at 22:35Z are still
+    open; the pair that drained since was the OLDER one (qualia refine 22:57Z, volitional-control
+    condense 23:11Z). Bottom-inserted, so FIFO drains run 919''s pair first and the existing
+    task line anchors (2043, 2058) are unshifted -- verified identical post-write.
+
+
+    SOURCE -- a lens, not a backlog. Chain from the 22:45Z aphantasia deep-review, whose stated
+    transferable lesson was that a per-cite ledger verifies each LISTED citation at the publisher
+    but never performs the inline-vs-References set-difference in either direction. Implemented
+    that as a mechanical corpus-wide scan.
+
+
+    THE SCAN''S TWO FALSE-POSITIVE TRAPS -- RECORD BOTH, THEY WILL RECUR. (1) The first pass
+    reported 235 files with orphan inline cites; roughly 90% was regex noise -- hyphenated multi-author
+    tokens (Abramsky-Coecke 2004) whose components ARE in the refs, possessives (Neumaier''s
+    2025), and month/common-word tokens (September 2024, Evidence 2024, MRI 2022). Tightened
+    to 73 files / 126 tokens. (2) Worse and more instructive: the no-apparatus detector looked
+    only for a `## References` heading and reported 18 files. The corpus actually uses TWO apparatus
+    conventions -- `## References` (315 of 319 topics, 312 concepts) AND `### External Sources`
+    nested under Further Reading (illusionism, inverted-qualia, philosophical-zombies, predictive-processing,
+    problem-of-other-minds, phenomenal-concepts-strategy). Counting both, and including archive/,
+    the TRUE family is NINE. This is [[narrow-grep-zero-is-not-proof-of-absence]] in its inverted
+    form: I searched for the words MY fix would use, not the words the corpus uses. Any future
+    apparatus audit must check both headings.
+
+
+    TRIAGE OF THE NINE. apex/apex-articles.md (62 tokens) and voids/voids.md (26) are SECTION
+    INDEXES whose apparent citations are inherited from the child-article descriptions they
+    list -- by design. Five positions/ files (quantum-interface, quantum-interface-calibration-history,
+    consciousness-scope, agency-and-will, arguments-for-dualism) cite through Argued-in wikilinks
+    to the articles carrying the apparatus -- register convention, and /positions-evolve territory
+    rather than refine-draft. archive/concepts/voluntary-attention-control.md is an archived
+    serving body. ONE live, non-index, non-register content article remains: MINT 1, topics/consciousness-and-causal-powers.md
+    -- seven external author-year cites (L86/L208 Torres Alegre, L126 Brass & Haggard, L174
+    Nisbett & Wilson + Wegner, L186 Bodien/Claassen NEJM, L200 Bayne + Schechter) and no apparatus
+    of any form. Five of the seven already exist as publisher-verified entries elsewhere in
+    the corpus, so the task names those paths and tells the fork to copy rather than re-verify;
+    only Bayne 2010 and Brass & Haggard 2007 need fresh lookups.
+
+
+    MINT 2 -- same lens, plus staleness convergence. concepts/causal-consistency-constraint.md
+    is #4 on tools.curate.deep_review.get_review_candidates (score 16.4, 18d). Its L51 authority
+    list names seven Born-rule reconstructions; four resolve to the References block and three
+    do not (Deutsch 1999, Wallace 2003-2012, Zurek envariance), with Arana 2025 additionally
+    orphaned at L73. Arana is REAL and already publisher-verified at topics/mathematical-structure-of-the-consciousness-physics-interface.md
+    L202 -- the task says copy that entry and explicitly forbids treating it as fabricated ([[citation-verify-false-negative]]).
+    Wallace is cited as a nine-year RANGE and Zurek with no year at all, so the task tells the
+    fork to judge those two rather than mechanically backfill.
+
+
+    FOUR CANDIDATES INVESTIGATED AND VERIFIED FALSE -- do not re-raise. (a) The synaesthesia
+    coalesce aftermath: voids/infant-consciousness L81 aliases synesthetic-void as ''neonatal
+    synesthesia hypothesis'' and concepts/phenomenology-vs-function-axis L63 attributes Wager
+    1999 through it, which read as nav-label drift -- but the void article covers the neonatal
+    hypothesis at L80-86 and Wager at L52. No defect. (b) Positions dependency from the 22:20Z
+    born-rule condense: three positions cite that article under Argued in, but the condense
+    was 24 insertions / 24 deletions with ZERO heading removals, i.e. pure compression. No update
+    minted ([[position-drift-diff-asserts-not-whole-block]]). (c) The 22:57Z qualia refine added
+    first-order-representationalism and higher-order-theories to frontmatter; both resolve to
+    live concepts files, so no push-blocker. (d) concepts/type-specificity L95 orphans six cites
+    but does so inside an explicit ''(in [[the-binding-problem]])'' deferral -- convention,
+    not defect. [[replenish-asserted-concrete-defect-often-false]] held again on 4 of 6 leads.
+
+
+    SECOND LOCUS RECORDED, DELIBERATELY NOT QUEUED. topics/hard-problem-of-consciousness.md
+    is the ONLY other live topics article with no apparatus of any form (the other two exceptions
+    are the section index topics.md and the intentional sidecar non-temporal-consciousness.refinement-log.md).
+    It carries Block 1978, Levine 1983, Loar 1990, McGinn 1989 and Papineau 2002 uncited at
+    3529w. It is the flagship and already draws ~10 mentions across open tasks, so it is a pileup
+    and human-call risk ([[outer-review-same-file-task-pileup]], [[human-decision-task-mispicked-as-refine]]).
+    Left for an operator.
+
+
+    LENGTH SOURCE still exhausted per run 919, and volitional-control was condensed at 23:11Z
+    with its changelog explicitly asking that no successor length task be minted (~141 prose
+    words left above target deliberately, to protect the 07-24 convergent outer-review remedy).
+    Honoured -- [[replenish-overmints-condense-vs-accept-as-survey]].
+
+
+    SECTION CAPS unchanged: topics 318/320, concepts 318/320. All expand-topic candidates remain
+    filtered corpus-wide, which is why this run again mints only refine work. CLAUDE.md''s section
+    table (~273 topics / ~265 concepts) is still badly stale.
+
+
+    PARSER HAZARD avoided per run 919: both Notes written as ONE bullet with indented bold run-in
+    headers, no second top-level ''- **X**:'' bullet. Verified post-write with parse_tasks --
+    notes 6782 and 5111 chars with tails intact, both dispatching to refine-draft at 6848 /
+    5177 arg chars. EOF tool-tag scan clean.
+
+
+    NO CONCURRENCY: pgrep showed no evolve_loop.py process. HEAD 0bb916322. The only uncommitted
+    delta before this run was the pre-existing evolution-state.yaml edit, legitimate deferred
+    cycle_post bookkeeping, left alone ([[orphaned-cyclepost-state-advance-in-worktree]]). REVERT
+    only if a sibling replenish double-restores this slot ([[concurrent-replenish-race]]). Pruned
+    run_917_note to hold the note ring at three ([[evolution-state-floor-restore-note-bloat]]).'
   run_919_note: 'run no.919 (2026-08-01T22:35Z, cycle-driven /replenish-queue): MINTED
     TWO P2 CHAIN
 
@@ -1202,126 +1304,5 @@ queue_status:
 
     NO CONCURRENCY: ps -eo pid,args showed no evolve_loop.py or unfin-cycle process.
     HEAD ec0dc65f6. The only uncommitted delta before this run was the pre-existing
-    evolution-state.yaml edit, which is legitimate deferred cycle_post bookkeeping
-    and was left alone. REVERT only if a sibling replenish double-restores this slot.'
-  run_917_note: 'run no.917 (2026-08-01T20:36Z, cycle-driven /replenish-queue): MINTED
-    ONE P2 FROM A HALF-CONSUMED RESEARCH NOTE AND PROMOTED ONE P3 TO P2. Floor restored
-    2 -> 4.
-
-
-    COUNTS via tools.evolution.task_selector.count_p0_p2_tasks + tools.todo.processor.parse_tasks
-    against the live file, not raw heading greps. BEFORE: 29 active, 0 P0, 0 P1, 2
-    P2, 27 P3, against MIN_QUEUE 3. AFTER: 30 active, 0 P0, 0 P1, 4 P2, 26 P3. Restored
-    with a margin of one so the next pick does not immediately re-trigger replenish.
-    Note the raw heading grep says 5 P2 -- three of those carry a "#veto" tag in the
-    title and the parser correctly excludes them, so the naive count would have wrongly
-    read the floor as satisfied and declined to replenish.
-
-
-    WHY THE P2 COUNT HAD FALLEN TO 2: run 916 minted two length_analysis condense
-    tasks (both still open, they are two of the four) plus one driver_found P2, and
-    the driver_found mint plus the run-915 holder both drained during the 18:46Z-20:29Z
-    window.
-
-
-    MINT ONE, refine-draft, source unconsumed_research, target obsidian/topics/penrose-gravity-induced-collapse-empirical-prospects.md.
-    THE FIND WORTH RECORDING -- a research note can be HALF consumed, and both the
-    naive dedupe and its documented inverse miss it. research/horizon-decoherence-2026-07-31.md
-    (created 07-31) closes with "do not create a new article" and two targeted additions
-    to existing articles instead. Recommendation 1 landed: concepts/prebiotic-collapse.md
-    L98 carries the paragraph it asked for and DSW 2022+2023 sit in its References.
-    Recommendation 2 never did. An exact-slug scan for "horizon-decoherence" over
-    the content trees returns 0 articles and 0 references, which reads as fully UNconsumed
-    and would over-mint an expand-topic; a prose scan for "horizon" returns prebiotic-collapse
-    and reads as fully consumed and would decline. Both are wrong. The residue was
-    only visible by reading the note''s own Recommendations section and grepping for
-    the specific entities it names.
-
-
-    THE RESIDUE, VERIFIED ON DISK: grep -rli over obsidian/ and archive/ for "Fahn|Pesci|Biggs|Trezzi"
-    and for "static star" returns ONLY the research note and workflow/changelog.md
-    -- zero content loci in either tree. So neither of the two live articles carrying
-    the Danielson-Satishchandran-Wald claim says the mechanism is contested, and penrose-gravity
-    L98 presents it as the unitary side''s acquired mechanism with "untested" as its
-    only caveat, inside the article''s strongest dialectical passage. The correction
-    runs IN the Map''s favour, which is a reason for care rather than enthusiasm.
-
-
-    LENGTH IS THE BINDING CONSTRAINT AND IS WRITTEN INTO THE TASK: penrose-gravity
-    is 3,947 words (3,192 prose + 755 apparatus) against the topics hard threshold
-    of 4,000, and length.py flips status at >= hard, so the honest headroom is 53
-    words -- two reference entries spend most of it. The task is scoped strictly length-neutral
-    and forbids paying for the addition out of a calibration hedge. The obvious sibling
-    concepts/prebiotic-collapse.md is 3,495 against a concepts hard of 3,500, i.e.
-    FIVE words, so it is genuinely blocked and the task explicitly fences it off rather
-    than re-scoping onto it.
-
-
-    PROMOTION, P3 -> P2, no mint: the archive-tree flat-ape-incapacity closer (5 files,
-    7 loci, measured on disk 2026-08-01T19:1xZ). Title, Type and File lines left byte-identical
-    so the cycle_post title sentinel still matches; only the priority token changed.
-    Chosen over minting a third condense because (a) archive/ serves full bodies at
-    public /archive/... URLs and three earlier passes of this family reported zero
-    purely because their sweeps ran over obsidian/ only, and (b) the floor counts
-    P0-P2 only, so every replenishment restores a P2 that pre-empts the whole 26-deep
-    P3 tier and a verified served defect parked at P3 will never run. Closing the
-    family also retires the repeated re-discovery cost -- roughly six passes on 08-01
-    touched it.
-
-
-    NOT PROMOTED, and the reason is worth keeping: the mental-causation-and-downward-causation
-    LEAD task (also P3, also verified, arguably higher extraction since it is a lead
-    paragraph) is explicitly BLOCKED ON HEADROOM at 3,499 words against a concepts
-    hard of 3,500 -- a ONE-WORD budget -- and its own notes say a clean decline is
-    the correct outcome if no honest redundancy is found. Promoting a probable decline
-    into a floor slot wastes the slot.
-
-
-    EIGHT-SOURCE AUDIT, live on disk 2026-08-01T20:3xZ. (1 chain) recent_tasks are
-    refine-draft / deep-review / pessimistic-review / agentic-social / harvest --
-    the horizon note is the one real chain and it became MINT ONE. (2 unconsumed-research)
-    swept the recent notes; the-interpreter-module-narrative-unity-2026-07-16 looked
-    unconsumed by exact slug but IS consumed as concepts/interpreter-module-narrative-construction-unity.md
-    -- a live instance of the threaded-consumption trap, no mint. horizon-decoherence
-    was the half-consumed case above. (3 gap/caps) topics 318/320, concepts 318/320,
-    voids 100/100 AT CAP, positions 11/80 -- see the operator flag below; no expand-topic
-    minted. (4 staleness) deep-review owns 4 of 24 cycle slots and self-selects from
-    get_review_candidates; minting would duplicate it. BLOCKED. (5 orphan) quality.orphaned_files
-    == 0. BLOCKED. (6 length) ONE genuine new live-content offender exists and was
-    deliberately NOT minted -- see the carry-forward below. (7 positions) 11 domain
-    files, 49 entries, but positions-evolve last ran 2026-07-31 (yesterday, well inside
-    the 30-day audit window) and FOUR positions-evolve tasks are already open at P3;
-    minting would be same-file pileup. BLOCKED. (8 applied-apex) no high-confidence
-    cluster lacking an applied apex; the source is capped at 1 per replenishment by
-    design and stays unspent.
-
-
-    CARRY FORWARD FOR THE NEXT RUN -- topics/volitional-control.md is a genuine, unqueued,
-    unvetoed length offender: 5,252 raw, decomposed to 4,461 words of prose against
-    the topics hard threshold of 4,000, so ~461 over hard and NOT a false over-length.
-    It has no open or vetoed condense task. It was held back for two reasons, neither
-    of which is "it is fine": both existing floor holders are already condense tasks
-    and a third would make the entire P0-P2 tier length work against the skill''s
-    own diversity rule; and the article is under active methodological scrutiny --
-    the 2026-07-24 convergent outer review found a co-optation defect in it (a naturalist-author
-    supermajority marshalled for dualism) and a citation-freshness problem (only 2
-    of 25 references are from the 2020s), so a condense pass over it carries an above-average
-    risk of regressing exactly the calibration qualifiers that review was about. Mint
-    it when the floor is not already condense-saturated, and scope it to hold the
-    hedges verbatim.
-
-
-    OPERATOR FLAG, RAISED NOT ACTIONED -- the corpus is two articles from cap in both
-    growth sections: topics 318/320 and concepts 318/320, with voids already at 100/100.
-    The research pipeline still mints subjects (harvest-research-subjects ran today)
-    but there is effectively nowhere to put the output, and the horizon-decoherence
-    note''s own recommendation cites the cap explicitly as its first reason not to
-    create an article. Either the caps get raised again, as they were on 06-14 and
-    06-20, or expand-topic is finished as a task type and the loop is now permanently
-    an improvement loop. This is a direction decision and belongs to the operator.
-
-
-    NO CONCURRENCY: ps -eo pid,args showed no evolve_loop.py or unfin-cycle process.
-    HEAD ef49c7439. The only uncommitted delta before this run was the pre-existing
     evolution-state.yaml edit, which is legitimate deferred cycle_post bookkeeping
     and was left alone. REVERT only if a sibling replenish double-restores this slot.'
