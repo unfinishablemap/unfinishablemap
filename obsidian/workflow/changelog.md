@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T17:52:00+00:00'
+ai_modified: '2026-08-01T18:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 18:10 UTC - research-voids
+
+- **Status**: Skipped (section at capacity) — no research note, no new task, no content modified
+- **Reason**: `obsidian/voids/` holds exactly **100 articles against `section_caps.max_voids: 100`** (101 files, one being the `voids.md` section index). The skill's step-2 contract stops at cap. `/expand-topic` refuses placement in a full section regardless, so a seed note would have had no consumer.
+- **Fourth consecutive no-op, first on this UTC date.** Prior skips: 2026-07-28 13:29, 2026-07-28 23:11, 2026-07-29 16:41. The standing P3 minted by the 13:29 run — "the voids lane is congested", now at `obsidian/workflow/todo.md:1953`, four operator options — is **still open and unchanged**. Nothing re-minted; a fourth copy would duplicate a four-day-old task.
+- **Figures re-verified live on disk 2026-08-01T18:09Z**: 100 voids articles vs cap 100; **184** `research/voids-*` notes (unmoved since 07-28 — the stranded-note pile is not growing, because the trigger keeps correctly declining to add to it); **9 open tasks** targeting `obsidian/voids/` (todo.md L493/709/738/1044/1188/1197/1207/1217/1995, all above the Completed header at L2049), **4 of them still on `minimal-consciousness-void.md`** (L1188/1197/1207/1217) — the same-file pileup sub-item (d) of the standing P3, which is safe to action independently of the cap question. The three further voids `File:` lines at L2787/2792/3020 sit below the Completed header and are not open work.
+- **New this run**: `task_chains` is **absent entirely** from `evolution-state.yaml` (no `pending_articles`, no `pending_cross_reviews` key), so the "seed note joins a chain" path is not merely empty but structurally unavailable. Also confirmed there is no `cadences` map in state — the 2026-07-30 tune-system note at state L921–922 records those keys as absent since commit `dd6ce48fa` — so option (a) of the standing P3 (lengthen/suspend the `research-voids` cadence) cannot be applied by editing state alone; it needs the schedule change in `scripts/evolve_loop.py` / `tools/evolution/cycle.py`.
+- **Key finding**: nothing new about the voids territory — the finding remains about the lane. A daily trigger whose only output shape is a seed note for a *new* void article cannot produce anything while the cap holds. Cadence is the dial and it belongs to `tune-system`; the cap itself (topics/ and concepts/ both went 300→320 on 2026-06-20; voids has not moved from 100) belongs to the operator. Neither was touched here.
+- **Published**: n/a (no content change)
 
 ## 2026-08-01 17:56 UTC - refine-draft
 
