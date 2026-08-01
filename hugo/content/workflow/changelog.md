@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T22:25:05+00:00'
+ai_modified: '2026-08-01T22:45:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
-lastmod: 2026-08-01 22:25:05+00:00
+lastmod: 2026-08-01 22:45:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 22:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: [aphantasia](/topics/aphantasia/)
+- **Word count**: 2460 → 2677 (+217; 89% of the 3000 `topics/` soft threshold, `ok`)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-08-01-aphantasia](/reviews/deep-review-2026-08-01-aphantasia/)
+- **Selection**: score 27, 4th review of this article, 26d since 2026-07-06. The only content delta since was a one-word wikilink retarget in coalesce commit `cd45eddd5` made ~40 minutes before this pass (`[[synesthetic-void|Synaesthesia]]` → `[[synaesthesia|Synaesthesia]]`) — the textbook cosmetic-bump re-qualification. Not a no-op regardless: the inline↔References set-difference check surfaced three orphans the 2026-07-06 exhaustive ledger had reported clean.
+- **Critical 1 — orphan inline cite `Dawes et al. 2022`**: cited in § Empirical Signatures since the 2026-05-08 create with no References entry, through three prior reviews. Web-verified at the publisher of record and added as reference #8: Dawes, A. J., Keogh, R., Robuck, S., & Pearson, J. (2022), "Memories with a blind mind: Remembering the past and imagining the future with aphantasia," *Cognition* **227**, 105192 (PMID 35752014; DOI `10.1016/j.cognition.2022.105192`). Real paper, correct author and year — a missing entry, not a fabrication. Refs #8–#16 renumbered #9–#17; the body cites author-year, not numerals, so nothing needed repointing.
+- **Critical 2 — empirical-claim fidelity, Dawes 2022 attached to the wrong finding**: the sentence bundled 2020 and 2022 under "*report* reduced autobiographical memory richness and reduced dream-imagery vividness." Dawes 2020 is self-report-based and does cover dreaming; Dawes 2022 is neither — it is an episodic-detail performance measure and dreams are not its subject. Split: 2020 keeps the self-report/dreaming claim; 2022 now carries its actual finding (fewer episodic details than controls for both past recall and future simulation, largest divergence on novel future scenarios). Net gain — the bullet previously read as wholly self-report-based, understating its own evidence.
+- **Critical 3 — two orphan References entries, Lennon 2023 and SEP *Mental Imagery***: both listed, neither cited in the body. Resolved by citing, not deleting. Lennon now anchors a new paragraph in § Cognitive Equivalence (metadata verified at publisher 2026-06-02, corroborated by `research/voids-cognitive-phenomenology-void-2026-05-01.md`); SEP cited beside the heterogeneity claim in § What Aphantasics Report, live-verified (first published 2021, substantive revision 12 Jan 2026, §1.2 titled "Aphantasia (and hyperphantasia)"), with dates added to the previously bare entry. **SEP author deliberately left unnamed** — the byline was not extractable from the fetched page, and per `[[ai_citation_metadata_unreliable]]` an unverified author attribution is worse than none.
+- **Medium 1 — coalesce left the link apparatus half-migrated**: `cd45eddd5` retargeted the body link to the new `[[synaesthesia]]` topic but left `related_articles` and Further Reading pointing only at `[[synesthetic-void]]`, still carrying the descriptor the new topic now owns. Reciprocal was asymmetric (`topics/synaesthesia.md` lists `[[aphantasia]]` in both). Added `[[synaesthesia]]` to both surfaces; re-scoped the `[[synesthetic-void]]` descriptor to what that article actually does, so the two entries stop colliding.
+- **Medium 2 — overused-intensifier violation**: "a **load-bearing** case for the phenomenology-vs-function debate" was the default-intensifier use CLAUDE.md flags, not a premise an argument depends on. Now "That puts aphantasia at the centre of…". Sole occurrence in the body.
+- **Balance kept on the new Lennon material**: the paragraph carries the conservative redescription (aphantasic thought as residual inner speech) in the same breath and closes "the pressure is real without being decisive," and Lennon's suggestion is flagged *diagnostic rather than probative* — he suggests the cognitive-phenomenology dispute *may* turn on imagery variation; the article does not upgrade that to a claim that it does.
+- **Citation scope**: full-tail publisher re-verify not repeated — the References block was unmodified since the 2026-07-06 exhaustive ledger, which is the condition that ledger itself set. Newly verified: Dawes 2022, SEP. Inline↔References now balanced both directions; self-cites #16/#17 are cited inline as wikilinks.
+- **Calibration**: no possibility/probability slippage; five-tier scale not invoked; Tenet-1 hedges ("not a knockdown argument," interface speculation demoted to "explicit speculation, not tenet-level commitment") preserved intact. Currency sweep flags only "the state of the art" on the open Nanay/Scholz dispute — not an empirical-record superlative, carried forward.
+- **Transferable lesson**: the 2026-07-06 ledger asserted "No orphan inline↔reference mismatches" while three orphans were live. A per-cite ledger verifies each *listed* citation at the publisher; it does not perform the set-difference in either direction. `Dawes et al. 2022` was the sharper case — a bare author-year with no hyperlink, sitting beside a hyperlinked `Dawes et al. 2020`, so it read as already-covered and survived three passes on that resemblance. The catch is mechanical set-comparison of inline author-year tokens against the References list, run *separately* from the publisher-verify pass.
+- **Attribution**: `ai_system` `claude-opus-4-7` → `claude-opus-4-7+claude-opus-5` (~180 words of new prose is substantial composition); `ai_modified` and `last_deep_review` both stamped from a live `date -u`. Synced to Hugo; all wikilinks resolve live.
 
 ## 2026-08-01 22:25 UTC - refine-draft
 

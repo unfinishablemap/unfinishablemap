@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-01T22:26:59.996952+00:00'
-session_count: 18104
+last_updated: '2026-08-01T22:40:31.468151+00:00'
+session_count: 18105
 cycle_position: 12211
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-01T22:26:59.996952+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-01T21:54:34.898346+00:00'
+  replenish-queue: '2026-08-01T22:40:31.468151+00:00'
   condense: '2026-08-01T22:20:21.416381+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-01'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-01'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-01'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -930,85 +930,171 @@ queue_status:
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 2
-  run_919_note: |-
-    run no.919 (2026-08-01T22:35Z, cycle-driven /replenish-queue): MINTED TWO P2 CHAIN
+  run_919_note: 'run no.919 (2026-08-01T22:35Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 CHAIN
+
     TASKS, VERIFIED THE LENGTH SOURCE EXHAUSTED, AND REPAIRED TWO STALE LINE ANCHORS.
+
     Floor restored 2 -> 4.
 
+
     COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks +
+
     tools.todo.processor.parse_tasks. BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against
+
     MIN_QUEUE 3 -- i.e. BELOW the floor. AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3.
+
     NOTE the p2_tasks: 4 that run 918 recorded at 21:55Z was already STALE by 22:35Z:
+
     two P2s drained in between (condense born-rule 22:20Z, refine penrose-gravity
+
     22:27Z). Never trust the recorded snapshot; re-count live every run.
 
+
     LENGTH SOURCE VERIFIED EXHAUSTED -- NOT SKIPPED. get_length_warnings returns 92
+
     entries, and every article-section candidate is a FALSE positive once the reference
+
     apparatus is stripped. Measured this run (prose vs hard threshold):
+
     topics/time-collapse-and-agency 4092 v 4000 (+92); attention-and-the-consciousness-
+
     interface 3864 (UNDER); qm-interpretations-beyond-many-worlds 3704 (UNDER);
+
     phenomenal-authority-and-first-person-evidence 3690 (UNDER); apex/conjunction-coalesce
+
     5062 v 5000 (+62); voids/synesthetic-void 3130 v 3000 (+130). Nothing worth a
+
     condense beyond the already-queued volitional-control. See
+
     [[analyze-length-counts-reference-apparatus]] -- the raw figure is inflated by
+
     400-800 words of References + Further Reading in nearly every file.
 
+
     DID NOT RE-MINT A CONDENSE ON epistemology-of-convergence-arguments, despite it
+
     still reading hard_warning. Its 21:31Z condense (commit 133b01272) was a DELIBERATE
-    partial -- 6602 -> 5980 raw, 5973 -> 5415 prose, critical -> hard_warning -- and its
+
+    partial -- 6602 -> 5980 raw, 5973 -> 5415 prose, critical -> hard_warning -- and
+    its
+
     changelog states that ~1215 prose words are structurally locked, that five live
-    articles anchor its section headings so the extract-to-a-new-article escape hatch is
-    closed, and recommends treating ~5400 prose as this node's floor and closing any
+
+    articles anchor its section headings so the extract-to-a-new-article escape hatch
+    is
+
+    closed, and recommends treating ~5400 prose as this node''s floor and closing
+    any
+
     successor length task. ACCEPTED. Re-minting an hour later would have been exactly
+
     the churn pattern in [[replenish-overmints-condense-vs-accept-as-survey]].
 
+
     POSITIONS-DEPENDENCY CANDIDATE INVESTIGATED AND VERIFIED FALSE. positions/
+
     finding-level-calibration P-F1 lists topics/epistemology-of-convergence-arguments
+
     under Argued in, and the condense deleted the whole of the old L108 -- which looked
-    like an Argued-in citation surviving the removal of the argument it cites. It is not:
+
+    like an Argued-in citation surviving the removal of the argument it cites. It
+    is not:
+
     the derivation SURVIVES intact at the live L104 (architecture v significance,
+
     compatibility-grade rather than vindication-grade, sophisticated functionalism
+
     predicting the same dissociation, the compatibility-vs-support discipline link).
+
     Only the closing summary clause was folded into L106. No positions-evolve update
+
     minted. [[replenish-asserted-concrete-defect-often-false]] again.
 
-    STALE ANCHORS REPAIRED IN THE OPEN P3 O'Brien-Kop TASK (in place, no re-scope):
-    L232 -> L224 (reference entry) and L96 -> L92 (running prose), both shifted upward by
-    the 21:31Z condense, which held the two lines byte-identical. The LOCUS 2 anchors in
-    the same task (concepts/samkhya-three-way-distinction L144 / L95) were re-grepped in
-    the same pass and are STILL CORRECT -- a note to that effect was added so the next
+
+    STALE ANCHORS REPAIRED IN THE OPEN P3 O''Brien-Kop TASK (in place, no re-scope):
+
+    L232 -> L224 (reference entry) and L96 -> L92 (running prose), both shifted upward
+    by
+
+    the 21:31Z condense, which held the two lines byte-identical. The LOCUS 2 anchors
+    in
+
+    the same task (concepts/samkhya-three-way-distinction L144 / L95) were re-grepped
+    in
+
+    the same pass and are STILL CORRECT -- a note to that effect was added so the
+    next
+
     fork does not "fix" them.
 
+
     MINT 1, chain from the 22:25Z penrose-gravity refine: concepts/prebiotic-collapse.md
+
     L98 states the Danielson-Satishchandran-Wald horizon-decoherence result with no
-    challenge, missing the static-star limit and the Fahn & Pesci PRD challenge that the
-    sibling article now carries. The task CORRECTS its own source: that changelog called
-    the file "3,492 against 3,500 -- 8 words of headroom, genuinely blocked", but that is
+
+    challenge, missing the static-star limit and the Fahn & Pesci PRD challenge that
+    the
+
+    sibling article now carries. The task CORRECTS its own source: that changelog
+    called
+
+    the file "3,492 against 3,500 -- 8 words of headroom, genuinely blocked", but
+    that is
+
     the raw figure; decomposed prose is 2994 v 3500, i.e. ~500 words of REAL headroom.
+
     Not blocked, and the task tells the fork not to pair it with a trim.
 
+
     MINT 2, chain from the 20:57Z optimistic review: topics/bandwidth-of-consciousness.md
+
     is the home of the bandwidth argument, which apex/pharmacological-dissociation-as-
+
     evidence L138 records as WITHDRAWN as a discriminator (GWT makes a conscious-access
-    bottleneck its defining feature, so the datum is shared). The article has no link to
-    the withdrawal and its GWT section stops at a framing question instead of the verdict.
+
+    bottleneck its defining feature, so the datum is shared). The article has no link
+    to
+
+    the withdrawal and its GWT section stops at a framing question instead of the
+    verdict.
+
     Prose 3423 v 4000 hard -- not blocked. The task is fenced hard against over-correction:
+
     the file is unusually well calibrated and four named concessions must survive.
 
+
     SECTION CAPS MEASURED: topics 318/320, concepts 318/320 -- both effectively FULL,
-    two slots each. All expand-topic candidates are filtered corpus-wide, which is why
-    this run mints only refine work. CLAUDE.md's section table (~273 topics / ~265
-    concepts) is badly stale and should be corrected. The 20:57Z optimistic review's
+
+    two slots each. All expand-topic candidates are filtered corpus-wide, which is
+    why
+
+    this run mints only refine work. CLAUDE.md''s section table (~273 topics / ~265
+
+    concepts) is badly stale and should be corrected. The 20:57Z optimistic review''s
+
     enhancement-through-disruption expansion stays blocked; it is a human call.
 
-    PARSER HAZARD HIT AND FIXED WITHIN THIS RUN -- record it. Both new blocks were first
+
+    PARSER HAZARD HIT AND FIXED WITHIN THIS RUN -- record it. Both new blocks were
+    first
+
     written with several top-level "- **X**:" bullets following "- **Notes**:".
+
     _parse_task_block calls raw_line.strip() BEFORE testing startswith("- **"), so
-    INDENTING a continuation bullet does NOT rescue it -- notes truncated to 1731 and
-    1575 chars, dropping every constraint after the first paragraph. Converted 12 bullets
-    to indented "  **X**" run-in headers; notes now parse at 5277 and 4722. Notes must be
+
+    INDENTING a continuation bullet does NOT rescue it -- notes truncated to 1731
+    and
+
+    1575 chars, dropping every constraint after the first paragraph. Converted 12
+    bullets
+
+    to indented "  **X**" run-in headers; notes now parse at 5277 and 4722. Notes
+    must be
+
     ONE bullet; use inline bold run-in headers for structure, never a second top-level
-    bullet. Verified with parse_tasks before finishing.
+
+    bullet. Verified with parse_tasks before finishing.'
   run_918_note: 'run no.918 (2026-08-01T21:55Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS AND REPAIRED A SILENT NOTES-TRUNCATION DEFECT IN THREE OPEN P2 BLOCKS.
     Floor restored 2 -> 4.

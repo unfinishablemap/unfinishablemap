@@ -4,8 +4,8 @@ description: "Human+AI exploration of aphantasia—the absence of voluntary ment
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-08-01T22:03:33+00:00
-last_deep_review: 2026-07-06T21:42:21+00:00
+ai_modified: 2026-08-01T22:45:13+00:00
+last_deep_review: 2026-08-01T22:45:13+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[phenomenal-contrast-method]]"
 related_articles:
   - "[[imagery-void]]"
+  - "[[synaesthesia]]"
   - "[[synesthetic-void]]"
   - "[[mental-imagery]]"
   - "[[phenomenology-of-imagination]]"
@@ -31,7 +32,7 @@ related_articles:
   - "[[source-attribution-divergence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-08
 last_curated:
 embedded_videos:
@@ -43,7 +44,7 @@ embedded_videos:
 
 Aphantasia is the absence, in a substantial minority of otherwise typical minds, of voluntary phenomenal imagery. Asked to picture a red apple, an aphantasic person reports nothing visual—no mental picture, no shadow of one, no faded sketch. The cognitive task that imagery is usually thought to support (recalling a face, rehearsing a route, picturing a friend's living room) gets done anyway, by other means. Roughly 1% of the population is extreme-aphantasic, 3% extreme-hyperphantasic at the opposite end, and the remainder spread across a continuous spectrum of reported vividness ([Zeman 2024](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(24\)00034-2)). The phenomenon was named by Adam Zeman in 2015, but the underlying observation—that minds vary, perhaps radically, in what they "see" inwardly—was first documented by Francis Galton in 1880 and then partially eclipsed for over a century before the post-2010 clinical literature reopened it.
 
-Aphantasia matters to philosophy of mind because it is empirically anchored single-species evidence that two minds can perform demonstrably the same cognitive task with phenomenally divergent inner lives—and, in the limiting case, with one of those lives missing the imagery the task is conventionally said to require. That makes aphantasia a load-bearing case for the [[phenomenology-vs-function-axis|phenomenology-vs-function]] debate, the [[hard-problem-of-consciousness|hard problem of consciousness]], and the broader question of how much a third-person science of mind can capture about first-person experience.
+Aphantasia matters to philosophy of mind because it is empirically anchored single-species evidence that two minds can perform demonstrably the same cognitive task with phenomenally divergent inner lives—and, in the limiting case, with one of those lives missing the imagery the task is conventionally said to require. That puts aphantasia at the centre of the [[phenomenology-vs-function-axis|phenomenology-vs-function]] debate, the [[hard-problem-of-consciousness|hard problem of consciousness]], and the broader question of how much a third-person science of mind can capture about first-person experience.
 
 <details class="yt-embed" data-video-id="FjkqqFUeqrk">
 <summary>Video introduction</summary>
@@ -55,7 +56,7 @@ Aphantasia matters to philosophy of mind because it is empirically anchored sing
 
 The lived report is consistent across published case series. Aphantasic adults, asked the standard imagery questions ("Picture your kitchen—how vivid is it on a scale of 1 to 5?"), often answer that there is nothing to rate: the request returns no visual content at all. They typically still know the kitchen—where the kettle is, what colour the cabinets are—but the knowing is propositional and abstract rather than pictorial. Many aphantasics report that they assumed for decades that "see in your mind's eye" was a metaphor everyone used, and discovered only late in life, often through reading about Zeman's case studies, that for most others it isn't ([Zeman et al. 2015](https://www.sciencedirect.com/science/article/abs/pii/S0010945215000106)).
 
-The absence is often selective rather than total. Some aphantasics retain involuntary imagery—dreams, intrusive flashes—while voluntary imagery is missing. Some are aphantasic only for vision; others extend the absence to imagined sound, taste, touch, or motor imagery (Dance, Ipser & Simner 2022). A subset reports lifelong, congenital aphantasia; another, smaller subset reports acquired aphantasia following stroke, head injury, or psychiatric illness. The pattern is graded, modally heterogeneous, and only partially correlated with related conditions like prosopagnosia (face blindness) and severely deficient autobiographical memory ([Dawes et al. 2020](https://www.nature.com/articles/s41598-020-65705-7)).
+The absence is often selective rather than total. Some aphantasics retain involuntary imagery—dreams, intrusive flashes—while voluntary imagery is missing. Some are aphantasic only for vision; others extend the absence to imagined sound, taste, touch, or motor imagery (Dance, Ipser & Simner 2022). A subset reports lifelong, congenital aphantasia; another, smaller subset reports acquired aphantasia following stroke, head injury, or psychiatric illness. The pattern is graded, modally heterogeneous, and only partially correlated with related conditions like prosopagnosia (face blindness) and severely deficient autobiographical memory ([Dawes et al. 2020](https://www.nature.com/articles/s41598-020-65705-7)). The [*Stanford Encyclopedia of Philosophy* entry on mental imagery](https://plato.stanford.edu/entries/mental-imagery/) (substantive revision January 2026) gives aphantasia and hyperphantasia a section of their own and foregrounds this heterogeneity of the category.
 
 At the opposite end of the spectrum, hyperphantasics describe imagery "as vivid as real seeing"—indistinguishable, by their report, from perception in vividness if not in source-attribution. Whether the phenomenology these reports pick out is comparable across people is itself a deep question, taken up below in [Cognitive equivalence and the function gap](#cognitive-equivalence-and-the-function-gap).
 
@@ -81,7 +82,7 @@ The post-2010 literature has converged on several signatures that make aphantasi
 
 **Neural connectivity.** Zeman (2024) reports that frontoparietal-to-visual network connectivity differs along the imagery spectrum. Stronger connectivity correlates with stronger reported imagery. The relevant neural difference is in cross-network coupling rather than in primary visual cortex itself.
 
-**Autobiographical memory and dream content.** Aphantasics often (not always) report reduced autobiographical memory richness and reduced dream-imagery vividness ([Dawes et al. 2020](https://www.nature.com/articles/s41598-020-65705-7); Dawes et al. 2022). The pattern suggests imagery is not a single faculty but a cluster of correlated capacities sharing a substrate.
+**Autobiographical memory and dream content.** Aphantasics often (not always) report reduced autobiographical memory richness and reduced dream-imagery vividness ([Dawes et al. 2020](https://www.nature.com/articles/s41598-020-65705-7)). The gap is not confined to self-report: [Dawes et al. (2022)](https://doi.org/10.1016/j.cognition.2022.105192) found that aphantasic participants generated significantly fewer episodic details than controls both when recalling past events and when imagining future ones, with the largest divergence on novel future scenarios. The pattern suggests imagery is not a single faculty but a cluster of correlated capacities sharing a substrate.
 
 These signatures show that something imagery-shaped is happening differently across the spectrum. They detect the difference's effects on behaviour and physiology. They do not deliver the phenomenology directly.
 
@@ -96,6 +97,8 @@ This sets up the central wedge. If two minds perform demonstrably the same cogni
 3. Introspective reports of imagery systematically misdescribe the underlying process, so that "I see a vivid image" and "I see no image" are both partially inaccurate self-models of one underlying functional kind.
 
 Each option is metaphysically loaded. Option 1 makes phenomenal imagery a candidate epiphenomenon at the task level. Option 2 saves [[functionalism]] but at the cost of fine-grained individuation that has to be specified. Option 3 ([[introspection|introspective unreliability]]) sits with Schwitzgebel's broader claim that introspective knowledge of conscious experience is highly inaccurate, untrustworthy, and faulty (Schwitzgebel 2008) and weakens the evidential value of all imagery reports. Taken to its limit, option 3 dissolves the wedge from a different angle than options 1 and 2: if neither cohort's reports are reliable, then we do not know that the phenomenologies diverge in the way the cohort labels suggest, and the within-species comparison loses its evidential grip. The argument from aphantasia therefore depends on giving introspective reports *some* evidential weight—enough to register the contrast, even if not enough to settle which option is correct.
+
+Preston Lennon's "Aphantasia and Conscious Thought" (2023) adds a consideration that cuts across all three. If aphantasics have conscious thought without sensory imagery, the phenomenology of thought is not exhausted by sensory content—which is direct empirical pressure toward the liberal side of the [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive phenomenology]] dispute. Lennon's further suggestion is diagnostic rather than probative: the dispute itself may turn on interpersonal variation in imagery, with each side introspecting a genuinely different architecture and generalising from its own case. Conservatives can still redescribe aphantasic thought as residual inner speech, so the pressure is real without being decisive.
 
 The [[imagery-void|imagery void]] gives the abstract structural treatment of why this trichotomy cannot be settled from inside the imager's perspective. The 2025 *Mind & Language* exchange between Bence Nanay and Christian Scholz takes a different route, asking whether aphantasics have *unconscious* imagery: imagery-shaped neural activity that does the cognitive work imagers consciously experience. Nanay (2025) argues the predictive-processing framework supports this reading; Scholz (2025) argues that the unconscious-imagery hypothesis stretches the concept of imagery beyond useful definition. As of 2026, the dispute remains open—a 2026 *Brains Blog* summary of the state of the art described it with characteristic honesty: "we still don't know."
 
@@ -118,7 +121,8 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 ## Further Reading
 
 - [[imagery-void]] — The abstract structural treatment: why the imager cannot verify the fidelity, vividness, or even presence of their own imagery
-- [[synesthetic-void]] — The companion case at the opposite extreme: extra phenomenal content under matched representational input
+- [[synaesthesia]] — The companion case at the opposite extreme: extra phenomenal content under matched representational input
+- [[synesthetic-void]] — The structural treatment of that case: qualia exceeding description, and the intra-species limits on sharing them
 - [[mental-imagery]] — The concept aphantasia is the negative pole of
 - [[phenomenology-of-imagination]] — First-person structure of imaginative acts
 - [[phenomenology-vs-function-axis]] — The cross-cutting axis aphantasia is the grain-of-function exemplar for
@@ -137,12 +141,13 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 5. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
 6. Wicken, M., Keogh, R., & Pearson, J. (2021). The critical role of mental imagery in human emotion: Insights from fear-based imagery and aphantasia. *Proceedings of the Royal Society B*, 288. https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0267
 7. Dawes, A. J., Keogh, R., Andrillon, T., & Pearson, J. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022. https://www.nature.com/articles/s41598-020-65705-7
-8. Dance, C. J., Ipser, A., & Simner, J. (2022). The prevalence of aphantasia (imagery weakness) in the general population. *Consciousness and Cognition*, 97, 103243.
-9. Larner, A. (2024). Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations. *Neuroscience and Biobehavioral Reviews*. https://www.sciencedirect.com/science/article/abs/pii/S0149763424002884
-10. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
-11. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*, 40(3), 333–340. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
-12. Scholz, C. O. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*, 40(3), 317–324. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
-13. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
-14. Stanford Encyclopedia of Philosophy. Mental Imagery. https://plato.stanford.edu/entries/mental-imagery/
-15. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
-16. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Phenomenology-vs-Function Axis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/
+8. Dawes, A. J., Keogh, R., Robuck, S., & Pearson, J. (2022). Memories with a blind mind: Remembering the past and imagining the future with aphantasia. *Cognition*, 227, 105192. https://doi.org/10.1016/j.cognition.2022.105192
+9. Dance, C. J., Ipser, A., & Simner, J. (2022). The prevalence of aphantasia (imagery weakness) in the general population. *Consciousness and Cognition*, 97, 103243.
+10. Larner, A. (2024). Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations. *Neuroscience and Biobehavioral Reviews*. https://www.sciencedirect.com/science/article/abs/pii/S0149763424002884
+11. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
+12. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*, 40(3), 333–340. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
+13. Scholz, C. O. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*, 40(3), 317–324. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
+14. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
+15. Mental Imagery. *Stanford Encyclopedia of Philosophy* (first published 2021; substantive revision 12 January 2026). https://plato.stanford.edu/entries/mental-imagery/
+16. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
+17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Phenomenology-vs-Function Axis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/
