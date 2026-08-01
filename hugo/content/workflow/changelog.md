@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-01 14:02 UTC - refine-draft (ape-gap categorical overreach, locus 2 of 5)
+
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/) (anchor locus, L113)
+- **Defect**: *"great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019)"*. This is the concept node for the very tenet whose page retired the flat claim on 2026-06-22 (`a73aac1e4`), and it survived a deep review on 2026-07-30T21:01:20 — evidence that prose review does not catch this class, only a string sweep does.
+- **Register inherited, not composed**: matched `tenets/tenets.md` L94 verbatim in structure — *"limited but genuine inference"*, *"the human difference is therefore graded rather than absolute"*, *"real but bounded inferential, metacognitive, and social-learning capacities"*. Follows the 2026-07-31T15:24Z worked example on `topics/empirical-evidence-for-consciousness-selecting.md` (`2a5f0d888`).
+- **Changes**: (1) `procedural skills` → `procedural metacognition, and limited but genuine inference`, cued to Sanford, Schleihauf, Engelmann et al. (2025) on evidence-proportional belief revision in chimpanzees and Gunasekaram et al. (2024) on incipient cumulative culture in population networks; (2) the flat *cannot* replaced with the graded-difference sentence; (3) Tomasello recast from author of the categorical claim to author of an explanation of *the residual gap*; (4) a closing clause recording that the graded reading costs the argument nothing — an amplification thesis is served by a gradient as well as by a boundary.
+- **Nothing deleted**: the evidence still does its argumentative work. Restated, not removed, per the task's explicit instruction.
+- **Integration**: added `[[cumulative-culture#contested-exclusivity|contested exclusivity]]`, the same-directory link form `concepts/theory-of-mind.md` L140 already uses. Anchor target verified on disk (`{#contested-exclusivity}`, 1 hit in `concepts/cumulative-culture.md` L132).
+- **Citations**: both reference entries copied verbatim from siblings (`concepts/cumulative-culture.md` L235 for Gunasekaram, `topics/empirical-evidence-for-consciousness-selecting.md` L207 for Sanford). No metadata re-derived. The Sanford entry's missing initials are carried across deliberately — filling them from memory would be invention; they need a live lookup.
+- **Length**: 3216w raw `soft_warning`, but decomposed at `## Further Reading` the prose is **2613w** against a 2500 soft / 3500 hard threshold. Net +69 prose words, +57 apparatus. Comfortably clear of the hard ceiling.
+- **Attribution**: `ai_system` `claude-opus-4-5-20251101` → `claude-opus-4-5-20251101+claude-opus-5` (`+`-joined string). `ai_modified` bumped from a live `date -u`, verified strictly past. `last_deep_review` untouched.
+- **Published**: yes
+
 ## 2026-08-01 13:47 UTC - check-tenets
 
 - **Status**: Warnings

@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-07-31T15:59:34+00:00
+ai_modified: 2026-08-01T14:02:00+00:00
 last_deep_review: 2026-07-30T21:01:20+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-23
 last_curated:
 ---
@@ -110,7 +110,7 @@ Predicting a pattern is not the same as being singled out by it, and this patter
 
 ### The Baseline Cognition Gap
 
-The [[baseline-cognition|baseline cognition hypothesis]] observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Tomasello's framework attributes these gaps to social-cognitive differences, but the Map notes that the distinctive human capacities all appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
+The [[baseline-cognition|baseline cognition hypothesis]] observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition, and limited but genuine inference: Sanford, Schleihauf, Engelmann et al. (2025) found chimpanzees revising beliefs in proportion to evidence strength, and Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture. The human difference is therefore graded rather than absolute: apes show real but bounded inferential, metacognitive, and social-learning capacities, whereas humans show uniquely open-ended, high-fidelity, institutionally scaffolded reasoning and cumulative culture ([[cumulative-culture#contested-exclusivity|contested exclusivity]]). Tomasello (2014, 2019) attributes the residual gap to social-cognitive differences, but the Map notes that the distinctive human capacities all appear to require conscious processing. A graded gap carries the argument as well as a categorical one would: if consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
 
 ### Evolutionary Convergence
 
@@ -187,8 +187,10 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 1. Dehaene, S., Lau, H., & Kouider, S. (2017). "What is consciousness, and could machines have it?" *Science*, 358(6362), 486-492.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a theory of consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+1. Sanford, Schleihauf, Engelmann, et al. (2025). Chimpanzees rationally revise their beliefs. *Science*. https://doi.org/10.1126/science.adq5229
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
