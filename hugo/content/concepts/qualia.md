@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-01 20:00:08+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-01 22:57:43+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -12,6 +12,8 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[nihilism-and-existentialism]]'
 - '[[concepts/functionalism]]'
+- '[[first-order-representationalism]]'
+- '[[higher-order-theories]]'
 - '[[philosophical-zombies]]'
 - '[[phenomenal-concepts-strategy]]'
 - '[[illusionism]]'
@@ -39,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 18:54:19+00:00
-lastmod: 2026-08-01 20:00:08+00:00
+lastmod: 2026-08-01 22:57:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,23 +68,33 @@ A neuroscientist's complete account of pain—nerve fibers, neurotransmitter rel
 
 ## Key Properties of Qualia
 
-Philosophers have characterised qualia in various ways:
+The canonical enumeration of the four properties below belongs to a critic: Dennett compiled it in *Quining Qualia* (1988) in order to dismantle it. The Map holds all four, but holds them as its own committed reading of a contested notion rather than as definitional truths, so each is set out with the live position that rejects it. [Illusionism](/concepts/illusionism/) rejects all four at once; that challenge is taken up in [the illusionist section](#the-illusionist-challenge) rather than restated here.
 
 ### Intrinsic
 
 Qualia are not relational—they are properties of experience itself, not of how experience relates to the world. The redness of red is intrinsic to the experience, not defined by what red things have in common. Emotional valence exemplifies this: the badness of pain is not *about* anything external—it is a property of the pain itself.
 
+This is the most contested of the four. [First-order representationalism](/concepts/first-order-representationalism/) (Tye, Dretske) denies it outright—phenomenal character is exhausted by first-order representational content—and rests the denial on Harman's transparency argument, that introspecting an experience turns up only features of its object. [Higher-order theories](/concepts/higher-order-theories/) make phenomenal character depend on a further state representing the first, relational by construction. [Functionalism](/concepts/functionalism/) rejects intrinsicness by defining mental states through causal role, as pressed in [the functionalist section](#the-functionalist-challenge) below. The Map sides with Block's mental paint, but as a position in a live dispute rather than a stipulation about what *qualia* means.
+
 ### Private
 
-You cannot directly access my qualia, nor I yours. We can compare behaviour, point to the same objects, use the same words—but your experience of red may differ from mine in ways neither of us could ever detect. This privacy makes qualia fundamentally different from publicly observable properties. Across radically different conscious architectures, the problem deepens: the [commensurability-void](/voids/commensurability-void/) shows that some phenomenal experiences may be not merely private but structurally incomparable—yielding no ordering relation at all.
+You cannot directly access my qualia, nor I yours. We can compare behaviour, point to the same objects, use the same words—but your experience of red may differ from mine in ways neither of us could ever detect.
+
+What this establishes on its own is epistemic: qualia are not open to third-person inspection as mass or wavelength are. It does not by itself establish that qualia are a different *kind* of property, and the physicalist grants the access asymmetry while denying that conclusion—such an asymmetry is what you would expect if introspection were simply a distinct channel onto ordinary physical states. The Map does hold the stronger claim, but it is carried by the [explanatory gap](/concepts/explanatory-gap/) and the thought experiments below rather than by privacy alone.
+
+Across radically different conscious architectures, the problem deepens: the [commensurability-void](/voids/commensurability-void/) shows that some phenomenal experiences may be not merely private but structurally incomparable—yielding no ordering relation at all.
 
 ### Ineffable
 
 Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/acquaintance-void/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. This is not merely a practical limitation—as [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows, reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
 
+Rivals accommodate ineffability more easily than the other three. Dennett (1988) argues it reflects the limits of our capacity to compare and remember discriminations rather than any intrinsic property of experience, and the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) explains it as a feature of the concepts we deploy rather than of what they pick out. The Map treats the residue as real while conceding that ineffability carries the least weight of the four against physicalism.
+
 ### Directly Apprehensible
 
 Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This [direct acquaintance](/topics/phenomenal-authority-and-first-person-evidence/) gives qualia a peculiar epistemic status. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for how this first-person access, when disciplined through training and converging across observers, constitutes genuine evidence for consciousness theories.
+
+[Higher-order theories](/concepts/higher-order-theories/) deny the immediacy: on Rosenthal's account a state becomes conscious only when a further, normally unconscious thought represents it—apprehension is mediated, not direct. Schwitzgebel's work on the unreliability of [introspection](/concepts/introspection/) presses from the empirical side. The Map's reply is that these bear on our *judgments* about qualia rather than on the acquaintance itself, but that reply is a position rather than a datum.
 
 ## Qualia in Simple Organisms
 
@@ -131,7 +143,7 @@ A [philosophical zombie](/concepts/philosophical-zombies/) is physically identic
 If qualia are intrinsic, private, and ineffable, they resist the standard moves physicalism makes for other phenomena.
 
 The [materialist](/concepts/materialism/) faces a dilemma:
-- **Deny qualia exist**: Eliminativism claims there are no qualia—our introspective reports are systematically mistaken. But this seems to deny the obvious: the redness is right there, being experienced.
+- **Deny qualia exist**: Eliminativism claims there are no qualia—our introspective reports are systematically mistaken. The natural reply is that this denies the obvious, since the redness is right there, being experienced; but that reply appeals to how things seem, and seemings are precisely what is in dispute—a challenge [the illusionist section](#the-illusionist-challenge) below takes up without assuming the seeming.
 - **Reduce qualia to physical properties**: But how? Identifying a quale with a brain state leaves unexplained why that state has any experiential character at all.
 - **Accept qualia as emerging from complexity**: But mere complexity doesn't explain why there's something it's like. A billion neurons interacting is still just neurons interacting—where does the felt quality come from?
 
@@ -246,11 +258,13 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 
 1. Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 1. Block, N. (1990). "Inverted Earth." *Philosophical Perspectives*, 4, 53-79.
+1. Block, N. (1996). "Mental Paint and Mental Latex." *Philosophical Issues*, 7, 19-49.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
 1. Dennett, D. (1988). "Quining Qualia." In *Consciousness in Contemporary Science*.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Harman, G. (1990). "The Intrinsic Quality of Experience." *Philosophical Perspectives*, 4, 31-52.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*.
 1. Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.

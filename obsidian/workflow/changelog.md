@@ -5,6 +5,24 @@ ai_modified: '2026-08-01T22:45:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-01 22:57 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/qualia]]
+- **Issue**: Issue 6 of the 2026-07-28 outer review — the structural half left unapplied by the 07-28 and 08-01 passes, which changed only the frame sentence at `## Key Properties of Qualia` while all four subsections stayed flat assertion in the Map's own voice. Live self-contradiction: intrinsicness defined as constitutive in the Intrinsic subsection, conceded as contested 80 lines later in the Duch paragraph.
+- **Changes**:
+  - Reframed `## Key Properties of Qualia` — the four-property list is now attributed to Dennett's *Quining Qualia* (1988), whose enumeration was compiled to be dismantled. States that the Map holds all four as its committed reading of a contested notion, not as definitional truths, and points to the illusionist section for the rival that rejects all four at once.
+  - **Intrinsic** — named the rivals: first-order representationalism (Tye, Dretske; Harman's transparency argument), higher-order theories, functionalism. Map's counter-position identified as Block's mental paint, marked as a position in a live dispute.
+  - **Private** — fixed the epistemic/metaphysical equivocation. Evidence offered was entirely epistemic; conclusion drawn was metaphysical ("fundamentally different from publicly observable properties") with no bridge. Downgraded the conclusion to the epistemic claim the evidence supports, noted that the physicalist grants the access asymmetry while denying the conclusion, and routed the Map's stronger claim to the explanatory gap and thought experiments where it is actually earned.
+  - **Ineffable** — recorded Dennett's discrimination-and-memory deflation and the phenomenal-concepts explanation; conceded that ineffability carries the least anti-physicalist weight of the four.
+  - **Directly Apprehensible** — named Rosenthal's higher-order denial of immediacy and Schwitzgebel on introspective unreliability; marked the Map's reply as a position rather than a datum.
+  - `## The Challenge to Materialism` eliminativism bullet — the appeal-to-seeming ("the redness is right there") now flags that seemings are what is in dispute and cross-references the illusionist section, which the bullet previously contradicted from four lines above it.
+  - Added references: Harman (1990), Block (1996). Added `first-order-representationalism` and `higher-order-theories` to frontmatter `concepts`.
+- **Engagement classification** (editor-internal): first-order representationalism / higher-order theories / functionalism — Mode Three, framework-boundary marking; the properties are named as contested with rivals identified rather than refuted in-framework, which is the honest state of the dispute. Illusionism — unchanged, deferred to the existing section.
+- **Preserved verbatim**: the Illusionist Challenge section (now L147–155), named in the source review as the corpus's model of honest framework-boundary marking. Confirmed by diff — no deletions in that range.
+- **Length**: raw `analyze_length` 4009 (`hard_warning`) but decomposed — reference apparatus (Further Reading + References) is 511, so prose is **3498 against the 3500 `concepts/` hard threshold**, from 3085 before. Net +413 prose words against ~415 of real headroom. Nothing condensed to fund it; the additions were trimmed to fit.
+- **Published**: yes
+
 ## 2026-08-01 22:45 UTC - deep-review
 
 - **Status**: Success
