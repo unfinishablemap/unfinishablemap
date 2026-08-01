@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-07-31 15:24:20+00:00
+ai_modified: 2026-08-01 16:40:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -59,7 +59,7 @@ The [evolutionary argument](/topics/evolutionary-case-for-mental-causation/) sup
 
 ## The Comparative Cognition Line
 
-[Comparative cognition](/concepts/baseline-cognition/) sharpens the evolutionary argument by identifying *what* consciousness contributes. Great apes possess sophisticated neural machinery producing complex behaviour—tool use, social learning, procedural metacognition, and limited but genuine inference: Sanford, Schleihauf, Engelmann et al. (2025) found chimpanzees revising beliefs in proportion to evidence strength, and Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture. The human difference is therefore graded rather than absolute: apes show real but bounded inferential, metacognitive, and social-learning capacities, whereas humans show uniquely open-ended, high-fidelity, institutionally scaffolded reasoning and cumulative culture ([contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)). The residual gap remains large, and still tracks precisely those capacities associated with conscious processing.
+[Comparative cognition](/concepts/baseline-cognition/) sharpens the evolutionary argument by identifying *what* consciousness contributes. Great apes possess sophisticated neural machinery producing complex behaviour—tool use, social learning, procedural metacognition, and limited but genuine inference: Schleihauf, Sanford, Engelmann et al. (2025) found chimpanzees revising beliefs in proportion to evidence strength, and Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture. The human difference is therefore graded rather than absolute: apes show real but bounded inferential, metacognitive, and social-learning capacities, whereas humans show uniquely open-ended, high-fidelity, institutionally scaffolded reasoning and cumulative culture ([contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)). The residual gap remains large, and still tracks precisely those capacities associated with conscious processing.
 
 The key finding: DeWall et al. (2008) reported that cognitive load impairing conscious processing impairs logical reasoning, while disrupting unconscious processing does not. This pattern is what consciousness-selecting would predict—conscious processing appearing to contribute causally to reasoning, rather than merely accompanying it.
 
@@ -207,7 +207,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
-1. Sanford, Schleihauf, Engelmann, et al. (2025). Chimpanzees rationally revise their beliefs. *Science*. https://doi.org/10.1126/science.adq5229
+1. Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229
 1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.

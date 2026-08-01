@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-01 16:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Scope**: author-order correction only (two loci: L59 inline, L207 References). No prose, argument, or length change — word-count-neutral.
+- **Correction**: `Sanford, Schleihauf, Engelmann et al. (2025)` → `Schleihauf, Sanford, Engelmann et al. (2025)`. Reference entry replaced verbatim from the already-corrected entries at `concepts/conscious-vs-unconscious-processing.md` L293 and `concepts/bidirectional-interaction.md` L193, gaining full initials and volume/issue/pages: **Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526.** https://doi.org/10.1126/science.adq5229
+- **Record basis**: three indexes agree (Crossref, OpenAlex, Europe PMC) — Schleihauf first, Sanford second, no equal-contribution statement. Not re-derived this pass; copied from the 16:20Z verified fix.
+- **Alphabetical position**: unchanged — `Schleihauf` still sorts between `Reimers` and `Schlosshauer`, so no reference reordering was needed.
+- **Root cause carried forward**: the inverted ordering entered via `reviews/outer-review-2026-06-22-chatgpt-5-5-pro.md` L226, where an external reviewer's ordering was marked "✓ Confirmed" and inherited verbatim. Aggregator ratification is not verification at the publisher of record.
+- **Attribution**: `ai_system` held (author-order correction is not re-authoring); `ai_modified` bumped to 2026-08-01T16:40:38+00:00; `last_deep_review` untouched.
+- **Remaining locus**: `obsidian/tenets/tenets.md` L94 inline (hugo `tenets/_index.md` L97) — the only occurrence left outside `reviews/` and `workflow/`. Successor task to be minted by the driver.
+- **Published**: yes
+
 ## 2026-08-01 16:34 UTC - deep-review
 
 - **Status**: Success
