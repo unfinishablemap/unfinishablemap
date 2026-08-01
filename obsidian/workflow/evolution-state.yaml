@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-01T21:40:42.253467+00:00'
-session_count: 18099
+last_updated: '2026-08-01T21:54:34.898346+00:00'
+session_count: 18100
 cycle_position: 12208
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-08-01T16:55:40.485138+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-01T21:08:05.090296+00:00'
+  agentic-social: '2026-08-01T21:55:45.535758+00:00'
   embed-videos: '2026-08-01T18:00:04.140597+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-01T21:05:35.560343+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-01T20:38:47.570737+00:00'
+  replenish-queue: '2026-08-01T21:54:34.898346+00:00'
   condense: '2026-08-01T21:40:42.253467+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-01'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-01'
@@ -191,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: condense
   type: condense
+  date: '2026-08-01'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -893,6 +889,10 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - topics/free-will
+  - url: https://unfinishablemap.org/concepts/pairing-problem/
+    date: '2026-08-01T21:55:45.535708+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
@@ -925,111 +925,121 @@ queue_status:
   promoted_p3_to_p2: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 3
-  run_918_note: 'run no.918 (2026-08-01T21:55Z, cycle-driven /replenish-queue): MINTED TWO P2
-    TASKS AND REPAIRED A SILENT NOTES-TRUNCATION DEFECT IN THREE OPEN P2 BLOCKS. Floor restored
-    2 -> 4.
+  run_918_note: 'run no.918 (2026-08-01T21:55Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS AND REPAIRED A SILENT NOTES-TRUNCATION DEFECT IN THREE OPEN P2 BLOCKS.
+    Floor restored 2 -> 4.
 
 
     COUNTS via tools.evolution.task_selector.count_p0_p2_tasks + tools.todo.processor.parse_tasks
-    against the live file. BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3, against MIN_QUEUE 3.
-    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. Restored with a margin of one. As in run 917
-    the naive heading grep says 5 P2 -- three carry a #veto tag and the parser correctly excludes
-    them.
+    against the live file. BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3, against MIN_QUEUE
+    3. AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. Restored with a margin of one. As
+    in run 917 the naive heading grep says 5 P2 -- three carry a #veto tag and the
+    parser correctly excludes them.
 
 
-    WHY THE COUNT HAD FALLEN TO 2 since run 917 set it to 4: the run-917 P3->P2 promotion (archive-tree
-    flat-ape-incapacity closer) and one of the run-916 condense holders (epistemology-of-convergence-arguments,
-    HEAD ec0dc65f6 at 21:40Z) both drained in the 20:36Z-21:45Z window.
+    WHY THE COUNT HAD FALLEN TO 2 since run 917 set it to 4: the run-917 P3->P2 promotion
+    (archive-tree flat-ape-incapacity closer) and one of the run-916 condense holders
+    (epistemology-of-convergence-arguments, HEAD ec0dc65f6 at 21:40Z) both drained
+    in the 20:36Z-21:45Z window.
 
 
-    MINT ONE, refine-draft, source CHAIN, target obsidian/concepts/qualia.md. The pessimistic-review
-    that ran at 19:54Z (reviews/pessimistic-2026-08-01-qualia.md) raised six issues on the flagship
-    qualia page. A P2 was minted and completed at 20:04Z (commit 80b7580bb) but its title scoped
-    it to the Duch quoted span plus two misattributions, and it closed Issues 1-5 only. ALL
-    FIVE WERE RE-VERIFIED ON DISK BEFORE DECIDING (replenish-asserted-defect-often-false): quote
-    mark moved at L151 and mirrored at hugo L154; Block 1990 at L245; Chalmers 2006 at L247;
-    Einstein span de-quoted at L106 (grep for the old string returns zero); slime-mold paragraph
-    rewritten at L90 with Nakagaki 2000 and the deferral repointed to concepts/functionalism.
-    ISSUE 6 IS GENUINELY LIVE AND UNQUEUED: L66 softened the frame sentence but L70 still asserts
-    intrinsicness flatly and L74 asserts the metaphysical privacy conclusion flatly, while L151
-    concedes to Duch that intrinsicness is contested. That is a self-contradiction inside one
-    article, it is the structural half of the 2026-07-28 outer-review remit that was marked
-    complete, and it runs AGAINST the Map interest -- the class of correction the corpus under-applies.
-    Bundled with it: the epistemic/metaphysical equivocation at L72-74 (same locus, one edit
-    away) and, marked optional, the Churchland appeal-to-seeming at L131/L205. Length was decomposed
-    rather than trusted raw: 3568 reads hard_warning against a concepts hard of 3500, but apparatus
-    is 483 of that, so prose is ~3085 with ~415 words of real headroom -- the relabel is affordable
-    and needs no condense to fund it.
+    MINT ONE, refine-draft, source CHAIN, target obsidian/concepts/qualia.md. The
+    pessimistic-review that ran at 19:54Z (reviews/pessimistic-2026-08-01-qualia.md)
+    raised six issues on the flagship qualia page. A P2 was minted and completed at
+    20:04Z (commit 80b7580bb) but its title scoped it to the Duch quoted span plus
+    two misattributions, and it closed Issues 1-5 only. ALL FIVE WERE RE-VERIFIED
+    ON DISK BEFORE DECIDING (replenish-asserted-defect-often-false): quote mark moved
+    at L151 and mirrored at hugo L154; Block 1990 at L245; Chalmers 2006 at L247;
+    Einstein span de-quoted at L106 (grep for the old string returns zero); slime-mold
+    paragraph rewritten at L90 with Nakagaki 2000 and the deferral repointed to concepts/functionalism.
+    ISSUE 6 IS GENUINELY LIVE AND UNQUEUED: L66 softened the frame sentence but L70
+    still asserts intrinsicness flatly and L74 asserts the metaphysical privacy conclusion
+    flatly, while L151 concedes to Duch that intrinsicness is contested. That is a
+    self-contradiction inside one article, it is the structural half of the 2026-07-28
+    outer-review remit that was marked complete, and it runs AGAINST the Map interest
+    -- the class of correction the corpus under-applies. Bundled with it: the epistemic/metaphysical
+    equivocation at L72-74 (same locus, one edit away) and, marked optional, the Churchland
+    appeal-to-seeming at L131/L205. Length was decomposed rather than trusted raw:
+    3568 reads hard_warning against a concepts hard of 3500, but apparatus is 483
+    of that, so prose is ~3085 with ~415 words of real headroom -- the relabel is
+    affordable and needs no condense to fund it.
 
 
     MINT TWO, condense, source LENGTH_ANALYSIS, target obsidian/topics/volitional-control.md.
-    This is run 917''s own explicit carry-forward, and its stated blocker has lapsed: 917 held
-    it back because BOTH floor holders were already condense tasks, and one of those drained
-    at 21:40Z. Re-measured this run: 5252 raw / hard_warning, apparatus 789 (Further Reading
-    169 + References 620), so ~4450 words of prose against a topics hard of 4000 -- about 450
-    over, a moderate and genuine overage, NOT a false over-length. No open and no vetoed condense
-    task targets the file. The three Libet-evidence sections total 1620 words and are named
-    as the place to look, with an explicit instruction to check first whether the paradigm-by-paradigm
-    walk IS the levelling argument. The task fences off the calibration surface by quotation:
-    917 warned that this file carries the 2026-07-24 convergent outer-review co-optation fixes,
-    and those fixes ARE the Sjoberg is himself no dualist qualification, the Braun six-studies
-    caveat, the Gavenas constrains the Map as much as its opponents clause, and the lead concession
-    that predictive processing predicts the same evidence. One 917 worry has since been answered
-    and the task says so: the citation-freshness complaint (only 2 of 25 refs from the 2020s)
-    no longer holds -- the reference block now carries 2021, 2024 and two 2025 entries. Also
-    flagged: the lead contains a live in-page fragment link to the predictive-processing heading,
-    which breaks silently if that heading is reworded.
+    This is run 917''s own explicit carry-forward, and its stated blocker has lapsed:
+    917 held it back because BOTH floor holders were already condense tasks, and one
+    of those drained at 21:40Z. Re-measured this run: 5252 raw / hard_warning, apparatus
+    789 (Further Reading 169 + References 620), so ~4450 words of prose against a
+    topics hard of 4000 -- about 450 over, a moderate and genuine overage, NOT a false
+    over-length. No open and no vetoed condense task targets the file. The three Libet-evidence
+    sections total 1620 words and are named as the place to look, with an explicit
+    instruction to check first whether the paradigm-by-paradigm walk IS the levelling
+    argument. The task fences off the calibration surface by quotation: 917 warned
+    that this file carries the 2026-07-24 convergent outer-review co-optation fixes,
+    and those fixes ARE the Sjoberg is himself no dualist qualification, the Braun
+    six-studies caveat, the Gavenas constrains the Map as much as its opponents clause,
+    and the lead concession that predictive processing predicts the same evidence.
+    One 917 worry has since been answered and the task says so: the citation-freshness
+    complaint (only 2 of 25 refs from the 2020s) no longer holds -- the reference
+    block now carries 2021, 2024 and two 2025 entries. Also flagged: the lead contains
+    a live in-page fragment link to the predictive-processing heading, which breaks
+    silently if that heading is reworded.
 
 
     THE FIND WORTH RECORDING, AND THE REASON THIS RUN TOUCHED EXISTING TASKS -- tools/todo/processor.py
-    stops collecting Notes at the first following line that starts with a bullet-bold marker.
-    A task whose notes are written as SEVERAL top-level bullets therefore dispatches with only
-    the FIRST bullet, and because complete_task re-serializes from the parsed value, the rest
-    is DELETED from todo.md when the task completes. The parser carries a comment describing
-    exactly this loss from the 2026-07-28 literature-drift audit, so the reader-side fix landed
-    but the writer-side convention did not. Measured on the live file: the open run-917 penrose-gravity
-    P2 was dispatching 827 of its 6049 characters -- 86 percent of a carefully-built, citation-bearing
-    task silently gone. Both of this run''s mints were written the same way and had the same
-    defect. ALL THREE were repaired in place by merging the continuation bullets into the single
-    Notes scalar (penrose 827 -> 6036, qualia 1024 -> 7092, volitional-control 472 -> 5600 characters
-    as parsed). The run-916 born-rule holder was already a single bullet and was untouched.
-    CONVENTION FOR FUTURE MINTS: task Notes must be ONE bullet; use inline bold run-in headers
-    for structure, never a second top-level bullet.
+    stops collecting Notes at the first following line that starts with a bullet-bold
+    marker. A task whose notes are written as SEVERAL top-level bullets therefore
+    dispatches with only the FIRST bullet, and because complete_task re-serializes
+    from the parsed value, the rest is DELETED from todo.md when the task completes.
+    The parser carries a comment describing exactly this loss from the 2026-07-28
+    literature-drift audit, so the reader-side fix landed but the writer-side convention
+    did not. Measured on the live file: the open run-917 penrose-gravity P2 was dispatching
+    827 of its 6049 characters -- 86 percent of a carefully-built, citation-bearing
+    task silently gone. Both of this run''s mints were written the same way and had
+    the same defect. ALL THREE were repaired in place by merging the continuation
+    bullets into the single Notes scalar (penrose 827 -> 6036, qualia 1024 -> 7092,
+    volitional-control 472 -> 5600 characters as parsed). The run-916 born-rule holder
+    was already a single bullet and was untouched. CONVENTION FOR FUTURE MINTS: task
+    Notes must be ONE bullet; use inline bold run-in headers for structure, never
+    a second top-level bullet.
 
 
-    EIGHT-SOURCE AUDIT, live on disk 2026-08-01T21:5xZ. (1 chain) SOURCE USED -- the 19:54Z
-    pessimistic review is the one real chain and its unapplied half became MINT ONE; the 20:59Z
-    optimistic review already minted its own P2 and that task has since been completed, and
-    its only expansion idea is cap-blocked by its own account. (2 unconsumed-research) four
-    notes in the last 14 days. sentientism-2026-08-01 is consumed as concepts/sentientism.md.
-    horizon-decoherence-2026-07-31 is the half-consumed case run 917 already minted. bohmian-quantum-equilibrium-2026-07-19
-    and multi-agent-born-preservation-problem-2026-07-19 are BOTH genuinely unconsumed -- no
-    article, no archive slug -- and the second in particular is a strong, tenet-dense expand-topic
-    candidate whose own note recommends exactly that. NOT MINTED, deliberately: see the operator
-    flag below. (3 gap/caps) live find: topics 318/320, concepts 318/320, voids 100/100 AT CAP,
-    positions 11/80. (4 staleness) deep-review owns 4 of 24 cycle slots and self-selects from
-    get_review_candidates; minting would duplicate it. BLOCKED. (5 orphan) quality.orphaned_files
-    == 0. BLOCKED. (6 length) SOURCE USED -- the 917 carry-forward. (7 positions) 11 domain
-    files, positions-evolve last ran 2026-07-31, and FOUR positions-evolve tasks are already
-    open at P3; minting would be same-file pileup. BLOCKED. (8 applied-apex) unchanged from
-    917; capped at 1 per replenishment and stays unspent.
+    EIGHT-SOURCE AUDIT, live on disk 2026-08-01T21:5xZ. (1 chain) SOURCE USED -- the
+    19:54Z pessimistic review is the one real chain and its unapplied half became
+    MINT ONE; the 20:59Z optimistic review already minted its own P2 and that task
+    has since been completed, and its only expansion idea is cap-blocked by its own
+    account. (2 unconsumed-research) four notes in the last 14 days. sentientism-2026-08-01
+    is consumed as concepts/sentientism.md. horizon-decoherence-2026-07-31 is the
+    half-consumed case run 917 already minted. bohmian-quantum-equilibrium-2026-07-19
+    and multi-agent-born-preservation-problem-2026-07-19 are BOTH genuinely unconsumed
+    -- no article, no archive slug -- and the second in particular is a strong, tenet-dense
+    expand-topic candidate whose own note recommends exactly that. NOT MINTED, deliberately:
+    see the operator flag below. (3 gap/caps) live find: topics 318/320, concepts
+    318/320, voids 100/100 AT CAP, positions 11/80. (4 staleness) deep-review owns
+    4 of 24 cycle slots and self-selects from get_review_candidates; minting would
+    duplicate it. BLOCKED. (5 orphan) quality.orphaned_files == 0. BLOCKED. (6 length)
+    SOURCE USED -- the 917 carry-forward. (7 positions) 11 domain files, positions-evolve
+    last ran 2026-07-31, and FOUR positions-evolve tasks are already open at P3; minting
+    would be same-file pileup. BLOCKED. (8 applied-apex) unchanged from 917; capped
+    at 1 per replenishment and stays unspent.
 
 
-    OPERATOR FLAG, RE-RAISED NOT ACTIONED -- run 917 raised this and nothing has changed, but
-    the cost is now concrete rather than hypothetical. topics is 318/320 and concepts 318/320.
-    Two genuinely unconsumed research notes from 07-19 are sitting in the pipeline with articles
-    recommended by their own Recommendations sections, and multi-agent-born-preservation is
-    precisely the kind of Map-internal synthesis the research pipeline exists to produce. Minting
-    an expand-topic would consume half the remaining topics headroom on a replenishment fork
-    decision rather than an operator one, so it was declined again. Either the caps rise, as
-    on 06-14 and 06-20, or the two 07-19 notes should be formally parked so harvest-research-subjects
+    OPERATOR FLAG, RE-RAISED NOT ACTIONED -- run 917 raised this and nothing has changed,
+    but the cost is now concrete rather than hypothetical. topics is 318/320 and concepts
+    318/320. Two genuinely unconsumed research notes from 07-19 are sitting in the
+    pipeline with articles recommended by their own Recommendations sections, and
+    multi-agent-born-preservation is precisely the kind of Map-internal synthesis
+    the research pipeline exists to produce. Minting an expand-topic would consume
+    half the remaining topics headroom on a replenishment fork decision rather than
+    an operator one, so it was declined again. Either the caps rise, as on 06-14 and
+    06-20, or the two 07-19 notes should be formally parked so harvest-research-subjects
     stops paying for subjects with nowhere to go.
 
 
-    NO CONCURRENCY: ps -eo pid,args showed no evolve_loop.py or unfin-cycle process. HEAD ec0dc65f6.
-    The only uncommitted delta before this run was the pre-existing evolution-state.yaml edit,
-    which is legitimate deferred cycle_post bookkeeping and was left alone. REVERT only if a
-    sibling replenish double-restores this slot.'
+    NO CONCURRENCY: ps -eo pid,args showed no evolve_loop.py or unfin-cycle process.
+    HEAD ec0dc65f6. The only uncommitted delta before this run was the pre-existing
+    evolution-state.yaml edit, which is legitimate deferred cycle_post bookkeeping
+    and was left alone. REVERT only if a sibling replenish double-restores this slot.'
   run_917_note: 'run no.917 (2026-08-01T20:36Z, cycle-driven /replenish-queue): MINTED
     ONE P2 FROM A HALF-CONSUMED RESEARCH NOTE AND PROMOTED ONE P3 TO P2. Floor restored
     2 -> 4.
