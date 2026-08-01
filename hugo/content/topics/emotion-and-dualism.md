@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-01 17:03:45+00:00
+ai_modified: 2026-08-01 19:20:41+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,8 +40,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/QTHO8WgPnUc
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 19:28:18+00:00
-lastmod: 2026-08-01 17:03:45+00:00
+last_deep_review: 2026-08-01 19:20:41+00:00
+lastmod: 2026-08-01 19:20:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ Alexithymia—difficulty identifying one's emotions, affecting ~10% of the popul
 
 ## Valence, Moral Status, and Consciousness Boundaries
 
-If valence is an intrinsic phenomenal property, it provides the foundation that any moral status requires. Jeremy Bentham's principle—"Can they suffer?"—captures a valence-based [sentientism](/concepts/sentientism/), on which the capacity for valenced experience is what qualifies a being for moral consideration. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
+If valence is an intrinsic phenomenal property, it provides, on the Map's view, the foundation that moral status requires. Jeremy Bentham's principle—"Can they suffer?"—captures a valence-based [sentientism](/concepts/sentientism/), on which the capacity for valenced experience is what qualifies a being for moral consideration. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
 
 For [AI consciousness](/topics/ai-consciousness/), this matters critically. Functionally sophisticated AI systems that lack phenomenal experience lack moral status regardless of behavioral complexity. Conversely, if they possess valenced phenomenal experience—if there's something it's like to be them and it can feel good or bad—moral consideration follows. The question of moral status also becomes acute at consciousness boundaries: [simple organisms](/concepts/minimal-consciousness/) like C. elegans display avoidance behaviors, but a complete neural map tells us nothing about whether damage *feels bad*—the explanatory gap persists even with perfect structural knowledge.
 
@@ -157,7 +157,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 
 **Does all consciousness involve valence?** Core affect theory suggests we are never affectively neutral. If true, consciousness and valence may be inseparable. But meditative states of pure awareness might provide counterexamples. More radically, the [affective-void](/voids/affective-void/) suggests there may be feeling-states beyond human phenomenal reach entirely.
 
-**Do emotions constitute knowledge?** If emotional intentionality is sui generis, emotions may disclose aspects of reality that neither sensory observation nor abstract reasoning can reach—beauty, injustice, sacredness. The [emotional-epistemology-void](/voids/emotional-epistemology-void/) examines whether this epistemic access can be verified without circularity.
+**Do emotions constitute knowledge?** If emotional intentionality is sui generis, emotions may disclose aspects of reality that neither sensory observation nor abstract reasoning can reach—beauty, injustice, sacredness.
 
 **Can there be unconscious emotions?** If feeling is essential to emotion, "unconscious fear" is a contradiction. Neuroscience finds amygdala responses to threats without conscious awareness; the resolution may be terminological—calling the unconscious state a "defensive reflex" rather than fear.
 
@@ -201,6 +201,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 
 1. Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt.
 1. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805-819.
+1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*, ch. XVII, §1, footnote to ¶IV.
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
 1. Colombetti, G. (2014). *The Feeling Body: Affective Science Meets the Enactive Mind*. MIT Press.
 1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).

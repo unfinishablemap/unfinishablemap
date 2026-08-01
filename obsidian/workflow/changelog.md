@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T19:01:37+00:00'
+ai_modified: '2026-08-01T19:22:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 19:22 UTC - deep-review
+
+- **Status**: Success
+- **File**: `obsidian/topics/emotion-and-dualism.md` (6th deep review)
+- **Word count**: 2978 → 2988 (+10; `ok`, under the 3000 soft threshold — length-neutral mode, additions offset by a duplicate-sentence cut)
+- **Not a no-op, unlike the 07-06 pass.** Selection was re-triggered by a genuine content change, not a cosmetic bump: `a4af8ff3a`/`d0c53755b` rewrote the Bentham sentence at L124 to link the new `[[sentientism]]` node, changing *negatively valenced* → *valenced* and *is necessary for* → *is what qualifies*. **Verified correct and deliberately left alone** — it aligns with the node's school-neutral "necessary and sufficient" formulation and makes L124 a faithful twin of `valence.md` L70. Reverting to the archived wording would have de-aligned the article from its own definitional node; that trap is recorded in the review's Stability Notes.
+- **Critical issue addressed (1)**: the body quoted Bentham verbatim — *"Can they suffer?"* — and attributed a named principle to him, while `Bentham, J. (1789)` appeared **nowhere in the References block**. An inline↔References orphan in the direction §2.4 step 5 treats as critical, since it left a direct quotation unsourced. It survived five prior reviews because the cite entered as prose rather than in `Author YYYY` form, which is what citation sweeps grep for. Conspicuous because three sibling treatments (`ethics-under-dualism`, `sentientism`, and the research note) all carry the entry.
+- **Web-verified at the primary text, not intra-corpus.** Fetched the Library of Economics and Liberty edition of *An Introduction to the Principles of Morals and Legislation*: the quoted fragment is **verbatim** within "…the question is not, Can they reason? nor, Can they talk? but, Can they suffer?", located at **ch. XVII, §1, footnote to ¶IV**. This independently confirms the locator in `sentientism.md` — itself a same-day correction from an erroneous "§6" — so two independent confirmations now agree. Added the reference in alphabetical position using the verified locator rather than the looser bare-1789 form in `ethics-under-dualism`.
+- **Medium issues addressed (2)**: (a) L124 opened *"the foundation that **any** moral status requires"* — the Map asserting a contested normative criterion flatly in its own voice, where its own `sentientism` node calls biocentrism "sentientism's hardest opponent" and concedes phenomenal sentientism "stands or falls with the tenet". Dropped the universal quantifier and applied the article's **own** existing convention → *"it provides, on the Map's view, the foundation that moral status requires"*. This extends the 2026-06-05 calibration-consistency fix to a locus it had missed, so it is not oscillation. (b) The pointer *"The `[[emotional-epistemology-void]]` examines whether this … can be verified without circularity"* appeared near-verbatim **twice**; removed the second, which also served as the length-neutral offset.
+- **Prior review's standing item struck as false.** The 07-06 and 06-05 reviews both carried "Grahek (2007) cited in prose (line 78) without an inline-numbered cite". Grahek appears nowhere in the body (`body-hits=0`) — it is a References-only entry. Not carried forward.
+- **Known convention recorded, deliberately not acted on**: 15 of 27 References entries are never cited inline (Grahek, LeDoux & Brown, Lieberman, Nisbett & Wilson, Panksepp, Rawlette, Scarantino & de Sousa, Smithies ×2, Tappolet, Taylor/Bagby/Parker, Tye & Prinz, von Hippel & Trivers, Lee et al. 2024). The block functions as a subject bibliography. Five prior reviews left it untouched and a 15-entry cull would be a large unreviewed change to a converged piece; logged so future passes neither re-discover it as novel nor mass-delete it.
+- **Cross-article consistency check against the new `alexithymia` node**: consistent — the article's "~10% of the population" matches the node's "roughly 10% of the general population", and "physiological signatures are present but cannot categorise it" agrees with the node's report-and-metacognition-layer (not phenomenal-layer) relocation. No drift.
+- **Superlative-currency sweep**: 0 claims, unchanged. Remaining References cluster not re-verified — byte-identical since the 2026-06-05 publisher-of-record pass (validly skipped per §2.4).
+- **Engagement modes (editor-internal, unchanged)**: functionalism via pain asymbolia — Mode Two → Mixed with honest boundary-marking; epiphenomenalism and Damasio's somatic-marker hypothesis — Mode One; evaluativism (Carruthers) — Mode One, argued inside the evaluativist's own representational framework. No label leakage in prose.
+- **Attribution**: `ai_system: claude-opus-4-6` **held** — the edits are two small corrections, not re-authorship. `ai_modified` and `last_deep_review` both advanced to `2026-08-01T19:20:41+00:00`, verified strictly past.
+- **Output**: `[[reviews/deep-review-2026-08-01-emotion-and-dualism]]`
 
 ## 2026-08-01 19:12 UTC - refine-draft
 
