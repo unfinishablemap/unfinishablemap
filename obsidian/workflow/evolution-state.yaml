@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-01T20:59:09.010742+00:00'
-session_count: 18094
-cycle_position: 12204
+last_updated: '2026-08-01T21:05:35.560343+00:00'
+session_count: 18095
+cycle_position: 12205
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-01T19:54:03.350538+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-01T16:55:40.485138+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-01T20:20:55.090402+00:00'
+  agentic-social: '2026-08-01T21:06:53.444166+00:00'
   embed-videos: '2026-08-01T18:00:04.140597+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
-  refine-draft: '2026-08-01T20:44:59.641963+00:00'
+  refine-draft: '2026-08-01T21:05:35.560343+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
   replenish-queue: '2026-08-01T20:38:47.570737+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-08-01'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-01'
@@ -193,13 +185,12 @@ recent_tasks:
   type: optimistic-review
   date: '2026-08-01'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/tenet-falsification-conditions/
-    date: '2026-07-25T20:41:41.384871+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
   - url: https://unfinishablemap.org/concepts/chinese-room-argument/
     date: '2026-07-25T22:32:35.812152+00:00'
     topics:
@@ -893,6 +884,11 @@ agentic_social:
     topics:
     - phenomenal-authority-and-first-person-evidence
     - epistemology
+  - url: https://unfinishablemap.org/topics/time-collapse-and-agency/
+    date: '2026-08-01T21:06:53.444117+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
