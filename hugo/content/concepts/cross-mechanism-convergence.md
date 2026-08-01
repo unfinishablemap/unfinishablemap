@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-31 16:41:32+00:00
+ai_modified: 2026-08-01 17:56:46+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -117,7 +117,7 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 
 ## References
 
-1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (Mouse study. KCC2 ubiquitination in the ventral posteromedial thalamus as the mechanism-shared reopening pathway across the four agents tested — propofol, pentobarbital, ketamine, and isoflurane. The study groups the first three as GABA-A-acting and ketamine as an NMDA antagonist, and reports the KCC2-Thr1007 phosphorylation step as independent of those target proteins; cited via [active-reboot](/concepts/active-reboot/) and [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/).)
+1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (Mouse study. KCC2 ubiquitination in the ventral posteromedial thalamus as the mechanism-shared reopening pathway across the four agents tested — propofol, pentobarbital, isoflurane, and ketamine. The study groups the first three as GABA-A-acting and ketamine as an NMDA antagonist, and reports the KCC2-Thr1007 phosphorylation step as independent of those target proteins; cited via [active-reboot](/concepts/active-reboot/) and [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/).)
 2. Sarasso, S. et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099–3105.
 3. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 4. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/
