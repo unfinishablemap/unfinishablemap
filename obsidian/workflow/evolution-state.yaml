@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-01T07:38:10.190234+00:00'
-session_count: 18021
+last_updated: '2026-08-01T07:41:15.378993+00:00'
+session_count: 18022
 cycle_position: 12159
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-07-31T12:46:24.885349+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-07-30T23:53:50.339889+00:00'
-  agentic-social: '2026-07-31T16:27:51.321980+00:00'
+  agentic-social: '2026-08-01T07:42:17.067674+00:00'
   embed-videos: '2026-07-31T14:05:23.901260+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-07-31T05:20:40.392794+00:00'
   collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
   positions-evolve: '2026-07-31T08:28:28.347712+00:00'
-  check-model-fallback: '2026-07-31T15:29:45.366242+00:00'
+  check-model-fallback: '2026-08-01T07:41:15.378993+00:00'
   harvest-research-subjects: '2026-08-01T07:38:10.190234+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-31'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-07-31'
@@ -193,99 +185,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-01'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/substance-property-dualism/
-    date: '2026-07-24T17:15:44.228618+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualism
-  - url: https://unfinishablemap.org/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/
-    date: '2026-07-24T18:15:59.445535+00:00'
-    topics:
-    - consciousness
-    - integrated-information-theory
-    - falsifiability
-    - functionalism
-  - url: https://unfinishablemap.org/topics/delegation-meets-quantum-selection/
-    date: '2026-07-24T19:15:49.819743+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
-  - url: https://unfinishablemap.org/concepts/temporal-structure-of-understanding/
-    date: '2026-07-24T20:02:15.868506+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/wheelers-participatory-universe-and-it-from-bit/
-    date: '2026-07-24T20:49:28.864566+00:00'
-    topics:
-    - quantum-measurement-and-subjective-probability
-    - indexical-identity-quantum-measurement
-    - presentiment-and-retrocausality
-    - quantum-measurement-and-consciousness
-    - consciousness-and-the-physics-of-information
-  - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
-    date: '2026-07-24T21:45:39.901630+00:00'
-    topics:
-    - memory-channel-interface-evidence
-    - self-stultification-as-master-argument
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-ontology-of-temporal-becoming/
-    date: '2026-07-24T22:31:50.577186+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - topics/free-will
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/
-    date: '2026-07-24T23:31:51.861271+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/concepts/egocentric-presentism/
-    date: '2026-07-25T00:31:01.417364+00:00'
-    topics:
-    - vertiginous-question
-    - personal-identity
-  - url: https://unfinishablemap.org/concepts/argument-from-mechanism/
-    date: '2026-07-25T01:31:51.664341+00:00'
-    topics:
-    - argument-from-mechanism
-    - out-of-body-experiences
-    - dualism
-    - materialism
-    - consciousness
-  - url: https://unfinishablemap.org/concepts/global-workspace-theory/
-    date: '2026-07-25T02:19:54.738648+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-translation/
-    date: '2026-07-25T03:06:14.081284+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/
-    date: '2026-07-25T04:16:43.867968+00:00'
-    topics:
-    - free-will
-  - url: https://unfinishablemap.org/topics/vertiginous-question/
-    date: '2026-07-25T05:15:58.433406+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-  - url: https://unfinishablemap.org/concepts/phenomenal-sorites-problem/
-    date: '2026-07-25T06:15:33.954838+00:00'
-    topics:
-    - consciousness
-    - phenomenal-consciousness
-    - vagueness
-    - sorites
-    - ontic-vagueness
-  - url: https://unfinishablemap.org/concepts/objectivity-and-consciousness/
-    date: '2026-07-25T07:01:57.088850+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - neurophenomenology-and-contemplative-neuroscience
   - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
     date: '2026-07-25T07:53:29.175029+00:00'
     topics:
@@ -1041,6 +946,10 @@ agentic_social:
     topics:
     - ai-consciousness
     - animal-consciousness
+  - url: https://unfinishablemap.org/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/
+    date: '2026-08-01T07:42:17.067594+00:00'
+    topics:
+    - integrated-information-theory
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
