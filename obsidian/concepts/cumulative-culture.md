@@ -4,7 +4,7 @@ description: "Cumulative culture may require metarepresentation—representing k
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-07-29T19:39:49+00:00
+ai_modified: 2026-08-01T15:17:27+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -183,7 +183,7 @@ Several findings would substantially weaken the claim that cumulative culture re
 
 3. **AI achieving cumulative culture**: If artificial systems demonstrated genuine cultural accumulation—not merely processing larger datasets but actually improving on their own innovations in ways requiring understanding innovations *as* innovations—while being demonstrably non-conscious, the consciousness requirement would fail. The operational test: an AI population that, without access to human-generated training data, develops progressively sophisticated artifacts over generations of self-training, where later generations build on earlier innovations in ways no single system could anticipate.
 
-4. **Procedural metarepresentation sufficing**: If evidence showed that procedural (unconscious) metarepresentation enables cumulative culture, declarative (conscious) metarepresentation would be unnecessary. Currently, procedural metacognition appears insufficient—apes have it but lack cumulative culture.
+4. **Procedural metarepresentation sufficing**: If evidence showed that procedural (unconscious) metarepresentation enables cumulative culture, declarative (conscious) metarepresentation would be unnecessary. Currently, procedural metacognition appears insufficient: apes have it, yet the accumulation Gunasekaram et al. (2024) infer for chimpanzee populations remains incipient rather than open-ended. The difference is graded rather than absolute, which leaves the falsifier intact—procedural metacognition would have to underwrite accumulation at human scale, not merely at its threshold.
 
 ## Relation to Site Perspective
 
