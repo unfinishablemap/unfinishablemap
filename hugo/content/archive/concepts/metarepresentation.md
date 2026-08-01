@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-04 01:50:00+00:00
+ai_modified: 2026-08-01 19:10:22+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Metacognition, Metarepresentation, and Consciousness
 archived: true
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-04 01:50:00+00:00
-lastmod: 2026-02-04 01:50:00+00:00
+lastmod: 2026-08-01 19:10:22+00:00
 modified: *id001
 original_path: /concepts/metarepresentation/
 related_articles:
@@ -114,7 +114,7 @@ Great apes' limited working memory capacity may explain their metarepresentation
 
 ### Great Ape Metacognition
 
-Great apes show sophisticated metacognition: uncertainty monitoring, strategic information-seeking, mirror self-recognition. But this metacognition appears procedural—functional states influencing behaviour without explicit representation of themselves as mental states. Evidence: no teaching, no cumulative culture, limited theory of mind beyond Level 1.
+Great apes show sophisticated metacognition: uncertainty monitoring, strategic information-seeking, mirror self-recognition. But this metacognition appears procedural—functional states influencing behaviour without explicit representation of themselves as mental states. The supporting evidence is a matter of degree rather than absence: apes rarely teach in the human sense of deliberately transmitting knowledge by recognising knowledge states in self and other; cumulative culture is at most incipient, with Gunasekaram et al. (2024) reading chimpanzee population networks as showing a few instances of it; and theory of mind beyond Level 1 is limited rather than missing. The human case is best stated as unmatched degree rather than sole possession.
 
 ### Human Development
 
@@ -198,6 +198,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 - Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
 - Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 241-268.
+- Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 - Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
 - Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
 - Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.

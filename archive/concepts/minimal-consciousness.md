@@ -4,7 +4,7 @@ description: "What the simplest possible conscious experience might be. Evidence
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-08-01T19:10:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,13 +110,13 @@ The minimal consciousness literature reveals a crucial question: what is the rel
 
 ### The Baseline Cognition Hypothesis
 
-Research on great ape-human differences suggests a framework for understanding this relationship. Chimpanzees possess sophisticated cognition—tool use, social reasoning, basic metacognition, cultural traditions. Yet they lack cumulative culture, logical reasoning, and counterfactual thinking. The [[baseline-cognition]] hypothesis proposes that great ape cognition represents a baseline of what neural systems can achieve *without* substantial conscious contribution—the cognitive floor from which consciousness amplifies.
+Research on great ape-human differences suggests a framework for understanding this relationship. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition, and limited but genuine inference: Schleihauf, Sanford, Engelmann et al. (2025) found chimpanzees revising beliefs in proportion to evidence strength, and Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture. The human difference is therefore graded rather than absolute: apes show real but bounded inferential, metacognitive, and social-learning capacities, whereas humans show uniquely open-ended, high-fidelity, institutionally scaffolded reasoning and cumulative culture ([[cumulative-culture#contested-exclusivity|contested exclusivity]]). The [[baseline-cognition]] hypothesis proposes that great ape cognition represents a baseline of what neural systems can achieve *without* substantial conscious contribution—the cognitive floor from which consciousness amplifies.
 
 If this baseline hypothesis is correct, key findings illuminate what consciousness adds:
 
-**Working memory**: Chimpanzee working memory holds 2±1 items compared to human 7±2. If working memory depends on conscious access (as Global Workspace Theory suggests), this difference may reflect expanded consciousness, not merely more neurons.
+**Working memory**: Chimpanzee working memory is estimated at approximately 2±1 items (Read, Manrique & Walker 2022); human capacity is 4±1 (Cowan 2001, revising Miller's 7±2). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [[working-memory#The Capacity Gap|the capacity gap]]. If working memory depends on conscious access (as Global Workspace Theory suggests), even this conservative gap may reflect expanded consciousness, not merely more neurons.
 
-**Logical reasoning**: Empirical research (Lieberman et al. 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing. Cognitive load disrupting consciousness impairs reasoning; disrupting unconscious processes does not. Great apes can learn associations but cannot follow abstract logical rules—precisely the pattern expected if consciousness enables rule-following.
+**Logical reasoning**: Empirical research (Lieberman et al. 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing. Cognitive load disrupting consciousness impairs reasoning; disrupting unconscious processes does not. Great apes learn associations readily and, as the revised picture above records, revise beliefs in proportion to evidence; what remains distinctively human is open-ended, institutionally scaffolded rule-following rather than any capacity for inference as such. The difference is one of degree rather than kind, and it still tracks the capacities that appear to require conscious access—the pattern expected if consciousness enables rule-following.
 
 **Metarepresentation**: Great apes have culture but may not *know* they have culture. The "Jourdain Hypothesis" (Whiten 2015)—named after Molière's character who discovers he's been speaking prose all his life—proposes that apes lack metarepresentations: knowing that they know, representing knowledge as knowledge. [[cumulative-culture|Cumulative culture]] requires this capacity: modifying and transmitting practices *as* practices. Metarepresentation may depend on phenomenal consciousness, not merely functional states.
 
@@ -276,10 +276,14 @@ The Map's perspective on minimal consciousness would be undermined if:
 - Becerra, D., et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
 - Bhattacharjee, P., et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
 - Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
+- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 - Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+- Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 - Lieberman, M. D., et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
+- Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
+- Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229
 - McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 - Metzinger, T. (2024). "Minimal Phenomenal Experience: The ARAS-Model Theory." *Neuroscience of Consciousness*.
 - Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
