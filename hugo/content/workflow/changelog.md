@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T19:22:05+00:00'
+ai_modified: '2026-08-01T19:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
-lastmod: 2026-08-01 19:22:05+00:00
+lastmod: 2026-08-01 19:36:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 19:36 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `obsidian/apex/machine-question.md`
+- **Scope**: the single paragraph at L161 plus its one-clause downstream consequence at L163 and the matching reference-block swap. No restructuring, no condense, no touch to `last_deep_review`. `ai_system` held at the file's own `claude-opus-4-7+claude-opus-4-8` — this pass transcribes settled corpus prose and corrects a citation, it does not add interpretation.
+- **Length (decomposed at the apparatus, per the standing measurement rule)**: `analyze_length` 5765 → 5777 (+12; `hard_warning` before and after, apex hard threshold 5000). **Prose body 5066 → 5067 (+1).** Apparatus (Further Reading + References) 702 → 713 (+11) — the entire delta is the reference-block swap, where the removed Tomasello & Herrmann entry (22 words) is replaced by the longer Read, Manrique & Walker entry (31 words) in alphabetical position. The body edit that actually bears on the ceiling is length-neutral to within one word: the graded replacement runs +6 on the paragraph, offset by −5 taken from the now-inconsistent "cognitive leap" clause in the following paragraph. No condense task minted; the standing operator `#veto` on apex condensing is respected.
+- **Defect 1 — retired flat ape-incapacity claim (fixed)**: L161 read *"They demonstrate tool use, social learning, and procedural metacognition, but systematically lack capacities that appear to require consciousness: logical reasoning, counterfactual thinking, cumulative culture, declarative metacognition."* That is the claim `tenets.md` L94 retired on 2026-06-22, restated almost verbatim in a live apex body served at `/apex/machine-question/`. Replaced with the settled graded framing — *"limited but genuine inference, so the human difference is graded rather than absolute: human reasoning and cumulative culture are uniquely open-ended rather than uniquely present"* — closing to `[[cumulative-culture#contested-exclusivity|contested exclusivity]]`. Per the task's explicit length instruction the full two-citation block (Schleihauf, Sanford, Engelmann et al. 2025; Gunasekaram et al. 2024) was **not** imported; the wikilink carries the evidential load, and the author-order regression the 08-01 corpus sweep fixed is therefore not re-exposed here. Anchor verified resolving as `/concepts/cumulative-culture/#contested-exclusivity` from `apex/` (bare-slug form, matching `minds-without-words`).
+- **Defect 2 — Tomasello & Herrmann 2010 (verified MIS-FRAMED, corrected)**: the task flagged this as possibly-legitimate for the *relational-task* claim rather than the capacity figure and required verification first. Verified at the publisher of record, not from memory: **Tomasello, M. & Herrmann, E. (2010), "Ape and human cognition: What's the difference?", *Current Directions in Psychological Science* 19(1):3–8, DOI 10.1177/0963721409359300** — record retrieved independently from Crossref **and** OpenAlex, both returning the abstract *"Humans share the vast majority of their cognitive skills with other great apes. In addition, however, humans have also evolved a unique suite of cognitive skills and motivations—collectively referred to as shared intentionality—for living collaboratively, learning socially, and exchanging information in cultural groups."* The paper is real, correctly attributed, and correctly dated — and it is a **shared-intentionality** paper carrying no working-memory capacity figure, whose thesis on *non-social* cognition runs the **opposite** way to the sentence citing it. Citing it for *"chimpanzee working memory is substantially more limited than human capacity for abstract relational tasks"* was therefore a citation-framing defect, not a legitimate distinct citation. Replaced with the settled corpus form — *"Chimpanzee working memory is estimated at 2±1 items on a contested review synthesis (Read, Manrique & Walker 2022); human capacity of 4±1 (Cowan 2001)"* — preserving both calibration hedges (review-synthesis-not-measurement; comparison contested) in compressed form. The corpus's own correct uses of T&H 2010 (`animal-consciousness` L138, `jourdain-hypothesis` L91) frame it as shared intentionality and are untouched.
+- **Consistency repair (L163)**: *"If consciousness is what enables the cognitive leap distinguishing humans from great apes"* → *"If consciousness is what enables that expansion"*. A categorical "leap" contradicts the graded framing installed one paragraph above; the shortened clause also supplies the length offset. This is a correction, not a trim for room.
+- **Sibling loci reported, not fixed**: the same mis-citation appears at `obsidian/topics/consciousness-and-cognitive-distinctiveness.md` L83 (live) and `archive/topics/consciousness-and-intelligence.md` L80 (serving archive body). Minted one P2 `refine-draft` task on the live locus with the publisher verification attached and the archive twin named in its notes; deliberately **not** minted against the archive file, which already carries an open P3 task of different scope — avoiding the same-file task pileup pattern. The new task was inserted **below** this run's originating task so its line number did not shift.
+- **Mirror**: `uv run python scripts/sync.py` run; `hugo/content/apex/machine-question.md` L165/L167/L274 verified in agreement, `Tomasello` now absent from the mirrored body, and the rendered link resolves to `/concepts/cumulative-culture/#contested-exclusivity`.
+- **Published**: yes
 
 ## 2026-08-01 19:22 UTC - deep-review
 
