@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-17 01:41:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-01 13:30:19+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Voids as Evidence
 archived: true
 archived_date: 2026-04-18 02:55:00+00:00
@@ -130,7 +130,7 @@ The tenets do not merely accommodate the voids after the fact. They predicted sp
 
 The inference from epistemic gaps to ontological conclusions is contested. Levine, who introduced the term "explanatory gap," himself resists the move: the gap reveals a limit on our explanatory abilities, not necessarily a gap in nature (Levine 1983). A related concern: if "consciousness-related" is defined broadly enough, many disparate puzzles get classified together. The argument's force depends on the voids being independently identifiable—distinct methods, premises, and failure modes—rather than one phenomenon relabelled. The [topology of cognitive failure](/voids/compound-failure-signatures/) supports this independence.
 
-Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological gap. Chalmers argues this strategy cannot explain *why* phenomenal concepts have this nature without presupposing phenomenal properties. **[Illusionism](/concepts/illusionism/)** (Frankish 2016) denies phenomenal properties exist at all, making the clustering an artifact of systematic misrepresentation—but must then explain how a purely physical system generates the persistent, structured sense of phenomenality without it tracking anything real.
+Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological gap. Chalmers argues this strategy cannot explain *why* phenomenal concepts have this nature without presupposing phenomenal properties. **[Illusionism](/concepts/illusionism/)** (Frankish 2016) denies that phenomenal properties exist *as traditionally conceived*—intrinsic, ineffable, what-it-is-like—making the clustering an artifact of systematic misrepresentation, but must then explain how a purely physical system generates the persistent, structured sense of phenomenality without it tracking anything real.
 
 McGinn argues the problem may be permanently beyond human cognitive reach (McGinn 1989). The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) deepens this: if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—may be subject to the same constraints it investigates (see [whether the voids are real](/voids/meta-epistemology-of-limits/)).
 

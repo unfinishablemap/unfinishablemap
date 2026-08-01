@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 13:45:06+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-01 13:30:19+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[panpsychism]]'
@@ -105,7 +105,7 @@ If Russellian monism inherits dualism's costs under a different name, the Map's 
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) and Russellian monism represent opposite responses to the [hard problem](/topics/hard-problem-of-consciousness/): Russellian monism enriches physics with phenomenal quiddities; illusionism denies phenomenal properties exist. Russellian monism resists illusionism more effectively than standard physicalism because it can deploy Galen Strawson's "reality of experience" argument: experience is the one thing we know exists non-inferentially, so any theory denying it undermines its own epistemic basis. The deeper lesson is that Russellian monism shares the Map's recognition that phenomenal properties must be taken seriously. The disagreement is whether quiddities *are* phenomenal (panpsychism), *ground* the phenomenal (panprotopsychism), or whether consciousness is ontologically distinct and *interacts with* physics (the Map's framework). See [illusionism](/concepts/illusionism/) for the full debate.
+[Illusionism](/concepts/illusionism/) and Russellian monism represent opposite responses to the [hard problem](/topics/hard-problem-of-consciousness/): Russellian monism enriches physics with phenomenal quiddities; illusionism denies that phenomenal properties exist *as traditionally conceived*—bearing intrinsic, ineffable, what-it-is-like character. The restriction governs what follows. Against the hard end of the illusionist spectrum, where the category is taken to be empty outright, Russellian monism can deploy Galen Strawson's "reality of experience" argument more readily than standard physicalism: experience is the one thing we know exists non-inferentially, so a theory denying it undermines its own epistemic basis. Against the subtle end the argument does not land—Strawson names Dennett among the deniers but not Frankish, whose restriction leaves the charge unaddressed, and Graziano's "caricature" reading grants that the brain models something real, only schematically. There Russellian monism's advantage is narrower: it treats the intrinsic nature question as a datum rather than as a symptom of misrepresentation. The deeper lesson is that Russellian monism shares the Map's recognition that phenomenal properties must be taken seriously. The disagreement is whether quiddities *are* phenomenal (panpsychism), *ground* the phenomenal (panprotopsychism), or whether consciousness is ontologically distinct and *interacts with* physics (the Map's framework). See [illusionism](/concepts/illusionism/) for the full debate.
 
 ## The Mysterian Angle
 

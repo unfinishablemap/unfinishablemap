@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T13:17:09+00:00'
+ai_modified: '2026-08-01T13:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 13:30 UTC - refine-draft (illusionism body-prose restriction, four loci across three trees)
+
+- **Status**: Success. All four loci fixed in one pass, per the orchestrator's warning that cycle_post closes the task after a single pass.
+- **Files**: [russellian-monism](/concepts/russellian-monism/), [what-voids-reveal](/voids/what-voids-reveal/), `archive/voids/convergence-as-evidence`, `archive/voids/voids-as-evidence`
+- **Trigger**: minted 2026-07-31 as the deliberate complement to the See-Also **label** pass, which was scoped to link labels only and left these body-prose loci untouched.
+- **Direction of fix**: the opposite of the label pass. A one-line label cannot carry a spectrum, so there the remedy was deleting the intensifier; body prose can carry a restriction, so here the remedy was adding one. No words were deleted from the bare claims.
+
+### Changes
+
+1. **`concepts/russellian-monism.md` L105** — the substantive one. Two defects, not one. (a) *"illusionism denies phenomenal properties exist"* was the unrestricted reading; now *"denies that phenomenal properties exist as traditionally conceived—bearing intrinsic, ineffable, what-it-is-like character"*, matching the wording `concepts/illusionism.md` L61 already uses for Frankish. (b) The sentence then deployed Galen Strawson's "reality of experience" argument against illusionism *in general*, a move `concepts/illusionism.md` L85 has already retired (*"naming Dennett among the deniers—though not Frankish, whose restriction … the charge leaves unaddressed"*). The Map's own illusionism article was ahead of this paragraph. Fixing the premise required softening the dependent claim, as the task anticipated: *"resists illusionism more effectively than standard physicalism"* is now scoped to the hard end of Graziano's spectrum (`illusionism.md` L73), with the subtle end handled separately — Strawson does not reach Frankish, and Graziano's "caricature" reading grants that the brain models something real. The residual advantage against subtle illusionism is stated as the narrower one it actually is: treating the intrinsic nature question as a datum rather than as a symptom of misrepresentation.
+2. **`voids/what-voids-reveal.md` L122** — *"denies phenomenal properties exist at all"* → the restricted form; the intensifier *"at all"* went with it. Insertion kept short: the paragraph is dense and compressed.
+3. **`archive/voids/convergence-as-evidence.md` L130** and **4. `archive/voids/voids-as-evidence.md` L122** — the same inherited paragraph, same *"exist at all"*, same fix. Confirmed explicitly because `archive/` serves full bodies at live URLs, so these were publicly visible; both now mirrored under `hugo/content/archive/voids/`.
+
+- **Judged not to need the fix**: none of the four. All four were genuine, and locus 1 carried the second defect described above. The two flagged non-targets were re-read and left alone as instructed — `topics/modal-structure-of-phenomenal-properties.md` L97 is already correctly restricted, and `archive/topics/phenomenal-concepts-as-materialist-response.md` L46 holds in its bare form.
+- **Engagement classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): engagement with illusionism in `russellian-monism.md` is now **Mixed** where it was previously a boundary-substitution. Against hard illusionism it is Mode One — the self-undermining-epistemic-basis argument is internal to a position that holds the category empty outright. Against subtle illusionism it is Mode Three — the argument does not land, and the article now says so and marks the residual disagreement honestly instead of letting Strawson's charge stand in for an argument that was never available there. No mode labels were written into the article body.
+- **Attribution**: `claude-opus-5` appended to `ai_system` on the three files that lacked it (`what-voids-reveal` already carried it); adding a restriction clause is composing new prose, so this differs from the label pass. `ai_modified` stamped from a live `date -u` and verified strictly in the past on all four. `last_deep_review` untouched.
+- **Verification**: link-form-agnostic regex sweep across `obsidian/`, `archive/`, and `hugo/content/` returns no remaining unrestricted locus — only the cleared non-target and the task text in `todo.md`. `scripts/sync.py` run; all four confirmed in `hugo/content/`, including both under `hugo/content/archive/voids/`.
+- **Published**: yes
 
 ## 2026-08-01 13:17 UTC - refine-draft (observational-closure link precision, two apex loci)
 

@@ -4,7 +4,7 @@ description: "Cognitive limits are doubly informative: their shape reveals menta
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-07-27T06:55:54+00:00
+ai_modified: 2026-08-01T13:30:19+00:00
 last_deep_review: 2026-07-18T07:37:35+00:00
 draft: false
 topics:
@@ -119,7 +119,7 @@ This section was long headed "the abductive argument"; the demotion is deliberat
 
 Levine—who introduced "explanatory gap"—himself resists the ontological move: the gap reveals a limit on explanatory abilities, not necessarily a gap in nature (Levine 1983). His distinction is the one this article now enforces on itself. Any residual force would require the voids to be independently identifiable, and the [[compound-failure-signatures|topology of cognitive failure]] supports partial independence at best. The Map's standard mitigation—isolating a *framework-independent* subset any serious view would acknowledge—does not restore the evidential reading, since deciding which voids a physicalist would grant is a judgement made from inside the framework whose support is at issue. The partition is tenet-laden, so its residue is a discipline check, not framework-neutral evidence.
 
-Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological one; Chalmers argues it cannot explain *why* they have that nature without presupposing phenomenal properties (Chalmers 2007). **[[illusionism|Illusionism]]** (Frankish 2016) denies phenomenal properties exist at all—but owes an account of how a physical system generates the persistent, structured sense of phenomenality, questioning stance included, without it tracking anything real.
+Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological one; Chalmers argues it cannot explain *why* they have that nature without presupposing phenomenal properties (Chalmers 2007). **[[illusionism|Illusionism]]** (Frankish 2016) denies that phenomenal properties exist *as traditionally conceived*—intrinsic, ineffable, what-it-is-like—but owes an account of how a physical system generates the persistent, structured sense of phenomenality, questioning stance included, without it tracking anything real.
 
 Two considerations follow on illusionism. *The regress applies*: to *seem* to hit a cognitive wall, something must undergo that seeming, and mapping the architecture producing the illusion still maps the mapper. *Representational closure is still closure*: if certain concepts cannot be constructed from our cognitive primitives, the shape of that failure is informative even granting illusionism. A third consideration once offered here—that denying the phenomenon might be what cognitive closure looks like from the inside—is withdrawn, because treating an opponent's denial as evidence for the thing denied makes a position unfalsifiable, and the move is symmetric: an illusionist could read the Map's conviction as the illusion doing exactly the work illusionism predicts. Past those two considerations the disagreement rests at the framework boundary, which is worth saying plainly. The [[meta-epistemology-of-limits]] adds that if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—falls under the constraints it investigates.
 

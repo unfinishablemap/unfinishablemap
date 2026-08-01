@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-01T13:20:28.758967+00:00'
-session_count: 18034
+last_updated: '2026-08-01T13:28:27.304224+00:00'
+session_count: 18035
 cycle_position: 12167
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-01T13:20:28.758967+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-07-31T15:11:19.323243+00:00'
+  replenish-queue: '2026-08-01T13:28:27.304224+00:00'
   condense: '2026-07-30T14:38:43.133379+00:00'
   expand-topic: '2026-07-16T15:59:07.659254+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-07-31'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-07-31'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-01'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -950,84 +950,246 @@ queue_status:
   relocated_starved_p2: 0
   promoted_p3_to_p2: 0
   superseded_tasks_closed: 0
-  run_911_note: 'run no.911 (2026-07-31T14:30Z, cycle-driven /replenish-queue): MINTED ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Twelfth consecutive zero-mint run and the fourth today, all four prescribed in advance by the driver briefing. Steady state, not an exception.
+  run_911_note: 'run no.911 (2026-07-31T14:30Z, cycle-driven /replenish-queue): MINTED
+    ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Twelfth consecutive
+    zero-mint run and the fourth today, all four prescribed in advance by the driver
+    briefing. Steady state, not an exception.
 
 
-    COUNTS by parsing the Active Tasks region (lines 38 to 2001) and excluding veto-tagged and needs-human entries: 28 active, 0 P0, 0 P1, 2 P2 and 26 P3 before, against MIN_QUEUE 3. After: 28 active, 4 P2 and 24 P3. Active total unchanged. Raw heading greps over-report as usual: a bare grep for P2 headings returns 5, of which 3 carry the veto tag. Two promoted rather than one so the floor survives the next pick without re-triggering replenish on the very next iteration.
+    COUNTS by parsing the Active Tasks region (lines 38 to 2001) and excluding veto-tagged
+    and needs-human entries: 28 active, 0 P0, 0 P1, 2 P2 and 26 P3 before, against
+    MIN_QUEUE 3. After: 28 active, 4 P2 and 24 P3. Active total unchanged. Raw heading
+    greps over-report as usual: a bare grep for P2 headings returns 5, of which 3
+    carry the veto tag. Two promoted rather than one so the floor survives the next
+    pick without re-triggering replenish on the very next iteration.
 
 
-    PROMOTION ONE: obsidian/topics/indian-philosophy-of-mind.md, the O Brien-Kop stale-citation task. Reproduced on disk before promotion: L187 reads O Brien-Kop, K. (2023). The hard problem of pure consciousness: Samkhya dualist ontology. Religious Studies, Cambridge University Press - year only, no volume, no pages, no DOI. The canonical entry at obsidian/topics/interaction-problem-across-traditions.md L150 carries (2024), 60(S1), S4-S20, published online 2023, doi 10.1017/S0034412523000410. Confirmed live in the serving mirror at hugo/content/topics/indian-philosophy-of-mind.md L190, so the stale reference is published. Cheap: copy the canonical line, one file per pick, three sibling loci reported not re-scoped.
+    PROMOTION ONE: obsidian/topics/indian-philosophy-of-mind.md, the O Brien-Kop stale-citation
+    task. Reproduced on disk before promotion: L187 reads O Brien-Kop, K. (2023).
+    The hard problem of pure consciousness: Samkhya dualist ontology. Religious Studies,
+    Cambridge University Press - year only, no volume, no pages, no DOI. The canonical
+    entry at obsidian/topics/interaction-problem-across-traditions.md L150 carries
+    (2024), 60(S1), S4-S20, published online 2023, doi 10.1017/S0034412523000410.
+    Confirmed live in the serving mirror at hugo/content/topics/indian-philosophy-of-mind.md
+    L190, so the stale reference is published. Cheap: copy the canonical line, one
+    file per pick, three sibling loci reported not re-scoped.
 
 
-    PROMOTION TWO: obsidian/topics/alignment-in-objective-experiential-terms.md, the mind-arena under-linking task - the exact pattern the briefing named as paying off. Reproduced on disk: the file uses the term of art at L120 twice (consequence-distributions of mind-arena perturbations are uncomputable; mind-arena consequences cannot be computed) and again at L142, and grep for the wikilink form returns 0. The definitional node obsidian/concepts/mind-arena.md exists (85 lines, created 2026-06-04 specifically to resolve a three-way ambiguity in how the term was being used). The three sibling files each carry 1 plain occurrence and 0 wikilinks. Length-neutral, one wikilink on first occurrence.
+    PROMOTION TWO: obsidian/topics/alignment-in-objective-experiential-terms.md, the
+    mind-arena under-linking task - the exact pattern the briefing named as paying
+    off. Reproduced on disk: the file uses the term of art at L120 twice (consequence-distributions
+    of mind-arena perturbations are uncomputable; mind-arena consequences cannot be
+    computed) and again at L142, and grep for the wikilink form returns 0. The definitional
+    node obsidian/concepts/mind-arena.md exists (85 lines, created 2026-06-04 specifically
+    to resolve a three-way ambiguity in how the term was being used). The three sibling
+    files each carry 1 plain occurrence and 0 wikilinks. Length-neutral, one wikilink
+    on first occurrence.
 
 
-    PILEUP CHECK RUN BEFORE PROMOTING: greped both target paths against every File line in the Active region; the only hits were the two tasks themselves. Neither collides with the two in-flight P2s (apex/consciousness-and-agency, concepts/russellian-monism).
+    PILEUP CHECK RUN BEFORE PROMOTING: greped both target paths against every File
+    line in the Active region; the only hits were the two tasks themselves. Neither
+    collides with the two in-flight P2s (apex/consciousness-and-agency, concepts/russellian-monism).
 
 
-    STANDING DECLINES HELD. concepts/metacognition remains declined on the run 909 grounds (its uncited-figure premise runs against a Read 2008 reference already at L239). concepts/psychophysical-laws remains declined on the run 910 grounds (premise true but it would be a third task on the illusionist-regress axis, which already carries the in-flight russellian-monism P2).
+    STANDING DECLINES HELD. concepts/metacognition remains declined on the run 909
+    grounds (its uncited-figure premise runs against a Read 2008 reference already
+    at L239). concepts/psychophysical-laws remains declined on the run 910 grounds
+    (premise true but it would be a third task on the illusionist-regress axis, which
+    already carries the in-flight russellian-monism P2).
 
 
-    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible: topics 318/320, concepts 317/320, voids 100/100 at cap. The 24 waiting P3 entries are specific verified defects rather than filler, and any freshly minted P2 would sort ahead of them and deepen the starvation the last five runs have been draining.
+    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible: topics
+    318/320, concepts 317/320, voids 100/100 at cap. The 24 waiting P3 entries are
+    specific verified defects rather than filler, and any freshly minted P2 would
+    sort ahead of them and deepen the starvation the last five runs have been draining.
 
 
-    Both flips were in-place header edits: git numstat shows 2 insertions and 2 deletions, so the todo.md line count is unchanged and cycle_post cannot drift. run_908_note pruned under the keep-about-three discipline, keeping 909, 910 and 911. recent_tasks untouched. YAML re-parsed after writing.'
-  run_912_note: 'run no.912 (2026-07-31T15:08Z, cycle-driven /replenish-queue): MINTED ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Thirteenth consecutive zero-mint run and the fifth today, all five prescribed in advance by the driver briefing. Steady state, not an exception.
+    Both flips were in-place header edits: git numstat shows 2 insertions and 2 deletions,
+    so the todo.md line count is unchanged and cycle_post cannot drift. run_908_note
+    pruned under the keep-about-three discipline, keeping 909, 910 and 911. recent_tasks
+    untouched. YAML re-parsed after writing.'
+  run_912_note: 'run no.912 (2026-07-31T15:08Z, cycle-driven /replenish-queue): MINTED
+    ZERO. FLOOR RESTORED BY PROMOTING TWO P3 TASKS TO P2 (2 -> 4). Thirteenth consecutive
+    zero-mint run and the fifth today, all five prescribed in advance by the driver
+    briefing. Steady state, not an exception.
 
 
-    COUNTS by parsing the Active Tasks region and counting only headings matching the picker pattern with Status pending, excluding the veto-tagged block: 0 P0, 0 P1, 2 P2 and 24 P3 before, against MIN_QUEUE 3. After: 4 P2 and 22 P3. Active total unchanged. Raw heading greps over-report as usual: a bare grep for P2 headings now returns 5, of which 1 carries the veto tag and 2 are the in-flight pair. Note that run 911''s two promotions were both consumed since (the mind-arena and O Brien-Kop picks), each leaving a P3 continuation, which is why P2 was back at 2.
+    COUNTS by parsing the Active Tasks region and counting only headings matching
+    the picker pattern with Status pending, excluding the veto-tagged block: 0 P0,
+    0 P1, 2 P2 and 24 P3 before, against MIN_QUEUE 3. After: 4 P2 and 22 P3. Active
+    total unchanged. Raw heading greps over-report as usual: a bare grep for P2 headings
+    now returns 5, of which 1 carries the veto tag and 2 are the in-flight pair. Note
+    that run 911''s two promotions were both consumed since (the mind-arena and O
+    Brien-Kop picks), each leaving a P3 continuation, which is why P2 was back at
+    2.
 
 
-    PROMOTION ONE: obsidian/topics/phenomenal-normativity-environmental-ethics.md, the stale-downstream-surface-after-recalibration pattern the briefing named as paying off. Reproduced verbatim on disk at L63: the deep ecology charge that consciousness-centred value theory is parochially Western is REFUTED by the cross-cultural evidence, the world''s major philosophical traditions OVERWHELMINGLY locate value in experience. Checked against the governing register entry rather than taken on the mint''s word: positions/arguments-for-dualism.md P-D3 (L61, L65) grants only near-independence, not a third confirmation, and explicitly DECLINES the early Chinese lineage on the merits, so overwhelmingly overstates the very position that governs the sentence. The sentence is also discharging an objection, so the over-claim does argumentative work. Cheap: two-word substitution, analyze_length 2500w status ok against a 3000 topics soft threshold.
+    PROMOTION ONE: obsidian/topics/phenomenal-normativity-environmental-ethics.md,
+    the stale-downstream-surface-after-recalibration pattern the briefing named as
+    paying off. Reproduced verbatim on disk at L63: the deep ecology charge that consciousness-centred
+    value theory is parochially Western is REFUTED by the cross-cultural evidence,
+    the world''s major philosophical traditions OVERWHELMINGLY locate value in experience.
+    Checked against the governing register entry rather than taken on the mint''s
+    word: positions/arguments-for-dualism.md P-D3 (L61, L65) grants only near-independence,
+    not a third confirmation, and explicitly DECLINES the early Chinese lineage on
+    the merits, so overwhelmingly overstates the very position that governs the sentence.
+    The sentence is also discharging an objection, so the over-claim does argumentative
+    work. Cheap: two-word substitution, analyze_length 2500w status ok against a 3000
+    topics soft threshold.
 
 
-    PROMOTION TWO: obsidian/topics/interaction-problem-across-traditions.md, the orphan-reference citation-integrity task. Reproduced on disk with the file''s own vocabulary rather than the fix''s: grep -niE for occasionalis, ghazali, malebranche and Ash ari over the whole file returns exactly one hit, L156, inside the References block, and zero body hits anywhere. So reference 8 supports no claim in the article. Publicly visible: the orphan is live in the serving mirror at hugo/content/topics/interaction-problem-across-traditions.md L160. Cheap: option (1) in the task (integrate al-Ghazali into the body or delete reference 8) closes it alone and is net-neutral on length at 3403w soft_warning, 597 to the topics hard ceiling. The optional occasionalism-as-sixth-type question is explicitly not required to close it.
+    PROMOTION TWO: obsidian/topics/interaction-problem-across-traditions.md, the orphan-reference
+    citation-integrity task. Reproduced on disk with the file''s own vocabulary rather
+    than the fix''s: grep -niE for occasionalis, ghazali, malebranche and Ash ari
+    over the whole file returns exactly one hit, L156, inside the References block,
+    and zero body hits anywhere. So reference 8 supports no claim in the article.
+    Publicly visible: the orphan is live in the serving mirror at hugo/content/topics/interaction-problem-across-traditions.md
+    L160. Cheap: option (1) in the task (integrate al-Ghazali into the body or delete
+    reference 8) closes it alone and is net-neutral on length at 3403w soft_warning,
+    597 to the topics hard ceiling. The optional occasionalism-as-sixth-type question
+    is explicitly not required to close it.
 
 
-    LEFT AT P3 AS INSTRUCTED, and I agree with the driver''s reasoning: the two continuation tasks minted this session (the last two O Brien-Kop loci anchored on topics/epistemology-of-convergence-arguments.md, and the last three mind-arena loci anchored on topics/purpose-and-alignment.md). Both are cheap and well-specified, but they are the tails of chains already three-quarters done, and promoting them ahead of older, never-picked P3s would deepen exactly the starvation these runs are draining. The two promoted here are 2026-07-28 and 2026-07-30 mints that have never been picked.
+    LEFT AT P3 AS INSTRUCTED, and I agree with the driver''s reasoning: the two continuation
+    tasks minted this session (the last two O Brien-Kop loci anchored on topics/epistemology-of-convergence-arguments.md,
+    and the last three mind-arena loci anchored on topics/purpose-and-alignment.md).
+    Both are cheap and well-specified, but they are the tails of chains already three-quarters
+    done, and promoting them ahead of older, never-picked P3s would deepen exactly
+    the starvation these runs are draining. The two promoted here are 2026-07-28 and
+    2026-07-30 mints that have never been picked.
 
 
-    CONSIDERED AND NOT PROMOTED, with reasons. concepts/mental-causation-and-downward-causation L93-task: premise reproduces and it is the highest-extraction surface in the queue (the article''s LEAD), but analyze_length is 3499w against a concepts hard ceiling of 3500 that trips at >=, so the live budget is ONE word and the task cannot be done without a paired trim. Promoting it would most likely buy a clean decline, which does not restore the floor. topics/language-recursion-and-consciousness.md: cheap citation install, but 3992w against a 4000 topics hard ceiling, so a citation line does not fit; left at P3 rather than promoted into a length trap. concepts/haecceity illusionist-regress copies: on the same axis as the in-flight russellian-monism P2, so declined on the same-file/same-axis pileup grounds.
+    CONSIDERED AND NOT PROMOTED, with reasons. concepts/mental-causation-and-downward-causation
+    L93-task: premise reproduces and it is the highest-extraction surface in the queue
+    (the article''s LEAD), but analyze_length is 3499w against a concepts hard ceiling
+    of 3500 that trips at >=, so the live budget is ONE word and the task cannot be
+    done without a paired trim. Promoting it would most likely buy a clean decline,
+    which does not restore the floor. topics/language-recursion-and-consciousness.md:
+    cheap citation install, but 3992w against a 4000 topics hard ceiling, so a citation
+    line does not fit; left at P3 rather than promoted into a length trap. concepts/haecceity
+    illusionist-regress copies: on the same axis as the in-flight russellian-monism
+    P2, so declined on the same-file/same-axis pileup grounds.
 
 
-    STANDING DECLINES HELD, both unchanged. concepts/metacognition (its uncited-figure premise runs against a Read 2008 reference already at L239). concepts/psychophysical-laws (premise true, but it would be a third task on the illusionist-regress axis the in-flight russellian-monism P2 occupies).
+    STANDING DECLINES HELD, both unchanged. concepts/metacognition (its uncited-figure
+    premise runs against a Read 2008 reference already at L239). concepts/psychophysical-laws
+    (premise true, but it would be a third task on the illusionist-regress axis the
+    in-flight russellian-monism P2 occupies).
 
 
-    IN-FLIGHT PAIR LEFT UNTOUCHED as instructed: apex/consciousness-and-agency.md (L1939) and concepts/russellian-monism.md (L1971). Pileup check run before promoting: both promoted paths greped against every File line in the Active region, and the only hits were the tasks themselves.
+    IN-FLIGHT PAIR LEFT UNTOUCHED as instructed: apex/consciousness-and-agency.md
+    (L1939) and concepts/russellian-monism.md (L1971). Pileup check run before promoting:
+    both promoted paths greped against every File line in the Active region, and the
+    only hits were the tasks themselves.
 
 
-    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible on live counts: topics 318/320, concepts 317/320, voids 100/100 at cap. The 22 waiting P3 entries are specific verified defects rather than filler, and any freshly minted P2 would sort ahead of them.
+    ZERO MINTS, with reasons. No expand-topic or research-topic is admissible on live
+    counts: topics 318/320, concepts 317/320, voids 100/100 at cap. The 22 waiting
+    P3 entries are specific verified defects rather than filler, and any freshly minted
+    P2 would sort ahead of them.
 
 
-    Both flips were in-place header edits plus a provenance clause appended to each task''s existing Source line: git numstat shows 4 insertions and 4 deletions, so the todo.md line count is unchanged and cycle_post cannot drift. run_909_note pruned under the keep-about-three discipline, keeping 910, 911 and 912. recent_tasks untouched. YAML re-parsed with yaml.safe_load after writing.'
-  run_913_note: 'run no.913 (2026-08-01T13:26Z, cycle-driven /replenish-queue): MINTED TWO P2 TASKS, both from UNCONSUMED RESEARCH. This BREAKS a thirteen-run zero-mint streak, and the reason the streak broke is not a change of policy but a change of facts: two research notes landed that did not exist during runs 900-912, and unconsumed_research is the highest-bonus source in the skill (+60).
+    Both flips were in-place header edits plus a provenance clause appended to each
+    task''s existing Source line: git numstat shows 4 insertions and 4 deletions,
+    so the todo.md line count is unchanged and cycle_post cannot drift. run_909_note
+    pruned under the keep-about-three discipline, keeping 910, 911 and 912. recent_tasks
+    untouched. YAML re-parsed with yaml.safe_load after writing.'
+  run_913_note: 'run no.913 (2026-08-01T13:26Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS, both from UNCONSUMED RESEARCH. This BREAKS a thirteen-run zero-mint
+    streak, and the reason the streak broke is not a change of policy but a change
+    of facts: two research notes landed that did not exist during runs 900-912, and
+    unconsumed_research is the highest-bonus source in the skill (+60).
 
 
-    COUNTS, via count_p0_p2_tasks and parse_tasks rather than raw heading greps: 28 active, 0 P0, 0 P1, 2 P2, 26 P3 before, against MIN_QUEUE 3. After: 30 active, 4 P2, 26 P3. Floor restored with a margin of one so the next pick does not immediately re-trigger replenish.
+    COUNTS, via count_p0_p2_tasks and parse_tasks rather than raw heading greps: 28
+    active, 0 P0, 0 P1, 2 P2, 26 P3 before, against MIN_QUEUE 3. After: 30 active,
+    4 P2, 26 P3. Floor restored with a margin of one so the next pick does not immediately
+    re-trigger replenish.
 
 
-    MINT ONE, expand-topic: obsidian/concepts/sentientism.md, consuming obsidian/research/sentientism-2026-08-01.md (written 2026-08-01, whose own Assess-First Verdict is PROCEED WITH A NARROW BRIEF). Premises re-verified on disk rather than taken on the note''s word, and swept across all three trees per the archive-inclusion discipline: grep -rliE biocentri over obsidian, archive and hugo/content returns 6 files, every one of them workflow or research, so ZERO articles; the same shape for speciesis, also 6 and also zero articles; Taylor, Attfield and Schweitzer appear in no article. Both gaps are real rather than singular-plural near-misses. Slug is free of live and archive-redirect collisions.
+    MINT ONE, expand-topic: obsidian/concepts/sentientism.md, consuming obsidian/research/sentientism-2026-08-01.md
+    (written 2026-08-01, whose own Assess-First Verdict is PROCEED WITH A NARROW BRIEF).
+    Premises re-verified on disk rather than taken on the note''s word, and swept
+    across all three trees per the archive-inclusion discipline: grep -rliE biocentri
+    over obsidian, archive and hugo/content returns 6 files, every one of them workflow
+    or research, so ZERO articles; the same shape for speciesis, also 6 and also zero
+    articles; Taylor, Attfield and Schweitzer appear in no article. Both gaps are
+    real rather than singular-plural near-misses. Slug is free of live and archive-redirect
+    collisions.
 
 
-    THE CAP DECISION, made explicitly rather than by default. concepts/ is at 317 of 320 by count_section_files, topics/ at 318 of 320, voids/ at 100 of 100. Runs 910 through 912 each recorded no expand-topic admissible on live counts at these same numbers. That reading is stricter than the skill''s own rule, which excludes a section only at or above its cap, and 317 is under. It was the right call while there was no research to consume, because a freshly invented expand candidate would have spent a scarce slot on filler. It is the wrong call now: the harvest-to-research-to-expand chain was built on 2026-06-14 specifically to convert externally-flagged gaps into articles WHILE cap headroom still exists, and this is the first unconsumed-research candidate to reach the queue in fourteen runs. Declining it would leave a completed research note stranded and would let the last three concept slots expire unused. The task carries an instruction to re-confirm the cap at dispatch and divert to human if it has closed in the interim.
+    THE CAP DECISION, made explicitly rather than by default. concepts/ is at 317
+    of 320 by count_section_files, topics/ at 318 of 320, voids/ at 100 of 100. Runs
+    910 through 912 each recorded no expand-topic admissible on live counts at these
+    same numbers. That reading is stricter than the skill''s own rule, which excludes
+    a section only at or above its cap, and 317 is under. It was the right call while
+    there was no research to consume, because a freshly invented expand candidate
+    would have spent a scarce slot on filler. It is the wrong call now: the harvest-to-research-to-expand
+    chain was built on 2026-06-14 specifically to convert externally-flagged gaps
+    into articles WHILE cap headroom still exists, and this is the first unconsumed-research
+    candidate to reach the queue in fourteen runs. Declining it would leave a completed
+    research note stranded and would let the last three concept slots expire unused.
+    The task carries an instruction to re-confirm the cap at dispatch and divert to
+    human if it has closed in the interim.
 
 
-    MINT TWO, refine-draft: obsidian/concepts/prebiotic-collapse.md, consuming obsidian/research/horizon-decoherence-2026-07-31.md. This one spends NO section slot, because that research note''s own Potential Article Angles section says in terms: do not create a new article. Its preferred path is two targeted additions to existing articles, and this task is the first of the two, scoped to one file to avoid the known multi-file-task dropped-file hazard. Verified absent before minting: grep -niE for danielson, satishchandran, wald, horizon decoher and killing horizon over prebiotic-collapse.md returns zero.
+    MINT TWO, refine-draft: obsidian/concepts/prebiotic-collapse.md, consuming obsidian/research/horizon-decoherence-2026-07-31.md.
+    This one spends NO section slot, because that research note''s own Potential Article
+    Angles section says in terms: do not create a new article. Its preferred path
+    is two targeted additions to existing articles, and this task is the first of
+    the two, scoped to one file to avoid the known multi-file-task dropped-file hazard.
+    Verified absent before minting: grep -niE for danielson, satishchandran, wald,
+    horizon decoher and killing horizon over prebiotic-collapse.md returns zero.
 
 
-    LENGTH TRAP CAUGHT AT MINT TIME, and written into the task rather than left for the executor to discover. analyze_length puts prebiotic-collapse at 3652 words against a concepts hard ceiling of 3500, so it is ALREADY 152 words over and status is hard_warning. The research note''s preferred action is to add two or three sentences, which would push an over-ceiling article further over and buy nothing but a condense task. The mint therefore requires the addition to be paid for by a trim of at least equal size. The note''s optional SECOND addition, to topics/penrose-gravity-induced-collapse-empirical-prospects.md, was deliberately NOT minted and the reason is recorded inside the task so it is not re-minted blindly: that file already carries the DSW mechanism in prose at L98 and the 2022 and 2023 citations at L159, only the 2024 static-star finding is missing, and it has 70 words of headroom at 3930 of 4000.
+    LENGTH TRAP CAUGHT AT MINT TIME, and written into the task rather than left for
+    the executor to discover. analyze_length puts prebiotic-collapse at 3652 words
+    against a concepts hard ceiling of 3500, so it is ALREADY 152 words over and status
+    is hard_warning. The research note''s preferred action is to add two or three
+    sentences, which would push an over-ceiling article further over and buy nothing
+    but a condense task. The mint therefore requires the addition to be paid for by
+    a trim of at least equal size. The note''s optional SECOND addition, to topics/penrose-gravity-induced-collapse-empirical-prospects.md,
+    was deliberately NOT minted and the reason is recorded inside the task so it is
+    not re-minted blindly: that file already carries the DSW mechanism in prose at
+    L98 and the 2022 and 2023 citations at L159, only the 2024 static-star finding
+    is missing, and it has 70 words of headroom at 3930 of 4000.
 
 
-    PLACEMENT, chosen against the known LIFO-starvation hazard. select_queue_task sorts by priority then by LINE NUMBER ascending, so a top-insert would have put both new P2s ahead of the two older P2s that runs 911 and 912 promoted to restore the floor, deepening exactly the starvation those runs were draining. Both blocks were appended at the END of the Active region instead, immediately before the Completed Tasks header. Verified after writing: the next pick is still the OLDEST P2 at line 1972, and the two pre-existing P2s kept their exact line numbers, 1972 and 2003, because every inserted line falls after them. cycle_post cannot drift on any in-flight task.
+    PLACEMENT, chosen against the known LIFO-starvation hazard. select_queue_task
+    sorts by priority then by LINE NUMBER ascending, so a top-insert would have put
+    both new P2s ahead of the two older P2s that runs 911 and 912 promoted to restore
+    the floor, deepening exactly the starvation those runs were draining. Both blocks
+    were appended at the END of the Active region instead, immediately before the
+    Completed Tasks header. Verified after writing: the next pick is still the OLDEST
+    P2 at line 1972, and the two pre-existing P2s kept their exact line numbers, 1972
+    and 2003, because every inserted line falls after them. cycle_post cannot drift
+    on any in-flight task.
 
 
-    PILEUP CHECK RUN BEFORE MINTING: both target paths greped against every File line and every mention in the Active region. concepts/prebiotic-collapse appears four times but all four are inside a CLOSED panpsychism task''s notes; penrose-gravity-induced appears zero times; sentientism appears three times and all three are inside the NEEDS-HUMAN scan_transcripts note. No collision with either open P2.
+    PILEUP CHECK RUN BEFORE MINTING: both target paths greped against every File line
+    and every mention in the Active region. concepts/prebiotic-collapse appears four
+    times but all four are inside a CLOSED panpsychism task''s notes; penrose-gravity-induced
+    appears zero times; sentientism appears three times and all three are inside the
+    NEEDS-HUMAN scan_transcripts note. No collision with either open P2.
 
 
-    BOTH BLOCKS DRY-RUN THROUGH parse_tasks AND task_to_skill BEFORE BEING WRITTEN, because a mint missing Type parses as OTHER and a mint missing File dispatches blind. Results: the expand parses P2 EXPAND_TOPIC pending with file obsidian/concepts/sentientism.md and dispatches 887 args chars; the refine parses P2 REFINE_DRAFT pending with file obsidian/concepts/prebiotic-collapse.md and dispatches 3397 args chars.
+    BOTH BLOCKS DRY-RUN THROUGH parse_tasks AND task_to_skill BEFORE BEING WRITTEN,
+    because a mint missing Type parses as OTHER and a mint missing File dispatches
+    blind. Results: the expand parses P2 EXPAND_TOPIC pending with file obsidian/concepts/sentientism.md
+    and dispatches 887 args chars; the refine parses P2 REFINE_DRAFT pending with
+    file obsidian/concepts/prebiotic-collapse.md and dispatches 3397 args chars.
 
 
-    THE BRIEF IS CARRIED IN THE TITLE OF THE EXPAND TASK, DELIBERATELY. task_to_skill handles EXPAND_TOPIC by passing only _extract_topic_from_title(task.title) and never references task.notes, which is the same dispatch defect the open NEEDS-HUMAN entry documents for integrate-orphan. A brief left in the Notes would have been silently discarded and the executor would have received the bare word Sentientism, which the research note warns would produce pure redundancy given the term already appears about 105 times across the corpus. Encoding the brief in the title is also the established convention here: the research-topic task that produced this very note carried its brief the same way.
+    THE BRIEF IS CARRIED IN THE TITLE OF THE EXPAND TASK, DELIBERATELY. task_to_skill
+    handles EXPAND_TOPIC by passing only _extract_topic_from_title(task.title) and
+    never references task.notes, which is the same dispatch defect the open NEEDS-HUMAN
+    entry documents for integrate-orphan. A brief left in the Notes would have been
+    silently discarded and the executor would have received the bare word Sentientism,
+    which the research note warns would produce pure redundancy given the term already
+    appears about 105 times across the corpus. Encoding the brief in the title is
+    also the established convention here: the research-topic task that produced this
+    very note carried its brief the same way.
 
 
-    run_910_note pruned under the keep-about-three discipline, keeping 911, 912 and 913. recent_tasks untouched. YAML re-parsed with yaml.safe_load after writing.'
+    run_910_note pruned under the keep-about-three discipline, keeping 911, 912 and
+    913. recent_tasks untouched. YAML re-parsed with yaml.safe_load after writing.'

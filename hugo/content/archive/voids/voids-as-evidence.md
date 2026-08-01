@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-24 20:29:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-01 13:30:19+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 archive_reason: Coalesced into What Cognitive Voids Reveal
 archived: true
 archived_date: 2026-04-28 10:58:00+00:00
@@ -122,7 +122,7 @@ If the voids were independent puzzles, their convergence on a single boundary wo
 
 Levine—who introduced the term "explanatory gap"—himself resists the ontological move: the gap reveals a limit on our explanatory abilities, not necessarily a gap in nature (Levine 1983). A related concern: if "consciousness-related" is defined broadly, disparate puzzles get classified together. The argument's force depends on the voids being independently identifiable—the [topology of cognitive failure](/voids/compound-failure-signatures/) supports this independence.
 
-Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological gap. Chalmers argues the strategy cannot explain *why* phenomenal concepts have this nature without presupposing phenomenal properties. **[Illusionism](/concepts/illusionism/)** (Frankish 2016) denies phenomenal properties exist at all—but must then explain how a purely physical system generates the persistent, structured sense of phenomenality without it tracking anything real, including the questioning stance and its felt significance. McGinn argues the problem may be permanently beyond human cognitive reach. The [meta-epistemology](/voids/meta-epistemology-of-limits/) deepens this: if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—may be subject to the constraints it investigates.
+Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological gap. Chalmers argues the strategy cannot explain *why* phenomenal concepts have this nature without presupposing phenomenal properties. **[Illusionism](/concepts/illusionism/)** (Frankish 2016) denies that phenomenal properties exist *as traditionally conceived*—intrinsic, ineffable, what-it-is-like—but must then explain how a purely physical system generates the persistent, structured sense of phenomenality without it tracking anything real, including the questioning stance and its felt significance. McGinn argues the problem may be permanently beyond human cognitive reach. The [meta-epistemology](/voids/meta-epistemology-of-limits/) deepens this: if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—may be subject to the constraints it investigates.
 
 What convergence adds is cumulative weight. Any single gap might be explained away, but can the same strategy explain why consciousness, intentionality, meaning, value, intrinsic nature, ownership, and binding all fail at the same boundary—*and* why the system investigating this failure itself resists full objectification?
 
