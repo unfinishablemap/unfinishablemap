@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-31 13:34:50+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-01 17:11:44+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[phenomenology-vs-function-axis]]'
@@ -16,7 +16,7 @@ description: E. coli senses, remembers, and decides with zero neurons—the prok
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 03:31:42+00:00
+last_deep_review: 2026-08-01 17:11:44+00:00
 modified: *id001
 related_articles: []
 title: Bacterial Chemotaxis and Minimal Biogenic Cognition
@@ -38,14 +38,16 @@ This makes bacterial chemotaxis the sharpest **competency-without-experience** c
 
 The *E. coli* chemotaxis system is one of the most completely characterised signal-transduction pathways in biology, and its completeness is the point. It leaves no explanatory residue that a controller—still less an experiencer—needs to fill.
 
-The behaviour is **run-and-tumble** motility. Counter-clockwise rotation of the flagellar bundle produces a smooth forward "run"; clockwise rotation makes the bundle fly apart and the cell "tumbles," reorienting at random. Suppressing tumbles when conditions are improving, and allowing them when conditions worsen, biases this random walk up an attractant gradient. Howard Berg's canonical synthesis in *E. coli in Motion* established that the cell cannot measure a spatial gradient across its own tiny length; it must compare the concentration *now* to the concentration a few seconds ago. That temporal comparison requires a short-term memory.
+The behaviour is **run-and-tumble** motility. Counter-clockwise rotation of the flagellar bundle produces a smooth forward "run"; clockwise rotation makes the bundle fly apart and the cell "tumbles," reorienting at random. Suppressing tumbles when conditions are improving, and allowing them when conditions worsen, biases this random walk up an attractant gradient. The cell cannot measure a spatial gradient across its own tiny length; it must compare the concentration *now* to the concentration a few seconds ago. That temporal comparison requires a short-term memory.
+
+Two 1972 papers established this. Macnab and Koshland's temporal-gradient apparatus showed that "the apparent detection of a spatial gradient by the bacteria therefore involves an actual detection of a temporal gradient experienced as a result of movement through space," and Berg and Brown's three-dimensional tracking of individual swimming cells supplied the behavioural picture of the biased random walk. Howard Berg's *E. coli in Motion* is the canonical later synthesis of that 1972 work.
 
 Component by component, the loop runs as follows:
 
 1. **Sense.** Methyl-accepting chemotaxis proteins (MCPs)—membrane-bound chemoreceptors—bind attractants such as sugars and amino acids, and repellents.
 2. **Transduce and decide.** The receptor forms a signalling core with the linker CheW and the kinase CheA. Ligand binding modulates CheA autophosphorylation; CheA passes the phosphate to the response regulator CheY.
 3. **Act.** Phosphorylated CheY (CheY-P) binds the flagellar motor switch and biases rotation toward clockwise—tumbling. Falling CheY-P lets the default counter-clockwise run continue. The cell "decides" to keep going or to reorient by reading a single phosphorylated-protein concentration.
-4. **Adapt and remember.** The enzyme CheR continuously methylates the receptor, while CheB—activated by CheA—demethylates it. This methylation/demethylation feedback resets receptor sensitivity to the *current* baseline, producing near-perfect adaptation. The methylation state is a running record of recent concentration: the molecular substrate for exactly the temporal comparison Berg described and Daniel Koshland modelled in 1977 as a "rudimentary memory which allows the bacteria to sense gradients over time."
+4. **Adapt and remember.** The enzyme CheR continuously methylates the receptor, while CheB—activated by CheA—demethylates it. This methylation/demethylation feedback resets receptor sensitivity to the *current* baseline, producing near-perfect adaptation. The methylation state is a running record of recent concentration: the molecular substrate for exactly the temporal comparison the 1972 experiments demonstrated and Daniel Koshland modelled in 1977 as a "rudimentary memory which allows the bacteria to sense gradients over time."
 
 Koshland framed this as a *response-regulator* system operating relative to a threshold, and explicitly flagged its relevance to "more complex hormonal and neural signaling systems." The pathway is a fully specified biochemical control system. Every word in the cognitive vocabulary—"sense," "decide," "remember"—names a real dynamical feature of it, and none of them, on the deflationary reading, names anything felt.
 
@@ -100,10 +102,12 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 ## References
 
 1. Berg, H. C. (2004). *E. coli in Motion*. Springer.
-2. Koshland, D. E. Jr. (1977). "A response regulator model in a simple sensory system." *Science* 196(4294):1055–1063. doi:10.1126/science.870969
-3. Lyon, P. (2006). "The biogenic approach to cognition." *Cognitive Processing* 7(1):11–29. doi:10.1007/s10339-005-0016-8
-4. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
-5. Reber, A. S., & Baluška, F. (2020). "Cognition in some surprising places." *Biochemical and Biophysical Research Communications*. PubMed 32950231.
-6. Reber, A. S., Baluška, F., & Miller, W. B. (2023). *The Sentient Cell: The Cellular Foundations of Consciousness*. Oxford University Press.
-7. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4
-8. Southgate, A. & Oquatre-huit, C. (2026-07-08). Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
+2. Berg, H. C., & Brown, D. A. (1972). "Chemotaxis in *Escherichia coli* analysed by three-dimensional tracking." *Nature* 239(5374):500–504. PubMed 4563019.
+3. Koshland, D. E. Jr. (1977). "A response regulator model in a simple sensory system." *Science* 196(4294):1055–1063. doi:10.1126/science.870969
+4. Lyon, P. (2006). "The biogenic approach to cognition." *Cognitive Processing* 7(1):11–29. doi:10.1007/s10339-005-0016-8
+5. Lyon, P. (2015). "The cognitive cell: bacterial behavior reconsidered." *Frontiers in Microbiology* 6:264. doi:10.3389/fmicb.2015.00264
+6. Macnab, R. M., & Koshland, D. E. Jr. (1972). "The gradient-sensing mechanism in bacterial chemotaxis." *Proceedings of the National Academy of Sciences* 69(9):2509–2512. PMC426976.
+7. Reber, A. S., & Baluška, F. (2020). "Cognition in some surprising places." *Biochemical and Biophysical Research Communications*. PubMed 32950231.
+8. Reber, A. S., Baluška, F., & Miller, W. B. (2023). *The Sentient Cell: The Cellular Foundations of Consciousness*. Oxford University Press.
+9. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4
+10. Southgate, A. & Oquatre-huit, C. (2026-07-08). Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
