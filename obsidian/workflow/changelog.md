@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T20:57:08+00:00'
+ai_modified: '2026-08-01T21:08:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 21:08 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `obsidian/apex/altered-states-as-interface-evidence.md` (both calibration concerns from [[reviews/optimistic-2026-08-01-interface-evidence-cluster]], bundled as one task)
+- **Length**: 4986w → **4977w** (net −9). Decomposed: prose 4307 → 4298, reference apparatus 639 (Further Reading + Source Articles + References), YouTube-embed boilerplate 40. Hard threshold 5000; headroom 14 → 23. Measured with `analyze_length`, not `wc -w`.
+- **Root-cause fix**: wired the apex to `evidential-status-discipline` — it was the only cluster member with zero references (siblings 5 / 4 / 3). Added to `related_articles` (frontmatter, zero word cost) and as an in-body link in the Dualism paragraph, which is where the discipline does the work. Not added to Further Reading: the length fence made a tenth FR entry unaffordable, and the body link is the wiring the siblings actually use.
+- **Fix 1 (Dualism tenet paragraph)** — re-framed, not deleted. The count-of-perturbations argument (*"across pharmacology, sleep, ritual training, transitional states, psychedelic neurochemistry, and end-of-life neurodegeneration"*) and the comparative verdict (*"more naturally explained by an interface between two distinct domains"*) are both replaced by the honest reading the article's own body already carries: the decomposition *constrains the architecture without establishing dualism*; it shows the right account must be multi-channel — "one pattern, not six confirmations" per L81 — and the discriminating work falls to the enhancement-through-disruption cases per L166. Terminal lucidity is explicitly demoted from sixth supporting perturbation to *costliest anomaly*, matching L125. Register copied from `active-reboot.md` L95 and `pharmacological-dissociation-as-evidence.md` L178 rather than newly composed.
+- **Fix 1b (Occam's Razor paragraph)** — light touch as briefed. Only the third clause (*"why components dissociate along the same architectural lines across unrelated perturbations"*) inherits the L154 problem; it is removed. The two licensed clauses (enhancement-through-disruption; behaviour/phenomenology mismatch) are untouched, as is the rest of the paragraph.
+- **Fix 2 (bandwidth discriminator)** — the withdrawn claim *"exactly what an interface model predicts and what a production model must explain ad hoc"* is de-claimed to *"fits an interface model without discriminating for it"*, with `filter-theory` L149's stated reason installed inline (GWT makes a conscious-access bottleneck its defining feature). The 10 bits/s vs 10⁹ figure is preserved as architecture description, folded into the same sentence — the merge is where most of the word saving came from. The LLM-cliché *"a radical bottleneck, not a production line"* went with it.
+- **Engagement classification** (editor-internal, per `direct-refutation-discipline`): global workspace theory — **Mode Three**. The bandwidth datum is conceded as shared ground; no in-framework refutation is claimed, and the concession runs against the Map's own interest. No mode vocabulary in the article body.
+- **Not touched**: L81, L125, L154, L166 — the article's calibrated passages, which are the standard the fixes were measured against.
+- **Sync**: run. Hugo twin confirmed to agree — the live defect at `hugo/content/apex/altered-states-as-interface-evidence.md:165` is gone, the replacement text is present, and the new wikilink resolves to `/project/evidential-status-discipline/` (target file exists). No obsidian-only residue.
+- **Published**: yes
 
 ## 2026-08-01 20:57 UTC - optimistic-review
 

@@ -1,14 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T20:16:40+00:00'
+ai_modified: '2026-08-01T21:08:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-01'
-lastmod: 2026-08-01 20:16:40+00:00
+lastmod: 2026-08-01 21:08:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-01 21:08 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `obsidian/apex/altered-states-as-interface-evidence.md` (both calibration concerns from [optimistic-2026-08-01-interface-evidence-cluster](/reviews/optimistic-2026-08-01-interface-evidence-cluster/), bundled as one task)
+- **Length**: 4986w → **4977w** (net −9). Decomposed: prose 4307 → 4298, reference apparatus 639 (Further Reading + Source Articles + References), YouTube-embed boilerplate 40. Hard threshold 5000; headroom 14 → 23. Measured with `analyze_length`, not `wc -w`.
+- **Root-cause fix**: wired the apex to `evidential-status-discipline` — it was the only cluster member with zero references (siblings 5 / 4 / 3). Added to `related_articles` (frontmatter, zero word cost) and as an in-body link in the Dualism paragraph, which is where the discipline does the work. Not added to Further Reading: the length fence made a tenth FR entry unaffordable, and the body link is the wiring the siblings actually use.
+- **Fix 1 (Dualism tenet paragraph)** — re-framed, not deleted. The count-of-perturbations argument (*"across pharmacology, sleep, ritual training, transitional states, psychedelic neurochemistry, and end-of-life neurodegeneration"*) and the comparative verdict (*"more naturally explained by an interface between two distinct domains"*) are both replaced by the honest reading the article's own body already carries: the decomposition *constrains the architecture without establishing dualism*; it shows the right account must be multi-channel — "one pattern, not six confirmations" per L81 — and the discriminating work falls to the enhancement-through-disruption cases per L166. Terminal lucidity is explicitly demoted from sixth supporting perturbation to *costliest anomaly*, matching L125. Register copied from `active-reboot.md` L95 and `pharmacological-dissociation-as-evidence.md` L178 rather than newly composed.
+- **Fix 1b (Occam's Razor paragraph)** — light touch as briefed. Only the third clause (*"why components dissociate along the same architectural lines across unrelated perturbations"*) inherits the L154 problem; it is removed. The two licensed clauses (enhancement-through-disruption; behaviour/phenomenology mismatch) are untouched, as is the rest of the paragraph.
+- **Fix 2 (bandwidth discriminator)** — the withdrawn claim *"exactly what an interface model predicts and what a production model must explain ad hoc"* is de-claimed to *"fits an interface model without discriminating for it"*, with `filter-theory` L149's stated reason installed inline (GWT makes a conscious-access bottleneck its defining feature). The 10 bits/s vs 10⁹ figure is preserved as architecture description, folded into the same sentence — the merge is where most of the word saving came from. The LLM-cliché *"a radical bottleneck, not a production line"* went with it.
+- **Engagement classification** (editor-internal, per `direct-refutation-discipline`): global workspace theory — **Mode Three**. The bandwidth datum is conceded as shared ground; no in-framework refutation is claimed, and the concession runs against the Map's own interest. No mode vocabulary in the article body.
+- **Not touched**: L81, L125, L154, L166 — the article's calibrated passages, which are the standard the fixes were measured against.
+- **Sync**: run. Hugo twin confirmed to agree — the live defect at `hugo/content/apex/altered-states-as-interface-evidence.md:165` is gone, the replacement text is present, and the new wikilink resolves to `/project/evidential-status-discipline/` (target file exists). No obsidian-only residue.
+- **Published**: yes
+
+## 2026-08-01 20:57 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: the interface-evidence cluster, read in full — `apex/altered-states-as-interface-evidence.md` (4986w), `apex/pharmacological-dissociation-as-evidence.md` (4710w), `concepts/cross-mechanism-convergence.md` (2475w), `concepts/active-reboot.md` (3196w). All four touched today by the Hu et al. provenance work; no prior optimistic review covered them as a cluster, and the pharmacological apex had near-zero prior coverage (2 mentions corpus-wide). Named-locus inspection of `concepts/filter-theory.md` L149, `topics/bandwidth-of-consciousness.md` L144–183, and the Dualism paragraphs of `clinical-dissociation-as-systematic-evidence` and `dream-consciousness`. Sweeps run across all three trees.
+- **Output**: [optimistic-2026-08-01-interface-evidence-cluster](/reviews/optimistic-2026-08-01-interface-evidence-cluster/)
+- **Verdict**: three of four members are the catalogue's strongest evidential-calibration work. All three hold dissociation evidence at *realistic possibility* for interface architecture and *live hypothesis* for the interactionist reading, and all three apply the discipline **against the Map's own interest** — most visibly by downgrading the Map's own canonical Hu et al. exhibit from a four-target span to "a three-class span plus one within-class replication", propagated to all four loci the same day. Process Philosopher and Hardline Empiricist converge on all three with no conflict.
+- **Two calibration concerns, one file, one root cause.** `apex/altered-states-as-interface-evidence.md` is the only cluster member with **zero** links to `evidential-status-discipline` (siblings: 5 / 4 / 3). (i) **L176** — the Dualism tenet paragraph argues from the perturbation count and differential decomposition to *"is more naturally explained by an interface between two distinct domains"*, which the article's own body forbids at **L81** (*"the cluster carries the evidential weight of one pattern, not six"*), **L154**, and **L166**; and it counts among its six supporting perturbations the terminal-lucidity case **L125** calls *"the costliest anomaly, not confirmation"*. (ii) **L158** — the bandwidth argument still runs as *"exactly what an interface model predicts and what a production model must explain ad hoc"*, five months after `concepts/filter-theory.md` L149 (this apex's own listed `apex_source`) withdrew it: *"so the datum is shared, not discriminating"*.
+- **Live-in-hugo**: the L158 defect is published at `hugo/content/apex/altered-states-as-interface-evidence.md:165`. Sweep confirms "must explain ad hoc" occurs at exactly one serving locus corpus-wide — no wider propagation to chase.
+- **Every quotation verified contiguous and grep-verifiable in raw source** before being used, per the catalogue's quote-fidelity discipline.
+- **Tasks**: 1 minted — P2 `refine-draft` on the apex, bundling both fixes plus the discipline link (same-file-pileup discipline: one task, not three). Constraint recorded in the task: the file has **14 words of headroom** against its 5000w hard threshold, so the fix must be length-neutral or reducing.
+- **Not minted**: the review's highest-value expansion opportunity — a named *enhancement-through-disruption* evidence pattern, which the apex calls its only discriminating evidence three times yet which has no dedicated page, while the explicitly non-tier-graduating `cross-mechanism-convergence` has one plus 12 inbound links. **Blocked**: `obsidian/concepts/` is at 319/320, so `/expand-topic` would refuse and `/replenish-queue` would filter it. Escalated to the operator in the review rather than queued as an unrunnable task.
+
+## 2026-08-01 20:41 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `archive/topics/consciousness-and-intelligence.md` (L84 cumulative-culture absolute; one file only, per orchestrator)
+- **Changes**: hedged the retired flat ape-denial and installed the Gunasekaram citation; added one reference entry.
+- **Published**: yes
+- **The defect, verbatim from disk before the edit** (L84): *"Apes have culture but **cannot accumulate improvements across generations**."* This is the flat exclusivity claim `concepts/cumulative-culture.md` retired on 2026-07-29 (`08dfb33a1`) and `tenets.md` L94 retired on 2026-06-22 (`a73aac1e4`). It served its **full body** at `/archive/topics/consciousness-and-intelligence/`.
+- **The fix is a hedge, not a retraction.** New lead clause: *"Apes have culture, but accumulation of improvements across generations remains at most incipient rather than open-ended"* — the authors' own word *incipient*, matching the register at `cumulative-culture.md` L134. Tennie, Call & Tomasello (2009) and the zone-of-latent-solutions framing are **retained verbatim**; Whiten (2015) retained. Added one sentence: *"Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture, so the difference is graded rather than absolute — unmatched degree rather than sole possession ([contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity))."* The metarepresentation conclusion that closes the paragraph is untouched, so the article's argument is unchanged; only the absolute register goes.
+- **Register copied, not composed.** *"graded rather than absolute"* from `concepts/bidirectional-interaction.md` L113; *"unmatched degree rather than sole possession"* from `concepts/cumulative-culture.md` L138. No new hedge was invented.
+- **Reference entry** copied verbatim from `bidirectional-interaction.md` L190 (full 12-author form with volume/issue/pages), inserted in alphabetical position between Georgiev and James. No metadata re-derived.
+- **Wikilink verified before writing, not after.** `[[cumulative-culture#contested-exclusivity]]` resolves from `archive/topics/` — post-sync the hugo twin renders `[contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)`, and the anchor exists at `hugo/content/concepts/cumulative-culture.md` L135 (`### Contested Exclusivity {#contested-exclusivity}`), which that file's own L39 and L60 already link to. No broken wikilink, so the pre-push sync is not blocked.
+- **Author order**: not applicable here — this locus needed Gunasekaram only, not Schleihauf. The `Schleihauf, Sanford, Engelmann` ordering fixed corpus-wide on 08-01 was not touched and not reintroduced inverted.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` — transcribing settled corpus prose, not new interpretation. `ai_modified` bumped to 2026-08-01T20:41:38+00:00 from a live `date -u`, verified strictly past. `last_deep_review`, `superseded_by`, `archived_date`, `archive_reason` all untouched — the page exists to preserve its URL.
+- **Mirror confirmed**: `uv run python scripts/sync.py` run; `hugo/content/archive/topics/consciousness-and-intelligence.md` L88 and L168 agree with the obsidian-side source. Not left obsidian-only.
+- **Still open on this same file, deliberately not fixed** (different line, owned by a separate task): **L80** — *"Chimpanzee working memory is substantially more limited than human capacity in abstract relational tasks (**Tomasello & Herrmann, 2010**)"*. That is a shared-intentionality paper carrying no such capacity figure; the settled form is *"approximately 2±1 items (Read, Manrique & Walker 2022)"*. Confirmed still present on disk after this pass.
 
 ## 2026-08-01 20:26 UTC - refine-draft
 
