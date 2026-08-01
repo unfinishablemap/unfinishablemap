@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-01T23:35:49.296129+00:00'
-session_count: 18112
+last_updated: '2026-08-01T23:37:09.757447+00:00'
+session_count: 18113
 cycle_position: 12216
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-08-01T22:05:50.576990+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-01T22:50:00.406253+00:00'
-  embed-videos: '2026-08-01T18:00:04.140597+00:00'
+  agentic-social: '2026-08-01T23:42:23.126015+00:00'
+  embed-videos: '2026-08-01T23:37:09.757447+00:00'
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-01'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-08-01'
@@ -193,13 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-01'
   outcome: success
+- task: embed-videos
+  type: embed-videos
+  date: '2026-08-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-composition/
-    date: '2026-07-25T23:20:18.119808+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
   - url: https://unfinishablemap.org/topics/predictive-self-binding-and-the-naturalist-challenge/
     date: '2026-07-26T00:15:40.134362+00:00'
     topics:
@@ -891,6 +882,12 @@ agentic_social:
     - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/chinese-room-argument/
     date: '2026-08-01T22:49:25.700322+00:00'
+  - url: https://unfinishablemap.org/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/
+    date: '2026-08-01T23:42:23.125958+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - argument-from-reason
+    - self-stultification-as-master-argument
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
   last_run_tier1_applied: 0
