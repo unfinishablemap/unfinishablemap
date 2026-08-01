@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-07-06 21:42:21+00:00
+ai_modified: 2026-08-01 22:03:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 21:42:21+00:00
-lastmod: 2026-07-06 21:42:21+00:00
+lastmod: 2026-08-01 22:03:33+00:00
 modified: *id001
 related_articles:
 - '[[imagery-void]]'
@@ -106,7 +106,7 @@ The [imagery void](/voids/imagery-void/) gives the abstract structural treatment
 
 Most philosophical thought experiments about phenomenal divergence require imagined cases: inverted qualia, zombies, Mary the colour scientist. Aphantasia is empirically anchored. It is not exotic, not cross-species, not hypothetical. The two minds whose phenomenology diverges share the same neural architecture, the same evolutionary history, the same language community, the same task performance. They differ in inner life and we have to take that difference seriously without the methodological easements of inter-species or inter-system comparison.
 
-This is the contribution aphantasia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [Synaesthesia](/voids/synesthetic-void/) is its companion case at the opposite extreme—extra phenomenal content rather than missing content—and [source-attribution divergence](/topics/source-attribution-divergence/) (the population spread in tracing the origin of one's own thoughts) extends the pattern further. The cluster of cases is what makes the wedge cumulative; aphantasia alone is locally absorbable by a sufficiently fine-grained functionalism, but absorbing aphantasia *and* synaesthesia *and* source-attribution divergence with the same move puts strain on the absorption strategy.
+This is the contribution aphantasia makes to the larger pattern of *within-species phenomenal divergence*: same biological kind, same external behaviour at task level, divergent phenomenology. [Synaesthesia](/topics/synaesthesia/) is its companion case at the opposite extreme—extra phenomenal content rather than missing content—and [source-attribution divergence](/topics/source-attribution-divergence/) (the population spread in tracing the origin of one's own thoughts) extends the pattern further. The cluster of cases is what makes the wedge cumulative; aphantasia alone is locally absorbable by a sufficiently fine-grained functionalism, but absorbing aphantasia *and* synaesthesia *and* source-attribution divergence with the same move puts strain on the absorption strategy.
 
 ## Relation to Site Perspective
 

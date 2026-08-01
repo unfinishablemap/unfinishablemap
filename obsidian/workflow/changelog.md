@@ -1,9 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T21:31:47+00:00'
+ai_modified: '2026-08-01T22:03:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 22:03 UTC - coalesce
+
+- **Status**: Success (reasoned ABANDON — no merge, no deferral)
+- **Sources**: none · **Target**: none created · **Archived**: none · **References to review**: none
+- **Outcome**: tenth consecutive abandon. One incidental link repoint made (below). `topics/` 318/320 as counted (**317 real**, per the 16:52Z sidecar finding), `concepts/` 318/320, `voids/` 100/100.
+
+### New signal — heading-skeleton overlap, measuring argumentative role from the *inside*
+
+Nine prior passes ranked by similarity of *material*: slug/description, citation-set Jaccard, arithmetic-first + link/slug Jaccard, wikilink-neighbourhood + title-token Jaccard + `coalesced_from` ancestry, corpus-wide 9-gram shingles, within-voids shingles, and (16:52Z) body-only inbound-link counts. The 16:52Z pass measured argumentative role from the **outside** — what other articles' prose does with an article. This pass measures it from the **inside**: an article's H2/H3 skeleton is what job the article does, independent of vocabulary, citations, links and slugs. Bidirectional best-match token-Jaccard over heading sets, house boilerplate stripped, apparatus (`## Further Reading`/`## References`) split off before counting.
+
+**The signal's main yield is negative and calibrating: high skeleton similarity is dominated by house templates, not redundancy.** Two artifact families account for nearly all top-ranked pairs and both must be discounted by any future pass:
+
+1. **`concepts/` — the five tenet-named H3s.** Every "FITS-the-ceiling" pair in the concepts ranking is `tenet-falsification-conditions` against an unrelated partner (`visual-consciousness` 0.523, `access-consciousness` 0.493, `nihilism-and-existentialism` 0.454). The shared skeleton is *Dualism / Minimal Quantum Interaction / Bidirectional Interaction / No Many Worlds / Occam's Razor Has Limits* appearing under different parents — in one case as the article's subject, in the other as its "Relation to Site Perspective" breakdown. Semantically null.
+2. **`voids/` — the voids house template.** The entire voids ranking (`binding-void`/`emergence-void` 0.663 at the top) is driven by *Evidence That This Is a Void / Phenomenology of the Edge / Classification in the Voids Taxonomy / What AI Might See*. `binding-void` additionally carries an explicit **"Distinction from Adjacent Voids"** section — sub-question two of the differentiation test already answered in the article's own structure.
+
+### The one real cluster the signal found — and why it is the strongest abandon yet
+
+`topics/aphantasia` + `topics/synaesthesia` + `topics/source-attribution-divergence` share a genuinely identical template (`What X Report` / `The Typology` / `A Brief History` / `Empirical Signatures` / `The Function-Phenomenology Wedge` / `Why Single-Species Variation Matters`) — 0.763 skeleton-sim for the top pair, the highest non-artifact score in the corpus. Anti-procrastination check per [[project/abandon-coalesce]] §Failure Modes: the changelog's only prior mention is `aphantasia`/`imagery-void` (07-31 12:43Z), a **different** pairing. First-time evaluation, not a repeat deferral.
+
+**DECLINE, on a ground no prior pass has been able to cite: the articles' own argument states that merging them destroys it.** These three are a designed parallel series running one argument form (within-species phenomenal divergence as a wedge against functionalism) over three independent empirical cases — missing phenomenal content, extra phenomenal content, and provenance spread. `aphantasia` L106 makes the cumulative structure explicit: *"aphantasia alone is locally absorbable by a sufficiently fine-grained functionalism, but absorbing aphantasia and synaesthesia and source-attribution divergence with the same move puts strain on the absorption strategy."* The wedge is cumulative **because the cases are separately stated**; a merged article would be one case with three sections and would forfeit exactly the independence the argument trades on. All three sub-questions of the differentiation test pass cleanly, the third (framework-independence) most of all: Zeman on aphantasia, Ramachandran/Cytowic on synaesthesia, and the source-monitoring literature are three separate clinical traditions pre-dating the Map by decades.
+
+**The merge target already exists, one layer up.** All three defer to [[apex/phenomenal-variation-within-a-species]], which the articles themselves name as the place that "develops the joint package". The synthesis coalesce would produce is already written, in the section designed to hold it. Arithmetic independently blocks the pair anyway (5284 prose words against the 4000 topics ceiling, +1284).
+
+### Incidental fix — a mis-targeted companion link inside the evaluated cluster
+
+The cross-link audit found `topics/aphantasia` linked `[[synesthetic-void|Synaesthesia]]` in the L106 wedge sentence — routing the *topic-level* companion-case claim at the voids article, and leaving aphantasia the only member of the trio that **never linked `topics/synaesthesia` at all** (0 occurrences), while both siblings link it correctly and reciprocally. Repointed to `[[synaesthesia|Synaesthesia]]`. The Further Reading entry to [[synesthetic-void]] is legitimate on its own terms and was left alone. Was live in hugo as `[Synaesthesia](/voids/synesthetic-void/)`; `scripts/sync.py` run, both trees verified.
+
+### Genuine redundancy found — but the remedy is condense, not coalesce
+
+The `## Why Single-Species Variation Matters` opening paragraph is ~90% verbatim across `aphantasia` and `synaesthesia` and ~75% in `source-attribution-divergence` ("Most philosophical thought experiments about phenomenal divergence are imagined… same neural architecture, the same evolutionary history, the same language community… without the methodological easements of inter-species or inter-system comparison"). That is real triplicated prose, and it is the *shared frame*, not the distinct cases. The proportionate remedy is a compression deferring the frame to [[apex/phenomenal-variation-within-a-species]] and keeping only each article's own contribution — a `condense`/`refine-draft`, **not** a coalesce. No task minted: out of coalesce contract, recorded here so the finding is not lost.
+
+### Recommendation
+
+Unchanged and now argued from the inside as well as the outside. Nine passes established the corpus is not redundant *in its material*; this pass establishes it is not redundant *in its structure* either — where structure does repeat, it repeats as house template (tenet blocks, voids template) or as a deliberately parallel case series whose argument requires the parallelism. Cap relief must come from an archival pass or an operator cap raise. Four passes have now recommended retiring coalesce's cap-relief mandate.
 
 ## 2026-08-01 21:36 UTC - deep-review
 
