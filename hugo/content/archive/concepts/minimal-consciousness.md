@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-01 19:10:22+00:00
+ai_modified: 2026-08-01 20:26:39+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Consciousness in Simple Organisms
 archived: true
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-22 06:00:00+00:00
-lastmod: 2026-08-01 19:10:22+00:00
+lastmod: 2026-08-01 20:26:39+00:00
 modified: *id001
 original_path: /concepts/minimal-consciousness/
 related_articles:
@@ -119,7 +119,7 @@ If this baseline hypothesis is correct, key findings illuminate what consciousne
 
 **Working memory**: Chimpanzee working memory is estimated at approximately 2±1 items (Read, Manrique & Walker 2022); human capacity is 4±1 (Cowan 2001, revising Miller's 7±2). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [the capacity gap](/concepts/working-memory/#the-capacity-gap). If working memory depends on conscious access (as Global Workspace Theory suggests), even this conservative gap may reflect expanded consciousness, not merely more neurons.
 
-**Logical reasoning**: Empirical research (Lieberman et al. 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing. Cognitive load disrupting consciousness impairs reasoning; disrupting unconscious processes does not. Great apes learn associations readily and, as the revised picture above records, revise beliefs in proportion to evidence; what remains distinctively human is open-ended, institutionally scaffolded rule-following rather than any capacity for inference as such. The difference is one of degree rather than kind, and it still tracks the capacities that appear to require conscious access—the pattern expected if consciousness enables rule-following.
+**Logical reasoning**: Empirical research (DeWall, Baumeister & Masicampo 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing. Cognitive load disrupting consciousness impairs reasoning; disrupting unconscious processes does not. Great apes learn associations readily and, as the revised picture above records, revise beliefs in proportion to evidence; what remains distinctively human is open-ended, institutionally scaffolded rule-following rather than any capacity for inference as such. The difference is one of degree rather than kind, and it still tracks the capacities that appear to require conscious access—the pattern expected if consciousness enables rule-following.
 
 **Metarepresentation**: Great apes have culture but may not *know* they have culture. The "Jourdain Hypothesis" (Whiten 2015)—named after Molière's character who discovers he's been speaking prose all his life—proposes that apes lack metarepresentations: knowing that they know, representing knowledge as knowledge. [Cumulative culture](/concepts/cumulative-culture/) requires this capacity: modifying and transmitting practices *as* practices. Metarepresentation may depend on phenomenal consciousness, not merely functional states.
 
@@ -284,7 +284,7 @@ The Map's perspective on minimal consciousness would be undermined if:
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 - Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
 - Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
-- Lieberman, M. D., et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
+- DeWall, C. N., Baumeister, R. F., & Masicampo, E. J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 - Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 - Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229
 - McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.

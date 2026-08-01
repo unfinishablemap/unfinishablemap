@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-01 20:26:39+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-04-05
-date: '2026-06-24'
+date: '2026-08-01'
 draft: false
-lastmod: 2026-06-24 00:00:00+00:00
+lastmod: 2026-08-01 20:26:39+00:00
 related_articles: []
 title: Research Notes - Falsification Conditions and Testable Predictions for the
   Five Tenets
@@ -172,7 +173,7 @@ Each of the Map's five tenets occupies a different position on the falsifiabilit
 - **Moderate**: Comprehensive Libet-style experiments showing that conscious awareness *never* precedes neural commitment in any decision type
 
 **Specific predictions**:
-1. Cognitive tasks requiring conscious processing (logical reasoning, counterfactual thinking) should be specifically impaired by conscious-process interference — confirmed by Lieberman et al. (2008)
+1. Cognitive tasks requiring conscious processing (logical reasoning, counterfactual thinking) should be specifically impaired by conscious-process interference — confirmed by DeWall, Baumeister & Masicampo (2008)
 2. There should exist cognitive capacities in humans that have no unconscious analogue and no parallel in non-conscious animals — baseline cognition hypothesis provides evidence
 3. If consciousness biases quantum outcomes, extremely precise measurements of neural quantum states might reveal non-random patterns inconsistent with standard quantum predictions — beyond current experimental precision
 
@@ -254,7 +255,7 @@ Each of the Map's five tenets occupies a different position on the falsifiabilit
 | 1998 | Orch OR 20 testable predictions published | Establishes concrete falsification criteria |
 | 2000 | Tegmark calculates decoherence times (10^-13 s) | Major challenge to quantum consciousness |
 | 2002 | Hagan et al. revise Tegmark's estimate (10^-5 s) | Seven orders of magnitude correction |
-| 2008 | Lieberman et al. on cognitive load and reasoning | Empirical support for consciousness having functional role |
+| 2008 | DeWall, Baumeister & Masicampo on cognitive load and reasoning | Empirical support for consciousness having functional role |
 | 2014 | Hameroff & Penrose review: 6 of 20 predictions confirmed | Progress report on falsification program |
 | 2021 | Gran Sasso experiment rules out Diosi-Penrose model | Constrains but does not eliminate objective collapse |
 | 2022 | Reanalysis: Orch OR "highly implausible" under simplest collapse model | Pressure on specific mechanism, not on tenet |
@@ -288,11 +289,11 @@ When writing any article, follow `obsidian/project/writing-style.md` for:
 
 ## Citations
 
+- DeWall, C. N., Baumeister, R. F., & Masicampo, E. J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645. https://doi.org/10.1016/j.concog.2007.12.004
 - Donadi, S., et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics*, 17, 74-78. https://www.nature.com/articles/s41567-020-1008-4
 - Hameroff, S. (2020). "'Orch OR' is the most complete, and most easily falsifiable theory of consciousness." *Cognitive Neuroscience*, 12(2), 74-76. https://www.tandfonline.com/doi/full/10.1080/17588928.2020.1839037
 - Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78. https://pubmed.ncbi.nlm.nih.gov/24070914/
 - Kleiner, J. (2021). "Falsification and consciousness." *Neuroscience of Consciousness*, 2021(1). https://pmc.ncbi.nlm.nih.gov/articles/PMC8052953/
-- Lieberman, M.D., et al. (2008). Cognitive load and conscious processing effects on logical reasoning. (Referenced in tenets.md)
 - Masi, M. "The Dangers of Occam's Razor." *PhilArchive*. https://philarchive.org/archive/MASTOW-2v6
 - Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*. https://www.nature.com/articles/s41586-025-08888-1
 - Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707. https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/
