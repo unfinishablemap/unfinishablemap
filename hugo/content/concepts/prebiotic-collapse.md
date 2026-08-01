@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-30 15:10:22+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-01 15:00:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/collapse-before-minds/
@@ -47,19 +47,15 @@ This approach preserves prebiotic cosmology while maintaining the [Bidirectional
 
 The prebiotic collapse problem addresses the *cosmological* timeline: what collapsed wavefunctions during the 13.8 billion years before any minds existed? But there's a related question about the *phylogenetic* timeline: when did consciousness emerge in the history of life on Earth?
 
-These are distinct problems:
-
 - **Prebiotic collapse** concerns the period before any life existed—star formation, chemical evolution, early Earth geology. No plausible account places consciousness this early (panpsychism aside), so the question is what *other than consciousness* caused collapse.
 
-- **[Phylogenetic emergence](/concepts/evolution-of-consciousness/)** concerns which organisms in the tree of life are conscious. Did consciousness appear gradually as nervous systems developed? At a threshold? Was it present from the first cells? This question operates within an already-collapsing physics—objective reduction handles the cosmological timeline—and asks where consciousness began to *interface* with that collapse.
-
-The Map's framework separates these cleanly: objective reduction handles the cosmological timeline regardless of when biological consciousness emerged, so phylogenetic emergence reduces to when organisms developed neural architectures suitable for consciousness-collapse interfacing—not when collapse itself began.
+- **[Phylogenetic emergence](/concepts/evolution-of-consciousness/)** concerns which organisms in the tree of life are conscious. Did it appear gradually as nervous systems developed, at a threshold, or from the first cells? This question operates within an already-collapsing physics—objective reduction handles the cosmological timeline regardless of when biological consciousness emerged—and asks when organisms developed neural architectures able to *interface* with collapse, not when collapse itself began.
 
 ## The Problem Stated
 
 Wigner famously proposed that consciousness causes wavefunction collapse—the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/) holds that measurement isn't complete until a mind observes the result. But Penrose identified the devastating implication: mutations are quantum events, so "they would exist only in linearly superposed form until they finally led to the evolution of a conscious being—whose very existence depends on all the right mutations having 'actually' taken place!"
 
-The circularity is obvious. If consciousness is required for collapse, and collapse is required for the molecular events that produced consciousness, we have a bootstrapping problem. Either:
+The circularity is obvious: if consciousness is required for collapse, and collapse is required for the molecular events that produced consciousness, the account bootstraps. Either:
 - The universe remained in superposition for 13.8 billion years until humans looked
 - Consciousness existed before biological evolution (panpsychism)
 - Something other than consciousness causes collapse generally
@@ -73,25 +69,25 @@ Wigner himself abandoned his view in the 1970s-80s, citing this cosmological pro
 
 John Archibald Wheeler proposed the most radical solution: the universe *did* remain indeterminate until observers evolved, and those observers retroactively collapsed the entire cosmic history. His "participatory anthropic principle" describes a "self-excited circuit" where "beginning with the big bang, the universe expands and cools. After eons of dynamic development, it gives rise to observership. Acts of observer-participancy—via the mechanism of the delayed-choice experiment—in turn give tangible 'reality' to the universe not only now but back to the beginning."
 
-Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with acts of registration selecting which history becomes actual—not moment by moment, but across the entire temporal span. Reading those acts as *conscious* observation is the Map's move, not his.
+Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with acts of registration selecting which history becomes actual—not moment by moment, but across the entire temporal span.
 
-This resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further, and it parts company with Wheeler over what does the selecting. He ruled out the mental reading directly: "'Consciousness' has nothing whatsoever to do with the quantum process. We are dealing with an event that makes itself known by an irreversible act of amplification … an act of registration" (Wheeler 1983). His remark that in the participatory universe "ordinary matter and radiation play the dominant roles" belongs to that denial rather than to any later retreat from a consciousness-collapse view he never held: conscious observers are for Wheeler neither the only nor the primary route by which quantum potentials become definite. See [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment, including how Dembski's informational realism avoids the circularity of Wheeler's self-excited circuit. The participatory universe remains philosophically coherent but highly speculative.
+It resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further, and parts company with Wheeler over what does the selecting. He ruled out the mental reading directly: "'Consciousness' has nothing whatsoever to do with the quantum process. We are dealing with an event that makes itself known by an irreversible act of amplification … an act of registration" (Wheeler 1983). His remark that in the participatory universe "ordinary matter and radiation play the dominant roles" belongs to that denial rather than to any later retreat from a consciousness-collapse view he never held. Reading his acts of registration as *conscious* observation is the Map's move. See [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment, including how Dembski's informational realism avoids the self-excited circuit's circularity. The participatory universe remains philosophically coherent but highly speculative.
 
 ### 2. Panpsychism and Proto-Experience
 
-If consciousness or proto-consciousness extends to the fundamental level, the prebiotic problem dissolves. There was never a pre-experiential universe—minimal experiential properties were present throughout cosmic history, sufficient for collapse selection.
+If consciousness or proto-consciousness extends to the fundamental level, the prebiotic problem dissolves: there was never a pre-experiential universe, and minimal experiential properties present throughout cosmic history sufficed for collapse selection.
 
 Integrated Information Theory (IIT) takes this approach: even simple systems have tiny amounts of integrated information (Φ), and "quantum collapses can be expected to have happened fairly early on" because atoms have minimal Φ. David Chalmers distinguishes panpsychism (fundamental entities are conscious) from panprotopsychism (fundamental entities have proto-conscious properties that ground consciousness), but both accommodate prebiotic collapse.
 
-The cost is the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into the unified conscious experience we actually have? Panpsychism trades one puzzle (prebiotic collapse) for another (subject combination).
+The cost is the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into the unified conscious experience we actually have? Panpsychism trades one puzzle for another.
 
-The dissolution is also conditional in a way easily glossed. Panpsychism is an ontology of ubiquitous experience; it does not *by itself* entail that consciousness collapses wave functions. Removing the prebiotic problem this way requires an independent consciousness-collapse thesis bolted onto the panpsychist ontology—ubiquitous experiential participants who also do collapse-selecting work—and many panpsychists reject consciousness-caused collapse outright, treating experience as causally inert with respect to the measurement process. So panpsychism relieves the prebiotic bootstrapping only for the panpsychist who separately adopts a collapse role for experience; the bare ontology does not deliver it. See [panpsychism](/concepts/panpsychism/) for what the view does and does not commit one to.
+The dissolution is also conditional in a way easily glossed. Panpsychism is an ontology of ubiquitous experience; it does not *by itself* entail that consciousness collapses wave functions. Removing the prebiotic problem this way requires an independent consciousness-collapse thesis bolted onto the panpsychist ontology, and many panpsychists reject consciousness-caused collapse outright, treating experience as causally inert with respect to the measurement process. The bare ontology does not deliver the relief. See [panpsychism](/concepts/panpsychism/) for what the view does and does not commit one to.
 
 ### 3. Objective Reduction: Collapse Precedes Consciousness
 
 Penrose and Hameroff propose inverting the relationship: collapse doesn't require consciousness—consciousness requires collapse. Quantum superpositions are objectively unstable. When mass is superposed in significantly different configurations, gravitational self-energy creates a threshold beyond which the geometry must resolve. This Penrose-Diosi objective reduction happens whether or not anyone observes.
 
-GRW (Ghirardi-Rimini-Weber) theories propose spontaneous localization—random collapses at a rate of approximately 10⁻¹⁶ per second per particle. CSL (Continuous Spontaneous Localization) adds continuous noise that becomes significant for larger systems. These are objective collapse theories—no observers required. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment, and [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the current experimental frontier testing these predictions.
+GRW (Ghirardi-Rimini-Weber) theories propose spontaneous localization—random collapses at a rate of approximately 10⁻¹⁶ per second per particle. CSL (Continuous Spontaneous Localization) adds continuous noise that becomes significant for larger systems. No observers are required. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment, and [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the current experimental frontier.
 
 Under this view, consciousness doesn't *trigger* collapse; it *emerges from* or *interfaces with* collapse processes. This concerns collapse *occurrence*—what makes a superposed geometry resolve at all—and stays distinct from the question of which *outcome* the resolution settles into, a distinction the [completeness tension](#the-completeness-tension) section below turns on. Hameroff suggests "primitive protoconscious feelings may have occurred via Penrose OR in pi electron resonance clouds of micelle-like structures in the prebiotic primordial soup." Collapse came first; consciousness arose in systems where collapse dynamics reached sufficient complexity.
 
@@ -101,43 +97,45 @@ The mainstream physics response denies that collapse is a real process requiring
 
 But decoherence alone doesn't solve the [measurement problem](/concepts/measurement-problem/). As a 2025 comprehensive review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence paired with Many Worlds claims no selection happens—all outcomes occur. But the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this, leaving the question of what selects outcomes unanswered. The [structural parallel between the measurement problem and the hard problem](/topics/quantum-measurement-and-consciousness/) suggests both problems share the same underlying difficulty: where first-person facts enter third-person descriptions.
 
+The rival's strongest form needs no environment at all. Danielson, Satishchandran and Wald show that any Killing horizon—a black hole's, an accelerated lab's Rindler horizon, de Sitter's cosmological horizon—harvests which-path information as a flux of soft gravitons and photons, decohering a stationary superposition in finite time on unmodified quantum field theory in curved spacetime, with no collapse postulate. Its cosmological bite is slight: the authors put the de Sitter decoherence time "much larger than the Hubble time" for any ordinary charge. And it delivers a mixed density matrix, not a definite outcome—the mixedness obtained by tracing over degrees of freedom behind a causal horizon, so the global state stays pure and every branch survives. That residue is Everettian in structure—what the fourth tenet rejects—so the reply just given covers horizon decoherence unaltered.
+
 ### 5. The Many-Worlds Dissolution
 
 The [Many-Worlds Interpretation](/concepts/many-worlds/) claims to dissolve the prebiotic problem entirely: there was no collapse before minds because there is never any collapse. All outcomes occur in branching universes; conscious observers simply find themselves in one branch among infinitely many.
 
-This relocates the problem rather than solving it. MWI trades the prebiotic collapse question for the [indexical identity question](/concepts/haecceity/): why am I *this* observer in *this* branch? If all branches are equally real, "which outcome" merely relocates to "which me"—the explanatory burden shifting from physics to metaphysics without genuine progress.
+This relocates the problem. MWI trades the prebiotic collapse question for the [indexical identity question](/concepts/haecceity/): why am I *this* observer in *this* branch? If all branches are equally real, "which outcome" merely relocates to "which me"—the explanatory burden shifting from physics to metaphysics without genuine progress.
 
-Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [mental causation](/concepts/mental-causation-and-downward-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
+Moreover, MWI eliminates the causal role for consciousness entirely: outcomes occur regardless of observers, and the appearance of selection is illusion. The Map holds instead that [mental causation](/concepts/mental-causation-and-downward-causation/) is real, so rather than solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
 
 ## Cosmological Evidence for Early-Universe Collapse
 
-The first 380,000 years after the Big Bang left an observable record: the cosmic microwave background (CMB). Its pattern of temperature fluctuations—quantum fluctuations stretched to cosmic scales during inflation—shows definite structure. If these fluctuations had remained in superposition until conscious observation 13.8 billion years later, the CMB would be philosophically problematic: our present observations would be creating the early-universe conditions that produced us.
+The first 380,000 years after the Big Bang left an observable record: the cosmic microwave background (CMB). Its pattern of temperature fluctuations—quantum fluctuations stretched to cosmic scales during inflation—shows definite structure. Had these fluctuations remained in superposition until conscious observation 13.8 billion years later, our present observations would be creating the early-universe conditions that produced us.
 
 Wheeler's framework could accommodate this—retrocausal selection of cosmic history. But the more conservative interpretation: these quantum fluctuations collapsed through objective processes, not through observation. The CMB's definiteness is evidence that collapse occurred long before minds.
 
-Similarly, stellar nucleosynthesis—the quantum processes that forged carbon, oxygen, and heavier elements in stellar cores—required definite outcomes. The tunnelling rates in stellar fusion are measured and reproducible; something settled them, and it wasn't human consciousness.
+Similarly, the quantum processes that forged carbon, oxygen, and heavier elements in stellar cores required definite outcomes. The tunnelling rates in stellar fusion are measured and reproducible; something settled them, and it wasn't human consciousness.
 
 ## The Map's Position: Objective Reduction with Consciousness Modulation
 
 The Map separates two claims that often get conflated:
 
-1. **Collapse is real.** Quantum measurement produces definite outcomes; the universe has a single actual history, not an eternal superposition of all possibilities. (This is the No Many Worlds commitment.)
+1. **Collapse is real.** Quantum measurement produces definite outcomes; the universe has a single actual history. (This is the No Many Worlds commitment.)
 
-2. **Consciousness interfaces with collapse.** In developed neural systems, consciousness participates in determining which outcomes become actual. This is the mechanism for [mental causation](/concepts/mental-causation-and-downward-causation/), operating at quantum indeterminacies without violating energy conservation. Precisely *how* this selection coexists with a collapse law already complete enough to fix prebiotic outcomes is the [completeness tension](#the-completeness-tension) examined below—an open question the Map holds rather than a settled result.
+2. **Consciousness interfaces with collapse.** In developed neural systems, consciousness participates in determining which outcomes become actual. This is the mechanism for [mental causation](/concepts/mental-causation-and-downward-causation/), operating at quantum indeterminacies without violating energy conservation. Precisely *how* this selection coexists with a collapse law already complete enough to fix prebiotic outcomes is the [completeness tension](#the-completeness-tension) examined below.
 
-But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction (Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism) provides the baseline. Collapse happens throughout the universe, before and beyond minds, through physical processes.
+But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction—Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism—provides the baseline: collapse happens throughout the universe, before and beyond minds, through physical processes.
 
-What consciousness adds is *modulation*. Where collapse interfaces with neural processing—particularly where the [selection of neural patterns](/concepts/consciousness-selecting-neural-patterns/) matters for behavior—consciousness biases which outcomes become actual, an application of [adaptive computational depth](/concepts/adaptive-computational-depth/) to collapse: baseline resolution everywhere, deeper determination where minds engage. The quantum Zeno effect (via [attention](/concepts/attention-as-interface/)) lets consciousness prolong certain superpositions, selecting among possibilities *within* an already-collapsing physics, not as the sole source of collapse.
+What consciousness adds is *modulation*. Where collapse interfaces with neural processing—particularly where the [selection of neural patterns](/concepts/consciousness-selecting-neural-patterns/) matters for behavior—consciousness biases which outcomes become actual, an application of [adaptive computational depth](/concepts/adaptive-computational-depth/) to collapse: baseline resolution everywhere, deeper determination where minds engage. The quantum Zeno effect (via [attention](/concepts/attention-as-interface/)) lets consciousness prolong certain superpositions, selecting *within* an already-collapsing physics rather than sourcing the collapse.
 
 ### The Completeness Tension
 
-This picture owes an honest debt, and inheriting that debt is what keeps the modulation claim calibrated rather than overstated. If objective reduction is *outcome-complete*—if collapse noise fixes definite stellar, chemical, and mutational outcomes with Born statistics and no observers required—then the same physical process is outcome-complete inside the brain too. Consciousness's "modulation" then faces a dilemma. Either it shifts which outcome the noise would otherwise have fixed, in which case it perturbs the Born statistics and becomes detectable—breaching [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and contradicting the very completeness that let objective reduction handle the prebiotic timeline—or it leaves the distribution untouched, in which case the noise already selected and the modulation does no work.
+This picture owes an honest debt, and inheriting it is what keeps the modulation claim calibrated. If objective reduction is *outcome-complete*—if collapse noise fixes definite stellar, chemical, and mutational outcomes with Born statistics and no observers required—then the same physical process is outcome-complete inside the brain too. Modulation then faces a dilemma. Either it shifts which outcome the noise would otherwise have fixed, perturbing the Born statistics and becoming detectable—breaching [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and contradicting the very completeness that let objective reduction handle the prebiotic timeline—or it leaves the distribution untouched, in which case the noise already selected and the modulation does no work.
 
-The Map does not paper over this. It is the same **bias-without-deviation dilemma** the apex [post-decoherence selection programme](/apex/post-decoherence-selection-programme/#the-bias-without-deviation-dilemma-open) names its sharpest conceptual liability, and that [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) tracks as the strongest live challenge to the interface—held open, not resolved.
+The Map does not paper over this. It is the **bias-without-deviation dilemma** the apex [post-decoherence selection programme](/apex/post-decoherence-selection-programme/#the-bias-without-deviation-dilemma-open) names its sharpest conceptual liability, and that [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) tracks as the strongest live challenge to the interface—held open, not resolved.
 
-The reconciliation that keeps the prebiotic account coherent distinguishes two jobs objective reduction is doing. It supplies collapse *occurrence, timing, and basis*—when and where a superposition resolves, and into which menu of pointer states—everywhere in the universe, before and beyond minds. Where no interface is present, the physical collapse dynamics also fix *which* pointer state actualises, reproducing Born statistics by stochastic noise; this is what covers the cosmological timeline, and "no observers required" applies at full strength here. Where an interface-grade neural system *is* present, consciousness authors that final token selection instead—not by overriding the statistics but by preempting the physical selection within the same Born corridor (the [corridor reading](/concepts/ensemble-level-epiphenomenalism/), drawing on [delegatory-causation](/concepts/delegatory-causation/)). On this reading there is genuinely something for consciousness to select: occurrence-completeness is universal, but token-selection is physically settled by noise *only* where no mind interfaces, leaving room for authored selection where one does.
+The reconciliation distinguishes two jobs objective reduction is doing. It supplies collapse *occurrence, timing, and basis*—when and where a superposition resolves, and into which menu of pointer states—everywhere in the universe, before and beyond minds. Where no interface is present, the physical collapse dynamics also fix *which* pointer state actualises, reproducing Born statistics by stochastic noise; this is what covers the cosmological timeline, and "no observers required" applies at full strength here. Where an interface-grade neural system *is* present, consciousness authors that final token selection instead—not by overriding the statistics but by preempting the physical selection within the same Born corridor (the [corridor reading](/concepts/ensemble-level-epiphenomenalism/), drawing on [delegatory-causation](/concepts/delegatory-causation/)). So there is genuinely something for consciousness to select.
 
-The cost is stated plainly. A selection constrained to leave no ensemble signature is, on the data alone, indistinguishable from the chance it displaces, so whether it is genuine causal work or invisible authorship remains the Map's sharpest open question. The prebiotic resolution buys cosmological coverage honestly rather than escaping this token-versus-ensemble question.
+The cost stands. A selection constrained to leave no ensemble signature is, on the data alone, indistinguishable from the chance it displaces, so whether it is genuine causal work or invisible authorship remains the Map's sharpest open question—one the prebiotic resolution leaves standing rather than escapes.
 
 ### The Decoherence Challenge
 
@@ -147,63 +145,55 @@ Three responses:
 
 1. **Revised timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer.
 
-2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence *between* observations. Rapid mental "observations" maintain states through repeated measurement, not through coherence surviving between measurements. The mechanism operates faster than decoherence can act.
+2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence *between* observations. Rapid mental "observations" maintain states through repeated measurement, operating faster than decoherence can act.
 
-3. **Quantum biology precedents**: Avian magnetoreception maintains spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise. If birds can do it for navigation, neural systems might do it for consciousness.
+3. **Quantum biology precedents**: Avian magnetoreception maintains spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise, and a precedent for what neural systems might do.
 
 The decoherence challenge constrains but doesn't eliminate the modulation hypothesis.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The objective-reduction-plus-modulation view maintains dualism. Consciousness remains irreducible to physics—it's not produced by collapse but interfaces with collapse in a way physical processes alone cannot explain. The hard problem persists: why does collapse in neural systems give rise to experience?
+**[Dualism](/tenets/#dualism)**: The objective-reduction-plus-modulation view maintains dualism: consciousness is not produced by collapse but interfaces with it in a way physical processes alone cannot explain. The hard problem persists—why does collapse in neural systems give rise to experience?
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness's role is specifically constrained. It doesn't cause collapse universally but influences outcomes at neural quantum sites. The interaction is minimal in scope (brains, not cosmos) even if significant in effect.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness doesn't cause collapse universally; it influences outcomes at neural quantum sites. The interaction is minimal in scope (brains, not cosmos) even if significant in effect.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Mental causation operates at quantum indeterminacies. Consciousness doesn't need to cause all collapse to be causally efficacious—modulating collapse in neural systems suffices for free will and mental causation.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Mental causation operates at quantum indeterminacies. Consciousness need not cause all collapse to be causally efficacious—modulating it in neural systems suffices for free will.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Real collapse is essential. Without it, there's no selection for consciousness to participate in. The objective-reduction framework preserves collapse realism while covering the prebiotic timeline—at the cost, examined above under [the completeness tension](#the-completeness-tension), of the token-versus-ensemble question it holds open.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Real collapse is essential; without it there's no selection for consciousness to participate in. The objective-reduction framework preserves collapse realism while covering the prebiotic timeline—at the cost, examined under [the completeness tension](#the-completeness-tension), of the token-versus-ensemble question it holds open. Horizon decoherence, the cleanest unitary rival, leaves that question where it found it.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The prebiotic collapse problem shows how consciousness-collapse frameworks require careful articulation. A simple "consciousness causes collapse" fails; a nuanced "objective reduction with consciousness modulation" specifies what a complete account would require, while inheriting the [bias-without-deviation dilemma](#the-completeness-tension) it does not yet resolve. Simplicity cannot be the only criterion.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Consciousness-collapse frameworks require careful articulation. A simple "consciousness causes collapse" fails; "objective reduction with consciousness modulation" specifies what a complete account would require, while inheriting the [bias-without-deviation dilemma](#the-completeness-tension) it does not yet resolve. Simplicity cannot be the only criterion.
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is itself an introspective illusion—might seem to dissolve the prebiotic problem from a different direction. If there is no "real" consciousness, only functional processes that misrepresent themselves as experiential, then there's nothing non-physical to participate in collapse. The problem assumes consciousness is real; illusionism denies the premise.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is itself an introspective illusion—might seem to dissolve the prebiotic problem from a different direction. If there is no "real" consciousness, only functional processes that misrepresent themselves as experiential, then there's nothing non-physical to participate in collapse—the problem's premise is denied rather than answered.
 
 The Map rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the response here is specific: **the illusion problem compounds the prebiotic challenge rather than dissolving it**.
 
-If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But those illusion-generating neural systems evolved through quantum events (mutations, molecular interactions) that required definite outcomes—so the illusionist cannot escape into "it's all illusion" without presupposing the very cosmological timeline the prebiotic problem addresses.
+If consciousness is an illusion, something must generate it—and on illusionist accounts the neural systems producing that systematic misrepresentation evolved through quantum events (mutations, molecular interactions) requiring definite outcomes. The illusionist cannot escape into "it's all illusion" without presupposing the very cosmological timeline the prebiotic problem addresses.
 
-Moreover, Raymond Tallis's regress objection applies: illusions presuppose experience. If the illusion of consciousness seems real to something, that something is doing the experiencing. Illusionists contest this regress—arguing that the "seeming" can itself be functionally explained without invoking genuine phenomenal experience—but the debate remains unresolved. At minimum, the problem relocates rather than dissolves.
+Moreover, Raymond Tallis's regress objection applies: illusions presuppose experience. If the illusion of consciousness seems real to something, that something is doing the experiencing. Illusionists contest this regress—arguing that the "seeming" can itself be functionally explained without invoking genuine phenomenal experience—but the debate remains unresolved.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a different framing of the prebiotic question—one that neither requires consciousness-caused collapse nor accepts the materialist alternative.
+Alfred North Whitehead's process philosophy frames the prebiotic question without requiring consciousness-caused collapse or accepting the materialist alternative. For Whitehead, reality consists of "actual occasions"—momentary experiential events involving "prehension" (a form of proto-experience) and "concrescence" (the process of becoming definite)—occurring at every level of reality rather than only in sophisticated minds.
 
-For Whitehead, reality consists of "actual occasions"—momentary experiential events that constitute both subjects and objects. Each actual occasion involves "prehension" (a form of proto-experience) and "concrescence" (the process of becoming definite). Crucially, these occasions don't require sophisticated consciousness—they occur at every level of reality.
+The question then changes from "what collapsed wavefunctions before consciousness?" to "how do actual occasions achieve definiteness?" Whiteheadian occasions are self-determining: they complete themselves through internal process, not external observation. Whitehead's panexperientialism (distinct from full panpsychism) holds that the prebiotic universe was constituted by micro-occasions with proto-experiential prehension, without any claim that rocks are conscious; what we call consciousness is the same process highly integrated, so the evolution of consciousness was the evolution of experiential complexity rather than the emergence of experience from non-experience.
 
-This framework reinterprets the prebiotic collapse problem:
-
-**The question changes**: from "what collapsed wavefunctions before consciousness?" to "how do actual occasions achieve definiteness?" Whitehead's occasions are self-determining—they complete themselves through internal process, not external observation.
-
-**Experience pervades reality**: Whitehead's panexperientialism (distinct from full panpsychism) holds that experiential aspects are fundamental. The prebiotic universe was constituted by micro-occasions with minimal experiential character—their constituents involve proto-experiential prehension without any claim that rocks are conscious.
-
-**Consciousness as high-grade experience**: what we call consciousness is highly integrated experience—a sophisticated organisation of the same process found in prebiotic occasions. The evolution of consciousness was the evolution of experiential complexity rather than the emergence of experience from non-experience.
-
-This doesn't commit the Map to full Whiteheadian metaphysics. But it shows an alternative to the sharp consciousness/no-consciousness divide that generates the prebiotic problem. If experience is a matter of degree rather than kind, the bootstrapping worry softens—there was always *something* experiential, however minimal, in the quantum selection process.
+This doesn't commit the Map to full Whiteheadian metaphysics. But if experience is a matter of degree rather than kind, the sharp consciousness/no-consciousness divide that generates the prebiotic problem softens—there was always *something* experiential, however minimal, in the quantum selection process.
 
 ## What Would Challenge This View?
 
 The objective-reduction-plus-modulation framework would be undermined if:
 
-1. **All objective collapse theories are ruled out experimentally.** the Map's commitment is to the framework (real collapse + consciousness modulation at neural sites) rather than a specific mechanism. But if experiments definitively ruled out all objective collapse theories—GRW, CSL, Penrose—the framework would need revision. Current evidence constrains but doesn't eliminate these theories.
+1. **All objective collapse theories are ruled out experimentally.** The Map's commitment is to the framework—real collapse plus consciousness modulation at neural sites—rather than to a specific mechanism, but definitive exclusion of GRW, CSL and Penrose together would force revision. Current evidence constrains without eliminating them.
 
-2. **Many Worlds proves empirically distinguishable and correct.** If MWI made novel predictions that were confirmed while collapse theories failed, the framework's foundation (real collapse) would be undermined. So far, MWI and collapse theories make identical predictions for all feasible experiments.
+2. **Many Worlds proves empirically distinguishable and correct.** Confirmed novel MWI predictions, with collapse theories failing, would undermine the framework's foundation. So far the two make identical predictions for all feasible experiments.
 
-3. **Consciousness modulation at neural sites proves impossible.** If decoherence timescales genuinely preclude any quantum effect in neural systems—despite quantum biology precedents and revised calculations—the specific mechanism (consciousness modulating collapse in brains) would fail. The broader commitment to consciousness's causal efficacy might survive, but the quantum implementation would not.
+3. **Consciousness modulation at neural sites proves impossible.** If decoherence timescales genuinely preclude any quantum effect in neural systems—despite quantum biology precedents and revised calculations—the quantum implementation fails, though the broader commitment to consciousness's causal efficacy might survive.
 
-4. **Panpsychism solves the combination problem.** If panpsychists developed a compelling account of how micro-experiences combine into unified consciousness, their dissolution of the prebiotic problem (experience was always present) would become more attractive. Currently, the combination problem makes panpsychism as problematic as the alternatives.
+4. **Panpsychism solves the combination problem.** A compelling account of how micro-experiences combine into unified consciousness would make the panpsychist dissolution—experience was always present—more attractive than the combination problem currently permits.
 
-5. **Retrocausal frameworks become standard physics.** If Wheeler's participatory universe—with observer-participancy reaching back to select past outcomes—became the consensus interpretation, and the participancy in question turned out to be conscious, the Map's objective-reduction baseline would be unnecessary. Consciousness would cause collapse after all, just across temporal spans rather than at moments.
+5. **Retrocausal frameworks become standard physics.** If observer-participancy reaching back to select past outcomes became the consensus interpretation, and that participancy turned out to be conscious, the objective-reduction baseline would be unnecessary: consciousness would cause collapse after all, across temporal spans rather than at moments.
 
 ## Experimental Status
 
@@ -215,7 +205,7 @@ Objective collapse theories face empirical pressure but remain viable:
 
 **GRW theory**: The original Ghirardi-Rimini-Weber parameters "survived by a whisker"—spontaneous localisation rates and widths lie just within experimental bounds.
 
-**Quantum biology support**: The August 2024 epothilone B study in rats—showing that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—provides indirect support for consciousness-quantum interaction at neural sites. If microtubule integrity affects consciousness, the interface exists.
+**Quantum biology support**: The August 2024 epothilone B study in rats—showing that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—provides indirect support for consciousness-quantum interaction at neural sites.
 
 ## Further Reading
 
@@ -227,16 +217,17 @@ Objective collapse theories face empirical pressure but remain viable:
 - [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's "it from bit" thesis and its descendant programmes
 - [panpsychism](/concepts/panpsychism/) — The alternative where experience is fundamental
 - [decoherence](/concepts/decoherence/) — The challenge of quantum coherence in biological systems
-- [illusionism](/concepts/illusionism/) — The radical physicalist response and why it doesn't dissolve the problem
+- [illusionism](/concepts/illusionism/) — The radical physicalist response
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness interfaces with neural systems
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for rejecting Many Worlds
 - [combination-problem](/concepts/combination-problem/) — The challenge facing panpsychist responses
-- [many-worlds](/concepts/many-worlds/) — Detailed arguments against the many-worlds interpretation
-- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — The empirical frontier for gravity-induced collapse: partial falsification and ongoing experiments
+- [many-worlds](/concepts/many-worlds/) — Detailed arguments against MWI
+- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — The empirical frontier for gravity-induced collapse, and horizon decoherence as its unitary rival
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: prebiotic collapse as constraint on deeper theory
 
 ## References
 
+1. Danielson, D.L., Satishchandran, G., & Wald, R.M. (2022). "Black holes decohere quantum superpositions." *International Journal of Modern Physics D*, 31(14), 2241003. https://doi.org/10.1142/S0218271822410036 — and (2023), "Killing horizons decohere quantum superpositions," *Physical Review D*, 108, 025007. https://doi.org/10.1103/PhysRevD.108.025007
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78. (Online 2020; print 2021.)
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.

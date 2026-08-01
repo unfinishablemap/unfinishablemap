@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T13:47:00+00:00'
+ai_modified: '2026-08-01T15:01:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 15:01 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/prebiotic-collapse]]
+- **Original score**: n/a (`scripts/curate.py` does not exist — the skill's Section 3 review command is stale)
+- **Word count**: 3652 → 3492 (`hard_warning` → `soft_warning` against concepts soft 2500 / hard 3500). Decomposed: prose body 3265 → 3077, Further Reading 152 → 145, References 235 → 270. The file was 152 words **over** its hard ceiling on arrival; the addition was paid for and then some, so it now clears the ceiling with 8 words of headroom.
+- **Source**: [[research/horizon-decoherence-2026-07-31]] — its "Preferred" path, addition 1 of 2. The note explicitly recommends **against** a new article; none was created.
+- **Changes**:
+  - **Horizon decoherence installed in `### 4. Decoherence Naturalization`** (+134 words, one paragraph, placed *after* the existing reply so "the reply just given" reads correctly). Danielson, Satishchandran & Wald: any Killing horizon harvests which-path information as a flux of soft gravitons/photons and decoheres a stationary superposition in finite time on unmodified QFT in curved spacetime, with no environment and no collapse postulate. Then the de Sitter decoherence time — the authors' own "much larger than the Hubble time" for any ordinary charge. Then that it yields a **mixed density matrix rather than a definite outcome**, the mixedness obtained by tracing over degrees of freedom behind a causal horizon, so the global state stays pure and every branch survives.
+  - **Framed as strengthening, not conceding.** The section's standing reply ("Decoherence does not tell how and why only one of these outcomes is measured") covers horizon decoherence unaltered; the paragraph says so, and lands the point on the fourth tenet — the surviving-branch structure is Everettian, which is what No Many Worlds rejects. Nothing implies DSW solves or supports prebiotic collapse (the research note refutes that reading at length in "Assessing the Outer Reviewer's Claim").
+  - **Tenet section updated**: one clause added to **No Many Worlds** — horizon decoherence, the cleanest unitary rival, leaves the selection question where it found it.
+  - **Reference added**: the Danielson/Satishchandran/Wald 2022+2023 entry, **copied verbatim** from `topics/penrose-gravity-induced-collapse-empirical-prospects.md` L159 (diff-verified byte-identical). No citation metadata was re-derived — the session's WebSearch budget was exhausted, so no live lookups were made.
+  - **Paired trims (−294 words) across 18 loci**, all redundancy rather than content: the restating close of *Two Distinct Timeline Questions*; two duplicate statements of the Wheeler-parts-company point (the direct Wheeler 1983 quote already carries it); the closing restatement in *Panpsychism*; *Process Philosophy* converted from three bold-headed stubs to two prose paragraphs (−81); *What Would Challenge This View?* tightened item-by-item (−46); duplicate "held open" markers in *The Map's Position* and *The Completeness Tension*; the *Zeno sidestep* self-restatement; two Further Reading glosses.
+  - **Two calibration improvements harvested from the trim.** *Experimental Status* asserted "If microtubule integrity affects consciousness, the interface exists" on the back of one indirect rat study — removed as an overclaim. Item 1 of *What Would Challenge This View?* began with a lowercase "the Map's" — fixed.
+  - **Verified**: zero wikilinks lost or added (set-diff against HEAD); both in-body quotes still grep contiguously in the raw source; `scripts/validate.py` clean; no HTML-comment log block written (Section 8).
+- **Not done, deliberately**: the note's optional second addition to `topics/penrose-gravity-induced-collapse-empirical-prospects.md`. That file already carries the DSW mechanism in prose (L98) and the citations (L159); only the 2024 "Local Description" finding is missing, and the file has ~70 words of headroom at 3930/4000. Left for a length-neutral pass.
+- **Published**: yes
 
 ## 2026-08-01 14:39 UTC - refine-draft
 
