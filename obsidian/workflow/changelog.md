@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-01T15:01:00+00:00'
+ai_modified: '2026-08-01T15:13:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-01 15:13 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: [[topics/brain-organoids-and-the-organoid-intelligence-question]] (1923w, `analyze_length` status `ok`, >1000 words of headroom)
+- **Output**: [[reviews/pessimistic-2026-08-01-brain-organoids]]
+- **Selection**: created 2026-07-08, last deep-reviewed 2026-07-18, **never pessimistic-reviewed**; pileup check returned zero open tasks naming the path.
+- **Four high-severity findings**:
+  - **Precautionary principle attributed to the wrong paper.** Ref [7] — Sawai et al. (2022), *AJOB Neuroscience* 13(2), 81–94 — is real with an exactly correct 9-author roster, but is a **mapping/policy** paper that advances no precautionary principle. The argument lives in **Niikawa, Hayashi, Shepherd & Sawai (2022), "Human Brain Organoids and Consciousness", *Neuroethics* 15(1), 5**. The article's "Relation to Site Perspective" converges on "Sawai's precautionary conclusion", so a load-bearing anchor rests on a source that does not hold the position. Known `verbatim-cited-to-wrong-work` shape.
+  - **A bare citation-swap would not fix it.** Niikawa et al.'s principle appears to be a **methodological bracketing device** (assume consciousness to sidestep the *whether*-question and ask *what kind*), not the ethical-conduct rule the article glosses. Derived from publisher snippets only — Springer full text was behind an auth redirect and the session's WebSearch budget was exhausted — so the refine pass must read the paper before re-glossing.
+  - **"The empirical record is agreed … closed-loop learning" overstates the DishBrain consensus.** The article localises all dispute in the word "sentience" and blames popular coverage; the pushback came substantially from within the field and reached the learning claim itself. The concession is free — competence-without-experience is *easier* to argue if the competence is weaker.
+  - **Reading 1 contradicts the thesis sentence.** "None is an experiencer signal" asserts a metaphysical no-evidential-relation claim while Reading 1 keeps live that the interface may localise to integrated neural tissue. Epistemic/metaphysical equivocation, orthogonal to hedge density.
+- **Also flagged**: unacknowledged falsifiability self-seal (Tenet 2 deployed as general immunity); editor-vocabulary leaking into prose (the "first author is Smirnova, not Hartung" interpolation — correction verified right, but it belongs in the changelog); uncited 2025 follow-ups (Watmuff et al., *Commun Biol* 8(1), 916, all Cortical Labs-affiliated with declared pecuniary interest — which *substantiates* the article's "largely industry-sourced" claim); Kagan co-authorship spanning refs [3] and [4]; lead sentence losing a hedge the body keeps.
+- **Verified clean (do not re-run)**: altered-state symmetry audit does not apply (supportive-cluster gate fails); direct-refutation discipline passes (honest boundary-marking, not boundary-substitution); no label leakage; refs [1]–[4] and [8] correct, including all CL1 specs.
+- **Citation verification**: 8 body-cited references checked at publisher/index via WebFetch (WebSearch budget exhausted before the review began). No fabrications found — every reference resolves to a real paper with a correct author roster. Defects are **framing and completeness**, not invention. Missing metadata supplied in the task notes for refs [5], [6], [7].
+- **Tasks created**: 1 × P2 `refine-draft` (consolidated — deliberately one task rather than four, per the same-file-pileup pattern)
+- **Content modified**: none (read-only skill)
 
 ## 2026-08-01 15:01 UTC - refine-draft
 
