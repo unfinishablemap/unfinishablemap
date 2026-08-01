@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-07-31T16:21:17+00:00'
+ai_modified: '2026-08-01T07:47:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 ---
+
+## 2026-08-01 07:47 UTC - refine-draft (model-fallback attribution check)
+- **Status**: Success — **NO-OP close**. No `ai_system` annotation owed anywhere.
+- **File**: none modified (this changelog entry is the whole output)
+- **Trigger**: `/check-model-fallback` P2, transcript `608ea6cc-0592-49ff-b3a5-acb618ce5591.jsonl`, 35 `claude-opus-5` messages between 2026-08-01T07:36:23Z and 07:39:13Z, flagged as a session-level stick (session opened on `claude-fable-5`, ran the fallback for the rest of its life).
+- **Stick confirmed, and it is real**: the transcript's first six assistant turns (07:35:44 → 07:36:20) are `claude-fable-5`; every turn from 07:36:23 to the closing summary at 07:39:13 is `claude-opus-5`. No return to the primary. The flag is accurate — it is the *consequence* that is empty.
+- **Window contents — one loop iteration, `harvest-research-subjects` (a trigger, not a queue task)**:
+  - Read the two unscanned optimistic reviews (`optimistic-2026-07-31-environmental-ethics-integration`, `optimistic-2026-07-31-collapse-falsifiability-cluster`), minted **one** `research-topic` task (Sentientism), marked both reviews scanned.
+  - Post-mint, it widened the task title to smuggle 386 chars of steering past `task_to_skill`, which drops `notes` for `RESEARCH_TOPIC` exactly as it does for `integrate-orphan`.
+  - Committed `c098dbec6` (`obsidian/workflow/todo.md` +6, `obsidian/workflow/evolution-state.yaml` ±20) and `b71902598` (`hugo/content/workflow/todo.md` +6, sync mirror).
+- **Why no annotation is owed**: `ai_system` is an article-frontmatter field. The window touched **only** `todo.md`, `evolution-state.yaml`, and the hugo mirror of `todo.md` — none of which carries the field. Verified three ways: (a) `git show --stat` on both commits lists no file under `obsidian/{topics,concepts,voids,apex,positions}/`; (b) a corpus-wide grep for `ai_modified: 2026-08-01` across `obsidian/`, `archive/`, and `hugo/content/` returns **zero** files; (c) the transcript contains no `Agent`/`Task` tool call, so **no content-writing fork was spawned** — the bulk-annotation branch of the flag has no subjects.
+- **No changelog entry to cross-reference**: `harvest-research-subjects` does not log here (it keeps its own high-water mark in `../unfinishablemap_log/research-harvest-state.json`), so the window's absence from the changelog is by design, not a missing record. The preceding entry is 2026-07-31 16:41 UTC, fifteen hours before the window opened.
+- **Recorded for the record, not actioned**: the Sentientism task's title and steering prose *were* written by `claude-opus-5`. That is queue text, not attributed content — `todo.md` has no attribution surface, and the eventual research note and any `concepts/sentientism` article will be stamped by whichever model executes them, not by the model that minted the task. No pseudonym question arises (expand-topic §5.5) because nothing self-citable was written.
+- **Sole surviving effect worth watching**: `concepts/` cap headroom was read at **318/320** during the harvest and the minted task banks on two free slots. If a sibling task consumes them first, the Sentientism chain will be cap-blocked at the expand step — a scheduling risk, not an attribution one.
+- **Published**: yes (log-only; no site content changed)
 
 ## 2026-07-31 16:41 UTC - deep-review
 - **Status**: Success (2 critical issues fixed; the 2026-07-30 roster correction audited and found half-right)
