@@ -1,14 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T14:56:00+00:00'
+ai_modified: '2026-08-02T15:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 14:56:00+00:00
+lastmod: 2026-08-02 15:52:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 15:52 UTC - deep-review
+
+- **Status**: Success
+- **File**: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/)
+- **Word count**: 2577 → 2861 (+284, 95% of the 3000 topics soft threshold)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-08-02-aesthetic-testimony-and-the-acquaintance-principle](/reviews/deep-review-2026-08-02-aesthetic-testimony-and-the-acquaintance-principle/)
+
+Publisher-of-record verification of all fourteen References entries via Crossref, OpenAlex and a live SEP fetch (no WebSearch; that budget was already exhausted). Metadata came back clean apart from a missing page range on Hopkins 2000 — but **characterisation** verification caught what four prior passes had missed: the article claimed Livingston 2003 "undermines every workable version" of the Acquaintance Principle, whereas his published abstract says *strong* versions lack warrant and then proposes **two successors** he leaves standing. A "some → all" widening running against the Map, surviving creation, a cross-review, a same-day six-persona pessimistic review that re-verified twelve bibliographic facts, and a same-day refine pass — because all of those checked metadata, none checked whether the one-line summary matched the argument. Corrected, and Livingston's second successor (epistemic → axiological) now links forward to Shelley 2023, which it prefigures.
+
+Also fixed: the heading `Two Places a First-Person Barrier Can Sit` sat above a paragraph enumerating four locations plus two dissolution options (retitled; no inbound anchors); Riggle 2025 was filed under the `### Optimism` heading while his abstract opens "the power of **Pessimism** has been underappreciated" (heading widened to cover the revisionary readings, and his sentence now says so). Calibration additions, all running against the Map: Riggle's own report that "today there is a near consensus that it fails" is now front-loaded into the framing section; Riggle joins Meskin, Nguyen and Shelley in the defeater list, as the sharpest case — the most *sympathetic* recent treatment of the principle still denies the Map an epistemic barrier; and the Nagarjuna objection from the 13:26 pessimistic review (an invariance that survives every relocation of its ground is as good a candidate for having no location as for a joint in nature) is now conceded in the body.
+
+Engagement modes (editor-internal): Meskin — Mode One, in-framework via SEP's own "primary difficulty" wording; Nguyen — Mode One twice (SEP's instrumental-value objection plus the norm/inability structural point); Shelley — Mode Three, declared as counting against the Map; Riggle — Mode Three, newly added. No label leakage.
+
+Both Stanford Encyclopedia attributions added by the 14:01 refine pass were checked against the live entry and are **accurately framed** — §4.1.3 and §4.2.2 support them close to verbatim. The out-of-scope hub contradiction the pessimistic review flagged (`aesthetics-and-consciousness.md` asserting "Each independently troubles physicalism") was independently resolved before this pass; that file now reads "The five are not five independent arguments" and runs an audit reducing them to three premises. No follow-up task minted.
+
+## 2026-08-02 15:25 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Values in science and inductive risk under dualism
+- **Output**: [values-in-science-and-inductive-risk-2026-08-02](/research/values-in-science-and-inductive-risk-2026-08-02/)
+- **Sources consulted**: 20 cited (12 Crossref-verified DOIs, 3 SEP entries, 3 publisher pages, 2 book records), plus 3 flagged SEP-mediated and unverified
+- **Gap re-verified live**: zero hits for "inductive risk", "Heather Douglas", "Longino", or "Rudner" across `obsidian/` and `archive/` outside `workflow/todo.md` and the originating review.
+- **WebSearch was exhausted (200/200) before this run**; all retrieval done via `curl` against SEP, Crossref, OpenAlex, Semantic Scholar, Open Library and publisher pages.
+
+### Principal finding — the motivating convergence does not exist
+
+The harvest mint proposed that the values-in-science literature independently supplies, on non-dualist grounds, the premise the Map needs under Bidirectional Interaction (that phenomenal states causally guide theory choice). It does not, on three separable grounds: **(1)** the argument from inductive risk is *justificatory*, not causal — Ward (2021, *SHPS A* 85: 54–62) disambiguates four relations values can bear to a choice (motivate / justify / cause / be-impacted-by) and reads inductive risk as a claim about *justification*, whereas Bidirectional Interaction needs *causation*; **(2)** the literature's target is *contextual* values (moral, social, political), while aesthetic response and felt coherence are *cognitive* values — the uncontroversial part the value-free ideal never disputed; **(3)** every mechanism proposed on either side is implementable without phenomenal consciousness (Levi's community standards, Betz's uncertainty scale, Douglas's institutional thresholds), so the premise supplied is *neutral* between the Map and physicalism.
+
+**Consequence for the requested discipline**: P-M2 does not get to apply. P-M2 discounts a convergence to framework-internal coherence pending a distinguishing test; here the precondition fails, because the two literatures do not reach the same proposition. The correct register is **"not convergent — the apparent agreement is an equivocation across Ward's four relations"**, which is a stronger verdict than the discount the mint asked for.
+
+### Second finding — the literature constrains the Map rather than supporting it
+
+The post-2000 programme's organising question is the **new demarcation problem** (Resnik & Elliott 2023, *JGPS* 54: 259–286): which value influences are *legitimate*. `topics/duhem-quine-underdetermination-consciousness` line 94 infers from "Kuhnian values legitimately influence theory choice" to "metaphysical commitments — including dualism — function as recognised components of rational theory selection." That inference is not licensed: on Douglas's (2009) direct/indirect criterion, a metaphysical commitment operating as a *reason to accept* a metaphysical thesis is a **direct** role, which she prohibits. Flagged as the highest-value corrective target. `topics/methodology-of-consciousness-research` line 146 ("Scientific practice depends on irreducibly phenomenal experiences") is second. Of seven live loci found, four were checked and found **already adequately conditionalised** — no action needed; one (`topics/consciousness-defeats-explanation`) is flagged for checking but not diagnosed.
+
+### Recommendation — decline the cap slot
+
+`topics/` 319/320, `concepts/` 319/320 (verified by file count). **No expand-topic chain recommended.** The valuable content is corrective and belongs as guardrails in the three existing articles; what remains after extraction is a survey of a mainstream debate, which is the "merely encyclopaedic" failure mode the mint itself named. The originating optimistic review had already *deferred* this candidate ("the deficit here is integration and synthesis, not new terminology"); the harvester does not dedupe against deferrals. Follow-on tasks proposed in the note (not minted here): 2 × `refine-draft`, 1 × `positions-evolve` registering the justify/cause finding as a P-M2 instance.
+
+### Citation-discipline notes
+
+Kuhn (1977) "Objectivity, Value Judgment, and Theory Choice" **verified correct as the cluster already cites it** — UChicago Press confirms © 1977, ch. 13 of *The Essential Tension*. Pagination deliberately **not** asserted (publisher TOC gives none). **No verbatim Rudner quote used**: SEP quotes him as "(1953: 2)" but the primary text could not be obtained (PhilPapers 403), and adopting that locus unseen is the aggregator-ratification failure mode. Douglas (2009) verified at University of Pittsburgh Press — the surrounding page text is a *review blurb*, not authorial, and was not quoted. Driver guidance named SEP entry `science-values`, which **404s**; no such entry exists.
 
 ## 2026-08-02 14:56 UTC - positions-evolve (add × 3, new domain)
 

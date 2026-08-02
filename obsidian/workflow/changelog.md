@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T15:25:08+00:00'
+ai_modified: '2026-08-02T15:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 15:52 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/aesthetic-testimony-and-the-acquaintance-principle]]
+- **Word count**: 2577 → 2861 (+284, 95% of the 3000 topics soft threshold)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-08-02-aesthetic-testimony-and-the-acquaintance-principle]]
+
+Publisher-of-record verification of all fourteen References entries via Crossref, OpenAlex and a live SEP fetch (no WebSearch; that budget was already exhausted). Metadata came back clean apart from a missing page range on Hopkins 2000 — but **characterisation** verification caught what four prior passes had missed: the article claimed Livingston 2003 "undermines every workable version" of the Acquaintance Principle, whereas his published abstract says *strong* versions lack warrant and then proposes **two successors** he leaves standing. A "some → all" widening running against the Map, surviving creation, a cross-review, a same-day six-persona pessimistic review that re-verified twelve bibliographic facts, and a same-day refine pass — because all of those checked metadata, none checked whether the one-line summary matched the argument. Corrected, and Livingston's second successor (epistemic → axiological) now links forward to Shelley 2023, which it prefigures.
+
+Also fixed: the heading `Two Places a First-Person Barrier Can Sit` sat above a paragraph enumerating four locations plus two dissolution options (retitled; no inbound anchors); Riggle 2025 was filed under the `### Optimism` heading while his abstract opens "the power of **Pessimism** has been underappreciated" (heading widened to cover the revisionary readings, and his sentence now says so). Calibration additions, all running against the Map: Riggle's own report that "today there is a near consensus that it fails" is now front-loaded into the framing section; Riggle joins Meskin, Nguyen and Shelley in the defeater list, as the sharpest case — the most *sympathetic* recent treatment of the principle still denies the Map an epistemic barrier; and the Nagarjuna objection from the 13:26 pessimistic review (an invariance that survives every relocation of its ground is as good a candidate for having no location as for a joint in nature) is now conceded in the body.
+
+Engagement modes (editor-internal): Meskin — Mode One, in-framework via SEP's own "primary difficulty" wording; Nguyen — Mode One twice (SEP's instrumental-value objection plus the norm/inability structural point); Shelley — Mode Three, declared as counting against the Map; Riggle — Mode Three, newly added. No label leakage.
+
+Both Stanford Encyclopedia attributions added by the 14:01 refine pass were checked against the live entry and are **accurately framed** — §4.1.3 and §4.2.2 support them close to verbatim. The out-of-scope hub contradiction the pessimistic review flagged (`aesthetics-and-consciousness.md` asserting "Each independently troubles physicalism") was independently resolved before this pass; that file now reads "The five are not five independent arguments" and runs an audit reducing them to three premises. No follow-up task minted.
 
 ## 2026-08-02 15:25 UTC - research-topic
 
