@@ -4,7 +4,7 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-07-16T20:26:40+00:00
+ai_modified: 2026-08-02T16:37:30+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[interoceptive-void]]"
   - "[[phantom-limb-phenomena]]"
+  - "[[cross-modal-capability-division]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -68,6 +69,10 @@ The dissociation is not a graded reduction. Asymbolia patients do not report mil
 How cleanly it separates is itself contested, and the Map should not lean on a pristine one-variable reading. Griffith and Kind (2024) argue that pain asymbolia is *not pain*: what these patients retain, on their analysis, is not a genuine pain sensation stripped of its unpleasantness but a residual sensory-discriminative capacity that no longer qualifies as pain at all. If they are right, the condition does not exhibit an intact pain minus its affective layer—it exhibits the collapse of the composite into a non-pain remnant, and the "intact sensation, missing suffering" description overstates what is retained. Duval and Klein (2025) reply that asymbolia is probably still pain, so the classificatory question is live rather than settled. Either way, the disciplined claim is narrower than a surgical dissociation: asymbolia shows that pain's sensory-discriminative and affective-motivational dimensions can come apart far enough to strain any account that makes the unpleasantness intrinsic to nociceptive processing—not that it delivers a clean single-variable experiment isolating felt awfulness with everything else held fixed.
 
 Nociception is one interoceptive channel, and the signal-versus-felt split that asymbolia isolates is the sharpest clinical instance of a gap that runs through interoception generally. The [[interoceptive-void]] maps the general case: across cardiac, gastric, thermal, and nociceptive channels, the ascending signal and what reaches awareness come apart, and most visceral traffic never crosses threshold at all. Asymbolia is the limiting demonstration that the afferent signal can arrive intact while the felt layer it normally carries is absent—the same signal/feeling dissociation the interoceptive void treats at the level of the whole body's partial opacity.
+
+The same split positions asymbolia within the Map's [[cross-modal-capability-division|cross-modal capability division]]. That survey runs one division across the senses—brain-side extraction of candidate content, mind-side contribution of unity, ownership, and mattering—and asks whether the mind-side term is a single contribution or a family. Its answer is that the object-centred senses never isolate the members, because in them mattering always arrives fused with a felt object. Asymbolia performs that isolation clinically, with the modality held fixed: the sensory-discriminative content survives, the affective-motivational layer that makes it matter does not. Varying the sense varies content and mattering together, so no cross-modal comparison can produce this geometry.
+
+The gain is resolution rather than confirmation, and two disciplines hold it there. Griffith and Kind's challenge applies with full force: if what remains is a non-pain remnant, the isolation is less clean than one mind-side member excised. And on the [[common-cause-null|common-cause null]], asymbolia and the cross-modal survey share their entire upstream—the explanatory gap each presupposes—so asymbolia is a sharper instrument trained on that one gap, not a further line converging on it independently.
 
 ## Philosophical Significance
 
@@ -124,6 +129,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
 - [[valence-and-conscious-selection]] — How asymbolia evidence bears on whether valence participates in selection
 - [[co-optimization-reply-to-the-correlation-problem]] — Why the dissociation cases constrain but do not discriminate between co-optimization and interactionism
+- [[cross-modal-capability-division]] — The survey whose mind-side family asymbolia isolates within one modality
 
 ## References
 

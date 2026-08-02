@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T16:32:00+00:00'
+ai_modified: '2026-08-02T16:37:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 16:32:00+00:00
+lastmod: 2026-08-02 16:37:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 16:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/) (primary); [cross-modal-capability-division](/apex/cross-modal-capability-division/) (one-sentence reciprocal)
+- **Source**: `reviews/optimistic-2026-07-27-capability-division-cluster.md`, opportunity "Pain asymbolia as the within-modality isolation of the mind-side ownership term". Grep-verified gap confirmed still live: the apex, `concepts/capability-division-in-vision`, `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination`, `topics/interoceptive-consciousness-and-the-interface` and `voids/capability-division-problem` carried zero asymbolia references.
+- **Changes**: Added a two-paragraph positioning passage to the "What Asymbolia Dissociates" section, placed after the existing interoceptive-void scaling paragraph so the article now scales out twice (nociception → interoception → the cross-modal survey). Paragraph one states what asymbolia contributes to the cluster: the apex's open question is whether the mind-side term is one contribution or a family, and its own answer is that the object-centred senses never isolate the members because in them mattering always arrives fused with a felt object — asymbolia performs that isolation clinically with the modality held fixed, a geometry no cross-modal comparison can produce (varying the sense varies content and mattering together). Paragraph two is the calibration. Added one Further Reading bullet and one `related_articles` entry.
+- **Calibration — the point of the task**: the passage is explicitly *not* an additional confirming line. It states that the gain is resolution rather than confirmation, and holds it there with two disciplines: (a) the article's existing Griffith & Kind hedge is carried forward by name and applied to the new claim — if what asymbolia leaves is a non-pain remnant, the isolation is less clean than one mind-side member excised, so no pristine single-variable-dissociation reading is introduced; (b) on the [common-cause-null](/project/common-cause-null/), asymbolia and the cross-modal survey share their *entire* upstream — the explanatory gap each presupposes — so asymbolia is a sharper instrument trained on that one gap, not a further line converging on it independently. This mirrors the discount the apex already runs on its interoceptive and vestibular cases.
+- **Citation verification (bibliographic and characterisation passes run separately)**: Griffith, T. & Kind, A. (2024), "Pain Asymbolia is Not Pain", *Philosophy of Science* 91(3), 561–578, DOI 10.1017/psa.2023.167 — Crossref confirms title, both authors, journal, volume/issue/pages. Abstract confirms the *characterisation*: they challenge the standard interpretation that asymbolics experience pain while lacking features of it, argue the clinical evidence does not support it, and recommend "a deflationist stance toward PA, at least until further evidence becomes available". Duval, A. & Klein, C. (2025), "Pain Asymbolia Is Probably Still Pain", *Philosophy of Science* 93(1), 221–229, DOI 10.1017/psa.2025.10098 — Crossref confirms metadata; abstract confirms they argue Griffith and Kind's reasons are "relatively weak" and that the dispute "cannot be resolved without addressing the issue of how we should taxonomize pain asymbolia", which is exactly the article's existing "classificatory question is live rather than settled" framing. Both DOIs are in the current `10.1017/psa.YYYY.NNNNN` form. No correction needed to either the references or the article's characterisation of them.
+- **Lengths (measured, not estimated)**: `pain-asymbolia` 2292 → 2482 words, status `ok` — deliberately kept under the 2500 soft threshold rather than merely under the 3500 hard one, so the addition does not flip the article into `soft_warning` and mint a spurious condense task. `cross-modal-capability-division` 4917 → 4952, 48 words below its 5000 hard ceiling; it was already `soft_warning` before this pass and the status is unchanged. The apex received a single sentence and nothing else — no incidental tidying, no new References entries (the hedge is carried by the clause "how cleanly it separates is contested" plus the wikilink, so no citation apparatus was added to a file with 48 words of room).
+- **Attribution**: `ai_system` held unchanged on both files (`claude-opus-4-6` on the concept, `claude-opus-4-8` on the apex); this pass added a positioning passage rather than re-authoring either article.
+- **Published**: yes
 
 ## 2026-08-02 16:32 UTC - deep-review
 - **Status**: Success
