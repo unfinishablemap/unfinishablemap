@@ -4,8 +4,8 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-08-02T07:48:39+00:00
-last_deep_review: 2026-07-09T05:09:40+00:00
+ai_modified: 2026-08-02T11:52:15+00:00
+last_deep_review: 2026-08-02T11:52:15+00:00
 draft: false
 topics: []
 concepts:
@@ -32,7 +32,7 @@ last_curated:
 
 The strictest reading of the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is *selection-only*: mind contributes nothing to the candidate set the brain physically generates. It only chooses which of the already-generated alternatives becomes actual. Under that constraint, three information-theoretic limits follow immediately. Each selection event can transfer at most log₂(N) bits, where N is the size of the brain-prepared candidate set. Long-run frequency statistics over that set must converge to physical Born-rule probabilities, driving the *signed* per-trial information rate toward zero across many trials. And mind cannot register, choose, or report content that no candidate encodes — novel qualia are structurally precluded if the brain has not pre-generated them. These three limits define a tight signature corridor: large enough to make a difference at the single-event scale, small enough to vanish at the ensemble scale, and bounded at every level by the physical-side candidate set.
 
-This article derives those limits, surveys the empirical ceiling they have to live under, and ends with a table of distinguishing observables that — at least in principle — separate selection-only models from candidate-generation alternatives. The channel-theoretic distillation of the same three limits — as Shannon-channel invariants any such coupling must satisfy — is the concept page [[selection-only-channel]]; this article carries the philosophical argument, empirical corridor, and distinguishing-observables table, while the concept page isolates the per-event arithmetic, the bidirectionality structure, and the taxonomic boundary against probability-bias and basis-choice channels.
+This article derives those limits, surveys the empirical ceiling they have to live under, and ends with a table of distinguishing observables that — at least in principle — separate selection-only models from candidate-generation alternatives. Its companion concept page [[selection-only-channel]] distils the same three limits as Shannon-channel invariants, isolating the per-event arithmetic, the bidirectionality structure, and the taxonomic boundary against probability-bias and basis-choice channels.
 
 ## The Strict Reading of Tenet 2
 
@@ -42,7 +42,7 @@ Tenet 2 commits the Map to "the smallest possible non-physical influence on phys
 - **Intermediate reading**: Mind biases individual outcomes but the bias averages to Born statistics over any well-defined ensemble.
 - **Strict (selection-only) reading**: Mind selects among already-generated alternatives without altering either the candidate set or its Born-rule probabilities.
 
-The strict reading is the one this article formalises. It is the reading historically associated with Henry Stapp's *Process 1* framework, where consciousness chooses *which question* the brain asks of nature — the choice of observable or measurement basis — while the *answer* is "given by nature" at random. As Stapp puts it in his Quantum Interactive Dualism paper, "the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law" (Stapp, n.d.).
+The strict reading is the one this article formalises. Its closest historical antecedent is Henry Stapp's *Process 1* framework, though the two place mind's freedom in different slots. Stapp has consciousness choose *which question* the brain asks of nature — the choice of observable or measurement basis — while the answer is left to nature: "whether 'Yes' or 'No' appears is not determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp 2006). Because choosing the question fixes the partition, Stapp's channel shapes the candidate set, which places it outside the selection-only class strictly construed — the taxonomic boundary [[selection-only-channel]] draws. What the strict reading takes from Stapp is the discipline that mind cannot move outcomes off their physical probabilities; what it changes is the slot, holding the candidate set wholly on the physical side and locating the mind-side contribution at the realisation of one already-generated alternative.
 
 Under this reading, the mind-side contribution is a pure post-processing stage layered on top of brain dynamics: the brain produces a probability distribution over candidates; mind realises one of them; Born statistics are preserved over long runs.
 
@@ -69,7 +69,7 @@ I_max(sec) ≈ R · ε² / (2 ln 2) bits/s   *(Born-rule-preserving)*
 
 The unconstrained ceiling is achievable only if Born-rule preservation is suspended. Under the strict reading, the second formula is the binding constraint — and ε² is unforgiving: even ε of order 10⁻³ delivers a per-trial rate of roughly 7 × 10⁻⁷ bits/event.
 
-This couples directly to *amplification*. If selection occurs at neural-quantum events on the order of 10⁷–10¹² per second across the brain, then aggregate Born-rule-preserving bandwidth lands in a band that — depending on the assumed selection rate — can be either far below or comparable to the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The strict reading is therefore *quantitatively viable* only if the per-event channel is multiplied across enough events to deliver the observed conscious-agency bandwidth.
+This couples directly to *amplification*. If selection occurs at neural-quantum events on the order of 10⁷–10¹² per second across the brain, then at ε ≈ 10⁻³ aggregate Born-rule-preserving bandwidth spans roughly 7 to 7 × 10⁵ bits/s — from comparable to the ~10 bits/s of conscious agency reported by Zheng & Meister (2025) up to several orders of magnitude above it; smaller ε drops the band below the observed figure. The observed bandwidth therefore fixes only the *product* of ε and the selection rate, not either separately. The strict reading is *quantitatively viable* across a wide parameter range, at the cost of leaving both parameters underdetermined.
 
 ### Content-Confinement: No Novel Qualia Without Neural Pre-Generation
 
@@ -107,13 +107,13 @@ Two related but distinct phenomena travel under "decline" in this literature. Th
 
 A different interpretation of *across-studies* decline is available within the Generalised Quantum Theory framework developed by Atmanspacher, Römer and Walach (Atmanspacher, Römer & Walach 2002; Walach et al. 2014). On that framing the decline is the physics enforcing no-signalling on a real but small effect — when correlations are first probed they may appear, but as repeated probing approaches a regime that would amount to genuine signal transfer, the effect recedes.
 
-The strict reading does not need to take a side on the across-studies pattern. Methodological wash-out and physics-enforced no-signalling are empirically near-indistinguishable, and the strict reading is consistent with both. What the strict reading does straightforwardly predict is the *within-study* decline: by Born-rule preservation, any per-event bias must regress as N grows. Either reading of "decline" is therefore a theoretical signature rather than an embarrassment for the strict-selection model.
+The strict reading does not need to take a side on the across-studies pattern. Methodological wash-out and physics-enforced no-signalling are empirically near-indistinguishable, and the strict reading is consistent with both. What the strict reading does straightforwardly predict is the *within-study* decline: by Born-rule preservation, any per-event bias must regress as N grows. The *within-study* pattern is therefore a theoretical signature rather than an embarrassment for the strict-selection model; the across-studies pattern is neutral between the two interpretations.
 
 ## No-Signalling, Energy Conservation, and the Information-Side Constraint
 
 The strictest selection-only model is *not* primarily constrained by the energy-conservation objection. As Robin Collins and J. B. Pitts have pointed out (Collins, n.d.; Pitts 2022), quantum correlations show that mind-brain interaction without energy exchange has precedent in current physics, and general relativity's non-localisability of gravitational energy further weakens the energy-conservation objection. Under the strict reading no energy is injected at all; the channel is energetically inert.
 
-The binding constraint is information-theoretic. The Born rule itself can be derived from relativistic-causality / no-signalling considerations (Han & Choi 2016), and "violation of higher sum-rules allows for superluminal signalling". Any *systematic* per-trial deviation from Born-rule probabilities is therefore directly coupled to relativistic-causality violation. The strict reading buys compatibility with no-signalling at the price of accepting that no large effect can ever be visible at the ensemble level. That tradeoff is not optional — it follows from the structure of quantum probability.
+The binding constraint is information-theoretic. Han & Choi (2016) show that the Born rule can be *derived* from relativistic causality — "Born rule on quantum measurement is derived by requiring relativistic causality condition" — with causality thereby fixing the upper bound on quantum nonlocality through the probability-assignment rule. Because a different assignment rule changes the amount of nonlocality in quantum correlations, any *systematic* per-trial deviation from Born-rule probabilities is a relativistic-causality problem and not merely a statistical-detectability one. The strict reading buys compatibility with no-signalling at the price of accepting that no large effect can ever be visible at the ensemble level. That tradeoff is not optional — it follows from the structure of quantum probability.
 
 This reframes the metaphysical pressure on Tenet 2. The dualist interface does not need to defend itself against energy-conservation objections at the strict reading; it needs to defend itself against the charge that, by preserving Born statistics, it *cannot make a measurable difference at the ensemble level at all*. The article's three limits define exactly where it can — and where it cannot. That charge, pressed as a dilemma about whether ensemble-invisible single-event selection is a genuine channel rather than a hidden idleness, is [[ensemble-level-epiphenomenalism]]: the strict reading's signed-per-trial-rate-toward-zero result is precisely the formal teeth behind the worry.
 
@@ -131,7 +131,7 @@ The strict reading is empirically distinguishable from generation-permitting alt
 | Conditional bias correlation with decoherence-domain diversity | Strong | Weak/absent |
 | Energy/momentum injection signature | Zero | Possibly nonzero |
 
-Of these, the *most discriminating* is the **correlation between candidate-set diversity and reportable phenomenal content**. Under the strict reading, the dimensionality of reportable content is bounded above by the dimensionality of brain-generated candidate space; under generation-permitting models, mind can supply novelty beyond what the brain pre-encodes. No current experiment cleanly operationalises this contrast, and doing so is a target for the [[interface-specification-programme]]. A complementary in-principle handle — variation in the same correlation across species at differing cognitive grades — is what [[interface-efficacy-and-the-cognitive-gap]] treats as its central distinguishing observable; both probes draw on the same underlying ceiling.
+Of these, the *most discriminating* is the **correlation between candidate-set diversity and reportable phenomenal content**. Under the strict reading, the dimensionality of reportable content is bounded above by the dimensionality of brain-generated candidate space; under generation-permitting models, mind can supply novelty beyond what the brain pre-encodes. No current experiment cleanly operationalises this contrast, and doing so is a target for the [[interface-specification-programme]]. A complementary handle is the cross-species variation in that same correlation, which [[interface-efficacy-and-the-cognitive-gap]] treats as its central distinguishing observable.
 
 ## Relation to Site Perspective
 
@@ -176,7 +176,7 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 5. Jahn, R. G., Mischo, J., Vaitl, D., Dunne, B. J., Bradish, G. J., Dobyns, Y. H., Lettieri, A., Nelson, R. D., Boller, E., Bösch, H., Vaitl, D., & Houtkooper, J. (2000). Mind/machine interaction consortium: PortREG replication experiments. *Journal of Scientific Exploration*, 14(4), 499–555.
 6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 7. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
-8. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf
+8. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 9. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 10. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0
 11. Walach, H., Horan, M., Hinterberger, T., & von Lucadou, W. (2014). Evidence-based parapsychology and the decline effect. *Journal of Parapsychology*. https://psi-encyclopedia.spr.ac.uk/articles/decline-effect-parapsychology

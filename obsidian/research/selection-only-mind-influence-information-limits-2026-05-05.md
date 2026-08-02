@@ -50,8 +50,9 @@ The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-onl
   - Strict adherence to Born-rule statistical predictions is part of the framework's claim to consistency with orthodox quantum mechanics.
   - Mental causation operates through the rate at which Process 1 events are triggered—not through bias on outcomes—and the quantum Zeno effect provides the amplification mechanism (rapid repeated questioning holds neural states in subspaces).
   - The information-transfer channel is effectively the choice of observable, not the outcome bit; bandwidth is set by how fine-grained the Process 1 question can be and how rapidly such events fire.
-- **Tenet alignment**: Aligns with Tenet 2 (Minimal Quantum Interaction) at its strictest reading; Stapp's model is the historical exemplar of selection-only mind-influence.
-- **Quote**: "the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law"
+- **Tenet alignment**: Aligns with Tenet 2 (Minimal Quantum Interaction) at its strictest reading, but note the slot difference — Stapp locates mind's freedom at the *choice of question* (which fixes the candidate set) and denies it any role in the outcome, whereas selection-only as defined here holds the candidate set on the physical side and locates mind at the outcome. Stapp is the closest historical antecedent, **not** an exemplar of outcome-level selection-only.
+- **Quote** (verified verbatim against QID.pdf, 2026-08-02): "whether 'Yes' or 'No' appears is not determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law"
+- **Correction 2026-08-02**: an earlier `**Quote**` field here — "the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law" — was **fabricated**. It appears in neither QID.pdf nor vNS.pdf (the word "Born" occurs zero times in either), and returns no web results anywhere. Removed; do not reintroduce.
 
 ### Stapp's Late-Period Modification — Born-Rule Relaxation
 
@@ -126,10 +127,11 @@ The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-onl
 - **Key points**:
   - The no-communication theorem prohibits transmission of information faster than light using quantum entanglement.
   - The Born rule itself can be *derived* from relativistic-causality / no-signalling constraints (Gleason's theorem; Han & Choi 2016).
-  - Non-Bornian probabilities are *contextual* in a way that licenses non-local signalling channels: violation of the Born rule's higher sum-rules permits superluminal signalling.
+  - Non-Bornian probability assignments change the amount of nonlocality in quantum correlations, which is what couples them to relativistic causality. (An earlier gloss here — "violation of the Born rule's higher sum-rules permits superluminal signalling" — is a *paraphrase of the general higher-order-interference literature*, not a claim made by Han & Choi; treat it as unsourced until a primary citation is supplied.)
   - Implication for selection-only models: any *systematic* per-trial deviation from Born-rule probabilities is directly coupled to relativistic-causality violation. Models that bias outcomes face a steep cost beyond mere statistical detectability.
 - **Tenet alignment**: Strongly constrains Tenet 2. The strictest reading of Minimal Quantum Interaction (no Born-rule deviation) is *required*, not optional, if causality is to be preserved.
-- **Quote**: "violation of higher sum-rules allows for superluminal signalling"
+- **Quote** (verified verbatim against the Han & Choi 2016 abstract, 2026-08-02): "We have shown that Born rule on quantum measurement is derived by requiring relativistic causality condition"
+- **Correction 2026-08-02**: an earlier `**Quote**` field here — "violation of higher sum-rules allows for superluminal signalling" — was **fabricated**. It is absent from Han & Choi 2016 (PMC4789655) and returns no web results anywhere. Removed; do not reintroduce.
 
 ### Beck & Eccles — Quantum Tunneling at Synapses
 

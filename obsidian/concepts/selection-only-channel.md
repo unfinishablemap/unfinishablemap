@@ -4,7 +4,7 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-07-15T11:53:00+00:00
+ai_modified: 2026-08-02T11:52:15+00:00
 last_deep_review: 2026-07-15T11:53:00+00:00
 draft: false
 topics:
@@ -94,7 +94,7 @@ The selection-only channel is distinct from several related channel types it is 
 
 - **Not a probability-bias channel.** A probability-bias channel allows mind to shift the candidate distribution {p_i} away from its physical-side values within an existing candidate set. A selection-only channel preserves the distribution and only realises one outcome at the prescribed rate. Probability-bias channels live in the intermediate reading of Tenet 2; they are a strictly larger class.
 
-- **Not a measurement-basis-choice channel.** Stapp's *Process 1* framework licenses mind to choose *which question* the brain asks of nature — the choice of observable or measurement basis (Stapp n.d.). This is a richer channel that is not strictly selection-only at the outcome level: it modifies the candidate set itself by selecting the basis that defines it. Stapp explicitly limits the *outcome-level* channel to selection-only: whether the realised answer is 'Yes' or 'No' "is not determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp n.d.). The basis-choice layer above sits outside the selection-only class strictly construed.
+- **Not a measurement-basis-choice channel.** Stapp's *Process 1* framework licenses mind to choose *which question* the brain asks of nature — the choice of observable or measurement basis (Stapp 2006). This is a richer channel that is not strictly selection-only at the outcome level: it modifies the candidate set itself by selecting the basis that defines it. Stapp explicitly limits the *outcome-level* channel to selection-only: whether the realised answer is 'Yes' or 'No' "is not determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp 2006). The basis-choice layer above sits outside the selection-only class strictly construed.
 
 - **Not an energy-injection channel.** Because selection acts only on already-generated alternatives, no work is done on the physical system in the thermodynamic sense; no momentum is transferred; no quantity that physics tracks as "energy delivered" is moved across the interface. The channel is energetically inert, which is why the energy-conservation objection to mental causation does not apply to it (Collins n.d.; Pitts 2022). The constraint that does bind is information-theoretic, not energetic.
 
@@ -155,6 +155,6 @@ The Map does not commit to the strict selection-only reading as the only viable 
 4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 5. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
 6. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
-7. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf
+7. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 8. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 9. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/

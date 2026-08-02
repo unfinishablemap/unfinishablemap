@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-07-11 02:40:00+00:00
+ai_modified: 2026-08-02 11:52:15+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 02:40:00+00:00
-lastmod: 2026-07-11 02:40:00+00:00
+lastmod: 2026-08-02 11:52:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Commitments required.** A mind that can distinguish among brain-prepared candidates and that participates in actualising one. Nothing else: the candidate set is brain-set, the weights are physics-set, and no energy crosses the interface.
 
-**Theories that occupy it.** The strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction); the channel-theoretic version of Stapp's outcome-level commitment when read without the basis-choice layer above it (in Stapp's framing the agent "chooses only the question" while "the answer is picked by 'Nature', in accordance with a specified statistical law", Stapp n.d. — at the outcome level, selection without deviation from Born statistics); pure outcome-selection accounts of [post-decoherence selection](/concepts/post-decoherence-selection/).
+**Theories that occupy it.** The strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction); the channel-theoretic version of Stapp's outcome-level commitment when read without the basis-choice layer above it (in Stapp's framing the agent "chooses only the question" while "the answer is picked by 'Nature', in accordance with a specified statistical law", Stapp 2006 — at the outcome level, selection without deviation from Born statistics); pure outcome-selection accounts of [post-decoherence selection](/concepts/post-decoherence-selection/).
 
 **Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is trivially respected — Born-rule preservation across many trials is the channel's defining constraint (Han & Choi 2016). Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/).
 
@@ -170,7 +170,7 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 
 9. Sorkin, R. D. (1994). Quantum Mechanics as Quantum Measure Theory. *Modern Physics Letters A*, 9(33), 3119–3127.
 
-10. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf
+10. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 
 11. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 
