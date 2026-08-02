@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-12 18:07:16+00:00
+ai_modified: 2026-08-02 12:49:15+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 18:07:16+00:00
-lastmod: 2026-07-12 18:07:16+00:00
+lastmod: 2026-08-02 12:49:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -180,6 +180,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — How trust operates across the intersubjective void
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively intersubjective or ontologically individual
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between phenomenal subjects
+- [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) — The culpability parallel: why a corporation, like an autonomous machine, is not a terminus for blame
 
 ## References
 

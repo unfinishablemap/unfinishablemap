@@ -4,7 +4,7 @@ description: "Groups are not conscious, but collective intentionality requires i
 created: 2026-02-15
 modified: 2026-04-02
 human_modified: null
-ai_modified: 2026-07-12T18:07:16+00:00
+ai_modified: 2026-08-02T12:49:15+00:00
 draft: false
 topics:
   - "[[consciousness-and-social-understanding]]"
@@ -175,6 +175,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against di
 - [[phenomenology-of-trust]] — How trust operates across the intersubjective void
 - [[consciousness-and-intersubjectivity]] — Whether consciousness is constitutively intersubjective or ontologically individual
 - [[intersubjectivity]] — The shared space between phenomenal subjects
+- [[ai-moral-agency-and-the-responsibility-gap-under-dualism]] — The culpability parallel: why a corporation, like an autonomous machine, is not a terminus for blame
 
 ## References
 

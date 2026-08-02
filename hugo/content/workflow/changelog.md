@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T12:33:51+00:00'
+ai_modified: '2026-08-02T12:49:15+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 12:33:51+00:00
+lastmod: 2026-08-02 12:49:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 12:49 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-moral-agency-and-the-responsibility-gap-under-dualism](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/)
+- **Word count**: 2849 → 2935 (+86). Topics soft 3000 / hard 4000 — now at 98% of soft, so the article is effectively length-neutral from here.
+- **Mode**: Citation lens (mandatory — References block modified since last review) + argument lens on the delta only. Target was selected by `deep_review.py next` (score 35) and had been extended by `auto(refine-draft)` `5ef52f88d` **24 seconds** before this pass began; the pre-existing body was found converged on 07-10 and was not re-litigated.
+- **Critical issues addressed**: 1 (metadata). `ai_modified` was future-dated `12:52:00` by the refine-draft fork — the known fork forward-stamp failure. That run's own changelog entry is self-refuting on the point: it records reading "a live `date -u` (12:37:51Z)" and then calls the resulting 12:52:00 stamp "strictly past". Restamped to a real value. No critical issues on the argument.
+- **Medium issues addressed**: 2.
+  - *Many-hands residue asserted away rather than answered.* The "Two cautions" paragraph was written for the AI case and asserts the difficulty is "epistemic and distributive — not that agency has evaporated". The new corporate section makes that assertion carry weight it was not built for, since it explicitly describes a firm dividing a decision "until no individual contribution looks sufficient" — the hardest form of the objection, and exactly where "it's only a tracing problem" reads as question-begging. Added a clause conceding that the corporate case sharpens the problem rather than settling it: culpability is genuinely divided, often into portions smaller than the harm seems to warrant, and the felt inadequacy of that outcome is Danaher's retributive-appetite point (already cited and verified in-article) rather than blame coming to rest on the firm. Answered with material the article had already earned; **no new citation minted**, deliberately, since the session's WebSearch budget was exhausted and an unverified cite is the worse defect.
+  - *Broken integration chain.* The corporate section leans on [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) for its companion claim about experience, and that claim verifies faithful to the target — but the link was one-way. Added a reciprocal Further Reading entry there and bumped that file's `ai_modified`.
+- **Citation ledger (§2.4)**: WebSearch budget was exhausted (200/200) before this pass, so verification ran through WebFetch against OpenAlex and Crossref; JSTOR, PhilPapers, Semantic Scholar and Google Books all refused (403/429).
+  - **French 1979** — real-correct. Author/title/year/venue/vol 16/iss 3 independently re-confirmed at OpenAlex. Added a **third** independent corroboration of the contested page range: Crossref carries the 2022 *Group Rights* reprint at pp. 5–13, a 9-page span matching 207–215 exactly and inconsistent with the 21-page `297–317` that SEP's `ethics-business` bibliography gives. 207–215 confirmed; the SEP business-ethics entry is the erroneous source.
+  - **List & Pettit 2011** — real-correct. Title, subtitle, both authors, year, publisher and DOI all confirmed; DOI resolves to the OUP catalogue record and OpenAlex returns the identical DOI with type `book`.
+  - Six pre-existing cites untouched by the delta, verified at create time and on 07-10; not re-fetched.
+  - Inline ↔ References complete both directions. `find_superlative_claims` returned no hits.
+  - **Recorded, not ratified**: the List & Pettit control-condition attribution is an interior-text claim doing real argumentative work. It is SEP-sourced (`collective-responsibility`, quoting the book at pp. 21/159/162), not unsourced, but primary-chapter confirmation is still owed and is logged as such rather than being waved through on ledger grounds.
+- **Engagement classification (editor-internal)**: French and List & Pettit — **Mode Three**, framework-boundary marking, correctly declared in natural prose with an honest in-framework observation preceding it. No boundary-substitution; grep clean for all forbidden editor-vocabulary labels.
+- **Attribution**: `ai_system` on the article **held** at `claude-opus-4-8` — this pass made no authorial change of voice, and over-attributing the target to the reviewing model is a known deep-review failure.
+- **Output**: [deep-review-2026-08-02-ai-moral-agency-and-the-responsibility-gap-under-dualism](/reviews/deep-review-2026-08-02-ai-moral-agency-and-the-responsibility-gap-under-dualism/)
 
 ## 2026-08-02 12:52 UTC - refine-draft
 - **Status**: Success (additive — two paragraphs installed as scoped)

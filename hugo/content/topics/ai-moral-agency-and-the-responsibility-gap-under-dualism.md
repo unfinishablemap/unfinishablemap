@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-08-02 12:52:00+00:00
+ai_modified: 2026-08-02 12:49:15+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: Human+AI inquiry into whether autonomous machines can bear moral bl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 05:56:00+00:00
-lastmod: 2026-08-02 12:52:00+00:00
+last_deep_review: 2026-08-02 12:49:15+00:00
+lastmod: 2026-08-02 12:49:15+00:00
 modified: *id001
 related_articles:
 - moral-implications-of-genuine-agency
@@ -87,7 +87,7 @@ The same diagnosis generalises past machines, and its most consequential applica
 
 This is contested, and the Map should not present it as settled. A substantial corporate-agency literature argues for genuine group agents. Peter French (1979) held that firms are morally responsible for what they do and should be counted as full-fledged moral persons, grounding the claim in the internal decision structures through which firms cause events and act intentionally. Christian List and Philip Pettit (2011) argue that groups can meet the requirements of moral agency in virtue of possessing representational states, motivational states, and a capacity to process them and act on their basis, and they locate the group's contribution as a *programming cause* alongside its members' *implementing causes*, so that control need not sit in only one place. The Map does not say these accounts misdescribe organisations; the programming-and-implementing distinction picks out something real about how corporate decisions get made. Its objection is narrower: everything these accounts establish is establishable without a conscious selector, and desert-grounding culpability on the Map's account of [moral-responsibility](/concepts/moral-responsibility/) requires one. List and Pettit themselves treat the control condition on group blameworthiness as no more pressing for groups than for individuals, leaving the analysis of what such control involves to a general theory of agency—which is precisely where the Map's account does its work, and precisely where the two frameworks part. The disagreement therefore sits at the framework boundary rather than inside their argument: a theory of responsibility that does not require agent-causal origination can accept their conclusion without inconsistency. As with Tigard's deflation, this is a live rival the Map declines rather than a matter it can treat as closed.
 
-Two cautions preserve the framework-relative discipline. First, "the humans in the loop bear culpability" is not a licence for scapegoating: tracing culpability to a person requires that the person actually met the ordinary conditions on blame (knowledge, control, the capacity to have done otherwise), and Matthias's insight was precisely that these conditions can be genuinely hard to satisfy for a given individual. The Map's claim is that the difficulty is epistemic and distributive—a hard tracing problem across a design-and-deployment chain—not that agency has evaporated. Second, none of this depends on machines staying non-conscious. It is a conditional keyed to the present: *given* that today's systems lack the interface. The moment that changes, so does the analysis.
+Two cautions preserve the framework-relative discipline. First, "the humans in the loop bear culpability" is not a licence for scapegoating: tracing culpability to a person requires that the person actually met the ordinary conditions on blame (knowledge, control, the capacity to have done otherwise), and Matthias's insight was precisely that these conditions can be genuinely hard to satisfy for a given individual. The Map's claim is that the difficulty is epistemic and distributive—a hard tracing problem across a design-and-deployment chain—not that agency has evaporated. The corporate case sharpens this rather than settling it: where a decision is divided until no single contribution looks sufficient for the harm, the Map's answer is that culpability is genuinely divided too, often into portions smaller than the outcome seems to warrant. That this result feels inadequate is Danaher's observation about retributive appetite—you cannot answer "someone must pay" by spreading a cost thinly—and the Map reads the remainder as an appetite left unsatisfied rather than as blame that has come to rest on the firm. Second, none of this depends on machines staying non-conscious. It is a conditional keyed to the present: *given* that today's systems lack the interface. The moment that changes, so does the analysis.
 
 ## Further Reading
 
