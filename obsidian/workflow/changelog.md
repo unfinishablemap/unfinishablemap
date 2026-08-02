@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T16:23:57+00:00'
+ai_modified: '2026-08-02T16:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 16:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/channel-class-taxonomy]]
+- **Word count**: 2552 → 2583 total (+31, of which +26 is the new Carroll References entry); **authored body 2177 / 2500 soft threshold** after decomposing 149 words Further Reading + 266 words References. The `soft_warning` status is reference-apparatus inflation, not real over-length; no compensating trim made or needed.
+- **Why it re-qualified**: the same-day deep-review of [[topics/selection-only-mind-influence]] upgraded this article's Stapp `n.d.` cite to the published *Zygon* 2006 record, bumping `ai_modified` without moving `last_deep_review`. Expected a converged no-op confirming that inherited change; found two criticals four prior passes had not reached.
+- **Critical issues addressed**: 2
+  - **Quote fidelity — Carroll challenge off by one word.** Carried `"what particles is the soul made of?"`; Carroll's verbatim wording (verified at the live Scientific American source) is *"what particles is **that** soul made of?"*. Same defect class as the Stapp fabricated-verbatim caught on 2026-07-11, at smaller scale. Corpus sweep across `obsidian/`, `archive/`, and `hugo/content/` put the defective string in exactly one serving body — the sibling [[concepts/conservation-laws-and-mental-causation]] already had it right, so single-locus drift, not a family. Fixed verbatim, `(Carroll 2011)` added inline, References entry minted (renumbered 2–15; numbers are not referenced inline).
+  - **Class-2 bias parameter defined inconsistently with its own formula.** The spec defined ε as `max{p_i' − p_i}` (a single outcome's deviation) and then quoted the rate as `ε²/(2 ln 2)` bits per trial. Under that definition the correct binary small-bias rate is `2ε²/ln 2` — **four times** larger. The `ε²/(2 ln 2)` form holds only when ε is the *spread* `max{p_i'} − min{p_i'}`, which is the convention [[concepts/selection-only-channel]] derives and which five other articles use consistently (both corpus numeric checks, ε ≈ 10⁻⁴ → 7 × 10⁻⁹ and ε ≈ 10⁻³ → 7 × 10⁻⁷ bits, confirm the spread reading). The formula was right; the *definition* had drifted, at this one locus. Fixed, with a pointer to the sibling derivation. Also dropped "the standard small-bias Shannon formula" — no formula bears that name.
+- **Medium issues addressed**: 2 — inverted inference in Cross-Class Invariants ("easiest to detect *which is why* no evidence was found" states detectability as the *cause* of the null result; rewritten so the null result is what detectability makes damaging); `description` trimmed 185 → 158 chars, purely subtractive.
+- **Citation web-verify**: Stapp 2006 verified independently at Crossref **and** OpenAlex — the `2005` segment inside DOI `10.1111/j.1467-9744.2005.00762.x` is genuine Wiley registration-year encoding on a 2006 *Zygon* 41(3) article and **must not be "corrected"**; neither registry carries a page range, and this article correctly omits pages. Stapp verbatim quote re-verified by re-downloading QID.pdf and re-parsing (7,685 words) — both fragments contiguous at the source. Pati 2026 (arXiv:2601.13012) re-verified at arXiv. Remaining entries carry publisher-verified verdicts from the 06-02/07-11 ledgers. Inline ↔ References cross-check now complete in both directions. `find_superlative_claims` empty. Wiley landing page paywalled (HTTP 402); WebSearch budget was exhausted, so all verification ran through WebFetch against registries and primary sources.
+- **Engagement classifications**: catalogue article with one named-opponent engagement — Carroll on Class 5: **Mode Three (framework-boundary marking), conceded** — the article grants the challenge is correctly aimed at energy-injection dualism and declines the class rather than defending it. Correct mode. Label-leakage scan clean.
+- **Calibration**: no possibility/probability slippage. "Menu, not a verdict" and the tenet-coherence-is-not-evidence disclaimer intact; the Class-2 fix *tightened* the stated rate rather than loosening it.
+- **Deferred** (not this file): Stapp 2006 `599–616` page range asserted by six research notes and `topics/quantum-state-inheritance-in-ai` is registry-unconfirmed; `objections-to-interactionism` cites the same Carroll argument as "Carroll (2016)" where two other articles now cite the 2011 blog post. Both folded into whichever pass next touches those files rather than minting tasks.
+- **Output**: [[reviews/deep-review-2026-08-02-channel-class-taxonomy]]
 
 ## 2026-08-02 16:23 UTC - research-topic
 - **Status**: Success

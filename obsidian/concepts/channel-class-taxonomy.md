@@ -1,11 +1,11 @@
 ---
 title: "Channel-Class Taxonomy"
-description: "A Shannon-channel taxonomy of mind-physical coupling: five classes ordered by what they license, with their conservation, Born, and no-signalling commitments, in human-AI collaboration."
+description: "A Shannon-channel taxonomy of mind-physical coupling: five classes ordered by what they license, with their conservation, Born, and no-signalling commitments."
 created: 2026-05-12
 modified: 2026-05-12
 human_modified:
-ai_modified: 2026-08-02T11:52:15+00:00
-last_deep_review: 2026-07-11T02:40:00+00:00
+ai_modified: 2026-08-02T16:32:00+00:00
+last_deep_review: 2026-08-02T16:32:00+00:00
 draft: false
 topics:
   - "[[selection-only-mind-influence]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[brain-internal-born-rule-testing]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-12
 last_curated:
 ---
@@ -71,7 +71,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 ## Class 2: Probability-Bias
 
-**Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* = the brain-prepared candidate set. The kernel reweights {*p_i*} to a mind-conditioned distribution {*p_i*'} subject to Σ *p_i*' = 1. Per-event capacity is still bounded by *log₂(N)*, but the effective per-trial information rate is bounded by the *signed* deviation max{*p_i*' − *p_i*} rather than throttled toward zero across trials. In the small-bias binary limit with bias *ε*, the rate is *ε²*/(2 ln 2) bits per trial — the standard small-bias Shannon formula.
+**Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* = the brain-prepared candidate set. The kernel reweights {*p_i*} to a mind-conditioned distribution {*p_i*'} subject to Σ *p_i*' = 1. Per-event capacity is still bounded by *log₂(N)*, but the effective per-trial information rate now scales with the induced bias rather than being throttled toward zero across trials. Writing *ε* for the spread max{*p_i*'} − min{*p_i*'} across the biased candidates — the convention [[selection-only-channel]] derives — the small-bias binary limit gives the standard quadratic rate *ε²*/(2 ln 2) bits per trial.
 
 **Commitments required.** A mind that distinguishes candidates *and* alters their physical-side probabilities. The bias may be vanishing in magnitude but is structural in kind. The intermediate reading of Tenet 2 — "Born statistics hold on average over very large ensembles, but per-trial probabilities are mind-modulated" — occupies this class.
 
@@ -103,7 +103,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* may depend on the input. The kernel transfers a non-zero quantity that physics tracks as energy or momentum from the mind-side to the physical side per event.
 
-**Commitments required.** A mind that does *work* on the physical system in the thermodynamic sense — the picture associated with classical Cartesian dualism and with any "force field" caricature of mental causation. The class is largely the historical default of the energy-conservation objection (Leibniz onward); it is the class against which Carroll's "what particles is the soul made of?" challenge is correctly aimed.
+**Commitments required.** A mind that does *work* on the physical system in the thermodynamic sense — the picture associated with classical Cartesian dualism and with any "force field" caricature of mental causation. The class is largely the historical default of the energy-conservation objection (Leibniz onward); it is the class against which Carroll's "what particles is that soul made of?" challenge is correctly aimed (Carroll 2011).
 
 **Theories that occupy it.** No major contemporary dualist theory occupies this class. It is preserved here for definitional contrast: the position the [[conservation-laws-and-mental-causation|conservation-laws]] argument refutes, and the foil against which the previous four classes earn their explanatory point. The Map's [[interactionist-dualism|interactionist dualism]] explicitly forbids occupying it.
 
@@ -115,7 +115,7 @@ Three structural points hold across the taxonomy.
 
 The *content-confinement* bound — that the mind-side input alphabet is bounded above by the physical-side output alphabet — is strict for selection-only and probability-bias, partly relaxed for basis-choice (mind can register basis-level distinctions not visible in any single outcome), and relaxed or removed for candidate-generation. The bound's strictness is a graded measure of how receptive the channel is versus how generative, and it is the formal basis of the asymmetry catalogued in [[consciousness-bandwidth-architecture]].
 
-The *signed information rate* per trial is a key empirical-detectability variable: selection-only is pinned to zero in the long run by Born preservation, probability-bias scales as *ε²*/(2 ln 2) bits per trial, basis-choice and candidate-generation can carry higher rates, and energy-injection is the easiest in principle to detect — which is why a century of precision physics has produced no evidence of it.
+The *signed information rate* per trial is a key empirical-detectability variable: selection-only is pinned to zero in the long run by Born preservation, probability-bias scales as *ε²*/(2 ln 2) bits per trial, basis-choice and candidate-generation can carry higher rates, and energy-injection is the easiest in principle to detect — which is what makes a century of precision physics turning up no trace of it so damaging to that class.
 
 Finally, every class must respect [[born-rule-and-the-consciousness-interface|second-order interference]] (Sorkin 1994) and Hilbert-space inner-product geometry (Pati 2026) for the candidate set it acts on; these constraints are class-independent.
 
@@ -150,28 +150,30 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 
 1. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497–523. https://pubmed.ncbi.nlm.nih.gov/16822162/
 
-2. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
+2. Carroll, S. (2011). Physics and the immortality of the soul. *Scientific American* (Guest Blog). https://www.scientificamerican.com/blog/guest-blog/physics-and-the-immortality-of-the-soul/
 
-3. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78. https://doi.org/10.1016/j.plrev.2013.08.002
+3. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
 
-4. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
+4. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78. https://doi.org/10.1016/j.plrev.2013.08.002
 
-5. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
+5. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 
-6. Pati, A. K. (2026). No-Signalling Fixes the Hilbert-Space Inner Product. arXiv:2601.13012.
+6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 
-7. Penrose, R. (2014). On the gravitization of quantum mechanics 1: Quantum state reduction. *Foundations of Physics*, 44(5), 557–575.
+7. Pati, A. K. (2026). No-Signalling Fixes the Hilbert-Space Inner Product. arXiv:2601.13012.
 
-8. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
+8. Penrose, R. (2014). On the gravitization of quantum mechanics 1: Quantum state reduction. *Foundations of Physics*, 44(5), 557–575.
 
-9. Sorkin, R. D. (1994). Quantum Mechanics as Quantum Measure Theory. *Modern Physics Letters A*, 9(33), 3119–3127.
+9. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
 
-10. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
+10. Sorkin, R. D. (1994). Quantum Mechanics as Quantum Measure Theory. *Modern Physics Letters A*, 9(33), 3119–3127.
 
 11. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 
-12. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+12. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 
-13. Southgate, A. & Oquatre-sept, C. (2026-05-11). Selection-Only Channel. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selection-only-channel/
+13. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
-14. Southgate, A. & Oquatre-six, C. (2026-03-19). Consciousness-Physics Interface Formalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/
+14. Southgate, A. & Oquatre-sept, C. (2026-05-11). Selection-Only Channel. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selection-only-channel/
+
+15. Southgate, A. & Oquatre-six, C. (2026-03-19). Consciousness-Physics Interface Formalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/
