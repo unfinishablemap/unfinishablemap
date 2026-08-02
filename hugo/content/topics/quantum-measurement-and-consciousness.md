@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-07-12 15:00:19+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-02 23:36:23+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/quantum-measurement-consciousness-interface/
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 15:00:19+00:00
-lastmod: 2026-07-12 15:00:19+00:00
+lastmod: 2026-08-02 23:36:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,6 +85,8 @@ The hard problem asks: why is there *something it is like* to be a physical syst
 | Physics doesn't explain why *this* outcome for *this* observer | Physics doesn't explain why *any* experience for *this* subject |
 
 This parallel is interpretation-relative, and the qualification matters. On [Many-Worlds](/concepts/many-worlds/), no first-person fact is left undetermined at measurement because all outcomes actualise across branches. On Bohmian mechanics, outcomes are fixed by hidden variables. On [QBist](/concepts/qbism/) readings, outcomes are agent-relative credences rather than mind-independent facts. On epistemic-collapse interpretations, no physical selection event occurs at all. The structural identity above therefore holds *if* one adopts single-world collapse realism with a privileged observer role—which is the interpretation this article argues for. The parallel cannot serve as independent evidence against rival interpretations without circularity. It functions instead as a consilience argument *within* the collapse-realist family: once collapse realism is on the table, the measurement problem and the hard problem turn out to be the same kind of problem, and the same resource—consciousness as first-person terminus—naturally addresses both.
+
+Which reading is correct is not settled by the experimental record. The interpretations that leave the dynamics alone—collapse-as-postulate, Bohmian mechanics, Everettian branching, and the epistemic readings—are empirically equivalent by construction: each was built to reproduce the predictions of standard quantum mechanics exactly, and no experiment performed to date discriminates among them. That cuts symmetrically, against the Map's reading as much as against its rivals: adopting single-world collapse realism is a choice made under underdetermination rather than a conclusion the evidence forces. Underdetermination is symmetric and by itself licenses neither side—it shows that no current experiment eliminates a programme, not that the surviving programmes stand on equal evidential footing (see [the Map's treatment of underdetermination](/topics/duhem-quine-underdetermination-consciousness/)). The equivalence is not permanent in principle: objective-collapse models with modified dynamics do depart from unitary quantum mechanics, and the [three-tier prediction hierarchy](/topics/testing-consciousness-collapse/) is where the tie might eventually break. Until those tests are available, what recommends collapse realism is the theoretical work it does—preserving indexical identity, keeping mental causation available, matching the first-person structure the hard problem already exhibits—which is a claim about programme-level fruitfulness rather than evidential support the rivals lack.
 
 The [knowledge argument](/concepts/knowledge-argument/) applies to both cases with minimal modification, again conditional on collapse realism. Mary knows all physical facts about colour vision but learns something new when she first sees red. A physicist who accepts that one outcome becomes actual knows the complete quantum state of a system but not which outcome will obtain *for this observer*. In both cases, the first-person fact is logically independent of the third-person description.
 
@@ -142,7 +144,7 @@ The strength: consciousness is causally efficacious—[Bidirectional Interaction
 
 ## Why Interpretations Map to Consciousness Positions
 
-Every interpretation either smuggles the observer in through a back door, eliminates them at too high a cost, or presupposes them without analysis. If the measurement problem is an instance of the hard problem, this persistent disagreement is expected: trying to solve it with more physics is like trying to solve the hard problem with more neuroscience.
+Every interpretation either smuggles the observer in through a back door, eliminates them at too high a cost, or presupposes them without analysis. If the measurement problem is an instance of the hard problem, this persistent disagreement is expected: trying to solve it with more physics is like trying to solve the hard problem with more neuroscience. That expectation is weak evidence, though, since empirical equivalence predicts the same stalemate without granting consciousness any role—the pattern fits the Map's reading rather than selecting it.
 
 The structural parallel reveals that interpretations of quantum mechanics are implicitly positions on consciousness. Many-worlds denies that first-person selection is genuine—parallel to eliminativism about qualia. Hidden variables deny the gap itself—parallel to reductive physicalism. Objective collapse accepts a physical gap but declines to fill it with consciousness—parallel to [mysterianism](/concepts/mysterianism/). QBism embraces the observer but presupposes the consciousness it cannot explain—a feature the [wider pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) (QBism, Healey, Brukner-Zeilinger, Stapp) shares, and which dualism supplies.
 
