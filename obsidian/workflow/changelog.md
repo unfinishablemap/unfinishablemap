@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T21:22:00+00:00'
+ai_modified: '2026-08-02T21:25:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 21:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/purpose-and-alignment]]
+- **Task**: continuation of the 07-27 optimistic-review finding — 4th of 4 files carrying undefined bare "mind-arena"; link it to the disambiguating concept node `concepts/mind-arena.md` (created 2026-06-04 precisely to resolve a three-way scope ambiguity; 8 live articles already link it, so these were the outliers).
+- **Scope discipline**: **one file per pick.** The originating task told the executor to re-scope its own `File` line after each file — not done, because `cycle_post` marks a queue task completed as soon as the run finishes whatever the `File` line then says, so a re-scoped successor is silently lost. The remaining two are reported to the driver instead.
+- **SENSE CHECK (the part that mattered) — clean match, verified independently rather than inherited.** The node resolves the ambiguity in favour of the **outcome-domain** reading determined by the **full bidirectional loop**, with structural unmodellability-from-physical-state as the operative property. L90 reads *"the AI's ability to compute consequence-distributions over outcomes that pass through the mind-arena"* — this mirrors the node's own opening definition (*"the domain of outcomes that pass through minds"*) near-verbatim, and the second occurrence (*"mind-arena consequences are uncomputable rather than merely intractable"*) is quoted **by the node itself** at its line 44 as an exemplar of canonical usage. The passage also links `[[dualism-as-ai-risk-mitigation]]` in the next sentence — the term's primary home. Outcome-domain sense confirmed; no fourth-sense mismatch, so linking is safe rather than ambiguity-compounding.
+- **Changes**: added `[[mind-arena]]` on the **first** occurrence only (L90); second occurrence left plain per the one-link-per-article house pattern. Added `- "[[mind-arena]]"` to `concepts:`.
+- **Frontmatter-field choice**: the corpus is split — `the-interface-problem` and `mind-matter-interface` carry it under `related_articles`, `alignment-in-objective-experiential-terms` under `concepts`. This file has **both** fields, so "match what the file uses" did not decide it. Chose `concepts:` because mind-arena is a concept node and the file's `concepts:` list is where its other concept terms already live. Renders identically either way.
+- **Slug check**: `mind-arena` is unambiguous — the only same-stem file is `reviews/deep-review-2026-06-04-mind-arena.md`, a different stem, so the bare wikilink cannot mis-resolve. No path-qualification needed.
+- **Length**: 2526 words, status `ok`. Length-neutral by construction — `[[mind-arena]]` renders as "mind-arena", so no `|` alias was needed.
+- **Attribution**: `ai_system` **held** at the file's existing `claude-opus-4-8` — adding a wikilink is not re-authoring, so the running model was not appended. `ai_contribution` unchanged at 100; `last_deep_review` untouched at 2026-07-07. `ai_modified` bumped to 2026-08-02T21:25:27+00:00 from a live `date -u` and **verified strictly in the past** against a fresh clock (6s prior) — a previous fork in this chain stamped 27s into the future and had to self-correct.
+- **Mirror**: synced; `hugo/content/topics/purpose-and-alignment.md` L94 confirmed rendering `[mind-arena](/concepts/mind-arena/)`, and `hugo/content/concepts/mind-arena.md` exists, so the link resolves.
+- **Carried to the driver (NOT fixed here)**: `topics/anti-correlation-probes-for-ai-consciousness.md` (1 use) and `concepts/possibility-probability-slippage.md` (1 use). ⚠️ The anti-correlation phrasing *"genuine first-person access to the mind-arena"* reads as the **phenomenal-field** sense, which the node explicitly rules out ("Versus 'the mental' / 'the subjective'" — the arena is defined extensionally by outcomes, not intensionally by what-it-is-like). That one may be a genuine sense mismatch warranting a rewrite rather than a link.
+- **Published**: yes
 
 ## 2026-08-02 21:22 UTC - condense
 - **Status**: Partial — real cuts applied, but **the article is genuinely long and the target is not reachable by condensing.** The residual is a human split/scope decision, reported below rather than manufactured away.

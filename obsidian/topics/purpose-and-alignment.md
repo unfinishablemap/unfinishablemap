@@ -4,7 +4,7 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-08-02T21:25:27+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
+  - "[[mind-arena]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
 related_articles:
@@ -87,7 +88,7 @@ Three implications follow from this analysis:
 
 **Third: Consciousness as constraint.** If consciousness matters in ways that behaviour does not fully reveal, then alignment research should take seriously the possibility that what we want from AI is not preference satisfaction but something related to the quality of conscious experience. This remains vague—we do not have a science of flourishing. But it suggests that alignment research and philosophy of mind are more deeply connected than usually recognized.
 
-The dualist commitment carries beyond alignment-target selection. If consciousness is irreducible and bidirectionally causal, the standard expected-utility argument for AI catastrophe also loses a load-bearing assumption: the AI's ability to compute consequence-distributions over outcomes that pass through the mind-arena. [[dualism-as-ai-risk-mitigation]] develops this case—under interactionist dualism, mind-arena consequences are uncomputable rather than merely intractable, which structurally narrows the domains in which a rational AI can compute expected returns. The same metaphysics that complicates alignment-target specification also constrains the consequence-prediction the threat model relies on.
+The dualist commitment carries beyond alignment-target selection. If consciousness is irreducible and bidirectionally causal, the standard expected-utility argument for AI catastrophe also loses a load-bearing assumption: the AI's ability to compute consequence-distributions over outcomes that pass through the [[mind-arena]]. [[dualism-as-ai-risk-mitigation]] develops this case—under interactionist dualism, mind-arena consequences are uncomputable rather than merely intractable, which structurally narrows the domains in which a rational AI can compute expected returns. The same metaphysics that complicates alignment-target specification also constrains the consequence-prediction the threat model relies on.
 
 ## Experiential Alignment: An Alternative Framework
 
