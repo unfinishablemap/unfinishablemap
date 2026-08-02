@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T10:28:25.287592+00:00'
-session_count: 18176
-cycle_position: 12250
+last_updated: '2026-08-02T10:37:54.179543+00:00'
+session_count: 18177
+cycle_position: 12251
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-02T09:43:50.176571+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-02T07:13:40.663910+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-02T09:45:27.318553+00:00'
+  agentic-social: '2026-08-02T10:39:06.666850+00:00'
   embed-videos: '2026-08-02T08:19:03.627840+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
@@ -33,7 +29,7 @@ last_runs:
   collect-claude-review: '2026-08-02T07:02:21.870133+00:00'
   combine-outer-reviews: '2026-07-31T05:20:40.392794+00:00'
   collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
-  positions-evolve: '2026-07-31T08:28:28.347712+00:00'
+  positions-evolve: '2026-08-02T10:37:54.179543+00:00'
   check-model-fallback: '2026-08-02T06:48:07.138586+00:00'
   harvest-research-subjects: '2026-08-02T08:45:31.107682+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-08-02'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-02'
@@ -193,13 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-02'
   outcome: success
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
-    date: '2026-07-26T10:31:52.460769+00:00'
-    topics:
-    - machine-consciousness
-    - moral-implications-of-genuine-agency
   - url: https://unfinishablemap.org/concepts/articulability-of-q1/
     date: '2026-07-26T11:22:32.289900+00:00'
     topics:
@@ -867,6 +858,13 @@ agentic_social:
     - the-steelman-for-value-blind-selection
     - phenomenal-value-realism
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/essential-vs-contingent-consciousness/
+    date: '2026-08-02T10:39:06.666796+00:00'
+    topics:
+    - indian-philosophy-of-mind
+    - hard-problem-of-consciousness
+    - personal-identity
+    - the-convergence-argument-for-dualism
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
