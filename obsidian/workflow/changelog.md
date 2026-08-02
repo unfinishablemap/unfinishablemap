@@ -1,9 +1,75 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T07:28:00+00:00'
+ai_modified: '2026-08-02T07:37:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 07:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Word count**: 3519 → 3548 (+29; ~22 is the new Snowden reference entry — prose length-neutral)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 1
+- **Enhancements made**: 5 redundancy trims funding the accuracy work
+- **Output**: [[reviews/deep-review-2026-08-02-targeted-lesion-discriminating-tests]]
+
+**Why this pass found anything on a 4th review.** Three prior passes verified the
+bibliographic tuples and today's refine-draft (`7a84c315d`) fixed the BBS page ranges,
+so the metadata axis was exhausted. The unchecked surface was **citation framing** —
+whether each cite supports the claim it is attached to. It carried three defects that
+correct metadata had been shielding.
+
+**Lai and Siegel 1990 — wrong species and wrong method.** Cited for "occasional human
+cases" of REM-disrupting brainstem lesions. PubMed (*J Neurosci* 10(8):2727-34): the
+study is *stimulation* of midbrain and rostral pontine reticular formation in
+**decerebrate cats**. The article's own next paragraph says the brainstem case is
+"rarely available in humans" — the citation contradicted its own surroundings.
+Re-framed to the paper's real result; the human-scarcity point now stated directly
+rather than falsely cited.
+
+**Markowitsch et al. 2003 — lesion patients that are healthy volunteers.** Cited
+alongside Klein 2014 for "patients with focal lesions who lose the felt pastness of
+remote memories." PubMed: "we studied 13 normal subjects with functional magnetic
+resonance imaging." Split the cites — Klein keeps the patient claim, Markowitsch
+re-framed as the fMRI localisation of autobiographical ecphory to lateral and medial
+prefrontal areas, which is both what it shows and what motivates the article's
+medial-PFC pairing. Re-framed, not deleted. Also dropped the unwarranted "with focal
+lesions" qualifier — focality is the article's own discriminating criterion.
+
+**The previous review's fix left an unsupported sentence live.** The 2026-07-08 pass
+correctly relocated a mis-placed Bonnì 2015 cite out of the medial-PFC section, but
+left the host claim standing uncited: "TMS studies targeting medial PFC during
+autobiographical-memory tasks have been conducted." A PubMed sweep of TMS × medial
+PFC × autobiographical memory finds none — the stimulation work on this network
+targets laterally and posteriorly accessible nodes. Rewrote to the verified negative:
+no perturbation study exists for this pairing, medial PFC sits beyond the reliable
+depth and focality of standard figure-of-eight coils, and the pairing is the least
+tractable of the three. This **strengthens** the design space — the three pairings now
+run from a demonstrated human focal target (ATN) through a partially demonstrated one
+(precuneus) to one no modality reaches. Classic residue shape: relocating a wrong
+citation exposed a sentence nobody re-read.
+
+**Semantic dementia priority over-claim.** "First systematically described by Hodges et
+al. (1992)" — OpenAlex confirms **Snowden, Goulding & Neary (1989)**, *Behavioural
+Neurology* 2(3), 167–182, doi:10.1155/1989/124043, a three-patient series that named
+the syndrome three years earlier. Now "named by Snowden et al. (1989) and characterised
+in detail by Hodges et al. (1992)"; Snowden added to References.
+
+**BBS sibling check — family closed.** Today's refine-draft fixed commentary-inclusive
+page ranges at Pylyshyn 2002 and Aggleton & Brown 1999. This file holds a second BBS
+target article, **Suddendorf & Corballis 2007**; re-verified at PubMed
+("299-313; discussion 313-51") and already correct. Aggleton & Brown re-verified too
+("425-44; discussion 444-89") — today's fix is right. No sibling defect here.
+
+**Calibration.** Every change moves confidence *down* (studies-conducted → no study
+exists; technology "reaching maturity" → "cannot deliver all three"). No tenet used to
+upgrade an evidential tier. Inline ↔ References cross-check: all 20 entries cited, no
+orphans either direction. Editor-vocabulary leakage scan clean. `ai_system` held at
+`claude-opus-4-7` per this file's convention.
+
+**Note.** WebSearch budget was exhausted mid-pass (200/200); all verification above ran
+through WebFetch against PubMed and OpenAlex, which remained available.
 
 ## 2026-08-02 07:27 UTC - refine-draft
 - **Status**: Success
