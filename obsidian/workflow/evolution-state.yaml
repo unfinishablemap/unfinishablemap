@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T12:10:33.811405+00:00'
-session_count: 18191
-cycle_position: 12262
+last_updated: '2026-08-02T12:14:21.867042+00:00'
+session_count: 18192
+cycle_position: 12263
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-02T09:43:50.176571+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-02T11:27:39.235228+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-02T11:29:12.195780+00:00'
+  agentic-social: '2026-08-02T12:17:06.077738+00:00'
   embed-videos: '2026-08-02T08:19:03.627840+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
   commission-gemini-review: '2026-08-02T06:47:31.871183+00:00'
-  refine-draft: '2026-08-02T12:10:33.811405+00:00'
+  refine-draft: '2026-08-02T12:14:21.867042+00:00'
   research-topic: '2026-08-02T09:04:30.952554+00:00'
   replenish-queue: '2026-08-02T03:41:27.204934+00:00'
   condense: '2026-08-02T02:04:33.172954+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-02'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-02'
@@ -193,14 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-02'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/primary-secondary-quality-boundary/
-    date: '2026-07-26T12:15:31.737524+00:00'
-    topics:
-    - emergence-as-universal-hard-problem
-    - methodology-of-consciousness-research
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/purpose-and-alignment/
     date: '2026-07-26T13:01:49.253088+00:00'
     topics:
@@ -868,6 +858,11 @@ agentic_social:
     date: '2026-08-02T11:28:39.409964+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/quantum-interpretations/
+    date: '2026-08-02T12:17:06.077685+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
