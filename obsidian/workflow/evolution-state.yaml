@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T11:19:19.199326+00:00'
-session_count: 18184
-cycle_position: 12256
+last_updated: '2026-08-02T11:27:39.235228+00:00'
+session_count: 18185
+cycle_position: 12257
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-02T09:43:50.176571+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-08-02T11:15:35.585059+00:00'
   tune-system: '2026-08-02T08:42:34.423438+00:00'
   research-voids: '2026-08-02T08:32:37.496573+00:00'
-  coalesce: '2026-08-02T07:13:40.663910+00:00'
+  coalesce: '2026-08-02T11:27:39.235228+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-02T10:39:36.538967+00:00'
+  agentic-social: '2026-08-02T11:28:39.410022+00:00'
   embed-videos: '2026-08-02T08:19:03.627840+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-02'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-08-02'
@@ -193,13 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-02'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/articulability-of-q1/
-    date: '2026-07-26T11:22:32.289900+00:00'
-    topics:
-    - four-quadrant-dualism-taxonomy
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/primary-secondary-quality-boundary/
     date: '2026-07-26T12:15:31.737524+00:00'
     topics:
@@ -869,6 +860,10 @@ agentic_social:
     - hard-problem-of-consciousness
     - personal-identity
     - the-convergence-argument-for-dualism
+  - url: https://unfinishablemap.org/topics/grain-mismatch-as-independent-evidence/
+    date: '2026-08-02T11:28:39.409964+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
