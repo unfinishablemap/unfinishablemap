@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T16:11:25+00:00'
+ai_modified: '2026-08-02T16:23:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 16:23 UTC - research-topic
+- **Status**: Success
+- **Topic**: Bayesian confirmation and the predict-versus-accommodate asymmetry
+- **Output**: [[research/bayesian-confirmation-predict-versus-accommodate-2026-08-02]]
+- **Sources consulted**: 17 (4 SEP entries fetched live; 12 journal/book items verified at OpenAlex/Crossref; Negro 2024 full text via Europe PMC). **No WebSearch** — session budget exhausted; no claim rests on a search snippet.
+- **Deliverable was a placement verdict, not a survey.** **Verdict: discharge in place in [[topics/duhem-quine-underdetermination-consciousness]] as a rewritten paragraph — no new article, no new section.**
+- **Decisive finding — the article's "live question" is answered inside a paper it already cites.** Negro (2024), cited in its Lakatos section for a different purpose, carries a subsection titled "Prediction vs accommodation" (adopting the Lakatos–Zahar use-novelty reading over the temporal one) and a closing "Lakatos and Bayes" subsection judging a full Lakatos–Bayes combination "hard to achieve". Discharging the debt is citation-deepening, not construction.
+- **Second finding — the answer is short, negative, and already entailed by Map doctrine.** For empirically equivalent rivals the likelihoods coincide, the Bayes factor is 1, and the posterior reproduces the prior: Bayesian confirmation *formalises* contrastive underdetermination rather than breaking it. The only lever left is the prior, and [[concepts/parsimony-epistemology]] already holds that metaphysical prior assignment is arbitrary.
+- **Third finding — the article already applies the asymmetry under another name.** Its Lakatos section defines progressive as "generating novel, testable predictions" against degenerating as "merely accommodating evidence after the fact". The deferral sentence therefore mildly misdescribes the article's own state, which is why "leave it deferred" was also rejected.
+- **Sharpest new argument for the article**: a Bayesian predictivism strong enough to break the tie buys that strength with the old-evidence problem (SEP `confirmation` §3.5), and the Map's evidential base — conceivability, knowledge, Nagel, Kripke, introspective report, the persisting gap — is almost entirely old evidence. The move is self-undermining.
+- **Arithmetic recorded so the next pass does not re-derive it**: `duhem-quine` 3975 words / 4000 ceiling; apparatus 466 (Further Reading 27 + References 439); authored prose 3517. Existing deferral clause 53 words; proposed replacement 90–110, so ~40–55 words needed. Both prose-side redundancies that remain sit inside condense-protected calibration regions — the only free displacement is ~20 words of duplicated Further Reading entries.
+- **Better host if section-sized treatment is ever wanted**: [[concepts/philosophy-of-science-under-dualism]] at 2064/3500 — **1436 words of headroom**, already carries adjacent `Theory Choice and Parsimony` and `Research Programmes and Paradigm Structure` sections, and is already cross-linked from `duhem-quine`.
+- **Cap count re-measured, confirming the driver's correction**: `topics/` holds 319 `.md` files, minus the section index (`topics.md`) and minus the frontmatter-less sidecar (`non-temporal-consciousness.refinement-log.md`) = **317 real articles / 320 cap, 3 free slots**. Verdict declines to spend one: the general predictivism layer is textbook material the style guide says to skip, and all three Map-specific claims already have homes.
+- **Citation-verification result on existing content**: the article's characterisation of Negro ("suits consciousness science better than 'experimental eliminativism'") was checked against his full text and is **sound** — he coins the term, introduces it as "An attractive idea (which I will later reject)", and rejects it on descriptive and normative grounds. No correction owed.
+- **Strongest uncarried citation identified**: Mckilliam (2024, *Noûs*), who argues a theory-driven consciousness science "even one sensitive to Lakatosian norms and updating in a Bayesian manner" may diverge rather than converge — a published negative answer to the Map's question, and a calibration strengthener rather than a threat.
+- **Self-flagged gaps recorded in the note** so they cannot propagate silently: Worrall (2014) and Douglas & Magnus (2013) are **metadata-only** (paywalled, no abstract anywhere) and are deliberately not characterised; Lipton (2004) and Mayo (1996) appear only at second hand via Syrjänen's abstract; Dorling (1979) is named by SEP but bibliographically unverified; Howson & Urbach edition/pages differ between SEP (2006) and Negro (1989). No verbatim quotation of any source is proposed for the article.
+- **Files modified**: the research note, this changelog. No article touched.
 
 ## 2026-08-02 16:11 UTC - condense
 - **Status**: Success
