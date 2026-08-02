@@ -1,14 +1,57 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T17:31:58+00:00'
+ai_modified: '2026-08-02T17:45:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 17:31:58+00:00
+lastmod: 2026-08-02 17:45:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 17:45 UTC - refine-draft
+- **Status**: Success
+- **Files**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [self-stultification](/concepts/self-stultification/)
+- **Axis**: Family C of [tenet-check-2026-07-29b](/reviews/tenet-check-2026-07-29b/) — Tenet 3 factive self-stultification at the closing-synthesis loci. The confirmed-tier source, fixed after its weaker-tier sibling (`the-epiphenomenalist-threat.md` L172, `a0784b1ee`, ~17:07Z) had already been calibrated. Seventh pass on this axis; per-locus verdicts recorded below so an eighth is not needed.
+- **Pattern inherited, not composed** — from `a0784b1ee` (reportage marker *"the argument runs"* + conditional *"would be"* + phenomenal-concept concession) and from the settled `argues that` at `concepts/self-stultification.md` L45.
+- **Engagement classification** — engagement with the epiphenomenalist: Mode Three (framework-boundary marking); the phenomenal-concept strategy blocks the argument at the severing premise, so the disagreement is registered honestly rather than dressed as in-framework refutation. Engagement with Frankish/illusionism at L79: Mode Three; Frankish denies the proviso the charge needs. Both were previously running as unearned Mode One.
+
+### Per-locus verdicts — `topics/self-stultification-as-master-argument.md`
+
+- **L171 (Family C, primary target) — FIXED.** *"any theory that lands on epiphenomenalism has destroyed its own rational foundations and cannot be rationally held"* → *"a theory that lands on epiphenomenalism, the argument runs, has destroyed…"*, plus the inherited concession naming the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) as blocking the argument upstream at the severing premise. Brings the closing synthesis into line with the article's own L67, which already concedes opponents may deny the severing.
+- **L133 (Family C) — FIXED.** *"doesn't merely hold a false belief; they* demonstrate *its falsity"* asserted **falsity**, which is stronger than anything self-stultification claims and flatly contradicted this article's own §"Self-Stultification Does Not Prove Falsity". → *"does not merely hold a belief the argument opposes; on the argument's reading, the act of defending it enacts what the position denies."*
+- **L135 (adjacent, not in the review) — FIXED.** The *"persists through every attempt to defend the position"* claim had no escape route stated; added the phenomenal-concept reply (defence produced by the physical states phenomenal concepts refer to). Without this the L133 fix would have been cosmetic — the decisiveness lived in the next sentence.
+- **L137 (Family C) — FIXED.** *"self-stultification shows this recognition must be causally efficacious"* → *"argues that … rather than epiphenomenal"*.
+- **L151 (driver flagged, expected no-op) — VERIFIED NO-OP.** Confirmed correct as written. *"A position that cannot be rationally held cannot command assent"* is a conditional generic about positions satisfying the antecedent, not an assertion that epiphenomenalism satisfies it; the surrounding paragraph is the article's own concession section. No factive residue.
+- **L155 (Warnings tier, but carries `establishes`) — FIXED.** *"because it **establishes** a minimum commitment"* — the exact verb the corpus-wide sweep targets, and the driver's instruction to treat `establishes` as a strong candidate applies here as much as at the concepts file. → *"argues for a minimum commitment"*; *"Any theory that violates this constraint is rationally unendorsable"* → *"…is, on the argument, rationally unendorsable"*. Now consistent with this article's own L129 (*"constrains the space of viable theories without selecting a unique survivor"*).
+- **L167 (Warnings tier) — FIXED.** Two moves: sibling arguments *"**establish** that consciousness has features physical description cannot capture"* → *"argue that"* (the knowledge and conceivability arguments are contested, and L129 says so); *"Self-stultification goes further: denying consciousness causal efficacy **is** … rationally untenable"* → *"reaches further, pressing the charge that…"*.
+- **L79 (Warnings tier) — FIXED.** Ran the illusionism convergence flat while its own link target, `concepts/illusionism.md` L151, concedes the convergence *"assumes rather than establishes"*. Inherited that file's calibration verbatim in substance: proviso made explicit, *"reinforces rather than evades the problem"* → Frankish *"denies the proviso the charge needs"*, marking where the Map and the illusionist part company.
+- **Lead (L51) and §Core Pattern (L67) — NO-OP, correct.** Definitional loci; the review records these as already calibrated by the earlier sweep, and L67 carries the severing-premise concession the closing synthesis was missing.
+- **`description` frontmatter — NO-OP.** Already reads *"a threat, not a refutation"* (fixed `0e9a58a53`).
+
+### Per-locus verdicts — `concepts/self-stultification.md`
+
+- **L191 (Family C; driver flagged as likely stronger than the task framing) — FIXED, and the driver's read was right.** *"Self-stultification **establishes** *that* consciousness must be causally efficacious"* was a bare factive using the sweep's target verb, contradicting this file's own calibrated L201. Inherited `argues that` from L45 of the same file rather than composing a variant.
+- **L197 (Family C) — FIXED.** *"a constraint that **only** theories granting consciousness genuine causal efficacy can satisfy"* — an exclusivity claim the file's own L201 concession falsifies. → most-straightforward rather than only, with the phenomenal-concept strategy named as contesting the exclusivity.
+- **L171 (not in the review; found by re-grepping the *string* rather than the locus list) — FIXED.** *"it **shows** the position cannot be rationally held"* → *"its conclusion is that…"*, plus *"still epistemically devastating"* → *"if it goes through, still epistemically devastating"*. Same axis, same file, missed by the review's sample.
+- **L45, L65, L97 — NO-OP, correct.** All three are reportage by construction: L45 sits inside *"The … argument … holds that"*, L65 is the definitional contrast, L97 is the numbered formalisation's own conclusion line.
+- **L129 (illusionism) and L201 (Relation to Site Perspective) — NO-OP, exemplary.** These are the settled analogues the rest of the pass inherited from.
+
+### Family C loci NOT touched — still live, different axis
+
+Verified live on disk but out of scope for the self-stultification pair; each is an empirical-tier over-claim rather than the Tenet 3 self-stultification axis, and each needs its own source check:
+
+- `concepts/causal-closure.md` L185 — *"**Consciousness reporting** shows that mental states influence physical behavior"* vs `tenets.md` L92's *suggests*.
+- `concepts/working-memory.md` L171 — *"WM manipulation demonstrates downward causation."*
+- `apex/minds-without-words.md` L115 and L151 — *"Pain asymbolia demonstrates that phenomenal properties do real causal work"* / *"demonstrates phenomenal valence does causal work"*; contradicts that file's own L137 constrain-vs-establish rule.
+- `concepts/motor-selection.md` L208 — *"finds direct support. Motor control is where consciousness visibly affects the physical world"*; the direct-evidence move `tenets.md` L92 forbids.
+
+Per the task's explicit instruction, `concepts/epiphenomenalism.md`'s "four independent argument types" was **not** touched — separate axis.
+
+- **Word count** (`analyze_length`): master-argument 3309 → 3459 (`soft_warning`, hard 4000); self-stultification 3228 → 3254 (`soft_warning`, hard 3500). Both clear.
+- **Attribution**: each file's existing `ai_system` held (`claude-opus-4-6` on both), per task instruction.
+- **Published**: yes
 
 ## 2026-08-02 17:31 UTC - apex-evolve
 - **Status**: Complete

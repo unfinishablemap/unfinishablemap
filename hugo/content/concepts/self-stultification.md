@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-31 09:48:59+00:00
+ai_modified: 2026-08-02 17:45:24+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 04:03:00+00:00
-lastmod: 2026-07-31 09:48:59+00:00
+lastmod: 2026-08-02 17:45:24+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -172,7 +172,7 @@ Some philosophers accept self-defeat and bite the bullet: yes, the position cann
 
 ### Distinguishing Self-Defeat from Refutation
 
-Self-stultification doesn't prove a position false—it shows the position cannot be rationally held. This is a weaker conclusion than falsification but still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
+Self-stultification does not prove a position false; its conclusion is that the position cannot be rationally held. This is weaker than falsification but, if it goes through, still epistemically devastating: a position that undermines its own rational credentials cannot command assent.
 
 ### The Performative Dimension
 
@@ -192,13 +192,13 @@ In the philosophy of mind, the argument gained prominence through:
 
 ## From Self-Defeat to Positive Account
 
-Self-stultification establishes *that* consciousness must be causally efficacious. The follow-up question—*what kind* of causal powers consciousness possesses—is addressed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), which develops a framework of constrained but genuine influence: selection among quantum alternatives, sustained attention, phenomenal biasing, and volitional modulation. The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article shows why this question is urgent: most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism, and self-stultification shows why arriving there is catastrophic.
+Self-stultification argues *that* consciousness must be causally efficacious. The follow-up question—*what kind* of causal powers consciousness possesses—is addressed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), which develops a framework of constrained but genuine influence: selection among quantum alternatives, sustained attention, phenomenal biasing, and volitional modulation. The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article shows why this question is urgent: most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism, and self-stultification shows why arriving there is catastrophic.
 
 The [master argument](/topics/self-stultification-as-master-argument/) develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. Together, these four lines of argument form a unified case whose cumulative force exceeds what any single strand provides.
 
 Self-stultification operates as a boundary-marker in the same register as [physics-as-disclosure](/concepts/physics-as-disclosure/). Where disclosure reveals the point at which structural description reaches its limit and actuality begins, self-stultification reveals the point at which purely structural explanation undermines the rational standing it needs to be believed. Both strategies converge: structural description is complete within its domain but cannot be the whole story.
 
-Epistemic self-defeat also constrains what counts as an adequate theory of consciousness. The Map does not reject physicalism merely because it *feels* wrong or because dualism is *intuitive*. The objection is that physicalism, carried to its conclusion, undermines the epistemic standing of any belief—including belief in physicalism. A theory must preserve the conditions for its own rational endorsement, and this is a constraint that only theories granting consciousness genuine causal efficacy can satisfy.
+Epistemic self-defeat also constrains what counts as an adequate theory of consciousness. The Map does not reject physicalism merely because it *feels* wrong or because dualism is *intuitive*. The objection is that physicalism, carried to its conclusion, undermines the epistemic standing of any belief—including belief in physicalism. A theory must preserve the conditions for its own rational endorsement. Theories granting consciousness genuine causal efficacy meet that constraint most straightforwardly; whether they are the *only* ones that can is contested, since the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) claims physically realised phenomenal concepts underwrite report-reliability without phenomenal causation.
 
 ## Relation to Site Perspective
 

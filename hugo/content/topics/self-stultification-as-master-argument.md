@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-29 15:54:16+00:00
+ai_modified: 2026-08-02 17:45:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 11:16:40+00:00
-lastmod: 2026-07-29 15:54:16+00:00
+lastmod: 2026-08-02 17:45:24+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -80,7 +80,7 @@ If true, then the epiphenomenalist's belief in epiphenomenalism was not caused b
 
 The epiphenomenalist who presents arguments, responds to objections, and revises views on introspective evidence *performs* the falsity of their position—the very act of defending epiphenomenalism presupposes what it denies, that conscious evaluation of reasons influences what one believes. The strongest resistance to this move is the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/): if phenomenal concepts are physically realised representations referring to physical states of the same brain, reports are causally tied to their referents without any phenomenal causation, and the self-undermining charge relocates to whether that first-person mode of presentation can be exhaustively physical rather than refuting epiphenomenalism outright.
 
-[Illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) inherits the same self-stultification because it preserves the causal structure that generates the problem—phenomenal properties remain causally idle whether declared inert or non-existent. Frankish's [functional-seeming](/concepts/functional-seeming/) defence—that "seeming conscious" reduces to functional dispositions—reinforces rather than evades the problem: if the illusionist's own assessment of consciousness is merely functional, their reasoning is causally identical to a [zombie's](/concepts/philosophical-zombies/).
+[Illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) inherits the same self-stultification given phenomenal realism: the causal structure that generates the problem survives, since phenomenal properties remain causally idle whether declared inert or non-existent. Frankish's [functional-seeming](/concepts/functional-seeming/) defence—that "seeming conscious" reduces to functional dispositions—denies the proviso the charge needs rather than evading the charge, so the convergence marks where the Map and the illusionist part company rather than refuting him within his framework. What the Map presses is the residual cost: if the illusionist's own assessment of consciousness is merely functional, their reasoning is causally identical to a [zombie's](/concepts/philosophical-zombies/).
 
 Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness. If the [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) is correct, that aboutness itself requires phenomenal character. The position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
 
@@ -134,11 +134,11 @@ The argument does not strike each target with equal force. It seems devastating 
 
 ## The Performative Dimension
 
-Self-stultification has a performative aspect that distinguishes it from ordinary philosophical objections. The epiphenomenalist doesn't merely hold a false belief; they *demonstrate* its falsity by the act of defending it. Presenting arguments presupposes that conscious evaluation influences belief; responding to objections presupposes that recognising a counterargument's force can change one's mind; revising a position presupposes that consciously apprehended evidence causes the revision.
+Self-stultification has a performative aspect that distinguishes it from ordinary philosophical objections. The epiphenomenalist does not merely hold a belief the argument opposes; on the argument's reading, the act of defending it enacts what the position denies. Presenting arguments presupposes that conscious evaluation influences belief; responding to objections presupposes that recognising a counterargument's force can change one's mind; revising a position presupposes that consciously apprehended evidence causes the revision.
 
-This performative contradiction is harder to escape than a merely logical one. A logical contradiction can be resolved by adjusting premises; a performative one persists through every attempt to defend the position, because the defense itself instantiates what the position denies.
+This performative contradiction is harder to escape than a merely logical one. A logical contradiction can be resolved by adjusting premises; a performative one persists through every attempt to defend the position, because the defense itself instantiates what the position denies. The epiphenomenalist's escape is to deny the reading rather than the performance: if the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) holds, the defence is produced by the physical states that phenomenal concepts refer to, and nothing in the performance requires phenomenal causation.
 
-The [authority of logic](/topics/consciousness-and-the-authority-of-formal-systems/) article develops a related point: recognising logical necessity as binding—not merely as a pattern one happens to follow—requires consciousness of a kind physical causation cannot generate, and self-stultification shows this recognition must be causally efficacious, not epiphenomenal.
+The [authority of logic](/topics/consciousness-and-the-authority-of-formal-systems/) article develops a related point: recognising logical necessity as binding—not merely as a pattern one happens to follow—requires consciousness of a kind physical causation cannot generate, and self-stultification argues that this recognition must be causally efficacious rather than epiphenomenal.
 
 ## Scope and Limits
 
@@ -156,7 +156,7 @@ A self-stultifying position might be true. Epiphenomenalism might be correct des
 
 ## Why This Matters for the Map
 
-Self-stultification functions as a master argument because it establishes a minimum commitment any viable theory of mind must satisfy: **consciousness must be causally connected to the processes that produce beliefs about consciousness.** Any theory that violates this constraint is rationally unendorsable. This commitment directly entails three of the Map's five tenets:
+Self-stultification functions as a master argument because it argues for a minimum commitment any viable theory of mind must satisfy: **consciousness must be causally connected to the processes that produce beliefs about consciousness.** A theory that violates this constraint is, on the argument, rationally unendorsable. This commitment directly entails three of the Map's five tenets:
 
 **[Dualism](/tenets/#dualism)**: If consciousness must causally influence belief-formation, and physical causation alone cannot track normative relationships (the space of reasons vs. space of causes), then consciousness involves something irreducible to physics. The [argument-from-reason](/topics/argument-from-reason/) makes this case in detail. The [metaproblem analysis](/topics/metaproblem-of-consciousness-under-dualism/) shows the same structure from the other direction: realizationism—consciousness participates in generating problem intuitions—is the self-stultification constraint applied to the metaproblem.
 
@@ -168,11 +168,11 @@ The remaining tenets—[Minimal Quantum Interaction](/tenets/#minimal-quantum-in
 
 ## Relation to Site Perspective
 
-The Map treats self-stultification as the argumentative bedrock on which the case for dualism rests. Other arguments—the [knowledge-argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), the [explanatory-gap](/concepts/explanatory-gap/)—establish that consciousness has features physical description cannot capture. Self-stultification goes further: denying consciousness causal efficacy is not merely counterintuitive but rationally untenable.
+The Map treats self-stultification as the argumentative bedrock on which the case for dualism rests. Other arguments—the [knowledge-argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), the [explanatory-gap](/concepts/explanatory-gap/)—argue that consciousness has features physical description cannot capture. Self-stultification reaches further, pressing the charge that denying consciousness causal efficacy is not merely counterintuitive but rationally untenable.
 
 This makes the argument uniquely resistant to dismissal. Critics can challenge the conceivability of zombies, dispute Mary's Room, or insist the explanatory gap will close with future science. Self-stultification resists these moves because it targets the *act of rational evaluation itself*: to argue against it, one must engage in the conscious reasoning whose causal efficacy it defends. The [phenomenal conservatism](/topics/phenomenal-authority-and-first-person-evidence/) framework explains why—introspective seemings provide prima facie justification that cannot be overturned without relying on further introspective seemings.
 
-The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article shows most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why this drift is catastrophic: any theory that lands on epiphenomenalism has destroyed its own rational foundations and cannot be rationally held by the very minds it describes.
+The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article shows most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why that drift would be catastrophic: a theory that lands on epiphenomenalism, the argument runs, has destroyed its own rational foundations and cannot be rationally held by the very minds it describes. The Map holds that conclusion not because the argument refutes epiphenomenalism from inside the epiphenomenalist's framework—the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) blocks it upstream at the severing premise, keeping the strongest version of the position in play—but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than a minimal causal interface.
 
 The [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) concept supplies a structural parallel from the empirical side. Where Rebouillat et al. (2021) document confidence anti-correlated with accuracy in a within-subject experimental regime, self-stultification is the theory-level analogue: an epiphenomenalist who defends the position confidently has, by their own account, a confidence the position cannot ground. The two share an architectural shape—maximum endorsement where it is least underwritten—at different tiers. Self-stultification is thereby not only a logical-tier problem about belief contents but a structural-tier problem about the metacognitive endorsement attached to them.
 
