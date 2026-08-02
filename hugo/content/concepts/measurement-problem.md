@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-17 07:21:34+00:00
+ai_modified: 2026-08-02 12:33:51+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 14:12:20+00:00
-lastmod: 2026-07-17 07:21:34+00:00
+lastmod: 2026-08-02 12:33:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -189,7 +189,7 @@ If the loophole only establishes *where* consciousness could act, what supports 
 
 - **Structural parallel**: as set out above, the measurement problem and [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) share the *specific* feature of determinacy emerging from indeterminacy—more parsimoniously treated as one puzzle than as coincidence, though the parallel does the work only at this specificity, not at the looser "first-person facts" level. See [The Measurement Problem as Hard Problem](/topics/quantum-measurement-and-consciousness/).
 
-- **[Self-stultification of epiphenomenalism](/concepts/self-stultification/)**: If consciousness has no causal role, beliefs about consciousness aren't caused by consciousness—undermining the epistemic basis for any claim about it, including denying mental causation. This establishes that consciousness has *some* causal role; it does not by itself locate that role at quantum measurement. Quantum measurement is the *least disruptive* locus for the causation consciousness requires—but that appeal to least disruption is a simplicity consideration, and the Map's own [fifth tenet](/tenets/#occams-limits) holds simplicity unreliable under incomplete knowledge. The move is therefore a defeasible heuristic for *where* to look, not evidence that consciousness acts there, and it stands in acknowledged tension with the tenet that warns against trusting it.
+- **[Self-stultification of epiphenomenalism](/concepts/self-stultification/)**: If consciousness has no causal role, beliefs about consciousness aren't caused by consciousness—undermining the epistemic basis for any claim about it, including denying mental causation. This argues that consciousness has *some* causal role; it does not by itself locate that role at quantum measurement. Quantum measurement is the *least disruptive* locus for the causation consciousness requires—but that appeal to least disruption is a simplicity consideration, and the Map's own [fifth tenet](/tenets/#occams-limits) holds simplicity unreliable under incomplete knowledge. The move is therefore a defeasible heuristic for *where* to look, not evidence that consciousness acts there, and it stands in acknowledged tension with the tenet that warns against trusting it.
 
 Neither argument is decisive alone. Together they provide cumulative motivation for taking consciousness-modulation of collapse statistics seriously. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing within the Born distribution rather than initiating collapse from outside physics. The loophole is the necessary condition; these arguments provide positive motivation.
 

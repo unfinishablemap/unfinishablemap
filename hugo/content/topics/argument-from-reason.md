@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-26 12:31:45+00:00
+ai_modified: 2026-08-02 12:33:51+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:06:51+00:00
-lastmod: 2026-07-26 12:31:45+00:00
+lastmod: 2026-08-02 12:33:51+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -152,7 +152,7 @@ The argument from reason supports three of the Map's five tenets—conditionally
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalism appears simpler—one ontological category instead of two—but the simplicity is self-stultifying. A metaphysics that cannot account for rational justification cannot be *rationally accepted*; it is illusory economy when it eliminates the conditions for rational belief. This exemplifies how Occam's Razor misleads when knowledge is incomplete: the "simpler" theory undermines the very reasoning that might justify it.
 
-The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it establishes that consciousness must have causal efficacy—for which the [quantum interface](/concepts/stapp-quantum-mind/) explains *how* that efficacy might operate without violating conservation laws, while the [attention mechanism](/concepts/attention-as-interface/) supplies the phenomenological correlate: intellectual effort may be the felt character of consciousness selecting among neural states responsive to normative constraints.
+The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it argues that consciousness must have causal efficacy—for which the [quantum interface](/concepts/stapp-quantum-mind/) explains *how* that efficacy might operate without violating conservation laws, while the [attention mechanism](/concepts/attention-as-interface/) supplies the phenomenological correlate: intellectual effort may be the felt character of consciousness selecting among neural states responsive to normative constraints.
 
 ## Objections and Responses
 

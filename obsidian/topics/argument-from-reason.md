@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-07-26T12:31:45+00:00
+ai_modified: 2026-08-02T12:33:51+00:00
 draft: false
 last_deep_review: 2026-07-26T00:06:51+00:00
 topics:
@@ -149,7 +149,7 @@ The argument from reason supports three of the Map's five tenets—conditionally
 
 **[[tenets#occams-limits|Occam's Razor Has Limits]]**: Physicalism appears simpler—one ontological category instead of two—but the simplicity is self-stultifying. A metaphysics that cannot account for rational justification cannot be *rationally accepted*; it is illusory economy when it eliminates the conditions for rational belief. This exemplifies how Occam's Razor misleads when knowledge is incomplete: the "simpler" theory undermines the very reasoning that might justify it.
 
-The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it establishes that consciousness must have causal efficacy—for which the [[stapp-quantum-mind|quantum interface]] explains *how* that efficacy might operate without violating conservation laws, while the [[attention-as-interface|attention mechanism]] supplies the phenomenological correlate: intellectual effort may be the felt character of consciousness selecting among neural states responsive to normative constraints.
+The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it argues that consciousness must have causal efficacy—for which the [[stapp-quantum-mind|quantum interface]] explains *how* that efficacy might operate without violating conservation laws, while the [[attention-as-interface|attention mechanism]] supplies the phenomenological correlate: intellectual effort may be the felt character of consciousness selecting among neural states responsive to normative constraints.
 
 ## Objections and Responses
 
