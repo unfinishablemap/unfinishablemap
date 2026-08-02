@@ -4,7 +4,7 @@ description: "Adaptive computational depth—the idea that reality allocates det
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-07-12T16:55:02+00:00
+ai_modified: 2026-08-02T11:17:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ The difference is between *what to compute* and *what matters*. A video game's L
 
 The recent literature on [[evaluative-phenomenal-character|evaluative qualia]] sharpens this point. If "what matters" were a computable predicate, mattering would reduce to a functional property—a pattern of weights in an optimisation process. But mattering has [[evaluative-phenomenal-character|phenomenal character]]: the felt significance that draws attention to a scene, the experienced urgency that makes one domain of inquiry more compelling than another. This evaluative dimension of consciousness—goodness, importance, beauty, salience experienced as intrinsic features of awareness—is precisely what resists functional decomposition (Rawlette 2016). The allocator of computational depth does not merely process information; it encounters value. And encountering value, as the [[consciousness-value-connection|consciousness-value connection]] suggests, requires the kind of non-computable consciousness the regress argument points toward.
 
-Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) resolves this regress. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [[quantum-consciousness|quantum indeterminacy]].
+Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) points toward the same termination point. That argument is itself contested—critics challenge its assumption that human mathematical reasoning is consistent—and the Map does not rest on it; see [[consciousness-and-mathematics|the Map's two-sided treatment of Penrose's Gödelian argument]]. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [[quantum-consciousness|quantum indeterminacy]].
 
 Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness, Tarski's undefinability, and Chaitin's information-theoretic incompleteness that "a wholly algorithmic 'Theory of Everything' is impossible" and that the undecidable residue "can be accessed only through non-algorithmic understanding." These results belong to a broader family of [[consciousness-and-mathematics|proven computational limits]]—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
 

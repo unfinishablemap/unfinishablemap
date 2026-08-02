@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Original score**: n/a (targeted single-locus fix from [optimistic-2026-08-02-information-metaphysics-wing](/reviews/optimistic-2026-08-02-information-metaphysics-wing/); no full quality-review pass run)
+- **Changes**: §"The Non-Computability Turn" — replaced the unhedged verb in "Penrose's argument … **resolves this regress**" with "**points toward the same termination point**", the weaker formulation the article already uses in its own `description` ("points toward non-computable consciousness") and in §"Relation to Site Perspective" ("The natural termination point is …"). Added a 31-word hedge clause naming the standard objection (critics challenge the consistency assumption), stating that the Map does not rest on the argument, and linking [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) for the two-sided treatment.
+- **Rationale**: the article had a hedge channel and was not pointing it at the most contested claim — the *next* paragraph hedges the newer, weaker Faizal et al. (2025) preprint ("Whether or not Faizal's specific proof withstands scrutiny…") while Penrose-Lucas stood bare. The corpus is two-sided elsewhere: `topics/consciousness-and-mathematics.md:114` states the objection before the Map's regress reply, and `topics/penrose-gravity-induced-collapse-empirical-prospects.md:86` builds the explicit firewall ("If Penrose-Lucas fails, Penrose's *Gödelian* motivation for OR is undermined and the Map's is untouched"). The fix brings this article into line with that standing policy.
+- **Engagement classification**: no named-opponent engagement altered; the change is calibration of the Map's own supporting citation, not a reply.
+- **Deliberately NOT changed**: the regress argument itself (sound, and independently derived at L61/L79 without Penrose); §"What Would Challenge This View?" item 4, which already names the self-allocation objection as a genuine defeater; §"Epistemological Status", which is exemplary calibration. `ai_system` held at `claude-opus-4-6` — not flipped to the executing model.
+- **Link form**: unanchored `[[consciousness-and-mathematics]]`. An anchored form would be a broken fragment: `slugify()` in `tools/sync/wikilinks.py` strips non-ASCII, so "Penrose's Gödelian Argument" becomes `penroses-gdelian-argument` while Hugo's anchorize keeps the `ö`.
+- **Length**: 1886 → 1919 words (+33; 77% of the 2500-word concepts soft target).
+- **Published**: yes
+
 ## 2026-08-02 11:12 UTC - deep-review
 - **Status**: Success
 - **File**: [source-attribution-divergence](/topics/source-attribution-divergence/)
