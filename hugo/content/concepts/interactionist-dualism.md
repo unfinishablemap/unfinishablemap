@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-31 15:59:34+00:00
+ai_modified: 2026-08-02 09:31:43+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:47:57+00:00
-lastmod: 2026-07-31 15:59:34+00:00
+lastmod: 2026-08-02 09:31:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Chalmers tends toward epiphenomenalism; the Map diverges via the self-stultifica
 
 ## The Historical Problem
 
-René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument. See [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) for the full trajectory from Descartes through Leibniz to quantum mechanics.
+René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument. See [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) for the full trajectory.
 
 Yet recent work shows this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions, so expecting it to hold in the brain begs the question by assuming interactionism is false. Notably, non-Western traditions near-independently developed [the same structural types of solution](/topics/interaction-problem-across-traditions/)—this [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) is itself evidentially significant. See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for the "selection not injection" account that replaces the objection.
 
@@ -99,11 +99,11 @@ Meanwhile, [epiphenomenalism](/concepts/epiphenomenalism/) faces a pointed objec
 
 Seven arguments bear on the interactionist conclusion, though not as seven independent lines. Arguments 1–3—explanatory gap, conceivability, knowledge argument—are three presentations of a single anti-physicalist intuition, that structural and functional facts do not entail phenomenal facts (as Chalmers and Stoljar both note); they count as one line, not three. No single argument is decisive—[Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/) lets physicalists revise auxiliaries to accommodate each one. The epistemic cost of dismissal rests on the genuinely independent remainder:
 
-1. **[Explanatory Gap](/concepts/explanatory-gap/)**: Physical explanations describe structure and function; consciousness has intrinsic qualitative character. No structural description entails what it is *like* to experience. The gap is not epistemic but structural.
+1. **[Explanatory Gap](/concepts/explanatory-gap/)** (Levine 1983): Physical explanations describe structure and function; consciousness has intrinsic qualitative character. No structural description entails what it is *like* to experience. The gap is not epistemic but structural.
 
 2. **[Conceivability](/concepts/philosophical-zombies/)**: We can coherently conceive beings physically identical to us but lacking experience. If conceivable, then metaphysically possible; if possible, consciousness is not necessitated by physical facts.
 
-3. **[Knowledge Argument](/concepts/knowledge-argument/)**: Mary knows all physical facts about colour but learns something new when she sees red. What she learns is not deducible from physical facts.
+3. **[Knowledge Argument](/concepts/knowledge-argument/)** (Jackson 1982): Mary knows all physical facts about colour but learns something new when she sees red. What she learns is not deducible from physical facts.
 
 4. **[Unity of Consciousness](/concepts/binding-problem/)**: Experience is unified in a single subject; physical systems are discrete parts. No mechanism explains how neurons compose a unified subject rather than merely integrating information.
 
@@ -131,7 +131,7 @@ If consciousness causes quantum collapse, what happens when multiple minds obser
 
 Quantum mechanics describes systems in superposition until measured. What causes collapse? Orthodox interpretations assign the observer a special role, reopening possibilities Leibniz thought closed. Two proposals make the interface concrete:
 
-**[Stapp's Quantum Zeno Approach](/concepts/stapp-quantum-mind/)**: Mental attention acts like rapid quantum observation, "freezing" desired neural patterns via the Zeno effect. Neuroplasticity research supports this—OCD patients who redirected attention reshaped their brains through mental effort alone.
+**[Stapp's Quantum Zeno Approach](/concepts/stapp-quantum-mind/)**: Mental attention acts like rapid quantum observation, "freezing" desired neural patterns via the Zeno effect. Neuroplasticity research supports this—OCD patients who redirected attention reshaped their brains through mental effort alone (Schwartz, Stapp & Beauregard 2005).
 
 **Orchestrated Objective Reduction (Orch OR)**: Penrose and Hameroff propose consciousness originates in quantum computations within microtubules, with collapse events constituting conscious experience itself.
 
@@ -145,7 +145,7 @@ What does "consciousness biases quantum outcomes" mean? If selection preserves q
 
 What would falsify quantum interactionism? Two falsifiers bear on the *position* itself: (1) proving quantum indeterminacy is illusory; (2) proving neural computation is purely classical. Either would close the indeterminacy the position needs. Both are hard, arguably in-principle-only tests, so the position's distinctive empirical content is genuinely difficult to reach — which is the honest face of the falsifiability worry, not a reason to dismiss it.
 
-A further two falsifiers are *mechanism-specific* — they bear on Stapp's Zeno model, a sub-mechanism the Map prefers not to lean on (see the [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)): (3) proving the Zeno effect cannot be triggered by mental effort neurally; (4) proving anaesthesia works purely through classical mechanisms. Refuting either would falsify the Zeno reading while leaving post-decoherence selection — the framing the position actually prefers — untouched. The companion [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) grades the Zeno model's falsifiability "Moderate" and notes the discriminating test is beyond current technology; this article agrees. The position is falsifiable in principle, though its discriminating mechanism-level tests remain beyond current reach. The explanatory-coherence claim — that the quantum framework shows how mental causation is *possible* without violating conservation — stands independently of any of these mechanism-level outcomes.
+A further two falsifiers are *mechanism-specific* — they bear on Stapp's Zeno model, a sub-mechanism the Map prefers not to lean on (see the [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)): (3) proving the Zeno effect cannot be triggered by mental effort neurally; (4) proving anaesthesia works purely through classical mechanisms. Refuting either would falsify the Zeno reading while leaving post-decoherence selection untouched. The companion [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) grades the Zeno model's falsifiability "Moderate" and notes the discriminating test is beyond current technology; this article agrees. The position is falsifiable in principle. The explanatory-coherence claim — that the quantum framework shows how mental causation is *possible* without violating conservation — stands independently of any of these mechanism-level outcomes.
 
 ## Psychophysical Coupling Mechanisms
 
@@ -181,7 +181,7 @@ The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) sits within 
 
 ### Where the Map's Tenets Take a Substance-Leaning Sub-Reading
 
-The Dualism tenet's neutrality between substance and property dualism does not propagate uniformly downstream, and interactionist dualism is one place the asymmetry surfaces. The bare interactionist commitment—mental states cause physical effects, physical states cause mental effects—does not by itself require a substance-bearing subject; an interactionist property dualism granting mental properties genuine causal efficacy at quantum indeterminacies satisfies both the Dualism and Bidirectional Interaction tenets without positing a distinct mental substance. The substance-leaning enters when interactionism is paired with [agent causation](/concepts/agent-causation/): the agent as persisting subject who exercises causal powers in its own right is what an agent-causal reading requires, and property-only readings struggle to ground that exercise. So the interactionist material takes on a substance-leaning where it engages free will, agent-causal selection, or personal authorship. Where interactionism is doing only the irreducibility-plus-causal-efficacy work—Kim's exclusion argument, the conservation-law treatment, the [multi-mind collapse problem](/concepts/multi-mind-collapse-problem/)—the substance-leaning is not load-bearing, and an interactionist property dualism would reach the same conclusions. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical statement of where the lean enters and why.
+The Dualism tenet's neutrality between substance and property dualism does not propagate uniformly downstream, and interactionist dualism is one place the asymmetry surfaces. The bare interactionist commitment—mental states cause physical effects, physical states cause mental effects—does not by itself require a substance-bearing subject; an interactionist property dualism granting mental properties genuine causal efficacy at quantum indeterminacies satisfies both the Dualism and Bidirectional Interaction tenets without positing a distinct mental substance. The substance-leaning enters when interactionism is paired with [agent causation](/concepts/agent-causation/): the agent as persisting subject who exercises causal powers in its own right is what an agent-causal reading requires (Swinburne 2013), and property-only readings struggle to ground that exercise. So the interactionist material takes on a substance-leaning where it engages free will, agent-causal selection, or personal authorship. Where interactionism is doing only the irreducibility-plus-causal-efficacy work—Kim's exclusion argument, the conservation-law treatment, the [multi-mind collapse problem](/concepts/multi-mind-collapse-problem/)—the substance-leaning is not load-bearing, and an interactionist property dualism would reach the same conclusions. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical statement of where the lean enters and why.
 
 A reader who accepts interactionist dualism but rejects substance-bearing agents would therefore part company with the Map at the agent-causal step, not the interactionist step. The article's first-order claims about mental causation, quantum interface, and conservation survive that disagreement; its claims about agents as ontologically prior causal sources do not.
 
@@ -227,7 +227,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [tenets](/tenets/) — The Map's foundational commitments
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework and where the Map diverges
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Thickness axis: how much ontological weight each side carries
-- [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) — A neo-Aristotelian rival that dissolves the interaction problem this position locates an interface for: mind and body as co-principles of one substance, so on its account there is no gap to bridge
+- [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) — A neo-Aristotelian rival that dissolves the interaction problem: mind and body as co-principles of one substance, so on its account there is no gap to bridge
 
 **Mechanisms:**
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction
@@ -267,4 +267,5 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). "Quantum physics in neuroscience and psychology: a neurophysical model of mind-brain interaction." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.
 1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
