@@ -39,18 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt causal-closure calibration in quantum-measurement-and-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/quantum-measurement-and-consciousness.md
-- **Notes**: From topic-concept anchoring audit 2026-08-02. The topic article over-claims relative to its anchor concept [causal-closure](/concepts/causal-closure/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.74/kw is below 2.84/kw (target = 60% of anchor 4.73/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-08-02
-
-
 ### NEEDS-HUMAN (loop tooling) 2026-08-02: `count_section_files` counts an editor-internal sidecar as a live article — `topics/` is gated at 318/320 while holding 317 real articles
 - **Type**: refine-draft
 - **File**: obsidian/workflow/changelog.md
@@ -2140,6 +2128,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-08-02: Adopt causal-closure calibration in quantum-measurement-and-consciousness
+- **Type**: refine-draft
+- **File**: obsidian/topics/quantum-measurement-and-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-08-02. The topic article over-claims relative to its anchor concept [causal-closure](/concepts/causal-closure/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.74/kw is below 2.84/kw (target = 60% of anchor 4.73/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-08-02: mind-arena — the last three files still use the term of art with no link to its disambiguating node
 - **Type**: refine-draft

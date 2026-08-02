@@ -4,7 +4,7 @@ description: "If the Map's tenets hold, consciousness grounds value, agency, nor
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-07-29T16:50:50+00:00
+ai_modified: 2026-08-02T23:41:19+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -204,6 +204,7 @@ This synthesis draws on:
 - [[evaluative-phenomenal-character|Moral Phenomenology and Perception]] — The philosophical study of moral experience
 - [[moral-responsibility|Moral Responsibility]] — Agent causation and metaphysical desert
 - [[animal-consciousness|Animal Consciousness]] — Non-human consciousness and moral patienthood
+- [[phenomenal-normativity-environmental-ethics|Phenomenal Normativity and Environmental Ethics]] — The value pillar applied to ecosystems, species, and landscapes: what obligations survive when moral weight tracks consciousness rather than ecological wholes
 - [[valence-and-conscious-selection|Valence and the Mechanism of Conscious Selection]] — Whether value participates in the selection mechanism
 
 ## References

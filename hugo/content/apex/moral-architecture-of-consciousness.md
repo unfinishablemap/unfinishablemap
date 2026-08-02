@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-07-29 16:50:50+00:00
+ai_modified: 2026-08-02 23:41:19+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-07-29 16:50:50+00:00
+lastmod: 2026-08-02 23:41:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -210,6 +210,7 @@ This synthesis draws on:
 - [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — The philosophical study of moral experience
 - [Moral Responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
 - [Animal Consciousness](/topics/animal-consciousness/) — Non-human consciousness and moral patienthood
+- [Phenomenal Normativity and Environmental Ethics](/topics/phenomenal-normativity-environmental-ethics/) — The value pillar applied to ecosystems, species, and landscapes: what obligations survive when moral weight tracks consciousness rather than ecological wholes
 - [Valence and the Mechanism of Conscious Selection](/topics/valence-and-conscious-selection/) — Whether value participates in the selection mechanism
 
 ## References

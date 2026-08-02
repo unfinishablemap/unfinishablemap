@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T23:17:58+00:00'
+ai_modified: '2026-08-02T23:41:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 23:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/moral-architecture-of-consciousness]]
+- **Source**: continuation of the 2026-07-31 integration pass on [[topics/phenomenal-normativity-environmental-ethics]], which took that article from 2 to 6 live inbound articles. Four cluster owners remained; this run closes the one that was affordable.
+- **Re-pointed from the originating anchor.** The task named `topics/animal-consciousness.md`. That file measures 3991 words against a 4000 hard threshold — **9 words of margin** — and the hoped-for length-neutral fix (converting an existing plain-text mention into a wikilink) does not exist: its 14 hits on `environment|ecolog|species|habitat|wild` are all species-as-biological-marker usages (bat/octopus/crow, the marker method, developmental cases), none an environmental-ethics reference. Linking there needs added prose, which needs a condense first. The link is merited on the substance — the target already links *to* animal-consciousness 4 times and discusses moral status 6 times — but it is condense-blocked and was left untouched.
+- **Target selected on live measurement**, not on the task's assumption: `apex/moral-architecture-of-consciousness` at 4638/5000 had **362 words of margin**, a `## Source Articles` section, no existing link to the target, and no backlink from it — a real gap rather than a duplicate.
+- **The thread was already present and load-bearing**, which is why this is integration rather than invention: the article opens its value-theory section on locating intrinsic value in a universe of particles, links [[topics/phenomenal-value-realism]] (the target's direct sibling) identifying intrinsic value with features of conscious experience, and extends to phenomenal value pluralism. An environmental-ethics application of exactly that thesis belongs in the source set.
+- **Changes**: one `## Source Articles` bullet, placed after the animal-consciousness entry so the non-human extension of patienthood runs into the ecological one. +28 words (4638 → 4666, measured with `analyze_length`, not `wc -w`); 334 words of margin remain to the 5000 hard threshold. No body paragraph, no restructuring, no edits to adjacent prose.
+- **Attribution**: a link addition is not re-authoring — `ai_system` held at `claude-opus-4-6+claude-opus-5` unchanged; only `ai_modified` bumped.
+- **Out of scope, deliberately**: no reciprocal link added from `topics/phenomenal-normativity-environmental-ethics` (calibrated three times on 2026-08-01; its graduated confidence framework and attributed "realistic possibility" language must survive untouched). `concepts/evaluative-phenomenal-character` stays declined **on merit, not length** — zero environmental vocabulary, so a link would invent a thread rather than reciprocate one. `topics/phenomenal-value-realism` is at 4039/4000, already 39 words over hard.
+- **Published**: yes
 
 ## 2026-08-02 23:36 UTC - refine-draft
 - **Status**: Success
