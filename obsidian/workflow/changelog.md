@@ -5,6 +5,22 @@ ai_modified: '2026-08-02T19:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 20:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/inference-void]]
+- **Word count**: 2986 → 2884 (-102). Voids hard ceiling is 3000, so headroom went from **14 words to 116**. That, not the soft target of 2000, was the operative fact: the file was one paragraph from a hard breach and any net addition was unsafe.
+- **Original score**: n/a — the skill's Section 3 command (`scripts/curate.py review`) does not exist; `scripts/validate.py` reports the file Valid before and after.
+- **Not a coalesce.** Surfaced by the 2026-07-31 coalesce pass (7th consecutive ABANDON), whose 9-word-shingle index over 735 articles ranked `voids/inference-void` + `concepts/carrolls-regress` top at 235 shared shingles (≈413 shared words). The merge was refused on argumentative role and the refusal was correct: `carrolls-regress` declares itself at its L33 "a reference target for other Map articles that need to cite the regress without re-establishing it" (10 inbound links, adjudicates one argument); `inference-void` is void cartography (23 inbound links) where the regress is one of three entry arguments. `carrolls-regress.md` was **not touched**.
+- **The defect fixed is exactly the one `carrolls-regress` L33 exists to prevent**: `inference-void` linked the canonical target and then re-established the whole argument anyway. Remedy was deferral, not deletion — a reader who does not follow the link still learns what the regress shows.
+- **Three paragraphs compressed, all pure duplicated exposition:** (1) the Achilles/Tortoise dialogue with the A/B/Z lettering → a four-sentence compressed statement plus an explicit pointer; (2) the *PI* §201 and §219 block quotes and the naming of Kripke's "quus" case → deferred, with the deviant-interpretation point retained in the void's own words; (3) Brandom's normative-pragmatics exposition, ~50 words verbatim-identical across the two files → outlined, with a pointer that flags the distinct in-framework reply living at the canonical target.
+- **Protected calibration verified verbatim by grep after editing**, all three loci: the **proof-theoretic deflation** paragraph, the **inferentialist reading** paragraph (Engel), and the "parallel pressure on the same point rather than convergence" boundary hedge. The two-readings pair sits *inside* the compressed section and was the material most at risk; both paragraphs survive untouched, including the Gödel/Turing/Chaitin family-resemblance tail, which was left in place rather than cut against its intra-file echo in "Relation to Site Perspective".
+- **Void-own material untouched**, confirmed section by section: void phenomenology, the second-order cluster, the suspension-void sister regress, substrate-neutrality, the inheritance problem, medium-adjacent classification. Net diff is 3 insertions / 3 deletions — no other line in the file changed.
+- **Task framing was partly stale; corrected rather than followed.** The task listed "the two-register epistemic/metaphysical split and the scoping of the self-stultification charge" as the protected material. Grep confirms **zero** hits for `stultif` or `self-undermin` in this file — that material lives in `carrolls-regress` (its L55 and L71), not here. Nothing was invented to match the description.
+- **Engagement (editor-internal)**: the reply to Brandom is unchanged. Only his exposition was compressed; the Map's differentiating paragraph — that inferentialism gives no account of the felt phenomenology of individual assent, "precisely what inferentialism, by design, declines to make a topic" — is verbatim intact, and remains honest boundary-marking rather than a claimed in-framework refutation. No editor-vocabulary leaked into prose.
+- **Attribution**: `ai_system` → `claude-opus-4-7+claude-opus-5` (established form, 19 existing files use this exact pair). The pass is mostly subtractive, but three connective/deferral sentences are genuinely new, so the `+`-joined dual form is the honest record; the original attribution is preserved rather than replaced. `ai_contribution` unchanged at 100. `ai_modified` = 2026-08-02T20:19:08+00:00 (`date -u`-sourced, verified in the past). `last_deep_review` untouched.
+- **Mirror**: synced; `hugo/content/voids/inference-void.md` confirmed carrying the compression.
+- **Published**: yes
+
 ## 2026-08-02 20:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/transactional-interpretation-of-quantum-mechanics]]
