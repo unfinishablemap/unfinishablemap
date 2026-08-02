@@ -1,5 +1,9 @@
-last_updated: '2026-08-02T08:39:19.603970+00:00'
-session_count: 18162
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-02T08:42:34.423438+00:00'
+session_count: 18163
 cycle_position: 12240
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -8,7 +12,7 @@ last_runs:
   check-tenets: '2026-08-02T08:39:19.603970+00:00'
   check-links: '2026-08-02T08:26:58.655497+00:00'
   deep-review: '2026-08-02T07:39:44.278266+00:00'
-  tune-system: '2026-08-02T08:42:16.923694+00:00'
+  tune-system: '2026-08-02T08:42:34.423438+00:00'
   research-voids: '2026-08-02T08:32:37.496573+00:00'
   coalesce: '2026-08-02T07:13:40.663910+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -100,7 +104,7 @@ progress:
   voids_written: 100
   positions_written: 11
   research_notes: 525
-  reviews_completed: 7063
+  reviews_completed: 7064
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -109,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-02'
-  outcome: success
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
   date: '2026-08-02'
@@ -187,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: check-tenets
   type: check-tenets
+  date: '2026-08-02'
+  outcome: success
+- task: tune-system
+  type: tune-system
   date: '2026-08-02'
   outcome: success
 agentic_social:
@@ -862,13 +866,20 @@ agentic_social:
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
-  last_run_note: 'run 2026-08-02 - zero Tier-1 changes, structurally impossible for the third consecutive run (cadences / overdue_thresholds / locked_settings absent from state since commit dd6ce48fa). NEW: the 30-day TRIGGER_MIN_AGE_HOURS gate for tune-system is applied only at scripts/evolve_loop.py:1370; tools/evolution/cycle_pick.py drains .unfin/pending-triggers.json without it, so the gate is inoperative on the /unfin-cycle path - this run fired 2.36 days after the previous one. See T1 in reviews/system-tune-2026-08-02.'
+  last_run_note: 'run 2026-08-02 - zero Tier-1 changes, structurally impossible for
+    the third consecutive run (cadences / overdue_thresholds / locked_settings absent
+    from state since commit dd6ce48fa). NEW: the 30-day TRIGGER_MIN_AGE_HOURS gate
+    for tune-system is applied only at scripts/evolve_loop.py:1370; tools/evolution/cycle_pick.py
+    drains .unfin/pending-triggers.json without it, so the gate is inoperative on
+    the /unfin-cycle path - this run fired 2.36 days after the previous one. See T1
+    in reviews/system-tune-2026-08-02.'
   changes_applied:
   - setting: queue_status.last_floor_restore_note_*
     old_value: 93 keys (602KB)
     new_value: 3 keys (399KB)
     date: '2026-07-15'
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
+      unbounded per-replenish growth bloated every YAML parse.
   report: reviews/system-tune-2026-07-29.md
 queue_status:
   p0_tasks: 0
@@ -892,12 +903,65 @@ queue_status:
   superseded_tasks_closed: 1
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_925_note: "run no.925 (2026-08-02T03:40Z, cycle-driven /replenish-queue): ZERO MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT and CLOSING ONE\nCONFIRMED-SUPERSEDED P3. This deliberately breaks the six-run streak of\nlens-driven double-mints (runs 919-924).\n\nCOUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks\nand tools.todo.processor.parse_tasks, never from this file.\nBEFORE: 33 active, 0 P0, 0 P1, 2 P2, 31 P3 against MIN_QUEUE 3 -- below floor.\nAFTER:  32 active, 0 P0, 0 P1, 5 P2, 27 P3.\nThe two P2s that drained since run 924 were run 923s Chalmers mint\n(commit ef3ba9200) and run 922s BBS page-range mint (commit 7a84c315d);\nthe two survivors are run 924s OWN pair, minted 40 minutes earlier.\n\nWHY ZERO MINTS WAS THE HONEST CALL. The queue is not thin -- it is 33 deep.\nEvery one of the last six runs minted two fresh P2s while a 31-task P3\nbacklog sat unpicked, because the MIN_QUEUE floor counts only P0-P2 and the\nselector sorts by (priority,\
-    \ line_number). Supply was re-checked before\ndeclining to mint: quality.orphaned_files is 0; unconsumed research is\ncap-blocked (topics 318/320, concepts 318/320, voids 100/100 measured live\nexcluding section index files) with one expand-topic already queued at line\n2106; length analysis reports 93 hard-plus entries but the head of that list\nis research notes and apex/apex-articles.md, i.e. the known false-over-length\nclass, and run 919 already recorded the verified length source as exhausted.\nMinting a seventh lens into a 31-deep backlog would have grown the queue\nwithout growing throughput.\n\nTHE THREE PROMOTIONS, each earning P2 independently -- verified on disk, all\nunblocked, all length-neutral by construction, so none is a queue-gaming bump:\n- line 199, topics-empty taxonomy sweep. Has a LIVE FUNCTIONAL CONSEQUENCE,\n  not tidiness: an empty topics field skips the agentic-social overlap filter\n  entirely, so those articles are the selectors only primary survivors, and\n\
-    \  the pool is now a SINGLE element (hemispherectomy-and-the-resilience-of-\n  unified-consciousness), making random.choice deterministic. Frontmatter\n  only; the task forbids touching prose.\n- line 244, psychophysical-laws L213. Nav-surface class: the wikilink LABEL\n  reads \"Tallis observes\" while the TARGET is the introspection article, so\n  the alias asserts an attribution the destination does not carry. Fix the\n  label, never the slug.\n- line 276, metacognition.md L144. The bare-figure tail of the closed 2 plus\n  or minus 1 misattribution family -- the figure is stated with no citation\n  at all and Read, Manrique and Walker 2022 appears nowhere in the file. One\n  parenthetical plus one reference line, copied verbatim from the four\n  siblings already corrected in commit 7c318cdf3.\n\nPromotion beats minting here for a second reason: all three were generated\n2026-07-30, so they are OLDER than the two surviving P2s (minted 2026-08-02).\nPromoting them puts the older work\
-    \ ahead of the newer in the (priority,\nline_number) sort, which is the anti-LIFO remedy rather than another\ntop-inserted mint that would starve what is already waiting.\n\nTHE CLOSE (line 104, ai_system attribution for transcript 806e8218). Marked\ndone-unexecuted, NOT executed. The 2026-07-31 driver no-op verdict was\nre-verified rather than trusted: grep for ai_modified in the 14:17-14:18Z\nwindow across obsidian/ and archive/ returns zero files, and git log over\n14:10-14:25Z returns only 784690b05 auto(research-voids) and 8d0fe165e\nauto(check-links), both loop trigger commits. Nothing was authored in the\nwindow, so no ai_system field can need annotating.\n\nZERO LINE SHIFT, deliberately. todo.md is 18041 lines before and after; the\ndiff is 5 insertions and 5 deletions. Three promotions are one-character\nP3-to-P2 header edits; the close rewrites its header and reuses the existing\nSource line to carry the Status text rather than inserting one. No task block\nmoved and no anchor\
-    \ shifted, so any in-flight cycle_post line reference stays\nvalid.\n\nVERIFIED AFTER THE WRITE: count_p0_p2_tasks returns 5; select_queue_task\nreturns line 199, the highest-value promotion.\n\nCONCURRENCY: sibling agents \"main\" and \"coalesce\" were active in-session. The\nonly uncommitted delta before this run was a legitimate loop state advance\n(session_count 18141 to 18142, refine-draft last_run bump, recent_tasks\nreorder) -- left alone per the orphaned-cyclepost-state-advance precedent.\nREVERT only if a sibling replenish double-restores this slot.\n\nPruned run_922_note to hold the note ring at three."
-  run_924_note: 'run no.924 (2026-08-02T01:52Z, cycle-driven /replenish-queue): MINTED TWO P2 TASKS
+  run_925_note: "run no.925 (2026-08-02T03:40Z, cycle-driven /replenish-queue): ZERO\
+    \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT and CLOSING ONE\n\
+    CONFIRMED-SUPERSEDED P3. This deliberately breaks the six-run streak of\nlens-driven\
+    \ double-mints (runs 919-924).\n\nCOUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks\n\
+    and tools.todo.processor.parse_tasks, never from this file.\nBEFORE: 33 active,\
+    \ 0 P0, 0 P1, 2 P2, 31 P3 against MIN_QUEUE 3 -- below floor.\nAFTER:  32 active,\
+    \ 0 P0, 0 P1, 5 P2, 27 P3.\nThe two P2s that drained since run 924 were run 923s\
+    \ Chalmers mint\n(commit ef3ba9200) and run 922s BBS page-range mint (commit 7a84c315d);\n\
+    the two survivors are run 924s OWN pair, minted 40 minutes earlier.\n\nWHY ZERO\
+    \ MINTS WAS THE HONEST CALL. The queue is not thin -- it is 33 deep.\nEvery one\
+    \ of the last six runs minted two fresh P2s while a 31-task P3\nbacklog sat unpicked,\
+    \ because the MIN_QUEUE floor counts only P0-P2 and the\nselector sorts by (priority,\
+    \ line_number). Supply was re-checked before\ndeclining to mint: quality.orphaned_files\
+    \ is 0; unconsumed research is\ncap-blocked (topics 318/320, concepts 318/320,\
+    \ voids 100/100 measured live\nexcluding section index files) with one expand-topic\
+    \ already queued at line\n2106; length analysis reports 93 hard-plus entries but\
+    \ the head of that list\nis research notes and apex/apex-articles.md, i.e. the\
+    \ known false-over-length\nclass, and run 919 already recorded the verified length\
+    \ source as exhausted.\nMinting a seventh lens into a 31-deep backlog would have\
+    \ grown the queue\nwithout growing throughput.\n\nTHE THREE PROMOTIONS, each earning\
+    \ P2 independently -- verified on disk, all\nunblocked, all length-neutral by\
+    \ construction, so none is a queue-gaming bump:\n- line 199, topics-empty taxonomy\
+    \ sweep. Has a LIVE FUNCTIONAL CONSEQUENCE,\n  not tidiness: an empty topics field\
+    \ skips the agentic-social overlap filter\n  entirely, so those articles are the\
+    \ selectors only primary survivors, and\n  the pool is now a SINGLE element (hemispherectomy-and-the-resilience-of-\n\
+    \  unified-consciousness), making random.choice deterministic. Frontmatter\n \
+    \ only; the task forbids touching prose.\n- line 244, psychophysical-laws L213.\
+    \ Nav-surface class: the wikilink LABEL\n  reads \"Tallis observes\" while the\
+    \ TARGET is the introspection article, so\n  the alias asserts an attribution\
+    \ the destination does not carry. Fix the\n  label, never the slug.\n- line 276,\
+    \ metacognition.md L144. The bare-figure tail of the closed 2 plus\n  or minus\
+    \ 1 misattribution family -- the figure is stated with no citation\n  at all and\
+    \ Read, Manrique and Walker 2022 appears nowhere in the file. One\n  parenthetical\
+    \ plus one reference line, copied verbatim from the four\n  siblings already corrected\
+    \ in commit 7c318cdf3.\n\nPromotion beats minting here for a second reason: all\
+    \ three were generated\n2026-07-30, so they are OLDER than the two surviving P2s\
+    \ (minted 2026-08-02).\nPromoting them puts the older work ahead of the newer\
+    \ in the (priority,\nline_number) sort, which is the anti-LIFO remedy rather than\
+    \ another\ntop-inserted mint that would starve what is already waiting.\n\nTHE\
+    \ CLOSE (line 104, ai_system attribution for transcript 806e8218). Marked\ndone-unexecuted,\
+    \ NOT executed. The 2026-07-31 driver no-op verdict was\nre-verified rather than\
+    \ trusted: grep for ai_modified in the 14:17-14:18Z\nwindow across obsidian/ and\
+    \ archive/ returns zero files, and git log over\n14:10-14:25Z returns only 784690b05\
+    \ auto(research-voids) and 8d0fe165e\nauto(check-links), both loop trigger commits.\
+    \ Nothing was authored in the\nwindow, so no ai_system field can need annotating.\n\
+    \nZERO LINE SHIFT, deliberately. todo.md is 18041 lines before and after; the\n\
+    diff is 5 insertions and 5 deletions. Three promotions are one-character\nP3-to-P2\
+    \ header edits; the close rewrites its header and reuses the existing\nSource\
+    \ line to carry the Status text rather than inserting one. No task block\nmoved\
+    \ and no anchor shifted, so any in-flight cycle_post line reference stays\nvalid.\n\
+    \nVERIFIED AFTER THE WRITE: count_p0_p2_tasks returns 5; select_queue_task\nreturns\
+    \ line 199, the highest-value promotion.\n\nCONCURRENCY: sibling agents \"main\"\
+    \ and \"coalesce\" were active in-session. The\nonly uncommitted delta before\
+    \ this run was a legitimate loop state advance\n(session_count 18141 to 18142,\
+    \ refine-draft last_run bump, recent_tasks\nreorder) -- left alone per the orphaned-cyclepost-state-advance\
+    \ precedent.\nREVERT only if a sibling replenish double-restores this slot.\n\n\
+    Pruned run_922_note to hold the note ring at three."
+  run_924_note: 'run no.924 (2026-08-02T01:52Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS
 
     FROM A DIVERGENT-VERBATIM-QUOTE LENS. Floor restored 2 -> 4.
 
@@ -908,13 +972,16 @@ queue_status:
 
     BEFORE: 33 active, 0 P0, 0 P1, 2 P2, 31 P3 against MIN_QUEUE 3 -- BELOW the floor.
 
-    AFTER: 35 active, 0 P0, 0 P1, 4 P2, 31 P3. The pair that drained since run 923 was
+    AFTER: 35 active, 0 P0, 0 P1, 4 P2, 31 P3. The pair that drained since run 923
+    was
 
     run 923s own Kripke mint (commit a1e8871b4) and run 922s BBS page-range mint
 
-    (commit 28af70c5b); BOTH survivors are still open at lines 2044 and 2070, notes 5648
+    (commit 28af70c5b); BOTH survivors are still open at lines 2044 and 2070, notes
+    5648
 
-    and 2967 chars, byte-identical post-write. Bottom-inserted at 2174 and 2207 so FIFO
+    and 2967 chars, byte-identical post-write. Bottom-inserted at 2174 and 2207 so
+    FIFO
 
     drains the older pair first and no existing anchor shifted (verified: both
 
@@ -923,9 +990,11 @@ queue_status:
     the Chalmers task).
 
 
-    THE LENS -- SAME QUOTATION, DIFFERENT WORDING, ACROSS FILES. Third sibling of the
+    THE LENS -- SAME QUOTATION, DIFFERENT WORDING, ACROSS FILES. Third sibling of
+    the
 
-    run-922 page-range and run-923 year lenses, moved off the reference apparatus and
+    run-922 page-range and run-923 year lenses, moved off the reference apparatus
+    and
 
     onto BODY PROSE. Extract every double-quoted span from obsidian/{topics,concepts,
 
@@ -962,45 +1031,56 @@ queue_status:
 
     git log -S over every revision of tenets/tenets.md returns ZERO commits ever
 
-    introducing the quantum form -- so this is NOT stale-but-once-correct drift, it is
+    introducing the quantum form -- so this is NOT stale-but-once-correct drift, it
+    is
 
     a fabricated quotation of the Maps own tenet. Two aggravators make it a lens defect
 
     rather than seven typos: deep-review-2026-07-15-interface-heterogeneity ran an
 
-    explicit Quote-Fidelity Lens, reached the exact string, and EXEMPTED it for being a
+    explicit Quote-Fidelity Lens, reached the exact string, and EXEMPTED it for being
+    a
 
     self-quote (the self-quotation sibling of quote-aggregator-ratification-corrupts-
 
-    verbatim -- inspected and blessed, not missed); and CLAUDE.md L394 carries the wrong
+    verbatim -- inspected and blessed, not missed); and CLAUDE.md L394 carries the
+    wrong
 
-    form, so every agent that reads the instruction file reproduces it. Task scoped to
+    form, so every agent that reads the instruction file reproduces it. Task scoped
+    to
 
-    the seven QUOTED loci plus CLAUDE.md L394, and explicitly FORBIDS sweeping the nine
+    the seven QUOTED loci plus CLAUDE.md L394, and explicitly FORBIDS sweeping the
+    nine
 
-    unquoted paraphrases -- Tenet 2s own Definition says "at the quantum level", so the
+    unquoted paraphrases -- Tenet 2s own Definition says "at the quantum level", so
+    the
 
-    paraphrase is faithful to the tenets content and only the quotation marks create a
+    paraphrase is faithful to the tenets content and only the quotation marks create
+    a
 
     defect. tenets.md itself must not be edited (tenet amendment is an operator call).
 
     (2) RESEARCH-AND-ARCHIVE QUOTE RESIDUE -- six canonical quotations (Hume, Wheeler,
 
-    Nisbett and Wilson, Schwitzgebel, McGinn, Wittgenstein PI 272), ~20 quoted loci, all
+    Nisbett and Wilson, Schwitzgebel, McGinn, Wittgenstein PI 272), ~20 quoted loci,
+    all
 
     in obsidian/research/ or archive/, all with the correct form ALREADY publisher-
 
     verified in a named in-repo review file, so zero web budget is needed. One mechanism:
 
-    a deep-review corrects the file it was pointed at, the live tree ends clean, and the
+    a deep-review corrects the file it was pointed at, the live tree ends clean, and
+    the
 
     string survives in the research note that seeded it and the archived body that
 
-    inherited it -- fix-by-file-leaves-string-siblings-live at corpus scale. Worst locus
+    inherited it -- fix-by-file-leaves-string-siblings-live at corpus scale. Worst
+    locus
 
     is a fabricated quote FRAME (three words of invented preamble inside the quotation
 
-    marks). Notable sub-finding: the Schwitzgebel family is a HOUSE-STYLE mechanism, not
+    marks). Notable sub-finding: the Schwitzgebel family is a HOUSE-STYLE mechanism,
+    not
 
     typos -- British spelling normalisation crossed into verbatim quotes from a US
 
@@ -1013,19 +1093,24 @@ queue_status:
 
     them. (i) RIVAL PAPERS WITH DELIBERATELY OPPOSED TITLES -- concepts/local-tomography
 
-    carries "can be experimentally falsified" (Renou 2021 Nature) at L32 and "cannot be
+    carries "can be experimentally falsified" (Renou 2021 Nature) at L32 and "cannot
+    be
 
     experimentally falsified" (Hoffreumon and Woods 2026) at L34. This was the most
 
-    alarming-looking hit in the entire scan and is entirely correct; the 2026 paper is a
+    alarming-looking hit in the entire scan and is entirely correct; the 2026 paper
+    is a
 
-    rebuttal that inverts the 2021 title on purpose. Caught only by opening the file --
+    rebuttal that inverts the 2021 title on purpose. Caught only by opening the file
+    --
 
-    exactly replenish-asserted-concrete-defect-often-false. (ii) SHORTER EXCERPTS of the
+    exactly replenish-asserted-concrete-defect-often-false. (ii) SHORTER EXCERPTS
+    of the
 
     same quote. (iii) EDITIONS AND TRANSLATIONS, carried over from run 923.
 
-    ALSO DEDUPED, NOT MINTED: the Carroll-regress variants (concepts/carrolls-regress vs
+    ALSO DEDUPED, NOT MINTED: the Carroll-regress variants (concepts/carrolls-regress
+    vs
 
     voids/inference-void) are already owned by an open P3 at line 2003; found by grepping
 
@@ -1036,7 +1121,8 @@ queue_status:
 
     SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files
 
-    is 0); length_analysis -- unchanged from run 923, only positions registers and the
+    is 0); length_analysis -- unchanged from run 923, only positions registers and
+    the
 
     vetoed epistemology-of-convergence-arguments are over threshold; unconsumed_research
 
@@ -1047,14 +1133,16 @@ queue_status:
     deep-review pool converged.
 
 
-    CONCURRENCY: sibling agents main and coalesce were active in-session. git status was
+    CONCURRENCY: sibling agents main and coalesce were active in-session. git status
+    was
 
     taken before the write (only evolution-state.yaml dirty) and the queue re-parsed
 
     live immediately before and after. REVERT only if a sibling replenish double-restores
 
     this slot. Pruned run_921_note to hold the note ring at three.'
-  run_923_note: 'run no.923 (2026-08-02T01:04Z, cycle-driven /replenish-queue): MINTED TWO P2 TASKS
+  run_923_note: 'run no.923 (2026-08-02T01:04Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS
 
     FROM A DIVERGENT-CITATION-YEAR LENS. Floor restored 2 -> 4.
 
@@ -1065,13 +1153,16 @@ queue_status:
 
     BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor.
 
-    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 922 was
+    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 922
+    was
 
     run 921s (skill-delegation refine, commit 0b1bdf9aa; qualia recalibration, commit
 
-    1b4a4f7a7); BOTH of run 922s P2s are still open at lines 2044 and 2062, notes 6527
+    1b4a4f7a7); BOTH of run 922s P2s are still open at lines 2044 and 2062, notes
+    6527
 
-    and 7969 chars, byte-identical post-write. Bottom-inserted at 2079 and 2103 so FIFO
+    and 7969 chars, byte-identical post-write. Bottom-inserted at 2079 and 2103 so
+    FIFO
 
     drains run 922s pair first and no existing anchor shifted (verified: both pre-existing
 
@@ -1080,16 +1171,20 @@ queue_status:
 
     THE LENS -- SAME WORK, DIVERGENT YEAR, ACROSS FILES. Sibling of run 922s page-range
 
-    lens, same mechanics on a different field: extract every reference-style line carrying
+    lens, same mechanics on a different field: extract every reference-style line
+    carrying
 
-    (Author, Year) plus a quoted-or-italicised title across obsidian/ and archive/, key by
+    (Author, Year) plus a quoted-or-italicised title across obsidian/ and archive/,
+    key by
 
-    (surname, first three non-stopword title words), report keys carrying more than one
+    (surname, first three non-stopword title words), report keys carrying more than
+    one
 
     distinct year. 4588 keys, 90 divergent-year families.
 
 
-    THE DOMINANT FALSE-POSITIVE CLASS IS EDITIONS AND TRANSLATIONS -- RECORD IT, it is
+    THE DOMINANT FALSE-POSITIVE CLASS IS EDITIONS AND TRANSLATIONS -- RECORD IT, it
+    is
 
     most of the 90. Legitimate divergences seen: Husserl 1928/1991 (Brough trans.),
 
@@ -1099,11 +1194,14 @@ queue_status:
 
     (1st/2nd ed.), Gallagher and Zahavi 2012/2020 (2nd/3rd ed.), Strawson 1994/2010,
 
-    Locke 1689/1690 (title-page date). FILTERING ON AN EDITION MARKER IN THE LINE IS NOT
+    Locke 1689/1690 (title-page date). FILTERING ON AN EDITION MARKER IN THE LINE
+    IS NOT
 
-    SUFFICIENT -- most loci carry a bare "(YEAR). Publisher." with no marker at all. The
+    SUFFICIENT -- most loci carry a bare "(YEAR). Publisher." with no marker at all.
+    The
 
-    discriminating question is whether the two years denote DIFFERENT PUBLICATION EVENTS
+    discriminating question is whether the two years denote DIFFERENT PUBLICATION
+    EVENTS
 
     of the same work (legitimate) or the SAME event dated two ways (defect). One key
 
@@ -1114,69 +1212,93 @@ queue_status:
 
     WHAT SURVIVED, AND WHY THESE TWO.
 
-    (1) KRIPKE -- the defect is a TUPLE, not a year: "1972" + "Harvard University Press"
+    (1) KRIPKE -- the defect is a TUPLE, not a year: "1972" + "Harvard University
+    Press"
 
-    pairs the Reidel chapter''s year with the standalone book''s publisher. Already diagnosed
+    pairs the Reidel chapter''s year with the standalone book''s publisher. Already
+    diagnosed
 
     and fixed in exactly ONE file by deep-review-2026-07-17 (L34) and never propagated;
 
-    deep-review-2026-05-27 (L35) had spotted the corpus-wide divergence, correctly ruled it
+    deep-review-2026-05-27 (L35) had spotted the corpus-wide divergence, correctly
+    ruled it
 
-    bibliographic ambiguity, and concluded "No fix; no propagation needed" -- right about the
+    bibliographic ambiguity, and concluded "No fix; no propagation needed" -- right
+    about the
 
-    divergence, wrong about the tuple, because it was inspecting a file that already read
+    divergence, wrong about the tuple, because it was inspecting a file that already
+    read
 
-    1980 + Harvard. Five broken loci remain across live/archive/research, plus one ratifying
+    1980 + Harvard. Five broken loci remain across live/archive/research, plus one
+    ratifying
 
-    review ledger (deep-review-2026-06-26-dualism L56, "real-correct (canon)"). No web call
+    review ledger (deep-review-2026-06-26-dualism L56, "real-correct (canon)"). No
+    web call
 
     needed: the canonical dual form is live at concepts/kripke-a-posteriori-necessity-argument.md
 
     L78-79 and web-verified in the 07-12 research note.
 
-    (2) CHALMERS "Phenomenal Concepts and the Explanatory Gap" -- 9 live loci split 4x 2006 /
+    (2) CHALMERS "Phenomenal Concepts and the Explanatory Gap" -- 9 live loci split
+    4x 2006 /
 
     5x 2007 on an IDENTICAL venue string, and THE CORPUS HAS RATIFIED BOTH:
 
-    deep-review-2026-05-31-phenomenal-acquaintance L33 moved a file 2006->2007 "for cross-corpus
+    deep-review-2026-05-31-phenomenal-acquaintance L33 moved a file 2006->2007 "for
+    cross-corpus
 
-    consistency"; deep-review-2026-07-31-phenomenal-consciousness L40 refused the same move,
+    consistency"; deep-review-2026-07-31-phenomenal-consciousness L40 refused the
+    same move,
 
-    called it "a false fix", and named the mechanism (print volume vs Oxford Scholarship Online
+    called it "a false fix", and named the mechanism (print volume vs Oxford Scholarship
+    Online
 
-    edition date). The task is scoped to SETTLE THE CONVENTION and record it inside the canonical
+    edition date). The task is scoped to SETTLE THE CONVENTION and record it inside
+    the canonical
 
-    reference entry, NOT to pick a year -- a year-only sweep is what produced the oscillation.
+    reference entry, NOT to pick a year -- a year-only sweep is what produced the
+    oscillation.
 
 
     CANDIDATE REJECTED AS A DUPLICATE -- O''Brien-Kop 2023/2024, 9 loci, and the cleanest-looking
 
-    family in the whole scan (identical volume/issue/pages under two different years). An open P3
+    family in the whole scan (identical volume/issue/pages under two different years).
+    An open P3
 
-    at line 2012 already owns the last two loci with fuller detail than this run would have
+    at line 2012 already owns the last two loci with fuller detail than this run would
+    have
 
-    written. Grepping the author surname against open task NOTES, not just task TITLES, is what
+    written. Grepping the author surname against open task NOTES, not just task TITLES,
+    is what
 
     caught it -- the title says only "O''Brien-Kop citation".
 
 
-    SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files is 0);
+    SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files
+    is 0);
 
-    length_analysis -- the only live over-threshold content is positions registers (condensing a
+    length_analysis -- the only live over-threshold content is positions registers
+    (condensing a
 
-    register is a category error) and epistemology-of-convergence-arguments, explicitly vetoed as
+    register is a category error) and epistemology-of-convergence-arguments, explicitly
+    vetoed as
 
-    churn-prone; unconsumed_research and gap_analysis -- topics 318/320 and concepts 318/320 leave
+    churn-prone; unconsumed_research and gap_analysis -- topics 318/320 and concepts
+    318/320 leave
 
-    two slots each and voids is at cap 100/100, so expand-topic is effectively blocked; staleness
+    two slots each and voids is at cap 100/100, so expand-topic is effectively blocked;
+    staleness
 
     -- deep-review pool converged.
 
 
-    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session. git status and a
+    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session. git
+    status and a
 
-    live re-parse were taken immediately before the write; only todo.md and this file were dirty.
+    live re-parse were taken immediately before the write; only todo.md and this file
+    were dirty.
 
-    REVERT only if a sibling replenish double-restores this slot. Pruned run_920_note to hold the
+    REVERT only if a sibling replenish double-restores this slot. Pruned run_920_note
+    to hold the
 
     note ring at three.'
