@@ -3,7 +3,7 @@ title: "Research Notes - Phenomenal Concepts Strategy as Strongest Materialist R
 created: 2026-03-29
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-03-29T09:01:00+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ The phenomenal concepts strategy (PCS) is widely regarded as the most sophistica
 - **Tenet alignment**: Conflicts with Tenet 1 (Dualism) — attempts to preserve physicalism while acknowledging the epistemic gap
 - **Quote**: The New Knowledge/Old Fact View "can be seen as a specific version of a more general physicalist strategy for dealing with a number of different challenges, the Phenomenal Concept Strategy"
 
-### Chalmers, D.J. — "Phenomenal Concepts and the Explanatory Gap" (2006)
+### Chalmers, D.J. — "Phenomenal Concepts and the Explanatory Gap" (2007)
 - **URL**: https://consc.net/papers/pceg.pdf
 - **Type**: Paper (in Alter & Walter eds., *Phenomenal Concepts and Phenomenal Knowledge*)
 - **Key points**:
@@ -191,7 +191,7 @@ The phenomenal concepts strategy (PCS) is widely regarded as the most sophistica
 | 1997 | Loar, "Phenomenal States" (revised) | Expanded PCS account responding to critics |
 | 2002 | Papineau, *Thinking about Consciousness* | Quotational account of phenomenal concepts |
 | 2005 | Stoljar, "Physicalism and Phenomenal Concepts" | Coins the term "phenomenal concept strategy" |
-| 2006 | Chalmers, "Phenomenal Concepts and the Explanatory Gap" | Master argument against all versions of PCS |
+| 2007 | Chalmers, "Phenomenal Concepts and the Explanatory Gap" | Master argument against all versions of PCS |
 | 2007 | Alter & Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge* | Definitive essay collection; major contributions from all sides |
 | 2008 | Carruthers & Veillet reply to Chalmers | Challenge the master argument's equivocation |
 | 2009 | Ball, "There Are No Phenomenal Concepts" | Radical eliminativism about phenomenal concepts |
@@ -230,7 +230,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1–23.
 - Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.
 - Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9-10), 212–236.
-- Chalmers, D.J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+- Chalmers, D.J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
 - Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–135.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.

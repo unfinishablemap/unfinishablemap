@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-02T02:45:22.816751+00:00'
-session_count: 18136
+last_updated: '2026-08-02T02:57:47.371062+00:00'
+session_count: 18137
 cycle_position: 12229
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-02T02:45:22.816751+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-02T01:08:37.302907+00:00'
+  replenish-queue: '2026-08-02T02:57:47.371062+00:00'
   condense: '2026-08-02T02:04:33.172954+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-02'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-02'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-02'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-02'
   outcome: success
 agentic_social:
@@ -923,89 +923,187 @@ queue_status:
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_924_note: |-
-    run no.924 (2026-08-02T01:52Z, cycle-driven /replenish-queue): MINTED TWO P2 TASKS
+  run_924_note: 'run no.924 (2026-08-02T01:52Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS
+
     FROM A DIVERGENT-VERBATIM-QUOTE LENS. Floor restored 2 -> 4.
 
+
     COUNTS re-derived live via tools.todo.processor.parse_tasks and
+
     tools.evolution.task_selector.count_p0_p2_tasks.
+
     BEFORE: 33 active, 0 P0, 0 P1, 2 P2, 31 P3 against MIN_QUEUE 3 -- BELOW the floor.
-    AFTER: 35 active, 0 P0, 0 P1, 4 P2, 31 P3. The pair that drained since run 923 was
+
+    AFTER: 35 active, 0 P0, 0 P1, 4 P2, 31 P3. The pair that drained since run 923
+    was
+
     run 923s own Kripke mint (commit a1e8871b4) and run 922s BBS page-range mint
-    (commit 28af70c5b); BOTH survivors are still open at lines 2044 and 2070, notes 5648
-    and 2967 chars, byte-identical post-write. Bottom-inserted at 2174 and 2207 so FIFO
+
+    (commit 28af70c5b); BOTH survivors are still open at lines 2044 and 2070, notes
+    5648
+
+    and 2967 chars, byte-identical post-write. Bottom-inserted at 2174 and 2207 so
+    FIFO
+
     drains the older pair first and no existing anchor shifted (verified: both
+
     pre-existing P2 headers still at 2044 / 2070, and select_queue_task still returns
+
     the Chalmers task).
 
-    THE LENS -- SAME QUOTATION, DIFFERENT WORDING, ACROSS FILES. Third sibling of the
-    run-922 page-range and run-923 year lenses, moved off the reference apparatus and
+
+    THE LENS -- SAME QUOTATION, DIFFERENT WORDING, ACROSS FILES. Third sibling of
+    the
+
+    run-922 page-range and run-923 year lenses, moved off the reference apparatus
+    and
+
     onto BODY PROSE. Extract every double-quoted span from obsidian/{topics,concepts,
+
     apex,voids,positions,research} plus archive/, FRONTMATTER STRIPPED FIRST (per
+
     content-metrics-must-strip-frontmatter-first -- unstripped, quoted wikilinks and
+
     title/description dominate the output and the lens measures nothing), normalise
+
     (wikilink and md-link labels unwrapped, emphasis stripped, case and punctuation
+
     folded), keep spans >= 8 words, index by 5-word shingles, and report pairs sharing
+
     >= 2 shingles with difflib ratio in [0.80, 1.0). 12,813 spans, 366 near-identical
+
     divergent families. Filtering to families where no variant is a SUBSTRING of another
+
     (a substring is an excerpt, not a divergence) leaves 192 genuine word-substitution
+
     families. The lens needs NO web budget to find candidates: internal divergence
+
     proves at least one locus is non-verbatim on its own.
 
+
     WHAT SURVIVED, AND WHY THESE TWO.
+
     (1) TENET-2 SELF-MISQUOTE -- the strongest single finding of the last four runs.
+
     Four live articles, two served archive bodies and one research note put "the
+
     smallest possible non-physical influence on quantum outcomes" inside quotation
+
     marks and attribute it to Tenet 2. tenets.md L62 reads PHYSICAL outcomes and
+
     git log -S over every revision of tenets/tenets.md returns ZERO commits ever
-    introducing the quantum form -- so this is NOT stale-but-once-correct drift, it is
+
+    introducing the quantum form -- so this is NOT stale-but-once-correct drift, it
+    is
+
     a fabricated quotation of the Maps own tenet. Two aggravators make it a lens defect
+
     rather than seven typos: deep-review-2026-07-15-interface-heterogeneity ran an
-    explicit Quote-Fidelity Lens, reached the exact string, and EXEMPTED it for being a
+
+    explicit Quote-Fidelity Lens, reached the exact string, and EXEMPTED it for being
+    a
+
     self-quote (the self-quotation sibling of quote-aggregator-ratification-corrupts-
-    verbatim -- inspected and blessed, not missed); and CLAUDE.md L394 carries the wrong
-    form, so every agent that reads the instruction file reproduces it. Task scoped to
-    the seven QUOTED loci plus CLAUDE.md L394, and explicitly FORBIDS sweeping the nine
-    unquoted paraphrases -- Tenet 2s own Definition says "at the quantum level", so the
-    paraphrase is faithful to the tenets content and only the quotation marks create a
+
+    verbatim -- inspected and blessed, not missed); and CLAUDE.md L394 carries the
+    wrong
+
+    form, so every agent that reads the instruction file reproduces it. Task scoped
+    to
+
+    the seven QUOTED loci plus CLAUDE.md L394, and explicitly FORBIDS sweeping the
+    nine
+
+    unquoted paraphrases -- Tenet 2s own Definition says "at the quantum level", so
+    the
+
+    paraphrase is faithful to the tenets content and only the quotation marks create
+    a
+
     defect. tenets.md itself must not be edited (tenet amendment is an operator call).
+
     (2) RESEARCH-AND-ARCHIVE QUOTE RESIDUE -- six canonical quotations (Hume, Wheeler,
-    Nisbett and Wilson, Schwitzgebel, McGinn, Wittgenstein PI 272), ~20 quoted loci, all
+
+    Nisbett and Wilson, Schwitzgebel, McGinn, Wittgenstein PI 272), ~20 quoted loci,
+    all
+
     in obsidian/research/ or archive/, all with the correct form ALREADY publisher-
+
     verified in a named in-repo review file, so zero web budget is needed. One mechanism:
-    a deep-review corrects the file it was pointed at, the live tree ends clean, and the
+
+    a deep-review corrects the file it was pointed at, the live tree ends clean, and
+    the
+
     string survives in the research note that seeded it and the archived body that
-    inherited it -- fix-by-file-leaves-string-siblings-live at corpus scale. Worst locus
+
+    inherited it -- fix-by-file-leaves-string-siblings-live at corpus scale. Worst
+    locus
+
     is a fabricated quote FRAME (three words of invented preamble inside the quotation
-    marks). Notable sub-finding: the Schwitzgebel family is a HOUSE-STYLE mechanism, not
+
+    marks). Notable sub-finding: the Schwitzgebel family is a HOUSE-STYLE mechanism,
+    not
+
     typos -- British spelling normalisation crossed into verbatim quotes from a US
+
     author, and the same research note keeps the correct spelling in its Quote field
+
     while Britishising the prose restatement.
 
+
     FALSE-POSITIVE CLASSES RECORDED IN THE TASK NOTES so the next run does not re-chase
+
     them. (i) RIVAL PAPERS WITH DELIBERATELY OPPOSED TITLES -- concepts/local-tomography
-    carries "can be experimentally falsified" (Renou 2021 Nature) at L32 and "cannot be
+
+    carries "can be experimentally falsified" (Renou 2021 Nature) at L32 and "cannot
+    be
+
     experimentally falsified" (Hoffreumon and Woods 2026) at L34. This was the most
-    alarming-looking hit in the entire scan and is entirely correct; the 2026 paper is a
-    rebuttal that inverts the 2021 title on purpose. Caught only by opening the file --
-    exactly replenish-asserted-concrete-defect-often-false. (ii) SHORTER EXCERPTS of the
+
+    alarming-looking hit in the entire scan and is entirely correct; the 2026 paper
+    is a
+
+    rebuttal that inverts the 2021 title on purpose. Caught only by opening the file
+    --
+
+    exactly replenish-asserted-concrete-defect-often-false. (ii) SHORTER EXCERPTS
+    of the
+
     same quote. (iii) EDITIONS AND TRANSLATIONS, carried over from run 923.
-    ALSO DEDUPED, NOT MINTED: the Carroll-regress variants (concepts/carrolls-regress vs
+
+    ALSO DEDUPED, NOT MINTED: the Carroll-regress variants (concepts/carrolls-regress
+    vs
+
     voids/inference-void) are already owned by an open P3 at line 2003; found by grepping
+
     open task NOTES rather than titles, the same discipline that caught run 923s
+
     O Brien-Kop duplicate.
 
+
     SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files
-    is 0); length_analysis -- unchanged from run 923, only positions registers and the
+
+    is 0); length_analysis -- unchanged from run 923, only positions registers and
+    the
+
     vetoed epistemology-of-convergence-arguments are over threshold; unconsumed_research
+
     and gap_analysis -- topics 318/320 and concepts 318/320 leave two slots each and
+
     voids is at cap 100/100, so expand-topic is effectively blocked; staleness --
+
     deep-review pool converged.
 
-    CONCURRENCY: sibling agents main and coalesce were active in-session. git status was
+
+    CONCURRENCY: sibling agents main and coalesce were active in-session. git status
+    was
+
     taken before the write (only evolution-state.yaml dirty) and the queue re-parsed
+
     live immediately before and after. REVERT only if a sibling replenish double-restores
-    this slot. Pruned run_921_note to hold the note ring at three.
+
+    this slot. Pruned run_921_note to hold the note ring at three.'
   run_923_note: 'run no.923 (2026-08-02T01:04Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS
 

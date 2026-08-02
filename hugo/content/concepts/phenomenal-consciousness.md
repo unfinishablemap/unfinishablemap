@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-02 00:46:17+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 09:19:00+00:00
-lastmod: 2026-08-02 00:46:17+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,7 +182,7 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450. https://doi.org/10.2307/2183914
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
-1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
+1. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *The Philosophical Quarterly*, 32(127), 127–136. https://doi.org/10.2307/2960077
 1. Loar, B. (1990/1997). "Phenomenal States." *Philosophical Perspectives*, 4, 81–108. https://doi.org/10.2307/2214188 Reprinted in N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
 1. McGinn, C. (1989). "Can We Solve the Mind–Body Problem?" *Mind*, 98(391), 349–366. https://doi.org/10.1093/mind/XCVIII.391.349

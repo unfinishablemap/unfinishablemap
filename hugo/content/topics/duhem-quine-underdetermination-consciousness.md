@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-06-15 00:00:00+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 10:45:59+00:00
-lastmod: 2026-06-15 00:00:00+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,7 +154,7 @@ A caution against the article's own temptation: that a theory is underdetermined
 10. Balog, K. (2012). In Defense of the Phenomenal Concept Strategy. *Philosophy and Phenomenological Research*, 84(1), 1-23. https://doi.org/10.1111/j.1933-1592.2011.00541.x
 11. Loar, B. (1990/1997). Phenomenal States. In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
 12. Papineau, D. (2002). *Thinking about Consciousness*. Oxford: Clarendon Press.
-13. Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+13. Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 14. Davidson, D. (1974). On the Very Idea of a Conceptual Scheme. *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
 15. Laudan, L. & Leplin, J. (1991). Empirical Equivalence and Underdetermination. *The Journal of Philosophy*, 88(9), 449-472.
 16. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/

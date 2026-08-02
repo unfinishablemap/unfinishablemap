@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-08-02T00:46:17+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -257,7 +257,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Block, N. (1990). "Inverted Earth." *Philosophical Perspectives*, 4, 53-79.
 1. Block, N. (1996). "Mental Paint and Mental Latex." *Philosophical Issues*, 7, 19-49.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+1. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 1. Dennett, D. (1988). "Quining Qualia." In *Consciousness in Contemporary Science*.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.

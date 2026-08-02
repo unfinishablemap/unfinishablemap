@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 22:00:00+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-14 22:00:00+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,7 +150,7 @@ However, Chalmers's master argument suggests deep problems with PCS. The dilemma
 
 - Loar, B. (1990/1997). "Phenomenal States." In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*.
 - Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-- Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
+- Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
 - Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*.
 - Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-20 00:00:00+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-20 00:00:00+00:00
-lastmod: 2026-06-20 00:00:00+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -121,5 +121,5 @@ The philosophy of language provides independent support for several of the Map's
 5. Kripke, S. (1982). *Wittgenstein on Rules and Private Language*. Harvard University Press.
 6. Carnap, R. (1932). "Psychology in Physical Language." *Erkenntnis*, 3, 107-142.
 7. Ryle, G. (1949). *The Concept of Mind*. Hutchinson.
-8. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+8. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 9. Brandom, R. (1994). *Making It Explicit*. Harvard University Press.

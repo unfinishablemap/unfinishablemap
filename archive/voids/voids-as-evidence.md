@@ -4,7 +4,7 @@ description: "Two distinct arguments converge: the capacity to conceive cognitiv
 created: 2026-01-16
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-08-01T13:30:19+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 last_deep_review: 2026-04-24T10:30:00+00:00
 draft: false
 topics:
@@ -188,7 +188,7 @@ The two arguments connect to each of the Map's [[tenets]], often reinforcing one
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 2. Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
-3. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
+3. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap."
 4. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 6. Heidegger, M. (1927). *Being and Time*. Trans. Macquarrie & Robinson. Harper & Row.

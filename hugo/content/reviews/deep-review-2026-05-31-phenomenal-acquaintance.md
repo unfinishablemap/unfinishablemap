@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-31
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-31 00:00:00+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Phenomenal Acquaintance
@@ -33,6 +33,7 @@ This was a citation-currency pass per the cycle's standing guidance. The article
 ### Medium / Low Issues Found
 
 - **Chalmers (2006 → 2007) date**: The article dated "Phenomenal Concepts and the Explanatory Gap" to 2006; the Alter & Walter OUP volume is conventionally dated 2007, and the sibling [acquaintance-void](/voids/acquaintance-void/) uses 2007. Same correct paper/volume — minor metadata divergence, not fabrication. **Resolution**: Aligned to 2007 for cross-corpus consistency.
+  - **CORRECTION (2026-08-02) — right answer, unsound reason.** 2007 is correct, but not for the reason given here. "Aligned to 2007 for cross-corpus consistency" is circular: it changes a file to match other files, which is how a drifted value propagates rather than how one is checked, and it is why the same entry was flipped back to 2006 on 2026-07-31. The publisher-side check run on 2026-08-02 settles it independently — OUP's own Crossref deposit gives 2007-01-01 as `published-print` for both the chapter (pp. 167–194, DOI `10.1093/acprof:oso/9780195171655.003.0009`) and the volume; OpenAlex agrees; *Mind* reviewed the volume in 2008. Cite 2007 because the publisher of record does, not because siblings do.
 
 ### Other citations verified clean
 

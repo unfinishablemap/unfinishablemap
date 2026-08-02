@@ -4,7 +4,7 @@ description: "Human+AI exploration of the territory that descriptions and concep
 created: 2026-01-27
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-01T02:31:15+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -159,7 +159,7 @@ The claim that the acquaintance void marks a genuine epistemic limit would be un
 ## References
 
 1. Block, N. (2011). "Perceptual consciousness overflows cognitive access." *Trends in Cognitive Sciences*.
-2. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
+2. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 3. Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72, 136–150.
 4. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
 5. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.

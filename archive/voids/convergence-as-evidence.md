@@ -4,7 +4,7 @@ description: "How independently catalogued cognitive voids converge into familie
 created: 2026-01-16
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-08-01T13:30:19+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -181,7 +181,7 @@ The convergence analysis connects to each of the Map's [[tenets]].
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 2. Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
-3. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
+3. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap."
 4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 5. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
 6. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.

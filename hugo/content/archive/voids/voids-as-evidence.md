@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-08-01 13:30:19+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 archive_reason: Coalesced into What Cognitive Voids Reveal
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-24 10:30:00+00:00
-lastmod: 2026-08-01 13:30:19+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 original_path: /voids/voids-as-evidence/
 related_articles:
@@ -192,7 +192,7 @@ The two arguments connect to each of the Map's [tenets](/tenets/), often reinfor
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 2. Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
-3. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
+3. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap."
 4. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 6. Heidegger, M. (1927). *Being and Time*. Trans. Macquarrie & Robinson. Harper & Row.

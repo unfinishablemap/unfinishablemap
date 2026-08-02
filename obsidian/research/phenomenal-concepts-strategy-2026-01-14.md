@@ -3,7 +3,7 @@ title: "Research: Phenomenal Concepts Strategy"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T22:00:00+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,7 +148,7 @@ However, Chalmers's master argument suggests deep problems with PCS. The dilemma
 
 - Loar, B. (1990/1997). "Phenomenal States." In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*.
 - Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-- Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
+- Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
 - Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*.
 - Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.

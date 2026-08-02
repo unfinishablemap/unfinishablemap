@@ -4,7 +4,7 @@ description: "Cognitive limits are doubly informative: their shape reveals menta
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-08-01T13:30:19+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 last_deep_review: 2026-07-18T07:37:35+00:00
 draft: false
 topics:
@@ -192,7 +192,7 @@ Cross-cultural convergence—Chomsky and McGinn in the West, [[apophatic-approac
 ## References
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
-1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 1. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Heidegger, M. (1927). *Being and Time*. Trans. Macquarrie & Robinson. Harper & Row.

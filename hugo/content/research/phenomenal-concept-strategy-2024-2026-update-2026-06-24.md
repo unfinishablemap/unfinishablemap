@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-06-24 08:26:05+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ date: &id001 2026-06-24
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-06-24 08:26:05+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The phenomenal concept strategy (PCS) — the type-B physicalist move of locatin
   - Names Papineau's "antipathetic fallacy" as the diagnostic that phenomenal concepts make physicalism *feel* false even when true.
   - PCS advocates self-identify as type-B materialists: epistemic gap, no ontological gap; "our concepts are dualistic, but reality is monistic."
 
-### Chalmers, D.J. — "Phenomenal Concepts and the Explanatory Gap" (2006/2007)
+### Chalmers, D.J. — "Phenomenal Concepts and the Explanatory Gap" (2007)
 - **URL**: https://consc.net/papers/pceg.pdf
 - **Type**: Paper (in Alter & Walter, eds., *Phenomenal Concepts and Phenomenal Knowledge*, OUP 2007)
 - **Key points**:

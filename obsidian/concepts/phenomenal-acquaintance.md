@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-09
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-07-30T03:26:19+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,6 +179,6 @@ Representationalists raise a different challenge. If introspection is *transpare
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (Eds.), *The Nature of Consciousness*. MIT Press.
 1. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
-1. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+1. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 1. Chalmers, D. J. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
 1. Gertler, B. (2012). "Renewed Acquaintance." In D. Smithies & D. Stoljar (Eds.), *Introspection and Consciousness*. Oxford University Press.

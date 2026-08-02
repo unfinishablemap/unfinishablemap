@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-09
-ai_modified: 2026-06-09 22:07:46+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-06-09
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-06-09 22:07:46+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Modal Structure of Phenomenal Properties
@@ -42,6 +42,7 @@ None. Fifth consecutive review with no critical issues.
 - Chalmers, D. (2002) "Does Conceivability Entail Possibility?" eds. Gendler & Hawthorne, *Conceivability and Possibility*, OUP — **real-correct** (web-verified this cycle: editors, year, venue, publisher all match; Oxford Academic pp. 145-200).
 - Chalmers, D. (1996) *The Conscious Mind*, OUP — real-correct (canonical; re-verified 05-26, no intervening change).
 - Chalmers, D. (2006) "Phenomenal Concepts and the Explanatory Gap" eds. Alter & Walter, OUP — real-correct (canonical; verified 05-26).
+  - **CORRECTION (2026-08-02)**: the *work* is real-correct, but the **year is not**. The Alter & Walter volume's imprint year of record is 2007 (OUP Crossref deposit, `published-print` 2007-01-01, pp. 167–194; OpenAlex agrees). The 2006 in circulation traces to Chalmers's pre-publication "forthcoming" notice, not to the published volume. Corrected corpus-wide 2026-08-02; the entry now carries pages, subtitle and DOI so the year is self-verifying.
 - Kripke, S. (1972/1980) *Naming and Necessity*, Harvard UP — real-correct (canonical).
 - Jackson, F. (1982) "Epiphenomenal Qualia" *Phil. Quarterly* 32(127):127-136 — real-correct (page/volume/issue match the standard record).
 - Levine, J. (1983) "Materialism and Qualia: The Explanatory Gap" *Pacific Phil. Quarterly* 64:354-361 — real-correct.

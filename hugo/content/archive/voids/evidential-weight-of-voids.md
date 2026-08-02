@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Convergence as Evidence
 archived: true
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-07 03:38:00+00:00
-lastmod: 2026-03-19 02:21:06+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 original_path: /voids/evidential-weight-of-voids/
 related_articles:
@@ -118,7 +118,7 @@ The argument also connects to the Map's intellectual honesty about its own limit
 ## References
 
 1. Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
-1. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
+1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap."
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 1. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding."
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.

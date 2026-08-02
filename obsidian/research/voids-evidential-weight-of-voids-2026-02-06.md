@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Evidential Weight of Voids"
 created: 2026-02-06
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 target_section: voids
 topics:
@@ -216,6 +216,6 @@ Based on this research, a voids article could:
 7. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 8. Moreland, J. P. (2008). *Consciousness and the Existence of God: A Theistic Argument*. Routledge.
 9. Gertler, B. (2008). "Dualism: How Epistemic Issues Drive Debates about the Ontology of Consciousness." In A. Bentley (ed.), *The Oxford Handbook of Philosophy of Mind*.
-10. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap." https://consc.net/papers/pceg.html
+10. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." https://consc.net/papers/pceg.html
 11. Kriegel, U. (2003). "The New Mysterianism and the Thesis of Cognitive Closure." *Acta Analytica*, 18. https://link.springer.com/article/10.1007/s12136-003-1020-1
 12. Swinburne, R. (1996). "Dualism Intact." http://www.newdualism.org/papers/R.Swinburne/Dualism-Intact1996.htm

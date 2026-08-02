@@ -4,7 +4,7 @@ description: "The phenomenal concepts strategy concedes the explanatory gap but 
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-06-24T17:19:18+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 archived: true
 archived_date: 2026-07-12T19:34:26+00:00
@@ -75,7 +75,7 @@ What unites these accounts is an escalating commitment: from Loar's claim that e
 
 ## The Master Argument: A Structural Dilemma
 
-Chalmers's master argument, presented in "Phenomenal Concepts and the Explanatory Gap" (2006), targets all versions of PCS simultaneously. Let C be whatever features make phenomenal concepts "special" — the features PCS invokes to explain the gap.
+Chalmers's master argument, presented in "Phenomenal Concepts and the Explanatory Gap" (2007), targets all versions of PCS simultaneously. Let C be whatever features make phenomenal concepts "special" — the features PCS invokes to explain the gap.
 
 **Horn 1:** If physical duplicates lacking C are conceivable, then C is not physically explicable. There would be an explanatory gap between physics and C itself. PCS has not dissolved the hard problem — it has relocated it from consciousness to phenomenal concepts.
 
@@ -174,7 +174,7 @@ If phenomenal concepts really are unlike all other concepts, this itself demands
 1. Loar, B. (1990/1997). "Phenomenal States." In N. Block, O. Flanagan, & G. Güzeldere (eds.), *The Nature of Consciousness*. MIT Press.
 2. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
 3. Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*, 20(5), 469–494.
-4. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+4. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
 5. Alter, T. & Walter, S. (eds.). (2007). *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism*. Oxford University Press.
 6. Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9–10), 212–236.
 7. Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.

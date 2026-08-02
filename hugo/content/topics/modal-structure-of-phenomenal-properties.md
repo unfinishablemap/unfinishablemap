@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-07-12 19:34:26+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 08:01:14+00:00
-lastmod: 2026-07-12 19:34:26+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +142,7 @@ The modal structure of phenomenal properties provides some of the strongest supp
 
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (Eds.), *Conceivability and Possibility*. Oxford University Press.
-1. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
 1. Kripke, S. (1972/1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.

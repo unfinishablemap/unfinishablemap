@@ -3,7 +3,7 @@ title: "Deep Review - Modal Structure of Phenomenal Properties"
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-15T08:01:14+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 draft: false
 topics: []
 concepts: []
@@ -32,6 +32,7 @@ Prior ledger (06-09, still valid):
 - Chalmers, D. (2002) "Does Conceivability Entail Possibility?" eds. Gendler & Hawthorne, *Conceivability and Possibility*, OUP — real-correct.
 - Chalmers, D. (1996) *The Conscious Mind*, OUP — real-correct.
 - Chalmers, D. (2006) "Phenomenal Concepts and the Explanatory Gap" eds. Alter & Walter, OUP — real-correct.
+  - **CORRECTION (2026-08-02)**: the *work* is real-correct, but the **year is not**. The Alter & Walter volume's imprint year of record is 2007 (OUP Crossref deposit, `published-print` 2007-01-01, pp. 167–194; OpenAlex agrees). The 2006 in circulation traces to Chalmers's pre-publication "forthcoming" notice, not to the published volume. Corrected corpus-wide 2026-08-02; the entry now carries pages, subtitle and DOI so the year is self-verifying.
 - Kripke, S. (1972/1980) *Naming and Necessity*, Harvard UP — real-correct.
 - Jackson, F. (1982) "Epiphenomenal Qualia" *Phil. Quarterly* 32(127):127-136 — real-correct.
 - Levine, J. (1983) "Materialism and Qualia: The Explanatory Gap" *Pacific Phil. Quarterly* 64:354-361 — real-correct.

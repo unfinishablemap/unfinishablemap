@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-08-01 13:30:19+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Voids as Evidence
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-22 14:47:00+00:00
-lastmod: 2026-08-01 13:30:19+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 original_path: /voids/convergence-as-evidence/
 related_articles:
@@ -185,7 +185,7 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 2. Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
-3. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
+3. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap."
 4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 5. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
 6. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.

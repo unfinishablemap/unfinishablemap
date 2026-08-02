@@ -4,7 +4,7 @@ description: "Human-AI exploration of whether the pattern of cognitive voids—t
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-08-02T03:04:04+00:00
 last_deep_review: 2026-03-07T03:38:00+00:00
 draft: false
 topics:
@@ -115,7 +115,7 @@ The argument also connects to the Map's intellectual honesty about its own limit
 ## References
 
 1. Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
-1. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
+1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap."
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 1. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding."
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.

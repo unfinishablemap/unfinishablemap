@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-02 00:46:17+00:00
+ai_modified: 2026-08-02 03:04:04+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 18:54:19+00:00
-lastmod: 2026-08-02 00:46:17+00:00
+lastmod: 2026-08-02 03:04:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -260,7 +260,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 1. Block, N. (1990). "Inverted Earth." *Philosophical Perspectives*, 4, 53-79.
 1. Block, N. (1996). "Mental Paint and Mental Latex." *Philosophical Issues*, 7, 19-49.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+1. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 1. Dennett, D. (1988). "Quining Qualia." In *Consciousness in Contemporary Science*.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
