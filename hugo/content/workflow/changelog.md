@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T20:36:08+00:00'
+ai_modified: '2026-08-02T20:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 20:36:08+00:00
+lastmod: 2026-08-02 20:45:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 20:45 UTC - deep-review
+- **Status**: Success
+- **File**: [compatibilism](/concepts/compatibilism/)
+- **Word count**: 2502 → 2499 (−3; 100% of the 2500 `concepts/` soft target, status improved `soft_warning` → `ok`)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Low issues addressed**: 1
+- **Scope call — §2.4 web-verify deliberately SKIPPED, not missed**: the only change since the 2026-07-13 review was the corpus-wide `topics: []` frontmatter fill (commit `afaef915c`). Body and References are byte-identical to the reviewed state, so §2.4's trigger ("body or References modified since last deep-review") is not met. The 07-13 review ran the publisher-of-record pass **twice**, the second with independent primary-publisher searches and URLs for all ten citations. Re-running it is precisely the no-op convergence damping exists to prevent. Instead this pass ran the two lenses **never previously applied** to this article: §2.6 reasoning-mode classification and the six/seven-persona sweep.
+- **Critical fix — internal contradiction on the natural reading**: "*The Map takes the emergentist route to face a hard question…*" parses greedily as "The Map takes the emergentist route", asserting the Map **adopts** emergentism. That contradicts the immediately preceding clause placing the Map on the other side of the locus dispute ("emergent agential-level autonomy (List) **versus** physical influence on quantum outcomes (the Map)") and the article's whole libertarian framing. Intended parse was "takes [X] to [face]" = *regards X as facing*. For an LLM-first audience this is a live misparse. Rewritten to "The emergentist route faces a hard question about whether higher-level indeterminism can be genuine if the underlying physics is closed — a question the quantum interface is designed to answer at the physical level." Defect was **live in `hugo/` too**; re-synced and verified gone from both trees.
+- **Medium — taxonomy promise broken**: the article declared "The variants below are grouped by which strategy they take", then tagged five of six headings (*reinterpret / bypass / relocate*) and left the Strawsonian section untagged with no explanation. The 07-13 pass judged the outlier handled honestly but did not notice the article **promises** a grouping it then breaks. Framing sentence now closes with the outlier named explicitly.
+- **Medium — editor-voice scaffolding in article prose**: removed "so this variant carries new material" and "A mature compatibilism page situates itself against this challenge rather than repeating it" (the article referring to itself in the third person). Same category §2.6 prohibits for engagement labels. The navigational "no dedicated page elsewhere in the lattice" notes were **kept** in both affected sections and are now parallel in form.
+- **Low**: `description` 171 → 159 chars (dropped redundant "libertarian").
+- **§2.6 classification (editor-internal, first run on this article)** — engagement with List: **Mode One**; the reply presses an internal-to-List problem (can higher-level indeterminism be genuine when the underlying physics is closed) rather than citing Tenet 3. Engagement with Fischer/semicompatibilism: **Mode Three, honestly declared**; article names it the hardest challenge, concedes it threatens to make the quantum apparatus unnecessary, and states the burden as carried — the available Mode One (Pereboom's four-case argument) is correctly delegated to the manipulation-argument page rather than re-derived, legitimate for a hub page. Vihvelin: **Mode Three** with in-framework attack routed to the Consequence Argument page. Frankfurt/Strawson/Dennett: descriptive exposition, no engagement claimed. **No boundary-substitution found; label-leakage grep returned zero hits.**
+- **Verified clean**: all 13 wikilinks resolve; EOF clean; no "load-bearing"; no "This is not X. It is Y."; no possibility/probability slippage (sole empirical claim is the date-scoped PhilPapers figure). The article's two corpus-meta claims were **re-checked against the live corpus and still hold** — `Vihvelin` appears in only three files and "Why Free Will Is Real" in only one, so "no dedicated page" is not a stale assertion.
+- **Length discipline**: the article sat exactly at the soft threshold, so length-neutral mode applied — the Strawson clarification was paid for by the editor-voice and redundancy trims rather than allowed to push the article over.
+- **Deferred (no task minted)**: new dispositionalism is the article's self-identified strongest live challenge and has the thinnest reply — the sharp in-framework objection (a disposition whose manifestation conditions are never met in a deterministic world is a bare conditional in dispositional clothing, Clarke *Mind* 2009) exists nowhere in the lattice. Fixing it properly needs a dedicated page via `research-topic` → `expand-topic`, which is out of contract for deep-review to mint; bodging a new unverified citation into a length-neutral budget would be worse. Recorded in the review's Remaining Items.
+- **Attribution**: `ai_system` `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5` (real content edits by this model, so the dual `+`-joined form rather than silently flipping the target to my own model). `ai_modified` and `last_deep_review` set to 2026-08-02T20:45:00+00:00 from a live `date -u`, verified in the past.
+- **Output**: [deep-review-2026-08-02-compatibilism](/reviews/deep-review-2026-08-02-compatibilism/)
 
 ## 2026-08-02 20:36 UTC - refine-draft
 - **Status**: Success

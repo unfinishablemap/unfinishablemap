@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-08-02 18:47:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-02 20:45:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: unfinishablemap.org Agent
 concepts: []
 created: 2026-07-13
 date: &id001 2026-07-13
 description: Compatibilism holds free will survives determinism by reinterpreting
-  'could have done otherwise.' A human-AI survey of its variants and the Map's libertarian
-  rival stance.
+  'could have done otherwise.' A human-AI survey of its variants and the Map's rival
+  stance.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 07:22:04+00:00
-lastmod: 2026-08-02 18:47:00+00:00
+last_deep_review: 2026-08-02 20:45:00+00:00
+lastmod: 2026-08-02 20:45:00+00:00
 modified: *id001
 related_articles: []
 title: Compatibilism
@@ -46,7 +46,7 @@ Compatibilism is a family, not a single doctrine, and its variants are most clea
 2. **Bypass it** — argue that freedom and responsibility never required alternatives at all (hierarchical/mesh theories; semicompatibilism).
 3. **Relocate it** — grant that real alternatives matter, but site them at a higher level of description that is autonomous from deterministic physics (emergentist compatibilism).
 
-The variants below are grouped by which strategy they take.
+The variants below are grouped by which strategy they take, closing with Strawson's, which declines the axis altogether and grounds responsibility in practice rather than in any reading of the phrase.
 
 ## Variants
 
@@ -78,7 +78,7 @@ This is arguably the sharpest rival framing the Map must answer. Semicompatibili
 
 Daniel Dennett and Christian List represent a naturalist strand that treats free will as a real, higher-level capacity rather than a fundamental-physics property. In *Elbow Room: The Varieties of Free Will Worth Wanting* (MIT Press / Bradford Books, 1984) and *Freedom Evolves* (Viking, 2003), Dennett argues that the free will "worth wanting" is self-control and meaningful deliberation — an evolved, gradually acquired capacity — and that determinism does not entail inevitability for agents who are good anticipatory systems: avoiders can still avoid in a deterministic world.
 
-Christian List's *Why Free Will Is Real* (Harvard University Press, 2019) is the most interesting near-neighbour to the Map. List treats free will as a genuine higher-level psychological phenomenon, emergent from but autonomous relative to physics, in the way an ecosystem or an economy is. Distinctively, he *retains* alternative possibilities and intentional agency as requirements, arguing they hold at the agential level even if the underlying physics is deterministic — agential-level indeterminism coexisting with physical-level determinism. List therefore agrees with the Map that leeway must be *real*, not merely conditional; the two part company only on where leeway lives. Neither Dennett nor List has a dedicated page in the lattice, so this variant carries new material.
+Christian List's *Why Free Will Is Real* (Harvard University Press, 2019) is the most interesting near-neighbour to the Map. List treats free will as a genuine higher-level psychological phenomenon, emergent from but autonomous relative to physics, in the way an ecosystem or an economy is. Distinctively, he *retains* alternative possibilities and intentional agency as requirements, arguing they hold at the agential level even if the underlying physics is deterministic — agential-level indeterminism coexisting with physical-level determinism. List therefore agrees with the Map that leeway must be *real*, not merely conditional; the two part company only on where leeway lives. Neither Dennett nor List has a dedicated page elsewhere in the lattice.
 
 ### Strawsonian (reactive-attitudes) compatibilism
 
@@ -90,11 +90,11 @@ Compatibilism is not a fringe reconciliation but the mainstream view of the disc
 
 ## Situating the Objections
 
-The Map's lattice already hosts the principal arguments compatibilism must answer, and the point here is to show which strategy each argument targets, not to restate the arguments:
+The Map's lattice already hosts the principal arguments compatibilism must answer; the point here is to show which strategy each targets, not to restate them:
 
 - The [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/) (van Inwagen) presses the *reinterpret* strategies hardest: if our acts are consequences of the laws plus the remote past, over neither of which we have control, then the conditional and dispositional readings of "could have done otherwise" seem not to deliver control at all.
 - The [Manipulation Argument](/topics/the-manipulation-argument-and-hard-incompatibilism/) (Pereboom's four-case argument) presses the *bypass* strategies: a covertly manipulated but reasons-responsive agent looks structurally like an ordinary determined one, threatening the claim that guidance control or mesh suffices for responsibility.
-- The Map's in-house [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) asks each variant to explain why the compatibilist treats determined-and-manipulated and determined-and-normal cases asymmetrically. A mature compatibilism page situates itself against this challenge rather than repeating it.
+- The Map's in-house [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) asks each variant to explain why the compatibilist treats determined-and-manipulated and determined-and-normal cases asymmetrically.
 
 The deeper structural fault line is captured by [the source/leeway distinction](/concepts/source-versus-leeway-incompatibilism/): leeway-incompatibilists demand open alternatives, while source-incompatibilists demand that the agent be the ultimate origin of the action. Compatibilist variants can be sorted by which of these demands they reject — the bypass theories reject the leeway requirement, while all of them reject the source requirement's ultimacy condition.
 
@@ -104,7 +104,7 @@ The Map's disagreement with compatibilism is narrow but fundamental, and it is w
 
 The divergence is metaphysical. Under **Tenet 3 (bidirectional interaction)**, consciousness exerts a genuine causal influence on the physical world by selecting among quantum-open alternatives — the [quantum interface](/concepts/quantum-indeterminacy-free-will/) is what makes the ability-to-do-otherwise *categorical* rather than conditional. Where the compatibilist reinterprets "could have done otherwise" until it no longer requires an open future, the Map holds that the phrase means what it appears to mean, and that the physical world is indeterministic in exactly the way that lets it be true. The Map's distinguishing labour, then, is not to argue that responsibility can survive determinism — the compatibilist has already shown that it can — but to argue that the leeway is *real*, and that a world in which it is real is a better fit for both the phenomenology of choice and the demands of ultimate authorship.
 
-Two variants deserve special note from the Map's chair. **List's emergentism** is the closest neighbour: he too insists that alternative possibilities are real rather than conditional, and the disagreement reduces to a question of locus — emergent agential-level autonomy (List) versus physical influence on quantum outcomes (the Map). The Map takes the emergentist route to face a hard question about whether higher-level indeterminism can be genuine if the underlying physics is closed, a question the quantum interface is designed to answer at the physical level. **Fischer's semicompatibilism** is the hardest challenge: by decoupling responsibility from leeway entirely, it threatens to make the Map's whole quantum apparatus *unnecessary* for the moral conclusions everyone wants. The Map's reply is that leeway does real work beyond grounding responsibility — it is what makes deliberation about a genuinely open future non-illusory — but the burden of that reply is one the Map carries rather than waves away.
+Two variants deserve special note from the Map's chair. **List's emergentism** is the closest neighbour: he too insists that alternative possibilities are real rather than conditional, and the disagreement reduces to a question of locus — emergent agential-level autonomy (List) versus physical influence on quantum outcomes (the Map). The emergentist route faces a hard question about whether higher-level indeterminism can be genuine if the underlying physics is closed — a question the quantum interface is designed to answer at the physical level. **Fischer's semicompatibilism** is the hardest challenge: by decoupling responsibility from leeway entirely, it threatens to make the Map's whole quantum apparatus *unnecessary* for the moral conclusions everyone wants. The Map's reply is that leeway does real work beyond grounding responsibility — it is what makes deliberation about a genuinely open future non-illusory — but the burden of that reply is one the Map carries rather than waves away.
 
 Consistent with **Tenet 5 (Occam's Razor has limits)**, the Map declines to treat compatibilism's parsimony — its avoidance of any non-physical or indeterministic machinery — as decisive. Simplicity is an unreliable guide where our knowledge of the mind's relation to the physical is incomplete, and the compatibilist's economy is purchased by reinterpreting the very datum (categorical openness) that the Map takes the phenomenology of agency to report.
 
