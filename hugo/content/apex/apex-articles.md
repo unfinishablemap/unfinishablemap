@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-07-31 13:34:50+00:00
+ai_modified: 2026-08-02 17:31:58+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-07-31 13:34:50+00:00
+lastmod: 2026-08-02 17:31:58+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -195,7 +195,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: How consciousness and time may depend on each other
 
-**Thesis**: Consciousness and time have a bidirectional dependence that traditional philosophy has underexplored. Consciousness requires temporal structure—the specious present, retention-protention, durée—to exist at all. But time's arrow may require consciousness: through collapse-involving selection, conscious observation may help constitute the very temporal direction within which it operates. Neither contains the other; they are mutually constitutive in a way that deepens both the hard problem and our understanding of temporal becoming.
+**Thesis**: Consciousness participates locally in the collapse events that give lived, experienced time its felt passage, and ordinary consciousness in turn requires temporal structure—the specious present, retention-protention, durée. But the cosmic arrow of time is supplied by objective collapse and predates mind: consciousness constitutes the character of *experienced* time within neural systems, not time as such. (The stronger claim that time's arrow emerges only through consciousness was withdrawn 2026-07-27 as incompatible with the Map's background commitment to objective single-outcome actualisation.)
 
 **Source articles**:
 - topics/temporal-consciousness-structure-and-agency
@@ -204,6 +204,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 - concepts/temporal-consciousness
 - concepts/collapse-and-time
 - concepts/philosophy-of-time
+- concepts/retrocausality
 
 **Status**: Created 2026-02-01
 

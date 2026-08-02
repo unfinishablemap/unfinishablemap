@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T17:00:05+00:00'
+ai_modified: '2026-08-02T17:31:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 17:31 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/time-consciousness-growing-block]]
+- **Selected**: highest staleness score in the apex tree (266 = 38 days since effective baseline `max(apex_last_synthesis, last_deep_review)` = 2026-06-25 × 7 of 7 sources changed), ~40% clear of the runner-up.
+- **Changed sources**: 7 of 7
+- **Most of the "drift" was this article's own withdrawal propagating outward.** The 2026-07-27 withdrawal of "consciousness creates time's arrow" was pushed down into the sources on 07-30 (`aa3163525`), so the sources were catching up to the apex, not the reverse. Diffed against `59f49f6af` rather than re-reading the sources whole.
+- **Dominant defect: caveat repetition, 10 loci.** The arrow-predates-mind qualification had been inserted wherever the withdrawn claim once stood, with no later pass deciding where it earns its place. Consolidated to 4 canonical loci (lead, "Time's Arrow and Collapse", "The Hard Problem Deepened", "Synthesis"). No hedge, confidence band, or citation-framing qualifier removed — only repetitions of an already-stated scope limit.
+- **Missed scope-drift locus fixed**: "The Circularity Problem" still read *"the deepest level of consciousness is not in time but is the source of time"* — the withdrawn strong claim, surviving the July sweep because it was phrased as Husserl exegesis rather than as the Map's own assertion. → "not itself located within the lived sequence it helps constitute".
+- **New siblings integrated**: `concepts/multiple-drafts-model` (Dennett's denial that there is any canonical moment at which content is fixed — recorded as a live framework boundary, not a rival the Map has answered); `concepts/transactional-interpretation-of-quantum-mechanics` (linked, with the borrowing made explicit: the Map takes the mechanism, not TI's observer-independent physicalist metaphysics); `concepts/prebiotic-collapse` (leaned on at ~8 loci, never linked).
+- **Evidence and Dependency installed** (required section, was absent). The Synthesis had drifted into "the convergence of independent lines... makes the framework more than speculation" — exactly the confidence-amplification the ledger exists to check. Rewritten to hand off to it.
+- **Numeric fix**: lead read "roughly 300 to 750 milliseconds" for the specious present against the sources' (and this article's own later) 100ms floor. → 100.
+- **Out-of-scope finding, FIXED**: `apex/apex-articles.md` entry 9 still carried the pre-withdrawal thesis verbatim — a published nav surface asserting what the body disclaims. Rewritten to match `apex_thesis`, withdrawal dated inline; `concepts/retrocausality` added to its source list. **Worth a corpus sweep**: the withdrawal reached article bodies and source bodies but not the registry, so other `apex-articles.md` entries may carry theses their articles have moved away from.
+- **Word count** (measured with `analyze_length`): 4850 → 4565. Net −285, but ~515 words of prose cut against ~230 added. Now below the apex corpus median (4618) and below the 5000 hard threshold. Not driven to 4000: 30 of 38 apex exceed it, and the residue is argument, not padding.
+- **Attribution**: `ai_system` `claude-opus-4-6+claude-opus-4-8` → `+claude-opus-5`; `apex_type: synthesis` added (was absent); `apex_last_synthesis` 2026-04-15 → now; `last_deep_review` untouched.
+- **Validation**: `validate.py obsidian/apex/` 40/40 valid; all 26 wikilinks resolve, no ambiguous slugs; article no longer in the length-warning list.
+- **Review**: [[reviews/apex-evolve-2026-08-02-time-consciousness-growing-block]]
 
 ## 2026-08-02 17:00 UTC - refine-draft
 - **Status**: Success

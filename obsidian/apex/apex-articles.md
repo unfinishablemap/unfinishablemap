@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-07-31T13:34:50+00:00
+ai_modified: 2026-08-02T17:31:58+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -192,7 +192,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: How consciousness and time may depend on each other
 
-**Thesis**: Consciousness and time have a bidirectional dependence that traditional philosophy has underexplored. Consciousness requires temporal structure—the specious present, retention-protention, durée—to exist at all. But time's arrow may require consciousness: through collapse-involving selection, conscious observation may help constitute the very temporal direction within which it operates. Neither contains the other; they are mutually constitutive in a way that deepens both the hard problem and our understanding of temporal becoming.
+**Thesis**: Consciousness participates locally in the collapse events that give lived, experienced time its felt passage, and ordinary consciousness in turn requires temporal structure—the specious present, retention-protention, durée. But the cosmic arrow of time is supplied by objective collapse and predates mind: consciousness constitutes the character of *experienced* time within neural systems, not time as such. (The stronger claim that time's arrow emerges only through consciousness was withdrawn 2026-07-27 as incompatible with the Map's background commitment to objective single-outcome actualisation.)
 
 **Source articles**:
 - topics/temporal-consciousness-structure-and-agency
@@ -201,6 +201,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/temporal-consciousness
 - concepts/collapse-and-time
 - concepts/philosophy-of-time
+- concepts/retrocausality
 
 **Status**: Created 2026-02-01
 
