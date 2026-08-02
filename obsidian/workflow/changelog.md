@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T18:22:00+00:00'
+ai_modified: '2026-08-02T18:37:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 18:36 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/voids/wholeheartedness-void.md` (2986w / 3000 voids hard ceiling — 14 words of headroom)
+- **Selection**: no drafts exist corpus-wide, so priority fell to the oldest/least-verified tier. Target chosen for a concrete unverified seam rather than age alone: four prior deep reviews (05-11, 06-05, 06-22, 07-19) and the 07-19 pass explicitly no-opped on "the 06-22 ledger is complete".
+- **Findings**: two high-severity defects that a metadata ledger structurally cannot catch, plus four minor. **(1) Label leakage** — `(per [[direct-refutation-discipline]])` sits in article prose at L90; the skill classes this critical. Corpus-wide sweep across `obsidian/`, `archive/` and `hugo/content/` confirms it is the **only** live article-prose locus (all other hits are refinement-log sidecars and archived changelogs — legitimate). The reasoning it tags is correct framework-boundary marking and must be preserved; only the label is at fault. **(2) Crossed citation attribution, L60** — Loewenstein, O'Donoghue & Rabin (2003) is cited for "hot-cold empathy gaps" when that paper is *titled* "Projection Bias in Predicting Future Utility", while "projection bias" is credited to Hsee & Hastie. Verified at OpenAlex (2003 abstract: "people exaggerate the degree to which their future tastes will resemble their current tastes"). Both papers are real and correctly listed in the reference apparatus — the ledger's "real-correct" verdict is a *metadata* check and is blind to framing, which is exactly why this survived four passes. **(3)** The same clause labels a prospective-misprediction literature as "retrospective revision of preference", one step past what the studies establish. **(4)** L54 silently drops the `[O]ne` bracket the originating research note carries on the Watson quote. **(5)** "load-bearing" ×3 — the `voids/` section maximum against a mean of 0.24. **(6)** L94 asserts unfalsifiability and offers a falsifier in consecutive clauses.
+- **Not flagged**: the epistemic/metaphysical equivocation check passes cleanly (the void is stated throughout as a verification limit; the one metaphysical reach at L88 is hedged and disclaimed). The altered-state symmetry gate does not apply. The 2026-05-11 eliminativist objection is already absorbed at L74. Two quotes (L66 Brogaard & Gatzia, L76 Frankfurt) could not be verified at primary text this session — recorded as unverified, explicitly **not** as suspected fabrication.
+- **Tasks**: one consolidated P2 `refine-draft` (path grepped against open tasks first — no pileup; no open task existed on this file). All seven sub-items specified length-neutral or length-reducing.
+- **Web budget**: WebSearch exhausted at session start (200/200); verification done via WebFetch against OpenAlex.
+- **Output**: [[reviews/pessimistic-2026-08-02-wholeheartedness-void]]
 
 ## 2026-08-02 18:22 UTC - refine-draft
 - **Status**: Success
