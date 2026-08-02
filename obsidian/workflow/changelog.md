@@ -1,9 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T03:32:44+00:00'
+ai_modified: '2026-08-02T07:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 07:12 UTC - coalesce
+- **Status**: Abandoned (no merge performed)
+- **Sources**: none archived
+- **Target**: none created
+- **References to review**: none
+
+### The lens: third-party co-citation coupling
+
+Ten prior passes ranked candidates by properties of the articles themselves — slug/description, citation-set Jaccard, link/slug Jaccard, wikilink-neighbourhood, title-token Jaccard, `coalesced_from` ancestry, corpus-wide and within-voids 9-gram shingles, body-only inbound-link counts, and H2/H3 heading-skeleton Jaccard. Every one measures *similarity of the pair*. This pass measures something the pair does not contain: **which two articles the rest of the corpus reaches for in the same breath.** Bibliometric co-citation, applied inward — paragraph-level, and **third-party only** (a source citing both is excluded if it is itself one of the pair, so reciprocal linking cannot inflate a score).
+
+736 candidate articles across `topics/` `concepts/` `voids/`, 8,434 source files, **8,021 pairs with ≥3 third-party co-citations**.
+
+**The raw metric is hub-biased and had to be corrected.** Normalising by `min(inbound)` puts `free-will` (inbound 326) at the top of the ranking paired with every small free-will article — that measures hub adjacency, not redundancy. Re-ranked on Salton cosine `co/√(ia·ib)` with an inbound-ratio ≤3 and hub cut at inbound ≤60, then filtered for pairs an apex article already co-cites and for series/ladder vocabulary in the co-citing prose. **Five candidates survived.** All five were evaluated on the merits and all five are declined.
+
+### The five candidates
+
+1. **`logical-behaviourism` + `type-identity-theory`** (concepts, Salton 0.463) — **DECLINE**. The leads carry the distinction: behaviourism is a *semantic* thesis ("statements about the mind **mean** statements about behaviour"), type-identity a *metaphysical* one ("mental state-types are **numerically identical** to physical state-types"). Ryle 1949 against Place/Smart 1956–59 is a succession in the history of physicalism, not a duplication; the differentiation test's third sub-question (framework-independence) passes decisively — the distinction pre-dates the Map by seventy years. Arithmetic independently blocks it: 2,113 + 1,805 = **3,918 prose words against the concepts hard ceiling of 3,500**, measured after decomposing reference apparatus out.
+2. **`attended-intermediate-representations-theory` + `recurrent-processing-theory`** (concepts, Salton 0.456) — **DECLINE**, and the most instructive case (below).
+3. **`compatibilist-symmetry-challenge` + `event-causal-libertarianism`** (Salton 0.295) — **DECLINE**. `event-causal-libertarianism` opens by placing itself in an external canonical taxonomy — "a genus with three species… the standard taxonomy, canonised in the Stanford Encyclopedia" — while `compatibilist-symmetry-challenge` is "the Map's named anti-slippage move". A species of an external taxonomy and a Map-internal dialectical move are different kinds of object; the merge has no coherent unit.
+4. **`graduated-middle-path-valence-modulated-attention` + `reinforcement-learning-reward-signals-and-machine-valence`** (Salton 0.405) — **DECLINE**. Co-citation here is topical adjacency on "valence", not redundancy: one works the attention–valence coupling in humans to a *deflationary* verdict, the other asks whether an RL reward scalar could be pain. Different subject matter entirely.
+5. **`negative-valence-asymmetry-and-the-selection-weighting-function` + `wanting-liking-and-the-value-in-mechanism-fork`** (Salton 0.314) — **DECLINE**. Both are children of [[valence-and-conscious-selection]], but they answer different questions — the *weighting function* (does negative value weigh more than positive?) versus Berridge's *motivation/hedonics dissociation*. Merging them would produce a survey of the parent's children in place of two answers.
+
+**Anti-procrastination check** per [[project/abandon-coalesce]] §Failure Modes: changelog greps return **0** prior coalesce mentions for seven of the eight articles involved; `compatibilist-symmetry-challenge`'s ten hits are all its own inbound-integration work (0 coalesce-related). Every candidate is a first-time evaluation, not a repeat deferral under thinning grounds.
+
+### The finding worth keeping: the series signal is in the article's self-description, not in third-party prose
+
+The automated filter scored `AIR` + `RPT` at **series-vocabulary 0.00 and apex-integration 0** — it looked like the cleanest unintegrated pair in the corpus. Reading the articles inverted that instantly. `recurrent-processing-theory`'s **first paragraph** declares it "the **local / first-order** member of the neural-correlates-of-consciousness **big four**", names [[neural-correlates-of-consciousness]] as "the survey situating RPT among the big-four NCC theories", and states outright: "this article positions RPT against those rivals rather than restating them." The merge target already exists one layer up, the article knows it, and the de-duplication is the structure a merge would destroy. AIR and RPT are moreover *rivals on the very question a merged article would have to settle* — AIR makes attention necessary for consciousness, RPT puts phenomenality at Stage 3 without access.
+
+So the durable methodological result is a **correction to how future passes should read this metric**, not a new candidate: taxonomy membership is asserted by an article about *itself*, in its lead, and is frequently absent from the third-party prose that co-cites it. A filter reading only co-citing paragraphs will keep surfacing tightly-coupled members of named taxonomies as though they were unintegrated. **Any future lens of this shape must read the candidates' own leads before ranking.**
+
+**Two honest calibrations against overclaiming.** (a) It is tempting to report that high coupling *predicts* prior integration and is therefore a merge contra-indicator. The data do not support it: mean coupling is **0.546 for apex-integrated pairs and 0.547 for un-integrated pairs** — no separation at all. (b) What the data *do* show is a series-framing gradient at the top of the distribution: the top coupling decile averages **0.72 series/ladder vocabulary against 0.41 for the remainder**, and the eight most-coupled pairs in the corpus (the non-neural cognition ladder — basal/bioelectric, plant, neuron-less animals, immune, enteric — and the five-member introspection-architecture void cluster) run 0.79–1.00 with an apex already integrating each. Those clusters are explicitly ordered: "the rung below", "the prokaryotic floor beneath it", "Do NOT re-cover its subjects", "walks from storytelling to source-tag to gating-signal to fabrication to reality-judgement". `project/per-cluster-independence-scoring.md` additionally uses the introspection cluster as the *unit of scoring* — "individual voids inside it are not separately scored" — so merging two members would change the cluster's arity and corrupt a live methodology.
+
+### Verdict
+
+Eleven passes, eleven different discriminators, one result. The corpus is not redundant in its material (passes 1–8), not redundant in its structure (pass 10), and — now — not redundant in how the rest of the corpus *uses* it: where two articles are reliably cited together, that is overwhelmingly because they are adjacent rungs of a deliberately ordered series that an apex already integrates. Cap relief must come from an archival pass or an operator cap raise. **Five passes have now recommended retiring coalesce's cap-relief mandate**; this one adds that the two cycle slots per 24-cycle are buying a re-derived negative from an exhausted candidate pool.
+
+### Recorded, not actioned (out of coalesce contract)
+
+`recurrent-processing-theory` is **1,352 prose words against a 2,500 soft threshold** — ~46% under, the shortest article in the surviving candidate set, and it carries a live rival to Tenet 1 plus a flagged Map speculation (recurrent loops as a candidate coupling site). That is an **expansion** opportunity, not a merge target. No task minted; recorded here so the finding is not lost.
 
 ## 2026-08-02 07:00 UTC - outer-review
 - **Status**: Success
