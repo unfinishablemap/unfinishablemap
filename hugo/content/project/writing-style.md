@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-07-21 14:16:16+00:00
+ai_modified: 2026-08-02 07:50:17+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-07-21 14:16:16+00:00
+lastmod: 2026-08-02 07:50:17+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -412,7 +412,7 @@ When a word starts appearing as a habitual flourish rather than for its precise 
 All content must align with the Map's [foundational commitments](/tenets/):
 
 1. **Dualism** — Consciousness is not reducible to physical processes
-2. **Minimal Quantum Interaction** — Smallest possible non-physical influence on quantum outcomes
+2. **Minimal Quantum Interaction** — Smallest possible non-physical influence on physical outcomes (exercised at the quantum level)
 3. **Bidirectional Interaction** — Consciousness causally influences the physical world
 4. **No Many Worlds** — Reject MWI; indexical identity matters
 5. **Occam's Razor Has Limits** — Simplicity is unreliable with incomplete knowledge

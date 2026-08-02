@@ -4,7 +4,7 @@ description: "Conservation laws don't block mental causation. Noether's theorem 
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T21:55:00+00:00
+ai_modified: 2026-08-02T07:48:39+00:00
 last_deep_review: 2026-02-25T21:55:00+00:00
 draft: false
 archived: true
@@ -97,7 +97,7 @@ Conservation laws support (1) for systems meeting the symmetry conditions Noethe
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to "the smallest possible non-physical influence on quantum outcomes." The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open.
+The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to "the smallest possible non-physical influence on physical outcomes," exercised — per the tenet's definition — at the quantum level. The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet — that consciousness causally influences the physical world — requires that the conservation objection not be decisive. Both the Noether conditionality response and the selection framework establish that it is not. Conservation laws are either inapplicable (because mental causation breaks the symmetry they presuppose) or irrelevant (because selection among equiprobable outcomes requires no energy transfer).
 

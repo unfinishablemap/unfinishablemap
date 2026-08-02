@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-02 17:25:25+00:00
+ai_modified: 2026-08-02 07:48:39+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:58:00+00:00
-lastmod: 2026-06-02 17:25:25+00:00
+lastmod: 2026-08-02 07:48:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 
 **Dualism**: Interface heterogeneity is a distinctly dualist concept. Materialists who identify consciousness with brain processes have no separate coupling mechanism whose form could vary—neural activity just *is* consciousness on their view. The concept presupposes that consciousness and its physical interface are distinct, making variation in the interface a coherent possibility.
 
-**Minimal Quantum Interaction**: The Map's second tenet constrains coupling to "the smallest possible non-physical influence on quantum outcomes." Heterogeneous interfaces would each need to satisfy this minimality constraint independently. Different mechanisms might achieve minimality differently—biasing different quantum phenomena at different scales—while all remaining within the tenet's bounds.
+**Minimal Quantum Interaction**: The Map's second tenet constrains coupling to "the smallest possible non-physical influence on physical outcomes," localised by the tenet's definition to the quantum level. Heterogeneous interfaces would each need to satisfy this minimality constraint independently. Different mechanisms might achieve minimality differently—biasing different quantum phenomena at different scales—while all remaining within the tenet's bounds.
 
 **Bidirectional Interaction**: If consciousness causally influences physics through the interface, interface heterogeneity implies that different conscious systems may differ in causal efficacy—not because consciousness itself varies in power, but because some coupling mechanisms may transmit influence more effectively than others.
 

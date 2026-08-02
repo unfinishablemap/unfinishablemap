@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-02-25 21:55:00+00:00
+ai_modified: 2026-08-02 07:48:39+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Conservation Laws and Mental Causation
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-25 21:55:00+00:00
-lastmod: 2026-02-25 21:55:00+00:00
+lastmod: 2026-08-02 07:48:39+00:00
 modified: *id001
 original_path: /concepts/conservation-laws-mind-brain-causation/
 related_articles:
@@ -101,7 +101,7 @@ Conservation laws support (1) for systems meeting the symmetry conditions Noethe
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet commits to "the smallest possible non-physical influence on quantum outcomes." The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open.
+The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet commits to "the smallest possible non-physical influence on physical outcomes," exercised — per the tenet's definition — at the quantum level. The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet — that consciousness causally influences the physical world — requires that the conservation objection not be decisive. Both the Noether conditionality response and the selection framework establish that it is not. Conservation laws are either inapplicable (because mental causation breaks the symmetry they presuppose) or irrelevant (because selection among equiprobable outcomes requires no energy transfer).
 

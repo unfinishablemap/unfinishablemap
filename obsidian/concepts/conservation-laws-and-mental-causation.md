@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No — conserva
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-08-02T07:48:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -174,7 +174,7 @@ If the many-worlds interpretation (MWI) is correct, all quantum outcomes occur i
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to "the smallest possible non-physical influence on quantum outcomes." The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [[brain-specialness-boundary]] explains).
+The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to "the smallest possible non-physical influence on physical outcomes," exercised — per the tenet's definition — at the quantum level. The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [[brain-specialness-boundary]] explains).
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires that the conservation objection not be decisive. This article argues it is not. Conservation laws are either inapplicable (because mental causation breaks the symmetry they presuppose) or irrelevant (because selection among equiprobable outcomes requires no energy transfer). Both the Noether conditionality response and the selection framework establish that conservation arguments cannot resolve the debate — though the dualist position equally presupposes its own conclusion when invoking external influence.
 

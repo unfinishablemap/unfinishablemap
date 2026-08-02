@@ -4,7 +4,7 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-22T13:30:00+00:00
+ai_modified: 2026-08-02T07:48:39+00:00
 last_deep_review: 2026-07-09T05:09:40+00:00
 draft: false
 topics: []
@@ -36,7 +36,7 @@ This article derives those limits, surveys the empirical ceiling they have to li
 
 ## The Strict Reading of Tenet 2
 
-Tenet 2 commits the Map to "the smallest possible non-physical influence on quantum outcomes". That commitment admits several readings of varying strictness:
+Tenet 2 commits the Map to "the smallest possible non-physical influence on physical outcomes". Its definition clause then fixes where that influence acts: if consciousness can influence the physical world, "it must do so at the quantum level—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws." The headline states *what* is influenced; the definition states *where*. The readings below are readings of the two clauses together — the quantum-level restriction is inherited from the definition, not read off the headline, which leaves the locus open. So construed, the commitment admits several readings of varying strictness:
 
 - **Loose reading**: Mind nudges quantum probabilities, with deviations from the Born rule small enough to lie below current detection thresholds.
 - **Intermediate reading**: Mind biases individual outcomes but the bias averages to Born statistics over any well-defined ensemble.

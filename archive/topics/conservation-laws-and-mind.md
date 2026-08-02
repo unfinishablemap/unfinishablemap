@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No—conservati
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-01T02:21:00+00:00
+ai_modified: 2026-08-02T07:48:39+00:00
 draft: false
 archived: true
 archived_date: 2026-03-07T23:41:00+00:00
@@ -173,7 +173,7 @@ This article argues the objection cannot settle the debate:
 - The objection begs the question by assuming no external influences exist—though the dualist position equally presupposes that consciousness is such an influence
 - Quantum mechanics provides a framework where consciousness could select outcomes without injecting energy
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [[brain-specialness-boundary]] explains). The interaction is doubly constrained.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—"the smallest possible non-physical influence on physical outcomes," exercised at the quantum level—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [[brain-specialness-boundary]] explains). The interaction is doubly constrained.
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [[explanatory-gap]], the [[knowledge-argument]], the self-stultification of epiphenomenalism, and the [[baseline-cognition|empirical evidence]] that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 

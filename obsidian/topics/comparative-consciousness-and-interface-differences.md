@@ -4,7 +4,7 @@ description: "Does consciousness vary in nature, in coupling mechanism, or both?
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-06-24T17:15:42+00:00
+ai_modified: 2026-08-02T07:48:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -172,7 +172,7 @@ There is a more radical possibility: some conscious entities might not relate to
 
 The nature-vs-coupling distinction connects to several tenets:
 
-**Minimal Quantum Interaction**: The tenet constrains *coupling*—the "smallest possible non-physical influence on quantum outcomes." Coupling variation might represent different ways of achieving minimality—not different magnitudes of influence but different mechanisms for achieving the same minimal coupling. The nature of the conscious entity is a separate question the tenet does not address.
+**Minimal Quantum Interaction**: The tenet constrains *coupling*—the "smallest possible non-physical influence on physical outcomes," which the tenet's definition locates at the quantum level. Coupling variation might represent different ways of achieving minimality—not different magnitudes of influence but different mechanisms for achieving the same minimal coupling. The nature of the conscious entity is a separate question the tenet does not address.
 
 **Bidirectional Interaction**: Different couplings might support different degrees of causal efficacy. If some organisms have less effective coupling—biasing fewer quantum outcomes or with less precision—their consciousness would be less causally powerful. But different natures might also differ in causal capacity, independent of coupling mechanism. This could explain why some organisms display more flexible behaviour than others with similar neural complexity.
 

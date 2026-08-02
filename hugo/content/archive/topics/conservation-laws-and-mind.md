@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-01 02:21:00+00:00
+ai_modified: 2026-08-02 07:48:39+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Conservation Laws and Mental Causation
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-05 18:40:00+00:00
-lastmod: 2026-03-01 02:21:00+00:00
+lastmod: 2026-08-02 07:48:39+00:00
 modified: *id001
 original_path: /topics/conservation-laws-and-mind/
 related_articles:
@@ -176,7 +176,7 @@ This article argues the objection cannot settle the debate:
 - The objection begs the question by assuming no external influences exist—though the dualist position equally presupposes that consciousness is such an influence
 - Quantum mechanics provides a framework where consciousness could select outcomes without injecting energy
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [brain-specialness-boundary](/topics/brain-specialness-boundary/) explains). The interaction is doubly constrained.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—"the smallest possible non-physical influence on physical outcomes," exercised at the quantum level—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [brain-specialness-boundary](/topics/brain-specialness-boundary/) explains). The interaction is doubly constrained.
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [explanatory-gap](/concepts/explanatory-gap/), the [knowledge-argument](/concepts/knowledge-argument/), the self-stultification of epiphenomenalism, and the [empirical evidence](/concepts/baseline-cognition/) that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 

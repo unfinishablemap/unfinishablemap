@@ -4,6 +4,7 @@ created: 2026-01-23
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-02T07:48:39+00:00
 ---
 
 # Research: Conservation Laws and Mind-Brain Causation
@@ -243,7 +244,7 @@ Based on this research, an article could take several approaches:
 
 **Position**: Consciousness biases which quantum-permitted outcomes become actual in neural systems. This isn't "adding energy"—it's determining which of the equiprobable alternatives actualizes. Just as quantum entanglement produces correlations without energy transfer, consciousness-quantum interaction produces effects without energy exchange.
 
-**Tenet alignment**: Strong support for Minimal Quantum Interaction ("smallest possible non-physical influence on quantum outcomes").
+**Tenet alignment**: Strong support for Minimal Quantum Interaction ("smallest possible non-physical influence on physical outcomes", exercised at the quantum level).
 
 ### Angle 2: The Locality and Conditionality Response
 

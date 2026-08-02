@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-29 03:51:58+00:00
+ai_modified: 2026-08-02 07:48:39+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 07:40:05+00:00
-lastmod: 2026-07-29 03:51:58+00:00
+lastmod: 2026-08-02 07:48:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -178,7 +178,7 @@ If the many-worlds interpretation (MWI) is correct, all quantum outcomes occur i
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet commits to "the smallest possible non-physical influence on quantum outcomes." The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [brain-specialness-boundary](/topics/brain-specialness-boundary/) explains).
+The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet commits to "the smallest possible non-physical influence on physical outcomes," exercised — per the tenet's definition — at the quantum level. The selection-not-injection framework specifies what "smallest possible" means: no energy injected, no new forces introduced, no modification to quantum mechanical laws. Consciousness biases which outcome occurs where physics leaves the question open. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [brain-specialness-boundary](/topics/brain-specialness-boundary/) explains).
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires that the conservation objection not be decisive. This article argues it is not. Conservation laws are either inapplicable (because mental causation breaks the symmetry they presuppose) or irrelevant (because selection among equiprobable outcomes requires no energy transfer). Both the Noether conditionality response and the selection framework establish that conservation arguments cannot resolve the debate — though the dualist position equally presupposes its own conclusion when invoking external influence.
 

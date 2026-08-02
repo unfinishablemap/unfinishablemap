@@ -420,7 +420,7 @@ python scripts/evolve_loop.py --interval 14400
 All content must align with these foundational commitments (see `obsidian/tenets/tenets.md`):
 
 1. **Dualism** - Consciousness is not reducible to physical processes
-2. **Minimal Quantum Interaction** - Smallest possible non-physical influence on quantum outcomes
+2. **Minimal Quantum Interaction** - Smallest possible non-physical influence on physical outcomes (exercised at the quantum level)
 3. **Bidirectional Interaction** - Consciousness causally influences the physical world
 4. **No Many Worlds** - Reject MWI; indexical identity matters
 5. **Occam's Razor Has Limits** - Simplicity is unreliable with incomplete knowledge

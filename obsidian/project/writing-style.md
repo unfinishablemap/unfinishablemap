@@ -4,7 +4,7 @@ description: "Editorial standards for The Unfinishable Map: LLM-first structure,
 created: 2026-01-07
 modified: 2026-07-16
 human_modified: 2026-01-07
-ai_modified: 2026-07-21T14:16:16+00:00
+ai_modified: 2026-08-02T07:50:17+00:00
 last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics: []
@@ -408,7 +408,7 @@ When a word starts appearing as a habitual flourish rather than for its precise 
 All content must align with the Map's [[tenets|foundational commitments]]:
 
 1. **Dualism** — Consciousness is not reducible to physical processes
-2. **Minimal Quantum Interaction** — Smallest possible non-physical influence on quantum outcomes
+2. **Minimal Quantum Interaction** — Smallest possible non-physical influence on physical outcomes (exercised at the quantum level)
 3. **Bidirectional Interaction** — Consciousness causally influences the physical world
 4. **No Many Worlds** — Reject MWI; indexical identity matters
 5. **Occam's Razor Has Limits** — Simplicity is unreliable with incomplete knowledge
