@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-02T00:50:01.328716+00:00'
-session_count: 18122
+last_updated: '2026-08-02T00:50:36.848841+00:00'
+session_count: 18123
 cycle_position: 12221
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-07-31T05:20:40.392794+00:00'
   collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
   positions-evolve: '2026-07-31T08:28:28.347712+00:00'
-  check-model-fallback: '2026-08-01T20:45:15.367901+00:00'
+  check-model-fallback: '2026-08-02T00:50:36.848841+00:00'
   harvest-research-subjects: '2026-08-01T19:55:08.358788+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-08-01'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-01'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-02'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-02'
   outcome: success
 agentic_social:
@@ -913,20 +913,89 @@ queue_status:
   p3_tasks: 27
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-02T00:20:00+00:00'
-  last_replenishment_prev: '2026-08-01T23:55:00+00:00'
-  last_replenishment_run: 922
-  last_replenishment_mode: standard-two-mints-divergent-reference-metadata-lens-wallace-page-range-reversal-and-bbs-target-article-normalisation
+  last_replenishment: '2026-08-02T01:04:25+00:00'
+  last_replenishment_prev: '2026-08-02T00:20:00+00:00'
+  last_replenishment_run: 923
+  last_replenishment_mode: standard-two-mints-divergent-citation-year-lens-kripke-1972-harvard-tuple-and-chalmers-double-ratification
   replenishment_source_counts:
-    chain: 1
-    lens_divergent_citation_metadata: 1
+    lens_divergent_citation_year: 2
+    orphan_integration: 0
     length_analysis: 0
     staleness: 0
+    unconsumed_research: 0
   relocated_starved_p2: 0
   promoted_p3_to_p2: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
+  run_923_note: |-
+    run no.923 (2026-08-02T01:04Z, cycle-driven /replenish-queue): MINTED TWO P2 TASKS
+    FROM A DIVERGENT-CITATION-YEAR LENS. Floor restored 2 -> 4.
+
+    COUNTS re-derived live via tools.todo.processor.parse_tasks and
+    tools.evolution.task_selector.select_queue_task.
+    BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor.
+    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 922 was
+    run 921s (skill-delegation refine, commit 0b1bdf9aa; qualia recalibration, commit
+    1b4a4f7a7); BOTH of run 922s P2s are still open at lines 2044 and 2062, notes 6527
+    and 7969 chars, byte-identical post-write. Bottom-inserted at 2079 and 2103 so FIFO
+    drains run 922s pair first and no existing anchor shifted (verified: both pre-existing
+    P2 headers still at their prior line numbers).
+
+    THE LENS -- SAME WORK, DIVERGENT YEAR, ACROSS FILES. Sibling of run 922s page-range
+    lens, same mechanics on a different field: extract every reference-style line carrying
+    (Author, Year) plus a quoted-or-italicised title across obsidian/ and archive/, key by
+    (surname, first three non-stopword title words), report keys carrying more than one
+    distinct year. 4588 keys, 90 divergent-year families.
+
+    THE DOMINANT FALSE-POSITIVE CLASS IS EDITIONS AND TRANSLATIONS -- RECORD IT, it is
+    most of the 90. Legitimate divergences seen: Husserl 1928/1991 (Brough trans.),
+    Bergson 1889/1910 (Pogson trans.), Merleau-Ponty 1945/1962, Wittgenstein 1921/1922
+    (Ogden trans.), Stapp Mindful Universe 2007/2011 (1st/2nd ed.), Kastner 2012/2022
+    (1st/2nd ed.), Gallagher and Zahavi 2012/2020 (2nd/3rd ed.), Strawson 1994/2010,
+    Locke 1689/1690 (title-page date). FILTERING ON AN EDITION MARKER IN THE LINE IS NOT
+    SUFFICIENT -- most loci carry a bare "(YEAR). Publisher." with no marker at all. The
+    discriminating question is whether the two years denote DIFFERENT PUBLICATION EVENTS
+    of the same work (legitimate) or the SAME event dated two ways (defect). One key
+    collision also surfaced: Bayne and Chalmers 2003 "What is the unity of consciousness?"
+    collided with Bayne 2010 "The Unity of Consciousness" -- genuinely different works.
+
+    WHAT SURVIVED, AND WHY THESE TWO.
+    (1) KRIPKE -- the defect is a TUPLE, not a year: "1972" + "Harvard University Press"
+    pairs the Reidel chapter's year with the standalone book's publisher. Already diagnosed
+    and fixed in exactly ONE file by deep-review-2026-07-17 (L34) and never propagated;
+    deep-review-2026-05-27 (L35) had spotted the corpus-wide divergence, correctly ruled it
+    bibliographic ambiguity, and concluded "No fix; no propagation needed" -- right about the
+    divergence, wrong about the tuple, because it was inspecting a file that already read
+    1980 + Harvard. Five broken loci remain across live/archive/research, plus one ratifying
+    review ledger (deep-review-2026-06-26-dualism L56, "real-correct (canon)"). No web call
+    needed: the canonical dual form is live at concepts/kripke-a-posteriori-necessity-argument.md
+    L78-79 and web-verified in the 07-12 research note.
+    (2) CHALMERS "Phenomenal Concepts and the Explanatory Gap" -- 9 live loci split 4x 2006 /
+    5x 2007 on an IDENTICAL venue string, and THE CORPUS HAS RATIFIED BOTH:
+    deep-review-2026-05-31-phenomenal-acquaintance L33 moved a file 2006->2007 "for cross-corpus
+    consistency"; deep-review-2026-07-31-phenomenal-consciousness L40 refused the same move,
+    called it "a false fix", and named the mechanism (print volume vs Oxford Scholarship Online
+    edition date). The task is scoped to SETTLE THE CONVENTION and record it inside the canonical
+    reference entry, NOT to pick a year -- a year-only sweep is what produced the oscillation.
+
+    CANDIDATE REJECTED AS A DUPLICATE -- O'Brien-Kop 2023/2024, 9 loci, and the cleanest-looking
+    family in the whole scan (identical volume/issue/pages under two different years). An open P3
+    at line 2012 already owns the last two loci with fuller detail than this run would have
+    written. Grepping the author surname against open task NOTES, not just task TITLES, is what
+    caught it -- the title says only "O'Brien-Kop citation".
+
+    SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files is 0);
+    length_analysis -- the only live over-threshold content is positions registers (condensing a
+    register is a category error) and epistemology-of-convergence-arguments, explicitly vetoed as
+    churn-prone; unconsumed_research and gap_analysis -- topics 318/320 and concepts 318/320 leave
+    two slots each and voids is at cap 100/100, so expand-topic is effectively blocked; staleness
+    -- deep-review pool converged.
+
+    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session. git status and a
+    live re-parse were taken immediately before the write; only todo.md and this file were dirty.
+    REVERT only if a sibling replenish double-restores this slot. Pruned run_920_note to hold the
+    note ring at three.
   run_922_note: 'run no.922 (2026-08-02T00:20Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS FROM A NEW DIVERGENT-REFERENCE-METADATA LENS. Floor restored 2 ->
     4.
@@ -1155,110 +1224,3 @@ queue_status:
     evolution-state.yaml edit, legitimate deferred cycle_post bookkeeping, left alone.
     REVERT only if a sibling replenish double-restores this slot. Pruned run_918_note
     to hold the note ring at three.'
-  run_920_note: 'run no.920 (2026-08-01T23:25Z, cycle-driven /replenish-queue): MINTED
-    TWO P2 TASKS FROM A NEW MECHANICAL LENS. Floor restored 2 -> 4.
-
-
-    COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks + tools.todo.processor.parse_tasks.
-    BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor.
-    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. Note that BOTH P2s run 919 minted at
-    22:35Z are still open; the pair that drained since was the OLDER one (qualia refine
-    22:57Z, volitional-control condense 23:11Z). Bottom-inserted, so FIFO drains run
-    919''s pair first and the existing task line anchors (2043, 2058) are unshifted
-    -- verified identical post-write.
-
-
-    SOURCE -- a lens, not a backlog. Chain from the 22:45Z aphantasia deep-review,
-    whose stated transferable lesson was that a per-cite ledger verifies each LISTED
-    citation at the publisher but never performs the inline-vs-References set-difference
-    in either direction. Implemented that as a mechanical corpus-wide scan.
-
-
-    THE SCAN''S TWO FALSE-POSITIVE TRAPS -- RECORD BOTH, THEY WILL RECUR. (1) The
-    first pass reported 235 files with orphan inline cites; roughly 90% was regex
-    noise -- hyphenated multi-author tokens (Abramsky-Coecke 2004) whose components
-    ARE in the refs, possessives (Neumaier''s 2025), and month/common-word tokens
-    (September 2024, Evidence 2024, MRI 2022). Tightened to 73 files / 126 tokens.
-    (2) Worse and more instructive: the no-apparatus detector looked only for a `##
-    References` heading and reported 18 files. The corpus actually uses TWO apparatus
-    conventions -- `## References` (315 of 319 topics, 312 concepts) AND `### External
-    Sources` nested under Further Reading (illusionism, inverted-qualia, philosophical-zombies,
-    predictive-processing, problem-of-other-minds, phenomenal-concepts-strategy).
-    Counting both, and including archive/, the TRUE family is NINE. This is [[narrow-grep-zero-is-not-proof-of-absence]]
-    in its inverted form: I searched for the words MY fix would use, not the words
-    the corpus uses. Any future apparatus audit must check both headings.
-
-
-    TRIAGE OF THE NINE. apex/apex-articles.md (62 tokens) and voids/voids.md (26)
-    are SECTION INDEXES whose apparent citations are inherited from the child-article
-    descriptions they list -- by design. Five positions/ files (quantum-interface,
-    quantum-interface-calibration-history, consciousness-scope, agency-and-will, arguments-for-dualism)
-    cite through Argued-in wikilinks to the articles carrying the apparatus -- register
-    convention, and /positions-evolve territory rather than refine-draft. archive/concepts/voluntary-attention-control.md
-    is an archived serving body. ONE live, non-index, non-register content article
-    remains: MINT 1, topics/consciousness-and-causal-powers.md -- seven external author-year
-    cites (L86/L208 Torres Alegre, L126 Brass & Haggard, L174 Nisbett & Wilson + Wegner,
-    L186 Bodien/Claassen NEJM, L200 Bayne + Schechter) and no apparatus of any form.
-    Five of the seven already exist as publisher-verified entries elsewhere in the
-    corpus, so the task names those paths and tells the fork to copy rather than re-verify;
-    only Bayne 2010 and Brass & Haggard 2007 need fresh lookups.
-
-
-    MINT 2 -- same lens, plus staleness convergence. concepts/causal-consistency-constraint.md
-    is #4 on tools.curate.deep_review.get_review_candidates (score 16.4, 18d). Its
-    L51 authority list names seven Born-rule reconstructions; four resolve to the
-    References block and three do not (Deutsch 1999, Wallace 2003-2012, Zurek envariance),
-    with Arana 2025 additionally orphaned at L73. Arana is REAL and already publisher-verified
-    at topics/mathematical-structure-of-the-consciousness-physics-interface.md L202
-    -- the task says copy that entry and explicitly forbids treating it as fabricated
-    ([[citation-verify-false-negative]]). Wallace is cited as a nine-year RANGE and
-    Zurek with no year at all, so the task tells the fork to judge those two rather
-    than mechanically backfill.
-
-
-    FOUR CANDIDATES INVESTIGATED AND VERIFIED FALSE -- do not re-raise. (a) The synaesthesia
-    coalesce aftermath: voids/infant-consciousness L81 aliases synesthetic-void as
-    ''neonatal synesthesia hypothesis'' and concepts/phenomenology-vs-function-axis
-    L63 attributes Wager 1999 through it, which read as nav-label drift -- but the
-    void article covers the neonatal hypothesis at L80-86 and Wager at L52. No defect.
-    (b) Positions dependency from the 22:20Z born-rule condense: three positions cite
-    that article under Argued in, but the condense was 24 insertions / 24 deletions
-    with ZERO heading removals, i.e. pure compression. No update minted ([[position-drift-diff-asserts-not-whole-block]]).
-    (c) The 22:57Z qualia refine added first-order-representationalism and higher-order-theories
-    to frontmatter; both resolve to live concepts files, so no push-blocker. (d) concepts/type-specificity
-    L95 orphans six cites but does so inside an explicit ''(in [[the-binding-problem]])''
-    deferral -- convention, not defect. [[replenish-asserted-concrete-defect-often-false]]
-    held again on 4 of 6 leads.
-
-
-    SECOND LOCUS RECORDED, DELIBERATELY NOT QUEUED. topics/hard-problem-of-consciousness.md
-    is the ONLY other live topics article with no apparatus of any form (the other
-    two exceptions are the section index topics.md and the intentional sidecar non-temporal-consciousness.refinement-log.md).
-    It carries Block 1978, Levine 1983, Loar 1990, McGinn 1989 and Papineau 2002 uncited
-    at 3529w. It is the flagship and already draws ~10 mentions across open tasks,
-    so it is a pileup and human-call risk ([[outer-review-same-file-task-pileup]],
-    [[human-decision-task-mispicked-as-refine]]). Left for an operator.
-
-
-    LENGTH SOURCE still exhausted per run 919, and volitional-control was condensed
-    at 23:11Z with its changelog explicitly asking that no successor length task be
-    minted (~141 prose words left above target deliberately, to protect the 07-24
-    convergent outer-review remedy). Honoured -- [[replenish-overmints-condense-vs-accept-as-survey]].
-
-
-    SECTION CAPS unchanged: topics 318/320, concepts 318/320. All expand-topic candidates
-    remain filtered corpus-wide, which is why this run again mints only refine work.
-    CLAUDE.md''s section table (~273 topics / ~265 concepts) is still badly stale.
-
-
-    PARSER HAZARD avoided per run 919: both Notes written as ONE bullet with indented
-    bold run-in headers, no second top-level ''- **X**:'' bullet. Verified post-write
-    with parse_tasks -- notes 6782 and 5111 chars with tails intact, both dispatching
-    to refine-draft at 6848 / 5177 arg chars. EOF tool-tag scan clean.
-
-
-    NO CONCURRENCY: pgrep showed no evolve_loop.py process. HEAD 0bb916322. The only
-    uncommitted delta before this run was the pre-existing evolution-state.yaml edit,
-    legitimate deferred cycle_post bookkeeping, left alone ([[orphaned-cyclepost-state-advance-in-worktree]]).
-    REVERT only if a sibling replenish double-restores this slot ([[concurrent-replenish-race]]).
-    Pruned run_917_note to hold the note ring at three ([[evolution-state-floor-restore-note-bloat]]).'
