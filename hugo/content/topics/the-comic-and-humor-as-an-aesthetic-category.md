@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-02 13:49:47+00:00
+ai_modified: 2026-08-02 14:22:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: Humor as a third aesthetic category beside beauty and the sublime, 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 05:57:41+00:00
-lastmod: 2026-08-02 13:49:47+00:00
+last_deep_review: 2026-08-02 14:22:00+00:00
+lastmod: 2026-08-02 14:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Three families of theory have competed for two millennia, and philosophy of humo
 
 **Relief theory** holds that laughter vents surplus nervous energy that has become superfluous. Spencer proposed a physiological version; Freud gave the fullest statement in *Jokes and Their Relation to the Unconscious* (1905), distinguishing jokes (which release energy otherwise spent on repression), the comic (energy spared in ideation), and humor proper (an economy of affect). The "hydraulic" model of discharged nervous energy is now regarded as scientifically obsolete—Morreall, who wrote the *Stanford Encyclopedia*'s survey of the field, treats it as abandoned—so relief theory survives mainly as an observation that laughter often accompanies release of tension, not as a mechanism.
 
-**Incongruity theory** is the dominant modern view. Amusement is the enjoyment of a perceived incongruity—a clash between what one expected or conceived and what is actually presented. Kant's formulation is the classic one: "Laughter is an affection arising from the sudden transformation of a strained expectation into nothing" (*Critique of Judgment* §54, 1790). Kant stressed that the resulting pleasure is *bodily*, an alternating tension and relaxation, not an intellectual judgment—a nuance worth holding onto against any purely propositional reading. Schopenhauer located the incongruity between a concept and a perceived object, and—importantly for what follows—kept the perception and the felt response apart: "The cause of laughter in every case is simply the sudden perception of the incongruity between a concept and the real objects which have been thought through it in some relation, and laughter itself is just the expression of this incongruity" (*The World as Will and Idea* I §13, 1818; Haldane and Kemp translation). The perception is the *cause*; the laughter is its *expression*. And the perception wins the conflict it discloses: "In every suddenly appearing conflict between what is perceived and what is thought, what is perceived is always unquestionably right."
+**Incongruity theory** is the dominant modern view. Amusement is the enjoyment of a perceived incongruity—a clash between what one expected or conceived and what is actually presented. Kant's formulation is the classic one: "Laughter is an affection arising from the sudden transformation of a strained expectation into nothing" (*Critique of Judgment* §54, 1790). Kant stressed that the resulting pleasure is *bodily*, an alternating tension and relaxation, not an intellectual judgment—a nuance worth holding onto against any purely propositional reading. Schopenhauer located the incongruity between a concept and a perceived object, and—importantly for what follows—kept the perception and the felt response apart: "The cause of laughter in every case is simply the sudden perception of the incongruity between a concept and the real objects which have been thought through it in some relation, and laughter itself is just the expression of this incongruity" (*The World as Will and Idea* I §13, 1818; Haldane and Kemp translation). The perception is the *cause*; the laughter is its *expression*. And the perception wins the conflict it discloses: "In every suddenly appearing conflict between what is perceived and what is thought, what is perceived is always unquestionably right" (Vol. II ch. 8, the 1844 supplement in which Schopenhauer works the account out at length).
 
 Modern incongruity theory refines this in two ways. First, Michael Clark's conditions: humor requires that a person (1) perceives an incongruity, (2) enjoys perceiving it, and (3) enjoys the incongruity *partly for itself*, not solely for ulterior reasons (Clark, "Humour and Incongruity," *Philosophy* 45, 1970). Second, the **incongruity-resolution** variant (Suls 1972; Shultz 1976): amusement requires not just perceiving the incongruity but *resolving* it—"getting the joke" through a reinterpretation that makes the odd element fit. Unresolvable incongruity is mere nonsense or unease, not comedy. Noël Carroll's accessible survey favors incongruity theory while emphasizing humor's cognitive and social functions—building community, displaying intelligence, relieving tension (Carroll, *Humour: A Very Short Introduction*, 2014).
 
@@ -54,7 +54,7 @@ Here is the move that matters for the Map. Notice what Clark's three conditions 
 
 This residue is the point of contact with the Map's core aesthetic argument. In the treatment of the [sublime, tragedy, and disgust](/topics/the-sublime-and-negative-aesthetics/), the recurring pattern is that a structural or functional description fixes *why* a response is triggered while leaving untouched *what it is like* to have it. The comic exhibits the same shape. A complete incongruity-resolution analysis of a joke specifies the setup, the misdirection, the reinterpretation that resolves it—and a person can follow every step, verify that the structure is present, and remain unamused. Comedians know this as "explaining the joke," which reliably kills it: the structure survives the explanation intact while the mirth evaporates. On one reading, that dissociation shows the felt "click" is a further fact, not entailed by the structural description.
 
-Call this the **mirth-quale reading**: amusement is an evaluative quale—a felt, non-propositional evaluation—whose presence is not fixed by the structural facts about the joke. It stands to the incongruity as [phenomenal value](/topics/phenomenal-value-realism/) stands to the physical state that carries it. And it connects to the acquaintance principle explored under [aesthetic testimony](/topics/aesthetic-testimony-and-the-acquaintance-principle/): being *told* a joke is funny is not amusement. You must feel the click yourself. Testimony transmits the proposition "this is funny" without transmitting the mirth—which is exactly what you would expect if mirth were an evaluative quale rather than a belief.
+Call this the **mirth-quale reading**: amusement is an [evaluative quale](/concepts/evaluative-phenomenal-character/)—a felt, non-propositional evaluation—whose presence is not fixed by the structural facts about the joke. It stands to the incongruity as [phenomenal value](/topics/phenomenal-value-realism/) stands to the physical state that carries it. And it connects to the acquaintance principle explored under [aesthetic testimony](/topics/aesthetic-testimony-and-the-acquaintance-principle/): being *told* a joke is funny is not amusement. You must feel the click yourself. Testimony transmits the proposition "this is funny" without transmitting the mirth—which is exactly what you would expect if mirth were an evaluative quale rather than a belief.
 
 ## The Naturalizing Rival, at Full Strength
 
@@ -94,7 +94,7 @@ A note on evidential weight. The claims here are philosophical, not empirical pr
 1. Hobbes, T. (1651). *Leviathan*, Part I, ch. 6.
 1. Hutcheson, F. (1750). *Reflections Upon Laughter, and Remarks on the Fable of the Bees*. Glasgow: R. Urie.
 1. Kant, I. (1790). *Critique of Judgment*, First Part, §54.
-1. Schopenhauer, A. (1818/1844). *The World as Will and Idea* (*Die Welt als Wille und Vorstellung*), Vol. I §13; further developed Vol. II, ch. 8. Trans. R. B. Haldane and J. Kemp, London: Routledge & Kegan Paul, 1907. Quotations above follow this translation; the work is also translated as *The World as Will and Representation*.
+1. Schopenhauer, A. (1818/1844). *The World as Will and Idea* (*Die Welt als Wille und Vorstellung*), Vol. I §13; the theory of the ludicrous developed at length in Vol. II, ch. 8 (1844 supplement). Trans. R. B. Haldane and J. Kemp, London: Kegan Paul, Trench, Trübner & Co., 1909 (Vol. I, seventh edition; Vol. II, sixth edition). Both quotations above were checked verbatim against that translation; the work is also translated as *The World as Will and Representation*.
 1. Freud, S. (1905). *Jokes and Their Relation to the Unconscious* (Strachey trans., Standard Edition).
 1. Spencer, H. (1911). "On the Physiology of Laughter." In *Essays on Education, Etc.* London: Dent.
 1. Clark, M. (1970). "Humour and Incongruity." *Philosophy* 45(171): 20–32. DOI 10.1017/S003181910000958X.

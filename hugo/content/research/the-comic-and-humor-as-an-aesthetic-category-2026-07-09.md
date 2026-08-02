@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-02 13:49:47+00:00
+ai_modified: 2026-08-02 14:22:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-09
 date: '2026-08-02'
 draft: false
-lastmod: 2026-08-02 13:49:47+00:00
+lastmod: 2026-08-02 14:22:00+00:00
 related_articles: []
 title: Research Notes - The Comic and Humor as an Aesthetic Category
 ---
@@ -57,8 +57,8 @@ The structural sibling article **does** exist: `topics/the-sublime-and-negative-
 - Kant illustrates with the story of the Indian astonished that the beer foamed out of a bottle — the joke turning on how it got *in*. Kant stresses that the pleasure is bodily, not intellectual: the play of thought produces an "alternating tension and relaxation" felt in the body. This bodily/anti-cognitivist strand is a useful counter-nuance to a purely propositional reading.
 
 ### Schopenhauer, *The World as Will and Representation*, Vol. I §13 (1818), developed in Vol. II ch. 8 (1844)
-- **Verification status**: VERIFIED at quote level 2026-08-02 (SEP "Philosophy of Humor"). §13 (Vol. I) confirmed as the primary locus; the fuller "Theory of the Comical" is Vol. II, ch. 8 of the 1844 second edition. Translation is Haldane and Kemp (*The World as Will and Idea*, 1907), per SEP's bibliography.
-- **Core claim** (full sentence, verbatim — the paraphrase circulated in the 2026-07-09 draft of this note dropped a clause and reassigned the predicate): "The cause of laughter in every case is simply the sudden perception of the incongruity between a concept and the real objects which have been thought through it in some relation, and laughter itself is just the expression of this incongruity." Note that the perception is the *cause* of laughter and laughter the *expression* of the incongruity; laughter is not identified with the perception. Also verbatim: "In every suddenly appearing conflict between what is perceived and what is thought, what is perceived is always unquestionably right." Wit is the facility for subsuming an object under an unexpected concept.
+- **Verification status**: VERIFIED at quote level against the **primary translation text** 2026-08-02 (Haldane & Kemp, *The World as Will and Idea*, London: Kegan Paul, Trench, Trübner & Co., 1909 — Vol. I seventh ed. = Project Gutenberg 38427, Vol. II sixth ed. = PG 40097), superseding the earlier SEP-only check. §13 (Vol. I) confirmed as the locus of the "cause of laughter" sentence; the fuller theory of the ludicrous is Vol. II, ch. 8 (1844 supplement). **Locus correction (2026-08-02, deep-review):** the "suddenly appearing conflict" sentence is **not in Vol. I at all** — a full-text search of Vol. I returns zero hits for "unquestionably right", "suddenly appearing conflict" and "perceived is always". It sits in **Vol. II, ch. VIII, "On the Theory of the Ludicrous."** The 2026-08-02 refine pass verified both quotes via SEP, which supplies wording but not locus, and the article consequently attributed both to I §13. Cite the two quotes to their separate volumes. Also note the imprint: "Routledge & Kegan Paul" postdates the 1947 merger, so the "London: Routledge & Kegan Paul, 1907" pairing carried in the earlier note is anachronistic for the editions actually consultable.
+- **Core claim** (full sentence, verbatim — the paraphrase circulated in the 2026-07-09 draft of this note dropped a clause and reassigned the predicate): "The cause of laughter in every case is simply the sudden perception of the incongruity between a concept and the real objects which have been thought through it in some relation, and laughter itself is just the expression of this incongruity." Note that the perception is the *cause* of laughter and laughter the *expression* of the incongruity; laughter is not identified with the perception. Also verbatim, **but from Vol. II ch. VIII, not §13**: "In every suddenly appearing conflict between what is perceived and what is thought, what is perceived is always unquestionably right" (continuing: "for it is not subject to error at all, requires no confirmation from without, but answers for itself"). Wit is the facility for subsuming an object under an unexpected concept.
 - Note: often cited by translation title *The World as Will and Idea* (Haldane & Kemp, 1907) — the SEP uses that title. Both refer to the same work; prefer the modern "Representation" translation in article prose.
 
 ### Freud, *Jokes and Their Relation to the Unconscious* (1905)
@@ -95,7 +95,7 @@ The structural sibling article **does** exist: `topics/the-sublime-and-negative-
 - **Relation to site tenets**: Neutral-to-mildly-adverse. Its hydraulic-energy mechanism is a physicalist reduction, but it is largely abandoned on empirical grounds, so it is a weak physicalist ally rather than a live rival.
 
 ### Incongruity Theory (and Incongruity-Resolution)
-- **Proponents**: James Beattie (1779), Kant (1790), Schopenhauer (1818/1844); modern: Michael Clark (1970), John Morreall, Noël Carroll; incongruity-*resolution* refinement: Schultz (1976), Suls (1972/1983).
+- **Proponents**: James Beattie (1779), Kant (1790), Schopenhauer (1818/1844); modern: Michael Clark (1970), John Morreall, Noël Carroll; incongruity-*resolution* refinement: Shultz (1976), Suls (1972/1983).
 - **Core claim**: Amusement is the (playful, disinterested) enjoyment of a perceived incongruity — a clash between what one expected/conceived and what is presented. The resolution variant adds that the incongruity must be *resolvable* ("getting it"): pure unresolved incongruity is nonsense or unease, not comedy.
 - **Why dominant**: it fits the widest range of cases (verbal jokes, slapstick, wit) and cleanly separates the *object* of humor (the incongruity) from the *response* (amusement).
 - **Relation to site tenets**: The most fertile for the Map. Incongruity theory characterizes the *object* structurally but leaves the *felt amusement* as an extra term (Clark's conditions 2 and 3 — *enjoying* it, and enjoying it *for itself*). That residue — mirth as an evaluative quale not entailed by the structural description — is the dualist opening (Tenet 1). But see the calibration flag: the computational-resolution wing (Hurley/Dennett/Adams) closes exactly that gap by naturalizing the reward, so the opening is contested, not proven.

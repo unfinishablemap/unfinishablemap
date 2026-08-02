@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T13:49:47+00:00'
+ai_modified: '2026-08-02T14:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 14:22 UTC - deep-review
+- **Status**: Success — 2 critical citation defects found and fixed by primary-text verification; argument calibration confirmed converged, no content changes
+- **File**: [[topics/the-comic-and-humor-as-an-aesthetic-category]] (primary), [[research/the-comic-and-humor-as-an-aesthetic-category-2026-07-09]] (upstream note corrected)
+- **Word count**: 2501 → 2540 (+39, 85% of the 3000 topics soft threshold, status `ok`)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0 (2 recorded, both deliberately not changed — see review)
+- **Enhancements made**: 1 cross-link
+- **(a) Wrong-locus Schopenhauer quote — FIXED.** The second Schopenhauer quotation ("In every suddenly appearing conflict between what is perceived and what is thought, what is perceived is always unquestionably right") was attributed, along with the first, to *The World as Will and Idea* I §13, 1818. It **does not occur anywhere in Volume I** — a full-text search of the Haldane & Kemp Vol. I returns zero hits for `unquestionably right`, `suddenly appearing conflict`, `perceived is always` and `conflict between what is perceived`. It is verbatim in **Vol. II, ch. VIII, "On the Theory of the Ludicrous"** (the 1844 supplement), continuing "for it is not subject to error at all, requires no confirmation from without, but answers for itself." The quote now carries its own locus. Quote real, author right, wording exact, locus wrong — and it survived create, the create-time cross-review (which verified genuineness, not locus), and the 13:49 refine four hours earlier (which verified wording against SEP, and SEP quotes Schopenhauer without naming the volume). Only the primary text separates the two.
+- **(b) Anachronistic imprint — FIXED.** References gave "London: Routledge & Kegan Paul, 1907"; that imprint dates from the 1947 merger and cannot pair with 1907. Corrected to the editions actually consulted and quote-checked: Kegan Paul, Trench, Trübner & Co., 1909 (Vol. I seventh ed.; Vol. II sixth ed.).
+- **Upstream note corrected** so the locus error cannot re-propagate: the research note's Schopenhauer entry now records the primary-text verification, the Vol. II locus, and the imprint caveat, and its lingering "Schultz" misspelling was brought into line with the article's already-corrected "Shultz".
+- **Citation ledger (§2.4, primary-text level).** *Inside Jokes* bibliographic tuple, the "Mother Nature… bribe the brain with pleasure" publisher summary, and the *TLS* "detailed and sophisticated descendant of incongruity theories" attribution all **real-correct** verbatim at the MIT Press listing — the 13:49 refine's attribution fix holds. Shultz 1976 11–36 **real-correct** (OpenAlex; SEP both misspells the name and gives a corrupt range — do not "correct" the article back toward SEP). Suls 1972 81–99 real-correct with a noted one-page variance against Elsevier's DOI record (81–100), left as SEP. Morreall SEP dates confirmed live (first published 2012-11-20, rev. 2024-09-19). Spencer 1911 matches SEP's own dating. No fabricated citations, no fabricated quotes, no superlative claims.
+- **Engagement classification** (editor-internal; no labels in article prose): *Hurley, Dennett & Adams* — **mixed, Mode Two then Mode Three**. The Occam's-limits paragraph identifies an unearned foundational move using the opponent's own naturalistic standards (the account declines to explain why covert-error correction is *felt* rather than executed as an unfelt subroutine); the close of "The Naturalizing Rival" declares the retraction-individuation question a framework-boundary disagreement "rather than a refutation inside it." No boundary-substitution; grep for the full forbidden-label set returns zero hits in prose.
+- **Calibration**: clean. No possibility/probability slippage — no tenet is used to upgrade an empirical claim's evidential tier, and the empirical-discriminator paragraph added at 13:49 actively guards against it.
+- **Output**: [[reviews/deep-review-2026-08-02-the-comic-and-humor-as-an-aesthetic-category]]
 
 ## 2026-08-02 13:54 UTC - refine-draft
 - **Status**: Success — findings (a), (b), (c) closed plus all four fold-ins; Wollheim quote restored in full and re-verified at two independent sources
