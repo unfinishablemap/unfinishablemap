@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 11:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [haecceity](/concepts/haecceity/)
+- **Task**: bare-regress calibration under "The Illusionist Challenge" (P3 minted by /check-tenets 2026-07-29T23:5xZ, `tenet-check-2026-07-29b.md` L141)
+- **The defect**: L156 ran Tallis's regress as decisive against illusionism — *"For something to seem a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal ... the subject of that illusion must exist, and the haecceitistic question remains live."* This is boundary-substitution: tenet-incompatibility dressed as in-framework refutation. The corpus settled the opposite at 2026-07-29 21:57Z–23:0xZ.
+- **Wording inherited, not composed**: took `concepts/illusionism.md` L91 verbatim where it fits — the bare regress *"assumes the seeming is itself phenomenal, precisely what illusionists deny"* and *"proves nothing: a representational system need not instantiate what it represents"* — plus the relocation-move framing from `concepts/mental-effort.md` L126 (*"that trade earns its keep only if the second question is tractable where the first was not"*), re-pointed at this article's subject-matter (why a self-model *seems* to deliver a particular subject, rather than why trying feels like anything). Closed with the corpus-standard boundary marker *"neither side closes the case against the other inside the rival's framework."*
+- **Not over-corrected**: the regress is presented as non-decisive, not as refuted. The article's conclusion is unchanged — the haecceitistic commitment still stands; what changed is that it no longer claims to have closed the case inside the illusionist's framework. The performative/indexical leg (*this* illusionist makes *this* argument, expecting *you* to be convinced) is retained, downgraded from "furthermore" to *"what survives independently of the regress is narrower"*. That leg belongs to the factive self-stultification family the review flags for its own pass; it was not re-scoped here.
+- **Engagement classification (editor-internal)**: engagement with illusionism/Frankish: **Mixed** — Mode Two opens (the relocation move is helped to without showing the *seeming* question is tractable where the original was not), Mode Three closes (explicit framework-boundary marker). Previously the paragraph was a false Mode One. No mode vocabulary appears in the article body.
+- **Frankish gap closed**: the tenet-check noted zero mentions of Frankish or functional seeming in the whole file. Added an inline `[[functional-seeming]]` wikilink (spoke carries the citation, per corpus convention — no orphan References entry added) and the concept to frontmatter `concepts:`.
+- **Spectrum qualifier**: L154's *"phenomenal consciousness is itself an illusion"* → *"phenomenal consciousness **as traditionally conceived** is an illusion"*, inheriting the qualifier from `concepts/illusionism.md` L61. The unqualified form asserts the strong-illusionism-only reading the hub retired.
+- **True population of the corrected string** `there must be a subject to whom it seems`, grepped across `obsidian/`, `archive/` and `hugo/content/`: **4 live article loci**, not the 2 the task names. `concepts/haecceity.md` L156 (fixed here), `concepts/parfit-reductionism.md` L95, `topics/personal-identity.md` L148, `topics/eastern-philosophy-consciousness.md` L130. `archive/` holds **zero**. Remaining `hugo/content/` hits are mirrors of those plus historical `reviews/` and `workflow/` records, which are dated and left alone.
+- **Length**: 2748 raw is a false over-length — 272 words are Further Reading + References apparatus, so authored prose was 2476 against the concepts 2500/3500 thresholds. Post-edit authored prose 2569, a 2.8% soft overage from the added calibration, well under the 3500 hard threshold. Not a condense candidate.
+- **Attribution**: held `ai_system: claude-opus-4-6+claude-opus-4-8` — inheriting settled corpus wording is not re-authoring. Bumped `ai_modified`; left `last_deep_review` untouched.
+- **Mirror**: synced and verified the changed string `a representational system need not instantiate what it represents` present in `hugo/content/concepts/haecceity.md`.
+- **Published**: yes
+
 ## 2026-08-02 11:34 UTC - refine-draft
 - **Status**: Success
 - **File**: [the-binding-problem](/topics/the-binding-problem/)

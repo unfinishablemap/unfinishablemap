@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-07-26T05:31:14+00:00
+ai_modified: 2026-08-02T11:38:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[concepts/many-worlds]]"
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
+  - "[[functional-seeming]]"
   - "[[buddhism-and-dualism]]"
   - "[[attention-as-interface]]"
   - "[[measurement-problem]]"
@@ -151,9 +152,9 @@ Contemplative evidence supports this. Advanced meditators who deconstruct the su
 
 ### The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that phenomenal consciousness is itself an illusion. If so, haecceity about conscious subjects is haecceity about a fiction.
+[[illusionism|Illusionists]] argue that phenomenal consciousness *as traditionally conceived* is an illusion. If so, haecceity about conscious subjects is haecceity about a fiction.
 
-**Response**: The illusionist position faces a regress (Tallis 2011). For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal. The illusion of consciousness requires consciousness to be an illusion *for*. Even if experiential content is illusory, the subject of that illusion must exist, and the haecceitistic question remains live. Furthermore, the illusionist who argues against haecceity performatively assumes their own indexical identity—*this* illusionist makes *this* argument, expecting *you* to be convinced.
+**Response**: The standard reply is Tallis's regress (2011)—for something to *seem* a certain way, there must be a subject to whom it seems that way, so the illusion of consciousness requires consciousness to be an illusion *for*. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why there is a fact about being *this* subject for the question of why a self-model *seems* to deliver one, and that trade earns its keep only if the second question is tractable where the first was not. Nothing in the illusionist machinery yet shows that it is, and neither side closes the case against the other inside the rival's framework. What survives independently of the regress is narrower: the illusionist arguing against haecceity performatively assumes their own indexical identity—*this* illusionist makes *this* argument, expecting *you* to be convinced.
 
 ### Objections Specific to Process Haecceitism
 
