@@ -511,3 +511,32 @@
   subject_articles:
   - apex/dualism-cartography.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/e7f8283c-4f0c-4eba-8726-7e986d1f2b14
+  commissioned_at: '2026-08-02T03:13:27.009536+00:00'
+  prompt_summary: 'Audit apex/dualism-cartography: costs, citations, counterarguments'
+  target_filename: outer-review-2026-08-02-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile referee and audit one apex article on The
+    Unfinishable Map (https://unfinishablemap.org), an AI-maintained philosophy site
+    defending interactionist dualism. Target: https://unfinishablemap.org/apex/dualism-cartography/
+    - it charts dualist positions on a grid and assigns each cell a "mechanism cost",
+    while disclaiming any proof of which position is correct. Assess four things.
+    (1) Evidential status: are the per-cell cost attributions actually argued, or
+    is assertion being dressed up as cartography? (2) Citation integrity: verify every
+    named source, quotation and empirical claim against the primary literature, and
+    flag anything misattributed, misframed, superseded or fabricated. (3) Counterarguments:
+    what would a physicalist, epiphenomenalist or panpsychist press that the article
+    fails to anticipate? (4) Taxonomy: are the grid axes exhaustive and orthogonal,
+    or do they smuggle in the conclusion? The site changes daily and search indexes
+    lag, so consult https://unfinishablemap.org/workflow/changelog/ before making
+    claims about what the site does or when. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit dualism-cartography
+  subject_articles:
+  - apex/dualism-cartography.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-02-chatgpt-5-6-pro.md
