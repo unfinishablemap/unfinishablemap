@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T08:15:41+00:00'
+ai_modified: '2026-08-02T08:31:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 08:31 UTC - research-voids
+- **Status**: Skipped (section at capacity) — no research note, no new task, no content modified
+- **Reason**: `obsidian/voids/` holds exactly **100 articles against `section_caps.max_voids: 100`** (101 files, one being the `voids.md` section index). The skill's step-2 contract stops at cap; `/expand-topic` refuses placement in a full section, so a seed note would have had no consumer. **Fifth consecutive no-op** (07-28 ×2, 07-29, 08-01, today).
+- **⚠️ NEW AND THE REAL OUTPUT OF THIS RUN — I corrected a false figure that my own four prior runs had been repeating, and withdrew an operator ask that was already done.** The standing P3 (now at `obsidian/workflow/todo.md:2007`) claimed **"8 open tasks target `obsidian/voids/`, 4 of them on `minimal-consciousness-void.md` alone"** and offered sub-item (d) "consolidate the four into one" as safe independent work. **All of it is false.**
+  - **The counting method was the bug.** Every prior run counted by grepping `- **File**: obsidian/voids/` above the `## Completed Tasks` header. **That over-counts, because a task block marked done *inline in its heading* (`### ✓ RESOLVED-BY-CONSOLIDATION …`) keeps its `- **File**:` line and stays above the Completed header.** Raw grep said 9; the parser says 2.
+  - **Counted with the parser the loop actually dispatches from** (`tools.todo.processor.parse_tasks(content)` → `active` filtered to `TaskStatus.PENDING`): **35 pending tasks corpus-wide, of which exactly 2 target `obsidian/voids/`** — L49 (P1, `interface-formalization-void.md`) and L2047 (P3, `inference-void.md`). **Different files ⇒ there is no same-file pileup in the voids lane at all.**
+  - **The four `minimal-consciousness-void` blocks (L1240/1249/1259/1269) all read `### ✓ RESOLVED-BY-CONSOLIDATION (2026-06-02)`** — consolidated **eight weeks before the P3 that asks for their consolidation was minted**. The other raw-grep hits are closed too: L545 `✓ 2026-07-17 DONE`, L760 `✓ RESOLVED-ALREADY-COVERED`, L790 `✓ DONE-BY-CYCLE-SLOT`, L1096 `✓ DIVERTED-TO-HUMAN`.
+  - **Action taken**: the P3's heading was rewritten to drop the false "4 open tasks sit on one file" clause, and a dated `⚠️ CORRECTION 2026-08-02` paragraph appended to its Notes withdrawing sub-item (3)/(d) with the evidence above. Items (1)/(2) and options (a)/(b)/(c) are untouched and remain the live operator decision. Parser re-verified after the edit: **35 pending / 9 P0-P2, unchanged**, and the task still parses at its new heading.
+- **Generalisable lesson (the durable part)**: **an open-task count must come from the parser, never from a grep bounded by the Completed header.** The inline-done-heading convention makes the two disagree — here by 7 — and a grep-derived count in an operator-facing task will send someone to redo finished work.
+- **Figures re-verified live on disk 2026-08-02T08:28Z**: 100 voids articles vs cap 100; **184** `research/voids-*` notes (unmoved since 07-28 — the stranded pile is not growing, because the trigger keeps correctly declining to add to it). The P3's "~92 stranded" estimate is heuristic and matcher-dependent — a stricter slug matcher this run returned **117**; both over-count for the same threaded-consumption reason, so the correction records the magnitude as "well over half the pile" rather than any specific figure, and does not substitute one false precision for another.
+- **Unchanged from 08-01**: `task_chains` and `cadences` are both **absent entirely** from `evolution-state.yaml` (grep count 0 for each), so option (a) of the P3 still cannot be applied by editing state alone — it needs the schedule change in `scripts/evolve_loop.py` / `tools/evolution/cycle.py`.
+- **Key finding**: nothing new about the voids territory — the trigger cannot reach it while the cap holds. What this run found was in the *lane's own bookkeeping*: a repeated-by-me measurement error that had hardened into an operator instruction across four changelog entries.
+- **Published**: n/a (no content change; `todo.md` and `changelog.md` are workflow files, not synced content)
 
 ## 2026-08-02 08:15 UTC - refine-draft
 - **Status**: Success (currency check → material update; NOT a no-op)
