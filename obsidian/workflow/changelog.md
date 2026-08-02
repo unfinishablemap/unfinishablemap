@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T17:45:24+00:00'
+ai_modified: '2026-08-02T17:55:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 17:55 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/causal-closure]], [[concepts/working-memory]], [[apex/minds-without-words]], [[concepts/motor-selection]]
+- **Axis**: Family C of [[reviews/tenet-check-2026-07-29b]], empirical branch — the four loci left by the 17:45Z pass, where an *empirical* finding (consciousness reporting, WM manipulation, pain asymbolia, motor control) was promoted to a demonstration of Tenet 3. Distinct from that pass's self-stultification branch: these needed a register fix against the governing text, not a reportage marker.
+- **Governing text**: `tenets.md` L92 — the conversation *suggests* downward causation; Bidirectional Interaction is held as "a metaphysical commitment supported by self-stultification and indirect evidence, not as a directly introspectible datum". Register modelled on `tenets.md` L94 ("consistent with… corroborates the tenet rather than establishing it").
+- **Wording inherited, not composed** — each fix took its calibration from an in-file or governing model, per task instruction.
+
+### Per-locus verdicts (5 loci across 4 files)
+
+**1. `concepts/causal-closure.md` L185 — FIXED.** "**Consciousness reporting** shows that mental states influence physical behavior… This requires mental→physical causation" → "*suggests* that…", the flat "This requires" sentence dropped, and the false dilemma opened out with the third horn the article's own Ground 3 already links: the [[concepts/phenomenal-concepts-strategy|phenomenal-concept]] route, on which the report's physical causes *are* its referents. Closes on Ground 3's verbatim clause — "supports rejecting closure comparatively rather than closing the question". Ground 2 was the only miscalibrated member of the three-ground list; Ground 1 (quantum indeterminacy) is a physics claim, correctly factive, and Ground 3 was the model. 3349→3385 words, still `soft_warning`.
+
+**2. `concepts/working-memory.md` L171 — FIXED.** "WM manipulation demonstrates downward causation. Conscious intent… produces measurable neural changes" → "is *consistent with* downward causation… is accompanied by measurable neural changes; on the Map's reading, information flows…", plus the symmetric reading the register requires: "The epiphenomenalist reads the same correlation the other way—the neural changes produce both the manipulation and the felt intent—so the pattern corroborates the tenet rather than establishing it." Exactly `tenets.md` L94's register. File was already `hard_warning` (3655) so the addition was held to ~30 words: 3688, still `hard_warning`, nowhere near critical (5000).
+
+**3. `apex/minds-without-words.md` L115 — FIXED.** "Pain asymbolia demonstrates that phenomenal properties do real causal work — Bidirectional Interaction in action" → "constrains identity readings of valence rather than establishing that phenomenal properties do real causal work — evidence for Bidirectional Interaction, not a demonstration of it." Inherits the file's own L137 constrain-vs-establish wording verbatim, resolving the self-contradiction the task flagged.
+
+**4. `apex/minds-without-words.md` L151 — FIXED.** "Pain asymbolia demonstrates phenomenal valence does causal work" → "constrains identity readings of valence rather than establishing that it does causal work." Same L137 inheritance. The section's existing closer ("Forcing the case against epiphenomenalism requires the separate argument that *consciousness itself* is selectable") was already honest and now reads consistently with the sentence above it. Apex 4009→4028, still `soft_warning` against soft 4000 / hard 5000; substitution preferred over addition throughout, per the length constraint.
+
+**5. `concepts/motor-selection.md` L208 — FIXED (strongest of the five).** "finds **direct support**. Motor control is where consciousness **visibly** affects the physical world" → "finds *indirect* support. Motor control is where consciousness *seems* most obviously to affect the physical world… but the seeming is not itself the evidence: the [[voids/agency-void|agency void]] catalogues why consciousness cannot first-person-verify its own causal power. The tenet is held as a metaphysical commitment supported by indirect evidence, not as a directly introspectible datum." This locus asserted precisely the directly-introspectible-datum move `tenets.md` L92 forbids; the fix quotes L92's own words and links the `agency-void` §Verification Circularity for the structural reason. 3350→3392, still `soft_warning`. The file's recorded anchoring false-high was left alone — no metric-chasing edits.
+
+- **Family D bundling question — DECLINED, with reasoning.** The task asked whether `working-memory.md` L161's bare-illusionist-regress locus should ride along. It should not. A corpus grep for the family shows it is **not a stray**: the settled Frankish-concession wording is already installed at `concepts/illusionism.md` L91/L111, `concepts/haecceity.md` L157, `concepts/mind-brain-separation.md` L96, `concepts/explanatory-gap.md` L115 and `concepts/phenomenal-consciousness.md` L98, while **five loci remain bare** — `working-memory.md` L161, `problem-of-other-minds.md` L170, `implicit-memory.md` L141, `psychophysical-laws.md` L213, and `relational-quantum-mechanics.md` L93 (partially hedged; needs a check, not a rewrite). Taking one of five inside a Family C pass is the known fix-by-file failure mode — it leaves string siblings live while spending the length headroom of the one file already at `hard_warning`. Minted as its own P2 sweep task with all five loci enumerated.
+- **Attribution**: each file's existing `ai_system` held unchanged (`claude-opus-4-6` ×3, `claude-opus-4-5-20251101` for working-memory). `ai_modified` bumped to 2026-08-02T17:55:13+00:00 on all four.
+- **Mirror**: synced; all five changed strings verified present in `hugo/content/`, all five superseded strings verified absent, both new wikilinks confirmed resolving (`/concepts/phenomenal-concepts-strategy/`, `/voids/agency-void/#the-verification-circularity`), zero unconverted wikilinks in any changed body.
+- **Published**: yes
 
 ## 2026-08-02 17:45 UTC - refine-draft
 - **Status**: Success

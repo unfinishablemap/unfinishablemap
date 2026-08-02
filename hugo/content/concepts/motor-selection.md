@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-30 15:10:22+00:00
+ai_modified: 2026-08-02 17:55:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:49:10+00:00
-lastmod: 2026-07-30 15:10:22+00:00
+lastmod: 2026-08-02 17:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -209,7 +209,7 @@ Motor selection satisfies the [Minimal Quantum Interaction](/tenets/#minimal-qua
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet finds direct support. Motor control is where consciousness visibly affects the physical world—words appear on screens, bodies move through space. If motor selection and attentional selection share a mechanism, the same interface connects consciousness to both perception and action.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet finds indirect support. Motor control is where consciousness *seems* most obviously to affect the physical world—words appear on screens, bodies move through space—but the seeming is not itself the evidence: the [agency void](/voids/agency-void/#the-verification-circularity) catalogues why consciousness cannot first-person-verify its own causal power. The tenet is held as a metaphysical commitment supported by indirect evidence, not as a directly introspectible datum. If motor selection and attentional selection share a mechanism, the same interface connects consciousness to both perception and action.
 
 ### No Many Worlds
 

@@ -4,7 +4,7 @@ description: "Non-linguistic consciousness from animals to simple organisms. The
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-08-02T10:16:00+00:00
+ai_modified: 2026-08-02T17:55:13+00:00
 last_deep_review: 2026-07-19T12:13:24+00:00
 draft: false
 topics:
@@ -112,7 +112,7 @@ Why does pain feel *bad* rather than merely different? The hedonic account treat
 
 Panksepp's affective neuroscience identifies seven primary emotional systems in ancient subcortical structures. His key evidence — decorticate rats still play and show distress, anencephalic infants show comparable facial-expression responses — Panksepp reads as "an evolutionary birthright" of subcortical phenomenal consciousness. Birch (2024) is careful here: he reads the same evidence as confirming *behavioural markers of pain-like states* without confirming *valenced experience*. LeDoux's rejoinder is that the responses are reflexive — neither rat nor anencephalic infant has the cortical higher-order representation he argues conscious feelings require. The honest verdict: subcortical valenced experience sits at *realistic possibility, contested*, with the anencephalic-infant evidence raising the prior against pure reflex but not refuting LeDoux's claim. *Some* form of phenomenal valence almost certainly extends well beyond humans; *how deep* into the phylogenetic tree remains genuinely open.
 
-The felt quality matters causally and morally. Pain asymbolia demonstrates that phenomenal properties do real causal work — [[tenets#^bidirectional-interaction|Bidirectional Interaction]] in action. Morally, a valence-based [[sentientism]] makes the capacity for valenced experience necessary and sufficient for moral status — Birch (2024) defines sentience as that capacity — against a broader criterion counting any phenomenal consciousness morally significant. [[topics/phenomenal-value-realism|Phenomenal value realism]] strengthens the valence-based version: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as human suffering, not merely an analogue. Max Scheler's "Wertnehmung" — value-perception — treats emotional experience as the primary mode through which values are disclosed, an irreplaceable epistemic access that no non-conscious system could replicate.
+The felt quality matters causally and morally. Pain asymbolia constrains identity readings of valence rather than establishing that phenomenal properties do real causal work — evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]], not a demonstration of it. Morally, a valence-based [[sentientism]] makes the capacity for valenced experience necessary and sufficient for moral status — Birch (2024) defines sentience as that capacity — against a broader criterion counting any phenomenal consciousness morally significant. [[topics/phenomenal-value-realism|Phenomenal value realism]] strengthens the valence-based version: if the felt badness of suffering *constitutes* intrinsic badness, animal suffering instantiates the same value property as human suffering, not merely an analogue. Max Scheler's "Wertnehmung" — value-perception — treats emotional experience as the primary mode through which values are disclosed, an irreplaceable epistemic access that no non-conscious system could replicate.
 
 ## Minimal Consciousness: Where Does Experience Begin?
 
@@ -148,7 +148,7 @@ The individual source articles establish components — animal consciousness as 
 
 **[[tenets#^dualism|Dualism]]**: Animal consciousness poses the *same* hard problem as human consciousness. The marker method and the five-tier evidential scale identify *correlates*, consistent with Dualism's commitment that no third-person feature *constitutes* consciousness.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The type-specific correspondence between consciousness-dependent operations and the human-ape gap argues against epiphenomenalism. Pain asymbolia demonstrates phenomenal valence does causal work. [[delegatory-dualism|Delegatory dualism]] offers a mechanism via [[delegatory-causation|preemption]], avoiding overdetermination. Forcing the case against epiphenomenalism requires the separate [[evolutionary-case-for-mental-causation|argument]] that *consciousness itself* is selectable.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The type-specific correspondence between consciousness-dependent operations and the human-ape gap argues against epiphenomenalism. Pain asymbolia constrains identity readings of valence rather than establishing that it does causal work. [[delegatory-dualism|Delegatory dualism]] offers a mechanism via [[delegatory-causation|preemption]], avoiding overdetermination. Forcing the case against epiphenomenalism requires the separate [[evolutionary-case-for-mental-causation|argument]] that *consciousness itself* is selectable.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness interfaces with matter through quantum processes, the mechanism could operate in any organism with suitable architecture. The Map treats microtubule-scale interest as tenet-driven rather than empirically forced.
 

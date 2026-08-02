@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-29 08:47:00+00:00
+ai_modified: 2026-08-02 17:55:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 03:24:48+00:00
-lastmod: 2026-07-29 08:47:00+00:00
+lastmod: 2026-08-02 17:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -185,7 +185,7 @@ The rejection rests on three principled grounds:
 
 1. **Quantum mechanics** shows that not all physical events have sufficient physical causes. The physical domain has genuine gaps.
 
-2. **Consciousness reporting** shows that mental states influence physical behavior. When you report seeing red, information about your experience enters your verbal behavior. This requires mental→physical causation. Physicalists must either deny the information is about phenomenal experience (implausible—what else are you reporting?) or explain how phenomenal experience causes the report (conceding mental causation).
+2. **Consciousness reporting** *suggests* that mental states influence physical behavior. When you report seeing red, information about your experience enters your verbal behavior. Physicalists must either deny the information is about phenomenal experience (implausible—what else are you reporting?) or explain how phenomenal experience causes the report (conceding mental causation)—or take the [phenomenal-concept](/concepts/phenomenal-concepts-strategy/) route, on which the report's physical causes *are* its referents and no phenomenal causation is needed. That third option keeps the physicalist in play, so this ground too supports rejecting closure comparatively rather than closing the question.
 
 3. **Self-stultification** presses hard on any denial of mental causation. If consciousness causes nothing, our beliefs about consciousness are causally disconnected from actual experiences. If you accept [epiphenomenalism](/concepts/epiphenomenalism/)—the view that causal closure forces—then your belief in epiphenomenalism isn't caused by the experiences that supposedly motivate it. The belief and the experiences are causally unrelated. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) runs four arguments—self-stultification, evolutionary, knowledge-based, introspective—in two families rather than four independent lines, pressing the bare-correlation version hard without refuting it from inside the epiphenomenalist's framework. The [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) keeps the strongest version of the position in play, so this ground supports rejecting closure comparatively rather than closing the question.
 

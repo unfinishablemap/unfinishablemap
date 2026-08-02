@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-08-02T17:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -205,7 +205,7 @@ Motor selection satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quan
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet finds direct support. Motor control is where consciousness visibly affects the physical world—words appear on screens, bodies move through space. If motor selection and attentional selection share a mechanism, the same interface connects consciousness to both perception and action.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet finds indirect support. Motor control is where consciousness *seems* most obviously to affect the physical world—words appear on screens, bodies move through space—but the seeming is not itself the evidence: the [[agency-void#The Verification Circularity|agency void]] catalogues why consciousness cannot first-person-verify its own causal power. The tenet is held as a metaphysical commitment supported by indirect evidence, not as a directly introspectible datum. If motor selection and attentional selection share a mechanism, the same interface connects consciousness to both perception and action.
 
 ### No Many Worlds
 
