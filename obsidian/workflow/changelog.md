@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T14:28:00+00:00'
+ai_modified: '2026-08-02T14:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 14:40 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the philosophy-of-science / methodology-under-dualism wing — 10 articles (`concepts/philosophy-of-science-under-dualism`, `topics/duhem-quine-underdetermination-consciousness`, `topics/consciousness-and-the-structure-of-scientific-revolutions`, `topics/consciousness-and-the-problem-of-measurement-standards`, `topics/consciousness-and-the-problem-of-other-properties`, `topics/consciousness-and-the-problem-of-induction`, `topics/epistemology-of-mechanism-at-the-consciousness-matter-interface`, `concepts/reflexive-methodology`, `concepts/phenomenal-contrast-method`, `topics/phenomenology-of-conceptual-frameworks`), plus `apex/steelmanning-as-method`, `apex/research-programme-decisions-under-the-map`, `apex/testing-the-map-from-inside` and `positions/methodology-and-calibration` as adjacency/integration checks.
+- **Selection basis**: a 2.7 MB scan of all 88 optimistic reviews since 2026-06-01 found zero mentions of any of these slugs. Largest coherent unreviewed cluster in `topics/`+`concepts/`.
+- **Headline strength**: `duhem-quine-underdetermination-consciousness` applies the symmetry test to the Map's own hard core five times and explicitly refuses the tier-upgrade its own subject invites ("underdetermination is symmetric and, by itself, licenses neither side") — the corpus's clearest case of tenet-as-evidence-upgrade praise-worthily *not* done. `structure-of-scientific-revolutions` raises the pre-paradigm objection that would collapse its own thesis, answers it, then concedes Kuhn's preface cuts the other way.
+- **Headline opportunity**: the Map's meta-level methodology apparatus (32 `project/` docs, positions P-M1–P-M5, `apex/steelmanning-as-method`) and its object-level philosophy-of-science cluster never touch. **0 of 9 cluster articles cite any `positions/` entry or any `project/` discipline doc, against a corpus baseline of 147 articles.** Three positions are re-derived in the cluster's own prose without attribution. No apex synthesises the cluster (both nearest candidates checked and ruled out). `reflexive-methodology` has 4 inbound links, all four from its own worked exhibits.
+- **Calibration concern (not a praise)**: `topics/consciousness-and-the-problem-of-induction` is pre-guardrail — oldest, least-linked, and runs a reflexive-methodology instance 40 days before that method's datum/claim guardrail was written. Routed to `refine-draft`, per the skill's Process-Philosopher-vs-Hardline-Empiricist rule.
+- **Tasks generated**: 3 × P3 — `refine-draft` on `problem-of-induction` (calibration + reciprocal link); `refine-draft` citation pass across the 9 cluster files + steelmanning apex; `apex-evolve` for the cluster apex (applied mode, ≥3 positions).
+- **Output**: [[reviews/optimistic-2026-08-02-philosophy-of-science-cluster]]
 
 ## 2026-08-02 14:28 UTC - refine-draft
 - **Status**: Success
