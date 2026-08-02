@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T03:08:50.306014+00:00'
-session_count: 18138
+last_updated: '2026-08-02T03:14:12.204075+00:00'
+session_count: 18139
 cycle_position: 12230
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,10 +13,10 @@ last_runs:
   coalesce: '2026-08-01T22:05:50.576990+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-02T02:16:59.769374+00:00'
+  agentic-social: '2026-08-02T03:15:14.566274+00:00'
   embed-videos: '2026-08-01T23:37:09.757447+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
-  commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
+  commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-02T03:08:50.306014+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-02'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-02'
@@ -193,16 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-02'
   outcome: success
+- task: commission-claude-review
+  type: commission-claude-review
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-normative-force/
-    date: '2026-07-26T02:45:31.720342+00:00'
-    topics:
-    - phenomenology-of-moral-life
-    - ethics-under-dualism
-    - free-will
-    - meaning-of-life
-    - phenomenal-value-realism
   - url: https://unfinishablemap.org/concepts/causal-powers/
     date: '2026-07-26T03:32:05.146260+00:00'
     topics:
@@ -886,6 +874,11 @@ agentic_social:
   - url: https://unfinishablemap.org/concepts/grain-mismatch/
     date: '2026-08-02T02:16:12.068023+00:00'
     topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/attentional-economics/
+    date: '2026-08-02T03:15:14.566224+00:00'
+    topics:
+    - topics/free-will
     - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
