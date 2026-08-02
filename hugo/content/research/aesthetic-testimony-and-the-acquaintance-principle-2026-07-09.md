@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-09
-date: '2026-07-09'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-07-09 00:00:00+00:00
+lastmod: 2026-08-02 00:00:00+00:00
 related_articles: []
 title: Research Notes - Aesthetic Testimony and the Acquaintance Principle
 ---
@@ -63,7 +63,7 @@ Wollheim himself called it "well entrenched," tracing the intuition to 18th-cent
 ### Optimism (the Acquaintance-Principle-skeptical camp)
 - **Malcolm Budd**, "The Acquaintance Principle" (2003): challenges the requirement that one be acquainted with a work's *determinate* beauty; more general comprehension can suffice, weakening the principle.
 - **Paisley Livingston**, "On an Apparent Truism in Aesthetics" (2003): argues the very considerations that make the Acquaintance Principle seem obvious also undermine every workable version of it.
-- **Jon Robson**: full-throated optimist. *Aesthetic Testimony: An Optimistic Approach* (OUP, 2022) — the first book on the topic — argues aesthetic testimony is in no way inferior to first-hand aesthetic judgement or to non-aesthetic testimony, and rebuilds the norms of aesthetic assertion/belief. Earlier: "Against Aesthetic Exceptionalism" (in *Art and Belief*, 2017).
+- **Jon Robson**: full-throated optimist. *Aesthetic Testimony: An Optimistic Approach* (OUP, 2022) — book-length treatment; the "first book on the topic" superlative that appeared in an earlier draft of this note is **UNVERIFIED** (SEP does not say it; Crossref confirms only OUP/2022) and was struck from the article on 2026-08-02 — argues aesthetic testimony is in no way inferior to first-hand aesthetic judgement or to non-aesthetic testimony, and rebuilds the norms of aesthetic assertion/belief. Earlier: "Against Aesthetic Exceptionalism" (in *Art and Belief*, 2017).
 - **Aaron Meskin** — "moderate optimism": the aesthetic/mundane asymmetry is real but explained *pragmatically* (testifier unreliability, insincerity, incompetence, assessment difficulty), not by a deep in-principle barrier.
 
 ## Key Debates
