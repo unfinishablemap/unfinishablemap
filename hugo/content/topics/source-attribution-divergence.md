@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-08-02 09:55:00+00:00
+ai_modified: 2026-08-02 10:08:10+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 23:01:10+00:00
-lastmod: 2026-08-02 09:55:00+00:00
+lastmod: 2026-08-02 10:08:10+00:00
 modified: *id001
 related_articles:
 - '[[source-attribution-void]]'
@@ -40,7 +40,7 @@ topics:
 - '[[consciousness]]'
 ---
 
-Source-attribution divergence is the empirically anchored within-species fact that healthy adults vary, sometimes substantially, in the accuracy with which they can trace where their own thoughts came from. Two minds presented with the same recent informational history can produce demonstrably different verdicts about which contents they originated, which they read, which they were told, which they imagined, and which arrived primed by stimuli they no longer remember encountering. The variation is not noise around a uniform competence. It runs across a population spread captured by source-monitoring tasks, reality-monitoring paradigms, false-memory induction studies, and choice-blindness exposures, and it tracks cognitive variables—encoding depth, attention, working memory—that vary at the same within-species grain. A covariance with imagery-spectrum position is reported in the aphantasia literature, but on self-report measures rather than against source-monitoring performance.
+Source-attribution divergence is the empirically documented within-species finding that healthy adults vary, sometimes substantially, in the accuracy with which they can trace where their own thoughts came from. Two minds presented with the same recent informational history can produce demonstrably different verdicts about which contents they originated, which they read, which they were told, which they imagined, and which arrived primed by stimuli they no longer remember encountering. The variation runs across a population spread captured by source-monitoring tasks, reality-monitoring paradigms, false-memory induction studies, and choice-blindness exposures, and it tracks cognitive variables—encoding depth, attention, working memory—that vary at the same within-species grain. Whether that spread is stable trait variance or partly measurement error is unsettled ([below](#empirical-signatures)). A covariance with imagery-spectrum position is reported in the aphantasia literature, but on self-report measures rather than against source-monitoring performance.
 
 Source-attribution divergence is the third leg of the *within-species phenomenal-divergence* cluster anchored at [aphantasia](/topics/aphantasia/) (missing imagery under matched task performance) and [synaesthesia](/topics/synaesthesia/) (extra phenomenal content under matched representational input). Where aphantasia is variation in *what is experienced* and synaesthesia is variation in *what accompanies what*, source-attribution divergence is variation in *how reliably the experience is tagged for origin*.
 
@@ -50,21 +50,21 @@ That third formulation marks a difference in kind, stated at the outset rather t
 
 The lived report is harder to elicit than from aphantasia or synaesthesia, because most subjects do not recognise themselves as occupying any particular position on the source-monitoring spectrum. The phenomenology of confident-but-wrong source memory is indistinguishable from inside from confident-and-correct source memory. Discovery of one's position on the distribution typically arrives from outside: a friend pointing out that an "original" idea was something both had read; a researcher revealing that a "remembered" detail was never presented; a recording showing that a confidently-recounted conversation went differently.
 
-The exposure produces a peculiar recalibration: not "I should have known" so much as "I had no idea I could not tell." High-imagery subjects often discover that what they took to be remembered scenes contained sensory content that turned out, on checking, not to have been present. Aphantasic and low-imagery subjects often discover the inverse: their "memories" of recent conversations were schematic outlines, taking the absence of sensory elaboration as evidence of unaltered factual fidelity. Both directions of error are documented; neither cohort detects them from inside by default.
+The exposure produces a peculiar recalibration: not "I should have known" so much as "I had no idea I could not tell." High-imagery subjects often discover that what they took to be remembered scenes contained sensory content that turned out, on checking, not to have been present. Aphantasic and low-imagery subjects often discover the inverse: their "memories" of recent conversations were schematic outlines, taking the absence of sensory elaboration as evidence of unaltered factual fidelity. Both directions of error are reported; neither cohort detects them from inside by default.
 
-The everyday spread is consistent with the laboratory finding. Some adults report knowing where they got their views; others report views as simply held, provenance unrecoverable. Both report patterns track real differences in source-monitoring task performance rather than mere reporting style.
+The everyday spread is consistent with the laboratory finding. Some adults report knowing where they got their views; others report views as simply held, provenance unrecoverable.
 
 ## The Typology
 
 Source-attribution divergence is a family of structurally similar dissociations whose pieces vary partly independently, rather than a single faculty whose tuning varies along one dimension:
 
-- **Reality-monitoring divergence.** Discrimination between memories of internal events (imagined, dreamt, thought) and external events (perceived, witnessed) shows continuous population variation with extreme tails at both ends (Mitchell and Johnson 2009). High imagery vividness can erode the discrimination from one direction; aphantasia can erode it from the other (thin internal trace makes external origin the default attribution).
+- **Reality-monitoring divergence.** Discrimination between memories of internal events (imagined, dreamt, thought) and external events (perceived, witnessed) is reduced in older adults and in clinical groups in the fMRI literature Mitchell and Johnson (2009) review; the healthy-adult distribution's shape is not settled there. The framework predicts erosion from both directions—high imagery vividness on one side, aphantasia on the other (thin internal trace makes external origin the default attribution).
 - **External-source divergence.** Discriminating between two external sources—who said it, where it was read—tracks distinct cognitive variables: working-memory capacity, attentional capture during encoding, contextual elaboration depth (Johnson, Hashtroudi and Lindsay 1993).
 - **Self-other source divergence.** Whether a content was self-generated or absorbed from another source. Cryptomnesia (forgotten reading returning as "original" thought) is the most-studied subform; it co-varies with cognitive load at encoding (Brown and Murphy 1989; Marsh and Bower 1993).
-- **[authorship-of-action-divergence](/topics/authorship-of-action-divergence/).** The choice-blindness paradigm (Johansson et al. 2005) suggests that healthy adults often cannot detect when their own (manipulated) choices are reattributed to them. Detection rate varies across the population. The sibling article splits this into an *outcome-recognition* layer (choice-blindness proper) and a *cause-attribution* layer (did *I* cause this?, treated via Wegner's I-Spy paradigm at [the agency void](/voids/agency-void/)); the two diverge in characteristic ways.
-- **Voice-hearing with intact reality-testing.** A non-clinical population, prevalence around 5–10% depending on definition, hears voices identified as not-perceived but whose self-other source attribution is uncertain. An architectural extreme of an otherwise continuous spectrum, not a separate kind.
+- **[authorship-of-action-divergence](/topics/authorship-of-action-divergence/).** The choice-blindness paradigm (Johansson et al. 2005) suggests that healthy adults often cannot detect when their own (manipulated) choices are reattributed to them. The sibling article splits this into an *outcome-recognition* layer (choice-blindness proper) and a *cause-attribution* layer (did *I* cause this?, treated via Wegner and Wheatley's (1999) I-Spy paradigm at [the agency void](/voids/agency-void/)); the two diverge in characteristic ways.
+- **Voice-hearing with intact reality-testing.** A non-clinical minority—prevalence estimates vary widely with the definition used—hears voices identified as not-perceived but whose self-other source attribution is uncertain. The Map reads it as an architectural extreme of a continuous spectrum rather than a separate kind.
 
-The forms cluster only partially. Strong performance on one is weak prediction of strong performance on others. The cluster is genuinely a family rather than a single faculty.
+The forms cluster only partially. How strongly performance on one form predicts performance on the others has not been measured; the framework expects partial rather than complete clustering.
 
 ## A Brief History
 
@@ -72,25 +72,27 @@ The forms cluster only partially. Strong performance on one is weak prediction o
 
 **Loftus and the misinformation literature (from 1974).** Loftus and Palmer (1974) and the long programme that followed established that post-event suggestion can durably alter source memory, with the altered memory held with the same confidence as veridical memory. Misinformation is *integrated* into the trace rather than added as a flagged annotation. Population studies of misinformation susceptibility yield distributions, not single rates.
 
-**Source-monitoring framework (Johnson, Hashtroudi and Lindsay 1993).** The canonical theoretical synthesis treats source attribution as inferential: memories lack native source tags; origin is inferred from contextual, sensory, semantic, emotional, and cognitive-operation features. The features used for inference are weakly correlated with actual source, so accuracy depends on cognitive variables (encoding depth, attention, working memory) that vary across people—the population spread is predicted by the framework, not a separate finding.
+**Source-monitoring framework (Johnson, Hashtroudi and Lindsay 1993).** Source amnesia in amnesic patients (Schacter, Harbluk and McLachlan 1984) had isolated origin-loss from content-loss a decade earlier. The canonical theoretical synthesis treats source attribution as inferential: memories lack native source tags; origin is inferred from contextual, sensory, semantic, emotional, and cognitive-operation features. The features used for inference are weakly correlated with actual source, so accuracy depends on cognitive variables (encoding depth, attention, working memory) that vary across people—the population spread is predicted by the framework, not a separate finding.
 
 **Reality-monitoring update (Mitchell and Johnson 2009).** The update distinguishes reality-monitoring (internal vs. external origin) sharply from external source monitoring, and surveys the converging behavioural, neuroimaging, and clinical literature. Schnider's (2003) confabulation work supplies the pathological-extreme clinical anchor: orbitofrontal lesions produce persistent confabulation in which past memories contaminate present reality—exaggerated population variation, not a different mechanism. Population spread is settled by 2009.
 
-**Imagery-spectrum integration (Dawes et al. 2020).** Aphantasia research surfaces an unexpected covariance: aphantasics often report reduced autobiographical-memory richness alongside the missing voluntary imagery. Imagery is one of the contextual features source-monitoring uses; its absence shifts the inference's calibration rather than disabling it.
+**Imagery-spectrum integration (Dawes et al. 2020).** Aphantasia research surfaces an unexpected covariance: aphantasics often report reduced autobiographical-memory richness alongside the missing voluntary imagery.
 
 ## Empirical Signatures
 
-**Source-monitoring task performance.** In standard paradigms, subjects encode items from two distinguishable sources (two speakers, or self-generated versus heard) and are later tested on whether they can recover the source of correctly-recognised items. Population scores form a distribution, not a uniform high-accuracy band; healthy adults vary from near-perfect source recovery to near-chance.
+**Source-monitoring task performance.** In standard paradigms, subjects encode items from two distinguishable sources (two speakers, or self-generated versus heard) and are later tested on whether they can recover the source of correctly-recognised items. Population scores spread out rather than clustering in a uniform high-accuracy band.
 
-**Choice-blindness detection rate.** Across the Johansson et al. (2005) literature, the detection rate of manipulated choices varies across subjects, conditions, and measure timing. Concurrent detection is lower than retrospective; the within-condition spread tracks individual differences in attentional and metacognitive capacity.
+**Choice-blindness detection rate.** Across the Johansson et al. (2005) literature, detection rates of manipulated choices vary with the manipulation and with how directly subjects are probed; the original study reports only that most participants failed to notice, and runs no individual-differences analysis.
 
-**Cryptomnesia susceptibility.** Brown and Murphy (1989) and Marsh and Bower (1993) found that under cognitive-load conditions, subjects re-produce previously-encountered ideas as their own at single-digit percentage rates, with the rate sensitive to task condition. Susceptibility varies across individuals and tracks broader source-monitoring competence.
+**Cryptomnesia susceptibility.** Brown and Murphy (1989) and Marsh and Bower (1993) found that under cognitive-load conditions, subjects re-produce previously-encountered ideas as their own at single-digit percentage rates, with the rate sensitive to task condition.
 
 **Imagery-spectrum covariance—reported, not measured.** Dawes et al. (2020) find that aphantasic individuals *report* less vivid autobiographical memories and imagined future scenarios alongside the missing voluntary imagery, with differences in dream report and reduced imagery across sensory modalities. Their instruments are self-report questionnaires: the study administered no reality-monitoring task, no source-monitoring task, and no false-memory measure. This item therefore belongs on the *first-order phenomenal report* side of the distinction drawn in the next section, and the Map does not run it as performance-measure evidence. A direct covariance between imagery vividness and source-monitoring or false-memory *accuracy* is what the framework predicts—imagery is one of the contextual features the inference reads—but no located study measures it, so that covariance is an open question rather than a signature.
 
-**Neural correlates.** The medial-temporal-lobe and prefrontal-cortex networks implicated in source memory show measurable individual-difference signatures (Mitchell-Johnson 2009). Strong source memory correlates with characteristic frontoparietal-to-medial-temporal coupling patterns.
+**Neural correlates.** The medial-temporal-lobe and prefrontal-cortex networks implicated in source memory show group-level differences in older adults and in clinical populations (Mitchell and Johnson 2009); that fMRI review does not report individual-difference connectivity measures.
 
-The performance-based signatures—source-monitoring accuracy, choice-blindness detection rate, cryptomnesia susceptibility, the neural correlates—detect the divergence's effects without passing through anyone's report of their own phenomenology; the imagery-spectrum item does pass through such reports, which is why it is marked off above. None delivers a verdict on what the phenomenology of source attribution *is*, only that source-attribution performance varies and varies systematically.
+The performance-based signatures—source-monitoring accuracy, choice-blindness detection rate, cryptomnesia susceptibility, the neural correlates—detect the divergence's effects without passing through anyone's report of their own phenomenology; the imagery-spectrum item does pass through such reports, which is why it is marked off above. None delivers a verdict on what the phenomenology of source attribution *is*, only that source-attribution performance varies.
+
+One caveat applies to all of them. None of the cited work reports a retest reliability coefficient or a cross-task correlation matrix, and paradigms optimised for robust group effects suppress between-subject variance—so the spread is established as condition-sensitive variation in performance, not as stable trait variance.
 
 ## The Function-Phenomenology Wedge—Stress-Tested
 
@@ -100,7 +102,7 @@ If two adults differ in source-monitoring accuracy, three options are available,
 
 1. The phenomenal source-tags differ across the spectrum, and accuracy tracks this phenomenal difference. One mind has a richly source-tagged phenomenology; another has a thinner source-tag phenomenology that tracks the accuracy difference.
 2. The phenomenal source-tags do not differ across the spectrum, but the underlying inferential machinery does. Both minds experience source confidence in the same way; one's confidence is better calibrated to actual source than the other's.
-3. Introspective reports about source-tagging are themselves systematically inaccurate (Schwitzgebel 2008's wider claim about introspection extended to this specific deliverance), so neither cohort's reports of phenomenal source-content can be taken at face value.
+3. Introspective reports about source-tagging are themselves systematically inaccurate (Schwitzgebel 2008's wider claim about introspection, and Pronin 2009's introspection illusion, extended to this specific deliverance), so neither cohort's reports of phenomenal source-content can be taken at face value.
 
 Option 1 is the branch that costs the functionalist least, and the Map scores it that way. It has the phenomenal source-tags differing *and* accuracy tracking the difference—phenomenal character varying in step with functional competence, which is the functionalist's own prediction rather than a counterexample to it. If phenomenal character just is functional role, minds whose source-attribution machinery differs ought to differ phenomenally too. What would run the wedge the sibling articles run is phenomenal divergence under *preserved* task-level performance; option 1 as stated supplies phenomenal divergence under functional divergence, and the evidence base here cannot supply the matched baseline that would convert the one into the other.
 
@@ -128,7 +130,7 @@ This case is the cluster's least dramatic but most architecturally diagnostic. A
 
 **[Dualism](/tenets/#dualism).** The wedge here, as at aphantasia and synaesthesia, runs through within-species variation rather than through any single experimental result—but it runs on a shorter lever than at either sibling. Option 1 is the functionalist's own prediction, and option 3 delivers a claim about the limits of introspective access rather than a refutation of the identification of phenomenal source-content with functional source-tagging; what is left is the second-order dissociation between confidence and accuracy, and the account the functionalist owes of how the two come uncoupled. The Map's [Dualism](/tenets/#dualism) commitment is defended on broader grounds articulated elsewhere; what source-attribution divergence offers is cumulative pressure at the cluster level, not knockdown evidence in itself. The pressure point still falls where a dualist framework predicts it should: at the gap between what consciousness *is like* and what cognition *does*.
 
-The interface-vs-substrate framing developed in the [synaesthesia](/topics/synaesthesia/#relation-to-site-perspective) article extends here at speculative-integration tier rather than as empirical force. Humans share a biological substrate but exhibit measurably different phenomenal source-tagging configurations across the population, with characteristic correlations to other within-species architectural variation (imagery spectrum, working-memory capacity, attentional capture). The interface reading earns its place from cluster-level convergence rather than from this case in isolation; the data here are also fully compatible with reconstructive-cognition physicalism, and the interface reading does not draw additional empirical force from the source-attribution case alone.
+The interface-vs-substrate framing developed in the [synaesthesia](/topics/synaesthesia/#relation-to-site-perspective) article extends here at speculative-integration tier rather than as empirical force. Humans share a biological substrate but exhibit measurably different source-attribution performance across the population, alongside other within-species architectural variation (imagery spectrum, working-memory capacity, attentional capture). The interface reading earns its place from cluster-level convergence rather than from this case in isolation; the data here are also fully compatible with reconstructive-cognition physicalism, and the interface reading does not draw additional empirical force from the source-attribution case alone.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The simplest model of source attribution—"I know my own thoughts because they are mine, and I know where I learned things because I remember the learning"—is empirically falsified across the cohort. Source attribution is irreducibly inferential, probabilistic, and subject to characteristic population spread. Occam's preference for the direct-readout model would have ruled the spread out *a priori*; it took several decades of careful experimental work (Loftus, Schacter, Johnson) to crack the assumption open. Source-attribution divergence is a textbook instance of what the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet tries to flag: simplicity is unreliable when a phenomenon's space of possible structures has been imagined too narrowly.
 
@@ -136,20 +138,20 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 
 ## Further Reading
 
-- [source-attribution-void](/voids/source-attribution-void/) — The abstract apophatic treatment: source tags are not part of phenomenal output by default; the structural impossibility of introspective resolution
+- [source-attribution-void](/voids/source-attribution-void/) — The abstract apophatic treatment: source tags are not part of phenomenal output by default
 - [aphantasia](/topics/aphantasia/) — Companion case at the imagery extreme: missing phenomenal content under matched task performance
 - [synaesthesia](/topics/synaesthesia/) — Companion case at the cross-modal extreme: extra phenomenal content under matched representational input
 - [memory-anomalies](/topics/memory-anomalies/) — Cryptomnesia, déjà vu, and jamais vu as concrete-phenomenon exhibits of source-monitoring failure
-- [authorship-of-action-divergence](/topics/authorship-of-action-divergence/) — The fourth sub-type developed in full: the outcome-recognition layer of authorship-tracking via the choice-blindness paradigm, with the cause-attribution layer split off to [agency-void](/voids/agency-void/)
-- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: source-attribution divergence as one of four within-species divergence classes whose joint package presses functional identity
+- [authorship-of-action-divergence](/topics/authorship-of-action-divergence/) — The fourth sub-type in full: outcome-recognition via choice blindness, with cause-attribution split off to [agency-void](/voids/agency-void/)
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: the joint package of within-species divergence classes
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The fluency-as-origination heuristic at the structural level
 - [recognition-void](/voids/recognition-void/) — Failure of recognition as a parallel non-detection structure
 - [imagery-void](/voids/imagery-void/) — The imagery-side companion limit: imagery's fidelity is unverifiable from inside
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The cross-cutting axis source-attribution divergence is the methodologically loaded exemplar for
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader frame within which the function-phenomenology gap sits
 - [introspection](/concepts/introspection/) — Why the only tool for studying source attribution is the tool whose unreliability is part of the question
-- [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration norm the article applies when noting the data are "compatible with reconstructive-cognition physicalism" and the interface reading earns its place from cluster-level convergence rather than this case alone
-- [common-cause-null](/project/common-cause-null/) — The methodological discipline the article's cluster-level discharge defers to; the cluster-level move reaches *strongly-supported* tier only conditional on the common-cause null surviving the discrimination tests catalogued at [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration norm the article applies to its own claims
+- [common-cause-null](/project/common-cause-null/) — The methodological discipline the article's cluster-level discharge defers to
 
 ## References
 
