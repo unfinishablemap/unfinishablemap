@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-07-27 20:39:01+00:00
+ai_modified: 2026-08-02 01:35:32+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 17:36:27+00:00
-lastmod: 2026-07-27 20:39:01+00:00
+lastmod: 2026-08-02 01:35:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -188,7 +188,7 @@ Kent's observation—that Wallace's axioms are substantive claims, not rational 
 14. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
 15. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
 16. Vaidman, L. (1998). On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum theory. *International Studies in the Philosophy of Science*, 12(3), 245-261.
-17. Wallace, D. (2003). Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415-438.
+17. Wallace, D. (2003). Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415-439.
 18. Wallace, D. (2007). Quantum probability from subjective likelihood: improving on Deutsch's proof of the probability rule. *Studies in History and Philosophy of Modern Physics*, 38(2), 311-332.
 19. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?* OUP.
 20. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.

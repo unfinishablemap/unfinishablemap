@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T01:32:00+00:00'
+ai_modified: '2026-08-02T01:35:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 01:32:00+00:00
+lastmod: 2026-08-02 01:35:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 01:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Task**: P2 flipped-twice citation hazard — Wallace (2003) page range reverted 415-438 → **415-439** across four loci
+- **Changes**:
+  - **Adjudication re-run independently before touching a file.** Wallace, D. (2003), "Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation," *SHPMP* 34(3). Three sources queried live at the article's own DOI `10.1016/S1355-2198(03)00036-4`: **Crossref** (Elsevier's own deposit, publisher of record) → `page: 415-439`; **OpenAlex** → `first_page: 415, last_page: 439`; **Semantic Scholar** → `pages: 415-439`. Combined with the structural check from the task notes — SHPMP 34(3) TOC has Pitowsky ending 414, Wallace 415-439, Timpson beginning 441, matching the one-blank-page inter-article gap holding throughout the issue (341→343, 379→381, 393→395) — four independent lines, one answer. A 415-438 Wallace would leave an anomalous two-page gap.
+  - **Four loci corrected, digit-only, hyphen style preserved per file.** (1) `obsidian/topics/probability-problem-in-many-worlds.md` L186; (2) `obsidian/concepts/many-worlds.md` L222 (short form, `34, 415-439`); (3) `obsidian/research/probability-decision-theory-against-many-worlds-2026-03-04.md` L248 — **the propagation root**, fixed so the error cannot re-enter on the next expand drawing on this note; (4) `archive/concepts/probability-objections-many-worlds.md` L128 — archived but a full serving body, so in scope. Re-grepped `415.43[89]` across `obsidian/`, `archive/`, `hugo/content/` before and after; the list did not under-enumerate this time.
+  - **Already-correct loci left alone.** `obsidian/concepts/causal-consistency-constraint.md` L120 (`415–439`, en-dash) and `archive/topics/decision-theory-cannot-save-many-worlds.md` L144 (`415-439`) were already right and were not touched.
+  - **Record corrected at the source of the error.** The completed entry "✓ 2026-06-05: Fix Wallace (2003) page-range off-by-one (415-439 → 415-438) corpus-wide" (`obsidian/workflow/todo.md` L10879, not the L10789 the task note predicted — anchors had drifted) had **no Status line**; one was added recording the overturn. Its Notes are retained verbatim as the historical record of how the error spread. The 06-05 entry claims confirmation "vs DOI 10.1016/S1355-2198(03)00036-4" — the same DOI that returns 439 — so that check did not happen as recorded, and **SciRP**, its third cited source, is already on this corpus's ledger (✓ 2026-06-01 Block 1995 BBS entry) as a propagator of wrong page ranges. **The lesson is not the digit: a wrong value was ratified by a review ledger and then propagated deliberately, after which four subsequent deep-reviews cited the ledger and re-blessed it** (07-07, 07-11, 06-26, 07-25 all carry "do not let 415-439 return" stability notes). Intra-corpus consistency cannot detect a uniformly-propagated error; only publisher-of-record verification can.
+  - Historical occurrences of `415-438` in `obsidian/workflow/`, `obsidian/reviews/` and the changelog archives left untouched — documentation of the error, per the 06-01 Block precedent.
+- **Scope discipline**: no body prose changed, no citation added or removed, no other reference in any of the four blocks re-verified. Length-neutral by construction (same-digit-count edits) — no condense successor minted. Each file's `ai_system` held verbatim; `last_deep_review` untouched everywhere; `ai_modified` bumped only on the four files actually changed.
+- **Published**: yes
 
 ## 2026-08-02 01:30 UTC - refine-draft
 - **Status**: Success
