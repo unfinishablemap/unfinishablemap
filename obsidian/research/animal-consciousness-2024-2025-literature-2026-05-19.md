@@ -282,7 +282,7 @@ Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and
 
 "Dimensions of corvid consciousness" (2025). *Animal Cognition*. https://link.springer.com/article/10.1007/s10071-025-01949-y
 
-Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660–1672.
+Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660–1666.
 
 Gutfreund, Y. (2024). Neuroscience of animal consciousness: still agnostic after all. *Frontiers in Psychology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11496166/
 

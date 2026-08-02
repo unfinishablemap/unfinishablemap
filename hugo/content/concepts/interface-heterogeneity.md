@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-02 07:48:39+00:00
+ai_modified: 2026-08-02 10:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:58:00+00:00
-lastmod: 2026-08-02 07:48:39+00:00
+lastmod: 2026-08-02 10:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -149,5 +149,5 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 3. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 4. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 5. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-6. Metzinger, T. (2020). Minimal phenomenal experience: The ARAS-model theory. *Cognitive Neuropsychology*, 37(3-4), 149-153.
+6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 7. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/

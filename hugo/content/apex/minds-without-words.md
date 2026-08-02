@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-01 17:03:45+00:00
+ai_modified: 2026-08-02 10:16:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-19 21:00:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:13:24+00:00
-lastmod: 2026-08-01 17:03:45+00:00
+lastmod: 2026-08-02 10:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -189,11 +189,11 @@ This apex article synthesises:
 6. Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 7. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
 8. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-9. Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660–1672.
+9. Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660–1666.
 10. Gutfreund, Y. (2024). Neuroscience of animal consciousness: still agnostic after all. *Frontiers in Psychology*.
 11. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004–R1005.
 12. LeDoux, J.E. & Brown, R. (2017). A higher-order theory of emotional consciousness. *PNAS*, 114(10), E2016–E2025.
-13. Metzinger, T. (2024). Minimal phenomenal experience: The ARAS-model theory. *Neuroscience of Consciousness*.
+13. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 14. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
 15. New York Declaration on Animal Consciousness. (2024). NYU Conference.
 16. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.

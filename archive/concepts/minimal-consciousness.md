@@ -4,7 +4,7 @@ description: "What the simplest possible conscious experience might be. Evidence
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-01T20:26:39+00:00
+ai_modified: 2026-08-02T10:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -279,13 +279,13 @@ The Map's perspective on minimal consciousness would be undermined if:
 - Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-- Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+- Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1666.
 - Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 - DeWall, C. N., Baumeister, R. F., & Masicampo, E. J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 - Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 - Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229
 - McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-- Metzinger, T. (2024). "Minimal Phenomenal Experience: The ARAS-Model Theory." *Neuroscience of Consciousness*.
+- Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 - Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
 - Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

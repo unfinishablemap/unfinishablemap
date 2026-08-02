@@ -4,7 +4,7 @@ description: "Does consciousness vary in nature, in coupling mechanism, or both?
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-08-02T07:48:39+00:00
+ai_modified: 2026-08-02T10:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-01
 last_curated: null
-last_deep_review: 2026-06-24T17:15:42+00:00
+last_deep_review: 2026-08-02T10:16:00+00:00
 ---
 
 If consciousness interfaces with matter rather than emerging from it, observed differences in experience across species, states, and modalities could have two distinct sources. The inherent nature of a conscious entity may define the type of its experience—a bat's echolocation-based phenomenology might differ from human visual experience because different kinds of consciousness are involved, not just different brains. But how consciousness couples with a physical system shapes the moment-to-moment reality: an octopus distributing cognition across eight semi-autonomous arms, a meditator in deep absorption, a dreamer—these might involve the same type of consciousness coupled differently. Distinguishing nature from coupling is essential for understanding comparative consciousness.
@@ -244,10 +244,10 @@ Several findings would constrain the nature-vs-coupling question:
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 1. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 1. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
-1. Godfrey-Smith, P. (2024). Inferring Consciousness in Phylogenetically Distant Organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
-1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
+1. Godfrey-Smith, P. (2024). Inferring Consciousness in Phylogenetically Distant Organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660-1666.
+1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the "Orch OR" theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
-1. Metzinger, T. (2024). Minimal Phenomenal Experience: The ARAS-Model Theory. *Neuroscience of Consciousness*.
+1. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.

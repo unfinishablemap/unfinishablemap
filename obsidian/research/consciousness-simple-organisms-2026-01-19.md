@@ -3,7 +3,7 @@ title: Research Notes - Consciousness in Simple Organisms
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T09:18:00+00:00
+ai_modified: 2026-08-02T10:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -311,7 +311,7 @@ Central theme: the simplest explanation (no consciousness in simple organisms) m
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 - Ginsburg, S., & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy*, 35(56).
 - Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
-- Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+- Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1666.
 - Low, P., et al. (2012). Cambridge Declaration on Consciousness.
 - Seager, W. (2024). "Panpsychism and dualism in the science of consciousness." *Neuroscience & Biobehavioral Reviews*.
 - Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
