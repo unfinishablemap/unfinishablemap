@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-07-31T10:54:12+00:00
+ai_modified: 2026-08-02T07:27:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ Chalmers calls his position "naturalistic dualism": dualist because mental prope
 
 A crucial distinction: psychophysical laws can be *[[supervenience]] laws* or *causal laws*.
 
-**Supervenience laws** specify which physical states are accompanied by which mental states—the laws run *upward* from physics to phenomenology. Chalmers primarily discusses these, and tends toward [[concepts/epiphenomenalism|epiphenomenalism]]: mental states are caused by physical states but don't cause physical states in return.
+**Supervenience laws** specify which physical states are accompanied by which mental states—the laws run *upward* from physics to phenomenology. Chalmers primarily discusses these, and tends toward [[epiphenomenalism]]: mental states are caused by physical states but don't cause physical states in return.
 
 **Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—consciousness selects among physically underdetermined alternatives. Chalmers' framework primarily develops the upward direction; the Map needs both, with emphasis on the downward direction (phenomenal → physical selection).
 
@@ -97,7 +97,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 1. **Structural Coherence**: The structure of conscious experience corresponds to cognitive awareness structure. Limitation: inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
 
-2. **[[organizational-invariance|Organizational Invariance]]**: Systems with identical functional organization have identical experiences, defended by the fading- and dancing-qualia arguments. The Map rejects the conclusion on zombie-argument grounds ([[concepts/functionalism]] doesn't entail experience) and via a grain dispute over what "fine enough" organization includes; the [[haecceity]] of the subject may matter beyond abstract patterns.
+2. **[[organizational-invariance|Organizational Invariance]]**: Systems with identical functional organization have identical experiences, defended by the fading- and dancing-qualia arguments. The Map rejects the conclusion on zombie-argument grounds ([[functionalism]] doesn't entail experience) and via a grain dispute over what "fine enough" organization includes; the [[haecceity]] of the subject may matter beyond abstract patterns.
 
 3. **Double-Aspect Theory of Information**: Information has both physical and phenomenal aspects, anticipating [[integrated-information-theory|IIT]]. The Map is skeptical of IIT's specific measures but the general information-experience connection remains relevant.
 
@@ -154,7 +154,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 Psychophysical coupling is not the same as the [[neural-correlates-of-consciousness|neural correlates of consciousness]] (NCCs). NCCs catalogue which brain states accompany which experiences—correlations. Coupling specifies *why* those correlations hold and whether they support causal influence in both directions.
 
-An NCC programme is compatible with [[concepts/epiphenomenalism|epiphenomenalism]]: correlations can be one-way. Coupling commits to something stronger—that the mind-matter relationship is genuinely causal in both directions, governed by fundamental laws. As [[the-epiphenomenalist-threat|the epiphenomenalist threat]] shows, most theories default to epiphenomenalism absent a specific downward mechanism.
+An NCC programme is compatible with [[epiphenomenalism]]: correlations can be one-way. Coupling commits to something stronger—that the mind-matter relationship is genuinely causal in both directions, governed by fundamental laws. As [[the-epiphenomenalist-threat|the epiphenomenalist threat]] shows, most theories default to epiphenomenalism absent a specific downward mechanism.
 
 ## Candidate Coupling Laws
 
@@ -210,7 +210,7 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. But as [[introspection|Tallis observes]], illusions presuppose experience—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
+[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an [[introspection|introspective illusion]], no bridging laws are required. But as Tallis observes, illusions presuppose experience—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
 
 ## Contemplative Evidence
 
@@ -242,7 +242,7 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** justifies the ontological expansion psychophysical laws require. A parsimonious theory that explains nothing is not genuinely simpler—it just ignores the explanandum. If consciousness exists and isn't physical, psychophysical laws are not optional additions but necessary completions of our picture of nature.
 
-Selection laws also bear on [[topics/free-will]]. If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [[agent-causation]]—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
+Selection laws also bear on [[free-will]]. If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [[agent-causation]]—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
 
 The Map cannot resolve which coupling law is correct—this remains open. What the Map can do is articulate the problem clearly, specify what any adequate coupling law must accomplish, and evaluate proposals against those requirements.
 
@@ -257,7 +257,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness causes physical effects
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
 - [[decoherence]] — The decoherence challenge and biological quantum effects
-- [[concepts/epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)
+- [[epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)
 - [[the-epiphenomenalist-threat]] — Why most theories default to epiphenomenalism without explicit coupling
 - [[history-of-the-interaction-problem]] — The historical form of the coupling problem
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms bridging quantum selection to macroscopic neural effects
@@ -268,7 +268,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [[the-interface-problem]] — Where consciousness meets the brain and the challenge of specifying the mind-matter mapping
 - [[born-rule-and-the-consciousness-interface]] — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
 - [[contextual-selection-in-quantum-foundations]] — Kochen-Specker and preparation contextuality constrain the attention/intention/effort coupling families
-- [[concepts/functionalism]] — The view the Map rejects
+- [[functionalism]] — The view the Map rejects
 - [[haecceity]] — Why organizational invariance is rejected
 - [[chalmers-psychophysical-laws-2026-01-17]] — Research notes on Chalmers' framework
 - [[tenets]] — The Map's foundational commitments

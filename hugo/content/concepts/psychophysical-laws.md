@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-31 10:54:12+00:00
+ai_modified: 2026-08-02 07:27:23+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-07-31 10:54:12+00:00
+lastmod: 2026-08-02 07:27:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -214,7 +214,7 @@ Any coupling law faces the [decoherence](/concepts/decoherence/) objection: quan
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. But as [Tallis observes](/concepts/introspection/), illusions presuppose experience—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
+[Illusionists](/concepts/illusionism/) (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an [introspective illusion](/concepts/introspection/), no bridging laws are required. But as Tallis observes, illusions presuppose experience—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
 
 ## Contemplative Evidence
 

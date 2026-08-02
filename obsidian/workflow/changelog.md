@@ -1,9 +1,80 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T07:12:00+00:00'
+ai_modified: '2026-08-02T07:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 07:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]]
+- **Original score**: n/a (nav-surface label task; skill Section 3 skipped — `scripts/curate.py` does not exist)
+- **Published**: yes
+
+**The flagged defect (confirmed on disk).** L213 read
+`[[introspection|Tallis observes]]` — the alias attributed the illusionist-regress
+argument to Raymond Tallis while the link target was the `introspection` article.
+Verified the mismatch is real: `obsidian/concepts/introspection.md` mentions Tallis
+only in its bibliography (a 2011 *Aping Mankind* entry, not the 2024 *Philosophy Now*
+piece this article's reference 14 rests on); the Tallis regress itself lives at
+`obsidian/concepts/illusionism.md` L89. A reader clicking "Tallis observes" landed on
+a page that carries neither the man nor the argument.
+
+**Fix — label moved, slug kept.** The `introspection` link was retained but relocated
+onto "introspective illusion" earlier in the same sentence, a phrase the destination
+genuinely earns (it runs a "## The Illusionist Challenge" section). "Tallis observes"
+is now plain text; the attribution stands, backed by reference 14. No second link to
+`illusionism` was added — the sentence already opens with `[[illusionism|Illusionists]]`.
+
+**Alias sweep — the other nine checked, six cleared, three normalised.**
+Cleared (destination earns the label):
+- `[[attention-and-the-consciousness-interface|Empirical evidence]]` — destination has
+  a full "The Attention-Consciousness Dissociation" section (Koch & Tsuchiya 2007,
+  blindsight, Nartker et al. 2025). Label delivers.
+- `[[coupling-modes|basis control mode]]` — destination defines basis control as one of
+  its three named modes under its own `### Basis Control` heading.
+- `[[born-rule-and-the-consciousness-interface|corridor dualism]]` — destination defines
+  "Corridor dualism (Born-rule-preserving)" explicitly.
+- `[[history-of-the-interaction-problem|Princess Elisabeth's challenge]]` — destination
+  opens on the 1643 letter and has an `## Elisabeth's Challenge` section.
+- `[[haecceity|indexical identity]]` — destination is titled "Haecceity and Indexical
+  Identity".
+- the `mathematical-structure-of-the-consciousness-physics-interface` link anchored on
+  `#Corridor Dualism and the Conditionality of the Bound`, labelled "three-option
+  MQI-sanctioned branch" — **anchor resolves**: heading present at L82 of the target,
+  and the hugo mirror renders
+  `#corridor-dualism-and-the-conditionality-of-the-bound`. The section does list exactly
+  three options (corridor / minimum-outside-the-corridor / trumping), so "three-option"
+  is earned. Also verified the sibling `#corridor-taxonomy` fragment, which is an
+  explicit `{#corridor-taxonomy}` on the target heading.
+
+Normalised path-qualified slugs to the corpus canonical bare form (prose analogue of
+the frontmatter sweep settled earlier this session; no collisions — `functionalism`,
+`free-will`, and `epiphenomenalism` each resolve to exactly one live file, and hugo
+output is byte-identical before and after):
+- `[[concepts/epiphenomenalism|epiphenomenalism]]` → `[[epiphenomenalism]]` (×2 prose)
+- `[[concepts/functionalism]]` → `[[functionalism]]` (prose + Further Reading)
+- `[[topics/free-will]]` → `[[free-will]]` (prose)
+- `[[concepts/epiphenomenalism]]` → `[[epiphenomenalism]]` (Further Reading)
+
+**Left alone deliberately.** Frontmatter still carries `concepts/`-prefixed entries
+(`concepts/consciousness-selecting-neural-patterns`, `concepts/functionalism`,
+`concepts/epiphenomenalism` in `concepts:` and `related_articles:`). The task scoped
+this pass to the prose analogue and a sibling task owns frontmatter prefixes; touching
+both risked a conflicting edit. Flagging for whoever finishes the frontmatter sweep.
+
+**Length — net-neutral, as expected for a label fix.** `analyze_length` reports 3489
+words / `soft_warning` (concepts hard threshold 3500), unchanged by this pass.
+Decomposed: 2901 core body + 590 Further Reading & References apparatus. The core is
+comfortably inside threshold; the soft warning is an apparatus artefact, not a body
+problem. No condensing warranted.
+
+**Attribution.** `ai_system` held verbatim at `claude-opus-4-6+claude-opus-5`.
+`ai_modified` bumped to 2026-08-02T07:27:23+00:00 from a live `date -u`, verified
+strictly past the prior 2026-07-31T10:54:12+00:00. `last_deep_review` untouched.
+
+**Mirror.** `scripts/sync.py` run; `hugo/content/concepts/psychophysical-laws.md`
+confirmed to agree on all six changed lines.
 
 ## 2026-08-02 07:19 UTC - refine-draft
 - **Status**: Success
