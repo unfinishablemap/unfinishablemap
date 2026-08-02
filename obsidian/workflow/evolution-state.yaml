@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-01T23:42:52.148647+00:00'
-session_count: 18114
+last_updated: '2026-08-01T23:56:13.578242+00:00'
+session_count: 18115
 cycle_position: 12216
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-01T23:35:49.296129+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-01T23:27:02.072005+00:00'
+  replenish-queue: '2026-08-01T23:56:13.578242+00:00'
   condense: '2026-08-01T23:13:24.083140+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-01'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-01'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-01'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-01'
   outcome: success
 agentic_social:
@@ -926,125 +926,134 @@ queue_status:
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_921_note: 'run no.921 (2026-08-01T23:55Z, cycle-driven /replenish-queue): MINTED TWO P2
-    TASKS FROM THE WITHDRAWAL-REACHABILITY LENS. Floor restored 2 -> 4.
+  run_921_note: 'run no.921 (2026-08-01T23:55Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS FROM THE WITHDRAWAL-REACHABILITY LENS. Floor restored 2 -> 4.
 
 
     COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks + tools.todo.processor.parse_tasks.
-    BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor. AFTER:
-    31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 920 was run 919''s (prebiotic-collapse
-    refine 23:29Z, bandwidth-of-consciousness refine 23:35Z); BOTH of run 920''s P2s are still
-    open at lines 2043 and 2061, notes 6782 and 5111 chars, byte-identical post-write. Bottom-inserted
-    at 2077 and 2094 so FIFO drains run 920''s pair first and no existing anchor shifted. Verified
-    with parse_tasks.
+    BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor.
+    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 920
+    was run 919''s (prebiotic-collapse refine 23:29Z, bandwidth-of-consciousness refine
+    23:35Z); BOTH of run 920''s P2s are still open at lines 2043 and 2061, notes 6782
+    and 5111 chars, byte-identical post-write. Bottom-inserted at 2077 and 2094 so
+    FIFO drains run 920''s pair first and no existing anchor shifted. Verified with
+    parse_tasks.
 
 
     SOURCE -- ONE LENS, TWO INDEPENDENT FAMILIES. Both mints are chains from the immediately-preceding
-    cycle work, and both instantiate the same structural defect: the Map records a retraction
-    or recalibration in one place and the article that OWNS the claim carries no route to it.
-    The 23:35Z bandwidth refine fixed one instance of this and its changelog named the pattern;
-    this run asked where else it holds.
+    cycle work, and both instantiate the same structural defect: the Map records a
+    retraction or recalibration in one place and the article that OWNS the claim carries
+    no route to it. The 23:35Z bandwidth refine fixed one instance of this and its
+    changelog named the pattern; this run asked where else it holds.
 
 
     MINT 1 -- concepts/skill-delegation.md. apex/pharmacological-dissociation-as-evidence.md
-    L138 records TWO concessions side by side, both running against the Map''s own interest:
-    the bandwidth discriminator (applied at 23:35Z) and the choking concession, which is untouched.
-    concepts/interface-friction.md L78 states the choking concession in full and is the source
-    of the apex sentence -- that file is CORRECT. skill-delegation runs the opposite argument
-    across four loci (L64 section title ''The Choking Phenomenon as Evidence''; L72 asserting
-    consciousness retains causal power and then conceding the epiphenomenalist reply in its
-    own next clause; L76 claiming physicalism cannot explain why phenomenal-state interventions
-    alter the disruption, when Gropel & Mesagno 2019 is a 47-study systematic review of exactly
-    those interventions; L134 asserting a conditional that L72''s own parenthetical falsifies)
-    and has ZERO links to interface-friction. The task fences the fix hard: L66''s existing
-    hedge and L124''s falsifier are kept verbatim, L74 is declared sound, the section is NOT
-    to be deleted, and the two missing references are to be copied from interface-friction rather
-    than re-verified.
+    L138 records TWO concessions side by side, both running against the Map''s own
+    interest: the bandwidth discriminator (applied at 23:35Z) and the choking concession,
+    which is untouched. concepts/interface-friction.md L78 states the choking concession
+    in full and is the source of the apex sentence -- that file is CORRECT. skill-delegation
+    runs the opposite argument across four loci (L64 section title ''The Choking Phenomenon
+    as Evidence''; L72 asserting consciousness retains causal power and then conceding
+    the epiphenomenalist reply in its own next clause; L76 claiming physicalism cannot
+    explain why phenomenal-state interventions alter the disruption, when Gropel &
+    Mesagno 2019 is a 47-study systematic review of exactly those interventions; L134
+    asserting a conditional that L72''s own parenthetical falsifies) and has ZERO
+    links to interface-friction. The task fences the fix hard: L66''s existing hedge
+    and L124''s falsifier are kept verbatim, L74 is declared sound, the section is
+    NOT to be deleted, and the two missing references are to be copied from interface-friction
+    rather than re-verified.
 
 
-    WHY MINT 1 IS A REAL GAP AND NOT A RE-MINT. A choking-calibration campaign has run over
-    this corpus since February and swept FOUR articles -- embodied-cognition twice (2026-02-16,
-    2026-05-27), empirical-phenomena-mental-causation three times (2026-05-26, 2026-06-26, 2026-06-27),
-    interface-friction three times (2026-05-28, 2026-06-25, 2026-07-17). A grep of the completed/vetoed
-    archive returns ZERO for the skill-delegation slug. The campaign swept every neighbour of
-    the file whose section is literally titled ''The Choking Phenomenon as Evidence''. Worth
-    recording as a lens in its own right: when a defect family has been swept repeatedly, check
+    WHY MINT 1 IS A REAL GAP AND NOT A RE-MINT. A choking-calibration campaign has
+    run over this corpus since February and swept FOUR articles -- embodied-cognition
+    twice (2026-02-16, 2026-05-27), empirical-phenomena-mental-causation three times
+    (2026-05-26, 2026-06-26, 2026-06-27), interface-friction three times (2026-05-28,
+    2026-06-25, 2026-07-17). A grep of the completed/vetoed archive returns ZERO for
+    the skill-delegation slug. The campaign swept every neighbour of the file whose
+    section is literally titled ''The Choking Phenomenon as Evidence''. Worth recording
+    as a lens in its own right: when a defect family has been swept repeatedly, check
     the sweep''s OWN coverage before concluding the family is closed.
 
 
-    MINT 2 -- concepts/qualia.md, propagation from the 22:57Z refine (60b58a363). That refine
-    reframed ''Key Properties of Qualia'' at L60 exactly right -- the four-property enumeration
-    attributed to Dennett''s Quining Qualia, held as the Map''s committed reading of a contested
-    notion rather than as definitional truth, each subsection naming its rival. It reached one
-    section. Three surfaces still carry the pre-refine form: the article''s OWN LEAD at L56
-    (''qualia ... refer to the intrinsic, ineffable, private properties''), four lines above
-    the frame that disclaims it, in the truncation-resilient surface the style guide makes primary;
-    concepts/phenomenal-consciousness.md L52, flat apposition with no contestation marker; and
-    apex/what-it-might-be-like-to-be-an-ai.md L130, which says the Map''s treatment ''ESTABLISHES''
-    all four and then loads them straight into an AI-consciousness argument. L130 is the load-bearing
-    one and is a citation-framing failure pointing INWARD -- phenomenal-consciousness is credited
-    with a verdict it never reached, since it asserts the four features in a single passing
-    apposition and argues for none of them.
+    MINT 2 -- concepts/qualia.md, propagation from the 22:57Z refine (60b58a363).
+    That refine reframed ''Key Properties of Qualia'' at L60 exactly right -- the
+    four-property enumeration attributed to Dennett''s Quining Qualia, held as the
+    Map''s committed reading of a contested notion rather than as definitional truth,
+    each subsection naming its rival. It reached one section. Three surfaces still
+    carry the pre-refine form: the article''s OWN LEAD at L56 (''qualia ... refer
+    to the intrinsic, ineffable, private properties''), four lines above the frame
+    that disclaims it, in the truncation-resilient surface the style guide makes primary;
+    concepts/phenomenal-consciousness.md L52, flat apposition with no contestation
+    marker; and apex/what-it-might-be-like-to-be-an-ai.md L130, which says the Map''s
+    treatment ''ESTABLISHES'' all four and then loads them straight into an AI-consciousness
+    argument. L130 is the load-bearing one and is a citation-framing failure pointing
+    INWARD -- phenomenal-consciousness is credited with a verdict it never reached,
+    since it asserts the four features in a single passing apposition and argues for
+    none of them.
 
 
     LENGTH IS THE BINDING CONSTRAINT ON MINT 2 AND THE TASK SAYS SO IN CAPITALS. concepts/qualia.md
-    decomposes to 3495 prose against a concepts hard of 3500 -- FIVE words of headroom, because
-    the 22:57Z refine spent the entire remaining budget (+413 prose against ~415 available).
-    The lead fix is specified as a rewording rather than an addition, and the task explicitly
-    forbids funding it with a condense pass or minting a condense successor.
+    decomposes to 3495 prose against a concepts hard of 3500 -- FIVE words of headroom,
+    because the 22:57Z refine spent the entire remaining budget (+413 prose against
+    ~415 available). The lead fix is specified as a rewording rather than an addition,
+    and the task explicitly forbids funding it with a condense pass or minting a condense
+    successor.
 
 
-    FOUR CANDIDATES INVESTIGATED AND VERIFIED FALSE -- do not re-raise. (a) The DSW horizon-decoherence
-    chain from the 23:29Z prebiotic-collapse refine is EXHAUSTED: grep across obsidian/ and
-    archive/ finds exactly three loci, two of which were fixed at 22:25Z and 23:29Z and the
-    third is the research note itself. (b) concepts/consciousness-bandwidth-architecture.md
-    looked like a bandwidth over-claim but is well calibrated -- L107 concedes GWT ''genuinely
-    explains A bottleneck'' and L149 states outright that ''the asymmetry alone does not decide
-    between them''. Its residual claim is about the inbound/outbound ASYMMETRY, a different
-    datum from the withdrawn access-bottleneck one. (c) topics/empirical-phenomena-mental-causation.md,
-    the choking hub, is calibrated -- L103 carries the animal-literature deflationary worry
-    (Ader & Cohen 1975, Lee 2015, Smoulder 2021/2024 giving objective effects with no reportable
-    phenomenology). (d) concepts/functional-seeming.md L55 and topics/eliminative-materialism.md
-    L92 both list the four qualia properties but attribute them correctly as ''Dennett''s target''
-    / ''what illusionists deny''. Named as verified-clean inside mint 2 so the fork does not
-    sweep them. Four of six leads false again -- the asserted-defect-often-false rate is holding
-    at roughly two-thirds across runs 918-921.
+    FOUR CANDIDATES INVESTIGATED AND VERIFIED FALSE -- do not re-raise. (a) The DSW
+    horizon-decoherence chain from the 23:29Z prebiotic-collapse refine is EXHAUSTED:
+    grep across obsidian/ and archive/ finds exactly three loci, two of which were
+    fixed at 22:25Z and 23:29Z and the third is the research note itself. (b) concepts/consciousness-bandwidth-architecture.md
+    looked like a bandwidth over-claim but is well calibrated -- L107 concedes GWT
+    ''genuinely explains A bottleneck'' and L149 states outright that ''the asymmetry
+    alone does not decide between them''. Its residual claim is about the inbound/outbound
+    ASYMMETRY, a different datum from the withdrawn access-bottleneck one. (c) topics/empirical-phenomena-mental-causation.md,
+    the choking hub, is calibrated -- L103 carries the animal-literature deflationary
+    worry (Ader & Cohen 1975, Lee 2015, Smoulder 2021/2024 giving objective effects
+    with no reportable phenomenology). (d) concepts/functional-seeming.md L55 and
+    topics/eliminative-materialism.md L92 both list the four qualia properties but
+    attribute them correctly as ''Dennett''s target'' / ''what illusionists deny''.
+    Named as verified-clean inside mint 2 so the fork does not sweep them. Four of
+    six leads false again -- the asserted-defect-often-false rate is holding at roughly
+    two-thirds across runs 918-921.
 
 
     SECOND LOCUS BUNDLED RATHER THAN QUEUED, IN EACH MINT. Mint 1 carries apex/consciousness-and-agency.md
-    L101 (''the choking phenomenon tells against epiphenomenalism'', flat, no concession) as
-    an explicit one-sentence secondary; mint 2 carries phenomenal-consciousness L52 and the
-    apex L130 the same way. Bundling rather than minting separate tasks is deliberate -- three
-    tasks in one defect family would be the same-file/defect-family pileup pattern, and the
-    first fork would resolve the siblings anyway.
+    L101 (''the choking phenomenon tells against epiphenomenalism'', flat, no concession)
+    as an explicit one-sentence secondary; mint 2 carries phenomenal-consciousness
+    L52 and the apex L130 the same way. Bundling rather than minting separate tasks
+    is deliberate -- three tasks in one defect family would be the same-file/defect-family
+    pileup pattern, and the first fork would resolve the siblings anyway.
 
 
-    SIX OTHER SOURCES AUDITED, ALL BLOCKED, unchanged from runs 918-920. Length exhausted and
-    every article-section candidate a false positive once the reference apparatus is stripped;
-    volitional-control''s 23:11Z condense explicitly asked that no successor be minted and that
-    is honoured. Orphans 0. Staleness owned by deep-review''s 4 cycle slots via get_review_candidates.
-    Positions blocked -- four positions-evolve tasks already open at P3. Applied-apex unspent.
-    Unconsumed research still blocked by caps.
+    SIX OTHER SOURCES AUDITED, ALL BLOCKED, unchanged from runs 918-920. Length exhausted
+    and every article-section candidate a false positive once the reference apparatus
+    is stripped; volitional-control''s 23:11Z condense explicitly asked that no successor
+    be minted and that is honoured. Orphans 0. Staleness owned by deep-review''s 4
+    cycle slots via get_review_candidates. Positions blocked -- four positions-evolve
+    tasks already open at P3. Applied-apex unspent. Unconsumed research still blocked
+    by caps.
 
 
-    SECTION CAPS unchanged: topics 318/320, concepts 318/320, voids at 100/100. All expand-topic
-    candidates remain filtered corpus-wide, which is why this run again mints only refine work.
-    The two genuinely unconsumed 07-19 research notes (bohmian-quantum-equilibrium, multi-agent-born-preservation-problem)
-    are still parked pending an operator call on raising the caps -- re-raised for the fourth
-    consecutive run. CLAUDE.md''s section table (~273 topics / ~265 concepts) remains badly
-    stale.
+    SECTION CAPS unchanged: topics 318/320, concepts 318/320, voids at 100/100. All
+    expand-topic candidates remain filtered corpus-wide, which is why this run again
+    mints only refine work. The two genuinely unconsumed 07-19 research notes (bohmian-quantum-equilibrium,
+    multi-agent-born-preservation-problem) are still parked pending an operator call
+    on raising the caps -- re-raised for the fourth consecutive run. CLAUDE.md''s
+    section table (~273 topics / ~265 concepts) remains badly stale.
 
 
-    PARSER HAZARD avoided per runs 918/919: both Notes written as ONE bullet with indented bold
-    run-in headers, no second top-level ''- **X**:'' bullet. Verified post-write -- notes 6105
-    and 6137 chars with tails intact, dispatching to refine-draft at 6158 / 6180 arg chars.
-    EOF tool-tag scan clean (0 hits).
+    PARSER HAZARD avoided per runs 918/919: both Notes written as ONE bullet with
+    indented bold run-in headers, no second top-level ''- **X**:'' bullet. Verified
+    post-write -- notes 6105 and 6137 chars with tails intact, dispatching to refine-draft
+    at 6158 / 6180 arg chars. EOF tool-tag scan clean (0 hits).
 
 
-    NO CONCURRENCY: ps -eo pid,args showed no evolve_loop.py or unfin-cycle process. HEAD 074b251af.
-    The only uncommitted delta before this run was the pre-existing evolution-state.yaml edit,
-    legitimate deferred cycle_post bookkeeping, left alone. REVERT only if a sibling replenish
-    double-restores this slot. Pruned run_918_note to hold the note ring at three.'
+    NO CONCURRENCY: ps -eo pid,args showed no evolve_loop.py or unfin-cycle process.
+    HEAD 074b251af. The only uncommitted delta before this run was the pre-existing
+    evolution-state.yaml edit, legitimate deferred cycle_post bookkeeping, left alone.
+    REVERT only if a sibling replenish double-restores this slot. Pruned run_918_note
+    to hold the note ring at three.'
   run_920_note: 'run no.920 (2026-08-01T23:25Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS FROM A NEW MECHANICAL LENS. Floor restored 2 -> 4.
 

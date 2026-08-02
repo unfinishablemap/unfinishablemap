@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-06-05 04:57:31+00:00
+ai_modified: 2026-08-01 23:59:41+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:37:02+00:00
-lastmod: 2026-06-05 04:57:31+00:00
+lastmod: 2026-08-01 23:59:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ Different phenomenal qualities produce different responses: sharp pain provokes 
 
 ### Volitional Modulation
 
-The [phenomenology of volitional control](/topics/volitional-control/)—including conscious veto and the "whether" component of intentional action (Brass & Haggard 2007)—offers first-person evidence consistent with variable causal engagement. On the Map's reading, the phenomenology of variable effort tracks variable causal engagement; the rival reading takes it as variable noradrenergic gain. The two are observationally indistinguishable at the phenomenology—a live underdetermination flagged in §"Absence of Direct Evidence." The Map's residual claim is that the phenomenally laden component of effort is not paraphrasable as locus-coeruleus modulation without remainder, because that description omits the felt valence the Phenomenal Biasing architecture treats as causally relevant.
+The [phenomenology of volitional control](/topics/volitional-control/)—including conscious veto and the "whether" component of intentional action (Brass & Haggard 2007, 2008)—offers first-person evidence consistent with variable causal engagement. On the Map's reading, the phenomenology of variable effort tracks variable causal engagement; the rival reading takes it as variable noradrenergic gain. The two are observationally indistinguishable at the phenomenology—a live underdetermination flagged in §"Absence of Direct Evidence." The Map's residual claim is that the phenomenally laden component of effort is not paraphrasable as locus-coeruleus modulation without remainder, because that description omits the felt valence the Phenomenal Biasing architecture treats as causally relevant.
 
 Resisting a strong impulse feels effortful in a way going along with it does not. The intensity of felt effort plausibly tracks the magnitude of phenomenal contribution to selection. The framework registers graded effort as evidence for variable rather than binary engagement, without committing to a specific physical implementation.
 
@@ -237,3 +237,14 @@ The cost is commitment to quantum effects in the brain at timescales relevant to
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most frameworks converge on causal impotence without a specific mechanism
 - [volitional-control](/topics/volitional-control/) — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness
+
+## References
+
+1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
+2. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
+3. Brass, M., & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
+4. Brass, M., & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319-325.
+5. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
+6. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
+7. Torres Alegre, E. O. (2025). Causal consistency selects the Born rule: a derivation from steering in generalised probabilistic theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
+8. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
