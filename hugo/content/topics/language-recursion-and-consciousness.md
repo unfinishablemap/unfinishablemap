@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-02 07:43:44+00:00
+ai_modified: 2026-08-02 12:07:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:02:45+00:00
-lastmod: 2026-08-02 07:43:44+00:00
+lastmod: 2026-08-02 12:07:22+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -59,13 +59,13 @@ Stated carefully: if recursion requires WM manipulation, and manipulation requir
 
 ### The Capacity Constraint
 
-Human WM capacity is often cited as 7±2 items (Miller 1956), though modern estimates converge on approximately 4±1 items when chunking is controlled (Cowan 2001). Great ape WM holds approximately 2±1 items (Read, Manrique & Walker 2022). Whether one takes the higher or lower human estimate, the several-fold expansion over ape capacity is what makes deep recursion tractable.
+Human WM capacity is often cited as 7±2 items (Miller 1956), though modern estimates converge on approximately 4±1 items when chunking is controlled (Cowan 2001). Great ape WM holds approximately 2±1 items (Read, Manrique & Walker 2022). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [the capacity gap](/concepts/working-memory/#the-capacity-gap). Even the conservative two-fold expansion Cowan's estimate implies—larger on Miller's—is what makes deep recursion tractable.
 
 Each level of embedding consumes WM slots: depth-1 ("The man ran") needs none; depth-2 ("The man who saw the woman ran") requires holding "the man" while processing the relative clause; each further level adds a held constituent. With 2±1 capacity even depth-2 becomes precarious; with human-level capacity depth-3 or depth-4 becomes manageable, though performance degrades with deeper embedding (as psycholinguistic studies confirm).
 
 The [consciousness-as-amplifier hypothesis](/concepts/consciousness-as-amplifier/) treats WM expansion as a key mechanism through which consciousness transforms cognition, and the [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article argues this expansion marks a phase transition in how consciousness couples with neural architecture. Recursion may be the paradigm case: the expansion from ape to human WM capacity enables recursive structure that would otherwise exceed cognitive bandwidth.
 
-This threshold answers the sharpest in-framework objection. If consciousness enables recursion, why do conscious non-human animals lack it? The Map grants phenomenal consciousness to many animals (see [animal-consciousness](/topics/animal-consciousness/))—apes, corvids, cetaceans—yet none produce recursive language, which on its face *dissociates* consciousness from recursion. The reply: consciousness is *necessary but not sufficient*. Recursion needs consciousness *plus* the expanded-WM phase transition; at ape-level capacity even depth-2 embedding is precarious, so a conscious ape has the right kind of substrate but not enough of it. Human recursion emerges where conscious access meets several-fold WM expansion—exactly the pattern the structure predicts: conscious animals below the capacity threshold lack deep recursion, and they do.
+This threshold answers the sharpest in-framework objection. If consciousness enables recursion, why do conscious non-human animals lack it? The Map grants phenomenal consciousness to many animals (see [animal-consciousness](/topics/animal-consciousness/))—apes, corvids, cetaceans—yet none produce recursive language, which on its face *dissociates* consciousness from recursion. The reply: consciousness is *necessary but not sufficient*. Recursion needs consciousness *plus* the expanded-WM phase transition; at ape-level capacity even depth-2 embedding is precarious, so a conscious ape has the right kind of substrate but not enough of it. Human recursion emerges where conscious access meets that WM expansion—exactly the pattern the structure predicts: conscious animals below the capacity threshold lack deep recursion, and they do.
 
 ## The Consciousness Connection
 

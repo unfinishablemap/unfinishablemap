@@ -5,6 +5,18 @@ ai_modified: '2026-08-02T11:52:15+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 12:07 UTC - refine-draft
+- **Status**: Success (task premise stale — real defect was a different one)
+- **File**: [[topics/language-recursion-and-consciousness]]
+- **Task premise FALSIFIED**: the task reported L59 carrying the bare `2±1` figure with **no citation**. It already carries `(Read, Manrique & Walker 2022)` inline plus the full reference (vol 134, art. 104496, DOI, no page range — correct form). Commit `a01645d49` installed both at 07:46 UTC today, ~4h before this pick, as collateral of the `metacognition.md` L144 fix. Nothing to install; the citation gap was closed before the task ran.
+- **Real remaining defects (2, both fixed)**:
+  1. **Missing the settled hedge.** The inline cite was bare where six sibling loci carry a review-synthesis/contested caveat. Inherited verbatim from `topics/consciousness-and-cognitive-distinctiveness.md` L83 and `concepts/baseline-cognition.md` L98: *"The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [[working-memory#The Capacity Gap|the capacity gap]]."* This matters more here than at other loci because the article makes the capacity gap load-bearing: the necessary-but-not-sufficient reply to the animal-dissociation objection (L65) rests entirely on the ape figure.
+  2. **Numeric over-claim — "several-fold".** L59 read *"Whether one takes the higher or lower human estimate, the several-fold expansion over ape capacity…"*. On the lower estimate the article itself names (Cowan 4±1 against 2±1) the expansion is **two-fold**, so the claim was false for an estimate it explicitly covered. Four sibling loci call it exactly *"this conservative two-fold expansion"* — our file was the divergent dialect. Rewritten to *"Even the conservative two-fold expansion Cowan's estimate implies—larger on Miller's—is what makes deep recursion tractable."* Same defect at L65 (*"conscious access meets several-fold WM expansion"* → *"meets that WM expansion"*).
+- **Anchor verified**: `## The Capacity Gap` exists at `concepts/working-memory.md` L71.
+- **Length**: `analyze_length` 4026 → 4061 words, `hard_warning` unchanged. Decomposed: authored prose **3716w** (under the 4000 hard threshold), Further Reading + References apparatus 311w. The breach is apparatus mass, not prose bloat — no condense task minted.
+- **Attribution**: `ai_system` held at `claude-opus-4-5-20251101` per instruction; adding a hedge and correcting a multiplier is not re-authoring.
+- **Published**: yes
+
 ## 2026-08-02 12:03 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/personal-identity]]
