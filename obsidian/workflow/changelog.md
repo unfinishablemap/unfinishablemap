@@ -5,6 +5,22 @@ ai_modified: '2026-08-02T15:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 15:44 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Word count**: 3914 → 4254 (+340; body 3556 → 3809, References 363 → 459). Now above the 4000 `hard_warning` threshold for `topics/` — condense task minted, see below.
+- **Scope**: the L94 inference only; the five symmetry-test passages were left untouched and verified present after the edit.
+- **Published**: yes
+
+Calibrated the inference that read: *"If Kuhnian values legitimately influence theory choice but cannot function as neutral arbiters in this domain, then metaphysical commitments—including dualism—function as recognised components of rational theory selection rather than as illegitimate intrusions into science."* The passage leaned on the values-in-science literature for permission, but that literature's governing distinction withholds it. Replaced with two paragraphs that name Douglas's direct/indirect distinction explicitly and claim only what the indirect role supports — that prior commitments set the evidential *threshold* each side demands, a claim about burden rather than metaphysics earning a seat among the reasons. The re-frame is stated symmetrically (dualists asking more of a physicalist reduction; physicalists asking more of a quantum-interaction signature), so it reinforces rather than trades against the article's underdetermination-is-symmetric discipline.
+
+**Characterisation verified at source, not just metadata** (the failure mode the 15:52 deep-review had just surfaced). Douglas's distinction was confirmed against SEP `scientific-objectivity` §3, which reports Douglas (2009: 7–8) as holding that values should not be "reasons in themselves", that is, evidence or defeaters for evidence (direct role, illegitimate), but may help "decide what should count as a sufficient reason for a choice" (indirect role, legitimate). The licensing relation was confirmed at the same entry: contextual values "influence scientific methods by determining the acceptable amount of inductive risk". Resnik and Elliott 2023 was verified at the Springer abstract, which states the paper's organising question as how "to distinguish between legitimate and illegitimate influences of values in science" — the characterisation the task asserted, not imported unchecked. Rudner 1953, Douglas 2000 and Elliott 2011 were each re-verified individually at Crossref (title, journal, volume, issue, pages, year) rather than trusted from the research note's ledger; Douglas 2009 confirmed at the University of Pittsburgh Press page.
+
+**Deliberate omissions.** Hempel (1965) was dropped from the inductive-risk lineage despite being standard there: the research note records it as SEP-mediated and unverified, so the in-text citation runs (Rudner 1953; Douglas 2000) only. No Rudner quotation was taken — the note declines SEP's "(1953: 2)" locus unseen and that decision was honoured. Elliott's contestation is cited by year without SEP's "320–321" page reference, which this pass did not confirm at the primary text. All five new References entries are paraphrase-backed rather than quotation-backed.
+
+Also fixed, incidentally: the preceding paragraph carried a broken construction — "argues that the entire suite of Kuhnian values appears to—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—systematically malfunctions" ("appears to … malfunctions", with the list splitting the verb phrase). Rewritten as "the whole Kuhnian suite … malfunctions systematically", which also saves words. No new headers were added and the Kuhn section was not restructured.
+
 ## 2026-08-02 15:52 UTC - deep-review
 
 - **Status**: Success

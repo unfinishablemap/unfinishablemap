@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-08-02 03:04:04+00:00
+ai_modified: 2026-08-02 15:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 10:45:59+00:00
-lastmod: 2026-08-02 03:04:04+00:00
+lastmod: 2026-08-02 15:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,9 +93,11 @@ When evidence underdetermines theory choice, what guides scientists? The [phenom
 
 This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) and [the domain-sensitivity of parsimony](/concepts/parsimony-epistemology/) shows, simplicity is unreliable when knowledge is incomplete. The [epistemic advantages of non-materialist theories](/topics/epistemic-advantages-of-dualism/) develop this further: the apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight, and could be closing intellectual territory that epistemic humility would keep open.
 
-The problem runs deeper than parsimony alone. The Map's examination of [theoretical virtues in consciousness science](/topics/consciousness-defeats-explanation/) argues that the entire suite of Kuhnian values appears to—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—systematically malfunctions when applied to consciousness. Empirical adequacy cannot discriminate between physicalism and property dualism because both accommodate third-person data while the target explanandum (phenomenal experience) is invisible to third-person methods. Elegance and fertility are assessed through phenomenal states—aesthetic response, sense of understanding—which are part of the phenomenon under investigation, creating a circularity that undermines their neutrality. These virtues were calibrated in domains where the observer plays no constitutive role; they cannot be assumed to function reliably where the observer is constitutive of the subject matter.
+The problem runs deeper than parsimony alone. The Map's examination of [theoretical virtues in consciousness science](/topics/consciousness-defeats-explanation/) argues that the whole Kuhnian suite—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—malfunctions systematically when applied to consciousness. Empirical adequacy cannot discriminate between physicalism and property dualism because both accommodate third-person data while the target explanandum (phenomenal experience) is invisible to third-person methods. Elegance and fertility are assessed through phenomenal states—aesthetic response, sense of understanding—which are part of the phenomenon under investigation, a circularity that undermines their neutrality. These virtues were calibrated in domains where the observer plays no constitutive role; they cannot be assumed to function reliably where the observer is constitutive of the subject matter.
 
-If Kuhnian values legitimately influence theory choice but cannot function as neutral arbiters in this domain, then metaphysical commitments—including dualism—function as recognised components of rational theory selection rather than as illegitimate intrusions into science.
+It is tempting to conclude that if Kuhnian values legitimately influence theory choice but cannot arbitrate neutrally here, metaphysical commitments—dualism included—thereby earn standing as recognised components of rational theory selection. That claims more than the values-in-science literature grants. Douglas (2009) reformulates the value-free ideal by separating two roles a value may play: an **indirect** role, helping decide what should count as a sufficient reason for a choice—how much evidence is required before a claim is accepted, given what is at stake in being wrong—and a **direct** role, acting as a reason in itself, as evidence or as a defeater for evidence. Inductive risk licenses the first, since confirming evidence never fully establishes a universal claim and something must set the acceptable residual risk (Rudner 1953; Douglas 2000). The second is what the post-2000 literature withholds, and drawing that line is the field's organising problem—the "new demarcation problem" of separating legitimate from illegitimate value influence once the value-free ideal is abandoned (Resnik and Elliott 2023).
+
+A metaphysical commitment acting as a reason to accept a metaphysical thesis is a direct role. So the narrower claim is the one to make: under underdetermination, prior commitments set the evidential threshold each side demands before surrendering its core—dualists asking more of a physicalist reduction than physicalists think it owes, physicalists asking more of a quantum-interaction signature than dualists think it owes. That concerns burden rather than a seat for metaphysics among the reasons, and it leaves both programmes to be judged on progressiveness. Whether Douglas's line is sharp enough to police legitimacy is contested (Elliott 2011), and her framework was drawn for contextual values where Kuhn's are cognitive—so whether a metaphysical commitment answers to either heading is what the new demarcation problem has yet to settle.
 
 ## The Phenomenal Concepts Strategy
 
@@ -157,5 +159,10 @@ A caution against the article's own temptation: that a theory is underdetermined
 13. Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press (released 2006; cite the 2007 OUP imprint year of record, which the DOI resolves to). https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 14. Davidson, D. (1974). On the Very Idea of a Conceptual Scheme. *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
 15. Laudan, L. & Leplin, J. (1991). Empirical Equivalence and Underdetermination. *The Journal of Philosophy*, 88(9), 449-472.
-16. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
-17. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/
+16. Rudner, R. (1953). The Scientist Qua Scientist Makes Value Judgments. *Philosophy of Science*, 20(1), 1-6. https://doi.org/10.1086/287231
+17. Douglas, H. (2000). Inductive Risk and Values in Science. *Philosophy of Science*, 67(4), 559-579. https://doi.org/10.1086/392855
+18. Douglas, H. (2009). *Science, Policy, and the Value-Free Ideal*. University of Pittsburgh Press.
+19. Elliott, K. C. (2011). Direct and Indirect Roles for Values in Science. *Philosophy of Science*, 78(2), 303-324. https://doi.org/10.1086/659222
+20. Resnik, D. B. & Elliott, K. C. (2023). Science, Values, and the New Demarcation Problem. *Journal for General Philosophy of Science*, 54(2), 259-286. https://doi.org/10.1007/s10838-022-09633-2
+21. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
+22. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/
