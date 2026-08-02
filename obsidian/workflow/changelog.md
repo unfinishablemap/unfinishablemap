@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T15:53:25+00:00'
+ai_modified: '2026-08-02T16:11:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 16:11 UTC - condense
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Before**: 4254 raw (authored prose 3793 + Further Reading 24 + References 437)
+- **After**: 3975 raw (authored prose 3514 + Further Reading 24 + References 437)
+- **Reduction**: 6.6% raw; 7.4% of authored prose. `hard_warning` → `soft_warning`. **Every word removed came from authored prose** — the reference apparatus is byte-identical, so the reduction is not an artefact of trimming citations.
+- **Measurement note**: the reference apparatus is 461 of the raw 4254, so a naive raw read overstates the prose problem by ~12%. Both figures are recorded above so the next scan does not re-derive a false over-length.
+- **Technique**: cut redundancy and standard exposition only. Largest cuts, in the order the remit prioritised them — (1) **COGITATE section**, −60: dropped the sentence announcing a distinction the immediately-following `### Underdetermination does not erase evidential gradients` subsection already makes, and compressed the closing caveat that restated the lead's final two sentences (the concession itself is preserved, not the restatement); (2) **Lakatos/Stanford exposition**, −45: Lakatos hard-core/belt glossary tightened, duplicated "no single experiment can eliminate…" / "a degenerating programme is displaced only by another programme" pair merged, Stanford's Newtonian example kept but its framing halved; (3) the remaining ~175 words are phrase-level tightening spread across the Duhem-Quine, vulnerability, phenomenal-concepts, framework-dependence and tenet-alignment sections. No section removed, no article extracted, no cross-link dropped.
+- **Calibration held (the binding constraint on this pass)**: the two protected regions are **untouched at the byte level**, verified by diff — (a) the Douglas direct/indirect paragraphs under `## Kuhn's Values and Theory Choice`, including the "claims more than the values-in-science literature grants" / "the narrower claim is the one to make" / "burden rather than a seat for metaphysics" hedges and both contestation clauses (Elliott 2011; contextual-vs-cognitive scope); (b) the five underdetermination-is-symmetric passages. The only edit inside a paragraph containing protected text was the 19th-century introspectionism example sentence in vulnerability item 2 (−2 words); the symmetry clause and the "can nonetheless gain evidential standing" concession following it are unchanged. **No hedge, concession, contestation clause or citation-framing qualifier was removed anywhere in the article.**
+- **References**: all 22 entries retained verbatim, including the five added at 15:44 (Rudner 1953; Douglas 2000, 2009; Elliott 2011; Resnik & Elliott 2023). Deleting a reference to buy word count would have orphaned a live inline citation.
+- **Files modified**: the article, this changelog.
 
 ## 2026-08-02 15:53 UTC - coalesce
 - **Status**: Abandoned — no viable merge candidate
