@@ -4,7 +4,7 @@ description: "Weak measurement extracts partial quantum information across an en
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-06-06T12:00:00+00:00
+ai_modified: 2026-08-02T20:36:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ The Map treats these disanalogies as the central open problems of the proposal, 
 
 This framework differs from traditional consciousness-collapse models (von Neumann, Wigner, [[stapp-quantum-mind|Stapp]]) in a way that may justify the speculative leap. Those models place consciousness at the moment of collapse—causing the transition from superposition to definite outcome. The post-selection model places consciousness at the *boundary*—determining which outcome the system transitions toward. The transition to a definite outcome proceeds through whatever mechanism governs it. Consciousness's proposed role is selecting the target, not triggering the transition.
 
-The distinction matters for the [[post-decoherence-selection|post-decoherence selection]] framework. If consciousness operates as a post-selection condition, it need not interact with fragile quantum superpositions before decoherence destroys them. The post-selection boundary can be specified at the level of already-decohered, classically distinguishable neural states. Decoherence prepares the menu of options; consciousness determines which option the system's history converges toward. This robustness comes at a cost: specifying the boundary on already-classical states trades away the distinctively quantum-mechanistic content of the weak-value formalism, since the selection no longer operates on coherent superpositions. What remains quantum is the underlying claim that the realised history is constrained by a future boundary condition—the time-symmetric structure—rather than any appeal to fragile coherence at the moment of selection.
+The distinction matters for the [[post-decoherence-selection|post-decoherence selection]] framework. If consciousness operates as a post-selection condition, it need not interact with fragile quantum superpositions before decoherence destroys them. The post-selection boundary can be specified at the level of already-decohered, classically distinguishable neural states. Decoherence fixes the preferred basis and the Born weights that make those states describable in classical terms, but what it hands over is an improper mixture rather than a menu of already-localized actualities waiting for one to be picked out; reading it as such a menu, with consciousness choosing one pre-existing outcome from it, is a category error. The boundary condition names the transition from improper mixture to a single actual outcome, not the reading-off of an alternative the physics has already settled as distinct. This robustness comes at a cost: specifying the boundary on already-classical states trades away the distinctively quantum-mechanistic content of the weak-value formalism, since the selection no longer operates on coherent superpositions. What remains quantum is the underlying claim that the realised history is constrained by a future boundary condition—the time-symmetric structure—rather than any appeal to fragile coherence at the moment of selection.
 
 ### Status of This Proposal
 

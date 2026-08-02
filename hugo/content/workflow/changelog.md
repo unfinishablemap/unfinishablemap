@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T20:28:00+00:00'
+ai_modified: '2026-08-02T20:36:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 20:28:00+00:00
+lastmod: 2026-08-02 20:36:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 20:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Original score**: n/a — the skill's Section 3 command (`scripts/curate.py review`) does not exist in this repo; the file validates before and after.
+- **Scope**: locus 2 of 3 in the post-decoherence-selection "menu" family. This file only. Locus 3 (`concepts/time-symmetric-physics.md` L128) left to its own minted task; the four previously-excluded loci were not re-opened.
+- **Authority loci re-verified on disk before editing** (not taken from the task text): `concepts/post-decoherence-selection.md` L52 — the improper mixture "is not a menu of already-localized, classically distinct actualities waiting for one to be picked out", reading it as one "is a category error", and "what selection names is the transition *from* improper mixture *to* a single actual outcome, not the reading-off of an alternative the physics has already settled as distinct". `tenets.md` L70 and `concepts/von-neumann-wigner-interpretation.md` L94 both carry "an additional actualisation postulate, not a pick from a pre-existing classical menu of already-definite alternatives". The in-repo model edit at `concepts/causal-consistency-constraint.md` L71 (2026-08-02, locus 1) was read and its shape copied rather than a variant composed.
+- **The edit (L100, "Advantages Over Collapse Models")**: replaced *"Decoherence prepares the menu of options; consciousness determines which option the system's history converges toward"* with the canonical framing — decoherence "fixes the preferred basis and the Born weights that make those states describable in classical terms, but what it hands over is an improper mixture rather than a menu of already-localized actualities waiting for one to be picked out; reading it as such a menu, with consciousness choosing one pre-existing outcome from it, is a category error", closing on "The boundary condition names the transition from improper mixture to a single actual outcome, not the reading-off of an alternative the physics has already settled as distinct."
+- **Why the paragraph needed it specifically**: it opens "The distinction matters for the [post-decoherence selection](/concepts/post-decoherence-selection/) framework" — it wikilinked the very node that calls the menu reading a category error, so the defect was a self-contradiction against a cited authority, not merely a loose phrase.
+- **Secondary repair, same sentence pair**: the preceding sentence ("the boundary can be specified at the level of already-decohered, classically distinguishable neural states") was in latent tension with the improper-mixture point — if the mixture is improper, in what sense are the states "classically distinguishable"? The replacement resolves it by naming what decoherence actually delivers (preferred basis + Born weights, hence classical *describability*) without granting already-localized actuality.
+- **Re-framing, not deletion**: the paragraph's claim survives intact — post-selection need not touch fragile pre-decoherence superpositions, and the boundary can be specified on already-decohered states. Both preserved items confirmed present after the edit: the candour move "This robustness comes at a cost: specifying the boundary on already-classical states trades away the distinctively quantum-mechanistic content of the weak-value formalism", and the surrounding weak-measurement/post-selection argument, which was not at issue and is untouched.
+- **Single locus in-file**: grepped `menu`, `already prepared`, `picks among`, `pre-existing`, `alternatives the physics`, `prepares the` across the article — L100 was the only hit, so no sibling strings were left live behind the fix.
+- **Length**: 2910 → 2980 words (+70), section thresholds soft 2500 / hard 3500; status `soft_warning` before and after. Near-neutral as predicted, comfortable headroom retained.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — matching an established canonical form already fixed at three authority loci is correction, not authoring. `ai_modified` bumped to 2026-08-02T20:36:08+00:00 from a live `date -u` and verified in the past.
+- **Mirror**: synced; `hugo/content/concepts/weak-measurement-and-post-selection.md` L105 confirmed carrying the new string.
+- **Family sweep, all three trees.** Re-grepped `menu of options` across `obsidian/`, `hugo/content/` and `archive/`. **`archive/`: 0 hits** (independently reproduced). **Remaining article-level hits: 1** — `topics/consciousness-and-moral-agency-under-duress.md` L71, which is the task's explicit excluded-as-sound locus (neural-psychological level: the brain "presents a narrower menu of options" is about which motor/behavioural options are physiologically available under duress, not about the structure of a decohered quantum mixture). **No defective article-level hits remain for this string in any tree.** The other hits are workflow/review historical record (`workflow/todo.md` ×4, `workflow/changelog.md`, `workflow/archive/completed-tasks-2026-W13.md`, `reviews/optimistic-2026-03-20-midday.md`) and are correctly left alone. Locus 3 uses a different string (`menu of classically distinguishable`) and does not appear in this sweep; the family is not yet closed on that pattern.
+- **Published**: yes
 
 ## 2026-08-02 20:31 UTC - refine-draft
 - **Status**: Success
