@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-02 03:04:04+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-02 03:25:11+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[intentionality]]'
@@ -23,8 +23,8 @@ description: How meaning, reference, and the private language argument reveal th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 00:00:00+00:00
-lastmod: 2026-08-02 03:04:04+00:00
+last_deep_review: 2026-08-02 03:25:11+00:00
+lastmod: 2026-08-02 03:25:11+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -43,9 +43,9 @@ The central insight is that consciousness resists the tools philosophy of langua
 
 ## Meaning and Conscious Intention
 
-Paul Grice argued that linguistic meaning depends on speaker intention. A sentence means what the speaker intends the audience to recognise they intend. This analysis makes meaning irreducibly dependent on mental states—specifically, on conscious intentions that can be reflexively grasped.
+Paul Grice argued that linguistic meaning depends on speaker intention. What a speaker means on a given occasion is fixed by what they intend the audience to believe, together with their intention that the audience recognise that very intention and take it as part of their reason for believing it. Grice kept this *utterer's* meaning distinct from what a sentence means in the language, treating the latter as a settled pattern in the former—so even standing sentence meaning bottoms out in occasion-by-occasion intentions. This analysis makes meaning irreducibly dependent on mental states—specifically, on conscious intentions that can be reflexively grasped.
 
-John Searle extended this with his "connection principle": all [intentionality](/concepts/intentionality/)—the aboutness of mental states—is either conscious or derivable from conscious states. A thermostat's "belief" that the room is too hot is merely metaphorical. Genuine aboutness requires the kind of understanding that comes with phenomenal experience.
+John Searle tied [intentionality](/concepts/intentionality/)—the aboutness of mental states—to consciousness along two distinct lines. His *connection principle* holds that every unconscious intentional state must be in principle accessible to consciousness: a state that could never in principle be conscious would not be an intentional state at all. Separately, he distinguished the intrinsic intentionality of minds from the derived, observer-relative intentionality we assign to artifacts—a thermostat's "belief" that the room is too hot is aboutness we lend it, not aboutness it has. Together the two theses trace genuine aboutness back to the kind of understanding that comes with phenomenal experience.
 
 If Grice and Searle are right, meaning cannot exist without consciousness. Rather than a self-standing formal system that minds happen to use, language becomes constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory), the view that all genuine aboutness derives from phenomenal experience.
 
@@ -81,9 +81,11 @@ The strategy faces a dilemma. If phenomenal concepts are purely physical, what m
 
 The logical positivists attempted to dissolve the mind-body problem through linguistic analysis. Consciousness talk, they argued, is meaningful only insofar as it is translatable into observation statements about behaviour. Anything beyond that is meaningless—not false, but literally without cognitive content. Carnap's physicalist programme—developed in "Psychology in Physical Language" (1932)—argued that psychological statements are translatable into physical-language statements about bodily behaviour. Ryle's dispositional analysis of mental terms, in *The Concept of Mind* (1949), pursued the same goal from ordinary language: mental vocabulary is shorthand for behavioural dispositions, not reports on inner episodes.
 
-This programme failed—and its failure marked the decline of [functionalist](/concepts/functionalism/) and behaviourist approaches to consciousness vocabulary. No finite set of behavioural descriptions captures what it is like to be in pain. Pain-behaviour can be suppressed (stoics), faked (actors), or absent (paralysis patients). The phenomenal state and the behavioural disposition are conceptually separable—a point the [zombie argument](/concepts/philosophical-zombies/) dramatises. If a physically identical being could lack consciousness while exhibiting all the same behaviour, then consciousness talk refers to something behaviour cannot capture.
+This programme failed. No finite set of behavioural descriptions captures what it is like to be in pain. Pain-behaviour can be suppressed (stoics), faked (actors), or absent (paralysis patients). The phenomenal state and the behavioural disposition are conceptually separable—a point the [zombie argument](/concepts/philosophical-zombies/) dramatises. If a physically identical being could lack consciousness while exhibiting all the same behaviour, then consciousness talk refers to something behaviour cannot capture.
 
-The failure of logical behaviourism is instructive. It shows that philosophy of language's most powerful reductive tools—translation, verification, logical construction—cannot dissolve the consciousness problem. The problem persists not because we lack linguistic sophistication but because phenomenal experience is the wrong kind of thing for these tools to handle. Language can *describe* consciousness (partially), *refer to* it (problematically), and *express* it (lossily)—but it cannot *reduce* it to anything more tractable.
+Behaviourism's collapse did not hand the field to dualism. [Functionalism](/concepts/functionalism/) took over the project, swapping behavioural dispositions for causal roles, and it remains the leading account of mental states in contemporary philosophy of mind. The move buys real ground: a causal role is not defeated by behaviour that is suppressed, faked, or paralysed away, because the role is specified over inputs, internal states, and outputs rather than over observable conduct alone. But it inherits the original difficulty rather than dissolving it. A role specification says what a state does, and functionalism asserts that occupying the right role suffices for experience without saying why occupying it should feel like anything—why the causal structure does not simply run in the dark. That debt is what the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) was built to discharge, and the dilemma above is the reason it does not.
+
+The pattern across both programmes is instructive. It shows that philosophy of language's most powerful reductive tools—translation, verification, logical construction—cannot dissolve the consciousness problem. The problem persists not because we lack linguistic sophistication but because phenomenal experience is the wrong kind of thing for these tools to handle. Language can *describe* consciousness (partially), *refer to* it (problematically), and *express* it (lossily)—but it cannot *reduce* it to anything more tractable.
 
 ## Relation to Site Perspective
 
