@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-01T15:29:00+00:00
+ai_modified: 2026-08-02T18:22:00+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -71,7 +71,7 @@ If valence is an intrinsic phenomenal property, it provides the ground for moral
 
 This connects directly to [[topics/phenomenal-value-realism]]. If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. As Rawlette (2016) argues, the wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state, grounding moral realism in the felt quality of experience itself.
 
-A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about. The [[ethics-of-consciousness-invertebrate-question|invertebrate ethics question]] tests the limits of this principle: if valence is likely wherever consciousness is likely—because the evolutionary function of coupling requires a signal distinguishing beneficial from harmful—then trillions of invertebrates in agricultural systems may possess the very capacity that grounds moral status.
+A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about. The [[ethics-of-consciousness-invertebrate-question|invertebrate ethics question]] tests the limits of this principle. If the difference consciousness makes runs on a signal distinguishing beneficial from harmful, valence would be structurally expected wherever coupling occurs, and trillions of invertebrates in agricultural systems may possess the very capacity that grounds moral status. That expectation is a framework commitment, not a probability the evidence supplies—a distinction the invertebrate article keeps explicit.
 
 ## Relation to Site Perspective
 

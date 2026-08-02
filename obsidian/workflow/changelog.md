@@ -1,9 +1,72 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T17:55:13+00:00'
+ai_modified: '2026-08-02T18:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 18:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Also modified**: [[concepts/valence]] (inbound cross-reference misstating the reviewed article's position)
+- **Word count**: 2521 -> 2542 (+21, length-neutral; 85% of the 3000 topics soft threshold)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1 new body cross-link ([[valence-and-conscious-selection]])
+- **Output**: [[reviews/deep-review-2026-08-02-ethics-of-consciousness-invertebrate-question]]
+
+Seventh review, and the first in three passes to find real defects. All three criticals trace
+to the 2026-08-01 refine (`358aa8aff`), which fixed a calibration problem and introduced an
+attribution problem in the same edit.
+
+**1. Tenet rationale misattributed (critical).** The rewrite wrote that "the evolutionary
+rationale" for Bidirectional Interaction "is that it biases neural processes toward beneficial
+states". `tenets.md` gives no such rationale — Tenet 3's stated Rationale is the
+anti-epiphenomenalist one (that we can discuss consciousness at all). The adaptive reading is
+a genuine Map position but it lives in [[concepts/valence]] L84, not in the tenet. Split the
+sentence: tenet's own rationale named correctly, adaptive reading assigned to the valence
+article. Inward-pointing citation-framing error per [[citation-framing-accuracy-lens]].
+
+**2. "Functionally idle" self-contradiction (critical).** The rewrite concluded that
+valence-free coupling "would be functionally idle" — contradicting the immediately preceding
+paragraph's concession that an organism could have integrated perceptual experience with no
+valence, and contradicting the Map's own registered fork
+([[topics/valence-and-conscious-selection]]) on whether valence enters outcome-selection
+directly or only via attention. On the attention branch the "idle" premise fails. Downgraded
+to "would leave the rationale for coupling unexplained, not that it is impossible", with the
+fork named and linked and a perceptual-accuracy counterexample given.
+
+**3. LLM-cliché construct in the lead (critical).** L39 carried the forbidden "is not X. It is
+Y." pattern in the highest-visibility paragraph, missed by six prior reviews. My own first
+grep missed it too — I searched for the literal words of my fix rather than the words the file
+uses. Rewritten to make the positive claim directly, which also front-loads better.
+
+**Medium.** (a) Method-talk paragraph ("That argument is worth keeping, and worth labelling")
+rewritten into natural prose per [[project/writing-style]] §Evidential Calibration; both
+wikilinks preserved, the slippage link now carried by "would confuse removing a defeater with
+supplying evidence". No forbidden label from the eight-term list was present, so not critical.
+(b) "A bee's million-neuron central complex" fixed at third flagging — the ~1M figure is the
+whole brain. 2026-06-05 verified this and left it on oscillation-risk grounds; there was no
+oscillation risk, since nothing had ever changed the line in either direction. (c)
+[[concepts/valence]] L74 asserted "valence is likely wherever consciousness is likely" and
+attributed it *to this article by name* — the exact over-claim the 2026-08-01 refine removed.
+Reframed as a framework commitment rather than an evidential probability. Three-tree sweep
+found no other live instance of either string.
+
+**Citations (§2.4).** References block unchanged since the complete 2026-06-05
+publisher-of-record audit; no cites added by the rewrite. Scoped to the one time-varying
+quantity: NYD signatory count WebFetch-verified live at 605 — unchanged, no propagation
+needed (all five sibling instances already read 605). `find_superlative_claims` empty. Inline
+<-> References cross-check clean. Session WebSearch budget was exhausted (200/200); WebFetch
+carried the verification per [[webfetch-survives-websearch-exhaustion]].
+
+**Engagement modes (§2.6).** Physicalist ethics: Mode Three, framework-boundary marking,
+unchanged. Birch: ally at the action layer, not an opponent. New this pass — the valence
+paragraph now engages the Map itself as sceptic, naming its own unresolved fork as the reason
+the structural argument falls short; in-framework self-correction, the correct mode. No
+editor-vocabulary leakage in either edited file (grep-verified against the full forbidden
+list).
+
 
 ## 2026-08-02 17:55 UTC - refine-draft
 - **Status**: Success

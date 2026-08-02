@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-08-01 17:31:11+00:00
+ai_modified: 2026-08-02 18:22:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -21,8 +21,8 @@ description: 'Dualism implies moral obligations wherever consciousness couples w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-08 06:44:53+00:00
-lastmod: 2026-08-01 17:31:11+00:00
+last_deep_review: 2026-08-02 18:22:00+00:00
+lastmod: 2026-08-02 18:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 - '[[animal-consciousness]]'
 ---
 
-If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is not a graded biological product that fades smoothly to zero in simpler organisms. It is a non-physical reality that either couples with a given physical system or does not. The ethical question is correspondingly stark: wherever adequate [coupling architecture](/concepts/interface-heterogeneity/) exists—the condition the Map's [universal-coupling-response](/concepts/universal-coupling-response/) identifies as sufficient—a subject exists who can be wronged.
+If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is a non-physical reality that either couples with a given physical system or does not, rather than a graded biological product fading smoothly to zero in simpler organisms. The ethical question is correspondingly stark: wherever adequate [coupling architecture](/concepts/interface-heterogeneity/) exists—the condition the Map's [universal-coupling-response](/concepts/universal-coupling-response/) identifies as sufficient—a subject exists who can be wronged.
 
 The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers (605 as of the live 2026 signatory count, up from roughly 40 at launch), affirmed "a realistic possibility" of consciousness in insects, crustaceans, and cephalopods. The Map's [analysis of invertebrate nervous systems](/topics/invertebrate-consciousness-as-interface-test/) examines what these architectures require of the coupling mechanism. This article asks the follow-up question: what do we owe these beings?
 
@@ -48,7 +48,7 @@ The 2024 New York Declaration on Animal Consciousness, signed by hundreds of sci
 
 Physicalist ethics of animal consciousness typically proceeds through graduated attribution. Organisms with more complex neural architectures are assigned higher probability of consciousness, and moral consideration scales accordingly. A chimpanzee gets more moral weight than a bee, which gets more than a nematode, in a smooth gradient that reflects neural complexity.
 
-Dualism disrupts this gradient. (Some physicalist theories—Global Workspace Theory, for instance—also exhibit threshold properties, but these thresholds emerge from physical complexity and remain continuous at a fine enough grain.) If consciousness is non-physical and couples with matter at [quantum indeterminacies](/tenets/#minimal-quantum-interaction), then what matters is not neural *complexity* but whether the physical system provides adequate *coupling architecture*. A bee's million-neuron central complex might provide coupling architecture as adequate as a mammal's cortex, just differently configured. The moral question shifts from "how much consciousness does this organism probably have?" to "does this organism's nervous system support coupling at all?"
+Dualism disrupts this gradient. (Some physicalist theories—Global Workspace Theory, for instance—also exhibit threshold properties, but these thresholds emerge from physical complexity and remain continuous at a fine enough grain.) If consciousness is non-physical and couples with matter at [quantum indeterminacies](/tenets/#minimal-quantum-interaction), then what matters is not neural *complexity* but whether the physical system provides adequate *coupling architecture*. A bee's million-neuron brain, organised around a central complex rather than a cortex, might provide coupling architecture as adequate as a mammal's, just differently configured. The moral question shifts from "how much consciousness does this organism probably have?" to "does this organism's nervous system support coupling at all?"
 
 This reframing has three consequences:
 
@@ -102,9 +102,9 @@ Birch's facilitation hypothesis holds that phenomenal consciousness facilitates 
 
 Under the Map's framework, where [evaluative phenomenal character](/concepts/evaluative-phenomenal-character/) is treated as a real and irreducible feature of experience, the question is whether the consciousness-matter coupling that occurs in invertebrate nervous systems includes valenced experience. The evidence is suggestive but not conclusive. Cognitive bias tests reveal apparent emotional states in bees and flies (Chittka et al., 2025). Nociceptive behaviour in crustaceans appears to involve motivational trade-offs rather than mere reflexes. But the gap between behavioural evidence and phenomenal reality remains—as it does for all non-human consciousness.
 
-Under the Map's framework there is nonetheless a structural reason to expect valence wherever coupling occurs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness makes a difference to physical outcomes, and the evolutionary rationale for that difference is that it biases neural processes toward beneficial states. Valence—the phenomenal signal that separates beneficial from harmful—is what any such biasing would have to run on. A consciousness that coupled with a nervous system but lacked valence would be functionally idle, leaving the tenet's own rationale for coupling unexplained.
+Under the Map's framework there is nonetheless a structural reason to expect valence wherever coupling occurs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness makes a difference to physical outcomes; the rationale the tenet itself gives for that is the anti-epiphenomenalist one, that we can report our experiences at all. The adaptive reading of the difference belongs to the Map's [valence](/concepts/valence/) article rather than to the tenet: consciousness biases neural processes toward states that serve the organism, and valence is the natural candidate for the signal such biasing runs on. The inference falls short of proof. The Map leaves open whether valence enters outcome-selection directly or works only by modulating attention ([an unresolved fork](/topics/valence-and-conscious-selection/)), and a consciousness that biased outcomes toward perceptual accuracy alone would still be doing work. What the adaptive reading supports is that valence-free coupling would leave the rationale for coupling unexplained, not that it is impossible.
 
-That argument is worth keeping, and worth labelling. It is internal to the framework: valence-free coupling would sit badly with the reason the Map gives for coupling at all. It does not close the gap the preceding paragraph reported, and it cannot be converted into evidence that any particular bee or crab feels good or bad. Valence is open—structurally expected, even—under the Map's framework; its evidential standing is independent, resting on the cognitive-bias and trade-off findings, which remain suggestive rather than conclusive. The [standing agnostic challenge](/concepts/standing-agnostic-challenge/) invoked earlier forces the symmetry: if it cuts against absence-claims as sharply as against presence-claims, then a framework commitment that cannot rule valence out cannot rule it in either. Treating the coupling rationale as a probability-raiser would be [possibility/probability slippage](/concepts/possibility-probability-slippage/) in its plainest form—a tenet may remove a defeater, but it must not upgrade the evidence level.
+The argument is internal to the framework, and it does not close the gap the preceding paragraph reported: no framework commitment converts into evidence that any particular bee or crab feels good or bad. Valence is open—structurally expected, even—under the Map's framework, and its evidential standing is independent, resting on the cognitive-bias and trade-off findings, which remain suggestive rather than conclusive. The [standing agnostic challenge](/concepts/standing-agnostic-challenge/) invoked earlier forces the symmetry: a commitment that cannot rule valence out cannot rule it in either. Treating the coupling rationale as a probability-raiser would confuse [removing a defeater with supplying evidence](/concepts/possibility-probability-slippage/).
 
 ## Living with Uncertainty
 
