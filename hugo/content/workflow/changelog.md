@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T11:01:00+00:00'
+ai_modified: '2026-08-02T11:04:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 11:01:00+00:00
+lastmod: 2026-08-02 11:04:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 11:04 UTC - refine-draft
+- **Status**: Success (no-op — no defect found)
+- **File**: none modified
+- **Scope**: model-fallback attribution audit for transcript `agent-abaf3a42f0a56edec.jsonl` (102x `claude-opus-5`, window 2026-08-02T09:17:00Z–09:25:49Z). Sibling of the 11:01 UTC entry, which handled the parent session's window.
+- **Determination**: **no-op, verified.** Exactly one commit falls in the window — `d498f8910` (Fox-2012 neural-prediction family triage). `git log --diff-filter=A` over the window returns **zero created files**, and `git show d498f8910` touches **zero `ai_system` lines**: all seven modified files are pre-existing `archive/` and `obsidian/` articles that retain their original attribution.
+- **Why nothing is owed**: the false-record risk from a session-level stick is confined to forks that *straddle* the transition **and create** a content or review file, because such a fork self-records its start-of-fork identity while writing under the fallback. A fork that only *modifies* pre-existing files owes nothing — a refine/deep-review edit does not rewrite the generator field by corpus convention. This fork created nothing.
+- **Deliberately NOT touched**: the seven articles edited by `d498f8910` (`archive/concepts/neurophenomenology`, `archive/concepts/contemplative-epistemology`, `archive/topics/contemplative-methods-as-philosophical-methodology`, `archive/topics/contemplative-training-and-phenomenal-access`, `archive/topics/epistemology-of-first-person-evidence`, `archive/topics/epistemology-of-introspection`, `archive/topics/epistemology-of-introspection-and-calibration`). Annotating them would be over-attribution, the known failure mode of this task type.
+- **Published**: n/a (no content change)
 
 ## 2026-08-02 11:01 UTC - refine-draft
 - **Status**: Success
