@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-08 15:37:15+00:00
+ai_modified: 2026-08-02 03:31:40+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 15:37:15+00:00
-lastmod: 2026-07-08 15:37:15+00:00
+lastmod: 2026-08-02 03:31:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -167,7 +167,7 @@ The article engages three of the Map's tenets at the methodology layer rather th
 
 ## References
 
-1. Aggleton, J. P., & Brown, M. W. (1999). Episodic memory, amnesia, and the hippocampal-anterior thalamic axis. *Behavioral and Brain Sciences*, 22(3), 425–489.
+1. Aggleton, J. P., & Brown, M. W. (1999). Episodic memory, amnesia, and the hippocampal-anterior thalamic axis. *Behavioral and Brain Sciences*, 22(3), 425–444.
 1. Andrews-Hanna, J. R., Smallwood, J., & Spreng, R. N. (2014). The default network and self-generated thought. *Annals of the New York Academy of Sciences*, 1316(1), 29–52.
 1. Bonnì, S., Veniero, D., Mastropasqua, C., et al. (2015). TMS evidence for a selective role of the precuneus in source memory retrieval. *Behavioural Brain Research*, 282, 70–75.
 1. Cain, J. A., Spivak, N. M., Coetzee, J. P., et al. (2021). Ultrasonic thalamic stimulation in chronic disorders of consciousness. *Brain Stimulation*, 14(2), 301–303.

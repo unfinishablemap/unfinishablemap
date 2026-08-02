@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-03-10 19:53:00+00:00
+ai_modified: 2026-08-02 03:31:40+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-09
-date: '2026-03-10'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-03-10 19:53:00+00:00
+lastmod: 2026-08-02 03:31:40+00:00
 related_articles: []
 title: 'Research Notes - Dual-Domain Capabilities: Proprioception, Spatial Reasoning,
   Imagination'
@@ -159,7 +159,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Kosslyn, Stephen M. *Image and Brain: The Resolution of the Imagery Debate*. MIT Press, 1994.
 - Longo, Matthew R. et al. "An Overview of the Body Schema and Body Image." *PMC* (2023). https://pmc.ncbi.nlm.nih.gov/articles/PMC10605253/
 - Merleau-Ponty, Maurice. *Phenomenology of Perception*. 1945. Trans. Colin Smith.
-- Pylyshyn, Zenon. "Mental Imagery: In Search of a Theory." *Behavioral and Brain Sciences* 25 (2002): 157–238.
+- Pylyshyn, Zenon. "Mental Imagery: In Search of a Theory." *Behavioral and Brain Sciences* 25 (2002): 157–182.
 - Shepard, Roger N. and Jacqueline Metzler. "Mental Rotation of Three-Dimensional Objects." *Science* 171, no. 3972 (1971): 701–703.
 - Thomas, Nigel J.T. "Mental Imagery." Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/mental-imagery/
 - Whiteley, Cecily M.K. "Aphantasia, Imagination and Dreaming." *Philosophical Studies* 178 (2021): 2111–2132.

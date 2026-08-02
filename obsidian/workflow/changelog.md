@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T03:25:11+00:00'
+ai_modified: '2026-08-02T03:32:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 03:31 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]], [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Change**: BBS target-article page-range normalisation — References-line digits only, no body prose touched
+- **Applying the ratified convention.** Same rule as the 2026-06-01 Block 1995 pass and the 2026-08-02 four-family sweep: for a *Behavioral and Brain Sciences* target article the canonical range is the target article's own pages as recorded at Crossref. The longer variant erroneously appends the open-peer-commentary pages, inflating a 26-page target article into an 81-page one.
+- **Both re-verified at Crossref this run** rather than taken on the dispatch note's word ([[replenish-asserted-concrete-defect-often-false]] — an asserted defect is a candidate, not a fact). Both held:
+  1. **Pylyshyn 2002**, *Mental imagery: In search of a theory*, BBS **25(2)** — DOI `10.1017/s0140525x02000043` returns `157-182`. Corpus had `157–238`. Fixed.
+  2. **Aggleton & Brown 1999**, *Episodic memory, amnesia, and the hippocampal–anterior thalamic axis*, BBS **22(3)** — DOI `10.1017/s0140525x99002034` returns `425-444`. Corpus had `425–489`. Fixed.
+- **Four loci, re-grepped across all three trees before and after** ([[fix-by-file-leaves-string-siblings-live]] — a dispatch locus list is a sample until re-confirmed). The pre-edit grep matched the dispatched list exactly: obsidian + hugo mirror for each of the two files, no `archive/` loci. Post-edit grep returns zero content-tree hits for either old form; the only surviving occurrences are in `obsidian/workflow/` and `obsidian/reviews/`, deliberately left as historical record. Each file's existing en-dash style was preserved.
+- **Three siblings checked and deliberately not touched**: `O'Regan & Noë 2001` **939-973** (DOI `10.1017/S0140525X01000115`), `Pessoa, Thompson & Noë 1998` **723-748** (DOI `10.1017/s0140525x98001757`), `Revonsuo 2000` **877-901** (DOI `10.1017/s0140525x00004015`) are the target articles' own ranges. O'Regan & Noë is the instructive case — a genuine 35-page target article — so **a long range is not by itself evidence of the commentary-inclusive error**. This family needs per-entry Crossref checks, never a heuristic sweep toward a false expectation ([[citation-verify-false-negative]]).
+- **Length**: neutral by construction — every edit is a same-length digit substitution. No condense successor minted.
+- **Attribution**: page-range normalisation is bookkeeping, not re-authoring. `ai_system` held verbatim on both files (`claude-opus-4-6` and `claude-opus-4-7` respectively — *not* flipped to the editing model); `last_deep_review` untouched; `ai_modified` bumped only on the two files actually changed, to a live `date -u` value verified strictly past.
+- **Sync**: `scripts/sync.py` run; both hugo mirrors confirmed to agree with source.
+- **Published**: yes
 
 ## 2026-08-02 03:25 UTC - deep-review
 - **Status**: Success
