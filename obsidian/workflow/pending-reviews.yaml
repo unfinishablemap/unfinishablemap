@@ -476,3 +476,38 @@
   subject_articles:
   - topics/penrose-gravity-induced-collapse-empirical-prospects.md
   subject_source: reuse:pending-reviews:outer-review-2026-07-31-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6ea69a-4cd4-83eb-a7fd-e8140a0cb50a
+  commissioned_at: '2026-08-02T02:09:24.811550+00:00'
+  prompt_summary: 'Audit apex/dualism-cartography: evidence, citations, counterarguments'
+  target_filename: outer-review-2026-08-02-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending an interactionist,
+    non-reductive view of consciousness.
+
+
+    The article is https://unfinishablemap.org/apex/dualism-cartography/, a synthesis
+    piece last substantively revised on 2026-07-26. Search indexes lag 24-48 hours,
+    so read the live page and the changelog at https://unfinishablemap.org/workflow/changelog/
+    rather than relying on cached results.
+
+
+    Audit four things: whether its central claims rest on sufficient evidence; whether
+    the literature it cites is accurately represented, current, and correctly attributed;
+    where it brackets a contested question by assumption in a way that shields the
+    site''s commitments from real challenge; and which strong counterarguments or
+    competing frameworks it leaves untested. Quote only wording you have actually
+    retrieved from a page you opened - never reconstruct a quotation from memory.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit dualism-cartography
+  subject_articles:
+  - apex/dualism-cartography.md
+  subject_source: fallback:recent-aged
