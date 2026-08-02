@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T02:36:54+00:00'
+ai_modified: '2026-08-02T02:43:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 02:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/dualism]] (task anchor) + 5 further loci in the same defect family
+- **Defect**: the Kripke `Naming and Necessity` **year/publisher tuple**, not the year. `1972` alone is correct (the Davidson & Harman *Semantics of Natural Language* chapter, D. Reidel, pp. 253–355); `1980` alone is correct (the Harvard University Press standalone book). `1972` **paired with** `Harvard University Press` attaches the chapter's year to the book's publisher and is internally inconsistent. No corpus-wide year normalisation was performed — only the mismatched pairing was fixed.
+- **Loci fixed (6, all `1972` → `1980`, publisher unchanged)**: `obsidian/concepts/dualism.md` L234 · `obsidian/topics/arguments-against-materialism.md` L168 · `archive/concepts/the-case-for-dualism.md` L206 · `archive/concepts/arguments-against-materialism.md` L245 · `obsidian/research/arguments-against-materialism-2026-01-06.md` L235 · **`hugo/content/workflow/research/arguments-against-materialism-2026-01-06.md` L532** — the last was not on the dispatched loci list: it is a *tracked, orphaned Hugo file with no `obsidian/` source*, so sync neither regenerates nor deletes it, yet it builds and serves publicly. Found by widening the final sweep to the `hugo/content/workflow/` tree.
+- **Form chosen**: all six carry flat single-line references, so the single-line `1980 … Harvard University Press` target was correct; a dual Reidel/Harvard entry would have been out of register. Form copied verbatim from the canonical dual entry at `obsidian/concepts/kripke-a-posteriori-necessity-argument.md` L78–L79; publication history already WEB-VERIFIED at `obsidian/research/kripke-a-posteriori-necessity-argument-2026-07-12.md` L109–L110 and L146–L147 (Wikipedia + Britannica), so **no web call was made**.
+- **Judgement call — `topics/modal-structure-of-phenomenal-properties.md` L143 LEFT UNCHANGED.** It reads `Kripke, S. (1972/1980). *Naming and Necessity*. Harvard University Press.` Both prior ledgers that called this "real-correct" (`deep-review-2026-06-09` L43, `deep-review-2026-07-15` L35) were **right**, and I could not say otherwise. The slashed `1972/1980` is the standard original-publication/edition-cited convention; the publisher attaches to the *cited* edition, and 1980 — the year Harvard actually published — is present in the entry. There is no mismatch to fix. The defect is specifically a bare `1972` as the *only* year beside Harvard, which the slashed form does not instantiate. That file's L56 body prose ("in *Naming and Necessity* (1972)") carries no publisher and was untouched. Its L141 Chalmers 2006 entry belongs to a sibling task and was not touched.
+- **Also left**: `obsidian/research/kripke-a-posteriori-necessity-argument-2026-07-12.md` L14 — verified to be a **search-query log line**, not a reference entry.
+- **Ratification neutralised (2 ledgers, appended not rewritten)**: `reviews/deep-review-2026-06-26-dualism.md` L56 blessed the broken tuple as "real-correct (canon)"; `reviews/deep-review-2026-05-27-conceivability-possibility-inference.md` L35 ruled the divergence benign and concluded "No fix; no propagation needed" — the second was the ruling that actually suppressed propagation, and it was reached while inspecting a file that already read `1980 + Harvard`, never opening the files carrying the other half. Both historical verdicts are **preserved verbatim**; each now carries a dated `CORRECTION (2026-08-02)` block below it so a future reviewer grepping for precedent meets the correction alongside the endorsement. Both new wikilinks verified to resolve through sync (not stripped).
+- **Verification**: `grep -rn "Naming and Necessity" obsidian/ archive/ hugo/content/` run before and after. Post-fix, zero surviving `1972`+Harvard *reference entries*; every remaining hit is the search-query line, the deliberately-retained `1972/1980` form, or review/changelog/todo prose documenting the defect. `scripts/sync.py` run; all `hugo/content/` mirrors confirmed to agree. The only sync wikilink-strip warnings are pre-existing memory-slug links in `changelog.md` (exempt).
+- **Length**: strictly neutral — every edit is a four-digit substitution. No condense successor warranted.
+- **Attribution**: `ai_system` **held verbatim** on all seven edited files (opus-4-8 / opus-4-6 / opus-4-5 / sonnet-4-5 / opus-4-7 preserved) — citation-metadata normalisation is bookkeeping, not re-authoring. `ai_modified` bumped to a live `date -u` stamp (`2026-08-02T02:41:53+00:00`, verified strictly past against `02:41:42`). `last_deep_review` untouched everywhere.
+- **Published**: yes
 
 ## 2026-08-02 02:36 UTC - optimistic-review
 - **Status**: Success

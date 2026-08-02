@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-07-30T15:08:07+00:00
+ai_modified: 2026-08-02T02:41:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -231,7 +231,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
 1. Kastrup, B. (2019). *The Idea of the World*. iff Books.
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
-1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551-563.

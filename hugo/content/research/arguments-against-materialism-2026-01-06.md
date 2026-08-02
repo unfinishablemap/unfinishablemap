@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-01-29 13:45:00+00:00
+ai_modified: 2026-08-02 02:41:53+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-06
-date: '2026-01-29'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-01-29 13:45:00+00:00
+lastmod: 2026-08-02 02:41:53+00:00
 related_articles: []
 title: Research Notes - Arguments Against Materialism/Physicalism
 ---
@@ -236,7 +236,7 @@ This research covers the major philosophical arguments against materialism/physi
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*. https://pubmed.ncbi.nlm.nih.gov/24070914/
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-- Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+- Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://www.informationphilosopher.com/solutions/philosophers/levine/Explanatory_Gap.pdf
 - Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450. https://philosophy.uconn.edu/wp-content/uploads/sites/365/2020/03/Nagel-What-is-it-like-to-be-a-bat.pdf
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.

@@ -529,7 +529,7 @@ Based on this research, articles could explore:
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*. https://pubmed.ncbi.nlm.nih.gov/24070914/
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-- Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+- Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://www.informationphilosopher.com/solutions/philosophers/levine/Explanatory_Gap.pdf
 - Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450. https://philosophy.uconn.edu/wp-content/uploads/sites/365/2020/03/Nagel-What-is-it-like-to-be-a-bat.pdf
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.

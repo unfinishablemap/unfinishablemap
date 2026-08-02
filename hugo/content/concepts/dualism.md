@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-30 15:08:07+00:00
+ai_modified: 2026-08-02 02:41:53+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:03:13+00:00
-lastmod: 2026-07-30 15:08:07+00:00
+lastmod: 2026-08-02 02:41:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -235,7 +235,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
 1. Kastrup, B. (2019). *The Idea of the World*. iff Books.
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
-1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551-563.

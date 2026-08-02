@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 16:45:00+00:00
+ai_modified: 2026-08-02 02:41:53+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-27
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-27 16:45:00+00:00
+lastmod: 2026-08-02 02:41:53+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Conceivability-Possibility Inference
@@ -38,6 +38,8 @@ None.
 - **Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1-42.** — VERIFIED; uniform across counterfactual-void, modal-void, and imagination-void research notes. (Distinct from Yablo 1992 "Mental Causation," PR 101 — no conflation in this article.)
 
 No fabricated citations, no misattribution, no dropped qualifiers, no source/Map conflation, no self-contradiction. No deferred/pending-verification citation flags found in the two prior reviews not already covered here.
+
+**CORRECTION (2026-08-02) — the Kripke entry's "no propagation needed" conclusion is superseded.** The verdict above is left in place as the record of what was believed on 2026-05-27. Its analysis of *this* article was right: the 1980 + Harvard pairing it inspected is correct, and the bare 1972-vs-1980 divergence across the corpus is indeed a genuine bibliographic ambiguity rather than a fabrication. But the review generalised from the file in front of it and never opened the files carrying the *other* half of the divergence. The defect is not the year — it is the **tuple**. Five corpus loci paired `1972` with `Harvard University Press`, which attaches the D. Reidel chapter's year to the standalone book's publisher and is internally inconsistent. Propagation *was* needed; it was carried out on 2026-08-02 across `concepts/dualism`, `topics/arguments-against-materialism`, the two served archive bodies, and the `arguments-against-materialism` research note. Future reviewers should read this entry as "the divergence is benign, the 1972+Harvard **pairing** is not."
 
 ### Medium Issues Found
 

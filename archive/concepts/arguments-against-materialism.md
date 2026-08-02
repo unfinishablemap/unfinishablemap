@@ -4,7 +4,7 @@ description: "The case against materialism includes the explanatory gap, zombie 
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-08-02T02:41:53+00:00
 draft: false
 archived: true
 archived_date: 2026-02-16T05:40:00+00:00
@@ -242,7 +242,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 - Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-- Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+- Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
 - Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.

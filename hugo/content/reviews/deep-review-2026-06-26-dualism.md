@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-26
-ai_modified: 2026-06-26 01:12:56+00:00
+ai_modified: 2026-08-02 02:41:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-06-26
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-06-26 01:12:56+00:00
+lastmod: 2026-08-02 02:41:53+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Dualism
@@ -67,6 +67,8 @@ Full ledger from the verification subagent (publisher of record: journal DOI pag
 - Tallis 2024 (The illusion of illusionism, Philosophy Now) — real-correct (quote "misrepresentation presupposes presentation" verbatim, Issue 161)
 - Tegmark 2000 (Quantum decoherence in brain) — real-correct (Phys Rev E 61:4194-4206)
 - Zanotti 2021 (Physicalism and the burden of parsimony) — real-correct (Synthese 199:11109-11132)
+
+**CORRECTION (2026-08-02) — the Kripke entry above is superseded.** The ledger line `Kripke 1972 (Naming and Necessity, Harvard) — real-correct (canon)` is left in place as the record of what was believed on 2026-06-26, but its verdict was **wrong**. `1972` and `Harvard University Press` are each correct in isolation and wrong *as a pair*: 1972 is the D. Reidel chapter in Davidson & Harman (Eds.), *Semantics of Natural Language* (pp. 253–355); the Harvard University Press standalone book is **1980**. The year/publisher tuple was internally inconsistent. The article's References entry has been corrected to `Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.` See [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) (References, entries 1–2) for the canonical dual form, and [kripke-a-posteriori-necessity-argument-2026-07-12](/research/kripke-a-posteriori-necessity-argument-2026-07-12/) for the web-verified publication history. Future reviewers grepping this ledger for precedent should treat the 1972+Harvard pairing as a **known defect**, not as canon.
 
 **Direct quotes:**
 - Jackson "should be addressed really seriously if you are a physicalist" — verified faithful (Dec 2023 Philosophers' Magazine interview); no false year claimed.

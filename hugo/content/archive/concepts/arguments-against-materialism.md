@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-30 15:14:45+00:00
+ai_modified: 2026-08-02 02:41:53+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Case for Dualism
 archived: true
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 18:09:00+00:00
-lastmod: 2026-07-30 15:14:45+00:00
+lastmod: 2026-08-02 02:41:53+00:00
 modified: *id001
 original_path: /concepts/arguments-against-materialism/
 related_articles:
@@ -245,7 +245,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 - Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-- Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+- Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
 - Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
