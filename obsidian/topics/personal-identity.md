@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-30T17:03:11+00:00
+ai_modified: 2026-08-02T12:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,7 +99,7 @@ The starting point is phenomenological: introspection reveals what seems like ir
 
 4. **The past-self argument**: The [[inaccessible-past]] reveals that we cannot access past conscious states, only reconstruct them from traces. If experience were merely information, memory could preserve it completely; that it cannot suggests experience involves the haecceity of *undergoing* rather than *representing*.
 
-**The error theory worry**: Could the sense of haecceity be a cognitive illusion? If so, what is having that illusion? This "seeming requires a subject" regress is engaged in full in [[#the-illusionist-challenge|The Illusionist Challenge]] below; the point relevant here is that the error-theorist still owes an account of what undergoes the illusion.
+**The error theory worry**: Could the sense of haecceity be a cognitive illusion? The reply usually offered—that a seeming requires a subject to whom it seems—is weaker than it looks; [[#the-illusionist-challenge|The Illusionist Challenge]] below explains why, and what pressure survives it.
 
 This doesn't prove haecceity with certainty, but it shifts the burden: anti-haecceitists must explain why the phenomenological evidence misleads, not merely assert that it does.
 
@@ -143,15 +143,15 @@ General anaesthesia sharpens the challenge. Unlike dreamless sleep, it typically
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that phenomenal consciousness is itself an illusion—the brain represents itself as having qualitative states it doesn't actually possess. If so, what exactly persists through time?
+[[illusionism|Illusionists]] argue that phenomenal consciousness *as traditionally conceived* is an illusion—the brain represents itself as having qualitative states it doesn't actually possess. If so, what exactly persists through time?
 
-The illusionist position faces what the Map takes to be a fundamental problem: for something to *seem* a certain way, there must be a subject to whom it seems. Even if my sense of being a continuous self is cognitive construction, *something* is having that sense; the dissolution must happen *somewhere*, to *someone*. This "seeming requires a subject" regress is the Map's primary reply to both illusionism and anti-haecceitism.
+The standard reply is Tallis's regress (2011): for something to *seem* a certain way, there must be a subject to whom it seems, so even if my sense of being a continuous self is cognitive construction, *something* is having that sense. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of what makes *this* persisting subject *this* one for the question of why a self-model *seems* to deliver such a fact, and that trade earns its keep only if the second question is tractable where the first was not.
 
-The deflationary rebuttal (Dennett 1991; Frankish 2016) is that the "subject to whom it seems" is itself represented content—a center of narrative gravity the brain models, not a metaphysically primitive experiencer—so pointing to "the one for whom it seems" just points back into the model. The Map's response is a dilemma: this move either stops the regress or it does not. If the represented "subject" is itself only a further seeming, then *that* seeming requires something for which it is a seeming, and the account has relabelled the regress rather than halted it. If instead representational tokening can occur with no subject for whom anything is like anything—representation "all the way down"—then the position is eliminativism about phenomenal consciousness, not a deflation of the subject, and inherits eliminativism's burden (engaged in [[illusionism]] and, on the regress specifically, in [[apophatic-cartography]]). The Map does not claim to refute the deflationary reading on its own terms—a deflationist prepared to deny there is anything it is like to undergo the seeming can hold the line consistently. The narrower claim is that the regress is not answered by *relabelling* the subject as content, and the only stable terminus is a commitment illusionism must deny: experience occurs, and its occurring is for someone. That is a genuine framework-boundary disagreement.
+Dennett (1991) and Frankish (2016) press the deflation further: the "subject to whom it seems" is itself represented content—a centre of narrative gravity the brain models, not a metaphysically primitive experiencer—so pointing to "the one for whom it seems" points back into the model. What survives is not the regress but a question about the terminus. If representational tokening can occur with no subject for whom anything is like anything, the position is eliminativism about phenomenal consciousness rather than a deflation of the subject, and inherits eliminativism's burden (engaged in [[illusionism]] and, on the regress specifically, in [[apophatic-cartography]]). A deflationist prepared to deny there is anything it is like to undergo the seeming can hold that line consistently. Neither side closes the case against the other inside the rival's framework.
 
 The further point is dialectical rather than metaphysical: the illusionist arguing against personal identity must, in practice, assume their own identity throughout—*this* illusionist expects *you* to follow *their* reasoning—though a deflationist will reply, consistently with the above, that this means "most naturally described in first-person terms," not "logically requires a primitive subject."
 
-Could the sense of haecceity specifically be a cognitive illusion—evolution wiring us to resist destruction? Three considerations are offered against this, none decisive: (1) the error theory still requires a subject whose intuitions are being explained (the regress above), so it does not obviously dissolve the particularity it targets; (2) the intuition discriminates between teletransportation and ordinary death in ways mere survival instinct wouldn't predict—though an eliminativist will reply this just describes how a death-avoidance circuit fires; (3) unlike other self-related intuitions we've revised, the haecceity intuition persists through reflection—suggestive but not probative, since a deeply-wired non-referring representation would feel exactly this stable. The most this earns is that the intuition is not easily corrected away, not that it tracks a particular.
+Could the sense of haecceity specifically be a cognitive illusion—evolution wiring us to resist destruction? Three considerations are offered against this, none decisive: (1) the regress reply above does not dissolve the error theory, though the relocated question—why a self-model *seems* to deliver particularity—is no more tractable than the one it replaces; (2) the intuition discriminates between teletransportation and ordinary death in ways mere survival instinct wouldn't predict—though an eliminativist will reply this just describes how a death-avoidance circuit fires; (3) unlike other self-related intuitions we've revised, the haecceity intuition persists through reflection—suggestive but not probative, since a deeply-wired non-referring representation would feel exactly this stable. The most this earns is that the intuition is not easily corrected away, not that it tracks a particular.
 
 ## The Decoherence Challenge
 
@@ -228,6 +228,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
 1. Nagel, T. (1971). "Brain Bisection and the Unity of Consciousness." *Synthese*, 22(3-4), 396-413.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.

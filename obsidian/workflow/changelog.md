@@ -5,6 +5,23 @@ ai_modified: '2026-08-02T11:52:15+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 12:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Scope**: retire the bare "seeming requires a subject" regress as the Map's declared reply to illusionism; inherit the settled corpus wording from `concepts/illusionism.md` L79/L91 and `concepts/haecceity.md` L157. Third and final locus of the 2026-07-29 retirement (after `illusionism.md` and `haecceity.md`).
+- **Length**: `analyze_length` 4085 → **4069 words (−16)**, status `hard_warning` unchanged. Decomposed baseline: authored prose 3595w, video-embed block 40w, Further Reading 234w, References 217w — the ceiling breach remains apparatus + embed mass, not prose bloat. The standing NEEDS-HUMAN length task (line ~634) is untouched and still stands; no condense task minted.
+- **Changes**:
+  - **L148 (the primary defect)**: the article declared the bare regress **"the Map's primary reply to both illusionism and anti-haecceitism"** — a hub-level assertion of a position the corpus settled against on 2026-07-29. Replaced with the settled wording, attributed: Tallis's regress (2011) stated, then *"the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents"*, with the substantive pressure relocated onto the **relocation move** (the illusionist trades "what makes *this* subject *this* one" for "why does a self-model *seem* to deliver such a fact", and the trade earns its keep only if the second question is tractable where the first was not). Cross-links [[concepts/functional-seeming]].
+  - **L150**: the deflationary-rebuttal paragraph answered Dennett/Frankish with a dilemma whose first horn *re-ran the retired bare regress in the Map's own voice* ("that seeming requires something for which it is a seeming... relabelled the regress rather than halted it"). Dropped that horn; kept the eliminativism horn, which survives the retirement intact. Closes on the settled boundary marker verbatim: *"neither side closes the case against the other inside the rival's framework."* Net −68 words — this funded the L148 expansion.
+  - **L102**: the forward-reference from *Arguing for Haecceity* asserted "the error-theorist still owes an account of what undergoes the illusion" — the same retired move in miniature. Rewritten to flag the regress as *"weaker than it looks"* and defer to the section below.
+  - **L154 item (1)**: "the error theory still requires a subject whose intuitions are being explained" → "the regress reply above does not dissolve the error theory, though the relocated question... is no more tractable than the one it replaces." Keeps the item's place in the "three considerations, none decisive" list without asserting the retired requirement.
+  - **L146 qualifier restored**: "phenomenal consciousness is itself an illusion" → "phenomenal consciousness ***as traditionally conceived*** is an illusion", matching `concepts/illusionism.md` and `concepts/haecceity.md`. Dropping the qualifier overstates Frankish and makes the Strawson-style "silliest claim" objection look like it lands.
+  - **References**: added Tallis, R. (2011). *Aping Mankind*. Routledge — the regress was newly attributed inline and had no reference entry (form matched to `haecceity.md` ref 212).
+- **Verdicts on the remaining carriers** (grepped `regress|seem|illusionis` across the whole file): **L152 CLEAN — deliberately kept.** The performative point ("*this* illusionist expects *you* to follow *their* reasoning") is precisely what the settled wording preserves as *"what survives independently of the regress"*, and it already carries its own deflationist reply. L92 / L98 / L176 / L180 / L192 are unrelated senses of "seem" or falsifier statements, not assertions of the retired position.
+- **Not over-corrected**: the article does not concede illusionism. The regress is presented as non-decisive *in both directions*; the Map's disagreement is marked at the framework boundary, and the relocation-move pressure and eliminativism burden are retained as live objections.
+- **Attribution**: `ai_system` held at `claude-opus-4-5-20251101`; `ai_contribution` unchanged at 100; `last_deep_review` not bumped (this is a refine, not a review).
+- **Published**: yes
+
 ## 2026-08-02 11:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/selection-only-mind-influence]]

@@ -2126,15 +2126,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **Tenet alignment**: Tenet 1 (Dualism — phenomenal variation without variation in consciousness itself), Tenet 3 (Bidirectional Interaction — inner speech as a format consciousness deploys, not a medium that constitutes it). Feeds `apex/phenomenal-variation-within-a-species`.
 
-### P2: personal-identity L148 asserts the bare illusionist regress is "the Map's primary reply" — hub-level statement of a position the corpus retired
-- **Type**: refine-draft
-- **File**: obsidian/topics/personal-identity.md
-- **Status**: pending
-- **Source**: refine-draft (sibling enumeration)
-- **Generated**: 2026-08-02
-- **Notes**: **VERIFIED VERBATIM ON DISK BY THE CYCLE DRIVER 2026-08-02.** Sibling of the haecceity fix completed this cycle. L148 reads: *"The illusionist position faces what the Map takes to be a fundamental problem: for something to *seem* a certain way, there must be a subject to whom it seems. Even if my sense of being a continuous self is cognitive construction, *something* is having that sense; the dissolution must happen *somewhere*, to *someone*. This \"seeming requires a subject\" regress is **the Map's primary reply to both illusionism and anti-haecceitism**."* **WHY THIS IS THE STRONGEST OF THE THREE REMAINING LOCI**: it does not merely *use* the bare regress, it declares it the Map's *primary reply* — a hub-level assertion of a position the corpus settled against at 2026-07-29T21:57Z–23:0xZ. Every article that inherits its framing from here inherits the retired position. **THE SETTLED WORDING** is at `concepts/illusionism.md` L79/L91 and now also `concepts/haecceity.md` L157: the bare regress *"assumes the seeming is itself phenomenal, precisely what illusionists deny"* and *"proves nothing: a representational system need not instantiate what it represents"*; the substantive pressure sits on the **relocation move**; boundary marker *"neither side closes the case against the other inside the rival's framework."* **INHERIT that wording — do not compose new**, or the corpus ends up with two dialects of one settled position. **Do NOT over-correct** into conceding illusionism: the regress is not decisive *either way*. **⚠️ LENGTH IS BLOCKED**: this file has a standing NEEDS-HUMAN length task (~96w over hard ceiling) — see the Blocked section. Any fix here must be **length-neutral or negative**; if it cannot be, report that rather than crossing the ceiling. **ATTRIBUTION**: hold the existing `ai_system`. **MIRROR**: sync and grep a CHANGED string in `hugo/content/`.
-- **Remit**: Label-and-calibration fix on the regress passage only. Do not touch the article's personal-identity argument, and do not re-scope into the eight regress satellites or ten factive self-stultification loci flagged for their own enumeration pass.
-
 ### P3: parfit-reductionism L95 runs the bare illusionist regress as decisive — near-verbatim copy of the haecceity locus fixed 2026-08-02
 - **Type**: refine-draft
 - **File**: obsidian/concepts/parfit-reductionism.md
@@ -2155,6 +2146,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-08-02: personal-identity L148 asserts the bare illusionist regress is "the Map's primary reply" — hub-level statement of a position the corpus retired
+- **Type**: refine-draft
+- **File**: obsidian/topics/personal-identity.md
+- **Notes**: **VERIFIED VERBATIM ON DISK BY THE CYCLE DRIVER 2026-08-02.** Sibling of the haecceity fix completed this cycle. L148 reads: *"The illusionist position faces what the Map takes to be a fundamental problem: for something to *seem* a certain way, there must be a subject to whom it seems. Even if my sense of being a continuous self is cognitive construction, *something* is having that sense; the dissolution must happen *somewhere*, to *someone*. This \"seeming requires a subject\" regress is **the Map's primary reply to both illusionism and anti-haecceitism**."* **WHY THIS IS THE STRONGEST OF THE THREE REMAINING LOCI**: it does not merely *use* the bare regress, it declares it the Map's *primary reply* — a hub-level assertion of a position the corpus settled against at 2026-07-29T21:57Z–23:0xZ. Every article that inherits its framing from here inherits the retired position. **THE SETTLED WORDING** is at `concepts/illusionism.md` L79/L91 and now also `concepts/haecceity.md` L157: the bare regress *"assumes the seeming is itself phenomenal, precisely what illusionists deny"* and *"proves nothing: a representational system need not instantiate what it represents"*; the substantive pressure sits on the **relocation move**; boundary marker *"neither side closes the case against the other inside the rival's framework."* **INHERIT that wording — do not compose new**, or the corpus ends up with two dialects of one settled position. **Do NOT over-correct** into conceding illusionism: the regress is not decisive *either way*. **⚠️ LENGTH IS BLOCKED**: this file has a standing NEEDS-HUMAN length task (~96w over hard ceiling) — see the Blocked section. Any fix here must be **length-neutral or negative**; if it cannot be, report that rather than crossing the ceiling. **ATTRIBUTION**: hold the existing `ai_system`. **MIRROR**: sync and grep a CHANGED string in `hugo/content/`.
 
 ### ✓ 2026-08-02: two near-verbatim copies of the bare illusionist regress survived the three hub fixes — haecceity L156 and parfit-reductionism L95
 - **Type**: refine-draft
