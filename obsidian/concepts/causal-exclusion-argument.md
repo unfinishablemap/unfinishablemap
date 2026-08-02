@@ -1,10 +1,10 @@
 ---
 title: "Kim's Causal Exclusion Argument"
-description: "Jaegwon Kim's causal exclusion argument stated canonically: the inconsistent set, the compatibilist and interventionist replies, and dualism's three routes out."
+description: "Jaegwon Kim's causal exclusion argument stated canonically: the inconsistent set, the five mainstream replies to it, and dualism's own three routes out."
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-20T00:57:23+00:00
+ai_modified: 2026-08-02T16:46:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[objections-to-interactionism]]"
   - "[[delegatory-causation]]"
+  - "[[type-token-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
@@ -57,9 +58,13 @@ Kim's reply ("Blocking Causal Drainage") concedes the structure but argues the d
 
 ## The Responses Literature
 
-Three response families are standard, summarized here before the Map's own options. Each targets a different premise.
+Five response families are standard, summarized here before the Map's own options. Each attacks the inconsistent set at a different point; the first four preserve non-identity, and the fifth abandons it.
 
 **Compatibilist / autonomist — Karen Bennett.** Bennett (2003) attacks premise 4 by refining what "overdetermination" requires. Genuine overdetermination (the firing squad) demands that if one cause had occurred *without* the other, the effect would still have followed. Under supervenience you cannot have the mental cause without its physical base, so that counterfactual is false or only vacuously true. Mental and physical can therefore be distinct sufficient causes *without* counting as overdetermination — dissolving premise 5's bite. Critics reply that this presupposes the mental cause is genuinely sufficient in the first place, which is what the physicalist picture denies, and that "dependent overdetermination" redescribes the problem rather than removing it.
+
+**Subset / inheritance — Sydney Shoemaker, Jessica Wilson.** The subset account denies that realizer and realized are two candidate causes at all. On Shoemaker's proposal (2001; 2007), the causal powers of a realized mental property are a *proper subset* of the powers of its physical realizer. Inclusion is not competition: if M's powers are among those P bestows, P's causal relevance to behaviour includes M's rather than excluding it, and premise 4 — a principle about causal *rivals* — never engages. Wilson's powers-based version of the strategy (1999; 2011) runs the same argument over token as well as type powers. Kim's causal-inheritance principle is thus accepted rather than resisted; what gets denied is that an inherited power is thereby a disqualified one. The Map cannot take this route, for the reason that also blocks the interventionist rescues below: a proper subset of *physical* powers is available only to a property that has a physical realizer to inherit from, and mental properties that are not physically realized have no such power-set to be a subset of. That is a disagreement at the framework boundary rather than a fault found inside the account — the subset strategy may work perfectly well for the non-reductive physicalist it was built for.
+
+**Determinable–determinate — Stephen Yablo.** Yablo (1992) holds that mental properties stand to their physical realizers as determinables to determinates, the way *red* stands to *scarlet*, and that the two are therefore not causal rivals: "any credible reconstruction of the exclusion principle must respect the truism that determinates do not contend with their determinables for causal influence" (1992: 259). Which member of the pair counts as the cause is settled by *proportionality* — a cause should be neither more specific nor more general than the effect requires — and the mental property is frequently the proportional one. Critics dispute both the determination claim (Ehring 1996; Funkhouser 2006) and whether proportionality constrains causation at all. The Map declines this route on the same boundary as the subset account: a determinable is instantiated whenever any of its determinates is, so the non-rivalry is purchased by making the mental a less specific way of being physical — which is what premise 3, read as the dualist reads it, refuses.
 
 **Interventionist / difference-making — List & Menzies, Woodward.** List and Menzies (2009) recast causation as difference-making under interventions rather than sufficient causation. On this footing the exclusion principle is not a necessary truth but a contingent matter. They formulate a "new" exclusion principle running in two directions: *upward* (the realizer excludes the realized) but also, strikingly, *downward* — a higher-level property can exclude its own realizer as the cause, when the higher-level property is what makes the difference and the specific realizer is not required (realization-insensitivity). James Woodward (2015) develops the interventionist treatment further. The upshot is that some higher-level, including mental, properties are the genuine difference-makers and their microphysical realizers are not. Critics (e.g. Bermúdez and Cahen) argue difference-making does not deliver the metaphysical exclusion Kim needs denied, and that proportionality can cut the other way.
 
@@ -71,7 +76,7 @@ Against the inconsistent set, an interactionist committed to genuine mental effi
 
 1. **Deny closure (premise 2).** Straightforward interactionism holds the physical is not causally complete; mind injects influence. The cost is apparent friction with conservation laws and the empirical success of physics. A softer variant denies only *observational* closure (Saad) — physics is complete for what experiments detect, not absolutely; see [[completeness-in-physics-under-dualism]] and the [[causal-closure-debate-historical-survey|history of the closure debate]].
 2. **Reject premise 5 (the two-cause route).** Some dualists hold that experience and its physical base are *both* genuine causes, denying only that the overlap is the coincidental, firing-squad kind. This is the two-cause co-causation family — counterfactual dualism (Kroedel), interventionist co-causation (Vaassen), and the older lawful-overdetermination lineage (Mills, Lowe) — developed in [[interventionist-and-counterfactual-dualism]]. The route divides on *how* it rejects premise 5. The overdeterminist branch accepts the overdetermination and argues a supervenience-lawful convergence makes it benign — Mills defends this directly, and Kroedel offers it as one of two options. Vaassen's interventionist branch answers differently: because difference-making is not energy competition, experience and base are both causes without generating the double-sufficient-cause overlap premise 5 targets, so on its own terms there is no overdetermination to excuse.
-3. **Locate the mental cause where physics is genuinely insufficient.** The Map's preferred route denies premise 2's *sufficiency* at a specific joint rather than everywhere. At quantum indeterminacies, physics fixes probabilities but not which outcome actualizes, so there is no *sufficient* physical cause of the specific outcome for a mental cause to be redundant to. There is nothing to exclude because the exclusion principle's "screening-off" premise presupposes a sufficient physical cause that, at that joint, does not exist. The [[delegatory-causation|delegatory-preemption]] reply is a complementary, quantum-independent option: only one cause operates over the preempted causal subset.
+3. **Locate the mental cause where physics is genuinely insufficient.** The Map's preferred route denies premise 2's *sufficiency* at a specific joint rather than everywhere. At quantum indeterminacies, physics fixes probabilities but not which outcome actualizes, so there is no *sufficient* physical cause of the specific outcome for a mental cause to be redundant to. There is nothing to exclude because the exclusion principle's "screening-off" premise presupposes a sufficient physical cause that, at that joint, does not exist. The claim is token-level: physics fixes the statistics of the type and leaves the particular outcome open, which is where [[type-token-causation|the type/token distinction]] does its work. The [[delegatory-causation|delegatory-preemption]] reply is a complementary, quantum-independent option: only one cause operates over the preempted causal subset.
 
 ## Relation to Site Perspective
 
@@ -99,6 +104,7 @@ Which of the three dualist options connects a particular mind to a particular bo
 - [[epiphenomenalism]] — The horn the argument tries to force
 - [[reductionism]] — The other horn, which Kim himself takes
 - [[delegatory-causation]] — The quantum-independent preemption reply
+- [[type-token-causation]] — Why the Map's route-3 claim is token-level, not type-level
 - [[galilean-exclusion]] — A different "exclusion" (Galileo on secondary qualities), not to be conflated
 - [[tenets]] — The Map's foundational commitments
 
@@ -112,5 +118,10 @@ Which of the three dualist options connects a particular mind to a particular bo
 1. Block, N. (2003). "Do Causal Powers Drain Away?" *Philosophy and Phenomenological Research* 67(1): 133–150.
 1. List, C., & Menzies, P. (2009). "Nonreductive Physicalism and the Limits of the Exclusion Principle." *Journal of Philosophy* 106(9): 475–502.
 1. Woodward, J. (2015). "Interventionism and Causal Exclusion." *Philosophy and Phenomenological Research* 91(2): 303–347.
+1. Shoemaker, S. (2001). "Realization and Mental Causation." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*, Cambridge University Press, pp. 74–98.
+1. Shoemaker, S. (2007). *Physical Realization*. Oxford University Press.
+1. Wilson, J. (1999). "How Superduper Does a Physicalist Supervenience Need to Be?" *The Philosophical Quarterly* 49(194): 33–52.
+1. Wilson, J. (2011). "Non-reductive Realization and the Powers-based Subset Strategy." *The Monist* 94(1): 121–154.
+1. Yablo, S. (1992). "Mental Causation." *The Philosophical Review* 101(2): 245–280.
 1. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
