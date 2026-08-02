@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T19:55:00+00:00'
+ai_modified: '2026-08-02T20:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 20:28 UTC - coalesce
+- **Status**: ABANDONED (no merge) — 9th consecutive abandon. Nothing archived, no article content edited.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **Abandon confirmed without re-deriving the arithmetic**, per driver instruction. Section pressure re-checked on disk only: `topics/` 319/320, `concepts/` 319/320, `voids/` 101/100 (the 101 includes the `count_section_files` sidecar miscount flagged NEEDS-HUMAN by the 2026-08-02 pass). The established measurement stands: **138 subject-matter-close pairs, 2085 arithmetic-viable, exactly 1 of 2222 both**, and that one (`occasionalism` + `quantum-divine-action`) has been refused twice. A ninth similarity metric cannot find what the intersection does not contain; six passes have recommended retiring coalesce's cap-relief mandate and that remains an operator call.
+- **Effort spent instead on a new signal: canonical-node bypass + definition drift.** Scanned all 736 live articles for the inverse of the 07-31 shingle finding — not "duplicated exposition", but "article states a definition of a concept whose canonical node states it differently". Method: for every article whose title is a multi-word technical term, count body mentions of that term in *other* articles that never wikilink the canonical node, then diff the definitions. Title-generic terms (`phenomenal consciousness`, 209 raw hits) are noise; the signal is in Map-coined terms.
+- **FINDING (one task minted, P2): four live articles describe post-decoherence selection as picking from a menu of already-prepared alternatives — the canonical node calls that exact reading a *category error*.** `concepts/post-decoherence-selection.md` L52 (added 2026-07-17, `efda01510`) holds that the improper mixture "is not a menu of already-localized, classically distinct actualities waiting for one to be picked out", and that reading it as one "is a category error: it treats an improper mixture as if it were a proper ignorance-mixture". `tenets.md` L70 has carried the matching form since the 2026-06-08 Tenet-3 calibration, and `concepts/von-neumann-wigner-interpretation.md` L94 repeats it — so **the corpus already holds the correct wording at two authority loci; this is a leaf-sweep gap, not a doctrinal question.**
+- **Drift direction established by `git log -S`, not assumed**: every defective locus was introduced 2026-03-29 → 2026-05-19, all *before* the 2026-07-17 canonical fix. The root was corrected and the leaves were never swept.
+- **Four loci, verified on disk, all mirrored live in `hugo/content/`; `archive/` clean (0 hits)**: `concepts/causal-consistency-constraint.md` L71 (sharpest — calls its menu formulation "the canonical instance", wikilinks the node that forbids it, and is cited `Argued in` by two live positions; note it was `ai_modified` earlier today and the pass did not catch this), `concepts/weak-measurement-and-post-selection.md` L100, `concepts/time-symmetric-physics.md` L128, `topics/brain-internal-born-rule-testing.md` L66 (mildest — channel-alphabet formalism, flagged fix-only-if).
+- **Four further "menu" hits examined and deliberately EXCLUDED as sound**, recorded in the task so a later sweep does not over-fix them: `prebiotic-collapse` L134 (preferred-basis selection, which decoherence genuinely does settle), `consciousness-selecting-neural-patterns` L48 ("narrowed down *without resolving*" — already careful), `interactionist-dualism` L175 and `consciousness-and-moral-agency-under-duress` L71 (channel-alphabet and neural-psychological levels, not the improper mixture).
+- **Not re-reported**: the 07-31 shingle finding on `voids/inference-void` was executed by the driver at 20:19 UTC (2986→2884w) and is resolved.
+- **References to review**: none (no archival performed)
+- **Queue-marking note for the driver**: `.unfin/current-queue-task.json` line_number 1915 had already drifted off its task before this pass ran, and the mint at L134 shifts everything below by ~24 lines. The title sentinel governs — confirm any "marked (line N)" is the intended task.
 
 ## 2026-08-02 20:19 UTC - refine-draft
 - **Status**: Success
