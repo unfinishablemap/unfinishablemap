@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 19:36:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Phenomenal Authority and First-Person Evidence
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-29 19:36:00+00:00
-lastmod: 2026-03-29 19:36:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 original_path: /topics/phenomenal-authority-epistemic-weight-first-person-reports/
 related_articles:
@@ -64,7 +64,7 @@ No serious philosopher defends infallibility—the claim that first-person repor
 
 **Deflated authority (heterophenomenological).** Dennett's [heterophenomenology](/concepts/heterophenomenology/) treats first-person reports as data about how things *seem*—texts to be analysed alongside behavioural and neural evidence—not as windows into phenomenal reality. Subjects are "authoritative only about how things seem to them," but how things seem may not track how things are.
 
-**Scepticism (introspective unreliability).** Schwitzgebel argues that we are "prone to gross error, even in favourable circumstances of extended reflection, about our own ongoing conscious experience" (Schwitzgebel 2008). Introspection is not merely occasionally unreliable but systematically so, even for current phenomenal states.
+**Scepticism (introspective unreliability).** Schwitzgebel argues that we are "prone to gross error, even in favorable circumstances of extended reflection, about our own ongoing conscious experience" (Schwitzgebel 2008). Introspection is not merely occasionally unreliable but systematically so, even for current phenomenal states.
 
 ## Three Layers of Authority
 

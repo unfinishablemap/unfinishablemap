@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 04:08:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-02-01
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-01 04:08:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -109,11 +109,11 @@ This research explores three positions: (1) Strong isolation—experiences are n
 - **Key points**:
   - A necessarily private language—one whose meanings only the speaker can access—would be "unintelligible to the user also"
   - The "beetle in the box" analogy: whatever is in each person's private box plays no role in the grammar of "beetle"
-  - "The essential thing about private experience is really not that each person possesses his own exemplar, but that nobody knows whether people also have this or something else"
+  - "The essential thing about private experience is really not that each person possesses his own exemplar, but that nobody knows whether other people also have this or something else"
   - Public language and shared criteria are necessary for meaningful reference—even to private experience
   - This suggests experience is always already public, or at least publicly constituted
 - **Tenet alignment**: Challenges strong isolation—meaning requires intersubjectivity, implying experience is never purely private
-- **Quote**: "The essential thing about private experience is really not that each person possesses his own exemplar, but that nobody knows whether people also have this or something else."
+- **Quote**: "The essential thing about private experience is really not that each person possesses his own exemplar, but that nobody knows whether other people also have this or something else."
 
 ### Mirror-Touch Synesthesia
 - **URL**: https://en.wikipedia.org/wiki/Mirror-touch_synesthesia

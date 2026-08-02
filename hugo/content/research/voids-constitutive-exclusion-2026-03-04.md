@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-04 14:37:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-03-04
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-03-04 14:37:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -57,7 +57,7 @@ When consciousness partly constitutes reality—rather than merely observing it�
 - **URL**: https://futurism.com/john-wheelers-participatory-universe
 - **Type**: Article (summary of Wheeler's work)
 - **Key points**:
-  - Wheeler's Participatory Anthropic Principle: "No phenomenon is a real phenomenon until it is an observed phenomenon"
+  - The Participatory Anthropic Principle (Barrow & Tipler 1986, formalising Wheeler's participatory-universe idea); Wheeler's own dictum, canonically: "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon" ("Law Without Law", 1983)
   - "Information doesn't merely describe reality—information constitutes reality" (It from Bit)
   - The delayed-choice experiment shows the path of a photon is not fixed until measurement occurs—retroactive constitution
   - Wheeler used "observer" minimally (any system capable of retaining irreversible records), but the principle extends naturally to conscious observation

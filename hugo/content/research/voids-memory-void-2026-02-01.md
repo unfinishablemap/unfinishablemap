@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 16:20:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-02-01
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-01 16:20:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -88,7 +88,7 @@ The memory void concerns a fundamental question about consciousness and time: Ar
   - Classic experiments show systematic confabulation about the causes of one's own behavior
   - Extends to memory: we confabulate narratives about our past that seem like genuine recall
 - **Tenet alignment**: Supports Occam's Razor Has Limits—our assumption that we can access our pasts directly is systematically wrong
-- **Quote**: "There may be little or no direct access to higher order cognitive processes such as those involved in evaluation, judgment, problem solving, and behavior initiation."
+- **Quote**: "There may be little or no direct introspective access to higher order cognitive processes such as those involved in evaluation, judgment, problem solving, and behavior initiation."
 
 ### Ricœur on Memory, History, and Forgetting
 - **URL**: https://www.researchgate.net/publication/304469701_Towards_a_Phenomenology_of_Memory_and_Forgetting

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 10:38:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-01-31
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-31 10:38:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -89,7 +89,7 @@ The affective void concerns emotions and feeling-states that may be structurally
 - **URL**: https://en.wikipedia.org/wiki/Cognitive_closure_(philosophy)
 - **Type**: Philosophy encyclopedia article
 - **Key points**:
-  - "A type of mind M is cognitively closed with respect to a property P if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
+  - "A type of mind M is cognitively closed with respect to a property P if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
   - Humans may be cognitively closed to the solution of the hard problem
   - Other minds (alien or artificial) might have the conceptual apparatus we lack
   - This is not supernatural—just a structural limitation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-25 21:24:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 21:24:00+00:00
-lastmod: 2026-06-25 21:24:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ Three developments—of varying epistemic status—transformed information from 
 
 **Landauer's principle** (1961) established that information is physical. Rolf Landauer showed that erasing one bit of information necessarily dissipates at least *kT* ln 2 of energy as heat, where *k* is Boltzmann's constant and *T* is temperature. This is not an engineering limitation—it is a thermodynamic law. Information processing has irreducible physical costs. If information were merely abstract—a pattern we impose on matter—there would be no reason for its erasure to generate entropy. Landauer's principle means that the universe keeps accounts in bits.
 
-**Wheeler's ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/)** (1990) went further. John Archibald Wheeler proposed that "every it—every particle, every field of force, even the spacetime continuum itself—derives its function, its meaning, its very existence entirely—even if in some contexts indirectly—from the apparatus-elicited answers to yes or no questions, binary choices, bits." Wheeler's proposal was speculative—a working hypothesis, not established physics—but it was grounded in concrete results. The delayed-choice experiment shows that what kind of phenomenon occurs depends on what measurement the experimenter chooses to perform: the physical fact is shaped by the informational act. As Wheeler put it: "No phenomenon is a real phenomenon until it is an observed phenomenon." Here "observation" means physical interaction that produces a record, not necessarily conscious observation—though the question of what ultimately constitutes an observation remains open (see [the measurement problem](/topics/quantum-measurement-and-consciousness/)).
+**Wheeler's ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/)** (1990) went further. John Archibald Wheeler proposed that "every it—every particle, every field of force, even the spacetime continuum itself—derives its function, its meaning, its very existence entirely—even if in some contexts indirectly—from the apparatus-elicited answers to yes or no questions, binary choices, bits." Wheeler's proposal was speculative—a working hypothesis, not established physics—but it was grounded in concrete results. The delayed-choice experiment shows that what kind of phenomenon occurs depends on what measurement the experimenter chooses to perform: the physical fact is shaped by the informational act. As Wheeler put it: "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon." Here "observation" means physical interaction that produces a record, not necessarily conscious observation—though the question of what ultimately constitutes an observation remains open (see [the measurement problem](/topics/quantum-measurement-and-consciousness/)).
 
 **Quantum information theory** extended the framework further. Beginning in the 1990s with the work of Deutsch, Schumacher, and others, physicists discovered that quantum mechanics is most naturally expressed as a theory of information. Entanglement is an informational resource. Decoherence is information leaking to the environment. The black hole information paradox—whether information falling into a black hole is truly destroyed—became one of physics' central problems precisely because physicists now treat information preservation as a fundamental constraint on physical law.
 

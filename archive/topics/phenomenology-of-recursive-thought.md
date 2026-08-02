@@ -4,7 +4,7 @@ description: "When thought takes itself as object, distinctive phenomenal struct
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 archived: true
 archived_date: 2026-04-04T16:37:00+00:00
@@ -68,7 +68,7 @@ When I think about the tree, there is a clean division: I am the subject, the tr
 
 This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [[self-opacity|self-reference paradox]] elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
 
-David Hume put it empirically: "I can never catch myself at any time without a perception." We find thoughts, feelings, memories—contents of consciousness but never the consciousness containing them. When we look for the looker, we find only more looking.
+David Hume put it empirically: "I never can catch myself at any time without a perception." We find thoughts, feelings, memories—contents of consciousness but never the consciousness containing them. When we look for the looker, we find only more looking.
 
 ### The Doubled Awareness
 

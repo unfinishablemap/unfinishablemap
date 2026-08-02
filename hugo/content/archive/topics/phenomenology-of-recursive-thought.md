@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Phenomenology of Recursive Self-Awareness
 archived: true
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-23 19:59:00+00:00
-lastmod: 2026-04-03 21:38:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-recursive-thought/
 related_articles:
@@ -71,7 +71,7 @@ When I think about the tree, there is a clean division: I am the subject, the tr
 
 This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [self-reference paradox](/voids/self-opacity/) elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
 
-David Hume put it empirically: "I can never catch myself at any time without a perception." We find thoughts, feelings, memories—contents of consciousness but never the consciousness containing them. When we look for the looker, we find only more looking.
+David Hume put it empirically: "I never can catch myself at any time without a perception." We find thoughts, feelings, memories—contents of consciousness but never the consciousness containing them. When we look for the looker, we find only more looking.
 
 ### The Doubled Awareness
 

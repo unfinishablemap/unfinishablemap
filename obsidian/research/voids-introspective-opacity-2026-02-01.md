@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Introspective Opacity"
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-02-01T14:51:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -61,7 +61,7 @@ Introspective opacity refers to the structural limits on consciousness observing
   - Self-reports are inferences based on implicit theories, not direct observation
   - Even when behavior is demonstrably caused by one factor, subjects attribute it to others
 - **Tenet alignment**: Strongly supports Occam's Razor Has Limits—our assumption of self-transparency is unfounded
-- **Quote**: "There may be little or no direct access to higher order cognitive processes such as those involved in evaluation, judgment, problem solving, and behavior initiation."
+- **Quote**: "There may be little or no direct introspective access to higher order cognitive processes such as those involved in evaluation, judgment, problem solving, and behavior initiation."
 
 ### Peter Carruthers: The Opacity of Mind (2011)
 - **URL**: https://global.oup.com/academic/product/the-opacity-of-mind-9780199596195

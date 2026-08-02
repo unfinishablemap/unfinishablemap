@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-23 01:29:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Measurement Problem as Philosophical Problem
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 01:29:00+00:00
-lastmod: 2026-02-23 01:29:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 original_path: /topics/measurement-problem-as-hard-problem/
 related_articles:
@@ -115,7 +115,7 @@ If the measurement problem is a species of hard problem, several consequences fo
 
 **The decoherence "solution" is parallel to functionalism.** Functionalism in philosophy of mind accounts for the structure of mental states but leaves the [explanatory-gap](/concepts/explanatory-gap/) intact—it explains functional organisation without explaining why that organisation is accompanied by experience. Decoherence accounts for the structure of measurement outcomes (basis selection, suppression of interference) but leaves the selection gap intact—it explains why certain outcomes are possible without explaining why one becomes actual. Both solve the easy problems while leaving the hard problem untouched.
 
-**Interpretations reveal unstated commitments about consciousness.** Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis—"no phenomenon is a phenomenon until it is an observed phenomenon"—follows naturally from treating the measurement problem as a hard problem instance. If first-person facts are ineliminable at measurement, then observers do not passively witness outcomes but participate in constituting them. Wheeler reached this conclusion from within physics; the structural parallel provides the philosophical rationale.
+**Interpretations reveal unstated commitments about consciousness.** Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis—"No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon"—follows naturally from treating the measurement problem as a hard problem instance. If first-person facts are ineliminable at measurement, then observers do not passively witness outcomes but participate in constituting them. Wheeler reached this conclusion from within physics; the structural parallel provides the philosophical rationale.
 
 **The "consciousness causes collapse" hypothesis is too strong.** The strong von Neumann-Wigner claim—that consciousness is the sole cause of collapse—parallels claiming that consciousness creates physical reality, a form of idealism that the Map does not endorse. The Map's position is more restrained: consciousness participates in determining which outcome becomes actual, within the constraints physics provides. This parallels interactionist dualism rather than idealism—consciousness influences the physical without constituting it entirely.
 

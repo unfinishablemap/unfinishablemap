@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Cognitive Aversion"
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-02-01T19:27:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -133,7 +133,7 @@ Cognitive aversion names a distinct phenomenon: thoughts we systematically fail 
 - **URL**: https://en.wikipedia.org/wiki/Cognitive_closure_(philosophy)
 - **Type**: Philosophy (epistemology)
 - **Key points**:
-  - McGinn: "A type of mind M is cognitively closed with respect to a property P if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
+  - McGinn: "A type of mind M is cognitively closed with respect to a property P if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
   - Closure is architectural—about the limits of what minds can conceptualize
   - Motivated avoidance is different—the concept may be formable, but motivation deflects attention
   - Closure applies to consciousness itself: we cannot understand how brain produces experience

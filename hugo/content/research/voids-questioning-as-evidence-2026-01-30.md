@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-30
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -138,7 +138,7 @@ The very fact that we can conceive of cognitive voids—that we can ask "what ca
 - **Key points**:
   - Weak Anthropic Principle: "our location in the universe is necessarily privileged to the extent of being compatible with our existence as observers"
   - "The key to the selected observer effect is that we exist to ask the question 'Why are we here?' We would not exist to ask the question unless the conditions were right"
-  - Wheeler's Participatory Anthropic Principle: "perhaps only universes with a capacity for consciousness can exist"
+  - The Participatory Anthropic Principle (Barrow & Tipler 1986, developing Wheeler's observer-participancy): "perhaps only universes with a capacity for consciousness can exist"
   - Often dismissed as tautological—but becomes non-trivial when we drop the assumption that laws must take the form we observe
   - Observer selection: we must account for bias arising from our existence requiring specific conditions
 - **Tenet alignment**: Connects to [No Many Worlds](/tenets/#no-many-worlds)—the anthropic question is asked from *this* perspective, this observer

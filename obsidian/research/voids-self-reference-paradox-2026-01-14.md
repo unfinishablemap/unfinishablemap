@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Self-Reference Paradox"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T23:30:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -52,7 +52,7 @@ Consciousness attempting to understand itself faces structural obstacles analogo
   - "The accuracy of subject reports is so poor as to suggest that introspective access is not sufficient"
   - The calibration problem: evaluating introspection's reliability requires using introspection itself
   - Boghossian's trilemma: attitudes are partly constituted by relations introspection cannot access
-  - Hume: "I can never catch myself at any time without a perception"—the self always eludes direct observation
+  - Hume: "I never can catch myself at any time without a perception"—the self always eludes direct observation
 - **Tenet alignment**: Supports Occam's Razor Has Limits—self-knowledge is far more limited than intuition suggests
 - **Quote**: "Determining introspection's actual reliability requires using introspection itself."
 

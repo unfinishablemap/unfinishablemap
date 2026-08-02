@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-03 12:00:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-21
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-06-03 12:00:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -133,10 +133,10 @@ Realizing you are wrong involves a peculiar phenomenological structure: the same
 - **Key points**:
   - Tip-of-tongue (TOT) and feeling-of-knowing (FOK) are metacognitive experiences
   - TOT is "fringe conscious"—accessible but at the edge of awareness
-  - We have "little or no direct conscious access to higher order cognitive processes"
+  - We have "little or no direct introspective access to higher order cognitive processes" (Nisbett & Wilson 1977, cited in this literature)
   - Error detection can occur automatically, independently of explicit awareness
 - **Tenet alignment**: The limits of introspection suggest cognitive closure to our own processes (Mysterianism)
-- **Quote**: "Studies confirm we have little or no direct conscious access to higher order cognitive processes."
+- **Quote**: "There may be little or no direct introspective access to higher order cognitive processes." (Nisbett & Wilson 1977, *Psychological Review* 84(3):231 — quoted in this metamemory literature)
 
 ## The Void
 
@@ -241,7 +241,7 @@ The intuition that "I can always recognize when I'm wrong" is an oversimplificat
 
 **No Many Worlds**: In Many-Worlds, there's always a branch where you "correctly" maintain the false belief. Error would be branch-relative. Our sense that we can genuinely be wrong—that there's a fact of the matter—fits better with collapse interpretations where outcomes are determined.
 
-**Mysterianism**: The limits of introspection into our own cognitive processes (we have "little or no direct conscious access") suggest cognitive closure about our own error-detection mechanisms. We can know we make errors without knowing how we detect them.
+**Mysterianism**: The limits of introspection into our own cognitive processes (we have "little or no direct introspective access") suggest cognitive closure about our own error-detection mechanisms. We can know we make errors without knowing how we detect them.
 
 ### Implications
 

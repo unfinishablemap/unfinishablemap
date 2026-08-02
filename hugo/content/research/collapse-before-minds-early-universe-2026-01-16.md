@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-16
-date: '2026-01-20'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-01-20 00:00:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 related_articles: []
 title: Research Notes - Collapse Before Minds (Early-Universe Outcome Selection)
 ---
@@ -63,8 +64,8 @@ The "collapse before minds" problem is a central objection to consciousness-base
 - **URL**: https://futurism.com/john-wheelers-participatory-universe
 - **Type**: Article
 - **Key points**:
-  - Wheeler's Participatory Anthropic Principle (PAP): observers are necessary for the universe's existence
-  - "No phenomenon is a real phenomenon until it is an observed phenomenon"
+  - The Participatory Anthropic Principle (PAP) — Barrow & Tipler 1986, developing Wheeler's observer-participancy: observers are necessary for the universe's existence
+  - "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon" (Wheeler, "Law Without Law", 1983 — canonical form; the unrestricted "no phenomenon is a *real* phenomenon" rendering is an aggregator corruption)
   - Delayed-choice experiments: measurements made after photon passage determine its earlier behavior
   - The "self-excited circuit": "Beginning with the big bang, the universe expands and cools. After eons of dynamic development, it gives rise to observership. Acts of observer-participancy—via the mechanism of the delayed-choice experiment—in turn give tangible 'reality' to the universe not only now but back to the beginning"
   - Wheeler later retreated from pure consciousness requirement: "Ordinary matter and radiation play the dominant roles"

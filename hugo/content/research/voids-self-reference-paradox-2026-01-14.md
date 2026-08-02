@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:30:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-14 23:30:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -54,7 +54,7 @@ Consciousness attempting to understand itself faces structural obstacles analogo
   - "The accuracy of subject reports is so poor as to suggest that introspective access is not sufficient"
   - The calibration problem: evaluating introspection's reliability requires using introspection itself
   - Boghossian's trilemma: attitudes are partly constituted by relations introspection cannot access
-  - Hume: "I can never catch myself at any time without a perception"—the self always eludes direct observation
+  - Hume: "I never can catch myself at any time without a perception"—the self always eludes direct observation
 - **Tenet alignment**: Supports Occam's Razor Has Limits—self-knowledge is far more limited than intuition suggests
 - **Quote**: "Determining introspection's actual reliability requires using introspection itself."
 

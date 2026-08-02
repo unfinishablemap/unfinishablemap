@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Intrinsic Nature Void"
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T02:22:51+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -75,7 +75,7 @@ Physics describes what matter *does*—mass attracts, charge repels, particles s
 - **URL**: https://en.wikipedia.org/wiki/Cognitive_closure_(philosophy)
 - **Type**: Encyclopedia
 - **Key points**:
-  - McGinn: "A type of mind M is cognitively closed with respect to a property P if... the concept-forming procedures at M's disposal cannot extend to a grasp of P"
+  - McGinn: "A type of mind M is cognitively closed with respect to a property P if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
   - Human minds may be constitutively incapable of grasping intrinsic nature
   - Closure is not a temporary shortfall but "a fixed constitutional barrier"
   - Properties can be real without being reachable from a given kind of mind

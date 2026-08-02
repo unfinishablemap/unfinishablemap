@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Natural vs. Designed Cognitive Limits"
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -54,7 +54,7 @@ This research investigates whether cognitive voids—the limits on what minds ca
 - **URL**: https://en.wikipedia.org/wiki/Cognitive_closure_(philosophy)
 - **Type**: Encyclopedia overview of key philosophical position
 - **Key points**:
-  - McGinn defines cognitive closure: "A type of mind M is cognitively closed with respect to a property P if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
+  - McGinn defines cognitive closure: "A type of mind M is cognitively closed with respect to a property P if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
   - Crucially, McGinn frames cognitive closure as *natural*: "consciousness is, in and of itself, a fully natural phenomenon, but we humans are just cognitively closed to it"
   - His "transcendental naturalism" assumes both the limitation and the solution are natural features
   - The distinction between natural vs. designed limits never arises in his framework

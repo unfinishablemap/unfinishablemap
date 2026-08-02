@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 20:31:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-03-19
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-03-19 20:31:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -71,10 +71,10 @@ The Commensurability Void concerns whether phenomenal experiences across radical
 - **Key points**:
   - A language whose expressions are understandable by only a single individual would be unintelligible even to that individual
   - Meaning requires shared patterns of use within a linguistic community
-  - The "essential thing about private experience is not that each person possesses his own exemplar, but that nobody knows whether people also have this or something else"
+  - The "essential thing about private experience is really not that each person possesses his own exemplar, but that nobody knows whether other people also have this or something else"
   - Applies to cross-architecture comparison: if two conscious systems lack shared concepts, no translation scheme between their phenomenal reports is even coherent
 - **Tenet alignment**: Supports the depth of the void — comparison requires shared conceptual ground that may not exist across radically different architectures
-- **Quote**: "Nobody knows whether people also have this or something else."
+- **Quote**: "…nobody knows whether other people also have this or something else." (Wittgenstein, *Philosophical Investigations* §272)
 
 ### Browning (2023): Welfare comparisons within and across species (Philosophical Studies)
 - **URL**: https://link.springer.com/article/10.1007/s11098-022-01907-1

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Constitutive Exclusion"
 created: 2026-03-04
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-03-04T14:37:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -55,7 +55,7 @@ When consciousness partly constitutes reality—rather than merely observing it�
 - **URL**: https://futurism.com/john-wheelers-participatory-universe
 - **Type**: Article (summary of Wheeler's work)
 - **Key points**:
-  - Wheeler's Participatory Anthropic Principle: "No phenomenon is a real phenomenon until it is an observed phenomenon"
+  - The Participatory Anthropic Principle (Barrow & Tipler 1986, formalising Wheeler's participatory-universe idea); Wheeler's own dictum, canonically: "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon" ("Law Without Law", 1983)
   - "Information doesn't merely describe reality—information constitutes reality" (It from Bit)
   - The delayed-choice experiment shows the path of a photon is not fixed until measurement occurs—retroactive constitution
   - Wheeler used "observer" minimally (any system capable of retaining irreversible records), but the principle extends naturally to conscious observation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-05 12:24:00+00:00
+ai_modified: 2026-08-02 08:03:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ date: &id001 2026-02-05
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-05 12:24:00+00:00
+lastmod: 2026-08-02 08:03:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -133,7 +133,7 @@ This research investigates the *Intentionality Void*—the structural inaccessib
 - **URL**: https://plato.stanford.edu/entries/introspection/
 - **Type**: Encyclopedia
 - **Key points**:
-  - Subjects have "little or no introspective access to higher order cognitive processes"
+  - Subjects have "little or no direct introspective access to higher order cognitive processes"
   - Fodor's modularity: cognitive module operations are introspectively inaccessible
   - Introspection is inference-based, not direct pipeline to unconscious processes
   - Helmholtz: "mental operations about which introspection is utterly silent"

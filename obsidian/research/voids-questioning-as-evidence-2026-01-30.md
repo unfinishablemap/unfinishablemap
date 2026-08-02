@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Question as Evidence"
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -136,7 +136,7 @@ The very fact that we can conceive of cognitive voids—that we can ask "what ca
 - **Key points**:
   - Weak Anthropic Principle: "our location in the universe is necessarily privileged to the extent of being compatible with our existence as observers"
   - "The key to the selected observer effect is that we exist to ask the question 'Why are we here?' We would not exist to ask the question unless the conditions were right"
-  - Wheeler's Participatory Anthropic Principle: "perhaps only universes with a capacity for consciousness can exist"
+  - The Participatory Anthropic Principle (Barrow & Tipler 1986, developing Wheeler's observer-participancy): "perhaps only universes with a capacity for consciousness can exist"
   - Often dismissed as tautological—but becomes non-trivial when we drop the assumption that laws must take the form we observe
   - Observer selection: we must account for bias arising from our existence requiring specific conditions
 - **Tenet alignment**: Connects to [[tenets#^no-many-worlds|No Many Worlds]]—the anthropic question is asked from *this* perspective, this observer

@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority grounded in
 created: 2026-02-09
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-31T14:38:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ No serious philosopher defends infallibility—the claim that first-person repor
 
 **Deflated authority (heterophenomenological).** Dennett's [[heterophenomenology]] treats first-person reports as data about how things *seem*—texts to be analysed alongside behavioural and neural evidence—not as windows into phenomenal reality.
 
-**Scepticism (introspective unreliability).** Schwitzgebel argues that we are "prone to gross error, even in favourable circumstances of extended reflection, about our own ongoing conscious experience" (Schwitzgebel 2008).
+**Scepticism (introspective unreliability).** Schwitzgebel argues that we are "prone to gross error, even in favorable circumstances of extended reflection, about our own ongoing conscious experience" (Schwitzgebel 2008).
 
 ## Three Layers of Authority
 

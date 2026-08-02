@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
-ai_modified: 2026-02-08T09:49:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 human_modified: null
 modified: 2026-02-08
 author: Andy Southgate
@@ -40,9 +40,9 @@ John Archibald Wheeler's participatory universe is the thesis that observers do 
 - **URL**: https://futurism.com/john-wheelers-participatory-universe
 - **Type**: Popular article
 - **Key points**:
-  - Comprehensive overview of Wheeler's PAP (Participatory Anthropic Principle)
+  - Comprehensive overview of the PAP (Participatory Anthropic Principle) — named and formulated by Barrow & Tipler (*The Anthropic Cosmological Principle*, 1986), building on Wheeler's participatory-universe idea
   - Covers the delayed-choice experiment, "it from bit", and the self-excited circuit diagram
-  - Wheeler quote: "no phenomenon is a real phenomenon until it is an observed phenomenon"
+  - Wheeler quote (canonical, "Law Without Law" 1983): "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon" — the widely circulated "no phenomenon is a *real* phenomenon" rendering is a quote-aggregator corruption and drops Wheeler's restriction to *elementary* quantum phenomena
   - Wheeler quote: "we are participants in bringing into being not only the near and here, but the far away and long ago"
 - **Tenet alignment**: Aligns strongly with Bidirectional Interaction (consciousness participates in physical outcomes)
 - **Quote**: "The universe does not exist 'out there' independent of all acts of observation. It is in some strange sense a participatory universe."
@@ -131,7 +131,7 @@ John Archibald Wheeler's participatory universe is the thesis that observers do 
 
 ### Wheeler's Participatory Universe (Original)
 - **Proponents**: John Archibald Wheeler
-- **Core claim**: No phenomenon is a real phenomenon until it is an observed phenomenon. The universe is constituted through acts of observer-participancy. Information ("it from bit") is the fundamental substrate of reality, extracted through measurement.
+- **Core claim**: No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon. The universe is constituted through acts of observer-participancy. Information ("it from bit") is the fundamental substrate of reality, extracted through measurement.
 - **Key arguments**:
   - The delayed-choice experiment demonstrates that present measurement choices determine past quantum behavior
   - Quantum superposition shows properties are not determined until observed

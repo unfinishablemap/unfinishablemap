@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Volitional Opacity"
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -101,7 +101,7 @@ Volitional opacity names the structural inaccessibility of the mechanisms by whi
 
 ### Colin McGinn: Cognitive Closure and Mysterianism
 - **URL**: https://en.wikipedia.org/wiki/New_mysterianism
-- "A type of mind M is cognitively closed with respect to a property P if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
+- "A type of mind M is cognitively closed with respect to a property P if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P"
 - "Unknowability does not imply non-existence. Degree of intelligibility is not degree of reality"
 - The mechanism of volition, like consciousness itself, may be cognitively closed to us
 - **Tenet alignment**: Provides theoretical framework for why the volitional mechanism might be permanently inaccessible

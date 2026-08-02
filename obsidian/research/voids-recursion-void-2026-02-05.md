@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Recursion Void"
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-05T06:24:00+00:00
+ai_modified: 2026-08-02T08:03:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -114,7 +114,7 @@ The recursion void intersects with several existing voids (self-reference-parado
 - **Key points**:
   - Introspection and its object compete for cognitive resources
   - When we try to categorize or analyze a feeling, it becomes difficult to hold that feeling fixed
-  - Subjects have "little or no introspective access to higher order cognitive processes"
+  - Subjects have "little or no direct introspective access to higher order cognitive processes"
   - Introspection gives access to mental contents but mental processes remain hidden
 - **Tenet alignment**: The opacity of introspection may explain why metacognitive recursion collapses—we lose grip on what we're examining
 - **Quote**: "Introspection and its object compete for cognitive resources in the same psychological economy."
