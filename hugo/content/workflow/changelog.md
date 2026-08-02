@@ -10,7 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-08-02 14:22 UTC - deep-review
+## 2026-08-02 14:18 UTC - positions-evolve
+- **Status**: Success — update mode, P-D3, two bookkeeping actions only
+- **File**: [arguments-for-dualism](/positions/arguments-for-dualism/) (P-D3)
+- **(a) Citation added.** [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) added to P-D3's *Argued in*. The link was withheld on 2026-08-02 because the article's §"Relation to Site Perspective" (Bidirectional Interaction) asserted *"five independent civilisations"*, contradicting P-D3's *near-independence, not a third confirmation* grading. That over-claim is now cleared: the passage reads *"those four cases amount to near-independent recurrence rather than four separate confirmations"* and anchor-links back to the article's own §Cross-Traditional Convergence, which discounts *vedanā* and *rasa* as one Indian lineage and cites P-D3 by ID as the accounting it applies. Both passages were re-read against each other and against the position before the link was inserted; they agree, and the resulting three-strand tally matches P-D3's own "*three* near-independent strands rather than two".
+- **(b) Withholding note dropped.** The final sentence of the **Updated 2026-08-02** note (recording the deliberate withholding) removed as spent. The rest of that note — the Islamic-credited / Neo-Confucian-declined assessments, settled 2026-07-30 — is unchanged and still accurate.
+- **No band move**: credence stays *moderate*, external-evidence grade stays *C*. A link addition is not new evidence.
+- **`Last reviewed` not refreshed**: it already reads 2026-08-02 from the earlier pass, and this operation is bookkeeping on a citation rather than a re-assessment of the claim's substance. No staleness clock was reset.
+- **Length**: 1628 → 1614 words (`analyze_length`, positions soft threshold 1500) — status `soft_warning` both before and after, net −14. No prose added beyond the *Argued in* entry.
+- **Residual, not actioned** (deliberately out of scope; strand assessments settled 2026-07-30): P-D3's per-strand reasoning declines the Neo-Confucian lineage partly because Wang Yangming's *liángzhī* postdates a millennium of Chan Buddhist presence, whereas the concept article's convergence section discounts only *vedanā* + *rasa* and keeps the *liángzhī* case as a separate strand. The article's hedged "near-independent recurrence" and its explicit deference to P-D3 keep the two consistent at the level of the verdict; a future pass could align the per-strand discount if it is ever worth the words.
+- **Attribution**: `ai_system` held at existing `claude-opus-5`; `ai_modified` bumped.
+- **Published**: yes (synced to `hugo/content/positions/arguments-for-dualism.md`)
+
+## 2026-08-02 14:15 UTC - deep-review
 - **Status**: Success — 2 critical citation defects found and fixed by primary-text verification; argument calibration confirmed converged, no content changes
 - **File**: [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/) (primary), [the-comic-and-humor-as-an-aesthetic-category-2026-07-09](/research/the-comic-and-humor-as-an-aesthetic-category-2026-07-09/) (upstream note corrected)
 - **Word count**: 2501 → 2540 (+39, 85% of the 3000 topics soft threshold, status `ok`)
