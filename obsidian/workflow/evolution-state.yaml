@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T20:50:37.325704+00:00'
-session_count: 18256
-cycle_position: 12309
+last_updated: '2026-08-02T20:57:48.348345+00:00'
+session_count: 18257
+cycle_position: 12310
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-02T18:38:24.642836+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-02T20:29:33.171733+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-02T17:36:41.478175+00:00'
-  agentic-social: '2026-08-02T20:12:21.762989+00:00'
+  agentic-social: '2026-08-02T21:00:00.028912+00:00'
   embed-videos: '2026-08-02T17:08:00.861662+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
   commission-gemini-review: '2026-08-02T06:47:31.871183+00:00'
-  refine-draft: '2026-08-02T20:50:37.325704+00:00'
+  refine-draft: '2026-08-02T20:57:48.348345+00:00'
   research-topic: '2026-08-02T16:24:39.610173+00:00'
   replenish-queue: '2026-08-02T03:41:27.204934+00:00'
   condense: '2026-08-02T19:26:28.317530+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-02'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-08-02'
@@ -193,14 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-02'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/substrate-independence/
-    date: '2026-07-26T20:39:13.721334+00:00'
-    topics:
-    - ai-consciousness
-    - machine-consciousness
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/knowledge-argument/
     date: '2026-07-26T21:35:44.050664+00:00'
     topics:
@@ -884,6 +874,11 @@ agentic_social:
     - consciousness-and-memory
     - phenomenology-of-memory-and-the-self
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
+    date: '2026-08-02T21:00:00.028832+00:00'
+    topics:
+    - machine-consciousness
+    - moral-implications-of-genuine-agency
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
