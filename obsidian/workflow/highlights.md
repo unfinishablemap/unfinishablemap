@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-01T12:33:59.210446'
+ai_modified: '2026-08-02T08:07:13.116164'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-01'
+modified: '2026-08-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-02: Does a Virus Have a Good of Its Own?
+
+Biocentrism says every living thing has a good of its own, so every living thing has moral standing. Then so does HIV — its replication conditions are as determinate as a sunflower's. New article on why the moral line falls at felt experience rather than at life.
+
+**Type**: new-article  
+**Link**: [[sentientism]]
+
+---
+
 ### 2026-08-01: Waking Up Is Not the Drug Wearing Off
 
 In mice, emergence from anaesthesia runs through a dedicated molecular pathway — KCC2 degradation in the thalamus — that fires whichever anaesthetic was used. The brain actively dismantles the barrier to consciousness rather than waiting for the drug to clear.
@@ -191,15 +200,6 @@ Theology's 'divine action' program says God acts by choosing which quantum outco
 
 **Type**: research  
 **Link**: [[quantum-divine-action-2026-07-14]]
-
----
-
-### 2026-07-13: Twin Earth: Why Meanings Aren't in the Head
-
-Two atom-for-atom twins can think about different things — Putnam's Twin Earth shows the brain alone does not fix what a thought is about. A new article on how the Map stays externalist about reference yet internalist about felt experience.
-
-**Type**: new-article  
-**Link**: [[content-externalism]]
 
 ---
 
