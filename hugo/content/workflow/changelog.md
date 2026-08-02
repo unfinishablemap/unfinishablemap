@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 19:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [working-memory](/concepts/working-memory/) (multi-file; see below)
+- **Scope**: COGITATE 2025 misattribution sweep — re-framing, not deletion, across the 3 named loci.
+- **Publisher re-verification (independent, this pass)**: Europe PMC full text PMCID PMC12137136 confirms **neither** "nor global broadcasting" **nor** "neither the involvement of PFC" occurs anywhere in the paper's own text. Confirmed verbatim in the consortium's abstract: results "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories"; content information found in "visual, ventrotemporal and inferior frontal cortex"; for IIT, "a lack of sustained synchronization within the posterior cortex". Lamme 2006 abstract re-verified at Europe PMC (PMID 16997611) — the four replacement spans are verbatim; "has fooled us into thinking we know what we are conscious of" is confirmed **absent** from the abstract.
+- **Changes**:
+  - `concepts/working-memory.md` L119 — the quote no longer attributes to "the Cogitate Consortium (2025) ... reported that". Re-attributed to the IIT proponents' supplementary interpretation; the consortium's own abstract summary and the inferior-frontal content finding now stand in its place. The downstream inference was re-scoped: the article now claims the *challenge to broadcasting*, not a posterior-sufficiency finding. Framing inherited from the already-fixed [recurrent-processing-theory](/concepts/recurrent-processing-theory/) L63.
+  - `topics/consciousness-and-the-metaphysics-of-composition.md` L71 — "posterior cortex proved sufficient for conscious content, aligning with one IIT prediction" re-attributed to the supplement; the existing no-sustained-posterior-synchronization counterweight upgraded to the consortium's verbatim wording. Mixed-verdict conclusion preserved.
+  - `research/recurrent-processing-theory-of-consciousness-2026-07-11.md` L79 — the propagating source. Bullet rewritten to the consortium's own summary plus an explicit **Attribution caution**. **L81 `Relevance to RPT` also re-scoped** (not in the original locus list, but it rested entirely on the withdrawn posterior-sufficiency / PFC-not-necessary reading): now records the bearing on RPT as *mixed rather than supportive*, matching the corrected article.
+  - `research/...-2026-07-11.md` L47 — unverified Lamme 2006 quote replaced with abstract-verbatim spans; a **Withdrawn quote** note records why and forbids reintroduction. Not called fabricated on a failed-fetch premise (`tallis-misrepresentation-quote-propagation`).
+- **Length**: `working-memory.md` 3685 -> 3747 words (**+62**), pre-existing `hard_warning` against the 3500 concepts hard threshold — over before this pass, not caused by it. Tightened after first draft (3757 -> 3747) to hold the delta down; re-framing cannot be done by pure substitution because the provenance clause is new information. `metaphysics-of-composition.md` 4005 -> 4059 (+54, `hard_warning`, had room per task note).
+- **Attribution**: each file's existing `ai_system` held unchanged (opus-4-5 / opus-4-6 / opus-4-8) — re-attribution is correction, not authoring. `ai_modified` bumped to a `date -u`-checked 2026-08-02T19:10:50+00:00.
+- **Mirror**: `scripts/sync.py` run; all three changed strings confirmed present in `hugo/content/`. Post-fix grep of the four defect patterns across `obsidian/`, `archive/` and `hugo/content/` returns only fixed framings (each naming the supplement) plus the model article. `archive/` clean, as the driver reported.
+- **Published**: yes
+
 ## 2026-08-02 18:58 UTC - deep-review
 - **Status**: Success
 - **File**: [recurrent-processing-theory](/concepts/recurrent-processing-theory/)

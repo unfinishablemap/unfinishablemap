@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-11T11:05:00+00:00
-ai_modified: 2026-07-11T11:05:00+00:00
+ai_modified: 2026-08-02T19:10:50+00:00
 ---
 
 # Research: Recurrent Processing Theory of Consciousness
@@ -44,7 +44,8 @@ Recurrent Processing Theory (RPT), developed by Dutch neuroscientist Victor Lamm
 - **Publisher verification**: CONFIRMED at Cell — title, journal, volume 10, pages 494–501, DOI as above. (Note: some secondary reference lists mis-render the title as "…neural stance *in* consciousness"; the publisher title uses "on.")
 - **Key points**:
   - Argues neural and behavioral measures should be put on **equal footing** rather than treating introspection/report as the gold standard to which neural data must be fit.
-  - Contends the report-anchored approach "has fooled us into thinking we know what we are conscious of."
+  - Contends that treating "introspective or behavioral observations" as "the gold standard, to which neural measures should be fitted" poses "serious problems for understanding the mind-brain relationship."
+  - ⚠️ **Withdrawn quote**: an earlier version of this note recorded Lamme as contending the report-anchored approach "has fooled us into thinking we know what we are conscious of." That phrase is **absent from the verified Europe PMC abstract (PMID 16997611)** and the Cell full text 403s, so it could not be confirmed at the publisher of record. It is **not** being called fabricated on a failed-fetch premise — it is simply unverified, and has been replaced above with abstract-verbatim spans. Do not reintroduce it.
   - Positions recurrent processing as the neural criterion for consciousness even where report is absent.
 - **Tenet alignment**: Conflicts with Tenet 1 (reductive neural definition of consciousness). Methodologically interesting to the Map: decoupling consciousness from report is congenial to phenomenal-overflow intuitions.
 
@@ -76,9 +77,10 @@ Recurrent Processing Theory (RPT), developed by Dutch neuroscientist Victor Lamm
 - **Publisher verification**: CONFIRMED at Nature/PubMed — *Nature* Vol. 642, No. 8066, pp. 133–142, 5 June 2025.
 - **Key points**:
   - n = 256; suprathreshold stimuli of variable duration measured with fMRI, MEG, and iEEG.
-  - Results corroborate IIT's claim that **posterior cortical areas ("hot zone") are sufficient** for conscious content; neither PFC involvement nor global broadcasting was necessary.
-  - Challenges BOTH theories: IIT's predicted sustained posterior synchronization was absent; GNWT's predicted prefrontal "ignition" at stimulus offset was largely absent.
-- **Relevance to RPT**: **Adjacent but distinct.** COGITATE tested IIT vs GNWT, NOT RPT directly. But its posterior-sufficiency / PFC-not-necessary finding is broadly consonant with RPT's local, first-order, sensory-cortex emphasis and against strong prefrontal-broadcast requirements. Present as supporting context, not as a test of RPT.
+  - Consortium's own summary: the results "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories." Content information was found in "visual, ventrotemporal **and inferior frontal cortex**."
+  - Challenges BOTH theories: for IIT, "a lack of sustained synchronization within the posterior cortex" contradicts the claim that network connectivity specifies consciousness; for GNWT, the predicted prefrontal "ignition" at stimulus offset was largely absent.
+  - ⚠️ **Attribution caution**: the widely circulated line that **posterior cortical areas are "sufficient"** for conscious content and that "neither the involvement of PFC nor global broadcasting are necessary" does **not** occur in the paper's own text (checked against Europe PMC full text, **PMCID PMC12137136**). Both phrases come from the **IIT proponents' supplementary interpretation** — one adversary's reading offered inside an adversarial collaboration. Quotable, but must be attributed to that supplement, never to the Consortium.
+- **Relevance to RPT**: **Adjacent but distinct.** COGITATE tested IIT vs GNWT, NOT RPT directly, and its bearing on RPT is **mixed rather than supportive**. In RPT's favour: GNWT was pressured by the general lack of ignition at stimulus offset and by limited prefrontal representation of conscious dimensions — the access-locus RPT denies is constitutive. Against RPT: the study's most direct negative result, "a lack of sustained synchronization within the posterior cortex," targets exactly the sustained posterior recurrence RPT proposes as its mechanism, and the content-selective connectivity found ran between early visual areas and inferior frontal and parietal sites. Present as mixed context, not as support for RPT — and do **not** route the withdrawn posterior-sufficiency reading (above) into an RPT endorsement.
 
 ## Major Positions
 

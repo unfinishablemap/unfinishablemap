@@ -4,7 +4,7 @@ description: "Working memory manipulation is far more tightly bound to conscious
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-08-02T18:16:48+00:00
+ai_modified: 2026-08-02T19:10:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -116,7 +116,7 @@ The 100ms–5s "experienced moment" in temporal perception corresponds precisely
 
 ## Working Memory and Global Workspace Theory
 
-[[global-workspace-theory|Global Workspace Theory]] (GWT) treats the global workspace as a form of working memory, with information "broadcast" to specialised processors. The COGITATE adversarial collaboration tested this picture directly and largely declined to confirm it: the Cogitate Consortium (2025) decoded conscious content maximally from *posterior* cortex and reported that "neither the involvement of PFC nor global broadcasting are necessary," challenging the prefrontal-broadcasting prediction GWT depends on. The result is more naturally read as locating conscious content posteriorly while leaving prefrontal regions a role in control and report rather than in constituting consciousness. That division of labour still fits the Map's framework—attention-as-interface operates where holding and manipulation systems meet—but the framework should claim the posterior-content finding, not a GWT vindication the data did not deliver.
+[[global-workspace-theory|Global Workspace Theory]] (GWT) treats the global workspace as a form of working memory, with information "broadcast" to specialised processors. The COGITATE adversarial collaboration tested this picture directly and largely declined to confirm it: the Cogitate Consortium (2025) reported results that "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories," with GNWT's predicted prefrontal ignition at stimulus offset largely absent. The frequently repeated line that "neither the involvement of PFC nor global broadcasting are necessary" is not the consortium's; it comes from the IIT proponents' supplementary interpretation, one adversary's reading offered inside an adversarial collaboration. The consortium itself found conscious content in "visual, ventrotemporal and inferior frontal cortex," so the clean posterior verdict often credited to it is not what it reported. What survives still fits the Map's framework: the broadcasting prediction GWT depends on was challenged, leaving prefrontal regions a role in control and report the study did not establish as constitutive, and attention-as-interface operates where holding and manipulation systems meet. But the framework should claim that challenge, not a posterior-sufficiency finding the data did not deliver.
 
 ## Connection to Binding
 
