@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T02:25:04+00:00'
+ai_modified: '2026-08-02T02:36:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 02:25:04+00:00
+lastmod: 2026-08-02 02:36:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 02:36 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the language-and-consciousness cluster — `topics/language-recursion-and-consciousness`, `topics/consciousness-and-language-interface`, `topics/philosophy-of-language-under-dualism`, `topics/phenomenology-of-linguistic-failure`, `concepts/language-and-consciousness`, `voids/language-thought-boundary`, `voids/recursion-void` (partial), plus `apex/minds-without-words` read as an adjacency check
+- **Output**: [optimistic-2026-08-02-language-consciousness-cluster](/reviews/optimistic-2026-08-02-language-consciousness-cluster/)
+- **Subject selection**: the cluster has never had an optimistic review — `ls obsidian/reviews/ | grep -iE 'optimistic.*(language|word|linguist|recursion)'` returns zero, against 15 deep-reviews and 3 apex-evolves on the same articles. Nearest prior coverage was `optimistic-2026-07-20-substrate-machine-consciousness-cluster` (different question, different evidence).
+- **Headline praise**: `language-recursion-and-consciousness` splits its argument into a framework-neutral empirical stage (recursion requires *access* consciousness) and a separately-grounded dualist stage (that access is phenomenally realised), declares in the lead that "the evidence carries the first stage but not the second", and honours the split downstream. It then declines three separate invitations to let framework-friendliness substitute for evidence — Whitehead's prehension parallel is called "illustrative, not load-bearing"; the Buddhist apoha material is "offered as illustration not support" with the concession that the tradition cuts against the Map's own phenomenal-intentionality thesis; the quantum link is "deliberately kept thin to avoid the 'wishful physics' charge". The Process Philosopher / Hardline Empiricist tension is resolved honestly inside single sections rather than deferred to a caveat. `consciousness-and-language-interface` matches it at the point of maximum temptation, refusing LLMs as evidence for separability because "using them that way would presuppose the answer to the very question at issue".
+- **Calibration concern (flagged, not praised)**: the cluster states the LLM verdict at three incompatible strengths. `consciousness-and-language-interface` L86/L90 holds the question "genuinely open"; `philosophy-of-language-under-dualism` L68/L72 runs a section headed "LLMs as Approximate Zombies" asserting that LLMs "demonstrate what the zombie argument predicts", which is precisely the inference its sibling declares illegitimate; `language-recursion-and-consciousness` L120 states flatly "which the Map holds they do". Meanwhile `positions/ai-consciousness-scope` P-AC1 fixes the register at *"low probability," not "ruled out"* — and **`grep -rn "positions/"` across all six cluster prose articles returns zero**, so three articles assert an AI verdict without reference to the entry that governs it.
+- **Structural finding**: eight cluster articles, 10–60 inbound links each, no orphans, a genuine cross-cutting thesis — and **no apex**. `apex/minds-without-words` was read rather than assumed to be the near-miss and is not: its subject is non-linguistic *animal and minimal-organism* consciousness (marker method, UAL, C. elegans), related to language only in that its subjects lack it.
+- **Citation finding**: `anendophasia` does dissociation work against the Dennett/Carruthers/Vygotskian constitutive view in two live articles and is **uncited anywhere in `obsidian/` or `archive/`**. The 2026-06-09 deep review of the interface article recorded the absence ("none of those are cited") and closed on the narrower finding that nothing *fabricated* was present — whether a term carrying argumentative weight is *sourced* is a different question from whether its citation is *accurate*, and only the second was asked.
+- **Tasks added**: 4 × P3 — refine-draft on `philosophy-of-language-under-dualism` (LLM-verdict recalibration across three files + link the positions register); refine-draft on `consciousness-and-language-interface` (anendophasia citation, two files, verify at publisher before adding); apex-evolve (new language-consciousness apex); expand-topic `inner-speech-and-anendophasia`. All four verified to parse with correct `Type` and `File` (`parse_tasks` → REFINE_DRAFT / REFINE_DRAFT / APEX_EVOLVE / EXPAND_TOPIC, zero OTHER-typed).
+- **Deliberately not minted**: a standalone aphasia article. It is called "the strongest empirical evidence for consciousness-language separability" and already occupies three subsections of `consciousness-and-language-interface`; a separate page would duplicate an existing survey and create coalesce debt. Recorded in the review so a future replenishment pass does not read the mention-density as an uncovered gap.
+- **Queue note**: loop-pickable P0–P2 stands at 3, exactly at MIN_QUEUE. The raw heading count shows 6 P2 but three carry `#veto` and are correctly parser-excluded pending the next loop's veto sweep — not a parser defect.
+- **Content modified**: none (read-only skill; report, todo.md and changelog only)
 
 ## 2026-08-02 02:24 UTC - refine-draft
 - **Status**: Success

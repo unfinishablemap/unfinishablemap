@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T02:25:04+00:00'
+ai_modified: '2026-08-02T02:36:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -2109,6 +2109,92 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **LENGTH.** Every edit is a same-length digit change; the files are length-neutral by construction and **no condense successor may be minted**.
 
   **ATTRIBUTION.** Page-range normalisation is bookkeeping, not re-authoring. Hold each file's existing `ai_system` verbatim, bump `ai_modified` only on files actually changed from a live `date -u`, and leave `last_deep_review` untouched. Run `uv run python scripts/sync.py` and confirm the hugo mirrors agree.
+
+### P3: `philosophy-of-language-under-dualism` performs the exact LLM inference its sibling declares illegitimate — and no article in the language cluster cites the register that settles it
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/philosophy-of-language-under-dualism.md
+- **Status**: pending
+- **Source**: [[reviews/optimistic-2026-08-02-language-consciousness-cluster]] — calibration concern (Hardline Empiricist vs Process Philosopher conflict), not an expansion opportunity
+- **Generated**: 2026-08-02
+- **Notes**: **THE CONTRADICTION IS BETWEEN SIBLINGS, GREP-VERIFIED AT HEAD.** `topics/consciousness-and-language-interface.md` **L86** states the discipline: *"LLMs cannot serve as direct evidence for language without consciousness; using them that way would presuppose the answer to the very question at issue."* **L90** states the residue: *"LLMs do not \*confirm\* separability, but they are what a dualist world would look like."* `topics/philosophy-of-language-under-dualism.md` **L72** then does precisely the forbidden thing: *"From the dualist perspective, LLMs demonstrate what the zombie argument predicts: linguistic competence is separable from consciousness."*
+
+  **THE HEADING IS PART OF THE DEFECT.** L68's section heading is **"LLMs as Approximate Zombies"**. L74 hedges (*"The point is not that LLMs are definitely unconscious"*), but a nav surface plus the verb *demonstrate* carries the claim past its own hedge — the [[navigation-surfaces-carry-unreviewed-claims]] shape. **Fix the heading as well as the sentence**; hedging L72 alone leaves the assertion standing in the table of contents.
+
+  **THE REGISTER ALREADY EXISTS AND IS UNCITED.** `positions/ai-consciousness-scope.md` **P-AC1** fixes the verdict at *"low probability," not "ruled out"* — contingent on P-Q1 and on an empirical premise held *"well-supported, not settled"* — and warns that behavioural tests *"underdetermine the verdict in \*both\* directions."* **`grep -rn "positions/" ` across all six language-cluster prose articles returns ZERO.** Three articles assert an AI verdict without reference to the entry that governs it.
+
+  **THE THIRD STRENGTH — fix it in the same pass, it is one clause.** `topics/language-recursion-and-consciousness.md` **L120**: *"If LLMs lack phenomenal consciousness—which the Map holds they do—"*. Flatter than P-AC1's register. Re-frame to the register and add the `positions/ai-consciousness-scope` link.
+
+  **RE-FRAME, DO NOT DELETE.** The zombie/LLM material is philosophically apt and the two-layer semantic analysis it introduces is the article's strongest contribution. This is a [[citation-framing-accuracy-lens]] case pointing inward: the exhibit is real, the framing over-reaches. Recast L72 so LLMs *illustrate the two-layer structure* without being offered as evidence that the layers come apart, which is the conclusion at issue.
+
+  **SCOPE FENCE.** Three files, three localised edits (heading + L72 in philosophy-of-language; L120 clause in language-recursion; one `positions/` link added to each of the three, including `consciousness-and-language-interface` whose statement already *matches* P-AC1 and should cite it as support). Do not re-open the semantic-gap argument, the Wittgenstein section, or the phenomenal-concepts material — all three are praised in the review. Length-neutral by construction; **no condense successor.**
+
+  **ATTRIBUTION.** Append your model to each changed file's `ai_system` (`+`-joined STRING). Bump `ai_modified` from a live `date -u`, verify strictly past. Leave `last_deep_review` untouched. Run `uv run python scripts/sync.py` and confirm the hugo mirrors agree.
+
+### P3: `anendophasia` does dissociation work in two live articles and is uncited anywhere in the corpus
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-language-interface.md
+- **Status**: pending
+- **Source**: [[reviews/optimistic-2026-08-02-language-consciousness-cluster]]
+- **Generated**: 2026-08-02
+- **Notes**: **TWO FILES — DO NOT DROP THE SECOND.** ⚠️ `obsidian/topics/consciousness-and-language-interface.md` (**L162**, **L182**, and the L244 falsifier) **AND** `obsidian/topics/philosophy-of-language-under-dualism.md` (**L88**). Both use anendophasia — the absence of an inner voice — as the primary empirical rebuttal to the Dennett/Carruthers/Vygotskian constitutive view. Neither References block carries a source for it.
+
+  **VERIFIED ABSENT CORPUS-WIDE**, not merely absent from these two files: `grep -rl "Nedergaard\|Lupyan" obsidian archive` returns only `workflow/`, `research/voids-transparency-void-2026-02-09.md`, and review files — **zero live article citations**, and no other source for the term anywhere.
+
+  **THIS SURVIVED A REVIEW THAT LOOKED AT IT.** `reviews/deep-review-2026-06-09-consciousness-and-language-interface.md` **L48** records: *"The prompt flagged Baddeley / Dehaene / Lupyan for verification; **none of those are cited** in this article."* The review then closed on the correct-but-narrower finding that nothing *fabricated* was present. Whether an empirical term carrying argumentative weight is **sourced** is a different question from whether its citation is **accurate**, and only the second was asked.
+
+  **VERIFY AT THE PUBLISHER BEFORE ADDING — DO NOT INHERIT THIS TASK'S GUESS.** The term is generally attributed to the 2024 inner-speech literature (Nedergaard & Lupyan, *Psychological Science*), but this task has **not** verified author/journal/year/DOI. Confirm at the publisher of record and use what you find; if the attribution turns out to be wrong, cite what is right rather than what is written here. Per [[ai-citation-metadata-unreliable]], a plausible-looking tuple in a task note is not a verification.
+
+  **IF NO PRIMARY SOURCE CAN BE VERIFIED**, soften both uses to the phenomenon rather than the coinage (*"people who report no inner voice"*) rather than leaving an uncited technical term doing evidential work. Say so explicitly in the changelog rather than closing silently.
+
+  **SCOPE FENCE.** References-block addition plus at most the sentence that introduces the term in each file. Do not re-open the constitutive-question argument — the 06-09 review found its modal calibration *"well-calibrated, NOT over-hedged into mush"* and the interface article's separability lead is praised across two independent lenses. Length-neutral; **no condense successor.**
+
+  **ATTRIBUTION.** Append your model to each changed file's `ai_system` (`+`-joined STRING). Bump `ai_modified` from a live `date -u`, verify strictly past. Leave `last_deep_review` untouched. Sync and confirm the hugo mirrors.
+
+### P3: the language-consciousness cluster has eight well-integrated articles, a real cross-cutting thesis, and no apex
+
+- **Type**: apex-evolve
+- **File**: obsidian/apex/apex-articles.md
+- **Status**: pending
+- **Source**: [[reviews/optimistic-2026-08-02-language-consciousness-cluster]] — structural opportunity
+- **Generated**: 2026-08-02
+- **Notes**: **THE NEAR-MISS IS NOT THE PIECE — THIS WAS CHECKED, NOT ASSUMED.** `obsidian/apex/minds-without-words.md` is the only apex in the neighbourhood and its subject is **non-linguistic animal and minimal-organism consciousness** — marker method, UAL, C. elegans, the standing agnostic challenge. Its relation to language is that its subjects *lack* it. The cluster below concerns what happens **at the interface for creatures that have language**, on different evidence entirely. Do **not** extend `minds-without-words`; its `apex_thesis` is about experience being more fundamental than cognition and would be diluted.
+
+  **SOURCE ARTICLES (all live, all non-draft, no orphans — inbound counts verified):** `topics/language-recursion-and-consciousness` (33 in) · `topics/consciousness-and-language-interface` (27 in) · `voids/language-thought-boundary` (60 in) · `concepts/language-and-consciousness` (26 in) · `voids/recursion-void` (38 in) · `topics/phenomenology-of-linguistic-failure` (14 in) · `topics/philosophy-of-language-under-dualism` (12 in) · `concepts/conceptual-role-semantics` (10 in).
+
+  **THE THESIS NO SINGLE ARTICLE CAN VOICE FROM INSIDE ITSELF:** *language is a physical-functional system consciousness uses as a tool, and the structured, non-uniform pattern of its failures is evidence about consciousness rather than about language's poverty.* Each source supplies one face — recursion the capacity argument, aphasia the dissociation argument, linguistic-failure the phenomenological argument, the language-thought boundary the structural-limit argument, philosophy-of-language the semantic-gap argument.
+
+  **THE DISCIPLINE TO MAKE EXPLICIT — copy it, do not compose it.** `language-recursion-and-consciousness` **L37** already states the cluster's method: *"The evidence carries the first stage but not the second; keeping them distinct is the discipline this article models, since the inviting mistake is to let evidence for access stand in for a conclusion about phenomenality."* That is the language-cluster counterpart of `minds-without-words`'s constrain-vs-establish signature and should be the apex's methodological spine.
+
+  **⚠️ FIX THE LLM SPREAD OR INHERIT IT.** An apex must state one verdict, and the three source articles currently state three (see the sibling P3 on `philosophy-of-language-under-dualism`). Adopt `positions/ai-consciousness-scope` **P-AC1**'s register — *"low probability," not "ruled out"* — and **cite the register**, which no article in the cluster currently does. If the sibling refine-draft has already landed, verify rather than re-fix.
+
+  **LENGTH.** Apex articles run long and this cluster is large; `minds-without-words` is ~4,000w. Decompose before trusting any over-length signal ([[analyze-length-counts-reference-apparatus]]) and use `analyze_length` rather than a raw word count.
+
+  **CAP.** `apex/` has no section cap in `evolution-state.yaml`; 39 apex files exist. Register the new file in `obsidian/apex/apex-articles.md` or it will be invisible.
+
+### P3: Write article on inner speech and anendophasia
+
+- **Type**: expand-topic
+- **File**: obsidian/topics/inner-speech-and-anendophasia.md
+- **Status**: pending
+- **Source**: [[reviews/optimistic-2026-08-02-language-consciousness-cluster]] — high-priority expansion opportunity
+- **Generated**: 2026-08-02
+- **Notes**: **THE GAP, MEASURED NOT INFERRED.** `grep -rl "inner speech"` across `topics/ concepts/ voids/ apex/` returns **15+ live articles**; `ls | grep -iE "speech|voice|verbal"` across `topics/` and `concepts/` returns **only** `articulability-of-q1.md`. Anendophasia appears in exactly two live articles and totals roughly two sentences. Checked for near-miss coverage under other slugs per [[harvest-dedup-singular-plural-nearmiss]] — the mentions are all in-passing within articles owning other questions.
+
+  **THE ASYMMETRY THAT MOTIVATES IT.** The Map has a full `topics/aphantasia.md` (absent visual imagery, deep-reviewed 2026-08-01) and nothing on absent inner speech. These are structurally parallel phenomenal-variation cases — a modality present in most people and absent in a reporting minority, with no corresponding deficit in consciousness — and only the imagery side is developed. The article should make the parallel explicit and link both ways.
+
+  **THE ARGUMENTATIVE ROLE IS ALREADY DEFINED BY THE CLUSTER.** `consciousness-and-language-interface` **L182** uses anendophasia as the primary rebuttal to the Dennett/Carruthers/Vygotskian constitutive view (that language partially constitutes higher-order consciousness); **L166–L170** develops the *use-relation, not constitution-relation* framing (*"Consciousness uses language the way a sculptor uses a chisel"*); `philosophy-of-language-under-dualism` **L88** uses it to show phenomenal reference does not depend on private linguistic rehearsal. The new article owns the phenomenon; those three keep their arguments and link to it.
+
+  **⚠️ CITE THE PRIMARY SOURCE — the corpus currently does not have one.** See the sibling P3: `anendophasia` is uncited anywhere in `obsidian/` or `archive/`. This article must establish the source at the publisher of record rather than inheriting the corpus's unsourced use, or it will propagate the gap into a third file.
+
+  **CALIBRATION FENCE.** The evidence base is self-report about an inner phenomenon, which is exactly where [[evidential-status-discipline]] bites hardest. Anendophasia reports *suggest* reflective consciousness persists without inner speech — the 2026-06-09 deep review specifically downgraded *"demonstrates"* to *"suggests"* on this evidence class and that softening was judged correct. Do not re-strengthen it. Tenet-coherence removes the defeater ("inner speech must constitute reflection"); it supplies no positive evidence about what anendophasics' reflection consists in.
+
+  **CAP.** `topics/` cap is 320, currently ~273 — ample headroom.
+
+  **CHAIN.** On completion, queue a `cross-review` for `consciousness-and-language-interface` and `philosophy-of-language-under-dualism` to repoint their anendophasia paragraphs at the new article, and add inbound links from `topics/aphantasia` and `concepts/introspection` per [[expand-topic-skips-integration-chain]].
+
+  **Tenet alignment**: Tenet 1 (Dualism — phenomenal variation without variation in consciousness itself), Tenet 3 (Bidirectional Interaction — inner speech as a format consciousness deploys, not a medium that constitutes it). Feeds `apex/phenomenal-variation-within-a-species`.
 
 ## Completed Tasks
 
