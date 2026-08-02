@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-28 15:59:30+00:00
+ai_modified: 2026-08-02 14:28:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 15:59:30+00:00
-lastmod: 2026-07-28 15:59:30+00:00
+lastmod: 2026-08-02 14:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ The crucial honesty point, flagged in the Map's own research: the step from "aes
 
 But the same literature supplies the counter-move, and the Map presents it at full strength rather than as a foil. The field's own central worry is that pervasiveness *trivializes*: a category that applies to everything may discriminate nothing. Give that its due and a *deflationary* reading becomes available. Melchionne's routine/well-being framing and Irvin's rejection of unity both invite a functionalist gloss on which "aesthetic quality" is just ordinary affective perception — valence plus salience plus attention, each mechanistically respectable. On this reading the very ubiquity that looks like evidence is instead a sign that the aesthetic is cheap and everywhere *because* it is nothing more than ordinary valenced experience, fully tractable without dualism. On the nature side the parallel caution holds: Carlson's cognitivism offers a coherent partly observer-independent rival, and the deflationary gloss offers a way to dissolve the dispute. The Map does not think these readings are obviously correct, but they are not obviously wrong either, and neither the pervasiveness datum nor the sunset intuition decides between them. The Map's reading is a *reading*, offered at the strength the evidence licenses and no higher.
 
-One point sharpens the caution. Irvin is **dual-use**, not an ally. Her pervasiveness thesis helps the Map's premise, but the very same paper denies that everyday aesthetic experience requires *unity or closure* — and the unity of aesthetic experience is one of the five converging arguments in [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/). Enlisting Irvin for pervasiveness while ignoring that she cuts against the binding argument would be selective citation. The honest position across both subfields is that the beyond-art literature both feeds and complicates the Map's case.
+One point sharpens the caution. Irvin is **dual-use**, not an ally. Her pervasiveness thesis helps the Map's premise, but the very same paper denies that everyday aesthetic experience requires *unity or closure* — and the unity of aesthetic experience is one of the premises the case in [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) rests on. Enlisting Irvin for pervasiveness while ignoring that she cuts against the binding argument would be selective citation. The honest position across both subfields is that the beyond-art literature both feeds and complicates the Map's case.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction) — thematic only.** Saito's action-oriented, world-making picture is congenial to the Map's claim that aesthetic value moves us to reshape the physical world — we tidy, arrange, and beautify because of how things strike us aesthetically. Aesthetic response to nature has historically motivated its preservation; Brady in particular treats the intersection of aesthetic and ethical value and the role of aesthetics in conservation. The Map notes these alignments while flagging that Saito's thesis is about the *ethical and social* consequences of taste, not about mental causation or dualism; the fit is thematic, and should not be overstated into shared metaphysical commitment. The dedicated treatment of the value-grounding of preservation is [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/), which is environmental *ethics*, not aesthetics; this article does not develop the preservation link into an argument.
 
@@ -133,7 +133,7 @@ One point sharpens the caution. Irvin is **dual-use**, not an ally. Her pervasiv
 
 ## Further Reading
 
-- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The five-argument irreducibility case both halves of this article engage; its "Pervasiveness of Aesthetic Quality" section and its opening sunset intuition are the points of contact
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The irreducibility case both halves of this article engage; its "Pervasiveness of Aesthetic Quality" section and its opening sunset intuition are the points of contact
 - [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — Aesthetic value at the opposite extreme: terror, tragedy, ugliness, and the formless — the counterpart to calm natural beauty and the mundane alike
 - [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/) — Another everyday-pervasive aesthetic response, with the naturalizing rival named at full strength
 - [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/) — Why aesthetic value seems to require first-personal encounter

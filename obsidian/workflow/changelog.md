@@ -1,9 +1,63 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T14:22:00+00:00'
+ai_modified: '2026-08-02T14:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 14:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/aesthetics-and-consciousness]] (hub) + 5 carrier files
+- **Attribution**: every file's existing `ai_system` held unchanged (hub `claude-opus-4-6`; `aesthetics-beyond-art` `claude-opus-4-8+claude-opus-5+claude-fable-5`; `the-sublime-and-negative-aesthetics` and both archive files `claude-opus-4-8`; `contemplative-path` `claude-opus-4-7`). `ai_modified` bumped on the three `obsidian/` files edited; archive frontmatter untouched.
+- **Original score**: no numeric score — `scripts/curate.py` does not exist in this repo, so the skill's §3 review tool was unavailable. Reviewed against `reviews/pessimistic-2026-08-02-aesthetics-pair.md` Issue 7 instead, which is the finding that generated the task.
+
+### The independence audit (the substance of the pass)
+
+Read the five arguments as *this* article states them, rather than importing the spokes' "two applications of one intuition" verdict, which is computed over a different and smaller enumeration. **Result: five arguments, three premises.**
+
+1. **Constitutive holism** — *feature convergence* + *aesthetic binding*. Both run one premise at two grains: over the five phenomenal features, and over the six processing domains a Beethoven quartet recruits. The article already uses the identical phrase "mutually constitutive" in both sections, and the physicalist's reply is the same in both — the integrative-architecture reply the article itself grants at the end of §The Convergence Argument. One reply neutralises both.
+2. **The structure-experience gap** — *substrate independence* + *formal precision*. Once the physicalist offers a structural property *S*, substrate independence's own stated fallback ("the question remains why *S* produces the phenomenal experience of beauty rather than none at all") **is** formal precision's premise. The article's text does the merging itself. This premise is the [[concepts/explanatory-gap]] in aesthetic dress, not a new line — notable because §The Convergence Argument opens by claiming aesthetics goes *beyond* the standard arguments.
+3. **The causal argument from creation** — *aesthetic creation*, and the only one that stands clear. It is a causal argument against epiphenomenalism and identity theory, so it survives both a closed gap and a successful holistic reduction. Its zombie-artist *sharpening* borrows the conceivability intuition back, which the article already flagged; the revision-loop core does not.
+
+Deliberately **not** reused: the sibling's "three near-independent recurrences" figure. That three is over four traditions plus one declined lineage; this three is over 5 → {holism}, {gap}, {creation}. Same number, independently derived, different partition — checked precisely because the evaluative-cluster fix nearly installed a fourth formulation by copying a tally across enumerations.
+
+### Changes (hub)
+
+- **Re-based, not deleted.** The convergence argument survives intact; what went is the tally and the bare word "independent". New register: *concentration rather than tally* — one phenomenon puts all three premises in play at once, and answering any one leaves the rest standing.
+- `description` — dropped "Five converging arguments from beauty's pervasiveness, substrate independence, …". That enumeration was also a **fourth variant**: it led with *pervasiveness*, which is a section but not one of the five arguments the lead and Relation-to-Site-Perspective actually list. Replaced with the three-premise statement.
+- **Lead** — "five converging lines that reinforce each other" → "five converging lines" (the independence implicature was in "reinforce each other"). The "Each of these arguments independently troubles physicalism" sentence replaced with the three-premise result plus a named-anchor forward reference to the audit, so a truncated fetch still gets the corrected claim.
+- **§The Convergence Argument** — new paragraph carrying the audit itself, placed directly after the integrative-architecture concession it builds on, with in-page anchors to the three sections it partitions.
+- **§Relation to Site Perspective / Dualism** — "Five arguments converge… Each independently troubles physicalism" removed; the five findings are kept verbatim in substance, closing on "[As audited above], these five rest on three premises, only the creation argument standing clear of the rest".
+- **Left alone deliberately**: §What Would Challenge This View's "separate reductions of the five convergent *features*" — that is the feature enumeration, and it is a falsification condition for the holism premise, not an independence claim.
+- **Engagement classification** (editor-internal, [[project/direct-refutation-discipline]]): no opponent engagement was altered. The audit paragraph is Mode Three in effect — it marks honestly that two of the five arguments reduce to the standard gap, i.e. it *removes* a boundary-substitution the tally had been concealing.
+
+### Carrier sweep — 8 loci found, task named 2
+
+Grepped `obsidian/`, `archive/` **and** `hugo/content/` for `five converging arguments` / `five-argument` / `independently troubles`. The task named two carriers; six more existed.
+
+| # | Locus | Verdict |
+|---|---|---|
+| 1 | `topics/aesthetics-beyond-art` L125 | **Fixed** — "one of the five converging arguments in" → "one of the premises the case in … rests on" (task-named) |
+| 2 | `archive/topics/everyday-aesthetics` L82 | **Fixed** — same wording (task-named) |
+| 3 | `topics/aesthetics-beyond-art` L133 | **Fixed** — Further Reading "The five-argument irreducibility case" → "The irreducibility case" (not named) |
+| 4 | `archive/topics/everyday-aesthetics` L90 | **Fixed** — Further Reading "The five-argument case this article develops" → "The irreducibility case…" (not named) |
+| 5 | `topics/the-sublime-and-negative-aesthetics` L108 | **Fixed** — Further Reading "The five-argument case that…" → "The broader case that…" (not named) |
+| 6 | `archive/topics/the-aesthetics-of-nature-and-natural-beauty` L92 | **Fixed** — Further Reading "The five-argument irreducibility case" → "The irreducibility case" (not named) |
+| 7 | `apex/contemplative-path` L123 | **Fixed** — body: "Five converging arguments make aesthetics the strongest case." → "…though they rest on three premises rather than five independent ones." The paragraph's existing no-piecemeal-reduction close already matched the hub and was kept (not named) |
+| 8 | `apex/contemplative-path` L212 | **Fixed** — Further Reading "Five converging arguments from beauty…" → "The case from beauty…" (not named) |
+
+`topics/aesthetic-testimony-and-the-acquaintance-principle` L89 was re-verified and is already clean — the earlier refine today fixed it. Out-of-family and correctly untouched: the several "five-argument case against MWI" labels (different subject), `concepts/philosophical-zombies` L101 (functionalism), `apex/apex-articles` + `project/coherence-inflation-countermeasures` (post-decoherence programme, already reframed).
+
+### Deferred with a task, not missed
+
+`archive/topics/aesthetic-dimension-of-consciousness` L210 asserts *four* argument-level "independent lines of evidence" (aesthetic knowledge argument, conceivability, normative-qualitative entanglement, normative gap), and it plus `archive/topics/aesthetic-consciousness-as-irreducibility-test-case` L118 assert five-*feature* independence. Both are **differently-scoped enumerations**; importing this pass's verdict onto them is exactly the near-miss the task warned against, and the feature-level claim was never audited. Both are archived, render the archive notice, and set `superseded_by` to a successor that now states the corrected claim. Minted **P3** (appended at the end of Active Tasks so the in-flight task's line number did not shift) recording which limb needs no new audit and which does.
+
+### Length
+
+`analyze_length` decomposed (the total counts the reference apparatus — `analyze-length-counts-reference-apparatus`). Before **2876** total. After **3048** total = **2539 prose** + 281 Further Reading + 188 References + 40 embed boilerplate. Prose is 461 under the 3000 soft target and well under the 4000 hard threshold; the `soft_warning` status is the apparatus, not the body. Paid for the +172 prose words by compressing three genuine redundancies the audit created — the cross-modal paragraph's doubled concession, the six-domain list re-stated a third time in §Aesthetic Binding, and the audit's own restatement of the structure-experience gap that §Substrate Independence already states in full. **All calibration hedges preserved verbatim** ("without settling anything against a determined opponent"; "the data alone is compatible with both"; "none is decisive on its own"; the zombie-conceivability inheritance).
+
+- **Mirror**: synced; all four changed hub strings and all eight carrier strings confirmed live in `hugo/content/`. All four new in-page anchors verified against real `##` headings in the built file.
+- **Published**: yes
 
 ## 2026-08-02 14:18 UTC - positions-evolve
 - **Status**: Success — update mode, P-D3, two bookkeeping actions only

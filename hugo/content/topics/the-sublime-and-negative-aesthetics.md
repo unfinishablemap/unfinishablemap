@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-19
-ai_modified: 2026-07-09 07:15:52+00:00
+ai_modified: 2026-08-02 14:28:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 21:24:53+00:00
-lastmod: 2026-07-09 07:15:52+00:00
+lastmod: 2026-08-02 14:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ A note on evidential weight. The claims here are phenomenological and philosophi
 
 ## Further Reading
 
-- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The five-argument case that aesthetic experience is the strongest test of consciousness's irreducibility; this article develops its negative-aesthetics frontier
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The broader case that aesthetic experience is the strongest test of consciousness's irreducibility; this article develops its negative-aesthetics frontier
 - [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/) — The structural sibling: a further non-beauty aesthetic category, with mirth as a candidate irreducible evaluative quale
 - [aesthetics-beyond-art](/topics/aesthetics-beyond-art/) — Aesthetic value at the opposite extreme from the sublime: the mundane, and the calm counterpart of natural beauty — plus the scope problem and the sunset-with-no-observer question
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position the sublime tests: value as intrinsic to experience, extended here to phenomenal value pluralism

@@ -93,7 +93,7 @@ The crucial honesty point, flagged in the Map's own research: the step from "aes
 
 ## Further Reading
 
-- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The five-argument irreducibility case whose opening sunset intuition this article develops
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The irreducibility case whose opening sunset intuition this article develops
 - [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sibling category: overwhelming, formless, terrible nature, the calm/positive counterpart of which is natural beauty
 - [everyday-aesthetics](/topics/aesthetics-beyond-art/) — The neighbouring "beyond-art" subfield, focused on the mundane-domestic rather than the natural
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to conscious experience rather than projected onto objects

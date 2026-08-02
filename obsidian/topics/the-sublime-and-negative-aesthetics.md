@@ -4,7 +4,7 @@ description: "The sublime, tragedy, and disgust carry aesthetic value without he
 created: 2026-06-19
 modified: 2026-06-19
 human_modified:
-ai_modified: 2026-07-09T07:15:52+00:00
+ai_modified: 2026-08-02T14:28:00+00:00
 last_deep_review: 2026-07-19T21:24:53+00:00
 draft: false
 topics:
@@ -105,7 +105,7 @@ A note on evidential weight. The claims here are phenomenological and philosophi
 
 ## Further Reading
 
-- [[aesthetics-and-consciousness]] — The five-argument case that aesthetic experience is the strongest test of consciousness's irreducibility; this article develops its negative-aesthetics frontier
+- [[aesthetics-and-consciousness]] — The broader case that aesthetic experience is the strongest test of consciousness's irreducibility; this article develops its negative-aesthetics frontier
 - [[the-comic-and-humor-as-an-aesthetic-category]] — The structural sibling: a further non-beauty aesthetic category, with mirth as a candidate irreducible evaluative quale
 - [[aesthetics-beyond-art]] — Aesthetic value at the opposite extreme from the sublime: the mundane, and the calm counterpart of natural beauty — plus the scope problem and the sunset-with-no-observer question
 - [[topics/phenomenal-value-realism]] — The metaethical position the sublime tests: value as intrinsic to experience, extended here to phenomenal value pluralism

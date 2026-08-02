@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-31 13:28:57+00:00
+ai_modified: 2026-08-02 14:28:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-25 17:30:48+00:00
 apex_sources:
@@ -37,7 +37,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:49:16+00:00
-lastmod: 2026-07-31 13:28:57+00:00
+lastmod: 2026-08-02 14:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ The jhana states themselves have characteristic aesthetic textures—*pīti* (ra
 
 Contemplative investigation intensifies rather than dissolves aesthetic experience. In deep concentration, ordinary objects can appear extraordinarily beautiful—not because judgment changes but because aesthetic qualia intensify. If aesthetics were mere misrepresentation, practice should reveal this. Instead, traditions report that beauty becomes more vivid, more pervasive, more evidently a feature of experience itself.
 
-Five converging arguments make aesthetics the strongest case. [Aesthetic experience bundles every problematic feature of consciousness into a single phenomenon](/topics/aesthetics-and-consciousness/)—qualitative, evaluative, holistic, temporally structured, and meaning-laden. These features are mutually constitutive: remove the evaluative dimension and the qualitative character changes; remove the holism and the normativity collapses. Beauty appears across physically unrelated substrates—a sunset, a fugue, a mathematical proof share no physical property, yet all can be beautiful. Formal precision sharpens rather than closes the explanatory gap: the major triad's 4:5:6 frequency ratio is fully specifiable, yet the beauty *is* not the ratio. Aesthetic binding exceeds ordinary perceptual unity—hearing a late Beethoven quartet integrates sensory, emotional, cognitive, evaluative, temporal, and bodily elements into a single impression. The decomposition test is sharp: list every feature of *Girl with a Pearl Earring* and the beauty has not been captured. And aesthetic creation reverses the direction of fit—the artist holds a phenomenal template and shapes material to match, making consciousness's causal contribution explicit. Together these establish that no *piecemeal* reduction succeeds; whether the holistic physicalist reduction this still leaves owing can be supplied is the open question, which the bare phenomenology does not settle against a determined opponent—the Map's wager is that it cannot.
+Five lines of argument make aesthetics the strongest case, though they rest on three premises rather than five independent ones. [Aesthetic experience bundles every problematic feature of consciousness into a single phenomenon](/topics/aesthetics-and-consciousness/)—qualitative, evaluative, holistic, temporally structured, and meaning-laden. These features are mutually constitutive: remove the evaluative dimension and the qualitative character changes; remove the holism and the normativity collapses. Beauty appears across physically unrelated substrates—a sunset, a fugue, a mathematical proof share no physical property, yet all can be beautiful. Formal precision sharpens rather than closes the explanatory gap: the major triad's 4:5:6 frequency ratio is fully specifiable, yet the beauty *is* not the ratio. Aesthetic binding exceeds ordinary perceptual unity—hearing a late Beethoven quartet integrates sensory, emotional, cognitive, evaluative, temporal, and bodily elements into a single impression. The decomposition test is sharp: list every feature of *Girl with a Pearl Earring* and the beauty has not been captured. And aesthetic creation reverses the direction of fit—the artist holds a phenomenal template and shapes material to match, making consciousness's causal contribution explicit. Together these establish that no *piecemeal* reduction succeeds; whether the holistic physicalist reduction this still leaves owing can be supplied is the open question, which the bare phenomenology does not settle against a determined opponent—the Map's wager is that it cannot.
 
 Contemplative practice, by intensifying rather than dissolving this bundled character, provides particularly strong evidence that first-person investigation accesses genuine features of consciousness rather than artefacts of untrained introspection.
 
@@ -214,4 +214,4 @@ This apex article synthesizes:
 - [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct modes
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability debate and process/content distinction
 - [Epistemic Advantages of Non-Materialist Theories](/topics/epistemic-advantages-of-dualism/) — Why keeping dualism on the table is epistemically responsible
-- [Aesthetics and Consciousness](/topics/aesthetics-and-consciousness/) — Five converging arguments from beauty for the irreducibility of consciousness
+- [Aesthetics and Consciousness](/topics/aesthetics-and-consciousness/) — The case from beauty for the irreducibility of consciousness
