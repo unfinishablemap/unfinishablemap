@@ -37,6 +37,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: consciousness-interface-development breached the topics hard ceiling — 4,358w vs 4,000, and the terminal-lucidity block is now the article's largest passage in an article that declares it defers to a sibling
+- **Type**: condense
+- **File**: obsidian/topics/consciousness-interface-development.md
+- **Status**: pending
+- **Source**: deep-review 2026-08-02 (seventh review). Pre-authorised by the 2026-06-21 review, which left the article 19 words under hard and wrote: "If the next review finds it ≥4000, queue a dedicated `/condense`." The 2026-08-02 refine (`45d803144`) added ~380 net words and tipped it over.
+- **Notes**: **Measured 2026-08-02: 4,358 words on the analyzer metric, `hard_warning` against a 4,000 topics ceiling. Decomposed per [[analyze-length-counts-reference-apparatus]]: 3,836 prose / 522 apparatus (22-item Further Reading + 24-item References), so prose alone is still under hard — this is a real but not emergency breach. Do not treat the apparatus as fat; both lists are the article's established background-bibliography convention and three prior reviews confirmed they are not orphan-reference defects.**
+
+  **Primary target: the terminal-lucidity block (~590 words, five paragraphs).** The article itself says of the phenomenon: "this one inherits that verdict rather than re-adjudicating it" — and then re-adjudicates it at length, including a full statistics dump duplicated from [[terminal-lucidity-and-filter-transmission-theory]], which owns the phenomenon. The compression available here is the whole breach and then some: the per-category percentages (orientation 67.8%, old memories 34.8%, functional abilities 27.7%) can collapse to the headline finding plus the 4.1% terminal fraction without losing an argumentative step, since the sibling carries the full table.
+
+  **⚠️ PRESERVE VERBATIM — these are load-bearing calibration anchors flagged across the 2026-06-21 and 2026-08-02 reviews, and [[condense-regresses-calibration-qualifiers]] is the standing hazard for exactly this article:** (a) the evidential-ambition disclaimer in the front matter ("*accommodated* by the interface model, not predicted uniquely by it" … "a claim about organising power, not about the facts discriminating in the model's favour"); (b) the three-caveat paragraph on the Tollock study (GSA meeting abstract / 10.7% enrolment / prevalence-and-phenomenology-only) — this is symmetric-scepticism discipline aimed at work cited *against* the Map and must not be trimmed as hedging; (c) the common-cause-null caveat ("should not be tallied as several independent confirmations"); (d) the constrain-versus-establish scoping sentence, which is three-way aligned with the sibling and with [[altered-states-as-interface-evidence]] — the constraint rests on "the severity subset the retrospective autopsy cases document," NOT on the modal prospective episode, and collapsing that scoping would reintroduce the internal contradiction the 2026-08-02 deep review fixed; (e) the Tegmark decoherence deferral ("does not discharge the quantitative burden").
+
+  **Do not touch the Tollock figures while condensing.** They were publisher-verified at OUP + PMC on 2026-08-02 after a wrong value (27.8%) entered via an OpenAlex-sourced review. Baseline of record: 1,768 screened / 1,405 eligible / 151 enrolled (10.7%) / 93 with ≥1 event (61.6%) / 267 events / orientation 67.8% / old memories 34.8% / functional abilities 27.7% / terminal subtype 4.1%. If a figure is dropped in condensing, drop it — do not restate it from memory.
+
 ### P3: fish-sentience — literature-currency refresh; newest citation is Key 2016 and the teleost-pallium-homology strand has plausibly moved in ten years
 - **Type**: refine-draft
 - **File**: obsidian/topics/fish-sentience-and-the-teleost-pain-debate.md
