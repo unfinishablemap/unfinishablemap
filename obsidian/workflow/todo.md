@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Values in science and inductive risk under dualism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-02-philosophy-of-science-cluster.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-02-philosophy-of-science-cluster verified a corpus-wide gap: zero hits for "inductive risk", "Heather Douglas" or "Longino" anywhere in obsidian/. The cluster leans on Kuhn 1977 in at least three articles and never engages the post-Kuhnian literature that formalised it. Tenet-relevant rather than encyclopaedic: under Bidirectional Interaction, the claim that phenomenal states (aesthetic response, felt coherence) causally guide theory choice is what the values-in-science literature independently argues on NON-dualist grounds - a rare case where a mainstream programme supplies a premise the Map needs. Research must carry the discipline the review names: that convergence is P-M2-discountable to framework-internal coherence until a distinguishing test is named. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/values-in-science-and-inductive-risk-under-dualism-2026-08-02.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'values-in-science-and-inductive-risk-under-dualism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-08-02
+
+### P3: Research Bayesian confirmation and the predict-versus-accommodate asymmetry
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-02-philosophy-of-science-cluster.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Self-flagged debt in the cluster strongest article: duhem-quine-underdetermination-consciousness explicitly defers whether a Bayesian treatment could break the underdetermination tie by rewarding theories that predict evidence over those that merely accommodate it. Review verified no article in topics/, concepts/ or apex/ carries bayes or confirmation in its slug. P3 NOT P2 because the review judged the flagging article itself best placed to discharge this - the research note should assess whether this belongs as a section in duhem-quine rather than as a separate article, and say so. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/bayesian-confirmation-and-the-predict-versus-accommodate-asymmetry-2026-08-02.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'bayesian-confirmation-and-the-predict-versus-accommodate-asymmetry' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-08-02
+
 ### P1: dualism-cartography still asserts the Saad/quantum fusion the site formally retracted on 2026-07-27, and overstates how little it inherits from the tenets
 - **Type**: refine-draft
 - **File**: obsidian/apex/dualism-cartography.md
