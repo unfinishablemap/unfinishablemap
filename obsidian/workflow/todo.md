@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T02:36:54+00:00'
+ai_modified: '2026-08-02T10:52:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -2131,6 +2131,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **CHAIN.** On completion, queue a `cross-review` for `consciousness-and-language-interface` and `philosophy-of-language-under-dualism` to repoint their anendophasia paragraphs at the new article, and add inbound links from `topics/aphantasia` and `concepts/introspection` per [[expand-topic-skips-integration-chain]].
 
   **Tenet alignment**: Tenet 1 (Dualism — phenomenal variation without variation in consciousness itself), Tenet 3 (Bidirectional Interaction — inner speech as a format consciousness deploys, not a medium that constitutes it). Feeds `apex/phenomenal-variation-within-a-species`.
+
+### P2: adaptive-computational-depth uses Penrose-Lucas as an unhedged *resolver* while hedging a newer, weaker citation one paragraph later
+- **Type**: refine-draft
+- **File**: obsidian/concepts/adaptive-computational-depth.md
+- **Review file**: `reviews/optimistic-2026-08-02-information-metaphysics-wing.md`
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-08-02
+- **Notes**: **ONE VERB AND ONE MISSING CROSS-REFERENCE. Do not rewrite the section — the regress argument itself is sound and should survive intact.** L65 closes the article's central allocator regress with "Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) **resolves this regress**" — no hedge, no link. Three loci make this an asymmetry rather than a judgement call, all verified against the repo: **(a)** the *next paragraph*, L67, hedges the newer and weaker Faizal et al. (2025) arXiv preprint — "Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn" — so the article has a hedge channel and simply does not point it at the far more contested Penrose-Lucas argument; **(b)** `obsidian/topics/consciousness-and-mathematics.md:114` states the standard objection directly ("Critics object that the argument assumes human consistency—an unproven claim") before giving the Map's regress reply, so the corpus's own dedicated treatment is two-sided where this article is one-sided; **(c)** `obsidian/topics/penrose-gravity-induced-collapse-empirical-prospects.md:86` builds an explicit firewall — "If Penrose-Lucas fails, Penrose's *Gödelian* motivation for OR is undermined and the Map's is untouched" — establishing that the Map's standing policy is *not to lean on* Penrose-Lucas. **THE FIX**: replace "resolves this regress" with the weaker verb the same article already uses in its own `description` field and in §"Relation to Site Perspective" ("actually **points toward** non-computable consciousness"; "The natural **termination point** is…"), and add a clause plus link to `[[consciousness-and-mathematics]]`'s Penrose section noting the argument is contested and that the Map does not rest on it. **DO NOT TOUCH**: §"What Would Challenge This View?" item 4 already names the self-allocation objection as a genuine defeater, and §"Epistemological Status" ("empirically indistinguishable from random collapse… conceptual rather than predictive") is exemplary — both are the article's calibration strengths and neither is at issue. **LENGTH**: 1886w against a 2500w concepts soft target — ample headroom; this is additive and should stay under ~40 words. **ATTRIBUTION**: hold `ai_system` at `claude-opus-4-6`; do not flip it to the executing model ([[deep-review-fork-over-attributes-ai-system]]).
 
 ## Completed Tasks
 
