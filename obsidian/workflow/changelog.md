@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T09:05:29+00:00'
+ai_modified: '2026-08-02T09:13:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 09:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-physics-of-information]]
+- **Word count**: 2157 → 2187 (+30)
+- **Critical issues addressed**: 1 (verbatim quote cited to wrong work — the 09:05-adjacent quote-fidelity sweep installed the canonical Wheeler dictum "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon" into a paragraph framing it as Wheeler 1990; direct pdftotext extraction of the publisher scan of the 1990 chapter shows its actual formulation runs through Bohr's "irreversible act of amplification" — the dictum is from "Law Without Law" 1983. Fixed: inline attribution + Wheeler 1983 References entry; hugo mirror hand-synced; sibling channels checked consistent; corrupted-string family confirmed dead in all 3 trees)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Wheeler 1990 "every it" quote verification upgraded to direct source-scan verbatim check, both qualifiers present)
+- **Scope**: focused 6th review honoring the 2026-06-25 stability guidance — audited only the intervening sweep's change and its seams; engagement modes unchanged (IIT Mode Two, decoherence/Tegmark Mode One)
+- **Output**: [[reviews/deep-review-2026-08-02-consciousness-and-the-physics-of-information]]
 
 ## 2026-08-02 09:05 UTC - refine-draft
 - **Status**: Success
