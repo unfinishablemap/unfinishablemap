@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-08-02 10:08:10+00:00
+ai_modified: 2026-08-02 11:12:31+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,8 +20,8 @@ description: Human+AI exploration of source-attribution divergence—the within-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-10 23:01:10+00:00
-lastmod: 2026-08-02 10:08:10+00:00
+last_deep_review: 2026-08-02 11:12:31+00:00
+lastmod: 2026-08-02 11:12:31+00:00
 modified: *id001
 related_articles:
 - '[[source-attribution-void]]'
@@ -64,7 +64,7 @@ Source-attribution divergence is a family of structurally similar dissociations 
 - **[authorship-of-action-divergence](/topics/authorship-of-action-divergence/).** The choice-blindness paradigm (Johansson et al. 2005) suggests that healthy adults often cannot detect when their own (manipulated) choices are reattributed to them. The sibling article splits this into an *outcome-recognition* layer (choice-blindness proper) and a *cause-attribution* layer (did *I* cause this?, treated via Wegner and Wheatley's (1999) I-Spy paradigm at [the agency void](/voids/agency-void/)); the two diverge in characteristic ways.
 - **Voice-hearing with intact reality-testing.** A non-clinical minority—prevalence estimates vary widely with the definition used—hears voices identified as not-perceived but whose self-other source attribution is uncertain. The Map reads it as an architectural extreme of a continuous spectrum rather than a separate kind.
 
-The forms cluster only partially. How strongly performance on one form predicts performance on the others has not been measured; the framework expects partial rather than complete clustering.
+How strongly performance on one form predicts performance on the others has not been measured; the framework expects partial rather than complete clustering.
 
 ## A Brief History
 
@@ -74,7 +74,7 @@ The forms cluster only partially. How strongly performance on one form predicts 
 
 **Source-monitoring framework (Johnson, Hashtroudi and Lindsay 1993).** Source amnesia in amnesic patients (Schacter, Harbluk and McLachlan 1984) had isolated origin-loss from content-loss a decade earlier. The canonical theoretical synthesis treats source attribution as inferential: memories lack native source tags; origin is inferred from contextual, sensory, semantic, emotional, and cognitive-operation features. The features used for inference are weakly correlated with actual source, so accuracy depends on cognitive variables (encoding depth, attention, working memory) that vary across people—the population spread is predicted by the framework, not a separate finding.
 
-**Reality-monitoring update (Mitchell and Johnson 2009).** The update distinguishes reality-monitoring (internal vs. external origin) sharply from external source monitoring, and surveys the converging behavioural, neuroimaging, and clinical literature. Schnider's (2003) confabulation work supplies the pathological-extreme clinical anchor: orbitofrontal lesions produce persistent confabulation in which past memories contaminate present reality—exaggerated population variation, not a different mechanism. Population spread is settled by 2009.
+**Reality-monitoring update (Mitchell and Johnson 2009).** The update distinguishes reality-monitoring (internal vs. external origin) sharply from external source monitoring, and surveys the converging behavioural, neuroimaging, and clinical literature. Schnider's (2003) confabulation work supplies the pathological-extreme clinical anchor: orbitofrontal lesions produce persistent confabulation in which past memories contaminate present reality—exaggerated population variation, not a different mechanism.
 
 **Imagery-spectrum integration (Dawes et al. 2020).** Aphantasia research surfaces an unexpected covariance: aphantasics often report reduced autobiographical-memory richness alongside the missing voluntary imagery.
 
@@ -124,7 +124,7 @@ One further structural honesty is owed at the cluster-level move. The article bo
 
 Most philosophical thought experiments about phenomenal divergence are imagined—inverted spectra, zombies, qualia varying across functional duplicates. Source-attribution divergence is empirically anchored. The minds whose source-attribution accuracy diverges share the same neural architecture, the same evolutionary history, and the same language community. What they do not share, unlike the aphantasic and synaesthetic pairs, is task performance: source-monitoring accuracy is the dependent variable, so the siblings' matched-performance premise is unavailable here. The divergence sits one layer up, in how well each mind's confidence about source tracks its accuracy about source, and that difference must be taken seriously without the easements of inter-species or inter-system comparison.
 
-This case is the cluster's least dramatic but most architecturally diagnostic. Aphantasia and synaesthesia are striking; source-attribution divergence is subtle, distributed, and nearly invisible from inside any single position on the spectrum. The subtlety is part of what makes it diagnostic: the divergence is not a peripheral curiosity but a structural feature of how cognition handles its own provenance. The [apex synthesis](/apex/phenomenal-variation-within-a-species/) develops the joint package; this article supplies the third source.
+This case is the cluster's least dramatic leg. Aphantasia and synaesthesia are striking; source-attribution divergence is subtle, distributed, and nearly invisible from inside any single position on the spectrum. The subtlety is part of what makes it worth counting: the divergence is a structural feature of how cognition handles its own provenance. The [apex synthesis](/apex/phenomenal-variation-within-a-species/) develops the joint package; this article supplies the third source.
 
 ## Relation to Site Perspective
 

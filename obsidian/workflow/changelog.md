@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T11:04:30+00:00'
+ai_modified: '2026-08-02T11:12:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 11:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/source-attribution-divergence]]
+- **Word count**: 3978 → 3960 (-18, length-negative; 132% of 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0 (length-neutral mandate — every repair removed text)
+- **Scope**: post-revision audit. The article was rewritten earlier today (`bc2e3a647`, `e57a72ad0`) against [[reviews/pessimistic-2026-08-02-source-attribution-divergence]]; this pass verified all eight issues landed and hunted for regressions the same-day rewrite introduced.
+- **Critical**: a stranded pre-revision sentence — "Population spread is settled by 2009" — survived the rewrite in the History section, contradicting the lead ("whether that spread is stable trait variance … is unsettled"), the Typology bullet ("the healthy-adult distribution's shape is **not settled** there"), and the closing Empirical Signatures caveat, all three installed by the same revision. It also re-instated the exact Mitchell-and-Johnson-2009 over-extension pessimistic Issue 5 had just removed: the article asserted that one review both settled the population spread and left it unsettled, four hundred words apart. Deleted.
+- **Medium**: (1) "the cluster's least dramatic but **most architecturally diagnostic**" — a leftover superlative running against the revision's own downgrade of this leg to a weaker, locally-absorbable premise; dropped. (2) "the divergence is **not** a peripheral curiosity **but** a structural feature" — negation-then-correction construct banned by `writing-style.md`; the revision fixed the sibling instance in the voice-hearing bullet and missed this one; rephrased.
+- **Low**: removed "The forms cluster only partially", which asserted as fact what the next sentence conceded was unmeasured.
+- **Deliberately NOT changed**: "empirically falsified across the cohort" (Occam's Limits), which the pessimistic review proposed softening. Its target is the naive direct-readout model, whose strong no-source-errors prediction the misinformation and source-amnesia literatures do defeat; that falsification never depended on the trait claim the revision downgraded. Reasoning recorded in the archive so it is not re-opened.
+- **Citations**: §2.4 satisfied by re-affirmation. The References block was not modified by either 2026-08-02 commit (diff shows no `+`/`-` on any reference entry), and it carries two independent publisher verifications — the 2026-07-10 full per-cite ledger (13 external cites, all real-correct) and this morning's pessimistic re-verification of all 14 entries plus the Nisbett-and-Wilson quotation. What *was* new and therefore checked: the three inline deployments the revision added (Schacter 1984 as the source-amnesia anchor, Wegner & Wheatley 1999 for I-Spy, Pronin 2009 at option 3) — all three accurate. Superlative-currency sweep: zero candidates.
+- **Checks clean**: 18/18 wikilink targets live (incl. two section anchors and the new in-page `#empirical-signatures` anchor); validator ✓; no editor-vocabulary label leakage.
+- **Output**: [[reviews/deep-review-2026-08-02-source-attribution-divergence]]
 
 ## 2026-08-02 11:04 UTC - refine-draft
 - **Status**: Success (no-op — no defect found)
