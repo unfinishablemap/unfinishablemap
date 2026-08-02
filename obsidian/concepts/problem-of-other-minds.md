@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Philosophical approaches to 
 created: 2026-01-14
 modified: 2026-06-13
 human_modified: null
-ai_modified: 2026-07-19T06:22:00+00:00
+ai_modified: 2026-08-02T18:16:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -167,7 +167,7 @@ The Map's answer treats biological similarity as a strong abductive consideratio
 
 [[illusionism]] offers a radical response: if phenomenal consciousness is introspective illusion, the asymmetry dissolves. No hidden phenomenal realm exists to access. Keith Frankish proposes that what seems phenomenal consists of functional states that misrepresent themselves as having phenomenal character.
 
-The Map maintains illusionism relocates rather than dissolves the problem. If I'm under an illusion of phenomenal consciousness, something must be doing the seeming—the asymmetry reappears at the meta-level. The discourse argument gains force: why would humans across cultures develop sophisticated vocabularies for something illusory? The convergence suggests something real and shared underlies it. And [[witness-consciousness|contemplative practice]] refines rather than dissolves phenomenal access—the seeming deepens under investigation rather than revealing emptiness.
+The Map maintains illusionism relocates rather than dissolves the problem. If I'm under an illusion of phenomenal consciousness, something must be doing the seeming—the asymmetry reappears at the meta-level. Taken bare, that regress proves nothing: it assumes the seeming is itself phenomenal, precisely what illusionists deny, and a representational system need not instantiate what it represents. The weight sits on the relocation instead—the illusionist has traded the question of how I reach another mind for the question of why a self-model *seems* to present one, and that trade earns its keep only if the second question is tractable where the first was not, which is asserted rather than shown. The discourse argument presses the same point: why would humans across cultures develop sophisticated vocabularies for something illusory? The convergence suggests something real and shared underlies it. And [[witness-consciousness|contemplative practice]] refines rather than dissolves phenomenal access—the seeming deepens under investigation rather than revealing emptiness. Neither side closes the case against the other inside the rival's framework.
 
 ## Alternative Frameworks
 

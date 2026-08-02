@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-08-02T07:27:23+00:00
+ai_modified: 2026-08-02T18:16:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ A crucial distinction: psychophysical laws can be *[[supervenience]] laws* or *c
 
 **Supervenience laws** specify which physical states are accompanied by which mental states—the laws run *upward* from physics to phenomenology. Chalmers primarily discusses these, and tends toward [[epiphenomenalism]]: mental states are caused by physical states but don't cause physical states in return.
 
-**Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—consciousness selects among physically underdetermined alternatives. Chalmers' framework primarily develops the upward direction; the Map needs both, with emphasis on the downward direction (phenomenal → physical selection).
+**Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—consciousness selects among physically underdetermined alternatives.
 
 Functionalists respond that reports track mental states through functional organization alone. But if phenomenal properties are distinct from functional properties (as the Map holds) and our reports accurately reflect them, phenomenal properties must causally influence reports. Denying the distinctness returns us to the hard problem.
 
@@ -210,7 +210,7 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an [[introspection|introspective illusion]], no bridging laws are required. But as Tallis observes, illusions presuppose experience—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
+[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an [[introspection|introspective illusion]], no bridging laws are required. Tallis's reply, that illusions presuppose experience, proves nothing taken bare: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The Map holds that we know phenomenal consciousness exists more certainly than any eliminativist argument is sound—a foundational commitment, not a refutation inside illusionism's framework.
 
 ## Contemplative Evidence
 

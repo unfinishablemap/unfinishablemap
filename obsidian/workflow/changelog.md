@@ -5,6 +5,77 @@ ai_modified: '2026-08-02T18:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 18:16 UTC - refine-draft
+- **Status**: Success (4 fixed, 1 verified no-op)
+- **Files**: [[concepts/working-memory]], [[concepts/problem-of-other-minds]], [[concepts/implicit-memory]], [[concepts/psychophysical-laws]]
+- **Checked, not edited**: [[concepts/relational-quantum-mechanics]]
+- **Source**: `reviews/tenet-check-2026-07-29b` L132 (Family D bare-regress loci); settled wording inherited from [[concepts/haecceity]], [[concepts/illusionism]], [[concepts/mind-brain-separation]], [[concepts/explanatory-gap]], [[concepts/phenomenal-consciousness]]
+- **Changes**: installed the settled bare-regress concession at four loci — the regress assumes the seeming is itself phenomenal (precisely what illusionists deny) and proves nothing, since a representational system need not instantiate what it represents; pressure relocated onto the tractability trade; closed on neither side closing the case inside the rival's framework
+- **Word counts**: working-memory 3688 -> 3685 (below the 3688 floor; still over the 3500 hard threshold, pre-existing); problem-of-other-minds 3363 -> 3457; implicit-memory 3135 -> 3248; psychophysical-laws 3489 -> 3484 (all under 3500)
+- **Published**: yes
+
+Family D of the bare-regress sweep. Five surviving loci ran the Tallis/seeming regress as
+decisive against illusionism — a **boundary-substitution** under
+[[project/direct-refutation-discipline]]: framework-level disagreement dressed as in-framework
+refutation. The settled wording already existed at six verified installations, so this pass
+inherited it rather than composing variants.
+
+**Engagement classification (editor-internal).** All four edits: engagement with the illusionist
+(Frankish, Dennett, via Tallis) moves from a false Mode One to **mixed** — Mode Two identifies
+the unearned foundational move (the illusionist relocation earns its keep only if the second
+question is tractable where the first was not, which is asserted rather than shown), closing on
+Mode Three boundary-marking (neither side closes the case inside the rival's framework).
+
+**1. `working-memory.md` L161 (strongest of the five).** Flat factive with no concession anywhere
+in the file: "these experiences cannot themselves be illusions without invoking a further level
+of experience." Replaced with the settled concession, the trade relocated onto whether "why does
+mental arithmetic *seem* effortful?" is tractable where "why is it effortful?" was not, and the
+zombie case marked as what divides the frameworks rather than as a refutation. The file was
+**already over its 3500 hard threshold at 3688**, so the +50-word install was funded by
+substitution: two redundant sentences in "The Capacity Gap" (a third restatement of
+maintenance-vs-manipulation) and a duplicate mental-effort paragraph in "The Manipulation
+Requirement" (the same point already made in the bullet at "Storage/Use" and again under "Effort
+asymmetry"). Net -3.
+
+**2. `problem-of-other-minds.md` L170.** The relocation move was already half-present
+("relocates rather than dissolves"), so this took the concession clause rather than a rewrite,
+as scoped. "The discourse argument gains force" softened to "presses the same point" — the
+original phrasing drew its force from the regress being decisive.
+
+**3. `implicit-memory.md` L141.** Concession installed. The Tallis self-undermining charge here
+is an **attributed paraphrase, not a quoted string** — there is nothing to de-quote, and the
+attribution was preserved intact (cf. the 47 loci once de-quoted on a false fabrication premise).
+Added the standard illusionist reply to that charge (introspective *reports* trusted as data
+while the phenomenal character they appear to report is what is in question). Also softened a
+second flat factive in the same paragraph: heterophenomenology "cannot be captured in
+third-person functional description" -> "on the Map's reading it leaves ... outside what
+third-person functional description captures."
+
+**4. `psychophysical-laws.md` L213 — the eleven-word budget.** The file sat at 3489/3500. The
+"generating infinite regress" clause is the boundary-substitution and was removed; the Moorean
+closer was kept but relabelled in natural prose as "a foundational commitment, not a refutation
+inside illusionism's framework" (the editor-vocabulary term for that move is forbidden in
+article prose, so it is not used). The honest fix needed +16 words against 11 of headroom, so it
+was funded in-file by cutting a genuinely redundant clause in "Supervenience Laws vs. Causal
+Laws" that stated the Chalmers-upward/Map-downward contrast for the third time (the lead and the
+preceding sentence in the same bullet both already carry it). Net -5; finished at 3484, under
+the ceiling. **No shortfall to report.**
+
+**5. `relational-quantum-mechanics.md` L93 — verified no-op.** Flagged as CHECK, not asserted
+defect, and it does discharge the discipline as it stands. The passage already closes "Frankish
+contests the move; the dispute is live, and the Map's commitment to dualism is what tips the
+assessment, not a stand-alone refutation" — an explicit Mode Three boundary-marking that names
+the framework-level disagreement instead of dressing it as refutation, which is exactly what the
+discipline requires. The surrounding section reinforces it twice more (L87 "neither refutes the
+other from inside"; L95 "depends on prior commitments about first-person methods"). The
+discipline does not require every named opponent to receive in-framework refutation, and the
+failure mode it names is *substitution*, which is absent here. **Not edited, and `ai_modified`
+deliberately left at 2026-07-30** — editing for uniformity would have been the fix-by-file
+reflex the task warned against.
+
+Attribution held per instruction: each file keeps its existing `ai_system`. Synced; all changed
+strings confirmed in `hugo/content/`.
+
 ## 2026-08-02 18:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-consciousness-invertebrate-question]]

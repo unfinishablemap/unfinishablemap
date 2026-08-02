@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-19 06:22:00+00:00
+ai_modified: 2026-08-02 18:16:48+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:58:33+00:00
-lastmod: 2026-07-19 06:22:00+00:00
+lastmod: 2026-08-02 18:16:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -170,7 +170,7 @@ The Map's answer treats biological similarity as a strong abductive consideratio
 
 [illusionism](/concepts/illusionism/) offers a radical response: if phenomenal consciousness is introspective illusion, the asymmetry dissolves. No hidden phenomenal realm exists to access. Keith Frankish proposes that what seems phenomenal consists of functional states that misrepresent themselves as having phenomenal character.
 
-The Map maintains illusionism relocates rather than dissolves the problem. If I'm under an illusion of phenomenal consciousness, something must be doing the seeming—the asymmetry reappears at the meta-level. The discourse argument gains force: why would humans across cultures develop sophisticated vocabularies for something illusory? The convergence suggests something real and shared underlies it. And [contemplative practice](/concepts/witness-consciousness/) refines rather than dissolves phenomenal access—the seeming deepens under investigation rather than revealing emptiness.
+The Map maintains illusionism relocates rather than dissolves the problem. If I'm under an illusion of phenomenal consciousness, something must be doing the seeming—the asymmetry reappears at the meta-level. Taken bare, that regress proves nothing: it assumes the seeming is itself phenomenal, precisely what illusionists deny, and a representational system need not instantiate what it represents. The weight sits on the relocation instead—the illusionist has traded the question of how I reach another mind for the question of why a self-model *seems* to present one, and that trade earns its keep only if the second question is tractable where the first was not, which is asserted rather than shown. The discourse argument presses the same point: why would humans across cultures develop sophisticated vocabularies for something illusory? The convergence suggests something real and shared underlies it. And [contemplative practice](/concepts/witness-consciousness/) refines rather than dissolves phenomenal access—the seeming deepens under investigation rather than revealing emptiness. Neither side closes the case against the other inside the rival's framework.
 
 ## Alternative Frameworks
 

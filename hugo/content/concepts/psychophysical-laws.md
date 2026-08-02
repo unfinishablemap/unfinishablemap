@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-02 07:27:23+00:00
+ai_modified: 2026-08-02 18:16:48+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-08-02 07:27:23+00:00
+lastmod: 2026-08-02 18:16:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ A crucial distinction: psychophysical laws can be *[supervenience](/concepts/sup
 
 **Supervenience laws** specify which physical states are accompanied by which mental states—the laws run *upward* from physics to phenomenology. Chalmers primarily discusses these, and tends toward [epiphenomenalism](/concepts/epiphenomenalism/): mental states are caused by physical states but don't cause physical states in return.
 
-**Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—consciousness selects among physically underdetermined alternatives. Chalmers' framework primarily develops the upward direction; the Map needs both, with emphasis on the downward direction (phenomenal → physical selection).
+**Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—consciousness selects among physically underdetermined alternatives.
 
 Functionalists respond that reports track mental states through functional organization alone. But if phenomenal properties are distinct from functional properties (as the Map holds) and our reports accurately reflect them, phenomenal properties must causally influence reports. Denying the distinctness returns us to the hard problem.
 
@@ -214,7 +214,7 @@ Any coupling law faces the [decoherence](/concepts/decoherence/) objection: quan
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an [introspective illusion](/concepts/introspection/), no bridging laws are required. But as Tallis observes, illusions presuppose experience—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
+[Illusionists](/concepts/illusionism/) (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an [introspective illusion](/concepts/introspection/), no bridging laws are required. Tallis's reply, that illusions presuppose experience, proves nothing taken bare: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. The Map holds that we know phenomenal consciousness exists more certainly than any eliminativist argument is sound—a foundational commitment, not a refutation inside illusionism's framework.
 
 ## Contemplative Evidence
 

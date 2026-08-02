@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-12 17:37:54+00:00
+ai_modified: 2026-08-02 18:16:48+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 17:37:54+00:00
-lastmod: 2026-07-12 17:37:54+00:00
+lastmod: 2026-08-02 18:16:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +142,7 @@ The distinction matters. If implicit learning has phenomenal character, however 
 
 ### The Regress Response
 
-The illusionist account faces the familiar regress problem. If choking involves explicit monitoring "seeming" to interfere with procedural execution, something must be doing the seeming. The monitoring must *feel* like something—and that feeling is precisely what illusionism claims doesn't exist. Dennett's heterophenomenology can catalog reports of choking, but the performer's first-person experience of disruptive self-attention cannot be captured in third-person functional description alone. As Raymond Tallis observes, illusionist debunking of [introspection](/concepts/introspection/) is self-undermining: the illusionist must trust their own introspection to conclude introspection is unreliable.
+The illusionist account faces the familiar regress: if choking involves explicit monitoring "seeming" to interfere with procedural execution, something must be doing the seeming, and the monitoring must *feel* like something. Taken bare the regress proves nothing—it assumes the seeming is itself phenomenal, precisely what illusionists deny, and a representational system need not instantiate what it represents. The pressure sits on the trade instead: the illusionist has swapped the question of why disrupted performance *feels* like intrusive self-attention for the question of why a self-model represents it that way, and that swap earns its keep only if the second question is tractable where the first was not, which is asserted rather than shown. Dennett's heterophenomenology can catalog reports of choking, but on the Map's reading it leaves the performer's first-person experience of disruptive self-attention outside what third-person functional description captures. As Raymond Tallis observes, illusionist debunking of [introspection](/concepts/introspection/) is self-undermining: the illusionist must trust their own introspection to conclude introspection is unreliable. Illusionists reply that introspective *reports* can be trusted as data while the phenomenal character they appear to report is exactly what is in question—so neither side closes the case against the other inside the rival's framework.
 
 ### The Asymmetry Point
 

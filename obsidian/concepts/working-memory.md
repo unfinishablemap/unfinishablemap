@@ -4,7 +4,7 @@ description: "Working memory manipulation is far more tightly bound to conscious
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-08-02T17:55:13+00:00
+ai_modified: 2026-08-02T18:16:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ Chimpanzee working memory is estimated at approximately 2±1 items—the conclus
 
 With 2 items, you can compare them. With 4-7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference is combinatorial: even four items yield six pairwise comparisons plus the ability to hold some in mind while making others.
 
-Why attribute this expansion to consciousness rather than neural complexity alone? Because manipulation requires consciousness while maintenance doesn't. The additional capacity isn't just more room for unconscious traces—it's more room for conscious manipulation. Expanded working memory capacity implies expanded conscious access.
+Why attribute this expansion to consciousness rather than neural complexity alone? Because manipulation requires consciousness while maintenance doesn't.
 
 Chimpanzees excel at pattern recognition, spatial memory, and procedural skill acquisition—capacities that don't require holding multiple items for simultaneous manipulation. They struggle with precisely the tasks that demand extended working memory: logical reasoning, [[counterfactual-reasoning|counterfactual thinking]], cumulative cultural innovation.
 
@@ -85,8 +85,6 @@ What makes manipulation specifically consciousness-requiring?
 Manipulation involves operating on representations as representations—taking working memory contents as objects of thought rather than merely having them present. Comparing two items requires holding both while attending to their relationship. Transforming an item (rotating a mental image, negating a proposition) requires tracking both original and transformation. Combining items into novel structures requires representing the combination as distinct from its parts.
 
 These operations have the structure of [[metacognition|metarepresentation]]—representing representations. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [[phenomenology-of-choice-and-volition|phenomenology of deliberate manipulation]]—holding alternatives, comparing them, settling on one—reflects this structure.
-
-[[mental-effort|Mental effort]] tracks this distinction precisely. Passive maintenance feels effortless—phone numbers "held in mind" without active work. Active manipulation feels effortful—mental arithmetic, logical reasoning, creative recombination all involve phenomenal cost.
 
 ## Recursive Cognition and Language
 
@@ -158,7 +156,7 @@ Some clarifications:
 
 The [[illusionism|illusionist]] offers a deflationary reading: the maintenance/manipulation distinction merely shows that stronger neural activation is needed for certain operations, not that consciousness contributes anything special.
 
-This faces the standard regress. If manipulation merely *seems* to require consciousness, something must be doing the seeming. The felt effort of mental arithmetic, the sense of holding items against decay—these experiences cannot themselves be illusions without invoking a further level of experience. The [[philosophical-zombies|zombie reformulation]] applies: a zombie could perform WM operations functionally, but the phenomenal character of effortful cognition seems constitutive, not [[epiphenomenalism|epiphenomenal]].
+The obvious reply is a regress: if manipulation merely *seems* to require consciousness, something must be doing the seeming. Taken bare it proves nothing—it assumes the seeming is itself phenomenal, precisely what illusionists deny, and a representational system need not instantiate what it represents. The pressure sits on the trade: relocating "why is mental arithmetic effortful?" to "why does it *seem* effortful?" earns its keep only if the second question is tractable where the first was not, which is asserted rather than shown. A [[philosophical-zombies|zombie]] could perform WM operations functionally, and whether the phenomenal character of effortful cognition is constitutive or [[epiphenomenalism|epiphenomenal]] is what divides the frameworks; neither side closes the case inside the rival's.
 
 ## Relation to Site Tenets
 
