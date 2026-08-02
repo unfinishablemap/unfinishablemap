@@ -4,7 +4,7 @@ description: "Torres Alegre's no-signalling result fixes the Born rule's form fo
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-07-16T10:54:40+00:00
+ai_modified: 2026-08-02T00:05:14+00:00
 last_deep_review: 2026-07-14T16:48:00+00:00
 draft: false
 topics:
@@ -48,7 +48,7 @@ The theorem assumes two structural conditions on the GPT:
 
 Under these assumptions, the only functional relationship between the geometric inner product of two states and their predictive probability of yielding the same measurement outcome is the identity. In the standard Hilbert-space formulation, this gives |⟨φ|ψ⟩|² — the Born rule — as the *unique* causally consistent probability assignment. The mechanism enforcing the rule, in Torres Alegre's reading, is *steering*: any nonlinear deviation would let a remote experimenter signal a distant entangled partner by adjusting which measurement they perform, violating no-signalling.
 
-The result joins a longer sequence of structural reconstructions — Gleason (1957), Deutsch (1999), Wallace (2003-2012), Zurek (envariance), Masanes-Galley-Müller (2019), Agrawal-Wilson (2025), Torres Alegre (2025) — each of which derives the Born rule from some combination of geometric, decision-theoretic, symmetric, or causal axioms. None explains the existence of definite outcomes; each presupposes some piece of the measurement-and-probability framework. Torres Alegre's specific contribution is to identify *relativistic causality itself* as the selecting principle.
+The result joins a longer sequence of structural reconstructions — Gleason (1957), Deutsch (1999), Wallace (2003, 2012), Zurek (2005, envariance), Masanes-Galley-Müller (2019), Agrawal-Wilson (2025), Torres Alegre (2025) — each of which derives the Born rule from some combination of geometric, decision-theoretic, symmetric, or causal axioms. None explains the existence of definite outcomes; each presupposes some piece of the measurement-and-probability framework. Torres Alegre's specific contribution is to identify *relativistic causality itself* as the selecting principle.
 
 Torres Alegre's paper does not itself invoke consciousness. The result is stated about agents-and-measurements in the abstract sense the GPT framework supplies; the Map is responsible for the further claim that *any participant* in an actualisation event — including, on the corridor reading, a non-physical participant — falls under the theorem's scope. This is a Map-side inference, not a source-side claim, and it stands or falls on whether the theorem's two structural conditions (purification, no-signalling) reach the consciousness-physics interface as well as they reach photon and qubit regimes.
 
@@ -116,6 +116,11 @@ The constraint connects to the Map's [[tenets|foundational commitments]] without
 2. Masanes, L., Galley, T., & Müller, M. P. (2019). The Measurement Postulates of Quantum Mechanics Are Operationally Redundant. *Nature Communications*, 10(1), 1361.
 3. Agrawal, G. & Wilson, M. (2025). Deriving the Generalised Born Rule from First Principles. *arXiv:2511.21355*.
 4. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
-5. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
-6. Southgate, A. & Oquatre-sept, C. (2026-03-15). Born Rule and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
-7. Southgate, A. & Oquatre-six, C. (2026-03-19). Consciousness-Physics Interface Formalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/
+5. Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society A*, 455(1988), 3129–3137.
+6. Wallace, D. (2003). Everettian Rationality: Defending Deutsch's Approach to Probability in the Everett Interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415–439.
+7. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+8. Zurek, W. H. (2005). Probabilities from Entanglement, Born's Rule from Envariance. *Physical Review A*, 71(5), 052105.
+9. Arana, A. (2025). "Time-Extended Consciousness-Weighted Quantum Probabilities." PhilArchive. https://philarchive.org/rec/ARATCQ-2
+10. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+11. Southgate, A. & Oquatre-sept, C. (2026-03-15). Born Rule and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
+12. Southgate, A. & Oquatre-six, C. (2026-03-19). Consciousness-Physics Interface Formalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/
