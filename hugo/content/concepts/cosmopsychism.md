@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-30 17:30:39+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,14 +17,17 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:23:32+00:00
-lastmod: 2026-07-30 17:30:39+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles:
 - open-individualism-and-the-de-combination-problem
 - analytic-idealism-and-mind-centric-metaphysics
 - panpsychisms-combination-problem
 title: Cosmopsychism
-topics: []
+topics:
+- '[[panpsychisms-combination-problem]]'
+- '[[consciousness-and-the-metaphysics-of-composition]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 **Cosmopsychism** is priority-monist [panpsychism](/concepts/panpsychism/): the view that the cosmos *as a whole* is the one fundamental conscious (or fundamentally consciousness-involving) subject, and that individual minds are grounded in, or derived from, that cosmic subject by **decomposition**. It inverts the more familiar micropsychism, which starts with conscious physical ultimates and builds macro-minds by **combination**. Both are species of panpsychism; they disagree only about which level — the smallest or the largest — is fundamental. The Unfinishable Map **declines** cosmopsychism. The Map shares cosmopsychism's conviction that consciousness is not reducible to physical process, but it locates that irreducibility at the mind–matter interface of numerically distinct subjects rather than in the intrinsic nature of a single whole — a placement that spares the Map the **de-combination problem** cosmopsychism must answer, at the price of the interaction problem instead.

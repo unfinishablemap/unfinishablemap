@@ -4,9 +4,12 @@ description: "Compatibilism holds free will survives determinism by reinterpreti
 created: 2026-07-13
 modified: 2026-07-13
 human_modified: null
-ai_modified: 2026-07-13T07:22:04+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[free-will]]"
+  - "[[volitional-control]]"
+  - "[[moral-implications-of-genuine-agency]]"
 concepts: []
 related_articles: []
 ai_contribution: 100

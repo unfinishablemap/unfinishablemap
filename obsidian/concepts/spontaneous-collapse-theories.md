@@ -4,10 +4,13 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-07-06T14:43:35+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
 last_deep_review: 2026-07-06T14:43:35+00:00
-topics: []
+topics:
+  - "[[philosophical-stakes-of-spontaneous-collapse]]"
+  - "[[quantum-measurement-and-consciousness]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
 concepts:
   - "[[measurement-problem]]"
   - "[[concepts/many-worlds]]"

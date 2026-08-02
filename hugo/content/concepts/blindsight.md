@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-10 20:57:28+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 20:57:28+00:00
-lastmod: 2026-07-10 20:57:28+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -40,7 +40,10 @@ related_articles:
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[perception]]'
 title: Blindsight
-topics: []
+topics:
+- '[[dualist-perception]]'
+- '[[neurological-dissociations-as-interface-architecture]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
 Blindsight patients have damage to primary visual cortex (V1) that eliminates conscious visual experience in portions of their visual field—they report seeing nothing. Yet when forced to guess about stimuli presented in the blind region, they perform significantly above chance on discrimination tasks: identifying location, motion direction, color, and even emotional expressions. The phenomenon demonstrates that sophisticated visual processing can proceed without phenomenal awareness, providing strong evidence for consciousness-processing dissociation—one of several [perceptual dissociations](/topics/dualist-perception/) that sharpen the hard problem.

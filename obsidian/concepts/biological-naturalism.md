@@ -4,9 +4,12 @@ description: "Searle's biological naturalism—consciousness as caused-but-irred
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-19T23:26:00+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[arguments-against-materialism]]"
+  - "[[philosophy-of-mind]]"
+  - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[substance-property-dualism]]"
   - "[[disguised-property-dualism]]"

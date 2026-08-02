@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-26 17:50:00+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 17:50:00+00:00
-lastmod: 2026-07-26 17:50:00+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles:
 - '[[heterophenomenology]]'
@@ -27,7 +27,10 @@ related_articles:
 - '[[unity-of-consciousness]]'
 - '[[falsification-roadmap-for-the-interface-model]]'
 title: Multiple Drafts Model and the Cartesian Theater
-topics: []
+topics:
+- '[[eliminative-materialism]]'
+- '[[temporal-consciousness]]'
+- '[[philosophy-of-mind]]'
 ---
 
 Daniel Dennett's **Multiple Drafts Model (MDM)** is the most precise materialist statement of a view the Map must engage at full strength: that there is no place or moment in the brain where "it all comes together" for a central observer. Introduced in *Consciousness Explained* (1991) and developed and defended with Marcel Kinsbourne in "Time and the observer" (1992), MDM matters here because it targets exactly the picture the Map's dualism could be mistaken for — a consciousness that watches a screen. The Map's response, developed below, is to accept most of MDM's anti-homuncular neuroscience while declining the further eliminativist conclusion. Within Dennett's own framework the experiential residue the Map defends does not survive; the Map argues that framework itself imports a contestable step.

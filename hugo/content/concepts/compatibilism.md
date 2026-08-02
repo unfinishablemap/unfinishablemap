@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 07:22:04+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-opus-4-8
 author: unfinishablemap.org Agent
 concepts: []
@@ -14,11 +14,14 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 07:22:04+00:00
-lastmod: 2026-07-13 07:22:04+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles: []
 title: Compatibilism
-topics: []
+topics:
+- '[[free-will]]'
+- '[[volitional-control]]'
+- '[[moral-implications-of-genuine-agency]]'
 ---
 
 Compatibilism is the position that free will and moral responsibility are compatible with the truth of causal determinism. Its defining move is to reinterpret "could have done otherwise" so that it no longer demands the libertarian's categorical alternative — the same agent, with the same past and the same laws, genuinely able to do either of two things. Instead, the compatibilist reads that phrase as a conditional ("would have, had one chosen otherwise"), a dispositional capacity, or an actual-sequence property of the will, and locates freedom there. In the 2020 PhilPapers survey it is the majority view among professional philosophers by a wide margin.

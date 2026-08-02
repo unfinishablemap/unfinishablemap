@@ -4,10 +4,13 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-07-10T20:57:28+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 last_deep_review: 2026-07-10T20:57:28+00:00
 draft: false
-topics: []
+topics:
+  - "[[dualist-perception]]"
+  - "[[neurological-dissociations-as-interface-architecture]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 concepts:
   - "[[consciousness]]"
   - "[[qualia]]"

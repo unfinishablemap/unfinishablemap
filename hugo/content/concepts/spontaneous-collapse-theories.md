@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-06 14:43:35+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:43:35+00:00
-lastmod: 2026-07-06 14:43:35+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -36,7 +36,10 @@ related_articles:
 - '[[argument-from-reason]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 title: Spontaneous Collapse Theories
-topics: []
+topics:
+- '[[philosophical-stakes-of-spontaneous-collapse]]'
+- '[[quantum-measurement-and-consciousness]]'
+- '[[qm-interpretations-beyond-many-worlds]]'
 ---
 
 Spontaneous collapse theories (also called objective collapse or dynamical reduction models) solve the [measurement-problem](/concepts/measurement-problem/) by modifying the Schrödinger equation to include stochastic, nonlinear terms that cause wave functions to collapse spontaneously—without observers, measurements, or consciousness. For dualist interactionism, these theories solve a critical challenge: **how did quantum systems collapse before consciousness existed?** By providing a consciousness-independent baseline collapse mechanism, GRW and CSL theories allow consciousness to **modulate** rather than wholly cause collapse, directly supporting the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. This framework preserves quantum indeterminism while avoiding the panpsychist implication that every quantum event requires proto-consciousness.

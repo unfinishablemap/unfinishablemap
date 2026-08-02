@@ -4,9 +4,12 @@ description: "Cramer's offer/confirmation handshake and Kastner's possibilist re
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-12T20:13:00+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[qm-interpretations-beyond-many-worlds]]"
+  - "[[presentiment-and-retrocausality]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts: [collapse-and-time, retrocausality, relational-quantum-mechanics, qbism, von-neumann-wigner-interpretation]
 related_articles: []
 ai_contribution: 100

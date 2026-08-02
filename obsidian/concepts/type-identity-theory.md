@@ -4,9 +4,12 @@ description: "Type-identity theory holds that mental state-types are brain state
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-17T16:31:46+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[arguments-against-materialism]]"
+  - "[[philosophy-of-mind]]"
+  - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[functionalism]]"
   - "[[eliminative-materialism]]"

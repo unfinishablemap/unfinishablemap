@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-19 23:26:00+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,13 +17,16 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 23:26:00+00:00
-lastmod: 2026-07-19 23:26:00+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles:
 - '[[hard-problem-of-consciousness]]'
 - '[[machine-consciousness]]'
 title: Biological Naturalism
-topics: []
+topics:
+- '[[arguments-against-materialism]]'
+- '[[philosophy-of-mind]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 Biological naturalism is John Searle's theory that consciousness is a real, higher-level biological feature of the brain—*caused by* neuronal processes and *realized in* the brain as a system feature—that is **causally reducible but ontologically irreducible** to those processes. On Searle's account this dissolves the traditional mind-body problem: consciousness is a biological feature of the brain roughly the way digestion is a feature of the stomach, so there is no need to choose between dualism and materialism because the dichotomy that generates the problem is itself a Cartesian mistake. The Unfinishable Map treats biological naturalism as its most important *non-dualist* rival—the strongest attempt to keep subjectivity real and irreducible without accepting dualism—and argues, framework-relative to Searle's own commitments, that the position is unstable: it either collapses into property dualism in all but name, or leaves the [hard problem](/topics/hard-problem-of-consciousness/) exactly where it found it.

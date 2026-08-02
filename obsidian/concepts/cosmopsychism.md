@@ -4,9 +4,12 @@ description: "Cosmopsychism is priority-monist panpsychism: the cosmos as the on
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-30T17:30:39+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[panpsychisms-combination-problem]]"
+  - "[[consciousness-and-the-metaphysics-of-composition]]"
+  - "[[hard-problem-of-consciousness]]"
 concepts: ["panpsychism", "combination-problem", "russellian-monism"]
 related_articles: ["open-individualism-and-the-de-combination-problem", "analytic-idealism-and-mind-centric-metaphysics", "panpsychisms-combination-problem"]
 ai_contribution: 100

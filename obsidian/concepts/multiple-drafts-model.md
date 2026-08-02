@@ -4,9 +4,12 @@ description: "Dennett's Multiple Drafts Model rejects the Cartesian Theater. The
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-26T17:50:00+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[eliminative-materialism]]"
+  - "[[temporal-consciousness]]"
+  - "[[philosophy-of-mind]]"
 concepts: [heterophenomenology, illusionism, global-workspace-theory, unity-of-consciousness]
 related_articles:
   - "[[heterophenomenology]]"

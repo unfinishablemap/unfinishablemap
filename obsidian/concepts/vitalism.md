@@ -4,10 +4,13 @@ description: "Vitalism, the élan vital, and the anti-dualist meta-induction, wo
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T02:30:25+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 last_deep_review: 2026-07-13T02:30:25+00:00
 draft: false
-topics: []
+topics:
+  - "[[reductionism]]"
+  - "[[arguments-against-materialism]]"
+  - "[[hard-problem-of-consciousness]]"
 concepts: [reductionism, type-specificity, hard-problem-of-consciousness]
 related_articles: [reductionism, mysterianism, type-specificity, the-convergence-argument-for-dualism]
 ai_contribution: 100

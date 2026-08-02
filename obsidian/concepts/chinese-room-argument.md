@@ -4,9 +4,12 @@ description: "Searle's Chinese Room against Strong AI: syntax isn't semantics, t
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[ai-consciousness]]"
+  - "[[machine-consciousness]]"
+  - "[[philosophy-of-mind]]"
 concepts:
   - "[[intentionality]]"
   - "[[symbol-grounding-problem]]"

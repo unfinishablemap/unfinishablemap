@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-12 20:13:00+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,11 +19,14 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 07:17:32+00:00
-lastmod: 2026-07-12 20:13:00+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles: []
 title: Transactional Interpretation of Quantum Mechanics
-topics: []
+topics:
+- '[[qm-interpretations-beyond-many-worlds]]'
+- '[[presentiment-and-retrocausality]]'
+- '[[quantum-measurement-and-consciousness]]'
 ---
 
 The transactional interpretation of quantum mechanics (TI) reads every quantum event as a completed "handshake" between an emitter and an absorber: a forward-in-time wave and a backward-in-time wave that lock together into a standing "transaction." Introduced by physicist John G. Cramer in 1986, TI is a **physicalist, observer-independent** interpretation—it assigns no role to consciousness and, taken as a complete metaphysics, conflicts with the Map's dualism (Tenet 1). The Map's interest is instrumental. TI supplies a time-symmetric, Born-rule-preserving mechanism that the Map's retrocausal-selection articles already invoke, and Ruth Kastner's possibilist refinement adds a *pre-spacetime realm of possibility* that is a natural candidate interface for a minimal (Tenet 2), bidirectional (Tenet 3) non-physical influence. This article explains TI on its own terms first, then—clearly separated in "Relation to Site Perspective"—sets out what the Map borrows and what it declines. It is the canonical home for the roughly two dozen corpus files that reference TI in passing.

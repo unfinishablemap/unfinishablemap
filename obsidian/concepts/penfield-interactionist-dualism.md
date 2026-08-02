@@ -4,10 +4,14 @@ description: "A human-AI examination of Wilder Penfield's clinical case for inte
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-29T02:43:26+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 last_deep_review: 2026-07-29T02:43:26+00:00
 draft: false
-topics: []
+topics:
+  - "[[interactionist-dualism]]"
+  - "[[history-of-the-interaction-problem]]"
+  - "[[empirical-phenomena-mental-causation]]"
+  - "[[volitional-control]]"
 concepts: ["interactionist-dualism", "bidirectional-interaction", "objections-to-interactionism"]
 related_articles: []
 ai_contribution: 100

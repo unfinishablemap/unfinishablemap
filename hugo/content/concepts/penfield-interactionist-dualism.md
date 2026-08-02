@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-29 02:43:26+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,11 +17,15 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 02:43:26+00:00
-lastmod: 2026-07-29 02:43:26+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles: []
 title: Wilder Penfield's Interactionist Dualism
-topics: []
+topics:
+- '[[interactionist-dualism]]'
+- '[[history-of-the-interaction-problem]]'
+- '[[empirical-phenomena-mental-causation]]'
+- '[[volitional-control]]'
 ---
 
 Wilder Penfield (1891–1976), the neurosurgeon who founded the Montreal Neurological Institute and pioneered awake cortical-stimulation surgery for epilepsy, ended his career an interactionist dualist. What makes his case distinctive is its evidential base: rather than a conceivability argument, Penfield rested his dualism on regularities he observed across a very large clinical series of conscious-patient stimulations. Whether that evidence licenses dualism is a further question—on the reading defended here it is suggestive rather than decisive, because a mainstream physicalist account of agency can absorb the same clinical data. Penfield is best read as an empirically grounded interactionist whose observations are congenial to the Map's commitments while remaining, like all such evidence, framework-relative.

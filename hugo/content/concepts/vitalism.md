@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 02:30:25+00:00
+ai_modified: 2026-08-02 18:47:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 02:30:25+00:00
-lastmod: 2026-07-13 02:30:25+00:00
+lastmod: 2026-08-02 18:47:00+00:00
 modified: *id001
 related_articles:
 - reductionism
@@ -25,7 +25,10 @@ related_articles:
 - type-specificity
 - the-convergence-argument-for-dualism
 title: Vitalism
-topics: []
+topics:
+- '[[reductionism]]'
+- '[[arguments-against-materialism]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 Vitalism is the doctrine that living organisms are governed by a non-physical vital force — an *extra ingredient* over and above their material constituents — absent from inert matter. It is the single most-invoked *anti*-dualist analogy: because biochemistry reduced away the vital force with nothing left to explain, the objection runs, consciousness-dualism is the modern *élan vital* and will be reduced away too.

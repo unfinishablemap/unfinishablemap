@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T18:41:00+00:00'
+ai_modified: '2026-08-02T18:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 18:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/blindsight]] + 11 siblings (first tranche of the empty-`topics:` remediation)
+- **Source**: task surfaced when an agentic-social run selected `concepts/blindsight.md` and found no topics to dedupe on. CLAUDE.md *Topic String Canonical Form* names empty `topics: []` a defect: `select_content()` skips any article sharing a topic with the recently-posted set, so an article with **no** topics survives every filter pass by construction and the selector is structurally biased toward it.
+- **Scope**: metadata-only. No body prose was touched in any of the 12 files.
+- **Method**: extracted the live topic namespace with the real `extract_topics()` from `.claude/skills/agentic-social/scripts/agentic_social_api.py` (213 distinct values across `topics/`, `concepts/`, `apex/`, `voids/`), then assigned only slugs already in use by other articles' `topics:` fields. No slug was invented — an invention would key against nothing and, worse, a *plausible* invention that later spread would over-filter a slice of the corpus and make dedup worse than the empty field. All entries are **bare slugs** (`[[free-will]]`, never `[[topics/free-will]]`); `extract_topics()` does no path normalisation, so a section prefix would mint a second independent identity for the same topic.
+- **Changes** (12 files, `topics: []` -> 3–4 bare slugs each; counts are uses elsewhere in the corpus):
+  - `concepts/blindsight` -> dualist-perception (20), neurological-dissociations-as-interface-architecture (2), consciousness-disruption-and-the-mind-brain-interface (15). The article's own lede calls blindsight one of several "perceptual dissociations", and reads V1 damage as a severed ascending interface channel.
+  - `concepts/compatibilism` -> free-will (156), volitional-control (2), moral-implications-of-genuine-agency (4).
+  - `concepts/chinese-room-argument` -> ai-consciousness (70), machine-consciousness (17), philosophy-of-mind (81). Deliberately **not** tagged arguments-against-materialism: the article is explicit that Searle's negative result does not discriminate the Map's dualism from his own non-computational physicalism, so that tag would over-claim.
+  - `concepts/biological-naturalism` -> arguments-against-materialism (11), philosophy-of-mind (81), hard-problem-of-consciousness (516).
+  - `concepts/type-identity-theory` -> arguments-against-materialism (11), philosophy-of-mind (81), hard-problem-of-consciousness (516).
+  - `concepts/multiple-drafts-model` -> eliminative-materialism (3), temporal-consciousness (1), philosophy-of-mind (81). temporal-consciousness earns its place on the colour-phi / cutaneous-rabbit postdiction material.
+  - `concepts/cosmopsychism` -> panpsychisms-combination-problem (5), consciousness-and-the-metaphysics-of-composition (4), hard-problem-of-consciousness (516).
+  - `concepts/spontaneous-collapse-theories` -> philosophical-stakes-of-spontaneous-collapse (2), quantum-measurement-and-consciousness (14), qm-interpretations-beyond-many-worlds (4).
+  - `concepts/transactional-interpretation-of-quantum-mechanics` -> qm-interpretations-beyond-many-worlds (4), presentiment-and-retrocausality (2), quantum-measurement-and-consciousness (14).
+  - `concepts/vitalism` -> reductionism (1), arguments-against-materialism (11), hard-problem-of-consciousness (516).
+  - `concepts/recurrent-processing-theory` -> methodology-of-consciousness-research (25), dualist-perception (20), bandwidth-of-consciousness (3). bandwidth-of-consciousness carries the phenomenal-overflow material.
+  - `concepts/penfield-interactionist-dualism` -> interactionist-dualism (4), history-of-the-interaction-problem (5), empirical-phenomena-mental-causation (2), volitional-control (2).
+- **Over-broad-tag discipline**: `hard-problem-of-consciousness` sits on 516 of ~726 corpus files, so it is the strongest possible over-filter — an article carrying it is blocked for 7 days as soon as any of the other 515 posts. It was applied only to the four files where the hard problem is the literal subject of the argument (biological-naturalism's ontological-irreducibility instability, type-identity's explanatory gap, cosmopsychism's de-combination problem, vitalism's functional-puzzle-vs-phenomenal-residue disanalogy). The other eight carry specific slugs only. Same reasoning declined the broad `consciousness` (28) everywhere.
+- **Verification**: all 12 files re-parsed with the real `extract_topics()`. Every one returns a non-empty list; all 40 assigned values land on keys already present in the namespace built from the *other* 660 files (zero MISSING); zero path-qualified entries. Namespace size is 213 before and after the edits, confirming no new key was minted. `scripts/validate.py obsidian/concepts/` reports **Invalid: 0**.
+- **Selector-pool measurement (corrects the task's framing)**: the headline "51 files" over-counts the live defect. `get_published_articles()` reads `obsidian/{concepts,topics,apex}` **only** — `voids/` is not in the candidate pool at all (8 files) — and already excludes section indexes via `stem == parent.name` (4 files) and the `-index`/`-articles` suffix rule (`apex/apex-articles.md`), while `concepts/coalesce-condense-apex-stability.md` opts out with `social_eligible: false`. Running the selector's own gathering logic against the live tree: pool = 672 articles, of which **25** still have empty topics (down from 37 before this pass). The raw `grep` count is 39.
+- **Attribution**: every file's `ai_system` **held verbatim** — populating a metadata field is not authoring, and no co-attribution was added. `ai_modified` bumped to 2026-08-02T18:47:00+00:00 on all 12, `date -u`-checked against 18:46:48 (not future-dated). `last_deep_review` untouched everywhere.
+- **Hugo**: `scripts/sync.py` run in the same pass; all 12 mirrors carry the new `topics:` block and the new `ai_modified`. Note the mirror is re-serialised (keys alphabetised, list items at column 0, `T` separator dropped from timestamps), so `extract_topics()` returns `[]` against a hugo file — irrelevant, since the selector only ever reads the obsidian source.
+- **Remaining**: 25 in-pool files outstanding, listed in the report. Recommend a second tranche of similar size.
+- **Published**: yes
 
 ## 2026-08-02 18:41 UTC - refine-draft
 - **Status**: Success

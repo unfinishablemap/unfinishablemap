@@ -4,9 +4,12 @@ description: "Lamme's local-recurrency NCC theory: phenomenal consciousness as r
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T12:34:00+00:00
+ai_modified: 2026-08-02T18:47:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[methodology-of-consciousness-research]]"
+  - "[[dualist-perception]]"
+  - "[[bandwidth-of-consciousness]]"
 concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[phenomenal-overflow]]"
