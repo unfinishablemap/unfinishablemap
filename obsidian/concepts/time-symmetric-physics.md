@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-06-05T00:12:38+00:00
+ai_modified: 2026-08-02T20:47:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,7 +125,7 @@ Price's argument doesn't require accepting retrocausality in all contexts. It es
 
 Time-symmetric physics dissolves this objection. If future boundary conditions constrain past states, consciousness needn't temporally precede neural activity to causally influence it. The selection of which outcome becomes actual can operate atemporally—determining which correlations hold across the entire temporal sequence, including the "preparatory" neural activity.
 
-This time-symmetric route is not the only available response. The Map also develops a [[forward-in-time-conscious-selection|forward-in-time conscious selection]] family of mechanisms that addresses the Libet timing problem without retrocausality—relocating the conscious role to post-decoherence selection, where decoherence has already produced a menu of classically distinguishable outcomes that consciousness selects among forward in time. The forward and time-symmetric routes are genuine alternatives within the Map's interactionist commitments rather than rivals: each carries different mechanistic costs (see [[mechanism-costs-cartography]] and [[apex/post-decoherence-selection-programme|the post-decoherence selection programme]]). The [[forward-in-time-vs-time-symmetric-selection|forward-in-time vs time-symmetric selection comparison]] gathers that cost accounting at full resolution, reading off what each route owes metaphysically, physically, and empirically without adjudicating between them.
+This time-symmetric route is not the only available response. The Map also develops a [[forward-in-time-conscious-selection|forward-in-time conscious selection]] family of mechanisms that addresses the Libet timing problem without retrocausality—relocating the conscious role to post-decoherence selection. Decoherence fixes the preferred basis and suppresses interference, but what it hands over is an improper mixture rather than a menu of already-localized actualities waiting for one to be picked out; reading it as such a menu, with consciousness choosing one pre-existing outcome from it, is a category error. What selection names on that route is the transition *from* that mixture *to* a single actual outcome, effected forward in time rather than through a future boundary condition. The forward and time-symmetric routes are genuine alternatives within the Map's interactionist commitments rather than rivals: each carries different mechanistic costs (see [[mechanism-costs-cartography]] and [[apex/post-decoherence-selection-programme|the post-decoherence selection programme]]). The [[forward-in-time-vs-time-symmetric-selection|forward-in-time vs time-symmetric selection comparison]] gathers that cost accounting at full resolution, reading off what each route owes metaphysically, physically, and empirically without adjudicating between them.
 
 ### The Quantum Zeno Interface
 
