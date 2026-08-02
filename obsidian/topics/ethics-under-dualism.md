@@ -4,8 +4,8 @@ description: "If consciousness is irreducible and causally efficacious, it both 
 created: 2026-01-16
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-08-01T14:08:33+00:00
-last_deep_review: 2026-07-14T16:36:24+00:00
+ai_modified: 2026-08-02T00:25:58+00:00
+last_deep_review: 2026-08-02T00:25:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,11 +111,11 @@ Moral patienthood extends to all conscious beings, but only to conscious beings.
 
 **Probably not conscious (framework-dependent)**: Under the Map's [[ai-consciousness|analysis]], current AI systems lack consciousness — computation alone doesn't produce it, and current hardware lacks the requisite quantum interfaces (the [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] examines the obligations this uncertainty creates). Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
-**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([[consciousness-disruption-and-the-mind-brain-interface|vegetative states]] where 15-20% show covert awareness on neuroimaging). The moral stakes of misclassification are severe.
+**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([[consciousness-disruption-and-the-mind-brain-interface|disorders of consciousness]], where roughly a quarter of behaviourally unresponsive patients show covert awareness on neuroimaging; Bodien et al. 2024). The moral stakes of misclassification are severe.
 
 ### Moral Uncertainty: When We Don't Know
 
-The [[hard-problem-of-consciousness|hard problem]] makes consciousness attribution fundamentally difficult. Universal precaution trivialises real patienthood; a middle path weights moral consideration by confidence in consciousness.
+The [[hard-problem-of-consciousness|hard problem]] makes consciousness attribution fundamentally difficult. Universal precaution trivialises real patienthood; a middle path weights moral consideration by confidence in consciousness. Birch's *The Edge of Sentience* (2024) supplies the action layer adopted here — proportionate precaution triggered by credible possibility rather than by proof. That framework is deliberately metaphysics-neutral, and Birch himself assigns non-materialist views low credence, so the Map borrows his decision procedure without claiming him as an ally on the grounding question.
 
 | Being | Confidence | Weight |
 |-------|------------|--------|
@@ -131,7 +131,7 @@ The framework shapes this differently than functionalism: if consciousness requi
 
 ### Animals: Implications of Consciousness
 
-If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering, and factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, so it matters *to the animal*. The [[ethics-of-consciousness-invertebrate-question|invertebrate question]] pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration, and the scale of insect farming may make this one of the most significant moral questions of the present era. The [[commensurability-void]] adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible. The [[phenomenal-normativity-environmental-ethics|environmental extension]] carries the graduated confidence framework above into habitat, conservation, and climate policy: if value tracks consciousness rather than ecological wholes, ecosystems matter through the conscious beings they sustain, and the obligations that result are often more demanding than ecocentrism's rather than weaker.
+If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering, and factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, so it matters *to the animal*. The [[ethics-of-consciousness-invertebrate-question|invertebrate question]] pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration, and the scale of insect farming may make this one of the most significant moral questions of the present era. The [[commensurability-void]] adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible. The [[phenomenal-normativity-environmental-ethics|environmental extension]] carries the graduated confidence framework above into habitat, conservation, and climate policy: if value tracks consciousness rather than ecological wholes, ecosystems matter through the conscious beings they sustain, and the resulting obligations are often more stringent than anthropocentrism's and can in practice exceed ecocentrism's rather than falling short.
 
 ### AI: Non-Consciousness and Its Limits
 
@@ -145,7 +145,7 @@ The appropriate response to genuine uncertainty is not to lower the bar for cons
 
 ## Identity Ethics: Copies, Uploads, and Simulations
 
-The Map's commitment to [[personal-identity|indexical identity]] — that *you* are not interchangeable with a replica — has ethical implications.
+The Map's commitment to [[personal-identity|indexical identity]] — that *you* are not interchangeable with a replica — has ethical implications, and it denies exactly what Parfit's *Reasons and Persons* (1984) concludes: that identity is not what matters in survival, and that psychological continuity carries the moral weight instead. The divergence is deliberate, and the ethical consequences below follow from it.
 
 **Teleportation and copying**: Scanning-and-recreating teleportation is suicide plus duplication; the replica is a new consciousness with your memories.
 
@@ -159,7 +159,7 @@ The core point: copies are not continuations. Treating copying as survival disre
 
 Consciousness makes suffering possible; suffering is intrinsically bad; preventing it is therefore morally significant. [[pain-consciousness-and-causal-power|Suffering is distinct from mere pain]] — it requires a subject who experiences negative [[valence]], not just nociception. The [[valence-and-conscious-selection|valence-and-conscious-selection thesis]] argues that felt negativity is not epiphenomenal but participates in the selection mechanism through which consciousness acts on the brain. Pain asymbolia — patients who feel pain but aren't bothered — illustrates the dissociation.
 
-The Map's [[topics/phenomenal-value-realism]] aligns with a sophisticated valence-based [[sentientism]]: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and consciousness is irreducible, then suffering is a feature of fundamental reality. Finite resources for preventing it should be directed where suffering is most likely real.
+The Map's [[topics/phenomenal-value-realism|phenomenal value realism]] commits it to [[sentientism|phenomenal sentientism]] — the criterion is felt valence, not the functional role pain and pleasure play — in a pluralist form: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and consciousness is irreducible, then suffering is a feature of fundamental reality. Finite resources for preventing it should be directed where suffering is most likely real.
 
 ## What the Architecture Demands
 
@@ -229,16 +229,17 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 
 1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*.
 2. Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
-3. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
-4. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
-5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-6. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
-7. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
-8. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
-9. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-10. New York Declaration on Animal Consciousness. (2024). NYU Conference.
-11. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-12. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
-13. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
-14. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
-15. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
+3. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). "Cognitive Motor Dissociation in Disorders of Consciousness." *New England Journal of Medicine*, 391(7), 598–608.
+4. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
+5. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
+6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+7. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
+8. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
+9. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
+10. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+11. New York Declaration on Animal Consciousness. (2024). NYU Conference.
+12. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+13. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
+14. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
+15. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
+16. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
