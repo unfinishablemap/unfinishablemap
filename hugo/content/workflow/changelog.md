@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 02:03 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Before**: 4358 words (`hard_warning`, 358 over the 4,000 topics ceiling)
+- **After**: 3978 words (`soft_warning`)
+- **Reduction**: 8.7% (−380 words). Apparatus held at 522 (22-item Further Reading + 24-item References, untouched per the task's protection); prose 3,836 → 3,456 (−9.9%).
+- **Technique**: Redundancy and deferral, no section deleted, no argumentative step lost.
+  - **Terminal-lucidity block (the queued primary target), 645 → ~530.** Dropped the per-category event percentages (orientation 67.8% / old memories 34.8% / functional abilities 27.7%) — the owning sibling [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) carries the full table, and this article's own stated stance is that it "inherits that verdict rather than re-adjudicating it". Retained figures now read: 1,405 eligible / 151 enrolled (10.7%) / 93 with ≥1 event (61.6%) / 267 events / 4.1% terminal. **Dropped figures were dropped, not restated from memory**, per the do-not-touch rule on the publisher-verified baseline. Tightened the mechanism enumeration and the closing measurement-gap paragraph; added a pointer that the sibling carries the event-type breakdown.
+  - **Preserve-verbatim list honoured in full** (grep-verified after the pass): (a) the evidential-ambition disclaimer, both flagged clauses; (b) the three-caveat Tollock paragraph, untouched character-for-character; (c) the common-cause-null caveat; (d) the constrain-versus-establish scoping sentence with its "severity subset the retrospective autopsy cases document" base, so the three-way alignment with the sibling and [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) survives; (e) the Tegmark decoherence deferral paragraph, untouched.
+  - **Comparative Dimension, 255 → ~195.** Three `###` subsections merged into flowing prose; every distinct claim kept (prolonged development as interface investment, the ape plateau at concrete operations, trajectory-determines-configuration with the octopus/corvid cases). Verified first that no article anchors into those headings — corpus grep for `consciousness-interface-development#` returned zero.
+  - **Cognitive Stages as Interface Modes, 185 → ~130.** Cut the standard Piagetian stage exemplars (pretend play, conservation/classification/seriation) as background the audience already has; kept each stage's interface gloss and the Kuhn 2006 uneven-attainment calibration point.
+  - **Sentence-level tightening** across the five phases, the skill-acquisition summary and the Relation-to-Site tenet paragraphs. Removed one duplicate empirical claim (neonatal cross-modal integration, stated twice), and converted the Trajectory section's restatement of the developmental asymmetry into a back-reference to its first statement.
+- **Verification**: wikilink set identical to HEAD (only an alias capitalisation differs — same target); both forward references still resolve ("the observer-effect worry below" → the observer-effect item retained in the following paragraph; "the developmental asymmetry noted above" → its statement in the adolescence section). `ai_system` held verbatim (no genuinely new source attribution — the connective prose is recombination); `last_deep_review` untouched.
+
 ## 2026-08-02 01:42 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
