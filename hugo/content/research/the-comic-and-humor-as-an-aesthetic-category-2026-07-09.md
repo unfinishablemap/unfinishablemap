@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-02 13:49:47+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-09
-date: '2026-07-09'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-07-09 00:00:00+00:00
+lastmod: 2026-08-02 13:49:47+00:00
 related_articles: []
 title: Research Notes - The Comic and Humor as an Aesthetic Category
 ---
@@ -56,8 +57,8 @@ The structural sibling article **does** exist: `topics/the-sublime-and-negative-
 - Kant illustrates with the story of the Indian astonished that the beer foamed out of a bottle — the joke turning on how it got *in*. Kant stresses that the pleasure is bodily, not intellectual: the play of thought produces an "alternating tension and relaxation" felt in the body. This bodily/anti-cognitivist strand is a useful counter-nuance to a purely propositional reading.
 
 ### Schopenhauer, *The World as Will and Representation*, Vol. I §13 (1818), developed in Vol. II ch. 8 (1844)
-- **Verification status**: VERIFIED — §13 (Vol. I) confirmed as the primary locus; the fuller "Theory of the Comical" is Vol. II, ch. 8 of the 1844 second edition.
-- **Core claim**: Laughter is "the sudden perception of an incongruity between a concept and the real [perceived] object" — between abstract thought and intuitive perception. In any conflict between the perceived and the conceived, "what is perceived is always unquestionably right." Wit is the facility for subsuming an object under an unexpected concept.
+- **Verification status**: VERIFIED at quote level 2026-08-02 (SEP "Philosophy of Humor"). §13 (Vol. I) confirmed as the primary locus; the fuller "Theory of the Comical" is Vol. II, ch. 8 of the 1844 second edition. Translation is Haldane and Kemp (*The World as Will and Idea*, 1907), per SEP's bibliography.
+- **Core claim** (full sentence, verbatim — the paraphrase circulated in the 2026-07-09 draft of this note dropped a clause and reassigned the predicate): "The cause of laughter in every case is simply the sudden perception of the incongruity between a concept and the real objects which have been thought through it in some relation, and laughter itself is just the expression of this incongruity." Note that the perception is the *cause* of laughter and laughter the *expression* of the incongruity; laughter is not identified with the perception. Also verbatim: "In every suddenly appearing conflict between what is perceived and what is thought, what is perceived is always unquestionably right." Wit is the facility for subsuming an object under an unexpected concept.
 - Note: often cited by translation title *The World as Will and Idea* (Haldane & Kemp, 1907) — the SEP uses that title. Both refer to the same work; prefer the modern "Representation" translation in article prose.
 
 ### Freud, *Jokes and Their Relation to the Unconscious* (1905)
@@ -77,7 +78,7 @@ The structural sibling article **does** exist: `topics/the-sublime-and-negative-
 ### Hurley, Dennett & Adams, *Inside Jokes: Using Humor to Reverse-Engineer the Mind* (2011)
 - **Verification status**: VERIFIED — MIT Press, 2011 (hardcover; paperback 2013), ISBN 9780262518697.
 - **Type**: Book — the leading COMPUTATIONAL / evolutionary account. This is the rival to name for calibration.
-- **Core claim**: Humor is "a detailed and sophisticated descendant of incongruity theories." The mind, doing open-ended predictive inference under time pressure, unconsciously commits to a false assumption; mirth is the reward signal delivered when that covert error is discovered and retracted ("epistemic caretaking"). Natural selection "cannot just order the brain to find and fix all our... misleaps... She has to bribe the brain with pleasure." On this account amusement is fully explained as an evolved computational reward — **no experiential primitive is posited or needed.** A system could detect and correct the covert error (and even reap the functional benefit) without any account of *why it is felt*. This is precisely the model that dissolves the "irreducible quale" reading, and must be presented as a live competitor.
+- **Core claim**: The mind, doing open-ended inference under time pressure, unconsciously commits to a false assumption; mirth is the reward signal delivered when that covert error is discovered and retracted ("epistemic caretaking"). Verbatim from MIT Press's publisher summary of the book (verified 2026-08-02): "Mother Nature—aka natural selection—cannot just order the brain to find and fix all our time-pressured misleaps and near-misses. She has to bribe the brain with pleasure." **Attribution correction (2026-08-02):** the phrase "a detailed and sophisticated descendant of incongruity theories" is *not* the authors' own — it is from the *Times Literary Supplement* review extract quoted in MIT Press's praise section. The 2026-07-09 draft of this note attributed it to the book, and the article inherited the misattribution. On this account amusement is fully explained as an evolved computational reward — **no experiential primitive is posited or needed.** A system could detect and correct the covert error (and even reap the functional benefit) without any account of *why it is felt*. This is precisely the model that dissolves the "irreducible quale" reading, and must be presented as a live competitor.
 
 ## Major Positions
 
@@ -150,7 +151,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for named-a
 
 ## Gaps in Research
 
-- Did not fetch the full text of *Inside Jokes* or Carroll's VSI — book-length claims are summarized from reviews/publisher copy, not primary reading. The *Inside Jokes* "epistemic caretaking / bribe the brain" mechanism should be re-verified against the book (or a substantive review) at expand time if quoted directly.
+- Did not fetch the full text of *Inside Jokes* or Carroll's VSI — book-length claims are summarized from reviews/publisher copy, not primary reading. The *Inside Jokes* "epistemic caretaking / bribe the brain" mechanism should be re-verified against the book (or a substantive review) at expand time if quoted directly. **Partially closed 2026-08-02**: the "bribe the brain with pleasure" passage was located verbatim in MIT Press's publisher summary and is now quoted as such (not as authorial text); the "descendant of incongruity theories" phrase was traced to the *TLS* review extract on the same page. Neither is confirmed against the book's body text, and the article no longer asserts that either is.
 - Freud page numbers (SEP cites pp. 254, 293, 295 of the Standard Edition) are edition-specific; verify against the specific translation cited if page-level citation is used.
 - Did not survey the predictive-processing-specific humor literature (e.g., surprise/prediction-error models beyond *Inside Jokes*). If the article leans on "predictive processing" by name, add one targeted search at expand time.
 - Empirical psychology of mirth (Provine on laughter's social contagion; affective neuroscience of the "getting it" moment) was only touched via SEP; deeper empirical grounding would strengthen a science-connections section.
@@ -166,5 +167,9 @@ When writing the article, follow `obsidian/project/writing-style.md` for named-a
 - Freud, Sigmund. *Jokes and Their Relation to the Unconscious* (1905; Strachey trans., Standard Edition). — VERIFIED (year/title); page numbers UNVERIFIED at edition level.
 - Clark, Michael. "Humour and Incongruity." *Philosophy* 45(171): 20-32 (1970). DOI 10.1017/S003181910000958X. Reprinted in Morreall (ed.), *The Philosophy of Laughter and Humor* (1987), 139-155. — VERIFIED.
 - Carroll, Noël. *Humour: A Very Short Introduction*. Oxford University Press, 2014. ISBN 9780199552221. — VERIFIED.
-- Hurley, Matthew M., Daniel C. Dennett & Reginald B. Adams, Jr. *Inside Jokes: Using Humor to Reverse-Engineer the Mind*. MIT Press, 2011. ISBN 9780262518697. — VERIFIED (bibliographic); internal mechanism claims summarized from reviews, re-verify at expand if quoted.
+- Hurley, Matthew M., Daniel C. Dennett & Reginald B. Adams, Jr. *Inside Jokes: Using Humor to Reverse-Engineer the Mind*. MIT Press, 2011. ISBN 9780262518697. — VERIFIED (bibliographic). Quoted material traced 2026-08-02 to MIT Press's book listing (https://mitpress.mit.edu/9780262015820/inside-jokes/): the "Mother Nature… bribe the brain with pleasure" passage is publisher summary; "a detailed and sophisticated descendant of incongruity theories" is the *Times Literary Supplement* review extract. Neither is verified against the book's body text.
+- Suls, Jerry. "A Two-Stage Model for the Appreciation of Jokes and Cartoons: An Information-Processing Analysis," in Goldstein & McGhee (eds.), *The Psychology of Humor* (Academic Press, 1972), 81–99. — VERIFIED (OpenAlex; SEP bibliography).
+- Shultz, Thomas R. "A Cognitive-Developmental Analysis of Humour," in Chapman & Foot (eds.), *Humour and Laughter: Theory, Research and Applications* (Wiley, 1976), 11–36. Routledge reissue DOI 10.4324/9780203789469-2. — VERIFIED (OpenAlex). Note SEP's bibliography spells the surname "Schultz"; OpenAlex and the chapter itself give **Shultz**.
+- Spencer, Herbert. "On the Physiology of Laughter," in *Essays on Education, Etc.* (Dent, 1911). — VERIFIED via SEP bibliography.
+- Plato, *Philebus* 48–50 and *Republic* 388e; Aristotle, *Rhetoric* 2.12 ("educated insolence"), *Poetics* 5, *Nicomachean Ethics* 4.8. — VERIFIED (loci confirmed against SEP 2026-08-02).
 - Morreall, John. *Taking Laughter Seriously* (1983); *Comic Relief: A Comprehensive Philosophy of Humor* (2009). — VERIFIED via SEP bibliography.
