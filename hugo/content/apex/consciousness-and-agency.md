@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-08-01 13:17:09+00:00
+ai_modified: 2026-08-02 00:36:56+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-09 21:54:18+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-08-01 13:17:09+00:00
+lastmod: 2026-08-02 00:36:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ This follows from two tenets. [Minimal quantum interaction](/tenets/#minimal-qua
 
 A genuine difficulty arises here: selecting among complex neural firing patterns requires influencing *macroscopic* brain states, not individual quantum events. How does minimal quantum bias produce macroscopic neural selection? The proposed answer involves amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection, much as tiny perturbations in chaotic systems produce dramatically different trajectories. The [mental causation](/concepts/mental-causation-and-downward-causation/) article discusses coupling mechanisms in more detail. Whether this amplification is physically realistic remains an open empirical question the framework must ultimately answer. The standard objection that warm neural tissue decoheres superpositions in ~10⁻¹³ seconds (Tegmark 2000) is contested but unresolved: laboratory work on microtubule architectures keeps the question open without settling it—Babcock et al. (2024) report ultraviolet superradiance across tryptophan mega-networks, and Khan et al. (2024) find the microtubule-stabiliser epothilone B delays anaesthetic-induced unconsciousness in rats—yet these are laboratory and behavioural results, not demonstrations of sustained coherence in an intact functioning brain.
 
-Most cognition is therefore *nonconscious scaffolding*—creative generation, consequence evaluation, motor preparation are brain processes. The "action channel" through which consciousness influences the world has limited bandwidth. The [attentional economics](/concepts/attentional-economics/) framework captures this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill. [Skill delegation](/concepts/skill-delegation/) demonstrates this selective engagement: consciousness trains procedural systems during learning, withdraws from routine execution, and re-engages when novel decisions are needed—a three-phase pattern where the "choking under pressure" phenomenon tells against epiphenomenalism, since attention's re-engagement with automatised skills degrades performance.
+Most cognition is therefore *nonconscious scaffolding*—creative generation, consequence evaluation, motor preparation are brain processes. The "action channel" through which consciousness influences the world has limited bandwidth. The [attentional economics](/concepts/attentional-economics/) framework captures this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill. [Skill delegation](/concepts/skill-delegation/) demonstrates this selective engagement: consciousness trains procedural systems during learning, withdraws from routine execution, and re-engages when novel decisions are needed—a three-phase pattern the "choking under pressure" phenomenon illustrates, though the [friction reading](/concepts/interface-friction/) concedes that standard motor-control models predict the degradation.
 
 Yet the selector model requires a caveat. As [recent work on creative generation](/concepts/agent-causation/) argues, consciousness doesn't merely select from a fixed menu—it also *generates* options through imaginative exploration. Each movement of attention opens further possibilities that didn't exist before the exploration. The agent contributes both which options become actual and which options exist. This generation-selection interplay strengthens the authorship claim: the agent explains the outcome more fully when they also constituted the options available.
 

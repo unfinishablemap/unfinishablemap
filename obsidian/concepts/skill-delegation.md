@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-07T04:25:29+00:00
+ai_modified: 2026-08-02T00:36:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,11 +69,11 @@ Choking reveals three things about skill delegation:
 
 **Reflective control was withdrawn from execution.** If reflective attention had been continuously controlling the skill, re-engaging it would not disrupt anything. The disruption indicates that automated performance operates in a different mode—what Tulving called [[anoetic-noetic-autonoetic-consciousness|anoetic consciousness]]: experiential but non-reflective. Phenomenal consciousness is not absent during smooth execution; what is absent is the effortful, reflective selection that re-engagement reintroduces.
 
-**Consciousness retains causal power.** If the *phenomenal character* of self-monitoring did no causal work—if it were [[concepts/epiphenomenalism|epiphenomenal]]—the dependence of choking on the felt mode of attention would lack explanation. (An epiphenomenalist can still attribute the disruption to the neural correlate of monitoring; what is harder to absorb is why the felt mode tracks the motor outcome so precisely.) The reliable, mode-specific degradation is evidence consistent with [[mental-causation-and-downward-causation|bidirectional interaction]]: consciousness affects physical processes, sometimes disruptively.
+**Re-engagement is where the model locates conscious causal work.** On the delegation reading, what disrupts the skill is the *phenomenal character* of self-monitoring—the felt mode of attention, not merely the fact that a monitoring process is running. That reading is not compelled by the data. An [[concepts/epiphenomenalism|epiphenomenalist]] attributes the disruption to the neural correlate of monitoring and gives up nothing, and [[interface-friction|interface friction]] records the same concession in the same terms: the delegation reading redescribes an established motor-control result under a dualist ontology rather than predicting anything the standard explicit-monitoring and over-arousal models miss. What it offers is a candidate *why*—consciousness forcing low-bandwidth selection back into a channel the brain had learned to run without it—consistent with [[mental-causation-and-downward-causation|bidirectional interaction]] rather than evidence discriminating in its favour.
 
 **The interface is real and directional.** Choking shows that consciousness can *enter* the procedural system but at a cost. The interface works smoothly when consciousness calibrates and withdraws on its own schedule. Forced re-engagement—driven by anxiety rather than deliberate choice—disrupts the system precisely because it reintroduces conscious selection where procedural execution sufficed.
 
-A physicalist can describe choking as prefrontal monitoring circuits disrupting basal ganglia motor programs—one neural subsystem interfering with another. This account is accurate as far as it goes. But it does not explain why the performer *experiences* anxious self-monitoring, or why interventions that alter the phenomenal state (distraction tasks, outcome-focused instructions) reliably alter the disruption. The tight coupling between what performers feel and how they fail suggests the phenomenal dimension is doing causal work.
+A physicalist can describe choking as prefrontal monitoring circuits disrupting basal ganglia motor programs—one neural subsystem interfering with another—and Smoulder et al. (2024) have since located a motor-cortical substrate for the effect. The interventions that reliably alter the disruption cannot be pressed against that account: distraction tasks and outcome-focused instructions were *designed from* the explicit-monitoring and distraction models, and Gröpel and Mesagno (2019) catalogue their effects across 47 studies as those models' own successes. What the physicalist account leaves open is narrower—why the performer *experiences* anxious self-monitoring at all, and why the felt mode of attention rather than monitoring as such tracks the failure. The delegation reading offers an answer to that question without out-predicting the standard models on the phenomenon itself.
 
 ## Automaticity Gradients
 
@@ -131,7 +131,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 
 **[[tenets#^dualism|Dualism]]**: Skill delegation presupposes that consciousness and procedural systems are distinct—otherwise "delegation" is merely one neural subsystem handing off to another, with no phenomenal dimension. The felt difference between consciously controlling an action and letting it run automatically—the shift from [[phenomenology-of-agency-vs-passivity|agency to partial passivity]]—is irreducible to neural description. The delegation model requires that the delegator (consciousness) is genuinely different in kind from the delegate (procedural mechanism).
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Skill delegation is bidirectional interaction in action. Consciousness shapes procedural systems (downward), procedural systems execute trained patterns (upward feedback through sensory experience), and consciousness re-engages when needed (downward again). Choking under pressure provides empirical evidence consistent with this tenet: if consciousness were epiphenomenal, its re-engagement could not disrupt automatised performance.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Skill delegation is bidirectional interaction in action. Consciousness shapes procedural systems (downward), procedural systems execute trained patterns (upward feedback through sensory experience), and consciousness re-engages when needed (downward again). Choking under pressure illustrates the pattern without establishing it: as [[interface-friction|interface friction]] records for the same data, the standard explicit-monitoring and over-arousal models already predict the degradation, so the delegation account supplies a candidate *why* for a result it shares with its rivals rather than a datum that favours it.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map's low-bandwidth quantum interface explains *why* delegation is efficient. Consciousness cannot micromanage every neural event—the interface is too minimal for that. Delegation is the natural strategy: calibrate procedural systems during learning (when intensive selection is warranted), then withdraw to conserve the interface for genuinely novel decisions.
 
@@ -144,6 +144,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [[delegatory-causation]] — The metaphysical parallel: physical states delegating to consciousness
 - [[delegation-meets-quantum-selection]] — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
 - [[empirical-phenomena-mental-causation|choking phenomenon]] — Extended analysis of choking as evidence for mental causation
+- [[interface-friction]] — Where the Map records the concession this article inherits: the choking data redescribe an established motor-control result under a dualist ontology rather than discriminating for it
 - [[consciousness-and-skill-acquisition]] — How consciousness shapes skill acquisition, flow, and performance restructuring
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing
 - [[attention-as-interface]] — The mechanism through which conscious engagement varies
@@ -156,6 +157,8 @@ These patterns are consistent with delegation as the mechanism underlying automa
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Dreyfus, H. & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
 1. Beilock, S. L. & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
+1. Gröpel, P., & Mesagno, C. (2019). Choking interventions in sports: A systematic review. *International Review of Sport and Exercise Psychology*, 12(1), 176–201.
+1. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424–3433.e8.
 1. Fitts, P. M. & Posner, M. I. (1967). *Human Performance*. Brooks/Cole.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-17). Implicit Memory and Anoetic Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/implicit-memory/
