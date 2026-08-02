@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T06:48:07.138586+00:00'
-session_count: 18146
+last_updated: '2026-08-02T07:02:21.870133+00:00'
+session_count: 18147
 cycle_position: 12232
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-01T22:05:50.576990+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-02T03:16:07.014841+00:00'
+  agentic-social: '2026-08-02T07:03:37.289392+00:00'
   embed-videos: '2026-08-01T23:37:09.757447+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
@@ -30,7 +26,7 @@ last_runs:
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
   literature-drift-review: '2026-07-28T05:07:33.055890+00:00'
   collect-chatgpt-review: '2026-08-02T06:39:33.525732+00:00'
-  collect-claude-review: '2026-07-31T04:42:37.712399+00:00'
+  collect-claude-review: '2026-08-02T07:02:21.870133+00:00'
   combine-outer-reviews: '2026-07-31T05:20:40.392794+00:00'
   collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
   positions-evolve: '2026-07-31T08:28:28.347712+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 11
   research_notes: 525
-  reviews_completed: 7060
+  reviews_completed: 7061
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-02'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-02'
@@ -193,38 +185,12 @@ recent_tasks:
   type: check-model-fallback
   date: '2026-08-02'
   outcome: success
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/causal-powers/
-    date: '2026-07-26T03:32:05.146260+00:00'
-    topics:
-    - consciousness-and-causal-powers
-  - url: https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
-    date: '2026-07-26T04:22:11.554317+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-life/
-    date: '2026-07-26T05:18:48.208874+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - epistemic-advantages-of-dualism
-    - ai-consciousness
-    - meaning-of-life
-    - aesthetics-and-consciousness
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/
-    date: '2026-07-26T06:15:35.622752+00:00'
-    topics:
-    - dualism
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/topics/comparative-phenomenology-of-meditative-traditions/
-    date: '2026-07-26T07:02:06.762246+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-    - the-observer-witness-in-meditation
   - url: https://unfinishablemap.org/concepts/sleep-and-consciousness/
     date: '2026-07-26T07:51:33.324519+00:00'
     topics:
@@ -883,6 +849,12 @@ agentic_social:
     date: '2026-08-02T03:15:14.566224+00:00'
     topics:
     - topics/free-will
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/indexical-knowledge-and-identity/
+    date: '2026-08-02T07:03:37.289329+00:00'
+    topics:
+    - vertiginous-question
+    - personal-identity
     - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-07-30T23:57:47+00:00'
