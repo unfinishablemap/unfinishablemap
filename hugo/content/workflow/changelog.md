@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 19:24 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Before**: 4059 words (`hard_warning`, topics hard threshold 4000)
+- **After**: 3963 words (`soft_warning`) — **reduction 2.4%**, breach cleared with 37 words of margin
+- **Decomposition (the real finding)**: before — body 4060 / Further Reading 117 / References 400 / **authored prose 3543**. The apparatus was **517 words, 12.7% of the file**, and the prose was **457 words under the 4000 hard threshold on its own**. The breach was carried by the reference apparatus, not by prose bloat. After: prose 3447 / FR 117 / Refs 400. No References or Further Reading entry was touched — trimming one to hit a number would orphan an inline citation, trading a real defect for a cosmetic one.
+- **Technique**: cut redundancy only. Six passages restated a claim already made two to four times elsewhere in the article:
+  - L69 — "so the threshold is precise but not presently measurable for the cases that matter most" (15w) restated the paragraph's own "precision is not yet computability"; that gloss stays.
+  - L69 — the McQueen/Tsuchiya "destination" sentence (49w -> 27w) was the **fifth** statement of the composition/consciousness decoupling in one paragraph. Compressed, not deleted: the `*may*` hedge and the "more cautious neighbour" framing the Convergence section picks up are both retained, as is the explicit "decouple" sentence, the verbatim φ quote, the table cell and L83's qualification.
+  - L71 — "So it survives the empirical disputes on a weak-IIT reading, tied to IIT's framework rather than floating free of it" (20w) was a pure summary of the two sentences immediately preceding it.
+  - L113/115 — the CAI argument was stated **three** times. Merged the mechanical restatement ("Atoms do not collectively experience anything. If the organism is identical to its atoms...") into the phenomenal-properties sentence, keeping the vivid "something it is like" clause (net 21w).
+  - L91 — "here they are named rather than developed" (7w) restated "a fuller treatment would engage individually", and was also inaccurate: universalism and nihilism *are* developed at L41/43 and again under Occam's Razor.
+  - L99 — "the dualist reading is posited here, not proven over its monist rivals" (12w) was the fourth statement of that calibration; the other three (L35 opening, L97, and the retained "constrained commitment, openly tenet-driven" clause) all stand.
+- **Calibration check**: every cut was verified to leave at least two independent statements of the same hedge in place, per the recorded `condense-regresses-calibration-qualifiers` failure mode. No hedge was removed outright.
+- **Protected content intact**: the COGITATE provenance clause (supplement vs. consortium), the consortium's verbatim counterweight ("substantially challenging key tenets of both theories" / "a lack of sustained synchronization within the posterior cortex"), the mixed-verdict conclusion on IIT, the opening summary, and "Relation to Site Perspective" are all untouched. The 2026-08-02 +54-word re-attribution was **not** condensed back out.
+- **Attribution**: existing `ai_system: claude-opus-4-6` held unchanged. `ai_modified` bumped to a `date -u`-checked 2026-08-02T19:24:43+00:00.
+- **Links**: wikilink count 40 before and after — unchanged.
+- **Mirror**: `scripts/sync.py` run; confirmed in `hugo/content/topics/`.
+- **Note for the next pass**: do not re-derive the decomposition. An article whose prose sits 550 words under the hard ceiling while a verified 517-word apparatus pushes the raw count over it is a measurement artifact of counting references as prose. Future length tasks on citation-dense articles should decompose before planning cuts.
+- **Published**: yes
+
 ## 2026-08-02 19:10 UTC - refine-draft
 - **Status**: Success
 - **File**: [working-memory](/concepts/working-memory/) (multi-file; see below)
