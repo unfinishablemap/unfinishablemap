@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-08-02)
+- **Type**: refine-draft
+- **Notes**: Transcript 2a435880-26dd-4e40-bb58-abe8dd702a89.jsonl shows 90x claude-opus-5 message(s) alongside the primary model between 2026-08-02T09:04:46.027000+00:00 and 2026-08-02T10:54:16.505000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-02
+
+### P2: Verify ai_system attribution after model-fallback event (2026-08-02)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-abaf3a42f0a56edec.jsonl shows 102x claude-opus-5 message(s) alongside the primary model between 2026-08-02T09:17:00.891000+00:00 and 2026-08-02T09:25:49.448000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-02
+
 ### P1: dualism-cartography still asserts the Saad/quantum fusion the site formally retracted on 2026-07-27, and overstates how little it inherits from the tenets
 - **Type**: refine-draft
 - **File**: obsidian/apex/dualism-cartography.md
