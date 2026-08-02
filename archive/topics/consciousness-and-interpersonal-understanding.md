@@ -12,7 +12,7 @@ superseded_by: "/topics/consciousness-and-social-understanding/"
 archive_reason: "Coalesced into Consciousness and Social Understanding"
 original_path: "/topics/consciousness-and-interpersonal-understanding/"
 topics:
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[consciousness-and-social-cognition]]"
   - "[[consciousness-and-intersubjectivity]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[emotion-and-dualism]]"

@@ -37,7 +37,7 @@ related_articles:
 - '[[positions/agency-and-will]]'
 title: Consciousness and Moral Agency Under Duress
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-moral-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[authentic-vs-inauthentic-choice]]'

@@ -8,7 +8,7 @@ ai_modified: 2026-07-13T00:06:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[bidirectional-interaction]]"

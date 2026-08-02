@@ -29,7 +29,7 @@ related_articles:
 title: Epistemology of Mechanism at the Consciousness-Matter Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Can we know *how* consciousness interacts with matter, or only *that* it does? The Unfinishable Map's interactionist framework asserts bidirectional causation between mind and body—but this commitment raises a question that precedes the search for specific mechanisms: what kind of knowledge about the interface is epistemically available to us? The [specification problem](/topics/the-interface-problem/) asks what a complete theory must contain. This article asks the prior question: what epistemic tools and methods can reach the interface at all, and what structural features of the problem constrain what we can learn?

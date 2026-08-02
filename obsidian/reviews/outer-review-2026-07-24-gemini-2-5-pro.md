@@ -8,7 +8,7 @@ draft: false
 description: "Gemini 2.5 Pro hostile referee report on volitional-control: flags omitted 2024-2025 RP probe-paradigm and SMA executive-deficit literature, and an untested predictive-processing rival."
 topics:
   - "[[volitional-control]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[mental-causation-and-downward-causation]]"

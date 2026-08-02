@@ -39,7 +39,7 @@ superseded_by: /topics/the-epiphenomenalist-threat/
 title: Epiphenomenalism's Gravity Well
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Theories of consciousness face a structural problem that behaves like a gravity well: once a framework acknowledges consciousness as something distinct from physical processes, it is pulled toward treating consciousness as causally inert. The pull strengthens as the theory develops, and most attempts to resist it fail because they address symptoms rather than the source. The Unfinishable Map calls this the gravity well pattern—and understanding its mechanics clarifies why the Map's own framework makes the specific commitments it does.

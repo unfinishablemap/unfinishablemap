@@ -10,7 +10,7 @@ draft: false
 topics:
   - "Consciousness And Surprise"
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[consciousness-and-creativity]]"
   - "[[predictive-processing]]"

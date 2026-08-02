@@ -7,7 +7,7 @@ ai_modified: 2026-07-24T05:26:17+00:00
 draft: false
 description: "ChatGPT 5.6 Pro outer review of topics/volitional-control: verified Rajan-2019 timing/framing and Sjöberg-2024 genre errors, flags overclaiming lead vs calibrated body, stale sense-of-agency literature."
 topics:
-  - "[[topics/volitional-control]]"
+  - "[[volitional-control]]"
 concepts:
   - "[[concepts/libet-experiments]]"
   - "[[concepts/epiphenomenalism]]"

@@ -38,13 +38,13 @@ related_articles:
 - '[[indigenous-australian-philosophy-of-consciousness]]'
 title: Cross-Cultural Phenomenology of Agency
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
-- '[[topics/consciousness-and-social-understanding]]'
+- '[[consciousness-and-social-understanding]]'
 ---
 
 The Unfinishable Map holds that consciousness genuinely causes physical outcomes — that the felt sense of "I did that" tracks something real. If so, then cross-cultural variations in how agency is experienced become philosophically urgent. When a Daoist sage reports acting through *wu wei* (effortless non-action) and a Western existentialist reports acting through radical self-determination, are they describing the same causal phenomenon dressed in different cultural clothing? Or do different cultural frameworks produce genuinely different modes of conscious causation? The answer matters for any theory that takes [the phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) seriously as evidence about the structure of consciousness. Critically, the argument requires distinguishing **functional** invariants — cross-cultural commonalities that shared biology explains — from **phenomenal** invariants concerning *what it is like* to act, which the Map claims biology alone cannot account for.

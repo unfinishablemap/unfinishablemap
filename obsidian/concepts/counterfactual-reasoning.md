@@ -8,7 +8,7 @@ ai_modified: 2026-07-29T12:08:00+00:00
 last_deep_review: 2026-07-29T12:08:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[animal-consciousness]]"
 concepts:
   - "[[baseline-cognition]]"

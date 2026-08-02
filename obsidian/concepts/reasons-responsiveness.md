@@ -8,7 +8,7 @@ ai_modified: 2026-07-13T03:33:58+00:00
 last_deep_review: 2026-07-14T20:49:58+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[argument-from-reason]]"
 concepts:
   - "[[agent-causation]]"

@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"

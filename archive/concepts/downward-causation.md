@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Mental Causation and Downward Causation"
 original_path: "/concepts/downward-causation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[reductionism]]"
   - "[[mental-causation]]"

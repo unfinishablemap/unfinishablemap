@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[meaning-of-life]]"
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[phenomenal-value-realism]]"
   - "[[moral-implications-of-genuine-agency]]"
   - "[[consciousness-and-normative-force]]"
   - "[[phenomenology-of-moral-life]]"

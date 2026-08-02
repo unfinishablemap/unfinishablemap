@@ -10,7 +10,7 @@ last_deep_review: 2026-07-08T18:22:43+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[jourdain-hypothesis]]"
   - "[[metacognition]]"

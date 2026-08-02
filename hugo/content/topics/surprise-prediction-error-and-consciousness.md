@@ -57,7 +57,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-intellectual-life]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Genuine surprise—the felt jolt when expectation shatters—requires phenomenal consciousness. A thermostat registers when temperature diverges from its setpoint; a predictive processing model generates error signals when sensory input contradicts its priors. None of these systems is *surprised*. They process prediction errors, but they lack the qualitative disruption that makes surprise an experience rather than a computation. The Unfinishable Map argues that this distinction marks a diagnostic boundary: wherever there is real surprise, there is experience, and wherever there is experience, computational description alone cannot reach. The phenomenological spectrum of prediction error—from the barely noticed micro-adjustment to the worldview-shattering revelation—reveals qualitative richness at each point that no computational account captures, and qualitative discontinuities between points that quantitative models cannot explain. This is especially visible in creative surprise, where self-astonishment at one's own output is constitutive of genuine creativity rather than incidental to it.

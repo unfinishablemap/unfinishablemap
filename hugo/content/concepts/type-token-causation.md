@@ -44,7 +44,7 @@ related_articles:
 title: Type-Token Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Type-token causation distinguishes two grains at which a cause can make a difference. At the **type level**, a property changes the statistical regularities of outcomes — increasing the frequency of some pattern across many instances. At the **token level**, a property determines *which particular outcome* actualises in *this* instance, given the statistical regularities already fixed. The distinction matters because Jaegwon Kim's [exclusion argument](/concepts/reductionism/) is decisive against mental causation at the type level — and toothless against mental causation at the token level whenever physical laws themselves leave the token outcome undetermined. The Unfinishable Map deploys this distinction as the operational core of [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness selects token outcomes at quantum indeterminacies without altering type-level Born-rule statistics, which is what makes the influence "minimal" in the precise sense Kim's argument cannot reach.

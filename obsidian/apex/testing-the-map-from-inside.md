@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-07-30T17:13:23+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[introspection]]"

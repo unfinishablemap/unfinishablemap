@@ -33,7 +33,7 @@ related_articles:
 title: The Amplification Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness influences physical outcomes at the quantum level—as The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes—then something must bridge the gap between a quantum-scale nudge and a macroscopic neural effect. This amplification chain spans at least five orders of magnitude in spatial scale and ten or more in temporal scale, passing through molecular, cellular, and network levels where chaotic dynamics, thermal noise, and decoherence each impose their own forms of opacity. The amplification void names the structural impossibility of tracing this chain. Quantum effects are too small to detect at the input end, too chaotic to track through the middle, and too entangled with neural noise at the output end.

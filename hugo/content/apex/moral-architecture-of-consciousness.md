@@ -58,7 +58,7 @@ related_articles:
 title: The Moral Architecture of Consciousness
 topics:
 - '[[ethics-under-dualism]]'
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 - '[[consciousness-and-normative-force]]'
 - '[[phenomenology-of-moral-life]]'
 ---

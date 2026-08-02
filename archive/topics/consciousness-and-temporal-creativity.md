@@ -13,7 +13,7 @@ superseded_by: "/topics/consciousness-and-temporal-becoming/"
 archive_reason: "Coalesced into Consciousness and Temporal Becoming"
 original_path: "/topics/consciousness-and-temporal-creativity/"
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[duration]]"

@@ -38,7 +38,7 @@ superseded_by: /topics/dream-consciousness/
 title: Lucid Dreams, Problem-Solving, and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). Dreamers generated novel approaches to brain-teasers they had failed while awake. This is a small, initial study that awaits replication, but it converges with a growing body of experimental work on dream incubation and creativity. For The Unfinishable Map, the question is whether consciousness during sleep is doing real cognitive work or merely decorating unconscious processes with irrelevant phenomenology. If dreaming consciousness contributes to problem-solving—producing solutions unavailable to the waking mind—this bears directly on whether consciousness is causally efficacious.

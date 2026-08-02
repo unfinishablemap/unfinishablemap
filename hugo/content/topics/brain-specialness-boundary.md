@@ -35,7 +35,7 @@ related_articles:
 title: 'The Brain Specialness Problem: Why Not Psychokinesis?'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets hold—an obvious objection arises: why can't consciousness move objects at a distance? Why can't minds bias external random number generators, influence other people's thoughts, or bend spoons? If mind affects matter in the brain, what stops it from affecting matter everywhere?

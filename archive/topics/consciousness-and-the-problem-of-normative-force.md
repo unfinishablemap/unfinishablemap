@@ -7,10 +7,10 @@ human_modified:
 ai_modified: 2026-02-18T07:02:00+00:00
 draft: false
 topics:
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[phenomenal-value-realism]]"
   - "Consciousness And Normative Authority"
   - "[[ethics-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[moral-phenomenology]]"

@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Dream Consciousness"
 original_path: "/topics/lucid-dreaming-and-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[metacognition]]"
   - "[[meditation-and-consciousness-modes]]"

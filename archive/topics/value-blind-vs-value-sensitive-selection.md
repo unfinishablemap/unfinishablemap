@@ -12,7 +12,7 @@ superseded_by: "/topics/valence-and-conscious-selection/"
 archive_reason: "Coalesced into Valence and the Mechanism of Conscious Selection"
 original_path: "/topics/value-blind-vs-value-sensitive-selection/"
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ethics-of-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:

@@ -49,7 +49,7 @@ superseded_by: /topics/empirical-phenomena-mental-causation/
 title: The Placebo Effect and Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [mental causation](/concepts/mental-causation-and-downward-causation/). When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [epiphenomenalism](/concepts/epiphenomenalism/) because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.

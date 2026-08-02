@@ -33,7 +33,7 @@ related_articles:
 - '[[topics/consciousness-and-counterfactual-reasoning]]'
 title: Counterfactual Reasoning
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[animal-consciousness]]'
 ---
 

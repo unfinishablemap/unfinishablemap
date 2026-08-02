@@ -40,7 +40,7 @@ related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
 title: Stapp's Quantum Mind Model
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

@@ -35,7 +35,7 @@ superseded_by: /topics/temporal-structure-of-consciousness/
 title: Philosophy of Time and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. But time's direction may require consciousness—the arrow distinguishing past from future may emerge through conscious observation. The Unfinishable Map explores both directions of this relationship, finding that neither consciousness nor time can be understood without the other.

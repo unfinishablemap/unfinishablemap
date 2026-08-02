@@ -8,7 +8,7 @@ ai_modified: 2026-02-21T15:09:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-normative-properties]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ethics-of-consciousness]]"
 concepts:
   - "[[phenomenology-of-choice]]"

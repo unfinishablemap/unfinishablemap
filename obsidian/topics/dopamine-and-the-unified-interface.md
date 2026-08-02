@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-07-19T21:07:43+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-as-interface]]"

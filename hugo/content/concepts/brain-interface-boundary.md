@@ -38,7 +38,7 @@ related_articles:
 title: 'Brain Interface Boundary: Why Consciousness Acts Only Here'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness interfaces with the physical world through brains—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—two questions arise: What makes brains special? And why only brains? Why neural systems and not rocks, thermostats, or random number generators?

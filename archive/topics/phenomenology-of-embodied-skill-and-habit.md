@@ -13,7 +13,7 @@ archive_reason: "Coalesced into The Phenomenology of Skill, Habit, and the Lived
 original_path: "/topics/phenomenology-of-embodied-skill-and-habit/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[embodied-cognition]]"
   - "[[phenomenology]]"

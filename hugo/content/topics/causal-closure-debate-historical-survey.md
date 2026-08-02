@@ -36,7 +36,7 @@ related_articles:
 title: The Causal Closure Debate — A Historical Survey
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[history-of-the-interaction-problem]]'
 ---
 

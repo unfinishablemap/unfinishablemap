@@ -44,7 +44,7 @@ superseded_by: /concepts/temporal-consciousness/
 title: Temporal Thickness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[authentic-vs-inauthentic-choice]]'
 ---
 

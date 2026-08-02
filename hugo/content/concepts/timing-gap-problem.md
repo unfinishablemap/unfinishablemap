@@ -33,7 +33,7 @@ related_articles:
 title: The Timing Gap Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The timing gap problem is the mismatch between quantum decoherence timescales and neural decision timescales. Tegmark (2000) calculated that quantum superpositions in neural systems collapse in approximately 10⁻¹³ seconds (femtoseconds), while conscious neural decisions operate at 200-550 milliseconds. This twelve-order-of-magnitude gap poses a direct challenge to any theory proposing that consciousness interacts with the brain through quantum mechanics: if superpositions vanish trillions of times faster than neurons decide, quantum effects cannot meaningfully influence neural outcomes.

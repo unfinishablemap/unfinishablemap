@@ -51,7 +51,7 @@ title: The Phenomenology of Temporal Consciousness and Agency
 topics:
 - '[[temporal-structure-of-consciousness]]'
 - '[[attention-and-the-consciousness-interface]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

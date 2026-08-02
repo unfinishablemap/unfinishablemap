@@ -12,7 +12,7 @@ superseded_by: "/concepts/phenomenology-of-choice-and-volition/"
 archive_reason: "Coalesced into Phenomenology of Choice and Volition"
 original_path: "/concepts/phenomenology-of-volition/"
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-volitional-control]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-causal-powers]]"

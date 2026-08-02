@@ -8,7 +8,7 @@ ai_modified: 2026-07-31T10:54:12+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[quantum-consciousness]]"

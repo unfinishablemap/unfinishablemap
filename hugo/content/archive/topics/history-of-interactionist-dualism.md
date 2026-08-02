@@ -36,7 +36,7 @@ superseded_by: /topics/history-of-the-interaction-problem/
 title: History of Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Interactionist dualism—the view that mind and body are distinct yet causally connected—has evolved through three centuries of philosophical challenge and response. Descartes established the position in the 1640s; Princess Elizabeth immediately identified its central difficulty; Leibniz seemingly closed the case with conservation arguments in the 1690s. The view entered eclipse in the twentieth century, abandoned by most philosophers as incompatible with physics. Yet quantum mechanics has reopened possibilities that Leibniz thought definitively closed. The history of this debate reveals how scientific developments can transform philosophical problems rather than simply settling them.

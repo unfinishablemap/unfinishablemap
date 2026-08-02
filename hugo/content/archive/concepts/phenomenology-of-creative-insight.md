@@ -56,7 +56,7 @@ superseded_by: /concepts/creative-consciousness/
 title: Phenomenology of Creative Insight
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[methodology-of-consciousness-research]]'
 ---
 

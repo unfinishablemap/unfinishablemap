@@ -49,10 +49,10 @@ related_articles:
 superseded_by: /topics/consciousness-and-normative-force/
 title: Consciousness and the Grounds of Normative Authority
 topics:
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 - '[[ethics-of-consciousness]]'
 - '[[meaning-of-life]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Consciousness does not merely accompany normative judgments — it provides their authority. Pain does not inform you that tissue is damaged and leave you to decide what follows; it *compels* avoidance. A promise does not describe a commitment; it *binds* you to fulfilment. The Unfinishable Map argues that normative authority — across moral, epistemic, and aesthetic domains — is rooted in irreducible features of conscious experience. Without phenomenal consciousness, the gap between recognising a fact and being bound by it cannot be closed. This article examines where normative force comes from, how consciousness grounds it across multiple domains, and how a single conscious agent integrates competing normative demands into coherent action.

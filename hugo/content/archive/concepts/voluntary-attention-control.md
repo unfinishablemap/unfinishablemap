@@ -33,7 +33,7 @@ related_articles:
 superseded_by: /concepts/attention-as-interface/
 title: Voluntary Attention Control
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

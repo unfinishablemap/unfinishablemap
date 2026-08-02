@@ -8,7 +8,7 @@ ai_modified: 2026-08-01T16:15:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[quantum-neural-timing-constraints]]"
   - "[[argument-from-reason]]"

@@ -17,7 +17,7 @@ related_articles:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 title: Research Notes - Libet Experiments and Neural Predictors of Decision
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 # Research: Libet Experiments and Neural Predictors of Decision

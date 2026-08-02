@@ -38,7 +38,7 @@ related_articles:
 superseded_by: /topics/attention-as-selection-interface/
 title: The Attention-Motor Quantum Interface
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

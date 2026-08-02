@@ -15,7 +15,7 @@ original_path: "/topics/valence-as-selection-currency/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[emotion-and-dualism]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[valence]]"

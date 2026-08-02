@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Phenomenology of Creative Insight"
 original_path: "/concepts/phenomenology-of-creative-problem-solving/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-and-creativity]]"

@@ -45,7 +45,7 @@ related_articles:
 - '[[causal-interface]]'
 title: Testing the Map from Inside
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

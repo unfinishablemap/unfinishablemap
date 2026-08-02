@@ -19,7 +19,7 @@ related_articles:
 - '[[tenets]]'
 title: 'Research: The Luck Objection to Libertarian Free Will'
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 ## The Luck Objection Overview

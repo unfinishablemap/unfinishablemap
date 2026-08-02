@@ -7,13 +7,13 @@ human_modified:
 ai_modified: 2026-07-06T11:23:32+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[topics/consciousness-and-social-understanding]]"
+  - "[[consciousness-and-social-understanding]]"
 concepts:
   - "[[agent-causation]]"
   - "[[phenomenology-of-choice-and-volition]]"

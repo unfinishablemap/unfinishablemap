@@ -67,7 +67,7 @@ superseded_by: /topics/consciousness-and-skill-acquisition/
 title: Consciousness and Skilled Performance
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Learning a skill transforms two things at once: what consciousness does and what the body is. The novice driver who consciously recites "check mirror, signal, shoulder-check" undergoes a cognitive transformation as these steps fuse into automatic competence. But the transformation runs deeper—the driver's felt sense of the car's boundaries, the proprioceptive texture of steering, the body schema itself are all reshaped by practice. At mastery's peak, flow dissolves the sense of effort while preserving—perhaps intensifying—conscious engagement, revealing that consciousness selects without friction when skill has prepared the ground. The Unfinishable Map argues that skill acquisition, mastery, flow, and restructuring provide some of the strongest evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness builds the procedural systems that eventually operate without it, withdraws into effortless oversight, achieves frictionless selection in flow, and painfully re-enters when established skills must change. The architect designs itself out of the building—but never truly retires.

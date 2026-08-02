@@ -9,7 +9,7 @@ last_deep_review: 2026-07-12T08:33:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[agent-causation]]"

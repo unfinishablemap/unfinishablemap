@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Creative Consciousness"
 original_path: "/concepts/phenomenology-of-creative-insight/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[cognitive-phenomenology]]"

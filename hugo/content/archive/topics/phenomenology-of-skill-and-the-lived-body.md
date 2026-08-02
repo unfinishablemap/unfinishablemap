@@ -55,7 +55,7 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Skill, Habit, and the Lived Body
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Learning a skill transforms two things at once: what consciousness does and what the body is. The novice driver who consciously recites "check mirror, signal, shoulder-check" undergoes a cognitive transformation as these steps fuse into automatic competence. But the transformation runs deeper—the driver's felt sense of the car's boundaries, the proprioceptive texture of steering, the body schema itself are all reshaped by practice. The Unfinishable Map argues that skill acquisition provides some of the strongest evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness builds the procedural systems that eventually operate without it, while simultaneously sculpting the bodily interface through which it engages the physical world. The architect designs itself out of the building—but first it redesigns the building.

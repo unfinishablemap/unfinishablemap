@@ -30,7 +30,7 @@ related_articles:
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 title: Meditation and Consciousness Modes
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

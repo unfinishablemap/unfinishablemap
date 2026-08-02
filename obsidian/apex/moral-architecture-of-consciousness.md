@@ -9,7 +9,7 @@ last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[phenomenal-value-realism]]"
   - "[[consciousness-and-normative-force]]"
   - "[[phenomenology-of-moral-life]]"
 concepts:

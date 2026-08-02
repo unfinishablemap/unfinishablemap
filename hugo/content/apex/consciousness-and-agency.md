@@ -58,7 +58,7 @@ related_articles:
 - '[[vertiginous-question]]'
 title: Consciousness and Agency
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[argument-from-reason]]'
 - '[[time-collapse-and-agency]]'
 ---

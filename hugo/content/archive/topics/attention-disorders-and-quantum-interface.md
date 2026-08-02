@@ -31,7 +31,7 @@ related_articles:
 superseded_by: /topics/attention-and-the-consciousness-interface/
 title: Attention Disorders and the Quantum Interface
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

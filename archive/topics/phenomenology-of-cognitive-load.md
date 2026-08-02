@@ -13,7 +13,7 @@ archive_reason: "Coalesced into The Phenomenology of Cognitive Capacity"
 original_path: "/topics/phenomenology-of-cognitive-load/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[mental-effort]]"

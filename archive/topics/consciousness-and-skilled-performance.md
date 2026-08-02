@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Consciousness and Skill Acquisition"
 original_path: "/topics/consciousness-and-skilled-performance/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[embodied-cognition]]"

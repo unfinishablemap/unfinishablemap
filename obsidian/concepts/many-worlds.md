@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[quantum-interpretations]]"
   - "[[measurement-problem]]"

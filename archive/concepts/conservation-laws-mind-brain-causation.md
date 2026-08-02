@@ -14,7 +14,7 @@ archive_reason: "Coalesced into Conservation Laws and Mental Causation"
 original_path: "/concepts/conservation-laws-mind-brain-causation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"

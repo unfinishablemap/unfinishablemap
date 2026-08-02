@@ -34,7 +34,7 @@ related_articles:
 title: Indexical Identity and Quantum Measurement
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Every interpretation of quantum mechanics faces the same unresolved question: why does *this* particular consciousness experience *this* particular measurement outcome? The [measurement-problem](/concepts/measurement-problem/) asks why we observe definite outcomes rather than superpositions. But even granting that definite outcomes occur, a deeper problem remains—what determines which outcome *I* experience, and why am *I* experiencing any outcome at all? This is the indexical gap, and it connects quantum mechanics directly to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/).

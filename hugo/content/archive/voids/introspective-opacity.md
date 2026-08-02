@@ -52,7 +52,7 @@ title: Introspective Opacity
 topics:
 - '[[philosophy-of-mind]]'
 - '[[consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 We have access to our mental contents—thoughts, images, feelings—but not to the processes that produce them. This is introspective opacity: the structural gap between consciousness and its own mechanisms. William James compared introspecting thought to "seizing a spinning top to catch its motion." The act of observation transforms what is observed.

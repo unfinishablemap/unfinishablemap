@@ -41,7 +41,7 @@ related_articles:
 title: Atemporal Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Atemporal causation is causation that does not operate within temporal sequence. Where ordinary causation flows from earlier events to later ones, atemporal causation determines which temporal sequence becomes actual without itself being located at any point in that sequence. The Unfinishable Map's framework draws on this concept to explain how consciousness can select quantum outcomes even when neural activity precedes conscious awareness — the selection isn't late because it isn't at a time at all.

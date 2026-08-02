@@ -45,9 +45,9 @@ related_articles:
 - '[[phenomenal-output-causal-machinery-dissociation]]'
 title: Mental Effort
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/bandwidth-of-consciousness]]'
+- '[[bandwidth-of-consciousness]]'
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [evidential-status-discipline](/project/evidential-status-discipline/)).

@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-07-17T23:05:21+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-resistance-across-domains]]"
 concepts:
   - "[[mind-matter-interface]]"

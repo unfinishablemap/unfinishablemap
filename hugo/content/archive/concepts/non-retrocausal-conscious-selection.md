@@ -35,7 +35,7 @@ superseded_by: /concepts/consciousness-selecting-neural-patterns/
 title: Non-Retrocausal Conscious Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If macroscopic superpositions of neural states exist -- however briefly -- consciousness can select among them directly at the moment of collapse, without reaching backward through time. The Unfinishable Map's existing treatment of [retrocausal selection](/concepts/retrocausality/) shows how time-symmetric physics dissolves the Libet timing puzzle. But retrocausality is not the only pathway. Three well-developed frameworks -- Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno approach, and the Chalmers-McQueen consciousness-collapse model -- all posit consciousness acting forward in time, at the moment of state reduction. Non-retrocausal selection may be the stronger claim: it avoids temporal paradoxes, aligns with well-developed collapse frameworks, and satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet more naturally than backward-in-time influence.

@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-07-16T00:45:48+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[qualia]]"
   - "[[phenomenology]]"

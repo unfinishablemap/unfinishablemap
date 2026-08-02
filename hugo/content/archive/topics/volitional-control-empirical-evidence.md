@@ -38,7 +38,7 @@ related_articles:
 superseded_by: /topics/volitional-control/
 title: 'Volitional Control: Empirical Evidence'
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-volitional-control]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-and-causal-powers]]'

@@ -7,8 +7,8 @@ ai_modified: 2026-07-24T06:25:00+00:00
 draft: false
 description: "Adversarial Claude Opus 4.8 audit of Volitional Control: citations verified real and accurate, but a systemic co-optation firewall failure recruits physicalist authors (Sjöberg, Schurger, Haggard) toward a dualist conclusion they reject."
 topics:
-  - "[[topics/volitional-control]]"
-  - "[[topics/free-will]]"
+  - "[[volitional-control]]"
+  - "[[free-will]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"

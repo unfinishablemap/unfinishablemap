@@ -31,7 +31,7 @@ title: Teaching as Metarepresentational Achievement
 topics:
 - '[[animal-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 To teach is to represent your knowledge as knowledge another lacks, represent that lack as a gap to be filled, and adjust your behaviour to bridge it. This triadic structure—knowledge, absence of knowledge, and the relation between them—makes teaching a paradigm case of [metarepresentation](/concepts/metacognition/). Great apes rarely teach despite decades of opportunity; humans teach constantly, across all cultures, beginning in early childhood. The Unfinishable Map proposes that this asymmetry reveals something fundamental about consciousness: teaching requires the phenomenal standing-back that metarepresentation demands, and metarepresentation may require phenomenal consciousness.

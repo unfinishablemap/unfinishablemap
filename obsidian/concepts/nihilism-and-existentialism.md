@@ -8,7 +8,7 @@ ai_modified: 2026-07-31T03:04:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[qualia]]"

@@ -51,9 +51,9 @@ title: Consciousness and Normative Force
 topics:
 - '[[phenomenology-of-moral-life]]'
 - '[[ethics-under-dualism]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[meaning-of-life]]'
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 ---
 
 Normative claims grip us. Pain does not merely inform you of tissue damage — it *compels* avoidance. A broken promise does not describe a lapsed commitment — it *binds* you to guilt. The Unfinishable Map argues that this binding force — normative authority across moral, epistemic, aesthetic, and prudential domains — is rooted in irreducible features of conscious experience. Without phenomenal consciousness, the gap between recognising a fact and being bound by it cannot be closed. These four domains share a common phenomenal architecture, and when their demands collide, the resulting conflicts provide some of the strongest evidence that consciousness is an irreducible arbiter with genuine causal power.

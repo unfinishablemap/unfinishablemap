@@ -37,7 +37,7 @@ superseded_by: /concepts/brain-interface-boundary/
 title: 'Brain Specialness: What Makes Neural Systems the Interface'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness interfaces with the physical world through brains, what makes brains special? Why neural systems and not rocks, thermostats, or random number generators? The Interface Locality article explains why consciousness *doesn't* act on external systems; this article addresses the complementary question: what positive features make brains *suitable* interfaces in the first place?

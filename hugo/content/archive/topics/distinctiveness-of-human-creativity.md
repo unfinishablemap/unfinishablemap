@@ -40,7 +40,7 @@ superseded_by: /topics/consciousness-and-creative-distinctiveness/
 title: The Distinctiveness of Human Creativity
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 - '[[animal-consciousness]]'
 ---

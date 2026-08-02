@@ -47,7 +47,7 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Skill Transition
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Anyone who has rebuilt a golf swing, restructured a piano fingering, or shifted from one programming paradigm to another knows a peculiar phenomenological state: the old way no longer works automatically, the new way hasn't yet consolidated, and you occupy an unstable middle ground where performance temporarily degrades. The Unfinishable Map's framework of [skill acquisition](/topics/consciousness-and-skilled-performance/) traces the broad arc from novice to expert. Skill *transition*—the experience of reorganising an already-functioning skill—reveals something different and arguably more significant about consciousness. In transition, the conscious mind must simultaneously dismantle structures it previously built and erect new ones, all while the old automaticity actively resists replacement.

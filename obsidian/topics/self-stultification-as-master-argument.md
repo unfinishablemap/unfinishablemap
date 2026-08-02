@@ -9,7 +9,7 @@ last_deep_review: 2026-07-12T11:16:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[self-stultification]]"
   - "[[concepts/epiphenomenalism]]"

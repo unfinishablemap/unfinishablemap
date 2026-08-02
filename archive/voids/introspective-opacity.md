@@ -15,7 +15,7 @@ original_path: "/voids/introspective-opacity/"
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"

@@ -20,7 +20,7 @@ related_articles:
 title: Research Notes - Attention and Consciousness Relationship
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 # Research: Attention and Consciousness Relationship

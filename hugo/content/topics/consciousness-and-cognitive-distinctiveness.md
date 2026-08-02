@@ -67,7 +67,7 @@ related_articles:
 title: Consciousness and Cognitive Distinctiveness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 - '[[animal-consciousness]]'
 ---

@@ -37,7 +37,7 @@ related_articles:
 title: Bergson and Duration
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets the same assumption that makes materialism seem plausible—the assumption that reality can be exhaustively described in quantitative, third-person terms. If Bergson is right that lived time resists spatial representation, then consciousness does something physics cannot capture—strengthening the case that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) marks a genuine ontological boundary, not merely an explanatory gap. The Map's [dualism](/tenets/#dualism) gains independent philosophical support.

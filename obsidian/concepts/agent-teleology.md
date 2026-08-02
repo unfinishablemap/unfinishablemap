@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-05-31T19:19:42+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[evolution-under-dualism]]"
 concepts:
   - "[[agent-causation]]"

@@ -41,7 +41,7 @@ title: 'The Self: Minimal, Narrative, and Substantial'
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[personal-identity]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 What kind of thing are you? Not what makes you persist over time—that is the question of [personal-identity](/topics/personal-identity/)—but what you *are*, right now, at this moment. Three philosophical traditions offer competing answers. The **minimal self** says you are a bare first-person perspective, the structural "for-me-ness" that makes experience somebody's rather than nobody's. The **narrative self** says you are a story—an autobiographical construction woven from memory, intention, and cultural context. The **substantial self** says you are a genuine entity, an irreducible particular whose existence is not exhausted by perspective or story. This question matters because whatever the self turns out to be determines what [free will](/topics/free-will/) requires, what [death](/topics/death-and-consciousness/) threatens, and whether the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) has a subject or only a puzzle.

@@ -43,7 +43,7 @@ superseded_by: /topics/mathematical-knowledge-and-insight/
 title: The Phenomenology of Mathematical Insight
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[aesthetic-dimension-of-consciousness]]'
 ---
 

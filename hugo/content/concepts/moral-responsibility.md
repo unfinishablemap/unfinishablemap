@@ -35,7 +35,7 @@ related_articles:
 - '[[volitional-control]]'
 title: Moral Responsibility
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ethics-under-dualism]]'
 ---
 

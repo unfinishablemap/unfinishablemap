@@ -57,7 +57,7 @@ superseded_by: /concepts/mental-causation-and-downward-causation/
 title: Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Mental causation — one of the central problems in [philosophy of mind](/concepts/philosophy-of-mind/) — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.

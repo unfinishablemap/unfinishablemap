@@ -14,7 +14,7 @@ archive_reason: "Coalesced into Temporal Consciousness"
 original_path: "/concepts/temporal-thickness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[authentic-vs-inauthentic-choice]]"
 concepts:
   - "[[temporal-consciousness]]"

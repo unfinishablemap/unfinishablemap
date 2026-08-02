@@ -55,7 +55,7 @@ related_articles:
 title: The Epiphenomenalist Threat
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Epiphenomenalism—the view that consciousness exists but causes nothing—is the default destination of most theories of consciousness. Examined carefully, mainstream views either collapse into epiphenomenalism or survive only by making commitments they would rather avoid. The Unfinishable Map holds the pattern is not accidental: any framework that fails to provide a specific causal mechanism for consciousness will end up treating it as idle. Understanding why the threat recurs, why escape attempts fail, and what genuine escape requires clarifies why the Map's [interactionist framework](/concepts/interactionist-dualism/) makes the commitments it does.

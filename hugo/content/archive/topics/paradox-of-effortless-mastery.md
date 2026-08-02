@@ -41,7 +41,7 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Paradox of Effortless Mastery
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Consciousness works hard to make itself unnecessary. A pianist spends years of deliberate, effortful practice—each note consciously placed, each error consciously corrected—until the music flows from their fingers without deliberation. A martial artist drills a technique ten thousand times under focused attention until the body responds faster than thought permits. The paradox of effortless mastery is that consciousness labours to construct systems that then operate without its involvement. The architect designs itself out of the building.

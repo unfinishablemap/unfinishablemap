@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Consciousness and Skilled Performance"
 original_path: "/topics/phenomenology-of-skill-and-the-lived-body/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[embodied-cognition]]"

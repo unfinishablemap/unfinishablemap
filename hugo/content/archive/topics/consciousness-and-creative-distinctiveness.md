@@ -52,7 +52,7 @@ superseded_by: /topics/consciousness-and-cognitive-distinctiveness/
 title: Consciousness and Creative Distinctiveness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 - '[[animal-consciousness]]'
 ---

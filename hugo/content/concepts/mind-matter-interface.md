@@ -40,7 +40,7 @@ related_articles:
 title: 'The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The Unfinishable Map employs two major frameworks for understanding consciousness's relationship to the physical world: [filter theory](/concepts/filter-theory/) (James, Bergson, Huxley) and [quantum selection mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.

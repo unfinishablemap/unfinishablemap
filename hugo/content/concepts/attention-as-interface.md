@@ -72,7 +72,7 @@ related_articles:
 title: Attention as Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'

@@ -43,7 +43,7 @@ superseded_by: /concepts/temporal-consciousness/
 title: Duration (Durée)
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Henri Bergson's concept of *durée* (duration) names the qualitative experience of time as consciousness lives it—fundamentally different from clock time or the spatialized time of physics. When you listen to a melody, you don't experience a succession of separate notes arranged along a timeline. You experience the melody *as a whole*, with each note permeated by the ones before and reaching toward those to come. This flowing, interpenetrating, qualitative time is durée.

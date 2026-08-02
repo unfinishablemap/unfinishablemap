@@ -91,7 +91,7 @@ title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a core duration of roughly 300-750 milliseconds, embedded in a broader experiential horizon of 2-3 seconds, within which succession, change, and persistence appear as unified wholes. Henri Bergson named this qualitative flow *durée*—lived time fundamentally different from the spatialized time of physics. [William James](/topics/william-james-consciousness/) wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future.

@@ -42,7 +42,7 @@ related_articles:
 superseded_by: /topics/volitional-control/
 title: Phenomenology of Volitional Control
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[consciousness-and-causal-powers]]'

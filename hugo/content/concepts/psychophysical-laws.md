@@ -58,7 +58,7 @@ related_articles:
 title: Psychophysical Laws and Coupling
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation-and-downward-causation]]'
 ---

@@ -60,7 +60,7 @@ related_articles:
 - '[[apex/steelmanning-as-method]]'
 title: The Phenomenology-Mechanism Bridge
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

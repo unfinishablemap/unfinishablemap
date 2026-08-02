@@ -49,7 +49,7 @@ title: The Phenomenology of Normative Experience
 topics:
 - '[[phenomenology-of-moral-experience]]'
 - '[[ethics-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Normative properties—wrongness, rational compellingness, beauty, prudential weight—show up in consciousness with distinctive phenomenal character. They share a common structure: all present themselves as demands, as features of the world that call for response. Yet these demands do not operate in isolation. They collide. A whistleblower feels moral obligation pulling against self-preservation. A scientist feels the demand for truth pulling against the duty to protect vulnerable subjects. These collisions produce an experience irreducible to either demand alone: the felt weight of conflicting oughts, and the distinctive suffering of having to choose between them.

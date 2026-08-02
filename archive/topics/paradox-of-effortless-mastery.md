@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Consciousness and Skilled Performance"
 original_path: "/topics/paradox-of-effortless-mastery/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mental-effort]]"
   - "[[implicit-memory]]"

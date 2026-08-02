@@ -9,7 +9,7 @@ last_deep_review: 2026-07-15T14:16:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"

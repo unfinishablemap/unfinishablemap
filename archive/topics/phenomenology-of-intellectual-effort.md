@@ -13,7 +13,7 @@ archive_reason: "Coalesced into The Phenomenology of Intellectual Life"
 original_path: "/topics/phenomenology-of-intellectual-effort/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[mental-effort]]"

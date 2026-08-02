@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-07-26T00:06:51+00:00
 topics:
   - "[[dualism]]"
-  - "[[concepts/materialism]]"
+  - "[[materialism]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"

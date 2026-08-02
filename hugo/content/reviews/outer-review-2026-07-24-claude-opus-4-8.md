@@ -30,8 +30,8 @@ subject_title: Audit volitional-control
 subject_type: recent
 title: Outer Review - Claude Opus 4.8 (2026-07-24)
 topics:
-- '[[topics/volitional-control]]'
-- '[[topics/free-will]]'
+- '[[volitional-control]]'
+- '[[free-will]]'
 ---
 
 **Date**: 2026-07-24

@@ -39,7 +39,7 @@ superseded_by: /concepts/mental-imagery/
 title: Mental Imagery and the Causal Role of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-imagination]]'
 ---
 

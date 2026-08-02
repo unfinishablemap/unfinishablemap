@@ -35,7 +35,7 @@ related_articles:
 superseded_by: /concepts/creative-consciousness/
 title: Consciousness and Creativity
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

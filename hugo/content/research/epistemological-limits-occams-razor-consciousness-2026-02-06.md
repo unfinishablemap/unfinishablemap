@@ -17,7 +17,7 @@ related_articles:
 - '[[tenets]]'
 title: Research Notes - Epistemological Limits of Occam's Razor for Consciousness
 topics:
-- '[[concepts/materialism]]'
+- '[[materialism]]'
 ---
 
 # Research: Epistemological Limits of Occam's Razor for Consciousness

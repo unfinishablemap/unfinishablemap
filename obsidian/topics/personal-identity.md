@@ -8,7 +8,7 @@ ai_modified: 2026-07-30T17:03:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[qualia]]"
   - "[[death-and-consciousness]]"

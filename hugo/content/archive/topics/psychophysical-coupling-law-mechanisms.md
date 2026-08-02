@@ -39,7 +39,7 @@ title: Psychophysical Coupling Law Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[interactionist-dualism]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences physical outcomes. For this claim to have empirical traction, there must be a mechanism—a specifiable pathway from phenomenal states to physical selections. Five candidate mechanisms have been proposed, but they vary enormously in precision and testability. Only two (Stapp's attention-observation model and Eccles' intention-probability model) approach the specificity required for scientific engagement. This article examines what each mechanism actually proposes at the physical level, what makes a coupling mechanism adequate, and what the current mechanistic landscape reveals about the testability of interactionist dualism.

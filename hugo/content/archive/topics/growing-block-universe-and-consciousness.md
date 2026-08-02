@@ -33,7 +33,7 @@ superseded_by: /topics/consciousness-and-the-ontology-of-temporal-becoming/
 title: The Growing Block Universe and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The growing block theory of time holds that past and present exist but the future does not yet. Unlike eternalism's frozen four-dimensional block where all moments are equally real, and unlike presentism's razor-thin slice of existence, the growing block accumulates reality as time passes. C.D. Broad introduced this view in 1923, and it has a distinctive virtue for The Unfinishable Map's concerns: it takes consciousness seriously as marking something ontologically significant about the present moment. The growing block is the temporal ontology most naturally aligned with the reality of conscious experience—and consciousness, in turn, may provide the growing block with resources for answering its deepest objections. This mutual support invites a charge of circularity, addressed in the [mutual support section](#mutual-support) below, but each claim also has independent motivation that the other reinforces rather than creates.

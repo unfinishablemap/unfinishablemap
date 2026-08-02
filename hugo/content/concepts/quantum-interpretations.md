@@ -43,7 +43,7 @@ related_articles:
 title: Interpretations of Quantum Mechanics
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means—a 2025 Nature survey found no interpretation commands majority support. Different interpretations have radically different implications for whether consciousness plays any role in physics.

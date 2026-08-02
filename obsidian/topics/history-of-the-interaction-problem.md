@@ -8,7 +8,7 @@ ai_modified: 2026-07-14T10:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
 concepts:
   - "[[interactionist-dualism]]"

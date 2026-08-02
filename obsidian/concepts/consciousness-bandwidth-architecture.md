@@ -10,7 +10,7 @@ last_deep_review: 2026-07-25T11:31:30+00:00
 topics:
   - "[[bandwidth-of-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[filter-theory]]"

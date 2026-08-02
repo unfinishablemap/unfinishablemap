@@ -46,7 +46,7 @@ superseded_by: /topics/consciousness-and-mathematical-cognition/
 title: Consciousness and Mathematical Creativity
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Mathematical creativity is where the case for consciousness as a causal force is sharpest. Other forms of creativity can be partially deflated—maybe the poet's inspiration is sophisticated pattern-matching, maybe the painter's aesthetic sense reduces to trained preference. But when a mathematician sees *why* a proof must work, grasps a connection between distant fields, or invents a structure that transforms what was previously thinkable, something happens that resists reduction to algorithmic process. The Unfinishable Map argues that mathematical creativity provides the strongest domain-specific evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness doesn't merely select among pre-computed solutions but generates genuinely new mathematical understanding.

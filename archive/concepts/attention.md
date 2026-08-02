@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Attention as Interface"
 original_path: "/concepts/attention/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[voluntary-attention]]"
   - "[[quantum-consciousness]]"

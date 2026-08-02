@@ -13,7 +13,7 @@ superseded_by: "/topics/free-will/"
 archive_reason: "Coalesced into Free Will and Determinism (topics/free-will)—the concepts version was largely a subset that explicitly deferred to the topics article for the full treatment."
 original_path: "/concepts/concept-of-free-will/"
 topics:
-  - "[[topics/free-will|Free Will and Determinism]]"
+  - "[[free-will|Free Will and Determinism]]"
   - "[[personal-identity]]"
 concepts:
   - "[[agent-causation]]"

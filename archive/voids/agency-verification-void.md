@@ -13,7 +13,7 @@ archive_reason: "Coalesced into The Agency Void"
 original_path: "/voids/agency-verification-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[philosophy-of-mind]]"
 concepts:
   - "[[interactionist-dualism]]"

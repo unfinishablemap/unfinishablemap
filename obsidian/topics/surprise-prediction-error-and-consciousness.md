@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-intellectual-life]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[predictive-processing]]"
   - "[[concepts/epiphenomenalism]]"

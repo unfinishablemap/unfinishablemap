@@ -31,7 +31,7 @@ related_articles:
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
 title: Neuroplasticity
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

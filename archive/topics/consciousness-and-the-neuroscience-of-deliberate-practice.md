@@ -14,7 +14,7 @@ archive_reason: "Coalesced into Consciousness and Skill Acquisition"
 original_path: "/topics/consciousness-and-the-neuroscience-of-deliberate-practice/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[neuroplasticity]]"
   - "[[attention-as-interface]]"

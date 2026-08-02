@@ -36,7 +36,7 @@ superseded_by: /topics/ethics-under-dualism/
 title: Ethics and Value in a Dualist World
 topics:
 - '[[ethics-of-consciousness]]'
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 - '[[moral-implications-of-genuine-agency]]'
 - '[[consciousness-and-normative-force]]'
 - '[[phenomenology-of-moral-life]]'

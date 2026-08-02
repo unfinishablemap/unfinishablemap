@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
   - "[[the-binding-problem]]"
-  - "[[apex/taxonomy-of-voids]]"
+  - "[[taxonomy-of-voids]]"
 concepts:
   - "[[baseline-cognition]]"
   - "[[reductionism]]"

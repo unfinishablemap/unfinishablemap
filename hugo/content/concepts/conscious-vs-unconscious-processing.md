@@ -43,7 +43,7 @@ related_articles:
 title: Conscious vs Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness were merely an epiphenomenal byproduct of neural activity—along for the ride but making no functional difference—then unconscious processes should achieve everything conscious ones can. Yet the empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Rather than riding along as a passive observer, consciousness enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [working memory](/concepts/working-memory/) across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.

@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-under-dualism]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[topics/phenomenal-value-realism]]"
   - "[[evaluative-phenomenal-character]]"

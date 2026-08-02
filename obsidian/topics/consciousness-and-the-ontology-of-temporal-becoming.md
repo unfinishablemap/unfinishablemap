@@ -9,7 +9,7 @@ draft: false
 anchoring_audit_exempt: true
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ai-consciousness]]"
 concepts:
   - "[[philosophy-of-time]]"

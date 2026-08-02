@@ -9,7 +9,7 @@ last_deep_review: 2026-07-30T21:01:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[quantum-neural-timing-constraints]]"

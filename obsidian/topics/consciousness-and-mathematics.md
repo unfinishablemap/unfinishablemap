@@ -32,7 +32,7 @@ concepts:
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[phenomenology-of-intellectual-life]]"
 related_articles:

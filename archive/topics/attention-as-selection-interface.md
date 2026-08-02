@@ -8,7 +8,7 @@ ai_modified: 2026-03-12T04:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[attention-motor-quantum-interface]]"

@@ -49,7 +49,7 @@ title: 'Psychophysical Laws: Bridging Mind and Matter'
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[interactionist-dualism]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness is ontologically distinct from physics—as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds—then fundamental laws must connect the two domains. Physical laws describe relations among physical properties; they cannot specify how physical states relate to phenomenal experience. New laws are required. David Chalmers developed the canonical framework, arguing that consciousness requires extending fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on Chalmers while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *downward* laws (which conscious states select which physical outcomes).

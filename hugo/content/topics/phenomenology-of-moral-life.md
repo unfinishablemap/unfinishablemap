@@ -53,7 +53,7 @@ title: The Phenomenology of Moral Life
 topics:
 - '[[moral-implications-of-genuine-agency]]'
 - '[[ethics-under-dualism]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[meaning-of-life]]'
 ---
 

@@ -40,7 +40,7 @@ related_articles:
 title: Witness Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Witness consciousness—Sanskrit *sakshi*, the "seer" or "observer"—refers to a mode of awareness that observes mental contents without identifying with them. Thoughts, sensations, and emotions arise and pass; the witness remains unchanged, a pure awareness that perceives without participating. This concept, central to Advaita Vedanta and other contemplative traditions, carries significant implications for understanding the subject-object structure of consciousness and supports The Unfinishable Map's [dualist](/tenets/#dualism) position.

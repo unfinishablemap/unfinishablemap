@@ -38,7 +38,7 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Embodied Skill and Habit
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Skill and habit do not merely change what the body can do—they change what the body *is* from the inside. A pianist's hands are not the same hands that first fumbled at the keyboard, not because the flesh has changed but because the felt boundaries, capacities, and internal geography of those hands have been redrawn. The Unfinishable Map's companion articles treat the cognitive arc of skill learning—the withdrawal of conscious scaffolding, the delegation to procedural systems. This article examines something different: the phenomenological transformation of the body itself. How does the lived body expand, contract, and restructure through skill and habit? And what does this plasticity reveal about the [interface](/concepts/attention-as-interface/) through which consciousness engages the physical world?

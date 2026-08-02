@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-07-30 20:38:15+00:00
+ai_modified: 2026-08-02 07:18:56+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -61,7 +61,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 01:20:36+00:00
-lastmod: 2026-07-30 20:38:15+00:00
+lastmod: 2026-08-02 07:18:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,10 @@ related_articles:
 - '[[indian-philosophy-of-mind]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: The Hard Problem of Consciousness
-topics: []
+topics:
+- '[[metaproblem-of-consciousness-under-dualism]]'
+- '[[emergence-as-universal-hard-problem]]'
+- '[[the-hard-problem-in-non-western-philosophy]]'
 ---
 
 Why is there something it is like to be you?

@@ -58,7 +58,7 @@ related_articles:
 title: Creative Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[methodology-of-consciousness-research]]'
 ---
 

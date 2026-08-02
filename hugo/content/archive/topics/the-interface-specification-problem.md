@@ -40,7 +40,7 @@ superseded_by: /topics/the-interface-problem/
 title: The Interface Specification Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness influences the physical world by biasing quantum outcomes in the brain, exactly which conscious states bias which outcomes, through what mechanism, and by how much? This is the interface specification problem—the most significant open challenge facing The Unfinishable Map's interactionist framework.

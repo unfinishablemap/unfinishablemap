@@ -46,7 +46,7 @@ related_articles:
 superseded_by: /topics/free-will/
 title: Free Will
 topics:
-- '[[topics/free-will|Free Will and Determinism]]'
+- '[[free-will|Free Will and Determinism]]'
 - '[[personal-identity]]'
 ---
 

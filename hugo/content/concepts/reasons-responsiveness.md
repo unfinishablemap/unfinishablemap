@@ -33,7 +33,7 @@ related_articles:
 - '[[consciousness-and-the-normativity-of-reason]]'
 title: Reasons-Responsiveness
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[argument-from-reason]]'
 ---
 

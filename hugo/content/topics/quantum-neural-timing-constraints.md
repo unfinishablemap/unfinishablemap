@@ -29,7 +29,7 @@ related_articles:
 title: Quantum Neural Timing Constraints
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—the [timing gap](/concepts/timing-gap-problem/), a chasm of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is which physical mechanisms remain viable given what we know about both quantum and neural timescales—and whether The Unfinishable Map's preferred framework, post-decoherence selection, operates at a different level of analysis where timing constraints do not apply.

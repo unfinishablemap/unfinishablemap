@@ -39,7 +39,7 @@ superseded_by: /topics/bandwidth-of-consciousness/
 title: The Resolution-Bandwidth Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[attention-and-the-consciousness-interface]]'
 ---
 

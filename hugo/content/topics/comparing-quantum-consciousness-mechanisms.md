@@ -44,7 +44,7 @@ related_articles:
 title: Comparing Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Four proposals compete to explain how consciousness interfaces with quantum mechanics: Penrose-Hameroff's Orchestrated Objective Reduction, Stapp's quantum Zeno model, Fisher's nuclear spin hypothesis, and spontaneous collapse hybrids (notably Chalmers and McQueen's CSL-IIT). Each claims to solve the same puzzle — how a non-physical mind influences physical outcomes without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/) — but they locate the interface at different scales and carry different commitments. The [hard problem](/topics/hard-problem-of-consciousness/) constrains what counts as adequate: any mechanism must eventually explain not just *that* consciousness plays a causal role but *why* that role has the phenomenal character it does. The Unfinishable Map does not commit to any single mechanism, but evaluating them against shared criteria reveals which approaches best fit the Map's [tenets](/tenets/) and which face the steepest obstacles. This comparison assumes the Map's dualist premise — that consciousness is irreducible to physical processes — a premise not all these proposals' originators share.

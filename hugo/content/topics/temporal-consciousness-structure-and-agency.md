@@ -65,7 +65,7 @@ related_articles:
 title: 'Temporal Consciousness: Structure and Agency'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 - '[[non-temporal-consciousness]]'
 - '[[attention-and-the-consciousness-interface]]'

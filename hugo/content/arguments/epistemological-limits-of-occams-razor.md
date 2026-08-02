@@ -26,7 +26,7 @@ related_articles:
 - '[[parsimony-case-for-interactionist-dualism]]'
 title: Epistemological Limits of Occam's Razor
 topics:
-- '[[concepts/materialism]]'
+- '[[materialism]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

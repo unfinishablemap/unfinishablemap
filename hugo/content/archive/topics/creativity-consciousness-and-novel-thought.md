@@ -46,7 +46,7 @@ related_articles:
 superseded_by: /topics/consciousness-and-creative-distinctiveness/
 title: Creativity, Consciousness, and Novel Thought
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[animal-consciousness]]'
 ---

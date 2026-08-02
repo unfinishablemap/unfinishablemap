@@ -41,7 +41,7 @@ related_articles:
 title: The Psychophysical Control Law
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation-and-downward-causation]]'
 ---

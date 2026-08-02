@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-06-09T19:52:57+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-intellectual-life]]"
 concepts:
   - "[[phenomenology-of-choice-and-volition]]"

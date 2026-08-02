@@ -34,7 +34,7 @@ related_articles:
 superseded_by: /topics/valence-and-conscious-selection/
 title: Value-Blind vs Value-Sensitive Selection
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ethics-of-consciousness]]'
 - '[[hard-problem-of-consciousness]]'
 ---

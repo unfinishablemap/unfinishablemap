@@ -8,7 +8,7 @@ ai_modified: 2026-07-07T04:25:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[embodied-cognition]]"

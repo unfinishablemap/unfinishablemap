@@ -35,7 +35,7 @@ related_articles:
 title: Time-Symmetric Selection Mechanism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [atemporal constraint satisfaction](/concepts/atemporal-causation/). On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This is how the framework addresses the apparent timing problem from [Libet experiments](/concepts/libet-experiments/): neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.

@@ -40,7 +40,7 @@ related_articles:
 title: Forward-in-Time vs Time-Symmetric Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The Unfinishable Map holds two route-families for how consciousness participates in quantum-level selection, and it holds them as live alternatives rather than rivals. The first, *forward-in-time conscious selection*, places the conscious act within standard forward causation: consciousness selects which outcome becomes actual as collapse occurs, now and not retroactively. The second, *time-symmetric selection*, locates the act in a transactional or retrocausal structure where the selection is not fixed at a moment but satisfies constraints across the whole temporal interval. Both routes are developed at length elsewhere—the forward route in [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), the time-symmetric route in [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) and grounded in [time-symmetric-physics](/concepts/time-symmetric-physics/). What no single article has yet done is set them side by side and read off, line by line, what each one *costs*. That is this article's only job. It is a cost accounting in the sense of [mechanism-costs-cartography](/project/mechanism-costs-cartography/), and it inherits that discipline's central constraint: **it does not pick a winner.**

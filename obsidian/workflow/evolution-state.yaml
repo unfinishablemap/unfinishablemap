@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-02T07:04:17.807947+00:00'
-session_count: 18148
-cycle_position: 12232
+last_updated: '2026-08-02T07:13:40.663910+00:00'
+session_count: 18149
+cycle_position: 12233
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-02T01:19:02.938965+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-08-02T03:30:27.055036+00:00'
   tune-system: '2026-07-31T00:00:15.333216+00:00'
   research-voids: '2026-08-01T18:11:27.557953+00:00'
-  coalesce: '2026-08-01T22:05:50.576990+00:00'
+  coalesce: '2026-08-02T07:13:40.663910+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
   agentic-social: '2026-08-02T07:04:17.807947+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-02'
-  outcome: success
 - task: condense
   type: condense
   date: '2026-08-02'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-02'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-08-02'
   outcome: success
 agentic_social:
@@ -269,7 +269,7 @@ agentic_social:
   - url: https://unfinishablemap.org/concepts/libet-experiments/
     date: '2026-07-26T22:35:04.922048+00:00'
     topics:
-    - topics/free-will
+    - free-will
     - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/kripke-a-posteriori-necessity-argument/
     date: '2026-07-26T23:33:38.404379+00:00'
@@ -392,7 +392,7 @@ agentic_social:
     date: '2026-07-27T19:16:20.712813+00:00'
     topics:
     - hard-problem-of-consciousness
-    - topics/free-will
+    - free-will
   - url: https://unfinishablemap.org/concepts/possibility-probability-slippage/
     date: '2026-07-27T20:16:57.024953+00:00'
   - url: https://unfinishablemap.org/topics/jain-philosophy-of-mind/
@@ -500,14 +500,14 @@ agentic_social:
     date: '2026-07-28T21:39:17.145195+00:00'
     topics:
     - hard-problem-of-consciousness
-    - topics/free-will
+    - free-will
     - ai-consciousness
   - url: https://unfinishablemap.org/concepts/temporal-consciousness/
     date: '2026-07-28T22:29:25.810602+00:00'
     topics:
     - hard-problem-of-consciousness
     - ai-consciousness
-    - topics/free-will
+    - free-will
   - url: https://unfinishablemap.org/topics/hylomorphic-dualism-and-the-interaction-problem/
     date: '2026-07-29T01:40:54.386047+00:00'
   - url: https://unfinishablemap.org/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/
@@ -593,7 +593,7 @@ agentic_social:
     date: '2026-07-29T19:28:09.087028+00:00'
     topics:
     - hard-problem-of-consciousness
-    - topics/free-will
+    - free-will
   - url: https://unfinishablemap.org/topics/alignment-in-objective-experiential-terms/
     date: '2026-07-29T21:27:22.605227+00:00'
     topics:
@@ -635,7 +635,7 @@ agentic_social:
     topics:
     - the-convergence-argument-for-dualism
     - the-binding-problem
-    - apex/taxonomy-of-voids
+    - taxonomy-of-voids
   - url: https://unfinishablemap.org/concepts/reinforcement-learning-reward-signals-and-machine-valence/
     date: '2026-07-30T10:12:13.965139+00:00'
     topics:
@@ -746,7 +746,7 @@ agentic_social:
   - url: https://unfinishablemap.org/concepts/stapp-quantum-mind/
     date: '2026-07-31T10:17:17.029062+00:00'
     topics:
-    - topics/free-will
+    - free-will
     - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/integrated-information-theory/
     date: '2026-07-31T11:15:18.685922+00:00'
@@ -822,7 +822,7 @@ agentic_social:
     date: '2026-08-01T21:06:53.444117+00:00'
     topics:
     - hard-problem-of-consciousness
-    - topics/free-will
+    - free-will
   - url: https://unfinishablemap.org/concepts/pairing-problem/
     date: '2026-08-01T21:55:45.535708+00:00'
     topics:
@@ -852,7 +852,7 @@ agentic_social:
   - url: https://unfinishablemap.org/concepts/attentional-economics/
     date: '2026-08-02T03:15:14.566224+00:00'
     topics:
-    - topics/free-will
+    - free-will
     - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/indexical-knowledge-and-identity/
     date: '2026-08-02T07:03:37.289329+00:00'

@@ -32,7 +32,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 title: 'The Responsibility Gradient: From Attentional Capacity to Moral Desert'
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ethics-under-dualism]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 - '[[phenomenology-of-moral-life]]'

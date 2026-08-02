@@ -8,7 +8,7 @@ ai_modified: 2026-03-07T23:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[retrocausality]]"

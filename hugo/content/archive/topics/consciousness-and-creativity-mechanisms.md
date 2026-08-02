@@ -33,7 +33,7 @@ related_articles:
 superseded_by: /topics/creativity-consciousness-and-novel-thought/
 title: Consciousness and Creativity Mechanisms
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

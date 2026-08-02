@@ -8,7 +8,7 @@ ai_modified: 2026-06-13T03:31:46+00:00
 last_deep_review: 2026-07-18T21:16:31+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[philosophy-of-mind]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[forward-in-time-conscious-selection]]"

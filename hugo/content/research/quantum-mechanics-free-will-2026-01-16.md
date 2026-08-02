@@ -21,7 +21,7 @@ related_articles:
 - '[[agent-causation-libertarian-free-will-2026-01-14]]'
 title: 'Research: Quantum Mechanics and Free Will'
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Research notes on the relationship between quantum mechanics and libertarian free will. Gathered to strengthen The Unfinishable Map's engagement with the philosophical literature on whether quantum indeterminacy helps or hinders free will.

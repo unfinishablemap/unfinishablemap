@@ -45,7 +45,7 @@ related_articles:
 title: Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—still contested, proposing mechanisms for consciousness to influence brain activity without violating physical law.

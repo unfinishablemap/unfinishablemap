@@ -14,7 +14,7 @@ archive_reason: "Coalesced into History of the Interaction Problem"
 original_path: "/topics/history-of-interactionist-dualism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[dualism]]"

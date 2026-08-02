@@ -9,7 +9,7 @@ last_deep_review: 2026-07-17T07:58:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[time-symmetric-physics]]"
   - "[[post-decoherence-selection]]"

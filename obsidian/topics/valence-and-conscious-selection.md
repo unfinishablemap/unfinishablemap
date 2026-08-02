@@ -7,7 +7,7 @@ ai_modified: 2026-07-07T13:21:32+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ethics-under-dualism]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[emotion-and-dualism]]"

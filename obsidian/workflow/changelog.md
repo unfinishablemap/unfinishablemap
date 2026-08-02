@@ -5,6 +5,73 @@ ai_modified: '2026-08-02T07:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 07:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/hard-problem-of-consciousness]]
+- **Original score**: n/a (metadata-only task; skill Section 3 skipped — `scripts/curate.py` does not exist)
+- **Published**: yes
+
+**Re-measured live (brief's counts were stale by one):** 55 live articles carry
+`topics: []` across `topics/concepts/apex/voids/positions` (brief said 56), 12 more
+in `archive/`, and 15 live articles carry `concepts: []`.
+
+**Changes**
+- `topics: []` → three bare-slug entries on the anchor file:
+  `metaproblem-of-consciousness-under-dualism`, `emergence-as-universal-hard-problem`,
+  `the-hard-problem-in-non-western-philosophy`. All three already list
+  `hard-problem-of-consciousness` in their own `topics:` (in bare form), so the
+  relationships are reciprocal and the convention was already established for this
+  article. Kept to three because the corpus median list length is 3 (mean 2.7) — the
+  21 topic-article body links were not dumped wholesale.
+- **Canonical form decided: BARE slug.** Normalised all path-qualified entries in
+  `topics:` blocks corpus-wide: 269 files (165 `obsidian/`, 104 `archive/`), 278
+  references. Six distinct prefixed strings existed (`topics/free-will` alone
+  accounted for 134). `concepts:` blocks were deliberately left untouched — 437 files
+  still carry path-qualified entries there, which is correct.
+- `evolution-state.yaml`: 9 `recently_posted` list items normalised via surgical
+  line replacement (no YAML round-trip, to avoid clobbering the concurrently-running
+  coalesce agent and to preserve comments/formatting). `free-will` 8 prefixed + 4 bare
+  merged to a single key with count 12. Line count unchanged 1298→1298, `run_*note`
+  ring intact at 7, `yaml.safe_load` verified.
+- Convention recorded in `CLAUDE.md` under a new "Topic String Canonical Form"
+  heading in the Frontmatter Schema section, plus an inline pointer on the `topics: []`
+  schema line — a location a future editor actually hits, not only a review file.
+
+**Why bare won.** Already 92% of usage (1590 of 1732 references, 216 of 222 distinct
+values). Zero slugs collide across sections corpus-wide, so a bare slug is
+unambiguous. `extract_topics()` strips quotes and brackets but performs no path
+normalisation, so bare is what the dedup set naturally keys on. The field is never
+rendered — Hugo taxonomies are disabled and no layout reads `.Params.topics` — and
+sync copies frontmatter wikilinks through verbatim without converting or validating
+them, so the rewrite is reader-invisible and cannot break links or block push.
+
+**Second live consequence (replenish run 925), confirmed and corrected.** Empty
+`topics` makes an article skip the overlap filter entirely. But the pool-collapse
+risk in the brief does not apply: only 38 of the 55 empty-topics articles survive
+`get_published_articles()`, and all 38 were already inside the 7-day posted-URL
+window — so the primary pool was **already 0** before this change, and the selector
+is running on its first fallback branch (URL-dedup only), which holds **537**
+candidates. This change takes empty-topics 38→37 and cannot drive `random.choice`
+toward determinism.
+
+**`ai_modified` policy — deliberate deviation, flagged for the operator.** Bumped on
+the anchor file only (a real editorial judgement). Not bumped on the 268 mechanically
+normalised files: the rewrite is a lossless representation change with zero semantic
+delta, and `tools/curate/deep_review.py` already documents that cosmetic bumps caused
+the selector to re-pick converged articles 6–10 times, requiring `PRIOR_REVIEW_DAMP`
+and `MIN_REREVIEW_DAYS` to suppress. Bumping 268 files would inject that exact
+pathology at scale and also distort staleness replenishment and the outer-review
+recent-aged fallback. Overrule if the audit trail is wanted instead.
+
+**Follow-up worth considering (not done — outside "frontmatter and state only"
+scope).** Nothing prevents a future editor reintroducing the split. A one-line
+normalisation in `clean_topic()` (`t.split("/")[-1]`) would make both forms collapse
+to one key permanently and render the convention self-enforcing.
+
+- **Scope honoured**: no body prose, no citations, no `last_deep_review`, `ai_system`
+  held verbatim on every file. Sync run; Hugo mirrors verified to agree (0 prefixed
+  remaining in `hugo/content`).
+
 ## 2026-08-02 07:12 UTC - coalesce
 - **Status**: Abandoned (no merge performed)
 - **Sources**: none archived

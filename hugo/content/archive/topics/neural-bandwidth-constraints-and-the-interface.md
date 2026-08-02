@@ -44,7 +44,7 @@ superseded_by: /topics/bandwidth-of-consciousness/
 title: Neural Bandwidth Constraints and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Conscious processing operates at roughly 10 bits per second. The brain's unconscious systems handle on the order of 10⁹ bits per second. This ratio—one to a hundred million—is perhaps the most revealing empirical fact about The Unfinishable Map's central question: how consciousness relates to the brain. The bandwidth constraint is not an incidental limitation. It defines the *shape* of the mind-brain interface, distinguishing what consciousness does from what the brain does, and exposing why production models of consciousness face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models handle naturally.

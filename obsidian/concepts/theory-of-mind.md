@@ -9,8 +9,8 @@ draft: false
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[topics/consciousness-and-social-understanding]]"
-  - "[[topics/free-will]]"
+  - "[[consciousness-and-social-understanding]]"
+  - "[[free-will]]"
 concepts:
   - "[[metacognition]]"
   - "[[baseline-cognition]]"

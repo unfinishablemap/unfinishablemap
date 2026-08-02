@@ -58,7 +58,7 @@ related_articles:
 title: 'Empirical Phenomena of Mental Causation: Placebo and Choking'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Two empirical phenomena, taken together, supply mutually reinforcing evidence for [mental causation](/concepts/mental-causation-and-downward-causation/) along complementary axes. The *placebo effect* shows beliefs and expectations producing measurable, content-specific physiological changes — endogenous opioid release, dopamine modulation, immune suppression — tracked by what the subject consciously understands a treatment to do. The *choking phenomenon* shows the converse: when consciousness intrudes on automatised skill, performance degrades precisely where self-focused monitoring is maximal — effects tracked to content in the one, to attentional mode in the other. The Map reads the phenomenological character of belief, expectation, and attention as load-bearing in producing those effects, but this reading is contested and the data alone do not force it. Each phenomenon *constrains* [epiphenomenalism](/concepts/epiphenomenalism/) from a different angle without *establishing* the dualist alternative (see [evidential-status-discipline](/project/evidential-status-discipline/)), and the conjunction is complementary in a way single-phenomenon arguments are not.

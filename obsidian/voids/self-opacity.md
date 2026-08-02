@@ -10,7 +10,7 @@ topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[introspection]]"
   - "[[phenomenology]]"

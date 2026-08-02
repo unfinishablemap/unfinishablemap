@@ -51,7 +51,7 @@ superseded_by: /topics/mathematical-truth-and-conscious-access/
 title: Mathematical Knowledge and Insight
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[aesthetics-and-consciousness]]'
 ---
 

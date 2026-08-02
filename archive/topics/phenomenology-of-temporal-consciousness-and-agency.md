@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
   - "[[attention-and-the-consciousness-interface]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"

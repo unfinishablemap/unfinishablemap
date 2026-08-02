@@ -42,7 +42,7 @@ superseded_by: /concepts/mental-causation-and-downward-causation/
 title: Downward Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [psychophysical laws](/concepts/psychophysical-laws/), downward causation requires *[selection laws](/concepts/psychophysical-laws/)*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.

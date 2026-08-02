@@ -30,7 +30,7 @@ related_articles:
   evolution]]'
 title: Consciousness and Counterfactual Reasoning
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[consciousness-and-the-problem-of-induction]]'
 ---
 

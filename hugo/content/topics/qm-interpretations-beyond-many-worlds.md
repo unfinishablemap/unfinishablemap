@@ -45,7 +45,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The Unfinishable Map [rejects many-worlds](/concepts/many-worlds/) because universal branching dissolves indexical identity, eliminates the collapse event where consciousness might act, and faces an [unresolved probability crisis](/topics/probability-problem-in-many-worlds/). But rejecting one interpretation demands engagement with the alternatives. The interpretive landscape is one of genuine pluralism with no settled resolution—surveys of physicists consistently find no interpretation commanding majority support, and consciousness-collapse views in particular remain a small minority position (Schlosshauer et al. 2013 is the most-cited such survey; later polls have not overturned the picture). The leading candidates are empirically equivalent on currently testable scenarios, so the choice among them is underdetermined by the evidence; what follows weighs them on philosophical fit rather than claiming the data forces any one. This article surveys the major alternatives and evaluates which leave room for consciousness as a causal participant in quantum outcomes.

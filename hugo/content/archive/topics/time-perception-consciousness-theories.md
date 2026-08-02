@@ -37,7 +37,7 @@ title: Time Perception and Consciousness Theories
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Major theories of consciousness focus almost exclusively on explaining brief "functional moments"—neural processing windows lasting 100 to 300 milliseconds. Yet human experience spans seconds, not mere instants. We hear melodies unfold, watch conversations develop, feel the flow of thought itself. This mismatch between what consciousness theories explain (sub-300ms processing) and what consciousness actually involves (multi-second experienced duration) reveals a fundamental gap in materialist accounts. The failure to explain temporal phenomenology—how consciousness structures time experience—strengthens the case for dualism.

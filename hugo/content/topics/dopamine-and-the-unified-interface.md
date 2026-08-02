@@ -25,7 +25,7 @@ related_articles:
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 title: Dopamine and the Unified Interface
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

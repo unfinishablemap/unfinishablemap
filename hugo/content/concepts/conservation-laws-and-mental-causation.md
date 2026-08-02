@@ -44,7 +44,7 @@ related_articles:
 title: Conservation Laws and Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The energy conservation objection to [interactionist-dualism](/concepts/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed — violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) for the full historical development), has been revitalised by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." The Unfinishable Map holds that this objection fails on two independent grounds: conservation is *conditional* on symmetries that mental causation would break, and consciousness can influence outcomes without transferring energy at all.

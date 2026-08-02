@@ -66,7 +66,7 @@ superseded_by: /topics/temporal-consciousness-structure-and-agency/
 title: Temporal Structure of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 - '[[non-temporal-consciousness]]'
 ---

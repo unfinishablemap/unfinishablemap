@@ -38,7 +38,7 @@ superseded_by: /topics/consciousness-and-the-ontology-of-temporal-becoming/
 title: Temporal Ontology and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The Unfinishable Map argues that positions on time and positions on consciousness are deeply entangled. Choosing eternalism creates pressure toward functionalism or illusionism about temporal experience. Choosing presentism struggles to accommodate consciousness's causal role. The growing block—where past and present exist but the future does not—is, the Map argues, a temporal ontology well-suited to dualist interactionism. These pairings reflect deep structural connections rather than mere coincidence, though the connections are affinities rather than logical necessities—a philosopher can coherently resist any particular pairing at a cost. The metaphysics of time shapes what consciousness can plausibly be, and what consciousness turns out to be shapes which temporal ontology is most viable. Recognising these affinities narrows the philosophical landscape considerably.

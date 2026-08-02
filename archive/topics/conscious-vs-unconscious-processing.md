@@ -8,7 +8,7 @@ draft: false
 last_deep_review: 2026-01-25T17:29:51+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[access-consciousness]]"
   - "[[blindsight]]"

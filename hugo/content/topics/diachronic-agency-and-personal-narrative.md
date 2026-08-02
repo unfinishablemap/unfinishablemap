@@ -38,7 +38,7 @@ related_articles:
 title: Diachronic Agency and Personal Narrative
 topics:
 - '[[personal-identity]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 A single momentary choice does not make a life. Agency worth the name extends across time—you commit to a career, sustain a relationship, pursue a project through setbacks. This *diachronic agency* requires more than a sequence of disconnected decisions. It requires narrative: an intelligible structure connecting past choices to present commitments to future intentions. The Unfinishable Map argues that narrative is not merely a story told about agency after the fact but the medium through which a [substantial self](/topics/the-self-minimal-narrative-and-substantial/) organises its selections into coherent temporal patterns. Without narrative structure, there would be momentary choices but no agent whose life those choices compose.

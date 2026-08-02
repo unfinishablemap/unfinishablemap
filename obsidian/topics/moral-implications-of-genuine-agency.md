@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-07-31T13:59:05+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ethics-under-dualism]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[consciousness-and-moral-agency-under-duress]]"

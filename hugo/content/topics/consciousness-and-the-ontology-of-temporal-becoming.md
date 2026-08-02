@@ -54,7 +54,7 @@ related_articles:
 title: Consciousness and the Ontology of Temporal Becoming
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 ---
 

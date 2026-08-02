@@ -42,7 +42,7 @@ superseded_by: /concepts/psychophysical-laws/
 title: The Psychophysical Coupling Law
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness "selects" quantum outcomes—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, even schematically, "selection" remains a metaphor rather than a research program.

@@ -9,7 +9,7 @@ last_deep_review: 2026-07-11T07:07:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-imagination]]"
 concepts:
   - "[[bidirectional-interaction]]"

@@ -36,7 +36,7 @@ related_articles:
 superseded_by: /topics/temporal-structure-of-consciousness/
 title: The Phenomenology of Temporal Agency
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

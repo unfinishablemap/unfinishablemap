@@ -36,7 +36,7 @@ related_articles:
 title: Clinical Neuroplasticity Evidence for Bidirectional Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Clinical [neuroplasticity](/concepts/neuroplasticity/) research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural function through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [epiphenomenalism](/concepts/epiphenomenalism/) and to the [causal closure](/concepts/causal-closure/) of the physical—while acknowledging that mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.

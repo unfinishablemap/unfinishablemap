@@ -49,7 +49,7 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Habit and Skill Acquisition
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Learning to drive a car is an exercise in phenomenological transformation. In the first lesson, every action demands conscious attention—check the mirror, depress the clutch, engage the gear, ease off slowly, steer, watch the road. Each step is individually represented in awareness, effortful, and fragile. Months later, the same person drives while holding a conversation, navigating complex intersections with barely a flicker of deliberate thought. The skill hasn't disappeared—it has migrated from the territory of conscious effort into the domain of [automatic execution](/concepts/implicit-memory/).

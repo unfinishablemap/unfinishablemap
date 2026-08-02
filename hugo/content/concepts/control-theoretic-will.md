@@ -30,7 +30,7 @@ related_articles:
 - '[[wholeheartedness-void]]'
 title: Control-Theoretic Will
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

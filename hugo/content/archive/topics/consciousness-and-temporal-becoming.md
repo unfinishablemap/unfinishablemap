@@ -56,7 +56,7 @@ superseded_by: /topics/consciousness-and-the-ontology-of-temporal-becoming/
 title: Consciousness and Temporal Becoming
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Physics is largely time-symmetric. Run Newton's equations backward, and they still hold. Reverse the Schrödinger equation, and it remains valid. Yet conscious experience divides time absolutely: the past is settled, the future open; memory reaches backward while anticipation constructs forward; the present slides irreversibly from possibility to fact. The Unfinishable Map proposes that this experienced directedness—the phenomenological arrow—is not incidental to consciousness but partly constituted by it. Physical processes including [quantum collapse](/concepts/collapse-and-time/) provide a basic physical asymmetry whether or not conscious beings are present. But the felt directionality of time—becoming, flow, the passage from open future to settled past—requires consciousness and cannot be reduced to the physical asymmetry alone.

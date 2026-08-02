@@ -42,7 +42,7 @@ related_articles:
 superseded_by: /topics/consciousness-and-temporal-becoming/
 title: Consciousness and Temporal Creativity
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

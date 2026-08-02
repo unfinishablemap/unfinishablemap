@@ -29,7 +29,7 @@ subject_title: Audit volitional-control
 subject_type: recent
 title: Outer Review - ChatGPT 5.6 Pro (2026-07-24)
 topics:
-- '[[topics/volitional-control]]'
+- '[[volitional-control]]'
 ---
 
 **Date**: 2026-07-24

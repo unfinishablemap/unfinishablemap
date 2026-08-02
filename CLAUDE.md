@@ -115,7 +115,7 @@ human_modified: YYYY-MM-DD or ISO timestamp
 ai_modified: null or ISO timestamp
 draft: true/false # always default to false
 description: "Meta description for search/social (150-160 chars)"
-topics: []
+topics: []             # BARE slugs only — see "Topic String Canonical Form"
 concepts: []
 related_articles: []
 
@@ -140,6 +140,35 @@ Authorship type is derived from `ai_contribution`:
 - `0` = human (purely human-created)
 - `100` = ai (purely AI-generated)
 - `1-99` = mixed (human-AI collaboration)
+
+### Topic String Canonical Form
+
+**Entries in `topics:` must be BARE slugs — `[[free-will]]`, never `[[topics/free-will]]`.**
+
+The `topics:` field is not rendered anywhere. Hugo taxonomies are disabled
+(`hugo/config.toml`) and no layout reads `.Params.topics`; sync copies the field
+through verbatim without converting or validating its wikilinks. Its only live
+consumer is the agentic-social duplicate-suppression filter, which keys on the
+raw string: `extract_topics()` in
+`.claude/skills/agentic-social/scripts/agentic_social_api.py` strips quotes and
+`[[ ]]` brackets but performs **no path normalisation**. A section prefix
+therefore creates a second, independent identity for the same topic, so one
+article's postings are split across two keys and each looks half as recent as it
+is. On 2026-08-01 `topics/free-will` (8 window entries) and `free-will` (4) were
+live simultaneously, inflating apparent staleness ~3.1x and nearly shipping a
+duplicate post.
+
+Bare is canonical because it was already 92% of usage (1590 of 1732 references),
+and because **no slug collides across sections** — the corpus-wide check found
+zero duplicate stems, so a bare slug is unambiguous. (Body prose is different:
+`build_content_index()` excludes colliding slugs, so body wikilinks to a
+colliding target must stay path-qualified. That rule does not apply here.) Note
+`concepts:` still legitimately carries path-qualified entries; this convention
+governs `topics:` only.
+
+An **empty** `topics: []` is also a defect: articles with no topics bypass the
+overlap filter entirely and become the selector's only surviving primary
+candidates.
 
 ## Writing Style
 

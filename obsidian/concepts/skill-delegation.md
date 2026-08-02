@@ -8,7 +8,7 @@ ai_modified: 2026-08-02T00:36:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[implicit-memory]]"

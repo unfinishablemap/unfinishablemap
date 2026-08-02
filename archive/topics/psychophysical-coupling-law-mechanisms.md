@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[interactionist-dualism]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "Psychophysical Coupling"

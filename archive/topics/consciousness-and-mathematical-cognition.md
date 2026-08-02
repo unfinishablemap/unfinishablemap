@@ -14,7 +14,7 @@ original_path: "/topics/consciousness-and-mathematical-cognition/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-and-creativity]]"

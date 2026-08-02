@@ -33,7 +33,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 title: Moral Implications of Genuine Agency
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ethics-under-dualism]]'
 - '[[phenomenology-of-moral-life]]'
 - '[[consciousness-and-moral-agency-under-duress]]'

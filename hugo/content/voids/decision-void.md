@@ -44,7 +44,7 @@ related_articles:
 - '[[direct-refutation-discipline]]'
 title: The Decision Void
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[philosophy-of-mind]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[forward-in-time-conscious-selection]]'

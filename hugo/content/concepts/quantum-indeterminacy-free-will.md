@@ -38,7 +38,7 @@ related_articles:
 - '[[concepts/many-worlds]]'
 title: Quantum Indeterminacy and Free Will
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

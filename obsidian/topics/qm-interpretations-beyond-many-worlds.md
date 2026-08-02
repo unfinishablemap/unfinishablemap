@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[measurement-problem]]"

@@ -14,7 +14,7 @@ archive_reason: "Coalesced into Forward-in-Time Conscious Selection"
 original_path: "/topics/non-retrocausal-conscious-selection-models/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[spontaneous-collapse-theories]]"

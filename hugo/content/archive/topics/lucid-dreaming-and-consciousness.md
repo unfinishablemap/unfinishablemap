@@ -39,7 +39,7 @@ superseded_by: /topics/dream-consciousness/
 title: Lucid Dreaming and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness, not merely a blend of waking and REM sleep. The 2025 Demirel study established this definitively: lucid dreams show unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity patterns) that differ from both ordinary REM and waking states. This matters for The Unfinishable Map because lucid dreaming demonstrates that consciousness can voluntarily modulate its own mode of operation while the body sleeps. The brain-consciousness interface admits multiple stable configurations, and trained practitioners can switch between them.

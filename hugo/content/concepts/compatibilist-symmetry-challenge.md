@@ -31,7 +31,7 @@ related_articles:
 - '[[agency-void]]'
 title: Compatibilist Symmetry Challenge
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ethics-under-dualism]]'
 ---
 

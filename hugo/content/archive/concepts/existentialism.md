@@ -37,7 +37,7 @@ related_articles:
 superseded_by: /concepts/nihilism-and-existentialism/
 title: Existentialism
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[meaning-of-life]]'
 - '[[hard-problem-of-consciousness]]'
 ---

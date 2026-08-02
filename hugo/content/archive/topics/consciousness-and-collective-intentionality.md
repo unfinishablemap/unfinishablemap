@@ -32,7 +32,7 @@ related_articles:
 superseded_by: /topics/consciousness-and-collective-phenomena/
 title: Consciousness and Collective Intentionality
 topics:
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[consciousness-and-social-cognition]]'
 - '[[consciousness-and-collective-intelligence]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 ---

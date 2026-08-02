@@ -32,7 +32,7 @@ related_articles:
 superseded_by: /concepts/motor-selection/
 title: Dopamine and the Selection Interface
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

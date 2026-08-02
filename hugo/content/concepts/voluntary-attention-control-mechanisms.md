@@ -28,7 +28,7 @@ related_articles:
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
 title: Voluntary Attention Control Mechanisms
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

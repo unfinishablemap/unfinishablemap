@@ -25,7 +25,7 @@ related_articles:
 - '[[stapp-quantum-mind]]'
 title: Bohm's Implicate Order and Active Information
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 David Bohm's work supplies one of the four standing quantum-mind rivals the Map catalogues (alongside [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/), Penrose–Hameroff Orch-OR, and [quantum biology](/topics/quantum-biology-and-neural-consciousness/)). It is the one the Map borrows from most and hosts least. Bohm developed three interlocking bodies of thought — the 1952 pilot-wave interpretation, the reading of the "quantum potential" as *active information*, and the *implicate order* metaphysics — that together offer a candidate channel for the kind of small, energy-conserving influence the Map's tenets require. Against this, Bohm's own reading is a neutral monism the Map must decline, and his mechanics is deterministic in a way that sits in genuine tension with conscious selection. This article separates what the Map takes from what it leaves.

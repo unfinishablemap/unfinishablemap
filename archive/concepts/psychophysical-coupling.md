@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Psychophysical Laws"
 original_path: "/concepts/psychophysical-coupling/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
 concepts:

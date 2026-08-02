@@ -45,7 +45,7 @@ related_articles:
 title: Nihilism and Existentialism
 topics:
 - '[[meaning-of-life]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

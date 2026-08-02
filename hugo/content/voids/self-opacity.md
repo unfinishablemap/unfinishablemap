@@ -68,7 +68,7 @@ topics:
 - '[[philosophy-of-mind]]'
 - '[[consciousness]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Consciousness cannot fully know itself. When it tries, it encounters three structural impossibilities: the observer cannot observe itself observing, cognitive processes remain hidden while their products become conscious, and self-reference produces felt instabilities rather than clean self-knowledge. These are not three separate failures but three facets of a single void—the self-opacity of consciousness. This article frames the broader self-knowledge context for the introspection-architecture sub-cluster, of which the specific architectural faces are catalogued in [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), and [confabulation-void](/voids/confabulation-void/); [the independence-scoring exhibit](/topics/introspection-architecture-independence-scoring/) scores the four-void cluster against the catalogue's four criteria.

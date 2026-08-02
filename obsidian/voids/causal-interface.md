@@ -9,7 +9,7 @@ last_deep_review: 2026-07-19T17:32:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"

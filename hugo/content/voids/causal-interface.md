@@ -37,7 +37,7 @@ related_articles:
 title: The Causal Interface Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 We experience ourselves as causes. When you raise your arm, you feel yourself to be the author of that movement. When you choose coffee over tea, something in you—call it will, intention, decision—seems to make the choice happen. Yet we cannot observe *how* any of this works. The mechanism by which consciousness interfaces with physical causation is invisible from every angle we have.

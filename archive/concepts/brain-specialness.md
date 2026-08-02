@@ -8,7 +8,7 @@ ai_modified: 2026-07-31T01:37:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "Interface Locality"
   - "[[filter-theory]]"

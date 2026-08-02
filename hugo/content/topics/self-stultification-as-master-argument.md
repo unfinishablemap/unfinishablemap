@@ -49,7 +49,7 @@ related_articles:
 title: Self-Stultification as Master Argument
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Self-stultification is the single most powerful argument in The Unfinishable Map's philosophical arsenal. A position is self-stultifying when accepting it rationally undermines the grounds for accepting it—not a logical contradiction, but an [epistemic self-defeat](/concepts/self-stultification/) that makes the position impossible to hold rationally. What makes it a *master* argument is its reach: the same core structure threatens [epiphenomenalism](/concepts/epiphenomenalism/), [physicalism](/concepts/materialism/), eliminativism, and global skepticism, with varying force against each. The unifying pattern: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed.

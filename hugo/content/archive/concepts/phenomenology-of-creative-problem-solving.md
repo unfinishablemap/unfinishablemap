@@ -45,7 +45,7 @@ superseded_by: /concepts/phenomenology-of-creative-insight/
 title: Phenomenology of Creative Problem-Solving
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Creative problem-solving has a phenomenology unlike any other cognitive activity. It unfolds through qualitatively distinct experiential phases — effortful search, felt impasse, involuntary restructuring, and the unmistakable phenomenal shock of insight — each with a character that resists reduction to its neural correlates. The Unfinishable Map argues that this phenomenal structure is not ornamental. It is the process itself as experienced from the inside, and its irreducibility to physical description strengthens the case for [dualism](/tenets/#dualism) about consciousness.

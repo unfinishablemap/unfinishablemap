@@ -14,7 +14,7 @@ archive_reason: "Coalesced into The Phenomenology of Skill, Habit, and the Lived
 original_path: "/topics/phenomenology-of-habit-and-skill-acquisition/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[implicit-memory]]"

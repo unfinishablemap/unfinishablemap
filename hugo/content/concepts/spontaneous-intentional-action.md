@@ -41,7 +41,7 @@ related_articles:
 - '[[agency-void]]'
 title: Spontaneous Intentional Action
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Some of the most revealing exercises of agency arrive without deliberation. You reach for a friend's hand without planning to. You speak a sentence that surprises you with its precision. You stop walking to watch a hawk, having never decided to stop. These are spontaneous intentional actions: goal-directed, owned, and meaningful, yet initiated without prior deliberation or conscious planning. They occupy a philosophically rich middle ground between the two categories that dominate discussions of agency—effortful deliberate choice and automatic habitual behaviour—and their existence challenges accounts that reduce [free will](/topics/free-will/) to either.

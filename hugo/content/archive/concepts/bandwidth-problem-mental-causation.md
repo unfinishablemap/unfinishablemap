@@ -37,7 +37,7 @@ superseded_by: /concepts/consciousness-bandwidth-architecture/
 title: The Bandwidth Problem in Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The bandwidth problem in mental causation asks: even if consciousness *can* influence physical outcomes, can it carry enough information to produce the specific effects we observe? This challenge is distinct from Jaegwon Kim's [causal exclusion](/concepts/causal-closure/) argument, which questions whether mental causation occurs at all. The bandwidth problem grants that consciousness might influence the brain—then asks whether the mind-body channel has sufficient capacity and specificity to do useful causal work.

@@ -41,7 +41,7 @@ title: Consciousness Bandwidth Architecture
 topics:
 - '[[bandwidth-of-consciousness]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The consciousness-brain interface has a sharply asymmetric architecture. Sensory systems deliver approximately 10⁹ bits per second to the brain, generating rich phenomenal experience. Conscious volitional influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one, and this eight-order-of-magnitude gap is a defining structural feature rather than an incidental limitation—one with two faces. The first is the asymmetry itself: the inbound channel delivers constructed experience, the outbound channel permits selection. The second is the bandwidth problem: how does a 10-bit/second channel produce the specific, fine-grained behaviour we observe? The Unfinishable Map treats these as complementary aspects of a single architecture whose resolution—hierarchical selection among brain-prepared alternatives—carries substantial philosophical weight.

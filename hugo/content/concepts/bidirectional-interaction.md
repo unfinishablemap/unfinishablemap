@@ -34,7 +34,7 @@ related_articles:
 title: Bidirectional Interaction
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Bidirectional interaction is the claim that consciousness and the physical world causally influence each other—that information flows both ways across the mind-body boundary. Physical brain states shape conscious experience, and conscious states shape physical brain states. This distinguishes [interactionist-dualism](/concepts/interactionist-dualism/) from [epiphenomenalism](/concepts/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.

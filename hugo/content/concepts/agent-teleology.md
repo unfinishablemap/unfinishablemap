@@ -39,7 +39,7 @@ related_articles:
 - '[[self-transcendence-void]]'
 title: Agent Teleology
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[evolution-under-dualism]]'
 ---
 

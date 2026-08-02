@@ -37,7 +37,7 @@ title: Valence as Selection Currency
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[emotion-and-dualism]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness selects among physically underdetermined outcomes, it needs a basis for selection. Random choice would make conscious causation purposeless—indistinguishable from noise. Deliberate choice requires a criterion, something that makes one outcome preferable to another. The Unfinishable Map proposes that [valence](/concepts/valence/)—the felt goodness or badness of experience—serves as this criterion: the common metric, or *currency*, by which consciousness evaluates competing neural possibilities and selects which becomes actual.

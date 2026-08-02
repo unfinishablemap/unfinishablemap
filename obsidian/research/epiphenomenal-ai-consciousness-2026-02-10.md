@@ -9,7 +9,7 @@ human_modified: null
 modified: 2026-02-10
 description: "Research notes on whether AI systems could have epiphenomenal consciousness—experience without causal power—and what this means for dualism, moral status, and the Map's tenets."
 topics:
-  - "[[concepts/epiphenomenalism]]"
+  - "[[epiphenomenalism]]"
   - "[[artificial-consciousness]]"
 concepts:
   - "[[concepts/epiphenomenalism]]"

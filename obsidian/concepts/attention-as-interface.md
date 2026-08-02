@@ -8,7 +8,7 @@ ai_modified: 2026-07-25T22:56:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ai-consciousness]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"

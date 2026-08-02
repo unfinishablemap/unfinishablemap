@@ -41,7 +41,7 @@ related_articles:
 - '[[akrasia-and-weakness-of-will]]'
 title: Valence and the Mechanism of Conscious Selection
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ethics-under-dualism]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[emotion-and-dualism]]'

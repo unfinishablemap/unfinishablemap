@@ -59,7 +59,7 @@ title: Consciousness and Mathematical Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Mathematical cognition is where the case for consciousness as a causal force is sharpest. When you grasp *why* a proof works—not merely verify each step but see the necessity—something happens that resists description in purely computational terms. When a mathematician invents a new structure that transforms what was previously thinkable, something happens that resists reduction to algorithmic search. Roger Penrose argued that mathematical insight demonstrates consciousness cannot be algorithmic. Whether or not his specific argument succeeds, the phenomenology of mathematical understanding and creativity reveals features of consciousness that physical description struggles to capture.

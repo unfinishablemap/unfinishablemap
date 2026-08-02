@@ -34,7 +34,7 @@ related_articles:
 superseded_by: /topics/creativity-consciousness-and-novel-thought/
 title: Creativity and Novel Combination
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[animal-consciousness]]'
 ---

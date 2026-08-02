@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-18T10:17:00+00:00
 draft: false
 topics:
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[consciousness-and-social-cognition]]"
   - "[[the-strong-emergence-of-consciousness]]"
   - "[[consciousness-and-interpersonal-understanding]]"
   - "[[machine-consciousness]]"

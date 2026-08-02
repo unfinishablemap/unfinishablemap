@@ -13,7 +13,7 @@ ai_modified: 2026-03-20T17:19:00+00:00
 last_deep_review: 2026-03-20T12:13:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[consciousness-and-causal-powers]]"

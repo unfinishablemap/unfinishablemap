@@ -36,7 +36,7 @@ related_articles:
 title: Philosophy of Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 ---
 

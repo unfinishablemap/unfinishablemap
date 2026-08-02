@@ -20,7 +20,7 @@ related_articles:
 - '[[temporal-consciousness]]'
 title: Research Notes - Consciousness and Creativity
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

@@ -60,7 +60,7 @@ related_articles:
 title: The Agency Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[philosophy-of-mind]]'
 - '[[consciousness]]'
 ---

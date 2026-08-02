@@ -31,7 +31,7 @@ related_articles:
 superseded_by: /topics/consciousness-and-collective-phenomena/
 title: Consciousness and Collective Intelligence
 topics:
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[consciousness-and-social-cognition]]'
 - '[[the-strong-emergence-of-consciousness]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[machine-consciousness]]'

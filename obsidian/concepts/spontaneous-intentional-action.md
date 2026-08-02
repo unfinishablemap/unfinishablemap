@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-07-06T11:27:12+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[phenomenology-of-choice-and-volition]]"

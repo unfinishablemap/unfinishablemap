@@ -52,7 +52,7 @@ related_articles:
 - '[[project/evidential-status-discipline]]'
 title: Phenomenology of Agency vs Passivity
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[authentic-vs-inauthentic-choice]]'
 ---
 

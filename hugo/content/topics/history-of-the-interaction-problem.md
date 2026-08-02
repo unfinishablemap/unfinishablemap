@@ -43,7 +43,7 @@ related_articles:
 title: History of the Interaction Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 ---
 

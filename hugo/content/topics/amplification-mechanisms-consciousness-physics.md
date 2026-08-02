@@ -44,7 +44,7 @@ related_articles:
 title: Amplification Mechanisms for Consciousness-Physics Interaction
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness biases quantum-indeterminate outcomes in the brain—as The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes—then something must bridge a staggering gap. A single quantum event involves energies on the order of 10⁻²⁰ joules. A neural firing pattern requires energies a trillion times larger. Seven distinct amplification mechanisms have been proposed in the literature, each addressing a different segment of this quantum-to-macroscopic chain. No single mechanism traces the full path, but together they map the territory of possible solutions to what the Map calls the [amplification void](/voids/amplification-void/). Three of these mechanisms—stochastic resonance, self-organized criticality, and threshold-crossing dynamics—compose into a multi-stage amplification chain that provides the most complete pathway from quantum bias to behaviour.

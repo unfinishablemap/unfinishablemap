@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-07-28T18:27:15+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[authentic-vs-inauthentic-choice]]"
 concepts:
   - "[[phenomenology-of-choice-and-volition]]"

@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-05-28T00:00:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[consciousness-and-the-problem-of-induction]]"
 concepts:
   - "[[counterfactual-reasoning]]"

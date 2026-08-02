@@ -34,10 +34,10 @@ related_articles:
 superseded_by: /topics/consciousness-and-the-grounds-of-normative-authority/
 title: Consciousness and the Problem of Normative Force
 topics:
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 - Consciousness And Normative Authority
 - '[[ethics-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Normative force is the binding grip of an "ought" — the felt demand that moves from recognition to requirement. Pain does not merely inform you that tissue is damaged; it *compels* avoidance. A promise does not merely describe a commitment; it *binds* you to fulfilment. The problem of normative force asks: where does this compulsion come from? The Unfinishable Map argues that normative force is rooted in conscious experience — that without phenomenal consciousness, the gap between recognising a fact and being bound by it cannot be closed. This article examines why that gap exists, why standard philosophical accounts struggle to close it, and what consciousness contributes that nothing else can.

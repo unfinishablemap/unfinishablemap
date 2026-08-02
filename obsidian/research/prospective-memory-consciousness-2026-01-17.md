@@ -7,7 +7,7 @@ ai_modified: 2026-05-29T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"

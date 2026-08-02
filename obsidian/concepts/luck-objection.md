@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-07-28T02:16:16+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[agent-causation]]"

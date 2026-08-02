@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
   - "[[ethics-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[topics/phenomenal-value-realism]]"

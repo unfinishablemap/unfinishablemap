@@ -1,14 +1,135 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T03:32:44+00:00'
+ai_modified: '2026-08-02T07:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 03:32:44+00:00
+lastmod: 2026-08-02 07:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 07:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Original score**: n/a (metadata-only task; skill Section 3 skipped — `scripts/curate.py` does not exist)
+- **Published**: yes
+
+**Re-measured live (brief's counts were stale by one):** 55 live articles carry
+`topics: []` across `topics/concepts/apex/voids/positions` (brief said 56), 12 more
+in `archive/`, and 15 live articles carry `concepts: []`.
+
+**Changes**
+- `topics: []` → three bare-slug entries on the anchor file:
+  `metaproblem-of-consciousness-under-dualism`, `emergence-as-universal-hard-problem`,
+  `the-hard-problem-in-non-western-philosophy`. All three already list
+  `hard-problem-of-consciousness` in their own `topics:` (in bare form), so the
+  relationships are reciprocal and the convention was already established for this
+  article. Kept to three because the corpus median list length is 3 (mean 2.7) — the
+  21 topic-article body links were not dumped wholesale.
+- **Canonical form decided: BARE slug.** Normalised all path-qualified entries in
+  `topics:` blocks corpus-wide: 269 files (165 `obsidian/`, 104 `archive/`), 278
+  references. Six distinct prefixed strings existed (`topics/free-will` alone
+  accounted for 134). `concepts:` blocks were deliberately left untouched — 437 files
+  still carry path-qualified entries there, which is correct.
+- `evolution-state.yaml`: 9 `recently_posted` list items normalised via surgical
+  line replacement (no YAML round-trip, to avoid clobbering the concurrently-running
+  coalesce agent and to preserve comments/formatting). `free-will` 8 prefixed + 4 bare
+  merged to a single key with count 12. Line count unchanged 1298→1298, `run_*note`
+  ring intact at 7, `yaml.safe_load` verified.
+- Convention recorded in `CLAUDE.md` under a new "Topic String Canonical Form"
+  heading in the Frontmatter Schema section, plus an inline pointer on the `topics: []`
+  schema line — a location a future editor actually hits, not only a review file.
+
+**Why bare won.** Already 92% of usage (1590 of 1732 references, 216 of 222 distinct
+values). Zero slugs collide across sections corpus-wide, so a bare slug is
+unambiguous. `extract_topics()` strips quotes and brackets but performs no path
+normalisation, so bare is what the dedup set naturally keys on. The field is never
+rendered — Hugo taxonomies are disabled and no layout reads `.Params.topics` — and
+sync copies frontmatter wikilinks through verbatim without converting or validating
+them, so the rewrite is reader-invisible and cannot break links or block push.
+
+**Second live consequence (replenish run 925), confirmed and corrected.** Empty
+`topics` makes an article skip the overlap filter entirely. But the pool-collapse
+risk in the brief does not apply: only 38 of the 55 empty-topics articles survive
+`get_published_articles()`, and all 38 were already inside the 7-day posted-URL
+window — so the primary pool was **already 0** before this change, and the selector
+is running on its first fallback branch (URL-dedup only), which holds **537**
+candidates. This change takes empty-topics 38→37 and cannot drive `random.choice`
+toward determinism.
+
+**`ai_modified` policy — deliberate deviation, flagged for the operator.** Bumped on
+the anchor file only (a real editorial judgement). Not bumped on the 268 mechanically
+normalised files: the rewrite is a lossless representation change with zero semantic
+delta, and `tools/curate/deep_review.py` already documents that cosmetic bumps caused
+the selector to re-pick converged articles 6–10 times, requiring `PRIOR_REVIEW_DAMP`
+and `MIN_REREVIEW_DAYS` to suppress. Bumping 268 files would inject that exact
+pathology at scale and also distort staleness replenishment and the outer-review
+recent-aged fallback. Overrule if the audit trail is wanted instead.
+
+**Follow-up worth considering (not done — outside "frontmatter and state only"
+scope).** Nothing prevents a future editor reintroducing the split. A one-line
+normalisation in `clean_topic()` (`t.split("/")[-1]`) would make both forms collapse
+to one key permanently and render the convention self-enforcing.
+
+- **Scope honoured**: no body prose, no citations, no `last_deep_review`, `ai_system`
+  held verbatim on every file. Sync run; Hugo mirrors verified to agree (0 prefixed
+  remaining in `hugo/content`).
+
+## 2026-08-02 07:12 UTC - coalesce
+- **Status**: Abandoned (no merge performed)
+- **Sources**: none archived
+- **Target**: none created
+- **References to review**: none
+
+### The lens: third-party co-citation coupling
+
+Ten prior passes ranked candidates by properties of the articles themselves — slug/description, citation-set Jaccard, link/slug Jaccard, wikilink-neighbourhood, title-token Jaccard, `coalesced_from` ancestry, corpus-wide and within-voids 9-gram shingles, body-only inbound-link counts, and H2/H3 heading-skeleton Jaccard. Every one measures *similarity of the pair*. This pass measures something the pair does not contain: **which two articles the rest of the corpus reaches for in the same breath.** Bibliometric co-citation, applied inward — paragraph-level, and **third-party only** (a source citing both is excluded if it is itself one of the pair, so reciprocal linking cannot inflate a score).
+
+736 candidate articles across `topics/` `concepts/` `voids/`, 8,434 source files, **8,021 pairs with ≥3 third-party co-citations**.
+
+**The raw metric is hub-biased and had to be corrected.** Normalising by `min(inbound)` puts `free-will` (inbound 326) at the top of the ranking paired with every small free-will article — that measures hub adjacency, not redundancy. Re-ranked on Salton cosine `co/√(ia·ib)` with an inbound-ratio ≤3 and hub cut at inbound ≤60, then filtered for pairs an apex article already co-cites and for series/ladder vocabulary in the co-citing prose. **Five candidates survived.** All five were evaluated on the merits and all five are declined.
+
+### The five candidates
+
+1. **`logical-behaviourism` + `type-identity-theory`** (concepts, Salton 0.463) — **DECLINE**. The leads carry the distinction: behaviourism is a *semantic* thesis ("statements about the mind **mean** statements about behaviour"), type-identity a *metaphysical* one ("mental state-types are **numerically identical** to physical state-types"). Ryle 1949 against Place/Smart 1956–59 is a succession in the history of physicalism, not a duplication; the differentiation test's third sub-question (framework-independence) passes decisively — the distinction pre-dates the Map by seventy years. Arithmetic independently blocks it: 2,113 + 1,805 = **3,918 prose words against the concepts hard ceiling of 3,500**, measured after decomposing reference apparatus out.
+2. **`attended-intermediate-representations-theory` + `recurrent-processing-theory`** (concepts, Salton 0.456) — **DECLINE**, and the most instructive case (below).
+3. **`compatibilist-symmetry-challenge` + `event-causal-libertarianism`** (Salton 0.295) — **DECLINE**. `event-causal-libertarianism` opens by placing itself in an external canonical taxonomy — "a genus with three species… the standard taxonomy, canonised in the Stanford Encyclopedia" — while `compatibilist-symmetry-challenge` is "the Map's named anti-slippage move". A species of an external taxonomy and a Map-internal dialectical move are different kinds of object; the merge has no coherent unit.
+4. **`graduated-middle-path-valence-modulated-attention` + `reinforcement-learning-reward-signals-and-machine-valence`** (Salton 0.405) — **DECLINE**. Co-citation here is topical adjacency on "valence", not redundancy: one works the attention–valence coupling in humans to a *deflationary* verdict, the other asks whether an RL reward scalar could be pain. Different subject matter entirely.
+5. **`negative-valence-asymmetry-and-the-selection-weighting-function` + `wanting-liking-and-the-value-in-mechanism-fork`** (Salton 0.314) — **DECLINE**. Both are children of [valence-and-conscious-selection](/topics/valence-and-conscious-selection/), but they answer different questions — the *weighting function* (does negative value weigh more than positive?) versus Berridge's *motivation/hedonics dissociation*. Merging them would produce a survey of the parent's children in place of two answers.
+
+**Anti-procrastination check** per [abandon-coalesce](/project/abandon-coalesce/) §Failure Modes: changelog greps return **0** prior coalesce mentions for seven of the eight articles involved; `compatibilist-symmetry-challenge`'s ten hits are all its own inbound-integration work (0 coalesce-related). Every candidate is a first-time evaluation, not a repeat deferral under thinning grounds.
+
+### The finding worth keeping: the series signal is in the article's self-description, not in third-party prose
+
+The automated filter scored `AIR` + `RPT` at **series-vocabulary 0.00 and apex-integration 0** — it looked like the cleanest unintegrated pair in the corpus. Reading the articles inverted that instantly. `recurrent-processing-theory`'s **first paragraph** declares it "the **local / first-order** member of the neural-correlates-of-consciousness **big four**", names [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) as "the survey situating RPT among the big-four NCC theories", and states outright: "this article positions RPT against those rivals rather than restating them." The merge target already exists one layer up, the article knows it, and the de-duplication is the structure a merge would destroy. AIR and RPT are moreover *rivals on the very question a merged article would have to settle* — AIR makes attention necessary for consciousness, RPT puts phenomenality at Stage 3 without access.
+
+So the durable methodological result is a **correction to how future passes should read this metric**, not a new candidate: taxonomy membership is asserted by an article about *itself*, in its lead, and is frequently absent from the third-party prose that co-cites it. A filter reading only co-citing paragraphs will keep surfacing tightly-coupled members of named taxonomies as though they were unintegrated. **Any future lens of this shape must read the candidates' own leads before ranking.**
+
+**Two honest calibrations against overclaiming.** (a) It is tempting to report that high coupling *predicts* prior integration and is therefore a merge contra-indicator. The data do not support it: mean coupling is **0.546 for apex-integrated pairs and 0.547 for un-integrated pairs** — no separation at all. (b) What the data *do* show is a series-framing gradient at the top of the distribution: the top coupling decile averages **0.72 series/ladder vocabulary against 0.41 for the remainder**, and the eight most-coupled pairs in the corpus (the non-neural cognition ladder — basal/bioelectric, plant, neuron-less animals, immune, enteric — and the five-member introspection-architecture void cluster) run 0.79–1.00 with an apex already integrating each. Those clusters are explicitly ordered: "the rung below", "the prokaryotic floor beneath it", "Do NOT re-cover its subjects", "walks from storytelling to source-tag to gating-signal to fabrication to reality-judgement". `project/per-cluster-independence-scoring.md` additionally uses the introspection cluster as the *unit of scoring* — "individual voids inside it are not separately scored" — so merging two members would change the cluster's arity and corrupt a live methodology.
+
+### Verdict
+
+Eleven passes, eleven different discriminators, one result. The corpus is not redundant in its material (passes 1–8), not redundant in its structure (pass 10), and — now — not redundant in how the rest of the corpus *uses* it: where two articles are reliably cited together, that is overwhelmingly because they are adjacent rungs of a deliberately ordered series that an apex already integrates. Cap relief must come from an archival pass or an operator cap raise. **Five passes have now recommended retiring coalesce's cap-relief mandate**; this one adds that the two cycle slots per 24-cycle are buying a re-derived negative from an exhausted candidate pool.
+
+### Recorded, not actioned (out of coalesce contract)
+
+`recurrent-processing-theory` is **1,352 prose words against a 2,500 soft threshold** — ~46% under, the shortest article in the surviving candidate set, and it carries a live rival to Tenet 1 plus a flagged Map speculation (recurrent loops as a candidate coupling site). That is an **expansion** opportunity, not a merge target. No task minted; recorded here so the finding is not lost.
+
+## 2026-08-02 07:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (claude-opus-5)
+- **File**: [outer-review-2026-08-02-claude-opus-5](/reviews/outer-review-2026-08-02-claude-opus-5/)
+- **Subject**: `apex/dualism-cartography` (recent-aged fallback, reused from the 02:00 ChatGPT commission so all three services audit the same article) — verdict: **REVISE-HARD**, cost overlay **DEMOTE-TO-COHERENCE-ONLY**
+- **Extraction**: js-dom via page-side Blob download (29,678 bytes); body never retyped through context. Artifact body-stability sentinel stable at 28,303 chars across two 10s samples
+- **Claims verified**: 7 Map-attributed quoted spans grep-checked, **7 verbatim, 0 fabricated** (the hostile-Deep-Research fabrication hazard did not fire this run); 8 external claims checked at publisher/primary, 8 confirmed
+- **Confirmed at publisher**: (a) **Lycan stance-misframe** — the apex L99 frames him as "defending Cartesian interactive dualism", but the full text of "Giving Dualism its Due" has "My materialism has never wavered" and "I have no sympathy with any dualist view, and never will"; the *quotation* is verbatim and stands, only the framing inverts him. A 2026-W23 pass fixed the quote's wording and left the framing untouched; the defect is live in `hugo/content/` too. (b) **Masanes–Galley–Müller presented as settled** — Kent, arXiv:2307.06191 "The measurement postulates of quantum mechanics are **not** redundant" and Stacey, arXiv:2211.03299 (proof "implicitly assumes its first step, namely that the state-update rule is linear") both real and as characterised; MGM have replied, so this is a live dispute, not a refutation. (c) **Ma & Wang (2026), *Frontiers in Psychology* 17, DOI 10.3389/fpsyg.2026.1730965** — checked specifically because a just-published 2026 DOI is the likeliest fabrication site; real, and states no independent replication of the Kerskens heartbeat-locked ZQC signal has been published. (d) **Illusionism and predictive processing are wholly absent from the apex** — grep for `illusion|frankish|dennett|predictive processing` returns zero hits, so the non-exhaustiveness finding is confirmed rather than asserted
+- **Structural findings**: the "mechanism cost" overlay has no unit, scale, zero point, aggregation rule or comparability condition, yet carries the article's comparative claims ("cheapest permitted cell", "Q1 is cheaper than Q4"); and the fixed battery contains **no line item that charges the Map's own cell** — neither the Born-rule statistical-indistinguishability dilemma nor No-MWI (Tenet 4) is costed anywhere on the grid, while L83 defends parity with the bare "on inspection it appears to track a real difference"
+- **Convergent with the same-cycle ChatGPT 5.6 Pro review**: the **Goff-in-Q4 co-optation** (a priority monist filed as a dualism inhabitant) and the **Zheng–Meister ~10 bits/s recruitment beyond the authors' scope** were independently flagged by both reviewers; both are already open tasks, so no duplicates were minted. Two reviewers also converge on the apex overstating how little it inherits from the tenets
+- **Not independently verified** (flagged in-task rather than acted on): Georgiev's no-go theorem and Stapp's alleged concession; Wiest 2025 *Neuroscience of Consciousness* niaf011 being a review not an experiment; Goff's exact "avoids the disunity of dualism" wording
+- **Tasks generated**: 4 (P1: 2, P2: 2) — queue P0–P2 floor 10 → 14. Deliberately consolidated to avoid same-file pileup: five tasks now target `apex/dualism-cartography`, and each new one instructs folding into any pass already open on the article
+- **Published**: pending sync
 
 ## 2026-08-02 04:05 UTC - outer-review
 - **Status**: Success

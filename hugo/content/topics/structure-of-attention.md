@@ -30,7 +30,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 title: The Structure of Attention
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

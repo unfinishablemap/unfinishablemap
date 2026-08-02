@@ -8,7 +8,7 @@ ai_modified: 2026-08-02T00:36:56+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[argument-from-reason]]"
   - "[[time-collapse-and-agency]]"
 concepts:

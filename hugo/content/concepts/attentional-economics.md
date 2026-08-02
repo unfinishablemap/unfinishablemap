@@ -28,7 +28,7 @@ related_articles:
 - '[[tenets]]'
 title: Attentional Economics
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

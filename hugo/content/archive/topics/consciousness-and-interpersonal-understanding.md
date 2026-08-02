@@ -41,7 +41,7 @@ related_articles:
 superseded_by: /topics/consciousness-and-social-understanding/
 title: Consciousness and Interpersonal Understanding
 topics:
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[consciousness-and-social-cognition]]'
 - '[[consciousness-and-intersubjectivity]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[emotion-and-dualism]]'

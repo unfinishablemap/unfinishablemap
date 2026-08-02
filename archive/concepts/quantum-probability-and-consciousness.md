@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-01-24T17:30:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[measurement-problem]]"

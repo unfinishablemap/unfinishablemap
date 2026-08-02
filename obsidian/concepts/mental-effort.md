@@ -7,9 +7,9 @@ human_modified: null
 ai_modified: 2026-07-30T14:52:44+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/bandwidth-of-consciousness]]"
+  - "[[bandwidth-of-consciousness]]"
 concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-consciousness]]"

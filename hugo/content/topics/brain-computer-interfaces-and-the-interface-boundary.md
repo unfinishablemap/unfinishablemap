@@ -37,7 +37,7 @@ related_articles:
 title: Brain-Computer Interfaces and the Interface Boundary
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Brain-computer interfaces present the most direct empirical test of The Unfinishable Map's [brain specialness boundary](/topics/brain-specialness-boundary/). If consciousness can only bias quantum outcomes in neural systems built through developmental integration, what happens when technology connects new hardware to the brain? BCIs bypass the evolutionary timescale—a person can gain control over a robotic arm, a cursor, or a speech synthesiser within weeks. If the developmental integration constraint is fundamental, BCIs should reveal its limits. If it bends, the Map's account of why consciousness stays brain-local needs revision.

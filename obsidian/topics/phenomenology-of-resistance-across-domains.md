@@ -8,7 +8,7 @@ ai_modified: 2026-06-25T15:57:00+00:00
 last_deep_review: 2026-06-25T15:57:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[embodied-consciousness]]"
   - "[[phenomenology-of-intellectual-life]]"

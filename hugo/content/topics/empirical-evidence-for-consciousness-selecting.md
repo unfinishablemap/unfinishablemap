@@ -40,7 +40,7 @@ related_articles:
 title: Empirical Evidence for Consciousness-Selecting
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively appear to favour the hypothesis over its competitors. Each line constrains the alternatives. Together they may narrow the viable options until [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/) emerges as one coherent explanation that survives the constraints jointly—though, as discussed below, the evidence does not decisively adjudicate between it and certain rival readings.

@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-06-11T00:00:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[meaning-of-life]]"
 concepts:
   - "[[nihilism-and-existentialism]]"

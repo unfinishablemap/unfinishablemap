@@ -34,7 +34,7 @@ title: Type-Specificity
 topics:
 - '[[the-convergence-argument-for-dualism]]'
 - '[[the-binding-problem]]'
-- '[[apex/taxonomy-of-voids]]'
+- '[[taxonomy-of-voids]]'
 ---
 
 **Type-specificity** is the structural feature an explanandum has when its character is determinate type-by-type rather than schematic. A reductive account of a type-specific explanandum must deliver *that* character — the particular shape of *this* type — rather than substitute a generic mechanism. Where the explanandum is type-specific and the proposed reduction is not, the appeal to a generic mechanism does not discharge the explanatory demand; it changes the subject.

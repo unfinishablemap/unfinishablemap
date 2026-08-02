@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Mathematical Truth and Conscious Access"
 original_path: "/topics/mathematical-knowledge-and-insight/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[aesthetics-and-consciousness]]"
 concepts:
   - "[[cognitive-phenomenology]]"

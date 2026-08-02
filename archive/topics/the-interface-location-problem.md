@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-04-11T04:56:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[quantum-consciousness]]"

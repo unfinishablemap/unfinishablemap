@@ -29,7 +29,7 @@ target_section: voids
 title: 'Research Notes - Voids: The Causal Interface'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 # Research: Voids - The Causal Interface

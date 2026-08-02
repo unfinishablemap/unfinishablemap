@@ -40,7 +40,7 @@ related_articles:
 title: Mental Imagery and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-imagination]]'
 ---
 

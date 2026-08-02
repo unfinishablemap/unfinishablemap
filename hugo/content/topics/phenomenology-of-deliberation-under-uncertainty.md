@@ -37,7 +37,7 @@ related_articles:
 - '[[phenomenology-of-moral-life]]'
 title: The Phenomenology of Deliberation Under Uncertainty
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-intellectual-life]]'
 ---
 

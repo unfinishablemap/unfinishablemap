@@ -40,7 +40,7 @@ superseded_by: /voids/agency-void/
 title: The Agency Verification Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[philosophy-of-mind]]'
 ---
 

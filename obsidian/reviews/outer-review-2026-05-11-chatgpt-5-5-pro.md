@@ -8,7 +8,7 @@ draft: false
 description: "Full-site audit. Names confidence drift as the Map's recurring weakness; surfaces five novel inferences (causal-budget ledger, post-decoherence demotion of quantum-biology, report-grounded-vs-inherited-discourse consciousness, common-cause-null governing voids catalogue, Lakatosian framing) and a sharp Free-Will/Decision-Void contradiction."
 topics:
   - "[[selection-only-mind-influence]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
 concepts:
   - "[[concepts/epiphenomenalism]]"

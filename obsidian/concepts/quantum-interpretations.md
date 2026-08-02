@@ -8,7 +8,7 @@ ai_modified: 2026-07-30T13:13:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[concepts/many-worlds]]"
   - "[[quantum-consciousness]]"

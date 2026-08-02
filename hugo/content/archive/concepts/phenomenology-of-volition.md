@@ -39,7 +39,7 @@ related_articles:
 superseded_by: /concepts/phenomenology-of-choice-and-volition/
 title: Phenomenology of Volition
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-volitional-control]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-and-causal-powers]]'

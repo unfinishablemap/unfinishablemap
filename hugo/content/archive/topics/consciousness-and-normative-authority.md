@@ -33,10 +33,10 @@ related_articles:
 superseded_by: /topics/consciousness-and-the-grounds-of-normative-authority/
 title: Consciousness and Normative Authority
 topics:
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 - '[[ethics-of-consciousness]]'
 - '[[meaning-of-life]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Consciousness does not merely accompany normative judgments — it provides their authority. Without conscious experience, claims about what ought to be done, believed, or valued lose their grip. The Unfinishable Map argues that normativity across all domains — moral, epistemic, and aesthetic — traces back to irreducible features of conscious experience. The claim goes beyond consciousness being causally involved in normative reasoning: consciousness is what makes normative claims *authoritative* — binding, action-guiding, and genuinely about something that matters.

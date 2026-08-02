@@ -34,7 +34,7 @@ related_articles:
 title: Coupling Modes
 topics:
 - '[[mental-causation-and-downward-causation]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness influences physical outcomes, how does it do so? The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet demands the "smallest possible non-physical influence"—but "smallest" depends on what kind of influence we're considering. Three candidate coupling modes exist: **basis control** (selecting what question to ask), **timing control** (selecting when collapse occurs), and **probability control** (reweighting outcome likelihoods). These are not equally minimal, and distinguishing them clarifies what "consciousness selects" actually means.

@@ -62,7 +62,7 @@ related_articles:
 title: Forward-in-Time Conscious Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness selects among quantum possibilities in the brain, must it reach backward through time to do so? The Unfinishable Map has explored [retrocausal selection](/concepts/retrocausality/)—consciousness biasing past quantum events so their causal consequences produce desired outcomes—as one pathway for mind-matter interaction. A distinct family of models locates the intervention forward in time: consciousness acts on superposed or just-decohered neural states *as collapse occurs*. Three pre-decoherence frameworks (Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno mechanism, the Chalmers-McQueen consciousness-collapse model) develop the idea using different physics. A fourth route—post-decoherence selection—targets the residual indeterminacy that decoherence leaves intact, which may sidestep the strongest empirical objection against the others. They disagree on whether new physics is needed, on whether consciousness operates within or outside the quantum formalism, and on the role of coherence. What they share is temporal direction: selection happens now, not retroactively.

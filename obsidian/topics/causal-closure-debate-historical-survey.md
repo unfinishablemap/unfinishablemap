@@ -8,7 +8,7 @@ ai_modified: 2026-07-30T22:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[history-of-the-interaction-problem]]"
 concepts:
   - "[[causal-closure]]"

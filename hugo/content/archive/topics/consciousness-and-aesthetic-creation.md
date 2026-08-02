@@ -47,7 +47,7 @@ superseded_by: /topics/aesthetics-and-consciousness/
 title: Consciousness and Aesthetic Creation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Making art is not the same as appreciating it. The painter confronting a blank canvas, the composer hearing the first bars of something that does not yet exist, the poet searching for the word that will close a line—each faces a phenomenal situation that has no analogue in aesthetic reception. The [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) explores why beauty pervades experience and resists physical reduction. [The aesthetic dimension](/topics/aesthetics-and-consciousness/) also examines how encountering beauty strengthens the case for dualism. This article addresses the prior question: what happens in consciousness when beauty is being *made*?

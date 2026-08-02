@@ -53,7 +53,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 title: Phenomenology of Choice and Volition
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[volitional-control]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-and-causal-powers]]'

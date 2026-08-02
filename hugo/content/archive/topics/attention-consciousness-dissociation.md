@@ -39,7 +39,7 @@ superseded_by: /topics/attention-and-the-consciousness-interface/
 title: The Attention-Consciousness Dissociation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Attention and consciousness can come apart. [Blindsight](/concepts/blindsight/) patients orient toward stimuli they deny seeing—attention without awareness. (See [perception and conscious experience](/topics/dualist-perception/) for how blindsight and inattentional blindness fit into the broader pattern of perceptual dissociations.) Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. In standard cognitive neuroscience, double dissociations identify distinct physical processes—but the consciousness-attention case is uniquely significant because one side of the dissociation is the very phenomenon whose relationship to physical processes is in question. This article examines both the physicalist and dualist readings of the evidence, arguing that the [hard problem](/topics/hard-problem-of-consciousness/) makes this dissociation more theoretically consequential than other double dissociations in cognitive science.

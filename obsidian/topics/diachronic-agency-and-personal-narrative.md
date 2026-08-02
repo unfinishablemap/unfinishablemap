@@ -9,7 +9,7 @@ last_deep_review: 2026-07-28T14:06:19+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"

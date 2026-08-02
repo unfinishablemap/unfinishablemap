@@ -33,7 +33,7 @@ related_articles:
 - '[[quantum-measurement-and-subjective-probability]]'
 title: Libet Experiments and the Neuroscience of Volition
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

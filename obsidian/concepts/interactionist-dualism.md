@@ -8,7 +8,7 @@ ai_modified: 2026-07-31T15:59:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[evolution-of-consciousness]]"

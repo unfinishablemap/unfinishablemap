@@ -37,7 +37,7 @@ superseded_by: /concepts/brain-interface-boundary/
 title: 'Interface Locality: Why Selection Is Brain-Restricted'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—an obvious question arises: why only in brains? Why can't minds move objects, bias random number generators, or influence distant events?

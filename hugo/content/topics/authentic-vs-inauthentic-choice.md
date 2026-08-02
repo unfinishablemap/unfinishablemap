@@ -30,7 +30,7 @@ related_articles:
 - '[[phenomenology-of-moral-life]]'
 title: Phenomenology of Authentic vs. Inauthentic Choice
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[meaning-of-life]]'
 ---
 

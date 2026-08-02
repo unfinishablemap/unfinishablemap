@@ -44,7 +44,7 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Flow States
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Flow — the state of total absorption in a well-matched challenge — dissolves the sense of effort while preserving, and arguably intensifying, conscious engagement. The rock climber reads the wall without deliberation, the jazz musician improvises without planning each note, the mathematician follows a proof as though it unfolds by itself. The usual markers of conscious control — deliberate effort, reflective self-monitoring, explicit decision-making — vanish. Yet the agent is not passive. They respond adaptively, perform at peak capacity, and generate creative solutions in real time. The Unfinishable Map argues that flow reveals something important about the structure of consciousness: that effort phenomenology tracks the *difficulty* of conscious selection, not the *presence* of it. Consciousness in flow selects without friction — and this frictionless selection is among the most vivid experiences a person can have.

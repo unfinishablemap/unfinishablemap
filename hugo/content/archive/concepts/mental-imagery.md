@@ -40,7 +40,7 @@ superseded_by: /concepts/mental-imagery/
 title: Mental Imagery and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Mental imagery—perceptual representation without direct sensory input—is consistent with consciousness's causal efficacy, though it does not uniquely establish it. When you deliberately visualize your childhood home or mentally rehearse a difficult conversation, you engage neural mechanisms that can subsequently guide behaviour. Voluntary mental imagery requires conscious engagement and lateral prefrontal cortex activation (LPFC), distinguishing it from involuntary imagery like dreams or intrusive flashbacks. This voluntary/involuntary distinction maps onto the conscious/unconscious distinction, suggesting consciousness adds a control function beyond automatic processing. If [epiphenomenalism](/concepts/epiphenomenalism/) were true—if consciousness merely observed neural activity without influencing it—the phenomenology of effortful visualization would be deeply mysterious: we would feel ourselves *directing* imagery while actually directing nothing.

@@ -35,7 +35,7 @@ superseded_by: /concepts/conservation-laws-and-mental-causation/
 title: Conservation Laws and Mind-Brain Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Conservation of energy is the most frequently cited physics objection to [interactionist-dualism](/concepts/interactionist-dualism/). If non-physical consciousness moves matter, energy must appear from nowhere; if matter affects a non-physical mind, energy vanishes. Either way, conservation is violated. The Unfinishable Map holds that this objection fails on two independent grounds: conservation is *conditional* on symmetries that mental causation would break, and consciousness can influence outcomes without transferring energy at all.

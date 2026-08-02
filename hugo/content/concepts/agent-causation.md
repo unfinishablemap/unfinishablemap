@@ -56,7 +56,7 @@ related_articles:
 - '[[cross-cultural-convergence-on-mental-causation]]'
 title: Agent Causation
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

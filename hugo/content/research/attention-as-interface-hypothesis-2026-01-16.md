@@ -24,7 +24,7 @@ related_articles:
 title: 'Research: Attention as Interface Hypothesis - Mechanistic Research Agenda'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 ## Executive Summary

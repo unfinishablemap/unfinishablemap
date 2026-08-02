@@ -47,7 +47,7 @@ related_articles:
 title: Personal Identity
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the [infant you once were](/voids/infant-consciousness/) and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.

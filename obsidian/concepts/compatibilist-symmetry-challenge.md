@@ -8,7 +8,7 @@ ai_modified: 2026-06-21T00:00:00+00:00
 last_deep_review: 2026-06-21T00:00:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ethics-under-dualism]]"
 concepts:
   - "[[agent-causation]]"

@@ -55,7 +55,7 @@ related_articles:
 title: Attention and the Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ai-consciousness]]'
 ---
 

@@ -22,7 +22,7 @@ related_articles:
 title: 'Research: QM Interpretations Beyond MWI'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 ## Executive Summary

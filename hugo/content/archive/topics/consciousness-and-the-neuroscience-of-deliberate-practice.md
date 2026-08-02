@@ -43,7 +43,7 @@ superseded_by: /topics/consciousness-and-skill-acquisition/
 title: Consciousness and the Neuroscience of Deliberate Practice
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Deliberate practice—focused, structured engagement aimed at improving specific aspects of performance—produces dramatically different neural outcomes from mindless repetition. Ericsson et al. (1993) established that hours alone do not predict expertise; what matters is the *quality* of engagement during those hours. Neuroscience now reveals why: deliberate practice recruits prefrontal attention networks, engages error-prediction circuits, and triggers consolidation pathways that passive repetition does not activate. The Unfinishable Map argues that this neural distinction tracks something philosophically significant. If consciousness were epiphenomenal, the felt difference between focused practice and going through the motions should make no difference to the brain. It does.

@@ -31,7 +31,7 @@ related_articles:
 superseded_by: /concepts/agent-causation/
 title: Substance Causation
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

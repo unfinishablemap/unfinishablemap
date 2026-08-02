@@ -55,7 +55,7 @@ related_articles:
 title: The Interface Specification Programme
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The Unfinishable Map does not merely assert that consciousness influences the physical world. It is developing a specification of *how*. Six distinct lines of inquiry—the [psychophysical control law](/topics/the-psychophysical-control-law/), the [bandwidth architecture](/concepts/consciousness-bandwidth-architecture/), [control-theoretic will](/concepts/control-theoretic-will/), [causal delegation](/concepts/delegatory-causation/), the nature of [consciousness's causal powers](/topics/consciousness-and-causal-powers/), and what [attention disorders reveal](/topics/attention-and-the-consciousness-interface/)—converge on a single architecture: a low-bandwidth, feedback-dependent control channel through which consciousness selects among brain-prepared alternatives without injecting energy or violating conservation laws. Each line constrains the picture from a different direction—what the interface can do, how much it can carry, what operations it performs, what causal structure it has, what formal law might govern it, and what happens when it breaks. Together they constitute not scattered observations but a unified research programme—one whose constraints are precise enough to be tested and to be wrong, even while the coupling law itself remains unwritten, and honest enough to mark where specification remains incomplete.

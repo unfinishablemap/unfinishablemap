@@ -40,7 +40,7 @@ superseded_by: /topics/phenomenology-of-intellectual-life/
 title: The Phenomenology of Intellectual Effort
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Reasoning is work. Following a complex argument, holding premises in mind while tracing implications, grasping *why* a conclusion follows from its grounds—these activities have distinctive phenomenology: the experience of intellectual effort. This is not merely the attentional effort of staying focused (covered in [mental-effort](/concepts/mental-effort/)). It is the specific work of thinking itself—the strain of logic, the reach for coherence, the weight of keeping inferential threads connected.

@@ -43,7 +43,7 @@ related_articles:
 - '[[biological-teleology-and-the-interface-framework]]'
 title: Motor Selection and the Attention-Motor Interface
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

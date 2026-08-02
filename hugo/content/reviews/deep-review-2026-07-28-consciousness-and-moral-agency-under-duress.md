@@ -17,7 +17,7 @@ related_articles:
 - '[[topics/motor-control-quantum-zeno]]'
 title: Deep Review - Consciousness and Moral Agency Under Duress
 topics:
-- '[[topics/consciousness-and-moral-agency-under-duress]]'
+- '[[consciousness-and-moral-agency-under-duress]]'
 ---
 
 **Date**: 2026-07-28

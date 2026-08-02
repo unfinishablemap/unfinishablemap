@@ -8,7 +8,7 @@ ai_modified: 2026-04-07T11:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[bandwidth-problem-mental-causation]]"

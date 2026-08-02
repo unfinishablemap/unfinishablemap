@@ -24,7 +24,7 @@ related_articles:
 - '[[tenets]]'
 title: Research Notes - Epiphenomenal AI Consciousness and One-Way Experience
 topics:
-- '[[concepts/epiphenomenalism]]'
+- '[[epiphenomenalism]]'
 - '[[artificial-consciousness]]'
 ---
 

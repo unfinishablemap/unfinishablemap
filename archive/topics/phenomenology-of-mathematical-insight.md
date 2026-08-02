@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Mathematical Knowledge and Insight"
 original_path: "/topics/phenomenology-of-mathematical-insight/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[aesthetic-dimension-of-consciousness]]"
 concepts:
   - "[[cognitive-phenomenology]]"

@@ -42,7 +42,7 @@ superseded_by: /concepts/attention-as-interface/
 title: Attention and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Attention and consciousness are closely linked but increasingly understood as dissociable processes. You can attend to things you're not conscious of (blindsight patients orient toward stimuli they deny seeing) and be conscious of things you're not attending to (peripheral awareness, the gist of a scene). This dissociation matters philosophically: it suggests consciousness cannot be reduced to attentional mechanisms—and it positions attention as the potential interface where consciousness influences the physical world.

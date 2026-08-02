@@ -39,7 +39,7 @@ related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
 title: The Trilemma of Selection
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

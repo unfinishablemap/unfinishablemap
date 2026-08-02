@@ -7,7 +7,7 @@ ai_modified: 2026-08-01T23:11:27+00:00
 draft: false
 description: "The Libet inference is levelled, not overturned—the sense of agency tracks real neural circuitry, a defeater removed, not proof of non-physical volition."
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[consciousness-and-causal-powers]]"

@@ -14,7 +14,7 @@ archive_reason: "Coalesced into Aesthetics and Consciousness"
 original_path: "/topics/consciousness-and-aesthetic-creation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[consciousness-and-creativity]]"
   - "[[qualia]]"

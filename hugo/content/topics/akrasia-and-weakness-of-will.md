@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 title: Akrasia and Weakness of Will
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[valence-and-conscious-selection]]'
 ---
 

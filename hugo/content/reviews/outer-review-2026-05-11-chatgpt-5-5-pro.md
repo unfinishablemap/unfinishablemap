@@ -36,7 +36,7 @@ subject_type: site
 title: Outer Review - ChatGPT 5.5 Pro (2026-05-11)
 topics:
 - '[[selection-only-mind-influence]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[falsification-roadmap-for-the-interface-model]]'
 ---
 

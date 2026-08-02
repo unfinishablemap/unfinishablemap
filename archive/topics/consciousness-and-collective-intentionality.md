@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[consciousness-and-social-cognition]]"
   - "[[consciousness-and-collective-intelligence]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
 concepts:

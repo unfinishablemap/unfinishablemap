@@ -29,7 +29,7 @@ related_articles:
 - '[[research/phenomenology-of-resistance-across-domains-2026-04-06]]'
 title: The Phenomenology of Resistance Across Domains
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[embodied-consciousness]]'
 - '[[phenomenology-of-intellectual-life]]'

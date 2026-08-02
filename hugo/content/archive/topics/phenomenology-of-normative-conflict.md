@@ -41,7 +41,7 @@ superseded_by: /topics/phenomenology-of-normative-experience/
 title: The Phenomenology of Normative Conflict
 topics:
 - '[[phenomenology-of-normative-properties]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[ethics-of-consciousness]]'
 ---
 

@@ -11,7 +11,7 @@ topics:
   - "[[phenomenology-of-moral-experience]]"
   - "[[moral-implications-of-genuine-agency]]"
   - "[[ethics-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[moral-responsibility]]"
   - "[[phenomenology-of-choice]]"

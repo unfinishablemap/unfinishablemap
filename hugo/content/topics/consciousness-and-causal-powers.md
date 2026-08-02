@@ -52,7 +52,7 @@ related_articles:
 title: Consciousness and Causal Powers
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness has genuine causal powers—if it does more than merely accompany physical processes—then the nature and scope of those powers becomes central to philosophy of mind. The question is not simply whether consciousness causes anything (addressed in [mental causation](/concepts/mental-causation-and-downward-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)) but what *kind* of causation it exercises and what limits constrain it. The Unfinishable Map holds that consciousness exercises a specific and limited causal influence: biasing quantum indeterminacies in neural systems toward certain outcomes without violating conservation laws—narrower than unconstrained psychokinesis, bounded in ways this article specifies.

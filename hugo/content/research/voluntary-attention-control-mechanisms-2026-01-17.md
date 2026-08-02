@@ -20,7 +20,7 @@ related_articles:
 - '[[attention-as-interface-hypothesis-2026-01-16]]'
 title: Voluntary Attention Control Mechanisms
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

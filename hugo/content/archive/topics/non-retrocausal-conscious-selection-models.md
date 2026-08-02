@@ -41,7 +41,7 @@ superseded_by: /topics/forward-in-time-conscious-selection/
 title: Non-Retrocausal Conscious Selection Models
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 If consciousness selects among quantum possibilities in the brain, must it reach backward through time to do so? The Unfinishable Map has explored [retrocausal selection](/concepts/retrocausality/) — consciousness biasing past quantum events so their causal consequences produce desired outcomes — as one pathway for mind-matter interaction. But a distinct family of models exists: non-retrocausal conscious selection, where consciousness acts on superposed neural states *at the moment of collapse*, forward in time. Three major frameworks — Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno approach, and the Chalmers-McQueen consciousness-collapse model — develop this idea with different physics, different metaphysical commitments, and different roles for consciousness. They disagree on whether new physics is needed, whether consciousness operates within or outside the quantum formalism, and whether collapse requires a threshold. What they share is temporal direction: selection happens now, not retroactively.

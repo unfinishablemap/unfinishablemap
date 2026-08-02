@@ -41,7 +41,7 @@ topics:
 - '[[phenomenology-of-moral-experience]]'
 - '[[moral-implications-of-genuine-agency]]'
 - '[[ethics-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Moral deliberation has a phenomenal character that differs from both spontaneous moral perception and detached theoretical reasoning. When someone weighs whether to report a colleague's dishonesty—knowing the cost to a friendship, the obligation to those affected, the uncertainty about consequences—the experience is not a computation running behind a blank screen. It has texture: the pull of competing demands, the felt weight of different considerations, the sense of being the one who must decide. The Unfinishable Map's [treatment of moral perception](/topics/phenomenology-of-moral-life/) examines how moral properties appear in consciousness. This article examines what happens next—the deliberative process through which a conscious agent navigates those perceived moral demands toward a choice.

@@ -12,7 +12,7 @@ superseded_by: "/concepts/creative-consciousness/"
 archive_reason: "Coalesced into Creative Consciousness"
 original_path: "/concepts/consciousness-and-creativity/"
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[agent-causation]]"

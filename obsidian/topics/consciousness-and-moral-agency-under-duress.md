@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-07-29T09:31:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[authentic-vs-inauthentic-choice]]"

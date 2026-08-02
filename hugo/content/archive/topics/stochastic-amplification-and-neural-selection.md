@@ -39,7 +39,7 @@ superseded_by: /topics/amplification-mechanisms-consciousness-physics/
 title: Stochastic Amplification and Neural Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The brain is noisy, and this noise may be essential to how consciousness acts on matter. The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum-indeterminate outcomes with the smallest possible influence. A persistent difficulty for this proposal is scale: how does a bias at the quantum level—energies of order 10⁻²⁰ joules—produce macroscopic neural effects a trillion times larger? Stochastic amplification offers an answer. Neural systems operate near critical thresholds where thermal noise is not merely tolerated but functionally exploited. In such regimes, a weak bias need not overpower the system—it need only tilt probabilities at points where noise is already doing the heavy lifting.

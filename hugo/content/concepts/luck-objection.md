@@ -40,7 +40,7 @@ related_articles:
 - '[[volitional-control]]'
 title: The Luck Objection to Libertarian Free Will
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The luck objection is the most persistent challenge to libertarian [free will](/topics/free-will/). While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.

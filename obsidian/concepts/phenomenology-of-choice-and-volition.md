@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-07-30T15:10:22+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[volitional-control]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-causal-powers]]"

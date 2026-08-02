@@ -52,7 +52,7 @@ title: Living with the Map
 topics:
 - '[[meaning-of-life]]'
 - '[[ethics-under-dualism]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 You wake up tomorrow. What matters about that day? One picture treats the answer as *nothing, ultimately*—you're patterns of neural firing that will dissolve, in a universe indifferent to your existence. But this nihilist conclusion is not forced by physicalism. Physicalist moral realists, ethical naturalists, constructivists, contractualists, and reasons-first theorists all locate genuine value within a physical world; the live disagreement is not materialism-versus-meaning but which theory of value is correct. The Unfinishable Map offers its own answer—a value realism grounded in consciousness: what matters is the quality of your conscious experience, and that quality is something you genuinely influence through choices that are yours to make. The Map defends that grounding against these rival value theories rather than assuming their frameworks collapse into nihilism.

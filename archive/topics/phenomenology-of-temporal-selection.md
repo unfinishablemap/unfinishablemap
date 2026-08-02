@@ -12,7 +12,7 @@ superseded_by: "/topics/phenomenology-of-temporal-consciousness-and-agency/"
 archive_reason: "Coalesced into The Phenomenology of Temporal Consciousness and Agency"
 original_path: "/topics/phenomenology-of-temporal-selection/"
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"

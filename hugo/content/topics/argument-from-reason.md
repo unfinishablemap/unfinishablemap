@@ -53,7 +53,7 @@ related_articles:
 title: The Argument from Reason
 topics:
 - '[[dualism]]'
-- '[[concepts/materialism]]'
+- '[[materialism]]'
 ---
 
 If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including the belief in physicalism itself. The argument from reason claims that rational inference requires tracking normative relationships (what follows from what, what counts as good evidence), but physical causation operates via efficient causes that cannot instantiate these normative relationships. This self-defeat structure provides one of the strongest cases for [dualism](/concepts/dualism/): consciousness must involve irreducible normative properties that physical processes cannot capture.

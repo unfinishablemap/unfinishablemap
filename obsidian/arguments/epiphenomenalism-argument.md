@@ -7,7 +7,7 @@ ai_modified: 2026-06-22T07:32:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[mental-causation-and-downward-causation]]"

@@ -38,7 +38,7 @@ related_articles:
 title: Against Epiphenomenalism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet directly contradicts this view. This article presents the cumulative case against epiphenomenalism.

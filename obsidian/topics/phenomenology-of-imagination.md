@@ -8,7 +8,7 @@ ai_modified: 2026-06-27T00:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
   - "[[emotion-and-dualism]]"

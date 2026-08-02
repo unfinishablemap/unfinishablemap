@@ -6,7 +6,7 @@ human_modified:
 ai_modified: 2026-05-18T10:36:23+00:00
 draft: false
 topics:
-  - "[[apex/moral-architecture-of-consciousness]]"
+  - "[[moral-architecture-of-consciousness]]"
 concepts:
   - "[[evidential-status-discipline]]"
   - "[[reasons-responsiveness]]"

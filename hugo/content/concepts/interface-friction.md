@@ -37,7 +37,7 @@ related_articles:
 title: Interface Friction
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[phenomenology-of-resistance-across-domains]]'
 ---
 

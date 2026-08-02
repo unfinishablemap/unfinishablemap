@@ -37,7 +37,7 @@ title: 'Research Notes - Voids: The Persistence Void'
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[philosophy-of-mind]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 # Research: Voids - The Persistence Void

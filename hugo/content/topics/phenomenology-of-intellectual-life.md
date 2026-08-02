@@ -87,7 +87,7 @@ related_articles:
 title: The Phenomenology of Intellectual Life
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[ai-consciousness]]'
 - '[[meaning-of-life]]'

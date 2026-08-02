@@ -12,7 +12,7 @@ superseded_by: "/concepts/phenomenology-of-choice-and-volition/"
 archive_reason: "Coalesced into Phenomenology of Choice and Volition"
 original_path: "/concepts/phenomenology-of-choice/"
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[mental-effort]]"

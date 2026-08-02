@@ -35,7 +35,7 @@ related_articles:
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The incubation effect — improved problem-solving after stepping away from a difficult task — appears to demonstrate that unconscious processing outperforms conscious effort. A mathematician struggles for hours, goes for a walk, and the solution arrives unbidden. Henri Poincaré described exactly this — a case the Map discusses under [consciousness and mathematics](/topics/consciousness-and-mathematics/): after failing to solve Fuchsian functions at his desk, the answer came to him while boarding a bus, "without anything in my former thoughts seeming to have paved the way." The standard reading treats incubation as evidence that consciousness is dispensable for creative work. The Unfinishable Map argues the opposite: incubation reveals how deeply creative outcomes depend on prior conscious engagement. The walk works *because* of the hours at the desk, not despite them.

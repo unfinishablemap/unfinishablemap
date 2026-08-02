@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-07-13T08:22:04+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-consciousness]]"

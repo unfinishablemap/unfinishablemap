@@ -62,7 +62,7 @@ related_articles:
 title: Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. Within [philosophy of mind](/concepts/philosophy-of-mind/), this is a variant of [dualism](/concepts/dualism/) that distinguishes it from [epiphenomenalism](/concepts/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.

@@ -31,7 +31,7 @@ subject_type: recent
 title: Outer Review - Gemini 2.5 Pro (2026-07-24)
 topics:
 - '[[volitional-control]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 **Date**: 2026-07-24

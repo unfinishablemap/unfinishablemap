@@ -41,7 +41,7 @@ related_articles:
 superseded_by: /topics/phenomenology-of-temporal-consciousness-and-agency/
 title: The Phenomenology of Temporal Selection
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

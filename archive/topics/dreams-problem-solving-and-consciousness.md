@@ -14,7 +14,7 @@ archive_reason: "Coalesced into Dream Consciousness"
 original_path: "/topics/dreams-problem-solving-and-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[dreams-and-consciousness]]"
   - "[[consciousness-and-creativity]]"

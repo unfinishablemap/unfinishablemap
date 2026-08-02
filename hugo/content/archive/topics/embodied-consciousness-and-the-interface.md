@@ -45,7 +45,7 @@ superseded_by: /topics/embodied-consciousness/
 title: Embodied Consciousness and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Embodied cognition argues that the mind depends on the body—that cognition is shaped by bodily structure, situated in environmental context, and enacted through physical engagement. This is widely taken as a refutation of dualism: if mind and body are inseparable, there is nothing for a soul to be. The Unfinishable Map argues the opposite. Embodied cognition reveals the *interface* through which consciousness engages matter. The tighter the integration between mind and body, the more precisely we can characterize what the body contributes—and what it cannot explain.

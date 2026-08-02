@@ -9,7 +9,7 @@ target_section: voids
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"

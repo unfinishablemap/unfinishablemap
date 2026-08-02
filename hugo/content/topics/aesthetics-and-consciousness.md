@@ -79,7 +79,7 @@ related_articles:
 title: Aesthetics and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Beauty exists only for a subject. A sunset over an empty planet has wavelengths and atmospheric scattering but no beauty. Beauty arrives only when a conscious experiencer encounters these arrangements and something in the encounter carries evaluative charge. The Unfinishable Map argues that the aesthetic dimension of consciousness provides underappreciated evidence for [dualism](/tenets/#dualism)—not through a single argument but through five converging lines that reinforce each other: aesthetic experience bundles every problematic feature of consciousness into a single phenomenon; beauty appears across physically unrelated substrates; formal precision sharpens rather than closes the explanatory gap; aesthetic binding exceeds ordinary perceptual unity; and the act of making art reveals consciousness causally shaping the physical world.

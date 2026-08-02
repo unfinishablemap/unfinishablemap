@@ -56,7 +56,7 @@ related_articles:
 title: Embodied Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[philosophy-of-mind]]'
 ---
 

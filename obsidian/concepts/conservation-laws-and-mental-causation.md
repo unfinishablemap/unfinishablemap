@@ -8,7 +8,7 @@ ai_modified: 2026-07-29T03:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"

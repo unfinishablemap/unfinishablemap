@@ -42,7 +42,7 @@ superseded_by: /concepts/temporal-consciousness/
 title: The Specious Present
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The specious present is the experienced duration of the present moment—not the mathematical instant of physics but the lived interval within which succession and change appear unified. When you hear a melody, you don't experience isolated tones but phrases, progressions, resolutions. This temporal thickness of experience, ranging from roughly 100 milliseconds to 3 seconds depending on methodology, is fundamental to what consciousness is.

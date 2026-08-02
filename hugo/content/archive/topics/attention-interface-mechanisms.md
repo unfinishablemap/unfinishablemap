@@ -48,7 +48,7 @@ superseded_by: /topics/attention-as-selection-interface/
 title: Mechanisms of the Attention-Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes that attention mediates consciousness's influence on brain states. But *where* in the brain does this interface operate, and *how* might consciousness bias neural outcomes? A key insight: attention and motor planning share neural substrates—the premotor theory of attention suggests these are not separate systems. If consciousness operates through attention, and attention is motor planning, then consciousness engages through a unified selection mechanism connecting perception to action.

@@ -6,7 +6,7 @@ human_modified: null
 ai_modified: 2026-06-02T05:51:34+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[concepts/consciousness-selecting-neural-patterns]]"

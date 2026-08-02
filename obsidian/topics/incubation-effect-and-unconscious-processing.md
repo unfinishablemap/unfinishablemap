@@ -8,7 +8,7 @@ ai_modified: 2026-06-13T00:31:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[conscious-vs-unconscious-processing]]"
   - "[[creative-consciousness]]"

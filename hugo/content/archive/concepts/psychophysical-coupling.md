@@ -49,7 +49,7 @@ superseded_by: /concepts/psychophysical-laws/
 title: Psychophysical Coupling
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
 ---

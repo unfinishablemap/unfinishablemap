@@ -8,7 +8,7 @@ ai_modified: 2026-08-01T16:40:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[mental-causation-and-downward-causation]]"

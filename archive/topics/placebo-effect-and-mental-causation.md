@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Empirical Phenomena of Mental Causation: Placebo
 original_path: "/topics/placebo-effect-and-mental-causation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[concepts/epiphenomenalism]]"

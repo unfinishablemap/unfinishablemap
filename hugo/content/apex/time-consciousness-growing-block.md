@@ -45,7 +45,7 @@ related_articles:
 title: Time, Consciousness, and the Growing Block
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Consciousness and time are entangled in ways that traditional philosophy has underexplored. One direction is familiar: ordinary consciousness requires temporal structure. Experience flows; moments connect; the present has duration. Without the specious present—the roughly 300 to 750 milliseconds within which we hear melodies as melodies and understand sentences as wholes—ordinary experience would not hang together. The Map explores a second, more contained direction: consciousness participates *locally* in the quantum collapse events that give lived time its felt passage, so that within neural systems it helps constitute the character of *experienced* time—durée, the flowing present, the felt fixity of the past.

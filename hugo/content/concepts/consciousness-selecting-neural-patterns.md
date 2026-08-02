@@ -45,7 +45,7 @@ related_articles:
 title: Consciousness-Selecting Neural Patterns
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Consciousness-selecting neural patterns is the proposed mechanism by which consciousness influences physical brain activity. Rather than passively observing neural events or being epiphenomenal, consciousness selects which quantum possibilities become actual neural firing patterns. This implements The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets concretely.

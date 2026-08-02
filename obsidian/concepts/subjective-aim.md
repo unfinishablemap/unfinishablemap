@@ -8,7 +8,7 @@ ai_modified: 2026-07-17T16:35:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[process-philosophy]]"
   - "[[prehension]]"

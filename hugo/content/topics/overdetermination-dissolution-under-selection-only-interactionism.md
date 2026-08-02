@@ -38,7 +38,7 @@ related_articles:
 title: Overdetermination Dissolution Under Selection-Only Interactionism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Kim's exclusion argument turns on overdetermination: if physical causes are already sufficient for every physical effect, any additional mental cause either duplicates that work (a systematic and intolerable coincidence) or does nothing at all. Selection-only interactionism — the Map's strictest reading of [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction) — dissolves rather than answers this objection. The dissolution turns on a single structural fact: physics at a quantum indeterminacy is not silent on *what could happen* but is silent on *which possibility becomes actual*. The physical contribution specifies the candidate set and its Born-rule probabilities; the mind-side contribution is the realisation of one candidate among the rest. Two operations, two domains, one outcome. There is no second sufficient cause to compete with the first, because the first is not sufficient. Overdetermination requires causal redundancy, and selection-only architecture has none to give.

@@ -14,7 +14,7 @@ archive_reason: "Coalesced into Consciousness and Temporal Becoming"
 original_path: "/topics/consciousness-and-temporal-asymmetry/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[philosophy-of-time]]"

@@ -58,7 +58,7 @@ related_articles:
 title: 'The Interface Problem: Location and Specification'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[attention-and-the-consciousness-interface]]'
 ---
 

@@ -34,7 +34,7 @@ related_articles:
 - '[[von-neumann-wigner-interpretation]]'
 title: Consciousness and Motor Selection
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

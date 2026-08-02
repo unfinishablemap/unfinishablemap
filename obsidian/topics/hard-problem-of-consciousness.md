@@ -4,9 +4,12 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-07-30T20:38:15+00:00
+ai_modified: 2026-08-02T07:18:56+00:00
 draft: false
-topics: []
+topics:
+  - "[[metaproblem-of-consciousness-under-dualism]]"
+  - "[[emergence-as-universal-hard-problem]]"
+  - "[[the-hard-problem-in-non-western-philosophy]]"
 concepts:
   - "[[minimal-consciousness]]"
   - "[[dualism]]"

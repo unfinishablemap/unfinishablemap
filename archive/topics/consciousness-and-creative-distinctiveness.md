@@ -14,7 +14,7 @@ original_path: "/topics/consciousness-and-creative-distinctiveness/"
 last_deep_review: 2026-03-22T09:41:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[ai-consciousness]]"
   - "[[animal-consciousness]]"
 concepts:

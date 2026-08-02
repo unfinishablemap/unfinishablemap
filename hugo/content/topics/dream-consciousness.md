@@ -72,7 +72,7 @@ related_articles:
 title: Dream Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Every night, consciousness does something production models of the brain struggle to explain: it generates fully immersive experiential worlds while sensory input is suppressed and large-scale neural activity reorganises into patterns fundamentally different from waking. The Unfinishable Map's [filter model](/concepts/filter-theory/)—the view that the brain constrains consciousness rather than producing it—offers a distinctive interpretation. Dreams are what happens when the filter loosens its grip: consciousness operating with the brain's representational tools but freed from the narrow channel of sensory constraint.

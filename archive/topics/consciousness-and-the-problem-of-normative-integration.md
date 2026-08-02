@@ -7,9 +7,9 @@ human_modified:
 ai_modified: 2026-02-20T09:21:00+00:00
 draft: false
 topics:
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[phenomenal-value-realism]]"
   - "[[ethics-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[moral-phenomenology]]"

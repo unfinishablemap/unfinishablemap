@@ -6,7 +6,7 @@ human_modified:
 ai_modified: 2026-07-28T14:56:01+00:00
 draft: false
 topics:
-  - "[[topics/consciousness-and-moral-agency-under-duress]]"
+  - "[[consciousness-and-moral-agency-under-duress]]"
 concepts: []
 related_articles:
   - "[[positions/agency-and-will]]"

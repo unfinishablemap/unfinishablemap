@@ -22,7 +22,7 @@ related_articles:
 - '[[deep-review-2026-05-17-moral-architecture-of-consciousness]]'
 title: Optimistic Review - 2026-05-17b
 topics:
-- '[[apex/moral-architecture-of-consciousness]]'
+- '[[moral-architecture-of-consciousness]]'
 ---
 
 # Optimistic Review

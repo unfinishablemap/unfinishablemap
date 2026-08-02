@@ -44,7 +44,7 @@ related_articles:
 title: Process and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 What if reality is not made of things but of happenings? This question, which animates process philosophy, transforms how we understand consciousness and its place in nature. Alfred North Whitehead and Henri Bergson developed sophisticated frameworks in which experience is not an anomaly—a spark of subjectivity in an inert cosmos—but paradigmatic of what reality fundamentally is: temporal, creative, experiential.

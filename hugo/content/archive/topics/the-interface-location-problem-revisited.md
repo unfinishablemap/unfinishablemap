@@ -40,7 +40,7 @@ superseded_by: /topics/the-interface-location-problem/
 title: The Interface Location Problem Revisited
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[attention-as-selection-interface]]'
 ---
 

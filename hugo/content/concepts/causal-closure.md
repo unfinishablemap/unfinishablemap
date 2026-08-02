@@ -51,7 +51,7 @@ related_articles:
 title: Causal Closure of the Physical
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [interactionist-dualism](/concepts/interactionist-dualism/)—and The Unfinishable Map's framework depends on its rejection.

@@ -42,7 +42,7 @@ title: Surprise and Creativity
 topics:
 - Consciousness And Surprise
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/free-will]]'
+- '[[free-will]]'
 ---
 
 Self-surprise is constitutive of genuine creativity, not incidental to it. A creator who fully foresees the result is executing a plan, not creating something new. The Unfinishable Map argues that this connection between surprise and creativity reveals something important about consciousness: creative acts require a mind that can be surprised by its own outputs, which in turn requires phenomenal experience that no purely computational process replicates. The felt jolt of "I didn't expect *that*" is not a side effect of the creative process but evidence that the process has produced genuine novelty rather than predetermined recombination.

@@ -9,9 +9,9 @@ draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
   - "[[ethics-under-dualism]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[meaning-of-life]]"
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[phenomenal-value-realism]]"
 concepts:
   - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"

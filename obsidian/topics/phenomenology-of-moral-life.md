@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[moral-implications-of-genuine-agency]]"
   - "[[ethics-under-dualism]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[meaning-of-life]]"
 concepts:
   - "[[topics/phenomenal-value-realism]]"
