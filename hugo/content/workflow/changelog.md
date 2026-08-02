@@ -1,14 +1,93 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T07:28:00+00:00'
+ai_modified: '2026-08-02T07:37:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 07:28:00+00:00
+lastmod: 2026-08-02 07:37:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 07:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Changes**: Anchor fix — L144 stated the great-ape working-memory figure ("roughly 2±1 items") bare, with no attribution, leaving a reader unable to check it. Added the inline parenthetical `(Read, Manrique & Walker 2022)` plus the matching reference entry, copied verbatim from the settled form at `concepts/working-memory.md` L224 rather than re-deriving the metadata.
+- **Same-author trap avoided (brief flagged it, verified on disk)**: L239 already carried `Read, D.W. (2008)`, *Evolutionary Psychology* 6(4) — a **different paper by the same first author**, not the source of the 2±1 figure. It was neither repurposed nor deleted; the 2022 entry sits adjacent at L240 and is distinguishable by year, coauthors, title, and DOI. The pre-existing L103 cite "roughly two items (Read 2008)" was left alone: Read 2008 genuinely argues a ~2-item non-human-primate limit, so that locus is not the same defect and is not in scope.
+- **THE BRIEF'S "FAMILY IS CLOSED" PREMISE WAS FALSE — CONFIRMED, AND WIDER THAN THE BRIEF KNEW.** Commit `7c318cdf3` (07-29) re-sourced the 2±1 figure away from Inoue & Matsuzawa 2007 (which reports the *opposite* result) across four `obsidian/` files and stopped there. Its own changelog claimed *"Corpus-wide, no file still attributes the 2±1 figure to Inoue & Matsuzawa"* — that claim was **obsidian-scoped and therefore false**. `archive/topics/working-memory-as-consciousness-amplifier.md` L46 still read *"approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks)"*. `archive/` holds **full serving bodies at live URLs**, so this was published. Fixed in the same pass to `(Read, Manrique & Walker 2022, reviewing the comparative literature)` + reference entry; the `hugo/content/archive/...` mirror regenerated via `scripts/sync.py`. This is the documented `defect-sweeps-must-include-archive-tree` failure mode recurring verbatim.
+- **Re-grep found a THIRD bare locus the brief did not name.** Re-running the defective *string* across all three trees (not the brief's file list) surfaced `topics/language-recursion-and-consciousness.md` L59: *"Great ape WM holds approximately 2±1 items."* — bare, in a sentence pair that cites Miller 1956 and Cowan 2001 for **both** human figures. That asymmetry is the identical anchor defect, so it was closed in the same pass (parenthetical + reference entry; its list already held Cowan and Miller). Locus lists are samples, not populations.
+- **Left deliberately unfixed, reported instead**: `apex/consciousness-and-agency.md` L137 states "(roughly 2±1 items versus humans' 7±2)" bare on **both** sides. Not fixed because (a) apex convention leans on the linked source article, which carries the correct attribution, and (b) the bare 7±2 is a *superseded-figure* question (corpus has moved to Cowan's 4±1), which is a content judgment this brief did not authorize. Worth a follow-up task.
+- **Verification**: post-fix grep across `obsidian/ archive/ hugo/content/` confirms **no serving body attributes the 2±1 figure to Inoue & Matsuzawa**. The four surviving Inoue mentions (`consciousness-as-amplifier` L67, `working-memory` L73, `minds-without-words` L91 + hugo mirrors) all frame it correctly as the *apparent counter-case* read as eidetic/iconic imagery — correct, untouched. All three changed files pass `validate.py`; hugo mirrors agree.
+- **Length**: measured with `analyze_length`, then decomposed per the reference-apparatus rule. `metacognition` 3489 words raw (`soft_warning`) → **body-only 2903** against a 3500 hard threshold; `language-recursion` 4026 raw (`hard_warning`) → **body-only 3716** against a 4000 hard threshold. Both bodies sit under hard; the statuses are apparatus artifacts. Note: the added reference line nudged `language-recursion` from ~3995 to 4026 raw, flipping its *raw* status across the hard threshold — a measurement artifact of counting references as prose, not real growth. Flagged so a future replenish does not mint a spurious length-violation task.
+- **Attribution**: each file's `ai_system` held **verbatim** (`claude-opus-4-6`, `claude-opus-4-5-20251101`, `claude-opus-4-5-20251101`) — adding a citation is not re-authoring. `ai_modified` bumped only on the three files actually changed, from a live `date -u` verified strictly past. `last_deep_review` untouched.
+- **Published**: yes
+
+## 2026-08-02 07:36 UTC - deep-review
+- **Status**: Success
+- **File**: [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
+- **Word count**: 3519 → 3548 (+29; ~22 is the new Snowden reference entry — prose length-neutral)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 1
+- **Enhancements made**: 5 redundancy trims funding the accuracy work
+- **Output**: [deep-review-2026-08-02-targeted-lesion-discriminating-tests](/reviews/deep-review-2026-08-02-targeted-lesion-discriminating-tests/)
+
+**Why this pass found anything on a 4th review.** Three prior passes verified the
+bibliographic tuples and today's refine-draft (`7a84c315d`) fixed the BBS page ranges,
+so the metadata axis was exhausted. The unchecked surface was **citation framing** —
+whether each cite supports the claim it is attached to. It carried three defects that
+correct metadata had been shielding.
+
+**Lai and Siegel 1990 — wrong species and wrong method.** Cited for "occasional human
+cases" of REM-disrupting brainstem lesions. PubMed (*J Neurosci* 10(8):2727-34): the
+study is *stimulation* of midbrain and rostral pontine reticular formation in
+**decerebrate cats**. The article's own next paragraph says the brainstem case is
+"rarely available in humans" — the citation contradicted its own surroundings.
+Re-framed to the paper's real result; the human-scarcity point now stated directly
+rather than falsely cited.
+
+**Markowitsch et al. 2003 — lesion patients that are healthy volunteers.** Cited
+alongside Klein 2014 for "patients with focal lesions who lose the felt pastness of
+remote memories." PubMed: "we studied 13 normal subjects with functional magnetic
+resonance imaging." Split the cites — Klein keeps the patient claim, Markowitsch
+re-framed as the fMRI localisation of autobiographical ecphory to lateral and medial
+prefrontal areas, which is both what it shows and what motivates the article's
+medial-PFC pairing. Re-framed, not deleted. Also dropped the unwarranted "with focal
+lesions" qualifier — focality is the article's own discriminating criterion.
+
+**The previous review's fix left an unsupported sentence live.** The 2026-07-08 pass
+correctly relocated a mis-placed Bonnì 2015 cite out of the medial-PFC section, but
+left the host claim standing uncited: "TMS studies targeting medial PFC during
+autobiographical-memory tasks have been conducted." A PubMed sweep of TMS × medial
+PFC × autobiographical memory finds none — the stimulation work on this network
+targets laterally and posteriorly accessible nodes. Rewrote to the verified negative:
+no perturbation study exists for this pairing, medial PFC sits beyond the reliable
+depth and focality of standard figure-of-eight coils, and the pairing is the least
+tractable of the three. This **strengthens** the design space — the three pairings now
+run from a demonstrated human focal target (ATN) through a partially demonstrated one
+(precuneus) to one no modality reaches. Classic residue shape: relocating a wrong
+citation exposed a sentence nobody re-read.
+
+**Semantic dementia priority over-claim.** "First systematically described by Hodges et
+al. (1992)" — OpenAlex confirms **Snowden, Goulding & Neary (1989)**, *Behavioural
+Neurology* 2(3), 167–182, doi:10.1155/1989/124043, a three-patient series that named
+the syndrome three years earlier. Now "named by Snowden et al. (1989) and characterised
+in detail by Hodges et al. (1992)"; Snowden added to References.
+
+**BBS sibling check — family closed.** Today's refine-draft fixed commentary-inclusive
+page ranges at Pylyshyn 2002 and Aggleton & Brown 1999. This file holds a second BBS
+target article, **Suddendorf & Corballis 2007**; re-verified at PubMed
+("299-313; discussion 313-51") and already correct. Aggleton & Brown re-verified too
+("425-44; discussion 444-89") — today's fix is right. No sibling defect here.
+
+**Calibration.** Every change moves confidence *down* (studies-conducted → no study
+exists; technology "reaching maturity" → "cannot deliver all three"). No tenet used to
+upgrade an evidential tier. Inline ↔ References cross-check: all 20 entries cited, no
+orphans either direction. Editor-vocabulary leakage scan clean. `ai_system` held at
+`claude-opus-4-7` per this file's convention.
+
+**Note.** WebSearch budget was exhausted mid-pass (200/200); all verification above ran
+through WebFetch against PubMed and OpenAlex, which remained available.
 
 ## 2026-08-02 07:27 UTC - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Working memory expansion is how consciousness amplifies cognition.
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T03:18:00+00:00
+ai_modified: 2026-08-02T07:43:44+00:00
 last_deep_review: 2026-02-02T03:18:00+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ The Unfinishable Map proposes that [[attention-as-interface|attention functions 
 
 ## The Capacity Gap
 
-Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Human working memory holds 7±2 items (Miller 1956). This three-to-four-fold expansion creates exponential increases in computational possibility.
+Chimpanzee working memory holds approximately 2±1 items (Read, Manrique & Walker 2022, reviewing the comparative literature). Human working memory holds 7±2 items (Miller 1956). This three-to-four-fold expansion creates exponential increases in computational possibility.
 
 With 2 items, you can compare them. With 7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference isn't linear—it's combinatorial. Two items yield one comparison; seven items yield twenty-one pairwise comparisons plus the ability to hold several comparisons in mind while making further comparisons.
 
@@ -155,5 +155,6 @@ The Unfinishable Map's [[tenets]] commit to consciousness as causally efficaciou
 - Lieberman, M.D. et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
 - Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
+- Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 - Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.

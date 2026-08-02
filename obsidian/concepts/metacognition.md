@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-27T19:46:15+00:00
+ai_modified: 2026-08-02T07:43:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ The comparative record shows no clear intermediate cases among well-studied spec
 
 Neurological evidence points the same way. The aPFC, particularly Brodmann area 10, is disproportionately enlarged in humans, and its grey-matter structure correlates with metacognitive accuracy independent of first-order performance (Fleming et al. 2010)—a dissociation that the causal frontopolar-stimulation result above (Kapetaniou et al. 2025) confirms at the level of intervention. The substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
 
-The [[baseline-cognition|baseline cognition hypothesis]] adds structural evidence. If consciousness were removed from human cognition, the remaining capacities would resemble great ape cognition: working memory of roughly 2±1 items, procedural but not declarative metacognition, product- but not process-oriented social learning. The selective pattern of the human-ape gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches what a [[consciousness-and-cognitive-distinctiveness|consciousness-driven threshold]] predicts rather than a uniform scaling effect.
+The [[baseline-cognition|baseline cognition hypothesis]] adds structural evidence. If consciousness were removed from human cognition, the remaining capacities would resemble great ape cognition: working memory of roughly 2±1 items (Read, Manrique & Walker 2022), procedural but not declarative metacognition, product- but not process-oriented social learning. The selective pattern of the human-ape gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches what a [[consciousness-and-cognitive-distinctiveness|consciousness-driven threshold]] predicts rather than a uniform scaling effect.
 
 ### Why the Threshold Falls in the Wrong Place for HOT
 
@@ -237,6 +237,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Ko, Y., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1401-1411.
 1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004
 1. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. HarperCollins.

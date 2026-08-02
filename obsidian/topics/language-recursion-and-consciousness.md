@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-02T07:43:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ Stated carefully: if recursion requires WM manipulation, and manipulation requir
 
 ### The Capacity Constraint
 
-Human WM capacity is often cited as 7±2 items (Miller 1956), though modern estimates converge on approximately 4±1 items when chunking is controlled (Cowan 2001). Great ape WM holds approximately 2±1 items. Whether one takes the higher or lower human estimate, the several-fold expansion over ape capacity is what makes deep recursion tractable.
+Human WM capacity is often cited as 7±2 items (Miller 1956), though modern estimates converge on approximately 4±1 items when chunking is controlled (Cowan 2001). Great ape WM holds approximately 2±1 items (Read, Manrique & Walker 2022). Whether one takes the higher or lower human estimate, the several-fold expansion over ape capacity is what makes deep recursion tractable.
 
 Each level of embedding consumes WM slots: depth-1 ("The man ran") needs none; depth-2 ("The man who saw the woman ran") requires holding "the man" while processing the relative clause; each further level adds a held constituent. With 2±1 capacity even depth-2 becomes precarious; with human-level capacity depth-3 or depth-4 becomes manageable, though performance degrades with deeper embedding (as psycholinguistic studies confirm).
 
@@ -213,6 +213,7 @@ Language, recursion, and consciousness connect to all five tenets:
 1. Hauser, M.D., Chomsky, N., & Fitch, W.T. (2002). The faculty of language: What is it, who has it, and how did it evolve? *Science*, 298(5598), 1569-1579.
 1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind*. Oxford University Press.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Searle, J.R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Vadillo, M.A., Soto, D., Shanks, D.R., et al. (2026). Replicating the unconscious working memory effect: a multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046.
