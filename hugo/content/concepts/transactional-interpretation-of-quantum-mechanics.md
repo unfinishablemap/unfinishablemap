@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-08-02 18:47:00+00:00
+ai_modified: 2026-08-02 20:05:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,8 +18,8 @@ description: Cramer's offer/confirmation handshake and Kastner's possibilist ref
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 07:17:32+00:00
-lastmod: 2026-08-02 18:47:00+00:00
+last_deep_review: 2026-08-02 20:05:00+00:00
+lastmod: 2026-08-02 20:05:00+00:00
 modified: *id001
 related_articles: []
 title: Transactional Interpretation of Quantum Mechanics
@@ -33,7 +33,7 @@ The transactional interpretation of quantum mechanics (TI) reads every quantum e
 
 ## The Offer–Confirmation Handshake
 
-In Cramer's account, a quantum interaction is not a one-directional emission followed by a later detection. It is a two-way exchange completed across the interval between emission and absorption.
+In Cramer's account, a quantum interaction is a two-way exchange completed across the interval between emission and absorption, rather than a one-directional emission followed by a later detection.
 
 - **Offer wave.** The emitter produces a *retarded* solution of the relevant wave equation—the ordinary forward-in-time wavefunction, propagating from source toward potential absorbers.
 - **Confirmation wave.** A responding absorber returns an *advanced* solution—a wave propagating backward in time, from absorber to emitter, with amplitude proportional to the offer wave it received.
@@ -102,7 +102,7 @@ The Map also locates TI precisely rather than blurring it into "retrocausality" 
 
 ## References
 
-1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647–688.
+1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647–687. https://doi.org/10.1103/RevModPhys.58.647
 2. Cramer, J. G. (2016). *The Quantum Handshake: Entanglement, Nonlocality and Transactions*. Springer.
 3. Wheeler, J. A., & Feynman, R. P. (1945). Interaction with the absorber as the mechanism of radiation. *Reviews of Modern Physics*, 17.
 4. Wheeler, J. A., & Feynman, R. P. (1949). Classical electrodynamics in terms of direct interparticle action. *Reviews of Modern Physics*, 21.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-16 15:14:11+00:00
+ai_modified: 2026-08-02 20:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 07:58:54+00:00
-lastmod: 2026-06-16 15:14:11+00:00
+lastmod: 2026-08-02 20:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ The Map's settled position is that this article should *not* produce a settled p
 
 ## References
 
-1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647-688. https://doi.org/10.1103/RevModPhys.58.647
+1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647-687. https://doi.org/10.1103/RevModPhys.58.647
 2. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 3. Vedovato, F., Agnesi, C., Schiavon, M., et al. (2017). Extending Wheeler's delayed-choice experiment to space. *Science Advances*, 3(10), e1701180. https://doi.org/10.1126/sciadv.1701180
 4. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.

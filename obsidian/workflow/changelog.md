@@ -5,6 +5,28 @@ ai_modified: '2026-08-02T19:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 20:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/transactional-interpretation-of-quantum-mechanics]]
+- **Word count**: 1760 → 1759 (-1)
+- **Critical issues addressed**: 1 (corpus-wide, 7 files / 26 loci)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-08-02-transactional-interpretation-of-quantum-mechanics]]
+- **Prior pass was CONVERGED-CLEAN, so this run deliberately switched lenses.** The only delta since 2026-07-13 was a `topics: []` frontmatter fill (`afaef915c`) — prose untouched. The 07-13 pass had verified citation *metadata* and *framing*; this pass ran the untouched lenses: physics-paraphrase fidelity at the publisher, style-guide compliance, editor-label leakage, and corpus family-resolution.
+- **CRITICAL — Cramer 1986 end page wrong corpus-wide; the prior ledger ratified it.** Cited as *Rev. Mod. Phys.* 58(3), **647–688**; true range **647–687**. Confirmed at four publisher-of-record authorities: Crossref (APS-deposited), APS registered DOI metadata via CSL content negotiation, OpenAlex, and INSPIRE-HEP (`page_end` 687). The 07-13 ledger had recorded "real-correct (page-pin confirmed)" at 688.
+- **Provenance — the corpus corrected itself INTO the error.** The research note carried an explicit false verification claim that 688 was right and the brief's "647-687" hint was "off by one", evidenced by **Wikipedia, SciRP, SciEPub plus intra-corpus consistency** (three aggregators and a self-reference). A W23 deep-review then rewrote a correct `647-687` **to** `647-688` (logged in `changelog-2026-W23.md`). Kastner's own 2016 overview also prints 688 — that is how the typo reached the aggregators. Textbook `ai_citation_metadata_unreliable` / aggregator-ratification: only publisher-deposited metadata caught it.
+- **Swept 7 files / 26 loci** across obsidian + archive, then synced: the target (DOI also added), `apex/born-preserving-causal-efficacy`, `concepts/quantum-indeterminacy-free-will`, `topics/forward-in-time-vs-time-symmetric-selection`, `research/retrocausal-selection-consciousness-physics-2026-03-14`, `research/transactional-interpretation-of-quantum-mechanics-2026-07-12` (propagation source), `archive/concepts/retrocausal-selection`. Corpus had been split **26 wrong / 10 right** — the wrong value was the majority. Four already-correct files left untouched. Residual `647-688` across all three trees: zero (bar the intentional warning text).
+- **Anti-oscillation guard installed.** 688 is the majority reading in the secondary literature, so this is a re-flip risk. The research note now carries a ⚠️ marker naming 688 as a known attractor, listing the four authorities, and recording that aggregator agreement is not evidence here. Also cleared two stale self-flagged gaps in that note (Born-rule wording, WF page pins) so they stop propagating.
+- **MEDIUM — LLM-cliché fixed.** Lead of the handshake section used the prohibited negation-then-correction construct ("is not a one-directional emission… It is a two-way exchange"). Rewritten to lead with the positive claim, improving front-loading. Fixed in this article only, per the style guide's own "no need to sweep existing uses" instruction.
+- **Physics-paraphrase ledger — all real-correct** (lens the prior pass never ran): Born-rule ψψ\* gloss is Cramer's **own** abstract wording ("the Born probability law (P=ψψ\*)"); nonlocality + relativistic invariance near-verbatim to the abstract and correctly attributed as Cramer's argument; pseudotime gloss confirmed by Kastner arXiv:1608.00660 ("just a heuristic tool, and did not correspond to any real physical domain"); WF half-sum and hierarchy-patch both confirmed. WF page pins verified at APS (17(2-3):157-181; 21(3):425-433 — Kastner misprints the 1945 range as 157-161).
+- **Three asserted defects examined and REJECTED as false.** (1) `description` 192 chars vs schema "150-160" — measured the live corpus first: median 176, 34% are ≥190, so it is at norm; no edit. (2) "atemporal" vs "actualized transaction is a spacetime event" — not an internal contradiction; the weak sense (spanning the interval) is compatible with Cramer's 3+1 ontology and the pre-spacetime claim is correctly quarantined to the Kastner section. (3) Maudlin 1994 vs Kastner's "Maudlin (1996)" — 1994 first edition is correct; Kastner cites the book inconsistently across her own works.
+- **Engagement classification (editor-internal)**: engagement with Cramer/Kastner physicalism = Mode Three, framework-boundary marking, honestly executed — the Tenet 1 conflict is stated outright and the borrowing quarantined. Zero editor-label leakage in prose. No boundary-substitution.
+- **Link integrity**: all 11 wikilink/`topics:`/`concepts:` slugs resolve; the three new `topics:` entries are correctly bare per the topic-string canonical form. Superlative sweep returned zero hits.
+- **Attribution**: `ai_system` set to `claude-opus-5` (real content edits this pass). `ai_modified` + `last_deep_review` = 2026-08-02T20:05:00+00:00 (`date -u`-checked, in the past); the three swept articles got `ai_modified` only.
+- **Mirror**: synced; corrected page pin confirmed live in `hugo/content/` (15 loci at 647-687). Validator clean on all touched files.
+- **Published**: yes
+
 ## 2026-08-02 19:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/prospective-memory]]

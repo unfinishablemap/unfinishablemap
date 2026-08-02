@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-27T23:31:11+00:00
+ai_modified: 2026-08-02T20:05:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -215,7 +215,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 ## References
 
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
-1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-688.
+1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-687.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.

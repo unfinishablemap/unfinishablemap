@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-27 23:31:11+00:00
+ai_modified: 2026-08-02 20:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-07-27 23:31:11+00:00
+lastmod: 2026-08-02 20:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -218,7 +218,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 ## References
 
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
-1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-688.
+1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-687.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.

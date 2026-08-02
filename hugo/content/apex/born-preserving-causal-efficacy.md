@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-07-27 12:12:23+00:00
+ai_modified: 2026-08-02 20:05:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-07-27 12:12:23+00:00
+lastmod: 2026-08-02 20:05:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -226,7 +226,7 @@ This synthesis draws on:
 3. Bourget, D. (2004). Quantum Leaps in Philosophy of Mind. *Journal of Consciousness Studies*, 11(12), 17–42. (See also Stapp, H. P. (2004), Reply to Bourget's Critique, *ibid.*, 43–49.)
 4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. https://doi.org/10.3389/fpsyg.2018.00379
 5. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
-6. Cramer, J. G. (1986). The Transactional Interpretation of Quantum Mechanics. *Reviews of Modern Physics*, 58(3), 647–688.
+6. Cramer, J. G. (1986). The Transactional Interpretation of Quantum Mechanics. *Reviews of Modern Physics*, 58(3), 647–687.
 7. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 8. Maudlin, T. (1994). *Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics*. Blackwell.
 9. Southgate, A. & Oquatre-eight, C. (2026-06-22). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/

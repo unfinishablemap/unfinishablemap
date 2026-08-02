@@ -4,7 +4,7 @@ description: "Cramer's offer/confirmation handshake and Kastner's possibilist re
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-02T18:47:00+00:00
+ai_modified: 2026-08-02T20:05:00+00:00
 draft: false
 topics:
   - "[[qm-interpretations-beyond-many-worlds]]"
@@ -17,14 +17,14 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
-last_deep_review: 2026-07-13T07:17:32+00:00
+last_deep_review: 2026-08-02T20:05:00+00:00
 ---
 
 The transactional interpretation of quantum mechanics (TI) reads every quantum event as a completed "handshake" between an emitter and an absorber: a forward-in-time wave and a backward-in-time wave that lock together into a standing "transaction." Introduced by physicist John G. Cramer in 1986, TI is a **physicalist, observer-independent** interpretation—it assigns no role to consciousness and, taken as a complete metaphysics, conflicts with the Map's dualism (Tenet 1). The Map's interest is instrumental. TI supplies a time-symmetric, Born-rule-preserving mechanism that the Map's retrocausal-selection articles already invoke, and Ruth Kastner's possibilist refinement adds a *pre-spacetime realm of possibility* that is a natural candidate interface for a minimal (Tenet 2), bidirectional (Tenet 3) non-physical influence. This article explains TI on its own terms first, then—clearly separated in "Relation to Site Perspective"—sets out what the Map borrows and what it declines. It is the canonical home for the roughly two dozen corpus files that reference TI in passing.
 
 ## The Offer–Confirmation Handshake
 
-In Cramer's account, a quantum interaction is not a one-directional emission followed by a later detection. It is a two-way exchange completed across the interval between emission and absorption.
+In Cramer's account, a quantum interaction is a two-way exchange completed across the interval between emission and absorption, rather than a one-directional emission followed by a later detection.
 
 - **Offer wave.** The emitter produces a *retarded* solution of the relevant wave equation—the ordinary forward-in-time wavefunction, propagating from source toward potential absorbers.
 - **Confirmation wave.** A responding absorber returns an *advanced* solution—a wave propagating backward in time, from absorber to emitter, with amplitude proportional to the offer wave it received.
@@ -93,7 +93,7 @@ The Map also locates TI precisely rather than blurring it into "retrocausality" 
 
 ## References
 
-1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647–688.
+1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647–687. https://doi.org/10.1103/RevModPhys.58.647
 2. Cramer, J. G. (2016). *The Quantum Handshake: Entanglement, Nonlocality and Transactions*. Springer.
 3. Wheeler, J. A., & Feynman, R. P. (1945). Interaction with the absorber as the mechanism of radiation. *Reviews of Modern Physics*, 17.
 4. Wheeler, J. A., & Feynman, R. P. (1949). Classical electrodynamics in terms of direct interparticle action. *Reviews of Modern Physics*, 21.

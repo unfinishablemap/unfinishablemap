@@ -133,7 +133,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] applies straightfor
 
 ## References
 
-1. Cramer, J.G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647-688.
+1. Cramer, J.G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647-687.
 2. Kastner, R.E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 3. Aharonov, Y., Cohen, E., & Elitzur, A.C. (2015). Accommodating retrocausality with free will. *arXiv:1512.06689*.
 4. Adlam, E. (2022). Two roads to retrocausality. *Synthese*, 200, 422.

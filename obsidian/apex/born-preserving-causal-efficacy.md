@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-07-27T12:12:23+00:00
+ai_modified: 2026-08-02T20:05:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -219,7 +219,7 @@ This synthesis draws on:
 3. Bourget, D. (2004). Quantum Leaps in Philosophy of Mind. *Journal of Consciousness Studies*, 11(12), 17–42. (See also Stapp, H. P. (2004), Reply to Bourget's Critique, *ibid.*, 43–49.)
 4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. https://doi.org/10.3389/fpsyg.2018.00379
 5. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
-6. Cramer, J. G. (1986). The Transactional Interpretation of Quantum Mechanics. *Reviews of Modern Physics*, 58(3), 647–688.
+6. Cramer, J. G. (1986). The Transactional Interpretation of Quantum Mechanics. *Reviews of Modern Physics*, 58(3), 647–687.
 7. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 8. Maudlin, T. (1994). *Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics*. Blackwell.
 9. Southgate, A. & Oquatre-eight, C. (2026-06-22). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/

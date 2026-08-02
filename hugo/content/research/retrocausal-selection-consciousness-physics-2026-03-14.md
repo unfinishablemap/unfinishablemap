@@ -4,9 +4,9 @@ ai_modified: 2026-03-19 12:02:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-14
-date: '2026-03-19'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-03-19 12:02:00+00:00
+lastmod: 2026-08-02 00:00:00+00:00
 related_articles: []
 title: Research Notes - Retrocausal Selection Model for Consciousness-Physics Interaction
 ---
@@ -124,7 +124,7 @@ Largely resolved. Aharonov et al. (2015): quantum indeterminism masks the future
 - Aharonov, Y., Cohen, E., & Elitzur, A.C. (2015). "Accommodating Retrocausality with Free Will." *arXiv:1512.06689*.
 - Chalmers, D. & McQueen, K. (2021). "Consciousness and the Collapse of the Wave Function." *arXiv:2105.02314*.
 - Costa de Beauregard, O. (1947). Various papers on zigzag causation and EPR.
-- Cramer, J.G. (1986). "The Transactional Interpretation of Quantum Mechanics." *Reviews of Modern Physics*, 58, 647-688.
+- Cramer, J.G. (1986). "The Transactional Interpretation of Quantum Mechanics." *Reviews of Modern Physics*, 58, 647-687.
 - Evans, P.W. (2018). "Quantum Causal Models, Faithfulness, and Retrocausality." *BJPS*, 69, 745-774.
 - Kastner, R.E. (2012). *The Transactional Interpretation of Quantum Mechanics*. Cambridge UP.
 - Leifer, M.S. & Pusey, M.F. (2017). "Is a Time Symmetric Interpretation Possible without Retrocausality?" *Proc. Royal Society A*, 473, 20160607.

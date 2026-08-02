@@ -4,9 +4,9 @@ ai_generated_date: 2026-07-12
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-12
-date: '2026-07-12'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-07-12 00:00:00+00:00
+lastmod: 2026-08-02 00:00:00+00:00
 related_articles: []
 title: Research Notes - Transactional Interpretation of Quantum Mechanics
 ---
@@ -53,7 +53,7 @@ Grep of the live corpus confirms NO dedicated TI article or prior research note 
 however, referenced as load-bearing machinery across many concept articles, including
 collapse-and-time (already sketches the "consciousness selects which transaction completes" +
 PTI pre-spacetime reading and cites Cramer 1986 and Kastner 2012), philosophy-of-time,
-quantum-indeterminacy-free-will (cites Cramer 1986 RMP 58(3):647-688), many-worlds, and
+quantum-indeterminacy-free-will (cites Cramer 1986 RMP 58(3):647-687), many-worlds, and
 time-symmetric-physics. The cluster of sibling articles that would link to a TI concept includes:
 retrocausality, time-symmetric-physics, forward-in-time-conscious-selection,
 forward-in-time-vs-time-symmetric-selection, time-symmetric-selection-mechanism,
@@ -66,13 +66,16 @@ single citable home. Target section: concepts (cap headroom; siblings live there
 ## Key Sources
 
 ### Cramer, "The transactional interpretation of quantum mechanics" (1986)
-- **Citation (web-verified)**: J. G. Cramer, *Reviews of Modern Physics*, vol. 58, no. 3,
-  pp. 647-688, July 1986.
-- **Verification note**: Volume 58, issue 3, page range 647-688, year 1986 confirmed across
-  Wikipedia's transactional-interpretation entry, SciRP and SciEPub reference records, and matches
-  the figure already used in the corpus (quantum-indeterminacy-free-will cites 647-688). NOTE:
-  the task brief's hint of "647-687" is off by one; the verified end page is 688. (collapse-and-time
-  currently cites only the start page "647" — the downstream expand should use the full 647-688.)
+- **Citation (publisher-verified)**: J. G. Cramer, *Reviews of Modern Physics*, vol. 58, no. 3,
+  pp. 647-687, July 1986. DOI: 10.1103/RevModPhys.58.647
+- **Verification note (corrected 2026-08-02)**: the end page is **687**, not 688. Confirmed at four
+  independent publisher-of-record authorities: Crossref (APS-deposited metadata), APS's own registered
+  DOI metadata via content negotiation, OpenAlex, and INSPIRE-HEP (`page_start` 647, `page_end` 687).
+  ⚠️ **688 is a known attractor — do not "correct" this back.** The earlier 647-688 figure in this note
+  was verified only against *aggregators* (Wikipedia, SciRP, SciEPub) plus intra-corpus consistency,
+  which ratified rather than caught the error; Kastner's own reference lists also print 688, which is
+  how the typo entered the secondary literature. The original task brief's hint of "647-687" was
+  correct and was wrongly overridden here. Swept across the corpus on 2026-08-02 (7 files, 26 loci).
 - **Type**: Peer-reviewed journal paper (canonical source of record for TI).
 - **Key points**:
   - A quantum event is an "atemporal" transaction: the emitter sends a retarded offer wave; a
@@ -82,7 +85,9 @@ single citable home. Target section: concepts (cap headroom; siblings live there
   - Born rule: the confirmation wave arriving back at the emitter has amplitude proportional to the
     product of the offer wave and its complex conjugate, i.e. psi times psi-star = |psi|^2, so the
     strength of the "echo" the emitter receives from a given absorber reproduces the Born probability.
-    (Paraphrase; the "echo has strength P = psi psi-star" wording is UNVERIFIED.)
+    (VERIFIED 2026-08-02 at the publisher: Cramer's own RMP abstract states the interpretation
+    "leads in a natural way to justification of the Heisenberg uncertainty principle and the Born
+    probability law (P=psi psi*)" — the psi-psi-star formulation is Cramer's, not a secondary gloss.)
   - "Collapse" is reinterpreted as the completion of the transaction — no separate collapse postulate.
   - TI is explicitly nonlocal (consistent with Bell-inequality violation) yet claims to be
     relativistically invariant and fully causal because the "backward" wave is part of an atemporal
@@ -97,8 +102,10 @@ single citable home. Target section: concepts (cap headroom; siblings live there
 - **Citations (web-verified as to journal/year)**: J. A. Wheeler and R. P. Feynman, "Interaction
   with the Absorber as the Mechanism of Radiation," *Reviews of Modern Physics* 17 (1945);
   and "Classical Electrodynamics in Terms of Direct Interparticle Action," *Reviews of Modern
-  Physics* 21 (1949). (Volume/page specifics not re-verified this run — the downstream expand
-  should confirm 17:157 and 21:425 before citing page numbers.)
+  Physics* 21 (1949). (Page pins VERIFIED 2026-08-02 at APS via registered DOI metadata:
+  1945 = RMP **17(2-3):157-181**, DOI 10.1103/RevModPhys.17.157; 1949 = RMP **21(3):425-433**,
+  DOI 10.1103/RevModPhys.21.425. Note Kastner's 2016 overview reference list misprints the 1945
+  range as 157-161 — use the APS figures.)
 - **Type**: Peer-reviewed journal papers (the classical-electrodynamics ancestor of TI).
 - **Key points**:
   - Time-symmetric reformulation of classical electrodynamics: radiation is a direct interaction
@@ -227,7 +234,7 @@ single citable home. Target section: concepts (cap headroom; siblings live there
 |------|-------------------|--------------|
 | 1945 | Wheeler and Feynman, "Interaction with the Absorber..." (Rev. Mod. Phys. 17) | Time-symmetric absorber theory; classical ancestor of TI |
 | 1949 | Wheeler and Feynman, "Classical Electrodynamics in Terms of Direct Interparticle Action" (Rev. Mod. Phys. 21) | Completes the direct-action, advanced+retarded framework |
-| 1986 | Cramer, "The transactional interpretation of quantum mechanics" (Rev. Mod. Phys. 58(3):647-688) | Canonical statement of TI |
+| 1986 | Cramer, "The transactional interpretation of quantum mechanics" (Rev. Mod. Phys. 58(3):647-687) | Canonical statement of TI |
 | 1994 | Maudlin, *Quantum Non-Locality and Relativity* | Contingent-absorber objection to TI |
 | 2012 | Kastner, *The TI of QM: The Reality of Possibility* (Cambridge; 2013 in some listings) | Possibilist TI (PTI); pre-spacetime possibility realm |
 | ~2012 | Kastner, "The Possibilist TI and Relativity" (Found. Phys. 42; arXiv:1204.5227) | Relativistic extension; Maudlin-challenge reply |
@@ -276,7 +283,7 @@ to Site Perspective" tenet section).
 (Publication facts web-verified except where flagged; quotes intentionally omitted / UNVERIFIED.)
 
 - Cramer, J. G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern
-  Physics*, 58(3), 647-688. VERIFIED (vol/issue/pages/year).
+  Physics*, 58(3), 647-687. VERIFIED (vol/issue/pages/year).
 - Cramer, J. G. (2016). *The Quantum Handshake: Entanglement, Nonlocality and Transactions*. Springer.
   (Year/publisher noted; re-verify edition details.)
 - Wheeler, J. A., and Feynman, R. P. (1945). "Interaction with the Absorber as the Mechanism of
