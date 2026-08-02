@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 19:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Task-as-dispatched was half-stale; driver had re-measured and re-pointed.** The originating mint claimed the 2026-07-30 sweep "dropped Duan et al.'s *electronic* qualifier in four files". False: all four already carried "electronic", and `archive/` carried zero loci. The real residual was narrower and in a different file from the task's `File:` line — `positions/quantum-interface.md` is fully qualified and was correctly left untouched.
+- **Fix applied (one file, one sentence)**: `concepts/prospective-memory.md` §"Relation to Site Perspective" → Minimal Quantum Interaction. The passage cited Duan et al. (2017) for electronic coherence dephasing in ~60 fs "with no hint of a biofunctional role" but carried **neither** of the two qualifiers its three siblings carry, leaving a reader with a broader negative than the paper supports. Restored both, inheriting the siblings' settled wording rather than composing a variant: the long-lived oscillations once read as electronic "are now attributed to vibrational coherence", and "short-timescale vibrational/vibronic coupling is a live and different question". Added a single connective clause tying the caveat to the paragraph's own earlier "millisecond-to-day timescales" claim, so the caveat does not sit as a non-sequitur inside a tenet paragraph.
+- **Driver's table carried a false negative — caught and not acted on.** `concepts/entanglement-binding-hypothesis.md` was flagged as missing the live-question caveat. It is not missing: L78 reads "a live **but** different question" where the other three read "live **and** different". The flag came from grepping the exact settled string — the `narrow-grep-zero-is-not-proof-of-absence` failure mode, searching the words of the fix rather than the words the file would use. Re-grepped on the loosened pattern `live [a-z]* different question`, which hits all four files. That file is fully qualified; **verified no-op, deliberately not edited** — rewriting "but"→"and" would be pure uniformity churn against well-qualified prose, the edit the dispatch explicitly warned against.
+- **Not done, on instruction**: citation not re-verified (supplied pre-verified at Crossref + Europe PMC, PMID 28743751 / PMCID PMC5559008) and nothing deleted. Optional FMO / *Chlorobium tepidum* / ambient-temperature precision **declined** for this locus — the target paragraph is a dense tenet paragraph already at 3068 words in a 3500 hard ceiling, and the measurement detail would have bloated it without bearing on the qualifier gap being closed.
+- **Length**: `analyze_length` (not `wc -w`) — 3068 words, `soft_warning`, hard threshold 3500. Edit is ~+35 words and does not change status.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-5-20251101` — restoring inherited qualifiers is not authoring, and no new FMO/ambient prose was composed. `ai_modified` bumped to 2026-08-02T19:55:51+00:00 (`date -u`-checked, in the past); `last_deep_review` untouched.
+- **Mirror**: synced; changed strings confirmed live in `hugo/content/concepts/prospective-memory.md`.
+- **Published**: yes
+
 ## 2026-08-02 19:55 UTC - refine-draft
 - **Status**: Success
 - **File**: [hemispherectomy-and-the-resilience-of-unified-consciousness](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/)

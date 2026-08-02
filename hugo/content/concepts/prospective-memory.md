@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-30 12:20:02+00:00
+ai_modified: 2026-08-02 19:55:51+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 20:38:02+00:00
-lastmod: 2026-07-30 12:20:02+00:00
+lastmod: 2026-08-02 19:55:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -170,7 +170,7 @@ Prospective memory and future-oriented consciousness support all five foundation
 
 **[Dualism](/tenets/#dualism)**: The phenomenology of future simulation involves irreducible qualia—futuricity, the self projected forward, the possibility character of imagined events. Neural activity correlates with future thinking, but correlation doesn't explain why there is something it is like to imagine tomorrow. The [illusionist](/concepts/illusionism/) response faces the regress problem: the illusion of anticipating requires some experience in which to be illuded.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Intention formation may involve the same [attention-mediated quantum mechanisms](/concepts/attention-as-interface/) proposed for other conscious selection. If [mental effort](/concepts/mental-effort/) operates through quantum Zeno-type mechanisms, intention formation would involve consciousness biasing selection among candidate neural patterns representing possible futures. The [decoherence](/concepts/decoherence/) objection applies forcefully and is not resolved here: brains are warm and wet, and maintaining coherent superposition across the millisecond-to-day timescales required for EFT or distal intention is the central problem MQI must address. Cryptochrome radical-pair magnetoreception shows that evolution *can* exploit quantum effects in biological systems, but it does not generalise to the required case—it sustains spin coherence for microseconds in specifically evolved molecular machinery, still orders of magnitude short of the required timescales, and it is not persistent coherent superposition serving as a substrate for macroscopic selection. Photosynthetic energy transfer, once cited alongside it, no longer supports even that much in its long-lived-electronic-coherence form: Duan et al. (2017) found electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds with no hint of a biofunctional role. The analogy is suggestive; it is not a demonstration. The Map treats MQI as a programmatic commitment contingent on future mechanism-finding rather than as established physics.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Intention formation may involve the same [attention-mediated quantum mechanisms](/concepts/attention-as-interface/) proposed for other conscious selection. If [mental effort](/concepts/mental-effort/) operates through quantum Zeno-type mechanisms, intention formation would involve consciousness biasing selection among candidate neural patterns representing possible futures. The [decoherence](/concepts/decoherence/) objection applies forcefully and is not resolved here: brains are warm and wet, and maintaining coherent superposition across the millisecond-to-day timescales required for EFT or distal intention is the central problem MQI must address. Cryptochrome radical-pair magnetoreception shows that evolution *can* exploit quantum effects in biological systems, but it does not generalise to the required case—it sustains spin coherence for microseconds in specifically evolved molecular machinery, still orders of magnitude short of the required timescales, and it is not persistent coherent superposition serving as a substrate for macroscopic selection. Photosynthetic energy transfer, once cited alongside it, no longer supports even that much in its long-lived-electronic-coherence form: Duan et al. (2017) found electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds with no hint of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live and different question, though nothing at that timescale approaches the millisecond-to-day range at issue here. The analogy is suggestive; it is not a demonstration. The Map treats MQI as a programmatic commitment contingent on future mechanism-finding rather than as established physics.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Evidence that EFT reduces temporal discounting and improves goal-directed behaviour suggests conscious simulation causally shapes action—precisely the downward causation the Map proposes. Even if Libet-style challenges undermine proximal motor commands, distal intentions formed through conscious planning causally shape subsequent behaviour trajectories.
 
