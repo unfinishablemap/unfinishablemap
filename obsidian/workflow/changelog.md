@@ -5,6 +5,20 @@ ai_modified: '2026-08-02T03:32:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 04:05 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
+- **File**: [[reviews/outer-review-2026-08-02-chatgpt-5-6-pro]]
+- **Subject**: `apex/dualism-cartography` (recent-aged fallback) — verdict: major revision
+- **Extraction**: js-dom via page-side Blob + SHA-256 match (`acc63d98…`, 42,823 bytes / 370 lines); body never retyped through context
+- **Claims verified**: 11 Map-attributed quoted spans checked, 11 verbatim, 0 fabricated; 6 findings source-checked (5 confirmed, 1 disputed)
+- **Confirmed**: (a) the 2026-07-27 Saad/quantum separation never propagated — the apex still reads "structurally close to Saad's delegatory dualism read minimally", the architecture the site called "a foundational move the programme has not earned"; (b) `voids/interface-formalization-void` credits *Entropy* 21(12):1234 to "Chang & Tsuchiya" where OpenAlex gives **Northoff, Tsuchiya, Saigo**; (c) Chalmers calls type-F "type-F monism" verbatim; (d) Eccles cited in the apex body but absent from its references, Stapp ref carries no year/venue, theta-band claim uncited; (e) the ~10 bits/second behavioural-output caveat exists in `interface-specification-programme` but never reached the apex
+- **Disputed**: the review's headline omission — "Chalmers separately identifies Type-O dualism" — is **not in the source the reviewer cites for it**; two fetches of consc.net/papers/nature.html find no type-O (taxonomy is A–F plus type-Q). Task 4 carries the substance (closure-compatible causal dualism, reachable via Saad) and explicitly forbids adding the fabricated label
+- **Unverified**: Goff, Jaworski, Nida-Rümelin, the 2024 interventionist papers and the Zheng–Meister / Masanes characterisations — WebSearch budget exhausted this session; tasks touching them carry a re-verify-at-publisher instruction
+- **Corrected**: reviewer's improvement 20 cites "7 of 38" apex articles carrying Evidence and Dependency; counted live it is **9 of 39** (stale snapshot, finding still stands)
+- **Tasks generated**: 5 (P1: 2, P2: 3) — queue P0–P2 floor 5 → 10
+- **Published**: pending sync
+
 ## 2026-08-02 03:31 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]], [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]

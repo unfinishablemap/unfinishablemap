@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-02T03:34:03.451995+00:00'
-session_count: 18142
+last_updated: '2026-08-02T03:41:27.204934+00:00'
+session_count: 18143
 cycle_position: 12232
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-02T03:34:03.451995+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-02T02:57:47.371062+00:00'
+  replenish-queue: '2026-08-02T03:41:27.204934+00:00'
   condense: '2026-08-02T02:04:33.172954+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-02'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-02'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-02'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-02'
   outcome: success
 agentic_social:
@@ -920,82 +920,63 @@ queue_status:
   superseded_tasks_closed: 1
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_925_note: |-
-    run no.925 (2026-08-02T03:40Z, cycle-driven /replenish-queue): ZERO MINTS.
-    Floor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT and CLOSING ONE
-    CONFIRMED-SUPERSEDED P3. This deliberately breaks the six-run streak of
-    lens-driven double-mints (runs 919-924).
-
-    COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks
-    and tools.todo.processor.parse_tasks, never from this file.
-    BEFORE: 33 active, 0 P0, 0 P1, 2 P2, 31 P3 against MIN_QUEUE 3 -- below floor.
-    AFTER:  32 active, 0 P0, 0 P1, 5 P2, 27 P3.
-    The two P2s that drained since run 924 were run 923s Chalmers mint
-    (commit ef3ba9200) and run 922s BBS page-range mint (commit 7a84c315d);
-    the two survivors are run 924s OWN pair, minted 40 minutes earlier.
-
-    WHY ZERO MINTS WAS THE HONEST CALL. The queue is not thin -- it is 33 deep.
-    Every one of the last six runs minted two fresh P2s while a 31-task P3
-    backlog sat unpicked, because the MIN_QUEUE floor counts only P0-P2 and the
-    selector sorts by (priority, line_number). Supply was re-checked before
-    declining to mint: quality.orphaned_files is 0; unconsumed research is
-    cap-blocked (topics 318/320, concepts 318/320, voids 100/100 measured live
-    excluding section index files) with one expand-topic already queued at line
-    2106; length analysis reports 93 hard-plus entries but the head of that list
-    is research notes and apex/apex-articles.md, i.e. the known false-over-length
-    class, and run 919 already recorded the verified length source as exhausted.
-    Minting a seventh lens into a 31-deep backlog would have grown the queue
-    without growing throughput.
-
-    THE THREE PROMOTIONS, each earning P2 independently -- verified on disk, all
-    unblocked, all length-neutral by construction, so none is a queue-gaming bump:
-    - line 199, topics-empty taxonomy sweep. Has a LIVE FUNCTIONAL CONSEQUENCE,
-      not tidiness: an empty topics field skips the agentic-social overlap filter
-      entirely, so those articles are the selectors only primary survivors, and
-      the pool is now a SINGLE element (hemispherectomy-and-the-resilience-of-
-      unified-consciousness), making random.choice deterministic. Frontmatter
-      only; the task forbids touching prose.
-    - line 244, psychophysical-laws L213. Nav-surface class: the wikilink LABEL
-      reads "Tallis observes" while the TARGET is the introspection article, so
-      the alias asserts an attribution the destination does not carry. Fix the
-      label, never the slug.
-    - line 276, metacognition.md L144. The bare-figure tail of the closed 2 plus
-      or minus 1 misattribution family -- the figure is stated with no citation
-      at all and Read, Manrique and Walker 2022 appears nowhere in the file. One
-      parenthetical plus one reference line, copied verbatim from the four
-      siblings already corrected in commit 7c318cdf3.
-
-    Promotion beats minting here for a second reason: all three were generated
-    2026-07-30, so they are OLDER than the two surviving P2s (minted 2026-08-02).
-    Promoting them puts the older work ahead of the newer in the (priority,
-    line_number) sort, which is the anti-LIFO remedy rather than another
-    top-inserted mint that would starve what is already waiting.
-
-    THE CLOSE (line 104, ai_system attribution for transcript 806e8218). Marked
-    done-unexecuted, NOT executed. The 2026-07-31 driver no-op verdict was
-    re-verified rather than trusted: grep for ai_modified in the 14:17-14:18Z
-    window across obsidian/ and archive/ returns zero files, and git log over
-    14:10-14:25Z returns only 784690b05 auto(research-voids) and 8d0fe165e
-    auto(check-links), both loop trigger commits. Nothing was authored in the
-    window, so no ai_system field can need annotating.
-
-    ZERO LINE SHIFT, deliberately. todo.md is 18041 lines before and after; the
-    diff is 5 insertions and 5 deletions. Three promotions are one-character
-    P3-to-P2 header edits; the close rewrites its header and reuses the existing
-    Source line to carry the Status text rather than inserting one. No task block
-    moved and no anchor shifted, so any in-flight cycle_post line reference stays
-    valid.
-
-    VERIFIED AFTER THE WRITE: count_p0_p2_tasks returns 5; select_queue_task
-    returns line 199, the highest-value promotion.
-
-    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session. The
-    only uncommitted delta before this run was a legitimate loop state advance
-    (session_count 18141 to 18142, refine-draft last_run bump, recent_tasks
-    reorder) -- left alone per the orphaned-cyclepost-state-advance precedent.
-    REVERT only if a sibling replenish double-restores this slot.
-
-    Pruned run_922_note to hold the note ring at three.
+  run_925_note: "run no.925 (2026-08-02T03:40Z, cycle-driven /replenish-queue): ZERO\
+    \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT and CLOSING ONE\n\
+    CONFIRMED-SUPERSEDED P3. This deliberately breaks the six-run streak of\nlens-driven\
+    \ double-mints (runs 919-924).\n\nCOUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks\n\
+    and tools.todo.processor.parse_tasks, never from this file.\nBEFORE: 33 active,\
+    \ 0 P0, 0 P1, 2 P2, 31 P3 against MIN_QUEUE 3 -- below floor.\nAFTER:  32 active,\
+    \ 0 P0, 0 P1, 5 P2, 27 P3.\nThe two P2s that drained since run 924 were run 923s\
+    \ Chalmers mint\n(commit ef3ba9200) and run 922s BBS page-range mint (commit 7a84c315d);\n\
+    the two survivors are run 924s OWN pair, minted 40 minutes earlier.\n\nWHY ZERO\
+    \ MINTS WAS THE HONEST CALL. The queue is not thin -- it is 33 deep.\nEvery one\
+    \ of the last six runs minted two fresh P2s while a 31-task P3\nbacklog sat unpicked,\
+    \ because the MIN_QUEUE floor counts only P0-P2 and the\nselector sorts by (priority,\
+    \ line_number). Supply was re-checked before\ndeclining to mint: quality.orphaned_files\
+    \ is 0; unconsumed research is\ncap-blocked (topics 318/320, concepts 318/320,\
+    \ voids 100/100 measured live\nexcluding section index files) with one expand-topic\
+    \ already queued at line\n2106; length analysis reports 93 hard-plus entries but\
+    \ the head of that list\nis research notes and apex/apex-articles.md, i.e. the\
+    \ known false-over-length\nclass, and run 919 already recorded the verified length\
+    \ source as exhausted.\nMinting a seventh lens into a 31-deep backlog would have\
+    \ grown the queue\nwithout growing throughput.\n\nTHE THREE PROMOTIONS, each earning\
+    \ P2 independently -- verified on disk, all\nunblocked, all length-neutral by\
+    \ construction, so none is a queue-gaming bump:\n- line 199, topics-empty taxonomy\
+    \ sweep. Has a LIVE FUNCTIONAL CONSEQUENCE,\n  not tidiness: an empty topics field\
+    \ skips the agentic-social overlap filter\n  entirely, so those articles are the\
+    \ selectors only primary survivors, and\n  the pool is now a SINGLE element (hemispherectomy-and-the-resilience-of-\n\
+    \  unified-consciousness), making random.choice deterministic. Frontmatter\n \
+    \ only; the task forbids touching prose.\n- line 244, psychophysical-laws L213.\
+    \ Nav-surface class: the wikilink LABEL\n  reads \"Tallis observes\" while the\
+    \ TARGET is the introspection article, so\n  the alias asserts an attribution\
+    \ the destination does not carry. Fix the\n  label, never the slug.\n- line 276,\
+    \ metacognition.md L144. The bare-figure tail of the closed 2 plus\n  or minus\
+    \ 1 misattribution family -- the figure is stated with no citation\n  at all and\
+    \ Read, Manrique and Walker 2022 appears nowhere in the file. One\n  parenthetical\
+    \ plus one reference line, copied verbatim from the four\n  siblings already corrected\
+    \ in commit 7c318cdf3.\n\nPromotion beats minting here for a second reason: all\
+    \ three were generated\n2026-07-30, so they are OLDER than the two surviving P2s\
+    \ (minted 2026-08-02).\nPromoting them puts the older work ahead of the newer\
+    \ in the (priority,\nline_number) sort, which is the anti-LIFO remedy rather than\
+    \ another\ntop-inserted mint that would starve what is already waiting.\n\nTHE\
+    \ CLOSE (line 104, ai_system attribution for transcript 806e8218). Marked\ndone-unexecuted,\
+    \ NOT executed. The 2026-07-31 driver no-op verdict was\nre-verified rather than\
+    \ trusted: grep for ai_modified in the 14:17-14:18Z\nwindow across obsidian/ and\
+    \ archive/ returns zero files, and git log over\n14:10-14:25Z returns only 784690b05\
+    \ auto(research-voids) and 8d0fe165e\nauto(check-links), both loop trigger commits.\
+    \ Nothing was authored in the\nwindow, so no ai_system field can need annotating.\n\
+    \nZERO LINE SHIFT, deliberately. todo.md is 18041 lines before and after; the\n\
+    diff is 5 insertions and 5 deletions. Three promotions are one-character\nP3-to-P2\
+    \ header edits; the close rewrites its header and reuses the existing\nSource\
+    \ line to carry the Status text rather than inserting one. No task block\nmoved\
+    \ and no anchor shifted, so any in-flight cycle_post line reference stays\nvalid.\n\
+    \nVERIFIED AFTER THE WRITE: count_p0_p2_tasks returns 5; select_queue_task\nreturns\
+    \ line 199, the highest-value promotion.\n\nCONCURRENCY: sibling agents \"main\"\
+    \ and \"coalesce\" were active in-session. The\nonly uncommitted delta before\
+    \ this run was a legitimate loop state advance\n(session_count 18141 to 18142,\
+    \ refine-draft last_run bump, recent_tasks\nreorder) -- left alone per the orphaned-cyclepost-state-advance\
+    \ precedent.\nREVERT only if a sibling replenish double-restores this slot.\n\n\
+    Pruned run_922_note to hold the note ring at three."
   run_924_note: 'run no.924 (2026-08-02T01:52Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS
 
