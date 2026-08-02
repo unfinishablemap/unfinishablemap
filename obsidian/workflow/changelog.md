@@ -5,6 +5,20 @@ ai_modified: '2026-08-02T03:32:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 07:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (claude-opus-5)
+- **File**: [[reviews/outer-review-2026-08-02-claude-opus-5]]
+- **Subject**: `apex/dualism-cartography` (recent-aged fallback, reused from the 02:00 ChatGPT commission so all three services audit the same article) — verdict: **REVISE-HARD**, cost overlay **DEMOTE-TO-COHERENCE-ONLY**
+- **Extraction**: js-dom via page-side Blob download (29,678 bytes); body never retyped through context. Artifact body-stability sentinel stable at 28,303 chars across two 10s samples
+- **Claims verified**: 7 Map-attributed quoted spans grep-checked, **7 verbatim, 0 fabricated** (the hostile-Deep-Research fabrication hazard did not fire this run); 8 external claims checked at publisher/primary, 8 confirmed
+- **Confirmed at publisher**: (a) **Lycan stance-misframe** — the apex L99 frames him as "defending Cartesian interactive dualism", but the full text of "Giving Dualism its Due" has "My materialism has never wavered" and "I have no sympathy with any dualist view, and never will"; the *quotation* is verbatim and stands, only the framing inverts him. A 2026-W23 pass fixed the quote's wording and left the framing untouched; the defect is live in `hugo/content/` too. (b) **Masanes–Galley–Müller presented as settled** — Kent, arXiv:2307.06191 "The measurement postulates of quantum mechanics are **not** redundant" and Stacey, arXiv:2211.03299 (proof "implicitly assumes its first step, namely that the state-update rule is linear") both real and as characterised; MGM have replied, so this is a live dispute, not a refutation. (c) **Ma & Wang (2026), *Frontiers in Psychology* 17, DOI 10.3389/fpsyg.2026.1730965** — checked specifically because a just-published 2026 DOI is the likeliest fabrication site; real, and states no independent replication of the Kerskens heartbeat-locked ZQC signal has been published. (d) **Illusionism and predictive processing are wholly absent from the apex** — grep for `illusion|frankish|dennett|predictive processing` returns zero hits, so the non-exhaustiveness finding is confirmed rather than asserted
+- **Structural findings**: the "mechanism cost" overlay has no unit, scale, zero point, aggregation rule or comparability condition, yet carries the article's comparative claims ("cheapest permitted cell", "Q1 is cheaper than Q4"); and the fixed battery contains **no line item that charges the Map's own cell** — neither the Born-rule statistical-indistinguishability dilemma nor No-MWI (Tenet 4) is costed anywhere on the grid, while L83 defends parity with the bare "on inspection it appears to track a real difference"
+- **Convergent with the same-cycle ChatGPT 5.6 Pro review**: the **Goff-in-Q4 co-optation** (a priority monist filed as a dualism inhabitant) and the **Zheng–Meister ~10 bits/s recruitment beyond the authors' scope** were independently flagged by both reviewers; both are already open tasks, so no duplicates were minted. Two reviewers also converge on the apex overstating how little it inherits from the tenets
+- **Not independently verified** (flagged in-task rather than acted on): Georgiev's no-go theorem and Stapp's alleged concession; Wiest 2025 *Neuroscience of Consciousness* niaf011 being a review not an experiment; Goff's exact "avoids the disunity of dualism" wording
+- **Tasks generated**: 4 (P1: 2, P2: 2) — queue P0–P2 floor 10 → 14. Deliberately consolidated to avoid same-file pileup: five tasks now target `apex/dualism-cartography`, and each new one instructs folding into any pass already open on the article
+- **Published**: pending sync
+
 ## 2026-08-02 04:05 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)

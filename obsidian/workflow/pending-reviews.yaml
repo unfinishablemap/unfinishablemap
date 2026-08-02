@@ -516,9 +516,9 @@
   commissioned_at: '2026-08-02T03:13:27.009536+00:00'
   prompt_summary: 'Audit apex/dualism-cartography: costs, citations, counterarguments'
   target_filename: outer-review-2026-08-02-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-02T06:54:38.356370+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile referee and audit one apex article on The
     Unfinishable Map (https://unfinishablemap.org), an AI-maintained philosophy site
