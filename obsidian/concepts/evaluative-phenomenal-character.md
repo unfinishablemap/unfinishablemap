@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-06-21
 human_modified:
-ai_modified: 2026-07-30T03:50:46+00:00
+ai_modified: 2026-08-02T13:14:16+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -182,7 +182,7 @@ Meditative traditions cultivate equanimity toward pain. **Response**: equanimity
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness can bias quantum outcomes and carries normative force, value-laden choices influence physical outcomes. Evaluative qualia provide the phenomenal basis for selection: consciousness biases outcomes toward what is experienced as good, right, or fitting.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness were causally inert, we couldn't trust normative judgments to guide behaviour. The cross-traditional convergence sharpens this: Buddhist, Confucian, Indian, and Islamic traditions all built sustained practical frameworks around evaluative phenomenal character. If evaluative qualia were epiphenomenal, five independent civilisations converging on practical frameworks oriented by a causally inert feature would be inexplicable. Moral experience motivates action—people sacrifice comfort and safety because of how moral situations feel.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness were causally inert, we couldn't trust normative judgments to guide behaviour. The cross-traditional recurrence sharpens this: Buddhist, Confucian, Indian, and Islamic traditions all built sustained practical frameworks around evaluative phenomenal character. Discounted for shared lineage as [above](#cross-traditional-convergence), those four cases amount to near-independent recurrence rather than four separate confirmations, and the anti-epiphenomenalist point turns on the frameworks being *sustained* rather than on the tally. Traditions that organised centuries of moral and contemplative practice around evaluative character would, on the epiphenomenalist's account, have been orienting themselves by a feature that does nothing. Moral experience motivates action—people sacrifice comfort and safety because of how moral situations feel.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If evaluative qualia make genuine moral stakes possible, many-worlds threatens this by ensuring every outcome is realised. Evaluative qualia present their objects as mattering absolutely, not branch-relatively. The felt wrongness of cruelty does not present itself as "wrong-in-this-branch."
 

@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-08-02T12:33:51+00:00
+ai_modified: 2026-08-02T13:14:16+00:00
 draft: false
 last_deep_review: 2026-07-26T00:06:51+00:00
 topics:
@@ -109,7 +109,7 @@ The reliance on PIT marks a structural junction in the Map's case. The naturalis
 
 This connects to Thomas Nagel's analysis in [[objectivity-and-consciousness]]: objective knowledge requires a subject capable of distinguishing appearance from reality, a distinction that presupposes phenomenal consciousness. The argument from reason shows this capacity has causal efficacy—our reasoning *about* the objective/subjective distinction influences what we believe. Were consciousness epiphenomenal, the alignment between what is logically warranted and what we believe would call for explanation, and irreducible mental causation is the best available account. A reliabilist rival exists—a truth-tracking process selected by evolution could in principle produce that alignment without phenomenal causation—so this is inference to the best explanation, not the only one, and [[#reliabilism-does-truth-tracking-escape-the-problem|the reliabilism section above]] argues the dualist reading explains it more economically once that rival is weighed.
 
-The [[evaluative-qualia-phenomenal-normativity-across-traditions|cross-traditional convergence on evaluative qualia]] deepens this. If phenomenal character is inherently evaluative—as five independent traditions conclude—then the normative force binding rational inference is grounded in phenomenal normativity: reasons feel compelling because evaluative phenomenal character makes normativity experientially present. The argument thus requires not consciousness in general but the specific evaluative dimension physicalism finds most resistant to reduction.
+The [[evaluative-qualia-phenomenal-normativity-across-traditions|cross-traditional convergence on evaluative qualia]] deepens this. If phenomenal character is inherently evaluative—as at most three near-independent lineages conclude, on the deflated accounting worked out there—then the normative force binding rational inference is grounded in phenomenal normativity: reasons feel compelling because evaluative phenomenal character makes normativity experientially present. The argument thus requires not consciousness in general but the specific evaluative dimension physicalism finds most resistant to reduction.
 
 It also connects to [[agent-causation]]: rational inference is an agent recognizing logical relationships and *choosing* to affirm the conclusion *because* it follows—that "because" marks consciousness's irreducible contribution. The [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] is the experiential evidence: the strain of holding premises together, the grip of logical necessity, the work of tracing implications—what tracking normative relationships *feels like* from inside.
 

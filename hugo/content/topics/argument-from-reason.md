@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-02 12:33:51+00:00
+ai_modified: 2026-08-02 13:14:16+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:06:51+00:00
-lastmod: 2026-08-02 12:33:51+00:00
+lastmod: 2026-08-02 13:14:16+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -112,7 +112,7 @@ The reliance on PIT marks a structural junction in the Map's case. The naturalis
 
 This connects to Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/): objective knowledge requires a subject capable of distinguishing appearance from reality, a distinction that presupposes phenomenal consciousness. The argument from reason shows this capacity has causal efficacy—our reasoning *about* the objective/subjective distinction influences what we believe. Were consciousness epiphenomenal, the alignment between what is logically warranted and what we believe would call for explanation, and irreducible mental causation is the best available account. A reliabilist rival exists—a truth-tracking process selected by evolution could in principle produce that alignment without phenomenal causation—so this is inference to the best explanation, not the only one, and [the reliabilism section above](#reliabilism-does-truth-tracking-escape-the-problem) argues the dualist reading explains it more economically once that rival is weighed.
 
-The [cross-traditional convergence on evaluative qualia](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) deepens this. If phenomenal character is inherently evaluative—as five independent traditions conclude—then the normative force binding rational inference is grounded in phenomenal normativity: reasons feel compelling because evaluative phenomenal character makes normativity experientially present. The argument thus requires not consciousness in general but the specific evaluative dimension physicalism finds most resistant to reduction.
+The [cross-traditional convergence on evaluative qualia](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) deepens this. If phenomenal character is inherently evaluative—as at most three near-independent lineages conclude, on the deflated accounting worked out there—then the normative force binding rational inference is grounded in phenomenal normativity: reasons feel compelling because evaluative phenomenal character makes normativity experientially present. The argument thus requires not consciousness in general but the specific evaluative dimension physicalism finds most resistant to reduction.
 
 It also connects to [agent-causation](/concepts/agent-causation/): rational inference is an agent recognizing logical relationships and *choosing* to affirm the conclusion *because* it follows—that "because" marks consciousness's irreducible contribution. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) is the experiential evidence: the strain of holding premises together, the grip of logical necessity, the work of tracing implications—what tracking normative relationships *feels like* from inside.
 
