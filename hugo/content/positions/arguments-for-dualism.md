@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-28
-ai_modified: 2026-08-02 14:18:13+00:00
+ai_modified: 2026-08-02 14:54:38+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -18,7 +18,7 @@ description: 'The Map''s positions on what its own argument catalogue for dualis
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-02 14:18:13+00:00
+lastmod: 2026-08-02 14:54:38+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -57,10 +57,11 @@ Calibration follows the [multi-axis schema](/positions/methodology-and-calibrati
 - **Status**: live
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high · external-evidence grade n/a (a counting rule about the Map's own case, not a first-order world-claim) · structural centrality moderate · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
 - **Asserts**: The Map holds that its case runs three sources of support in parallel — the epistemology of convergence, the body of arguments themselves (with the cross-traditional and cross-cultural patterns), and the framework-level commitment to dualism — and that only the first two are independent. The framework-level commitment is not a third route but a *selection rule operating on the output* of the first two. Cross-traditional and philosophical convergence earn *irreducibility* across the rivals that respect it (panpsychism, neutral monism, idealism, Madhyamaka emptiness); [Bidirectional Interaction](/tenets/#bidirectional-interaction) then selects dualism from within that set, on the strength of a separately-supported argument (the self-stultification objection to epiphenomenalism and the evidence for mental causation) rather than a bare appeal to commitment. The honest catalogue language the Map commits to is: *convergence earns irreducibility; bidirectional interaction selects dualism among the irreducibility-respecting alternatives; the two earnings do not compound into a single triple-supported case for substance dualism.* Counting the selection as a converging line would convert framework-internal coherence into evidential-status elevation — the count-inflation the coherence-vs-evidential-status discipline forbids.
-- **Depends on**: [P-M2](/positions/methodology-and-calibration/) (the standing convergence discount this instantiates); P-D1 (the within-catalogue dependency the selection sits downstream of); [evidential-status-discipline](/project/evidential-status-discipline/) (the coherence-vs-evidential-status rule); Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) as the selector, and [bidirectional-interaction](/concepts/bidirectional-interaction/) for its independent positive case
+- **Depends on**: [P-M2](/positions/methodology-and-calibration/) (the standing convergence discount this instantiates); P-D1 (the within-catalogue dependency the selection sits downstream of); [evidential-status-discipline](/project/evidential-status-discipline/) (the coherence-vs-evidential-status rule); Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) as the selector, and [bidirectional-interaction](/concepts/bidirectional-interaction/) for its independent positive case; [P-MC1–P-MC3](/positions/arguments-for-mental-causation/) (the register home of the "separately-supported argument" this entry names — what self-stultification earns, where Tenet 3's universal reading outruns it, and the completeness-denial that supplies the exclusion criterion the selection step operates with)
 - **Argued in**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), [dualism](/concepts/dualism/), [evidential-status-discipline](/project/evidential-status-discipline/)
 - **Would shift if**: the positive case for Bidirectional Interaction were shown to be independently supported by evidence that also bears on irreducibility (which would make it partly a genuine third route rather than purely a selection rule); or the irreducibility-respecting rivals were shown to be excluded by the convergence itself, so that no selection step were needed; or the selection were shown to be doing covert argumentative work upstream of the convergence rather than downstream of it, which would make the separation a presentational device rather than a real structural distinction and force a harder discount.
-- **Last reviewed**: 2026-07-28
+- **Updated 2026-08-02**: added the reciprocal pointer to [P-MC1–P-MC3](/positions/arguments-for-mental-causation/), which register the selector's grounding argument this entry's *Asserts* names but never assessed. **The grounding clause is left as written; calibration unchanged** (credence *high*, grade *n/a*). It was checked against the corpus's two-clause scoped verdict on epiphenomenalism and found sound. The selection step needs only the *existential* claim — that the consciousness doing the theorising is causally efficacious — because what it must exclude is the inert-consciousness reading of the irreducibility-respecting rivals; Tenet 3's universal reading does no work at this step, so the clause does not over-read what self-stultification delivers. And the clause is a two-conjunct compound whose second conjunct ("the evidence for mental causation") is the corpus's own carrier for anything stronger. Registering P-MC1–P-MC3 makes both scopes checkable without restating them here; the conclusion that the two earnings do not compound is a counting rule and is untouched either way.
+- **Last reviewed**: 2026-08-02
 
 ## P-D3: Cross-traditional convergence is near-independence, not a third confirmation
 

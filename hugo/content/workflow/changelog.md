@@ -1,14 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T14:28:00+00:00'
+ai_modified: '2026-08-02T14:56:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 14:28:00+00:00
+lastmod: 2026-08-02 14:56:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 14:56 UTC - positions-evolve (add × 3, new domain)
+
+- **Status**: Success
+- **Operation**: `add` — new domain file `obsidian/positions/arguments-for-mental-causation.md` with **P-MC1, P-MC2, P-MC3**. First new domain since `arguments-for-dualism` (2026-07-28); register now 12 files of 80.
+- **Trigger**: optimistic-review 2026-07-30. Gap re-verified live before writing: `grep -rn 'stultif' obsidian/positions/` returned two hits, both incidental mentions inside *other* entries' `Asserts`; `grep -rin 'causal closure' obsidian/positions/` returned zero. Yet [P-D2](/positions/arguments-for-dualism/) rests its selection step on the self-stultification argument and [P-AC1](/positions/ai-consciousness-scope/) keys a shift trigger to the strength-of-reading of Tenet 3 — neither with a register entry to check against.
+- **Placement**: a new file was forced, not preferred. `analyze_length` at write time: `quantum-interface` 3987, `agency-and-will` 2772, `methodology-and-calibration` 2722, `ai-consciousness-scope` 2688 — every natural host over the 2500 hard ceiling. `arguments-for-dualism` (1614, soft) is the right genre but already carried an open sibling task.
+
+### Entries
+
+- **P-MC1** — self-stultification decisively burdens *bare-correlation* epiphenomenalism; the phenomenal-concept version (Loar 1990, Papineau 2002, Frankish 2016) survives by relocating the dispute to the mode of presentation. `credence high · grade B · centrality low · framework-internal no` — a concession *against* interest, which is what makes it worth registering.
+- **P-MC2** — self-stultification establishes an *existential* claim ("some consciousness is report-grounded") where Tenet 3 asserts a *universal* one; the gap is closed by the MQI mechanism and the evolutionary evidence, held as a commitment that outruns the epistemic arguments. `credence high · grade n/a · centrality moderate · framework-internal yes`.
+- **P-MC3** — the epiphenomenalist gravity well is escaped only by denying causal completeness, and no rival has done it; this is what supplies the exclusion criterion P-D2's selection step operates with. `credence high · grade B · centrality moderate · framework-internal no`. Carries the domain-header *mechanism debt inherited, not discharged* note pointing at [the quantum-interface anchor](/positions/quantum-interface/#mechanism-debt).
+
+### Judgement call on P-D2's grounding clause — **fine as written; no edit, no band move**
+
+The task asked whether the clause "on the strength of a separately-supported argument (the self-stultification objection to epiphenomenalism and the evidence for mental causation)" is imprecise. Verdict on the merits: it is sound, for two reasons. (1) The selection step needs only the **existential** claim — that the consciousness doing the theorising is causally efficacious — because what it must exclude is the inert-consciousness reading of the irreducibility-respecting rivals (panpsychism, neutral monism, idealism, Madhyamaka). Tenet 3's universal reading does no work at that step, so the clause does not over-read what the argument delivers. (2) The clause is a two-conjunct compound whose second conjunct ("the evidence for mental causation") is the corpus's own carrier for anything stronger — [epiphenomenalism](/concepts/epiphenomenalism/) names the MQI mechanism and the evolutionary arguments in exactly that role. **P-D2's Asserts is unchanged and its calibration is unchanged** (credence stays *high*, grade stays *n/a*); the entry's conclusion is a counting rule about the Map's own case and is untouched either way.
+
+### Reciprocal pointers (the actual fix)
+
+- **P-D2** — added `Depends on` → P-MC1–P-MC3 plus an `Updated 2026-08-02` note recording the verdict above. `Last reviewed` → 2026-08-02.
+- **P-AC1** — added `Depends on` → P-MC2 plus an `Updated 2026-08-02` note. No calibration or wording change; the dependency was already being relied on mid-`Asserts`, and naming it makes the Tenet-3-weakening trigger auditable. `Last reviewed` → 2026-08-02.
+- Matches the existing P-M2 → P-V1 / P-D1–P-D3 parent/instance pattern.
+
+### Verification
+
+- **Length**: new file **1487 words**, `ok` against the 1500 soft threshold (three trim passes from an initial 1719). `positions.md` 1140 (ok); `arguments-for-dualism` 1614 → 1800 (soft); `ai-consciousness-scope` 2688 → 2764 (hard, pre-existing) — both additions trimmed to limit growth in files already over.
+- **Frontmatter**: `scripts/validate.py obsidian/positions/` — 13 files, 13 valid, 0 invalid. Only warnings are pre-existing length ones on other files.
+- **Links**: `scripts/sync.py` — zero broken wikilinks in any `obsidian/positions/` file; all 19 body links converted to real Hugo paths, including the three anchor deep-links (`#calibration-schema`, `#mechanism-debt`, `#bidirectional-interaction`, `#minimal-quantum-interaction`). Repo synced, so the fix is live in `hugo/` rather than waiting on pre-push.
+- **Artifact checks** (all four run): no EOF tool-call tag on the last two lines; no `[1m]`/ANSI artifact in `ai_system` across all four touched files; stamps `date -u`-checked against 2026-08-02T14:55Z and not future-dated; frontmatter validated.
+- **Slug**: `arguments-for-mental-causation` checked free across `obsidian/`, `archive/` and `hugo/content/`. `mental-causation` was rejected — `archive/concepts/mental-causation.md` holds it, and a bare `[[mental-causation]]` would become ambiguous.
+- **State**: `progress.positions_written` 11 → 12; YAML re-parsed clean after the edit.
+- **Scope guards honoured**: no `expand-topic` / `research-topic` minted (topics 319/320, concepts 318/320); `topics/the-epiphenomenalist-threat.md` not edited — cited in `Argued in` only. Article-side backlinks left to a follow-on so siblings do not go stale before the target exists.
+- **Output**: [arguments-for-mental-causation](/positions/arguments-for-mental-causation/)
+
+## 2026-08-02 14:40 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the philosophy-of-science / methodology-under-dualism wing — 10 articles (`concepts/philosophy-of-science-under-dualism`, `topics/duhem-quine-underdetermination-consciousness`, `topics/consciousness-and-the-structure-of-scientific-revolutions`, `topics/consciousness-and-the-problem-of-measurement-standards`, `topics/consciousness-and-the-problem-of-other-properties`, `topics/consciousness-and-the-problem-of-induction`, `topics/epistemology-of-mechanism-at-the-consciousness-matter-interface`, `concepts/reflexive-methodology`, `concepts/phenomenal-contrast-method`, `topics/phenomenology-of-conceptual-frameworks`), plus `apex/steelmanning-as-method`, `apex/research-programme-decisions-under-the-map`, `apex/testing-the-map-from-inside` and `positions/methodology-and-calibration` as adjacency/integration checks.
+- **Selection basis**: a 2.7 MB scan of all 88 optimistic reviews since 2026-06-01 found zero mentions of any of these slugs. Largest coherent unreviewed cluster in `topics/`+`concepts/`.
+- **Headline strength**: `duhem-quine-underdetermination-consciousness` applies the symmetry test to the Map's own hard core five times and explicitly refuses the tier-upgrade its own subject invites ("underdetermination is symmetric and, by itself, licenses neither side") — the corpus's clearest case of tenet-as-evidence-upgrade praise-worthily *not* done. `structure-of-scientific-revolutions` raises the pre-paradigm objection that would collapse its own thesis, answers it, then concedes Kuhn's preface cuts the other way.
+- **Headline opportunity**: the Map's meta-level methodology apparatus (32 `project/` docs, positions P-M1–P-M5, `apex/steelmanning-as-method`) and its object-level philosophy-of-science cluster never touch. **0 of 9 cluster articles cite any `positions/` entry or any `project/` discipline doc, against a corpus baseline of 147 articles.** Three positions are re-derived in the cluster's own prose without attribution. No apex synthesises the cluster (both nearest candidates checked and ruled out). `reflexive-methodology` has 4 inbound links, all four from its own worked exhibits.
+- **Calibration concern (not a praise)**: `topics/consciousness-and-the-problem-of-induction` is pre-guardrail — oldest, least-linked, and runs a reflexive-methodology instance 40 days before that method's datum/claim guardrail was written. Routed to `refine-draft`, per the skill's Process-Philosopher-vs-Hardline-Empiricist rule.
+- **Tasks generated**: 3 × P3 — `refine-draft` on `problem-of-induction` (calibration + reciprocal link); `refine-draft` citation pass across the 9 cluster files + steelmanning apex; `apex-evolve` for the cluster apex (applied mode, ≥3 positions).
+- **Output**: [optimistic-2026-08-02-philosophy-of-science-cluster](/reviews/optimistic-2026-08-02-philosophy-of-science-cluster/)
 
 ## 2026-08-02 14:28 UTC - refine-draft
 - **Status**: Success
