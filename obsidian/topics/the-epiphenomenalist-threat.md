@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-07-31T09:48:59+00:00
+ai_modified: 2026-08-02T17:00:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ The Map's five [[tenets]] are structured as a coordinated escape trajectory from
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** rejects step 2. By locating consciousness's causal contribution at quantum indeterminacies, it provides the specific mechanism other frameworks lack. Without this commitment, dualism would face the same gravity well as property dualism.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** states the positive claim: consciousness causally influences physical outcomes. The [[self-stultification-as-master-argument|self-stultification argument]] provides the strongest philosophical evidence for human consciousness—and, as a master argument, it explains *why* landing in the gravity well is catastrophic rather than merely unwelcome: a theory that arrives at epiphenomenalism has severed consciousness from the reasoning that produced belief in the theory, leaving it rationally unendorsable by the very minds it describes. The [[evolutionary-case-for-mental-causation|evolutionary evidence]], [[consciousness-and-causal-powers|causal powers analysis]], and [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] extend the case empirically.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** states the positive claim: consciousness causally influences physical outcomes. The [[self-stultification-as-master-argument|self-stultification argument]] is the Map's principal philosophical ground for it—and, as a master argument, it explains *why* landing in the gravity well would be catastrophic rather than merely unwelcome: a theory that arrives at epiphenomenalism, the argument runs, has severed consciousness from the reasoning that produced belief in the theory, leaving it rationally unendorsable by the very minds it describes. The Map holds the tenet not because the argument refutes epiphenomenalism from inside the epiphenomenalist's framework—the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] keeps the strongest version of the position in play, on which reports track their physical referents without phenomenal causation—but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than a minimal causal interface. The [[evolutionary-case-for-mental-causation|evolutionary evidence]], [[consciousness-and-causal-powers|causal powers analysis]], and [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] extend the case empirically.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** maintains the conditions for escape. If all quantum outcomes actualize in parallel branches, no undetermined outcomes remain for consciousness to select among. Many-worlds would restore causal completeness, pulling the framework back into the well.
 
