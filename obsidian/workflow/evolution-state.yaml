@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-02T00:00:50.240273+00:00'
-session_count: 18116
-cycle_position: 12217
+last_updated: '2026-08-02T00:07:36.253311+00:00'
+session_count: 18117
+cycle_position: 12218
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-01T19:54:03.350538+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-07-31T02:11:25.029793+00:00'
   commission-claude-review: '2026-07-31T03:13:40.831879+00:00'
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
-  refine-draft: '2026-08-02T00:00:50.240273+00:00'
+  refine-draft: '2026-08-02T00:07:36.253311+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
   replenish-queue: '2026-08-01T23:56:13.578242+00:00'
   condense: '2026-08-01T23:13:24.083140+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-08-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-01'
@@ -188,6 +184,10 @@ recent_tasks:
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-01'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-02'
   outcome: success
 - task: refine-draft
   type: refine-draft
@@ -913,12 +913,13 @@ queue_status:
   p3_tasks: 27
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-01T23:55:00+00:00'
-  last_replenishment_prev: '2026-08-01T23:25:00+00:00'
-  last_replenishment_run: 921
-  last_replenishment_mode: standard-two-chain-mints-withdrawal-reachability-lens-skill-delegation-choking-and-qualia-four-property-propagation
+  last_replenishment: '2026-08-02T00:20:00+00:00'
+  last_replenishment_prev: '2026-08-01T23:55:00+00:00'
+  last_replenishment_run: 922
+  last_replenishment_mode: standard-two-mints-divergent-reference-metadata-lens-wallace-page-range-reversal-and-bbs-target-article-normalisation
   replenishment_source_counts:
-    chain: 2
+    chain: 1
+    lens_divergent_citation_metadata: 1
     length_analysis: 0
     staleness: 0
   relocated_starved_p2: 0
@@ -926,6 +927,103 @@ queue_status:
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
+  run_922_note: 'run no.922 (2026-08-02T00:20Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS FROM A NEW DIVERGENT-REFERENCE-METADATA LENS. Floor restored 2 -> 4.
+
+    COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks +
+    tools.todo.processor.parse_tasks. BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against
+    MIN_QUEUE 3 -- BELOW the floor. AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair
+    that drained since run 921 was run 920s (consciousness-and-causal-powers refine
+    00:00Z, causal-consistency-constraint refine 00:07Z); BOTH of run 921s P2s are still
+    open at lines 2043 and 2060, notes 6105 and 6137 chars, byte-identical post-write.
+    Bottom-inserted at 2077 and 2095 so FIFO drains run 921s pair first and no existing
+    anchor shifted. Verified with parse_tasks: new notes 6527 and 7969 chars, tails intact.
+
+    THE LENS -- SAME WORK, DIFFERENT METADATA, ACROSS FILES. Chain from the 00:07Z
+    causal-consistency-constraint refine, whose changelog flagged that it had found a
+    corpus-wide page-range conflict running OPPOSITE to a recorded fix and deliberately
+    deferred reconciliation. Generalised that into a mechanical scan: extract every
+    reference-style line with a year and a trailing page range across obsidian/ and
+    archive/, key by (first author, year, first title word), and report keys carrying
+    MORE THAN ONE distinct range. At least N-1 copies of any divergent family must be
+    wrong. 41 genuine families after filtering (see traps below).
+
+    TWO FALSE-POSITIVE TRAPS IN THE SCAN -- RECORD BOTH. (1) ABBREVIATION: Jackson 1982
+    showed 63 loci split 127-136 vs 127-36, which is the standard elided end-page form,
+    not a defect. Filter any pair where one end page is a suffix of the other. (2) DOI
+    AND ARXIV SUFFIXES: the trailing-number regex captured 0808-0, 9022-2, 2290-3 out of
+    arXiv ids and DOI tails (Zheng 2025, Petitmengin 2006, Saad 2025), inventing three
+    large phantom families. Filter to sane ranges (end >= start, span <= 120pp). Without
+    both filters the scan reports 77 families of which roughly half are noise.
+
+    MINT 1 -- WALLACE 2003, A RATIFIED WRONG VALUE. concepts/causal-consistency-constraint
+    now says 415-439; topics/probability-problem-in-many-worlds, concepts/many-worlds,
+    research/probability-decision-theory-against-many-worlds-2026-03-04 and
+    archive/concepts/probability-objections-many-worlds say 415-438. ADJUDICATED FRESH
+    THIS RUN: Crossref at DOI 10.1016/S1355-2198(03)00036-4 (Elseviers own deposit)
+    returns 415-439; Semantic Scholar independently returns 415-439; and the 00:07Z pass
+    added the SHPMP 34(3) issue-TOC gap argument (Pitowsky ends 414, Timpson begins 441).
+    THE 439 IS RIGHT AND THE 438 IS THE ERROR. The completed todo entry at L10789-L10791
+    records the opposite and cites the SAME DOI that returns 439, so that check did not
+    happen as recorded; it also cites SciRP, which the 2026-06-01 Block task already names
+    as a propagator of wrong page ranges. The task REQUIRES annotating that completed
+    record, because the recorded wrong verdict is the re-propagation root.
+
+    MINT 2 -- BBS TARGET-ARTICLE RANGES, AN UNGENERALISED SWEEP. The completed task at
+    L1310-L1316 ratified the convention on 2026-06-01: a BBS citation takes the TARGET
+    ARTICLE pages, and the longer variant wrongly includes the appended open-peer
+    commentary. It fixed Block 1995 and stopped. Four families still carry the
+    commentary-inclusive form, all four adjudicated at Crossref this run: Searle 1980
+    417-457 -> 417-424 (26 loci in obsidian+archive, 11 live articles); Libet 1985
+    529-566 -> 529-539 (8 loci; the 566 is the end of Libets SEPARATE reply article);
+    Suddendorf 2007 299-351 -> 299-313; Tomasello 1993 495-552 -> 495-511. So the
+    convention was already decided -- this is coverage, not a new policy call. Same
+    lesson as run 921s choking finding: check a sweeps OWN coverage before calling a
+    defect family closed.
+
+    A UNIFORMLY-WRONG CITATION IS INVISIBLE TO A DIVERGENCE SCAN. Recorded inside mint 2:
+    the corpus cites 28 distinct BBS works with a page range, and a work that is wrong in
+    EVERY file produces no divergence at all. Five suspects were listed as TRIAGE-ONLY
+    candidates requiring their own Crossref check (Pylyshyn 2002 157-238 is the strongest,
+    at 81 pages), and eight were verified uniform-and-correct this run so the fork does not
+    sweep them. This is narrow-grep-zero-is-not-proof-of-absence in a new shape.
+
+    FALSE LEADS INVESTIGATED, DO NOT RE-RAISE. Cutter 2019 109-130 was already fixed
+    corpus-wide (only changelog/review historical records still carry it). Sjoberg 2024
+    2267-2274 IS wrong (Crossref DOI 10.1093/brain/awae180 gives 2267-2269) but survives
+    ONLY in 3 research notes and 6 archive files -- zero live articles -- so it was left
+    for a later run rather than padding a mint. Shannon 1948 379-423 vs 623-656 is the
+    genuine two-part paper, not a defect. Searle 417-424 appearing in 9 files is the
+    CORRECT minority, not a second error.
+
+    SIX OTHER SOURCES AUDITED, ALL BLOCKED, unchanged from runs 919-921. Length: 93 raw
+    warnings, every article-section candidate a false positive once the reference apparatus
+    is stripped; epistemology-of-convergence explicitly closed by its own condense.
+    Orphans 0. Staleness owned by deep-reviews 4 cycle slots. Positions blocked -- four
+    positions-evolve tasks already open at P3. Applied-apex unspent. Unconsumed research
+    still cap-blocked.
+
+    SECTION CAPS re-measured live (excluding section index files): topics 318/320,
+    concepts 318/320, voids 100/100, positions 11/80. All expand-topic candidates remain
+    filtered corpus-wide, which is why this run again mints only refine work. The two
+    unconsumed 07-19 research notes (bohmian-quantum-equilibrium,
+    multi-agent-born-preservation-problem) are still parked pending an operator call on
+    raising the caps -- re-raised for the fifth consecutive run. CLAUDE.mds section table
+    (~273 topics / ~265 concepts) remains badly stale and should be corrected.
+
+    WEB BUDGET NOTE: this session hit 200/200 WebSearch calls partway through, but WebFetch
+    against api.crossref.org still worked and is what carried every adjudication above.
+    Crossref REST is the cheapest reliable publisher-of-record check available when the
+    search budget is gone -- worth remembering.
+
+    PARSER HAZARD avoided per runs 918-921: both Notes written as ONE bullet with indented
+    bold run-in headers, no second top-level bullet. EOF tool-tag scan clean (0 hits).
+
+    NO CONCURRENCY: ps -eo pid,args showed no evolve_loop.py or unfin-cycle process. HEAD
+    7e01f7635. The only uncommitted delta before this run was the pre-existing
+    evolution-state.yaml edit, legitimate deferred cycle_post bookkeeping, left alone.
+    REVERT only if a sibling replenish double-restores this slot. Pruned run_919_note to
+    hold the note ring at three.'
   run_921_note: 'run no.921 (2026-08-01T23:55Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS FROM THE WITHDRAWAL-REACHABILITY LENS. Floor restored 2 -> 4.
 
@@ -1161,168 +1259,3 @@ queue_status:
     legitimate deferred cycle_post bookkeeping, left alone ([[orphaned-cyclepost-state-advance-in-worktree]]).
     REVERT only if a sibling replenish double-restores this slot ([[concurrent-replenish-race]]).
     Pruned run_917_note to hold the note ring at three ([[evolution-state-floor-restore-note-bloat]]).'
-  run_919_note: 'run no.919 (2026-08-01T22:35Z, cycle-driven /replenish-queue): MINTED
-    TWO P2 CHAIN
-
-    TASKS, VERIFIED THE LENGTH SOURCE EXHAUSTED, AND REPAIRED TWO STALE LINE ANCHORS.
-
-    Floor restored 2 -> 4.
-
-
-    COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks +
-
-    tools.todo.processor.parse_tasks. BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against
-
-    MIN_QUEUE 3 -- i.e. BELOW the floor. AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3.
-
-    NOTE the p2_tasks: 4 that run 918 recorded at 21:55Z was already STALE by 22:35Z:
-
-    two P2s drained in between (condense born-rule 22:20Z, refine penrose-gravity
-
-    22:27Z). Never trust the recorded snapshot; re-count live every run.
-
-
-    LENGTH SOURCE VERIFIED EXHAUSTED -- NOT SKIPPED. get_length_warnings returns 92
-
-    entries, and every article-section candidate is a FALSE positive once the reference
-
-    apparatus is stripped. Measured this run (prose vs hard threshold):
-
-    topics/time-collapse-and-agency 4092 v 4000 (+92); attention-and-the-consciousness-
-
-    interface 3864 (UNDER); qm-interpretations-beyond-many-worlds 3704 (UNDER);
-
-    phenomenal-authority-and-first-person-evidence 3690 (UNDER); apex/conjunction-coalesce
-
-    5062 v 5000 (+62); voids/synesthetic-void 3130 v 3000 (+130). Nothing worth a
-
-    condense beyond the already-queued volitional-control. See
-
-    [[analyze-length-counts-reference-apparatus]] -- the raw figure is inflated by
-
-    400-800 words of References + Further Reading in nearly every file.
-
-
-    DID NOT RE-MINT A CONDENSE ON epistemology-of-convergence-arguments, despite it
-
-    still reading hard_warning. Its 21:31Z condense (commit 133b01272) was a DELIBERATE
-
-    partial -- 6602 -> 5980 raw, 5973 -> 5415 prose, critical -> hard_warning -- and
-    its
-
-    changelog states that ~1215 prose words are structurally locked, that five live
-
-    articles anchor its section headings so the extract-to-a-new-article escape hatch
-    is
-
-    closed, and recommends treating ~5400 prose as this node''s floor and closing
-    any
-
-    successor length task. ACCEPTED. Re-minting an hour later would have been exactly
-
-    the churn pattern in [[replenish-overmints-condense-vs-accept-as-survey]].
-
-
-    POSITIONS-DEPENDENCY CANDIDATE INVESTIGATED AND VERIFIED FALSE. positions/
-
-    finding-level-calibration P-F1 lists topics/epistemology-of-convergence-arguments
-
-    under Argued in, and the condense deleted the whole of the old L108 -- which looked
-
-    like an Argued-in citation surviving the removal of the argument it cites. It
-    is not:
-
-    the derivation SURVIVES intact at the live L104 (architecture v significance,
-
-    compatibility-grade rather than vindication-grade, sophisticated functionalism
-
-    predicting the same dissociation, the compatibility-vs-support discipline link).
-
-    Only the closing summary clause was folded into L106. No positions-evolve update
-
-    minted. [[replenish-asserted-concrete-defect-often-false]] again.
-
-
-    STALE ANCHORS REPAIRED IN THE OPEN P3 O''Brien-Kop TASK (in place, no re-scope):
-
-    L232 -> L224 (reference entry) and L96 -> L92 (running prose), both shifted upward
-    by
-
-    the 21:31Z condense, which held the two lines byte-identical. The LOCUS 2 anchors
-    in
-
-    the same task (concepts/samkhya-three-way-distinction L144 / L95) were re-grepped
-    in
-
-    the same pass and are STILL CORRECT -- a note to that effect was added so the
-    next
-
-    fork does not "fix" them.
-
-
-    MINT 1, chain from the 22:25Z penrose-gravity refine: concepts/prebiotic-collapse.md
-
-    L98 states the Danielson-Satishchandran-Wald horizon-decoherence result with no
-
-    challenge, missing the static-star limit and the Fahn & Pesci PRD challenge that
-    the
-
-    sibling article now carries. The task CORRECTS its own source: that changelog
-    called
-
-    the file "3,492 against 3,500 -- 8 words of headroom, genuinely blocked", but
-    that is
-
-    the raw figure; decomposed prose is 2994 v 3500, i.e. ~500 words of REAL headroom.
-
-    Not blocked, and the task tells the fork not to pair it with a trim.
-
-
-    MINT 2, chain from the 20:57Z optimistic review: topics/bandwidth-of-consciousness.md
-
-    is the home of the bandwidth argument, which apex/pharmacological-dissociation-as-
-
-    evidence L138 records as WITHDRAWN as a discriminator (GWT makes a conscious-access
-
-    bottleneck its defining feature, so the datum is shared). The article has no link
-    to
-
-    the withdrawal and its GWT section stops at a framing question instead of the
-    verdict.
-
-    Prose 3423 v 4000 hard -- not blocked. The task is fenced hard against over-correction:
-
-    the file is unusually well calibrated and four named concessions must survive.
-
-
-    SECTION CAPS MEASURED: topics 318/320, concepts 318/320 -- both effectively FULL,
-
-    two slots each. All expand-topic candidates are filtered corpus-wide, which is
-    why
-
-    this run mints only refine work. CLAUDE.md''s section table (~273 topics / ~265
-
-    concepts) is badly stale and should be corrected. The 20:57Z optimistic review''s
-
-    enhancement-through-disruption expansion stays blocked; it is a human call.
-
-
-    PARSER HAZARD HIT AND FIXED WITHIN THIS RUN -- record it. Both new blocks were
-    first
-
-    written with several top-level "- **X**:" bullets following "- **Notes**:".
-
-    _parse_task_block calls raw_line.strip() BEFORE testing startswith("- **"), so
-
-    INDENTING a continuation bullet does NOT rescue it -- notes truncated to 1731
-    and
-
-    1575 chars, dropping every constraint after the first paragraph. Converted 12
-    bullets
-
-    to indented "  **X**" run-in headers; notes now parse at 5277 and 4722. Notes
-    must be
-
-    ONE bullet; use inline bold run-in headers for structure, never a second top-level
-
-    bullet. Verified with parse_tasks before finishing.'
