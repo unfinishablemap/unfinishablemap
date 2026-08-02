@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-07-25 14:03:17+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:03:17+00:00
-lastmod: 2026-07-25 14:03:17+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -181,7 +181,7 @@ The paradox does not, by itself, prove any tenet. It identifies a stable shape t
 5. Hofstadter, D. R. (2007). *I Am a Strange Loop*. Basic Books.
 6. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section VI.
 7. Lawvere, F. W. (1969). Diagonal arguments and Cartesian closed categories. *Category Theory, Homology Theory and their Applications II*, Lecture Notes in Mathematics 92, 134–145. Springer.
-8. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529–566.
+8. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529–539.
 9. Lucas, J. R. (1961). Minds, Machines and Gödel. *Philosophy*, 36(137), 112–127.
 10. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 11. Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88(2), 829–850.

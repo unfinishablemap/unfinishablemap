@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 19:30:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-14 19:30:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -211,7 +211,7 @@ Based on this research, an article could:
 - Malcolm, N. (1958). "Knowledge of Other Minds." *Journal of Philosophy*, 55(23), 969-978.
 - Mill, J. S. (1843). *A System of Logic*. John W. Parker.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Stanford Encyclopedia of Philosophy. "Other Minds." https://plato.stanford.edu/entries/other-minds/
 - Stanford Encyclopedia of Philosophy. "The Turing Test." https://plato.stanford.edu/entries/turing-test/
 - Internet Encyclopedia of Philosophy. "Solipsism and the Problem of Other Minds." https://iep.utm.edu/solipsis/

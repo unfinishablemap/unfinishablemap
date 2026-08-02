@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-19 15:44:43+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 15:44:43+00:00
-lastmod: 2026-07-19 15:44:43+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[functionalism]]'
@@ -118,7 +118,7 @@ That the claim is genuinely contested is visible in the recent literature, and n
 
 ## References
 
-1. Searle, John R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences* 3(3): 417–457. DOI 10.1017/S0140525X00005756.
+1. Searle, John R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences* 3(3): 417–424. DOI 10.1017/S0140525X00005756.
 2. Searle, John R. (1984). *Minds, Brains and Science*. Cambridge, MA: Harvard University Press.
 3. Searle, John R. (1990). Is the Brain's Mind a Computer Program? *Scientific American* 262(1): 26–31.
 4. Churchland, Paul M. & Churchland, Patricia S. (1990). Could a Machine Think? *Scientific American* 262(1): 32–37.

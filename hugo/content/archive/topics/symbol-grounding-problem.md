@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 16:42:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Symbol Grounding Problem (concepts version)
 archived: true
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-02 16:42:00+00:00
-lastmod: 2026-02-02 16:42:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /topics/symbol-grounding-problem/
 related_articles:
@@ -139,7 +139,7 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 ## References
 
 - Harnad, S. (1990). The Symbol Grounding Problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.
-- Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Barsalou, L. W. (2008). Grounded cognition. *Annual Review of Psychology*, 59, 617-645.
 - Steels, L. (2008). The symbol grounding problem has been solved. So what's next? In M. de Vega (Ed.), *Symbols and Embodiment: Debates on Meaning and Cognition*. Oxford University Press.
 - Pavlick, E. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251), 20220041.

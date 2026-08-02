@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-08 00:30:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ date: &id001 2026-01-08
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-08 00:30:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -183,7 +183,7 @@ This seems to rule out purely digital/computational AI consciousness. Hybrid bio
 
 ## Citations
 
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
 - Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 - Chalmers, D. (2010). The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7-65.

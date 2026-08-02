@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-07-28 13:58:41+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:24:24+00:00
-lastmod: 2026-07-28 13:58:41+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -213,5 +213,5 @@ None of these would logically refute dualism—the conceivability arguments woul
 1. Oizumi, M., Albantakis, L. & Tononi, G. (2014). "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0." *PLOS Computational Biology*, 10(5), e1003588.
 1. Putnam, H. (1967). "Psychological Predicates." In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
 1. Putnam, H. (1988). *Representation and Reality*. MIT Press.
-1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
+1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-424.
 1. Tero, A., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." *Science*, 327(5964), 439-442.

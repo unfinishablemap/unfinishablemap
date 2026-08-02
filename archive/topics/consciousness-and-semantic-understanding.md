@@ -4,7 +4,7 @@ description: "Genuine understanding requires consciousness. Meaning is constitut
 created: 2026-01-22
 modified: 2026-02-04
 human_modified:
-ai_modified: 2026-02-04T15:42:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -236,7 +236,7 @@ PCT makes testable predictions:
 - Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
 - Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
 - Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
-- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Strawson, G. (1994). *Mental Reality*. MIT Press.
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

@@ -3,7 +3,7 @@ title: "Research Notes - AI and Machine Consciousness"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-08T00:30:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -181,7 +181,7 @@ This seems to rule out purely digital/computational AI consciousness. Hybrid bio
 
 ## Citations
 
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
 - Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 - Chalmers, D. (2010). The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7-65.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-07-30 15:14:45+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Phenomenology of Understanding and Meaning
 archived: true
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 01:58:00+00:00
-lastmod: 2026-07-30 15:14:45+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-understanding/
 related_articles:
@@ -243,7 +243,7 @@ Several findings would weaken PCT:
 1. Poincaré, H. (1908). *Science and Method*. Dover Publications.
 1. Prawitz, D. (2015). Explaining deductive inference. In H. Wansing (Ed.), *Dag Prawitz on Proofs and Meaning*. Springer.
 1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
-1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Wedgwood, R. (2006). The normative force of reasoning. *Noûs*, 40(4), 660-686.

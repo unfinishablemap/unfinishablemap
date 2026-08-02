@@ -4,7 +4,7 @@ description: "How symbols acquire meaning intrinsic to a system rather than para
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-06-25T00:18:22+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -160,7 +160,7 @@ The symbol grounding problem connects to all five tenets:
 ## References
 
 1. Harnad, S. (1990). The Symbol Grounding Problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.
-1. Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Steels, L. (2008). The symbol grounding problem has been solved. So what's next? In M. de Vega (Ed.), *Symbols and Embodiment*. Oxford University Press.
 1. Pavlick, E. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251), 20220041.
 1. Mollo, D. C., & Millière, R. (2023). The Vector Grounding Problem. arXiv:2304.01481.

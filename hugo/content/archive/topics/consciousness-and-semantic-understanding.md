@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-02-04 15:42:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Phenomenology of Understanding
 archived: true
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-04 15:42:00+00:00
-lastmod: 2026-02-04 15:42:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /topics/consciousness-and-semantic-understanding/
 related_articles:
@@ -240,7 +240,7 @@ PCT makes testable predictions:
 - Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
 - Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
 - Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
-- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Strawson, G. (1994). *Mental Reality*. MIT Press.
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

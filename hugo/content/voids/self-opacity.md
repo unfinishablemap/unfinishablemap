@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-07-16 16:51:06+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:51:06+00:00
-lastmod: 2026-07-16 16:51:06+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -196,7 +196,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 10. Nisbett, R.E. & Wilson, T.D. (1977). "Telling more than we can know." *Psychological Review*, 84(3), 231-259.
 11. Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome." *Science*, 310(5745), 116-119.
 12. James, W. (1890). *The Principles of Psychology*.
-13. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will." *Behavioral and Brain Sciences*, 8(4), 529-566.
+13. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will." *Behavioral and Brain Sciences*, 8(4), 529-539.
 14. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 15. Soon, C. S., et al. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
 16. Schulz, K. (2010). *Being Wrong*. Ecco.

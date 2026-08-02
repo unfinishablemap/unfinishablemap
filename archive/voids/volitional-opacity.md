@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot observe our own willing—th
 created: 2026-02-02
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T15:04:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 last_deep_review: 2026-03-05T15:04:00+00:00
 draft: false
 topics:
@@ -165,7 +165,7 @@ None of these conditions has been met. The persistence across four centuries of 
 
 ## References
 
-1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
+1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-539.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
 1. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.

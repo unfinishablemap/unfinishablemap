@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 archived: true
 archived_date: 2026-04-03T20:38:00+00:00
@@ -266,7 +266,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
 1. Scruton, R. (1997). *The Aesthetics of Music*. Oxford University Press.
-1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Wedgwood, R. (2006). The normative force of reasoning. *Noûs*, 40(4), 660-686.

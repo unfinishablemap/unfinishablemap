@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-04 10:35:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Consciousness and Semantic Understanding
 archived: true
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-04 09:20:00+00:00
-lastmod: 2026-02-04 10:35:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /topics/meaning-and-consciousness/
 related_articles:
@@ -206,7 +206,7 @@ Meaning and consciousness connect to all five tenets:
 - Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
 - Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
 - Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
-- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Strawson, G. (1994). *Mental Reality*. MIT Press.
 - Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

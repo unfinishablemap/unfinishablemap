@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-07-12T07:21:45+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 last_deep_review: 2026-07-26T08:05:41+00:00
 draft: false
 topics:
@@ -253,7 +253,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated Information Theory: From Consciousness to Its Physical Substrate. *Nature Reviews Neuroscience*, 17, 450-461.
-1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic.
 1. Tegmark, M. (2000). Importance of Quantum Decoherence in Brain Processes. *Physical Review E*, 61(4), 4194-4206.

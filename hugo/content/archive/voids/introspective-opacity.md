@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Self-Opacity
 archived: true
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-06 11:38:00+00:00
-lastmod: 2026-03-25 01:40:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /voids/introspective-opacity/
 related_articles:
@@ -205,7 +205,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 1. Schwitzgebel, E. (2008). "The unreliability of naive introspection." *Philosophical Review*, 117(2), 245-273.
 1. Fleming, S. M., et al. (2012). "Prefrontal contributions to metacognition in perceptual decision making." *Journal of Neuroscience*, 32(18), 6117-6125.
 1. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Nijhoff.
-1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
+1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-539.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.

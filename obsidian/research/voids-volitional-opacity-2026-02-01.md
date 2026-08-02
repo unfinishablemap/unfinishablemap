@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Volitional Opacity"
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-03-05T13:47:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 target_section: voids
 topics:
@@ -208,7 +208,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
+1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-539.
 2. Libet, B. (1999). "Do We Have Free Will?" *Journal of Consciousness Studies*, 6(8-9), 47-57.
 3. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 4. Wegner, D. M. (1999). "Apparent mental causation: Sources of the experience of will." *American Psychologist*, 54(7), 480-492.

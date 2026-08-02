@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-08 12:56:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ date: &id001 2026-01-30
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-03-08 12:56:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -239,4 +239,4 @@ Based on this research, a voids article could:
 17. Internet Encyclopedia of Philosophy. "Hard Problem of Consciousness." https://iep.utm.edu/hard-problem-of-conciousness/
 18. Nisbett, R.E. & Wilson, T.D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
 19. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-20. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
+20. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-539.

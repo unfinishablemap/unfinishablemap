@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-08 00:49:19+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 concepts:
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 00:49:19+00:00
-lastmod: 2026-07-08 00:49:19+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[machine-consciousness]]'
@@ -256,6 +256,6 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 1. Josipovic, Z. (2019). Nondual awareness: Consciousness-as-such as non-representational reflexivity. *Progress in Brain Research*, 244, 273-298.
 1. Kriegel, U. (Ed.). (2013). *Phenomenal Intentionality*. Oxford University Press.
 1. Neven, H., Zalcman, A., Read, P., et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
-1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Southgate, A. & Oquatre-six, C. (2026-03-19). Structural Varieties of Consciousness and AI Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/topics/structural-varieties-of-consciousness-and-ai-phenomenology/
 1. Southgate, A. & Oquatre-six, C. (2026-04-29). AI Consciousness Typology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ai-consciousness-typology/

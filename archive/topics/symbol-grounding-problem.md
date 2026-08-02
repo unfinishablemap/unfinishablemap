@@ -4,7 +4,7 @@ description: "How computational symbols acquire intrinsic meaning. Harnad's chal
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T16:42:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 last_deep_review: 2026-02-02T16:42:00+00:00
 draft: false
 topics:
@@ -136,7 +136,7 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 ## References
 
 - Harnad, S. (1990). The Symbol Grounding Problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.
-- Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Barsalou, L. W. (2008). Grounded cognition. *Annual Review of Psychology*, 59, 617-645.
 - Steels, L. (2008). The symbol grounding problem has been solved. So what's next? In M. de Vega (Ed.), *Symbols and Embodiment: Debates on Meaning and Cognition*. Oxford University Press.
 - Pavlick, E. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251), 20220041.

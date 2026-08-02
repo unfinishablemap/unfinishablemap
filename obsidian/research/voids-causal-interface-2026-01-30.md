@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Causal Interface"
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-08T12:56:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 target_section: voids
 topics:
@@ -237,4 +237,4 @@ Based on this research, a voids article could:
 17. Internet Encyclopedia of Philosophy. "Hard Problem of Consciousness." https://iep.utm.edu/hard-problem-of-conciousness/
 18. Nisbett, R.E. & Wilson, T.D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
 19. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-20. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
+20. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-539.

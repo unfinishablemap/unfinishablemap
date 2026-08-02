@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-30 15:14:45+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Substrate Independence
 archived: true
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-20 21:30:00+00:00
-lastmod: 2026-07-30 15:14:45+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /concepts/substrate-independence-critique/
 related_articles:
@@ -171,7 +171,7 @@ The overall framework provides resources for confident skepticism about current 
 - Hoel, E. (2026). A Disproof of Large Language Model Consciousness. *arXiv:2512.12802*.
 - Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
 - Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

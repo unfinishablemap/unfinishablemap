@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-28 12:00:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Intentionality (unified with Phenomenal Intentionality)
 archived: true
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-30 17:16:00+00:00
-lastmod: 2026-02-28 12:00:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /concepts/intentionality/
 related_articles:
@@ -244,7 +244,7 @@ Intentionality connects to all five foundational tenets:
 1. Internet Encyclopedia of Philosophy. "Intentionality." https://iep.utm.edu/intentionality/
 1. Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
 1. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
-1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/dualism/

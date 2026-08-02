@@ -4,7 +4,7 @@ description: "An interactionist-dualist reading of the human-other-animal cognit
 created: 2026-05-05
 modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-07-28T01:09:55+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 last_deep_review: 2026-07-28T01:09:55+00:00
 draft: false
 topics:
@@ -169,7 +169,7 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 20. Sakai, T., Mikami, A., Tomonaga, M., et al. (2011). Differential prefrontal white matter development in chimpanzees and humans. *Current Biology*, 21(16), 1397–1402.
 21. Schoenemann, P. T., Sheehan, M. J., & Glotzer, L. D. (2005). Prefrontal white matter volume is disproportionately larger in humans than in other primates. *Nature Neuroscience*, 8(2), 242–252.
 22. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-23. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–351.
+23. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
 24. Tomasello, M., & Moll, H. (2010). The gap is social: Human shared intentionality and culture. In P. M. Kappeler & J. B. Silk (Eds.), *Mind the gap: Tracing the origins of human universals* (pp. 331–349). Springer.
 25. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 26. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/

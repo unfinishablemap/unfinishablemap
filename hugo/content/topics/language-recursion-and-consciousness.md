@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-12 13:02:45+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:02:45+00:00
-lastmod: 2026-07-12 13:02:45+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -216,7 +216,7 @@ Language, recursion, and consciousness connect to all five tenets:
 1. Hauser, M.D., Chomsky, N., & Fitch, W.T. (2002). The faculty of language: What is it, who has it, and how did it evolve? *Science*, 298(5598), 1569-1579.
 1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind*. Oxford University Press.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
-1. Searle, J.R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J.R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Vadillo, M.A., Soto, D., Shanks, D.R., et al. (2026). Replicating the unconscious working memory effect: a multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

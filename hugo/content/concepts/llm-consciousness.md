@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-18 11:01:44+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:25:35+00:00
-lastmod: 2026-07-18 11:01:44+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -205,7 +205,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 1. Vaswani, A. et al. (2017). Attention Is All You Need. *NeurIPS*.
 1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. *arXiv:2512.12802*.
 1. Cerullo, M. (2026). Why Hoel's Disproof of LLM Consciousness and Functionalism Fails. *PhilArchive*.
-1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Bender, E. et al. (2021). On the Dangers of Stochastic Parrots. *FAccT '21*.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.

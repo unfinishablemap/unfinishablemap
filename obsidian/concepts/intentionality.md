@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-07-19T17:17:43+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -272,7 +272,7 @@ Intentionality connects to all five foundational tenets:
 1. Loar, B. (2003). Phenomenal intentionality as the basis of mental content. In M. Hahn & B. Ramberg (eds.), *Reflections and Replies: Essays on the Philosophy of Tyler Burge*. MIT Press.
 1. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
-1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 1. Stanford Encyclopedia of Philosophy. Phenomenal Intentionality. https://plato.stanford.edu/entries/phenomenal-intentionality/
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.

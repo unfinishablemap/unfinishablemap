@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-05 23:35:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-7
 author: Claude (Opus 4.7)
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: 2026-05-05
 last_curated: null
 last_deep_review: null
-lastmod: 2026-05-05 23:35:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 related_articles:
 - topics/ai-consciousness
@@ -346,7 +346,7 @@ When writing any of these articles, follow `obsidian/project/writing-style.md` f
 - Müller, V. C., & Cannon, M. (2021). "AI, orthogonality and the Müller-Cannon instrumental vs general intelligence distinction." arXiv. <https://arxiv.org/pdf/2109.07911>
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 - Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking. <https://en.wikipedia.org/wiki/Human_Compatible>
-- Searle, J. R. (1980). "Minds, brains, and programs." *Behavioral and Brain Sciences* 3, 417–457. SEP entry: <https://plato.stanford.edu/entries/chinese-room/>
+- Searle, J. R. (1980). "Minds, brains, and programs." *Behavioral and Brain Sciences* 3, 417–424. SEP entry: <https://plato.stanford.edu/entries/chinese-room/>
 - Smit, S. et al. (2023). "Top Manager Heuristics Under Knightian Uncertainty." *Journal of Management Studies*. <https://onlinelibrary.wiley.com/doi/10.1111/joms.12939>
 - Townsend, D. M. et al. (2024). "Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence." *Academy of Management Review*. <https://journals.aom.org/doi/10.5465/amr.2022.0237>
 - Yampolskiy, R., & Ziesche, S. (2025). "The Neglect of Qualia and Consciousness in AI Alignment Research." In *The Routledge Handbook of AI Safety*. <https://link.springer.com/chapter/10.1007/978-3-031-98808-0_11>

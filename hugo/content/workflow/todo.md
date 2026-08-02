@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T01:35:32+00:00'
+ai_modified: '2026-08-02T02:25:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-02 01:35:32+00:00
+lastmod: 2026-08-02 02:25:04+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,19 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: consciousness-interface-development breached the topics hard ceiling — 4,358w vs 4,000, and the terminal-lucidity block is now the article's largest passage in an article that declares it defers to a sibling
-- **Type**: condense
-- **File**: obsidian/topics/consciousness-interface-development.md
-- **Status**: pending
-- **Source**: deep-review 2026-08-02 (seventh review). Pre-authorised by the 2026-06-21 review, which left the article 19 words under hard and wrote: "If the next review finds it ≥4000, queue a dedicated `/condense`." The 2026-08-02 refine (`45d803144`) added ~380 net words and tipped it over.
-- **Notes**: **Measured 2026-08-02: 4,358 words on the analyzer metric, `hard_warning` against a 4,000 topics ceiling. Decomposed per analyze-length-counts-reference-apparatus: 3,836 prose / 522 apparatus (22-item Further Reading + 24-item References), so prose alone is still under hard — this is a real but not emergency breach. Do not treat the apparatus as fat; both lists are the article's established background-bibliography convention and three prior reviews confirmed they are not orphan-reference defects.**
-
-  **Primary target: the terminal-lucidity block (~590 words, five paragraphs).** The article itself says of the phenomenon: "this one inherits that verdict rather than re-adjudicating it" — and then re-adjudicates it at length, including a full statistics dump duplicated from [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/), which owns the phenomenon. The compression available here is the whole breach and then some: the per-category percentages (orientation 67.8%, old memories 34.8%, functional abilities 27.7%) can collapse to the headline finding plus the 4.1% terminal fraction without losing an argumentative step, since the sibling carries the full table.
-
-  **⚠️ PRESERVE VERBATIM — these are load-bearing calibration anchors flagged across the 2026-06-21 and 2026-08-02 reviews, and condense-regresses-calibration-qualifiers is the standing hazard for exactly this article:** (a) the evidential-ambition disclaimer in the front matter ("*accommodated* by the interface model, not predicted uniquely by it" … "a claim about organising power, not about the facts discriminating in the model's favour"); (b) the three-caveat paragraph on the Tollock study (GSA meeting abstract / 10.7% enrolment / prevalence-and-phenomenology-only) — this is symmetric-scepticism discipline aimed at work cited *against* the Map and must not be trimmed as hedging; (c) the common-cause-null caveat ("should not be tallied as several independent confirmations"); (d) the constrain-versus-establish scoping sentence, which is three-way aligned with the sibling and with [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — the constraint rests on "the severity subset the retrospective autopsy cases document," NOT on the modal prospective episode, and collapsing that scoping would reintroduce the internal contradiction the 2026-08-02 deep review fixed; (e) the Tegmark decoherence deferral ("does not discharge the quantitative burden").
-
-  **Do not touch the Tollock figures while condensing.** They were publisher-verified at OUP + PMC on 2026-08-02 after a wrong value (27.8%) entered via an OpenAlex-sourced review. Baseline of record: 1,768 screened / 1,405 eligible / 151 enrolled (10.7%) / 93 with ≥1 event (61.6%) / 267 events / orientation 67.8% / old memories 34.8% / functional abilities 27.7% / terminal subtype 4.1%. If a figure is dropped in condensing, drop it — do not restate it from memory.
 
 ### P3: fish-sentience — literature-currency refresh; newest citation is Key 2016 and the teleost-pallium-homology strand has plausibly moved in ten years
 - **Type**: refine-draft
@@ -2123,8 +2110,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **LENGTH.** A year change is length-neutral; adding a locator to the canonical entry is a few dozen words. Measure with `analyze_length` (never `wc -w`) before touching `qualia.md` or `phenomenal-consciousness.md`. **ATTRIBUTION.** Metadata normalisation is not re-authoring — hold each file's own `ai_system`, do not append your model. Bump `ai_modified` from a live `date -u`, verify strictly past. Leave `last_deep_review` alone. **MIRROR.** Run `uv run python scripts/sync.py` and confirm every `hugo/content/` copy agrees.
 
+### P2: two more BBS target-article page ranges carry the commentary-inclusive error — Pylyshyn 2002 and Aggleton & Brown 1999, both Crossref-confirmed on 2026-08-02
+- **Type**: refine-draft
+- **File**: obsidian/research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md
+- **Status**: pending
+- **Source**: triage tail of the 2026-08-02 four-family BBS page-range sweep (Searle/Libet/Suddendorf/Tomasello), which was scope-fenced to its own four families and could not fix these
+- **Notes**: **THE CONVENTION IS RATIFIED — THIS IS APPLYING IT.** Same rule as the 2026-06-01 Block 1995 pass and the 2026-08-02 four-family sweep: for a *Behavioral and Brain Sciences* target article the canonical range is the target article's own pages as recorded at Crossref; the longer variant erroneously appends the open-peer-commentary pages.
+
+  **BOTH ADJUDICATED FRESH AT CROSSREF 2026-08-02 — but re-verify yourself before editing; an asserted defect is a candidate, not a fact.** (a) **Pylyshyn 2002**, *Mental imagery: In search of a theory*, BBS **25(2)** — Crossref at DOI `10.1017/s0140525x02000043` returns **`157-182`**; the corpus form `157-238` is target-plus-commentary. (b) **Aggleton & Brown 1999**, *Episodic memory, amnesia, and the hippocampal–anterior thalamic axis*, BBS **22(3)** — Crossref at DOI `10.1017/s0140525x99002034` returns **`425-444`**; the corpus form `425-489` is target-plus-commentary.
+
+  **LOCI, GREP-VERIFIED ACROSS ALL THREE TREES 2026-08-02.** Pylyshyn `157-238` → `157-182`: `obsidian/research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md` L157 (plus its `hugo/content/` mirror). Aggleton & Brown `425-489` → `425-444`: `obsidian/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy.md` L165 (plus its `hugo/content/` mirror). No `archive/` loci for either. **RE-GREP, DO NOT TRUST THE LIST** — run `grep -rn "157.238\|425.489" obsidian/ archive/ hugo/content/` before and after, match both hyphen and en-dash forms, and preserve each file's existing dash style. Leave `obsidian/workflow/` and `obsidian/reviews/` alone: historical record.
+
+  **THREE SIBLINGS WERE CHECKED AND ARE CORRECT — DO NOT TOUCH THEM.** The same triage verified at Crossref that `O'Regan & Noë 2001` **939-973** (DOI `10.1017/S0140525X01000115`), `Pessoa, Thompson & Noë 1998` **723-748** (DOI `10.1017/s0140525x98001757`) and `Revonsuo 2000` **877-901** (DOI `10.1017/s0140525x00004015`) are the target articles' own ranges. O'Regan & Noë in particular is a genuine 35-page target article — **a long range is not by itself evidence of the commentary-inclusive error**, which is why this family needs per-entry Crossref checks rather than a heuristic sweep.
+
+  **SCOPE FENCE — HARD.** Change **no body prose**: References-line digit normalisation only. Do not add or remove any citation, do not re-verify unrelated entries in these reference blocks, and do not re-open the mental-imagery or memory-hierarchy arguments.
+
+  **LENGTH.** Every edit is a same-length digit change; the files are length-neutral by construction and **no condense successor may be minted**.
+
+  **ATTRIBUTION.** Page-range normalisation is bookkeeping, not re-authoring. Hold each file's existing `ai_system` verbatim, bump `ai_modified` only on files actually changed from a live `date -u`, and leave `last_deep_review` untouched. Run `uv run python scripts/sync.py` and confirm the hugo mirrors agree.
+
 ## Completed Tasks
 
+
+### ✓ 2026-08-02: consciousness-interface-development breached the topics hard ceiling — 4,358w vs 4,000, and the terminal-lucidity block is now the article's largest passage in an article that declares it defers to a sibling
+- **Type**: condense
+- **File**: obsidian/topics/consciousness-interface-development.md
+- **Notes**: **Measured 2026-08-02: 4,358 words on the analyzer metric, `hard_warning` against a 4,000 topics ceiling. Decomposed per analyze-length-counts-reference-apparatus: 3,836 prose / 522 apparatus (22-item Further Reading + 24-item References), so prose alone is still under hard — this is a real but not emergency breach. Do not treat the apparatus as fat; both lists are the article's established background-bibliography convention and three prior reviews confirmed they are not orphan-reference defects.**
+  **Primary target: the terminal-lucidity block (~590 words, five paragraphs).** The article itself says of the phenomenon: "this one inherits that verdict rather than re-adjudicating it" — and then re-adjudicates it at length, including a full statistics dump duplicated from [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/), which owns the phenomenon. The compression available here is the whole breach and then some: the per-category percentages (orientation 67.8%, old memories 34.8%, functional abilities 27.7%) can collapse to the headline finding plus the 4.1% terminal fraction without losing an argumentative step, since the sibling carries the full table.
+  **⚠️ PRESERVE VERBATIM — these are load-bearing calibration anchors flagged across the 2026-06-21 and 2026-08-02 reviews, and condense-regresses-calibration-qualifiers is the standing hazard for exactly this article:** (a) the evidential-ambition disclaimer in the front matter ("*accommodated* by the interface model, not predicted uniquely by it" … "a claim about organising power, not about the facts discriminating in the model's favour"); (b) the three-caveat paragraph on the Tollock study (GSA meeting abstract / 10.7% enrolment / prevalence-and-phenomenology-only) — this is symmetric-scepticism discipline aimed at work cited *against* the Map and must not be trimmed as hedging; (c) the common-cause-null caveat ("should not be tallied as several independent confirmations"); (d) the constrain-versus-establish scoping sentence, which is three-way aligned with the sibling and with [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — the constraint rests on "the severity subset the retrospective autopsy cases document," NOT on the modal prospective episode, and collapsing that scoping would reintroduce the internal contradiction the 2026-08-02 deep review fixed; (e) the Tegmark decoherence deferral ("does not discharge the quantitative burden").
+  **Do not touch the Tollock figures while condensing.** They were publisher-verified at OUP + PMC on 2026-08-02 after a wrong value (27.8%) entered via an OpenAlex-sourced review. Baseline of record: 1,768 screened / 1,405 eligible / 151 enrolled (10.7%) / 93 with ≥1 event (61.6%) / 267 events / orientation 67.8% / old memories 34.8% / functional abilities 27.7% / terminal subtype 4.1%. If a figure is dropped in condensing, drop it — do not restate it from memory.
 
 ### ✓ 2026-08-02: the 2026-06-05 corpus-wide Wallace page-range "fix" propagated the WRONG value — three publisher-side sources give 415-439, and the completed task record still asserts 438 as verified
 - **Type**: refine-draft

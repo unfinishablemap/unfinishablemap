@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Readiness Void"
 created: 2026-03-04
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 target_section: voids
 consumed_by: "[[transit-void]]"
@@ -212,7 +212,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-566.
+- Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
 - Kornhuber, H. H., & Deecke, L. (1965). Hirnpotentialänderungen bei Willkürbewegungen und passiven Bewegungen des Menschen: Bereitschaftspotential und reafferente Potentiale. *Pflügers Archiv*, 284(1), 1-17.
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
 - Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (J. B. Brough, Trans.). Kluwer Academic.

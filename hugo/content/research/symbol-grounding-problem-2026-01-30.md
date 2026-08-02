@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-25 00:18:22+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-5-20250514
 concepts: []
 consumed_by: '[[symbol-grounding-problem]]'
 created: 2026-01-30
-date: '2026-06-25'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-06-25 00:18:22+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 related_articles: []
 title: Research Notes - Symbol Grounding Problem
 ---
@@ -221,7 +221,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 Harnad, S. (1990). The Symbol Grounding Problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346. https://arxiv.org/abs/cs/9906002
 
-Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 
 Searle, J. R. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 

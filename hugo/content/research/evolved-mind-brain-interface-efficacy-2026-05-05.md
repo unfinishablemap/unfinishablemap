@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-05
-date: '2026-05-13'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-05-13 00:00:00+00:00
+lastmod: 2026-08-02 00:00:00+00:00
 related_articles: []
 title: Research Notes - Evolved Mind-Brain Interface Efficacy as Explanatory Variable
   for the Human-Other-Animal Intelligence Gap
@@ -323,7 +323,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 20. Seeley, W. W., et al. (2012). Distinctive neurons of the anterior cingulate and frontoinsular cortex: A historical perspective. *Cerebral Cortex*, 22(2), 245–250.
 21. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 22. Stapp, H. P. (2008). Quantum interactive dualism: An alternative to materialism. https://www-physics.lbl.gov/~stapp/QID.pdf
-23. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–351. https://www.prospectivepsych.org/sites/default/files/pictures/Suddendorf-and-Corballis_2007.pdf
+23. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313. https://www.prospectivepsych.org/sites/default/files/pictures/Suddendorf-and-Corballis_2007.pdf
 24. Tomasello, M., & Moll, H. (2010). The gap is social: Human shared intentionality and culture. In P. M. Kappeler & J. B. Silk (Eds.), *Mind the gap: Tracing the origins of human universals* (pp. 331–349). Springer. https://dornsife.usc.edu/henrike-moll/wp-content/uploads/sites/404/2023/11/Tomasello_Moll_2010.pdf
 25. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 26. Veit, L., & Nieder, A. (2013). Abstract rule neurons in the endbrain support intelligent behaviour in corvid songbirds. *Nature Communications*, 4, 2878.

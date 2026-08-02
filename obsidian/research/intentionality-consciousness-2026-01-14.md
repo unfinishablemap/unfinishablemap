@@ -3,7 +3,7 @@ title: Research Notes - Intentionality and Consciousness
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T15:00:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 topics: []
 concepts: []
@@ -224,7 +224,7 @@ Based on this research, an article could:
 - Brentano, F. (1874/1995). *Psychology from an Empirical Standpoint*. Routledge.
 - Husserl, E. (1900-1901/2001). *Logical Investigations*. Routledge.
 - Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology*. Springer.
-- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 - Searle, J. (1992). *The Rediscovery of the Mind*. MIT Press.
 - Dretske, F. (1981). *Knowledge and the Flow of Information*. MIT Press.

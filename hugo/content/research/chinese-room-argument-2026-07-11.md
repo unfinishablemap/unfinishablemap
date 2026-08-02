@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 17:45:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-11
-date: '2026-07-11'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-07-11 17:45:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 related_articles: []
 title: Research Notes - The Chinese Room Argument
 ---
@@ -144,7 +144,7 @@ Paul M. Churchland and Patricia S. Churchland, "Could a Machine Think?" (*Scient
 
 | Year | Event / Publication | Significance |
 |---|---|---|
-| 1980 | Searle, "Minds, Brains, and Programs," *BBS* 3(3):417–457 | Original argument, published with 27 open-peer commentaries + Searle's replies (Systems, Robot, Brain Simulator, Other Minds, Combination, Many Mansions all appear here) |
+| 1980 | Searle, "Minds, Brains, and Programs," *BBS* 3(3):417–424 | Original argument, published with 27 open-peer commentaries + Searle's replies (Systems, Robot, Brain Simulator, Other Minds, Combination, Many Mansions all appear here) |
 | 1981 | Hofstadter & Dennett (eds.), *The Mind's I* | Reprints the argument with an influential critical reflection; "intuition pump" framing takes hold |
 | 1984 | Searle, *Minds, Brains and Science* (Reith Lectures; Harvard UP) | Compact 3-premise formalization of the argument |
 | 1990 | Searle, "Is the Brain's Mind a Computer Program?" *Sci Am* 262(1):26–31 | Popular restatement; adds the Connection Machine / neuron-simulation discussion |
@@ -166,7 +166,7 @@ For the downstream expand-topic task (target: `concepts/`):
 
 All four primary Searle/Churchland sources were web-verified by **title + venue** (not author+year), and the Searle quotations were **verbatim-checked against the primary 1980 text** (not WebSearch snippets):
 
-1. Searle, J. R. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences* **3**(3): 417–457. [Verified: SEP entry; PhilPapers SEAMBA; primary PDF. Published with 27 commentaries + author's reply.]
+1. Searle, J. R. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences* **3**(3): 417–424. [Verified: SEP entry; PhilPapers SEAMBA; primary PDF. Published with 27 commentaries + author's reply.]
 2. Searle, J. R. (1984). *Minds, Brains and Science*. Harvard University Press (1984 Reith Lectures). [Verified: SEP bibliography. Source of the compact 3-premise formalization.]
 3. Searle, J. R. (1990). "Is the Brain's Mind a Computer Program?" *Scientific American* **262**(1): 26–31 (Jan 1990). [Verified: Scientific American issue index; subtitle "No. A program merely manipulates symbols, whereas a brain attaches meaning to them."]
 4. Churchland, P. M. & Churchland, P. S. (1990). "Could a Machine Think?" *Scientific American* **262**(1): 32–37 (Jan 1990). [Verified: ADS 1990SciAm.262a..32C; PubMed 2294584; Sci Am issue index. Subtitle "Classical AI is unlikely to yield conscious machines; systems that mimic the brain might." Source of the Luminous Room parody.]

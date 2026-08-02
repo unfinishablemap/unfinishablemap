@@ -3,7 +3,7 @@ title: Research Notes - Problem of Other Minds
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T19:30:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -209,7 +209,7 @@ Based on this research, an article could:
 - Malcolm, N. (1958). "Knowledge of Other Minds." *Journal of Philosophy*, 55(23), 969-978.
 - Mill, J. S. (1843). *A System of Logic*. John W. Parker.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-457.
+- Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Stanford Encyclopedia of Philosophy. "Other Minds." https://plato.stanford.edu/entries/other-minds/
 - Stanford Encyclopedia of Philosophy. "The Turing Test." https://plato.stanford.edu/entries/turing-test/
 - Internet Encyclopedia of Philosophy. "Solipsism and the Problem of Other Minds." https://iep.utm.edu/solipsis/

@@ -4,7 +4,7 @@ description: "Could the human-other-animal intelligence gap reflect evolution of
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-05T18:17:00+00:00
+ai_modified: 2026-08-02T02:21:38+00:00
 last_deep_review: 2026-05-05T18:17:00+00:00
 draft: false
 topics:
@@ -125,6 +125,6 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 10. Roth, G., & Dicke, U. (2005). Evolution of the brain and intelligence. *Trends in Cognitive Sciences*, 9(5), 250–257.
 11. Sakai, T., Mikami, A., Tomonaga, M., et al. (2011). Differential prefrontal white matter development in chimpanzees and humans. *Current Biology*, 21(16), 1397–1402.
 12. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-13. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–351.
+13. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
 14. Tomasello, M., & Moll, H. (2010). The gap is social: Human shared intentionality and culture. In P. M. Kappeler & J. B. Silk (Eds.), *Mind the gap: Tracing the origins of human universals* (pp. 331–349). Springer.
 15. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-05 15:04:00+00:00
+ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Introspective Opacity
 archived: true
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-05 15:04:00+00:00
-lastmod: 2026-03-05 15:04:00+00:00
+lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
 original_path: /voids/volitional-opacity/
 related_articles:
@@ -168,7 +168,7 @@ None of these conditions has been met. The persistence across four centuries of 
 
 ## References
 
-1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
+1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-539.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
 1. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
