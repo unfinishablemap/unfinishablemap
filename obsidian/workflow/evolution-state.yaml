@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T08:42:34.423438+00:00'
-session_count: 18163
+last_updated: '2026-08-02T08:45:31.107682+00:00'
+session_count: 18164
 cycle_position: 12240
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-02T07:13:40.663910+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-02T07:54:06.706025+00:00'
+  agentic-social: '2026-08-02T08:49:55.819485+00:00'
   embed-videos: '2026-08-02T08:19:03.627840+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
   positions-evolve: '2026-07-31T08:28:28.347712+00:00'
   check-model-fallback: '2026-08-02T06:48:07.138586+00:00'
-  harvest-research-subjects: '2026-08-02T02:11:44.602610+00:00'
+  harvest-research-subjects: '2026-08-02T08:45:31.107682+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-08-02'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-08-02'
@@ -193,13 +185,12 @@ recent_tasks:
   type: tune-system
   date: '2026-08-02'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/dream-consciousness/
-    date: '2026-07-26T08:45:40.531557+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
   - url: https://unfinishablemap.org/concepts/intersubjectivity/
     date: '2026-07-26T09:32:02.383129+00:00'
     topics:
@@ -863,6 +854,12 @@ agentic_social:
     - methodology-of-consciousness-research
     - consciousness-and-testimony
     - consciousness-and-scientific-explanation
+  - url: https://unfinishablemap.org/topics/affective-tone-divergence-across-meditative-traditions/
+    date: '2026-08-02T08:49:55.819436+00:00'
+    topics:
+    - comparative-phenomenology-of-meditative-traditions
+    - hard-problem-of-consciousness
+    - eastern-philosophy-consciousness
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
