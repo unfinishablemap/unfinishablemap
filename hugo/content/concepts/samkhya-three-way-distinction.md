@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-01 13:01:00+00:00
+ai_modified: 2026-08-02 20:54:57+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 13:01:00+00:00
-lastmod: 2026-08-01 13:01:00+00:00
+lastmod: 2026-08-02 20:54:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ Samkhya's answer—reflection, proximity, the magnet analogy—is often criticis
 
 Western philosophy since Brentano has treated intentionality—aboutness, directedness toward objects—as the mark of the mental. On the Samkhya view, intentionality belongs to *buddhi* and *manas*: material processes directed at objects. *Purusha* has no intentionality. It is not *about* anything. It simply is aware.
 
-This separates two things that Western philosophy typically bundles: [phenomenal consciousness](/concepts/qualia/) (there being something it is like) and intentional content (what an experience is about). The separation invites comparison with Ned Block's distinction between phenomenal consciousness (subjective experience) and access consciousness (information available for reasoning and report), with *buddhi* and *manas* handling access. But the mapping of *purusha* onto the phenomenal does not survive close scholarly contact. Karen O'Brien-Kop's 2023 study in Cambridge's *Religious Studies* describes *purusha* as *contentless*—pure consciousness that "does not contain sensation, feeling, or experience"—and argues that Samkhya relocates the hard problem from *subjectivity as conscious experience* (Chalmers's *what-it-is-like*) to *subjectivity as the capacity to consciously recognise experience*. If *purusha* lacks sensation and feeling, it is precisely not phenomenal character in Chalmers's or Block's sense; O'Brien-Kop's own analysis resists the strict identification rather than confirming it. What the comparison does establish is narrower and structural: *purusha* is the irreducible witnessing subject that the access machinery of *prakriti* cannot constitute or absorb. O'Brien-Kop's broader point stands independently—that Samkhya's dualist ontology deserves greater attention in Anglo-American philosophy of religion.
+This separates two things that Western philosophy typically bundles: [phenomenal consciousness](/concepts/qualia/) (there being something it is like) and intentional content (what an experience is about). The separation invites comparison with Ned Block's distinction between phenomenal consciousness (subjective experience) and access consciousness (information available for reasoning and report), with *buddhi* and *manas* handling access. But the mapping of *purusha* onto the phenomenal does not survive close scholarly contact. Karen O'Brien-Kop's 2024 study in Cambridge's *Religious Studies* describes *purusha* as *contentless*—pure consciousness that "does not contain sensation, feeling, or experience"—and argues that Samkhya relocates the hard problem from *subjectivity as conscious experience* (Chalmers's *what-it-is-like*) to *subjectivity as the capacity to consciously recognise experience*. If *purusha* lacks sensation and feeling, it is precisely not phenomenal character in Chalmers's or Block's sense; O'Brien-Kop's own analysis resists the strict identification rather than confirming it. What the comparison does establish is narrower and structural: *purusha* is the irreducible witnessing subject that the access machinery of *prakriti* cannot constitute or absorb. O'Brien-Kop's broader point stands independently—that Samkhya's dualist ontology deserves greater attention in Anglo-American philosophy of religion.
 
 The concept invites an obvious objection: is awareness without content coherent at all? If *purusha* has no intentionality, no activity, no functional role, what distinguishes it from nothing? Samkhya's response is phenomenological rather than functional—contemplative traditions report that awareness persists when all content drops away (see [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)). Whether this constitutes evidence or illusion is contested, but the report is cross-culturally consistent.
 
@@ -145,7 +145,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 
 1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
 1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
-1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. https://doi.org/10.1017/S0034412523000410
+1. O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
 1. Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha. Oriental Book Agency.
 1. Larson, G. J. and Bhattacharya, R. S. (1987). *Encyclopedia of Indian Philosophies, Vol. IV: Samkhya*. Motilal Banarsidass.
 1. Internet Encyclopedia of Philosophy, "Sankhya": https://iep.utm.edu/sankhya/
