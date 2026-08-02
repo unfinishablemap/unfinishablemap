@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-07-30T18:54:15+00:00
+ai_modified: 2026-08-02T09:05:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ coalesced_from:
   - "/concepts/downward-causation/"
 ---
 
-Mental causation — the thesis that mental states cause physical effects — is the most pressing instance of downward causation, where higher-level properties influence lower-level processes. When you decide to raise your arm, the decision causes the arm to rise; when pain motivates avoidance, the pain causes the avoidance. Both claims seem obvious from experience yet face Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework responds: consciousness causes physical effects at points where physics is genuinely incomplete. In the terminology of [[psychophysical-laws|psychophysical laws]], this requires *[[psychophysical-laws|selection laws]]*—specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
+Mental causation — the thesis that mental states cause physical effects — is the most pressing instance of downward causation, where higher-level properties influence lower-level processes. When you decide to raise your arm, the decision causes the arm to rise; when pain motivates avoidance, the pain causes the avoidance. Both claims seem obvious from experience yet face Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework responds: consciousness causes physical effects at points collapse-involving readings of quantum mechanics leave open. In the terminology of [[psychophysical-laws|psychophysical laws]], this requires *[[psychophysical-laws|selection laws]]*—specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
 
 ## Downward Causation: The General Concept
 

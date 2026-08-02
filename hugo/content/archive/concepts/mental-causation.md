@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 13:28:57+00:00
+ai_modified: 2026-08-02 09:05:29+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Mental Causation and Downward Causation
 archived: true
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-24 22:09:00+00:00
-lastmod: 2026-07-31 13:28:57+00:00
+lastmod: 2026-08-02 09:05:29+00:00
 modified: *id001
 original_path: /concepts/mental-causation/
 related_articles:
@@ -60,7 +60,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Mental causation — one of the central problems in [philosophy of mind](/concepts/philosophy-of-mind/) — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
+Mental causation — one of the central problems in [philosophy of mind](/concepts/philosophy-of-mind/) — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points collapse-involving readings of quantum mechanics leave open.
 
 ## The Problem
 

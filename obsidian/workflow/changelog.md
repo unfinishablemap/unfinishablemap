@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T09:03:12+00:00'
+ai_modified: '2026-08-02T09:05:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 09:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Original score**: N/A (targeted one-phrase calibration fix, verified on disk by the cycle driver)
+- **Changes**: Lead paragraph's flat incompleteness claim — "at points where physics is genuinely incomplete" — hedged to "at points collapse-involving readings of quantum mechanics leave open", matching the register already installed on 2026-07-30 in the comparison-table cell and the `description:` frontmatter. This was the third and last flat instance in the file; the lead is the highest-extraction surface (search snippets, LLM retrieval), so the un-hedged version travelled furthest, detached from the falsifiability-dilemma correction 128 lines later. That passage, the degenerate/non-degenerate energy split, the Zeno relocates-the-gap paragraph, and the neuroplasticity cap were left untouched as instructed.
+- **Family closure**: the identical sentence survives in the article's two `coalesced_from` predecessors, which serve full bodies under archived URLs — `archive/concepts/mental-causation.md` (lead) and `archive/concepts/downward-causation.md` (lead + "Answers Kim" bullet, the latter hedged to "On collapse-involving readings, physics is incomplete at measurement"). All three hedged; obsidian→hugo sync run, hugo copies verified clean; frontmatter validated on all three.
+- **Out of scope, noted**: "genuinely incomplete" also appears in ~10 other live/archived articles (e.g. `topics/the-strong-emergence-of-consciousness.md` L127, `arguments/epiphenomenalism-argument.md` L201, `concepts/objections-to-interactionism.md`). Those are different files with their own contexts — some may be defensible in situ — and per the same-file-task-pileup discipline no tasks were minted; flagging here for a future per-context sweep decision.
+- **Published**: yes
 
 ## 2026-08-02 09:03 UTC - research-topic
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-07-30 18:54:15+00:00
+ai_modified: 2026-08-02 09:05:29+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:37:29+00:00
-lastmod: 2026-07-30 18:54:15+00:00
+lastmod: 2026-08-02 09:05:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Mental causation — the thesis that mental states cause physical effects — is the most pressing instance of downward causation, where higher-level properties influence lower-level processes. When you decide to raise your arm, the decision causes the arm to rise; when pain motivates avoidance, the pain causes the avoidance. Both claims seem obvious from experience yet face Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework responds: consciousness causes physical effects at points where physics is genuinely incomplete. In the terminology of [psychophysical laws](/concepts/psychophysical-laws/), this requires *[selection laws](/concepts/psychophysical-laws/)*—specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
+Mental causation — the thesis that mental states cause physical effects — is the most pressing instance of downward causation, where higher-level properties influence lower-level processes. When you decide to raise your arm, the decision causes the arm to rise; when pain motivates avoidance, the pain causes the avoidance. Both claims seem obvious from experience yet face Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework responds: consciousness causes physical effects at points collapse-involving readings of quantum mechanics leave open. In the terminology of [psychophysical laws](/concepts/psychophysical-laws/), this requires *[selection laws](/concepts/psychophysical-laws/)*—specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
 
 ## Downward Causation: The General Concept
 

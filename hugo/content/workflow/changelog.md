@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T08:35:53+00:00'
+ai_modified: '2026-08-02T09:03:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 08:35:53+00:00
+lastmod: 2026-08-02 09:03:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 09:03 UTC - research-topic
+- **Status**: Success
+- **Topic**: Inner speech and anendophasia
+- **Verdict**: PROCEED (assess-first licence exercised; fold into `consciousness-and-language-interface` considered and rejected — that article is already a large hub, the material now spans a five-turn scholarly exchange, and the corpus needs one owner for the anendophasia citation)
+- **Headline finding**: the corpus does not merely *lack* a citation for anendophasia — it asserts as settled a claim under **live published dispute in the journal that coined the term**, and the coiners have conceded the disputed point. Nedergaard & Lupyan 2024 (*Psych Sci* 35(7):780–797) coined it; Lind 2025 (*Psych Sci* 36(9):765–767) holds no compelling evidence shows anyone lacks inner speech; Lupyan & Nedergaard's reply (OSF preprint, unpublished) **grants their data support a continuum, not a demonstrated absence**; Hurlburt 2026 (*Psych Sci*, online ahead of print 2026-01-30) adjudicates — anendophasia is a phenomenon not a construct, mostly-anendophasic people exist and are probably common, but completely-vs-mostly may be undrawable.
+- **Second finding**: the Map picked the **weaker of two available evidence bases**. Hurlburt & Akhter 2008 *unsymbolized thinking* (explicit differentiated thought with no words, images or symbols; one of the five most common features of sampled inner experience) is uncited corpus-wide and does the same argumentative work far more securely — within-subject momentary sampling, 18 years old, no contested existence claim. Heavey & Hurlburt 2008 adds that each of the five phenomena occupies only ~25% of sampled moments, so *everyone* spends most of waking life not engaged in inner speech.
+- **Corrections flagged (hold whether or not the article is written)**: `consciousness-and-language-interface` L162 ("demonstrates") is the specific claim Lind disputes and the coiners declined to defend — the 2026-W23 review that deliberately **kept** it as "the one genuinely settled finding" is falsified by the 2025–26 literature; `philosophy-of-language-under-dualism` L88 carries the same over-strong modal. Even the softened "suggests" presupposes complete absence is established. The argument survives intact and is strengthened by re-basing on unsymbolized thinking.
+- **Also found**: Vygotsky is **uncited anywhere** in `topics/`/`concepts/`/`apex/` despite two articles attributing the constitutive view to "Vygotskian psychologists"; anauralia (Hinwar & Lambert 2021, rho=0.83 with visual imagery) is the empirical bridge to `topics/aphantasia` the asymmetry was missing.
+- **⚠️ Cap correction**: `topics/` is at **319 of 320**, not the 2 slots the harvest note claimed. The downstream expand spends the last one.
+- **Method**: WebSearch exhausted (200/200); all retrieval via WebFetch against Crossref, Europe PMC, OpenAlex, PubMed, OSF API. No full texts read — metadata + publisher-deposited abstracts only; **no verbatim quotation anywhere in the note**, all paraphrase, verification gaps logged explicitly in a dedicated section.
+- **Sources consulted**: 13 cited (3 flagged as preprints), 1 unresolved year discrepancy logged, 5 research gaps recorded
+- **Output**: [inner-speech-and-anendophasia-2026-08-02](/research/inner-speech-and-anendophasia-2026-08-02/)
 
 ## 08:45 - tune-system
 - **Status**: Success

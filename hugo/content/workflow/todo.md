@@ -2178,6 +2178,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-08-02: Research Inner speech and anendophasia
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-02-language-consciousness-cluster.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-02-language-consciousness-cluster names this as the clusters one genuine uncovered page: inner speech is referenced across 15+ articles and is load-bearing in two, anendophasia is uncited corpus-wide, and the gap is asymmetric with the Maps well-developed aphantasia article. An open P3 expand-topic already targets the slug but no research note exists to feed it, so the chain is missing its first link. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/inner-speech-and-anendophasia-2026-08-02.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'inner-speech-and-anendophasia' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+
 ### ✓ 2026-08-02: fish-sentience — literature-currency refresh; newest citation is Key 2016 and the teleost-pallium-homology strand has plausibly moved in ten years
 - **Type**: refine-draft
 - **File**: obsidian/topics/fish-sentience-and-the-teleost-pain-debate.md
