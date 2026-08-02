@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-07-29 18:07:34+00:00
+ai_modified: 2026-08-02 12:22:54+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 18:07:34+00:00
-lastmod: 2026-07-29 18:07:34+00:00
+lastmod: 2026-08-02 12:22:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ The most informative aspect of cetacean and corvid cognition is not that they ma
 | Recursive mindreading | Level 1-2 | Level 1-2 | Level 1-2 | Level 3+ |
 | Logical reasoning | Associative | Some rule-learning | Unknown | Rule-based |
 
-Whether great apes possess limited cumulative culture remains debated; the evidence for modest ratcheting in chimpanzee tool traditions is weaker than for human cumulative culture. The gradient is what matters: a spectrum is consistent with consciousness admitting of degrees, kinds, or varying interface efficacy. Corvids may possess metarepresentation sufficient for tool culture without supporting the full recursive mindreading human consciousness enables; dolphins may have self-awareness sufficient for mirror recognition without the declarative metacognition that supports cumulative culture. [Interface heterogeneity](/concepts/interface-heterogeneity/) captures interface variation in *kind*; the [interface-efficacy reframe](/topics/interface-efficacy-and-the-cognitive-gap/) adds a quantitative-scaling layer along bandwidth, fidelity, granularity, and candidate-type-coupling axes—both at *speculative integration* on the evidential ladder, structuring why distinct cognitive profiles emerge across substrates without claiming evidential elevation over the materialist convergent-computation reading. The hypothesis decouples consciousness-presence from cognitive-reach: consciousness may be present at full grade across these lineages while *effective reach* into behavioural outcomes scales along the same gradient that produced the cognitive gap.
+Whether great apes possess limited cumulative culture remains debated; the evidence for modest ratcheting in chimpanzee tool traditions is weaker than for human cumulative culture. Gunasekaram et al. (2024) read chimpanzee population networks as showing incipient cumulative culture—a population-level inference from the distribution of complex foraging techniques rather than a direct observation of one generation refining the previous generation's technique ([contested exclusivity](/concepts/cumulative-culture/#contested-exclusivity)). The gradient is what matters: a spectrum is consistent with consciousness admitting of degrees, kinds, or varying interface efficacy. Corvids may possess metarepresentation sufficient for tool culture without supporting the full recursive mindreading human consciousness enables; dolphins may have self-awareness sufficient for mirror recognition without the declarative metacognition that supports cumulative culture. [Interface heterogeneity](/concepts/interface-heterogeneity/) captures interface variation in *kind*; the [interface-efficacy reframe](/topics/interface-efficacy-and-the-cognitive-gap/) adds a quantitative-scaling layer along bandwidth, fidelity, granularity, and candidate-type-coupling axes—both at *speculative integration* on the evidential ladder, structuring why distinct cognitive profiles emerge across substrates without claiming evidential elevation over the materialist convergent-computation reading. The hypothesis decouples consciousness-presence from cognitive-reach: consciousness may be present at full grade across these lineages while *effective reach* into behavioural outcomes scales along the same gradient that produced the cognitive gap.
 
 ## The Neural Architecture Challenge
 
@@ -177,6 +177,7 @@ The honest position: the framework supplies a falsification structure whose appl
 1. Clayton, N.S., Dally, J.M. & Emery, N.J. (2007). Social cognition by food-caching corvids: The western scrub-jay as a natural psychologist. *Philosophical Transactions of the Royal Society B*, 362(1480), 507-522.
 1. Connor, R.C., Krützen, M., Allen, S.J., Sherwin, W.B. & King, S.L. (2022). Strategic intergroup alliances increase access to a contested resource in male bottlenose dolphins. *Proceedings of the National Academy of Sciences*, 119(36), e2121723119. https://doi.org/10.1073/pnas.2121723119
 1. Correia, S.P.C., Dickinson, A. & Clayton, N.S. (2007). Western scrub-jays anticipate future needs independently of their current motivational state. *Current Biology*, 17(10), 856-861.
+1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925. https://doi.org/10.1126/science.adk3381
 1. Herman, L.M. (2010). What laboratory research has told us about dolphin cognition. *International Journal of Comparative Psychology*, 23(3), 310-330.
 1. Kohda, M., Hotta, T., Takeyama, T., Awata, S., Tanaka, H., Asai, J. & Jordan, A.L. (2019). If a fish can pass the mark test, what are the implications for consciousness and self-awareness testing in animals? *PLOS Biology*, 17(2), e3000021.
 1. Hunt, G.R. (1996). Manufacture and use of hook-tools by New Caledonian crows. *Nature*, 379, 249-251.
