@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 12:12 UTC - refine-draft
+- **Status**: Success (task premise CONFIRMED — genuine instance, both defects fixed)
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Task premise VERIFIED, unlike the parent's own target**: `grep -c "Read, D\|Read, Manrique\|Cowan\|Miller, G"` over the whole article returned **0** before the edit. The sibling census that found this locus was right — the figure was carried bare, with no inline cite and nothing in References.
+- **Defect (a) — uncited figure, fixed.** Installed `(Read, Manrique & Walker 2022)` inline and the full reference entry, inherited **verbatim** from `topics/consciousness-and-cognitive-distinctiveness.md` L198 / `concepts/baseline-cognition.md` L233: vol **134**, article number **104496**, DOI `10.1016/j.neubiorev.2021.12.019`, **no page range** — Crossref returns 104496 for both page fields, so none was invented. Attribution not re-litigated (settled at the publisher 2026-07-29); Read (2008) not cited here, since it is only where the 2±1 notation originated and makes no Cowan comparison.
+- **Defect (b) — outdated comparison framing, fixed.** The sentence paired 2±1 against **Miller's 7±2**, the framing the corpus has moved away from. Re-framed to **Cowan's 4±1** with `(Cowan 2001)` inline and its reference entry (en-dash page range `87–114`, matching this file's house style rather than the hyphen variant in `baseline-cognition.md`). The difference is now described as *"this conservative two-fold expansion"*, matching the nine clean sibling loci. No new dialect composed.
+- **Settled hedge inherited verbatim** alongside the cite: *"The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [the capacity gap](/concepts/working-memory/#the-capacity-gap)."*
+- **Anchor + slug verified**: `## The Capacity Gap` exists at `concepts/working-memory.md` L71; `working-memory` is a unique slug across `obsidian/` and `archive/`, so the bare-slug wikilink resolves.
+- **Remit honoured**: the working-memory sentence only. The counterfactual-reasoning argument it supports, and the Byrne/counterfactual-void paragraph following it, were not touched.
+- **Length**: `analyze_length` 4803 → **4906** words against the apex hard ceiling of **5000** — 94 words of headroom remain, status `soft_warning` unchanged in both directions. The citation did not need funding from redundancy, so none was cut.
+- **Apex inheritance**: this is an apex article, so the corrected claim is what downstream synthesis readers now inherit — the stale 7±2 pairing is out of the synthesis layer.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` per instruction; adding a citation and correcting a comparison baseline is not re-authoring.
+- **Scope discipline**: the seven uncited `archive/` loci are covered by a separate P3 — not re-scoped into, no duplicates minted.
+- **Published**: yes
+
 ## 2026-08-02 12:07 UTC - refine-draft
 - **Status**: Success (task premise stale — real defect was a different one)
 - **File**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)

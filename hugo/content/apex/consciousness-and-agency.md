@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-08-02 00:36:56+00:00
+ai_modified: 2026-08-02 12:12:53+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-09 21:54:18+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-08-02 00:36:56+00:00
+lastmod: 2026-08-02 12:12:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ Together, these features answer the luck objection: the agent explains the diffe
 
 ## Counterfactual Reasoning and Deliberation
 
-Genuine choice requires more than selecting among options—it requires [counterfactual reasoning](/concepts/counterfactual-reasoning/), the capacity to represent alternatives and evaluate what would follow from each. Comparative psychology clarifies what this demands: a sated chimpanzee won't store food for future hunger because it cannot hold both its current state and the counterfactual hungry-future-self simultaneously—a working-memory limit (roughly 2±1 items versus humans' 7±2) that constrains maintaining actual situation, counterfactual premise, and consequences together.
+Genuine choice requires more than selecting among options—it requires [counterfactual reasoning](/concepts/counterfactual-reasoning/), the capacity to represent alternatives and evaluate what would follow from each. Comparative psychology clarifies what this demands: a sated chimpanzee won't store food for future hunger because it cannot hold both its current state and the counterfactual hungry-future-self simultaneously—a working-memory limit of approximately 2±1 items (Read, Manrique & Walker 2022), against roughly 4±1 for humans (Cowan 2001), that constrains maintaining actual situation, counterfactual premise, and consequences together. The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested—see [the capacity gap](/concepts/working-memory/#the-capacity-gap). Even this conservative two-fold expansion is what lets all three be held at once.
 
 Counterfactual reasoning is *how* consciousness causally engages with options—the mechanism that transforms selection from arbitrary quantum fluctuation into genuine deliberation. Without it, the agent's choice would be no better than a coin flip dressed in phenomenological clothing. Deliberation *feels* like holding multiple possibilities open, exploring their implications, and then settling on one. Selection without counterfactual evaluation would be mere preference expression; selection *through* counterfactual evaluation is the reasons-responsive authorship that grounds both free will and moral responsibility.
 
@@ -216,6 +216,8 @@ This article draws on all five tenets. **[Dualism](/tenets/#dualism)**: Agent ca
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035–4046.
 1. Khan, S., Huang, Y., Timuçin, D., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *Mind and Matter*, 17(1), 95–121.
+1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
 
 ## Source Articles
 
