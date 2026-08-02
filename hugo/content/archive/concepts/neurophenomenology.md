@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 16:30:44+00:00
+ai_modified: 2026-08-02 09:20:13+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Neurophenomenology and Contemplative Neuroscience
 archived: true
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-14 22:56:00+00:00
-lastmod: 2026-07-30 16:30:44+00:00
+lastmod: 2026-08-02 09:20:13+00:00
 modified: *id001
 original_path: /concepts/neurophenomenology/
 related_articles:
@@ -183,6 +183,7 @@ Meditation exhibits the structure of [self-forming actions](/topics/free-will/):
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Laukkonen, R.E. et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*, 280, 61-87.
+1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
 1. Sandved Smith, L. et al. (2025). Deep computational neurophenomenology. *Neuroscience of Consciousness*, 2025(1), niae053.
 1. Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.

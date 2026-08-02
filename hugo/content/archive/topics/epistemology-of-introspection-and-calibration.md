@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 18:48:00+00:00
+ai_modified: 2026-08-02 09:20:13+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Epistemology of First-Person Evidence
 archived: true
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 13:33:00+00:00
-lastmod: 2026-03-21 18:48:00+00:00
+lastmod: 2026-08-02 09:20:13+00:00
 modified: *id001
 original_path: /topics/epistemology-of-introspection-and-calibration/
 related_articles:
@@ -112,7 +112,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically: strongest for attended phenomenal content, weaker for background states, absent for causal processes. The calibration strategies map this gradient in detail.
 
-**Trainability.** Introspective skill improves with practice — meditation experience predicts introspective accuracy in a pattern consistent with genuine perceptual skill acquisition (Fox et al. 2012). The analogy is straightforward: an untrained listener hears noise where a trained musician hears harmonic structure; an untrained bird-watcher sees brown birds where an ornithologist sees distinct species. We do not conclude that bird song is unreliable data — we recognise that observation requires trained attention. [Neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) validation confirms trained reports predict neural signatures that untrained reports miss.
+**Trainability.** Introspective skill improves with practice — meditation experience predicts introspective accuracy in a pattern consistent with genuine perceptual skill acquisition (Fox et al. 2012). The analogy is straightforward: an untrained listener hears noise where a trained musician hears harmonic structure; an untrained bird-watcher sees brown birds where an ornithologist sees distinct species. We do not conclude that bird song is unreliable data — we recognise that observation requires trained attention. [Neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) work adds an independent channel: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures that untrained reports do not (Lutz et al. 2004).
 
 **Observer-modifying limitation.** William James observed that introspecting thought is "like seizing a spinning top to catch its motion" (*The Principles of Psychology*, 1890). Pre-reflective consciousness becomes reflective consciousness in the act of examination. Contemplative traditions acknowledge this structural constraint: Sartre's analysis of being-for-itself suggests consciousness cannot objectify itself without distortion. The best methods mitigate but cannot eliminate this transformation.
 
@@ -228,6 +228,7 @@ The honest acknowledgment: these strategies do not close the [measurement-void](
 1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Hagerty, M. R., et al. (2013). Case study of ecstatic meditation: fMRI and EEG evidence of self-stimulating a reward system. *Neural Plasticity*, 2013, 653572.
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
+1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
 1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.

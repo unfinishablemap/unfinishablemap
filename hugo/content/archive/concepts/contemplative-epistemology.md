@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-15 11:23:00+00:00
+ai_modified: 2026-08-02 09:20:13+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Contemplative Epistemology (unified with Contemplative
   Reliability)
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-15 11:23:00+00:00
-lastmod: 2026-02-15 11:23:00+00:00
+lastmod: 2026-08-02 09:20:13+00:00
 modified: *id001
 original_path: /concepts/contemplative-epistemology/
 related_articles:
@@ -66,7 +66,7 @@ How does contemplative practice produce knowledge? The framework identifies four
 
 The convergence claim requires a further qualification. These traditions are not fully independent: Buddhism emerged from Hindu contemplative culture, secular mindfulness derives from Buddhist vipassanā, and historical transmission between traditions (the Silk Road, the Alexandrian encounter between Greek and Indian thought) means overlapping reports could partly reflect shared lineage rather than independent discovery. The evidential weight of convergence is strongest where structural findings appear in traditions with minimal historical contact—and weakest where transmission channels are well documented. Contemplative epistemology must be honest about this gradient rather than treating all convergence as independent confirmation.
 
-**Predictive power.** Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy on a logarithmic learning curve: experienced meditators' subjective reports of tactile sensitivity across body regions correlate significantly better with cortical somatosensory maps than novices' reports. The trained contemplative observes their own phenomenology with measurably greater precision. More broadly, first-person reports from experienced meditators identify phenomenological distinctions—such as jhana progression—that subsequently prove to have distinct neural correlates (Hagerty et al., 2013).
+**Predictive power.** Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy on a logarithmic learning curve: experienced meditators' subjective reports of tactile sensitivity across body regions correlate significantly better with published cortical somatosensory maps than novices' reports. The trained contemplative observes their own phenomenology with measurably greater precision. More broadly, first-person reports from experienced meditators identify phenomenological distinctions—such as jhana progression—that subsequently prove to have distinct neural correlates (Hagerty et al., 2013).
 
 **Progressive disclosure.** Contemplative traditions describe a developmental phenomenology: deeper practice reveals structures invisible at earlier stages. Cessation experiences, jhana states, and the dissolution of subject-object boundaries become accessible only after sustained training. This mirrors how scientific instruments reveal phenomena invisible to the unaided senses—the telescope doesn't create Jupiter's moons, and meditation doesn't fabricate the phenomenological structures it discloses.
 

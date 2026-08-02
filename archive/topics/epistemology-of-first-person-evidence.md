@@ -3,7 +3,7 @@ title: "The Epistemology of First-Person Evidence"
 created: 2026-02-11
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-04-01T11:38:00+00:00
+ai_modified: 2026-08-02T09:20:13+00:00
 draft: false
 description: "What introspection provides, how reliable it is, and why phenomenal reports are indispensable to consciousness science. Husserl's evidence taxonomy, four models of introspective knowledge, five calibration strategies, and warranted trust."
 topics:
@@ -124,7 +124,7 @@ No standard model fully captures introspective epistemology. The Map's position 
 
 **Domain-variable reliability.** Strongest for attended phenomenal content, weaker for background states, absent for causal processes.
 
-**Trainability.** Meditation experience predicts introspective accuracy (Fox et al. 2012). [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenological]] validation confirms trained reports predict neural signatures that untrained reports miss — the kind of convergent evidence that grounds any scientific instrument's reliability.
+**Trainability.** Meditation experience predicts introspective accuracy (Fox et al. 2012). [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenological]] work supplies a second channel: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures (Lutz et al. 2004) — the kind of convergent evidence that grounds any scientific instrument's reliability.
 
 ## Competing Evidence Standards
 

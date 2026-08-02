@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-01 11:38:00+00:00
+ai_modified: 2026-08-02 09:20:13+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Phenomenal Authority and First-Person Evidence
 archived: true
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-01 11:38:00+00:00
-lastmod: 2026-04-01 11:38:00+00:00
+lastmod: 2026-08-02 09:20:13+00:00
 modified: *id001
 original_path: /topics/epistemology-of-first-person-evidence/
 related_articles:
@@ -128,7 +128,7 @@ No standard model fully captures introspective epistemology. The Map's position 
 
 **Domain-variable reliability.** Strongest for attended phenomenal content, weaker for background states, absent for causal processes.
 
-**Trainability.** Meditation experience predicts introspective accuracy (Fox et al. 2012). [Neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) validation confirms trained reports predict neural signatures that untrained reports miss — the kind of convergent evidence that grounds any scientific instrument's reliability.
+**Trainability.** Meditation experience predicts introspective accuracy (Fox et al. 2012). [Neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) work supplies a second channel: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures (Lutz et al. 2004) — the kind of convergent evidence that grounds any scientific instrument's reliability.
 
 ## Competing Evidence Standards
 

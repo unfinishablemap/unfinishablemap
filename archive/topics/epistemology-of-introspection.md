@@ -4,7 +4,7 @@ description: "What kind of knowledge does introspection provide? Human+AI analys
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-08-02T09:20:13+00:00
 draft: false
 topics:
   - "[[epistemology]]"
@@ -98,7 +98,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically across domains: strongest for attended phenomenal content, weaker for background states, and absent for causal processes. This gradient, which the [[epistemology-of-introspective-calibration|calibration strategies]] map in detail, reflects the structure of introspective access rather than a uniform capacity.
 
-**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [[neurophenomenology]] provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
+**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [[neurophenomenology]] provides the validation framework: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures that untrained reports do not (Lutz et al. 2004), supporting the view that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
 
 ## What Introspection Can Establish
 
@@ -147,6 +147,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 1. Evans, G. (1982). *The Varieties of Reference*. Oxford University Press.
 1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Gertler, B. (2011). Self-knowledge and the transparency of belief. In A. Hatzimoysis (Ed.), *Self-Knowledge*. Oxford University Press.
+1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
 1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
 1. Russell, B. (1912). *The Problems of Philosophy*. Williams & Norgate.
 1. Schwitzgebel, E. (2008). The unreliability of naive introspection. *Philosophical Review*, 117(2), 245-273.
