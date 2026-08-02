@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-07-31T09:19:00+00:00
+ai_modified: 2026-08-02T00:46:17+00:00
 last_deep_review: 2026-07-31T09:19:00+00:00
 draft: false
 topics:
@@ -49,7 +49,7 @@ Ned Block introduced "phenomenal consciousness" in 1995 to isolate the experient
 
 The defining mark is subjective character—the redness of seeing red, the sharpness of pain, the weighted feeling of sadness, the phenomenology of understanding (see [[cognitive-phenomenology]]).
 
-[[qualia]] are individual phenomenal properties—the redness of red, the painfulness of pain. P-consciousness is the broader category encompassing qualia plus the overall character of conscious states, experiential unity, and the subjective perspective itself. Qualia's features—intrinsic, private, ineffable, directly apprehensible—make P-consciousness resistant to third-person explanation.
+[[qualia]] are individual phenomenal properties—the redness of red, the painfulness of pain. P-consciousness is the broader category encompassing qualia plus the overall character of conscious states, experiential unity, and the subjective perspective itself. The features standardly ascribed to qualia—intrinsic, private, ineffable, directly apprehensible—are what make P-consciousness resistant to third-person explanation. That enumeration is Dennett's, compiled in *Quining Qualia* (1988) in order to dismantle it, and each item has a live opponent: [[first-order-representationalism|first-order representationalism]] denies intrinsicness, [[higher-order-theories|higher-order theories]] deny direct apprehension, and [[illusionism]] denies all four. The Map endorses the enumeration, but as its own committed reading of a contested notion rather than as definitional truth; [[qualia#Key Properties of Qualia|the qualia article]] sets out each property alongside the position that rejects it.
 
 ## The Access/Phenomenal Distinction {#distinction}
 

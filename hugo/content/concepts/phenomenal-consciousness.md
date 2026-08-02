@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-31 09:19:00+00:00
+ai_modified: 2026-08-02 00:46:17+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 09:19:00+00:00
-lastmod: 2026-07-31 09:19:00+00:00
+lastmod: 2026-08-02 00:46:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ Ned Block introduced "phenomenal consciousness" in 1995 to isolate the experient
 
 The defining mark is subjective character—the redness of seeing red, the sharpness of pain, the weighted feeling of sadness, the phenomenology of understanding (see [cognitive-phenomenology](/concepts/cognitive-phenomenology/)).
 
-[qualia](/concepts/qualia/) are individual phenomenal properties—the redness of red, the painfulness of pain. P-consciousness is the broader category encompassing qualia plus the overall character of conscious states, experiential unity, and the subjective perspective itself. Qualia's features—intrinsic, private, ineffable, directly apprehensible—make P-consciousness resistant to third-person explanation.
+[qualia](/concepts/qualia/) are individual phenomenal properties—the redness of red, the painfulness of pain. P-consciousness is the broader category encompassing qualia plus the overall character of conscious states, experiential unity, and the subjective perspective itself. The features standardly ascribed to qualia—intrinsic, private, ineffable, directly apprehensible—are what make P-consciousness resistant to third-person explanation. That enumeration is Dennett's, compiled in *Quining Qualia* (1988) in order to dismantle it, and each item has a live opponent: [first-order representationalism](/concepts/first-order-representationalism/) denies intrinsicness, [higher-order theories](/concepts/higher-order-theories/) deny direct apprehension, and [illusionism](/concepts/illusionism/) denies all four. The Map endorses the enumeration, but as its own committed reading of a contested notion rather than as definitional truth; [the qualia article](/concepts/qualia/#key-properties-of-qualia) sets out each property alongside the position that rejects it.
 
 ## The Access/Phenomenal Distinction {#distinction}
 
