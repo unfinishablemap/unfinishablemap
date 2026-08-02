@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-02 19:55:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-16
-date: '2026-07-16'
+date: '2026-08-02'
 draft: false
-lastmod: 2026-07-16 00:00:00+00:00
+lastmod: 2026-08-02 19:55:00+00:00
 related_articles: []
 title: Research Notes - Hemispherectomy and the Resilience of Unified Consciousness
 ---
@@ -24,11 +25,11 @@ title: Research Notes - Hemispherectomy and the Resilience of Unified Consciousn
 
 ## Assess-First Verdict: Worth Covering (Yes)
 
-Hemispherectomy — the removal (anatomical) or functional disconnection (functional hemispherectomy / hemispherotomy) of an entire cerebral hemisphere — is mentioned across ~8 Map files but has no dedicated home. It deserves a `topics/` article because it is arguably a **stronger** resilience datum than split-brain (callosotomy) for the fragmentation flagship. In callosotomy the "two streams" reading is at least *available*: there is a second, intact hemisphere that could in principle host a rival conscious stream, and the literature genuinely debates whether it does. In hemispherectomy there is no second hemisphere. You cannot even *ask* "one mind or two?" — there is only one candidate substrate — yet unified consciousness, a single personality, and (especially in children) near-normal cognition survive the loss of roughly half the cortex. The resilience of unity across massive substrate loss is exactly the kind of datum the Map's filter/interface framework wants to interpret, and the physicalist reorganization reading is a live competitor. High-value, non-duplicative.
+Hemispherectomy — the removal (anatomical) or functional disconnection (functional hemispherectomy / hemispherotomy) of an entire cerebral hemisphere — is mentioned across ~8 Map files but has no dedicated home. It deserves a `topics/` article because it is arguably a **stronger** resilience datum than split-brain (callosotomy) for the fragmentation flagship. In callosotomy the "two streams" reading is at least *available*: there is a second, intact hemisphere that could in principle host a rival conscious stream, and the literature genuinely debates whether it does. In *anatomical* hemispherectomy there is no second hemisphere. You cannot even *ask* "one mind or two?" — there is only one candidate substrate — yet unified consciousness, a single personality, and (especially in children) near-normal cognition survive the loss of roughly half the cortex. **The claim must be restricted to the anatomical subtype**: in a *functional* hemispherectomy / hemispherotomy the hemisphere is disconnected but remains in the skull, perfused and alive, so the "one mind or two?" question is exactly posable — arguably more sharply than in callosotomy, the disconnection being more complete. See the "Islands of Awareness" caveat below before writing the sharper-case argument. The resilience of unity across massive substrate loss is exactly the kind of datum the Map's filter/interface framework wants to interpret, and the physicalist reorganization reading is a live competitor. High-value, non-duplicative.
 
 ## Executive Summary
 
-Hemispherectomy removes or disconnects an entire cerebral hemisphere, most often to stop catastrophic drug-resistant epilepsy (Rasmussen encephalitis, hemimegalencephaly / cortical dysplasia, Sturge-Weber, perinatal stroke). Long-term series (Johns Hopkins: Vining et al. 1997, n=58; Pulsifer et al. 2004, n=71) show that most survivors are seizure-free or greatly improved, that IQ typically changes little, and that personality and unified selfhood are preserved. When surgery is early, the remaining hemisphere can take over functions — including language after left-hemisphere removal — normally lateralized to the excised side (Curtiss & de Bode). Modern connectome work (Kliemann et al. 2019, Cell Reports, six adults; adult case reports) shows the surviving hemisphere reorganizes, with *increased between-network connectivity* relative to controls. The philosophical payload: unity of consciousness is robust to the loss of half the physical substrate, but this is **compatible with both** a filter/production reading and a physicalist plasticity reading. Hemispherectomy sharpens the discriminating question; it does not by itself settle it. Apply possibility-not-proof discipline.
+Hemispherectomy removes or disconnects an entire cerebral hemisphere, most often to stop catastrophic drug-resistant epilepsy (Rasmussen encephalitis, hemimegalencephaly / cortical dysplasia, Sturge-Weber, perinatal stroke). Long-term series (Johns Hopkins: Vining et al. 1997, n=58; Pulsifer et al. 2004, n=71) show that most survivors are seizure-free or greatly improved, that IQ typically changes little, and that personality and unified selfhood are preserved. When surgery is early, the remaining hemisphere can take over functions — including language after left-hemisphere removal — normally lateralized to the excised side (Curtiss, de Bode & Mathern 2001). Modern connectome work (Kliemann et al. 2019, Cell Reports, six adults; adult case reports) shows the surviving hemisphere reorganizes, with *increased between-network connectivity* relative to controls. The philosophical payload: unity of consciousness is robust to the loss of half the physical substrate, but this is **compatible with both** a filter/production reading and a physicalist plasticity reading. Hemispherectomy sharpens the discriminating question; it does not by itself settle it. Apply possibility-not-proof discipline.
 
 ## Key Sources
 
@@ -55,9 +56,10 @@ Hemispherectomy removes or disconnects an entire cerebral hemisphere, most often
   - Etiologies: 27 cortical dysplasia, 37 Rasmussen, 7 vascular/stroke.
 - **Tenet alignment**: Neutral data; supports the resilience claim (half the cortex removed, cognition largely conserved).
 
-### Curtiss & de Bode (2003), "Spoken Language Outcomes After Hemispherectomy: Factoring in Etiology"
-- **URL**: https://www.semanticscholar.org/paper/a1f72ddfd4f3049cb96a610570ddbd5c2264a8d6 (also linguistics.ucla.edu/people/curtiss/HemiPub.doc)
-- **Citation**: Curtiss S, de Bode S. *Brain and Language*. 2003;86(2):193-206. (Analysis of 43 UCLA hemispherectomy patients; spoken language rated 0-6.)
+### Curtiss, de Bode & Mathern (2001), "Spoken Language Outcomes After Hemispherectomy: Factoring in Etiology"
+- **URL**: https://pubmed.ncbi.nlm.nih.gov/11781049/
+- **Citation**: Curtiss S, de Bode S, Mathern GW. *Brain and Language*. 2001;79(3):379-396. doi:10.1006/brln.2001.2487. (Analysis of 43 UCLA hemispherectomy patients; spoken language rated 0-6.)
+- **⚠ Metadata correction (2026-08-02, verified at Europe PMC)**: this entry previously spliced the 2001 title onto the year/volume/pages of a *different* Curtiss & de Bode paper — "How normal is grammatical development in the right hemisphere following hemispherectomy?", *Brain and Language* 2003;86(2):193-206, PMID 12921764 — and dropped the third author. The 43-patient spoken-language content belongs to the **2001** paper. The 2026-07-16 deep review caught this in the downstream article but not here, and its own replacement PubMed link (PMID 11781047) resolved to an unrelated paper by Luzzatti et al. in the same journal issue. Correct identifier is **PMID 11781049**.
 - **Type**: Peer-reviewed developmental-linguistics study
 - **Key points**:
   - After *left* hemispherectomy in childhood the *right* hemisphere can take over language; receptive and (to a lesser extent) expressive functions are often spared.
@@ -107,9 +109,17 @@ Hemispherectomy removes or disconnects an entire cerebral hemisphere, most often
 - **Key arguments**: The self/personality persists intact; there is never a hint of "half a person"; unity does not track cortical mass.
 - **Relation to site tenets**: Aligns with filter-theory and bidirectional interaction. But — crucially — it is *compatible* with the same data as the physicalist reading. Both predict preserved unity. Honesty requires stating this.
 
-### The Split-Brain Contrast (why hemispherectomy is the sharper case)
+### The Split-Brain Contrast (why *anatomical* hemispherectomy is the sharper case)
 - In callosotomy, two hemispheres remain; the "two streams" interpretation (Sperry/Gazzaniga classic picture) is at least *available*, and recent work (Pinto et al. 2017, *Brain*, "divided perception but undivided consciousness"; Volz & Gazzaniga 2017) contests whether there are really two conscious subjects.
-- In hemispherectomy there is only one hemisphere, so the "two streams" question **cannot even be posed**. Unity is not the *survival of one stream over a rival* — there is no rival. This removes the split-brain escape hatch and isolates the datum: unity persists through massive substrate loss per se.
+- In **anatomical** hemispherectomy there is only one hemisphere left, so the "two streams" question **cannot even be posed**. Unity is not the *survival of one stream over a rival* — there is no rival. This removes the split-brain escape hatch and isolates the datum: unity persists through massive substrate loss per se.
+- **The contrast does NOT extend to the functional subtype.** In a functional hemispherectomy / hemispherotomy the hemisphere is disconnected but remains in situ, perfused and metabolically alive, so the "two streams" question is exactly posable there. Modern practice favours the functional variants, and the note's own adult-onset case (Fisher et al. 2022) is one — its abstract describes the loss as "near-complete". Any downstream article must restrict the sharper-case argument to the anatomical subtype rather than asserting it of "hemispherectomy" tout court.
+
+### Islands of Awareness (the objection the sharper-case argument must engage)
+- **Bayne T, Seth AK, Massimini M. "Are there islands of awareness?" *Trends in Neurosciences*. 2020;43(1):6-16. doi:10.1016/j.tins.2019.11.003.** Metadata verified 2026-08-02 at PubMed (PMID 31836316), OpenAlex, and Europe PMC — all three agree on title, authors, volume, issue, pages, and DOI.
+- Their term for the target phenomenon, quoted verbatim from the abstract: conscious states "neither shaped by sensory input nor able to be expressed by motor output."
+- The Opinion paper considers several conditions in which such islands *might* occur — explicitly including **hemispherotomy**, alongside ex cranio brains and cerebral organoids — and examines what evidence could detect one. It poses the question rather than answering it; do not report it as claiming that disconnected hemispheres are conscious.
+- Note this cuts both ways: if a disconnected hemisphere could host an island of awareness, the filter reading owes an account of what makes severed cortex an interface for anyone, just as the production reading owes an account of what makes it a producer. Not a point for either side.
+- **DO NOT chase Gauvry & Rüber (bioRxiv 2025.02.10.637383)**, cited for this point by the 2026-07-18 Gemini outer review: the review gives a self-contradictory double title, a hallmark of a conflated or fabricated reference. Bayne, Seth & Massimini (2020) is the verified entry point.
 
 ## Key Debates
 
@@ -128,15 +138,16 @@ Hemispherectomy removes or disconnects an entire cerebral hemisphere, most often
 | 1928 | Dandy performs early anatomical hemispherectomies (adult glioma) | Establishes survival is possible with one hemisphere |
 | 1950s | Krynauw popularizes hemispherectomy for infantile hemiplegia + epilepsy | Pediatric use for seizure control |
 | 1997 | Vining et al., *Pediatrics* (n=58) | Landmark long-term pediatric outcome series; "why would you remove half a brain" |
-| 2003 | Curtiss & de Bode, *Brain and Language* (n=43) | Right hemisphere assumes language after left removal; plasticity beyond critical period |
+| 2001 | Curtiss, de Bode & Mathern, *Brain and Language* 79(3):379-396 (n=43) | Right hemisphere assumes language after left removal; plasticity beyond critical period |
 | 2004 | Pulsifer et al., *Epilepsia* (n=71) | IQ largely stable; cognition conserved |
 | 2019 | Kliemann et al., *Cell Reports* (n=6 adults) | Connectome: increased between-network connectivity as reorganization signature |
 | 2022 | Granovetter et al., *PNAS* | One hemisphere supports word+face recognition but is "suboptimal" — bounded resilience |
-| 2022 | Kim et al., *Frontiers in Neurology* (adult-onset case) | Reorganization + preserved unity even with adult-onset loss |
+| 2020 | Bayne, Seth & Massimini, *Trends in Neurosciences* 43(1):6-16 | "Islands of awareness": is a disconnected-but-perfused hemisphere conscious? The objection the sharper-case argument must engage |
+| 2022 | Fisher et al., *Frontiers in Neurology* 13:885115 (adult-onset **functional** case, n=1) | Reorganization + preserved unity even with adult-onset loss — but a disconnection case, not a removal case |
 
 ## Potential Article Angles (for the downstream `topics/` expand-topic task)
 
-1. **"Unity survives half a brain" resilience angle** (recommended): Lead with the clinical fact — whole-hemisphere removal preserves a single unified self, personality, humor, and largely intact cognition — then argue this is the *sharper* resilience datum than split-brain because the "two streams" question cannot even arise. Then apply possibility-not-proof: unity's robustness to substrate loss is *consistent with* filter/interface but does not refute reorganization physicalism. Close on the discriminating question, honestly stated.
+1. **"Unity survives half a brain" resilience angle** (recommended): Lead with the clinical fact — losing a whole hemisphere, whether by removal or by disconnection, preserves a single unified self, personality, humor, and largely intact cognition — then argue that *for the anatomical subtype* this is the sharper resilience datum than split-brain, because there the "two streams" question cannot even arise. **Restrict the claim explicitly, and engage the functional subtype and Bayne, Seth & Massimini (2020) rather than passing over them.** Then apply possibility-not-proof: unity's robustness to substrate loss is *consistent with* filter/interface but does not refute reorganization physicalism. Close on the discriminating question, honestly stated.
 2. **"What hemispherectomy does NOT show" angle**: A disciplined article foregrounding the physicalist reading (Kliemann/Behrmann reorganization) and the Granovetter "suboptimal" bound, positioning the Map's reading as *one live interpretation* rather than the forced conclusion. Strong tenet-honesty; pairs well with the falsification roadmap.
 3. **Interface-degradation angle**: Frame lost hemisphere as lost *interface channels* — bandwidth/specialization degrade ("suboptimal"), self stays whole — tying directly to `interface-heterogeneity` and `filter-theory`.
 
@@ -166,7 +177,8 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the clinica
 
 1. Vining EPG, Freeman JM, Pillas DJ, et al. Why would you remove half a brain? The outcome of 58 children after hemispherectomy—the Johns Hopkins experience: 1968 to 1996. *Pediatrics*. 1997;100(2):163-171. https://publications.aap.org/pediatrics/article-abstract/100/2/163/38963/
 2. Pulsifer MB, Brandt J, Salorio CF, Vining EPG, Carson BS, Freeman JM. The cognitive outcome of hemispherectomy in 71 children. *Epilepsia*. 2004;45(3):243-254. https://pubmed.ncbi.nlm.nih.gov/15009226/
-3. Curtiss S, de Bode S. Spoken language outcomes after hemispherectomy: factoring in etiology. *Brain and Language*. 2003;86(2):193-206. https://www.semanticscholar.org/paper/a1f72ddfd4f3049cb96a610570ddbd5c2264a8d6
+3. Curtiss S, de Bode S, Mathern GW. Spoken language outcomes after hemispherectomy: factoring in etiology. *Brain and Language*. 2001;79(3):379-396. doi:10.1006/brln.2001.2487. https://pubmed.ncbi.nlm.nih.gov/11781049/
 4. Kliemann D, Adolphs R, Tyszka JM, et al. Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere. *Cell Reports*. 2019;29(8):2398-2407.e4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6914265/
 5. Granovetter MC, Robert S, Ettensohn L, Behrmann M. With childhood hemispherectomy, one hemisphere can support—but is suboptimal for—word and face recognition. *PNAS*. 2022;119(44):e2212936119. https://www.pnas.org/doi/10.1073/pnas.2212936119
-6. Kim K, et al. Case report: resting-state brain-networks after near-complete hemispherectomy in adulthood. *Frontiers in Neurology*. 2022;13:885115. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9226565/
+6. Fisher PM, Albrechtsen SS, Nersesjan V, Amiri M, Kondziella D. Case report: resting-state brain-networks after near-complete hemispherectomy in adulthood. *Frontiers in Neurology*. 2022;13:885115. doi:10.3389/fneur.2022.885115. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9226565/
+7. Bayne T, Seth AK, Massimini M. Are there islands of awareness? *Trends in Neurosciences*. 2020;43(1):6-16. doi:10.1016/j.tins.2019.11.003. https://pubmed.ncbi.nlm.nih.gov/31836316/
