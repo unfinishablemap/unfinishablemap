@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-02T00:50:36.848841+00:00'
-session_count: 18123
+last_updated: '2026-08-02T01:08:37.302907+00:00'
+session_count: 18124
 cycle_position: 12221
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-07-31T04:10:26.501114+00:00'
   refine-draft: '2026-08-02T00:50:01.328716+00:00'
   research-topic: '2026-08-01T12:31:18.854698+00:00'
-  replenish-queue: '2026-08-02T00:20:08.570965+00:00'
+  replenish-queue: '2026-08-02T01:08:37.302907+00:00'
   condense: '2026-08-01T23:13:24.083140+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-01T12:41:37.695763+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-01'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-01'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-08-02'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-02'
   outcome: success
 agentic_social:
@@ -928,74 +928,167 @@ queue_status:
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_923_note: |-
-    run no.923 (2026-08-02T01:04Z, cycle-driven /replenish-queue): MINTED TWO P2 TASKS
+  run_923_note: 'run no.923 (2026-08-02T01:04Z, cycle-driven /replenish-queue): MINTED
+    TWO P2 TASKS
+
     FROM A DIVERGENT-CITATION-YEAR LENS. Floor restored 2 -> 4.
 
+
     COUNTS re-derived live via tools.todo.processor.parse_tasks and
+
     tools.evolution.task_selector.select_queue_task.
+
     BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor.
-    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 922 was
+
+    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 922
+    was
+
     run 921s (skill-delegation refine, commit 0b1bdf9aa; qualia recalibration, commit
-    1b4a4f7a7); BOTH of run 922s P2s are still open at lines 2044 and 2062, notes 6527
-    and 7969 chars, byte-identical post-write. Bottom-inserted at 2079 and 2103 so FIFO
+
+    1b4a4f7a7); BOTH of run 922s P2s are still open at lines 2044 and 2062, notes
+    6527
+
+    and 7969 chars, byte-identical post-write. Bottom-inserted at 2079 and 2103 so
+    FIFO
+
     drains run 922s pair first and no existing anchor shifted (verified: both pre-existing
+
     P2 headers still at their prior line numbers).
 
+
     THE LENS -- SAME WORK, DIVERGENT YEAR, ACROSS FILES. Sibling of run 922s page-range
-    lens, same mechanics on a different field: extract every reference-style line carrying
-    (Author, Year) plus a quoted-or-italicised title across obsidian/ and archive/, key by
-    (surname, first three non-stopword title words), report keys carrying more than one
+
+    lens, same mechanics on a different field: extract every reference-style line
+    carrying
+
+    (Author, Year) plus a quoted-or-italicised title across obsidian/ and archive/,
+    key by
+
+    (surname, first three non-stopword title words), report keys carrying more than
+    one
+
     distinct year. 4588 keys, 90 divergent-year families.
 
-    THE DOMINANT FALSE-POSITIVE CLASS IS EDITIONS AND TRANSLATIONS -- RECORD IT, it is
+
+    THE DOMINANT FALSE-POSITIVE CLASS IS EDITIONS AND TRANSLATIONS -- RECORD IT, it
+    is
+
     most of the 90. Legitimate divergences seen: Husserl 1928/1991 (Brough trans.),
+
     Bergson 1889/1910 (Pogson trans.), Merleau-Ponty 1945/1962, Wittgenstein 1921/1922
+
     (Ogden trans.), Stapp Mindful Universe 2007/2011 (1st/2nd ed.), Kastner 2012/2022
+
     (1st/2nd ed.), Gallagher and Zahavi 2012/2020 (2nd/3rd ed.), Strawson 1994/2010,
-    Locke 1689/1690 (title-page date). FILTERING ON AN EDITION MARKER IN THE LINE IS NOT
-    SUFFICIENT -- most loci carry a bare "(YEAR). Publisher." with no marker at all. The
-    discriminating question is whether the two years denote DIFFERENT PUBLICATION EVENTS
+
+    Locke 1689/1690 (title-page date). FILTERING ON AN EDITION MARKER IN THE LINE
+    IS NOT
+
+    SUFFICIENT -- most loci carry a bare "(YEAR). Publisher." with no marker at all.
+    The
+
+    discriminating question is whether the two years denote DIFFERENT PUBLICATION
+    EVENTS
+
     of the same work (legitimate) or the SAME event dated two ways (defect). One key
+
     collision also surfaced: Bayne and Chalmers 2003 "What is the unity of consciousness?"
+
     collided with Bayne 2010 "The Unity of Consciousness" -- genuinely different works.
 
+
     WHAT SURVIVED, AND WHY THESE TWO.
-    (1) KRIPKE -- the defect is a TUPLE, not a year: "1972" + "Harvard University Press"
-    pairs the Reidel chapter's year with the standalone book's publisher. Already diagnosed
+
+    (1) KRIPKE -- the defect is a TUPLE, not a year: "1972" + "Harvard University
+    Press"
+
+    pairs the Reidel chapter''s year with the standalone book''s publisher. Already
+    diagnosed
+
     and fixed in exactly ONE file by deep-review-2026-07-17 (L34) and never propagated;
-    deep-review-2026-05-27 (L35) had spotted the corpus-wide divergence, correctly ruled it
-    bibliographic ambiguity, and concluded "No fix; no propagation needed" -- right about the
-    divergence, wrong about the tuple, because it was inspecting a file that already read
-    1980 + Harvard. Five broken loci remain across live/archive/research, plus one ratifying
-    review ledger (deep-review-2026-06-26-dualism L56, "real-correct (canon)"). No web call
+
+    deep-review-2026-05-27 (L35) had spotted the corpus-wide divergence, correctly
+    ruled it
+
+    bibliographic ambiguity, and concluded "No fix; no propagation needed" -- right
+    about the
+
+    divergence, wrong about the tuple, because it was inspecting a file that already
+    read
+
+    1980 + Harvard. Five broken loci remain across live/archive/research, plus one
+    ratifying
+
+    review ledger (deep-review-2026-06-26-dualism L56, "real-correct (canon)"). No
+    web call
+
     needed: the canonical dual form is live at concepts/kripke-a-posteriori-necessity-argument.md
+
     L78-79 and web-verified in the 07-12 research note.
-    (2) CHALMERS "Phenomenal Concepts and the Explanatory Gap" -- 9 live loci split 4x 2006 /
+
+    (2) CHALMERS "Phenomenal Concepts and the Explanatory Gap" -- 9 live loci split
+    4x 2006 /
+
     5x 2007 on an IDENTICAL venue string, and THE CORPUS HAS RATIFIED BOTH:
-    deep-review-2026-05-31-phenomenal-acquaintance L33 moved a file 2006->2007 "for cross-corpus
-    consistency"; deep-review-2026-07-31-phenomenal-consciousness L40 refused the same move,
-    called it "a false fix", and named the mechanism (print volume vs Oxford Scholarship Online
-    edition date). The task is scoped to SETTLE THE CONVENTION and record it inside the canonical
-    reference entry, NOT to pick a year -- a year-only sweep is what produced the oscillation.
 
-    CANDIDATE REJECTED AS A DUPLICATE -- O'Brien-Kop 2023/2024, 9 loci, and the cleanest-looking
-    family in the whole scan (identical volume/issue/pages under two different years). An open P3
-    at line 2012 already owns the last two loci with fuller detail than this run would have
-    written. Grepping the author surname against open task NOTES, not just task TITLES, is what
-    caught it -- the title says only "O'Brien-Kop citation".
+    deep-review-2026-05-31-phenomenal-acquaintance L33 moved a file 2006->2007 "for
+    cross-corpus
 
-    SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files is 0);
-    length_analysis -- the only live over-threshold content is positions registers (condensing a
-    register is a category error) and epistemology-of-convergence-arguments, explicitly vetoed as
-    churn-prone; unconsumed_research and gap_analysis -- topics 318/320 and concepts 318/320 leave
-    two slots each and voids is at cap 100/100, so expand-topic is effectively blocked; staleness
+    consistency"; deep-review-2026-07-31-phenomenal-consciousness L40 refused the
+    same move,
+
+    called it "a false fix", and named the mechanism (print volume vs Oxford Scholarship
+    Online
+
+    edition date). The task is scoped to SETTLE THE CONVENTION and record it inside
+    the canonical
+
+    reference entry, NOT to pick a year -- a year-only sweep is what produced the
+    oscillation.
+
+
+    CANDIDATE REJECTED AS A DUPLICATE -- O''Brien-Kop 2023/2024, 9 loci, and the cleanest-looking
+
+    family in the whole scan (identical volume/issue/pages under two different years).
+    An open P3
+
+    at line 2012 already owns the last two loci with fuller detail than this run would
+    have
+
+    written. Grepping the author surname against open task NOTES, not just task TITLES,
+    is what
+
+    caught it -- the title says only "O''Brien-Kop citation".
+
+
+    SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files
+    is 0);
+
+    length_analysis -- the only live over-threshold content is positions registers
+    (condensing a
+
+    register is a category error) and epistemology-of-convergence-arguments, explicitly
+    vetoed as
+
+    churn-prone; unconsumed_research and gap_analysis -- topics 318/320 and concepts
+    318/320 leave
+
+    two slots each and voids is at cap 100/100, so expand-topic is effectively blocked;
+    staleness
+
     -- deep-review pool converged.
 
-    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session. git status and a
-    live re-parse were taken immediately before the write; only todo.md and this file were dirty.
-    REVERT only if a sibling replenish double-restores this slot. Pruned run_920_note to hold the
-    note ring at three.
+
+    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session. git
+    status and a
+
+    live re-parse were taken immediately before the write; only todo.md and this file
+    were dirty.
+
+    REVERT only if a sibling replenish double-restores this slot. Pruned run_920_note
+    to hold the
+
+    note ring at three.'
   run_922_note: 'run no.922 (2026-08-02T00:20Z, cycle-driven /replenish-queue): MINTED
     TWO P2 TASKS FROM A NEW DIVERGENT-REFERENCE-METADATA LENS. Floor restored 2 ->
     4.
