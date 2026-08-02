@@ -4,7 +4,7 @@ description: "Human+AI analysis of inventory blindness—the epistemic condition
 created: 2026-03-22
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-01T06:00:00+00:00
+ai_modified: 2026-08-02T18:22:07+00:00
 last_deep_review: 2026-07-14T19:11:47+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-22
 last_curated:
 ---
@@ -83,6 +83,14 @@ The [[biological-cognitive-closure]] shows how both innate constraints and devel
 The [[recognition-void]] is where the concept was first identified on the Map. Recognition succeeds silently or fails pathologically; you cannot audit what your recognition system fails to reach. The Capgras-prosopagnosia double dissociation reveals hidden components only because damage makes them *separately* visible — not because introspection could have surveyed them. [[capgras-delusion-and-the-affective-recognition-channel|Capgras delusion]] is the sharp case: the affective-familiarity signal fails and the patient registers a felt wrongness without any introspective report of what has gone offline.
 
 More broadly, every void in the Map's taxonomy is deepened by inventory blindness. The [[voids|voids framework]] catalogues limits as unexplored, unexplorable, or occluded. Inventory blindness is the mechanism by which unexplorable limits conceal their own existence — the reason the occluded category is not merely difficult to investigate but structurally resistant to discovery.
+
+## What Would Challenge This View?
+
+The central prediction of inventory blindness is a null one: a mind missing a cognitive capacity registers nothing where the capacity would have been. That same null result is predicted by the case where nothing is missing. A mind whose conceptual repertoire really is adequate to its subject matter also experiences that repertoire as complete, also finds no felt gaps, also produces no tip-of-the-tongue signal for concepts it does not lack. Felt completeness is therefore compatible with closure and with its absence, and it cannot be cited as evidence for either. Any argument of the form "closure would be invisible from the inside, and invisibility is what we find" trades on that symmetry — the observation is entailed by the hypothesis without being diagnostic of it. Inventory blindness explains why closure *would* be undetectable if it obtained; it supplies no reason to think it obtains. Articles that cite this concept inherit the bound: the mechanism licenses the defensive move, not the confirmatory one.
+
+The defensive move is still worth having. Inventory blindness blocks the inference from "we have found no limits" to "there are no limits," which is the inference a parsimony argument needs when it treats the currently conceived options as the field of play. What it does not underwrite is the mirror-image inference from the same silence to the conclusion that limits are present and hidden. The concept constrains what an absence of evidence can be made to mean in either direction.
+
+Because the null observation carries no weight, the framework's testable content lies in the positive cases where a missing capacity becomes visible from outside. Inventory blindness would be weakened if: (1) reliable introspective markers of absent capacities were found — subjects flagging a determinate conceptual gap before acquiring the concept that fills it; (2) Stanford's historical record reversed, with episodes in which practitioners registered the specific shape of theories they could not yet formulate rather than the diffuse dissatisfaction visible in the non-Euclidean case; (3) external probes designed to bypass the blindness — AI systems trained without human evolutionary and developmental constraints, or work with genuinely isolated non-WEIRD populations — systematically surfaced nothing outside the human repertoire across many domains; or (4) a mind were shown able to survey its own architectural limits without possessing the capacities it lacks, which would break the recursion at step 2 above. Note that none of these is the observation that introspection finds no gap. That observation is the one thing the framework predicts regardless of whether the framework is true.
 
 ## Relation to Site Perspective
 

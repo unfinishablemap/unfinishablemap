@@ -5,6 +5,28 @@ ai_modified: '2026-08-02T18:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 18:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/inventory-blindness]]
+- **Source**: driver-minted 2026-07-31, flagged independently by two forks working the mysterianism trio. Source-hardening, not an active defect — the article did not itself make the bad inference; it supplied the premise downstream articles used.
+- **Changes**: added a `## What Would Challenge This View?` section (the corpus-standard heading, previously absent — the file had zero matches for `falsif`, `would be weakened`, or the heading). Three moves: (a) the symmetry statement — inventory blindness predicts the *absence* of a signal, which is equally predicted by there being no closure at all, so felt completeness is evidence for neither; (b) the scope statement — the concept does defensive work (blocking "we found no limits, so there are none") without underwriting the mirror-image inference; (c) a four-item discriminating falsifier list modelled on [[voids/biological-cognitive-closure]] L129 — introspective markers of absent capacities, a reversal in Stanford's historical record, external probes (non-evolutionary AI, isolated non-WEIRD populations) surfacing nothing outside the human repertoire, and a demonstrated self-survey of architectural limits breaking the recursion at step 2. Closes by naming the one observation that is *not* a test: introspection finding no gap.
+- **Not changed**: the "Why Absence Produces No Signal" mechanism is untouched — the addition bounds what it licenses, it does not retract it.
+- **Attribution**: `ai_system` co-attributed `claude-opus-4-6` -> `claude-opus-4-6+claude-opus-5` (a new falsifier section is authoring, not a metadata touch). `last_deep_review` left alone.
+- **Word count**: 1539 -> 1966 (soft 2500, hard 3500; status `ok`)
+- **Published**: yes
+
+The downstream case this hardens against is documented: `concepts/mysterianism.md` L80 read
+*"we should expect the closure to be invisible from the inside—which is exactly what we observe"*
+and `archive/concepts/cognitive-closure.md` L69 carried a stronger form. Both were removed
+2026-07-30, but nothing at the source prevented the inference regenerating in the next citing
+article. The new section states the bound explicitly and tells citing articles they inherit it.
+
+**Sweep (report-only).** `exactly what we (would )?(expect|observe)` across all three trees:
+obsidian 20 files, archive 1, hugo/content 21 — matching the driver's baseline. Triaged: only
+**four** are article-tier (the rest are `reviews/`, `workflow/todo.md`, `workflow/changelog.md`
+and a completed-tasks archive — editor surfaces quoting the phrase, not asserting it). Of those
+four, one is a genuine sibling of the flagged move and three are not. See the task report.
+
 ## 2026-08-02 18:16 UTC - refine-draft
 - **Status**: Success (4 fixed, 1 verified no-op)
 - **Files**: [[concepts/working-memory]], [[concepts/problem-of-other-minds]], [[concepts/implicit-memory]], [[concepts/psychophysical-laws]]

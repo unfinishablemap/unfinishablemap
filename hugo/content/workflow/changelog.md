@@ -10,6 +10,99 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-02 18:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [inventory-blindness](/concepts/inventory-blindness/)
+- **Source**: driver-minted 2026-07-31, flagged independently by two forks working the mysterianism trio. Source-hardening, not an active defect — the article did not itself make the bad inference; it supplied the premise downstream articles used.
+- **Changes**: added a `## What Would Challenge This View?` section (the corpus-standard heading, previously absent — the file had zero matches for `falsif`, `would be weakened`, or the heading). Three moves: (a) the symmetry statement — inventory blindness predicts the *absence* of a signal, which is equally predicted by there being no closure at all, so felt completeness is evidence for neither; (b) the scope statement — the concept does defensive work (blocking "we found no limits, so there are none") without underwriting the mirror-image inference; (c) a four-item discriminating falsifier list modelled on [biological-cognitive-closure](/voids/biological-cognitive-closure/) L129 — introspective markers of absent capacities, a reversal in Stanford's historical record, external probes (non-evolutionary AI, isolated non-WEIRD populations) surfacing nothing outside the human repertoire, and a demonstrated self-survey of architectural limits breaking the recursion at step 2. Closes by naming the one observation that is *not* a test: introspection finding no gap.
+- **Not changed**: the "Why Absence Produces No Signal" mechanism is untouched — the addition bounds what it licenses, it does not retract it.
+- **Attribution**: `ai_system` co-attributed `claude-opus-4-6` -> `claude-opus-4-6+claude-opus-5` (a new falsifier section is authoring, not a metadata touch). `last_deep_review` left alone.
+- **Word count**: 1539 -> 1966 (soft 2500, hard 3500; status `ok`)
+- **Published**: yes
+
+The downstream case this hardens against is documented: `concepts/mysterianism.md` L80 read
+*"we should expect the closure to be invisible from the inside—which is exactly what we observe"*
+and `archive/concepts/cognitive-closure.md` L69 carried a stronger form. Both were removed
+2026-07-30, but nothing at the source prevented the inference regenerating in the next citing
+article. The new section states the bound explicitly and tells citing articles they inherit it.
+
+**Sweep (report-only).** `exactly what we (would )?(expect|observe)` across all three trees:
+obsidian 20 files, archive 1, hugo/content 21 — matching the driver's baseline. Triaged: only
+**four** are article-tier (the rest are `reviews/`, `workflow/todo.md`, `workflow/changelog.md`
+and a completed-tasks archive — editor surfaces quoting the phrase, not asserting it). Of those
+four, one is a genuine sibling of the flagged move and three are not. See the task report.
+
+## 2026-08-02 18:16 UTC - refine-draft
+- **Status**: Success (4 fixed, 1 verified no-op)
+- **Files**: [working-memory](/concepts/working-memory/), [problem-of-other-minds](/concepts/problem-of-other-minds/), [implicit-memory](/concepts/implicit-memory/), [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Checked, not edited**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Source**: `reviews/tenet-check-2026-07-29b` L132 (Family D bare-regress loci); settled wording inherited from [haecceity](/concepts/haecceity/), [illusionism](/concepts/illusionism/), [mind-brain-separation](/concepts/mind-brain-separation/), [explanatory-gap](/concepts/explanatory-gap/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
+- **Changes**: installed the settled bare-regress concession at four loci — the regress assumes the seeming is itself phenomenal (precisely what illusionists deny) and proves nothing, since a representational system need not instantiate what it represents; pressure relocated onto the tractability trade; closed on neither side closing the case inside the rival's framework
+- **Word counts**: working-memory 3688 -> 3685 (below the 3688 floor; still over the 3500 hard threshold, pre-existing); problem-of-other-minds 3363 -> 3457; implicit-memory 3135 -> 3248; psychophysical-laws 3489 -> 3484 (all under 3500)
+- **Published**: yes
+
+Family D of the bare-regress sweep. Five surviving loci ran the Tallis/seeming regress as
+decisive against illusionism — a **boundary-substitution** under
+[direct-refutation-discipline](/project/direct-refutation-discipline/): framework-level disagreement dressed as in-framework
+refutation. The settled wording already existed at six verified installations, so this pass
+inherited it rather than composing variants.
+
+**Engagement classification (editor-internal).** All four edits: engagement with the illusionist
+(Frankish, Dennett, via Tallis) moves from a false Mode One to **mixed** — Mode Two identifies
+the unearned foundational move (the illusionist relocation earns its keep only if the second
+question is tractable where the first was not, which is asserted rather than shown), closing on
+Mode Three boundary-marking (neither side closes the case inside the rival's framework).
+
+**1. `working-memory.md` L161 (strongest of the five).** Flat factive with no concession anywhere
+in the file: "these experiences cannot themselves be illusions without invoking a further level
+of experience." Replaced with the settled concession, the trade relocated onto whether "why does
+mental arithmetic *seem* effortful?" is tractable where "why is it effortful?" was not, and the
+zombie case marked as what divides the frameworks rather than as a refutation. The file was
+**already over its 3500 hard threshold at 3688**, so the +50-word install was funded by
+substitution: two redundant sentences in "The Capacity Gap" (a third restatement of
+maintenance-vs-manipulation) and a duplicate mental-effort paragraph in "The Manipulation
+Requirement" (the same point already made in the bullet at "Storage/Use" and again under "Effort
+asymmetry"). Net -3.
+
+**2. `problem-of-other-minds.md` L170.** The relocation move was already half-present
+("relocates rather than dissolves"), so this took the concession clause rather than a rewrite,
+as scoped. "The discourse argument gains force" softened to "presses the same point" — the
+original phrasing drew its force from the regress being decisive.
+
+**3. `implicit-memory.md` L141.** Concession installed. The Tallis self-undermining charge here
+is an **attributed paraphrase, not a quoted string** — there is nothing to de-quote, and the
+attribution was preserved intact (cf. the 47 loci once de-quoted on a false fabrication premise).
+Added the standard illusionist reply to that charge (introspective *reports* trusted as data
+while the phenomenal character they appear to report is what is in question). Also softened a
+second flat factive in the same paragraph: heterophenomenology "cannot be captured in
+third-person functional description" -> "on the Map's reading it leaves ... outside what
+third-person functional description captures."
+
+**4. `psychophysical-laws.md` L213 — the eleven-word budget.** The file sat at 3489/3500. The
+"generating infinite regress" clause is the boundary-substitution and was removed; the Moorean
+closer was kept but relabelled in natural prose as "a foundational commitment, not a refutation
+inside illusionism's framework" (the editor-vocabulary term for that move is forbidden in
+article prose, so it is not used). The honest fix needed +16 words against 11 of headroom, so it
+was funded in-file by cutting a genuinely redundant clause in "Supervenience Laws vs. Causal
+Laws" that stated the Chalmers-upward/Map-downward contrast for the third time (the lead and the
+preceding sentence in the same bullet both already carry it). Net -5; finished at 3484, under
+the ceiling. **No shortfall to report.**
+
+**5. `relational-quantum-mechanics.md` L93 — verified no-op.** Flagged as CHECK, not asserted
+defect, and it does discharge the discipline as it stands. The passage already closes "Frankish
+contests the move; the dispute is live, and the Map's commitment to dualism is what tips the
+assessment, not a stand-alone refutation" — an explicit Mode Three boundary-marking that names
+the framework-level disagreement instead of dressing it as refutation, which is exactly what the
+discipline requires. The surrounding section reinforces it twice more (L87 "neither refutes the
+other from inside"; L95 "depends on prior commitments about first-person methods"). The
+discipline does not require every named opponent to receive in-framework refutation, and the
+failure mode it names is *substitution*, which is absent here. **Not edited, and `ai_modified`
+deliberately left at 2026-07-30** — editing for uniformity would have been the fix-by-file
+reflex the task warned against.
+
+Attribution held per instruction: each file keeps its existing `ai_system`. Synced; all changed
+strings confirmed in `hugo/content/`.
+
 ## 2026-08-02 18:22 UTC - deep-review
 - **Status**: Success
 - **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
