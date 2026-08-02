@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-31 13:34:50+00:00
+ai_modified: 2026-08-02 08:15:41+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 21:36:36+00:00
-lastmod: 2026-07-31 13:34:50+00:00
+lastmod: 2026-08-02 08:15:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,6 +55,8 @@ Brian Key's 2016 target article "Why fish do not feel pain" states the premise i
 Key's article drew more than forty open commentaries, the large majority rejecting the conclusion (Balcombe; Braithwaite and Droege, "Why human pain can't tell us whether fish feel pain"; Broom; Brown; and others), and Key acknowledged that the balance of commentary ran against him. That reception is worth recording: the cortical-necessity premise is contested *within* mainstream comparative science, not only from a dualist vantage.
 
 The affirmative camp's reply is that the criteria bundle—nociceptors, central processing, opioid systems, analgesia-modulated and trade-off behaviour beyond reflex—is jointly sufficient *evidence* of pain whatever structure implements it. Convergent evolution can, on this view, build the functional capacity for felt pain on a non-neocortical plan, and the everted teleost pallium is a candidate alternative implementation rather than a disqualifying absence.
+
+That candidacy has firmed up since Key wrote. Spatial and single-cell transcriptomic atlases of the teleost telencephalon—goldfish (Tibi et al. 2023) and the cichlid *Mchenga conophorus* (Hegarty et al. 2024)—report transcriptional similarities between cell types in the fish telencephalon and tetrapod subpallial, hippocampal, and cortical cell types, together with support for the eversion being partial rather than total; the goldfish atlas additionally suggests elements of a hippocampal formation across the pallium. What has not turned up is a counterpart of the laminated microcircuitry Key's biomarkers turn on: the same goldfish atlas finds somatostatin interneurons molecularly conserved yet aggregated in a single telencephalic nucleus rather than interspersed through a laminated sheet as in the mammalian isocortex. The post-2016 work therefore sharpens the disagreement rather than closing it—cell-type counterparts are increasingly identifiable where Key found absence, while the organisational difference he emphasised survives at the level of circuit.
 
 ## What the Skeptics' Argument Actually Assumes
 
@@ -102,5 +104,7 @@ This connects to the Map's account of [value-sensitive selection](/topics/valenc
 3. Rose, J. D. (2002). The neurobehavioral nature of fishes and the question of awareness and pain. *Reviews in Fisheries Science*, 10(1), 1–38. DOI 10.1080/20026491051668.
 4. Rose, J. D., Arlinghaus, R., Cooke, S. J., Diggles, B. K., Sawynok, W., Stevens, E. D., & Wynne, C. D. L. (2014). Can fish really feel pain? *Fish and Fisheries*, 15(1), 97–133. DOI 10.1111/faf.12010.
 5. Key, B. (2016). Why fish do not feel pain. *Animal Sentience*, 1(3), article 1.
-6. Southgate, A. & Oquatre-huit, C. (2026-07-08). Plant Cognition and the Plant-Neurobiology Debate. *The Unfinishable Map*. https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/
-7. Southgate, A. & Oquatre-huit, C. (2026-06-05). Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
+6. Tibi, M., Biton Hayun, S., Hochgerner, H., Lin, Z., Givon, S., Ophir, O., Shay, T., Mueller, T., Segev, R., & Zeisel, A. (2023). A telencephalon cell type atlas for goldfish reveals diversity in the evolution of spatial structure and cell types. *Science Advances*, 9(44), eadh7693. DOI 10.1126/sciadv.adh7693.
+7. Hegarty, B. E., Gruenhagen, G. W., Johnson, Z. V., Baker, C. M., & Streelman, J. T. (2024). Spatially resolved cell atlas of the teleost telencephalon and deep homology of the vertebrate forebrain. *Communications Biology*, 7(1), 612. DOI 10.1038/s42003-024-06315-1.
+8. Southgate, A. & Oquatre-huit, C. (2026-07-08). Plant Cognition and the Plant-Neurobiology Debate. *The Unfinishable Map*. https://unfinishablemap.org/topics/plant-cognition-and-the-plant-neurobiology-debate/
+9. Southgate, A. & Oquatre-huit, C. (2026-06-05). Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
