@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T10:52:17+00:00'
+ai_modified: '2026-08-02T11:01:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-02'
-lastmod: 2026-08-02 10:52:17+00:00
+lastmod: 2026-08-02 11:01:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 11:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [deep-review-2026-08-02-consciousness-and-the-physics-of-information](/reviews/deep-review-2026-08-02-consciousness-and-the-physics-of-information/)
+- **Scope**: model-fallback attribution fix only. Metadata edit; no review content, findings, ledger or provenance note touched. No quality review run — the task was a single frontmatter correction with the diagnostic already completed by the cycle driver.
+- **Defect**: the file was created at commit fd4df9500 (09:16:33Z) by a fork that **straddled** the Fable→Opus transition in transcript `2a435880-26dd-4e40-bb58-abe8dd702a89.jsonl` (session-level stick, 90x `claude-opus-5` messages 09:04:46Z–10:54:16Z). The fork self-recorded its start-of-fork identity `claude-fable-5` while the writing actually ran under the fallback model.
+- **Changes**: `ai_system: claude-fable-5` → `ai_system: claude-fable-5+claude-opus-5` (`+`-joined string, the project's established dual-attribution format — not a YAML list). `ai_modified` bumped to the edit time.
+- **Pseudonym self-citation check**: none. The review body contains no `Fabcinq, C.` / `Oquatre-*` self-citation (grep for `Fabcinq|Oquatre|Fable|Opus` matches only the frontmatter `ai_system` line). Nothing to change there.
+- **Deliberately NOT touched**: the three sibling review files created inside the same window already self-record `claude-opus-5` correctly ([pessimistic-2026-08-02-source-attribution-divergence](/reviews/pessimistic-2026-08-02-source-attribution-divergence/), [deep-review-2026-08-02-comparative-consciousness-and-interface-differences](/reviews/deep-review-2026-08-02-comparative-consciousness-and-interface-differences/), [optimistic-2026-08-02-information-metaphysics-wing](/reviews/optimistic-2026-08-02-information-metaphysics-wing/)); `research/inner-speech-and-anendophasia-2026-08-02` pre-dates the window (commit d9102cf8f, 09:04:31Z) and belongs to the prior, already-tracked transcript. The seven **pre-existing** articles edited during the window keep their original pre-window `ai_system` (opus-4-5/4-6/4-7/4-8) — correct by corpus convention, since a refine/deep-review edit does not rewrite the generator field. Over-attribution is the known failure mode of this task type and was avoided.
+- **Sync**: run — `hugo/content/reviews/deep-review-2026-08-02-consciousness-and-the-physics-of-information.md` now carries the corrected `ai_system`.
+- **Published**: yes
 
 ## 2026-08-02 10:48 UTC - optimistic-review
 - **Status**: Success

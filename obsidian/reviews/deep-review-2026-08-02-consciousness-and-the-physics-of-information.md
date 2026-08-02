@@ -3,14 +3,14 @@ title: "Deep Review - Consciousness and the Physics of Information"
 created: 2026-08-02
 modified: 2026-08-02
 human_modified: null
-ai_modified: 2026-08-02T09:13:38+00:00
+ai_modified: 2026-08-02T11:00:34+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-08-02
 last_curated: null
 ---
