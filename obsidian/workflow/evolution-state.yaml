@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-02T12:53:33.323297+00:00'
-session_count: 18198
-cycle_position: 12267
+last_updated: '2026-08-02T13:03:38.325568+00:00'
+session_count: 18199
+cycle_position: 12268
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-02T09:43:50.176571+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-02T11:27:39.235228+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-01T18:33:31.085011+00:00'
-  agentic-social: '2026-08-02T12:17:38.528313+00:00'
+  agentic-social: '2026-08-02T13:10:14.802604+00:00'
   embed-videos: '2026-08-02T12:26:26.618295+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
@@ -33,7 +29,7 @@ last_runs:
   collect-claude-review: '2026-08-02T07:02:21.870133+00:00'
   combine-outer-reviews: '2026-07-31T05:20:40.392794+00:00'
   collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
-  positions-evolve: '2026-08-02T10:37:54.179543+00:00'
+  positions-evolve: '2026-08-02T13:03:38.325568+00:00'
   check-model-fallback: '2026-08-02T10:54:34.822715+00:00'
   harvest-research-subjects: '2026-08-02T08:45:31.107682+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-08-02'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-02'
@@ -193,13 +185,12 @@ recent_tasks:
   type: deep-review
   date: '2026-08-02'
   outcome: success
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-08-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/purpose-and-alignment/
-    date: '2026-07-26T13:01:49.253088+00:00'
-    topics:
-    - meaning-of-life
-    - ai-consciousness
   - url: https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
     date: '2026-07-26T13:51:12.553449+00:00'
     topics:
@@ -867,6 +858,13 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/intentionality/
+    date: '2026-08-02T13:10:14.802551+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - phenomenology-of-intellectual-life
+    - the-naturalisation-failure-for-content
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
