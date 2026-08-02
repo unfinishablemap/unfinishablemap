@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T13:00:12+00:00'
+ai_modified: '2026-08-02T13:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-02 13:32 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/aesthetic-testimony-and-the-acquaintance-principle.md` and `topics/the-comic-and-humor-as-an-aesthetic-category.md` — two of only four articles in `topics/`+`concepts/` whose slug has never appeared in any file under `obsidian/reviews/`. Same 2026-07-09 opus-4-8 aesthetics batch; both carry `last_deep_review` equal to their `ai_modified` (create-time self-review only). Fresh-create defect tail.
+- **Headline findings**: **(1) CONFIRMED Schopenhauer misquote live on the served site** — the comic article makes laughter *be* "the sudden perception of an incongruity…", where the source (verified at SEP) makes the perception the *cause* of laughter and laughter the *expression* of the incongruity, plus two wording deviations and a silently dropped clause. The predicate reassignment imports the cause/identity collapse the article's own thesis resists. **(2) Two direct *Inside Jokes* quotes made against the research note's explicit imperative** (*"re-verify against the book… if quoted directly"*) — UNVERIFIED, not disconfirmed; verification blocked this session (Google Books API 429 x3, NDPR URL 404, WebSearch budget 200/200 exhausted). One is stitched across two ellipses resuming with a capitalised "She", so it cannot be grep-verified contiguously regardless of fidelity. **(3) Over-concession as the pair's signature defect** — the comic article asserts in the Map's own voice that the naturalist account "dissolves the residue", then eight lines later says that account declines to explain the residue; the testimony article declares Meskin and Nguyen unrefuted while SEP §4.1.3 records in-framework pressure on Meskin the article never mentions. Both articles' calibration is real but asserted rather than earned, which is why it reads as humility and survives review.
+- **Cross-article contradiction surfaced (out of scope, no task minted)**: `topics/aesthetics-and-consciousness.md` L150 asserts "Five arguments converge… **Each independently troubles physicalism**", while both its newest spokes deflate convergence to "two applications of one intuition". Same defect family as today's `auto(refine-draft)` five-independent-traditions deflation. Flagged for an operator call inside the P2's notes; the in-scope half (a Further Reading label propagating the count) is fixable under the task.
+- **Verified clean, recorded so a later pass does not repeat the spend**: twelve bibliographic facts re-checked against Crossref and SEP — Clark 1970 + DOI, Hopkins 2005, Shelley 2023, Robson 2022, Morreall SEP rev. 2024-09-19, the Kant §54 quote (verbatim), Hobbes's 1651 orthography, Hutcheson 1750, Wollheim 1980:233 (correct despite the research note flagging it unconfirmed), Hopkins's unavailability/unusability taxonomy, Nguyen's classification, and all wikilinks/sync/orphan status. Citation apparatus is sound apart from the quoted material.
+- **Tasks minted (2)**: P1 `refine-draft` on the comic article, P2 `refine-draft` on the testimony article. Both inserted at the head of Active Tasks; no open task previously targeted either file (checked before minting).
+- **Note**: six memory-slug wikilinks in the draft review were converted to plain text before saving — `obsidian/reviews/` **is** synced to `hugo/content/reviews/`, so they would have blocked the pre-push sync.
+- **Output**: [[reviews/pessimistic-2026-08-02-aesthetics-pair]]
 
 ## 2026-08-02 13:14 UTC - refine-draft
 - **Status**: Success — all three named loci fixed, plus **three further loci the task did not name**
