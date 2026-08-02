@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 20:00:11+00:00
+ai_modified: 2026-08-02 11:34:43+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-07-30 20:00:11+00:00
+lastmod: 2026-08-02 11:34:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 BP2 is the "hard" aspect of binding. When you experience seeing-and-hearing-simultaneously, there is "something it is like" to have both experiences together that goes beyond having each separately. Bayne and Chalmers call this **conjoint phenomenology**—a phenomenology of simultaneity that subsumes the individual phenomenologies. The unified experience has a phenomenal character of its own, not reducible to the sum of its components.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/topics/the-binding-problem/#cross-modal)** concerns features from different senses, and is treated as one of the five varieties—intra-modal, cross-modal, temporal, cognitive, and subject—in [The Binding Problem](/topics/the-binding-problem/). Cross-modal binding makes the explanatory gap maximally stark: different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes, yet you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine.
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/topics/the-binding-problem/#cross-modal)** concerns features from different senses, and is treated as one of the five varieties—intra-modal, cross-modal, temporal, cognitive, and subject—in [Varieties of the Binding Problem](/topics/the-binding-problem/). Cross-modal binding makes the explanatory gap maximally stark: different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes, yet you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine.
 
 ### The Illusionist Challenge
 
@@ -221,7 +221,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and its varieties; binding is the synchronic dimension
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended structural argument for quantum holism, decoherence debate, and experimental evidence
-- [the-binding-problem](/topics/the-binding-problem/) — Cross-modal binding as the hardest case
+- [Varieties of the Binding Problem](/topics/the-binding-problem/) — Five varieties of binding, with cross-modal as the hardest case
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Sleep as dissociation between BP1 and BP2
 - [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy illuminates phenomenal unity through actual occasions

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-26 19:09:19+00:00
+ai_modified: 2026-08-02 11:34:43+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 19:09:19+00:00
-lastmod: 2026-06-26 19:09:19+00:00
+lastmod: 2026-08-02 11:34:43+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -76,7 +76,7 @@ The catalogue's three exhibits demonstrate the discipline at three different gra
 
 **Metaphysical grain: [the convergence argument for dualism](/topics/the-convergence-argument-for-dualism/).** The load-bearing inference is the irreducibility of consciousness to physical processes; the cluster has three members (subjective experience arguments; structural arguments from unity, intentionality, and rational agency; cross-traditional convergence on irreducibility); the correspondence claim is that arguments starting from different premises, using different methods, and targeting different features of consciousness all point the same way. The article's honest assessment — "substantially stronger than any single argument," not "overwhelming" — exemplifies the calibration register.
 
-**Phenomenal grain: [the binding problem](/topics/the-binding-problem/).** The load-bearing inference is that phenomenal unity is irreducible to physical coordination; the cluster has five members (intra-modal, cross-modal, temporal, cognitive, subject binding); the correspondence claim is that the BP1/BP2 gap *persists across all five varieties* rather than dissolving under one. A condense pass on that article cut roughly a third of its length while preserving every cluster member, because the cluster's shape is the article's load-bearing structure — losing a variety would mean losing a unit of correspondence.
+**Phenomenal grain: [the varieties of the binding problem](/topics/the-binding-problem/).** The load-bearing inference is that phenomenal unity is irreducible to physical coordination; the cluster has five members (intra-modal, cross-modal, temporal, cognitive, subject binding); the correspondence claim is that the BP1/BP2 gap *persists across all five varieties* rather than dissolving under one. A condense pass on that article cut roughly a third of its length while preserving every cluster member, because the cluster's shape is the article's load-bearing structure — losing a variety would mean losing a unit of correspondence.
 
 **Functional grain: [baseline cognition](/concepts/baseline-cognition/).** The load-bearing inference is that the human-ape gap is evidence consciousness amplifies cognition rather than being epiphenomenal; the cluster has five members (working memory expansion; novel-combination capacity; spontaneous intentional action; metarepresentation; counterfactual reasoning); the correspondence claim is that the gap *systematically* tracks consciousness-dependent capacities rather than tracking cognitive complexity at random. The five-falsifier scaffold is the catalogue's strongest deployment of the per-member falsifier pattern.
 

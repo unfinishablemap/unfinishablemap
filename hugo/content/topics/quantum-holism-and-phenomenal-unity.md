@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-07-30 19:47:42+00:00
+ai_modified: 2026-08-02 11:34:43+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 19:47:42+00:00
-lastmod: 2026-07-30 19:47:42+00:00
+lastmod: 2026-08-02 11:34:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The [binding problem](/concepts/binding-problem/) distinguishes two challenges (
 
 The reason BP2 resists solution is structural. Classical physics describes the world in terms of *external relations*: parts alongside parts, events following events, signals between systems. Nothing in this ontology provides for genuine wholes. What we call "wholes" in ordinary physics are collections of parts—convenient labels for arrangements that remain, at bottom, multiplicities: a rock is many atoms, a brain many neurons.
 
-Phenomenal unity is different. Your experience of seeing red while hearing music while feeling your chair is one experience with three aspects, not three experiences that happen to coincide. This unity is constitutive of what the experience is, not ascribed from outside: there is something it is like to have *all of them together* irreducible to what it is like to have each separately (Bayne & Chalmers 2003). For a comprehensive taxonomy of binding varieties—intra-modal, cross-modal, temporal, cognitive, and subject binding—see [The Binding Problem](/topics/the-binding-problem/).
+Phenomenal unity is different. Your experience of seeing red while hearing music while feeling your chair is one experience with three aspects, not three experiences that happen to coincide. This unity is constitutive of what the experience is, not ascribed from outside: there is something it is like to have *all of them together* irreducible to what it is like to have each separately (Bayne & Chalmers 2003). For a comprehensive taxonomy of binding varieties—intra-modal, cross-modal, temporal, cognitive, and subject binding—see [Varieties of the Binding Problem](/topics/the-binding-problem/).
 
 ## Why Classical Mechanisms Fail
 

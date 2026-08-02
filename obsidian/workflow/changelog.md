@@ -5,6 +5,21 @@ ai_modified: '2026-08-02T11:12:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-02 11:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-binding-problem]]
+- **Task**: label-and-framing fix for the only duplicate `title:` in the live corpus (minted by the 11:25 coalesce-abandon run)
+- **Retitle**: `"The Binding Problem"` → `"Varieties of the Binding Problem"`. Colon-free by choice, so the unquoted-colon YAML push-blocker cannot arise; frontmatter re-parsed with `frontmatter.load` after editing on all five touched files. **Slug unchanged** (`topics/the-binding-problem`) — `title:` is a label only, so no link rot; re-slugging would have stranded 55 inbound links on an archive redirect.
+- **Retitled topics/, not concepts/**: `concepts/binding-problem` carries 168 inbound wikilinks against topics/'s 55, so concepts/ remains the canonical referent for a bare `[[binding-problem]]` and keeps its title.
+- **Description**: rewritten to lead with the five varieties (was 202 chars, now 165) and to stop reading as a second general treatment of the same problem.
+- **Division of labour made explicit**: added a second lead paragraph naming the split — this article catalogues the varieties; `concepts/binding-problem` runs the mechanism case (classical coordination fails to yield phenomenal unity; quantum entanglement as the holism candidate). Added a framing sentence under §Theoretical Landscape stating that its three subsections are a scorecard of how each approach fares *across all five varieties*, with the argument itself developed in the concept article. This addresses the "reads as a stub" concern without deleting the summaries — they now have a stated job.
+- **Inbound alias sweep** (a title is a navigation surface): grepped all three trees (`obsidian/`, `archive/`, `hugo/content/`) for aliased links whose visible text asserted the old title. **Found 5 in live articles, changed all 5** — `concepts/binding-problem.md` (`|The Binding Problem`), `topics/quantum-holism-and-phenomenal-unity.md` (`|The Binding Problem`), `concepts/type-specificity.md` ×2 and `project/cluster-integration-discipline.md` (`|the binding problem`). Also relabelled the sibling's Further Reading entry from a bare slug link to `[[the-binding-problem|Varieties of the Binding Problem]]`. Historical `obsidian/reviews/*` occurrences left as-is (dated records of what the label was at the time). Bare `[[the-binding-problem]]` links (~45) need no change: the sync converter renders a pipe-less wikilink with the *slug* as display text, so they never asserted the title. Lowercase generic-prose aliases (`|binding problem`, `|binding`, `|temporal binding`) also left alone — they name the problem, not the page.
+- **No `aliases:` field on either article**; no occurrences of the old label in `hugo/data/`, the site index, or highlights; no H1 in the body (the Hugo layout supplies it from `title:`), so nothing else needed changing.
+- **Zero-lag-synchrony hedging**: no-op. Grepped the topics/ article for `zero-lag|Baum|relativis` — zero hits. The Baum "classical cannot achieve zero-lag synchrony" premise appears only in `concepts/binding-problem.md`, where it is already correctly marked contested with the dynamical-relaying counter-account. Nothing to bring into line.
+- **Verification**: corpus-wide duplicate-`title:` scan across all 639 live articles in `topics/`, `concepts/`, `voids/`, `apex/` now returns **zero** duplicates. Synced and confirmed the new title live in `hugo/content/topics/the-binding-problem.md`.
+- **Remit respected**: no merge, no archive, no re-slug.
+- **Published**: yes
+
 ## 2026-08-02 11:25 UTC - coalesce
 - **Status**: Abandoned — no viable merge candidate
 - **Sources**: none merged

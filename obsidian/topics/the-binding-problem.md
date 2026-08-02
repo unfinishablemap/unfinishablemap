@@ -1,10 +1,10 @@
 ---
-title: "The Binding Problem"
-description: "A comprehensive taxonomy of binding problems—intra-modal, cross-modal, temporal, cognitive, and subject—revealing why their shared resistance to physical explanation points toward irreducible consciousness."
+title: "Varieties of the Binding Problem"
+description: "Five varieties of binding—intra-modal, cross-modal, temporal, cognitive, subject—and why their shared resistance to physical explanation points toward irreducible consciousness."
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-07-18T00:57:00+00:00
+ai_modified: 2026-08-02T11:34:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,6 +57,8 @@ embedded_videos:
 ---
 
 The Unfinishable Map treats binding as a family of related problems, each revealing something distinct about consciousness. Usually introduced through vision — how does the brain combine colour, shape, and motion into one object? — the binding problem extends across sensory modalities, time, cognitive domains, and the subject of experience. Each variety resists physical explanation in its own way, yet they share a common structure: physical processes that are separate must somehow become experiential wholes. The same gap between coordination and unity appears everywhere consciousness appears — evidence that the difficulty is structural, not piecemeal.
+
+This article catalogues the varieties and asks what their shared shape implies. The companion concept article [[binding-problem|The Binding Problem]] runs the mechanism case: why classical coordination fails to deliver phenomenal unity, and whether quantum entanglement supplies the holism that classical physics cannot. Where the two overlap, the mechanism argument is stated here only in summary and developed there.
 
 <details class="yt-embed" data-video-id="ADa9KmQEKrs">
 <summary>Video introduction</summary>
@@ -174,6 +176,8 @@ IIT predicts this directly: consciousness tracks integrated information (Φ), so
 **Unconscious multisensory processing**: Subliminal cross-modal integration combines visual and auditory information below awareness — computationally bound without being phenomenally bound. The converse also occurs: filling-in at the blind spot produces seamless visual experience despite absent retinal input — cortical processing generates phenomenal content without corresponding sensory data. These asymmetries suggest BP1 and BP2 are different explanatory targets.
 
 ## Theoretical Landscape
+
+The summaries below record how each approach fares *across all five varieties* — the question this taxonomy is positioned to ask. The mechanism argument each summary compresses is developed at length in [[binding-problem|the binding problem concept article]]; readers wanting the case itself rather than its scorecard should go there.
 
 ### Classical Approaches
 

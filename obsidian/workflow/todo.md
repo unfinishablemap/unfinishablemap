@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Two live articles share the identical title "The Binding Problem" — the only duplicate-title pair in the corpus
-- **Type**: refine-draft
-- **File**: obsidian/topics/the-binding-problem.md
-- **Status**: pending
-- **Source**: coalesce
-- **Generated**: 2026-08-02
-- **Notes**: Found while scanning for coalesce candidates; the merge itself was **abandoned** (see the rationale in the changelog entry for this cycle — combined 7358 words and 223 inbound wikilinks make a merge net-negative). The residual defect is real and cheap to fix separately. A corpus-wide scan of all 639 live articles in `topics/`, `concepts/`, `voids/`, `apex/` found **exactly one** duplicate `title:` value: `obsidian/concepts/binding-problem.md` and `obsidian/topics/the-binding-problem.md` are both titled `"The Binding Problem"`. The two articles are genuinely role-differentiated — concepts/ runs the mechanism argument (classical coordination fails to yield phenomenal unity; quantum entanglement as the holism candidate), topics/ runs a taxonomy (intra-modal, cross-modal, temporal, cognitive, subject binding, with the detailed cross-modal treatment: temporal recalibration, inverse effectiveness, unity of place). Their *content* is fine; only the shared label is wrong. **Retitle the topics/ article** to name what it actually does, e.g. "Varieties of the Binding Problem" or "The Binding Problem: A Taxonomy of Five Varieties", and update its `description` and H1/lead if they lean on the bare title. **Retitle topics/, not concepts/**: concepts/ carries 168 inbound wikilinks against topics/'s 55, so concepts/ is the canonical referent for a bare `[[binding-problem]]`. **Do not change either slug** — `title:` is a label only, so a retitle causes no link rot, whereas re-slugging would strand inbound links on archive redirects. This is a label fix, per [[navigation-surfaces-carry-unreviewed-claims]] (fix the LABEL, not the slug). While in the file, check that the topics/ article's compressed §"Theoretical Landscape" (Classical Approaches / The Quantum Alternative / Unity as Primitive) does not restate concepts/binding-problem's argument in a way that now reads as a stub — prefer pointing at the concepts article for the mechanism case.
-- **Remit**: Label-and-framing fix only. Do not merge, archive, or re-slug either article. Preserve the calibrated hedging in the zero-lag-synchrony material (concepts/binding-problem.md already correctly marks Baum's "classical cannot achieve zero-lag synchrony" premise as *contested rather than established*, citing dynamical relaying — see [[quantum-binding-cluster-baum-premise-overclaim]]); if the topics/ article makes the same claim unhedged, bring it into line.
-
 ### P1: dualism-cartography still asserts the Saad/quantum fusion the site formally retracted on 2026-07-27, and overstates how little it inherits from the tenets
 - **Type**: refine-draft
 - **File**: obsidian/apex/dualism-cartography.md
@@ -2143,6 +2134,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-08-02: Two live articles share the identical title "The Binding Problem" — the only duplicate-title pair in the corpus
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-binding-problem.md
+- **Notes**: Found while scanning for coalesce candidates; the merge itself was **abandoned** (see the rationale in the changelog entry for this cycle — combined 7358 words and 223 inbound wikilinks make a merge net-negative). The residual defect is real and cheap to fix separately. A corpus-wide scan of all 639 live articles in `topics/`, `concepts/`, `voids/`, `apex/` found **exactly one** duplicate `title:` value: `obsidian/concepts/binding-problem.md` and `obsidian/topics/the-binding-problem.md` are both titled `"The Binding Problem"`. The two articles are genuinely role-differentiated — concepts/ runs the mechanism argument (classical coordination fails to yield phenomenal unity; quantum entanglement as the holism candidate), topics/ runs a taxonomy (intra-modal, cross-modal, temporal, cognitive, subject binding, with the detailed cross-modal treatment: temporal recalibration, inverse effectiveness, unity of place). Their *content* is fine; only the shared label is wrong. **Retitle the topics/ article** to name what it actually does, e.g. "Varieties of the Binding Problem" or "The Binding Problem: A Taxonomy of Five Varieties", and update its `description` and H1/lead if they lean on the bare title. **Retitle topics/, not concepts/**: concepts/ carries 168 inbound wikilinks against topics/'s 55, so concepts/ is the canonical referent for a bare `[[binding-problem]]`. **Do not change either slug** — `title:` is a label only, so a retitle causes no link rot, whereas re-slugging would strand inbound links on archive redirects. This is a label fix, per [[navigation-surfaces-carry-unreviewed-claims]] (fix the LABEL, not the slug). While in the file, check that the topics/ article's compressed §"Theoretical Landscape" (Classical Approaches / The Quantum Alternative / Unity as Primitive) does not restate concepts/binding-problem's argument in a way that now reads as a stub — prefer pointing at the concepts article for the mechanism case.
 
 ### ✓ 2026-08-02: adaptive-computational-depth uses Penrose-Lucas as an unhedged *resolver* while hedging a newer, weaker citation one paragraph later
 - **Type**: refine-draft
