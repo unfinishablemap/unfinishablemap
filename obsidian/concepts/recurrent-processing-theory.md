@@ -4,7 +4,7 @@ description: "Lamme's local-recurrency NCC theory: phenomenal consciousness as r
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-08-02T18:47:00+00:00
+ai_modified: 2026-08-02T18:58:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -17,10 +17,10 @@ concepts:
 related_articles: []
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-11
 last_curated:
-last_deep_review: 2026-07-11T12:49:00+00:00
+last_deep_review: 2026-08-02T18:58:00+00:00
 ---
 
 Recurrent Processing Theory (RPT), developed by the Dutch neuroscientist Victor Lamme, holds that **localized recurrent processing — feedback, or re-entrant, signalling within sensory cortex — is the neural signature of phenomenal consciousness**, and that this signature is dissociable from the global broadcast and cognitive access emphasised by rival theories. It is the "local / first-order" member of the neural-correlates-of-consciousness big four, the alternative to [[global-workspace-theory]]'s global broadcast, [[integrated-information-theory]]'s system-level integration, and [[higher-order-theories]]' meta-representation. For the survey of that landscape, see [[neural-correlates-of-consciousness]]; this article positions RPT against those rivals rather than restating them.
@@ -42,7 +42,7 @@ Lamme's mature statement (2006, 2010) organises processing into four stages, and
 3. **Superficial / localised recurrent** — feedback returns into earlier areas; local re-entrant loops form. **Phenomenally conscious, but not necessarily reportable.**
 4. **Widespread recurrent** — recurrent processing reaches widespread areas, including frontal and motor cortex, enabling report and access.
 
-The crucial reading: **Stage 3 is already sufficient for phenomenality; the Stage 3 → Stage 4 transition adds access and reportability, not experience itself.** Lamme's arguments for drawing the line at Stage 3 rather than Stage 4 are (a) *neural continuity* — Stages 3 and 4 share the same recurrent mechanism, so pinning consciousness to report looks arbitrary; and (b) *methodological* — in his 2006 "true neural stance," he contends the report-anchored tradition "has fooled us into thinking we know what we are conscious of," and urges putting neural and behavioural measures on equal footing rather than treating introspective report as the gold standard.
+The crucial reading: **Stage 3 is already sufficient for phenomenality; the Stage 3 → Stage 4 transition adds access and reportability, not experience itself.** Lamme's arguments for drawing the line at Stage 3 rather than Stage 4 are (a) *neural continuity* — Stages 3 and 4 share the same recurrent mechanism, so pinning consciousness to report looks arbitrary; and (b) *methodological* — in his 2006 "true neural stance," he argues that treating "introspective or behavioral observations" as "the gold standard, to which neural measures should be fitted" poses "serious problems for understanding the mind-brain relationship," and urges instead that "neural and behavioral measures should be put on an equal footing."
 
 ## Phenomenal Overflow: The Signature Prediction
 
@@ -58,7 +58,9 @@ RPT's fault lines with the other big-four theories are sharp and worth stating p
 - **Versus [[higher-order-theories]]:** HOT holds that a state is conscious in virtue of a suitable higher-order representation *of* it, often implicating prefrontal cortex. RPT is **first-order** — recurrent processing of the sensory content itself suffices, with no meta-representation required.
 - **Versus [[integrated-information-theory]]:** Both downplay prefrontal broadcast and favour a posterior "hot zone," but IIT is a system-level identity claim (Φ) while RPT is a specific dynamical-mechanism claim (re-entrant loops).
 
-The 2025 COGITATE adversarial collaboration (*Nature*) tested IIT against GWT — **not RPT directly** — but its headline findings are broadly consonant with RPT's local, posterior, first-order emphasis: posterior cortical areas were sufficient for conscious content, and neither prefrontal involvement nor global broadcasting proved necessary. This is supporting context for RPT's posterior-sensory locus, not a confirmation of RPT itself, and should be read that way.
+The 2025 COGITATE adversarial collaboration (*Nature*) tested IIT against GWT — **not RPT directly** — and its bearing on RPT is genuinely mixed rather than supportive. The consortium found information about conscious content in "visual, ventrotemporal and inferior frontal cortex," and reported results that "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories." Two details bear on RPT specifically, and they pull opposite ways. In RPT's favour, GNWT was challenged by "the general lack of ignition at stimulus offset" and by limited prefrontal representation of conscious dimensions — pressure on precisely the access-locus RPT denies is constitutive. Against RPT, the study's most direct negative result was "a lack of sustained synchronization within the posterior cortex," and the content-selective connectivity it did find ran between early visual areas and inferior frontal and parietal sites. Sustained posterior recurrence is RPT's proposed mechanism and locality is its signature; neither fared especially well.
+
+A caution about how this result circulates. The frequently repeated line that posterior areas are "sufficient" for consciousness and that "neither the involvement of PFC nor global broadcasting are necessary" comes from the IIT proponents' supplementary interpretation, not from the consortium's own conclusions — it is one adversary's reading offered inside an adversarial collaboration. The Map does not treat it as the study's finding, and readers meeting that sentence attributed to COGITATE elsewhere should know its provenance.
 
 ## Relation to Site Perspective
 
@@ -66,11 +68,17 @@ RPT is a reductive theory: it says recurrent processing *is* phenomenal consciou
 
 **The explanatory gap re-appears at Stage 3.** Grant Lamme everything empirical — grant that localised recurrent processing is the reliable, even the *necessary and sufficient*, neural correlate of experience. The [[hard-problem-of-consciousness|hard problem]] still asks: *why does re-entrant signalling feel like anything?* RPT names a mechanism and a boundary; it does not close the [[explanatory-gap]] between the mechanism and the phenomenal character it is supposed to constitute. Identifying *where* and *when* experience correlates with neural activity is a real achievement, but on the Map's reading it is a correlate-side achievement, and correlation is not identity.
 
+The demand can be pressed from inside Lamme's own commitments rather than from outside them. His methodological case rests on preferring mechanism to intuition and on refusing to let a psychological notion stand where a neural account is owed. By that standard, "re-entrant signalling *is* experience" is the one step in the theory that is asserted rather than mechanised: the four-stage model specifies with real precision what happens to a signal at each stage, and then, at the Stage 2 → Stage 3 boundary, felt quality is declared to have arrived without an account of what about the loop's geometry or dynamics constitutes it. A theory that asks report-based approaches to stop helping themselves to unexplained primitives owes the same discipline at its own foundation.
+
+That objection has to be stated carefully, because a version of it returns against the Map. Locating felt character on the non-physical side also declines to say why coupling should feel like anything; the Map relocates the mystery rather than dissolving it. The difference claimed here is dialectical rather than explanatory. Irreducibility is a starting commitment under [[tenets#^dualism|Tenet 1]], openly assumed and carried as an acknowledged debt, whereas RPT advertises a reduction and then does not deliver one. That marks a promise made and unmet, which is not the same as an explanatory advantage the Map has earned.
+
 **Recurrent loops as a candidate coupling site.** The Map reinterprets a strong physical-side correlate not as *what experience is* but as *where the non-physical might engage the physical* — the interface question developed in [[neural-correlates-of-consciousness]] and [[filter-theory]]. If some minimal, non-physical influence participates in fixing conscious content ([[tenets#^minimal-quantum-interaction|Tenet 2]]) and consciousness acts back on the brain ([[tenets#^bidirectional-interaction|Tenet 3]]), then re-entrant loops in sensory cortex are a natural candidate for the physical locus of that coupling. This is a Map speculation, explicitly flagged as such: RPT supplies a promising address for the interface without establishing that the recurrence itself is the felt quality.
 
 **Overflow as partial convergence, not endorsement.** The one place RPT and the Map lean the same way is phenomenal overflow. The Map's view — that experience is richer than whatever gets globally accessed or reported — is congenial to the Lamme–Block claim that phenomenality exceeds access. This is a point of *partial convergence* the Map co-opts, not an endorsement of RPT's framework: the Map welcomes the conclusion that report does not exhaust experience while declining the reductive premise that recurrence constitutes experience. Convergence on the shape of the phenomenon, divergence on its nature.
 
 On [[tenets#^no-many-worlds|Tenet 4]] RPT is silent, and on [[tenets#^occams-limits|Tenet 5]] it stands as a cautionary case: a mechanistically elegant theory whose very economy — experience just *is* this loop — is what the Map judges premature given how little the mechanism explains about phenomenal character.
+
+That verdict cuts back. The coupling-site reading above predicts the same neural correlate RPT does, while adding a non-physical relatum no current measurement distinguishes; it buys no empirical discriminability over the theory it resists, and rests on the prior tenets rather than on any rival prediction. What [[tenets#^occams-limits|Tenet 5]] licenses is narrow: with the mechanism of phenomenal character this poorly understood, parsimony is too unreliable a guide to settle the question against dualism. That blocks an argument from simplicity; it does not convert the extra ontology into a positive result. Whether recurrent loops are the site of a coupling or simply the thing consciousness is remains open on the evidence, and the Map's preference here follows from its tenets rather than from the data.
 
 ## Further Reading
 
