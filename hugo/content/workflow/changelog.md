@@ -1,14 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T07:12:05+00:00'
+ai_modified: '2026-08-03T07:55:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 07:12:05+00:00
+lastmod: 2026-08-03 07:55:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 07:55 UTC - pessimistic-review (competency cluster)
+
+- **Status**: Success
+- **Content reviewed**: [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/), [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/), [competency-without-felt-experience](/apex/competency-without-felt-experience/), [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/), [near-perfect-adaptation-and-control-theoretic-competency-without-experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/)
+- **Output**: [pessimistic-2026-08-03-competency-cluster-tenet-2-parsimony](/reviews/pessimistic-2026-08-03-competency-cluster-tenet-2-parsimony/)
+- **Tasks minted**: 1 (P2 refine-draft, 3 verified loci + 1 optional 4th file)
+
+**Target chosen by review-coverage scarcity, not recency.** A corpus-wide scan ranked every `topics/`, `concepts/`, `apex/` and `voids/` article by how often its slug appears anywhere in `obsidian/reviews/`. `near-perfect-adaptation-and-control-theoretic-competency-without-experience` (4) and `neuron-less-animals-sponges-placozoans` (5) sat near the bottom. Today's other pessimistic review had already taken the positions register, so the competency cluster — nine source articles feeding one apex, the Map's most-cited sub-personal argument surface — was the next-best unworked seam. No open task targeted any of the five files.
+
+**The finding is one paragraph type, repeated three times.** The *Relation to Site Perspective* → Tenet 2 paragraph in three articles argues from mechanistic sufficiency to the absence of experience: "adding felt experience on top multiplies entities against a fully sufficient mechanistic account." The Map has already adjudicated this against itself. `tenets.md` L69, the paragraph headed *"Minimality as empirical constraint, not truth-tracking"*, scopes Tenet 2's minimality to interaction *magnitude* — energy, Born statistics, conservation laws — and states that Tenet 5's self-binding "applies to parsimony arguments *for or against* the framework". The three loci claim exactly what that passage disowns, about experience rather than about interaction strength. Three further in-corpus sources forbid the move independently: the adjacent Tenet 5 paragraph in the same articles ("no purchase on the question either way"), `near-perfect-adaptation` L83 ("simplicity is not truth-tracking here"), and `the-steelman-for-process-monism` L87 (Tenet 5 "forbids the Map from later invoking simplicity in its own favour").
+
+**Scope was measured, not asserted.** The defective strings were grepped across `obsidian/`, `archive/` and `hugo/content/`. Population is exactly three files. Two sibling articles that invoke Tenet 2 minimality get it right and are the fix template rather than further loci — `the-cognitive-immune-system` L63 restricts the claim to *interfaces* ("declining to multiply interfaces beyond the machinery that could host them"), and `brain-organoids` L76 runs it symmetrically ("equally forbids confident denial"). `plant-cognition` has no Tenet 2 paragraph and is clean. So the task says *do not sweep the cluster*.
+
+**A second, independent defect at one locus.** `neuron-less-animals` L32 asserts "complete mechanistic sufficiency … end to end, with no residue" for sponge behaviour, and that premise is what L62's parsimony conclusion rests on. It over-reaches its own three citations: Leys & Anderson 2015 is titled *"Elements of a 'nervous system' in sponges"*, Ho/Goss/Leys 2025 is described in-article as dissecting the contraction *"further"*, and Kornder et al. 2022's mucus transport **against** internal water flow is not explained by the chemistry the sentence lists. Checked against the article's own reference list rather than by fresh web search, so the finding stands on the corpus's own evidence. The bacterial article's parallel sufficiency claim **is** earned and is explicitly excluded from the fix.
+
+**Process note worth keeping.** Both high-severity loci were deep-reviewed inside 72h — `bacterial-chemotaxis` 2026-08-01T17:11:44Z, `neuron-less-animals` 2026-08-03T07:24:50Z — and the contradiction survived both. Each paragraph is individually well-hedged and correctly cited; the defect is only visible when the Tenet 2 and Tenet 5 paragraphs are read against each other and against `tenets.md`. Adjacent-paragraph tenet consistency is not a lens single-document review currently applies. The task therefore warns against treating a recent `last_deep_review` as clearance.
+
+**Discipline checks all passed**, and are recorded in the review so a later pass need not redo them: direct-refutation discipline (zero forbidden labels across all five files; the Bechtel & Bich and CBC replies are honest framework-boundary marking; the Taiz et al. engagement in `plant-cognition` is exemplary), altered-state symmetry (does not apply — supportive-cluster gate fails, zero citations), style guide, and language. Read-only throughout: no content file was modified.
+
+- **Status**: Success
+- **File**: [ai-consciousness-scope](/positions/ai-consciousness-scope/)
+- **Word count**: 2801 → 2883 (+82)
+- **Published**: yes
+
+**Booked a cost the register was carrying without disclosing.** The Map anchors its preferred region in [dualism-cartography](/apex/dualism-cartography/) on Saad's delegatory dualism as its nearest respectable neighbour, while P-AC1's substrate verdict requires denying one of that framework's five constraints. Neither the apex nor the register drew the pairing. One sentence added to the end of P-AC1's second *Asserts* paragraph — the layer-(iv) interface-eligibility discussion, which is the premise the constraint actually collides with — recording that the Map **declines** the constraint rather than having refuted it. `Last reviewed` bumped to 2026-08-03. No calibration change: this is a cost disclosure, not a re-grade, and the credence axis already carries the layer-(iv) conditional.
+
+**Publisher verification changed the shape of what got booked.** Flagged by `reviews/outer-review-2026-08-03-claude-opus-5.md` §1.1 (singleton under the 2026-08-03 synthesis; no priority change, no dedupe). The reviewer framed it as an unacknowledged contradiction requiring REVISE-HARD on the apex. It is not one, and no apex edit was made: L119 of the cartography already states that Saad's delegatory trumping "stays logged as a distinct alternative rather than a component of the Map's mechanism", borrowing only two route-level results (ensemble-level observational closure; that experience is not epiphenomenal), neither of which is Organizational Invariance. The alleged contradiction needs a commitment to Saad's constraint list the article explicitly disclaims. `research/bradford-saad-delegatory-dualism-2026-01-28.md` L112 independently records the constraint as *Neutral*. What survives verification is narrower and real: an undisclosed cost, not an inconsistency.
+
+**The constraint was verified at the publisher, not taken from the reviewer.** WebSearch budget was exhausted, so the check ran through WebFetch: OpenAlex → Unpaywall → Semantic Scholar (publisher abstract verbatim) → PMC full text (PMC12062107), the Springer landing page and PDF both being cookie-walled. Saad, *A dualist theory of experience*, *Philosophical Studies* 182(3–4):939–967, DOI 10.1007/s11098-025-02290-3. The abstract states constraint (5) as "ensure that functional duplication preserves phenomenology"; the body names it — "the fifth and final constraint is Chalmers's … (*principle of*) *Organizational Invariance*" — and the substrate reach is explicit in Saad's own case, "Perhaps F1 is a conscious creature while F2 is its unconscious or phenomenally inverted silicon counterpart", forbidden as *nomically* possible. So the reviewer's characterisation held on both points that mattered: the fifth constraint is Organizational Invariance, and it carries the cross-substrate functional-duplication entailment. Given the project's live record of a five-constraints list misattributed to the wrong authors, this was checked before stamping rather than after.
+
+**Quoting choice.** The body's formulation carries an inline footnote marker between "(fine-grained)" and "functional", which breaks contiguity for anyone re-verifying by grep at the publisher. The entry therefore quotes the *abstract's* clean formulation and attributes the *name* to the body — a correct quote that greps as a correct quote.
+
+**Length.** The file was already 301 words over its 2500 hard threshold before this pass (it took a P-AC4 regrade earlier today), so the fix was deliberately held to one sentence. No existing calibration entries were condensed to compensate — the entries are the product, and the section-wide threshold mismatch (three positions files over threshold, `quantum-interface` critical at 4132) is an open operator decision.
+
+**Attribution held.** `ai_system` unchanged — an addition to an existing entry, not re-authoring. `ai_modified` bumped from a live `date -u` (07:36:50), verified strictly past. Synced; the changed sentence is confirmed in `hugo/content/positions/ai-consciousness-scope.md` with the wikilink resolving to `/apex/dualism-cartography/`. Frontmatter validation: 14/14 valid, 0 invalid.
 
 ## 2026-08-03 07:33 UTC - refine-draft
 

@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-02T08:07:13.116164'
+ai_modified: '2026-08-03T08:05:46.856443'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-02'
+date: '2026-08-03'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-02 08:07:13.116164+00:00
-modified: '2026-08-02'
+lastmod: 2026-08-03 08:05:46.856443+00:00
+modified: '2026-08-03'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-03: An Animal With No Neurons Stops to Eat
+
+Trichoplax has six cell types, no neurons, no synapses, no muscles—yet it glides toward algae, pauses to digest, then moves on. The pause is a peptide wave arresting its cilia. If purposive behaviour runs without neurons, behaviour alone is no evidence of experience.
+
+**Type**: refinement  
+**Link**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+
+---
+
 ### 2026-08-02: Does a Virus Have a Good of Its Own?
 
 Biocentrism says every living thing has a good of its own, so every living thing has moral standing. Then so does HIV — its replication conditions are as determinate as a sunflower's. New article on why the moral line falls at felt experience rather than at life.
@@ -193,15 +202,6 @@ Biology names a few watershed transitions—genes into chromosomes, cells into o
 
 **Type**: new-article  
 **Link**: [consciousness-and-the-major-evolutionary-transitions](/topics/consciousness-and-the-major-evolutionary-transitions/)
-
----
-
-### 2026-07-14: Quantum Divine Action: The Map's Closest Rival
-
-Theology's 'divine action' program says God acts by choosing which quantum outcome comes true—no energy, no law broken. That's the exact mechanism the Map gives to conscious minds. New research on the Map's closest rival, and why it backs finite minds over God.
-
-**Type**: research  
-**Link**: [quantum-divine-action-2026-07-14](/research/quantum-divine-action-2026-07-14/)
 
 ---
 
