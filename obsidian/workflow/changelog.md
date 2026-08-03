@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T12:30:40+00:00'
+ai_modified: '2026-08-03T12:53:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 12:53 UTC - pessimistic-review (rival-framework engagement pair: `concepts/pragmatism` is an un-propagated summary of its own sibling, and a deep-review cleared the defect on a false premise)
+
+- **Status**: Success
+- **Content reviewed**: [[concepts/pragmatism]] (1,401 w, `ai_modified: 2026-05-26`), [[concepts/idealism]] (3,002 w, `ai_modified: 2026-05-31`)
+- **Output**: [[reviews/pessimistic-2026-08-03-pragmatism-idealism-pair]]
+- **Tasks minted**: 2 (P1 pragmatism, P2 idealism). P0–P2 open count 3 → 5; floor of 3 was already met, so neither mint was floor-restoring.
+- **Selection**: `pragmatism.md` appears in **zero** of the 7,103 files in `obsidian/reviews/` outside its own two deep-review sidecars — the least-audited substantive concept page found. No drafts exist corpus-wide, so priority fell through to unreviewed content. Both targets are rival-framework engagement pages, the structural position where boundary-substitution lives, and both are ~65 days stale.
+
+**The headline finding is a dated C1 instance with a complete paper trail, including the ratification step.** Commit `dce148141` (2026-06-01) fixed two defects in `topics/pragmatisms-path-to-dualism.md`; the 2026-06-02 deep-review logged them by name — *"van Fraassen two-readings separation (epistemic/metaphysical equivocation FIXED)"* and *"boundary-substitution FIXED"*. Both are still live, verbatim, in `concepts/pragmatism.md`, whose `ai_modified` is **six days earlier than the fix**. The correction landed in the topic article and bound nothing. This is cluster C1 of [[reviews/outer-review-synthesis-2026-08-03]] — *"the Map states the correct thing in one place and leaves the uncorrected thing standing elsewhere"* — found independently, in a different wing of the corpus, on the same day the synthesis named it.
+
+**And the defect was not merely missed; it was cleared.** `reviews/deep-review-2026-06-25-pragmatism.md:39` records that the van Fraassen "causal consequences" inference is *"correctly framed as the Map's move, not van Fraassen's."* It is not framed as the Map's move at all — L80 is a bare conditional whose antecedent is attributed to van Fraassen (*"as van Fraassen's pragmatic theory holds"*), with no marker separating the Map's extension. That review made **zero enhancements**, on the ground that editing an "already-stable, well-calibrated piece risks oscillation." A citation ledger returning clean is not evidence that the inference drawn from the citation is sound; the two axes are orthogonal, and the ledger's verdict stood in for reading the line.
+
+**The structural finding common to both articles**: each recruits a critical criterion against a rival and never turns it on the Map. `pragmatism.md:38` endorses Peirce's maxim (*"If two positions have identical practical consequences, the difference between them is merely verbal"*) and applies it only outward, at materialism — while `tenets.md:75`, `tenets.md:107` and `positions/quantum-interface.md:75` all concede that Minimal Quantum Interaction is *"empirically indistinguishable from chance"* and *"sits genuinely close to epiphenomenalism."* The registers have already done the honest work; the concept page never asks. `idealism.md:59` cites Nāgārjuna's critique of inherent existence against idealism's one primitive and exempts the Map's two. Turning each criterion inward is an addition that strengthens both pages rather than weakening them, and `pragmatism.md` has ~1,100 words of headroom to pay for it.
+
+**Second substantive finding — `idealism.md`'s cumulative case is one argument counted three times.** L121 announces that three considerations "together create a cumulative case," and the article concedes each at the point it is made: regularity (L123), phenomenology (L127, *"a wager, not a proof"*), thing-likeness (L129). All three fall to the **same** idealist move — dissociation. Cumulative-case reasoning requires independent failure modes. L155 then re-banks the already-conceded phenomenological argument as support. This is convergence double-counting outside the altered-state register, structurally identical to what [[project/calibration-audit-triple]] Audit Two targets — and the altered-state audit itself also fires on this file: the supportive gate passes marginally (contemplative + unitive), filter theory is offered at L191 as an empirical discriminator, and a full-file grep for the disruptive cluster returns **zero**.
+
+**Calibration asymmetry within the pair, worth recording for tuning.** `idealism.md` hedges its dualist conclusions ten times and is the better-calibrated article by a wide margin; `pragmatism.md` hedges them **zero** times, states *"confirms its commitments"* (L76) and *"supports the Map's dualist commitments"* (L3, the truncation-resilient position), and licenses belief-by-need via an unargued *"The consciousness question meets all three conditions"* (L48) inside a corpus built on calibrated confidence. Same author-system, same cluster, adjacent files, opposite registers.
+
+**Recorded but not tasked separately**: the Putnam gloss at `pragmatism.md:66` and `pragmatisms-path-to-dualism.md:127` attributes to *Reason, Truth and History* close to the inverse of its ch. 1 argument — folded into the P1 task as a verify-first item covering **both** loci, since fixing one file would leave the sibling live.
 
 ## 2026-08-03 12:30 UTC - condense (Bandwidth of Consciousness: 4471 → 4150, but the overage was never prose — argued prose was already 3720 against a 4000 hard threshold)
 
