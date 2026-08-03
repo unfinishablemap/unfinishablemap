@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt substrate-independence calibration in basal-and-bioelectric-cognition
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
+- **Notes**: From topic-concept anchoring audit 2026-08-03. The topic article over-claims relative to its anchor concept [[substrate-independence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 0.00/kw is below 3.00/kw (target = 60% of anchor 11.01/kw, capped at 3.0/kw)
+  - strong-assertion density 0.45/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-08-03
+
+
 ### NEEDS-HUMAN (length decision) 2026-08-03: `topics/volitional-control` is over the hard ceiling on prose alone, and is the only such article with no deferral marker
 
 - **Type**: refine-draft
@@ -2044,15 +2056,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: **CANDIDATE — triage on merits; a partial fix is a legitimate outcome** ([[replenish-asserted-concrete-defect-often-false]]). This article is the calibration outlier of an otherwise exemplary cluster: oldest (`ai_modified: 2026-05-28`, 66d), fewest inbound links (3), shortest (1,837 words). **THE MECHANICAL CAUSE**: `obsidian/concepts/reflexive-methodology.md` was created 2026-07-07 — 40 days *after* this article was last touched — and its §"Datum Is Not Yet the Metaphysical Claim" (L87-89) names precisely the crossing this article makes unmarked: *"wherever a reflexive instance slides from 'evaluation is a conscious, felt activity' to 'evaluation cannot be reduced to physical mechanism,' it has crossed from the granted datum to the contested claim."* This article's §"The Self-Application Problem" IS a reflexive-methodology instance (it runs physicalism through the rival's own standard of justified belief) and simply predates the method's statement. **VERIFIED: the two files do not link each other in either direction** (grep count 0 both ways). **THREE LOCI, verified verbatim on disk 2026-08-02**: (a) **L36 lead** — *"consciousness does not merely encounter the problem of induction—it* constitutes *the arena in which induction becomes intelligible at all."* A bald constitutive claim in the truncation-resilient position; the cluster's siblings all hedge their leads. (b) **L52** — *"A belief produced by a deterministic causal chain is no more 'justified' than a rockslide."* Asserted, not argued; **reliabilism and naturalised epistemology — the standard replies — are engaged nowhere in the article**. (c) **L82** — *"physicalism faces a dilemma: either inductive reasoning is not real reasoning... or consciousness genuinely enables it."* Horns not shown exhaustive; the functionalist horn-splitting is dismissed in one sentence. **THE CONTRAST TO INHERIT**: `obsidian/topics/duhem-quine-underdetermination-consciousness.md` L122 states the corresponding caution *against its own interest* in a dedicated paragraph; `reflexive-methodology` L61 downgrades its own pragmatism instance on exactly this ground. **REMIT IS CALIBRATION, NOT DEMOTION**: do not weaken the argument-from-reason payload — mark the datum/claim crossing, engage reliabilism, and soften the lead to the conditional the body defends ([[evidential-status-discipline]], [[framework-stage-calibration]]). **DO NOT** re-open the argument-from-reason cluster more broadly; scope is this file. **ADD** the reciprocal `[[reflexive-methodology]]` link while here. **ATTRIBUTION**: hold the file's existing `ai_system`. **MIRROR**: sync and verify changed strings in `hugo/content/`.
 - **Remit**: This file only. Calibration and the missing reciprocal link; the thesis stays.
 
-### P2: positions/methodology-and-calibration.md is 3401 words against a 2500 hard threshold — relocate its audit trail, do not compress its entries
-- **Type**: condense
-- **File**: obsidian/positions/methodology-and-calibration.md
-- **Status**: pending
-- **Source**: positions-evolve 2026-08-03 (calibration-schema repair)
-- **Generated**: 2026-08-03
-- **Notes**: Measured with `tools.curate.length.analyze_length` on 2026-08-03: **3401 words, `hard_warning`** (soft 1500 / hard 2500 for register files). The file was **already over at 2722** before the 2026-08-03 schema repair; that pass added the `Vocabulary decisions (2026-08-03)` note, two per-entry `Updated` lines, and calibration-line parentheticals, and was itself trimmed ~135 words from a 3536-word first draft. **The action is RELOCATION, not compression.** The register already has the convention: `positions/quantum-interface-calibration-history.md` holds quantum-interface's dated update notes while every claim, band and shift condition stays in the domain file behind a `Calibration history` line. Do the same here — move the per-entry `Updated`/dated notes from P-M1–P-M5 into a new `positions/methodology-and-calibration-history.md` and leave the live content in place. **DO NOT condense the position entries** ([[condense-regresses-calibration-qualifiers]]): the hedges, the `n/a (normative)` justifications and the citation-framing are the content, and the skill doc is explicit that register entries are deliberately structured and should be split rather than condensed. **DO NOT move the `## The multi-axis calibration schema` section** — it is normative schema content, not audit trail, and it carries the `^calibration-schema` block anchor that ~10 files deep-link (`grep -rn "calibration-schema" obsidian/ hugo/content/` before touching anything). Moving that anchor is the one change that would break the register.
-- **Success criterion**: file back under 2500 words with zero live claims, bands, dependencies or shift conditions removed, and `^calibration-schema` still resolving from every inbound deep link.
-
 ### P3: the philosophy-of-science cluster cites zero positions and zero project/ disciplines — against a corpus baseline of 147 articles
 - **Type**: refine-draft
 - **File**: obsidian/concepts/philosophy-of-science-under-dualism.md
@@ -2248,6 +2251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: positions/methodology-and-calibration.md is 3401 words against a 2500 hard threshold — relocate its audit trail, do not compress its entries
+- **Type**: condense
+- **File**: obsidian/positions/methodology-and-calibration.md
+- **Notes**: Measured with `tools.curate.length.analyze_length` on 2026-08-03: **3401 words, `hard_warning`** (soft 1500 / hard 2500 for register files). The file was **already over at 2722** before the 2026-08-03 schema repair; that pass added the `Vocabulary decisions (2026-08-03)` note, two per-entry `Updated` lines, and calibration-line parentheticals, and was itself trimmed ~135 words from a 3536-word first draft. **The action is RELOCATION, not compression.** The register already has the convention: `positions/quantum-interface-calibration-history.md` holds quantum-interface's dated update notes while every claim, band and shift condition stays in the domain file behind a `Calibration history` line. Do the same here — move the per-entry `Updated`/dated notes from P-M1–P-M5 into a new `positions/methodology-and-calibration-history.md` and leave the live content in place. **DO NOT condense the position entries** ([[condense-regresses-calibration-qualifiers]]): the hedges, the `n/a (normative)` justifications and the citation-framing are the content, and the skill doc is explicit that register entries are deliberately structured and should be split rather than condensed. **DO NOT move the `## The multi-axis calibration schema` section** — it is normative schema content, not audit trail, and it carries the `^calibration-schema` block anchor that ~10 files deep-link (`grep -rn "calibration-schema" obsidian/ hugo/content/` before touching anything). Moving that anchor is the one change that would break the register.
 
 ### ✓ 2026-08-03: 20 live articles invoke the transactional interpretation in prose; only 8 link the canonical home created to hold its disclaimers
 - **Type**: refine-draft

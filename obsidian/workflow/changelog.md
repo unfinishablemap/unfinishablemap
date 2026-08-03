@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T16:43:07+00:00'
+ai_modified: '2026-08-03T16:53:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 16:53 UTC - condense (relocation, not compression)
+
+- **Status**: Partial — relocation complete, length target missed by design
+- **File**: [[positions/methodology-and-calibration]] → new [[positions/methodology-and-calibration-history]]
+- **Before**: 3401 words (`hard_warning`, soft 1500 / hard 2500)
+- **After**: 3165 words (`hard_warning`) — reduction 7%
+- **Technique**: relocated the dated audit trail to a new calibration-history file, following the in-directory precedent set by [[positions/quantum-interface-calibration-history]] on 2026-07-29. Zero position entries condensed.
+
+**What moved.** The three per-entry dated notes (P-M2 2026-07-28; P-M3 and P-M5 2026-08-03) and the four-paragraph *Vocabulary decisions (2026-08-03)* schema-audit note, reproduced verbatim in the history file. Each source entry now carries a compact **Calibration history** line indexing its note, per the precedent's convention. No **Band rationale** line was needed: unlike quantum-interface's P-Q1, none of the relocated notes here carries a calibration judgement that the live calibration lines and shift conditions do not already state.
+
+**What stayed, and why.** Every status, calibration line, Asserts paragraph, Depends-on, Argued-in, Would-shift-if and Last-reviewed line is untouched — a line-level diff against HEAD confirms the only removals are the four relocated blocks. The `## The multi-axis calibration schema` section stayed in full, including the `^calibration-schema` block anchor: **155 references across 43 files** in `obsidian/` and `hugo/content/` deep-link it, including eleven sibling `positions/` files. Before/after grep counts and their per-file distribution are identical; the synced Hugo page still emits `<span id="calibration-schema"></span>` and a sibling spot-check ([[positions/consciousness-scope]]) still resolves `/positions/methodology-and-calibration/#calibration-schema`. One live residue was kept in the register rather than relocated: the recommended-but-**not-adopted** seventh **enforcement** flag, which is an open operator decision rather than history.
+
+**Why the file is still over, and what would actually fix it.** Relocation cannot reach 2500 here, and the honest accounting is arithmetic. The file now decomposes as: multi-axis schema section **755 w** · domain header **276 w** · five position entries **2132 w**. The entries and the header alone total **2408 w** — under the hard threshold by 92 words — so the *only* remaining relocatable mass is the schema section, which is out of scope: moving it moves the anchor. The register was already over at 2722 words before the 2026-08-03 schema repair, so no revert reaches the threshold either. The structural fix, deliberately not taken here, is to promote the multi-axis schema to its own `positions/calibration-schema.md` **carrying the anchor**, since the schema governs all thirteen register files and is not domain-specific — but that is a 155-reference repoint sweep and an operator decision, not a condense task. Compressing the entries to close a 665-word gap would strip exactly the hedges, `n/a (normative)` justifications and citation-framing the register exists to record.
 
 ## 2026-08-03 16:41 UTC - refine-draft
 
