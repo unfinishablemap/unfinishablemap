@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T11:04:00+00:00'
+ai_modified: '2026-08-03T11:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 11:04:00+00:00
+lastmod: 2026-08-03 11:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 11:12 UTC - refine-draft (research-note quote-fidelity audit: aesthetic testimony — 2 defects in 28 spans, and the concession lens found nothing)
+
+- **Status**: Success
+- **File**: [aesthetic-testimony-and-the-acquaintance-principle-2026-07-09](/research/aesthetic-testimony-and-the-acquaintance-principle-2026-07-09/) (plus [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/) and both Hugo mirrors)
+- **Task**: first run of the research-note verbatim-fidelity lens opened after the `interface-formalization-void` fabrication. Word count 2160 (`ok`) → 2765 (`soft_warning`); the growth is the verification apparatus itself — two in-place correction notes and the audit record — which is what a research note exists to carry, and which is precisely what was missing when this note re-seeded a corrected defect. Article 2866, `ok`. `ai_system` **held** on both files — quote corrections are corrections, not re-authoring.
+
+**YIELD: 28 substantial quoted spans (≥25 chars) audited; 26 verified clean, 2 defective.** Three of the 28 were extraction artefacts spanning two adjacent quotes, so the distinct population is ~25 spans plus 6 shorter attributed spans audited alongside.
+
+- **DEFECT 1 — Livingston 2003 scope, the pre-identified one.** The note's Optimism entry widened Livingston's claim from *strong* versions of the Acquaintance Principle to all workable versions, and dropped the two successors he explicitly proposes and leaves standing. A deep-review fixed the downstream article on 2026-08-02 but the correction was never carried back, so **the note and its Hugo mirror were still re-seeding the exact defect the article had just had removed** — the channel this lens exists to close, caught working on its first run. Livingston's actual argument is now stated with both successors. Verified two independent ways: OUP publisher abstract and OpenAlex (DOI `10.1093/bjaesthetics/43.3.260`).
+  - **Provenance, which is the transferable finding**: the over-wide reading is not invention. It tracks *SEP*, whose gloss has Livingston undermining the prospects for any version of the principle that is both true and non-trivial — appreciably stronger than the author's own abstract. The note now carries a standing instruction to follow the abstract over the SEP gloss. Also recorded: OpenAlex's reconstruction of this abstract silently **drops** the words "the aesthetic qualities of" from the first successor, where the publisher text retains them — so OpenAlex alone is not a safe verbatim source for this passage.
+- **DEFECT 2 — Nguyen phrase not his wording.** The note set *motivational inversion* in quotation marks as C. Thi Nguyen's phrase. His *Mind* 129(516) abstract says "**flipped motivational structure**". The characterisation was accurate and was retained; only the quoted span was replaced with the attested one, with a note that the old phrase stays usable as our own gloss but not inside quotation marks. Verified at OpenAlex, DOI `10.1093/mind/fzz054`. The live article had already de-quoted it, so this was note-only.
+- **Hygiene (not a defect):** an invented one-sentence Occam slogan sat in quotation marks with no author attached, where a raw-markdown reader could extract it as an optimist's words. Recast as explicitly our own paraphrase.
+
+**FALSE POSITIVE AVOIDED — worth recording, because it is the trap the brief warned about.** The note attributes "well entrenched" to Wollheim, and the live article uses the same phrase for *Riggle's* description of the state of play — which reads like a misattribution. It is not. The International Lexicon of Aesthetics states that Wollheim refers to it as a "well entrenched principle" whose roots go back to 18th-century philosophy. Both attributions are legitimate and independent. Left untouched.
+
+**The Wollheim canonical quote is verbatim-exact**, confirmed word-for-word against two independent sources (SEP's "Aesthetic Testimony" entry and the Lexicon), both citing (1980: 233). All quoted bibliographic titles matched SEP's reference list, Crossref or OpenAlex — no fabricated titles, no venue mismatches. The note's existing quarantines (Wollheim §63, Robson 2022-vs-2023, Shelley venue) were re-checked and remain correctly quarantined; neither source I reached supplies a §63 designation.
+
+**CONCESSION-SHAPE YIELD: ZERO — the operator datum.** The corpus screen selected this note as one of 100 carrying concession language, but it contains exactly **one** concession-word occurrence, and it is sound: Nguyen genuinely concedes aesthetic knowledge is transmissible and relocates the block to practice, which his abstract supports. Note also that it runs in the *safe* direction — a rival conceding something that cuts against the Map's preferred reading. **Neither defect found here was concession-shaped**; both were characterisation and wording drift. Tentative implication for the sweep: the concession screen may be selecting the wrong 100. Defect 1 in particular ran *against* the Map (over-recruiting a deflater of a principle the Map wants to hold) and survived four prior passes — consistent with the standing observation that over-claims running against the Map collect endorsements rather than challenges.
+
+- **Also fixed downstream**: the live article rendered Livingston's first successor as a limit covering "a subset of extraordinary works", dropping "the aesthetic qualities of" — the same scope shift in miniature, in two places. Both corrected against the publisher text.
+- **Published**: yes
 
 ## 2026-08-03 11:04 UTC - refine-draft (intentionality: Searle's Connection Principle mislabelled — four loci, one missed by the task)
 
