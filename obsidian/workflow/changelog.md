@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T22:18:10+00:00'
+ai_modified: '2026-08-03T22:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 22:27 UTC - refine-draft (consciousness-in-simple-organisms: a null result read as confirmation)
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Word count**: 4281 → 4282 (+1; net-neutral, as the task required). The file remains 282 words over the 4000 topics hard ceiling — **pre-existing overage, deliberately not this task's business.** No condense successor minted.
+- **The defect**: the lead paragraph ran the confirmation-from-absence move the corpus hardened [[concepts/inventory-blindness]] against on 2026-08-02. It read *"For dualism, this is exactly what we would expect: if consciousness interfaces with physical systems rather than emerging from them, the question 'where is the threshold?' may have no principled answer at all"* — a **null result** (no principled threshold) cited as support for interface dualism, with no inference-blocking bar anywhere in the passage. Gradualist physicalist emergence predicts the identical null: a continuum produces vague boundaries, and a vague boundary just is a threshold with no principled location. The observation is *entailed by* the hypothesis without being *diagnostic of* it.
+- **Compounding error in the preceding sentence**: *"If consciousness were merely emergent from physical complexity, we should expect a clear gradient from non-conscious matter to conscious beings"* attributed to emergence a prediction gradualism does not make. The article's own "The Distribution Problem" section lists Gradualism as continuous increase with no sharp boundary — so the lead contradicted the body four sections down.
+- **The fix — inherit, do not compose.** Followed the in-corpus model at [[concepts/cessation-versus-plenitude]] L61 (state the symmetry outright) and the general form in [[concepts/inventory-blindness]]'s *What Would Challenge This View?*. Both defective sentences rewritten in place: name what the rival predicts for the same observation, concede the underdetermination, keep the dualist reading as **permitted rather than supported**. The rewrite pays for the concession outright — hence the +1 word.
+- **Not a retraction.** The interface reading survives intact and the article's conclusion is unchanged; what it can no longer do is bank the missing threshold as evidence. The calibration now agrees with the "Evidential Register: Tenet vs. Evidence" section two headers below, which already drew the permission/support distinction, and with the "Distribution Problem" section's existing underdetermination treatment.
+- **Scope held to one file.** The corpus-wide triage supplied with the task found 20 obsidian matches for the phrase; 16 are editor surfaces discussing this defect family, and two of the four article-tier hits are *correct* uses ([[concepts/cessation-versus-plenitude]] L61 states the symmetry; `archive/voids/other-minds-void.md` L158 does the discriminating work). The defect is the inference, not the words — no sweep performed. [[concepts/language-and-consciousness]] L91 held as instructed: it rests on a positive observation, not an absence, and the file already carries two live 2026-08-02 reviews.
+- **One further instance named, not edited** (out of scope, flagged for a future pass): this article's own *Relation to Site Perspective → Dualism* entry — *"The explanatory gap exists at every complexity level—exactly what dualism predicts if consciousness is irreducible to physical processes."* Same shape: a physicalist who grants the hard problem is unsolved at every scale predicts the identical observation. Weaker than the lead instance (the gap is a positive explanatory fact rather than a bare absence), and touching it would have broken the net-neutral budget.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — this is a calibration pass, not authoring.
+- **Mirror**: synced; new string confirmed present and the defective string confirmed absent in `hugo/content/topics/consciousness-in-simple-organisms.md`.
+- **Published**: yes
 
 ## 2026-08-03 22:18 UTC - deep-review (philosophy-of-language-under-dualism: an unsourced empirical claim the study never measured)
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-03 14:59:05+00:00
+ai_modified: 2026-08-03 22:27:10+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:33:01+00:00
-lastmod: 2026-08-03 14:59:05+00:00
+lastmod: 2026-08-03 22:27:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ topics:
 
 How little neural complexity can support consciousness? The question matters for ethics (which organisms deserve moral consideration?), for philosophy (where does experience interface with matter?), and for the [hard problem](/topics/hard-problem-of-consciousness/) itself (can we identify the minimal conditions for subjectivity?). Research on simple organisms—from the 302-neuron nematode *C. elegans* to nerve-free slime molds—challenges assumptions about what consciousness requires while revealing the fundamental difficulty of detecting experience from the outside.
 
-The Unfinishable Map's dualist framework gains unexpected support from this research. If consciousness were merely emergent from physical complexity, we should expect a clear gradient from non-conscious matter to conscious beings. Instead, the evidence presents a puzzle: organisms with radically different architectures display behaviours that resist easy classification. For dualism, this is exactly what we would expect: if consciousness interfaces with physical systems rather than emerging from them, the question "where is the threshold?" may have no principled answer at all.
+Organisms with radically different architectures display behaviours that resist easy classification, and no principled threshold separates the conscious from the rest. On the Map's dualist framework that is unsurprising: if consciousness interfaces with physical systems rather than emerging from them, the threshold question may have no principled answer. But gradualist emergence predicts the same absence, since a continuum yields vague boundaries. The observation is entailed by the interface reading without being diagnostic of it, and permits that reading rather than supporting it.
 
 <details class="yt-embed" data-video-id="foo_P7eBCHc">
 <summary>Video introduction</summary>

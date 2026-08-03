@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-06-21T11:38:47+00:00
 human_modified: null
-ai_modified: 2026-08-03T14:59:05+00:00
+ai_modified: 2026-08-03T22:27:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ embedded_videos:
 
 How little neural complexity can support consciousness? The question matters for ethics (which organisms deserve moral consideration?), for philosophy (where does experience interface with matter?), and for the [[hard-problem-of-consciousness|hard problem]] itself (can we identify the minimal conditions for subjectivity?). Research on simple organisms—from the 302-neuron nematode *C. elegans* to nerve-free slime molds—challenges assumptions about what consciousness requires while revealing the fundamental difficulty of detecting experience from the outside.
 
-The Unfinishable Map's dualist framework gains unexpected support from this research. If consciousness were merely emergent from physical complexity, we should expect a clear gradient from non-conscious matter to conscious beings. Instead, the evidence presents a puzzle: organisms with radically different architectures display behaviours that resist easy classification. For dualism, this is exactly what we would expect: if consciousness interfaces with physical systems rather than emerging from them, the question "where is the threshold?" may have no principled answer at all.
+Organisms with radically different architectures display behaviours that resist easy classification, and no principled threshold separates the conscious from the rest. On the Map's dualist framework that is unsurprising: if consciousness interfaces with physical systems rather than emerging from them, the threshold question may have no principled answer. But gradualist emergence predicts the same absence, since a continuum yields vague boundaries. The observation is entailed by the interface reading without being diagnostic of it, and permits that reading rather than supporting it.
 
 <details class="yt-embed" data-video-id="foo_P7eBCHc">
 <summary>Video introduction</summary>
