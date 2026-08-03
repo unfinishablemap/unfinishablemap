@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-08-03 01:40:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-02-18
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-08-03 01:40:33+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -112,16 +112,16 @@ Every attempt to formally prove that a cognitive limit is genuine encounters a d
 - **Tenet alignment**: Illuminates the structure of the formalization void — the distinction between psychological and cognitive closure cannot itself be formally drawn
 - **Quote**: "If there are limits which would mean that cognitive closure and mysterianism are true, we cannot detect the limits, and therefore we cannot verify the truth of cognitive closure and mysterianism."
 
-### Chang & Tsuchiya, "Mathematics and the Brain: A Category Theoretical Approach"
+### Northoff, Tsuchiya & Saigo, "Mathematics and the Brain: A Category Theoretical Approach to Go Beyond the Neural Correlates of Consciousness"
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC7514579/
 - **Type**: Journal article (Entropy)
 - **Key points**:
   - Standard mathematical tools (graph theory, topology, algebra, set theory) are insufficient for the consciousness problem
   - Category theory offers richer formalization of *relationships* between domains (neuronal and phenomenal)
   - Natural transformations between functors may capture what conventional mappings miss
-  - But it remains doubtful whether constructing the "category of consciousness" is meaningful — even if initial steps succeed, the relation between categories may not be formalizable
-- **Tenet alignment**: Illustrates the formalization void in action — even the most abstract mathematical tools encounter the gap
-- **Quote**: "It is still doubtful whether constructing the category of consciousness is at all a meaningful project."
+  - Distinguishes two neuronal categories (a particular neural state, and the space of possible states) and argues the relation between them, rather than a state-to-state correlation, is what NCC research should target
+- **Tenet alignment**: Relevant to the formalization void, but the authors concede no ceiling — their programme is constructive and ongoing. Any claim that category theory *fails* at the interface is the Map's own argument, not theirs, and must be presented as such.
+- **Attribution correction (2026-08-03)**: This entry previously credited the paper to the wrong first authors, and attached to it a verbatim quotation in which the authors supposedly doubted that a "category of consciousness" is a meaningful project. Both were wrong. The authors are Georg Northoff, Naotsugu Tsuchiya and Hayato Saigo (verified at OpenAlex, `doi:10.3390/e21121234`), and no such sentence appears anywhere in the paper — its full text contains no occurrence of the word "doubt" (checked against the Europe PMC full-text XML for PMC7514579). The authors express no such scepticism; that argument is the Map's. Do not reintroduce either error. The separate Information Closure Theory entry below **is** correctly attributed to Chang and colleagues and is unaffected by this correction.
 
 ### Chang et al., "Information Closure Theory of Consciousness"
 - **URL**: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01504/full
@@ -235,7 +235,7 @@ Based on this research, a voids article could:
 8. Collins, J. (2021). "Chomsky's Problem/Mystery Distinction." In *A Companion to Chomsky*. Wiley.
 9. Kriegel, U. (2003). "The New Mysterianism and the Thesis of Cognitive Closure." *Acta Analytica*, 18, 177-191.
 10. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-11. Northoff, G., & Tsuchiya, N. (2019). "Mathematics and the Brain: A Category Theoretical Approach to Go Beyond the Neural Correlates of Consciousness." *Entropy*, 21(12), 1234.
+11. Northoff, G., Tsuchiya, N., & Saigo, H. (2019). "Mathematics and the Brain: A Category Theoretical Approach to Go Beyond the Neural Correlates of Consciousness." *Entropy*, 21(12), 1234.
 12. Chang, A. Y. C., et al. (2020). "Information Closure Theory of Consciousness." *Frontiers in Psychology*, 11, 1504.
 13. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38(1), 173-198.
 14. Rice, H. G. (1953). "Classes of Recursively Enumerable Sets and Their Decision Problems." *Transactions of the American Mathematical Society*, 74(2), 358-366.

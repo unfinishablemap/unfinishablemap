@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-08-03 00:27:59+00:00
+ai_modified: 2026-08-03 01:40:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-08-03 00:27:59+00:00
+lastmod: 2026-08-03 01:40:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ Every cell that keeps the interface real and lean inherits one debt most acutely
 
 The [interface problem](/topics/the-interface-problem/) has two faces. *Where* in the brain does the interface operate? And *how* do conscious states map quantitatively to physical selections? On location, the Map has moved from agnosticism among four candidate sites (microtubules, ion channels, cortical microcolumns, attention networks) to *constrained pluralism*: the interface operates through the attention-motor architecture, with molecular-level quantum effects providing the substrate—"at the functional level, through the molecular level." On specification, two partial accounts exist (Stapp's attention-observation coupling, Eccles' intention-probability coupling) and three qualitative sketches, but the psychophysical control law—the lawful mapping from phenomenal effort to physical selection bias—remains unspecified. The sharpest form of this gap is the [articulability of the Q1 authority law](/concepts/articulability-of-q1/): whether the non-stipulative authority-selecting rule the Map's region owes can be specified at all without inflating one of the two thickness axes. The honest calibration is *pre-Keplerian*: the framework has Tycho-analogue measurements (the ~10 bits/second bandwidth constraint, the Born-rule causal-consistency result, the theta-band willed-attention signatures) and constraint structures of the kind that precede laws, but not the law itself. One of those measurements carries a caveat inherited from [the specification programme](/apex/interface-specification-programme/): the ~10 bits/second figure (Zheng & Meister 2025) measures *behavioural output* bandwidth—observed typing, speaking, choice rates—not the consciousness-physics interface directly. The Map treats it as an approximate upper bound on conscious selection bandwidth, reasoning that deliberate choice tracks the behavioural bottleneck rather than the unconscious processing rate. This is a reasonable inference rather than a direct measurement of the interface, and future psychophysical research may revise the estimate.
 
-Beneath the specification gap sits a deeper question the [interface formalisation void](/voids/interface-formalization-void/) raises: can the answer even *be* mathematical? Mathematics describes structure—relations, symmetries, magnitudes. If the interface is where physical structure meets the non-structural actuality of experience, then any mathematical description produces more structure and stops exactly at the actualisation event. The Born rule illustrates the ceiling: it is the *unique* consistent probability rule given basic quantum postulates, so consciousness acting at measurement must preserve it—the probability distribution is fixed, but which specific outcome actualises is not determined by the formalism. Mathematics surrounds the interface perfectly and penetrates it not at all. Whether this is a gap awaiting a better formalism or a principled limit is itself open; the convergent failure of every formal framework tried so far (Kleiner's experience space, the IIT+CSL collapse model, category-theoretic approaches) is suggestive of the principled reading without settling it.
+Beneath the specification gap sits a deeper question the [interface formalisation void](/voids/interface-formalization-void/) raises: can the answer even *be* mathematical? Mathematics describes structure—relations, symmetries, magnitudes. If the interface is where physical structure meets the non-structural actuality of experience, then any mathematical description produces more structure and stops exactly at the actualisation event. The Born rule illustrates the ceiling: it is the *unique* consistent probability rule given basic quantum postulates, so consciousness acting at measurement must preserve it—the probability distribution is fixed, but which specific outcome actualises is not determined by the formalism. Mathematics surrounds the interface perfectly and penetrates it not at all. Whether this is a gap awaiting a better formalism or a principled limit is itself open; the formal frameworks tried so far (Kleiner's experience space, the IIT+CSL collapse model, category-theoretic approaches) are active and incomplete programmes rather than failed ones, but each currently stops at the same place, which is suggestive of the principled reading without settling it.
 
 The frontier is the cluster's sharpest open question, and stating it as open is part of the discipline. The interface problem is, by the Map's own assessment, its most significant unresolved challenge; the framework's long-term credibility depends on progress there. The cartography's job is to locate the frontier precisely and show why it is the debt the Map's region owes most acutely—not to pretend the debt has been paid.
 

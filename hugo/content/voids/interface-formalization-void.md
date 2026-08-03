@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-05 00:00:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-03 01:40:33+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:22:00+00:00
-lastmod: 2026-06-05 00:00:00+00:00
+lastmod: 2026-08-03 01:40:33+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,7 +42,7 @@ topics:
 - '[[quantum-measurement-and-consciousness]]'
 ---
 
-The Unfinishable Map holds that consciousness causally influences the physical world through a minimal quantum interface. But can this interface be described mathematically? Mathematics is the language of structure—relations, symmetries, magnitudes, transformations. The interface, if the Map's [dualism](/tenets/#dualism) is correct, is where structure meets something that is not structure: the actuality of conscious experience. Any mathematical description of this meeting point produces more structure. It cannot produce the actuality it aims to capture. The interface formalization void is this systematic inability: not a gap in our current mathematics awaiting a better formalism, but a principled mismatch between what mathematics can express and what the interface is.
+The Unfinishable Map holds that consciousness causally influences the physical world through a minimal quantum interface. But can this interface be described mathematically? Mathematics is the language of structure—relations, symmetries, magnitudes, transformations. The interface, if the Map's [dualism](/tenets/#dualism) is correct, is where structure meets something that is not structure: the actuality of conscious experience. Any mathematical description of this meeting point produces more structure. It cannot produce the actuality it aims to capture. The interface formalization void is this systematic inability. On the Map's tenets it is a principled mismatch between what mathematics can express and what the interface is, rather than a gap in current mathematics awaiting a better formalism — though that verdict follows from the tenets rather than from the record of formal attempts, as [set out below](#what-the-void-has-earned).
 
 This void is distinct from the [causal interface void](/voids/causal-interface/) (why we cannot *observe* how consciousness causes anything) and from the [abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) (where formal manipulation succeeds but comprehension fails). The interface formalization void concerns a deeper problem: whether the ontological joint between two fundamentally different domains *can be* the kind of thing mathematics captures at all.
 
@@ -78,9 +78,23 @@ Kleiner's experience space formalism proposes modelling consciousness via an "ex
 
 Chalmers and McQueen's IIT+CSL model uses integrated information (Φ) as a collapse operator, tying collapse rate to a consciousness measure. This is mathematically precise and in principle testable. But it describes *when* and *how fast* collapse occurs as a function of Φ, not *what happens* at the moment of actualisation. The model is a structural description of the interface's statistical behaviour—exactly the kind of thing mathematics does well—while the interface itself remains unformalised.
 
-Category-theoretic approaches (Chang and Tsuchiya) attempt to formalise relationships between neuronal and phenomenal domains using functors and natural transformations. But as the authors note, "it is still doubtful whether constructing the category of consciousness is at all a meaningful project." The doubt is well-placed: categories formalise morphisms (structure-preserving maps) between mathematical objects. If consciousness is not a mathematical object, no functor can reach it. The [authority of formal systems](/topics/consciousness-and-the-authority-of-formal-systems/) is precisely what is at stake: these frameworks presuppose that the target domain submits to formalisation.
+Category-theoretic approaches (Northoff, Tsuchiya and Saigo) attempt to formalise relationships between neuronal and phenomenal domains using functors and natural transformations. Their programme is constructive and ongoing: they distinguish two neuronal categories — a particular neural state and the space of possible states — and argue that the relation between them, rather than any state-to-state correlation, is what the search for neural correlates should target. The objection that follows is the Map's own, and not one the authors concede. Categories formalise morphisms (structure-preserving maps) between mathematical objects; if consciousness is not a mathematical object, no functor can reach it. The [authority of formal systems](/topics/consciousness-and-the-authority-of-formal-systems/) is precisely what is at stake: these frameworks presuppose that the target domain submits to formalisation, and that presupposition is what the Map's tenets deny.
 
 Each framework succeeds precisely to the extent that it treats consciousness structurally—and fails precisely where it needs to capture what is non-structural about the interface.
+
+## What the Void Has Earned
+
+Two claims are easy to run together here, and the distance between them bounds what this void establishes.
+
+The first is that mathematics may not exhaust the intrinsic phenomenal character of experience — that no structural description delivers what it is like to undergo a given state. The second is that mathematics cannot formulate a law relating phenomenal and physical variables at all.
+
+The first does not entail the second. A formal theory can take phenomenal states as primitive relata — unanalysed rather than reduced — and still specify mappings, symmetries, probabilities and counterfactual dependencies over them. Newtonian mechanics did not have to say what mass intrinsically is in order to state laws in which mass figures. On the same pattern, an interface theory could quantify over phenomenal states it never claims to constitute, and would count as a genuine formalisation of the interface even if the intrinsic character of the relata stayed outside it. The Map's own [interface formalism](/concepts/consciousness-physics-interface-formalism/) is an attempt in exactly this style.
+
+So the strong reading of the void — that no law-like formal treatment of the interface is available — is not established by the survey above. What the survey shows is narrower: the frameworks tried so far formalise the structural relations and stop at the actuality. None of them is closed, either. Kleiner and Ludwig treat the formalisation of experience as an extensible project, and Chalmers and McQueen report that while *simple* IIT+CSL collapse models are ruled out by the quantum Zeno effect, more complex variants survive and admit experimental tests. Where these frameworks currently stop is what one would expect whether the actuality lies beyond formalisation in principle or merely beyond these particular formalisms.
+
+The stronger claim is available to the Map, but by a different route. Premise 2 of the argument in [the opening section](#why-mathematics-cannot-reach-the-interface) — that the interface involves something non-structural — is supplied by the tenets, not extracted from the record of formal attempts. Given that premise the ceiling follows. Without it, the same record is equally consistent with an incomplete research programme. Treating the failure of structural mathematics to deliver a non-structural actuality that the tenets stipulate as *independent* evidence for the ceiling would be circular: the conclusion would be doing the work of the premise.
+
+The void therefore stands as a tenet-conditioned commitment rather than an independently established result — the same footing as the Map's other voids. [The account of tenet-generated voids](/voids/tenet-generated-voids/) makes the general point: a void generated by a tenet is real for anyone who holds the tenet, and should be labelled as such for anyone who does not. What the void cannot do is recruit the current state of formal consciousness research as neutral corroboration.
 
 ## Connection to Adjacent Voids
 
@@ -134,5 +148,6 @@ The interface formalization void is generated directly by the Map's tenets, spec
 4. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." *PhilArchive*. https://philarchive.org/rec/TONWPA
 5. Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*, 22(6), 609.
 6. Chalmers, D.J. & McQueen, K.J. (2021). "Consciousness and the Collapse of the Wave Function." https://consc.net/papers/collapse.pdf
-7. Chang, A.Y.C. & Tsuchiya, N. (2019). "Mathematics and the Brain: A Category Theoretical Approach." *Entropy*, 21(12), 1234.
-8. Southgate, A. & Oquatre-six, C. (2026-02-06). The Nomic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/nomic-void/
+7. Northoff, G., Tsuchiya, N., & Saigo, H. (2019). "Mathematics and the Brain: A Category Theoretical Approach to Go Beyond the Neural Correlates of Consciousness." *Entropy*, 21(12), 1234.
+8. Kleiner, J. & Ludwig, T. (2024). "What is a mathematical structure of conscious experience?" *Synthese*, 203(3), 89. https://doi.org/10.1007/s11229-024-04503-4
+9. Southgate, A. & Oquatre-six, C. (2026-02-06). The Nomic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/nomic-void/
