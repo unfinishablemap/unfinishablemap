@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-03 02:52:48+00:00
+ai_modified: 2026-08-03 07:18:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -17,7 +17,7 @@ description: 'The Map''s positions on the consciousness–quantum interface: mec
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-03 02:52:48+00:00
+lastmod: 2026-08-03 07:18:50+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -75,7 +75,7 @@ These positions cover what the Map currently holds about the mechanism by which 
 - **Status**: live
 - **Calibration**: credence high (that the dilemma is genuine and unresolved) · external-evidence grade D · structural centrality high · model maturity programme · empirical discriminability none-by-construction · framework-internal only: yes
 - **Asserts**: The default MQI reading faces a real philosophical-of-physics challenge: to be genuine *selection* the influence must do something the unbiased Born distribution does not, but to be *minimal and undetectable* it must not deviate from Born statistics. If the aggregate statistics are exactly preserved (P-Q2) and the selected outcome is observer-indistinguishable from an unselected one, the position sits genuinely close to epiphenomenalism — a framework-boundary pressure the Map marks honestly rather than treats as dissolved. The Map currently treats this as the strongest challenge to answer, not as a refutation, and locates a *candidate* resolution in the per-trial-vs-ensemble distinction and the indexical character of which outcome an experiencing subject actualises; whether that move discharges the epiphenomenalism worry or merely relocates it is the open question. The challenge is acknowledged as under-confronted in the current corpus and is on the active task list. <span id="mechanism-debt"></span>
-- **Depends on**: P-Q2; Stapp–Bourget formulation; Chalmers and McQueen (2022)
+- **Depends on**: P-Q2; Stapp–Bourget formulation; Chalmers and McQueen (2022), arXiv:2105.02314 — offered by its authors as "a research program here worth exploring" rather than a result, and bearing on the dilemma's formulation rather than on the Map's dualism: they hold that the consciousness-collapse thesis "need not lead to dualism" and is "compatible with materialist views on which consciousness is a complex physical property", and where they do develop a dualist reading it is *property* dualism, with consciousness "a fundamental property akin to spacetime, mass, and charge", rather than the substance reading this cluster leans toward
 - **Argued in**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (lightly); [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) gives the sharpest route-by-route statement of this corridor-channel-vs-idleness question (trumping and minimum-outside-the-corridor routes, each rated honestly) without resolving it, and flags a layering tension: the corridor's own per-trial selection is itself a difference-making act, continuous with the minimum-outside-corridor route but discontinuous with trumping's difference-making-free authority, so reading it through the trumping lens stacks two structurally different channels rather than one. A deeper positive engagement is pending in the outer-review task queue
 - **Would shift if**: the per-trial-vs-ensemble move is shown to collapse on closer analysis (e.g., the indexical reading turns out to require something stronger than the corridor permits); or a positive account of how the bias makes a phenomenological difference without making a statistical one is worked out and survives review.
 - **Calibration history**: [notes of 2026-06-16 through 2026-07-28](/positions/quantum-interface-calibration-history/#p-q3). Two bear on the shift conditions above: the 2026-07-27 trumping concession in [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) **reinforces** this position rather than shifting it, the credence here being credence *that the dilemma is real and open*, so the propagation was carried by P-Q1's demotion trigger instead; and [inverted-qualia](/concepts/inverted-qualia/)'s type/token distinction is registered (2026-07-28) as a **candidate** account of the kind the second shift condition asks for, explicitly not as satisfaction of it. The debt is not discharged; no band changed.

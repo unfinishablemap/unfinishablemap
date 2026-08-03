@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-03 07:18 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [quantum-interface](/positions/quantum-interface/)
+- **Published**: yes (synced)
+
+**Citation-framing fix at P-Q3's dependency line (§2.2 of `reviews/outer-review-2026-08-03-claude-opus-5.md`; a synthesis-assessed singleton — no second reviewer reached it, so no priority change and no dedupe).** The paper is real, correctly cited, and genuinely relevant; what was missing is the stance qualifier the Map applies elsewhere as a matter of course. `Chalmers and McQueen (2022)` stood bare.
+
+**Verified at the primary text before quoting, not lifted from the reviewer.** Fetched arXiv:2105.02314 and extracted the full text (23,069 words); every quoted span was then whitespace-normalised and grep-checked for contiguity in the raw source. Four spans verified verbatim: "a research program here worth exploring" (abstract), "need not lead to dualism" and "compatible with materialist views on which consciousness is a complex physical property" (§ objection two), "a fundamental property akin to spacetime, mass, and charge" (property-dualism passage). The authors' American spelling *program* is preserved inside the quotation rather than Britishised to the register's house *programme*.
+
+**The qualifier records three things**: the paper is offered as a research programme rather than a result; the consciousness-collapse thesis on its authors' own account need not lead to dualism and is compatible with materialism; and where they do develop a dualist reading it is *property* dualism, not the substance reading this cluster leans toward. Worded to avoid over-claiming — C&M do not *reject* substance dualism, they say the reasons for taking dualism seriously "need not lead to substance dualism" (also verified verbatim), so the entry says where they *do* develop a dualist reading rather than implying a rejection.
+
+**Length: 4045 → 4131 words (+86), against a 2500 hard threshold — unchanged `critical` status.** The 1545-word pre-existing overage was deliberately left alone and no existing calibration entry was condensed to compensate: in a positions register the entries are the product, registers grow by construction under retire-don't-delete, and the section-wide threshold mismatch (5 of 14 files breach it) is an open operator decision rather than something to absorb inside a citation-framing fix.
+
+**The companion request on this file was checked and DECLINED as false.** The reviewer asked to downgrade P-Q7's confidence because it rests on the unrefereed Torres Alegre preprint. L117 already reads `external-evidence grade C (compatible with the Torres Alegre 2025 no-signalling theorem — unrefereed arXiv preprint 2512.12636 — …)`: it grades C *and* names the preprint as unrefereed inside the calibration block, and P-Q2 grades **D** with the same flag. The "high" the reviewer objected to is the `credence` axis, scoped to a structural consequence within the corridor reading — a different axis from `external-evidence`. The reviewer read a multi-axis calibration block as a single confidence band, precisely the conflation the 2026-07-16 outer review identified and the schema migration already fixed. Actioning it would have regressed a completed correction. No calibration line was touched and no retired `Confidence:` field was introduced.
+
+- **Attribution**: `ai_system` **held** at `claude-opus-4-8+claude-opus-5` — citation-framing correction, not re-authoring. `ai_modified` bumped from a live `date -u`; no `last_deep_review` field exists on this file and none was added.
+
 ## 2026-08-03 07:12 UTC - refine-draft
 
 - **Status**: Success
