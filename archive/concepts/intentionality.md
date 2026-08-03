@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-03T11:03:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ This strengthens the case against naturalized intentionality. If intentionality 
 
 ### From Intentionality to Meaning
 
-The connection between intentionality and meaning has deep roots in philosophy of language. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [[language-and-consciousness|philosophy of language and consciousness]] examines how these analyses—alongside the private language argument and failures of logical positivism—reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
+The connection between intentionality and meaning has deep roots in philosophy of language. Grice argued that linguistic meaning derives from speaker intention—an appeal to the derived intentionality distinguished below. Searle's *connection principle* ties intentionality to consciousness from another direction: every unconscious intentional state must be in principle accessible to consciousness. The [[language-and-consciousness|philosophy of language and consciousness]] examines how these analyses—alongside the private language argument and failures of logical positivism—reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
 
 The [[consciousness-and-semantic-understanding|Phenomenal Constitution Thesis]] (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content—not merely accompanies it.
 

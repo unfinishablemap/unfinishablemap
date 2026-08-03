@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-02 02:21:38+00:00
+ai_modified: 2026-08-03 11:03:15+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Intentionality (unified with Phenomenal Intentionality)
 archived: true
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-30 17:16:00+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-08-03 11:03:15+00:00
 modified: *id001
 original_path: /concepts/intentionality/
 related_articles:
@@ -99,7 +99,7 @@ This strengthens the case against naturalized intentionality. If intentionality 
 
 ### From Intentionality to Meaning
 
-The connection between intentionality and meaning has deep roots in philosophy of language. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses—alongside the private language argument and failures of logical positivism—reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
+The connection between intentionality and meaning has deep roots in philosophy of language. Grice argued that linguistic meaning derives from speaker intention—an appeal to the derived intentionality distinguished below. Searle's *connection principle* ties intentionality to consciousness from another direction: every unconscious intentional state must be in principle accessible to consciousness. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses—alongside the private language argument and failures of logical positivism—reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
 
 The [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding/) (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content—not merely accompanies it.
 

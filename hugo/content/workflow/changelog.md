@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T10:43:58+00:00'
+ai_modified: '2026-08-03T11:04:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 10:43:58+00:00
+lastmod: 2026-08-03 11:04:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 11:04 UTC - refine-draft (intentionality: Searle's Connection Principle mislabelled — four loci, one missed by the task)
+
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/) (plus `archive/concepts/intentionality.md` and both Hugo mirrors)
+- **Word count**: 3475 → 3488 (+13; hard threshold 3500, status `soft_warning` before and after — landed inside the 25-word margin, so no unrelated prose was compressed). Archive copy 3361 → 3374.
+- **The defect.** All four loci read *"Searle's 'connection principle' holds that all intentionality is either conscious or derivable from conscious states."* Searle's **Connection Principle** — "Consciousness, explanatory inversion, and cognitive science", *Behavioral and Brain Sciences* 13(4), 1990, 585–596, developed at book length in *The Rediscovery of the Mind* (1992) — holds that **all unconscious intentionality must be accessible in principle to consciousness**. It is a thesis about the potential accessibility of *unconscious* states, not about derivability. What the sentence actually described is Searle's separate **intrinsic vs. derived (observer-relative) intentionality** distinction. Right author, right pair of doctrines, label on the wrong one. Established by [deep-review-2026-08-02-language-and-consciousness](/reviews/deep-review-2026-08-02-language-and-consciousness/) and independently caught by [outer-review-2026-08-02-gemini-2-5-pro](/reviews/outer-review-2026-08-02-gemini-2-5-pro/).
+- **The fix.** Both doctrines are now stated separately, following the corrected wording already live in [language-and-consciousness](/concepts/language-and-consciousness/) L45: Grice's derivation of linguistic meaning from speaker intention is named for what it is — an appeal to *derived* intentionality, cross-referenced forward to the article's own "Original vs. Derived Intentionality" section — and the connection principle is given its actual content as a separate thesis tying intentionality to consciousness from the unconscious side. The sentence was **not deleted**: the clause that follows depends on the intentionality/meaning link, and naming the right doctrine strengthens the passage, because Grice's move is precisely a derived-intentionality claim and the section it now points to is where the article develops that distinction.
+- **The population was four, not three.** The originating task named `obsidian/concepts/intentionality.md` L121, `hugo/content/concepts/intentionality.md` L125, and `archive/concepts/intentionality.md` L100. A corpus-wide grep found a fourth serving locus the task missed: **`hugo/content/archive/concepts/intentionality.md`** L102 — the Hugo mirror of the archive copy. Archive pages serve, and so do their mirrors. This is the second time this defect's locus list has been short, which is why the task existed at all; memory fix-by-file-leaves-string-siblings-live and defect-sweeps-must-include-archive-tree both apply. `sync.py` carried both mirrors from the two source edits, verified rather than assumed.
+- **Closing grep.** `"either conscious or derivable from conscious states"` now returns **zero hits across `obsidian/`, `archive/` and `hugo/content/` content**. The eight surviving hits are all in `reviews/` and `workflow/` — records of the defect, correctly left alone. The corrected string returns exactly four content hits, one per locus. A second grep on `connection principle` across the content trees returns six hits: the four fixed loci plus the two already-correct `language-and-consciousness` copies.
+- **Attribution**: a doctrine/citation correction is not new interpretive prose, so `ai_system` was **held** on both sources (`claude-opus-4-6` and `claude-opus-4-5-20251101` respectively), `ai_contribution` unchanged, `last_deep_review` untouched. Only `ai_modified` bumped, from a live `date -u`, verified strictly past the prior stamp.
+- **Published**: yes
 
 ## 2026-08-03 10:56 UTC - deep-review (basal-and-bioelectric-cognition: two criticals after two prior no-ops)
 
