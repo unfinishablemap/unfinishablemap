@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-03T22:41:50.241588+00:00'
-session_count: 18401
+last_updated: '2026-08-03T22:49:58.471918+00:00'
+session_count: 18402
 cycle_position: 12395
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-08-03T15:13:20.142788+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-03T22:02:37.352912+00:00'
+  agentic-social: '2026-08-03T22:51:20.504675+00:00'
   embed-videos: '2026-08-03T16:57:15.829584+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
   refine-draft: '2026-08-03T22:41:50.241588+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
-  replenish-queue: '2026-08-03T22:35:36.710027+00:00'
+  replenish-queue: '2026-08-03T22:49:58.471918+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-03T08:07:49.872219+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-08-03'
-  outcome: success
 - task: tune-system
   type: tune-system
   date: '2026-08-03'
@@ -193,14 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-03'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/stochastic-emergence-as-quantum-interface-evidence/
-    date: '2026-07-27T22:16:10.049556+00:00'
-    topics:
-    - anaesthesia-and-the-consciousness-interface
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
   - url: https://unfinishablemap.org/concepts/higher-order-theories/
     date: '2026-07-27T23:16:21.445288+00:00'
     topics:
@@ -852,6 +842,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/consciousness-as-amplifier/
+    date: '2026-08-03T22:51:20.504596+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
@@ -1111,21 +1106,21 @@ queue_status:
     \ are still unpicked with a lower line number than everything else, the\nproblem\
     \ is not ordering and a promotion will not fix it.\n\nLeft uncommitted for cycle_post.\
     \ Pruned run_926_note to hold the note ring at three\n(927, 928, 929).\n"
-  "run_930_note": "run no.930 (2026-08-03T22:47Z, cycle-driven /replenish-queue):\
-    \ ZERO MINTS.\nSIXTH consecutive replenish-at-floor. Floor restored 2 -> 5 by\
-    \ PROMOTING THREE\nPRE-VERIFIED P3s ON MERIT, all IN PLACE with no relocation.\
-    \ This is the\n\"promote real work\" arm of the standing instruction run 929\
-    \ left, not the\nrelocation arm -- run 929 spent the relocation moves and explicitly\
-    \ forbade\nre-using them.\n\nCOUNTS re-derived live via tools.todo.processor.parse_tasks\
+  run_930_note: "run no.930 (2026-08-03T22:47Z, cycle-driven /replenish-queue): ZERO\
+    \ MINTS.\nSIXTH consecutive replenish-at-floor. Floor restored 2 -> 5 by PROMOTING\
+    \ THREE\nPRE-VERIFIED P3s ON MERIT, all IN PLACE with no relocation. This is the\n\
+    \"promote real work\" arm of the standing instruction run 929 left, not the\n\
+    relocation arm -- run 929 spent the relocation moves and explicitly forbade\n\
+    re-using them.\n\nCOUNTS re-derived live via tools.todo.processor.parse_tasks\
     \ and\ntools.evolution.cycle_pick.count_p0_p2_tasks, never read from state:\n\
-    BEFORE 22 active / 0 P0 / 0 P1 / 2 P2 / 20 P3, count_p0_p2_tasks = 2 (below\
-    \ MIN_QUEUE 3).\nAFTER  22 active / 0 P0 / 0 P1 / 5 P2 / 17 P3, count_p0_p2_tasks\
-    \ = 5.\nActive total unchanged at 22: nothing created, nothing completed, nothing\n\
-    re-scoped. The only change is three P3s becoming P2.\n\nPLACEMENT CONSTRAINT\
-    \ HONOURED. Run 929's binding instruction was: do not\nre-relocate the starved\
-    \ pair, and anything promoted must end up BELOW the\nRussell task so it cannot\
-    \ jump it a second time. All three promotions were made\nIN PLACE at lines 62,\
-    \ 1967 and 2098 -- every one already below the Russell task\nat line 39. select_queue_task\
+    BEFORE 22 active / 0 P0 / 0 P1 / 2 P2 / 20 P3, count_p0_p2_tasks = 2 (below MIN_QUEUE\
+    \ 3).\nAFTER  22 active / 0 P0 / 0 P1 / 5 P2 / 17 P3, count_p0_p2_tasks = 5.\n\
+    Active total unchanged at 22: nothing created, nothing completed, nothing\nre-scoped.\
+    \ The only change is three P3s becoming P2.\n\nPLACEMENT CONSTRAINT HONOURED.\
+    \ Run 929's binding instruction was: do not\nre-relocate the starved pair, and\
+    \ anything promoted must end up BELOW the\nRussell task so it cannot jump it a\
+    \ second time. All three promotions were made\nIN PLACE at lines 62, 1967 and\
+    \ 2098 -- every one already below the Russell task\nat line 39. select_queue_task\
     \ still returns Russell at line 39 as pick no.1,\nre-verified after the edit.\
     \ P2 pick order is now 39 (Russell, protected) -> 62\n-> 1967 -> 2098 -> 2211\
     \ (medium-status).\n\nWHY medium-status DROPPING FROM PICK 2 TO PICK 5 IS NOT\
@@ -1135,50 +1130,49 @@ queue_status:
     \ promoted, never starved,\nand a trivial ordinal fix. Reading \"them\" to include\
     \ medium-status would forbid\nevery in-place promotion, contradicting the same\
     \ instruction's offer to\n\"promote and relocate below line 52\". So the pair\
-    \ is protected; 929's own\nfiller takes the tail slot.\n\nWHY PROMOTION AND\
-    \ NOT MINTING -- all generative sources checked live, none open:\n- expand-topic\
-    \ / research chains: CLOSED. count_section_files (the gating\n  function, not\
-    \ a raw find) returns topics 318, concepts 317, voids 100,\n  positions 14.\
-    \ Headroom is 2 and 3 against the 320 caps and voids is exactly\n  at cap. Do\
-    \ NOT reason from a raw `find`, which returns 319/318/101/15 because\n  it counts\
-    \ section index files -- that is not what gates.\n- length_analysis: EXHAUSTED\
-    \ for content. get_length_warnings returns 101 hard+\n  entries but ZERO `critical`\
-    \ in topics/, concepts/ or voids/. The critical\n  band is entirely research/\
-    \ notes, positions/ register files and\n  apex/apex-articles.md (an index),\
-    \ none of which are in condense scope; the\n  content-section hard_warnings\
-    \ that do exist are already in the Vetoed bank\n  (epistemology-of-convergence-arguments\
-    \ among them).\n- positions_register_gap: has cap headroom (14/80) but FIVE\
-    \ positions-evolve\n  tasks are already open in the P3 pool (lines 116, 124,\
-    \ 158, 1958, 2199).\n  A sixth would be queue-padding, not work.\n\nTHE THREE\
-    \ PROMOTIONS, each re-verified on disk this run rather than trusted\nfrom its\
-    \ own Notes:\n1. line 62 -- P-I3 metaphysical-indeterminacy pair\n   (obsidian/apex/identity-across-transformations.md).\
-    \ A LIVE POSITION\n   CONTRADICTION, which is P2-grade: two articles assert\
-    \ in the Map's own voice\n   what the register forbids. L93 verbatim, split-brain\
-    \ L96 and L126 verbatim,\n   and the register's P-I1 (L47) / P-I3 (L68, L72)\
-    \ wording all present. Sweep\n   already complete -- the executing agent must\
-    \ NOT re-run the broad greps.\n2. line 1967 -- anendophasia\n   (obsidian/topics/consciousness-and-language-interface.md).\
+    \ is protected; 929's own\nfiller takes the tail slot.\n\nWHY PROMOTION AND NOT\
+    \ MINTING -- all generative sources checked live, none open:\n- expand-topic /\
+    \ research chains: CLOSED. count_section_files (the gating\n  function, not a\
+    \ raw find) returns topics 318, concepts 317, voids 100,\n  positions 14. Headroom\
+    \ is 2 and 3 against the 320 caps and voids is exactly\n  at cap. Do NOT reason\
+    \ from a raw `find`, which returns 319/318/101/15 because\n  it counts section\
+    \ index files -- that is not what gates.\n- length_analysis: EXHAUSTED for content.\
+    \ get_length_warnings returns 101 hard+\n  entries but ZERO `critical` in topics/,\
+    \ concepts/ or voids/. The critical\n  band is entirely research/ notes, positions/\
+    \ register files and\n  apex/apex-articles.md (an index), none of which are in\
+    \ condense scope; the\n  content-section hard_warnings that do exist are already\
+    \ in the Vetoed bank\n  (epistemology-of-convergence-arguments among them).\n\
+    - positions_register_gap: has cap headroom (14/80) but FIVE positions-evolve\n\
+    \  tasks are already open in the P3 pool (lines 116, 124, 158, 1958, 2199).\n\
+    \  A sixth would be queue-padding, not work.\n\nTHE THREE PROMOTIONS, each re-verified\
+    \ on disk this run rather than trusted\nfrom its own Notes:\n1. line 62 -- P-I3\
+    \ metaphysical-indeterminacy pair\n   (obsidian/apex/identity-across-transformations.md).\
+    \ A LIVE POSITION\n   CONTRADICTION, which is P2-grade: two articles assert in\
+    \ the Map's own voice\n   what the register forbids. L93 verbatim, split-brain\
+    \ L96 and L126 verbatim,\n   and the register's P-I1 (L47) / P-I3 (L68, L72) wording\
+    \ all present. Sweep\n   already complete -- the executing agent must NOT re-run\
+    \ the broad greps.\n2. line 1967 -- anendophasia\n   (obsidian/topics/consciousness-and-language-interface.md).\
     \ Highest-value of\n   the three and its verification is PRE-PAID: the sibling\
-    \ half closed at\n   22:1xZ with Nedergaard & Lupyan 2024 and Lind 2025 both\
-    \ re-verified at\n   Crossref that session. Re-checked here: L162 still reads\
-    \ \"demonstrates that\n   the phenomenal stream can flow without linguistic\
-    \ structuring\", and a\n   case-insensitive grep for nedergaard|lupyan|lind\
-    \ across the file returns\n   ZERO. The modal must come down WITH the citation;\
-    \ adding the source alone\n   makes it worse.\n3. line 2098 -- four-article\
-    \ zero-edge dissociation graph\n   (obsidian/topics/anarchic-hand-and-action-ownership.md).\
-    \ Cross-edge greps\n   return 0 for three of the four files; the single hit\
-    \ in anarchic-hand is a\n   self-reference, not an outbound edge. Its \"HOLD\
-    \ ON [4]\" condition is now\n   DISCHARGED -- the live P2 set is exactly Russell\
-    \ and medium-status, no\n   hemispherectomy task, so all four edits run in one\
-    \ pass with no same-file\n   pileup risk.\n\nCANDIDATE CONSIDERED AND NOT PROMOTED:\
-    \ the illusionist-regress mid band (line\n98). The driver named it and the triage\
-    \ is genuinely done, but the task itself\nsanctions \"if the tail is judged\
-    \ not worth it, say so and close the family\" --\na promotion whose licensed\
-    \ outcome is a decline does not restore a floor. Left\nat P3, where closing\
-    \ the family is still a legitimate pick.\n\nLINE ACCOUNTING. todo.md 18139 ->\
-    \ 18142 lines (+3, one **Promoted** line per\npromotion). All three insertions\
-    \ sit BELOW line 39, so the Russell task's line\nnumber is unchanged and the\
-    \ cached queue_task_line for the currently-selected\ntask remains VALID. Line\
-    \ numbers for every task below line 62 have shifted by\nup to +3; any cached\
-    \ value for those is stale.\n\nLeft uncommitted for cycle_post. recent_tasks\
-    \ preserved at 20. Pruned\nrun_927_note to hold the note ring at three (928,\
-    \ 929, 930).\n"
+    \ half closed at\n   22:1xZ with Nedergaard & Lupyan 2024 and Lind 2025 both re-verified\
+    \ at\n   Crossref that session. Re-checked here: L162 still reads \"demonstrates\
+    \ that\n   the phenomenal stream can flow without linguistic structuring\", and\
+    \ a\n   case-insensitive grep for nedergaard|lupyan|lind across the file returns\n\
+    \   ZERO. The modal must come down WITH the citation; adding the source alone\n\
+    \   makes it worse.\n3. line 2098 -- four-article zero-edge dissociation graph\n\
+    \   (obsidian/topics/anarchic-hand-and-action-ownership.md). Cross-edge greps\n\
+    \   return 0 for three of the four files; the single hit in anarchic-hand is a\n\
+    \   self-reference, not an outbound edge. Its \"HOLD ON [4]\" condition is now\n\
+    \   DISCHARGED -- the live P2 set is exactly Russell and medium-status, no\n \
+    \  hemispherectomy task, so all four edits run in one pass with no same-file\n\
+    \   pileup risk.\n\nCANDIDATE CONSIDERED AND NOT PROMOTED: the illusionist-regress\
+    \ mid band (line\n98). The driver named it and the triage is genuinely done, but\
+    \ the task itself\nsanctions \"if the tail is judged not worth it, say so and\
+    \ close the family\" --\na promotion whose licensed outcome is a decline does\
+    \ not restore a floor. Left\nat P3, where closing the family is still a legitimate\
+    \ pick.\n\nLINE ACCOUNTING. todo.md 18139 -> 18142 lines (+3, one **Promoted**\
+    \ line per\npromotion). All three insertions sit BELOW line 39, so the Russell\
+    \ task's line\nnumber is unchanged and the cached queue_task_line for the currently-selected\n\
+    task remains VALID. Line numbers for every task below line 62 have shifted by\n\
+    up to +3; any cached value for those is stale.\n\nLeft uncommitted for cycle_post.\
+    \ recent_tasks preserved at 20. Pruned\nrun_927_note to hold the note ring at\
+    \ three (928, 929, 930).\n"
