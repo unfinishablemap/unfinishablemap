@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-07-16 07:59:32+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-03 14:14:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[control-theoretic-will]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 07:59:32+00:00
-lastmod: 2026-07-16 07:59:32+00:00
+lastmod: 2026-08-03 14:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ The ladder has no joint at which the control mathematics changes character. A pr
 
 Three considerations make the orthogonality claim a primitive the Map can reuse rather than re-derive case by case.
 
-**The thermostat floor.** Integral control is implemented in devices that plainly feel nothing. If the *same* control property carried phenomenality, the thermostat would qualify—so the property itself cannot be what carries phenomenality. Any argument of the form "this system regulates robustly, therefore it experiences" over-generates: it licenses attributing experience to the op-amp. This is a standing reductio the Map can invoke against any future instance.
+**The thermostat floor.** Integral control is implemented in devices that plainly feel nothing. If the *same* control property carried phenomenality, the thermostat would qualify—so the property itself cannot be what carries phenomenality. Any argument of the form "this system regulates robustly, therefore it experiences" over-generates: it licenses attributing experience to the op-amp. This is a standing reductio the Map can invoke against any future instance. The mirror argument over-generates just as badly, and the Map is bound by that one. "The mechanism is complete, therefore nothing is felt" would license denying experience in humans, whose behaviour is—on the physicalist assumptions such an argument borrows—likewise explicable without functional residue. Mechanistic completeness no more settles the phenomenal question downward than robust regulation settles it upward, and the second reductio constrains the Map's own floor verdicts exactly as the first constrains its opponents' inflationary ones.
 
 **Engineerability.** Robust perfect adaptation can be wired into a molecular circuit deliberately (Aoki et al. 2019). A capacity you can install by design is a fact about dynamics and connectivity, not evidence of an inner point of view that the wiring somehow summons.
 

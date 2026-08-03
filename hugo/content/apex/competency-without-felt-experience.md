@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-31 13:34:50+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-03 14:20:06+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 14:04:05+00:00
 apex_sources:
 - topics/bacterial-chemotaxis-and-minimal-biogenic-cognition
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:35:37+00:00
-lastmod: 2026-07-31 13:34:50+00:00
+lastmod: 2026-08-03 14:20:06+00:00
 modified: *id001
 related_articles:
 - '[[minds-without-words]]'
@@ -69,7 +69,7 @@ Between them these axes span the space: from behaviour with no substrate, throug
 
 Each source article performs the same operation, which its authors and the Map both name the **sub-personal-competence reading**: treat the agency, memory, and goal-directedness as genuine *function*, and treat the behavioural markers of that function as *defeasible*—decisive nowhere on their own. The move is a decoupling. What a system can do and whether there is something it is like to be that system come apart.
 
-The decoupling gets its cleanest demonstrations where the machinery is fully specified. The *E. coli* run-and-tumble loop is one of the most completely characterised signalling pathways in biology: receptor binding, phosphotransfer to the flagellar motor, and a methylation feedback that stores the recent-concentration baseline. Every word in the cognitive vocabulary—"sense," "decide," "remember"—names a real dynamical feature of that loop, and the loop is complete without remainder. The sponge sneeze and the placozoan feeding pause are likewise explained end to end by purinergic and glutamatergic chemistry, leaving no residue a controller, still less an experiencer, needs to fill. When the mechanism is this complete, adding felt experience on top adds an entity the account did not need.
+The decoupling gets its cleanest demonstrations where the machinery is fully specified. The *E. coli* run-and-tumble loop is one of the most completely characterised signalling pathways in biology: receptor binding, phosphotransfer to the flagellar motor, and a methylation feedback that stores the recent-concentration baseline. Every word in the cognitive vocabulary—"sense," "decide," "remember"—names a real dynamical feature of that loop, with no point in the sequence where the vocabulary outruns the chemistry. The sponge sneeze and the placozoan feeding pause are likewise traced to identified purinergic and glutamatergic signals, with no step at which a controller has to be posited to make the behaviour intelligible. What these cases demonstrate is the decoupling itself: the cognitive vocabulary earns its use without the phenomenal question being raised, let alone answered. How complete the mechanistic account is settles nothing about experience in either direction—a felt state that made no difference to the chemistry would leave the account exactly as it stands.
 
 Two disciplines keep the move from overreaching in the other direction. The first is that a *parts-list is not a machine, and a machine is not a mind*. The demosponge genome carries a nearly complete set of post-synaptic protein orthologues—the scaffold for a synapse—in an animal with no synapses; reading experience off a molecular toolkit would be exactly the over-inference to avoid. The second is that removing a defeater is not supplying evidence. This matters most for the loaded words. The immune system has a self in the functional sense—a maintained capacity to track and defend its molecular identity—and, on the Map's framework, no self in the phenomenal sense. Alfred Tauber's warning that immunology's "self" is a theory-laden metaphor does not embarrass the Map; it sharpens the very distinction the Map insists on, between a functional self that genuinely learns and a felt self that the functional facts never deliver.
 
@@ -123,7 +123,7 @@ The cluster bears on four of the Map's [five tenets](/tenets/).
 
 **[Tenet 3 (Bidirectional Interaction)](/tenets/#bidirectional-interaction)** is where the payload lands. The tenet frames consciousness as interfacing with the physical world at some localisable point, which immediately raises the question of where that interface bottoms out. Each sub-personal rung answers the negative half: there is no neural substrate here for an interface to occupy, so if adaptive, goal-directed behaviour is nonetheless present—and it plainly is—such behaviour cannot by itself mark the interface. The immune system does the cognitive-grade work and is not where mind gets in. That supports the positive claim: the interface is tied to particular neural machinery, not to functional competence in general.
 
-**[Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction)** cuts hardest at the floor. Minimality counsels the smallest non-physical footprint the record demands. Positing an experiential interface where the biochemistry is complete and there is no neural substrate at all would be the maximal posit, not the minimal one. The principle is *no interface where no substrate*—and, at the organoid edge, no interface merely because neuron count or oscillatory complexity crosses a threshold. The enteric nervous system is the exception that locates the rule: it has ample neural substrate, so the withholding there rests not on absent substrate but on absent felt agency and the still-open question of where the interface sits.
+**[Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction)** bears on the floor cases as an allocation rule, not as a parsimony argument. Minimality counsels the smallest non-physical footprint the empirical record demands—a constraint on the magnitude of an interaction rather than a heuristic about how experience is distributed—so what it licenses is declining to multiply interfaces beyond the machinery that could host them. The principle is *no interface where no substrate*—and, at the organoid edge, no interface merely because neuron count or oscillatory complexity crosses a threshold. Both are framework-relative rules about where influence is exerted, and neither turns on how complete the underlying biochemistry is: an experience making no difference to any physical outcome would add no footprint for minimality to weigh. The enteric nervous system is the exception that locates the rule: it has ample neural substrate, so the withholding there rests not on absent substrate but on absent felt agency and the still-open question of where the interface sits.
 
 **[Tenet 1 (Dualism)](/tenets/#dualism)** is what the decoupling illustrates. If consciousness were reducible to functional organisation, competence and experience could not come apart as cleanly as they do here. Their coming apart is consistent with dualism—indeed it is what dualism leads one to expect—though on its own it does not decide between dualism and a functionalism that locates experience in a *specific* functional organisation. The cluster narrows the field without closing it.
 

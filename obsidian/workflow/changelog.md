@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T14:05:01+00:00'
+ai_modified: '2026-08-03T14:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 14:14 UTC - refine-draft (competency cluster: Tenet 2 rescoped from parsimony argument to interface-allocation rule, 4 files)
+
+- **Status**: Success
+- **Files**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]], [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]], [[apex/competency-without-felt-experience]], [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
+- **Review file**: [[reviews/pessimistic-2026-08-03-competency-cluster-tenet-2-parsimony]] (Issues 1–4)
+- **Original score**: not scored — targeted scoping fix against a named review, not a general quality pass. `scripts/curate.py` does not exist in the tree, so the pessimistic review supplied the review context in its place.
+- **The defect fixed**: three *Relation to Site Perspective* → Tenet 2 paragraphs argued from mechanistic sufficiency to the absence of experience ("adding felt experience on top multiplies entities against a fully sufficient mechanistic account"). [[tenets]] L69 scopes Tenet 2's minimality to interaction *magnitude* and states Tenet 5's self-binding "applies to parsimony arguments *for or against* the framework"; the adjacent Tenet 5 paragraph in each article said "no purchase either way". The articles asserted both.
+- **Changes**:
+  - **Locus 1 — bacterial-chemotaxis L84.** Tenet 2 paragraph rewritten. Deleted the "multiplies entities" clause and the "maximal posit, not the minimal one" framing; opened with the magnitude-scoping (energy / Born statistics / conservation laws) and a link to [[tenets#^minimal-quantum-interaction|the tenet's own scoping note]]; restated the licensed content as the interface-allocation rule (template: `the-cognitive-immune-system` L63, "declining to multiply interfaces beyond the machinery that could host them"); marked *no interface where no substrate* as a framework-relative rule about where influence is exerted, matching the article's own L82 wording so the tenet paragraph no longer reads more confidently than the body two paragraphs above it. Closed with the steelman-defeater the review supplied: a non-interacting bacterial experience adds no non-physical footprint, so minimality has nothing to weigh against it. "cuts hardest at exactly this floor" → "bears on the interface question here".
+  - **Locus 2a — neuron-less-animals L62.** Same rewrite, non-duplicate wording.
+  - **Locus 2b — neuron-less-animals L32.** The empirical over-claim that was the load-bearing premise of L62. "complete mechanistic sufficiency … explain the behaviour end to end, with no residue that a controller—let alone an experiencer—needs to fill" → "the coordinating signals are identified", plus an explicit statement that the account is not closed, naming the three concessions the article's own citations make: Leys & Anderson's *elements* of a nervous system (inventory, not causal closure), Ho/Goss/Leys dissecting the contraction "further", and Kornder et al.'s counter-flow mucus transport over tens of minutes, which the enumerated paracrine chemistry does not explain. The bacterial article's parallel sufficiency claim is genuinely earned and was left untouched, per scope.
+  - **Locus 3 — apex L120.** Sufficiency premise ("where the biochemistry is complete") removed; *no interface where no substrate* and the organoid-threshold clause both retained but relabelled as framework-relative allocation rules that do not turn on the completeness of the biochemistry. Enteric-nervous-system exception preserved verbatim.
+  - **Locus 4 (Issue 4) — near-perfect-adaptation L55.** Mirror reductio added to the thermostat-floor paragraph: "the mechanism is complete, therefore nothing is felt" over-generates to humans, whose behaviour is also explicable without functional residue on the physicalist assumptions the argument borrows. The cluster now carries the standing reductio in both directions, which is what the apex's bidirectionality claim (L110) already promised.
+- **Preserved deliberately**: every article's framework verdict. The Map still says its framework locates no interface at these rungs; what it no longer does is derive the absence of *experience* from the sufficiency of the *mechanism*. Scoping fix, not retraction.
+- **Engagement classification** (editor-internal): unchanged by this pass. The CBC reply (bacterial L82) and the Bechtel & Bich reply (neuron-less L64) remain Mode Three — framework-boundary marking, explicitly named as such. The Tenet 2 paragraphs were not opponent engagements; the fix moved them from an implicitly Mode-One-shaped parsimony argument, which the corpus does not license, to a stated framework-internal allocation rule. Zero forbidden labels introduced.
+- **Verification**: defective strings re-grepped across `obsidian/`, `archive/` and `hugo/content/` — zero remaining outside `reviews/` and `workflow/` records. All four files sync `ok` and validate `✓ Valid`. Lengths after edit: bacterial 2451/3000, neuron-less 2326/3000, apex 3318/4000, near-perfect-adaptation 2084/2500 — all `ok`. Hugo mirrors re-synced in-session so the fix is not left live on the published pages.
+- **Not done (out of scope, registered)**: Issue 5 — the competency cluster has no row in the [[tenets]] sub-reading matrix (L155–166). The review's own honest grading is Tenet 2 *Optional at most*, Tenet 5 self-binding **Required**. Worth a later pass.
+- **Published**: yes
 
 ## 2026-08-03 14:05 UTC - optimistic-review (the subject-census machinery: five declined tier-upgrades, and a register axis every position writes and nothing reads)
 

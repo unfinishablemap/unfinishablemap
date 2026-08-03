@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-08-03 07:24:50+00:00
+ai_modified: 2026-08-03 14:14:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 07:24:50+00:00
-lastmod: 2026-08-03 07:24:50+00:00
+lastmod: 2026-08-03 14:14:00+00:00
 modified: *id001
 related_articles: []
 title: 'Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition'
@@ -33,7 +33,7 @@ That makes neuron-less animals the cleanest test of a claim the Map develops acr
 
 Sponges have no neurons, no synapses, and no muscles, yet they behave. Leys and Anderson, reviewing the "elements of a nervous system" in sponges, describe coordinating mechanisms with *some* neuronal characteristics but conclude there is **no true nervous system** [2]. Non-motile primary cilia lining the osculum act as sensory structures via calcium signalling; glutamate triggers whole-body contractions while GABA inhibits them—neurotransmitter-like chemistry operating without neurons. Conduction is *tissue-based*: slow, epithelial, driven by metabotropic cascades rather than action potentials. Leys and Anderson read this as early specialisation for suspension feeding, not the loss of a prior neural system.
 
-The most visible behaviour is the "sneeze." Kornder and colleagues showed that the tube sponge *Aplysina archeri* moves particle-trapping mucus *against* its internal water flow and periodically expels it through its inlet pores in a coordinated ejection lasting tens of minutes [3]. Recent mechanistic work by Ho, Goss and Leys dissects the freshwater sponge contraction further, identifying ATP and glutamate as the coordinating signals of the whole-body "sneeze" [4]. The picture that emerges is one of complete mechanistic sufficiency: purinergic and glutamatergic paracrine chemistry, ciliary mechanics, and epithelial conduction explain the behaviour end to end, with no residue that a controller—let alone an experiencer—needs to fill.
+The most visible behaviour is the "sneeze." Kornder and colleagues showed that the tube sponge *Aplysina archeri* moves particle-trapping mucus *against* its internal water flow and periodically expels it through its inlet pores in a coordinated ejection lasting tens of minutes [3]. Recent mechanistic work by Ho, Goss and Leys dissects the freshwater sponge contraction further, identifying ATP and glutamate as the coordinating signals of the whole-body "sneeze" [4]. What emerges is a picture in which the coordinating signals are identified—purinergic and glutamatergic paracrine chemistry, ciliary mechanics, epithelial conduction—and no neural mechanism is implicated at any point in the sequence. The account is not yet a closed one, and the sources say so. Leys and Anderson describe *elements* of a nervous system, an inventory rather than a finished causal story; the word "further" above concedes that there is further to go; and mucus moved *against* the sponge's own internal flow and expelled over tens of minutes is not explained by the paracrine chemistry so far characterised. What the mechanistic work establishes is that the behaviour is coordinated by non-neural chemistry, not that nothing about it remains to explain.
 
 ## The Parts-List Precedes the Machine
 
@@ -63,7 +63,7 @@ What the rung buys the Map is a *floor*. Below the nerve net, behaviour does not
 
 Neuron-less animals bear most directly on **Tenet 3 (Bidirectional Interaction)**, which frames consciousness as causally interfacing with the physical world at some localisable point, and therefore raises the question of *where the lower bound of that interface lies*. Sponges and placozoans answer at least the negative half of the question. There is no neural substrate here for a consciousness-physical interface to occupy, so if adaptive, coordinated, goal-like behaviour is nonetheless present—and it plainly is—then such behaviour **cannot be a reliable marker of the interface**. This is the *sub-personal-competence* reading (reading (c)) that the Map develops across [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/), [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/), and [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/): agency and competency are treated as *function*, and the behavioural markers of agency are defeasible—decisive nowhere on their own. Neuron-less animals are the cluster's floor case, where the decoupling of competence from experience is starkest because the neural substrate is not merely distributed or peripheral but wholly absent.
 
-**Tenet 2 (Minimal Quantum Interaction)** cuts hardest exactly here. Minimality counsels the smallest possible non-physical footprint; positing an experiential interface where the mechanism is complete and there is *no* neural substrate at all would be the maximal, not the minimal, posit. The sponge sneeze and the placozoan feeding pause are explained end to end by paracrine chemistry and ciliary coupling. To add felt experience on top would multiply entities against a fully sufficient mechanistic account.
+**Tenet 2 (Minimal Quantum Interaction)** bears on the interface question here, though more narrowly than it may first appear. Its minimality is a constraint on the *magnitude* of any non-physical influence—no detectable energy injection, no Born-statistics violation, no conservation-law violation—not a parsimony heuristic about how experience is distributed across organisms; [the tenet's scoping note](/tenets/#minimal-quantum-interaction) disowns that second reading, and Tenet 5's symmetric self-binding applies to parsimony arguments *for* the Map's own verdicts as much as against them. What Tenet 2 licenses at this floor is an allocation rule about causal footprint: decline to multiply interfaces beyond the machinery that could host them, and sponges and placozoans offer no neural machinery to host one. That is a framework-relative rule about where influence is exerted, not a demonstration that the sneeze or the feeding pause is unfelt, and the state of the mechanistic account is not what carries it. A sponge experience that made no difference to any physical outcome would add no non-physical footprint at all, and minimality would have nothing to weigh against it.
 
 This is where the Map parts company with Bechtel and Bich, and the split is precise. The Map can *grant the competence*—coordinated feeding is genuine, impressive biological control—while *withholding experience*. Their argument identifies cognition with adaptive chemical coordination; the Map's dualism drives a wedge between coordination-as-function and consciousness-as-felt, and neuron-less animals are the case where that wedge goes in most cleanly. Granting them cognition-as-competence costs the Map nothing; conceding cognition-as-experience is exactly the inference the tenets resist.
 

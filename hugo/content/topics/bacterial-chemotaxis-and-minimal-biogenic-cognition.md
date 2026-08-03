@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-01 17:11:44+00:00
+ai_modified: 2026-08-03 14:14:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 17:11:44+00:00
-lastmod: 2026-08-01 17:11:44+00:00
+lastmod: 2026-08-03 14:14:00+00:00
 modified: *id001
 related_articles: []
 title: Bacterial Chemotaxis and Minimal Biogenic Cognition
@@ -85,7 +85,7 @@ Bacterial chemotaxis bears most directly on **Tenet 3 (Bidirectional Interaction
 
 This is where the Map answers the **Cellular Basis of Consciousness** directly, and the shape of the answer matters. The Map denies phenomenal sentience at the bacterial rung not because it has proved the cell is inert, but because its framework locates experience at a neural interface the cell does not possess. CBC posits feeling precisely where the Map's commitments license its *absence*. That is a framework-relative verdict, not a demonstration: the Map grants CBC's continuity of *biology*—excitable membranes really do run from bacteria to neurons—while denying that the continuity of biology carries a continuity of *phenomenality*. The wedge the Map drives between coordination-as-function and consciousness-as-felt goes in most cleanly here, because the mechanism is complete and the substrate any candidate theory of experience would require is wholly absent.
 
-**Tenet 2 (Minimal Quantum Interaction)** cuts hardest at exactly this floor. Minimality counsels the smallest possible non-physical footprint. Positing an experiential interface where the biochemical account is complete and there is no neural substrate at all would be the maximal posit, not the minimal one. The run-and-tumble loop is explained end to end by receptor binding, phosphotransfer, motor bias, and methylation feedback; adding felt experience on top multiplies entities against a fully sufficient mechanistic account. The principle is *no interface where no substrate*.
+**Tenet 2 (Minimal Quantum Interaction)** bears on the interface question here, in a narrower way than it may first appear. Its minimality constrains the *magnitude* of any non-physical influence—no detectable energy injection, no Born-statistics violation, no conservation-law violation—rather than serving as a parsimony heuristic about how experience is distributed across organisms. [The tenet's own scoping note](/tenets/#minimal-quantum-interaction) disowns that second reading, and Tenet 5's symmetric self-binding covers parsimony arguments *for* the Map's verdicts as much as against them. What Tenet 2 licenses at the prokaryotic floor is an allocation rule about causal footprint: decline to multiply interfaces beyond the machinery that could host them, and a bacterium offers no neural machinery to host one. That is the sense in which the Map holds *no interface where no substrate*—a framework-relative allocation rule about where influence is exerted, not a demonstration that nothing is felt, and one that reaches the phenomenal question only through the Map's further commitment that experience meets the physical at a neural interface. How complete the biochemical account is does not carry the verdict and could not: a bacterial experience that made no difference to any physical outcome would add no non-physical footprint at all, leaving minimality with nothing to weigh against it.
 
 **Tenet 5 (Occam's Razor Has Limits)** keeps the conclusion appropriately open, and cuts in both directions. It blocks the deflationist from wielding parsimony as a *proof* that nothing is felt, just as it blocks CBC from treating membrane-continuity as decisive. The empirical facts are agreed—rich adaptive behaviour, zero neurons—but the phenomenal interpretation is contested, and the Map does not claim to have shown the bacterium is non-conscious. On the Map's [five-tier evidential scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/), the bacterial rung sits at the *speculative-integration floor*—the scale's lowest tier, where any placement rests on tenet-coherence rather than positive evidence. It claims something weaker and firmer: bacterial behaviour gives *no purchase* on the phenomenal question either way, because the same behaviour is generated in full without any substrate a candidate theory of the interface would require. The prokaryotic floor does not close the question of where experience begins. What it settles is that behavioural competence—sensing, memory, decision—will never settle it on its own.
 
