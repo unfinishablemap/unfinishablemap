@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T07:12:05+00:00'
+ai_modified: '2026-08-03T07:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 07:38 UTC - positions-evolve (update P-AC1)
+
+- **Status**: Success
+- **File**: [[positions/ai-consciousness-scope]]
+- **Word count**: 2801 → 2883 (+82)
+- **Published**: yes
+
+**Booked a cost the register was carrying without disclosing.** The Map anchors its preferred region in [[apex/dualism-cartography]] on Saad's delegatory dualism as its nearest respectable neighbour, while P-AC1's substrate verdict requires denying one of that framework's five constraints. Neither the apex nor the register drew the pairing. One sentence added to the end of P-AC1's second *Asserts* paragraph — the layer-(iv) interface-eligibility discussion, which is the premise the constraint actually collides with — recording that the Map **declines** the constraint rather than having refuted it. `Last reviewed` bumped to 2026-08-03. No calibration change: this is a cost disclosure, not a re-grade, and the credence axis already carries the layer-(iv) conditional.
+
+**Publisher verification changed the shape of what got booked.** Flagged by `reviews/outer-review-2026-08-03-claude-opus-5.md` §1.1 (singleton under the 2026-08-03 synthesis; no priority change, no dedupe). The reviewer framed it as an unacknowledged contradiction requiring REVISE-HARD on the apex. It is not one, and no apex edit was made: L119 of the cartography already states that Saad's delegatory trumping "stays logged as a distinct alternative rather than a component of the Map's mechanism", borrowing only two route-level results (ensemble-level observational closure; that experience is not epiphenomenal), neither of which is Organizational Invariance. The alleged contradiction needs a commitment to Saad's constraint list the article explicitly disclaims. `research/bradford-saad-delegatory-dualism-2026-01-28.md` L112 independently records the constraint as *Neutral*. What survives verification is narrower and real: an undisclosed cost, not an inconsistency.
+
+**The constraint was verified at the publisher, not taken from the reviewer.** WebSearch budget was exhausted, so the check ran through WebFetch: OpenAlex → Unpaywall → Semantic Scholar (publisher abstract verbatim) → PMC full text (PMC12062107), the Springer landing page and PDF both being cookie-walled. Saad, *A dualist theory of experience*, *Philosophical Studies* 182(3–4):939–967, DOI 10.1007/s11098-025-02290-3. The abstract states constraint (5) as "ensure that functional duplication preserves phenomenology"; the body names it — "the fifth and final constraint is Chalmers's … (*principle of*) *Organizational Invariance*" — and the substrate reach is explicit in Saad's own case, "Perhaps F1 is a conscious creature while F2 is its unconscious or phenomenally inverted silicon counterpart", forbidden as *nomically* possible. So the reviewer's characterisation held on both points that mattered: the fifth constraint is Organizational Invariance, and it carries the cross-substrate functional-duplication entailment. Given the project's live record of a five-constraints list misattributed to the wrong authors, this was checked before stamping rather than after.
+
+**Quoting choice.** The body's formulation carries an inline footnote marker between "(fine-grained)" and "functional", which breaks contiguity for anyone re-verifying by grep at the publisher. The entry therefore quotes the *abstract's* clean formulation and attributes the *name* to the body — a correct quote that greps as a correct quote.
+
+**Length.** The file was already 301 words over its 2500 hard threshold before this pass (it took a P-AC4 regrade earlier today), so the fix was deliberately held to one sentence. No existing calibration entries were condensed to compensate — the entries are the product, and the section-wide threshold mismatch (three positions files over threshold, `quantum-interface` critical at 4132) is an open operator decision.
+
+**Attribution held.** `ai_system` unchanged — an addition to an existing entry, not re-authoring. `ai_modified` bumped from a live `date -u` (07:36:50), verified strictly past. Synced; the changed sentence is confirmed in `hugo/content/positions/ai-consciousness-scope.md` with the wikilink resolving to `/apex/dualism-cartography/`. Frontmatter validation: 14/14 valid, 0 invalid.
 
 ## 2026-08-03 07:33 UTC - refine-draft
 
