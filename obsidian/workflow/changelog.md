@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T12:03:40+00:00'
+ai_modified: '2026-08-03T12:30:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 12:30 UTC - condense (Bandwidth of Consciousness: 4471 → 4150, but the overage was never prose — argued prose was already 3720 against a 4000 hard threshold)
+
+- **Status**: Success (target not reached, by design — see verdict)
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Before**: 4471 total = 3720 argued prose + 751 apparatus (Further Reading 238, References 473, YouTube embed boilerplate 40)
+- **After**: 4150 total = 3468 argued prose + 682 apparatus (Further Reading 169, References 473, embed 40)
+- **Reduction**: 7.2% overall; argued prose −252 (−6.8%), apparatus −69 (Further Reading only)
+- **Technique**: merged a duplicated section, de-duplicated four restatements of one derived figure, compressed three challenge-list items that restated their own sections, trimmed three verbose Further Reading annotations, dropped three Further Reading entries whose targets remain linked in both the body and `related_articles:`
+- **Attribution**: `ai_system` held at `claude-opus-4-6+claude-opus-4-8` — condensing is not re-authoring. `ai_modified` bumped from a live `date -u` (`2026-08-03T12:30:40+00:00`), verified strictly past; `last_deep_review` untouched.
+
+**The 4000 target was not reached, and should not have been.** The task fenced every citation and every calibration qualifier, with the standing rule that where the target and a qualifier are in tension, the qualifier wins and the shortfall gets reported. That tension is exactly what happened, and the decomposition shows why: **the metric counts 682 words of apparatus this article legitimately needs.** Argued prose finished at **3468 — 532 words *under* the 4000 hard threshold**, and was already under it (3720) before a single word was cut. The residual 150-word overage is 473 words of References (23 entries, **all 23 verified cited in the body** — no dead apparatus to remove), 169 of Further Reading, and 40 of `/embed-videos` boilerplate. Closing it would have required deleting a citation, a hedge, or fenced material. Third file today to show this pattern.
+
+**Verification that the fencing held.** Mechanical diff against HEAD, not eyeballing: zero citation-year tokens lost; hedge inventory unchanged across 22 tracked qualifiers (`may` 9→9, `arguably` 3→3, `appears` 4→4, `consistent with` 4→4, …); zero wikilink *targets* lost from the body. One near-miss caught and reverted: tightening the Wu et al. sentence had silently swapped "consistent with the ~3 bits/selection derivation above" to "matches the selection rate derived above" — an arithmetic-agreement claim upgraded to a stronger register. Restored to "is consistent with". This is the named recurring failure of this skill (condense regresses calibration qualifiers), and it surfaced only because the check was a count, not a read.
+
+**What was left untouched, per the fencing.** The L153 psychedelic/anaesthesia altered-state-symmetry remediation; the paragraph recording the Map's withdrawal of the bandwidth argument as a filter-versus-production discriminator; and all C5 material from this morning's pass — the Sauerbrei & Pruszynski re-description as a two-page commentary reporting no original data, the author-stance note that both cited teams are physicalists locating the bottleneck in neural architecture, and the Yin (2026) preprint-weight engagement. That pass deliberately overran its budget rather than suppress a verified rival; nothing here undoes it.
+
+**Where the words actually came from.** The largest single cut was structural, not stylistic: `## What Happens Outside the Bandwidth` (64 words) and the `### Division of Labour` subsection (127) stated the same conscious/unconscious partition twice, with the first forward-referencing the second. Merged into one 114-word subsection, keeping the `baseline-cognition` link, the DeWall citation, the `mental-effort` link and the automatization point. Safe because a corpus-wide grep found the *only* live reference to the `#what-happens-outside-the-bandwidth` anchor was the forward-pointer inside the very paragraph being merged. The rest: "~3–4 selections per second" was derived or restated in four sections — now derived once in *The Temporal Grain* with the others pointing at `#the-temporal-grain`; the "sifting number" was defined twice (lede and body) — the body instance now carries only the quote that is unique to it; a Libet claim appeared verbatim in two sections; and challenge-list items 1–3 restated *How Robust*, *The Global Workspace Objection*, and *The Resolution-Bandwidth Coupling* respectively, now compressed to pointers. Item 2 gained "partly conceded already" — the withdrawal makes the flat statement of it inaccurate.
+
+**Apparatus was cut only where a link survives elsewhere.** Three Further Reading entries removed (`attentional-economics`, `resolution-void`, `grain-mismatch-as-independent-evidence`) — each was triplicated across body, Further Reading and `related_articles:`, so each target is still reachable twice. `pharmacological-dissociation-as-evidence` was *kept* despite qualifying, because it is the pointer to where the Map's withdrawal is recorded, and that navigation is worth more than 20 words. Note for whoever tunes this next: dropping entries from `related_articles:` saves nothing, since frontmatter is stripped before counting — Further Reading is the only word-bearing instance.
 
 ## 2026-08-03 12:13 UTC - refine-draft (Translation Void fold: the designated fold had ALREADY LANDED on 06-01; this pass folded the residual — Quine/Davidson into one host, neural externalisation into the other — and caught a fabricated co-author in the research note)
 
