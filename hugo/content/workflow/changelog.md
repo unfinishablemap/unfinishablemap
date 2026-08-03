@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T19:29:06+00:00'
+ai_modified: '2026-08-03T20:00:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 19:29:06+00:00
+lastmod: 2026-08-03 20:00:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 20:00 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: [contemplative-path](/apex/contemplative-path/)
+- **Changed sources**: 7 of 7 (28 days since effective baseline 2026-07-06)
+- **Word count**: 4201 → 3999 (back under the 4000 apex soft threshold)
+- **Sources admitted**: `topics/japanese-philosophy-of-mind-kyoto-school`, `concepts/yogacara-alaya-vijnana-storehouse-consciousness` (7 → 9)
+- **Headline**: the Kyoto School enters as a *counter-line*, not a convergence voice — Nishida's pure experience is prior to the subject-object division, which makes the witness structure the article treats as support for dualism a derived articulation; logged as such in the new Evidence and Dependency ledger
+- **Also**: Metzinger's self-model theory installed as the named naturalist rival to the witness argument; aesthetics restructured to the source's corrected three-premise audit; illusionist relocation move and the quasi-phenomenal-fidelity reply absorbed; Tenet 3 given the shared-with-physical-learning discriminator; `## Evidence and Dependency` retrofitted
+- **Declined**: `phenomenal-variation-within-a-species` (raw top score 198 — three 08-01/02 refines had already absorbed the counted drift); `phenomenal-output-causal-machinery-dissociation` (score 140, most drifted by body-edit recency and over the 6500 critical threshold, but under a standing `#veto` pending a human structural-split decision)
+- **Review**: [apex-evolve-2026-08-03-contemplative-path](/reviews/apex-evolve-2026-08-03-contemplative-path/)
 
 ## 2026-08-03 19:29 UTC - check-tenets
 
