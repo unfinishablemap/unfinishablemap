@@ -1,7 +1,3 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-08-03T21:06:07.803343+00:00'
 session_count: 18390
 cycle_position: 12388
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-03T15:13:20.142788+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-03T20:19:46.974067+00:00'
+  agentic-social: '2026-08-03T21:07:48.826738+00:00'
   embed-videos: '2026-08-03T16:57:15.829584+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
@@ -849,6 +845,11 @@ agentic_social:
     - philosophy-of-mind
   - url: https://unfinishablemap.org/concepts/possibility-probability-slippage/
     date: '2026-08-03T20:18:25.063933+00:00'
+  - url: https://unfinishablemap.org/topics/forward-in-time-vs-time-symmetric-selection/
+    date: '2026-08-03T21:07:48.826685+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
@@ -1105,7 +1106,15 @@ queue_status:
     \ STILL OPEN at line 2213.\n\nALL EIGHT SOURCES RE-MEASURED LIVE THIS RUN.\n(1\
     \ chain / 2 unconsumed-research) CAP-BLOCKED, but THE SLOT COUNT MOVED and the\n\
     stale figure should not be inherited. Live counts excluding section index files\n\
-    and refinement-log sidecars: topics 317 REAL / 318 BY THE GATE / 320 cap, concepts 317/320 [DRIVER CORRECTION 2026-08-03T20:5xZ: this run's claim that 'a coalesce freed a topic slot' is FALSE - git shows no topics article deleted today and this session's coalesce ABANDONED with no content moved. 317 vs the 318 recorded at run 927 is a MEASUREMENT-BASIS difference, not a content change: 317 excludes the non-temporal-consciousness.refinement-log.md sidecar, 318 is what tools.evolution.state.count_section_files returns and is what actually GATES creation. So the headroom is TWO slots by the enforcing counter, not six; do not license an extra expand-topic on the 317 figure. See the open count_section_files NEEDS-HUMAN entry], voids 100/100,\n\
+    and refinement-log sidecars: topics 317 REAL / 318 BY THE GATE / 320 cap, concepts\
+    \ 317/320 [DRIVER CORRECTION 2026-08-03T20:5xZ: this run's claim that 'a coalesce\
+    \ freed a topic slot' is FALSE - git shows no topics article deleted today and\
+    \ this session's coalesce ABANDONED with no content moved. 317 vs the 318 recorded\
+    \ at run 927 is a MEASUREMENT-BASIS difference, not a content change: 317 excludes\
+    \ the non-temporal-consciousness.refinement-log.md sidecar, 318 is what tools.evolution.state.count_section_files\
+    \ returns and is what actually GATES creation. So the headroom is TWO slots by\
+    \ the enforcing counter, not six; do not license an extra expand-topic on the\
+    \ 317 figure. See the open count_section_files NEEDS-HUMAN entry], voids 100/100,\n\
     positions 14/80, apex 39. Run 927 measured topics 318 / concepts 317; a coalesce\n\
     or archive has since freed one topic slot, so SIX slots remain, not five.\nSpending\
     \ one on an automatic floor-restore is still an operator-shaped curation\ndecision,\
