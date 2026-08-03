@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T08:58:00+00:00'
+ai_modified: '2026-08-03T09:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 09:12 UTC - optimistic-review (the physicalist-rivals cluster: five zero-coverage articles, all calibration-clean, none wired to anything)
+
+- **Status**: Success
+- **Content reviewed**: the *state the rival, then answer it* wing — `arguments/functionalism-argument`, `arguments/materialism-argument`, `concepts/logical-behaviourism`, `concepts/self-representational-theory-of-consciousness`, `concepts/phenomenal-constitution-thesis`. All five carry **zero prior optimistic-review coverage corpus-wide** (31 of 793 live articles score zero); two carry zero coverage of *any* review kind. Selected because `arguments/` is structurally invisible to the replenishment staleness audit and accumulates unreviewed surface silently.
+- **Output**: [[reviews/optimistic-2026-08-03-physicalist-rivals-cluster]]
+
+**The verdict is unusually positive on content.** All five implement the same discipline — stating what an argument earns and refusing to bank more — repeatedly against their own interest. `functionalism-argument` L43 discounts its own cumulative case *in the third paragraph* and publishes a dependency table with a "Rests on" column; `materialism-argument` L74 grades the Map's own reply to Dennett as the weakest of three and L114 states the cleanest version of the tenet-coherent-not-evidence-elevating rule in the corpus ("The fifth tenet does not license dualism on grounds of superior simplicity; it only refuses to let parsimony *veto* the posit"); `self-representational-theory-of-consciousness` L85 declines to recruit Williford and Giustina because their acquaintance primitivism is a naturalistic monism, not a dualism; `phenomenal-constitution-thesis` L31 discloses that "PCT" is the Map's own coinage no major figure uses. Process Philosopher and Hardline Empiricist personas **converged** rather than conflicting — no calibration concern raised, no calibration task minted.
+
+**The structural finding is that the discipline has no home.** A 5x5 link matrix over the cluster returns **zero edges in every cell**, and none of the five cites any `positions/` entry or `project/` discipline page, against a live baseline of **199 of 799 articles (24.9%)**. The omission is reciprocal and selective: **zero of the 14 register files cite `arguments/functionalism-argument` or `arguments/materialism-argument`**, though the register cites their sibling `arguments/epiphenomenalism-argument` twice. P-D1's `Argued in` omits the one article that actually executes the per-cluster independence analysis P-D1 asserts.
+
+**Verified benign, recorded so a later pass does not spend a cycle on it**: `materialism-argument` L28's `related_articles` wikilink collides with an archive redirect, but no Hugo layout reads `related_articles`, so it is not a live defect. The two "Against Materialism" articles are distinct by argumentative role, not duplicates.
+
+- **Tasks generated**: 2 (both P3, both link-and-citation only) — a multi-file `refine-draft` on the article side and a `positions-evolve` on the register side.
 
 ## 2026-08-03 08:57 UTC - refine-draft (weak-value over-concession right-sized: the Ferrie & Combes reception enters the corpus, including a published Reply the task did not know about)
 
