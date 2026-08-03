@@ -28,12 +28,12 @@ last_curated: null
 
   The finding is in fact **Senatore, Reese & Smith 2017** (*J. Exp. Biol.* 220(18):3381–3390, doi:10.1242/jeb.162396), whose abstract reads: *"when endomorphin-like peptides are applied to an animal, ciliary beating is arrested, mimicking natural feeding pauses"* and *"Signal amplification by peptide-induced peptide secretion explains how a small number of sensory secretory cells lacking processes and synapses can evoke a wave of peptide secretion across the entire animal to globally arrest ciliary beating."* The article's wording was a close paraphrase of that abstract ("processless, synapse-less cells" ← "cells lacking processes and synapses"), which confirms the source and confirms the attribution was simply dropped in synthesis.
 
-  Diagnostic note: the article's own **research note** (`research/neuron-less-animals-...-2026-07-08.md`, line 87) attributes the finding correctly — *"Later work (Senatore, Reese & Smith 2017) shows..."*. The defect was introduced when the note was synthesised into the article, not inherited from research. This is the inverse of the usual [[research-note-self-flagged-gaps-propagate-to-the-article]] direction and worth noting as a distinct failure shape: a **correct** note can still yield a **mis-cited** article.
+  Diagnostic note: the article's own **research note** (`research/neuron-less-animals-...-2026-07-08.md`, line 87) attributes the finding correctly — *"Later work (Senatore, Reese & Smith 2017) shows..."*. The defect was introduced when the note was synthesised into the article, not inherited from research. This is the inverse of the usual `research-note-self-flagged-gaps-propagate-to-the-article` direction and worth noting as a distinct failure shape: a **correct** note can still yield a **mis-cited** article.
 
   - **Fix applied**: rewrote the sentence with explicit attribution and added the paper as reference [12] (self-cites renumbered 12–13 → 13–14; no inline `[12]`/`[13]` markers existed, so renumbering was safe). New wording: *"The pause itself was given a mechanism by later work: Senatore, Reese and Smith showed that applying endomorphin-like peptides arrests ciliary beating outright, mimicking the natural feeding pause, and proposed that peptide secretion elicits further secretion from neighbouring cells—an amplification step that would let a handful of secretory cells with neither processes nor synapses propagate a whole-body signal [12]."*
   - **Calibration improvement bundled in**: the original flatly asserted the amplification wave as established fact. Senatore et al. *demonstrate* the ciliary arrest but only *presume* the peptide-induced-peptide-secretion amplification ("so we presume that the peptides secreted from one animal elicit secretion from nearby animals"). The replacement preserves that showed/proposed distinction, which brings the passage into line with the article's Tenet-5 restraint elsewhere.
 
-- **Corpus sweep**: `globally arrest` / `ciliary beating` / `processless` grepped across `obsidian/`, `archive/`, and `hugo/content/`. The defect existed only in this article and its `hugo/` mirror (the mirror regenerates on next sync). The research note is correct. No sibling propagation, no archived serving bodies affected. Per [[fix-by-file-leaves-string-siblings-live]] and [[defect-sweeps-must-include-archive-tree]], the family is closed.
+- **Corpus sweep**: `globally arrest` / `ciliary beating` / `processless` grepped across `obsidian/`, `archive/`, and `hugo/content/`. The defect existed only in this article and its `hugo/` mirror (the mirror regenerates on next sync). The research note is correct. No sibling propagation, no archived serving bodies affected. Per `fix-by-file-leaves-string-siblings-live` and `defect-sweeps-must-include-archive-tree`, the family is closed.
 
 ### Medium Issues Found
 
@@ -55,7 +55,7 @@ References block was **edited this pass**, so verification was scoped to the new
 - Superlative-claim helper (`find_superlative_claims`) returned **empty** — no currency-drift exposure.
 - Inline ↔ References cross-check re-run after renumbering: inline markers `[1]`–`[12]` all resolve; refs 13–14 are the uncited Map self-cites retained per site convention.
 
-Note: WebSearch budget was exhausted at 200/200 this session; verification was completed via WebFetch against publisher and EuropePMC records, per [[webfetch-survives-websearch-exhaustion]].
+Note: WebSearch budget was exhausted at 200/200 this session; verification was completed via WebFetch against publisher and EuropePMC records, per `webfetch-survives-websearch-exhaustion`.
 
 ## Optimistic Analysis Summary
 

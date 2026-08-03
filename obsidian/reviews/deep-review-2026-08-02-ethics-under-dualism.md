@@ -89,7 +89,7 @@ Seven sympathetic personas re-applied. Strengths preserved unchanged: the front-
 
 ## Remaining Items
 
-- **`archive/topics/ethics-of-consciousness.md:73`** (and its Hugo copy) carries the same superseded "15-20%" sentence, inherited from the pre-coalesce original. Left unactioned deliberately: archived pages are historical snapshots carrying an archive notice pointing to this article, and rewriting archived bodies is a convention call rather than a review call. Flagged with the exact locus so a human or a dedicated sweep can decide. Note that `archive/` is served, so this is a live-reader-visible stale figure ([[defect-sweeps-must-include-archive-tree]]).
+- **`archive/topics/ethics-of-consciousness.md:73`** (and its Hugo copy) carries the same superseded "15-20%" sentence, inherited from the pre-coalesce original. Left unactioned deliberately: archived pages are historical snapshots carrying an archive notice pointing to this article, and rewriting archived bodies is a convention call rather than a review call. Flagged with the exact locus so a human or a dedicated sweep can decide. Note that `archive/` is served, so this is a live-reader-visible stale figure (`defect-sweeps-must-include-archive-tree`).
 - **Street / Darwinian-Dilemma moral-realism-debunking gap** — still tracked in `todo.md` as a human-deferred length decision. Not actioned, not papered over. Unchanged from 07-14.
 
 ## Stability Notes

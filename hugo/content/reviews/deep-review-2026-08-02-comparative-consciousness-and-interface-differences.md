@@ -43,7 +43,7 @@ Because the body was modified, the §2.4 trigger **was** met this pass — and u
 
 ## Citation Web-Verification Ledger (all 11 references)
 
-WebSearch budget was exhausted this session; verification ran through Crossref and OpenAlex against publisher-of-record metadata (per `[[webfetch-survives-websearch-exhaustion]]`).
+WebSearch budget was exhausted this session; verification ran through Crossref and OpenAlex against publisher-of-record metadata (per ``webfetch-survives-websearch-exhaustion``).
 
 - **Birch, J. (2024)** *The Edge of Sentience* (OUP) — **real-correct**.
 - **Carhart-Harris, R. L. & Friston, K. J. (2019)** REBUS and the Anarchic Brain, *Pharmacological Reviews* 71(3), 316-344 — **real-correct** (DOI 10.1124/pr.118.017160; title, authors, venue, volume, issue, pages all confirmed).
@@ -91,7 +91,7 @@ Metzinger MPE → canonical *Philosophy and the Mind Sciences* 1(I), 1-44:
 - `obsidian/concepts/interface-heterogeneity.md` (the mis-corrected variant)
 - `archive/concepts/minimal-consciousness.md`
 
-Research notes were included per `[[research-note-self-flagged-gaps-propagate-to-the-article]]`; `archive/` was included per `[[defect-sweeps-must-include-archive-tree]]` — it carries full serving bodies. Post-fix grep for `ARAS` and `1660-1672` across `obsidian/` and `archive/` returns zero. Hugo mirrors regenerate on sync.
+Research notes were included per ``research-note-self-flagged-gaps-propagate-to-the-article``; `archive/` was included per ``defect-sweeps-must-include-archive-tree`` — it carries full serving bodies. Post-fix grep for `ARAS` and `1660-1672` across `obsidian/` and `archive/` returns zero. Hugo mirrors regenerate on sync.
 
 ## Pessimistic Pass
 
