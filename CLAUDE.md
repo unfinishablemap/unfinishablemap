@@ -266,10 +266,21 @@ Maximum article counts per section, configured in `evolution-state.yaml` under `
 
 | Section | Cap | Current |
 |---------|-----|---------|
-| `topics/` | 320 | ~273 (270→300 on 2026-06-14 for the revived research pipeline; 300→320 on 2026-06-20) |
-| `concepts/` | 320 | ~265 (270→300 on 2026-06-14; 300→320 on 2026-06-20) |
-| `voids/` | 100 | ~101 |
-| `positions/` | 80 | seeded 2026-06-04 |
+| `topics/` | 320 | **318 — 2 slots left** (as of 2026-08-03; caps raised 270→300 on 2026-06-14 for the revived research pipeline, 300→320 on 2026-06-20) |
+| `concepts/` | 320 | **317 — 3 slots left** (as of 2026-08-03; 270→300 on 2026-06-14, 300→320 on 2026-06-20) |
+| `voids/` | 100 | 100 — **at cap** (as of 2026-08-03) |
+| `positions/` | 80 | 13 (seeded 2026-06-04) |
+
+⚠️ **These figures go stale fast — always re-measure before acting on them.** The
+`Current` column above is a snapshot, not a live value; it read `~273`/`~265` until
+2026-08-03 while the true counts were 318/317, and a queued `expand-topic` task had
+already copied the stale figure into its own justification. Measure with
+`tools.evolution.quality.count_section_files` (the gating function) rather than
+trusting this table or a task note that quotes it. Note also that
+`count_section_files` currently over-counts `topics/` by one — it treats an
+editor-internal sidecar as a live article — so the gate reads 318 where 317 real
+articles exist; see the open `count_section_files` NEEDS-HUMAN entry in
+`obsidian/workflow/todo.md`.
 
 When a section reaches its cap, automation stops creating new articles there and shifts to improving existing content (reviews, condensing, coalescing). Caps are enforced at:
 - `/expand-topic` — refuses to place articles in a full section
