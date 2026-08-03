@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-03T16:20:51.146269+00:00'
-session_count: 18373
-cycle_position: 12381
+last_updated: '2026-08-03T16:28:07.467284+00:00'
+session_count: 18374
+cycle_position: 12382
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T12:56:01.426859+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
-  refine-draft: '2026-08-03T16:20:51.146269+00:00'
+  refine-draft: '2026-08-03T16:28:07.467284+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
   replenish-queue: '2026-08-03T14:35:37.202135+00:00'
   condense: '2026-08-03T12:33:19.441219+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-03'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-03'
@@ -187,6 +183,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-03'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-03'
   outcome: success
 - task: refine-draft
@@ -883,12 +883,12 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 5
-  p3_tasks: 24
+  p3_tasks: 21
   needs_replenishment: false
   loop_pickable_open: 5
-  last_replenishment: '2026-08-03T14:32:00+00:00'
-  last_replenishment_prev: '2026-08-02T03:40:00+00:00'
-  last_replenishment_run: 926
+  last_replenishment: '2026-08-03T16:45:00+00:00'
+  last_replenishment_prev: '2026-08-03T14:32:00+00:00'
+  last_replenishment_run: 927
   last_replenishment_mode: zero-mint-triple-promotion
   replenishment_source_counts:
     chain: 0
@@ -961,187 +961,6 @@ queue_status:
     \ refine-draft last_run bump, recent_tasks\nreorder) -- left alone per the orphaned-cyclepost-state-advance\
     \ precedent.\nREVERT only if a sibling replenish double-restores this slot.\n\n\
     Pruned run_922_note to hold the note ring at three."
-  run_924_note: 'run no.924 (2026-08-02T01:52Z, cycle-driven /replenish-queue): MINTED
-    TWO P2 TASKS
-
-    FROM A DIVERGENT-VERBATIM-QUOTE LENS. Floor restored 2 -> 4.
-
-
-    COUNTS re-derived live via tools.todo.processor.parse_tasks and
-
-    tools.evolution.task_selector.count_p0_p2_tasks.
-
-    BEFORE: 33 active, 0 P0, 0 P1, 2 P2, 31 P3 against MIN_QUEUE 3 -- BELOW the floor.
-
-    AFTER: 35 active, 0 P0, 0 P1, 4 P2, 31 P3. The pair that drained since run 923
-    was
-
-    run 923s own Kripke mint (commit a1e8871b4) and run 922s BBS page-range mint
-
-    (commit 28af70c5b); BOTH survivors are still open at lines 2044 and 2070, notes
-    5648
-
-    and 2967 chars, byte-identical post-write. Bottom-inserted at 2174 and 2207 so
-    FIFO
-
-    drains the older pair first and no existing anchor shifted (verified: both
-
-    pre-existing P2 headers still at 2044 / 2070, and select_queue_task still returns
-
-    the Chalmers task).
-
-
-    THE LENS -- SAME QUOTATION, DIFFERENT WORDING, ACROSS FILES. Third sibling of
-    the
-
-    run-922 page-range and run-923 year lenses, moved off the reference apparatus
-    and
-
-    onto BODY PROSE. Extract every double-quoted span from obsidian/{topics,concepts,
-
-    apex,voids,positions,research} plus archive/, FRONTMATTER STRIPPED FIRST (per
-
-    content-metrics-must-strip-frontmatter-first -- unstripped, quoted wikilinks and
-
-    title/description dominate the output and the lens measures nothing), normalise
-
-    (wikilink and md-link labels unwrapped, emphasis stripped, case and punctuation
-
-    folded), keep spans >= 8 words, index by 5-word shingles, and report pairs sharing
-
-    >= 2 shingles with difflib ratio in [0.80, 1.0). 12,813 spans, 366 near-identical
-
-    divergent families. Filtering to families where no variant is a SUBSTRING of another
-
-    (a substring is an excerpt, not a divergence) leaves 192 genuine word-substitution
-
-    families. The lens needs NO web budget to find candidates: internal divergence
-
-    proves at least one locus is non-verbatim on its own.
-
-
-    WHAT SURVIVED, AND WHY THESE TWO.
-
-    (1) TENET-2 SELF-MISQUOTE -- the strongest single finding of the last four runs.
-
-    Four live articles, two served archive bodies and one research note put "the
-
-    smallest possible non-physical influence on quantum outcomes" inside quotation
-
-    marks and attribute it to Tenet 2. tenets.md L62 reads PHYSICAL outcomes and
-
-    git log -S over every revision of tenets/tenets.md returns ZERO commits ever
-
-    introducing the quantum form -- so this is NOT stale-but-once-correct drift, it
-    is
-
-    a fabricated quotation of the Maps own tenet. Two aggravators make it a lens defect
-
-    rather than seven typos: deep-review-2026-07-15-interface-heterogeneity ran an
-
-    explicit Quote-Fidelity Lens, reached the exact string, and EXEMPTED it for being
-    a
-
-    self-quote (the self-quotation sibling of quote-aggregator-ratification-corrupts-
-
-    verbatim -- inspected and blessed, not missed); and CLAUDE.md L394 carries the
-    wrong
-
-    form, so every agent that reads the instruction file reproduces it. Task scoped
-    to
-
-    the seven QUOTED loci plus CLAUDE.md L394, and explicitly FORBIDS sweeping the
-    nine
-
-    unquoted paraphrases -- Tenet 2s own Definition says "at the quantum level", so
-    the
-
-    paraphrase is faithful to the tenets content and only the quotation marks create
-    a
-
-    defect. tenets.md itself must not be edited (tenet amendment is an operator call).
-
-    (2) RESEARCH-AND-ARCHIVE QUOTE RESIDUE -- six canonical quotations (Hume, Wheeler,
-
-    Nisbett and Wilson, Schwitzgebel, McGinn, Wittgenstein PI 272), ~20 quoted loci,
-    all
-
-    in obsidian/research/ or archive/, all with the correct form ALREADY publisher-
-
-    verified in a named in-repo review file, so zero web budget is needed. One mechanism:
-
-    a deep-review corrects the file it was pointed at, the live tree ends clean, and
-    the
-
-    string survives in the research note that seeded it and the archived body that
-
-    inherited it -- fix-by-file-leaves-string-siblings-live at corpus scale. Worst
-    locus
-
-    is a fabricated quote FRAME (three words of invented preamble inside the quotation
-
-    marks). Notable sub-finding: the Schwitzgebel family is a HOUSE-STYLE mechanism,
-    not
-
-    typos -- British spelling normalisation crossed into verbatim quotes from a US
-
-    author, and the same research note keeps the correct spelling in its Quote field
-
-    while Britishising the prose restatement.
-
-
-    FALSE-POSITIVE CLASSES RECORDED IN THE TASK NOTES so the next run does not re-chase
-
-    them. (i) RIVAL PAPERS WITH DELIBERATELY OPPOSED TITLES -- concepts/local-tomography
-
-    carries "can be experimentally falsified" (Renou 2021 Nature) at L32 and "cannot
-    be
-
-    experimentally falsified" (Hoffreumon and Woods 2026) at L34. This was the most
-
-    alarming-looking hit in the entire scan and is entirely correct; the 2026 paper
-    is a
-
-    rebuttal that inverts the 2021 title on purpose. Caught only by opening the file
-    --
-
-    exactly replenish-asserted-concrete-defect-often-false. (ii) SHORTER EXCERPTS
-    of the
-
-    same quote. (iii) EDITIONS AND TRANSLATIONS, carried over from run 923.
-
-    ALSO DEDUPED, NOT MINTED: the Carroll-regress variants (concepts/carrolls-regress
-    vs
-
-    voids/inference-void) are already owned by an open P3 at line 2003; found by grepping
-
-    open task NOTES rather than titles, the same discipline that caught run 923s
-
-    O Brien-Kop duplicate.
-
-
-    SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files
-
-    is 0); length_analysis -- unchanged from run 923, only positions registers and
-    the
-
-    vetoed epistemology-of-convergence-arguments are over threshold; unconsumed_research
-
-    and gap_analysis -- topics 318/320 and concepts 318/320 leave two slots each and
-
-    voids is at cap 100/100, so expand-topic is effectively blocked; staleness --
-
-    deep-review pool converged.
-
-
-    CONCURRENCY: sibling agents main and coalesce were active in-session. git status
-    was
-
-    taken before the write (only evolution-state.yaml dirty) and the queue re-parsed
-
-    live immediately before and after. REVERT only if a sibling replenish double-restores
-
-    this slot. Pruned run_921_note to hold the note ring at three.'
   run_926_note: "run no.926 (2026-08-03T14:32Z, cycle-driven /replenish-queue): ZERO\
     \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT. Second consecutive\n\
     zero-mint run; the reasoning is re-derived below from live measurement, not\n\
@@ -1230,3 +1049,130 @@ queue_status:
     \ 317 during the\nsession, consistent with the coalesce sibling archiving one\
     \ file; this does\nnot affect any conclusion above. REVERT only if a sibling replenish\
     \ also\nrestores this slot.\n\nPruned run_923_note to hold the note ring at three.\n"
+
+  run_927_note: |-
+    run no.927 (2026-08-03T16:45Z, cycle-driven /replenish-queue): ZERO MINTS.
+    Floor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT. Third consecutive
+    zero-mint run, but the length verdict below is NEW WORK, not inherited:
+    runs 925 and 926 both classified the live over-length band by eyeball and
+    called it exhausted. This run DECOMPOSED it and reached the same verdict
+    for a partly different reason, plus one durable finding recorded below.
+
+    COUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks
+    and tools.todo.processor.parse_tasks, never from this file.
+    BEFORE: 26 active, 0 P0, 0 P1, 2 P2, 24 P3 against MIN_QUEUE 3 -- below floor.
+    AFTER:  26 active, 0 P0, 0 P1, 5 P2, 21 P3.
+    Run 926's three promotions all EXECUTED and drained cleanly in the ~2h since
+    (parfit regress 6ff3dd4e6, ape 2+/-1 archive census 4984a97e4, Chalmers
+    five-constraints 52f93334c + 99de34bd2). The promote-to-restore-floor
+    mechanism is producing real throughput at roughly one task per 1-2 hours,
+    so it is not the starvation failure mode -- it is the P3 backlog being
+    metered into pickable work three at a time.
+
+    ALL EIGHT SOURCES RE-MEASURED LIVE THIS RUN.
+    (1 chain / 2 unconsumed-research) CAP-BLOCKED. Live counts excluding section
+    index files: topics 318/320, concepts 317/320, voids 100/100, positions
+    13/80, apex 39. Five slots remain against 530 research notes, so spending
+    one on an automatic floor-restore stays an operator-shaped decision. A NEW
+    research note landed this run (research/phenomenal-individuality-and-
+    biological-individuality-pluralism-2026-08-03.md, commit 5141fc5d8) and its
+    chain successor was DECLINED for exactly that reason -- an expand-topic is
+    already queued at line 1988 and a second would be worse, not better.
+    (3 gap analysis) Same cap block.
+    (4 staleness) CONVERGED. get_review_candidates returns 158 candidates; top
+    entry is 15 days since review and the deepest in the top twelve is 25 days.
+    NOTHING crosses the skill's 30-day bar. The cycle's four deep-review slots
+    per 24 already drain this pool.
+    (5 orphan_integration) ZERO, verified live rather than read off quality.
+    orphaned_files. A fresh wikilink scan over 814 non-workflow files returns 5
+    apparent orphans, ALL false: one .refinement-log.md sidecar (intentional,
+    never auto-delete) and four authors/ pages, which are referenced from the
+    frontmatter author field rather than by wikilink.
+    (6 length_analysis) EXHAUSTED -- AND HERE IS THE NEW PART. Raw
+    get_length_warnings returns 101 hard-plus entries, 58 of them live content.
+    Runs 925/926 dismissed the head of that list as the known false-over-length
+    band without measuring it. Decomposed this run by stripping frontmatter and
+    the reference apparatus (first References/Further Reading heading onward):
+      - concepts/qualia.md 4028 total -> 3493 PROSE against a 3500 hard ceiling.
+        GENUINELY UNDER. Textbook false-over-length; do not re-chase it.
+      - topics/volitional-control.md 4996 total -> 4205 PROSE against 4000.
+        GENUINELY OVER, un-vetoed, and with no prior condense or human-decision
+        marker -- the one real new candidate this run found. NOT MINTED anyway:
+        it is a 46-inbound hub whose own description does calibration work
+        ("levelled, not overturned"), reaching the 3000 soft ceiling would mean
+        cutting ~1200 words of calibration-dense prose, and every structurally
+        identical sibling (born-rule 5055, epistemology-of-convergence 5743) is
+        already DEFERRED-TO-HUMAN for precisely that reason. Minting it would
+        have set the loop up to auto-condense a flagship. RECORD, DO NOT
+        RE-DERIVE: if volitional-control is ever to be cut it needs the same
+        human length decision its siblings got, not a replenish mint.
+      - The three worst genuine offenders remain VETOED in place at lines 714,
+        1354 and 1362 (composition-question-rivals, meaning-of-life,
+        phenomenal-output-causal-machinery-dissociation).
+    (7 positions) 13 entries; four positions-evolve tasks already open.
+    (8 applied apex gap) Two apex-evolve tasks already open at lines 1967, 2065.
+
+    THE THREE PROMOTIONS -- each CONFIRMED ON DISK before promoting, because an
+    asserted defect is often false and none of these was taken on the note's word:
+    - line 90, transactional-interpretation wiring (concepts/retrocausality.md).
+      VERIFIED: the file discusses TI across twelve prose loci including Cramer
+      1986, the Maudlin contingent-absorber challenge and Kastner's PTI reply,
+      and greps ZERO wikilinks to concepts/transactional-interpretation-of-
+      quantum-mechanics -- the article that declares itself in its own lead the
+      canonical home for these references and that holds the Map's declines.
+      29 inbound links, so this is the wing's hub borrowing the machinery while
+      bypassing the disclaimers. Length-neutral: one wikilink plus one Further
+      Reading entry per file. No web budget needed.
+    - line 2047, positions/methodology-and-calibration.md relocation. VERIFIED
+      3401 words against a 2500 hard ceiling by this run's own analyze_length
+      call. Promoted because the instrument is RELOCATION, not compression,
+      which answers run 926's blanket "registers are a category error to
+      condense": the precedent already exists in the same directory as
+      positions/quantum-interface-calibration-history.md (2561w), and the task
+      carries an explicit guard against moving the ^calibration-schema anchor
+      that ~10 files deep-link. Offline, non-lossy, explicit success criterion.
+    - line 2219, the basal-and-bioelectric-cognition "pressure points" quote.
+      VERIFIED present at L54 of the article, in quotation marks, attributed to
+      Levin & Dennett's 2020 Aeon essay. Quote fidelity is orthogonal to the
+      three metadata passes this citation has already survived, which is the
+      whole reason it is still unchecked. Its predecessor was blocked ONLY by an
+      aeon.co HTTP 429 and an exhausted WebSearch budget; a fresh session gets a
+      fresh WebFetch. The task correctly forbids de-quoting on suspicion.
+
+    ANTI-LIFO, AND A CORRECTION TO RUN 926's NOTE. Run 926 recorded its two
+    surviving P2s as "run 924's pair" at lines 2225/2252. That provenance is
+    WRONG: git -S dates the live pair to b349a864a (09:30Z today,
+    dualism-cartography) and 1a7981e61 (12:09Z today, the Russell 1927 quote),
+    both minted 2026-08-03. Run 924's actual pair is already gone. So the pair
+    is 7 and 4 hours old, not two days starved, and the LIFO exposure is mild.
+    It was still minimised: the quote-fidelity promotion sits at line 2219,
+    BETWEEN the two standing P2s, so dualism-cartography at 2203 is picked
+    ahead of it rather than jumped a second time.
+
+    DECLINED PROMOTION, RECORDED SO THE NEXT RUN DOES NOT RE-CHASE IT: line 40,
+    the illusionist-regress family tail (~8 mid-band loci plus archive). The
+    defect is REAL -- nihilism-and-existentialism L80-84 and L144 do run the
+    regress decisively ("reveals why this is self-undermining", "shows why
+    deflation cannot meet it") with no pressure-point hedge. Left at P3 anyway
+    because that family has ALREADY consumed three cycle slots today (93c1beed1,
+    ed8a4dfdc, 6ff3dd4e6) and the driver that minted this tail 1.5h ago chose P3
+    deliberately, calling it small and cheap. A fourth family task today would
+    be the same-file pileup pattern applied to a defect family; other defect
+    classes deserve the airtime. It is cheap and fresh and will keep.
+
+    ZERO LINE SHIFT, deliberately. todo.md is 18097 lines before and after; the
+    diff is 3 insertions and 3 deletions, all one-character P3-to-P2 header
+    edits. No task block moved and no anchor shifted, so any in-flight
+    cycle_post line reference stays valid.
+
+    VERIFIED AFTER THE WRITE: count_p0_p2_tasks returns 5; select_queue_task
+    returns line 89, the transactional-interpretation wiring task.
+
+    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session.
+    HEAD was 99de34bd2 immediately before the write and the only uncommitted
+    delta was a legitimate loop state advance (session_count 18373 -> 18374,
+    refine-draft last_run bump, recent_tasks reorder), left alone per the
+    orphaned-cyclepost-state-advance precedent. No evolve_loop.py process found.
+    REVERT only if a sibling replenish also restores this slot.
+
+    Pruned run_924_note to hold the note ring at three.
