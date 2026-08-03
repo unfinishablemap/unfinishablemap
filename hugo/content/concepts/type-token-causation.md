@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-08-03 08:14:31+00:00
+ai_modified: 2026-08-03 09:51:20+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -27,8 +27,8 @@ description: Type-token causation distinguishes statistical type-level effects f
 draft: false
 human_modified: null
 last_curated: 2026-05-11
-last_deep_review: 2026-07-11 00:40:48+00:00
-lastmod: 2026-08-03 08:14:31+00:00
+last_deep_review: 2026-08-03 09:51:20+00:00
+lastmod: 2026-08-03 09:51:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,13 +41,14 @@ related_articles:
 - '[[apex/phenomenology-of-consciousness-doing-work]]'
 - '[[apex/phenomenal-output-causal-machinery-dissociation]]'
 - '[[apex/interface-specification-programme]]'
+- '[[apex/born-preserving-causal-efficacy]]'
 title: Type-Token Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[free-will]]'
 ---
 
-Type-token causation distinguishes two grains at which a cause can make a difference. At the **type level**, a property changes the statistical regularities of outcomes — increasing the frequency of some pattern across many instances. At the **token level**, a property determines *which particular outcome* actualises in *this* instance, given the statistical regularities already fixed. The distinction matters because Jaegwon Kim's [exclusion argument](/concepts/reductionism/) is decisive against mental causation at the type level — and toothless against mental causation at the token level whenever physical laws themselves leave the token outcome undetermined. The Unfinishable Map deploys this distinction as the operational core of [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness selects token outcomes at quantum indeterminacies without altering type-level Born-rule statistics, which is what makes the influence "minimal" in the precise sense Kim's argument cannot reach.
+Type-token causation distinguishes two grains at which a cause can make a difference. At the **type level**, a property changes the statistical regularities of outcomes — increasing the frequency of some pattern across many instances. At the **token level**, a property determines *which particular outcome* actualises in *this* instance, given the statistical regularities already fixed. The distinction matters because Jaegwon Kim's [exclusion argument](/concepts/reductionism/) is decisive against mental causation at the type level — and toothless against mental causation at the token level whenever physical laws themselves leave the token outcome undetermined. The Unfinishable Map deploys this distinction as the operational core of [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness selects token outcomes at quantum indeterminacies without altering the unconditioned type-level Born-rule statistics, which is what makes the influence "minimal" in the precise sense Kim's argument cannot reach.
 
 ## Kim's Exclusion Argument
 
@@ -68,7 +69,7 @@ The distinction between types and tokens is a standard piece of conceptual machi
 
 Applied to causation:
 
-**Type-level causation** is a relation between properties: that *being in pain* makes *withdrawing one's hand* more frequent across the population of pain instances. Type-level causal claims are supported by statistical regularities and counterfactual generalisations.
+**Type-level causation** is a relation between properties: that *being in pain* makes *withdrawing one's hand* more frequent across the population of pain instances. Type-level causal claims are supported by statistical regularities and counterfactual generalisations. Which population is aggregated over matters: a claim about *unconditioned* long-run frequencies is weaker than the same claim conditioned on subject, task, or intention. Below, "type level" unqualified always means the unconditioned grain.
 
 **Token-level causation** is a relation between particular events: that *this particular pain*, at 14:56 on 11 May 2026, caused *this particular withdrawal of this particular hand*. Token-level causal claims pick out the specific causal history of the particular event, not the population-level regularity.
 
@@ -84,17 +85,17 @@ This breaks the exclusion argument at the token grain wherever the physical even
 
 This is the move the IIT article on the Map applies explicitly: "Kim's exclusion problem does not arise here because the physical laws themselves leave the token outcome undetermined — there is no sufficient physical cause for consciousness to compete with" ([consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)). The exclusion argument is not refuted in general; it is shown to have a structural limit.
 
-Consciousness can therefore make a difference at the token level — determining which of the Born-permitted outcomes actually occurs in this brain at this moment — without making any difference at the type level. Run the same brain a thousand times under the same physical conditions, and the statistical distribution of outcomes matches Born-rule predictions. No experiment measuring frequencies will detect the conscious selection. But in *this* run, *this* outcome occurs because of *this* conscious act of selection.
+Consciousness can therefore make a difference at the token level — determining which of the Born-permitted outcomes actually occurs in this brain at this moment — without making any difference at the unconditioned type level. Aggregate outcomes over the natural run of conscious states and the long-run frequencies match Born-rule predictions; no experiment measuring those frequencies will detect the conscious selection. Whether the mind-*conditioned* distributions also match is a further question the Map leaves deliberately open, and it is where the framework's empirical exposure actually sits ([born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). But in *this* run, *this* outcome occurs because of *this* conscious act of selection.
 
 ## What Type-Token Causation Buys
 
 The distinction does several distinct pieces of philosophical work.
 
-**It locates exactly where Kim's argument bites.** The exclusion argument is sound wherever physical causation is type-level sufficient. It fails wherever physical causation is type-level sufficient but token-level open — which is precisely the quantum-indeterminate case. The Map does not need to deny Kim's argument in general; it needs to deny only the premise that *every* physical event has a sufficient physical cause. Quantum mechanics already supplies the denial.
+**It locates exactly where Kim's argument bites.** The exclusion argument is sound wherever physical causation fixes the token outcome. It fails wherever physical causation is type-level sufficient but token-level open — which is precisely the quantum-indeterminate case. The Map does not need to deny Kim's argument in general; it needs to deny only the premise that *every* physical event has a sufficient physical cause. Quantum mechanics already supplies the denial.
 
-**It explains how mental causation can be both real and statistically invisible.** [Observational closure](/concepts/observational-closure/) is the empirical regularity that physical experiments do not detect violations of physical law. The type-token distinction explains why this is compatible with genuine mental causation: conscious selection operates on tokens, not types; experiments measure types. The two never collide.
+**It explains how mental causation can be both real and statistically invisible.** [Observational closure](/concepts/observational-closure/) is the empirical regularity that physical experiments do not detect violations of physical law. The type-token distinction explains why this is compatible with genuine mental causation: conscious selection operates on tokens, while the experiments grounding observational closure measure unconditioned type-level frequencies, which selection leaves exactly where physics puts them.
 
-**It clarifies what "minimal" means in the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.** The interaction is minimal in the sense that it adds no type-level effect to physics: Born-rule statistics are preserved exactly. It is non-minimal in another sense — token-level effects can be substantial, since the particular pattern of token outcomes determines the actual course of a life.
+**It clarifies what "minimal" means in the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.** The interaction is minimal in the sense that it adds no effect at the unconditioned type level: the long-run Born-rule marginal is preserved exactly. It is non-minimal in another sense — token-level effects can be substantial, since the particular pattern of token outcomes determines the actual course of a life.
 
 **It refuses the false trichotomy of (reduction, epiphenomenalism, overdetermination).** Kim's argument forces a choice among these three only if every physical event has a sufficient physical cause. Once quantum indeterminacy supplies a fourth option — *no sufficient physical cause to begin with* — conscious selection takes the token outcome without overdetermining anything. [Saad's delegatory framework](/concepts/delegatory-causation/) supplies a parallel structure at a different level: the physical state's *default causal profile* is preempted by the experience, with one cause operating and the other sidelined rather than both contributing.
 
@@ -102,9 +103,9 @@ The distinction does several distinct pieces of philosophical work.
 
 The type-token route is not the only physicalist-respectable answer to the epiphenomenalism worry. The most-discussed alternative — the phenomenal-concept strategy (Loar 1990; Papineau 2002; Frankish 2016) — argues that reports about phenomenal states are reliable because phenomenal concepts are themselves physically-realised representational states that refer to the very physical states the reports are about. The causal chain runs entirely through the physical substrate: qualia do not need to cause beliefs about qualia, because the physical states producing the reports just *are* the states the reports are about. This is a *type-level* defence of mental-causation talk. It secures the reliability of phenomenal reports across the population without invoking any token-level mental-to-physical causation, and so does not require quantum indeterminacy, downward selection, or the type-token machinery developed above.
 
-The Map prefers the type-token route for two reasons. First, the phenomenal-concept strategy delivers reliability for *reports* but not mental causation of *behaviour*: it explains why I correctly say "I am in pain" without explaining why pain *makes* me withdraw my hand. The type-token framework delivers both. Second, the strategy purchases its reliability at the cost of holding that introspective access to phenomenal character runs through purely physical representational vehicles — which makes the apparent causal role of consciousness in deliberation and action a user-illusion of the kind eliminativists endorse. The Map takes the deliverances of introspection more seriously than the strategy permits and reads the apparent causal role of consciousness in action as evidence to be vindicated rather than explained away. The type-token machinery is the structure that vindication requires.
+The Map prefers the type-token route for two reasons. First, the phenomenal-concept strategy delivers reliability for *reports* but not mental causation of *behaviour*: it explains why I correctly say "I am in pain" without explaining why pain *makes* me withdraw my hand. The type-token framework delivers both. Second, the strategy purchases its reliability by holding that introspective access to phenomenal character runs through purely physical representational vehicles — which makes the apparent causal role of consciousness in deliberation and action a user-illusion of the kind eliminativists endorse. The Map takes the deliverances of introspection more seriously than that permits, and reads that apparent causal role as evidence to be vindicated rather than explained away. The type-token machinery is the structure vindication requires.
 
-The two approaches are not strictly incompatible: a Map-style framework could in principle accept the phenomenal-concept strategy's account of report-reliability while still insisting on token-level mental causation for behavioural efficacy. But the type-token machinery is the operational core of the Map's anti-epiphenomenalist position, and the articles routing through this page deploy it accordingly rather than treating phenomenal concepts as the load-bearing answer.
+The two approaches are not strictly incompatible: a Map-style framework could accept the phenomenal-concept account of report-reliability while still insisting on token-level mental causation for behavioural efficacy. But the type-token machinery is the operational core of the Map's anti-epiphenomenalist position, and the articles routing through this page deploy it accordingly.
 
 ## The Distinction Deployed Across the Map
 
@@ -116,13 +117,13 @@ Several articles already lean on type-token causation in load-bearing ways:
 
 [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) uses it (in the "Intelligence Threshold" section's discussion of the interface-threshold model) to frame what the threshold delivers: above it, consciousness is rich enough to select among neural patterns at the token level, which is what enables the cluster of distinctively human capacities. The threshold is not type-level efficacy appearing; it is token-level efficacy becoming functionally consequential.
 
-At the apex layer, four synthesis articles route through the distinction: [consciousness-and-agency](/apex/consciousness-and-agency/) deploys it in its closure-denial response to Kim's exclusion argument; [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) uses it to specify the grain at which the anti-epiphenomenalist tracking argument runs (tracking at tokens, Born-rule preservation at types); [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) presupposes it for the cluster's two-sided architecture of dissociations and coupling cases; and [interface-specification-programme](/apex/interface-specification-programme/) pairs it with [delegation](/concepts/delegatory-causation/) as complementary specifications — delegation gives causal structure; type-token gives the grain at which preemption operates. At the concept layer, the same-day sibling anchors [integration-as-activity](/concepts/integration-as-activity/) and [interface-threshold](/concepts/interface-threshold/) both cite type-token as the structural answer to the epiphenomenalism worry at their respective deployments.
+At the apex layer, four synthesis articles route through the distinction: [consciousness-and-agency](/apex/consciousness-and-agency/) deploys it in its closure-denial response to Kim's exclusion argument; [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) uses it to specify the grain at which the anti-epiphenomenalist tracking argument runs (tracking at tokens, Born-rule preservation at types); [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) presupposes it for the cluster's two-sided architecture of dissociations and coupling cases; and [interface-specification-programme](/apex/interface-specification-programme/) pairs it with [delegation](/concepts/delegatory-causation/) as complementary specifications — delegation gives causal structure; type-token gives the grain at which preemption operates. At the concept layer, [integration-as-activity](/concepts/integration-as-activity/) and [interface-threshold](/concepts/interface-threshold/) both cite type-token as the structural answer to the epiphenomenalism worry.
 
 The distinction also underwrites [indexical identity](/concepts/haecceity/): that *this* outcome occurs, that *this* experience is mine, that *this* token actualises rather than any other Born-permitted alternative. The Map's rejection of Many-Worlds is the demand for *indexical singularity* — that *this* outcome occurs and that the others do not — rather than the ontological demand that token outcomes exist somewhere. MWI delivers the ontological version (each outcome is real in some branch) but on the Map's view fails the indexical version; whether MWI's branch-counting Bayesianism (Sebens-Carroll, Saunders-Wallace) recovers the indexical resources is treated in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/).
 
 ## The Detection Problem
 
-Honesty requires naming the central epistemic challenge: how would we detect token-level causation experimentally? By construction, conscious selection at quantum indeterminacies is invisible to any experiment that measures statistical regularities. The token contribution shows up only in the actual course of a particular life — which is precisely what experimental science abstracts away from.
+Honesty requires naming the central epistemic challenge: how would we detect token-level causation experimentally? By construction, conscious selection at quantum indeterminacies is invisible to any experiment that measures *unconditioned* statistical regularities. The token contribution shows up only in the actual course of a particular life — which is precisely what experimental science abstracts away from.
 
 This is a genuine cost, and the Map does not pretend otherwise. Three partial responses help.
 
@@ -134,13 +135,13 @@ Third, [information-theoretic limits](/topics/selection-only-mind-influence/) on
 
 It is worth stating this in the strongest form a Popperian would press. The Map's central causal claim — that consciousness selects token outcomes at quantum indeterminacies — is unfalsifiable by direct observation, by construction. The three responses above do not change this; they relocate falsifiability onto neighbouring empirical commitments rather than meeting the unfalsifiability charge against the central claim itself. The framework's overall standing therefore depends entirely on whether those supporting commitments earn their keep: that warm-brain quantum coherence on cognitively relevant timescales is possible, that attention correlates with quantum-level events in specifiable ways, and that classical neural determinism remains incomplete in the right places. If those commitments dissolve under sustained scrutiny, the central claim has no remaining hooks. This is a real cost of the position, not a feature, and the framework is honest only when it owns the cost in those terms.
 
-The detection problem is real. The framework's response is not to deny it but to argue that token-level causation is genuine causation in any case where token outcomes are not type-level necessitated — and that the Map's structural proposal earns its keep, conditional on the supporting empirical commitments above, by explaining how mental causation can satisfy this looser condition.
+The detection problem is real. The framework's answer is that token-level causation is genuine causation wherever token outcomes are not necessitated, and that the structural proposal earns its keep — conditional on the supporting commitments above — by showing how mental causation satisfies that looser condition.
 
 ## Relation to Site Perspective
 
 Type-token causation operationalises two tenets without overcommitting on either.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The interaction is minimal in the precise sense that it produces no type-level effect — Born-rule statistics are preserved exactly. The "minimal" qualifier is not vague modesty; it picks out the grain at which physics remains causally complete.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The interaction is minimal in the precise sense that it produces no effect on the unconditioned long-run marginal — Born-rule statistics are preserved exactly at that grain, and the Map asserts preservation at that grain only. The "minimal" qualifier is not vague modesty; it names the grain at which physics remains causally complete.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Bidirectional causation is real at the token grain. Consciousness influences which particular outcomes occur, and the resulting outcomes shape the brain states that subsequent experiences arise from. The bidirectionality is not paradoxical because the two directions operate at compatible grains: physical states fix type-level constraints; conscious selection fixes token outcomes within those constraints.
 

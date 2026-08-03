@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T09:38:22+00:00'
+ai_modified: '2026-08-03T09:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 09:38:22+00:00
+lastmod: 2026-08-03 09:55:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 09:55 UTC - deep-review (fifth pass, and not a no-op: this morning's ε² withdrawal sweep left four contradicting passages behind in the same file)
+
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Word count**: 2,976 → 3,022 (+46; ~103 added, ~57 trimmed — length-neutral mode at 121% of the 2,500 soft threshold, hard 3,500)
+- **Critical issues addressed**: 2 families (5 loci)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-08-03-type-token-causation](/reviews/deep-review-2026-08-03-type-token-causation/)
+
+The July review closed this article as quadruply converged and asked that it only be re-picked on genuine own-content change. Git said there was one: commit `9bacbc1dd` at 08:17 this morning — the zero-MI / ε²-per-trial withdrawal sweep — rewrote the third detection-problem response, swapping the withdrawn `ε²/(2 ln 2)` bound for the surviving `log₂(N)` ceiling and adding that Born-preservation constrains the **unconditioned long-run marginal only**, so the tests that bear on token selection are conditional residual-structure tests rather than generic Born-frequency tests. That new sentence is right, and matches [selection-only-mind-influence](/topics/selection-only-mind-influence/) and [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) exactly.
+
+**The sweep was file-partial.** Its locus list came from grepping the ε² string, so it fixed the paragraph carrying that string and left four older passages elsewhere in the *same file* still asserting the superseded stronger reading. The article contradicted itself as of this morning. The sharpest case: "Run the same brain a thousand times under the same physical conditions, and the statistical distribution of outcomes matches Born-rule predictions" — that is a *conditioned* ensemble, and asserting Born-matching in it takes horn (b) of the trilemma by stipulation, which `born-preserving-causal-efficacy` says the Map deliberately declines in order to keep horn (a) live. Also fixed: "the two never collide", "invisible to any experiment that measures statistical regularities", and "no type-level effect — Born-rule statistics are preserved exactly". Rather than patch four sites in four idioms, the grain distinction is now installed once at the type-level definition and inherited: "Below, 'type level' unqualified always means the unconditioned grain." The lead carries the qualifier too, so a truncated read gets the right grain.
+
+**A second contradiction, unrelated and four reviews old.** The Kim-locator bullet read "The exclusion argument is sound wherever physical causation is type-level sufficient. It fails wherever physical causation is type-level sufficient but token-level open." Same antecedent, opposite verdicts. Kim's argument is sound where physical causation *fixes the token outcome*; corrected to say so.
+
+Citations: References block byte-identical to the July publisher-of-record ledger and today's change added no external cites, so this was a targeted re-affirm rather than a full re-run — Saad 2025 and Yablo 1992 re-verified via OpenAlex (WebSearch budget was exhausted session-wide; WebFetch still works). The IIT in-body quote re-greps clean against the live sibling, and the `probability-objections-many-worlds` → `probability-problem-in-many-worlds` retarget is correct (old slug archived, new slug live).
+
+Engagement modes, editor-internal, unchanged from prior passes: Kim — Mode One; Bohmian — Mode Three; phenomenal-concept strategy — Mixed; MWI — Mode Three; Popperian — Mode Three. No label leakage in prose.
+
+**Worth carrying forward.** A converged article stops being converged the moment a sibling withdraws a premise it quietly relied on, and the timestamp bump that signals it looks cosmetic. The withdrawal's real footprint is larger than its string footprint: passages asserting undetectability *at every grain* never mention ε² and are invisible to the grep that generated the sweep list. Candidate strings for a future sweep across all three trees: "no experiment", "never collide", "invisible to any", "preserved exactly", "no type-level effect".
 
 ## 2026-08-03 09:38 UTC - refine-draft (three verified classification corrections, plus the closure-compatible family the reviewer reached for under a fabricated Chalmers label)
 
