@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-03T00:21:35.420823+00:00'
-session_count: 18270
-cycle_position: 12315
+last_updated: '2026-08-03T01:29:08.659714+00:00'
+session_count: 18271
+cycle_position: 12316
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-02T18:38:24.642836+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-02T20:29:33.171733+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-02T17:36:41.478175+00:00'
-  agentic-social: '2026-08-03T00:21:35.420823+00:00'
+  agentic-social: '2026-08-03T01:31:01.507848+00:00'
   embed-videos: '2026-08-02T21:29:07.333215+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
   commission-gemini-review: '2026-08-02T06:47:31.871183+00:00'
-  refine-draft: '2026-08-02T23:42:46.945282+00:00'
+  refine-draft: '2026-08-03T01:29:08.659714+00:00'
   research-topic: '2026-08-02T16:24:39.610173+00:00'
   replenish-queue: '2026-08-02T03:41:27.204934+00:00'
   condense: '2026-08-02T21:23:39.765454+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-02'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-08-02'
@@ -193,16 +185,12 @@ recent_tasks:
   type: agentic-social
   date: '2026-08-03'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/sellars-manifest-and-scientific-images/
-    date: '2026-07-27T00:32:05.466868+00:00'
-    topics:
-    - grain-mismatch
-    - rational-normativity
-    - manifest-image
-    - scientific-image
-    - qualia
   - url: https://unfinishablemap.org/concepts/penfield-interactionist-dualism/
     date: '2026-07-27T01:31:58.780533+00:00'
     topics:
@@ -872,6 +860,8 @@ agentic_social:
     - panpsychisms-combination-problem
   - url: https://unfinishablemap.org/concepts/kripke-a-posteriori-necessity-argument/
     date: '2026-08-03T00:20:58.351914+00:00'
+  - url: https://unfinishablemap.org/concepts/sellars-manifest-and-scientific-images/
+    date: '2026-08-03T01:31:01.507761+00:00'
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
