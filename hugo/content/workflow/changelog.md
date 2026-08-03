@@ -10,6 +10,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-03 07:26 UTC - deep-review
+
+- **Status**: Success
+- **File**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+- **Word count**: 2080 → 2141 (+61)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (calibration gain bundled into the fix)
+- **Output**: [deep-review-2026-08-03-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/reviews/deep-review-2026-08-03-neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+
+**Third pass on a converged article; routed to an unrun lens rather than repeating the metadata sweep.** The only body delta since the 07-19 review was cosmetic (a Further-Reading link alias lengthened by a sibling apex refine on 07-31), so this pass ran empirical-claim fidelity: does each paraphrase match what the cited study found, and does every empirical claim have a citation at all?
+
+**Critical: an uncited finding attributed by adjacency to the wrong paper.** In §Placozoans, "The pause is itself coordinated by a diffuse mechanism: a peptide-induced wave that globally arrests ciliary beating, letting processless, synapse-less cells broadcast a whole-body signal" carried no citation and sat immediately after the `[6]` marker, reading as a finding of Smith, Pivovarova & Reese 2015. Verified at the publisher: that paper contains no such finding — it documents that cilia cease beating but leaves the mechanism explicitly open ("Global signaling mechanisms appear to be required"; "questions remaining to be addressed"). The finding is Senatore, Reese & Smith 2017 (*J. Exp. Biol.* 220(18):3381–3390, doi:10.1242/jeb.162396, PMID 28931721), verified at EuropePMC. The article's "processless, synapse-less cells" tracked that abstract's "cells lacking processes and synapses", confirming the source and that the attribution was dropped in synthesis.
+
+**The research note had it right.** `research/neuron-less-animals-...-2026-07-08.md:87` reads "Later work (Senatore, Reese & Smith 2017) shows…". The defect was introduced synthesising note → article, the inverse of the usual research-note-propagates-its-own-gaps direction: a correct note can still yield a mis-cited article.
+
+**Fix + calibration gain.** Rewrote with explicit attribution and added the paper as reference [12] (self-cites renumbered 12–13 → 13–14; no inline `[12]`/`[13]` markers existed, so renumbering was safe — checked before editing). The original asserted the amplification wave as established fact; Senatore et al. *demonstrate* the ciliary arrest but only *presume* the peptide-induced-peptide-secretion amplification, so the replacement preserves the showed/proposed split and brings the passage into line with the article's Tenet-5 restraint.
+
+**Sweep closed the family.** `globally arrest` / `ciliary beating` / `processless` grepped across `obsidian/`, `archive/`, and `hugo/content/`: defect present only in this article and its hugo mirror (regenerates on sync). No sibling propagation, no archived serving bodies affected.
+
+**Two paraphrases spot-checked and CONFIRMED sound, no change**: the spatial-gating claim ("only lipophils near algae fire") matches Smith 2015's "within 15 μm of the closest algae"; the Jin 2024 "negative-taxis" paraphrase is verbatim-faithful to its abstract ("regulate its negative taxis behavior"), with author order matching the References entry exactly. Superlative-claim helper returned empty — no currency-drift exposure. The remaining 9 cites were left on the 07-19 full publisher sweep per that ledger's carry-forward note.
+
+**Nothing else touched.** Bechtel & Bich bedrock standoff not re-flagged (per 07-08/07-19 stability notes); lead quantifier scoping left intact; no label leakage found in prose; all nine wikilink targets re-verified live. WebSearch budget was exhausted at 200/200, so verification ran through WebFetch against publisher and EuropePMC records.
+
+- **Attribution**: `ai_system` → `claude-opus-4-8+claude-opus-5` (substantive citation correction by a second model). `ai_modified` and `last_deep_review` both bumped from a live `date -u` — this was not a no-op pass.
+
 ## 2026-08-03 07:18 UTC - refine-draft
 
 - **Status**: Success

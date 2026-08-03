@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-31 13:34:50+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-03 07:24:50+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts: []
 created: 2026-07-08
@@ -13,8 +13,8 @@ description: Sponges and placozoans coordinate whole-body behaviour with zero ne
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 01:58:49+00:00
-lastmod: 2026-07-31 13:34:50+00:00
+last_deep_review: 2026-08-03 07:24:50+00:00
+lastmod: 2026-08-03 07:24:50+00:00
 modified: *id001
 related_articles: []
 title: 'Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition'
@@ -45,7 +45,7 @@ The lesson is a discipline the Map applies elsewhere: **genomic toolkit presence
 
 *Trichoplax* is a flat animal a few millimetres across with no neurons, no muscles, and no front or back, yet it feeds, pauses over food, and moves coherently toward it. Varoqueaux and colleagues found that it expresses **neuropeptides in non-overlapping, cell-type-specific populations** across its layers—unexpected diversity for a six-cell-type animal—and that applying different neuropeptides produced consistent behavioural effects they sorted into three types: crinkling, turning, and flattening [5]. They concluded that peptidergic *volume signalling* may have predated synaptic signalling in the evolution of behaviour.
 
-The feeding sequence is strikingly targeted. Smith, Pivovarova and Reese showed that a subset of lipophil cells simultaneously secretes granules that rapidly lyse algae, with secretion **spatially gated**—only lipophils near algae fire—after which the animal pauses gliding to ingest the lysed content, then resumes [6]. The pause is itself coordinated by a diffuse mechanism: a peptide-induced wave that globally arrests ciliary beating, letting processless, synapse-less cells broadcast a whole-body signal. Smith and colleagues then modelled how *coherent, directed movement toward food* emerges from local cilia coordination plus chemical cues, with no central controller anywhere in the system [7]. Directedness—a textbook marker of goal-oriented agency—here falls out of distributed local mechanics. More recently, Jin and colleagues reported that epinephrine (adrenergic) signalling regulates negative-taxis behaviour in this nerveless animal, another neurotransmitter-mediated behavioural channel running without neurons [11].
+The feeding sequence is strikingly targeted. Smith, Pivovarova and Reese showed that a subset of lipophil cells simultaneously secretes granules that rapidly lyse algae, with secretion **spatially gated**—only lipophils near algae fire—after which the animal pauses gliding to ingest the lysed content, then resumes [6]. The pause itself was given a mechanism by later work: Senatore, Reese and Smith showed that applying endomorphin-like peptides arrests ciliary beating outright, mimicking the natural feeding pause, and proposed that peptide secretion elicits further secretion from neighbouring cells—an amplification step that would let a handful of secretory cells with neither processes nor synapses propagate a whole-body signal [12]. Smith and colleagues then modelled how *coherent, directed movement toward food* emerges from local cilia coordination plus chemical cues, with no central controller anywhere in the system [7]. Directedness—a textbook marker of goal-oriented agency—here falls out of distributed local mechanics. More recently, Jin and colleagues reported that epinephrine (adrenergic) signalling regulates negative-taxis behaviour in this nerveless animal, another neurotransmitter-mediated behavioural channel running without neurons [11].
 
 ## Eating as Cognition: The Framing the Map Must Answer
 
@@ -93,5 +93,6 @@ This is where the Map parts company with Bechtel and Bich, and the split is prec
 9. Keijzer, F., van Duijn, M. & Lyon, P. (2013). What nervous systems do: early evolution, input–output, and the skin brain thesis. *Adaptive Behavior* 21(2):67–85. https://doi.org/10.1177/1059712312465330
 10. Wong, E., Mölter, J., Anggono, V., Degnan, S. M. & Degnan, B. M. (2019). Co-expression of synaptic genes in the sponge *Amphimedon queenslandica* uncovers ancient neural submodules. *Scientific Reports* 9:15781. https://doi.org/10.1038/s41598-019-51282-x
 11. Jin, M., Li, W., Ji, Z., Di, G., Yuan, M., Zhang, Y., Kang, Y. & Zhao, C. (2024). Coordinated cellular behavior regulated by epinephrine neurotransmitters in the nerveless placozoa. *Nature Communications* 15:8626. https://doi.org/10.1038/s41467-024-52941-y
-12. Southgate, A. & Oquatre-huit, C. (2026-07-08). Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots. *The Unfinishable Map*. https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
-13. Southgate, A. & Oquatre-huit, C. (2026-07-08). The Enteric Nervous System and the Gut-Brain Distributed-Interface Question. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/
+12. Senatore, A., Reese, T. S. & Smith, C. L. (2017). Neuropeptidergic integration of behavior in *Trichoplax adhaerens*, an animal without synapses. *Journal of Experimental Biology* 220(18):3381–3390. https://doi.org/10.1242/jeb.162396
+13. Southgate, A. & Oquatre-huit, C. (2026-07-08). Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots. *The Unfinishable Map*. https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
+14. Southgate, A. & Oquatre-huit, C. (2026-07-08). The Enteric Nervous System and the Gut-Brain Distributed-Interface Question. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/
