@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T22:09:11+00:00'
+ai_modified: '2026-08-03T22:18:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 22:09:11+00:00
+lastmod: 2026-08-03 22:18:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 22:18 UTC - deep-review (philosophy-of-language-under-dualism: an unsourced empirical claim the study never measured)
+- **Status**: Success
+- **File**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
+- **Word count**: 2560 → 2685 (+125; 90% of the 3000 topics soft threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-08-03-philosophy-of-language-under-dualism](/reviews/deep-review-2026-08-03-philosophy-of-language-under-dualism/)
+- **Seventh review; selected because the refine-draft above moved `ai_modified` past `last_deep_review` minutes earlier.** Scrutiny was deliberately aimed off the channels five prior reviews had worked (citation metadata, style, cross-links) and onto **empirical-claim fidelity** — does the paraphrase match what the cited study found.
+- **The critical issue: the anendophasia passage (L88) asserted as *demonstrated* something its literature does not contain.** It read *"people without an inner voice still refer successfully to their phenomenal states using public language, **demonstrating** that phenomenal reference depends on conscious experience itself."* Three defects stacked: (i) **the paraphrase does not match the study** — Nedergaard & Lupyan (2024) measured verbal working memory, rhyme judgement, task-switching and categorical perception, and never measured phenomenal-state reference; (ii) **a contested existence claim stated as fact** — Lind (2025) argues no compelling evidence shows anyone lacks inner speech entirely, and in reply the coiners **granted a continuum rather than a demonstrated absence**; (iii) **the strongest modal in the corpus on this evidence**. Recast to *"point the same way, though less decisively than they first appear to… The support is suggestive rather than demonstrative"*, naming both sources inline. The dualist reading is retained as *fitted* by the reports, not established by them.
+- **Why critical rather than bedrock disagreement**: it passes the §2 diagnostic test. A reviewer who fully accepts every Map tenet would still flag "demonstrating", because the objection is about what one study measured — nothing about dualism is at stake. Calibration error, correctable in-framework. Worth noting the over-claim ran **in the Map's favour**, which is why six prior reviews of a dualist article did not challenge it.
+- **Medium — the functional half of the two-layer claim was unregistered.** The refine-draft cited **P-AC1** for the phenomenal verdict but left "an LLM can handle the functional layer with extraordinary facility" bare, though **P-AC4** is the Map's Grade-B, framework-independent register for exactly that and states the needed complement (workspace signatures demonstrated; phenomenal question untouched). Added a P-AC4 clause scoped narrowly to *workspace-like signatures of access consciousness*, so the article does not over-map P-AC4's deliberately narrow claim.
+- **Medium — References ordering artifact from the 06-24 partial fix.** That review corrected Jakab→Musacchio but left the entry in Jakab's alphabetical slot. Re-sorted; Jackson's issue number restored.
+- **Citation ledger**: full publisher-of-record pass, 12 cites, no fabrications. WebSearch was exhausted (200/200) so verification went via **WebFetch against Crossref/OpenAlex/arXiv**. The 06-24 **Jakab→Musacchio correction is CONFIRMED** (OpenAlex: José M. Musacchio, doi 10.1016/j.langsci.2004.10.004) — re-checked deliberately because corrected citations have flipped twice before. Chalmers's Boston Review page returned HTTP 403 (WAF); venue confirmed instead via arXiv:2303.07103's `journal-ref`. Both new cites re-verified at Crossref rather than inherited from the research note.
+- **Sibling-string sweep across all three trees** for the LLM-inference string the refine-draft removed: **no live-content instances remain**; surviving hits are confined to `reviews/` and `workflow/`, correctly left as historical record. No article links the retired `#llms-as-approximate-zombies` anchor.
+- **Deferred, and explicitly fenced**: the sibling half of the anendophasia defect. `consciousness-and-language-interface` **L162** still reads *"Their experience **demonstrates** that the phenomenal stream can flow without linguistic structuring"* — the same modal on the same contested base, and the research note calls it the strongest in the corpus. Out of contract for a single-document deep-review; a dated ADDITION was appended to the open P3 recording that only this file's half is done, supplying the two verified DOIs, and warning that **adding the citation while leaving "demonstrates" standing would make it worse** — a contested claim with an authoritative-looking footnote.
+- **Engagement modes** (editor-internal, unchanged): Wittgenstein — Mode One. Phenomenal-concept-strategy physicalist — Mixed. Dennett/Popper/Nagarjuna — Mode Three, framework boundary. Popper's Ghost did land one non-bedrock hit, recorded as the critical issue above.
 
 ## 2026-08-03 22:09 UTC - refine-draft (language-consciousness cluster: LLM verdict aligned to P-AC1 across three siblings)
 - **Status**: Success

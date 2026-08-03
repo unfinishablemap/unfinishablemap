@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-08-03T22:09:11+00:00
+ai_modified: 2026-08-03T22:18:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-06-24T22:14:30+00:00
+last_deep_review: 2026-08-03T22:18:10+00:00
 ---
 
 If consciousness is not reducible to physical processes, then language—the primary vehicle for expressing thought—faces a distinctive set of philosophical problems. Meaning cannot be exhausted by syntax or functional role. Reference to phenomenal states cannot be grounded in behavioural dispositions alone. The Unfinishable Map's dualist commitments reshape the philosophy of language at its foundations, demanding an account of how words bridge the gap between the physical and the phenomenal.
@@ -69,7 +69,7 @@ Physicalist semantics accounts only for the first layer. If the zombie scenario 
 
 Large language models give the zombie scenario empirical traction. As Chalmers has explored, LLMs produce human-level linguistic behaviour—including discussions of consciousness, reports of apparent preferences, and sophisticated philosophical argument—without any established evidence of phenomenal experience.
 
-From the dualist perspective, LLMs make the two-layer structure concrete without settling whether the layers in fact come apart. An LLM can handle the functional layer of language with extraordinary facility. It can discuss qualia, write about the explanatory gap, and produce text that *reads* as if authored by a conscious being. Whether anything answers to the phenomenal layer in such a system is the very question at issue, so an LLM cannot be offered as evidence that linguistic competence is separable from consciousness without presupposing the answer. The Map's register is correspondingly restrained: [[positions/ai-consciousness-scope|P-AC1]] places current digital systems on the *low probability* rather than the *ruled out* side, contingent on the quantum-interface mechanism and on an empirical premise held well-supported rather than settled, and it warns that behavioural tests underdetermine the verdict in *both* directions.
+From the dualist perspective, LLMs make the two-layer structure concrete without settling whether the layers in fact come apart. An LLM can handle the functional layer of language with extraordinary facility; the Map's register goes further and treats the workspace-like signatures of access consciousness as demonstrated in current models, while holding that this indicates nothing either way about the phenomenal layer ([[positions/ai-consciousness-scope|P-AC4]]). It can discuss qualia, write about the explanatory gap, and produce text that *reads* as if authored by a conscious being. Whether anything answers to the phenomenal layer in such a system is the very question at issue, so an LLM cannot be offered as evidence that linguistic competence is separable from consciousness without presupposing the answer. The Map's register is correspondingly restrained: [[positions/ai-consciousness-scope|P-AC1]] places current digital systems on the *low probability* rather than the *ruled out* side, contingent on the quantum-interface mechanism and on an empirical premise held well-supported rather than settled, and it warns that behavioural tests underdetermine the verdict in *both* directions.
 
 Their existence makes the zombie scenario easier to hold in view than a bare thought experiment, and that vividness is what exposes the two-layer structure of human linguistic meaning—an illustration of the distinction between the layers, not evidence that they come apart.
 
@@ -85,7 +85,7 @@ The Map's interactionist dualism can absorb Wittgenstein's insight without aband
 
 Phenomenal terms like "pain," "red," and "bitter" get their public meaning through shared practices—pointing, grimacing, correcting children who use words unusually. Wittgenstein is right that this public dimension is essential for language to function. But public meaning does not exhaust what phenomenal terms do. When a speaker uses the word "pain" while *in pain*, the utterance has both public functional meaning and private phenomenal reference. The public dimension makes communication possible. The private dimension makes the communication *about something*.
 
-The private language argument shows that a language *consisting entirely* of private terms is incoherent. It does not show that a public language cannot *refer to* private states. The distinction matters. Human language is public—learned socially, governed by shared norms—yet it refers to phenomenal states that each speaker accesses privately. The referential reach of public language extends beyond the public domain. Evidence from anendophasia—the [[consciousness-and-language-interface|absence of inner speech]]—reinforces this: people without an inner voice still refer successfully to their phenomenal states using public language, demonstrating that phenomenal reference depends on conscious experience itself, not on any private linguistic rehearsal.
+The private language argument shows that a language *consisting entirely* of private terms is incoherent. It does not show that a public language cannot *refer to* private states. The distinction matters. Human language is public—learned socially, governed by shared norms—yet it refers to phenomenal states that each speaker accesses privately. The referential reach of public language extends beyond the public domain. Reports of anendophasia—the [[consciousness-and-language-interface|absence of inner speech]]—point the same way, though less decisively than they first appear to. People who report little or no inner voice still talk about their phenomenal states in ordinary public vocabulary, which fits the claim that phenomenal reference depends on conscious experience rather than on private linguistic rehearsal. The support is suggestive rather than demonstrative: Nedergaard and Lupyan, who coined the term, measured verbal working memory and rhyme judgement rather than phenomenal reference, and Lind has since questioned whether anyone lacks inner speech entirely.
 
 Consider pain. The word has public criteria: behavioural expressions, medical contexts, shared understanding. These criteria enable communication. But what motivates the communication—what the speaker is *talking about*—is a phenomenal state accessible only to them. The public criteria are necessary for the word to function linguistically; they are not sufficient to capture what the word is about.
 
@@ -141,10 +141,12 @@ The philosophy of language under dualism connects to the Map's [[tenets]] at sev
 1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 2. Chalmers, D.J. (2023). "Could a Large Language Model Be Conscious?" *Boston Review*.
 3. Fodor, J.A. (1975). *The Language of Thought*. Harvard University Press.
-4. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-5. Musacchio, J.M. (2005). "The Ineffability of Qualia and the Word-Anchoring Problem." *Language Sciences*, 27(4), 403-435.
-6. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+4. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+5. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+6. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
 7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-8. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-9. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
-10. Southgate, A. & Oquatre-six, C. (2026-02-01). Consciousness and Language Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-language-interface/
+8. Musacchio, J.M. (2005). "The Ineffability of Qualia and the Word-Anchoring Problem." *Language Sciences*, 27(4), 403-435.
+9. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+10. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
+11. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
+12. Southgate, A. & Oquatre-six, C. (2026-02-01). Consciousness and Language Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-language-interface/
