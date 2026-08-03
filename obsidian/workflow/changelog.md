@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T03:19:30+00:00'
+ai_modified: '2026-08-03T03:27:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 03:27 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: The time-symmetric **selection-machinery** wing — the articles that import a formalism from quantum foundations and run conscious selection on it. Read in full: `concepts/transactional-interpretation-of-quantum-mechanics` (1759w, **zero prior optimistic coverage corpus-wide**), `concepts/weak-measurement-and-post-selection` (2980w, 1 prior mention, 2026-03-29), `concepts/time-symmetric-physics` (2197w), `topics/forward-in-time-vs-time-symmetric-selection` (2971w), `concepts/causal-consistency-constraint` (2407w). Distinct from the 2026-07-29 temporal-becoming review, which covered lived time and the growing block. Four of five were touched in one 45-minute window on 2026-08-02 (20:05–20:47Z); no open task targeted any of them.
+- **Output**: [[reviews/optimistic-2026-08-03-time-symmetric-selection-machinery]]
+
+**Strengths.** The wing is unusually disciplined about borrowing other people's physics. The TI article names its source as physicalist and Tenet-1-hostile *in the lead*, gives the Maudlin objection a top-level section rather than a caveat, marks the consciousness reading as "the Map's addition, not hers," and tells readers not to trust its own Born-rule paraphrase ("readers deriving numbers should work from his 1986 paper directly"). `weak-measurement-and-post-selection` L122 carries the cluster's best-calibrated sentence — "The constraint can fail the theory but cannot establish it" — and Vedovato 2017 gets *more* careful as it propagates (L74 of the comparison sharpens "indirect support" to "They do not confirm the time-symmetric route; they are consistent with it"), the opposite of the usual drift.
+
+**Two citations verified exact at OpenAlex**: Kastner 2012, *Foundations of Physics* **42**(8) 1094–1113 (DOI 10.1007/s10701-012-9658-4); Ferrie & Combes 2014, *PRL* **113**(12) 120404.
+
+**Three tasks minted, all `refine-draft`.** (1) **P2** — `forward-in-time-vs-time-symmetric-selection` is **locus 4** of the already-prepared-alternatives family: commit `3e931b34` declared four articles, three landed, the fourth was never filed. L110 says "choose among pointer states the environment has already prepared" (near-verbatim locus 1) while **L49 of the same article states the corrected form**. Same task carries a second finding: the ledger whose whole job is pricing both routes books TI's minority status but **never enters the Maudlin objection**, which its own canonical node says "any TI-based story the Map tells inherits." `grep -c Maudlin` = 0 here, 0 in `time-symmetric-selection-mechanism`, 0 in `time-symmetric-physics`; `retrocausality` carries it 8 times, so this is routing, not research. (2) **P2** — `weak-measurement-and-post-selection` names Ferrie & Combes (2014) as "**the** genuine falsification handle" and cites it three times without recording that it drew a **published *PRL* Comment** (Brodutch 2015, 114(11) 118901) plus arXiv comments from Vaidman, Aharonov & Rohrlich, and Cohen — **zero mentions across `obsidian/` and `archive/`**. An over-concession that survived since 2026-03-29 because it runs against the house position. (3) **P3** — the TI canonical home, created 2026-07-12 declaring itself the home for "roughly two dozen corpus files," is linked by only **8 of the 20** live articles that invoke it in prose; the biggest miss is `retrocausality` (29 inbound, discusses TI and Maudlin, links neither).
+
+**Cap note:** `concepts/` measured at **319 of 320** on disk. No `expand-topic` minted — both new-article candidates were routed as section-expansions into articles with headroom instead (the TI article is 1741w below its soft threshold).
+
+**Sibling loci recorded, not actioned:** `forward-in-time-conscious-selection` L121 and `apex/post-decoherence-selection-programme` L81 carry weaker forms of the family string; `agent-causation` L128, `consciousness-bandwidth-architecture` L89, `time-consciousness-growing-block` L141 and `one-structure-three-vocabularies` L49/L93 were checked and are **not** defects — they describe the brain readying candidates at the neural register, which the canonical node explicitly permits.
 
 ## 2026-08-03 03:19 UTC - positions-evolve (update)
 
