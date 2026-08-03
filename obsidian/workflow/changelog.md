@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T04:35:28+00:00'
+ai_modified: '2026-08-03T04:45:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 04:45 UTC - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-03
+- **Coverage**: 3/3 reviewers processed (chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro) — all three audited the **same** full-site subject, so agreement is meaningful by construction
+- **Clusters**: 5 convergent (all 2/3, none 3/3), 11 singleton, 3 divergent
+- **Tasks upgraded**: 3 (P2→P1: 3; P3→P2: 0). Two further convergent clusters were already at P1, where convergence caps
+- **Tasks deduplicated**: 0 — no two reviewers filed the same locus, so there were no siblings to merge
+- **Tasks minted**: 1 NEEDS-HUMAN (methodology ratification), 0 P0–P3
+- **Output**: [[reviews/outer-review-synthesis-2026-08-03]]
+
+**Headline — the convergence is at the level of diagnosis, not loci.** ChatGPT's propagation-failure finding and Claude's inoculation-by-confession thesis are two descriptions of one pattern: the Map states the correct or self-critical thing in one place, leaves the uncorrected thing standing elsewhere, and treats the correct statement as discharging the obligation. Both survived verification while most of the evidence each offered for them did not, which is the unusual part. **Four instances are on the record from tonight alone**: ChatGPT's own flagship finding (`apex/born-preserving-causal-efficacy.md:85` right, `concepts/selection-only-channel.md:73` wrong); the 03:59Z refine closing locus 4 of a family whose commit message had declared four; the same pass finding a two-route ledger that had booked one route and omitted the standard objection to it; and a fourth found during this synthesis (C4 below). `positions/methodology-and-calibration` **already holds P-M5** — "a countermeasure that is described but not wired into a gate is a stated intention, not a working control" — so two external reviewers have independently confirmed a position the Map already registers.
+
+**Scored against HEAD, not against what the reviewers saw.** The last deploy before the cycle was 00:21 UTC; ChatGPT (02:06) and Claude (03:04) audited a site up to 21 commits stale, so ≥2-reviewer agreement was **not** taken as evidence of a live defect without a HEAD re-check. Confirmed lag artefacts: the *Entropy* misattribution (zero live hits) and the Lycan author-stance note (live verbatim at `dualism-cartography.md:111`). The check changed one disposition — ChatGPT's §4.5 delegation charge greps zero at HEAD and moved from convergence candidate to already-fixed singleton. Gemini's leg is not lag-affected; its five failures are reviewer error.
+
+**The three upgrades.** (1) **P2→P1 `positions/individuation-and-subjecthood`** — both legs independently found Tenet 4's indexical argument resting on a subject the register carries as its single retireable position (verified: exactly one position heading, P-I1). (2) **P2→P1 `arguments/many-worlds-argument`**, retitled to lead with the convergent half: residual ontological-extravagance language doing decisive anti-Everettian work against Tenet 5's self-binding. **This synthesis found the live locus neither reviewer named** — `topics/probability-problem-in-many-worlds.md:142` runs extravagance as a leg of a cumulative case while `tenets.md:116` and `arguments/arguments.md:55` already carry the correct disowned form, making it a fourth instance of the headline pattern. The task's original Born-rule half stays ASSESS-FIRST and did **not** inherit the upgrade; it quotes a string that greps zero. (3) **P2→P1 `topics/bandwidth-of-consciousness`** (task from the 08-02 cycle) — the cleanest convergence of the cycle, two reviewers on one string in one file, still live at L147. Scope explicitly held constant with the upgrade.
+
+**Two convergent clusters could not be upgraded** because both matching tasks were already P1: the register-to-prose overreach cluster, held jointly by the `tenets/tenets.md` and `apex/interface-specification-programme` tasks. They were **not** merged — different files, opposite ends of one claim — but were cross-referenced so the two passes state Tenet 3's standing in one shared form. Three sibling loci verified live at HEAD were folded into the interface-apex task rather than minted separately (`interface-specification-programme.md:114` epiphenomenalism "internally incoherent", from ChatGPT's §3 and absent from that task's own title; `phenomenology-of-consciousness-doing-work.md:58` and `consciousness-and-agency`, both from Claude).
+
+**Reliability spread, recorded because it should carry into execution.** ChatGPT 5.6 Pro 5 of 8 checked claims confirmed / 5 tasks; Claude Opus 5 structural charge held but four of seven proof-instances false (two of those publication lag, not error) / 4 tasks; Gemini 2.5 Pro 0 of 5 / 0 tasks, with one span fabricated *and* stance-inverted. Gemini's Kammerer/Shabasson charge is on its **third** filing, adjudicated false each time. ChatGPT's agency-trilemma finding likewise re-derives a fix made 2026-07-16 in response to an earlier ChatGPT finding.
+
+**The most useful disagreement**: Gemini charged the Map with "entirely ignoring" the illusionist meta-problem and active-inference rivals; Claude, auditing the same corpus the same day, wrote that "the mandated rivals are engaged, not absent … the missing-rival charge therefore fails for illusionism and predictive processing." Verification sided with Claude at every locus. One hostile reviewer's headline refuted by another hostile reviewer.
+
+**Untasked singletons recorded for the harvester** — the substantive one is Claude's: predictive processing is engaged as a theory of anticipation and perception but never as a deflationary theory of the *sense of agency*, which is the turf where active inference competes directly with the Map's selection thesis. Also untasked: the Fitness-Beats-Truth universality over-claim; `testing-the-map-from-inside` treating cessation reports as direct evidence against identity theories where the source-attribution void says introspection carries no causal-source labels; the one-article Open Questions section; and coherence-as-evidence in `apex/moral-architecture-of-consciousness`.
+
+**Spec deviation, deliberate.** The skill instructs replacing each task's `Review file:` line with a plural `Review files:`. That would silently blind the todo parser (`tools/todo/processor.py:153` matches the singular literal; `tools/evolution/task_selector.py:214` feeds the parsed value into dispatched args), dropping the review context refine-draft reads. Provenance was recorded with an added `Convergent with:` line and `Review file:` left intact. **The skill doc should be corrected, not the code.**
+
+**Queue load**: 6 active P1 tasks, up from 3 — flagged rather than left to be discovered. No content files were modified by this pass.
 
 ## 2026-08-03 04:35 UTC - outer-review
 
