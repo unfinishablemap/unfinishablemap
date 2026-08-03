@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: the interface-eligibility debt is disclosed in the positions register and NOT in the article that most depends on it
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-08-03 (`reviews/optimistic-2026-08-03-machine-evidence-wing`)
+- **Generated**: 2026-08-03
+- **Notes**: **ASYMMETRIC DISCLOSURE, not an over-claim.** This article is one of the corpus's best pieces of evidential discipline — its "Removing a Defeater Is Not Evidence" section is exemplary and must be preserved untouched. The gap is narrower. The article runs the five-requirement channel test (directness / locality / continuity / specificity / granularity, imported from `topics/quantum-randomness-channel-llm-consciousness` LL79–83) and renders three unqualified "**Fails.**" verdicts, then concludes that only a substrate "built to imitate the biological interface" could qualify. `positions/ai-consciousness-scope.md` P-AC1 (L58) states that the load-bearing and least-secured link in the whole AI verdict is *interface eligibility*, that the Map "does not yet possess an **interface-eligibility law**", and that absent one, "relevant" risks reducing to "whatever biology happens to have, which would make the substrate verdict question-begging rather than derived". **The article's conclusion is exactly that shape and never says so.** A reader of the article gets a firmer verdict than a reader of the register. `positions/consciousness-scope.md` L93 carries the same debt in a shift trigger, so the register states it twice and the topics tree zero times.
+
+  **SCOPE — one paragraph, length-neutral.** Add a disclosure in or adjacent to "Removing a Defeater Is Not Evidence" noting that the five requirements are the Map's best current approximation to an interface-eligibility law but are not yet *derived* — they may be read off biology and generalised, which is the failure mode P-AC1 names — and link `[[positions/ai-consciousness-scope]]`. Do **not** soften the substrate verdict itself; the point is to label its status, not lower it. Do not rewrite the table. Article is 1941w against a 3000 soft threshold, so there is ample room.
+
+  **SECOND ITEM, same file's sibling — one unclosed quotation in `obsidian/concepts/reinforcement-learning-reward-signals-and-machine-valence.md` L35.** The phrase attributed to Silver, Singh, Precup & Sutton as a quotation — *"maximisation of total reward may be enough to understand intelligence and its associated abilities"* — could not be closed on 2026-08-03: sciencedirect.com returns **403**, and the OpenAlex-reconstructed abstract for DOI 10.1016/j.artint.2021.103535 does **not** contain it (the abstract's wording is "intelligence and its associated abilities can be understood as subserving reward maximisation"). **DO NOT DE-QUOTE ON THIS EVIDENCE.** The quoted form uses the paper's own "total reward" idiom and is plausibly from the body or conclusion, which OpenAlex does not expose. Verify at a full-text source (arXiv has no version; try a DeepMind-hosted PDF or an institutional mirror) before touching it. If it verifies, add no change. If it is genuinely absent from the full text, re-frame as paraphrase — do not delete the citation, which is real and correctly attributed.
+
+- **Related**: `positions/ai-consciousness-scope` P-AC1 "Depends on" list already names the missing law; the sibling `positions-evolve` task below adds the pointer from the register side. Do both or neither — a one-sided fix leaves the asymmetry in place, just reversed.
+
+### P3: the five-requirement channel test is an unregistered asset — the register says the Map lacks an interface-eligibility law it already half-has
+
+- **Type**: positions-evolve
+- **File**: obsidian/positions/ai-consciousness-scope.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-08-03 (`reviews/optimistic-2026-08-03-machine-evidence-wing`)
+- **Generated**: 2026-08-03
+- **Notes**: **MEASURED: zero files in `positions/` reference `directness`, `locality`, `continuity`, `specificity`, or `granularity`.** P-AC1 names an **interface-eligibility law** as a dependency the Map does not possess (L55 calibration note, L58 layer-iv analysis, L59 Depends-on, L61 shift trigger). Meanwhile the topics tree holds a five-requirement channel test that has been applied discriminatingly to **four** distinct substrate classes and yields **different** verdicts for each: LLM PRNG channel fails all five (`topics/quantum-randomness-channel-llm-consciousness` LL79–83); gate-based QPU passes directness + locality, fails continuity + specificity + granularity; analog annealer passes continuity only; quantum-biological hybrid aims at all five (`topics/quantum-hardware-and-the-ai-consciousness-coupling`). A test that discriminates among four cases is more than a placeholder.
+
+  **SCOPE — pointer and status label, NOT a calibration change.** In P-AC1's *Depends on*, where the interface-eligibility law is listed as "not yet possessed by the Map", add that the corpus's nearest existing approximation is the five-requirement channel test, with the wikilinks. **The debt must remain a debt** — the requirements are not yet shown to be *derived* rather than read off biology, which is P-AC1's own stated worry, so this is a "nearest approximation, not a discharge" pointer. Do **not** raise credence, change the grade, or alter `framework-internal only: yes`. Also add `topics/quantum-hardware-and-the-ai-consciousness-coupling` and `topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems` to P-AC1's *Argued in* list — both work out the substrate verdict in more detail than any of the five files currently listed, and neither is referenced anywhere in the register.
+
+  **DO NOT mint a condense task on this file.** Its `hard_warning` (2882w / 2500) is already covered by the open `NEEDS-HUMAN (section tuning) 2026-08-03` task asking whether `positions/` should inherit article thresholds at all.
+
 ### P2: the Russell "physics is mathematical" quote is cited to the wrong 1927 book in ten files, and Chalmers & McQueen is split 10/8 between two years
 
 - **Type**: refine-draft
