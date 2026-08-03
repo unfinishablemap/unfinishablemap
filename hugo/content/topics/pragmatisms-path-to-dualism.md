@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-07-16 01:50:21+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-03 13:10:10+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/pragmatisms-path-to-dualism/
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 01:50:21+00:00
-lastmod: 2026-07-16 01:50:21+00:00
+lastmod: 2026-08-03 13:10:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,9 +128,11 @@ The shared architecture across domains — demand-character, resistance to prefe
 
 Hilary Putnam's trajectory reinforces the pragmatic path. He invented functionalism in "Minds and Machines" (1960), then abandoned it in *Representation and Reality* (1988), arguing that it remained committed to an internalist conception of mental states that his own semantic externalism had discredited.
 
-Putnam's subsequent "pragmatic realism" argues that truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents. His model-theoretic argument indicates that reference cannot be fixed by physical/causal relations alone: any purely physical description appears compatible with multiple incompatible interpretations. What pins down meaning is the perspective of a conscious interpreter.
+Putnam's subsequent "pragmatic realism" argues that truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents. His model-theoretic argument indicates that reference cannot be fixed by physical/causal relations alone: any purely physical description appears compatible with multiple incompatible interpretations, and a causal constraint added to close the gap is itself more theory awaiting interpretation.
 
-If reference and meaning require conscious interpreters, consciousness cannot be explained away as "just" physical processing without undermining the meaningfulness of the explanation itself. Putnam did not endorse dualism, but his pragmatic realism suggests that consciousness plays an ineliminable role in constituting the meaningful world that science describes.
+What pins down meaning, on Putnam's account, is use within a conceptual scheme — reference fixed inside a scheme by a community of speakers with interests and purposes. The tempting gloss, that an interpreter's understanding does the pinning-down, is one Putnam explicitly rejects: *Reason, Truth and History* opens by arguing that no mental act intrinsically refers, the ant whose trail happens to trace a likeness of Churchill being the case in point. The Map's claim is correspondingly the weaker one — the interpretive standpoint is ineliminable from the framework within which science operates, because a conceptual scheme is something occupied.
+
+Even so, if reference and meaning are constituted within schemes only conscious agents occupy, consciousness cannot be explained away as "just" physical processing without undermining the meaningfulness of the explanation itself. Putnam did not endorse dualism and internal realism does not require it; what his pragmatic realism suggests is that consciousness plays an ineliminable role in constituting the meaningful world that science describes.
 
 ## Why Pragmatists Resist and Why They Shouldn't
 
