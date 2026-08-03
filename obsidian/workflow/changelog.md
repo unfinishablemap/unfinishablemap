@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T14:51:32+00:00'
+ai_modified: '2026-08-03T15:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 15:10 UTC - coalesce (ABANDON — the pool was harvested five hours ago and the remainder is differentiated by argumentative role)
+
+- **Status**: Success (reasoned abandon — no merge, no archival, no files moved)
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Section pressure at time of run**: `voids/` **100/100 (at cap)**, `topics/` 318/320, `concepts/` 317/320
+
+**Why abandon.** Nine candidate groups were screened and every one was declined. The governing reason is the one already recorded for this corpus: the catalogue is segmented by *argumentative role*, so two articles on the same subject usually stand in a general↔special-case or base↔extension relation, and merging destroys a distinction the Map is deliberately drawing.
+
+**Search targeted `voids/` first**, as the only section actually at its cap. A TF-IDF pass restricted to discriminative body terms (vocabulary limited to terms appearing in 2-8% of the section, reference apparatus and house-style headings stripped so `## What Would Challenge This View?` and `## The Illusionist Challenge` could not inflate the score) produced these top groups, all declined:
+
+- **`mattering-void` + `relevance-void`** (0.234, top of the ranking) — both carry mutually-pointing `## Distinct from` sections that articulate the split precisely: mattering is the *standing field* (that anything shows up as significant at all), relevance is its *momentary configuration* (which things are in play here, now). Relevance's own lead states it is "downstream and operational". A textbook general↔special-case pair.
+- **`confabulation-void` + `narrative-void` + `source-attribution-void`** (0.226 / 0.193 / 0.192 — a mutually-similar triad, the strongest structural signal in the section) — **declined hardest.** These are three of the four named faces of the introspection-architecture sub-cluster, and [[topics/introspection-architecture-independence-scoring]] scores them as *independent* data points with distinct signatures: narrative = unobservability of storytelling, source-attribution = origin-tag failure, confabulation = positive-content fabrication, noetic-feelings = gating-signal opacity. That exhibit records under **Signature specificity** that the [[cross-review-2026-05-15-introspection-architecture-cluster-audit|2026-05-15 audit]] tested exactly this collapse question and "found the differentiation substantive, not nominal". The cross-tradition channel then maps three *different* traditions onto three *different* faces (*khawāṭir* → source-attribution, hidden *riyāʾ* → confabulation Generation, *ahaṃkāra* → narrative). Merging any two would falsify a published exhibit whose convergence argument depends on the members being independent — the same structure that protected the Jain/Advaita pair in an earlier run.
+- **`smoothness-and-continuity` + `temporal-void` + `inaccessible-past`** — three distinct temporal problems: discrete substrate versus seamless phenomenology (a temporal cousin of the binding problem); the moving window plus the *durée*/measured-time split plus the remember/anticipate asymmetry; and the unre-enterability of past conscious states plus historical change in consciousness (Jaynes, Snell, Barfield). Different arguments on different evidence.
+- **`emergence-void` + `plurality-void`** — inability to grasp level transitions versus inability to conceive being multiple subjects at once. Shared vocabulary is the combination problem alone.
+- **`resolution-void` + `the-quantitative-comprehension-void`** — the aperture of conscious access (≈11M bits in, ≈10 out) versus the symbol-manipulation/phenomenal-grasp dissociation for abstract magnitudes. Resolution already cross-links the quantitative void five times, which is deliberate differentiation rather than redundancy.
+
+**The `coalesced_from` ancestry angle was re-run** (the better prior recorded for this task). Shared ancestors are now down to three, giving pairs `brain-interface-boundary`+`split-brain-consciousness`, `binding-problem`+`unity-of-consciousness`, and `attention-as-interface`+`motor-selection`. **All three fail twice over**: each has a side edited within the 7-day age floor (two were edited yesterday), and each would merge to 5,700-6,600 combined words against a 3,500 hard ceiling. None is in `voids/`.
+
+**The pool was already harvested this morning.** The 10:17 UTC coalesce ran a corpus-wide TF-IDF pass over all three sections and merged its rank-3 pair. Its rank-1 pair — `concepts/consciousness-physics-interface-formalism` + `topics/mathematical-structure-of-the-consciousness-physics-interface` at 0.556, genuinely near-duplicate — was deferred because the open P2 Masanes sweep owns `consciousness-physics-interface-formalism.md:57`. **That deferral was re-verified this run and still holds**: the sweep is open, and its notes say in terms "DO NOT touch ... two passes on one line would collide." Ranks 3 and 4 remain inside the age floor. So the highest-value merge in the corpus is correctly blocked, not missed — it should be re-offered to coalesce once the Masanes sweep closes.
+
+**Screening refinement worth carrying forward.** The distinction-heading grep recorded for this task (`Distinguish|What .* Is Not|Distinction from`) has a false negative: the commonest form in `voids/` is `## Distinct from ...`, which none of those alternatives match. Adding `Distinct from` raises the hit rate from 11 to **15 of 100** voids and would have settled the top-ranked pair on the heading alone. The corrected alternation is `Distinguish|Distinct from|Distinction from|What .* Is Not|Not to Be Confused|Contrast with`.
+
+**Cap consequence for the operator.** `voids/` is now **at** its cap of 100, with `topics/` and `concepts/` two and three articles from theirs. Coalesce cannot relieve this — the section is well-differentiated and today's one genuinely mergeable pair is blocked by a sweep. Relief has to come from archival or a cap raise, and that is a human call.
 
 ## 2026-08-03 15:02 UTC - refine-draft (bare illusionist regress: family triage + top-band fix, 7 loci)
 
