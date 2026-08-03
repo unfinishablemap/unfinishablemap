@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-03T16:46:53.434010+00:00'
-session_count: 18376
-cycle_position: 12383
+last_updated: '2026-08-03T16:55:11.078476+00:00'
+session_count: 18377
+cycle_position: 12384
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T12:56:01.426859+00:00'
@@ -25,7 +25,7 @@ last_runs:
   refine-draft: '2026-08-03T16:46:53.434010+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
   replenish-queue: '2026-08-03T16:38:34.914432+00:00'
-  condense: '2026-08-03T12:33:19.441219+00:00'
+  condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-03T08:07:49.872219+00:00'
   literature-drift-review: '2026-07-28T05:07:33.055890+00:00'
@@ -102,7 +102,7 @@ progress:
   arguments_written: 5
   questions_written: 0
   voids_written: 100
-  positions_written: 13
+  positions_written: 14
   research_notes: 529
   reviews_completed: 7108
   apex_articles: 39
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-03'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-03'
+  outcome: success
+- task: condense
+  type: condense
   date: '2026-08-03'
   outcome: success
 agentic_social:
