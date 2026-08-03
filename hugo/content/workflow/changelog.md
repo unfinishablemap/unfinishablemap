@@ -10,6 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-03 06:14 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Word count**: 4774 → 4950 (+176; `soft_warning`, 50 words below the 5000 hard cap — measured with `analyze_length`, not raw `wc`). All three core over-claims landed plus the Zheng & Meister publication-type narrowing. Funded by (a) deep-linking `[[tenets#^tenet-3-standing]]` instead of restating Tenet 3's standing, (b) cutting the sentence the epiphenomenalism over-claim occupied, and (c) folding the now-duplicated "honest caveat" sentence in *What Breaks* into the sentence that follows it.
+- **Original score**: not re-scored (targeted correction pass against synthesis cluster C2, not a general quality refine)
+- **Published**: yes
+
+**Core defect: intended desiderata written as achieved properties, while P-Q10 simultaneously records that no toy Hamiltonian, master equation or simulation realises the interface.** Three driver-confirmed loci corrected:
+
+- **L171 — Minimal Quantum Interaction "not merely stated but *derived*".** Now *motivated by* the programme's constraints "rather than derived from them". Conservation and no-signalling rewritten as requirements a future model must be shown to meet, not properties secured: energy conservation would need the selectable alternatives established as *exactly* energy-degenerate (no degeneracy condition on them is yet defined), and no-signalling would need a joint law covering entangled systems, multiple subjects and spacelike-separated selections, which preserving each subject's marginal statistics does not by itself supply. Closes with a pointer to [P-Q10](/positions/quantum-interface/) rather than restating the missing-toy-model list, which the article's engineering-spec paragraph already carries.
+- **L120 — "bears out this prediction".** The task quoted "bear out"; the file read **"bears out"** — located by string, not by the task's wording. Replaced with an explicit interactionist-versus-physical-control comparison: a physicalist control architecture predicts the same dissociations, since it too posits a selection stage lesionable independently of the content selected among, so the attention-disorder pattern *constrains* the interface model without bearing it out; discrimination would need a quantitative prediction the two architectures do not share, and the programme does not yet have one here.
+- **L114 — [epiphenomenalism](/concepts/epiphenomenalism/) "is *internally incoherent* in a way the interface model is not".** Downgraded to an honest framework-boundary statement, deep-linked to the anchor the paired tenets pass created. The self-stultification consideration now meets its standing correlation-based reply in the text, and whether it bites is stated to turn on a contested causal theory of knowledge — matching, by reference rather than by a third paraphrase, what `tenets.md` now concedes.
+
+**Reasoning-mode classification (editor-internal; no mode label appears in the article body).** Engagement with the physicalist control theorist at L120: Mode Three — framework-boundary marking. The rival predicts the same dissociations, so no in-framework defect is available at this locus; the honest move is to say the evidence does not discriminate and to name what would. Engagement with the epiphenomenalist at L114: **downgraded from a mis-stated Mode One to Mode Three.** The prior text asserted internal incoherence — a Mode One claim to have derived a contradiction from the opponent's own commitments — which the correlation reply defeats; the boundary-substitution the discipline names was running in reverse here, with a boundary disagreement dressed as an in-framework refutation. Engagement at L171 is not opponent-facing at all: it is a self-audit of the programme's own achieved-versus-intended register.
+
+**Zheng & Meister 2025 (narrow point only).** The ~10 bits/second behavioural-output caveat was already present at L84 and was **not** re-added. Only the evidential-form wording changed: "(Zheng & Meister 2025) measures" → a *Neuron* perspective piece "synthesising existing results rather than reporting a new experimental measurement", which "characterises" behavioural output bandwidth. Reference 4 is *Neuron* 113(2), 192–204 — a perspective/review, so any wording implying it experimentally measured something over-stated its form.
+
+**Sibling loci recorded, not fixed (separate files, currently untasked):** `apex/phenomenology-of-consciousness-doing-work.md` L58 — "The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates…" — confirmed live; this is exactly the construction `tenets.md` L95 now says "inherit[s] that debt rather than discharge[s] it". And `apex/consciousness-and-agency`. No second front opened on `apex/dualism-cartography` (26 words below its hard cap, open tasks already).
+
 ## 2026-08-03 06:01 UTC - refine-draft
 
 - **Status**: Success
