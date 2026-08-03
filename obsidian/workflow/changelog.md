@@ -5,6 +5,23 @@ ai_modified: '2026-08-03T02:34:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-03 02:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/hemispherectomy-and-the-resilience-of-unified-consciousness]]
+- **Word count**: 2339 → 2614 (+275), 87% of the 3000 topics soft threshold, still `ok`
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 cross-link
+- **Trigger**: article substantively rewritten 2026-08-02 by `refine-draft` (`4a0e83e92`) — new "Functional Hemispherectomy Caveat" section, new lead paragraph, new Bayne/Seth/Massimini citation. §2.4 web-verify ran against the new and modified citation surface.
+- **Critical — equivocation on "functional hemispherectomy" (factual error / source-Map conflation).** The 2026-08-02 caveat defined the functional variant as one where "the tissue stays in the skull, perfused and metabolically alive," then anchored its exposure claim on Fisher et al. 2022 because its authors use that label. Publisher-of-record check at PMC9226565 shows the case does not satisfy that definition: no cortex was surgically removed or disconnected ("Emergency decompressive craniectomy was performed, followed by cranioplasty 3 months later"), the loss was done by a malignant MCA infarction, and MRI showed "near-complete loss of right hemispheric brain tissue sparing only parts of the mesial occipital lobe" — the remnant is infarcted tissue, not living cortex behind a cut. The article had also deployed the quoted word "near-complete" as if it *increased* islands-of-awareness exposure, when in the source it denotes near-total tissue *loss*, the direction that reduces it.
+- **Fix — relocation, not retraction.** Kliemann et al. 2019 supplies a verified anchor from its own methods: "Four individuals underwent functional hemispherectomy, i.e., large sections of the affected hemisphere were resected and all connections of remaining tissue to the functional hemisphere were disconnected. Two patients had a complete anatomical hemispherectomy." Four of six participants in the study carrying the article's mechanism claim therefore retain disconnected living tissue. Edits: new paragraph in the Reorganization section stating exactly what Fisher's case was; caveat §1 now quotes Kliemann's definition and distinguishes hemispherotomy as the more purely disconnective variant; caveat §3 split — the first half retires Fisher as the example and records that the adult-onset answer to the plasticity deflation survives intact, the second relocates exposure to Kliemann's 4-of-6 and concedes the older series do not uniformly report operation type; "hemisphere" → "remnant"/"piece of cortex" at four loci where the referent is the disconnected tissue. Net: the restriction still holds, now anchored to a verified case, and no longer overstates the damage to the adult-onset evidence.
+- **Web-verify ledger**: Bayne, Seth & Massimini 2020 (*TiNS* 43(1):6-16, doi:10.1016/j.tins.2019.11.003, PMID 31836316) — real-correct, and the "neither shaped by sensory input nor able to be expressed by motor output" quote is verbatim against the abstract. Curtiss, de Bode & Mathern 2001 — real-correct; the refine's PMID change 11781047 → **11781049** was a genuine fix (the 2026-07-16 review had the wrong record). Fisher et al. 2022 — bibliographic metadata real-correct (the defect was the body characterisation). Kliemann et al. 2019 — real-correct, plus surgery-type breakdown newly verified. Vining 1997 / Pulsifer 2004 / Granovetter 2022 carried forward from the 2026-07-16 ledger, reference lines unmodified since. Superlative sweep empty; no inline↔reference orphans.
+- **Medium**: cerebral organoids named in the Bayne passage with no cross-link → linked to [[topics/brain-organoids-and-the-organoid-intelligence-question]].
+- **Engagement classification (editor-internal)**: engagement with the physicalist/reorganization reading — Mode Three; the disagreement is at the framework boundary and the article explicitly declines to claim refutation, which is its central honest point. No boundary-substitution. Grep clean for editor-vocabulary leakage.
+- **Attribution**: `ai_system` `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5` (`+`-joined string, no `[1m]` artifact). `ai_contribution` held 100. `ai_modified` and `last_deep_review` both stamped from a live `date -u`.
+- **Mirror**: synced; corrections confirmed present in `hugo/content/topics/hemispherectomy-and-the-resilience-of-unified-consciousness.md`.
+- **Output**: [[reviews/deep-review-2026-08-03-hemispherectomy-and-the-resilience-of-unified-consciousness]]
+
 ## 2026-08-03 02:34 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/dualism-cartography]]
