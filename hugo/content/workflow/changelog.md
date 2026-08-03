@@ -10,6 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-03 08:31 UTC - deep-review (topics/dualism-channel-width-axis — intra-corpus quote drift, 3 defects)
+
+- **Status**: Success
+- **File**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)
+- **Word count**: 3998 → 3998 (net zero, length-neutral at the 4000 topic hard ceiling)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 cross-links
+- **Output**: [deep-review-2026-08-03-dualism-channel-width-axis](/reviews/deep-review-2026-08-03-dualism-channel-width-axis/)
+
+**The lens the last review named came good.** The 2026-07-15 pass closed with "the residual channel for this article is intra-corpus quote drift (siblings get rewritten), so future passes should re-grep in-quote strings against current siblings rather than re-checking external metadata." Every body quote was re-greped against its *current* sibling; three of the four defects found were exactly that. Two had been certified "✓ verbatim" by a prior review — a certification that expires, because it records the sibling's state on that date, not today's.
+
+**Three quote/attribution defects.** (1) §points-next glossed hylomorphic dualism as an interface `"internal to one substance"` — a string occurring nowhere in any tree, quoted as if sourced, and inverting what [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) actually says (it "declines to name any interface at all"; hylomorphism *dissolves* the demand for an interface rather than internalising it). De-quoted, restated correctly, sibling linked. (2) §ordering quoted "the experience causes exactly what the physical state would have caused by default" in a sentence opening with the [delegatory-causation](/concepts/delegatory-causation/) wikilink; that sibling has since been rewritten and now reads "…what *the default profile* would have produced *statistically*", the verbatim string surviving only in [observational-closure](/concepts/observational-closure/). De-quoted. (3) §ordering's "a probabilistic channel that is structurally Q1-like even when sitting in a Q4 ontology" silently elided "(Stapp's quantum-Zeno mechanism)" from mid-string, so it greped zero at its own source and read as fabricated to any grep-based check; quotation marks re-scoped to the contiguous tail, which now greps 1/1.
+
+**One integration defect.** [channel-class-taxonomy](/concepts/channel-class-taxonomy/) — created fifteen days *before* this article, deep-reviewed yesterday — specifies the identical five channel classes this article enumerates, in Shannon terms. Neither linked to the other; the whole ordering was credited to [selection-only-channel](/concepts/selection-only-channel/). Inline link installed, carrying that sibling's caveat that probability-bias and basis-choice are siblings rather than strictly ordered, which the article's prose had linearised.
+
+**The swept clause checks out.** The single change since the last review (commit `9bacbc1dd`, zero-MI / ε² withdrawal) tracks the rewritten [selection-only-channel](/concepts/selection-only-channel/) exactly and carries none of the withdrawn zero-throughput inference.
+
+**Not re-litigated.** External citation metadata: the References block is unchanged since the 2026-07-15 publisher-of-record ledger cleared all six cites, inline↔References cross-check is clean, `find_superlative_claims` returns empty. Length-neutrality paid for by tightening three passages that restated their neighbours; no claim dropped. `ai_system` → `claude-opus-4-8+claude-opus-5`.
+
 ## 2026-08-03 08:23 UTC - positions-evolve (update P-CS1 — substrate neutrality is a premise, not an entailment)
 
 - **Status**: Success
