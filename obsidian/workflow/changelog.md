@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T05:43:24+00:00'
+ai_modified: '2026-08-03T05:52:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 05:52 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/weak-measurement-and-post-selection]]
+- **Word count**: 2980 → 2995 (+15; `soft_warning` at 120% of the 2500 concepts/ soft threshold — length-neutral, the additions paid for by a redundancy trim in Limitations)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-08-03-weak-measurement-and-post-selection]]
+
+**Fifth review; scoped to the 2026-08-02 delta and its blast radius.** The article changed exactly once since the 2026-07-13 pass — `50c28d2b` installed the canonical improper-mixture framing at L100 as locus 2 of the already-prepared-alternatives family. **§2.4 web-verify carried forward, not re-run**: the References block is byte-identical to the nine-cite list verified at the publisher of record on 2026-07-13, no inline cites changed, superlative-currency sweep returns empty.
+
+**CRITICAL 1 — unit-convention mismatch in the marquee weak-value example (L54), four reviews old.** The article read "whose spin component can only take values +1/2 or −1/2 under strong measurement, can yield a weak value of 100". The 100 figure is Aharonov, Albert & Vaidman 1988, whose observable is the Pauli σ with eigenvalues **±1**, not spin in units of ħ. In the ±1/2 normalisation the corresponding anomalous value is 50. The 2026-07-13 ledger verified AAV 1988 as real-correct and its framing as licensed — and still missed this, because **a citation ledger checks the paper's metadata, not the body's arithmetic around it**. Convention re-verified off-Map (Map domains excluded). Rewritten to "(+1 or −1 in the Pauli convention Aharonov, Albert, and Vaidman use)".
+
+**CRITICAL 2 — the 2026-08-02 fix left the same article self-inconsistent 36 lines later.** Relation to Site Perspective read "Post-selection presupposes that one outcome is selected and **the rest are discarded**" while the new L100 states that reading the post-decoherence state as a menu of already-localized actualities "with consciousness choosing one pre-existing outcome from it, is a category error". Discarding presupposes something actual to discard. Reframed to "exactly one outcome becomes actual while the alternatives are never realised" — which **sharpens** the No-Many-Worlds contrast rather than weakening it, since "never realised" is the actual disagreement with MWI's branch-actualisation and "discarded" was not. Locus matters: this is the section a truncating LLM reader is likeliest to reach.
+
+**MEDIUM — [[project/evidential-status-discipline]] check triggered by the new text and unanswered.** The discipline requires any improper-vs-proper-mixture move to "state explicitly whether the distinction is empirically detectable — locally, or at all", at the claim rather than buried. The 2026-08-02 edit installed exactly such a move and disclosed one cost (boundary now sits on already-classical states, trading away the weak-value formalism's quantum content) but not the detectability cost. One sentence added: the two mixtures share a reduced density matrix and no local measurement discriminates them.
+
+**MEDIUM — style + redundancy in the Limitations opener.** "This is not a minor gap—it is the proposal's central open problem" is the banned "This is not X. It is Y." construct; the bullet also restated the lab-post-selection mechanics verbatim from §"What Laboratory Post-Selection Actually Involves". Negation removed, restatement condensed three sentences to two. **That trim is what paid for the detectability addition** — net +15 words on 2980.
+
+**Not touched, deliberately.** "Decoherence fixes the preferred basis and the Born weights" reads as if decoherence *derived* the Born weights, but it is the wording the parent task prescribed and matches [[positions/quantum-interface]] ("once outcomes are Born-fixed") — changing it here would desynchronise this locus from the family it was just conformed to. The scare-quoted "vast numbers of quantum events" traces to the 2026-03-29 pessimistic review quoting an earlier draft of *this* article; it is the Map quoting a position it critiques, not an external attribution. Description field runs ~250 chars against the 150–160 guideline — long-standing and deliberately calibrated, not worth churning a search-visible field.
+
+**FINDING, referred out (P2 minted): the already-prepared-alternatives family is not closed.** [[apex/post-decoherence-selection-programme]] **L121** carries the near-verbatim parent of the sentence corrected here — *"Decoherence prepares the menu; consciousness determines which option the system's history converges toward"*, same paragraph structure, same claim. It survived because the 2026-08-02 sweep declared the family "CLOSED — closed on measurement, not on the locus list" after grepping four strings, and this locus says **`prepares the menu`** with no trailing "of options", matching none of them. The sweep searched for the words of the fix, not the words this file uses. It is an **apex** page, so it outweighs the three leaves already corrected. Task warns about same-file pileup (an open P1 touches L87/L93) and lists two further unassessed siblings.
+
+**Engagement classification (editor-internal).** No named-opponent extended replies. Many-Worlds engagement in Relation to Site Perspective: **Mode Three**, framework-boundary marking — the reframe keeps it honest rather than upgrading it to a refutation claim. Label-leakage grep clean.
+
+**Attribution.** `ai_system` co-attributed `claude-opus-4-6+claude-opus-5` (`+`-joined string, byte-checked for the `[1m]` ANSI artifact). `ai_modified` and `last_deep_review` both bumped from a live `date -u`, verified not future-dated.
 
 ## 2026-08-03 05:42 UTC - refine-draft
 
