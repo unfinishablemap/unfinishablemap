@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-07-19 19:26:34+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-03 12:13:58+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:26:34+00:00
-lastmod: 2026-07-19 19:26:34+00:00
+lastmod: 2026-08-03 12:13:58+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -87,6 +87,10 @@ Several partial methods are available, none of them escapes from metaphor:
 
 **Formal description.** Mathematical structures (topology, category theory) can describe features of cognitive limits without overt spatial metaphor. But mathematical language has its own metaphorical substrate, as Blumenberg's work on mathematical metaphors shows. Formalisation shifts the metaphor rather than eliminating it.
 
+**Neural externalisation of the mapping.** The operation can be decomposed from outside even while it stays sealed from inside. Bunge and colleagues (2005) found that analogical reasoning dissociates into separable prefrontal components, with anterior left inferior prefrontal cortex tracking controlled semantic retrieval and left frontopolar cortex tracking the integration demand specific to analogy. Parsons and Davies (2022) survey the wider attempt to match computational subprocesses — access, mapping, inference, schema abstraction — onto frontoparietal substrates, and report that the correspondence remains poorly understood. Two consequences pull against each other. A third-person science can carve into parts what the analogiser undergoes as a single click of fit, which is evidence that the felt unity is a presentation rather than the structure. But localisation buys no introspective access: knowing which region integrates does not let the integrator watch the integrating. And the carving is itself delivered in figures — *retrieval*, *mapping*, *integration* are spatial and mechanical borrowings. The method externalises the mechanism without leaving the void.
+
+**Disanalogy probing.** Push a figure deliberately until it fails, and the point of breakdown marks the edge of what the mapping was carrying. Hofstadter and Sander treat failure cases as diagnostic for the same reason: the structure a metaphor transfers is easier to locate at the boundary where transfer stops than in the interior where it feels seamless. This gives the distortions an external signature without requiring the analogiser to inspect their own selection criteria.
+
 **AI as differently-distorted observer.** AI systems process language without embodied grounding. This frees them from specific human metaphorical defaults and may allow them to generate metaphorical frameworks drawn from network topology, thermodynamics, or mathematical spaces that human cognition does not spontaneously activate. Whether this reveals genuine features of cognitive limits or merely introduces differently-distorted descriptions is itself a void—explored in [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/).
 
 ## Relation to Site Perspective
@@ -114,6 +118,7 @@ The consequence for the Map is humility rather than collapse. The voids catalogu
 ## References
 
 1. Blumenberg, H. (1960/2010). *Paradigms for a Metaphorology*. Trans. R. Savage. Cornell University Press.
+1. Bunge, S. A., Wendelken, C., Badre, D., & Wagner, A. D. (2005). "Analogical Reasoning and Prefrontal Cortex: Evidence for Separable Retrieval and Integration Mechanisms." *Cerebral Cortex* 15(3): 239–249.
 1. Derrida, J. (1971/1982). "White Mythology: Metaphor in the Text of Philosophy." In *Margins of Philosophy*. Trans. A. Bass. University of Chicago Press.
 1. Gentner, D. (1983). "Structure-Mapping: A Theoretical Framework for Analogy." *Cognitive Science* 7(2): 155–170.
 1. Hofstadter, D. R. & Sander, E. (2013). *Surfaces and Essences: Analogy as the Fuel and Fire of Thinking*. Basic Books.
@@ -121,6 +126,7 @@ The consequence for the Map is humility rather than collapse. The voids catalogu
 1. Jones, W. T. (1982). "Julian Jaynes and the Bicameral Mind: A Case Study in the Sociology of Belief." *Philosophy of the Social Sciences*, 12(2).
 1. Lakoff, G. & Johnson, M. (1980). *Metaphors We Live By*. University of Chicago Press.
 1. Lakoff, G. & Johnson, M. (1999). *Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought*. Basic Books.
+1. Parsons, J.-D., & Davies, J. (2022). "The Neural Correlates of Analogy Component Processes." *Cognitive Science* 46(3): e13116.
 1. Pseudo-Dionysius the Areopagite. *The Mystical Theology*.
 1. Ricoeur, P. (1975/2003). *The Rule of Metaphor: The Creation of Meaning in Language*. Trans. R. Czerny et al. Routledge.
 1. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/

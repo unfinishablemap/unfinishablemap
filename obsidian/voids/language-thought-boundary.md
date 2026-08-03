@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-06-13T20:02:00+00:00
+ai_modified: 2026-08-03T12:13:58+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -27,7 +27,7 @@ related_articles:
   - "[[research/voids-translation-void-2026-05-09]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-4-8
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-01-26
 last_curated: null
 last_deep_review: 2026-07-19T19:51:37+00:00
@@ -121,6 +121,8 @@ The language-thought boundary presents a classification problem. Which of the [[
 
 **Occluded territory**: Could some expressible thoughts be actively blocked? The [[transit-void|dissolution-on-articulation phenomenon]] suggests interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
 
+The cross-linguistic case carries a standing dispute about which label applies. Quine's indeterminacy of translation (1960) holds that rival translation manuals can each fit the whole of the behavioural evidence while disagreeing about what the source sentences mean. If that is right, there is no determinate content the translator is failing to capture, and an untranslatable term marks something genuinely unexplorable rather than merely unmapped. Davidson (1974) pushed the other way: recognising a scheme *as* a scheme already requires translating enough of it to identify it, so total untranslatability would not be a limit but the absence of anything to be limited about — which recasts every case in Lomas's corpus as difficulty rather than impossibility. The [[conceptual-scheme-void|conceptual scheme void]] works through Davidson's challenge at the level of whole schemes. At the level of single terms it stays open, and what the classification inherits is the dispute, not either verdict.
+
 The boundary likely contains all three. Some ineffable content will find words. Some is structurally beyond language. Some resists articulation through mechanisms we don't understand.
 
 Distinguishing them from inside is difficult—perhaps impossible. Without accessing the content, you cannot determine which type of limit you're facing.
@@ -192,3 +194,5 @@ The claim that language and thought have genuinely different limits would be cha
 7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review* 83(4): 435-450.
 8. Lomas, T. (2016). "Towards a positive cross-cultural lexicography: Enriching our emotional landscape through 216 'untranslatable' words pertaining to well-being." *The Journal of Positive Psychology* 11(5): 546-558.
 9. Ji, X., Elmoznino, E., Deane, G., Constant, A., Dumas, G., Lajoie, G., Simon, J., & Bengio, Y. (2024). "Sources of richness and ineffability for phenomenally conscious states." *Neuroscience of Consciousness* 2024(1): niae001.
+10. Quine, W. V. O. (1960). *Word and Object*. MIT Press.
+11. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association* 47: 5–20.
