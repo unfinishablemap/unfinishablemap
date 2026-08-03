@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-03T22:35:36.710027+00:00'
-session_count: 18400
-cycle_position: 12394
+last_updated: '2026-08-03T22:41:50.241588+00:00'
+session_count: 18401
+cycle_position: 12395
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T21:39:09.479113+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
-  refine-draft: '2026-08-03T22:28:45.681199+00:00'
+  refine-draft: '2026-08-03T22:41:50.241588+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
   replenish-queue: '2026-08-03T22:35:36.710027+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-08-03'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-08-03'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-03'
   outcome: success
 agentic_social:
@@ -880,14 +880,14 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 20
+  p2_tasks: 5
+  p3_tasks: 17
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-08-03T22:33:00+00:00'
-  last_replenishment_prev: '2026-08-03T21:02:00+00:00'
-  last_replenishment_run: 929
-  last_replenishment_mode: relocate-starved-pair-plus-one-below-them
+  loop_pickable_open: 5
+  last_replenishment: '2026-08-03T22:47:00+00:00'
+  last_replenishment_prev: '2026-08-03T22:33:00+00:00'
+  last_replenishment_run: 930
+  last_replenishment_mode: promote-three-preverified-p3s-in-place-below-protected-pair
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
@@ -897,113 +897,11 @@ queue_status:
     orphan_integration: 0
     positions_register_gap: 0
     applied_apex_gap: 0
-  relocated_starved_p2: 2
-  promoted_p3_to_p2: 1
+  relocated_starved_p2: 0
+  promoted_p3_to_p2: 3
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_927_note: "run no.927 (2026-08-03T16:45Z, cycle-driven /replenish-queue): ZERO\
-    \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT. Third consecutive\n\
-    zero-mint run, but the length verdict below is NEW WORK, not inherited:\nruns\
-    \ 925 and 926 both classified the live over-length band by eyeball and\ncalled\
-    \ it exhausted. This run DECOMPOSED it and reached the same verdict\nfor a partly\
-    \ different reason, plus one durable finding recorded below.\n\nCOUNTS re-derived\
-    \ live via tools.evolution.task_selector.count_p0_p2_tasks\nand tools.todo.processor.parse_tasks,\
-    \ never from this file.\nBEFORE: 26 active, 0 P0, 0 P1, 2 P2, 24 P3 against MIN_QUEUE\
-    \ 3 -- below floor.\nAFTER:  26 active, 0 P0, 0 P1, 5 P2, 21 P3.\nRun 926's three\
-    \ promotions all EXECUTED and drained cleanly in the ~2h since\n(parfit regress\
-    \ 6ff3dd4e6, ape 2+/-1 archive census 4984a97e4, Chalmers\nfive-constraints 52f93334c\
-    \ + 99de34bd2). The promote-to-restore-floor\nmechanism is producing real throughput\
-    \ at roughly one task per 1-2 hours,\nso it is not the starvation failure mode\
-    \ -- it is the P3 backlog being\nmetered into pickable work three at a time.\n\
-    \nALL EIGHT SOURCES RE-MEASURED LIVE THIS RUN.\n(1 chain / 2 unconsumed-research)\
-    \ CAP-BLOCKED. Live counts excluding section\nindex files: topics 318/320, concepts\
-    \ 317/320, voids 100/100, positions\n13/80, apex 39. Five slots remain against\
-    \ 530 research notes, so spending\none on an automatic floor-restore stays an\
-    \ operator-shaped decision. A NEW\nresearch note landed this run (research/phenomenal-individuality-and-\n\
-    biological-individuality-pluralism-2026-08-03.md, commit 5141fc5d8) and its\n\
-    chain successor was DECLINED for exactly that reason -- an expand-topic is\nalready\
-    \ queued at line 1988 and a second would be worse, not better.\n(3 gap analysis)\
-    \ Same cap block.\n(4 staleness) CONVERGED. get_review_candidates returns 158\
-    \ candidates; top\nentry is 15 days since review and the deepest in the top twelve\
-    \ is 25 days.\nNOTHING crosses the skill's 30-day bar. The cycle's four deep-review\
-    \ slots\nper 24 already drain this pool.\n(5 orphan_integration) ZERO, verified\
-    \ live rather than read off quality.\norphaned_files. A fresh wikilink scan over\
-    \ 814 non-workflow files returns 5\napparent orphans, ALL false: one .refinement-log.md\
-    \ sidecar (intentional,\nnever auto-delete) and four authors/ pages, which are\
-    \ referenced from the\nfrontmatter author field rather than by wikilink.\n(6 length_analysis)\
-    \ EXHAUSTED -- AND HERE IS THE NEW PART. Raw\nget_length_warnings returns 101\
-    \ hard-plus entries, 58 of them live content.\nRuns 925/926 dismissed the head\
-    \ of that list as the known false-over-length\nband without measuring it. Decomposed\
-    \ this run by stripping frontmatter and\nthe reference apparatus (first References/Further\
-    \ Reading heading onward):\n  - concepts/qualia.md 4028 total -> 3493 PROSE against\
-    \ a 3500 hard ceiling.\n    GENUINELY UNDER. Textbook false-over-length; do not\
-    \ re-chase it.\n  - topics/volitional-control.md 4996 total -> 4205 PROSE against\
-    \ 4000.\n    GENUINELY OVER, un-vetoed, and with no prior condense or human-decision\n\
-    \    marker -- the one real new candidate this run found. NOT MINTED anyway:\n\
-    \    it is a 46-inbound hub whose own description does calibration work\n    (\"\
-    levelled, not overturned\"), reaching the 3000 soft ceiling would mean\n    cutting\
-    \ ~1200 words of calibration-dense prose, and every structurally\n    identical\
-    \ sibling (born-rule 5055, epistemology-of-convergence 5743) is\n    already DEFERRED-TO-HUMAN\
-    \ for precisely that reason. Minting it would\n    have set the loop up to auto-condense\
-    \ a flagship. RECORD, DO NOT\n    RE-DERIVE: if volitional-control is ever to\
-    \ be cut it needs the same\n    human length decision its siblings got, not a\
-    \ replenish mint.\n  - The three worst genuine offenders remain VETOED in place\
-    \ at lines 714,\n    1354 and 1362 (composition-question-rivals, meaning-of-life,\n\
-    \    phenomenal-output-causal-machinery-dissociation).\n(7 positions) 13 entries;\
-    \ four positions-evolve tasks already open.\n(8 applied apex gap) Two apex-evolve\
-    \ tasks already open at lines 1967, 2065.\n\nTHE THREE PROMOTIONS -- each CONFIRMED\
-    \ ON DISK before promoting, because an\nasserted defect is often false and none\
-    \ of these was taken on the note's word:\n- line 90, transactional-interpretation\
-    \ wiring (concepts/retrocausality.md).\n  VERIFIED: the file discusses TI across\
-    \ twelve prose loci including Cramer\n  1986, the Maudlin contingent-absorber\
-    \ challenge and Kastner's PTI reply,\n  and greps ZERO wikilinks to concepts/transactional-interpretation-of-\n\
-    \  quantum-mechanics -- the article that declares itself in its own lead the\n\
-    \  canonical home for these references and that holds the Map's declines.\n  29\
-    \ inbound links, so this is the wing's hub borrowing the machinery while\n  bypassing\
-    \ the disclaimers. Length-neutral: one wikilink plus one Further\n  Reading entry\
-    \ per file. No web budget needed.\n- line 2047, positions/methodology-and-calibration.md\
-    \ relocation. VERIFIED\n  3401 words against a 2500 hard ceiling by this run's\
-    \ own analyze_length\n  call. Promoted because the instrument is RELOCATION, not\
-    \ compression,\n  which answers run 926's blanket \"registers are a category error\
-    \ to\n  condense\": the precedent already exists in the same directory as\n  positions/quantum-interface-calibration-history.md\
-    \ (2561w), and the task\n  carries an explicit guard against moving the ^calibration-schema\
-    \ anchor\n  that ~10 files deep-link. Offline, non-lossy, explicit success criterion.\n\
-    - line 2219, the basal-and-bioelectric-cognition \"pressure points\" quote.\n\
-    \  VERIFIED present at L54 of the article, in quotation marks, attributed to\n\
-    \  Levin & Dennett's 2020 Aeon essay. Quote fidelity is orthogonal to the\n  three\
-    \ metadata passes this citation has already survived, which is the\n  whole reason\
-    \ it is still unchecked. Its predecessor was blocked ONLY by an\n  aeon.co HTTP\
-    \ 429 and an exhausted WebSearch budget; a fresh session gets a\n  fresh WebFetch.\
-    \ The task correctly forbids de-quoting on suspicion.\n\nANTI-LIFO, AND A CORRECTION\
-    \ TO RUN 926's NOTE. Run 926 recorded its two\nsurviving P2s as \"run 924's pair\"\
-    \ at lines 2225/2252. That provenance is\nWRONG: git -S dates the live pair to\
-    \ b349a864a (09:30Z today,\ndualism-cartography) and 1a7981e61 (12:09Z today,\
-    \ the Russell 1927 quote),\nboth minted 2026-08-03. Run 924's actual pair is already\
-    \ gone. So the pair\nis 7 and 4 hours old, not two days starved, and the LIFO\
-    \ exposure is mild.\nIt was still minimised: the quote-fidelity promotion sits\
-    \ at line 2219,\nBETWEEN the two standing P2s, so dualism-cartography at 2203\
-    \ is picked\nahead of it rather than jumped a second time.\n\nDECLINED PROMOTION,\
-    \ RECORDED SO THE NEXT RUN DOES NOT RE-CHASE IT: line 40,\nthe illusionist-regress\
-    \ family tail (~8 mid-band loci plus archive). The\ndefect is REAL -- nihilism-and-existentialism\
-    \ L80-84 and L144 do run the\nregress decisively (\"reveals why this is self-undermining\"\
-    , \"shows why\ndeflation cannot meet it\") with no pressure-point hedge. Left\
-    \ at P3 anyway\nbecause that family has ALREADY consumed three cycle slots today\
-    \ (93c1beed1,\ned8a4dfdc, 6ff3dd4e6) and the driver that minted this tail 1.5h\
-    \ ago chose P3\ndeliberately, calling it small and cheap. A fourth family task\
-    \ today would\nbe the same-file pileup pattern applied to a defect family; other\
-    \ defect\nclasses deserve the airtime. It is cheap and fresh and will keep.\n\n\
-    ZERO LINE SHIFT, deliberately. todo.md is 18097 lines before and after; the\n\
-    diff is 3 insertions and 3 deletions, all one-character P3-to-P2 header\nedits.\
-    \ No task block moved and no anchor shifted, so any in-flight\ncycle_post line\
-    \ reference stays valid.\n\nVERIFIED AFTER THE WRITE: count_p0_p2_tasks returns\
-    \ 5; select_queue_task\nreturns line 89, the transactional-interpretation wiring\
-    \ task.\n\nCONCURRENCY: sibling agents \"main\" and \"coalesce\" were active in-session.\n\
-    HEAD was 99de34bd2 immediately before the write and the only uncommitted\ndelta\
-    \ was a legitimate loop state advance (session_count 18373 -> 18374,\nrefine-draft\
-    \ last_run bump, recent_tasks reorder), left alone per the\norphaned-cyclepost-state-advance\
-    \ precedent. No evolve_loop.py process found.\nREVERT only if a sibling replenish\
-    \ also restores this slot.\n\nPruned run_924_note to hold the note ring at three."
   run_928_note: "run no.928 (2026-08-03T21:02Z, cycle-driven /replenish-queue): ZERO\
     \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT. Fourth consecutive\n\
     zero-mint run, but the length verdict is NEW WORK: runs 925-927 dismissed or\n\
@@ -1213,3 +1111,74 @@ queue_status:
     \ are still unpicked with a lower line number than everything else, the\nproblem\
     \ is not ordering and a promotion will not fix it.\n\nLeft uncommitted for cycle_post.\
     \ Pruned run_926_note to hold the note ring at three\n(927, 928, 929).\n"
+  "run_930_note": "run no.930 (2026-08-03T22:47Z, cycle-driven /replenish-queue):\
+    \ ZERO MINTS.\nSIXTH consecutive replenish-at-floor. Floor restored 2 -> 5 by\
+    \ PROMOTING THREE\nPRE-VERIFIED P3s ON MERIT, all IN PLACE with no relocation.\
+    \ This is the\n\"promote real work\" arm of the standing instruction run 929\
+    \ left, not the\nrelocation arm -- run 929 spent the relocation moves and explicitly\
+    \ forbade\nre-using them.\n\nCOUNTS re-derived live via tools.todo.processor.parse_tasks\
+    \ and\ntools.evolution.cycle_pick.count_p0_p2_tasks, never read from state:\n\
+    BEFORE 22 active / 0 P0 / 0 P1 / 2 P2 / 20 P3, count_p0_p2_tasks = 2 (below\
+    \ MIN_QUEUE 3).\nAFTER  22 active / 0 P0 / 0 P1 / 5 P2 / 17 P3, count_p0_p2_tasks\
+    \ = 5.\nActive total unchanged at 22: nothing created, nothing completed, nothing\n\
+    re-scoped. The only change is three P3s becoming P2.\n\nPLACEMENT CONSTRAINT\
+    \ HONOURED. Run 929's binding instruction was: do not\nre-relocate the starved\
+    \ pair, and anything promoted must end up BELOW the\nRussell task so it cannot\
+    \ jump it a second time. All three promotions were made\nIN PLACE at lines 62,\
+    \ 1967 and 2098 -- every one already below the Russell task\nat line 39. select_queue_task\
+    \ still returns Russell at line 39 as pick no.1,\nre-verified after the edit.\
+    \ P2 pick order is now 39 (Russell, protected) -> 62\n-> 1967 -> 2098 -> 2211\
+    \ (medium-status).\n\nWHY medium-status DROPPING FROM PICK 2 TO PICK 5 IS NOT\
+    \ A VIOLATION. Run 929's\nprotected set is the RELOCATED PAIR, not its own promotion:\
+    \ its note reasons in\nterms of \"line 2221 vs 40 and 52\", i.e. below-the-pair,\
+    \ and medium-status was\n929's own bottom-placed third-slot filler -- freshly\
+    \ promoted, never starved,\nand a trivial ordinal fix. Reading \"them\" to include\
+    \ medium-status would forbid\nevery in-place promotion, contradicting the same\
+    \ instruction's offer to\n\"promote and relocate below line 52\". So the pair\
+    \ is protected; 929's own\nfiller takes the tail slot.\n\nWHY PROMOTION AND\
+    \ NOT MINTING -- all generative sources checked live, none open:\n- expand-topic\
+    \ / research chains: CLOSED. count_section_files (the gating\n  function, not\
+    \ a raw find) returns topics 318, concepts 317, voids 100,\n  positions 14.\
+    \ Headroom is 2 and 3 against the 320 caps and voids is exactly\n  at cap. Do\
+    \ NOT reason from a raw `find`, which returns 319/318/101/15 because\n  it counts\
+    \ section index files -- that is not what gates.\n- length_analysis: EXHAUSTED\
+    \ for content. get_length_warnings returns 101 hard+\n  entries but ZERO `critical`\
+    \ in topics/, concepts/ or voids/. The critical\n  band is entirely research/\
+    \ notes, positions/ register files and\n  apex/apex-articles.md (an index),\
+    \ none of which are in condense scope; the\n  content-section hard_warnings\
+    \ that do exist are already in the Vetoed bank\n  (epistemology-of-convergence-arguments\
+    \ among them).\n- positions_register_gap: has cap headroom (14/80) but FIVE\
+    \ positions-evolve\n  tasks are already open in the P3 pool (lines 116, 124,\
+    \ 158, 1958, 2199).\n  A sixth would be queue-padding, not work.\n\nTHE THREE\
+    \ PROMOTIONS, each re-verified on disk this run rather than trusted\nfrom its\
+    \ own Notes:\n1. line 62 -- P-I3 metaphysical-indeterminacy pair\n   (obsidian/apex/identity-across-transformations.md).\
+    \ A LIVE POSITION\n   CONTRADICTION, which is P2-grade: two articles assert\
+    \ in the Map's own voice\n   what the register forbids. L93 verbatim, split-brain\
+    \ L96 and L126 verbatim,\n   and the register's P-I1 (L47) / P-I3 (L68, L72)\
+    \ wording all present. Sweep\n   already complete -- the executing agent must\
+    \ NOT re-run the broad greps.\n2. line 1967 -- anendophasia\n   (obsidian/topics/consciousness-and-language-interface.md).\
+    \ Highest-value of\n   the three and its verification is PRE-PAID: the sibling\
+    \ half closed at\n   22:1xZ with Nedergaard & Lupyan 2024 and Lind 2025 both\
+    \ re-verified at\n   Crossref that session. Re-checked here: L162 still reads\
+    \ \"demonstrates that\n   the phenomenal stream can flow without linguistic\
+    \ structuring\", and a\n   case-insensitive grep for nedergaard|lupyan|lind\
+    \ across the file returns\n   ZERO. The modal must come down WITH the citation;\
+    \ adding the source alone\n   makes it worse.\n3. line 2098 -- four-article\
+    \ zero-edge dissociation graph\n   (obsidian/topics/anarchic-hand-and-action-ownership.md).\
+    \ Cross-edge greps\n   return 0 for three of the four files; the single hit\
+    \ in anarchic-hand is a\n   self-reference, not an outbound edge. Its \"HOLD\
+    \ ON [4]\" condition is now\n   DISCHARGED -- the live P2 set is exactly Russell\
+    \ and medium-status, no\n   hemispherectomy task, so all four edits run in one\
+    \ pass with no same-file\n   pileup risk.\n\nCANDIDATE CONSIDERED AND NOT PROMOTED:\
+    \ the illusionist-regress mid band (line\n98). The driver named it and the triage\
+    \ is genuinely done, but the task itself\nsanctions \"if the tail is judged\
+    \ not worth it, say so and close the family\" --\na promotion whose licensed\
+    \ outcome is a decline does not restore a floor. Left\nat P3, where closing\
+    \ the family is still a legitimate pick.\n\nLINE ACCOUNTING. todo.md 18139 ->\
+    \ 18142 lines (+3, one **Promoted** line per\npromotion). All three insertions\
+    \ sit BELOW line 39, so the Russell task's line\nnumber is unchanged and the\
+    \ cached queue_task_line for the currently-selected\ntask remains VALID. Line\
+    \ numbers for every task below line 62 have shifted by\nup to +3; any cached\
+    \ value for those is stale.\n\nLeft uncommitted for cycle_post. recent_tasks\
+    \ preserved at 20. Pruned\nrun_927_note to hold the note ring at three (928,\
+    \ 929, 930).\n"
