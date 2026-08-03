@@ -25,3 +25,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/7b7b5097-ebed-4e8d-a296-47589a49e8b5
+  commissioned_at: '2026-08-03T03:04:44.986420+00:00'
+  prompt_summary: 'Full-site audit: insights, weaknesses, tenet coherence'
+  target_filename: outer-review-2026-08-03-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site developing an interactionist-dualist framework: consciousness
+    is not reducible to physical processes, it influences physical outcomes through
+    minimal quantum-level interaction, Many-Worlds is rejected because indexical identity
+    matters, and Occam''s Razor is treated as unreliable under incomplete knowledge.
+    Audit the site as a whole. Report: (1) inferences the site''s own material licenses
+    but has not yet drawn; (2) structural weaknesses, including thin clusters, missing
+    counterarguments, over-claimed conclusions, and empirical or citation claims that
+    fail verification; (3) coherence against those five foundational commitments;
+    and (4) contradictions between article clusters. Verify representative citations
+    at the publisher rather than trusting the site''s framing of them. Search indices
+    lag 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to account for recent work that search has not yet indexed. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-08-03-chatgpt-5-6-pro.md
