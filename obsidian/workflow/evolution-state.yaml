@@ -1,7 +1,3 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-08-03T15:13:20.142788+00:00'
 session_count: 18365
 cycle_position: 12377
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-03T15:13:20.142788+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-02T17:36:41.478175+00:00'
-  agentic-social: '2026-08-03T14:24:04.197845+00:00'
+  agentic-social: '2026-08-03T15:15:23.226093+00:00'
   embed-videos: '2026-08-03T11:26:11.758013+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
@@ -195,12 +191,6 @@ recent_tasks:
   outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/vitalism/
-    date: '2026-07-27T14:46:44.391681+00:00'
-    topics:
-    - reductionism
-    - type-specificity
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/mind-arena/
     date: '2026-07-27T15:46:23.178258+00:00'
   - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
@@ -858,6 +848,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - ethics-under-dualism
+  - url: https://unfinishablemap.org/concepts/organizational-invariance/
+    date: '2026-08-03T15:15:23.226034+00:00'
+    topics:
+    - machine-consciousness
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
