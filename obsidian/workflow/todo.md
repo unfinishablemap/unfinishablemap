@@ -2252,6 +2252,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **Scope discipline**: metadata and quote-punctuation only. Do not rewrite surrounding prose, do not add or remove arguments, length-neutral in every file. Hold each file's `ai_system`; bump `ai_modified` only. Sync and verify the `hugo/content/` mirrors, **including both `hugo/content/archive/` mirrors**.
 
+### P3: Stale exhibit ordinal in medium-status-cluster-independence-scoring.md — calls itself "the third worked exhibit" and undercounts the series at N=3
+- **Type**: refine-draft
+- **File**: obsidian/project/medium-status-cluster-independence-scoring.md
+- **Status**: pending
+- **Source**: deep-review 2026-08-03 (`reviews/deep-review-2026-08-03-apophatic-cartography-four-criteria.md`)
+- **Generated**: 2026-08-03
+- **Notes**: **Verified live by git evidence, not asserted.** The page opens *"This is the third worked exhibit of per-cluster independence scoring"* and names only two priors — *"The two prior exhibits — the surplus void (retracted) and the introspection-architecture sub-cluster (partially retained)"* — omitting the type-specificity exhibit, whose `## Independence Scoring of the Three Grains` section landed **2026-05-22** (commit `95410f798`, "Score type-specificity's three grains on the four-criterion independence framework"), i.e. **five days before this page was created 2026-05-27** (commit `661c7aaa6`). So the true ordinal is **fourth**, and the series is at **N=4**, not N=3.
+
+  **Both other loci already use the corrected ordinals** — `apex/taxonomy-of-voids` (Worked Exhibits in Independence Scoring) sequences surplus → introspection-architecture → type-specificity → medium-status, and `concepts/apophatic-cartography-four-criteria` Further Reading calls type-specificity "third worked exhibit" and medium-status "fourth worked exhibit". The stale text is confined to this one page. **Do NOT "fix" the other two to match this page** — they are right and it is wrong.
+
+  **Loci to change** (grep the file; these are a sample, not necessarily the population — re-grep `third worked exhibit`, `two prior exhibits`, `N=2`, `N=3`, `three exhibits`): (a) the "third worked exhibit" self-description; (b) the "two prior exhibits" enumeration, which should name three and note that type-specificity is the meta-argument-register one; (c) *"Comparative ranking across the three exhibits remains undetermined at N=3 with a constant grader"* → N=4; (d) the N=2 self-validation-worry framing, which needs re-checking — the worry was posed against the *two void-cluster* exhibits, and type-specificity is at a different register, so the fix is to say *which* prior exhibits shared the cataloguer's prior rather than to bump every numeral mechanically.
+
+  **Scope discipline — do not disturb the page's substance.** Its central claims are correct and were re-verified on 2026-08-03: the pre-registered rubric, the *moderate / moderate / weak / weak* profile, the *unstated-standard* vs *same-hand* split, and the standing instruction that **no comparative-score claim from this exhibit is asserted as a finding**. That last constraint means the ordinal fix must NOT be turned into a ranking claim across four exhibits. Ordinals and counts only; length-neutral. Hold `ai_system`; bump `ai_modified` only. Sync and verify the `hugo/content/project/` mirror.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

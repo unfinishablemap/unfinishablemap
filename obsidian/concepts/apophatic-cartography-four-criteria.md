@@ -4,8 +4,8 @@ description: "Signature specificity, structured persistence, cross-observer conv
 created: 2026-05-16
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-07-29T11:36:38+00:00
-last_deep_review: 2026-07-16T19:50:39+00:00
+ai_modified: 2026-08-03T20:43:18+00:00
+last_deep_review: 2026-08-03T20:43:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ The criteria do four kinds of work the catalogue depends on.
 
 **Calibrating evidential weight.** The criteria translate cluster structure into a calibrated label from the [[evidential-status-discipline|evidential-status discipline]]'s five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*). A cluster scoring high on signature specificity, structured persistence, and framework independence with mixed cross-observer convergence is in a position to earn *strongly supported* for the architectural finding and *realistic possibility* for the interpretive significance — but not *established* for either, and not even *strongly supported* for the interpretive significance without further independent triangulation.
 
-**Discriminating clusters at different positions on the scale.** The exhibits scored to date do land at visibly different positions: the surplus void retracted from independent-evidence framing to framework-internal-coherence calibration; the introspection-architecture sub-cluster *partially retains* its independence score on the architectural finding while ceding ground on the interpretive significance; the medium-status cluster's dense surface, which invited a *strong* reading, landed *moderate / moderate / weak / weak* against a rubric pre-registered before its anchors were examined. But all of them scored *with* the cataloguer's prior, leaving open whether the discrimination tracked the methodology or its rationalisations. The pre-registered rubric addresses the *unstated-standard* leg of that worry; the *same-hand* leg — one author wrote the rubric and applied it — awaits an independent grader. The non-flatness claim is thus *provisional with a rubric, pending independent grading*, not a demonstrated property of the instrument.
+**Discriminating clusters at different positions on the scale.** The exhibits scored to date do land at visibly different positions: the surplus void retracted from independent-evidence framing to framework-internal-coherence calibration; the introspection-architecture sub-cluster *partially retains* its independence score on the architectural finding while ceding ground on the interpretive significance; the type-specificity grains scored differently from one another at the meta-argument register. Those first three all scored *with* the cataloguer's prior, which left open whether the discrimination tracked the methodology or its rationalisations. The medium-status cluster is the exhibit that scored *against* it: a dense surface inviting a *strong* reading landed *moderate / moderate / weak / weak* against a rubric pre-registered before its anchors were examined. That addresses the *unstated-standard* leg of the worry; the *same-hand* leg — one author wrote the rubric and applied it — awaits an independent grader. The non-flatness claim is thus *provisional with a rubric, pending independent grading*, not a demonstrated property of the instrument.
 
 ## Honest Bounds
 
@@ -109,7 +109,7 @@ The criteria are not foundations. Five bounds are visible and named honestly:
 
 **Judgement-laden classification at the margins.** The despite-commitments / because-prediction classification depends on reviewer judgements about what the authoring framework predicted, and finer-grained classification by reviewers in different frameworks would shift some anchors at the margins. The classification is principled but not algorithmic.
 
-**Single-observer dependence within multi-source channels.** Some channels — particularly the contemplative-tradition channel — may run through a smaller number of root sources than aggregate counting suggests. A shared Neoplatonic inheritance underlies negative theology across Christianity, Judaism, and Islam — the Pseudo-Dionysian corpus is its Christian branch, and Maimonides reaches negative theology through the Islamic Neoplatonic tradition — so apparent tri-tradition convergence may be one Neoplatonic source counted three times.
+**Single-observer dependence within multi-source channels.** Some channels — particularly the contemplative-tradition channel — may run through a smaller number of root sources than aggregate counting suggests. The Neoplatonic inheritance traced under [[#cross-observer-convergence|cross-observer convergence]] above is the standing case: apparent tri-tradition convergence in negative theology may be one Neoplatonic source counted three times.
 
 **The recursive bind on framework-independence.** The question *is this observation framework-shaped?* is itself framework-shaped. A reviewer applying the criterion is using their own framework's categories to decide what counts as despite-commitments observation. The bind is genuine; the response is asymptotic, not foundational — adversarial cross-framework auditing tightens the calibration without eliminating the recursion.
 
