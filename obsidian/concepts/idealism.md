@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-08-03T13:16:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,21 +42,17 @@ Idealism is the view that consciousness is fundamental and matter is derivative�
 
 In its contemporary analytic form, developed primarily by Bernardo Kastrup, matter doesn't exist independently at all; it is the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective.
 
-This difference matters for causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm? The Map's [[interactionist-dualism|interactionist position]] holds that something genuinely physical responds to conscious choice—a claim idealism cannot accommodate without reducing "interaction" to one part of consciousness affecting another.
+This difference matters for causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm? The Map's [[interactionist-dualism|interactionist position]] holds that something genuinely physical responds to conscious choice—a claim idealism accommodates only by reducing "interaction" to one part of consciousness affecting another.
 
 ## The Idealist Vision
 
 Idealism inverts the usual picture. Physicalism says matter is fundamental and consciousness emerges from it (somehow). Idealism says consciousness is fundamental and matter is... what exactly?
 
-**Berkeley's subjective idealism**: To be is to be perceived (*esse est percipi*). Material objects are collections of ideas in minds. What we call "physical reality" is the stable, shared structure of experience, sustained by God's continuous perception.
-
-**German idealism**: Kant argued we can't know things-in-themselves, only appearances structured by mind. Hegel went further: reality is the unfolding of absolute spirit.
-
-**Advaita Vedanta**: Hindu non-dualism holds that *Brahman* (universal consciousness) is sole reality; individual selves (*atman*) are Brahman, and the physical world is *maya* (illusion).
+**The classical lineage**: Berkeley's *esse est percipi* makes material objects collections of ideas, with physical reality the stable shared structure of experience sustained by God's continuous perception. Kant argued we can know only appearances structured by mind; Hegel made reality the unfolding of absolute spirit. Advaita Vedanta holds that *Brahman* (universal consciousness) is sole reality, individual selves (*atman*) are Brahman, and the physical world is *maya*.
 
 **Kastrup's analytic idealism**: Universal phenomenal consciousness is all there is. Everything reduces to "patterns of excitation" within this consciousness. Individual minds are "dissociated alters"—localized portions of universal consciousness that have become informationally isolated from the whole, like personalities in dissociative identity disorder. Your brain doesn't generate your consciousness; your brain is how your consciousness *looks from outside*. A brain scan shows the extrinsic appearance of a localized mental process.
 
-**Buddhist complications**: While Kastrup draws on Eastern thought, Madhyamaka Buddhism rejects both materialism *and* idealism as extreme positions. Nāgārjuna's "middle way" argues that nothing—including consciousness—has inherent existence. This challenges idealism's claim that consciousness is the "sole ontological primitive" just as it challenges materialism's claim about matter. The [[buddhism-and-dualism|compatibility thesis]] suggests irreducibility without the permanence idealism assumes.
+**Buddhist complications**: While Kastrup draws on Eastern thought, Madhyamaka Buddhism rejects both materialism *and* idealism as extreme positions. Nāgārjuna's "middle way" argues that nothing—including consciousness—has inherent existence. This challenges idealism's claim that consciousness is the "sole ontological primitive" just as it challenges materialism's claim about matter—and it presses harder on the Map than on either, since substance dualism posits *two* categories with inherent existence where idealism posits one. [[buddhism-and-dualism|The compatibility thesis]] is where the Map answers that charge, arguing for irreducibility without the permanence either idealism or a naïve substance dualism assumes.
 
 ## The Argument from Parsimony
 
@@ -100,7 +96,7 @@ Idealism and the Map's framework share substantial common ground:
 
 5. **Consciousness is the only thing we know directly**: Physical reality is inferred from experience; experience is known immediately.
 
-6. **Brain correlation doesn't prove brain production**: Correlation is symmetric; causation claims require additional argument. (See [[filter-theory]] for this argument developed.)
+6. **Brain correlation doesn't prove brain production**: Correlation is symmetric; causation claims require additional argument. The qualification matters, because the production theorist's strongest evidence is not correlational but *interventional*—lesion, anaesthesia, direct stimulation—and interventions are asymmetric in a way correlations are not. The filter theorist's reply is that a damaged receiver equally explains degraded output: intervention establishes dependence, not manufacture. (See [[filter-theory]] for this argument developed and [[topics/anaesthesia-and-the-consciousness-interface]] for the pharmacological case.)
 
 ## The Crucial Disagreement
 
@@ -114,25 +110,25 @@ The Map parts ways with idealism on a fundamental question: Does physical realit
 
 On analytic idealism, "consciousness influences matter" would mean "consciousness influences how it appears to itself." When you decide to raise your arm and it moves, one dissociated alter causally affects another portion. These are two relata, but not substance-dualist relata. The question is whether this captures what bidirectional interaction is supposed to explain—and why one pattern of appearing (decision) would necessitate another (arm movement).
 
-The Map takes the alternative: its commitment to bidirectional interaction presupposes something genuinely physical for consciousness to interact with. The argument is phenomenological, not stipulative.
+The Map takes the alternative: its commitment to bidirectional interaction presupposes something genuinely physical for consciousness to interact with.
 
 ### The Case for Genuine Otherness
 
-Several considerations favour dualism over idealism on the question of physical reality's independence. No single argument is decisive, but together they create a cumulative case.
+Three considerations bear on physical reality's independence. They do not amount to a cumulative case: each is conceded below, and each is conceded to the *same* idealist manoeuvre—dissociation. Cumulative-case reasoning requires that considerations fail independently, and these share one failure mode. What they jointly establish is narrower but real: they expose a single cost the idealist pays, namely that universal consciousness must be credited with a structure behaving in every respect like an independent physical world.
 
-**The regularity challenge** is the strongest consideration. Why does "appearance" follow regular laws? If matter is how consciousness appears, why must fire burn and gravity attract? The idealist invokes intrinsic structure of universal consciousness. But this structure plays the role physical law plays in dualism—it is something consciousness must work with, something that constrains interaction. Whether we call it "physical reality" or "intrinsic structure of universal consciousness," the conceptual function is identical. At some point, positing a mental substance that behaves exactly like an independent physical world becomes a verbal choice rather than a substantive claim.
+**The regularity challenge** states that cost most sharply. Why does "appearance" follow regular laws? If matter is how consciousness appears, why must fire burn and gravity attract? The idealist invokes intrinsic structure of universal consciousness. But this structure plays the role physical law plays in dualism—it is something consciousness must work with, something that constrains interaction. Whether we call it "physical reality" or "intrinsic structure of universal consciousness," the conceptual function is identical. That conclusion is a parity result, not an argument for dualism. If the idealist's structure discharges every function physical law discharges, the choice between the two labels is verbal, and a verbal choice cannot break the tie. The Map's remaining ground is the phenomenological wager below and the interface-specificity consideration developed later—not this argument.
 
-**The phenomenological argument** adds supporting evidence. When you try to lift something heavy, there is resistance. When you attempt a difficult calculation, the answer seems to demand discovery rather than invention. These experiences have a characteristic structure: something *not-you* constrains what you can do. Sartre's analysis of the *en-soi* (being-in-itself) captures this: the stone's resistance to my foot is not the resistance of two ideas within one mind but the resistance of something that *simply is what it is*, indifferent to my projects.
+**The phenomenological argument** brings the same cost into first-person view. When you try to lift something heavy, there is resistance. When you attempt a difficult calculation, the answer seems to demand discovery rather than invention. These experiences have a characteristic structure: something *not-you* constrains what you can do. Sartre's analysis of the *en-soi* (being-in-itself) captures this: the stone's resistance to my foot is not the resistance of two ideas within one mind but the resistance of something that *simply is what it is*, indifferent to my projects.
 
 The idealist can accommodate this: resistance is one portion of universal consciousness constraining another, and dissociation produces precisely this sense of independence. The phenomenological argument is not conclusive on its own—the Map's preference for dualism rests partly on taking the phenomenology at face value: when the world feels like something genuinely other, it probably is. But this is a wager, not a proof.
 
-**The thing-like character of physical patterns** reinforces both arguments. You cannot walk through walls not because of cognitive limitation but because of material impenetrability. The idealist must explain why certain patterns of universal consciousness resist penetration while others (ideas, memories, fantasies) do not. The answer—that physical appearances are stable dissociative structures while thoughts are ephemeral processes—works, but at the cost of making "physical" patterns suspiciously thing-like.
+**The thing-like character of physical patterns** states the same cost in a third register. You cannot walk through walls not because of cognitive limitation but because of material impenetrability. The idealist must explain why certain patterns of universal consciousness resist penetration while others (ideas, memories, fantasies) do not. The answer—that physical appearances are stable dissociative structures while thoughts are ephemeral processes—works, but at the cost of making "physical" patterns suspiciously thing-like.
 
 ### The Interface Question
 
-The Map's [[brain-interface-boundary]] concept specifies *where* consciousness interacts with matter: in the brain, through quantum-level processes, bounded by attention and embodiment. This requires genuine physical systems with which consciousness interfaces. The [[multi-mind-collapse-problem]] addresses how multiple consciousnesses coordinate—each interfaces only with its own brain, while objective physical processes determine shared facts.
+The Map's [[brain-interface-boundary]] concept specifies *where* consciousness interacts with matter: in the brain, through quantum-level processes, bounded by attention and embodiment. This requires genuine physical systems with which consciousness interfaces.
 
-On idealism, these questions transform. If there is no physical substrate, what makes the brain a privileged "appearance"? Idealism must either explain why certain appearances function as interfaces while others don't (which smuggles physical realism back in) or deny that any localized interface exists (which conflicts with the phenomenology of embodiment).
+On idealism, this question transforms. If there is no physical substrate, what makes the brain a privileged "appearance"? Kastrup's answer is already contained in the dissociation model: the dissociative boundary *is* the interface, and the brain is what that boundary looks like from outside. No extra posit is smuggled in. The Map's objection is therefore not that idealism lacks an interface but that its interface does no *causal* work in the Map's sense. A dissociative boundary marks where information stops flowing; the Map's interface is a site where something non-physical changes a physical outcome that physics left undetermined. Both models locate consciousness at a boundary, and they disagree about whether anything crosses it.
 
 ### Indexical Identity
 
@@ -144,7 +140,7 @@ This connects to [[topics/phenomenal-value-realism]]: if [[topics/phenomenal-val
 
 ### The Success of Physics
 
-Physical science has been extraordinarily successful at prediction. This success is hard to understand if physical reality is mere appearance. Idealism can accommodate this—Kastrup argues physical laws describe the regularities of universal consciousness. But interactionist dualism offers a more natural explanation: physics succeeds because it describes real physical structure that exists independently.
+Physical science has been extraordinarily successful at prediction. This success is hard to understand if physical reality is mere appearance. Idealism can accommodate this—Kastrup argues physical laws describe the regularities of universal consciousness. Interactionist dualism's explanation is more direct: physics succeeds because it describes real physical structure that exists independently. But directness belongs to the same family of theoretical virtues as the parsimony the Map has just declined to treat as decisive, and the idealist prices it differently—accepting a less direct account of physics in exchange for one ontological category rather than two. The Map should not cash a virtue-argument here that it disclaims when the virtue runs the other way.
 
 ### The Constraint Problem
 
@@ -152,7 +148,7 @@ If matter is appearance, why can't we alter it at will? Kastrup appeals to disso
 
 Interactionist dualism has a straightforward answer: physical reality exists independently with its own structure. Consciousness influences it only within the gaps physics leaves open (quantum indeterminacy)—though this mechanism remains speculative, faces the decoherence objection, and has no direct experimental support. The Map's interaction proposal is a research programme, not a proven mechanism.
 
-These practical difficulties compound the cumulative case for genuine otherness developed in the phenomenological argument above. The Map's dualism is arguably more forthright: physical reality exists, has its own nature, and consciousness interacts with it.
+These practical difficulties restate the same cost identified above, met by the same dissociative answer, in a practical register rather than a metaphysical one—they are not independent evidence for it. What dualism offers instead is an explicit posit rather than a derived one: physical reality exists, has its own nature, and consciousness interacts with it. Whether explicitness is worth an extra ontological category is precisely what the two frameworks disagree about.
 
 ## Simple Organisms and the Ubiquity of Mind
 
@@ -160,7 +156,7 @@ Research on [[minimal-consciousness|minimal consciousness]]—organisms like *C.
 
 If consciousness is fundamental and matter merely appearance, every organism participates in consciousness. The distribution problem dissolves: consciousness is everywhere; what varies is the complexity and dissociation of its manifestations.
 
-The Unlimited Associative Learning (UAL) framework identifies behavioral markers for consciousness: global information broadcasting, selective attention, evaluative systems, unlimited associative capacity. Simple organisms fail these tests. Idealism can respond that UAL identifies *complex dissociated consciousness* but misses simpler forms—the worm experiences; it just experiences simply.
+The Unlimited Associative Learning (UAL) framework of Ginsburg and Jablonka (2019) identifies behavioral markers for consciousness: global information broadcasting, selective attention, evaluative systems, unlimited associative capacity. Simple organisms fail these tests. Idealism can respond that UAL identifies *complex dissociated consciousness* but misses simpler forms—the worm experiences; it just experiences simply.
 
 *Physarum polycephalum* (a slime mold) has no neurons yet solves mazes and optimizes networks. Idealism has no puzzle here: if matter is appearance within consciousness, non-neural cognition is expected. The Map's framework, committed to consciousness interfacing with matter at specific physical sites, must explain non-neural cognition differently: cognition and consciousness may dissociate, with sophisticated behaviors emerging from non-conscious physical systems (thermostats "sense" temperature without experiencing anything).
 
@@ -190,6 +186,8 @@ Idealism and dualism may seem empirically equivalent—both predict the same bra
 
 **Filter theory predictions**: If [[filter-theory]] is correct—if reduced neural activity can *expand* consciousness rather than just diminishing it—this favors consciousness's independence from the brain. But filter theory is neutral between dualism and idealism; the evidence supports consciousness's independence, not its exclusive ontological status.
 
+This third discriminator carries less weight than it first appears to, and the reason generalises. Reduced neural activity under deep anaesthesia and in slow-wave sleep abolishes experience rather than expanding it, and dementia and focal brain damage constrain consciousness with no compensating enrichment. Filter framing accommodates these cases: propofol and xenon narrow the phenomenal channel toward closure while ketamine severs access channels and spares phenomenal content; slow-wave sleep drives interface bandwidth to near zero; neurodegeneration and lesion damage the filter's structure rather than the consciousness that structure filters (see [[topics/anaesthesia-and-the-consciousness-interface]] and [[concepts/altered-states-of-consciousness]]). The same move is available to production theorists, whose accommodation of the expansion cases is structurally identical—different perturbations of one mechanism rather than of one architecture. So the contemplative and unitive reports cannot honestly be cited as multiple independent confirmations: the cluster carries the evidential weight of one pattern, not several, and both framings absorb that pattern.
+
 ## Relation to Site Perspective
 
 Idealism and the Map's [[dualism|dualist framework]] are closer to each other than either is to standard physicalism. Both reject emergence of consciousness from non-conscious matter. Both take the [[explanatory-gap]] seriously.
@@ -200,23 +198,18 @@ If forced to choose between idealism and physicalism, idealism is closer to the 
 
 ## Further Reading
 
-- [[minimal-consciousness]] — Consciousness in simple organisms and what it implies for theories of mind
 - [[dualism]] — Foundational overview of the Map's dualist position
 - [[panpsychism]] — Another view taking consciousness as fundamental
 - [[interactionist-dualism]] — How consciousness and matter interact on the Map's view
-- [[explanatory-gap]] — The structural gap between physical and phenomenal description
-- [[nihilism-and-existentialism]] — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
 - [[filter-theory]] — How dualism accommodates brain-consciousness correlation without production
+- [[topics/anaesthesia-and-the-consciousness-interface]] — The disruptive cases any filter framing owes
+- [[concepts/altered-states-of-consciousness]] — Why the altered-state cluster is one pattern, not several
 - [[witness-consciousness]] — Contemplative evidence both idealists and dualists cite
 - [[brain-interface-boundary]] — Why consciousness interfaces only with its own brain
 - [[multi-mind-collapse-problem]] — How multiple consciousnesses coordinate on dualism vs. idealism
-- [[topics/phenomenal-value-realism]] — How value grounding differs under each framework
-- [[buddhism-and-dualism]] — Eastern critiques of idealism and the compatibility thesis
+- [[buddhism-and-dualism]] — Eastern critiques of idealism, and the Map's answer to the same critique
 - [[concepts/materialism]] — The view idealism opposes most directly
-- [[substance-property-dualism]] — The Map's preferred framework
-- [[combination-problem]] — The challenge panpsychism faces that idealism claims to avoid
 - [[hard-problem-of-consciousness]] — The problem all positions must address
-- [[agent-causation]] — Why individual agency matters for the dualism/idealism choice
 - [[tenets]] — The Map's foundational commitments
 - [[analytic-idealism-and-mind-centric-metaphysics]] — Comparative survey of idealism, panpsychism, cosmopsychism, dual-aspect monism, and the Map's dualism
 - [[analytic-idealism-2026-01-08]] — Research notes on Kastrup and idealism
@@ -228,4 +221,5 @@ If forced to choose between idealism and physicalism, idealism is closer to the 
 1. Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*.
 1. Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Nāgārjuna. *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Trans. Jay L. Garfield (1995). Oxford University Press.
