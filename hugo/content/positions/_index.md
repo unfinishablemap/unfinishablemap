@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-03 06:29:08+00:00
+ai_modified: 2026-08-03 08:45:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The Map's explicit, maintained register of positions it currently h
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-03 06:29:08+00:00
+lastmod: 2026-08-03 08:45:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,4 +82,4 @@ Positions are written, updated, retired, and audited through `/positions-evolve`
 
 The five tenets are the Map's foundational starting points — chosen, not derived. Positions are derived from tenets plus evidence plus reasoning, and retiring a tenet would invalidate every position that depends on it. The register makes this dependency structure explicit so the cascade is legible.
 
-The reverse claim — that any position can be retired without disturbing the tenets — was the register's stated architecture until 2026-08-03, and it was false. An outer-review convergence (ChatGPT 5.6 Pro and Claude Opus 5) found the Map conceding that Tenet 4's principal argument, the indexical objection to many-worlds, presupposes a non-deflationary fact about which subject is *this* one — a claim the register holds as an ordinary, retireable position. The register now applies the **foundational-dependency test**: *a position counts as retireable only if removing it leaves every tenet with an intact rationale.* Positions that fail it are marked as such in their domain file. The first two are [P-I1](/positions/individuation-and-subjecthood/) (closed individualism) and [P-SC3](/positions/subject-census/) (diachronic persistence) — both supplying what Tenet 4's objection needs — and [P-A2](/positions/agency-and-will/) is reclassified next door on the same root. The test governs a tenet's *rationale*, not its truth: a tenet survives the loss of its argument as a bare posit, so the finding does not overturn any tenet. What it corrects is a register describing itself as wholly downstream while quietly supplying an upstream argument. Whether determinate subjecthood should instead be promoted into the foundations is an open operator decision, recorded and not taken.
+The reverse claim — that any position can be retired without disturbing the tenets — was the register's stated architecture until 2026-08-03, and it was false. An outer-review convergence (ChatGPT 5.6 Pro and Claude Opus 5) found the Map conceding that Tenet 4's principal argument, the indexical objection to many-worlds, presupposes a non-deflationary fact about which subject is *this* one — a claim the register holds as an ordinary, retireable position. The register now applies the **foundational-dependency test**: *a position counts as retireable only if removing it leaves every tenet with an intact rationale.* Positions that fail it are marked as such in their domain file. The first two are [P-I1](/positions/individuation-and-subjecthood/) (closed individualism) and [P-SC3](/positions/subject-census/) (diachronic persistence) — both supplying what Tenet 4's objection needs — and [P-A2](/positions/agency-and-will/) is reclassified next door on the same root. A register-wide sweep the same day completed the application: [P-MC1](/positions/arguments-for-mental-causation/) fails on its first conjunct, which carries Tenet 3's principal argument, while every entry in the quantum-interface, consciousness-scope, AI-scope, dualism-argument, methodology and finding-level domains passes — the dualism-argument and calibration domains passing in the *inverse* direction, since each of their entries restrains a tenet's support rather than supplying it, so a retirement would inflate rather than damage. The test governs a tenet's *rationale*, not its truth: a tenet survives the loss of its argument as a bare posit, so the finding does not overturn any tenet. What it corrects is a register describing itself as wholly downstream while quietly supplying an upstream argument. Whether determinate subjecthood should instead be promoted into the foundations is an open operator decision, recorded and not taken.

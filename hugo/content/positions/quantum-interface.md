@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-03 08:13:10+00:00
+ai_modified: 2026-08-03 08:44:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -17,7 +17,7 @@ description: 'The Map''s positions on the consciousness–quantum interface: mec
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-03 08:13:10+00:00
+lastmod: 2026-08-03 08:44:28+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -36,7 +36,7 @@ topics:
 
 ## About this domain
 
-These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none of these positions are themselves tenets but each follows from a tenet plus argument or evidence and could be retired without disturbing the foundational commitments.
+These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none are themselves tenets, and each elaborates the *mechanism* of those tenets rather than supplying either one's rationale, so all ten pass the foundational-dependency test.
 
 **Calibration schema.** Every position below carries the [multi-axis calibration block](/positions/methodology-and-calibration/#calibration-schema) (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only), which works hardest in this domain — P-Q2 and P-Q7 rate high on centrality where P-Q6 rates high on evidence, a difference the old single band hid. [methodology-and-calibration](/positions/methodology-and-calibration/) works that contrast through.
 

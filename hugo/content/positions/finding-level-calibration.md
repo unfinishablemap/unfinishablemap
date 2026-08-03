@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-30
-ai_modified: 2026-07-30 22:40:00+00:00
+ai_modified: 2026-08-03 08:44:28+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ description: 'The Map''s position on calibration at the grain of a single findin
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-07-30 22:40:00+00:00
+lastmod: 2026-08-03 08:44:28+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -33,7 +33,7 @@ topics:
 
 These positions record what the Map commits to about calibration at the grain of a *single finding* — how one result's claims are separated before either is cited, and at what discount each is then allowed to bear on the tenets. The domain is the finding-grain sibling of [Methodology and calibration](/positions/methodology-and-calibration/), which registers the Map's conduct commitments at the claim, framework, and pipeline registers: the tenet-register / evidence-register separation (P-M1), the standing convergence discount (P-M2), the citation-verification and weight-class standard (P-M3), the framework-stage calibration (P-M4), and the disclosure-versus-enforcement gap (P-M5). Those operate on a claim, a convergence, a source, or the framework as a whole. These operate on one finding at a time, upstream of tier assignment — which is why they are registered apart rather than appended there.
 
-The positions here are *normative*: commitments about the Map's own citation conduct, not first-order claims about consciousness or matter. Their empirical axes are therefore legitimately *n/a* under the [multi-axis calibration schema](/positions/methodology-and-calibration/#calibration-schema). Neither these nor the methodology positions are tenets; each is a chosen discipline that could be revised or retired without disturbing the five foundational commitments. The domain's root is [Tenet 5](/tenets/#occams-limits) read self-bindingly — the discipline binds the Map's *own* readings of its evidence, not only its critics' use of parsimony against it.
+The positions here are *normative*: commitments about the Map's own citation conduct, not first-order claims about consciousness or matter. Their empirical axes are therefore legitimately *n/a* under the [multi-axis calibration schema](/positions/methodology-and-calibration/#calibration-schema). Neither these nor the methodology positions are tenets, and both domains pass the foundational-dependency test cleanly: a discipline about the Map's own citation conduct supplies no tenet's *rationale*, so retiring one leaves every tenet argued exactly as before. The direction is worth stating, because it runs opposite to the failing cases elsewhere in the register — P-F1 *subtracts* from what a finding may be cited as, so retiring it would inflate the tenets' apparent support rather than damage it. The test detects positions a tenet leans on, not positions that restrain it. The domain's root is [Tenet 5](/tenets/#occams-limits) read self-bindingly — the discipline binds the Map's *own* readings of its evidence, not only its critics' use of parsimony against it.
 
 **Deferred for want of an argued home (2026-07-30).** A second candidate was considered at this grain and declined: the *authorship-independence discount on intra-corpus agreement* — that unanimity among the Map's own articles about an external fact is one observation read N times unless the loci were independently authored against distinct sources, so lateral cross-checking is triage rather than verification. The claim is sound and is the [P-M2](/positions/methodology-and-calibration/) common-cause null turned inward, but its only statement in the corpus is a review finding, so it has no apex, topic, or concept article to name under **Argued in** and would be registered as a structural orphan. It also lands as a discriminator attached to P-M3's existing prohibition rather than as a separate commitment. The right home is a clause inside P-M3, to ride with the next condense or split of that file (currently over its hard length ceiling).
 

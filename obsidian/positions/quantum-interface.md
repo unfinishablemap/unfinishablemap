@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-08-03T08:13:10+00:00
+ai_modified: 2026-08-03T08:44:28+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -34,7 +34,7 @@ last_curated: 2026-06-04
 
 ## About this domain
 
-These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none of these positions are themselves tenets but each follows from a tenet plus argument or evidence and could be retired without disturbing the foundational commitments.
+These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none are themselves tenets, and each elaborates the *mechanism* of those tenets rather than supplying either one's rationale, so all ten pass the foundational-dependency test.
 
 **Calibration schema.** Every position below carries the [[methodology-and-calibration#^calibration-schema|multi-axis calibration block]] (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only), which works hardest in this domain — P-Q2 and P-Q7 rate high on centrality where P-Q6 rates high on evidence, a difference the old single band hid. [[positions/methodology-and-calibration]] works that contrast through.
 

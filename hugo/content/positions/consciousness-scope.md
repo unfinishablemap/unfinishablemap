@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-03 08:23:22+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-03 08:44:28+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[minimal-consciousness]]'
@@ -18,7 +18,7 @@ description: 'The Map''s positions on where consciousness reaches in biological 
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-08-03 08:23:22+00:00
+lastmod: 2026-08-03 08:44:28+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -41,7 +41,7 @@ topics:
 
 These positions record where the Map holds consciousness to reach in **biological subjects** — non-human animals, human infants and developing brains — and how it reads the cases where unified experience appears to fragment (split-brain, anaesthesia, sleep, dreaming). The companion register [ai-consciousness-scope](/positions/ai-consciousness-scope/) carries the artefact-side claims (digital AI, quantum-state inheritance, conscious copies), which are split out because they carry a *heavier and different* dependency burden. The cluster exists because the topic and concept corpus already makes decision-relevant scope claims that the register did not yet pin down.
 
-The organising idea is the **minimal-dualism spine**. The Map's tenet-dependency matrix marks animal and infant phenomenality as needing only Tenet 1's *bare* irreducibility reading — none of the quantum apparatus (Tenets 2–3, the [quantum-interface register](/positions/quantum-interface/)). That makes the spine the framework's strategic hedge: it survives intact even if the entire quantum-interface programme were demoted to coherence-only. Every position here is therefore held *separately from, and more robustly than*, the quantum-dependent AI verdicts in the companion register, and each records its own dependencies so the cascade stays legible and a downstream applied article can cite exactly the burden it is taking on. None of these are tenets; each follows from a tenet plus argument and could be retired without disturbing the foundational commitments.
+The organising idea is the **minimal-dualism spine**. The Map's tenet-dependency matrix marks animal and infant phenomenality as needing only Tenet 1's *bare* irreducibility reading — none of the quantum apparatus (Tenets 2–3, the [quantum-interface register](/positions/quantum-interface/)). That makes the spine the framework's strategic hedge: it survives intact even if the entire quantum-interface programme were demoted to coherence-only. Every position here is therefore held *separately from, and more robustly than*, the quantum-dependent AI verdicts in the companion register, and each records its own dependencies so the cascade stays legible and a downstream applied article can cite exactly the burden it is taking on. None of these are tenets; each follows from a tenet without grounding it, so all five pass the foundational-dependency test.
 
 **Calibration schema (2026-07-16).** Every position below now carries the [multi-axis calibration block](/positions/methodology-and-calibration/#calibration-schema) (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only) in place of the former single confidence band, following the outer-review conflation finding (ChatGPT + Claude, 2026-07-16) that the single band measured structural centrality rather than credence or external evidence. The split is sharpest at the **minimal-dualism spine** (P-CS1): a *framework-internal* claim of *high structural centrality* (bare Tenet 1 plus an adopted substrate-neutrality premise; the rest of the domain hangs from it) but with *no positive external evidence* (Grade D — a permission, not a datum). The marker-based scope positions (P-CS2, P-CS3), by contrast, carry genuine independent evidence (Grade B) and are not framework-internal. Substantive claims, statuses, and dependencies are unchanged. *Updated 2026-07-16: calibration migration.*
 

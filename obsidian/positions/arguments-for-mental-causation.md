@@ -4,7 +4,7 @@ description: "The Map's positions on what its case against epiphenomenalism actu
 created: 2026-08-02
 modified: 2026-08-02
 human_modified:
-ai_modified: 2026-08-02T14:52:00+00:00
+ai_modified: 2026-08-03T08:44:28+00:00
 draft: false
 topics:
   - "[[self-stultification-as-master-argument]]"
@@ -37,6 +37,8 @@ It exists because the register had a hole where two entries lean hardest. [[posi
 
 The entries transcribe settled corpus wording, argued first in [[arguments/epiphenomenalism-argument]], [[concepts/epiphenomenalism]], [[topics/the-epiphenomenalist-threat]] and [[topics/self-stultification-as-master-argument]], so a downstream piece can cite the scope limit by ID instead of restating it. As with the dualism-argument entries, the first two are self-limiting — each subtracts from a claim the Map would like to make, which is why their centrality bands sit low to moderate despite high credence.
 
+**The foundational-dependency test (applied 2026-08-03).** Under the register's rule — *a position counts as retireable only if removing it leaves every tenet with an intact rationale* (see [[positions]]) — this domain does not come out uniformly, and the split runs *inside* an entry rather than between entries. **P-MC1 fails on its first conjunct.** [[tenets#^bidirectional-interaction|Tenet 3]]'s stated rationale names self-stultification as one of its two supports, and the tenets page then re-bases the burden onto a comparative judgement — that the alternative leaves report-reliability hanging on a contested epistemological premise — which is that same argument's residue rather than an independent ground. Retire the claim that self-stultification decisively burdens bare-correlation epiphenomenalism, and Tenet 3 is left with the comparative-cognition evidence the tenets page itself says corroborates rather than establishes it. The entry's *second* conjunct, the phenomenal-concept scope limit, is freely retireable — and retiring it would strengthen the tenet's rationale rather than damage it, which is why the failure has to be recorded as asymmetric within one entry rather than as a verdict on the whole. **P-MC2 and P-MC3 pass.** P-MC2 is purely subtractive: retiring it would let the existential result read as the universal claim Tenet 3 asserts, inflating the rationale rather than removing it. P-MC3 restates Kim's exclusion argument, a mainstream external result, and its denial of causal completeness *is* Tenet 2 rather than a ground for it; its retirement cascades to [[positions/arguments-for-dualism|P-D2]], whose selection step borrows its exclusion criterion, and not to any tenet.
+
 **Mechanism debt inherited, not discharged.** P-MC3 records *how* the Map escapes the epiphenomenalist gravity well — by denying that physical events always have sufficient physical causes. That escape is the quantum-interface programme, carrying that register's open debt: no worked toy model, and the bias-without-deviation dilemma. Full statement: [[positions/quantum-interface#^mechanism-debt|the mechanism-debt anchor]].
 
 Calibration follows the [[methodology-and-calibration#^calibration-schema|multi-axis schema]].
@@ -51,7 +53,8 @@ Calibration follows the [[methodology-and-calibration#^calibration-schema|multi-
 - **Depends on**: [[positions/methodology-and-calibration|P-M1]] (Tenet 3 does not close the opening the strategy makes); [[concepts/phenomenal-concepts-strategy]] as the mainstream statement of the escape; the mode-of-presentation dispute treated under [[tenets#^bidirectional-interaction|Bidirectional Interaction]]; supplies half the scope of the argument [[positions/arguments-for-dualism|P-D2]] names as its selector
 - **Argued in**: [[arguments/epiphenomenalism-argument]], [[concepts/epiphenomenalism]], [[topics/self-stultification-as-master-argument]]
 - **Would shift if**: the phenomenal-concept strategy were shown to fail in all its variants (restoring the argument's reach and removing this scope limit); or the first-person mode of presentation were given an exhaustive physical characterisation (settling the relocated dispute against the Map); or a version of the argument were constructed that binds phenomenal-concept epiphenomenalism directly.
-- **Last reviewed**: 2026-08-02
+- **Updated 2026-08-03**: reclassified as **not freely retireable on its first conjunct** under the foundational-dependency test — retiring the decisive-burden claim would leave [[tenets#^bidirectional-interaction|Tenet 3]] holding a commitment with corroborating evidence but no principal argument. The scope-limiting second conjunct stays freely retireable. Claim, calibration and dependencies are unchanged; what changes is that the entry now records which half a retirement could take.
+- **Last reviewed**: 2026-08-03
 
 ## P-MC2: Self-stultification establishes an existential claim where Tenet 3 asserts a universal one, and the gap is closed by commitment rather than by the argument
 

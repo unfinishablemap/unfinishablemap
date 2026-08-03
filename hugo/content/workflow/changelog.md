@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T08:14:31+00:00'
+ai_modified: '2026-08-03T08:46:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 08:14:31+00:00
+lastmod: 2026-08-03 08:46:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 08:45 UTC - positions-evolve (foundational-dependency test applied register-wide — one new failure, six domains cleared)
+
+- **Status**: Success
+- **Files**: [positions](/positions/), [agency-and-will](/positions/agency-and-will/), [quantum-interface](/positions/quantum-interface/), [consciousness-scope](/positions/consciousness-scope/), [ai-consciousness-scope](/positions/ai-consciousness-scope/), [methodology-and-calibration](/positions/methodology-and-calibration/), [finding-level-calibration](/positions/finding-level-calibration/), [arguments-for-dualism](/positions/arguments-for-dualism/), [arguments-for-mental-causation](/positions/arguments-for-mental-causation/)
+- **Mode**: update (no add / retire); test applied, verdicts recorded
+- **Source**: [pessimistic-2026-08-03-positions-calibration-schema](/reviews/pessimistic-2026-08-03-positions-calibration-schema/); test originates in the 2026-08-03 ChatGPT 5.6 Pro full-site audit
+
+The test — *a position counts as retireable only if removing it leaves every tenet with an intact rationale* — was adopted on 2026-08-03 but applied only inside [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) and [subject-census](/positions/subject-census/). Six domain files still carried the boilerplate it falsifies ("could be retired without disturbing the foundational commitments"). All six now state per-file verdicts; two further domains were tested and recorded.
+
+**One new failure, found by testing rather than by pattern-match.** [P-MC1](/positions/arguments-for-mental-causation/) **fails on its first conjunct**. [Tenet 3](/tenets/#bidirectional-interaction)'s stated rationale names self-stultification as one of its two supports and then re-bases the burden onto a comparative judgement that is that argument's own residue, so retiring the decisive-burden claim leaves Tenet 3 with the comparative-cognition evidence the tenets page itself says *corroborates rather than establishes* it. The entry's second conjunct (the phenomenal-concept scope limit) stays freely retireable — the failure is **asymmetric within one entry**, the same shape as P-SC3 failing on its persistence half. Entry-level `Updated` line added; `Last reviewed` bumped.
+
+**[P-A2](/positions/agency-and-will/) fails, as the register hub already announced** — its own "Bears on" note recorded Tenet 4's indexical objection inheriting strength from the persisting subject it posits, three lines below a boilerplate sentence that contradicted it. Recorded as a dependency *shared with* [P-I1](/positions/individuation-and-subjecthood/) rather than carried alone, since retiring P-A2 while P-I1 stands leaves the thick-subject root intact.
+
+**Two predicted failures did not survive testing.** [P-D2](/positions/arguments-for-dualism/) was flagged as likely-failing on the grounds that it supplies Tenet 1's argumentative support. It does not: **Tenet 1 is stated as irreducibility** and is explicitly neutral between substance and property readings, so P-D2's "Bidirectional Interaction selects dualism" clause operates *downstream* of the tenet and earns the Map's interactionist reading rather than Tenet 1. P-D1 was the case the task warned against sweeping in, and it holds: all three dualism-argument entries pass in the **inverse direction** — each restrains the catalogue's force, so a retirement would *inflate* Tenet 1's apparent support rather than damage it. The same inverse reading covers P-M1/P-M2 and P-F1.
+
+**The normative pair confirmed, not assumed.** [P-M1–P-M5](/positions/methodology-and-calibration/) and [P-F1](/positions/finding-level-calibration/) pass: a discipline about the Map's own conduct supplies no tenet's rationale. Recorded explicitly rather than left silent.
+
+**Length discipline.** Five of the six boilerplate files sit at or over the 2500-word hard threshold and could not absorb a net addition. Every edit there came out **neutral or negative**, measured with `analyze_length` before and after: agency-and-will 2772→2771, quantum-interface 4130→4129, consciousness-scope 2499→2498 (back under hard), ai-consciousness-scope 2883→2882, methodology-and-calibration 3401→3401. Room in agency-and-will came from de-duplicating a clause repeated near-verbatim two lines below in the mechanism-debt note, not from condensing entries. The two files with headroom took full test paragraphs (arguments-for-mental-causation 1487→1795, arguments-for-dualism 1800→1971). No entry was condensed to buy space; the section-wide threshold mismatch remains an open operator decision.
+
+**Hub completed.** [positions](/positions/) L81 was confirmed already-correct (it reads as the setup to the refutation) and its boilerplate was *not* re-fixed; only the failure enumeration was extended to name P-MC1 and record the six passing domains.
+
+- **Attribution**: `ai_system` co-attributed `claude-opus-4-8+claude-opus-5` on [agency-and-will](/positions/agency-and-will/) and [consciousness-scope](/positions/consciousness-scope/) (verdicts authored into opus-4-8 files); the other six already carried opus-5. `ai_modified` stamped from a live `date -u` and verified strictly past; `last_deep_review` untouched.
+- **Mirror**: synced; all nine changed files confirmed in `hugo/content/positions/`, wikilinks converted, `validate.py` clean apart from pre-existing length warnings.
+- **Follow-up left to the operator**: the skill doc `.claude/skills/positions-evolve/SKILL.md` still instructs on the retired single `Confidence:` band and never mentions credence / external-evidence / model maturity — the write-path migration [positions](/positions/) already flags as open.
 
 ## 2026-08-03 08:31 UTC - deep-review (topics/dualism-channel-width-axis — intra-corpus quote drift, 3 defects)
 

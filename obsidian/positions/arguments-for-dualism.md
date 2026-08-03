@@ -4,7 +4,7 @@ description: "The Map's positions on what its own argument catalogue for dualism
 created: 2026-07-28
 modified: 2026-07-28
 human_modified:
-ai_modified: 2026-08-02T14:54:38+00:00
+ai_modified: 2026-08-03T08:44:28+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -33,6 +33,8 @@ last_curated: null
 These positions record what the Map holds about the *evidential structure of its own case for Tenet 1* — not whether dualism is true, but what the catalogue of anti-physicalist arguments, taken together, is entitled to claim. The domain is the first-order counterpart of [[positions/methodology-and-calibration|P-M2]], which registers the common-cause null as a standing methodological rule and names this case explicitly as one of the two the discipline is held against: "it is the rule the convergence-for-dualism case and the void-catalogue case must survive." [[positions/voids-as-evidence|P-V1–P-V3]] registered the void-catalogue instance in June 2026; this file registers the argument-catalogue instance, so both of the Map's most ambitious convergence claims now carry a register entry stating their discount rather than only their force.
 
 The entries are transcriptions of settled corpus wording, not fresh derivations. Each was argued in article prose first — in [[topics/the-convergence-argument-for-dualism|the convergence argument for dualism]], and in the concessions [[concepts/philosophical-zombies]], [[concepts/qualia]], and [[concepts/dualism]] inherit from it — and is registered here so a downstream apex or applied piece can cite the discount by ID instead of restating it. The positions are deliberately *self-limiting*: each subtracts from a claim the Map would like to be able to make. Overturning any of them would strengthen rather than weaken the case for Tenet 1, which is why their structural centrality bands are low to moderate despite the high credence attaching to them.
+
+**The foundational-dependency test (applied 2026-08-03).** All three pass, and this domain is the test's mirror image. The rule asks whether removing a position leaves every tenet with an intact rationale (see [[positions]]). [[tenets#^dualism|Tenet 1]]'s stated rationale is the explanatory gap, the judgement that materialism has not closed it, and the positive argument catalogue — and no entry here supplies any of those. Each is a *counting rule about* the catalogue: P-D1 and P-D3 discount its independence, P-D2 forbids the framework commitment from being counted as a third route. Retiring any of them therefore leaves Tenet 1's rationale not merely intact but apparently *stronger*, since what a retirement removes is a restraint. One clarification the test forces, because the entry reads like Tenet 1's argumentative support and is not: P-D2's "Bidirectional Interaction selects dualism" clause operates *downstream* of the tenet, which is stated as irreducibility and is neutral between substance and property readings. The selection step earns the Map's interactionist reading, not Tenet 1, so its removal costs no tenet its rationale.
 
 Calibration follows the [[methodology-and-calibration#^calibration-schema|multi-axis schema]] (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only).
 

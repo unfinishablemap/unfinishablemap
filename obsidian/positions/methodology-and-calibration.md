@@ -4,7 +4,7 @@ description: "The Map's positions on its own method: the tenet-register / eviden
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-08-03T02:52:48+00:00
+ai_modified: 2026-08-03T08:44:28+00:00
 draft: false
 topics: []
 concepts:
@@ -29,7 +29,7 @@ last_curated: 2026-06-22
 
 These positions record what the Map *commits to methodologically* — not just what its editorial system practices, but the calibration rules downstream articles are entitled to inherit and an applied apex piece can lean on without re-arguing. The project's `/project/` tier already documents the raw machinery in detail (evidential-status discipline, the common-cause null, the coherence-inflation countermeasures, framework-stage calibration, the public-claim register, the calibration-audit triple). This register lifts that machinery to position-level commitments so that a reader, a reviewer, or a downstream article can cite *what the Map holds about its own evidence* with the same status-and-confidence structure as any first-order claim.
 
-The domain is distinct from the first-order substantive registers (quantum-interface, agency, consciousness-scope, voids-as-evidence) in that its positions are **about the Map's epistemic conduct**, not about consciousness or matter directly. It overlaps deliberately with [[positions/voids-as-evidence]] at one seam — both invoke the common-cause null — but the voids domain applies the null to a *specific catalogue's* evidential payoff, whereas P-M2 here registers the null as a *standing methodological commitment* that governs every convergence claim the Map makes. The two are cross-linked, not redundant. None of these are tenets; each is a chosen discipline that could be revised or retired without disturbing the five foundational commitments, and the final position (P-M5) records, honestly, the gap between holding a discipline and enforcing it.
+The domain is distinct from the first-order substantive registers (quantum-interface, agency, consciousness-scope, voids-as-evidence) in that its positions are **about the Map's epistemic conduct**, not about consciousness or matter directly. It overlaps deliberately with [[positions/voids-as-evidence]] at one seam — both invoke the common-cause null — but the voids domain applies the null to a *specific catalogue's* evidential payoff, whereas P-M2 here registers the null as a *standing methodological commitment* that governs every convergence claim the Map makes. The two are cross-linked, not redundant. None of these are tenets: a chosen discipline supplies no tenet's rationale, so all five pass the foundational-dependency test and remain freely retireable. The final position (P-M5) records, honestly, the gap between holding a discipline and enforcing it.
 
 ## The multi-axis calibration schema
 

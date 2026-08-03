@@ -4,7 +4,7 @@ description: "The Map's positions on consciousness in artificial systems, with p
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-08-03T07:36:50+00:00
+ai_modified: 2026-08-03T08:44:28+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -43,7 +43,7 @@ These positions record what the Map holds about consciousness in **artificial sy
 - **Copy-counting** (P-AC3) inherits *neither* the quantum register nor AI specifics — it follows from the closed-individualist commitment in [[positions/individuation-and-subjecthood]] and would hold under coherence-only dualism.
 - **Access-workspace signatures** (P-AC4) also inherit *neither* the quantum register nor AI specifics — a framework-independent empirical claim (workspace-like functional signatures of access consciousness observed in LLMs) plus a Tenet-1 split leaving phenomenal consciousness untouched. It *complements* P-AC1 rather than competing with it.
 
-None of these are tenets; each follows from a tenet plus argument and could be retired without disturbing the foundational commitments.
+None are tenets; all four pass the foundational-dependency test — P-AC3 *inherits* the non-retireable P-I1 without supplying a tenet's rationale.
 
 **Calibration schema (2026-07-16).** Every position below now carries the [[methodology-and-calibration#^calibration-schema|multi-axis calibration block]] (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only) in place of the former single confidence band, following the outer-review conflation finding (ChatGPT + Claude, 2026-07-16) that the single band measured structural centrality rather than credence. The heterogeneous burdens the domain already flags now read off the axes: P-AC1 and P-AC2 are **framework-internal** (Grade D, inheriting the quantum-interface register), whereas P-AC4's workspace-signatures half is framework-independent and Grade B. Substantive claims, statuses, and dependencies are unchanged.
 
