@@ -5,6 +5,25 @@ ai_modified: '2026-08-03T13:37:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-03 13:49 UTC - deep-review (`concepts/idealism`: verification pass over the 13:16Z refine — the sibling-file defect pattern reproduced, three critical issues)
+
+- **Status**: Success
+- **File**: [[concepts/idealism]]
+- **Word count**: 3,325 → 3,444 (`analyze_length`, concepts soft 2,500 / **hard 3,500** — 56 w of headroom left). 265 w of that is Further Reading + References apparatus; core prose 3,057 → 3,176. **The next pass to touch this file must condense before adding.**
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 cross-link ([[terminal-lucidity-and-filter-transmission-theory]])
+- **Selection note**: minted because the same-day 13:37Z review of `concepts/pragmatism` found a metadata-correct/doctrine-wrong misattribution introduced by that file's 13:10Z refine. The identical exposure existed here — `last_deep_review` 2026-06-26 predating a 13:16Z refine that added 414 w. The pattern reproduced.
+- **C1 — UAL framework misdescribed (doctrine, not metadata)**: the new passage presented Ginsburg and Jablonka's framework as a flat list of four "behavioral markers." Verified against the Birch/Ginsburg/Jablonka 2020 primer full text (Europe PMC PMC7116763, open access): UAL is *one* transition marker for a cluster of **eight** hallmarks, and is not itself a hallmark. The article listed three of the eight and appended UAL as a co-equal fourth. Worse, "Simple organisms fail these tests" implied necessity where the primer states verbatim *"No one is saying here that any of these properties is necessary for consciousness. That is not the point."* Consequent citation-framing defect: the idealist reply was staged as an idealist manoeuvre when it is a concession the framework's own authors make. Five sibling articles already carried the correct positive-marker-only reading; this article was the outlier. Fixed; Birch et al. (2020) added to References.
+- **C2 — over-concession contradicting the Map's own record**: "dementia and focal brain damage constrain consciousness with no compensating enrichment" is false by [[terminal-lucidity-and-filter-transmission-theory]] (Batthyány & Greyson 2021, >80% complete remission; Tollock et al. 2025 prospective, 93/151 patients, 267 events) — and was contradicted by the very sibling cited as its warrant, whose Dualism section invokes terminal lucidity as consciousness "persists or intensifies during severe neural disruption." Requalified with the counter-case named.
+- **C3 — self-contradiction inside one sentence**: slow-wave sleep "abolishes experience" versus, two clauses later, "drives interface bandwidth to *near zero*". Corpus sides with near-zero ([[sleep-and-consciousness]], [[degrees-of-consciousness]]). "Abolishes" → "contracts experience toward vanishing."
+- **M1 — shared-failure-mode label too narrow**: "each is conceded to the *same* idealist manoeuvre—dissociation" — only two of the three are; the regularity challenge is answered by intrinsic structure, a move the article itself distinguishes elsewhere. Generalised; the single-failure-mode argument survives intact.
+- **Inheritance-drift audit**: the disruptive-cluster passage derives from [[neurophenomenology-and-contemplative-neuroscience]], not the two siblings it cites. Anaesthesia/propofol/xenon/ketamine transferred clean (near-verbatim match); slow-wave sleep and dementia drifted (C2, C3); focal brain damage was added to the source's three-item list.
+- **Citation ledger**: Ginsburg & Jablonka (2019) — real-correct (verified via the 2020 primer's reference list and OpenAlex; title, subtitle, authors, publisher, year exact) **yet doctrinally misused**, which is the point. Birch, Ginsburg & Jablonka (2020) — real-correct, added. WebSearch budget was exhausted; verification ran through Europe PMC REST and OpenAlex, which reach the publisher record directly.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — three targeted corrections in a 3,444-w article is corrective, not re-authoring.
+- **Preserved**: all five protected concessions verified verbatim post-edit.
+- **Output**: [[reviews/deep-review-2026-08-03-idealism]]
+
 ## 2026-08-03 13:37 UTC - deep-review (`concepts/pragmatism`: verification pass over the 90%-growth refine of 27 minutes earlier — one misattribution caught)
 
 - **Status**: Success

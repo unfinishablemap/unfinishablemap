@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-03 13:16:33+00:00
+ai_modified: 2026-08-03 13:49:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,8 +30,8 @@ description: Consciousness is fundamental; matter is derivative or appearance. T
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 11:03:53+00:00
-lastmod: 2026-08-03 13:16:33+00:00
+last_deep_review: 2026-08-03 13:49:46+00:00
+lastmod: 2026-08-03 13:49:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ The Map takes the alternative: its commitment to bidirectional interaction presu
 
 ### The Case for Genuine Otherness
 
-Three considerations bear on physical reality's independence. They do not amount to a cumulative case: each is conceded below, and each is conceded to the *same* idealist manoeuvre—dissociation. Cumulative-case reasoning requires that considerations fail independently, and these share one failure mode. What they jointly establish is narrower but real: they expose a single cost the idealist pays, namely that universal consciousness must be credited with a structure behaving in every respect like an independent physical world.
+Three considerations bear on physical reality's independence. They do not amount to a cumulative case: each is conceded below, and each is conceded to the *same* idealist manoeuvre—appeal to structure internal to universal consciousness, cashed sometimes as intrinsic structure and sometimes as dissociation. Cumulative-case reasoning requires that considerations fail independently, and these share one failure mode. What they jointly establish is narrower but real: they expose a single cost the idealist pays, namely that universal consciousness must be credited with a structure behaving in every respect like an independent physical world.
 
 **The regularity challenge** states that cost most sharply. Why does "appearance" follow regular laws? If matter is how consciousness appears, why must fire burn and gravity attract? The idealist invokes intrinsic structure of universal consciousness. But this structure plays the role physical law plays in dualism—it is something consciousness must work with, something that constrains interaction. Whether we call it "physical reality" or "intrinsic structure of universal consciousness," the conceptual function is identical. That conclusion is a parity result, not an argument for dualism. If the idealist's structure discharges every function physical law discharges, the choice between the two labels is verbal, and a verbal choice cannot break the tie. The Map's remaining ground is the phenomenological wager below and the interface-specificity consideration developed later—not this argument.
 
@@ -160,7 +160,7 @@ Research on [minimal consciousness](/concepts/minimal-consciousness/)—organism
 
 If consciousness is fundamental and matter merely appearance, every organism participates in consciousness. The distribution problem dissolves: consciousness is everywhere; what varies is the complexity and dissociation of its manifestations.
 
-The Unlimited Associative Learning (UAL) framework of Ginsburg and Jablonka (2019) identifies behavioral markers for consciousness: global information broadcasting, selective attention, evaluative systems, unlimited associative capacity. Simple organisms fail these tests. Idealism can respond that UAL identifies *complex dissociated consciousness* but misses simpler forms—the worm experiences; it just experiences simply.
+The Unlimited Associative Learning (UAL) framework of Ginsburg and Jablonka (2019) proposes one transition marker—open-ended associative learning over compound stimuli—as the detectable proxy for a cluster of capacities it calls the hallmarks of consciousness, among them global broadcast, selective attention, and an evaluative system. The organisms above show no UAL. But it is a positive marker only: Birch, Ginsburg and Jablonka (2020) state plainly that none of the hallmarks is claimed to be *necessary* for consciousness, so failure withholds credit rather than certifying absence. The reply that UAL tracks complex consciousness and misses simpler forms therefore costs idealism nothing to make—the framework's own authors already concede it, and the Map reads UAL the same way.
 
 *Physarum polycephalum* (a slime mold) has no neurons yet solves mazes and optimizes networks. Idealism has no puzzle here: if matter is appearance within consciousness, non-neural cognition is expected. The Map's framework, committed to consciousness interfacing with matter at specific physical sites, must explain non-neural cognition differently: cognition and consciousness may dissociate, with sophisticated behaviors emerging from non-conscious physical systems (thermostats "sense" temperature without experiencing anything).
 
@@ -190,7 +190,7 @@ Idealism and dualism may seem empirically equivalent—both predict the same bra
 
 **Filter theory predictions**: If [filter-theory](/concepts/filter-theory/) is correct—if reduced neural activity can *expand* consciousness rather than just diminishing it—this favors consciousness's independence from the brain. But filter theory is neutral between dualism and idealism; the evidence supports consciousness's independence, not its exclusive ontological status.
 
-This third discriminator carries less weight than it first appears to, and the reason generalises. Reduced neural activity under deep anaesthesia and in slow-wave sleep abolishes experience rather than expanding it, and dementia and focal brain damage constrain consciousness with no compensating enrichment. Filter framing accommodates these cases: propofol and xenon narrow the phenomenal channel toward closure while ketamine severs access channels and spares phenomenal content; slow-wave sleep drives interface bandwidth to near zero; neurodegeneration and lesion damage the filter's structure rather than the consciousness that structure filters (see [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) and [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)). The same move is available to production theorists, whose accommodation of the expansion cases is structurally identical—different perturbations of one mechanism rather than of one architecture. So the contemplative and unitive reports cannot honestly be cited as multiple independent confirmations: the cluster carries the evidential weight of one pattern, not several, and both framings absorb that pattern.
+This third discriminator carries less weight than it first appears to, and the reason generalises. Reduced neural activity under deep anaesthesia and in slow-wave sleep contracts experience toward vanishing rather than expanding it, and dementia and focal brain damage overwhelmingly diminish consciousness rather than enriching it—[terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) is a real counter-case but an exceptional one. Filter framing accommodates these cases: propofol and xenon narrow the phenomenal channel toward closure while ketamine severs access channels and spares phenomenal content; slow-wave sleep drives interface bandwidth to near zero; neurodegeneration and lesion damage the filter's structure rather than the consciousness that structure filters (see [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) and [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)). The same move is available to production theorists, whose accommodation of the expansion cases is structurally identical—different perturbations of one mechanism rather than of one architecture. So the contemplative and unitive reports cannot honestly be cited as multiple independent confirmations: the cluster carries the evidential weight of one pattern, not several, and both framings absorb that pattern.
 
 ## Relation to Site Perspective
 
@@ -226,4 +226,5 @@ If forced to choose between idealism and physicalism, idealism is closer to the 
 1. Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+1. Birch, J., Ginsburg, S., & Jablonka, E. (2020). Unlimited Associative Learning and the origins of consciousness: a primer and some predictions. *Biology & Philosophy*, 35, 56. https://doi.org/10.1007/s10539-020-09772-0
 1. Nāgārjuna. *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Trans. Jay L. Garfield (1995). Oxford University Press.
