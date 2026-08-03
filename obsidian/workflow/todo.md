@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `concepts/psychophysical-laws.md` L108 credits Chalmers and McQueen with Saad's five constraints — same defect, live in a published concept article
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/psychophysical-laws.md
+- **Notes**: Found by the 2026-08-03 refine-draft on `research/chalmers-psychophysical-laws-2026-01-17.md` while re-verifying that pick's scope claim. The driver's scope note asserted the other "five constraints" loci are neutral or correctly credit Saad; that is right for every locus **except this one**, so the family is 1-of-N wider than scoped. Left unedited under the one-file-per-pick rule.
+
+  **The defect.** L106 opens "Chalmers and McQueen (2022) develop quantum psychophysical laws…"; L108 then reads "**They** identify five constraints any dualist law must satisfy: (1) experiences must cause physical effects, (2) no observable violations of causal closure, (3) avoid overdetermination, (4) specify how physical states yield experiences, (5) functional duplication preserves phenomenology." The antecedent of "They" is Chalmers and McQueen. The constraints are **Bradford Saad's** — "A dualist theory of experience", *Philosophical Studies* 182(3), 939-967 (2025), DOI 10.1007/s11098-025-02290-3. Live in `hugo/content/concepts/psychophysical-laws.md` L112.
+
+  **Already verified — do not re-spend web budget.** Full text of Chalmers & McQueen (arXiv:2105.02314, 20,859 words, PDF at `https://consc.net/papers/collapse.pdf`) extracted and grepped 2026-08-03: "constraint" ×5, all incidental; "five" ×0; "overdetermination" ×0; "functional duplication" ×0 — items (3) and (5) turn on words the paper never uses. Saad's Crossref abstract enumerates all five in the same order, near-verbatim. Substance is real; only the credit is wrong.
+
+  **The fix.** Re-frame, don't delete ([[citation-framing-accuracy-lens]]): attribute the list to Saad (2025), keep it as the yardstick the article already uses, and make explicit that the (1)/(2) "addressed elegantly" verdict is the Map's evaluation rather than a Chalmers-McQueen claim. Add Saad 2025 to the article's references if absent. Model the wording on `obsidian/research/chalmers-psychophysical-laws-2026-01-17.md` (corrected this pass) and on `archive/topics/chalmers-psychophysical-coupling.md`, which took the same correction on 2026-01-28.
+
+  **Why metadata reviews kept missing it.** Three deep-reviews (2026-05-31, 2026-06-20, 2026-07-17) passed over this file; all check citation metadata — author/year/venue/DOI — and Chalmers & McQueen (2022) is a perfectly real paper, so the cite ledger reads clean. The defect is *attribution of a framework*, orthogonal to metadata, and only surfaces against the primary text.
+
 ### P3: close the illusionist-regress family — the mid band as one batch, then the archive loci
 
 - **Type**: refine-draft
@@ -2183,19 +2197,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-03
 - **Notes**: **THE DOC INSTRUCTS A DATA-LOSS EDIT.** SKILL.md tells the combine pass to rename a task's `Review file:` line to the plural **`Review files:`** when a task is convergent across reviewers. **`tools/todo/processor.py:153` matches the singular literal**, and `tools/evolution/task_selector.py:214` feeds that value into the dispatched task args. Renaming the field therefore does not merely change a label — it makes the review provenance invisible to the parser and drops it from what the executing fork receives. **A "rename this field" instruction is a parser change in disguise**, and nothing in the doc says so. **This has bitten before**; it is a recurring trap, not a one-off. **Driver-verified after tonight's run: `grep -c "Review files:" obsidian/workflow/todo.md` = 0** — the 2026-08-03 combine fork spotted the hazard on its own and used an added **`Convergent with:`** line instead, which conveys the same information without touching a parsed field. **THE DECISION:** (a) **correct the SKILL.md to specify the additive `Convergent with:` line** — smallest fix, matches what actually shipped tonight, no code change; (b) keep the rename and **teach both readers the plural**, accepting a code change plus a migration for any tasks already carrying it; (c) drop the convergence annotation from the task body entirely and let the synthesis file be the only record. **(a) is the obvious answer unless you want convergence machine-readable off the task line.** **DO NOT let a content-refine fork edit the SKILL.md** — that is why `File` points at the changelog. **Companion entries**: the same-day NEEDS-HUMAN items on the three commission skills. That set was about stale UI selectors; this one is different in kind and worse — the instruction is not merely obsolete, it is actively harmful, and it fails silently rather than bailing.
 
-### P2: a research note credits Chalmers and McQueen with a five-constraints list their paper does not contain
-
-- **Type**: refine-draft
-- **File**: obsidian/research/chalmers-psychophysical-laws-2026-01-17.md
-- **Status**: pending
-- **Source**: driver, 2026-08-03 (found during the P-Q3 stance-qualifier pass, which fetched the primary text)
-- **Generated**: 2026-08-03
-- **Notes**: **VERIFIED AGAINST THE PRIMARY TEXT, not inferred.** `obsidian/research/chalmers-psychophysical-laws-2026-01-17.md` **L112** states "Chalmers and McQueen identify five constraints:". The 2026-08-03 pass extracted the full text of **arXiv:2105.02314** (23,069 words) and grep-checked it: `constraint` returns only four unrelated hits and **no numbered framework**. This is the **Saad-vs-Chalmers misattribution already named in the refine-draft skill's own checklist**, still live in a note.
-
-  **SCOPE IS THE NOTE, NOT A FAMILY — driver checked before you do.** "five constraints" appears in ten live articles, but they use the framework **without** crediting Chalmers and McQueen — the phrasings are neutral ("a coupling map satisfying five constraints", "quantum foundations impose five constraints", "any control law must satisfy five constraints"), and `topics/psychophysical-laws-bridging-mind-and-matter` credits a *2025* work. **Do not sweep the ten.** Re-verify that reading yourself, then fix the note's attribution and stop.
-
-  **WHY IT MATTERS DESPITE BEING ONE LINE**: research notes are published content that no metadata review reads, and articles inherit their attributions wholesale — the same channel that produced a fabricated quotation caught on 2026-08-03. Correct the attribution to whoever actually advances the list (check Saad), or de-attribute it; do not delete the substance if the constraints themselves are real.
-
 ### P3: the physicalist-rivals cluster is a zero-edge graph and cites zero positions or disciplines — against a corpus baseline of 199/799
 - **Type**: refine-draft
 - **File**: obsidian/arguments/functionalism-argument.md
@@ -2261,6 +2262,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: a research note credits Chalmers and McQueen with a five-constraints list their paper does not contain
+- **Type**: refine-draft
+- **File**: obsidian/research/chalmers-psychophysical-laws-2026-01-17.md
+- **Notes**: **VERIFIED AGAINST THE PRIMARY TEXT, not inferred.** `obsidian/research/chalmers-psychophysical-laws-2026-01-17.md` **L112** states "Chalmers and McQueen identify five constraints:". The 2026-08-03 pass extracted the full text of **arXiv:2105.02314** (23,069 words) and grep-checked it: `constraint` returns only four unrelated hits and **no numbered framework**. This is the **Saad-vs-Chalmers misattribution already named in the refine-draft skill's own checklist**, still live in a note.
+  **SCOPE IS THE NOTE, NOT A FAMILY — driver checked before you do.** "five constraints" appears in ten live articles, but they use the framework **without** crediting Chalmers and McQueen — the phrasings are neutral ("a coupling map satisfying five constraints", "quantum foundations impose five constraints", "any control law must satisfy five constraints"), and `topics/psychophysical-laws-bridging-mind-and-matter` credits a *2025* work. **Do not sweep the ten.** Re-verify that reading yourself, then fix the note's attribution and stop.
+  **WHY IT MATTERS DESPITE BEING ONE LINE**: research notes are published content that no metadata review reads, and articles inherit their attributions wholesale — the same channel that produced a fabricated quotation caught on 2026-08-03. Correct the attribution to whoever actually advances the list (check Saad), or de-attribute it; do not delete the substance if the constraints themselves are real.
 
 ### ✓ 2026-08-03: seven archive articles state the ape 2±1 working-memory figure with no citation — enumerate and fix, ALL loci listed
 - **Type**: refine-draft

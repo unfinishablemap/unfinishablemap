@@ -3,7 +3,7 @@ title: "Research: Chalmers' Psychophysical Laws Framework"
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T15:00:00+00:00
+ai_modified: 2026-08-03T16:16:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,16 +107,20 @@ A key innovation: consciousness resists superposition. Systems with high integra
 
 This addresses the "combination problem" for consciousness: why don't distinct conscious states superpose? The super-resistance principle says consciousness *prevents* such superpositions through its coupling to collapse dynamics.
 
-### Constraints on Dualist Psychophysical Laws
+### Constraints on Dualist Psychophysical Laws (Saad, not Chalmers and McQueen)
 
-Chalmers and McQueen identify five constraints:
-1. Experiences must be causes of physical effects
-2. Experiences must not cause observable violations of causal closure
-3. Avoid overdetermination
-4. Specify psychophysical laws yielding experiences from physical states
-5. Ensure functional duplication preserves phenomenology
+**ATTRIBUTION CORRECTION (2026-08-03 refine-draft).** This section previously read "Chalmers and McQueen identify five constraints," which is wrong. The five constraints are **Bradford Saad's**, from "A dualist theory of experience" (*Philosophical Studies* 182(3), 939-967, 2025; DOI [10.1007/s11098-025-02290-3](https://doi.org/10.1007/s11098-025-02290-3)). *What was checked:* the full text of Chalmers and McQueen's "Consciousness and the Collapse of the Wave Function" (arXiv:2105.02314, 20,859 words, retrieved from consc.net) was extracted and searched. "Constraint" occurs five times, all incidental (no-superluminal-signalling, an IIT threshold definition, energy-conservation limits on collapse models, and the narrowing of available super-resistance models) — there is **no numbered framework**. The words "five", "overdetermination", and "functional duplication" occur **zero times**, yet items (3) and (5) below turn on exactly those terms. *What is correct:* Saad's published abstract enumerates all five in the same order, near-verbatim. The constraints themselves are real and are reproduced accurately below — only the credit was misassigned. This note was generated 2026-01-17, eleven days before the same misattribution was corrected in the article now at `archive/topics/chalmers-psychophysical-coupling.md` (2026-01-28); the note was never swept, and its attribution has been available for re-harvesting ever since.
 
-The quantum framework addresses (1) and (2) elegantly: consciousness causes collapse (affecting physical outcomes) without violating closure (collapse is physically underdetermined, leaving room for mental causation).
+Saad argues that any adequate dualist theory of experience must satisfy five constraints:
+1. Experiences must be causes of physical effects (**Efficacy**)
+2. Experiences must not cause observable violations of causal closure (**Observational Closure**)
+3. Avoid overdetermination (**Non-Overdetermination**)
+4. Specify psychophysical laws yielding experiences from physical states (**Upward Systematicity**)
+5. Ensure functional duplication preserves phenomenology (**Organizational Invariance**)
+
+Saad's own answer to these constraints is delegatory dualism — see [[topics/delegatory-dualism]] and the dedicated research note `research/bradford-saad-delegatory-dualism-2026-01-28`.
+
+The constraints are useful here as an external yardstick for the Chalmers-McQueen proposal, though the pairing is this note's evaluation rather than a claim either author makes. Read that way, the quantum framework addresses (1) and (2) elegantly: consciousness causes collapse (affecting physical outcomes) without violating closure (collapse is physically underdetermined, leaving room for mental causation). Chalmers and McQueen do not present their view as answering a numbered constraint set, and Saad does not discuss their collapse proposal.
 
 ### Challenges
 
@@ -158,6 +162,7 @@ The Map should explicitly position itself as developing the *downward* half of p
 3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press. [philpapers.org/rec/CHACAT-24](https://philpapers.org/rec/CHACAT-24)
 4. Georgiev, D. (2024). "Causal potency of consciousness in the physical world." *International Journal of Modern Physics B*.
 5. Wagner-Altendorf, T.A. (2024). "Progress in Understanding Consciousness?" *Acta Analytica*.
+6. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies* 182(3), 939-967. DOI [10.1007/s11098-025-02290-3](https://doi.org/10.1007/s11098-025-02290-3). — **Source of the five constraints** discussed above, verified at Crossref 2026-08-03 (author, title, venue, volume, pages, and the abstract's 1-5 enumeration all confirmed).
 
 ## Recommendations for Site
 

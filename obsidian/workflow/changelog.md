@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T16:06:29+00:00'
+ai_modified: '2026-08-03T16:16:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 16:16 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[research/chalmers-psychophysical-laws-2026-01-17]]
+- **Changes**: attribution correction (five constraints: Chalmers & McQueen → Bradford Saad 2025); dated correction marker recording what was checked and found; Saad 2025 added to Key Sources with verified DOI; constraint list annotated with Saad's own names; cross-links to `topics/delegatory-dualism` and the Saad research note; `(1) and (2) addressed elegantly` re-framed as this note's evaluation rather than either author's claim
+- **Published**: yes
+
+**Verified against the primary text, not inherited from the corpus.** The note's L112 read "Chalmers and McQueen identify five constraints:". The full text of "Consciousness and the Collapse of the Wave Function" (arXiv:2105.02314) was retrieved as a real PDF from `consc.net/papers/collapse.pdf` — 20,859 words — and searched. "Constraint" occurs **five times, all incidental**: no-superluminal-signalling, an IIT threshold definition, energy-conservation limits on collapse models, and twice on the narrowing of available super-resistance models. There is no numbered framework. Decisively, **"five" ×0, "overdetermination" ×0, "functional duplication" ×0** — yet the note's items (3) and (5) turn on exactly those two terms, which the paper never uses. Two independent smoking guns rather than one absent phrase.
+
+**Positive provenance established, not merely negative.** Crossref on DOI 10.1007/s11098-025-02290-3 returns Bradford Saad, "A dualist theory of experience", *Philosophical Studies* 182, 939-967, 2025-02-18, whose abstract enumerates: "(1) construe experiences as causes of physical effects, (2) ensure that experiences do not cause observable violations of the causal closure of the physical domain, (3) avoid overdetermination, (4) specify a set of psychophysical laws that yield experiences as a function of physical states, and (5) ensure that functional duplication preserves phenomenology." A 1:1, near-verbatim match with the note's five items in the same order. So the substance is real and accurately reproduced — only the credit was misassigned. Re-framed, not deleted ([[citation-framing-accuracy-lens]]).
+
+**A false-zero was caught mid-pass.** The first attempt fetched `arxiv.org/pdf/2105.02314v2`, which returned a 7.7KB HTML error page; `pdftotext` produced no output and every subsequent grep returned zero. Those zeros looked exactly like the finding. The result was only trusted after re-fetching a genuine 530KB PDF and confirming the header ("David J. Chalmers† and Kelvin J. McQueen‡", July 3 2020) — i.e. after proving the corpus being searched was the intended one ([[narrow-grep-zero-is-not-proof-of-absence]]).
+
+**How it survived.** The note is dated 2026-01-17; the identical misattribution was corrected eleven days later in what is now `archive/topics/chalmers-psychophysical-coupling.md` (its 2026-01-28 refinement log names the fix explicitly). The sweep repaired the article and never reached the note that fed it. Research notes are published content and no metadata review reads them, so the confident attribution has been re-harvestable for six months. The correction marker is dated and states what was checked, what was found, and what the correct reading is, so it cannot be silently re-absorbed.
+
+**Scope re-verified independently — the driver's scope claim was 1-of-N wrong.** Every "five constraints" locus across `obsidian/`, `archive/`, and `hugo/` was read in context, not counted. Most are a *different* five-constraint set (the Map's own interface formalism: Born-rule preservation, inner-product invariance, no-signalling, second-order interference, conservation compatibility) or the apex control-law list, and the genuinely Saad-derived ones already credit him. **One exception:** `concepts/psychophysical-laws.md` L108 (hugo L112) reads "**They** identify five constraints…" with L106 establishing "They" as Chalmers and McQueen — the same defect, live in a published concept article that three deep-reviews (05-31, 06-20, 07-17) passed over, because a citation ledger checking author/year/venue finds nothing wrong with a real Chalmers-McQueen paper. Left unedited under one-file-per-pick and handed off as a **new P1** carrying the completed verification so the fix costs no further web budget.
+
+**Method note.** WebSearch was exhausted session-wide (200/200); the whole pass ran on `curl` to Crossref and a direct publisher PDF fetch. No search was used, so no circular unfinishablemap.org confirmation was possible.
 
 ## 2026-08-03 16:06 UTC - deep-review
 
