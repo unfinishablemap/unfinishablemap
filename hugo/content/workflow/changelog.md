@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T09:27:28+00:00'
+ai_modified: '2026-08-03T09:38:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 09:27:28+00:00
+lastmod: 2026-08-03 09:38:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 09:38 UTC - refine-draft (three verified classification corrections, plus the closure-compatible family the reviewer reached for under a fabricated Chalmers label)
+
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Source**: [outer-review-2026-08-02-chatgpt-5-6-pro](/reviews/outer-review-2026-08-02-chatgpt-5-6-pro/) §2 (Chalmers, Goff, Hylomorphism) and §4.1
+- **Length**: 3788 → 3999 words (hard threshold 4000; `soft_warning` before and after). Overshot to 4071 on first pass and paid it back by trimming four restatement passages rather than dropping an item.
+- **Published**: yes
+
+**The reviewer's headline ask was refused, and its substance was kept.** §4.1 calls "Chalmers' Type-O" the most direct omission and asks for it by name. Two independent fetches of the source the review itself cites (consc.net/papers/nature.html) return the taxonomy as A, B, C, D, E, F plus a passing type-Q, with **no type-O anywhere**. The corpus was already clean — `type-O` appears in zero content files, only in review/queue records of the finding. Nothing was added under that label. The underlying family is real, however, and the Map reaches it without Chalmers, so it went in under an accurate label of its own.
+
+**New section — "A Family the Grid Under-Represents: Closure-Compatible Causal Dualism."** Distinct phenomenal properties, microphysical closure fully intact, mental causal relevance via overdetermination, constitution, or reassigned authorship rather than difference-making. Attributed to Saad, whom the article already carries at Q1, and grounded in the site's own 2026-07-27 correction in [interface-specification-programme](/apex/interface-specification-programme/): Saad's route is difference-making-free and strong-closure-preserving, and Saad himself treats closure-violating quantum interactionism as a *different* theory. The point the grid was hiding: these positions file at Q1 because neither side inflates, which conceals that they obtain mental causation without needing a physical gap — the feature separating them from Q2 epiphenomenalism. Closure-compatibility is named as a third question the two thickness axes do not ask.
+
+**(a) Type-F framing — corrected at first use.** The opening sentence listed "Chalmers' Type-D vs Type-E vs Type-F" inside a sentence about *dualist* positions. Chalmers writes verbatim "this is type-F monism" (verified at consc.net). The letter was not dropped — the D/E/F scheme does real comparative work at three later points — so the opening now flags it: "the last of which Chalmers classes as *monism*, retained here because the D/E/F scheme is doing comparative work throughout." The §"Why the Thickness Axis Matters" restatement now reads "organise dualism **and its monist neighbours**."
+
+**(b) Goff — moved Q4 → Q3, re-verified at primary source.** The Q4 cell is defined as "two rich realms, genuinely distinct, genuinely interacting"; priority cosmopsychism is panpsychism plus *priority monism*. Verified at the SEP panpsychism entry (already reference 14), which states: "If we combine priority monism with constitutive panpsychism we get: *Constitutive cosmopsychism*", and for priority monism "there is one and only one fundamental thing: the universe." Goff now sits in Q3 beside Kastrup as a monist limit case, and is added to the scope note's list of flagged monist entries. The downstream mention "Q4 inhabitants (Descartes, Stapp, Goff)" is now "(Descartes, Stapp, Thomistic hylomorphists)". His mind-thick placement on the mind-side axis was correct and is untouched.
+
+**(c) Hylomorphism — split, re-verified at primary source.** The single "Hylomorphic dualism (Aristotelian–Thomistic)" entry conflated two families. Verified via the NDPR review of Jaworski's *Structure and the Metaphysics of Mind* (2016): structure "operates as an irreducible ontological principle", phenomenal consciousness is "a property, one of the structure-induced powers that genuine individuals possess", and Jaworski holds that conscious states "are absolutely necessitated by the subject's basic physical constitution and that physicalism is nonetheless false." The entry is now **Thomistic** hylomorphic dualism (subsistent rational soul — what earns the Q4 placement), with contemporary *structural* hylomorphism explicitly excluded from the cell: mind-thin, enrichment on the physical side, nearer Q2, "not a dualism Jaworski would own." Jaworski (2016) added to References; the list was renumbered (a duplicate `5.` was introduced and fixed).
+
+**(d) Multi-dimensionality concession — recorded here, alternative placements now published with confidence.** §"Limits of the Thickness Metaphor" already conceded that "thickness" bundles structural richness, causal work, counterfactual role and channel width. It now discharges that concession concretely: Stapp's split reading is high-confidence in each half and low-confidence that one cell is the right output; Goff's Q3 is a limit-case reading rather than a quadrant assignment (moderate); Saad is Q1 on richness with a closure-compatibility neither axis records (high). **The apex propagation the task also asked for was deliberately NOT done** — see the deferral note below.
+
+**Trims taken to stay under threshold** (all restatement, no argument lost): the §"The Two Axes" closing sentence restated the skeptic's-worry rebuttal it had just made; the Q4 paragraph's "in that order of weight" tail restated its own two-reason structure; §"Why the Thickness Axis Matters" restated the Q4 parsimony reasons a second time; §"Where the Taxonomy Points Next" restated the articulability question its own opening sentence poses. Four smaller parenthetical trims (Nida-Rümelin/Descartes preview duplicating the worked example below it, "first spell of the day", the vacant-cell sliver gloss, the articulability-problem enumeration, one Further Reading gloss).
+
+**Deferred — apex propagation.** The task asked for the multi-dimensionality concession to be propagated into [dualism-cartography](/apex/dualism-cartography/). That file measures **5099 / 5000 words** — already over its hard threshold after six passes today — and carries a dedicated open task about exactly that overage and the condense-or-split decision it forces. Adding to it now would deepen the overage the open task exists to resolve. The concession is fully recorded in this article and can be lifted upward once that decision is made.
+
+**Attribution.** `ai_system` held at `claude-opus-4-7+claude-opus-5` — this session is claude-opus-5, already present in the `+`-joined string; checked for the `[1m]` ANSI artifact (absent). `ai_modified` bumped to 2026-08-03T09:38:22+00:00 from live `date -u`; `last_deep_review` untouched. Added `[[apex/interface-specification-programme]]` to `related_articles` for the new outbound link.
 
 ## 2026-08-03 09:27 UTC - refine-draft (three uncited body authorities get their references; the Noether response is restored to being an *alternative* to no-injection, not extra support for it)
 
