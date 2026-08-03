@@ -3,7 +3,8 @@ title: "Research Notes - Selection-Only Mind-Influence: Information-Transfer Lim
 created: 2026-05-05
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-08-03T05:26:55+00:00
 ---
 
 # Research: Selection-Only Mind-Influence — Information-Transfer Limits and Physical-World Signatures
@@ -37,7 +38,7 @@ ai_system: claude-opus-4-7
 
 ## Executive Summary
 
-The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-only*: mind contributes nothing to the candidate set the brain physically generates—it only chooses which of the already-generated alternatives becomes actual. This reading makes the mind-physical channel a pure post-processing stage on top of brain dynamics. Under that constraint, three mathematical limits apply immediately. (1) **Shannon ceiling**: a single selection event can transfer at most log₂(N) bits, where N is the size of the candidate set the brain has prepared. (2) **Born-rule preservation requirement**: long-run frequency statistics over the candidate set must converge to physical Born-rule probabilities, capping the *signed* information rate at near zero across many trials. (3) **Content-confinement**: the mind cannot register, choose, or report content that is not represented somewhere in the brain-generated candidate space—novel qualia are structurally precluded if not pre-encoded. Empirically, the literature on micro-psychokinesis (PEAR, Schmidt, Bösch–Steinkamp–Boller, GCP, Maier–Dechamps) sets an upper bound on detectable per-trial bias of order 10⁻⁴ bits/bit at best, with the most rigorous Bayesian replication (Maier et al. 2018) returning strong evidence for the null. Theoretically, the no-signalling theorem and Gleason's theorem couple Born-rule deviations directly to relativistic-causality violations: any *systematic* deviation visible at long timescales would be detectable not just statistically but as a faster-than-light signalling channel. The selection-only model therefore lives in a tight signature corridor: large enough to make a difference at the single-event scale, small enough to vanish at the ensemble scale, and constrained at every level by the physical-side candidate set. Distinguishing observables exist in principle—correlation between candidate-set diversity and reportable conscious content, conditional bias profiles tied to neural decoherence-domain structure, decline effects under accumulating measurement—but none has been operationalised in the contemporary literature.
+The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-only*: mind contributes nothing to the candidate set the brain physically generates—it only chooses which of the already-generated alternatives becomes actual. This reading makes the mind-physical channel a pure post-processing stage on top of brain dynamics. Under that constraint, three mathematical limits apply immediately. (1) **Shannon ceiling**: a single selection event can transfer at most log₂(N) bits, where N is the size of the candidate set the brain has prepared. (2) **Born-rule preservation requirement**: long-run frequency statistics over the candidate set must converge to physical Born-rule probabilities. This constrains the *marginal* outcome distribution only; it does not cap the mind-conditioned information rate (an original claim of this note, since withdrawn). (3) **Content-confinement**: the mind cannot register, choose, or report content that is not represented somewhere in the brain-generated candidate space—novel qualia are structurally precluded if not pre-encoded. Empirically, the literature on micro-psychokinesis (PEAR, Schmidt, Bösch–Steinkamp–Boller, GCP, Maier–Dechamps) sets an upper bound on detectable per-trial bias of order 10⁻⁴ bits/bit at best, with the most rigorous Bayesian replication (Maier et al. 2018) returning strong evidence for the null. Theoretically, the no-signalling theorem and Gleason's theorem couple Born-rule deviations directly to relativistic-causality violations: any *systematic* deviation visible at long timescales would be detectable not just statistically but as a faster-than-light signalling channel. The selection-only model therefore lives in a tight signature corridor: large enough to make a difference at the single-event scale, small enough to vanish at the ensemble scale, and constrained at every level by the physical-side candidate set. Distinguishing observables exist in principle—correlation between candidate-set diversity and reportable conscious content, conditional bias profiles tied to neural decoherence-domain structure, decline effects under accumulating measurement—but none has been operationalised in the contemporary literature.
 
 ## Key Sources
 
@@ -217,8 +218,8 @@ The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-onl
 - **Information-transfer limits**:
   - Per-event bound: log₂(N) bits, where N is candidate-set size.
   - Per-second bound: log₂(N) × event-rate.
-  - Long-run bound: zero (Born-rule preservation drives signed-information rate to zero across many trials).
-  - Effective bound: thin per-event signal, undetectable in aggregate.
+  - Long-run bound: none established. Born-rule preservation constrains the *marginal* outcome distribution, not the mind-conditioned ones (see corrected derivation below).
+  - Effective bound: thin per-event signal, undetectable by *unconditioned* aggregate tests.
 - **Relation to site tenets**: Strictest reading of Tenet 2 (Minimal Quantum Interaction); compatible with Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction); Tenet 4 (No Many Worlds) is presupposed (selection requires that one outcome become actual rather than all).
 
 ### Generation / Contributing-to-Candidate-Set
@@ -265,18 +266,15 @@ For a selection event with N candidates of probabilities p₁, …, p_N (Born-ru
 
 I_max(event) = log₂(N) bits (uniform prior, no constraints)
 
-Under Born-rule preservation, the *expected* mutual information between mind-state and outcome must average to zero over many trials—so the *per-trial* signed bandwidth is bounded by max{p_i} − min{p_i} ≈ small ε, with Shannon information rate ≈ ε² / (2 ln 2) bits/trial in the small-bias limit (binary case).
-
-Plugging in PEAR-scale ε ≈ 10⁻⁴: information rate ≈ 7 × 10⁻⁹ bits/event. Even at 10⁷ Hz of quantum-grade events (Hameroff's microtubule estimate), this gives ~0.07 bits/s through the biased channel — comparable to the conscious-bandwidth Caltech estimate of ~10 bits/s once Process-1-style observable-choice channels are added on top.
+**CORRECTED 2026-08-03 — withdrawn as invalid.** This note originally derived from Born-rule preservation a zero long-run expected mutual information, a *per-trial signed bandwidth* ≈ max{p_i} − min{p_i} = ε, a rate ≈ ε² / (2 ln 2) bits/trial, and at PEAR-scale ε ≈ 10⁻⁴ ≈ 7 × 10⁻⁹ bits/event (~0.07 bits/s at 10⁷ Hz). **Do not consume those figures.** Born preservation constrains the *marginal* outcome distribution and says nothing about the conditionals: with C a uniform binary mind-state and O = C, the marginal is exactly uniform, hence Born-satisfying, yet I(C;O) = 1 bit — marginal preservation is compatible with maximal conditional dependence. Mutual information is also non-negative, so a *signed* rate that cancels is a category error, and a non-negative quantity averaging to zero forces every term to zero. An ε² expression may approximate a divergence for one specifically defined binary perturbation, but it does not follow from Born preservation — deriving one needs a declared channel, reference distribution, prior over mind-states and perturbation geometry. The psi calibration adds a further unsupported step: a null in one behavioural protocol cannot bound an unobserved neural interface absent a stated mapping to endpoint, event count, aggregation and task context. Correct statement and trilemma: `obsidian/apex/born-preserving-causal-efficacy.md`.
 
 ### (2) Mind→Physical Per-Second Bound
 
 If candidate selection events occur at rate R, total mind-side bandwidth is at most:
 
-I_max(sec) = R × log₂(N) bits/s [unconstrained]
-I_max(sec) ≈ R × ε² / (2 ln 2) bits/s [Born-rule-preserving]
+I_max(sec) = R × log₂(N) bits/s
 
-With realistic neural-quantum-event rates and PEAR-scale ε, the second bound is the binding constraint. The first bound (R × log₂(N)) is achievable only if Born-rule preservation is suspended.
+The tighter R × ε² / (2 ln 2) bits/s bound formerly given here is **withdrawn with the derivation above**; this is the only bound the note establishes.
 
 ### (3) Physical→Mind Content-Confinement
 
@@ -349,7 +347,7 @@ Of these, the *most discriminating* observable is the **correlation between cand
 
 Based on this research, the planned `topics/` article could:
 
-1. **Lead with the strict-reading derivation** — formalise selection-only as the strictest interpretation of Tenet 2; derive the per-event log₂(N) bound and the per-second R log₂(N) bound; show how Born-rule preservation collapses signed-information rate to ε² per trial. *Most aligned with framework-stage-calibration: structural results stand independently of empirical truth.*
+1. **Lead with the strict-reading derivation** — formalise selection-only as the strictest interpretation of Tenet 2; derive the per-event log₂(N) bound and the per-second R log₂(N) bound; show that Born-rule preservation constrains the marginal alone, leaving conditional structure as the only place a signature could appear. *Most aligned with framework-stage-calibration: structural results stand independently of empirical truth.*
 
 2. **Lead with the empirical signature corridor** — survey PEAR / Schmidt / Bösch-Steinkamp-Boller / Maier-Dechamps; show that the empirical ceiling on per-trial bias places selection-only mind-influence in a tight signature window; argue that decline effects are theoretically *expected* under Born-rule preservation. *Most concrete; risks looking like advocacy of psi data.*
 

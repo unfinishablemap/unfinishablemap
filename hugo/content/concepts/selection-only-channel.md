@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-08-02 11:52:15+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-03 05:26:55+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 11:53:00+00:00
-lastmod: 2026-08-02 11:52:15+00:00
+lastmod: 2026-08-03 05:26:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[post-decoherence-selection-programme]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[born-preserving-causal-efficacy]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[possibility-probability-slippage]]'
 - '[[brain-internal-born-rule-testing]]'
@@ -41,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The selection-only channel is the class of mind-physical information channel in which mind acts solely as a selector among physically-prepared alternatives, contributing nothing to the alternative set itself. Three information-theoretic constraints follow directly from this restriction. Each selection event carries at most log₂(N) bits of mind-side information, where N is the cardinality of the brain-prepared candidate set. Born-rule preservation drives the effective signed information rate toward zero across many trials. And the dimensionality of registrable phenomenal content is bounded above by the dimensionality of the brain's candidate space at the relevant decoherence stage. These three properties — per-event ceiling, Born-statistics preservation, and content-confinement — together define the channel class.
+The selection-only channel is the class of mind-physical information channel in which mind acts solely as a selector among physically-prepared alternatives, contributing nothing to the alternative set itself. Three information-theoretic constraints follow directly from this restriction. Each selection event carries at most log₂(N) bits of mind-side information, where N is the cardinality of the brain-prepared candidate set. Born-rule preservation constrains the long-run *marginal* frequency distribution over outcomes, leaving the mind-conditioned distributions unconstrained. And the dimensionality of registrable phenomenal content is bounded above by the dimensionality of the brain's candidate space at the relevant decoherence stage. These three properties — per-event ceiling, Born-statistics preservation, and content-confinement — together define the channel class.
 
 Selection-only is the strictest reading of the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. This page treats it as a *channel class* — a category of mind-physical coupling defined by what it does *not* do — and articulates the information-theoretic invariants any such channel must satisfy. The fuller philosophical argument, empirical signature corridor, and distinguishing-observables table sit in [selection-only-mind-influence](/topics/selection-only-mind-influence/); this concept is the technical building block those discussions reference.
 
@@ -69,13 +70,17 @@ The bound is saturated only when the candidate distribution is uniform. Under an
 
 This is a sharper bound than is typically stated in discussions of mind-physical coupling. Most accounts speak of "small bias" without naming the ceiling; the channel-theoretic framing makes the ceiling explicit and physical-side-determined.
 
-### Born-Rule Preservation Drives Signed Rate Toward Zero
+### Born-Rule Preservation Constrains the Marginal, Not the Conditionals
 
 The selection-only channel inherits a constraint that ordinary Shannon channels do not have: the empirical frequency distribution over the output alphabet must converge to the Born-rule distribution {p₁, …, p_N} across many trials. This is the channel-theoretic content of [Tenet 2](/tenets/#minimal-quantum-interaction) under its strictest reading, and it is also what the [no-signalling theorem](/topics/born-rule-and-the-consciousness-interface/) requires of any mind-physical channel that is to remain compatible with relativistic causality (Han 2016).
 
-Born-rule preservation pins the *expected* mutual information between mind-state and outcome to zero in the long-run limit. Per-trial signed information rate is therefore bounded by max{p_i} − min{p_i} ≈ ε, with Shannon rate ≈ ε² / (2 ln 2) bits/trial in the small-bias limit (binary case). For ε ≈ 10⁻⁴ — the empirical ceiling associated with the long-running psi-research signature corridor (Bösch et al. 2006; Maier et al. 2018) — the per-trial rate is roughly 7 × 10⁻⁹ bits/event.
+The constraint binds the *marginal* distribution over outcomes and nothing else. [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) states the relation exactly: on the averaging identity q(O | X) = Σ_C P(O | C, X) · P(C | X), Born-preservation constrains the left-hand marginal and says nothing about whether the conditionals on the right depart from it. What preservation secures is invisibility to *unconditioned* aggregate frequency tests, leaving information flow across the channel entirely open.
 
-This constraint is what distinguishes the selection-only channel from a generic Shannon channel of the same per-event capacity. A Shannon channel with log₂(N)-bit capacity admits arbitrarily high information rates given enough trials; the selection-only channel does not, because its long-run frequency statistics are pinned to the physical-side prior. The cost of Born-rule preservation is paid in throughput.
+**Withdrawn: the zero-throughput derivation.** This section formerly inferred that Born-rule preservation pins the expected mutual information between mind-state and outcome to zero, and calibrated a per-trial "signed information rate" of ε² / (2 ln 2) bits from it — about 7 × 10⁻⁹ bits/event at the psi-literature ceiling ε ≈ 10⁻⁴ (Bösch et al. 2006; Maier et al. 2018). The inference does not go through. Take a uniform binary mind-state C and an outcome O = C: the marginal over outcomes is exactly uniform, hence Born-satisfying against a uniform candidate distribution, yet I(C;O) = 1 bit, the alphabet's maximum. Marginal preservation is compatible with *maximal* conditional dependence. Two further defects sat in the same passage. Mutual information is non-negative, so a *signed* rate whose excursions cancel is a category error; and a non-negative quantity averaging to zero forces every term to zero rather than licensing cancellation. An ε² expression can approximate a divergence for one specifically defined small binary perturbation, but it is not a consequence of Born preservation — deriving one would need a declared channel, reference distribution, prior over mind-states and perturbation geometry, none of which this page supplies. The figures are suspended pending rederivation; no downstream page should treat this channel as having a known throughput.
+
+The per-event log₂(N) ceiling survives untouched as the binding bound on a single selection. What changes is where the channel's information would show — in *conditional* structure, so the tests that bear on it are conditional residual-structure tests rather than generic Born-frequency tests. [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) develops the resulting trilemma: conditionals that differ, conditionals that never differ, or conditionals that differ yet cancel under a balancing law the framework would then owe.
+
+The constraint still distinguishes this channel from a generic Shannon channel of the same per-event capacity, but the difference is one of detectability rather than throughput. A generic Shannon channel leaves its signature in the output's own statistics; this one does not, because those statistics are pinned to the physical-side prior whatever the mind-side input does. The cost of Born-rule preservation is paid in what an observer of outcomes alone can recover.
 
 ### Content-Confinement: Output Alphabet Bounds Input Alphabet
 
@@ -109,7 +114,7 @@ The channel class is defined by what it forbids. Its distinctive identity is the
 
 The selection-only channel is bidirectional in the channel-theoretic sense: information flows in both directions, but the directions are bounded differently and by different constraints.
 
-- **Mind-to-physical** carries the per-event capacity log₂(N) bits and is throttled by Born preservation to ε²/(2 ln 2) bits/trial in the long-run limit.
+- **Mind-to-physical** carries the per-event capacity log₂(N) bits. Born preservation does not throttle it below that ceiling: the constraint falls on the long-run marginal, not on the mind-conditioned throughput.
 - **Physical-to-mind** carries the candidate-set information out to the selector. Its bound is the dimensionality of the brain-side decoherence-domain space; the content-confinement constraint is the *upper bound* on what mind can carry as input alphabet.
 
 The asymmetry is intrinsic: the forward and reverse channels have different capacities and different binding constraints, even though they share a common candidate set as their interfacing layer. This is the channel-theoretic statement of what [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) catalogues at a higher level of abstraction.
@@ -143,12 +148,13 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) — Why marginal Born-preservation leaves the conditionals free
 - [interface-specification-programme](/apex/interface-specification-programme/)
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — What experiments would foreclose the strict selection-only reading of Tenet 2
 - [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) — Why a triple-slit-analogue test is structurally silent against the strict selection-only channel
 - [dualism-channel-width-axis](/topics/dualism-channel-width-axis/) — Where this channel class sits as the floor of the dualism-taxonomy's channel-width axis, and how its operation taxonomy (candidate-generation, energy-injection) shows the wide end of the axis forces pole-thickening
-- [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) — Where this channel sits on the difference-making axis. The strict selection-only channel is *per-trial* difference-making (it fixes which single candidate is realised) yet *ensemble* difference-making-free (Born-preserving; signed rate → 0), which places it at the difference-free end alongside trumping. It is the probability-bias reading above — distribution-shifting, hence ensemble difference-making — that is structurally continuous with that article's co-causation family, not the strict selection-only channel
+- [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) — Where this channel sits on the difference-making axis. The strict selection-only channel is *per-trial* difference-making (it fixes which single candidate is realised) yet *unconditioned-ensemble* difference-making-free (the marginal is Born-preserving, though the conditionals need not be), which places it at the difference-free end alongside trumping. It is the probability-bias reading above — distribution-shifting, hence ensemble difference-making — that is structurally continuous with that article's co-causation family, not the strict selection-only channel
 
 ## References
 
