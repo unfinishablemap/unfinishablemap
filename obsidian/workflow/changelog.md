@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T10:17:10+00:00'
+ai_modified: '2026-08-03T10:25:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 10:25 UTC - refine-draft (dualism-cartography: the grid's unstated presupposition of phenomenal realism)
+
+- **Status**: Success
+- **File**: [[apex/dualism-cartography]]
+- **Review file**: `reviews/outer-review-2026-08-02-claude-opus-5.md`
+- **Length**: 5,099 → 5,163 words (apex soft 4,000 / hard 5,000). **Still over hard, and by more than before: +64 net.** Reported plainly rather than papered over — see "Length" below.
+
+**Scope of this pass.** The originating task listed four items; two were already resolved before this pass began and were deliberately not re-touched. Item (d) — the "No Many Worlds is largely orthogonal to the thickness axes" claim — greps zero; the morning battery pass had already rewritten it to *"No Many Worlds moves neither thickness coordinate, which is not the same as costing nothing"* and charged the tenet its own line item in the debt inventory. That is the scoping the task asked for, already landed; re-editing it would have churned a completed correction. Item (c) was partly resolved by the same pass's tenet-dependency table, which records scope per tenet; what remained was the unbounded "navigable question about a territory" claim in the Synthesis, bounded here with a clause rather than a paragraph.
+
+**The live defect.** `illusion`, `Frankish`, `Dennett`, `predictive processing` and `non-reductive` all returned zero hits. The mind-thickness axis bottoms out at "thin mind: only what is phenomenally introspectable — bare qualia", which presupposes there is a phenomenal explanandum to weight. Illusionism denies exactly that, so the grid cannot represent the position, let alone charge it a mechanism debt — and the article was letting Q2's inert qualia stand in for the physicalist side, conflating the weak rival with the absent strong one. That conflation is substantive, not cosmetic: a thin mind that exists is a different claim from no phenomenal mind at all.
+
+**Bounding, not adding.** The task offered "bound the claim explicitly, or add representation for the missing families". Bounding was taken, on two grounds. At 99 words over hard there was no budget to place illusionism, predictive processing, Lowe's non-Cartesian substance dualism and Hasker-style emergent dualism. More importantly the grid genuinely *cannot* place a position that denies its axis, so saying so is more accurate than manufacturing a cell for it. A new `**What the grid cannot represent.**` paragraph closes the Grid section — bold lead-in matching the article's existing house pattern, which also answers the reviewer's complaint that the scope note was not prominent enough. It names [[illusionism]] and [[predictive-processing-and-dualism]] with wikilinks so a reader can reach the pages where those rivals are actually engaged, flags global workspace / integrated information / higher-order theories as off-grid on the same count, and closes with the scope statement the Synthesis claim depends on.
+
+**Engagement classification (editor-internal).** Engagement with illusionism (Frankish, Dennett): **Mode Three — framework-boundary marking.** The article does not and should not claim to refute illusionism here; the honest report is that the grid's two axes are calibrated in a currency illusionism rejects, so the position falls off the grid rather than low on it. No in-framework refutation is attempted and none is implied. Engagement with predictive processing / active inference: **Mode Three**, for a different reason — PP contests the Map's explanatory ground without taking an ontological-thickness coordinate at all, so its exclusion is a scope fact, not a verdict. The substantive engagement lives in [[predictive-processing-and-dualism]], which already confronts the beautiful-loop account as the strongest physicalist alternative the Map faces; this pass routes the reader there rather than duplicating it. No mode vocabulary appears in the article body.
+
+**Preserved byte-identical.** The demonstrated orthogonality — Nida-Rümelin and Descartes sharing a Chalmers Type-D classification while differing in mind-thickness — is the reviewer's judgement of the article's one independently-warranted result. Confirmed untouched by diff. It was the *tenet*-level orthogonality that was in question, and that is already scoped.
+
+**Length.** Partly funded by four redundancy trims, none touching the debt inventory, the dependency table, the Born-rule item, argued prose or the reference apparatus: the intro's tenet-usability tail (restated in full in the Synthesis); the Frontier opener's second sentence (restated the roadmap paragraph); the Map's-Region "Net:" sentence (re-listed exclusions enumerated in the same sentence-chain); and the "a debt the Map owes in Q1 is not evidence against Q4" sentence (the same point is made immediately before it and again immediately after it, under the evidential-status discipline). Trims recovered ~65 words against ~130 added. **The article remains 163 words over its hard threshold and now carries an open condense-or-split task.** The judgement taken: a grid that silently presupposes phenomenal realism is a worse defect than a longer length warning, and the operator already has the condense decision in front of them.
+
+- **Published**: yes
 
 ## 2026-08-03 10:17 UTC - coalesce (the attention pair: a concept that had become a second draft of its own topic)
 
