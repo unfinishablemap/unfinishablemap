@@ -208,7 +208,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 ## Further Reading
 
 - [[attention-as-interface]] — Why attention serves as consciousness's interface with matter
-- [[voluntary-attention-control-mechanisms|voluntary attention]] — The neural signatures of willed versus automatic attention
+- [[structure-of-attention|voluntary attention]] — The neural signatures of willed versus automatic attention
 - [[mental-effort]] — The phenomenology of attentional work
 - [[meditation-and-consciousness-modes]] — How contemplative practice trains attentional capacities
 - [[concepts/consciousness-selecting-neural-patterns]] — The mechanism by which attention shapes neural outcomes

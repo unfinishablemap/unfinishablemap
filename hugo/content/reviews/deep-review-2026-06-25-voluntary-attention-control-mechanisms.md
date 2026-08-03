@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-25
-**Article**: [Voluntary Attention Control Mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+**Article**: [Voluntary Attention Control Mechanisms](/topics/structure-of-attention/)
 **Previous review**: [2026-05-26](/reviews/deep-review-2026-05-26-voluntary-attention-control-mechanisms/)
 
 ## Pessimistic Analysis Summary

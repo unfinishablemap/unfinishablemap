@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-22
 ai_modified: 2026-07-12 21:54:58+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into The Structure of Attention
+archived: true
+archived_date: 2026-08-03 10:10:28+00:00
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -21,11 +24,13 @@ last_curated: null
 last_deep_review: 2026-07-12 21:54:58+00:00
 lastmod: 2026-07-12 21:54:58+00:00
 modified: *id001
+original_path: /concepts/voluntary-attention-control-mechanisms/
 related_articles:
 - '[[tenets]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 - '[[attention-as-interface-hypothesis-2026-01-16]]'
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
+superseded_by: /topics/structure-of-attention/
 title: Voluntary Attention Control Mechanisms
 topics:
 - '[[free-will]]'

@@ -64,7 +64,7 @@ None. The article is well-structured with good source/Map separation and no fact
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) (related_articles, body text, Further Reading)
 - [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) (related_articles, body text, Further Reading)
 - [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) (related_articles, body text, Further Reading)
-- [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) (body text, Further Reading)
+- [voluntary-attention-control-mechanisms](/topics/structure-of-attention/) (body text, Further Reading)
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) (Further Reading)
 
 ## Remaining Items

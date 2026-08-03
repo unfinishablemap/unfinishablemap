@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-07-12
-**Article**: [Voluntary Attention Control Mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+**Article**: [Voluntary Attention Control Mechanisms](/topics/structure-of-attention/)
 **Previous review**: [2026-06-25](/reviews/deep-review-2026-06-25-voluntary-attention-control-mechanisms/)
 **Scope**: Targeted citation-currency + superlative-supersession pass on one cite (Denton et al. 2024). Not an open re-review; the converged attention-science sections were convergence-damped.
 

@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T10:01:11+00:00'
+ai_modified: '2026-08-03T10:17:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 10:01:11+00:00
+lastmod: 2026-08-03 10:17:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 10:17 UTC - coalesce (the attention pair: a concept that had become a second draft of its own topic)
+
+- **Status**: Success
+- **Sources**: [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) (1,506 prose words), [structure-of-attention](/topics/structure-of-attention/) (2,427 prose words)
+- **Target**: [structure-of-attention](/topics/structure-of-attention/) — merged into the existing hub, not a new slug
+- **Archived**: [voluntary-attention-control-mechanisms](/archive/concepts/voluntary-attention-control-mechanisms/)
+- **Word count**: 3,933 combined prose → 2,984 merged prose (−24%); total with reference apparatus 3,387 (soft 3,000 / hard 4,000)
+- **References to review**: none outstanding — all 10 live inbound links repointed this session
+
+**Why these two.** A corpus-wide TF-IDF body-similarity pass over `topics/`, `concepts/` and `voids/` put this pair in the top three. Title/description similarity found almost nothing (only three pairs above 0.30 Jaccard corpus-wide), which is the expected signature of a catalogue segmented by argumentative role — the merge candidates are not the ones with similar names. The duplication here was near section-for-section: both articles carried a Thalamic Relay section, a Salience Network as Switch section, the same stochastic pre-decision-alpha challenge with the same two competing interpretations, the same ~300ms Thura & Cisek commitment point, the same quantum-Zeno sustained-engagement argument, and the same four-tenet Relation to Site Perspective. One sentence was effectively verbatim in both ("Finding that brain activity correlates with upcoming choices establishes that conscious choices are implemented through neural mechanisms — which the Map's framework accepts. It doesn't establish that neural mechanisms are all that's involved.").
+
+**Direction of merge, and why not a new slug.** `structure-of-attention` is the hub: 27 inbound references against the concept's 11, and it is the article the concept's own lead deferred to for the three-mode taxonomy. Minting a third slug would have archived a healthy, well-linked topic and pushed ~20 inbound links onto a redirect for no gain. The concept keeps its URL via the generated 301 (`/concepts/voluntary-attention-control-mechanisms/` → `/topics/structure-of-attention/`, verified in the regenerated rule set).
+
+**What was carried across rather than dropped.** The concept's genuinely unique material: the spectral-signatures table (low gamma content / high gamma control / theta willed decision), the temporal-dynamics table (which adds sustained-attention and pre-decision-bias rows the topic lacked), the Granger-causality specificity behind "bidirectional coherence", DLPFC/ACC named for the additional frontal recruitment, the thalamic "does not require consciousness to generate signals *de novo*" framing that ties the gate to Minimal Quantum Interaction, and the Filevich et al. 2013 citation for the neural-noise reading.
+
+**Two preservation constraints, both checked before editing.** (1) The open Denton et al. (2024) citation-framing sweep explicitly lists `voluntary-attention-control-mechanisms:97` as **already calibrated — do not touch**; that sentence was carried into the merged article verbatim, computational-not-experimental qualifier intact, and the sweep's three actual loci are untouched. (2) `structure-of-attention` carries two quote-fidelity fixes from a prior deep-review — the James "relates solely to the amount of effort of attention or consent" quotation and the COGITATE 2025 finding that was correctly **de-quoted** to paraphrase. Both survive byte-identical; the COGITATE passage was not re-quoted.
+
+**Review debt was the deciding filter, not similarity.** The strongest pair the similarity pass surfaced was `concepts/consciousness-physics-interface-formalism` + `topics/mathematical-structure-of-the-consciousness-physics-interface` (0.556, higher than this pair) — genuinely near-duplicate, same three quantum-foundations results, same four competing frameworks, same specification gap. It was **rejected**: an open P2 Masanes sweep names the topic as its anchor and a sibling task says in terms "DO NOT touch `concepts/consciousness-physics-interface-formalism.md:57` — it is owned by the open P2 Masanes sweep; two passes on one line would collide." Coalescing would have restructured the anchor and invalidated the sweep's line-level screen. Deferred until that sweep runs. Pairs 3 and 4 by similarity (`selection-only-*`, the quantum-biology pair) failed the age floor — all four files edited within the last four days.
+
+**Trims taken to hold the length line.** The three-mode recap inside "Structure and the Interface" restated the Three Modes section and was compressed to one paragraph; the Phenomenology section's three one-paragraph H3s became a single paragraph (James quote intact); the Summary's three paragraphs became one. The critic-response passage and its closing concession ("the phenomenological asymmetry does not by itself force the dualist reading over the physicalist one, and the case here is suggestive rather than decisive") were left untouched, as was the Schwartz OCD hedging and the *anatta* passage.
+
+- **Inbound links repointed** (10 loci, 5 files): `concepts/motor-selection` ×3, `concepts/attention-as-interface` ×3, `concepts/agent-causation` ×2, `concepts/phenomenal-consciousness` ×1, `concepts/attentional-economics` ×1. All link labels re-read against the merged body — each still describes content the target actually carries. Research-note and `archive/` references to the old slug were deliberately left as dated records; the `-2026-01-17` research-note slug is a different file and was not touched.
+- **Hugo hygiene**: sync writes the archive copy but never deletes the superseded live page, so `hugo/content/concepts/voluntary-attention-control-mechanisms.md` was removed by hand — left in place it would have shadowed the 301 with a stale duplicate at the original URL.
+- **Cap effect**: `concepts/` 318 → 317.
 
 ## 2026-08-03 10:01 UTC - refine-draft (citation-framing right-sizing: three sources that support a defensive conclusion were carrying a positive one)
 

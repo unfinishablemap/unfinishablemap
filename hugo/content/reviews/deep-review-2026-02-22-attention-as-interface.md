@@ -64,7 +64,7 @@ None. The article has matured through previous review and subsequent edits.
 
 ### Cross-links Added
 
-- [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) (frontmatter + Further Reading + inline reference)
+- [voluntary-attention-control-mechanisms](/topics/structure-of-attention/) (frontmatter + Further Reading + inline reference)
 
 ## Remaining Items
 

@@ -13,7 +13,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
-  - "[[voluntary-attention-control-mechanisms]]"
+  - "[[structure-of-attention]]"
   - "[[implicit-memory]]"
   - "[[attention-as-interface]]"
   - "[[luck-objection]]"
@@ -123,7 +123,7 @@ If agents cause actions, why don't they control every detail of skilled performa
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
-[[attention-as-interface|Voluntary attention]]—choosing where to direct awareness—provides the paradigm case. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued) by distinct neural signatures: endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence (Rajan et al. 2019; Nadra & Mangun 2023). The [[voluntary-attention-control-mechanisms|underlying mechanisms]]—frontal decision circuits, salience network switching, thalamic gating—identify specific sites where consciousness could bias undetermined outcomes without generating signals *de novo*.
+[[attention-as-interface|Voluntary attention]]—choosing where to direct awareness—provides the paradigm case. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued) by distinct neural signatures: endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence (Rajan et al. 2019; Nadra & Mangun 2023). The [[structure-of-attention|underlying mechanisms]]—frontal decision circuits, salience network switching, thalamic gating—identify specific sites where consciousness could bias undetermined outcomes without generating signals *de novo*.
 
 Pre-prompt neural activity predicts free choices, paralleling the [[libet-experiments|Libet experiments]]. The Map's resolution: prior activity establishes *options*; consciousness selects from that menu. The agent is source of selection even if not source of options. First-person experience confirms this: being *pulled* by a loud noise versus *directing* attention to difficult text—mapping onto ventral (capture) vs dorsal (voluntary) networks.
 

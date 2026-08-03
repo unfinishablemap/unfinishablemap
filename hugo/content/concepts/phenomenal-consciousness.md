@@ -21,7 +21,7 @@ concepts:
 - '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[stapp-quantum-mind]]'
-- '[[voluntary-attention-control-mechanisms]]'
+- '[[structure-of-attention]]'
 created: 2026-01-22
 date: &id001 2026-01-25
 description: What it is like to be in a mental state—the subjective quality of experience.

@@ -13,7 +13,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-consciousness]]"
   - "[[attention-as-interface]]"
-  - "[[voluntary-attention-control-mechanisms]]"
+  - "[[structure-of-attention]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"
   - "[[interactionist-dualism]]"
@@ -152,7 +152,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-Research on [[voluntary-attention-control-mechanisms|voluntary attention]] (Rajan et al. 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
+Research on [[structure-of-attention|voluntary attention]] (Rajan et al. 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
 
 Both willed attention and willed motor action take ~280-300ms to deploy—versus ~100ms for automatic responses. If attention and motor selection were independent systems, this timing match would be coincidental. In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
 
@@ -224,7 +224,7 @@ The confident selection language used throughout this article — consciousness 
 ## Further Reading
 
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism in detail
-- [[voluntary-attention-control-mechanisms]] — Neural signatures of willed attention
+- [[structure-of-attention]] — Neural signatures of willed attention
 - [[attention-as-interface]] — The interface hypothesis foundation
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the unified attention-motor system for conscious selection
 - [[brain-computer-interfaces-and-the-interface-boundary]] — BCIs test whether motor selection extends beyond the brain

@@ -31,7 +31,7 @@ concepts:
   - "[[concepts/many-worlds]]"
   - "[[introspection]]"
   - "[[attention-and-the-consciousness-interface]]"
-  - "[[voluntary-attention-control-mechanisms]]"
+  - "[[structure-of-attention]]"
   - "[[attention-schema-theory]]"
   - "[[concepts/functionalism]]"
   - "[[integrated-information-theory]]"
@@ -144,7 +144,7 @@ Not all top-down attention is willed. Research (Nadra & Mangun 2023) identifies 
 
 Three neural markers distinguish willed from instructed attention (Rajan et al. 2019): frontal theta oscillations (~500ms post-decision) absent in instructed attention; bidirectional theta-band frontoparietal coherence (suggesting ongoing communication between decision and execution systems, not unidirectional triggering); and additional DLPFC/ACC recruitment—decision-making machinery that cued attention bypasses.
 
-Bidirectional coherence and theta oscillations mark a qualitatively different process from instructed attention shifts to the same location, not merely a harder version. See [[voluntary-attention-control-mechanisms]] for the full mechanistic analysis.
+Bidirectional coherence and theta oscillations mark a qualitatively different process from instructed attention shifts to the same location, not merely a harder version. See [[structure-of-attention]] for the full mechanistic analysis.
 
 ## Phenomenal Attention and Effort
 
@@ -241,7 +241,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 **Motor convergence**: [[motor-selection]], [[dopamine-and-the-unified-interface]], [[brain-computer-interfaces-and-the-interface-boundary|BCIs and the interface boundary]]
 
-**Voluntary control**: [[voluntary-attention-control-mechanisms]] — frontal theta, salience switching, and thalamic gating
+**Voluntary control**: [[structure-of-attention]] — frontal theta, salience switching, and thalamic gating
 
 **Mechanisms**: [[attention-and-the-consciousness-interface]] — candidate neural sites, timing constraints, and testable predictions
 

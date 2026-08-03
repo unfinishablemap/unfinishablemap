@@ -26,6 +26,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
+archived: true
+archived_date: 2026-08-03T10:10:28+00:00
+superseded_by: "/topics/structure-of-attention/"
+archive_reason: "Coalesced into The Structure of Attention"
+original_path: "/concepts/voluntary-attention-control-mechanisms/"
 ---
 
 Voluntary attention control is not a single operation but a coordinated process involving frontal decision circuits, network-level reorganization, and a switching mechanism that interrupts ongoing automatic processing. The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] claims consciousness acts on matter through attention. This article examines *how*—the specific neural machinery that implements willed attention and distinguishes it from both reflexive capture and instruction-following (see [[structure-of-attention]] for the three-mode taxonomy).

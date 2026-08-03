@@ -26,7 +26,7 @@ concepts:
   - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[stapp-quantum-mind]]"
-  - "[[voluntary-attention-control-mechanisms]]"
+  - "[[structure-of-attention]]"
 related_articles:
   - "[[tenets]]"
   - "[[emotion-and-dualism]]"

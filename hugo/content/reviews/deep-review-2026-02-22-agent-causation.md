@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-02-22
 **Article**: [Agent Causation](/concepts/agent-causation/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-agent-causation/)
-**Cross-review context**: [Voluntary Attention Control Mechanisms](/concepts/voluntary-attention-control-mechanisms/) (new article)
+**Cross-review context**: [Voluntary Attention Control Mechanisms](/topics/structure-of-attention/) (new article)
 
 ## Pessimistic Analysis Summary
 
@@ -60,7 +60,7 @@ topics: []
 3. **Stale link fixed**: `[[voluntary-attention]]` → `[[voluntary-attention-control-mechanisms]]` in frontmatter
 
 ### Cross-links Added
-- [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) (frontmatter concepts + Further Reading + inline)
+- [voluntary-attention-control-mechanisms](/topics/structure-of-attention/) (frontmatter concepts + Further Reading + inline)
 
 ### References Added
 - Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context. *Frontiers in Cognition*.
