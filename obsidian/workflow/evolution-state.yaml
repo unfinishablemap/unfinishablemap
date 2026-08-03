@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-03T22:23:18.694245+00:00'
-session_count: 18398
-cycle_position: 12393
+last_updated: '2026-08-03T22:28:45.681199+00:00'
+session_count: 18399
+cycle_position: 12394
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T21:39:09.479113+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
-  refine-draft: '2026-08-03T22:11:49.063179+00:00'
+  refine-draft: '2026-08-03T22:28:45.681199+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
   replenish-queue: '2026-08-03T21:06:07.803343+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-08-03'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-08-03'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-03'
   outcome: success
 agentic_social:
@@ -880,14 +880,14 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 19
+  p2_tasks: 3
+  p3_tasks: 20
   needs_replenishment: false
-  loop_pickable_open: 5
-  last_replenishment: '2026-08-03T21:02:00+00:00'
-  last_replenishment_prev: '2026-08-03T16:45:00+00:00'
-  last_replenishment_run: 928
-  last_replenishment_mode: zero-mint-triple-promotion
+  loop_pickable_open: 3
+  last_replenishment: '2026-08-03T22:33:00+00:00'
+  last_replenishment_prev: '2026-08-03T21:02:00+00:00'
+  last_replenishment_run: 929
+  last_replenishment_mode: relocate-starved-pair-plus-one-below-them
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
@@ -897,99 +897,11 @@ queue_status:
     orphan_integration: 0
     positions_register_gap: 0
     applied_apex_gap: 0
-  relocated_starved_p2: 0
-  promoted_p3_to_p2: 3
+  relocated_starved_p2: 2
+  promoted_p3_to_p2: 1
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_926_note: "run no.926 (2026-08-03T14:32Z, cycle-driven /replenish-queue): ZERO\
-    \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT. Second consecutive\n\
-    zero-mint run; the reasoning is re-derived below from live measurement, not\n\
-    inherited from run 925.\n\nCOUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks\n\
-    and parse_tasks, never from this file.\nBEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27\
-    \ P3 against MIN_QUEUE 3 -- below floor.\nAFTER:  29 active, 0 P0, 0 P1, 5 P2,\
-    \ 24 P3.\nThe three P2s that drained since run 925 were exactly run 925's own\
-    \ three\npromotions (topics-empty taxonomy sweep, psychophysical-laws nav label,\n\
-    metacognition 2 plus or minus 1 tail). The two survivors are run 924's pair,\n\
-    still open at lines 2225 and 2252.\n\nWHY ZERO MINTS AGAIN -- ALL EIGHT SOURCES\
-    \ RE-MEASURED LIVE THIS RUN.\n(1 chain / 2 unconsumed-research) CAP-BLOCKED. Live\
-    \ counts excluding section\nindex files: topics 318/320, concepts 317/320, voids\
-    \ 100/100, positions 13/80.\nTwo topic slots and three concept slots remain against\
-    \ 529 research notes, so\nslot allocation is a curation decision rather than a\
-    \ floor-restore one. One\nexpand-topic is ALREADY QUEUED at line 1979 (inner speech\
-    \ and anendophasia)\nand was deliberately NOT promoted for this reason -- see\
-    \ the declined\ncandidate below.\n(3 gap analysis) Same cap block.\n(4 staleness)\
-    \ CONVERGED, verified rather than inherited: tools.curate.\ndeep_review.get_review_candidates\
-    \ returns 158 candidates whose top entry sits\nat 18 days since review and whose\
-    \ deepest in the top twelve is 25 days, so\nNOTHING crosses the skill's 30-day\
-    \ staleness bar. The cycle's four deep-review\nslots per 24 already drain this\
-    \ pool; minting against it would double-book it.\n(5 orphan_integration) quality.orphaned_files\
-    \ is 0.\n(6 length_analysis) EXHAUSTED, AND THE REASON IS A VETO, NOT AN ABSENCE.\
-    \ The\nraw get_length_warnings call returns 100 hard-plus entries, of which 53\
-    \ are\nlive content. That number looks like abundant supply and is not. The head\
-    \ of\nthe live-content list is dominated by the known false-over-length band\n\
-    (reference apparatus inflating totals; many topics files sit at 4000-4100\nagainst\
-    \ a 4000 hard threshold), and CRUCIALLY the three worst genuine\noffenders are\
-    \ ALREADY VETOED P2s, parsed as such at lines 704, 1344 and 1352:\nconcepts/composition-question-rivals\
-    \ (4106w), topics/meaning-of-life (4160w)\nand apex/phenomenal-output-causal-machinery-dissociation\
-    \ (6904w, the only\nlive-content CRITICAL in the corpus). topics/epistemology-of-convergence-\n\
-    arguments (5743w) is separately recorded as churn-prone. Minting any of these\n\
-    would have violated the skill's never-regenerate-a-vetoed-task rule. The\nremaining\
-    \ registers (positions/*, apex/apex-articles) are a category error to\ncondense.\n\
-    (7 positions) 13 entries; four positions-evolve tasks are already open in the\n\
-    backlog, so the register is not starved.\n(8 applied apex gap) Two apex-evolve\
-    \ tasks already open at lines 1958 and 2073.\n\nTHE QUEUE IS NOT THIN, IT IS BADLY\
-    \ SORTED. 27 P3s sat unpicked while the\nMIN_QUEUE floor, which counts only P0-P2,\
-    \ read empty. Note also that the\nbacklog IS being fed -- today's optimistic-review\
-    \ minted two P3s and the\ndriver minted one -- so replenish's job here is floor\
-    \ restoration, and\npromotion is the correct instrument for that.\n\nTHE THREE\
-    \ PROMOTIONS, each VERIFIED ON DISK BEFORE PROMOTING (an asserted\ndefect is often\
-    \ false, so none of these was taken on the task note's word):\n- line 2001, concepts/parfit-reductionism\
-    \ L95. Confirmed verbatim on disk: the\n  bare illusionist regress is run as decisive.\
-    \ The settled replacement wording\n  is live at concepts/haecceity.md L157 and\
-    \ can be inherited rather than\n  composed, so this is ready to execute with no\
-    \ web budget. Closes the\n  string-sibling tail of a family already fixed in haecceity.\n\
-    - line 2019, the ape 2 plus or minus 1 working-memory census. Six of the\n  enumerated\
-    \ archive loci were opened and confirmed to carry the bare figure;\n  archive/apex/ground-of-meaning.md\
-    \ returns zero mentions of the author name\n  at either locus. archive/ holds\
-    \ full serving bodies, so these are live at\n  their published URLs. Citation\
-    \ is in hand (Read, Manrique and Walker 2022),\n  no web call needed. Direct continuation\
-    \ of the family whose metacognition\n  tail run 925 promoted and which has since\
-    \ drained.\n- line 2194, the Chalmers and McQueen five-constraints misattribution.\n\
-    \  Confirmed present at L112 of the research note with its numbered five-item\n\
-    \  list. Research notes are published content that no metadata review reads and\n\
-    \  that articles inherit attributions from wholesale, which is why a one-line\n\
-    \  fix earns P2. The task is correctly scoped to the note alone and explicitly\n\
-    \  forbids sweeping the ten neutral uses.\n\nDECLINED PROMOTION, RECORDED SO THE\
-    \ NEXT RUN DOES NOT RE-CHASE IT: line 1979,\nexpand-topic on inner speech and\
-    \ anendophasia. It is the single highest\nsource-bonus class in the skill's own\
-    \ scoring (unconsumed_research, +60) and\nit is genuinely well-motivated. It was\
-    \ left at P3 anyway because topics/ has\nonly TWO slots left before its 320 cap,\
-    \ and spending one of the last two on an\nautomatic floor-restore is an operator-shaped\
-    \ decision, not a replenish one.\nNote the task's own note says topics is at \"\
-    ~273\", which is stale text copied\nfrom CLAUDE.md -- the live count is 318. Whoever\
-    \ picks it should re-read the\ncap before creating.\nALSO NOT PROMOTED: line 2011\
-    \ (eastern-philosophy-consciousness) is the\ntriage-first sibling of the parfit\
-    \ regress fix and should stay behind it, since\nline 2001 settles the pattern\
-    \ it must be judged against. Line 2217 (positions\nregister Argued-in additions)\
-    \ is sound and additive, but it and line 2208 came\nfrom the same optimistic review\
-    \ on the same day, and promoting both would\nrecreate the same-review task pileup.\n\
-    \nANTI-LIFO. The selector sorts by (priority, line_number), so all three\npromotions\
-    \ are picked before run 924's surviving pair at 2225 and 2252. Two of\nthe three\
-    \ were generated 2026-08-02, the same day as that pair; only the\nChalmers note\
-    \ is newer (2026-08-03) and it was promoted on defect severity.\nThe surviving\
-    \ pair is third in line, not starved.\n\nZERO LINE SHIFT, deliberately. todo.md\
-    \ is 18085 lines before and after; the\ndiff is 3 insertions and 3 deletions,\
-    \ all of them one-character P3-to-P2\nheader edits. No task block moved and no\
-    \ anchor shifted, so any in-flight\ncycle_post line reference stays valid.\n\n\
-    VERIFIED AFTER THE WRITE: count_p0_p2_tasks returns 5; select_queue_task\nreturns\
-    \ line 2001, the parfit regress fix.\n\nCONCURRENCY: sibling agents \"main\" and\
-    \ \"coalesce\" were active in-session.\ngit status was empty and HEAD was c6defa95b\
-    \ immediately before the write;\npgrep found no evolve_loop.py process. The queue\
-    \ was re-parsed live\nimmediately before and after. Note concepts moved 318 ->\
-    \ 317 during the\nsession, consistent with the coalesce sibling archiving one\
-    \ file; this does\nnot affect any conclusion above. REVERT only if a sibling replenish\
-    \ also\nrestores this slot.\n\nPruned run_923_note to hold the note ring at three.\n"
   run_927_note: "run no.927 (2026-08-03T16:45Z, cycle-driven /replenish-queue): ZERO\
     \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT. Third consecutive\n\
     zero-mint run, but the length verdict below is NEW WORK, not inherited:\nruns\
@@ -1224,3 +1136,78 @@ queue_status:
     \ named the\njust-finished dualism-cartography task at line 2212. No evolve_loop.py\
     \ process\nfound. REVERT only if a sibling replenish also restores this slot.\n\
     \nPruned run_925_note to hold the note ring at three."
+  run_929_note: "run no.929 (2026-08-03T22:33Z, cycle-driven /replenish-queue): ZERO\
+    \ MINTS.\nFIFTH consecutive replenish-at-floor. Floor restored 2 -> 3 by RELOCATING\
+    \ the two\nstarved P2s to the top of Active Tasks and promoting exactly ONE P3 that\
+    \ already\nsat BELOW them. This is the remedy run 928 left standing instruction\
+    \ for, and it\nnow applies: the pair was still unpicked at the start of this run.\n\
+    \nCOUNTS re-derived live, not read from state, via\ntools.evolution.task_selector.count_p0_p2_tasks\
+    \ and tools.todo.processor.parse_tasks:\nBEFORE 23 active / 0 P0 / 0 P1 / 2 P2 /\
+    \ 21 P3, count_p0_p2_tasks = 2 (below MIN_QUEUE 3).\nAFTER  23 active / 0 P0 / 0\
+    \ P1 / 3 P2 / 20 P3, count_p0_p2_tasks = 3. No task created,\nnone completed, none\
+    \ re-scoped; the active total is unchanged at 23 because the only\npriority change\
+    \ was one P3 becoming P2.\n\nWHY RELOCATION AND NOT A FOURTH ROUND OF PROMOTIONS.\
+    \ Runs 926, 927 and 928 each\nrestored the floor by promoting P3s on merit, and\
+    \ every merit-chosen P3 happened to\nsit at a lower line number than the two standing\
+    \ P2s. select_queue_task sorts by\n(priority, line_number) ascending, so each promotion\
+    \ inserted itself ahead of the\npair and pushed them from 1st/2nd to 4th/5th in\
+    \ the pick order without either ever\nbeing picked. Three more promotions would\
+    \ have repeated that exactly. Relocation\nattacks the line-number term instead of\
+    \ the priority term, which is the actual cause.\n\nWHAT MOVED. Two complete task\
+    \ blocks, 27 lines including their trailing blank lines,\ncut from old 1-idx 2194-2220\
+    \ and reinserted immediately after the `## Active Tasks`\nheader:\n  (1) `topics/basal-and-bioelectric-cognition`\
+    \ -- the Levin & Dennett Aeon\n      \"pressure points\" quote, never verbatim-checked\
+    \ at the publisher. Old line\n      2194 -> new line 40.\n  (2) `topics/consciousness-and-mathematics`\
+    \ -- the Russell \"physics is mathematical\"\n      quote cited to the wrong 1927\
+    \ book across ten files, plus the Chalmers &\n      McQueen 10/8 year split. Old\
+    \ line 2206 -> new line 52.\nBYTE-IDENTITY PROVEN, not asserted: the 27-line slice\
+    \ from `git show HEAD:...todo.md`\ncompares equal to the 27-line slice at the new\
+    \ location. A whole-file line multiset\ndiff against HEAD shows exactly two added\
+    \ lines and one removed line, all three\nbelonging to the promoted task -- so no\
+    \ title, note, priority, Type or File line of\nthe relocated pair was touched, and\
+    \ nothing was left behind at the old site. No stub\nmarkers were written; earlier\
+    \ runs' RELOCATED-TO-TOP stubs are queue debt and this\nrun added none.\n\nTHE PROMOTION,\
+    \ AND WHY THIS ONE. Relocation alone leaves the count at 2, one short,\nso exactly\
+    \ one promotion was still needed. Run 928 had already named the correct\ncandidate\
+    \ and this run confirmed it independently: the stale exhibit ordinal in\n`obsidian/project/medium-status-cluster-independence-scoring.md`\
+    \ is the ONLY\npromotable task lying below both relocated P2s in file order (line\
+    \ 2221 against 40\nand 52), so promoting it costs nothing in LIFO pick order --\
+    \ it takes the third slot\nrather than jumping the queue. Every other P3 sits at\
+    \ lines 67-2210 and would have\nre-created the exact starvation this run exists\
+    \ to undo. Header edited P3 -> P2 and a\n`- **Promoted**:` breadcrumb line added\
+    \ recording the reasoning; Notes, Type, File and\nStatus untouched, remit unchanged.\n\
+    \nALL THREE TARGETS GREP-VERIFIED ON DISK THIS RUN, not inherited from the task\
+    \ text:\nbasal-and-bioelectric-cognition.md L55 still carries the quoted `\"pressure\
+    \ points\"`\nattributed to the 2020 Aeon essay; consciousness-and-mathematics.md\
+    \ L235 still reads\n`Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.`;\
+    \ medium-status-cluster-\nindependence-scoring.md L37 still reads \"the third worked\
+    \ exhibit\" and \"The two prior\nexhibits\", and L111 still reads \"undetermined\
+    \ at N=3\". All three files exist.\n\nLINE NUMBERS: todo.md was 18143 lines before\
+    \ and is 18144 after -- the relocation is\nnet zero (a whole block moved, blanks\
+    \ included) and the single added line is the\npromoted task's `- **Promoted**:`\
+    \ breadcrumb. UNLIKE runs 926-928, whose one-character\nheader edits preserved every\
+    \ line number, THIS RUN INVALIDATES ANY queue_task_line\nREFERENCE CAPTURED BEFORE\
+    \ IT. Old 40-2193 shifted down by 27; old 2194-2220 moved to\n40-66; old 2221 onward\
+    \ is unmoved in number, then +1 below the promoted header. Prefer\nthe .unfin/current-queue-task.json\
+    \ TITLE sentinel over any cached line.\n\nVERIFIED AFTER THE WRITE: count_p0_p2_tasks\
+    \ returns 3; select_queue_task returns the\nbasal-and-bioelectric task at line 39\
+    \ (0-idx) / 40 (1-idx) -- i.e. one of the relocated\npair, which is the whole point\
+    \ of the run; pick order is basal (40), Russell (52),\nstale-exhibit (2221); parse_tasks\
+    \ reports 23 active with file_path, Type and Notes\nintact on the moved blocks;\
+    \ the YAML re-parses and recent_tasks still holds 20 entries.\n\nCAPS re-derived\
+    \ live with tools.evolution.state.count_section_files: topics 318,\nconcepts 317,\
+    \ voids 100, positions 14, apex 39. 318 is the gating count for topics and\nrun\
+    \ 928's in-place correction of its own \"317\" stands -- no topics article was removed\n\
+    and 317 merely excluded the refinement-log sidecar. Headroom is 2 in topics and\
+    \ 3 in\nconcepts against the 320 caps; nothing was minted into either, but the next\
+    \ run that\nwants to mint an expand-topic has almost none left.\n\nFOR RUN 930.\
+    \ The relocated pair now leads the queue, so the expected outcome is that\nthe loop\
+    \ finally executes the basal Aeon quote check and then the Russell wrong-work\n\
+    sweep. If run 930 finds the floor breached again, the cheap moves are now spent:\
+    \ the\npair is already at the top and the one zero-cost promotion has been used.\
+    \ A further\npromotion would have to jump the pair again, so prefer instead to mint\
+    \ real work or\npromote something and RELOCATE it below line 52, never above. Do\
+    \ not re-relocate the\npair -- if they are still unpicked with a lower line number\
+    \ than everything else, the\nproblem is not ordering and a promotion will not fix\
+    \ it.\n\nLeft uncommitted for cycle_post. Pruned run_926_note to hold the note ring\
+    \ at three\n(927, 928, 929).\n"
