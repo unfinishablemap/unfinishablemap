@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-03 11:43:35+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Probability and Consciousness
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-25 19:30:00+00:00
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-03 11:43:35+00:00
 modified: *id001
 original_path: /concepts/subjective-probability-quantum-measurement/
 related_articles:
@@ -85,7 +85,7 @@ The challenge is explaining why rational agents should care about this measure. 
 
 **Problem for many-worlds:** If all outcomes occur, probability seems meaningless. Defenders respond with self-locating uncertainty: before the measurement, you don't know which branch you'll find yourself on, so probability describes this ignorance. But this response fails to explain *why* Born probabilities specifically—rather than branch-counting or some other measure—should govern self-location. Decision-theoretic derivations (Deutsch-Wallace) attempt to show that rational agents *must* use Born weights, but critics argue these derivations assume what they aim to prove.
 
-More fundamentally, MWI treats indexical identity as derivative from branch structure rather than as something requiring explanation. But the question "why am I experiencing *this* branch?" seems meaningful, and MWI provides no resources to answer it. The question isn't about which branch someone labeled "me" occupies—it's about why *this* subjective viewpoint exists here rather than there. See [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) for detailed analysis. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this framework for these and other reasons (including ontological extravagance).
+More fundamentally, MWI treats indexical identity as derivative from branch structure rather than as something requiring explanation. But the question "why am I experiencing *this* branch?" seems meaningful, and MWI provides no resources to answer it. The question isn't about which branch someone labeled "me" occupies—it's about why *this* subjective viewpoint exists here rather than there. See [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) for detailed analysis. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this framework primarily for this indexical reason; ontological extravagance is registered there as a subsidiary cost rather than a ground for rejection.
 
 ## The Missing Piece: First-Person Probability
 

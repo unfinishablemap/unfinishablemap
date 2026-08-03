@@ -4,7 +4,7 @@ description: "Why am I this consciousness and not another? The indexical void ma
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-23T19:57:00+00:00
+ai_modified: 2026-08-03T11:43:35+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -110,7 +110,7 @@ An AI might formally characterise the void's structure—mapping logical constra
 
 The indexical void connects to the Map's [[tenets]] in a distinctive way: it partly *generates* the tenets rather than merely following from them.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** — The tenet's rationale explicitly cites the indexical problem: "Many-worlds leads to vast ontological proliferation... it raises unanswerable indexical questions: why am I *this* instance and not another?" The Map rejects many-worlds partly because it dissolves the indexical question rather than answering it. Many-worlds declares all instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying—the question seems meaningful, and a framework unable to pose it is missing something about consciousness.
+**[[tenets#^no-many-worlds|No Many Worlds]]** — The tenet's *primary* rationale is the indexical objection: many-worlds "raises a question its own framework cannot answer: why am I *this* branch rather than any of the others?" The Map rejects many-worlds partly because it dissolves the indexical question rather than answering it. Many-worlds declares all instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying—the question seems meaningful, and a framework unable to pose it is missing something about consciousness. Ontological proliferation appears in the tenet only as a *subsidiary*, registered cost: by [[tenets#^occams-limits|Occam's Razor Has Limits]] the Map cannot wield parsimony against many-worlds while disarming parsimony arguments against dualism.
 
 **[[tenets#^dualism|Dualism]]** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The indexical void forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [[boundary-and-projection]] void addresses the adjacent question: what determines the *extent* of one consciousness, and why are the shifts of that extent invisible from within? Indexicality presupposes individuation; the boundary-and-projection void questions the ground of that individuation. The void is not a problem for dualism specifically—List shows it challenges all third-personal metaphysics—but dualism must acknowledge it.
 

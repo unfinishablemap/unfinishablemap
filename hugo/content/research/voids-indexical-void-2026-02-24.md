@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-08-03 11:43:35+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-02-24
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-27 00:00:00+00:00
+lastmod: 2026-08-03 11:43:35+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -209,6 +209,8 @@ AI systems present a unique angle on the indexical void:
 ### Most Relevant Tenet
 
 **No Many Worlds** — The tenet's own rationale explicitly cites the indexical problem: "Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful."
+
+*(Currency note: this quotes the tenet as it stood at the date of this research note. The tenet has since been rewritten to separate a **primary** indexical rationale from a **subsidiary**, qualified ontological-multiplicity cost. Quote the live [tenets](/tenets/) page, not this snapshot.)*
 
 The Map rejects many-worlds partly *because* it dissolves the indexical question rather than answering it. Many-worlds says all instances are equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying—the question *seems* meaningful, and a framework that cannot even pose it is missing something about consciousness.
 

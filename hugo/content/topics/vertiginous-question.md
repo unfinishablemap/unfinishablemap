@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-07-09 03:26:31+00:00
+ai_modified: 2026-08-03 11:43:35+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 03:26:31+00:00
-lastmod: 2026-07-09 03:26:31+00:00
+lastmod: 2026-08-03 11:43:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -188,7 +188,7 @@ This makes List a genuinely harder target than Everett, and it shows the indexic
 
 The vertiginous question connects to the Map's [tenets](/tenets/) in a distinctive way: it partly *generates* the tenets rather than merely following from them.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** — The strongest connection. The tenet's rationale explicitly cites the indexical problem: many-worlds leads to vast ontological proliferation and raises unanswerable indexical questions. The Map rejects Everettian many-worlds partly because it dissolves the indexical question rather than answering it: it declares all branch-instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying — the question seems meaningful, and a framework unable to pose it is missing something about consciousness. List's first-personally centred many-worlds (discussed under [Many-worlds branching](#connections-to-other-problems) above) is the harder case: it *answers* the vertiginous question by privileging one present per subject, so the indexical objection does not by itself reach it. Against that variant the tenet leans on a distinct commitment — the rejection of the modal realism that makes every subject's centred world equally real — rather than on the indexical objection alone. The indexical case against many-worlds is decisive against branch-egalitarian views and supplementary, not sufficient, against first-personally centred ones.
+**[No Many Worlds](/tenets/#no-many-worlds)** — The strongest connection. The tenet's *primary* rationale is that indexical problem — many-worlds raises a question its own framework cannot answer — with ontological proliferation registered there only as a subsidiary cost, not a refutation. The Map rejects Everettian many-worlds partly because it dissolves the indexical question rather than answering it: it declares all branch-instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying — the question seems meaningful, and a framework unable to pose it is missing something about consciousness. List's first-personally centred many-worlds (discussed under [Many-worlds branching](#connections-to-other-problems) above) is the harder case: it *answers* the vertiginous question by privileging one present per subject, so the indexical objection does not by itself reach it. Against that variant the tenet leans on a distinct commitment — the rejection of the modal realism that makes every subject's centred world equally real — rather than on the indexical objection alone. The indexical case against many-worlds is decisive against branch-egalitarian views and supplementary, not sufficient, against first-personally centred ones.
 
 **[Dualism](/tenets/#dualism)** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The vertiginous question forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [boundary-and-projection](/voids/boundary-and-projection/) void addresses the adjacent question: what determines the *extent* of one consciousness, and why are the shifts of that extent invisible from within? The Map's dualism is not naïve substance dualism that merely adds souls to physics. It's a dualism that recognizes consciousness involves both qualitative character ([qualia](/concepts/qualia/)) and indexical particularity ([haecceity](/concepts/haecceity/)).
 

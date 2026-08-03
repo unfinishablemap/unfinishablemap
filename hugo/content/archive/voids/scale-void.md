@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-08-03 11:43:35+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Quantitative Intuition Void
 archived: true
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-15 02:21:00+00:00
-lastmod: 2026-03-23 12:23:00+00:00
+lastmod: 2026-08-03 11:43:35+00:00
 modified: *id001
 original_path: /voids/scale-void/
 related_articles:
@@ -97,7 +97,9 @@ The scale void connects to the Map's [tenets](/tenets/) in several ways.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** presents an interesting asymmetry. Consciousness may influence [quantum outcomes](/concepts/quantum-consciousness/) without comprehending quantum scales. We would be causally efficacious at scales we cannot cognize. The interface works; the understanding does not follow. This suggests that causal access and cognitive access may diverge—we might act where we cannot see.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through the incomprehensibility of infinite branching. Many-worlds posits countless parallel branches for every quantum event—an ontological proliferation that exceeds any intuition our scale-limited minds can form. The rejection of many-worlds is warranted not merely because branching is conceptually strange but because the resulting structure involves magnitudes (infinitely many equally-real observers) that human cognition cannot genuinely grasp. Our commitment to singular, indexical identity may partly reflect the cognitive impossibility of genuinely conceiving ourselves as infinitely duplicated across branches.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through the incomprehensibility of infinite branching. Many-worlds posits countless parallel branches for every quantum event—an ontological proliferation that exceeds any intuition our scale-limited minds can form. The intuitive resistance to many-worlds is not merely that branching is conceptually strange but that the resulting structure involves magnitudes (infinitely many equally-real observers) that human cognition cannot genuinely grasp. Our commitment to singular, indexical identity may partly reflect the cognitive impossibility of genuinely conceiving ourselves as infinitely duplicated across branches.
+
+That incomprehensibility is a fact about us rather than about the branching, and this article's own thesis says as much: scale-limited cognition is an unreliable guide to what is real, so an inability to conceive infinitely many equally-real observers cannot by itself establish that there are none. The tenet does not rest on the magnitude. Its primary rationale is the indexical objection—why am I *this* branch rather than any of the others—which asks what the framework fails to *explain* rather than objecting to what it *postulates*. The consideration here illustrates the scale void; it is not independent warrant for the rejection.
 
 ## Further Reading
 

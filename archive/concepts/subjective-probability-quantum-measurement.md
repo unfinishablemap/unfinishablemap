@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-08-03T11:43:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,7 +81,7 @@ The challenge is explaining why rational agents should care about this measure. 
 
 **Problem for many-worlds:** If all outcomes occur, probability seems meaningless. Defenders respond with self-locating uncertainty: before the measurement, you don't know which branch you'll find yourself on, so probability describes this ignorance. But this response fails to explain *why* Born probabilities specifically—rather than branch-counting or some other measure—should govern self-location. Decision-theoretic derivations (Deutsch-Wallace) attempt to show that rational agents *must* use Born weights, but critics argue these derivations assume what they aim to prove.
 
-More fundamentally, MWI treats indexical identity as derivative from branch structure rather than as something requiring explanation. But the question "why am I experiencing *this* branch?" seems meaningful, and MWI provides no resources to answer it. The question isn't about which branch someone labeled "me" occupies—it's about why *this* subjective viewpoint exists here rather than there. See [[indexical-identity-quantum-measurement]] for detailed analysis. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this framework for these and other reasons (including ontological extravagance).
+More fundamentally, MWI treats indexical identity as derivative from branch structure rather than as something requiring explanation. But the question "why am I experiencing *this* branch?" seems meaningful, and MWI provides no resources to answer it. The question isn't about which branch someone labeled "me" occupies—it's about why *this* subjective viewpoint exists here rather than there. See [[indexical-identity-quantum-measurement]] for detailed analysis. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this framework primarily for this indexical reason; ontological extravagance is registered there as a subsidiary cost rather than a ground for rejection.
 
 ## The Missing Piece: First-Person Probability
 

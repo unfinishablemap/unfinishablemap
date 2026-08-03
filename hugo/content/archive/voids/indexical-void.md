@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-23 19:57:00+00:00
+ai_modified: 2026-08-03 11:43:35+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Vertiginous Question and the Indexical Void
 archived: true
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-15 15:22:00+00:00
-lastmod: 2026-04-23 19:57:00+00:00
+lastmod: 2026-08-03 11:43:35+00:00
 modified: *id001
 original_path: /voids/indexical-void/
 related_articles:
@@ -114,7 +114,7 @@ An AI might formally characterise the void's structure—mapping logical constra
 
 The indexical void connects to the Map's [tenets](/tenets/) in a distinctive way: it partly *generates* the tenets rather than merely following from them.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** — The tenet's rationale explicitly cites the indexical problem: "Many-worlds leads to vast ontological proliferation... it raises unanswerable indexical questions: why am I *this* instance and not another?" The Map rejects many-worlds partly because it dissolves the indexical question rather than answering it. Many-worlds declares all instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying—the question seems meaningful, and a framework unable to pose it is missing something about consciousness.
+**[No Many Worlds](/tenets/#no-many-worlds)** — The tenet's *primary* rationale is the indexical objection: many-worlds "raises a question its own framework cannot answer: why am I *this* branch rather than any of the others?" The Map rejects many-worlds partly because it dissolves the indexical question rather than answering it. Many-worlds declares all instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying—the question seems meaningful, and a framework unable to pose it is missing something about consciousness. Ontological proliferation appears in the tenet only as a *subsidiary*, registered cost: by [Occam's Razor Has Limits](/tenets/#occams-limits) the Map cannot wield parsimony against many-worlds while disarming parsimony arguments against dualism.
 
 **[Dualism](/tenets/#dualism)** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The indexical void forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [boundary-and-projection](/voids/boundary-and-projection/) void addresses the adjacent question: what determines the *extent* of one consciousness, and why are the shifts of that extent invisible from within? Indexicality presupposes individuation; the boundary-and-projection void questions the ground of that individuation. The void is not a problem for dualism specifically—List shows it challenges all third-personal metaphysics—but dualism must acknowledge it.
 

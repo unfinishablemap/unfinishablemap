@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T11:33:00+00:00'
+ai_modified: '2026-08-03T11:43:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 11:33:00+00:00
+lastmod: 2026-08-03 11:43:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 11:43 UTC - refine-draft (MWI ontological-extravagance residue: 4 loci re-framed to the tenet's primary/subsidiary split; +1 ancestor sibling found)
+
+- **Status**: Success
+- **Files**: [indexical-void](/archive/voids/indexical-void/), [vertiginous-question](/topics/vertiginous-question/), [scale-void](/archive/voids/scale-void/), [subjective-probability-quantum-measurement](/archive/concepts/subjective-probability-quantum-measurement/), [voids-indexical-void-2026-02-24](/research/voids-indexical-void-2026-02-24/) (all plus Hugo mirrors)
+- **Task**: residue half of the P1 parsimony cluster (review `reviews/outer-review-2026-08-02-chatgpt-5-6-pro.md`). All four driver-flagged loci confirmed live and fixed; a fifth was found by re-grepping the defective string.
+- **Attribution**: `ai_system` **held** on all five. Re-quoting and primary/subsidiary re-framing is a calibration correction, not re-authoring. `last_deep_review` untouched everywhere; `ai_modified` bumped on all five from one live `date -u` (`2026-08-03T11:43:35+00:00`), verified strictly past.
+- **Published**: yes
+
+**Correction to the task's premise — the quote was stale, not fabricated.** The driver graded `archive/voids/indexical-void.md` L113 a fabricated composite because the quoted sentence greps zero in current `tenets/tenets.md`. Git history says otherwise: the exact wording *"Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I* this *instance and not another?"* stood in `tenets.md` from at least 2026-01-14 through 2026-03-25. The article's ellipsis elides only *"—countless copies…More problematically,"*, which is a faithful elision. So it was a **correct quote of a superseded version**, not a welded composite. The *fix* is unchanged — re-quote from the live tenet — but the defect class matters for the ledger: this is the stale-internal-quote channel, not fabrication, and grading it fabrication would have been an unearned charge against a past pass.
+
+**Per-file, all five touched:**
+
+1. **`archive/voids/indexical-void.md`** L113 — replaced the stale quote with the live primary rationale, verbatim and grep-verified 1:1 against `tenets.md` L117: many-worlds *"raises a question its own framework cannot answer: why am I* this *branch rather than any of the others?"* Added a closing clause putting proliferation where the tenet now puts it — a *subsidiary*, registered cost, with the Tenet 5 self-binding (the Map cannot wield parsimony against MWI while disarming parsimony arguments against dualism). Restores the primary/subsidiary distinction the old lead clause inverted.
+2. **`obsidian/topics/vertiginous-question.md`** L188 — same pre-rewrite ancestor, unquoted, so a re-framing not a re-quote. *"The tenet's rationale explicitly cites the indexical problem: many-worlds leads to vast ontological proliferation and raises unanswerable indexical questions"* → the *primary* rationale **is** that indexical problem, with proliferation "registered there only as a subsidiary cost, not a refutation." **Budget honoured**: 3935 → 3948 words (`analyze_length`), **+13 against a 65-word margin**, still `soft_warning`, 52 words under the 4000 hard cap. Deliberately did **not** over-correct — the driver was right that the rest of the paragraph already loads all weight onto the indexical objection and correctly calls it "decisive against branch-egalitarian views and supplementary, not sufficient, against first-personally centred ones." That prose is untouched.
+3. **`archive/voids/scale-void.md`** L97 — judged on its own terms as instructed. This is an **incomprehensibility** argument, not a parsimony one, so no parsimony boilerplate was applied. The actual defect was narrower: "The rejection of many-worlds **is warranted**…because the resulting structure involves magnitudes…that human cognition cannot genuinely grasp" made magnitude do explicit *warranting* work. Downgraded "is warranted" → "The intuitive resistance," then added the honest qualifier the exposure deserves — and made it **reflexive rather than imported**: the incomprehensibility is a fact about us, and *this article's own thesis* is that scale-limited cognition is an unreliable guide to what is real, so it cannot establish that no such observers exist. Notes the tenet does not rest on the magnitude and that the primary rationale asks what MWI fails to *explain*, not what it *postulates*. 1647 → 1740 words, still `ok` against 3000.
+4. **`archive/concepts/subjective-probability-quantum-measurement.md`** — **the driver's L84 was correct**, not off; located by string as instructed and found there. One-clause fix: "rejects this framework for these and other reasons (including ontological extravagance)" → "rejects this framework primarily for this indexical reason; ontological extravagance is registered there as a subsidiary cost rather than a ground for rejection." 2484 words, unchanged status.
+5. **`obsidian/research/voids-indexical-void-2026-02-24.md`** L209 — **not in the task's locus list; found by re-grepping the defective string across all three trees**, per the standing rule that a review's locus list is a sample rather than the population. This is the **ancestor** the other four descend from: it carries the full pre-rewrite quote, and it is publicly served at `hugo/content/research/`. Git confirms it was accurate on its own date, so rewriting it would manufacture an anachronism — a dated note quoting a tenet version that did not exist when it was written. Fixed instead with a one-line currency marker directing readers to the live [tenets](/tenets/) page and naming the primary/subsidiary split. Historical record preserved, public exposure closed.
+
+**Verdict-clean files left alone as instructed** (`topics/quantum-measurement-and-subjective-probability` L49, `concepts/substance-property-dualism` L79, and the two neutral archive attributions) — spot-checked, the driver's read holds: recording a cost, or attributing it to others, is permitted. **`concepts/consciousness-physics-interface-formalism` L57 not touched** — owned by the open P2 Masanes sweep.
+
+**Sweep and mirrors.** Post-fix grep for `vast ontological proliferation` across `obsidian/`, `archive/`, and `hugo/content/` returns zero article hits; the only survivors are `tenets/tenets.md` itself (correct — it is the subsidiary clause), the dated research note (now marked), and reviews/workflow logs. Synced and verified **all ten locations** — five sources plus five Hugo mirrors, including **both archive mirrors** at `hugo/content/archive/voids/` and `hugo/content/archive/concepts/`, the miss the task flagged as having recurred twice today. `validate.py` clean on all five.
 
 ## 2026-08-03 11:33 UTC - refine-draft (Tenet 3 achieved-form leakage: apex lead deep-linked to `^tenet-3-standing`; body swept, one nav surface also corrected)
 

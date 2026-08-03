@@ -2169,23 +2169,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-03
 - **Notes**: **THE DOC INSTRUCTS A DATA-LOSS EDIT.** SKILL.md tells the combine pass to rename a task's `Review file:` line to the plural **`Review files:`** when a task is convergent across reviewers. **`tools/todo/processor.py:153` matches the singular literal**, and `tools/evolution/task_selector.py:214` feeds that value into the dispatched task args. Renaming the field therefore does not merely change a label — it makes the review provenance invisible to the parser and drops it from what the executing fork receives. **A "rename this field" instruction is a parser change in disguise**, and nothing in the doc says so. **This has bitten before**; it is a recurring trap, not a one-off. **Driver-verified after tonight's run: `grep -c "Review files:" obsidian/workflow/todo.md` = 0** — the 2026-08-03 combine fork spotted the hazard on its own and used an added **`Convergent with:`** line instead, which conveys the same information without touching a parsed field. **THE DECISION:** (a) **correct the SKILL.md to specify the additive `Convergent with:` line** — smallest fix, matches what actually shipped tonight, no code change; (b) keep the rename and **teach both readers the plural**, accepting a code change plus a migration for any tasks already carrying it; (c) drop the convergence annotation from the task body entirely and let the synthesis file be the only record. **(a) is the obvious answer unless you want convergence machine-readable off the task line.** **DO NOT let a content-refine fork edit the SKILL.md** — that is why `File` points at the changelog. **Companion entries**: the same-day NEEDS-HUMAN items on the three commission skills. That set was about stale UI selectors; this one is different in kind and worse — the instruction is not merely obsolete, it is actively harmful, and it fails silently rather than bailing.
 
-### P2: `phenomenology-of-consciousness-doing-work` asserts the achieved form of the claim the tenets page now says the Map only inherits
-
-- **Type**: refine-draft
-- **File**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
-- **Status**: pending
-- **Source**: driver, 2026-08-03 (sibling locus surfaced by the `apex/interface-specification-programme` P1; cluster C2 of the 08-03 synthesis)
-- **Generated**: 2026-08-03
-- **Notes**: **CONFIRMED LIVE AT HEAD by the driver — not inferred from the review.** **L58** reads: *"The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates, biasing q[uantum]…"*. That is the achieved form of exactly the claim `tenets.md` was corrected to disown earlier the same day: the tenets page now states that the interface argument shows downward causation **available**, not **actual** — "a posit the interface argument leaves open, not a result it secures" — and says downstream articles **inherit that debt rather than discharge it**. This locus discharges it by assertion.
-
-  **THE FIX IS A LINK, NOT A REWRITE — and that is deliberate.** `tenets.md` carries a stable anchor **`^tenet-3-standing`** created specifically so downstream articles can deep-link `[[tenets#^tenet-3-standing]]` instead of restating Tenet 3's standing in their own words. `apex/interface-specification-programme` used it successfully on 2026-08-03 (driver verified it resolves to `/tenets/#tenet-3-standing` in the Hugo mirror). **Use the same device.** Restating the standing in a fresh phrasing is precisely how this family of mismatches was created — the corpus said the same thing differently in different places until the versions drifted apart. Linking is also cheaper against any length budget.
-
-  **CHECK LENGTH FIRST** with `analyze_length`; this is an apex and apex ceilings have repeatedly bound this cluster. If the article is tight, the deep-link plus a short qualifier is the whole fix.
-
-  **DO NOT open a second front on `apex/dualism-cartography`** — it sits 26 words below its hard cap and already carries open tasks.
-
-  **DRIVER NOTE ON THE SECOND SIBLING — do not mint it on this evidence.** The originating review named `apex/consciousness-and-agency` as carrying the same leakage, but the fork that reported it said plainly it had "not inspected [it] in depth", and a driver grep for the construction returns **zero** there. It already carries an unrelated open P3. Treat it as unverified: if a later pass wants it, verify the locus first rather than inheriting the claim.
-
 ### P2: ontological-extravagance residue — 4 verified loci, led by a STALE INTERNAL QUOTE of the pre-rewrite Tenet 4 text
 - **Type**: refine-draft
 - **File**: archive/voids/indexical-void.md
@@ -2321,6 +2304,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: `phenomenology-of-consciousness-doing-work` asserts the achieved form of the claim the tenets page now says the Map only inherits
+- **Type**: refine-draft
+- **File**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
+- **Notes**: **CONFIRMED LIVE AT HEAD by the driver — not inferred from the review.** **L58** reads: *"The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates, biasing q[uantum]…"*. That is the achieved form of exactly the claim `tenets.md` was corrected to disown earlier the same day: the tenets page now states that the interface argument shows downward causation **available**, not **actual** — "a posit the interface argument leaves open, not a result it secures" — and says downstream articles **inherit that debt rather than discharge it**. This locus discharges it by assertion.
+  **THE FIX IS A LINK, NOT A REWRITE — and that is deliberate.** `tenets.md` carries a stable anchor **`^tenet-3-standing`** created specifically so downstream articles can deep-link `[[tenets#^tenet-3-standing]]` instead of restating Tenet 3's standing in their own words. `apex/interface-specification-programme` used it successfully on 2026-08-03 (driver verified it resolves to `/tenets/#tenet-3-standing` in the Hugo mirror). **Use the same device.** Restating the standing in a fresh phrasing is precisely how this family of mismatches was created — the corpus said the same thing differently in different places until the versions drifted apart. Linking is also cheaper against any length budget.
+  **CHECK LENGTH FIRST** with `analyze_length`; this is an apex and apex ceilings have repeatedly bound this cluster. If the article is tight, the deep-link plus a short qualifier is the whole fix.
+  **DO NOT open a second front on `apex/dualism-cartography`** — it sits 26 words below its hard cap and already carries open tasks.
+  **DRIVER NOTE ON THE SECOND SIBLING — do not mint it on this evidence.** The originating review named `apex/consciousness-and-agency` as carrying the same leakage, but the fork that reported it said plainly it had "not inspected [it] in depth", and a driver grep for the construction returns **zero** there. It already carries an unrelated open P3. Treat it as unverified: if a later pass wants it, verify the locus first rather than inheriting the claim.
 
 ### ✓ 2026-08-03: `post-decoherence-selection-programme` L121 "Decoherence prepares the menu" — the already-prepared-alternatives family was closed on a four-string grep this locus does not match
 - **Type**: refine-draft
