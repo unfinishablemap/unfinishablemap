@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Consciousness Doing Work"
-description: "What does it feel like when consciousness acts on matter? Effort, selection, holding, and opacity form a coherent phenomenological profile that materialist accounts struggle to explain."
+description: "What does it feel like if consciousness acts on matter? Effort, selection, holding, and opacity form a coherent phenomenological profile that materialist accounts struggle to explain."
 created: 2026-02-23
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-28T00:01:22+00:00
+ai_modified: 2026-08-03T11:32:49+00:00
 last_deep_review: 2026-07-18T19:54:44+00:00
 draft: false
 topics:
@@ -55,7 +55,7 @@ embedded_videos:
     source: notebooklm/0023-01-phenomenology-of-consciousness-doing-work
 ---
 
-The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates, biasing quantum indeterminacies toward outcomes that reflect what we intend, value, and deliberate about. Other apex articles address the mechanism (attention as the [[attention-as-causal-bridge|causal bridge]]) and the philosophical case for agency ([[consciousness-and-agency|consciousness and agency]]). This article asks a different question: what does the work *feel like*? The phenomenology of consciousness in action — its texture, structure, and cross-cultural invariants — constitutes evidence in its own right. The physicalist can grant that the brain generates phenomenology, but under epiphenomenalism there is no reason the phenomenological profile should *track genuine cognitive demand* — no reason effort should scale with difficulty and couple to autonomic-regulatory signatures, selection should correlate with open alternatives, or holding should demand sustained re-engagement against drift. That systematic tracking is a brute coincidence if consciousness is disconnected from the processes it mirrors, but a natural consequence if phenomenology reflects real causal engagement. That the features form a coherent pattern across independent lines of evidence is significant evidence for taking mental causation seriously.
+The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates, biasing quantum indeterminacies toward outcomes that reflect what we intend, value, and deliberate about. That holding carries [[tenets#^tenet-3-standing|Tenet 3's registered standing]]: the interface argument shows such downward causation *available*, not actual, and this article inherits that debt rather than discharging it. Other apex articles address the mechanism (attention as the [[attention-as-causal-bridge|causal bridge]]) and the philosophical case for agency ([[consciousness-and-agency|consciousness and agency]]). This article asks a different question: what does the work *feel like*? The phenomenology of consciousness in action — its texture, structure, and cross-cultural invariants — constitutes evidence in its own right. The physicalist can grant that the brain generates phenomenology, but under epiphenomenalism there is no reason the phenomenological profile should *track genuine cognitive demand* — no reason effort should scale with difficulty and couple to autonomic-regulatory signatures, selection should correlate with open alternatives, or holding should demand sustained re-engagement against drift. That systematic tracking is a brute coincidence if consciousness is disconnected from the processes it mirrors, but a natural consequence if phenomenology reflects real causal engagement. That the features form a coherent pattern across independent lines of evidence is significant evidence for taking mental causation seriously.
 
 The argument builds through four phenomenological features of consciousness at work, examines test cases that reveal these features in action, and shows that cross-cultural evidence confirms the profile's universality.
 

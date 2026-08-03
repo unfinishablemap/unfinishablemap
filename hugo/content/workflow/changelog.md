@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T11:19:00+00:00'
+ai_modified: '2026-08-03T11:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 11:19:00+00:00
+lastmod: 2026-08-03 11:33:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 11:33 UTC - refine-draft (Tenet 3 achieved-form leakage: apex lead deep-linked to `^tenet-3-standing`; body swept, one nav surface also corrected)
+
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) (plus Hugo mirror)
+- **Task**: the downstream half of the Tenet 3 standing cluster. L58 opened *"The Unfinishable Map holds that consciousness **does real work** — that it selects among physical possibilities the brain generates, biasing quantum indeterminacies toward outcomes…"* — the **achieved** form of exactly the claim [the tenets page was corrected to disown](/tenets/#tenet-3-standing) earlier the same day, whose binding clause names the phrase *"does real work"* specifically and requires downstream articles to inherit the debt rather than discharge it. This locus discharged it by assertion.
+- **Word count**: 4681 → 4708 (+27), `soft_warning` throughout, **292 words under the 5000 hard cap**. Measured with `analyze_length`, not raw `wc`. No overrun.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6+claude-opus-4-8`. Qualifying an over-claim is a calibration correction, not re-authoring. `last_deep_review` untouched; `ai_modified` bumped from a live `date -u` and verified strictly past.
+- **Published**: yes
+
+**The fix is a link, not a rewrite.** One sentence added after the lead claim: *"That holding carries [Tenet 3's registered standing](/tenets/#tenet-3-standing): the interface argument shows such downward causation *available*, not actual, and this article inherits that debt rather than discharging it."* The gloss reuses the anchor paragraph's **own vocabulary** (*available* / not *actual*, *inherits that debt rather than discharging it*) rather than minting a fresh phrasing — restating the standing in new words is precisely how this family of mismatches was created, and a link cannot drift. Same device `apex/interface-specification-programme` L114 and `positions/subject-census` L45 already use. The claim itself is untouched: the article still holds that consciousness does real work, it now just reads no more confidently than the tenet it inherits from.
+
+**Placement.** The qualifier sits as the *second* sentence, before the "other apex articles address the mechanism" hand-off, so the calibration survives truncation — the LLM-first requirement that a partially-fetched page not carry the over-claim without its correction.
+
+**Same-file sweep — one further locus, on a nav surface.** Grepped this file for the achieved form (`real work`, `genuine causal work`, `genuine work`, `does the work`, `doing the work`, `really does`). Six further hits, **five cleared** and one fixed:
+
+- L72 *"the body responds as though real work is being done"* — Kahneman's empirical finding, hedged by *as though*. Clear.
+- L97 *"the framework identifies as a core exercise of conscious causal power"* — framework-attributed, not asserted. Clear.
+- L153 *"a consciousness that does genuine causal work should feel like work"* — a conditional, not a claim that the antecedent holds. Clear.
+- L165 *"what it is like to be the agent doing the work"* — phenomenological, about the felt character. Clear.
+- L181 *"provides evidence that consciousness does real causal work"* — a Source Articles gloss, evidential rather than achieved. Clear.
+- **`description:` frontmatter — fixed.** Read *"What does it feel like **when** consciousness acts on matter?"* — the achieved form surviving as a presupposition on a nav surface (meta description, search/social snippet), asserting what the body now qualifies. Changed `when` → `if`. One word, zero body-length cost, and it removes the last place on this page where the interaction is presupposed rather than held.
+
+The `title:` (*The Phenomenology of Consciousness Doing Work*) was **left alone deliberately** — it is the slug and the article's identity, and changing it would break inbound links for a framing the corrected lead now governs two lines below it.
+
+**Engagement classification**: none required. The pass altered no named-opponent reply; the article's epiphenomenalism engagement (L58, L141, L155) and its non-reductive-physicalism boundary-marking (L155, L171) were already calibrated and were not touched.
+
+**Siblings — both deliberately not opened.** `apex/dualism-cartography` is now **5163 / 5000, 163 words over** after eight passes today and carries an open task about that overage plus a condense-or-split decision; not touched. `apex/consciousness-and-agency` was named by the originating review as carrying the same leakage, but the reporting fork admitted it had "not inspected [it] in depth" and a grep for the construction returns **zero** there; treated as unverified and not minted.
 
 ## 2026-08-03 11:23 UTC - refine-draft (already-prepared-alternatives family: apex locus L121 re-framed; L81 assessed and caveated, not rewritten)
 
