@@ -2199,19 +2199,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-03
 - **Notes**: **THE DOC INSTRUCTS A DATA-LOSS EDIT.** SKILL.md tells the combine pass to rename a task's `Review file:` line to the plural **`Review files:`** when a task is convergent across reviewers. **`tools/todo/processor.py:153` matches the singular literal**, and `tools/evolution/task_selector.py:214` feeds that value into the dispatched task args. Renaming the field therefore does not merely change a label — it makes the review provenance invisible to the parser and drops it from what the executing fork receives. **A "rename this field" instruction is a parser change in disguise**, and nothing in the doc says so. **This has bitten before**; it is a recurring trap, not a one-off. **Driver-verified after tonight's run: `grep -c "Review files:" obsidian/workflow/todo.md` = 0** — the 2026-08-03 combine fork spotted the hazard on its own and used an added **`Convergent with:`** line instead, which conveys the same information without touching a parsed field. **THE DECISION:** (a) **correct the SKILL.md to specify the additive `Convergent with:` line** — smallest fix, matches what actually shipped tonight, no code change; (b) keep the rename and **teach both readers the plural**, accepting a code change plus a migration for any tasks already carrying it; (c) drop the convergence annotation from the task body entirely and let the synthesis file be the only record. **(a) is the obvious answer unless you want convergence machine-readable off the task line.** **DO NOT let a content-refine fork edit the SKILL.md** — that is why `File` points at the changelog. **Companion entries**: the same-day NEEDS-HUMAN items on the three commission skills. That set was about stale UI selectors; this one is different in kind and worse — the instruction is not merely obsolete, it is actively harmful, and it fails silently rather than bailing.
 
-### P2: a research note credits Chalmers and McQueen with a five-constraints list their paper does not contain
-
-- **Type**: refine-draft
-- **File**: obsidian/research/chalmers-psychophysical-laws-2026-01-17.md
-- **Status**: pending
-- **Source**: driver, 2026-08-03 (found during the P-Q3 stance-qualifier pass, which fetched the primary text)
-- **Generated**: 2026-08-03
-- **Notes**: **VERIFIED AGAINST THE PRIMARY TEXT, not inferred.** `obsidian/research/chalmers-psychophysical-laws-2026-01-17.md` **L112** states "Chalmers and McQueen identify five constraints:". The 2026-08-03 pass extracted the full text of **arXiv:2105.02314** (23,069 words) and grep-checked it: `constraint` returns only four unrelated hits and **no numbered framework**. This is the **Saad-vs-Chalmers misattribution already named in the refine-draft skill's own checklist**, still live in a note.
-
-  **SCOPE IS THE NOTE, NOT A FAMILY — driver checked before you do.** "five constraints" appears in ten live articles, but they use the framework **without** crediting Chalmers and McQueen — the phrasings are neutral ("a coupling map satisfying five constraints", "quantum foundations impose five constraints", "any control law must satisfy five constraints"), and `topics/psychophysical-laws-bridging-mind-and-matter` credits a *2025* work. **Do not sweep the ten.** Re-verify that reading yourself, then fix the note's attribution and stop.
-
-  **WHY IT MATTERS DESPITE BEING ONE LINE**: research notes are published content that no metadata review reads, and articles inherit their attributions wholesale — the same channel that produced a fabricated quotation caught on 2026-08-03. Correct the attribution to whoever actually advances the list (check Saad), or de-attribute it; do not delete the substance if the constraints themselves are real.
-
 ### P3: the physicalist-rivals cluster is a zero-edge graph and cites zero positions or disciplines — against a corpus baseline of 199/799
 - **Type**: refine-draft
 - **File**: obsidian/arguments/functionalism-argument.md
@@ -2277,6 +2264,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: a research note credits Chalmers and McQueen with a five-constraints list their paper does not contain
+- **Type**: refine-draft
+- **File**: obsidian/research/chalmers-psychophysical-laws-2026-01-17.md
+- **Notes**: **VERIFIED AGAINST THE PRIMARY TEXT, not inferred.** `obsidian/research/chalmers-psychophysical-laws-2026-01-17.md` **L112** states "Chalmers and McQueen identify five constraints:". The 2026-08-03 pass extracted the full text of **arXiv:2105.02314** (23,069 words) and grep-checked it: `constraint` returns only four unrelated hits and **no numbered framework**. This is the **Saad-vs-Chalmers misattribution already named in the refine-draft skill's own checklist**, still live in a note.
+  **SCOPE IS THE NOTE, NOT A FAMILY — driver checked before you do.** "five constraints" appears in ten live articles, but they use the framework **without** crediting Chalmers and McQueen — the phrasings are neutral ("a coupling map satisfying five constraints", "quantum foundations impose five constraints", "any control law must satisfy five constraints"), and `topics/psychophysical-laws-bridging-mind-and-matter` credits a *2025* work. **Do not sweep the ten.** Re-verify that reading yourself, then fix the note's attribution and stop.
+  **WHY IT MATTERS DESPITE BEING ONE LINE**: research notes are published content that no metadata review reads, and articles inherit their attributions wholesale — the same channel that produced a fabricated quotation caught on 2026-08-03. Correct the attribution to whoever actually advances the list (check Saad), or de-attribute it; do not delete the substance if the constraints themselves are real.
 
 ### ✓ 2026-08-03: seven archive articles state the ape 2±1 working-memory figure with no citation — enumerate and fix, ALL loci listed
 - **Type**: refine-draft

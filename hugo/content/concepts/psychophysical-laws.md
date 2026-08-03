@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-02 18:16:48+00:00
+ai_modified: 2026-08-03 16:25:50+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-08-02 18:16:48+00:00
+lastmod: 2026-08-03 16:25:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 Chalmers and McQueen (2022) develop quantum psychophysical laws combining IIT with collapse theory. Their key innovation—the *super-resistance principle*—holds that consciousness resists superposition: systems with high integrated information don't remain in superpositions of distinct conscious states.
 
-They identify five constraints any dualist law must satisfy: (1) experiences must cause physical effects, (2) no observable violations of causal closure, (3) avoid overdetermination, (4) specify how physical states yield experiences, (5) functional duplication preserves phenomenology. The quantum framework addresses (1) and (2) elegantly: consciousness causes collapse without violating closure, since collapse is physically underdetermined.
+Bradford Saad (2025) identifies five constraints any dualist law must satisfy: (1) experiences must cause physical effects, (2) no observable violations of causal closure, (3) avoid overdetermination, (4) specify how physical states yield experiences, (5) functional duplication preserves phenomenology. Saad's own answer is delegatory dualism ([delegatory-causation](/concepts/delegatory-causation/)); pairing his constraints with the collapse proposal is the Map's evaluation, not a claim either party makes. The quantum framework addresses (1) and (2) elegantly: consciousness causes collapse without violating closure, since collapse is physically underdetermined.
 
 ## Where the Map Diverges
 
@@ -121,11 +121,11 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 **Rejection of Organizational Invariance**: Substrate matters—not because silicon can't be conscious, but because particular physical instantiation may affect phenomenal character in ways functional description misses.
 
-**Bandwidth Constraints**: The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025). This bottleneck—five million times slower than sensory input—reflects evolutionary logic: the brain focuses selectively on what matters rather than processing everything at once. Selection is coarse-grained—action patterns, not individual neurons—matching deliberate decision-making phenomenology at ~3-4 choices/second.
+**Bandwidth Constraints**: The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025). The bottleneck reflects evolutionary logic: the brain focuses selectively rather than processing everything at once, making selection coarse-grained enough to match deliberate decision-making phenomenology at ~3-4 choices/second.
 
 ## The Coupling Problem
 
-Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. Psychophysical coupling — the lawful relationship between conscious states and physical processes — names the bridge that any adequate theory must provide. This is the modern form of [Princess Elisabeth's challenge](/topics/history-of-the-interaction-problem/) to Descartes: how can something non-physical causally relate to something physical? The relationship cannot be identity (materialist reduction), because the [hard problem](/topics/hard-problem-of-consciousness/) shows phenomenal properties resist identification with physical properties. It cannot be mere coincidence, because the correlations are lawful and stable. So coupling must be a *sui generis* lawful relationship — a fundamental feature of reality that connects two irreducible domains.
+Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. Specifying the coupling is the modern form of [Princess Elisabeth's challenge](/topics/history-of-the-interaction-problem/) to Descartes: how can something non-physical causally relate to something physical? The relationship cannot be identity (materialist reduction), because the [hard problem](/topics/hard-problem-of-consciousness/) shows phenomenal properties resist identification with physical properties. It cannot be mere coincidence, because the correlations are lawful and stable. So coupling must be a *sui generis* lawful relationship — a fundamental feature of reality that connects two irreducible domains.
 
 A psychophysical coupling law would specify:
 
@@ -148,7 +148,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — five million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) develops this constraint in detail.
 
-**Scope restriction.** Coupling appears limited to the subject's own brain. You cannot select quantum outcomes in someone else's neural system or in external physical apparatus. This follows from coupling operating through attention, which is neurally implemented and first-personal.
+**Scope restriction.** Coupling appears limited to the subject's own brain: you cannot select quantum outcomes in another's neural system or in external apparatus, because attention is neurally implemented and first-personal.
 
 **Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The [basis control mode](/concepts/coupling-modes/) favoured by the Map preserves Born statistics, making coupling consistent with all precision experiments to date. Timing control preserves them per measurement, but whether Zeno-style modulation of observation rate leaves *ensemble* statistics untouched is unsettled — the [corridor taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy) files Stapp's quantum Zeno on the Born-rule-bending side.
 
@@ -206,7 +206,7 @@ A coupling law must specify exclusions—what consciousness cannot select:
 - Events outside attention scope
 - Information beyond bandwidth limit (~10 bits/second)
 
-Selection operates through attention, which is neurally implemented. The brain specialness problem resolves: selection is brain-local because attention is brain-local. The [brain-specialness boundary](/topics/brain-specialness-boundary/) is the scope-restriction application of this coupling law—why the law reaches the subject's own brain but not external systems or other minds.
+The brain specialness problem resolves: selection is brain-local because attention is brain-local. The [brain-specialness boundary](/topics/brain-specialness-boundary/) is the scope-restriction application of this coupling law—why the law reaches the subject's own brain but not external systems or other minds.
 
 ## The Decoherence Challenge
 
@@ -288,10 +288,11 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
 8. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
 9. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
-10. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
-11. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-12. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
-13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-14. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-15. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-16. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
+10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies* 182(3), 939-967. doi:10.1007/s11098-025-02290-3.
+11. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
+12. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+13. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
+14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+15. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+16. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+17. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
