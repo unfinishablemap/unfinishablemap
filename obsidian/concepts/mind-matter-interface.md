@@ -4,7 +4,7 @@ description: "A two-layer architecture unifying filter theory and quantum select
 created: 2026-01-16
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-08-03T14:59:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ A critical objection to Layer 2: [[decoherence]] destroys quantum coherence in w
 
 [[illusionism]] poses a different challenge: if phenomenal consciousness is an introspective illusion, the entire two-layer model collapses—no independent consciousness to filter, nothing genuinely phenomenal to select for.
 
-The model responds on three fronts. First, illusionism faces a regress: seeming to have experience is itself phenomenal—as Tallis argues, illusions presuppose experience. Second, if consciousness were merely neural illusion, reduced brain activity should produce reduced phenomenology, but psychedelic and NDE evidence suggests the opposite (though this evidence admits alternative interpretations). Third, even granting illusionism, something must still determine which quantum possibilities become actual—the explanatory role for selection remains regardless of what we call the selecting principle.
+The model responds on three fronts, and they are not of equal strength. The first is the standard reply, Tallis's regress (2011)—illusions presuppose experience, so seeming to have experience would itself be phenomenal. But the bare regress assumes exactly that, which is precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of what the two-layer model filters for the question of why a self-model *represents* there as being something filtered—and neither side closes the case against the other inside the rival's framework. The second and third fronts survive independently of the regress and carry the weight. If consciousness were merely neural illusion, reduced brain activity should produce reduced phenomenology, but psychedelic and NDE evidence suggests the opposite (though this evidence admits alternative interpretations). And even granting illusionism, something must still determine which quantum possibilities become actual—the explanatory role for selection remains regardless of what we call the selecting principle.
 
 ## Objections and Responses
 

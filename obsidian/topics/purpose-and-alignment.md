@@ -4,7 +4,7 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-08-02T21:25:27+00:00
+ai_modified: 2026-08-03T14:59:05+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -112,9 +112,9 @@ Research on [[emotion-and-dualism|core affect]] adds nuance: humans are never af
 
 ### The Regress Response
 
-The illusionist challenge faces a fundamental problem: the experience of *seeming* to have preferences, *seeming* to suffer, *seeming* to find meaning must itself appear *to* something. Raymond Tallis's point applies: illusions presuppose experience. To be under an illusion of experiential quality, something must be experiencing that illusion. The appearance of the inadequacy of preferences—the recognition that someone could satisfy all preferences and still live a hollow life—is itself experiential data that illusionism claims doesn't exist.
+The standard reply is Tallis's regress (2011)—illusions presuppose experience, so the *seeming* to have preferences, to suffer, to find meaning must itself appear *to* something. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why experiential quality is what alignment must target for the question of why a self-model *represents* it as what alignment must target, and that trade earns its keep only if the second question is tractable where the first was not. Neither side closes the case against the other inside the rival's framework; the claim that the regress terminates in *genuine* experience already assumes phenomenal realism, so it cannot defeat illusionism from within.
 
-The regress terminates in genuine experience. Either the seeming of preference-inadequacy is phenomenal (in which case phenomenal states exist and matter) or it isn't (in which case the illusionist cannot explain why preferentism *seems* insufficient to those reflecting on it).
+What survives independently of the regress is narrower: the recognition that someone could satisfy all preferences and still live a hollow life is something the illusionist owes an account of, whether or not that recognition is phenomenal. The decision-relevant work is carried by the practical asymmetry below, not by the regress. [[experiential-alignment]] develops the same assessment at concept level.
 
 ### The Practical Asymmetry
 

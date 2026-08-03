@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Estimate their total
 created: 2026-01-16
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T12:19:00+00:00
+ai_modified: 2026-08-03T14:59:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ The evidence is asymmetric. Every dissolution proves a specific limit was appare
 
 [[illusionism|Illusionists]] like Frankish and Dennett pose a more radical challenge: the question may be malformed because it presupposes phenomenal consciousness that doesn't exist. If consciousness is an introspective illusion, the voids question dissolves into one about representation alone.
 
-Three responses preserve the framework. **Regress**: something must experience the illusion—Tallis calls illusionism "self-stultifying." **Structural persistence**: even granting illusionism, any system assessing its own representational limits faces the same self-referential problem. **Illusionism-as-symptom**: denying the phenomenon might itself be what cognitive closure looks like from inside. The illusionist challenge relocates the meta-question rather than dissolving it.
+Three responses are usually offered, and the first is the weakest. **Regress**: the standard reply is Tallis's (2011), that something must experience the illusion, which he takes to make illusionism self-stultifying. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). Neither side closes the case against the other inside the rival's framework. **Structural persistence**: even granting illusionism, any system assessing its own representational limits faces the same self-referential problem—and this holds without assuming phenomenal realism, which is why it does the work the regress cannot. **Illusionism-as-symptom**: denying the phenomenon might itself be what cognitive closure looks like from inside, though this is a diagnosis rather than an argument and should not be mistaken for one. The substantive point is the relocation move: the illusionist challenge relocates the meta-question rather than dissolving it.
 
 ## Could Limits Be Designed?
 

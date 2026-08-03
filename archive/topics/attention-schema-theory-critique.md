@@ -1,10 +1,10 @@
 ---
-title: "Why Attention Schema Theory Fails"
-description: "Graziano's theory explains reports about consciousness but not consciousness itself. The seeming of experience requires a subject—models don't experience."
+title: "Attention Schema Theory and the Step It Has Not Earned"
+description: "Graziano's AST explains reports about consciousness but not consciousness itself: the step from representing phenomenality to instantiating it is asserted."
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-30T15:14:45+00:00
+ai_modified: 2026-08-03T14:59:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ archive_reason: "Coalesced into Attention and the Consciousness Interface"
 original_path: "/topics/attention-schema-theory-critique/"
 ---
 
-Michael Graziano's Attention Schema Theory (AST) proposes that consciousness is the brain's simplified model of its own attention. The theory gains plausibility from a genuine insight: the brain does construct internal models to help manage complex processes. But AST fails where it matters most. It explains why we *report* being conscious without explaining why there is anything it is like to be us. The seeming of experience must appear *to something*, and that something cannot be another model without infinite regress. AST dissolves the hard problem by refusing to address it.
+Michael Graziano's Attention Schema Theory (AST) proposes that consciousness is the brain's simplified model of its own attention. The theory gains plausibility from a genuine insight: the brain does construct internal models to help manage complex processes. But AST leaves the work undone where it matters most. It explains why we *report* being conscious without explaining why there is anything it is like to be us. The regress reply—that the seeming of experience must appear *to something*, and that something cannot be another model without regress—assumes the seeming is itself phenomenal, which is precisely what illusionists deny, so it does not by itself close the case. What AST has not earned by its own mechanistic standard is the step from *representing* attention as phenomenal to attention *being* phenomenal. Neither side closes the case against the other inside the rival's framework; see the successor article for the settled treatment.
 
 This article develops The Unfinishable Map's critique of AST, building on the [[attention-schema-theory|concept article]] that introduces the theory. The critique is not that AST is wrong about attention—attention schemas may well exist and serve useful control functions. The critique is that consciousness is something over and above what AST describes.
 
