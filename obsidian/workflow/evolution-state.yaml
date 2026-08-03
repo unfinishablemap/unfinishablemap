@@ -880,22 +880,25 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 5
-  p3_tasks: 27
+  p3_tasks: 24
   needs_replenishment: false
   loop_pickable_open: 5
-  last_replenishment: '2026-08-02T03:40:00+00:00'
-  last_replenishment_prev: '2026-08-02T01:52:00+00:00'
-  last_replenishment_run: 925
-  last_replenishment_mode: zero-mint-triple-promotion-plus-one-superseded-close
+  last_replenishment: '2026-08-03T14:32:00+00:00'
+  last_replenishment_prev: '2026-08-02T03:40:00+00:00'
+  last_replenishment_run: 926
+  last_replenishment_mode: zero-mint-triple-promotion
   replenishment_source_counts:
-    lens_divergent_verbatim_quote: 0
-    orphan_integration: 0
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
     length_analysis: 0
     staleness: 0
-    unconsumed_research: 0
+    orphan_integration: 0
+    positions_register_gap: 0
+    applied_apex_gap: 0
   relocated_starved_p2: 0
   promoted_p3_to_p2: 3
-  superseded_tasks_closed: 1
+  superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
   run_925_note: "run no.925 (2026-08-02T03:40Z, cycle-driven /replenish-queue): ZERO\
@@ -1136,164 +1139,91 @@ queue_status:
     live immediately before and after. REVERT only if a sibling replenish double-restores
 
     this slot. Pruned run_921_note to hold the note ring at three.'
-  run_923_note: 'run no.923 (2026-08-02T01:04Z, cycle-driven /replenish-queue): MINTED
-    TWO P2 TASKS
-
-    FROM A DIVERGENT-CITATION-YEAR LENS. Floor restored 2 -> 4.
-
-
-    COUNTS re-derived live via tools.todo.processor.parse_tasks and
-
-    tools.evolution.task_selector.select_queue_task.
-
-    BEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27 P3 against MIN_QUEUE 3 -- BELOW the floor.
-
-    AFTER: 31 active, 0 P0, 0 P1, 4 P2, 27 P3. The pair that drained since run 922
-    was
-
-    run 921s (skill-delegation refine, commit 0b1bdf9aa; qualia recalibration, commit
-
-    1b4a4f7a7); BOTH of run 922s P2s are still open at lines 2044 and 2062, notes
-    6527
-
-    and 7969 chars, byte-identical post-write. Bottom-inserted at 2079 and 2103 so
-    FIFO
-
-    drains run 922s pair first and no existing anchor shifted (verified: both pre-existing
-
-    P2 headers still at their prior line numbers).
-
-
-    THE LENS -- SAME WORK, DIVERGENT YEAR, ACROSS FILES. Sibling of run 922s page-range
-
-    lens, same mechanics on a different field: extract every reference-style line
-    carrying
-
-    (Author, Year) plus a quoted-or-italicised title across obsidian/ and archive/,
-    key by
-
-    (surname, first three non-stopword title words), report keys carrying more than
-    one
-
-    distinct year. 4588 keys, 90 divergent-year families.
-
-
-    THE DOMINANT FALSE-POSITIVE CLASS IS EDITIONS AND TRANSLATIONS -- RECORD IT, it
-    is
-
-    most of the 90. Legitimate divergences seen: Husserl 1928/1991 (Brough trans.),
-
-    Bergson 1889/1910 (Pogson trans.), Merleau-Ponty 1945/1962, Wittgenstein 1921/1922
-
-    (Ogden trans.), Stapp Mindful Universe 2007/2011 (1st/2nd ed.), Kastner 2012/2022
-
-    (1st/2nd ed.), Gallagher and Zahavi 2012/2020 (2nd/3rd ed.), Strawson 1994/2010,
-
-    Locke 1689/1690 (title-page date). FILTERING ON AN EDITION MARKER IN THE LINE
-    IS NOT
-
-    SUFFICIENT -- most loci carry a bare "(YEAR). Publisher." with no marker at all.
-    The
-
-    discriminating question is whether the two years denote DIFFERENT PUBLICATION
-    EVENTS
-
-    of the same work (legitimate) or the SAME event dated two ways (defect). One key
-
-    collision also surfaced: Bayne and Chalmers 2003 "What is the unity of consciousness?"
-
-    collided with Bayne 2010 "The Unity of Consciousness" -- genuinely different works.
-
-
-    WHAT SURVIVED, AND WHY THESE TWO.
-
-    (1) KRIPKE -- the defect is a TUPLE, not a year: "1972" + "Harvard University
-    Press"
-
-    pairs the Reidel chapter''s year with the standalone book''s publisher. Already
-    diagnosed
-
-    and fixed in exactly ONE file by deep-review-2026-07-17 (L34) and never propagated;
-
-    deep-review-2026-05-27 (L35) had spotted the corpus-wide divergence, correctly
-    ruled it
-
-    bibliographic ambiguity, and concluded "No fix; no propagation needed" -- right
-    about the
-
-    divergence, wrong about the tuple, because it was inspecting a file that already
-    read
-
-    1980 + Harvard. Five broken loci remain across live/archive/research, plus one
-    ratifying
-
-    review ledger (deep-review-2026-06-26-dualism L56, "real-correct (canon)"). No
-    web call
-
-    needed: the canonical dual form is live at concepts/kripke-a-posteriori-necessity-argument.md
-
-    L78-79 and web-verified in the 07-12 research note.
-
-    (2) CHALMERS "Phenomenal Concepts and the Explanatory Gap" -- 9 live loci split
-    4x 2006 /
-
-    5x 2007 on an IDENTICAL venue string, and THE CORPUS HAS RATIFIED BOTH:
-
-    deep-review-2026-05-31-phenomenal-acquaintance L33 moved a file 2006->2007 "for
-    cross-corpus
-
-    consistency"; deep-review-2026-07-31-phenomenal-consciousness L40 refused the
-    same move,
-
-    called it "a false fix", and named the mechanism (print volume vs Oxford Scholarship
-    Online
-
-    edition date). The task is scoped to SETTLE THE CONVENTION and record it inside
-    the canonical
-
-    reference entry, NOT to pick a year -- a year-only sweep is what produced the
-    oscillation.
-
-
-    CANDIDATE REJECTED AS A DUPLICATE -- O''Brien-Kop 2023/2024, 9 loci, and the cleanest-looking
-
-    family in the whole scan (identical volume/issue/pages under two different years).
-    An open P3
-
-    at line 2012 already owns the last two loci with fuller detail than this run would
-    have
-
-    written. Grepping the author surname against open task NOTES, not just task TITLES,
-    is what
-
-    caught it -- the title says only "O''Brien-Kop citation".
-
-
-    SOURCES THAT YIELDED NOTHING THIS RUN: orphan_integration 0 (quality.orphaned_files
-    is 0);
-
-    length_analysis -- the only live over-threshold content is positions registers
-    (condensing a
-
-    register is a category error) and epistemology-of-convergence-arguments, explicitly
-    vetoed as
-
-    churn-prone; unconsumed_research and gap_analysis -- topics 318/320 and concepts
-    318/320 leave
-
-    two slots each and voids is at cap 100/100, so expand-topic is effectively blocked;
-    staleness
-
-    -- deep-review pool converged.
-
-
-    CONCURRENCY: sibling agents "main" and "coalesce" were active in-session. git
-    status and a
-
-    live re-parse were taken immediately before the write; only todo.md and this file
-    were dirty.
-
-    REVERT only if a sibling replenish double-restores this slot. Pruned run_920_note
-    to hold the
-
-    note ring at three.'
+  run_926_note: "run no.926 (2026-08-03T14:32Z, cycle-driven /replenish-queue): ZERO\
+    \ MINTS.\nFloor restored 2 -> 5 by PROMOTING THREE P3s ON MERIT. Second consecutive\n\
+    zero-mint run; the reasoning is re-derived below from live measurement, not\n\
+    inherited from run 925.\n\nCOUNTS re-derived live via tools.evolution.task_selector.count_p0_p2_tasks\n\
+    and parse_tasks, never from this file.\nBEFORE: 29 active, 0 P0, 0 P1, 2 P2, 27\
+    \ P3 against MIN_QUEUE 3 -- below floor.\nAFTER:  29 active, 0 P0, 0 P1, 5 P2,\
+    \ 24 P3.\nThe three P2s that drained since run 925 were exactly run 925's own\
+    \ three\npromotions (topics-empty taxonomy sweep, psychophysical-laws nav label,\n\
+    metacognition 2 plus or minus 1 tail). The two survivors are run 924's pair,\n\
+    still open at lines 2225 and 2252.\n\nWHY ZERO MINTS AGAIN -- ALL EIGHT SOURCES\
+    \ RE-MEASURED LIVE THIS RUN.\n(1 chain / 2 unconsumed-research) CAP-BLOCKED. Live\
+    \ counts excluding section\nindex files: topics 318/320, concepts 317/320, voids\
+    \ 100/100, positions 13/80.\nTwo topic slots and three concept slots remain against\
+    \ 529 research notes, so\nslot allocation is a curation decision rather than a\
+    \ floor-restore one. One\nexpand-topic is ALREADY QUEUED at line 1979 (inner speech\
+    \ and anendophasia)\nand was deliberately NOT promoted for this reason -- see\
+    \ the declined\ncandidate below.\n(3 gap analysis) Same cap block.\n(4 staleness)\
+    \ CONVERGED, verified rather than inherited: tools.curate.\ndeep_review.get_review_candidates\
+    \ returns 158 candidates whose top entry sits\nat 18 days since review and whose\
+    \ deepest in the top twelve is 25 days, so\nNOTHING crosses the skill's 30-day\
+    \ staleness bar. The cycle's four deep-review\nslots per 24 already drain this\
+    \ pool; minting against it would double-book it.\n(5 orphan_integration) quality.orphaned_files\
+    \ is 0.\n(6 length_analysis) EXHAUSTED, AND THE REASON IS A VETO, NOT AN ABSENCE.\
+    \ The\nraw get_length_warnings call returns 100 hard-plus entries, of which 53\
+    \ are\nlive content. That number looks like abundant supply and is not. The head\
+    \ of\nthe live-content list is dominated by the known false-over-length band\n\
+    (reference apparatus inflating totals; many topics files sit at 4000-4100\nagainst\
+    \ a 4000 hard threshold), and CRUCIALLY the three worst genuine\noffenders are\
+    \ ALREADY VETOED P2s, parsed as such at lines 704, 1344 and 1352:\nconcepts/composition-question-rivals\
+    \ (4106w), topics/meaning-of-life (4160w)\nand apex/phenomenal-output-causal-machinery-dissociation\
+    \ (6904w, the only\nlive-content CRITICAL in the corpus). topics/epistemology-of-convergence-\n\
+    arguments (5743w) is separately recorded as churn-prone. Minting any of these\n\
+    would have violated the skill's never-regenerate-a-vetoed-task rule. The\nremaining\
+    \ registers (positions/*, apex/apex-articles) are a category error to\ncondense.\n\
+    (7 positions) 13 entries; four positions-evolve tasks are already open in the\n\
+    backlog, so the register is not starved.\n(8 applied apex gap) Two apex-evolve\
+    \ tasks already open at lines 1958 and 2073.\n\nTHE QUEUE IS NOT THIN, IT IS BADLY\
+    \ SORTED. 27 P3s sat unpicked while the\nMIN_QUEUE floor, which counts only P0-P2,\
+    \ read empty. Note also that the\nbacklog IS being fed -- today's optimistic-review\
+    \ minted two P3s and the\ndriver minted one -- so replenish's job here is floor\
+    \ restoration, and\npromotion is the correct instrument for that.\n\nTHE THREE\
+    \ PROMOTIONS, each VERIFIED ON DISK BEFORE PROMOTING (an asserted\ndefect is often\
+    \ false, so none of these was taken on the task note's word):\n- line 2001, concepts/parfit-reductionism\
+    \ L95. Confirmed verbatim on disk: the\n  bare illusionist regress is run as decisive.\
+    \ The settled replacement wording\n  is live at concepts/haecceity.md L157 and\
+    \ can be inherited rather than\n  composed, so this is ready to execute with no\
+    \ web budget. Closes the\n  string-sibling tail of a family already fixed in haecceity.\n\
+    - line 2019, the ape 2 plus or minus 1 working-memory census. Six of the\n  enumerated\
+    \ archive loci were opened and confirmed to carry the bare figure;\n  archive/apex/ground-of-meaning.md\
+    \ returns zero mentions of the author name\n  at either locus. archive/ holds\
+    \ full serving bodies, so these are live at\n  their published URLs. Citation\
+    \ is in hand (Read, Manrique and Walker 2022),\n  no web call needed. Direct continuation\
+    \ of the family whose metacognition\n  tail run 925 promoted and which has since\
+    \ drained.\n- line 2194, the Chalmers and McQueen five-constraints misattribution.\n\
+    \  Confirmed present at L112 of the research note with its numbered five-item\n\
+    \  list. Research notes are published content that no metadata review reads and\n\
+    \  that articles inherit attributions from wholesale, which is why a one-line\n\
+    \  fix earns P2. The task is correctly scoped to the note alone and explicitly\n\
+    \  forbids sweeping the ten neutral uses.\n\nDECLINED PROMOTION, RECORDED SO THE\
+    \ NEXT RUN DOES NOT RE-CHASE IT: line 1979,\nexpand-topic on inner speech and\
+    \ anendophasia. It is the single highest\nsource-bonus class in the skill's own\
+    \ scoring (unconsumed_research, +60) and\nit is genuinely well-motivated. It was\
+    \ left at P3 anyway because topics/ has\nonly TWO slots left before its 320 cap,\
+    \ and spending one of the last two on an\nautomatic floor-restore is an operator-shaped\
+    \ decision, not a replenish one.\nNote the task's own note says topics is at \"\
+    ~273\", which is stale text copied\nfrom CLAUDE.md -- the live count is 318. Whoever\
+    \ picks it should re-read the\ncap before creating.\nALSO NOT PROMOTED: line 2011\
+    \ (eastern-philosophy-consciousness) is the\ntriage-first sibling of the parfit\
+    \ regress fix and should stay behind it, since\nline 2001 settles the pattern\
+    \ it must be judged against. Line 2217 (positions\nregister Argued-in additions)\
+    \ is sound and additive, but it and line 2208 came\nfrom the same optimistic review\
+    \ on the same day, and promoting both would\nrecreate the same-review task pileup.\n\
+    \nANTI-LIFO. The selector sorts by (priority, line_number), so all three\npromotions\
+    \ are picked before run 924's surviving pair at 2225 and 2252. Two of\nthe three\
+    \ were generated 2026-08-02, the same day as that pair; only the\nChalmers note\
+    \ is newer (2026-08-03) and it was promoted on defect severity.\nThe surviving\
+    \ pair is third in line, not starved.\n\nZERO LINE SHIFT, deliberately. todo.md\
+    \ is 18085 lines before and after; the\ndiff is 3 insertions and 3 deletions,\
+    \ all of them one-character P3-to-P2\nheader edits. No task block moved and no\
+    \ anchor shifted, so any in-flight\ncycle_post line reference stays valid.\n\n\
+    VERIFIED AFTER THE WRITE: count_p0_p2_tasks returns 5; select_queue_task\nreturns\
+    \ line 2001, the parfit regress fix.\n\nCONCURRENCY: sibling agents \"main\" and\
+    \ \"coalesce\" were active in-session.\ngit status was empty and HEAD was c6defa95b\
+    \ immediately before the write;\npgrep found no evolve_loop.py process. The queue\
+    \ was re-parsed live\nimmediately before and after. Note concepts moved 318 ->\
+    \ 317 during the\nsession, consistent with the coalesce sibling archiving one\
+    \ file; this does\nnot affect any conclusion above. REVERT only if a sibling replenish\
+    \ also\nrestores this slot.\n\nPruned run_923_note to hold the note ring at three.\n"

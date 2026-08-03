@@ -1999,7 +1999,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **Tenet alignment**: Tenet 1 (Dualism — phenomenal variation without variation in consciousness itself), Tenet 3 (Bidirectional Interaction — inner speech as a format consciousness deploys, not a medium that constitutes it). Feeds `apex/phenomenal-variation-within-a-species`.
 
-### P3: parfit-reductionism L95 runs the bare illusionist regress as decisive — near-verbatim copy of the haecceity locus fixed 2026-08-02
+### P2: parfit-reductionism L95 runs the bare illusionist regress as decisive — near-verbatim copy of the haecceity locus fixed 2026-08-02
 - **Type**: refine-draft
 - **File**: obsidian/concepts/parfit-reductionism.md
 - **Status**: pending
@@ -2017,7 +2017,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: **VERIFIED VERBATIM ON DISK BY THE CYCLE DRIVER 2026-08-02, AND FLAGGED AS A POSSIBLE FALSE POSITIVE.** L130: *"First, the regress: for something to *seem* a certain way, there must be a subject to whom it seems. The illusion of suffering must be experienced, and that experiencing is phenomenal. Buddhism recognises this through *vijñāna*: awareness exists even if the self that owns it does not."* This shares the defective **string** with the haecceity/parfit/personal-identity family, but **its argumentative role may be different**: it is deployed inside an exposition of the Buddhist *anattā* position to make a point about awareness surviving the dissolution of self, not (on its face) as the Map's decisive refutation of illusionism. **READ THE SURROUNDING SECTION BEFORE EDITING.** If the passage is expounding a Buddhist claim the Map is reporting rather than asserting, it is **not** this defect and should be left alone — say so and close as a no-op. If it does assert the bare regress in the Map's own voice, inherit the settled wording from `concepts/illusionism.md` L79/L91 and `concepts/haecceity.md` L157. A previous tenet-check (`tenet-check-2026-07-30.md` L154) already noted this locus as unreachable by both of its greps, so it has never been triaged. **ATTRIBUTION**: hold the existing `ai_system`.
 - **Remit**: Triage first, edit only if the defect is real. Do not convert a fairly-reported Buddhist position into the Map's own hedged verdict.
 
-### P3: seven archive articles state the ape 2±1 working-memory figure with no citation — enumerate and fix, ALL loci listed
+### P2: seven archive articles state the ape 2±1 working-memory figure with no citation — enumerate and fix, ALL loci listed
 - **Type**: refine-draft
 - **File**: obsidian/apex/consciousness-and-agency.md
 - **Status**: pending
@@ -2192,7 +2192,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-03
 - **Notes**: **THE DOC INSTRUCTS A DATA-LOSS EDIT.** SKILL.md tells the combine pass to rename a task's `Review file:` line to the plural **`Review files:`** when a task is convergent across reviewers. **`tools/todo/processor.py:153` matches the singular literal**, and `tools/evolution/task_selector.py:214` feeds that value into the dispatched task args. Renaming the field therefore does not merely change a label — it makes the review provenance invisible to the parser and drops it from what the executing fork receives. **A "rename this field" instruction is a parser change in disguise**, and nothing in the doc says so. **This has bitten before**; it is a recurring trap, not a one-off. **Driver-verified after tonight's run: `grep -c "Review files:" obsidian/workflow/todo.md` = 0** — the 2026-08-03 combine fork spotted the hazard on its own and used an added **`Convergent with:`** line instead, which conveys the same information without touching a parsed field. **THE DECISION:** (a) **correct the SKILL.md to specify the additive `Convergent with:` line** — smallest fix, matches what actually shipped tonight, no code change; (b) keep the rename and **teach both readers the plural**, accepting a code change plus a migration for any tasks already carrying it; (c) drop the convergence annotation from the task body entirely and let the synthesis file be the only record. **(a) is the obvious answer unless you want convergence machine-readable off the task line.** **DO NOT let a content-refine fork edit the SKILL.md** — that is why `File` points at the changelog. **Companion entries**: the same-day NEEDS-HUMAN items on the three commission skills. That set was about stale UI selectors; this one is different in kind and worse — the instruction is not merely obsolete, it is actively harmful, and it fails silently rather than bailing.
 
-### P3: a research note credits Chalmers and McQueen with a five-constraints list their paper does not contain
+### P2: a research note credits Chalmers and McQueen with a five-constraints list their paper does not contain
 
 - **Type**: refine-draft
 - **File**: obsidian/research/chalmers-psychophysical-laws-2026-01-17.md
