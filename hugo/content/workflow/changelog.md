@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T11:43:35+00:00'
+ai_modified: '2026-08-03T12:03:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 11:43:35+00:00
+lastmod: 2026-08-03 12:03:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 12:03 UTC - deep-review (8th pass on the interface-mathematics article — first per-cite ledger; a verbatim Russell quote cited to the wrong 1927 book, an Atmanspacher-Filk reference that resolves to no publication, and a "demonstrated empirically" that no cited study demonstrates)
+
+- **Status**: Success
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Word count**: 3936 → 3938 (+2, length-neutral; 131% of the 3000 topics soft target, 62 words under the 4000 hard ceiling)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 4
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-08-03-mathematical-structure-of-the-consciousness-physics-interface](/reviews/deep-review-2026-08-03-mathematical-structure-of-the-consciousness-physics-interface/)
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` — seven prior deep reviews by a different model left it untouched, and this pass corrects the bibliographic layer rather than re-authoring the argument. `ai_modified` and `last_deep_review` both bumped from one live `date -u` (`2026-08-03T12:03:40+00:00`), verified strictly past.
+
+**Not a no-op, and the 7th pass predicted otherwise.** That review closed with "defer an 8th deep review well out unless upstream research lands. A cosmetic preprint-status hedge is not 'upstream research.'" It was right to say so and the exception fired anyway: commit `f3b735c8d` (today, 11:18Z) rewrote §Born Rule Uniqueness into "A Contested Derivation" and added References 16–18, and **new bibliographic entries plus a modified References block is the §2.4 trigger**. This is the first pass on this article to carry a per-cite ledger — the 5th pass added a reference, it did not verify the block.
+
+**WebSearch budget was exhausted (200/200) before the first query.** Per the standing note that exhaustion constrains *search* only, the whole pass ran on WebFetch plus direct Crossref / OpenAlex / arXiv / archive.org API calls, which reach the publisher of record. All three critical findings came from that channel; none would have surfaced from intra-corpus cross-checking, which had ratified all three across seven reviews.
+
+**Critical 1 — the Russell quote is verbatim, and cited to the wrong book.** *"Physics is mathematical … it is only its mathematical properties that we can discover"* was attributed via Reference 6 to *The Analysis of Matter* (1927). Both 1927 volumes were pulled as full OCR text and grepped in both directions: **one verbatim hit** in ***An Outline of Philosophy***, p. 163; **zero** hits in *The Analysis of Matter*, which carries a *different* sentence on the same theme (*"our knowledge of physics is mathematical: it is mathematical because no non-mathematical properties of the physical world can be inferred from perception"*) — almost certainly the origin of the slip. Reference corrected, the work named inline, and canonical punctuation restored (comma after "mathematical", **semicolon** not colon). Two prior reviews had disagreed about this in the corpus — 2026-07-15 said *Outline*, 2026-03-15 said *Analysis of Matter* — so the primary text was the only way to settle it.
+
+**Critical 2 — a reference that resolves to nothing.** `Atmanspacher, H. & Filk, T. (2002). "Non-Commutative Operations in Consciousness Studies." *PhilPapers*.` Four independent searches (Crossref title, Crossref bibliographic, OpenAlex title, and OpenAlex's full works-list for Thomas Filk) return no such work; the Atmanspacher-Filk collaboration does not begin until 2004, and PhilPapers is an index rather than a publisher. **The claims were real; only the bibliographic object was not** — so it was repaired, not deleted, to Atmanspacher & Filk (2010), *Journal of Mathematical Psychology* 54(3), 314–321, which is the actual source of the temporal-Bell material the section uses.
+
+**Critical 3 — "demonstrated empirically" is not what the sources say.** The body claimed quantum-like complementarity in cognition was *"demonstrated empirically through temporal Bell inequality violations in bistable perception."* Atmanspacher and Filk **propose** the test; their 2012 *JCS* abstract says in its own words that they *"indicate empirical options for testing temporal Bell inequalities, and speculate about possible explanations **in case these inequalities are indeed violated**."* The later record is partial — Aizawa, Tsuchiya, Pothos, Busemeyer & Bruza (2021) report violations in a rotating-disk paradigm (a repository item, not a journal article), and Waddup, Yearsley, Błasiak & Pothos (2023, *Psychonomic Bulletin & Review*) find violation *"in one case"* across two memory experiments. Re-scoped to a proposed test with a partial and contested empirical record. This is the paraphrase-fidelity axis, orthogonal to both metadata and quote-fidelity, and it is why seven metadata-clean reviews missed it.
+
+**Medium fixes.** Chalmers & McQueen year 2021 → **2022** with pages 11–63 (OUP book, DOI `10.1093/oso/9780197501665.003.0002`). The new paragraph's gloss "presumes finite-dimensional ensembles" was ambiguous — Masanes, Galley and Müller state the assumption in their own reply as *"the set of mixed states of a finite-dimensional Hilbert space is finite-dimensional"*; corrected, and their **two actual grounds of rebuttal** added (Kent's alternatives harbour pure states that are not Hilbert-space rays, and breach mixed-state finite-dimensionality). That last one runs *against* the direction of drift: the previous text noted only *that* a reply exists, which under-reported the state of play in the direction unfavourable to the Map, and an over-concession collects endorsements as readily as an over-claim. Tonetto — a 2026 preprint per OpenAlex — was introduced as providing "the conceptual foundation" while the article hedged Pati and Torres Alegre as unrefereed; hedge now applied consistently. And today's insert had left **three consecutive paragraphs each declaring the argument conditional**; the third was trimmed with the hedge preserved by its neighbour.
+
+**A trap worth recording.** *Quantum* 9, **1592** (Masanes-Galley-Müller's Response, 2025-01-14) carries a **lower** article number than *Quantum* 9, **1749** (Kent's comment, 2025-05-20), because the reply answered the arXiv preprint rather than the published version. This reads exactly like a transposed citation and is not one — the stability notes say so explicitly so a future pass does not "fix" it.
+
+**Ledger outcome across all 18 references**: 12 real-correct, 4 real-wrong-metadata (all corrected), 1 unfindable (repaired to the real source), 1 real-but-year-unverified (Arana 2025 — PhilArchive and PhilPapers are both Cloudflare-blocked from this harness; flagged for a session with search budget). Inline ↔ References cross-check clean in both directions; no orphans. Empirical-currency sweep found the triple-slit bound already scoped as a moving bound, so no currency defect. Label-leakage scan clean.
+
+**Length-neutral throughout**: +63 words of correction paid for by −61 words of genuine restatement — the duplicated conditionality declaration, a duplicated "no experiment probes brains" opener six paragraphs after the first, a speculative closing sentence that restated its own predecessor, an over-long Further Reading gloss, and a trumping parenthetical that repeated a bullet from the same page. **No calibration hedge was cut**; the candour-price paragraph, the brute-randomness concession, and the three-position framing are untouched, as the standing stability notes require.
+
+**Family NOT closed — P2 minted.** Both the Russell attribution (ten further loci across `obsidian/` and `archive/`, including two research notes) and the Chalmers & McQueen year (10 files at 2021, 8 at 2022) are corpus-wide. The task carries the archive-tree warning and, importantly, the instruction **not** to blanket-rewrite every `*The Analysis of Matter*` line — that book is a legitimate cite for the structuralism and intrinsic-nature material, and only the files quoting the *Outline* sentence are in scope.
 
 ## 2026-08-03 11:43 UTC - refine-draft (MWI ontological-extravagance residue: 4 loci re-framed to the tenet's primary/subsidiary split; +1 ancestor sibling found)
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T04:20:02+00:00'
+ai_modified: '2026-08-03T12:03:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -2276,6 +2276,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **Do NOT de-quote it on suspicion.** The phrase is very likely genuine (Levin uses it routinely), and de-quoting a correct quote on an unverified premise is the documented Tallis-propagation error. Verify first: fetch https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas and grep the body text. Only if the phrase is genuinely absent should the quotation marks come off.
 
   **Verify the URL slug in the same pass.** The source research note (`research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08.md` L175) explicitly flags: *"the exact Aeon slug is reconstructed; confirm the live URL before an article hard-links it."* The article hard-links it anyway in Reference 3. The 2026-07-08 citation ledger lists Aeon among publishers checked, so this is probably fine — but the note's own caveat was never closed out, and a 429 is not a confirmation.
+
+### P2: the Russell "physics is mathematical" quote is cited to the wrong 1927 book in ten files, and Chalmers & McQueen is split 10/8 between two years
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-mathematics.md
+- **Status**: pending
+- **Source**: deep-review 2026-08-03 (`reviews/deep-review-2026-08-03-mathematical-structure-of-the-consciousness-physics-interface.md`)
+- **Generated**: 2026-08-03
+- **Notes**: **TWO INDEPENDENT CITATION FAMILIES, both verified at the primary source on 2026-08-03. `topics/mathematical-structure-of-the-consciousness-physics-interface.md` is already fixed for both — do not re-touch it.**
+
+  **(a) Russell — verbatim quote, wrong work.** The sentence *"Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover"* is from ***An Outline of Philosophy*** (1927), **p. 163** — not *The Analysis of Matter* (1927), which every References block in the corpus names. **Verified in both directions against archive.org OCR of the two 1927 volumes**: one verbatim hit in *Outline* (item `in.ernet.dli.2015.218863`); **zero** hits in *Analysis of Matter* (item `in.ernet.dli.2015.221533`) for `because we know so little`, `mathematical properties that we can discover`, or `know so little`. *Analysis of Matter* carries a **different** sentence on the same theme — *"our knowledge of physics is mathematical: it is mathematical because no non-mathematical properties of the physical world can be inferred from perception"* — which is presumably how the misattribution started, and which is a legitimate cite in its own right for structuralism/intrinsic-nature material. **So do NOT blanket-rewrite every `Russell, B. (1927). *The Analysis of Matter*` line**: change it only in files that quote the *Outline* sentence. Loci carrying the quote: `obsidian/topics/consciousness-and-mathematics.md` L102, `obsidian/concepts/physical-completeness.md` L38, `obsidian/voids/interface-formalization-void.md` L47, `archive/topics/mathematical-knowledge-and-insight.md` L124, `archive/topics/mathematical-truth-and-conscious-access.md` L91, `archive/topics/consciousness-and-mathematical-knowledge.md` L125, `archive/topics/consciousness-and-the-philosophy-of-mathematics.md` L86, `archive/concepts/consciousness-and-the-philosophy-of-mathematics.md` L75, plus research notes `research/mathematical-structure-consciousness-physics-interface-2026-03-14.md` L176 and `research/consciousness-philosophy-of-mathematics-2026-03-19.md` L80. `archive/` bodies are **fully served** and in scope. Also normalise punctuation while there: canonical is a **comma** after "mathematical" and a **semicolon** (not a colon) before "it is only". A 2026-07-15 deep-review of `consciousness-and-mathematics` already fixed that file's semicolon and named *An Outline of Philosophy* in its own notes but left the References entry pointing at *Analysis of Matter*; a 2026-03-15 review had ratified *Analysis of Matter*. **The primary-text check settles it — do not flip it back on the strength of an aggregator.**
+
+  **(b) Chalmers & McQueen year.** Canonical is **2022**: book chapter in *Consciousness and Quantum Mechanics* (ed. Gao), Oxford University Press, **pp. 11–63**, published 2022-07-18, DOI `10.1093/oso/9780197501665.003.0002` (Crossref). The 2021 form tracks the arXiv preprint `2105.02314`. Corpus is split **10 files at (2021), 8 at (2022)**. Where a file cites the OUP *book* venue, the year must be 2022; a file deliberately citing the preprint may keep 2021 **only if it names arXiv rather than the book**. Re-grep `Chalmers.*McQueen` across `obsidian/` and `archive/` — the counts above are from an inline-form grep and are a sample, not necessarily the population.
+
+  **Scope discipline**: metadata and quote-punctuation only. Do not rewrite surrounding prose, do not add or remove arguments, length-neutral in every file. Hold each file's `ai_system`; bump `ai_modified` only. Sync and verify the `hugo/content/` mirrors, **including both `hugo/content/archive/` mirrors**.
 
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
