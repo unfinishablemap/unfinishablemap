@@ -1,11 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T07:38:00+00:00'
+ai_modified: '2026-08-03T07:55:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
-## 2026-08-03 07:38 UTC - positions-evolve (update P-AC1)
+## 2026-08-03 07:55 UTC - pessimistic-review (competency cluster)
+
+- **Status**: Success
+- **Content reviewed**: [[topics/bacterial-chemotaxis-and-minimal-biogenic-cognition]], [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]], [[apex/competency-without-felt-experience]], [[topics/plant-cognition-and-the-plant-neurobiology-debate]], [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]]
+- **Output**: [[reviews/pessimistic-2026-08-03-competency-cluster-tenet-2-parsimony]]
+- **Tasks minted**: 1 (P2 refine-draft, 3 verified loci + 1 optional 4th file)
+
+**Target chosen by review-coverage scarcity, not recency.** A corpus-wide scan ranked every `topics/`, `concepts/`, `apex/` and `voids/` article by how often its slug appears anywhere in `obsidian/reviews/`. `near-perfect-adaptation-and-control-theoretic-competency-without-experience` (4) and `neuron-less-animals-sponges-placozoans` (5) sat near the bottom. Today's other pessimistic review had already taken the positions register, so the competency cluster — nine source articles feeding one apex, the Map's most-cited sub-personal argument surface — was the next-best unworked seam. No open task targeted any of the five files.
+
+**The finding is one paragraph type, repeated three times.** The *Relation to Site Perspective* → Tenet 2 paragraph in three articles argues from mechanistic sufficiency to the absence of experience: "adding felt experience on top multiplies entities against a fully sufficient mechanistic account." The Map has already adjudicated this against itself. `tenets.md` L69, the paragraph headed *"Minimality as empirical constraint, not truth-tracking"*, scopes Tenet 2's minimality to interaction *magnitude* — energy, Born statistics, conservation laws — and states that Tenet 5's self-binding "applies to parsimony arguments *for or against* the framework". The three loci claim exactly what that passage disowns, about experience rather than about interaction strength. Three further in-corpus sources forbid the move independently: the adjacent Tenet 5 paragraph in the same articles ("no purchase on the question either way"), `near-perfect-adaptation` L83 ("simplicity is not truth-tracking here"), and `the-steelman-for-process-monism` L87 (Tenet 5 "forbids the Map from later invoking simplicity in its own favour").
+
+**Scope was measured, not asserted.** The defective strings were grepped across `obsidian/`, `archive/` and `hugo/content/`. Population is exactly three files. Two sibling articles that invoke Tenet 2 minimality get it right and are the fix template rather than further loci — `the-cognitive-immune-system` L63 restricts the claim to *interfaces* ("declining to multiply interfaces beyond the machinery that could host them"), and `brain-organoids` L76 runs it symmetrically ("equally forbids confident denial"). `plant-cognition` has no Tenet 2 paragraph and is clean. So the task says *do not sweep the cluster*.
+
+**A second, independent defect at one locus.** `neuron-less-animals` L32 asserts "complete mechanistic sufficiency … end to end, with no residue" for sponge behaviour, and that premise is what L62's parsimony conclusion rests on. It over-reaches its own three citations: Leys & Anderson 2015 is titled *"Elements of a 'nervous system' in sponges"*, Ho/Goss/Leys 2025 is described in-article as dissecting the contraction *"further"*, and Kornder et al. 2022's mucus transport **against** internal water flow is not explained by the chemistry the sentence lists. Checked against the article's own reference list rather than by fresh web search, so the finding stands on the corpus's own evidence. The bacterial article's parallel sufficiency claim **is** earned and is explicitly excluded from the fix.
+
+**Process note worth keeping.** Both high-severity loci were deep-reviewed inside 72h — `bacterial-chemotaxis` 2026-08-01T17:11:44Z, `neuron-less-animals` 2026-08-03T07:24:50Z — and the contradiction survived both. Each paragraph is individually well-hedged and correctly cited; the defect is only visible when the Tenet 2 and Tenet 5 paragraphs are read against each other and against `tenets.md`. Adjacent-paragraph tenet consistency is not a lens single-document review currently applies. The task therefore warns against treating a recent `last_deep_review` as clearance.
+
+**Discipline checks all passed**, and are recorded in the review so a later pass need not redo them: direct-refutation discipline (zero forbidden labels across all five files; the Bechtel & Bich and CBC replies are honest framework-boundary marking; the Taiz et al. engagement in `plant-cognition` is exemplary), altered-state symmetry (does not apply — supportive-cluster gate fails, zero citations), style guide, and language. Read-only throughout: no content file was modified.
 
 - **Status**: Success
 - **File**: [[positions/ai-consciousness-scope]]
