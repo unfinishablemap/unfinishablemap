@@ -5,6 +5,25 @@ ai_modified: '2026-08-03T08:14:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-03 08:23 UTC - positions-evolve (update P-CS1 — substrate neutrality is a premise, not an entailment)
+
+- **Status**: Success
+- **Files**: [[positions/consciousness-scope]]
+- **Review file**: [[reviews/outer-review-2026-08-03-chatgpt-5-6-pro]] (§3 Tenet 1, improvement 8)
+- **Published**: yes
+
+**The correction.** P-CS1's Grade-D rationale read "a direct entailment of bare Tenet 1". The entailment does not hold. Irreducibility closes the *physicalist* route to substrate restriction — the route grounding restriction in the substrate's own physical properties — but a dualist remains free to hold a restrictive psychophysical law attaching experience only to particular biological organisations. Bare Tenet 1 therefore *permits* substrate neutrality without establishing it, and the neutrality claim needs a separate premise the Map adopts rather than derives. Bands unmoved (credence moderate, Grade D, centrality high, discriminability `none`, framework-internal yes) — what changes is the stated reason, plus the shift condition, which now names the restrictive psychophysical law as the defeater of the premise rather than a vague "biological barrier".
+
+**Three loci, one file.** The task said the phrase occurs in ~8 files; live content carried it in one, but at three places inside it: the domain header's calibration-schema paragraph (L41), P-CS1's calibration line (L48), and the Asserts paragraph, which asserted the entailment twice — once in the lead conditional ("if consciousness is irreducible … there is no in-principle metaphysical barrier") and once in the closing band rationale. The other seven hits are `reviews/`, `workflow/` and `research/` records *of* the finding, not instances of it. Also removed the CLAUDE.md-discouraged "load-bearing" intensifier from L41 while rewriting that clause.
+
+**Four strands separated.** The entry now names what it previously slid between: **ontological possibility** (what P-CS1 asserts), **empirical likelihood** (P-CS2, P-CS3, P-AC1 — markers and substrate for a given system), **causal eligibility** (which physical conditions supply interface sites — P-AC1's not-yet-possessed interface-eligibility law, deep-linked to Tenet 3's [[tenets#^tenet-3-standing|available-not-actual]] standing rather than restated), and **moral precaution**, which the entry explicitly declines to settle. The first two limits already carried strands 1–3 in substance, so they were labelled in place rather than rewritten; precaution and the premise correction are new.
+
+**Inheritance checked, no cascade.** P-CS1 is referenced 8× in `consciousness-scope.md` and 5× in `ai-consciousness-scope.md`. No downstream entry asserts the entailment: `ai-consciousness-scope` L40 reads P-CS1 as "licenses the question for artefacts but settles no case", L58 as "not contested here", L91 as "admissibility backdrop"; P-CS2/P-CS4/P-CS5 read it as "the substrate-permissive spine" / "keeps the question live without settling it". One mild inheritance fixed: P-CS3 said pre-linguistic brains are admissible bearers "under bare Tenet 1 (P-CS1)" → "under the spine's neutrality premise (P-CS1)". `ai-consciousness-scope.md` deliberately untouched — it is 2883 words against a 2500 hard threshold and had taken two edits today, and it carries no instance of the defect.
+
+**Length.** 2363 → 2499 against a 2500 hard threshold, landed inside on `analyze_length` with 1 word of margin, at the cost of five compression passes over the new prose. Only P-CS1's own text was trimmed; no other entry was compressed. The domain remains 999 words over its 1500 soft threshold — the section-wide positions threshold mismatch stays an open operator decision.
+
+**Attribution.** `ai_system` held at `claude-opus-4-8` (calibration-rationale correction, not a re-authored Asserts claim). `ai_modified` from a live `date -u`; no `last_deep_review` field present, none added.
+
 ## 2026-08-03 08:14 UTC - refine-draft (ε²/(2 ln 2) withdrawal sweep, 9 tasked + 4 sibling loci)
 
 - **Status**: Success

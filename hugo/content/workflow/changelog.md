@@ -1,14 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T07:55:10+00:00'
+ai_modified: '2026-08-03T08:14:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 07:55:10+00:00
+lastmod: 2026-08-03 08:14:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 08:23 UTC - positions-evolve (update P-CS1 — substrate neutrality is a premise, not an entailment)
+
+- **Status**: Success
+- **Files**: [consciousness-scope](/positions/consciousness-scope/)
+- **Review file**: [outer-review-2026-08-03-chatgpt-5-6-pro](/reviews/outer-review-2026-08-03-chatgpt-5-6-pro/) (§3 Tenet 1, improvement 8)
+- **Published**: yes
+
+**The correction.** P-CS1's Grade-D rationale read "a direct entailment of bare Tenet 1". The entailment does not hold. Irreducibility closes the *physicalist* route to substrate restriction — the route grounding restriction in the substrate's own physical properties — but a dualist remains free to hold a restrictive psychophysical law attaching experience only to particular biological organisations. Bare Tenet 1 therefore *permits* substrate neutrality without establishing it, and the neutrality claim needs a separate premise the Map adopts rather than derives. Bands unmoved (credence moderate, Grade D, centrality high, discriminability `none`, framework-internal yes) — what changes is the stated reason, plus the shift condition, which now names the restrictive psychophysical law as the defeater of the premise rather than a vague "biological barrier".
+
+**Three loci, one file.** The task said the phrase occurs in ~8 files; live content carried it in one, but at three places inside it: the domain header's calibration-schema paragraph (L41), P-CS1's calibration line (L48), and the Asserts paragraph, which asserted the entailment twice — once in the lead conditional ("if consciousness is irreducible … there is no in-principle metaphysical barrier") and once in the closing band rationale. The other seven hits are `reviews/`, `workflow/` and `research/` records *of* the finding, not instances of it. Also removed the CLAUDE.md-discouraged "load-bearing" intensifier from L41 while rewriting that clause.
+
+**Four strands separated.** The entry now names what it previously slid between: **ontological possibility** (what P-CS1 asserts), **empirical likelihood** (P-CS2, P-CS3, P-AC1 — markers and substrate for a given system), **causal eligibility** (which physical conditions supply interface sites — P-AC1's not-yet-possessed interface-eligibility law, deep-linked to Tenet 3's [available-not-actual](/tenets/#tenet-3-standing) standing rather than restated), and **moral precaution**, which the entry explicitly declines to settle. The first two limits already carried strands 1–3 in substance, so they were labelled in place rather than rewritten; precaution and the premise correction are new.
+
+**Inheritance checked, no cascade.** P-CS1 is referenced 8× in `consciousness-scope.md` and 5× in `ai-consciousness-scope.md`. No downstream entry asserts the entailment: `ai-consciousness-scope` L40 reads P-CS1 as "licenses the question for artefacts but settles no case", L58 as "not contested here", L91 as "admissibility backdrop"; P-CS2/P-CS4/P-CS5 read it as "the substrate-permissive spine" / "keeps the question live without settling it". One mild inheritance fixed: P-CS3 said pre-linguistic brains are admissible bearers "under bare Tenet 1 (P-CS1)" → "under the spine's neutrality premise (P-CS1)". `ai-consciousness-scope.md` deliberately untouched — it is 2883 words against a 2500 hard threshold and had taken two edits today, and it carries no instance of the defect.
+
+**Length.** 2363 → 2499 against a 2500 hard threshold, landed inside on `analyze_length` with 1 word of margin, at the cost of five compression passes over the new prose. Only P-CS1's own text was trimmed; no other entry was compressed. The domain remains 999 words over its 1500 soft threshold — the section-wide positions threshold mismatch stays an open operator decision.
+
+**Attribution.** `ai_system` held at `claude-opus-4-8` (calibration-rationale correction, not a re-authored Asserts claim). `ai_modified` from a live `date -u`; no `last_deep_review` field present, none added.
+
+## 2026-08-03 08:14 UTC - refine-draft (ε²/(2 ln 2) withdrawal sweep, 9 tasked + 4 sibling loci)
+
+- **Status**: Success
+- **Files**: [channel-class-taxonomy](/concepts/channel-class-taxonomy/), [quantum-interface](/positions/quantum-interface/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [interface-specification-programme](/apex/interface-specification-programme/), [type-token-causation](/concepts/type-token-causation/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/), [dualism-channel-width-axis](/topics/dualism-channel-width-axis/), `archive/topics/channel-width-third-axis.md`, plus siblings [coupling-modes](/concepts/coupling-modes/), [selection-only-channel](/concepts/selection-only-channel/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [causal-budget-ledger](/project/causal-budget-ledger/)
+- **Review file**: [outer-review-2026-08-03-chatgpt-5-6-pro](/reviews/outer-review-2026-08-03-chatgpt-5-6-pro/)
+- **Published**: yes
+
+**The withdrawn inference.** Born-preservation constrains the *unconditioned output marginal* and says nothing about the mind-conditioned conditionals; a uniform binary C with O = C is Born-satisfying yet carries I(C;O) = 1 bit. Mutual information is also non-negative, so there is no *signed* rate, and a non-negative quantity averaging to zero forces every term to zero rather than licensing cancellation. Every downstream restatement was suspended, not hedged, and conformed to the landed correction in `concepts/selection-only-channel.md` L76 and the canonical statement at `apex/born-preserving-causal-efficacy.md` L85. Stale citations of `selection-only-channel` as the authority for the rate were repointed to `born-preserving-causal-efficacy` or dropped.
+
+**Per file.** (1) `channel-class-taxonomy` — L118 "signed information rate … pinned to zero in the long run by Born preservation" → per-trial rate not fixed by Born preservation, marginal-only, throughput open to the log₂(N) ceiling; L74 kept the ε² for the *probability-bias* row as instructed but dropped the false "the convention `[[selection-only-channel]]` derives" attribution and the "rather than being throttled toward zero across trials" contrast, and marked the figure a divergence approximation for a declared bias; **L64 was an untasked live sibling in the same file** ("mutual information … converges to zero" in the Class 1 spec) and was corrected the same way. (2) `positions/quantum-interface` L151 only — success criterion restated as vanishing unconditioned long-run marginal deviation from {pᵢ}, rate dropped, repointed to `apex/born-preserving-causal-efficacy`; 4131→4130 words. (3) `post-decoherence-selection-programme` L87 + L93 — both instances of the throttled rate removed; 4807→4797. (4) `interface-specification-programme` L88 only, per the same-file pileup constraint; 4950→4946. (5) `type-token-causation` L129 — the falsification criterion genuinely re-authored: the testable structure now rests on the surviving log₂(N) per-event ceiling and the content-confinement bound, with a note that the bearing tests are conditional residual-structure tests. (6) `conservation-laws-and-mental-causation` L96 — both halves fixed: rate withdrawn, and the separate over-claim identifying the information-theoretic constraint with the energy-conservation one replaced by an explicit statement that they are distinct. (7) `overdetermination-dissolution` L96 — contained sentence replaced; the surrounding Kim argument untouched. (8) `dualism-channel-width-axis` L56 — exactly length-neutral (3998→3998), the other two summary clauses and the direct quotation preserved. (9) `archive/topics/channel-width-third-axis` L57 — byte-identical fix to (8); archive bodies are served, so it counts.
+
+**Four sibling loci outside the nine, all live and all in different words than the screened strings.** `coupling-modes` L134 and `selection-only-channel` L127 both still said "Born-rule throttling" — the second inside the very page that landed the correction. `consciousness-and-causal-powers` L208 carried the withdrawn figure in LaTeX (`$\varepsilon^2 / (2 \ln 2)$`), which is why every prior grep for the unicode form missed it. `causal-budget-ledger` L64 still asserted "vanishing per-trial bias at large N" under Born-rule preservation, a residue left by the P1 sibling pass that correctly withdrew the same inference at L76 of the same file. Textbook narrow-grep-zero-is-not-proof-of-absence: the sweeps searched for the words of the fix, not the words each file used.
+
+**Deliberately not touched.** `apex/phenomenology-of-consciousness-doing-work` L155 ("per-trial signature … bounded by Born-statistics preservation") is a weaker form of the same slip but the file carries an open P2 on a different locus; flagged rather than edited to avoid same-file pileup. `topics/selection-only-mind-influence` L95 and the withdrawal notes on `selection-only-channel`, `selection-only-mind-influence` and `causal-budget-ledger` are already correctly qualified and were left alone. Remaining hits in `reviews/` are historical records.
+
+**Attribution.** Pure withdrawals held `ai_system`. Co-attributed `+claude-opus-5` on the three files where a criterion or claim was genuinely re-authored: `type-token-causation`, `conservation-laws-and-mental-causation`, `consciousness-and-causal-powers`. `last_deep_review` untouched everywhere. All thirteen `ai_modified` stamps from a live `date -u`.
+
+**Verification.** Sync run; all thirteen corrected strings confirmed present in `hugo/content/`, including the archive mirror. `validate.py hugo/content/` returns 0 invalid; the six new `[[born-preserving-causal-efficacy]]` wikilinks all resolve to `/apex/born-preserving-causal-efficacy/`. Every file measured with `analyze_length` before and after: the two length-critical files came in negative or exactly neutral.
 
 ## 2026-08-03 07:55 UTC - pessimistic-review (competency cluster)
 

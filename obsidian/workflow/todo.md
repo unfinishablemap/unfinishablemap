@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: P-CS1 grades substrate neutrality as a "direct entailment" of bare Tenet 1 — it needs a separate premise
-- **Type**: positions-evolve
-- **File**: obsidian/positions/consciousness-scope.md
-- **Notes**: From outer review 2026-08-03 (ChatGPT 5.6 Pro §3 Tenet 1, improvement 8). **CONFIRMED**: line 48 grades P-CS1 "external-evidence grade D (a direct entailment of bare Tenet 1 — a permission, not positive evidence)". The entailment does not hold. Dualism is compatible with psychophysical laws attaching experience only to particular biological organisations; irreducibility removes one *physicalist* route to substrate restriction but does not itself establish substrate neutrality. Replace "direct entailment" with an explicit additional substrate-neutrality hypothesis, or with "permission absent a restrictive psychophysical law". While editing, distinguish the four things the register currently runs together: ontological possibility, empirical likelihood, causal eligibility, and moral precaution. Note P-CS2–P-CS4 and P-AC1 are recorded as hanging off P-CS1, so check whether their calibration inherits the same overstatement. The phrase "direct entailment" occurs in ~8 files — grep before closing.
-- **Review file**: `reviews/outer-review-2026-08-03-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-03
-
 ### P2: apply the foundational-dependency test to the rest of the register — four domain files still carry the boilerplate the test falsifies
 - **Type**: positions-evolve
 - **File**: obsidian/positions/agency-and-will.md
@@ -2393,6 +2385,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: P-CS1 grades substrate neutrality as a "direct entailment" of bare Tenet 1 — it needs a separate premise
+- **Type**: positions-evolve
+- **File**: obsidian/positions/consciousness-scope.md
+- **Notes**: From outer review 2026-08-03 (ChatGPT 5.6 Pro §3 Tenet 1, improvement 8). **CONFIRMED**: line 48 grades P-CS1 "external-evidence grade D (a direct entailment of bare Tenet 1 — a permission, not positive evidence)". The entailment does not hold. Dualism is compatible with psychophysical laws attaching experience only to particular biological organisations; irreducibility removes one *physicalist* route to substrate restriction but does not itself establish substrate neutrality. Replace "direct entailment" with an explicit additional substrate-neutrality hypothesis, or with "permission absent a restrictive psychophysical law". While editing, distinguish the four things the register currently runs together: ontological possibility, empirical likelihood, causal eligibility, and moral precaution. Note P-CS2–P-CS4 and P-AC1 are recorded as hanging off P-CS1, so check whether their calibration inherits the same overstatement. The phrase "direct entailment" occurs in ~8 files — grep before closing.
 
 ### ✓ 2026-08-03: Sweep the remaining 9 carriers of the withdrawn zero-MI / ε²-per-trial derivation — verified locus list, one file may keep its ε²
 - **Type**: refine-draft
