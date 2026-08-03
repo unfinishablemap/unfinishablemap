@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-07-10 17:47:34+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-03 08:14:31+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[causal-closure]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: 2026-05-11
 last_deep_review: 2026-07-11 00:40:48+00:00
-lastmod: 2026-07-10 17:47:34+00:00
+lastmod: 2026-08-03 08:14:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ First, the detection problem is not unique to mental causation. Quantum chance i
 
 Second, falsifiability survives at other points. The Map's framework predicts that neural systems must support quantum effects on cognitively relevant timescales, that attention must correlate with quantum-level events in specifiable ways, and that classical neural determinism must remain incomplete in the right places. These are testable; see [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/).
 
-Third, [information-theoretic limits](/topics/selection-only-mind-influence/) on per-event selection — bounded by ε²/(2 ln 2) bits per trial under Born-rule preservation — give the framework testable structure: if conscious selection appeared to exceed these limits, the Map's specific account of how token selection respects type-level statistics would be falsified.
+Third, [information-theoretic limits](/topics/selection-only-mind-influence/) on per-event selection — at most log₂(N) bits per event, where N is the size of the brain-prepared candidate set, and phenomenal content bounded by what those candidates encode — give the framework testable structure: if conscious selection appeared to exceed that ceiling, or to register content no candidate carries, the Map's specific account of how token selection respects type-level statistics would be falsified. Born-rule preservation adds no further throughput limit to those: it constrains the unconditioned long-run marginal and leaves the mind-conditioned distributions free, so the tests that bear on token selection are conditional residual-structure tests rather than generic Born-frequency tests ([born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)).
 
 It is worth stating this in the strongest form a Popperian would press. The Map's central causal claim — that consciousness selects token outcomes at quantum indeterminacies — is unfalsifiable by direct observation, by construction. The three responses above do not change this; they relocate falsifiability onto neighbouring empirical commitments rather than meeting the unfalsifiability charge against the central claim itself. The framework's overall standing therefore depends entirely on whether those supporting commitments earn their keep: that warm-brain quantum coherence on cognitively relevant timescales is possible, that attention correlates with quantum-level events in specifiable ways, and that classical neural determinism remains incomplete in the right places. If those commitments dissolve under sustained scrutiny, the central claim has no remaining hooks. This is a real cost of the position, not a feature, and the framework is honest only when it owns the cost in those terms.
 

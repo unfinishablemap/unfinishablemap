@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-08-03 06:14:03+00:00
+ai_modified: 2026-08-03 08:13:10+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 08:49:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:12:18+00:00
-lastmod: 2026-08-03 06:14:03+00:00
+lastmod: 2026-08-03 08:13:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ An important caveat: the ~10 bits/second figure (Zheng & Meister 2025, a *Neuron
 
 This hierarchical selection model transforms the bandwidth problem from fatal objection to architectural insight. The question shifts from "how does a 10-bit channel specify a million-bit neural configuration?" to "how does a 10-bit channel choose among a small set of prepared alternatives?" Ten bits/second can make ~3–4 selections per second among small sets — consistent with the phenomenology of deliberate choice, though the correspondence remains suggestive rather than demonstrated.
 
-The bandwidth constraint is not a deficiency. Control systems routinely use low-bandwidth signals to govern high-bandwidth plants — a thermostat outputs one bit to govern a complex thermal system; a pilot uses a few inputs to manage an aircraft with millions of parts. Low bandwidth reflects appropriate abstraction. The [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this further: under purification, no-signalling forces the Born form, so any interface that respects the constraint preserves Born statistics *by construction*. The bandwidth ceiling and the Born corridor are two faces of the same structural requirement on any selection mechanism that leaves physical observables unchanged. The [selection-only channel](/concepts/selection-only-channel/) gives this requirement its sharpest information-theoretic form: a per-event ceiling of log₂(N) bits, Born-rule preservation driving the effective signed rate toward zero across trials, and phenomenal content bounded by the candidate set's dimensionality — the channel-class invariants the ~10 bits/second figure approximates from the behavioural side.
+The bandwidth constraint is not a deficiency. Control systems routinely use low-bandwidth signals to govern high-bandwidth plants — a thermostat outputs one bit to govern a complex thermal system; a pilot uses a few inputs to manage an aircraft with millions of parts. Low bandwidth reflects appropriate abstraction. The [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this further: under purification, no-signalling forces the Born form, so any interface that respects the constraint preserves Born statistics *by construction*. The bandwidth ceiling and the Born corridor are two faces of the same structural requirement on any selection mechanism that leaves physical observables unchanged. The [selection-only channel](/concepts/selection-only-channel/) gives this requirement its sharpest information-theoretic form: a per-event ceiling of log₂(N) bits, Born-rule preservation of the unconditioned long-run marginal, and phenomenal content bounded by the candidate set's dimensionality — the channel-class invariants the ~10 bits/second figure approximates from the behavioural side.
 
 ## The Five Operations
 

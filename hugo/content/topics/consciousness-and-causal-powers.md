@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-08-01 23:59:41+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-08-03 08:14:31+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:37:02+00:00
-lastmod: 2026-08-01 23:59:41+00:00
+lastmod: 2026-08-03 08:14:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -209,7 +209,7 @@ This framework has several virtues:
 
 **Philosophical coherence**: By locating mental causation at genuine physical indeterminacies, the Map aims to avoid both epiphenomenalism and overdetermination. Kim's exclusion objection assumes physical causes are *sufficient* for every physical effect; if so, an additional mental cause must either duplicate the work (overdetermination) or do nothing (epiphenomenalism). Selection-only interactionism denies the sufficiency premise locally: physics specifies candidate set and Born-rule probabilities, not which candidate actualises. The physical contribution is necessary but not sufficient; mind realises one candidate. See [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) for the full argument.
 
-The dissolution has a price. The [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) requires mental selection preserve Born statistics: any scheme respecting no-signalling must be indistinguishable from unbiased Born per event. On the strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction), the hypothesised bias leaves no per-trial signature (bounded by approximately $\varepsilon^2 / (2 \ln 2)$ bits per trial). The honest characterisation: framework-coherence-supported, per-trial operationally undiscriminable by construction. Discrimination remains available at ensemble and correlation levels—[brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) catalogues surviving families (sequential-dependency tests, intention-versus-spontaneity contrasts, Bell-inequality-style tests on phenomenally correlated events).
+The dissolution has a price. The [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) requires mental selection preserve Born statistics: any scheme respecting no-signalling must be indistinguishable from unbiased Born per event. On the strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction), the hypothesised bias leaves no signature in *unconditioned* outcome frequencies, because what Born-preservation constrains is the long-run marginal rather than the mind-conditioned distributions ([born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). The honest characterisation: framework-coherence-supported, operationally undiscriminable by unconditioned aggregate test. Discrimination remains available at ensemble and correlation levels—[brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) catalogues surviving families (sequential-dependency tests, intention-versus-spontaneity contrasts, Bell-inequality-style tests on phenomenally correlated events).
 
 The Popperian objection that this is a *degenerating research programme* deserves direct answer. The framework forbids per-trial discrimination by design—a structural feature of strict Tenet 2 plus no-signalling, not a refinement introduced to evade falsification. A degenerating programme closes discriminating tests at all levels; the Map's framework is per-trial undiscriminable by construction but ensemble- and correlation-level discriminable in principle. If every adjacent-level test returned null at the required precision, the framework would inherit the degenerating-programme problem then; the catalogue's discriminating families have not yet been run at brain-internal precision, and the verdict is open.
 

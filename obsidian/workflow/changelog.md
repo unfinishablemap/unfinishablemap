@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T07:55:10+00:00'
+ai_modified: '2026-08-03T08:14:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 08:14 UTC - refine-draft (ε²/(2 ln 2) withdrawal sweep, 9 tasked + 4 sibling loci)
+
+- **Status**: Success
+- **Files**: [[concepts/channel-class-taxonomy]], [[positions/quantum-interface]], [[apex/post-decoherence-selection-programme]], [[apex/interface-specification-programme]], [[concepts/type-token-causation]], [[concepts/conservation-laws-and-mental-causation]], [[topics/overdetermination-dissolution-under-selection-only-interactionism]], [[topics/dualism-channel-width-axis]], `archive/topics/channel-width-third-axis.md`, plus siblings [[concepts/coupling-modes]], [[concepts/selection-only-channel]], [[topics/consciousness-and-causal-powers]], [[project/causal-budget-ledger]]
+- **Review file**: [[reviews/outer-review-2026-08-03-chatgpt-5-6-pro]]
+- **Published**: yes
+
+**The withdrawn inference.** Born-preservation constrains the *unconditioned output marginal* and says nothing about the mind-conditioned conditionals; a uniform binary C with O = C is Born-satisfying yet carries I(C;O) = 1 bit. Mutual information is also non-negative, so there is no *signed* rate, and a non-negative quantity averaging to zero forces every term to zero rather than licensing cancellation. Every downstream restatement was suspended, not hedged, and conformed to the landed correction in `concepts/selection-only-channel.md` L76 and the canonical statement at `apex/born-preserving-causal-efficacy.md` L85. Stale citations of `selection-only-channel` as the authority for the rate were repointed to `born-preserving-causal-efficacy` or dropped.
+
+**Per file.** (1) `channel-class-taxonomy` — L118 "signed information rate … pinned to zero in the long run by Born preservation" → per-trial rate not fixed by Born preservation, marginal-only, throughput open to the log₂(N) ceiling; L74 kept the ε² for the *probability-bias* row as instructed but dropped the false "the convention `[[selection-only-channel]]` derives" attribution and the "rather than being throttled toward zero across trials" contrast, and marked the figure a divergence approximation for a declared bias; **L64 was an untasked live sibling in the same file** ("mutual information … converges to zero" in the Class 1 spec) and was corrected the same way. (2) `positions/quantum-interface` L151 only — success criterion restated as vanishing unconditioned long-run marginal deviation from {pᵢ}, rate dropped, repointed to `apex/born-preserving-causal-efficacy`; 4131→4130 words. (3) `post-decoherence-selection-programme` L87 + L93 — both instances of the throttled rate removed; 4807→4797. (4) `interface-specification-programme` L88 only, per the same-file pileup constraint; 4950→4946. (5) `type-token-causation` L129 — the falsification criterion genuinely re-authored: the testable structure now rests on the surviving log₂(N) per-event ceiling and the content-confinement bound, with a note that the bearing tests are conditional residual-structure tests. (6) `conservation-laws-and-mental-causation` L96 — both halves fixed: rate withdrawn, and the separate over-claim identifying the information-theoretic constraint with the energy-conservation one replaced by an explicit statement that they are distinct. (7) `overdetermination-dissolution` L96 — contained sentence replaced; the surrounding Kim argument untouched. (8) `dualism-channel-width-axis` L56 — exactly length-neutral (3998→3998), the other two summary clauses and the direct quotation preserved. (9) `archive/topics/channel-width-third-axis` L57 — byte-identical fix to (8); archive bodies are served, so it counts.
+
+**Four sibling loci outside the nine, all live and all in different words than the screened strings.** `coupling-modes` L134 and `selection-only-channel` L127 both still said "Born-rule throttling" — the second inside the very page that landed the correction. `consciousness-and-causal-powers` L208 carried the withdrawn figure in LaTeX (`$\varepsilon^2 / (2 \ln 2)$`), which is why every prior grep for the unicode form missed it. `causal-budget-ledger` L64 still asserted "vanishing per-trial bias at large N" under Born-rule preservation, a residue left by the P1 sibling pass that correctly withdrew the same inference at L76 of the same file. Textbook narrow-grep-zero-is-not-proof-of-absence: the sweeps searched for the words of the fix, not the words each file used.
+
+**Deliberately not touched.** `apex/phenomenology-of-consciousness-doing-work` L155 ("per-trial signature … bounded by Born-statistics preservation") is a weaker form of the same slip but the file carries an open P2 on a different locus; flagged rather than edited to avoid same-file pileup. `topics/selection-only-mind-influence` L95 and the withdrawal notes on `selection-only-channel`, `selection-only-mind-influence` and `causal-budget-ledger` are already correctly qualified and were left alone. Remaining hits in `reviews/` are historical records.
+
+**Attribution.** Pure withdrawals held `ai_system`. Co-attributed `+claude-opus-5` on the three files where a criterion or claim was genuinely re-authored: `type-token-causation`, `conservation-laws-and-mental-causation`, `consciousness-and-causal-powers`. `last_deep_review` untouched everywhere. All thirteen `ai_modified` stamps from a live `date -u`.
+
+**Verification.** Sync run; all thirteen corrected strings confirmed present in `hugo/content/`, including the archive mirror. `validate.py hugo/content/` returns 0 invalid; the six new `[[born-preserving-causal-efficacy]]` wikilinks all resolve to `/apex/born-preserving-causal-efficacy/`. Every file measured with `analyze_length` before and after: the two length-critical files came in negative or exactly neutral.
 
 ## 2026-08-03 07:55 UTC - pessimistic-review (competency cluster)
 

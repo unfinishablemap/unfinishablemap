@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-31T10:54:12+00:00
+ai_modified: 2026-08-03T08:13:10+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -131,7 +131,7 @@ The Unfinishable Map does not commit to a single coupling mode, but the tenets f
 
 The most promising synthesis: **basis control sets the alternatives; timing control stabilises preferred patterns; probability control, if present at all, operates at the margin**. Consciousness primarily shapes the option space (basis) and sustains attention on relevant alternatives (timing), with outcome selection mostly following Born statistics.
 
-A still-stricter outcome-level reading sits beneath these three modes. The [[selection-only-channel]] concept formalises the strictest possible coupling: mind contributes nothing to the candidate set, neither selecting the basis nor reweighting probabilities, only realising one of the brain-prepared alternatives at its Born-rule rate. Basis control modifies the candidate set by choosing the question; timing control modifies it by choosing when measurement happens; probability control modifies its weights. Selection-only sits below all three as the channel class that touches none of them — its log₂(N) per-event ceiling, Born-rule throttling, and content-confinement bound are the channel-theoretic price of doing none of the upstream work. The parent topic [[selection-only-mind-influence]] derives the empirical signature corridor; the channel concept isolates the per-event arithmetic.
+A still-stricter outcome-level reading sits beneath these three modes. The [[selection-only-channel]] concept formalises the strictest possible coupling: mind contributes nothing to the candidate set, neither selecting the basis nor reweighting probabilities, only realising one of the brain-prepared alternatives at its Born-rule rate. Basis control modifies the candidate set by choosing the question; timing control modifies it by choosing when measurement happens; probability control modifies its weights. Selection-only sits below all three as the channel class that touches none of them — its log₂(N) per-event ceiling, Born-preservation of the unconditioned marginal, and content-confinement bound are the channel-theoretic price of doing none of the upstream work. The parent topic [[selection-only-mind-influence]] derives the empirical signature corridor; the channel concept isolates the per-event arithmetic.
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-08-02 16:32:00+00:00
+ai_modified: 2026-08-03 08:13:10+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 16:32:00+00:00
-lastmod: 2026-08-02 16:32:00+00:00
+lastmod: 2026-08-03 08:13:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 ## Class 1: Selection-Only
 
-**Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* = the brain-prepared candidate set, fixed entirely by upstream physical dynamics. The kernel realises one element of *Y* per event without redistributing mass over the prior {*p₁*, …, *p_N*}. Per-event capacity is *log₂(N)* bits; long-run frequency matches the Born distribution; mutual information between mind-state and outcome converges to zero. The full per-event arithmetic and the content-confinement bound are derived in [selection-only-channel](/concepts/selection-only-channel/).
+**Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* = the brain-prepared candidate set, fixed entirely by upstream physical dynamics. The kernel realises one element of *Y* per event without redistributing mass over the prior {*p₁*, …, *p_N*}. Per-event capacity is *log₂(N)* bits; the long-run *marginal* frequency matches the Born distribution, which leaves the mind-conditioned distributions unconstrained. The full per-event arithmetic and the content-confinement bound are derived in [selection-only-channel](/concepts/selection-only-channel/).
 
 **Commitments required.** A mind that can distinguish among brain-prepared candidates and that participates in actualising one. Nothing else: the candidate set is brain-set, the weights are physics-set, and no energy crosses the interface.
 
@@ -74,7 +74,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 ## Class 2: Probability-Bias
 
-**Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* = the brain-prepared candidate set. The kernel reweights {*p_i*} to a mind-conditioned distribution {*p_i*'} subject to Σ *p_i*' = 1. Per-event capacity is still bounded by *log₂(N)*, but the effective per-trial information rate now scales with the induced bias rather than being throttled toward zero across trials. Writing *ε* for the spread max{*p_i*'} − min{*p_i*'} across the biased candidates — the convention [selection-only-channel](/concepts/selection-only-channel/) derives — the small-bias binary limit gives the standard quadratic rate *ε²*/(2 ln 2) bits per trial.
+**Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* = the brain-prepared candidate set. The kernel reweights {*p_i*} to a mind-conditioned distribution {*p_i*'} subject to Σ *p_i*' = 1. Per-event capacity is still bounded by *log₂(N)*, and the effective per-trial information rate scales with the induced bias. Writing *ε* for the spread max{*p_i*'} − min{*p_i*'} across the biased candidates, the small-bias binary limit gives the standard quadratic rate *ε²*/(2 ln 2) bits per trial. That figure is a divergence approximation for this explicitly declared bias, not a consequence of Born preservation.
 
 **Commitments required.** A mind that distinguishes candidates *and* alters their physical-side probabilities. The bias may be vanishing in magnitude but is structural in kind. The intermediate reading of Tenet 2 — "Born statistics hold on average over very large ensembles, but per-trial probabilities are mind-modulated" — occupies this class.
 
@@ -118,7 +118,7 @@ Three structural points hold across the taxonomy.
 
 The *content-confinement* bound — that the mind-side input alphabet is bounded above by the physical-side output alphabet — is strict for selection-only and probability-bias, partly relaxed for basis-choice (mind can register basis-level distinctions not visible in any single outcome), and relaxed or removed for candidate-generation. The bound's strictness is a graded measure of how receptive the channel is versus how generative, and it is the formal basis of the asymmetry catalogued in [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/).
 
-The *signed information rate* per trial is a key empirical-detectability variable: selection-only is pinned to zero in the long run by Born preservation, probability-bias scales as *ε²*/(2 ln 2) bits per trial, basis-choice and candidate-generation can carry higher rates, and energy-injection is the easiest in principle to detect — which is what makes a century of precision physics turning up no trace of it so damaging to that class.
+The *per-trial information rate* is a key empirical-detectability variable: selection-only's rate is not fixed by Born preservation, which constrains the unconditioned marginal only and leaves the mind-conditioned throughput open up to the *log₂(N)* ceiling ([born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)), probability-bias scales as *ε²*/(2 ln 2) bits per trial under its declared bias, basis-choice and candidate-generation can carry higher rates, and energy-injection is the easiest in principle to detect — which is what makes a century of precision physics turning up no trace of it so damaging to that class.
 
 Finally, every class must respect [second-order interference](/topics/born-rule-and-the-consciousness-interface/) (Sorkin 1994) and Hilbert-space inner-product geometry (Pati 2026) for the candidate set it acts on; these constraints are class-independent.
 

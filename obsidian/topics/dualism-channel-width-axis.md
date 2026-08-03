@@ -4,7 +4,7 @@ description: "A third locating axis for dualist positions — how narrow the min
 created: 2026-05-27
 modified: 2026-06-09
 human_modified:
-ai_modified: 2026-07-15T23:51:00+00:00
+ai_modified: 2026-08-03T08:13:10+00:00
 draft: false
 topics:
   - dualism
@@ -53,7 +53,7 @@ To keep channel width distinct from its three sibling sub-measures:
 - **Counterfactual role** asks which features an effect depends on. A property of the *dependency relation*.
 - **Channel width** asks how constrained the interface itself is: what kinds of operation cross it, and how much information or work the crossing carries. A property of the *interface*.
 
-The [[selection-only-channel]] supplies the sharpest formalisation of "narrow." A selection-only channel lets the mind act solely as a selector among physically-prepared alternatives, "contributing nothing to the alternative set itself." Its per-event capacity is bounded above by log₂(N) bits for N brain-generated candidates; Born-rule preservation drives the long-run signed information rate toward zero; and the reportable phenomenal content is bounded by the brain-side candidate space (content-confinement). These three constraints are what *minimum* channel width looks like, made precise. Channel width at its lower limit just *is* the selection-only channel.
+The [[selection-only-channel]] supplies the sharpest formalisation of "narrow." A selection-only channel lets the mind act solely as a selector among physically-prepared alternatives, "contributing nothing to the alternative set itself." Its per-event capacity is bounded above by log₂(N) bits for N brain-generated candidates; Born-rule preservation constrains the unconditioned marginal, not the mind-conditioned throughput; and the reportable phenomenal content is bounded by the brain-side candidate space (content-confinement). These three constraints are what *minimum* channel width looks like, made precise. Channel width at its lower limit just *is* the selection-only channel.
 
 Wider channels relax these constraints in order. A *probability-bias* channel still acts within a fixed candidate set but shifts the distribution {p_i} away from its physical-side values — wider than selection-only because it no longer preserves Born statistics. A *basis-choice* channel (Stapp's *Process 1*) lets the mind choose which observable the brain measures, modifying the candidate set itself — wider still. A *candidate-generation* channel lets the mind contribute novelty to the alternative set. And an *energy-injection* channel transfers a quantity physics tracks as work across the interface — the widest aperture, and the classical Cartesian one. Channel width is thus an ordering, from selection-only at the floor to energy-transfer at the ceiling, by what operations the interface admits.
 

@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-01T23:59:41+00:00
+ai_modified: 2026-08-03T08:14:31+00:00
 last_deep_review: 2026-07-16T16:37:02+00:00
 draft: false
 topics:
@@ -46,7 +46,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-5-20250929
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 ai_generated_date: 2026-02-11
 last_curated:
 ---
@@ -205,7 +205,7 @@ This framework has several virtues:
 
 **Philosophical coherence**: By locating mental causation at genuine physical indeterminacies, the Map aims to avoid both epiphenomenalism and overdetermination. Kim's exclusion objection assumes physical causes are *sufficient* for every physical effect; if so, an additional mental cause must either duplicate the work (overdetermination) or do nothing (epiphenomenalism). Selection-only interactionism denies the sufficiency premise locally: physics specifies candidate set and Born-rule probabilities, not which candidate actualises. The physical contribution is necessary but not sufficient; mind realises one candidate. See [[overdetermination-dissolution-under-selection-only-interactionism]] for the full argument.
 
-The dissolution has a price. The [[causal-consistency-constraint|causal-consistency constraint]] (Torres Alegre 2025) requires mental selection preserve Born statistics: any scheme respecting no-signalling must be indistinguishable from unbiased Born per event. On the strictest reading of [[tenets#^minimal-quantum-interaction|Tenet 2]], the hypothesised bias leaves no per-trial signature (bounded by approximately $\varepsilon^2 / (2 \ln 2)$ bits per trial). The honest characterisation: framework-coherence-supported, per-trial operationally undiscriminable by construction. Discrimination remains available at ensemble and correlation levels—[[brain-internal-born-rule-testing]] catalogues surviving families (sequential-dependency tests, intention-versus-spontaneity contrasts, Bell-inequality-style tests on phenomenally correlated events).
+The dissolution has a price. The [[causal-consistency-constraint|causal-consistency constraint]] (Torres Alegre 2025) requires mental selection preserve Born statistics: any scheme respecting no-signalling must be indistinguishable from unbiased Born per event. On the strictest reading of [[tenets#^minimal-quantum-interaction|Tenet 2]], the hypothesised bias leaves no signature in *unconditioned* outcome frequencies, because what Born-preservation constrains is the long-run marginal rather than the mind-conditioned distributions ([[born-preserving-causal-efficacy]]). The honest characterisation: framework-coherence-supported, operationally undiscriminable by unconditioned aggregate test. Discrimination remains available at ensemble and correlation levels—[[brain-internal-born-rule-testing]] catalogues surviving families (sequential-dependency tests, intention-versus-spontaneity contrasts, Bell-inequality-style tests on phenomenally correlated events).
 
 The Popperian objection that this is a *degenerating research programme* deserves direct answer. The framework forbids per-trial discrimination by design—a structural feature of strict Tenet 2 plus no-signalling, not a refinement introduced to evade falsification. A degenerating programme closes discriminating tests at all levels; the Map's framework is per-trial undiscriminable by construction but ensemble- and correlation-level discriminable in principle. If every adjacent-level test returned null at the required precision, the framework would inherit the degenerating-programme problem then; the catalogue's discriminating families have not yet been run at brain-internal precision, and the verdict is open.
 

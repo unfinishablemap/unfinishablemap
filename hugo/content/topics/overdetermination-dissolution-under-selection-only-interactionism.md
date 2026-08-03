@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-07-15 14:16:35+00:00
+ai_modified: 2026-08-03 08:13:10+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 14:16:35+00:00
-lastmod: 2026-07-15 14:16:35+00:00
+lastmod: 2026-08-03 08:13:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ topics:
 
 Kim's exclusion argument turns on overdetermination: if physical causes are already sufficient for every physical effect, any additional mental cause either duplicates that work (a systematic and intolerable coincidence) or does nothing at all. Selection-only interactionism — the Map's strictest reading of [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction) — dissolves rather than answers this objection. The dissolution turns on a single structural fact: physics at a quantum indeterminacy is not silent on *what could happen* but is silent on *which possibility becomes actual*. The physical contribution specifies the candidate set and its Born-rule probabilities; the mind-side contribution is the realisation of one candidate among the rest. Two operations, two domains, one outcome. There is no second sufficient cause to compete with the first, because the first is not sufficient. Overdetermination requires causal redundancy, and selection-only architecture has none to give.
 
-This is a different move from the standard responses to Kim — Yablo's proportionality, the identity-theory collapse, or Saad's delegatory dualism — which all accept Kim's framing and contest one of his other premises. Selection-only interactionism rejects the framing: at the quantum selection event, the physical and mental contributions are not two routes to the same effect but two parts of a single completed cause. The cost of the dissolution is the empirical price tag developed in [selection-only-mind-influence](/topics/selection-only-mind-influence/): Born-rule preservation, vanishing per-trial signature, content-confinement. The argument is not free, but neither is it ad hoc — it follows directly from what "minimal" means in the Map's tenet.
+This is a different move from the standard responses to Kim — Yablo's proportionality, the identity-theory collapse, or Saad's delegatory dualism — which all accept Kim's framing and contest one of his other premises. Selection-only interactionism rejects the framing: at the quantum selection event, the physical and mental contributions are not two routes to the same effect but two parts of a single completed cause. The cost of the dissolution is the empirical price tag developed in [selection-only-mind-influence](/topics/selection-only-mind-influence/): Born-rule preservation, absence of any signature in unconditioned outcome frequencies, content-confinement. The argument is not free, but neither is it ad hoc — it follows directly from what "minimal" means in the Map's tenet.
 
 One framing point should be flagged at the outset, because the title's word "dissolution" is easy to over-read. What gets dissolved is the *overdetermination structure*: if mind only selects among brain-generated candidates, there are not two sufficient causes to coincide, so Kim's premise 3 has nothing to grip. That conditional result holds whenever the selection-only architecture is in place. Whether the selection-only architecture is itself the *correct* account of mind, as against physicalism — which avoids overdetermination by a different route, identifying mental causes with physical ones — is a separate question, and it is underdetermined by the evidence. Physicalism and selection-only interactionism are, on the overdetermination question alone, empirically equivalent: both escape Kim, by incompatible means, and the escape itself does not adjudicate between them. The dissolution is therefore conditional on the framework, not a standalone result that favours the Map over its rivals.
 
@@ -96,7 +96,7 @@ The two approaches are compatible. The [bridge article](/topics/delegation-meets
 
 The dissolution is not free. It commits the Map to specific empirical claims and to specific limits on what consciousness can do — costs the selection-only-channel article treats in detail and which the [companion topic article](/topics/selection-only-mind-influence/) grounds empirically.
 
-The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through Maier-Dechamps-Pflitsch's 2018 Bayesian replication) or violate no-signalling (since the Born rule itself is derivable from relativistic-causality considerations). The dissolution buys ontological coherence at the price of vanishing measurable per-trial bias. The signed information rate is bounded by approximately ε² / (2 ln 2) bits per trial, where ε is the small fractional deviation any single selection can induce while preserving long-run Born statistics.
+The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through Maier-Dechamps-Pflitsch's 2018 Bayesian replication) or violate no-signalling (since the Born rule itself is derivable from relativistic-causality considerations). The dissolution buys ontological coherence at the price of a bias invisible to unconditioned aggregate tests. What Born-rule preservation constrains is the unconditioned long-run marginal, not the mind-conditioned per-trial distributions; the surviving per-event bound is the log₂(N) ceiling set by the brain-prepared candidate set (see [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)).
 
 The second cost is content-confinement. Mind cannot register, choose, or report content that no candidate encodes. This is a strong constraint on the phenomenal repertoire — the dimensionality of reportable conscious content is bounded above by the dimensionality of the brain-generated candidate space at the relevant decoherence stage. The overdetermination dissolution carries this content-confinement as a structural commitment; without it, the candidate set would not be the upper bound on what mind can supply, and the non-competition argument would fail.
 

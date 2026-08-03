@@ -4,7 +4,7 @@ description: "Every mental-causation claim in the catalogue draws on one shared 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-08-03T06:01:07+00:00
+ai_modified: 2026-08-03T08:14:31+00:00
 draft: false
 topics: []
 concepts: []
@@ -61,7 +61,7 @@ For each claim that mental causation does specific physical work — directs an 
 
 **3. Amplification pathway.** How does the per-event selection scale into macroscopic outcome? Neural-quantum events on the order of 10⁷–10¹² per second across the brain only matter to behaviour if some amplification mechanism (synaptic threshold, motor-program commitment, attentional gain, neuroplastic consolidation) lifts them to the behavioural level. Articles claiming mental causation without naming an amplification pathway are claiming an effect without a mechanism for visibility.
 
-**4. Expected statistical signature.** What pattern in data, if any, would the claim produce? Under Born-rule preservation, the signature must be subtle: vanishing per-trial bias at large N, possible decline effects, content-confinement bounds on reportable phenomenology. Articles whose claims would produce no statistical signature at all are unfalsifiable in practice — and need to say so honestly, locating their support elsewhere (phenomenological argument, indirect inference, internal-coherence consideration).
+**4. Expected statistical signature.** What pattern in data, if any, would the claim produce? Under Born-rule preservation, the signature must be subtle: no departure from Born frequencies under *unconditioned* aggregation at large N, so whatever signature exists lives in conditional structure — possible decline effects, intention-conditioned residuals, content-confinement bounds on reportable phenomenology. Articles whose claims would produce no statistical signature at all are unfalsifiable in practice — and need to say so honestly, locating their support elsewhere (phenomenological argument, indirect inference, internal-coherence consideration).
 
 **5. Falsification condition.** What observation would the claim *not survive*? This is the [[testability-ledger|testability-ledger's]] question asked at claim-level rather than tenet-level. Most mental-causation claims in the catalogue currently inherit testability from the parent article rather than carrying their own. The ledger requires each claim to declare its own disconfirmer.
 
