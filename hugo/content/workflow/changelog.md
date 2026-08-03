@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T02:34:04+00:00'
+ai_modified: '2026-08-03T02:57:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 02:34:04+00:00
+lastmod: 2026-08-03 02:57:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 02:57 UTC - positions-evolve (audit + update)
+
+- **Status**: Success
+- **Mode**: audit (register-wide) + update ×5 across 3 files
+- **Files**: [methodology-and-calibration](/positions/methodology-and-calibration/) (schema + P-M1, P-M2, P-M3, P-M4, P-M5), [positions](/positions/) (template L39, migration-status paragraph), [quantum-interface](/positions/quantum-interface/) (P-Q10)
+- **Trigger**: P2 task from `reviews/pessimistic-2026-08-03-positions-calibration-schema.md` (Issues 1 and 2)
+
+**Audit method.** Wrote a throwaway parser over all 43 `- **Calibration**` lines in the 12 domain files, splitting on `·`, matching each axis by longest-prefix and stripping parenthetical notes before comparing the value against the closed vocabulary. Run before and after; run again against `hugo/content/positions/`. This is the check the review says exists nowhere in the pipeline — it was scratch tooling, deliberately not landed in `tools/`, since the validator is the operator's call (NEEDS-HUMAN, todo L40).
+
+**The review undercounted: seven off-vocabulary values, not six.** A first parse mis-split multi-word axis names and produced 216 false positives; the corrected sweep found the six the review listed **plus `model maturity n/a` at `quantum-interface.md` L149 (P-Q10)**, which no grep in the review or the task notes would have surfaced because it searched for the two known bad strings. Confirms the standing lesson that a review's locus list is a sample, not the population.
+
+**(A) `none` was ADDED to the discriminability axis rather than force-fitting the four entries.** P-I1, P-A2, P-AC3 and P-CS1 record a real distinction the axis lacked: no test bears on them *even in principle* (rival readings of the same data are empirically equivalent), which differs both from a test excluded *by design* (`none-by-construction`, P-Q2's exact Born preservation) and from a position making no world-claim at all (`n/a`). The vocabulary ran from "testable given advances" straight to "excluded by design" and skipped the case between. The four entries were left untouched; the schema gained the band at `methodology-and-calibration.md` and `positions.md` L39. Decision and reasoning recorded in a new **Vocabulary decisions (2026-08-03)** note under `^calibration-schema`, per the task's instruction to make the judgement legible.
+
+**(A2) `model maturity moderate` ×2 → `developed`; `model maturity n/a` ×1 → `developed`.** All three were the same conflation in different dress: the maturity axis was carrying something that is not maturity. P-M3/P-M5 parked the *enforcement gap* there; P-Q10 parked its own *subject* (that no worked mechanism model exists) there. The axis definition now says explicitly that it measures the position's own development, not adoption and not the maturity of what the position is about.
+
+**(B) P-M3 and P-M5 resolved to `credence high`.** Both had asserted high, moderate, and not-yet-high simultaneously — unswept 2026-07-16 residue. Credence measures whether the standard/principle is right, and both are; the enforcement gap moved off the maturity band into the Asserts, and both *Would shift if* clauses were re-keyed so that closing the gap no longer reads as raising credence. P-M5's Asserts now notes the **direction** of the evidence, which had been backwards: evidence that a documented discipline goes unenforced *confirms* P-M5 rather than discounting it, so the schema's own seventeen-day unenforcement is a live instance of the position, not a counterexample to it.
+
+**(B2) Three further entries carried the same residue.** The post-fix sweep found P-M1, P-M2 and P-M4 still naming the retired **Confidence** field in prose. None contradicted its calibration line, so the repair was a relabel — except in P-M1 and P-M4, where the stated *reason* turned out to be a centrality reason wearing a credence label ("the discipline the Map would most damage its credibility by abandoning"), which is precisely the conflation the migration existed to fix. Those two now state credence and centrality separately. All five positions in the schema's defining file carried some form of the residue.
+
+**(C) Seventh axis recommended, NOT executed.** `enforcement: wired / partial / unwired` is the honest instrument for what P-M3/P-M5 were forcing into maturity, and P-M5 would declare `enforcement: partial` about this very schema. Recorded as a recommendation with its reasoning; not adopted, because an added axis touches all thirteen register files and the schema's governance is already an open operator decision.
+
+**(D) Completeness claim amended.** `positions.md` now separates the *field* migration (complete) from the *machinery* migration (not): no validator, and a write path still keyed to the retired band. Also removed "load-bearing" as a bare intensifier from P-M2 per the style guide.
+
+**(E) Both trees synced and verified.** `scripts/sync.py` run in the same pass; the parser re-run against `hugo/content/positions/` returns 43 lines / 0 violations, and each changed string confirmed present in the served tree.
+
+- **Verification**: obsidian 43/0, hugo 43/0, `Confidence is *` prose residue clean in both trees, three `Last reviewed` bumps landed.
+- **Length**: `methodology-and-calibration.md` 2722 → 3401 words (`hard_warning`, threshold 2500). The file was already over before this pass; the schema-decision record is the bulk of the growth. Additions were trimmed ~135 words after a first draft measured 3536. Queued a P3 to relocate its audit trail to a companion file per the `quantum-interface-calibration-history` convention. `quantum-interface.md` 4045 (`critical`, pre-existing, +~50 from the P-Q10 note; its splitting question is already settled twice as declined).
+- **Not actioned (out of scope, operator's call)**: the missing validator and the unmigrated `positions-evolve/SKILL.md`, both already tracked at todo L40. Review Issue 3 (P-AC4's Grade A) has its own open P2 task.
 
 ## 2026-08-03 02:42 UTC - deep-review
 - **Status**: Success

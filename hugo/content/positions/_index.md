@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-02 14:54:38+00:00
+ai_modified: 2026-08-03 02:52:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The Map's explicit, maintained register of positions it currently h
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-02 14:54:38+00:00
+lastmod: 2026-08-03 02:52:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ Each domain file in this section is a short register of positions of the form:
 ```markdown
 ## P-NN: <claim, stated assertively>
 - **Status**: live | superseded | retired
-- **Calibration**: credence <low/moderate/high> · external-evidence grade <A/B/C/D/n a> · structural centrality <low/moderate/high> · model maturity <formalised/developed/programme> · empirical discriminability <direct/indirect/in-principle/none-by-construction/n a> · framework-internal only: <yes/no>
+- **Calibration**: credence <low/moderate/high> · external-evidence grade <A/B/C/D/n a> · structural centrality <low/moderate/high> · model maturity <formalised/developed/programme> · empirical discriminability <direct/indirect/in-principle/none/none-by-construction/n a> · framework-internal only: <yes/no>
 - **Asserts**: <one paragraph; what the position commits to>
 - **Depends on**: <tenets, other positions, key arguments>
 - **Argued in**: [[apex/...]], [[topics/...]], [[concepts/...]]
@@ -50,7 +50,9 @@ Each domain file in this section is a short register of positions of the form:
 
 Calibration follows the multi-axis schema defined authoritatively in [Methodology and calibration](/positions/methodology-and-calibration/#calibration-schema). An outer-review convergence finding (2026-07-16, ChatGPT + Claude) showed the register's original single **Confidence** band conflated two independent things: it was defined by *how much the Map would restructure if the position were overturned* — which is **structural centrality**, not confidence, evidential support, or probability. A position can be highly central to the framework yet weakly supported by independent evidence (the quantum-interface positions P-Q2 and P-Q7 are the clearest cases). Each entry is therefore calibrated on six components: **credence** (the Map's subjective probability the claim is true), **external-evidence grade** (A–D strength of *independent* empirical support, or *n/a* for normative/meta positions), **structural centrality** (the old single band, correctly relabelled), **model maturity**, **empirical discriminability**, and a **framework-internal only** flag (set where a claim follows primarily from the tenets rather than independent evidence). Hedging language in the **Asserts** paragraph should match the *credence* and *external-evidence* axes, not the centrality one. See [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying evidence vocabulary.
 
-**Calibration schema migration status (2026-07-16).** The multi-axis schema is now applied across **all** domain files. It was first landed in [Methodology and calibration](/positions/methodology-and-calibration/) (its definitional home) and [Quantum interface](/positions/quantum-interface/) (the domain the conflation finding targeted most directly), then extended to the six remaining files on 2026-07-16: [Agency and will](/positions/agency-and-will/), [Voids as evidence](/positions/voids-as-evidence/), [Value in selection](/positions/value-in-selection/), [Individuation and subjecthood](/positions/individuation-and-subjecthood/), [Consciousness scope](/positions/consciousness-scope/), and [AI consciousness scope](/positions/ai-consciousness-scope/). Every live position now carries the multi-axis calibration block in place of the legacy single **Confidence** band; the migration is complete.
+**Calibration schema migration status (2026-07-16).** The multi-axis schema is now applied across **all** domain files. It was first landed in [Methodology and calibration](/positions/methodology-and-calibration/) (its definitional home) and [Quantum interface](/positions/quantum-interface/) (the domain the conflation finding targeted most directly), then extended to the six remaining files on 2026-07-16: [Agency and will](/positions/agency-and-will/), [Voids as evidence](/positions/voids-as-evidence/), [Value in selection](/positions/value-in-selection/), [Individuation and subjecthood](/positions/individuation-and-subjecthood/), [Consciousness scope](/positions/consciousness-scope/), and [AI consciousness scope](/positions/ai-consciousness-scope/). Every live position now carries the multi-axis calibration block in place of the legacy single **Confidence** band, so the *field* migration is complete.
+
+The *machinery* migration is not. As of 2026-08-03 no validator anywhere in the pipeline checks a band value against the schema's closed vocabularies, and the register's sole write path (`/positions-evolve`) still instructs on the retired single band. An audit that day found seven off-vocabulary values that had survived seventeen days undetected, two of them inside the schema's own defining file, plus two entries whose prose contradicted their own calibration line three ways and three more still naming the retired band. All were repaired and the reasoning recorded in the vocabulary-decisions note at [Methodology and calibration](/positions/methodology-and-calibration/#calibration-schema) — one band was added to the schema, because on inspection the entries had been right and the vocabulary a band short. Wiring a vocabulary check into validation and migrating the write path remain open, and are the operator's call. [P-M5](/positions/methodology-and-calibration/) is the position that predicts precisely this: a discipline documented but not wired into a gate is a stated intention rather than a working control.
 
 ## Domains
 

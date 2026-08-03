@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-07-31T08:09:00+00:00
+ai_modified: 2026-08-03T02:52:48+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -146,11 +146,12 @@ These positions cover what the Map currently holds about the mechanism by which 
 ## P-Q10: No worked toy model of the mechanism currently exists
 
 - **Status**: live
-- **Calibration**: credence high · external-evidence grade n/a (meta/accounting) · structural centrality high · model maturity n/a (asserts the absence of a worked model) · empirical discriminability n/a (meta) · framework-internal only: no
+- **Calibration**: credence high · external-evidence grade n/a (meta/accounting) · structural centrality high · model maturity developed (a worked accounting claim carrying an explicit discharge roadmap; the absent mechanism model is this position's *subject*, not a measure of the position itself) · empirical discriminability n/a (meta) · framework-internal only: no
 - **Asserts**: The Map does not currently possess a worked formal model — toy Hamiltonian, master equation, computational simulation — of how conscious selection couples to a neural quantum state. The mechanism cluster is held at the level of programme commitments rather than equations. This is a meta-position about the state of the work, not a position about the world. It is recorded explicitly because the confidence levels of P-Q1, P-Q2, P-Q3, P-Q7, and P-Q9 all depend on it; were a worked toy model to appear and survive review, several positions in this register would tighten by one band.
 - **Toy-model roadmap (added 2026-06-25)**: A minimal model must expose the bias-without-deviation structure (P-Q3) concretely. *Required variables*: a decohered branch-set with Born weights {pᵢ}; a selection parameter ε (per-trial bias strength, bounded by P-Q2/P-Q7 to keep aggregate statistics Born-exact); an observable separating a selected from an unselected single trajectory. *Minimal formal target*: a master-equation or stochastic-process toy in which a selector biases *which* branch actualises per trial while the long-run distribution provably converges to {pᵢ}. *Success*: a counterfactually efficacious single-trial bias whose signed long-run rate vanishes (~ε²/(2 ln 2) bits/trial, per [[selection-only-channel]]). *Failure*: any construction showing the two requirements are jointly unsatisfiable — collapsing selection into a redescription of chance, which would force P-Q3 toward the epiphenomenalism horn and demote P-Q1. *Suspended until progress*: every downstream applied claim that consciousness "does causal work," and the AI-substrate verdict (P-AC1 in [[positions/ai-consciousness-scope]]), reads no more confidently than this roadmap's open status.
 - **Depends on**: state of the corpus; honest accounting
 - **Argued in**: [[apex/post-decoherence-selection-programme]] (acknowledges this gap), [[apex/born-preserving-causal-efficacy]] (states the six toy-model desiderata), [[apex/interface-specification-programme]]
 - **Would shift if**: a worked toy model is published or built by the project and survives review; or the *Failure* branch of the roadmap above is realised; or the project explicitly decides the mechanism cluster will remain at programme-level and never aspire to a toy model.
 - **Calibration history**: [[positions/quantum-interface-calibration-history#p-q10|note of 2026-07-25]] — the addition of the negative-result (joint-unsatisfiability) branch to the shift conditions above. No confidence change.
-- **Last reviewed**: 2026-07-25
+- **Updated 2026-08-03**: model maturity `n/a` → `developed`. `n/a` was off-vocabulary on this axis and rested on a conflation — it read the position's subject (no worked mechanism model exists) as the position's own maturity. No substantive claim, dependency, or other band changed.
+- **Last reviewed**: 2026-08-03
