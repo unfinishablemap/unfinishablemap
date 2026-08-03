@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T09:55:00+00:00'
+ai_modified: '2026-08-03T10:01:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 09:55:00+00:00
+lastmod: 2026-08-03 10:01:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 10:01 UTC - refine-draft (citation-framing right-sizing: three sources that support a defensive conclusion were carrying a positive one)
+
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 3,642 → 3,916 (+274; ~360 added, ~86 trimmed — soft_warning throughout, 84 words under the 4,000 hard threshold)
+- **Sources re-verified at publisher this session**: Huemer, Zanotti
+- **Published**: yes
+
+Not fabrication — the sources are real and the Lycan quotation is verbatim and correctly framed (left untouched; it is the corpus model). The defect was the inference drawn from them.
+
+**Huemer.** Verified against the abstract at Oxford Academic (`10.1111/j.1467-9213.2008.569.x`, *PQ* 59(235)). The article's quoted fragment "none of the accounts of the virtue of parsimony extends naturally" is verbatim, but it was completed as "…to philosophical cases like physicalism versus dualism". Huemer's two cases are the appeals made *on behalf of physicalism and on behalf of nominalism* — not physicalism-versus-dualism. Restored his actual pairing, and added the conclusion the article had been leaving out: "in typical philosophical contexts, ontological simplicity has no evidential value." That reads as a stronger defensive result and a firmer bar on the positive one, since it cuts symmetrically — a note now says so explicitly, since Tenet 5's self-binding requires it.
+
+**Zanotti.** Verified against the Springer abstract (`10.1007/s11229-021-03281-7`, *Synthese* 199:11109–11132) via an aggregator carrying it in full; Springer, PhilPapers and Semantic Scholar all refused direct fetch. The article had glossed his title phrase "burden of parsimony" as "the explanatory debts that accumulate when consciousness must be accommodated", then asserted "they are present structural features of every physicalist programme" on his authority. That inverts the paper. Zanotti's burden falls on the parsimony *appeal*: the physicalist invoking simplicity owes an account of why simplicity has epistemic value in metaphysics, and the most promising candidate — modesty — fails to favour physicalism over dualism. Rewritten to that, with the debts-claim explicitly reassigned to the Map ("rests on the arguments given for it here rather than on Zanotti's authority"). Two downstream fixes: "Zanotti's burden analysis" → "modesty analysis" in Relation to Site Perspective, and the modesty section now marks that its draw verdict "is where Zanotti himself lands" — which it is.
+
+**Boundary substitution in the debt taxonomy — the larger half of this fix.** "Three Unavoidable Debts" opened "Every physicalist account must accept at least one of three explanatory debts". Measured in-file before editing: `Type-A` 0, `representationalism` 0. Two of the four rivals the outer review named were not mis-sorted into the taxonomy — they were absent from the article entirely, so the exhaustiveness claim was quantifying over positions that had never been engaged. Type-A functionalism, representationalism, higher-order theories and conceptually-available identity theory reject the explanatory demand rather than paying one of the three debts; the taxonomy made them look defeated by the Map's accounting categories. Header rescoped to "Three Debts for Physicalists Who Grant the Demand", the framing sentence now states the grant condition, and a new paragraph names the demand-denying positions, states their move in their own terms (occupying the state is what having the experience consists in; the further explanandum is an artefact of how phenomenal concepts refer), records that the Map holds they fail, and concedes that the case has to be argued position by position and is not made by their absence from the ledger. No refutation attempted here — that was not the task. "Interactionist dualism avoids all three" now adds "and does so while granting the demand rather than dissolving it", which is what makes the comparison fair.
+
+Engagement classification (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): the new paragraph is **Mode Three** — the disagreement with demand-denying physicalism is marked at the framework boundary and explicitly not claimed as an in-framework refutation, with a forward pointer to where the Map argues it. This is boundary-marking installed to *replace* a boundary substitution, which is the discipline's intended direction.
+
+**Trims to stay under the hard threshold** (the additions alone would have landed at 3,981/4,000, 19 words of margin). Four genuine redundancies, no content dropped: the psychophysical-law enumeration was stated twice in near-identical wording (kept the modesty-section instance, pointer in the debts section); the proliferation section made the same concession in two consecutive sentences; the interactionism-over-epiphenomenalism section recapitulated its own two preceding paragraphs point for point; the lead's framework-boundary sentence restated its own previous clause.
+
+- **Not touched**: `apex/dualism-cartography` carries a parallel parsimony locus and the same over-strong inference, but sits at 5,099/5,000 — already over its hard threshold with an open task about the overage and the condense-or-split decision it forces. Flagged for sweep once that decision is made; editing it now would deepen an existing violation.
 
 ## 2026-08-03 09:55 UTC - deep-review (fifth pass, and not a no-op: this morning's ε² withdrawal sweep left four contradicting passages behind in the same file)
 
