@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T02:57:46+00:00'
+ai_modified: '2026-08-03T03:19:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 02:57:46+00:00
+lastmod: 2026-08-03 03:19:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 03:19 UTC - positions-evolve (update)
+
+- **Status**: Success
+- **Mode**: update ×1 — P-AC4
+- **Files**: [ai-consciousness-scope](/positions/ai-consciousness-scope/)
+- **Trigger**: P2 task from `reviews/pessimistic-2026-08-03-positions-calibration-schema.md` (Issue 3 + the heading finding)
+
+**(A) External-evidence grade A -> B.** P-AC4's empirical half rests on Gurnee et al. (2026), *Verbalizable Representations Form a Global Workspace in Language Models*, Transformer Circuits Thread, Anthropic, 2026-07-06 — the model vendor's own non-refereed web venue, about the vendor's own models, ten days old at the entry's then-current `Last reviewed: 2026-07-16`. Grade A is defined as "established / strongly-supported **independent** evidence," and the schema's own paradigm case is P-Q6's peer-reviewed multi-group *Nature Physics* result (Donadi 2021). Grading an industry technical post at that tier flattens the very axis the 2026-07-16 migration was built to sharpen. Downgraded to **B** ("some independent support (realistic possibility)") with a one-sentence venue flag naming why: un-refereed vendor publication about the vendor's own models, ~1 month old at grading, with one replication. Nanda's independent replication is what makes **B** rather than C the right landing point. Grade A is stated as available on refereeing or replication by a second independent group.
+
+**The citation is sound — this was a grading defect, not a fabrication.** The substantive claim and its 2026-07-16 narrowing (workspace/global-availability signatures, *not* full-Block-notion "access consciousness instantiated") are untouched; the grade's existing scoping to the narrow claim survives verbatim.
+
+**Two further grade-letter loci found in the same file.** The task named L89 only. The Asserts paragraph closes "it is that narrow claim ... that carries the Grade A," and the domain intro's calibration-schema note (L48) states "P-AC4's workspace-signatures half is framework-independent and Grade A." Both would have contradicted the downgraded axis. Standing lesson again: a review's locus list is a sample, not the population.
+
+**(B) Heading re-labelled, not re-scoped.** The heading asserted the framework-conditional half flatly — "and that leaves the phenomenal question untouched" — while the body correctly holds that clause at Tenet 1's confidence (Grade D) and its own *Would shift if* names illusionism as the defeater. Position headings are a navigation surface and the string apex articles quote, so the label was outrunning the claim. Now "— and on the Map's reading that leaves the phenomenal question open," which matches the `description:` frontmatter, already correct ("while the phenomenal question stays open"). No scope change to the position.
+
+**Venue-caveat asymmetry confirmed.** Across 132 Gurnee mentions in `obsidian/`, no live article or position carried a venue caveat; the three mentions a naive grep returns with caveat language are all this defect's own paperwork (changelog, todo, the review). The corpus does apply venue caveats elsewhere — `topics/ai-consciousness.md` flags Hoel 2025 twice as "a preprint not yet peer-reviewed" — so the discipline existed and simply had not been applied to the register's most load-bearing external-evidence claim, which P-M3 mandates in terms.
+
+- **Verification**: both trees synced; all four changed strings (heading, grade B in the calibration axis, the Asserts sentence, the L48 domain-intro note) confirmed present in `hugo/content/positions/ai-consciousness-scope.md`. `Last reviewed` bumped 2026-07-16 -> 2026-08-03.
+- **Length**: 2764 -> 2801 words, net **+37** against a 2500 hard threshold the file already breached before this pass (`hard_warning` on arrival). Stated plainly per the task: the venue flag could not be landed without net growth. The addition was trimmed from a first draft that measured 2804; no existing calibration entry was condensed to fund it, since the entries are the product. The section-wide length problem (5 of 13 register files breaching) is the open operator decision minted today and was not touched.
+- **Not actioned (out of scope)**: `concepts/access-consciousness.md` L157 already names the venue honestly and needed no change. The domain-intro bullet at L44 ("leaving phenomenal consciousness untouched") describes the position's structure rather than serving as a heading; left alone rather than widening scope. `positions-evolve/SKILL.md` is still unmigrated off the retired single `Confidence:` band — already tracked at todo L40.
+- **Cascade**: no position lists P-AC4 in its `Depends on`. No downstream updates required.
 
 ## 2026-08-03 02:57 UTC - positions-evolve (audit + update)
 
