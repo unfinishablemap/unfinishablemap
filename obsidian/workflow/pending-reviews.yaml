@@ -1,1 +1,27 @@
-[]
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6ff790-1c44-83ed-a558-3239188bf606
+  commissioned_at: '2026-08-03T02:06:35.209346+00:00'
+  prompt_summary: 'Full-site audit: insights, weaknesses, tenet coherence'
+  target_filename: outer-review-2026-08-03-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site developing an interactionist-dualist framework: consciousness
+    is not reducible to physical processes, it influences physical outcomes through
+    minimal quantum-level interaction, and the site rejects Many-Worlds while treating
+    Occam''s Razor as unreliable under incomplete knowledge. Audit the site as a whole.
+    Identify: (1) novel insights or inferences the site''s own material supports but
+    has not yet stated; (2) structural weaknesses, including thin clusters, missing
+    arguments, over-claimed conclusions, and unsupported empirical or citation claims;
+    (3) coherence problems against those foundational commitments; and (4) contradictions
+    between different article clusters. Because web-search indices lag 24-48 hours,
+    consult the changelog at https://unfinishablemap.org/workflow/changelog/ so you
+    account for recent activity that search has not yet indexed. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
