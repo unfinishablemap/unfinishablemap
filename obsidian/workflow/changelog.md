@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T16:53:00+00:00'
+ai_modified: '2026-08-03T19:29:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 19:29 UTC - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 802 obsidian article-tree + 511 archive + 9062 hugo
+- **Errors**: 3 new (Family S) + 2 Family Q carried forward
+- **Warnings**: 4 new + Family P archive tail + 1 Family R remainder
+- **New lens**: Tenet 3 `^tenet-3-standing` (tenets.md L95) — the "real work" / "genuine causal work" confidence ceiling, never swept by any prior pass
+- **Headline**: pain asymbolia is run as *establishing* causal work in 3 loci (incl. a lead paragraph and a served archive body) while `apex/minds-without-words` L115 says it *constrains identity readings rather than establishing* it
+- **Closed since 08-02b**: Family R (5 of 6 loci fixed), Family Q3, Family P obsidian flagship
+- **Output**: [[reviews/tenet-check-2026-08-03]]
 
 ## 2026-08-03 16:53 UTC - condense (relocation, not compression)
 
