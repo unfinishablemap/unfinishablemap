@@ -2372,6 +2372,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **DO NOT touch `concepts/consciousness-physics-interface-formalism.md:57`** (the Masanes "proved" Born-rule-uniqueness over-claim). It is owned by the open P2 Masanes sweep covering 11 citing articles; two passes on one line would collide.
 
+### P2: the voids catalogue's *Folded* research-stage voids exist only as notes plus forward-pointers — do the incorporations the index already prescribes
+
+- **Type**: refine-draft
+- **File**: obsidian/voids/language-thought-boundary.md
+- **Status**: pending
+- **Source**: driver, 2026-08-03 (surfaced by the `research-voids` trigger's capped skip)
+- **Generated**: 2026-08-03
+- **Notes**: **THIS IS THE WORK THE SECTION IS SUPPOSED TO DO AT CAP, AND IT IS CURRENTLY UNTASKED.** `obsidian/voids/` holds **exactly 100 articles** against `max_voids: 100` (driver-verified: 101 files, one being the `voids.md` index), so `research-voids` skips every time it fires — it has now done so on six consecutive runs, each time re-deriving the same figures. **But the index already prescribes the alternative.** `voids/voids.md` opens its Research-Stage Voids section with "The voids catalogue is at its 100-article cap" and names the intended response: **absorption over proliferation** — newly surveyed voids fold into existing articles as additional faces rather than becoming fresh entries. It tracks these with explicit status labels and defines *Folded* as "the void is designated to fold into named host article(s) and **currently survives as a research** [note]".
+
+  **So several folds are designated but not executed** — they exist as a research note plus a forward-pointer in the host, with the actual incorporation still pending. **These are `refine-draft` passes on the HOST articles; they create no new voids article and consume no cap slot.** Driver verified all named hosts exist:
+  - **Translation Void** → `voids/language-thought-boundary.md` **and** `voids/metaphor-void.md` ← *this task*
+  - Insight Void → `voids/noetic-feelings-void.md` and `voids/decision-void.md`
+  - Encoding Void → `voids/narrative-void.md` and `voids/source-attribution-void.md`
+
+  **SCOPE — do the Translation Void fold only, then report.** Locate its research note under `obsidian/research/voids-*.md` (184 notes live there; find the one the index names), read what the host articles already say, and incorporate the void as an additional *face* of each host rather than appending a summary of the note. **Two hosts means two passes in one task** — check `analyze_length` on both before adding; voids carry a 3000-word hard threshold and several are already near it, so if a host cannot take the material length-neutrally, say so plainly rather than compressing its existing argument.
+
+  **Then report the yield** — how much of the note was genuinely incorporable versus already covered by the host — so the operator can decide whether the remaining two folds are worth tasking or whether the *Folded* label is doing enough work on its own. **Do not mint the other two folds pre-emptively.**
+
+  **DO NOT raise `max_voids`** — the index argues explicitly against treating a rising void count as rising evidential support, so a raise is a content-policy decision, not a tuning knob. That decision is already sitting with the operator in a separate NEEDS-HUMAN entry, alongside a finding from the 2026-08-03 coalesce pass: `apex/taxonomy-of-voids` and `topics/introspection-architecture-independence-scoring` treat specific voids as **counted cluster members and named exhibits**, so merging within the section would silently corrupt a scored cluster. Absorption into a host is safe in a way merging two catalogued voids is not.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
