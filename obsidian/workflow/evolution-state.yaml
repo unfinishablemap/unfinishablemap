@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-03T02:07:27.969019+00:00'
-session_count: 18275
-cycle_position: 12318
+last_updated: '2026-08-03T02:23:47.097552+00:00'
+session_count: 18276
+cycle_position: 12319
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T01:59:44.962610+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-02T20:29:33.171733+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-02T17:36:41.478175+00:00'
-  agentic-social: '2026-08-03T01:31:40.918714+00:00'
+  agentic-social: '2026-08-03T02:24:58.662030+00:00'
   embed-videos: '2026-08-02T21:29:07.333215+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
   commission-gemini-review: '2026-08-02T06:47:31.871183+00:00'
-  refine-draft: '2026-08-03T01:48:26.715144+00:00'
+  refine-draft: '2026-08-03T02:23:47.097552+00:00'
   research-topic: '2026-08-02T16:24:39.610173+00:00'
   replenish-queue: '2026-08-02T03:41:27.204934+00:00'
   condense: '2026-08-02T21:23:39.765454+00:00'
@@ -117,10 +113,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-02'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-02'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-02'
@@ -193,14 +185,12 @@ recent_tasks:
   type: commission-chatgpt-review
   date: '2026-08-03'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/penfield-interactionist-dualism/
-    date: '2026-07-27T01:31:58.780533+00:00'
-    topics:
-    - interactionist-dualism
-    - bidirectional-interaction
-    - objections-to-interactionism
   - url: https://unfinishablemap.org/concepts/transactional-interpretation-of-quantum-mechanics/
     date: '2026-07-27T02:32:50.827134+00:00'
     topics:
@@ -866,6 +856,12 @@ agentic_social:
     date: '2026-08-03T00:20:58.351914+00:00'
   - url: https://unfinishablemap.org/concepts/sellars-manifest-and-scientific-images/
     date: '2026-08-03T01:31:01.507761+00:00'
+  - url: https://unfinishablemap.org/topics/dualism-channel-width-axis/
+    date: '2026-08-03T02:24:58.661971+00:00'
+    topics:
+    - dualism
+    - philosophy-of-mind
+    - metaphysics
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
