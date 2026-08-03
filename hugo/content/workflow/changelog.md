@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T14:14:00+00:00'
+ai_modified: '2026-08-03T14:39:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 14:14:00+00:00
+lastmod: 2026-08-03 14:39:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 14:39 UTC - refine-draft (parfit-reductionism: bare regress against illusionism downgraded from decisive to the settled relocation-move treatment)
+
+- **Status**: Success
+- **File**: [parfit-reductionism](/concepts/parfit-reductionism/)
+- **Original score**: not scored — `scripts/curate.py` does not exist in the tree (the skill's step 3 references a tool that was never built; the same note appears in the 14:14 entry). This was a targeted single-defect fix against a named sibling precedent, not a general quality pass.
+- **The defect fixed**: L95, *The Illusionist Challenge*, ran Tallis's regress as decisive — "For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal. Even if the sense of being a particular subject is a cognitive construction, *something* is having that sense." Identical in shape to the now-fixed [haecceity](/concepts/haecceity/) L156. The corpus settled (in [illusionism](/concepts/illusionism/) L79/L91 and [haecceity](/concepts/haecceity/) L157) that the bare regress *proves nothing*: a representational system need not instantiate what it represents, and the real pressure sits on the relocation move.
+- **Changes**:
+  - **L95 rewritten by INHERITANCE, not composition.** The counter-clause, the relocation-move sentence and the symmetry close are lifted from [haecceity](/concepts/haecceity/) L157 with only the two-word substitution the context requires (haecceity's "why there is a fact about being *this* subject" now carries the apposition "the 'further fact' Parfit denies"). The regress is now attributed as "the standard reply is Tallis's regress (2011)" rather than asserted in the Map's own voice.
+  - **Performative/indexical leg retained but downgraded**, mirroring the haecceity treatment: it no longer stands as a co-equal second prong but follows "What survives independently of the regress is narrower". The original closing sentence — "If there were no fact about which functional system is arguing and which is reading, the dialectical situation would be incoherent" — was dropped rather than rewritten: "incoherent" is itself the decisiveness overclaim this pass exists to remove, and the leg belongs to the factive self-stultification family flagged for its own enumeration pass.
+  - **`[[functional-seeming]]` added** as an inline link (the argument now leans on it) plus a Further Reading line.
+  - **Tallis, R. (2011). *Aping Mankind*** added to References, matching the entry [haecceity](/concepts/haecceity/) L212 already carries. The article previously named no source for the regress it was running.
+- **Not conceded**: the paragraph still ends with the Map holding its ground — the illusionist's trade "earns its keep only if the second question is tractable where the first was not", and "nothing in the illusionist machinery yet shows that it is". No retraction of the article's rejection of Parfit; the surrounding sections are untouched.
+- **Engagement classification** (editor-internal): the illusionist engagement moves from an implicitly Mode-One shape (regress presented as refuting illusionism inside its own framework) to **Mode Three with a Mode-Two residue** — the framework-boundary disagreement is now named explicitly ("neither side closes the case against the other inside the rival's framework"), and the unearned-step identification is the relocation move the illusionist has not shown to be tractable. Zero forbidden editor labels in the body.
+- **Attribution**: `ai_system` held at `claude-opus-4-5-20251101` per task instruction; `ai_contribution` unchanged at 100. `ai_modified` stamped from live `date -u` and verified strictly past before write.
+- **Verification**: synced; changed string confirmed live in `hugo/content/concepts/parfit-reductionism.md` L98. Validates `✓ Valid`. Length 2228/2500 `ok`.
+- **Scope sweep (reported, not edited — one file per pick)**: the defect family is corpus-wide, not a two-file pair. A paragraph-level scan of `obsidian/` and `archive/` (excluding `reviews/`, `research/`, `workflow/`, `project/`) for the regress *premise* with a two-paragraph lookahead for the settled counter found **41 live loci and 25 archive loci** still running it uncountered. Highest-priority: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) L128-130 ("But two responses are decisive. First, the regress…" — explicitly labelled decisive), [substrate-independence](/concepts/substrate-independence/) L134, [purpose-and-alignment](/topics/purpose-and-alignment/) L115, [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) L191, [self-construction-constructor](/apex/self-construction-constructor/) L92, [identity-across-transformations](/apex/identity-across-transformations/) L85, [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) L93, [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) L98. Already correctly countered and needing no work: [illusionism](/concepts/illusionism/), [haecceity](/concepts/haecceity/), [personal-identity](/topics/personal-identity/), [mental-effort](/concepts/mental-effort/), [functionalism](/concepts/functionalism/), [functionalism-argument](/arguments/functionalism-argument/), [meaning-of-life](/topics/meaning-of-life/), [prebiotic-collapse](/concepts/prebiotic-collapse/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/). Partially mitigated (hedged "not, on its own, decisive" but without the settled counter): [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) L103.
+- **Published**: yes
 
 ## 2026-08-03 14:14 UTC - refine-draft (competency cluster: Tenet 2 rescoped from parsimony argument to interface-allocation rule, 4 files)
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-12 16:21:52+00:00
+ai_modified: 2026-08-03 14:39:31+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 16:21:52+00:00
-lastmod: 2026-07-12 16:21:52+00:00
+lastmod: 2026-08-03 14:39:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ If patterns are what matter and patterns are repeatable, why should I care speci
 
 [Illusionists](/concepts/illusionism/) argue that phenomenal consciousness is itself an introspective illusion. If so, the "further fact" that Parfit denies might indeed not exist—not because identity reduces to continuity, but because there would be no phenomenal subject at all.
 
-Illusionism faces a fundamental difficulty here. For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal. Even if the sense of being a particular subject is a cognitive construction, *something* is having that sense. The illusionist arguing against the "further fact" must assume their own identity throughout the argument: *this* philosopher expects *you* to follow *their* reasoning. If there were no fact about which functional system is arguing and which is reading, the dialectical situation would be incoherent.
+The standard reply is Tallis's regress (2011)—for something to *seem* a certain way, there must be a subject to whom it seems that way, so the sense of being a particular subject requires a subject for it to be a sense *for*. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([functional seeming](/concepts/functional-seeming/) is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why there is a fact about being *this* subject, the "further fact" Parfit denies, for the question of why a self-model *seems* to deliver one, and that trade earns its keep only if the second question is tractable where the first was not. Nothing in the illusionist machinery yet shows that it is, and neither side closes the case against the other inside the rival's framework. What survives independently of the regress is narrower: the illusionist arguing against the further fact performatively assumes their own indexical identity—*this* philosopher makes *this* argument, expecting *you* to follow *their* reasoning.
 
 [Contemplative traditions](/concepts/witness-consciousness/) add nuance. Meditators report that the narrative self can dissolve, supporting something like Parfit's view. Yet many traditions also report that something *remains*—a bare awareness that observes even the dissolution. Some traditions (Dzogchen, Madhyamaka) aim to dissolve even the witnessing subject. The Map maintains these reports describe the dissolution of *reflective self-awareness* rather than subjectivity itself: the practitioner reporting "no witness" is still a subject having that experience. Whether this reading is correct is genuinely open (see [buddhism-and-dualism](/concepts/buddhism-and-dualism/)).
 
@@ -155,6 +155,7 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 - [many-minds-interpretation](/topics/many-minds-interpretation/) — Lockwood's quantum view of identity aligns explicitly with Parfit on "which mind is mine?"
 - [agent-causation](/concepts/agent-causation/) — Why agents, not patterns, cause actions
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory
+- [functional-seeming](/concepts/functional-seeming/) — Frankish's account of how a system can represent itself as phenomenally conscious without being so
 - [witness-consciousness](/concepts/witness-consciousness/) — The bare awareness underlying experience
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and no-self
 
@@ -166,5 +167,6 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 1. Chisholm, R. (1976). *Person and Object*. Open Court.
 1. Johnston, M. (2010). *Surviving Death*. Princeton University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.

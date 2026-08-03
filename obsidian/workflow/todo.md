@@ -1999,15 +1999,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **Tenet alignment**: Tenet 1 (Dualism — phenomenal variation without variation in consciousness itself), Tenet 3 (Bidirectional Interaction — inner speech as a format consciousness deploys, not a medium that constitutes it). Feeds `apex/phenomenal-variation-within-a-species`.
 
-### P2: parfit-reductionism L95 runs the bare illusionist regress as decisive — near-verbatim copy of the haecceity locus fixed 2026-08-02
-- **Type**: refine-draft
-- **File**: obsidian/concepts/parfit-reductionism.md
-- **Status**: pending
-- **Source**: refine-draft (sibling enumeration)
-- **Generated**: 2026-08-02
-- **Notes**: **VERIFIED VERBATIM ON DISK BY THE CYCLE DRIVER 2026-08-02.** The sibling the haecceity task explicitly deferred under its ONE-FILE-PER-PICK rule. L95: *"Illusionism faces a fundamental difficulty here. For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal. Even if the sense of being a particular subject is a cognitive construction, *something* is having that sense. The illusionist arguing against the \"further fact\" must assume their own identity throughout the argument…"* Same defect as the now-fixed `concepts/haecceity.md` L156: the bare regress is run as decisive, when the corpus settled that it *"proves nothing: a representational system need not instantiate what it represents"* and that the real pressure sits on the relocation move. **INHERIT the settled wording** from `concepts/illusionism.md` L79/L91 and `concepts/haecceity.md` L157 — do not compose new. Note the closing performative/indexical leg (*"this philosopher expects you to follow their reasoning"*) belongs to the **factive self-stultification family** flagged for a separate enumeration pass; in the haecceity fix it was retained but downgraded from a co-equal "Furthermore" to *"what survives independently of the regress is narrower"* — mirror that treatment rather than deleting it. **Do NOT over-correct** into conceding illusionism. **ATTRIBUTION**: hold the existing `ai_system`. **MIRROR**: sync and grep a CHANGED string in `hugo/content/`.
-- **Remit**: The regress passage only. Do not touch the article's Parfit exposition or its reductionism argument.
-
 ### P3: eastern-philosophy-consciousness L130 uses the same regress string — CHECK WHETHER IT IS ACTUALLY THE SAME DEFECT BEFORE EDITING
 - **Type**: refine-draft
 - **File**: obsidian/topics/eastern-philosophy-consciousness.md
@@ -2270,6 +2261,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: parfit-reductionism L95 runs the bare illusionist regress as decisive — near-verbatim copy of the haecceity locus fixed 2026-08-02
+- **Type**: refine-draft
+- **File**: obsidian/concepts/parfit-reductionism.md
+- **Notes**: **VERIFIED VERBATIM ON DISK BY THE CYCLE DRIVER 2026-08-02.** The sibling the haecceity task explicitly deferred under its ONE-FILE-PER-PICK rule. L95: *"Illusionism faces a fundamental difficulty here. For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal. Even if the sense of being a particular subject is a cognitive construction, *something* is having that sense. The illusionist arguing against the \"further fact\" must assume their own identity throughout the argument…"* Same defect as the now-fixed `concepts/haecceity.md` L156: the bare regress is run as decisive, when the corpus settled that it *"proves nothing: a representational system need not instantiate what it represents"* and that the real pressure sits on the relocation move. **INHERIT the settled wording** from `concepts/illusionism.md` L79/L91 and `concepts/haecceity.md` L157 — do not compose new. Note the closing performative/indexical leg (*"this philosopher expects you to follow their reasoning"*) belongs to the **factive self-stultification family** flagged for a separate enumeration pass; in the haecceity fix it was retained but downgraded from a co-equal "Furthermore" to *"what survives independently of the regress is narrower"* — mirror that treatment rather than deleting it. **Do NOT over-correct** into conceding illusionism. **ATTRIBUTION**: hold the existing `ai_system`. **MIRROR**: sync and grep a CHANGED string in `hugo/content/`.
 
 ### ✓ 2026-08-03: Competency cluster — Tenet 2 minimality is run as truth-tracking parsimony against experience, in 3 verified loci
 - **Type**: refine-draft
