@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-07-15T09:01:21+00:00
+ai_modified: 2026-08-03T16:41:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ Retrocausality has serious proponents and empirical grounding in physics.
 
 **Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. Vedovato et al. (2017) extended this over thousands of kilometres via a satellite delayed-choice experiment. Wheeler extended this cosmologically in his [[wheelers-participatory-universe-and-it-from-bit|participatory universe]]—future observers retroactively selecting the entire cosmic history. See [[prebiotic-collapse#Wheeler's Participatory Universe]] for how this addresses the question of what collapsed wavefunctions before consciousness existed.
 
-**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
+**The transactional interpretation**: [[transactional-interpretation-of-quantum-mechanics|Cramer's interpretation]] (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
 
 Tim Maudlin (2011) mounted the most influential challenge. His "contingent absorber" thought experiment places an absorber whose position depends on whether a particle has already been detected elsewhere. The confirmation wave from the contingent absorber presupposes the outcome it is supposed to help determine, creating a causal loop in which the probabilities become either inconsistent or undefined. This is a genuine problem for Cramer's original formulation.
 
@@ -167,6 +167,7 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 
 ## Further Reading
 
+- [[transactional-interpretation-of-quantum-mechanics]] — The canonical treatment of Cramer's handshake and Kastner's possibilism, including what the Map borrows and what it declines
 - [[quantum-indeterminacy-free-will]] — Systematic treatment including retrocausal resolution
 - [[collapse-and-time]] — Collapse, temporal asymmetry, and consciousness
 - [[time-collapse-and-agency]] — The Map's full temporal framework

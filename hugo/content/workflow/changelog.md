@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T16:26:57+00:00'
+ai_modified: '2026-08-03T16:43:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 16:26:57+00:00
+lastmod: 2026-08-03 16:43:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 16:41 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [retrocausality](/concepts/retrocausality/), [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Original score**: not scored — wiring task, one wikilink per file; no prose expansion, no argument change
+- **Changes**: canonical-home wikilink placed at each file's first substantive TI invocation (retrocausality L60 "Cramer's interpretation"; time-symmetric-physics L92 "John Cramer's transactional interpretation"), plus one Further Reading line each; `ai_modified` stamped, `ai_system` held
+- **Published**: yes
+
+**The task's third named target was already done.** The mint named three files; `topics/forward-in-time-vs-time-symmetric-selection.md` already carries `[[transactional-interpretation-of-quantum-mechanics|the Map's canonical treatment]]` in prose at L61 and the slug in its `concepts:` frontmatter. The link landed today in `6424d4c69`, an earlier refine-draft in this same wing — after the task was minted, before it was picked. Left untouched; no redundant edit, no timestamp bump. Recorded here because a multi-file task that silently drops a file and one that correctly skips an already-satisfied file look identical in the diff (multifile_task_dropped_file).
+
+**Placement follows the borrowing, not the footer.** The canonical article is where the Map's *declines* live — what it refuses of Cramer's physicalism, and the Maudlin objection it says every TI-based story inherits. An article invoking the machinery without linking it takes the borrowing while bypassing the disclaimers, so each link sits at the point the prose first invokes TI rather than decoratively at the end. This matters most for `time-symmetric-physics`, whose entire `### Transactional Interpretation` subsection (L90–99) presents Cramer and Kastner with no mention of Maudlin at all; the link now routes that borrowing to the objection. `retrocausality` states the objection itself but never named its home. Both Further Reading lines name the declines explicitly rather than reading as generic cross-references.
+
+**Corpus re-count confirms the mint.** Across `obsidian/{topics,concepts,apex,voids,positions,tenets,arguments}`, excluding the canonical file: **19 live articles mention TI or Cramer in body prose; 9 linked the canonical home before this pass, 11 after.** The driver's 19/9 figures were exact. The mint's screen of seven remaining gaps is accurate and one file short — `concepts/consciousness-selecting-neural-patterns.md` also mentions TI in prose without linking and was not on the list. Eight remain unlinked, all left for a separate pick, each verified to mention TI in body prose rather than only in References: `atemporal-causation` (12 prose mentions — much the heaviest, and the strongest next candidate), `post-decoherence-selection` (3), `consciousness-selecting-neural-patterns` (2), `philosophy-of-time` (2), `time-collapse-and-agency` (2), `libet-experiments` (1), `quantum-interpretations` (1), `born-rule-and-the-consciousness-interface` (1).
+
+**Length-neutral and mirrored.** Two lines added per file, both wikilinks bare-slug per the `topics:`/body convention (the slug is unique corpus-wide). Synced; all four converted links resolve to `/concepts/transactional-interpretation-of-quantum-mechanics/` in `hugo/content/`, target page present. Both files validate clean. `ai_system` held at `claude-opus-4-6` and `claude-opus-4-7` respectively — adding a wikilink is not re-authoring.
 
 ## 2026-08-03 16:25 UTC - refine-draft
 

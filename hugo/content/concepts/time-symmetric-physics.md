@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-02 20:47:50+00:00
+ai_modified: 2026-08-03 16:41:50+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 08:23:30+00:00
-lastmod: 2026-08-02 20:47:50+00:00
+lastmod: 2026-08-03 16:41:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Does measurement introduce a fundamental arrow? This is interpretation-dependent
 
 ### Transactional Interpretation
 
-John Cramer's transactional interpretation (1986) takes time-symmetry seriously. Quantum events involve:
+[John Cramer's transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) (1986) takes time-symmetry seriously. Quantum events involve:
 
 - **Offer waves**: Propagating forward from emitter to absorber
 - **Confirmation waves**: Propagating backward from absorber to emitter
@@ -181,6 +181,7 @@ Time-symmetric physics connects to the Map's [tenets](/tenets/) in several ways:
 
 ## Further Reading
 
+- [transactional-interpretation-of-quantum-mechanics](/concepts/transactional-interpretation-of-quantum-mechanics/) — The canonical treatment of Cramer's handshake and Kastner's possibilism, including the Maudlin objection every TI-based story inherits
 - [retrocausality](/concepts/retrocausality/) — Backward causation and the Libet resolution
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence, grounded in time-symmetric frameworks
 - [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/) — How TSVF gets empirical traction through weak values and post-selected ensembles

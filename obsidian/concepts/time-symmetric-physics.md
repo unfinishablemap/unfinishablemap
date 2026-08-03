@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-08-02T20:47:50+00:00
+ai_modified: 2026-08-03T16:41:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ Does measurement introduce a fundamental arrow? This is interpretation-dependent
 
 ### Transactional Interpretation
 
-John Cramer's transactional interpretation (1986) takes time-symmetry seriously. Quantum events involve:
+[[transactional-interpretation-of-quantum-mechanics|John Cramer's transactional interpretation]] (1986) takes time-symmetry seriously. Quantum events involve:
 
 - **Offer waves**: Propagating forward from emitter to absorber
 - **Confirmation waves**: Propagating backward from absorber to emitter
@@ -177,6 +177,7 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 
 ## Further Reading
 
+- [[transactional-interpretation-of-quantum-mechanics]] — The canonical treatment of Cramer's handshake and Kastner's possibilism, including the Maudlin objection every TI-based story inherits
 - [[retrocausality]] — Backward causation and the Libet resolution
 - [[atemporal-causation]] — Causation outside temporal sequence, grounded in time-symmetric frameworks
 - [[weak-measurement-and-post-selection]] — How TSVF gets empirical traction through weak values and post-selected ensembles
