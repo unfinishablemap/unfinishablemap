@@ -1,10 +1,10 @@
 ---
 title: "Buddhism and Dualism"
-description: "Buddhism rejects permanent self while affirming irreducible consciousness. Compatible with the Map's property dualism when permanence and irreducibility are distinguished."
+description: "Buddhism rejects permanent self while affirming irreducible consciousness—compatible with the Map's property dualism, a bedrock rival on indexical identity."
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-08-03T21:56:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,48 +22,52 @@ concepts:
   - "[[phenomenological-evidence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[positions/individuation-and-subjecthood]]"
+  - "[[yogacara-alaya-vijnana-storehouse-consciousness]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[eliminative-materialism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-07-14T15:51:19+00:00
 ---
 
-Buddhism rejects a permanent self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims—and what each actually denies.
+Buddhism rejects a permanent self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims and denies.
 
-Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance that persists unchanged through rebirth. Buddhism denies this. But denying a permanent soul-substance is not the same as denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. The Map's [[tenets#^dualism|Dualism]] tenet requires consciousness to be irreducible—it does not explicitly require consciousness to be permanent.
+Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance persisting unchanged through rebirth. Denying that is not denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. The Map's [[tenets#^dualism|Dualism]] tenet requires irreducibility, not permanence.
 
-Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [[#emptiness-challenge|emptiness challenge]] (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position. For a detailed treatment of how Buddhist no-self relates to the Map's commitment to [[haecceity|indexical identity]], see [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]].
+Not all interpreters accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself, arguing that *vijñāna* is as empty of inherent existence as the self it constitutes. The [[#emptiness-challenge|emptiness challenge]] (addressed below) takes this seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position; for how Buddhist no-self bears on the Map's commitment to [[haecceity|indexical identity]], see [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]].
 
 ## What Buddhism Actually Denies
 
 Buddhist no-self targets three specific claims:
 
-**Permanence**: Nothing unchanging underlies the stream of experience. The "self" that seems to persist from moment to moment is actually a continuous process of arising and passing away. The flame tonight is causally connected to yesterday's flame but is not the same flame.
+**Permanence**: Nothing unchanging underlies the stream of experience. The "self" that seems to persist is a continuous process of arising and passing away—the flame tonight is causally connected to yesterday's flame but is not the same flame.
 
 **Substantiality**: There is no soul-stuff distinct from the five aggregates (form, feeling, perception, mental formations, consciousness). What we call "self" is just these aggregates in dynamic interaction—no further entity stands behind them.
 
 **Ownership-centricity**: The sense that experiences happen *to* a stable owner—"my" thoughts, "my" feelings—is a construct that meditation reveals to be empty. Experience happens; ownership is imputed.
 
-Buddhism accepts that consciousness (*vijñāna*) is real—it's one of the five aggregates. Buddhism doesn't say "consciousness is an illusion" (that would be eliminativism, which Buddhism rejects). It says "the permanent self *owning* consciousness is an illusion."
+Buddhism accepts that consciousness (*vijñāna*) is real—it is one of the five aggregates. What is an illusion is the permanent self *owning* consciousness, not consciousness itself; the latter would be eliminativism, which Buddhism rejects.
 
-Buddhist contemplative practice constitutes millennia of first-person investigation—what [[phenomenology]] calls attention to experience itself. Meditation involves systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is phenomenological method in practice, predating Husserl by over two millennia. The rigor of Buddhist introspective training parallels what contemporary research suggests on tested tasks: experienced meditators give more accurate introspective reports of tactile sensitivity during body-scanning meditation, measured against objective thresholds, than novices (Fox et al. 2012). This is narrower than a claim that meditators introspect consciousness as such more accurately, but it counts against the view that introspective skill is untrainable. Buddhism's claims about consciousness emerge from disciplined investigation, not mere speculation. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps how Buddhist reports converge with those from Hindu, Christian, Sufi, and Daoist practitioners on structural features like self-dissolution and contentless awareness—despite incompatible metaphysical frameworks. This pattern constitutes [[phenomenological-evidence#convergence|convergent phenomenological evidence]]—a distinct evidential category where independent traditions triangulate on the same first-person observations.
+Buddhist contemplative practice constitutes millennia of first-person investigation—systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is [[phenomenology|phenomenological method]] in practice, predating Husserl by two millennia. Contemporary research supports that training's rigor on tested tasks: experienced meditators give more accurate introspective reports of tactile sensitivity during body-scanning meditation, measured against normative tactile-discrimination and cortical-magnification data, than novices (Fox et al. 2012). This is narrower than a claim that meditators introspect consciousness as such more accurately, but it counts against the view that introspective skill is untrainable. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps how Buddhist reports converge with Hindu, Christian, Sufi, and Daoist ones on structural features like self-dissolution and contentless awareness, despite incompatible metaphysical frameworks.
 
 ## What the Map's Dualism Actually Claims
 
-The Dualism tenet states: "Consciousness is not reducible to physical processes." This claim is distinct from several others it might be confused with:
+The Dualism tenet states: "Consciousness is not reducible to physical processes." That is distinct from several claims it might be confused with:
 
-**the Map does not require substance dualism**: The tenet doesn't say consciousness is a *substance* separate from matter. It says consciousness cannot be *reduced to* physical descriptions—that no complete physical account captures what experience is like.
+**The Map does not require substance dualism**: The tenet doesn't say consciousness is a *substance* separate from matter, only that it cannot be *reduced to* physical processes—"something beyond the material, whether substance, property, or aspect."
 
-**the Map does not require a permanent soul**: The tenet doesn't specify whether consciousness persists eternally, changes moment to moment, or ceases at death. It makes a claim about the relationship between consciousness and physics, not about temporal duration.
+**The Map does not require a permanent soul**: The tenet doesn't specify whether consciousness persists eternally, changes moment to moment, or ceases at death. It concerns the relation between consciousness and physics, not duration.
 
-**the Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [[unity-of-consciousness|phenomenal unity]] is addressed separately.
+**The Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [[unity-of-consciousness|Phenomenal unity]] is addressed separately.
 
-What the Map requires is *irreducibility*: at any given moment, conscious experience has properties that no physical description captures. This is the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to undergo certain physical processes. Buddhism's convergence with other traditions on this point—despite rejecting their metaphysics of substance and self—weakens one specific deflationary objection: that irreducibility is merely a cultural assumption inherited from a particular tradition. Convergence across frameworks that share no common metaphysics makes the "local construction" reading harder to sustain. This is suggestive support, not independent corroboration: as [[phenomenological-evidence#convergence|convergent phenomenological evidence]] is honest about, all human introspection shares one instrument, so the circle is narrowed rather than broken. See [[cross-traditional-convergence-on-consciousness-irreducibility]] for the full analysis.
+What the Map requires is *irreducibility*, and which reading of it matters. Epistemically: no physical description captures what experience is like—the [[hard-problem-of-consciousness|hard problem]]. Metaphysically: there exists something beyond the material. Tenet 1 asserts the second, and Tenets 2 and 3 depend on it, since biasing an indeterminate outcome needs a physical world to bias. Compatibility results that rest on the epistemic reading alone are marked as such below.
+
+Buddhism's convergence with other traditions on irreducibility—despite rejecting their metaphysics of substance and self—weakens one deflationary objection: that irreducibility is a cultural assumption inherited from a particular tradition. This is suggestive support, not independent corroboration: as [[phenomenological-evidence#convergence|convergent phenomenological evidence]] is honest about, all human introspection shares one instrument, so the circle is narrowed rather than broken. See [[cross-traditional-convergence-on-consciousness-irreducibility]] for the full analysis.
 
 ## The Compatibility Thesis
 
@@ -72,111 +76,105 @@ Buddhism and the Map's dualism can coexist if we distinguish two claims:
 1. **Irreducibility** (site's tenet): Phenomenal properties cannot be reduced to physical properties
 2. **Impermanence** (Buddhist doctrine): No phenomenal properties persist unchanged
 
-These are logically independent. Consciousness can be irreducible at each moment while being impermanent across moments. Just as a candle flame is irreducibly a flame (not reducible to descriptions of wax and wick) while constantly changing, consciousness can be irreducibly experiential while constantly arising and passing.
+These are logically independent: consciousness can be irreducible at each moment while impermanent across moments, as a candle flame is irreducibly a flame while constantly changing. Independence at the level of Tenet 1 does not settle compatibility, though. Tenets 2, 3 and 4 constrain further, and the sections below mark where they bite.
 
-This aligns with **property dualism** rather than substance dualism. At each moment there are both physical properties (mass, charge, position) and phenomenal properties (the felt quality of experience). Neither set of properties belongs to a permanent substance; both participate in the flux of dependent origination (*pratītyasamutpāda*). But within that flux, the phenomenal is not reducible to the physical.
+This aligns with **property dualism** rather than substance dualism. At each moment there are physical properties (mass, charge, position) and phenomenal properties (the felt quality of experience); neither belongs to a permanent substance, and both participate in the flux of dependent origination (*pratītyasamutpāda*)—within which the phenomenal is still not reducible to the physical.
 
-The Yogācāra ("Mind-Only") school provides another bridge. By treating consciousness as fundamental—what appears as external world being mental construction—Yogācāra aligns with the Map's rejection of physicalism while maintaining Buddhist impermanence. Consciousness is fundamental *and* constantly changing.
+The Yogācāra ("Mind-Only") school is the Map's principal Buddhist rival rather than a bridge. It treats consciousness as fundamental and the apparent external world as mental construction, which shares the Map's rejection of physicalism while diverging on what replaces it: a consciousness-only substrate leaves nothing independent for consciousness to interact with. The sibling treatment is explicit that "the Map must not conscript it as evidence for its own position." What the Map borrows is narrower.
 
-Yogācāra introduces the *ālaya-vijñāna* ("storehouse consciousness")—a deep level of awareness that carries karmic seeds across moments and lifetimes. This is not a permanent soul; the storehouse itself constantly changes. But it provides continuity without substance: patterns persist while their substrate remains impermanent. Crucially, the *ālaya-vijñāna* is causally active: karmic seeds ripen into effects and new actions deposit new seeds, transmitting causal influence through an impermanent medium rather than merely recording it. Mental causation operates through the storehouse without requiring anything permanent to do the causing. The full eight-consciousness architecture and the seed-perfuming mechanism — and why the Map engages Yogācāra as a rival substrate account rather than an ally — are developed in [[yogacara-alaya-vijnana-storehouse-consciousness|storehouse consciousness as a substrate-continuity theory of mind]].
+The borrowing is the *ālaya-vijñāna* ("storehouse consciousness")—a deep level of awareness carrying karmic seeds across moments and lifetimes. This is not a permanent soul—the storehouse itself constantly changes—but it provides continuity without substance: patterns persist while their substrate remains impermanent. It is also causally active—seeds ripen into effects and new actions deposit new seeds—so mental causation runs through an impermanent medium. The full eight-consciousness architecture and the seed-perfuming mechanism are developed in [[yogacara-alaya-vijnana-storehouse-consciousness|storehouse consciousness as a substrate-continuity theory of mind]].
 
 ## Karma and Bidirectional Interaction
 
-The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Buddhist karma doctrine makes a structurally similar claim: mental states—particularly intentions (*cetanā*)—determine the moral quality of actions and generate consequences that shape future experience.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Buddhist karma makes a structurally similar claim: intentions (*cetanā*) determine the moral quality of actions and generate consequences that shape future experience.
 
-If consciousness were epiphenomenal (causally inert), karma would be incoherent. Intentions would be mere side-effects of physical brain processes, not genuine causal contributors. Both Buddhism and the Map reject this picture. Mental states matter; consciousness does something.
+If consciousness were epiphenomenal (causally inert), karma would be incoherent—intentions would be side-effects of brain processes, not causal contributors. Both Buddhism and the Map reject this picture, and both hold the rejection as a commitment rather than a result—the Map's [[tenets#^tenet-3-standing|note on Tenet 3]] concedes that its interface argument shows downward causation to be *available*, not *actual*.
 
-The mechanism differs. The Map proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared. Both frameworks require what philosophers call [[agent-causation]]—the capacity of a conscious being to initiate causal chains, not merely transmit them. The Buddhist emphasis on *cetanā* (intention, volition) as karmically central parallels the Map's emphasis on conscious selection at moments of physical indeterminacy: in both, what matters is that events originate in something like deliberate choice.
+The mechanism differs. The Map proposes consciousness biases quantum-level outcomes that physics leaves undetermined; Buddhism, predating quantum mechanics by millennia, does not engage it. What they share is *mental causation*—mental states make a difference to what happens—which is what Tenet 3 asserts. What they do not share is [[agent-causation]], which the Map defines as persons originating actions as substances exercising causal powers and which needs a persisting subject. Buddhist *pratītyasamutpāda* is event-causal throughout: *cetanā* is a conditionally arisen mental factor, not a substance-agent initiating a chain. That divergence is the same fault line as the indexical disagreement recorded below.
 
-This raises a question Buddhism must answer independently: if there's no permanent self, what carries karma across lifetimes? The Buddhist response: causal continuity without substantial identity. Karma flows along causal chains without requiring a soul-substance to accumulate it.
+If there's no permanent self, what carries karma across lifetimes? The Buddhist answer is causal continuity without substantial identity: karma flows along causal chains without a soul-substance to accumulate it.
 
 ## What Remains in Tension
 
 Despite this compatibility, genuine tensions exist.
 
-**The witness problem**: Buddhist meditation reveals [[witness-consciousness]]—the capacity to observe thoughts as objects without identification. This seems to require an observer distinct from what's observed. Some Buddhist schools (especially Advaita-influenced interpretations) lean toward a persistent witness; mainstream Buddhism denies any observer persists. The Map takes no official position, but the phenomenology of witnessing—consciousness observing its own contents—supports the irreducibility claim.
+**The witness problem**: Buddhist meditation reveals [[witness-consciousness]]—the capacity to observe thoughts as objects without identification, which seems to require an observer distinct from what's observed. Some Buddhist currents (Dzogchen *rig pa*, certain Yogācāra readings) lean toward a persistent witness; mainstream Buddhism denies any observer persists. The Map takes no official position; the phenomenology of witnessing reads as support for irreducibility only if the seeming survives the tradition's own deconstruction of it.
 
-**Minimal self**: [[self-and-self-consciousness#Minimal Self and Narrative Self|Phenomenological analysis]] (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. The Map might accept this compromise—first-personal structure doesn't require permanence.
+**Minimal self**: [[self-and-self-consciousness#Minimal Self and Narrative Self|Phenomenological analysis]] (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience, the structural feature that makes experience first-personal rather than the narrative self Buddhism deconstructs. Buddhism might accept it conventionally while denying it ultimate substantial reality, and the Map can accept that compromise: first-personal structure doesn't require permanence.
 
-**Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness. The Map aims at understanding consciousness's place in nature. These projects can complement but might ultimately diverge. Buddhism might say: "Why explain consciousness when you could transform it?" the Map might respond: "Understanding might inform transformation."
+**Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness; the Map aims at understanding consciousness's place in nature. The projects can complement each other and may diverge.
 
 ## The Emptiness Challenge {#emptiness-challenge}
 
-The deepest challenge to compatibility comes from the Madhyamaka doctrine of *śūnyatā* (emptiness). If all phenomena lack inherent existence—including consciousness—can consciousness be "fundamental" or "irreducible" in the Map's sense?
+The deepest challenge comes from the Madhyamaka doctrine of *śūnyatā* (emptiness). Nāgārjuna's analysis applies equally to consciousness and matter: both arise dependently, both lack self-existence (*svabhāva*). To claim consciousness is "fundamental" or "irreducible" seems to privilege it with exactly the inherent existence Madhyamaka denies.
 
-The objection: Nāgārjuna's analysis applies equally to consciousness and matter. Both arise dependently; both lack self-existence (*svabhāva*). To claim consciousness is "fundamental" seems to privilege it with exactly the inherent existence Madhyamaka denies. The Map appears to commit precisely what Buddhism critiques.
+Two responses are available:
 
-Three responses are available:
+**Emptiness of essence, not existence**: Madhyamaka denies inherent existence, not existence altogether. Consciousness exists conventionally even if it lacks independent essence, and the Map's irreducibility claim can be read the same way: phenomenal properties don't reduce to physical properties at the conventional level. What this concedes is the claim's *scope*, not its *status*—it ranges over dependently-arisen phenomena while remaining a claim about how those phenomena are, not merely how they are described.
 
-**Emptiness of essence, not existence**: Madhyamaka denies inherent existence, not existence altogether. Consciousness exists conventionally even if it lacks independent essence. The Map's irreducibility claim can be read the same way: phenomenal properties don't reduce to physical properties at the conventional level, regardless of whether either possesses ultimate essence. Irreducibility is a relation between descriptions, not a claim about inherent existence.
+**Practical equivalence**: The Map's framework operates at what Buddhism calls the conventional level. Madhyamaka's two-truths doctrine allows robust conventional claims while denying ultimate inherent existence, and the compatibility thesis holds there, where both frameworks actually operate.
 
-**Asymmetric emptiness**: Some Buddhist interpreters hold that while all phenomena are empty, consciousness has a special status as that which recognizes emptiness. The Yogācāra analysis of mind-only points this direction: what appears as the external world is mental construction, but consciousness itself cannot be similarly constructed without infinite regress. This asymmetry doesn't violate emptiness but clarifies its application.
-
-**Practical equivalence**: the Map's framework operates at what Buddhism calls the conventional level. The Map makes claims about how consciousness relates to physical descriptions, not about ultimate metaphysical status. Madhyamaka's two-truths doctrine allows robust conventional claims while denying ultimate inherent existence. The compatibility thesis holds at the conventional level where both frameworks actually operate.
-
-These responses don't dissolve the tension. A Buddhist might still argue that attributing any special status to consciousness reintroduces attachment to mental phenomena. But the responses show compatibility isn't naive—it can survive serious engagement with Buddhist metaphysics.
+These responses don't dissolve the tension. A Buddhist might still argue that attributing any special status to consciousness reintroduces attachment to mental phenomena. One reply—that consciousness has special status as the recognizer of emptiness—is a minority *gzhan stong* reading the Map does not lean on: *Mūlamadhyamakakārikā* chapter 3 examines the seer and finds no self-existent seer. The two responses above show only that the compatibility survives serious engagement with Buddhist metaphysics.
 
 The Map's selective stance—accepting no-self while resisting Madhyamaka's extension of emptiness to phenomenal events—mirrors its position on [[eliminative-materialism]]: classical eliminativism about folk-psychological selfhood is congenial; illusionism about phenomenal consciousness is not. What licenses dropping the permanent self does not equally license dropping phenomenal experience, because phenomenal evidence has a different epistemic standing than theoretical posits about what underlies it.
 
 ## Yogācāra and the External World
 
-One tension requires separate treatment. The Map's Bidirectional Interaction assumes two relata: consciousness and physical reality. Yogācāra denies physical reality exists independently of consciousness. What is consciousness interacting *with* if everything is mind?
+The Map's Bidirectional Interaction assumes two relata: consciousness and physical reality. Yogācāra denies that physical reality exists independently of consciousness. What is consciousness interacting *with* if everything is mind?
 
-Several responses are available:
+One response keeps the second relatum; the other lets it go.
 
-**Conventional vs. ultimate**: Buddhism distinguishes conventional and ultimate truth. Conventionally, there appears to be physical reality; mind-matter interaction happens at this level. Ultimately, all is mind—but the Map's tenets might operate at the conventional level without ultimate metaphysical commitment.
+**Madhyamaka resolution**: The Madhyamaka ("Middle Way") school denies inherent existence to both mind and matter without reducing either to the other: both are empty of independent essence but conventionally real and distinct, interaction between empty phenomena is unproblematic, and the conventional level is where the Map's tenets operate.
 
-**Madhyamaka resolution**: The Madhyamaka ("Middle Way") school denies inherent existence to both mind and matter without reducing either to the other. Mind and matter are empty of independent essence but conventionally real and distinct. Interaction between empty phenomena is unproblematic.
-
-**Restricted dualism**: the Map's dualism is between consciousness and *physical descriptions*. It claims phenomenal properties don't reduce to physical descriptions. This is compatible with both physical realism and [[idealism]]—either way, the gap between experience and physical description persists.
+**Restricted dualism—the response the Map declines**: One could restrict the Map's dualism to a gap between experience and *physical description*, which would leave it neutral between physical realism and [[idealism]]. That buys compatibility cheaply and cannot pay for Tenets 2 and 3, which need an independent physical world with indeterminate outcomes to bias. Yogācāra's dissolution of one relatum is what the Map refuses.
 
 ## Comparative Advantages
-
-What does each framework offer the other?
 
 **Buddhism offers the Map:**
 - Phenomenological precision from millennia of contemplative investigation
 - The insight that permanence isn't required for irreducibility
 - A worked example of taking consciousness seriously without physicalism
 - Practical methods (meditation) for investigating consciousness directly
-- A process metaphysics compatible with property dualism: Buddhist *kṣaṇavāda* (momentariness doctrine) holds that experience arises in discrete moments, each with its own phenomenal character. Whitehead's "actual occasions" (see [[process-philosophy]]) share this structure—reality as a series of experiential events rather than enduring substances. Both frameworks reject the notion of static carriers while affirming the reality of experience.
+- A process metaphysics compatible with property dualism: Buddhist *kṣaṇavāda* (momentariness) holds that experience arises in discrete moments, each with its own phenomenal character—the structure Whitehead's "actual occasions" share (see [[process-philosophy]])
 
-**the Map offers Buddhism:**
-- A mechanism (quantum selection) for how mental causation might work
-- Integration with contemporary physics
+**The Map offers Buddhism:**
+- A mechanism (quantum selection) for how mental causation might work, and integration with contemporary physics
 - An alternative to both substance dualism and idealism
 - Focus on explanation where Buddhism focuses on liberation
-- Empirical findings (NDEs, psychedelic research, covert consciousness) that [[filter-theory|filter theory]] interprets as supporting consciousness beyond brain production
+- One empirical pattern—NDEs, psychedelics, covert consciousness after brain injury—that [[filter-theory|filter theory]] reads as consciousness outrunning brain production: one pattern rather than three findings, and the production framing accommodates it, along with [[topics/anaesthesia-and-the-consciousness-interface|anaesthesia]] and dementia, by parallel moves ([[concepts/altered-states-of-consciousness|altered states]])
 
-Neither needs to absorb the other. Buddhism remains a path to liberation; the Map remains a framework for understanding. But recognizing their compatibility prevents false dichotomies—as if taking consciousness seriously required either a permanent soul (substance dualism) or denying its ultimate reality (eliminativism).
+Neither needs to absorb the other. Recognising where they converge prevents a false dichotomy—as if taking consciousness seriously required either a permanent soul or denying its reality.
 
 ## Relation to Site Perspective
 
 The comparison clarifies what the Map's tenets actually require.
 
-**[[tenets#^dualism|Dualism]]**: This tenet requires irreducibility, not permanence. Buddhism accepts irreducibility (consciousness isn't reducible to form, feeling, perception, or mental formations—it's distinct from the other aggregates) while denying permanence. Compatible.
+**[[tenets#^dualism|Dualism]]**: This tenet requires irreducibility, not permanence. Buddhism accepts irreducibility (consciousness isn't reducible to the other four aggregates) while denying permanence. Compatible—though the accommodation of Madhyamaka emptiness above holds on the epistemic reading only.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet requires mental causation. Buddhism's karma doctrine requires the same. Compatible.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The mechanism offered above comes priced. A bias constructed to leave the aggregate Born measure intact is, on the tenet's own admission, "empirically indistinguishable from chance"—an exposure karma doctrine never takes on. Not incompatible; unequally exposed.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: This tenet emphasizes indexical identity—*this* particular perspective matters, not just the pattern. Buddhist emphasis on *this* moment, *this* life, *this* path to liberation resonates. The Middle Way rejects both eternalism (the self persists forever) and annihilationism (death is complete cessation). Similarly, the Map rejects both soul-substance eternalism and physicalist deflation.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet requires mental causation; Buddhism's karma doctrine requires the same. Compatible, with the debt marked above.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Not compatible—and the Map marks the disagreement as bedrock rather than repairing it. The tenet's principal argument is indexical (*why am I this perspective?*), and [[positions/individuation-and-subjecthood|P-I1]] commits the Map to closed individualism explicitly over the empty individualism the Madhyamaka analysis supports. [[positions/individuation-and-subjecthood|P-I2]] books the consequence: where the "I" is an aggregate of conditions that already includes the branch, the question is ill-formed rather than unanswered. The tenets page concedes it by name—"a genuine bedrock disagreement, not an in-framework defect the Map can refute." Buddhist urgency about *this* life is soteriological, not metaphysical indexicality.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Buddhist metaphysics (dependent origination, emptiness, rebirth, karma) is not simpler than materialism. Buddhism agrees that apparent simplicity doesn't determine truth. Compatible.
 
-The comparison also reveals what Buddhism challenges: any residual attachment to a permanent observer, any assumption that taking consciousness seriously requires soul-substance. Buddhism offers a worked demonstration that consciousness can be fundamental, causally efficacious, and impermanent simultaneously. This is a constraint the Map's framework should honor.
+The comparison also reveals what Buddhism challenges: the assumption that taking consciousness seriously requires soul-substance. Buddhism offers a worked articulation of how consciousness might be fundamental, causally efficacious, and impermanent at once—a possibility the Map's framework should keep open.
 
 ## Further Reading
 
 - [[eastern-philosophy-consciousness]] — Overview of Buddhist approaches to consciousness
 - [[self-and-self-consciousness]] — The minimal self vs. narrative self distinction
 - [[witness-consciousness]] — The observer in meditation traditions
-- [[phenomenology]] — Western methods for investigating experience; Buddhism as phenomenology in practice
-- [[panpsychism]] — Another non-physicalist view, with different tensions with Buddhism
-- [[hard-problem-of-consciousness]] — The central puzzle both frameworks address
-- [[agent-causation]] — How conscious beings initiate causal chains, relevant to karma
-- [[phenomenological-evidence#convergence|Convergent Phenomenological Evidence]] — When independent traditions converge on the same first-person observations
-- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Buddhist vedanā alongside Confucian, Indian, Islamic, and Western convergence on evaluative qualia
+- [[phenomenology]] — Western methods for investigating experience
+- [[panpsychism]] — Another non-physicalist view with different tensions
+- [[hard-problem-of-consciousness]] — The central puzzle
+- [[agent-causation]] — Why the Map's version needs a persisting subject Buddhism denies
+- [[positions/individuation-and-subjecthood|Individuation and Subjecthood]] — P-I1 and P-I2, the register entries the Tenet 4 disagreement turns on
+- [[phenomenological-evidence#convergence|Convergent Phenomenological Evidence]] — When independent traditions converge
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Buddhist vedanā in cross-traditional convergence on evaluative qualia
 - [[filter-theory]] — Why brain correlation doesn't entail brain production
-- [[eliminative-materialism]] — Buddhist anatta as parallel to (and instructive contrast with) classical eliminativism about the self; Madhyamaka extends emptiness further than the Map accepts
+- [[eliminative-materialism]] — Buddhist anatta as parallel to classical eliminativism about the self; Madhyamaka extends emptiness further than the Map accepts
 - [[buddhist-perspectives-meaning-2026-01-06]] — Detailed research notes
 
 ## References
