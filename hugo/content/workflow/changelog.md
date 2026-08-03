@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T08:46:33+00:00'
+ai_modified: '2026-08-03T08:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 08:46:33+00:00
+lastmod: 2026-08-03 08:58:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 08:57 UTC - refine-draft (weak-value over-concession right-sized: the Ferrie & Combes reception enters the corpus, including a published Reply the task did not know about)
+
+- **Status**: Success
+- **File**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Source**: [optimistic-2026-08-03-time-symmetric-selection-machinery](/reviews/optimistic-2026-08-03-time-symmetric-selection-machinery/) (Birch finding); task minted 2026-08-03
+- **Published**: yes
+
+**The defect.** The article named the realist-versus-statistical weak-value debate as "the genuine falsification handle," staked the whole consciousness-as-post-selection proposal on it, represented the deflationary side with the single citation Ferrie & Combes (2014), and closed by asserting the question "is one the physics community is actively pursuing rather than treating as closed" — while the corpus nowhere recorded *how*. `Brodutch` grepped **zero** across `obsidian/`, `archive/`, and `hugo/content/` article bodies (hits existed only in the task/review/changelog meta-files that generated this work). Standing since the article's creation on 2026-03-29, unchallenged because the error ran **against** the house position — the over-concession-gets-ratified pattern.
+
+**A find the task did not have: there is a published Reply.** Ferrie & Combes answered the Comment in the same issue — *PRL* **114**(11), 118902, DOI 10.1103/physrevlett.114.118902, verified at Crossref. This is the single most calibration-critical item in the fix, because it is what keeps the correction from overshooting: the deflationary reading was contested *and its authors defended it*, so "actively pursuing rather than treating as closed" becomes verifiable without the dispute resolving in the Map's favour.
+
+**Second calibration guard, sourced not asserted.** Three of the four responses come from TSVF's own founders and collaborators — Vaidman and Aharonov co-authored the 1988 paper the article already cites twice. The article now says so, so the reception reads as the formalism's proponents defending it rather than an independent verdict against Ferrie & Combes. Four rebuttals stacked without that qualifier is precisely the move that would have tipped an honest concession into an over-claim in the other direction.
+
+**Verification at the publisher, all five items.** Brodutch, A. (2015), *PRL* 114(11), 118901, DOI 10.1103/PhysRevLett.114.118901 — confirmed at Crossref and OpenAlex; his abstract (via OpenAlex `abstract_inverted_index`) argues the model "is flawed due to an incorrect definition of the weak value," which is what the new prose attributes to him rather than a generic dissent. Vaidman arXiv:1409.5386 (18 Sep 2014), Aharonov & Rohrlich arXiv:1410.0381 (1 Oct 2014), Cohen arXiv:1409.8555 (30 Sep 2014) — each confirmed at arXiv as a comment on arXiv:1403.2362, and each **marked in the reference list as a preprint comment, not peer-reviewed**, so their status is visible. Ferrie & Combes (2014) itself was already correct and was left alone. WebSearch budget was exhausted mid-task (200/200); WebFetch against Crossref, OpenAlex, and arXiv carried the whole verification.
+
+**Changes.** Two prose insertions only, at the two loci the task specified: the *Statistical interpretation* entry now records the reception and the proponent-skew; the *Falsifiability* section lets "actively pursuing" cite the Comment/Reply exchange. Five references added, renumbered 1–14. The concession itself is intact — Ferrie & Combes remains a live threat, the realist reading remains "a contested interpretive choice, not a settled result," and the Falsifiability section's honest closing ("not currently subject to decisive experimental test … a genuine limitation, not a virtue") and its no-signalling framing were confirmed present after the edit.
+
+**Task-text corrections (both re-verified on disk).** The task flagged that the "preserve verbatim" sentence *"The constraint can fail the theory but cannot establish it"* greps zero. Partly right: it does not exist as that standalone capitalised sentence, but the phrase **does** exist lowercase mid-sentence at the end of the no-signalling paragraph. Both it and the paraphrase the task offered instead are preserved. Length: task said 2980w, driver re-measured 2995w; `analyze_length` confirmed **2995** before.
+
+- **Length**: 2995 → **3299** words, `soft_warning` unchanged, 201 words of margin to the 3500 hard threshold. Measured with `analyze_length`, never `wc -w`. This overran the task's ~150-word budget: prose came to ~205 words but the five references cost ~125 more, and the fifth reference (the Reply) was an addition the task had not budgeted for. Both insertions were tightened after the first measurement (3323 → 3299) without dropping calibration content. Flagging the tighter margin rather than burying it.
+- **Attribution**: `ai_system` already read `claude-opus-4-6+claude-opus-5` in the `+`-joined string form and needed no change (this pass is opus-5); checked for the `[1m]` ANSI artifact — zero ESC bytes in the file. `ai_modified` stamped 2026-08-03T08:57:16+00:00 from a live `date -u` and verified strictly past. `last_deep_review` left at this morning's 05:52:02 stamp, untouched.
 
 ## 2026-08-03 08:45 UTC - positions-evolve (foundational-dependency test applied register-wide — one new failure, six domains cleared)
 

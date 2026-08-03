@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-08-03 05:52:02+00:00
+ai_modified: 2026-08-03 08:57:16+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 05:52:02+00:00
-lastmod: 2026-08-03 05:52:02+00:00
+lastmod: 2026-08-03 08:57:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ The physical significance of anomalous weak values remains debated. Three positi
 
 **Realist interpretation.** Weak values reveal genuine properties of the pre- and post-selected system. The anomalous values indicate that the backward-evolving state contributes physical content not captured by forward evolution alone. This is the position TSVF naturally supports.
 
-**Statistical interpretation.** Weak values are statistical artefacts of post-selection filtering and the amplification properties of weak coupling. The anomalous values reflect conditioning on rare events, not strange physics. Ferrie and Combes (2014) argue along these lines.
+**Statistical interpretation.** Weak values are statistical artefacts of post-selection filtering and the amplification properties of weak coupling. The anomalous values reflect conditioning on rare events, not strange physics. Ferrie and Combes (2014) argue along these lines, via a classical coin-toss model they claim reproduces anomalous weak values with no quantum ingredient. Their position is contested rather than settled: it drew a published Comment in the same journal (Brodutch, 2015), arguing the model misdefines the weak value, plus three arXiv comments (Vaidman, 2014; Aharonov & Rohrlich, 2014; Cohen, 2014) disputing on varying grounds that a classical model reproduces genuine weak values. Ferrie and Combes replied in the same issue (2015); the dispute did not resolve. Three of those four responses come from TSVF's founders and collaborators—Vaidman and Aharonov co-authored the 1988 paper—so the reception reads as the formalism's proponents defending it rather than an independent verdict against the statistical reading.
 
 **Operational interpretation.** Weak values are useful calculational tools without requiring ontological commitment. They predict observable pointer shifts regardless of what one thinks they "mean."
 
@@ -122,7 +122,7 @@ This is the Map's original synthesis—neither Aharonov nor other TSVF proponent
 
 The consciousness-as-post-selection proposal inherits the general falsifiability challenges of quantum consciousness theories, but has some specific empirical constraints.
 
-The genuine falsification handle is the realist-versus-statistical interpretation debate. The framework depends on the realist interpretation of weak values, so a decisive resolution against it would undercut the proposal directly: if future experiments or theoretical results establish that weak values are purely statistical artefacts of post-selection filtering—with no ontological significance, as Ferrie and Combes (2014) argue—the Map's use of TSVF as a physical grounding for consciousness-mediated selection would lose its foundation. This is a real dependency, not a rhetorical one. The proposal stands or falls with how this contested interpretive question resolves, and that question is one the physics community is actively pursuing rather than treating as closed.
+The genuine falsification handle is the realist-versus-statistical interpretation debate. The framework depends on the realist interpretation of weak values, so a decisive resolution against it would undercut the proposal directly: if future experiments or theoretical results establish that weak values are purely statistical artefacts of post-selection filtering—with no ontological significance, as Ferrie and Combes (2014) argue—the Map's use of TSVF as a physical grounding for consciousness-mediated selection would lose its foundation. This is a real dependency, not a rhetorical one. The proposal stands or falls with how this contested interpretive question resolves, and that question is one the physics community is actively pursuing rather than treating as closed: the paper drew a published Comment and a published Reply in the same journal (Brodutch, 2015; Ferrie & Combes, 2015) alongside three arXiv comments, with neither side conceding. The exchange cuts both ways—it shows the deflationary reading is contested rather than consensus, and equally shows it surviving its first round of objections, so it remains the standing challenge the Map's use of weak values has to outlive.
 
 The proposal also carries a consistency constraint it must respect: conscious observation and automated detection should produce identical Born-rule statistics, because consciousness is proposed to select within—not against—quantum probabilities. This is best read as a no-signalling requirement the framework owes, not as a forward test that could confirm it. Because the theory predicts statistical identity, a confirmed difference between conscious and unconscious measurement contexts would falsify it, while agreement merely shows the constraint is honoured rather than vindicating the boundary-condition reading. The asymmetry matters: the constraint can fail the theory but cannot establish it, and designing experiments sensitive to any such difference with adequate controls remains an unsolved methodological challenge.
 
@@ -157,9 +157,14 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the view that all ou
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
 2. Aharonov, Y., Albert, D. Z., & Vaidman, L. (1988). How the result of a measurement of a component of the spin of a spin-1/2 particle can turn out to be 100. *Physical Review Letters*, 60(14), 1351.
 3. Aharonov, Y., Botero, A., Popescu, S., Reznik, B., & Tollaksen, J. (2002). Revisiting Hardy's paradox: counterfactual statements, real measurements, entanglement and weak values. *Physics Letters A*, 301(3-4), 130-138.
-4. Ferrie, C. & Combes, J. (2014). How the result of a single coin toss can turn out to be 100 heads. *Physical Review Letters*, 113(12), 120404.
-5. Hosten, O. & Kwiat, P. (2008). Observation of the spin Hall effect of light via weak measurements. *Science*, 319(5864), 787-790.
-6. Pryde, G. J., O'Brien, J. L., White, A. G., Ralph, T. C., & Wiseman, H. M. (2005). Measurement of quantum weak values of photon polarization. *Physical Review Letters*, 94(22), 220405.
-7. Lundeen, J. S. & Steinberg, A. M. (2009). Experimental joint weak measurement on a photon pair as a probe of Hardy's paradox. *Physical Review Letters*, 102(2), 020404.
-8. Lundeen, J. S., Sutherland, B., Patel, A., Stewart, C., & Bamber, C. (2011). Direct measurement of the quantum wavefunction. *Nature*, 474(7350), 188-191.
-9. Ritchie, N. W. M., Story, J. G., & Hulet, R. G. (1991). Realization of a measurement of a "weak value." *Physical Review Letters*, 66(9), 1107.
+4. Aharonov, Y. & Rohrlich, D. (2014). Comment on "How the result of a single coin toss can turn out to be 100 heads". arXiv:1410.0381. *Preprint comment; not peer-reviewed.*
+5. Brodutch, A. (2015). Comment on "How the Result of a Single Coin Toss Can Turn Out to be 100 Heads". *Physical Review Letters*, 114(11), 118901.
+6. Cohen, E. (2014). A comment on "How the result of a single coin toss can turn out to be 100 heads". arXiv:1409.8555. *Preprint comment; not peer-reviewed.*
+7. Ferrie, C. & Combes, J. (2014). How the result of a single coin toss can turn out to be 100 heads. *Physical Review Letters*, 113(12), 120404.
+8. Ferrie, C. & Combes, J. (2015). Ferrie and Combes Reply. *Physical Review Letters*, 114(11), 118902.
+9. Hosten, O. & Kwiat, P. (2008). Observation of the spin Hall effect of light via weak measurements. *Science*, 319(5864), 787-790.
+10. Pryde, G. J., O'Brien, J. L., White, A. G., Ralph, T. C., & Wiseman, H. M. (2005). Measurement of quantum weak values of photon polarization. *Physical Review Letters*, 94(22), 220405.
+11. Lundeen, J. S. & Steinberg, A. M. (2009). Experimental joint weak measurement on a photon pair as a probe of Hardy's paradox. *Physical Review Letters*, 102(2), 020404.
+12. Lundeen, J. S., Sutherland, B., Patel, A., Stewart, C., & Bamber, C. (2011). Direct measurement of the quantum wavefunction. *Nature*, 474(7350), 188-191.
+13. Ritchie, N. W. M., Story, J. G., & Hulet, R. G. (1991). Realization of a measurement of a "weak value." *Physical Review Letters*, 66(9), 1107.
+14. Vaidman, L. (2014). Comment on "How the result of a single coin toss can turn out to be 100 heads". arXiv:1409.5386. *Preprint comment; not peer-reviewed.*
