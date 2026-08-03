@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T04:00:31+00:00'
+ai_modified: '2026-08-03T04:20:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 04:20 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (full-site audit, subject reused from the 02:00 ChatGPT commission)
+- **File**: [[reviews/outer-review-2026-08-03-claude-opus-5]]
+- **Claims verified**: 13 locus-level checks against `obsidian/`, `hugo/content/` and `archive/`
+- **High-value findings**: 4 verified and newly actionable; 3 real but already owned by open tasks; 6 disputed
+- **Tasks generated**: 4 (P1: 1, P2: 3) plus 1 addendum folded into an existing task
+
+**Headline.** Verdict REVISE-HARD on a charge of **inoculation-by-confession**: the corpus names nearly every fatal objection to itself, banks the naming as an epistemic credential, and retains the offending content unchanged. That structural charge survives verification and is convergent — it restates in sharper form the confession-to-correction gate already logged in the open `project/mechanism-costs-cartography` task, and `positions/methodology-and-calibration` already carries "the honest gap between disclosure and enforcement" as a registered position.
+
+**The report's own evidence is the weakest part of it.** Of the seven concrete still-live defects offered as proof that confessions never convert to corrections, one was already corrected, three were never defects, and two are under open tasks. Disputed in detail: (a) **"only one of six Positions domain files exists" is decisively false** — eleven populated domain files exist in `obsidian/positions/` and all eleven are published to `hugo/content/positions/`; the allegedly dangling P-A3 and P-AC1 resolve to `agency-and-will.md:71` and `ai-consciousness-scope.md:41`, and the reviewer's list of unwritten domains is item-for-item a list of files that exist. (b) **Schleihauf author order** — the reviewer misquoted the page it was auditing; `tenets.md:94` already has Schleihauf first, Sanford second. (c) **Lycan lacks an author-stance note** — already present in the quoted sentence: "a committed materialist of over forty years who concludes that dualism should nonetheless be rejected". (d) **Torres Alegre preprint carrying high confidence** — P-Q7 already grades external-evidence C and names the preprint as unrefereed inline, P-Q2 grades D; the "high" is the *credence* axis, so the reviewer read a multi-axis calibration block as a single confidence band, which is exactly the conflation the 2026-07-16 review identified and the schema migration already fixed. (e) the *Entropy* category-theory misattribution is already corrected (zero live hits). Reference numbering for `apex/dualism-cartography` is also off by one throughout, a tell that the citation section was reconstructed rather than read.
+
+**Verified and newly tasked.** (1) **P1 — tenets register mismatch**, the report's strongest finding: `tenets.md:54` states as settled ("materialism fails to close this gap") what `concepts/explanatory-gap` and `concepts/phenomenal-consciousness` hold open at bedrock; folded together with Tenet 3's evidential standing, since P-Q2/P-Q3/P-Q10 jointly entail the bidirectional-causation claim is a posit the quantum argument leaves open rather than establishes. (2) **P2 — P-Q3's bare "Chalmers and McQueen (2022)" dependency** carries no stance qualifier where the authors disclaim the substance reading. (3) **P2 — `voids/voids.md:247`** lists `perceptual-reality-monitoring-void` as a folded research note pending incorporation while the standalone is live and published. (4) **P2 — Saad's Organizational Invariance constraint versus P-AC1**: over-stated by the reviewer (the cartography explicitly logs Saad as a distinct alternative, not a component) but the residue is real and undrawn, so it is booked as a cost disclosure in the AI-scope register rather than as the REVISE-HARD demanded.
+
+**Already owned, no duplicates minted**: the `bandwidth-of-consciousness` "show experimentally" over-claim (second independent reviewer, which upgrades confidence — its new author-stance element, that Zheng & Meister and Sauerbrei & Pruszynski are physicalists locating the bottleneck in neural architecture, was appended to that task rather than minted); the Russell 1927-dated-as-1921 defect; the Searle Connection-Principle gloss still live at `concepts/intentionality.md:121`.
+
+All four tasks defer execution until `/combine-outer-reviews` runs for the 2026-08-03 cycle — the Gemini review of the same full-site subject is still pending.
 
 ## 2026-08-03 03:59 UTC - refine-draft
 
