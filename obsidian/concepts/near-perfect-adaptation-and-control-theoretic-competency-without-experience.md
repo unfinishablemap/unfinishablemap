@@ -4,7 +4,7 @@ description: "Robust homeostasis and integral feedback are domain-general contro
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-08-03T14:14:00+00:00
+ai_modified: 2026-08-03T14:51:32+00:00
 draft: false
 topics:
   - "[[bacterial-chemotaxis-and-minimal-biogenic-cognition]]"
@@ -21,10 +21,10 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-15
 last_curated:
-last_deep_review: 2026-07-16T07:59:32+00:00
+last_deep_review: 2026-08-03T14:51:32+00:00
 ---
 
-On the Map's dualist framework, control-theoretic sophistication is **orthogonal to phenomenality**: how robustly a system regulates itself gives no purchase on whether anything is felt inside it. Integral feedback, robust (near-perfect) adaptation, and robust homeostasis are domain-general control competencies, fully realised end to end in systems where no one posits experience—a thermostat, an operational-amplifier integrator, an engineered gene circuit. This concept isolates that orthogonality as a **reusable primitive**: a marker the Map can carry across cases, so each new instance of exquisite regulation is not re-litigated from scratch.
+On the Map's dualist framework, control-theoretic sophistication is **orthogonal to phenomenality**: how robustly a system regulates itself gives no purchase on whether anything is felt inside it. Integral feedback, robust (near-perfect) adaptation, and robust homeostasis are domain-general control competencies, fully realised end to end in systems no one credits with experience—a thermostat, an operational-amplifier integrator—and installable on demand, by synthetic-biology protocol, in a living cell. This concept isolates that orthogonality as a **reusable primitive**: a marker the Map can carry across cases, so each new instance of exquisite regulation is not re-litigated from scratch.
 
 The primitive matters because "it regulates robustly" is one of the most persuasive-sounding routes from mechanism to mind. A cell that tracks a setpoint, remembers where it has been, and corrects its own errors looks, described in the right vocabulary, like an agent with interests. The [[#the-primitive|control-theoretic account]] (given below) drains that appearance of its inferential force without denying any of the behaviour: every competency is real, and none of it is evidence of felt experience. The strongest opposing view—the [[#the-rival|homeostasis-and-feeling family]] (Man & Damasio, Seth, allostasis theorists)—ties a specific kind of regulation constitutively to affect, and is engaged fairly below rather than caricatured.
 
@@ -38,11 +38,11 @@ The philosophically decisive point is that integral control is substrate-indiffe
 
 ## The Domain-General Ladder
 
-The primitive recurs across an unbroken ladder of systems, and the ladder is what makes the orthogonality vivid. At the bottom are devices no one credits with experience:
+The primitive recurs across an unbroken ladder of systems, and the ladder is what makes the orthogonality vivid. It begins with devices no one credits with experience and climbs, without a break in the control mathematics, to organisms whose phenomenal status is actively contested:
 
 - **Proportional and PID controllers.** A thermostat outputs a corrective signal proportional to temperature error; an industrial PID controller adds integral and derivative terms. These are textbook regulators, wholly transparent, with no candidate for felt experience anywhere in them.
 - **Op-amp integrators.** An analog circuit can implement the integral term *as such*—the very operation Yi et al. identify in the bacterium—in a handful of passive components.
-- **Synthetic gene circuits.** Aoki, Lillacci, Gupta and colleagues in the Khammash group (2019) engineered an *antithetic integral feedback* controller into living cells, conferring robust perfect adaptation by design. The competency is portable: it can be *built* into an arbitrary molecular network on demand.
+- **Synthetic gene circuits.** Aoki, Lillacci, Gupta and colleagues in the Khammash group (2019) engineered an *antithetic integral feedback* controller into living *E. coli*, conferring robust perfect adaptation by design. The competency is portable: it can be *built* into an arbitrary molecular network on demand. This is also the rung where the ladder leaves uncontested ground: the host is a living cell, and cellular-basis-of-consciousness theorists (Reber and Baluška) hold that living cells already feel. What survives that disagreement is the engineerability point, which concerns the *installation* of the competency rather than the host's phenomenal status.
 - **Bacterial chemotaxis.** [[bacterial-chemotaxis-and-minimal-biogenic-cognition|The single-cell instance]]—sensing, short-term memory, and adaptive decision compressed into one neuron-free cell—is one worked example on this ladder, not its subject. The Map treats it in depth elsewhere; here it is a rung.
 - **Physiological allostasis.** Whole-organism regulation of internal states sits at the top of the ladder and is where the rival theories of feeling locate their claim.
 
@@ -52,7 +52,7 @@ The ladder has no joint at which the control mathematics changes character. A pr
 
 Three considerations make the orthogonality claim a primitive the Map can reuse rather than re-derive case by case.
 
-**The thermostat floor.** Integral control is implemented in devices that plainly feel nothing. If the *same* control property carried phenomenality, the thermostat would qualify—so the property itself cannot be what carries phenomenality. Any argument of the form "this system regulates robustly, therefore it experiences" over-generates: it licenses attributing experience to the op-amp. This is a standing reductio the Map can invoke against any future instance. The mirror argument over-generates just as badly, and the Map is bound by that one. "The mechanism is complete, therefore nothing is felt" would license denying experience in humans, whose behaviour is—on the physicalist assumptions such an argument borrows—likewise explicable without functional residue. Mechanistic completeness no more settles the phenomenal question downward than robust regulation settles it upward, and the second reductio constrains the Map's own floor verdicts exactly as the first constrains its opponents' inflationary ones.
+**The thermostat floor.** Integral control is implemented in devices that plainly feel nothing. If the *same* control property carried phenomenality, the thermostat would qualify—so the property itself cannot be what carries phenomenality. Any argument of the form "this system regulates robustly, therefore it experiences" over-generates: it licenses attributing experience to the op-amp. The floor holds even against the most inflationary rival in view: cellular-basis-of-consciousness theorists tie sentience to *life*, so they decline the thermostat too—which is exactly why the reductio bites at the thermostat and not at the engineered cell. This is a standing reductio the Map can invoke against any future instance. The mirror argument over-generates just as badly, and the Map is bound by that one. "The mechanism is complete, therefore nothing is felt" would license denying experience in humans, whose behaviour is—on the physicalist assumptions such an argument borrows—likewise explicable without functional residue. Mechanistic completeness no more settles the phenomenal question downward than robust regulation settles it upward, and the second reductio constrains the Map's own floor verdicts exactly as the first constrains its opponents' inflationary ones.
 
 **Engineerability.** Robust perfect adaptation can be wired into a molecular circuit deliberately (Aoki et al. 2019). A capacity you can install by design is a fact about dynamics and connectivity, not evidence of an inner point of view that the wiring somehow summons.
 

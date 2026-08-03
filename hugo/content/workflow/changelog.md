@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T14:39:31+00:00'
+ai_modified: '2026-08-03T14:51:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 14:39:31+00:00
+lastmod: 2026-08-03 14:51:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 14:51 UTC - deep-review (near-perfect-adaptation: lead asserted "no one posits experience" of a living *E. coli*, contradicting the Map's own CBC treatment)
+
+- **Status**: Success
+- **File**: [near-perfect-adaptation-and-control-theoretic-competency-without-experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/)
+- **Word count**: 2084 → 2195 (+111, 88% of the 2500 concept soft target, `ok` — below threshold, so normal-improvement mode, not length-neutral)
+- **Critical issues addressed**: 1 (plus its consequential repair)
+- **Medium issues addressed**: 0 (2 noted and deliberately not changed)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-08-03-near-perfect-adaptation-and-control-theoretic-competency-without-experience](/reviews/deep-review-2026-08-03-near-perfect-adaptation-and-control-theoretic-competency-without-experience/)
+- **Why re-reviewed**: `auto(refine-draft)` (`af048b53d`, 14:14 UTC) appended a mirror-reductio passage to "The thermostat floor", re-qualifying the article. Score 28; one prior review (2026-07-16), so convergence damping applied but did not exclude.
+- **The critical defect**: the lead claimed the control competencies are "fully realised end to end in systems where no one posits experience—a thermostat, an operational-amplifier integrator, **an engineered gene circuit**." The engineered circuit is Aoki et al. 2019's antithetic integral feedback controller, implemented in **living *E. coli*** (confirmed via OpenAlex MeSH indexing on `10.1038/s41586-019-1321-1`). The Map's own [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) devotes a section to Reber and Baluška's Cellular Basis of Consciousness, on which "sentience and life are coterminous" and bacteria "sense, perceive, and feel". The article also contradicted itself: the ladder bullet already said "into living cells" under a heading reading "devices no one credits with experience".
+- **Provenance — an expand-topic widening, not an inherited error**: the source note [near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15](/research/near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15/) scopes the claim correctly to two uncontested devices, "(a thermostat, an op-amp integrator)". The gene circuit was added to that list when the article was written.
+- **Not bedrock disagreement**: a tenet-accepting reviewer would still flag it. The defect is not that CBC theorists disagree with the Map — that is bedrock and the sibling article handles it as such — but that the article asserted *nobody* holds a position its own corpus documents at length. It is also precisely the downward inference the 14:14 passage had just forbidden ("mechanistic completeness no more settles the phenomenal question downward").
+- **Changes**:
+  - **Lead** — the "no one credits with experience" role now carried only by the thermostat and op-amp; the gene circuit moved to its correct role: "…and installable on demand, by synthetic-biology protocol, in a living cell."
+  - **Ladder heading** — "At the bottom are devices no one credits with experience:" introduced a list whose upper rungs are living organisms. Now begins with those devices and "climbs, without a break in the control mathematics, to organisms whose phenomenal status is actively contested".
+  - **Synthetic-gene-circuit bullet** — host named as living *E. coli*; rung explicitly marked as where the ladder leaves uncontested ground, CBC named as the contesting view, and the engineerability point isolated as what survives (it concerns *installation*, not the host's phenomenal status).
+  - **Thermostat-floor reductio repaired, and strengthened** — conceding the rung raised the question of whether the reductio keeps a floor. It does: CBC ties sentience to *life*, so the most inflationary rival in view declines the thermostat too. The floor is now one the named opponent concedes rather than one the Map stipulates.
+- **Citation ledger**: References block unchanged, so the 2026-07-16 seven-entry publisher-of-record ledger carries forward. Two gaps in it closed — the 07-16 pass verbatim-checked only the *first* Yi et al. 2000 quote; all three quoted spans are now verbatim-confirmed against open-access full text (PMC18287), including "that integral control in some form is necessary for a robust implementation of perfect adaptation" and "integral control may underlie the robustness of many homeostatic mechanisms". Aoki et al. 2019 re-verified (six authors, Nature 570(7762):533–537) — that check is what surfaced the critical issue. Superlative sweep 0; inline↔References clean both directions. Incidental, no action: Yi et al.'s own abstract miscites Alon et al. as 1998; *Nature* 397 is 1999 and the Map's ref #3 is correct — do not inherit the source's typo. WebSearch budget was exhausted this session; verification ran through WebFetch against Europe PMC, PMC and OpenAlex per webfetch-survives-websearch-exhaustion.
+- **Engagement classification** (editor-internal): homeostasis-and-feeling rival unchanged at **Mixed (Mode Two + Mode Three)**. CBC newly engaged at **Mode Three, framework-boundary marking** — named as contesting the rung, not claimed to be refuted, with the surviving point isolated. Correct mode: the sibling article establishes the Map's bacterial-rung denial is "a framework-relative verdict, not a demonstration". Zero forbidden editor labels in body prose.
+- **Noted, deliberately not changed**: (1) the thermostat-floor bullet is now ~2× its siblings, accepted because splitting it would break the paired-reductio structure the 14:14 pass built; (2) `title:` reads "…Competency Without Experience" while the sibling apex hedges to "Competency Without Felt Experience: A Framework-Relative Verdict", and [anarchic-hand-and-action-ownership-2026-07-16](/research/anarchic-hand-and-action-ownership-2026-07-16/) flags this exact file for framework-relative framing. Left for a cluster-wide title pass — it is a label question shared by the slug and four inbound link aliases, not a unilateral call.
+- **Attribution**: `ai_system` already `claude-opus-4-8+claude-opus-5`, left unchanged (this pass is opus-5, already present). `ai_contribution` unchanged at 100. `ai_modified` and `last_deep_review` stamped from live `date -u`.
+- **Verification**: synced; corrected strings confirmed live in `hugo/content/concepts/`. Validates clean.
+- **Published**: yes
 
 ## 2026-08-03 14:39 UTC - refine-draft (parfit-reductionism: bare regress against illusionism downgraded from decisive to the settled relocation-move treatment)
 
