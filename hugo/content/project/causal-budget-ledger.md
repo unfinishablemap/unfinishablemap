@@ -1,28 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-26 18:58:03+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-03 06:01:07+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts: []
 created: 2026-05-11
 date: &id001 2026-05-11
-description: Every mental-causation claim in the catalogue draws on a tiny shared
-  channel. The ledger enforces that each claim specify candidate set, selection bandwidth,
-  amplification pathway, expected signature, falsification condition, and nearest
-  physicalist explanation, so that 'minimal' is a measurable constraint rather than
-  a global escape hatch.
+description: Every mental-causation claim in the catalogue draws on one shared channel.
+  The ledger makes each claim declare its price — though the aggregate ceiling is
+  withdrawn pending rederivation.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 18:58:03+00:00
-lastmod: 2026-06-26 18:58:03+00:00
+lastmod: 2026-08-03 06:01:07+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
 - '[[automation]]'
 - '[[tenets]]'
 - '[[selection-only-mind-influence]]'
+- '[[selection-only-channel]]'
+- '[[channel-class-taxonomy]]'
 - '[[topics/free-will]]'
 - '[[interface-specification-programme]]'
 - '[[empirical-phenomena-mental-causation]]'
@@ -41,7 +41,9 @@ title: Causal-Budget Ledger Discipline
 topics: []
 ---
 
-Under the strict reading of [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction), the Map commits to mental causation working through a very small information-transfer channel: per-event selection over a brain-prepared candidate set, with long-run statistics regressing to Born-rule probabilities, and content confined to whatever the candidates encode. The [selection-only-mind-influence](/topics/selection-only-mind-influence/) article derives the arithmetic — log₂(N) bits per event, an approximately ε² / (2 ln 2) signed per-trial rate when Born statistics are preserved, and a content ceiling set by candidate-space dimensionality. Once that channel is fixed, every other mental-causation article in the catalogue — free will, placebo, choking, attention training, meditation, animal cognition, AI consciousness, time-arrow claims — is implicitly drawing on the *same* tiny budget. The causal-budget ledger names that constraint and supplies the discipline that keeps "minimal" from becoming a global escape hatch: each claim must specify what it is paying with, and the catalogue as a whole must not draw more than the interface can plausibly carry.
+Under the strict reading of [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction), the Map commits to mental causation working through a tightly constrained information-transfer channel: per-event selection over a brain-prepared candidate set, with long-run statistics regressing to Born-rule probabilities, and content confined to whatever the candidates encode. The [selection-only-mind-influence](/topics/selection-only-mind-influence/) article derives the arithmetic — log₂(N) bits per event, R · log₂(N) bits per second, and a content ceiling set by candidate-space dimensionality. Once that channel is fixed, every other mental-causation article in the catalogue — free will, placebo, choking, attention training, meditation, animal cognition, AI consciousness, time-arrow claims — is implicitly drawing on the *same* shared budget. The causal-budget ledger names that constraint and supplies the discipline that keeps "minimal" from becoming a global escape hatch: each claim must specify what it is paying with, and the catalogue as a whole must not draw more than the interface can plausibly carry.
+
+**The second demand is currently unenforceable.** The derivation that once supplied this ledger's aggregate ceiling — a Born-preserving per-second rate of R · ε² / (2 ln 2) bits/s — was withdrawn as invalid on 2026-08-03, and the ledger's total is now *unquantified pending rederivation* rather than known to be tiny. The per-claim discipline below is unaffected and stands in full; what the ledger cannot presently do is add the declarations up. The withdrawal and what a valid denominator would require are set out under [what the budget bounds](#what-the-budget-bounds).
 
 The discipline joins the Map's named methodological patterns — [closed-loop opportunity execution](/project/closed-loop-opportunity-execution/), [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/), [absorb-or-clash](/project/bedrock-clash-vs-absorption/), [framework-stage calibration](/project/framework-stage-calibration/), [direct-refutation](/project/direct-refutation-discipline/), and [evidential-status](/project/evidential-status-discipline/) — at a layer none of them covers: *quantitative budget conservation across the mental-causation cluster*. It keeps Tenet 2's minimality from spreading invisibly across many articles, each individually modest, that in aggregate request more bandwidth than the interface allows.
 
@@ -49,7 +51,7 @@ The discipline joins the Map's named methodological patterns — [closed-loop op
 
 The 2026-05-11 ChatGPT 5.5 Pro outer review identified this as a structural risk the catalogue had not yet named. The [selection-only-mind-influence](/topics/selection-only-mind-influence/) article already states per-event information limits, ensemble-level Born-rule convergence, and the impossibility of selecting content the brain has not pre-generated. The reviewer's novel inference is that this is not just a fact about one article — it is a *global constraint* that should propagate to every article invoking mental causation. The catalogue currently does not check whether its total claimed causal workload exceeds what its minimal interface can plausibly carry.
 
-A free-will article positing volitional control over deliberation, a placebo article positing content-specific physiological steering, an attention-training article positing Schwartz-style OCD remediation, an animal-consciousness article positing selection-mediated mental causation in cephalopods, and an AI-consciousness article positing causally coupled phenomenal influence in a transformer can each be modest in its per-event claim. The aggregate is invisible: nothing in the catalogue's review machinery currently checks whether the total bandwidth requested fits inside ε² / (2 ln 2). If "minimal" means anything quantitative at all, that aggregate must be auditable. Without the audit, the catalogue can endorse a position whose total causal workload would exceed any plausible reading of Tenet 2 — and would do so *while still claiming Tenet 2 strictly*.
+A free-will article positing volitional control over deliberation, a placebo article positing content-specific physiological steering, an attention-training article positing Schwartz-style OCD remediation, an animal-consciousness article positing selection-mediated mental causation in cephalopods, and an AI-consciousness article positing causally coupled phenomenal influence in a transformer can each be modest in its per-event claim. The aggregate is invisible: nothing in the catalogue's review machinery currently checks the total bandwidth requested against any ceiling, and since the withdrawal described below the corpus supplies no ceiling tight enough for such a check to bite. If "minimal" means anything quantitative at all, that aggregate must eventually be auditable. Without the audit, the catalogue can endorse a position whose total causal workload would exceed any plausible reading of Tenet 2 — and would do so *while still claiming Tenet 2 strictly*.
 
 The failure mode is adjacent to but distinct from those the prior disciplines catch. Coherence inflation tracks claim-strength drift; evidential-status tracks evidence-grade drift; direct-refutation tracks perimeter-substitution in reasoning mode. None tracks *budget aggregation*. A claim can be coherent, appropriately calibrated, refutation-honest, and stage-appropriate, and still contribute to a cluster whose summed bandwidth is implausible. The ledger closes that gap by requiring each mental-causation claim to declare what it spends, in the same units, so the cluster's total cost is visible.
 
@@ -71,16 +73,20 @@ For each claim that mental causation does specific physical work — directs an 
 
 The six fields are not independent; specifying any one constrains the others. But they are jointly sufficient to make the budget visible. An article whose claim cannot fill in all six is making a claim that has not been measured against the interface, and the editor should treat the gap as the substantive defect — not as a stylistic omission to be papered over.
 
-## Why the Budget Binds
+## What the Budget Bounds
 
-Three results from [selection-only-mind-influence](/topics/selection-only-mind-influence/) close the question of whether the budget is real. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *per-second ceiling* under Born-rule preservation is approximately R · ε² / (2 ln 2) bits/s; with ε of order 10⁻³, this delivers per-event rates near 7 × 10⁻⁷ bits, and the aggregate at neural-quantum event rates of 10⁷–10¹² per second lands — depending on the assumed selection rate — in a band that can fall far short of or approach the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The bandwidth is not generous. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. The arithmetic is unforgiving in precisely the way the ledger needs.
+Two results from [selection-only-mind-influence](/topics/selection-only-mind-influence/) survive as real bounds, and both bind at claim level. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. These are what the per-claim schema measures against, and nothing below disturbs them.
+
+**Withdrawn: the Born-preserving audit threshold.** This article formerly audited the catalogue's aggregate bandwidth request against a per-second ceiling of R · ε² / (2 ln 2) bits/s, calibrated at ε of order 10⁻³ to a per-trial rate of roughly 7 × 10⁻⁷ bits/event and set beside the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). It rested on the inference that Born-rule preservation pins the expected mutual information between mind-state and outcome to zero. The inference does not go through. Take a uniform binary mind-state C and an outcome O = C: the marginal over outcomes is exactly uniform, hence Born-satisfying against a uniform candidate distribution, yet I(C;O) = 1 bit, the alphabet's maximum. Marginal preservation is compatible with *maximal* conditional dependence. Two further defects sat in the same passage. Mutual information is non-negative, so a *signed* rate whose excursions cancel is a category error; and a non-negative quantity averaging to zero forces every term to zero rather than licensing cancellation. An ε² expression can approximate a divergence for one specifically defined small binary perturbation, but it is not a consequence of Born preservation — deriving one would need a declared channel, reference distribution, prior over mind-states and perturbation geometry, none of which this article supplies. The figures are suspended pending rederivation; no downstream page should treat this channel as having a known throughput. The parallel withdrawals are at [selection-only-mind-influence](/topics/selection-only-mind-influence/) and [selection-only-channel](/concepts/selection-only-channel/); [the channel-class taxonomy](/concepts/channel-class-taxonomy/) retains an ε² / (2 ln 2) expression legitimately, because it applies it to a declared probability-bias channel with a stated reference distribution rather than deriving it from Born preservation.
+
+**The ledger keeps its schema and loses its denominator.** Every per-claim demand stands: a claim must still declare what it is paying with, and a claim that cannot is still the substantive defect. What the ledger cannot presently do is *total* those declarations against a ceiling. The only rate-level bound the corpus now establishes is the unconstrained R · log₂(N) bits/s, which at neural-quantum event rates of 10⁷–10¹² per second sits many orders of magnitude above the observed ~10 bits/s and therefore does not bind. The aggregate causal budget is **unquantified pending rederivation, not known to be tiny** — and the four ingredients a valid denominator would need are exactly the four the withdrawn derivation lacked: a declared channel, a reference distribution, a prior over mind-states, and a perturbation geometry. Until those are on the page, "the catalogue is over-drawing the interface" and "the catalogue is comfortably inside budget" are both unsupported. An audit instrument whose denominator has been withdrawn should say so, rather than certify a compliance it never checked.
 
 ## Audit Checklist for `/refine-draft` and `/deep-review`
 
 When either skill touches an article that invokes mental causation, the skill should run the following five-question audit, recording the diagnosis in the changelog rather than in the article body:
 
 1. Does the article identify a candidate set, even informally? If not, what is the minimum specification that would make the claim non-vacuous?
-2. Does the article's implicit bandwidth request fit within the [strict reading](/topics/selection-only-mind-influence/) ceilings? If not, does the article acknowledge that it is using a non-strict (intermediate) reading of Tenet 2?
+2. Does the article's implicit bandwidth request fit within the per-event and content-confinement ceilings the [strict reading](/topics/selection-only-mind-influence/) still supplies? (There is no per-second ceiling to test against — see the withdrawal above.) If not, does the article acknowledge that it is using a non-strict (intermediate) reading of Tenet 2?
 3. Does the article name an amplification pathway, or does it leave the gap between quantum-scale selection and macroscopic outcome implicit?
 4. What signature would the claim produce, and is that signature compatible with the empirical corridor [selection-only-mind-influence](/topics/selection-only-mind-influence/) sketches?
 5. What is the nearest physicalist account, and what work does the Map's reading do beyond it?
@@ -103,13 +109,13 @@ The skill also checks for the *aggregation* failure mode at cluster level: when 
 
 [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)'s choking treatment claims conscious self-monitoring disrupts automatised skill. Ledger entries: **candidate set** is the set of execution timings within an automatised motor program; **bandwidth** requested is small (a binary "interrupt / do not interrupt" signal at most); **amplification pathway** runs through working-memory load on the motor program; **statistical signature** is the well-replicated performance decrement under self-focus; **falsification condition** is the demonstration that the decrement is fully explained by working-memory crowding without need for a selection variable; **nearest physicalist explanation** is exactly the self-focus / working-memory account. The Map's reading adds that *which* moments of attention occur is itself a selection — but the budget cost is minimal and the audit passes cleanly.
 
-The examples show the discipline working as intended: most mental-causation claims in the catalogue *do* fit within the budget. The ledger's value is making that fit explicit and auditable, not retroactively constraining well-formed claims.
+The examples show the schema working as intended: each claim can be made to name its price, and none of the three names a price the per-event or content-confinement ceiling visibly refuses. That is weaker than a clean bill of health, and deliberately so. With no aggregate denominator, "the audit passes" means the claim is *specified* well enough to be audited later — not that it has been totalled against a ceiling. The ledger's value is making the price explicit, not retroactively constraining well-formed claims.
 
 ## Honest Limitations
 
 The ledger does not adjudicate which reading of Tenet 2 the catalogue should use. The strict (selection-only) reading is tightest, but [selection-only-mind-influence](/topics/selection-only-mind-influence/) notes that the intermediate reading (per-trial bias preserving ensemble Born statistics) is empirically live. An article using the intermediate reading is not falsifying Tenet 2; it is using a non-strict reading the tenet permits. The ledger requires only that the reading be *named*, so the audit can run against the right bounds.
 
-The arithmetic is also stage-appropriately uncertain. The selection rate R is not directly measured; ε is a theoretical parameter; the amplification pathway is the [interface-specification-programme's](/apex/interface-specification-programme/) open problem rather than a settled engineering specification. The budget is a *band*, not a number — the ledger's job is to keep claims inside the band's plausibility envelope, not to enforce false precision.
+The arithmetic is worse than stage-appropriately uncertain: at the aggregate level there is currently no arithmetic. The selection rate R is not directly measured, and the amplification pathway remains the [interface-specification-programme's](/apex/interface-specification-programme/) open problem rather than a settled engineering specification. Until a denominator is rederived, the ledger's job is to keep each claim's price stated and comparable, not to enforce a precision it cannot supply.
 
 The discipline can be misused as cover for refusing to make any quantitative claim at all. An article that hedges every causal commitment until the budget is trivially satisfied has used the ledger to evacuate substance. The discipline is *not* "claim as little as possible"; it is "claim what the evidence and the interface allow, and make the claim's price visible."
 
@@ -123,7 +129,9 @@ The discipline also feeds back into [coherence-inflation countermeasures](/proje
 
 ## Further Reading
 
-- [selection-only-mind-influence](/topics/selection-only-mind-influence/) — the article that derives the budget; its arithmetic is the ledger's source
+- [selection-only-mind-influence](/topics/selection-only-mind-influence/) — the article that derives the per-event and content ceilings, and that carries the parallel withdrawal of the per-second rate
+- [selection-only-channel](/concepts/selection-only-channel/) — the companion concept page carrying the same withdrawal
+- [channel-class-taxonomy](/concepts/channel-class-taxonomy/) — where an ε² / (2 ln 2) expression is used legitimately, for a declared probability-bias channel with a stated reference distribution
 - [interface-specification-programme](/apex/interface-specification-programme/) — the apex programme the ledger feeds into; budget-aware claims are exactly the ones the programme needs
 - [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) — worked-example source for placebo and choking
 - [free-will](/topics/free-will/) — worked-example source for volitional control
@@ -143,7 +151,7 @@ The discipline also feeds back into [coherence-inflation countermeasures](/proje
 
 1. *The Unfinishable Map* outer review, 2026-05-11 (ChatGPT 5.5 Pro). §1.1 identifies the catalogue's need for a causal-budget ledger and supplies the discipline's six-field specification. https://unfinishablemap.org/reviews/outer-review-2026-05-11-chatgpt-5-5-pro/
 2. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf — Source for the selection-only reading of Tenet 2 that defines the budget.
-3. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986 — Source for the no-signalling derivation that fixes the Born-rule-preserving ceiling.
+3. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 4. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0 — Source for the ~10 bits/s conscious-agency rate the budget must accommodate.
 5. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/
 6. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/

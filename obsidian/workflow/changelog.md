@@ -1,9 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T05:52:02+00:00'
+ai_modified: '2026-08-03T06:01:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 06:01 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[project/causal-budget-ledger]]
+- **Word count**: 2739 → 3304 (+565; `soft_warning` both before and after, 196 words of headroom to the 3500 hard cap — **it grew, and I am saying so rather than compressing the ledger's discipline sections to compensate**, per the dispatch instruction. The growth is the canonical withdrawal paragraph, which the family requires verbatim-equivalent, plus the ledger-specific "schema without a denominator" statement. No discipline section was cut. The only trims taken were superseded material: the ε-band paragraph in Honest Limitations and the now-void role annotation on Reference 3.)
+- **Original score**: not re-scored (targeted correction pass, not a general quality refine)
+- **Published**: yes
+
+**Third and last of the driver-sequenced files in the ε² / (2 ln 2) withdrawal family, and the structurally most damaging carrier: an audit instrument whose denominator did not exist.** The ledger is the Map's aggregate-audit tool for mental-causation claims, and the quantity it audited against was the Born-preserving per-second rate withdrawn as invalid on 2026-08-03. That is worse than a stray wrong figure — the ledger was certifying a compliance it had never checked. All three driver-verified loci corrected:
+
+- **L38 (lead).** The list of arithmetic attributed to [[selection-only-mind-influence]] dropped "an approximately ε² / (2 ln 2) signed per-trial rate when Born statistics are preserved" and now reads log₂(N) per event, R · log₂(N) per second, content ceiling — matching what that article now actually establishes after its own correction last cycle (its defective string greps 0; the inherited authority is sound).
+- **L46 (the audit threshold itself).** "checks whether the total bandwidth requested fits inside ε² / (2 ln 2)" → checks the total "against any ceiling", with the note that the corpus now supplies no ceiling tight enough for such a check to bite.
+- **L70 (the derivation and its worked calibration).** Section retitled *Why the Budget Binds* → *What the Budget Bounds*, since the per-second ceiling no longer binds. Two surviving bounds stated first (per-event log₂(N); content-confinement). Then the withdrawal, **conformed to the landed wording** rather than composed fresh — the counterexample (uniform binary C, O = C: marginal exactly uniform hence Born-satisfying, yet I(C;O) = 1 bit), the two category errors (MI is non-negative so a *signed* rate is a category error; a non-negative quantity averaging to zero forces every term to zero rather than cancelling), the four missing ingredients, and the suspension sentence all match the paragraphs already landed in [[topics/selection-only-mind-influence]] and [[concepts/selection-only-channel]]. Composing a fourth variant would have reproduced the very defect the family embodies.
+
+**Discipline preserved, denominator replaced.** The six-field schema, the five-question audit, the worked examples, and the aggregation check are all untouched and stand in full — they are independent of the arithmetic. What changed is what they audit against. New closing statement: the aggregate causal budget is **unquantified pending rederivation, not known to be tiny**; the only rate-level bound the corpus establishes is the unconstrained R · log₂(N) bits/s, which at 10⁷–10¹² events/s sits many orders of magnitude above the observed ~10 bits/s and does not bind; and a valid denominator would need a declared channel, a reference distribution, a prior over mind-states, and a perturbation geometry. Until then, both "the catalogue is over-drawing" and "the catalogue is comfortably inside budget" are unsupported.
+
+**Three downstream certifications fixed that the driver did not name, each an instance of the same defect.** (a) The lead called the shared budget "tiny" — an aggregate claim the ledger can no longer back; now "shared", with a front-loaded correction paragraph at L42 so a truncated read still gets the withdrawal. (b) The `description` frontmatter asserted a "tiny shared channel" and that "'minimal' is a measurable constraint" — a nav surface asserting what the body now disclaims; rewritten and brought inside the length guidance (330 → 168 chars). (c) The Worked Examples closer certified that "most mental-causation claims in the catalogue *do* fit within the budget" — a total against a denominator that does not exist; rewritten to define what "the audit passes" can now mean (the claim is *specified* well enough to be audited later, not totalled against a ceiling), which covers the three per-example "audit passes" verdicts without editing each.
+
+**Licensed use pointed at, not restated.** [[concepts/channel-class-taxonomy]] carries ε² / (2 ln 2) legitimately — declared probability-bias channel, stated reference distribution, independently re-derived — and was deliberately not "corrected". The withdrawal paragraph and a Further Reading entry point there; `channel-class-taxonomy` and `selection-only-channel` added to `related_articles` (both slugs verified unique across `obsidian/` and `archive/`, so the bare-slug wikilinks resolve).
+
+**Housekeeping.** Reference 3 (Han & Choi 2016) kept, but its annotation "Source for the no-signalling derivation that fixes the Born-rule-preserving ceiling" stripped — matching how the corrected siblings now carry it. Audit question 2 rescoped to the ceilings that still exist. No inbound anchor links to the renamed heading anywhere in `obsidian/`, `hugo/content/`, or `archive/`. Synced; all four changed strings confirmed in `hugo/content/project/causal-budget-ledger.md`; frontmatter validates.
+
+**Residue for the open P2 family sweep — four defective carriers remain, none touched by this pass:**
+
+1. `obsidian/concepts/type-token-causation.md` L129 — "bounded by ε²/(2 ln 2) bits per trial under Born-rule preservation", with a falsification claim resting on it. Most load-bearing of the four.
+2. `obsidian/apex/post-decoherence-selection-programme.md` — two loci: "the Born-rule throttling of the long-run signed rate to ~ε²/(2 ln 2) bits/trial" and "the long-run signed rate, throttled to ~ε²/(2 ln 2) bits per trial, vanishes into the ensemble".
+3. `obsidian/topics/overdetermination-dissolution-under-selection-only-interactionism.md` — "The signed information rate is bounded by approximately ε² / (2 ln 2) bits per trial".
+4. `obsidian/positions/quantum-interface.md` — the P-Q toy-model success criterion: "a counterfactually efficacious single-trial bias whose signed long-run rate vanishes (~ε²/(2 ln 2) bits/trial, per [[selection-only-channel]])" — a register success condition defined by the withdrawn figure.
+
+Already resolved, do **not** re-open: [[topics/selection-only-mind-influence]], [[concepts/selection-only-channel]], [[apex/born-preserving-causal-efficacy]] (its ε² greps 0), the 2026-08-03 correction in `obsidian/research/selection-only-mind-influence-information-limits-2026-05-05.md`, and this file. Deliberately excluded as legitimate: [[concepts/channel-class-taxonomy]]. Remaining `2 ln 2` hits across the three trees are all in `reviews/`, `workflow/changelog*`, and `workflow/todo.md` — historical record, not serving bodies. `archive/` is clean (zero hits).
 
 ## 2026-08-03 05:52 UTC - deep-review
 
