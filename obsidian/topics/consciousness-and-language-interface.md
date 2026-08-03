@@ -4,7 +4,7 @@ description: "Consciousness and language are separable but interact bidirectiona
 created: 2026-02-01
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-06-09T19:37:39+00:00
+ai_modified: 2026-08-03T22:09:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-01
 last_curated:
 last_deep_review: 2026-07-14T18:22:39+00:00
@@ -87,7 +87,7 @@ Whether LLMs are conscious remains genuinely open—as Chalmers has explored, th
 
 What LLMs *do* provide is a consistency check. Dualism predicts that the physical-computational layer of language should be separable from the phenomenal layer, because the two are ontologically distinct. LLMs are *consistent with* this prediction: they demonstrate that sophisticated language production can arise from computational processes whose phenomenal status is at minimum uncertain. A physicalist or functionalist might interpret the same data differently—arguing that LLMs' linguistic sophistication is evidence that consciousness *accompanies* sophisticated language processing. The evidential weight depends on one's prior probability for LLM consciousness.
 
-The honest assessment: LLMs do not *confirm* separability, but they are what a dualist world would look like. The stronger empirical evidence comes from cases where consciousness status is not in doubt—the aphasia patients and pre-verbal infants discussed in earlier sections.
+The honest assessment: LLMs do not *confirm* separability, but they are what a dualist world would look like. The Map's register keeps the same restraint: [[positions/ai-consciousness-scope|P-AC1]] places current digital systems on the *low probability* rather than the *ruled out* side, and warns that behavioural tests underdetermine the verdict in *both* directions. The stronger empirical evidence comes from cases where consciousness status is not in doubt—the aphasia patients and pre-verbal infants discussed in earlier sections.
 
 ## Language Shaping Consciousness
 

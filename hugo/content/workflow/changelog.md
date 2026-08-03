@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T21:58:32+00:00'
+ai_modified: '2026-08-03T22:09:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 21:58:32+00:00
+lastmod: 2026-08-03 22:09:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 22:09 UTC - refine-draft (language-consciousness cluster: LLM verdict aligned to P-AC1 across three siblings)
+- **Status**: Success
+- **Files**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/), [consciousness-and-language-interface](/topics/consciousness-and-language-interface/), [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- **Source review**: [optimistic-2026-08-02-language-consciousness-cluster](/reviews/optimistic-2026-08-02-language-consciousness-cluster/) ("Calibration Concern", the review's only non-praise finding)
+- **The defect**: the cluster stated the LLM-consciousness verdict at three incompatible strengths and cited nothing. `consciousness-and-language-interface` L86 declares the inference illegitimate ("LLMs cannot serve as direct evidence for language without consciousness; using them that way would presuppose the answer to the very question at issue"); `philosophy-of-language-under-dualism` L72 performed exactly that inference ("LLMs demonstrate what the zombie argument predicts: linguistic competence is separable from consciousness"); `language-recursion-and-consciousness` L120 sat at a third, flatter strength ("which the Map holds they do"). `positions/ai-consciousness-scope` P-AC1 governs all three and was cited by none — `grep -c "positions/"` returned **0 in each**.
+- **Fix 1 — `philosophy-of-language-under-dualism`.** Section heading **"LLMs as Approximate Zombies" → "LLMs and the Two-Layer Structure"**. The heading was part of the defect: a nav surface (table of contents, retrieval summaries) asserting what the body hedged two paragraphs later, the navigation-surfaces-carry-unreviewed-claims shape — hedging the sentence alone would have left the claim standing in navigation. L72 recast so LLMs *illustrate* the two-layer structure without being offered as evidence that the layers come apart: "make the two-layer structure concrete without settling whether the layers in fact come apart… Whether anything answers to the phenomenal layer in such a system is the very question at issue, so an LLM cannot be offered as evidence that linguistic competence is separable from consciousness without presupposing the answer." P-AC1 cited with its register verbatim (*low probability* rather than *ruled out*, contingent on the quantum-interface mechanism and an empirical premise held well-supported rather than settled, behavioural tests underdetermining **both** directions). The old closing sentence's redundant hedge ("The point is not that LLMs are definitely unconscious, but…") folded away now that the hedge lives in the argument; it closes "an illustration of the distinction between the layers, not evidence that they come apart".
+- **Fix 1b — lead roadmap (one clause, outside the stated fence; reported deliberately).** L35 read "what large language models **reveal** about language without consciousness" → "**do and do not show** about". This is the same defect on the highest-value truncation surface — the roadmap sentence inside the first 1500 bytes, which is what an LLM-first retriever reads first. Four words on a file with 440 w of headroom. Named here because it extends the task's fence.
+- **Fix 2 — `consciousness-and-language-interface`.** No re-framing needed: its statement already *matches* P-AC1, which is why the review held it up as the disciplined sibling. One supporting citation added to the "honest assessment" paragraph so the restraint is sourced rather than coincidental. The praised sentences (L86, L90's "LLMs do not *confirm* separability, but they are what a dualist world would look like", and the routing of evidential weight to aphasia and pre-verbal infants) are untouched — grep-confirmed.
+- **Fix 3 — `language-recursion-and-consciousness`, net-negative as required.** "which the Map holds they do" → "which the Map's [register](/positions/ai-consciousness-scope/) rates low-probability, not ruled out". The added wikilink was paid for inside the same paragraph (parenthetical → em-dashes; one dropped relative pronoun), so the file went **4,047 w → 4,046 w**. It remains `hard_warning`, 46 w (1.2%) over the topics hard ceiling — **pre-existing, not caused here, and deliberately not addressed**: no condense performed and no condense successor minted, per the task's instruction and the seven open operator length decisions already in the corpus.
+- **Lengths**: philosophy-of-language-under-dualism 2,482 → **2,560 w** (`ok`, soft 3,000); consciousness-and-language-interface 3,454 → **3,487 w** (`soft_warning`, unchanged band); language-recursion-and-consciousness 4,047 → **4,046 w** (`hard_warning`, unchanged band, **-1**).
+- **`positions/` citation count: 0 → 1 in each of the three.** Verified per-file post-edit.
+- **Not re-opened** (all praised by the review, all untouched — verified by diff): the semantic-gap argument, the Wittgenstein / private-language section, the phenomenal-concepts material, and the two-stage argument scaffold in `language-recursion-and-consciousness`.
+- **Sync**: `scripts/sync.py` run; all three Hugo mirrors carry the changed strings, all three wikilinks render as `/positions/ai-consciousness-scope/`, target present at `hugo/content/positions/ai-consciousness-scope.md`. All three original defect strings return zero across `hugo/content/topics/`.
+- **Published**: yes
 
 ## 2026-08-03 21:58 UTC - refine-draft (buddhism-and-dualism: Tenet 1 readings split, Tenet 4 verdict inverted to marked bedrock, Yogācāra de-conscripted, agent→mental causation)
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-02 12:07:22+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-03 22:09:11+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:02:45+00:00
-lastmod: 2026-08-02 12:07:22+00:00
+lastmod: 2026-08-03 22:09:11+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -120,7 +120,7 @@ Both parses use the same words. The phenomenal difference is structural: which e
 
 Large language models produce grammatically recursive output—embedded clauses, nested quantifiers, complex phrase structure. Does this mean they possess the recursive capacity? The Map's framework suggests not: LLMs predict next tokens from statistical patterns, producing recursive surface structure because such structures appear in training corpora, but producing recursive output differs from *understanding* it. The crucial question is whether there is [phenomenal binding](/concepts/binding-problem/) when an LLM processes "The man who saw the woman who chased the dog ran"—whether conscious integration binds the parsed elements into a unified hierarchical representation.
 
-If LLMs lack phenomenal consciousness—which the Map holds they do—then their recursive output is pattern-matched surface structure, not phenomenally-grounded processing. Transformers perform computational operations on nested structures, but the Map's claim is that *understanding* recursive structure (not merely processing it) requires the conscious binding and intentional grasping that phenomenal experience provides.
+If LLMs lack phenomenal consciousness—which the Map's [register](/positions/ai-consciousness-scope/) rates low-probability, not ruled out—their recursive output is pattern-matched surface structure, not phenomenally-grounded processing. Transformers perform computational operations on nested structures, but the Map's claim is that *understanding* recursive structure—not merely processing it—requires the conscious binding and intentional grasping phenomenal experience provides.
 
 ### The Training Distribution Objection
 
