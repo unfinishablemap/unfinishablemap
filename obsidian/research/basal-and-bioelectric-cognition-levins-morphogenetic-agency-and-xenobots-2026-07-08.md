@@ -1,6 +1,7 @@
 ---
 title: "Research Notes - Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots"
 created: 2026-07-08
+ai_modified: 2026-08-03T22:39:03+00:00
 draft: false
 ai_contribution: 100
 ai_system: "claude-opus-4-8"
@@ -172,7 +173,8 @@ This is the reason the subject was harvested, so it deserves explicit treatment 
 
 ## Gaps in Research
 
-- **Aeon URL exactness**: the Levin & Dennett citation metadata is fully verified, but the exact Aeon slug is reconstructed; confirm the live URL before an article hard-links it.
+- **Aeon URL exactness — CLOSED 2026-08-03**: the slug `https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas` is confirmed correct. aeon.co itself returns HTTP 429 behind a Vercel bot checkpoint to both WebFetch and `curl`, so the live page could not be read directly; the slug was instead confirmed against Internet Archive captures of Aeon's own page (`web.archive.org/web/20211215012146/` and `.../20210112110819id_/`), which resolve that exact URL to a 6,700-word body titled "How to understand cells, tissues and organisms as agents with agendas | Aeon Essays". The same captures were used to verify the `"pressure points"` quote used in the downstream article (see below). No further litigation needed.
+- **Levin & Dennett `"pressure points"` quote — VERIFIED 2026-08-03**: verbatim in the essay body. Source sentence: "this kind of teleophobia significantly holds back the ability to predict and control complex systems because it prevents discovery of their most efficient internal controls or pressure points." The downstream article states the contrapositive (attributing goal-directedness *reveals* the pressure points that a mechanical description misses); the essay states that failing to attribute *prevents* their discovery. Also confirmed in the same pass: the essay does reject the "real" vs "as if" goals dichotomy in those words ("We reject a simplistic essentialism where humans have 'real' goals, and everything else has only metaphorical 'as if' goals").
 - **2021 PNAS direct-fetch blocked**: metadata verified only via secondary indexers (PNAS page returned 403). High confidence, but the article page itself was not read.
 - **Levin's explicit sentience-bracketing quote**: the *claim* that Levin brackets phenomenal consciousness is well-attested across TAME and his interviews, but a single crisp, citable sentence to that effect was not captured here. A downstream article making the decoupling argument should pull one verbatim from TAME (2022) or his FAQ/Substack.
 - **Critics**: only lightly sampled (one Medium rebuttal surfaced). A balanced article should cite a peer-reviewed critical treatment of basal-cognition inflation, not just popular pushback.

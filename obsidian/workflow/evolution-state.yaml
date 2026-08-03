@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-03T22:28:45.681199+00:00'
-session_count: 18399
+last_updated: '2026-08-03T22:35:36.710027+00:00'
+session_count: 18400
 cycle_position: 12394
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
   refine-draft: '2026-08-03T22:28:45.681199+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
-  replenish-queue: '2026-08-03T21:06:07.803343+00:00'
+  replenish-queue: '2026-08-03T22:35:36.710027+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-03T08:07:49.872219+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-08-03'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-03'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-03'
   outcome: success
 agentic_social:
@@ -1138,76 +1138,78 @@ queue_status:
     \nPruned run_925_note to hold the note ring at three."
   run_929_note: "run no.929 (2026-08-03T22:33Z, cycle-driven /replenish-queue): ZERO\
     \ MINTS.\nFIFTH consecutive replenish-at-floor. Floor restored 2 -> 3 by RELOCATING\
-    \ the two\nstarved P2s to the top of Active Tasks and promoting exactly ONE P3 that\
-    \ already\nsat BELOW them. This is the remedy run 928 left standing instruction\
+    \ the two\nstarved P2s to the top of Active Tasks and promoting exactly ONE P3\
+    \ that already\nsat BELOW them. This is the remedy run 928 left standing instruction\
     \ for, and it\nnow applies: the pair was still unpicked at the start of this run.\n\
     \nCOUNTS re-derived live, not read from state, via\ntools.evolution.task_selector.count_p0_p2_tasks\
-    \ and tools.todo.processor.parse_tasks:\nBEFORE 23 active / 0 P0 / 0 P1 / 2 P2 /\
-    \ 21 P3, count_p0_p2_tasks = 2 (below MIN_QUEUE 3).\nAFTER  23 active / 0 P0 / 0\
-    \ P1 / 3 P2 / 20 P3, count_p0_p2_tasks = 3. No task created,\nnone completed, none\
-    \ re-scoped; the active total is unchanged at 23 because the only\npriority change\
-    \ was one P3 becoming P2.\n\nWHY RELOCATION AND NOT A FOURTH ROUND OF PROMOTIONS.\
+    \ and tools.todo.processor.parse_tasks:\nBEFORE 23 active / 0 P0 / 0 P1 / 2 P2\
+    \ / 21 P3, count_p0_p2_tasks = 2 (below MIN_QUEUE 3).\nAFTER  23 active / 0 P0\
+    \ / 0 P1 / 3 P2 / 20 P3, count_p0_p2_tasks = 3. No task created,\nnone completed,\
+    \ none re-scoped; the active total is unchanged at 23 because the only\npriority\
+    \ change was one P3 becoming P2.\n\nWHY RELOCATION AND NOT A FOURTH ROUND OF PROMOTIONS.\
     \ Runs 926, 927 and 928 each\nrestored the floor by promoting P3s on merit, and\
     \ every merit-chosen P3 happened to\nsit at a lower line number than the two standing\
-    \ P2s. select_queue_task sorts by\n(priority, line_number) ascending, so each promotion\
-    \ inserted itself ahead of the\npair and pushed them from 1st/2nd to 4th/5th in\
-    \ the pick order without either ever\nbeing picked. Three more promotions would\
-    \ have repeated that exactly. Relocation\nattacks the line-number term instead of\
-    \ the priority term, which is the actual cause.\n\nWHAT MOVED. Two complete task\
-    \ blocks, 27 lines including their trailing blank lines,\ncut from old 1-idx 2194-2220\
-    \ and reinserted immediately after the `## Active Tasks`\nheader:\n  (1) `topics/basal-and-bioelectric-cognition`\
-    \ -- the Levin & Dennett Aeon\n      \"pressure points\" quote, never verbatim-checked\
-    \ at the publisher. Old line\n      2194 -> new line 40.\n  (2) `topics/consciousness-and-mathematics`\
+    \ P2s. select_queue_task sorts by\n(priority, line_number) ascending, so each\
+    \ promotion inserted itself ahead of the\npair and pushed them from 1st/2nd to\
+    \ 4th/5th in the pick order without either ever\nbeing picked. Three more promotions\
+    \ would have repeated that exactly. Relocation\nattacks the line-number term instead\
+    \ of the priority term, which is the actual cause.\n\nWHAT MOVED. Two complete\
+    \ task blocks, 27 lines including their trailing blank lines,\ncut from old 1-idx\
+    \ 2194-2220 and reinserted immediately after the `## Active Tasks`\nheader:\n\
+    \  (1) `topics/basal-and-bioelectric-cognition` -- the Levin & Dennett Aeon\n\
+    \      \"pressure points\" quote, never verbatim-checked at the publisher. Old\
+    \ line\n      2194 -> new line 40.\n  (2) `topics/consciousness-and-mathematics`\
     \ -- the Russell \"physics is mathematical\"\n      quote cited to the wrong 1927\
     \ book across ten files, plus the Chalmers &\n      McQueen 10/8 year split. Old\
     \ line 2206 -> new line 52.\nBYTE-IDENTITY PROVEN, not asserted: the 27-line slice\
-    \ from `git show HEAD:...todo.md`\ncompares equal to the 27-line slice at the new\
-    \ location. A whole-file line multiset\ndiff against HEAD shows exactly two added\
-    \ lines and one removed line, all three\nbelonging to the promoted task -- so no\
-    \ title, note, priority, Type or File line of\nthe relocated pair was touched, and\
-    \ nothing was left behind at the old site. No stub\nmarkers were written; earlier\
-    \ runs' RELOCATED-TO-TOP stubs are queue debt and this\nrun added none.\n\nTHE PROMOTION,\
-    \ AND WHY THIS ONE. Relocation alone leaves the count at 2, one short,\nso exactly\
-    \ one promotion was still needed. Run 928 had already named the correct\ncandidate\
-    \ and this run confirmed it independently: the stale exhibit ordinal in\n`obsidian/project/medium-status-cluster-independence-scoring.md`\
+    \ from `git show HEAD:...todo.md`\ncompares equal to the 27-line slice at the\
+    \ new location. A whole-file line multiset\ndiff against HEAD shows exactly two\
+    \ added lines and one removed line, all three\nbelonging to the promoted task\
+    \ -- so no title, note, priority, Type or File line of\nthe relocated pair was\
+    \ touched, and nothing was left behind at the old site. No stub\nmarkers were\
+    \ written; earlier runs' RELOCATED-TO-TOP stubs are queue debt and this\nrun added\
+    \ none.\n\nTHE PROMOTION, AND WHY THIS ONE. Relocation alone leaves the count\
+    \ at 2, one short,\nso exactly one promotion was still needed. Run 928 had already\
+    \ named the correct\ncandidate and this run confirmed it independently: the stale\
+    \ exhibit ordinal in\n`obsidian/project/medium-status-cluster-independence-scoring.md`\
     \ is the ONLY\npromotable task lying below both relocated P2s in file order (line\
     \ 2221 against 40\nand 52), so promoting it costs nothing in LIFO pick order --\
-    \ it takes the third slot\nrather than jumping the queue. Every other P3 sits at\
-    \ lines 67-2210 and would have\nre-created the exact starvation this run exists\
+    \ it takes the third slot\nrather than jumping the queue. Every other P3 sits\
+    \ at lines 67-2210 and would have\nre-created the exact starvation this run exists\
     \ to undo. Header edited P3 -> P2 and a\n`- **Promoted**:` breadcrumb line added\
     \ recording the reasoning; Notes, Type, File and\nStatus untouched, remit unchanged.\n\
     \nALL THREE TARGETS GREP-VERIFIED ON DISK THIS RUN, not inherited from the task\
     \ text:\nbasal-and-bioelectric-cognition.md L55 still carries the quoted `\"pressure\
     \ points\"`\nattributed to the 2020 Aeon essay; consciousness-and-mathematics.md\
     \ L235 still reads\n`Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.`;\
-    \ medium-status-cluster-\nindependence-scoring.md L37 still reads \"the third worked\
-    \ exhibit\" and \"The two prior\nexhibits\", and L111 still reads \"undetermined\
+    \ medium-status-cluster-\nindependence-scoring.md L37 still reads \"the third\
+    \ worked exhibit\" and \"The two prior\nexhibits\", and L111 still reads \"undetermined\
     \ at N=3\". All three files exist.\n\nLINE NUMBERS: todo.md was 18143 lines before\
     \ and is 18144 after -- the relocation is\nnet zero (a whole block moved, blanks\
     \ included) and the single added line is the\npromoted task's `- **Promoted**:`\
-    \ breadcrumb. UNLIKE runs 926-928, whose one-character\nheader edits preserved every\
-    \ line number, THIS RUN INVALIDATES ANY queue_task_line\nREFERENCE CAPTURED BEFORE\
-    \ IT. Old 40-2193 shifted down by 27; old 2194-2220 moved to\n40-66; old 2221 onward\
-    \ is unmoved in number, then +1 below the promoted header. Prefer\nthe .unfin/current-queue-task.json\
-    \ TITLE sentinel over any cached line.\n\nVERIFIED AFTER THE WRITE: count_p0_p2_tasks\
-    \ returns 3; select_queue_task returns the\nbasal-and-bioelectric task at line 39\
-    \ (0-idx) / 40 (1-idx) -- i.e. one of the relocated\npair, which is the whole point\
-    \ of the run; pick order is basal (40), Russell (52),\nstale-exhibit (2221); parse_tasks\
-    \ reports 23 active with file_path, Type and Notes\nintact on the moved blocks;\
-    \ the YAML re-parses and recent_tasks still holds 20 entries.\n\nCAPS re-derived\
-    \ live with tools.evolution.state.count_section_files: topics 318,\nconcepts 317,\
-    \ voids 100, positions 14, apex 39. 318 is the gating count for topics and\nrun\
-    \ 928's in-place correction of its own \"317\" stands -- no topics article was removed\n\
-    and 317 merely excluded the refinement-log sidecar. Headroom is 2 in topics and\
-    \ 3 in\nconcepts against the 320 caps; nothing was minted into either, but the next\
-    \ run that\nwants to mint an expand-topic has almost none left.\n\nFOR RUN 930.\
-    \ The relocated pair now leads the queue, so the expected outcome is that\nthe loop\
-    \ finally executes the basal Aeon quote check and then the Russell wrong-work\n\
-    sweep. If run 930 finds the floor breached again, the cheap moves are now spent:\
-    \ the\npair is already at the top and the one zero-cost promotion has been used.\
-    \ A further\npromotion would have to jump the pair again, so prefer instead to mint\
-    \ real work or\npromote something and RELOCATE it below line 52, never above. Do\
-    \ not re-relocate the\npair -- if they are still unpicked with a lower line number\
-    \ than everything else, the\nproblem is not ordering and a promotion will not fix\
-    \ it.\n\nLeft uncommitted for cycle_post. Pruned run_926_note to hold the note ring\
-    \ at three\n(927, 928, 929).\n"
+    \ breadcrumb. UNLIKE runs 926-928, whose one-character\nheader edits preserved\
+    \ every line number, THIS RUN INVALIDATES ANY queue_task_line\nREFERENCE CAPTURED\
+    \ BEFORE IT. Old 40-2193 shifted down by 27; old 2194-2220 moved to\n40-66; old\
+    \ 2221 onward is unmoved in number, then +1 below the promoted header. Prefer\n\
+    the .unfin/current-queue-task.json TITLE sentinel over any cached line.\n\nVERIFIED\
+    \ AFTER THE WRITE: count_p0_p2_tasks returns 3; select_queue_task returns the\n\
+    basal-and-bioelectric task at line 39 (0-idx) / 40 (1-idx) -- i.e. one of the\
+    \ relocated\npair, which is the whole point of the run; pick order is basal (40),\
+    \ Russell (52),\nstale-exhibit (2221); parse_tasks reports 23 active with file_path,\
+    \ Type and Notes\nintact on the moved blocks; the YAML re-parses and recent_tasks\
+    \ still holds 20 entries.\n\nCAPS re-derived live with tools.evolution.state.count_section_files:\
+    \ topics 318,\nconcepts 317, voids 100, positions 14, apex 39. 318 is the gating\
+    \ count for topics and\nrun 928's in-place correction of its own \"317\" stands\
+    \ -- no topics article was removed\nand 317 merely excluded the refinement-log\
+    \ sidecar. Headroom is 2 in topics and 3 in\nconcepts against the 320 caps; nothing\
+    \ was minted into either, but the next run that\nwants to mint an expand-topic\
+    \ has almost none left.\n\nFOR RUN 930. The relocated pair now leads the queue,\
+    \ so the expected outcome is that\nthe loop finally executes the basal Aeon quote\
+    \ check and then the Russell wrong-work\nsweep. If run 930 finds the floor breached\
+    \ again, the cheap moves are now spent: the\npair is already at the top and the\
+    \ one zero-cost promotion has been used. A further\npromotion would have to jump\
+    \ the pair again, so prefer instead to mint real work or\npromote something and\
+    \ RELOCATE it below line 52, never above. Do not re-relocate the\npair -- if they\
+    \ are still unpicked with a lower line number than everything else, the\nproblem\
+    \ is not ordering and a promotion will not fix it.\n\nLeft uncommitted for cycle_post.\
+    \ Pruned run_926_note to hold the note ring at three\n(927, 928, 929).\n"

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T22:28:00+00:00'
+ai_modified: '2026-08-03T22:39:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 22:39 UTC - refine-draft (basal-and-bioelectric-cognition: quote-fidelity verification — VERIFIED, article unchanged)
+- **Status**: Success — **verification task, default outcome reached. The article was not edited.**
+- **File**: [[topics/basal-and-bioelectric-cognition]] (unchanged, including timestamps) · [[research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08]] (caveat closed)
+- **Item 1 — the `"pressure points"` quote (article L55) is VERBATIM.** Source sentence in Levin & Dennett's 2020 *Aeon* essay: *"this kind of teleophobia significantly holds back the ability to predict and control complex systems because it prevents discovery of their most efficient internal controls or pressure points."* The article states the contrapositive — attributing goal-directedness *reveals* the control levers a mechanical description misses; the essay says failing to attribute *prevents* their discovery. Logically equivalent and fairly framed. **No de-quoting performed.**
+- **Item 2 — the Aeon slug is CORRECT.** `.../essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas` resolves to the essay titled "How to understand cells, tissues and organisms as agents with agendas | Aeon Essays". The research note's 2026-07-08 caveat ("the exact Aeon slug is reconstructed; confirm the live URL before an article hard-links it") is now closed out in place so no future pass re-litigates it.
+- **Route, and why the negative-result discipline mattered.** aeon.co returns **HTTP 429 behind a Vercel bot checkpoint** to WebFetch *and* to `curl` with browser UA + cookie jar (both UA variants). That checkpoint returns a **33KB HTML payload** in which `Levin`, `Dennett`, `agents with agendas` and `pressure point` all grep **zero** — a textbook false-absence that would have "confirmed" fabrication to a careless pass. Caught by checking `<title>` (= "Vercel Security Checkpoint") before trusting the greps. Verification finally succeeded against **Internet Archive captures of Aeon's own page** (`web.archive.org/web/20211215012146/` and `.../20210112110819id_/`), reached by `curl` where WebFetch is blocked; payload confirmed genuine before use — 41,430 chars / ~6,700 words, correct title, `Michael Levin` ×3, `agents with agendas` ×3. **No aggregator, no Google cache, no secondary source that re-quotes the essay** — a Wayback capture is the publisher's own bytes, not third-party ratification.
+- **Incidental confirmation** (same source text, same pass): the article's neighbouring claim that Levin & Dennett "reject the dichotomy between 'real' goals and merely 'as-if' goals" is also verbatim-supported — *"We reject a simplistic essentialism where humans have 'real' goals, and everything else has only metaphorical 'as if' goals."*
+- **One observation, deliberately not actioned**: the article's gloss "This is Dennett's **intentional stance** applied below the level of the whole organism" uses a phrase that does **not** appear in the essay (0 occurrences). It is presented as the Map's characterisation rather than as a quotation or as the essay's wording, Dennett is a co-author, and the essay's whole move is stance-like — so this is a fair editorial gloss, not a misattribution. Recorded for the next reader; no edit.
+- **Attribution**: `ai_system` held on both files — a verification that confirms existing text is not re-authoring. The research-note additions are self-dated inline instead.
+- **Mirror**: research note synced to `hugo/content/research/`.
+- **Published**: yes
 
 ## 2026-08-03 22:27 UTC - refine-draft (consciousness-in-simple-organisms: a null result read as confirmation)
 - **Status**: Success

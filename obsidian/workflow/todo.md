@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `topics/basal-and-bioelectric-cognition` quotes "pressure points" from the Levin & Dennett Aeon essay, never verbatim-verified at the publisher
-- **Type**: refine-draft
-- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
-- **Status**: pending
-- **Source**: deep-review 2026-08-03 (owed web-verify, blocked by rate limit)
-- **Generated**: 2026-08-03
-- **Notes**: The article puts `"pressure points"` in quotation marks and attributes it to Levin & Dennett's 2020 Aeon essay "Cognition all the way down" (Reference 3). **Three prior passes verified citation *metadata* only — quote fidelity is orthogonal to metadata verification, so the quoted words have never been checked against the source text.** Could not verify on 2026-08-03: aeon.co returned HTTP 429 on two WebFetch attempts, web.archive.org is not fetchable from this harness, and the session's WebSearch budget was exhausted (200/200).
-
-  **Do NOT de-quote it on suspicion.** The phrase is very likely genuine (Levin uses it routinely), and de-quoting a correct quote on an unverified premise is the documented Tallis-propagation error. Verify first: fetch https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas and grep the body text. Only if the phrase is genuinely absent should the quotation marks come off.
-
-  **Verify the URL slug in the same pass.** The source research note (`research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08.md` L175) explicitly flags: *"the exact Aeon slug is reconstructed; confirm the live URL before an article hard-links it."* The article hard-links it anyway in Reference 3. The 2026-07-08 citation ledger lists Aeon among publishers checked, so this is probably fine — but the note's own caveat was never closed out, and a 429 is not a confirmation.
-
 ### P2: the Russell "physics is mathematical" quote is cited to the wrong 1927 book in ten files, and Chalmers & McQueen is split 10/8 between two years
 
 - **Type**: refine-draft
@@ -2238,6 +2226,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: `topics/basal-and-bioelectric-cognition` quotes "pressure points" from the Levin & Dennett Aeon essay, never verbatim-verified at the publisher
+- **Type**: refine-draft
+- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
+- **Notes**: The article puts `"pressure points"` in quotation marks and attributes it to Levin & Dennett's 2020 Aeon essay "Cognition all the way down" (Reference 3). **Three prior passes verified citation *metadata* only — quote fidelity is orthogonal to metadata verification, so the quoted words have never been checked against the source text.** Could not verify on 2026-08-03: aeon.co returned HTTP 429 on two WebFetch attempts, web.archive.org is not fetchable from this harness, and the session's WebSearch budget was exhausted (200/200).
+  **Do NOT de-quote it on suspicion.** The phrase is very likely genuine (Levin uses it routinely), and de-quoting a correct quote on an unverified premise is the documented Tallis-propagation error. Verify first: fetch https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas and grep the body text. Only if the phrase is genuinely absent should the quotation marks come off.
+  **Verify the URL slug in the same pass.** The source research note (`research/basal-and-bioelectric-cognition-levins-morphogenetic-agency-and-xenobots-2026-07-08.md` L175) explicitly flags: *"the exact Aeon slug is reconstructed; confirm the live URL before an article hard-links it."* The article hard-links it anyway in Reference 3. The 2026-07-08 citation ledger lists Aeon among publishers checked, so this is probably fine — but the note's own caveat was never closed out, and a 429 is not a confirmation.
 
 ### ✓ 2026-08-03: consciousness-in-simple-organisms L58 reads a NULL result as confirmation of dualism, the same confirmation-from-absence move inventory-blindness was just hardened against
 - **Type**: refine-draft
