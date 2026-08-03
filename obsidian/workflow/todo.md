@@ -46,17 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-03
 - **Notes**: **OPERATOR DECISION — the relocation task that surfaced this did the right work and honestly missed its numeric target; this records why, so the miss is not rediscovered as a fresh defect.** `positions/methodology-and-calibration.md` was 3,401 w against a 2,500 hard threshold. The 16:5xZ pass relocated its dated audit trail to a new `positions/methodology-and-calibration-history.md` (822 w), following the in-directory precedent set by `quantum-interface-calibration-history.md`. **Driver-verified outcome: 3,401 → 3,165, still `hard_warning`; zero deletions touching any live `Status` / `Asserts` / `Depends on` / `Would shift if` / `Last reviewed` / `Calibration` field; `^calibration-schema` still emitted in the synced Hugo page.** Nothing was compressed — correctly, since a register's hedges and `n/a (normative)` justifications *are* its content ([[condense-regresses-calibration-qualifiers]]). **THE ARITHMETIC IS DECISIVE AND MAKES THIS UNFIXABLE IN SCOPE.** The file decomposes as **multi-axis schema section 755 w · domain header 276 w · five position entries 2,132 w**. Header plus entries alone are **2,408 w — already 92 under the hard threshold.** So the only remaining relocatable mass *is* the schema section, which the task explicitly ruled out of scope, and rightly: it is normative content, not audit trail. Reverting the 2026-08-03 schema repair does not help either — the file was already over at 2,722 w before it. **Gap: 665 words, and no in-scope move closes it.** **THE STRUCTURAL FIX, NOT TAKEN:** promote `## The multi-axis calibration schema` to its own `positions/calibration-schema.md`, **carrying the `^calibration-schema` anchor with it**. It governs all thirteen register files and is not domain-specific — it lives in `methodology-and-calibration` for historical reasons only. That lands the register at **~2,410 w**, under threshold, with nothing compressed. **WHY IT IS AN OPERATOR CALL, NOT A LOOP TASK:** it requires repointing **155 references across 43 files** (driver counted 30 files in `obsidian/` alone; the fork's 43/155 includes `hugo/content/`), or a Hugo-side alias to keep the old fragment resolving. A broken `^calibration-schema` silently degrades every sibling register file's calibration line to a dead deep link, and eleven `positions/` files plus `positions.md` depend on it. **This is the single change that would break the register** — it should not be attempted by an auto-loop fork, and it wants a verified before/after reference count either way. **CONTEXT WORTH KNOWING:** the precedent set the same expectation — `positions/quantum-interface.md` is still 4,129 w (`critical`) after its own relocation. **Relocation caps future accretion; it does not by itself bring a mature register file under threshold.** If the answer is that register files should simply carry a higher ceiling, that is a legitimate outcome and would also settle `quantum-interface`. **RELATED, DECIDE TOGETHER:** the `topics/volitional-control` length entry minted earlier today and the four sibling length deferrals it names — this is the same class of question (is the threshold wrong, or is the file wrong?) in the register register rather than the article one. **DO NOT** mint a P0-P3 condense against this file; it is deliberately picker-invisible, and the next condense pick would either compress entries or move the anchor.
 
-### P2: Adopt substrate-independence calibration in basal-and-bioelectric-cognition
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
-- **Notes**: From topic-concept anchoring audit 2026-08-03. The topic article over-claims relative to its anchor concept [[substrate-independence]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 0.00/kw is below 3.00/kw (target = 60% of anchor 11.01/kw, capped at 3.0/kw)
-  - strong-assertion density 0.45/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-08-03
-
 ### NEEDS-HUMAN (length decision) 2026-08-03: `topics/volitional-control` is over the hard ceiling on prose alone, and is the only such article with no deferral marker
 
 - **Type**: refine-draft
@@ -2259,6 +2248,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: Adopt substrate-independence calibration in basal-and-bioelectric-cognition
+- **Type**: refine-draft
+- **File**: obsidian/topics/basal-and-bioelectric-cognition.md
+- **Notes**: From topic-concept anchoring audit 2026-08-03. The topic article over-claims relative to its anchor concept [[substrate-independence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 0.00/kw is below 3.00/kw (target = 60% of anchor 11.01/kw, capped at 3.0/kw)
+  - strong-assertion density 0.45/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-08-03: two Map pages give opposite verdicts on pain asymbolia, and the over-claiming one leads with it
 - **Type**: refine-draft
