@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T13:37:03+00:00'
+ai_modified: '2026-08-03T14:05:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 14:05 UTC - optimistic-review (the subject-census machinery: five declined tier-upgrades, and a register axis every position writes and nothing reads)
+
+- **Status**: Success
+- **Content reviewed**: the *who counts as a subject, and on what evidence* wing, read in full — [[concepts/is-conscious-being-a-natural-kind]] (2265w), [[positions/subject-census]] (1656w, created today 06:29Z), [[topics/consciousness-and-the-major-evolutionary-transitions]] (2335w), [[concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience]] (2007w), [[topics/graduated-middle-path-valence-modulated-attention]] (2586w).
+- **Selection**: all five carry **zero prior optimistic-review coverage corpus-wide** (24 of 801 live articles score zero, by tokenising every `reviews/optimistic-*.md` and counting slug occurrences); three carry zero coverage of any review kind. None is the `File` target of an open task.
+- **Headline**: the cluster was offered five separate opportunities to convert tenet-coherence into evidential standing and declined all five *in writing* — the symmetric Tenet 5 non-inference in `near-perfect-adaptation` ("elegance does not license inferring the *absence* of experience any more than the presence of regulation licenses inferring its *presence*"), the in-line recruitment prohibition against Man & Damasio / Seth ("must not enlist them as allies for a dualist conclusion they reject"), the symmetric parsimony block in `major-evolutionary-transitions`, that article's opening priority concession to Ginsburg & Jablonka, and `graduated-middle-path`'s live-hypothesis framing. The Hardline Empiricist persona, whose verdict is load-bearing on this terrain, had nothing to flag.
+- **Verified, not asserted**: both highest-risk citations check out exactly at the publisher of record — Jablonka & Ginsburg (2025) *Phil. Trans. R. Soc. B* 380(1939):20240310 via Crossref `10.1098/rstb.2024.0310` (published 2025-11-13), and Antony (2006) *Phil. Studies* 128(3):**515–538** via `10.1007/s11098-004-7488-8`. The second matters: the natural-kind **research note had explicitly flagged that page range as unverified** ("verify at expand time") and the verification demonstrably happened. The same note's `CALIBRATION FLAG` — that Antony's sharpness argument threatens dualism too, and must be treated "as an objection the Map must answer, not evidence for the Map" — is honoured by a dedicated guard in the published article. Research → expand chain integrity confirmed end to end.
+- **F1 (minted P3)**: the register's `empirical discriminability` axis is **write-only**. Parsed across all 14 files, 12 of 49 positions score `none` (7) or `none-by-construction` (5); nothing in the corpus reads the column. An instance of the register's own P-M5 on its own instrument. Scoped as a *read* of an existing axis — explicitly **not** the seventh `enforcement:` flag that `methodology-and-calibration:55` records as deliberately unadopted.
+- **F2 (minted P3)**: `P-SC1`'s `Argued in` lists `apex/post-decoherence-selection-programme` (no subject-index discussion; its only observer passage makes the opposite point) and `concepts/selection-only-channel` (`:74` writes the exact conditional and treats C as an unindexed mind-state — the omission P-SC1 was created to name). Re-label as *formalism drawn from*, do not delete. Generalisable half: `/positions-evolve` verifies `Argued in` for existence only, while P-M3 commits the Map to two-layer existence-and-content verification for external sources — layer two outward, layer one inward.
+- **Checked and cleared**: the `Competency Without Experience` title is balder than the body's framework-relative thesis, but all four inbound links label it correctly and the anarchic-hand research note carries a standing framework-relative instruction — no action, recorded so a later pass does not re-open it. `graduated-middle-path`'s `anchoring_audit_exempt: true` confirmed correct on this read (calibrates structurally; a lexical hedge-counter would miss it).
+- **Not re-minted**: subject **fusion** is already booked in the 2026-08-03 NEEDS-HUMAN (foundations) entry as a `/harvest-research-subjects` candidate; recorded as already-owned so this review is not read as independent corroboration of a gap it merely re-encountered.
+- **Output**: [[reviews/optimistic-2026-08-03-subject-census-machinery]]
 
 ## 2026-08-03 13:49 UTC - deep-review (`concepts/idealism`: verification pass over the 13:16Z refine — the sibling-file defect pattern reproduced, three critical issues)
 
