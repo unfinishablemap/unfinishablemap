@@ -1,14 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T11:12:00+00:00'
+ai_modified: '2026-08-03T11:19:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 11:12:00+00:00
+lastmod: 2026-08-03 11:19:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 11:18 UTC - refine-draft (Masanes sweep, anchor file: Born-rule derivation marked contested — and Kent is peer-reviewed, contrary to the task brief)
+
+- **Status**: Success
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) (plus Hugo mirror)
+- **Task**: the P2 Masanes sweep's confirmed anchor, following the 2026-08-03 correction to [dualism-cartography](/apex/dualism-cartography/). L60 read "Masanes, Galley, and Müller (2019) **demonstrated** that the Born rule … is not one choice among many but the *unique* consistent probability rule" — the settled framing, with zero rebuttal awareness (`Kent`/`Stacey` both greped 0).
+- **Word count**: 3785 → 3936, `soft_warning` throughout, 64 words under the 4000 hard cap. No overrun; the MGM reply was retained as instructed.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6`. Marking a result contested is a calibration correction, not re-authoring. `last_deep_review` untouched.
+
+**CORRECTION TO THE TASK BRIEF — Kent is not a preprint.** The brief directed that Kent and Stacey both be marked "preprints/comments, not peer-reviewed rebuttals". Verified at Crossref and arXiv, that is right for Stacey and **wrong for Kent**:
+
+- **Kent** — *Quantum* **9**, 1749 (2025), DOI `10.22331/q-2025-05-20-1749`; arXiv:2307.06191 v1 Jul 2023, v3 May 2025. **Peer-reviewed.** Abstract: "We refute their conclusion, giving explicit examples of non-quantum measurement and state update rules that satisfy all their assumptions."
+- **MGM's reply** — *Quantum* **9**, 1592 (2025), DOI `10.22331/q-2025-01-14-1592`. **Also peer-reviewed**, and published as a comment/response pair with Kent rather than as an arXiv rebuttal.
+- **Stacey** — arXiv:2211.03299 only (v1 Nov 2022, v2 Feb 2023), no journal reference. **Preprint comment**, as briefed.
+
+Under-stating Kent's status would itself have been an evidential-status defect, so the landed prose gives each source the status it actually holds. Note this means **the apex precedent's own reference list is now the understatement**: `apex/dualism-cartography` L197 cites Kent by arXiv URL with no journal reference. Out of scope here; flagged below.
+
+**Changes**
+
+- **Heading renamed** `### Born Rule Uniqueness` → `### Born Rule Uniqueness: A Contested Derivation`. Nav surfaces carry unreviewed claims; the old heading asserted in the table of contents what the body now qualifies.
+- **"demonstrated" → "derive"**, and "On their argument, alternative rules…" — the derivation is attributed to MGM rather than asserted in the Map's voice, per the apex.
+- **Challenge paragraph added**, conforming to the apex's landed sentence shape and clause order rather than composing a variant, with status markers inserted: Kent exhibits the counterexamples, Stacey argues the proof assumes state-update linearity at the step it purports to prove, MGM have replied in the same journal, the question is contested rather than closed, and the result presumes finite-dimensional ensembles. Closes: "conditional twice over—on the derivation surviving the challenge, and on its postulates holding in the regime where consciousness acts", which joins the new challenge to the article's pre-existing regime-conditionality without restating it.
+- **L62 softened** by two words: "the Born rule is, where the derivation holds, not only mathematically unique…".
+- **Three reference entries** (16–18) with explicit status on each.
+- **Incidental style fix**: "is not one choice among many but the *unique*…" was an instance of the banned "This is not X. It is Y." construct. The reattribution dissolved it.
+
+**Pre-existing hedging preserved, as instructed.** The file already carried "a powerful *conditional* constraint" and bounded the regime across L62–64, L76 and L152. None of that was touched, rewritten or flattened; the new material sits upstream of it. The article's filter of the corridor argument, and its conclusion, are unchanged — the derivation is marked contested, not refuted.
+
+**SIBLING RESIDUE — the brief's screen was two-thirds noise; here is the real locus list.** Twelve files matched `unique`; on inspection only **two** carry the settled framing.
+
+1. **`concepts/consciousness-physics-interface-formalism` L57 — worst live instance, rank first.** Reads "Masanes, Galley, and Müller (2019) **proved** that the Born rule … is **the unique** probability assignment consistent…". Stronger than the anchor was, and rebuttal-free. This is the one remaining file that needs the same treatment. (It also has an open coalesce deferral against it — the 2026-08-03 coalesce log rejected pairing it with this anchor precisely to avoid two passes on this line.)
+2. **`topics/born-rule-and-the-consciousness-interface` — the brief's "already carries a Stacey mention" is a FALSE POSITIVE.** The Stacey hit at L264 is DeBrota, Fuchs, Pienaar & Stacey (2021), "Born's Rule as a Quantum Extension of Bayesian Coherence", *Phys. Rev. A* 104:022207 — a **different paper by the same author**, unrelated to the MGM rebuttal. That said, the file needs no urgent fix: L97 already calls MGM a *conditional* theorem and names finite-dimensionality, and L117 says MGM "derives" rather than proves. It is **well-calibrated but rebuttal-unaware** — a low-priority addition of the Kent/Stacey citations, not a correction.
+
+The remaining ~9 matches are `unique` on unrelated subjects (uniqueness of qualia, unique-instance arguments, inner-product uniqueness, "measurement uniqueness" as a postulate name) and are **not** Masanes loci. The sweep is therefore one real file plus one optional citation top-up, not eleven.
+
+**Also flagged, out of scope:** `apex/dualism-cartography` L197 should gain Kent's journal reference (*Quantum* 9:1749, 2025) and an entry for MGM's reply (*Quantum* 9:1592, 2025), which its prose mentions but its reference list omits.
 
 ## 2026-08-03 11:12 UTC - refine-draft (research-note quote-fidelity audit: aesthetic testimony — 2 defects in 28 spans, and the concession lens found nothing)
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-22 08:28:08+00:00
+ai_modified: 2026-08-03 11:18:08+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-22 15:14:14+00:00
-lastmod: 2026-06-22 08:28:08+00:00
+lastmod: 2026-08-03 11:18:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,11 +59,13 @@ If consciousness interacts with the physical world at quantum indeterminacies, t
 
 Three results from quantum foundations collectively constrain the consciousness-physics interface to a surprisingly narrow space.
 
-### Born Rule Uniqueness
+### Born Rule Uniqueness: A Contested Derivation
 
-Masanes, Galley, and Müller (2019) demonstrated that the Born rule—the prescription that measurement probabilities equal squared amplitudes, p = |ψ|²—is not one choice among many but the *unique* consistent probability rule given four basic postulates: states as vectors in Hilbert space, unitary evolution, compositional neutrality, and measurement uniqueness. Alternative rules (p = |ψ|, p = |ψ|³, or any other power) violate the logical consistency of these postulates.
+Masanes, Galley, and Müller (2019) derive the Born rule—the prescription that measurement probabilities equal squared amplitudes, p = |ψ|²—as the *unique* consistent probability rule given four basic postulates: states as vectors in Hilbert space, unitary evolution, compositional neutrality, and measurement uniqueness. On their argument, alternative rules (p = |ψ|, p = |ψ|³, or any other power) violate the logical consistency of these postulates.
 
-For the consciousness-physics interface, this uniqueness is a powerful *conditional* constraint. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) extends the result: the Born rule is not only mathematically unique given the postulates but also interpretation-invariant—appearing in every major framework (hidden-variable, collapse, retrocausal, categorical, gravitational) without being derivable from any. Within the regime where the four Masanes-Galley-Müller postulates hold, if consciousness acts at the point of measurement it cannot alter the probability rule; it can bias *which* outcome actualises among the possibilities, but the ensemble statistics must remain Born-rule compliant.
+That derivation is under live published challenge: Kent (2023; peer-reviewed as *Quantum* 9:1749, 2025) exhibits non-quantum measurement and state-update rules satisfying all its assumptions, and Stacey (2022, an arXiv comment not peer-reviewed) argues it assumes state-update linearity at the step it purports to prove; Masanes, Galley and Müller have replied in the same journal, so the question is contested rather than closed, and the result presumes finite-dimensional ensembles. What follows is therefore conditional twice over—on the derivation surviving the challenge, and on its postulates holding in the regime where consciousness acts.
+
+For the consciousness-physics interface, this uniqueness is a powerful *conditional* constraint. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) extends the result: the Born rule is, where the derivation holds, not only mathematically unique given the postulates but also interpretation-invariant—appearing in every major framework (hidden-variable, collapse, retrocausal, categorical, gravitational) without being derivable from any. Within the regime where the four Masanes-Galley-Müller postulates hold, if consciousness acts at the point of measurement it cannot alter the probability rule; it can bias *which* outcome actualises among the possibilities, but the ensemble statistics must remain Born-rule compliant.
 
 That regime is broad. It includes every physical system where the Born rule has been directly tested—photon optics, atomic systems, superconducting qubits, triple-slit interferometry, and, more recently, proposed high-energy-collision tests. It has not been tested inside a living brain during a conscious selection event (see [empirical status research](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/)). The uniqueness result is therefore a *conditional* constraint: if consciousness-physics interaction happens precisely where one of the postulates fails—for instance, where "measurement uniqueness" breaks because a conscious observer is itself the measuring apparatus, or where compositional neutrality fails because the E × P coupling is active—the derivation does not apply there. Mathematics constrains models that satisfy its premises; it cannot legislate which premises physical reality satisfies in regimes where we have not measured. A theory proposing that consciousness reshapes quantum probabilities wholesale *while leaving the postulate structure intact* is ruled out mathematically; a theory proposing a postulate-breaking interaction confined to the brain-internal regime is not, and must be evaluated empirically.
 
@@ -208,3 +210,9 @@ The mathematical structure of the consciousness-physics interface connects direc
 14. Penrose, R. & Hameroff, S. (1996, and subsequent work). Orchestrated Objective Reduction (Orch-OR).
 
 15. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
+
+16. Kent, A. (2025). "The measurement postulates of quantum mechanics are not redundant." *Quantum*, 9, 1749. arXiv:2307.06191 (2023).
+
+17. Stacey, B.C. (2022, rev. 2023). "Masanes-Galley-Müller and the State-Update Postulate." arXiv:2211.03299 (arXiv comment, not peer-reviewed).
+
+18. Masanes, L., Galley, T.D. & Müller, M.P. (2025). "Response to 'The measurement postulates of quantum mechanics are not redundant'." *Quantum*, 9, 1592.
