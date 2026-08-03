@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T09:12:00+00:00'
+ai_modified: '2026-08-03T09:27:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 09:27 UTC - refine-draft (three uncited body authorities get their references; the Noether response is restored to being an *alternative* to no-injection, not extra support for it)
+
+- **Status**: Success
+- **File**: [[apex/dualism-cartography]]
+- **Source**: [[reviews/outer-review-2026-08-02-chatgpt-5-6-pro]]
+- **Published**: yes
+
+**Citation integrity (three items, all verified at source before stamping, none from memory).**
+
+- **Eccles.** The body cited "Eccles' intention-probability coupling" with **zero** reference entries. Added Beck & Eccles (1992), *PNAS* 89(23): 11357–11361 — Crossref-confirmed. Chose the Beck & Eccles paper over Eccles (1994) *How the Self Controls Its Brain* because the probability-biasing mechanism the body names is the 1992 paper's, and because the sibling [[concepts/conservation-laws-and-mental-causation]] already cites it in that form.
+- **Stapp.** Reference 13 carried a bare title and URL — no year, no venue — which left it open to being read as the 2007 *Mindful Universe* book. Confirmed it is the 2005 *Journal of Consciousness Studies* paper: Semantic Scholar returns journal `Journal of Consciousness Studies`, volume 12, year 2005 against DOI `10.1111/j.1467-9744.2005.00762.x`; Crossref resolves the same DOI to the *Zygon* 41(3) reprint, online September 2006. The LBL PDF itself (extracted with `pdftotext`, not retyped) carries title and author but no venue line, so it could not have settled this alone. Both the original and the reprint are now stamped. The `verbatim-quote-cited-to-wrong-work` hazard was the reason for verifying rather than trusting the corpus record.
+- **Rajan.** The body's "theta-band willed-attention signatures" claim appeared twice with **zero** references. Added Rajan et al. (2019), *Cerebral Cortex* 29(7): 2832–2843 — OpenAlex-confirmed against DOI `10.1093/cercor/bhy149`, author order checked (Rajan is lead; Bengson is a middle author, per the corpus's own standing disambiguation note). Attached the citation at the load-bearing use in the frontier section.
+
+**The Rajan caveat, which is the point of the item.** An uncaveated citation would have swapped one defect for another. Verified at the publisher (PMC6611462) that the authors themselves read the signal through the ordinary cognitive-control literature — they call frontal theta an "alarm signal, signaling the need to involve more cognitive control" (citing Cavanagh & Frank 2014) and relate it to conflict processing, risk evaluation and error monitoring. They do argue for specificity to free choice, but the interpretation is not interface-specific. Installed the caveat inline in *Evidence and Dependency*, where the article already does its evidential-status accounting and already carries the parallel caveat on the ~10 bit/s figure. Also repaired a knock-on: the frontier section said "One of those measurements carries a caveat," which under-counted once a second measurement acquired one — now "The first of those."
+
+**Framing correction — the conservation regression.** The article presented selection-without-injection **and** the Noether-symmetry response as one cumulative solution ("both available, both deployed"). They are alternatives with opposite commitments: no-injection claims conservation is *preserved*; Cucu & Pitts argue interactionists may consistently accept *local non-conservation*, because an intervention breaks the symmetry the law is conditional on. Citing the second as extra support for the first reverses its dialectical role — and inverts the actual argument of a paper titled "How Dualists Should (*Not*) Respond to the Objection from Energy Conservation." This was an **apex-only regression**: the sibling [[concepts/conservation-laws-and-mental-causation]] already reads "two independent grounds," and this article's own Q4 paragraph already reads "either… or." Conformed the Map's-region paragraph to the sibling's wording.
+
+**Length — the article is now over the hard threshold, and the operator should decide what to do about it.** 4,974 → 5,099 words against a 5,000 hard threshold (`analyze_length`), i.e. **99 over**. Decomposed, because the raw figure misleads: **argued prose is 4,564 words**, comfortably under; **the entire overage is reference apparatus**, which grew 464 → 542 (+78) because three body authorities that had no reference entries acquired them. Net prose delta is only **+47** (the conservation restatement and the Rajan caveat), part-funded by a **−14** trim of two parenthetical glosses in the opening that restated the H2 headings following them verbatim ("a debt inventory (what each cell of the grid owes mechanistically)" sits directly above "## The Debt Inventory: What Each Cell Owes"). Declined to compress the argued prose, the debt inventory, the dependency table, or the Born-rule indistinguishability item — all recent deliberate work, and a reference list that omits an author the body cites is a citation-integrity defect where being 99 words past a threshold is a formatting concern. Flagged rather than silently absorbed.
+
+**Noted, not acted on:** Tegmark (2000) and Zanotti (2021) are in the reference list but cited nowhere in the body. Removing them would cut 32 words and bring the total to 5,067 — still over, and out of remit for this pass.
+
+- **Attribution**: `ai_system` held at `claude-opus-4-8+claude-opus-5` — (a)–(c) are citation-apparatus corrections and (d) conforms existing prose to a sibling's established wording; no passage was re-authored. `last_deep_review` untouched.
 
 ## 2026-08-03 09:12 UTC - optimistic-review (the physicalist-rivals cluster: five zero-coverage articles, all calibration-clean, none wired to anything)
 
