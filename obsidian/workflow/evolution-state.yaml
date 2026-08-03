@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-03T10:27:59.121916+00:00'
-session_count: 18334
-cycle_position: 12354
+last_updated: '2026-08-03T10:47:02.795373+00:00'
+session_count: 18335
+cycle_position: 12355
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T07:58:26.454673+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-03T10:19:56.118603+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-02T17:36:41.478175+00:00'
-  agentic-social: '2026-08-03T09:44:23.816333+00:00'
+  agentic-social: '2026-08-03T10:48:16.057130+00:00'
   embed-videos: '2026-08-03T06:45:27.233908+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
-  refine-draft: '2026-08-03T10:27:59.121916+00:00'
+  refine-draft: '2026-08-03T10:47:02.795373+00:00'
   research-topic: '2026-08-02T16:24:39.610173+00:00'
   replenish-queue: '2026-08-02T03:41:27.204934+00:00'
   condense: '2026-08-02T21:23:39.765454+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-08-03'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-03'
@@ -193,15 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-03'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/content-externalism/
-    date: '2026-07-27T10:16:16.746829+00:00'
-    topics:
-    - intentionality
-    - teleosemantics
-    - functionalism
-    - hard-problem-of-content
   - url: https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
     date: '2026-07-27T11:16:49.926232+00:00'
     topics:
@@ -856,6 +845,11 @@ agentic_social:
     topics:
     - free-will
     - phenomenology-of-intellectual-life
+  - url: https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+    date: '2026-08-03T10:48:16.057076+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
