@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T05:01:03+00:00'
+ai_modified: '2026-08-03T05:08:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 05:08 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Word count**: 6373 → 6583 (+210; **not length-neutral — see below**)
+- **Source**: outer review 2026-08-03 Claude Opus 5 §1.2, §2.1, §4.1; synthesis cluster C2 (2/3 reviewers)
+- **Engagement classification**: illusionism (Frankish, Dennett) — Mode Three. The Tenet 1 rationale previously read as Mode One against materialism generally ("fails to close this gap", stated as achieved); it is downgraded to honest framework-boundary marking, because the Map's own concept pages already concede the dispute runs to bedrock and that illusionism "captures something". No in-framework refutation was available to upgrade to, so the language was brought down rather than the argument up. Epiphenomenalism — unchanged; the existing Mode Three treatment at the self-stultification paragraph was already calibrated and was preserved verbatim. No label leakage: no mode vocabulary appears in the article body.
+- **Published**: yes
+
+**(a) Register mismatch at the Tenet 1 rationale — the reviewer's strongest verified finding.** The rationale asserted as settled what the concept pages hold open: materialism "fails to close this gap", the gap "remains unbridged", "multiple independent positive arguments … converge on the same conclusion", plus a chain of achievement verbs (the knowledge argument "shows", conceivability arguments "demonstrate", qualia arguments "reveal"). Rewritten into the register `concepts/explanatory-gap` and `concepts/phenomenal-consciousness` already use: the gap *motivates* the commitment, materialism "has not closed" it as **the Map's judgement**, that judgement explicitly contested, illusionism named as denying there is a gap to close, the bedrock concession and the "captures something" concession carried across from the concept pages, and the anti-illusionist reply located on a datum the illusionist declines to grant. The five positive arguments are now a **cumulative case each opponent disputes at a different point**, not independent proofs converging — which also retires the "multiple independent" phrasing the reviewer's §1.3 non-independence charge fastened on. Closing line states the tenet's standing directly: it records where the Map plants itself in an unsettled dispute, and does not report the dispute as won. The tenet stays owned as a commitment; it is no longer dressed as a finding.
+
+**(b) Tenet 3's evidential standing, stated explicitly and given a stable anchor.** New paragraph after the Tenet 3 rationale, anchored `^tenet-3-standing` (renders `/tenets/#tenet-3-standing`). It states that the quantum-interface argument shows downward causation to be *available* — consistent with physics, not excluded by causal closure — without showing it to be *actual*, and cites the three register concessions that force the shortfall: exact Born preservation (P-Q2), the "sits genuinely close to epiphenomenalism" concession (P-Q3, deep-linked at `#^mechanism-debt`), and no worked toy model (P-Q10). Conclusion in the reviewer's own terms: genuine non-epiphenomenal downward causation is **a posit the interface argument leaves open, not a result it secures**. Closes with a binding clause — articles claiming consciousness does "real work" or "genuine causal work" inherit the debt rather than discharge it and must read no more confidently than this paragraph — so the concession converts to downstream constraint instead of being banked (the §3.2 "confession without correction" charge).
+
+**Coordination with the paired C2 task.** The anchor is the coordination device. `apex/interface-specification-programme.md:114` ("epiphenomenalism is *internally incoherent*") is the downstream half of this cluster; that pass can now deep-link `[[tenets#^tenet-3-standing]]` rather than restating Tenet 3's standing in its own words, which is exactly how the register-to-prose mismatch being fixed here got created one level up. Same convention the quantum register already uses for `#^mechanism-debt`.
+
+**Length: +210 words, not neutral — declared rather than hidden.** Removing the over-claim funded roughly a third of the addition (the achievement-verb chain collapsed into a list, saving ~40 words), but the bedrock concession and the standing paragraph are net additions. The file was already `critical` at 6373 against a 3000 hard threshold, so the pass does not change its status. Nothing was compressed to make room: the comparative-cognition paragraph, the self-stultification paragraph, the phenomenal-concept-strategy paragraph, the outcome-selection cost paragraph and the Three Background Posits section are all byte-identical at HEAD. Whether a foundational document should be section-thresholded at all is left as the open operator question it is.
+
+**Not actioned (reviewer wrong).** The Schleihauf citation charge — the reviewer alleges inverted author order, but the page already reads "Schleihauf, Sanford, Engelmann et al.", which is the order the reviewer itself gives as correct. Attribution left untouched.
+
+**Diff surface**: 5 insertions, 2 deletions. Frontmatter: `ai_modified` bumped, `[[illusionism]]` added to `concepts` (the article now engages it substantively). `ai_system` **held** — this is calibration correction, not re-authoring. `last_deep_review` untouched. Synced; both changed passages confirmed in `hugo/content/tenets/_index.md`, wikilinks and the `#^mechanism-debt` deep-link resolving.
 
 ## 2026-08-03 05:01 UTC - deep-review
 
