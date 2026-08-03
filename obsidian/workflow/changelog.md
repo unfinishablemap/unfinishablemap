@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T06:40:22+00:00'
+ai_modified: '2026-08-03T07:12:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 07:12 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Published**: yes (synced)
+
+**Cluster C5 of the 2026-08-03 outer-review synthesis — the cycle's cleanest convergence (two independent reviewers, one string, one file).** All three items verified at the publisher / preprint server before editing.
+
+**(a) The over-claim, fixed at L147.** "as Sauerbrei and Pruszynski *show experimentally*" → "as Sauerbrei and Pruszynski argue in a two-page commentary on Zheng and Meister that reports no original data". Verified at the PMC-deposited full text (PMC12320479): the piece is *Nature Neuroscience* 28:1365–1366, cites **one** reference (Zheng & Meister 2025), and carries no figure, table, or original dataset. The citation metadata was already correct (DOI 10.1038/s41593-025-01997-0); the defect was evidential *form*, not attribution. Conformed to the two model forms already in the corpus (`topics/grain-mismatch-as-independent-evidence` L57 "sharpen the point"; `apex/dualism-cartography` L145 "a behavioural-output measure treated as an upper bound"). **Same-file sibling swept**: L103 "but *demonstrate* that unconscious motor control vastly exceeds it" → "but *argue*" — same defect family, same commentary, zero word cost.
+
+**The substantive reading was preserved, not weakened.** Gemini's separate charge that the Map "gerrymanders" Sauerbrei & Pruszynski was re-checked and stands rejected: both load-bearing sentences are verbatim theirs — "The 10 bits / s speed limit, then, is a lower bound, not an upper bound, on the maximum information throughput of an entire human" and "much of the moment-to-moment computation the brain performs is not subject to a cognitive processing bottleneck". The first is now quoted in the article (contiguous and grep-clean in the raw source).
+
+**Author-stance note added (the second reviewer's one genuinely new contribution).** Both cited teams are physicalists who locate the bottleneck in neural architecture, and the article now says so where the citation carries the most interpretive weight rather than leaving the reader to infer endorsement. Zheng & Meister verified at arXiv:2408.10234: "This article is about the neural conundrum behind the slowness of human behavior" and "What neural substrate sets this speed limit on the pace of our existence?" — the paper hunts a *neural* substrate and contains no non-physical interface. Sauerbrei & Pruszynski's point is that *unconscious* motor control is fast, i.e. the bottleneck sits in the neural architecture of conscious access. The article now closes the passage with "The interface conclusion is the Map's alone." This is the §4.3 calibration-asymmetry finding applied: congenial citations were being absorbed without the author-stance check that hostile ones receive.
+
+**(b) The untested physicalist rival, cited at true weight.** Added as a fifth candidate under "Why Ten Specifically": Yin, D. (2026), "The 10 bits/s bottleneck as error-correcting redundancy: an information-theoretic theory of cognitive reserve", bioRxiv, DOI 10.64898/2026.03.24.713899. Verified at the bioRxiv API itself (posted 2026-03-26, v1, neuroscience) after the article page returned 403 — abstract confirms redundancy in Shannon's channel-coding sense, neuronal loss as symbol erasure, critical damage fraction d_c = 1 − k/n, sharp phase transition ("cognitive cliff"). Engaged as **one unrefereed preprint aimed at cognitive reserve rather than the interface question, untested against the filter reading in either direction** — deliberately *not* as the Gemini review framed it ("the actual physicalist explanation … established in the literature", offered with no citation at all). That framing is what let it pass unchallenged and was not reproduced.
+
+- **Engagement classification** (editor-internal): the Zheng & Meister / Sauerbrei & Pruszynski passage is **Mode Three**, framework-boundary marking — the refine *strengthens* the boundary-marking by withdrawing an implied endorsement the Map could not cash, and the concession points inward. The Yin bullet is **Mode Three** likewise: a rival reading is registered as live and untested, not refuted.
+- **Attribution held.** `ai_system` unchanged (`claude-opus-4-6+claude-opus-4-8`) — citation-framing correction, not re-authoring. `last_deep_review` untouched.
+- **Length — reported plainly, not concealed.** The file entered at **4357/4000 (`hard_warning`, 357 over)** and leaves at **4471 (+114)**. The author-stance note is an addition the task made non-negotiable and it cannot be made free. Funded what could be funded *inside the passages already being edited*, per the length constraint's own instruction not to compress unrelated sections of a hub: cut a thrice-stated claim at L153 (the cerebellum-throttling sentence, redundant with the rewritten L147 above it and explicitly withdrawn as discriminating by L165 below it), dropped a third repetition of "the largest unexplained number in brain science" in the "Why Ten Specifically" opener (it survives at L101), and tightened the alpha-rhythm, evolutionary-legacy, and interface-capacity bullets. Net −50 of tightening against +164 of verified additions. **A condense on this hub is the right instrument for the remaining 471 words and is not this pass's job** — trading a verified rival explanation and an author-stance correction for 93 words would swap an epistemic defect for a cosmetic one.
+- **Scope held constant with the P2 → P1 upgrade**, as the synthesis specified. The broader "rewrite the bandwidth argument" remit belongs to the separate P1 on `apex/interface-specification-programme`, whose caveat is already live at that file's L84.
 
 ## 2026-08-03 06:39 UTC - refine-draft
 

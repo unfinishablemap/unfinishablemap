@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-01 23:33:46+00:00
+ai_modified: 2026-08-03 07:12:05+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:34:15+00:00
-lastmod: 2026-08-01 23:33:46+00:00
+lastmod: 2026-08-03 07:12:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ The ceiling holds regardless of training, talent, or task type. Chunking (Miller
 
 Zheng and Meister call the ratio between sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting number"—"the largest unexplained number in brain science."
 
-Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but demonstrate that unconscious motor control vastly exceeds it. A runner's stride requires coordinating dozens of muscles at 250ms timescales; the cerebellum performs continuous real-time sensorimotor processing far exceeding the conscious ceiling. The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—not in the computational substrate surrounding it.
+Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but argue that unconscious motor control vastly exceeds it. A runner's stride requires coordinating dozens of muscles at 250ms timescales; the cerebellum performs continuous real-time sensorimotor processing far exceeding the conscious ceiling. The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—not in the computational substrate surrounding it.
 
 ## The Inbound Channel
 
@@ -148,13 +148,13 @@ The dualist reading takes the match as a tuned architectural constraint: a self-
 
 If the brain *produces* consciousness, the bandwidth constraint may seem puzzling. A system with 86 billion neurons and petabit-scale internal processing yields conscious access at 10 bits per second—a narrowing factor of 10⁸, arguably far beyond what parallel-to-serial architectures typically impose, though a production theorist could reply that the workspace bottleneck is exactly such an imposition (a reply the [Evolutionary Puzzle](#the-evolutionary-puzzle) engages).
 
-The bottleneck appears precisely where consciousness enters the picture—the brain *can* process at higher rates, as Sauerbrei and Pruszynski show experimentally. The [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) situates this informational asymmetry alongside two independent structural mismatches—spatial and temporal—suggesting that their convergence may constitute structural evidence rather than a conceivability exercise.
+The bottleneck appears precisely where consciousness enters the picture—the brain *can* process at higher rates, as Sauerbrei and Pruszynski argue in a two-page commentary on Zheng and Meister that reports no original data. Locating the constraint at conscious access is their reading rather than a Map gloss; they call the ceiling "a lower bound, not an upper bound, on the maximum information throughput of an entire human". But both teams are physicalists who put that bottleneck in neural architecture—Zheng and Meister open on "the neural conundrum behind the slowness of human behavior" and go looking for the neural substrate that sets it—and neither paper contains a mind-matter interface. The interface conclusion is the Map's alone. The [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) situates this asymmetry alongside spatial and temporal mismatches whose convergence, it argues, is structural evidence rather than a conceivability exercise.
 
 ### Filter Theory's Natural Fit
 
 The [filter model](/concepts/filter-theory/) appears to handle the bandwidth constraint without strain—accommodation, not discrimination, as the [Global Workspace Objection](#the-global-workspace-objection) below makes explicit. If the brain constrains consciousness rather than producing it, the bottleneck may be the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. On this reading the 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
-The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second where consciousness participates. On the filter model, this is what one would expect: the filter constrains consciousness specifically, not neural processing in general. The converse prediction also seems to hold: altered states involving loosened interface constraints might involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with expanded subjective richness (Carhart-Harris et al., 2014)—a pattern filter models seem to anticipate. The honest counterweight is the disruptive case: [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) and slow-wave sleep *reduce* neural entropy as consciousness fades, and there production reads the entropy-consciousness link straightforwardly—more entropy, more experience; less, less. The psychedelic finding cannot be cited as a clean filter-favourable datum while its disruptive mirror reads at least as naturally on production. The correlation is suggestive of the filter picture, not decisive between the models.
+The filter model's converse prediction also seems to hold: altered states involving loosened interface constraints might involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with expanded subjective richness (Carhart-Harris et al., 2014)—a pattern filter models seem to anticipate. The honest counterweight is the disruptive case: [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) and slow-wave sleep *reduce* neural entropy as consciousness fades, and there production reads the entropy-consciousness link straightforwardly—more entropy, more experience; less, less. The psychedelic finding cannot be cited as a clean filter-favourable datum while its disruptive mirror reads at least as naturally on production. The correlation is suggestive of the filter picture, not decisive between the models.
 
 ### The Outbound Side Suggests Selection
 
@@ -202,15 +202,17 @@ The arguments above rest on a specific empirical claim: conscious throughput of 
 
 ## Why Ten Specifically
 
-Zheng and Meister's phrase—"the largest unexplained number in brain science"—names a genuine open problem. Why ten, not a hundred or one? Several candidate explanations exist, none fully satisfactory.
+Why ten, not a hundred or one? Several candidate explanations exist, none fully satisfactory.
 
-**Neural oscillation frequencies.** The alpha rhythm at roughly ten hertz is suggestively close to ten bits per second; if each cycle carries about one bit, the figure follows. Evidence connecting alpha rhythm specifically to conscious decision rate is circumstantial.
+**Neural oscillation frequencies.** The ~10 Hz alpha rhythm is suggestively close to ten bits per second; if each cycle carries about one bit, the figure follows. The evidence tying alpha specifically to conscious decision rate is circumstantial.
 
 **Metabolic cost.** Conscious processing is energetically expensive, and the ceiling could reflect where marginal cost exceeds marginal benefit. This is underdetermined—it predicts *a* ceiling, not the specific value.
 
-**Evolutionary legacy.** Zheng and Meister's speculation about inheritance from chemical-gradient navigation faces the standard objection that evolution routinely scales inherited architectures (see [The Evolutionary Puzzle](#the-evolutionary-puzzle)).
+**Evolutionary legacy.** Zheng and Meister's chemical-gradient-inheritance speculation faces the objection that evolution routinely scales inherited architectures (see [The Evolutionary Puzzle](#the-evolutionary-puzzle)).
 
-**Interface capacity.** The Map's candidate is that the ceiling reflects the bandwidth of the mind-matter interface itself, predicting stability across species, training, and neural reorganisation. As above, this is compatible with the data but not uniquely forced by it.
+**Error-correcting redundancy.** Yin (2026) proposes that the gap *is* redundancy in Shannon's channel-coding sense: neuronal loss maps to symbol erasure, and cognition fails sharply past a critical damage fraction. A single unrefereed preprint, aimed at cognitive reserve rather than the interface question, and untested against the filter reading in either direction—but a redundancy reading of the same datum is on the table.
+
+**Interface capacity.** The Map's candidate: the ceiling reflects the bandwidth of the mind-matter interface itself, predicting stability across species, training, and neural reorganisation—compatible with the data, not uniquely forced by it.
 
 The number ~10 is a central empirical fact in search of a theory.
 
@@ -280,6 +282,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28, 1365–1366.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
+1. Yin, D. (2026). The 10 bits/s bottleneck as error-correcting redundancy: An information-theoretic theory of cognitive reserve. *bioRxiv* preprint (posted 26 March 2026; not peer reviewed). DOI 10.64898/2026.03.24.713899.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 1. Pashler, H. (1994). Dual-task interference in simple tasks: Data and theory. *Psychological Bulletin*, 116(2), 220–244.
