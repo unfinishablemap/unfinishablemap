@@ -2258,6 +2258,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **Standing note:** selector drift in the outer-review lanes is recurrent and has now bitten twice in one night. Whichever option is chosen, prefer multi-signal confirmation (accessibility ref plus visible state) over any single testid, coordinate, or DOM query.
 
+### NEEDS-HUMAN (loop tooling) 2026-08-03: the Gemini commission skill's readiness check would have discarded tonight's successful run — and that makes it three of three commission lanes with a misfiring bail
+
+- **Type**: refine-draft
+- **File**: obsidian/workflow/changelog.md
+- **Status**: needs-human
+- **Source**: driver, 2026-08-03 (observed live during the 04:00 UTC commission, which succeeded by departing from the documented steps)
+- **Code path** (not the `File` above, which is set to a content path so a refine fork cannot mangle a skill definition): `.claude/skills/commission-gemini-review/SKILL.md`
+- **Generated**: 2026-08-03
+- **Notes**: **THE PATTERN IS NOW THE FINDING.** All three commission lanes were exercised tonight and **all three carry documented steps that no longer match the live UI, each with a bail condition that fires when nothing is wrong**: ChatGPT (always-true bail on an "Extended" option that no longer exists on the model in use), Claude (a `querySelectorAll` probe that returns empty while the menu is open), and now Gemini. Each was worked around by a fork improvising; none would have survived literal compliance. **Whatever is decided per-lane, the shared lesson is that these skills verify UI state through single brittle signals — a testid, a coordinate, a DOM query — and every one of those has now broken at least once.** Prefer multi-signal confirmation, and prefer polling a *positive* signal over bailing on a *negative* one.
+
+  **(1) THE READINESS CHECK IS ACTIVELY DANGEROUS — it would have thrown away a good commission.** After the "Start research" click succeeded, the check reported `researchStartedConfirm: false` for **~10 seconds** because Gemini renders the confirmation text late. The doc's rule — bail if false 4 s after the click — would have discarded a **running Deep Research job**, leaving no pending entry while Gemini worked in the background. That is the worst failure shape available: silent, and it wastes the run. **Fix: poll for the `I'll let you know` stem over ~30 s.** Two related traps: `startResearchBtnStillPresent` stays `true` after a successful start (the old plan card keeps its button), so it is **not** a usable negative signal; and a mid-run `bodyTextLen` jump is not a proxy for research starting — the 1740→21622 spike observed tonight was the sidebar expanding.
+
+  **(2) THE TOOLS MENU MOVED AND CHANGED TYPE.** The documented "Tools" button is now a **"+" labelled `Upload & tools`**, and Deep Research inside it is a **plain menu row** — no `role="menuitemcheckbox"`, no `aria-checked` — so the doc's `[role="menuitemcheckbox"]` query returns `[]`. **The post-click `deselect deep research` aria-label check still works and is the reliable verification**; keep that one and drop the role query. (Note this is the *same shape* as the Claude lane's defect, where an accessibility-visible control is invisible to a direct DOM query.)
+
+  **(3) COORDINATE CLICKS ARE OFF BY A 0.665 SCALE FACTOR.** The viewport is 1873×1431 CSS px while screenshots return 1246×952, so a `find`-tool ref click for "Start research" landed on the sidebar. What worked was a DOM-dispatched sequence (`pointerdown`/`mousedown`/`pointerup`/`mouseup`/`click`) with real `clientX`/`clientY`. Also: **enabling Deep Research shifts the composer up ~32 px**, so the first `type` went nowhere — re-verify composer focus via `document.activeElement` before typing, the same hardening the ChatGPT lane needed.
+
+  **DO NOT let a content-refine fork edit the SKILL.md** — that is why `File` points at the changelog. **Companion entries**: the same-day NEEDS-HUMAN items on `commission-chatgpt-review` and `commission-claude-review`. Deciding all three together is probably cheaper than three separate passes, and the Claude entry additionally carries a non-cosmetic question (its lane now runs Opus 5, the same family as the local agent, which weakens the cross-model diversity rationale).
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
