@@ -4,7 +4,7 @@ description: "Emotions provide distinctive evidence for dualism through valence 
 created: 2026-02-15
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-08-03T20:25:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ Emotional consciousness provides what The Unfinishable Map's [[tenets#^dualism|D
 
 ### Bidirectional Interaction
 
-Pain asymbolia is direct evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The phenomenal property of valence influences physical outcomes: with it, avoidance behaviour is robust; without it, avoidance degrades. This is consciousness doing causal work in a way that functional accounts cannot replicate. The Map's framework—consciousness selecting among possibilities—finds empirical support in the observation that felt qualities matter for what organisms actually do.
+Pain asymbolia is evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The phenomenal property of valence influences physical outcomes: with it, avoidance behaviour is robust; without it, avoidance degrades. The dissociation constrains identity readings of valence rather than establishing that consciousness does causal work in a way functional accounts cannot replicate—evidence for the tenet, not a demonstration of it. The Map's framework—consciousness selecting among possibilities—finds empirical support in the observation that felt qualities matter for what organisms actually do.
 
 ### Minimal Quantum Interaction
 

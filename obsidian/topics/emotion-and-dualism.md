@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-01T19:20:41+00:00
+ai_modified: 2026-08-03T20:30:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ embedded_videos:
     source: notebooklm/0080-01-emotion-and-dualism
 ---
 
-Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia is the strongest evidence that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but *causally indispensable*—unifying two conclusions that standard arguments for dualism reach only separately. The Unfinishable Map treats this convergence of irreducibility and causal efficacy as the empirical backbone of its dualist framework.
+Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though all functional machinery remains intact—evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]], not a demonstration of it. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but *causally indispensable*—two conclusions standard arguments for dualism reach only separately, and a convergence the Map treats as the empirical backbone of its dualist framework.
 
 <details class="yt-embed" data-video-id="QTHO8WgPnUc">
 <summary>Video introduction</summary>
@@ -129,11 +129,11 @@ For [[ai-consciousness|AI consciousness]], this matters critically. Functionally
 
 ### Dualism
 
-Emotional consciousness provides paradigm cases of irreducible [[qualia]]. The felt badness of pain cannot be reduced to functional descriptions, neural patterns, or behavioural dispositions. Pain asymbolia is most naturally read, on the Map's view, as the phenomenal property doing real causal work—supporting both irreducibility and causal efficacy. The [[tenets#^dualism|Dualism tenet]] finds its strongest empirical support here: the argument from emotion points beyond an explanatory gap to a causal gap that, on the Map's reading, only an irreducible phenomenal property fills.
+Emotional consciousness provides paradigm cases of irreducible [[qualia]]. The felt badness of pain cannot be reduced to functional descriptions, neural patterns, or behavioural dispositions. Pain asymbolia constrains identity readings of valence rather than establishing that the phenomenal property does real causal work. The [[tenets#^dualism|Dualism tenet]] finds its strongest empirical support in irreducibility; the step from an explanatory gap to a causal gap that an irreducible phenomenal property fills is a reading the Map adopts at [[tenets#^tenet-3-standing|Tenet 3's registered standing]], inheriting that debt rather than discharging it.
 
 ### Bidirectional Interaction
 
-Pain asymbolia is direct evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The phenomenal property of valence influences physical outcomes: with it, avoidance is robust; without it, avoidance degrades. The epiphenomenalist response—that the functional system alone explains behaviour—fails empirically. Asymbolics have the functional system but lack the phenomenal property, and their behaviour differs.
+Asymbolics have the functional system but lack the phenomenal property, and their behaviour differs: with valence, avoidance is robust; without it, it degrades. As above, that constrains identity readings of valence rather than demonstrating causal work, and it pressures the epiphenomenalist response—that the functional system alone explains behaviour—without refuting it.
 
 ### Minimal Quantum Interaction
 
