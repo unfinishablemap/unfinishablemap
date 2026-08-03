@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T15:10:00+00:00'
+ai_modified: '2026-08-03T15:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 15:35 UTC - research-topic (Phenomenal individuality as a further kind of biological individual — PREMISE REFUTED, recommend FOLD not new article)
+
+- **Status**: Success
+- **Topic**: Phenomenal individuality as a further kind of biological individual (harvested subject, from `reviews/optimistic-2026-08-03-subject-census-machinery.md`)
+- **Output**: [[phenomenal-individuality-and-biological-individuality-pluralism-2026-08-03]]
+- **Sources consulted**: 22 cited, each carrying an explicit verification status (2 primary texts read, 9 publisher abstracts / authoritative sections retrieved, 11 metadata-confirmed)
+- **Section pressure at time of run**: `topics/` **319/320 (one slot)**, `concepts/` 318/320, `voids/` 101/100, `positions/` 14/80
+
+**⚠️ THE COMMISSIONING PREMISE IS FALSE.** The task, the optimistic review, and the host article [[consciousness-and-the-major-evolutionary-transitions]] all assert that whether a subject-of-experience is a further, non-coinciding kind of individual is "a question the framework does not ask." **The framework asks it.** Peter Godfrey-Smith's "Individuality, Subjectivity, and Minimal Cognition" (*Biology & Philosophy* 31(6): 775–796, DOI 10.1007/s10539-016-9543-1) is the paper *immediately following* Pradeu's "The many faces of biological individuality" (31(6): 761–773) — same special issue, which Pradeu edits and introduces — and it is devoted entirely to linking kinds of biological individuality to the evolution of subjective experience. The SEP entry *The Biological Notion of Individual* cites it for exactly that at §6.3. The host article already cites the Pradeu paper two lines above the false sentence.
+
+**The gap survives in a sharper, defensible form.** Godfrey-Smith poses the Map's question precisely — subjects as "a certain kind of unit, a certain kind of constituent of the world" — and forecloses the dualist answer *by stipulation* in the same paragraph: "Setting aside dualist and panpsychist views, it seems that the special features of subjects are organizational." The organizational answer is reached after the alternative is set aside in a subordinate clause. That is the Map's own phenomenal-blindness thesis operating one level below where the article currently states it, and it is a better thesis than "nobody asked" because it is verifiable rather than refutable.
+
+**Highest-value finding: the Map's census problem already has an external name it does not use — the *boundary problem*.** Gómez-Emilsson & Percy 2023 (*Front. Hum. Neurosci.* 17: 1233119) report it "has received very little scholarly attention" and decompose it into five sub-problems; Fekete, van Leeuwen & Edelman 2016 (*Front. Psychol.* 7: 1041) show that any quantitative measure of consciousness proliferates minds across subsystems and aggregates unless constrained. This bears directly on P-SC2: IIT is the one live physicalist theory that *does* discharge the pairing debt (via exclusion), and it pays in a currency that generates proliferation — a symmetric cost statement Tenet 5 licenses. Also newly surfaced: **Meincke & Dupré (eds.), *Biological Identity*, Routledge 2020** (DOI 10.4324/9781351066389), the bridging volume between biological individuality and personal identity — Olson ch.4, Kingma on pregnancy ch.11, Snowdon on persons/animals ch.13. The Map's individuation cluster cites none of it.
+
+**RECOMMENDATION: do not spend the last `topics/` slot.** Re-measured by direct file count against `evolution-state.yaml:section_caps` — `topics/` is **319/320**, one slot, tighter than both CLAUDE.md's stale table (~273) and the task note's 318. The note's top output is a *correction to an existing sentence*, which is `refine-draft` work needing no new page; the individuation cluster already carries five nodes; the host article is 2335w with headroom. Proposed follow-ons, in the note: **P1 refine-draft** on the host article (correctness fix — the current sentence is refutable from a source it already cites), **P2 positions-evolve** on `positions/subject-census` to book the boundary-problem name into P-SC2, **P2 refine-draft** on `topics/consciousness-and-the-metaphysics-of-individuation` to add the Meincke & Dupré bridge, and a **P3** logging Kingma's pregnancy case as a distinct, genuinely uncovered census test.
+
+**Method note.** WebSearch budget was exhausted (200/200) before this task started. All verification ran through targeted retrieval against Crossref, OpenAlex, Semantic Scholar, Springer `dc.description`, Frontiers, SEP, and two author-hosted primary PDFs. Self-flagged gaps are recorded in the note rather than laundered — notably that "Rosengard in 1998" is quoted as printed and **unverified**, and that the absence claim is scoped to five named surveys rather than the field.
 
 ## 2026-08-03 15:10 UTC - coalesce (ABANDON — the pool was harvested five hours ago and the remainder is differentiated by argumentative role)
 
