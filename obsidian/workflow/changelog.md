@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T15:43:26+00:00'
+ai_modified: '2026-08-03T16:06:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 16:06 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]]
+- **Also fixed**: [[research/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question-2026-07-08]] (upstream origin of the defect)
+- **Word count**: 1833 → 1857 (+24; topics soft threshold 3000 — no length pressure)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (source-fidelity repair only; no argumentative move altered)
+- **Output**: [[reviews/deep-review-2026-08-03-the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]]
+
+**Why a third pass on a twice-reviewed article was not a no-op.** The only change since the 2026-07-19 review was cosmetic (commit `3b97015f1` extended one Further-Reading link alias), so the §2.4 trigger rule would have allowed a skip. But both prior ledgers checked citation *metadata* only — author, year, venue, volume, pages, DOI, ISBN — and both returned "real-correct" on all four cites. Neither checked **verbatim quoted spans**. The 07-19 entry for Gershon reads "the inline quote is consistent with Gershon's known autonomy thesis," a plausibility judgement rather than a verbatim check. Running that one unchecked lens found a defect in *both* of the article's two external quoted spans.
+
+**Critical 1 — Gershon 1998 misquote, quote absent from the cited work.** The article rendered `"Within the gut," he writes, "lies a complex web of microcircuitry driven by more neurotransmitters and neuromodulators than can be found anywhere else in the peripheral nervous system"`. Full-text search recovers the sentence only in third-party books quoting it, with the attested subject phrase "**the yards of tubing that make up the large and small intestine**" — the article had silently swapped that for "the gut" *inside the quotation marks*, altering the anatomical scope. Four independent phrase probes returned **zero** hits in *The Second Brain* itself; the control probe "the brain in the bowel" returns both editions ranked first and second, so the book is indexed and the negative is genuine, not an unindexed-source artifact. Four probes across different fragments also rule out the OCR line-break trap behind the earlier Tallis false-fabrication call. De-quoted to an attributed paraphrase; Gershon 1998 retained as the cite for the autonomy thesis, which genuinely is the book's argument.
+
+**Critical 2 — Cryan & Dinan 2012 quoted span not in the source.** `"influence brain and behaviour"` appears nowhere in the paper (title: "on brain and behaviour"; abstract: "influences brain **function** and behaviour"). Replaced with a genuinely verbatim abstract span. Same sentence also attributed "**microbiome**-gut-brain axis" to a paper whose own term is "**microbiota**-gut-brain axis" (corrected), overstated "established ... as a research programme" against the abstract's "emerging concept" (softened to "turned the then-emerging ... into"), and interpolated "(including vagal)" where the abstract says "neural" (removed — the next sentence already covers vagal traffic).
+
+**Critical 3 — Chis-Ciure & Levin 2025 wrong issue number.** References read `*Synthese*, 206(257)`, conflating article number with issue; Crossref gives volume 206, issue 5, article 257. Corrected. The 07-19 review had reproduced the malformed `206(257)` in its own ledger while marking the cite verified — a metadata ledger can inherit the article's formatting instead of independently re-deriving it.
+
+**Upstream propagation.** The misquote **originated in the research note**, whose Gershon "Verify status" reads VERIFIED on title/subtitle/publisher/ISBN/date checks that never touched the quote. Note corrected at both loci and given a dated QUOTE RETRACTION block recording the four negative probes, so the sentence cannot be re-harvested. Three further attributive uses of "microbiome-gut-brain axis" in the note corrected. Defective strings swept across `obsidian/`, `archive/`, and `hugo/`; no other file carried them. Synced, so the published pages no longer serve the misquote.
+
+**Method note.** WebSearch budget was exhausted session-wide; the entire verification pass ran through WebFetch against Crossref, Europe PMC, Open Library / archive.org full-text search, and the Open Library ISBN API.
+
+**Argument lens**: re-confirmed unchanged, not re-litigated. Reading (b) still held at "raised-but-least-supported"; Tenet 2 minimality still cuts against proliferating selection sites; no possibility/probability slippage. No named-opponent reply, so §2.6 does not apply. All 11 wikilink targets and all 3 tenet anchors resolve.
+
+**Carry-forward**: convergence damping measures *review count*, not *lens coverage*. Two consecutive passes returned "no critical issues" on a file holding a misquote, a non-existent quoted span, and a malformed issue number. An article is converged only with respect to the lenses actually run on it.
 
 ## 2026-08-03 15:43 UTC - refine-draft (archive tree: uncited ape 2±1 working-memory figure, 7 files)
 
