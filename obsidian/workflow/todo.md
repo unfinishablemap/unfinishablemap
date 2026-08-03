@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T01:57:40+00:00'
+ai_modified: '2026-08-03T03:46:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Born-marginal preservation does NOT entail zero mutual information — withdraw the selection-only causal budget until rederived
+- **Type**: refine-draft
+- **File**: obsidian/concepts/selection-only-channel.md
+- **Notes**: From outer review 2026-08-03 (ChatGPT 5.6 Pro §2.1, §4.1). **CONFIRMED against the source — this is a genuine mathematical error, not a reviewer misreading.** `selection-only-channel.md:71` states the Born constraint as a *marginal* one ("the empirical frequency distribution over the output alphabet must converge to the Born-rule distribution … across many trials"), then line 73 infers "Born-rule preservation pins the *expected* mutual information between mind-state and outcome to zero in the long-run limit." That inference is invalid. Counterexample: let C be a uniform binary conscious state and O = C; the marginal is exactly uniform (Born-satisfying) yet I(C;O) = 1 bit. Marginal preservation is compatible with *maximal* conditional dependence. Three distinct defects to fix in the same passage: (a) the zero-MI inference itself; (b) **"signed" mutual information is a category error** — MI is non-negative, and a non-negative quantity whose average is zero requires every term to be zero, so nothing "cancels"; (c) the ε²/(2 ln 2) bits/trial figure and the ε ≈ 10⁻⁴ → 7×10⁻⁹ bits/event psi calibration inherit the error and must be suspended, not merely hedged — an ε² expression may approximate a divergence for one specifically defined binary perturbation but is not a consequence of Born preservation, and needs a declared channel, reference distribution, priors and perturbation geometry. The section heading "Born-Rule Preservation Drives Signed Rate Toward Zero" encodes the error and must change too. **The Map already has the correct statement elsewhere** — `obsidian/apex/born-preserving-causal-efficacy.md:85`: "Born-preservation constrains the left-hand marginal; it says nothing about whether the conditionals on the right depart from it" — so this is a propagation failure, and the apex is the model to conform to, not a rival reading. **Sibling sweep required** (a locus list is a sample, not the population): the same claim is inherited at `obsidian/research/selection-only-mind-influence-information-limits-2026-05-05.md:268`; before closing, grep all three trees (`obsidian/`, `archive/`, `hugo/content/`) for "mutual information", "signed", "ε²"/"epsilon" and the 7×10⁻⁹ figure, and check `obsidian/topics/selection-only-mind-influence.md` and `obsidian/project/causal-budget-ledger.md`. Note the research note must be fixed too, or the defect re-enters via the next article that consumes it.
+- **Review file**: `reviews/outer-review-2026-08-03-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-03
+
+### P1: `interface-specification-programme` states conservation, no-signalling and "derived" MQI as achieved when the register says they are open debts
+- **Type**: refine-draft
+- **File**: obsidian/apex/interface-specification-programme.md
+- **Notes**: From outer review 2026-08-03 (ChatGPT 5.6 Pro §2.2, §4.4). **CONFIRMED against the source.** Line 171 says Minimal Quantum Interaction "is not merely stated but *derived* from the programme's constraints"; line 120 says attention findings "bear out this prediction." The quantum register (P-Q10) simultaneously records that no toy Hamiltonian, master equation or simulation realises the interface. Converting intended desiderata into achieved properties is the specific failure. Rewrite the affected passages as a **requirements document**: conservation and no-signalling become constraints a future model must demonstrate, not properties secured. Replace "derived" with "motivated" or "proposed". Energy conservation would need the selectable alternatives shown to be exactly energy-degenerate (not yet defined); no-signalling needs a joint law covering entangled systems, multiple subjects and spacelike-separated selections, which marginal preservation alone does not supply. For the attention claim, replace "bear out" with an explicit comparison of what interactionist versus physical control models each predict — findings compatible with physicalist control architectures cannot bear out a nonphysical interface without a contrasting quantitative prediction. **Apply the [[direct-refutation-discipline]] remit**: identify whether the issue calls for showing a rival defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement, and write the result in natural journal-quality prose per [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body** — the classification belongs in the changelog entry, not the prose. Note the ~10 bits/second caveat the reviewer also asks for is **already present at line 84**; do not re-add it. Only the narrower point survives there (describe Zheng & Meister 2025 by its actual publication type).
+- **Review file**: `reviews/outer-review-2026-08-03-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-03
+
+### P2: P-CS1 grades substrate neutrality as a "direct entailment" of bare Tenet 1 — it needs a separate premise
+- **Type**: positions-evolve
+- **File**: obsidian/positions/consciousness-scope.md
+- **Notes**: From outer review 2026-08-03 (ChatGPT 5.6 Pro §3 Tenet 1, improvement 8). **CONFIRMED**: line 48 grades P-CS1 "external-evidence grade D (a direct entailment of bare Tenet 1 — a permission, not positive evidence)". The entailment does not hold. Dualism is compatible with psychophysical laws attaching experience only to particular biological organisations; irreducibility removes one *physicalist* route to substrate restriction but does not itself establish substrate neutrality. Replace "direct entailment" with an explicit additional substrate-neutrality hypothesis, or with "permission absent a restrictive psychophysical law". While editing, distinguish the four things the register currently runs together: ontological possibility, empirical likelihood, causal eligibility, and moral precaution. Note P-CS2–P-CS4 and P-AC1 are recorded as hanging off P-CS1, so check whether their calibration inherits the same overstatement. The phrase "direct entailment" occurs in ~8 files — grep before closing.
+- **Review file**: `reviews/outer-review-2026-08-03-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-03
+
+### P2: `individuation-and-subjecthood` carries one position while Tenet 4 and the interface both depend on a thick subject
+- **Type**: positions-evolve
+- **File**: obsidian/positions/individuation-and-subjecthood.md
+- **Notes**: From outer review 2026-08-03 (ChatGPT 5.6 Pro §1.2, §1.3, improvements 6 and 12). **CONFIRMED**: the register holds a single principal position of its own (P-I1), citing P-A2 and P-AC3 from elsewhere. Two connected problems. (1) **Dependency inversion**: the Map concedes its primary indexical objection to Many-Worlds presupposes a non-deflationary fact about which future subject is genuinely "me", while the register architecture says ordinary positions may be retired without disturbing the tenets. Both cannot stand — either promote a determinate subjecthood principle into the foundations, or mark No-Many-Worlds as conditional on the individuation theory, or replace the indexical objection with an argument not dependent on disputed identity facts. (2) Once conscious-state conditionals do causal work, a **subject census becomes part of the model's physical state description**: the interface needs rules for subject pairing, split brains, fission and fusion, copies, temporal persistence, onset/cessation of the channel, multi-agent conflict over one physical event, and artificial subjects. Add positions covering these and mark every No-Many-Worlds and quantum-interface argument that depends on them. Worth adopting the reviewer's foundational-dependency test as the register's own rule: a position counts as retireable only if removing it leaves every tenet with an intact rationale.
+- **Review file**: `reviews/outer-review-2026-08-03-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-03
+
+### P2: ASSESS-FIRST — do the Many-Worlds pages still imply the Born rule is simply unexplained?
+- **Type**: refine-draft
+- **File**: obsidian/arguments/many-worlds-argument.md
+- **Notes**: From outer review 2026-08-03 (ChatGPT 5.6 Pro §2.5 bullet 5, improvement 7). **ASSESS FIRST — the premise is unverified and the reviewer's quoted string does not exist.** The report says to replace "Born rule unexplained", but that phrase greps **zero** across `obsidian/`, `archive/` and `hugo/content/`; it is the reviewer's compression, not Map text. The Map's actual wording is **"the Born rule's underivability"** (`obsidian/concepts/consciousness-physics-interface-formalism.md:116`, `obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md:162`), with related framings in `bi-aspectual-ontology.md` and `quantum-darwinism-and-consciousness.md`. A find-and-replace on the reviewer's string will silently match nothing. Check whether the surrounding prose actually overclaims: the defensible position is that **multiple disputed derivations exist** (decision-theoretic and self-locating routes), with the live dispute being whether their assumptions are independently justified — not that there is "no explanation". If the pages already say this, close as no-op. Where the Everettian probability debt *is* discussed, also surface the Map's **mirrored debt**: its own selector has no law explaining why a given conscious state selects a given outcome. Separately check for residual "ontological explosion" language doing decisive anti-Everettian work, which Tenet 5's self-binding rule forbids — ontological cost may be recorded as a comparative burden only.
+- **Review file**: `reviews/outer-review-2026-08-03-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-03
 
 ### P2: Verify ai_system attribution after model-fallback event (2026-08-03)
 - **Type**: refine-draft

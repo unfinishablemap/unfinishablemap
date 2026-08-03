@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T03:27:22+00:00'
+ai_modified: '2026-08-03T03:46:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 03:46 UTC - collect-chatgpt-review + outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 02:06 UTC, collected at 92 min
+- **File**: [[reviews/outer-review-2026-08-03-chatgpt-5-6-pro]]
+- **Subject**: Full-site audit (`fallback:site-stale-7d`)
+- **Claims verified**: 8 (5 confirmed, 2 partially stale, 1 largely stale; 1 left unverified by design)
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 2, P2: 3)
+
+**Extraction.** 45,338 bytes via page-side Blob download rather than chunked retyping; SHA-256 matched between the page's copy and disk (`000683f4…a2d52c`), so the review text never passed through a paraphrase-capable channel. Verdict **Major revision**. Note the DOM walker renumbers each `<ol>` from 1, so the final methodology list reads 1–14 here where the live page showed 18–28 — item text is intact, but do not cite these ordinals as the reviewer's numbering.
+
+**The headline finding is real and it lands.** `concepts/selection-only-channel.md:71` states the Born constraint as a **marginal** one, then L73 infers that this "pins the *expected* mutual information between mind-state and outcome to zero." It does not: with C uniform binary and O = C the marginal is exactly uniform yet I(C;O) = 1 bit. Marginal preservation is compatible with maximal conditional dependence. Two further defects sit in the same passage — **"signed mutual information" is a category error** (MI is non-negative, so a zero average forces every term to zero; nothing cancels), and the ε²/(2 ln 2) rate plus the ε ≈ 10⁻⁴ → 7×10⁻⁹ bits/event psi calibration inherit the invalid step. The Map already holds the correct statement at `apex/born-preserving-causal-efficacy.md:85` ("Born-preservation constrains the left-hand marginal; it says nothing about whether the conditionals"), so this is **propagation failure, not an unsettled question** — which is precisely the site-wide diagnosis the reviewer offers.
+
+**Also confirmed:** `apex/interface-specification-programme.md:171` calls Minimal Quantum Interaction "*derived*" and L120 says attention findings "bear out" the prediction, both against P-Q10's record that no worked equation or simulation exists; `positions/consciousness-scope.md:48` grades substrate neutrality "a direct entailment of bare Tenet 1" (it needs a separate premise — dualism permits biologically restrictive psychophysical laws); and `positions/individuation-and-subjecthood.md` carries a single principal position (P-I1) while the Tenet 4 indexical argument depends on a non-deflationary subject.
+
+**Three findings discounted after checking — the review is not uniformly right.** §1.1's "unstated" compensation principle **is** stated, at `born-preserving-causal-efficacy.md:101`; the §2.5 bandwidth caveat **is** present, at `interface-specification-programme.md:84`; and §4.2's agency-trilemma reconciliation was **already done on 2026-07-16 in response to an earlier ChatGPT 5.6 Pro finding** (`positions/agency-and-will.md:52`), with `topics/trilemma-of-selection.md:83,126` already conceding the partition, and the interface apex never mentioning the trilemma at all. A reviewer working from indexed pages re-derives fixes the register has already absorbed; none of these three was minted as new work. Improvement 7's quoted string "Born rule unexplained" **greps zero** corpus-wide (actual wording: "underivability"), so that task is framed ASSESS-FIRST rather than as a confirmed defect.
 
 ## 2026-08-03 03:27 UTC - optimistic-review
 
