@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-03T20:55:05.158772+00:00'
-session_count: 18389
+last_updated: '2026-08-03T21:06:07.803343+00:00'
+session_count: 18390
 cycle_position: 12388
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
   refine-draft: '2026-08-03T20:55:05.158772+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
-  replenish-queue: '2026-08-03T16:38:34.914432+00:00'
+  replenish-queue: '2026-08-03T21:06:07.803343+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-03T08:07:49.872219+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-03'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-03'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-03'
   outcome: success
 agentic_social:
@@ -1105,7 +1105,7 @@ queue_status:
     \ STILL OPEN at line 2213.\n\nALL EIGHT SOURCES RE-MEASURED LIVE THIS RUN.\n(1\
     \ chain / 2 unconsumed-research) CAP-BLOCKED, but THE SLOT COUNT MOVED and the\n\
     stale figure should not be inherited. Live counts excluding section index files\n\
-    and refinement-log sidecars: topics 317/320, concepts 317/320, voids 100/100,\n\
+    and refinement-log sidecars: topics 317 REAL / 318 BY THE GATE / 320 cap, concepts 317/320 [DRIVER CORRECTION 2026-08-03T20:5xZ: this run's claim that 'a coalesce freed a topic slot' is FALSE - git shows no topics article deleted today and this session's coalesce ABANDONED with no content moved. 317 vs the 318 recorded at run 927 is a MEASUREMENT-BASIS difference, not a content change: 317 excludes the non-temporal-consciousness.refinement-log.md sidecar, 318 is what tools.evolution.state.count_section_files returns and is what actually GATES creation. So the headroom is TWO slots by the enforcing counter, not six; do not license an extra expand-topic on the 317 figure. See the open count_section_files NEEDS-HUMAN entry], voids 100/100,\n\
     positions 14/80, apex 39. Run 927 measured topics 318 / concepts 317; a coalesce\n\
     or archive has since freed one topic slot, so SIX slots remain, not five.\nSpending\
     \ one on an automatic floor-restore is still an operator-shaped curation\ndecision,\
