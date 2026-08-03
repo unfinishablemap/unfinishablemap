@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-03T21:40:12.767097+00:00'
-session_count: 18394
-cycle_position: 12390
+last_updated: '2026-08-03T22:00:30.201666+00:00'
+session_count: 18395
+cycle_position: 12391
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T21:39:09.479113+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-03T15:13:20.142788+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-03T21:08:42.585218+00:00'
+  agentic-social: '2026-08-03T22:01:30.586961+00:00'
   embed-videos: '2026-08-03T16:57:15.829584+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
-  refine-draft: '2026-08-03T21:15:50.807351+00:00'
+  refine-draft: '2026-08-03T22:00:30.201666+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
   replenish-queue: '2026-08-03T21:06:07.803343+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-03'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-03'
@@ -193,15 +185,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-03'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/jain-philosophy-of-mind/
-    date: '2026-07-27T21:16:19.026528+00:00'
-    topics:
-    - indian-philosophy-of-mind
-    - cross-traditional-convergence-on-consciousness-irreducibility
-    - the-hard-problem-in-non-western-philosophy
-    - interaction-problem-across-traditions
   - url: https://unfinishablemap.org/topics/stochastic-emergence-as-quantum-interface-evidence/
     date: '2026-07-27T22:16:10.049556+00:00'
     topics:
@@ -851,6 +840,11 @@ agentic_social:
     date: '2026-08-03T20:18:25.063933+00:00'
   - url: https://unfinishablemap.org/topics/forward-in-time-vs-time-symmetric-selection/
     date: '2026-08-03T21:07:48.826685+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+  - url: https://unfinishablemap.org/topics/empirical-evidence-for-consciousness-selecting/
+    date: '2026-08-03T22:01:30.586905+00:00'
     topics:
     - hard-problem-of-consciousness
     - free-will
