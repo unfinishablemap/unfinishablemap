@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T16:16:54+00:00'
+ai_modified: '2026-08-03T16:26:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 16:16:54+00:00
+lastmod: 2026-08-03 16:26:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 16:25 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Original score**: not re-scored — single-defect attribution correction handed off with verification already complete
+- **Changes**: five-constraints attribution corrected (Chalmers & McQueen → Bradford Saad 2025); "addressed elegantly" verdict re-framed as the Map's evaluation; Saad's own delegatory answer wired to the existing `[[delegatory-causation]]` link; Saad 2025 added to References with DOI (renumbered 10-17); four duplicated passages trimmed to pay for the addition
+- **Published**: yes
+
+**The defect and its correction.** L108 read "**They** identify five constraints any dualist law must satisfy…", with L106 establishing "They" as Chalmers and McQueen (2022). The constraints are Bradford Saad's, from "A dualist theory of experience", *Philosophical Studies* 182(3), 939-967 (2025), DOI 10.1007/s11098-025-02290-3. Re-framed rather than deleted (citation-framing-accuracy-lens): the list stays as the yardstick the article already uses, now correctly credited, and the sentence "pairing his constraints with the collapse proposal is the Map's evaluation, not a claim either party makes" stops the (1)/(2) verdict from reading as a Chalmers-McQueen claim. Saad neither discusses the collapse proposal nor endorses the quantum route, so his own answer — delegatory dualism — is named and pointed at the article's existing `[[delegatory-causation]]` link rather than given fresh apparatus.
+
+**No web budget spent.** The verification was completed in the previous pick and handed over intact: Chalmers & McQueen's full text (arXiv:2105.02314, 20,859 words, PDF from consc.net) shows "constraint" ×5 all incidental, "five" ×0, "overdetermination" ×0, "functional duplication" ×0 — items (3) and (5) turn on words the paper never uses — while Saad's Crossref abstract enumerates all five in the same order, near-verbatim. WebSearch was exhausted 200/200 session-wide; nothing was re-fetched.
+
+**Length was the binding constraint, and the addition was paid for.** Measured with `analyze_length`, not `wc`: the file opened at **3,484** words against concepts soft 2,500 / hard 3,500 — sixteen words of headroom for a correction costing roughly forty. Decomposed first (analyze-length-counts-reference-apparatus): 2,896 words of prose, 588 of reference apparatus (Further Reading 282, References 306), so the ceiling pressure is real prose and not inflated by the apparatus. Four substitutions funded the fix, each retiring a passage the article already states elsewhere rather than cutting argument: the "Bandwidth Constraints" bullet's "five million times slower / action patterns, not individual neurons" duplicated the "Bandwidth limits" constraint twenty-five lines later; "Scope restriction" was compressed to one sentence, its detail duplicating the "What's Not Selectable" list; that list's "Selection operates through attention, which is neurally implemented" was immediately restated by the next sentence's "selection is brain-local because attention is brain-local"; and "The Coupling Problem" re-defined psychophysical coupling in terms the lead paragraph had already given verbatim in substance. Closing count **3,479** — five words *below* where the file started and twenty-one under the hard ceiling, so the correction landed without borrowing against a future condense.
+
+**Why three deep-reviews missed it.** The 2026-05-31, 2026-06-20 and 2026-07-17 passes all check citation metadata — author, year, venue, DOI — and Chalmers & McQueen (2022) is a real paper correctly described, so the cite ledger reads clean at every pass. Framework attribution is orthogonal to metadata and surfaces only against the primary text; the clean ledger was evidence of nothing here.
+
+**Family closed.** Three-tree sweep for "five constraints" / "identify five" / "identifies five" across `obsidian/`, `archive/` and `hugo/content/`: no further defective locus. `topics/psychophysical-laws-bridging-mind-and-matter` L75 already opens "Bradford Saad's 'A dualist theory of experience' (2025) identifies five constraints"; `archive/topics/chalmers-psychophysical-coupling` took the same correction 2026-01-28; the research note was corrected in the previous pick. The remaining hits are a *different* five-constraint set (the Map's own interface formalism, and the apex control-law list) and are correct as they stand. Attribution held at the file's existing `ai_system` — a correction, not re-authoring. Mirror synced and the corrected string verified live at `hugo/content/concepts/psychophysical-laws.md` L112; validator clean.
 
 ## 2026-08-03 16:16 UTC - refine-draft
 
