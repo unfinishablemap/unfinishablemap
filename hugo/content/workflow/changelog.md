@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-02T23:41:19+00:00'
+ai_modified: '2026-08-02T23:59:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-02'
-lastmod: 2026-08-02 23:41:19+00:00
+date: '2026-08-03'
+lastmod: 2026-08-03 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-02 23:58 UTC - deep-review
+- **Status**: Success
+- **File**: [vitalism](/concepts/vitalism/)
+- **Word count**: 2213 → 2426 (+213; concepts soft 2500 / hard 3500 — now 97% of soft, no headroom left)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-08-02-vitalism](/reviews/deep-review-2026-08-02-vitalism/)
+- **Selection note**: the only delta since the 2026-07-13 review was a frontmatter `topics:` fill (commit `afaef915c`) — a cosmetic bump that re-qualified a converged article. Ran the full lens anyway rather than declaring a no-op, because the prior pass used the **cross-review** lens on a fresh create. That was the right call: the deep-review lens found two criticals the cross-review lens had not, one of which the cross-review lens had itself introduced.
+- **C1 — the previous review inverted a correct citation; this pass reverted it.** On 2026-07-13 the "imaginary vitalist" quotation was re-pointed away from *Consciousness Explained* (1991, pp. 281–2) onto *Facing Backwards* (1996), reasoning from the anachronistic-vocabulary tell (the passage uses Chalmers' 1994–95 "easy problems / imagined hard problem" coinage, so it cannot be verbatim 1991 text). The primary artifact settles it the other way: the scanned JCS 3(1) paper (`dl.tufts.edu/downloads/47429n33b`) ends that paragraph with **Dennett's own citation, "(Dennett, 1991, p. 281-2.)"**, and its References list carries *Consciousness Explained*. Dennett is self-quoting; the deleted attribution was his. The anachronistic-vocab tell generated a **false positive** and was allowed to override what the source says on its face. Fix is robust either way the 1991-wording question falls: quotation attributed to the 1996 reply where it is printed, self-citation to CE pp. 281–2 recorded as such, the unsupported "Chalmers' vocabulary turned back on him" claim removed, CE restored to References.
+- **C2 — Dennett was mis-described as a track-record inductivist.** The article listed him as "the most explicit proponent" of its P1–C induction schema. He does not argue that way. The primary text continues past the "dreary question" with a concession the article had dropped: *"Chalmers says that this would be a conceptual mistake on the part of the vitalist, and I agree, but he needs to defend his claim that his counterpart is not a conceptual mistake as well."* Dennett **grants** the vitalist is confused and presses a *parity of reasoning* demand. Corroborated independently by Garrett's published abstract ("Dennett has claimed that if Chalmers' argument … were to succeed, an analogous argument would establish the truth of Vitalism"). This broke the article's own stated commitment to steelmanning, and mattered dialectically — against a bare induction the disanalogy reads as rebuttal-by-observation, whereas against Dennett's actual demand the disanalogy **is** the defence he asks for. Fixed in the Dennett bullet, the schema's framing ("most often put as"), and a closing sentence in the disanalogy section that names the demand it answers.
+- **Medium**: Garrett's thesis re-framed to his abstract (he concludes the analogy "does have merit" and that scepticism is called for — not that the hard problem will be "dissolved rather than solved"); the "Myth #7" in-text gesture resolved to a real citation (Ramberg 2015, Harvard UP, 59–66) closing an inline↔References orphan; the Churchland 1981 cite scoped to the eliminativist thesis it demonstrably states, since its full text is paywalled and three access routes failed.
+- **Citation ledger**: 12 cites web-verified at publisher/index of record. WebSearch budget was exhausted mid-pass, so verification ran via Crossref, OpenAlex, publisher HTML and direct PDF retrieval — 1 real-wrong-metadata (Dennett attribution), 1 added (Ramberg), 1 restored (Dennett 1991), 9 real-correct. All five quoted spans re-verified **verbatim** against primary text, including Driesch's "acts into space", confirmed in the 1908 Gifford Lectures themselves ("it does not act in space, it acts into space") — that one needed whitespace normalisation first, since the OCR is double-spaced and a naive grep returns zero. No superlative claims, so no currency sweep.
+- **Engagement modes** (editor-internal; prose scanned clean of label leakage): Dennett — **Mode One**, upgraded from the prior pass's Mode Three now that his argument is stated correctly, since the type-specificity contrast answers him inside the structure he sets up rather than declaring tenet-incompatibility; Churchland — Mode Three, unchanged; Garrett — Mode Three, unchanged.
+- **Length discipline**: additions tightened twice (one duplicated the article's existing 1820-vitalist point). Landed at 2426/2500 — flagged in the review archive as a hub with no remaining headroom.
+- **Published**: yes (synced; both obsidian and hugo trees verified clean of the old text)
 
 ## 2026-08-02 23:41 UTC - refine-draft
 - **Status**: Success
