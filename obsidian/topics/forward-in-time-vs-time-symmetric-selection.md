@@ -4,7 +4,7 @@ description: "A side-by-side cost accounting of the Map's two route-families for
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-08-02T20:05:00+00:00
+ai_modified: 2026-08-03T03:59:02+00:00
 last_deep_review: 2026-07-17T07:58:54+00:00
 draft: false
 topics:
@@ -14,6 +14,7 @@ concepts:
   - "[[time-symmetric-physics]]"
   - "[[post-decoherence-selection]]"
   - "[[retrocausality]]"
+  - "[[transactional-interpretation-of-quantum-mechanics]]"
   - "[[decoherence]]"
   - "[[measurement-problem]]"
   - "[[stapp-quantum-mind]]"
@@ -33,7 +34,7 @@ related_articles:
   - "[[selection-criterion-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-27
 last_curated: null
 ---
@@ -56,6 +57,8 @@ The axis is clean, but the two routes share more than the headline suggests. Bot
 **Forward-in-time** needs *no retrocausal commitment*. It works within ordinary forward causation and is therefore compatible with presentism, with a growing-block ontology, and with the everyday sense that causes precede effects. This is where it pays least. What it inherits in exchange is the *standard collapse-mechanism problem*: it must say what converts the improper mixture into a definite outcome, and it cannot offload that question onto any feature of the formalism. Physics produces the mixture; on the forward reading, consciousness produces the outcome—and the gap between the two is occupied by a dualist commitment the physics does not compel.
 
 **Time-symmetric** needs the *transactional interpretation* (Cramer 1986; Kastner 2012) or an equivalent time-symmetric framework such as the two-state vector formalism. This is a heavier metaphysical commitment: the transactional interpretation holds a minority position in quantum foundations—interpretation surveys consistently place it well behind the orthodox, many-worlds, and Bohmian readings—and taking its retrocausal implications as physically real (rather than as an interpretive option) is a further step. In exchange, the time-symmetric route *absorbs the Libet timing problem* rather than answering it. [[libet-experiments|Libet's readiness potentials]] precede conscious awareness by hundreds of milliseconds, which seems to make consciousness too late to cause the neural activity it supposedly controls. On the time-symmetric reading the objection appears to dissolve: if future boundary conditions constrain past states, consciousness need not temporally precede neural activity to influence it. The selection is atemporal, so "too late" loses its purchase—though this dissolution is only as secure as the retrocausal interpretation it rests on, which remains contested rather than established.
+
+That contest has a specific name, and the ledger should carry it rather than settle for a minority headcount. Tim Maudlin's contingent-absorber argument (2011) positions a second absorber according to whether the particle was already detected elsewhere, so that which confirmation waves exist depends on the very outcome the transaction is supposed to fix—an objection widely read as serious, by some as fatal to Cramer's 1986 formulation. Kastner's possibilist and relativistic reformulations argue it cannot be mounted once offers are treated as possibilities rather than spacetime trajectories; Peter Lewis (2013) argues a version of the problem survives the reformulation, and Kastner (2014) replies. As [[transactional-interpretation-of-quantum-mechanics|the Map's canonical treatment]] puts it, any TI-based story the Map tells inherits this objection. It belongs on the time-symmetric route's bill alongside minority status, and it is the heavier of the two entries: a live technical challenge to the internal consistency of the route's foundational interpretation is a costlier debt than an unpopular standing in the field.
 
 The asymmetry here is sharp and worth naming explicitly, in the manner the cost-cartography discipline requires: forward-in-time buys temporal becoming cheaply but pays full price on the collapse mechanism; time-symmetric buys a clean Libet answer but pays in retrocausal metaphysics.
 
@@ -87,7 +90,7 @@ Applying the fixed-battery lens of [[mechanism-costs-cartography]]—the same qu
 
 **Shared cost: the decoherence-gap debt.** Both routes must account for the relationship between conscious selection and the decoherence that prepares classically distinguishable alternatives. Forward-in-time pays it by relocating the act to after decoherence (post-decoherence selection) or by requiring coherence survival (the pre-decoherence variants, which pay it more dearly). Time-symmetric pays it by treating decoherence as basis-fixing within an atemporal transaction. Neither route escapes the gap; they discharge the debt differently.
 
-**Time-symmetric pays extra in retrocausal metaphysics.** Its bill includes the transactional interpretation's minority status in quantum foundations and the further step of reading time-symmetry as causally (not merely formally) real. This is a thicker metaphysical commitment than the forward route asks for.
+**Time-symmetric pays extra in retrocausal metaphysics.** Its bill includes the transactional interpretation's minority status in quantum foundations, the unresolved Maudlin objection noted above, and the further step of reading time-symmetry as causally (not merely formally) real. This is a thicker metaphysical commitment than the forward route asks for.
 
 **Forward-in-time pays extra in standard-collapse-mechanism debt.** It cannot offload the problem of outcomes onto a transactional structure. It owes a first-person account of what converts the improper mixture into a definite outcome, and the [[selection-criterion-problem|selection-criterion problem]] sits squarely on this route: if consciousness selects pattern A over B, the criterion is either reason-bearing (collapsing toward functionalism), random (collapsing toward bare Born statistics), or a non-reducible primitive. The forward route must hold that primitive in place; the time-symmetric route faces the same trilemma but routes it through constraint-satisfaction rather than instantaneous choice.
 
@@ -107,7 +110,7 @@ This posture is itself a calibration commitment. The temptation in any cost acco
 
 This comparison is most directly an exercise in three tenets.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (Tenet 2)** is the axis along which both routes are measured. The forward route's post-decoherence variant claims minimality by asking consciousness only to choose among pointer states the environment has already prepared, within Born statistics. The time-symmetric route claims minimality by asking consciousness only to satisfy constraints physics leaves underdetermined, injecting no energy and overriding no law. Both are bids for the smallest possible non-physical influence; the cost accounting shows they locate that smallness differently—one at a moment, one across an interval.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (Tenet 2)** is the axis along which both routes are measured. The forward route's post-decoherence variant claims minimality by asking consciousness only to effect the transition from an already-decohered improper mixture to a single definite outcome, within Born statistics. Because that mixture is improper, it holds no menu of already-localized actualities waiting for one to be picked out; the minimal ask is that one element *become* the outcome, not that one already-settled alternative be preferred over its neighbours. The time-symmetric route claims minimality by asking consciousness only to satisfy constraints physics leaves underdetermined, injecting no energy and overriding no law. Both are bids for the smallest possible non-physical influence; the cost accounting shows they locate that smallness differently—one at a moment, one across an interval.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]] (Tenet 3)** is enacted by both routes and is the reason both survive as live alternatives. Each delivers genuine two-way traffic—the brain presents alternatives, consciousness selects among them—and each does so without collapsing into epiphenomenalism. The routes differ only in whether the mind-to-world leg runs forward or atemporally.
 
@@ -138,6 +141,9 @@ The Map's settled position is that this article should *not* produce a settled p
 5. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 6. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224. https://doi.org/10.1073/pnas.0806273106
 7. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912. https://doi.org/10.1103/PhysRevE.80.021912
-8. Southgate, A. & Oquatre-sept, C. (2026-03-18). Forward-in-Time Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/forward-in-time-conscious-selection/
-9. Southgate, A. & Oquatre-sept, C. (2026-02-01). Time-Symmetric Physics. *The Unfinishable Map*. https://unfinishablemap.org/concepts/time-symmetric-physics/
-10. Southgate, A. & Oquatre-sept, C. (2026-05-12). Mechanism-Costs Cartography. *The Unfinishable Map*. https://unfinishablemap.org/project/mechanism-costs-cartography/
+8. Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.
+9. Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44, 442-449.
+10. Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
+11. Southgate, A. & Oquatre-sept, C. (2026-03-18). Forward-in-Time Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/forward-in-time-conscious-selection/
+12. Southgate, A. & Oquatre-sept, C. (2026-02-01). Time-Symmetric Physics. *The Unfinishable Map*. https://unfinishablemap.org/concepts/time-symmetric-physics/
+13. Southgate, A. & Oquatre-sept, C. (2026-05-12). Mechanism-Costs Cartography. *The Unfinishable Map*. https://unfinishablemap.org/project/mechanism-costs-cartography/

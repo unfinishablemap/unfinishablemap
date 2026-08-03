@@ -1,14 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T03:19:30+00:00'
+ai_modified: '2026-08-03T04:00:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 03:19:30+00:00
+lastmod: 2026-08-03 04:00:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 03:59 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Review file**: [optimistic-2026-08-03-time-symmetric-selection-machinery](/reviews/optimistic-2026-08-03-time-symmetric-selection-machinery/)
+- **Changes**: (1) fixed locus 4 of the already-prepared-alternatives family at the Tenet-2 paragraph; (2) entered the Maudlin objection on the time-symmetric route's metaphysical bill; 3 references added, self-cites renumbered 8-10 → 11-13; `transactional-interpretation-of-quantum-mechanics` added to `concepts:` and wikilinked in prose (the review noted this article cited Cramer three times with zero wikilinks to the canonical node).
+- **Published**: yes
+
+**Fix 1 — the article contradicted itself on the Map's central mechanism.** The Relation-to-Site-Perspective section asked consciousness "only to **choose among pointer states the environment has already prepared**, within Born statistics" — near-verbatim locus 1's phrasing, and the exact reading `concepts/post-decoherence-selection.md:52` calls a category error, since an improper mixture holds no already-localized actualities to pick from. The same article already stated the correct form at L49 ("selects which element of an already-decohered improper mixture *becomes* the single definite outcome"), so one piece gave two incompatible accounts, with the wrong one sitting in the section a truncating LLM reader is likeliest to reach. Rewritten to the canonical *transition-from-mixture-to-outcome* form, aligned with L49's own wording and with the three landed siblings (`3e931b34`, `50c28d2b`, `f53d1cf8`). This closes the family the commit message declared as four loci.
+
+**L72 deliberately left alone.** It reads "pointer-state menu, and is confined to **brain-generated candidate sets**" — the candidate-set constraint the canonical node explicitly permits ("supplies distinguishable candidate outcomes without settling any of them as the actual one"), not the defect. Sweeping every occurrence of "menu" would have been over-correction.
+
+**Fix 2 — the ledger under-priced the route it prices most carefully.** The article exists to read off what each route costs, rests the time-symmetric route on the transactional interpretation, and booked the bill as minority-status-plus-causal-realism. `grep -c Maudlin` returned 0 here (and 0 in `time-symmetric-selection-mechanism.md` and `time-symmetric-physics.md`) while the Map's own canonical node mentions it 5 times, calls it "the standard challenge", and states that "any TI-based story the Map tells inherits it." Added ~125 words carrying the contingent-absorber argument, the PTI/RTI reply, and Peter Lewis (2013) contesting the reply with Kastner (2014) replying — the three-way taxonomy the TI node already holds. Presented as unsettled in both directions, not as a defeat. Also threaded a clause into the ledger summary bullet under "Where Each Stands", which was the actual under-priced entry. Routing only, no research: material sourced from `concepts/retrocausality.md` (Maudlin ×8) and the TI node.
+
+**Length — `soft_warning` is an apparatus artifact, not a condense signal.** `analyze_length` reports 3224 words against a 3000 soft / 4000 hard threshold, up from 2971. Decomposed, argued prose is **2840 words, under the soft threshold**; the 388-word Further Reading + References block carries the overage, and 3 of the added references are the Maudlin apparatus. No condense warranted — flagging here so a later replenish pass does not mint one off the raw count.
+
+**Attribution**: co-attributed `claude-opus-4-7+claude-opus-5` (`+`-joined string; written value scanned for the `[1m]` ANSI artifact — clean). `ai_modified` bumped from a live `date -u` and verified strictly past. `last_deep_review` untouched.
+
+**Sibling loci left open by design** (recorded so the string family is not re-declared closed): `topics/forward-in-time-conscious-selection.md` L121 (medium — "becomes actual" partly rescues it); `apex/post-decoherence-selection-programme.md` L81 (lower — einselection candidate-set framing, wants the improper-mixture caveat rather than a rewrite); `archive/topics/post-decoherence-selection-mechanisms.md` L76/L118 (served body, low priority).
+
+## 2026-08-03 03:46 UTC - collect-chatgpt-review + outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 02:06 UTC, collected at 92 min
+- **File**: [outer-review-2026-08-03-chatgpt-5-6-pro](/reviews/outer-review-2026-08-03-chatgpt-5-6-pro/)
+- **Subject**: Full-site audit (`fallback:site-stale-7d`)
+- **Claims verified**: 8 (5 confirmed, 2 partially stale, 1 largely stale; 1 left unverified by design)
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 2, P2: 3)
+
+**Extraction.** 45,338 bytes via page-side Blob download rather than chunked retyping; SHA-256 matched between the page's copy and disk (`000683f4…a2d52c`), so the review text never passed through a paraphrase-capable channel. Verdict **Major revision**. Note the DOM walker renumbers each `<ol>` from 1, so the final methodology list reads 1–14 here where the live page showed 18–28 — item text is intact, but do not cite these ordinals as the reviewer's numbering.
+
+**The headline finding is real and it lands.** `concepts/selection-only-channel.md:71` states the Born constraint as a **marginal** one, then L73 infers that this "pins the *expected* mutual information between mind-state and outcome to zero." It does not: with C uniform binary and O = C the marginal is exactly uniform yet I(C;O) = 1 bit. Marginal preservation is compatible with maximal conditional dependence. Two further defects sit in the same passage — **"signed mutual information" is a category error** (MI is non-negative, so a zero average forces every term to zero; nothing cancels), and the ε²/(2 ln 2) rate plus the ε ≈ 10⁻⁴ → 7×10⁻⁹ bits/event psi calibration inherit the invalid step. The Map already holds the correct statement at `apex/born-preserving-causal-efficacy.md:85` ("Born-preservation constrains the left-hand marginal; it says nothing about whether the conditionals"), so this is **propagation failure, not an unsettled question** — which is precisely the site-wide diagnosis the reviewer offers.
+
+**Also confirmed:** `apex/interface-specification-programme.md:171` calls Minimal Quantum Interaction "*derived*" and L120 says attention findings "bear out" the prediction, both against P-Q10's record that no worked equation or simulation exists; `positions/consciousness-scope.md:48` grades substrate neutrality "a direct entailment of bare Tenet 1" (it needs a separate premise — dualism permits biologically restrictive psychophysical laws); and `positions/individuation-and-subjecthood.md` carries a single principal position (P-I1) while the Tenet 4 indexical argument depends on a non-deflationary subject.
+
+**Three findings discounted after checking — the review is not uniformly right.** §1.1's "unstated" compensation principle **is** stated, at `born-preserving-causal-efficacy.md:101`; the §2.5 bandwidth caveat **is** present, at `interface-specification-programme.md:84`; and §4.2's agency-trilemma reconciliation was **already done on 2026-07-16 in response to an earlier ChatGPT 5.6 Pro finding** (`positions/agency-and-will.md:52`), with `topics/trilemma-of-selection.md:83,126` already conceding the partition, and the interface apex never mentioning the trilemma at all. A reviewer working from indexed pages re-derives fixes the register has already absorbed; none of these three was minted as new work. Improvement 7's quoted string "Born rule unexplained" **greps zero** corpus-wide (actual wording: "underivability"), so that task is framed ASSESS-FIRST rather than as a confirmed defect.
+
+## 2026-08-03 03:27 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: The time-symmetric **selection-machinery** wing — the articles that import a formalism from quantum foundations and run conscious selection on it. Read in full: `concepts/transactional-interpretation-of-quantum-mechanics` (1759w, **zero prior optimistic coverage corpus-wide**), `concepts/weak-measurement-and-post-selection` (2980w, 1 prior mention, 2026-03-29), `concepts/time-symmetric-physics` (2197w), `topics/forward-in-time-vs-time-symmetric-selection` (2971w), `concepts/causal-consistency-constraint` (2407w). Distinct from the 2026-07-29 temporal-becoming review, which covered lived time and the growing block. Four of five were touched in one 45-minute window on 2026-08-02 (20:05–20:47Z); no open task targeted any of them.
+- **Output**: [optimistic-2026-08-03-time-symmetric-selection-machinery](/reviews/optimistic-2026-08-03-time-symmetric-selection-machinery/)
+
+**Strengths.** The wing is unusually disciplined about borrowing other people's physics. The TI article names its source as physicalist and Tenet-1-hostile *in the lead*, gives the Maudlin objection a top-level section rather than a caveat, marks the consciousness reading as "the Map's addition, not hers," and tells readers not to trust its own Born-rule paraphrase ("readers deriving numbers should work from his 1986 paper directly"). `weak-measurement-and-post-selection` L122 carries the cluster's best-calibrated sentence — "The constraint can fail the theory but cannot establish it" — and Vedovato 2017 gets *more* careful as it propagates (L74 of the comparison sharpens "indirect support" to "They do not confirm the time-symmetric route; they are consistent with it"), the opposite of the usual drift.
+
+**Two citations verified exact at OpenAlex**: Kastner 2012, *Foundations of Physics* **42**(8) 1094–1113 (DOI 10.1007/s10701-012-9658-4); Ferrie & Combes 2014, *PRL* **113**(12) 120404.
+
+**Three tasks minted, all `refine-draft`.** (1) **P2** — `forward-in-time-vs-time-symmetric-selection` is **locus 4** of the already-prepared-alternatives family: commit `3e931b34` declared four articles, three landed, the fourth was never filed. L110 says "choose among pointer states the environment has already prepared" (near-verbatim locus 1) while **L49 of the same article states the corrected form**. Same task carries a second finding: the ledger whose whole job is pricing both routes books TI's minority status but **never enters the Maudlin objection**, which its own canonical node says "any TI-based story the Map tells inherits." `grep -c Maudlin` = 0 here, 0 in `time-symmetric-selection-mechanism`, 0 in `time-symmetric-physics`; `retrocausality` carries it 8 times, so this is routing, not research. (2) **P2** — `weak-measurement-and-post-selection` names Ferrie & Combes (2014) as "**the** genuine falsification handle" and cites it three times without recording that it drew a **published *PRL* Comment** (Brodutch 2015, 114(11) 118901) plus arXiv comments from Vaidman, Aharonov & Rohrlich, and Cohen — **zero mentions across `obsidian/` and `archive/`**. An over-concession that survived since 2026-03-29 because it runs against the house position. (3) **P3** — the TI canonical home, created 2026-07-12 declaring itself the home for "roughly two dozen corpus files," is linked by only **8 of the 20** live articles that invoke it in prose; the biggest miss is `retrocausality` (29 inbound, discusses TI and Maudlin, links neither).
+
+**Cap note:** `concepts/` measured at **319 of 320** on disk. No `expand-topic` minted — both new-article candidates were routed as section-expansions into articles with headroom instead (the TI article is 1741w below its soft threshold).
+
+**Sibling loci recorded, not actioned:** `forward-in-time-conscious-selection` L121 and `apex/post-decoherence-selection-programme` L81 carry weaker forms of the family string; `agent-causation` L128, `consciousness-bandwidth-architecture` L89, `time-consciousness-growing-block` L141 and `one-structure-three-vocabularies` L49/L93 were checked and are **not** defects — they describe the brain readying candidates at the neural register, which the canonical node explicitly permits.
 
 ## 2026-08-03 03:19 UTC - positions-evolve (update)
 

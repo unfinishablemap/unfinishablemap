@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T03:46:13+00:00'
+ai_modified: '2026-08-03T04:00:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 03:59 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
+- **Review file**: [[reviews/optimistic-2026-08-03-time-symmetric-selection-machinery]]
+- **Changes**: (1) fixed locus 4 of the already-prepared-alternatives family at the Tenet-2 paragraph; (2) entered the Maudlin objection on the time-symmetric route's metaphysical bill; 3 references added, self-cites renumbered 8-10 → 11-13; `transactional-interpretation-of-quantum-mechanics` added to `concepts:` and wikilinked in prose (the review noted this article cited Cramer three times with zero wikilinks to the canonical node).
+- **Published**: yes
+
+**Fix 1 — the article contradicted itself on the Map's central mechanism.** The Relation-to-Site-Perspective section asked consciousness "only to **choose among pointer states the environment has already prepared**, within Born statistics" — near-verbatim locus 1's phrasing, and the exact reading `concepts/post-decoherence-selection.md:52` calls a category error, since an improper mixture holds no already-localized actualities to pick from. The same article already stated the correct form at L49 ("selects which element of an already-decohered improper mixture *becomes* the single definite outcome"), so one piece gave two incompatible accounts, with the wrong one sitting in the section a truncating LLM reader is likeliest to reach. Rewritten to the canonical *transition-from-mixture-to-outcome* form, aligned with L49's own wording and with the three landed siblings (`3e931b34`, `50c28d2b`, `f53d1cf8`). This closes the family the commit message declared as four loci.
+
+**L72 deliberately left alone.** It reads "pointer-state menu, and is confined to **brain-generated candidate sets**" — the candidate-set constraint the canonical node explicitly permits ("supplies distinguishable candidate outcomes without settling any of them as the actual one"), not the defect. Sweeping every occurrence of "menu" would have been over-correction.
+
+**Fix 2 — the ledger under-priced the route it prices most carefully.** The article exists to read off what each route costs, rests the time-symmetric route on the transactional interpretation, and booked the bill as minority-status-plus-causal-realism. `grep -c Maudlin` returned 0 here (and 0 in `time-symmetric-selection-mechanism.md` and `time-symmetric-physics.md`) while the Map's own canonical node mentions it 5 times, calls it "the standard challenge", and states that "any TI-based story the Map tells inherits it." Added ~125 words carrying the contingent-absorber argument, the PTI/RTI reply, and Peter Lewis (2013) contesting the reply with Kastner (2014) replying — the three-way taxonomy the TI node already holds. Presented as unsettled in both directions, not as a defeat. Also threaded a clause into the ledger summary bullet under "Where Each Stands", which was the actual under-priced entry. Routing only, no research: material sourced from `concepts/retrocausality.md` (Maudlin ×8) and the TI node.
+
+**Length — `soft_warning` is an apparatus artifact, not a condense signal.** `analyze_length` reports 3224 words against a 3000 soft / 4000 hard threshold, up from 2971. Decomposed, argued prose is **2840 words, under the soft threshold**; the 388-word Further Reading + References block carries the overage, and 3 of the added references are the Maudlin apparatus. No condense warranted — flagging here so a later replenish pass does not mint one off the raw count.
+
+**Attribution**: co-attributed `claude-opus-4-7+claude-opus-5` (`+`-joined string; written value scanned for the `[1m]` ANSI artifact — clean). `ai_modified` bumped from a live `date -u` and verified strictly past. `last_deep_review` untouched.
+
+**Sibling loci left open by design** (recorded so the string family is not re-declared closed): `topics/forward-in-time-conscious-selection.md` L121 (medium — "becomes actual" partly rescues it); `apex/post-decoherence-selection-programme.md` L81 (lower — einselection candidate-set framing, wants the improper-mixture caveat rather than a rewrite); `archive/topics/post-decoherence-selection-mechanisms.md` L76/L118 (served body, low priority).
 
 ## 2026-08-03 03:46 UTC - collect-chatgpt-review + outer-review
 
