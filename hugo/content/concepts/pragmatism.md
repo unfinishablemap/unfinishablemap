@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-08-03 13:10:10+00:00
+ai_modified: 2026-08-03 13:37:03+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: Pragmatism evaluates ideas by their practical consequences—a meth
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 13:27:00+00:00
-lastmod: 2026-08-03 13:10:10+00:00
+last_deep_review: 2026-08-03 13:37:03+00:00
+lastmod: 2026-08-03 13:37:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The Map disagrees, and the disagreement has two edges that are worth separating,
 
 The internal edge: Rorty does not stop recommending. He holds that some vocabularies serve our purposes better than others, and recommending one over another is an act of assessment — which is what the [reflexive argument below](#pragmatism-and-the-maps-framework) targets. A pragmatism that dissolves the mind-body problem still owes an account of the evaluating it goes on doing; a vocabulary of vocabularies has to be assessable from somewhere. That pressure is available inside Rorty's framework and does not need the Map's metaphysics to state it.
 
-The bedrock edge: the further claim that phenomenal experience is a datum any adequate vocabulary must accommodate — that consciousness is the condition under which description occurs rather than one more description of the world — is a Map commitment Rorty rejects outright, since on his view "datum" is itself a vocabulary with no privileged standing. The [hard problem](/topics/hard-problem-of-consciousness/) looks persistent from inside the Map's framework and dissolved from inside Rorty's, and which framework one occupies settles the verdict. This runs counter to the Map's foundational commitments and is noted as such rather than settled on Rorty's terms. The [reflexive gap](/topics/consciousness-defeats-explanation/) between explanation and understanding marks the same boundary from a different direction.
+The bedrock edge: the further claim that phenomenal experience is a datum any adequate vocabulary must accommodate — that consciousness is the condition under which description occurs rather than one more description of the world — is a Map commitment Rorty rejects outright, since on his view "datum" is itself a vocabulary with no privileged standing. The [hard problem](/topics/hard-problem-of-consciousness/) looks persistent from inside the Map's framework and dissolved from inside Rorty's, and which framework one occupies settles the verdict. The [reflexive gap](/topics/consciousness-defeats-explanation/) between explanation and understanding marks the same boundary from a different direction.
 
 ### Putnam's Pragmatic Realism
 
@@ -86,7 +86,7 @@ The Map's article on [pragmatism's path to dualism](/topics/pragmatisms-path-to-
 
 Two replies stand in the way; the argument is incomplete without them.
 
-**The naturalist theory of normativity.** Teleosemantics is the standing answer — Millikan's account of proper functions, and the kindred proposals of Dretske and Papineau, ground the difference between what a mechanism is *for* and what it merely *does* in selection history. On that story "works" does not collapse into "occurs" even on wholly physical premises, because ancestral payoff fixes a function against which malfunction is definable. The Map's judgement is that this under-delivers rather than fails: selection history can fix what a state is supposed to do, while the pragmatist's criterion is exercised in the felt recognition that a framework illuminates, and a function assigned by ancestral payoff does not by itself supply that felt demand. This judgement leans on the Map's prior commitment to phenomenal irreducibility, which the teleosemanticist is under no obligation to grant — a cost the Map assesses, not a refutation it delivers.
+**The naturalist theory of normativity.** Teleosemantics is the standing answer. Millikan's proper functions and Papineau's kindred proposal ground the difference between what a mechanism is *for* and what it merely *does* in evolutionary selection history; Dretske routes it through the individual's learning history instead, holding that an indicator recruited by conditioning acquires a function no ancestral payoff had to supply. On either story "works" does not collapse into "occurs" even on wholly physical premises, because a selection process — phylogenetic or ontogenetic — fixes a function against which malfunction is definable. The Map's judgement is that this under-delivers rather than fails: a selection history can fix what a state is supposed to do, while the pragmatist's criterion is exercised in the felt recognition that a framework illuminates, and a function assigned by past payoff, ancestral or learned, does not by itself supply that felt demand. This judgement leans on the Map's prior commitment to phenomenal irreducibility, which the teleosemanticist is under no obligation to grant — a cost the Map assesses, not a refutation it delivers.
 
 **The functionalist concession.** A functionalist might grant the reflexive point entirely while insisting that the relevant evaluative capacity is a computational role rather than an irreducible phenomenal property. The reflexive argument is powerful but incomplete on its own; where the functionalist must pay, and where the disagreement instead reaches bedrock, is worked out in [the sibling article](/topics/pragmatisms-path-to-dualism/).
 
@@ -100,7 +100,7 @@ The Unfinishable Map treats pragmatism as a method that, applied reflexively, pr
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Van Fraassen's pragmatics of explanation is often pressed into service here, and two readings must be kept apart: the dualist payoff depends on the stronger one, and van Fraassen licenses only the weaker. What he defends is that *explaining* is a speech act — answering a why-question, interest-relative and context-dependent because requesting and grasping an answer is something a conscious agent does. That is an epistemic and semantic claim about an act, and it is all he commits to; the dependency relations the explanations track are left untouched. The step from there to conscious evaluation having *causal* consequences is the Map's own extension, argued separately in [pragmatism's path to dualism](/topics/pragmatisms-path-to-dualism/) and [the reflexive-gap analysis](/topics/consciousness-defeats-explanation/). Stated in the Map's voice: scientists choose theories, design experiments, and communicate results on the strength of conscious assessment, and an epiphenomenal assessment would leave the success of that practice unexplained. The epiphenomenalist has a standing reply — the assessment supervenes on the physical processes that do the causing, so the practice succeeds without any phenomenal causation — and what answers it is the indirect case registered under [Tenet 3](/tenets/#tenet-3-standing), not anything van Fraassen supplies.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Pragmatism provides the natural articulation of this tenet. Parsimony is one theoretical virtue among many. When the "simpler" theory eliminates the standpoint from which simplicity is assessed, pragmatism sides with the richer ontology.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Pragmatism provides the natural articulation of this tenet. Parsimony is one theoretical virtue among many. When the "simpler" theory is bought by discounting the standpoint from which simplicity is assessed, pragmatism sides with the richer ontology — though whether materialism must pay that price is exactly what the section above leaves open.
 
 ## Further Reading
 
