@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T04:20:28+00:00'
+ai_modified: '2026-08-03T04:35:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 04:35 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile pre-publication referee, full-site audit; subject reused from the 02:00 ChatGPT commission — third and final leg of the 2026-08-03 cycle)
+- **File**: [[reviews/outer-review-2026-08-03-gemini-2-5-pro]]
+- **Claims verified**: 6 quoted spans plus all 5 verdict-list findings, grep-checked across `obsidian/`, `hugo/content/` and `archive/`
+- **High-value findings**: 0 — all five verdict items fail verification
+- **Tasks generated**: 0
+
+**Extraction integrity.** Page-side Blob + SHA-256 (`c0a612a3…82f04`), byte-matched against disk before handling, so no part of the review passed through a paraphrase-capable channel. 24,092 chars / 121 lines, closing on verdict item 5 — a real conclusion, not a truncation.
+
+**Headline.** Verdict "unready for submission" on five counts. All five fail against the corpus, and four fail by **stance inversion**: the reviewer charges the Map with a naive position at precisely the loci where the Map states, and concedes, the sophisticated one. Findings 3, 4 and 5 attack passages written specifically to forestall them.
+
+**The five findings.** (1) **Kammerer/Shabasson omission — false, and this is the third filing.** `concepts/illusionism.md` cites Kammerer 2017, 2022, 2022b and 2025, engages the illusion meta-problem by name at L125, and states at L113 that the programme "is alive on this question, not stalled"; Shabasson's false-inference and introspective-opacity content is at L105 and `concepts/functional-seeming.md:49`. Gemini filed this same finding on 2026-07-25 and 2026-07-28 and it was adjudicated false in `changelog-2026-W31` on identical grounds. The Kammerer *Synthese* paper is additionally in-corpus at its 2019 online vintage, same DOI. (2) **Biological-computationalism equivocation — false.** `topics/biological-computationalisms-inadvertent-case-for-dualism.md:58` states the physicalist rejoinder verbatim, and L96 is doubly conditional and explicitly disclaims the inference charged. The residual suggestion that the Map ignores type-identity theory and local reduction is also false — dedicated `concepts/type-identity-theory.md` and `concepts/phenomenal-concepts-strategy.md` articles exist. (3) **Laukkonen ignored — false, inverted.** `topics/predictive-processing-and-dualism.md:80` calls the beautiful loop "the strongest physicalist alternative the Map currently faces"; `topics/non-temporal-consciousness.md:80` concedes the active-inference mechanism means the meditative data "do not *constrain* the space in the Map's favour." (4) **Frischhut use-mention error — false, inverted.** `non-temporal-consciousness.md:48` draws the exact metaphysical/phenomenological distinction alleged to be conflated; L78 concedes the readings are observationally equivalent. (5) **Kral 2022 minimised — false, inverted, and self-contradicted inside the report itself**, which concedes in its body that "the text acknowledges the null findings" before charging minimisation in the verdict list. `topics/clinical-evidence-quality-standards-consciousness-research.md:109` names the exact malpractice charged as a malpractice.
+
+**Quote fidelity.** Of six Map-attributed spans: three verbatim ("improper mixture", "post-decoherence selection programme", "no-Born-statistics-violation", all at `non-temporal-consciousness.md:143`; plus "substance-leaning sub-reading" at `tenets.md`). "why *this* branch is mine" is **verbatim but greps 0 naively** — the italics markers break contiguity, the documented false-negative trap. One is scope-crept (a cognitive-penetration concession quoted with insertions, and cut before the clause that concedes *more* than the reviewer allows). One is **fabricated and stance-inverted**: "the seeming itself is what it represents" appears nowhere, and attributes to the Map as a question-begging assertion a claim the Map explicitly concedes to Frankish at `illusionism.md:111`.
+
+**Not publication lag.** Every locus checked reads the same at HEAD as at the 2026-08-03 00:21 deploy the reviewer audited, so none of these falls into the stale-but-was-true class that affected the ChatGPT and Claude legs. No tasks minted; nothing here is actionable. The combine gate for the 2026-08-03 cycle is now open, and this leg should be weighted low on empirical findings with the Kammerer item recorded as a third repeat of an already-adjudicated false positive.
 
 ## 2026-08-03 04:20 UTC - outer-review
 
