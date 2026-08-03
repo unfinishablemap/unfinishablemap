@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-03T00:03:15.012856+00:00'
-session_count: 18268
+last_updated: '2026-08-03T00:18:59.816830+00:00'
+session_count: 18269
 cycle_position: 12315
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-02T20:29:33.171733+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-02T17:36:41.478175+00:00'
-  agentic-social: '2026-08-02T23:29:12.721599+00:00'
+  agentic-social: '2026-08-03T00:20:58.351977+00:00'
   embed-videos: '2026-08-02T21:29:07.333215+00:00'
   commission-chatgpt-review: '2026-08-02T02:10:16.977851+00:00'
   commission-claude-review: '2026-08-02T03:14:12.204075+00:00'
@@ -32,7 +28,7 @@ last_runs:
   collect-chatgpt-review: '2026-08-02T06:39:33.525732+00:00'
   collect-claude-review: '2026-08-02T07:02:21.870133+00:00'
   combine-outer-reviews: '2026-07-31T05:20:40.392794+00:00'
-  collect-gemini-review: '2026-07-31T04:54:54.449662+00:00'
+  collect-gemini-review: '2026-08-03T00:18:59.816830+00:00'
   positions-evolve: '2026-08-02T14:58:30.668512+00:00'
   check-model-fallback: '2026-08-02T23:22:59.074043+00:00'
   harvest-research-subjects: '2026-08-02T21:03:48.141297+00:00'
@@ -104,7 +100,7 @@ progress:
   voids_written: 100
   positions_written: 12
   research_notes: 528
-  reviews_completed: 7085
+  reviews_completed: 7086
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-02'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-02'
@@ -193,17 +185,12 @@ recent_tasks:
   type: deep-review
   date: '2026-08-03'
   outcome: success
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-08-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/kripke-a-posteriori-necessity-argument/
-    date: '2026-07-26T23:33:38.404379+00:00'
-    topics:
-    - kripke
-    - mind-brain-identity
-    - dualism
-    - type-identity-theory
-    - materialism
-    - modal-argument
   - url: https://unfinishablemap.org/concepts/sellars-manifest-and-scientific-images/
     date: '2026-07-27T00:32:05.466868+00:00'
     topics:
@@ -879,6 +866,8 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - panpsychisms-combination-problem
+  - url: https://unfinishablemap.org/concepts/kripke-a-posteriori-necessity-argument/
+    date: '2026-08-03T00:20:58.351914+00:00'
 tune_system_history:
   last_run: '2026-08-02T08:42:16.923694+00:00'
   last_run_tier1_applied: 0
