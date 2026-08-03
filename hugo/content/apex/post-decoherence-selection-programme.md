@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-08-03 08:13:10+00:00
+ai_modified: 2026-08-03 11:23:15+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-08-03 08:13:10+00:00
+lastmod: 2026-08-03 11:23:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ If consciousness selects, what constrains its choices? Zurek's quantum Darwinism
 
 For the Map's framework, quantum Darwinism specifies three constraints on conscious selection.
 
-The *menu is fixed*. Einselection determines which states survive environmental monitoring. Consciousness cannot select a quantum state that the environment would immediately destroy. The options are the robust, classically distinguishable alternatives that the environment has already prepared—no more, no less.
+The *menu is fixed*. Einselection determines which states survive environmental monitoring. Consciousness cannot select a quantum state that the environment would immediately destroy. The options are the robust, classically distinguishable alternatives that the environment has already prepared—no more, no less. What einselection fixes is the *basis*, not a set of already-localized actualities: the mixture remains improper, so the menu constrains what selection ranges over without settling that any element of it already obtains.
 
 The *probabilities are fixed*. The Born rule constrains the statistical distribution of outcomes. If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so, if that derivation survives review, the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
 
@@ -128,7 +128,7 @@ The link between the backward-evolving boundary condition and agency is not orig
 
 This reframing carries two advantages for the post-decoherence programme. First, it decouples conscious selection from any specific moment in time. A boundary condition is a constraint on the whole history, not a force applied at an instant. This dissolves the timing problem entirely—not by placing consciousness after decoherence in the temporal sequence, but by placing it outside the temporal sequence altogether, as a constraint that the sequence satisfies.
 
-Second, the post-selection boundary can be specified at the level of already-decohered, classically distinguishable neural states. Consciousness need not interact with fragile quantum superpositions. Decoherence prepares the menu; consciousness determines which option the system's history converges toward. The TSVF machinery shows that such a determination—specifying the final state—has genuine causal consequences for intermediate physics, as weak value experiments confirm.
+Second, the post-selection boundary can be specified at the level of already-decohered, classically distinguishable neural states. Consciousness need not interact with fragile quantum superpositions. What decoherence hands over is an improper mixture rather than a menu of already-localized actualities waiting for one to be picked out; reading it as such a menu, with consciousness choosing one pre-existing outcome from it, is a category error. The boundary condition names the transition *from* that mixture *to* a single actual outcome, not the reading-off of an alternative the physics has already settled as distinct. The TSVF machinery shows that such a determination—specifying the final state—has genuine causal consequences for intermediate physics, as weak value experiments confirm.
 
 The cost is interpretive commitment: this framework requires the realist interpretation of weak values, where the backward-evolving state reflects genuine physics rather than statistical artefact. And it requires an account of how a non-physical entity provides a boundary condition—a version of the interaction problem that all interactionist frameworks face.
 
