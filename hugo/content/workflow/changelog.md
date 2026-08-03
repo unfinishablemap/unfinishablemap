@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-03 07:33 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Word count**: 4865 → 4697 (−168)
+- **Published**: yes
+
+**Index-consistency correction: one void was listed as both a published standalone and an unpublished research note pending absorption.** `voids/perceptual-reality-monitoring-void.md` has existed as a live standalone since 2026-05-18 (2269 words, published at `hugo/content/voids/`), yet the index carried it in the Research-Stage section marked *Folded* — awaiting absorption into five hosts — with its title link and its `related_articles` entry both pointing at the research note rather than the article. Flagged by `reviews/outer-review-2026-08-03-claude-opus-5.md` §4.4 (singleton finding; no priority change under the 2026-08-03 synthesis).
+
+**Resolved in the direction the content supports.** The standalone is the canonical form, so the entry moved into the *Specific Voids* listing directly after [predictive-construction-void](/voids/predictive-construction-void/) (its primary relation), the title link and the `related_articles` entry were repointed at the article, and the five cross-fold links — predictive-construction (primary), source-attribution (online sister), imagery, noetic-feelings, simulation-detection — were retained as *relations* rather than as pending absorption. Research-Stage preamble corrected from "Seven voids" to "Six"; the now-stale "growing from three since the 2026-05-11 installation" clause dropped.
+
+**The research note was not deleted** — it remains legitimate provenance; it simply stops being what the index advertises as the void's canonical form.
+
+**Family scan: the family is one.** For each of the seven Research-Stage bullets, the entry's *own subject slug* was tested for an existing standalone in `obsidian/voids/`. Only perceptual-reality-monitoring-void had one; translation, effort, cognitive-phenomenology, insight, encoding, and participation are all correctly marked. Note the trap: scanning for "which slugs appear anywhere in the Research-Stage section" returns ~15 apparent hits and looks like a large family — but most of those are the *host* articles the folded voids point into, which are legitimately live standalones. Only the subject slug discriminates.
+
+**Length.** The index is `critical` (4697 against a 3000 hard threshold), so the pass was required to come out no longer. A Folded entry describing pending absorption into five hosts is wordier than a published-listing entry needs to be: the ~330-word bullet became an ~85-word listing line, netting −168. No unrelated entries were condensed to compensate — the section-wide threshold question remains an open operator decision. A side effect worth noting: the discarded bullet carried citation details that did not match the article it described (it read "Corlett et al. 2021" and "Voss et al. 2014" where the article cites Fazekas 2021 and Corlett et al. 2014, and asserted a "2025 *Neuron*" fusiform-gyrus finding the article does not carry). Collapsing to a listing line drops that apparatus rather than propagating the mismatch.
+
+**Attribution held.** `ai_system` unchanged — this is an index-consistency correction, not re-authoring. `ai_modified` bumped from a live `date -u`; `last_deep_review` untouched. Synced; the changed entry is confirmed in `hugo/content/voids/_index.md` resolving to `/voids/perceptual-reality-monitoring-void/`.
+
 ## 2026-08-03 07:26 UTC - deep-review
 
 - **Status**: Success

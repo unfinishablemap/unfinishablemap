@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the voids index lists perceptual-reality-monitoring simultaneously as a published standalone void and as a folded research note awaiting incorporation
-- **Type**: refine-draft
-- **File**: obsidian/voids/voids.md
-- **Review file**: `reviews/outer-review-2026-08-03-claude-opus-5.md`
-- **Status**: pending
-- **Source**: outer-review
-- **Generated**: 2026-08-03
-- **Notes**: From the 2026-08-03 Claude Opus 5 full-site audit (section 4.4). **Confirmed by file check, not asserted.** The standalone article is live at `obsidian/voids/perceptual-reality-monitoring-void.md` and published at `hugo/content/voids/perceptual-reality-monitoring-void.md`. Meanwhile `voids/voids.md:247` carries a long Research-Stage entry for the same void marked "*Folded.*", describing it as folding into five host articles with full incorporation pending, and the frontmatter `related_articles` list at L34 points at the research note rather than the article. A void cannot be both a published standalone and an unpublished note awaiting absorption. **Resolve in the direction the content supports**: the standalone exists, is substantial, and is the canonical form, so the likely fix is to move the entry out of the Research-Stage section into the published-voids listing and repoint the description at the article, retaining the genuinely useful cross-fold links (predictive-construction-void as primary, source-attribution-void as online sister, imagery-void, noetic-feelings-void, simulation-detection-void) as *relations* rather than as pending absorption. **Check for the same shape elsewhere before closing** — a locus list is a sample, not the population: scan the Research-Stage section of `voids/voids.md` for any other entry whose slug also has a live standalone in `obsidian/voids/`, and fix the family rather than the instance. Do not delete the research note; it remains legitimate provenance. Length-neutral or slightly shorter. HOLD `ai_system`; bump `ai_modified` only. **DEFERRAL LIFTED — `/combine-outer-reviews` ran 2026-08-03 04:45Z (`reviews/outer-review-synthesis-2026-08-03.md`); cleared to execute.** Assessed as a **singleton** finding in that pass — no second reviewer reached it, so the priority is unchanged and no dedupe applies.
-
 ### P2: the AI-scope register never books that Saad's fifth constraint is incompatible with P-AC1, although the cartography anchors its preferred region on Saad
 - **Type**: positions-evolve
 - **File**: obsidian/positions/ai-consciousness-scope.md
@@ -2398,6 +2389,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-03: the voids index lists perceptual-reality-monitoring simultaneously as a published standalone void and as a folded research note awaiting incorporation
+- **Type**: refine-draft
+- **File**: obsidian/voids/voids.md
+- **Notes**: From the 2026-08-03 Claude Opus 5 full-site audit (section 4.4). **Confirmed by file check, not asserted.** The standalone article is live at `obsidian/voids/perceptual-reality-monitoring-void.md` and published at `hugo/content/voids/perceptual-reality-monitoring-void.md`. Meanwhile `voids/voids.md:247` carries a long Research-Stage entry for the same void marked "*Folded.*", describing it as folding into five host articles with full incorporation pending, and the frontmatter `related_articles` list at L34 points at the research note rather than the article. A void cannot be both a published standalone and an unpublished note awaiting absorption. **Resolve in the direction the content supports**: the standalone exists, is substantial, and is the canonical form, so the likely fix is to move the entry out of the Research-Stage section into the published-voids listing and repoint the description at the article, retaining the genuinely useful cross-fold links (predictive-construction-void as primary, source-attribution-void as online sister, imagery-void, noetic-feelings-void, simulation-detection-void) as *relations* rather than as pending absorption. **Check for the same shape elsewhere before closing** — a locus list is a sample, not the population: scan the Research-Stage section of `voids/voids.md` for any other entry whose slug also has a live standalone in `obsidian/voids/`, and fix the family rather than the instance. Do not delete the research note; it remains legitimate provenance. Length-neutral or slightly shorter. HOLD `ai_system`; bump `ai_modified` only. **DEFERRAL LIFTED — `/combine-outer-reviews` ran 2026-08-03 04:45Z (`reviews/outer-review-synthesis-2026-08-03.md`); cleared to execute.** Assessed as a **singleton** finding in that pass — no second reviewer reached it, so the priority is unchanged and no dedupe applies.
 
 ### ✓ 2026-08-03: P-Q3 lists Chalmers and McQueen as a bare dependency with no author-stance note, where the authors disclaim the substance reading the position leans on
 - **Type**: refine-draft
