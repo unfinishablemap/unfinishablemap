@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T10:25:19+00:00'
+ai_modified: '2026-08-03T10:43:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 10:25:19+00:00
+lastmod: 2026-08-03 10:43:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 10:43 UTC - refine-draft (mechanism-costs-cartography: codify the calibration-parity, metric-vs-partition, confession→correction and taxonomic-placement rules)
+
+- **Status**: Success
+- **File**: [mechanism-costs-cartography](/project/mechanism-costs-cartography/)
+- **Review file**: `reviews/outer-review-2026-08-02-claude-opus-5.md` (section E, recs 1–5); convergence for the confession→correction rule from `reviews/outer-review-synthesis-2026-08-03.md` cluster C1
+- **Original score**: not run — `scripts/curate.py` no longer exists; assessed against the review's section-E recommendations directly.
+- **Four rules added, each with a live before/after rather than a stated principle.**
+  1. **The Calibration-Parity Rule** — a battery must include at least one question on which the house cell scores worst, and must state why it is not selected to exempt the house position. Worked instance: the apex's pre-repair battery conceded the trio "leans deliberately toward physical-side debts", defended parity with the bare "on inspection it appears to track a real difference", charged the Map's cell nowhere, and still concluded "the *least mechanism cost compatible with its tenets*". The 2026-08-03 repair (e1d6003e4) entered Born-rule indistinguishability and the global-exclusion posit. Three generalisations recorded: parity items must be first-order charges on the *existing* questions, must fall on the house cell *distinctively*, and if the deployment's verdict survives unchanged the item should be checked for whether it was really charged.
+  2. **Metric or Partition** — comparative-magnitude vocabulary forbidden absent a scale, a zero point and an aggregation rule. Positive form stated: a partition may say *which* items are owed and *whether each is argued or read off the cell's own commitments*. Worked instance: "The Cost Overlay" → "The Debt Inventory", twelve comparative claims withdrawn. Two scope extensions beyond the review's rec: the noun "cost" in the discipline's own name must be declared an inventory label, and the rule reaches magnitude-sounding vocabulary a deployment *inherits* from its locating taxonomy ("thickness", channel-width) — which covers the reviewer's separate rec 5 about `thickness-grid`/`channel-width axis`.
+  3. **The Confession→Correction Gate** — every self-identified failure mode must bind to an edit, a demotion, or a register entry; a confession with no diff attached fails pre-publish. Pointed at [P-M5](/positions/methodology-and-calibration/) as the same rule one level up and at Countermeasure 16 as the surfacing pipeline. Explicit guard added against over-correcting: the gate asks confessions to bind, not to be deleted.
+  4. **Taxonomic-Placement Parity** — ASSESSED AND CODIFIED. Judged in scope because populating cells with named theorists is a cartography deployment's characteristic operation, and a cell assignment is an attribution no citation-level check inspects. Scoped to cell placement, cross-linked to the parent co-optation firewall in [writing-style](/project/writing-style/) and the source-role table. Worked instance: Goff Q4 → Q3 (681f58127). **The parent firewall extension is NOT made here** — flagged as a separate change to `writing-style.md`.
+- **Empirical-currency expiry: ASSESSED, DECLINED for this file.** It is a citation-hygiene rule (re-verification cadence + contested/unreplicated/superseded status field), orthogonal to the fixed-battery method; it would sit under `evidential-status-discipline` or `calibration-audit-triple`. Not minted here — the task reserved it for its own file.
+- **Two defects found in the target and fixed** (neither was in the review):
+  - **Stale internal quote.** The Asymmetry-Concession section quoted the inaugural deployment's original unhedged "The asymmetry is real, not an artefact of the question selection." The deployment softened that clause on 2026-05-19 (a9fe12f66); the document had been holding up as exemplary a *stronger* claim than the corpus makes. Re-quoted verbatim against the current source (grep-verified), with a maintenance note on the duty to re-check quotations of one's own siblings.
+  - **The file violated the metric rule it was codifying** across eight loci — "which answers come cheap and which come dear", "Q4's heaviest interface bill", "Q4's heavier interface and conservation bill", "the heavier bill"/"the slimmer bill", "the lean cell pays less"/"the bill's weight", "what each cell costs to inhabit", "where each cell's bill lands relative to its neighbours", "pays the full bill". All rewritten to partition language. Three remaining hits are use-mention (the rule's own forbidden list, the scare-quoted counterexample, the quoted pre-repair text) and are correct as they stand.
+- **Also added.** An honest enforcement paragraph: the four rules are prose rules with no linter behind them, and per the confession→correction rule the disclosure is attached to a consequence — the gap is entered as a live instance of P-M5, with the observation that an external reviewer rather than the pipeline caught all four violations. The asymmetry-concession section now states explicitly that concession is necessary but not sufficient.
+- **Length**: 1744 → 3497 words (soft 2500, hard 3500, `soft_warning`). Net +1753. Held under the hard threshold by trimming ~340 words of pre-existing redundancy (cluster-integration paragraph, Use Case, LLM-audience paragraph, battery-defeasibility, Further Reading glosses). Crossing the soft threshold is accepted: four rules with worked before/afters is the deliverable.
+- **Style**: removed both remaining default-intensifier uses of "load-bearing" (count now 0); no "This is not X. It is Y." construct introduced; no editor-mode labels in prose beyond the discipline names, which are this document's subject matter.
+- **Citations**: every quoted string grep-verified at source — the two deployment quotes and the closing formula against `topics/mechanism-costs-dualism-thickness-quadrants.md` at HEAD; "comparable rather than rhetorical", "on inspection it appears to track a real difference", "least mechanism cost compatible with its tenets" and the "## The Cost Overlay" heading against `e1d6003e4^` (pre-repair apex); the two reviewer quotes against `reviews/outer-review-synthesis-2026-08-03.md` C1. Two references added in the house `*The Unfinishable Map* outer review, DATE (Model)` form. **A self-citation to `apex/dualism-cartography` was drafted and removed**: its `ai_system` is `claude-opus-4-8+claude-opus-5`, and the §5.5 pseudonym table has no row for `claude-opus-5` (the `Ocinq, C.` proposal is a queued operator decision). Rather than mint an unconfirmed pseudonym, the apex is carried by wikilink only.
+- **Attribution**: `ai_system` `claude-opus-4-7` → `claude-opus-4-7+claude-opus-5` (`+`-joined string; written value checked with `cat -A`, no `[1m]` ANSI artifact). `ai_modified` bumped from live `date -u`, strictly past. `last_deep_review` untouched.
+- **Mirror**: synced; `hugo/content/project/mechanism-costs-cartography.md` carries all four sections, and the intra-document anchor, the two new outbound links and the review links all converted correctly.
+- **Published**: yes
 
 ## 2026-08-03 10:25 UTC - refine-draft (dualism-cartography: the grid's unstated presupposition of phenomenal realism)
 
