@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T02:22:00+00:00'
+ai_modified: '2026-08-03T02:34:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 02:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/dualism-cartography]]
+- **Review file**: [[reviews/outer-review-2026-08-02-claude-opus-5]] (findings 4 and 5 of the consolidated list)
+- **Original score**: not run — `scripts/curate.py` no longer exists; the two findings were verified directly at source before editing.
+- **Scope**: findings (a) and (b) only. The two sibling tasks still open on this file (citation apparatus — Eccles, Stapp reference metadata, the theta-band citation, the conservation reply; and grid coverage of illusionism / predictive processing) were deliberately left untouched, as were the Saad/quantum-fusion split, the convergent-failure clause, and the debt-inventory rename completed earlier today.
+- **(a) Lycan reframed from advocate to hostile witness — citation-framing accuracy, not fabrication.** "Lycan, defending Cartesian interactive dualism, concedes that…" became "Lycan (2009), a committed materialist of over forty years who concludes that dualism should nonetheless be rejected, admits of it that…". The quoted string ("there is no evidence against that view; it only offends parsimony") was **not** touched — it is verbatim and a 2026-W23 pass had already corrected its wording. Verified in "Giving Dualism its Due" (*AJP* 87(4):551–563): "I have been a materialist about the mind for forty years"; "My materialism has never wavered"; "I have no sympathy with any dualist view, and never will." The framing mirrors the already-correct sibling at `topics/parsimony-case-for-interactionist-dualism.md` L59 rather than composing a variant; the sibling was **not** edited. This strengthens the citation — a hostile witness's concession outweighs an advocate's, and the lead-in "parsimony's own advocates have qualified the argument" now reads correctly rather than ironically. Population was exactly two live loci (obsidian + hugo mirror, same sentence); all other `defending Cartesian` hits are in `reviews/`, `workflow/todo.md` and the weekly changelog archive — records of the defect, not instances — and were left alone. `archive/` had zero hits.
+- **(b) Born-rule uniqueness downgraded from settled to contested.** The flat assertion that the Born rule "is the *unique* consistent probability rule given basic quantum postulates" is now attributed to its source and marked as under challenge: Masanes, Galley & Müller (2019) *derive* it as the only consistent rule; Kent (2023, arXiv:2307.06191) exhibits non-quantum measurement and state-update rules satisfying all its assumptions; Stacey (2022 rev. 2023, arXiv:2211.03299) argues it assumes state-update linearity at the step it purports to prove; MGM have replied, so the text says "contested rather than closed" — the article does **not** flip to claiming MGM is wrong. The finite-dimensional-ensemble assumption is registered. A closing clause keeps the argument intact ("The ceiling holds either way, since no candidate rule fixes the token"), because the structural point — the formalism fixes distributions, not tokens — does not depend on how the dispute settles.
+- **(b) ledger half — the task's premise was wrong; the defect was still live.** The driver reported that `grep "Born-rule uniqueness"` returned zero after an earlier pass rewrote the Evidence-and-Dependency section. It did not: the prose ledger still banked "Born-rule uniqueness" among externally-evidenced frontier constraints at obsidian L145 / hugo L149. Corrected in place to "the contested Born-rule uniqueness derivation", so the ledger no longer certifies as externally evidenced a result the body now marks as disputed.
+- **References**: added Kent (5) and Stacey (12), renumbered 5–17. Safe — no body text cites reference numbers (grep-checked before renumbering).
+- **Length**: 4909 → 4974 words (hard threshold 5000, still `soft_warning`, 26 words of margin). ~120 words of new material were funded by ~55 words of trimming, taken entirely from the Synthesis section's two recap passages, which re-enumerated the five sheets already enumerated in the opening roadmap and again in the closing paragraph. No citation was dropped and no argument was compressed to make room. **Margin is now thin: the two remaining sibling tasks both add citation apparatus and will have to fund themselves by trimming.**
+- **Attribution**: `ai_system` held at `claude-opus-4-8+claude-opus-5` (`+`-joined string; checked for the `[1m]` ANSI artifact, absent). `ai_contribution` held 100. `ai_modified` bumped from a live `date -u`; `last_deep_review` untouched.
+- **Mirror**: synced; both corrections confirmed present in `hugo/content/apex/dualism-cartography.md` and both defect strings confirmed absent from all three content trees.
+- **Published**: yes
 
 ## 2026-08-03 02:22 UTC - refine-draft
 - **Status**: Success
