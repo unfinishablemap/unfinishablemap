@@ -4,7 +4,7 @@ description: "What it would take to abandon the Map's foundational commitments�
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-07-11T14:26:00+00:00
+ai_modified: 2026-08-03T06:39:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-04-15
 last_curated:
 last_deep_review: 2026-07-17T18:54:00+00:00
@@ -74,7 +74,7 @@ What would count: proof that physics is strictly [[causal-closure|causally close
 
 **Type**: Interpretation choice with emerging empirical content.
 
-What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [[spontaneous-collapse-theories|objective collapse]], which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test (see [[testing-consciousness-collapse|the experimental programme]]). Currently, [[many-worlds|many-worlds]] and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—indexical identity, ontological proliferation (see [[many-worlds-argument|the cumulative case against many-worlds]])—rather than empirical evidence.
+What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [[spontaneous-collapse-theories|objective collapse]], which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test (see [[testing-consciousness-collapse|the experimental programme]]). Currently, [[many-worlds|many-worlds]] and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—principally indexical identity, with ontological proliferation registered as a cost rather than a reason, since [[tenets#^occams-limits|Tenet 5]] bars the Map from wielding parsimony as a knockdown (see [[many-worlds-argument|the case against many-worlds]])—rather than empirical evidence.
 
 ### Occam's Razor Has Limits
 

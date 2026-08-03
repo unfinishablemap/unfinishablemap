@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-02 01:35:32+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-03 06:39:36+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[quantum-interpretations]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:03:45+00:00
-lastmod: 2026-08-02 01:35:32+00:00
+lastmod: 2026-08-03 06:39:36+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -89,7 +89,7 @@ The following compact paragraph is intended as the structural defence that other
 
 > Saunders/Wallace branch-relative indexicality (Saunders 2010; Wallace 2012) lets MWI accommodate the felt singularity of experience: in each branch, *that* branch's observer truly says "I am here, having *this* outcome." Claims of the form "experience is *this one*, not scattered across branches" or "consciousness withholds *here*, not across branches" therefore do not by themselves refute MWI—branch-local *de se* attribution already secures them. The Map's reading is stronger: indexicality is genuinely one-branch-at-a-time rather than locally-articulated within a globally-branching structure. This commits the Map to reading the cross-branch personal-identity relation that the Deutsch-Wallace decision-theoretic derivation requires (Deutsch 1999; Wallace 2003, 2012) as unavailable, since *de se* indexicality cannot do the double duty—local-within-branch *and* unified-across-branches—that MWI's Born-rule recovery needs. Felt singularity is evidence consistent with a non-MWI reading of indexicality rather than a knockdown of MWI's branch-relative reply, and the Map's stronger claim earns its tenet status by absorbing the decision-theoretic cost MWI cannot.
 
-### 2. Ontological Extravagance
+### 2. Ontological Extravagance (Non-Decisive)
 
 MWI posits that every quantum event—trillions per second throughout the universe—branches reality into multiple copies, each a complete universe. The branch count grows exponentially, bounded only by the universe's history.
 

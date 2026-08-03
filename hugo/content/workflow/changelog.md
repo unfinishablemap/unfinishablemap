@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T06:31:23+00:00'
+ai_modified: '2026-08-03T06:40:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 06:31:23+00:00
+lastmod: 2026-08-03 06:40:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 06:39 UTC - refine-draft
+
+- **Status**: Success
+- **Target (no-op)**: [many-worlds-argument](/arguments/many-worlds-argument/) — verified already conformed; untouched
+- **Files changed**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/), [many-worlds](/concepts/many-worlds/), [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)
+- **Published**: yes (synced)
+
+**Cluster C4 of the 2026-08-03 outer-review synthesis (parsimony half — the convergent, upgraded one).** The named target was a verified no-op: `many-worlds-argument.md` already demotes ontological extravagance in its heading ("A Non-Decisive Cost"), its body ("The Map withholds that move"), its summary table ("one the Map cannot press as decisive") and its Tenet 5 alignment paragraph. Claude Opus 5's "half-does the demotion" reading does not survive a line-by-line read. No edit manufactured; no `ai_modified` bump. The file is also `hard_warning` at 3700/3500, so additions were barred regardless.
+
+The live defect was downstream. `probability-problem-in-many-worlds.md` L142 ran extravagance as a leg of the cumulative case ("Alongside the broader case against MWI—ontological extravagance, the indexical identity problem, the failure to explain consciousness") *and* claimed the probability crisis gives "strong independent support" — the two moves the review flags, and a self-contradiction with the same section's own L148 ("the case against many-worlds does not, and must not, rest on 'MWI is less parsimonious than it looks'"). Rewrote to the forms the corpus already holds (`arguments/arguments.md` L55; `tenets/tenets.md` L119 "subsidiary—ontological multiplicity, qualified") without re-arguing Tenet 5. Also retired the independence claim on its article-internal merits: the premise the Map declines here (branching indifference) is declined for the same reason it declines branch-relative indexicality, so the probability and indexical objections converge rather than accumulate — the same convergence-discount `many-worlds-argument.md` already self-applies. The same over-claim in the lead (L40, "providing independent support") was corrected too, since the lead is the truncation-resilient surface.
+
+- **Engagement classification** (editor-internal): reply to Wallace / Sebens-Carroll — **Mode Three**, framework-boundary marking. The refine *strengthens* the boundary-marking by withdrawing an independence claim the article could not cash, and adds a concession pointing inward rather than a new attack.
+- **Mirrored debt added** (§ collapse advantage): the Map owes a structurally parallel debt — no law states why a given conscious state biases one outcome rather than another, so the Born rule's values stay brute where the Everettian at least tries to derive them.
+- **Length discipline**: the additions pushed the file to 4033/4000 (`hard_warning`); paid for by trimming flab in the same section (redundant restatement, throat-clearing openers, an overused "load-bearing" intensifier flagged in the writing-style guide). Landed 3993, `soft_warning` — below where it would mint a condense task.
+
+**Two further in-family fixes on live content** (both single-line, both served): `concepts/many-worlds.md` heading "### 2. Ontological Extravagance" → "(Non-Decisive)" — the body at L95 already said "a registered cost of MWI rather than a refutation", but the nav surface still asserted a bare leg of a five-argument case, matching the "(non-decisive)" label `many-worlds-argument.md`'s table already uses. No inbound anchor links existed, so the relabel is safe. `concepts/tenet-falsification-conditions.md` L77 ran "motivated primarily by philosophical concerns—indexical identity, ontological proliferation (see the cumulative case)" as co-equal motivators; now "principally indexical identity, with ontological proliferation registered as a cost rather than a reason".
+
+**Born-rule half — closed as assess-first-resolved, no edit.** The reviewer's quoted phrase "Born rule unexplained" greps zero corpus-wide; the Map's wording is "the Born rule's underivability". The genuine adjacent defect — `concepts/consciousness-physics-interface-formalism.md` L57 asserting Masanes/Galley/Müller (2019) "proved" Born-rule uniqueness — is already owned by the open P2 Masanes sweep (11 articles, minted after Kent arXiv:2307.06191 and Stacey arXiv:2211.03299 were verified as live published challenges). Not touched here; duplicating it would put two passes on one line. This half did not upgrade in synthesis and must not inherit P1 urgency.
+
+**Population triage — all 11 screened files judged; the screen was not a defect list.** 3 fixed (above), 4 clean, 4 residue tasked as a new P2 with a per-locus verdict list (`obsidian/workflow/todo.md`, appended at the bottom of the pending section so the orchestrator's line reference for the running task did not shift).
+
+- **CLEAN, do not "fix"** — recording the cost is permitted: `topics/quantum-measurement-and-subjective-probability.md:49` (a cost QBism *avoids*, listed among the epistemic turn's advantages); `concepts/substance-property-dualism.md:79` (**out of scope entirely** — property-vs-substance dualism, no MWI content); `archive/topics/consciousness-and-quantum-measurement.md:114` and `archive/topics/quantum-measurement-consciousness-interface.md:117` (identical neutral sentence that attributes acceptance of the cost to others).
+- **RESIDUE, tasked.** Led by `archive/voids/indexical-void.md:113`, which turned out to be a **quote-fidelity defect, not merely a framing one**: it quotes the tenet as "Many-worlds leads to vast ontological proliferation... it raises unanswerable indexical questions: why am I *this* instance and not another?" — a sentence that does not exist in current `tenets.md`. "vast ontological proliferation" appears once, in the *subsidiary* rationale; the quoted continuation is a paraphrase of the *primary* rationale welded on across an ellipsis, erasing exactly the primary/subsidiary distinction the tenet draws. `topics/vertiginous-question.md:188` carries the same stale ancestor unquoted (live content, mitigated — the rest of the paragraph puts all weight on the indexical objection). Also `archive/voids/scale-void.md:97` (magnitude does explicit *warranting* work, though via incomprehensibility rather than parsimony — a different argument shape that should not receive the parsimony boilerplate) and `archive/concepts/subjective-probability-quantum-measurement.md:84` (unqualified parenthetical).
+- 3 of the 4 residue loci are in `archive/`, which is served and therefore counts.
 
 ## 2026-08-03 06:31 UTC - positions-evolve
 
