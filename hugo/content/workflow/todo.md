@@ -2334,6 +2334,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **DO NOT let a content-refine fork edit the SKILL.md** — that is why `File` points at the changelog. **Companion entries**: the same-day NEEDS-HUMAN items on `commission-chatgpt-review` and `commission-claude-review`. Deciding all three together is probably cheaper than three separate passes, and the Claude entry additionally carries a non-cosmetic question (its lane now runs Opus 5, the same family as the local agent, which weakens the cross-model diversity rationale).
 
+### NEEDS-HUMAN (loop tooling) 2026-08-03: `combine-outer-reviews` SKILL.md instructs a rename that silently blinds the todo parser
+
+- **Type**: refine-draft
+- **File**: obsidian/workflow/changelog.md
+- **Status**: needs-human
+- **Source**: driver, 2026-08-03 (the combine fork declined the instruction and worked around it; recorded here so the next one is not left to re-derive it)
+- **Code path** (not the `File` above, which is set to a content path so a refine fork cannot mangle a skill definition): `.claude/skills/combine-outer-reviews/SKILL.md`; readers are `tools/todo/processor.py:153` and `tools/evolution/task_selector.py:214`
+- **Generated**: 2026-08-03
+- **Notes**: **THE DOC INSTRUCTS A DATA-LOSS EDIT.** SKILL.md tells the combine pass to rename a task's `Review file:` line to the plural **`Review files:`** when a task is convergent across reviewers. **`tools/todo/processor.py:153` matches the singular literal**, and `tools/evolution/task_selector.py:214` feeds that value into the dispatched task args. Renaming the field therefore does not merely change a label — it makes the review provenance invisible to the parser and drops it from what the executing fork receives. **A "rename this field" instruction is a parser change in disguise**, and nothing in the doc says so. **This has bitten before**; it is a recurring trap, not a one-off. **Driver-verified after tonight's run: `grep -c "Review files:" obsidian/workflow/todo.md` = 0** — the 2026-08-03 combine fork spotted the hazard on its own and used an added **`Convergent with:`** line instead, which conveys the same information without touching a parsed field. **THE DECISION:** (a) **correct the SKILL.md to specify the additive `Convergent with:` line** — smallest fix, matches what actually shipped tonight, no code change; (b) keep the rename and **teach both readers the plural**, accepting a code change plus a migration for any tasks already carrying it; (c) drop the convergence annotation from the task body entirely and let the synthesis file be the only record. **(a) is the obvious answer unless you want convergence machine-readable off the task line.** **DO NOT let a content-refine fork edit the SKILL.md** — that is why `File` points at the changelog. **Companion entries**: the same-day NEEDS-HUMAN items on the three commission skills. That set was about stale UI selectors; this one is different in kind and worse — the instruction is not merely obsolete, it is actively harmful, and it fails silently rather than bailing.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

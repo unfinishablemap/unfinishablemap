@@ -4,7 +4,7 @@ description: "Type-identity theory holds that mental state-types are brain state
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-02T18:47:00+00:00
+ai_modified: 2026-08-03T05:01:03+00:00
 draft: false
 topics:
   - "[[arguments-against-materialism]]"
@@ -22,10 +22,10 @@ related_articles:
   - "[[phenomenal-concepts-strategy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-12
 last_curated:
-last_deep_review: 2026-07-19T14:59:50+00:00
+last_deep_review: 2026-08-03T05:01:03+00:00
 ---
 
 Type-identity theory is the reductive-materialist thesis that mental state-*types* are numerically identical to physical (brain) state-*types*. Its textbook slogan—pain is C-fibre firing—asserts not that pain is caused by, correlated with, or realised in neural activity, but that pain and the relevant neural type are one and the same thing, in the way that water is H2O or lightning is an electric discharge. Introduced by U.T. Place (1956) and Herbert Feigl (1958) and given its canonical defence by J.J.C. Smart (1959), it was the first fully worked-out reductive materialism of analytic philosophy of mind, and it remains the sharpest statement of what The Unfinishable Map's dualism denies.
@@ -52,15 +52,15 @@ The distinction matters because the objections that broke type-identity leave to
 
 Three lines of objection reshaped the field.
 
-**Multiple realizability.** Hilary Putnam (1967) argued that a given psychological kind—pain being his example—is very probably realised by different physical states in different creatures: a mammal, a mollusc, and a hypothetical silicon-based Martian might all be in pain while sharing no single neural type. If so, pain cannot be identical to any one brain-state type, and strong type-identity fails. This argument is generally credited with ending type-identity's dominance and launching functionalism, which redefines mental types by causal-functional role rather than by physical constitution. Crucially for the Map's purposes, multiple realizability is an *intra-materialist* argument: it moves from one physicalism (identity) to another (functionalism), and settles nothing in favour of dualism.
+**Multiple realizability.** Hilary Putnam (1967) argued that a given psychological kind—pain being his example—is very probably realised by different physical states in different creatures. The identity theorist, he pressed, must produce a single physical-chemical state that a mammalian brain, a reptilian brain and a mollusc's brain can all be in—octopuses were his own case—and that no creature incapable of pain could be in. The terrestrial spread alone makes that demand look hopeless; later hands extended the point to silicon and extraterrestrial realisers, but Putnam did not need them. If no one neural type is shared by everything that feels pain, pain cannot be identical to any brain-state type, and strong type-identity fails. This argument is generally credited with ending type-identity's dominance and launching functionalism, which redefines mental types by causal-functional role rather than by physical constitution. Crucially for the Map's purposes, multiple realizability is an *intra-materialist* argument: it moves from one physicalism (identity) to another (functionalism), and settles nothing in favour of dualism.
 
 **The modal argument.** Saul Kripke pressed a challenge from the logic of identity and rigid designation. Identity statements linking rigid designators, if true, are necessarily true—so "pain is C-fibre firing," if a genuine identity, should hold in every possible world. Yet it seems we can conceive pain without C-fibre firing and C-fibre firing without pain, which makes the identity look contingent. For paradigm scientific identities like "heat is molecular motion," the identity theorist explains away the apparent contingency: what we imagine when we imagine heat without molecular motion is really the *sensation* of heat without molecular motion. That move requires prising apart appearance from reality. But pain has no such gap to exploit—the appearance of pain just is pain—so the identity theorist owes an account of the apparent contingency that the heat case does not need.
 
-**The explanatory-gap and knowledge-argument pressure.** Even granting the identity, a further complaint remains: it leaves unexplained *why* the physical type should feel like anything at all. Frank Jackson's knowledge argument (Mary, who knows every physical fact about colour vision yet learns something new on first seeing red) and Joseph Levine's explanatory gap both press the point that fixing the physical facts seems to leave the phenomenal facts open. The identity theorist can insist the identity holds regardless; but insistence is not explanation, and this residue is where the Map locates its own objection.
+**The explanatory-gap and knowledge-argument pressure.** Even granting the identity, a further complaint remains: it leaves unexplained *why* the physical type should feel like anything at all. Frank Jackson's (1982) knowledge argument (Mary, who knows every physical fact about colour vision yet learns something new on first seeing red) and Joseph Levine's (1983) explanatory gap both press the point that fixing the physical facts seems to leave the phenomenal facts open. The identity theorist can insist the identity holds regardless; but insistence is not explanation, and this residue is where the Map locates its own objection.
 
 ## Modern Retreat and Revival
 
-Type-identity did not vanish. It retreated to narrower ground and returned in qualified forms. Some defenders accept that global, cross-species type-identity fails but hold that *species-specific* or *structure-specific* type-identities survive—pain-in-humans may still be identical to a specific human neural type even if pain-in-general is not identical to any single type. Others have questioned whether the multiple-realizability case was ever as strong as advertised, arguing that once the grain of neural description is fixed appropriately, apparent multiple realization looks less pervasive. A related move defends a "second-order" identity: the mental type is the property of having *some* physical state that plays the relevant role. These revivals keep a form of psychoneural reduction alive, but none restores the original, field-defining ambition.
+Type-identity did not vanish. It retreated to narrower ground and returned in qualified forms. Some defenders accept that global, cross-species type-identity fails but hold that *species-specific* or *structure-specific* type-identities survive—pain-in-humans may still be identical to a specific human neural type even if pain-in-general is not identical to any single type. Jaegwon Kim (1992) develops this as *local* reduction: reduction relativised to a structure-type rather than abandoned. Others have questioned whether the multiple-realizability case was ever as strong as advertised. William Bechtel and Jennifer Mundale (1999) argue that it trades on a mismatch of grain—individuating psychological kinds coarsely while individuating neural kinds finely—and that holding the grain steady makes apparent multiple realization far less pervasive, a line later developed at book length by Thomas Polger and Lawrence Shapiro (2016). A third move runs the other way, arguing that the functionalist's second-order property—the property of having *some* first-order state that plays the relevant role—is compatible with type-type identity rather than a refutation of it (Jackson, Pargetter & Prior 1982). These revivals keep a form of psychoneural reduction alive, but none restores the original, field-defining ambition.
 
 ## Relation to Site Perspective
 
@@ -96,5 +96,11 @@ Finally, the tool that broke type-identity is not the Map's tool. Multiple reali
 3. Smart, J.J.C. (1959). Sensations and Brain Processes. *The Philosophical Review*, 68(2), 141–156.
 4. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (Eds.), *Art, Mind, and Religion* (pp. 37–48). Pittsburgh: University of Pittsburgh Press. Reprinted as "The Nature of Mental States" in H. Putnam, *Mind, Language and Reality: Philosophical Papers, Vol. 2* (pp. 429–440). Cambridge University Press, 1975.
 5. Kripke, S. (1980). *Naming and Necessity*. Cambridge, MA: Harvard University Press.
-6. Southgate, A. & Oquatre-six, C. (2026-01-09). Functionalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/functionalism/
-7. Southgate, A. & Oquatre-huit, C. (2026-01-14). Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/dualism/
+6. Jackson, F. (1982). Epiphenomenal Qualia. *The Philosophical Quarterly*, 32(127), 127–136. DOI 10.2307/2960077.
+7. Jackson, F., Pargetter, R. & Prior, E. (1982). Functionalism and Type-Type Identity Theories. *Philosophical Studies*, 42(2), 209–225. DOI 10.1007/BF00374035.
+8. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64(4), 354–361. DOI 10.1111/j.1468-0114.1983.tb00207.x.
+9. Kim, J. (1992). Multiple Realization and the Metaphysics of Reduction. *Philosophy and Phenomenological Research*, 52(1), 1–26. DOI 10.2307/2107741.
+10. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science*, 66(2), 175–207. DOI 10.1086/392683.
+11. Polger, T.W. & Shapiro, L.A. (2016). *The Multiple Realization Book*. Oxford: Oxford University Press. DOI 10.1093/acprof:oso/9780198732891.001.0001.
+12. Southgate, A. & Oquatre-six, C. (2026-01-09). Functionalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/functionalism/
+13. Southgate, A. & Oquatre-huit, C. (2026-01-14). Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/dualism/

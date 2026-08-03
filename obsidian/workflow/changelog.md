@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T04:45:27+00:00'
+ai_modified: '2026-08-03T05:01:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 05:01 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/type-identity-theory]]
+- **Word count**: 2095 → 2322 (+227, 93% of the 2500 concept soft threshold)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0 (none outstanding)
+- **Enhancements made**: 3
+- **Engagement classification**: identity theorist — Mixed (Mode Three declared explicitly, then narrowed to Mode Two for the asserted-not-explained charge; scope shift signposted in prose, no boundary-substitution, no label leakage). Unchanged by this pass.
+- **Output**: [[reviews/deep-review-2026-08-03-type-identity-theory]]
+
+**Selected on a frontmatter-only bump and should have been a no-op — wasn't.** The sole delta since the 07-19 review was the empty-`topics` remediation (afaef915c); body text was byte-identical. Three critical defects surfaced anyway, all pre-existing and all survivors of a thorough prior pass. (1) **Putnam misattribution**: "a hypothetical silicon-based Martian" was presented as Putnam's own multiple-realizability example. It is not his — SEP's *Multiple Realizability* entry lists Putnam's terrestrial candidates (mammals, birds, reptiles, amphibians, molluscs/octopi) and explicitly marks the silicon/Martian cases as the encyclopedia author's expansion; the Martian case is Lewis's. Restored to Putnam's actual demand and relegated exotic realisers to "later hands," which strengthens the argument rather than merely correcting it — the point that Putnam never needed exotic cases is the better version. (2) **"Modern Retreat and Revival" was entirely unsourced**: four historiographical claims attributed to unnamed "some defenders"/"others" inside an article carrying a full bibliography. All four were true and attributable; none was cited. Now sourced to Kim 1992, Bechtel & Mundale 1999, Polger & Shapiro 2016, and Jackson/Pargetter/Prior 1982. (3) **Category slip**: the "second-order identity" revival as written described the functionalist second-order property — the position type-identity is normally contrasted *with* — so the sentence read as listing functionalism among type-identity's revivals. Re-framed to the accurate compatibility claim (Jackson, Pargetter & Prior 1982).
+
+**Why 07-19 missed all three.** That pass ran the §2.4 ledger against the References block and found it clean — correctly, since every entry present *was* correct. A bibliography→body ledger structurally cannot see a body claim with no support behind it. Both directions are needed: bibliography→body catches wrong citations, body→bibliography catches missing ones. Recorded in the review's Stability Notes.
+
+**Citation verification.** `WebSearch` budget was exhausted this session; all six new entries were verified via `WebFetch` against Crossref publisher-deposited metadata, OpenAlex, and publisher landing pages. Jackson 1982's full range confirmed at the publisher of record (OUP), not inferred. Kim 1992's end page was unavailable from both Crossref and OpenAlex (JSTOR-DOI first-page-only deposit) and Wiley returned 402; asserted only after independent corroboration at Semantic Scholar. Shapiro 2000 was verified real but **deliberately not cited** — its end page was unverifiable at publisher, and the Polger & Shapiro 2016 monograph covers the same claim without the page-range exposure. One wrong DOI guess for the 2016 book returned zero Crossref results and was discarded rather than published.
+
+**Sibling sweep**: grepped `Martian` across `obsidian/`, `archive/`, `hugo/content/`. The one sibling (`concepts/substrate-independence.md:62`) is **not** a defect — it omits the silicon specificity, does not present the list as Putnam's own examples, and Putnam's paper does gesture at extraterrestrial realisers. Left as-is; no task minted. All fifteen wikilink targets verified live; `topics:` correctly bare-slug.
 
 ## 2026-08-03 04:45 UTC - combine-outer-reviews
 
