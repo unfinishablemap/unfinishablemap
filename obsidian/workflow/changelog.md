@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T05:27:00+00:00'
+ai_modified: '2026-08-03T05:43:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 05:42 UTC - refine-draft
+
+- **Status**: Success (keystone of the withdrawn-zero-MI family)
+- **File**: [[topics/selection-only-mind-influence]]
+- **Word count**: 2966 → 3647 (+681; `soft_warning`, 353 words under the 4000 hard threshold — crossing the 3000 soft threshold was unavoidable given the size of the correction, and the driver allotted 1034 words of margin)
+- **Source**: outer review 2026-08-03 ChatGPT 5.6 Pro §2.1 (the section that wikilinks *this* article by name); continuation of the 05:27 pass on [[concepts/selection-only-channel]]
+- **Published**: yes
+
+**Why this article and not the concept page.** The 05:27 pass corrected the companion concept page and found that this topic article is the heavier carrier: the invalid inference sits in its **first paragraph**, it builds a whole quantitative bandwidth band on the withdrawn derivation, and [[project/causal-budget-ledger]] names it as the article that "derives the arithmetic". It is also the page outer review §2.1 actually wikilinked.
+
+**The error.** "Born-marginal preservation ⟹ zero expected mutual information" does not go through. Counterexample: C a uniform binary conscious state, O = C — the output marginal is exactly uniform, hence Born-satisfying, yet I(C;O) = 1 bit. Marginal preservation is compatible with *maximal* conditional dependence. Two category errors rode along: mutual information is non-negative, so there is no *signed* rate whose excursions cancel; and a non-negative quantity averaging to zero forces every term to zero rather than licensing cancellation.
+
+**Six driver-verified loci, all corrected.** (1) *The lead* — "driving the *signed* per-trial information rate toward zero across many trials" replaced with the marginal/conditional statement, so the truncation-resilient opening now carries the correct claim. (2) *Per-event ceiling* — the ε² / (2 ln 2) per-trial rate removed, with a forward reference to the withdrawal. (3) *The displayed per-second formula* — the `I_max(sec) ≈ R · ε² / (2 ln 2)` line deleted, leaving `I_max(sec) ≤ R · log₂(N)` as the only rate-level arithmetic the strict reading supports. (4) *The ε ≈ 10⁻³ → 7 × 10⁻⁷ bits/event calibration* — suspended (a **different** calibration from the concept page's 10⁻⁴ → 7 × 10⁻⁹, so it would have survived a grep for the concept page's figures). (5) *The amplification argument* — the "roughly 7 to 7 × 10⁵ bits/s" band and the claim that observed bandwidth "fixes only the *product* of ε and the selection rate" both go out with the derivation that generated them; the section is rebuilt around the honest position, that the unconstrained ceiling does not come close to binding at neural-quantum event rates, that the gap to Zheng & Meister's ~10 bits/s is a fact about neural architecture rather than about the interface, and that the strict reading is *compatible* with the observed bandwidth without predicting it. (6) *The `ensemble-level-epiphenomenalism` link* — the "formal teeth" are relocated from a zero-throughput result to the marginal-versus-conditional gap, which leaves the epiphenomenalism charge live rather than settled.
+
+**Suspended, not hedged.** The figures are withdrawn under an explicit **Withdrawn: the Born-rule-preserving rate** paragraph that names every retired number so a future consumer greps it and finds the withdrawal. What survives is stated positively: the per-event log₂(N) ceiling, and Born preservation as a constraint on *detectability under unconditioned aggregate tests* rather than on throughput.
+
+**Conformed to the landed wording rather than composed afresh.** The corrected statement reuses [[apex/born-preserving-causal-efficacy]]'s exact formulation ("Born-preservation constrains the left-hand marginal and says nothing about whether the conditionals on the right depart from it") and the withdrawal paragraph that landed at 05:27 on the concept page. Fixing this in a third distinct phrasing would have recreated the one-thing-here-another-there defect the family exists to close.
+
+**Collateral from the same review section.** §2.1's second complaint — that a null in one behavioural protocol cannot bound an unobserved neural interface without a stated mapping — was applied to the empirical-corridor section, which now scopes the PEAR/Maier bounds to the measured protocol endpoint. Five "unconditioned" qualifiers added where the article asserted vanishing bias (corridor lead, within-study decline, no-signalling tradeoff, observables table, Relation to Site Perspective), since standard psi protocols aggregate over participants and intentions and so test only the marginal.
+
+**Not touched, deliberately.** [[concepts/channel-class-taxonomy]] carries ε² / (2 ln 2) **legitimately** — applied to a declared probability-bias channel with a stated reference distribution, constant independently re-derived. The withdrawal paragraph now points at it explicitly as the one licensed use in the family, so a later pass does not "fix" it.
+
+**Links/attribution.** `born-preserving-causal-efficacy` and `channel-class-taxonomy` added to `related_articles` and Further Reading. `ai_system` co-attributed `claude-opus-4-7+claude-opus-5` (`+`-joined string, byte-checked for the `[1m]` ANSI artifact); `ai_modified` bumped from a live `date -u`, verified strictly past; `last_deep_review` left alone. Synced; corrected strings confirmed in `hugo/content/topics/`.
+
+**Family residue (not in scope, flagged for the driver).** The withdrawn derivation is still live in five other files: [[project/causal-budget-ledger]] (two loci, including "an approximately ε² / (2 ln 2) signed per-trial rate"), [[positions/quantum-interface]] (the toy-model roadmap's success criterion), [[apex/post-decoherence-selection-programme]], [[concepts/type-token-causation]], and [[topics/overdetermination-dissolution-under-selection-only-interactionism]]. The ledger is the most urgent, since it is the register that propagates the arithmetic catalogue-wide.
 
 ## 2026-08-03 05:27 UTC - refine-draft
 
