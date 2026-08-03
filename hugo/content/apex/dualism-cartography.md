@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-08-03 10:25:19+00:00
+ai_modified: 2026-08-03 20:53:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-08-03 10:25:19+00:00
+lastmod: 2026-08-03 20:53:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ Three patterns fall out of the inventory. The conservation objection that has dr
 
 The inventory invites a tempting shortcut: read the itemisation as a ranking, let parsimony select the cell with the fewest entries, and declare the Map's position the winner on simplicity. The cluster refuses that shortcut twice over. It fails first on the inventory's own terms—there is no scale on which lists of unlike items could be totalled and compared—and it would fail on the substance even if a scale existed.
 
-The [parsimony reasoning](/topics/parsimony-case-for-interactionist-dualism/) runs in two stages, neither of which converts simplicity into truth. First, *defensively*, parsimony's authority in the consciousness debate was never established. Huemer's survey of four justifications for preferring simpler theories found that none extends naturally to metaphysical disputes lacking differential predictions; the historical record (Mach denying atoms, geocentrism, caloric theory) shows the simpler theory was often the false one; and parsimony's own advocates have qualified the argument—Lycan (2009), a committed materialist of over forty years who concludes that dualism should nonetheless be rejected, admits of it that "there is no evidence against that view; it only offends parsimony." Second, *dialectically*, even granting the objector that simplicity matters, the verdict does not come out as advertised: physicalism's ontological economy is purchased with explanatory debts (brute emergence, error theory about experience, or in-principle inaccessibility), so once every dimension of simplicity is counted, the razor stops pointing cleanly at physicalism and arguably tilts the other way.
+The [parsimony reasoning](/topics/parsimony-case-for-interactionist-dualism/) runs in two stages, neither of which converts simplicity into truth. First, *defensively*, parsimony's authority in the consciousness debate was never established. Huemer's survey of four justifications for preferring simpler theories found that none extends naturally to metaphysical disputes lacking differential predictions; Zanotti (2021) presses the burden back onto the parsimony *appeal* itself—the physicalist who invokes simplicity owes an account of why simplicity carries epistemic value in metaphysics, and the most promising candidate, modesty, does not favour physicalism over dualism; the historical record (Mach denying atoms, geocentrism, caloric theory) shows the simpler theory was often the false one; and parsimony's own advocates have qualified the argument—Lycan (2009), a committed materialist of over forty years who concludes that dualism should nonetheless be rejected, admits of it that "there is no evidence against that view; it only offends parsimony." Second, *dialectically*, even granting the objector that simplicity matters, the verdict does not come out as advertised: physicalism's ontological economy is purchased with explanatory debts (brute emergence, error theory about experience, or in-principle inaccessibility), so once every dimension of simplicity is counted, the razor stops pointing cleanly at physicalism and arguably tilts the other way.
 
 The Map does not endorse *simpler-therefore-truer* in either direction. Its fifth tenet—[Occam's Razor Has Limits](/tenets/#occams-limits)—holds that parsimony is not a reliable guide to truth where knowledge is this incomplete, and that the self-binding applies to parsimony arguments *for* dualism exactly as to those *against* it. Earlier versions of this atlas summarised the Map's self-location as paying "the *least mechanism cost compatible with its tenets*." That formulation is withdrawn. It was internal bookkeeping presented as a result: it totalled costs on a scale the inventory never supplied, and it balanced the books before the two items charging the Map's own cell had been entered. What survives is weaker and checkable—the tenets forbid Q2 strict and permit both Q1 and Q4, and within the permitted region the Map's cell is itemised on the same battery as every other, including on the Born-indistinguishability and global-exclusion items no rival cell is charged. Parsimony operates *within* the region the tenets carve out, not as a universal preference for thinness, and Q4 inhabitants (Descartes, Stapp, Goff) are not automatic losers—they lose only when a specific explanatory task fails to justify the extra weight.
 
@@ -209,6 +209,5 @@ This synthesis draws together:
 14. Stacey, B. C. (2022, rev. 2023). "Masanes-Galley-Müller and the State-Update Postulate." https://arxiv.org/abs/2211.03299
 15. Stapp, H. P. (2005). "Quantum Interactive Dualism: An Alternative to Materialism." *Journal of Consciousness Studies* 12(11): 43–58. Reprinted in *Zygon* 41(3), 2006. https://www-physics.lbl.gov/~stapp/QID.pdf
 16. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.
-17. Tegmark, M. (2000). "Importance of Quantum Decoherence in Brain Processes." *Physical Review E* 61: 4194–4206. https://arxiv.org/abs/quant-ph/9907009
-18. Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109–11132.
-19. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2): 192–204.
+17. Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109–11132.
+18. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2): 192–204.
