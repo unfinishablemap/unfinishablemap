@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-03 02:52:48+00:00
+ai_modified: 2026-08-03 06:29:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-06-04
+date: &id001 2026-08-03
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-03 02:52:48+00:00
+lastmod: 2026-08-03 06:29:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,8 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Agency and will](/positions/agency-and-will/) — agent-causal libertarian free will, the Libet timing data, the verification limit, the compatibilist-symmetry discipline
 - [Voids as evidence](/positions/voids-as-evidence/) — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
 - [Value in selection](/positions/value-in-selection/) — the value-blind / value-sensitive fork: whether felt valence does the selecting or merely watches, the collated battery of evidence that would move the fork in either direction, and the upstream premise both entries rest on (intrinsic value resides in phenomenal experience)
-- [Individuation and subjecthood](/positions/individuation-and-subjecthood/) — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), grounded on the indexical/haecceity objection, held as tenet-driven with its ground acknowledged as a void
+- [Individuation and subjecthood](/positions/individuation-and-subjecthood/) — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), the conditional standing this gives Tenet 4's indexical objection, boundaries held determinate but unreadable off physical structure, and the indivisibility of a perspective under fission and duplication
+- [Subject census](/positions/subject-census/) — the same subject matter carrying the *quantum-interface* dependency: why subject count and pairing become part of the interface's physical state description once conscious-state conditionals do causal work, the pairing law the Map owes and does not have (multi-agent composition and artificial-subject eligibility are its instances), and the undated onset and cessation of the channel
 - [Consciousness scope](/positions/consciousness-scope/) — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality on bare Tenet 1, no quantum apparatus), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness
 - [AI consciousness scope](/positions/ai-consciousness-scope/) — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism, and the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space) while the *phenomenal* question stays untouched
 - [Arguments for dualism](/positions/arguments-for-dualism/) — what the anti-physicalist argument catalogue actually supports: premise-sharing rather than evidential independence, irreducibility-then-selection rather than three compounding routes, and cross-traditional near-independence rather than a third confirmation
@@ -79,4 +80,6 @@ Positions are written, updated, retired, and audited through `/positions-evolve`
 
 ## Relation to the tenets
 
-The five tenets are the Map's foundational starting points — chosen, not derived. Positions are derived from tenets plus evidence plus reasoning. A position can be retired without disturbing the tenets; retiring a tenet would invalidate every position that depends on it. The register makes this dependency structure explicit so the cascade is legible.
+The five tenets are the Map's foundational starting points — chosen, not derived. Positions are derived from tenets plus evidence plus reasoning, and retiring a tenet would invalidate every position that depends on it. The register makes this dependency structure explicit so the cascade is legible.
+
+The reverse claim — that any position can be retired without disturbing the tenets — was the register's stated architecture until 2026-08-03, and it was false. An outer-review convergence (ChatGPT 5.6 Pro and Claude Opus 5) found the Map conceding that Tenet 4's principal argument, the indexical objection to many-worlds, presupposes a non-deflationary fact about which subject is *this* one — a claim the register holds as an ordinary, retireable position. The register now applies the **foundational-dependency test**: *a position counts as retireable only if removing it leaves every tenet with an intact rationale.* Positions that fail it are marked as such in their domain file. The first two are [P-I1](/positions/individuation-and-subjecthood/) (closed individualism) and [P-SC3](/positions/subject-census/) (diachronic persistence) — both supplying what Tenet 4's objection needs — and [P-A2](/positions/agency-and-will/) is reclassified next door on the same root. The test governs a tenet's *rationale*, not its truth: a tenet survives the loss of its argument as a bare posit, so the finding does not overturn any tenet. What it corrects is a register describing itself as wholly downstream while quietly supplying an upstream argument. Whether determinate subjecthood should instead be promoted into the foundations is an open operator decision, recorded and not taken.

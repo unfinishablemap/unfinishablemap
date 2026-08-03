@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T06:01:07+00:00'
+ai_modified: '2026-08-03T06:31:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-03 06:31 UTC - positions-evolve
+
+- **Status**: Success
+- **Files**: [[positions/individuation-and-subjecthood]] (+3 positions, 708 → 2482 words, `soft_warning`), **new** [[positions/subject-census]] (1651 words, `soft_warning`), [[positions/positions]] (register architecture correction)
+- **Mode**: add (six positions) + update (P-I1 reclassified) + domain split
+- **Published**: yes (synced; both live in `hugo/content/positions/`)
+
+**Cluster C3 of the 2026-08-03 outer-review synthesis, 2/3 convergent, upgraded P2 → P1.** The register held one principal position (P-I1) while Tenet 4's indexical objection, the AI-copy verdicts and the interface model all leaned on a determinate account of subjects.
+
+- **The dependency inversion (§1.3).** Of the reviewer's three resolutions, only the second is executable from inside the register, and it is now **P-I2: Tenet 4 is stated unconditionally but argued conditionally**. The tenet stands as a chosen starting point and survives the loss of its argument as a bare posit; what varies with the individuation theory is the strength of the case offered for it. Two consequences booked: the subsidiary ontological-extravagance objection cannot take up the slack (Tenet 5 binds it to a registered cost), so there is no second independent leg; and Claude Opus 5's stronger reading — Tenet 4 as a corollary of the theory of subjecthood — is registered as available on the Map's own concessions and **unrefuted**, while not adopted (Tenet 4 also carries the single-outcome-actualisation posit, which is no subjecthood claim).
+- **The foundational-dependency test, adopted register-wide.** *A position counts as retireable only if removing it leaves every tenet with an intact rationale.* Applied: **P-I1 fails** (retiring it leaves the indexical objection nothing to discriminate among); **P-SC3 fails on its persistence half** (the objection concerns which *future* subject is me); P-I2, P-I3, P-I4, P-SC1, P-SC2 pass. The test's limit is stated with it — it governs a tenet's *rationale*, not its truth, so no tenet is overturned. `positions.md` "Relation to the tenets" was rewritten: the claim that any position is retireable without disturbing the tenets was the register's stated architecture and was false.
+- **The subject census (§1.2), split into its own domain.** `positions/subject-census.md` holds **P-SC1** (once the interface writes *P(O | C, X)*, subject count and pairing are part of the physical state description, and the census leaves no statistical trace because P-Q2 preserves Born statistics exactly — indistinguishable *by construction*), **P-SC2** (the pairing law the Map owes and does not have, a P-Q10-shaped debt booking four gaps: pairing, multi-agent composition, artefact eligibility, onset/cessation), and **P-SC3** (persistence across interface interruption; the channel's onset and cessation undated, because markers date *phenomenality* and not *pairing*). Split rather than condensed per the skill: same subject matter, different dependency burden — the census entries inherit the quantum-interface register and the individuation entries do not, the `consciousness-scope` / `ai-consciousness-scope` precedent.
+- **The census items the reviewer listed, and where each landed.** Split brains and unreadable boundaries → **P-I3** (determinate but not readable off physical structure; the Map's split-brain agnosticism is *epistemic*, and the structural cost is stated: the model contains a variable held real and held inaccessible — the individuation void inside the physics). Fission, copies → **P-I4** (a perspective does not divide; the fission/branching asymmetry is real-division versus postulated-division, and the Deutsch-style objection is answered without claiming refutation). Pairing, multi-agent conflict, artificial subjects → P-SC2. Temporal persistence, onset/cessation → P-SC3. **Fusion is the one item with no verdict** — the corpus treats fission and copying and says nothing determinate about two channels merging, registered inside P-I4 as a live hole rather than papered over.
+- **No confidence invented.** Every entry carries a full six-axis calibration in the *current* vocabulary (the skill doc still instructs on the retired single band and was not followed). Two entries use the `none` discriminability band added to the schema earlier today; P-SC1 uses `none-by-construction`; P-SC3 declares `model maturity: programme`, the honest reading of an account that does not exist.
+
+**Scope guard held.** No edit to `tenets/tenets.md`, `tenets/background-commitments.md`, or `arguments/many-worlds-argument.md`. The promotion option is recorded as a **NEEDS-HUMAN** operator decision, not taken.
+
+**Cascade queued (3 tasks, inserted *below* the running P1 so its line index did not shift):** P2 — apply the test to the four remaining domain files carrying the falsified boilerplate, with P-A2, P-MC1/P-MC2 and P-D2 named as candidates to *test* rather than assert; P3 — `apex/mereology-of-mind:85` asserts "no determinate fact about how a conscious whole partitions", which overshoots P-I1 and should take P-I3's epistemic reading; NEEDS-HUMAN — the promotion-into-the-foundations decision, with the fusion gap recorded against it.
+
+`progress.positions_written` 12 → 13.
 
 ## 2026-08-03 06:14 UTC - refine-draft
 

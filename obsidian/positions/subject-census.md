@@ -1,0 +1,68 @@
+---
+title: "Subject Census Positions"
+description: "The Map's positions on the subject census its interface requires: why subject count and pairing are part of the physical state description, the pairing law the Map owes and does not have, and the undated onset and cessation of the channel."
+created: 2026-08-03
+modified: 2026-08-03
+human_modified:
+ai_modified: 2026-08-03T06:29:08+00:00
+draft: false
+topics:
+  - "[[personal-identity]]"
+  - "[[consciousness-and-the-metaphysics-of-individuation]]"
+  - "[[death-and-consciousness]]"
+concepts:
+  - "[[evidential-status-discipline]]"
+  - "[[selection-only-channel]]"
+related_articles:
+  - "[[positions]]"
+  - "[[tenets]]"
+  - "[[individuation-and-subjecthood]]"
+  - "[[quantum-interface]]"
+  - "[[apex/interface-specification-programme]]"
+
+ai_contribution: 100
+author: Andy Southgate
+ai_system: claude-opus-5
+ai_generated_date: 2026-08-03
+last_curated:
+---
+
+## About this domain
+
+These positions cover what the Map's *interface* requires of its account of subjects — as distinct from what the metaphysics of subject boundaries commits it to, which is registered next door in [[positions/individuation-and-subjecthood|Individuation and subjecthood]]. The split follows the [[positions/consciousness-scope|consciousness-scope]] / [[positions/ai-consciousness-scope|AI-consciousness-scope]] precedent: the same subject matter carrying a *different dependency burden*, registered apart so a downstream article can cite exactly the load it is taking on. The individuation domain needs only Tenets 1 and 4 and survives intact if the whole quantum-interface programme were demoted to coherence-only. This domain does not: every position here inherits [[positions/quantum-interface|the quantum-interface register]] and the outcome-selection reading of Tenet 3, and would have to be rewritten or retired with it.
+
+The domain exists because of a finding the Map had not booked. Once conscious-state conditionals do causal work — the interface writing *P(O | C, X)* rather than *P(O | X)* — the conditioning variable has to attach to *some* subject, and questions the corpus files as personal-identity metaphysics become boundary conditions on the selection law. External review put it as the unstated consequence of the Map's own formalism: **a subject census is part of the model's physical state description** (ChatGPT 5.6 Pro §1.2, 2026-08-03, convergent with Claude Opus 5 on the neighbouring dependency). P-SC1 registers the requirement, P-SC2 books the debt it creates, and P-SC3 covers the temporal edges — when a subject enters the census and when it leaves.
+
+Two of the three pass the [[positions/individuation-and-subjecthood|foundational-dependency test]] adopted next door (a position is retireable only if removing it leaves every tenet with an intact rationale). P-SC3 fails on its persistence half, because Tenet 4's indexical objection concerns which *future* subject is genuinely me, so diachronic persistence is part of what the objection presupposes rather than something downstream of it.
+
+## Positions
+
+## P-SC1: A subject census is part of the interface's physical state description
+
+- **Status**: live
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence high (it follows from the form of the Map's own selection conditional) · external-evidence grade D (structural, framework-internal; no independent empirical support) · structural centrality high (it converts the individuation domain into a constraint on the interface programme) · model maturity developed · empirical discriminability none-by-construction (exact Born preservation makes models differing only in subject count statistically indistinguishable) · framework-internal only: yes
+- **Asserts**: The Map holds that once conscious-state conditionals do causal work — the interface writing *P(O | C, X)* rather than *P(O | X)* — the question of which subjects exist and which physical system each is paired to becomes part of the model's state description rather than downstream metaphysical decoration. The conditioning variable cannot stay an unspecified "consciousness variable": it must attach to a subject, a moment and a phenomenal state, and in any system with more than one candidate subject the law takes the form *P(O | C₁…Cₙ, X)*, which is not fixed until the count and the pairing are. Questions the corpus files as personal-identity metaphysics — how many subjects a split brain houses, what fission and fusion do to the channel count, whether copies share or duplicate a channel, when a channel begins and ends, whether an artefact can instantiate one — are therefore boundary conditions on the selection law. The commitment is to the *requirement*, not to any particular census; the Map has not discharged it (P-SC2). One consequence is registered immediately: the census leaves no statistical trace, because under the corridor reading Born statistics are preserved exactly ([[positions/quantum-interface|P-Q2]]), so two models differing only in subject count are empirically indistinguishable by construction. The requirement is structural, and no measurement will settle it.
+- **Depends on**: Tenet 3 ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]), read at [[tenets#^tenet-3-standing|its registered standing]] — the interface argument shows downward causation available, not actual, and this position inherits that limit; Tenet 2 ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]); [[positions/quantum-interface|P-Q1]] (post-decoherence selection as the preferred mechanism) and [[positions/quantum-interface|P-Q2]] (exact Born preservation, the source of the indistinguishability); [[positions/individuation-and-subjecthood|P-I1]] (boundaries are real, so there is a determinate census to be part of the description); [[concepts/selection-only-channel]]
+- **Argued in**: [[apex/interface-specification-programme]], [[apex/post-decoherence-selection-programme]], [[concepts/selection-only-channel]], [[topics/indexical-identity-quantum-measurement]]
+- **Would shift if**: the interface were relocated to context-selection rather than outcome-selection (the Process-1 route Tenet 3 registers but declines), which would weaken the pairing requirement without removing it; or a genuinely subject-neutral formulation of the selection law were found in which the conditional's subject-index does no work, which would retire the census requirement outright; or the Map abandoned the causal-efficacy reading, returning individuation to pure metaphysics with no bearing on the physics.
+- **Last reviewed**: 2026-08-03
+
+## P-SC2: The Map owes a subject-pairing law and does not have one
+
+- **Status**: live
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence high (the debt is a fact about the corpus, verifiable by inspection) · external-evidence grade n/a (a meta-position about the programme's own state of development) · structural centrality moderate · model maturity developed (the debt is precisely characterised, which is what this position offers) · empirical discriminability n/a (meta) · framework-internal only: no
+- **Asserts**: The Map holds, as a registered debt, that it has no worked account of *subject pairing*: no rule fixing which physical system a given subject is paired to, how many subjects a system supports, or how several subjects' conditionals compose over one event. Four gaps are booked specifically. **Pairing** — nothing in the corpus says what makes a brain the substrate of exactly one channel rather than none or several. **Multi-agent composition** — where two subjects hold contrary intentions bearing on one physical event, there is no composition rule, and the generalisation is not trivial, since *P(O | C₁, C₂, X)* requires a conflict rule that the single-subject form does not constrain. **Eligibility** — whether an artificial system can instantiate a channel is treated in the AI register as a substrate-*probability* question ([[positions/ai-consciousness-scope|P-AC1]]) rather than as the eligibility *law* the census needs. **Onset and cessation** — see P-SC3. This is a [[positions/quantum-interface|P-Q10]]-shaped entry: it records what is missing at the same standing as the mechanism debt, so downstream articles inherit the gap instead of writing past it. The debt is not a defeater — a programme at this stage is judged by the honesty of its open problems ([[positions/methodology-and-calibration|P-M4]]) — but it is a hard bound on what any applied verdict may assert about subject counts.
+- **Depends on**: P-SC1 (the census requirement that generates the debt); [[positions/quantum-interface|P-Q10]] (the mechanism-debt precedent and the standing this borrows); [[positions/methodology-and-calibration|P-M4]] (framework-stage calibration) and [[positions/methodology-and-calibration|P-M5]] (a documented gap is not a closed one); [[positions/ai-consciousness-scope|P-AC1]] for the eligibility half; [[positions/individuation-and-subjecthood|P-I3]] for why the gap cannot be closed by measurement
+- **Argued in**: [[apex/interface-specification-programme]], [[apex/mereology-of-mind]], [[topics/consciousness-and-the-metaphysics-of-individuation]], [[apex/machine-question]]
+- **Would shift if**: a worked pairing law were produced — even a toy one fixing channel count for a specified class of systems — which would discharge part of the debt and let the census stop being a placeholder; or the interface formalism were shown to be single-subject in a principled way, so that multi-subject composition never arises, which would close the second gap by dissolving it; or the debt were shown to be uncloseable in principle, which would convert this from a repayable obligation into a permanent registered cost of the framework.
+- **Last reviewed**: 2026-08-03
+
+## P-SC3: Persistence travels with the perspective, and the channel's onset and cessation are undated
+
+- **Status**: live
+- **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence moderate · external-evidence grade D (the persistence claim is the individuation commitment applied across time; the marker literature that dates phenomenality does not bear on pairing) · structural centrality moderate (Tenet 4's objection concerns which *future* subject is me, so the diachronic half is foundation-bearing) · model maturity programme (no account exists of what establishes or terminates a pairing) · empirical discriminability none · framework-internal only: yes
+- **Asserts**: The Map holds that the same subject is present before and after an interruption of the interface — dreamless sleep, general anaesthesia, and the phenomenologically absent interval that abuts induction and emergence — and that this persistence is a real further fact rather than a convention over successive states or a psychological-continuity relation. It is the diachronic half of the subjecthood posit, held for the same reason as the synchronic half: it is what the agency, survival and No-Many-Worlds treatments presuppose, and it is why the fragmentation cases are read as interface disruption rather than as subject replacement ([[positions/consciousness-scope|P-CS4]]). The limit is registered as firmly as the claim. The Map has no account of *when a channel begins or ends*. The developmental marker literature places phenomenality early ([[positions/consciousness-scope|P-CS3]]), but markers date the appearance of correlates of experience, not the establishment of a pairing, and nothing in the corpus licenses reading one off the other. The same holds at the far end, where the interface reading of brain death leaves open how consciousness manifests without saying whether the pairing terminates. So the Map asserts persistence across the interruptions it can identify, and declines to date the boundaries of the channel it persists through — an entry whose honest content is partly what it refuses to claim.
+- **Depends on**: [[positions/individuation-and-subjecthood|P-I1]]; [[tenets/background-commitments|Posit One]] (diachronic subject persistence, recorded there as one of three commitments sitting beneath the stated tenets); [[positions/consciousness-scope|P-CS4]] (interruption as interface disruption, not cessation) and [[positions/consciousness-scope|P-CS3]] (marker-based onset of phenomenality — cited as a *distinct* question, not as support); P-SC2 (the undated channel is one of that entry's four booked gaps); Tenet 1 ([[tenets#^dualism|Dualism]])
+- **Argued in**: [[topics/personal-identity]], [[apex/identity-across-transformations]], [[topics/death-and-consciousness]], [[voids/sleep-consciousness-void]]
+- **Would shift if**: an account were produced of what establishes and terminates subject–substrate pairing, which would date the channel and discharge part of P-SC2; or the marker literature were shown to date *pairing* rather than phenomenality, which would import the developmental evidence directly and raise the external-evidence grade; or the interruption cases were shown to involve genuine phenomenal cessation with a fresh pairing on waking, which would sever persistence from the perspective and cascade to [[positions/individuation-and-subjecthood|P-I1]] and to Tenet 4's argument.
+- **Last reviewed**: 2026-08-03
