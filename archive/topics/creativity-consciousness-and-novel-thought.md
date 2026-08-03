@@ -4,7 +4,7 @@ description: "How consciousness enables creative thought through generation and 
 created: 2026-02-01
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-22T11:15:00+00:00
+ai_modified: 2026-08-03T15:43:26+00:00
 last_deep_review: 2026-02-05T06:02:00+00:00
 draft: false
 topics:
@@ -70,7 +70,7 @@ Research on [[conscious-vs-unconscious-processing|conscious versus unconscious p
 
 ### Durable Information Maintenance
 
-Novel combination requires holding multiple elements in mind simultaneously. Research on [[working-memory]] reveals substantial differences between species. While Miller's classic "7±2" estimate has been revised downward—Cowan (2010) suggests 3-4 items for focused attention—humans still maintain significantly more than the 2±1 items typical of chimpanzee working memory. Even the conservative estimate enables qualitatively different operations: with 3-4 items held stably, you can represent a goal alongside alternative approaches and their comparative merits.
+Novel combination requires holding multiple elements in mind simultaneously. Research on [[working-memory]] reveals substantial differences between species. While Miller's classic "7±2" estimate has been revised downward—Cowan (2010) suggests 3-4 items for focused attention—humans still maintain significantly more than the 2±1 items typical of chimpanzee working memory (Read, Manrique & Walker 2022). Even the conservative estimate enables qualitatively different operations: with 3-4 items held stably, you can represent a goal alongside alternative approaches and their comparative merits.
 
 Subliminal information decays within 500ms. Consciously accessed information persists for seconds to minutes. Creative combination requires the extended manipulation that only durable maintenance permits. You cannot combine elements that fade before combination completes.
 
@@ -336,6 +336,7 @@ Current evidence doesn't support any of these conditions.
 - Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+- Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.

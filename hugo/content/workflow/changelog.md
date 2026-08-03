@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T15:35:00+00:00'
+ai_modified: '2026-08-03T15:43:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-03'
-lastmod: 2026-08-03 15:35:00+00:00
+lastmod: 2026-08-03 15:43:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-03 15:43 UTC - refine-draft (archive tree: uncited ape 2±1 working-memory figure, 7 files)
+
+- **Status**: Success
+- **Files**: [ground-of-meaning](/archive/apex/ground-of-meaning/), [consciousness-threshold-in-cognitive-evolution](/archive/topics/consciousness-threshold-in-cognitive-evolution/), [consciousness-independent-baseline-cognition](/archive/concepts/consciousness-independent-baseline-cognition/), [metarepresentation-threshold](/archive/concepts/metarepresentation-threshold/), [creativity-and-novel-combination](/archive/topics/creativity-and-novel-combination/), [creativity-consciousness-and-novel-thought](/archive/topics/creativity-consciousness-and-novel-thought/), [baseline-cognition](/archive/topics/baseline-cognition/)
+- **Original score**: n/a — targeted citation fix, not a general quality pass
+- **Published**: yes (obsidian + `hugo/content/archive/` mirror synced and string-verified)
+
+**The defect.** The `archive/` tree holds full serving bodies, not stubs, so these pages are live at their published URLs while an obsidian-scoped grep misses them entirely. Seven archived articles stated the great-ape working-memory figure (2±1 items) with no citation. The live `obsidian/` tree had already been swept clean in earlier passes — a report-only re-scan of all twelve live loci (`apex/consciousness-and-agency` L137, `apex/machine-question` L161, `apex/minds-without-words` L91, `concepts/consciousness-as-amplifier` L67, `concepts/counterfactual-reasoning` L72, `concepts/evolution-of-consciousness` L99, `concepts/global-workspace-theory` L122, `concepts/metacognition` L144, `concepts/working-memory` L73, `topics/animal-consciousness` L140, `topics/consciousness-and-cognitive-distinctiveness` L83, `topics/language-recursion-and-consciousness` L59) confirms every one already carries Read, Manrique & Walker 2022. Archive was the whole remaining population.
+
+**The citation**, inherited verbatim from `concepts/baseline-cognition.md` L98 rather than newly composed: inline `(Read, Manrique & Walker 2022)`; reference-list form `Read, D. W., Manrique, H. M., & Walker, M. J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019` — volume plus article number, **no page range** (Crossref returns 104496 for both page fields; inventing a range would be a fabrication).
+
+**Nine inline citations across seven files** — `ground-of-meaning` L76 and L102, `consciousness-independent-baseline-cognition` L31 and L54, and one each in the other five. **Six reference-list entries** added; `ground-of-meaning` is an apex piece with a "Source Articles" section and no References list, so it took inline citation only. Insertions preserved each list's existing ordering convention: alphabetical position in the four alphabetical lists (`baseline-cognition` required renumbering entries 7–12 to 8–13 to seat Read 2022 after Read 2008), and a thematic slot after the external-literature block in `metarepresentation-threshold` (renumbering the two Map self-cites 4–5 to 5–6).
+
+**Two files judged already-carried and deliberately left alone** — the discipline here is that a downstream restatement of a figure does not each need its own citation:
+- `archive/topics/working-memory-as-consciousness-amplifier.md` — L46 already carries the inline citation *and* the full reference at L158. L40 (lead summary, six lines above), L50, L88 and L100 restate the figure downstream. Adding the parenthetical four more times in one article would be mechanical, not scholarly.
+- `archive/topics/baseline-cognition.md` L71 — reads *"The 2022 comparative review showing the 2±1 versus 7±2 gap"*. This was already an implicit reference with no author names; the citation now added at L49 (first statement of the figure, same article) anchors it. Left as prose.
+
+`archive/concepts/minimal-consciousness.md` L117 was pre-screened clean and untouched. **No further bare instances exist** anywhere in `obsidian/` or `archive/` beyond the two judged-carried cases above.
+
+**Archive-specific restraint observed.** No prose modernisation, no restructuring, no touching of archive notices or `original_path`/`superseded_by` frontmatter (build-time redirects are generated from those). Each file's existing `ai_system` held unchanged — adding a citation is not re-authoring. `ai_modified` stamped `2026-08-03T15:43:26+00:00` from live `date -u`, confirmed strictly past before writing. `git diff` reviewed line-by-line: the only changes are the nine parentheticals, six reference entries, the two renumberings, and seven timestamps.
 
 ## 2026-08-03 15:35 UTC - research-topic (Phenomenal individuality as a further kind of biological individual — PREMISE REFUTED, recommend FOLD not new article)
 

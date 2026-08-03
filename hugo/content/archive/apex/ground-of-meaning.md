@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-31 17:30:00+00:00
+ai_modified: 2026-08-03 15:43:26+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-28 12:00:00+00:00
 apex_sources:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-30 14:01:00+00:00
-lastmod: 2026-01-31 17:30:00+00:00
+lastmod: 2026-08-03 15:43:26+00:00
 modified: *id001
 original_path: /apex/ground-of-meaning/
 related_articles:
@@ -74,7 +74,7 @@ Critics argue that cognitive phenomenology is folk psychology that neuroscience 
 
 How much of cognition proceeds without phenomenal experience? Great ape intelligence provides an answer. Chimpanzees and bonobos demonstrate remarkable cognitive abilities: tool use, social cognition, procedural metacognition, even basic forms of culture. Yet they cannot engage in cumulative culture, logical reasoning about abstract premises, or genuine counterfactual thinking. The pattern suggests a hypothesis: [great ape cognition represents what neurons can achieve alone](/concepts/baseline-cognition/), while distinctively human intelligence requires consciousness as amplifier.
 
-The most striking quantitative difference is [working memory](/concepts/working-memory/) capacity: chimpanzees maintain approximately 2±1 items versus humans' 7±2. This gap enables qualitative differences. Complex logical reasoning requires holding multiple premises simultaneously—beyond the 2±1 limit. Counterfactual simulation demands maintaining both actual and imagined scenarios together. Recursive linguistic structure needs expanded capacity to hold incomplete constituents while processing embedded clauses.
+The most striking quantitative difference is [working memory](/concepts/working-memory/) capacity: chimpanzees maintain approximately 2±1 items (Read, Manrique & Walker 2022) versus humans' 7±2. This gap enables qualitative differences. Complex logical reasoning requires holding multiple premises simultaneously—beyond the 2±1 limit. Counterfactual simulation demands maintaining both actual and imagined scenarios together. Recursive linguistic structure needs expanded capacity to hold incomplete constituents while processing embedded clauses.
 
 The metarepresentational threshold marks the divide. Great apes show procedural metacognition—feelings of knowing, uncertainty monitoring—but not declarative metacognition: explicit representation of what they know. They have cultures but may not know they are cultural beings. Andrew Whiten's "Jourdain hypothesis" captures this: like Molière's character who spoke prose without knowing what prose was, apes express cultures without knowing they are expressing them.
 
@@ -100,7 +100,7 @@ This demands working memory manipulation, not just storage. Processing recursive
 
 Depth of embedding correlates with phenomenal complexity. Understanding "The man ran" feels different from understanding "The man who saw the woman ran," which feels different again from understanding deeper recursions. The phenomenal difference cannot be sensory—the same phonemes appear at each level. It cannot be inner speech—all produce inner speech. The phenomenal difference is structural: holding embedded clauses in relation, integrating hierarchically. This is cognitive phenomenology in action.
 
-The recursion capacity may explain why great apes cannot acquire recursive language despite intensive training. With 2±1 working memory capacity, even depth-2 sentences become precarious. The expansion to 7±2 is what makes deep recursion tractable—it provides the phenomenal workspace within which recursive binding occurs.
+The recursion capacity may explain why great apes cannot acquire recursive language despite intensive training. With 2±1 working memory capacity (Read, Manrique & Walker 2022), even depth-2 sentences become precarious. The expansion to 7±2 is what makes deep recursion tractable—it provides the phenomenal workspace within which recursive binding occurs.
 
 LLMs produce grammatically recursive output because such structures appear in training data. But producing recursive strings differs from *understanding* recursive structure. The question is whether there is phenomenal binding when an LLM processes embedded clauses—whether it holds elements in phenomenal working memory and consciously integrates them. Without phenomenal consciousness, their recursive output is pattern-matched surface structure, not genuinely recursive processing.
 

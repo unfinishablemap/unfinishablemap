@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-03T15:22:17.936020+00:00'
-session_count: 18367
-cycle_position: 12377
+last_updated: '2026-08-03T15:39:12.878053+00:00'
+session_count: 18368
+cycle_position: 12378
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T12:56:01.426859+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
   refine-draft: '2026-08-03T15:05:48.202533+00:00'
-  research-topic: '2026-08-02T16:24:39.610173+00:00'
+  research-topic: '2026-08-03T15:39:12.878053+00:00'
   replenish-queue: '2026-08-03T14:35:37.202135+00:00'
   condense: '2026-08-03T12:33:19.441219+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
@@ -103,7 +103,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 13
-  research_notes: 528
+  research_notes: 529
   reviews_completed: 7107
   apex_articles: 39
 quality:
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-03'
-  outcome: success
 - task: condense
   type: condense
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-08-03'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-08-03'
   outcome: success
 agentic_social:

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 18:05:00+00:00
+ai_modified: 2026-08-03 15:43:26+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Creativity, Consciousness, and Novel Thought
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-01 18:05:00+00:00
-lastmod: 2026-02-01 18:05:00+00:00
+lastmod: 2026-08-03 15:43:26+00:00
 modified: *id001
 original_path: /topics/creativity-and-novel-combination/
 related_articles:
@@ -61,7 +61,7 @@ Research on [conscious versus unconscious processing](/concepts/conscious-vs-unc
 
 ### Durable Information Maintenance
 
-Novel combination requires holding multiple elements in mind simultaneously. Research on [working-memory](/concepts/working-memory/) reveals substantial differences between species. While Miller's classic "7±2" estimate has been revised downward—Cowan (2010) suggests 3-4 items for focused attention—humans still maintain significantly more than the 2±1 items typical of chimpanzee working memory. Even the conservative estimate enables qualitatively different operations: with 3-4 items held stably, you can represent a goal alongside alternative approaches and their comparative merits.
+Novel combination requires holding multiple elements in mind simultaneously. Research on [working-memory](/concepts/working-memory/) reveals substantial differences between species. While Miller's classic "7±2" estimate has been revised downward—Cowan (2010) suggests 3-4 items for focused attention—humans still maintain significantly more than the 2±1 items typical of chimpanzee working memory (Read, Manrique & Walker 2022). Even the conservative estimate enables qualitatively different operations: with 3-4 items held stably, you can represent a goal alongside alternative approaches and their comparative merits.
 
 Subliminal information decays within 500ms. Consciously accessed information persists for seconds to minutes. Creative combination requires the extended manipulation that only durable maintenance permits. You cannot combine elements that fade before combination completes.
 
@@ -214,6 +214,7 @@ None of these conditions currently obtains.
 - Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
 - Cowan, N. (2010). The magical mystery four: How is working memory capacity limited, and why? *Current Directions in Psychological Science*, 19(1), 51-57.
 - Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+- Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 - Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.

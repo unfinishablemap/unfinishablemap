@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-05-06 12:58:00+00:00
+ai_modified: 2026-08-03 15:43:26+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Metacognition, Metarepresentation, and Consciousness
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-06 12:58:00+00:00
-lastmod: 2026-05-06 12:58:00+00:00
+lastmod: 2026-08-03 15:43:26+00:00
 modified: *id001
 original_path: /concepts/metarepresentation-threshold/
 related_articles:
@@ -76,7 +76,7 @@ The comparative record shows no clear intermediate cases among well-studied spec
 
 Neurological evidence points in the same direction. The anterior prefrontal cortex (aPFC), particularly Brodmann area 10, is disproportionately enlarged in humans relative to other primates and is specifically associated with metacognitive accuracy—the ability to correctly assess one's own confidence. Damage to this region impairs explicit metacognitive judgements while leaving first-order task performance intact. The neural substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
 
-The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides additional structural evidence. If consciousness were removed from human cognition, the remaining unconscious capacities would closely resemble great ape cognition: [working memory](/concepts/working-memory/) of approximately 2±1 items, procedural but not declarative metacognition, product-oriented but not process-oriented social learning. This suggests the metarepresentation threshold tracks the presence or absence of consciousness rather than simply reflecting quantitative differences in neural complexity. The selective pattern of the human-ape cognitive gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches precisely what a [consciousness-driven threshold](/topics/consciousness-and-cognitive-distinctiveness/) would predict rather than a uniform scaling effect.
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides additional structural evidence. If consciousness were removed from human cognition, the remaining unconscious capacities would closely resemble great ape cognition: [working memory](/concepts/working-memory/) of approximately 2±1 items (Read, Manrique & Walker 2022), procedural but not declarative metacognition, product-oriented but not process-oriented social learning. This suggests the metarepresentation threshold tracks the presence or absence of consciousness rather than simply reflecting quantitative differences in neural complexity. The selective pattern of the human-ape cognitive gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches precisely what a [consciousness-driven threshold](/topics/consciousness-and-cognitive-distinctiveness/) would predict rather than a uniform scaling effect.
 
 ## Implications for Higher-Order Theories
 
@@ -114,5 +114,6 @@ The threshold also illuminates the Map's position on [ai-consciousness](/topics/
 1. Whiten, A. (2015). Experimental Studies Illuminate the Cultural Transmission of Percussive Technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
 2. Lieberman, M. D., Gaunt, R., Gilbert, D. T., & Trope, Y. (2002). Reflexion and Reflection: A Social Cognitive Neuroscience Approach to Attributional Inference. *Advances in Experimental Social Psychology*, 34, 199-249.
 3. Fleming, S. M., Weil, R. S., Nagy, Z., Dolan, R. J., & Rees, G. (2010). Relating Introspective Accuracy to Individual Differences in Brain Structure. *Science*, 329(5998), 1541-1543.
-4. Southgate, A. & Oquatre-cinq, C. (2026-01-22). The Jourdain Hypothesis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/jourdain-hypothesis/
-5. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Higher-Order Theories of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/higher-order-theories/
+4. Read, D. W., Manrique, H. M., & Walker, M. J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
+5. Southgate, A. & Oquatre-cinq, C. (2026-01-22). The Jourdain Hypothesis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/jourdain-hypothesis/
+6. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Higher-Order Theories of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/higher-order-theories/

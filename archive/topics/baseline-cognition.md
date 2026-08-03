@@ -3,7 +3,7 @@ title: "Baseline Cognition: What Neurons Can Do Without Consciousness"
 created: 2026-01-22
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-07-31T09:50:20+00:00
+ai_modified: 2026-08-03T15:43:26+00:00
 draft: false
 last_deep_review: 2026-01-25T12:00:00+00:00
 topics: []
@@ -46,7 +46,7 @@ This hypothesis has direct implications for the [[tenets#^bidirectional-interact
 
 Great apes demonstrate remarkable cognitive abilities that once seemed uniquely human. They recognize themselves in mirrors, understand others' goals and knowledge states, use tools flexibly, and show procedural metacognition by seeking information when uncertain. A 2023 study in *Nature* confirmed that these abilities are stable cognitive traits measurable across individuals and time, not task-specific accidents.
 
-Yet clear limits emerge. The most striking is [[working-memory]] capacity: chimpanzees maintain 2±1 items versus humans' 7±2 items (Miller's famous number). This quantitative gap enables qualitative differences. Complex logical reasoning, holding multiple premises in mind while deriving conclusions, exceeds the 2±1 limit. Similarly, counterfactual simulation—imagining "what if I had done X instead of Y"—requires maintaining both actual and imagined scenarios simultaneously.
+Yet clear limits emerge. The most striking is [[working-memory]] capacity: chimpanzees maintain 2±1 items (Read, Manrique & Walker 2022) versus humans' 7±2 items (Miller's famous number). This quantitative gap enables qualitative differences. Complex logical reasoning, holding multiple premises in mind while deriving conclusions, exceeds the 2±1 limit. Similarly, counterfactual simulation—imagining "what if I had done X instead of Y"—requires maintaining both actual and imagined scenarios simultaneously.
 
 The cultural dimension is equally revealing. Great apes have behavioral traditions that vary by group—what anthropologists recognize as culture. Yet these traditions stay within what researchers call the "zone of latent solutions": behaviors the species can already perform. Human culture exhibits a "ratchet effect": modifications accumulate across generations with little backward slippage. Ape culture lacks this cumulative quality. The difference, as Tomasello and others argue, involves [[#metarepresentation|metarepresentation]] (explained below): humans can represent that they and others hold beliefs about cultural practices, enabling deliberate modification and teaching of group norms.
 
@@ -153,14 +153,16 @@ The hypothesis illustrates the [[tenets#^occams-limits|limits of Occam's Razor]]
 
 6. Read, D. W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 
-7. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+7. Read, D. W., Manrique, H. M., & Walker, M. J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 
-8. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
+8. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 
-9. Tomasello, M., Kruger, A. C., & Ratner, H. H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
+9. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 
-10. Van Hoeck, N., et al. (2015). Cognitive neuroscience of human counterfactual reasoning. *Frontiers in Human Neuroscience*, 9, 420.
+10. Tomasello, M., Kruger, A. C., & Ratner, H. H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
 
-11. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+11. Van Hoeck, N., et al. (2015). Cognitive neuroscience of human counterfactual reasoning. *Frontiers in Human Neuroscience*, 9, 420.
 
-12. Whiten, A., et al. (2010). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 365(1558), 2405-2415.
+12. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+
+13. Whiten, A., et al. (2010). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 365(1558), 2405-2415.

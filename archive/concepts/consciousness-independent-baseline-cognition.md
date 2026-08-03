@@ -3,7 +3,7 @@ title: "Consciousness-Independent Baseline Cognition"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-24T04:31:00+00:00
+ai_modified: 2026-08-03T15:43:26+00:00
 draft: false
 topics: []
 concepts:
@@ -28,7 +28,7 @@ archive_reason: "Coalesced into Baseline Cognition (concepts)"
 original_path: "/concepts/consciousness-independent-baseline-cognition/"
 ---
 
-Great ape cognition may represent a baseline of what neurons can achieve without the conscious contribution that enables human-level intelligence. Chimpanzees and bonobos demonstrate sophisticated problem-solving, tool use, social learning, and even procedural metacognition—monitoring uncertainty and seeking information when needed. Yet they operate within sharp constraints: working memory limited to 2±1 items (versus human 7±2), culture that doesn't accumulate modifications across generations, planning bound to current motivational states, and no evidence of metarepresentation—knowing *that* they know. If consciousness were somehow removed from humans while leaving neural architecture intact, cognitive capacities might collapse to something resembling this great ape baseline. This hypothesis matters because it suggests consciousness isn't merely correlated with human intelligence—it's causally necessary for the leap from sophisticated procedural cognition to the logical reasoning, counterfactual thinking, and cumulative culture that define human thought.
+Great ape cognition may represent a baseline of what neurons can achieve without the conscious contribution that enables human-level intelligence. Chimpanzees and bonobos demonstrate sophisticated problem-solving, tool use, social learning, and even procedural metacognition—monitoring uncertainty and seeking information when needed. Yet they operate within sharp constraints: working memory limited to 2±1 items (Read, Manrique & Walker 2022; versus human 7±2), culture that doesn't accumulate modifications across generations, planning bound to current motivational states, and no evidence of metarepresentation—knowing *that* they know. If consciousness were somehow removed from humans while leaving neural architecture intact, cognitive capacities might collapse to something resembling this great ape baseline. This hypothesis matters because it suggests consciousness isn't merely correlated with human intelligence—it's causally necessary for the leap from sophisticated procedural cognition to the logical reasoning, counterfactual thinking, and cumulative culture that define human thought.
 
 ## What the Baseline Includes
 
@@ -51,7 +51,7 @@ The constraints reveal where consciousness may be causally required:
 
 **Cumulative culture requires metarepresentation.** Great apes have culture—behavioral traditions vary between groups—but they lack the "ratchet effect" that characterizes human cultural evolution. Modifications don't accumulate; innovations tend to fade rather than compound. Tomasello and colleagues argue this reflects an inability to metarepresent: apes express cultures without knowing they are cultural beings. They cannot represent that others hold beliefs about cultural norms, which prevents teaching in the normative sense, conformity to group standards, and the process-oriented (not just product-oriented) social learning that drives cumulative innovation. The Jourdain Hypothesis: apes do culture without knowing they do it.
 
-**Working memory expansion correlates with consciousness expansion.** Chimpanzee working memory holds 2±1 items; human working memory holds 7±2 items. This quantitative difference may enable qualitative leaps—logical reasoning requires holding multiple propositions in mind simultaneously, counterfactual thinking requires tracking actual and imagined states in parallel, and metarepresentation requires representing both the world and beliefs about the world. Whether expanded working memory *enables* expanded consciousness or *results from* it remains debated, but they clearly co-occur.
+**Working memory expansion correlates with consciousness expansion.** Chimpanzee working memory holds 2±1 items (Read, Manrique & Walker 2022); human working memory holds 7±2 items. This quantitative difference may enable qualitative leaps—logical reasoning requires holding multiple propositions in mind simultaneously, counterfactual thinking requires tracking actual and imagined states in parallel, and metarepresentation requires representing both the world and beliefs about the world. Whether expanded working memory *enables* expanded consciousness or *results from* it remains debated, but they clearly co-occur.
 
 ## The Bischof-Köhler Hypothesis {#Bischof-Köhler-hypothesis}
 
@@ -124,6 +124,8 @@ Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain mi
 Lieberman, M. D., Jarcho, J. M., & Satpute, A. B. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 
 Read, D. W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
+
+Read, D. W., Manrique, H. M., & Walker, M. J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 
 Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 
