@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-07-30 17:20:13+00:00
+ai_modified: 2026-08-03 21:13:48+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-20 17:20:00+00:00
 apex_sources:
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:08:06+00:00
-lastmod: 2026-07-30 17:20:13+00:00
+lastmod: 2026-08-03 21:13:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ What survives that concession is still enough to do the joint work. No agreed ac
 
 Physical mereology is transparent in both directions. Two one-kilogram masses compose a two-kilogram mass, and a two-kilogram mass divides back into them; charges superpose and decompose; the whole is built from parts and the parts explain the whole. Consciousness, as [composition-and-consciousness](/concepts/composition-and-consciousness/) argues, does neither. Bottom-up, micro-experiences do not sum into a macro-experience — James's hundred feelings, shuffled and packed as close as you like, each "remains the same feeling it always was, shut in its own skin, windowless." Top-down, a [unified field](/concepts/unity-of-consciousness/) does not partition into independent experiential parts — Tim Bayne and David Chalmers (2003) show phenomenal unity to involve a conjoint phenomenology no part possesses, so there is nothing for the field to be *made of* in the part-summing sense.
 
-This bidirectional resistance is exactly what the de-combination hinge predicts. A property that genuinely composed and decomposed transparently would let combination *and* de-combination go through; a property that resists both is one for which no intelligible subject-part relation has been found in either direction. Physical properties belong to the first kind; consciousness, on the evidence the cluster assembles, to the second. The split-brain literature is the empirical pressure point and it cuts the same way: researchers cannot agree what would *count* as one subject versus two (Pinto et al. 2017 read undivided consciousness where Sperry and Gazzaniga read two agents; Elizabeth Schechter 2018 reads "two minds, one person"), which is precisely what one expects if there is no determinate fact about how a conscious whole partitions — no mereology of subjects to read off the anatomy.
+This bidirectional resistance is exactly what the de-combination hinge predicts. A property that genuinely composed and decomposed transparently would let combination *and* de-combination go through; a property that resists both is one for which no intelligible subject-part relation has been found in either direction. Physical properties belong to the first kind; consciousness, on the evidence the cluster assembles, to the second. The split-brain literature is the empirical pressure point and it cuts the same way: researchers cannot agree what would *count* as one subject versus two (Pinto et al. 2017 read undivided consciousness where Sperry and Gazzaniga read two agents; Elizabeth Schechter 2018 reads "two minds, one person"), which is precisely what one expects if there is no mereology of subjects to read off the anatomy. That disagreement is evidence about what the anatomy can disclose rather than about whether there is anything for it to disclose. The Map's register holds the boundary to be a determinate fact that is nevertheless not recoverable from physical or functional organisation ([P-I3](/positions/individuation-and-subjecthood/)), so its agnosticism about how many subjects a callosotomised skull houses is epistemic rather than metaphysical. The missing subject-part relation explains why no anatomical measure settles the count; it does not license the stronger claim that there is no count to settle.
 
 ## Synthesis
 
