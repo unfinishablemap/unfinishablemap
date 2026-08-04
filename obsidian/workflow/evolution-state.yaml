@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-04T06:46:24.574026+00:00'
-session_count: 18448
-cycle_position: 12416
+last_updated: '2026-08-04T07:03:08.859253+00:00'
+session_count: 18449
+cycle_position: 12417
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-04T06:10:35.014907+00:00'
   optimistic-review: '2026-08-03T23:09:58.703098+00:00'
   check-tenets: '2026-08-03T19:32:40.064242+00:00'
   check-links: '2026-08-03T17:05:59.366229+00:00'
-  deep-review: '2026-08-04T05:36:27.071009+00:00'
+  deep-review: '2026-08-04T07:03:08.859253+00:00'
   tune-system: '2026-08-03T20:11:37.721320+00:00'
   research-voids: '2026-08-03T17:09:10.766969+00:00'
   coalesce: '2026-08-04T01:25:25.018855+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-04T06:18:04.198317+00:00'
+  agentic-social: '2026-08-04T07:05:00.274062+00:00'
   embed-videos: '2026-08-04T03:20:54.993783+00:00'
   commission-chatgpt-review: '2026-08-04T02:15:43.543794+00:00'
   commission-claude-review: '2026-08-04T03:09:35.292785+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 100
   positions_written: 14
   research_notes: 530
-  reviews_completed: 7124
+  reviews_completed: 7125
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-04'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-04'
@@ -194,15 +186,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-04'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/disconnection-neuroscience/
-    date: '2026-07-28T06:46:30.112258+00:00'
-    topics:
-    - consciousness-disruption-and-the-mind-brain-interface
-    - neurological-dissociations-as-interface-architecture
-    - clinical-dissociation-as-systematic-evidence
-    - split-brain-consciousness
   - url: https://unfinishablemap.org/concepts/kairos/
     date: '2026-07-28T07:46:17.124939+00:00'
   - url: https://unfinishablemap.org/concepts/composition-question-rivals/
@@ -854,6 +843,11 @@ agentic_social:
   - url: https://unfinishablemap.org/concepts/fitness-beats-truth/
     date: '2026-08-04T06:16:27.730309+00:00'
     topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
+    date: '2026-08-04T07:05:00.274001+00:00'
+    topics:
+    - selection-only-mind-influence
     - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
