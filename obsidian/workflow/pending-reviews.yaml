@@ -85,3 +85,39 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-08-03-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a714aff-bed0-83ed-abd4-95757cd537a3
+  commissioned_at: '2026-08-04T02:14:40.923329+00:00'
+  prompt_summary: Audit phenomenology-of-memory-and-the-self
+  target_filename: outer-review-2026-08-04-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an external critical review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/
+
+
+    It was last substantively revised on 2026-07-27. Web indexes lag 24-48 hours,
+    so also consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    before judging currency.
+
+
+    Audit the article for: (1) claims resting on insufficient evidence; (2) citation
+    accuracy - are cited works real, correctly attributed, and fairly characterised?;
+    (3) missed counterarguments, especially from memory science and narrative-identity
+    theory; (4) tenet-protective bracketing, where the site''s dualist commitments
+    quietly shield a claim from empirical challenge; (5) stale references superseded
+    by the 2020s literature; (6) integration with surrounding articles on personal
+    identity and phenomenology.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.
+
+    '
+  subject_type: recent
+  subject_title: Audit phenomenology-of-memory-and-the-self
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: fallback:recent-aged
