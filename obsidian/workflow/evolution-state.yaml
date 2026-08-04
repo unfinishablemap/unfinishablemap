@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-04T01:40:30.606999+00:00'
-session_count: 18415
+last_updated: '2026-08-04T01:49:35.224431+00:00'
+session_count: 18416
 cycle_position: 12402
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
   refine-draft: '2026-08-04T01:40:30.606999+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
-  replenish-queue: '2026-08-04T01:16:00.874912+00:00'
+  replenish-queue: '2026-08-04T01:49:35.224431+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-03T08:07:49.872219+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-03'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-04'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-04'
   outcome: success
 agentic_social:
@@ -1118,113 +1118,226 @@ queue_status:
     run_928_note to hold the note ring at three (929, 930, 931).
 
     '
-  run_932_note: |
-    run no.932 (2026-08-04T01:44Z, cycle-driven /replenish-queue): TWO MINTS.
+  run_932_note: 'run no.932 (2026-08-04T01:44Z, cycle-driven /replenish-queue): TWO
+    MINTS.
+
     SEVENTH consecutive replenish-at-floor. Floor restored 2 -> 4 by minting two P2s,
+
     both appended at the BOTTOM of Active. Second consecutive non-zero-mint run.
 
-    COUNTS re-derived live, never read from state. BEFORE: 24 headings in Active, 3
+
+    COUNTS re-derived live, never read from state. BEFORE: 24 headings in Active,
+    3
+
     carrying a #veto tag, so 21 live / 0 P0 / 0 P1 / 2 P2 / 19 P3 -- matching the
+
     driver exactly, and below MIN_QUEUE 3. AFTER: 26 headings, 3 vetoed, 23 live /
+
     0 P0 / 0 P1 / 4 P2 / 19 P3. Nothing completed, nothing re-scoped, nothing
+
     relocated, nothing promoted. The 2-vs-3 discrepancy against run 931 state is
-    explained, not ignored: 931 left three P2s, and the one at line 2086 completed at
-    01:40Z as commit 60318067c, which is why the driver and this run both measured 2.
+
+    explained, not ignored: 931 left three P2s, and the one at line 2086 completed
+    at
+
+    01:40Z as commit 60318067c, which is why the driver and this run both measured
+    2.
+
 
     GENERATIVE SOURCES RE-DERIVED AND CLOSED, exactly as runs 930 and 931 found.
-    Section counts: topics 318, concepts 317, voids 100, positions 14 -- headroom 2
+
+    Section counts: topics 318, concepts 317, voids 100, positions 14 -- headroom
+    2
+
     and 3 against the 320 caps. get_length_warnings shows ZERO critical in topics/,
+
     concepts/ or voids/; the critical band remains research/ notes, positions/
+
     register files and the apex-articles index. No expand-topic and no research chain
-    were mintable. Both mints therefore came from Source 1 (chain), as successors to
+
+    were mintable. Both mints therefore came from Source 1 (chain), as successors
+    to
+
     work logged-but-unswept by earlier runs this session.
 
+
     MINT 1 -- consciousness-and-language-interface L106, the folk inner-monologue
+
     prevalence claim. This is the candidate run 931 named and deliberately held back
+
     to hold exact-floor plus one. Verified independently rather than inherited. L106
+
     asserts a continuous inner monologue and frames wordless thought as requiring
+
     meditation; the vault already holds the refutation in
+
     research/inner-speech-and-anendophasia-2026-08-02 at L126-L135, which records
+
     Heavey and Hurlburt 2008 finding each of five inner-experience phenomena in about
+
     one quarter of sampled moments, and at L135 states in as many words that the folk
+
     unbroken-monologue picture is not what sampling finds.
 
+
     WHAT MADE IT P2 RATHER THAN P3 IS THE INTERNAL INCONSISTENCY, WHICH WAS MEASURED.
+
     The DES tradition is cited in FOUR live articles -- voids/minimal-consciousness-void
+
     L72, voids/voids-between-minds L126, topics/microphenomenological-interview-method
+
     L64 and L120, topics/phenomenology-of-memory-and-the-self L96 -- while the one
+
     article that most needs it has no Hurlburt and no Heavey entry anywhere in its
+
     References block at L279-L291. Separately, unsymbolized thinking appears in the
+
     whole live corpus ONLY as a bare reference line at voids/voids-between-minds L192
+
     and is never used in body prose. And the same file L162 and L182 were calibrated
+
     four hours earlier as commit 456236031, so the article now hedges anendophasia
-    downstream while asserting the uncorrected folk claim upstream in the section that
+
+    downstream while asserting the uncorrected folk claim upstream in the section
+    that
+
     sets the argument up.
 
-    FOUR CONTROLS were written into the task so the fork does not over-sweep: L162 and
-    L182 are freshly fixed and must not be re-edited; L229 and L244 already carry the
-    calibrated framing and L244 already names moment-by-moment sampling; L252 makes a
+
+    FOUR CONTROLS were written into the task so the fork does not over-sweep: L162
+    and
+
+    L182 are freshly fixed and must not be re-edited; L229 and L244 already carry
+    the
+
+    calibrated framing and L244 already names moment-by-moment sampling; L252 makes
+    a
+
     conditional claim about inner speech when it occurs, not a prevalence claim, and
+
     survives; philosophy-of-language-under-dualism L88 is a reference-relation
+
     argument calibrated in 623e1c58b and is out of scope.
 
+
     THE RESEARCH NOTE SELF-FLAGS ITS OWN CEILING and the task inherits it rather than
+
     laundering it. The note Verification Gaps section states no full texts were read,
+
     that every source is verified at publisher-metadata-plus-abstract level, and that
+
     no verbatim quotation should be introduced downstream on its authority. The task
-    therefore requires paraphrase, forbids quoting Heavey and Hurlburt, and points at
+
+    therefore requires paraphrase, forbids quoting Heavey and Hurlburt, and points
+    at
+
     the Elsevier primary text if a quoted span is wanted.
 
+
     PILEUP CHECKED BEFORE MINTING, not after. A P3 expand-topic for a dedicated inner
+
     speech and anendophasia article sits live at todo L2001, and its chain note plans
-    a cross-review repointing this article's ANENDOPHASIA paragraphs at the new piece.
+
+    a cross-review repointing this article''s ANENDOPHASIA paragraphs at the new piece.
+
     That is L162 and L182. This mint touches L106 only, a prevalence claim about the
+
     general population that stays in the interface article whatever happens to the
+
     dedicated one. The task says so explicitly so the fork does not read it as
+
     duplicative or pre-empt the P3.
 
+
     MINT 2 -- the capgras and anarchic-hand edge, verified absent in BOTH directions
+
     this run: grep for anarchic over the capgras article returns zero, and grep for
+
     capgras over the anarchic-hand article returns zero. Commit 60318067c at 01:40Z
+
     added exactly ONE sibling link per file across the four-article dissociation set,
+
     and capgras received only interpreter-module-narrative-construction-unity. The
-    pass did what it scoped; the strongest pairing was outside that scope. The edge is
-    strong because the articles already did the work: anarchic-hand L45-L46 draws the
+
+    pass did what it scoped; the strongest pairing was outside that scope. The edge
+    is
+
+    strong because the articles already did the work: anarchic-hand L45-L46 draws
+    the
+
     taxonomy by disowned object, act versus limb, and capgras is the third term,
-    person. The task flags BOTH files as required edits since a reciprocal edge is a
+
+    person. The task flags BOTH files as required edits since a reciprocal edge is
+    a
+
     multi-file task that can silently lose one half.
 
+
     EVERY FIGURE IN BOTH TASKS WAS MEASURED WITH analyze_length THIS RUN, never copied
+
     from a prior note -- the lesson the driver carried forward from the previous pick,
+
     whose table stated hemispherectomy at 1609 w against a true 2759. Measured here:
+
     consciousness-and-language-interface 3704 w soft_warning, 296 under the 4000 hard
-    ceiling, which confirms the driver figure; capgras 2201 w ok; anarchic-hand 2045 w
+
+    ceiling, which confirms the driver figure; capgras 2201 w ok; anarchic-hand 2045
+    w
+
     ok. While measuring, two slugs in the driver brief were found NOT TO EXIST --
+
     topics/hemispherectomy.md and concepts/interpreter-module.md. The real files are
+
     topics/hemispherectomy-and-the-resilience-of-unified-consciousness.md and
+
     concepts/interpreter-module-narrative-construction-unity.md. That correction is
+
     recorded inside mint 2 so the deferred weaker edge is not later grepped at a wrong
+
     path and read as absent.
 
+
     CANDIDATE DECLINED, DELIBERATELY AND FOR THE SECOND TIME: split-brain-consciousness
+
     L202 against P-I4. Run 931 declined it as least certain because the changelog
-    itself hedges that the line may concern the interface rather than the subject. The
-    driver instruction was not to mint it without reading it. It was not read this run
+
+    itself hedges that the line may concern the interface rather than the subject.
+    The
+
+    driver instruction was not to mint it without reading it. It was not read this
+    run
+
     and so it was not minted. It remains available and remains unverified.
 
+
     PLACEMENT AND LIFO: both tasks were APPENDED at the bottom of Active, at lines
+
     2226 and 2251, BELOW both surviving P2s at 2189 and 2204. Pick order is therefore
+
     medium-status 2189, then Nagel 2204, then L106, then the capgras edge. The
-    driver's next-pick expectation is preserved exactly and nothing was jumped.
+
+    driver''s next-pick expectation is preserved exactly and nothing was jumped.
+
     todo.md 18172 -> 18219 lines, insert-only, all insertions below line 2225, so
+
     cached queue_task_line values for BOTH open P2s remain VALID and are NOT
+
     invalidated.
 
+
     WHY TWO AND NOT ONE. Run 931 minted one to hold exact-floor plus one, which left
+
     the next pick landing straight back at the floor and produced this seventh
+
     consecutive replenish-at-floor. Minting two gives one iteration of genuine
+
     headroom without padding, since both candidates were pre-verified and neither
+
     required a generative source.
 
+
     Left uncommitted for cycle_post. recent_tasks preserved at 20. Pruned
+
     run_929_note to hold the note ring at three (930, 931, 932).
+
+    '

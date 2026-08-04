@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T01:36:01+00:00'
+ai_modified: '2026-08-04T01:54:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 01:54 UTC - refine-draft (medium-status exhibit: stale ordinal third→fourth, N=3→N=4)
+- **Status**: Success
+- **File**: [[project/medium-status-cluster-independence-scoring]]
+- **Scope**: ordinal/count correction only. No substantive claim touched.
+- **Premise re-confirmed by git**: `95410f798` (2026-05-22) scored the type-specificity grains on the four-criterion framework; `661c7aaa6` (2026-05-27) created this page. Type-specificity is third; this exhibit is fourth. The error was baked in at creation, which is why no later pass caught it.
+- **Siblings verified correct, deliberately left alone**: `apex/taxonomy-of-voids` (surplus → introspection-architecture → type-specificity → medium-status), `concepts/apophatic-cartography-four-criteria` ("fourth worked exhibit"), `concepts/type-specificity` ("a third worked exhibit"). All three are right; this page was the stale one.
+- **Changes**:
+  - `description` and lead: "third worked exhibit" → **fourth**.
+  - Lead enumeration: "The two prior exhibits — surplus void, introspection-architecture" → **three** prior exhibits, adding `[[concepts/type-specificity#independence-scoring|the type-specificity grains]]` and marking it as the **meta-argument register** one. "both produced scores" → "all produced scores"; "A third exhibit scored by the same hand" → "A fourth exhibit".
+  - §What the Rubric Did Not Let Me Do: "the discrimination the N=2 exhibits could not cleanly show, because **both** of those scored *with* the cataloguer's prior" → "the **three prior exhibits** … because **each** of those scored *with*". This was a population claim that had become false: type-specificity also scored with the prior (matching `apophatic-cartography-four-criteria`'s "Those first three all scored *with* the cataloguer's prior").
+  - §What This Exhibit Does and Does Not Discharge: "Comparative ranking across the **three** exhibits remains undetermined at **N=3**" → **four** / **N=4**. The sentence is a *negative* claim (ranking undetermined), so raising the count does not smuggle in a comparative-score claim — the standing instruction that **no comparative-score claim from this exhibit is asserted as a finding** survives untouched.
+  - Same section: "a **third** cluster scored against it" → "a cluster scored against it". The ordinal was ambiguous between the exhibit count (4) and the void-cluster count (3, since type-specificity is not a void cluster); dropping it removes the ambiguity without asserting either number. −1 word.
+  - Closing paragraph: "the programme stands at **three clusters** scored — one retracted, one partially retained, one low against a fixed rubric" → "**four** scored", inserting "one at the meta-argument register (type-specificity)". Parallelism of the "one … one … one …" list preserved.
+  - Further Reading: added `type-specificity — third exhibit (meta-argument register)` between the second and the apex entry; added `[[concepts/type-specificity]]` to `related_articles`.
+- **N=2 label deliberately NOT incremented** (the judgement item, not a mechanical bump). The *N=2 self-validation worry* is the proper name of a burden posed when only the **two void-cluster** exhibits existed; type-specificity sits at a different register and does not retroactively rename it. The three surviving `N=2` instances (description, lead, Further Reading gloss on `per-cluster-independence-scoring`) are correct as historical labels. To stop a future pass from "fixing" them, the lead now says which exhibits the label counts: *"the N=2 self-validation worry, posed at the two void-cluster exhibits."*
+- **Substance re-verified intact**: pre-registered rubric (all four criterion bands verbatim), the *moderate / moderate / weak / weak* profile, the *unstated-standard* vs *same-hand* split, and the standing no-comparative-score-claim instruction.
+- **Length**: 2,853 → **2,878 words**, `soft_warning` both before and after (+25, +0.9%). Partly paid in-sentence — the lead's enumeration absorbed the third exhibit without extra scaffolding ("two prior … both" → "three prior … all"), and the ordinal drop at §Discharge returned a word. The residual is the type-specificity enumerand at the close and the Further Reading line.
+- **Mirror**: synced; `hugo/content/project/medium-status-cluster-independence-scoring.md` re-grepped clean of `third worked exhibit` / `two prior exhibits` / `N=3` / `three exhibits` / `three clusters`. The anchored wikilink converts correctly to `/concepts/type-specificity/#independence-scoring`. Validator: 0 invalid.
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — count correction, not re-authoring. `ai_modified` bumped to 2026-08-04T01:54:20+00:00 from live `date -u`; `last_deep_review` untouched.
+- **Remaining item (different file, NOT fixed here)**: `obsidian/project/per-cluster-independence-scoring.md` carries the same staleness — line 73 "The methodology was developed against two worked exhibits … a third — the medium-status cluster", and line 171 "[[medium-status-cluster-independence-scoring]] — third worked exhibit". It omits type-specificity from the series entirely, contradicting `apophatic-cartography-four-criteria` ("the programme now carries four in all"). Left for a separate task per same-file-pileup discipline; flagged to the driver.
+- **Published**: yes
 
 ## 2026-08-04 01:36 UTC - refine-draft (neurological-dissociations cluster: 4 measured cross-edges installed, all four files touched)
 - **Status**: Success

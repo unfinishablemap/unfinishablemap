@@ -1,10 +1,10 @@
 ---
 title: "Per-Cluster Independence Scoring: The Medium-Status Cluster (Low-Scoring Test Case)"
-description: "The third independence-scoring exhibit: the medium-status void cluster scored against a pre-registered rubric and expected to land low, the deliberately unfavourable test the N=2 burden required."
+description: "The fourth independence-scoring exhibit: the medium-status void cluster scored against a pre-registered rubric and expected to land low, the deliberately unfavourable test the N=2 burden required."
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-26T21:44:25+00:00
+ai_modified: 2026-08-04T01:54:20+00:00
 last_deep_review: 2026-06-26T21:44:25+00:00
 draft: false
 topics: []
@@ -19,6 +19,7 @@ related_articles:
   - "[[apex/medium-status-voids-in-cognition]]"
   - "[[the-surplus-void]]"
   - "[[topics/introspection-architecture-independence-scoring]]"
+  - "[[concepts/type-specificity]]"
   - "[[mattering-void]]"
   - "[[relevance-void]]"
   - "[[noetic-feelings-void]]"
@@ -34,7 +35,7 @@ ai_generated_date: 2026-05-27
 last_curated:
 ---
 
-This is the third worked exhibit of [[per-cluster-independence-scoring|per-cluster independence scoring]], and it was constructed to discharge a specific burden the methodology had been carrying openly: the *N=2 self-validation worry*. The two prior exhibits — [[the-surplus-void|the surplus void]] (retracted) and [[topics/introspection-architecture-independence-scoring|the introspection-architecture sub-cluster]] (partially retained) — both produced scores consistent with prior catalogue framing, so the discrimination they displayed was consistent with two readings at once: *the methodology works*, and *the methodology rationalises decisions the cataloguer had already made*. A third exhibit scored by the same hand applying the same unstated standard does not break that tie. What breaks it, partially, is a test case scored against an **explicit rubric fixed before scoring** and run on a cluster the cataloguer would have *preferred* to read as strong. This exhibit is that case. The cluster is the [[apex/medium-status-voids-in-cognition|medium-status cluster]] — mattering, relevance, noetic feelings, conceptual scheme — and the methodology scores it low.
+This is the fourth worked exhibit of [[per-cluster-independence-scoring|per-cluster independence scoring]], and it was constructed to discharge a specific burden the methodology had been carrying openly: the *N=2 self-validation worry*, posed at the two void-cluster exhibits. The three prior exhibits — [[the-surplus-void|the surplus void]] (retracted), [[topics/introspection-architecture-independence-scoring|the introspection-architecture sub-cluster]] (partially retained), and [[concepts/type-specificity#independence-scoring|the type-specificity grains]] at the meta-argument register — all produced scores consistent with prior catalogue framing, so the discrimination they displayed was consistent with two readings at once: *the methodology works*, and *the methodology rationalises decisions the cataloguer had already made*. A fourth exhibit scored by the same hand applying the same unstated standard does not break that tie. What breaks it, partially, is a test case scored against an **explicit rubric fixed before scoring** and run on a cluster the cataloguer would have *preferred* to read as strong. This exhibit is that case. The cluster is the [[apex/medium-status-voids-in-cognition|medium-status cluster]] — mattering, relevance, noetic feelings, conceptual scheme — and the methodology scores it low.
 
 The exhibit's value is conditional and stated up front: scoring against a pre-registered rubric removes the "unstated standard" leg of the circularity but not the "same hand" leg. A single author who writes the rubric and applies it can still tune the rubric to the desired outcome. The genuine discharge requires the rubric to be applied by a grader independent of the author — which is what the [[outer-reviewer-service-calibration|three-service outer-review programme]] is for, and which has not yet happened for this exhibit. So the strongest honest claim here is: *the methodology, run against a fixed rubric, yielded a low score on a cluster the cataloguer would have preferred to read as strong.* Whether the rubric itself was tuned to deliver that result is the residual circularity an independent grader would have to close.
 
@@ -100,17 +101,17 @@ The profile is therefore **moderate / moderate / weak / weak**.
 
 ## What the Rubric Did Not Let Me Do
 
-The constraint that makes this exhibit count is what the rubric *prevented*. Reading the cluster's surface — four faces, six traditions, a sharp anti-inflation criterion — the cataloguer's prior was that this is a strong cluster, plausibly the catalogue's densest medium-status instance and a natural candidate for load-bearing weight in [[the-convergence-argument-for-dualism|the convergence argument]]. The rubric's cross-observer-convergence and framework-independence conditions, fixed in advance, returned *weak* on both, against that prior. The grade did not follow the cataloguer's preference; it followed the anchor-state the rubric keyed to. That is the discrimination the N=2 exhibits could not cleanly show, because both of those scored *with* the cataloguer's prior rather than against it.
+The constraint that makes this exhibit count is what the rubric *prevented*. Reading the cluster's surface — four faces, six traditions, a sharp anti-inflation criterion — the cataloguer's prior was that this is a strong cluster, plausibly the catalogue's densest medium-status instance and a natural candidate for load-bearing weight in [[the-convergence-argument-for-dualism|the convergence argument]]. The rubric's cross-observer-convergence and framework-independence conditions, fixed in advance, returned *weak* on both, against that prior. The grade did not follow the cataloguer's preference; it followed the anchor-state the rubric keyed to. That is the discrimination the three prior exhibits could not cleanly show, because each of those scored *with* the cataloguer's prior rather than against it.
 
 Two honesty checks on this claim. First, the rubric was still written by the same author who scored the cluster, so a determined sceptic can say the rubric was reverse-engineered from the desired *weak* verdict. This is the residual circularity; only an independent grader closes it. Second, the *moderate* on the first two criteria is not a concession manufactured to look balanced — the faces genuinely do produce different contents, and the phenomenological tradition genuinely is old. The rubric returning two *moderate*s and two *weak*s, rather than four *weak*s, is itself weak evidence that the rubric is not simply a low-score machine.
 
 ## What This Exhibit Does and Does Not Discharge
 
-It discharges, partially, the *unstated-standard* leg of the N=2 worry: there is now a written rubric, a third cluster scored against it, and a verdict that runs against the cataloguer's surface prior. The methodology produced a low score on a cluster it had reason to want to read high.
+It discharges, partially, the *unstated-standard* leg of the N=2 worry: there is now a written rubric, a cluster scored against it, and a verdict that runs against the cataloguer's surface prior. The methodology produced a low score on a cluster it had reason to want to read high.
 
-It does not discharge the *same-hand* leg. Under the standing instruction from the adversarial review that upgraded this task, **no comparative-score claim from this exhibit is asserted as a finding.** This exhibit does not assert that the medium-status cluster "scores lower than the introspection-architecture cluster" as a measurement. What it asserts is the conditional: *the methodology, run against the pre-registered rubric above, yielded a moderate / moderate / weak / weak profile on the medium-status cluster; whether that profile tracks the evidence or the rubric-author's priors is undetermined until an independent grader applies the same rubric.* Comparative ranking across the three exhibits remains undetermined at N=3 with a constant grader.
+It does not discharge the *same-hand* leg. Under the standing instruction from the adversarial review that upgraded this task, **no comparative-score claim from this exhibit is asserted as a finding.** This exhibit does not assert that the medium-status cluster "scores lower than the introspection-architecture cluster" as a measurement. What it asserts is the conditional: *the methodology, run against the pre-registered rubric above, yielded a moderate / moderate / weak / weak profile on the medium-status cluster; whether that profile tracks the evidence or the rubric-author's priors is undetermined until an independent grader applies the same rubric.* Comparative ranking across the four exhibits remains undetermined at N=4 with a constant grader.
 
-With this exhibit the programme stands at three clusters scored — one retracted (surplus void), one partially retained (introspection-architecture), one low against a fixed rubric (medium-status) — and the non-flatness claim is upgraded from *provisional with no rubric* to *provisional with a rubric, pending independent application*. The remaining burden is procedural, not conceptual: route this rubric and this cluster through the [[outer-reviewer-service-calibration|three-service outer-review programme]] and see whether a grader who did not build the methodology returns the same profile. If a different grader returns a substantially *higher* profile, the rubric was tuned; if they return the same low profile, the same-hand leg of the circularity is closed and the methodology's discrimination is established for at least this case.
+With this exhibit the programme stands at four scored — one retracted (surplus void), one partially retained (introspection-architecture), one at the meta-argument register (type-specificity), one low against a fixed rubric (medium-status) — and the non-flatness claim is upgraded from *provisional with no rubric* to *provisional with a rubric, pending independent application*. The remaining burden is procedural, not conceptual: route this rubric and this cluster through the [[outer-reviewer-service-calibration|three-service outer-review programme]] and see whether a grader who did not build the methodology returns the same profile. If a different grader returns a substantially *higher* profile, the rubric was tuned; if they return the same low profile, the same-hand leg of the circularity is closed and the methodology's discrimination is established for at least this case.
 
 ## Relation to the Methodology and Sister Disciplines
 
@@ -131,6 +132,7 @@ The exhibit does not support [[tenets#^dualism|Tenet 1 — Dualism]]; it discipl
 - [[per-cluster-independence-scoring]] — the methodology this exhibit instances, and the home of the N=2 burden this case was built to address
 - [[the-surplus-void]] — first exhibit (retraction case)
 - [[topics/introspection-architecture-independence-scoring]] — second exhibit (partial-retention case)
+- [[concepts/type-specificity#independence-scoring|type-specificity]] — third exhibit (meta-argument register)
 - [[apex/medium-status-voids-in-cognition]] — the apex defining the cluster this exhibit scores
 - [[apophatic-cartography-four-criteria]] — the four criteria the rubric operationalises
 - [[voids-circularity-discount]] — the aggregation layer the low profile feeds
