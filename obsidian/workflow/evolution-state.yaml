@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-04T00:32:58.357448+00:00'
-session_count: 18405
+last_updated: '2026-08-04T00:34:29.821696+00:00'
+session_count: 18406
 cycle_position: 12397
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-03T15:13:20.142788+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-03T22:52:35.364882+00:00'
+  agentic-social: '2026-08-04T00:40:16.273489+00:00'
   embed-videos: '2026-08-03T16:57:15.829584+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-03T04:54:03.534971+00:00'
   collect-gemini-review: '2026-08-03T04:38:25.031347+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-03T20:13:09.302185+00:00'
+  check-model-fallback: '2026-08-04T00:34:29.821696+00:00'
   harvest-research-subjects: '2026-08-03T21:40:12.767097+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -117,10 +113,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-03'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-03'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-03'
@@ -193,15 +185,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-04'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/higher-order-theories/
-    date: '2026-07-27T23:16:21.445288+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/apex/conjunction-coalesce/
-    date: '2026-07-28T00:31:46.674383+00:00'
   - url: https://unfinishablemap.org/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/
     date: '2026-07-28T01:31:13.861745+00:00'
     topics:
@@ -851,6 +840,8 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - ai-consciousness
+  - url: https://unfinishablemap.org/apex/conjunction-coalesce/
+    date: '2026-08-04T00:40:16.273419+00:00'
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
