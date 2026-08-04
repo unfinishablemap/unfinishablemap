@@ -2,9 +2,9 @@
 title: "Coherence Inflation Countermeasures"
 description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-07-16
+modified: 2026-08-04
 human_modified: null
-ai_modified: 2026-07-16T10:05:20+00:00
+ai_modified: 2026-08-04T08:32:00+00:00
 draft: false
 topics: []
 concepts:
@@ -33,6 +33,7 @@ related_articles:
   - "[[reviews/outer-review-2026-05-26-chatgpt-5-5-pro]]"
   - "[[reviews/outer-review-synthesis-2026-05-27]]"
   - "[[reviews/outer-review-synthesis-2026-06-23]]"
+  - "[[reviews/outer-review-2026-08-04-claude-opus-5]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -468,6 +469,7 @@ Track these metrics across evolution sessions:
 | Novelty claims unchecked against occupied conceptual space, or substantial extensions of a named view without a credit paragraph (Countermeasure 14) | 0 | >0 |
 | Synthesis-article convergence claims asserting evidential support without an independence check or named common-cause null (Countermeasure 15) | 0 | >0 |
 | Citation clusters counted as convergent lines despite shared authorship/mutual citation, or mutually inconsistent theories bundled as convergent (Countermeasure 15, two-tells check) | 0 | >0 |
+| Congenial empirical paraphrases supporting a load-bearing claim that have been verified only at the citation record, never reconstructed from the source's own abstract and results (Countermeasure 17) | 0 | >0 |
 
 ### Reporting
 
@@ -476,6 +478,8 @@ The `/tune-system` skill should periodically (monthly) generate a coherence heal
 ## Countermeasure 16 (PROPOSED — pending human ratification): The Confession-to-Marker Pipeline
 
 *Status: proposed, not enacted. The mechanism below is recorded as a candidate discipline; its wiring (skill remits, marker vocabulary, `evolution-state.yaml` thresholds) is a `/tune-system` or human-curator decision, exactly as Audit Six in [[calibration-audit-triple]] is. Nothing in this section is live site policy, and no marker described here is currently deployed on any apex, topic, or position page.*
+
+*Status update, 2026-08-04: two of the three same-cycle outer reviewers (Claude Opus 5 and ChatGPT 5.6 Pro) independently re-proposed this mechanism, neither having read this section — one from the confession side ("recording the residue honestly" must not count as discharging it), one from the propagation side (a defect named in one place must bind in every place that inherits it). Implementation remains reserved to the human curator under the `NEEDS-HUMAN (methodology ratification) 2026-08-03` entry in `workflow/todo.md`, which asks explicitly that no automated task build the gate; that reservation, not oversight, is why the section is still marked proposed. It is recorded here so the next re-discovery finds the reservation rather than re-drafting the proposal a fifth time. The nearest thing to a worked instance the corpus holds runs in the encouraging direction: [[topics/phenomenology-of-memory-and-the-self]] was flagged on 2026-08-04 as confession-without-correction, and within the same session produced the correction — the tenet section was recast to say that Dualism is the reading the Map places on the material rather than a conclusion the material delivers, and the mineness limb is now held at lower confidence than the pastness limb. That confidence downgrade is exactly the status change a marker would have surfaced automatically, reached manually instead. It shows the discipline can bind when applied; it does not show that it binds reliably, which is the gap the gate would close.*
 
 The 2026-06-22 Claude Opus 4.8 outer review ([[reviews/outer-review-2026-06-22-claude-opus-4-8]], Remediation List B, items 1 and 8; Bottom line) names the structural limit the present document has reached. Countermeasure 15 made the convergence-independence check a blocking gate *inside* synthesis articles, and the Externalized Tag Pilot in [[evidential-status-discipline#Externalized Tag Pilot (2026-05-13 → 2026-05-20)|the evidential-status discipline]] put empirical-density tags at section-header grain. But several `/project/` pages now *confess* a defect — the [[voids-circularity-discount|voids-circularity discount]] concedes "convergence-with-self is not triangulation"; the Born-rule article admits the preferred corridor reading is "unfalsifiable by construction" and books that as "the honest cost, not a strength" — without that confession producing any visible consequence on the page the reader actually lands on. The review's verdict: the project risks "substituting exhaustive self-disclosure for self-correction," so the meta-apparatus can function as inoculation rather than constraint. This is the position the Map now holds as [[positions/methodology-and-calibration#P-M5: Disclosure is not self-correction — a discipline binds only as far as the pipeline enforces it|P-M5 (disclosure is not self-correction)]]; the proposal below is the operationalisation P-M5 would need to stop being a stated intention.
 
@@ -503,6 +507,50 @@ The pipeline does not change any article's *argument*; it makes an already-recor
 ### Relation to the existing machinery
 
 The pipeline composes with rather than replaces the existing controls. Countermeasure 15 is the *gate* (block the unscreened convergence claim at assertion time); the [[voids-circularity-discount]] is the *verdict source* (the recorded confession); this pipeline is the *surfacing mechanism* (carry the verdict to the reader). The bridge the 2026-06-22 review found missing — the apex reader is never routed to the discount — is closed by the marker itself, which should link to the confessing `/project/` page. Implementation would extend the `/deep-review` and `/apex-evolve` remits (which already enforce Countermeasure 15) with a "check for a recorded confession against this article and emit or downgrade" step, and would add a coverage metric to the Key Indicators table: *articles with a recorded `/project/` confession whose page carries neither a prose downgrade nor a status marker* (target 0).
+
+## Countermeasure 17: Congenial-Paraphrase Fidelity
+
+### Policy
+
+Source verification asks three questions, and the pipeline reliably answers only the first two. *Does the source exist and is it correctly attributed?* — Countermeasure 3's provenance tagging plus the reference-metadata sweeps Countermeasure 11 requires (author, title, journal, volume, pages, DOI). *Is a quoted string verbatim at the publisher?* — the quote-fidelity checks the outer-review pipeline runs. The third question is whether the article's **paraphrase** of an empirical result matches what the study reports: its direction, its effect sizes, its sample and design, and the authors' own hedges. That axis is independent of the other two. A citation can be real, correctly attributed, metadata-clean at DOI level, and carry no quoted string at all, while the sentence it supports states the reverse of the finding.
+
+### The Asymmetry
+
+Empirical-paraphrase errors are not evenly distributed. They concentrate in the *congenial* direction — the direction that favours the framework — for a structural reason: a reviewing agent sharing the authoring agent's priors under-detects over-claims that fit. A hostile paraphrase creates friction and gets re-read on arrival; a congenial one reads as unremarkable and passes, pass after pass. The changelog names the mechanism in its own words, of the 2026-08-03 anendophasia over-claim: it "ran **in the Map's favour**, which is why six prior reviews of a dualist article did not challenge it." The phrase "in the Map's favour" appears nineteen times across the changelog and its archives as of 2026-08-04, each marking an error found running in that direction.
+
+Countermeasure 4's external red-team reviews are the existing partial mitigation, since an outside reviewer does not share the priors — and both worked failures below were caught either from outside or by a pass deliberately aimed off the channels earlier passes had worked. But an outer review is a periodic sample rather than a gate. So the rule inverts the bias: **congenial empirical paraphrases are scrutinised at least as hard as hostile ones, and the reviewing pass assumes the paraphrase overstates its source until reconstruction shows otherwise.**
+
+### The Check
+
+Before a congenial empirical paraphrase stands, reconstruct the result from the source's own abstract and results section — not from the article's existing wording, not from a downstream summary, and not from a research note that has already inherited the gloss — then compare on five points:
+
+1. **Direction** — does the study report the effect in the direction the article claims?
+2. **Result versus proposal** — is the article reporting what the study *found*, or what its authors *proposed*, modelled, or predicted?
+3. **Effect size and significance** — is a null being reported as a finding, or a marginal effect as a robust one?
+4. **Sample and design** — N, population, and whether the design is correlational or interventional.
+5. **The authors' own hedge** — a paper whose conclusion calls the relationship "more nuanced ... than originally proposed in our model" cannot be glossed as confirming the model.
+
+Where the source is paywalled, an OpenAlex or EuropePMC abstract reconstruction usually settles direction, N, and the authors' hedge.
+
+### The Worked Failures
+
+**Tippett, Prebble and Addis (2018), in [[topics/phenomenology-of-memory-and-the-self]] (found 2026-08-04).** The article glossed the paper as finding that intact *semantic* continuity suffices to sustain diachronic unity — congenial, because it supported the claim that episodic re-experiencing is one route to diachronic unity rather than the only one. The paper reports the opposite: semantic continuity was *impaired*, most severely in Alzheimer's (fewest self-event connections, M = 5.31 against 7.10 in healthy controls, p = 0.02; lower temporal and thematic coherence, p ≤ 0.004). Only the *belief* layer survived (perceived persistence p = 0.91; I-self persistence p = 0.31), and explanations of persistence were significantly *worse* in Alzheimer's (p = 0.01). The article had been reporting the authors' proposed model as the study's result, and the authors' own verdict — "a more nuanced and multifaceted relationship than originally proposed in our model" — said as much.
+
+What makes this the canonical case is what the reference had already survived. A 2026-06-06 pass corrected the entry's *title* against PubMed. A 2026-08-04 05:41 UTC cluster-wide audit re-verified it at Crossref by DOI (`10.3389/fpsyg.2018.00094`) and recorded it clean. Both lenses were aimed at the citation record; neither was aimed at the sentence the citation was attached to. The reversal surfaced under two hours after that clean metadata audit, and it surfaced from an outer review rather than from the pipeline.
+
+**Nedergaard and Lupyan (2024), in [[topics/philosophy-of-language-under-dualism]] (found 2026-08-03).** The article asserted that people without an inner voice "still refer successfully to their phenomenal states using public language, **demonstrating** that phenomenal reference depends on conscious experience itself." The study measured verbal working memory, rhyme judgement, task-switching and categorical perception, and never measured phenomenal-state reference. This was the article's seventh review, and the first to aim at empirical-claim fidelity rather than at metadata, style, or cross-links.
+
+### Implementation
+
+- `/refine-draft`, `/deep-review`, and `/expand-topic` apply the five-point check to any empirical paraphrase supporting a claim the framework favours, reconstructing from the source before comparing.
+- **Assume overstatement in the congenial direction only.** The hostile direction gets adversarial reading for free; the instruction is needed exactly where the reading is comfortable.
+- **Spend limited verification budget on congenial paraphrases first.**
+- **A clean metadata audit is not evidence of a faithful paraphrase**, and must not be logged as though it were. The Tippett entry passed a DOI-level Crossref check hours before its gloss was found reversed, and that audit entry could easily have been read as clearing the sentence.
+- **Remediation is re-framing, not deletion.** A reversed paraphrase attached to a real, correctly attributed source is repaired by rewriting the sentence to what the study reports; the citation stays. The Tippett repair strengthened the article's downstream inference rather than costing it one.
+
+### Prior Art
+
+Countermeasure 14's prior-art rule binds this document as much as any article, so: empirical-claim fidelity is not a new axis for the Map. It is the lens the anendophasia catch above already used, and the changelog has recorded congenial-direction errors under that description since at least 2026-05. What Countermeasure 17 adds is the *direction* of scrutiny, the reconstruct-before-comparing protocol, and a named home for both, so the lens fires by default rather than when a reviewer happens to aim at it. It completes a trio: Countermeasure 3 establishes that the source exists, Countermeasure 11 calibrates what the source weighs, and Countermeasure 17 calibrates what the article says the source *found*. It also pairs with Countermeasure 12's strength-of-claim linter, which catches drift between an article's lead and its own body, where this catches drift between the source and the article.
 
 ## Relation to Site Perspective
 
