@@ -4,7 +4,7 @@ description: "Anarchic hand splits authorship of action from ownership of the li
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-07-16T11:54:25+00:00
+ai_modified: 2026-08-04T01:36:01+00:00
 last_deep_review: 2026-07-16T11:54:25+00:00
 draft: false
 topics:
@@ -53,6 +53,8 @@ The dimension anarchic hand isolates is the one Haggard (2017) makes central: th
 
 This double dissociation is the structural point. If authorship and ownership can come apart, then felt authorship is not a raw datum read directly off the fact that *my* body moved. It is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
 
+It can break in two directions, and anarchic hand shows only one of them. Here the authorship signal is *withheld*: the movement occurs and nothing marks it as willed. The [[interpreter-module-narrative-construction-unity|left-hemisphere interpreter]] shows the complementary failure, *fabricating* a fluent and confident account of why an action was performed when the narrating system neither initiated it nor has access to its real cause. The two syndromes bracket the same constructed signal from opposite sides—absent where the act is genuinely one's own, supplied where it is not—and that pairing is harder to explain if felt authorship were simply read off the fact of one's own movement.
+
 ## The Comparator Account, Conceded in Full
 
 The strongest reading of anarchic hand needs no non-physical element, and it must be stated at its full strength rather than dodged.
@@ -94,6 +96,7 @@ The Map does not claim anarchic hand as support for its metaphysics. It claims s
 ## Further Reading
 
 - [[split-brain-consciousness]] — the flagship perception-side dissociation; anarchic hand is its agency-side complement.
+- [[interpreter-module-narrative-construction-unity]] — the complementary failure of the same signal: authorship fabricated rather than withheld.
 - [[phenomenology-of-agency-vs-passivity]] — the felt axis of agency and passivity that anarchic hand disrupts.
 - [[control-theoretic-will]] — the comparator/forward-model treatment of will this article engages.
 - [[interface-heterogeneity]] — why distinct interface channels fail independently.

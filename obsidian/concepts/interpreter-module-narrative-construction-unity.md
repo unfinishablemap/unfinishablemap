@@ -4,7 +4,7 @@ description: "Gazzaniga's left-hemisphere interpreter confabulates reasons for a
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-07-16T13:37:16+00:00
+ai_modified: 2026-08-04T01:36:01+00:00
 last_deep_review: 2026-07-16T13:37:16+00:00
 draft: false
 topics:
@@ -36,6 +36,8 @@ Every live position in this debate accepts the following minimal characterisatio
 The founding evidence comes from callosotomy (split-brain) patients. In the classic paradigm from Gazzaniga and LeDoux's *The Integrated Mind* (1978), a patient's right hemisphere is shown one image (a snow scene) and the left another (a chicken claw). Asked to point with each hand to a related picture, the left hand (right hemisphere) selects a snow shovel while the right hand (left hemisphere) selects a chicken. Asked *why* he chose the shovel, the patient — answering from his verbal left hemisphere, which never saw the snow — replies without hesitation that the shovel is for cleaning out the chicken shed. The explanation is fluent, confident, and false. Gazzaniga and LeDoux describe the left hemisphere as generating explanations that reconcile new information, including the other hemisphere's expressed choices, with what it already knows.
 
 The phenomenon is not confined to surgically divided brains. Johansson, Hall, Sikström, and Olsson's "choice blindness" study (2005) showed neurologically intact adults pictures of two faces, asked which was more attractive, then — using sleight of hand — handed back the *rejected* face and asked them to explain their choice. Most participants failed to notice the swap and proceeded to confabulate detailed reasons for preferring a face they had in fact rejected. The interpreter, on this reading, is a standing feature of ordinary minds, not a lesion artifact.
+
+The same construction fails in the opposite direction in [[anarchic-hand-and-action-ownership|anarchic hand]], where one hand performs complex goal-directed acts — unbuttoning a shirt, lifting a cup the patient knows to be too hot — that the patient disowns and cannot inhibit, while never doubting the limb is their own. There felt authorship is *withheld* from a movement the person's own body made; in confabulation it is *supplied* for a choice the narrating system never made. Both directions point at the same conclusion about the signal rather than about the subject: authorship is something the system computes and can get wrong either way, which is a claim about the reliability of the narration and not yet about who, if anyone, is being narrated.
 
 ## The Illusionist Reading: The Self as a Story {#illusionist-reading}
 
@@ -89,6 +91,7 @@ This keeps the Map on the right side of its own evidential rules. The conclusion
 - [[the-self-minimal-narrative-and-substantial]] — the minimal versus substantial self, on which this distinction bears directly.
 - [[illusionism]] — the position the interpreter is marshalled to support.
 - [[unity-of-consciousness]] — the phenomenal unity the interpreter is claimed to construct.
+- [[anarchic-hand-and-action-ownership]] — the mirror case: felt authorship withheld from a movement rather than fabricated for one.
 
 ## References
 

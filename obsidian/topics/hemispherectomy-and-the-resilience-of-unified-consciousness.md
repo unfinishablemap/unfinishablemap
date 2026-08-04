@@ -4,7 +4,7 @@ description: "An entire hemisphere removed or disconnected, yet one unified self
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-08-03T02:42:57+00:00
+ai_modified: 2026-08-04T01:36:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,6 +90,8 @@ The **physicalist / reorganization reading** is the mainstream cognitive-neurosc
 
 The **filter / transmission reading** is the Map-aligned interpretation. If consciousness is received or filtered through the brain rather than produced by it, then unity is a property of the receiver — the non-physical mind — and the brain is the interface. Losing half the interface degrades bandwidth and specific channels (hence "suboptimal") but does not fragment the self, because the self was never identical to the hemispheres. On this view unity should be robust to substrate loss, and it should never be the case that half a person survives, only ever a whole person with degraded channels. That is what the record shows: personality and selfhood persist intact, and unity does not track cortical mass.
 
+On this reading the same structure appears at a far smaller scale in [[anarchic-hand-and-action-ownership|anarchic hand]], where a single motor channel stops carrying conscious volition — the hand acts, the patient disowns the act and restrains it with the other hand — and the experiencer nonetheless remains unmistakably one. Bandwidth lost at the scale of a hemisphere and a channel lost at the scale of a limb are the same kind of failure differing in extent, which is what [[interface-heterogeneity|interface heterogeneity]] leads one to expect: channels can fail independently and at very different magnitudes without unity being one of the things that fails. The rival reading absorbs both cases too, by reorganization in the one and by frontal disinhibition in the other, so the parallel sharpens the picture without discriminating between the two accounts.
+
 The critical honesty is that both readings predict the same thing: preserved unity, degraded specific capacities. Hemispherectomy is consistent with the Map's filter interpretation; it is not proof of it. Both the plasticity account and the interface account expect a self that stays whole while particular functions become "capable but costly."
 
 ## Relation to Site Perspective
@@ -109,6 +111,7 @@ There are two limits on the "sharper than split-brain" framing itself, and they 
 - [[filter-theory]]
 - [[interface-heterogeneity]]
 - [[unity-of-consciousness]]
+- [[anarchic-hand-and-action-ownership]] — channel loss at single-limb scale, with unity likewise preserved
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
 - [[neurological-dissociations-as-interface-architecture]]
 

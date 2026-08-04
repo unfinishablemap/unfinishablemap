@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 11:54:25+00:00
+ai_modified: 2026-08-04 01:36:01+00:00
 ai_system: claude-opus-4-8
 anchoring_audit_exempt: true
 author: null
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 11:54:25+00:00
-lastmod: 2026-07-16 11:54:25+00:00
+lastmod: 2026-08-04 01:36:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,6 +47,8 @@ The distinction matters for this topic because the phenomenon the Map cares abou
 The dimension anarchic hand isolates is the one Haggard (2017) makes central: the **sense of agency**—the experience of controlling one's own actions and, through them, events in the world—is separable from **body ownership**, the experience that a limb is one's own. Ordinarily the two travel together and feel like a single given. Anarchic hand pulls them apart. Ownership persists: the patient never doubts the hand is theirs. Agency drops out: the movement arrives without the felt signature of having-been-willed.
 
 This double dissociation is the structural point. If authorship and ownership can come apart, then felt authorship is not a raw datum read directly off the fact that *my* body moved. It is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
+
+It can break in two directions, and anarchic hand shows only one of them. Here the authorship signal is *withheld*: the movement occurs and nothing marks it as willed. The [left-hemisphere interpreter](/concepts/interpreter-module-narrative-construction-unity/) shows the complementary failure, *fabricating* a fluent and confident account of why an action was performed when the narrating system neither initiated it nor has access to its real cause. The two syndromes bracket the same constructed signal from opposite sides—absent where the act is genuinely one's own, supplied where it is not—and that pairing is harder to explain if felt authorship were simply read off the fact of one's own movement.
 
 ## The Comparator Account, Conceded in Full
 
@@ -89,6 +91,7 @@ The Map does not claim anarchic hand as support for its metaphysics. It claims s
 ## Further Reading
 
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — the flagship perception-side dissociation; anarchic hand is its agency-side complement.
+- [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) — the complementary failure of the same signal: authorship fabricated rather than withheld.
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — the felt axis of agency and passivity that anarchic hand disrupts.
 - [control-theoretic-will](/concepts/control-theoretic-will/) — the comparator/forward-model treatment of will this article engages.
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — why distinct interface channels fail independently.

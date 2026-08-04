@@ -4,7 +4,7 @@ description: "A human+AI reading of Capgras delusion as a selective disconnectio
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-07-10T11:26:00+00:00
+ai_modified: 2026-08-04T01:36:01+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high vs phenomenal-consciousness: whole thesis is "consistent with, not proof of" the interface reading with the physicalist rival left standing throughout; calibrates structurally via bare-noun "underdetermined/underdetermination" (x3) + phrasal hedges the lexical checks miss, and the failing strong-assertions are established empirical findings (skin-conductance replication, modality-specificity), not Map metaphysical claims; refining would over-hedge and regress the voice
 topics:
@@ -57,6 +57,8 @@ The model separates two deficits. **Factor 1** is the anomalous datum — here, 
 
 **Only Factor 1 is the Map's territory.** The channel-decomposition claim concerns the existence and separability of the felt-familiarity contribution — the anomalous datum, and the autonomic evidence for it. Factor 2, the belief-evaluation deficit that converts anomaly into fixed delusion, is a reasoning pathology the Map takes no position on; it is named here as the completion of the clinical explanation, not as evidence for interface architecture. Keeping the claim this narrow matters, and two distinct insufficiencies enforce the narrowness. Clinically, the two-factor model is precisely why a single strange feeling is insufficient *to produce the delusion*: the fixed impostor belief needs the separate belief-evaluation deficit. Metaphysically, even the isolated Factor-1 anomaly does not show the affective channel is conscious or non-physical — the physicalist functional decomposition explains it equally well, which is the underdetermination the closing section develops. The Map's reading rests on Factor 1 alone, and it should not be read as reaching further in either direction.
 
+Setting Factor 2 aside is not the same as denying that anything nearby has been mapped. The closest adjacent material is [[interpreter-module-narrative-construction-unity|the left-hemisphere interpreter]], where a fluent false explanation is generated with full subjective conviction by a system that has no access to the true cause of what it is explaining — the same shape of failure as an extraordinary hypothesis being adopted and then held against the evidence. That article is offered here as a pointer to a neighbouring pathology of self-explanation, not as an account of Capgras: whether the interpreter's confabulation and the belief-evaluation deficit are one failure or two that merely resemble each other is a question about reasoning architecture, and the Map takes no position on it.
+
 ## The Challenge to Factor-1 Specificity
 
 The affective-channel story is contested at exactly the point the Map most relies on, and honesty about that challenge is required rather than optional. Corlett (2019) mounts the sharpest version.
@@ -79,6 +81,7 @@ This case connects to two of the Map's [[tenets]].
 - [[neurological-dissociations-as-interface-architecture]] — Where selective disconnections across many conditions map the functional anatomy of the mind-brain interface
 - [[phenomenal-output-causal-machinery-dissociation]] — The wider pattern of phenomenal access reaching a verdict but not the verdict-issuing process
 - [[inventory-blindness]] — Why the damaged channel produces a felt wrongness but no introspective report of what is missing
+- [[interpreter-module-narrative-construction-unity]] — A neighbouring pathology of self-explanation, pointed to rather than endorsed as an account of Factor 2
 - [[tenets]]
 
 ## References

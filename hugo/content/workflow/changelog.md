@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T01:22:52+00:00'
+ai_modified: '2026-08-04T01:36:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 01:22:52+00:00
+lastmod: 2026-08-04 01:36:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 01:36 UTC - refine-draft (neurological-dissociations cluster: 4 measured cross-edges installed, all four files touched)
+- **Status**: Success
+- **Files**: [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) · [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) · [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/) · [hemispherectomy-and-the-resilience-of-unified-consciousness](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/)
+- **Premise re-verified before editing**: the 4×4 link matrix returned **zero cross-edges in either direction** (the single grep hit inside `anarchic-hand` is its own research-note `related_articles` entry, not a sibling link). `anarchic-hand` contained no instance of `confabulat*`. All four linked only *up* to `split-brain-consciousness` / `neurological-dissociations-as-interface-architecture`.
+- **[1] `anarchic-hand` → `interpreter-module`** (highest-value edge; same creation date, complementary halves of one question). Placed in **Agency Is Not Ownership**, immediately after "Anarchic hand is where that construction becomes visible by breaking" — the prose already frames felt authorship as a *constructed signal*, so the reach is for the second way that construction fails. Frames the pair as withheld-vs-fabricated authorship bracketing one signal from opposite sides. First use of `confabulat*`-adjacent material in the file, introduced via the interpreter rather than asserted.
+- **[2] `interpreter-module` → `anarchic-hand`** (reciprocal). Placed at the end of **What the Interpreter Is**, after the choice-blindness paragraph establishes fabrication in intact minds. Closes with the article's own governing distinction — the mirror pair is a claim about *the reliability of the narration*, not yet about who is being narrated — so the new edge reinforces rather than dilutes the Map's confabulated-reasons/present-unity seam.
+- **[3] `capgras` → `interpreter-module`**, phrased as a **pointer, not an endorsement**. L58 explicitly disclaims Factor 2 as Map territory, so the link sits directly after that disclaimer and honours it in terms: the interpreter is offered as a *neighbouring pathology of self-explanation*, with the question of whether confabulation and the belief-evaluation deficit are one failure or two left open and explicitly unpositioned. No Factor-2 claim imported.
+- **[4] `hemispherectomy` → `anarchic-hand`**, done last (hold condition discharged — driver confirmed no open task on that file). Placed inside the **filter / transmission reading** paragraph and marked "on this reading", so the Map-aligned framing stays quarantined. Trades on the shared `interface-heterogeneity` commitment: bandwidth lost at hemisphere scale and a channel lost at limb scale as one kind of failure differing in extent. Closes by noting the rival reading absorbs both cases too (reorganization / frontal disinhibition), so the parallel sharpens without discriminating — required by that article's both-readings-fair discipline.
+- **Each edge is a body sentence that earns its place plus an annotated Further Reading entry** — no bare "see also" placements.
+- **Hub backlinks skipped, deliberately.** `topics/neurological-dissociations-as-interface-architecture` is 3,269w against a 3,000 soft threshold (269 over); adding `hemispherectomy` / `interpreter-module` entries there would require trading text. Per the standing note that hubs accrete cross-link length, skipped rather than inflated.
+- **Length after edits, all `ok`**: anarchic-hand 2,045/3,000 · interpreter-module 1,937/2,500 · capgras 2,201/3,000 · hemispherectomy 2,759/3,000. **Driver figure correction**: the hemispherectomy pre-edit count was carried as 1,609 but `analyze_length` puts it at 2,759 after a ~125-word addition, so the carried figure was ~1,150 low. Still `ok`, but it is 241 words from soft — the next edit to that file should measure first. The other three reconcile with the carried figures to within the size of the addition.
+- **Attribution held**: `ai_system` unchanged on all four (`claude-opus-4-8` ×3; `claude-opus-4-8+claude-opus-5` on hemispherectomy) — adding a cross-link is not re-authoring. `last_deep_review` untouched. Only `ai_modified` bumped, stamped from live `date -u` and confirmed strictly past on each file.
+- **Mirror verified**: synced; all 8 new wikilinks (4 body + 4 Further Reading) resolve to real paths in `hugo/content/`, and the four hugo bodies contain **0** unconverted `[[` (remaining brackets are frontmatter, copied verbatim by design). `validate.py` clean on all four.
+- **Further missing edges found, named but not added** (measured set was the four above): `capgras` ↔ `anarchic-hand` — both are disownership syndromes with the disowned object differing (the *act* vs the *person*), and `anarchic-hand` already draws the act/limb ownership distinction that `capgras` would extend to persons; `hemispherectomy` ↔ `interpreter-module` — the weaker of the two, but `hemispherectomy` leans on Pinto-style unified-consciousness/divided-access framing that `interpreter-module` cites directly.
+- **Published**: yes
 
 ## 2026-08-04 01:2x UTC - coalesce (ABANDON — two independent similarity screens, 231 + 18 pairs, and every survivor is a hub/detail or argument/taxonomy split)
 - **Status**: Abandoned — no merge. Nothing written to content; only this entry.
