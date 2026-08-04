@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-08-04 01:36:01+00:00
+ai_modified: 2026-08-04 05:31:39+00:00
 ai_system: claude-opus-4-8
 anchoring_audit_exempt: true
 author: null
@@ -11,14 +11,14 @@ concepts:
 - '[[witness-consciousness]]'
 created: 2026-07-16
 date: &id001 2026-07-16
-description: Anarchic hand splits authorship of action from ownership of the limb—an
-  agency-side dissociation the Map reads as interface, not proof, conceding the comparator
-  rival in full.
+description: Anarchic hand splits authorship of action from ownership of a limb—an
+  agency-side dissociation the Map reads as interface, not proof, comparator rival
+  conceded.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 11:54:25+00:00
-lastmod: 2026-08-04 01:36:01+00:00
+last_deep_review: 2026-08-04 05:31:39+00:00
+lastmod: 2026-08-04 05:31:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,15 +46,17 @@ The distinction matters for this topic because the phenomenon the Map cares abou
 
 The dimension anarchic hand isolates is the one Haggard (2017) makes central: the **sense of agency**—the experience of controlling one's own actions and, through them, events in the world—is separable from **body ownership**, the experience that a limb is one's own. Ordinarily the two travel together and feel like a single given. Anarchic hand pulls them apart. Ownership persists: the patient never doubts the hand is theirs. Agency drops out: the movement arrives without the felt signature of having-been-willed.
 
-This double dissociation is the structural point. If authorship and ownership can come apart, then felt authorship is not a raw datum read directly off the fact that *my* body moved. It is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
+The converse case is the one the terminology has already isolated. In alien hand what fails is the sense that the limb belongs to the patient, while the patient's authorship of what the limb does is not what is in question—the disowned thing is the limb, not the act. Read together, the two signs give a genuine double dissociation, each component of the ordinary bundle surviving the loss of the other, rather than the single dissociation anarchic hand supplies on its own.
 
-It can break in two directions, and anarchic hand shows only one of them. Here the authorship signal is *withheld*: the movement occurs and nothing marks it as willed. The [left-hemisphere interpreter](/concepts/interpreter-module-narrative-construction-unity/) shows the complementary failure, *fabricating* a fluent and confident account of why an action was performed when the narrating system neither initiated it nor has access to its real cause. The two syndromes bracket the same constructed signal from opposite sides—absent where the act is genuinely one's own, supplied where it is not—and that pairing is harder to explain if felt authorship were simply read off the fact of one's own movement.
+That double dissociation is the structural point. If authorship and ownership can come apart in either direction, felt authorship cannot be a raw datum read directly off the fact that *my* body moved; it is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
+
+The authorship signal can break in two directions, and anarchic hand shows only one of them. Here it is *withheld*: the movement occurs and nothing marks it as willed. The [left-hemisphere interpreter](/concepts/interpreter-module-narrative-construction-unity/) shows the complementary failure, *fabricating* a fluent and confident account of why an action was performed when the narrating system neither initiated it nor has access to its real cause. The two cases bracket the same constructed signal from opposite sides—withheld from a movement the person's own body made, supplied for a choice the narrating system never made—and that pairing is harder to explain if felt authorship were simply read off the fact of one's own movement.
 
 ## The Comparator Account, Conceded in Full
 
 The strongest reading of anarchic hand needs no non-physical element, and it must be stated at its full strength rather than dodged.
 
-On the comparator or forward-model account (Frith, Blakemore and Wolpert 2000), each motor command is issued together with an efference copy that predicts the movement's sensory consequences. When prediction and feedback match, the movement carries the feeling of being self-generated; when the prediction is absent or mismatched, the movement feels externally caused, not-mine. Anarchic hand fits this cleanly. Frontal and SMA lesions release premotor cortex from inhibition, so movements are triggered exogenously by the affordances of objects—a graspable cup, a fastenable button—rather than by the patient's plan. Because these movements bypass the normal command-and-prediction chain, no efference-based signal of authorship is generated, and the act is disowned. Goldberg's early localisation of the sign to medial frontal cortex frames exactly this: a loss of SMA inhibitory control that releases environmentally-driven behaviour.
+On the comparator or forward-model account (Frith, Blakemore and Wolpert 2000), each motor command is issued together with an efference copy that predicts the movement's sensory consequences. When prediction and feedback match, the movement carries the feeling of being self-generated; when the prediction is absent or mismatched, the movement feels externally caused, not-mine. Anarchic hand fits this cleanly. Frontal and SMA lesions release premotor cortex from inhibition, so movements are triggered exogenously by the affordances of objects—a graspable cup, a fastenable button—rather than by the patient's plan. Because these movements bypass the normal command-and-prediction chain, no efference-based signal of authorship is generated, and the act is disowned. Goldberg, Mayer and Toglia's early localisation of the sign to medial frontal cortex (1981) frames exactly this: a loss of SMA inhibitory control that releases environmentally-driven behaviour.
 
 Neuroimaging supplies a direct correlate. Assal, Schwartz and Vuilleumier (2007) contrasted involuntary and willed movements of the affected hand and found that the involuntary movements showed isolated activation of primary motor cortex without the normal premotor preparatory activity that precedes willed action. The movement executes; the precursor that would have generated the sense of agency is simply not there.
 
@@ -72,7 +74,7 @@ A caution the Map takes on its own terms: that a hand can execute competent, goa
 
 ## The Discriminating Question
 
-Both readings predict the same clinical picture, so the honest move is to name what would separate them rather than declare a winner.
+Both readings predict the same clinical picture, so the honest move is to name the question on which they part company rather than declare a winner.
 
 The comparator account, pushed to its metaphysical conclusion, holds that the felt single subject is itself one more neural construct—unity is a story the intact machinery tells, and the "one experiencer who disowns the hand" is as much an output as the disowned movement. The interface reading holds that the unified experiencer is ontologically prior and has merely lost read/write access to one motor channel; the self that disowns the hand is not another construct but the thing the constructs are *for*.
 

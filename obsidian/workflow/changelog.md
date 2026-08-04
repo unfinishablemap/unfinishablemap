@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T05:17:48+00:00
+ai_modified: 2026-08-04T05:31:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 05:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/anarchic-hand-and-action-ownership]]
+- **Word count**: 2045 → 2141 (+96)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 4
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-08-04-anarchic-hand-and-action-ownership]]
+- **Notes**: **All three criticals were in prose installed after the last deep review, or in a term the first review did not test.** (1) The article called the agency/ownership relation a *double* dissociation twice while exhibiting only the agency-lost arm; the converse arm sat introduced-but-unused in the terminology section (alien hand as partial hemisomatognosia — disowned *limb*, not disowned *act*). Added three sentences connecting it back, so a technical term now has both arms behind it. Scoped strictly to what Marchetti & Della Sala 1998 assert — a feeling of non-belonging contrasted with involuntary motor activity — and deliberately *not* extended to a claim about preserved voluntary control, which the abstract does not license. (2) The cross-link paragraph installed at 01:36 today read "supplied where it is not [one's own]", which prejudges the split-brain subjecthood question this same article declares undecided fourteen lines later, and diverges from the sibling concept article's own careful "supplied for a choice the narrating system never made". Rewritten to match the sibling. This is [[navigation-surfaces-carry-unreviewed-claims]] in a compressed subordinate clause rather than a link label. (3) "The two syndromes" mischaracterised the interpreter, which the sibling establishes as a standing feature of intact minds on the choice-blindness evidence, not a lesion artifact → "the two cases". **§2.4 re-run in full** despite an untouched References block, because the body changed: all 7 external cites confirmed real-correct at canonical publisher records with DOIs resolved, inline↔References clean both directions, 0 superlatives. Two paraphrases checked on the empirical-fidelity axis — Feinberg's "roughly twenty cases" is exactly 20 in the abstract, and Assal's isolated-M1-without-premotor finding is faithful. **Engagement classification (editor-internal): comparator/forward-model account — Mode Three, framework-boundary marking, unchanged from 2026-07-16; no boundary-substitution, no label leakage in prose.** Mediums: the forbidden "not X. It is Y." construct at the article's most-quoted sentence (collapsed to a semicolon, content preserved — the 2026-08-02 optimistic review cites this line as a strength); a promise/delivery mismatch where "name what would separate them" promised a discriminator and delivered a stalemate (now "name the question on which they part company", which the section does deliver); Goldberg was the only inline cite without a year; description 175 → 160 chars. **WebSearch budget was exhausted at 200/200** — all verification ran through OpenAlex and Europe PMC per [[webfetch-survives-websearch-exhaustion]], which was sufficient for every cite. Article stays well under threshold at 2141/3000. The ownership-side gap closed here was the 2026-08-02 cluster review's top expansion candidate; its other two recommendations (somatoparaphrenia and sense-of-agency as standalone concepts) remain blocked on `concepts/` cap headroom and are recorded in the review archive, not minted.
 
 ## 2026-08-04 05:17 UTC - combine-outer-reviews
 - **Status**: Success
