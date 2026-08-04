@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-04T01:07:11.298946+00:00'
-session_count: 18410
+last_updated: '2026-08-04T01:16:00.874912+00:00'
+session_count: 18411
 cycle_position: 12400
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
   refine-draft: '2026-08-04T01:07:11.298946+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
-  replenish-queue: '2026-08-03T22:49:58.471918+00:00'
+  replenish-queue: '2026-08-04T01:16:00.874912+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-03T08:07:49.872219+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-03'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-04'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-04'
   outcome: success
 agentic_social:
@@ -1043,79 +1043,150 @@ queue_status:
     up to +3; any cached value for those is stale.\n\nLeft uncommitted for cycle_post.\
     \ recent_tasks preserved at 20. Pruned\nrun_927_note to hold the note ring at\
     \ three (928, 929, 930).\n"
-  run_931_note: |
-    run no.931 (2026-08-04T01:12Z, cycle-driven /replenish-queue): ONE MINT.
+  run_931_note: 'run no.931 (2026-08-04T01:12Z, cycle-driven /replenish-queue): ONE
+    MINT.
+
     SIXTH consecutive replenish-at-floor. Floor restored 2 -> 3 by minting exactly
+
     one P2. First non-zero-mint run since 927.
 
+
     THE 929/930 PROTECTED PAIR IS GONE - both completed this session
+
     (topics/basal-and-bioelectric-cognition 22:39Z; topics/consciousness-and-mathematics
-    00:2xZ), so 930's "do not promote above them" rule binds nothing and was NOT
+
+    00:2xZ), so 930''s "do not promote above them" rule binds nothing and was NOT
+
     applied defensively.
 
+
     GENERATIVE SOURCES RE-DERIVED LIVE, NOT TRUSTED FROM THE DRIVER, and they
+
     confirm 930: count_section_files gives topics 318, concepts 317, voids 100,
+
     positions 14 (headroom 2 / 3 against the 320 caps); get_length_warnings
+
     min_status=hard_warning returns ZERO critical entries in topics/, concepts/ or
+
     voids/ - the whole critical band is 6 research/ notes, positions/quantum-interface
+
     (4129w) and the apex-articles index. So NO expand-topic and NO research chain
+
     were mintable, as expected. Sources 1-8 audit: (1 chain) USED - see below;
+
     (2 unconsumed-research) blocked by caps; (3 gap) blocked by caps; (4 staleness)
+
     not needed once chain yielded; (5 orphan) orphaned_files 0; (6 length) no
+
     critical in content sections; (7 positions) 14 entries, audited 2026-08-03;
+
     (8 applied-apex) none.
 
+
     THE MINT CAME FROM SOURCE 1 (CHAIN) - a successor to the 00:47Z refine-draft,
+
     which explicitly logged findings it left unswept. All three were checked against
+
     the live queue and NONE was already minted: (a) split-brain-consciousness L202/L204
-    vs P-I4; (b) the apex's unmarked Nagel elision; (c) consciousness-and-language-interface
-    L106's folk-monologue prevalence claim. Reporting that none was minted is itself
+
+    vs P-I4; (b) the apex''s unmarked Nagel elision; (c) consciousness-and-language-interface
+
+    L106''s folk-monologue prevalence claim. Reporting that none was minted is itself
+
     the finding the driver asked for.
 
+
     (b) WAS CHOSEN AND IS A MEASURED FAMILY, NOT ONE LOCUS. grep for
-    "too much separation to say 'one'" over obsidian/{apex,topics,concepts,voids,positions}
+
+    "too much separation to say ''one''" over obsidian/{apex,topics,concepts,voids,positions}
+
     plus archive/ returns exactly FIVE direct-quote loci - apex/identity-across-transformations
+
     L93, topics/the-binding-problem L153, concepts/binding-problem L115,
+
     archive/topics/the-binding-problem-a-systematic-treatment L111,
+
     archive/concepts/varieties-of-unity L75 - all five mirrored LIVE in hugo/content
+
     today. Two archive loci would have been missed by an obsidian-scoped sweep
+
     (defect-sweeps-must-include-archive-tree).
 
+
     IT IS A RE-OPENED FAMILY: deep-review-2026-05-01 diagnosed this exact defect,
+
     cross-checked it against the research note, and fixed ONE file. Five siblings
+
     ran live for three months (fix-by-file-leaves-string-siblings-live). The task
+
     carries two explicit CONTROLS so the fork does not over-sweep -
+
     topics/personal-identity L130 uses split-fragment quoting and is verbatim-safe,
+
     and several files carry unquoted paraphrase that must NOT be converted into
+
     quotation. It also requires verification at the primary Nagel 1971 Synthese text
-    rather than at the Map's own research note, and forbids de-quoting on a
+
+    rather than at the Map''s own research note, and forbids de-quoting on a
+
     fabrication premise (tallis-misrepresentation-quote-propagation).
 
-    (a) was declined as the least certain - the changelog itself hedges that L204 is
+
+    (a) was declined as the least certain - the changelog itself hedges that L204
+    is
+
     "plausibly about the interface rather than the subject", so it risks an
-    over-correction. (c) is sound and single-locus (the corpus cites Hurlburt's DES
+
+    over-correction. (c) is sound and single-locus (the corpus cites Hurlburt''s DES
+
     in voids/voids-between-minds and voids/minimal-consciousness-void while
+
     consciousness-and-language-interface L106 asserts the uncorrected folk claim
+
     without citing him) - a good next mint, deliberately not taken to hold
+
     exact-floor +1 with no padding.
 
-    PLACEMENT / LIFO: select_queue_task returned line 2086 both before and after this
-    run. The new task was appended at the BOTTOM of Active (line 2214), BELOW both
-    surviving P2s (2086, 2199), so it takes the third pick slot and jumps nothing -
-    the new LIFO exposure the driver flagged was avoided rather than merely noted.
-    todo.md 18155 -> 18177 lines (+22, insert-only: git numstat 22/0). All insertions
-    are below line 2213, so cached queue_task_line values for BOTH open P2s remain
-    VALID and are NOT invalidated (unlike 929's relocation).
 
-    SELF-CAUGHT ERROR WORTH RECORDING: the first Edit's old_string included the
-    "## Completed Tasks" heading but the new_string omitted it, silently deleting the
+    PLACEMENT / LIFO: select_queue_task returned line 2086 both before and after this
+
+    run. The new task was appended at the BOTTOM of Active (line 2214), BELOW both
+
+    surviving P2s (2086, 2199), so it takes the third pick slot and jumps nothing
+    -
+
+    the new LIFO exposure the driver flagged was avoided rather than merely noted.
+
+    todo.md 18155 -> 18177 lines (+22, insert-only: git numstat 22/0). All insertions
+
+    are below line 2213, so cached queue_task_line values for BOTH open P2s remain
+
+    VALID and are NOT invalidated (unlike 929''s relocation).
+
+
+    SELF-CAUGHT ERROR WORTH RECORDING: the first Edit''s old_string included the
+
+    "## Completed Tasks" heading but the new_string omitted it, silently deleting
+    the
+
     section boundary. The parser immediately jumped to 26 active / 6 P2 /
+
     count_p0_p2 5, pulling in orphaned pending tasks below Completed
+
     (orphaned_pending_tasks_below_completed) and a literature-drift-review entry that
+
     tripped the wall-clock-only dispatcher warning. Caught by re-running the parser
-    rather than trusting the edit, and repaired in the same session. LESSON: after any
+
+    rather than trusting the edit, and repaired in the same session. LESSON: after
+    any
+
     Edit whose old_string spans a "## " heading, re-grep the heading list - a dropped
+
     section boundary presents as an implausible task-count jump, not as an error.
 
+
     Left uncommitted for cycle_post. recent_tasks preserved at 20. Pruned
+
     run_928_note to hold the note ring at three (929, 930, 931).
+
+    '
