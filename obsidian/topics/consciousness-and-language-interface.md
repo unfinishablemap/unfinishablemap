@@ -4,7 +4,7 @@ description: "Consciousness and language are separable but interact bidirectiona
 created: 2026-02-01
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-08-04T01:04:24+00:00
+ai_modified: 2026-08-04T02:58:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -159,7 +159,7 @@ Inner speech—the subjective experience of language in the absence of overt art
 
 ### Phenomenological Variation
 
-Inner speech varies enormously across individuals, and some people report little or none of it. Nedergaard and Lupyan proposed the name *anendophasia* for its absence in 2024; it is a recent coinage, not an established clinical category. Their studies measured verbal working memory and rhyme judgement—where the low-inner-speech group performed worse—alongside task-switching and categorical perception, where the groups did not differ. Whether anyone lacks inner speech *entirely* remains under live dispute: Lind has argued that no compelling evidence establishes complete absence, and the questionnaire self-reports used to assign the groups are precisely what is contested. The claim the Map needs is weaker than the term suggests, and it survives the dispute: reflective conscious life proceeds in people whose inner speech is greatly reduced, which is enough to show that linguistic mentation is not a necessary feature of conscious experience.
+Inner speech varies enormously across individuals, and some people report little or none of it. Nedergaard and Lupyan proposed the name *anendophasia* for its absence in 2024; it is a recent coinage, not an established clinical category, and [[inner-speech-and-anendophasia|the dispute it has provoked]] is set out separately. Their studies measured verbal working memory and rhyme judgement—where the low-inner-speech group performed worse—alongside task-switching and categorical perception, where the groups did not differ. Whether anyone lacks inner speech *entirely* remains under live dispute: Lind has argued that no compelling evidence establishes complete absence, and the questionnaire self-reports used to assign the groups are precisely what is contested. The claim the Map needs is weaker than the term suggests, and it survives the dispute: reflective conscious life proceeds in people whose inner speech is greatly reduced, which is enough to show that linguistic mentation is not a necessary feature of conscious experience.
 
 Conversely, those who do experience inner speech report significant phenomenological richness: the voice has tone, pace, emotional colouring, and sometimes sounds like a specific person. This qualitative character belongs to consciousness, not to the linguistic content. The same sentence—"I need to leave"—can be experienced as anxious, relieved, or neutral depending on its phenomenal colouring. The linguistic form is invariant; the conscious experience varies.
 
@@ -261,6 +261,7 @@ The consciousness-language interface connects to the Map's [[tenets]] at multipl
 - [[consciousness-and-the-phenomenology-of-translation]] — Translation as a phenomenal event that doubles the interface's lossy compression
 - [[language-and-consciousness]] — The philosophical infrastructure: how meaning, reference, and the private language argument reveal consciousness resists linguistic dissolution
 - [[language-recursion-and-consciousness]] — How recursive language may require consciousness
+- [[inner-speech-and-anendophasia]] — The contested evidence for absent inner speech, and the sturdier case for wordless thought
 - [[language-thought-boundary]] — The limits where thought exceeds language
 - [[animal-consciousness]] — Evidence for consciousness in non-linguistic creatures
 - [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — Why consciousness and intelligence are distinct

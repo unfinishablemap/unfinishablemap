@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-08-03T22:18:10+00:00
+ai_modified: 2026-08-04T02:58:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ The Map's interactionist dualism can absorb Wittgenstein's insight without aband
 
 Phenomenal terms like "pain," "red," and "bitter" get their public meaning through shared practices—pointing, grimacing, correcting children who use words unusually. Wittgenstein is right that this public dimension is essential for language to function. But public meaning does not exhaust what phenomenal terms do. When a speaker uses the word "pain" while *in pain*, the utterance has both public functional meaning and private phenomenal reference. The public dimension makes communication possible. The private dimension makes the communication *about something*.
 
-The private language argument shows that a language *consisting entirely* of private terms is incoherent. It does not show that a public language cannot *refer to* private states. The distinction matters. Human language is public—learned socially, governed by shared norms—yet it refers to phenomenal states that each speaker accesses privately. The referential reach of public language extends beyond the public domain. Reports of anendophasia—the [[consciousness-and-language-interface|absence of inner speech]]—point the same way, though less decisively than they first appear to. People who report little or no inner voice still talk about their phenomenal states in ordinary public vocabulary, which fits the claim that phenomenal reference depends on conscious experience rather than on private linguistic rehearsal. The support is suggestive rather than demonstrative: Nedergaard and Lupyan, who coined the term, measured verbal working memory and rhyme judgement rather than phenomenal reference, and Lind has since questioned whether anyone lacks inner speech entirely.
+The private language argument shows that a language *consisting entirely* of private terms is incoherent. It does not show that a public language cannot *refer to* private states. The distinction matters. Human language is public—learned socially, governed by shared norms—yet it refers to phenomenal states that each speaker accesses privately. The referential reach of public language extends beyond the public domain. Reports of anendophasia—the [[consciousness-and-language-interface|absence of inner speech]]—point the same way, though less decisively than they first appear to. People who report little or no inner voice still talk about their phenomenal states in ordinary public vocabulary, which fits the claim that phenomenal reference depends on conscious experience rather than on private linguistic rehearsal. The support is suggestive rather than demonstrative: Nedergaard and Lupyan, who coined the term, measured verbal working memory and rhyme judgement rather than phenomenal reference, and Lind has since questioned whether anyone lacks inner speech entirely. The full exchange is traced in [[inner-speech-and-anendophasia]].
 
 Consider pain. The word has public criteria: behavioural expressions, medical contexts, shared understanding. These criteria enable communication. But what motivates the communication—what the speaker is *talking about*—is a phenomenal state accessible only to them. The public criteria are necessary for the word to function linguistically; they are not sufficient to capture what the word is about.
 
@@ -128,6 +128,7 @@ The philosophy of language under dualism connects to the Map's [[tenets]] at sev
 ## Further Reading
 
 - [[consciousness-and-language-interface]] — The bidirectional phenomenology of language and consciousness
+- [[inner-speech-and-anendophasia]] — Whether anyone truly lacks an inner voice, and what the evidence actually supports
 - [[language-recursion-and-consciousness]] — Recursive language structure as potentially requiring consciousness
 - [[consciousness-and-testimony]] — How first-person testimony transmits phenomenal knowledge
 - [[philosophical-zombies]] — The conceivability of language without consciousness

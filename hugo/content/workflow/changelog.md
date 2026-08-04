@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 02:36:00+00:00
+ai_modified: 2026-08-04 03:01:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 02:36:00+00:00
+lastmod: 2026-08-04 03:01:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 03:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: inner speech and anendophasia
+- **Output**: [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/) (new)
+- **Word count**: 2,863 total / **2,598 prose** + 267 reference apparatus (95% of the 3,000 topics soft threshold, `ok`) — deliberately left with headroom so it does not start life needing a condense
+- **Based on research**: yes — [inner-speech-and-anendophasia-2026-08-02](/research/inner-speech-and-anendophasia-2026-08-02/) (4,339 w), consumed in full
+- **Section cap**: `topics/` 319 → **320 of a 320 cap**. The driver's brief said 318/headroom-2; live `ls obsidian/topics | wc -l` read **319** before this create, so this article closes the section. **`topics/` is now AT CAP **[driver correction 2026-08-04T03:0xZ: `topics/` is NOT at cap. The claim used a raw `ls obsidian/topics | wc -l` = 320, which counts `topics.md`, the Hugo section index. The ENFORCING counter, `tools.evolution.state.count_section_files('topics')`, excludes it and returns **319**; `is_section_at_cap('topics', caps)` returns **False**. One slot remains, so `/expand-topic` and `/replenish-queue` will NOT refuse a further topic article. This is the same measurement-basis error corrected in replenish run 928 (317 vs 318) — use `count_section_files`, never `ls`. The right module is `tools.evolution.state`, not `tools.evolution.caps`, which does not exist.]**** — `/expand-topic` and `/replenish-queue` should refuse new topic articles from here.
+- **Angle taken**: the recommended one from the note — own the phenomenon, treat anendophasia as a contested case study in how phenomenal-absence claims get made, and move the argumentative load onto **unsymbolized thinking** (Hurlburt & Akhter 2008) and the **~25%-of-sampled-moments** frequency (Heavey & Hurlburt 2008), neither of which depends on a disputed existence claim. Hurlburt & Akhter was previously uncited corpus-wide; it is the note's highest-value find.
+- **Calibration held**: strongest modal is **suggestive**, never *demonstrates* / *reveals*. The article routes the anti-constitutive argument through **greatly reduced** inner speech rather than through anyone at exactly zero, and says so explicitly in the second paragraph so it survives truncation. Lind (2025) and Hurlburt (2026) are named as **live**, not dispatched, in a dedicated "What Would Challenge This View?" section — two of the four falsifiers run *against* the Map. The five-turn exchange (coinage → Lind's challenge → the coiners' continuum concession → Lind's reply → Hurlburt's adjudication) is reported in order, with the concession marked as coming from the coiners themselves.
+- **Attribution ceiling inherited, not laundered**: the research note records that **no full texts were read** — every source verified at publisher-deposited metadata + abstract only. The article therefore contains **zero quoted spans** from any of these sources by design; all source characterisation is paraphrase. Both preprints (Lupyan & Nedergaard 2025 OSF; Lind 2025 PsyArXiv) are labelled *not peer reviewed* in the References block. Hurlburt (2026) cited as online-ahead-of-print with article number and **no invented volume/issue**. **No prevalence figure** stated — none exists in the searched literature, and inventing one was the note's named hazard.
+- **Traps avoided**: no bald phenomenal-absence lead (framing is framework-relative throughout — what the Map's commitments license *withholding*); anauralia explicitly **not** equated with anendophasia (auditory imagery is broader than inner speech); Vygotsky **not** cited primary (unverifiable this session — the internalisation tradition is attributed via Alderson-Day & Fernyhough 2015, and A-D&F are *not* claimed to endorse the constitutive view); the aphantasia/anendophasia **function asymmetry** reported honestly rather than smoothed (imagery absence carries little functional cost, inner-speech reduction carries a specifically verbal one).
+- **Two-layer framing inherited, not composed**: the *Relation to Site Perspective* section reuses the settled formulation from `topics/philosophy-of-language-under-dualism` L68–74 — anendophasia and LLMs both *illustrate* the functional/phenomenal two-layer distinction without settling whether the layers come apart — and cites [ai-consciousness-scope](/positions/ai-consciousness-scope/) P-AC4 for the AI-adjacent half.
+- **Integration (3 inbound links, measured deltas)**: `topics/consciousness-and-language-interface` prose pointer + 1 Further Reading bullet, **3,704 → 3,731 w (+27)**, status unchanged `soft_warning`, 269 under the 4,000 ceiling; `topics/philosophy-of-language-under-dualism` 1 sentence + 1 bullet, **2,685 → 2,708 w (+23)**, status `ok`; `topics/language-recursion-and-consciousness` **4,046 → 4,046 w (+0, strictly length-neutral)** — wikilink retarget of the existing words "inner speech" at *Silent Thought and Inner Speech*, nothing added, because that file is already at `hard_warning`. `ai_modified` bumped on all three from live `date -u`, confirmed strictly past.
+- **Chain queued, not run inline**: P2 `cross-review` minted immediately below the originating expand task (line 2023), carrying the outstanding `topics/aphantasia` + `concepts/introspection` inbounds, the length fence, and the paraphrase-only ceiling. Inserted **after** the originating task so its line number (2000) and the `.unfin/current-queue-task.json` sentinel stayed stable.
+- **Apex sources**: checked `obsidian/apex/apex-articles.md` — the new article is not listed as a source for any apex entry; no `apex-evolve` task minted.
+- **Synced to hugo in-session**; mirror verified at `hugo/content/topics/inner-speech-and-anendophasia.md`, all 13 body links resolving, `scripts/validate.py` reports **✓ Valid**.
+- **Published**: yes
 
 ## 2026-08-04 02:36 UTC - refine-draft
 - **Status**: Success (closes the last quoted straggler of the Nagel/SEP fabricated-quote family)

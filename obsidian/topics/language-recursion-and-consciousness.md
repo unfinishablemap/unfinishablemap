@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-03T22:09:11+00:00
+ai_modified: 2026-08-04T02:58:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,7 +137,7 @@ Contemplative traditions supply introspective reports that converge with the cog
 
 ### Silent Thought and Inner Speech
 
-Some meditators report accessing thought prior to verbalization—the pre-linguistic "impulse" that becomes articulated in inner speech. This pre-verbal thought has structure (intentions, directions, relations) without linguistic form. If recursion were purely linguistic, pre-verbal thought couldn't be recursive; but meditators report that pre-verbal intention can have nested structure—intending to express that John believes that Mary thinks X—the recursion appearing in the thought itself, which then finds linguistic expression. This suggests recursion is a property of conscious cognition, not just of language: language expresses recursive structure, but the structure originates in phenomenal thought.
+Some meditators report accessing thought prior to verbalization—the pre-linguistic "impulse" that becomes articulated in [[inner-speech-and-anendophasia|inner speech]]. This pre-verbal thought has structure (intentions, directions, relations) without linguistic form. If recursion were purely linguistic, pre-verbal thought couldn't be recursive; but meditators report that pre-verbal intention can have nested structure—intending to express that John believes that Mary thinks X—the recursion appearing in the thought itself, which then finds linguistic expression. This suggests recursion is a property of conscious cognition, not just of language: language expresses recursive structure, but the structure originates in phenomenal thought.
 
 ### Buddhist Perspectives on Language and Mind
 

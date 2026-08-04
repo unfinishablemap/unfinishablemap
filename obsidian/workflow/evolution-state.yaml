@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-04T02:37:32.454425+00:00'
-session_count: 18422
+last_updated: '2026-08-04T02:50:45.175225+00:00'
+session_count: 18423
 cycle_position: 12406
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
   refine-draft: '2026-08-04T02:37:32.454425+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
-  replenish-queue: '2026-08-04T01:49:35.224431+00:00'
+  replenish-queue: '2026-08-04T02:50:45.175225+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-01T14:15:13.094634+00:00'
   add-highlight: '2026-08-03T08:07:49.872219+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-03'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-08-03'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-04'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-04'
   outcome: success
 agentic_social:
@@ -1268,138 +1268,260 @@ queue_status:
     run_929_note to hold the note ring at three (930, 931, 932).
 
     '
-  run_933_note: |-
-    run no.933 (2026-08-04T02:52Z, cycle-driven /replenish-queue): ONE MINT, ONE
+  run_933_note: 'run no.933 (2026-08-04T02:52Z, cycle-driven /replenish-queue): ONE
+    MINT, ONE
+
     PROMOTION, TWO PRE-VERIFIED DRIVER CANDIDATES DECLINED ON MEASUREMENT.
+
     EIGHTH consecutive replenish-at-floor. Floor restored 2 -> 4.
 
+
     COUNTS re-derived live via tools.todo.processor.parse_tasks, never read from
+
     state. BEFORE 21 live / 0 P0 / 0 P1 / 2 P2 / 19 P3 (matches the driver exactly,
+
     below MIN_QUEUE 3). AFTER 22 live / 0 P0 / 0 P1 / 4 P2 / 18 P3. Section counts
+
     via count_section_files: topics 318, concepts 317, voids 100, positions 14.
 
+
     THE DRIVER SAID "GENERATIVE SOURCES REMAIN CLOSED - no expand-topic". THAT IS
+
     WRONG ON THE CAP AND IT COST FOUR RUNS. section_caps.max_topics is 320 and
-    count_section_files('topics') is 318, so headroom is 2, not zero. The cap rule
+
+    count_section_files(''topics'') is 318, so headroom is 2, not zero. The cap rule
+
     refuses AT OR ABOVE cap; 318 is below it. Runs 930, 931 and 932 each recorded
+
     "headroom 2 and 3 against the 320 caps" and then each concluded no expand-topic
+
     was mintable, which does not follow from their own measurement. The consequence
+
     was concrete: a paid-for research note has been sitting unconsumed since
+
     2026-08-02.
 
-    THE PROMOTION (this run's highest-value act, and it required no invention).
+
+    THE PROMOTION (this run''s highest-value act, and it required no invention).
+
     todo L2001 "Write article on inner speech and anendophasia" was sitting at P3.
-    It is the ONLY live instance of unconsumed_research, which is this skill's
+
+    It is the ONLY live instance of unconsumed_research, which is this skill''s
+
     highest-weighted source (+60, ranked above chain deliberately "to prevent
+
     research backlog accumulation"). Verified this run: the note exists at
+
     research/inner-speech-and-anendophasia-2026-08-02.md (4,339 w by analyze_length)
+
     and `ls` over obsidian/topics, obsidian/concepts, archive/topics and
+
     archive/concepts returns NO live or archived article for inner-speech /
+
     anendophasia / inner-monologue. The most recent commit on the branch is
+
     auto(research-topic) for this very subject. At P3 the P0-P2 selector would never
+
     have reached it. This is exactly the mis-sorting tune-system recorded - the
+
     queue was not empty, it was sorted wrong - and promoting on merit is the arm of
+
     that remedy available from inside this skill.
 
-    STALE FIGURE CORRECTED IN PLACE while promoting: that task's CAP line read
+
+    STALE FIGURE CORRECTED IN PLACE while promoting: that task''s CAP line read
+
     "cap is 320, currently ~273 - ample headroom", copied from CLAUDE.md rather than
+
     measured. Re-measured to 318/320, headroom 2, going to 319/320 on completion.
+
     Recorded as stale_task_anchors_repaired: 1. The operator should see that this
+
     spends one of the last two topics slots.
 
+
     THE MINT: split-brain-consciousness, the candidate declined by BOTH runs 931 and
+
     932 as "least certain". The driver said do not mint it without reading it. It
+
     was read this run, and the finding is real BUT THE INHERITED LOCUS IS WRONG.
+
     L202 is CORRECT and must not be touched - it says the "how many minds" question
+
     wrongly assumes the anatomy can be read for the answer, which is precisely what
+
     P-I3 holds. The defect is L204: "something that can be partially divided while
+
     remaining somehow one. The indeterminacy itself may be a clue", which asserts
-    metaphysical partial division of the subject against P-I4's flat "a conscious
+
+    metaphysical partial division of the subject against P-I4''s flat "a conscious
+
     perspective is a particular that does not divide". This is why two runs could
+
     not resolve it from the note alone - the TARGET was sound and the asserted
+
     defect was not, the replenish-asserted-concrete-defect-often-false shape.
 
+
     WHAT MAKES IT P2 IS THAT THE CONTRADICTION IS INTERNAL. L98 of the same article
-    already installs the register's fence in the Map's own voice, citing the
+
+    already installs the register''s fence in the Map''s own voice, citing the
+
     individuation register for determinate-but-unreadable boundaries. The article
+
     then closes 106 lines later by asserting the opposite, in the section a
-    truncating summariser weights hardest. P-I3's own Asserts field names this
+
+    truncating summariser weights hardest. P-I3''s own Asserts field names this
+
     overshoot AND its Argued-in list cites this very article - the register is
+
     citing as support an article whose closing section contradicts it, which is
+
     citation-framing-accuracy-lens pointing inward.
 
+
     THE TASK TRIAGES FIVE GREP LOCI AND PROTECTS THREE OF THEM. Fix L204 and L190,
+
     assess L90, LEAVE L88 (it denies degrees, already P-I4-consistent) and LEAVE
+
     L162 (explicitly epistemic, P-I3-compatible, and it is the illusionism
+
     argument). The population is SMALLER than the grep suggests, so
+
     fix-by-file-leaves-string-siblings-live is cited in the inverse direction: do
+
     not sweep the string.
 
+
     CANDIDATE DECLINED no.1 - topics/the-binding-problem condense, which the driver
+
     supplied as pre-verified and warned to scope to hard not soft. MEASURED, AND THE
+
     PREMISE DOES NOT HOLD. analyze_length gives 4,087 w against a 4,000 hard
+
     ceiling, but decomposing by section shows Further Reading 148 w + References
-    178 w = 326 w of reference apparatus, plus a 40 w yt-embed block. Prose alone is
+
+    178 w = 326 w of reference apparatus, plus a 40 w yt-embed block. Prose alone
+    is
+
     3,761 w - 239 UNDER the hard ceiling. This is the identical shape to the
+
     standing NEEDS-HUMAN at todo L644 for topics/personal-identity (~96 w over,
+
     diverted because "the breach is NOT prose bloat" and the overage is Further
+
     Reading + References mass), and to the L103 and L40 markers, which both turn on
+
     the article being over "on prose alone". Minting a condense here would have
+
     minted a task whose stated premise is false and licensed cutting
+
     calibration-dense prose that is not the cause. NOT MINTED - and this is the
+
     generalisable point: analyze-length-counts-reference-apparatus means a
+
     hard_warning within ~350 w of the ceiling must be decomposed before it is
+
     minted, not after.
 
+
     CANDIDATE DECLINED no.2 - topics/personal-identity condense, 4,069 w. Already
+
     covered by the NEEDS-HUMAN block at todo L644 since 2026-07-07. Not re-minted.
 
+
     CANDIDATE DECLINED no.3 - positions/quantum-interface, which get_length_warnings
-    puts at 4,129 w CRITICAL against the positions 4,000 critical threshold, with no
+
+    puts at 4,129 w CRITICAL against the positions 4,000 critical threshold, with
+    no
+
     in-scope fix (367 w header + 3,760 w across ten live position entries, and the
+
     audit trail was already relocated to quantum-interface-calibration-history in
-    June). It looks like a P1 condense by this skill's own table. It is ALREADY
+
+    June). It looks like a P1 condense by this skill''s own table. It is ALREADY
+
     RECORDED at todo L2115, "NEEDS-HUMAN (section tuning) 2026-08-03: positions/
+
     inherits article word thresholds, but a register grows by design", which names
+
     it at 4045 (critical). Not re-minted; the drift is +84 w in one day, worth the
+
     operator knowing.
 
+
     THE METHODOLOGY FINDING WAS RECORDED, NOT MINTED. "Contiguity is not
+
     provenance": reviews/deep-review-2026-07-30-personal-identity L49 recorded a
+
     PASS on the ground that the two Nagel fragments are grep-contiguous in the raw
+
     file, with "Not re-verified at Springer this pass (403); the 2026-05-29 fix
-    stands". Tonight's passes established the phrase appears in no primary source.
-    Grep-contiguity is a test against the Map's OWN copy - it detects unmarked
+
+    stands". Tonight''s passes established the phrase appears in no primary source.
+
+    Grep-contiguity is a test against the Map''s OWN copy - it detects unmarked
+
     elision on our side and says nothing about whether any source contained the
+
     string. It kept personal-identity designated a verbatim-safe control for over
+
     two months. Filed as a NEEDS-HUMAN block rather than a task because
+
     project/human-supervision.md L47 reserves instituting disciplines to the
+
     operator, because TWO NEEDS-HUMAN blocks on that exact file already exist (todo
+
     L310 and L361, both diverted on the same ground), and because a third
+
     executable task on one file is the outer-review-same-file-task-pileup shape. The
+
     block records that the trap runs BOTH ways - contiguity present locally read as
+
     clean here, contiguity absent at the publisher read as fabricated in the Tallis
+
     case, where 47 loci were de-quoted on a false premise.
 
+
     PLACEMENT AND LIFO, AND THIS RUN DELIBERATELY DID JUMP THE QUEUE ONCE. The new
-    mint was APPENDED at the bottom of Active (line 2234), below both run-932 P2s at
+
+    mint was APPENDED at the bottom of Active (line 2234), below both run-932 P2s
+    at
+
     2188 and 2213, so it takes the last pick slot and jumps nothing. The PROMOTION
+
     at line 2000 does sort ahead of them, and that is intended, not an oversight:
+
     the promoted task was generated 2026-08-02, the other three P2s were all
+
     generated 2026-08-04, so oldest-first is the anti-starvation direction. Pick
+
     order is now 2000 (inner speech) -> 2188 -> 2213 -> 2234.
 
+
     CACHED LINE VALUES ARE NOT INVALIDATED. Every edit above line 2234 was
+
     LINE-PRESERVING by construction - the promotion changed "### P3:" to "### P2:"
+
     in place, and the Source and CAP corrections were rewritten as single lines. Git
+
     numstat confirms the shape. Lines 1-2233 are untouched, so queue_task_line for
+
     both open run-932 P2s (2188, 2213) remains VALID. Separately noted, not caused
+
     here: .unfin/current-queue-task.json still holds the COMPLETED 02:30Z Nagel task
+
     with line_number 48, which now points at a different P3 - it was already stale
+
     before this run, and the TITLE sentinel will not match, so cycle_post should
+
     re-derive rather than trust it.
 
+
     todo.md 18209 -> 18259 lines (+50, insert-only apart from three in-place line
+
     rewrites). YAML re-validated with yaml.safe_load after writing. recent_tasks
+
     preserved at 20. Pruned run_930_note to hold the note ring at three (931, 932,
-    933).
+
+    933).'

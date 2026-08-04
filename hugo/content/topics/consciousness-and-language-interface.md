@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-04 01:04:24+00:00
+ai_modified: 2026-08-04 02:58:08+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:22:39+00:00
-lastmod: 2026-08-04 01:04:24+00:00
+lastmod: 2026-08-04 02:58:08+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -163,7 +163,7 @@ Inner speech—the subjective experience of language in the absence of overt art
 
 ### Phenomenological Variation
 
-Inner speech varies enormously across individuals, and some people report little or none of it. Nedergaard and Lupyan proposed the name *anendophasia* for its absence in 2024; it is a recent coinage, not an established clinical category. Their studies measured verbal working memory and rhyme judgement—where the low-inner-speech group performed worse—alongside task-switching and categorical perception, where the groups did not differ. Whether anyone lacks inner speech *entirely* remains under live dispute: Lind has argued that no compelling evidence establishes complete absence, and the questionnaire self-reports used to assign the groups are precisely what is contested. The claim the Map needs is weaker than the term suggests, and it survives the dispute: reflective conscious life proceeds in people whose inner speech is greatly reduced, which is enough to show that linguistic mentation is not a necessary feature of conscious experience.
+Inner speech varies enormously across individuals, and some people report little or none of it. Nedergaard and Lupyan proposed the name *anendophasia* for its absence in 2024; it is a recent coinage, not an established clinical category, and [the dispute it has provoked](/topics/inner-speech-and-anendophasia/) is set out separately. Their studies measured verbal working memory and rhyme judgement—where the low-inner-speech group performed worse—alongside task-switching and categorical perception, where the groups did not differ. Whether anyone lacks inner speech *entirely* remains under live dispute: Lind has argued that no compelling evidence establishes complete absence, and the questionnaire self-reports used to assign the groups are precisely what is contested. The claim the Map needs is weaker than the term suggests, and it survives the dispute: reflective conscious life proceeds in people whose inner speech is greatly reduced, which is enough to show that linguistic mentation is not a necessary feature of conscious experience.
 
 Conversely, those who do experience inner speech report significant phenomenological richness: the voice has tone, pace, emotional colouring, and sometimes sounds like a specific person. This qualitative character belongs to consciousness, not to the linguistic content. The same sentence—"I need to leave"—can be experienced as anxious, relieved, or neutral depending on its phenomenal colouring. The linguistic form is invariant; the conscious experience varies.
 
@@ -265,6 +265,7 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 - [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/) — Translation as a phenomenal event that doubles the interface's lossy compression
 - [language-and-consciousness](/concepts/language-and-consciousness/) — The philosophical infrastructure: how meaning, reference, and the private language argument reveal consciousness resists linguistic dissolution
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language may require consciousness
+- [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/) — The contested evidence for absent inner speech, and the sturdier case for wordless thought
 - [language-thought-boundary](/voids/language-thought-boundary/) — The limits where thought exceeds language
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for consciousness in non-linguistic creatures
 - [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — Why consciousness and intelligence are distinct

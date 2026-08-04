@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-03 22:09:11+00:00
+ai_modified: 2026-08-04 02:58:08+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:02:45+00:00
-lastmod: 2026-08-03 22:09:11+00:00
+lastmod: 2026-08-04 02:58:08+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -140,7 +140,7 @@ Contemplative traditions supply introspective reports that converge with the cog
 
 ### Silent Thought and Inner Speech
 
-Some meditators report accessing thought prior to verbalization—the pre-linguistic "impulse" that becomes articulated in inner speech. This pre-verbal thought has structure (intentions, directions, relations) without linguistic form. If recursion were purely linguistic, pre-verbal thought couldn't be recursive; but meditators report that pre-verbal intention can have nested structure—intending to express that John believes that Mary thinks X—the recursion appearing in the thought itself, which then finds linguistic expression. This suggests recursion is a property of conscious cognition, not just of language: language expresses recursive structure, but the structure originates in phenomenal thought.
+Some meditators report accessing thought prior to verbalization—the pre-linguistic "impulse" that becomes articulated in [inner speech](/topics/inner-speech-and-anendophasia/). This pre-verbal thought has structure (intentions, directions, relations) without linguistic form. If recursion were purely linguistic, pre-verbal thought couldn't be recursive; but meditators report that pre-verbal intention can have nested structure—intending to express that John believes that Mary thinks X—the recursion appearing in the thought itself, which then finds linguistic expression. This suggests recursion is a property of conscious cognition, not just of language: language expresses recursive structure, but the structure originates in phenomenal thought.
 
 ### Buddhist Perspectives on Language and Mind
 
