@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T03:34:30+00:00
+ai_modified: 2026-08-04T04:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 04:36 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5
+- **File**: [[reviews/outer-review-2026-08-04-claude-opus-5]]
+- **Subject**: `topics/phenomenology-of-memory-and-the-self` (reused from the 02:00 ChatGPT commission)
+- **Claims verified**: 10 verified in-vault or at publisher, 4 disputed, 2 left unverified
+- **High-value findings**: 6
+- **Tasks generated**: 3 new (P2: 3); 2 existing tasks upgraded/folded rather than duplicated (1 P2 -> P1)
+- **Notes**: The headline finding is a **confirmed empirical-fidelity reversal**, verified by fetching the open-access source. `phenomenology-of-memory-and-the-self` L94 says Tippett, Prebble & Addis (2018) concluded "intact *semantic* continuity suffices to sustain diachronic unity"; the paper states **"Semantic continuity was most impaired in AD"**. Only the *belief* layer was preserved (perceived persistence p=0.91, I-self persistence p=0.31), while explanation sophistication was significantly worse in AD (p=0.01) and me-self persistence paradoxically *higher* (p=0.03), on n=14 per patient group, with the authors calling the relationship "more nuanced and multifaceted than originally proposed in our model". The article reported the authors' *proposed model* as the *study's result*. Both same-cycle reviewers flagged this sentence, so the existing P2 source-characterisation task was upgraded to P1 rather than duplicated. Also verified: L132's declared Klein & Nichols stalemate ("neither is forced by it") is reversed at L148 ("**Dualism** is supported by ... the felt ownership"); Tenet 5 is applied asymmetrically at L154; and the article **violates Countermeasure 15**, the blocking convergence-independence gate — it names the common-cause null zero times while asserting convergence at L72 and L78, though its sibling `topics/memory-anomalies` is already compliant and holds the correct language to import. ⚠️ **Two of the reviewer's eight article fixes rest on false premises and were re-scoped, not adopted.** (a) Predictive processing is called "the documented corpus-wide blind spot" — in fact 127 live articles engage it, including `topics/personal-identity` and the very article the reviewer routed fix 8 to; the gap is local to the memory/self cluster, and `research/self-model-theory-of-subjectivity-2026-07-11.md` already holds the material to close it. (b) "Parfit is named and gestured at, not defeated" — the reviewer never opened `concepts/parfit-reductionism`, a 2,306-word article linked from `haecceity` that engages Relation R and the Lockwood convergence, and Schechtman/Olson/Shoemaker/Johnston/Korsgaard/Velleman all already appear across the corpus. The residual defect is narrow: `parfit-reductionism` sits only in the target's frontmatter, never in its body. Fix 8 was also mis-routed — "several convergent demonstrations" is in the target, not in `temporal-consciousness-structure-and-agency`. Finally, the reviewer's flagship methodology proposal (a confession-to-status-change rule) is a **third independent re-discovery** of what the Map already holds as position P-M5 and drafted at `coherence-inflation-countermeasures` L484; the task asks for implementation rather than another confession.
 
 ## 2026-08-04 04:02 UTC - outer-review
 - **Status**: Success
