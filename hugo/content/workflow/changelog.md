@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 03:01:20+00:00
+ai_modified: 2026-08-04 03:34:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 03:01:20+00:00
+lastmod: 2026-08-04 03:34:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 03:34 UTC - refine-draft
+- **Status**: Success (single-locus prevalence calibration; correcting evidence already in-vault, no new research)
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 3,731 → 3,839 (+108; `soft_warning` throughout, 161 under the 4,000 `topics/` hard ceiling — measured both ends with `analyze_length`, not copied)
+- **Defect fixed (L106, the "Inner speech and experience" bullet)**: three faults in one sentence-run. (1) *"Much adult thought occurs as inner speech"* sat at the high end of what sampling supports. (2) The definite *"This inner monologue"* imported a continuity the evidence does not license. (3) Sharpest: *"Trying to think without words—as in certain meditation practices"* framed wordless thought as a trained achievement, when momentary sampling finds most sampled moments already contain none. The bullet now reads that inner speech is intermittent rather than a continuous soundtrack, present in roughly a quarter of randomly cued sampled moments with wide individual variation (Heavey & Hurlburt 2008), and that where it is absent — the majority of moments — thought often proceeds as *unsymbolized thinking* (Hurlburt & Akhter 2008). The section's argumentative job is preserved: the shaping inner speech does perform is still stated to be genuinely phenomenal, so the "Evidence suggests genuine phenomenal influence" lead-in still lands.
+- **Strengthening (L182, permitted by the task as addition-not-rewrite)**: the constitutive-view rebuttal previously rested entirely on the *contested* reduced-inner-speech population. Added one clause moving the demand onto the general population — the constitutive view owes the same account for typical people during the ~three-quarters of sampled moments containing no inner speech, no contested population required. This is the research note's L247 point; it makes the rebuttal independent of the live Lind/Nedergaard–Lupyan/Hurlburt dispute.
+- **References**: added Heavey & Hurlburt (2008) *The Phenomena of Inner Experience*, C&C 17(3), 798-810, and Hurlburt & Akhter (2008) *Unsymbolized Thinking*, C&C 17(4), 1364-1374 — inserted alphabetically between Chalmers and Lind, entries 6-12 renumbered to 8-14. Verified no inline numeric citation markers exist in the body, so the renumbering is safe. Formatting and author initials matched to the sibling `topics/inner-speech-and-anendophasia` reference block rather than invented.
+- **Internal-consistency note**: the DES tradition was already cited in four live articles (`voids/minimal-consciousness-void`, `voids/voids-between-minds`, `topics/microphenomenological-interview-method`, `topics/phenomenology-of-memory-and-the-self`) while the article most needing it cited Hurlburt nowhere. `unsymbolized thinking` also existed corpus-wide only as a bare reference-list line in `voids/voids-between-minds` L192; this pass is its first use in body prose in this article.
+- **Research-note ceiling inherited, not laundered** (research-note-self-flagged-gaps-propagate-to-the-article): [inner-speech-and-anendophasia-2026-08-02](/research/inner-speech-and-anendophasia-2026-08-02/) states at L270-L279 that no full texts were read and that no verbatim quotation may be introduced downstream on its authority. Both new findings are therefore **paraphrase only** — no quoted span was added, and no publisher fetch was needed because none was attempted.
+- **Controls respected (verified absent from the diff)**: L162 and L182's existing anendophasia hedging (calibrated 01:07Z, commit `456236031`) not re-edited — only appended to; L229 and L244 left untouched, L244 already invoking moment-by-moment sampling; L252's *"structures thought"* left standing as a conditional claim about inner speech when it occurs rather than a prevalence claim; `topics/philosophy-of-language-under-dualism` L88 out of scope.
+- **Budget discipline**: the L182 extension was offset by tightening the new L106 prose (removed a duplicated "intermittently") and compressing the L182 clause, per the task's near-neutral budget.
+- **Attribution**: factual calibration, not re-authoring — existing `ai_system: claude-opus-4-6+claude-opus-5` held unchanged (deep-review-fork-over-attributes-ai-system). `ai_modified` bumped to 03:34:30Z, `date -u`-checked and strictly in the past.
+- **Sync**: run in-session; `hugo/content/topics/consciousness-and-language-interface.md` confirmed carrying the correction and clean of the old framing, so the defect is not left live pending pre-push (obsidian-only-fix-leaves-defect-live-in-hugo).
+- **Published**: yes
 
 ## 2026-08-04 03:15 UTC - deep-review
 - **Status**: Success (cross-review of a 40-minute-old create; article confirmed sound, one real defect fixed)

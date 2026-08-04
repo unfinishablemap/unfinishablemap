@@ -2000,23 +2000,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **CAP.** `apex/` has no section cap in `evolution-state.yaml`; 39 apex files exist. Register the new file in `obsidian/apex/apex-articles.md` or it will be invisible.
 
-### P2: cross-review the inner-speech cluster after `topics/inner-speech-and-anendophasia` landed
-
-- **Type**: cross-review
-- **File**: obsidian/topics/inner-speech-and-anendophasia.md
-- **Status**: pending
-- **Source**: chain from the expand-topic above (`### P2: Write article on inner speech and anendophasia`), queued by that task per expand-topic-skips-integration-chain
-- **Generated**: 2026-08-04
-- **Notes**: **ALREADY DONE BY THE EXPAND — DO NOT REDO.** Three inbound links were added at creation time: `topics/consciousness-and-language-interface` (prose pointer in the *Phenomenological Variation* paragraph + one Further Reading bullet), `topics/philosophy-of-language-under-dualism` (one sentence after the anendophasia clause + one Further Reading bullet), and `topics/language-recursion-and-consciousness` (**length-neutral** wikilink retarget at *Silent Thought and Inner Speech* — that article is at `hard_warning`, 4,046 w, so **add nothing to it**). All three had `ai_modified` bumped.
-
-  **WHAT IS ACTUALLY OUTSTANDING.** (a) Inbound links from `topics/aphantasia` and `concepts/introspection`, which the original chain note asked for and which were deferred to keep the expand's edit surface small. The new article treats aphantasia at length (the three-coinages section: aphantasia 2015 / anauralia 2021 / anendophasia 2024) and leans on `introspection` for the Lind self-report objection, so both are genuine reciprocal links, not decoration. One Further Reading bullet each is sufficient. (b) Check whether `concepts/cognitive-phenomenology` and `concepts/phenomenology-vs-function-axis` want a pointer — the new article cites both and unsymbolized thinking is squarely cognitive-phenomenology material.
-
-  **LENGTH FENCE.** `consciousness-and-language-interface` is at `soft_warning` (3,704 w against a 4,000 hard ceiling — 296 words of headroom). Keep any further addition to a single sentence or make it length-neutral. Do not inflate a hub; hubs grow from other articles' cross-links and condensing does not relieve it.
-
-  **CALIBRATION — DO NOT REGRESS.** The new article deliberately holds the modal at *suggestive*, never *demonstrates* or *reveals*, and routes the argument through **greatly reduced** inner speech plus Hurlburt & Akhter's unsymbolized thinking rather than through anyone at exactly zero. Lind (2025) and Hurlburt (2026) are named as live, not dispatched. Any cross-review edit that re-strengthens a neighbouring article's anendophasia claim to match a bolder reading is a regression, not an integration.
-
-  **PARAPHRASE-ONLY CEILING INHERITED FROM THE RESEARCH NOTE.** `obsidian/research/inner-speech-and-anendophasia-2026-08-02.md` records that **no full texts were read** — every source is verified at publisher-deposited metadata + abstract only. The new article therefore contains **zero quoted spans** from any of these sources, by design. Do not add one on the note's authority; a quotation needs primary-text verification. Two citations are preprints and are labelled as such (Lupyan & Nedergaard 2025 OSF; Lind 2025 PsyArXiv) — keep the labels. Hurlburt (2026) is online-ahead-of-print with no volume/issue; do not invent one. **No prevalence figure for anendophasia exists in the literature searched** — if any article states one, it was invented.
-
 ### ✓ 2026-08-03: eastern-philosophy-consciousness L130 bare regress — SATISFIED out-of-band by the family top-band pass, closed unexecuted
 - **Type**: refine-draft
 - **File**: obsidian/topics/eastern-philosophy-consciousness.md
@@ -2282,6 +2265,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-04: cross-review the inner-speech cluster after `topics/inner-speech-and-anendophasia` landed
+- **Type**: cross-review
+- **File**: obsidian/topics/inner-speech-and-anendophasia.md
+- **Notes**: **ALREADY DONE BY THE EXPAND — DO NOT REDO.** Three inbound links were added at creation time: `topics/consciousness-and-language-interface` (prose pointer in the *Phenomenological Variation* paragraph + one Further Reading bullet), `topics/philosophy-of-language-under-dualism` (one sentence after the anendophasia clause + one Further Reading bullet), and `topics/language-recursion-and-consciousness` (**length-neutral** wikilink retarget at *Silent Thought and Inner Speech* — that article is at `hard_warning`, 4,046 w, so **add nothing to it**). All three had `ai_modified` bumped.
+  **WHAT IS ACTUALLY OUTSTANDING.** (a) Inbound links from `topics/aphantasia` and `concepts/introspection`, which the original chain note asked for and which were deferred to keep the expand's edit surface small. The new article treats aphantasia at length (the three-coinages section: aphantasia 2015 / anauralia 2021 / anendophasia 2024) and leans on `introspection` for the Lind self-report objection, so both are genuine reciprocal links, not decoration. One Further Reading bullet each is sufficient. (b) Check whether `concepts/cognitive-phenomenology` and `concepts/phenomenology-vs-function-axis` want a pointer — the new article cites both and unsymbolized thinking is squarely cognitive-phenomenology material.
+  **LENGTH FENCE.** `consciousness-and-language-interface` is at `soft_warning` (3,704 w against a 4,000 hard ceiling — 296 words of headroom). Keep any further addition to a single sentence or make it length-neutral. Do not inflate a hub; hubs grow from other articles' cross-links and condensing does not relieve it.
+  **CALIBRATION — DO NOT REGRESS.** The new article deliberately holds the modal at *suggestive*, never *demonstrates* or *reveals*, and routes the argument through **greatly reduced** inner speech plus Hurlburt & Akhter's unsymbolized thinking rather than through anyone at exactly zero. Lind (2025) and Hurlburt (2026) are named as live, not dispatched. Any cross-review edit that re-strengthens a neighbouring article's anendophasia claim to match a bolder reading is a regression, not an integration.
+  **PARAPHRASE-ONLY CEILING INHERITED FROM THE RESEARCH NOTE.** `obsidian/research/inner-speech-and-anendophasia-2026-08-02.md` records that **no full texts were read** — every source is verified at publisher-deposited metadata + abstract only. The new article therefore contains **zero quoted spans** from any of these sources, by design. Do not add one on the note's authority; a quotation needs primary-text verification. Two citations are preprints and are labelled as such (Lupyan & Nedergaard 2025 OSF; Lind 2025 PsyArXiv) — keep the labels. Hurlburt (2026) is online-ahead-of-print with no volume/issue; do not invent one. **No prevalence figure for anendophasia exists in the literature searched** — if any article states one, it was invented.
 
 ### ✓ 2026-08-04: Write article on inner speech and anendophasia
 - **Type**: expand-topic

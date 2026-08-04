@@ -4,7 +4,7 @@ description: "Consciousness and language are separable but interact bidirectiona
 created: 2026-02-01
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-08-04T02:58:08+00:00
+ai_modified: 2026-08-04T03:34:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ Does this influence extend to phenomenal consciousness, or merely to categorisat
 
 **Categorical perception shifts.** Colour perception near linguistic boundaries differs from perception away from boundaries. Cross-linguistic studies suggest that speakers of different languages show measurably different perceptual responses at the boundaries their language marks, consistent with genuine phenomenal differences.
 
-**Inner speech and experience.** Much adult thought occurs as [[introspection|inner speech]]—the internal voice that accompanies reflection. This inner monologue structures phenomenal experience temporally and sequentially. Trying to think without words—as in certain meditation practices—reveals how much language shapes the texture of everyday consciousness.
+**Inner speech and experience.** [[introspection|Inner speech]]—the internal voice that accompanies reflection—is intermittent rather than a continuous soundtrack. Descriptive experience sampling of randomly cued moments finds it present in roughly a quarter of them, with wide variation between individuals (Heavey & Hurlburt 2008). Where it occurs it structures experience temporally and sequentially, and that shaping is genuinely phenomenal. Where it does not—the majority of sampled moments—thought often proceeds as *unsymbolized thinking*, explicit differentiated thought experienced without words or images (Hurlburt & Akhter 2008). Wordless thought is the ordinary case rather than a meditative achievement.
 
 ### The Formatting Effect
 
@@ -179,7 +179,7 @@ Daniel Dennett, Peter Carruthers, and some Vygotskian psychologists argue that h
 
 The Map holds that this confuses correlation with constitution. Language and higher-order consciousness co-develop because both require neural maturation and social interaction—not because one generates the other. The critical test cases are revealing:
 
-**Greatly reduced inner speech.** People who report little or no inner voice still appear to engage in planning, self-evaluation, and metacognition, using visual imagery, spatial reasoning, and non-verbal intuition. The constitutive view owes an account of how reflection proceeds in them—and, as the discussion of anendophasia above notes, it owes that account whether or not anyone turns out to lack inner speech entirely.
+**Greatly reduced inner speech.** People who report little or no inner voice still appear to engage in planning, self-evaluation, and metacognition, using visual imagery, spatial reasoning, and non-verbal intuition. The constitutive view owes an account of how reflection proceeds in them—and, as the discussion of anendophasia above notes, it owes that account whether or not anyone turns out to lack inner speech entirely. It owes the same account for typical people, whose reflection continues through the roughly three-quarters of sampled moments containing no inner speech at all—no contested population required.
 
 **Deaf individuals without language exposure** who acquire sign language late in life sometimes report having had rich inner lives—including self-reflection and deliberation—before language acquisition. Such retrospective testimony is methodologically fraught, but the consistent pattern across documented cases suggests that reflective consciousness preceded linguistic capacity.
 
@@ -282,10 +282,12 @@ The consciousness-language interface connects to the Map's [[tenets]] at multipl
 3. Schooler, J. W., & Engstler-Schooler, T. Y. (1990). "Verbal overshadowing of visual memories." *Cognitive Psychology*, 22(1), 36-71.
 4. Carruthers, P. (2002). "The Cognitive Functions of Language." *Behavioral and Brain Sciences*, 25(6), 657-674.
 5. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-6. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
-7. Low, P. et al. (2012). "The Cambridge Declaration on Consciousness." Francis Crick Memorial Conference.
-8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-9. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-10. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
-11. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
-12. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
+6. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
+7. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
+8. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
+9. Low, P. et al. (2012). "The Cambridge Declaration on Consciousness." Francis Crick Memorial Conference.
+10. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+11. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+12. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
+13. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
+14. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
