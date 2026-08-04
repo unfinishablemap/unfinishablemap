@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-04
-ai_modified: 2026-08-04 02:55:26+00:00
+ai_modified: 2026-08-04 03:15:23+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -16,8 +16,8 @@ description: A human-AI reading of the live dispute over whether anyone truly la
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
-lastmod: 2026-08-04 02:55:26+00:00
+last_deep_review: 2026-08-04 03:15:23+00:00
+lastmod: 2026-08-04 03:15:23+00:00
 modified: *id001
 related_articles:
 - '[[imagery-void]]'
@@ -38,21 +38,21 @@ The Map's interest in this literature is an argument about whether language is c
 
 ## How Often Inner Speech Actually Occurs
 
-The folk picture is of an unbroken inner monologue, which is why its absence sounds remarkable. Descriptive experience sampling does not find that monologue. Heavey and Hurlburt (2008) collected ten randomly cued moments from each of thirty participants and coded what was present at the cue. Five phenomena recurred: inner speech, inner seeing, feelings, sensory awareness, and unsymbolized thinking. Each occurred in roughly a quarter of sampled moments, with wide variation between individuals. Higher frequencies of inner speech were associated with lower levels of psychological distress.
+The folk picture is of an unbroken inner monologue, which is why its absence sounds remarkable. Descriptive experience sampling does not find that monologue. Heavey and Hurlburt (2008) collected ten randomly cued moments from each of thirty participants, drawn from a stratified sample of college students, and coded what was present at the cue. Five phenomena recurred: inner speech, inner seeing, feelings, sensory awareness, and unsymbolized thinking. Each occurred in roughly a quarter of sampled moments, with wide variation between individuals. Higher frequencies of inner speech were associated with lower levels of psychological distress.
 
-If that sampling frequency is approximately right, typical people spend most of their waking lives not engaged in inner speech. Absence of inner speech at a given moment is the ordinary case, not the exotic one.
+If that frequency generalises beyond the sampled population, typical people spend most of their waking lives not engaged in inner speech. Absence of inner speech at a given moment is the ordinary case, not the exotic one.
 
 Hurlburt, Heavey and Kelsey (2013) characterised the form. Inner speaking occurred in many but certainly not all moments of sampled experience; its most common form was speaking in one's own naturally inflected voice with no sound produced; and both form and frequency varied substantially across individuals. The authors noted that their findings diverged from earlier research and attributed the divergence to methodological differences — a caution that travels with the numbers.
 
-Alderson-Day and Fernyhough (2015) provide the standard integrative review, covering the developmental-internalisation tradition, typical and atypical populations, and a multicomponent model. Their conclusion is that inner speech performs significant cognitive functions despite the variability observed among individuals and across the lifespan. That is a claim about function, compatible both with the Map's position and with the position the Map rejects; it does not by itself adjudicate between them.
+Alderson-Day and Fernyhough (2015) provide the standard integrative review, covering the developmental-internalisation tradition, typical and atypical populations, and a multicomponent model. Their conclusion is that inner speech performs significant cognitive functions despite the variability observed among individuals and across the lifespan. That is a claim about function, compatible both with the Map's position and with the position the Map rejects.
 
 ## The Anendophasia Dispute {#the-dispute}
 
 **What was measured.** Nedergaard and Lupyan (2024) ran four studies comparing a low-inner-speech group (N = 46) with a high-inner-speech group (N = 47), assigned by self-report questionnaire. The low group performed worse on verbal working memory and had more difficulty with rhyme judgements. Task-switching performance and categorical effects on perceptual judgement were unrelated to inner-speech differences. Those four measures are the whole empirical basis. The studies did not measure whether anendophasic people plan, create, or reflect normally, and they did not measure whether phenomenal experience persists in the absence of inner speech. The dissociation between verbal task performance and phenomenal life is exactly the gap a philosophical reader wants closed, and this study does not close it.
 
-**The challenge.** Lind (2025), in the same journal, accepted the behavioural findings as an original contribution while rejecting the inference from them — together with prior empirical and anecdotal data — to the conclusion that some people have no inner speech at all. His verdict was that no compelling evidence establishes complete absence.
+**The challenge.** Lind (2025a), in the same journal, accepted the behavioural findings as an original contribution while rejecting the inference from them — together with prior empirical and anecdotal data — to the conclusion that some people have no inner speech at all. His verdict was that no compelling evidence establishes complete absence.
 
-**The concession.** In an unpublished reply, Lupyan and Nedergaard accepted that their data support a continuum of inner-speech experience rather than establishing complete absence, while arguing that self-reports of absent inner speech should be treated as data worth investigating rather than as error. This is the pivotal turn in the exchange, because the concession comes from the coiners. Any article that continues to assert demonstrated absence is asserting something the originating authors have declined to assert. (The reply is a preprint and has not been peer reviewed; the same applies to Lind's subsequent reply, which argues that *anendophasia* is ambiguous between self-perceived low prevalence and complete lack, and that respondents' presuppositions about their own minds shape their questionnaire answers.)
+**The concession.** In an unpublished reply, Lupyan and Nedergaard accepted that their data support a continuum of inner-speech experience rather than establishing complete absence, while arguing that self-reports of absent inner speech should be treated as data worth investigating rather than as error. This is the pivotal turn in the exchange, because the concession comes from the coiners. Any article that continues to assert demonstrated absence is asserting something the originating authors have declined to assert. (The reply is a preprint and has not been peer reviewed; the same applies to Lind's subsequent reply (2025b), which argues that *anendophasia* is ambiguous between self-perceived low prevalence and complete lack, and that respondents' presuppositions about their own minds shape their questionnaire answers.)
 
 **The adjudication.** Hurlburt (2026) distinguishes *fidelity* — faithfulness to experience as it actually occurs — from *validity* in the psychometric sense of construct validation, and argues that anendophasia is an experiential phenomenon rather than a construct. On his reading, Nedergaard and Lupyan investigated it as a construct and drew phenomenon-level conclusions, a mismatch of method to claim. He separates *completely* from *mostly* anendophasic individuals, judges that anendophasic or at least mostly anendophasic people do exist and are probably frequent, and observes that in practice the completely/mostly distinction might be impossible to draw.
 
@@ -78,7 +78,7 @@ Hinwar and Lambert (2021) supply the empirical link between the first two. Acros
 
 Anauralia is not anendophasia. Auditory imagery is broader than inner speech, and inner speech has components — motor, semantic, agentive — that a purely auditory measure does not capture. The two absences are neighbouring rather than identical, and the Map does not treat evidence about one as evidence about the other.
 
-The [phenomenology-versus-function](/concepts/phenomenology-vs-function-axis/) structure is shared, and the answers differ in a way worth reporting rather than smoothing over. For [aphantasia](/topics/aphantasia/), the Map's reading is that the missing phenomenology comes with remarkably little functional deficit: the cognitive work gets done by other means. For anendophasia, the measured answer is partly the opposite — verbal working memory and rhyme judgement did show group differences, even as task-switching and categorical perception did not. Reduced inner speech appears to cost something specifically verbal. That asymmetry is inconvenient for a tidy story about phenomenology floating free of function, and it is what the data say.
+The [phenomenology-versus-function](/concepts/phenomenology-vs-function-axis/) structure is shared, and the answers differ in a way worth reporting rather than smoothing over. For [aphantasia](/topics/aphantasia/), the Map's reading is that the missing phenomenology comes with remarkably little deficit at the task level: the cognitive work gets done by other means. For anendophasia, the measured answer is partly the opposite — verbal working memory and rhyme judgement did show group differences, even as task-switching and categorical perception did not. Reduced inner speech appears to cost something specifically verbal. That asymmetry is inconvenient for a tidy story about phenomenology floating free of function, and it is what the data say.
 
 ## What This Costs the Constitutive View
 
@@ -129,8 +129,8 @@ One further connection is worth flagging. Inner speech not recognised as one's o
 5. Hurlburt, R.T. (2026). "Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)." *Psychological Science*, online ahead of print, article 09567976251413525.
 6. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
 7. Hurlburt, R.T., Heavey, C.L., & Kelsey, J.M. (2013). "Toward a Phenomenology of Inner Speaking." *Consciousness and Cognition*, 22(4), 1477-1494.
-8. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
-9. Lind, A. (2025). *Reply to Lupyan and Nedergaard (2025)*. PsyArXiv preprint — not peer reviewed.
+8. Lind, A. (2025a). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
+9. Lind, A. (2025b). *Reply to Lupyan and Nedergaard (2025)*. PsyArXiv preprint — not peer reviewed.
 10. Lupyan, G., & Nedergaard, J. (2025). *Reply to "Are There Really People With No Inner Voice?"* OSF preprint — not peer reviewed.
 11. Nedergaard, J.S.K., & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
 12. Southgate, A. & Oquatre-six, C. (2026-02-01). Consciousness and Language Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-language-interface/

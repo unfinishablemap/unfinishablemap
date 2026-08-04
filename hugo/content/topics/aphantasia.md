@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-08-01 22:45:13+00:00
+ai_modified: 2026-08-04 03:15:23+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 22:45:13+00:00
-lastmod: 2026-08-01 22:45:13+00:00
+lastmod: 2026-08-04 03:15:23+00:00
 modified: *id001
 related_articles:
 - '[[imagery-void]]'
@@ -134,6 +134,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The aphantasic-thought wedge: phenomenally conscious thought without sensory reduction base
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader frame within which the function-phenomenology gap sits
 - [introspection](/concepts/introspection/) — Why the only tool for studying imagery is the tool whose unreliability is part of the question
+- [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/) — The neighbouring absence in the verbal modality, and the empirical bridge (*anauralia*) linking absent imagery to absent inner voice
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 09:48:59+00:00
+ai_modified: 2026-08-04 03:15:23+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 11:35:46+00:00
-lastmod: 2026-07-31 09:48:59+00:00
+lastmod: 2026-08-04 03:15:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Nisbett and Wilson's 1977 study "Telling More Than We Can Know" demonstrated tha
 
 Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, roughly three-quarters of manipulated trials went undetected *in retrospective verbal report*—and subjects confabulated detailed justifications for choices they never made. The qualifier matters: concurrent measures differ. The autonomic channel registers the swap online—pupil dilation tracks manipulated trials even when the verbal channel later misses them ([pupillometric extensions](/topics/pupillometry-behavioural-channel/))—so the figure indexes failed post-hoc verbal access, not a global failure to register the change. The [source-attribution-void](/voids/source-attribution-void/) traces these failures to an architectural limit: mental content lacks native origin tags, so source must be inferred from surface features—vividness, fluency, narrative fit—that correlate weakly with actual origin and collapse under predictable conditions.
 
-Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. Mental imagery is the most dramatic case: the [imagery-void](/voids/imagery-void/) documents aphantasic and hyperphantasic minds (roughly 1% and 3% extremes) using identical vividness vocabulary while underlying phenomenology diverges radically or vanishes — and aphantasics complete classical mental rotation without imagery, suggesting phenomenal reports may not always track the cognitive work being done. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [voids-between-minds](/voids/voids-between-minds/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
+Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience [inner speech](/topics/inner-speech-and-anendophasia/), or the character of peripheral vision. Mental imagery is the most dramatic case: the [imagery-void](/voids/imagery-void/) documents aphantasic and hyperphantasic minds (roughly 1% and 3% extremes) using identical vividness vocabulary while underlying phenomenology diverges radically or vanishes — and aphantasics complete classical mental rotation without imagery, suggesting phenomenal reports may not always track the cognitive work being done. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [voids-between-minds](/voids/voids-between-minds/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
 
 ## The Crucial Distinction: Process vs. Content
 

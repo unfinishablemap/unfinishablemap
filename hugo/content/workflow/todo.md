@@ -2000,29 +2000,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **CAP.** `apex/` has no section cap in `evolution-state.yaml`; 39 apex files exist. Register the new file in `obsidian/apex/apex-articles.md` or it will be invisible.
 
-### P2: Write article on inner speech and anendophasia
-
-- **Type**: expand-topic
-- **File**: obsidian/topics/inner-speech-and-anendophasia.md
-- **Status**: pending
-- **Source**: [optimistic-2026-08-02-language-consciousness-cluster](/reviews/optimistic-2026-08-02-language-consciousness-cluster/) — high-priority expansion opportunity. **PROMOTED P3→P2 by /replenish-queue run no.933, 2026-08-04 (FLOOR-RESTORING).** Unconsumed research is this skill's highest-weighted source (+60) and this is its only live instance: the note exists at `obsidian/research/inner-speech-and-anendophasia-2026-08-02.md` (4,339 w, `analyze_length` this session) and `ls` over `obsidian/topics/ obsidian/concepts/ archive/topics/ archive/concepts/` returns **no** live or archived article for `inner-speech` / `anendophasia` / `inner-monologue`. It was sitting at P3 where the loop's P0–P2 selector would never reach it — the mis-sorting, not emptiness, that tonight's tune-system recorded.
-- **Generated**: 2026-08-02
-- **Notes**: **THE GAP, MEASURED NOT INFERRED.** `grep -rl "inner speech"` across `topics/ concepts/ voids/ apex/` returns **15+ live articles**; `ls | grep -iE "speech|voice|verbal"` across `topics/` and `concepts/` returns **only** `articulability-of-q1.md`. Anendophasia appears in exactly two live articles and totals roughly two sentences. Checked for near-miss coverage under other slugs per harvest-dedup-singular-plural-nearmiss — the mentions are all in-passing within articles owning other questions.
-
-  **THE ASYMMETRY THAT MOTIVATES IT.** The Map has a full `topics/aphantasia.md` (absent visual imagery, deep-reviewed 2026-08-01) and nothing on absent inner speech. These are structurally parallel phenomenal-variation cases — a modality present in most people and absent in a reporting minority, with no corresponding deficit in consciousness — and only the imagery side is developed. The article should make the parallel explicit and link both ways.
-
-  **THE ARGUMENTATIVE ROLE IS ALREADY DEFINED BY THE CLUSTER.** `consciousness-and-language-interface` **L182** uses anendophasia as the primary rebuttal to the Dennett/Carruthers/Vygotskian constitutive view (that language partially constitutes higher-order consciousness); **L166–L170** develops the *use-relation, not constitution-relation* framing (*"Consciousness uses language the way a sculptor uses a chisel"*); `philosophy-of-language-under-dualism` **L88** uses it to show phenomenal reference does not depend on private linguistic rehearsal. The new article owns the phenomenon; those three keep their arguments and link to it.
-
-  **⚠️ CITE THE PRIMARY SOURCE — the corpus currently does not have one.** See the sibling P3: `anendophasia` is uncited anywhere in `obsidian/` or `archive/`. This article must establish the source at the publisher of record rather than inheriting the corpus's unsourced use, or it will propagate the gap into a third file.
-
-  **CALIBRATION FENCE.** The evidence base is self-report about an inner phenomenon, which is exactly where [evidential-status-discipline](/project/evidential-status-discipline/) bites hardest. Anendophasia reports *suggest* reflective consciousness persists without inner speech — the 2026-06-09 deep review specifically downgraded *"demonstrates"* to *"suggests"* on this evidence class and that softening was judged correct. Do not re-strengthen it. Tenet-coherence removes the defeater ("inner speech must constitute reflection"); it supplies no positive evidence about what anendophasics' reflection consists in.
-
-  **CAP — RE-MEASURED 2026-08-04, AND IT NO LONGER SAYS "ample".** `count_section_files('topics')` returns **318** against a live `section_caps.max_topics` of **320**: headroom is **2**, not the ~47 the original "~273" implied (that figure was copied from CLAUDE.md, not measured). Completing this task takes `topics/` to **319/320**. Still permitted — the cap rule refuses at-or-above, and consuming a paid-for research note beats letting the cap close over it — but this is one of the last two `topics/` slots and the operator should see it spent.
-
-  **CHAIN.** On completion, queue a `cross-review` for `consciousness-and-language-interface` and `philosophy-of-language-under-dualism` to repoint their anendophasia paragraphs at the new article, and add inbound links from `topics/aphantasia` and `concepts/introspection` per expand-topic-skips-integration-chain.
-
-  **Tenet alignment**: Tenet 1 (Dualism — phenomenal variation without variation in consciousness itself), Tenet 3 (Bidirectional Interaction — inner speech as a format consciousness deploys, not a medium that constitutes it). Feeds `apex/phenomenal-variation-within-a-species`.
-
 ### P2: cross-review the inner-speech cluster after `topics/inner-speech-and-anendophasia` landed
 
 - **Type**: cross-review
@@ -2300,12 +2277,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **RESIDUE — DO NOT "FIX" IT.** The quoted forms surviving in `reviews/deep-review-2026-06-06-personal-identity` L50, `reviews/deep-review-2026-07-07-personal-identity` L55, `reviews/deep-review-2026-07-30-personal-identity` L49, `reviews/optimistic-2026-06-19` L40 and `workflow/archive/changelog-2026-W22` L2010 are the **audit trail** of what the articles said. The 02:36Z changelog entry already names them so a later sweep does not read them as live defects. Correcting them would falsify the record.
 
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-04: Write article on inner speech and anendophasia
+- **Type**: expand-topic
+- **File**: obsidian/topics/inner-speech-and-anendophasia.md
+- **Notes**: **THE GAP, MEASURED NOT INFERRED.** `grep -rl "inner speech"` across `topics/ concepts/ voids/ apex/` returns **15+ live articles**; `ls | grep -iE "speech|voice|verbal"` across `topics/` and `concepts/` returns **only** `articulability-of-q1.md`. Anendophasia appears in exactly two live articles and totals roughly two sentences. Checked for near-miss coverage under other slugs per harvest-dedup-singular-plural-nearmiss — the mentions are all in-passing within articles owning other questions.
+  **THE ASYMMETRY THAT MOTIVATES IT.** The Map has a full `topics/aphantasia.md` (absent visual imagery, deep-reviewed 2026-08-01) and nothing on absent inner speech. These are structurally parallel phenomenal-variation cases — a modality present in most people and absent in a reporting minority, with no corresponding deficit in consciousness — and only the imagery side is developed. The article should make the parallel explicit and link both ways.
+  **THE ARGUMENTATIVE ROLE IS ALREADY DEFINED BY THE CLUSTER.** `consciousness-and-language-interface` **L182** uses anendophasia as the primary rebuttal to the Dennett/Carruthers/Vygotskian constitutive view (that language partially constitutes higher-order consciousness); **L166–L170** develops the *use-relation, not constitution-relation* framing (*"Consciousness uses language the way a sculptor uses a chisel"*); `philosophy-of-language-under-dualism` **L88** uses it to show phenomenal reference does not depend on private linguistic rehearsal. The new article owns the phenomenon; those three keep their arguments and link to it.
+  **⚠️ CITE THE PRIMARY SOURCE — the corpus currently does not have one.** See the sibling P3: `anendophasia` is uncited anywhere in `obsidian/` or `archive/`. This article must establish the source at the publisher of record rather than inheriting the corpus's unsourced use, or it will propagate the gap into a third file.
+  **CALIBRATION FENCE.** The evidence base is self-report about an inner phenomenon, which is exactly where [evidential-status-discipline](/project/evidential-status-discipline/) bites hardest. Anendophasia reports *suggest* reflective consciousness persists without inner speech — the 2026-06-09 deep review specifically downgraded *"demonstrates"* to *"suggests"* on this evidence class and that softening was judged correct. Do not re-strengthen it. Tenet-coherence removes the defeater ("inner speech must constitute reflection"); it supplies no positive evidence about what anendophasics' reflection consists in.
+  **CAP — RE-MEASURED 2026-08-04, AND IT NO LONGER SAYS "ample".** `count_section_files('topics')` returns **318** against a live `section_caps.max_topics` of **320**: headroom is **2**, not the ~47 the original "~273" implied (that figure was copied from CLAUDE.md, not measured). Completing this task takes `topics/` to **319/320**. Still permitted — the cap rule refuses at-or-above, and consuming a paid-for research note beats letting the cap close over it — but this is one of the last two `topics/` slots and the operator should see it spent.
+  **CHAIN.** On completion, queue a `cross-review` for `consciousness-and-language-interface` and `philosophy-of-language-under-dualism` to repoint their anendophasia paragraphs at the new article, and add inbound links from `topics/aphantasia` and `concepts/introspection` per expand-topic-skips-integration-chain.
+  **Tenet alignment**: Tenet 1 (Dualism — phenomenal variation without variation in consciousness itself), Tenet 3 (Bidirectional Interaction — inner speech as a format consciousness deploys, not a medium that constitutes it). Feeds `apex/phenomenal-variation-within-a-species`.
 
 ### ✓ 2026-08-04: the Nagel split-brain "quote" is SEP's paraphrase, not Nagel — re-check `personal-identity` L130, whose control status rested on a now-disproven premise
 - **Type**: refine-draft

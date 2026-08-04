@@ -4,7 +4,7 @@ description: "Human+AI exploration of aphantasia—the absence of voluntary ment
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-08-01T22:45:13+00:00
+ai_modified: 2026-08-04T03:15:23+00:00
 last_deep_review: 2026-08-01T22:45:13+00:00
 draft: false
 topics:
@@ -131,6 +131,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — The aphantasic-thought wedge: phenomenally conscious thought without sensory reduction base
 - [[hard-problem-of-consciousness]] — The broader frame within which the function-phenomenology gap sits
 - [[introspection]] — Why the only tool for studying imagery is the tool whose unreliability is part of the question
+- [[inner-speech-and-anendophasia]] — The neighbouring absence in the verbal modality, and the empirical bridge (*anauralia*) linking absent imagery to absent inner voice
 
 ## References
 
