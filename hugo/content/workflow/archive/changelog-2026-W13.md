@@ -5266,7 +5266,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-23 10:06 UTC - deep-review
 - **Status**: Success
-- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/theory-of-mind/)
 - **Word count**: 2202 → 2268 (+66)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (factual imprecision on ape species, Duhem-Quine caveat, methodology cross-links)

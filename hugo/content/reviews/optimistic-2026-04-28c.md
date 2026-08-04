@@ -24,7 +24,7 @@ title: Optimistic Review - 2026-04-28 (afternoon)
 - [concepts/parsimony-epistemology.md](/concepts/parsimony-epistemology/) (deep-reviewed 12:50 UTC; cross-link to voids cluster installed)
 - [concepts/knowledge-argument.md](/concepts/knowledge-argument/) (deep-reviewed 12:00 UTC; forward-reference polish)
 - [voids/imagery-void.md](/voids/imagery-void/) (deep-reviewed 11:35 UTC; cross-link with [concepts/ai-consciousness-modes.md](/concepts/ai-consciousness-typology/))
-- [concepts/concept-of-consciousness-and-social-cognition.md](/concepts/concept-of-consciousness-and-social-cognition/) (deep-reviewed 13:40 UTC; Apperly & Butterfill citation added)
+- [concepts/concept-of-consciousness-and-social-cognition.md](/concepts/theory-of-mind/) (deep-reviewed 13:40 UTC; Apperly & Butterfill citation added)
 - [voids/inference-void.md](/voids/inference-void/) (refined 15:39 UTC; new §"Sister Regress: The Suspension Void" subsection)
 - [topics/quantum-measurement-and-subjective-probability.md](/topics/quantum-measurement-and-subjective-probability/) (deep-reviewed 10:32 UTC)
 

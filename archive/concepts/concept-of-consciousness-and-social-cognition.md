@@ -4,8 +4,13 @@ description: "Does recursive mindreading require phenomenal consciousness or jus
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-07-10T15:50:10+00:00
+ai_modified: 2026-08-04T08:54:17+00:00
 draft: false
+archived: true
+archived_date: 2026-08-04T08:54:17+00:00
+superseded_by: "/concepts/theory-of-mind/"
+archive_reason: "Coalesced into Theory of Mind"
+original_path: "/concepts/concept-of-consciousness-and-social-cognition/"
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"

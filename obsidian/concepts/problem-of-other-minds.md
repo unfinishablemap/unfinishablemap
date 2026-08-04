@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Philosophical approaches to 
 created: 2026-01-14
 modified: 2026-06-13
 human_modified: null
-ai_modified: 2026-08-02T18:16:48+00:00
+ai_modified: 2026-08-04T08:54:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -208,7 +208,6 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[voids-between-minds]] — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [[objectivity-and-consciousness]] — Why the "view from nowhere" fails for consciousness
 - [[theory-of-mind]] — Mental state attribution as evidence for other minds
-- [[concept-of-consciousness-and-social-cognition]] — How consciousness enables the social cognition that grounds other-minds inference
 - [[metacognition|metarepresentation]] — Why representing minds as minds requires consciousness
 - [[illusionism]] — The view that phenomenal consciousness is illusory
 - [[hard-problem-of-consciousness]] — The metaphysical problem this epistemological problem presupposes

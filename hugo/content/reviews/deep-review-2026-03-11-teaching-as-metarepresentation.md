@@ -62,7 +62,7 @@ All previously identified bedrock disagreements remain acknowledged—see stabil
 
 ### Cross-links Added
 
-- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) (inline in theory of mind section)
+- [concept-of-consciousness-and-social-cognition](/concepts/theory-of-mind/) (inline in theory of mind section)
 
 ## Remaining Items
 

@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-10 15:50:10+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Theory of Mind
+archived: true
+archived_date: 2026-08-04 08:54:17+00:00
 author: null
 concepts:
 - '[[baseline-cognition]]'
@@ -24,12 +27,14 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 02:59:00+00:00
-lastmod: 2026-07-10 15:50:10+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 modified: *id001
+original_path: /concepts/concept-of-consciousness-and-social-cognition/
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
+superseded_by: /concepts/theory-of-mind/
 title: Consciousness and Social Cognition
 topics:
 - '[[animal-consciousness]]'

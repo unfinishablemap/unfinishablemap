@@ -301,7 +301,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 14:40 UTC - condense
 - **Status**: Success
-- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/theory-of-mind/)
 - **Before**: 3592
 - **After**: 2153
 - **Reduction**: 40%

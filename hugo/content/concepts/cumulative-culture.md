@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-08-02 02:21:38+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 19:39:49+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -218,7 +218,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The Molière-inspired metaphor for procedural vs declarative metacognition
 - [metacognition](/concepts/metacognition/) — Metarepresentation: why knowing-that-you-know may require consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
-- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Consciousness and the social cognition that cultural transmission requires
+- [theory-of-mind](/concepts/theory-of-mind/) — Consciousness and the social cognition that cultural transmission requires
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison in depth
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Corvid tool culture and dolphin cognition as convergent test cases
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Why consciousness evolved

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-06-05 04:13:50+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 02:54:20+00:00
-lastmod: 2026-06-05 04:13:50+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -155,7 +155,6 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Formal limits on any algorithmic mind
 - [Theory of Mind](/concepts/theory-of-mind/) — Levels of intentionality and the working memory constraint
-- [Consciousness and Social Cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Recursive mindreading as consciousness-dependent social cognition
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/) — Working memory bottlenecks on recursive structure
 - [Metacognition and Consciousness](/concepts/metacognition/) — The relationship between self-monitoring and awareness
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — The broader question: can consciousness upgrade itself at all?

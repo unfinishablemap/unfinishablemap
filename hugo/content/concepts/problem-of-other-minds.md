@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-02 18:16:48+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:58:33+00:00
-lastmod: 2026-08-02 18:16:48+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -211,7 +211,6 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [voids-between-minds](/voids/voids-between-minds/) — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why the "view from nowhere" fails for consciousness
 - [theory-of-mind](/concepts/theory-of-mind/) — Mental state attribution as evidence for other minds
-- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — How consciousness enables the social cognition that grounds other-minds inference
 - [metarepresentation](/concepts/metacognition/) — Why representing minds as minds requires consciousness
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is illusory
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The metaphysical problem this epistemological problem presupposes

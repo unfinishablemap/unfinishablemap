@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-08-02 19:10:50+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:50:00+00:00
-lastmod: 2026-08-02 19:10:50+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -193,7 +193,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [binding-problem](/concepts/binding-problem/) — The unity problem in both perception and memory
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and semantic retrieval
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
-- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — How expanded WM capacity enables recursive mindreading
+- [theory-of-mind](/concepts/theory-of-mind/) — How expanded WM capacity enables recursive mindreading
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Thinking about what might have been
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The throughput limits of conscious processing

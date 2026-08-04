@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-28
-**Article**: [Consciousness and Social Cognition (concept)](/concepts/concept-of-consciousness-and-social-cognition/)
+**Article**: [Consciousness and Social Cognition (concept)](/concepts/theory-of-mind/)
 **Previous review**: [2026-02-05](/reviews/deep-review-2026-02-05-consciousness-and-social-cognition/) (stability confirmation; article subsequently condensed 2026-02-22)
 
 ## Context

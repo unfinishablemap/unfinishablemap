@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-28
-**Article**: [Consciousness and Social Cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+**Article**: [Consciousness and Social Cognition](/concepts/theory-of-mind/)
 **Previous review**: [2026-03-23](/reviews/deep-review-2026-03-23-concept-of-consciousness-and-social-cognition/)
 
 ## Pessimistic Analysis Summary

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why metacognitive depth is bounded—consc
 created: 2026-02-05
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-06-05T04:13:50+00:00
+ai_modified: 2026-08-04T08:54:17+00:00
 last_deep_review: 2026-07-19T02:54:20+00:00
 draft: false
 topics:
@@ -151,7 +151,6 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[formal-cognitive-limits|Formal Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[theory-of-mind|Theory of Mind]] — Levels of intentionality and the working memory constraint
-- [[concept-of-consciousness-and-social-cognition|Consciousness and Social Cognition]] — Recursive mindreading as consciousness-dependent social cognition
 - [[language-recursion-and-consciousness|Language, Recursion, and Consciousness]] — Working memory bottlenecks on recursive structure
 - [[metacognition|Metacognition and Consciousness]] — The relationship between self-monitoring and awareness
 - [[self-transcendence-void|The Self-Transcendence Void]] — The broader question: can consciousness upgrade itself at all?

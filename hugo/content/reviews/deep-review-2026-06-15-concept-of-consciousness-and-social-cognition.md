@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-15
-**Article**: [Consciousness and Social Cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+**Article**: [Consciousness and Social Cognition](/concepts/theory-of-mind/)
 **Previous review**: [2026-06-01](/reviews/deep-review-2026-06-01-concept-of-consciousness-and-social-cognition/) (fourth deep review; eighth review overall)
 
 This is the fourth deep review (eighth review overall — a heavily converged article). The only change to the article since the 2026-06-01 review is commit `a6ce70b16` (2026-06-03), which — while deep-reviewing a *different* file, [concepts/baseline-cognition.md](/concepts/baseline-cognition/) — silently swapped one reference in this article: `Whiten, A. (2015)` → `Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015)`, keeping the same title and venue. This round verified that spillover edit at the publisher of record and re-audited citation integrity. No body edits were warranted.

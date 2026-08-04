@@ -4,7 +4,7 @@ description: "Cumulative culture may require metarepresentation—representing k
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-04T08:54:17+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -215,7 +215,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[jourdain-hypothesis]] — The Molière-inspired metaphor for procedural vs declarative metacognition
 - [[metacognition]] — Metarepresentation: why knowing-that-you-know may require consciousness
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
-- [[concept-of-consciousness-and-social-cognition]] — Consciousness and the social cognition that cultural transmission requires
+- [[theory-of-mind]] — Consciousness and the social cognition that cultural transmission requires
 - [[animal-consciousness]] — The great ape comparison in depth
 - [[cetacean-and-corvid-consciousness]] — Corvid tool culture and dolphin cognition as convergent test cases
 - [[evolution-of-consciousness]] — Why consciousness evolved

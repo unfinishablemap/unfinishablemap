@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-08 18:22:43+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 18:22:43+00:00
-lastmod: 2026-07-08 18:22:43+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ Humans maintain roughly 4 items in working memory (Cowan, 2001), with capacity d
 
 ### The Theory of Mind Requirement
 
-Teaching requires representing the learner's mental states. But not just any representation of mental states suffices—it requires representing the learner's *ignorance*, a second-order state (the absence of knowledge). This connects directly to [the broader relationship between consciousness and social cognition](/concepts/concept-of-consciousness-and-social-cognition/).
+Teaching requires representing the learner's mental states. But not just any representation of mental states suffices—it requires representing the learner's *ignorance*, a second-order state (the absence of knowledge). This connects directly to [the broader relationship between consciousness and social cognition](/topics/consciousness-and-social-understanding/).
 
 Great apes show Level 1 theory of mind: understanding what others perceive, what they attend to, what goals they pursue. This may operate procedurally—functional responses to behavioural cues without explicit representation of mental states as mental states.
 
@@ -216,7 +216,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires teaching
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
-- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — How consciousness enables the social cognition teaching depends on
+- [theory-of-mind](/concepts/theory-of-mind/) — The levels of mental state attribution that teaching depends on
 - [working-memory](/concepts/working-memory/) — The capacity constraints on teaching
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables cognitive integration
 - [free-will](/topics/free-will/) — The deliberate choices teaching requires

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-01
-**Article**: [Consciousness and Social Cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+**Article**: [Consciousness and Social Cognition](/concepts/theory-of-mind/)
 **Previous review**: [2026-04-28](/reviews/deep-review-2026-04-28-concept-of-consciousness-and-social-cognition/) (and [2026-03-23](/reviews/deep-review-2026-03-23-concept-of-consciousness-and-social-cognition/))
 
 This is the third deep review. The article was found at high stability by both prior reviews. This round was driven by the standing web-verify mandate for this citation-heavy social-cognition cluster: every load-bearing external citation was checked against its primary source for (i) correct metadata and (ii) source-conclusion fidelity, plus a cross-corpus divergence grep.

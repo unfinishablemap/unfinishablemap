@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 08:41:00+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 08:41:00+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 08:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) (2348 words) merged into [theory-of-mind](/concepts/theory-of-mind/) (3418 words)
+- **Target**: [theory-of-mind](/concepts/theory-of-mind/) — merged into the **existing** article rather than minting a new slug. The skill permits this ("or ask for confirmation to merge into existing") and it was the right call here on two grounds: "Theory of Mind" is already the canonical title for the unified content, and archiving the target too would have stranded **16** inbound wikilinks instead of the source's **6**.
+- **Archived**: [concept-of-consciousness-and-social-cognition](/archive/concepts/concept-of-consciousness-and-social-cognition/) — `archived: true`, `superseded_by: /concepts/theory-of-mind/`, full body preserved. Redirect `/concepts/concept-of-consciousness-and-social-cognition/ → /concepts/theory-of-mind/ 301` regenerated into `hugo/static/_redirects` (506 → 508 entries).
+- **References to review**: none outstanding — all 6 live inbound wikilinks repointed in this run (see below).
+- **Section pressure**: `concepts/` 317 → **316** of 320 (`count_section_files`). Selected after eliminating the two more-pressured sections on evidence, not assumption.
+- **Candidate selection — the search that justified the merge**:
+  - Ran a pairwise top-70-content-word Jaccard scan over every article in `voids/`, `topics/`, and `concepts/`. **`voids/` (100/100, the most-pressured section) was cleared first and yielded nothing**: its maximum pair scored **0.186** and the shared terms were entirely generic ("structural", "limits", "tenets", "rather", "itself"). Qualitative reads confirmed the quantitative result — `plenitude-void` carries an explicit `## Distinguishing Plenitude from Adjacent Voids` section, and `aspect-perception-void` names the mechanism differences separating it from `transit-void` and `recognition-void`. The voids corpus is deliberately granular by argumentative role and self-aware about it.
+  - **`topics/` (319/320) was cleared second.** Its best pairs (0.346) were the quantum-measurement family — `indexical-identity-quantum-measurement`, `quantum-measurement-and-subjective-probability`, `quantum-measurement-and-consciousness`, `qm-interpretations-beyond-many-worlds`. Reading them showed **explicit cross-deferral** (indexical-identity hands the three-readings analysis to `quantum-probability-consciousness` by name), plus a `positions/` P-SC1 dependency on `indexical-identity` and 45 inbound links. Role-differentiated; declined.
+  - **`concepts/` produced the corpus maximum at 0.489** — 2.6x the voids ceiling — for `concept-of-consciousness-and-social-cognition` <> `theory-of-mind`.
+- **Why this pair was genuine redundancy, not role granularity**:
+  - **Near-verbatim duplicate section structure**: both articles run `Level 0: Behaviour Prediction` / `Level 1: Perception Attribution` / `Level 2: Belief Attribution` / `Level 3: Recursive Mindreading` followed by `The Metarepresentational Threshold`, with the same Jourdain application, the same AI treatment, and the same four tenet subsections.
+  - **The source self-identified as having no distinct role.** Its own Further Reading listed `[[theory-of-mind]]` as "The levels of mental state attribution and the metarepresentational threshold" and `[[topics/consciousness-and-social-understanding]]` as "The topic-level treatment" — naming both of its halves as belonging elsewhere. A third article, `topics/consciousness-and-social-understanding` (3629 words), independently covers its shared-intentionality, empathy, AI and moral material.
+  - **History corroborates**: already condensed once (3776 → 2348 on 2026-02-22) and deep-reviewed three times (04-28, 06-01, 07-11) without acquiring a distinct role.
+  - **Age floor clear**: `ai_modified` 2026-07-10, 25 days old. No open task targeted it (todo hits were completed entries and do-not-duplicate mentions in other tasks' notes).
+- **Content transferred into `theory-of-mind`** (3418 → **3472** words, `analyze_length`, `soft_warning`, under the 3500 concepts hard ceiling):
+  - **Level 2 upgraded from an uncited claim to a cited one.** The target previously read "Some studies suggest great apes pass false-belief tests in competitive contexts; others find their success explicable through behaviour-reading" with **no citations**. Now carries Krupenye et al. (2016) and Buttelmann et al. (2017) for the positive results and Heyes (2014) and Povinelli & Vonk (2003) for the sceptical reading. This was the single most valuable transfer.
+  - **Apperly & Butterfill (2009) two-systems reframe** added — an implicit system tracking belief-like states, potentially shared with apes, and an explicit system for full belief reasoning, perhaps distinctively human — which gives the contested Level-2 data a unified reading the target lacked.
+  - **Working-memory/executive-function confound caveat** added after Level 4: the human-ape gap does not straightforwardly track consciousness, and the Map's claim must be argued rather than read off comparative data.
+  - Four references added; `coalesced_from` recorded in frontmatter.
+- **Length paid for by trimming duplicated background, not argument** (the target had only 82 words of headroom): `Developmental Trajectory` staged bullet list compressed to prose (writing-style: skip what LLMs already know); `AI and Theory of Mind` reduced where it triplicated the source and `topics/consciousness-and-social-understanding`; `Neural Correlates` DMN paragraph tightened; moral-cognition four-item example list halved to the two items that carry the contrast; the `Metarepresentational Threshold` opener compressed where the new two-systems paragraph had just made it redundant.
+- **Two passages deliberately left untouched** as recent calibrations: the `Great Ape Evidence` Gunasekaram et al. 2024 / Bridges et al. 2024 recalibration of the flat cumulative-culture exclusivity claim (commit cc0c195ed), and the retired-flat-illusionism fix opening `The Illusionist Challenge` (commit 52d78a23f).
+- **Deferred, and booked rather than dropped**: the source's `## What Would Challenge This View?` section (~290 words) would not fit without cutting ~150 words of just-reviewed load-bearing prose. Left intact in the archive and minted as a P3 `refine-draft` task on `theory-of-mind` specifying where the ready-made text lives and that it must be paid for by a paired condense landing strictly under 3500.
+- **Inbound wikilinks repointed (6)**: `concepts/working-memory`, `concepts/cumulative-culture`, `concepts/teaching-as-metarepresentation` (×2 — the Further Reading entry to `theory-of-mind`, the inline "broader relationship" prose to `topics/consciousness-and-social-understanding`, which is the better semantic match) → repointed; `concepts/problem-of-other-minds` and `voids/recursion-void` already carried their own `[[theory-of-mind]]` link one line above, so the duplicate entries were **removed rather than repointed**. `ai_modified` bumped on all five files, `ai_system` held (link repoints are not authoring).
+- **Stale Hugo copy removed.** `hugo/content/concepts/concept-of-consciousness-and-social-cognition.md` was git-rm'd: sync writes archived content to `hugo/content/archive/...` and never deletes the old live file, and a surviving file at the original path would shadow the 301. Matches the `acquaintance-knowledge` precedent, which has no live copy.
+- **Verification**: `scripts/sync.py` clean (the only stripped wikilinks were pre-existing memory-slug links in `changelog.md`, which is exempt); `scripts/validate.py hugo/content/` reports no errors on any touched file; only one Hugo file now carries the archived slug, and it is the archive copy.
 
 ## 2026-08-04 08:41 UTC - refine-draft
 - **Status**: Success

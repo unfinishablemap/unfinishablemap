@@ -4,7 +4,7 @@ description: "Working memory manipulation is far more tightly bound to conscious
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-08-02T19:10:50+00:00
+ai_modified: 2026-08-04T08:54:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -189,7 +189,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [[binding-problem]] — The unity problem in both perception and memory
 - [[semantic-memory]] — Noetic consciousness and semantic retrieval
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
-- [[concept-of-consciousness-and-social-cognition]] — How expanded WM capacity enables recursive mindreading
+- [[theory-of-mind]] — How expanded WM capacity enables recursive mindreading
 - [[baseline-cognition]] — What neural systems achieve without conscious amplification
 - [[counterfactual-reasoning]] — Thinking about what might have been
 - [[bandwidth-of-consciousness]] — The throughput limits of conscious processing

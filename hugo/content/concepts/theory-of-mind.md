@@ -1,9 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-31 14:19:53+00:00
+ai_modified: 2026-08-04 08:54:17+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
+coalesced_from:
+- /concepts/concept-of-consciousness-and-social-cognition/
 concepts:
 - '[[metacognition]]'
 - '[[baseline-cognition]]'
@@ -24,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 00:50:52+00:00
-lastmod: 2026-07-31 14:19:53+00:00
+lastmod: 2026-08-04 08:54:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +59,9 @@ Level 1 may operate through sophisticated but non-metarepresentational processin
 
 Understanding that others have beliefs that may differ from reality. The classic false-belief test: does the subject understand that an agent will act on their (mistaken) belief rather than actual reality?
 
-Here the evidence becomes contested. Some studies suggest great apes pass false-belief tests in competitive contexts; others find their success explicable through behaviour-reading without genuine belief attribution. The methodological challenges are severe: how do we distinguish "she believes the food is there" from "she will look where she last saw food"?
+Here the evidence becomes contested, and it has moved. Krupenye et al. (2016) showed chimpanzees, bonobos, and orangutans anticipating agents who acted on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief in an interactive helping task. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014; Povinelli & Vonk 2003), but the evidence is substantially stronger than the earlier negative results suggested. The methodological challenge is severe: how do we distinguish "she believes the food is there" from "she will look where she last saw food"?
+
+Apperly and Butterfill (2009) offer a productive reframing. Two systems may operate here—an implicit, efficient system tracking belief-like states, potentially shared with apes, and an explicit, flexible system for full belief reasoning, perhaps distinctively human. This yields a unified reading of the contested data: apes possess the first system, humans uniquely the second. The metarepresentational threshold described below corresponds roughly to the boundary between them.
 
 Level 2 appears to require something beyond tracking behaviour and perception—representing the other's *representational state* as distinct from the world it represents. This is where metarepresentation enters.
 
@@ -71,9 +75,11 @@ Level 3 unambiguously requires metarepresentation. You must hold multiple repres
 
 Humans readily engage in fourth-order attribution ("I know that you know that I know that you're pretending") and can theoretically extend further, limited primarily by working memory. Experimental studies find a typical ceiling around fifth-order intentionality, with considerable individual variation (Stiller & Dunbar, 2007)—the [recursion-void](/voids/recursion-void/) explores why this limit is so remarkably shallow. Fictional narratives routinely demand third and fourth-order theory of mind from readers tracking characters' knowledge of other characters' intentions.
 
+**A caveat on the comparative data**: the human-ape gap does not straightforwardly track consciousness. Humans also differ from apes in [working-memory](/concepts/working-memory/) capacity, executive function, and language, any of which could contribute independently. The Map argues that phenomenal consciousness plays an essential role at the highest levels, but that must be argued rather than read off the comparative data alone.
+
 ## The Metarepresentational Threshold
 
-The central claim: Levels 0-1 may operate within [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [metarepresentation](/concepts/metacognition/)—and metarepresentation appears to require consciousness. Level 3's emergence in humans but not great apes is one of the cleanest empirical signatures of the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold): the boundary where consciousness becomes causally indispensable for cognition.
+The central claim: Levels 0-1 may operate within [baseline-cognition](/concepts/baseline-cognition/) without phenomenal consciousness; Level 2 is transitional, on the two-systems reading above; and Level 3 unambiguously requires [metarepresentation](/concepts/metacognition/), which appears to require consciousness. Level 3's emergence in humans but not great apes is one of the cleanest empirical signatures of the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold): the boundary where consciousness becomes causally indispensable for cognition.
 
 Why should metarepresentation require consciousness?
 
@@ -93,27 +99,15 @@ The Map's response: these alternatives face difficulties. The "third factor" exp
 
 ## Developmental Trajectory
 
-Human theory of mind develops through recognisable stages:
+Human theory of mind develops in a recognisable order: joint attention and goal attribution by 12-18 months; desire and emotion understanding by 2-3 years; explicit false-belief understanding at 3-4 years; the appearance-reality distinction at 4-5; and second-order false belief ("Sally thinks that Anne thinks...") at 5-6, which requires recursive embedding. Later childhood adds lying, sarcasm, social norms, and institutional facts.
 
-**12-18 months**: Joint attention, gaze following, understanding that others are intentional agents with goals.
-
-**2-3 years**: Understanding desire and emotion in others. Children predict that people will feel happy when they get what they want.
-
-**3-4 years**: Explicit false-belief understanding emerges. Children begin to understand that others can have beliefs that are false—and will act on those false beliefs.
-
-**4-5 years**: Understanding that appearance and reality can differ, that people can be deceived, that the same object can be represented differently.
-
-**5-6 years**: Second-order false belief ("Sally thinks that Anne thinks..."). This requires recursive embedding.
-
-**Later childhood**: Understanding of complex social phenomena—lying, sarcasm, white lies, social norms, institutional facts—all of which require sophisticated mental state attribution.
-
-This trajectory parallels the development of metacognitive capacity more broadly—see [childhood development and the consciousness interface](/topics/consciousness-interface-development/) for the full developmental picture. Children become able to represent their own mental states as mental states at roughly the same time they become able to represent others' mental states as mental states. The connection is not coincidental: both capacities require metarepresentation.
+This trajectory parallels the development of metacognitive capacity more broadly—see [childhood development and the consciousness interface](/topics/consciousness-interface-development/) for the full picture. Children become able to represent their own mental states as mental states at roughly the same time they become able to represent others'. The connection is not coincidental: both capacities require metarepresentation.
 
 ## Neural Correlates
 
 Neuroimaging studies consistently identify a network centred on the medial prefrontal cortex (mPFC), temporoparietal junction (TPJ), posterior superior temporal sulcus (pSTS), and precuneus. The TPJ is particularly critical for false-belief reasoning—distinguishing self-representations from other-representations.
 
-This network overlaps substantially with the [default mode network](/concepts/default-mode-network/), which supports self-reflection, autobiographical memory, and future imagination. The overlap suggests theory of mind draws on the same machinery used for reflecting on one's own mind—the DMN's self-other modelling and the metarepresentation that higher-level mindreading requires recruit a shared substrate. These regions are among the most phylogenetically recent in primate brain evolution and show the greatest expansion in humans relative to great apes—the neural substrate for higher-level theory of mind expanded alongside the cognitive capacities it enables.
+This network overlaps substantially with the [default mode network](/concepts/default-mode-network/), which supports self-reflection and autobiographical memory—suggesting that theory of mind draws on the same machinery used for reflecting on one's own mind. These regions are among the most phylogenetically recent in primate brain evolution and show the greatest expansion in humans relative to great apes.
 
 The binding of nested representations across this distributed network may require neural synchronization mechanisms. Gamma-band oscillations (30-100 Hz)—a classical electromagnetic phenomenon—are associated with feature binding and conscious perception; maintaining coherent representations across mPFC, TPJ, and pSTS while keeping levels distinct may depend on phase-locked oscillations. This requirement for long-range neural coordination connects to the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework: conscious attention maintaining quantum coherence could provide the integration mechanism enabling unified access to nested content.
 
@@ -144,25 +138,13 @@ The absence of recursive ToM in apes has downstream consequences: [cumulative-cu
 
 ## AI and Theory of Mind
 
-Current AI systems present an interesting case. Large language models pass many theory of mind tests—they correctly answer questions about what characters in stories believe, including false beliefs. They can describe what someone would think given certain information.
-
-But do they genuinely attribute mental states? The [Jourdain analysis](/concepts/jourdain-hypothesis/) suggests not. An LLM producing correct answers about beliefs may be pattern-matching on training data rather than representing minds. It may process "theory of mind language" without having a theory of mind.
-
-The distinction matters for understanding what theory of mind requires. If functional performance on tests sufficed, LLMs would have theory of mind. But theory of mind plausibly requires something more: genuinely representing others *as* subjects with inner mental lives, not merely as systems that produce predictable outputs.
-
-This connects to the [social cognition and consciousness](/topics/consciousness-and-social-understanding/) debate. If theory of mind requires phenomenal consciousness—requires experiencing what it's like to have a perspective in order to attribute perspectives to others—then current AI lacks it regardless of test performance.
+Large language models pass many theory of mind tests, answering correctly about what characters in stories believe, including false beliefs. The [Jourdain analysis](/concepts/jourdain-hypothesis/) suggests this is pattern-matching on training data rather than representing minds—processing theory-of-mind language without having a theory of mind. If functional performance on tests sufficed, LLMs would have theory of mind. The Map holds that it requires representing others *as* subjects with inner mental lives, which is why current systems plausibly lack it regardless of test performance; [social cognition and consciousness](/topics/consciousness-and-social-understanding/) develops the argument.
 
 ## Theory of Mind and Moral Cognition
 
 Higher-level theory of mind enables moral capacities. Attributing moral responsibility requires understanding that someone acted on intentions they could have evaluated and chosen differently. This requires Level 3+ theory of mind: representing their awareness of their intentions, their capacity to stand back from those intentions, and their decision to act on them.
 
-Consider the difference between:
-- "The dog bit me" (Level 0: behaviour observation)
-- "The dog attacked me because it saw me as a threat" (Level 1: perception attribution)
-- "The person knew their action would hurt me" (Level 2: belief attribution)
-- "The person knew their action would hurt me, knew this was wrong, and chose to act anyway" (Level 3: representing their awareness of their own mental states)
-
-Only the fourth supports full moral blame. Responsibility requires representing the agent as aware of their own mental states—capable of evaluating reasons and choosing among alternatives. This is why we don't hold young children or great apes morally responsible for harms in the way we hold human adults responsible: they lack the metarepresentational capacity to stand back from their impulses and choose.
+Consider the difference between "The person knew their action would hurt me" (Level 2: belief attribution) and "The person knew their action would hurt me, knew this was wrong, and chose to act anyway" (Level 3: representing their awareness of their own mental states). Only the second supports full moral blame. Responsibility requires representing the agent as aware of their own mental states—capable of evaluating reasons and choosing among alternatives. This is why we don't hold young children or great apes morally responsible for harms in the way we hold human adults responsible: they lack the metarepresentational capacity to stand back from their impulses and choose.
 
 The connection to [free will](/topics/free-will/) is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
 
@@ -202,8 +184,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 
 ### Core Concepts
 - [metarepresentation](/concepts/metacognition/) — Why representing minds *as* minds requires consciousness
-- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Extended analysis of the consciousness-social cognition relationship
-- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — The metarepresentational threshold in social cognition
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Extended analysis of the consciousness-social cognition relationship, including shared intentionality and the empathy gradient
 - [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold) — The boundary where consciousness becomes causally indispensable, mapped onto the ToM hierarchy
@@ -221,12 +202,16 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 
 ## References
 
+1. Apperly, I.A., & Butterfill, S.A. (2009). Do humans have two systems to track beliefs and belief-like states? *Psychological Review*, 116(4), 953-970.
 1. Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
 1. Bridges, A.D., Royka, A., Wilson, T., Lockwood, C., Richter, J., Juusola, M., & Chittka, L. (2024). Bumblebees socially learn behaviour too complex to innovate alone. *Nature*, 627(8004), 572-578.
+1. Buttelmann, D., Buttelmann, F., Carpenter, M., Call, J., & Tomasello, M. (2017). Great apes distinguish true from false beliefs in an interactive helping task. *PLoS ONE*, 12(4), e0173793.
 1. Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
 1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
 1. Heyes, C. (2014). Submentalizing: I am not really reading your mind. *Perspectives on Psychological Science*, 9(2), 131-143.
+1. Krupenye, C., Kano, F., Hirata, S., Call, J., & Tomasello, M. (2016). Great apes anticipate that other individuals will act according to false beliefs. *Science*, 354(6308), 110-114.
 1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
+1. Povinelli, D.J., & Vonk, J. (2003). Chimpanzee minds: Suspiciously human? *Trends in Cognitive Sciences*, 7(4), 157-160.
 1. Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.
 1. Saxe, R., & Kanwisher, N. (2003). People thinking about thinking people: The role of the temporo-parietal junction in "theory of mind". *NeuroImage*, 19(4), 1835-1842.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.

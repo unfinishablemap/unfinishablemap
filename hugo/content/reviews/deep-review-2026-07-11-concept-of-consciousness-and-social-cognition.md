@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-07-11
-**Article**: [Consciousness and Social Cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+**Article**: [Consciousness and Social Cognition](/concepts/theory-of-mind/)
 **Previous review**: [2026-06-15](/reviews/deep-review-2026-06-15-concept-of-consciousness-and-social-cognition/) (fifth deep review; ninth review overall)
 
 Fifth deep review, owed-web-verify + fix-verification target. The only change since the 2026-06-15 review is commit `8b231778f` (2026-07-10), a corpus-wide sweep that corrected a propagated Tomasello citation-metadata defect (added dropped co-author Herrmann). This round (a) confirmed that sweep-fix at the publisher of record and (b) performed a full publisher-of-record web-verify of the article's inline + load-bearing cites, which prior June reviews had (per their own convergence notes) largely carried forward from the 2026-06-01 primary-source pass rather than re-verifying line-by-line. No body edits were warranted.

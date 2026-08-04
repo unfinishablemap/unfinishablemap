@@ -4,7 +4,7 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-07-08T18:22:43+00:00
+ai_modified: 2026-08-04T08:54:17+00:00
 draft: false
 last_deep_review: 2026-07-08T18:22:43+00:00
 topics:
@@ -92,7 +92,7 @@ Humans maintain roughly 4 items in working memory (Cowan, 2001), with capacity d
 
 ### The Theory of Mind Requirement
 
-Teaching requires representing the learner's mental states. But not just any representation of mental states suffices—it requires representing the learner's *ignorance*, a second-order state (the absence of knowledge). This connects directly to [[concept-of-consciousness-and-social-cognition|the broader relationship between consciousness and social cognition]].
+Teaching requires representing the learner's mental states. But not just any representation of mental states suffices—it requires representing the learner's *ignorance*, a second-order state (the absence of knowledge). This connects directly to [[topics/consciousness-and-social-understanding|the broader relationship between consciousness and social cognition]].
 
 Great apes show Level 1 theory of mind: understanding what others perceive, what they attend to, what goals they pursue. This may operate procedurally—functional responses to behavioural cues without explicit representation of mental states as mental states.
 
@@ -213,7 +213,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[cumulative-culture]] — Why cultural ratcheting requires teaching
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
-- [[concept-of-consciousness-and-social-cognition]] — How consciousness enables the social cognition teaching depends on
+- [[theory-of-mind]] — The levels of mental state attribution that teaching depends on
 - [[working-memory]] — The capacity constraints on teaching
 - [[global-workspace-theory]] — How conscious access enables cognitive integration
 - [[topics/free-will]] — The deliberate choices teaching requires
