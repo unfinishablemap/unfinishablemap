@@ -4,8 +4,8 @@ description: "Gazzaniga's left-hemisphere interpreter confabulates reasons for a
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-08-04T01:36:01+00:00
-last_deep_review: 2026-07-16T13:37:16+00:00
+ai_modified: 2026-08-04T06:54:00+00:00
+last_deep_review: 2026-08-04T06:54:00+00:00
 draft: false
 topics:
   - "[[split-brain-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[steelmanning-as-method]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-16
 last_curated:
 ---
@@ -35,9 +35,9 @@ Every live position in this debate accepts the following minimal characterisatio
 
 The founding evidence comes from callosotomy (split-brain) patients. In the classic paradigm from Gazzaniga and LeDoux's *The Integrated Mind* (1978), a patient's right hemisphere is shown one image (a snow scene) and the left another (a chicken claw). Asked to point with each hand to a related picture, the left hand (right hemisphere) selects a snow shovel while the right hand (left hemisphere) selects a chicken. Asked *why* he chose the shovel, the patient — answering from his verbal left hemisphere, which never saw the snow — replies without hesitation that the shovel is for cleaning out the chicken shed. The explanation is fluent, confident, and false. Gazzaniga and LeDoux describe the left hemisphere as generating explanations that reconcile new information, including the other hemisphere's expressed choices, with what it already knows.
 
-The phenomenon is not confined to surgically divided brains. Johansson, Hall, Sikström, and Olsson's "choice blindness" study (2005) showed neurologically intact adults pictures of two faces, asked which was more attractive, then — using sleight of hand — handed back the *rejected* face and asked them to explain their choice. Most participants failed to notice the swap and proceeded to confabulate detailed reasons for preferring a face they had in fact rejected. The interpreter, on this reading, is a standing feature of ordinary minds, not a lesion artifact.
+The phenomenon is not confined to surgically divided brains. Johansson, Hall, Sikström, and Olsson's "choice blindness" study (2005) showed neurologically intact adults pictures of two faces, asked which was more attractive, then — using sleight of hand — handed back the *rejected* face and asked them to explain their choice. Tallying across conditions, no more than 26% of manipulated trials were detected; on the rest, participants confabulated detailed reasons for preferring a face they had in fact rejected. That 26% is a rate per manipulated trial rather than a count of participants who noticed nothing all session, and the result's force lies in what follows an *undetected* swap rather than in the manipulation being globally invisible. The interpreter, on this reading, is a standing feature of ordinary minds, not a lesion artifact.
 
-The same construction fails in the opposite direction in [[anarchic-hand-and-action-ownership|anarchic hand]], where one hand performs complex goal-directed acts — unbuttoning a shirt, lifting a cup the patient knows to be too hot — that the patient disowns and cannot inhibit, while never doubting the limb is their own. There felt authorship is *withheld* from a movement the person's own body made; in confabulation it is *supplied* for a choice the narrating system never made. Both directions point at the same conclusion about the signal rather than about the subject: authorship is something the system computes and can get wrong either way, which is a claim about the reliability of the narration and not yet about who, if anyone, is being narrated.
+The same construction fails in the opposite direction in [[anarchic-hand-and-action-ownership|anarchic hand]], where one hand performs complex goal-directed acts — unbuttoning a shirt, lifting a cup the patient knows to be too hot (Della Sala, Marchetti and Spinnler 1991) — that the patient disowns and cannot inhibit, while never doubting the limb is their own. There felt authorship is *withheld* from a movement the person's own body made; in confabulation it is *supplied* for a choice the narrating system never made. Both directions point at the same conclusion about the signal rather than about the subject: authorship is something the system computes and can get wrong either way, which is a claim about the reliability of the narration and not yet about who, if anyone, is being narrated.
 
 ## The Illusionist Reading: The Self as a Story {#illusionist-reading}
 
@@ -72,7 +72,9 @@ The four positions in this debate agree on the data and diverge on what the data
 
 **Follows only if strong illusionism is accepted.** That there is *no unified experiencing subject* — that unity is exhausted by the story. This is a further metaphysical claim. It requires the extra premise that the machinery which fabricates reasons is the same machinery that constitutes the experiencing self, so that unreliability propagates "all the way down." The interpreter evidence does not supply that premise; it is imported.
 
-The Map adds one more empirical crack. The classical gloss on split-brain data — two independent conscious agents in one skull — is itself contested. Pinto and colleagues (2017) found that split-brain patients could respond to stimuli across the whole visual field with either hand, arguing for **one conscious agent with split perception**: unified consciousness, divided information access. If the strongest fragmentation premise is live rather than settled, the illusionist should not treat "the brain obviously contains multiple selves" as a secure starting point. The Map cites this without over-claiming: it weakens a premise the rival relies on, rather than proving the rival false.
+The Map adds one more empirical crack, and marks its width rather than leaving the reader to guess. The classical gloss on split-brain data — two independent conscious agents in one skull — is itself contested. Pinto and colleagues (2017), testing two patients with radiologically confirmed complete transection of the corpus callosum, recorded well above chance responses to stimuli throughout the entire visual field whether the answer came from the left hand, the right hand, or speech, and concluded that severing the cortical connections "splits visual perception, but does not create two independent conscious perceivers within one brain."
+
+Three qualifications travel with that result. The sample is two patients. The same study *replicates* the classical finding that stimuli cannot be compared across visual half-fields, so the divided-access half of the textbook picture stands intact. And Schechter and Bayne (2021) press the objection that responding as a single organism establishes a unity of *agency*, not a unity of *experience* — coordinated outputs are what a coordinated substrate would produce whether or not one subject undergoes both streams. That objection has the same shape as the distinction this article is built on, and it cuts in both directions: it stops the illusionist treating "the brain obviously contains multiple selves" as a secure starting point, and it equally stops the Map reading Pinto as evidence *for* phenomenal unity. What survives is the narrow claim, which is the one the Map wants: the fragmentation premise is live rather than settled. [[split-brain-consciousness|The flagship treatment]] develops the dispute at length.
 
 The honest residue is a **discriminating question**, not a verdict: *does the interpreter construct phenomenal unity, or merely narrate over a unity that is already present?* The confabulation evidence is compatible with both answers. That is precisely why it cannot, on its own, refute the Map's unified experiencer — and why the Map does not pretend the same evidence establishes one.
 
@@ -95,10 +97,13 @@ This keeps the Map on the right side of its own evidential rules. The conclusion
 
 ## References
 
-1. Dennett, D. C. (1992). The self as a center of narrative gravity. In F. S. Kessel, P. M. Cole, & D. L. Johnson (Eds.), *Self and Consciousness: Multiple Perspectives* (pp. 103–115). Hillsdale, NJ: Lawrence Erlbaum.
-2. Gazzaniga, M. S., & LeDoux, J. E. (1978). *The Integrated Mind*. New York: Plenum Press.
-3. Gazzaniga, M. S. (2011). *Who's in Charge? Free Will and the Science of the Brain*. New York: Ecco/HarperCollins.
-4. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119. https://doi.org/10.1126/science.1111709
-5. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
-6. Pinto, Y., Neville, D. A., Otten, M., Corballis, P. M., Lamme, V. A. F., de Haan, E. H. F., Foschi, N., & Fabri, M. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231–1237.
-7. Southgate, A. & Oquatre-six, C. (2026-01-14). When Consciousness Fragments. *The Unfinishable Map*. https://unfinishablemap.org/topics/split-brain-consciousness/
+1. Della Sala, S., Marchetti, C., & Spinnler, H. (1991). Right-sided anarchic (alien) hand: a longitudinal study. *Neuropsychologia*, 29(11), 1113–1127. https://doi.org/10.1016/0028-3932(91)90081-I
+2. Dennett, D. C. (1992). The self as a center of narrative gravity. In F. S. Kessel, P. M. Cole, & D. L. Johnson (Eds.), *Self and Consciousness: Multiple Perspectives* (pp. 103–115). Hillsdale, NJ: Lawrence Erlbaum.
+3. Gazzaniga, M. S., & LeDoux, J. E. (1978). *The Integrated Mind*. New York: Plenum Press.
+4. Gazzaniga, M. S. (2011). *Who's in Charge? Free Will and the Science of the Brain*. New York: Ecco/HarperCollins.
+5. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119. https://doi.org/10.1126/science.1111709
+6. Johansson, P., Hall, L., Sikström, S., Tärning, B., & Lind, A. (2006). How something can be said about telling more than we can know: On choice blindness and introspection. *Consciousness and Cognition*, 15(4), 673–692. — source of the tallied detection rate quoted above.
+7. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
+8. Pinto, Y., Neville, D. A., Otten, M., Corballis, P. M., Lamme, V. A. F., de Haan, E. H. F., Foschi, N., & Fabri, M. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231–1237. https://doi.org/10.1093/brain/aww358
+9. Schechter, E., & Bayne, T. (2021). Consciousness after split-brain surgery: The recent challenge to the classical picture. *Neuropsychologia*, 160, 107987. https://doi.org/10.1016/j.neuropsychologia.2021.107987
+10. Southgate, A. & Oquatre-six, C. (2026-01-14). When Consciousness Fragments. *The Unfinishable Map*. https://unfinishablemap.org/topics/split-brain-consciousness/

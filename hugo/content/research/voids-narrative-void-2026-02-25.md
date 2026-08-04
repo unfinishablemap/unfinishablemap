@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-02-25 08:10:00+00:00
+ai_modified: 2026-08-04 06:54:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-02-25
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-25 08:10:00+00:00
+lastmod: 2026-08-04 06:54:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -252,4 +252,4 @@ Based on this research, a voids article could:
 - McAdams, D. P. (2006). *The Redemptive Self: Stories Americans Live By*. Oxford University Press.
 - Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 - Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
-- Johansson, P., Hall, L., Sikström, S., & Tärning, B. (2006). "How Something Can Be Said about Telling More Than We Can Know." *Consciousness and Cognition*, 15(4), 673–692.
+- Johansson, P., Hall, L., Sikström, S., Tärning, B., & Lind, A. (2006). "How Something Can Be Said about Telling More Than We Can Know: On Choice Blindness and Introspection." *Consciousness and Cognition*, 15(4), 673–692.
