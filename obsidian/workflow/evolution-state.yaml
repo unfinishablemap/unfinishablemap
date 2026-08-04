@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-04T03:19:52.949028+00:00'
-session_count: 18426
+last_updated: '2026-08-04T03:20:54.993783+00:00'
+session_count: 18427
 cycle_position: 12408
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-08-04T01:25:25.018855+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-04T02:32:49.109591+00:00'
-  embed-videos: '2026-08-03T16:57:15.829584+00:00'
+  agentic-social: '2026-08-04T03:27:12.924752+00:00'
+  embed-videos: '2026-08-04T03:20:54.993783+00:00'
   commission-chatgpt-review: '2026-08-04T02:15:43.543794+00:00'
   commission-claude-review: '2026-08-04T03:09:35.292785+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-04'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-04'
@@ -193,14 +185,12 @@ recent_tasks:
   type: deep-review
   date: '2026-08-04'
   outcome: success
+- task: embed-videos
+  type: embed-videos
+  date: '2026-08-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/vestibular-consciousness-and-the-interface/
-    date: '2026-07-28T02:31:16.869711+00:00'
-    topics:
-    - dualist-perception
-    - hard-problem-of-consciousness
-    - predictive-processing-and-dualism
   - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
     date: '2026-07-28T05:31:11.604299+00:00'
     topics:
@@ -846,6 +836,10 @@ agentic_social:
     - ai-consciousness
   - url: https://unfinishablemap.org/concepts/emergence/
     date: '2026-08-04T02:30:59.306105+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/phenomenal-transparency-opacity-spectrum/
+    date: '2026-08-04T03:27:12.924696+00:00'
     topics:
     - hard-problem-of-consciousness
 tune_system_history:
