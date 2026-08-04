@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-04T09:59:46.132974+00:00'
-session_count: 18466
+last_updated: '2026-08-04T10:01:59.203269+00:00'
+session_count: 18467
 cycle_position: 12429
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-04T09:02:22.195379+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-04T09:08:21.314449+00:00'
+  agentic-social: '2026-08-04T10:06:24.887841+00:00'
   embed-videos: '2026-08-04T03:20:54.993783+00:00'
   commission-chatgpt-review: '2026-08-04T02:15:43.543794+00:00'
   commission-claude-review: '2026-08-04T03:09:35.292785+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-08-04T05:03:36.414153+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
   check-model-fallback: '2026-08-04T09:02:52.581345+00:00'
-  harvest-research-subjects: '2026-08-04T03:53:05.701393+00:00'
+  harvest-research-subjects: '2026-08-04T10:01:59.203269+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
@@ -118,10 +114,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-04'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-04'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-04'
@@ -194,13 +186,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-04'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/one-structure-three-vocabularies/
-    date: '2026-07-28T09:46:25.284145+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
   - url: https://unfinishablemap.org/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/
     date: '2026-07-28T10:46:13.331971+00:00'
     topics:
@@ -851,6 +842,11 @@ agentic_social:
     date: '2026-08-04T08:07:54.347414+00:00'
   - url: https://unfinishablemap.org/topics/dream-consciousness/
     date: '2026-08-04T09:07:40.067855+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+  - url: https://unfinishablemap.org/concepts/philosophy-of-time/
+    date: '2026-08-04T10:06:24.887785+00:00'
     topics:
     - hard-problem-of-consciousness
     - free-will
