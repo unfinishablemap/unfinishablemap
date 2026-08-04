@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-02 11:34:43+00:00
+ai_modified: 2026-08-04 02:24:11+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-08-02 11:34:43+00:00
+lastmod: 2026-08-04 02:24:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ For the full philosophical argument that this structural failure is in principle
 
 [Split-brain patients](/topics/split-brain-consciousness/) offer natural experiments. Classic findings suggested consciousness splits when the corpus callosum is severed. But recent research (Santander et al., 2025) found as little as a centimetre of intact posterior callosal fibres can sustain full interhemispheric integration, with no behavioural signs of a disconnection syndrome.
 
-Nagel argued split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity is more resilient than classical theories predict—pointing toward binding mechanisms that transcend local neural correlation.
+Nagel argued split-brain patients show too much laboratory-elicited division to count as one mind, yet an integration in ordinary life too complete to count as two. Phenomenal unity is more resilient than classical theories predict—pointing toward binding mechanisms that transcend local neural correlation.
 
 General anesthesia and dreamless sleep dissociate computational from phenomenal binding: the brain coordinates without producing unified experience. Research on organisms at consciousness boundaries (Hydra, C. elegans, slime molds) shows classical integration in systems that lack behavioural markers of unified consciousness, consistent with phenomenal unity requiring something beyond information integration.
 

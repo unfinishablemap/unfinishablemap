@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-04-16 04:19:00+00:00
+ai_modified: 2026-08-04 02:24:11+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Binding Problem
 archived: true
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-06 04:21:00+00:00
-lastmod: 2026-04-16 04:19:00+00:00
+lastmod: 2026-08-04 02:24:11+00:00
 modified: *id001
 original_path: /topics/the-binding-problem-a-systematic-treatment/
 related_articles:
@@ -112,7 +112,7 @@ The most fundamental variety: all experiences are had by a single subject. Your 
 
 **BP2 gap**: Subject binding is arguably the most fundamental variety because it cannot be stated in purely computational terms. The question "why are these experiences all mine?" presupposes a subject for whom the binding obtains. No neural mechanism for self-reference explains why there is a *subject* at all — why there is someone for whom these processes are unified rather than parallel processes with no owner. The [self](/concepts/self-and-self-consciousness/) is not another content that gets bound to other contents; it is the perspective from which binding is experienced.
 
-[Split-brain cases](/topics/split-brain-consciousness/) test subject binding directly. When the corpus callosum is severed, perceptual binding partially divides. But does the *subject* divide? Nagel argued the result is "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity proves more resilient than neural connectivity alone would predict — pointing toward binding mechanisms that transcend local neural correlation.
+[Split-brain cases](/topics/split-brain-consciousness/) test subject binding directly. When the corpus callosum is severed, perceptual binding partially divides. But does the *subject* divide? Nagel argued the result shows too much laboratory-elicited division to count as one mind, yet an integration in ordinary life too complete to count as two. Phenomenal unity proves more resilient than neural connectivity alone would predict — pointing toward binding mechanisms that transcend local neural correlation.
 
 ## The Shared Structure
 

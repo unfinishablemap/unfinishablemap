@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-04 00:47:24+00:00
+ai_modified: 2026-08-04 02:24:11+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-02 18:30:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-08-04 00:47:24+00:00
+lastmod: 2026-08-04 02:24:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Fourth, the past-self argument. [Autonoetic consciousness](/concepts/anoetic-noe
 
 [Split-brain cases](/topics/split-brain-consciousness/) provide a natural experiment in identity under transformation. When the corpus callosum is severed, each hemisphere processes information independently. The left hemisphere can verbally report objects in the right visual field; the right hemisphere cannot name what it sees but can select matching objects with the left hand.
 
-Thomas Nagel's observation captures the puzzle: these patients have "too much unity to say 'two', yet too much separation to say 'one'." Nagel took the indeterminacy to run deeper than a limit on evidence: our concept of a single unified subject may not correspond to anything real. The Map's [individuation register](/positions/individuation-and-subjecthood/) reads it as epistemic rather than metaphysical — there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface model the anatomy is the channel and not the subject.
+Thomas Nagel's observation captures the puzzle: these patients show too much division under laboratory conditions to be counted as one mind, yet an integration in ordinary life too complete to be counted as two. Nagel took the indeterminacy to run deeper than a limit on evidence: our concept of a single unified subject may not correspond to anything real. The Map's [individuation register](/positions/individuation-and-subjecthood/) reads it as epistemic rather than metaphysical — there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface model the anatomy is the channel and not the subject.
 
 Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found that patients can report shapes presented to either field, suggesting more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
 

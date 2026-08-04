@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-08-02 11:34:43+00:00
+ai_modified: 2026-08-04 02:24:11+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:07:56+00:00
-lastmod: 2026-08-02 11:34:43+00:00
+lastmod: 2026-08-04 02:24:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,7 +154,7 @@ The most fundamental variety: all experiences are had by a single subject. Visua
 
 A live deflationary tradition resists this framing. The Buddhist, Parfittian, and Metzinger lines hold the unified subject is itself a construction — a self-model the brain builds — rather than a primitive datum, making "why is there a subject at all?" a malformed question rather than a hard problem (see [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) and [parfit-reductionism](/concepts/parfit-reductionism/)). The DMN evidence above arguably supports this: a self *maintained* across task states is a self that is *produced*. The Map resists the deflationary reading not by denying the self is in part modelled, but by holding that the modelling presupposes a phenomenal perspective for which the model is rendered — a "self-model" must still be a model *for someone*, and that someone is the subject the question asks after. The deflationist reads the regress as confusion; the Map reads the irreducibility of the for-whom as the datum.
 
-[Split-brain cases](/topics/split-brain-consciousness/) test this directly, and cut both ways. When the corpus callosum is severed, perceptual binding partially divides. Does the *subject* divide? Nagel's verdict — "too much unity to say 'two', yet too much separation to say 'one'" — is standardly read as evidence subjecthood is *divisible*, hence not the indivisible primitive the deflationist denies. The Map reads the same datum as showing phenomenal unity is more resilient than neural connectivity alone would predict. The case does not settle the dispute; it sharpens it.
+[Split-brain cases](/topics/split-brain-consciousness/) test this directly. When the corpus callosum is severed, perceptual binding partially divides. Does the *subject* divide? Nagel's verdict — too much laboratory-elicited division to count the patient as one mind, yet ordinary-life integration too complete to count them as two — is standardly read as evidence subjecthood is *divisible*, hence no indivisible primitive. But the scope qualifier cuts against that reading: Nagel rejected the two-minds conclusion precisely because integration outside the laboratory is so complete. The Map reads the same datum as showing phenomenal unity is more resilient than neural connectivity alone would predict. The case does not settle the dispute; it sharpens it.
 
 ## The Shared Structure
 

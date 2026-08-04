@@ -4,7 +4,7 @@ description: "Synchronic, diachronic, and subject unity are distinct phenomena t
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-04T16:12:00+00:00
+ai_modified: 2026-08-04T02:24:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ If the three unities were really one phenomenon, they should stand or fall toget
 
 ### Split-Brain Cases
 
-[[split-brain-consciousness|Split-brain patients]] have their corpus callosum severed. The classic interpretation: synchronic unity divides—each hemisphere processes its visual half independently. Yet subject unity appears more resilient. Patients don't report feeling like two people; they maintain a unified sense of self despite perceptual division. As Thomas Nagel observed, they have "too much unity to say 'two', yet too much separation to say 'one'."
+[[split-brain-consciousness|Split-brain patients]] have their corpus callosum severed. The classic interpretation: synchronic unity divides—each hemisphere processes its visual half independently. Yet subject unity appears more resilient. Patients don't report feeling like two people; they maintain a unified sense of self despite perceptual division. As Thomas Nagel observed, they show too much laboratory-elicited division to count as one mind, yet an integration in ordinary life too complete to count as two.
 
 Recent research (Pinto et al., 2025) complicates the picture: even minimal corpus callosum fibers can maintain full interhemispheric synchronization, suggesting redundant unity mechanisms that don't reduce to anatomical connectivity.
 

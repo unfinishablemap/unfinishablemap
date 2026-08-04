@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-26 15:56:34+00:00
+ai_modified: 2026-08-04 02:24:11+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,7 @@ date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-26 15:56:34+00:00
+lastmod: 2026-08-04 02:24:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,9 @@ Thomas Nagel's influential paper "Brain Bisection and the Unity of Consciousness
 
 ### Nagel's Conclusion
 
-Nagel rejects the idea that there is a determinate number of minds: "There is no whole number of 'centres of consciousness' in brain bisection patients: there is too much unity... to say 'two', yet too much separation in the specially contrived laboratory situations to say 'one'."
+Nagel rejects the idea that there is a determinate number of minds: "the psychological integration displayed by the patients in ordinary life is so complete that I do not believe it is possible to accept that conclusion, nor any conclusion involving the ascription to them of a whole number of minds."
+
+**Provenance warning — do not quote the popular formulation as Nagel.** The widely circulated line *"there is no whole number of 'centres of consciousness'... too much unity to say 'two', yet too much separation in the specially contrived laboratory situations to say 'one'"* is **not Nagel's wording**. It derives from the Stanford Encyclopedia of Philosophy's *characterisation* of Nagel (Summer 2001 edition, "The Unity of Consciousness"), which reads "there is too much unity to say 'two', yet too much **splitting** to say 'one'" — note *splitting*, not *separation* — and which places "specially contrived laboratory situations" in a **separate** sentence. The circulating version therefore alters SEP's wording and splices in a phrase from elsewhere on the page, then attributes the composite to Nagel. Nagel's own term is "minds", not "centres of consciousness". Paraphrase with attribution instead of quoting.
 
 This suggests the concept of a "single unified mind" may be an inadequate framework for understanding consciousness.
 
@@ -137,7 +139,7 @@ The Unfinishable Map's commitment to indexical identity (rejecting Many Worlds' 
 ## Connection to Site Tenets
 
 ### Dualism Tenet
-Split-brain cases don't settle the dualism/materialism debate. The indeterminacy Nagel identifies—"too much unity for two, too much separation for one"—may support the view that consciousness resists physical reduction.
+Split-brain cases don't settle the dualism/materialism debate. The indeterminacy Nagel identifies—too much division to count one mind, too much integration to count two—may support the view that consciousness resists physical reduction.
 
 ### No Many Worlds Tenet
 If consciousness can divide within one body, this raises similar questions to branching in MWI. However, split-brain division is empirically constrained and observable, unlike the posited infinite invisible branching of Many Worlds. The cases show that even when unity is challenged, personal identity remains practically determinable.

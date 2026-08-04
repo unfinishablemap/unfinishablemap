@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T02:08:29+00:00
+ai_modified: 2026-08-04T02:27:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 02:30 UTC - refine-draft
+- **Status**: Success (task premise overturned by primary-source verification — fix direction reversed)
+- **Files**: [[apex/identity-across-transformations]], [[topics/the-binding-problem]], [[concepts/binding-problem]], [[topics/split-brain-consciousness]], [[archive/topics/the-binding-problem-a-systematic-treatment]], [[archive/concepts/varieties-of-unity]], [[research/split-brain-consciousness-unity-2026-01-14]] (7 changed)
+- **Task as briefed**: mark an unmarked elision in a genuine Nagel quote at 5 loci by inserting an ellipsis; explicitly "NOT to de-quote".
+- **What verification found**: the quote is not Nagel's at all, so an ellipsis would have entrenched a fabricated quotation. Three independent channels: (1) SEP *Unity of Consciousness*, Summer 2001 archive — the wording is SEP's **own prose** introducing Nagel ("Nagel goes so far as to claim that…"), and it reads "too much **splitting** to say 'one'", not "separation"; the scope phrase "specially contrived laboratory situations" sits in a **separate** SEP sentence. (2) A JSTOR snippet of Nagel's actual text: "…nor any conclusion involving the ascription to them of a whole number of **minds**" — Nagel's term is *minds*, not "centres of consciousness". (3) The live SEP entry has dropped the Nagel split-brain passage entirely, which is why it greps zero. The corpus string is therefore SEP's paraphrase, word-altered (*splitting*→*separation*) and spliced with a phrase from elsewhere on the same page, then attributed to Nagel inside quotation marks.
+- **Fix applied**: de-quoted to attributed paraphrase at all 5 briefed loci. This is the Map's own house fix for this exact string — reviews of `unity-of-consciousness` (02-25), `phenomenal-unity` (02-24), `phenomenal-binding-and-holism` (03-16) and `individuation` (07-16) each de-quoted it. The task's "control (b)" paraphrase files are correct *because* those reviews already fixed them; the quoted files were the stragglers, so the corpus converges on paraphrase rather than on quotation.
+- **Root locus fixed (not in the briefed list)**: `topics/split-brain-consciousness` L94 carried the fuller spliced form as a direct quote and was the file licensing the long form corpus-wide. Left alone it would have re-propagated — the exact failure this re-opened family already exhibited. Replaced with the **verified** Nagel sentence ("the psychological integration displayed by the patients in ordinary life is so complete…"), upgrading a fabricated quote to a real one.
+- **Research note**: L86 given the verified quote plus an explicit provenance warning naming the SEP origin, the *splitting*/*separation* discrepancy and the splice, so the next article consuming the note cannot re-import it. L138's condensed quoted variant de-quoted.
+- **Judgement call at `the-binding-problem` L153**: the omitted qualifier **does** undercut the "subjecthood is divisible" inference — Nagel confined the disunity to contrived laboratory conditions and rejected the two-minds conclusion precisely because ordinary-life integration is so complete. Stated in prose rather than buried, as briefed.
+- **Controls honoured**: `topics/personal-identity` L130 and the unquoted-paraphrase files left untouched; no paraphrase was converted into quotation.
+- **Attribution**: every file's `ai_system` held unchanged (quote-marking correction, not re-authoring). `ai_modified` bumped only on the 7 changed files, from live `date -u`, confirmed strictly past.
+- **Length**: apex 4079→4091 (+12, soft_warning, 909 under ceiling); `concepts/binding-problem` +8; `split-brain-consciousness` +14. `topics/the-binding-problem` 4065→4087 (+22) — already hard_warning before this pass; trimmed one redundant clause but declined to delete Map position content purely to hit a number. Flagged below for a condense pass.
+- **Synced to hugo in-session**; all 7 published pages verified clean.
+- **Published**: yes
 
 ## 2026-08-04 02:14 UTC - deep-review
 - **Status**: Success

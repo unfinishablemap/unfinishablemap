@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-04 16:12:00+00:00
+ai_modified: 2026-08-04 02:24:11+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Unity of Consciousness
 archived: true
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-04 03:27:00+00:00
-lastmod: 2026-02-04 16:12:00+00:00
+lastmod: 2026-08-04 02:24:11+00:00
 modified: *id001
 original_path: /concepts/varieties-of-unity/
 related_articles:
@@ -75,7 +75,7 @@ If the three unities were really one phenomenon, they should stand or fall toget
 
 ### Split-Brain Cases
 
-[Split-brain patients](/topics/split-brain-consciousness/) have their corpus callosum severed. The classic interpretation: synchronic unity divides—each hemisphere processes its visual half independently. Yet subject unity appears more resilient. Patients don't report feeling like two people; they maintain a unified sense of self despite perceptual division. As Thomas Nagel observed, they have "too much unity to say 'two', yet too much separation to say 'one'."
+[Split-brain patients](/topics/split-brain-consciousness/) have their corpus callosum severed. The classic interpretation: synchronic unity divides—each hemisphere processes its visual half independently. Yet subject unity appears more resilient. Patients don't report feeling like two people; they maintain a unified sense of self despite perceptual division. As Thomas Nagel observed, they show too much laboratory-elicited division to count as one mind, yet an integration in ordinary life too complete to count as two.
 
 Recent research (Pinto et al., 2025) complicates the picture: even minimal corpus callosum fibers can maintain full interhemispheric synchronization, suggesting redundant unity mechanisms that don't reduce to anatomical connectivity.
 

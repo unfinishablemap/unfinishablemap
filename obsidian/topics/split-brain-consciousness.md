@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-08-04T00:47:24+00:00
+ai_modified: 2026-08-04T02:24:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ This selective pattern — partial synchronic fracture, preserved diachronic uni
 
 ## Nagel's Indeterminacy Thesis
 
-Thomas Nagel's 1971 "Brain Bisection and the Unity of Consciousness" examined five possible interpretations and rejected all: "There is no whole number of 'centres of consciousness' in brain bisection patients: there is too much unity... to say 'two', yet too much separation in the specially contrived laboratory situations to say 'one'."
+Thomas Nagel's 1971 "Brain Bisection and the Unity of Consciousness" examined five possible interpretations and rejected all of them. Against the two-minds reading he objected that "the psychological integration displayed by the patients in ordinary life is so complete that I do not believe it is possible to accept that conclusion, nor any conclusion involving the ascription to them of a whole number of minds."
 
 On Nagel's diagnosis the problem isn't that we lack data. Our concept of "a single unified mind" may not correspond to anything real, and "How many minds does a split-brain patient have?" may be malformed — like asking "How many heaps does this sand make?"
 

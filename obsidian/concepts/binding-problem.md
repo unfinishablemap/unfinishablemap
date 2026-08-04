@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-08-02T11:34:43+00:00
+ai_modified: 2026-08-04T02:24:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ For the full philosophical argument that this structural failure is in principle
 
 [[split-brain-consciousness|Split-brain patients]] offer natural experiments. Classic findings suggested consciousness splits when the corpus callosum is severed. But recent research (Santander et al., 2025) found as little as a centimetre of intact posterior callosal fibres can sustain full interhemispheric integration, with no behavioural signs of a disconnection syndrome.
 
-Nagel argued split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity is more resilient than classical theories predict—pointing toward binding mechanisms that transcend local neural correlation.
+Nagel argued split-brain patients show too much laboratory-elicited division to count as one mind, yet an integration in ordinary life too complete to count as two. Phenomenal unity is more resilient than classical theories predict—pointing toward binding mechanisms that transcend local neural correlation.
 
 General anesthesia and dreamless sleep dissociate computational from phenomenal binding: the brain coordinates without producing unified experience. Research on organisms at consciousness boundaries (Hydra, C. elegans, slime molds) shows classical integration in systems that lack behavioural markers of unified consciousness, consistent with phenomenal unity requiring something beyond information integration.
 
