@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T05:09:44+00:00
+ai_modified: 2026-08-04T05:17:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 05:17 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-08-04
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro) — all three audited the same single article, `topics/phenomenology-of-memory-and-the-self`
+- **Clusters**: 7 convergent (3 unanimous, 4 at 2/3), 5 singleton, 2 divergent
+- **Tasks upgraded**: 2 (P2→P1: predictive-processing self-model rival; P2→P1: confession-to-status-change / congenial-paraphrase lens). A third convergent cluster (Tippett) had already been upgraded P2→P1 during per-review processing and is ratified rather than re-upgraded; the remaining four convergent clusters were already P1 and had no upgrade available.
+- **Tasks deduplicated**: 0
+- **Output**: [[reviews/outer-review-synthesis-2026-08-04]]
+- **Notes**: **The strongest cluster is the one all three reviewers reached by different routes.** C4 — the predictive-processing / self-model rival that grants the whole phenomenology and denies only the metaphysics — was named directly by Claude, reached through the discrimination problem by Gemini, and reached through the eliminativism framing by ChatGPT ("the strongest non-eliminative rival: one that accepts the phenomenological datum, explains its cognitive role and denies only the dualist metaphysical inference"). It was the cycle's only 3/3 cluster not already at P1, hence the upgrade. Claude's framing of it as "the documented corpus-wide blind spot" is **disputed** — 127 live articles engage that literature and a research note covers Metzinger in depth — so the repair is local to the memory/self cluster, not a site-wide mandate. **C1/C2 are the dominant pattern**: the article names what would weaken it, neutralises each named weakener by hard-problem relocation, and asserts the contested pastness quale in the expository register before its rivals appear. All three reviewers hit this; the owning task was already P1. **C7's upgrade carries a scope restriction rather than a free hand.** Its governance half — a gate converting confession into a binding status change — is the same proposal the operator reserved on 2026-08-03 under a NEEDS-HUMAN entry that says explicitly not to mint a P0–P3 from it, so the upgrade does **not** license a loop fork to build the gate; the executable half is Claude's separable congenial-paraphrase-fidelity lens, whose worked instance is this cycle's Tippett reversal. The partly-overlapping ChatGPT methodology task was left at P2 and cross-referenced so the shared item is not implemented twice. **Correlated error was excluded from convergence**: Claude and Gemini both concluded Parfit is evaded, both without opening `concepts/parfit-reductionism`, so that pairing is recorded as one mistake rather than a two-vote finding — likewise Gemini's legs of C5 and C6, where it arrived at real defects with unusable citations and, for C5, while auditing the wrong article. **Nothing was deduplicated** because per-review processing had already folded each reviewer's leg into the existing tasks as its review landed; with a shared subject the synthesis pass's work is weighting, not merging. **Parser hazard handled**: each rewritten task keeps its singular `- **Review file**:` line alongside the new plural one, since `processor.py:153` matches the singular exactly and would otherwise silently drop the review pointer ([[combine-plural-review-files-line-blinds-parser]]); re-parsed after editing and all 10 tasks retain their pointers and priorities. **Standing risk**: five of the ten open tasks from this cycle target one article, three of them now P1 — sequence, do not parallelise ([[outer-review-same-file-task-pileup]]).
 
 ## 2026-08-04 05:08 UTC - literature-drift-review
 - **Status**: Success
